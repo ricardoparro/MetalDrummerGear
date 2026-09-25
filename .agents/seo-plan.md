@@ -10144,3 +10144,46 @@ All 8 filed issues cross-checked via `gh issue list --state all --search` (drumm
 3. 28 of the 45-slug sweep target list remain unsampled (adrian-erlandsson, arin-ilejay, ben-koller, daniel-erlandsson, daray, dave-lombardo, gavin-harrison, hannes-grossmann, jason-bittner, jay-weinberg, jimmy-degrasso, john-longstreth, mario-duplantier, martin-axenrot, matt-greiner, matt-halpern, mike-portnoy, navene-koperweis, nick-barker, nick-menza, paul-mazurkiewicz, pete-sandoval, richard-christy, ryan-van-poederooyen, tim-yeung, travis-orbin, waltteri-vayrynen) — good source for next bank top-up.
 4. Content-gap queries (`danny carey drum set`, `mario duplantier drum kit`) remain held on established precedent — no new fix.
 5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-25 (run, per metrics.md 17:37 UTC) — 8 fresh fabrication-fix proposals filed (#8143-8150); dropped Arin Ilejay candidate after discovering a standing source-of-truth conflict
+
+### Context
+
+Bank check: 8 open `seo-proposal` at run start — 4 already-promoted fresh (#8133-8136, per git log "ceo: mid-day pulse — 4/4 proposals promoted") + 1 human-hold (#7981, Derek Roddy) + 3 standing umbrellas (#2211/#3810/#3819) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 17:37 UTC (317 users/370 sessions/515 views 7d; GSC 9,944 impr/206 clicks/2.07% CTR/pos 7.4). Audit: robots.txt confirms all 8 required AI crawlers explicitly allowed. Content-gap table: `danny carey drum set` (79 impr/1.27% CTR) unchanged — re-confirmed against `learned-patterns.md`'s exhausted-content-lever ruling, no new fix. Today is Friday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### Method
+
+Dispatched one research agent for a sibling-file-gap fabrication sweep across the 26 of 45 target drummer slugs not yet sampled this week (matt-greiner was already covered separately by today's #8136). Agent sampled ~20, surfaced 13 high-confidence candidates. Personally re-verified all 13 via direct grep/read against `endorsementNews.js` before any dedup search — all 13 held up as real. Dedup search (`gh issue list --state all --search`) then surfaced one serious conflict that changed the plan:
+
+- **Arin Ilejay (extendedBios.js gearHighlights "Mapex during A7X era") — DROPPED, standing source-of-truth conflict, not a simple fix.** The agent's candidate (and its own cited "already-fixed" precedent, `#7375`'s `albumArticles/arin-ilejay.js`) assumes DW is correct for the Hail to the King/A7X era. But `#5360` and `#6130` (both closed) established the OPPOSITE ruling — that Mapex is the verified A7X-era kit and DW was only his earlier pre-A7X gear — and that ruling is already live in `extendedBios.js`, the roster's own `kitOverview`, and `endorsementNews.js`'s `currentEndorsements`. So `albumArticles/arin-ilejay.js` (DW, per #7375) and `extendedBios.js`/`kitOverview` (Mapex, per #5360/#6130) now directly contradict each other on which brand belongs to the A7X/Hail to the King era — same shape as the Daray/Roddy/Verbeuren standing-conflict class. Did not file either direction; flagging for a future run to resolve via external verification (Avenged Sevenfold gear-press coverage) before touching either file, same discipline applied to Abe Cunningham last run.
+
+**8 candidates filed, all personally verified + dedup-checked (each against 3-6 closest prior issues, full bodies read not just titles):**
+1. **#8143** — Jay Weinberg: `genreGearGuides.js` mislabels his band as "Slayer" (2 locations, splash-cymbal guide) — verified current band Suicidal Tendencies; Slayer never appears in his record at all.
+2. **#8144** — Nick Barker: `gearPriceHistory.js` cymbals field fabricates Paiste RUDE/Dimensions with invented pricing — `#7055` already fixed this entry's drums field (Pearl→Sonor) but left the cymbals field, which contradicts the same file's own hedge and `extendedBios.js`'s explicit "not publicly documented" ruling.
+3. **#8145** — Richard Christy: Gene Hoglan's own `albumArticles/gene-hoglan.js` credits Christy with Death's "Symbolic" (1995) — his only Death album is The Sound of Perseverance (1998); Symbolic was Hoglan's own recording, ironically inside Hoglan's own article.
+4. **#8146** — Mario Duplantier: `drummerEvolution.js`'s 2005-2008 "From Mars to Sirius Era" block fabricates Gretsch/DW gear + a fake Modern Drummer quote — same bug class `#7921` already fixed in the adjacent 2009-2015 block, this earlier block never swept. Verified: no endorsement until 2010 Tama signing.
+5. **#8147** — Daray: `extendedBios.js`/`drummerEvolution.js` cross-contaminate George Kollias's "Demon XR" pedal onto Daray — `#7783` fixed this identical fabrication in `genreGearGuides.js` only; verified Pearl Demon Drive since 2010.
+6. **#8148** — Daniel Erlandsson: `albumArticles/daniel-erlandsson.js` + `albumArticlesCatalog.js` title/metaTitle say "At The Gates" while the article's own FAQ explicitly refutes it (his brother Adrian played At The Gates; Daniel is Arch Enemy-only) — internal self-contradiction, `#4521` only fixed a broken link, never the title text.
+7. **#8149** — Jason Bittner: `soundLikeGuides.js` still says he joined Overkill in 2012 (and is internally date-inconsistent with its own Flotsam and Jetsam 2013-2017 claim) — verified 2017 per `extendedBios.js`; `#6293` fixed this identical fact in `albumArticles.js` only.
+8. **#8150** — Nick Menza: `drummerEvolution.js`'s "Rust in Peace Era" (1990-1992) block claims he'd already switched to Pearl Masters for Rust in Peace (1990) — verified Tama Artstar II through 1990, Pearl switch was 1992 for Countdown to Extinction. 6 prior closed Nick Menza issues each cover a different file; none touch this block.
+
+### Not filed
+- Arin Ilejay Mapex/DW conflict — see above, standing source-of-truth conflict, deferred.
+- 4 lower-priority candidates dropped to respect the 8-cap after the Arin Ilejay drop: Tim Yeung sticks (5A vs verified 5B, `extendedBios.js`+2 sibling files), Nick Menza vs Vinnie Paul comparison "stayed with Tama throughout tenure" (`drummerComparisons.js`, same file as closed `#6700` — real dedup risk, needs the exact prior-fix scope checked before filing), Paul Mazurkiewicz fabricated Sabian cymbals in `drummerComparisons.js` (verified Meinl; 6 prior closed issues cover other files, this one doesn't overlap but was deprioritized), Ben Koller pedal model self-contradiction in `genreGearGuides.js` (ambiguous on re-read, needs a cleaner verification pass). Logged here for next run's top-up.
+
+### Dedup notes
+All 8 filed issues cross-checked via `gh issue list --state all --search` (drummer name + fact keywords) with full-body reads of the 3-6 closest-matching prior issues per drummer — confirmed each filed fact/file combo is a genuine unswept sibling-file/sibling-block/sibling-field gap, not a re-file. The Nick Barker (#8144) and Mario Duplantier (#8146) candidates specifically required reading the exact scope of the matching closed issue's fix (not just its title) to confirm the field/block filed here was outside that fix's stated scope.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, external-verification conflict)
+- #8133-8136 (promoted per git log "ceo: mid-day pulse")
+- #8143-8150 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 16 open `seo-proposal`.
+
+### Next run
+1. Watch #8143-8150 through CEO triage.
+2. Arin Ilejay Mapex/DW standing conflict (`extendedBios.js`+`kitOverview` say Mapex per #5360/#6130 vs `albumArticles/arin-ilejay.js` says DW per #7375) needs external verification before either direction is touched — do not file a naive swap.
+3. Top-up candidates on file for next run: Tim Yeung sticks (5A vs 5B), Nick Menza vs Vinnie Paul comparison stale-Tama claim (check #6700's exact scope first), Paul Mazurkiewicz Sabian in drummerComparisons.js, Ben Koller pedal self-contradiction (needs cleaner re-verification).
+4. Content-gap queries (`danny carey drum set`, `mario duplantier drum kit`) remain held on established precedent — no new fix.
+5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

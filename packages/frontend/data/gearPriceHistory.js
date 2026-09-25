@@ -860,8 +860,10 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Undertow (1993) / Aenima (1996)',
     profileImage: '/images/drummers/danny-carey.webp',
 
-    summary: "Danny Carey's mid-1990s setup for Tool's defining Undertow and Aenima era — one of the most unusual and technically sophisticated configurations in alternative metal history. Carey blended a Sonor Phonic Plus acoustic kit with electronic percussion, gongs, and unconventional tunings influenced by his background in jazz and his interest in sacred geometry and polyrhythmic composition. This hybrid approach, rare for heavy guitar-driven music in 1994, produced the foundation for tracks like 'Prison Sex,' 'Sober,' 'Eulogy,' and the Aenima title track. The setup represented roughly $5,645 in mid-1990s dollars — a substantial investment driven by the electronic components that distinguished Carey from contemporaries. Adjusted for 2026 inflation, that figure reaches approximately $12,480, not counting the appreciating collector value of the vintage electronics. No drummer in heavy music has since replicated Carey's specific intersection of groove, odd time, and ritual-inflected sonic texture. The Sonor Phonic Plus shells provided the warm, open resonance that Tool's dynamic production demanded: Adam Jones and Justin Chancellor's instruments occupied the mid and low frequencies, leaving Carey's drums needing both presence and sustain to project through the dense sonic canvas. The Roland R-8 trigger integration was not a concession to commercial convenience but an artistic choice — Carey used the layered samples to extend the acoustic kit's timbral vocabulary into territory no acoustic instrument could reach, a philosophy that foreshadowed his later adoption of Moog synthesizers and MIDI-controlled gongs. The Paiste Signature cymbals that anchored his setup from this earliest Tool era offered the dynamic range and clarity Carey needed, allowing individual cymbal voices to articulate clearly within the band's signature wall of sound.",
+    summary: "Danny Carey's mid-1990s setup for Tool's defining Undertow and Aenima era — one of the most unusual and technically sophisticated configurations in alternative metal history. Carey blended a Sonor Phonic Plus acoustic kit with electronic percussion, gongs, and unconventional tunings influenced by his background in jazz and his interest in sacred geometry and polyrhythmic composition. This hybrid approach, rare for heavy guitar-driven music in 1994, produced the foundation for tracks like 'Prison Sex,' 'Sober,' 'Eulogy,' and the Aenima title track. The setup represented roughly $4,595 in mid-1990s dollars — a substantial investment driven by the electronic components that distinguished Carey from contemporaries. Adjusted for 2026 inflation, that figure reaches approximately $10,159, not counting the appreciating collector value of the vintage electronics. (No verified source documents a specific snare or hardware brand for Carey in this pre-endorsement era, so this total covers only drums, cymbals, sticks, heads, and electronics.) No drummer in heavy music has since replicated Carey's specific intersection of groove, odd time, and ritual-inflected sonic texture. The Sonor Phonic Plus shells provided the warm, open resonance that Tool's dynamic production demanded: Adam Jones and Justin Chancellor's instruments occupied the mid and low frequencies, leaving Carey's drums needing both presence and sustain to project through the dense sonic canvas. The Roland R-8 trigger integration was not a concession to commercial convenience but an artistic choice — Carey used the layered samples to extend the acoustic kit's timbral vocabulary into territory no acoustic instrument could reach, a philosophy that foreshadowed his later adoption of Moog synthesizers and MIDI-controlled gongs. The Paiste Signature cymbals that anchored his setup from this earliest Tool era offered the dynamic range and clarity Carey needed, allowing individual cymbal voices to articulate clearly within the band's signature wall of sound.",
 
+    // Issue #8135: snare and hardware omitted — drummerEvolution.js's own record for this
+    // era ('Brand unconfirmed' for both) is the source of truth; no verified catalog specifics exist.
     setup: {
       drums: {
         item: 'Sonor Phonic Plus',
@@ -878,21 +880,6 @@ export const GEAR_PRICE_HISTORY = {
           link: 'sonor-sq2-heavy-beech-drums',
         },
       },
-      snare: {
-        item: 'Pearl Free-Floating Steel 14"x5.5"',
-        model: 'Free-floating system',
-        specs: '14"x5.5" steel shell, free-floating lugs',
-        originalPrice: 300,
-        year: 1994,
-        source: 'Pearl snare catalog 1994',
-        notes: 'The free-floating design maximizes resonance, important for Carey\'s wide dynamic range — from delicate jazz-influenced passages to explosive metal hits.',
-        vintageValue2026: 550,
-        modernEquivalent: {
-          item: 'Pearl Free-Floating Steel 14"x6.5"',
-          price: 550,
-          link: 'pearl-sensitone-elite',
-        },
-      },
       cymbals: {
         item: 'Paiste Signature Series',
         model: 'Signature series + gong',
@@ -906,21 +893,6 @@ export const GEAR_PRICE_HISTORY = {
           item: 'Paiste Signature Series Box Set + China',
           price: 1800,
           link: 'paiste-signature-series-cymbals',
-        },
-      },
-      hardware: {
-        item: 'DW 5002 Double Pedal + Pearl Hardware',
-        model: 'DW 5002 chain drive + Pearl stands',
-        specs: 'Chain drive double pedal, hi-hat stand, 5 boom cymbal stands, gong stand, snare stand',
-        originalPrice: 750,
-        year: 1994,
-        source: 'DW and Pearl hardware retail 1994',
-        notes: 'DW 5002 for Carey\'s complex double bass patterns. Additional stands required for gong and extended cymbal array.',
-        vintageValue2026: 800,
-        modernEquivalent: {
-          item: 'Pearl Demon Drive + hardware pack',
-          price: 900,
-          link: 'pearl-demon-drive-double-pedal',
         },
       },
       sticks: {
@@ -971,20 +943,20 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     totals: {
-      originalTotal: 5645,
+      originalTotal: 4595,
       inflationAdjusted2026: null, // Calculated dynamically
-      vintageTotal2026: 6500,
-      modernEquivalentTotal: 8584,
+      vintageTotal2026: 5150,
+      modernEquivalentTotal: 7134,
     },
 
     priceEvolution: [
-      { year: 1994, price: 5645, label: 'Original Purchase', event: 'Undertow touring / Aenima pre-production' },
-      { year: 1996, price: 6000, label: 'Aenima era', event: 'Aenima releases to critical acclaim' },
-      { year: 2001, price: 7500, label: 'Lateralus era', event: 'Tool\'s commercial peak' },
-      { year: 2006, price: 9000, label: '10,000 Days', event: 'Tool hiatus drives catalog demand' },
-      { year: 2019, price: 12500, label: 'Fear Inoculum', event: 'First new album in 13 years' },
-      { year: 2022, price: 13500, label: 'Streaming uplift', event: 'Tool catalog hits streaming' },
-      { year: 2026, price: 12480, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+      { year: 1994, price: 4595, label: 'Original Purchase', event: 'Undertow touring / Aenima pre-production' },
+      { year: 1996, price: 4884, label: 'Aenima era', event: 'Aenima releases to critical acclaim' },
+      { year: 2001, price: 6105, label: 'Lateralus era', event: 'Tool\'s commercial peak' },
+      { year: 2006, price: 7326, label: '10,000 Days', event: 'Tool hiatus drives catalog demand' },
+      { year: 2019, price: 10175, label: 'Fear Inoculum', event: 'First new album in 13 years' },
+      { year: 2022, price: 10989, label: 'Streaming uplift', event: 'Tool catalog hits streaming' },
+      { year: 2026, price: 10159, label: 'Current adjusted', event: 'Inflation-adjusted value' },
     ],
 
     sources: [
@@ -996,7 +968,7 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Danny Carey 1994 Tool Drum Setup Cost | Undertow Era Gear Prices",
-      description: "How much did Danny Carey's 1994 Tool drum kit cost? Original ~$5,645, inflation-adjusted to ~$12,480 today. Complete Sonor Phonic Plus + electronics breakdown from the Undertow/Aenima era.",
+      description: "How much did Danny Carey's 1994 Tool drum kit cost? Original ~$4,595, inflation-adjusted to ~$10,159 today. Complete Sonor Phonic Plus + electronics breakdown from the Undertow/Aenima era.",
       keywords: ['danny carey 1994 setup', 'tool drum kit cost', 'danny carey 90s gear', 'undertow era drums', 'danny carey gear today'],
     },
   },

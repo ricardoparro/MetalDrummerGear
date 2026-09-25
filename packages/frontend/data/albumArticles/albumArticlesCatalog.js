@@ -6528,26 +6528,6 @@ export const ALBUM_ARTICLES_META = {
     "dateModified": "2026-07-01",
     "isAlbumArticle": true
   },
-  "shogun-drum-setup": {
-    "moduleFile": "nick-augusto",
-    "slug": "shogun-drum-setup",
-    "albumTitle": "Shogun",
-    "artist": "Trivium",
-    "drummer": "Nick Augusto",
-    "drummerId": 26,
-    "relatedDrummerSlug": "nick-augusto",
-    "relatedDrummers": [
-      "nick-augusto"
-    ],
-    "year": 2008,
-    "genre": "Progressive Thrash Metal / Metalcore",
-    "title": "Shogun Drum Setup: Nick Augusto's Progressive Thrash Masterpiece (Trivium, 2008)",
-    "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's Shogun (2008). Pearl Reference Pure kit, Sabian AAX cymbals, Pearl Demon Drive pedal, and techniques behind Trivium's magnum opus.",
-    "ogImage": "/images/albums/shogun-drum-setup.webp",
-    "datePublished": "2026-06-24",
-    "dateModified": "2026-06-24",
-    "isAlbumArticle": true
-  },
   "in-waves-drum-setup": {
     "moduleFile": "nick-augusto",
     "slug": "in-waves-drum-setup",
@@ -6562,7 +6542,7 @@ export const ALBUM_ARTICLES_META = {
     "year": 2011,
     "genre": "Thrash Metal / Metalcore",
     "title": "In Waves Drum Setup: Nick Augusto's Breakthrough Kit (Trivium, 2011)",
-    "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's In Waves (2011) — the Pearl Reference Pure kit, Sabian AAX cymbals, and Pearl Demon Drive pedal behind Trivium's commercial breakthrough.",
+    "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's In Waves (2011) — the Pearl Reference Pure kit and Sabian AAX cymbals behind Trivium's commercial breakthrough.",
     "ogImage": "/images/albums/in-waves-drum-setup.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",

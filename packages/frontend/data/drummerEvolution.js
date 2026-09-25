@@ -19913,7 +19913,7 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           hardware: {
-            item: 'Pearl Demon XR Double Pedal',
+            item: 'Pearl Demon Drive Double Pedal',
             details: 'Direct-drive double pedal',
             notes: 'First documented hardware endorsement of his Dimmu Borgir tenure.',
             change: CHANGE_TYPES.NEW,
@@ -19979,7 +19979,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Pearl Demon XR Double Pedal',
+            item: 'Pearl Demon Drive Double Pedal',
             details: 'Unchanged',
             notes: 'No change from the previous era.',
             change: null,
@@ -20019,7 +20019,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Daray play?',
-        a: 'Daray played a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14"x5.5" Brass snare during Dimmu Borgir\'s Abrahadabra era (2010), before switching to a Tama Starclassic Performer B/B (Piano Black) kit with a Tama S.L.P. Black Brass snare by his July 5, 2014 TAMA 40th Anniversary Drum Festival appearance — the Tama rig documented through Eonian (2018) and Grand Serpent Rising (2026). His Paiste RUDE & 2002 Series cymbals and Pearl Demon XR double pedal have remained constant.',
+        a: 'Daray played a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14"x5.5" Brass snare during Dimmu Borgir\'s Abrahadabra era (2010), before switching to a Tama Starclassic Performer B/B (Piano Black) kit with a Tama S.L.P. Black Brass snare by his July 5, 2014 TAMA 40th Anniversary Drum Festival appearance — the Tama rig documented through Eonian (2018) and Grand Serpent Rising (2026). His Paiste RUDE & 2002 Series cymbals and Pearl Demon Drive double pedal have remained constant.',
       },
       {
         q: 'Was Daray in Vader before Dimmu Borgir?',

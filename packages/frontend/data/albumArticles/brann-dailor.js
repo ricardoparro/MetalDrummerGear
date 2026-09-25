@@ -446,7 +446,7 @@ export const articles = {
     "dateModified": "2026-06-20",
     "author": "MetalForge Editorial",
     "title": "Brann Dailor Drum Setup — Mastodon Gear Guide",
-    "description": "Complete breakdown of Brann Dailor's drum setup with Mastodon. Tama Starclassic Maple kit, Istanbul Agop cymbals, Vater sticks — the full gear guide for progressive sludge metal's most melodic drummer, covering Leviathan through Emperor of Sand.",
+    "description": "Complete breakdown of Brann Dailor's drum setup with Mastodon. Tama Starclassic Maple kit, Meinl cymbals, Vater sticks — the full gear guide for progressive sludge metal's most melodic drummer, covering Leviathan through Emperor of Sand.",
     "seoKeywords": [
       "brann dailor drum kit",
       "brann dailor drum setup",
@@ -466,7 +466,7 @@ export const articles = {
       "keyPoints": [
         "Co-founder of Mastodon (2000) — one of metal's most critically acclaimed bands",
         "Long-time Tama Starclassic Maple kit user throughout Mastodon's formative albums",
-        "Istanbul Agop cymbals for complex, warm, musical tones",
+        "Meinl cymbals for complex, warm, musical tones",
         "Vater drumsticks across touring and studio work",
         "Vocalist as well as drummer — rare dual role at the highest level",
         "Four Grammy nominations with Mastodon; jazz-influenced melodic approach in a sludge/prog metal context",
@@ -514,43 +514,43 @@ export const articles = {
       "estimatedValue": "$400–700 (Tama snare)"
     },
     "cymbals": {
-      "title": "Istanbul Agop: The Warm Turkish Voice of Mastodon",
-      "brand": "Istanbul Agop",
-      "series": "Istanbul Agop Traditional / Xist Series",
+      "title": "Meinl: The Warm Voice of Mastodon",
+      "brand": "Meinl",
+      "series": "Meinl Byzance / Mb20 Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Istanbul Agop 14\" Traditional Hi-Hats",
+          "model": "Meinl 14\" Byzance Traditional Hi-Hats",
           "position": "Left side",
-          "notes": "Warm, complex, hand-hammered Turkish tone — musical rather than aggressive"
+          "notes": "Warm, complex, hand-hammered B20 bronze tone — musical rather than aggressive"
         },
         {
           "type": "Crash",
-          "model": "Istanbul Agop 18\" Traditional Crash",
+          "model": "Meinl 18\" Byzance Traditional Crash",
           "position": "Left crash",
           "notes": "Dark, warm crash with rich overtones — adds musical wash rather than sharp attack"
         },
         {
           "type": "Crash",
-          "model": "Istanbul Agop 20\" Traditional Crash",
+          "model": "Meinl 20\" Byzance Traditional Crash",
           "position": "Right crash",
           "notes": "Fuller crash for bigger sections; dark complex character consistent with hi-hat"
         },
         {
           "type": "Ride",
-          "model": "Istanbul Agop 22\" Traditional Ride",
+          "model": "Meinl 22\" Byzance Traditional Ride",
           "position": "Right side",
           "notes": "Complex bell, washy body — ride doubles as atmospheric colour layer"
         },
         {
           "type": "China",
-          "model": "Zildjian 18\" China or Istanbul Agop China",
+          "model": "Zildjian 18\" China or Meinl Byzance China",
           "position": "Over rack toms",
           "notes": "Selective use for aggressive accent moments on heavier passages"
         }
       ],
-      "description": "Brann Dailor's use of Istanbul Agop cymbals is one of the most musically logical gear choices in metal drumming. Istanbul Agop, the Istanbul-based company founded by Agop Tomurcuk and continuing the Turkish hand-hammering tradition, produces cymbals with a warmth, complexity, and dark musicality that sets them apart from the brighter, more aggressive options common in metal.\n\nFor a drummer whose playing is explicitly melodic and compositional, cymbals that sing rather than shout are essential. Istanbul Agop's Traditional series — hand-hammered, unlacquered, with complex overtone development — produces sounds that develop over time. A crash doesn't simply attack and decay; it blooms, revealing overtones as it opens and subsiding with musical character. This tonal complexity suits Dailor's approach perfectly: his cymbal work is as much about colour and atmosphere as about rhythmic punctuation.\n\nThe 14\" Traditional hi-hats provide the foundation for Dailor's intricate patterns. Mastodon's rhythmic complexity — particularly on *Crack the Skye* and *The Hunter* — requires hi-hats that register both subtle open-close variations and fully-open washing passages with equal musical character. Istanbul Agop's warmth means even the fastest, most articulate hi-hat patterns retain musical quality rather than becoming machine-gun noise.\n\nThe crash selection across 18\" and 20\" covers Mastodon's dynamic range. The 18\" speaks quickly for the abrupt accents that punctuate heavy riffs; the 20\" provides the fuller crash for structural section endings. Both share the dark, complex character consistent with Istanbul Agop's house sound.\n\nThe ride cymbal's washy, atmospheric quality serves *Crack the Skye* especially well — the album's more progressive, ambient passages benefit from a ride that adds textural colour rather than simply marking time. Dailor uses the ride as a second atmosphere layer rather than merely a surface for stick patterns.\n\nZildjian cymbals have also appeared in Dailor's setup across various periods, particularly for specific accent or effect needs where Istanbul Agop's darker voice might not serve.",
-      "estimatedValue": "$2,000–3,500 (full Istanbul Agop setup)"
+      "description": "Brann Dailor's use of Meinl cymbals is one of the most musically logical gear choices in metal drumming. Meinl's Byzance series is hand-hammered and lathed in Turkey using traditional B20 bronze techniques, producing cymbals with a warmth, complexity, and dark musicality that sets them apart from the brighter, more aggressive options common in metal.\n\nFor a drummer whose playing is explicitly melodic and compositional, cymbals that sing rather than shout are essential. Meinl's Byzance Traditional series — hand-hammered, unlacquered, with complex overtone development — produces sounds that develop over time. A crash doesn't simply attack and decay; it blooms, revealing overtones as it opens and subsiding with musical character. This tonal complexity suits Dailor's approach perfectly: his cymbal work is as much about colour and atmosphere as about rhythmic punctuation.\n\nThe 14\" Byzance Traditional hi-hats provide the foundation for Dailor's intricate patterns. Mastodon's rhythmic complexity — particularly on *Crack the Skye* and *The Hunter* — requires hi-hats that register both subtle open-close variations and fully-open washing passages with equal musical character. Meinl's warmth means even the fastest, most articulate hi-hat patterns retain musical quality rather than becoming machine-gun noise.\n\nThe crash selection across 18\" and 20\" covers Mastodon's dynamic range. The 18\" speaks quickly for the abrupt accents that punctuate heavy riffs; the 20\" provides the fuller crash for structural section endings. Both share the dark, complex character consistent with the Byzance house sound.\n\nThe ride cymbal's washy, atmospheric quality serves *Crack the Skye* especially well — the album's more progressive, ambient passages benefit from a ride that adds textural colour rather than simply marking time. Dailor uses the ride as a second atmosphere layer rather than merely a surface for stick patterns.\n\nZildjian cymbals have also appeared in Dailor's setup across various periods, particularly for specific accent or effect needs where Meinl's darker voice might not serve.",
+      "estimatedValue": "$2,000–3,500 (full Meinl setup)"
     },
     "hardware": {
       "title": "Pedals, Sticks, and Hardware",
@@ -606,7 +606,7 @@ export const articles = {
         "gear": {
           "drums": "Tama (early Starclassic configuration)",
           "snare": "Tama snare — developing setup",
-          "cymbals": "Various / early Istanbul Agop usage",
+          "cymbals": "Various / early Meinl usage",
           "hardware": "Tama hardware throughout"
         },
         "notes": "Remission established Mastodon as a serious force in American heavy music. Dailor's flowing, melodic approach was present from the beginning — already distinct from conventional metal drumming in its jazz-influenced constant motion."
@@ -622,7 +622,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Maple — established as primary kit",
           "snare": "Tama Starphonic / Artstar steel or brass snare",
-          "cymbals": "Istanbul Agop Traditional series",
+          "cymbals": "Meinl Byzance Traditional series",
           "hardware": "Tama Iron Cobra single pedal; Vater sticks"
         },
         "notes": "Leviathan (2004) is the album that put Mastodon on the global map. Dailor's drumming on \"Blood and Thunder,\" \"Hearts Alive,\" and \"Aqua Dementia\" introduced his melodic tom language to the world. The Tama Starclassic Maple's warmth is audible across the recording — these are drums tuned to sing, not to punch."
@@ -637,10 +637,10 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Maple (refined configuration)",
           "snare": "Tama snare — tuned for the album's dynamic range",
-          "cymbals": "Istanbul Agop Traditional series — full setup",
+          "cymbals": "Meinl Byzance Traditional series — full setup",
           "hardware": "Tama pedal; Vater sticks; Roc-N-Soc throne"
         },
-        "notes": "Crack the Skye (2009) is Dailor's masterwork. The title track, \"The Czar,\" \"Oblivion,\" and \"Pendulous Skin\" feature some of the most melodically sophisticated drumming ever recorded on a metal album. The Istanbul Agop cymbals are central to the record's atmospheric quality — their warmth and complexity complement the album's progressive, psychedelic character."
+        "notes": "Crack the Skye (2009) is Dailor's masterwork. The title track, \"The Czar,\" \"Oblivion,\" and \"Pendulous Skin\" feature some of the most melodically sophisticated drumming ever recorded on a metal album. The Meinl Byzance cymbals are central to the record's atmospheric quality — their warmth and complexity complement the album's progressive, psychedelic character."
       },
       {
         "era": "The Hunter / Once More 'Round the Sun Era",
@@ -653,10 +653,10 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Maple (consistent configuration)",
           "snare": "Tama snare",
-          "cymbals": "Istanbul Agop / Zildjian hybrid setup",
+          "cymbals": "Meinl / Zildjian hybrid setup",
           "hardware": "Full Tama hardware; Vater sticks"
         },
-        "notes": "The Hunter (2011) showed Mastodon streamlining their sound for greater accessibility without abandoning complexity. Dailor's vocal contributions expanded significantly — his dual role as drummer and vocalist became central to Mastodon's identity. His gear remained consistent with the established Tama / Istanbul Agop foundation."
+        "notes": "The Hunter (2011) showed Mastodon streamlining their sound for greater accessibility without abandoning complexity. Dailor's vocal contributions expanded significantly — his dual role as drummer and vocalist became central to Mastodon's identity. His gear remained consistent with the established Tama / Meinl foundation."
       },
       {
         "era": "Emperor of Sand Era",
@@ -668,7 +668,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Maple (long-established setup)",
           "snare": "Tama snare",
-          "cymbals": "Istanbul Agop / Zildjian setup",
+          "cymbals": "Meinl / Zildjian setup",
           "hardware": "Tama hardware; Vater sticks throughout"
         },
         "notes": "Emperor of Sand (2017) was nominated for the Grammy for Best Metal Performance. Written during a period of illness affecting band members' family, the album has an emotional weight that Dailor's drumming and vocals serve throughout. \"Show Yourself\" became Mastodon's biggest radio hit, with Dailor's melodic drumming providing the irresistible forward motion that made it commercially accessible without sacrificing musical depth."
@@ -681,7 +681,7 @@ export const articles = {
         "Melodic tom integration — toms used throughout grooves, not just fills, tuned in musical intervals",
         "Jazz ghost note vocabulary applied to heavy metal context — constant soft snare motion between accents",
         "Single bass drum creative placement — groove and feel over double-kick speed",
-        "Istanbul Agop atmospheric cymbal use — cymbals as textural colour, not just rhythmic markers",
+        "Meinl atmospheric cymbal use — cymbals as textural colour, not just rhythmic markers",
         "Simultaneous vocalist-drummer performance — complex drum parts executed while singing harmonies and leads",
         "Dynamic range spanning whisper-quiet ghost note passages to full-volume metal — full spectrum engagement"
       ]
@@ -693,7 +693,7 @@ export const articles = {
       },
       {
         "question": "What cymbals does Brann Dailor use?",
-        "answer": "Brann Dailor plays Istanbul Agop cymbals, primarily from the Traditional series — hand-hammered Turkish cymbals known for their warm, complex, dark character. His setup includes 14\" Traditional hi-hats, crashes in 18\" and 20\", and a 22\" Traditional Ride. Istanbul Agop's warmth and musical complexity suit Dailor's compositional drumming philosophy: cymbals that sing and develop tonally rather than simply attacking and decaying. Zildjian cymbals have also appeared in his setup across various eras, particularly for specific accent needs. For more on Mastodon's sonic approach, see [Mastodon at MetalForge](/bands/mastodon)."
+        "answer": "Brann Dailor plays Meinl cymbals, primarily from the Byzance Traditional series — hand-hammered B20 bronze cymbals known for their warm, complex, dark character. His setup includes 14\" Traditional hi-hats, crashes in 18\" and 20\", and a 22\" Traditional Ride. Meinl's warmth and musical complexity suit Dailor's compositional drumming philosophy: cymbals that sing and develop tonally rather than simply attacking and decaying. Zildjian cymbals have also appeared in his setup across various eras, particularly for specific accent needs. For more on Mastodon's sonic approach, see [Mastodon at MetalForge](/bands/mastodon)."
       },
       {
         "question": "What sticks does Brann Dailor use?",
@@ -728,7 +728,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Why Brann Dailor's Setup Matters",
-      "content": "Brann Dailor's gear choices — Tama Starclassic Maple warmth, Istanbul Agop musical complexity, Vater precision, single-kick groove philosophy — are not arbitrary. Every element serves the central priority of his playing: melodic expression. The Tama maple shells sing because Dailor needs his toms to function as melodic instruments. The Istanbul Agop cymbals develop tonally because Dailor needs his cymbals to be atmospheric colour, not sharp noise. The single pedal is used because Dailor understands that Mastodon's music needs a groove, not a speed demonstration.\n\nThis is the lesson every student of Dailor's playing should extract: his technique and his gear are unified in service of a single musical philosophy. The flowing fills, the constant ghost notes, the melodic tom patterns — they exist because that's the kind of music Mastodon makes, and Dailor's setup is configured to make that music as expressively as possible.\n\nMastodon occupies a genuinely unique position in heavy music — too sludgy for progressive rock, too melodic for traditional sludge, too complex for conventional metal — and Brann Dailor's drumming is a large part of why. The Tama / Istanbul Agop setup has been the technical foundation behind five of the most important heavy albums of the 2000s and 2010s.\n\nFor drummers studying Dailor's approach, the gear is accessible: Tama Starclassic Maple shell packs are available at professional pricing, Istanbul Agop Traditional cymbals are distributed globally, and Vater sticks are standard fare. What's not immediately accessible is the musical philosophy — the jazz vocabulary, the melodic ear, the willingness to sacrifice simplicity for expressiveness. That's what separates Brann Dailor from every other metal drummer of his generation.\n\nFor the full career overview, biography, and deeper technique breakdowns:\n- **Full drummer profile**: [Brann Dailor at MetalForge](/drummer/brann-dailor)\n- **Signature lick breakdowns**: [Brann Dailor Lick Hub](/drummers/brann-dailor/licks)\n- **Kit overview**: [What's In Brann Dailor's Kit](/articles/whats-in-brann-dailors-kit)\n- **LLM summary**: [Brann Dailor Mastodon Drum Setup — LLM](/llms/articles/brann-dailor-mastodon-drum-setup.md)\n\nThe most important thing Brann Dailor teaches is not what he plays — it's why every stroke has musical intent. That philosophy, applied to any setup at any budget level, is what transforms percussion into composition."
+      "content": "Brann Dailor's gear choices — Tama Starclassic Maple warmth, Meinl musical complexity, Vater precision, single-kick groove philosophy — are not arbitrary. Every element serves the central priority of his playing: melodic expression. The Tama maple shells sing because Dailor needs his toms to function as melodic instruments. The Meinl cymbals develop tonally because Dailor needs his cymbals to be atmospheric colour, not sharp noise. The single pedal is used because Dailor understands that Mastodon's music needs a groove, not a speed demonstration.\n\nThis is the lesson every student of Dailor's playing should extract: his technique and his gear are unified in service of a single musical philosophy. The flowing fills, the constant ghost notes, the melodic tom patterns — they exist because that's the kind of music Mastodon makes, and Dailor's setup is configured to make that music as expressively as possible.\n\nMastodon occupies a genuinely unique position in heavy music — too sludgy for progressive rock, too melodic for traditional sludge, too complex for conventional metal — and Brann Dailor's drumming is a large part of why. The Tama / Meinl setup has been the technical foundation behind five of the most important heavy albums of the 2000s and 2010s.\n\nFor drummers studying Dailor's approach, the gear is accessible: Tama Starclassic Maple shell packs are available at professional pricing, Meinl Byzance Traditional cymbals are distributed globally, and Vater sticks are standard fare. What's not immediately accessible is the musical philosophy — the jazz vocabulary, the melodic ear, the willingness to sacrifice simplicity for expressiveness. That's what separates Brann Dailor from every other metal drummer of his generation.\n\nFor the full career overview, biography, and deeper technique breakdowns:\n- **Full drummer profile**: [Brann Dailor at MetalForge](/drummer/brann-dailor)\n- **Signature lick breakdowns**: [Brann Dailor Lick Hub](/drummers/brann-dailor/licks)\n- **Kit overview**: [What's In Brann Dailor's Kit](/articles/whats-in-brann-dailors-kit)\n- **LLM summary**: [Brann Dailor Mastodon Drum Setup — LLM](/llms/articles/brann-dailor-mastodon-drum-setup.md)\n\nThe most important thing Brann Dailor teaches is not what he plays — it's why every stroke has musical intent. That philosophy, applied to any setup at any budget level, is what transforms percussion into composition."
     }
   },
   "leviathan-drum-setup": {

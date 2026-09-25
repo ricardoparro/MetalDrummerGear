@@ -70328,7 +70328,7 @@ Jay Weinberg's touring cymbal setup runs a 10" splash within his broader Zildjia
             weight: "Medium-Thin"
           },
           usedBy: [
-            { name: "Jay Weinberg", band: "Slayer", note: "10\" splash within Zildjian K Custom touring rig" }
+            { name: "Jay Weinberg", band: "Suicidal Tendencies", note: "10\" splash within Zildjian K Custom touring rig" }
           ],
           verdict: "The best all-around pro splash for cutting accents with real tonal complexity.",
           rating: 4.7,
@@ -70625,7 +70625,7 @@ Blake Richardson runs the HH Duo Splash within his broader Sabian setup for Betw
       },
       {
         question: "Do I need a splash cymbal for metal drumming?",
-        answer: "It's not essential, but progressive and technical metal drummers — including Danny Carey (Tool), Mike Mangini (Dream Theater), Jay Weinberg (Slayer), and Art Cruz (Lamb of God) — all run a splash as a standard part of their touring setups for the extra accent and textural options it adds beyond a standard hi-hat, crash, and ride."
+        answer: "It's not essential, but progressive and technical metal drummers — including Danny Carey (Tool), Mike Mangini (Dream Theater), Jay Weinberg (Suicidal Tendencies), and Art Cruz (Lamb of God) — all run a splash as a standard part of their touring setups for the extra accent and textural options it adds beyond a standard hi-hat, crash, and ride."
       },
       {
         question: "What's the difference between a splash and a crash cymbal?",

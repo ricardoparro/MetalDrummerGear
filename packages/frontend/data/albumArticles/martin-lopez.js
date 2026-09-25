@@ -1519,9 +1519,9 @@ export const articles = {
         ],
         "description": "Lopez continues developing his musical voice with Soen.",
         "gear": {
-          "drums": "Pearl (currently)",
+          "drums": "Noble & Cooley Walnut shell pack",
           "snare": "Various",
-          "cymbals": "Sabian",
+          "cymbals": "Zildjian A/K Series",
           "hardware": "Modern equivalents"
         },
         "notes": "Soen allows Lopez to explore progressive territory with complete artistic freedom."

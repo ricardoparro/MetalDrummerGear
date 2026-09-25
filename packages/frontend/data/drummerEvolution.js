@@ -6966,10 +6966,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vater Player\'s Design Derek Roddy Model (VHDRW)',
-            details: 'Signature hickory model for extreme metal application',
-            notes: 'Signature Vater sticks reflecting his status as one of extreme metal\'s leading educators and performers.',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Vater 5B',
+            details: 'Standard hickory 5B for extreme metal application',
+            notes: 'Standard Vater 5B — a dependable, off-the-shelf diameter, not a signature model.',
+            change: CHANGE_TYPES.SWITCH,
           },
           heads: {
             item: 'Evans',
@@ -7040,9 +7040,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vater Player\'s Design Derek Roddy Model (VHDRW)',
-            details: 'Current production signature model',
-            notes: 'Updated signature model refined for both performance and educational demonstration.',
+            item: 'Vater 5B',
+            details: 'Standard hickory 5B, unchanged since 2001',
+            notes: 'Long-term standard Vater 5B — a dependable, off-the-shelf diameter, not a signature model.',
             change: null,
           },
           heads: {

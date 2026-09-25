@@ -2177,7 +2177,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Derek Roddy",
               "slug": "derek-roddy",
               "band": "Hate Eternal / Nile",
-              "configString": "Vater Player's Design Derek Roddy Model (VHDRW)"
+              "configString": "Vater 5B"
             },
             {
               "id": 52,

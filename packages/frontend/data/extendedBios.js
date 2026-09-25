@@ -4141,7 +4141,7 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
 - **Snare**: Tama SLP Black Brass 14"x6.5"
 - **Cymbals**: Meinl Byzance and Mb20 Heavy Series
 - **Hardware**: Tama Speed Cobra 910 double pedal
-- **Sticks**: Vater Player's Design Derek Roddy Model (VHDRW)
+- **Sticks**: Vater 5B
 - **Heads**: Evans (Genera HD or EC2)
 
 **Technical Setup Notes:**
@@ -4171,7 +4171,7 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
           { q: 'What drum set does Derek Roddy use?', a: 'Derek Roddy\'s drum set pairs Tama Starclassic Bubinga shells and his Black Brass snare with a Tama Speed Cobra 910 double pedal, giving him the speed and stability behind his signature one-footed blast technique.' },
           { q: 'What cymbals does Derek Roddy play?', a: 'Derek Roddy plays Meinl\'s Byzance and Mb20 Heavy Series cymbals: 14" Byzance Heavy Hi-Hats, 18" and 19" Mb20 Heavy Crashes, a 21" Mb20 Heavy Ride, and an 18" Byzance China.' },
           { q: 'What snare does Derek Roddy use?', a: 'Derek Roddy\'s snare is a Tama SLP Black Brass 14"x6.5", tuned for a sharp, cutting crack that stays audible through his technical death metal work.' },
-          { q: 'What sticks does Derek Roddy use?', a: 'Derek Roddy uses Vater Player\'s Design Derek Roddy Model (VHDRW) drumsticks, his own signature stick.' },
+          { q: 'What sticks does Derek Roddy use?', a: 'Derek Roddy plays a standard Vater 5B, a dependable, off-the-shelf diameter he has used since 2001 — not a signature model.' },
           { q: 'What bass drum pedal does Derek Roddy use?', a: 'Derek Roddy drives his one-footed blast technique with a Tama Speed Cobra 910 double pedal.' },
           { q: 'What drumheads does Derek Roddy use?', a: 'Derek Roddy uses Evans drumheads.' },
           { q: 'What band is Derek Roddy in?', a: 'Derek Roddy is best known for his tenure in Hate Eternal (2001-2008), where he recorded albums including King of All Kings, and for a 2000 stint as Nile\'s live drummer. He also drummed for Aurora Borealis (1994-2000) and currently plays in Serpents Rise (2010-present).' },

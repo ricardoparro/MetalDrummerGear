@@ -4916,7 +4916,7 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
 - **Cymbals**: Paiste (custom red-coated set, including his 18" Psychoctopus Giga Bell Ride)
 - **Hardware**: DW 9000 Series double pedal, DW 9000 Series hi-hat stand, Gibraltar racks
 - **Sticks**: ProMark Aquiles Priester Signature
-- **Heads**: Evans
+- **Heads**: Remo Coated Ambassador / Powerstroke 3
 
 **Signature Product Features:**
 - ProMark signature sticks designed for speed and power
@@ -4948,7 +4948,7 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
           { q: 'What bass drum pedals does Aquiles Priester use?', a: 'Aquiles Priester uses a DW 9000 Series double bass drum pedal, mounted alongside a DW 9000 Series hi-hat stand and Gibraltar racks, delivering the sustained, high-speed double-bass patterns his playing is known for.' },
           { q: 'What band is Aquiles Priester in?', a: 'Aquiles Priester is best known for his work with Angra (2000-2012, 2023-present) and W.A.S.P. (2006-present), along with his own project Hangar.' },
           { q: 'What drumsticks does Aquiles Priester use?', a: 'Aquiles Priester uses his own ProMark Aquiles Priester Signature drumsticks.' },
-          { q: 'What drumheads does Aquiles Priester use?', a: 'Aquiles Priester uses Evans drumheads across his Mapex Saturn Evolution All Maple kit.' },
+          { q: 'What drumheads does Aquiles Priester use?', a: 'Aquiles Priester uses Remo Coated Ambassador / Powerstroke 3 drumheads across his Mapex Saturn Evolution All Maple kit.' },
           { q: 'What hardware does Aquiles Priester use?', a: 'Aquiles Priester mounts his DW 9000 Series double pedal and DW 9000 Series hi-hat stand on Gibraltar racks, supporting his Mapex Saturn Evolution kit on world tours.' }
         ]
       },

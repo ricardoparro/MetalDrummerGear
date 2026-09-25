@@ -448,7 +448,6 @@ export const articles = {
       }
     ],
     "relatedAlbums": [
-      "shogun-drum-setup",
       "in-waves-drum-setup",
       "trivium-what-the-dead-men-say-drum-setup",
       "whats-in-alex-bents-kit"
@@ -464,7 +463,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "A Debut That Set the Template",
-      "content": "\"The Sin and the Sentence\" did double duty: it reintroduced Trivium as a heavier, more technically ambitious band, and it introduced Alex Bent as the drummer capable of delivering on that ambition. The Grammy nomination for \"Betrayer\" validated the gamble almost immediately.\n\nThe gear Bent brought to the session — Tama Starclassic Maple drums, Zildjian K Custom Hybrid cymbals, Axis A21 pedals — wasn't flashy or unusual. What mattered was how directly it translated his tech-death background into a mainstream metal context without losing any of the technicality that made him stand out in the first place.\n\nFor the arc of Trivium's drummers before Bent, see the [Shogun drum setup article](/articles/shogun-drum-setup) for Nick Augusto's earlier work with the band, and see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that followed three years later."
+      "content": "\"The Sin and the Sentence\" did double duty: it reintroduced Trivium as a heavier, more technically ambitious band, and it introduced Alex Bent as the drummer capable of delivering on that ambition. The Grammy nomination for \"Betrayer\" validated the gamble almost immediately.\n\nThe gear Bent brought to the session — Tama Starclassic Maple drums, Zildjian K Custom Hybrid cymbals, Axis A21 pedals — wasn't flashy or unusual. What mattered was how directly it translated his tech-death background into a mainstream metal context without losing any of the technicality that made him stand out in the first place.\n\nFor the arc of Trivium's drummers before Bent, see the [In Waves drum setup article](/articles/in-waves-drum-setup) for Nick Augusto's earlier work with the band, and see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that followed three years later."
     }
   },
   "trivium-what-the-dead-men-say-drum-setup": {
@@ -839,8 +838,7 @@ export const articles = {
     "relatedAlbums": [
       "trivium-what-the-dead-men-say-drum-setup",
       "trivium-sin-and-the-sentence-drum-setup",
-      "whats-in-alex-bents-kit",
-      "shogun-drum-setup"
+      "whats-in-alex-bents-kit"
     ],
     "relatedDrummers": [
       3,
@@ -853,7 +851,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Payoff of a Stable Rig",
-      "content": "In the Court of the Dragon closes out a remarkably consistent three-album run for Alex Bent's Trivium gear: the same Tama Starclassic Maple kit, the same Zildjian K Custom Hybrid cymbals, the same Axis A21 pedal from his 2017 debut through the band's strongest UK chart showing in over a decade.\n\nWhat changed was the ambition of the material. Trivium's push into longer, more structurally complex songwriting demanded more from Bent's stamina and dynamic control than either of his first two albums with the band — and the results, both critically and commercially, spoke for themselves.\n\nFor the fuller arc, see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that preceded this one, the [The Sin and the Sentence drum setup article](/articles/trivium-sin-and-the-sentence-drum-setup) for Bent's Trivium debut, and the [Shogun drum setup article](/articles/shogun-drum-setup) for Nick Augusto's earlier chapter in Trivium's drumming history."
+      "content": "In the Court of the Dragon closes out a remarkably consistent three-album run for Alex Bent's Trivium gear: the same Tama Starclassic Maple kit, the same Zildjian K Custom Hybrid cymbals, the same Axis A21 pedal from his 2017 debut through the band's strongest UK chart showing in over a decade.\n\nWhat changed was the ambition of the material. Trivium's push into longer, more structurally complex songwriting demanded more from Bent's stamina and dynamic control than either of his first two albums with the band — and the results, both critically and commercially, spoke for themselves.\n\nFor the fuller arc, see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that preceded this one, and the [The Sin and the Sentence drum setup article](/articles/trivium-sin-and-the-sentence-drum-setup) for Bent's Trivium debut."
     }
   }
 };

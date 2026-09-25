@@ -498,7 +498,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Sean Reinert",
           "slug": "sean-reinert",
           "band": "Death / Cynic",
-          "configString": "Tama Artstar II Birch 14x5.5\""
+          "configString": "DW Collector's Series"
         },
         {
           "id": 65,
@@ -684,7 +684,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Sean Reinert",
           "slug": "sean-reinert",
           "band": "Death / Cynic",
-          "configString": "Zildjian A/K Series (14\" A Quick Beat Hi-Hats, 16\" & 18\" A Crashes, 20\" K Custom Dry Ride, 16\" China, 10\" A Splash)"
+          "configString": "Zildjian K Custom"
         },
         {
           "id": 65,
@@ -1239,7 +1239,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Sean Reinert",
           "slug": "sean-reinert",
           "band": "Death / Cynic",
-          "configString": "DW 5000 Double Pedal"
+          "configString": "DW 9000 Double Pedal"
         },
         {
           "id": 65,

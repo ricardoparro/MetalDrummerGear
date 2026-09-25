@@ -10100,3 +10100,47 @@ All 8 filed issues cross-checked via `gh issue list --state all --search` (drumm
 1. Watch #8098-8100/#8102-8106 through CEO triage.
 2. Content-gap queries (`arin ilejay`, `danny carey drum kit`/`drum set`, `mario duplantier drum kit`) remain held on established precedent — no new fix.
 3. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-25 (run, per metrics.md 05:34 UTC) — 8 fresh fabrication-fix proposals filed (#8108-8115); 2 candidates dropped after dedup/verification caught a false positive and a risky conflict
+
+### Context
+Bank check: 4 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + 1 human-hold (#7981, Derek Roddy snare, unchanged) → 0 untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 05:34 UTC (305 users/351 sessions/489 views 7d; GSC 8,376 impr/171 clicks/2.04% CTR/pos 7.4). Audit: robots.txt confirms all 8 required AI crawlers explicitly allowed; `/llms/*.md` endpoints stable at 2,016 (correctly excluded from sitemap per the sitemap-diet rule). Content-gap table: `danny carey drum set` (73/1.37%/10.4) and `mario duplantier drum kit` (71/1.41%/7.1) both re-confirmed against `learned-patterns.md`'s exhausted-content-lever (line 201/236) and gear-qualified-oscillator rulings — no new fix. Today is Friday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### Method
+Dispatched one research agent for a sibling-file-gap fabrication sweep, scoped to the 45 of 71 drummer slugs not touched in the last ~10 runs (full roster diffed against a manually-tracked recent-coverage list). Agent sampled 17 of the 45, surfaced 12 candidates (10 HIGH, 2 MEDIUM/LOW). Personally verified all 10 HIGH candidates via direct grep/read against `endorsementNews.js` before any dedup search — this caught one live false positive before it ever reached `gh issue list`:
+- **Vinnie Paul** (agent-flagged: "Remo Steel Snare" fabricated, 1992-1996 Remo era) — **FALSE POSITIVE**. `extendedBios.js`'s "Equipment Evolution" (the established more-granular precedent source for this drummer per closed #7851/#6041) confirms a genuine Remo drum-shell era did exist 1992-1996 between Tama and Pearl — `endorsementNews.js`'s coarse drums-only timeline just doesn't carry snare-level granularity. The genreGearGuides.js "Remo Steel Snare" claim is actually correct. Not filed.
+
+Ran full `gh issue list --state all --search` dedup on the remaining 9, which surfaced a second near-miss:
+- **Abe Cunningham** (agent-flagged: albumArticles.js "Ohms Era, 2020-Present" block states cymbals "Sabian HHX", but a verified 2022 timeline entry switched him back to Zildjian) — genuinely real and technically not yet fixed, but closed #7372/#7445 recently and explicitly established "Sabian HHX 2010-2022" as the correct ruling for this exact era block after a prior wrong-direction fix cycle. A naive "replace Sabian with Zildjian" fix would be wrong for the 2020-2022 portion of the range and risks re-triggering the same back-and-forth saga. Dropped rather than risk a conflicting fix this run — needs a more careful "split the era / add a new post-2022 entry" framing than a normal atomic leaf fix; flagged below for a follow-up once scoped properly.
+
+**8 candidates filed, all personally verified + dedup-checked (each against 3-6 closest prior issues, full bodies read not just titles):**
+1. **#8108** — Eloy Casagrande: `albumArticles/eloy-casagrande.js` fabricates ProMark/Promark sticks + Remo heads across 10+ locations (own dedicated FAQ answer included) — verified Vic Firth + Evans since the 2010s. Distinct fact/file from closed #7292 (gearPriceHistory Mapex kit) and #6126 (endorsementNews Yamaha drums).
+2. **#8109** — Joey Jordison: `drummerEvolution.js`'s post-Slipknot (2013-2021) era block fabricates SJC Custom Drums/Snare + "Continued Ahead partnership" — this is actually his replacement Jay Weinberg's real gear, cross-contaminated into Jordison's own block. Verified continuous Pearl Reference Series + Promark TX515W (switched from Ahead in 2008, five years before this era starts).
+3. **#8110** — Ray Luzier: `albumArticlesCatalog.js` (metadata catalog, distinct from the already-fixed `albumArticles/ray-luzier.js` content file per #8033/#6311/#6508) fabricates "Pearl Demon Drive" pedals across 5 post-2013 album descriptions — verified DW 9000 Series, explicitly kept unchanged through the 2013 Pearl drum-brand switch per `endorsementNews.js`'s own timeline note.
+4. **#8111** — Brann Dailor: `albumArticles/brann-dailor.js` runs an entire dedicated "Istanbul Agop" cymbal-brand narrative (14+ locations, own brand-history section + FAQ) that self-contradicts a separate correct "Meinl Byzance" section in the same file — verified Meinl per `endorsementNews.js`, first-ever fabrication found for this drummer's cymbal brand (all 6 prior closed Brann Dailor issues covered other files/brands).
+5. **#8112** — George Kollias: `gearPriceHistory.js`'s current/modernEquivalent `hardware` field still fabricates Tama Iron Cobra as "carried unchanged" — verified Pearl Demon XR signature pedal since 2015. Distinct field from closed #5783, which fixed this same file's separate `summary` prose (cymbal brand only), not the hardware field.
+6. **#8113** — Martin Lopez: `albumArticles/martin-lopez.js` has a third, previously-unaudited `gearTimeline` array (distinct from the general-article prose fixed by #5993 and the Opeth-era album articles fixed by #6232) whose Soen-era (2010-Present) entry fabricates "Pearl (currently)" + "Sabian" — verified Noble & Cooley + Zildjian since 2010.
+7. **#8114** — Sean Reinert: despite 6 prior closed fixes across other files, `studies/drumEndorsementLandscape.js` AND `studies/mostUsedGearBrands.js` (the aggregate "landscape" study tables — a file family none of the 6 prior fixes touched) still show his pre-2008 Tama Artstar II Birch snare / Zildjian A/K Series cymbals / DW 5000 pedal as current — verified DW Collector's/Zildjian K Custom/DW 9000 since 2008.
+8. **#8115** — Mike Mangini: `soundLikeGuides.js`'s sticks field says generic "Vic Firth 5A" — verified Vater Mike Mangini Wicked Piston (VHMMWP) since 2011. Closed #7206 fixed the fabricated "Vic Firth Mike Mangini Signature" name across 5 other files but explicitly excluded this file; closed #5723 fixed this same file's drumKit/cymbals/pedal fields but never touched sticks.
+
+### Not filed
+- Vinnie Paul Remo-snare candidate — false positive, see above.
+- Abe Cunningham Sabian-HHX/Ohms-era candidate — real but needs careful era-split framing to avoid conflicting with the recently-settled #7372/#7445 ruling; deferred rather than risk a wrong fix.
+- 2 MEDIUM/LOW candidates from the sweep (Morgan Ågren heads-model nuance, Jaska Raatikainen wording/omission) — below the bar this run given 8 solid HIGH candidates already filled the cap.
+- 28 of the 45 targeted drummer slugs not yet sampled by this run's sweep — worth a follow-up pass.
+
+### Dedup notes
+All 8 filed issues cross-checked via `gh issue list --state all --search` (drummer name + fact keywords) with full-body reads (not just titles) of the 3-6 closest-matching prior issues per drummer — several closest matches turned out to be the SAME fact in a DIFFERENT file (the established sibling-file-gap shape), confirmed via checking each prior issue's explicit file list/line ranges against my own live grep before filing.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, external-verification conflict)
+- #8108-8115 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 12 open `seo-proposal`.
+
+### Next run
+1. Watch #8108-8115 through CEO triage.
+2. Follow-up candidate on file: Abe Cunningham's `albumArticles/abe-cunningham.js` "Ohms Era, 2020-Present" block needs its `years` range split (2020-2022 Sabian HHX / 2022-Present Zildjian) rather than a blanket brand swap — scope carefully before filing to avoid re-triggering the #7372/#7445 saga.
+3. 28 of the 45-slug sweep target list remain unsampled (adrian-erlandsson, arin-ilejay, ben-koller, daniel-erlandsson, daray, dave-lombardo, gavin-harrison, hannes-grossmann, jason-bittner, jay-weinberg, jimmy-degrasso, john-longstreth, mario-duplantier, martin-axenrot, matt-greiner, matt-halpern, mike-portnoy, navene-koperweis, nick-barker, nick-menza, paul-mazurkiewicz, pete-sandoval, richard-christy, ryan-van-poederooyen, tim-yeung, travis-orbin, waltteri-vayrynen) — good source for next bank top-up.
+4. Content-gap queries (`danny carey drum set`, `mario duplantier drum kit`) remain held on established precedent — no new fix.
+5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

@@ -519,12 +519,12 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Powerslave to Today: Nicko's Gear Progression",
-      "content": "The Powerslave era represents Nicko McBrain's first major gear chapter with Iron Maiden. The Pearl DLX + Paiste 2002 combination was his professional setup for the album, the World Slavery Tour, and Live After Death. Over the following decades, his setup evolved significantly while maintaining core elements.\n\n**Key transitions:**\n- **1984:** Pearl DLX drums + Paiste 2002 cymbals + DW 5000 single pedal (Powerslave, World Slavery Tour, Live After Death)\n- **1990s:** Gradual shift in drum brands as endorsements evolved\n- **2000s–present:** Sonor SQ1 drums + Paiste Signature cymbals + Vic Firth Nicko McBrain signature sticks + Sonor Nicko McBrain signature snare (14\"x6.5\")\n\n**The constant:** Single bass drum pedal. Throughout every era, every album, every tour — Nicko has played with one bass drum. The Powerslave World Slavery Tour proved definitively that single-pedal technique could handle the most demanding metal material across hundreds of consecutive shows.\n\n**What changed most:** The shift from Paiste 2002 to Paiste Signature cymbals gave Nicko a darker, warmer character. The 2002s were brighter and more cutting — appropriate for the punchy, direct NWOBHM production of the Powerslave era. The Signature series suits Iron Maiden's evolved, more expansive 21st-century sound.",
+      "content": "The Powerslave era represents Nicko McBrain's first major gear chapter with Iron Maiden. The Pearl DLX + Paiste 2002 combination was his professional setup for the album, the World Slavery Tour, and Live After Death. Over the following decades, his setup evolved significantly while maintaining core elements.\n\n**Key transitions:**\n- **1984:** Pearl DLX drums + Paiste 2002 cymbals + DW 5000 single pedal (Powerslave, World Slavery Tour, Live After Death)\n- **1990s:** Gradual shift in drum brands as endorsements evolved\n- **2000s–2019:** Sonor SQ2 drums + Paiste Signature cymbals + Vic Firth Nicko McBrain signature sticks + Sonor Nicko McBrain signature snare (14\"x6.5\")\n- **2019–present:** British Drum Co. drums (Sonor Nicko McBrain Signature snare retained) + Paiste Signature cymbals + Vic Firth Nicko McBrain signature sticks\n\n**The constant:** Single bass drum pedal. Throughout every era, every album, every tour — Nicko has played with one bass drum. The Powerslave World Slavery Tour proved definitively that single-pedal technique could handle the most demanding metal material across hundreds of consecutive shows.\n\n**What changed most:** The shift from Paiste 2002 to Paiste Signature cymbals gave Nicko a darker, warmer character. The 2002s were brighter and more cutting — appropriate for the punchy, direct NWOBHM production of the Powerslave era. The Signature series suits Iron Maiden's evolved, more expansive 21st-century sound.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Pearl DLX",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Snare",
@@ -822,7 +822,7 @@ export const articles = {
         {
           "category": "Kit",
           "then": "Yamaha Recording Custom",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Electronics",
@@ -1108,12 +1108,12 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Piece of Mind Debut to Iron Maiden Veteran",
-      "content": "Piece of Mind marks the starting point of what would become a 40+ year partnership between Nicko McBrain and Iron Maiden. From the Ludwig Vistalite debut of 1983, his setup evolved through several distinct eras.\n\n**The founding era (1983–1988):** Piece of Mind through Seventh Son of a Seventh Son. Ludwig drums (Vistalite and Classic Maple), Paiste 2002 cymbals, Pro-Mark sticks. The NWOBHM sound of the early albums.\n\n**Middle period transitions:** Gradual evolution of kit and cymbal endorsements through the 1990s and 2000s as Iron Maiden's sound expanded from NWOBHM to epic heavy metal.\n\n**Current setup:** Sonor SQ1 drums + Sonor Nicko McBrain Signature Snare (14\"x6.5\") + Paiste Signature cymbals + Vic Firth Nicko McBrain signature sticks + Sonor single bass drum pedal.\n\n**The constant across 40+ years:** One bass drum. One pedal. No double bass. Nicko established this philosophy on Piece of Mind and has never wavered — a remarkable commitment that has made his single-pedal technique one of the most studied in metal drumming.",
+      "content": "Piece of Mind marks the starting point of what would become a 40+ year partnership between Nicko McBrain and Iron Maiden. From the Ludwig Vistalite debut of 1983, his setup evolved through several distinct eras.\n\n**The founding era (1983–1988):** Piece of Mind through Seventh Son of a Seventh Son. Ludwig drums (Vistalite and Classic Maple), Paiste 2002 cymbals, Pro-Mark sticks. The NWOBHM sound of the early albums.\n\n**Middle period transitions:** Gradual evolution of kit and cymbal endorsements through the 1990s and 2000s as Iron Maiden's sound expanded from NWOBHM to epic heavy metal.\n\n**Current setup:** British Drum Co. drums (since 2019) + Sonor Nicko McBrain Signature Snare (14\"x6.5\") + Paiste Signature cymbals + Vic Firth Nicko McBrain signature sticks + single bass drum pedal.\n\n**The constant across 40+ years:** One bass drum. One pedal. No double bass. Nicko established this philosophy on Piece of Mind and has never wavered — a remarkable commitment that has made his single-pedal technique one of the most studied in metal drumming.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Ludwig Vistalite (Clear Acrylic)",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Snare",
@@ -1404,7 +1404,7 @@ export const articles = {
         {
           "category": "Kit",
           "then": "Yamaha Recording Custom",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Snare",
@@ -1698,7 +1698,7 @@ export const articles = {
         {
           "category": "Kit",
           "then": "Yamaha Recording Custom",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Snare",
@@ -1992,7 +1992,7 @@ export const articles = {
         {
           "category": "Kit",
           "then": "Yamaha Recording Custom",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Snare",
@@ -2579,7 +2579,7 @@ export const articles = {
         {
           "category": "Kit",
           "then": "Yamaha Recording Custom (2000)",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Cymbals",
@@ -2881,7 +2881,7 @@ export const articles = {
         {
           "category": "Kit",
           "then": "Yamaha Recording Custom (2010)",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Cymbals",
@@ -3186,12 +3186,12 @@ export const articles = {
     ],
     "evolution": {
       "title": "From The Final Frontier to The Book of Souls: A New Drum Company, the Same Philosophy",
-      "content": "The Book of Souls marks a hardware turning point in Nicko McBrain's career without disturbing his underlying musical philosophy. After nearly a decade and a half with Premier, business difficulties forced a change — and Nicko returned to Sonor, the manufacturer he'd left in 1992, on terms that let him rebuild a kit to his own long-preferred specifications.\n\n**The arc through this period:**\n- **The Final Frontier (2010):** Premier Artist, three rack toms, Paiste Signature (expanded three-crash setup)\n- **The Book of Souls (2015):** Sonor SQ2 (new endorsement), nine-tom configuration, Paiste Signature (unchanged)\n- **Senjutsu (2021):** Sonor SQ1, Sonor Nicko McBrain Signature snare fully established, Paiste Signature (ongoing)\n\n**What stayed constant:** The single bass drum pedal, the Paiste Signature cymbal relationship, and the Vic Firth signature sticks all carried straight through the Premier-to-Sonor switch untouched. Only the drum shells themselves changed manufacturer.\n\n**What changed:** The scale. The Book of Souls' nine-tom configuration was the largest kit of Nicko's recording career — a direct response to the demands of writing and recording a double album with tracks ranging from three-minute rockers to an 18-minute piano epic.",
+      "content": "The Book of Souls marks a hardware turning point in Nicko McBrain's career without disturbing his underlying musical philosophy. After nearly a decade and a half with Premier, business difficulties forced a change — and Nicko returned to Sonor, the manufacturer he'd left in 1992, on terms that let him rebuild a kit to his own long-preferred specifications.\n\n**The arc through this period:**\n- **The Final Frontier (2010):** Premier Artist, three rack toms, Paiste Signature (expanded three-crash setup)\n- **The Book of Souls (2015):** Sonor SQ2 (new endorsement), nine-tom configuration, Paiste Signature (unchanged)\n- **Senjutsu (2021):** British Drum Co. (since 2019), Sonor Nicko McBrain Signature snare retained, Paiste Signature (ongoing)\n\n**What stayed constant:** The single bass drum pedal, the Paiste Signature cymbal relationship, and the Vic Firth signature sticks all carried straight through the Premier-to-Sonor switch untouched. Only the drum shells themselves changed manufacturer.\n\n**What changed:** The scale. The Book of Souls' nine-tom configuration was the largest kit of Nicko's recording career — a direct response to the demands of writing and recording a double album with tracks ranging from three-minute rockers to an 18-minute piano epic.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Sonor SQ2 (2014-2015)",
-          "now": "Sonor SQ1 / SQ2 (ongoing)"
+          "now": "British Drum Co."
         },
         {
           "category": "Cymbals",
@@ -3481,7 +3481,7 @@ export const articles = {
         {
           "category": "Kit",
           "then": "Yamaha Recording Custom",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Snare",
@@ -3707,7 +3707,7 @@ export const articles = {
         "Guillaume Tell Studio's natural acoustic character captured with room mics — Shirley's established approach to Maiden's drums",
         "Minimal treatment preserved Nicko's dynamic range across 81 minutes of varied arrangements",
         "Single-take philosophy maintained on tracks up to 12:40 in length",
-        "Sonor SQ1's maple character complemented the studio's balanced acoustic environment"
+        "The British Drum Co. kit's birch character complemented the studio's balanced acoustic environment"
       ]
     },
     "trackAnalysis": [
@@ -3721,7 +3721,7 @@ export const articles = {
           "Punchy production showcases the Sonor kick's defined attack",
           "Demonstrates Nicko's single-pedal velocity remained fully capable in 2019"
         ],
-        "gearNotes": "The Sonor SQ1 single bass drum drives the gallop. Paiste Signature 15\" hi-hats articulate the sixteenth-note pattern clearly at full speed."
+        "gearNotes": "The British Drum Co. single bass drum drives the gallop. Paiste Signature 15\" hi-hats articulate the sixteenth-note pattern clearly at full speed."
       },
       {
         "track": "The Writing on the Wall",
@@ -3745,7 +3745,7 @@ export const articles = {
           "Dynamic range from near-silence to full-volume — complete use of the Sonor kit",
           "Among the most demanding single-take recording challenges of Nicko's career"
         ],
-        "gearNotes": "Every piece of the Sonor SQ1 kit serves a function across 12:40 of progressive arrangement. The 22\" Power Ride carries the mid-section. Floor toms drive the climactic passages. The Sonor Signature snare cuts through the finale."
+        "gearNotes": "Every piece of the British Drum Co. kit serves a function across 12:40 of progressive arrangement. The 22\" Power Ride carries the mid-section. Floor toms drive the climactic passages. The Sonor Signature snare cuts through the finale."
       },
       {
         "track": "Hell on Earth",
@@ -3757,17 +3757,17 @@ export const articles = {
           "Complete dynamic navigation across the track's full length",
           "A fitting closing statement on Iron Maiden's most progressive modern album"
         ],
-        "gearNotes": "Full kit deployment across the complete track. Paiste Signature crashes mark the major structural shifts. The Sonor SQ1 floor toms drive the closing climax."
+        "gearNotes": "Full kit deployment across the complete track. Paiste Signature crashes mark the major structural shifts. The British Drum Co. floor toms drive the closing climax."
       }
     ],
     "faq": [
       {
         "question": "What drums does Nicko McBrain use on Senjutsu?",
-        "answer": "Nicko McBrain recorded Senjutsu (2021) on a Sonor SQ1 drum kit — his professional studio and touring configuration for the modern era. The setup featured a single 22\"x17\" bass drum (no double bass), three rack toms (10\", 12\", 13\"), and two floor toms (16\" and 18\"). Shells are North American maple. His snare was the Sonor Nicko McBrain Signature, 14\"x6.5\". The album was recorded at Guillaume Tell Studio in Paris in August 2019 and debuted at UK #1 on its September 2021 release. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete gear history."
+        "answer": "Nicko McBrain recorded Senjutsu (2021) on a British Drum Co. drum kit — the brand he moved to in 2019, and his professional studio and touring configuration for the modern era. The setup featured a single 22\"x17\" bass drum (no double bass), three rack toms (10\", 12\", 13\"), and two floor toms (16\" and 18\"). Shells are birch. His snare was the Sonor Nicko McBrain Signature, 14\"x6.5\", retained from his prior Sonor endorsement. The album was recorded at Guillaume Tell Studio in Paris in August 2019 and debuted at UK #1 on its September 2021 release. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete gear history."
       },
       {
         "question": "What is Senjutsu's drum setup?",
-        "answer": "Senjutsu (Iron Maiden, 2021) was recorded using Nicko McBrain's Sonor SQ1 kit with North American maple shells, a Sonor Nicko McBrain Signature snare (14\"x6.5\"), Paiste Signature cymbals including 15\" Sound Edge hi-hats and a 22\" Power Ride, and Vic Firth Nicko McBrain Signature sticks. The bass drum was a single 22\" Sonor, driven by a single bass drum pedal — Nicko's lifelong philosophy. Producer Kevin Shirley captured the kit at Guillaume Tell Studio in Paris with a natural, dynamic approach consistent with his work on Brave New World, The Final Frontier, and [The Book of Souls](/articles/book-of-souls-drum-setup)."
+        "answer": "Senjutsu (Iron Maiden, 2021) was recorded using Nicko McBrain's British Drum Co. kit with birch shells, a Sonor Nicko McBrain Signature snare (14\"x6.5\") retained from his prior Sonor endorsement, Paiste Signature cymbals including 15\" Sound Edge hi-hats and a 22\" Power Ride, and Vic Firth Nicko McBrain Signature sticks. The bass drum was a single 22\" British Drum Co., driven by a single bass drum pedal — Nicko's lifelong philosophy. Producer Kevin Shirley captured the kit at Guillaume Tell Studio in Paris with a natural, dynamic approach consistent with his work on Brave New World, The Final Frontier, and [The Book of Souls](/articles/book-of-souls-drum-setup)."
       },
       {
         "question": "Was Senjutsu nominated for a Grammy?",
@@ -3780,12 +3780,12 @@ export const articles = {
     ],
     "evolution": {
       "title": "Senjutsu in Nicko McBrain's Career Arc",
-      "content": "Senjutsu (2021) is the most recent chapter in a recording career that spans Piece of Mind (1983) to the present — 38 years of Iron Maiden studio albums, every one with Nicko McBrain behind the kit.\n\n**The full arc:**\n- **1983–1988:** Ludwig drums, Paiste 2002 cymbals, Pro-Mark sticks (Piece of Mind through Seventh Son)\n- **1995–1998:** Premier Artist, Paiste Signature begins, Vic Firth Nicko McBrain Signature sticks (X Factor, Virtual XI)\n- **2000–2015:** Premier Artist → Sonor, Paiste Signature fully established (Brave New World through The Book of Souls)\n- **2021:** Sonor SQ1, Paiste Signature, Vic Firth Nicko McBrain Signature, Sonor Nicko McBrain Signature snare (Senjutsu)\n\n**What Senjutsu proved:** At 67, Nicko McBrain could still record a UK #1 album with a Grammy-nominated single, across 81 minutes of progressive double-album material, with single-take performances on tracks up to 12 minutes long.\n\n**The constant:** One bass drum, one pedal. From the Where Eagles Dare intro in 1983 to the Hell on Earth finale in 2021 — Nicko McBrain's single-bass philosophy has never changed.",
+      "content": "Senjutsu (2021) is the most recent chapter in a recording career that spans Piece of Mind (1983) to the present — 38 years of Iron Maiden studio albums, every one with Nicko McBrain behind the kit.\n\n**The full arc:**\n- **1983–1988:** Ludwig drums, Paiste 2002 cymbals, Pro-Mark sticks (Piece of Mind through Seventh Son)\n- **1995–1998:** Premier Artist, Paiste Signature begins, Vic Firth Nicko McBrain Signature sticks (X Factor, Virtual XI)\n- **2000–2015:** Premier Artist → Sonor, Paiste Signature fully established (Brave New World through The Book of Souls)\n- **2021:** British Drum Co. (since 2019), Paiste Signature, Vic Firth Nicko McBrain Signature, Sonor Nicko McBrain Signature snare retained (Senjutsu)\n\n**What Senjutsu proved:** At 67, Nicko McBrain could still record a UK #1 album with a Grammy-nominated single, across 81 minutes of progressive double-album material, with single-take performances on tracks up to 12 minutes long.\n\n**The constant:** One bass drum, one pedal. From the Where Eagles Dare intro in 1983 to the Hell on Earth finale in 2021 — Nicko McBrain's single-bass philosophy has never changed.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Sonor SQ1",
-          "now": "Sonor SQ1 / SQ2 (ongoing)"
+          "then": "Sonor SQ2",
+          "now": "British Drum Co."
         },
         {
           "category": "Snare",
@@ -3836,7 +3836,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The UK #1 Album Made With One Foot",
-      "content": "Senjutsu debuted at number one in the UK, number three in the United States, and generated Iron Maiden's first Grammy nomination for Best Rock Performance. The album was recorded in three weeks in Paris in 2019 by a band in their sixth decade of existence — and the drumming across all 81 minutes was delivered by Nicko McBrain, at 67 years old, with a single bass drum pedal.\n\nThat is not a footnote. That is the story.\n\nThe Sonor SQ1 kit, Paiste Signature cymbals, and Vic Firth signature sticks were the tools. The single pedal was the philosophy. And the philosophy, demonstrated on 'Stratego' and 'The Writing on the Wall' and 'Hell on Earth,' remained as fully realized in 2019 as it had been on 'Aces High' in 1984.\n\nFor drummers studying Senjutsu today, the technical demands are real: six tracks over seven minutes, two over eleven, one at nearly thirteen. These required complete single-take performances from beginning to end, navigating enormous dynamic ranges with the precision and musicality that have defined Nicko McBrain's career since he opened Iron Maiden's Piece of Mind with the 'Where Eagles Dare' drum intro.\n\nThe Grammy nomination for 'The Writing on the Wall' brought external recognition that the drumming community had long understood: Nicko McBrain remains one of heavy metal's most significant drummers, and Senjutsu is the proof that 38 years into his Iron Maiden career, the standard had not dropped.\n\nOne kit. One foot. One number-one album. Nicko McBrain, 2021."
+      "content": "Senjutsu debuted at number one in the UK, number three in the United States, and generated Iron Maiden's first Grammy nomination for Best Rock Performance. The album was recorded in three weeks in Paris in 2019 by a band in their sixth decade of existence — and the drumming across all 81 minutes was delivered by Nicko McBrain, at 67 years old, with a single bass drum pedal.\n\nThat is not a footnote. That is the story.\n\nThe British Drum Co. kit, Paiste Signature cymbals, and Vic Firth signature sticks were the tools. The single pedal was the philosophy. And the philosophy, demonstrated on 'Stratego' and 'The Writing on the Wall' and 'Hell on Earth,' remained as fully realized in 2019 as it had been on 'Aces High' in 1984.\n\nFor drummers studying Senjutsu today, the technical demands are real: six tracks over seven minutes, two over eleven, one at nearly thirteen. These required complete single-take performances from beginning to end, navigating enormous dynamic ranges with the precision and musicality that have defined Nicko McBrain's career since he opened Iron Maiden's Piece of Mind with the 'Where Eagles Dare' drum intro.\n\nThe Grammy nomination for 'The Writing on the Wall' brought external recognition that the drumming community had long understood: Nicko McBrain remains one of heavy metal's most significant drummers, and Senjutsu is the proof that 38 years into his Iron Maiden career, the standard had not dropped.\n\nOne kit. One foot. One number-one album. Nicko McBrain, 2021."
     }
   },
   "dance-of-death-drum-setup": {
@@ -4084,7 +4084,7 @@ export const articles = {
         {
           "category": "Kit",
           "then": "Yamaha Recording Custom (2003)",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Cymbals",
@@ -4379,7 +4379,7 @@ export const articles = {
         {
           "category": "Kit",
           "then": "Yamaha Recording Custom (2006)",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Cymbals",

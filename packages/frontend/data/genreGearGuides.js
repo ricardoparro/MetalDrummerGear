@@ -82415,7 +82415,7 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export kit will t
     // SEO metadata
     title: "Best Snare Drums for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Deathcore 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for deathcore's blast-into-breakdown structure: what Chris Turner (Tama S.L.P. Vintage Hammered Steel), George Kollias (Pearl Masterworks endorser), and Ben Koller (Tama Starclassic Performer B/B) actually play — ranked budget to pro.",
+    description: "Best snare drums for deathcore's blast-into-breakdown structure: what Chris Turner (Tama S.L.P. G-Maple), George Kollias (Pearl Masterworks endorser), and Ben Koller (Tama Starclassic Performer B/B) actually play — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for deathcore',
       'deathcore snare drum',
@@ -82451,13 +82451,13 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export kit will t
       title: "Why Deathcore Needs a Snare That Cuts Blast Beats and Crushes Breakdowns",
       content: `Deathcore's blast-into-breakdown structure asks a single snare to do two contradictory jobs. During blast-beat verses, it needs a dry, immediate crack that stays articulate at 240+ BPM without smearing into a wash of overtone. During breakdowns, that same snare needs to land with maximum rimshot authority and cut through heavily downtuned, palm-muted guitar walls built for moshing. Few metal subgenres put a snare through a wider dynamic and tempo range within a single track.
 
-Chris Turner of Oceans Ate Alaska plays a Tama S.L.P. 14"x5.5" Vintage Hammered Steel snare, whose hammered steel shell gives his blast-beat fills a dry, cutting crack while retaining enough rimshot punch for breakdown accents. George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented a specific signature snare model for him — his verified signature product is the Pearl Demon XR pedal line he co-designed for sustaining blast beats past 240 BPM. Ben Koller of Converge and Mutoid Man doesn't have a separately documented signature snare, but the matching birch/bubinga snare from his verified Tama Starclassic Performer B/B kit brings the same quick-response, hardcore-punk-informed crack that anchored landmark records like "Jane Doe" into deathcore's breakdown vocabulary.
+Chris Turner of Oceans Ate Alaska plays a Tama S.L.P. 14"x5.5" G-Maple snare, whose maple shell gives his blast-beat fills a warm, articulate crack while retaining enough rimshot punch for breakdown accents. George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented a specific signature snare model for him — his verified signature product is the Pearl Demon XR pedal line he co-designed for sustaining blast beats past 240 BPM. Ben Koller of Converge and Mutoid Man doesn't have a separately documented signature snare, but the matching birch/bubinga snare from his verified Tama Starclassic Performer B/B kit brings the same quick-response, hardcore-punk-informed crack that anchored landmark records like "Jane Doe" into deathcore's breakdown vocabulary.
 
 This guide breaks down shell material, depth, and tuning for deathcore snares — comparing three drummers whose metalcore, hardcore, and technical death metal lineages define the genre's blast-into-breakdown foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
-        "Chris Turner's Tama S.L.P. Vintage Hammered Steel snare delivers a dry, cutting crack for blast-beat fills and breakdown accents alike",
+        "Chris Turner's Tama S.L.P. G-Maple snare delivers a warm, articulate crack for blast-beat fills and breakdown accents alike",
         "George Kollias is a longtime Pearl drums endorser (Masterworks Series) — Pearl hasn't documented a specific signature snare model for him",
-        "Steel shells dominate deathcore's closest lineage for their dry, immediate crack under both speed and weight"
+        "Maple and steel shells both appear across deathcore's closest lineage, with maple favoring warmth and steel favoring dry, immediate cut"
       ]
     },
 
@@ -82468,7 +82468,7 @@ This guide breaks down shell material, depth, and tuning for deathcore snares �
         {
           name: "Dry, Immediate Crack for Blast Beats",
           icon: "🔪",
-          description: "Chris Turner's Tama S.L.P. steel snare is voiced dry and immediate, so every hit registers as a sharp, precise accent at 240+ BPM instead of smearing into unwanted overtone.",
+          description: "Pearl's free-floating steel shells are voiced dry and immediate, so every hit registers as a sharp, precise accent at 240+ BPM instead of smearing into unwanted overtone.",
           recommendation: "Steel or hammered-steel shells for a dry, immediate crack at extreme tempo"
         },
         {
@@ -82510,43 +82510,43 @@ This guide breaks down shell material, depth, and tuning for deathcore snares �
       pedals: [
         {
           rank: 1,
-          name: "Tama S.L.P. Vintage Hammered Steel",
+          name: "Tama S.L.P. G-Maple",
           brand: "Tama",
-          model: "S.L.P. Vintage Hammered Steel 14\"x5.5\"",
+          model: "S.L.P. G-Maple 14\"x5.5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€400-550",
           tier: "pro",
-          material: "Hammered Steel (14x5.5\")",
+          material: "Maple (14x5.5\")",
 
-          description: `Chris Turner of Oceans Ate Alaska plays a Tama S.L.P. 14"x5.5" Vintage Hammered Steel snare, its hand-hammered shell surface adding complexity and cut to an already bright, dry steel tone. That combination gives Turner's technical, blast-beat-driven fills a crack that stays articulate at extreme tempo while still delivering enough rimshot punch to land breakdown accents with authority.
+          description: `Chris Turner of Oceans Ate Alaska plays a Tama S.L.P. 14"x5.5" G-Maple snare, its maple shell delivering a warm, articulate tone with plenty of punch and clarity. That combination gives Turner's technical, blast-beat-driven fills a crack that stays articulate at extreme tempo while still delivering enough rimshot punch to land breakdown accents with authority.
 
 The 5.5" depth favors the crisp, fast response deathcore's blast sections demand, without sacrificing the projection needed to cut through Oceans Ate Alaska's dense, heavily processed mix.`,
 
           pros: [
-            "Chris Turner's Oceans Ate Alaska setup — dry, cutting crack for blast-beat fills and breakdown accents",
-            "Hand-hammered steel shell adds tonal complexity over a plain steel shell",
+            "Chris Turner's Oceans Ate Alaska setup — warm, articulate crack for blast-beat fills and breakdown accents",
+            "Maple shell adds tonal warmth and musicality over a bright steel shell",
             "5.5\" depth balances crisp attack with real projection",
             "Proven across Oceans Ate Alaska's most technically demanding recordings",
             "S.L.P. series hardware built for professional touring reliability"
           ],
           cons: [
             "Premium S.L.P. series pricing",
-            "Steel's bright tone needs careful muffling for maximum breakdown weight",
-            "Hammered finish requires more careful maintenance than a plain shell"
+            "Maple's warmer tone offers less raw cut than a dedicated steel shell at extreme volume",
+            "Needs careful tuning to keep articulation at the fastest blast-beat tempos"
           ],
           specs: {
-            shell: "Hammered Steel (S.L.P.)",
+            shell: "Maple (S.L.P. G-Maple)",
             diameter: "14\"",
             depth: "5.5\"",
             throwOff: "Tama MTS100",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Chris Turner", band: "Oceans Ate Alaska", note: "14x5.5\" Tama S.L.P. Vintage Hammered Steel — dry, cutting deathcore-adjacent crack" }
+            { name: "Chris Turner", band: "Oceans Ate Alaska", note: "14x5.5\" Tama S.L.P. G-Maple — warm, articulate deathcore-adjacent crack" }
           ],
-          verdict: "Best overall for technical, blast-beat-driven deathcore. Turner's hammered steel snare cuts through anything.",
+          verdict: "Best overall for technical, blast-beat-driven deathcore. Turner's G-Maple snare stays articulate through anything.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/tama_slp_vintage_hammered_steel_turner.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_slp_g_maple_snare.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -82641,8 +82641,8 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
           tier: "budget",
           material: "Steel",
           description: "A budget steel snare that carries the same Tama brand DNA as Chris Turner's professional Tama S.L.P. setup and Ben Koller's Tama Starclassic Performer B/B kit, giving developing deathcore drummers a genuinely bright, cutting option at an accessible price.",
-          pros: ["Same Tama steel shell family as pro deathcore setups", "Bright, cutting tone suited to blast beats", "Budget-friendly, widely available"],
-          cons: ["Basic hardware and hoops compared to S.L.P.", "Less refined tone than premium hammered-steel shells"],
+          pros: ["Same Tama brand lineage as pro deathcore setups", "Bright, cutting tone suited to blast beats", "Budget-friendly, widely available"],
+          cons: ["Basic hardware and hoops compared to S.L.P.", "Less refined tone than premium pro-tier shells"],
           verdict: "Best budget entry into deathcore's Tama steel sound.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/tama_imperialstar_steel_deathcore.htm?partner_id=metalforge"
@@ -82666,8 +82666,8 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
 
     // Comparison
     comparison: {
-      title: "5.5\" vs 6.5\" Steel Snares for Deathcore",
-      content: `Shell depth splits deathcore's closest lineage into two camps, while steel dominates as the material of choice across nearly every setup. Here's how they compare:
+      title: "5.5\" vs 6.5\" Snares for Deathcore",
+      content: `Shell depth splits deathcore's closest lineage into two camps, while shell material varies by drummer — steel, maple, and birch/bubinga all show up across the genre's closest setups. Here's how they compare:
 
 **14x5\" (Pearl Sensitone Elite Free-Floating Steel):**
 - Free-floating mount maximizes sensitivity and resonance for extreme-speed blast sections
@@ -82698,8 +82698,8 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama S.L.P. Vintage Hammered Steel",
-          reason: "Chris Turner's Oceans Ate Alaska setup — dry, cutting crack for blast-beat fills and breakdown accents alike."
+          pedal: "Tama S.L.P. G-Maple",
+          reason: "Chris Turner's Oceans Ate Alaska setup — warm, articulate crack for blast-beat fills and breakdown accents alike."
         },
         {
           category: "Best for Extreme Speed",
@@ -82721,14 +82721,14 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
       'best-drum-pedals-for-deathcore'
     ],
     relatedDrummers: [
-      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama S.L.P. Vintage Hammered Steel — Oceans Ate Alaska\'s blast-beat-driven crack' },
+      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama S.L.P. G-Maple — Oceans Ate Alaska\'s blast-beat-driven crack' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks endorser — Nile\'s 240+ BPM blast-beat benchmark' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B — Converge\'s hardcore/mathcore intensity' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama S.L.P. Vintage Hammered Steel — Oceans Ate Alaska\'s blast-beat-driven crack' },
+      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama S.L.P. G-Maple — Oceans Ate Alaska\'s blast-beat-driven crack' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks endorser — Nile\'s 240+ BPM blast-beat benchmark' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B — Converge\'s hardcore/mathcore intensity' }
     ],
@@ -82737,7 +82737,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
     faq: [
       {
         question: "What snare drum does Chris Turner use?",
-        answer: "Chris Turner of Oceans Ate Alaska plays a Tama S.L.P. 14\"x5.5\" Vintage Hammered Steel snare. The hand-hammered steel shell gives his technical, blast-beat-driven fills a dry, cutting crack while still delivering enough rimshot punch for breakdown accents."
+        answer: "Chris Turner of Oceans Ate Alaska plays a Tama S.L.P. 14\"x5.5\" G-Maple snare. The maple shell gives his technical, blast-beat-driven fills a warm, articulate crack while still delivering enough rimshot punch for breakdown accents."
       },
       {
         question: "What snare drum does George Kollias use?",
@@ -82745,7 +82745,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
       },
       {
         question: "What snare depth is best for deathcore?",
-        answer: "It depends on your material's balance of blast beats versus breakdowns. Chris Turner's shallower 14x5.5\" Tama S.L.P. favors crisp, fast blast-beat response, while Ben Koller's 14x6.5\" Tama Starclassic Performer B/B snare adds extra body and rimshot authority on breakdown-heavy sections."
+        answer: "It depends on your material's balance of blast beats versus breakdowns. Chris Turner's shallower 14x5.5\" Tama S.L.P. G-Maple favors crisp, fast blast-beat response, while Ben Koller's 14x6.5\" Tama Starclassic Performer B/B snare adds extra body and rimshot authority on breakdown-heavy sections."
       },
       {
         question: "Why does deathcore need a snare that handles both blast beats and breakdowns?",
@@ -82760,7 +82760,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Snare Voice",
-      content: `Deathcore snare choice comes down to how well your drum handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Tama S.L.P. Vintage Hammered Steel shows how a dry, cutting shell can carry both extremes at once. Pearl's free-floating steel line — the same extreme-speed engineering philosophy behind George Kollias's Pearl endorsement — defines the benchmark deathcore's fastest sections measure themselves against, while Ben Koller's Tama Starclassic Performer B/B demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary.
+      content: `Deathcore snare choice comes down to how well your drum handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Tama S.L.P. G-Maple shows how a warm, articulate shell can carry both extremes at once. Pearl's free-floating steel line — the same extreme-speed engineering philosophy behind George Kollias's Pearl endorsement — defines the benchmark deathcore's fastest sections measure themselves against, while Ben Koller's Tama Starclassic Performer B/B demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary.
 
 None of these approaches is more "correct" — all three represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever depth matches your material's balance of blast beats versus breakdowns, and don't be afraid to tune tighter and drier than other metal subgenres would suggest.
 

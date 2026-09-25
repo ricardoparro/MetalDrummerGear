@@ -81,7 +81,7 @@ export const articles = {
       "shell": "1.2mm Steel",
       "description": "For Slipknot's massive sound, Eloy relies on Tama's S.L.P. Sonic Steel — a 1.2mm steel shell that delivers the explosive crack needed to cut through nine musicians playing at stadium volume.\n\nThe thinner steel shell vibrates more freely than heavier alternatives, producing a brighter, more sensitive tone that responds to Eloy's dynamic playing. This sensitivity is crucial for the ghost notes and subtle touches that separate good drummers from great ones.\n\nAt 14\" x 6\", it's a standard depth that balances crack with body. Eloy tunes it on the higher side for maximum cut, essential when competing with Slipknot's wall of distorted guitars, samples, and percussion.\n\nThe S.L.P. (Sound Lab Project) series represents Tama's experimental approach to shell materials. The Sonic Steel's seamless 1.2mm shell delivers projection that rivals much heavier drums while maintaining playability for fast, technical passages.\n\nFor Slipknot's outdoor festival appearances, the steel snare's projection is invaluable. Where wood snares might get lost in open-air venues, the Sonic Steel's metallic cut ensures every backbeat lands with authority.",
       "tuningSetting": "Medium-high for maximum cut and crack",
-      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "heads": "Evans (batter and resonant)",
       "estimatedValue": "$400-550 (S.L.P. series)"
     },
     "cymbals": {
@@ -171,10 +171,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Eloy Casagrande Signature",
-          "notes": "Custom signature model for power and precision",
-          "description": "Eloy's signature sticks are designed for the perfect balance between power and speed. They feature a slightly forward balance point for faster response and a reinforced tip for durability during aggressive playing."
+          "brand": "Vic Firth",
+          "model": "Vic Firth",
+          "notes": "Long-running Vic Firth endorsement since the 2010s, carried from Sepultura into Slipknot",
+          "description": "Eloy has been a Vic Firth stick endorser since the 2010s, an endorsement that carried over unchanged from his Sepultura years into his Slipknot tenure."
         },
         {
           "type": "In-Ear Monitors",
@@ -184,9 +184,9 @@ export const articles = {
         }
       ],
       "heads": {
-        "bassKick": "Remo Powerstroke P3 Clear (batter), Remo Fiberskyn (front with port)",
-        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
-        "snare": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)"
+        "bassKick": "Evans (batter and resonant, with port)",
+        "toms": "Evans (batter and resonant)",
+        "snare": "Evans (batter and resonant)"
       }
     },
     "brazilianRoots": {
@@ -276,7 +276,7 @@ export const articles = {
           "cymbals": "Full Paiste RUDE arsenal",
           "hardware": "Tama Speed Cobra"
         },
-        "notes": "Signature sticks from Promark. Modern Drummer recognition grows."
+        "notes": "Vic Firth stick endorsement. Modern Drummer recognition grows."
       },
       {
         "era": "Slipknot Era",
@@ -387,13 +387,13 @@ export const articles = {
           "notes": "Rolling Glide cam for speed"
         },
         {
-          "item": "Promark Eloy Casagrande Signature Sticks",
+          "item": "Vic Firth Drumsticks",
           "available": true,
           "priceRange": "$12-15",
-          "notes": "Custom balance for power/speed"
+          "notes": "Eloy's long-running stick endorsement"
         },
         {
-          "item": "Remo Emperor/Ambassador Heads",
+          "item": "Evans Drumheads",
           "available": true,
           "priceRange": "$15-30 each",
           "notes": "Industry standard for attack and tone"
@@ -416,7 +416,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Right Drummer at the Right Time",
-      "content": "When Slipknot announced Eloy Casagrande as their new drummer in 2024, some fans wondered if anyone could fill the legacy left by Joey Jordison and Jay Weinberg. After two years of touring, the answer is clear: Eloy isn't just filling those shoes — he's walking his own path while honoring those who came before.\n\nHis gear choices reflect his philosophy: professional equipment built for reliability and projection, not exotic choices for their own sake. Tama Starclassic Bubinga drums because they deliver the attack and warmth needed for Slipknot's dense mix. Paiste RUDE cymbals because they're literally designed for aggressive, heavy hitting. Promark signature sticks because he knows exactly what he needs.\n\nBut gear is just tools. What makes Eloy the right choice for Slipknot is harder to quantify:\n\n- **The pedigree**: 13 years with Sepultura proved he could handle legendary material\n- **The recognition**: Modern Drummer's #1 metal drummer ranking validates his peers' respect\n- **The adaptability**: He plays Joey's and Jay's parts with respect while adding his own flavor\n- **The hunger**: At 33, he's still ascending, still improving, still hungry\n- **The soul**: That Brazilian swing makes technical playing feel musical\n\nFor drummers studying Eloy's work, the lessons extend beyond gear specs:\n\n1. **Respect your predecessors**: Learn the original parts before adding your touch\n2. **Groove over flash**: Technical ability means nothing without feel\n3. **Conditioning matters**: Stadium shows require athletic preparation\n4. **Stay humble**: Even as #1 ranked, keep learning and growing\n5. **Bring yourself**: Your background and influences make you unique\n\nEloy Casagrande's journey from São Paulo to Slipknot's stage represents what's possible when talent meets opportunity meets preparation. He didn't just join one of metal's biggest bands — he proved he belongs there.\n\n🤘 *\"The mask doesn't change who you are — it reveals who you've always been.\"* 🤘"
+      "content": "When Slipknot announced Eloy Casagrande as their new drummer in 2024, some fans wondered if anyone could fill the legacy left by Joey Jordison and Jay Weinberg. After two years of touring, the answer is clear: Eloy isn't just filling those shoes — he's walking his own path while honoring those who came before.\n\nHis gear choices reflect his philosophy: professional equipment built for reliability and projection, not exotic choices for their own sake. Tama Starclassic Bubinga drums because they deliver the attack and warmth needed for Slipknot's dense mix. Paiste RUDE cymbals because they're literally designed for aggressive, heavy hitting. Vic Firth sticks because he knows exactly what he needs.\n\nBut gear is just tools. What makes Eloy the right choice for Slipknot is harder to quantify:\n\n- **The pedigree**: 13 years with Sepultura proved he could handle legendary material\n- **The recognition**: Modern Drummer's #1 metal drummer ranking validates his peers' respect\n- **The adaptability**: He plays Joey's and Jay's parts with respect while adding his own flavor\n- **The hunger**: At 33, he's still ascending, still improving, still hungry\n- **The soul**: That Brazilian swing makes technical playing feel musical\n\nFor drummers studying Eloy's work, the lessons extend beyond gear specs:\n\n1. **Respect your predecessors**: Learn the original parts before adding your touch\n2. **Groove over flash**: Technical ability means nothing without feel\n3. **Conditioning matters**: Stadium shows require athletic preparation\n4. **Stay humble**: Even as #1 ranked, keep learning and growing\n5. **Bring yourself**: Your background and influences make you unique\n\nEloy Casagrande's journey from São Paulo to Slipknot's stage represents what's possible when talent meets opportunity meets preparation. He didn't just join one of metal's biggest bands — he proved he belongs there.\n\n🤘 *\"The mask doesn't change who you are — it reveals who you've always been.\"* 🤘"
     }
   },
   "machine-messiah-drum-setup": {
@@ -499,7 +499,7 @@ export const articles = {
       "shell": "Steel shell for focused crack and projection",
       "description": "Eloy's snare on *Machine Messiah* delivered the focused crack needed to anchor Sepultura's dense thrash arrangements. A steel shell construction provides the immediate, defined attack that cuts through distorted guitars without losing presence in a heavy mix — essential for a band recording in the same territory as Sepultura's classic catalog.\n\nJens Bogren's engineering at Fascination Street captured the snare's natural character: bright enough to assert authority in the mix, with enough body to support the dynamic passages that *Machine Messiah* required. The result was a snare voice that established Eloy's rhythmic authority from his very first Sepultura studio record.",
       "tuningSetting": "Medium-high for definition and projection across tempo range",
-      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
+      "heads": "Evans (batter and resonant)",
       "estimatedValue": "$350-500 (2017)"
     },
     "cymbals": {
@@ -565,15 +565,15 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "ProMark",
-          "model": "ProMark Eloy Casagrande Signature TX5BW",
-          "notes": "Forward-balanced signature sticks for control and response"
+          "brand": "Vic Firth",
+          "model": "Vic Firth",
+          "notes": "Vic Firth stick endorsement, carried throughout his Sepultura tenure"
         }
       ],
       "heads": {
-        "bassKick": "Remo Powerstroke 3 Clear (batter) / Remo Powerstroke 3 (resonant)",
-        "toms": "Remo Emperor Clear (batter) / Remo Ambassador Clear (resonant)",
-        "snare": "Remo Coated Ambassador (batter) / Remo Ambassador Snare Side (resonant)"
+        "bassKick": "Evans (batter and resonant)",
+        "toms": "Evans (batter and resonant)",
+        "snare": "Evans (batter and resonant)"
       }
     },
     "recordingTechniques": {
@@ -693,7 +693,7 @@ export const articles = {
       },
       {
         "question": "What is Eloy Casagrande's drum setup on Machine Messiah?",
-        "answer": "On Machine Messiah (2017), Eloy Casagrande's setup was: Tama Starclassic Walnut/Birch shells (twin 22\"x18\" bass drums, 10\"/12\"/14\" rack toms, 16\" floor tom); Paiste 2002/RUDE cymbals (14\" hi-hats, 16\" and 18\" crashes, 20\" ride, 18\" china); a Tama Iron Cobra 900 double pedal; ProMark Eloy Casagrande Signature sticks. Recorded at Fascination Street Studios, Örebro, Sweden with Jens Bogren producing."
+        "answer": "On Machine Messiah (2017), Eloy Casagrande's setup was: Tama Starclassic Walnut/Birch shells (twin 22\"x18\" bass drums, 10\"/12\"/14\" rack toms, 16\" floor tom); Paiste 2002/RUDE cymbals (14\" hi-hats, 16\" and 18\" crashes, 20\" ride, 18\" china); a Tama Iron Cobra 900 double pedal; Vic Firth sticks. Recorded at Fascination Street Studios, Örebro, Sweden with Jens Bogren producing."
       },
       {
         "question": "How does Eloy's Machine Messiah setup compare to his Quadra setup?",
@@ -789,7 +789,7 @@ export const articles = {
       "shell": "1.2mm Steel shell",
       "description": "Eloy Casagrande's snare on *Quadra* was the Tama S.L.P. Sonic Steel — a drum that became the signature of his Sepultura sound and one of the most recognizable elements of his playing identity during this era. The seamless 1.2mm steel shell delivers a bright, sensitive crack that cuts through dense guitar arrangements without becoming harsh or fatiguing.\n\nFor the *Quadra* sessions, the Sonic Steel's character served the album's range of demands. On the record's heaviest, fastest passages — where Eloy's snare needs to deliver authoritative, precise backbeats at extreme tempos — the drum's focused attack and clear crack provided the rhythmic anchor that holds the arrangement together. On the more dynamic, compositionally sophisticated sections, the thin steel shell's sensitivity allowed for ghost note nuance and dynamic gradation that a heavier, thicker snare would have denied.\n\nJens Bogren's production approach at Fascination Street captured the Sonic Steel's full character. The drum was tuned at medium-high tension — bright enough to cut through the mix at full band volume, but not so tight that ghost note sensitivity was sacrificed. The result is a snare sound that works across *Quadra*'s entire dynamic spectrum: equally authoritative in \"Isolation\"'s thrash passages and nuanced in the record's more reflective moments.\n\nThis snare, more than any single piece of gear, defines the sound of *Quadra*. The crack at the top of the mix — present, defined, and rhythmically authoritative — is the sound of a drummer who had fully mastered his instrument.",
       "tuningSetting": "Medium-high for cut and definition across tempo range",
-      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
+      "heads": "Evans (batter and resonant)",
       "estimatedValue": "$350-500 (2020)"
     },
     "cymbals": {
@@ -861,20 +861,20 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "ProMark",
-          "model": "ProMark Eloy Casagrande Signature TX5BW",
-          "notes": "Eloy's signature ProMark sticks — forward-balanced for control and response in dense studio arrangements"
+          "brand": "Vic Firth",
+          "model": "Vic Firth",
+          "notes": "Eloy's long-running Vic Firth endorsement, unchanged from Machine Messiah"
         }
       ],
       "heads": {
-        "bassKick": "Remo Powerstroke 3 Clear (batter) / Remo Powerstroke 3 Black Dot (resonant with Sepultura logo)",
-        "toms": "Remo Emperor Clear (batter) / Remo Ambassador Clear (resonant)",
-        "snare": "Remo Coated Ambassador (batter) / Remo Ambassador Snare Side (resonant)"
+        "bassKick": "Evans (batter and resonant, with Sepultura logo)",
+        "toms": "Evans (batter and resonant)",
+        "snare": "Evans (batter and resonant)"
       }
     },
     "recordingTechniques": {
       "title": "Jens Bogren at Fascination Street: The Modern Metal Blueprint",
-      "content": "Jens Bogren's production at Fascination Street Studios brought Sepultura into one of the most sophisticated recording environments available to modern metal. Bogren — known for landmark productions with Opeth, Arch Enemy, Amon Amarth, Kreator, and Borknagar — approaches drum recording with the philosophy that acoustic instruments should sound like themselves, captured faithfully rather than shaped artificially.\n\n**The Room:**\nFascination Street's live room was optimized for the natural resonance that Bogren's approach demands. For *Quadra*, the room provided controlled ambience — enough natural reflection to give the drums dimension and space, without the excessive reverb that would smear the album's dense arrangements. Eloy's Tama Starclassic Walnut/Birch shells responded to this environment with their characteristic warmth and sustain.\n\n**Microphone Setup (Bogren methodology):**\n- Kick drums: AKG D112 inside each drum positioned tight to the beater; Yamaha NS10 subkick for low-end body definition\n- Snare: Shure SM57 top (angled) + Beyerdynamic M201 bottom for wire articulation\n- Toms: Sennheiser MD421 on each drum for full, warm capture\n- Hi-hat: AKG C451 condenser for cymbal clarity\n- Overheads: Neumann U87s in ORTF stereo configuration\n- Room mics: Coles 4038 ribbon mics for natural ambience control\n\n**Dynamic Range as Production Philosophy:**\nWhere many thrash and extreme metal productions compress the drums toward consistent, impact-maximizing density, Bogren's approach on *Quadra* preserved dynamic range. Eloy's ghost notes are audible; his quiet passages have genuine space; his loud passages have genuine impact. This is the production philosophy of a classical-trained engineer working within extreme metal conventions — and the result is a drum performance that reveals more with each listen.\n\n**No Triggers:**\nConsistent with Bogren's production philosophy, the *Quadra* drum recording used no electronic drum samples or triggers. Every sound on the record is Eloy Casagrande hitting his Tama kit in the Fascination Street live room. The punch and definition of the bass drums comes from Remo Powerstroke 3 heads, precise tuning, and Eloy's technique — not supplementary samples.",
+      "content": "Jens Bogren's production at Fascination Street Studios brought Sepultura into one of the most sophisticated recording environments available to modern metal. Bogren — known for landmark productions with Opeth, Arch Enemy, Amon Amarth, Kreator, and Borknagar — approaches drum recording with the philosophy that acoustic instruments should sound like themselves, captured faithfully rather than shaped artificially.\n\n**The Room:**\nFascination Street's live room was optimized for the natural resonance that Bogren's approach demands. For *Quadra*, the room provided controlled ambience — enough natural reflection to give the drums dimension and space, without the excessive reverb that would smear the album's dense arrangements. Eloy's Tama Starclassic Walnut/Birch shells responded to this environment with their characteristic warmth and sustain.\n\n**Microphone Setup (Bogren methodology):**\n- Kick drums: AKG D112 inside each drum positioned tight to the beater; Yamaha NS10 subkick for low-end body definition\n- Snare: Shure SM57 top (angled) + Beyerdynamic M201 bottom for wire articulation\n- Toms: Sennheiser MD421 on each drum for full, warm capture\n- Hi-hat: AKG C451 condenser for cymbal clarity\n- Overheads: Neumann U87s in ORTF stereo configuration\n- Room mics: Coles 4038 ribbon mics for natural ambience control\n\n**Dynamic Range as Production Philosophy:**\nWhere many thrash and extreme metal productions compress the drums toward consistent, impact-maximizing density, Bogren's approach on *Quadra* preserved dynamic range. Eloy's ghost notes are audible; his quiet passages have genuine space; his loud passages have genuine impact. This is the production philosophy of a classical-trained engineer working within extreme metal conventions — and the result is a drum performance that reveals more with each listen.\n\n**No Triggers:**\nConsistent with Bogren's production philosophy, the *Quadra* drum recording used no electronic drum samples or triggers. Every sound on the record is Eloy Casagrande hitting his Tama kit in the Fascination Street live room. The punch and definition of the bass drums comes from Eloy's Evans heads, precise tuning, and technique — not supplementary samples.",
       "keyTechniques": [
         "Fascination Street acoustic environment optimized for natural resonance and controlled ambience",
         "AKG D112 kick mics positioned tight to beater for attack definition",
@@ -1109,7 +1109,7 @@ export const articles = {
       "shell": "1.2mm Steel shell",
       "description": "Eloy's snare on *The Mediator* was the Tama S.L.P. (Sound Lab Project) Big Black Steel — a deep, dark-finished steel snare built for maximum crack and projection. At 6.5\" deep, it sits deeper than the 5.5\" snares Eloy would favor in later years, delivering a fuller body alongside the steel shell's characteristic bite.\n\nRoss Robinson's engineering captured the snare close and direct, in keeping with his philosophy of minimal studio polish: the goal was a snare that hit like a live performance, not a sample-replaced, triggered sound common to much of mid-2010s metal production. For a 21-year-old drummer stepping into one of thrash metal's most demanding rhythmic chairs, that steel crack established his presence immediately.",
       "tuningSetting": "Medium-high, deep shell for added body alongside steel bite",
-      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
+      "heads": "Evans (batter and resonant)",
       "estimatedValue": "$300-450 (2013)"
     },
     "cymbals": {
@@ -1175,15 +1175,15 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "ProMark",
-          "model": "ProMark TX5B Hickory",
-          "notes": "Standard 5B model — Eloy's signature ProMark model came later in his career"
+          "brand": "Vic Firth",
+          "model": "Vic Firth",
+          "notes": "Eloy's Vic Firth endorsement, in place from the start of his Sepultura career"
         }
       ],
       "heads": {
-        "bassKick": "Remo Powerstroke 3 Clear (batter) / Remo Powerstroke 3 (resonant)",
-        "toms": "Remo Emperor Clear (batter) / Remo Ambassador Clear (resonant)",
-        "snare": "Remo Coated Ambassador (batter) / Remo Ambassador Snare Side (resonant)"
+        "bassKick": "Evans (batter and resonant)",
+        "toms": "Evans (batter and resonant)",
+        "snare": "Evans (batter and resonant)"
       }
     },
     "recordingTechniques": {

@@ -16,15 +16,14 @@ export const articles = {
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
     "author": "MetalForge Editorial",
-    "title": "Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide",
-    "metaTitle": "Daniel Erlandsson Drum Kit & Gear Setup — At The Gates | MetalForge",
+    "title": "Daniel Erlandsson's Drum Setup — Arch Enemy Kit Guide",
+    "metaTitle": "Daniel Erlandsson Drum Kit & Gear Setup — Arch Enemy | MetalForge",
     "description": "Daniel Erlandsson's complete drum setup for Arch Enemy — Pearl Reference Pure, Sabian AAX/HHX cymbals, Pearl Eliminator pedal, and his signature snare. Gothenburg melodic death metal drum gear breakdown.",
     "seoKeywords": [
       "daniel erlandsson drum setup",
       "arch enemy drummer",
       "daniel erlandsson drum kit",
       "arch enemy drummer gear",
-      "at the gates drummer",
       "gothenburg melodic death metal drums",
       "daniel erlandsson pearl drums",
       "daniel erlandsson sabian cymbals"

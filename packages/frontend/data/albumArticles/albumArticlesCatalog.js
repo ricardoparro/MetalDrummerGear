@@ -1656,7 +1656,7 @@ export const ALBUM_ARTICLES_META = {
       "jaska-raatikainen"
     ],
     "genre": "Melodic Death Metal",
-    "title": "Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide",
+    "title": "Daniel Erlandsson's Drum Setup — Arch Enemy Kit Guide",
     "description": "Daniel Erlandsson's complete drum setup for Arch Enemy — Pearl Reference Pure, Sabian AAX/HHX cymbals, Pearl Eliminator pedal, and his signature snare. Gothenburg melodic death metal drum gear breakdown.",
     "ogImage": "/images/drummers/daniel-erlandsson.webp",
     "datePublished": "2026-06-19",

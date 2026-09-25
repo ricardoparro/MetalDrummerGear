@@ -3962,11 +3962,11 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
         alternative: "Pearl Eliminator or Tama Iron Cobra 900 for similar precision"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth 5A',
-        specs: 'Standard 5A length and diameter, nylon tip',
-        description: "Mike uses standard 5A sticks — emphasizing that elite technique doesn't require specialty gear. The balance of a quality 5A supports his dynamic range from pianissimo to fortissimo.",
-        alternative: "Any quality 5A or 5B depending on desired weight"
+        brand: 'Vater',
+        model: 'Mike Mangini Wicked Piston (VHMMWP)',
+        specs: 'Signature model, since 2011',
+        description: "Mike plays his Vater Wicked Piston signature stick, designed around his need for balance and precision across an unusually wide dynamic range — from pianissimo ghost notes to fortissimo backbeats.",
+        alternative: "Vater's standard 5A or 5B models for similar weight and balance"
       },
       heads: {
         kick: 'Remo Powerstroke 3',
@@ -4044,7 +4044,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
         kit: "Pearl Export Series ($800)",
         cymbals: "Sabian XSR Expanded Set ($250)",
         pedals: "Pearl P930 Double Pedal ($200)",
-        sticks: "Vic Firth 5A ($10)",
+        sticks: "Vater 5A ($10)",
         notes: "Pearl Export delivers Pearl feel and tone at an accessible price point. Focus development resources on technique."
       },
       mid: {
@@ -4053,7 +4053,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
         kit: "Pearl Decade Maple ($2,000)",
         cymbals: "Sabian AAX Set ($1,000)",
         pedals: "Pearl Eliminator Double Pedal ($400)",
-        sticks: "Vic Firth 5A ($10)",
+        sticks: "Vater 5A ($10)",
         notes: "Pearl Decade Maple gives you closer Pearl tone. AAX cymbals match the dynamic range Mike's style demands."
       },
       pro: {

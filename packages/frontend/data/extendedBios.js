@@ -2173,17 +2173,16 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
 - **Cymbals**: disputed between sources for this era (Zildjian K Custom vs. Paiste RUDE) — left unconfirmed pending a corroborating source
 
 **Cavalera Conspiracy Era (2007-2018):**
-- **Drums**: Tama Starclassic Maple
-- **Snare**: Tama S.L.P. 14"x6.5" G-Maple
-- **Cymbals**: Paiste (RUDE series for durability)
-- **Hardware**: Tama Iron Cobra double pedal
+- **Drums**: ddrum Hybrid Kit
+- **Cymbals**: Zildjian A Custom Series
+- **Hardware**: DW double pedal
 - **Additional Percussion**: Atabaques, surdo, timbales, tribal percussion
 - **Sticks**: Vic Firth American Classic 5B
 - **Heads**: Remo
 
 **Yamaha & Zildjian Era (2018-Present):**
-- **Drums**: Yamaha Absolute Hybrid Maple (announced as a new endorsement in August 2018, moving off Tama)
-- **Cymbals**: Zildjian, replacing his prior Paiste setup
+- **Drums**: Yamaha Absolute Hybrid Maple (announced as a new endorsement in August 2018, moving off ddrum)
+- **Cymbals**: Zildjian A Custom Series (unchanged since the 2006 switch from Paiste)
 - **Hardware**: Tama Iron Cobra double pedal
 - **Additional Percussion**: Atabaques, surdo, timbales, tribal percussion
 

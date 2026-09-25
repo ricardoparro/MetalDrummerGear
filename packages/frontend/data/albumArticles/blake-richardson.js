@@ -121,7 +121,7 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (Meinl Byzance Extra Dry setup, 2005 configuration)"
     },
     "hardware": {
-      "title": "DW 9002 and Vic Firth 5B: The Foundation of Richardson's Technique",
+      "title": "DW 9002 and Vic Firth 3A: The Foundation of Richardson's Technique",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -133,9 +133,9 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "Hickory 5B — mass and control balanced for BTBAM's full dynamic range on Alaska",
-          "description": "Richardson plays Vic Firth American Classic 5B sticks — a balanced hickory design that has remained his stick choice across the entire BTBAM catalog. On Alaska, where the same performance might include full-force blast beat sections and delicate ghost-note interludes, the 5B's additional mass compared to a 5A provides projection and durability for the intense passages while the hickory construction's springback maintains enough sensitivity for the restrained sections."
+          "model": "Vic Firth American Classic 3A",
+          "notes": "Hickory 3A — mass and control balanced for BTBAM's full dynamic range on Alaska",
+          "description": "Richardson plays Vic Firth American Classic 3A sticks — a balanced hickory design that has remained his stick choice across the entire BTBAM catalog. On Alaska, where the same performance might include full-force blast beat sections and delicate ghost-note interludes, the 3A's mass and diameter provide projection and durability for the intense passages while the hickory construction's springback maintains enough sensitivity for the restrained sections."
         },
         {
           "type": "Drumheads (Toms, Batter)",
@@ -327,8 +327,8 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "Hickory 5B — the Richardson stick across the entire BTBAM catalog, including The Parallax II"
+          "model": "Vic Firth American Classic 3A",
+          "notes": "Hickory 3A — the Richardson stick across the entire BTBAM catalog, including The Parallax II"
         },
         {
           "type": "Hardware",
@@ -526,7 +526,7 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
+          "model": "Vic Firth American Classic 3A",
           "notes": "Richardson's consistent stick choice across the entire BTBAM catalog through Coma Ecliptic and beyond"
         },
         {
@@ -708,7 +708,7 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (Meinl Byzance Extra Dry setup, 2007 configuration)"
     },
     "hardware": {
-      "title": "DW 9002 and Vic Firth 5B: The Foundation of Colors' Landmark Performances",
+      "title": "DW 9002 and Vic Firth 3A: The Foundation of Colors' Landmark Performances",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -720,9 +720,9 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "Hickory 5B — Richardson's consistent stick choice across the entire BTBAM catalog including Colors",
-          "description": "Richardson's Vic Firth American Classic 5B sticks provide the balanced mass and control *Colors*' full dynamic range demands. The 5B's additional diameter compared to a 5A delivers projection and durability for the album's most intense passages while hickory's springback maintains sensitivity for the restrained ghost note sections. On a 65-minute record that moves between blast beat intensity and near-silent ambient passages within single tracks, this balance is essential."
+          "model": "Vic Firth American Classic 3A",
+          "notes": "Hickory 3A — Richardson's consistent stick choice across the entire BTBAM catalog including Colors",
+          "description": "Richardson's Vic Firth American Classic 3A sticks provide the balanced mass and control *Colors*' full dynamic range demands. The 3A's diameter delivers projection and durability for the album's most intense passages while hickory's springback maintains sensitivity for the restrained ghost note sections. On a 65-minute record that moves between blast beat intensity and near-silent ambient passages within single tracks, this balance is essential."
         },
         {
           "type": "Drumheads (Toms, Batter)",
@@ -892,7 +892,7 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (Meinl Byzance Extra Dry setup, 2009 configuration)"
     },
     "hardware": {
-      "title": "DW 9002 and Vic Firth 5B: Colors-Era Foundation for an Extended Epic",
+      "title": "DW 9002 and Vic Firth 3A: Colors-Era Foundation for an Extended Epic",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -904,8 +904,8 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "Hickory 5B — Richardson's consistent stick choice across the entire Alaska/Colors era and beyond"
+          "model": "Vic Firth American Classic 3A",
+          "notes": "Hickory 3A — Richardson's consistent stick choice across the entire Alaska/Colors era and beyond"
         },
         {
           "type": "Drumheads (Toms, Batter)",
@@ -971,7 +971,7 @@ export const articles = {
     "dateModified": "2026-06-28",
     "author": "MetalForge Editorial",
     "title": "Blake Richardson's Drum Setup on Between the Buried and Me's Automata I (2018)",
-    "description": "Blake Richardson's drum kit and gear on BTBAM's Automata I (Feb 2018): Pearl Reference Pure drums, Sabian Dark/Extra Dry cymbals, Tama Iron Cobra Power Glide double pedal, and the concept album that launched BTBAM's most ambitious two-part arc on Sumerian Records.",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's Automata I (Feb 2018): Tama Starclassic Bubinga drums, Sabian Dark/Extra Dry cymbals, Tama Iron Cobra Power Glide double pedal, and the concept album that launched BTBAM's most ambitious two-part arc on Sumerian Records.",
     "seoKeywords": [
       "automata i drum setup",
       "between the buried and me automata drum setup",
@@ -980,15 +980,15 @@ export const articles = {
       "automata i 2018 drum kit",
       "blake richardson 2018 drum setup",
       "between the buried and me 2018 drums",
-      "blake richardson pearl reference pure"
+      "blake richardson tama starclassic bubinga"
     ],
     "ogImage": "/images/drummers/blake-richardson.webp",
     "intro": {
       "title": "Automata I: BTBAM Enters the Sumerian Era",
-      "content": "Released February 9, 2018 on Sumerian Records, Automata I is the first half of Between the Buried and Me's most ambitious two-part project — a concept album released in two installments across a single year, completing their arc of large-scale conceptual works. After Coma Ecliptic (2015) charted in the UK and demonstrated BTBAM's capacity to reach a broader progressive audience, Automata I introduced the band to Sumerian Records' production infrastructure while maintaining the compositional principles that had defined their decade-long progressive metal legacy.\n\nAutomata I arrived as BTBAM's seventh studio album, more than a decade after Colors (2007) and three albums after The Parallax II: Future Sequence (2012). The record's concept explores artificial consciousness and digital identity — a science fiction narrative that draws on the same philosophical ambition as the Parallax arc while grounding the storytelling in near-future technology rather than deep space. The album's six tracks form a self-contained arc that gains full resolution only with Automata II (July 2018), the companion release completed later the same year.\n\nBlake Richardson's drumming on Automata I reflects the full maturation of a player who had been developing his progressive metal voice since Alaska (2005). His technique is fully absorbed: odd-time signatures do not announce themselves as technical feats, metric modulations feel inevitable rather than calculated, and the compositional double-bass approach — varying kick density with the music's emotional arc — is deployed with the naturalness that comes only from two decades of intensive practice in one of the genre's most demanding bands. Automata I is not Richardson's most technically complex record, but it is among his most musically complete.\n\nGear-wise, Automata I marks Richardson's documented transition to the Pearl Reference Pure kit — all-maple shells with warmer, more resonant character than the Tama Starclassic Bubinga that had anchored the Colors through Coma Ecliptic eras. The Pearl Reference Pure's warmth suited Sumerian Records' more layered, produced aesthetic, giving the drums presence in a denser mix without losing the dynamic range BTBAM's music requires. Sabian cymbals — Dark, Extra Dry, and elements of the Traditional series — completed the setup with the same complex tonal vocabulary Richardson had built across the Parallax and Coma Ecliptic periods.\n\nJamie King's production at The Basement Studio on Automata I balances the band's established progressive identity with the polished modern production Sumerian Records is known for. The drum sound has more sonic sheen than earlier BTBAM records while preserving the dynamic range that keeps Richardson's performances musical rather than mechanically impressive. King had been producing BTBAM since Alaska; Automata I represents the culmination of their recording relationship in the band's most sonically ambitious studio configuration.",
+      "content": "Released February 9, 2018 on Sumerian Records, Automata I is the first half of Between the Buried and Me's most ambitious two-part project — a concept album released in two installments across a single year, completing their arc of large-scale conceptual works. After Coma Ecliptic (2015) charted in the UK and demonstrated BTBAM's capacity to reach a broader progressive audience, Automata I introduced the band to Sumerian Records' production infrastructure while maintaining the compositional principles that had defined their decade-long progressive metal legacy.\n\nAutomata I arrived as BTBAM's seventh studio album, more than a decade after Colors (2007) and three albums after The Parallax II: Future Sequence (2012). The record's concept explores artificial consciousness and digital identity — a science fiction narrative that draws on the same philosophical ambition as the Parallax arc while grounding the storytelling in near-future technology rather than deep space. The album's six tracks form a self-contained arc that gains full resolution only with Automata II (July 2018), the companion release completed later the same year.\n\nBlake Richardson's drumming on Automata I reflects the full maturation of a player who had been developing his progressive metal voice since Alaska (2005). His technique is fully absorbed: odd-time signatures do not announce themselves as technical feats, metric modulations feel inevitable rather than calculated, and the compositional double-bass approach — varying kick density with the music's emotional arc — is deployed with the naturalness that comes only from two decades of intensive practice in one of the genre's most demanding bands. Automata I is not Richardson's most technically complex record, but it is among his most musically complete.\n\nGear-wise, Automata I continues Richardson's Tama Starclassic Bubinga kit — the same configuration that had anchored the Colors through Coma Ecliptic eras — now captured within Sumerian Records' more layered, produced aesthetic. The Starclassic Bubinga's warmth gives the drums presence in a denser mix without losing the dynamic range BTBAM's music requires. Sabian cymbals — Dark, Extra Dry, and elements of the Traditional series — completed the setup with the same complex tonal vocabulary Richardson had built across the Parallax and Coma Ecliptic periods.\n\nJamie King's production at The Basement Studio on Automata I balances the band's established progressive identity with the polished modern production Sumerian Records is known for. The drum sound has more sonic sheen than earlier BTBAM records while preserving the dynamic range that keeps Richardson's performances musical rather than mechanically impressive. King had been producing BTBAM since Alaska; Automata I represents the culmination of their recording relationship in the band's most sonically ambitious studio configuration.",
       "keyPoints": [
         "BTBAM's first Sumerian Records album — part one of the two-part Automata concept arc (Automata II follows in July 2018)",
-        "Blake Richardson transitions to Pearl Reference Pure kit — all-maple warmth for Sumerian's more layered production",
+        "Blake Richardson's Tama Starclassic Bubinga kit continues into the Sumerian era, captured with more layered production",
         "Sabian Dark, Extra Dry, and Traditional series — full three-series setup of Richardson's mature period",
         "Concept explores artificial consciousness and digital identity — science fiction arc completed by Automata II",
         "Jamie King production at The Basement Studio — Sumerian-era polish while preserving BTBAM's dynamic identity",
@@ -996,9 +996,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Pearl Reference Pure: Warmth and Resonance for the Sumerian Era",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
+      "title": "Tama Starclassic Bubinga: Warmth and Resonance for the Sumerian Era",
+      "brand": "Tama",
+      "model": "Tama Starclassic Bubinga",
       "finish": "Custom lacquer finish",
       "config": {
         "bassdrums": [
@@ -1012,25 +1012,25 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "All-maple shells, 6-ply construction — warm, resonant tone suited to Automata I's layered Sumerian production"
+        "shells": "Bubinga shell construction — warm, resonant tone suited to Automata I's layered Sumerian production"
       },
-      "description": "Blake Richardson's Pearl Reference Pure kit marks the most significant gear transition of his recording career: the shift from the Tama Starclassic Bubinga configuration that had defined every BTBAM studio album from Alaska (2005) through Coma Ecliptic (2015) to Pearl's flagship all-maple design. The Reference Pure uses all-maple shell construction throughout — a distinction from Pearl's hybrid Reference series — producing a fuller, warmer fundamental tone that sits naturally in Sumerian Records' more layered production aesthetic without losing the dynamic range BTBAM's progressive arrangements demand.\n\nThe Reference Pure's all-maple construction provides a warmer midrange resonance than the Tama Starclassic Bubinga, with a character that carries equally well through Automata I's densest arrangements and its most restrained ambient passages. For a concept album that moves through extreme progressive metal, atmospheric sections, and melodic progressive rock within individual tracks, this tonal versatility is not incidental — it is the fundamental requirement. Where a harder-edged shell design emphasizes attack and cutting power, the Reference Pure's maple delivers warmth and fundamental pitch that suits the record's more produced sound.\n\nThe double bass drum configuration — two 22\"x18\" kicks rather than the single-kick-via-double-pedal approach Richardson had used on earlier records — reflects his evolved approach to the Automata era. Two bass drums provide a fuller low-end foundation and allow a slightly different feel in double-bass passages; Richardson's compositional double-bass philosophy remains unchanged (deploying kick density to follow the music's emotional arc rather than running constant patterns), but the two-drum configuration gives him additional tonal weight at the low end that suits Automata I's production character.\n\nThree rack toms (10\", 12\", 13\") and a 16\" floor tom continue the layout Richardson had used throughout his career, giving his fill architecture the wide pitch range BTBAM's melodic, section-marking fills require. Jamie King's production on Automata I captured the Reference Pure kit with the warmth the shells deliver, placing the drums in Sumerian's more layered mix with appropriate presence and dynamics.\n\nThe Pearl rack system provides the hardware stability the three-rack-tom configuration requires across intensive touring and extended studio sessions. Automata I was followed by an Automata world tour before Automata II was released later the same year — the kit needed to maintain consistent setup geometry across that full performance cycle.",
+      "description": "Blake Richardson's Tama Starclassic Bubinga kit on Automata I is the same configuration that had defined every BTBAM studio album since 2018 — there was no gear switch for the Sumerian era. The Starclassic Bubinga's bubinga shell construction produces a full, warm fundamental tone that sits naturally in Sumerian Records' more layered production aesthetic without losing the dynamic range BTBAM's progressive arrangements demand.\n\nThe Starclassic Bubinga's shell character carries equally well through Automata I's densest arrangements and its most restrained ambient passages. For a concept album that moves through extreme progressive metal, atmospheric sections, and melodic progressive rock within individual tracks, this tonal versatility is not incidental — it is the fundamental requirement.\n\nThe double bass drum configuration — two 22\"x18\" kicks — gives Richardson a fuller low-end foundation for Automata I's double-bass passages. Richardson's compositional double-bass philosophy remains unchanged: deploying kick density to follow the music's emotional arc rather than running constant patterns.\n\nThree rack toms (10\", 12\", 13\") and a 16\" floor tom continue the layout Richardson had used throughout his career, giving his fill architecture the wide pitch range BTBAM's melodic, section-marking fills require. Jamie King's production on Automata I captured the Starclassic Bubinga kit with the warmth the shells deliver, placing the drums in Sumerian's more layered mix with appropriate presence and dynamics.\n\nTama's rack hardware provides the stability the three-rack-tom configuration requires across intensive touring and extended studio sessions. Automata I was followed by an Automata world tour before Automata II was released later the same year — the kit needed to maintain consistent setup geometry across that full performance cycle.",
       "notes": [
-        "Pearl Reference Pure — all-maple construction replacing Tama Starclassic Bubinga from the Colors era",
+        "Tama Starclassic Bubinga — the same configuration Richardson has played since 2018, unchanged for the Automata era",
         "Double 22\" bass drum configuration for fuller low-end in Sumerian Records' layered production",
         "Three rack toms (10\", 12\", 13\") — wide pitch range for BTBAM's melodic fill sequences",
-        "Jamie King Basement Studio production captures Reference Pure warmth in Sumerian-era mix",
-        "Pearl rack system provides hardware stability across touring and recording demands"
+        "Jamie King Basement Studio production captures Starclassic Bubinga warmth in Sumerian-era mix",
+        "Tama rack hardware provides stability across touring and recording demands"
       ],
-      "estimatedValue": "$3,000–6,000 (Pearl Reference Pure shell pack, 2018 configuration)"
+      "estimatedValue": "$3,000–6,000 (Tama Starclassic Bubinga shell pack, 2018 configuration)"
     },
     "snare": {
-      "title": "Tama STARPHONIC Brass: Consistent Voice Through the Gear Transition",
+      "title": "Tama STARPHONIC Brass: Consistent Voice Across the Automata Era",
       "brand": "Tama",
       "model": "Tama STARPHONIC Brass Snare",
       "size": "14\" x 6.5\"",
       "shell": "Brass",
-      "description": "Even as Richardson transitioned his kit from Tama Starclassic Bubinga to Pearl Reference Pure for Automata I, his primary snare remained the Tama STARPHONIC brass at 14\"x6.5\" — the same model that had driven Colors (2007), The Parallax II (2012), and Coma Ecliptic (2015). The maple snare's warm, authoritative crack was so deeply embedded in BTBAM's sonic identity that changing it alongside the kit would have risked altering the fundamental character of Richardson's recorded voice more dramatically than the kit transition alone.\n\nThe 14\"x6.5\" maple configuration delivers the same full-bodied crack it had provided across the Colors and Parallax eras: warm enough for the ghost note vocabulary and jazz-inflected passages central to Automata I's more melodically developed arrangements, assertive enough to drive the album's most intense progressive metal sections. Tuned at medium tension, the maple shell provides authority at full velocity and sensitivity at low dynamics — the combination that has always been essential to Richardson's technique-to-music translation.\n\nAutomata I's Sumerian Records production placed the snare in a denser, more layered mix than earlier BTBAM records. The Tama STARPHONIC brass's warm midrange character helped the snare maintain presence in this environment without requiring aggressive compression that would undermine Richardson's dynamic range. Jamie King's Basement Studio capture of the snare on Automata I balanced close-mic clarity with room character — preserving the natural maple body that the snare had delivered across Richardson's entire career.",
+      "description": "Richardson's primary snare on Automata I remained the Tama STARPHONIC brass at 14\"x6.5\" — the same model that had driven Colors (2007), The Parallax II (2012), and Coma Ecliptic (2015). The brass snare's warm, authoritative crack has been deeply embedded in BTBAM's sonic identity across Richardson's entire recorded career.\n\nThe 14\"x6.5\" configuration delivers the same full-bodied crack it had provided across the Colors and Parallax eras: warm enough for the ghost note vocabulary and jazz-inflected passages central to Automata I's more melodically developed arrangements, assertive enough to drive the album's most intense progressive metal sections. Tuned at medium tension, the maple shell provides authority at full velocity and sensitivity at low dynamics — the combination that has always been essential to Richardson's technique-to-music translation.\n\nAutomata I's Sumerian Records production placed the snare in a denser, more layered mix than earlier BTBAM records. The Tama STARPHONIC brass's warm midrange character helped the snare maintain presence in this environment without requiring aggressive compression that would undermine Richardson's dynamic range. Jamie King's Basement Studio capture of the snare on Automata I balanced close-mic clarity with room character — preserving the natural maple body that the snare had delivered across Richardson's entire career.",
       "tuningSetting": "Medium tension — warm, authoritative crack across Automata I's dynamic range from intense progressive metal to ambient passages",
       "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
       "estimatedValue": "$400–700 (Tama STARPHONIC brass snare, 2018 configuration)"
@@ -1081,7 +1081,7 @@ export const articles = {
       "estimatedValue": "$2,500–4,000 (Sabian HHX Evolution, AAX, and HH setup, 2018 configuration)"
     },
     "hardware": {
-      "title": "Tama Iron Cobra, Pearl Rack, and Vic Firth 5B: The Automata Foundation",
+      "title": "Tama Iron Cobra, Pearl Rack, and Vic Firth 3A: The Automata Foundation",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -1093,8 +1093,8 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "Hickory 5B — Richardson's consistent stick choice across the entire BTBAM catalog through the Automata era"
+          "model": "Vic Firth American Classic 3A",
+          "notes": "Hickory 3A — Richardson's consistent stick choice across the entire BTBAM catalog through the Automata era"
         },
         {
           "type": "Hardware",
@@ -1124,7 +1124,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Blake Richardson use on Automata I?",
-        "answer": "Blake Richardson played a Pearl Reference Pure kit on Automata I (2018) — marking his transition from the Tama Starclassic Bubinga that had defined his setup from Alaska (2005) through Coma Ecliptic (2015). The Pearl Reference Pure uses all-maple shell construction, delivering a warmer, more resonant tone suited to Automata I's Sumerian Records production. Configuration: double 22\"x18\" bass drums, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+        "answer": "Blake Richardson played his Tama Starclassic Bubinga kit on Automata I (2018) — the same configuration that had defined his setup since 2018. The Starclassic Bubinga's bubinga shell construction delivers a warm, resonant tone suited to Automata I's Sumerian Records production. Configuration: double 22\"x18\" bass drums, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
       },
       {
         "question": "What is BTBAM's Automata I about?",
@@ -1132,7 +1132,7 @@ export const articles = {
       },
       {
         "question": "How does Automata I differ from earlier BTBAM albums in terms of Blake Richardson's drumming?",
-        "answer": "Automata I (2018) represents Richardson's drumming at its most mature and fully absorbed. Where earlier BTBAM records like Colors (2007) and The Parallax II (2012) showcased his developing technique in ways that remain slightly legible as technical achievement, Automata I deploys the same vocabulary — odd-time signatures, metric modulation, compositional double-bass, jazz-influenced ghost note work — as completely natural musical language. The Sumerian Records production gives Richardson's performances a more polished sonic environment than the rawer Basement Studio sound of earlier records. The gear transition to Pearl Reference Pure also contributes a warmer, more resonant drum character that suits the album's more layered production aesthetic. For context, see [Coma Ecliptic drum setup](/articles/coma-ecliptic-drum-setup) and [The Parallax II drum setup](/articles/the-parallax-ii-future-sequence-drum-setup)."
+        "answer": "Automata I (2018) represents Richardson's drumming at its most mature and fully absorbed. Where earlier BTBAM records like Colors (2007) and The Parallax II (2012) showcased his developing technique in ways that remain slightly legible as technical achievement, Automata I deploys the same vocabulary — odd-time signatures, metric modulation, compositional double-bass, jazz-influenced ghost note work — as completely natural musical language. The Sumerian Records production gives Richardson's performances a more polished sonic environment than the rawer Basement Studio sound of earlier records. The Tama Starclassic Bubinga kit's bubinga shell character also suits the album's more layered production aesthetic. For context, see [Coma Ecliptic drum setup](/articles/coma-ecliptic-drum-setup) and [The Parallax II drum setup](/articles/the-parallax-ii-future-sequence-drum-setup)."
       },
       {
         "question": "What label released BTBAM's Automata I and what changed from earlier albums?",
@@ -1150,7 +1150,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Automata I: Richardson's Technique Fully Absorbed",
-      "content": "Automata I (2018) is the first installment of BTBAM's most ambitious two-part project — a concept album that marks Blake Richardson's full transition into the Pearl Reference Pure era and demonstrates his technique at its most completely internalized. The metric modulations, odd-time signatures, and compositional double-bass approach that had been developing since Alaska (2005) are present on Automata I not as technical demonstrations but as natural musical language.\n\nHis Pearl Reference Pure kit, Sabian Dark/Extra Dry setup, and Tama Iron Cobra Power Glide double pedal represent the mature configuration of a drummer who has refined his tools as carefully as his technique.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Previous album**: [Coma Ecliptic drum setup (2015)](/articles/coma-ecliptic-drum-setup)\n- **Companion release**: [Automata II drum setup (2018)](/articles/automata-ii-drum-setup)\n- **Arc overview**: [The Parallax II drum setup (2012)](/articles/the-parallax-ii-future-sequence-drum-setup)"
+      "content": "Automata I (2018) is the first installment of BTBAM's most ambitious two-part project — a concept album that demonstrates Blake Richardson's technique at its most completely internalized. The metric modulations, odd-time signatures, and compositional double-bass approach that had been developing since Alaska (2005) are present on Automata I not as technical demonstrations but as natural musical language.\n\nHis Tama Starclassic Bubinga kit, Sabian Dark/Extra Dry setup, and Tama Iron Cobra Power Glide double pedal represent the mature configuration of a drummer who has refined his tools as carefully as his technique.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Previous album**: [Coma Ecliptic drum setup (2015)](/articles/coma-ecliptic-drum-setup)\n- **Companion release**: [Automata II drum setup (2018)](/articles/automata-ii-drum-setup)\n- **Arc overview**: [The Parallax II drum setup (2012)](/articles/the-parallax-ii-future-sequence-drum-setup)"
     }
   },
   "automata-ii-drum-setup": {
@@ -1170,7 +1170,7 @@ export const articles = {
     "dateModified": "2026-06-28",
     "author": "MetalForge Editorial",
     "title": "Blake Richardson's Drum Setup on Between the Buried and Me's Automata II (2018)",
-    "description": "Blake Richardson's drum kit and gear on BTBAM's Automata II (Jul 2018): Pearl Reference Pure drums, Sabian Dark/Extra Dry cymbals, Tama Iron Cobra Power Glide double pedal, and the companion release that completes BTBAM's Automata concept arc — their most recent concept album.",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's Automata II (Jul 2018): Tama Starclassic Bubinga drums, Sabian Dark/Extra Dry cymbals, Tama Iron Cobra Power Glide double pedal, and the companion release that completes BTBAM's Automata concept arc — their most recent concept album.",
     "seoKeywords": [
       "automata ii drum setup",
       "between the buried and me automata ii drums",
@@ -1179,15 +1179,15 @@ export const articles = {
       "automata ii 2018 drum kit",
       "btbam most recent album drummer",
       "between the buried and me 2018 concept album drums",
-      "blake richardson pearl reference pure automata"
+      "blake richardson tama starclassic bubinga automata"
     ],
     "ogImage": "/images/drummers/blake-richardson.webp",
     "intro": {
       "title": "Automata II: The Concept Arc Completed",
-      "content": "Released July 13, 2018 on Sumerian Records, Automata II is the second half of Between the Buried and Me's Automata concept arc — a companion release planned and recorded alongside Automata I (February 2018) as a single large-scale conceptual statement delivered in two installments across a single year. Together, Automata I and II form BTBAM's most recent concept album, closing the band's long arc of ambitious two-part and concept-driven projects that stretches back through Coma Ecliptic (2015), The Parallax II: Future Sequence (2012), and ultimately to Colors (2007).\n\nAutomata II resolves the narrative arc of Automata I — the artificial consciousness and digital identity concept that defined the first installment finds its conclusion across four tracks and forty minutes of music. The second release contains some of the most compositionally complex material in the two-part project: the extended tracks that anchor Automata II demand the full range of Richardson's progressive metal vocabulary, deploying his metric modulation approach, jazz-influenced hi-hat independence, and compositional double-bass technique across arrangements that are simultaneously the most accessible BTBAM has written and the most structurally sophisticated.\n\nBlake Richardson's drumming on Automata II is continuous with Automata I — same Pearl Reference Pure kit, same Sabian cymbal spread, same Jamie King production at The Basement Studio. The two records were conceived as one work, and Richardson's performances across both function as a single extended drumming document rather than two separate album sessions. The gear and technique on Automata II build on the foundation established in Automata I, with the second installment's more extended track structures giving Richardson additional room to deploy the compositional patience and dynamic range he had developed across thirteen years with BTBAM.\n\nSumerian Records' production approach on Automata II maintains the layered, polished aesthetic established on Automata I — a sonic environment that differs notably from the Basement Studio rawness of Colors or the density of The Parallax II. Jamie King's production balances Richardson's dynamic range against a more produced mix than earlier BTBAM records, ensuring the drums drive the arrangements without overwhelming the band's most melodically developed writing. Automata II and Automata I together represent the current endpoint of Blake Richardson's recorded career, as BTBAM's most recent concept album before Colors II (2021).\n\nThis article covers the complete drum setup Blake Richardson used on Automata II — the Pearl Reference Pure kit, Sabian cymbal spread, and playing approach that completed the Automata arc and closed the most prolific concept album period in BTBAM's twenty-year career.",
+      "content": "Released July 13, 2018 on Sumerian Records, Automata II is the second half of Between the Buried and Me's Automata concept arc — a companion release planned and recorded alongside Automata I (February 2018) as a single large-scale conceptual statement delivered in two installments across a single year. Together, Automata I and II form BTBAM's most recent concept album, closing the band's long arc of ambitious two-part and concept-driven projects that stretches back through Coma Ecliptic (2015), The Parallax II: Future Sequence (2012), and ultimately to Colors (2007).\n\nAutomata II resolves the narrative arc of Automata I — the artificial consciousness and digital identity concept that defined the first installment finds its conclusion across four tracks and forty minutes of music. The second release contains some of the most compositionally complex material in the two-part project: the extended tracks that anchor Automata II demand the full range of Richardson's progressive metal vocabulary, deploying his metric modulation approach, jazz-influenced hi-hat independence, and compositional double-bass technique across arrangements that are simultaneously the most accessible BTBAM has written and the most structurally sophisticated.\n\nBlake Richardson's drumming on Automata II is continuous with Automata I — same Tama Starclassic Bubinga kit, same Sabian cymbal spread, same Jamie King production at The Basement Studio. The two records were conceived as one work, and Richardson's performances across both function as a single extended drumming document rather than two separate album sessions. The gear and technique on Automata II build on the foundation established in Automata I, with the second installment's more extended track structures giving Richardson additional room to deploy the compositional patience and dynamic range he had developed across thirteen years with BTBAM.\n\nSumerian Records' production approach on Automata II maintains the layered, polished aesthetic established on Automata I — a sonic environment that differs notably from the Basement Studio rawness of Colors or the density of The Parallax II. Jamie King's production balances Richardson's dynamic range against a more produced mix than earlier BTBAM records, ensuring the drums drive the arrangements without overwhelming the band's most melodically developed writing. Automata II and Automata I together represent the current endpoint of Blake Richardson's recorded career, as BTBAM's most recent concept album before Colors II (2021).\n\nThis article covers the complete drum setup Blake Richardson used on Automata II — the Tama Starclassic Bubinga kit, Sabian cymbal spread, and playing approach that completed the Automata arc and closed the most prolific concept album period in BTBAM's twenty-year career.",
       "keyPoints": [
         "Companion to Automata I (Feb 2018) — four tracks completing the Automata concept arc on Sumerian Records",
-        "Blake Richardson's Pearl Reference Pure kit — same configuration as Automata I, two-record continuous setup",
+        "Blake Richardson's Tama Starclassic Bubinga kit — same configuration as Automata I, two-record continuous setup",
         "Sabian Dark, Extra Dry, and Traditional series — mature full three-series setup maintained",
         "Most recent BTBAM concept album before Colors II (2021) — closes the band's concept arc to near-present",
         "Jamie King Basement Studio production — Sumerian-era polish on the same Winston-Salem recording context",
@@ -1195,9 +1195,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Pearl Reference Pure: The Automata Arc's Unified Kit Foundation",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
+      "title": "Tama Starclassic Bubinga: The Automata Arc's Unified Kit Foundation",
+      "brand": "Tama",
+      "model": "Tama Starclassic Bubinga",
       "finish": "Custom lacquer finish",
       "config": {
         "bassdrums": [
@@ -1211,17 +1211,17 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "All-maple shells, 6-ply construction — warm, resonant tone unified across the entire Automata I & II arc"
+        "shells": "Bubinga shell construction — warm, resonant tone unified across the entire Automata I & II arc"
       },
-      "description": "The Pearl Reference Pure kit Richardson used on Automata II is the identical configuration he had employed on Automata I — the same all-maple shells, same double bass drum setup, same rack tom layout — recorded and toured as a single continuous gear configuration across the two-part Automata project. This consistency is not incidental: Automata I and II were conceived as one work, recorded in the same sessions at The Basement Studio, and the drum setup reflects that unity. The Pearl Reference Pure's warm, resonant all-maple character runs through both records as a unified sonic foundation.\n\nThe Reference Pure's all-maple construction provides the warm midrange fundamental that distinguishes it from harder-edged shell designs. For Automata II's extended track structures — the album's four tracks contain more compositional space than Automata I's more concise arrangements — this warmth is particularly important. Longer tracks with more dynamic range demand a kit that sounds musical across quiet ambient passages as well as dense, intense progressive metal sections; the Pearl maple delivers this versatility from a single tuning without requiring the compromises that a harder shell would impose at the extremes of BTBAM's dynamic spectrum.\n\nThe double bass drum configuration (two 22\"x18\" kicks) continued from Automata I, providing the low-end foundation and double-bass feel that characterizes Richardson's mature performance approach. The two-drum setup delivers a slightly different physical and sonic character than the single-kick-via-double-pedal approach he had used in the Colors and Parallax eras — more weight in the low end, a fuller fundamental, and a slightly different feel between feet that suits the more expansive compositional space of Automata II's extended arrangements.\n\nJamie King's production at The Basement Studio on Automata II maintained the Sumerian-era production character established on Automata I — the Reference Pure kit captured with warmth and clarity, placed in a mix that is denser and more layered than earlier BTBAM records but that preserves the dynamic range Richardson's performances require. The unity of production approach across both Automata records reinforces their status as a single conceptual and sonic work.",
+      "description": "The Tama Starclassic Bubinga kit Richardson used on Automata II is the identical configuration he had employed on Automata I — the same bubinga shells, same double bass drum setup, same rack tom layout — recorded and toured as a single continuous gear configuration across the two-part Automata project. This consistency is not incidental: Automata I and II were conceived as one work, recorded in the same sessions at The Basement Studio, and the drum setup reflects that unity. The Starclassic Bubinga's warm, resonant character runs through both records as a unified sonic foundation.\n\nThe Starclassic Bubinga's shell construction provides the warm midrange fundamental that distinguishes it from harder-edged shell designs. For Automata II's extended track structures — the album's four tracks contain more compositional space than Automata I's more concise arrangements — this warmth is particularly important. Longer tracks with more dynamic range demand a kit that sounds musical across quiet ambient passages as well as dense, intense progressive metal sections; the bubinga shells deliver this versatility from a single tuning without requiring the compromises that a harder shell would impose at the extremes of BTBAM's dynamic spectrum.\n\nThe double bass drum configuration (two 22\"x18\" kicks) continued from Automata I, providing the low-end foundation and double-bass feel that characterizes Richardson's mature performance approach.\n\nJamie King's production at The Basement Studio on Automata II maintained the Sumerian-era production character established on Automata I — the Starclassic Bubinga kit captured with warmth and clarity, placed in a mix that is denser and more layered than earlier BTBAM records but that preserves the dynamic range Richardson's performances require. The unity of production approach across both Automata records reinforces their status as a single conceptual and sonic work.",
       "notes": [
-        "Pearl Reference Pure — identical configuration to Automata I, unified kit across both concept arc records",
+        "Tama Starclassic Bubinga — identical configuration to Automata I, unified kit across both concept arc records",
         "Double 22\" bass drums — continued from Automata I for fuller low-end in extended Automata II arrangements",
         "Three rack toms (10\", 12\", 13\") — wide pitch range for fill sequences across Automata II's longer compositional arcs",
         "Jamie King production maintains Sumerian-era sonic consistency from Automata I through Automata II",
-        "All-maple warmth suited to Automata II's most melodically developed and atmospherically varied track structures"
+        "Bubinga shell warmth suited to Automata II's most melodically developed and atmospherically varied track structures"
       ],
-      "estimatedValue": "$3,000–6,000 (Pearl Reference Pure shell pack, 2018 configuration)"
+      "estimatedValue": "$3,000–6,000 (Tama Starclassic Bubinga shell pack, 2018 configuration)"
     },
     "snare": {
       "title": "Tama STARPHONIC Brass: The Unifying Voice Across Both Automata Records",
@@ -1229,7 +1229,7 @@ export const articles = {
       "model": "Tama STARPHONIC Brass Snare",
       "size": "14\" x 6.5\"",
       "shell": "Brass",
-      "description": "Richardson's Tama STARPHONIC brass snare on Automata II is the same instrument he played on Automata I — and the same model that had been his studio voice since Colors (2007). The 14\"x6.5\" maple snare serves as the sonic constant across the entire Automata concept arc: even as the kit transitioned from Tama Starclassic Bubinga to Pearl Reference Pure, even as the production context shifted from Metal Blade to Sumerian Records, Richardson's maple snare remained the consistent voice that tied the BTBAM drum sound to its identity.\n\nAutomata II's extended track structures place specific demands on the snare. The album's longer compositional arcs — with more space between the album's most intense sections — require the snare to operate with full authority during peak moments and genuine sensitivity during the quieter, more atmospheric passages that characterize some of the record's most distinctive writing. The 14\"x6.5\" maple handles both contexts without requiring head changes: medium tension gives body at full velocity and warmth for ghost note work and cross-stick techniques in the quieter sections.\n\nJamie King's snare capture on Automata II maintained the approach established on Automata I — close-mic clarity with room character from the overheads, preserving the natural maple body that had defined Richardson's snare tone across fifteen years of BTBAM recording. In Sumerian Records' more layered mix, the Tama STARPHONIC brass's warm midrange character helped the snare maintain presence and clarity without requiring the kind of aggressive compression that would compromise Richardson's dynamic range.",
+      "description": "Richardson's Tama STARPHONIC brass snare on Automata II is the same instrument he played on Automata I — and the same model that had been his studio voice since Colors (2007). The 14\"x6.5\" snare serves as the sonic constant across the entire Automata concept arc: even as the production context shifted from Metal Blade to Sumerian Records, Richardson's snare remained the consistent voice that tied the BTBAM drum sound to its identity.\n\nAutomata II's extended track structures place specific demands on the snare. The album's longer compositional arcs — with more space between the album's most intense sections — require the snare to operate with full authority during peak moments and genuine sensitivity during the quieter, more atmospheric passages that characterize some of the record's most distinctive writing. The 14\"x6.5\" maple handles both contexts without requiring head changes: medium tension gives body at full velocity and warmth for ghost note work and cross-stick techniques in the quieter sections.\n\nJamie King's snare capture on Automata II maintained the approach established on Automata I — close-mic clarity with room character from the overheads, preserving the natural maple body that had defined Richardson's snare tone across fifteen years of BTBAM recording. In Sumerian Records' more layered mix, the Tama STARPHONIC brass's warm midrange character helped the snare maintain presence and clarity without requiring the kind of aggressive compression that would compromise Richardson's dynamic range.",
       "tuningSetting": "Medium tension — same configuration as Automata I, warm authority across Automata II's full dynamic spectrum",
       "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
       "estimatedValue": "$400–700 (Tama STARPHONIC brass snare, 2018 configuration)"
@@ -1280,7 +1280,7 @@ export const articles = {
       "estimatedValue": "$2,500–4,000 (Sabian HHX Evolution, AAX, and HH setup, 2018 configuration)"
     },
     "hardware": {
-      "title": "Tama Iron Cobra, Pearl Rack, and Vic Firth 5B: Unified Across Both Automata Records",
+      "title": "Tama Iron Cobra, Pearl Rack, and Vic Firth 3A: Unified Across Both Automata Records",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -1292,8 +1292,8 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "Hickory 5B — Richardson's consistent stick across both Automata records and the entire BTBAM catalog"
+          "model": "Vic Firth American Classic 3A",
+          "notes": "Hickory 3A — Richardson's consistent stick across both Automata records and the entire BTBAM catalog"
         },
         {
           "type": "Hardware",
@@ -1323,7 +1323,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Blake Richardson use on Automata II?",
-        "answer": "Blake Richardson played a Pearl Reference Pure kit on Automata II (2018) — the same all-maple configuration he had used on Automata I (February 2018). The Pearl Reference Pure's all-maple construction delivers a warm, resonant tone suited to Sumerian Records' more layered production. Configuration: double 22\"x18\" bass drums, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. This represented a transition from the Tama Starclassic Bubinga that had defined Richardson's setup from Alaska (2005) through Coma Ecliptic (2015). Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+        "answer": "Blake Richardson played his Tama Starclassic Bubinga kit on Automata II (2018) — the same configuration he had used on Automata I (February 2018). The Starclassic Bubinga's bubinga shell construction delivers a warm, resonant tone suited to Sumerian Records' more layered production. Configuration: double 22\"x18\" bass drums, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
       },
       {
         "question": "What is BTBAM's most recent concept album?",
@@ -1331,11 +1331,11 @@ export const articles = {
       },
       {
         "question": "How does Automata II complete the Automata concept arc?",
-        "answer": "Automata II (July 2018) provides the narrative resolution for the artificial consciousness and digital identity story arc that began in Automata I (February 2018). Released five months after the first installment, Automata II was planned and recorded as the arc's conclusion — its four tracks extending the compositional ideas of Automata I into larger, more expansive structural territory. Blake Richardson's drumming on Automata II deploys the same Pearl Reference Pure kit and Sabian cymbal spread as Automata I, creating a unified sonic arc across both releases. The second installment's more open track structures give Richardson more compositional space than Automata I's tighter arrangements — longer dynamic passages, more atmospheric sections, and extended peaks where his technique can breathe with the music. For the preceding record, see [Coma Ecliptic drum setup](/articles/coma-ecliptic-drum-setup)."
+        "answer": "Automata II (July 2018) provides the narrative resolution for the artificial consciousness and digital identity story arc that began in Automata I (February 2018). Released five months after the first installment, Automata II was planned and recorded as the arc's conclusion — its four tracks extending the compositional ideas of Automata I into larger, more expansive structural territory. Blake Richardson's drumming on Automata II deploys the same Tama Starclassic Bubinga kit and Sabian cymbal spread as Automata I, creating a unified sonic arc across both releases. The second installment's more open track structures give Richardson more compositional space than Automata I's tighter arrangements — longer dynamic passages, more atmospheric sections, and extended peaks where his technique can breathe with the music. For the preceding record, see [Coma Ecliptic drum setup](/articles/coma-ecliptic-drum-setup)."
       },
       {
         "question": "What is Blake Richardson's drum setup across both Automata records?",
-        "answer": "Blake Richardson used an identical setup across both Automata I (February 2018) and Automata II (July 2018), reflecting the two records' status as a single conceptual project. Kit: Pearl Reference Pure, all-maple shells, double 22\"x18\" bass drums, three rack toms (10\", 12\", 13\"), 16\" floor tom. Snare: Tama STARPHONIC Brass, 14\"x6.5\". Cymbals: Sabian 14\" Dark Hi-Hats, 17\" Extra Dry Thin Crash, 18\" Dark Crash, 20\" Extra Dry Ride, 10\" Dark Splash, 18\" China. Hardware: Tama Iron Cobra Power Glide double pedal, Pearl rack system, Vic Firth American Classic 5B sticks. The Pearl Reference Pure marked a significant transition from the Tama Starclassic Bubinga that had defined Richardson's setup from Alaska (2005) through Coma Ecliptic (2015). See [Automata I drum setup](/articles/automata-i-drum-setup) for the companion article."
+        "answer": "Blake Richardson used an identical setup across both Automata I (February 2018) and Automata II (July 2018), reflecting the two records' status as a single conceptual project. Kit: Tama Starclassic Bubinga, bubinga shells, double 22\"x18\" bass drums, three rack toms (10\", 12\", 13\"), 16\" floor tom. Snare: Tama STARPHONIC Brass, 14\"x6.5\". Cymbals: Sabian 14\" Dark Hi-Hats, 17\" Extra Dry Thin Crash, 18\" Dark Crash, 20\" Extra Dry Ride, 10\" Dark Splash, 18\" China. Hardware: Tama Iron Cobra Power Glide double pedal, Pearl rack system, Vic Firth American Classic 3A sticks. The Tama Starclassic Bubinga kit has defined Richardson's setup since 2018, unchanged across the Automata era. See [Automata I drum setup](/articles/automata-i-drum-setup) for the companion article."
       }
     ],
     "relatedAlbums": [
@@ -1349,7 +1349,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Automata II: The Concept Arc Closed",
-      "content": "Automata II (2018) completes the most ambitious project of Blake Richardson's recording career — a two-part concept album that marks the culmination of BTBAM's consecutive concept album arc and demonstrates Richardson's drumming in its most fully developed form. Together with Automata I, it stands as the current endpoint of a progressive metal journey that began with Colors (2007) and has produced some of the genre's most studied and celebrated drumming.\n\nHis Pearl Reference Pure kit, Sabian full three-series cymbal spread, and Tama Iron Cobra Power Glide double pedal are the mature tools of a drummer who has spent two decades refining both his instrument and his musical intelligence in one of progressive metal's most demanding bands.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Companion release**: [Automata I drum setup (2018)](/articles/automata-i-drum-setup)\n- **Previous album**: [Coma Ecliptic drum setup (2015)](/articles/coma-ecliptic-drum-setup)\n- **Arc foundation**: [Colors drum setup (2007)](/articles/colors-drum-setup)"
+      "content": "Automata II (2018) completes the most ambitious project of Blake Richardson's recording career — a two-part concept album that marks the culmination of BTBAM's consecutive concept album arc and demonstrates Richardson's drumming in its most fully developed form. Together with Automata I, it stands as the current endpoint of a progressive metal journey that began with Colors (2007) and has produced some of the genre's most studied and celebrated drumming.\n\nHis Tama Starclassic Bubinga kit, Sabian full three-series cymbal spread, and Tama Iron Cobra Power Glide double pedal are the mature tools of a drummer who has spent two decades refining both his instrument and his musical intelligence in one of progressive metal's most demanding bands.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Companion release**: [Automata I drum setup (2018)](/articles/automata-i-drum-setup)\n- **Previous album**: [Coma Ecliptic drum setup (2015)](/articles/coma-ecliptic-drum-setup)\n- **Arc foundation**: [Colors drum setup (2007)](/articles/colors-drum-setup)"
     }
   },
   "blake-richardson-drum-setup": {
@@ -1369,14 +1369,14 @@ export const articles = {
     "dateModified": "2026-06-19",
     "author": "MetalForge Editorial",
     "title": "Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal",
-    "description": "Blake Richardson's complete drum setup: Pearl Reference kit, Sabian cymbals, Tama double pedal, and the metric modulation technique that defines Between the Buried and Me's progressive metal sound.",
+    "description": "Blake Richardson's complete drum setup: Tama Starclassic Bubinga kit, Sabian cymbals, Tama double pedal, and the metric modulation technique that defines Between the Buried and Me's progressive metal sound.",
     "seoKeywords": [
       "blake richardson drum setup",
       "blake richardson drum kit",
       "between the buried and me drummer",
       "btbam drummer gear",
       "blake richardson meinl cymbals",
-      "blake richardson pearl drums",
+      "blake richardson tama starclassic bubinga drums",
       "blake richardson dw pedal",
       "btbam drums",
       "blake richardson gear",
@@ -1385,13 +1385,13 @@ export const articles = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "intro": {
       "title": "Blake Richardson: Progressive Metal's Polyrhythmic Architect",
-      "content": "Blake Richardson (born February 25, 1984, in Winston-Salem, North Carolina) has been the drummer for Between the Buried and Me since 2005 — one of the most technically demanding and compositionally adventurous bands in progressive metal. Over nearly two decades and eight studio albums, Richardson has established himself as one of the genre's most consequential drummers: a player whose facility with odd time signatures, metric modulation, and genre-shifting transitions makes BTBAM's complex arrangements not just playable but musical.\n\nBetween the Buried and Me emerged from North Carolina's hardcore scene but rapidly transcended any single genre. Albums like *Colors* (2007), *The Parallax II: Future Sequence* (2012), and *Automata I & II* (2018) are landmark documents of progressive metal — extended, concept-driven works that move from death metal blast beats to jazz-inflected interludes to ambient passages within a single song. Richardson is the rhythmic intelligence that makes these transitions coherent. His ability to shift between radically different feels without losing momentum, and to execute metric modulations that would challenge any drummer, while still serving the music rather than displaying technique, separates him from mere technicians.\n\nHis setup reflects this musical philosophy. The Pearl Reference Pure kit provides warmth and resonance across BTBAM's full dynamic range. Sabian cymbals — Dark, Extra Dry, and Traditional voicings — deliver the complex, nuanced tone his playing demands. The Tama Iron Cobra Power Glide double pedal is the foundation of the extended double-kick passages that underpin the band's heaviest material. Every piece of gear is chosen to serve music that spans extreme metal, jazz, and progressive rock within a single performance.\n\nThis article covers the complete Blake Richardson drum setup: shell configuration, snare selection, Sabian cymbal spread, hardware, and the gear evolution across the *Colors*, *Parallax*, and *Automata* eras — plus a technical breakdown of how his metric modulation approach actually works.",
+      "content": "Blake Richardson (born February 25, 1984, in Winston-Salem, North Carolina) has been the drummer for Between the Buried and Me since 2005 — one of the most technically demanding and compositionally adventurous bands in progressive metal. Over nearly two decades and eight studio albums, Richardson has established himself as one of the genre's most consequential drummers: a player whose facility with odd time signatures, metric modulation, and genre-shifting transitions makes BTBAM's complex arrangements not just playable but musical.\n\nBetween the Buried and Me emerged from North Carolina's hardcore scene but rapidly transcended any single genre. Albums like *Colors* (2007), *The Parallax II: Future Sequence* (2012), and *Automata I & II* (2018) are landmark documents of progressive metal — extended, concept-driven works that move from death metal blast beats to jazz-inflected interludes to ambient passages within a single song. Richardson is the rhythmic intelligence that makes these transitions coherent. His ability to shift between radically different feels without losing momentum, and to execute metric modulations that would challenge any drummer, while still serving the music rather than displaying technique, separates him from mere technicians.\n\nHis setup reflects this musical philosophy. The Tama Starclassic Bubinga kit provides warmth and resonance across BTBAM's full dynamic range. Sabian cymbals — Dark, Extra Dry, and Traditional voicings — deliver the complex, nuanced tone his playing demands. The Tama Iron Cobra Power Glide double pedal is the foundation of the extended double-kick passages that underpin the band's heaviest material. Every piece of gear is chosen to serve music that spans extreme metal, jazz, and progressive rock within a single performance.\n\nThis article covers the complete Blake Richardson drum setup: shell configuration, snare selection, Sabian cymbal spread, hardware, and the gear evolution across the *Colors*, *Parallax*, and *Automata* eras — plus a technical breakdown of how his metric modulation approach actually works.",
       "keyPoints": [
         "BTBAM's drummer since 2005 — first album: Alaska (2006)",
-        "Pearl Reference Pure or Masters Maple kit — warm, resonant shells for progressive dynamics",
+        "Tama Starclassic Bubinga kit — warm, resonant shells for progressive dynamics",
         "Sabian series cymbals — Dark, Extra Dry, and Traditional voicings",
         "Tama Iron Cobra Power Glide double pedal for extended progressive metal kick passages",
-        "Vic Firth American Classic 5B sticks",
+        "Vic Firth American Classic 3A sticks",
         "Signature technique: metric modulation across genre-shifting progressive arrangements",
         "Colors (2007) and The Parallax II (2012) — landmark progressive metal performances"
       ]
@@ -1482,7 +1482,7 @@ export const articles = {
       "estimatedValue": "$2,500–4,000 (full Sabian HHX Evolution/AAX setup)"
     },
     "hardware": {
-      "title": "Tama Iron Cobra and Vic Firth 5B: Precision at Extreme Demands",
+      "title": "Tama Iron Cobra and Vic Firth 3A: Precision at Extreme Demands",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -1494,9 +1494,9 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "Balanced mass and control — hickory 5B for the full dynamic range of BTBAM's arrangements",
-          "description": "Richardson plays Vic Firth American Classic 5B sticks — a balanced hickory design with enough mass for BTBAM's heaviest passages and enough control for the delicate ghost note work and jazz-influenced hi-hat patterns that appear throughout the catalog. The 5B's larger diameter compared to a 5A provides additional weight and projection for extreme metal passages without sacrificing the fine motor control Richardson's technique demands. Hickory construction offers the balance of durability and springback that progressive metal touring requires: enough mass to drive through dense arrangements, enough flexibility to play with restraint in the band's quieter sections."
+          "model": "Vic Firth American Classic 3A",
+          "notes": "Balanced mass and control — hickory 3A for the full dynamic range of BTBAM's arrangements",
+          "description": "Richardson plays Vic Firth American Classic 3A sticks — a balanced hickory design with enough mass for BTBAM's heaviest passages and enough control for the delicate ghost note work and jazz-influenced hi-hat patterns that appear throughout the catalog. The 3A's diameter provides weight and projection for extreme metal passages without sacrificing the fine motor control Richardson's technique demands. Hickory construction offers the balance of durability and springback that progressive metal touring requires: enough mass to drive through dense arrangements, enough flexibility to play with restraint in the band's quieter sections."
         },
         {
           "type": "Drumheads (Toms, Batter)",
@@ -1565,12 +1565,12 @@ export const articles = {
           "Automata II (2018)",
           "Colors II (2021)"
         ],
-        "description": "Pearl Reference Pure era — evolved kit for BTBAM's mature progressive sound.",
+        "description": "Tama Starclassic Bubinga continues — mature kit for BTBAM's Sumerian-era progressive sound.",
         "gear": {
-          "drums": "Pearl Reference Pure (all-maple) — warmer, more resonant than Tama Starclassic Bubinga's",
-          "snare": "Tama STARPHONIC Brass or Pearl Reference Maple — continued 14\" x 6.5\" format",
+          "drums": "Tama Starclassic Bubinga (bubinga shells) — unchanged into the Sumerian era",
+          "snare": "Tama STARPHONIC Brass — continued 14\" x 6.5\" format",
           "cymbals": "Sabian Dark, Extra Dry, and Traditional — full three-series configuration",
-          "hardware": "Tama Iron Cobra Power Glide double pedal, Pearl rack system, Vic Firth 5B sticks continued"
+          "hardware": "Tama Iron Cobra Power Glide double pedal, Pearl rack system, Vic Firth 3A sticks continued"
         },
         "notes": "Automata I & II (2018) is BTBAM's most produced record — a Sumerian Records-era progression that placed Richardson's drumming in a more sonically layered context. Colors II (2021) revisited the 2007 landmark's compositional language with two decades of technical evolution behind it."
       }
@@ -1601,29 +1601,29 @@ export const articles = {
     ],
     "buyingGuide": {
       "title": "Getting the Richardson Sound: A Buyer's Guide",
-      "content": "Blake Richardson's setup centers on Pearl, Sabian, and Tama — three brands with clear entry points at every budget level.\n\n**Budget Approach ($700–1,500):**\n- Any all-maple shell kit (Pearl Export EXX maple, Tama Imperialstar maple) for warm resonance\n- Sabian HCS or MCS Bronze hi-hats + any 17–18\" crash — entry-level Sabian with the brand's characteristic voicing\n- Any quality chain-drive double pedal (Pearl P-2000, Tama 5000 series)\n- Vic Firth American Classic 5B sticks (the actual Richardson stick)\n\n**Mid-Range Approach ($1,500–4,000):**\n- Pearl Export EXX maple or Session Studio Select — closer to the Reference Pure's all-maple warmth\n- Sabian Extra Dry 14\" Hi-Hats + one Sabian crash (the most cost-effective Sabian entry)\n- Tama 5000 or 6000 series double bass pedal — excellent chain-drive at mid-range price\n- Remo Emperor Coated heads for toms, Remo Powerstroke 3 for kick\n\n**Professional Approach ($5,000+):**\n- Pearl Reference Pure shell pack (the actual Richardson kit)\n- Full Sabian HHX Evolution and AAX setup: 14\" Dark Hi-Hats, Extra Dry 17\" Thin Crash, Dark 18\" Crash, Extra Dry 20\" Ride, Dark China, Dark Splash\n- Tama Iron Cobra Power Glide double pedal (the Richardson pedal)\n- Tama STARPHONIC Brass 14\" x 6.5\" snare",
+      "content": "Blake Richardson's setup centers on Tama and Sabian — brands with clear entry points at every budget level.\n\n**Budget Approach ($700–1,500):**\n- Any all-maple shell kit (Pearl Export EXX maple, Tama Imperialstar maple) for warm resonance\n- Sabian HCS or MCS Bronze hi-hats + any 17–18\" crash — entry-level Sabian with the brand's characteristic voicing\n- Any quality chain-drive double pedal (Pearl P-2000, Tama 5000 series)\n- Vic Firth American Classic 3A sticks (the actual Richardson stick)\n\n**Mid-Range Approach ($1,500–4,000):**\n- Tama Imperialstar or Superstar Classic — closer to the Starclassic Bubinga's warmth\n- Sabian Extra Dry 14\" Hi-Hats + one Sabian crash (the most cost-effective Sabian entry)\n- Tama 5000 or 6000 series double bass pedal — excellent chain-drive at mid-range price\n- Remo Emperor Coated heads for toms, Remo Powerstroke 3 for kick\n\n**Professional Approach ($5,000+):**\n- Tama Starclassic Bubinga shell pack (the actual Richardson kit)\n- Full Sabian HHX Evolution and AAX setup: 14\" Dark Hi-Hats, Extra Dry 17\" Thin Crash, Dark 18\" Crash, Extra Dry 20\" Ride, Dark China, Dark Splash\n- Tama Iron Cobra Power Glide double pedal (the Richardson pedal)\n- Tama STARPHONIC Brass 14\" x 6.5\" snare",
       "budgetTiers": [
         {
           "tier": "Budget",
           "range": "$700–1,500",
-          "notes": "All-maple kit + Sabian entry cymbals + chain-drive double pedal + Vic Firth 5B"
+          "notes": "All-maple kit + Sabian entry cymbals + chain-drive double pedal + Vic Firth 3A"
         },
         {
           "tier": "Mid-Range",
           "range": "$1,500–4,000",
-          "notes": "Pearl all-maple kit + Sabian Extra Dry crash + Tama 5000/6000 double pedal"
+          "notes": "Tama Imperialstar/Superstar Classic + Sabian Extra Dry crash + Tama 5000/6000 double pedal"
         },
         {
           "tier": "Professional",
           "range": "$5,000+",
-          "notes": "Pearl Reference Pure + full Sabian Dark/Extra Dry + Tama Iron Cobra + Tama STARPHONIC snare"
+          "notes": "Tama Starclassic Bubinga + full Sabian Dark/Extra Dry + Tama Iron Cobra + Tama STARPHONIC snare"
         }
       ]
     },
     "faq": [
       {
         "question": "What drums does Blake Richardson use?",
-        "answer": "Blake Richardson plays a Pearl Reference Pure kit as his primary setup — an all-maple shell configuration that delivers the warm, resonant tone BTBAM's progressive arrangements require. The configuration runs double 22\" bass drums with three rack toms (10\", 12\", 13\") and a 16\" floor tom, giving him the wide tonal range his melodic fill architecture demands. In earlier periods (Colors through Parallax era), Richardson used a Tama Starclassic Bubinga kit. Full profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+        "answer": "Blake Richardson plays a Tama Starclassic Bubinga kit as his primary setup — a bubinga shell configuration that delivers the warm, resonant tone BTBAM's progressive arrangements require. The configuration runs double 22\" bass drums with three rack toms (10\", 12\", 13\") and a 16\" floor tom, giving him the wide tonal range his melodic fill architecture demands. Full profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
       },
       {
         "question": "What cymbals does Blake Richardson play?",
@@ -1658,7 +1658,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Rhythmic Architecture of Progressive Metal",
-      "content": "Blake Richardson has spent nearly two decades as the rhythmic architect of Between the Buried and Me — one of progressive metal's most consequential bands. From the landmark *Colors* (2007) through *Colors II* (2021), he has delivered some of the most musically sophisticated drumming in the genre: technically demanding, compositionally intelligent, and always in service of music rather than individual display.\n\nHis Pearl Reference Pure kit, Sabian cymbal spread, and Tama Iron Cobra Power Glide double pedal are the tools of a drummer who has thought carefully about what each piece of gear contributes to his musical goals. The all-maple warmth of the Reference Pure, the complex tonal vocabulary of the Sabian series, the consistent precision of the Tama Iron Cobra — each choice reflects the same philosophy: equipment that serves a wide dynamic range and a sophisticated musical language.\n\n**The Richardson setup in summary:**\n\n- **Pearl Reference Pure**: All-maple warmth and resonance for progressive metal's full dynamic spectrum\n- **Tama STARPHONIC Brass Snare (14\" x 6.5\")**: Warm, articulate crack that reads through dense progressive arrangements without harshness\n- **Sabian Dark and Extra Dry**: Complex, nuanced tonal vocabulary across jazz and extreme metal contexts\n- **Tama Iron Cobra Double Pedal**: Compositional double-bass control for density-variable progressive metal kick work\n- **Vic Firth American Classic 5B**: Balanced mass and control across BTBAM's full dynamic range\n\nFor drummers interested in progressive metal drumming at this level of sophistication:\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Tech-prog cluster**: [Travis Orbin at MetalForge](/drummer/travis-orbin) — Periphery's progressive metal specialist and a comparable peer in the tech-prog space\n- **Progressive metal crossover**: [Blackwater Park drum setup breakdown](/articles/blackwater-park-drum-setup) — Martin Lopez's jazz-informed approach with Opeth\n\nBlake Richardson arrived at BTBAM in 2005 as a technically gifted young drummer. Two decades of demanding progressive metal has refined that technique into something rarer: a drummer who thinks compositionally, plays musically, and serves the song first in music that makes serving the song extraordinarily difficult.\n\n🥁 *Where the time signature ends and the music begins, Blake Richardson lives.* 🤘"
+      "content": "Blake Richardson has spent nearly two decades as the rhythmic architect of Between the Buried and Me — one of progressive metal's most consequential bands. From the landmark *Colors* (2007) through *Colors II* (2021), he has delivered some of the most musically sophisticated drumming in the genre: technically demanding, compositionally intelligent, and always in service of music rather than individual display.\n\nHis Tama Starclassic Bubinga kit, Sabian cymbal spread, and Tama Iron Cobra Power Glide double pedal are the tools of a drummer who has thought carefully about what each piece of gear contributes to his musical goals. The warmth of the Starclassic Bubinga's shells, the complex tonal vocabulary of the Sabian series, the consistent precision of the Tama Iron Cobra — each choice reflects the same philosophy: equipment that serves a wide dynamic range and a sophisticated musical language.\n\n**The Richardson setup in summary:**\n\n- **Tama Starclassic Bubinga**: Warmth and resonance for progressive metal's full dynamic spectrum\n- **Tama STARPHONIC Brass Snare (14\" x 6.5\")**: Warm, articulate crack that reads through dense progressive arrangements without harshness\n- **Sabian Dark and Extra Dry**: Complex, nuanced tonal vocabulary across jazz and extreme metal contexts\n- **Tama Iron Cobra Double Pedal**: Compositional double-bass control for density-variable progressive metal kick work\n- **Vic Firth American Classic 3A**: Balanced mass and control across BTBAM's full dynamic range\n\nFor drummers interested in progressive metal drumming at this level of sophistication:\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Tech-prog cluster**: [Travis Orbin at MetalForge](/drummer/travis-orbin) — Periphery's progressive metal specialist and a comparable peer in the tech-prog space\n- **Progressive metal crossover**: [Blackwater Park drum setup breakdown](/articles/blackwater-park-drum-setup) — Martin Lopez's jazz-informed approach with Opeth\n\nBlake Richardson arrived at BTBAM in 2005 as a technically gifted young drummer. Two decades of demanding progressive metal has refined that technique into something rarer: a drummer who thinks compositionally, plays musically, and serves the song first in music that makes serving the song extraordinarily difficult.\n\n🥁 *Where the time signature ends and the music begins, Blake Richardson lives.* 🤘"
     }
   }
 };

@@ -656,16 +656,16 @@ export const DRUMMER_EVOLUTION = {
         
         gear: {
           drums: {
-            item: 'SJC Custom Drums',
-            details: 'Custom maple shells',
-            notes: 'Moved from Pearl after Slipknot exit',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Pearl Reference Series',
+            details: 'Continued Pearl Reference Series shells',
+            notes: 'No drum brand switch after Slipknot exit',
+            change: null,
           },
           snare: {
-            item: 'SJC Custom Snare',
+            item: 'Pearl Reference Series Snare',
             details: '14"x6" Maple',
-            notes: 'Custom built for his specifications',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued Pearl Reference Series snare',
+            change: null,
           },
           cymbals: {
             item: 'Paiste Signature / RUDE',
@@ -680,9 +680,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Ahead Sticks',
-            details: 'Continued Ahead partnership',
-            notes: 'Easier on hands during health issues',
+            item: 'Promark TX515W Joey Jordison Signature',
+            details: 'Signature wood sticks',
+            notes: 'Continued Promark signature partnership since 2008',
             change: null,
           },
           heads: {

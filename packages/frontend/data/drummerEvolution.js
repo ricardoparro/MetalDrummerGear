@@ -15826,7 +15826,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Anthrax',
     totalYearsActive: '1983-Present',
     profileImage: '/images/drummers/charlie-benante.webp',
-    summary: 'Charlie Benante joined Anthrax in 1983 and pioneered sustained double bass drumming and the blast beat in thrash metal. His gear journey runs from an early Tama Artstar kit through the Among the Living breakthrough, a mid-career detour onto DW during Anthrax\'s groove-metal 90s, and a modern Tama/Paiste signature rig spanning the Worship Music reunion and his 2022 touring stint with Pantera.',
+    summary: 'Charlie Benante joined Anthrax in 1983 and pioneered sustained double bass drumming and the blast beat in thrash metal. His gear journey runs from an early Tama Artstar kit through the Among the Living breakthrough, the continued Tama/Paiste setup through Anthrax\'s groove-metal 90s, and a modern Tama/Paiste signature rig spanning the Worship Music reunion and his 2022 touring stint with Pantera.',
 
     eras: [
       {
@@ -16184,7 +16184,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What pedal did Charlie Benante use for over two decades?',
-        a: 'Charlie Benante played a vintage Tama HP35 Camco chain-drive double pedal from 1984 through 2010 (with a mid-90s detour to DW\'s own 5000 Series pedal during Anthrax\'s DW-endorsed groove-metal years), before Tama phased out the Camco model and he switched to the modern Tama Speed Cobra.',
+        a: 'Charlie Benante played a vintage Tama HP35 Camco chain-drive double pedal from 1984 through 2010, including through Anthrax\'s groove-metal 90s years, before Tama phased out the Camco model and he switched to the modern Tama Speed Cobra.',
       },
       {
         q: 'What is Charlie Benante\'s current drum setup?',
@@ -16197,7 +16197,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Charlie Benante Gear Evolution Timeline | Anthrax Drum Kit History',
-    metaDescription: 'Explore Charlie Benante\'s complete drum gear evolution: Tama Artstar → Tama Artstar II on Among the Living (1987) → a full DW switch for the 90s groove-metal era → the modern Tama/Paiste signature rig. Includes the 1984-2010 Camco pedal and his 2022 Pantera reunion tour.',
+    metaDescription: 'Explore Charlie Benante\'s complete drum gear evolution: Tama Artstar → Tama Artstar II on Among the Living (1987) → continued Tama/Paiste through the 90s groove-metal era → the modern Tama/Paiste signature rig. Includes the 1984-2010 Camco pedal and his 2022 Pantera reunion tour.',
   },
 
   // ==========================================

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-25 11:11 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-25 12:24 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 308 |
-| Sessions | 356 |
-| Page views | 501 |
-| Engagement rate | 54.21% |
+| Active users | 311 |
+| Sessions | 360 |
+| Page views | 504 |
+| Engagement rate | 53.61% |
 | Avg session (s) | 89 |
 
 ### Top pages (by page views, last 7d)
@@ -23,28 +23,28 @@
 | /drummer/frost | 12 | 3 |
 | /drummers | 12 | 4 |
 | /drummer/mario-duplantier | 11 | 11 |
-| /drummer/matt-greiner | 9 | 8 |
-| /drummer/hellhammer | 8 | 7 |
+| /drummer/hellhammer | 9 | 7 |
+| /drummer/matt-greiner | 9 | 9 |
 | /drummer/jaska-raatikainen | 8 | 6 |
 | /drummer/mike-portnoy | 8 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 280 | 235 |
-| Unassigned | 59 | 51 |
+| Organic Search | 281 | 236 |
+| Unassigned | 63 | 54 |
 | Direct | 40 | 40 |
-| Cross-network | 24 | 24 |
+| Cross-network | 25 | 25 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 133 | 110 |
-| United Kingdom | 29 | 14 |
+| United States | 134 | 110 |
+| United Kingdom | 30 | 15 |
+| Australia | 16 | 15 |
 | Canada | 16 | 15 |
 | Singapore | 16 | 16 |
-| Australia | 15 | 14 |
 | Germany | 15 | 12 |
 | Finland | 10 | 10 |
 | China | 9 | 9 |
@@ -54,44 +54,44 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 8,376 |
-| Clicks | 171 |
-| CTR | 2.04% |
+| Impressions | 9,944 |
+| Clicks | 206 |
+| CTR | 2.07% |
 | Avg position | 7.4 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| best death metal drummers | 3 | 1 | 33.33% | 6.7 |
+| arin illejay | 10 | 1 | 10.00% | 10.1 |
+| best death metal drummers | 4 | 1 | 25.00% | 7.3 |
+| best drum heads for metal | 15 | 1 | 6.67% | 9.5 |
 | best extreme metal drummers | 1 | 1 | 100.00% | 6.0 |
+| best nu metal drummers | 1 | 1 | 100.00% | 7.0 |
 | bill ward cymbals | 2 | 1 | 50.00% | 4.0 |
 | bill ward paranoid drum kit | 1 | 1 | 100.00% | 4.0 |
-| danny carey drum set | 73 | 1 | 1.37% | 10.4 |
-| danny carey drum setup | 19 | 1 | 5.26% | 9.6 |
-| death metal drum kit | 1 | 1 | 100.00% | 6.0 |
-| eloy casagrande bill ward | 1 | 1 | 100.00% | 14.0 |
-| hellhammer drums | 4 | 1 | 25.00% | 5.3 |
-| iggor cavalera drum kit | 4 | 1 | 25.00% | 5.3 |
+| danny carey drum set | 79 | 1 | 1.27% | 10.6 |
+| danny carey drum setup | 22 | 1 | 4.55% | 9.9 |
+| death metal drum kit | 2 | 1 | 50.00% | 4.5 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,107 | 59 | 1.90% | 7.8 |
-| aus | 368 | 9 | 2.45% | 7.6 |
-| fin | 136 | 9 | 6.62% | 6.9 |
-| can | 512 | 8 | 1.56% | 7.6 |
-| deu | 294 | 8 | 2.72% | 7.2 |
-| fra | 202 | 7 | 3.47% | 6.8 |
-| gbr | 505 | 7 | 1.39% | 8.3 |
-| ita | 123 | 6 | 4.88% | 6.3 |
-| mex | 89 | 4 | 4.49% | 6.0 |
-| pol | 127 | 4 | 3.15% | 6.2 |
+| usa | 3,719 | 71 | 1.91% | 7.8 |
+| aus | 445 | 14 | 3.15% | 7.7 |
+| can | 606 | 9 | 1.49% | 7.6 |
+| deu | 342 | 9 | 2.63% | 7.1 |
+| fin | 153 | 9 | 5.88% | 6.8 |
+| fra | 234 | 7 | 2.99% | 7.1 |
+| gbr | 604 | 7 | 1.16% | 8.2 |
+| ita | 154 | 7 | 4.55% | 6.5 |
+| pol | 156 | 5 | 3.21% | 6.1 |
+| esp | 104 | 4 | 3.85% | 6.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 73 | 1.37% | 10.4 | open issue to answer better |
-| mario duplantier drum kit | 71 | 1.41% | 7.1 | open issue to answer better |
+| danny carey drum set | 79 | 1.27% | 10.6 | open issue to answer better |
+| mario duplantier drum kit | 87 | 1.15% | 7.0 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

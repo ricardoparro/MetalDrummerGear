@@ -5868,7 +5868,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Annihilation of the Wicked (2005)',
     profileImage: '/images/drummers/george-kollias.webp',
 
-    summary: "George Kollias's 2005 setup behind Nile's Annihilation of the Wicked marks the start of extreme metal's most technically demanding endorsement relationship — the moment Kollias, fresh off building his blast-beat vocabulary on budget Tama kits in the Greek underground, joined Nile and received his first Pearl Reference Series kit. Paired with a Pearl Free-Floating Steel snare, a Zildjian A Custom cymbal spread, and the Tama Iron Cobra double pedal that has anchored his technique for two decades, the complete rig cost approximately $9,000 in 2005 dollars, equivalent to roughly $15,100 today after inflation. Kollias's gear evolved steadily from there — upgrading to all-maple Pearl Reference Pure shells and launching his first Vic Firth signature stick for Those Whom the Gods Detest (2009), then adding ddrum Acoustic Pro triggers to his kick drums for the modern Vile Nilotic Rites (2019) era. Kollias has stayed on Zildjian throughout his Nile tenure, more recently running K Mastersound Hi-Hats, K Custom Dark Crashes, and an A Custom Mega Bell Ride. His current setup, refined across 20+ years with Nile, retains the same Pearl/Zildjian/Tama/Vic Firth core that has made him the most precisely calibrated blast-beat drummer in death metal, now valued at approximately $18,000 at current retail — a rig built entirely around sustaining 240+ BPM blast beats without losing a single note of clarity.",
+    summary: "George Kollias's 2005 setup behind Nile's Annihilation of the Wicked marks the start of extreme metal's most technically demanding endorsement relationship — the moment Kollias, fresh off building his blast-beat vocabulary on budget Tama kits in the Greek underground, joined Nile and received his first Pearl Reference Series kit. Paired with a Pearl Free-Floating Steel snare, a Zildjian A Custom cymbal spread, and the double bass pedal that anchored his early blast-beat technique, the complete rig cost approximately $9,000 in 2005 dollars, equivalent to roughly $15,100 today after inflation. Kollias's gear evolved steadily from there — upgrading to all-maple Pearl Reference Pure shells and launching his first Vic Firth signature stick for Those Whom the Gods Detest (2009), co-designing Pearl's Demon XR signature bass drum pedal in 2015, then adding ddrum Acoustic Pro triggers to his kick drums for the modern Vile Nilotic Rites (2019) era. Kollias has stayed on Zildjian throughout his Nile tenure, more recently running K Mastersound Hi-Hats, K Custom Dark Crashes, and an A Custom Mega Bell Ride. His current setup, refined across 20+ years with Nile, retains the same Pearl/Zildjian/Vic Firth core that has made him the most precisely calibrated blast-beat drummer in death metal, now valued at approximately $18,000 at current retail — a rig built entirely around sustaining 240+ BPM blast beats without losing a single note of clarity.",
 
     setup: {
       drums: {
@@ -5917,18 +5917,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'Tama Iron Cobra HP900 Double Pedal',
-        model: 'Power Glide double pedal + stands',
-        specs: 'Tama Iron Cobra HP900 double pedal, hi-hat stand, boom stands, snare stand',
+        item: 'Pearl Demon XR Pedals',
+        model: 'Demon XR signature double pedal + stands',
+        specs: 'Pearl Demon XR double pedal, hi-hat stand, boom stands, snare stand',
         originalPrice: 700,
         year: 2005,
-        source: 'Tama hardware catalog pricing 2005',
-        notes: "The Iron Cobra pedal Kollias built his blast beat technique around in the Greek underground — carried unchanged into his Pearl-kit era with Nile.",
+        source: 'Drum hardware catalog pricing 2005',
+        notes: "Kollias co-designed Pearl's Demon XR bass drum pedal with the brand in 2015 for extreme speed, replacing the pedal he built his blast beat technique around in the Greek underground.",
         vintageValue2026: 480,
         modernEquivalent: {
-          item: 'Tama Iron Cobra HP900 + ddrum Acoustic Pro Triggers',
+          item: 'Pearl Demon XR Pedals + ddrum Acoustic Pro Triggers',
           price: 950,
-          link: 'tama-iron-cobra-ddrum-triggers-kollias',
+          link: 'pearl-demon-xr-ddrum-triggers-kollias',
         },
       },
       sticks: {

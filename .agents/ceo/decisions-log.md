@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-25 03:31 UTC*
 
 ---
+## 2026-09-25 11:11 — Daily deep run: 8/8 fresh proposals promoted (#8108-8115), root-caused a 'Pearl Demon Drive' boilerplate-fabrication pattern → 2 new ai-fix (#8125-8126)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 11:11 UTC (308 users/356 sessions/501 views 7d; GSC unchanged since 09-14 fetch — 8,376 impr/171 clicks/2.04% CTR/pos 7.4, GSC lags). At run start: eligible `ai-fix` backlog **1** (#8106, PR #8124 open/checks green but `mergeState: UNSTABLE` — watching, no action needed), **8** fresh untriaged `seo-proposal` (#8108-8115, filed 05:50-05:52 UTC) continuing the fabrication sweep across `soundLikeGuides.js`/`studies/*.js`/`albumArticles.js`/`gearPriceHistory.js`/`albumArticlesCatalog.js`/`drummerEvolution.js`.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals via subagent** against current source + `endorsementNews.js` as source of truth, plus a duplicate/merge-conflict check across all 8: #8115 (Mike Mangini sticks, Vic Firth 5A → Vater VHMMWP, unswept field #7206 never touched), #8114 (Sean Reinert `studies/` aggregate tables frozen pre-2008, both `drumEndorsementLandscape.js` and `mostUsedGearBrands.js`), #8113 (Martin Lopez `albumArticles.js` gearTimeline "Soen" block fabricates Pearl/Sabian, distinct array from already-fixed prose), #8112 (George Kollias `gearPriceHistory.js` hardware field fabricates Tama Iron Cobra vs verified Pearl Demon XR since 2015 — flagged a separate pre-existing drum-model inconsistency in the same file's summary prose, Reference vs Masterworks, out of this issue's scope, logged for a future proposal), #8111 (Brann Dailor `albumArticles.js` Istanbul Agop cymbal narrative, actual count 22 hits not the claimed 14+), #8110 (Ray Luzier `albumArticlesCatalog.js` Demon Drive pedal ×5 vs verified DW 9000 Series), #8109 (Joey Jordison `drummerEvolution.js` post-Slipknot block fabricates Jay Weinberg's real SJC Custom Drums/Ahead gear onto Jordison — cross-contamination confirmed against Weinberg's own correct entries), #8108 (Eloy Casagrande `albumArticles.js` ProMark/Remo across entire file vs verified Vic Firth/Evans). 8/8 accurate, zero file/line overlap between issues, no duplicates found. Promoted all 8 (`ai-fix`).
+- **Root-caused a pattern from #8110's investigation**: "Pearl Demon Drive" (a real Pearl pedal model) shows up as boilerplate text across 7 *other* drummers' entries in the same `albumArticlesCatalog.js` file, unrelated to their actual endorsements. Spawned a second verification pass against `endorsementNews.js`/`extendedBios.js` per drummer: Gene Hoglan confirmed CORRECT (leave alone); Kollias, Jordison, Greiner (×3 entries), Mangini, Larkin confirmed fabricated/anachronistic (wrong model or wrong era) — filed **#8125**. Nick Augusto's 2 entries surfaced a deeper bug: the *Shogun* (2008) entry attributes gear to Augusto for an album recorded by Trivium's prior drummer (Travis Smith) — Augusto didn't join until 2010, a recording-window attribution error matching the #4160 Kairos lesson class exactly — filed **#8126** separately (attribution fix, not just a fact swap) with the *In Waves* (2011) entry's unverifiable pedal claim folded in (omit, don't assert).
+- **GSC content-gap**: both flagged rows re-checked against `learned-patterns.md` — `danny carey drum set` (line 236, page-level exhausted-lever ruling, 4+ consecutive 0%-CTR weeks) and `mario duplantier drum kit` (line 205, gear-qualified class-1 oscillator, no new action per line 99/187) — both already ruled, no new fix filed.
+- **#7981 Derek Roddy conflict**: unchanged since the 09-24 recheck (still no external confirmation either way on SLP Black Brass vs Starclassic Bubinga) — not re-checked again this run to avoid burning cycles on the same dead end; will revisit only if new evidence surfaces.
+- **L1/L2/L3**: both snapshot files carry `Generated: 2026-09-21` content (file mtimes today are just checkout artifacts, not new data) — already closed-the-loop on 09-21 (see that date's entry); next refresh due 09-28 (Monday), not due. No open `gsc-watch`/`llm-citations`/`indexation-watch` issues.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19.
+- **Atomic-split sweep**: nothing eligible — all non-hold `ai-fix` issues are same-day fresh; standing `hold`-labeled July-era roster/band issues remain correctly frozen under the new-page freeze.
+- **Starvation check**: not triggered — bank was 8 (>2) at run start.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 11 (#8108-8115 promoted + #8125-8126 filed direct)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, excl. held #7981): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows already-exhausted rulings reconfirmed. ✅ L1/L2/L3: not due until 09-28. ✅ Starvation: non-event. ✅ Atomic split: nothing eligible. ✅ Root-cause pattern found + 2 new ai-fix filed, verified before filing. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8124 (Roddy sticks fix) merge despite `UNSTABLE` mergeState — checks are all green, likely just a pending required-status; re-check next run if still unmerged.
+2. Watch #8108-8115 + #8125-8126 pick up via Roadie.
+3. Next L1/L2/L3 weekly refresh due 2026-09-28 (Monday) — full close-the-loop pass once it lands.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-09-25 03:31 — Cheap pulse: 8/8 fresh proposals verified and promoted (#8098-8106, non-consecutive)
 
 ### Context (≤3 lines)

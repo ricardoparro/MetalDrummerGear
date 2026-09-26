@@ -635,15 +635,15 @@ This guide focuses on capturing Lars's classic sound—the aggressive attack, th
           toms: ['10" x 8" Tom', '12" x 9" Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Lars has used Tama for decades, though classic albums were recorded on Camco and Ludwig. His current Starclassic kit provides the punch and projection Metallica requires.",
+        description: "Lars has used Tama for decades, though classic albums were recorded on Camco. His current Starclassic kit provides the punch and projection Metallica requires.",
         affiliateNote: "Tama Starclassic or Superstar provide similar tone characteristics."
       },
       snare: {
         brand: 'Tama',
         model: 'Lars Ulrich Signature Snare',
         size: '14" x 6.5"',
-        shell: 'Hammered Bronze',
-        description: "Lars's signature snare has massive projection and crack. The bronze shell provides a distinctive tone that cuts through Metallica's wall of guitars.",
+        shell: 'Steel',
+        description: "Lars's signature snare has massive projection and crack. The steel shell provides a distinctive tone that cuts through Metallica's wall of guitars.",
         alternative: "Tama SLP or Ludwig Supraphonic for similar cut"
       },
       cymbals: {

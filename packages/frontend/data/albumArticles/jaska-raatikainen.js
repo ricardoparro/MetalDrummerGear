@@ -32,7 +32,7 @@ export const articles = {
     "ogImage": "/images/drummers/jaska-raatikainen.webp",
     "intro": {
       "title": "Jaska Raatikainen: Children of Bodom's Rhythmic Architect",
-      "content": "Jaska Raatikainen is the drummer for Children of Bodom, using a Pearl Masters kit with Zildjian cymbals throughout the band's career. Born July 18, 1979, in Espoo, Finland, Raatikainen co-founded the band alongside the late Alexi Laiho in 1993 — originally performing as Inearthed before adopting the Children of Bodom name in 1997. Together they created one of Finnish metal's most distinctive sounds: neoclassical melodies fused with aggressive death metal, built on a foundation of precise drumming that balanced explosive blast beats with compositionally aware melodic fills.\n\nChildren of Bodom became one of Finland's most successful metal exports, selling over 2 million albums worldwide across a 26-year career. Raatikainen's drumming was central to that success. His playing style combined the raw velocity of death metal — double bass patterns, blast beats, aggressive snare attacks — with a musical sensibility shaped by the neoclassical guitar and keyboard counterpoint that defined Alexi Laiho's compositional approach. The drums had to do more than provide a rhythmic foundation; they had to move with the melodic material in ways that pure death metal drumming rarely demands.\n\nThis article breaks down every major component of Jaska Raatikainen's drum setup: his Pearl Masters Premium Maple shell pack, his Zildjian A Custom and K Custom cymbal selection, his Pearl Eliminator double pedal technique, and the stylistic approach that drove some of melodic death metal's most essential recordings — from Follow the Reaper through I Worship Chaos.",
+      "content": "Jaska Raatikainen is the drummer for Children of Bodom, whose kit endorsement traced a Pearl → Tama → Pearl arc across the band's career: an early Pearl relationship on \"Something Wild\" (1997), a switch to Tama Starclassic for \"Hatebreeder\" (1999) that carried through \"Follow the Reaper\" and \"Hate Crew Deathroll,\" and a return to Pearl in 2004 on the Masters Premium Maple kit that remained his platform through the band's 2019 dissolution, paired throughout with Zildjian cymbals. Born July 18, 1979, in Espoo, Finland, Raatikainen co-founded the band alongside the late Alexi Laiho in 1993 — originally performing as Inearthed before adopting the Children of Bodom name in 1997. Together they created one of Finnish metal's most distinctive sounds: neoclassical melodies fused with aggressive death metal, built on a foundation of precise drumming that balanced explosive blast beats with compositionally aware melodic fills.\n\nChildren of Bodom became one of Finland's most successful metal exports, selling over 2 million albums worldwide across a 26-year career. Raatikainen's drumming was central to that success. His playing style combined the raw velocity of death metal — double bass patterns, blast beats, aggressive snare attacks — with a musical sensibility shaped by the neoclassical guitar and keyboard counterpoint that defined Alexi Laiho's compositional approach. The drums had to do more than provide a rhythmic foundation; they had to move with the melodic material in ways that pure death metal drumming rarely demands.\n\nThis article breaks down every major component of Jaska Raatikainen's drum setup: his Pearl Masters Premium Maple shell pack, his Zildjian A Custom and K Custom cymbal selection, his Pearl Eliminator double pedal technique, and the stylistic approach that drove some of melodic death metal's most essential recordings — from Follow the Reaper through I Worship Chaos.",
       "keyPoints": [
         "Co-founded Children of Bodom with Alexi Laiho at age 14 in Espoo, Finland",
         "Pearl Masters Premium Maple kit — flagship Pearl production shells for touring endurance",
@@ -167,12 +167,12 @@ export const articles = {
         ],
         "description": "Establishing the Children of Bodom sound — neoclassical speed metal meets death metal intensity.",
         "gear": {
-          "drums": "Pearl drums (developing Masters endorsement relationship)",
-          "snare": "Pearl snare, tuned medium-bright for Finnish death metal production",
+          "drums": "Pearl drums (developing Masters endorsement relationship) on \"Something Wild\"; switched to an early Tama Starclassic configuration for \"Hatebreeder\" (1999)",
+          "snare": "Pearl snare on \"Something Wild,\" tuned medium-bright for Finnish death metal production; Tama Starclassic snare on \"Hatebreeder\"",
           "cymbals": "Zildjian A series (early relationship, developing toward A Custom)",
           "hardware": "Pearl pedals — early double-kick configuration"
         },
-        "notes": "Hatebreeder (1999) established international recognition with its blend of keyboard-driven neoclassical melodies and death metal aggression. Raatikainen's double-bass work on tracks like \"Children of Bodom\" and \"Warheart\" set the technical template the band would refine across subsequent albums."
+        "notes": "Hatebreeder (1999) established international recognition with its blend of keyboard-driven neoclassical melodies and death metal aggression, recorded on the newly adopted Tama Starclassic kit. Raatikainen's double-bass work on tracks like \"Children of Bodom\" and \"Warheart\" set the technical template the band would refine across subsequent albums."
       },
       {
         "era": "Follow the Reaper / Hate Crew Deathroll Era",
@@ -181,14 +181,14 @@ export const articles = {
           "Follow the Reaper (2000)",
           "Hate Crew Deathroll (2003)"
         ],
-        "description": "Peak technical and commercial period — the defining Children of Bodom sound fully realized.",
+        "description": "Peak technical and commercial period — the defining Children of Bodom sound fully realized, played on the Tama Starclassic kit adopted for \"Hatebreeder.\"",
         "gear": {
-          "drums": "Pearl Masters Premium Maple (flagship endorsement solidified)",
-          "snare": "Pearl Masters 14\" x 5.5\" Maple",
+          "drums": "Tama Starclassic (configuration carried over from \"Hatebreeder\")",
+          "snare": "Tama Starclassic snare",
           "cymbals": "Zildjian A Custom series (hi-hats, crashes; developing K Custom ride relationship)",
           "hardware": "Pearl Eliminator double bass pedal, Vic Firth American Classic 5A sticks"
         },
-        "notes": "Follow the Reaper (2000) is widely considered Children of Bodom's defining statement. Tracks like \"Needled 24/7\" and \"Sixpounder\" demonstrate Raatikainen's ability to sustain complex double-kick patterns against guitar runs that shift meter mid-phrase. The Hate Crew Deathroll session pushed the setup harder — the Eliminator and Masters combination proved its endurance across what became the band's commercial peak."
+        "notes": "Follow the Reaper (2000) is widely considered Children of Bodom's defining statement. Tracks like \"Needled 24/7\" and \"Sixpounder\" demonstrate Raatikainen's ability to sustain complex double-kick patterns against guitar runs that shift meter mid-phrase. The Hate Crew Deathroll session pushed the setup harder — the Eliminator and Tama Starclassic combination proved its endurance across what became the band's commercial peak, before Raatikainen returned to Pearl in 2004."
       },
       {
         "era": "Are You Dead Yet? / Blooddrunk Era",
@@ -237,7 +237,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Jaska Raatikainen use?",
-        "answer": "Jaska Raatikainen plays Pearl drums — specifically the Pearl Masters Premium Maple series throughout the majority of Children of Bodom's career. The Masters Premium Maple features a six-ply all-maple shell construction that delivers the focused attack and warm body his melodic death metal work demands. He runs a double-kick configuration with two 22\" x 18\" bass drums, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\") — a compact spread that supports both rapid melodic fill work and the aggressive blast-beat sections that punctuate Children of Bodom's most intense material."
+        "answer": "Jaska Raatikainen's kit endorsement traced a Pearl → Tama → Pearl arc: an early Pearl configuration on \"Something Wild\" (1997), a switch to Tama Starclassic for \"Hatebreeder\" (1999) that carried through \"Follow the Reaper\" and \"Hate Crew Deathroll,\" and a return to Pearl in 2004 on the Masters Premium Maple series that remained his platform for the rest of Children of Bodom's career. The Masters Premium Maple features a six-ply all-maple shell construction that delivers the focused attack and warm body his melodic death metal work demands. He runs a double-kick configuration with two 22\" x 18\" bass drums, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\") — a compact spread that supports both rapid melodic fill work and the aggressive blast-beat sections that punctuate Children of Bodom's most intense material."
       },
       {
         "question": "What cymbals does Children of Bodom's drummer play?",
@@ -245,7 +245,7 @@ export const articles = {
       },
       {
         "question": "How did Jaska Raatikainen's setup evolve over Children of Bodom's career?",
-        "answer": "Raatikainen's core setup remained relatively consistent across Children of Bodom's 26-year career, with evolutionary refinements rather than wholesale changes. The Pearl Masters relationship was established early and solidified through the Follow the Reaper and Hate Crew Deathroll sessions (2000–2003), which represent the most technically demanding period of the band's output. The cymbal setup evolved from Zildjian A series toward the A Custom and K Custom combination that became his established configuration by the mid-2000s. The Pearl Eliminator double bass pedal was his primary foot instrument across the peak touring years, providing the consistent double-kick response that sustained the band's high-velocity material across extensive worldwide touring."
+        "answer": "Raatikainen's drum kit endorsement moved through three distinct eras across Children of Bodom's 26-year career. An early, developing Pearl relationship appeared on \"Something Wild\" (1997); in 1999 he switched to an early Tama Starclassic configuration for \"Hatebreeder,\" which carried through the band's most technically demanding period on Follow the Reaper and Hate Crew Deathroll (2000–2003); and in 2004 he returned to Pearl, settling into the Masters Premium Maple kit that remained his setup through Hexed and the band's 2019 dissolution. The cymbal setup evolved from Zildjian A series toward the A Custom and K Custom combination that became his established configuration by the mid-2000s. The Pearl Eliminator double bass pedal was his primary foot instrument across the peak touring years, providing the consistent double-kick response that sustained the band's high-velocity material across extensive worldwide touring."
       },
       {
         "question": "What bass drum pedal does Jaska Raatikainen use?",

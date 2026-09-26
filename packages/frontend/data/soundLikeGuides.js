@@ -8966,10 +8966,10 @@ This guide breaks down the technique, gear, and practice approach that built one
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth 5A',
-        specs: '5A length, wood tip',
-        description: "Sandoval uses standard 5A sticks — lighter than the 5B favored by some death metal drummers, but suited to his technique which generates power through speed and precision of stroke rather than raw stick mass. Lighter sticks reduce fatigue during extended blast beat passages.",
-        alternative: "Promark 5A or Vater 5A for comparable weight and feel"
+        model: '5B/2B',
+        specs: '5B/2B length, wood tip',
+        description: "Sandoval uses heavier 5B/2B sticks — suited to the raw power and stamina his technique demands for sustained 300+ BPM blast beat passages, where extra stick mass helps drive volume and rebound through extended alternating double bass work.",
+        alternative: "Promark 5B/2B or Vater 5B/2B for comparable weight and feel"
       },
       heads: {
         kick: 'Remo Powerstroke P3 Clear',

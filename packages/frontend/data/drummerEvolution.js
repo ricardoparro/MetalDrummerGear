@@ -8414,14 +8414,14 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series',
-            details: 'Maple shells: 22" kick, 10"/12"/13"/14"/16" toms',
-            notes: 'Sean was an early DW endorsee. Recorded at Morrisound Studios in Tampa, FL, the warmth of the DW maple shells was a key element of Human\'s distinctive drum sound — less compressed and more open than most death metal of the period.',
+            item: 'Tama Artstar II',
+            details: 'Birch shells: 22" kick, 10"/12"/13"/14"/16" toms',
+            notes: 'Sean moved to a Tama Artstar II birch shell kit for Human, replacing his prior Pearl Export setup. Recorded at Morrisound Studios in Tampa, FL, the punchy, focused birch tone was a key element of Human\'s distinctive drum sound — less compressed and more open than most death metal of the period.',
             change: null,
           },
           snare: {
-            item: 'DW Collector\'s 14"x5.5"',
-            details: 'Maple shell, die-cast hoops',
+            item: 'Tama Artstar II 14"x5.5"',
+            details: 'Birch shell, die-cast hoops',
             notes: 'Shallow snare for a crisper, more jazz-influenced response. The crack on Human is one of the most recognizable in technical death metal history.',
             change: null,
           },
@@ -8446,7 +8446,7 @@ export const DRUMMER_EVOLUTION = {
           heads: {
             item: 'Remo Ambassador',
             details: 'Clear on toms, coated on snare',
-            notes: 'Scott Burns\' production embraced the natural resonance of Sean\'s DW setup rather than deadening it.',
+            notes: 'Scott Burns\' production embraced the natural resonance of Sean\'s Tama setup rather than deadening it.',
             change: null,
           },
         },
@@ -8461,7 +8461,7 @@ export const DRUMMER_EVOLUTION = {
           'First recording with Death — Human (1991) recorded at Morrisound Studios, a landmark technical death metal album',
           'Drumming widely cited as among the most influential in extreme metal history',
           'Jazz-influenced ghost notes and polyrhythmic vocabulary pushed death metal drumming forward',
-          'DW Collector\'s endorsement — warm maple tone unprecedented in the genre',
+          'Switched to a Tama Artstar II birch shell kit, replacing his prior Pearl Export setup',
         ],
 
         quote: {
@@ -8564,7 +8564,7 @@ export const DRUMMER_EVOLUTION = {
           snare: {
             item: 'DW Collector\'s Series',
             details: 'Maple shell',
-            notes: 'Continued with the DW Collector\'s maple snare that had defined his sound since Human, carried through the reunion-era recordings.',
+            notes: 'New DW Collector\'s maple snare for the reunion era, replacing the Tama Artstar II snare used on Human and Focus, carried through the reunion-era recordings.',
             change: null,
           },
           cymbals: {

@@ -3521,7 +3521,7 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
           { q: 'What drum set does Tim Yeung use?', a: 'Tim Yeung\'s drum set pairs his Tama Starclassic Bubinga shells and steel snare with a Tama Speed Cobra 910 double pedal, powering the relentless double-bass runs that made him one of death metal\'s most in-demand session drummers.' },
           { q: 'What cymbals does Tim Yeung play?', a: 'Tim Yeung plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, and a 21" HHX Raw Bell Dry Ride.' },
           { q: 'What snare does Tim Yeung use?', a: 'Tim Yeung\'s snare is a Tama S.L.P. Big Black Steel 14"x6.5", delivering a sharp, aggressive crack that cuts through the dense, downtuned arrangements of Hate Eternal, Divine Heresy, and Vital Remains.' },
-          { q: 'What sticks does Tim Yeung use?', a: 'Tim Yeung uses Vic Firth American Classic 5A drumsticks.' },
+          { q: 'What sticks does Tim Yeung use?', a: 'Tim Yeung uses Vic Firth 5B drumsticks.' },
           { q: 'What bass drum pedal does Tim Yeung use?', a: 'Tim Yeung anchors his legendary speed and stamina with a Tama Speed Cobra 910 double pedal.' },
           { q: 'What drumheads does Tim Yeung use?', a: 'Tim Yeung uses Evans drumheads across his Tama Starclassic Bubinga kit.' },
           { q: 'What band is Tim Yeung in?', a: 'Tim Yeung has drummed for Morbid Angel, Vital Remains, Hate Eternal, and Divine Heresy, and filled in for George Kollias on Nile\'s 2012 European dates.' },

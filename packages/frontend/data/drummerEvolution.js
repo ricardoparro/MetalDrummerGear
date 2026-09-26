@@ -5705,7 +5705,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Cryptopsy',
     totalYearsActive: '1992-Present',
     profileImage: '/images/drummers/flo-mounier.webp',
-    summary: 'From Tama kits in Montreal rehearsal rooms to a Pearl-equipped machine capable of defining technical death metal for three decades, Flo Mounier\'s gear evolution mirrors Cryptopsy\'s ascent from Quebec underground legends to one of the most technically accomplished death metal bands in history.',
+    summary: 'From Pearl kits in Montreal rehearsal rooms to a Tama-equipped machine capable of defining technical death metal for three decades, Flo Mounier\'s gear evolution mirrors Cryptopsy\'s ascent from Quebec underground legends to one of the most technically accomplished death metal bands in history.',
 
     eras: [
       {
@@ -5714,20 +5714,20 @@ export const DRUMMER_EVOLUTION = {
         years: '1992–1998',
         startYear: 1992,
         endYear: 1998,
-        description: 'The formative era. Flo Mounier helped build Cryptopsy from a Montreal underground band into the defining force of brutal technical death metal. Playing on Tama kits with whatever he could afford in early-1990s Quebec, he developed the hyper-fast, compositionally complex drumming vocabulary that would define None So Vile — widely considered the greatest technical death metal album ever recorded.',
+        description: 'The formative era. Flo Mounier helped build Cryptopsy from a Montreal underground band into the defining force of brutal technical death metal. Playing Pearl kits (MX Series by the None So Vile era) since co-founding the band in 1992, he developed the hyper-fast, compositionally complex drumming vocabulary that would define None So Vile — widely considered the greatest technical death metal album ever recorded.',
         albums: ['Blasphemy Made Flesh (1994)', 'None So Vile (1996)'],
         tours: ['Canadian underground circuit', 'None So Vile North American touring'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Performer',
-            details: 'Birch/bubinga shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'The Starclassic Performer\'s birch/bubinga hybrid gave Flo the punchy, articulate sound needed for Cryptopsy\'s insanely complex rhythmic patterns.',
+            item: 'Pearl MX Series',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'The Pearl MX Series gave Flo the punchy, articulate sound needed for Cryptopsy\'s insanely complex rhythmic patterns.',
             change: null,
           },
           snare: {
-            item: 'Tama Steel 14"×5.5"',
+            item: 'Pearl Steel 14"×5.5"',
             details: 'Standard steel snare — cutting, explosive attack',
             notes: 'Sharp, bright snare sound that cut through the chaotic guitar and bass density on None So Vile.',
             change: null,
@@ -5767,7 +5767,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Established Cryptopsy\'s signature hyper-technical drumming style',
           'None So Vile (1996) recorded — considered the greatest technical death metal album',
-          'Tama Starclassic becomes the instrument of the era\'s most complex death metal drumming',
+          'Pearl MX Series becomes the instrument of the era\'s most complex death metal drumming',
           'Iron Cobra double pedal essential for extreme speed development',
         ],
 
@@ -5786,7 +5786,7 @@ export const DRUMMER_EVOLUTION = {
         startYear: 1998,
         endDate: 2007,
         endYear: 2007,
-        description: 'Cryptopsy\'s most prolific creative period and Flo Mounier\'s technical apex. With the Pearl endorsement now active, he had a professional-grade kit fully capable of surviving brutal touring demands. Whisper Supremacy and And Then You\'ll Beg are considered the pinnacle of blasting technical death metal composition, while Once Was Not pushed the genre\'s melodic and structural limits.',
+        description: 'Cryptopsy\'s most prolific creative period and Flo Mounier\'s technical apex. With a Pearl kit upgrade to the flagship Reference and Masters BRX lines, he had a professional-grade kit fully capable of surviving brutal touring demands. Whisper Supremacy and And Then You\'ll Beg are considered the pinnacle of blasting technical death metal composition, while Once Was Not pushed the genre\'s melodic and structural limits.',
         albums: ['Whisper Supremacy (1998)', 'And Then You\'ll Beg (2000)', 'None So Live (2003)', 'Once Was Not (2005)'],
         tours: ['North American death metal circuit', 'European festival touring'],
         image: null,
@@ -5837,7 +5837,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Pearl endorsement begins — switch from Tama to Pearl Reference',
+          'Upgraded to the Pearl Reference Series, continuing the Pearl endorsement since 1992',
           'Pearl Eliminator/Demon Drive pedal replaces Iron Cobra',
           'Sabian AAX upgrade for touring brightness',
           'Whisper Supremacy (1998) and And Then You\'ll Beg (2000) define the technical death metal peak',
@@ -5932,7 +5932,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Flo Mounier Gear Evolution Timeline | Cryptopsy Drum Kit History',
-    metaDescription: 'Explore Flo Mounier\'s complete drum gear evolution from Tama to Pearl across Cryptopsy\'s technical death metal career. None So Vile to the Book of Suffering — every era of the most influential Canadian extreme metal drummer.',
+    metaDescription: 'Explore Flo Mounier\'s complete drum gear evolution from Pearl to Tama across Cryptopsy\'s technical death metal career. None So Vile to the Book of Suffering — every era of the most influential Canadian extreme metal drummer.',
   },
 
   // ==========================================

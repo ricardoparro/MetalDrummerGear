@@ -6874,9 +6874,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "Chain-drive Iron Cobra pedal delivering the mechanical precision and heavy, deliberate kick placement that anchored Motörhead's groove rather than machine-gun double-bass runs.",
         vintageValue2026: 350,
         modernEquivalent: {
-          item: 'Pearl Demon Drive Double Pedal (Current Setup)',
+          item: 'DW 5000 Series Double Pedal (Current Setup)',
           price: 750,
-          link: 'pearl-demon-drive-mikkey-dee',
+          link: 'dw-5000-series-mikkey-dee',
         },
       },
       sticks: {
@@ -6889,9 +6889,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "5B diameter and weight suited Dee's powerful playing style — more mass than 5A for heavier attack at Motörhead's volume levels.",
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Vic Firth Mikkey Dee Signature (Current Model)',
+          item: 'Wincent Mikkey Dee Signature (Current Model)',
           price: 18,
-          link: 'vic-firth-mikkey-dee-signature',
+          link: 'wincent-mikkey-dee-signature',
         },
       },
       heads: {

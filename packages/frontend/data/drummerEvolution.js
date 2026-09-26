@@ -1560,27 +1560,27 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series',
-            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Upgraded to Pearl Reference for the hybrid maple/birch tone.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Sonor SQ2',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Signed with Sonor in 2005 for the SQ2 series drums, the long-term partnership he settled into for Catch 33.',
+            change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Continued Free-Floating preference',
-            notes: 'Consistent snare across multiple albums.',
-            change: null,
+            item: 'Sonor SQ2 Steel 14"×6.5"',
+            details: '14"×6.5" Steel',
+            notes: 'Steel snare from the newly signed Sonor partnership; his own signature snare model came later.',
+            change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Paiste Signature Dark Energy',
-            details: 'Full dark energy setup — 14" hi-hats, crashes, 22" ride, China',
-            notes: 'Continued dark cymbal palette.',
+            item: 'Sabian HHX & AAX',
+            details: '14" hi-hats, 18"/19" crashes, 22" ride, 20" China',
+            notes: 'Longtime Sabian HHX & AAX cymbal setup.',
             change: null,
           },
           hardware: {
-            item: 'Pearl Demon Drive',
-            details: 'Continued direct drive',
-            notes: 'Maintained pedal preference.',
+            item: 'Tama Speed Cobra',
+            details: 'Two independent single pedals, not a double pedal',
+            notes: 'Enables independent-foot technique — each pedal can play a different rhythm.',
             change: null,
           },
           sticks: {
@@ -1610,7 +1610,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Pearl Reference upgrade',
+          'Signed with Sonor for the SQ2 series drums in 2005',
           'Full IEM click track system integrated',
           'Catch 33 demonstrated Haake\'s machine-like precision',
         ],

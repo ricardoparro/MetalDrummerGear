@@ -3413,18 +3413,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       sticks: {
-        item: 'Vic Firth Matt Halpern Signature',
+        item: 'Promark Matt Halpern Signature',
         model: 'Signature taper',
         specs: 'Hickory, established Halpern signature model',
         originalPrice: 13,
         year: 2016,
-        source: 'Vic Firth signature retail pricing 2016',
+        source: 'Promark signature retail pricing 2016',
         notes: "Halpern's signature stick was already an established touring and recording choice by Select Difficulty, consistent across all of his Periphery sessions.",
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Vic Firth Matt Halpern Signature',
+          item: 'Promark Matt Halpern Signature',
           price: 15,
-          link: 'vic-firth-matt-halpern-signature',
+          link: 'promark-matt-halpern-signature',
         },
       },
       heads: {

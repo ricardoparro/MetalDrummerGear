@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-26 12:50 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-26 15:49 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 311 |
-| Sessions | 366 |
-| Page views | 533 |
-| Engagement rate | 63.11% |
-| Avg session (s) | 107 |
+| Active users | 313 |
+| Sessions | 369 |
+| Page views | 536 |
+| Engagement rate | 62.60% |
+| Avg session (s) | 110 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummers | 16 | 5 |
+| /drummer/bill-ward | 14 | 8 |
 | /bpm | 13 | 2 |
-| /drummer/bill-ward | 13 | 7 |
 | /drummer/frost | 12 | 3 |
 | /drummer/joey-jordison | 12 | 8 |
 | /drummer/mario-duplantier | 12 | 11 |
@@ -33,8 +33,8 @@
 | --- | --- | --- |
 | Organic Search | 306 | 253 |
 | Direct | 45 | 45 |
-| Unassigned | 15 | 14 |
-| Cross-network | 7 | 7 |
+| Unassigned | 18 | 17 |
+| Cross-network | 9 | 9 |
 | AI Assistant | 2 | 2 |
 
 ### Top countries (sessions, last 7d)

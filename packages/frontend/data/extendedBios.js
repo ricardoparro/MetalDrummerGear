@@ -7852,15 +7852,15 @@ Ilejay's time with Avenged Sevenfold coincided with their transition to a more c
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `During his time with Avenged Sevenfold, Arin Ilejay used a Mapex setup designed for the arena-sized venues and powerful sound the band required.
+        content: `During his time with Avenged Sevenfold, Arin Ilejay used a DW setup designed for the arena-sized venues and powerful sound the band required.
 
 **A7X Era Setup:**
-- **Drums**: Mapex Saturn Series
-- **Snare**: Mapex Black Panther 14"x6.5"
+- **Drums**: DW Collector's Series
+- **Snare**: DW Collector's Series
 - **Cymbals**: Zildjian A Custom series
-- **Hardware**: Mapex Falcon double pedal; Mapex T865 throne
-- **Sticks**: Vic Firth American Classic 5A
-- **Heads**: Evans
+- **Hardware**: DW 9000 Series double pedal
+- **Sticks**: Promark 5B
+- **Heads**: Remo
 
 **Setup Characteristics:**
 - Large kit suitable for arena performances
@@ -7884,13 +7884,13 @@ Ilejay's time with Avenged Sevenfold coincided with their transition to a more c
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Arin Ilejay use?', a: 'Arin Ilejay played a Mapex Saturn Series drum kit — the setup behind Avenged Sevenfold\'s "Hail to the King" (2013), the album that introduced his straightforward, classic-metal-influenced attack following Jimmy "The Rev" Sullivan\'s death. It centered on a Mapex Black Panther 14"x6.5" snare.' },
-          { q: 'What drum set does Arin Ilejay use?', a: 'Arin Ilejay\'s drum set paired his Mapex Black Panther snare with a Mapex Falcon double pedal and Mapex T865 throne, anchoring the deliberately retro heavy metal grooves of "Hail to the King."' },
+          { q: 'What drum kit does Arin Ilejay use?', a: 'Arin Ilejay played a DW Collector\'s Series drum kit — the setup behind Avenged Sevenfold\'s "Hail to the King" (2013), the album that introduced his straightforward, classic-metal-influenced attack following Jimmy "The Rev" Sullivan\'s death. It centered on a DW Collector\'s Series snare.' },
+          { q: 'What drum set does Arin Ilejay use?', a: 'Arin Ilejay\'s drum set paired his DW Collector\'s Series snare with a DW 9000 Series double pedal, anchoring the deliberately retro heavy metal grooves of "Hail to the King."' },
           { q: 'What cymbals does Arin Ilejay play?', a: 'Arin Ilejay played Zildjian A Custom cymbals: 14" A Custom Mastersound Hi-Hats, 18" and 19" A Custom Crashes, a 21" A Sweet Ride, and an 18" A Custom China.' },
-          { q: 'What snare does Arin Ilejay use?', a: 'Arin Ilejay\'s snare was a Mapex Black Panther 14"x6.5", delivering the sharp, cutting backbeat that anchored "Hail to the King"\'s retro heavy metal grooves.' },
-          { q: 'What sticks does Arin Ilejay use?', a: 'Arin Ilejay used Vic Firth American Classic 5A drumsticks.' },
-          { q: 'What bass drum pedal does Arin Ilejay use?', a: 'Arin Ilejay drove his double bass patterns with a Mapex Falcon double pedal.' },
-          { q: 'What drumheads does Arin Ilejay use?', a: 'Arin Ilejay used Evans drumheads across his Mapex Saturn Series kit.' },
+          { q: 'What snare does Arin Ilejay use?', a: 'Arin Ilejay\'s snare was a DW Collector\'s Series, delivering the sharp, cutting backbeat that anchored "Hail to the King"\'s retro heavy metal grooves.' },
+          { q: 'What sticks does Arin Ilejay use?', a: 'Arin Ilejay used Promark 5B drumsticks.' },
+          { q: 'What bass drum pedal does Arin Ilejay use?', a: 'Arin Ilejay drove his double bass patterns with a DW 9000 Series double pedal.' },
+          { q: 'What drumheads does Arin Ilejay use?', a: 'Arin Ilejay used Remo drumheads across his DW Collector\'s Series kit.' },
           { q: 'What band is Arin Ilejay in?', a: 'Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King" (2013), and previously drummed for post-hardcore band Confide (2006-2011).' },
           { q: 'Who did Arin Ilejay replace in Avenged Sevenfold?', a: 'Arin Ilejay joined Avenged Sevenfold in 2011, stepping in after Mike Portnoy (Dream Theater) filled in as a touring replacement for founding drummer Jimmy "The Rev" Sullivan, who died in 2009; Ilejay recorded "Hail to the King" (2013) before departing in 2015 and was replaced by Brooks Wackerman.' }
         ]

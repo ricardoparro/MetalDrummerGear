@@ -43,7 +43,7 @@ export const articles = {
       "kit": "DW Collector's Series",
       "cymbals": "Zildjian A Custom",
       "doublePedals": "DW 9000 Series Double Pedal",
-      "sticks": "Vic Firth 5B",
+      "sticks": "Promark 5B",
       "bands": "Avenged Sevenfold / Confide",
       "albumCredited": "Hail to the King (2013) — #1 Billboard 200"
     },
@@ -162,10 +162,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth 5B",
+          "brand": "Promark",
+          "model": "Promark 5B",
           "notes": "Heavier than 5A for power at arena volume; balanced for both rim shots and cymbal work",
-          "description": "Vic Firth 5B sticks provided the combination of weight and balance suited to Ilejay's hard-hitting arena style. In A7X's live context — playing at the volume level required to project over a full PA system in arenas — heavier sticks drive through cymbal and head material more effectively than lighter models. The 5B's larger diameter compared to 5A also provides better rim-shot definition, essential for the powerful backbeat snare sound that anchors Hail to the King's classic metal grooves."
+          "description": "Promark 5B sticks provided the combination of weight and balance suited to Ilejay's hard-hitting arena style. In A7X's live context — playing at the volume level required to project over a full PA system in arenas — heavier sticks drive through cymbal and head material more effectively than lighter models. The 5B's larger diameter compared to 5A also provides better rim-shot definition, essential for the powerful backbeat snare sound that anchors Hail to the King's classic metal grooves."
         },
         {
           "type": "Drumheads (Bass, Batter)",
@@ -419,9 +419,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5A",
-          "notes": "Standard 5A profile — balanced weight for both power and cymbal articulation at arena volume"
+          "brand": "Promark",
+          "model": "Promark 5B",
+          "notes": "Standard 5B profile — balanced weight for both power and cymbal articulation at arena volume"
         },
         {
           "type": "Throne",
@@ -522,7 +522,7 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth American Classic 5A",
+          "then": "Promark 5B",
           "now": "Vic Firth (Wackerman era)"
         }
       ]
@@ -553,7 +553,7 @@ export const articles = {
       },
       {
         "question": "What is the drum setup on Hail to the King?",
-        "answer": "The drum setup on Avenged Sevenfold's Hail to the King (2013) centers on a DW Collector's Series kit, a DW Collector's Series 14\" x 6.5\" snare, Zildjian A Custom cymbals (14\" hi-hats, 16\", 18\", and 19\" crashes, 20\" ride, and a China), and a DW 9000 Series double bass pedal. Drummer Arin Ilejay played Vic Firth American Classic 5A sticks. The production, handled by Mike Elizondo, prioritized a punchy, direct drum sound that matched the album's deliberate classic heavy metal aesthetic."
+        "answer": "The drum setup on Avenged Sevenfold's Hail to the King (2013) centers on a DW Collector's Series kit, a DW Collector's Series 14\" x 6.5\" snare, Zildjian A Custom cymbals (14\" hi-hats, 16\", 18\", and 19\" crashes, 20\" ride, and a China), and a DW 9000 Series double bass pedal. Drummer Arin Ilejay played Promark 5B sticks. The production, handled by Mike Elizondo, prioritized a punchy, direct drum sound that matched the album's deliberate classic heavy metal aesthetic."
       },
       {
         "question": "How does Arin Ilejay's kit on Hail to the King compare to The Rev's setup?",
@@ -682,7 +682,7 @@ export const articles = {
               "name": "What is the drum setup on Hail to the King?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The drum setup on Avenged Sevenfold's Hail to the King features a DW Collector's Series kit, a DW Collector's Series 14x6.5 inch snare, Zildjian A Custom cymbals (14 inch hi-hats, 16, 18, and 19 inch crashes, 20 inch ride, and China), and a DW 9000 Series double bass pedal. Arin Ilejay used Vic Firth American Classic 5A sticks throughout the sessions and supporting tour."
+                "text": "The drum setup on Avenged Sevenfold's Hail to the King features a DW Collector's Series kit, a DW Collector's Series 14x6.5 inch snare, Zildjian A Custom cymbals (14 inch hi-hats, 16, 18, and 19 inch crashes, 20 inch ride, and China), and a DW 9000 Series double bass pedal. Arin Ilejay used Promark 5B sticks throughout the sessions and supporting tour."
               }
             },
             {

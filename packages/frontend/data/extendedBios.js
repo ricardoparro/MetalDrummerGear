@@ -2349,7 +2349,7 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
           { q: 'What drum set does Bill Ward use?', a: 'Bill Ward\'s drum set typically centered on a 24" bass drum and 13" and 16" toms in Ludwig Classic Maple shells, driven by a single Ludwig Speed King Pedal and Ludwig throne, with a 20" Zildjian Ride anchoring the kit from Master of Reality onward.' },
           { q: 'What cymbals does Bill Ward play?', a: 'Bill Ward played Super Zyn cymbals from Black Sabbath\'s 1970 debut through Paranoid (1968-1971), then switched to Avedis Zildjian — 14" hi-hats, a 20" ride, and 16"-18" crashes — for Master of Reality (1971) through Never Say Die! (1978).' },
           { q: 'What snare does Bill Ward use?', a: 'Bill Ward\'s snare is a Ludwig Supraphonic 14"x6.5" LM402, the same model behind the crack heard on Sabbath staples like "War Pigs" and "Iron Man."' },
-          { q: 'What sticks does Bill Ward use?', a: 'Bill Ward uses Vic Firth American Classic 2B drumsticks.' },
+          { q: 'What sticks does Bill Ward use?', a: 'Bill Ward uses Pro-Mark Standard 5A/5B equivalent drumsticks.' },
           { q: 'What bass drum pedal does Bill Ward use?', a: 'Bill Ward uses a single Ludwig Speed King Pedal mounted with Ludwig hardware, including a Ludwig throne.' },
           { q: 'What drumheads does Bill Ward use?', a: 'Bill Ward uses Remo drumheads.' },
           { q: 'What band is Bill Ward in?', a: 'Bill Ward is a co-founder and drummer of Black Sabbath, playing with the band 1968-1980, briefly in 1983-1984, again in 1997-1998, and once more in 2011-2012 amid a lineup dispute.' },

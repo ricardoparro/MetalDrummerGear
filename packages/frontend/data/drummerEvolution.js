@@ -21090,7 +21090,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'At the Gates / Paradise Lost',
     totalYearsActive: '1990-Present',
     profileImage: '/images/drummers/adrian-erlandsson.webp',
-    summary: 'Adrian Erlandsson co-founded At the Gates in 1990 and drove the D-beat-and-blast-beat foundation of Slaughter of the Soul (1995) — one of the most influential albums in extreme metal history and the blueprint for the Gothenburg melodic death metal sound. Brother of Arch Enemy\'s Daniel Erlandsson, Adrian\'s career took a distinct path from Sweden through Britain\'s gothic and extreme metal scenes: founding The Haunted in 1996, joining Cradle of Filth from 1999-2006, then Paradise Lost from 2009-2016, all while returning to At the Gates for its full-time 2008 reformation. His gear evolution runs from the budget Pearl Export kit of At the Gates\' underground years, through a career-long Tama Starclassic relationship built across The Haunted and Cradle of Filth, into the Tama Starclassic Bubinga / Sabian / Czarcie Kopyto rig that defines his current work across At the Gates, The Haunted, and his Paradise Lost years.',
+    summary: 'Adrian Erlandsson co-founded At the Gates in 1990 and drove the D-beat-and-blast-beat foundation of Slaughter of the Soul (1995) — one of the most influential albums in extreme metal history and the blueprint for the Gothenburg melodic death metal sound. Brother of Arch Enemy\'s Daniel Erlandsson, Adrian\'s career took a distinct path from Sweden through Britain\'s gothic and extreme metal scenes: founding The Haunted in 1996, joining Cradle of Filth from 1999-2006, then Paradise Lost from 2009-2016, all while returning to At the Gates for its full-time 2008 reformation. His gear evolution runs from the budget Pearl Export kit of At the Gates\' underground years, carried informally across The Haunted, Cradle of Filth, and Paradise Lost, into the Tama Starclassic Bubinga / Sabian / Czarcie Kopyto rig he adopted in 2014 for At the Gates\' reunion album At War with Reality — the setup that defines his current work.',
 
     eras: [
       {
@@ -21170,41 +21170,41 @@ export const DRUMMER_EVOLUTION = {
         years: '1996-2006',
         startYear: 1996,
         endYear: 2006,
-        description: 'The day after At the Gates\' first breakup, Erlandsson formed The Haunted with guitarist Patrik Jensen, recording the band\'s self-titled 1998 debut before departing in 1999. He then joined British extreme/gothic metal act Cradle of Filth, recording Midian (2000), Damnation and a Day (2003), Nymphetamine (2004), and Thornography (2006) — a stylistic pivot from Gothenburg melodic death metal into symphonic extreme metal\'s more theatrical, orchestrated productions. This period marked his transition to a career-long Tama Starclassic relationship, replacing the Pearl-era kit of his At the Gates years.',
+        description: 'The day after At the Gates\' first breakup, Erlandsson formed The Haunted with guitarist Patrik Jensen, recording the band\'s self-titled 1998 debut before departing in 1999. He then joined British extreme/gothic metal act Cradle of Filth, recording Midian (2000), Damnation and a Day (2003), Nymphetamine (2004), and Thornography (2006) — a stylistic pivot from Gothenburg melodic death metal into symphonic extreme metal\'s more theatrical, orchestrated productions. His specific gear through this stretch is not definitively documented; the Tama Starclassic / Sabian / Monolit rig he\'s known for today wasn\'t formalized until 2014, for At the Gates\' reunion album At War with Reality.',
         albums: ['The Haunted - The Haunted (1998)', 'Cradle of Filth - Midian (2000)', 'Cradle of Filth - Damnation and a Day (2003)', 'Cradle of Filth - Nymphetamine (2004)', 'Cradle of Filth - Thornography (2006)'],
         tours: ['The Haunted Touring 1996-1999', 'Cradle of Filth World Touring 1999-2006'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic',
-            details: 'Maple/birch shells, double 22" bass drums',
-            notes: 'Switched from the Pearl-era kit of his At the Gates years to Tama, beginning the brand relationship that has defined the rest of his career.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Pearl Export / Studio House Kit (undocumented specifics)',
+            details: 'Consistent with the brand carried over from his At the Gates years',
+            notes: 'No endorsement change is documented for his Haunted or Cradle of Filth years — his Tama Starclassic relationship did not begin until 2014, for At the Gates\' reunion album At War with Reality.',
+            change: null,
           },
           snare: {
-            item: 'Tama Starclassic 14"x6" Steel/Bubinga',
-            details: 'Bright, cutting tuning',
-            notes: 'A step up from the studio house snare of his At the Gates years, suited to Cradle of Filth\'s more orchestrated, produced sound.',
-            change: CHANGE_TYPES.SWITCH,
+            item: '14"x6" Steel or Birch Studio Snare',
+            details: 'Consistent with his At the Gates-era snare',
+            notes: 'No documented change during this stretch; the Tama Starclassic Bubinga snare wasn\'t adopted until 2014.',
+            change: null,
           },
           cymbals: {
-            item: 'Zildjian A-Series / Sabian',
+            item: 'Zildjian A-Series',
             details: '14" hi-hats, 16"/18" crashes, 20"/21" ride, 18" China',
-            notes: 'Cymbal setup expanded for Cradle of Filth\'s larger, more theatrical stage productions and orchestral arrangements.',
+            notes: 'Continued from his At the Gates years — his Sabian endorsement did not begin until 2014.',
             change: null,
           },
           hardware: {
-            item: 'Tama Double Bass Pedal',
-            details: 'Chain-drive double pedal',
-            notes: 'Switched pedal brand alongside the full kit change to Tama.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Standard Double Bass Pedal Setup',
+            details: 'Continued from his At the Gates years',
+            notes: 'No documented pedal brand change during this stretch; the Monolit Czarcie Kopyto wasn\'t adopted until 2014.',
+            change: null,
           },
           sticks: {
-            item: 'Vic Firth Rock',
-            details: 'Nylon tip, hickory',
-            notes: 'Moved toward the Vic Firth relationship that would later produce his signature model.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Vic Firth / Pro-Mark',
+            details: 'Standard hickory sticks of the era',
+            notes: 'Continued from his At the Gates years; no fixed signature model yet.',
+            change: null,
           },
           heads: {
             item: 'Remo Emperor Coated / Ambassador',
@@ -21215,8 +21215,8 @@ export const DRUMMER_EVOLUTION = {
         },
 
         estimatedCost: {
-          original: 3200,
-          inflationAdjusted: 5600,
+          original: 1500,
+          inflationAdjusted: 2600,
           currency: 'USD',
         },
 
@@ -21224,7 +21224,7 @@ export const DRUMMER_EVOLUTION = {
           'Formed The Haunted in 1996 with guitarist Patrik Jensen, recording the band\'s self-titled 1998 debut',
           'Left The Haunted in 1999 to join British extreme/gothic metal act Cradle of Filth',
           'Recorded four Cradle of Filth albums (2000-2006), including Midian and Nymphetamine',
-          'Switched from Pearl to Tama Starclassic, beginning a brand relationship that continues today',
+          'Gear specifics for this stretch are not definitively documented; his Tama Starclassic/Sabian/Monolit relationship did not begin until 2014',
         ],
 
         quote: {
@@ -21241,53 +21241,53 @@ export const DRUMMER_EVOLUTION = {
         years: '2009-2016',
         startYear: 2009,
         endYear: 2016,
-        description: 'On Jeff Walker\'s recommendation, Erlandsson joined British gothic metal pioneers Paradise Lost in 2009, recording Draconian Times MMXI (2011, a 20th-anniversary re-recording), Tragic Idol (2012), and The Plague Within (2015). During this run he was simultaneously juggling At the Gates\' full-time 2008 reformation and The Haunted\'s 2013 rejoin — three active bands at once, a workload that reflects the same reliable, in-demand professionalism defining his entire career. His gear matured into the Tama Starclassic Bubinga configuration, paired with Sabian AAX/HHX cymbals, that remains his definitive setup.',
+        description: 'On Jeff Walker\'s recommendation, Erlandsson joined British gothic metal pioneers Paradise Lost in 2009, recording Draconian Times MMXI (2011, a 20th-anniversary re-recording), Tragic Idol (2012), and The Plague Within (2015). During this run he was simultaneously juggling At the Gates\' full-time 2008 reformation and The Haunted\'s 2013 rejoin — three active bands at once, a workload that reflects the same reliable, in-demand professionalism defining his entire career. His documented endorsement switch to the Tama Starclassic Bubinga / Sabian AAX/HHX rig came later, in 2014, tied to At the Gates\' reunion album At War with Reality rather than to his Paradise Lost tenure.',
         albums: ['Paradise Lost - Draconian Times MMXI (2011)', 'Paradise Lost - Tragic Idol (2012)', 'Paradise Lost - The Plague Within (2015)'],
         tours: ['Paradise Lost World Touring 2009-2016'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Bubinga',
-            details: 'Bubinga shells, double 22" bass drums, four-tom configuration',
-            notes: 'An upgrade from the maple/birch Starclassic of his Haunted and Cradle of Filth years — denser bubinga shells for a fuller low end suited to Paradise Lost\'s gothic doom weight.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Pearl Export / Studio House Kit (undocumented specifics)',
+            details: 'Continued from his At the Gates, Haunted, and Cradle of Filth years',
+            notes: 'No endorsement change is documented specifically for his Paradise Lost tenure — his Tama Starclassic Bubinga switch came in 2014, tied to At the Gates\' At War with Reality rather than to Paradise Lost.',
+            change: null,
           },
           snare: {
-            item: 'Tama Starclassic Bubinga 14"x6.5"',
-            details: 'Bubinga shell, matched to the kit',
-            notes: 'Upgraded snare shell material alongside the full kit change.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: '14"x6" Steel or Birch Studio Snare',
+            details: 'Continued from earlier years',
+            notes: 'No documented change during this stretch; the Tama Starclassic Bubinga snare wasn\'t adopted until 2014.',
+            change: null,
           },
           cymbals: {
-            item: 'Sabian AAX / HHX Series',
-            details: '15" HHX Xcelerator hi-hats, 20" AAX Iso crash, 19" Paragon China',
-            notes: 'Switched cymbal brand from Zildjian to Sabian, adopting the setup he has maintained ever since.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Zildjian A-Series',
+            details: '14" hi-hats, 16"/18" crashes, 20"/21" ride, 18" China',
+            notes: 'Continued through this stretch; his Sabian endorsement did not begin until 2014.',
+            change: null,
           },
           hardware: {
-            item: 'Monolit Czarcie Kopyto Pedal',
-            details: 'Boutique Polish double pedal',
-            notes: 'Adopted the Czarcie Kopyto pedal that remains part of his current documented hardware setup.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Standard Double Bass Pedal Setup',
+            details: 'Continued from earlier years',
+            notes: 'No documented pedal brand change during this stretch; the Monolit Czarcie Kopyto wasn\'t adopted until 2014.',
+            change: null,
           },
           sticks: {
-            item: 'Vic Firth Rock Nylon Tip',
-            details: 'Hickory, nylon tip',
-            notes: 'The stick model that would later become his official Vic Firth signature version.',
+            item: 'Vic Firth Rock',
+            details: 'Nylon tip, hickory',
+            notes: 'Continued from earlier years; his official Vic Firth signature model wasn\'t formalized until 2014.',
             change: null,
           },
           heads: {
-            item: 'Evans EMAD Onyx / EC Reverse Dot',
-            details: 'EMAD Onyx on kicks, EC Reverse Dot on snare',
-            notes: 'Switched from Remo to Evans, completing his current head configuration.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Remo Emperor Coated / Ambassador',
+            details: 'Standard professional setup',
+            notes: 'Consistent Remo head choice; the switch to Evans came in 2014.',
+            change: null,
           },
         },
 
         estimatedCost: {
-          original: 5800,
-          inflationAdjusted: 7800,
+          original: 1600,
+          inflationAdjusted: 2500,
           currency: 'USD',
         },
 
@@ -21295,7 +21295,7 @@ export const DRUMMER_EVOLUTION = {
           'Joined Paradise Lost in 2009 on Jeff Walker\'s recommendation',
           'Recorded Draconian Times MMXI (2011), Tragic Idol (2012), and The Plague Within (2015)',
           'Juggled Paradise Lost alongside At the Gates\' 2008 reformation and The Haunted\'s 2013 rejoin — three active bands at once',
-          'Upgraded to Tama Starclassic Bubinga and switched to Sabian cymbals, Evans heads, and a Czarcie Kopyto pedal',
+          'Gear remained on his earlier Pearl/Zildjian setup through this run; the Tama Starclassic Bubinga/Sabian/Monolit switch came in 2014, tied to At the Gates rather than Paradise Lost',
         ],
 
         quote: {
@@ -21312,7 +21312,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2013-Present',
         startYear: 2013,
         endYear: 2026,
-        description: 'With At the Gates\' 2008 reformation now a full-time commitment, Erlandsson recorded At War with Reality (2014), To Drink from the Night Itself (2018), and The Nightmare of Being (2021) — three albums that carried the Slaughter of the Soul legacy into the band\'s second act. He also rejoined The Haunted in 2013, recording Exit Wounds (2014) and Strength in Numbers (2017). His gear has held steady on the Tama Starclassic Bubinga rig established during his Paradise Lost years, refined with an official Vic Firth signature stick model bearing the At the Gates name.',
+        description: 'With At the Gates\' 2008 reformation now a full-time commitment, Erlandsson recorded At War with Reality (2014), To Drink from the Night Itself (2018), and The Nightmare of Being (2021) — three albums that carried the Slaughter of the Soul legacy into the band\'s second act. He also rejoined The Haunted in 2013, recording Exit Wounds (2014) and Strength in Numbers (2017). Returning to Studio Fredman for At War with Reality (2014), he switched to the Tama Starclassic Bubinga rig, Sabian AAX/HHX cymbals, and Monolit Czarcie Kopyto pedal — the mature gear he\'d developed informally across his years with The Haunted, Cradle of Filth, and Paradise Lost — and formalized his Vic Firth relationship into an official signature stick model bearing the At the Gates name.',
         albums: ['At the Gates - At War with Reality (2014)', 'At the Gates - To Drink from the Night Itself (2018)', 'At the Gates - The Nightmare of Being (2021)', 'The Haunted - Exit Wounds (2014)', 'The Haunted - Strength in Numbers (2017)'],
         tours: ['At the Gates World Touring 2014-Present', 'The Haunted Touring 2013-Present'],
         image: null,
@@ -21321,44 +21321,44 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Tama Starclassic Bubinga',
             details: 'Bubinga shells, double 22" bass drums, four-tom configuration',
-            notes: 'Unchanged from his Paradise Lost years — the definitive rig he has carried into At the Gates\' reformation-era studio and touring work.',
-            change: null,
+            notes: 'Switched from his Pearl-era kit in 2014, recording At the Gates\' reunion album At War with Reality — the mature rig he\'d developed informally across his years with The Haunted, Cradle of Filth, and Paradise Lost.',
+            change: CHANGE_TYPES.SWITCH,
           },
           snare: {
             item: 'Tama Starclassic Bubinga 14"x6.5"',
             details: 'Bubinga shell',
-            notes: 'The same snare documented for his At the Gates studio sessions on At War with Reality.',
-            change: null,
+            notes: 'Adopted alongside the full kit switch in 2014, documented for his At the Gates studio sessions on At War with Reality.',
+            change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
             item: 'Sabian AAX / HHX Series',
             details: '15" HHX Xcelerator hi-hats, 20" AAX Iso crash, 19" Paragon China',
-            notes: 'Maintained from the Paradise Lost era as his current, definitive cymbal setup.',
-            change: null,
+            notes: 'Switched from Zildjian A-Series to Sabian in 2014, for At War with Reality — his current, definitive cymbal setup.',
+            change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
             item: 'Monolit Czarcie Kopyto Pedal',
             details: 'Boutique Polish double pedal',
-            notes: 'Continued from his Paradise Lost years as his current documented pedal.',
-            change: null,
+            notes: 'Adopted in 2014 alongside the rest of the At War with Reality-era rig, replacing his standard double bass pedal setup.',
+            change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
             item: 'Vic Firth Rock Nylon Tip (At the Gates Signature)',
             details: 'Hickory, nylon tip, signature model',
-            notes: 'His stick relationship with Vic Firth matured into an official At the Gates-branded signature version.',
+            notes: 'His long-running Vic Firth stick relationship was formalized into an official At the Gates-branded signature model in 2014, alongside the At War with Reality sessions.',
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
             item: 'Evans EMAD Onyx / EC Reverse Dot',
             details: 'EMAD Onyx on kicks, EC Reverse Dot on snare',
-            notes: 'Unchanged from his Paradise Lost-era head configuration.',
-            change: null,
+            notes: 'Switched from Remo to Evans in 2014, completing his current head configuration.',
+            change: CHANGE_TYPES.SWITCH,
           },
         },
 
         estimatedCost: {
           original: 5800,
-          inflationAdjusted: 6900,
+          inflationAdjusted: 7800,
           currency: 'USD',
         },
 
@@ -21366,7 +21366,8 @@ export const DRUMMER_EVOLUTION = {
           'At the Gates\' 2008 reformation became a full-time commitment with At War with Reality (2014)',
           'Recorded To Drink from the Night Itself (2018) and The Nightmare of Being (2021) with At the Gates',
           'Rejoined The Haunted in 2013, recording Exit Wounds (2014) and Strength in Numbers (2017)',
-          'Vic Firth stick relationship matured into an official At the Gates signature model',
+          'Switched to Tama Starclassic Bubinga, Sabian AAX/HHX cymbals, Evans heads, and a Monolit Czarcie Kopyto pedal in 2014, for At War with Reality',
+          'Vic Firth stick relationship matured into an official At the Gates signature model, also formalized in 2014',
         ],
 
         quote: {
@@ -21393,7 +21394,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit does Adrian Erlandsson use now?',
-        a: 'Adrian Erlandsson currently plays a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, Evans drumheads, and his own Vic Firth Rock Nylon Tip At the Gates signature sticks — a setup established during his 2009-2016 Paradise Lost years and carried into At the Gates\' current lineup.',
+        a: 'Adrian Erlandsson currently plays a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, Evans drumheads, and his own Vic Firth Rock Nylon Tip At the Gates signature sticks — a setup established in 2014, for At the Gates\' reunion album At War with Reality, and carried into At the Gates\' current lineup.',
       },
       {
         q: 'Did Adrian Erlandsson play in Cradle of Filth?',
@@ -21402,7 +21403,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Adrian Erlandsson Gear Evolution Timeline | At the Gates Drum Kit History',
-    metaDescription: 'Explore Adrian Erlandsson\'s complete drum gear evolution: the budget Pearl-era kit behind At the Gates\' Slaughter of the Soul (1995), the Tama Starclassic relationship built across The Haunted and Cradle of Filth, and the Tama Starclassic Bubinga / Sabian / Czarcie Kopyto rig from his Paradise Lost years that defines his current At the Gates setup.',
+    metaDescription: 'Explore Adrian Erlandsson\'s complete drum gear evolution: the budget Pearl-era kit behind At the Gates\' Slaughter of the Soul (1995), carried informally across The Haunted, Cradle of Filth, and Paradise Lost, and the Tama Starclassic Bubinga / Sabian / Czarcie Kopyto rig he adopted in 2014 for At the Gates\' reunion album At War with Reality that defines his current setup.',
   },
 
   // ==========================================

@@ -8634,9 +8634,9 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Adrian Erlandsson's Slaughter of the Soul-era rig centered on a budget Pearl Export kit — a deliberate departure from prestige gear that matched At the Gates' underground, studio-house-kit circumstances at Studio Fredman. He later built a career-long relationship with Tama, transitioning to Tama Starclassic drums when he founded The Haunted and joined Cradle of Filth in the late 1990s.
+        content: `Adrian Erlandsson's Slaughter of the Soul-era rig centered on a budget Pearl Export kit — a deliberate departure from prestige gear that matched At the Gates' underground, studio-house-kit circumstances at Studio Fredman. He carried that Pearl/Zildjian setup informally through his years founding The Haunted and joining Cradle of Filth before switching to a career-long relationship with Tama in 2014.
 
-**Current Setup (Paradise Lost era to present):**
+**Current Setup (2014 to present):**
 - **Drums**: Tama Starclassic Bubinga, double 22" bass drums, four-tom configuration
 - **Snare**: Tama Starclassic Bubinga 14"x6.5"
 - **Cymbals**: Sabian AAX/HHX Series (15" HHX Xcelerator hi-hats, 20" AAX Iso crash, 19" Paragon China)
@@ -8646,9 +8646,8 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
 
 **Notable Gear Evolution:**
 - Started on a budget Pearl Export kit during At the Gates' underground Slaughter of the Soul era
-- Switched to Tama Starclassic when founding The Haunted (1996) and joining Cradle of Filth (1999), a relationship that has lasted his entire career since
-- Upgraded to Tama Starclassic Bubinga, Sabian AAX/HHX cymbals, and the Monolit Czarcie Kopyto pedal during his Paradise Lost years (2009-2016)
-- His Vic Firth stick relationship matured into a custom-printed At the Gates artist-endorsement arrangement`
+- Switched to Tama Starclassic, Sabian AAX/HHX cymbals, and the Monolit Czarcie Kopyto pedal in 2014, for At the Gates' reunion album "At War with Reality" — the mature rig he had developed informally across his years with The Haunted, Cradle of Filth, and Paradise Lost
+- His Vic Firth stick relationship matured into a custom-printed At the Gates artist-endorsement arrangement, also formalized in 2014`
       },
       trivia: {
         title: 'Trivia & Notes',
@@ -8670,10 +8669,10 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
           { q: 'What drum kit does Adrian Erlandsson use now?', a: 'Adrian Erlandsson currently plays a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, Evans drumheads, and custom-printed Vic Firth Rock Nylon Tip At the Gates artist-endorsement sticks.' },
           { q: 'Did Adrian Erlandsson play in Cradle of Filth?', a: 'Yes — Adrian Erlandsson was Cradle of Filth\'s drummer from 1999 to 2006, recording Midian (2000), Damnation and a Day (2003), Nymphetamine (2004), and Thornography (2006).' },
           { q: 'What drum kit did Adrian Erlandsson use on Slaughter of the Soul?', a: 'Adrian Erlandsson used a budget Pearl Export kit for At the Gates\' Slaughter of the Soul (1995), a deliberate departure from prestige gear that matched the album\'s Studio Fredman house-kit circumstances.' },
-          { q: 'What drum set does Adrian Erlandsson use?', a: 'Adrian Erlandsson\'s current drum set is a Tama Starclassic Bubinga configuration with double 22" bass drums and a four-tom setup, built around a Tama Starclassic Bubinga 14"x6.5" snare — a career-long relationship with Tama that began when he founded The Haunted and joined Cradle of Filth in the late 1990s.' },
+          { q: 'What drum set does Adrian Erlandsson use?', a: 'Adrian Erlandsson\'s current drum set is a Tama Starclassic Bubinga configuration with double 22" bass drums and a four-tom setup, built around a Tama Starclassic Bubinga 14"x6.5" snare — a relationship with Tama that began in 2014, for At the Gates\' reunion album "At War with Reality."' },
           { q: 'What cymbals does Adrian Erlandsson use?', a: 'Adrian Erlandsson uses Sabian AAX/HHX Series cymbals: 15" HHX Xcelerator hi-hats, a 20" AAX Iso crash, and a 19" Paragon China.' },
           { q: 'What snare drum does Adrian Erlandsson use?', a: 'Adrian Erlandsson plays a Tama Starclassic Bubinga 14"x6.5" snare drum.' },
-          { q: 'What pedals does Adrian Erlandsson use?', a: 'Adrian Erlandsson drives his double bass drums with a Monolit Czarcie Kopyto double pedal, a boutique Polish pedal he adopted during his Paradise Lost years (2009-2016).' }
+          { q: 'What pedals does Adrian Erlandsson use?', a: 'Adrian Erlandsson drives his double bass drums with a Monolit Czarcie Kopyto double pedal, a boutique Polish pedal he adopted in 2014 for At the Gates\' reunion album "At War with Reality."' }
         ]
       },
       sources: {

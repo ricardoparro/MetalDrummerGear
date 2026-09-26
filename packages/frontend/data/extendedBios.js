@@ -8071,7 +8071,7 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
           { year: '2004', event: 'Started playing drums at age 11 after assembling father\'s old drum kit' },
           { year: '2005', event: 'Began competing in drum competitions and auditioning for bands' },
           { year: '2008', event: 'Participated in Guitar Center Drum Off, reaching Regional Finals' },
-          { year: '2011', event: 'Joined technical death metal band Arkaik' },
+          { year: '2008', event: 'Joined technical death metal band Arkaik' },
           { year: '2012', event: 'Toured with Decrepit Birth and Hatriot' },
           { year: '2015', event: 'Joined Brain Drill and Dragonlord (Testament guitarist\'s band)' },
           { year: '2015', event: 'Joined Battlecross; filled in for Gene Hoglan on Testament dates' },
@@ -8159,7 +8159,7 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
           { q: 'What sticks does Alex Bent use?', a: 'Alex Bent uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Alex Bent use?', a: 'Alex Bent drives his rapid double bass work with Axis A Longboard double pedals, mounted on a TAMA Roadpro throne.' },
           { q: 'What drumheads does Alex Bent use?', a: 'Alex Bent uses Remo drumheads across his TAMA Starclassic Maple kit.' },
-          { q: 'What band is Alex Bent in?', a: 'Alex Bent drummed for Trivium from 2017 to 2025, and also drums for Eric Peterson\'s Dragonlord (since 2015) and Arkaik (since 2011).' },
+          { q: 'What band is Alex Bent in?', a: 'Alex Bent drummed for Trivium from 2017 to 2025, and also drums for Eric Peterson\'s Dragonlord (since 2015) and Arkaik (since 2008).' },
           { q: 'Did Alex Bent ever fill in for another drummer?', a: 'Alex Bent filled in for Gene Hoglan, one of his key influences, on Testament tour dates in 2015 before joining Trivium in 2017 at producer Mark Lewis\'s recommendation, going on to record three albums with the band through his departure in October 2025.' }
         ]
       },

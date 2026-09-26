@@ -8703,7 +8703,7 @@ export const GEAR_PRICE_HISTORY = {
       { year: 1999, price: 1500, label: 'Devin Townsend Band Formation', event: 'Began collaboration with Devin Townsend' },
       { year: 2003, price: 3500, label: 'Accelerated Evolution Era', event: 'Pearl Reference series established as the core kit' },
       { year: 2011, price: 5898, label: 'Original Purchase', event: 'Deconstruction and Ghost recorded and released the same day — definitive Pearl Reference / Sabian AAX-HHX setup, among prog metal\'s most demanding drum performances' },
-      { year: 2019, price: 6500, label: 'Empath Era', event: "Same Pearl / Sabian / Tama core carried into Townsend's most genre-spanning record" },
+      { year: 2019, price: 6500, label: 'Empath Era', event: "Same Pearl / Sabian core carried into Townsend's most genre-spanning record" },
       { year: 2026, price: 8591, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2011 Deconstruction-era Pearl Reference setup' },
     ],
 

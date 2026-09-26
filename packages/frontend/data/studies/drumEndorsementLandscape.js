@@ -794,7 +794,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Paul Mazurkiewicz",
           "slug": "paul-mazurkiewicz",
           "band": "Cannibal Corpse",
-          "configString": "Pearl Demon Drive Double Pedal"
+          "configString": "Pearl Eliminator Double Bass Pedal"
         },
         {
           "id": 52,

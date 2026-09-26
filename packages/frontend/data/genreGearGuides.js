@@ -27667,7 +27667,7 @@ Start with an 18" in whatever alloy fits your budget, experiment with inverted m
       title: "Why Djent Drummers Need a Precise China",
       content: `Djent is a genre built on mathematical precision — polyrhythms, odd-meter riffs, and syncopated guitar hits that land in unexpected places. A china cymbal in this context isn't about chaos; it's about landing a sharp, controlled accent exactly on a syncopated riff hit without blurring the rhythmic clarity the genre depends on.
 
-Tomas Haake's Sabian setup with Meshuggah — the band that effectively founded the djent sound — uses china accents with the same rhythmic precision that defines his polymetric approach to the kit. Matt Halpern's Meinl Artist Concept setup with Periphery pairs a controlled, fast-decaying china with the band's dense, technical arrangements, while Travis Orbin's Meinl Byzance Extra Dry china — part of the setup he helped shape during Periphery's genre-defining early years — favors a dry, cutting voice that doesn't wash over a polyrhythmic passage.
+Tomas Haake's Sabian setup with Meshuggah — the band that effectively founded the djent sound — uses china accents with the same rhythmic precision that defines his polymetric approach to the kit. Matt Halpern's Meinl Artist Concept setup with Periphery pairs a controlled, fast-decaying china with the band's dense, technical arrangements, while Travis Orbin's Zildjian K Custom Dark china — part of the setup he helped shape during Periphery's genre-defining early years — favors a dry, controlled voice that doesn't wash over a polyrhythmic passage.
 
 This guide covers what matters most for a djent china: fast decay, tonal clarity, and consistent response, along with specific model recommendations across every budget.`,
       keyPoints: [
@@ -27801,18 +27801,18 @@ Tomas Haake's Sabian setup with Meshuggah applies the same rhythmic exactness to
         },
         {
           rank: 3,
-          name: "Meinl Byzance Extra Dry China",
-          brand: "Meinl",
-          model: "16\" Byzance Extra Dry China",
+          name: "Zildjian K Custom Dark China",
+          brand: "Zildjian",
+          model: "16\" K Custom Dark China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€190-230",
           tier: "pro",
-          driveType: "B20 Bronze, Dark/Dry",
-          description: `The Extra Dry China's short, dry decay makes it one of the fastest-responding chinas available — a perfect match for djent's rapid, syncopated accent work where any lingering wash would blur the pattern.
+          driveType: "B20 Bronze, Dark",
+          description: `Travis Orbin, who helped build the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut, plays a 16" Zildjian K Custom Dark china as part of his broader K Custom Dark / A Custom hybrid setup. The K Custom Dark line's minimal-wash voicing kept his china from bleeding excessively into the acoustic trigger mics used to layer samples onto the album's foundational djent template.
 
-Travis Orbin's Meinl Byzance setup, developed during Periphery's genre-shaping early years, favors this dry, cutting voice for accents that need to disappear as quickly as they appear.`,
+Orbin's china choice proves that dry, controlled voicing isn't just an aesthetic choice in djent — it's a practical studio requirement for drummers integrating acoustic playing with electronic triggers and samples.`,
           pros: [
-            "Extremely fast decay for rapid syncopated accents",
+            "Travis Orbin's proven Periphery debut setup — helped define djent's genre-shaping china template",
             "16\" size responds nearly instantly",
             "Dry voice never blurs surrounding rhythmic detail",
             "High-quality B20 bronze construction"
@@ -27820,56 +27820,58 @@ Travis Orbin's Meinl Byzance setup, developed during Periphery's genre-shaping e
           cons: [
             "Less low-end weight than larger chinas",
             "Premium price for the smaller size",
-            "Dry tone can feel thin for drummers wanting a bigger wash"
+            "Dark tone can feel unfamiliar for drummers used to brighter chinas"
           ],
           specs: {
             size: "16\"",
-            alloy: "B20 Bronze",
-            finish: "Extra Dry",
-            weight: "Medium",
-            mounting: "Standard"
-          },
-          usedBy: [
-            { name: "Travis Orbin", band: "Periphery", note: "Dry, cutting china for genre-shaping polyrhythmic material" }
-          ],
-          verdict: "Best for drummers who need the fastest, most precise china response available.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_china_16.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
-          name: "Zildjian K Custom Dark China",
-          brand: "Zildjian",
-          model: "18\" K Custom Dark China",
-          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€220-270",
-          tier: "pro",
-          driveType: "B20 Bronze, Dark",
-          description: `The K Custom Dark China offers a complex, controlled trash with more overtone depth than drier alternatives, giving djent drummers a china voice that stays musical even when used as a recurring textural accent rather than a rare punctuation mark.
-
-A strong option for drummers building a more melodic, atmospheric take on djent who still want a china that responds with rhythmic precision.`,
-          pros: [
-            "Complex, musical trash with real overtone depth",
-            "Reliable, controlled response for repeated patterns",
-            "Versatile across djent's more atmospheric subgenres",
-            "Proven K Custom line durability"
-          ],
-          cons: [
-            "Premium price point",
-            "More overtone-heavy than the driest options",
-            "18\" size less nimble than smaller alternatives"
-          ],
-          specs: {
-            size: "18\"",
             alloy: "B20 Bronze",
             finish: "Dark",
             weight: "Medium",
             mounting: "Standard"
           },
-          usedBy: [],
-          verdict: "Best for drummers wanting a china with more musical depth in atmospheric djent material.",
+          usedBy: [
+            { name: "Travis Orbin", band: "Periphery / Darkest Hour", note: "Dry, controlled china for genre-shaping polyrhythmic material" }
+          ],
+          verdict: "Best for trigger-augmented recording setups needing controlled, low-bleed china response.",
+          rating: 4.5,
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_dark_china_16_orbin.htm?partner_id=metalforge"
+        },
+        {
+          rank: 4,
+          name: "Zildjian K Custom Dry China",
+          brand: "Zildjian",
+          model: "18\" K Custom Dry China",
+          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
+          priceRange: "€220-270",
+          tier: "pro",
+          driveType: "B20 Bronze, Dark/Dry",
+          description: `For djent drummers who prefer Zildjian's overtone character to Sabian or Meinl, the K Custom Dry China delivers the same dry, controlled decay the genre demands. Dark, complex, and low-sustain, it suits djent-adjacent progressive metal players building a versatile setup outside the genre's two dominant brand lineages.
+
+The K Custom Dry gives advanced djent drummers a genuine third option — proof that the genre's dry, controlled china philosophy isn't tied to any single manufacturer.`,
+          pros: [
+            "Dry, controlled decay matches djent's essential china philosophy",
+            "Dark, complex overtone character as an alternative to Sabian or Meinl",
+            "Versatile across djent-adjacent progressive metal styles",
+            "Proven K Custom line durability"
+          ],
+          cons: [
+            "Not directly attributed to a specific djent roster drummer",
+            "Premium K Custom pricing",
+            "18\" size less nimble than smaller alternatives"
+          ],
+          specs: {
+            size: "18\"",
+            alloy: "B20 Bronze",
+            finish: "Dark/Dry",
+            weight: "Medium",
+            mounting: "Standard"
+          },
+          usedBy: [
+            { name: "Advanced djent-adjacent drummers", band: "Various", note: "Dry, controlled Zildjian alternative to djent's Sabian/Meinl standard" }
+          ],
+          verdict: "Best Zildjian alternative for djent — dry, controlled voicing without switching to Sabian or Meinl.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_dark_china_18.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_dry_china_18_djent.htm?partner_id=metalforge"
         }
       ]
     },
@@ -27988,9 +27990,9 @@ A strong option for drummers building a more melodic, atmospheric take on djent 
           reason: "The bright, rhythmically exact voice behind Meshuggah's polymetric approach."
         },
         {
-          category: "Fastest Response",
-          pedal: "Meinl Byzance Extra Dry China",
-          reason: "The driest, fastest-decaying china for rapid syncopated accent work."
+          category: "Best for Trigger-Augmented Recording",
+          pedal: "Zildjian K Custom Dark China",
+          reason: "Travis Orbin's genre-shaping Periphery debut setup — minimal bleed into trigger mics."
         },
         {
           category: "Best Budget",
@@ -28009,7 +28011,7 @@ A strong option for drummers building a more melodic, atmospheric take on djent 
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian AAX China — djent\'s founding rhythmic precision' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept China — Periphery\'s technical arrangements' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry China — genre-shaping precision' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark China — genre-shaping precision' }
     ],
     relatedComparisons: [],
 
@@ -82779,7 +82781,7 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export steel snar
     // SEO metadata
     title: "Best Cymbals for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Djent 2026 | MetalForge Expert Guide",
-    description: "Best cymbal picks for djent's palm-muted, polyrhythmic riffing: what Tomas Haake (Sabian HHX/AAX), Matt Halpern (Meinl Artist Concept), and Travis Orbin (Meinl Byzance Extra Dry) actually play — ranked budget to pro.",
+    description: "Best cymbal picks for djent's palm-muted, polyrhythmic riffing: what Tomas Haake (Sabian HHX/AAX), Matt Halpern (Meinl Artist Concept), and Travis Orbin (Zildjian K Custom Dark) actually play — ranked budget to pro.",
     seoKeywords: [
       'best cymbals for djent',
       'djent cymbals',
@@ -82816,13 +82818,13 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export steel snar
       title: "Why Djent Needs Dry, Controlled Cymbals — Not Wash",
       content: `Djent's signature palm-muted, chugging guitar tone creates a dense, mid-heavy wall of sound that has no room for washy, sustained cymbals. Combined with the genre's love of odd-time polyrhythms and precisely placed accents, that means djent drummers need hi-hats, crashes, and rides voiced for immediate, controlled decay rather than the long, complex wash other metal subgenres favor.
 
-Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running HHX and AAX series cymbals including his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands. Matt Halpern of Periphery relies on his signature Meinl Artist Concept setup, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays Meinl Byzance Extra Dry and Traditional series cymbals, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
+Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running HHX and AAX series cymbals including his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands. Matt Halpern of Periphery relies on his signature Meinl Artist Concept setup, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays a Zildjian K Custom Dark / A Custom hybrid cymbal setup, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
 
 This guide breaks down hi-hat, crash, and ride choices for djent — comparing three drummers whose polyrhythmic, palm-muted lineages define the genre's cymbal demands, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Tomas Haake's Sabian HHX/AAX setup, including his own signature Compression Hi-Hats, defines djent's founding tight, controlled cymbal voice",
         "Matt Halpern's Meinl Artist Concept setup delivers the precise response Periphery's dense, palm-muted arrangements need",
-        "Travis Orbin's Meinl Byzance Extra Dry cymbals helped define djent's genre-shaping minimal-wash template on Periphery's 2010 debut",
+        "Travis Orbin's Zildjian K Custom Dark cymbals helped define djent's genre-shaping minimal-wash template on Periphery's 2010 debut",
         "Dry, low-sustain voicing is essential across every featured setup — djent has no room for washy cymbals"
       ]
     },
@@ -82834,7 +82836,7 @@ This guide breaks down hi-hat, crash, and ride choices for djent — comparing t
         {
           name: "Dry, Controlled Decay",
           icon: "🌫️",
-          description: "Djent's palm-muted riffing needs cymbals that decay quickly rather than washing into sustain. Travis Orbin's Meinl Byzance Extra Dry cymbals and Matt Halpern's Artist Concept crashes are both voiced with minimal ring for exactly this reason.",
+          description: "Djent's palm-muted riffing needs cymbals that decay quickly rather than washing into sustain. Travis Orbin's Zildjian K Custom Dark cymbals and Matt Halpern's Artist Concept crashes are both voiced with minimal ring for exactly this reason.",
           recommendation: "Extra Dry or Dark-voiced crashes for controlled, low-sustain decay"
         },
         {
@@ -82858,7 +82860,7 @@ This guide breaks down hi-hat, crash, and ride choices for djent — comparing t
         {
           name: "Studio Trigger Compatibility",
           icon: "🎛️",
-          description: "Djent drummers frequently record with electronic triggers and samples layered onto acoustic kits. Cymbals with controlled, predictable decay — like the Byzance Extra Dry line Travis Orbin favors — bleed less into nearby trigger mics.",
+          description: "Djent drummers frequently record with electronic triggers and samples layered onto acoustic kits. Cymbals with controlled, predictable decay — like the Zildjian K Custom Dark line Travis Orbin favors — bleed less into nearby trigger mics.",
           recommendation: "Low-wash cymbals that minimize bleed into acoustic trigger microphones"
         },
         {
@@ -82954,42 +82956,42 @@ Halpern's Berklee-trained musicality shows in how he uses this setup — dynamic
         },
         {
           rank: 3,
-          name: "Meinl Byzance Extra Dry / Traditional Series",
-          brand: "Meinl",
-          model: "Byzance Extra Dry / Traditional Series",
+          name: "Zildjian K Custom Dark / A Custom Hybrid Series",
+          brand: "Zildjian",
+          model: "K Custom Dark / A Custom Hybrid Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
           priceRange: "€200-420 per cymbal",
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `Travis Orbin, who helped build the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut, plays Meinl Byzance Extra Dry and Traditional series cymbals. The Extra Dry line's minimal-wash voicing kept his cymbals from bleeding excessively into the acoustic trigger mics used to layer samples onto the album's foundational djent template.
+          description: `Travis Orbin, who helped build the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut, plays a Zildjian K Custom Dark / A Custom hybrid cymbal setup. The K Custom Dark line's minimal-wash voicing kept his cymbals from bleeding excessively into the acoustic trigger mics used to layer samples onto the album's foundational djent template.
 
 Orbin's setup proves that a dry, low-sustain cymbal voicing isn't just an aesthetic choice in djent — it's a practical studio requirement for drummers integrating acoustic playing with electronic triggers and samples.`,
 
           pros: [
             "Travis Orbin's Periphery debut setup — helped define djent's genre-shaping cymbal template",
-            "Extra Dry voicing minimizes bleed into acoustic trigger microphones",
-            "Traditional series crashes add tonal variety alongside the Extra Dry line",
+            "K Custom Dark voicing minimizes bleed into acoustic trigger microphones",
+            "A Custom hybrid pieces add tonal variety alongside the K Custom Dark line",
             "Proven on Periphery's genre-defining self-titled 2010 debut",
             "B20 bronze construction built for demanding studio and touring use"
           ],
           cons: [
-            "Extra Dry voicing requires adjustment if coming from brighter cymbals",
-            "Premium Byzance pricing across a full setup",
+            "Dark voicing requires adjustment if coming from brighter cymbals",
+            "Premium K Custom pricing across a full setup",
             "Minimal sustain may feel unfamiliar for drummers used to washier cymbals"
           ],
           specs: {
-            hiHats: "14\" Meinl Byzance Extra Dry",
-            crashes: "16\" & 18\" Meinl Byzance Extra Dry",
-            ride: "20\" Meinl Byzance Traditional",
+            hiHats: "14\" Zildjian K Custom Dark",
+            crashes: "16\" & 18\" Zildjian K Custom Dark",
+            ride: "20\" Zildjian A Custom",
             china: "N/A (not part of documented setup)"
           },
           usedBy: [
-            { name: "Travis Orbin", band: "Periphery / Darkest Hour", note: "Meinl Byzance Extra Dry / Traditional — djent's genre-shaping, trigger-friendly voice" }
+            { name: "Travis Orbin", band: "Periphery / Darkest Hour", note: "Zildjian K Custom Dark / A Custom hybrid — djent's genre-shaping, trigger-friendly voice" }
           ],
           verdict: "Best for trigger-augmented recording setups. Orbin's dry, low-bleed cymbals defined djent's genre-shaping studio template.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_orbin.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_dark_a_custom_orbin.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -83059,7 +83061,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
           priceRange: "€120-180 (set)",
           tier: "budget",
           material: "Brass",
-          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's and Travis Orbin's professional Meinl setups, giving developing drummers a real path toward Artist Concept and Byzance upgrades.",
+          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's professional Meinl setup, giving developing drummers a real path toward an Artist Concept upgrade.",
           pros: ["Same Meinl brand lineage as pro djent setups", "Affordable, widely available entry point", "Durable enough for developing practice routines"],
           cons: ["Less complex overtone character than Artist Concept or Byzance", "Less dry and controlled than the pro-tier lines it's modeled after"],
           verdict: "Best budget Meinl option for building toward djent's Artist Concept standard.",
@@ -83071,7 +83073,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
 
     // Comparison
     comparison: {
-      title: "Sabian HHX/AAX vs Meinl Artist Concept vs Meinl Byzance Extra Dry for Djent",
+      title: "Sabian HHX/AAX vs Meinl Artist Concept vs Zildjian K Custom Dark for Djent",
       content: `Dry, controlled decay stays consistent across djent's founding and modern lineage, but brand and voicing split these drummers into distinct camps. Here's how they compare:
 
 **Sabian HHX/AAX (Tomas Haake):**
@@ -83084,12 +83086,12 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
 - Dark-voiced crashes stay controlled through syncopated accents
 - Best for technical, densely arranged prog-djent
 
-**Meinl Byzance Extra Dry (Travis Orbin):**
+**Zildjian K Custom Dark (Travis Orbin):**
 - Minimal-wash voicing reduces bleed into acoustic trigger microphones
 - Proven on djent's genre-shaping, trigger-augmented debut recordings
 - Best for drummers integrating acoustic playing with electronic triggers and samples
 
-**Our Recommendation:** Start with a Sabian SBR or Meinl HCS set if you're building djent technique on a budget. Choose Matt Halpern's Meinl Artist Concept setup if your priority is dense, palm-muted prog-djent. Go with Travis Orbin's Byzance Extra Dry setup if you're recording with triggers and samples.`,
+**Our Recommendation:** Start with a Sabian SBR or Meinl HCS set if you're building djent technique on a budget. Choose Matt Halpern's Meinl Artist Concept setup if your priority is dense, palm-muted prog-djent. Go with Travis Orbin's K Custom Dark setup if you're recording with triggers and samples.`,
       comparisonTable: [
         { feature: "Polyrhythmic Precision", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Trigger Compatibility", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -83114,7 +83116,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
         },
         {
           category: "Best for Trigger-Augmented Recording",
-          pedal: "Meinl Byzance Extra Dry / Traditional",
+          pedal: "Zildjian K Custom Dark / A Custom Hybrid",
           reason: "Travis Orbin's genre-shaping Periphery debut setup — minimal bleed into trigger mics."
         },
         {
@@ -83136,14 +83138,14 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian HHX/AAX with signature Compression Hi-Hats — djent\'s founding precision voice' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry — Periphery\'s genre-shaping debut setup' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — Periphery\'s genre-shaping debut setup' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian HHX/AAX with signature Compression Hi-Hats — djent\'s founding precision voice' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry — Periphery\'s genre-shaping debut setup' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — Periphery\'s genre-shaping debut setup' }
     ],
 
     // FAQ section for SEO
@@ -83158,7 +83160,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
       },
       {
         question: "What cymbals did Travis Orbin use on Periphery's debut album?",
-        answer: "Travis Orbin played Meinl Byzance Extra Dry and Traditional series cymbals on Periphery's self-titled 2010 debut. The Extra Dry line's minimal-wash voicing reduced bleed into the acoustic trigger microphones used to layer samples onto the album's genre-defining djent template."
+        answer: "Travis Orbin played a Zildjian K Custom Dark / A Custom hybrid cymbal setup on Periphery's self-titled 2010 debut. The K Custom Dark line's minimal-wash voicing reduced bleed into the acoustic trigger microphones used to layer samples onto the album's genre-defining djent template."
       },
       {
         question: "Why do djent drummers favor dry, dark cymbals?",
@@ -83173,7 +83175,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
     // Conclusion
     conclusion: {
       title: "Find Your Djent Cymbal Voice",
-      content: `Djent cymbal choice comes down to how dry and controlled you need your setup to stay under palm-muted, polyrhythmic riffing. Tomas Haake's longtime Sabian HHX/AAX setup, anchored by his own signature Compression Hi-Hats, defined the genre's founding precision-first template with Meshuggah. Matt Halpern's Meinl Artist Concept setup proved that dense, palm-muted prog-djent needs precise, controlled response rather than raw power. Travis Orbin's Meinl Byzance Extra Dry cymbals show how a dry, low-bleed voicing became a practical studio requirement on djent's genre-shaping, trigger-augmented debut recordings.
+      content: `Djent cymbal choice comes down to how dry and controlled you need your setup to stay under palm-muted, polyrhythmic riffing. Tomas Haake's longtime Sabian HHX/AAX setup, anchored by his own signature Compression Hi-Hats, defined the genre's founding precision-first template with Meshuggah. Matt Halpern's Meinl Artist Concept setup proved that dense, palm-muted prog-djent needs precise, controlled response rather than raw power. Travis Orbin's Zildjian K Custom Dark cymbals show how a dry, low-bleed voicing became a practical studio requirement on djent's genre-shaping, trigger-augmented debut recordings.
 
 None of these approaches is more "correct" — all three represent djent's foundational commitment to dry, controlled response over washy sustain. Start with whichever brand and voicing matches your material's density, and don't be afraid to prioritize decay control over raw brightness.
 
@@ -96210,7 +96212,7 @@ Whatever you choose, prioritize dark voicing and closed chick control over flash
     // SEO metadata
     title: "Best Hi-Hats for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Djent 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in djent? Discover what Tomas Haake (Sabian Signature Compression), Matt Halpern (Meinl Artist Concept), and Travis Orbin (Meinl Byzance Extra Dry) actually play — tight, choked hi-hats built for palm-muted polyrhythmic riffing, from budget to pro.",
+    description: "What hi-hats are used in djent? Discover what Tomas Haake (Sabian Signature Compression), Matt Halpern (Meinl Artist Concept), and Travis Orbin (Zildjian K Custom Dark) actually play — tight, choked hi-hats built for palm-muted polyrhythmic riffing, from budget to pro.",
     seoKeywords: [
       'best hi-hats for djent',
       'djent hi-hats',
@@ -96247,13 +96249,13 @@ Whatever you choose, prioritize dark voicing and closed chick control over flash
       title: "What Hi-Hats Are Used in Djent?",
       content: `Djent's signature palm-muted, chugging guitar tone creates a dense, mid-heavy wall of sound that leaves no room for a washy, sustained hi-hat. Combined with the genre's love of odd-time polyrhythms and precisely placed accents, that means djent drummers need a hi-hat voiced for immediate, choked decay rather than the long, complex wash other metal subgenres favor — a hi-hat that opens up even slightly can blur the tight, mathematically precise attack djent's riffing depends on.
 
-Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands, with almost no bleed between the two cymbals even when played hard. Matt Halpern of Periphery relies on 15" Artist Concept Hi-Hats from Meinl, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require across "Periphery II," "Juggernaut," and "Hail Stan." Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays Meinl Byzance Extra Dry hi-hats, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
+Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands, with almost no bleed between the two cymbals even when played hard. Matt Halpern of Periphery relies on 15" Artist Concept Hi-Hats from Meinl, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require across "Periphery II," "Juggernaut," and "Hail Stan." Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays Zildjian K Custom Dark hi-hats, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
 
 This guide breaks down what makes a great djent hi-hat — tight decay, choked response, and controlled dynamics — and which specific models these three influential drummers rely on, from budget starter pairs to the professional setups behind djent's most technically demanding records.`,
       keyPoints: [
         "Tomas Haake's Sabian signature Compression Hi-Hats define djent's founding tight, choked hi-hat voice",
         "Matt Halpern's 15\" Meinl Artist Concept Hi-Hats deliver the precise response Periphery's dense, palm-muted arrangements need",
-        "Travis Orbin's Meinl Byzance Extra Dry hi-hats helped define djent's genre-shaping minimal-wash template on Periphery's 2010 debut",
+        "Travis Orbin's Zildjian K Custom Dark hi-hats helped define djent's genre-shaping minimal-wash template on Periphery's 2010 debut",
         "Dry, choked voicing is essential across every featured setup — djent has no room for washy hi-hats"
       ]
     },
@@ -96380,42 +96382,42 @@ The larger 15" diameter adds extra surface area and control versus a standard 14
         },
         {
           rank: 3,
-          name: "Meinl Byzance Extra Dry Hi-Hats",
-          brand: "Meinl",
-          model: "Byzance Extra Dry Hi-Hats 14\"",
+          name: "Zildjian K Custom Dark Hi-Hats",
+          brand: "Zildjian",
+          model: "K Custom Dark Hi-Hats 14\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€300-400 per pair",
           tier: "pro",
-          material: "B20 Bronze, Extra Dry Finish",
+          material: "B20 Bronze, Dark Finish",
 
-          description: `Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays 14" Meinl Byzance Extra Dry Hi-Hats as part of a broader Byzance and Traditional series setup built for technical, trigger-augmented progressive metal.
+          description: `Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays 14" Zildjian K Custom Dark Hi-Hats as part of a broader K Custom Dark / A Custom hybrid setup built for technical, trigger-augmented progressive metal.
 
-Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controlled whether played acoustically or alongside triggered kick and snare tones — proof that djent's minimal-wash hi-hat demands were baked into the genre from its earliest, most influential recordings.`,
+Orbin's K Custom Dark hi-hats favor minimal-wash voicing, staying tight and controlled whether played acoustically or alongside triggered kick and snare tones — proof that djent's minimal-wash hi-hat demands were baked into the genre from its earliest, most influential recordings.`,
 
           pros: [
             "Travis Orbin's Periphery setup — genre-shaping minimal-wash template from djent's 2010 debut",
-            "Extra Dry voicing stays tight alongside triggered kick and snare tones",
+            "Dark voicing stays tight alongside triggered kick and snare tones",
             "Standard 14\" diameter for versatile response",
             "Proven on one of djent's most influential recordings"
           ],
           cons: [
-            "Dry voicing has less natural sustain than brighter alternatives",
+            "Dark voicing has less natural sustain than brighter alternatives",
             "Higher price point",
             "Less purpose-built for polyrhythms than Haake's Compression model"
           ],
           specs: {
             material: "B20 bronze",
-            finish: "Extra Dry",
+            finish: "Dark",
             weight: "Medium-heavy",
             diameter: "14\"",
-            series: "Byzance Extra Dry"
+            series: "K Custom Dark"
           },
           usedBy: [
-            { name: "Travis Orbin", band: "Periphery", note: "14\" Byzance Extra Dry Hi-Hats — genre-shaping minimal-wash template" }
+            { name: "Travis Orbin", band: "Periphery", note: "14\" K Custom Dark Hi-Hats — genre-shaping minimal-wash template" }
           ],
           verdict: "Best all-round dry djent hi-hat. Orbin's setup helped establish the genre's minimal-wash standard.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_hi_hats.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_dark_hi_hats_orbin.htm?partner_id=metalforge"
         }
       ]
     },
@@ -96446,8 +96448,8 @@ Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controll
           priceRange: "€150-220 per pair",
           tier: "budget",
           material: "B8/B20 Bronze",
-          description: "An affordable entry point for drummers chasing the dry, controlled character of Travis Orbin's Byzance Extra Dry setup, before upgrading to the full Byzance line.",
-          pros: ["Dry, controlled tone similar to Extra Dry character", "Accessible pricing", "Clear upgrade path to Byzance Extra Dry"],
+          description: "An affordable entry point for drummers chasing the dry, controlled character of Travis Orbin's K Custom Dark setup, before upgrading to the full K Custom line.",
+          pros: ["Dry, controlled tone similar to K Custom Dark character", "Accessible pricing", "Clear upgrade path to K Custom Dark"],
           cons: ["B8 models lack B20 depth"],
           verdict: "Best entry point for dry, controlled djent hi-hats.",
           rating: 4.0,
@@ -96458,7 +96460,7 @@ Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controll
 
     // Comparison
     comparison: {
-      title: "Compression vs Extra Dry Hi-Hats for Djent",
+      title: "Compression vs K Custom Dark Hi-Hats for Djent",
       content: `Djent's hi-hat choices come down to how tightly choked you need the decay to be, defined by the genre's most influential drummers:
 
 **Ultra-Tight (Sabian Compression — Tomas Haake's choice):**
@@ -96466,12 +96468,12 @@ Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controll
 - Purpose-built for mathematically complex polyrhythms
 - The genre's founding, most extreme choked voicing
 
-**Dry & Controlled (Meinl Artist Concept — Matt Halpern's choice; Meinl Byzance Extra Dry — Travis Orbin's choice):**
+**Dry & Controlled (Meinl Artist Concept — Matt Halpern's choice; Zildjian K Custom Dark — Travis Orbin's choice):**
 - Minimal-wash voicing with slightly more natural overtone than Compression
 - Suits dense, palm-muted arrangements and trigger-augmented kits
 - More widely available across standard 14"-15" sizes
 
-**Djent Verdict:** Choose Sabian Compression if you play Meshuggah-style extreme polyrhythmic djent and want the tightest possible choke. Choose Meinl Artist Concept or Byzance Extra Dry if you play Periphery-style progressive djent and want dry control with a touch more natural voice.`,
+**Djent Verdict:** Choose Sabian Compression if you play Meshuggah-style extreme polyrhythmic djent and want the tightest possible choke. Choose Meinl Artist Concept or Zildjian K Custom Dark if you play Periphery-style progressive djent and want dry control with a touch more natural voice.`,
       comparisonTable: [
         { feature: "Choked Decay", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Natural Overtone", birch: "⭐⭐", maple: "⭐⭐⭐" },
@@ -96497,7 +96499,7 @@ Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controll
         },
         {
           category: "Best All-Round Dry Voice",
-          pedal: "Meinl Byzance Extra Dry Hi-Hats",
+          pedal: "Zildjian K Custom Dark Hi-Hats",
           reason: "Travis Orbin's genre-shaping choice from djent's 2010 founding template."
         },
         {
@@ -96518,21 +96520,21 @@ Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controll
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian Signature Compression Hi-Hats — Meshuggah\'s founding polyrhythmic precision' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept 15" Hi-Hats — Periphery dense, palm-muted precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry Hi-Hats — Periphery\'s genre-shaping 2010 template' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark Hi-Hats — Periphery\'s genre-shaping 2010 template' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian Signature Compression Hi-Hats — Meshuggah\'s founding polyrhythmic precision' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Hi-Hats — Periphery dense, palm-muted precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry Hi-Hats — Periphery\'s genre-shaping 2010 template' },
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark Hi-Hats — Periphery\'s genre-shaping 2010 template' },
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What hi-hats are used in djent?",
-        answer: "Tomas Haake of Meshuggah uses his own signature Sabian Compression Hi-Hats for near-instant, controlled decay. Matt Halpern of Periphery uses 15\" Meinl Artist Concept Hi-Hats. Travis Orbin, also of Periphery, uses 14\" Meinl Byzance Extra Dry Hi-Hats. All three prioritize tight, choked voicing over natural wash."
+        answer: "Tomas Haake of Meshuggah uses his own signature Sabian Compression Hi-Hats for near-instant, controlled decay. Matt Halpern of Periphery uses 15\" Meinl Artist Concept Hi-Hats. Travis Orbin, also of Periphery, uses 14\" Zildjian K Custom Dark Hi-Hats. All three prioritize tight, choked voicing over natural wash."
       },
       {
         question: "What hi-hats does Tomas Haake use?",
@@ -96548,16 +96550,16 @@ Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controll
       },
       {
         question: "Compression or Extra Dry hi-hats for djent?",
-        answer: "Both work at the highest level. Sabian Compression (Tomas Haake's choice) delivers the tightest possible choke, purpose-built for extreme polyrhythmic riffing. Meinl Artist Concept (Matt Halpern's choice) and Byzance Extra Dry (Travis Orbin's choice) offer dry control with a touch more natural voice, suited to dense, progressive-leaning djent."
+        answer: "Both work at the highest level. Sabian Compression (Tomas Haake's choice) delivers the tightest possible choke, purpose-built for extreme polyrhythmic riffing. Meinl Artist Concept (Matt Halpern's choice) and Zildjian K Custom Dark (Travis Orbin's choice) offer dry control with a touch more natural voice, suited to dense, progressive-leaning djent."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Djent Hi-Hat Voice",
-      content: `Djent hi-hats all live in the same dry, choked family, but the genre's most influential drummers show real range within it: Tomas Haake's signature Sabian Compression Hi-Hats deliver the tightest possible choke for Meshuggah's mathematically complex riffing, while Matt Halpern's larger 15" Meinl Artist Concept Hi-Hats and Travis Orbin's Meinl Byzance Extra Dry pair give Periphery's dense, palm-muted arrangements precise, controlled response.
+      content: `Djent hi-hats all live in the same dry, choked family, but the genre's most influential drummers show real range within it: Tomas Haake's signature Sabian Compression Hi-Hats deliver the tightest possible choke for Meshuggah's mathematically complex riffing, while Matt Halpern's larger 15" Meinl Artist Concept Hi-Hats and Travis Orbin's Zildjian K Custom Dark pair give Periphery's dense, palm-muted arrangements precise, controlled response.
 
-If you play extreme polyrhythmic djent, start with Sabian Compression or the budget AAX Stage — both stay tight even under hard, accented playing. If you play denser, progressive-leaning djent, Meinl Artist Concept or Byzance Extra Dry will give you the controlled precision your palm-muted riffing demands.
+If you play extreme polyrhythmic djent, start with Sabian Compression or the budget AAX Stage — both stay tight even under hard, accented playing. If you play denser, progressive-leaning djent, Meinl Artist Concept or Zildjian K Custom Dark will give you the controlled precision your palm-muted riffing demands.
 
 Whatever you choose, prioritize choked decay and chick precision over natural wash — djent's hi-hat has zero room for sustain that blurs the riff.
 

@@ -3344,28 +3344,28 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Maple',
-            details: 'Multi-ply hybrid shells: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Tama Starclassic Maple — warm, resonant tone anchoring the tribal groove metal setup',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'ddrum Hybrid Kit',
+            details: 'Hybrid shell pack, moved off Tama when he left Sepultura in 2006',
+            notes: 'ddrum Hybrid Kit — the setup Igor brought into Cavalera Conspiracy after leaving Sepultura and Tama behind in 2006',
+            change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Tama S.L.P. 14"x6.5" G-Maple',
-            details: 'Maple, maximum sensitivity and dynamic range',
-            notes: 'Delivers the punishing crack that drives groove metal riffs',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'ddrum Hybrid Kit snare (specific model unconfirmed)',
+            details: 'Part of the ddrum Hybrid Kit; no source confirms a standalone snare model for this era',
+            notes: 'Snare from the ddrum Hybrid Kit adopted alongside the 2006 drum brand switch',
+            change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Paiste RUDE & 2002 Series',
-            details: '14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China',
-            notes: 'RUDE cutting aggression paired with 2002 China for tribal punctuation',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Zildjian A Custom Series',
+            details: 'Switched from Paiste to Zildjian A Custom Series starting with "Inflikted" (2008)',
+            notes: 'Zildjian A Custom Series cutting through the Cavalera Conspiracy mix, replacing his prior Paiste setup',
+            change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'Tama Iron Cobra double pedal',
-            details: 'Adjustable cam system for customized feel',
-            notes: 'Tama Iron Cobra powers his double bass drive',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'DW',
+            details: 'DW double pedal',
+            notes: 'Stayed with DW hardware through the Cavalera Conspiracy era, ahead of the 2018 switch to Tama Iron Cobra',
+            change: null,
           },
           sticks: {
             item: 'Vic Firth American Classic 5B',
@@ -3374,9 +3374,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Evans G2 / EMAD',
-            details: 'G2 on toms, EMAD on bass drums',
-            notes: 'Evans for the focused, punchy sound of modern extreme metal',
+            item: 'Remo',
+            details: 'Switched to Remo alongside the 2006 drum brand change',
+            notes: 'Remo for the focused, punchy sound of modern extreme metal',
             change: CHANGE_TYPES.SWITCH,
           },
         },
@@ -3390,8 +3390,8 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Left Sepultura (2006) — end of a 22-year era',
           'Formed Cavalera Conspiracy with Max Cavalera (2007)',
-          'Return to Tama Starclassic Maple and Paiste RUDE/2002 cymbals',
-          'Evans heads for modern controlled sound',
+          'Switched from Tama to a ddrum Hybrid Kit and from Paiste to Zildjian A Custom Series cymbals (2006)',
+          'Remo heads for modern controlled sound',
           'Return to Roots Anniversary Tour — revisiting the landmark album live',
         ],
 

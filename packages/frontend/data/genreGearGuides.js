@@ -43248,12 +43248,12 @@ Start with one excellent dark, medium-weight crash in the 18" range, master its 
       title: "Why Djent Crashes Need to Stay Dry and Out of the Guitar's Way",
       content: `Djent's signature palm-muted, chugging guitar tone occupies a dense mid-range pocket that a washy, ringing crash directly competes with. Combined with the genre's love of odd-time polyrhythms and precisely placed accents, that means a djent crash has one job above all others: land the accent cleanly and get out of the way before the next syncopated riff hits.
 
-Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has run Sabian AAX crashes for years as part of his broader HHX/AAX setup, choosing their controlled, tight decay to stay out of Meshuggah's mathematically complex riffing. Matt Halpern of Periphery builds his crash voice around 16" and 18" Meinl Artist Concept crashes, valued for the same controlled decay that keeps Periphery's dense, palm-muted arrangements from turning to mush. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays 16" and 18" Meinl Byzance Extra Dry crashes — the driest, most controlled option of the three — specifically to minimize bleed into the acoustic trigger mics used throughout that record.
+Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has run Sabian AAX crashes for years as part of his broader HHX/AAX setup, choosing their controlled, tight decay to stay out of Meshuggah's mathematically complex riffing. Matt Halpern of Periphery builds his crash voice around 16" and 18" Meinl Artist Concept crashes, valued for the same controlled decay that keeps Periphery's dense, palm-muted arrangements from turning to mush. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays 16" and 18" Zildjian K Custom Dark crashes — the driest, most controlled option of the three — specifically to minimize bleed into the acoustic trigger mics used throughout that record.
 
 This guide breaks down what actually makes a crash work for djent — dryness, control, and consistency across odd-time patterns — and recommends specific models across every budget, from a first tight-decay crash to the exact cymbals djent's founding and modern drummers play.`,
       keyPoints: [
         "Djent crashes must decay quickly and stay controlled — washy sustain competes directly with palm-muted guitar tone",
-        "Tomas Haake's Sabian AAX, Matt Halpern's Artist Concept, and Travis Orbin's Byzance Extra Dry span the genre's dry-crash spectrum",
+        "Tomas Haake's Sabian AAX, Matt Halpern's Artist Concept, and Travis Orbin's Zildjian K Custom Dark span the genre's dry-crash spectrum",
         "16\"-18\" is the djent crash sweet spot, prioritizing quick response over maximum projection",
         "Extra Dry or Dark-voiced crashes minimize bleed into trigger mics for drummers recording with electronics"
       ]
@@ -43266,7 +43266,7 @@ This guide breaks down what actually makes a crash work for djent — dryness, c
         {
           name: "Dry, Controlled Decay",
           icon: "🌫️",
-          description: "Djent's palm-muted riffing needs a crash that decays quickly rather than washing into sustain. Travis Orbin's Byzance Extra Dry and Matt Halpern's Artist Concept crashes are both voiced with minimal ring for exactly this reason.",
+          description: "Djent's palm-muted riffing needs a crash that decays quickly rather than washing into sustain. Travis Orbin's Zildjian K Custom Dark and Matt Halpern's Artist Concept crashes are both voiced with minimal ring for exactly this reason.",
           recommendation: "Extra Dry or Dark-voiced crashes for the fastest, most controlled decay"
         },
         {
@@ -43284,7 +43284,7 @@ This guide breaks down what actually makes a crash work for djent — dryness, c
         {
           name: "Trigger and Mic Compatibility",
           icon: "🎛️",
-          description: "Djent drummers frequently record with electronic triggers and samples layered onto acoustic kits. Travis Orbin's Byzance Extra Dry crashes were chosen specifically to bleed less into the acoustic trigger mics used throughout Periphery's genre-defining debut.",
+          description: "Djent drummers frequently record with electronic triggers and samples layered onto acoustic kits. Travis Orbin's Zildjian K Custom Dark crashes were chosen specifically to bleed less into the acoustic trigger mics used throughout Periphery's genre-defining debut.",
           recommendation: "Low-wash, dry crashes that minimize bleed into nearby trigger microphones"
         },
         {
@@ -43325,7 +43325,7 @@ As djent's founding drummer, Haake's crash choice set the template the rest of t
             "Available in a wide range of sizes for a layered setup"
           ],
           cons: [
-            "Brighter voice than the Meinl Artist Concept/Byzance Extra Dry alternatives",
+            "Brighter voice than the Meinl Artist Concept/Zildjian K Custom Dark alternatives",
             "Premium Sabian pricing",
             "Less common in budget retailers than Zildjian or Meinl equivalents"
           ],
@@ -43382,14 +43382,14 @@ The Artist Concept's controlled wash stays out of the way of Periphery's syncopa
         },
         {
           rank: 3,
-          name: "Meinl Byzance Extra Dry Crash",
-          brand: "Meinl",
-          model: "18\" Byzance Extra Dry Crash",
+          name: "Zildjian K Custom Dark Crash",
+          brand: "Zildjian",
+          model: "18\" K Custom Dark Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG",
           priceRange: "€200-250",
           tier: "pro",
-          driveType: "B20 Bronze, Extra Dry",
-          description: `Travis Orbin, who helped build the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut, plays 16" and 18" Meinl Byzance Extra Dry crashes. The Extra Dry line's minimal-wash voicing kept his crashes from bleeding excessively into the acoustic trigger mics used to layer samples onto the album's foundational djent template.
+          driveType: "B20 Bronze, Dark",
+          description: `Travis Orbin, who helped build the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut, plays 16" and 18" Zildjian K Custom Dark crashes. The K Custom Dark line's minimal-wash voicing kept his crashes from bleeding excessively into the acoustic trigger mics used to layer samples onto the album's foundational djent template.
 
 Orbin's crash choice proves that dry, low-sustain voicing isn't just an aesthetic choice in djent — it's a practical studio requirement for drummers integrating acoustic playing with electronic triggers and samples.`,
           pros: [
@@ -43399,23 +43399,23 @@ Orbin's crash choice proves that dry, low-sustain voicing isn't just an aestheti
             "Proven on Periphery's genre-defining self-titled 2010 debut"
           ],
           cons: [
-            "Extra Dry voicing requires the biggest adjustment if coming from brighter cymbals",
-            "Premium Byzance pricing",
+            "Dark voicing requires the biggest adjustment if coming from brighter cymbals",
+            "Premium K Custom pricing",
             "Minimal sustain may feel unfamiliar for drummers used to washier crashes"
           ],
           specs: {
             size: "18\"",
             alloy: "B20 Bronze",
-            finish: "Extra Dry",
+            finish: "Dark",
             weight: "Medium",
             decay: "Fastest, driest"
           },
           usedBy: [
-            { name: "Travis Orbin", band: "Periphery / Darkest Hour", note: "16\" & 18\" Byzance Extra Dry Crashes — djent's genre-shaping, trigger-friendly voice" }
+            { name: "Travis Orbin", band: "Periphery / Darkest Hour", note: "16\" & 18\" K Custom Dark Crashes — djent's genre-shaping, trigger-friendly voice" }
           ],
           verdict: "Best for trigger-augmented recording setups needing the driest possible crash decay.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_crash_18_orbin.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_dark_crash_18_orbin.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -43490,17 +43490,17 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
           priceRange: "€50-70",
           tier: "budget",
           driveType: "Brass",
-          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's and Travis Orbin's professional Meinl setups, giving developing drummers a real path toward Artist Concept and Byzance Extra Dry upgrades.",
+          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's professional Meinl setup, giving developing drummers a real path toward an Artist Concept upgrade.",
           pros: [
-            "Same Meinl brand lineage as pro djent crash setups",
+            "Same Meinl brand lineage as Matt Halpern's pro djent crash setup",
             "Affordable, widely available entry point",
             "Dark aesthetic even at entry-level pricing"
           ],
           cons: [
-            "Less complex overtone character than Byzance",
+            "Less complex overtone character than Artist Concept",
             "Less dry and controlled than the pro-tier lines it's modeled after"
           ],
-          verdict: "Best budget Meinl option for building toward djent's Byzance standard.",
+          verdict: "Best budget Meinl option for building toward djent's Artist Concept standard.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/meinl_hcs_dark_crash_16_djent.htm?partner_id=metalforge"
         },
@@ -43528,14 +43528,14 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
       ]
     },
 
-    // Sabian vs Meinl comparison
+    // Sabian vs Meinl vs Zildjian comparison
     comparison: {
-      title: "Sabian AAX vs Meinl Artist Concept vs Byzance Extra Dry for Djent",
+      title: "Sabian AAX vs Meinl Artist Concept vs Zildjian K Custom Dark for Djent",
       content: `Controlled, dry decay stays consistent across djent's founding and modern lineage, but brand and voicing split these drummers into distinct camps:
 
 **Sabian AAX (Tomas Haake):**
 - Bright, controlled response — genre-founding precision voice
-- Slightly more projection than the Meinl alternatives
+- Slightly more projection than the Meinl/Zildjian alternatives
 - Best for genre-defining, mathematically complex djent
 
 **Meinl Artist Concept (Matt Halpern):**
@@ -43543,12 +43543,12 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
 - Stays out of the way of dense, palm-muted riffing
 - Best for technical, densely arranged prog-djent
 
-**Meinl Byzance Extra Dry (Travis Orbin):**
+**Zildjian K Custom Dark (Travis Orbin):**
 - Driest, most controlled decay of the three
 - Minimizes bleed into acoustic trigger microphones
 - Best for drummers integrating acoustic playing with electronic triggers and samples
 
-**Our Recommendation:** Start with a Sabian SBR or Meinl HCS crash if you're building djent technique on a budget. Choose Matt Halpern's Artist Concept if your priority is dense, palm-muted prog-djent. Go with Travis Orbin's Byzance Extra Dry if you're recording with triggers and samples.`,
+**Our Recommendation:** Start with a Sabian SBR or Meinl HCS crash if you're building djent technique on a budget. Choose Matt Halpern's Artist Concept if your priority is dense, palm-muted prog-djent. Go with Travis Orbin's K Custom Dark if you're recording with triggers and samples.`,
       comparisonTable: [
         { feature: "Attack Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Dryness/Control", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -43573,7 +43573,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
         },
         {
           category: "Best for Trigger-Augmented Recording",
-          pedal: "Meinl Byzance Extra Dry Crash",
+          pedal: "Zildjian K Custom Dark Crash",
           reason: "Travis Orbin's genre-shaping Periphery debut setup — minimal bleed into trigger mics."
         },
         {
@@ -43593,14 +43593,14 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian AAX — djent\'s founding precision voice' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry — Periphery\'s genre-shaping debut setup' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — Periphery\'s genre-shaping debut setup' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian AAX — djent\'s founding precision voice' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry — Periphery\'s genre-shaping debut setup' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — Periphery\'s genre-shaping debut setup' }
     ],
     relatedComparisons: [],
 
@@ -43616,11 +43616,11 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
       },
       {
         question: "What crash cymbal did Travis Orbin use on Periphery's debut album?",
-        answer: "Travis Orbin played 16\" and 18\" Meinl Byzance Extra Dry crashes on Periphery's self-titled 2010 debut. The Extra Dry line's minimal-wash voicing reduced bleed into the acoustic trigger microphones used to layer samples onto the album's genre-defining djent template."
+        answer: "Travis Orbin played 16\" and 18\" Zildjian K Custom Dark crashes on Periphery's self-titled 2010 debut. The K Custom Dark line's minimal-wash voicing reduced bleed into the acoustic trigger microphones used to layer samples onto the album's genre-defining djent template."
       },
       {
         question: "Why do djent drummers favor dry, controlled crashes?",
-        answer: "Djent's palm-muted, chugging guitar tone creates a dense wall of sound in the low-mids that a washy, sustained crash competes with rather than cuts through. Dry, controlled voicing — like Matt Halpern's Artist Concept or Travis Orbin's Byzance Extra Dry — decays quickly enough to stay out of the guitar's way while still landing accents with clarity."
+        answer: "Djent's palm-muted, chugging guitar tone creates a dense wall of sound in the low-mids that a washy, sustained crash competes with rather than cuts through. Dry, controlled voicing — like Matt Halpern's Artist Concept or Travis Orbin's Zildjian K Custom Dark — decays quickly enough to stay out of the guitar's way while still landing accents with clarity."
       },
       {
         question: "What size crash cymbal is best for djent?",
@@ -43631,7 +43631,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
     // Conclusion
     conclusion: {
       title: "Keep Your Crash Dry and Out of the Riff's Way",
-      content: `Djent's cymbal philosophy comes down to one core idea: control over wash. Whether you build around Tomas Haake's founding Sabian AAX voice, Matt Halpern's dark and controlled Artist Concept, or Travis Orbin's ultra-dry Byzance Extra Dry, the right djent crash disappears the instant it's done its job so the next palm-muted riff can land clean.
+      content: `Djent's cymbal philosophy comes down to one core idea: control over wash. Whether you build around Tomas Haake's founding Sabian AAX voice, Matt Halpern's dark and controlled Artist Concept, or Travis Orbin's ultra-dry Zildjian K Custom Dark, the right djent crash disappears the instant it's done its job so the next palm-muted riff can land clean.
 
 Start with one dry, controlled crash in the 16"-18" range, and layer a second size once you know exactly how much accent weight your polyrhythmic patterns demand.
 

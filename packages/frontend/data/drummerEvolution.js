@@ -2453,31 +2453,31 @@ export const DRUMMER_EVOLUTION = {
         
         gear: {
           drums: {
-            item: 'Tama Imperialstar',
+            item: 'Pearl Maxwin',
             details: 'Basic 5-piece: 22" kick, 12"/13"/16" toms',
             notes: 'Affordable Japanese drums',
             change: null,
           },
           snare: {
-            item: 'Tama Steel 14"x5.5"',
+            item: 'Steel snare, 14"x5.5" (brand undocumented for this era)',
             details: 'Standard steel snare',
             notes: 'Bright, cutting tone',
             change: null,
           },
           cymbals: {
-            item: 'Paiste 2002',
+            item: '14" Hi-Hats, 16"/18" Crashes, 20" Ride (brand undocumented for this era)',
             details: '14" Hi-Hats, 16"/18" Crashes, 20" Ride',
-            notes: 'Paiste from the beginning',
+            notes: 'Specific cymbal brand for this era is not verified',
             change: null,
           },
           hardware: {
-            item: 'Tama with DW 5000 Pedal',
+            item: 'Pearl with DW 5000 Pedal',
             details: 'Single pedal initially, then double',
             notes: 'DW 5000 became essential for double bass',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5B',
+            item: 'Stick brand undocumented for this era',
             details: 'Standard hickory',
             notes: 'Basic sticks, pure technique',
             change: null,

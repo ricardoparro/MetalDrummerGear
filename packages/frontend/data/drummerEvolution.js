@@ -6552,34 +6552,34 @@ export const DRUMMER_EVOLUTION = {
         years: '2007–2009',
         startYear: 2007,
         endYear: 2009,
-        description: 'Colors (2007) is Between the Buried and Me\'s defining album — a single 65-minute progressive metal suite that is widely considered one of the genre\'s greatest achievements. Blake Richardson\'s drumming on Colors is extraordinary in its dynamic range, genre vocabulary, and rhythmic precision. He upgraded to the Tama Starclassic Walnut/Birch for a richer, more resonant tone that served the album\'s ambitious arrangements.',
+        description: 'Colors (2007) is Between the Buried and Me\'s defining album — a single 65-minute progressive metal suite that is widely considered one of the genre\'s greatest achievements. Blake Richardson\'s drumming on Colors is extraordinary in its dynamic range, genre vocabulary, and rhythmic precision. He stayed on his DW Collector\'s Series kit, paired with Meinl Byzance Extra Dry cymbals, for the album\'s ambitious arrangements.',
         albums: ['Colors (2007)'],
         tours: ['Colors World Tour 2007–2009'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Walnut/Birch',
-            details: 'Walnut/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Significant upgrade for the Colors era — the Starclassic Walnut/Birch brought a warm, complex tone suited to the album\'s genre-fluid arrangements from jazz passages to full metal brutality.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: "DW Collector's Series",
+            details: 'All-maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Continued on the DW Collector\'s Series maple kit signed in 2006 — no brand change for Colors, which drew its dynamic range from playing rather than a new kit.',
+            change: null,
           },
           snare: {
-            item: 'Tama Starclassic Maple 14"×6.5"',
+            item: "DW Collector's Series 14\"×6.5\"",
             details: 'Maple shell, versatile attack',
             notes: 'Maple snare for broader dynamic range — needed to cover everything from whisper-quiet passages to brutal full-power playing across Colors.',
-            change: CHANGE_TYPES.SWITCH,
+            change: null,
           },
           cymbals: {
-            item: 'Sabian AAX Series',
-            details: '14" AAX hi-hats, 16"/18" AAX Stage crashes, 21" AAX ride',
-            notes: 'Upgraded to full AAX — bright, cutting cymbals that articulated across Colors\'s wide dynamic range.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Meinl Byzance Extra Dry',
+            details: '14" hi-hats, 16"/18" crashes, 21" ride',
+            notes: 'Continued on Meinl Byzance Extra Dry, signed in 2006 — the dark, hand-hammered voice carried through the Colors and Parallax eras.',
+            change: null,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 Double Pedal',
-            details: 'Standard double pedal',
-            notes: 'Iron Cobra continued as the reliable touring pedal.',
+            item: 'DW 9002 Double Pedal',
+            details: 'Chain-drive double pedal',
+            notes: 'DW 9002 continued as the reliable touring pedal.',
             change: null,
           },
           sticks: {
@@ -6603,10 +6603,9 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Upgraded to Tama Starclassic Walnut/Birch',
           'Colors (2007) — career-defining album, widely considered a prog-metal masterpiece',
           'Colors World Tour builds BTBAM\'s international fanbase',
-          'Expanded cymbal configuration for Colors\'s dynamic demands',
+          'Continued on DW/Meinl setup signed in 2006 through Colors\'s dynamic demands',
         ],
 
         quote: {

@@ -2992,7 +2992,7 @@ Children of Bodom became one of Finland's most successful metal exports, selling
 - **Snare**: Pearl Masters 14"x5.5" Maple
 - **Cymbals**: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17"/18" A Custom Crashes, 20" K Custom Ride)
 - **Hardware**: Pearl Eliminator double pedal
-- **Sticks**: Vic Firth 5B
+- **Sticks**: Vic Firth American Classic 5A
 - **Heads**: Remo Emperor/Ambassador
 
 **Setup Philosophy:**

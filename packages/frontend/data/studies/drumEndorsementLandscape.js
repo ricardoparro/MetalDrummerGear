@@ -324,7 +324,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Martin Axenrot",
           "slug": "martin-axenrot",
           "band": "Opeth",
-          "configString": "Vic Firth American Classic 5B"
+          "configString": "Pro-Mark"
         },
         {
           "id": 64,
@@ -491,7 +491,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Martin Axenrot",
           "slug": "martin-axenrot",
           "band": "Opeth",
-          "configString": "Tama Iron Cobra Double Pedal"
+          "configString": "DW"
         },
         {
           "id": 64,
@@ -1434,7 +1434,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Martin Axenrot",
           "slug": "martin-axenrot",
           "band": "Opeth",
-          "configString": "Meinl Byzance Series (14\" Traditional Medium Hi-Hats, 16\" & 18\" & 19\" Crashes, 22\" Traditional Ride, 18\" China)"
+          "configString": "Sabian HHX / AAX Series"
         },
         {
           "id": 70,
@@ -1516,7 +1516,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Martin Axenrot",
           "slug": "martin-axenrot",
           "band": "Opeth",
-          "configString": "Sonor SQ2 14x5.75\" Maple"
+          "configString": "DW Custom (Maple/Gum Shells)"
         },
         {
           "id": 69,

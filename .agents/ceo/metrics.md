@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-26 03:37 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-26 05:41 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,18 +10,18 @@
 | --- | --- |
 | Active users | 302 |
 | Sessions | 351 |
-| Page views | 502 |
+| Page views | 503 |
 | Engagement rate | 56.41% |
-| Avg session (s) | 107 |
+| Avg session (s) | 112 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /bpm | 13 | 2 |
 | /drummer/bill-ward | 13 | 7 |
+| /drummers | 13 | 5 |
 | /drummer/frost | 12 | 3 |
 | /drummer/joey-jordison | 12 | 8 |
-| /drummers | 12 | 5 |
 | /drummer/mario-duplantier | 11 | 10 |
 | / | 10 | 8 |
 | /drummer/eloy-casagrande | 10 | 7 |

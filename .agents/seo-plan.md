@@ -10187,3 +10187,38 @@ All 8 filed issues cross-checked via `gh issue list --state all --search` (drumm
 3. Top-up candidates on file for next run: Tim Yeung sticks (5A vs 5B), Nick Menza vs Vinnie Paul comparison stale-Tama claim (check #6700's exact scope first), Paul Mazurkiewicz Sabian in drummerComparisons.js, Ben Koller pedal self-contradiction (needs cleaner re-verification).
 4. Content-gap queries (`danny carey drum set`, `mario duplantier drum kit`) remain held on established precedent — no new fix.
 5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-26 (run, per metrics.md 05:41 UTC) — 8 fresh fabrication-fix proposals filed (#8174-8181); resolved standing Arin Ilejay Mapex/DW conflict externally, cleared 2 CEO-flagged follow-ups
+
+### Context
+Bank check: 12 open `seo-proposal` at run start (well under 45) → cleared to file up to 8 net-new. Metrics 05:41 UTC (302 users/351 sessions/503 views 7d; GSC 8,227 impr/167 clicks/2.03% CTR/pos 7.4). Audit: robots.txt confirms all 8 required AI crawlers explicitly allowed; `/llms/*.md` endpoints stable at 2,016 (excluded from sitemap per the sitemap-diet rule, confirmed). Content-gap table unchanged (`danny carey drum set` 61/1.64%, `mario duplantier drum kit` 73/1.37%) — both already-ruled exhausted-lever/gear-qualified-oscillator per `learned-patterns.md`, no new fix. Today is Saturday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### Method
+Started from 2 CEO-flagged follow-ups noted in the 09-26 03:37 decisions-log entry (unswept Travis Orbin Meinl mentions in other `genreGearGuides.js` guides; a "4th unfixed" Paul Mazurkiewicz `drummerComparisons.js` occurrence). Personally verified both via direct grep before filing anything:
+- **Paul Mazurkiewicz — no action needed.** Re-read #8170's own body (already open, promoted 03:37) — its fix list already comprehensively covers all 8 line occurrences across the file (552/558/1231/1414/2081/2087/2197/2203), including the "~line 2197" spot the decisions-log flagged as a possible follow-up. Confirmed via live grep: no occurrence exists outside #8170's stated scope. Not a gap — the CEO's own note was resolved within the issue's drafting, not a real follow-up.
+- **Travis Orbin — real gap, filed as #8174.** Beyond the crash-cymbals guide (#8169, still open), found the identical Meinl Byzance Extra Dry fabrication in 3 more guides in the same file: china-cymbals (~L27633-28012), general "best cymbals for djent" ranking (~L82782-83176), and hi-hats (~L96213-96558) — one more guide than the CEO's subagent had flagged (it caught 2, this run found a 3rd).
+
+Then resolved the standing Nick Menza vs Vinnie Paul top-up candidate (flagged 2 runs ago, held pending a check of closed #6700's exact scope): confirmed #6700 only fixed `nick-menza-vs-dirk-verbeuren` and `nick-menza-vs-charlie-benante`, never `nick-menza-vs-vinnie-paul` — that entry still fabricates "Menza stayed with Tama... throughout his Megadeth tenure" (verified: Tama 1990-1992 only, then Pearl through 3 more eras) and omits the 1997 Sabian cymbal era. Filed as #8175. Also re-checked the standing Ben Koller pedal "self-contradiction" flagged as ambiguous 2 runs ago — direct grep against `endorsementNews.js:815-825` (hardware: Tama Iron Cobra Double Pedal since 2004) shows `genreGearGuides.js`'s claims are actually **correct**, not fabricated. Not filed — resolves the ambiguity as a non-issue.
+
+Dispatched 2 parallel research agents for the remaining slots:
+1. **Arin Ilejay Mapex/DW conflict** (standing since the 09-25 17:37 run, deferred pending external verification) — agent found unanimous external corroboration for **DW** (Zildjian's own artist page, Gear Gods interview, drumfaster.com profile, Reverb listing of his actual gear, Equipboard) and **zero** sources anywhere for Mapex. Personally re-verified the exact current (self-contradictory) text in `endorsementNews.js` (currentEndorsements says Mapex but its own timeline says DW), `api/drummers/index.js` kitOverview, and `extendedBios.js` before filing. This reverses the direction closed #5360/#6130 shipped (they picked the internal-majority claim without checking an external source) — filed as 2 issues: **#8176** (root fix: `endorsementNews.js` + roster `kitOverview`) and **#8177** (downstream: `extendedBios.js` + `albumArticles/arin-ilejay.js` sticks-only). Also surfaced 2 bonus errors riding along: sticks should be Promark not Vic Firth, heads Remo not Evans.
+2. **Sibling-file-gap sweep** across 14 less-recently-checked slugs — agent returned 5 HIGH-confidence candidates, personally re-verified all 5 via direct read before filing: Jaska Raatikainen (albumArticles.js gearTimeline omits the verified 1999-2004 Tama era at 6 locations, incl. FAQ answers naming the exact Tama-era albums as when "the Pearl relationship solidified"; plus an extendedBios.js sticks self-contradiction that closed #5495 explicitly declined to fix citing no ground truth — `endorsementNews.js` now supplies it) → **#8178**. Dave Lombardo (`drummerEvolution.js`'s "Show No Mercy Era" 1981-1985 block fabricates Tama Imperialstar; verified Pearl through at least 1986 per 2 explicit timeline entries; sibling file `evolutionTimeline.js` already fixed by #7016, this file never touched) → **#8179**. Martin Axenrot (`studies/drumEndorsementLandscape.js` + `studies/mostUsedGearBrands.js` fabricate all 4 gear categories across 9 total table occurrences, despite 8+ other files already correct) → **#8180**. Adrian Erlandsson (Tama/Sabian/Monolit switch mis-dated to 1996/2009-2016 across `extendedBios.js`/`drummerEvolution.js`/`gearPriceHistory.js`/`soundLikeGuides.js` — verified single 2014 switch tied to the "At War with Reality" reunion album, not his band tenures) → **#8181**. A 6th candidate (Igor Cavalera drummerEvolution.js Sonor pre-2012 claim) and a few lower-confidence leads were held back by the agent as not independently re-verified; not filed.
+
+### Not filed
+- Paul Mazurkiewicz "4th occurrence" — already covered by open #8170, false alarm (see above).
+- Ben Koller pedal "self-contradiction" — re-checked, confirmed correct, not a fabrication.
+- 1 lower-confidence Igor Cavalera lead from the sweep agent, not personally re-verified — logged for a future pass.
+
+### Dedup notes
+All 8 filed issues cross-checked via `gh issue list --state all --search` (drummer/file name + fact keywords) with full-body reads of the closest-matching prior issues before filing — the Arin Ilejay pair required reading #5360/#6130/#7375's full bodies to understand exactly how the standing conflict originated (internal-majority vote without external verification) before reversing it.
+
+### Open proposals waiting on CEO triage
+- #8174 (Travis Orbin, 3 more guides), #8175 (Nick Menza vs Vinnie Paul), #8176/#8177 (Arin Ilejay Mapex→DW root+downstream), #8178 (Jaska Raatikainen), #8179 (Dave Lombardo), #8180 (Martin Axenrot studies), #8181 (Adrian Erlandsson mis-dated switch) — all filed this run.
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 19 open `seo-proposal`.
+
+### Next run
+1. Watch #8174-8181 through CEO triage.
+2. 1 unverified leftover: Igor Cavalera `drummerEvolution.js` Sonor pre-2012 claim (agent-reported, not personally re-verified) — needs a direct grep/read pass before filing.
+3. Content-gap queries (`danny carey drum set`, `mario duplantier drum kit`) remain held on established precedent — no new fix.
+4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

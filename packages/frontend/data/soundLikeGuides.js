@@ -7129,7 +7129,7 @@ This guide breaks down the technique, gear, and practice approach behind Erlands
           toms: ['10" Rack Tom', '12" Rack Tom'],
           floorToms: ['14" Floor Tom', '16" Floor Tom']
         },
-        description: "Erlandsson's current Tama Starclassic Bubinga setup — adopted during his 2009-2016 Paradise Lost years and carried into At the Gates' ongoing work — uses dense bubinga shells for a fuller low end than the maple/birch Starclassic he played earlier with The Haunted and Cradle of Filth, suited to gothic doom weight as much as melodic death metal attack. It's a significant upgrade from the budget Pearl Export or Studio Fredman house kit he used on Slaughter of the Soul (1995).",
+        description: "Erlandsson's current Tama Starclassic Bubinga setup — adopted in 2014 for At the Gates' reunion album At War with Reality, the mature rig he'd developed across his years with The Haunted, Cradle of Filth, and Paradise Lost — uses dense bubinga shells for a fuller low end suited to gothic doom weight as much as melodic death metal attack. It's a significant upgrade from the budget Pearl Export or Studio Fredman house kit he used on Slaughter of the Soul (1995).",
         affiliateNote: "Pearl Export or Tama Imperialstar offer a similar attack-forward voice at a fraction of the cost of the Starclassic Bubinga line."
       },
       snare: {
@@ -7148,12 +7148,12 @@ This guide breaks down the technique, gear, and practice approach behind Erlands
           { type: 'Crash', model: '20" AAX Iso Crash', notes: 'Fast attack and controlled decay for accent work in melodic passages' },
           { type: 'China', model: '19" Paragon China', notes: 'Aggressive trashy accents marking riff transitions, carried forward from the Zildjian A-Series China he used on Slaughter of the Soul' }
         ],
-        description: "Erlandsson switched from Zildjian A-Series — his cymbal choice on Slaughter of the Soul — to Sabian AAX/HHX during his Paradise Lost years, and has maintained that setup ever since. The China cymbal's role as a riff-transition accent has stayed constant across both cymbal generations."
+        description: "Erlandsson switched from Zildjian A-Series — his cymbal choice on Slaughter of the Soul — to Sabian AAX/HHX in 2014 for At the Gates' reunion album At War with Reality, and has maintained that setup ever since. The China cymbal's role as a riff-transition accent has stayed constant across both cymbal generations."
       },
       pedals: {
         brand: 'Monolit',
         model: 'Monolit Czarcie Kopyto Double Pedal',
-        description: "Erlandsson's current double pedal is the Czarcie Kopyto, a boutique Polish design he adopted during his Paradise Lost years. It replaced the standard double bass drum setup — two separate kick drums with independent pedals — he used on Slaughter of the Soul.",
+        description: "Erlandsson's current double pedal is the Czarcie Kopyto, a boutique Polish design he adopted in 2014 for At the Gates' reunion album At War with Reality. It replaced the standard double bass drum setup — two separate kick drums with independent pedals — he used on Slaughter of the Soul.",
         alternative: "DW 9000 or Tama Iron Cobra double pedal for a comparably smooth, consistent action"
       },
       sticks: {

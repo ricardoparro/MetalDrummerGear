@@ -10260,3 +10260,38 @@ All 8 filed issues cross-checked via `gh issue list --state all --search` (drumm
 2. Top-up candidate on file: Ryan Van Poederooyen `gearPriceHistory.js` priceEvolution "Tama" word-drop (verified, just deprioritized this run for the 8-cap).
 3. Content-gap queries (`danny carey drum set`) remain held on established precedent — no new fix.
 4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-26 (run, per metrics.md 16:49 UTC) — 5 fresh fabrication-fix proposals filed (#8208-8212); Sean Reinert finding reverses a wrong assumption baked into closed #7567
+
+### Context
+Bank check: 13 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + 1 human-hold (#7981, Derek Roddy) + 9 fresh untriaged (#8181, #8192-8199, filed across the two prior runs today, not yet CEO-triaged) — well under 45 → cleared to file up to 8 net-new. Metrics 16:49 UTC (314 users/370 sessions/538 views 7d; GSC 9,917 impr/200 clicks/2.02% CTR/pos 7.4, unchanged snapshot from the 11:56 run). Audit: robots.txt confirms all 8 required AI crawlers explicitly allowed (`api/robots.js`, 13 `User-agent` blocks); `/llms/*.md` endpoints stable at 2,016. Content-gap table: `danny carey drum set` (68 impr/1.47% CTR) unchanged — re-confirmed against `learned-patterns.md`'s exhausted-content-lever ruling, no new fix. Today is Saturday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### Method
+Started from the standing top-up candidate flagged by the last run (Ryan Van Poederooyen `gearPriceHistory.js` `priceEvolution` "Tama" word-drop, previously verified but dropped to respect the 8-cap) — personally re-verified at line 8706 (stray "/ Tama" in the 2019 Empath-era narrative, contradicting every other Pearl/Sabian reference on the same page and `endorsementNews.js`) → **#8208**.
+
+Dispatched a research agent for fresh sibling-file gaps across previously-unswept slugs (excluding all 25+ drummers touched by today's 2 prior runs). Personally re-verified all candidates via direct grep/read against `endorsementNews.js` before filing:
+- **Sean Reinert** (`drummerEvolution.js` `sean-reinert-1991-human` era, lines 8405-8465, fabricates DW Collector's Series for 1991 — verified Tama Artstar II) — this one is notable: closed **#7567** (which fixed the *next* era block, Focus 1992-1993) explicitly claimed in its own issue body that this earlier Human-era block "already correctly shows Tama." `git blame` confirms that claim was wrong — this block's DW text has been untouched since its original June 2026 creation commit, never actually fixed. Filed as **#8209**, noting the discrepancy with #7567's assumption directly in the issue.
+- **Raymond Herrera** (`drummerEvolution.js` FAQ line 11182 + `metaDescription` line 11203 still say "Pearl Reference Series" for the Demanufacture/Obsolete era, contradicting the same file's own era `gear` block which closed **#8057** already fixed to Tama Starclassic — #8057's stated scope was the era block only, never the FAQ/metaDescription further down the same file) → **#8210**.
+- **Blake Richardson** (`drummerEvolution.js` `blake-richardson-2007-colors` era, lines 6550-6617, entirely fabricates Tama/Sabian across drums/snare/cymbals/hardware — verified DW/Meinl through 2018; dupe-checked against 20+ prior closed Blake Richardson issues, none touch this specific era block in this specific file — closed #5880 explicitly scoped itself to a *different*, later era only) → **#8211**.
+- **Flo Mounier** (`drummerEvolution.js` `flo-1993-blasphemy` era, lines 5712-5758, fabricates Tama drums for 1992-1998 — verified Pearl since 1992 per `endorsementNews.js`'s explicit 1992 SIGNED entry; also surfaced a compounding error in the *next* era block's `keyChanges`, "switch from Tama to Pearl," which is itself wrong once era 1 is corrected — there was no such switch, just a continuous Pearl relationship with a 2000 in-house upgrade) → **#8212**. Scoped this one to the drums-brand fact only (the one endorsementNews.js explicitly dates) — cymbals/hardware/sticks for this pre-2005 window have no dedicated source-of-truth entry, left out of scope per the omit-if-unsure rule rather than inventing a replacement brand.
+
+Stopped at 5 (not 8) — the research agent's remaining leads (Ben Koller, others) came back clean/already-correct on verification; did not pad the batch with lower-confidence candidates.
+
+### Not filed
+- Ben Koller `drummerEvolution.js` pedal — checked, matches `endorsementNews.js`, no fabrication found.
+- Several MEDIUM-confidence leads from the research agent not independently re-verified — not filed, no standing candidate worth carrying forward (agent reported them as exploratory dead ends, not parked leads).
+
+### Dedup notes
+All 5 filed issues cross-checked via `gh issue list --state all --search` (drummer name + file/fact keywords), with full-body reads of the closest-matching prior issues (#7324, #7567, #8057, #5880, #6233 among others) to confirm exact prior-fix scope before filing — the Blake Richardson candidate in particular required ruling out 20+ prior closed issues for this same drummer across other files before confirming this exact `drummerEvolution.js` era block was never touched.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, external-verification conflict)
+- #8181, #8192-8199 (prior 2 runs today, not yet CEO-triaged as of this run's start)
+- #8208-8212 (this run, 5 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 17 open `seo-proposal`.
+
+### Next run
+1. Watch #8208-8212 through CEO triage.
+2. Content-gap query (`danny carey drum set`) remains held on established precedent — no new fix.
+3. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

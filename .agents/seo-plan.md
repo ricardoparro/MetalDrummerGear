@@ -10222,3 +10222,41 @@ All 8 filed issues cross-checked via `gh issue list --state all --search` (drumm
 2. 1 unverified leftover: Igor Cavalera `drummerEvolution.js` Sonor pre-2012 claim (agent-reported, not personally re-verified) — needs a direct grep/read pass before filing.
 3. Content-gap queries (`danny carey drum set`, `mario duplantier drum kit`) remain held on established precedent — no new fix.
 4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-26 (run, per metrics.md 11:56 UTC) — 8 fresh fabrication-fix proposals filed (#8192-8199); resolved the standing Igor Cavalera Sonor carryover as a false positive, found a real distinct gap in the same block
+
+### Context
+Bank check: 12 open `seo-proposal` at run start (well under 45) → cleared to file up to 8 net-new. Metrics 11:56 UTC (310 users/365 sessions/532 views 7d; GSC 9,917 impr/200 clicks/2.02% CTR/pos 7.4). Audit: robots.txt confirms all 8 required AI crawlers explicitly allowed. Content-gap table: `danny carey drum set` (68 impr/1.47% CTR) unchanged — re-confirmed against `learned-patterns.md`'s exhausted-content-lever ruling, no new fix. Today is Saturday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### Method
+Started from the standing carryover flagged by the last run: "Igor Cavalera `drummerEvolution.js` Sonor pre-2012 claim." Dispatched a verification agent — **false positive**: no "Sonor" text exists anywhere in Igor Cavalera's `drummerEvolution.js` block (full 5-era block read); the "Sonor" hits the prior run's subagent found belong to Tomas Haake's entry in the same file, a mis-scan. However, the same verification pass surfaced a **real, distinct, unswept gap** in the same drummer's file: the `cavalera-2007-cavalera-conspiracy` era block (2007-2018) still fabricates Tama/Paiste/Evans gear that `endorsementNews.js` places as ddrum/Zildjian/Remo since 2006 — the same bug class closed #8103 already fixed in `extendedBios.js` for this exact drummer/era, but `drummerEvolution.js` itself was never touched. Filed as **#8192**.
+
+Dispatched a second, parallel sibling-file-gap sweep across previously-unswept roster slugs (bill-ward, lars-ulrich, nicko-mcbrain, mikkey-dee, tomas-haake, ryan-van-poederooyen, john-otto, alex-bent, plus several clean ones: alex-rudinger, art-cruz, chris-turner, john-longstreth, paul-bostaph, waltteri-vayrynen). Personally re-verified all 9 flagged candidates via direct grep/read against `endorsementNews.js` before any dedup search (not just trusting the agent):
+- **Bill Ward** (`extendedBios.js:2352` FAQ fabricates Vic Firth 2B sticks, verified Pro-Mark Standard 5A/5B; sibling fix already shipped in `drummerComparisons.js` via #6489) → **#8193**.
+- **Lars Ulrich** (`soundLikeGuides.js:638` fabricates a Ludwig era that never existed + `:645` wrong "Hammered Bronze" LU1465 shell vs. verified steel, corroborated by 2 other files) → **#8194**.
+- **Nicko McBrain** (`gearPriceHistory.js:1407` summary + `priceEvolution` 2015 entry both fabricate an "unbroken 40-year Pearl" narrative; verified Pearl was one year, 1984-1985, before Yamaha/Sonor/BDC switches — also carries a second embedded fabrication, a fake Lars Ulrich "Ludwig" aside) → **#8195**.
+- **Tomas Haake** (`drummerEvolution.js`'s `haake-2005-catch-33` era block fabricates Pearl/Paiste/Pearl gear; the very next era block in the same file, `haake-2008-obzen`, already correctly says "built on the Sonor and Sabian rig he settled into in 2005" — a clean self-contradiction proving the earlier block was missed) → **#8196**.
+- **John Otto** (`drummerComparisons.js` "Gibraltar G Class" hardware fabrication — agent found 2 locations, but my own `grep -c` found **17 occurrences across 9 comparison entries**; only the already-fixed `eloy-casagrande-vs-john-otto` entry, #6661, correctly says "Gibraltar Professional Series" — scoped the issue to the full 17-location sweep rather than the narrower 2-location candidate) → **#8197**.
+- **Mikkey Dee** (`gearPriceHistory.js` `modernEquivalent` fields for hardware/sticks fabricate Pearl Demon Drive/Vic Firth despite 10 prior closed fixes for this exact bug class in other files; verified DW 5000 Series/Wincent) → **#8198**.
+- **Ryan Van Poederooyen** (`gearPriceHistory.js` `priceEvolution` 2019 entry fabricates a "Tama" mention alongside verified Pearl/Sabian; distinct field from closed #7324 which fixed this same drummer's `setup.hardware`/`setup.sticks` fields in the same file) — **dropped to respect the 8-cap**, lowest-impact of the 9 verified candidates (single-word narrative fix vs. structured-field fixes elsewhere); logged for next run's top-up.
+- **Alex Bent** (`extendedBios.js` careerHighlights + FAQ still say he joined Arkaik in 2011; `endorsementNews.js`'s own timeline, corrected one day earlier by closed #8010, now explicitly says "2008-2017 run ... in Arkaik" — a genuine leftover from that fix, confirmed not a duplicate since #8010 only touched `endorsementNews.js`) → **#8199**.
+
+### Not filed
+- Igor Cavalera "Sonor" claim — false positive (prior run's subagent mis-scanned Tomas Haake's block in the same file). No Sonor text exists for Igor Cavalera anywhere.
+- Ryan Van Poederooyen `gearPriceHistory.js` priceEvolution "Tama" word-drop — real but lowest-impact of 9 verified candidates, dropped to respect the 8-cap. Top-up candidate for next run.
+
+### Dedup notes
+All 8 filed issues cross-checked via `gh issue list --state all --search` (drummer + fact keywords) with full-body reads of the closest-matching prior issue before filing — confirmed each is a genuine unswept sibling-file/sibling-field/sibling-block gap, not a re-file. Notably: John Otto's scope was widened beyond the agent's initial finding after a direct `grep -c` revealed 17 occurrences, not 2 — always re-verify the full blast radius of a fabricated string across the whole file before writing the fix, don't stop at the sampled hits.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, external-verification conflict)
+- #8174-8181 (prior run, promoted per git log "ceo: daily deep run")
+- #8192-8199 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 20 open `seo-proposal`.
+
+### Next run
+1. Watch #8192-8199 through CEO triage.
+2. Top-up candidate on file: Ryan Van Poederooyen `gearPriceHistory.js` priceEvolution "Tama" word-drop (verified, just deprioritized this run for the 8-cap).
+3. Content-gap queries (`danny carey drum set`) remain held on established precedent — no new fix.
+4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

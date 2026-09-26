@@ -428,7 +428,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Pete Sandoval",
               "slug": "pete-sandoval",
               "band": "Morbid Angel",
-              "configString": "ddrum Dios Series"
+              "configString": "ddrum (model unconfirmed)"
             },
             {
               "id": 26,
@@ -995,7 +995,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Pete Sandoval",
               "slug": "pete-sandoval",
               "band": "Morbid Angel",
-              "configString": "ddrum Dios 14x6.5\" Maple"
+              "configString": "ddrum (model unconfirmed)"
             },
             {
               "id": 26,
@@ -1408,7 +1408,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Pete Sandoval",
               "slug": "pete-sandoval",
               "band": "Morbid Angel",
-              "configString": "Sabian AAX Series (14\" Stage Hi-Hats, 18\" & 19\" X-Plosion Crashes, 20\" Stage Ride, 18\" Chinese)"
+              "configString": "Not publicly documented"
             },
             {
               "id": 26,
@@ -2802,7 +2802,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Pete Sandoval",
               "slug": "pete-sandoval",
               "band": "Morbid Angel",
-              "configString": "ddrum Mercury Double Pedal"
+              "configString": "ddrum (model unconfirmed)"
             }
           ]
         },

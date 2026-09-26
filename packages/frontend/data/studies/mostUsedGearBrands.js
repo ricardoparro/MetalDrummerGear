@@ -2515,7 +2515,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Paul Mazurkiewicz",
               "slug": "paul-mazurkiewicz",
               "band": "Cannibal Corpse",
-              "configString": "Pearl Demon Drive Double Pedal"
+              "configString": "Pearl Eliminator Double Bass Pedal"
             },
             {
               "id": 52,

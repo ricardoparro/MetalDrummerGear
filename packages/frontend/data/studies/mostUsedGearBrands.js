@@ -400,7 +400,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Martin Axenrot",
               "slug": "martin-axenrot",
               "band": "Opeth",
-              "configString": "Sonor SQ2 Series"
+              "configString": "DW Custom (Maple/Gum Shells)"
             },
             {
               "id": 69,
@@ -974,7 +974,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Martin Axenrot",
               "slug": "martin-axenrot",
               "band": "Opeth",
-              "configString": "Sonor SQ2 14x5.75\" Maple"
+              "configString": "DW Custom (Maple/Gum Shells)"
             }
           ]
         },
@@ -1709,7 +1709,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Martin Axenrot",
               "slug": "martin-axenrot",
               "band": "Opeth",
-              "configString": "Meinl Byzance Series (14\" Traditional Medium Hi-Hats, 16\" & 18\" & 19\" Crashes, 22\" Traditional Ride, 18\" China)"
+              "configString": "Sabian HHX / AAX Series"
             },
             {
               "id": 70,
@@ -2030,7 +2030,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Martin Axenrot",
               "slug": "martin-axenrot",
               "band": "Opeth",
-              "configString": "Vic Firth American Classic 5B"
+              "configString": "Pro-Mark"
             },
             {
               "id": 64,
@@ -2431,7 +2431,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Martin Axenrot",
               "slug": "martin-axenrot",
               "band": "Opeth",
-              "configString": "Tama Iron Cobra Double Pedal"
+              "configString": "DW"
             },
             {
               "id": 67,

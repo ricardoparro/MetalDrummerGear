@@ -11179,7 +11179,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit did Raymond Herrera use in Fear Factory?',
-        a: 'Raymond Herrera played a Pearl Reference Series kit — maple shells configured with dual 22" kick drums and 10"/12"/14"/16" toms, every piece fitted with ddrum and Roland triggers. He moved to Pearl Reference for the Demanufacture era after starting on a Pearl Export Series kit during Soul of a New Machine.',
+        a: 'Raymond Herrera played a Tama Starclassic kit (with triggering) — maple shells configured with dual 22" kick drums and 10"/12"/14"/16" toms, every piece fitted with ddrum and Roland triggers. He moved to Tama Starclassic for the Demanufacture era after starting on a Pearl Export Series kit during Soul of a New Machine.',
       },
       {
         q: 'What cymbals did Raymond Herrera play?',
@@ -11200,7 +11200,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Raymond Herrera Gear Evolution Timeline | Fear Factory Drum Kit History',
-    metaDescription: 'Explore Raymond Herrera\'s complete drum gear evolution: Brujeria roots → Pearl Export (Soul of a New Machine) → Pearl Reference triggered hybrid kit (Demanufacture/Obsolete) → Archetype-era refinement. The architect of industrial metal drumming, era by era.',
+    metaDescription: 'Explore Raymond Herrera\'s complete drum gear evolution: Brujeria roots → Pearl Export (Soul of a New Machine) → Tama Starclassic triggered hybrid kit (Demanufacture/Obsolete) → Archetype-era refinement. The architect of industrial metal drumming, era by era.',
   },
 
   // ==========================================

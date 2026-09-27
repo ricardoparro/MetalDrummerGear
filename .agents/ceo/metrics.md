@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-27 20:54 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-27 21:44 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 327 |
-| Sessions | 380 |
-| Page views | 545 |
-| Engagement rate | 57.89% |
+| Active users | 329 |
+| Sessions | 382 |
+| Page views | 546 |
+| Engagement rate | 57.59% |
 | Avg session (s) | 129 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummer/mario-duplantier | 16 | 13 |
+| /drummer/mario-duplantier | 16 | 14 |
 | /drummer/bill-ward | 14 | 9 |
 | /bpm | 13 | 2 |
 | /drummer/frost | 13 | 4 |
@@ -33,8 +33,8 @@
 | --- | --- | --- |
 | Organic Search | 300 | 250 |
 | Direct | 51 | 50 |
-| Unassigned | 36 | 33 |
-| Cross-network | 19 | 19 |
+| Unassigned | 38 | 35 |
+| Cross-network | 20 | 20 |
 | AI Assistant | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
@@ -47,8 +47,8 @@
 | China | 17 | 17 |
 | Canada | 16 | 14 |
 | Singapore | 12 | 12 |
+| France | 10 | 10 |
 | Finland | 9 | 8 |
-| France | 9 | 9 |
 | Spain | 7 | 6 |
 
 ## Search Console — Search performance

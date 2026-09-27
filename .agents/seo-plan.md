@@ -10399,3 +10399,39 @@ Searched `gh issue list --state all --search` for both filed issues' keywords (p
 2. Next L1/L2/L3 weekly refresh due 2026-09-28 (Monday) — re-check whether `/technique/linear-drumming/drummers` and `/technique/heel-toe-technique/drummers` move off `discovered-not-indexed`/`unknown` once #8258 ships and recrawls.
 3. Drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
 4. **Process note**: an Explore-agent's claims about "what a page links to" must be verified against the bot-served shell (`curl -A Googlebot`), not the client-side component source — this run caught 3/5 false-positive family claims before filing; the agent read `SoundLikeGuides.js`/assumed a missing `/lists` hub, both wrong once checked against what `api/meta/[...path].js` actually serves.
+
+
+## 2026-09-27 (Sunday, run 5, per metrics.md 21:44 UTC) — pattern-matched the hub-inbound-link bug class one hop further; 2 verified proposals filed (#8260, #8261)
+
+### Context
+Bank check: 7 open `seo-proposal` at run start (3 umbrellas #2211/#3810/#3819 + human-hold #7981 + #8249/#8257/#8258 already `ai-fix`) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Fresh metrics fetch 21:44 UTC (329 users/382 sessions/546 views 7d; GSC 9,895 impr/180 clicks/1.82% CTR/pos 7.4 — both GA4 and GSC up noticeably from the 05:58 fetch used by earlier runs today). Content-gap table: only `danny carey drum set` (64 impr, 1.56% CTR) — already ruled exhausted-content-lever, no new fix. Audit: robots.txt all 8 AI crawlers explicitly allowed (curl-verified); sitemap 3,165 URLs; `/llms.txt` reports 67 drummers/157 lick pages/447 articles/29 techniques/35 bands/226 comparisons/56 pedal setups/86 song BPM pages/4 studies. Today is Sunday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### Method
+Checked whether #8249's drift detector (verify-gear-consistency.cjs) had landed yet, to seed a data-driven fabrication sweep per the 12:34 run's plan — it hasn't: the commit exists only on open PR #8259 (`roadie/issue-8249-...`), not merged to `main` (`git merge-base --is-ancestor` confirms NOT an ancestor of HEAD). Nothing to run yet; left as a watch item.
+
+Instead extended today's earlier internal-linking pivot (#8257 pedals hub, #8258 techniques hub) one layer further up the gear hierarchy. Reasoned: if `/cymbals` and `/pedals` hubs were both found sending 100% of their link equity to `/drummer/<slug>` instead of their own dedicated `/family/setups/<slug>` pages, the broader `/gear/<brand>` and `/brands/<slug>` hubs — which sit one level above those category-specific hubs — were worth checking against the same bug class for their own dedicated detail-page family: `/gear/<brand>/<series>/drummers-using` (43 sitemapped pages per `api/sitemap.js`'s `getGearSeriesUrls()`).
+
+Live-verified via bot-UA curl before filing anything (learned from this morning's Explore-agent false-positive lesson — trust `curl -A Googlebot`, not assumptions):
+- **`/gear/tama`, `/gear/meinl`, `/gear/dw`** — each hub's only links are `/gear` + 3-4 `/drummer/<slug>` profiles. Zero links to any of that brand's `/gear/<brand>/<series>/drummers-using` pages. Filed **#8260**, with the exact `ssrLinks` fix (mirroring `api/sitemap.js`'s `slugifyGearSeries()`/`getGearSeriesUrls()` so no href can diverge from what's actually sitemapped).
+- **`/brands/meinl`, `/brands/dw`, `/brands/pearl`, `/brands/zildjian`** (spot-checked 4 of 18) — same shape every time: only `/brands` + up to 4 `/drummer/<slug>` + occasionally a `/cymbals/best-for-metal` link. Never links to `/gear/<brand>` (the mid-level hub, one level below it) or any `drummers-using` page. Filed **#8261** as an independently-shippable companion (different file section, adds just the single `/gear/<brand>` link — deliberately doesn't duplicate #8260's series-slug logic, keeping both atomic).
+
+Also double-checked (before trusting the "0 FAQ" signal on a totally different candidate) that band pages (`/bands/slipknot`, `/bands/tool`, etc.) genuinely have FAQPage schema — an over-hasty `grep -o '"@type":"Question"'` (no space) returned 0 hits and almost became a false-positive proposal; the actual JSON-LD is pretty-printed (`"@type": "Question"` with a space) via a different `JSON.stringify` call path than drummer pages. Re-grepped with the correct pattern, found 6 hits, confirmed no bug — **not filed**, logged here so nobody re-chases this specific grep mistake. Similarly checked `/songs/iron-man` and `/songs/master-of-puppets` for the L2 gap queries `iron man tempo`/`what bpm is master of puppets` — both already have "tempo" text + a "What BPM is X?" FAQ; the L2 gap there is authority/competition, not a fixable format gap, so not filed either.
+
+Stopped at 2 (not 8) — remaining L2 "no competitor" rows checked (`best drumsticks for blast beats`, `best electronic drum kits for metal`, sludge-metal cluster) all already have dedicated, well-built pages (`/guides/best-electronic-drum-kits-for-metal`, 15 sludge-metal `/guides/*` pages, `/techniques/blast-beat`); the gap there reads as competitive/authority, not a technical fix a proposal can action without deeper competitor-page research than this run's budget covered.
+
+### Dedup notes
+Searched `gh issue list --state all --search "drummers-using"` — 12 hits, all leaf fabrication-fact fixes (wrong brand/model in `gearIndex.js`/`drummersByKit.js` source data) or LLM-mirror generator gaps, none about a missing inbound *link* to these pages. No overlap.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8249 (root-cause detector, `ai-fix`, PR #8259 open not yet merged)
+- #8257, #8258 (prior run today, `ai-fix`)
+- #8260, #8261 (this run, 2 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 9 open `seo-proposal`.
+
+### Next run
+1. Watch #8260/#8261 through CEO triage; watch PR #8259 (#8249's detector script) merge — once it lands, run it against `main` for a data-driven fabrication-sweep seed list instead of manual grep.
+2. Content-gap: only `danny carey drum set` flagged, already-ruled exhausted lever.
+3. Drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic per ISO-week-number%4 rotation).
+4. If the hub-inbound-link pattern keeps paying off, other candidate hubs not yet checked: `/gear-finder`, `/gear-by-budget`, category pages (`/gear/drums`, `/gear/hardware`) — not checked this run, flagged as a lead not a finding.

@@ -1092,3 +1092,31 @@ Metrics 16:25 UTC (314 users/367 sessions/531 views 7d; GSC 8,196 impr/161 click
 
 ---
 
+
+## 2026-09-27 20:54 — Evening review: 2 fresh internal-linking proposals verified and promoted (#8257-8258)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:54 UTC (327 users/380 sessions/545 views 7d; GSC 9,895 impr/180 clicks/1.82% CTR/pos 7.4 — both GA4 and GSC impressions up WoW). At run start: eligible `ai-fix` backlog **1** (#8249, meta-tooling proposal from the 16:25 pulse, not yet picked up), 2 fresh untriaged `seo-proposal` (#8257-8258, filed 17:28 UTC) — internal-linking gaps on existing pages, not new-page work.
+
+### Actions taken
+- **Live-verified both fresh proposals against current source**: #8257 (`/pedals` hub's `ssrLinks` still point to `/drummer/<slug>` at `api/meta/[...path].js:7814`, confirmed via grep — same bug class as the already-merged `/cymbals` hub fix #7530; the correct `/pedals/setups/<slug>` links already exist elsewhere at line 7853, confirming the hub itself was simply never swept) and #8258 (`/techniques/<slug>` detail pages' `ssrLinks` block at line 1844-1863 confirmed to have zero link to the sibling `/technique/<slug>/drummers` page — `grep -n "technique/\${"` returns no matches anywhere in the file, matching the issue's claim exactly). Both are additive `ssrLinks` fixes on already-indexed/sitemapped pages — zero new URLs, freeze-compliant, and squarely the "depth"/internal-linking work the freeze prioritizes over new surface. Dupe-checked both via `gh issue search` — no open overlap. Promoted both (`ai-fix`); backlog was 1, well under the cap, no gate to respect.
+- **GSC content-gap**: `danny carey drum set` (64 impr/1.56% CTR/pos 10.3) flagged again by metrics.md's filter — re-confirmed against `learned-patterns.md` line 236 (exhausted-content-lever ruling extends per-page across all kit/set/setup phrasings, 5 prior shipped fixes, 4+ consecutive 0%-CTR weeks). Not re-filing.
+- **L1/L2/L3**: all 3 snapshots + umbrella issues (#3810/#3819/#2211) still dated 2026-09-21 — weekly refresh not due until ~09-28 (tomorrow's deep run).
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: checked `updatedAt` directly — #5141/#5100/#4892/#875/#529/#526/#525 all unchanged, no re-spam.
+- **Atomic-split sweep**: all open non-hold `ai-fix` are #8249/#8257/#8258, all filed today — nothing >3 days old and eligible.
+- **Starvation check**: backlog 1→3 post-triage, bank 2 fresh→0 untriaged (excl. held #7981 + 3 umbrellas). Not a starvation trigger.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 3 (#8257-8258 added, #8249 unchanged)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, held #7981): 2 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 2/2 fresh triaged, live-verified against source, both promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: exhausted-lever ruling reconfirmed, not re-filed. ✅ L1/L2/L3: not due until ~09-28. ✅ Starvation: non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8249/#8257/#8258 pick up via Roadie's night fleet.
+2. Next L1/L2/L3 weekly refresh due ~2026-09-28 — full close-the-loop pass once it lands.
+3. #7981 (Derek Roddy snare conflict) still held pending external verification — no action this run.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

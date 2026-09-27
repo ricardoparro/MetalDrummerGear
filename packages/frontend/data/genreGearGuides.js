@@ -6732,7 +6732,7 @@ Start with a 16\" crash, 18\" crash, and 14\" hi-hats. Add a China cymbal when b
     seoKeywords: [
       'best drum pedals for black metal',
       'black metal drum pedals',
-      'inferno pedals gorgoroth',
+      'inferno pedals behemoth',
       'hellhammer pedals mayhem',
       'frost satyricon pedals',
       'blast beat pedals black metal',
@@ -6765,7 +6765,7 @@ Start with a 16\" crash, 18\" crash, and 14\" hi-hats. Add a China cymbal when b
       title: "Black Metal's Unique Pedal Requirements",
       content: `Black metal drumming presents a unique challenge: sustained blast beats at 180–240 BPM across lengthy compositions, often in DIY recording environments where gear must be both reliable and affordable. Unlike death metal where technical precision dominates, black metal's raw, relentless energy demands pedals that can maintain consistent speed over extended periods without fatigue or mechanical failure.
 
-Inferno of Gorgoroth has long used a Monolit Czarcie Kopyto pedal, relying on its durability and consistent action to drive the relentless blast beats on albums like "Twilight of the Idols." Hellhammer of Mayhem, arguably black metal's most influential drummer, has played an Axis Double Pedal since 1999, its precision engineering built for the extreme, sustained speed that established the blueprint for the entire genre. Frost of Satyricon has played a Tama Iron Cobra Power Glide pedal since 2013, its chain drive rewarding the dynamic control his technical playing demands.
+Inferno of Behemoth has long used a Monolit Czarcie Kopyto pedal, relying on its durability and consistent action to drive the relentless blast beats on albums like "The Satanist." Hellhammer of Mayhem, arguably black metal's most influential drummer, has played an Axis Double Pedal since 1999, its precision engineering built for the extreme, sustained speed that established the blueprint for the entire genre. Frost of Satyricon has played a Tama Iron Cobra Power Glide pedal since 2013, its chain drive rewarding the dynamic control his technical playing demands.
 
 This guide covers the specific pedal needs of black metal drumming — sustained speeds, endurance-focused design, and equipment that can handle the raw, physical demands of the genre.`,
       keyPoints: [
@@ -7109,13 +7109,13 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
     ],
     relatedDrummers: [
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Axis Double Pedal — foundational black metal drumming' },
-      { slug: 'inferno', name: 'Inferno', reason: 'Monolit Czarcie Kopyto — Gorgoroth blast beat relentlessness' },
+      { slug: 'inferno', name: 'Inferno', reason: 'Monolit Czarcie Kopyto — Behemoth blast beat relentlessness' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide — technical precision in black metal' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'inferno', name: 'Inferno', reason: 'Monolit Czarcie Kopyto for relentless Gorgoroth blast beats' },
+      { slug: 'inferno', name: 'Inferno', reason: 'Monolit Czarcie Kopyto for relentless Behemoth blast beats' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Axis Double Pedal — defined black metal drumming' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide for technical black metal precision' },
     ],
@@ -7127,8 +7127,8 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
         answer: "Hellhammer of Mayhem has played an Axis Double Pedal since 1999, its precision engineering built for the extreme, sustained speed that established black metal's drumming template — fast, relentless, and built to hold up over decades of touring and recording."
       },
       {
-        question: "What drum pedals does Inferno from Gorgoroth use?",
-        answer: "Inferno of Gorgoroth uses a Monolit Czarcie Kopyto double pedal, relying on its durability and consistent action to suit the sustained blast beat demands of Gorgoroth's extreme black metal compositions."
+        question: "What drum pedals does Inferno from Behemoth use?",
+        answer: "Inferno of Behemoth uses a Monolit Czarcie Kopyto double pedal, relying on its durability and consistent action to suit the sustained blast beat demands of Behemoth's extreme black metal compositions."
       },
       {
         question: "Is chain drive or direct drive better for black metal?",
@@ -7149,7 +7149,7 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
       title: "Choose Your Black Metal Weapon",
       content: `Black metal's pedal requirements are simpler than death metal's: endurance, reliability, and consistency over extended blast beat passages. You don't need the most expensive pedal — you need one that won't fail you.
 
-The Pearl Eliminator is a historically proven answer for black metal's demands. Hellhammer built the genre's drumming blueprint on chain-drive endurance, and Inferno continues to drive Gorgoroth's relentless assault with his own rig. But any quality double pedal from Pearl, Tama, Axis, or DW will serve you well once you've developed the technique to use it.
+The Pearl Eliminator is a historically proven answer for black metal's demands. Hellhammer built the genre's drumming blueprint on chain-drive endurance, and Inferno continues to drive Behemoth's relentless assault with his own rig. But any quality double pedal from Pearl, Tama, Axis, or DW will serve you well once you've developed the technique to use it.
 
 Technique matters more than gear in black metal. The genre's most influential recordings were made on modest equipment by players who practiced relentlessly. Spend more time in the practice room than in the gear store.
 
@@ -20919,7 +20919,7 @@ Start with a 22"x18" shell and a reinforced head like the Evans EMAD or Remo Pow
       title: "What Bass Drum Setup Do Black Metal Drummers Actually Use?",
       content: `Black metal's bass drum has a different job than death metal's. Where death metal wants a tight, punchy thud that separates cleanly from the mix, black metal usually wants the kick to blend into the wall of tremolo-picked guitars and blast beats — raw, resonant, and often left with minimal muffling so the shell can breathe and wash together with the rest of the kit, the way it does on genre-defining recordings.
 
-Hellhammer of Mayhem has played a Sonor SQ2 Heavy Beech kit since 1999, its heavy beech shell left open enough to ring rather than choke off, establishing the raw low-end template the genre still measures itself against. Inferno, who drums for both Behemoth and Gorgoroth, plays a Pearl Reference Pure bass drum — its thin 6-ply maple shell with no reinforcement ring gives a more resonant, articulate low end suited to Behemoth's more technical black/death hybrid attack. Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga bass drum, its dense bubinga shell built for the hyperspeed blast beats that define his current playing.
+Hellhammer of Mayhem has played a Sonor SQ2 Heavy Beech kit since 1999, its heavy beech shell left open enough to ring rather than choke off, establishing the raw low-end template the genre still measures itself against. Inferno of Behemoth plays a Pearl Reference Pure bass drum — its thin 6-ply maple shell with no reinforcement ring gives a more resonant, articulate low end suited to Behemoth's more technical black/death hybrid attack. Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga bass drum, its dense bubinga shell built for the hyperspeed blast beats that define his current playing.
 
 This guide breaks down what actually makes a bass drum work for black metal — shell material, muffling philosophy, and head selection — and which specific shells the genre's most influential drummers play, from raw DIY setups to the professional rigs behind black metal's most important records.`,
       keyPoints: [
@@ -21027,12 +21027,12 @@ The heavy beech construction gives a bright, cutting attack with more edge than 
           tier: "pro",
           material: "6-ply Maple (No Reinforcement Ring), 22\"x18\"",
 
-          description: `Inferno, who drums for both Behemoth and Gorgoroth, plays a Pearl Reference Pure bass drum for the band's modern, more technical black/death hybrid assault. The thin 6-ply maple shell with no reinforcement ring lets the drum resonate as freely as possible, producing a richer, more articulate low end than a thicker, more dampened shell.
+          description: `Inferno of Behemoth plays a Pearl Reference Pure bass drum for the band's modern, more technical black/death hybrid assault. The thin 6-ply maple shell with no reinforcement ring lets the drum resonate as freely as possible, producing a richer, more articulate low end than a thicker, more dampened shell.
 
 That openness matters for Behemoth's dense, blast-heavy compositions, where every kick stroke needs to articulate clearly even at extreme tempo, without losing the raw resonance that keeps it feeling like black metal rather than pure technical death metal.`,
 
           pros: [
-            "Inferno's Behemoth/Gorgoroth setup — modern technical black metal precision",
+            "Inferno's Behemoth setup — modern technical black metal precision",
             "Thin 6-ply maple shell for exceptional resonance and sensitivity",
             "No reinforcement ring preserves natural shell openness",
             "Excellent for fast, technical blast beat work",
@@ -21050,7 +21050,7 @@ That openness matters for Behemoth's dense, blast-heavy compositions, where ever
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Inferno", band: "Behemoth / Gorgoroth", note: "Pearl Reference Pure — modern black/death metal precision" }
+            { name: "Inferno", band: "Behemoth", note: "Pearl Reference Pure — modern black/death metal precision" }
           ],
           verdict: "The technical black metal pick — for drummers who want resonance and articulate clarity.",
           rating: 4.7,
@@ -21211,7 +21211,7 @@ Tama's Star-Cast mounting system keeps the shell resonating freely, and the 22\"
         {
           category: "Best for Technical Black Metal",
           pedal: "Pearl Reference Pure Bass Drum",
-          reason: "Inferno's Behemoth/Gorgoroth pick for resonant, articulate clarity."
+          reason: "Inferno's Behemoth pick for resonant, articulate clarity."
         },
         {
           category: "Best for Maximum Precision",
@@ -21235,7 +21235,7 @@ Tama's Star-Cast mounting system keeps the shell resonating freely, and the 22\"
     ],
     relatedDrummers: [
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech bass drum — black metal\'s foundational tone' },
-      { slug: 'inferno', name: 'Inferno', reason: 'Pearl Reference Pure — resonant clarity for Behemoth and Gorgoroth' },
+      { slug: 'inferno', name: 'Inferno', reason: 'Pearl Reference Pure — resonant clarity for Behemoth' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga bass drum for hyperspeed blast beat precision' }
     ],
 
@@ -21250,7 +21250,7 @@ Tama's Star-Cast mounting system keeps the shell resonating freely, and the 22\"
     faq: [
       {
         question: "What bass drums do black metal drummers use?",
-        answer: "Hellhammer of Mayhem plays a Sonor SQ2 Heavy Beech, Inferno of Behemoth and Gorgoroth plays a Pearl Reference Pure, and Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga. All three run a single 22\"x18\" bass drum with a double pedal rather than dual kick drums."
+        answer: "Hellhammer of Mayhem plays a Sonor SQ2 Heavy Beech, Inferno of Behemoth plays a Pearl Reference Pure, and Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga. All three run a single 22\"x18\" bass drum with a double pedal rather than dual kick drums."
       },
       {
         question: "Why do black metal drummers use less muffling than death metal drummers?",

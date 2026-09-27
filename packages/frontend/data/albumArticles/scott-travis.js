@@ -1231,7 +1231,7 @@ export const articles = {
     "ogImage": "/images/albums/angel-of-retribution-drums.webp",
     "intro": {
       "title": "The Reunion Heard Around Metal: Halford Returns, Travis Holds the Line",
-      "content": "When Rob Halford rejoined Judas Priest in 2003 after a 13-year departure that began in 1992, the metal world braced for what would either be a triumphant homecoming or an awkward nostalgia trip. \"Angel of Retribution,\" released on February 28, 2005 through Epic Records and Sony BMG, turned out to be the former — a deliberate, song-focused reunion record that hit #1 in Germany and #13 on the Billboard 200. For Scott Travis, the album represented something subtler but equally significant: his first studio album with the classic Halford-Tipton-Downing-Hill lineup that had been his original goal when he joined the band in 1989.\n\nRecorded at a series of California studios and co-produced by Roy Z alongside the band itself, Angel of Retribution sits in a unique place on the Judas Priest timeline. It closes the 15-year arc gap between 1990's blistering \"Painkiller\" and the orchestral concept work of 2008's \"Nostradamus,\" before the band's eventual return to brute-force metal on 2018's \"Firepower.\" Travis's drumming on the record — particularly on the 13-minute closing epic \"Eulogy/Lochness\" — is the connective tissue that holds those eras together.\n\nThe gear story on Angel of Retribution is one of transition. By 2005, Travis had moved off the Tama Artstar II kit and Paiste cymbals that carried him through Painkiller and Jugulator and onto Pearl's flagship Reference Series — a hybrid maple/birch/mahogany shell pack in Piano Black — paired with a new Sabian cymbal deal. Photographs and live footage from the 2004-2005 sessions and supporting tour consistently show him behind the Pearl kit, with a hand-hammered Sabian HH/AA hybrid setup and Vater sticks. Tracks like the lead single \"Revolution,\" the anthemic \"Worth Fighting For,\" and the sprawling \"Eulogy/Lochness\" each showcase a different facet of that new mid-period rig.\n\nThis is the album where Travis stopped trying to repeat Painkiller and started playing for the song. The double-kick fury is still there when the material demands it, but Angel of Retribution leans on groove, dynamics, and patience — exactly what a reunion record needed to be taken seriously rather than dismissed as a victory lap.",
+      "content": "When Rob Halford rejoined Judas Priest in 2003 after a 13-year departure that began in 1992, the metal world braced for what would either be a triumphant homecoming or an awkward nostalgia trip. \"Angel of Retribution,\" released on February 28, 2005 through Epic Records and Sony BMG, turned out to be the former — a deliberate, song-focused reunion record that hit #1 in Germany and #13 on the Billboard 200. For Scott Travis, the album represented something subtler but equally significant: his first studio album with the classic Halford-Tipton-Downing-Hill lineup that had been his original goal when he joined the band in 1989.\n\nRecorded at a series of California studios and co-produced by Roy Z alongside the band itself, Angel of Retribution sits in a unique place on the Judas Priest timeline. It closes the 15-year arc gap between 1990's blistering \"Painkiller\" and the orchestral concept work of 2008's \"Nostradamus,\" before the band's eventual return to brute-force metal on 2018's \"Firepower.\" Travis's drumming on the record — particularly on the 13-minute closing epic \"Eulogy/Lochness\" — is the connective tissue that holds those eras together.\n\nThe gear story on Angel of Retribution is one of transition. By 2005, Travis had moved off the Tama Artstar II kit and Paiste cymbals that carried him through Painkiller and Jugulator and onto Pearl's flagship Reference Series — a hybrid maple/birch/mahogany shell pack in Piano Black — paired with a new Sabian cymbal deal. Photographs and live footage from the 2004-2005 sessions and supporting tour consistently show him behind the Pearl kit, with a hand-hammered Sabian HH/AA hybrid setup and Vic Firth sticks. Tracks like the lead single \"Revolution,\" the anthemic \"Worth Fighting For,\" and the sprawling \"Eulogy/Lochness\" each showcase a different facet of that new mid-period rig.\n\nThis is the album where Travis stopped trying to repeat Painkiller and started playing for the song. The double-kick fury is still there when the material demands it, but Angel of Retribution leans on groove, dynamics, and patience — exactly what a reunion record needed to be taken seriously rather than dismissed as a victory lap.",
       "keyPoints": [
         "Rob Halford's first studio album back with Judas Priest after a 13-year departure (1992-2005)",
         "Closes the 15-year arc gap on the Priest timeline: Painkiller (1990) → Angel of Retribution (2005) → Nostradamus (2008) → Firepower (2018)",
@@ -1355,9 +1355,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Scott Travis Signature",
-          "notes": "Signature model adopted during the Pearl Reference era, replacing the Vic Firth 5B"
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Continued on the Pearl Reference era"
         }
       ],
       "heads": {
@@ -1393,7 +1393,7 @@ export const articles = {
       },
       {
         "question": "Did Scott Travis switch drum brands by 2005?",
-        "answer": "Yes — Travis switched from Tama drums and Paiste cymbals to Pearl's Reference Series and a new Sabian HH/AA hybrid cymbal setup around the time of the Halford reunion. The move gave him a warmer, more versatile hybrid shell pack better suited to Angel of Retribution's dynamic range, and it's the platform documented on the album alongside a Pearl Reference Brass snare, Pearl Demon Drive pedals, and Vater signature sticks. Travis stayed on this Pearl/Sabian setup through Nostradamus (2008) and Redeemer of Souls (2014) before switching again for Firepower (2018)."
+        "answer": "Yes — Travis switched from Tama drums and Paiste cymbals to Pearl's Reference Series and a new Sabian HH/AA hybrid cymbal setup around the time of the Halford reunion. The move gave him a warmer, more versatile hybrid shell pack better suited to Angel of Retribution's dynamic range, and it's the platform documented on the album alongside a Pearl Reference Brass snare, Pearl Demon Drive pedals, and Vic Firth sticks. Travis stayed on this Pearl/Sabian setup through Nostradamus (2008) and Redeemer of Souls (2014) before switching again for Firepower (2018)."
       },
       {
         "question": "What cymbals did Scott Travis use on Angel of Retribution?",
@@ -1410,7 +1410,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Closing the Arc",
-      "content": "Angel of Retribution isn't the loudest, fastest, or most extreme Judas Priest album — and that's exactly what makes it important. It's the record where Rob Halford came home after 13 years, where the classic lineup proved it could still write together, and where Scott Travis made the quiet but decisive shift from being the drummer who reinvented Priest on Painkiller to being the long-arc drummer who could serve any version of the band that came next.\n\nThe new Pearl Reference Series kit, the Pearl Reference Brass snare, the Sabian HH/AA cymbal setup, the Pearl Demon Drive pedals, and the Vater signature sticks all add up to a rebuilt rig doing a new job: a mid-2000s reunion record that needed to feel modern without abandoning the band's DNA. Tracks like \"Revolution,\" \"Worth Fighting For,\" and the sprawling \"Eulogy/Lochness\" each show a different side of that toolkit, and together they bridge the 15-year arc gap between Painkiller (1990) and Nostradamus (2008) before the eventual Firepower-era gear change in 2018.\n\nFor drummers studying Travis's career, Angel of Retribution is the missing middle chapter — the record that explains how the Painkiller phenom became the Firepower veteran, via a thirteen-year detour through Pearl and Sabian, without losing either identity along the way."
+      "content": "Angel of Retribution isn't the loudest, fastest, or most extreme Judas Priest album — and that's exactly what makes it important. It's the record where Rob Halford came home after 13 years, where the classic lineup proved it could still write together, and where Scott Travis made the quiet but decisive shift from being the drummer who reinvented Priest on Painkiller to being the long-arc drummer who could serve any version of the band that came next.\n\nThe new Pearl Reference Series kit, the Pearl Reference Brass snare, the Sabian HH/AA cymbal setup, the Pearl Demon Drive pedals, and the Vic Firth sticks all add up to a rebuilt rig doing a new job: a mid-2000s reunion record that needed to feel modern without abandoning the band's DNA. Tracks like \"Revolution,\" \"Worth Fighting For,\" and the sprawling \"Eulogy/Lochness\" each show a different side of that toolkit, and together they bridge the 15-year arc gap between Painkiller (1990) and Nostradamus (2008) before the eventual Firepower-era gear change in 2018.\n\nFor drummers studying Travis's career, Angel of Retribution is the missing middle chapter — the record that explains how the Painkiller phenom became the Firepower veteran, via a thirteen-year detour through Pearl and Sabian, without losing either identity along the way."
     }
   },
   "nostradamus-drum-setup": {
@@ -1444,7 +1444,7 @@ export const articles = {
     "ogImage": "/images/albums/nostradamus-drums.webp",
     "intro": {
       "title": "The Concept Album That Demanded a Drummer's Full Range",
-      "content": "Released on June 13, 2008 through Epic Records and Sony BMG, Judas Priest's seventeenth studio album *Nostradamus* stands as one of the most ambitious projects in the band's fifty-year history. A double concept album spanning over two hours of music across 23 tracks, *Nostradamus* tells the story of the 16th-century French prophet Michel de Nostredame through a combination of heavy metal, orchestral passages, synthesizers, and spoken-word interludes. It charted at #7 in the UK and #15 in the US — a credible chart performance for an album this unconventional.\n\nFor Scott Travis — who had anchored the band through the reunion record *Angel of Retribution* (2005) just three years prior — *Nostradamus* represented an entirely different kind of challenge. Where *Painkiller* (1990) demanded speed and *Angel of Retribution* demanded restraint, *Nostradamus* demanded range. The album moves from full-throttle metal to orchestral balladry to atmospheric interludes within single discs, and Travis's drumming had to service all of it.\n\nProduced once again by Roy Z alongside the band — the same production team behind *Angel of Retribution* — *Nostradamus* pushed Travis's dynamic palette further than any previous Priest record. Songs like \"Pestilence and Plague,\" \"Persecution,\" and \"Nostradamus\" itself feature full-power Travis double-kick fury. \"Alone,\" \"Lament,\" and \"Lost Love\" are quiet, orchestral pieces where the drums are sparse or absent altogether. The album's 23-track arc required Travis to read arrangements with a level of sophistication the band had never previously asked of him.\n\nThe gear story on *Nostradamus* is one of continuity within the Pearl era. By 2008 Travis was still on the Pearl Reference Series kit and Sabian HH/AA hybrid cymbals he'd moved to for *Angel of Retribution* three years earlier, running his Vater signature sticks. The setup proved flexible enough to handle the album's extraordinary dynamic range.",
+      "content": "Released on June 13, 2008 through Epic Records and Sony BMG, Judas Priest's seventeenth studio album *Nostradamus* stands as one of the most ambitious projects in the band's fifty-year history. A double concept album spanning over two hours of music across 23 tracks, *Nostradamus* tells the story of the 16th-century French prophet Michel de Nostredame through a combination of heavy metal, orchestral passages, synthesizers, and spoken-word interludes. It charted at #7 in the UK and #15 in the US — a credible chart performance for an album this unconventional.\n\nFor Scott Travis — who had anchored the band through the reunion record *Angel of Retribution* (2005) just three years prior — *Nostradamus* represented an entirely different kind of challenge. Where *Painkiller* (1990) demanded speed and *Angel of Retribution* demanded restraint, *Nostradamus* demanded range. The album moves from full-throttle metal to orchestral balladry to atmospheric interludes within single discs, and Travis's drumming had to service all of it.\n\nProduced once again by Roy Z alongside the band — the same production team behind *Angel of Retribution* — *Nostradamus* pushed Travis's dynamic palette further than any previous Priest record. Songs like \"Pestilence and Plague,\" \"Persecution,\" and \"Nostradamus\" itself feature full-power Travis double-kick fury. \"Alone,\" \"Lament,\" and \"Lost Love\" are quiet, orchestral pieces where the drums are sparse or absent altogether. The album's 23-track arc required Travis to read arrangements with a level of sophistication the band had never previously asked of him.\n\nThe gear story on *Nostradamus* is one of continuity within the Pearl era. By 2008 Travis was still on the Pearl Reference Series kit and Sabian HH/AA hybrid cymbals he'd moved to for *Angel of Retribution* three years earlier, running his Vic Firth sticks. The setup proved flexible enough to handle the album's extraordinary dynamic range.",
       "keyPoints": [
         "Double concept album spanning 23 tracks and over two hours — Judas Priest's most ambitious studio project",
         "UK #7, US #15 — credible chart performance for an unconventional concept double album",
@@ -1568,9 +1568,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Scott Travis Signature",
-          "notes": "Same signature model adopted for the Pearl Reference era"
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Continued from the Pearl Reference era"
         }
       ],
       "heads": {
@@ -1831,9 +1831,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Scott Travis Signature",
-          "notes": "Same signature model — standard across the Pearl Reference era"
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Standard across the Pearl Reference era"
         }
       ],
       "heads": {

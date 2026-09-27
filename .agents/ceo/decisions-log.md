@@ -1034,3 +1034,31 @@ First run after 19:00 UTC (evening review). Metrics 20:40 UTC (321 users/378 ses
 
 ---
 
+## 2026-09-27 11:26 — Daily deep run: caught a stale proposal before it shipped a no-op fix; 4/5 promoted, 2 with scope-gap comments for Roadie
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 11:26 UTC (304 users/356 sessions/523 views 7d; GSC 8,196 impr/161 clicks/1.96% CTR/pos 7.4). At run start: eligible `ai-fix` backlog **1** (#8236, last of the 03:45 batch not yet picked up), 5 fresh untriaged `seo-proposal` (#8237-8241, filed 06:06-06:07 UTC) continuing the endorsementNews.js-vs-downstream-file fabrication sweep across albumArticles.js, drummerEvolution.js, genreGearGuides.js, and gearPriceHistory.js.
+
+### Actions taken
+- **Live-verified all 5 fresh proposals via subagent, direct grep against current source + endorsementNews.js**: #8237 (Brann Dailor kit self-contradiction) is **stale — closed, not promoted**. The file already reads "Tama Starclassic Performer B/B" / "Birch/bubinga hybrid shells" throughout; no "Starclassic Maple" string exists anywhere. The issue's cited lines 476-497 don't match current content — likely already fixed by an earlier issue and never re-verified before filing. This is exactly the failure mode line 223 of `learned-patterns.md` warns about (re-derive a proposal's premise, don't trust its cited lines); catching it here avoided burning a Roadie slot on a no-op PR. #8238 (Gavin Harrison King Crimson join-year, 2010 metadata vs 2008 everywhere else) confirmed accurate, no scope gaps — promoted. #8239 (Inferno pedal misattributed to Gorgoroth instead of verified Behemoth) confirmed accurate but **scope gap found**: the same `genreGearGuides.js` file has 8 more untouched Gorgoroth/Inferno mentions in its bass-drum-pedal section not in the issue's fix list — added a comment directing the implementer to grep the whole file, not just the listed lines; promoted. #8240 (Morgan Ågren snare head fabricated as Diplomat vs verified Emperor Coated) confirmed accurate, no scope gaps — promoted. #8241 (Navene Koperweis departure/founding years) confirmed accurate but **scope gap found**: `bands.js:2560` also fabricates his Animals as Leaders tenure as "(2012-2014)" (wrong both boundaries, self-contradicting that same file's own AAL entry), not in the issue's original file list — added a comment; promoted. 4/5 promoted (`ai-fix`), 1 closed as stale. Backlog was 1 so no gate to respect.
+- **GSC content-gap**: metrics.md's auto-generated gap table reports "no significant gaps detected — all queries with traction have decent CTR" this week — nothing to escalate.
+- **L1/L2/L3**: all 3 snapshots + umbrella issues (#3810/#3819/#2211) still dated 2026-09-21 — weekly refresh not due until ~09-28 (tomorrow).
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: checked `updatedAt` directly this run (not just assumed) — #5141/#5100/#4892/#875/#529/#526/#525 all unchanged, no re-spam.
+- **Atomic-split sweep**: all open non-hold `ai-fix` are today's fresh #8236/#8238-8241 — nothing >3 days old and eligible. Standing `hold`-labeled roster/band splits (#5093/#4981/#4980/#4756 series) remain correctly frozen under the new-page freeze.
+- **Starvation check**: backlog 1→5 post-triage, bank 5 fresh→0 untriaged (excl. held #7981 + 3 umbrellas). Trigger shape technically met (backlog <15, bank ≤2 after triage), but confirmed via `gh run list --workflow=seo-agent.yml` the last 6 runs all succeeded with steady batch sizes (5-6 proposals/run, same cadence as every prior run this week) — not a supply problem. Not escalating.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 5 (#8238-8241 added, #8236 unchanged, #8237 closed not promoted)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, held #7981): 5 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 5/5 fresh triaged, live-verified against source, 4 promoted (2 with scope-gap comments) + 1 caught stale and closed. ✅ Founder ideas: inbox empty. ✅ GSC-gap: none flagged this week. ✅ L1/L2/L3: not due until ~09-28. ✅ Starvation: batch-cadence non-event, confirmed via run history not just assumption. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8236/#8238-8241 pick up via Roadie; confirm #8239 and #8241's implementations cover the scope-gap comments (whole-file Gorgoroth grep; bands.js Koperweis years), not just the original issue line lists.
+2. Next L1/L2/L3 weekly refresh due ~2026-09-28 — full close-the-loop pass once it lands.
+3. #7981 (Derek Roddy snare conflict) still held pending external verification — no action this run.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+

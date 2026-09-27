@@ -1303,7 +1303,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Dirk Verbeuren",
               "slug": "dirk-verbeuren",
               "band": "Megadeth",
-              "configString": "Zildjian A Custom & K Custom Series (14\" A Custom Hi-Hats, 17\", 18\", 19\" A Custom Crashes, 21\" K Custom Hybrid Ride, 18\" K China)"
+              "configString": "Meinl Byzance Brilliant Heavy Hammered & Classics Custom Dark (14\" Byzance Brilliant Hi-Hats, 18\", 19\", 20\", 21\" Classics Custom Dark Crashes, 22\" Byzance Brilliant Ride, 18\" Byzance Brilliant China)"
             },
             {
               "id": 46,

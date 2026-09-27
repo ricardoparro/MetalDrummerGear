@@ -10295,3 +10295,35 @@ All 5 filed issues cross-checked via `gh issue list --state all --search` (drumm
 1. Watch #8208-8212 through CEO triage.
 2. Content-gap query (`danny carey drum set`) remains held on established precedent — no new fix.
 3. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-27 (run, per metrics.md 05:58 UTC) — 5 fresh fabrication-fix proposals filed (#8237-8241); swept 12 previously-unswept roster slugs
+
+### Context
+Bank check: 10 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + 1 human-hold (#7981, Derek Roddy) + 6 already-promoted (#8231-8236, carry both `seo-proposal`+`ai-fix` labels per the 03:45 decisions-log entry) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 05:58 UTC (301 users/350 sessions/506 views 7d; GSC 8,196 impr/161 clicks/1.96% CTR/pos 7.4). Audit: robots.txt confirms all 8 required AI crawlers explicitly allowed (curl-verified). Content-gap table: metrics.md reports "no significant gaps detected" — no action. Today is Sunday — drum-chair watch not due (next Monday 2026-09-28, group 0, per the ISO-week-number%4 rotation).
+
+### Method
+Pulled the full 72-drummer roster from `extendedBios.js` and cross-referenced against ~10 days of prior sweep history (decisions-log + this file) to find slugs nobody had checked recently: alex-rudinger, art-cruz, brann-dailor, gavin-harrison, inferno, isaac-lamb, jimmy-degrasso, john-longstreth, morgan-agren, navene-koperweis, paul-bostaph, waltteri-vayrynen. Dispatched 2 parallel research agents (6 slugs each) to grep `drummerEvolution.js`/`gearPriceHistory.js`/`genreGearGuides.js`/`studies/*.js`/`albumArticles/*.js`/`drummerComparisons.js`/`soundLikeGuides.js` against `endorsementNews.js` ground truth. Personally re-verified every candidate via direct grep/read before filing (not just trusting the agents) — this caught one wrong direction the agents didn't flag:
+
+- **alex-rudinger, art-cruz, isaac-lamb, jimmy-degrasso, john-longstreth, paul-bostaph, waltteri-vayrynen — no issues found**, confirmed clean by both agents.
+- **#8237 — Brann Dailor**: `albumArticles/brann-dailor.js`'s own `drumKit` sub-object fabricates "Tama Starclassic Maple, 100% maple shells," directly contradicting the same file's `kitArmory` section + FAQ (both say Starclassic Performer B/B, birch/bubinga) and 3 other cross-file sources. Same-file self-contradiction, not a cross-file drift.
+- **#8238 — Gavin Harrison**: `drummerEvolution.js`'s King Crimson era block has `startYear: 2010`/`years: '2010–Present'` while its own description, tours, keyChanges, and FAQ all say he joined in 2008 — 4 independent same-record statements outvote the era's own metadata field.
+- **#8239 — Inferno**: `genreGearGuides.js`'s black-metal pedal guide repeatedly misattributes Inferno to "Gorgoroth" (5+ locations, including a fake "Twilight of the Idols" album citation — a real Gorgoroth album, likely cross-contaminated from a different drummer's data) — every other Inferno mention in the same file, plus `extendedBios.js`/`endorsementNews.js`, correctly say Behemoth. Gorgoroth isn't even a band in this site's dataset.
+- **#8240 — Morgan Ågren**: "Diplomat" snare head fabricated across all 4 `drummerEvolution.js` era blocks + FAQ + `gearPriceHistory.js`, verified `endorsementNews.js` says Emperor Coated.
+- **#8241 — Navene Koperweis**: `gearPriceHistory.js` + `albumArticles/navene-koperweis.js` say he left Animals as Leaders in 2014 — contradicted by `drummerEvolution.js`'s own era boundary (endYear 2012) AND independently by Matt Garstka's `endorsementNews.js` entry ("joined AAL in 2012, replacing Navene Koperweis"). Also caught a same-file self-contradiction: 2 spots in the album article say "founded Entheos in 2012" while the same file says 2015 everywhere else (14+ occurrences) — 2015 is correct. **Note:** closed #7231 already touched this exact `gearPriceHistory.js` entry (fixed a DW-vs-Tama brand error at the same date boundary) but its own fix body assumed 2014 was already correct and never cross-checked against `drummerEvolution.js` — the year error survived that fix untouched. Initially I read this as ambiguous (real-world Matt Garstka lore could support either 2012 or 2014) but the site's own two independent ground-truth sources both say 2012, so filed with that as the verified direction rather than treating it as a standing conflict needing external research.
+
+Stopped at 5 (not 8) — all remaining leads from the 12-slug sweep came back clean; did not pad with lower-confidence candidates.
+
+### Dedup notes
+All 5 filed issues cross-checked via `gh issue list --state all --search` (drummer name + fact keywords) — Brann Dailor and Gavin Harrison both have long prior-fix histories in other files/fields, none touching the specific `drumKit` sub-object or era `startYear` field flagged here. Navene Koperweis's #7231 was read in full to confirm this run's finding is a genuine gap in that fix's stated scope, not a re-file.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, external-verification conflict)
+- #8231-8236 (prior day, already promoted per 03:45 decisions-log entry)
+- #8237-8241 (this run, 5 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 15 open `seo-proposal`.
+
+### Next run
+1. Watch #8237-8241 through CEO triage.
+2. Content-gap: metrics.md reports no gaps this run — nothing to address.
+3. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic) — first run on/after that date should run the sweep.

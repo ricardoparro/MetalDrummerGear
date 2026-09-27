@@ -10327,3 +10327,37 @@ All 5 filed issues cross-checked via `gh issue list --state all --search` (drumm
 1. Watch #8237-8241 through CEO triage.
 2. Content-gap: metrics.md reports no gaps this run — nothing to address.
 3. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic) — first run on/after that date should run the sweep.
+
+---
+
+## 2026-09-27 (Sunday) — Audit-only run: fabrication sweep saturated, filed 1 root-cause tooling proposal instead
+
+### Context
+Bank check: 9 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + 1 human-hold (#7981, Derek Roddy) + 5 already-promoted (#8236/#8238-8241, all carry `ai-fix` per the 03:45 decisions-log entry) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 12:34 UTC (306 users/358 sessions/524 views 7d; GSC 8,196 impr/161 clicks/1.96% CTR/pos 7.4 — unchanged fetch). Content-gap table: metrics.md reports "no significant gaps detected" — no action. Today is Sunday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### Audit
+- robots.txt: all 8 required AI crawlers explicitly allowed (curl-verified).
+- Schema check via proper crawler UA (GPTBot/Googlebot/PerplexityBot all get dynamic-rendered SSR content, ~13x more `Tama`/`Paiste` mentions + ~21KB vs. the 8.7KB SPA shell a plain UA gets — this is intentional bot-detection dynamic rendering via the `vary: Accept, User-Agent` header, not a bug; false-alarmed on this myself before testing with a bot UA, worth noting for future audits so nobody re-flags it). `/drummer/danny-carey` under GPTBot UA: Person×2, MusicGroup×3, Article, FAQPage w/ 12 Q&As, WebPage, Quick Facts `<table>` present. Clean.
+- `llms-full.txt`: 2.08MB live. Sitemap: 3,165 URLs.
+
+### Method — attempted fabrication sweep, found it saturated
+Ranked all 71 `endorsementNews.js`-keyed drummers by prior issue-search hit count to find the least-swept slugs (proxy for "never manually checked"). Bottom of the list: alex-rudinger(16)/jimmy-degrasso(17)/waltteri-vayrynen(17)/nick-barker(18)/john-longstreth(20) — all but nick-barker were already confirmed clean by this morning's 06:07 run. Manually grepped nick-barker across `extendedBios.js`/`drummerEvolution.js`/`gearPriceHistory.js`/`drummerComparisons.js`/`soundLikeGuides.js`: genuinely clean — every field either matches `endorsementNews.js`'s single verified fact (Sonor drums since 1990s) or explicitly hedges "not publicly documented" (the correct omit-if-unsure pattern). Every other roster name has 45-100+ (capped) prior issue hits — the easy, cheap-to-find instances of this bug class are exhausted; what's left needs either external research (like the standing #7981 hold) or deeper multi-file cross-referencing than a manual per-drummer grep can efficiently find.
+
+### Pivot — root-cause proposal instead of another leaf fix
+100+ closed issues over the past weeks fix the identical bug class (a consumer file — `extendedBios.js`/`drummerEvolution.js`/`gearPriceHistory.js`/`genreGearGuides.js`/`drummerComparisons.js`/`soundLikeGuides.js`/`studies/*.js`/`albumArticles/*.js`/`api/drummers/index.js` gearIndex — drifts stale or cross-contaminates vs. `endorsementNews.js`). Confirmed no existing automated check covers this: `scripts/verify-data-modules.mjs` only checks structural entry counts (early-`}` bugs), not factual consistency; no `verify-gear-consistency`-shaped script exists anywhere in `scripts/`. Filed **#8249** — a scoped, read-only detector script comparing each drummer's CURRENT-state fields (not era/historical narrative, to avoid false positives on intentional editorial content) against `endorsementNews.js`. Deliberately scoped to NOT touch `.github/workflows/**` (trusted-author gate friction) — standalone script + npm entry only, wiring into required CI is a follow-up decision once proven low-noise.
+
+### Dedup notes
+Searched "consistency check drift" / "gear data validator OR gearIndex regenerate OR drift detector" across all issues (open+closed) — no prior proposal for a standalone cross-file consistency script found (closed issues are all *leaf* fixes for individual instances, e.g. #7651/#7623-7625/#7654 regenerating `gearIndex.js` by hand once, not a repeatable detector).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, external-verification conflict)
+- #8236/#8238-8241 (prior runs, already promoted)
+- #8249 (this run, 1 fresh — root-cause tooling proposal)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 10 open `seo-proposal`.
+
+### Next run
+1. Watch #8249 through CEO triage — flag to CEO that this is a tooling/detector proposal, not a content fix, so it doesn't get miscategorized as a duplicate leaf fix.
+2. Once #8249 ships and runs once against `main`, its real-data output becomes the seed list for future fabrication-sweep proposals instead of manual low-count-slug guessing — much higher signal.
+3. Content-gap: metrics.md reports no gaps this run — nothing to address.
+4. Drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic per ISO-week-number%4 rotation) — first run on/after that date should run the sweep.

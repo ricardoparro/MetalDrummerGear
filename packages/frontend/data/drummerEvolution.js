@@ -9604,9 +9604,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Remo Ambassador on toms, Diplomat on snare',
+            item: 'Remo Ambassador on toms, Emperor Coated on snare',
             details: 'Open, resonant head configuration',
-            notes: 'Light Diplomat head on snare for maximum sensitivity and tonal variation across the Mats/Morgan Band\'s diverse arrangements.',
+            notes: 'Light Emperor Coated head on snare for maximum sensitivity and tonal variation across the Mats/Morgan Band\'s diverse arrangements.',
             change: CHANGE_TYPES.UPGRADE,
           },
         },
@@ -9678,7 +9678,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Remo Ambassador on toms, Diplomat on snare',
+            item: 'Remo Ambassador on toms, Emperor Coated on snare',
             details: 'Open configuration maintained',
             notes: 'Open, sensitive head configuration maintained for maximum tonal nuance.',
             change: null,
@@ -9751,7 +9751,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Remo Ambassador on toms, Diplomat on snare',
+            item: 'Remo Ambassador on toms, Emperor Coated on snare',
             details: 'Open, sensitive configuration',
             notes: 'Open head configuration for maximum sensitivity — essential for the dynamic range spanning whisper to full-power within single compositions.',
             change: null,
@@ -9830,9 +9830,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           heads: {
-            item: 'Remo Ambassador on toms, Diplomat on snare',
+            item: 'Remo Ambassador on toms, Emperor Coated on snare',
             details: 'Open, sensitive long-running configuration',
-            notes: 'Lifelong open head preference maintained — Ambassador/Diplomat configuration consistent across the entire career.',
+            notes: 'Lifelong open head preference maintained — Ambassador/Emperor Coated configuration consistent across the entire career.',
             change: null,
           },
           electronics: {
@@ -9887,7 +9887,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What makes Morgan Ågren\'s drumming unique?',
-        a: 'Ågren\'s playing combines extraordinary technical command with deep musical intelligence. His polyrhythmic vocabulary, metric modulation, and ghost note sensitivity operate at a level rarely encountered even among the world\'s most accomplished drummers. He plays with a light touch (5A sticks, open Ambassador/Diplomat heads) for extraordinary dynamic range, and his hybrid acoustic/electronic setup extends the kit\'s palette into orchestral territory.',
+        a: 'Ågren\'s playing combines extraordinary technical command with deep musical intelligence. His polyrhythmic vocabulary, metric modulation, and ghost note sensitivity operate at a level rarely encountered even among the world\'s most accomplished drummers. He plays with a light touch (5A sticks, open Ambassador/Emperor Coated heads) for extraordinary dynamic range, and his hybrid acoustic/electronic setup extends the kit\'s palette into orchestral territory.',
       },
     ],
 

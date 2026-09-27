@@ -14087,8 +14087,8 @@ export const DRUMMER_EVOLUTION = {
       {
         id: 'gavin-harrison-2010-king-crimson',
         era: 'King Crimson / Dual-Snare Era',
-        years: '2010–Present',
-        startYear: 2010,
+        years: '2008–Present',
+        startYear: 2008,
         endYear: 2026,
         description: 'Harrison joined King Crimson\'s revolutionary three-drummer lineup in 2008, alongside Pat Mastelotto and Bill Rieflin, requiring a setup refined for interlocking, layered percussion parts rather than a solo drum chair. He added The Pineapple Thief in 2016, and in 2022 brought the same core Sonor SQ2 and Zildjian K Custom Special Dry rig back for Porcupine Tree\'s Closure/Continuation — the band\'s first album in thirteen years and its highest-ever UK chart position. Across all three projects, Harrison formalized the 12" Sonor Protean as a dedicated secondary snare voice alongside his 14"x5.25" signature model, giving him a distinct tonal option for the tighter, more articulate sounds that multi-drummer and studio-layered contexts demand.',
         albums: ['Closure/Continuation (2022, Porcupine Tree)', 'The Pineapple Thief studio work (2016–present)'],

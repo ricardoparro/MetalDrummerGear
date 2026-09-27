@@ -503,7 +503,7 @@ export const articles = {
           "brand": "Unknown",
           "model": "Standard touring double pedal (no fixed brand documented)",
           "notes": "Chain-drive double pedal driving the riff-locked kick patterns on Weightless",
-          "description": "No single pedal brand is documented for Koperweis's Animals as Leaders tenure — his rig during this era was undocumented tour-grade gear rather than a fixed endorsement setup. What mattered for his riff-locked kick technique was pedal consistency between the primary and secondary beater: because his kick patterns change specifically with each riff rather than following a fixed template, any mechanical inconsistency between feet would undercut the illusion that the kick drum is a compositional extension of the guitar riff rather than a separate rhythmic layer. He later established a fixed pedal endorsement — the DW 9000 Series double pedal — after founding Entheos in 2012."
+          "description": "No single pedal brand is documented for Koperweis's Animals as Leaders tenure — his rig during this era was undocumented tour-grade gear rather than a fixed endorsement setup. What mattered for his riff-locked kick technique was pedal consistency between the primary and secondary beater: because his kick patterns change specifically with each riff rather than following a fixed template, any mechanical inconsistency between feet would undercut the illusion that the kick drum is a compositional extension of the guitar riff rather than a separate rhythmic layer. He later established a fixed pedal endorsement — the DW 9000 Series double pedal — after founding Entheos in 2015."
         },
         {
           "type": "Sticks",
@@ -549,11 +549,11 @@ export const articles = {
       },
       {
         "question": "Was 'Weightless' Navene Koperweis's first album with Animals as Leaders?",
-        "answer": "Yes. Koperweis joined Animals as Leaders as the band expanded from Tosin Abasi's largely programmed-drum debut into a full working trio, and 'Weightless' (2011) was his first and only full studio album with the band — he departed in 2014, replaced by Matt Garstka, and went on to found Entheos in 2015. See the [Navene Koperweis drummer profile](/drummer/navene-koperweis) for his complete career arc."
+        "answer": "Yes. Koperweis joined Animals as Leaders as the band expanded from Tosin Abasi's largely programmed-drum debut into a full working trio, and 'Weightless' (2011) was his first and only full studio album with the band — he departed in 2012, replaced by Matt Garstka, and went on to found Entheos in 2015. See the [Navene Koperweis drummer profile](/drummer/navene-koperweis) for his complete career arc."
       },
       {
         "question": "What pedal drove Navene Koperweis's double bass on 'Weightless'?",
-        "answer": "No fixed pedal brand is documented for Koperweis's Animals as Leaders tenure — he used undocumented touring-grade chain-drive gear during the Weightless era, with pedal consistency between the primary and secondary beater mattering more than the specific model for his riff-locked kick technique. He later established a fixed pedal endorsement, the DW 9000 Series double pedal, after founding Entheos in 2012."
+        "answer": "No fixed pedal brand is documented for Koperweis's Animals as Leaders tenure — he used undocumented touring-grade chain-drive gear during the Weightless era, with pedal consistency between the primary and secondary beater mattering more than the specific model for his riff-locked kick technique. He later established a fixed pedal endorsement, the DW 9000 Series double pedal, after founding Entheos in 2015."
       }
     ],
     "videos": [

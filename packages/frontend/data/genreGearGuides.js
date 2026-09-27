@@ -6340,7 +6340,7 @@ Start with what you can afford, learn to tune it properly, and practice until yo
       title: "Why Death Metal Has Its Own Cymbal Demands",
       content: `Death metal places extreme demands on cymbals that most other genres simply don't. At 220–280 BPM blast beats, cymbals must respond instantly and cut through a dense, down-tuned guitar wall without washing out into a shapeless roar. They must withstand relentless physical punishment—death metal drummers hit hard and fast, often for hours of daily practice.
 
-George Kollias (Nile) has made his Zildjian K Custom Dark cymbals as recognizable as his inhuman blast beat speed—the dark, controlled wash sits perfectly under technical death metal complexity. Flo Mounier (Cryptopsy) uses Sabian AAX/HHX Series cymbals that deliver controlled chaos even at his insane 270 BPM tempos.
+George Kollias (Nile) has made his Zildjian A Custom Series cymbals as recognizable as his inhuman blast beat speed—the dark, controlled wash sits perfectly under technical death metal complexity. Flo Mounier (Cryptopsy) uses Sabian AAX/HHX Series cymbals that deliver controlled chaos even at his insane 270 BPM tempos.
 
 The wrong cymbals for death metal don't just sound bad—they actively fight your playing. This guide breaks down what actually works, why, and which specific models give you the most extreme metal performance across all budgets.`,
       keyPoints: [
@@ -6408,9 +6408,9 @@ The wrong cymbals for death metal don't just sound bad—they actively fight you
           tier: "pro",
           material: "B20 Bronze (Traditional Dark Finish)",
 
-          description: `The Zildjian K Custom Dark is the quintessential death metal cymbal line, used by George Kollias as his primary setup throughout his Nile career. The thin, dark B20 bronze construction delivers a complex, controlled wash that sits perfectly under extreme technical death metal without washing out at high speeds. The lack of brilliant finish means these cymbals have more raw, musical character than their A Custom siblings.
+          description: `The Zildjian A Custom Series is the quintessential death metal cymbal line, used by George Kollias as his primary setup throughout his Nile career. The thin, dark B20 bronze construction delivers a complex, controlled wash that sits perfectly under extreme technical death metal without washing out at high speeds. The lack of brilliant finish means these cymbals have more raw, musical character than their A Custom siblings.
 
-George Kollias built his reputation for the fastest feet in death metal while using K Custom Dark cymbals — a testament to how well they handle the demands of extreme blast beat drumming. The crashes respond instantly even at 280 BPM and decay quickly, allowing tight, articulate accent placement within dense double-bass patterns.`,
+George Kollias built his reputation for the fastest feet in death metal while using A Custom Series cymbals — a testament to how well they handle the demands of extreme blast beat drumming. The crashes respond instantly even at 280 BPM and decay quickly, allowing tight, articulate accent placement within dense double-bass patterns.`,
 
           pros: [
             "Dark, controlled wash perfect for extreme metal",
@@ -6668,13 +6668,13 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
       'best-cymbals-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark — fastest feet in death metal' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Series — fastest feet in death metal' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark for extreme cutting power at 280 BPM' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Series for extreme cutting power at 280 BPM' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
     ],
 
@@ -6682,7 +6682,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
     faq: [
       {
         question: "What cymbals does George Kollias use?",
-        answer: "George Kollias uses Zildjian K Custom Dark cymbals as his primary setup. The dark, controlled wash of the K Custom Dark sits perfectly under Nile's technical death metal complexity, and the fast decay allows precise accent placement within blast beat patterns at 280+ BPM."
+        answer: "George Kollias uses Zildjian A Custom Series cymbals as his primary setup. The dark, controlled wash of the A Custom Series sits perfectly under Nile's technical death metal complexity, and the fast decay allows precise accent placement within blast beat patterns at 280+ BPM."
       },
       {
         question: "What cymbals does Flo Mounier use?",

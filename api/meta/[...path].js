@@ -7803,7 +7803,7 @@ export function getMetaForPath(pathname) {
           name: `${pedal.brand ? `${pedal.brand} ` : ''}${pedal.model || pedal.summary}`,
           ...(pedal.brand ? { brand: { '@type': 'Brand', name: pedal.brand } } : {}),
           category: 'Bass Drum Pedals',
-          url: `${BASE_URL}/drummer/${pedal.drummerSlug}`,
+          url: `${BASE_URL}/pedals/setups/${pedal.drummerSlug}`,
         },
       })),
     };
@@ -7815,8 +7815,10 @@ export function getMetaForPath(pathname) {
       url,
       // Issue #4650: crawlable links to every drummer with a verified pedal —
       // this hub previously had zero outbound links from the bot-facing shell.
+      // Issue #8257: was linking to /drummer/<slug> (main profile) instead of
+      // the dedicated /pedals/setups/<slug> page this hub exists to showcase.
       ssrLinks: _dedupeSsrLinksByHref(PEDALS.map(pedal => ({
-        href: `/drummer/${pedal.drummerSlug}`,
+        href: `/pedals/setups/${pedal.drummerSlug}`,
         label: `${pedal.brand ? `${pedal.brand} ` : ''}${pedal.model || pedal.summary} — ${pedal.drummerSlug}`,
       }))),
       // Issue #5533: FAQ was previously JSON-LD-only — surface as visible body text.

@@ -6304,7 +6304,7 @@ Start with what you can afford, learn to tune it properly, and practice until yo
     // SEO metadata
     title: "Best Cymbals for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Death Metal 2026 | MetalForge Expert Guide",
-    description: "Top cymbal picks for death metal: what George Kollias and Flo Mounier actually use, from budget to pro. Zildjian K vs Sabian AAX/HHX vs Meinl Classics for extreme metal.",
+    description: "Top cymbal picks for death metal: what George Kollias and Flo Mounier actually use, from budget to pro. Zildjian A Custom vs Sabian AAX/HHX vs Meinl Classics for extreme metal.",
     seoKeywords: [
       'best cymbals for death metal',
       'death metal cymbals',
@@ -6340,12 +6340,12 @@ Start with what you can afford, learn to tune it properly, and practice until yo
       title: "Why Death Metal Has Its Own Cymbal Demands",
       content: `Death metal places extreme demands on cymbals that most other genres simply don't. At 220–280 BPM blast beats, cymbals must respond instantly and cut through a dense, down-tuned guitar wall without washing out into a shapeless roar. They must withstand relentless physical punishment—death metal drummers hit hard and fast, often for hours of daily practice.
 
-George Kollias (Nile) has made his Zildjian K Custom Dark cymbals as recognizable as his inhuman blast beat speed—the dark, controlled wash sits perfectly under technical death metal complexity. Flo Mounier (Cryptopsy) uses Sabian AAX/HHX Series cymbals that deliver controlled chaos even at his insane 270 BPM tempos.
+George Kollias (Nile) has made his Zildjian A Custom cymbals as recognizable as his inhuman blast beat speed—the bright, cutting attack slices through technical death metal complexity. Flo Mounier (Cryptopsy) uses Sabian AAX/HHX Series cymbals that deliver controlled chaos even at his insane 270 BPM tempos.
 
 The wrong cymbals for death metal don't just sound bad—they actively fight your playing. This guide breaks down what actually works, why, and which specific models give you the most extreme metal performance across all budgets.`,
       keyPoints: [
-        "Dark, controlled wash beats bright shimmer at death metal speeds",
-        "Zildjian K Custom Dark is the most common death metal cymbal line",
+        "Both bright, cutting attack and dark, controlled wash work at death metal speeds",
+        "Zildjian A Custom is George Kollias's proven death metal cymbal line",
         "Sabian AAX/HHX crashes offer precise attack even at 270+ BPM",
         "Heavy hi-hats control wash at extreme blast beat tempos"
       ]
@@ -6400,33 +6400,33 @@ The wrong cymbals for death metal don't just sound bad—they actively fight you
       pedals: [
         {
           rank: 1,
-          name: "Zildjian K Custom Dark",
+          name: "Zildjian A Custom",
           brand: "Zildjian",
-          model: "K Custom Dark Series",
+          model: "A Custom Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
-          priceRange: "€200-500 per cymbal",
+          priceRange: "€180-450 per cymbal",
           tier: "pro",
-          material: "B20 Bronze (Traditional Dark Finish)",
+          material: "B20 Bronze (Brilliant Finish)",
 
-          description: `The Zildjian K Custom Dark is the quintessential death metal cymbal line, used by George Kollias as his primary setup throughout his Nile career. The thin, dark B20 bronze construction delivers a complex, controlled wash that sits perfectly under extreme technical death metal without washing out at high speeds. The lack of brilliant finish means these cymbals have more raw, musical character than their A Custom siblings.
+          description: `The Zildjian A Custom Series is the quintessential death metal cymbal line, used by George Kollias as his primary setup throughout his Nile career. The brilliant-finish, hand-hammered B20 bronze construction delivers a bright, cutting attack that slices through extreme technical death metal without getting lost at high speeds. The fast attack and clean decay give crashes precise definition even in the densest arrangements.
 
-George Kollias built his reputation for the fastest feet in death metal while using K Custom Dark cymbals — a testament to how well they handle the demands of extreme blast beat drumming. The crashes respond instantly even at 280 BPM and decay quickly, allowing tight, articulate accent placement within dense double-bass patterns.`,
+George Kollias built his reputation for the fastest feet in death metal while using A Custom cymbals — a testament to how well they handle the demands of extreme blast beat drumming. The crashes respond instantly even at 280 BPM and decay quickly, allowing tight, articulate accent placement within dense double-bass patterns.`,
 
           pros: [
-            "Dark, controlled wash perfect for extreme metal",
-            "Fast response and quick decay for high-tempo playing",
-            "Complex B20 tone that cuts without harshness",
+            "Bright, cutting attack that slices through extreme metal's guitar wall",
+            "Fast response and clean decay for high-tempo playing",
+            "Consistent B20 tone across the entire range",
             "George Kollias's primary choice — proven in the most demanding contexts",
             "Wide range of crashes, hi-hats, and Chinas available"
           ],
           cons: [
-            "Darker character may lack brightness for some classic metal styles",
+            "Brighter character may be too cutting for some doom/atmospheric styles",
             "Premium pricing across the range",
-            "Less versatile for non-extreme styles"
+            "Less dark complexity than Meinl Byzance or K Custom Dark"
           ],
           specs: {
             alloy: "B20 bronze",
-            finish: "Traditional Dark (no brilliant)",
+            finish: "Brilliant",
             treatment: "Hand-hammered + machine-lathed",
             hiHatRange: "13\" - 15\"",
             crashRange: "14\" - 20\"",
@@ -6435,9 +6435,9 @@ George Kollias built his reputation for the fastest feet in death metal while us
           usedBy: [
             { name: "George Kollias", band: "Nile", reason: "Primary cymbal setup — fastest feet in death metal" }
           ],
-          verdict: "The death metal cymbal standard. If George Kollias trusts these at 280 BPM, they'll handle anything you throw at them.",
+          verdict: "The death metal cutting-power standard. If George Kollias trusts these at 280 BPM, they'll handle anything you throw at them.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_dark_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_a_custom_series.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -6607,13 +6607,13 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
 
     // Comparison
     comparison: {
-      title: "Zildjian K Custom Dark vs Sabian AAX/HHX for Death Metal",
+      title: "Zildjian A Custom vs Sabian AAX/HHX for Death Metal",
       content: `The two dominant cymbal lines in death metal represent fundamentally different approaches:
 
-**Zildjian K Custom Dark:**
-- Darker, more controlled wash
+**Zildjian A Custom:**
+- Brighter, cutting attack
 - Quick decay — crashes don't bleed into each other
-- Complex, musical overtones under technical patterns
+- Precise, articulate response under technical patterns
 - Preferred by: George Kollias
 - Best for: Technical death metal, blast beat-heavy styles
 
@@ -6624,13 +6624,13 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
 - Preferred by: Flo Mounier (Cryptopsy), since 2012
 - Best for: Brutal/old-school death metal, studio recordings
 
-**The Verdict:** Both work excellently for death metal. Choose K Custom Dark if you play highly technical patterns where you need cymbal clarity within dense arrangements. Choose Sabian AAX/HHX if you want powerful, dramatic crashes that define each accent in the music.`,
+**The Verdict:** Both work excellently for death metal. Choose A Custom if you play highly technical patterns where you need cymbal clarity within dense arrangements. Choose Sabian AAX/HHX if you want powerful, dramatic crashes that define each accent in the music.`,
       comparisonTable: [
-        { feature: "Darkness", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
+        { feature: "Cutting Power", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
         { feature: "Crash Power", zildjianK: "⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐⭐" },
         { feature: "Decay Speed", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐" },
         { feature: "Technical Clarity", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
-        { feature: "Price Range", zildjianK: "€200-500", sabianAaxHhx: "€200-500" }
+        { feature: "Price Range", zildjianK: "€180-450", sabianAaxHhx: "€200-500" }
       ]
     },
 
@@ -6640,7 +6640,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian K Custom Dark",
+          pedal: "Zildjian A Custom",
           reason: "George Kollias's choice — the gold standard for death metal cymbal work at any speed."
         },
         {
@@ -6668,13 +6668,13 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
       'best-cymbals-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark — fastest feet in death metal' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom — fastest feet in death metal' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark for extreme cutting power at 280 BPM' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom for extreme cutting power at 280 BPM' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
     ],
 
@@ -6682,7 +6682,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
     faq: [
       {
         question: "What cymbals does George Kollias use?",
-        answer: "George Kollias uses Zildjian K Custom Dark cymbals as his primary setup. The dark, controlled wash of the K Custom Dark sits perfectly under Nile's technical death metal complexity, and the fast decay allows precise accent placement within blast beat patterns at 280+ BPM."
+        answer: "George Kollias uses Zildjian A Custom cymbals as his primary setup. The bright, cutting attack of the A Custom Series slices through Nile's technical death metal complexity, and the fast decay allows precise accent placement within blast beat patterns at 280+ BPM."
       },
       {
         question: "What cymbals does Flo Mounier use?",
@@ -6709,9 +6709,9 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
     // Conclusion
     conclusion: {
       title: "Choose Your Death Metal Weapon",
-      content: `Death metal cymbal selection comes down to one question: do you want darkness and control (Zildjian K Custom Dark) or power and drama (Sabian AAX/HHX)? Both approaches are proven at the highest levels of the genre — George Kollias and Flo Mounier represent different but equally valid philosophies.
+      content: `Death metal cymbal selection comes down to one question: do you want cutting brightness and control (Zildjian A Custom) or power and drama (Sabian AAX/HHX)? Both approaches are proven at the highest levels of the genre — George Kollias and Flo Mounier represent different but equally valid philosophies.
 
-Either way, invest in B20 bronze. The difference between B20 and budget alloys is dramatic under the extreme conditions of death metal playing. A quality set of K Custom Dark crashes and hi-hats will outlast and outperform three generations of cheap cymbals while sounding dramatically better in every context.
+Either way, invest in B20 bronze. The difference between B20 and budget alloys is dramatic under the extreme conditions of death metal playing. A quality set of A Custom crashes and hi-hats will outlast and outperform three generations of cheap cymbals while sounding dramatically better in every context.
 
 Start with a 16\" crash, 18\" crash, and 14\" hi-hats. Add a China cymbal when budget allows. Then practice until your blast beats sound like Kollias.
 

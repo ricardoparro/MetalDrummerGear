@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-27 21:44 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-27 21:56 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 329 |
-| Sessions | 382 |
+| Active users | 332 |
+| Sessions | 385 |
 | Page views | 546 |
-| Engagement rate | 57.59% |
-| Avg session (s) | 129 |
+| Engagement rate | 57.14% |
+| Avg session (s) | 128 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,24 +26,24 @@
 | /drummer/jaska-raatikainen | 9 | 5 |
 | /drummer/mike-portnoy | 8 | 4 |
 | /drummer/eloy-casagrande | 7 | 4 |
-| /drummer/hellhammer | 7 | 6 |
+| /drummer/hellhammer | 7 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 300 | 250 |
 | Direct | 51 | 50 |
-| Unassigned | 38 | 35 |
+| Unassigned | 41 | 38 |
 | Cross-network | 20 | 20 |
 | AI Assistant | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 146 | 123 |
+| United States | 147 | 124 |
 | United Kingdom | 27 | 14 |
+| Germany | 22 | 18 |
 | Australia | 21 | 20 |
-| Germany | 21 | 17 |
 | China | 17 | 17 |
 | Canada | 16 | 14 |
 | Singapore | 12 | 12 |

@@ -10361,3 +10361,41 @@ Searched "consistency check drift" / "gear data validator OR gearIndex regenerat
 2. Once #8249 ships and runs once against `main`, its real-data output becomes the seed list for future fabrication-sweep proposals instead of manual low-count-slug guessing — much higher signal.
 3. Content-gap: metrics.md reports no gaps this run — nothing to address.
 4. Drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic per ISO-week-number%4 rotation) — first run on/after that date should run the sweep.
+
+## 2026-09-27 (Sunday, run 4) — pivoted from fabrication sweep to internal-linking audit; 2 verified proposals filed (#8257, #8258)
+
+### Context
+Bank check: 5 open `seo-proposal` at run start (3 umbrellas #2211/#3810/#3819 + human-hold #7981 + #8249 already carrying `ai-fix`) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics unchanged since 05:58 fetch (306 users/358 sessions/524 views 7d; GSC 8,196 impr/161 clicks/1.96% CTR/pos 7.4). Content-gap: "no significant gaps detected". Audit: robots.txt all 8 AI crawlers allowed (curl-verified); `public/llms/` confirmed fresh via `check-llms-freshness.cjs`. Today is Sunday — drum-chair watch not due.
+
+### Method
+3 prior runs today already did deep manual fabrication sweeps (roster near-exhausted per the 12:34 UTC audit-only run, which pivoted to the #8249 detector-tooling proposal) — repeating that sweep a 4th time risked low-signal churn. Pivoted instead to the L3 indexation umbrella's (#3819, 2026-09-21 snapshot) `discovered-not-indexed`/`unknown` cluster, applying the established "no crawlable inbound link" bug class (#6593 `/tools/compare`, #6594 `/drummers/<slug>/endorsements`, #7530 `/cymbals` hub) to 5 route families in that snapshot never checked against this specific pattern before.
+
+Dispatched an Explore agent first (read-only, no fixes/filing) to map each family to its parent hub and report root cause. **Its findings on 3 of 5 families turned out to be false positives** — it read the client-side React components (`SoundLikeGuides.js`, a claimed missing `/lists` hub) instead of the bot-served shell (`api/meta/[...path].js`), exactly the meta-shell-saga mistake `learned-patterns.md` warns about. Personally live-verified every claim via `curl -A Googlebot` before trusting any of it:
+- **`/guides/best-china-cymbals-for-*` (5 guides)** — agent claimed client-JS-only TouchableOpacity rendering. Live curl of `/guides` (bot UA) shows all 5 already present as real `<a href>` links. **False positive** — no fix needed, self-heals on recrawl (stale 07-02/07-04 crawl dates predate nothing relevant).
+- **`/lists/polyrhythmic-metal-drummers` + `/lists/progressive-metal-drummers`** — agent claimed no `/lists` hub exists. It does (`api/meta/[...path].js:4874`), and live curl confirms both already linked. **False positive.**
+- **`/pedals/setups/gene-hoglan` + `/pedals/setups/martin-axenrot`** — agent correctly found the `/pedals` main hub links to `/drummer/<slug>` not `/pedals/setups/<slug>` (real bug, see below), but these 2 specific URLs already have a working alternate inbound path via `/pedals/best-for-metal` (curl-confirmed both hrefs present) — likely genuine stale-crawl lag (pedals.js entries added 2026-09-11), not currently a live gap for these 2 URLs specifically.
+- **`/drummer/<6 slugs>/bio`** — agent found the link is present in the live shell. Confirmed correct, no bug.
+- **`/technique/linear-drumming/drummers` + `/technique/heel-toe-technique/drummers`** — agent's report on this family was incomplete; personally traced it further and found a **real, sitewide, previously-unswept bug**: neither the `/techniques` hub (`api/meta/[...path].js:1660`) nor any `/techniques/<slug>` detail page's `ssrLinks` (line 1844-1863) ever construct a link to `/technique/<slug>/drummers` — confirmed via `grep -rn "technique/\${" api/ packages/frontend/` returning zero hits outside the page's own self-reference. All 29 technique slugs (`getAllTechniqueSlugs().length`) share this gap, not just the 2 sampled this week (the L3 snapshot only covers ~500/3,166 URLs/run). Filed **#8258**.
+
+Separately confirmed the `/pedals` hub bug is real and independently worth fixing regardless of the 2 specific URLs' current status — `/pedals` is priority-0.9 (higher authority than `/pedals/best-for-metal`) and its `ssrLinks` still send all 57 pedal entries' link equity to `/drummer/<slug>` instead of the dedicated `/pedals/setups/<slug>` pages, the exact bug #7530 already fixed for the sibling `/cymbals` hub (confirmed #7530 CLOSED + live via curl: `/cymbals` now shows 56 `/cymbals/setups/` links, 0 `/drummer/` links). Filed **#8257**.
+
+### Not filed
+- 5 guides, 2 lists, 6 bio pages — all confirmed already correctly linked live; stale L3 crawl-artifact, no code fix, self-heals per the established stale-crawl-residue pattern (`learned-patterns.md` lines 167/230/240).
+- `/lists/viking-metal-drummers` 5xx (from #3819's snapshot) — live curl returns 200 today; same stale-crawl-artifact class, not re-filed.
+- `/technique/seven-stroke-roll/drummers` duplicate-canonical row — part of the already-ruled 7-URL `duplicate→/lists/math-metal-drummers` stale cluster (line 230/240), unrelated to the #8258 finding, not re-investigated.
+
+### Dedup notes
+Searched `gh issue list --state all --search` for both filed issues' keywords (pedals hub link, technique drummers inbound link) — no prior proposal found. #7530 (cymbals, same bug class) and #4461/#4866 (technique/drummers page's own content, not inbound links) read in full to confirm neither already covers this scope.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8249 (prior run, already `ai-fix`)
+- #8257, #8258 (this run, 2 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 7 open `seo-proposal`.
+
+### Next run
+1. Watch #8257/#8258/#8249 through CEO triage.
+2. Next L1/L2/L3 weekly refresh due 2026-09-28 (Monday) — re-check whether `/technique/linear-drumming/drummers` and `/technique/heel-toe-technique/drummers` move off `discovered-not-indexed`/`unknown` once #8258 ships and recrawls.
+3. Drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+4. **Process note**: an Explore-agent's claims about "what a page links to" must be verified against the bot-served shell (`curl -A Googlebot`), not the client-side component source — this run caught 3/5 false-positive family claims before filing; the agent read `SoundLikeGuides.js`/assumed a missing `/lists` hub, both wrong once checked against what `api/meta/[...path].js` actually serves.

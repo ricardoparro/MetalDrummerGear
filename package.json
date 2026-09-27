@@ -13,7 +13,8 @@
     "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
     "build": "npm run build --workspace=packages/frontend",
     "test": "npm run test --workspaces --if-present",
-    "generate:llms": "for f in scripts/generate-llms-*.cjs; do node \"$f\" || exit 1; done"
+    "generate:llms": "for f in scripts/generate-llms-*.cjs; do node \"$f\" || exit 1; done",
+    "verify:gear-consistency": "node scripts/verify-gear-consistency.cjs"
   },
   "dependencies": {
     "@vercel/edge": "^1.3.1",

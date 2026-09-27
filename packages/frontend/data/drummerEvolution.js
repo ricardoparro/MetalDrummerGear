@@ -17361,10 +17361,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Evans',
+            item: 'Remo',
             details: 'Kit-wide configuration',
-            notes: 'Switched from standard coated batters to a full Evans head package.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued the Remo Coated Ambassador/Powerstroke 3 setup carried since 1996.',
+            change: null,
           },
         },
 
@@ -17432,9 +17432,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Evans',
+            item: 'Remo',
             details: 'Complete setup',
-            notes: 'Standard head package for the current Angra touring rig.',
+            notes: 'Coated Ambassador/Powerstroke 3 setup, unchanged since 1996, for the current Angra touring rig.',
             change: null,
           },
         },

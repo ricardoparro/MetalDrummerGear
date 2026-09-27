@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-26 21:54 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-27 03:45 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,89 +8,87 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 323 |
-| Sessions | 381 |
-| Page views | 555 |
-| Engagement rate | 60.63% |
-| Avg session (s) | 109 |
+| Active users | 299 |
+| Sessions | 347 |
+| Page views | 501 |
+| Engagement rate | 56.20% |
+| Avg session (s) | 128 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummers | 16 | 5 |
-| /drummer/bill-ward | 15 | 9 |
+| /drummer/bill-ward | 14 | 9 |
 | /bpm | 13 | 2 |
 | /drummer/mario-duplantier | 13 | 11 |
-| /drummer/frost | 12 | 3 |
-| /drummer/joey-jordison | 12 | 8 |
-| / | 10 | 8 |
-| /drummer/eloy-casagrande | 10 | 7 |
-| /drummer/jaska-raatikainen | 10 | 6 |
-| /drummer/matt-greiner | 9 | 8 |
+| /drummers | 12 | 4 |
+| /drummer/frost | 11 | 3 |
+| / | 9 | 8 |
+| /drummer/jaska-raatikainen | 9 | 5 |
+| /drummer/eloy-casagrande | 7 | 4 |
+| /drummer/hellhammer | 7 | 6 |
+| /drummer/matt-greiner | 7 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 310 | 257 |
+| Organic Search | 266 | 222 |
 | Direct | 45 | 45 |
-| Unassigned | 30 | 27 |
-| Cross-network | 14 | 14 |
+| Unassigned | 42 | 39 |
+| Cross-network | 21 | 21 |
 | AI Assistant | 2 | 2 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 145 | 119 |
-| United Kingdom | 30 | 14 |
-| Canada | 18 | 16 |
-| Germany | 18 | 14 |
-| Australia | 17 | 16 |
-| China | 14 | 14 |
-| Finland | 11 | 10 |
+| United States | 133 | 113 |
+| United Kingdom | 25 | 12 |
+| Australia | 19 | 18 |
+| Germany | 19 | 15 |
+| China | 15 | 15 |
+| Canada | 14 | 12 |
 | Singapore | 11 | 11 |
+| Finland | 9 | 8 |
 | Spain | 7 | 6 |
-| Czechia | 6 | 4 |
+| Czechia | 5 | 3 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 9,917 |
-| Clicks | 200 |
-| CTR | 2.02% |
+| Impressions | 8,196 |
+| Clicks | 161 |
+| CTR | 1.96% |
 | Avg position | 7.4 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier drum kit | 88 | 2 | 2.27% | 6.9 |
-| arin illejay | 10 | 1 | 10.00% | 10.0 |
-| best death metal drummers | 5 | 1 | 20.00% | 7.6 |
-| best drum heads for metal | 16 | 1 | 6.25% | 9.7 |
+| mario duplantier drum kit | 69 | 2 | 2.90% | 6.9 |
+| arin illejay | 9 | 1 | 11.11% | 10.1 |
+| best death metal drummers | 4 | 1 | 25.00% | 8.8 |
+| best drum heads for metal | 15 | 1 | 6.67% | 9.6 |
 | best extreme metal drummers | 1 | 1 | 100.00% | 6.0 |
 | best nu metal drummers | 1 | 1 | 100.00% | 7.0 |
 | bill ward cymbals | 2 | 1 | 50.00% | 4.0 |
 | bill ward paranoid drum kit | 1 | 1 | 100.00% | 4.0 |
-| danny carey drum set | 68 | 1 | 1.47% | 10.5 |
 | eloy casagrande bill ward | 1 | 1 | 100.00% | 14.0 |
+| fastest double bass drummer | 17 | 1 | 5.88% | 5.6 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,711 | 74 | 1.99% | 7.7 |
-| aus | 445 | 14 | 3.15% | 7.6 |
-| can | 589 | 9 | 1.53% | 7.9 |
-| deu | 352 | 9 | 2.56% | 6.9 |
-| gbr | 641 | 8 | 1.25% | 8.1 |
-| fin | 152 | 6 | 3.95% | 6.5 |
-| esp | 102 | 5 | 4.90% | 7.4 |
-| pol | 155 | 5 | 3.23% | 5.9 |
-| fra | 231 | 4 | 1.73% | 7.0 |
-| ita | 156 | 4 | 2.56% | 6.9 |
+| usa | 3,099 | 60 | 1.94% | 7.7 |
+| aus | 360 | 13 | 3.61% | 7.7 |
+| deu | 289 | 9 | 3.11% | 6.9 |
+| gbr | 517 | 6 | 1.16% | 8.0 |
+| esp | 88 | 5 | 5.68% | 7.0 |
+| fin | 122 | 5 | 4.10% | 6.4 |
+| ita | 132 | 4 | 3.03% | 6.9 |
+| pol | 123 | 4 | 3.25% | 6.0 |
+| bra | 251 | 3 | 1.20% | 6.6 |
+| can | 464 | 3 | 0.65% | 8.1 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-| Query | Impr | CTR | Pos | Action |
-| --- | --- | --- | --- | --- |
-| danny carey drum set | 68 | 1.47% | 10.5 | open issue to answer better |
+_no significant gaps detected — all queries with traction have decent CTR_
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -1843,6 +1843,11 @@ export function getMetaForPath(pathname) {
         // master, same pattern #5721 used for /lists/<slug> ranked-drummer notes.
         ssrLinks: [
           { href: '/techniques', label: 'All Techniques' },
+          // Issue #8258: sibling /technique/<slug>/drummers page (singular
+          // "technique") is sitemapped at priority 0.8 with its own ItemList
+          // schema but had zero crawlable inbound links anywhere in the
+          // bot-served shell.
+          { href: `/technique/${slug}/drummers`, label: `Drummers Known for ${technique.title}` },
           ...getRelatedTechniques(slug).slice(0, 3).map(t => ({
             href: `/techniques/${t.slug}`,
             label: t.title,

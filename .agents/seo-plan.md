@@ -10435,3 +10435,43 @@ Searched `gh issue list --state all --search "drummers-using"` — 12 hits, all 
 2. Content-gap: only `danny carey drum set` flagged, already-ruled exhausted lever.
 3. Drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic per ISO-week-number%4 rotation).
 4. If the hub-inbound-link pattern keeps paying off, other candidate hubs not yet checked: `/gear-finder`, `/gear-by-budget`, category pages (`/gear/drums`, `/gear/hardware`) — not checked this run, flagged as a lead not a finding.
+
+## 2026-09-28 (Monday, run 1, per metrics.md 06:05 UTC) — drum-chair watch (0 changes), detector-driven fabrication sweep (6 proposals), 1 hub-link proposal; 7 fresh (#8265-8271)
+
+### Context
+Bank check: 6 open `seo-proposal` at run start (3 umbrellas #2211/#3810/#3819 + human-hold #7981 + #8260/#8261 already `ai-fix`) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 06:05 UTC (309 users/353 sessions/496 views 7d; GSC 8,251 impr/152 clicks/1.84% CTR/pos 7.4). Content-gap: "no significant gaps detected." Audit: robots.txt all 8 AI crawlers explicitly allowed (curl-verified); sitemap 3,165 URLs; `llms.txt` 61 doc rows; `/llms/index.md` 449 `.md` links.
+
+### Drum-chair watch (weekly, due today)
+Today is Monday (ISO week 40, 40%4=0 → group 0). Pulled band keys from `packages/frontend/data/bands.js` (47 total, alphabetical), group 0 = first 12: amon-amarth, angra, animals-as-leaders, anthrax, arch-enemy, at-the-gates, august-burns-red, behemoth, between-the-buried-and-me, cannibal-corpse, cavalera-conspiracy, cynic. Dispatched an agent to search each (`"<band> new drummer"` / `"<band> drummer 2026"`, last 14 days). **Result: 12 checked, 0 rumors, 0 verified changes** — all 12 bands' drum chairs unchanged. Nothing filed.
+
+### Method — fabrication sweep via the new detector (first run since #8259 merged)
+PR #8259 (the `scripts/verify-gear-consistency.cjs` drift detector, #8249) merged 2026-09-27 21:52 UTC — first run able to use it instead of manual grep. Ran it against `main`: **115 raw mismatches across 5 gear categories**. Dispatched an agent to: (1) filter substring-noise false positives (e.g. `expected="Remo"`/`found="Remo Ambassador"` — containment, not a real brand conflict) from genuine cross-brand mismatches (~40 remained), (2) exclude all derek-roddy hits (standing #7981 human-hold), (3) independently spot-verify each candidate against `endorsementNews.js` directly (not just trust the script), (4) dedupe via `gh issue list --state all --search`, (5) file the top 6 by blast-radius/confidence:
+- **#8265** — soundLikeGuides.js heads batch (Brann Dailor, Travis Orbin, Flo Mounier, Jay Weinberg — 16 locations, shared template bug, verified Evans not Remo)
+- **#8266** — Nick Menza soundLikeGuides.js heads (inverse: verified Remo not Evans)
+- **#8267** — Daniel Erlandsson extendedBios.js "Current Setup" block (cymbals/sticks/heads: Paiste/Vic Firth/Evans → Sabian/ProMark/Remo)
+- **#8268** — Richard Christy drummerEvolution.js hardware (Pearl → Axis A Longboard)
+- **#8269** — Jon Dette drummerEvolution.js drums (Tama Starclassic Bubinga → Ludwig Classic Maple)
+- **#8270** — Mario Duplantier drummerEvolution.js cymbals (Meinl Byzance → Zildjian; final untouched era in a file where 2 sibling eras were already fixed by #7921/#8146)
+
+Skipped: eloy-casagrande sticks (Promark vs Vic Firth, live everywhere but 15+ prior closed issues already whack-a-moled this exact fact across nearly every other file — deprioritized, not fresh); arin-ilejay drummerComparisons.js Mapex/Vic Firth entries (framed as a specific 2011-2015 A7X-era block, ambiguous editorial content, not a clear fabrication — also the DW/Mapex question was just resolved 2 days ago by #8176/#8177); inferno "Pearl" hardware hits (on inspection this is the correct drums/throne brand, not the pedal field — likely a detector category-tagging miss, not a real bug). ~29 more genuine candidates remain unfiled (nick-menza sticks/hardware, nick-augusto, daray, abe-cunningham, vinnie-paul, hannes-grossmann, matt-garstka, mikkey-dee, george-kollias, dave-lombardo, danny-carey, paul-mazurkiewicz, scott-travis, alex-bent, tomas-haake, mike-portnoy, igor-cavalera, aquiles-priester, charlie-benante, ray-luzier) — time-boxed to top 6, valid seed list for next run(s).
+
+**Process win**: the detector script found in one run what took ~6 manual-grep runs to surface at a similar rate, and with less token cost — future fabrication-sweep runs should start from `node scripts/verify-gear-consistency.cjs` output, not a blind roster scan.
+
+### Method — 1 internal-linking proposal (continuing the hub-inbound-link pattern)
+Checked the two remaining candidate hubs flagged by run 5's notes: `/gear-finder` (already deliberately links to `/brands/<slug>` + `/drummer/<slug>` per #4669's own reasoning — not a fresh bug) and `/gear/drums` + `/gear/hardware` (the only 2 live `gearCategoryMatch` category pages — `sticks`/`cymbals`/`snares`/`pedals` 301-redirect at the edge per #4434). Live-verified via `curl -A Googlebot`: both `/gear/drums` and `/gear/hardware` have **zero outbound links** in the bot shell — only a self-referential anchor. Confirmed via source read that the sibling `gearBrandMatch` branch (`/gear/<brand>`) has an `ssrLinks` array but the `gearCategoryMatch` branch has none at all. Not a duplicate of #4730 (closed — fixed `/gear`, `/quotes`, `/news`, a level higher). Filed **#8271**.
+
+### Dedup notes
+All 7 proposals checked via `gh issue list --state all --search` before filing (drummer names + brand keywords for #8265-8270; "gear/drums ssrLinks", "gearCategoryMatch" for #8271) — no overlapping open or closed issue found for any of the 7.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8260, #8261 (prior run, already `ai-fix`)
+- #8265-8271 (this run, 7 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 13 open `seo-proposal`.
+
+### Next run
+1. Watch #8265-8271 through CEO triage.
+2. Continue the detector-seeded fabrication sweep — ~29 genuine candidates already identified this run (see skip list above), no need to re-run the detector until a batch of these ships and the sweep needs a fresh baseline.
+3. Content-gap: metrics.md reports no gaps this run — nothing to address.
+4. Next drum-chair watch due Monday 2026-10-05, group 1 (next alphabetical ~12 bands after cynic — recompute via ISO week 41 % 4 = 1).

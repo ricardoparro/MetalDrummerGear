@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-28 06:05 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-28 12:57 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,42 +8,42 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 309 |
-| Sessions | 353 |
-| Page views | 496 |
-| Engagement rate | 53.26% |
-| Avg session (s) | 162 |
+| Active users | 323 |
+| Sessions | 369 |
+| Page views | 524 |
+| Engagement rate | 60.70% |
+| Avg session (s) | 151 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /bpm | 18 | 3 |
 | /drummer/mario-duplantier | 16 | 13 |
-| /drummers | 13 | 4 |
-| / | 11 | 10 |
-| /drummer/frost | 11 | 3 |
+| /drummers | 14 | 4 |
+| / | 13 | 10 |
+| /drummer/frost | 12 | 3 |
+| /drummer/eloy-casagrande | 8 | 5 |
+| /drummer/hellhammer | 8 | 6 |
 | /drummer/jaska-raatikainen | 8 | 4 |
-| /drummer/bill-ward | 7 | 6 |
-| /drummer/eloy-casagrande | 7 | 5 |
-| /drummer/hellhammer | 7 | 6 |
-| /techniques | 7 | 2 |
+| /techniques | 8 | 2 |
+| /drummer/bill-ward | 7 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 266 | 224 |
-| Unassigned | 56 | 53 |
-| Direct | 49 | 48 |
-| Cross-network | 24 | 24 |
+| Organic Search | 301 | 258 |
+| Direct | 50 | 49 |
+| Unassigned | 26 | 24 |
+| Cross-network | 7 | 7 |
 | AI Assistant | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 138 | 118 |
-| United Kingdom | 22 | 11 |
+| United States | 140 | 120 |
+| United Kingdom | 23 | 11 |
+| Germany | 21 | 19 |
 | Australia | 20 | 19 |
-| Germany | 18 | 16 |
 | Canada | 17 | 15 |
 | China | 17 | 17 |
 | Singapore | 10 | 10 |

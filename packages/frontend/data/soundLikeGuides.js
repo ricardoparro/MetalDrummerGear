@@ -6099,10 +6099,10 @@ His signature approach involves treating each limb as an independent rhythmic vo
         alternative: "Promark Classic 5A or Zildjian 5A Anti-Vibe for comparable weight and balance"
       },
       heads: {
-        kick: 'Evans EMAD2 Clear',
+        kick: 'Remo Powerstroke 3 Clear',
         snare: 'Remo Ambassador Coated',
-        toms: 'Evans EC2S Clear',
-        resonant: 'Evans EQ3 Resonant (kick), Remo Ambassador Clear (toms)'
+        toms: 'Remo Ambassador Coated',
+        resonant: 'Remo Ambassador Clear'
       }
     },
     tuning: {

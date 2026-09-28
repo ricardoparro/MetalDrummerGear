@@ -5255,12 +5255,28 @@ export function getMetaForPath(pathname) {
           },
         ],
       };
+      // Issue #8271: GEAR_BRAND_META (declared above, near gearBrandMatch) has
+      // no 'hardware' type — hardware is sold by the same drum-kit brands, so
+      // /gear/hardware falls back to the 'drum kits' brand set too.
+      const categoryBrandSlugs = Object.keys(GEAR_BRAND_META).filter(slug => {
+        const b = GEAR_BRAND_META[slug];
+        if (catSlug === 'drums') return b.type === 'drum kits';
+        if (catSlug === 'hardware') return b.type === 'drum kits';
+        return false;
+      });
       return {
         title: `Best ${catName} for Metal — What the Pros Use | ${SITE_NAME}`,
         description: catMeta.description,
         image: DEFAULT_IMAGE,
         type: 'website',
         url: catUrl,
+        ssrLinks: [
+          { href: '/gear', label: 'All Gear' },
+          ...categoryBrandSlugs.map(slug => ({
+            href: `/gear/${slug}`,
+            label: `${GEAR_BRAND_META[slug].name} ${catName}`,
+          })),
+        ],
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'CollectionPage',

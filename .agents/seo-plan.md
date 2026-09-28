@@ -10509,3 +10509,37 @@ All 8 dedup-checked via `gh issue list --state all --search` (drummer name + fie
 2. Remaining detector-seeded candidates not yet filed: nick-augusto, daray, abe-cunningham, ray-luzier, hannes-grossmann, dave-lombardo, danny-carey, paul-mazurkiewicz, scott-travis, alex-bent, tomas-haake, mike-portnoy, george-kollias (~13 left) — continue from this list next run, no need to re-run the detector until these ship.
 3. Content-gap: metrics.md reports no gaps this run — nothing to address.
 4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-09-28 (Monday, run 3, metrics 23:36 UTC) — continued detector-seeded fabrication sweep; 8 verified proposals filed (#8295-8302)
+
+### Context
+Bank check: 12 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + human-hold #7981 + 8 already `ai-fix`-labeled from runs 1-2, promoted by CEO's 22:57 evening run per git log commit "promote #8274-8281, file #8294") → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 23:36 UTC (337 users/386 sessions/541 views 7d; GSC 9,937 impr/184 clicks/1.85% CTR/pos 7.4). Content-gap: "no significant gaps detected" — no CTR-gap fix to address. Audit: robots.txt all 8 required AI crawlers explicitly allowed (curl-verified); sitemap 3,165 URLs; `llms.txt` 115 lines. Drum-chair watch already run today (run 1, 0 changes) — not repeated.
+
+### Method
+Continued from run 2's leftover seed list of 13 unfiled detector-flagged candidates (nick-augusto, daray, abe-cunningham, ray-luzier, hannes-grossmann, dave-lombardo, danny-carey, paul-mazurkiewicz, scott-travis, alex-bent, tomas-haake, mike-portnoy, george-kollias). Dispatched a subagent to independently verify all 13 against `endorsementNews.js`, filter false positives, and dedup-check via `gh issue list --state all --search`. All 13 came back confirmed genuine (no false positives this round — every candidate is a live, previously-unfiled fabrication). Personally spot-checked all 8 selected for filing via direct `sed -n`/grep against both the fabricated file and `endorsementNews.js` before writing issue bodies — all 8 confirmed byte-exact against the subagent's report. Filed the 8 highest-blast-radius/highest-confidence (multi-location fixes first):
+- **#8295** — Nick Augusto sticks fabricated as Vic Firth across `soundLikeGuides.js`/`drummerComparisons.js`/`extendedBios.js` (5 locations, 3 files) — verified Pro-Mark Nylon Tip 5B
+- **#8296** — Daray sticks+heads fabricated in `soundLikeGuides.js` dedicated guide — verified Vic Firth American Classic Extreme 5B / Evans Emperor-Ambassador
+- **#8297** — Abe Cunningham sticks fabricated as Zildjian across `soundLikeGuides.js` + `drummerComparisons.js` (4 locations) — verified Pro-Mark
+- **#8298** — Ray Luzier snare-heads-only fabricated as Remo in `soundLikeGuides.js` (kick/toms/resonant already correct Evans in same block)
+- **#8299** — Hannes Grossmann snare-heads-only fabricated as Remo in `soundLikeGuides.js` (same isolated-field-miss shape as #8298)
+- **#8300** — Dave Lombardo `drummerEvolution.js` current-era heads fabricated as Evans — verified Remo; distinct era block from #7917's fix
+- **#8301** — Mike Portnoy `drummerEvolution.js` post-DT-era heads fabricated as Evans — verified Remo; distinct file from #6622/#6899
+- **#8302** — George Kollias `drummerEvolution.js` heads fabricated as Remo — verified Evans; distinct file from #7727/#7487/#6487 (same fact, 4th file)
+
+Held back for next run (same confirmed-genuine list, time-boxed to top 8): danny-carey, paul-mazurkiewicz, scott-travis, alex-bent, tomas-haake `drummerEvolution.js` heads fields — all identical Evans-vs-Remo shape to #8300/#8301/#8302, just deprioritized behind the multi-location fixes this run.
+
+### Dedup notes
+All 8 dedup-checked via `gh issue list --state all --search "<drummer> <field>"` before filing — every drummer has many prior closed issues, but none targeted these exact file/line locations (confirmed by reading each hit's title). No overlap.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8260, #8261, #8265-8271, #8274-8281 (prior runs today, already `ai-fix`)
+- #8295-8302 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 19 open `seo-proposal`.
+
+### Next run
+1. Watch #8295-8302 through CEO triage.
+2. Remaining detector-seeded candidates not yet filed (all confirmed genuine, same `drummerEvolution.js` Evans↔Remo heads shape): danny-carey, paul-mazurkiewicz, scott-travis, alex-bent, tomas-haake — file next run, no need to re-verify, already confirmed byte-exact this run.
+3. Content-gap: metrics.md reports no gaps this run — nothing to address.
+4. Next drum-chair watch due Monday 2026-10-05, group 1.

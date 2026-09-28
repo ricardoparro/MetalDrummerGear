@@ -20755,7 +20755,7 @@ export const DRUMMER_EVOLUTION = {
 
   // ==========================================
   // Jon Dette - Slayer / Testament (Drummer Evolution batch 25, Issue #3750)
-  // Ludwig Classic Maple -> Tama Starclassic Bubinga
+  // Ludwig Classic Maple, continuous since 1996 (fixed #8269 — no Tama switch)
   // ==========================================
   'jon-dette': {
     slug: 'jon-dette',
@@ -20763,7 +20763,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Slayer / Testament',
     totalYearsActive: '1996-Present',
     profileImage: '/images/drummers/jon-dette.webp',
-    summary: 'Jon Dette is thrash metal\'s most-traveled touring drummer — the Milwaukee-born specialist who filled Paul Bostaph\'s chair in Slayer during 1996-1997, then built his longest relationship with Testament as touring drummer across two stints between 1997 and 2012 (captured on the live album Live at the Fillmore), before adding fill-in stints with Anthrax, a brief second Slayer return, and a 2013-2015 touring run with Iced Earth. His gear evolution runs from the Ludwig Classic Maple kit that gave Slayer\'s Ludwig-era live shows a warmer, more open character than Dave Lombardo\'s Tama, through a decade-plus of professional maple touring kits with Testament, into the Tama Starclassic Bubinga rig he adopted for Iced Earth and has carried through his ongoing session and touring career ever since.',
+    summary: 'Jon Dette is thrash metal\'s most-traveled touring drummer — the Milwaukee-born specialist who filled Paul Bostaph\'s chair in Slayer during 1996-1997, then built his longest relationship with Testament as touring drummer across two stints between 1997 and 2012 (captured on the live album Live at the Fillmore), before adding fill-in stints with Anthrax, a brief second Slayer return, and a 2013-2015 touring run with Iced Earth. His gear evolution runs from the Ludwig Classic Maple kit that gave Slayer\'s Ludwig-era live shows a warmer, more open character than Dave Lombardo\'s Tama, through a decade-plus of professional maple touring kits with Testament, into the same Ludwig Classic Maple kit — his only documented drum brand, continuous since 1996 — that he has carried through Iced Earth and into his ongoing session and touring career today.',
 
     eras: [
       {
@@ -20910,39 +20910,39 @@ export const DRUMMER_EVOLUTION = {
 
       {
         id: 'jon-dette-2013-iced-earth',
-        era: 'Iced Earth Touring & the Tama Switch',
+        era: 'Iced Earth Touring Stint',
         years: '2013-2015',
         startYear: 2013,
         endYear: 2015,
-        description: 'In late 2013 Dette joined Iced Earth as touring drummer, replacing Raphael Saini, while also briefly returning to Slayer\'s lineup that same year — a stretch that captures why he\'s become known as one of metal\'s most-traveled touring drummers. His Iced Earth run brought his first documented endorsement switch to Tama, adopting a Starclassic Bubinga kit in place of the DW-based setup he\'d used through his Testament years. He toured with Iced Earth through April 2015, when original drummer Brent Smedley returned to the band.',
+        description: 'In late 2013 Dette joined Iced Earth as touring drummer, replacing Raphael Saini, while also briefly returning to Slayer\'s lineup that same year — a stretch that captures why he\'s become known as one of metal\'s most-traveled touring drummers. He played the run on his longtime Ludwig Classic Maple kit, the same drum brand he has used continuously since his 1996 Slayer debut. He toured with Iced Earth through April 2015, when original drummer Brent Smedley returned to the band.',
         albums: ['Iced Earth live touring catalogue — no studio album recorded during this touring period'],
         tours: ['Iced Earth World Tour 2013-2015', 'Slayer touring dates 2013 (brief return)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Bubinga (Dark Cherry Fade)',
-            details: 'Double 22"x20" bass drums, 12"x9"/13"x9" rack toms, 16"x14"/18"x15" floor toms',
-            notes: 'First documented switch to Tama, his first new drum brand since the Ludwig-to-DW change back in the late 1990s — a denser bubinga shell for Iced Earth\'s bigger, power-metal-scaled stage productions.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Ludwig Classic Maple',
+            details: 'Six-ply maple shells, double 22"x16" bass drums, 10"/12" rack toms, 14"/16" floor toms',
+            notes: 'His longtime Ludwig Classic Maple kit, unchanged since his 1996 Slayer debut, carried into Iced Earth\'s bigger, power-metal-scaled stage productions.',
+            change: null,
           },
           snare: {
-            item: 'Tama Starclassic 14"x6.5"',
-            details: 'Bubinga shell, matched to the kit',
-            notes: 'Switched brands alongside the full kit change for Iced Earth\'s touring production.',
-            change: CHANGE_TYPES.SWITCH,
+            item: '14"x6.5" Metal/Maple Snare',
+            details: 'Steel or maple shell, medium-bright tuning',
+            notes: 'The same Ludwig-matched snare carried over from his earlier touring years.',
+            change: null,
           },
           cymbals: {
             item: 'Sabian / Zildjian Professional Setup',
             details: '14" hi-hats, 16"/18" crashes, 20"/21" ride, 18" China',
-            notes: 'Cymbal brand relationship carried over unchanged even as the drum kit switched to Tama.',
+            notes: 'Cymbal brand relationship carried over unchanged.',
             change: null,
           },
           hardware: {
             item: 'Tama Iron Cobra Power Glide / Lever Glide Hi-Hat Stand',
             details: 'Single and double pedal configurations',
-            notes: 'Switched pedal and hardware brand to match the new Tama endorsement.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'His longtime DW/Tama Iron Cobra pedal setup, documented since 1996, carried into the Iced Earth run.',
+            change: null,
           },
           sticks: {
             item: 'Pro-Mark / Vater 5B',
@@ -20967,7 +20967,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Joined Iced Earth as touring drummer in late 2013, replacing Raphael Saini',
           'Briefly returned to Slayer\'s lineup in 2013 while also touring with Iced Earth',
-          'First documented switch to Tama, adopting a Starclassic Bubinga kit and Iron Cobra hardware',
+          'Continued playing his longtime Ludwig Classic Maple kit and Tama Iron Cobra pedals, both documented since 1996',
           'Toured with Iced Earth through April 2015, when Brent Smedley returned to the band',
         ],
 
@@ -20985,22 +20985,22 @@ export const DRUMMER_EVOLUTION = {
         years: '2015-Present',
         startYear: 2015,
         endYear: 2026,
-        description: 'Since leaving Iced Earth, Dette has continued as one of metal\'s busiest session and touring specialists — recording with Impellitteri, drumming for Meshiaak, continuing Anthrax fill-in duties for Charlie Benante through 2018, and stepping in for Volbeat on short-notice touring dates. His Tama Starclassic Bubinga setup, established during the Iced Earth years, has remained his working rig across this run of engagements — the same reliable, road-ready gear philosophy that has defined his entire career.',
+        description: 'Since leaving Iced Earth, Dette has continued as one of metal\'s busiest session and touring specialists — recording with Impellitteri, drumming for Meshiaak, continuing Anthrax fill-in duties for Charlie Benante through 2018, and stepping in for Volbeat on short-notice touring dates. His Ludwig Classic Maple kit, his only documented drum brand since 1996, has remained his working rig across this run of engagements — the same reliable, road-ready gear philosophy that has defined his entire career.',
         albums: ['Session and touring work with Impellitteri, Meshiaak, and Volbeat — no single studio album defines this period'],
         tours: ['Anthrax touring dates (fill-in, through 2018)', 'Volbeat touring dates (fill-in, 2022 and 2025)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Bubinga (Dark Cherry Fade)',
-            details: 'Double 22"x20" bass drums, 12"x9"/13"x9" rack toms, 16"x14"/18"x15" floor toms',
-            notes: 'Unchanged from his Iced Earth years — the setup he has carried across every subsequent session and fill-in engagement.',
+            item: 'Ludwig Classic Maple',
+            details: 'Six-ply maple shells, double 22"x16" bass drums, 10"/12" rack toms, 14"/16" floor toms',
+            notes: 'Unchanged since his 1996 Slayer debut — the same Ludwig kit he has carried across every subsequent session and fill-in engagement.',
             change: null,
           },
           snare: {
-            item: 'Tama Starclassic 14"x6.5"',
-            details: 'Bubinga shell',
-            notes: 'Maintained from the Iced Earth era as his current working snare.',
+            item: '14"x6.5" Metal/Maple Snare',
+            details: 'Steel or maple shell, medium-bright tuning',
+            notes: 'Maintained from his earlier touring years as his current working snare.',
             change: null,
           },
           cymbals: {
@@ -21012,7 +21012,7 @@ export const DRUMMER_EVOLUTION = {
           hardware: {
             item: 'Tama Iron Cobra Power Glide Pedal / Lever Glide Hi-Hat Stand',
             details: 'Single and double pedal configurations, plus a 1st Chair Wide-Rider throne',
-            notes: 'His current documented Tama hardware setup, unchanged since adopting the brand for Iced Earth.',
+            notes: 'His current documented DW/Tama Iron Cobra pedal setup, unchanged since 1996.',
             change: null,
           },
           sticks: {
@@ -21040,7 +21040,7 @@ export const DRUMMER_EVOLUTION = {
           'Drummed for Meshiaak (2013-2017)',
           'Continued fill-in duties for Charlie Benante with Anthrax through 2018',
           'Stepped in for Volbeat on short-notice touring dates in 2022 and 2025',
-          'Tama Starclassic Bubinga rig from the Iced Earth years remains his current setup',
+          'Ludwig Classic Maple kit, his documented drum brand since 1996, remains his current setup',
         ],
 
         quote: {
@@ -21067,16 +21067,16 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit does Jon Dette use now?',
-        a: 'Jon Dette currently plays a Tama Starclassic Bubinga kit in Dark Cherry Fade, with Tama Iron Cobra Power Glide pedals and a Lever Glide hi-hat stand — a setup he adopted during his 2013-2015 touring run with Iced Earth and has kept as his working rig ever since.',
+        a: 'Jon Dette currently plays a Ludwig Classic Maple kit, with DW/Tama Iron Cobra Power Glide pedals and a Lever Glide hi-hat stand — his documented setup dating back to his 1996 Slayer touring stint, carried through every subsequent band and fill-in engagement.',
       },
       {
         q: 'Did Jon Dette play with Iced Earth?',
-        a: 'Yes — Jon Dette joined Iced Earth as touring drummer in late 2013, replacing Raphael Saini, and toured with the band through April 2015 when original drummer Brent Smedley returned. His Iced Earth run marked his switch to a Tama Starclassic Bubinga kit.',
+        a: 'Yes — Jon Dette joined Iced Earth as touring drummer in late 2013, replacing Raphael Saini, and toured with the band through April 2015 when original drummer Brent Smedley returned. He played the run on his longtime Ludwig Classic Maple kit.',
       },
     ],
 
     metaTitle: 'Jon Dette Gear Evolution Timeline | Slayer, Testament & Iced Earth Drum Kit History',
-    metaDescription: 'Explore Jon Dette\'s complete drum gear evolution: the Ludwig Classic Maple kit from his 1996-1997 Slayer touring stint, the DW-based rig from his Testament touring years (1997-2012), the switch to Tama Starclassic Bubinga for his 2013-2015 Iced Earth run, and the setup he carries across his ongoing session and touring career.',
+    metaDescription: 'Explore Jon Dette\'s complete drum gear evolution: the Ludwig Classic Maple kit from his 1996-1997 Slayer touring stint, the DW-based rig from his Testament touring years (1997-2012), his 2013-2015 Iced Earth run, and the same Ludwig kit he carries across his ongoing session and touring career.',
   },
 
   // ==========================================

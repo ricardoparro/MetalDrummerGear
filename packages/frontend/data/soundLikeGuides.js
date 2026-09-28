@@ -4482,17 +4482,17 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
         description: "Nick ran a Zildjian A / A Custom setup on \"Rust in Peace\" (1990) — the bright, cutting tone that became a signature of the album's thrash attack. For \"Countdown to Extinction\" (1992) he switched to Paiste 2002 and Signature cymbals, matching the album's more melodic, arena-rock-oriented production."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 5000 Double Pedal',
-        description: "Nick used DW double pedals for their reliable spring tension and consistent feel. The DW 5000's chain drive gave him the direct response his precise thrash kick patterns demanded.",
-        alternative: "Pearl P-2002C Demon Drive or Tama Iron Cobra for similar chain-drive response"
+        brand: 'Tama',
+        model: 'Tama Iron Cobra Double Pedal',
+        description: "By \"Cryptic Writings\" (1997), Nick ran a Tama Iron Cobra double pedal, its chain drive giving him the direct, precise response his thrash kick patterns demanded. Earlier in his tenure he used a DW 5000 double pedal on \"Rust in Peace\" (1990), before transitioning through Tama Camco on \"Youthanasia\" (1994) to the Iron Cobra.",
+        alternative: "Pearl P-2002C Demon Drive or DW 5000 for similar chain-drive response"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth 5A',
-        specs: '5A length, .565" diameter, wood tip',
-        description: "Nick used standard 5A sticks — a versatile choice that gave him speed on fast passages and enough weight for powerful rimshots.",
-        alternative: "Vater 5A or Pro-Mark 5A for comparable weight and balance"
+        brand: 'Vater',
+        model: 'Vater Nick Menza Signature',
+        specs: 'Signature model',
+        description: "Nick used his own Vater Nick Menza Signature stick, in regular use by the \"Cryptic Writings\" (1997) sessions — a model built to his own weight and balance preferences for powerful rimshots at thrash tempos.",
+        alternative: "Vater 5A or Pro-Mark 5A for comparable weight and balance if the signature model is unavailable"
       },
       heads: {
         kick: 'Remo Powerstroke P4 Coated',

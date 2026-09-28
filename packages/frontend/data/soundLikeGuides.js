@@ -4495,10 +4495,10 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
         alternative: "Vater 5A or Pro-Mark 5A for comparable weight and balance"
       },
       heads: {
-        kick: 'Evans EQ3 Clear',
-        snare: 'Evans G1 Coated',
-        toms: 'Evans G2 Coated',
-        resonant: 'Evans G1 Clear'
+        kick: 'Remo Powerstroke P4 Coated',
+        snare: 'Remo Ambassador Coated',
+        toms: 'Remo Emperor Coated',
+        resonant: 'Remo Ambassador Clear'
       }
     },
     tuning: {

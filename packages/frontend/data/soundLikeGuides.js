@@ -5022,10 +5022,10 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
         alternative: "Vater 5B or Promark 5B for comparable weight"
       },
       heads: {
-        kick: 'Evans EQ3 Clear',
-        snare: 'Evans G2 Coated',
-        toms: 'Evans G2 Coated',
-        resonant: 'Evans G1 Clear'
+        kick: 'Remo Powerstroke P3 Clear',
+        snare: 'Remo Ambassador Coated',
+        toms: 'Remo Ambassador Coated',
+        resonant: 'Remo Ambassador Clear'
       }
     },
     tuning: {

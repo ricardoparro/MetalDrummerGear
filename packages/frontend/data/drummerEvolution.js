@@ -18035,9 +18035,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Pearl double pedal',
+            item: 'Axis A Longboard Double Pedal',
             details: 'Touring-grade double pedal',
-            notes: 'No significant change from the Control Denied era.',
+            notes: 'Axis endorsement since 1998; continued through the Iced Earth touring years.',
             change: null,
           },
           sticks: {
@@ -18101,9 +18101,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Pearl double pedal',
+            item: 'Axis A Longboard Double Pedal',
             details: 'Unchanged',
-            notes: 'No verified change from the Iced Earth era.',
+            notes: 'Axis endorsement since 1998, continued from the Iced Earth era.',
             change: null,
           },
           sticks: {

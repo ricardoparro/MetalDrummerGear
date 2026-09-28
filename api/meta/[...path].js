@@ -6791,12 +6791,20 @@ export function getMetaForPath(pathname) {
     const tier = getTempoTierBySlug(songsTempoTierMatch[1].toLowerCase());
     if (tier) {
       const songPageSlugs = new Set(getSongPageSlugs(Object.values(ALBUM_ARTICLES)));
-      const ssrLinks = _dedupeSsrLinksByHref(
-        tier.songs.filter(s => s.drummer && drummerSlugToName[s.drummer]).map(s => ({
+      // Issue #8294: this hub's articleSchema url already pointed qualifying
+      // songs at their /songs/<slug> detail page, but that's JSON-LD only —
+      // ssrLinks is what's actually crawlable, so those pages had no inbound
+      // crawl path from here and went discovered-not-indexed/unknown.
+      const ssrLinks = _dedupeSsrLinksByHref([
+        ...tier.songs.filter(s => s.drummer && drummerSlugToName[s.drummer]).map(s => ({
           href: `/drummer/${s.drummer}`,
           label: `${s.song} — ${s.band} (${s.bpm} BPM)`,
-        }))
-      );
+        })),
+        ...tier.songs.filter(s => songPageSlugs.has(s.slug)).map(s => ({
+          href: `/songs/${s.slug}`,
+          label: `${s.song} — ${s.band} (${s.bpm} BPM) full profile`,
+        })),
+      ]);
       const linkedDrummers = new Map();
       tier.songs.forEach(s => {
         if (s.drummer && drummerSlugToName[s.drummer] && !linkedDrummers.has(s.drummer)) {
@@ -6870,9 +6878,17 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: `${BASE_URL}/songs/drummer/${drummerSlug}`,
+        // Issue #8294: same gap as /songs/tempo/<tier> — this hub's articleSchema
+        // url already pointed qualifying songs at /songs/<slug>, but only in
+        // JSON-LD, not the crawlable ssrLinks, leaving those pages with no
+        // inbound crawl path from here.
         ssrLinks: [
           { href: '/songs', label: 'All Songs' },
           { href: `/drummer/${drummerSlug}`, label: `${drummerName} gear profile` },
+          ...songs.filter(s => songPageSlugs.has(s.slug)).map(s => ({
+            href: `/songs/${s.slug}`,
+            label: `${s.song} — ${s.band} (${s.bpm} BPM) full profile`,
+          })),
         ],
         tables: [{
           heading: `${drummerName} — Songs by BPM`,

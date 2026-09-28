@@ -5835,10 +5835,10 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
         alternative: "Vic Firth 5B or Promark 5B in hickory for comparable weight"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Ambassador Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans EQ3 Clear',
+        snare: 'Evans G1 Coated',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans G1 Clear'
       }
     },
     tuning: {

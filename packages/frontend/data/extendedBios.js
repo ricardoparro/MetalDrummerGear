@@ -2720,7 +2720,7 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
 - **Cymbals**: Meinl Byzance series (including Dual Hi-Hats, Extra Dry crashes, Sand rides)
 - **Hardware**: Tama Speed Cobra 910 double pedal
 - **Sticks**: Vic Firth Matt Garstka Signature
-- **Heads**: Evans
+- **Heads**: Remo (Ambassador Coated)
 
 **Setup Philosophy:**
 - Smaller drums for responsiveness and articulation
@@ -2754,7 +2754,7 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
           { q: 'What snare does Matt Garstka use?', a: 'Matt Garstka\'s snare is a DW Collector\'s Series Purpleheart model, part of the DW custom shop kit he switched to in September 2021.' },
           { q: 'What sticks does Matt Garstka use?', a: 'Matt Garstka uses Vic Firth Matt Garstka Signature drumsticks, his own signature model developed with Vic Firth.' },
           { q: 'What bass drum pedal does Matt Garstka use?', a: 'Matt Garstka drives his double bass patterns with a Tama Speed Cobra 910 double pedal.' },
-          { q: 'What drumheads does Matt Garstka use?', a: 'Matt Garstka uses Evans drumheads across his DW Collector\'s Series kit.' },
+          { q: 'What drumheads does Matt Garstka use?', a: 'Matt Garstka uses Remo Ambassador Coated drumheads across his DW Collector\'s Series kit.' },
           { q: 'What band is Matt Garstka in?', a: 'Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, appearing on The Joy of Motion (2014), The Madness of Many (2016), and Parrhesia (2022).' },
           { q: 'What hi-hats does Matt Garstka use?', a: 'Matt Garstka uses 15" Meinl Byzance Dual Hi-Hats for nuanced, washy articulation, mounted on his DW Collector\'s Series drum kit and drum set.' }
         ]

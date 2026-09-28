@@ -3266,6 +3266,19 @@ export function getMetaForPath(pathname) {
     cymbals: { href: '/cymbals/best-for-metal', label: 'Best Cymbals for Metal' },
     pedals: { href: '/pedals/best-for-metal', label: 'Best Bass Drum Pedals for Metal' },
   };
+  // Issue #1383 / #8261: hoisted above brandPageMatch (was declared down near
+  // the /gear/<brand> handler) so /brands/<slug> can also gate its /gear/<brand>
+  // link on this same whitelist — the /gear/<brand> handler below is unchanged.
+  const GEAR_BRAND_META = {
+    tama: { name: 'Tama', type: 'drum kits', tagline: 'Premier Japanese drum manufacturer used by Eloy Casagrande, Tomas Haake, and more.', drummers: ['eloy-casagrande', 'lars-ulrich'] },
+    pearl: { name: 'Pearl', type: 'drum kits', tagline: 'Pearl drums used by Joey Jordison, Gene Hoglan, and top metal drummers worldwide.', drummers: ['joey-jordison', 'gene-hoglan'] },
+    dw: { name: 'DW', type: 'drum kits', tagline: 'Drum Workshop (DW) kits used by Danny Carey, Mike Mangini, and legendary metal drummers.', drummers: ['navene-koperweis', 'hannes-grossmann'] },
+    ludwig: { name: 'Ludwig', type: 'drum kits', tagline: 'Ludwig drums — iconic brand used by John Bonham-influenced metal drummers.', drummers: ['bill-ward', 'art-cruz'] },
+    zildjian: { name: 'Zildjian', type: 'cymbals', tagline: 'Zildjian cymbals used by Lars Ulrich, Matt Greiner, and top metal drummers for 400+ years.', drummers: ['lars-ulrich', 'gavin-harrison'] },
+    paiste: { name: 'Paiste', type: 'cymbals', tagline: 'Paiste cymbals — Swiss precision used by Tomas Haake, Hellhammer, and extreme metal pros.', drummers: ['hellhammer', 'dave-lombardo'] },
+    meinl: { name: 'Meinl', type: 'cymbals', tagline: 'Meinl cymbals used by Matt Halpern, Gavin Harrison, and progressive metal elite.', drummers: ['matt-halpern', 'chris-adler'] },
+    sabian: { name: 'Sabian', type: 'cymbals', tagline: 'Sabian cymbals used by Neil Peart, Charlie Benante, and leading metal drummers.', drummers: ['gene-hoglan', 'tomas-haake'] },
+  };
   const brandPageMatch = path.match(/^\/brands\/([a-z0-9-]+)$/);
   if (brandPageMatch) {
     const brandSlug = brandPageMatch[1];
@@ -3303,6 +3316,10 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/brands/${brandSlug}`,
         ssrLinks: [
           { href: '/brands', label: 'Gear Brands' },
+          // Issue #8261: /gear/<brand> is the mid-level gear-category hub for
+          // this brand — gated on GEAR_BRAND_META so brands without a
+          // /gear/<brand> page never get a dead link.
+          ...(GEAR_BRAND_META[brandSlug] ? [{ href: `/gear/${brandSlug}`, label: `${brand.name} Gear Series` }] : []),
           ...brandDrummers.map(d => ({
             href: `/drummer/${_normalizeDrummerSlug(d.name)}`,
             label: `${d.name} — ${d.band}`,
@@ -5049,17 +5066,9 @@ export function getMetaForPath(pathname) {
   // gear.drums/gear.cymbals field in api/drummers/index.js — not eyeballed
   // from the tagline prose, which named a few drummers who don't actually
   // play that brand (e.g. Tomas Haake plays Sonor drums, not Tama).
-  const GEAR_BRAND_META = {
-    tama: { name: 'Tama', type: 'drum kits', tagline: 'Premier Japanese drum manufacturer used by Eloy Casagrande, Tomas Haake, and more.', drummers: ['eloy-casagrande', 'lars-ulrich'] },
-    pearl: { name: 'Pearl', type: 'drum kits', tagline: 'Pearl drums used by Joey Jordison, Gene Hoglan, and top metal drummers worldwide.', drummers: ['joey-jordison', 'gene-hoglan'] },
-    dw: { name: 'DW', type: 'drum kits', tagline: 'Drum Workshop (DW) kits used by Danny Carey, Mike Mangini, and legendary metal drummers.', drummers: ['navene-koperweis', 'hannes-grossmann'] },
-    ludwig: { name: 'Ludwig', type: 'drum kits', tagline: 'Ludwig drums — iconic brand used by John Bonham-influenced metal drummers.', drummers: ['bill-ward', 'art-cruz'] },
-    zildjian: { name: 'Zildjian', type: 'cymbals', tagline: 'Zildjian cymbals used by Lars Ulrich, Matt Greiner, and top metal drummers for 400+ years.', drummers: ['lars-ulrich', 'gavin-harrison'] },
-    paiste: { name: 'Paiste', type: 'cymbals', tagline: 'Paiste cymbals — Swiss precision used by Tomas Haake, Hellhammer, and extreme metal pros.', drummers: ['hellhammer', 'dave-lombardo'] },
-    meinl: { name: 'Meinl', type: 'cymbals', tagline: 'Meinl cymbals used by Matt Halpern, Gavin Harrison, and progressive metal elite.', drummers: ['matt-halpern', 'chris-adler'] },
-    sabian: { name: 'Sabian', type: 'cymbals', tagline: 'Sabian cymbals used by Neil Peart, Charlie Benante, and leading metal drummers.', drummers: ['gene-hoglan', 'tomas-haake'] },
-  };
-
+  // Issue #8261: GEAR_BRAND_META is declared up near brandPageMatch (above)
+  // so the /brands/<slug> ssrLinks can gate on it too — moving it here would
+  // put it in the temporal dead zone for that earlier block.
   const gearBrandMatch = path.match(/^\/gear\/([a-z]+)$/);
   if (gearBrandMatch) {
     const brandSlug = gearBrandMatch[1];

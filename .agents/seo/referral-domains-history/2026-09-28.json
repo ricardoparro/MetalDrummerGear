@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-09-28T16:08:20.564Z",
+  "windowDays": 90,
+  "totalDomains": 13,
+  "newDomainsThisRun": [
+    "qc.search.yahoo.com"
+  ],
+  "domains": [
+    {
+      "domain": "m.facebook.com",
+      "sessions": 12,
+      "users": 2
+    },
+    {
+      "domain": "ca.search.yahoo.com",
+      "sessions": 2,
+      "users": 2
+    },
+    {
+      "domain": "noai.duckduckgo.com",
+      "sessions": 2,
+      "users": 1
+    },
+    {
+      "domain": "cn.bing.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "doubao.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "hotbot.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "my.ubtsupport.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "odiasearch.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "qc.search.yahoo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "quark.cn",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "searchhippo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "uk.search.yahoo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "zapmeta.com",
+      "sessions": 1,
+      "users": 1
+    }
+  ],
+  "prevSnapshotFile": "2026-09-21.json"
+}

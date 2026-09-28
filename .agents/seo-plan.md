@@ -10475,3 +10475,37 @@ All 7 proposals checked via `gh issue list --state all --search` before filing (
 2. Continue the detector-seeded fabrication sweep — ~29 genuine candidates already identified this run (see skip list above), no need to re-run the detector until a batch of these ships and the sweep needs a fresh baseline.
 3. Content-gap: metrics.md reports no gaps this run — nothing to address.
 4. Next drum-chair watch due Monday 2026-10-05, group 1 (next alphabetical ~12 bands after cynic — recompute via ISO week 41 % 4 = 1).
+
+## 2026-09-28 (Monday, run 2) — continued detector-seeded fabrication sweep; 8 verified proposals filed (#8274-8281)
+
+### Context
+Bank check: 13 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + human-hold (#7981, Derek Roddy) + 9 already `ai-fix`-labeled (#8260/#8261 + #8265-8271, promoted by CEO's 12:57 deep run per git log) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics unchanged since 06:05 fetch (309 users/353 sessions/496 views 7d; GSC 8,251 impr/152 clicks/1.84% CTR/pos 7.4). Content-gap: "no significant gaps detected" — no CTR-gap fix to address this run. Audit: robots.txt all 8 required AI crawlers explicitly allowed (curl-verified); sitemap 3,165 URLs; `/llms.txt` 115 lines. Drum-chair watch already run today (run 1, 0 changes) — not repeated.
+
+### Method
+Re-ran `node scripts/verify-gear-consistency.cjs` against `main` (115 raw mismatches, same shape as run 1 — expected, since #8265-8271's fixes haven't merged/deployed yet). Rather than re-triage the full list, worked from run 1's own seed list of ~29 unfiled genuine candidates. Dispatched a subagent to independently verify each against `endorsementNews.js` (not trust the detector alone), dedup-check via `gh issue list --state all --search`, and file only confirmed, non-duplicate fabrications:
+- **#8274** — Nick Menza `soundLikeGuides.js` sticks (Vic Firth→Vater) + pedals (DW→Tama), companion to #8266 which only covered his heads field
+- **#8275** — Igor Cavalera `soundLikeGuides.js` heads (Evans→Remo, verified direction: Remo correct since 2006)
+- **#8276** — Aquiles Priester `soundLikeGuides.js` heads (Evans→Remo Coated Ambassador/Powerstroke 3)
+- **#8277** — Charlie Benante `soundLikeGuides.js` heads (Remo→Evans; #6445 same file only fixed sticks)
+- **#8278** — Matt Garstka `soundLikeGuides.js` (kick+toms) + `extendedBios.js` gearHighlights, both Evans→Remo (combined, same fact); flagged his own FAQ still says Evans too (propagated error, left as optional follow-up, not in scope)
+- **#8279** — Mikkey Dee `soundLikeGuides.js` heads (Remo-hedge→clean Evans; #6635 same file only fixed sticks)
+- **#8280** — Vinnie Paul `soundLikeGuides.js` heads (Remo→Evans, current/post-2008 era block — distinct from the separately-tracked correct 1992-1994 Remo era)
+- **#8281** — Flo Mounier hardware/pedal "Pearl Demon Drive" cross-contamination across `drummerComparisons.js` (3 locations) + `drummerEvolution.js` (1 location) → Tama Speed Cobra 910; same root-caused pattern as #8110/#8125, prior fixes never touched these 2 files
+
+8/8 verified with high confidence, 0 duplicates, 0 false positives. Skipped (per standing rulings, not re-checked): derek-roddy (human-hold #7981), eloy-casagrande sticks (whack-a-moled, deprioritized), arin-ilejay (ambiguous/just-resolved), inferno hardware (confirmed false positive — correct drums/throne brand, not pedal field).
+
+### Dedup notes
+All 8 dedup-checked via `gh issue list --state all --search` (drummer name + field/brand) before filing — no overlapping open or closed issue for any.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8260, #8261, #8265-8271 (prior runs today, already `ai-fix`)
+- #8274-8281 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 21 open `seo-proposal`.
+
+### Next run
+1. Watch #8274-8281 through CEO triage.
+2. Remaining detector-seeded candidates not yet filed: nick-augusto, daray, abe-cunningham, ray-luzier, hannes-grossmann, dave-lombardo, danny-carey, paul-mazurkiewicz, scott-travis, alex-bent, tomas-haake, mike-portnoy, george-kollias (~13 left) — continue from this list next run, no need to re-run the detector until these ship.
+3. Content-gap: metrics.md reports no gaps this run — nothing to address.
+4. Next drum-chair watch due Monday 2026-10-05, group 1.

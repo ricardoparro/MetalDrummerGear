@@ -2856,10 +2856,10 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
 **Current Setup:**
 - **Drums**: Pearl Reference Pure (custom black finish)
 - **Snare**: Pearl Daniel Erlandsson Signature 14"x5.5"
-- **Cymbals**: Paiste RUDE and 2002 Series (14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 22" RUDE Power Ride)
+- **Cymbals**: Sabian AAX/HHX Series (14" HHX Hi-Hats, 18"/19" AAX Crashes, 22" AAX Power Ride)
 - **Hardware**: Pearl Demon Drive double pedal
-- **Sticks**: Vic Firth American Classic 5B
-- **Heads**: Evans
+- **Sticks**: ProMark 5B
+- **Heads**: Remo
 
 **Setup Philosophy:**
 - Balanced between power and control

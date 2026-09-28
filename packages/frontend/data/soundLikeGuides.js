@@ -4495,10 +4495,10 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
         alternative: "Vater 5A or Pro-Mark 5A for comparable weight and balance"
       },
       heads: {
-        kick: 'Evans EQ3 Clear',
-        snare: 'Evans G1 Coated',
-        toms: 'Evans G2 Coated',
-        resonant: 'Evans G1 Clear'
+        kick: 'Remo Powerstroke P4 Coated',
+        snare: 'Remo Ambassador Coated',
+        toms: 'Remo Ambassador Coated',
+        resonant: 'Remo Ambassador Clear'
       }
     },
     tuning: {
@@ -4580,8 +4580,8 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
         cymbals: "Paiste 2002 Selection ($800)",
         pedals: "DW 5000 Double Pedal ($300)",
         sticks: "Vic Firth 5A ($10)",
-        heads: "Evans G2 Coated set ($150)",
-        notes: "Pearl Masters Maple Complete brings you into the sound territory of Nick's Countdown to Extinction-era kit. Upgrade heads to Evans G2 for the era-accurate tone."
+        heads: "Remo Ambassador Coated set ($150)",
+        notes: "Pearl Masters Maple Complete brings you into the sound territory of Nick's Countdown to Extinction-era kit. Upgrade heads to Remo Ambassador Coated for the era-accurate tone."
       },
       pro: {
         price: "$6,000+",
@@ -4590,7 +4590,7 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
         cymbals: "Paiste 2002 / Signature Custom Selection ($1,500+)",
         pedals: "DW 9000 Double Pedal ($700)",
         snare: "Ludwig Supraphonic or Pearl Sensitone Steel ($200-400)",
-        heads: "Full Evans setup ($200)",
+        heads: "Full Remo setup ($200)",
         notes: "Period-accurate birch/maple shells matching either the Rust in Peace-era Tama Artstar II or the Countdown to Extinction-era Pearl Masters, depending on which sound you're chasing."
       }
     },

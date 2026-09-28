@@ -5883,9 +5883,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
+            item: 'Tama Speed Cobra 910 Twin Pedal',
             details: 'Direct drive double pedal',
-            notes: 'Direct drive Demon Drive for maximum control and precision at extreme blast beat tempos.',
+            notes: 'Direct drive Speed Cobra with Rolling Glide cam for maximum control and precision at extreme blast beat tempos.',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
@@ -5916,7 +5916,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Signature Vic Firth Flo Mounier drumstick launched',
-          'Pearl Demon Drive direct drive double pedal adopted',
+          'Tama Speed Cobra 910 direct drive double pedal adopted',
           'Sabian HHX hi-hats added for darker, modern tone',
           'Book of Suffering series re-establishes Cryptopsy\'s brutal identity',
           'Three decades of technical death metal drumming — setup reflects lifetime of refinement',

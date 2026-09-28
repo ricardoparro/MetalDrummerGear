@@ -1027,3 +1027,37 @@ First run after 07:00 UTC (daily deep run). Metrics 12:57 UTC (323 users/369 ses
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-09-28 22:57 — Evening run: full L1/L2/L3 close-the-loop pass, 8 proposals verified+promoted (#8274-8281), 1 new L3 root-cause issue filed (#8294)
+
+### Context (≤3 lines)
+This run landed after all 3 weekly verifier refreshes completed today (GSC 16:35 UTC, LLM 15:47 UTC, indexation 17:45 UTC) — first run to close the loop on them since the 12:57 deep run deferred. Metrics 22:57 UTC (336 users/385 sessions/540 views 7d; GSC 9,937 impr/184 clicks/1.85% CTR/pos 7.4). At run start: eligible `ai-fix` backlog **0**, 8 fresh untriaged `seo-proposal` (#8274-8281, filed 14:46-14:48 UTC) continuing the soundLikeGuides.js heads-fabrication sweep + 1 Flo Mounier hardware fix.
+
+### Actions taken
+- **L2 milestone**: 59/100 queries now cite metalforge.io (up from 43/100 at the 07-28 freeze decision, 8/84 at the original minimum-pressure trigger). Cited count is now well clear of the forced-quota floor — L2 minimum-pressure rule (≥2 pattern issues/week) no longer applies; reverts to read-and-replicate cadence until it regresses.
+- **L1 wins (3)**: all continued conversions of already-tracked oscillators (mario-duplantier-drum-kit, best-drum-heads-for-metal, matt-garstka-drum-kit) — no new learned-patterns lines needed, existing convergence-window rule covers them.
+- **L1 losses (5)**: `danny carey drum set` re-confirmed exhausted (line 236). `best cymbal set for metal` + `flo mounier` both match the established impression-volume-dip/flat-position/unchanged-0-clicks pattern (line 191) — demand seasonality, not regression. `ben koller` position drop (7.4→11.2) checked for a code cause (git log, none found) — expected volatility for a class-2 bare-name query competing against Wikipedia at the page-1/2 boundary. `danny carey` (13 impr) too small to action. Zero issues filed.
+- **L1 CTR-gap (12 rows)**: delegated a subagent to individually verify the 3 newly-appearing rows rather than assume — `matt halpern`/`periphery drummer` (WebSearch confirmed Wikipedia/ModernDrummer/band-news SERP dominance, textbook class-2) and `kevin talley` (already ruled twice before, #5492/lines 133/163). `best metal drummers of all time` (new listicle shape) got a full 9-week `gsc-history` pull — 6/9 weeks convert 1 click, SERP saturated with high-authority listicles — ruled exhausted-content-lever, not fixable via copy. Rest matched already-ruled classes. Zero new CTR-gap issues; added matt-halpern/kevin-talley/periphery-drummer to the named class-2 list in learned-patterns.md so future runs don't re-derive.
+- **L3**: indexed share 95.4% (476/499), sentinel 96.0% (240/250) — healthy, flat. Root-caused (not pattern-matched) why 5 `discovered-not-indexed` + 3 `unknown` URLs are all `/songs/<slug>` pages: read `api/meta/[...path].js`'s `/songs`, `/songs/tempo/<tier>`, `/songs/drummer/<slug>` handlers directly — all three `ssrLinks` to drummer profiles/sibling hubs only, never to the individual song pages they list (the `articleSchema` JSON-LD `url` field is structured data, not a crawlable link — same trap as line 231). No prior issue covered this route family (#5024 was cymbals/pedals/snares, different pages). Filed **#8294** (additive ssrLinks only, freeze-compliant). The 5-URL stale-canonical duplicate cluster reappeared but all `last crawl` dates are 2-3 months old with no live canonical bug in current source — not re-investigated (line 111/240 self-heal pattern).
+- **SEO proposals**: delegated live-verification of all 8 fresh proposals to a subagent (grep against current source + endorsementNews.js for each, dupe-check). 5 clean (#8274/#8276/#8277/#8279/#8280) promoted as-is. 3 scope-gaps found and commented before promoting: #8275 (drummerEvolution.js:3449 has the same Igor Cavalera heads fabrication, untouched by the issue's scope), #8278 (extendedBios.js:2757 FAQ line has the same Matt Garstka fabrication, issue marked it optional — made mandatory), #8281 (drummerComparisons.js:3090 sticks + drummerEvolution.js:5898 heads both fabricated in the same sentences/objects the issue already touches for Flo Mounier — asked to fix in the same pass). All 8 promoted (`ai-fix`); backlog was 0, no gate to respect.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all unchanged, no re-spam.
+- **Atomic-split sweep**: all 20 open non-fresh `ai-fix` issues are the standing roster/band `hold` splits — correctly frozen under the freeze, nothing eligible.
+- **Starvation check**: post-triage backlog 9 (#8274-8281 + #8294), untriaged bank 0. Trigger shape technically met but confirmed via `gh run list --workflow=seo-agent.yml` the 14:41 UTC run produced this exact 8-proposal batch at the normal cadence — not a supply problem, same as every prior run this week. Not escalating.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 9 (#8274-8281 promoted, #8294 filed fresh)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, held #7981): 8 fresh → 0 untriaged
+- L2 cited count: 43/100 (07-28 baseline) → 59/100
+- Total ai-fix issues filed from L1/L2/L3 this run: 1 of the ≤3 cap (#8294)
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified against source, all promoted (3 with scope-gap comments). ✅ Founder ideas: inbox empty. ✅ GSC-gap: losses/CTR-gaps all individually reasoned, zero new issues (all matched ruled classes or demand-seasonality). ✅ L1/L2/L3: full close-the-loop pass completed, 1 root-caused issue filed, learned-patterns.md updated. ✅ L2 minimum-pressure: no longer active (59/100 clear of floor). ✅ Starvation: non-event, confirmed via run history. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8274-8281 + #8294 pick up via Roadie's night fleet.
+2. Confirm #8275/#8278/#8281's implementations cover the scope-gap comments, not just each issue's original file list.
+3. Next L1/L2/L3 weekly refresh due ~2026-10-05 — watch #8294's fix move the 5 discovered-not-indexed + 3 unknown song URLs toward indexed.
+4. #7981 (Derek Roddy snare conflict) still held pending external verification — no action this run.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

@@ -4628,9 +4628,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Meinl Byzance',
-            details: '14" Byzance Traditional hi-hats, 17"/18"/19" crashes, 21" Vintage ride, 18" China',
-            notes: 'Continued Meinl Byzance partnership — dark, complex, hand-hammered tones suit Gojira\'s dynamic range. The Vintage Ride\'s complex wash adds depth on groove-heavy passages.',
+            item: 'Zildjian K Custom / A Custom / Z Custom',
+            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
+            notes: 'Continued Zildjian K Custom, A Custom, and Z Custom mix — dark, complex tones suit Gojira\'s dynamic range on Magma and Fortitude.',
             change: null,
           },
           hardware: {

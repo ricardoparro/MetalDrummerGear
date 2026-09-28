@@ -5289,10 +5289,10 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
         alternative: "ProMark 5B for comparable weight and projection"
       },
       heads: {
-        kick: 'Evans',
-        snare: 'Evans',
-        toms: 'Evans',
-        resonant: 'Evans'
+        kick: 'Remo Powerstroke 3 Clear',
+        snare: 'Remo Coated Ambassador',
+        toms: 'Remo Coated Ambassador',
+        resonant: 'Remo Clear Ambassador'
       }
     },
     tuning: {

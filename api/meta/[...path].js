@@ -43,7 +43,7 @@ import { GEAR_INDEX, GEAR_INDEX_BRAND_LEVEL } from '../../packages/frontend/data
 // for this page family's bot-facing FAQPage instead of a hand-rolled 2-question
 // array. Only `.faq` is read from the result — never `.schema` (that bundles a
 // Product/AggregateOffer pointing at placeholder affiliate links; see affiliateLinks.js).
-import { getGearSeriesData } from '../../packages/frontend/data/gearSeriesPages.js';
+import { getGearSeriesData, getGearSeriesForBrand } from '../../packages/frontend/data/gearSeriesPages.js';
 // Issue #1387: gear item drummer links — authoritative drummerIds live in the gear API.
 import { gearItems } from '../gear/[slug].js';
 // Issue #4689: /gear-by-budget ssrLinks — cross-references gearItems' priceUsd
@@ -5087,6 +5087,12 @@ export function getMetaForPath(pathname) {
         ssrLinks: [
           { href: '/gear', label: 'All Gear' },
           ...brand.drummers.map(slug => ({ href: `/drummer/${slug}`, label: `${drummerSlugToName[slug] || slug} Profile` })),
+          // Issue #8260: link the hub down to its /gear/<brand>/<series>/drummers-using
+          // pages — these existed in the sitemap with zero inbound links before this fix.
+          ...getGearSeriesForBrand(brandSlug).map(({ seriesSlug, series, isBrandLevel }) => ({
+            href: `/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+            label: isBrandLevel ? `${brand.name} — Drummers Using It` : `${brand.name} ${series} — Drummers Using It`,
+          })),
         ],
         faqSchema: [
           {

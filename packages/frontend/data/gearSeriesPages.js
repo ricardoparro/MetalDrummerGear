@@ -355,6 +355,19 @@ export function getGearSeriesLinkForConfig(drummerSlug, configString) {
   return null;
 }
 
+// Issue #8260: per-brand series list for the /gear/<brand> hub page's ssrLinks —
+// reuses the same canonical slug map as getGearSeriesUrls() so hub links can
+// never point at a slug the sitemap wouldn't also generate.
+export function getGearSeriesForBrand(brandSlug) {
+  const seriesObj = getSlugMap()[brandSlug];
+  if (!seriesObj) return [];
+  return Object.entries(seriesObj).map(([seriesSlug, data]) => ({
+    seriesSlug,
+    series: data.series,
+    isBrandLevel: !!data.isBrandLevel,
+  }));
+}
+
 // All gear/series page paths — consumed by #997 (sitemap). Each brand/series
 // with ≥2 drummers yields one entry.
 export function getGearSeriesUrls() {

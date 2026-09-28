@@ -6365,10 +6365,10 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
         alternative: "Vic Firth 5B or 2B, or Vater 5B Manhattan for comparable weight and durability"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear or Evans EMAD2',
-        snare: 'Remo Ambassador Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear or ported front head (kick)'
+        kick: 'Evans EMAD2 Clear',
+        snare: 'Evans G2 Coated',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans G1 Clear'
       }
     },
     tuning: {

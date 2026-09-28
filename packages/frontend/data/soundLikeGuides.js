@@ -1915,10 +1915,10 @@ This guide explores how to develop Brann's flowing style while maintaining the g
         alternative: "Any quality 5B"
       },
       heads: {
-        kick: 'Remo Powerstroke P4 Coated',
-        snare: 'Remo Ambassador Coated',
-        toms: 'Remo Emperor Coated',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans EQ4 Coated',
+        snare: 'Evans G2 Coated',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans G2 Clear'
       }
     },
     tuning: {
@@ -3178,10 +3178,10 @@ Orbin left Periphery in February 2009, replaced by Matt Halpern, who has recorde
         alternative: "Pro-Mark TX5BW or Zildjian 5B"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Ambassador Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans EMAD Clear',
+        snare: 'Evans G2 Coated',
+        toms: 'Evans G2 Clear',
+        resonant: 'Evans G1 Clear'
       }
     },
     tuning: {
@@ -3438,10 +3438,10 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
         alternative: "Pro-Mark 5B or Zildjian 5B"
       },
       heads: {
-        kick: 'Remo Powerstroke P4 Clear',
-        snare: 'Remo Ambassador X Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans EQ4 Clear',
+        snare: 'Evans G2 Coated',
+        toms: 'Evans EC Reverse Dot Clear',
+        resonant: 'Evans G1 Clear'
       }
     },
     tuning: {
@@ -3706,10 +3706,10 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
         alternative: "Vic Firth 5B or 2B for similar weight and diameter"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Ambassador X Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans EQ3 Clear',
+        snare: 'Evans G2 Coated',
+        toms: 'Evans G2 Clear',
+        resonant: 'Evans G1 Clear'
       }
     },
     tuning: {

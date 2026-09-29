@@ -14865,17 +14865,17 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
         alternative: "Tama Iron Cobra or DW 5000 Double for a similarly fast, durable chain-drive alternative"
       },
       sticks: {
-        brand: 'Promark',
-        model: 'Promark 5B',
+        brand: 'Vic Firth',
+        model: 'American Classic Extreme 5B',
         specs: 'Hickory, medium-heavy weight',
         description: "A durable, medium-heavy stick that provides the mass needed for powerful accents against a full orchestra while remaining light enough for extended blast-beat passages.",
-        alternative: "Vic Firth American Classic 5B for a very similar weight and feel"
+        alternative: "Vater Power 5B for a similarly weighted, durable alternative"
       },
       heads: {
-        kick: 'Remo Emperor Clear',
-        snare: 'Remo Ambassador Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans Emperor Coated',
+        snare: 'Evans Ambassador Coated',
+        toms: 'Evans Emperor Coated',
+        resonant: 'Evans Ambassador Clear'
       }
     },
     tuning: {
@@ -14948,7 +14948,7 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
         kit: "Pearl Decade Maple ($1,900)",
         cymbals: "Paiste RUDE partial set ($900)",
         pedals: "Tama Iron Cobra Double ($350)",
-        sticks: "Promark 5B ($10)",
+        sticks: "Vater Power 5B ($10)",
         notes: "A partial RUDE set — hi-hats plus one crash — gets you close to Daray's bright, cutting cymbal voice."
       },
       pro: {
@@ -14957,7 +14957,7 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
         kit: "Pearl Reference Pure ($2,800+)",
         cymbals: "Full Paiste RUDE/2002 selection ($1,700+)",
         pedals: "Pearl Demon Drive Double Pedal ($600)",
-        heads: "Full Remo setup ($150)",
+        heads: "Full Evans setup ($150)",
         notes: "Touring-ready setup matching Daray's current Dimmu Borgir rig."
       }
     },

@@ -10603,3 +10603,31 @@ All 8 dedup-checked via `gh issue list --state all --search` before filing — n
 2. Reserve candidate not yet filed: igor-cavalera `drummerEvolution.js` current-era (`cavalera-2018-yamaha-zildjian`) heads field — re-verify era-block boundary against #6003's split logic before filing, don't file blind.
 3. Content-gap: metrics.md reports no gaps this run — nothing to address.
 4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-09-29 (Tuesday, evening run, metrics 22:45 UTC) — detector re-run mostly resolved by earlier runs today; 2 fresh proposals filed (#8345, #8346)
+
+### Context
+Bank check: 8 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + human-hold (#7981, Derek Roddy) + 4 already `ai-fix`-labeled (#8329-8332, promoted by CEO's 21:54 evening-review run) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 22:45 UTC (327 users/380 sessions/526 views 7d; GSC 9,950 impr/179 clicks/1.80% CTR/pos 7.5). Content-gap: "no significant gaps detected" — no CTR-gap fix to address. Audit: robots.txt all 8 required AI crawlers explicitly allowed (curl-verified, 13 `User-agent` blocks). Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Re-ran `node scripts/verify-gear-consistency.cjs` against `main` — 34 raw mismatches. Traced each hit's exact line number against the bodies of today's #8329/#8330/#8331/#8332 (filed by the 13:32 run): igor-cavalera heads (line 3449), eloy-casagrande heads (line 6132), daniel-erlandsson sticks (line 8351), and flo-mounier drums/sticks (`mario-duplantier-vs-flo-mounier`, line 3090) all matched those 4 open issues byte-exact — not yet merged/deployed, so still showing as "mismatches" against `main`. Confirmed 0 new work there. Remaining hits were all standing skip-rulings re-confirmed unchanged: derek-roddy (human-hold #7981), eloy-casagrande sticks ×8 locations (whack-a-mole, deprioritized), arin-ilejay drums/sticks/hardware (Mapex↔DW ambiguous-editorial-content ruling from the 09-28 run, resolved 2 days prior by #8176/#8177), inferno hardware (confirmed false positive, correct drums/throne brand not pedal field).
+
+Found and verified 2 genuinely fresh, unfiled candidates:
+- **tim-yeung heads** (`extendedBios.js:3496`) — `gearHighlights` prose block fabricates "Evans (EMAD or Genera series)"; `endorsementNews.js:2525` verifies Remo Powerstroke 3 since 2005. Distinct field from closed #6177 (drums/hardware)/#8166 (FAQ sticks size)/#6403 (soundLikeGuides.js pedal) — none touched this `gearHighlights` heads line. Filed **#8345**.
+- **bill-ward-vs-brann-dailor** (`drummerComparisons.js:3938`) — resolved the brann-dailor drummerComparisons.js:3938 3-field mismatch left INCONCLUSIVE by the 13:32 run's notes (needed diff inspection of #6704). Read #6704's full body: it fixed 3 *other* entries (`brann-dailor-vs-mario-duplantier`, `danny-carey-vs-brann-dailor`, `brann-dailor-vs-tomas-haake`) — none is `bill-ward-vs-brann-dailor`. Also found #7420 already touched this exact entry, but only for Bill Ward's own cymbals field (Paiste→Zildjian Avedis) — Brann Dailor's drums/hardware (fabricated DW, verified Tama) and sticks (fabricated Vic Firth, verified Vater) in the same `comparison.gear` string were untouched by either fix. Genuinely fresh gap in a 20+-issue-deep Brann Dailor fabrication history, verified against `endorsementNews.js:524`. Filed **#8346**.
+
+### Dedup notes
+Both dedup-checked via `gh issue list --state all --search` (drummer name + field/file/slug keywords) — #8345 checked against 20+ Tim Yeung hits, #8346 checked against 20+ Brann Dailor hits including full-body reads of #6704 and #7420 — no overlap with either's exact file+line+field combination.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8329-8332 (prior run today, already `ai-fix`)
+- #8345, #8346 (this run, 2 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 10 open `seo-proposal`.
+
+### Next run
+1. Watch #8345/#8346 through CEO triage.
+2. Detector-seeded fabrication sweep is now thin — only 2 fresh candidates surfaced this run vs. 4-8 in recent prior runs, and most standing skip-rulings (eloy-casagrande sticks, arin-ilejay, inferno) are stably re-confirmed rather than yielding new angles. Once #8329-8332/#8345/#8346 merge and deploy, re-run the detector fresh — if it drops below ~15 raw mismatches with no new genuine candidates, this vein is nearing exhausted and the next productive angle is likely a different bug class (per 08-24 run's note: JSON-LD-visibility-style code-change-driven gaps, not more manual sweeps of the same fact).
+3. Content-gap: metrics.md reports no gaps this run — nothing to address.
+4. Next drum-chair watch due Monday 2026-10-05, group 1.

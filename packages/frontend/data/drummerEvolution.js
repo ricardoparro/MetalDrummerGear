@@ -19267,7 +19267,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Remo standard package',
+            item: 'Evans EMAD / G2 Coated',
             details: 'Consistent configuration',
             notes: 'No significant change from the previous era.',
             change: null,

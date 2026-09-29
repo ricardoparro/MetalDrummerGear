@@ -15430,9 +15430,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Evans G2 Clear / EMAD',
+            item: 'Remo',
             details: 'Standard configuration',
-            notes: 'Durable, road-ready heads for underground touring.',
+            notes: 'Continued Remo endorsement dating back to 2016.',
             change: null,
           },
         },

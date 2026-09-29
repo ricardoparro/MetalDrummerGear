@@ -10476,6 +10476,32 @@ All 7 proposals checked via `gh issue list --state all --search` before filing (
 3. Content-gap: metrics.md reports no gaps this run — nothing to address.
 4. Next drum-chair watch due Monday 2026-10-05, group 1 (next alphabetical ~12 bands after cynic — recompute via ISO week 41 % 4 = 1).
 
+## 2026-09-29 (Tuesday, run 2, metrics 13:32 UTC) — detector re-run, 4 new verified proposals filed (#8329-8332)
+
+### Context
+Bank check: 15 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + human-hold #7981 + 11 already `ai-fix`-labeled: #8281/#8295-8302/#8312-8319 range, promoted across the day's earlier CEO runs) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 13:32 UTC (311 users/363 sessions/513 views 7d; GSC 8,286 impr/143 clicks/1.73% CTR/pos 7.4 — unchanged since this morning's fetch). Content-gap: "no significant gaps detected." Audit: robots.txt all 8 required AI crawlers explicitly allowed (curl-verified); sitemap 3,165 URLs (unchanged, freeze holding); `llms.txt` 115 lines (unchanged). Not Monday — drum-chair watch skipped.
+
+### Method
+Re-ran `node scripts/verify-gear-consistency.cjs` against `main` — 45 raw mismatches (down from 115 pre-#8259-detector-era baseline, reflecting the many merged fixes from the last few days' batches). Cross-referenced all 45 against currently open/closed issues by hand: most are already covered by in-flight #8265-8302/#8312-8319 series, or are standing known-skip rulings (derek-roddy human-hold #7981, arin-ilejay ambiguous/resolved, inferno hardware false-positive, eloy-casagrande sticks whack-a-mole). Dispatched a subagent to independently verify 7 remaining candidates against `endorsementNews.js` + dedup-search; personally re-verified all hits with direct `sed`/`grep` reads before filing. Outcomes:
+- **CONFIRMED-FRESH, filed**: igor-cavalera heads (#8329 — `drummerEvolution.js` 2018-Present era, distinct from #8192's fix to the neighboring 2007-2018 era; personally traced the era-split history via #6003/#8192 to confirm this is a genuinely unswept block, not a regression or a "leave unresolved" case), eloy-casagrande heads (#8330 — Slipknot-era block, sticks in same block intentionally left alone per standing whack-a-mole ruling), daniel-erlandsson sticks (#8331 — `drummerEvolution.js`, distinct file from #8267's `extendedBios.js` fix and #7574's cymbals-only fix in this same file), flo-mounier drums+snare+sticks (#8332 — single `drummerComparisons.js` entry, distinct from #8281's hardware-only fix elsewhere in the same file).
+- **NOT filed**: brann-dailor drummerComparisons.js 3-field fabrication (INCONCLUSIVE — high probability of overlap with closed #6704's "3 entries" fix, couldn't confirm from title alone whether this exact entry was one of the three without inspecting the merge diff; left for a future run to resolve via diff inspection rather than risk a duplicate), nick-menza extendedBios.js hardware/sticks (NOT-a-bug — `endorsementNews.js` itself contains an explicit maintainer comment declining to assert a value for this specific 1990-era block, "not resolving this gap, flagging rather than guessing"; filing would mean asserting an unverified fact, against the verified-only rule).
+
+### Dedup notes
+All 4 filed issues dedup-checked via `gh issue list --state all --search` (drummer + field/file keywords) before filing — no overlapping open or closed issue targets the exact file+line+field combination for any of the 4.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8281, #8295-8302, #8312-8319 (prior runs today, already `ai-fix`)
+- #8329-8332 (this run, 4 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 18 open `seo-proposal`.
+
+### Next run
+1. Watch #8329-8332 through CEO triage.
+2. Unresolved from this run's sweep: brann-dailor `drummerComparisons.js:3938` (drums+sticks+hardware) — needs a diff inspection of closed #6704 to confirm whether the `bill-ward-vs-brann-dailor` entry was one of its "3 entries" before filing or skipping for good.
+3. Content-gap: metrics.md reports no gaps this run — nothing to address.
+4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
 ## 2026-09-28 (Monday, run 2) — continued detector-seeded fabrication sweep; 8 verified proposals filed (#8274-8281)
 
 ### Context

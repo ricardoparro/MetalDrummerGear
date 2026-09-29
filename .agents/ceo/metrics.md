@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-29 12:10 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-29 13:32 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 310 |
-| Sessions | 361 |
+| Active users | 311 |
+| Sessions | 363 |
 | Page views | 513 |
-| Engagement rate | 65.10% |
-| Avg session (s) | 154 |
+| Engagement rate | 64.74% |
+| Avg session (s) | 153 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -23,7 +23,7 @@
 | /drummer/frost | 11 | 2 |
 | /drummer/bill-ward | 9 | 9 |
 | /quiz | 9 | 2 |
-| /drummer/eloy-casagrande | 8 | 5 |
+| /drummer/eloy-casagrande | 8 | 6 |
 | /drummer/hellhammer | 8 | 6 |
 | /techniques | 8 | 2 |
 | /drummer/jaska-raatikainen | 7 | 3 |
@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | Organic Search | 298 | 250 |
 | Direct | 45 | 44 |
-| Unassigned | 17 | 16 |
+| Unassigned | 18 | 17 |
 | Cross-network | 11 | 11 |
 | AI Assistant | 3 | 3 |
 

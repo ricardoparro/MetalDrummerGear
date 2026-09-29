@@ -4957,10 +4957,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
-            item: 'Evans G2 / EMAD2',
-            details: 'G2 clear on toms, EMAD2 on kick, UV1 on snare batter',
-            notes: 'EMAD2 for more focused kick attack on modern recordings. UV1 snare head for better ghost note definition as Cannibal Corpse\'s arrangements grew more sophisticated.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Powerstroke 3 on kick batter, Emperor Coated on toms and snare batter',
+            notes: 'Remo heads since the 1990s, unchanged across Paul\'s Cannibal Corpse career.',
+            change: null,
           },
           electronics: {
             item: 'ddrum Triggers + IEM System',

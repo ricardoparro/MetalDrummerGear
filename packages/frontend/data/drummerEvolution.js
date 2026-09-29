@@ -5895,9 +5895,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
-            item: 'Remo Emperor / Powerstroke 3',
+            item: 'Evans EC Reverse Dot',
             details: 'Consistent configuration across album cycles',
-            notes: 'Proven configuration maintained through 30+ years of extreme metal performance.',
+            notes: 'Evans EC Reverse Dot heads, endorsed since 2012, provide the durability and controlled attack needed for sustained extreme metal performance.',
             change: null,
           },
           electronics: {

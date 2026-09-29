@@ -10471,10 +10471,10 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
         alternative: "Promark 2B or Vater Power 5B"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Ambassador X Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans EQ3 Clear',
+        snare: 'Evans G2 Coated',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans G1 Clear'
       }
     },
     tuning: {

@@ -1814,9 +1814,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Evans G2 / EMAD2',
-            details: 'Consistent Evans configuration',
-            notes: 'Decade-plus with Evans.',
+            item: 'Remo Coated Emperor',
+            details: 'Consistent Remo configuration',
+            notes: 'Decade-plus with Remo, since the 2000s.',
             change: null,
           },
           electronics: {

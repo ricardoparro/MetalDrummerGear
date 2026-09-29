@@ -13885,9 +13885,9 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
         alternative: "Pearl Eliminator or DW 5000 for a similarly powerful feel"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth American Classic 5B',
-        specs: 'Hickory, wood tip',
+        brand: 'Pro-Mark',
+        model: 'Pro-Mark Nylon Tip 5B',
+        specs: 'Hickory, nylon tip',
         description: "A heavier 5B weight matched to Augusto's powerful, high-energy attack, providing durability across Trivium's demanding touring schedule.",
         alternative: "Vater Power 5B or Regal Tip 5B for a similar heavier feel"
       },
@@ -13987,7 +13987,7 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       },
       {
         question: "What gear did Nick Augusto use with Trivium?",
-        answer: "Augusto played a Pearl Reference Pure kit with a Pearl Reference 14\" x 6.5\" Brass snare, Sabian AAX Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks."
+        answer: "Augusto played a Pearl Reference Pure kit with a Pearl Reference 14\" x 6.5\" Brass snare, Sabian AAX Series cymbals, a Pearl Demon Drive double pedal, and Pro-Mark Nylon Tip 5B sticks."
       },
       {
         question: "Why did Nick Augusto leave Trivium?",

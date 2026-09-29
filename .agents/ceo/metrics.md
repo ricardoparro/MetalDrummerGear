@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-29 04:19 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-29 06:23 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 300 |
-| Sessions | 347 |
-| Page views | 474 |
-| Engagement rate | 56.48% |
-| Avg session (s) | 154 |
+| Active users | 302 |
+| Sessions | 352 |
+| Page views | 480 |
+| Engagement rate | 55.68% |
+| Avg session (s) | 159 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -24,25 +24,25 @@
 | /drummer/eloy-casagrande | 8 | 5 |
 | /drummer/hellhammer | 8 | 6 |
 | /techniques | 8 | 2 |
+| /drummer/bill-ward | 7 | 7 |
 | /drummer/jaska-raatikainen | 7 | 3 |
 | /bpm | 6 | 2 |
-| /drummer/bill-ward | 6 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 271 | 226 |
+| Organic Search | 275 | 227 |
+| Unassigned | 48 | 44 |
 | Direct | 44 | 43 |
-| Unassigned | 44 | 41 |
-| Cross-network | 15 | 15 |
+| Cross-network | 17 | 17 |
 | AI Assistant | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 136 | 113 |
+| United States | 140 | 115 |
+| Germany | 21 | 19 |
 | Australia | 20 | 19 |
-| Germany | 20 | 19 |
 | United Kingdom | 20 | 8 |
 | Canada | 18 | 16 |
 | China | 16 | 16 |

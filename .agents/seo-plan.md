@@ -10543,3 +10543,37 @@ All 8 dedup-checked via `gh issue list --state all --search "<drummer> <field>"`
 2. Remaining detector-seeded candidates not yet filed (all confirmed genuine, same `drummerEvolution.js` Evans↔Remo heads shape): danny-carey, paul-mazurkiewicz, scott-travis, alex-bent, tomas-haake — file next run, no need to re-verify, already confirmed byte-exact this run.
 3. Content-gap: metrics.md reports no gaps this run — nothing to address.
 4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-09-29 (Tuesday, run 1, metrics 06:23 UTC) — cleared held-back candidates + 3 new; 8 verified proposals filed (#8312-8319)
+
+### Context
+Bank check: 13 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + human-hold #7981 + 9 already `ai-fix`-labeled: #8281 + #8295-8302, all promoted by CEO's 04:19 UTC cheap-pulse run per decisions-log) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 06:23 UTC (302 users/352 sessions/480 views 7d; GSC 8,286 impr/143 clicks/1.73% CTR/pos 7.4). Content-gap: "no significant gaps detected" — no CTR-gap fix to address. Audit: robots.txt all 8 required AI crawlers explicitly allowed (curl-verified); sitemap 3,165 URLs (unchanged, freeze holding); `llms.txt` 115 lines (unchanged). Not Monday — drum-chair watch skipped this run (next due 2026-10-05).
+
+### Method
+Dispatched a subagent to re-verify (not trust) the 5 candidates held back at the end of the 2026-09-28 run 3 log (danny-carey, paul-mazurkiewicz, scott-travis, alex-bent, tomas-haake — all claimed "confirmed genuine, drummerEvolution.js heads Evans-vs-Remo shape") plus find 2-3 new candidates via a fresh `verify-gear-consistency.cjs` pass. All 5 held-back candidates confirmed; subagent found 3 new (brann-dailor, travis-orbin, flo-mounier — note: these 3 run the opposite direction, Remo-fabricated-as-wrong-brand or vice versa, not always Evans→Remo). Personally re-verified all 8 line numbers via direct `sed`/`grep` against both `drummerEvolution.js` and `endorsementNews.js` before writing issue bodies (including resolving an ambiguity flag on alex-bent's ground truth — confirmed present at `endorsementNews.js:3002`). Filed all 8:
+- **#8312** — Danny Carey `carey-2019-fear-inoculum` era heads fabricated Evans → verified Remo since 2000s
+- **#8313** — Paul Mazurkiewicz `paul-2012-torture-present` era heads fabricated Evans → verified Remo Powerstroke 3/Emperor Coated since 1990s (distinct field from #7994's hardware fix, same file)
+- **#8314** — Scott Travis `scott-travis-2018-ddrum-firepower` era heads fabricated Evans → verified Remo since 1990
+- **#8315** — Alex Bent `alex-bent-2025-post-trivium` era heads fabricated Evans → verified Remo since 2016 (distinct file from #6873's albumArticles.js/licks.js fix)
+- **#8316** — Tomas Haake `haake-2022-immutable` era heads fabricated Evans → verified Remo Coated Emperor since 2000s (gap left by #8196, which fixed a different 2005-2007 era block)
+- **#8317** — Brann Dailor `dailor-2021-hushed-grim` era heads fabricated Remo → verified Evans G2 Clear since 2000s (reverse-direction fabrication; gap left by #7569/#6779/#6704)
+- **#8318** — Travis Orbin `travis-orbin-2016-solo-playthroughs` era heads fabricated Remo → verified Evans EMAD/G2 Coated since 2010 (first issue ever filed for this drummer)
+- **#8319** — Flo Mounier `flo-2008-unspoken` era heads fabricated Remo → verified Evans EC Reverse Dot since 2012 (distinct field from #8281's open hardware fix, same file)
+
+All 8 verified with exact line numbers against live file content, 0 duplicates (checked via `gh issue list --state all --search "<drummer> heads drummerEvolution"` per drummer), 0 false positives, freeze-compliant (text-only corrections on existing pages, zero new URLs). One held-in-reserve candidate not filed: igor-cavalera (subagent flagged elevated risk — 3+ prior nuanced era-split fixes in this exact file/drummer, recommend a dedicated re-check next run rather than filing blind).
+
+### Dedup notes
+All 8 dedup-checked via `gh issue list --state all --search` before filing — no overlapping open or closed issue targets the exact file+field+era-block combination for any of the 8.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8281, #8295-8302 (prior runs, already `ai-fix`)
+- #8312-8319 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 21 open `seo-proposal`.
+
+### Next run
+1. Watch #8312-8319 through CEO triage.
+2. Reserve candidate not yet filed: igor-cavalera `drummerEvolution.js` current-era (`cavalera-2018-yamaha-zildjian`) heads field — re-verify era-block boundary against #6003's split logic before filing, don't file blind.
+3. Content-gap: metrics.md reports no gaps this run — nothing to address.
+4. Next drum-chair watch due Monday 2026-10-05, group 1.

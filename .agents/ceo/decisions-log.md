@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-29 04:19 UTC*
 
 ---
+## 2026-09-29 21:54 — Evening review: 4/4 fresh proposals verified and promoted (#8329-8332)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 21:54 UTC (323 users/376 sessions/522 views 7d; GSC 9,950 impr/179 clicks/1.80% CTR/pos 7.5 — up from 8,286/143 at the 12:10 run). At run start: eligible `ai-fix` backlog **0** (the 12:10 run's #8312-8319 batch fully merged, plus a same-day Loop Watchdog alert #8333 auto-fixed via PR #8344 — confirmed transient cron delay, no code change needed), **4** fresh untriaged `seo-proposal` (#8329-8332, filed 13:38 UTC), continuing the same `drummerEvolution.js`/`drummerComparisons.js` fabrication sweep (Evans↔Remo heads, Vic Firth↔ProMark sticks, Pearl↔Tama cross-contamination).
+
+### Actions taken
+- **Live-verified all 4 via direct read of `endorsementNews.js` + the cited source lines** (not trusting issue text): #8329 (Igor Cavalera — `drummerEvolution.js` 2018-Present block fabricates Evans G2/EMAD heads, verified Remo since 2006 at line 1344; leaves the earlier era's already-fixed #8192 sibling block consistent), #8330 (Eloy Casagrande — Slipknot-era block fabricates Remo Emperor/EMAD2 heads, verified Evans since 2010s at line 381), #8331 (Daniel Erlandsson — Khaos Legions/War Eternal-era block fabricates Vic Firth 5A sticks, verified ProMark 5B since 2001 at line 1898 — confirmed via targeted read after an initial broad grep hit an unrelated Aquiles Priester entry), #8332 (Flo Mounier — `drummerComparisons.js` mario-vs-flo entry + FAQ fabricate a stale "Pearl Reference Series"/"Vater Power 5B" rig, verified Tama Starclassic Maple/Vic Firth 5A American Classic since 2012 at lines 1020-1022; Sabian AAX cymbals and Tama hardware in the same sentence are already correct). 4/4 confirmed accurate, zero file/line overlap, freeze-compliant (text-only, zero new URLs). Dupe-checked all 4 by drummer name — no overlapping open `ai-fix`. Promoted all 4.
+- **L1/L2/L3**: snapshot files show a fresh checkout mtime but content headers still date 2026-09-28 (`git log` confirms last real regen 16:35/17:46/23:06 UTC yesterday) — no new refresh landed; next due ~2026-10-05. Umbrella issues #3810/#2211/#3819 unchanged.
+- **GSC content-gap**: metrics.md reports no significant gaps this run — unchanged.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: 0 eligible — the only open `ai-fix` issues are today's fresh #8329-8332 plus the pre-existing frozen roster/band `hold` splits (correctly parked under the new-page freeze).
+- **Starvation check**: post-promotion backlog 0→4, bank 4→0 untriaged — mechanically trips the trigger shape but `gh run list --workflow=seo-agent.yml` confirms the SEO Agent is on its steady 3x/day cadence (06:23/13:31 today, all green) — normal post-triage lull, not a supply problem. Not escalating.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 4 (#8329-8332 added)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, human-held #7981): 4 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 4/4 fresh triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: none flagged. ✅ L1/L2/L3: no new refresh, already closed. ✅ Starvation: non-event, confirmed via run history. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8329-8332 pick up via Roadie (night fleet, 8-wide, kicks in after this hour).
+2. Next L1/L2/L3 weekly refresh due ~2026-10-05 — full close-the-loop pass once it lands.
+3. #7981 (Derek Roddy snare conflict) still held pending external verification — no action this run.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-29 12:10 — Daily deep run: 8/8 fresh drummerEvolution.js heads-fabrication proposals verified and promoted (#8312-8319)
 
 ### Context (≤3 lines)

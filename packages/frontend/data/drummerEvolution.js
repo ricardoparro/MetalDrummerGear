@@ -6129,8 +6129,8 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
-            item: 'Remo Emperor / EMAD2',
-            details: 'Emperor on toms, EMAD2 on kick',
+            item: 'Evans G2 / EMAD2',
+            details: 'G2 on toms, EMAD2 on kick',
             notes: 'EMAD2 for tighter, more defined low-end in Slipknot\'s dense arena mix.',
             change: CHANGE_TYPES.UPGRADE,
           },

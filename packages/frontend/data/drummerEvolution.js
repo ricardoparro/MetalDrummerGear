@@ -2389,9 +2389,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Remo Coated Ambassador / Fiberskyn',
-            details: 'Consistent warm head combination',
-            notes: 'A warm head combination that has defined Dailor\'s tone for 15+ years.',
+            item: 'Evans G2 Clear',
+            details: 'Consistent head choice',
+            notes: 'Evans G2 Clear heads have defined Dailor\'s tone since the 2000s.',
             change: null,
           },
           electronics: {

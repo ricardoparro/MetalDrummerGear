@@ -15602,7 +15602,7 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
       },
       heads: {
         kick: 'Evans EMAD2 (batter), Evans EQ3 Resonant (ported)',
-        snare: 'Remo Coated Emperor (batter), Remo Hazy Ambassador (resonant)',
+        snare: 'Evans EC2 Coated (batter), Evans Hazy 300 (resonant)',
         toms: 'Evans EC2 Coated (batter), Evans G1 Clear (resonant)',
         resonant: 'Evans G1 Clear'
       }

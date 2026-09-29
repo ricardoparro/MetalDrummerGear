@@ -15347,11 +15347,11 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
         alternative: "DW 5000 or Pearl Eliminator for similarly smooth, controllable action."
       },
       sticks: {
-        brand: 'Zildjian',
-        model: 'Zildjian Abe Cunningham Artist Series',
-        specs: 'Balanced weight, custom tip shape',
-        description: "Cunningham's signature stick balances weight for groove playing with enough heft for power when needed, with a custom tip shape tuned to his preferred cymbal articulation.",
-        alternative: "Vic Firth American Classic 5A for similarly balanced weight and rebound."
+        brand: 'Pro-Mark',
+        model: 'Pro-Mark (specific model unverified)',
+        specs: 'Hickory',
+        description: "Cunningham has endorsed Pro-Mark since 1997; the specific model has not been independently verified.",
+        alternative: "Vic Firth American Classic 5A for a comparable weight and feel."
       },
       heads: {
         kick: 'Remo Powerstroke P3 (batter)',

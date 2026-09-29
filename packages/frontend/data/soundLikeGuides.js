@@ -7690,7 +7690,7 @@ This guide covers Grossmann's technique in depth — classical influences, open-
       },
       heads: {
         kick: 'Evans EQ3 Clear',
-        snare: 'Remo Emperor Coated',
+        snare: 'Evans G2 Coated',
         toms: 'Evans G2 Clear',
         resonant: 'Evans G1 Clear'
       }

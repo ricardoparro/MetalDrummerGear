@@ -8348,9 +8348,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           sticks: {
-            item: 'Vic Firth 5A',
-            details: 'Continued hickory 5A',
-            notes: 'Consistent stick choice for the Reference Pure era.',
+            item: 'ProMark 5B',
+            details: 'Continued hickory 5B',
+            notes: 'Consistent ProMark 5B stick choice, endorsed since 2001, continued through the Reference Pure era.',
             change: null,
           },
           heads: {

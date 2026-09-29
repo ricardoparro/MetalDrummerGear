@@ -3741,9 +3741,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Evans G2 / EMAD2',
-            details: 'G2 on toms, EMAD2 on kicks',
-            notes: 'EMAD2 for tighter low-end kick response across complex bass drum patterns.',
+            item: 'Remo',
+            details: 'Remo drumheads',
+            notes: 'Longtime Remo endorser since the 2000s, maintained through the Fear Inoculum era.',
             change: CHANGE_TYPES.UPGRADE,
           },
           electronics: {

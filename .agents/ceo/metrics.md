@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-28 23:46 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-29 04:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,84 +8,84 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 337 |
-| Sessions | 386 |
-| Page views | 541 |
-| Engagement rate | 58.03% |
-| Avg session (s) | 148 |
+| Active users | 300 |
+| Sessions | 347 |
+| Page views | 474 |
+| Engagement rate | 56.48% |
+| Avg session (s) | 154 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /bpm | 18 | 3 |
+| / | 17 | 13 |
 | /drummer/mario-duplantier | 16 | 13 |
-| / | 15 | 12 |
 | /drummers | 14 | 4 |
-| /drummer/frost | 12 | 3 |
+| /drummer/frost | 10 | 2 |
 | /drummer/eloy-casagrande | 8 | 5 |
 | /drummer/hellhammer | 8 | 6 |
-| /drummer/jaska-raatikainen | 8 | 4 |
 | /techniques | 8 | 2 |
-| /drummer/bill-ward | 7 | 7 |
+| /drummer/jaska-raatikainen | 7 | 3 |
+| /bpm | 6 | 2 |
+| /drummer/bill-ward | 6 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 305 | 259 |
-| Direct | 52 | 51 |
-| Unassigned | 39 | 36 |
-| Cross-network | 13 | 13 |
+| Organic Search | 271 | 226 |
+| Direct | 44 | 43 |
+| Unassigned | 44 | 41 |
+| Cross-network | 15 | 15 |
 | AI Assistant | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 148 | 126 |
-| United Kingdom | 25 | 12 |
-| Germany | 22 | 20 |
+| United States | 136 | 113 |
 | Australia | 20 | 19 |
-| China | 18 | 18 |
-| Canada | 17 | 15 |
-| Singapore | 11 | 11 |
-| Finland | 8 | 7 |
-| France | 8 | 8 |
-| Spain | 8 | 6 |
+| Germany | 20 | 19 |
+| United Kingdom | 20 | 8 |
+| Canada | 18 | 16 |
+| China | 16 | 16 |
+| Singapore | 9 | 9 |
+| France | 7 | 7 |
+| Spain | 7 | 5 |
+| Sweden | 7 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 9,937 |
-| Clicks | 184 |
-| CTR | 1.85% |
+| Impressions | 8,286 |
+| Clicks | 143 |
+| CTR | 1.73% |
 | Avg position | 7.4 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier drum kit | 97 | 3 | 3.09% | 7.0 |
+| mario duplantier drum kit | 88 | 3 | 3.41% | 7.0 |
 | mario duplantier cymbal setup | 7 | 2 | 28.57% | 4.3 |
-| arin illejay | 13 | 1 | 7.69% | 11.5 |
-| best death metal drummers | 6 | 1 | 16.67% | 7.2 |
-| best drum heads for metal | 18 | 1 | 5.56% | 10.6 |
+| arin illejay | 11 | 1 | 9.09% | 11.4 |
+| best death metal drummers | 5 | 1 | 20.00% | 6.4 |
+| best drum heads for metal | 14 | 1 | 7.14% | 9.6 |
 | best extreme metal drummers | 3 | 1 | 33.33% | 3.3 |
 | best nu metal drummers | 1 | 1 | 100.00% | 7.0 |
-| danny carey drum set | 46 | 1 | 2.17% | 11.2 |
+| danny carey drum set | 37 | 1 | 2.70% | 11.6 |
 | eloy casagrande bill ward | 1 | 1 | 100.00% | 14.0 |
 | eloy casagrande drumkit | 1 | 1 | 100.00% | 3.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,735 | 70 | 1.87% | 7.6 |
-| aus | 407 | 15 | 3.69% | 7.8 |
-| deu | 340 | 8 | 2.35% | 6.7 |
-| can | 555 | 7 | 1.26% | 8.2 |
-| fin | 152 | 6 | 3.95% | 6.8 |
-| esp | 100 | 5 | 5.00% | 6.8 |
-| gbr | 606 | 5 | 0.83% | 8.3 |
-| ita | 154 | 4 | 2.60% | 6.9 |
-| pol | 143 | 4 | 2.80% | 5.8 |
-| bel | 58 | 3 | 5.17% | 6.5 |
+| usa | 3,117 | 58 | 1.86% | 7.7 |
+| aus | 346 | 14 | 4.05% | 7.7 |
+| deu | 277 | 8 | 2.89% | 6.5 |
+| can | 465 | 7 | 1.51% | 8.2 |
+| esp | 82 | 4 | 4.88% | 7.3 |
+| fin | 118 | 4 | 3.39% | 6.7 |
+| ita | 129 | 4 | 3.10% | 6.8 |
+| bel | 49 | 3 | 6.12% | 6.6 |
+| cze | 50 | 3 | 6.00% | 7.7 |
+| gbr | 511 | 3 | 0.59% | 8.1 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

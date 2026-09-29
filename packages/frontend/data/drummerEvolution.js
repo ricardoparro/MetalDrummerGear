@@ -3446,10 +3446,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Evans G2 / EMAD',
-            details: 'G2 on toms, EMAD on bass drums',
-            notes: 'Evans for the focused, punchy sound of modern extreme metal',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Remo',
+            details: 'Continued Remo endorsement since 2006',
+            notes: 'Remo for the focused, punchy sound of modern extreme metal',
+            change: null,
           },
         },
 

@@ -1209,9 +1209,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Evans G2 / EMAD2',
-            details: 'Consistent Evans setup',
-            notes: 'Evans throughout all post-DT projects.',
+            item: 'Remo Emperor Coated / Ambassador',
+            details: 'Consistent Remo setup',
+            notes: 'Remo throughout all post-DT projects.',
             change: null,
           },
           electronics: {

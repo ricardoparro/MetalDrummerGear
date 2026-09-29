@@ -6963,7 +6963,7 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
 - **Snare**: Pearl Reference 14"x6.5" Brass
 - **Cymbals**: Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Hardware**: Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
-- **Sticks**: Vic Firth American Classic 5B
+- **Sticks**: Pro-Mark Nylon Tip 5B
 - **Heads**: Evans
 
 **Setup Characteristics:**
@@ -6994,7 +6994,7 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
           { q: 'What snare does Nick Augusto use?', a: 'Augusto plays a Pearl Reference 14"x6.5" Brass snare, chosen for the sharp, cutting crack needed to punch through Trivium\'s dense thrash-metalcore guitar work.' },
           { q: 'What cymbals does Nick Augusto play?', a: 'Nick Augusto\'s cymbal setup is Sabian AAX Series: 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.' },
           { q: 'What bass drum pedal does Nick Augusto use?', a: 'Augusto drives his speed-focused double bass work with a Pearl Demon Drive Double Pedal, mounted alongside a Pearl D-2000 Throne.' },
-          { q: 'What sticks does Nick Augusto use?', a: 'Nick Augusto plays Vic Firth American Classic 5B sticks, paired with Evans drumheads.' },
+          { q: 'What sticks does Nick Augusto use?', a: 'Nick Augusto plays Pro-Mark Nylon Tip 5B sticks, paired with Evans drumheads.' },
           { q: 'Why did Nick Augusto leave Trivium?', a: 'Nick parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro.' }
         ]
       },

@@ -13874,9 +13874,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           heads: {
-            item: 'Evans EMAD2 Clear / EC2 Clear / Heavyweight',
-            details: 'EMAD2 kick batter, EC2 tom batter, Heavyweight snare batter',
-            notes: 'Upgraded Evans line for the modern, controlled attack Firepower\'s production demanded.',
+            item: 'Remo',
+            details: 'Remo drumheads',
+            notes: 'Long-time Remo endorser since 1990, carrying the relationship through Firepower and beyond.',
             change: CHANGE_TYPES.UPGRADE,
           },
         },

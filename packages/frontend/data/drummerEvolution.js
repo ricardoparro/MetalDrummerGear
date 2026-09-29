@@ -5657,8 +5657,8 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           heads: {
-            item: 'Remo Emperor / Powerstroke 3',
-            details: 'Consistent Emperor/Powerstroke configuration',
+            item: 'Evans G2 Coated / EMAD',
+            details: 'Consistent double-ply G2 (toms) / EMAD (kick) configuration',
             notes: 'Decade-plus proven configuration for Nile\'s demanding live environment.',
             change: null,
           },

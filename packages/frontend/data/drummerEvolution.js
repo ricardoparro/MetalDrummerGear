@@ -2696,19 +2696,19 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Evans UV1 / EMAD',
-            details: 'Modern Evans technology',
-            notes: 'Latest head technology',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Remo Emperor Coated / Ambassador',
+            details: 'Long-running Remo head setup',
+            notes: 'Remo endorser since the 1980s',
+            change: null,
           },
         },
-        
+
         estimatedCost: {
           original: 25000,
           inflationAdjusted: 25000,
           currency: 'USD',
         },
-        
+
         keyChanges: [
           'Left Slayer again (2013)',
           'Continued longtime Tama/Paiste endorsements',

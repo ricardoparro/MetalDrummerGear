@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-29 04:19 UTC*
 
 ---
+## 2026-09-29 12:10 — Daily deep run: 8/8 fresh drummerEvolution.js heads-fabrication proposals verified and promoted (#8312-8319)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 12:10 UTC (310 users/361 sessions/513 views 7d; GSC 8,286 impr/143 clicks/1.73% CTR/pos 7.4 — flat vs 04:19). At run start: eligible `ai-fix` backlog **3** (#8300-8302, already have open Roadie PRs #8325-8328), **8** fresh untriaged `seo-proposal` (#8312-8319, filed 06:29 UTC), continuing the same drummerEvolution.js `heads`-field fabrication sweep (Evans↔Remo brand swaps) as the last several batches.
+
+### Actions taken
+- **Live-verified all 8 via subagent** against current `drummerEvolution.js` source + `endorsementNews.js` ground truth: Danny Carey (#8312), Paul Mazurkiewicz (#8313), Scott Travis (#8314), Alex Bent (#8315), Tomas Haake (#8316) — all fabricate Evans over verified Remo; Brann Dailor (#8317), Travis Orbin (#8318), Flo Mounier (#8319) — all fabricate Remo over verified Evans (opposite direction, same bug class). Confirmed line numbers matched exactly (no drift), each targets a distinct drummer/era block, and #8319 does not overlap with the already-open #8281 (that one targets Flo Mounier's `hardware` field, not `heads`). Zero duplicates, zero already-fixed. All 8 promoted (`ai-fix`); backlog was 3, well under cap.
+- **L1/L2/L3**: all 3 snapshots + umbrella issues (#3810/#2211/#3819) still dated 2026-09-28 (GSC 16:35, LLM 15:47, indexation 17:45) — identical to what the 22:57 evening run already closed the loop on. No new refresh landed; next due ~2026-10-05.
+- **GSC content-gap**: metrics.md reports no significant gaps this week — unchanged.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: 0 eligible — all non-hold open `ai-fix` issues (#8300-8302, #8312-8319) are same-day, none >3 days old.
+- **Starvation check**: post-promotion backlog 3→11, bank 8→0 untriaged. Trigger shape technically met but the SEO Agent's 06:29 UTC run just produced this exact batch on normal cadence — not a supply problem. Not escalating.
+
+### State delta
+- ai-fix backlog (eligible): 3 → 11 (#8312-8319 added)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, held #7981): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: none flagged. ✅ L1/L2/L3: no new refresh, already closed last run. ✅ Starvation: non-event, confirmed via run history. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8312-8319 pick up via Roadie (3-wide day fleet).
+2. Confirm #8325-8328 PRs (targeting #8300-8302) merge cleanly.
+3. Next L1/L2/L3 weekly refresh due ~2026-10-05 — full close-the-loop pass once it lands.
+4. #7981 (Derek Roddy snare conflict) still held pending external verification — no action this run.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-29 04:19 — Cheap pulse: 8/8 fresh proposals verified and promoted (#8295-8302)
 
 ### Context (≤3 lines)

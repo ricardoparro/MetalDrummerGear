@@ -1625,32 +1625,17 @@ export const articles = {
     },
     "evolution": {
       "title": "From Forbidden to the Final Show",
-      "content": "Paul Bostaph's journey from Bay Area thrash kid to playing Slayer's final note represents one of metal's most remarkable career arcs. His gear evolution mirrors his professional growth.\n\n**Forbidden Years (1987-1989):**\nPaul's first major band established his reputation in the Bay Area scene. Using Pearl drums during this era, he recorded \"Forbidden Evil\" (1988) and \"Twisted Into Form\" (1990), showcasing the technical thrash drumming that would catch Slayer's attention.\n\n**First Slayer Tenure (1992-2001):**\nJoining Slayer as Lombardo's replacement was a high-pressure situation. Paul's gear during this era varied, but his approach remained consistent: serve the band, honor the material, bring his own precision to the legendary songs. Albums like Divine Intervention and Diabolus in Musica proved he was no placeholder.\n\n**Testament/Exodus Period (2001-2013):**\nWhen Lombardo rejoined Slayer in 2001, Paul gracefully stepped aside — a professional move that showed his character. He joined Testament (recording \"First Strike Still Deadly\") and later Exodus (\"Shovel Headed Kill Machine\"), staying active in the Bay Area thrash scene he loved.\n\n**Second Slayer Tenure & Final Tour (2013-2019):**\nPaul's return to Slayer after Lombardo's second departure led to the Repentless album and the historic Final World Tour. Back on Pearl drums with refined techniques, Paul delivered some of his best work. Playing the band's final show at the Forum was the culmination of decades in thrash metal.\n\n**Testament Return (2024-Present):**\nPaul's return to Testament proves he's not done. Bringing thirty-plus years of experience to Chuck Billy's band, he continues to devastate audiences with the same precision and power that defined his career.",
+      "content": "Paul Bostaph's journey from Bay Area thrash kid to playing Slayer's final note represents one of metal's most remarkable career arcs. His gear evolution mirrors his professional growth.\n\n**Forbidden Years (1987-1989):**\nPaul's first major band established his reputation in the Bay Area scene. He recorded \"Forbidden Evil\" (1988) and \"Twisted Into Form\" (1990), showcasing the technical thrash drumming that would catch Slayer's attention.\n\n**First Slayer Tenure (1992-2001):**\nJoining Slayer as Lombardo's replacement was a high-pressure situation. Paul signed with Tama for his 1994 debut \"Divine Intervention,\" recorded on a Tama Artstar II kit with Paiste RUDE cymbals, moved to a DW Collector's Series Maple kit with Zildjian A Custom cymbals for 1998's \"Diabolus in Musica,\" then returned to Tama (a Starclassic Maple kit with Paiste 2002 cymbals) for 2001's \"God Hates Us All.\" His approach remained consistent throughout: serve the band, honor the material, bring his own precision to the legendary songs.\n\n**Testament/Exodus Period (2001-2013):**\nWhen Lombardo rejoined Slayer in 2001, Paul gracefully stepped aside — a professional move that showed his character. He joined Testament (recording \"First Strike Still Deadly\") and later Exodus (\"Shovel Headed Kill Machine\"), staying active in the Bay Area thrash scene he loved.\n\n**Second Slayer Tenure & Final Tour (2013-2019):**\nPaul's return to Slayer after Lombardo's second departure led to the Repentless album and the historic Final World Tour. Producer Terry Date moved him to Pearl — his first time on the brand — for a Pearl Masters Maple Complete kit and Sabian AAX cymbals, and Paul delivered some of his best work. Playing the band's final show at the Forum was the culmination of decades in thrash metal.\n\n**Testament Return (2024-Present):**\nPaul's return to Testament proves he's not done. Bringing thirty-plus years of experience to Chuck Billy's band, he continues to devastate audiences with the same precision and power that defined his career.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Pearl (Forbidden era)",
+          "then": "Tama Artstar II (Divine Intervention era)",
           "now": "Pearl Masters Maple Complete (Repentless era)"
         },
         {
-          "category": "Snare",
-          "then": "Pearl Steel 14x6.5\"",
-          "now": "Pearl Masters Steel 14x6.5\""
-        },
-        {
           "category": "Cymbals",
-          "then": "Paiste 2002 series",
+          "then": "Paiste RUDE / Paiste 2002 series",
           "now": "Sabian AAX series"
-        },
-        {
-          "category": "Pedals",
-          "then": "Pearl P-2002C",
-          "now": "Pearl Eliminator Redline Double Pedal"
-        },
-        {
-          "category": "Sticks",
-          "then": "Pro-Mark 5B",
-          "now": "Vater Power 5B"
         }
       ]
     },

@@ -4330,7 +4330,7 @@ For touring or symphonic black metal acts that need more manufacturing consisten
     // SEO metadata
     title: "Best Drum Heads for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Heads for Extreme Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best durable drum heads for extreme metal drumming. Expert recommendations covering Evans and Aquarian — the exact heads used by George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan to survive sustained blast beat abuse.",
+    description: "Discover the best durable drum heads for extreme metal drumming. Expert recommendations covering Evans and Aquarian — the exact heads used by George Kollias, Derek Roddy, and Gene Hoglan to survive sustained blast beat abuse.",
     seoKeywords: [
       'best drum heads for extreme metal',
       'durable drum heads blast beats',
@@ -4373,7 +4373,7 @@ This guide covers the drum heads that actually survive extreme metal's demands �
       keyPoints: [
         "Extreme metal's sustained blast beats destroy heads that work fine in other metal styles",
         "Reinforced double-ply and dot-reinforced heads are essential, not optional",
-        "Evans dominates the extreme metal roster — George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan all use it",
+        "Evans dominates the extreme metal roster — George Kollias, Derek Roddy, and Gene Hoglan all use it",
         "Bass drum heads need specific reinforcement — this is where most extreme metal kits fail first"
       ]
     },
@@ -4409,7 +4409,7 @@ This guide covers the drum heads that actually survive extreme metal's demands �
         {
           name: "Consistency Across a Touring Kit",
           icon: "🎯",
-          description: "Professional extreme metal drummers need heads that behave identically show after show. Evans' Level 360 collar technology, used across George Kollias, Pete Sandoval, and Derek Roddy's kits, seats evenly and holds tuning through demanding touring schedules.",
+          description: "Professional extreme metal drummers need heads that behave identically show after show. Evans' Level 360 collar technology, used across George Kollias and Derek Roddy's kits, seats evenly and holds tuning through demanding touring schedules.",
           recommendation: "Level 360 or equivalent collar for reliable, repeatable tuning on tour"
         },
         {
@@ -4479,7 +4479,7 @@ The G2's natural sustain control also keeps individual hits articulate at extrem
 
           description: `Where the G2 is extreme metal's all-purpose standard, the Power Center Reverse Dot is the specialist choice for drummers whose technique concentrates maximum force in one spot — exactly the situation with gravity blasts and sustained heel-up bass drum work. The reinforcement dot sits on the underside of the head, out of the stick's path, adding durability without changing the surface feel or attack character.
 
-For drummers pushing the physical limits of blast beat technique the way Pete Sandoval and George Kollias do, this reinforcement can mean the difference between a head surviving a full set or failing mid-song.`,
+For drummers pushing the physical limits of blast beat technique the way George Kollias does, this reinforcement can mean the difference between a head surviving a full set or failing mid-song.`,
 
           pros: [
             "Underside reinforcement dot adds durability without changing feel",
@@ -4558,7 +4558,7 @@ It's a less common endorsement choice than Evans within MetalForge's roster, but
           tier: "pro",
           material: "2-Ply with Foam Damping Ring",
 
-          description: `Bass drum heads take the heaviest sustained punishment of any drum in an extreme metal kit, and the EQ4 is built specifically for it. Its foam damping ring pre-installed against the inside of the head controls overtones for a tight, consistent low end, while the reinforced double-ply construction survives the relentless foot work that defines Derek Roddy's one-footed blast technique and Pete Sandoval's gravity blasts.
+          description: `Bass drum heads take the heaviest sustained punishment of any drum in an extreme metal kit, and the EQ4 is built specifically for it. Its foam damping ring pre-installed against the inside of the head controls overtones for a tight, consistent low end, while the reinforced double-ply construction survives the relentless foot work that defines Derek Roddy's one-footed blast technique.
 
 For drummers pushing 240+ BPM double bass patterns for entire songs, a standard drum head simply won't survive on the kick — the EQ4's purpose-built reinforcement is close to mandatory at this level of abuse.`,
 
@@ -4582,8 +4582,7 @@ For drummers pushing 240+ BPM double bass patterns for entire songs, a standard 
             sizes: "18\" to 26\""
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Reinforced bass drum heads for one-footed blast technique" },
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "Durable kick heads for gravity blast endurance" }
+            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Reinforced bass drum heads for one-footed blast technique" }
           ],
           verdict: "The bass drum head extreme metal's fastest double bass players actually need.",
           rating: 4.6,
@@ -4703,7 +4702,7 @@ While less common than Evans among MetalForge's extreme metal roster, the Empero
 - The dominant choice across MetalForge's extreme metal roster
 - Level 360 collar ensures consistent tuning across demanding tours
 - Power Center and EQ4 constructions add targeted reinforcement where extreme technique concentrates force
-- Preferred by: George Kollias, Pete Sandoval, Derek Roddy, Gene Hoglan
+- Preferred by: George Kollias, Derek Roddy, Gene Hoglan
 
 **Aquarian:**
 - Heavier outer-ply construction built specifically for hard hitters
@@ -4743,7 +4742,7 @@ While less common than Evans among MetalForge's extreme metal roster, the Empero
         {
           category: "Best Bass Drum Head",
           pedal: "Evans EQ4 Clear",
-          reason: "Purpose-built to survive Derek Roddy and Pete Sandoval-level sustained double bass abuse."
+          reason: "Purpose-built to survive Derek Roddy-level sustained double bass abuse."
         },
         {
           category: "Best for Low Tuning",
@@ -4762,14 +4761,14 @@ While less common than Evans among MetalForge's extreme metal roster, the Empero
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Evans heads sustaining 240+ BPM blast beats for Nile' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Evans endorser — pioneered the gravity blast technique' },
+      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Remo Pinstripe/Emperor — pioneered the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Evans heads for one-footed blast technique durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'The Atomic Clock — Evans precision across four decades' }
     ],
 
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Evans heads — Nile\'s 240+ BPM blast beat endurance' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Evans endorser — pioneer of the gravity blast technique' },
+      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Remo Pinstripe/Emperor — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Evans heads engineered for one-footed blast durability' }
     ],
 
@@ -4777,7 +4776,7 @@ While less common than Evans among MetalForge's extreme metal roster, the Empero
     faq: [
       {
         question: "What drum heads do extreme metal drummers use?",
-        answer: "Evans dominates extreme metal's professional roster. George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan all use Evans, primarily double-ply coated heads like the G2, with reinforced options like Power Center Reverse Dot for drummers whose technique concentrates the most force."
+        answer: "Evans dominates extreme metal's professional roster. George Kollias, Derek Roddy, and Gene Hoglan all use Evans, primarily double-ply coated heads like the G2, with reinforced options like Power Center Reverse Dot for drummers whose technique concentrates the most force. Pete Sandoval is the exception — he played Remo Pinstripe or Emperor heads."
       },
       {
         question: "Why do extreme metal drummers need more durable drum heads than other metal genres?",
@@ -4785,7 +4784,7 @@ While less common than Evans among MetalForge's extreme metal roster, the Empero
       },
       {
         question: "What's the best bass drum head for extreme metal double bass?",
-        answer: "Evans EQ4 Clear is purpose-built for this — its foam damping ring and reinforced double-ply construction survive sustained, high-velocity double bass work far better than a standard batter head repurposed for kick duty. Derek Roddy and Pete Sandoval both rely on reinforced Evans bass drum heads for exactly this reason."
+        answer: "Evans EQ4 Clear is purpose-built for this — its foam damping ring and reinforced double-ply construction survive sustained, high-velocity double bass work far better than a standard batter head repurposed for kick duty. Derek Roddy relies on reinforced Evans bass drum heads for exactly this reason."
       },
       {
         question: "Is Aquarian a good alternative to Evans for extreme metal?",

@@ -3617,14 +3617,14 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Hushed and Grim Drum Setup: Brann Dailor's Grammy-Nominated Kit on Mastodon's 2021 Double Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's Grammy-nominated Hushed and Grim (2021). Full breakdown of the Pearl Reference Pure kit, Zildjian A Custom and Z Custom cymbals, and the 20-inch bass drum configuration behind progressive metal's most ambitious double album.",
+    "description": "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's Grammy-nominated Hushed and Grim (2021). Full breakdown of the Tama Starclassic Performer B/B kit, Meinl Mb20 & Mb8 cymbals, and the single-kick configuration behind progressive metal's most ambitious double album.",
     "seoKeywords": [
       "brann dailor hushed and grim",
       "mastodon 2021 drum setup",
-      "brann dailor pearl reference pure",
+      "brann dailor tama starclassic",
       "brann dailor 2021 kit",
       "mastodon hushed and grim drums",
-      "brann dailor zildjian cymbals",
+      "brann dailor meinl cymbals",
       "hushed and grim drum setup",
       "mastodon grammy nominated drums",
       "brann dailor double album drums",
@@ -3633,24 +3633,24 @@ export const articles = {
     "ogImage": "/images/albums/hushed-and-grim-drums.webp",
     "intro": {
       "title": "The Culmination: Brann Dailor's Most Ambitious Double Album Performance",
-      "content": "Released on October 29, 2021, Mastodon's *Hushed and Grim* is the most expansive record the band has produced — a double album spanning 15 tracks and 86 minutes that draws on three decades of progressive metal, sludge, and psychedelic rock to deliver Mastodon's most complete artistic statement. Grammy-nominated for **Best Metal Performance** at the 65th Grammy Awards (2023) for the track \"The Beast,\" the album peaked at #11 on the US Billboard 200, confirming that progressive ambition and commercial reach are not mutually exclusive.\n\nFor [Brann Dailor](/drummer/brann-dailor), *Hushed and Grim* closes the arc that began with *Remission* in 2002. Every element of his drumming — the melodic tom language, the ghost-note-dense groove work, the simultaneous vocalist-drummer demands — arrives at its fullest expression across these 15 tracks. The album was written in the wake of Mastodon bassist and vocalist Troy Sanders losing his mother, and that grief suffuses the record's emotional core. Dailor's drumming reflects this: where *Emperor of Sand* (2017) demonstrated compositional restraint, *Hushed and Grim* demands both restraint and full orchestral power, sometimes within the same song.\n\nThe gear Dailor used for the *Hushed and Grim* sessions represents a significant equipment shift from the [Emperor of Sand](/articles/emperor-of-sand-drum-setup) era. The Pearl Reference Pure kit — Pearl's flagship reference-grade series — replaced the Tama Starclassic Maple that defined his mid-career sound, and the Zildjian A Custom and Z Custom cymbal palette brought a brighter, more aggressive attack option alongside the dark complexity that had characterised his earlier setups. Notably, Dailor switched from a 22\" bass drum to a 20\" configuration for this record, producing a tighter, more focused kick sound that suits the album's heavier material.\n\nThis article breaks down every piece of gear Dailor used during the *Hushed and Grim* sessions: the Pearl Reference Pure kit that drove Mastodon's most ambitious record, the Zildjian cymbal palette that coloured 86 minutes of progressive metal, and the technical and musical choices behind the Grammy-nominated performance.",
+      "content": "Released on October 29, 2021, Mastodon's *Hushed and Grim* is the most expansive record the band has produced — a double album spanning 15 tracks and 86 minutes that draws on three decades of progressive metal, sludge, and psychedelic rock to deliver Mastodon's most complete artistic statement. Grammy-nominated for **Best Metal Performance** at the 65th Grammy Awards (2023) for the track \"The Beast,\" the album peaked at #11 on the US Billboard 200, confirming that progressive ambition and commercial reach are not mutually exclusive.\n\nFor [Brann Dailor](/drummer/brann-dailor), *Hushed and Grim* closes the arc that began with *Remission* in 2002. Every element of his drumming — the melodic tom language, the ghost-note-dense groove work, the simultaneous vocalist-drummer demands — arrives at its fullest expression across these 15 tracks. The album was written in the wake of Mastodon bassist and vocalist Troy Sanders losing his mother, and that grief suffuses the record's emotional core. Dailor's drumming reflects this: where *Emperor of Sand* (2017) demonstrated compositional restraint, *Hushed and Grim* demands both restraint and full orchestral power, sometimes within the same song.\n\nThe gear Dailor used for the *Hushed and Grim* sessions continues directly from the [Emperor of Sand](/articles/emperor-of-sand-drum-setup) era. The Tama Starclassic Performer B/B kit that has anchored his sound since the 2000s remained his instrument for this record, and the Meinl Mb20 & Mb8 cymbal palette continued to provide the dark complexity and dynamic range his playing demands. There was no equipment change for this record — the continuity itself is part of the story, a rig Dailor trusts enough to carry through two decades and Mastodon's most ambitious release.\n\nThis article breaks down every piece of gear Dailor used during the *Hushed and Grim* sessions: the Tama Starclassic Performer B/B kit that drove Mastodon's most ambitious record, the Meinl cymbal palette that coloured 86 minutes of progressive metal, and the technical and musical choices behind the Grammy-nominated performance.",
       "keyPoints": [
         "Grammy-nominated Best Metal Performance at the 65th Grammy Awards (2023) for \"The Beast\"",
         "Double album — 15 tracks, 86 minutes — Mastodon's most expansive and ambitious record",
-        "Pearl Reference Pure kit — flagship reference-grade maple shells replacing the Tama Starclassic era",
-        "Zildjian A Custom + Z Custom cymbals — brighter attack option added to the palette",
-        "20\" bass drum configuration — tighter, more focused kick sound for the album's heavier material",
+        "Tama Starclassic Performer B/B kit — the same rig that has anchored Dailor's sound since the 2000s",
+        "Meinl Mb20 & Mb8 cymbals — continued dark, dynamic palette from the Emperor of Sand era",
+        "Single bass drum configuration — continuity with the Emperor of Sand-era setup",
         "Peaked US #11 Billboard 200 — Mastodon's most commercially successful release"
       ]
     },
     "drumKit": {
-      "title": "The Pearl Reference Pure: Brann's Flagship Shift for the Double Album",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
-      "finish": "Custom finish",
+      "title": "The Tama Starclassic Performer B/B: Brann's Continuing Foundation",
+      "brand": "Tama",
+      "model": "Tama Starclassic Performer B/B",
+      "finish": "Custom wrap finish",
       "config": {
         "bassdrums": [
-          "20\" x 18\" Bass Drum (single kick configuration)"
+          "22\" x 18\" Bass Drum (single kick configuration)"
         ],
         "toms": [
           "10\" x 8\" Rack Tom",
@@ -3660,88 +3660,88 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "6-ply maple shells, SST (Superior Shell Technology) construction"
+        "shells": "Birch/bubinga shells, Star-Cast mounting system"
       },
-      "description": "For the *Hushed and Grim* sessions, Brann Dailor made a significant equipment shift — moving to the Pearl Reference Pure from the Tama Starclassic Maple that had anchored his playing on [Emperor of Sand](/articles/emperor-of-sand-drum-setup) and earlier Mastodon records. The Pearl Reference Pure is Pearl's flagship maple-shell series, featuring pure maple construction with Pearl's SST (Superior Shell Technology) that uses maple throughout without alternative woods, producing a consistently warm, full tone across all dynamics.\n\nThe most consequential change in this configuration is the 20\" bass drum — a shift down from the 22\" that Dailor had used on *Emperor of Sand*. The 20\" kick produces a tighter, more focused fundamental with faster attack and less bloom than the 22\", which suits the denser, heavier arrangements on *Hushed and Grim*. Where the larger kick on *Emperor of Sand* produced a full, round anchoring tone, the 20\" Reference Pure kick cuts through the layered guitar work with more precision. On tracks like \"The Beast\" and \"Pushing the Tides,\" where Mastodon's riff architecture is at its most dense, this tighter kick sound provides rhythmic clarity without the low-end wash that a larger drum would produce.\n\nThe three-rack-tom configuration (10\", 12\", 13\") maintained Dailor's established melodic palette — three adjacent pitches for dense melodic resolution in the fills that Mastodon's arrangements demand. The Pearl Reference Pure's maple construction gives these toms warmth and fundamental tone comparable to the Tama Starclassic Maple, though with a slightly different character: Pearl's maple tends to produce a brighter, more present fundamental with slightly less sustain bloom than Tama's, which suited the more aggressive sonic context of this double album.\n\nThe single bass drum configuration continued from the *Emperor of Sand* era — Dailor committed to single-kick playing across the full 15 tracks, demonstrating that a single pedal at the right tempo and musical placement can anchor even the most demanding progressive metal arrangements. For how this setup compares to the Tama era, see the [Brann Dailor drummer profile](/drummer/brann-dailor).",
+      "description": "For the *Hushed and Grim* sessions, Brann Dailor continued with the Tama Starclassic Performer B/B kit that has anchored his playing since the 2000s, carrying straight through from [Emperor of Sand](/articles/emperor-of-sand-drum-setup) and earlier Mastodon records. The Starclassic Performer B/B pairs birch and bubinga shells with Tama's Star-Cast mounting system, producing a focused low end with a bright, articulate attack that holds up across a dense mix.\n\nThe single 22\" bass drum configuration carried over unchanged from *Emperor of Sand*, producing the full, round fundamental that anchors *Hushed and Grim*'s densest arrangements. On tracks like \"The Beast\" and \"Pushing the Tides,\" where Mastodon's riff architecture is at its most dense, that fundamental cuts through the layered guitar work while still leaving room for the kit's tonal character to register.\n\nThe three-rack-tom configuration (10\", 12\", 13\") maintained Dailor's established melodic palette — three adjacent pitches for dense melodic resolution in the fills that Mastodon's arrangements demand. The Starclassic Performer B/B's birch/bubinga construction gives these toms the same warm, present fundamental that has defined his tom sound for two decades, unchanged from the *Emperor of Sand* sessions.\n\nThe single bass drum configuration continued from the *Emperor of Sand* era — Dailor committed to single-kick playing across the full 15 tracks, demonstrating that a single pedal at the right tempo and musical placement can anchor even the most demanding progressive metal arrangements. For the full history of this setup, see the [Brann Dailor drummer profile](/drummer/brann-dailor).",
       "notes": [
-        "Pearl Reference Pure — flagship maple shells for warm, present fundamental tone",
-        "20\" bass drum — tighter, more focused kick than the 22\" used on Emperor of Sand",
-        "Three rack toms (10\", 12\", 13\") — dense melodic resolution maintained from Tama era",
-        "SST construction — pure maple throughout for consistent tone at all dynamics",
+        "Tama Starclassic Performer B/B — the same kit Dailor has used since the 2000s",
+        "22\" bass drum — unchanged from the Emperor of Sand configuration",
+        "Three rack toms (10\", 12\", 13\") — dense melodic resolution maintained across eras",
+        "Star-Cast mounting system — free shell resonance for consistent tone at all dynamics",
         "Single kick configuration — continued from Emperor of Sand throughout the double album"
       ],
-      "estimatedValue": "$3,800–5,800 (Pearl Reference Pure shell pack)"
+      "estimatedValue": "$3,500–5,500 (Tama Starclassic Performer B/B shell pack)"
     },
     "snare": {
       "title": "The Snare: Presence and Sensitivity Across 86 Minutes",
-      "brand": "Pearl",
-      "model": "Pearl Reference Snare",
+      "brand": "Tama",
+      "model": "Tama Starclassic Performer B/B Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Maple — matched to the Reference Pure kit",
-      "description": "On *Hushed and Grim*, the snare occupies the same central role it has across Mastodon's discography — the rhythmic and tonal anchor for Dailor's ghost-note-dense playing style. The Pearl Reference snare, matched to the Reference Pure kit, delivers a full, warm crack with the sensitivity that his intricate ghost-note passages require.\n\nThe 14\" x 6.5\" configuration provides more body than a standard 5.5\" snare while maintaining the responsiveness Dailor's playing demands. Across a 15-track, 86-minute album, the snare needs to perform across a wide dynamic range — from the intimate, atmospheric passages on tracks like \"Teardrinker\" and \"Not That At All\" to the full-force accents on \"The Beast\" and \"The Crux.\" A deeper shell at medium-high tuning provides the tonal authority for both extremes.\n\nGhost notes are woven through every groove on *Hushed and Grim*, providing rhythmic texture that supports Mastodon's layered guitar work without competing with the vocal and melody lines. These ghost notes must register as intentional rhythmic content — not as noise, but as a constant subtle pulse beneath the main groove. The Pearl maple snare's warm response ensures ghost notes speak with tone even at minimal velocity, while the 6.5\" depth gives the full accents the projection needed to anchor the album's heavier passages.\n\nThe snare's role on \"The Crux\" — one of the album's most prog-forward arrangements — demonstrates Dailor's restraint philosophy at its most refined: the snare is tuned and played to serve the song's dynamic arc, entering the chorus sections with authority while receding into texture during the verses. See the [Brann Dailor licks breakdowns](/drummer/brann-dailor/licks) for the snare technique breakdown from this era.",
+      "shell": "Birch/bubinga — matched to the Starclassic Performer B/B kit",
+      "description": "On *Hushed and Grim*, the snare occupies the same central role it has across Mastodon's discography — the rhythmic and tonal anchor for Dailor's ghost-note-dense playing style. The Tama Starclassic snare, matched to the Performer B/B kit, delivers a full, warm crack with the sensitivity that his intricate ghost-note passages require.\n\nThe 14\" x 6.5\" configuration provides more body than a standard 5.5\" snare while maintaining the responsiveness Dailor's playing demands. Across a 15-track, 86-minute album, the snare needs to perform across a wide dynamic range — from the intimate, atmospheric passages on tracks like \"Teardrinker\" and \"Not That At All\" to the full-force accents on \"The Beast\" and \"The Crux.\" A deeper shell at medium-high tuning provides the tonal authority for both extremes.\n\nGhost notes are woven through every groove on *Hushed and Grim*, providing rhythmic texture that supports Mastodon's layered guitar work without competing with the vocal and melody lines. These ghost notes must register as intentional rhythmic content — not as noise, but as a constant subtle pulse beneath the main groove. The Tama snare's warm response ensures ghost notes speak with tone even at minimal velocity, while the 6.5\" depth gives the full accents the projection needed to anchor the album's heavier passages.\n\nThe snare's role on \"The Crux\" — one of the album's most prog-forward arrangements — demonstrates Dailor's restraint philosophy at its most refined: the snare is tuned and played to serve the song's dynamic arc, entering the chorus sections with authority while receding into texture during the verses. See the [Brann Dailor licks breakdowns](/drummer/brann-dailor/licks) for the snare technique breakdown from this era.",
       "tuningSetting": "Medium-high tension — warm attack with ghost note sensitivity",
-      "heads": "Evans UV1 Coated (batter), Evans Hazy 300 (resonant)",
-      "estimatedValue": "$450–850 (Pearl Reference snare)"
+      "heads": "Evans G2 Clear (batter), Evans G2 Clear (resonant)",
+      "estimatedValue": "$400–800 (Tama Starclassic snare)"
     },
     "cymbals": {
-      "title": "Zildjian A Custom and Z Custom: A Brighter Attack for Heavier Material",
-      "brand": "Zildjian",
-      "series": "Zildjian A Custom + Z Custom Series",
+      "title": "Meinl Mb20 & Mb8: Continued Dark Complexity for the Double Album",
+      "brand": "Meinl",
+      "series": "Meinl Mb20 & Mb8 Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian A Custom 14\" Hi-Hats",
+          "model": "Meinl Mb8 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Bright, cutting attack with fast response — more aggressive than the Meinl Byzance hi-hats of the Emperor of Sand era"
+          "notes": "Dark, complex hi-hat foundation — the same series Dailor has used since the 2000s, unchanged from the Emperor of Sand era"
         },
         {
           "type": "Crash",
-          "model": "Zildjian A Custom 18\" Crash",
+          "model": "Meinl Mb20 18\" Crash",
           "position": "Left crash",
-          "notes": "Fast attack, bright decay — cuts through Mastodon's dense guitar arrangements"
+          "notes": "Full, dark crash that cuts through Mastodon's dense guitar arrangements without harshness"
         },
         {
           "type": "Crash",
-          "model": "Zildjian Z Custom 20\" Medium Crash",
+          "model": "Meinl Mb20 20\" Medium Crash",
           "position": "Right crash",
-          "notes": "Heavier, more aggressive character from the Z Custom series — matched to the album's heavier material"
+          "notes": "Heavier crash for the album's most forceful accents, matched to the Mb20 series character"
         },
         {
           "type": "Ride",
-          "model": "Zildjian A Custom 22\" Ride",
+          "model": "Meinl Mb20 22\" Ride",
           "position": "Right side",
-          "notes": "Bright, defined bell with cutting stick attack — more articulate than the atmospheric Meinl Byzance ride"
+          "notes": "Complex bell, washy body — atmospheric colour layer consistent across Dailor's Mastodon eras"
         },
         {
           "type": "China",
-          "model": "Zildjian Z Custom 18\" China",
+          "model": "Meinl Mb8 18\" China",
           "position": "Above rack toms",
-          "notes": "Aggressive, cutting china accent for the album's heaviest section accents"
+          "notes": "Dark, controlled aggression for the album's heaviest section accents"
         },
         {
           "type": "Splash",
-          "model": "Zildjian A Custom 10\" Splash",
+          "model": "Meinl Mb8 10\" Splash",
           "position": "Aux position",
-          "notes": "Fast, bright accent for melodic passages and quick punctuation"
+          "notes": "Quick, dark accent for melodic passages and punctuation"
         }
       ],
-      "description": "Brann Dailor's cymbal shift for *Hushed and Grim* is the most immediately audible gear change from the [Emperor of Sand](/articles/emperor-of-sand-drum-setup) era. Where the Meinl Byzance palette was defined by dark complexity, slow bloom, and atmospheric warmth, the Zildjian A Custom and Z Custom setup brings a brighter, more immediately aggressive attack that suits the double album's denser, more demanding arrangements.\n\nThe A Custom series uses Zildjian's B20 bronze alloy with a brilliant finish that intensifies high-frequency response — producing cymbals that cut through a dense guitar mix with sharp attack and clear decay. On *Hushed and Grim*, where Mastodon's guitars are layered across 15 tracks at significant density, this cutting character ensures cymbal accents register without being absorbed into the low-mid frequency mass.\n\nThe Z Custom crashes represent a step further in aggression. Zildjian's Z Custom series — heavier, louder, with a broader frequency spread than the A Custom — delivers the power-accent character that Mastodon's heaviest material demands. On \"The Beast\" and \"Pushing the Tides,\" the Z Custom crashes function as structural punctuation, marking section boundaries with enough sonic force to cut through the full-band arrangement.\n\nThe contrast between the A Custom hi-hats and ride — responsive, articulate, bright — and the Z Custom crashes and china — aggressive, broad, powerful — gives Dailor a dynamic range that the Meinl Byzance palette's more uniform character did not. The A Custom hi-hat's fast response facilitates the intricate ghost-note and hi-hat accent patterns woven through Mastodon's rhythmic architecture, while the Z Custom crashes deliver structural weight without restraint.\n\nFor drummers comparing this palette to the Meinl Byzance setup on earlier Mastodon records, the key observation is intentionality: darker cymbals serve atmospheric music; brighter, more aggressive options serve denser, heavier arrangements. *Hushed and Grim* called for the latter. See the [Mastodon band page](/bands/mastodon) for the complete discography context.",
-      "estimatedValue": "$2,200–3,200 (Zildjian A Custom + Z Custom setup)"
+      "description": "Brann Dailor's cymbal setup for *Hushed and Grim* continued unchanged from the [Emperor of Sand](/articles/emperor-of-sand-drum-setup) era — the Meinl Mb20 & Mb8 palette that has defined his sound since the 2000s. The dark complexity and atmospheric warmth of this setup suits the double album's wide emotional and dynamic range just as it suited the more restrained *Emperor of Sand*.\n\nThe Mb20 series delivers a fuller, darker character with substantial bronze content, producing crashes and a ride that speak with complexity rather than pure cutting brightness. On *Hushed and Grim*, where Mastodon's guitars are layered across 15 tracks at significant density, this darker character sits underneath the mix rather than fighting for the top end, letting the cymbals colour the arrangement without overwhelming it.\n\nThe Mb8 hi-hats, china, and splash round out the setup with a slightly brighter, more articulate voice for accent work — the same combination that has carried Dailor's playing since the 2000s. On \"The Beast\" and \"Pushing the Tides,\" the Mb20 crashes function as structural punctuation, marking section boundaries with enough sonic weight to cut through the full-band arrangement.\n\nThe contrast between the Mb8 hi-hats and china — brighter, more articulate — and the Mb20 crashes and ride — darker, fuller — gives Dailor the dynamic range this album demands. The Mb8 hi-hat's fast response facilitates the intricate ghost-note and hi-hat accent patterns woven through Mastodon's rhythmic architecture, while the Mb20 crashes deliver structural weight without restraint.\n\nFor drummers studying this palette across Mastodon's catalogue, the key observation is consistency: the same Meinl setup has served both the atmospheric restraint of *Emperor of Sand* and the wider dynamic range of *Hushed and Grim* without needing to change. See the [Mastodon band page](/bands/mastodon) for the complete discography context.",
+      "estimatedValue": "$1,800–2,800 (Meinl Mb20 & Mb8 setup)"
     },
     "hardware": {
       "title": "Pedals, Sticks, and Hardware",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Single Pedal",
-          "notes": "Matched to the Pearl Reference Pure kit — direct-drive mechanism for precision and power",
-          "description": "The Pearl Demon Drive single pedal drove Brann Dailor's 20\" bass drum throughout the *Hushed and Grim* sessions. The Demon Drive's direct-drive mechanism — a rigid connection between the footboard and beater — provides zero lag and maximum power transfer, which suits the album's heavier material. Where a chain-drive pedal like the Iron Cobra has slight inherent flex, the Demon Drive's direct-drive gives Dailor the precision needed for the placement-focused single-kick playing that anchors Mastodon's most ambitious record. The 20\" bass drum configuration, combined with the Demon Drive's power transfer, produces the tighter, more focused kick sound that defines the album's rhythmic character."
+          "brand": "Tama",
+          "model": "Tama Speed Cobra Single Pedal",
+          "notes": "Continued from the Emperor of Sand era — direct-drive mechanism for precision and power",
+          "description": "The Tama Speed Cobra single pedal drove Brann Dailor's 22\" bass drum throughout the *Hushed and Grim* sessions, continuing unchanged from the [Emperor of Sand](/articles/emperor-of-sand-drum-setup) era. The Speed Cobra's lightweight frame and smooth cam action give Dailor the precision needed for the placement-focused single-kick playing that anchors Mastodon's most ambitious record, producing the same full, focused kick sound that has defined his rhythmic character since he adopted it in the 2010s."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Speed Cobra Hi-Hat Stand",
           "notes": "Matched hardware series for consistent feel and aesthetic"
         },
         {
@@ -3752,24 +3752,24 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Zildjian",
-          "model": "Zildjian Artist Series",
-          "notes": "Matching the Zildjian cymbal endorsement for the Hushed and Grim era"
+          "brand": "Vater",
+          "model": "Vater 5B",
+          "notes": "Continued from the Emperor of Sand era — the stick Dailor has used since the 2000s"
         }
       ],
       "heads": {
-        "bassKick": "Evans EMAD Clear (front head: Evans Resonant Bass)",
-        "toms": "Evans UV1 Coated batter heads — consistent tone across the four-drum melodic palette",
-        "snare": "Evans UV1 Coated"
+        "bassKick": "Evans G2 Clear (front head: Evans G2 Clear)",
+        "toms": "Evans G2 Clear batter heads — consistent tone across the four-drum melodic palette",
+        "snare": "Evans G2 Clear"
       }
     },
     "recordingTechniques": {
       "title": "Recording Hushed and Grim: Grief, Ambition, and the Double Album",
-      "content": "The *Hushed and Grim* sessions were shaped by profound personal loss. The album's title comes from a phrase describing death — a direct reference to the death of Troy Sanders' mother, Lynyrd Skynyrd guitarist Gary Rossington (a family friend), and other losses that the Mastodon members experienced in the period surrounding the recording. This emotional context permeates every aspect of the album, including Dailor's drumming.\n\n**Scale and Ambition:**\nRecording a 15-track, 86-minute double album presents technical and physical demands that a standard-length record does not. Dailor's drum performances needed to sustain intensity and musical quality across a broader dynamic arc than any previous Mastodon album — from the intimate, reflective passages of \"Teardrinker\" and \"Not That At All\" to the full-force aggression of \"The Beast\" and \"The Crux.\" The Pearl Reference Pure kit and Zildjian cymbal setup were chosen in part for their ability to perform credibly across this full spectrum.\n\n**The 20-inch Bass Drum Decision:**\nOne of the most deliberate production choices was the switch to a 20\" bass drum from the 22\" used on *Emperor of Sand*. The tighter, more focused kick sound of the 20\" Reference Pure provides rhythmic clarity in Mastodon's densest arrangements. Where a 22\" kick might bloom and wash in a heavily layered mix, the 20\" cuts with precision — each placement lands with authority without adding unnecessary low-frequency mass to arrangements already dense with guitar work.\n\n**Dual Drummer-Vocalist Demands:**\nAs on [Emperor of Sand](/articles/emperor-of-sand-drum-setup), Dailor performed significant vocal duties while drumming across *Hushed and Grim*. The studio sessions required careful coordination of complex drum patterns and extended vocal contributions, demanding both technical precision and emotional vulnerability simultaneously. This dual role continues to set Dailor apart from virtually every other drummer in heavy music.\n\n**Emotional Restraint and Full Power:**\nThe album's emotional range demanded both restraint and aggression within individual tracks. Dailor's playing on *Hushed and Grim* demonstrates a mastery of dynamic contrast — holding back, building tension, and releasing with full force at compositionally appropriate moments. The Zildjian Z Custom crashes, used sparingly, carry enormous emotional weight precisely because they are not overused.",
+      "content": "The *Hushed and Grim* sessions were shaped by profound personal loss. The album's title comes from a phrase describing death — a direct reference to the death of Troy Sanders' mother, Lynyrd Skynyrd guitarist Gary Rossington (a family friend), and other losses that the Mastodon members experienced in the period surrounding the recording. This emotional context permeates every aspect of the album, including Dailor's drumming.\n\n**Scale and Ambition:**\nRecording a 15-track, 86-minute double album presents technical and physical demands that a standard-length record does not. Dailor's drum performances needed to sustain intensity and musical quality across a broader dynamic arc than any previous Mastodon album — from the intimate, reflective passages of \"Teardrinker\" and \"Not That At All\" to the full-force aggression of \"The Beast\" and \"The Crux.\" The Tama Starclassic Performer B/B kit and Meinl cymbal setup — the same rig used across his career — proved capable of performing credibly across this full spectrum without any need for a change.\n\n**Consistency Across a Sprawling Record:**\nOne of the most notable production facts is what didn't change: Dailor recorded the entire double album on the same 22\" bass drum configuration used on *Emperor of Sand*. The full, round fundamental of the Starclassic Performer B/B's 22\" kick provides rhythmic clarity in Mastodon's densest arrangements just as it did on the preceding record — each placement lands with authority without adding unnecessary low-frequency mass to arrangements already dense with guitar work.\n\n**Dual Drummer-Vocalist Demands:**\nAs on [Emperor of Sand](/articles/emperor-of-sand-drum-setup), Dailor performed significant vocal duties while drumming across *Hushed and Grim*. The studio sessions required careful coordination of complex drum patterns and extended vocal contributions, demanding both technical precision and emotional vulnerability simultaneously. This dual role continues to set Dailor apart from virtually every other drummer in heavy music.\n\n**Emotional Restraint and Full Power:**\nThe album's emotional range demanded both restraint and aggression within individual tracks. Dailor's playing on *Hushed and Grim* demonstrates a mastery of dynamic contrast — holding back, building tension, and releasing with full force at compositionally appropriate moments. The Meinl Mb20 crashes, used sparingly, carry enormous emotional weight precisely because they are not overused.",
       "keyTechniques": [
-        "20\" bass drum — tighter, focused kick for clarity in Mastodon's densest arrangements",
-        "Zildjian A Custom hi-hats for fast, articulate ghost-note and accent patterns",
-        "Z Custom crashes used sparingly for maximum structural impact",
+        "22\" bass drum — the same Starclassic Performer B/B configuration used since Emperor of Sand",
+        "Meinl Mb8 hi-hats for fast, articulate ghost-note and accent patterns",
+        "Mb20 crashes used sparingly for maximum structural impact",
         "Simultaneous vocal and drum performance across multiple double-album tracks",
         "Dynamic restraint and full-power release within individual tracks"
       ]
@@ -3781,23 +3781,23 @@ export const articles = {
         "signature": "4/4 with progressive variations",
         "highlights": [
           "Grammy-nominated Best Metal Performance at the 65th Grammy Awards (2023)",
-          "One of Mastodon's most aggressive tracks — the 20\" bass drum's focused attack is immediately evident",
+          "One of Mastodon's most aggressive tracks — the 22\" bass drum's full, focused attack is immediately evident",
           "Dailor's single-kick patterns drive the track with relentless forward momentum",
-          "Z Custom crash cymbals used for maximum structural impact at section boundaries"
+          "Meinl Mb20 crash cymbals used for maximum structural impact at section boundaries"
         ],
-        "gearNotes": "The Pearl Demon Drive single pedal's direct-drive mechanism drives the 20\" kick with precision. The Zildjian Z Custom crashes land at peak moments with full aggressive force — each one earns its placement."
+        "gearNotes": "The Tama Speed Cobra pedal drives the 22\" kick with precision. The Meinl Mb20 crashes land at peak moments with full weight — each one earns its placement."
       },
       {
         "track": "The Crux",
         "bpm": "118-132",
         "signature": "4/4 with metric variations",
         "highlights": [
-          "Album opener that establishes the Pearl Reference Pure's warm, present tone immediately",
+          "Album opener that establishes the Tama Starclassic Performer B/B's warm, present tone immediately",
           "Dailor's melodic tom language is front and centre — fills respond to the guitar harmonics",
           "Ghost-note density beneath the main groove creates constant rhythmic texture",
-          "Dynamic arc demonstrates the Zildjian A Custom hi-hat's fast, articulate response"
+          "Dynamic arc demonstrates the Meinl Mb8 hi-hat's fast, articulate response"
         ],
-        "gearNotes": "The Pearl Reference Pure maple shells produce warm melodic tom tones that respond to Dailor's musically-tuned configuration. The A Custom 14\" hi-hats cut through the guitar arrangement without harshness."
+        "gearNotes": "The Tama Starclassic Performer B/B shells produce warm melodic tom tones that respond to Dailor's musically-tuned configuration. The Mb8 14\" hi-hats cut through the guitar arrangement without harshness."
       },
       {
         "track": "Pushing the Tides",
@@ -3806,10 +3806,10 @@ export const articles = {
         "highlights": [
           "One of the album's most groove-forward tracks — Dailor's rhythmic restraint on full display",
           "Simultaneous vocal harmonies while executing intricate drum patterns",
-          "The 20\" bass drum's tighter fundamental suits this track's pulsing rhythmic backbone",
-          "Midsection eruption demonstrates the full Pearl / Zildjian setup at its most powerful"
+          "The 22\" bass drum's full fundamental suits this track's pulsing rhythmic backbone",
+          "Midsection eruption demonstrates the full Tama / Meinl setup at its most powerful"
         ],
-        "gearNotes": "The Pearl Demon Drive's direct-drive precision facilitates the placement-focused single-kick patterns that drive the groove. Z Custom crashes mark the structural eruption points with authority."
+        "gearNotes": "The Tama Speed Cobra's precision facilitates the placement-focused single-kick patterns that drive the groove. Mb20 crashes mark the structural eruption points with authority."
       },
       {
         "track": "Teardrinker",
@@ -3817,64 +3817,64 @@ export const articles = {
         "signature": "4/4 with progressive elements",
         "highlights": [
           "Among the album's most emotionally restrained performances — grief expressed through musical space",
-          "Dailor's cymbal work here demonstrates the A Custom's capacity for delicacy as well as aggression",
+          "Dailor's cymbal work here demonstrates the Mb8's capacity for delicacy as well as aggression",
           "Ghost notes weave continuous rhythmic texture beneath spare, atmospheric guitar passages",
           "One of the clearest examples of the drummer-as-vocalist role — Dailor carries significant melodic content"
         ],
-        "gearNotes": "The Pearl Reference Pure's warm maple tone is most evident on slower, atmospheric passages. The Zildjian A Custom's capacity for musical subtlety at low velocities gives these passages the tonal quality they require."
+        "gearNotes": "The Tama Starclassic Performer B/B's warm tone is most evident on slower, atmospheric passages. The Meinl Mb8's capacity for musical subtlety at low velocities gives these passages the tonal quality they require."
       }
     ],
     "evolution": {
       "title": "From Emperor of Sand to Hushed and Grim: Closing the Arc",
-      "content": "*Hushed and Grim* is the final chapter in the Mastodon discography arc that began with *Remission* in 2002 — and Brann Dailor's drumming on the double album represents the synthesis of everything that came before.\n\n**The Equipment Shift:**\nThe transition from the Tama Starclassic Maple and Meinl Byzance palette of [Emperor of Sand](/articles/emperor-of-sand-drum-setup) to the Pearl Reference Pure and Zildjian A Custom / Z Custom setup of *Hushed and Grim* reflects the album's sonic ambition. The darker, more atmospheric Meinl Byzance palette served *Emperor of Sand*'s desert-and-mortality concept; the brighter, more aggressive Zildjian setup serves *Hushed and Grim*'s wider emotional and dynamic range. The 20\" bass drum tightens the rhythmic foundation for the album's denser arrangements without sacrificing the single-kick philosophical commitment that defines Dailor's mid-to-late career.\n\n**The Vocalist-Drummer Evolution:**\nWhere [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009) demonstrated Dailor's technical complexity and *Emperor of Sand* (2017) showed his compositional restraint, *Hushed and Grim* demonstrates both simultaneously across 86 minutes. The dual drummer-vocalist demands on this album are the most extensive in Mastodon's catalog — Dailor's voice is present on more tracks, in more demanding configurations, than on any previous record. That this never compromises the drum performance is testament to the physical and musical discipline he has developed over two decades.\n\n**The Complete Arc:**\nVisit the [Emperor of Sand drum setup](/articles/emperor-of-sand-drum-setup) for the preceding chapter in this arc, and the [Crack the Skye drum setup](/articles/crack-the-skye-drum-setup) for the technical peak of Dailor's earlier career. For the complete picture of his gear across all eras, see the [Brann Dailor drummer profile](/drummer/brann-dailor).",
+      "content": "*Hushed and Grim* is the final chapter in the Mastodon discography arc that began with *Remission* in 2002 — and Brann Dailor's drumming on the double album represents the synthesis of everything that came before.\n\n**Gear Continuity:**\nThe Tama Starclassic Performer B/B and Meinl Mb20 & Mb8 palette that anchored [Emperor of Sand](/articles/emperor-of-sand-drum-setup) carried straight through to *Hushed and Grim* with no changes. The same dark, dynamic Meinl setup served *Emperor of Sand*'s desert-and-mortality concept and *Hushed and Grim*'s wider emotional range equally well, and the single 22\" bass drum kept the same rhythmic foundation that has defined Dailor's mid-to-late career.\n\n**The Vocalist-Drummer Evolution:**\nWhere [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009) demonstrated Dailor's technical complexity and *Emperor of Sand* (2017) showed his compositional restraint, *Hushed and Grim* demonstrates both simultaneously across 86 minutes. The dual drummer-vocalist demands on this album are the most extensive in Mastodon's catalog — Dailor's voice is present on more tracks, in more demanding configurations, than on any previous record. That this never compromises the drum performance is testament to the physical and musical discipline he has developed over two decades.\n\n**The Complete Arc:**\nVisit the [Emperor of Sand drum setup](/articles/emperor-of-sand-drum-setup) for the preceding chapter in this arc, and the [Crack the Skye drum setup](/articles/crack-the-skye-drum-setup) for the technical peak of Dailor's earlier career. For the complete picture of his gear across all eras, see the [Brann Dailor drummer profile](/drummer/brann-dailor).",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Tama Starclassic Maple (Emperor of Sand, 2017)",
-          "now": "Pearl Reference Pure (Hushed and Grim, 2021)"
+          "then": "Tama Starclassic Performer B/B (Emperor of Sand, 2017)",
+          "now": "Tama Starclassic Performer B/B (Hushed and Grim, 2021) — unchanged"
         },
         {
           "category": "Snare",
-          "then": "Tama Starphonic/Artstar 14\" x 6.5\"",
-          "now": "Pearl Reference Snare 14\" x 6.5\""
+          "then": "Tama Starclassic 14\" x 6.5\"",
+          "now": "Tama Starclassic 14\" x 6.5\" — unchanged"
         },
         {
           "category": "Cymbals",
-          "then": "Meinl Byzance Traditional + Foundry Reserve + Brilliant",
-          "now": "Zildjian A Custom + Z Custom (brighter, more aggressive)"
+          "then": "Meinl Mb20 & Mb8 Series",
+          "now": "Meinl Mb20 & Mb8 Series — unchanged"
         },
         {
           "category": "Pedal",
-          "then": "Tama Iron Cobra Single Pedal",
-          "now": "Pearl Demon Drive Single Pedal (direct-drive for precision)"
+          "then": "Tama Speed Cobra Single Pedal",
+          "now": "Tama Speed Cobra Single Pedal — unchanged"
         },
         {
           "category": "Bass Drum",
           "then": "22\" single kick (Emperor of Sand)",
-          "now": "20\" single kick — tighter, more focused for heavier material"
+          "now": "22\" single kick — unchanged"
         }
       ]
     },
     "faq": [
       {
         "question": "What drums does Brann Dailor use on Hushed and Grim?",
-        "answer": "Brann Dailor recorded Mastodon's Hushed and Grim (2021) using a Pearl Reference Pure drum kit — a switch from the Tama Starclassic Maple he used on Emperor of Sand (2017). The configuration featured a single 20 inch bass drum — a shift down from the 22 inch used on Emperor of Sand — with three rack toms at 10, 12, and 13 inches, and a 16 inch floor tom. The Pearl Reference Pure uses pure maple shells throughout, producing a warm, present fundamental tone that suits the melodic tom language Dailor brings to all Mastodon records. The 20 inch kick configuration produces a tighter, more focused kick sound suited to the album's denser, heavier arrangements."
+        "answer": "Brann Dailor recorded Mastodon's Hushed and Grim (2021) using the same Tama Starclassic Performer B/B drum kit he used on Emperor of Sand (2017) and has used since the 2000s. The configuration featured a single 22 inch bass drum with three rack toms at 10, 12, and 13 inches, and a 16 inch floor tom. The Starclassic Performer B/B's birch/bubinga shells produce a warm, present fundamental tone that suits the melodic tom language Dailor brings to all Mastodon records."
       },
       {
         "question": "What cymbals does Brann Dailor play on Hushed and Grim?",
-        "answer": "On Hushed and Grim (2021), Brann Dailor used Zildjian A Custom and Z Custom cymbals — a significant change from the Meinl Byzance palette he used on Emperor of Sand (2017). The setup included Zildjian A Custom 14 inch hi-hats, an A Custom 18 inch crash, a Z Custom 20 inch crash, an A Custom 22 inch ride, a Z Custom 18 inch china, and an A Custom 10 inch splash. The Zildjian A Custom series features a brilliant finish that increases high-frequency response for a brighter, more cutting attack compared to the dark, atmospheric Meinl Byzance. The Z Custom series adds even greater aggression for the album's heaviest accent points."
+        "answer": "On Hushed and Grim (2021), Brann Dailor used the same Meinl Mb20 & Mb8 cymbals he used on Emperor of Sand (2017) and has used since the 2000s. The setup included Meinl Mb8 14 inch hi-hats, an Mb20 18 inch crash, an Mb20 20 inch crash, an Mb20 22 inch ride, an Mb8 18 inch china, and an Mb8 10 inch splash. The Mb20 series delivers a fuller, darker character, while the Mb8 pieces bring a brighter, more articulate voice for accent work."
       },
       {
-        "question": "How is Brann's 2021 kit different from the Emperor of Sand era?",
-        "answer": "Brann Dailor's Hushed and Grim (2021) setup differs from his Emperor of Sand (2017) rig in three significant ways. First, the drum kit shifted from Tama Starclassic Maple to Pearl Reference Pure — comparable quality, different tonal character. Second, the bass drum configuration changed from 22 inches to 20 inches, producing a tighter, more focused kick sound better suited to the double album's denser arrangements. Third, the cymbal palette shifted from Meinl Byzance (dark, warm, atmospheric) to Zildjian A Custom plus Z Custom (brighter, more aggressive attack) — a change that reflects the album's wider dynamic range and heavier material compared to the emotionally restrained Emperor of Sand. The single-kick philosophy and melodic tom approach remained consistent across both eras."
+        "question": "How does Brann's 2021 kit compare to the Emperor of Sand era?",
+        "answer": "Brann Dailor's Hushed and Grim (2021) setup is unchanged from his Emperor of Sand (2017) rig. The same Tama Starclassic Performer B/B kit, the same 22 inch single-kick bass drum configuration, and the same Meinl Mb20 & Mb8 cymbal palette carried through both records. The consistency reflects a rig Dailor has trusted since the 2000s — one capable of serving both Emperor of Sand's emotionally restrained concept and Hushed and Grim's wider dynamic range without any need to change gear."
       },
       {
         "question": "Was Hushed and Grim nominated for a Grammy?",
         "answer": "Yes. Mastodon received a Grammy nomination for Best Metal Performance at the 65th Grammy Awards (2023) for 'The Beast' from Hushed and Grim. The nomination recognised the album's technical and compositional quality — Mastodon's most ambitious release, a 15-track double album running 86 minutes. While the band had previously won the Grammy for Best Metal Performance at the 60th Grammy Awards (2018) for 'Sultan's Curse' from Emperor of Sand, the Hushed and Grim nomination confirmed that their commitment to progressive ambition on a double-album scale continued to be recognised at the industry's highest level."
       },
       {
-        "question": "Why did Brann Dailor switch to a 20-inch bass drum for Hushed and Grim?",
-        "answer": "Brann Dailor's switch from a 22 inch to a 20 inch bass drum for Hushed and Grim (2021) was a deliberate sonic choice suited to the double album's musical demands. A 20 inch kick produces a tighter fundamental with faster attack and less sustain bloom than a 22 inch, which provides rhythmic clarity in Mastodon's densely layered arrangements across 15 tracks. Where the 22 inch kick on Emperor of Sand produced a full, round anchoring tone suited to that album's atmospheric and groove-forward character, the 20 inch Reference Pure kick cuts through the complex guitar work of Hushed and Grim with precision — each kick placement registers as a clear rhythmic event rather than a low-frequency wash. The change reflects how gear choices serve musical context rather than personal preference alone."
+        "question": "What size bass drum does Brann Dailor use on Hushed and Grim?",
+        "answer": "Brann Dailor used a single 22 inch bass drum for Hushed and Grim (2021), the same configuration he used on Emperor of Sand (2017). The 22 inch Starclassic Performer B/B kick produces a full, round fundamental that anchors Mastodon's densely layered arrangements across all 15 tracks — each kick placement registers as a clear rhythmic event that suits Dailor's placement-focused single-kick playing style."
       },
       {
         "question": "What is the full track listing of Hushed and Grim?",
@@ -3883,7 +3883,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Hushed and Grim: Closing the Arc of Mastodon's Most Complete Record",
-      "content": "*Hushed and Grim* is the record that proved Mastodon — and Brann Dailor — had not exhausted the possibilities of progressive sludge metal after two decades. A 15-track, 86-minute double album that absorbed the band's grief and ambition in equal measure, it represents the fullest expression of everything Dailor has developed since *Remission* in 2002: the melodic tom language, the ghost-note density, the compositional restraint, the vocalist-drummer integration, and now the technical precision of a Pearl Reference Pure kit and Zildjian cymbal palette optimised for the album's demands.\n\nThe Grammy nomination for \"The Beast\" at the 65th Grammy Awards confirmed the album's standing. But the nomination — following the win for *Emperor of Sand* — says something larger: that the kind of drumming Dailor has spent twenty years developing, where toms tell stories and cymbals carry emotional colour, is recognisable as exceptional even within the Grammy-evaluated framework that has historically undervalued progressive complexity.\n\nFor drummers building setups influenced by this album, the central lesson is that equipment decisions should serve the music. The shift from Tama Starclassic Maple to Pearl Reference Pure, from Meinl Byzance to Zildjian A Custom and Z Custom, from a 22\" to a 20\" bass drum — none of these are arbitrary. Each reflects a specific musical requirement that the album's density, scale, and emotional range demanded. The 20\" kick provides clarity where bloom would muddy the mix. The Zildjian brightness cuts where the Byzance warmth would be absorbed. The Pearl precision drives where the Tama weight would lumber.\n\nFor the complete picture of Brann Dailor's gear across Mastodon's career, visit the [Brann Dailor drummer profile](/drummer/brann-dailor). For the preceding chapter in this arc, see the [Emperor of Sand drum setup](/articles/emperor-of-sand-drum-setup). For the technical peak of Dailor's earlier career, see the [Crack the Skye drum setup](/articles/crack-the-skye-drum-setup)."
+      "content": "*Hushed and Grim* is the record that proved Mastodon — and Brann Dailor — had not exhausted the possibilities of progressive sludge metal after two decades. A 15-track, 86-minute double album that absorbed the band's grief and ambition in equal measure, it represents the fullest expression of everything Dailor has developed since *Remission* in 2002: the melodic tom language, the ghost-note density, the compositional restraint, the vocalist-drummer integration, and the technical precision of a Tama Starclassic Performer B/B kit and Meinl cymbal palette that has served him unchanged since the 2000s.\n\nThe Grammy nomination for \"The Beast\" at the 65th Grammy Awards confirmed the album's standing. But the nomination — following the win for *Emperor of Sand* — says something larger: that the kind of drumming Dailor has spent twenty years developing, where toms tell stories and cymbals carry emotional colour, is recognisable as exceptional even within the Grammy-evaluated framework that has historically undervalued progressive complexity.\n\nFor drummers building setups influenced by this album, the central lesson is that a trusted rig doesn't need to change to serve new musical demands. The same Tama Starclassic Performer B/B kit, the same Meinl Mb20 & Mb8 cymbals, the same 22\" single-kick bass drum that anchored *Emperor of Sand* anchored *Hushed and Grim* too — proof that consistency, not novelty, can carry a drummer through a band's most ambitious release.\n\nFor the complete picture of Brann Dailor's gear across Mastodon's career, visit the [Brann Dailor drummer profile](/drummer/brann-dailor). For the preceding chapter in this arc, see the [Emperor of Sand drum setup](/articles/emperor-of-sand-drum-setup). For the technical peak of Dailor's earlier career, see the [Crack the Skye drum setup](/articles/crack-the-skye-drum-setup)."
     },
     "relatedAlbums": [
       "emperor-of-sand-drum-setup",
@@ -3905,7 +3905,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Hushed and Grim Drum Setup: Brann Dailor's Grammy-Nominated Kit on Mastodon's 2021 Double Album",
-          "description": "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's Grammy-nominated Hushed and Grim (2021). Full breakdown of the Pearl Reference Pure kit, Zildjian A Custom and Z Custom cymbals, and the 20-inch bass drum configuration behind progressive metal's most ambitious double album.",
+          "description": "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's Grammy-nominated Hushed and Grim (2021). Full breakdown of the Tama Starclassic Performer B/B kit, Meinl Mb20 & Mb8 cymbals, and the single-kick configuration behind progressive metal's most ambitious double album.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -4034,7 +4034,7 @@ export const articles = {
               "name": "What drums does Brann Dailor use on Hushed and Grim?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Brann Dailor recorded Mastodon's Hushed and Grim (2021) using a Pearl Reference Pure drum kit with a single 20\" bass drum, three rack toms at 10\", 12\", and 13\", and a 16\" floor tom — switching from the Tama Starclassic Maple used on Emperor of Sand and using a smaller bass drum for a tighter, more focused kick sound."
+                "text": "Brann Dailor recorded Mastodon's Hushed and Grim (2021) using the same Tama Starclassic Performer B/B drum kit he used on Emperor of Sand, with a single 22\" bass drum, three rack toms at 10\", 12\", and 13\", and a 16\" floor tom — unchanged from the Emperor of Sand era."
               }
             },
             {
@@ -4042,7 +4042,7 @@ export const articles = {
               "name": "What cymbals does Brann Dailor play on Hushed and Grim?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Hushed and Grim (2021), Brann Dailor used Zildjian A Custom and Z Custom cymbals, including A Custom 14\" hi-hats, an A Custom 18\" crash, a Z Custom 20\" crash, an A Custom 22\" ride, a Z Custom 18\" china, and an A Custom 10\" splash — a brighter, more aggressive palette than the Meinl Byzance setup used on Emperor of Sand."
+                "text": "On Hushed and Grim (2021), Brann Dailor used Meinl Mb20 & Mb8 cymbals, including Mb8 14\" hi-hats, an Mb20 18\" crash, an Mb20 20\" crash, an Mb20 22\" ride, an Mb8 18\" china, and an Mb8 10\" splash — the same palette used on Emperor of Sand."
               }
             },
             {
@@ -4050,7 +4050,7 @@ export const articles = {
               "name": "How is Brann Dailor's 2021 kit different from the Emperor of Sand era?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Brann Dailor's Hushed and Grim (2021) kit differs from Emperor of Sand (2017) in three key ways: the drum kit shifted from Tama Starclassic Maple to Pearl Reference Pure; the bass drum changed from 22\" to 20\" for a tighter, more focused kick; and the cymbals shifted from Meinl Byzance (dark, atmospheric) to Zildjian A Custom plus Z Custom (brighter, more aggressive) to suit the double album's denser arrangements."
+                "text": "Brann Dailor's Hushed and Grim (2021) kit is unchanged from Emperor of Sand (2017): the same Tama Starclassic Performer B/B drum kit, the same 22\" single-kick bass drum configuration, and the same Meinl Mb20 & Mb8 cymbal palette carried through both records."
               }
             },
             {

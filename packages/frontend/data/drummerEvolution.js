@@ -15068,7 +15068,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2021–2023',
         startYear: 2021,
         endYear: 2023,
-        description: 'Mangini\'s final documented Dream Theater configuration moved to the broader Pearl Reference Series line, running dual 14"x5" and 14"x6.5" Pearl Reference Brass snares for tonal variety, alongside his long-standing Sabian HHX/AAX arsenal now built around a 21" HHX Raw Bell Dry Ride. Pearl Demon Drive double pedals replaced the Eliminator Redline, and a Roland SPD-SX sampling pad replaced the earlier TD-50 module for a more compact, sample-triggered hybrid rig. In 2023, Mike Portnoy rejoined Dream Theater, ending Mangini\'s thirteen-year run as the band\'s drummer across five studio albums and two of progressive metal\'s most-discussed line-up transitions. Mangini re-emerged in June 2026 as Godsmack\'s touring drummer, replacing Wade Murff; no verified details of a Godsmack-specific gear setup have been published yet.',
+        description: 'Mangini\'s final documented Dream Theater configuration moved to the broader Pearl Reference Series line, running dual 14"x5" and 14"x6.5" Pearl Reference Brass snares for tonal variety, alongside his long-standing Sabian HHX/AAX arsenal now built around a 21" HHX Raw Bell Dry Ride. His Pearl Eliminator Redline double pedal remained unchanged, and a Roland SPD-SX sampling pad replaced the earlier TD-50 module for a more compact, sample-triggered hybrid rig. In 2023, Mike Portnoy rejoined Dream Theater, ending Mangini\'s thirteen-year run as the band\'s drummer across five studio albums and two of progressive metal\'s most-discussed line-up transitions. Mangini re-emerged in June 2026 as Godsmack\'s touring drummer, replacing Wade Murff; no verified details of a Godsmack-specific gear setup have been published yet.',
         albums: ['Touring and session configuration, 2021–2023'],
         tours: ['20th Anniversary Tour 2022 (continued)', 'Final Mangini-era Dream Theater touring dates'],
         image: null,
@@ -15093,9 +15093,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal, Roland SPD-SX',
+            item: 'Pearl Eliminator Redline Double Pedal, Roland SPD-SX',
             details: 'Double pedal plus sampling pad',
-            notes: 'Switched from the Eliminator Redline to the Demon Drive, and from the Roland TD-50 module to a more compact SPD-SX sampling pad.',
+            notes: 'Eliminator Redline double pedal unchanged; replaced the Roland TD-50 module with a more compact SPD-SX sampling pad.',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
@@ -15120,7 +15120,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Moved to the broader Pearl Reference Series with dual Reference Brass snares',
-          'Switched from Pearl Eliminator Redline to Pearl Demon Drive double pedals',
+          'Pearl Eliminator Redline double pedal remained unchanged',
           'Replaced the Roland TD-50 module with a more compact Roland SPD-SX sampling pad',
           'Mike Portnoy rejoined Dream Theater in 2023, ending Mangini\'s thirteen-year, five-album run as the band\'s drummer',
           'Became Godsmack\'s touring drummer in June 2026, replacing Wade Murff',

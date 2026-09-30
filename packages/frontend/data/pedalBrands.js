@@ -48,9 +48,9 @@ export const PEDAL_BRANDS = [
     founded: '1946, Tokyo, Japan',
     parent: 'Independent; one of the largest drum manufacturers in the world',
     positioning:
-      "Pearl's pedal lineup splits into two verified-roster standards: the chain-drive Eliminator, and the direct-drive Demon Drive (and its Demon XR sibling) built specifically for speed and durability under heavy touring use. Demon Drive in particular is the extreme-metal and technical-metal default on this roster, played by drummers from Gene Hoglan and Joey Jordison to Mike Mangini.",
+      "Pearl's pedal lineup splits into two verified-roster standards: the chain-drive Eliminator, and the direct-drive Demon Drive (and its Demon XR sibling) built specifically for speed and durability under heavy touring use. Demon Drive in particular is the extreme-metal and technical-metal default on this roster, played by drummers including Gene Hoglan and Joey Jordison.",
     notableLines: [
-      { name: 'Demon Drive', description: 'Direct drive, engineered for maximum speed — the most common single pedal model on the verified extreme/technical metal roster, from Gene Hoglan to Mike Mangini.' },
+      { name: 'Demon Drive', description: 'Direct drive, engineered for maximum speed — the most common single pedal model on the verified extreme/technical metal roster, including Gene Hoglan and Joey Jordison.' },
       { name: 'Demon XR', description: 'A direct-drive evolution of the Demon Drive, co-designed with roster drummer George Kollias.' },
       { name: 'Eliminator', description: 'Chain drive — a more traditional-feel double pedal used by drummers including Paul Bostaph and Jaska Raatikainen.' },
     ],

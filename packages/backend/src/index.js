@@ -1352,7 +1352,7 @@ const drummers = [
       drums: 'Pearl Reference Series',
       snare: 'Pearl Reference 14x5" & 14x6.5" Brass',
       cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)',
-      hardware: 'Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad',
+      hardware: 'Pearl Eliminator Redline Double Pedal, Roland SPD-SX Sampling Pad',
       sticks: 'Vater Mike Mangini Wicked Piston (VHMMWP)'
     },
     photos: [

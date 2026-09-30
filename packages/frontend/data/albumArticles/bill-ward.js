@@ -1019,11 +1019,11 @@ export const articles = {
         ],
         "shells": "Natural maple shells, vintage 1970s construction"
       },
-      "description": "For *Sabotage*, Ward moved back to a 22\" bass drum after the brief jump to 24\" on *Sabbath Bloody Sabbath*, but expanded his tom configuration with an added 14\" rack tom — giving him three toms in total for the first time in his Sabbath tenure. That extra voice mattered on a record built around multi-part songs like \"Megalomania\" and \"Symptom of the Universe,\" where Ward needed a wider tonal palette to punctuate the shifts between sections rather than just driving a single riff.\n\nThe kit also marked a return to natural maple shells rather than the Vistalite acrylic Ward had used for live stage work — a choice suited to the more nuanced, dynamically varied playing *Sabotage*'s progressive arrangements demanded. Where \"Hole in the Sky\" opens the album with the same riff-locked aggression heard on earlier records, \"Symptom of the Universe\" pushes the kit into genuinely new territory: a fast, palm-muted gallop in the verses that anticipates thrash metal, followed by an extended acoustic jam that calls for a completely different touch from the same setup.\n\nSelf-producing for a second consecutive album gave the band more studio time than the four-day sprint that produced *Paranoid*, and Ward used that time to record some of his most structurally complex drum parts — particularly on \"Supertzar,\" where the kit sits underneath a full choir arrangement.",
+      "description": "For *Sabotage*, Ward moved back to a 22\" bass drum after the brief jump to 24\" on *Sabbath Bloody Sabbath*, but expanded his tom configuration with an added 14\" rack tom — giving him three toms in total for the first time in his Sabbath tenure. That extra voice mattered on a record built around multi-part songs like \"Megalomania\" and \"Symptom of the Universe,\" where Ward needed a wider tonal palette to punctuate the shifts between sections rather than just driving a single riff.\n\nThe kit kept the natural maple shells that had carried through the previous two albums — a choice suited to the more nuanced, dynamically varied playing *Sabotage*'s progressive arrangements demanded. Where \"Hole in the Sky\" opens the album with the same riff-locked aggression heard on earlier records, \"Symptom of the Universe\" pushes the kit into genuinely new territory: a fast, palm-muted gallop in the verses that anticipates thrash metal, followed by an extended acoustic jam that calls for a completely different touch from the same setup.\n\nSelf-producing for a second consecutive album gave the band more studio time than the four-day sprint that produced *Paranoid*, and Ward used that time to record some of his most structurally complex drum parts — particularly on \"Supertzar,\" where the kit sits underneath a full choir arrangement.",
       "notes": [
         "Bass drum back to 22\" after the 24\" used on Sabbath Bloody Sabbath",
         "Third tom (14\") added — Ward's widest tom configuration to date",
-        "Returned to natural maple shells after Vistalite acrylic use on stage",
+        "Natural maple shells retained from Sabbath Bloody Sabbath",
         "Extended studio time (self-produced, second consecutive album) allowed for more structurally complex parts"
       ],
       "estimatedValue": "$1,100–1,900 (1975) / $6,500–16,000 (vintage today)"
@@ -1955,7 +1955,7 @@ export const articles = {
     "dateModified": "2026-03-20",
     "author": "MetalForge Editorial",
     "title": "What's In Bill Ward's Kit: The Godfather of Metal Drumming's Legendary Setup",
-    "description": "Discover the drums, cymbals, and gear behind the first heavy metal drummer. Complete breakdown of Bill Ward's classic Ludwig and Slingerland setups from Black Sabbath's golden era, plus how to get his iconic sound today.",
+    "description": "Discover the drums, cymbals, and gear behind the first heavy metal drummer. Complete breakdown of Bill Ward's classic Ludwig setup from Black Sabbath's golden era, plus how to get his iconic sound today.",
     "seoKeywords": [
       "bill ward drum kit",
       "black sabbath drummer",
@@ -1984,8 +1984,8 @@ export const articles = {
     "drumKit": {
       "title": "Bill's Classic Ludwig Setup",
       "brand": "Ludwig",
-      "model": "Ludwig Vistalite / Standard Maple",
-      "finish": "Clear Vistalite / Natural Maple",
+      "model": "Ludwig Standard / Club Date Series",
+      "finish": "Natural Maple",
       "config": {
         "bassdrums": [
           "24\" x 14\" Bass Drum"
@@ -1997,14 +1997,14 @@ export const articles = {
           "16\" x 16\" Floor Tom",
           "18\" x 16\" Floor Tom (later)"
         ],
-        "shells": "Vistalite acrylic or 3-ply maple with reinforcement rings"
+        "shells": "3-ply maple with reinforcement rings"
       },
-      "description": "Bill Ward's drum setup throughout Black Sabbath's classic era (1970-1978) was relatively simple by modern standards — but devastatingly effective. He primarily used Ludwig drums, switching between the iconic Vistalite acrylic shells and traditional maple configurations.\n\nThe Ludwig Vistalite drums of the early 1970s became synonymous with rock excess — their clear acrylic shells looked spectacular on stage. Bill used various Vistalite setups during Sabbath's peak touring years. The acrylic shells provided a bright, cutting tone that projected well in the large arenas Sabbath was filling.\n\nHowever, for studio work, Bill often preferred Ludwig's standard maple drums. The 3-ply maple shells with reinforcement rings offered warmer tones and better recording characteristics. The \"Paranoid\" album's drum sound — punchy yet organic — came from these traditional shells.\n\nBill's setup was compact: typically a 24\" bass drum, one rack tom (13\"), and one or two floor toms (16\" and sometimes 18\"). No double bass. No massive tom arrays. Just the essentials, played with jazz-influenced finesse and proto-metal power.\n\nThe 24\" bass drum was standard for rock drummers of the era — slightly larger than today's typical 22\" — providing the deep, thunderous foundation that Sabbath's downtuned riffs demanded. Bill tuned it low and punchy, creating the \"doom\" sound that would influence generations of metal.\n\nBill also used Slingerland drums at various points, particularly the Radio King series known for their solid construction and warm tone. The Radio King's single-ply maple shells offered a different character — slightly drier, more controlled — that suited certain Sabbath material.",
+      "description": "Bill Ward's drum setup throughout Black Sabbath's classic era (1970-1978) was relatively simple by modern standards — but devastatingly effective. He primarily used Ludwig's Standard / Club Date Series maple drums.\n\nThe 3-ply maple shells with reinforcement rings offered warm tones and reliable recording characteristics. The \"Paranoid\" album's drum sound — punchy yet organic — came from these shells.\n\nBill's setup was compact: typically a 24\" bass drum, one rack tom (13\"), and one or two floor toms (16\" and sometimes 18\"). No double bass. No massive tom arrays. Just the essentials, played with jazz-influenced finesse and proto-metal power.\n\nThe 24\" bass drum was standard for rock drummers of the era — slightly larger than today's typical 22\" — providing the deep, thunderous foundation that Sabbath's downtuned riffs demanded. Bill tuned it low and punchy, creating the \"doom\" sound that would influence generations of metal.",
       "notes": [
         "Simple setup: kick, one rack tom, one or two floor toms",
         "No double bass — single pedal throughout career",
         "24\" bass drum for maximum low-end",
-        "Vistalite for stage, maple for studio",
+        "Ludwig Standard / Club Date maple shells throughout",
         "Influenced by jazz setups rather than rock excess"
       ],
       "estimatedValue": "$1,500-3,000 (1970s) / $4,000-12,000 (vintage today)"
@@ -2112,7 +2112,7 @@ export const articles = {
         ],
         "description": "Establishing the heavy metal template.",
         "gear": {
-          "drums": "Ludwig Standard Maple / Slingerland",
+          "drums": "Ludwig Standard / Club Date Series",
           "snare": "Ludwig Supraphonic",
           "cymbals": "Super Zyn (1968-1971), switching to Zildjian for Master of Reality (1971)",
           "hardware": "Ludwig Speed King pedal"
@@ -2129,12 +2129,12 @@ export const articles = {
         ],
         "description": "Sabbath's experimental golden era.",
         "gear": {
-          "drums": "Ludwig Vistalite Clear",
+          "drums": "Ludwig Standard / Club Date Series",
           "snare": "Ludwig Supraphonic LM402",
           "cymbals": "Avedis Zildjian",
           "hardware": "Ludwig Atlas"
         },
-        "notes": "Vistalite era — iconic clear shells for the stadium years."
+        "notes": "Kit scaled up for the stadium years, but stayed on the same Ludwig maple shells."
       },
       {
         "era": "Late Classic Era",
@@ -2170,7 +2170,7 @@ export const articles = {
     ],
     "buyingGuide": {
       "title": "Getting the Bill Ward Sound Today",
-      "content": "Want to sound like the godfather of metal drumming? Here's how to get there — from budget to blowout.\n\n**The Snare — Start Here:**\nThe Ludwig Supraphonic is still in production and relatively affordable. A new LM402 runs $600-800 and will get you 90% of that classic Ward crack. Vintage 1970s models cost more ($500-1000 depending on condition) but aren't necessarily better — Ludwig's modern Supraphonics are excellent.\n\n**The Drums:**\nLudwig's current Classic Maple and Legacy Maple series capture the vibe of Bill's 1970s kits. A 24\"/13\"/16\" configuration in natural maple finish is period-correct and will nail the look and sound. Budget around $2,000-3,500 for a quality maple kit.\n\nFor the full vintage experience, hunt for used Ludwig Standards or Slingerlands from the 1970s. Prices vary wildly ($1,000-4,000) but you'll own actual heavy metal history.\n\n**The Cymbals:**\nFor Bill's dominant classic-era sound — Master of Reality (1971) through Never Say Die! (1978) — Zildjian A Series is the closest modern equivalent to the Avedis Zildjian bronze he played across those seven albums. A 14\" hi-hat/20\" ride/crash setup runs about $700-900.\n\nAlternative: Meinl Byzance Vintage series offers similarly complex, musical tones at competitive prices.\n\n**The Mindset:**\nHere's the thing about Bill Ward's sound: most of it comes from the hands, not the gear. Practice playing with dynamics. Learn to swing a little, even on straight rock beats. Listen to jazz drummers. Play less, groove more.\n\nThe modern drummer who sounds most like Bill Ward? Probably Matt Cameron (Soundgarden, Pearl Jam) or Dale Crover (Melvins). Both play heavy music with jazz-influenced dynamics and feel. Study them alongside Bill.",
+      "content": "Want to sound like the godfather of metal drumming? Here's how to get there — from budget to blowout.\n\n**The Snare — Start Here:**\nThe Ludwig Supraphonic is still in production and relatively affordable. A new LM402 runs $600-800 and will get you 90% of that classic Ward crack. Vintage 1970s models cost more ($500-1000 depending on condition) but aren't necessarily better — Ludwig's modern Supraphonics are excellent.\n\n**The Drums:**\nLudwig's current Classic Maple and Legacy Maple series capture the vibe of Bill's 1970s kits. A 24\"/13\"/16\" configuration in natural maple finish is period-correct and will nail the look and sound. Budget around $2,000-3,500 for a quality maple kit.\n\nFor the full vintage experience, hunt for used Ludwig Standard / Club Date kits from the 1970s. Prices vary wildly ($1,000-4,000) but you'll own actual heavy metal history.\n\n**The Cymbals:**\nFor Bill's dominant classic-era sound — Master of Reality (1971) through Never Say Die! (1978) — Zildjian A Series is the closest modern equivalent to the Avedis Zildjian bronze he played across those seven albums. A 14\" hi-hat/20\" ride/crash setup runs about $700-900.\n\nAlternative: Meinl Byzance Vintage series offers similarly complex, musical tones at competitive prices.\n\n**The Mindset:**\nHere's the thing about Bill Ward's sound: most of it comes from the hands, not the gear. Practice playing with dynamics. Learn to swing a little, even on straight rock beats. Listen to jazz drummers. Play less, groove more.\n\nThe modern drummer who sounds most like Bill Ward? Probably Matt Cameron (Soundgarden, Pearl Jam) or Dale Crover (Melvins). Both play heavy music with jazz-influenced dynamics and feel. Study them alongside Bill.",
       "budgetOptions": [
         {
           "item": "Ludwig Supraphonic LM402 (new)",
@@ -2195,9 +2195,9 @@ export const articles = {
           "notes": "Actual era-correct snare"
         },
         {
-          "item": "Vintage Ludwig Vistalite kit",
+          "item": "Vintage Ludwig Standard / Club Date kit",
           "price": "$3,000-6,000",
-          "notes": "Iconic clear shells"
+          "notes": "Era-correct 1970s maple shells"
         },
         {
           "item": "Vintage Avedis Zildjian cymbals",
@@ -2506,7 +2506,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "The Debut Kit vs. Ward's Later Setup: How the Sound Grew",
-      "content": "The Black Sabbath debut captured the most stripped-down version of Bill Ward's setup — the compact Ludwig Super Classic and Super Zyn combination assembled for a 12-hour, £500 session. As Black Sabbath's commercial profile grew through 1970–1975, Ward's kit expanded to match the demands of larger venues and more elaborate productions.\n\n**From October 1969 to Paranoid (June 1970):**\nSeven months after the debut session, Ward returned to Regent Sound with a slightly updated setup for *Paranoid*. The kit configuration remained similar — a 20\" bass drum, dual rack toms, single floor tom — and the Super Zyn cymbals carried over too, ahead of the switch to Avedis Zildjian for *Master of Reality* the following year. The production was slightly more developed: four-track rather than two-track tape, more time available, and Rodger Bain with a clearer picture of what he was trying to capture. For the full breakdown, see the [Paranoid drum setup](/articles/paranoid-drum-setup).\n\n**The Expansion Phase (1971–1975):**\nThrough *Master of Reality*, *Vol. 4*, and *Sabbath Bloody Sabbath*, Ward's kit grew. Larger bass drums (22\" became standard), additional floor toms, and a more extensive cymbal setup replaced the debut's compact configuration. Vistalite acrylic shells appeared for large stage use. Ludwig remained the primary brand, but the setup's scale matched the arenas Sabbath was now headlining.\n\n**What the Debut Configuration Reveals:**\nThe compact Ludwig Super Classic setup was not a limitation — it was the correct musical choice for the music being recorded. Heavy metal's foundational recording was made with a small, responsive kit, a snare drum that cost a fraction of modern boutique alternatives, and cymbals chosen for musical character rather than technical specification. Ward's debut album remains the strongest available argument that gear serves music rather than determines it.",
+      "content": "The Black Sabbath debut captured the most stripped-down version of Bill Ward's setup — the compact Ludwig Super Classic and Super Zyn combination assembled for a 12-hour, £500 session. As Black Sabbath's commercial profile grew through 1970–1975, Ward's kit expanded to match the demands of larger venues and more elaborate productions.\n\n**From October 1969 to Paranoid (June 1970):**\nSeven months after the debut session, Ward returned to Regent Sound with a slightly updated setup for *Paranoid*. The kit configuration remained similar — a 20\" bass drum, dual rack toms, single floor tom — and the Super Zyn cymbals carried over too, ahead of the switch to Avedis Zildjian for *Master of Reality* the following year. The production was slightly more developed: four-track rather than two-track tape, more time available, and Rodger Bain with a clearer picture of what he was trying to capture. For the full breakdown, see the [Paranoid drum setup](/articles/paranoid-drum-setup).\n\n**The Expansion Phase (1971–1975):**\nThrough *Master of Reality*, *Vol. 4*, and *Sabbath Bloody Sabbath*, Ward's kit grew. Larger bass drums (22\" became standard), additional floor toms, and a more extensive cymbal setup replaced the debut's compact configuration. Ludwig remained the primary brand throughout, but the setup's scale matched the arenas Sabbath was now headlining.\n\n**What the Debut Configuration Reveals:**\nThe compact Ludwig Super Classic setup was not a limitation — it was the correct musical choice for the music being recorded. Heavy metal's foundational recording was made with a small, responsive kit, a snare drum that cost a fraction of modern boutique alternatives, and cymbals chosen for musical character rather than technical specification. Ward's debut album remains the strongest available argument that gear serves music rather than determines it.",
       "thenVsNow": [
         {
           "category": "Kit",

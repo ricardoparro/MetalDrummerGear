@@ -123,13 +123,6 @@ export const articles = {
       "title": "Pedals and Hardware",
       "items": [
         {
-          "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 5000 Double Pedal",
-          "notes": "Reliable chain-drive double pedal for the album's demanding kick patterns",
-          "description": "Even on the budget 1998 setup, Lopez relied on the DW 5000 — the industry-standard professional double pedal that he would use throughout his Opeth career. The 16th-note kick patterns on \"Demon of the Fall\" and \"April Ethereal\" required a pedal that could handle sustained speed without losing consistency. The DW 5000's chain drive delivered exactly that."
-        },
-        {
           "type": "Hi-Hat Stand",
           "brand": "Pearl",
           "model": "Pearl H-900 Hi-Hat Stand",
@@ -176,7 +169,7 @@ export const articles = {
           "Double-bass passages already showing the precision that defined his career",
           "Melodic tom phrasing previewing the Still Life vocabulary"
         ],
-        "gearNotes": "The budget kit's tight punch suits \"April Ethereal's\" dense arrangement. The DW 5000's consistency carries the sustained double-bass figures."
+        "gearNotes": "The budget kit's tight punch suits \"April Ethereal's\" dense arrangement. The double pedal's consistency carries the sustained double-bass figures."
       },
       {
         "track": "Demon of the Fall",
@@ -289,7 +282,7 @@ export const articles = {
           "drums": "Budget touring kit (Pearl Forum / Sonor Force class)",
           "snare": "Generic steel snare 14\" x 5.5\"",
           "cymbals": "Sabian B8 Pro entry-level brass — bright, cutting",
-          "hardware": "DW 5000 Double Pedal, Pearl H-900 stand, Vic Firth 5A"
+          "hardware": "Pearl H-900 stand, Vic Firth 5A"
         },
         "notes": "Pre-endorsement era. Budget gear, professional technique — the gap between equipment and player is the largest of any Lopez Opeth album."
       },
@@ -304,7 +297,7 @@ export const articles = {
           "drums": "Pearl Export Series",
           "snare": "Pearl Sensitone Steel 14\" x 5.5\"",
           "cymbals": "Sabian HH — first appearance of the dark/complex character",
-          "hardware": "DW 5000 Double Pedal, Vic Firth 5A"
+          "hardware": "Vic Firth 5A"
         },
         "notes": "First meaningful gear upgrade. The Sabian HH transition is the most consequential single change in Lopez's gear timeline."
       },
@@ -319,7 +312,7 @@ export const articles = {
           "drums": "Sonor Designer Series (Maple)",
           "snare": "Sonor Designer 14\" x 5.5\"",
           "cymbals": "Sabian HH 14\" Hi-Hats, HH 20\" Ride, HH 22\" Raw Bell Dry Ride, AAX 16\"/18\" Crashes",
-          "hardware": "DW 5000 Double Pedal, Vic Firth 5A"
+          "hardware": "Vic Firth 5A"
         },
         "notes": "The definitive Lopez setup. Premium maple shells and Wilson's production created the most influential progressive death metal drum sound ever recorded."
       }
@@ -355,12 +348,6 @@ export const articles = {
           "available": true,
           "priceRange": "$80-150 per cymbal",
           "notes": "Sabian's entry-line brass — still in production, still affordable"
-        },
-        {
-          "item": "DW 5000 Series Pedals",
-          "available": true,
-          "priceRange": "$400-600 (double)",
-          "notes": "Industry standard double pedal, reliable and consistent"
         },
         {
           "item": "Remo Ambassador Heads",
@@ -409,7 +396,7 @@ export const articles = {
       },
       {
         "question": "What drum kit did Martin Lopez use on My Arms, Your Hearse?",
-        "answer": "Martin Lopez used a budget touring kit on My Arms, Your Hearse (1998) — likely a mix of Pearl Forum or Sonor Force-class shells consistent with Opeth's pre-endorsement era finances. His configuration included a 22x18\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms — the same four-tom layout he would carry through every subsequent Opeth album. He paired the kit with Sabian B8 Pro entry-level cymbals (later upgraded to the Sabian HH series by [Still Life in 1999](/articles/still-life-drum-setup)) and a DW 5000 double pedal, which would remain his pedal of choice throughout his Opeth career. The gear was modest; the technique already wasn't."
+        "answer": "Martin Lopez used a budget touring kit on My Arms, Your Hearse (1998) — likely a mix of Pearl Forum or Sonor Force-class shells consistent with Opeth's pre-endorsement era finances. His configuration included a 22x18\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms — the same four-tom layout he would carry through every subsequent Opeth album. He paired the kit with Sabian B8 Pro entry-level cymbals (later upgraded to the Sabian HH series by [Still Life in 1999](/articles/still-life-drum-setup)). No specific pedal brand is documented for this era. The gear was modest; the technique already wasn't."
       },
       {
         "question": "Why does My Arms, Your Hearse sound different from other Opeth albums?",
@@ -542,7 +529,7 @@ export const articles = {
               "name": "What drum kit did Martin Lopez use on My Arms, Your Hearse?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Martin Lopez used a budget touring kit on My Arms, Your Hearse — likely Pearl Forum or Sonor Force-class shells, consistent with Opeth's pre-endorsement era finances. His configuration was 22x18 inch bass, 10 and 12 inch rack toms, 14 and 16 inch floor toms — the same four-tom layout he carried through every subsequent Opeth album. He paired the kit with Sabian B8 Pro entry-level cymbals and a DW 5000 double pedal."
+                "text": "Martin Lopez used a budget touring kit on My Arms, Your Hearse — likely Pearl Forum or Sonor Force-class shells, consistent with Opeth's pre-endorsement era finances. His configuration was 22x18 inch bass, 10 and 12 inch rack toms, 14 and 16 inch floor toms — the same four-tom layout he carried through every subsequent Opeth album. He paired the kit with Sabian B8 Pro entry-level cymbals. No specific pedal brand is documented for this era."
               }
             },
             {
@@ -695,13 +682,6 @@ export const articles = {
       "title": "Pedals and Hardware",
       "items": [
         {
-          "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 5000 Double Pedal",
-          "notes": "Reliable chain-drive double pedal for Still Life's demanding kick patterns",
-          "description": "Even on Still Life, Lopez's double-bass work demanded a reliable professional pedal. The DW 5000's chain drive provided smooth, consistent response for the 16th-note kick patterns in \"Godhead's Lament\" and the faster sections of \"The Moor.\" Its adjustability allowed Lopez to dial in the exact spring tension that matched his foot technique—critical for maintaining the dynamic range his playing required."
-        },
-        {
           "type": "Hi-Hat Stand",
           "brand": "Pearl",
           "model": "Pearl H-1000 Hi-Hat Stand",
@@ -760,7 +740,7 @@ export const articles = {
           "Melodic tom patterns demonstrate the musical thinking that defines his approach",
           "Contrast between brutal riff sections and melodic interludes handled seamlessly"
         ],
-        "gearNotes": "Double-bass patterns show the DW 5000's reliability under tempo pressure. The 22\" kick's depth holds together even at higher tempos."
+        "gearNotes": "Double-bass patterns show the pedal's reliability under tempo pressure. The 22\" kick's depth holds together even at higher tempos."
       },
       {
         "track": "Benighted",
@@ -883,7 +863,7 @@ export const articles = {
           "drums": "Pearl Export Series",
           "snare": "Pearl Sensitone Steel 14\" x 5.5\"",
           "cymbals": "Sabian HH 14\" Hi-Hats, HH 20\" Ride, HH 16\"/18\" Crashes, AAX 16\" China",
-          "hardware": "DW 5000 Double Pedal, Vic Firth 5A"
+          "hardware": "Vic Firth 5A"
         },
         "notes": "Professional but budget-conscious. Lopez's jazz technique compensated for what the kit couldn't deliver in premium resonance."
       },
@@ -898,7 +878,7 @@ export const articles = {
           "drums": "Sonor Designer Series (Maple)",
           "snare": "Sonor Designer 14\" x 5.5\"",
           "cymbals": "Sabian HH 14\" Hi-Hats, HH 20\" Ride, HH 22\" Raw Bell Dry Ride, AAX 16\"/18\" Crashes",
-          "hardware": "DW 5000 Double Pedal, Vic Firth 5A"
+          "hardware": "Vic Firth 5A"
         },
         "notes": "The definitive Lopez setup. Premium maple shells and Wilson's production philosophy created the most influential progressive death metal drum sound ever recorded."
       }
@@ -935,12 +915,6 @@ export const articles = {
           "available": true,
           "priceRange": "$250-400 per cymbal",
           "notes": "HH (Hand Hammered) series continues as Sabian's dark, complex line"
-        },
-        {
-          "item": "DW 5000 Series Pedals",
-          "available": true,
-          "priceRange": "$400-600 (double)",
-          "notes": "Industry standard double pedal, reliable and consistent"
         },
         {
           "item": "Remo Ambassador Heads",
@@ -1006,7 +980,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Album That Made Blackwater Park Possible",
-      "content": "Still Life is the overlooked cornerstone of Martin Lopez's legacy. Blackwater Park gets the accolades — the Steven Wilson production, the Sonor kit, the revolutionary drum sound — but every element that made that album's drumming great was established here in 1999, with a Pearl Export and Sabian HH cymbals, under tighter production, on a lower budget.\n\n**What Lopez Accomplished on Still Life:**\nA death metal drummer used jazz ghost note technique, brush sensitivity, and melodic ride vocabulary to make a concept album feel emotionally continuous across 67 minutes. He prioritized the music's emotional arc over his own technical display. He established a drumming philosophy that would influence progressive metal for the next two decades.\n\n**The Gear Perspective:**\nThe Pearl Export limitation is ultimately irrelevant to Still Life's greatness. Lopez's technique transcended the mid-range shells. The Sabian HH cymbals provided the tonal sophistication his playing demanded. The DW 5000 double pedal held up under demanding kick patterns. Professional gear doesn't require premium gear — Still Life proves this.\n\n**For Drummers Today:**\nStudy Still Life for the ghost note work on \"Face of Melinda\" and \"Benighted.\" Study the brush performance on \"Benighted\" for jazz-to-metal translation. Study \"The Moor\" for how Lopez built a ten-minute arc from acoustic restraint to full death metal intensity. These are the techniques that made Blackwater Park possible — and they're available to any drummer willing to approach metal with jazz ears.\n\nMartin Lopez found his Opeth voice on Still Life. Everything that followed — Blackwater Park, Deliverance, Damnation, Ghost Reveries — built on the foundation established here. That makes Still Life not just a great album but an essential document in progressive metal history.\n\n🥁 *Still Life — where Lopez found his voice and Opeth found their future.* 🥁"
+      "content": "Still Life is the overlooked cornerstone of Martin Lopez's legacy. Blackwater Park gets the accolades — the Steven Wilson production, the Sonor kit, the revolutionary drum sound — but every element that made that album's drumming great was established here in 1999, with a Pearl Export and Sabian HH cymbals, under tighter production, on a lower budget.\n\n**What Lopez Accomplished on Still Life:**\nA death metal drummer used jazz ghost note technique, brush sensitivity, and melodic ride vocabulary to make a concept album feel emotionally continuous across 67 minutes. He prioritized the music's emotional arc over his own technical display. He established a drumming philosophy that would influence progressive metal for the next two decades.\n\n**The Gear Perspective:**\nThe Pearl Export limitation is ultimately irrelevant to Still Life's greatness. Lopez's technique transcended the mid-range shells. The Sabian HH cymbals provided the tonal sophistication his playing demanded. His double pedal held up under demanding kick patterns. Professional gear doesn't require premium gear — Still Life proves this.\n\n**For Drummers Today:**\nStudy Still Life for the ghost note work on \"Face of Melinda\" and \"Benighted.\" Study the brush performance on \"Benighted\" for jazz-to-metal translation. Study \"The Moor\" for how Lopez built a ten-minute arc from acoustic restraint to full death metal intensity. These are the techniques that made Blackwater Park possible — and they're available to any drummer willing to approach metal with jazz ears.\n\nMartin Lopez found his Opeth voice on Still Life. Everything that followed — Blackwater Park, Deliverance, Damnation, Ghost Reveries — built on the foundation established here. That makes Still Life not just a great album but an essential document in progressive metal history.\n\n🥁 *Still Life — where Lopez found his voice and Opeth found their future.* 🥁"
     },
     "schema": {
       "@context": "https://schema.org",
@@ -1268,13 +1242,6 @@ export const articles = {
       "title": "Pedals and Hardware",
       "items": [
         {
-          "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 5000 Double Pedal",
-          "notes": "Reliable double pedal for Opeth's demanding bass drum patterns",
-          "description": "Lopez played intricate double bass patterns on Blackwater Park—from the relentless 16ths in \"The Leper Affinity\" to the stuttering patterns in \"Bleak.\" The DW 5000 provided the responsiveness needed for both speed and dynamics, without the overly aggressive feel of some chain-drive alternatives."
-        },
-        {
           "type": "Hi-Hat Stand",
           "brand": "Sonor",
           "model": "Sonor 600 Series Hi-Hat Stand",
@@ -1456,7 +1423,7 @@ export const articles = {
           "drums": "Sonor Designer Series",
           "snare": "Sonor Maple",
           "cymbals": "Sabian HH/AAX",
-          "hardware": "DW pedals"
+          "hardware": "Vic Firth 5A"
         },
         "notes": "Lopez developed his signature style during these albums, though production hadn't yet captured his full dynamic range."
       },
@@ -1471,7 +1438,7 @@ export const articles = {
           "drums": "Sonor Designer Series (Maple)",
           "snare": "Sonor Designer 14\" x 5.5\"",
           "cymbals": "Sabian HH 14\" Hi-Hats, HH 20\" Ride, HH 22\" Raw Bell Dry Ride, AAX 16\"/18\" Crashes",
-          "hardware": "DW 5000 Double Pedal, Vic Firth 5A"
+          "hardware": "Vic Firth 5A"
         },
         "notes": "This era represents Lopez's most documented and influential drum sound."
       },
@@ -1502,7 +1469,7 @@ export const articles = {
           "drums": "Sonor Designer Series",
           "snare": "Sonor options",
           "cymbals": "Sabian",
-          "hardware": "DW"
+          "hardware": "Undocumented for this era"
         },
         "notes": "His health struggles were beginning, but the playing remained exceptional."
       },
@@ -1572,12 +1539,6 @@ export const articles = {
           "notes": "Bright, cutting cymbals perfect for metal applications"
         },
         {
-          "item": "DW 5000 Series Pedals",
-          "available": true,
-          "priceRange": "$400-600 (double)",
-          "notes": "Industry standard double pedal, reliable and consistent"
-        },
-        {
           "item": "Remo Ambassador Heads",
           "available": true,
           "priceRange": "$15-25 per head",
@@ -1634,7 +1595,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Album That Taught Death Metal to Breathe",
-      "content": "Blackwater Park stands as one of the most important albums in progressive metal history, and Martin Lopez's drumming is fundamental to its success. In 2001, he proved that extreme metal didn't have to sacrifice dynamics for heaviness—that the two could coexist and enhance each other.\n\n**What Made This Album Special:**\nIt wasn't just Lopez's technical ability—though he had that in abundance. It was his musical thinking. Every fill served the composition. Every dynamic shift enhanced the emotional arc. His drumming on Blackwater Park tells a story alongside the guitars and vocals, rather than simply accompanying them.\n\n**The Production Partnership:**\nSteven Wilson's involvement was crucial. His progressive rock sensibilities gave Lopez permission to play dynamically in ways that typical death metal production would have flattened. The result was a drum sound that breathed, that had room for nuance, that captured both the thunder and the whisper.\n\n**The Gear Perspective:**\nLopez's equipment was professional but not exotic: Sonor drums, Sabian cymbals, DW pedals. What made the sound special was the application—gear selected for tone and responsiveness rather than just power. His cymbal choices, in particular, prioritized musicality over volume, enabling the album's atmospheric passages.\n\n**Legacy:**\nEvery progressive death metal drummer who prioritizes dynamics over pure aggression owes something to Martin Lopez's work on Blackwater Park. Every producer who captures extreme drums with nuance references this album's approach. Every band that transitions seamlessly between beauty and brutality follows the template Opeth established here.\n\n**For Drummers Today:**\nStudy Blackwater Park not for the licks—though they're worth learning—but for the philosophy. Notice how Lopez uses space. Pay attention to his cymbal choices in different sections. Listen to how the drums serve the song's emotional journey rather than just keeping time. Understand that death metal can have dynamics without losing power.\n\nMartin Lopez's health struggles forced his departure from Opeth in 2006, but his work on Blackwater Park remains immortal. This is the album that taught death metal to breathe—and metal has been richer for it ever since.\n\n🥁 *Blackwater Park — Where brutality meets beauty.* 🥁"
+      "content": "Blackwater Park stands as one of the most important albums in progressive metal history, and Martin Lopez's drumming is fundamental to its success. In 2001, he proved that extreme metal didn't have to sacrifice dynamics for heaviness—that the two could coexist and enhance each other.\n\n**What Made This Album Special:**\nIt wasn't just Lopez's technical ability—though he had that in abundance. It was his musical thinking. Every fill served the composition. Every dynamic shift enhanced the emotional arc. His drumming on Blackwater Park tells a story alongside the guitars and vocals, rather than simply accompanying them.\n\n**The Production Partnership:**\nSteven Wilson's involvement was crucial. His progressive rock sensibilities gave Lopez permission to play dynamically in ways that typical death metal production would have flattened. The result was a drum sound that breathed, that had room for nuance, that captured both the thunder and the whisper.\n\n**The Gear Perspective:**\nLopez's equipment was professional but not exotic: Sonor drums, Sabian cymbals. What made the sound special was the application—gear selected for tone and responsiveness rather than just power. His cymbal choices, in particular, prioritized musicality over volume, enabling the album's atmospheric passages.\n\n**Legacy:**\nEvery progressive death metal drummer who prioritizes dynamics over pure aggression owes something to Martin Lopez's work on Blackwater Park. Every producer who captures extreme drums with nuance references this album's approach. Every band that transitions seamlessly between beauty and brutality follows the template Opeth established here.\n\n**For Drummers Today:**\nStudy Blackwater Park not for the licks—though they're worth learning—but for the philosophy. Notice how Lopez uses space. Pay attention to his cymbal choices in different sections. Listen to how the drums serve the song's emotional journey rather than just keeping time. Understand that death metal can have dynamics without losing power.\n\nMartin Lopez's health struggles forced his departure from Opeth in 2006, but his work on Blackwater Park remains immortal. This is the album that taught death metal to breathe—and metal has been richer for it ever since.\n\n🥁 *Blackwater Park — Where brutality meets beauty.* 🥁"
     }
   },
   "deliverance-drum-setup": {
@@ -1758,13 +1719,6 @@ export const articles = {
       "title": "Pedals and Hardware",
       "items": [
         {
-          "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 5000 Double Pedal",
-          "notes": "Reliable double pedal for Deliverance's demanding kick patterns",
-          "description": "Deliverance features some of Lopez's most demanding double-bass work — the sustained patterns in \"Wreath\" push the tempo far beyond anything on Blackwater Park. The DW 5000 double pedal provided the mechanical consistency and responsiveness Lopez needed for both the rapid 16th-note patterns and the more syncopated double-bass work in \"A Fair Judgement.\" Its chain drive offered smooth action across the full tempo range Deliverance demanded."
-        },
-        {
           "type": "Hi-Hat Stand",
           "brand": "DW",
           "model": "DW 5500 Hi-Hat Stand",
@@ -1781,12 +1735,6 @@ export const articles = {
           "brand": "Vic Firth",
           "model": "Vic Firth American Classic 5B",
           "notes": "Heavier stick than the 5A used on Blackwater Park — more mass for aggressive passages"
-        },
-        {
-          "type": "Beaters",
-          "brand": "DW",
-          "model": "DW Hard Felt Beaters",
-          "notes": "Heavier felt beaters for more attack on kick drum passages"
         }
       ],
       "heads": {
@@ -1925,7 +1873,7 @@ export const articles = {
           "drums": "Sonor Designer Series (22\" kick)",
           "snare": "Sonor Designer 14\" x 5.5\"",
           "cymbals": "Sabian HH Hi-Hats, HH Rides, AAX Crashes",
-          "hardware": "DW 5000 Double Pedal, Vic Firth 5A"
+          "hardware": "Vic Firth 5A"
         },
         "notes": "Darker, warmer sound for an album that needed to whisper as much as it thundered."
       },
@@ -1941,7 +1889,7 @@ export const articles = {
           "drums": "Sonor Designer Series (22\" kick)",
           "snare": "Sonor Designer 14\" x 5.5\"",
           "cymbals": "Sabian HH Hi-Hats, HH/AAX Crashes, HH Ride, AAX China",
-          "hardware": "DW 5000 Double Pedal, DW Hard Felt Beaters, Vic Firth 5B"
+          "hardware": "Vic Firth 5B"
         },
         "notes": "Tighter, more aggressive configuration matching Deliverance's brutal production intent."
       },
@@ -1956,7 +1904,7 @@ export const articles = {
           "drums": "Sonor Designer Series (22\" kick)",
           "snare": "Sonor Designer 14\" x 5.5\"",
           "cymbals": "Sabian HH/AAX",
-          "hardware": "DW"
+          "hardware": "Undocumented for this era"
         },
         "notes": "His health struggles were emerging, but Ghost Reveries remains a complete performance."
       }
@@ -1993,12 +1941,6 @@ export const articles = {
           "available": true,
           "priceRange": "$200-400 per cymbal",
           "notes": "Sabian HH and AAX remain in continuous production — the same complement Lopez used from Blackwater Park through Ghost Reveries"
-        },
-        {
-          "item": "DW 5000 Double Pedal",
-          "available": true,
-          "priceRange": "$400-600",
-          "notes": "Industry standard double pedal, largely unchanged from the era Lopez used it"
         },
         {
           "item": "Remo Emperor Clear Heads",
@@ -2065,7 +2007,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Architecture of Brutality",
-      "content": "Deliverance is the album where Martin Lopez pushed every element of his drumming to its maximum — and the result is a record that stands as both Opeth's heaviest statement and a masterclass in applying structural thinking to extreme music.\n\n**Why It Matters:**\nMost death metal drummers at this intensity level abandon musical thinking in favor of pure physical output. Lopez didn't. The fact that Deliverance contains 13-minute tracks that hold the listener's attention is almost entirely a testament to his architectural approach — the fills serve the composition, the patterns create momentum, the dynamics (even in their compressed state) tell a story. Drumming this extreme and this musical in the same performance is extraordinarily rare.\n\n**The Companion Concept:**\nDeliverance cannot be fully understood without Damnation. The fact that the same drummer who barely appears on the acoustic companion album is also playing the most brutal drumming of his career on Deliverance — recorded simultaneously — speaks to the range Lopez possessed. Not many musicians can occupy both poles of that spectrum at the same level.\n\n**The Gear Perspective:**\nSonor Designer Series, Sabian HH/AAX, DW pedals with heavy beaters — Lopez's Deliverance setup was the same trusted rig from Blackwater Park, pushed harder. Every choice served the album's aggressive intent: dark, complex cymbals that still cut through the distortion, a tightened kick, heavier sticks for more authority. Gear doesn't make greatness, but the right gear removes obstacles to it.\n\n**Legacy:**\nEvery progressive death metal band that attempts long-form brutal compositions follows the template Lopez established on Deliverance. The idea that death metal can sustain architectural complexity across 13 minutes — that extreme music can have form and intention beyond intensity — owes enormous debt to this album and this performance.\n\n🥁 *The heaviest album Opeth ever made. The most extreme drumming Martin Lopez ever recorded. Architecture in extremity.* 🥁"
+      "content": "Deliverance is the album where Martin Lopez pushed every element of his drumming to its maximum — and the result is a record that stands as both Opeth's heaviest statement and a masterclass in applying structural thinking to extreme music.\n\n**Why It Matters:**\nMost death metal drummers at this intensity level abandon musical thinking in favor of pure physical output. Lopez didn't. The fact that Deliverance contains 13-minute tracks that hold the listener's attention is almost entirely a testament to his architectural approach — the fills serve the composition, the patterns create momentum, the dynamics (even in their compressed state) tell a story. Drumming this extreme and this musical in the same performance is extraordinarily rare.\n\n**The Companion Concept:**\nDeliverance cannot be fully understood without Damnation. The fact that the same drummer who barely appears on the acoustic companion album is also playing the most brutal drumming of his career on Deliverance — recorded simultaneously — speaks to the range Lopez possessed. Not many musicians can occupy both poles of that spectrum at the same level.\n\n**The Gear Perspective:**\nSonor Designer Series, Sabian HH/AAX, heavier felt beaters — Lopez's Deliverance setup was the same trusted rig from Blackwater Park, pushed harder. Every choice served the album's aggressive intent: dark, complex cymbals that still cut through the distortion, a tightened kick, heavier sticks for more authority. Gear doesn't make greatness, but the right gear removes obstacles to it.\n\n**Legacy:**\nEvery progressive death metal band that attempts long-form brutal compositions follows the template Lopez established on Deliverance. The idea that death metal can sustain architectural complexity across 13 minutes — that extreme music can have form and intention beyond intensity — owes enormous debt to this album and this performance.\n\n🥁 *The heaviest album Opeth ever made. The most extreme drumming Martin Lopez ever recorded. Architecture in extremity.* 🥁"
     }
   },
   "ghost-reveries-drum-setup": {
@@ -2190,13 +2132,6 @@ export const articles = {
       "title": "Pedals and Hardware",
       "items": [
         {
-          "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 5000 Double Pedal",
-          "notes": "The same double pedal Lopez used on Blackwater Park and Deliverance",
-          "description": "Ghost Reveries continued Lopez's use of the DW 5000 double pedal that had carried him through Blackwater Park and Deliverance. Its chain-drive consistency suited the album's mix of sustained blast-beat passages and the more syncopated, jazz-informed double-bass patterns that run through tracks like \"The Baying of the Hounds.\""
-        },
-        {
           "type": "Hi-Hat Stand",
           "brand": "DW",
           "model": "DW 5500 Hi-Hat Stand",
@@ -2256,11 +2191,11 @@ export const articles = {
         "bpm": "120-150",
         "signature": "4/4 with syncopated sections",
         "highlights": [
-          "Syncopated double-bass patterns showcase the DW 5000's quick rebound",
+          "Syncopated double-bass patterns showcase the pedal's quick rebound",
           "Jazz-informed groove beneath death metal aggression",
           "Lopez's most rhythmically complex performance on the album"
         ],
-        "gearNotes": "The same DW 5000 double pedal Lopez used throughout his Opeth tenure lets him articulate the syncopated kick patterns with the precision this track demands."
+        "gearNotes": "The same double pedal Lopez used throughout his Opeth tenure lets him articulate the syncopated kick patterns with the precision this track demands."
       },
       {
         "track": "Reverie/Harlequin Forest",
@@ -2313,7 +2248,7 @@ export const articles = {
     },
     "playingStyle": {
       "title": "A Complete Synthesis: Lopez's Final Statement",
-      "content": "Ghost Reveries finds Martin Lopez drawing on every register of his playing developed across the preceding Opeth albums — the jazz-informed dynamics of Blackwater Park, the sustained physicality of Deliverance, and the acoustic sensitivity of Damnation — and combining them within single tracks rather than across separate albums.\n\n**Structural Continuity:**\n\"Ghost of Perdition\" alone moves through blast beats, syncopated grooves, and a hushed acoustic midsection without ever feeling disjointed. Lopez's transitions between these modes are the clearest evidence of how completely he had internalized the \"drumming as architecture\" philosophy by 2005.\n\n**Rhythmic Complexity:**\n\"The Baying of the Hounds\" showcases syncopated double-bass work more intricate than anything on Deliverance — the same DW 5000 double pedal he'd relied on since Blackwater Park gave him the precision to execute these patterns cleanly at speed.\n\n**Restraint as Strength:**\nEven on the album's heaviest tracks, Lopez never abandons the sense of space that defined his earlier work. His fills continue to function as structural markers rather than displays of technique, a consistency that runs through his entire Opeth catalog.\n\n**A Career Capstone:**\nListening to Ghost Reveries alongside Blackwater Park and Deliverance reveals a drummer who had fully matured — not abandoning any one approach in favor of another, but integrating all of them into a single, complete vocabulary.",
+      "content": "Ghost Reveries finds Martin Lopez drawing on every register of his playing developed across the preceding Opeth albums — the jazz-informed dynamics of Blackwater Park, the sustained physicality of Deliverance, and the acoustic sensitivity of Damnation — and combining them within single tracks rather than across separate albums.\n\n**Structural Continuity:**\n\"Ghost of Perdition\" alone moves through blast beats, syncopated grooves, and a hushed acoustic midsection without ever feeling disjointed. Lopez's transitions between these modes are the clearest evidence of how completely he had internalized the \"drumming as architecture\" philosophy by 2005.\n\n**Rhythmic Complexity:**\n\"The Baying of the Hounds\" showcases syncopated double-bass work more intricate than anything on Deliverance — the same double pedal he'd relied on since Blackwater Park gave him the precision to execute these patterns cleanly at speed.\n\n**Restraint as Strength:**\nEven on the album's heaviest tracks, Lopez never abandons the sense of space that defined his earlier work. His fills continue to function as structural markers rather than displays of technique, a consistency that runs through his entire Opeth catalog.\n\n**A Career Capstone:**\nListening to Ghost Reveries alongside Blackwater Park and Deliverance reveals a drummer who had fully matured — not abandoning any one approach in favor of another, but integrating all of them into a single, complete vocabulary.",
       "signatureSongs": [
         {
           "song": "Ghost of Perdition",
@@ -2349,7 +2284,7 @@ export const articles = {
           "drums": "Sonor Designer Series (22\" kick)",
           "snare": "Sonor Designer 14\" x 5.5\"",
           "cymbals": "Sabian HH Hi-Hats, HH Rides, AAX Crashes",
-          "hardware": "DW 5000 Double Pedal, Vic Firth 5A"
+          "hardware": "Vic Firth 5A"
         },
         "notes": "Darker, warmer sound for an album that needed to whisper as much as it thundered."
       },
@@ -2365,7 +2300,7 @@ export const articles = {
           "drums": "Sonor Designer Series (22\" kick)",
           "snare": "Sonor Designer 14\" x 5.5\"",
           "cymbals": "Sabian HH Hi-Hats, HH/AAX Crashes, HH Ride, AAX China",
-          "hardware": "DW 5000 Double Pedal, DW Hard Felt Beaters, Vic Firth 5B"
+          "hardware": "Vic Firth 5B"
         },
         "notes": "Tighter, more aggressive configuration matching Deliverance's brutal production intent."
       },
@@ -2380,7 +2315,7 @@ export const articles = {
           "drums": "Sonor Designer Series (22\" kick)",
           "snare": "Sonor Designer 14\" x 5.5\"",
           "cymbals": "Sabian HH Hi-Hats, HH/AAX Crashes, HH Ride, AAX China",
-          "hardware": "DW 5000 Double Pedal, Vic Firth 5A"
+          "hardware": "Vic Firth 5A"
         },
         "notes": "Full dynamic range restored after Deliverance's extremity — Lopez's most complete Opeth performance before his 2006 departure."
       }
@@ -2412,12 +2347,6 @@ export const articles = {
           "available": true,
           "priceRange": "$200-400 per cymbal",
           "notes": "Sabian HH and AAX remain in continuous production — the same complement Lopez used from Blackwater Park through Ghost Reveries"
-        },
-        {
-          "item": "DW 5000 Double Pedal",
-          "available": true,
-          "priceRange": "$400-600",
-          "notes": "Industry standard double pedal, largely unchanged from the era Lopez used it"
         },
         {
           "item": "Remo Emperor Clear Heads",
@@ -2675,7 +2604,7 @@ export const articles = {
           "drums": "Sonor Designer Series (Natural Maple)",
           "snare": "Sonor Designer 14\" × 6.5\" Maple",
           "cymbals": "Sabian HH and AAX Series",
-          "pedals": "DW 5000 Double Pedal",
+          "pedals": "Undocumented — no pedal brand confirmed for the Opeth era (Axis Percussion confirmed from 2010)",
           "sticks": "Vic Firth 5A"
         },
         "notes": "The Blackwater Park setup — Sonor Designer, Sabian HH/AAX — became a reference standard for progressive metal drum sounds. Produced by Steven Wilson, these recordings capture Lopez's dynamics with unusual fidelity for extreme metal."
@@ -2862,13 +2791,6 @@ export const articles = {
     "hardware": {
       "title": "The Acoustic Platform",
       "items": [
-        {
-          "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 5000 Double Pedal",
-          "notes": "Smooth and controlled — double bass used sparingly and musically on the acoustic album",
-          "description": "The DW 5000's controlled response suited Damnation's restrained approach perfectly. Where Deliverance demanded power, Damnation asked for precision and dynamic sensitivity."
-        },
         {
           "type": "Hi-Hat Stand",
           "brand": "Sonor",

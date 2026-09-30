@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-30 08:24 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-30 12:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,48 +8,48 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 311 |
-| Sessions | 359 |
-| Page views | 537 |
-| Engagement rate | 57.94% |
-| Avg session (s) | 178 |
+| Active users | 319 |
+| Sessions | 368 |
+| Page views | 569 |
+| Engagement rate | 64.40% |
+| Avg session (s) | 172 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 20 | 14 |
-| /drummer/mario-duplantier | 17 | 13 |
+| / | 21 | 16 |
+| /drummer/mario-duplantier | 18 | 13 |
 | /drummers | 16 | 4 |
 | /drummer/frost | 12 | 3 |
 | /studies/metal-tempo-by-subgenre | 12 | 3 |
+| /drummer/eloy-casagrande | 10 | 6 |
+| /drummer/bill-ward | 9 | 9 |
 | /quiz | 9 | 2 |
-| /drummer/bill-ward | 8 | 9 |
-| /drummer/eloy-casagrande | 8 | 5 |
 | /techniques | 8 | 2 |
-| /drummer/jaska-raatikainen | 7 | 3 |
+| /articles/somewhere-in-time-drum-setup | 7 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 266 | 222 |
-| Unassigned | 52 | 49 |
-| Direct | 39 | 38 |
-| Cross-network | 37 | 37 |
+| Organic Search | 297 | 253 |
+| Direct | 42 | 41 |
+| Unassigned | 25 | 24 |
+| Cross-network | 21 | 21 |
 | AI Assistant | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 146 | 122 |
-| United Kingdom | 22 | 11 |
-| Germany | 21 | 19 |
+| United Kingdom | 23 | 12 |
+| Germany | 22 | 20 |
 | Australia | 19 | 18 |
 | Canada | 19 | 17 |
-| China | 14 | 14 |
-| France | 8 | 8 |
-| Spain | 8 | 6 |
+| China | 15 | 15 |
+| France | 9 | 9 |
+| Spain | 9 | 7 |
+| Singapore | 7 | 7 |
 | Finland | 6 | 5 |
-| Singapore | 6 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

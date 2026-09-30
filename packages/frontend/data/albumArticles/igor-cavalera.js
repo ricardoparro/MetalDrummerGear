@@ -2453,9 +2453,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark 2B Wood Tip",
-          "notes": "Consistent stick choice from Inflikted — heavier for power and projection"
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Igor's consistent stick choice since 1993 — heavier for power and projection"
         }
       ],
       "heads": {

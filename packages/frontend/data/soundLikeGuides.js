@@ -15850,11 +15850,11 @@ This guide breaks down the technique, gear, and practice approach behind Ilejay'
         alternative: "DW 5000 or Tama Speed Cobra for similarly consistent double-pedal action."
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth American Classic 5A',
-        specs: 'Standard 5A profile',
+        brand: 'Promark',
+        model: 'Promark 5B',
+        specs: 'Standard 5B profile',
         description: "A balanced-weight stick that suits Ilejay's full-arm power strokes while retaining enough control for cymbal articulation at arena volume.",
-        alternative: "Any standard 5A stick will match the weight and rebound."
+        alternative: "Any standard 5B stick will match the weight and rebound."
       },
       heads: {
         kick: 'Remo Powerstroke 3 (batter)',
@@ -15953,7 +15953,7 @@ This guide breaks down the technique, gear, and practice approach behind Ilejay'
       },
       {
         question: "What gear should I use to sound like Arin Ilejay?",
-        answer: "Ilejay recorded Hail to the King on a DW Collector's Series kit in Tobacco Burst finish, a DW Collector's 14\" x 5.5\" Maple/Mahogany snare, a full Zildjian A Custom cymbal setup, a DW 9000 Series double bass pedal, and Vic Firth American Classic 5A sticks. A budget setup can approximate this with any maple kit, a medium-tuned maple/mahogany snare, and bright A Custom-style cymbals."
+        answer: "Ilejay recorded Hail to the King on a DW Collector's Series kit in Tobacco Burst finish, a DW Collector's 14\" x 5.5\" Maple/Mahogany snare, a full Zildjian A Custom cymbal setup, a DW 9000 Series double bass pedal, and Promark 5B sticks. A budget setup can approximate this with any maple kit, a medium-tuned maple/mahogany snare, and bright A Custom-style cymbals."
       },
       {
         question: "What songs should I learn first to sound like Arin Ilejay?",

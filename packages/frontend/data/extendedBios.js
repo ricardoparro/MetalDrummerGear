@@ -3493,7 +3493,7 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
 - **Cymbals**: Zildjian or Sabian (bright, cutting series for extreme metal)
 - **Hardware**: Tama Speed Cobra 910 Double Pedal
 - **Sticks**: Vic Firth or Promark 5B/2B for durability
-- **Heads**: Evans (EMAD or Genera series)
+- **Heads**: Remo (Powerstroke 3 series)
 
 **Setup Philosophy:**
 - Prioritizes durability and consistency for extreme applications

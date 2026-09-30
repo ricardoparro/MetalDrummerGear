@@ -50104,7 +50104,7 @@ This guide breaks down what actually makes a kit work for progressive metal — 
         {
           name: "Hardware for Odd-Meter Precision",
           icon: "🔧",
-          description: "Complex time signatures demand hardware that holds precise positioning through demanding double bass and cross-rhythm patterns — Sonor Perfect Balance pedals (Harrison), Tama Iron Cobra (Portnoy), and Pearl Demon Drive (Mangini) are all built for this.",
+          description: "Complex time signatures demand hardware that holds precise positioning through demanding double bass and cross-rhythm patterns — Sonor Perfect Balance pedals (Harrison), Tama Iron Cobra (Portnoy), and Pearl Eliminator Redline (Mangini) are all built for this.",
           recommendation: "Invest in premium double pedals and mounting hardware that stays locked in through complex patterns"
         }
       ]
@@ -94222,14 +94222,14 @@ For most power metal drummers, start with a standard Vic Firth 5A to find your b
     // SEO metadata
     title: "Best Drum Pedals for Progressive Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Progressive Metal 2026 | MetalForge Guide",
-    description: "Best double bass pedals for progressive metal drumming. What Mike Mangini (Pearl Demon Drive), Gavin Harrison (Sonor Perfect Balance), and Mike Portnoy (Tama Iron Cobra) actually use — from budget to pro, built for odd-meter precision.",
+    description: "Best double bass pedals for progressive metal drumming. What Mike Mangini (Pearl Eliminator Redline), Gavin Harrison (Sonor Perfect Balance), and Mike Portnoy (Tama Iron Cobra) actually use — from budget to pro, built for odd-meter precision.",
     seoKeywords: [
       'best drum pedals for progressive metal',
       'progressive metal drum pedals',
       'mike mangini pedal dream theater',
       'gavin harrison pedal porcupine tree',
       'mike portnoy pedal dream theater',
-      'pearl demon drive progressive metal',
+      'pearl eliminator redline progressive metal',
       'sonor perfect balance pedal',
       'tama iron cobra progressive metal',
       'double bass pedals odd time signatures',
@@ -94259,11 +94259,11 @@ For most power metal drummers, start with a standard Vic Firth 5A to find your b
       title: "Why Progressive Metal Demands a Different Kind of Pedal",
       content: `Progressive metal pedal requirements have almost nothing in common with death or black metal's pure endurance test. A prog metal drummer needs a pedal that tracks precisely through constantly shifting odd-meter groupings, responds to ghost-note-level dynamic nuance in a quiet passage, and still delivers full double-bass power the instant a song erupts into a dense, high-gain climax — sometimes within the same bar.
 
-Mike Mangini rotates through Dream Theater's most technically demanding material on a Pearl Demon Drive double pedal, prizing its direct-drive precision for the independent-limb technique that defines his playing. Gavin Harrison of Porcupine Tree and King Crimson relies on a Sonor Perfect Balance pedal to hold exact positioning through complex cross-rhythm patterns without ever feeling like the hardware is fighting his touch-focused technique. Mike Portnoy has anchored Dream Theater, Liquid Tension Experiment, and every project since on a Tama Iron Cobra, valuing its proven chain-drive reliability across three decades of the genre's most technically demanding double bass writing.
+Mike Mangini rotates through Dream Theater's most technically demanding material on a Pearl Eliminator Redline double pedal, prizing its sprocket-less chain-drive precision for the independent-limb technique that defines his playing. Gavin Harrison of Porcupine Tree and King Crimson relies on a Sonor Perfect Balance pedal to hold exact positioning through complex cross-rhythm patterns without ever feeling like the hardware is fighting his touch-focused technique. Mike Portnoy has anchored Dream Theater, Liquid Tension Experiment, and every project since on a Tama Iron Cobra, valuing its proven chain-drive reliability across three decades of the genre's most technically demanding double bass writing.
 
 This guide breaks down what actually makes a pedal work for progressive metal — precision under odd-meter complexity, dynamic sensitivity, and touring reliability — and which specific pedals these three influential drummers rely on, from accessible starter options to the professional rigs behind prog metal's most celebrated records.`,
       keyPoints: [
-        "Mike Mangini's Pearl Demon Drive delivers the direct-drive precision his independent-limb technique demands",
+        "Mike Mangini's Pearl Eliminator Redline delivers sprocket-less chain-drive precision his independent-limb technique demands",
         "Gavin Harrison's Sonor Perfect Balance pedal holds exact positioning through complex cross-rhythm patterns",
         "Mike Portnoy's Tama Iron Cobra has proven chain-drive reliability across three decades of prog metal's most demanding writing",
         "Odd-meter precision and dynamic sensitivity matter as much as raw double-bass speed in progressive metal"
@@ -94277,7 +94277,7 @@ This guide breaks down what actually makes a pedal work for progressive metal �
         {
           name: "Odd-Meter Tracking Precision",
           icon: "🧮",
-          description: "Progressive metal's constantly shifting time signatures demand hardware that holds precise positioning through demanding double bass and cross-rhythm patterns — Sonor Perfect Balance pedals (Harrison), Tama Iron Cobra (Portnoy), and Pearl Demon Drive (Mangini) are all built for this kind of consistency.",
+          description: "Progressive metal's constantly shifting time signatures demand hardware that holds precise positioning through demanding double bass and cross-rhythm patterns — Sonor Perfect Balance pedals (Harrison), Tama Iron Cobra (Portnoy), and Pearl Eliminator Redline (Mangini) are all built for this kind of consistency.",
           recommendation: "Direct drive or premium chain drive with tight, consistent tracking through irregular groupings"
         },
         {
@@ -94289,8 +94289,8 @@ This guide breaks down what actually makes a pedal work for progressive metal �
         {
           name: "Drive System Character",
           icon: "⚙️",
-          description: "Mangini's direct-drive Demon Drive offers clinical, immediate response suited to his independently articulated limb technique, while Portnoy's chain-drive Iron Cobra gives a touch more natural swing that has served Dream Theater's material for three decades.",
-          recommendation: "Direct drive for maximum precision; chain drive for a more traditional feel with proven reliability"
+          description: "Mangini's sprocket-less chain-drive Eliminator Redline offers clinical, near-direct-drive response suited to his independently articulated limb technique, while Portnoy's traditional chain-drive Iron Cobra gives a touch more natural swing that has served Dream Theater's material for three decades.",
+          recommendation: "Sprocket-less chain drive for maximum precision; traditional chain drive for a more classic feel with proven reliability"
         },
         {
           name: "Independent Limb Technique Support",
@@ -94319,43 +94319,42 @@ This guide breaks down what actually makes a pedal work for progressive metal �
       pedals: [
         {
           rank: 1,
-          name: "Pearl Demon Drive",
+          name: "Pearl Eliminator Redline",
           brand: "Pearl",
-          model: "P3002D Demon Drive",
+          model: "P2052C Eliminator Redline",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€500-600",
+          priceRange: "€350-450",
           tier: "pro",
-          driveType: "Direct Drive",
+          driveType: "Chain Drive (sprocket-less)",
 
-          description: `Mike Mangini plays a Pearl Demon Drive double pedal as part of his Pearl Reference kit setup with Dream Theater, valuing its direct-drive precision for the famously independent limb technique that defines his playing. When each foot may be tracking a completely different subdivision than the hands, the pedal needs to respond with total consistency — no lag, no ambiguity, just an immediate mechanical translation of exactly what the foot does.
+          description: `Mike Mangini plays a Pearl Eliminator Redline double pedal with Dream Theater, valuing its sprocket-less double chain drive for the famously independent limb technique that defines his playing. When each foot may be tracking a completely different subdivision than the hands, the pedal needs to respond with total consistency — no lag, no ambiguity, just an immediate mechanical translation of exactly what the foot does.
 
-The Demon Drive's NiNjA bearing system and Click-Lock spring tension mean Mangini's setup holds its calibration through Dream Theater's most technically demanding, dynamically shifting material night after night, whether he's tracking a delicate half-time passage or driving a dense odd-meter double bass pattern.`,
+The Eliminator Redline's NiNjA bearing system — also used in Pearl's flagship pedal line — pairs with a 3-position PowerShifter footboard so his setup holds its calibration through Dream Theater's most technically demanding, dynamically shifting material night after night, whether he's tracking a delicate half-time passage or driving a dense odd-meter double bass pattern.`,
 
           pros: [
-            "Mike Mangini's Dream Theater setup — proven at the highest technical level since 2010",
-            "Direct drive precision suited to independent limb technique",
-            "NiNjA bearing system for frictionless, consistent response",
-            "Click-Lock spring tension holds calibration under demanding use",
-            "Integrates cleanly with hybrid acoustic/electronic setups"
+            "Mike Mangini's Dream Theater setup — proven at the highest technical level since 2011",
+            "Sprocket-less chain drive gives near-direct-drive response",
+            "NiNjA bearing system (shared with Pearl's Demon Drive) for frictionless, consistent response",
+            "PowerShifter 3-position footboard for adjustable power and feel",
+            "Interchangeable color-coded cams for tunable response"
           ],
           cons: [
-            "Premium pricing",
-            "Direct drive feel may be less forgiving for beginners than chain drive",
+            "Mid-tier pricing sits below Pearl's flagship direct-drive Demon Drive",
+            "Chain drive feel may be less forgiving for beginners",
             "Heavier than entry-level double pedals"
           ],
           specs: {
-            drive: "Direct Drive (interchangeable cams)",
+            drive: "Chain Drive (sprocket-less double chain, interchangeable cams)",
             bearings: "NiNjA Bearings",
-            footboard: "PowerShifter Longboard",
-            beater: "Demon Beater (reversible)",
-            weight: "4.5 kg (pair)"
+            footboard: "PowerShifter (3-position)",
+            construction: "Aircraft-grade aluminum"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Demon Drive — independent limb technique precision" }
+            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Eliminator Redline — independent limb technique precision" }
           ],
           verdict: "The progressive metal standard for technical precision. If Mangini's independent-limb technique demands it, it'll handle anything you throw at it.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_demon_drive_double_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_eliminator_redline_double_pedal.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -94481,7 +94480,7 @@ For prog metal players who want to develop precise, controllable double bass tec
     // Budget options section
     budgetOptions: {
       title: "Best Budget Pedals for Progressive Metal",
-      description: "You don't need a Demon Drive or Perfect Balance to start developing odd-meter foot technique. These pedals deliver genuine precision for developing players.",
+      description: "You don't need an Eliminator Redline or Perfect Balance to start developing odd-meter foot technique. These pedals deliver genuine precision for developing players.",
       pedals: [
         {
           name: "Tama Iron Cobra 600",
@@ -94502,28 +94501,28 @@ For prog metal players who want to develop precise, controllable double bass tec
 
     // Comparison
     comparison: {
-      title: "Direct Drive vs Chain Drive for Progressive Metal",
-      content: `Progressive metal's leading drummers split cleanly between two philosophies:
+      title: "Sprocket-less vs Traditional Chain Drive for Progressive Metal",
+      content: `Progressive metal's leading drummers split cleanly between two chain-drive philosophies:
 
-**Direct Drive (Pearl Demon Drive — Mangini):**
-- Clinical, immediate response suited to independent limb technique
+**Sprocket-less Chain Drive (Pearl Eliminator Redline — Mangini):**
+- Clinical, near-direct-drive response suited to independent limb technique
 - Consistent tracking regardless of how independently each limb moves
-- Premium price point
+- Mid-tier price point
 
-**Chain Drive (Sonor Perfect Balance — Harrison; Tama Iron Cobra — Portnoy):**
+**Traditional Chain Drive (Sonor Perfect Balance — Harrison; Tama Iron Cobra — Portnoy):**
 - Slight natural swing that many drummers find more musical
 - Harrison's Perfect Balance proves chain drive rewards touch and restraint just as well as raw force
 - Portnoy's three-decade track record on Iron Cobra proves chain drive holds up under the most demanding professional use
-- Generally more accessible pricing
+- Generally accessible pricing
 
-**The Truth:** All three approaches have produced some of progressive metal's most celebrated recordings. Mangini's direct drive suits drummers whose technique depends on absolute limb independence. Harrison's and Portnoy's chain drive choices prove that natural swing and proven reliability serve odd-meter complexity just as effectively.
+**The Truth:** All three approaches have produced some of progressive metal's most celebrated recordings. Mangini's sprocket-less chain drive suits drummers whose technique depends on absolute limb independence. Harrison's and Portnoy's traditional chain drive choices prove that natural swing and proven reliability serve odd-meter complexity just as effectively.
 
-**Our Recommendation:** Choose direct drive if your technique depends on total limb independence at speed. Choose chain drive if you want proven reliability and a more traditional feel underfoot.`,
+**Our Recommendation:** Choose sprocket-less chain drive if your technique depends on total limb independence at speed. Choose traditional chain drive if you want proven reliability and a more classic feel underfoot.`,
       comparisonTable: [
         { feature: "Odd-Meter Precision", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Touch and Dynamic Control", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Touring Reliability", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
-        { feature: "Price (entry)", directDrive: "€500+", chainDrive: "€250+" }
+        { feature: "Price (entry)", directDrive: "€350+", chainDrive: "€250+" }
       ]
     },
 
@@ -94533,8 +94532,8 @@ For prog metal players who want to develop precise, controllable double bass tec
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Demon Drive",
-          reason: "Mike Mangini's setup — direct-drive precision for independent limb technique at the highest technical level."
+          pedal: "Pearl Eliminator Redline",
+          reason: "Mike Mangini's setup — sprocket-less chain-drive precision for independent limb technique at the highest technical level."
         },
         {
           category: "Best for Touch and Restraint",
@@ -94561,14 +94560,14 @@ For prog metal players who want to develop precise, controllable double bass tec
       'best-snare-drums-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Demon Drive — independent limb technique precision' },
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Eliminator Redline — independent limb technique precision' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor Perfect Balance — touch and dynamic restraint' },
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Iron Cobra — three decades of prog metal reliability' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Demon Drive for independent limb technique precision' },
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Eliminator Redline for independent limb technique precision' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor Perfect Balance for touch and dynamic restraint' },
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Iron Cobra proven across three decades of prog metal' }
     ],
@@ -94577,7 +94576,7 @@ For prog metal players who want to develop precise, controllable double bass tec
     faq: [
       {
         question: "What drum pedal does Mike Mangini use?",
-        answer: "Mike Mangini of Dream Theater plays a Pearl Demon Drive double pedal, valuing its direct-drive precision for the independently articulated limb technique that defines his playing. It's paired with his Pearl Reference kit and Roland SPD-SX sampling integration."
+        answer: "Mike Mangini of Dream Theater plays a Pearl Eliminator Redline double pedal, valuing its sprocket-less chain-drive precision for the independently articulated limb technique that defines his playing. It's paired with his Pearl kit and Roland SPD-SX sampling integration."
       },
       {
         question: "What pedal does Gavin Harrison use?",
@@ -94589,7 +94588,7 @@ For prog metal players who want to develop precise, controllable double bass tec
       },
       {
         question: "Direct drive or chain drive for progressive metal?",
-        answer: "Both work at the highest level. Mike Mangini's direct-drive Pearl Demon Drive suits drummers whose technique depends on total independence between limbs. Gavin Harrison's and Mike Portnoy's chain-drive choices (Sonor Perfect Balance and Tama Iron Cobra) prove that natural swing and proven reliability serve odd-meter complexity just as effectively. Choose based on feel, not just spec sheets."
+        answer: "Both approaches work at the highest level. Mike Mangini's sprocket-less chain-drive Pearl Eliminator Redline suits drummers whose technique depends on total independence between limbs. Gavin Harrison's and Mike Portnoy's traditional chain-drive choices (Sonor Perfect Balance and Tama Iron Cobra) prove that natural swing and proven reliability serve odd-meter complexity just as effectively. Choose based on feel, not just spec sheets."
       },
       {
         question: "Do I need an expensive pedal to play progressive metal?",
@@ -94600,7 +94599,7 @@ For prog metal players who want to develop precise, controllable double bass tec
     // Conclusion
     conclusion: {
       title: "Find Your Progressive Metal Pedal Voice",
-      content: `Progressive metal pedal choice comes down to how your own technique works. Mike Mangini's direct-drive Pearl Demon Drive exists because his independent limb technique needs a pedal with zero ambiguity in its response. Gavin Harrison's Sonor Perfect Balance exists because his touch-focused, restraint-driven approach needs a pedal that rewards nuance rather than force. Mike Portnoy's Tama Iron Cobra has simply proven, across three decades of the genre's most demanding writing, that reliable chain drive can carry a career.
+      content: `Progressive metal pedal choice comes down to how your own technique works. Mike Mangini's sprocket-less chain-drive Pearl Eliminator Redline exists because his independent limb technique needs a pedal with zero ambiguity in its response. Gavin Harrison's Sonor Perfect Balance exists because his touch-focused, restraint-driven approach needs a pedal that rewards nuance rather than force. Mike Portnoy's Tama Iron Cobra has simply proven, across three decades of the genre's most demanding writing, that reliable chain drive can carry a career.
 
 Whichever you choose, remember that progressive metal rewards precision and dynamic control over raw speed. Spend time developing foot independence and dynamic sensitivity — the pedal is only as good as the technique driving it.
 
@@ -106293,14 +106292,14 @@ Whatever you choose: build the soft touch first, then let the crescendo take car
     // SEO metadata
     title: "Best Bass Drum Pedals for Progressive Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drum Pedals for Progressive Metal 2026 | MetalForge Expert Guide",
-    description: "Best bass drum pedals for progressive metal's odd-meter, polyrhythmic footwork. What Mike Mangini (Pearl Demon Drive), Gavin Harrison (Sonor Perfect Balance), and Mike Portnoy (Tama Iron Cobra) actually play — adjustable, precise double bass hardware from budget to pro.",
+    description: "Best bass drum pedals for progressive metal's odd-meter, polyrhythmic footwork. What Mike Mangini (Pearl Eliminator Redline), Gavin Harrison (Sonor Perfect Balance), and Mike Portnoy (Tama Iron Cobra) actually play — adjustable, precise double bass hardware from budget to pro.",
     seoKeywords: [
       'best bass drum pedal for progressive metal',
       'double bass pedal for progressive metal',
       'mike mangini bass drum pedal',
       'gavin harrison bass drum pedal',
       'mike portnoy bass drum pedal',
-      'pearl demon drive odd meter',
+      'pearl eliminator redline odd meter',
       'sonor perfect balance progressive metal',
       'double bass pedal polyrhythms',
       'adjustable bass drum pedal progressive metal',
@@ -106330,11 +106329,11 @@ Whatever you choose: build the soft touch first, then let the crescendo take car
       title: "Why Progressive Metal's Odd Meters Demand a Precisely Adjustable Pedal",
       content: `Progressive metal's double bass demands share almost nothing with death or black metal's pure endurance test. A prog metal drummer needs a bass drum pedal that tracks precisely through constantly shifting odd-meter groupings, responds to ghost-note-level dynamic nuance in a quiet passage, and still delivers full double-bass power the instant a song erupts into a dense, polyrhythmic climax — sometimes within the same bar.
 
-Mike Mangini rotates through Dream Theater's most technically demanding material on a Pearl Demon Drive double pedal, prizing its direct-drive precision for the independent-limb technique that defines his playing. Gavin Harrison of Porcupine Tree and King Crimson relies on a Sonor Perfect Balance pedal to hold exact positioning through complex cross-rhythm patterns without the hardware ever fighting his touch-focused technique. Mike Portnoy has anchored Dream Theater, Liquid Tension Experiment, and every project since on a Tama Iron Cobra, valuing its proven chain-drive reliability across three decades of the genre's most technically demanding double bass writing.
+Mike Mangini rotates through Dream Theater's most technically demanding material on a Pearl Eliminator Redline double pedal, prizing its sprocket-less chain-drive precision for the independent-limb technique that defines his playing. Gavin Harrison of Porcupine Tree and King Crimson relies on a Sonor Perfect Balance pedal to hold exact positioning through complex cross-rhythm patterns without the hardware ever fighting his touch-focused technique. Mike Portnoy has anchored Dream Theater, Liquid Tension Experiment, and every project since on a Tama Iron Cobra, valuing its proven chain-drive reliability across three decades of the genre's most technically demanding double bass writing.
 
 This guide breaks down what actually makes a bass drum pedal work for progressive metal — odd-meter tracking precision, adjustable dynamic sensitivity, and touring reliability — with specific pedal recommendations from accessible starter options through the professional rigs behind prog metal's most celebrated records.`,
       keyPoints: [
-        "Mike Mangini's Pearl Demon Drive delivers the direct-drive precision his independent-limb technique demands through odd meters",
+        "Mike Mangini's Pearl Eliminator Redline delivers sprocket-less chain-drive precision his independent-limb technique demands through odd meters",
         "Gavin Harrison's Sonor Perfect Balance pedal holds exact positioning through complex cross-rhythm and polyrhythmic patterns",
         "Mike Portnoy's Tama Iron Cobra has proven chain-drive reliability across three decades of prog metal's most demanding writing",
         "Precise, adjustable action for odd-meter footwork matters as much as raw double-bass speed in progressive metal"
@@ -106348,7 +106347,7 @@ This guide breaks down what actually makes a bass drum pedal work for progressiv
         {
           name: "Odd-Meter Tracking Precision",
           icon: "🧮",
-          description: "Progressive metal's constantly shifting time signatures demand hardware that holds precise positioning through demanding double bass and polyrhythmic patterns — Sonor Perfect Balance (Harrison), Tama Iron Cobra (Portnoy), and Pearl Demon Drive (Mangini) are all built for this kind of consistency.",
+          description: "Progressive metal's constantly shifting time signatures demand hardware that holds precise positioning through demanding double bass and polyrhythmic patterns — Sonor Perfect Balance (Harrison), Tama Iron Cobra (Portnoy), and Pearl Eliminator Redline (Mangini) are all built for this kind of consistency.",
           recommendation: "Direct drive or premium chain drive with tight, consistent tracking through irregular groupings"
         },
         {
@@ -106360,8 +106359,8 @@ This guide breaks down what actually makes a bass drum pedal work for progressiv
         {
           name: "Drive System Character",
           icon: "⚙️",
-          description: "Mangini's direct-drive Demon Drive offers clinical, immediate response suited to his independently articulated limb technique, while Portnoy's chain-drive Iron Cobra gives a touch more natural swing that has served Dream Theater's odd-meter material for three decades.",
-          recommendation: "Direct drive for maximum precision; chain drive for a more traditional feel with proven reliability"
+          description: "Mangini's sprocket-less chain-drive Eliminator Redline offers clinical, near-direct-drive response suited to his independently articulated limb technique, while Portnoy's traditional chain-drive Iron Cobra gives a touch more natural swing that has served Dream Theater's odd-meter material for three decades.",
+          recommendation: "Sprocket-less chain drive for maximum precision; traditional chain drive for a more classic feel with proven reliability"
         },
         {
           name: "Independent Limb Technique Support",
@@ -106384,40 +106383,39 @@ This guide breaks down what actually makes a bass drum pedal work for progressiv
       pedals: [
         {
           rank: 1,
-          name: "Pearl Demon Drive",
+          name: "Pearl Eliminator Redline",
           brand: "Pearl",
-          model: "P3002D Demon Drive Double Pedal",
+          model: "P2052C Eliminator Redline",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€500-600 per double set",
+          priceRange: "€350-450 per double set",
           tier: "pro",
-          driveType: "Direct Drive",
-          description: `Mike Mangini plays a Pearl Demon Drive double pedal as part of his Dream Theater setup, valuing its direct-drive precision for the famously independent limb technique that defines his playing. When each foot may be tracking a completely different subdivision than the hands, the pedal needs to respond with total consistency — no lag, no ambiguity, just an immediate mechanical translation of exactly what the foot does.
+          driveType: "Chain Drive (sprocket-less)",
+          description: `Mike Mangini plays a Pearl Eliminator Redline double pedal as part of his Dream Theater setup, valuing its sprocket-less double chain drive for the famously independent limb technique that defines his playing. When each foot may be tracking a completely different subdivision than the hands, the pedal needs to respond with total consistency — no lag, no ambiguity, just an immediate mechanical translation of exactly what the foot does.
 
-The Demon Drive's NiNjA bearing system and Click-Lock spring tension mean Mangini's setup holds its calibration through Dream Theater's most technically demanding, odd-meter material night after night.`,
+The Eliminator Redline's NiNjA bearing system — also used in Pearl's flagship pedal line — pairs with a 3-position PowerShifter footboard so his setup holds its calibration through Dream Theater's most technically demanding, odd-meter material night after night.`,
           pros: [
-            "Mike Mangini's Dream Theater setup — proven at the highest technical level since 2010",
-            "Direct drive precision suited to independent limb technique",
-            "NiNjA bearing system for frictionless, consistent response",
-            "Click-Lock spring tension holds calibration under demanding use"
+            "Mike Mangini's Dream Theater setup — proven at the highest technical level since 2011",
+            "Sprocket-less chain drive gives near-direct-drive response",
+            "NiNjA bearing system (shared with Pearl's Demon Drive) for frictionless, consistent response",
+            "PowerShifter 3-position footboard for adjustable power and feel"
           ],
           cons: [
-            "Premium pricing",
-            "Direct drive feel may be less forgiving for beginners than chain drive",
+            "Mid-tier pricing sits below Pearl's flagship direct-drive Demon Drive",
+            "Chain drive feel may be less forgiving for beginners",
             "Heavier than entry-level double pedals"
           ],
           specs: {
-            drive: "Direct Drive (interchangeable cams)",
-            cam: "Interchangeable direct-drive cams",
+            drive: "Chain Drive (sprocket-less double chain)",
+            cam: "Interchangeable color-coded cams",
             frame: "Aircraft-grade aluminum",
-            beater: "Demon Beater (reversible)",
-            footboard: "PowerShifter Longboard"
+            footboard: "PowerShifter (3-position)"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Demon Drive — independent limb technique precision through odd meters" }
+            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Eliminator Redline — independent limb technique precision through odd meters" }
           ],
           verdict: "The progressive metal standard for technical precision through odd-meter footwork.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_demon_drive_double_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_eliminator_redline_double_pedal.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -106533,7 +106531,7 @@ Portnoy's longevity on this single pedal design, across a career built on consta
     // Budget options section
     budgetOptions: {
       title: "Best Budget Bass Drum Pedals for Progressive Metal",
-      description: "You don't need a Demon Drive or Perfect Balance to start developing odd-meter foot technique. These pedals deliver genuine precision for developing players.",
+      description: "You don't need an Eliminator Redline or Perfect Balance to start developing odd-meter foot technique. These pedals deliver genuine precision for developing players.",
       pedals: [
         {
           name: "Tama Iron Cobra 600",
@@ -106558,8 +106556,8 @@ Portnoy's longevity on this single pedal design, across a career built on consta
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Demon Drive",
-          reason: "Mike Mangini's setup — direct-drive precision for independent limb technique through odd meters at the highest technical level."
+          pedal: "Pearl Eliminator Redline",
+          reason: "Mike Mangini's setup — sprocket-less chain-drive precision for independent limb technique through odd meters at the highest technical level."
         },
         {
           category: "Best for Touch and Restraint",
@@ -106582,13 +106580,13 @@ Portnoy's longevity on this single pedal design, across a career built on consta
       'best-snare-drums-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Demon Drive — independent limb technique precision through odd meters' },
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Eliminator Redline — independent limb technique precision through odd meters' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor Perfect Balance — touch and precision through complex cross-rhythms' },
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Iron Cobra — three decades of odd-meter prog metal reliability' }
     ],
 
     featuredDrummers: [
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Demon Drive for independent limb technique precision' },
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Eliminator Redline for independent limb technique precision' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor Perfect Balance for touch and dynamic restraint' }
     ],
 
@@ -106596,7 +106594,7 @@ Portnoy's longevity on this single pedal design, across a career built on consta
     faq: [
       {
         question: "What bass drum pedal does Mike Mangini use?",
-        answer: "Mike Mangini of Dream Theater plays a Pearl Demon Drive double pedal, valuing its direct-drive precision for the independently articulated limb technique his odd-meter material demands."
+        answer: "Mike Mangini of Dream Theater plays a Pearl Eliminator Redline double pedal, valuing its sprocket-less chain-drive precision for the independently articulated limb technique his odd-meter material demands."
       },
       {
         question: "What pedal does Gavin Harrison use?",
@@ -106608,7 +106606,7 @@ Portnoy's longevity on this single pedal design, across a career built on consta
       },
       {
         question: "Direct drive or chain drive for progressive metal's odd meters?",
-        answer: "Both work at the highest level. Mike Mangini's direct-drive Pearl Demon Drive suits drummers whose technique depends on total independence between limbs. Gavin Harrison's and Mike Portnoy's chain-drive choices prove that natural swing and proven reliability serve odd-meter complexity just as effectively."
+        answer: "Both approaches work at the highest level. Mike Mangini's sprocket-less chain-drive Pearl Eliminator Redline suits drummers whose technique depends on total independence between limbs. Gavin Harrison's and Mike Portnoy's traditional chain-drive choices prove that natural swing and proven reliability serve odd-meter complexity just as effectively."
       },
       {
         question: "Do I need an expensive pedal to play progressive metal?",
@@ -106619,7 +106617,7 @@ Portnoy's longevity on this single pedal design, across a career built on consta
     // Conclusion
     conclusion: {
       title: "Find Your Progressive Metal Pedal Voice",
-      content: `Progressive metal bass drum pedal choice comes down to how your own technique works. Mike Mangini's direct-drive Pearl Demon Drive exists because his independent limb technique needs a pedal with zero ambiguity in its response through odd meters. Gavin Harrison's Sonor Perfect Balance exists because his touch-focused, restraint-driven approach needs a pedal that rewards nuance rather than force. Mike Portnoy's Tama Iron Cobra has simply proven, across three decades of the genre's most demanding writing, that reliable chain drive can carry a career.
+      content: `Progressive metal bass drum pedal choice comes down to how your own technique works. Mike Mangini's sprocket-less chain-drive Pearl Eliminator Redline exists because his independent limb technique needs a pedal with zero ambiguity in its response through odd meters. Gavin Harrison's Sonor Perfect Balance exists because his touch-focused, restraint-driven approach needs a pedal that rewards nuance rather than force. Mike Portnoy's Tama Iron Cobra has simply proven, across three decades of the genre's most demanding writing, that reliable chain drive can carry a career.
 
 Whichever you choose, remember that progressive metal rewards precision and adjustable dynamic control over raw speed. Spend time developing foot independence and odd-meter feel — the pedal is only as good as the technique driving it.
 

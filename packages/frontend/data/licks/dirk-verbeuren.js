@@ -163,7 +163,6 @@ export const licks = {
     "gearUsed": [
       { "name": "Tama Starclassic Performer Kit", "type": "drums", "link": null },
       { "name": "Meinl Byzance Dark Cymbals", "type": "cymbals", "link": null },
-      { "name": "Tama Speed Cobra 910 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vater Power 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [

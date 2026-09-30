@@ -5769,7 +5769,7 @@ Buy cymbals in person if possible — sound and feel matter more than specificat
     // SEO metadata
     title: "Best Snare Drums for Thrash Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Thrash Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best snare drums for thrash metal. From the Ludwig Supraphonic on Master of Puppets to modern metal snares used by Dave Lombardo, Lars Ulrich, and Charlie Benante.",
+    description: "Discover the best snare drums for thrash metal — from the classic Ludwig Supraphonic to the Tama steel snares used by Lars Ulrich, Dave Lombardo, and Charlie Benante.",
     seoKeywords: [
       'best snare drum thrash metal',
       'metal snare drums',
@@ -5879,7 +5879,7 @@ This guide breaks down exactly what makes a great thrash snare, recommends speci
           
           description: `The Ludwig Supraphonic is the most recorded snare drum in history—and for good reason. Its seamless aluminum "Ludalloy" shell delivers the perfect balance of bright attack and warm body that cuts through any mix. The LM402 (6.5" depth) has appeared on more thrash albums than any other snare.
 
-Lars Ulrich used a Supraphonic on "Master of Puppets," establishing the gold standard for thrash snare tone. The drum's sensitivity handles ghost notes as well as full-force rimshots, making it versatile enough for thrash's dynamic range.`,
+The drum's sensitivity handles ghost notes as well as full-force rimshots, making it versatile enough for thrash's dynamic range.`,
           
           pros: [
             "The most recorded snare in thrash history",
@@ -5901,7 +5901,6 @@ Lars Ulrich used a Supraphonic on "Master of Puppets," establishing the gold sta
             throwOff: "P85 snare strainer"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Master of Puppets sessions" },
             { name: "Dave Lombardo", band: "Slayer", note: "Various Slayer albums" },
             { name: "Gene Hoglan", band: "Death/Testament", note: "Classic recordings" },
             { name: "Countless session drummers", band: "Various", note: "The studio standard" }
@@ -6153,8 +6152,8 @@ The 1mm vented steel shell provides bright, cutting attack perfect for thrash. I
           artist: "Metallica",
           year: 1986,
           drummer: "Lars Ulrich",
-          snare: "Ludwig Supraphonic LM402",
-          notes: "The defining thrash snare tone. Medium-high tuning, crisp crack that cuts through Hetfield's rhythm guitars."
+          snare: "Tama",
+          notes: "Ulrich switched from Camco to Tama in 1984, two years before this album — the Tama snare's crisp crack cuts through Hetfield's rhythm guitars."
         },
         {
           album: "Reign in Blood",
@@ -6257,7 +6256,7 @@ The 1mm vented steel shell provides bright, cutting attack perfect for thrash. I
     faq: [
       {
         question: "What snare did Lars Ulrich use on Master of Puppets?",
-        answer: "Lars used a Ludwig Supraphonic LM402 (14\"x6.5\" aluminum) on Master of Puppets. It's one of the most iconic thrash snare tones ever recorded."
+        answer: "Lars had already switched from Camco to Tama in 1984, two years before Master of Puppets, so he was playing a Tama snare during those sessions — not the Ludwig Supraphonic often associated with the album."
       },
       {
         question: "Steel or brass snare for thrash metal?",
@@ -6286,7 +6285,7 @@ The 1mm vented steel shell provides bright, cutting attack perfect for thrash. I
       title: "Find Your Thrash Crack",
       content: `The thrash snare sound is one of metal's most iconic tones—that cutting crack that punches through walls of distorted guitars. Whether you choose the legendary Ludwig Supraphonic, Lars's signature Tama, or a budget-friendly Pork Pie, the key is finding a snare that speaks with authority at any tempo.
 
-Remember: the Big Four drummers didn't become legends because of their gear—they became legends by mastering their instruments. Lars Ulrich's Supraphonic on Master of Puppets wasn't expensive by studio standards; it was just perfectly tuned and performed by a drummer who knew exactly what he wanted.
+Remember: the Big Four drummers didn't become legends because of their gear—they became legends by mastering their instruments. Lars Ulrich's snare on Master of Puppets wasn't exotic gear; it was just perfectly tuned and performed by a drummer who knew exactly what he wanted.
 
 Start with what you can afford, learn to tune it properly, and practice until your hands blister. The thrash community doesn't judge your price tag—only your precision.
 

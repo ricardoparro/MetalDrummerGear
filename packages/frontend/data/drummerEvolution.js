@@ -16001,9 +16001,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Pro-Mark Hickory 2B',
-            details: 'Hickory',
-            notes: 'Unchanged stick choice through the era.',
+            item: 'Vic Firth 2B',
+            details: 'Hickory, wood tip',
+            notes: 'Settled on Vic Firth full-time in the 1990s, after alternating with Pro-Mark the previous era.',
             change: null,
           },
           heads: {
@@ -16068,16 +16068,16 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Pro-Mark Hickory 2B',
-            details: 'Hickory',
-            notes: 'Unchanged from the previous era.',
+            item: 'Vic Firth 2B',
+            details: 'Hickory, wood tip',
+            notes: 'Unchanged from the previous era, still on Vic Firth.',
             change: null,
           },
           heads: {
-            item: 'Remo Powerstroke 3 / Emperor Coated / Ambassador',
-            details: 'Powerstroke 3 on kicks, Emperor Coated on toms, coated Ambassador on snare',
-            notes: 'Same Remo lineup as the rest of his career to this point.',
-            change: null,
+            item: 'Evans EQ3 Clear / G2 Coated / G1 Coated',
+            details: 'EQ3 Clear on kicks, G2 Coated on toms, G1 Coated on snare',
+            notes: 'Switched to Evans in the 2000s, replacing the Remo setup he\'d used since the 1980s.',
+            change: CHANGE_TYPES.SWITCH,
           },
         },
 
@@ -16141,10 +16141,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
-            item: 'Remo Powerstroke 3 / Emperor Coated / Evans Power Center',
-            details: 'Powerstroke 3 on kicks, Emperor Coated on toms, Evans Power Center on snare batter',
-            notes: 'First Evans component added to an otherwise all-Remo head setup, for extra snare durability on tour.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Evans EQ3 Clear / G2 Coated / G1 Coated',
+            details: 'EQ3 Clear on kicks, G2 Coated on toms, G1 Coated on snare batter',
+            notes: 'Fully on Evans by this era, continuing the 2000s switch from Remo.',
+            change: null,
           },
         },
 

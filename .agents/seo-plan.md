@@ -10665,3 +10665,42 @@ All 7 dedup-checked via `gh issue list --state all --search` (drummer + field/fi
 3. Held-back, not filed: Paul Bostaph top10Lists.js "1998 exception" line is vague rather than clearly wrong — would need a rewrite naming the correct 1998 brand (Zildjian A Custom, per endorsementNews.js) as a positive addition, not a correction; worth revisiting as a small clarity fix if the bank runs dry.
 4. Content-gap: metrics.md reports no gaps this run — nothing to address.
 5. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-09-30 (Wednesday, run 3, metrics 07:11 UTC) — broadened sweep to 12 untouched drummers, 8 verified proposals filed (#8362-8369)
+
+### Context
+Bank check: 11 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + human-hold (#7981) + 7 already `ai-fix`-labeled (#8352-8358, promoted by CEO's 06:20 UTC cheap pulse) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 07:11 UTC (311 users/359 sessions/537 views 7d; GSC 8,307 impr/155 clicks/1.87% CTR/pos 7.5). Content-gap: none flagged ("no significant gaps detected"). Audit: robots.txt 13 `User-agent` blocks (all 8 required AI crawlers allowed, curl-verified); sitemap 3,165 URLs (unchanged, freeze holding). Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Ran `verify-gear-consistency.cjs` first (26 raw mismatches, all matching standing skip-rulings or already-filed #8352/#8353 except one genuinely fresh hit: Arin Ilejay's `soundLikeGuides.js` sticks field, still Vic Firth post-#8176/#8177 — #8353 only covers 3 `drummerComparisons.js` entries, never this file). Personally verified and filed that one directly (**#8362**).
+
+For the remaining 7, dispatched a subagent to manually sweep drummers never checked in this multi-day sweep (~40 candidates, none of derek-roddy/arin-ilejay/eloy-casagrande/flo-mounier/george-kollias/igor-cavalera/tim-yeung/brann-dailor/travis-orbin/nick-augusto/daray/abe-cunningham/ray-luzier/hannes-grossmann/dave-lombardo/danny-carey/paul-mazurkiewicz/scott-travis/alex-bent/tomas-haake/mike-portnoy/pete-sandoval/martin-lopez/charlie-benante/dirk-verbeuren/daniel-erlandsson/nick-menza/inferno/vinnie-paul/chris-adler). It checked 12 (bill-ward, gene-hoglan, lars-ulrich, mikkey-dee, gavin-harrison, joey-jordison/jay-weinberg, nicko-mcbrain, paul-bostaph, mike-mangini, hellhammer, shannon-larkin, frost, jaska-raatikainen) against `endorsementNews.js` across all files (including non-detector ones: genreGearGuides.js/gearPriceHistory.js/albumArticles/licks/top10Lists.js) and returned 6 candidates + several lower-confidence ones it recommended holding back given elevated collision risk on high-fix-churn drummers (Hellhammer, Shannon Larkin, Frost, Jaska Raatikainen — each has 10-20+ prior closed issues on the same files).
+
+Personally re-verified all 6 via direct `sed`/`grep` against source + `endorsementNews.js`, and ran full dedup searches (`gh issue list --state all --search`) reading the actual bodies of the closest-sounding prior issues before trusting any — several looked like they might overlap with dense prior fix histories (Nicko McBrain has 15+ closed issues on this exact "Ludwig-era" pattern, Mike Mangini has 25+ on the "Demon Drive/electronics" pattern, Bill Ward has multiple prior Vistalite fixes) and needed body-level confirmation, not just title-matching, to rule out overlap. All 6 confirmed genuinely fresh after reading the specific scope of the nearest prior fix:
+- **#8363** — Nicko McBrain's `piece-of-mind-drum-setup` album article (1983) still fabricates Ludwig Vistalite — a 3rd instance of the pattern #6249/#7341 fixed for the 1985-2010 era and the 1984 Powerslave section respectively, but neither touched 1983's Piece of Mind
+- **#8364** — Paul Bostaph's `evolution` section fabricates a Pearl-era Forbidden tenure (1987-1989, no brand documented that early) framed as a "return" in 2013 — distinct block from #5808's fix of the same file's separate 'evergreen arsenal' entry
+- **#8365** — Mike Mangini extendedBios.js FAQ heads fabricated as Evans — verified Remo; #7961 fixed 4 nearby lines in the same file (pedal/electronics) but never this separate FAQ item
+- **#8366** — Mike Mangini's pedal still "Pearl Demon Drive" in a 4th/5th genreGearGuides.js location (a hardware-feature description #7961's pros-list/usedBy fix didn't reach, plus an entire 4th guide #7961 never scoped at all) — verified Pearl Eliminator Redline
+- **#8367** — Bill Ward's dedicated album article + drummerComparisons.js:3938 fabricate Ludwig Vistalite/invented Slingerland — distinct file/field from #5488 (extendedBios.js) and #7420 (same entry's cymbals field only)
+- **#8368** — Lars Ulrich snare fabricated as Ludwig Supraphonic for Master of Puppets in the thrash-metal snares guide — a 3rd instance of the pattern, distinct guide from #7768's fix and distinct file from #6894's fix
+- **#8369** — Mikkey Dee's 1993 gearPriceHistory.js entry fabricates a pre-1993 Pearl King-Diamond-era backstory — verified Sonor SQ2 since King Diamond days per the site's own 2012 signature-snare note; distinct fields from #7321's fix of the same file's later priceEvolution entries
+
+Gene Hoglan's candidates (3 locations in albumArticles/gene-hoglan.js) were surfaced by the subagent but not filed — the subagent itself flagged this file as unusually high-churn (~15 prior closed issues) and recommended a full-file regeneration review rather than another point-fix; held back for a dedicated pass rather than risking a narrow/incomplete fix.
+
+### Dedup notes
+All 8 dedup-checked via `gh issue list --state all --search` before filing, with full-body reads (not just title-matching) of the nearest prior issue for each — #7341/#6249 (Nicko), #5808 (Bostaph), #7961/#6898 (Mangini ×2), #5488/#7420 (Ward), #7768/#6894 (Ulrich), #7321/#8198 (Dee) — confirmed none overlap the exact file+line+field combination filed today.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8352-8358 (prior run, already `ai-fix`)
+- #8362-8369 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 19 open `seo-proposal`.
+
+### Next run
+1. Watch #8362-8369 through CEO triage.
+2. Gene Hoglan's albumArticles/gene-hoglan.js flagged for a dedicated full-file review (high fix-churn, ~15 prior issues) rather than another narrow point-fix — worth a focused pass if the bank runs dry.
+3. Lower-confidence candidates not filed (each has 10-20+ prior closed issues on the same files, elevated collision risk, not fully re-verified line-by-line): Hellhammer genreGearGuides.js cymbal claims, Shannon Larkin "Ddrum Signature" snare, Frost's Zildjian cymbal claims, Jaska Raatikainen cymbal-upgrade misdating — revisit with a dedicated single-drummer deep-check each if bank needs topping up.
+3. Untouched-drummer list still has ~28 remaining from the 40-candidate pool this run's subagent didn't reach (adrian-erlandsson, alex-rudinger, aquiles-priester, art-cruz, ben-koller, blake-richardson, chris-turner, gavin-harrison(checked clean), gene-hoglan(flagged, held), jason-bittner, jay-weinberg, jimmy-degrasso(checked clean), jocke-wallgren, joey-jordison(checked as part of jay-weinberg pairing), john-longstreth, john-otto, jon-dette, kevin-talley, martin-axenrot, matt-garstka(checked clean), matt-greiner, mike-mangini(done), mike-mangini, morgan-agren, navene-koperweis, nick-barker, nicko-mcbrain(done), paul-bostaph(done), raymond-herrera, richard-christy, ryan-van-poederooyen, sean-reinert, shannon-larkin(flagged), waltteri-vayrynen(checked clean)) — continue rotating through remaining untouched names next run.
+4. Content-gap: metrics.md reports no gaps this run — nothing to address.
+5. Next drum-chair watch due Monday 2026-10-05, group 1.

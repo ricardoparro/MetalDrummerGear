@@ -54,7 +54,7 @@ export const EVOLUTION_TIMELINE = [
     album: 'Black Sabbath',
     type: TIMELINE_EVENT_TYPES.ALBUM_RELEASE,
     subgenre: METAL_SUBGENRES.HEAVY,
-    gearNotes: 'Ludwig Vistalite kit, Super Zyn cymbals - bringing jazz dynamics to heavy music',
+    gearNotes: 'Ludwig Standard / Club Date Series kit, Super Zyn cymbals - bringing jazz dynamics to heavy music',
     significance: 'The first metal drummer - established the template for heavy drumming',
     videoEmbed: null,
     image: '/images/drummers/bill-ward.webp',

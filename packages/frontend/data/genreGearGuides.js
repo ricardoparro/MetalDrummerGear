@@ -36901,14 +36901,14 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Vintage Pure Ride — Mastodon\'s progressive sludge-doom atmosphere' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Dry Heavy Ride — Tool\'s patient, doom-adjacent build-ups' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Paiste Twenty Custom Full Ride — Gojira\'s tectonic, crushing low-end tonnage' }
+      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Dark Ride — Gojira\'s tectonic, crushing low-end tonnage' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Vintage Pure Ride — Mastodon\'s progressive sludge-doom atmosphere' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Dry Heavy Ride — Tool\'s patient, doom-adjacent build-ups' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Paiste Twenty Custom Full Ride — Gojira\'s tectonic, crushing low-end tonnage' }
+      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Dark Ride — Gojira\'s tectonic, crushing low-end tonnage' }
     ],
     relatedComparisons: [],
 
@@ -45749,14 +45749,14 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — Mastodon\'s progressive sludge-doom atmosphere' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste RUDE/Power Crash — Tool\'s climactic, doom-adjacent contrast' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Paiste 602 Crash — Gojira\'s tectonic, crushing low-end tonnage' }
+      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Dark Crash — Gojira\'s tectonic, crushing low-end tonnage' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — Mastodon\'s progressive sludge-doom atmosphere' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste RUDE/Power Crash — Tool\'s climactic, doom-adjacent contrast' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Paiste 602 Crash — Gojira\'s tectonic, crushing low-end tonnage' }
+      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Dark Crash — Gojira\'s tectonic, crushing low-end tonnage' }
     ],
     relatedComparisons: [],
 
@@ -75209,7 +75209,7 @@ That rougher character suits doom's heavier, less refined edges better than a po
     ],
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash-based setup — the dark, atmospheric doom-adjacent voicing a matching splash should complement' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Paiste 602 Crash-based setup — Gojira\'s tectonic, crushing low-end tonnage a sparing splash accent can punctuate' },
+      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Dark Crash-based setup — Gojira\'s tectonic, crushing low-end tonnage a sparing splash accent can punctuate' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste RUDE/Power Crash-based setup — Tool\'s climactic, doom-adjacent contrast' }
     ],
     relatedComparisons: [],
@@ -75622,7 +75622,7 @@ That rougher character suits sludge's heavier, less refined edges better than a 
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash-based setup — Mastodon\'s definitive sludge metal cymbal voicing on Remission and Leviathan' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Paiste RUDE Crash-based setup — Sepultura\'s tribal, down-tuned sludge-adjacent weight' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Paiste 602 Crash-based setup — Gojira\'s tectonic, sludge-adjacent low-end tonnage' }
+      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Dark Crash-based setup — Gojira\'s tectonic, sludge-adjacent low-end tonnage' }
     ],
     relatedComparisons: [],
 

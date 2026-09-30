@@ -1058,9 +1058,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "Standard Pro-Mark 5B before Haake developed a signature model. The 5B weight profile suits Meshuggah's intense, repetitive patterns without fatiguing the wrist.",
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Pro-Mark Tomas Haake Signature',
-          price: 16,
-          link: 'promark-tomas-haake',
+          item: 'Wincent Tomas Haake Signature',
+          price: 17,
+          link: 'wincent-tomas-haake-signature',
         },
       },
       heads: {

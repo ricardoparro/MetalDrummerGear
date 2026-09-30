@@ -10314,10 +10314,10 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Ludwig Vistalite',
-            details: 'Clear acrylic shells: 22" kick, 13"/16" toms',
-            notes: 'Switched to Ludwig\'s striking clear acrylic Vistalite kit, which delivered a punchier, more cutting attack to match the band\'s heavier riffing on Paranoid and Master of Reality.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Ludwig Standard / Club Date Series',
+            details: 'Natural maple shells: 22" kick, 13"/16" toms',
+            notes: 'Stepped up to a larger maple kit within the same Ludwig Standard / Club Date Series, which delivered a punchier, more cutting attack to match the band\'s heavier riffing on Paranoid and Master of Reality.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
             item: 'Ludwig Supraphonic 14"x6.5" LM402',
@@ -10359,7 +10359,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Paranoid (1970) becomes the defining heavy metal album, featuring "War Pigs" and "Iron Man"',
-          'Switched to Ludwig\'s clear acrylic Vistalite kit for a punchier attack',
+          'Stepped up to a larger Ludwig Standard / Club Date maple kit for a punchier attack',
           'Master of Reality (1971) pushes the band into heavier, downtuned territory',
           'Open-handed playing (left-hander on a right-handed kit) becomes a signature trait',
           'Drumming vocabulary established here becomes foundational to heavy metal as a genre',
@@ -10386,10 +10386,10 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Ludwig Standard Maple',
+            item: 'Ludwig Standard / Club Date Series',
             details: 'Natural maple shells: 22" kick, 13"/16" toms, added 14" tom',
-            notes: 'Switched from Vistalite acrylic back to traditional Ludwig maple shells for a warmer, more nuanced tone suited to the band\'s increasingly progressive arrangements.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Added a third tom to the same Ludwig maple kit for a wider tonal palette suited to the band\'s increasingly progressive arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
             item: 'Ludwig Supraphonic 14"x6.5" LM402',
@@ -10431,7 +10431,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Vol. 4 (1972) and Sabbath Bloody Sabbath (1973) embrace progressive song structures',
-          'Switched back to traditional Ludwig maple shells from the Vistalite acrylic kit',
+          'Added a third tom to the same Ludwig Standard / Club Date maple kit',
           'Sabotage (1975) showcases Ward\'s most complex, technically ambitious drumming',
           'Added China cymbal for exotic textural accents',
           'Peak era of compositional and technical ambition within the original lineup',
@@ -10525,7 +10525,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit did Bill Ward use on Paranoid?',
-        a: 'On Paranoid (1970), Bill Ward played a Ludwig Vistalite — a clear acrylic kit with a 22" kick and 13"/16" toms — paired with a Ludwig Supraphonic 14"x6.5" LM402 snare and the Super Zyn cymbals carried over from the debut, before switching to Avedis Zildjian for Master of Reality the following year. The Vistalite\'s punchy, cutting attack matched the heavier riffing on Paranoid and Master of Reality.',
+        a: 'On Paranoid (1970), Bill Ward played a larger Ludwig Standard / Club Date Series kit — natural maple shells with a 22" kick and 13"/16" toms — paired with a Ludwig Supraphonic 14"x6.5" LM402 snare and the Super Zyn cymbals carried over from the debut, before switching to Avedis Zildjian for Master of Reality the following year. The kit\'s punchy, cutting attack matched the heavier riffing on Paranoid and Master of Reality.',
       },
       {
         q: 'Why did Bill Ward leave Black Sabbath?',

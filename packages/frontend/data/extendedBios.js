@@ -2311,10 +2311,10 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Bill Ward used various drum brands throughout his career, most notably Ludwig and Slingerland during Black Sabbath's classic era. His setup was relatively simple, emphasizing sound quality over complexity.
+        content: `Bill Ward used a Ludwig kit throughout his career, most notably the Standard / Club Date Series during Black Sabbath's classic era. His setup was relatively simple, emphasizing sound quality over complexity.
 
 **Classic Setup (1970s Peak Era):**
-- **Drums**: Ludwig Classic Maple (24"x16" bass, natural finish)
+- **Drums**: Ludwig Standard / Club Date Series (24"x16" bass, natural finish)
 - **Snare**: Ludwig Supraphonic 14"x6.5" (400 series)
 - **Cymbals**: Super Zyn (1968-1971, debut through Paranoid), then Zildjian (1971-1978, Master of Reality through Never Say Die!)
 - **Hardware**: Ludwig Atlas or similar era hardware

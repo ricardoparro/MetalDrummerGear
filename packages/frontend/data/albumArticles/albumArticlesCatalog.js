@@ -781,7 +781,7 @@ export const ALBUM_ARTICLES_META = {
     ],
     "genre": "Heavy Metal / Hard Rock",
     "title": "What's In Bill Ward's Kit: The Godfather of Metal Drumming's Legendary Setup",
-    "description": "Discover the drums, cymbals, and gear behind the first heavy metal drummer. Complete breakdown of Bill Ward's classic Ludwig and Slingerland setups from Black Sabbath's golden era, plus how to get his iconic sound today.",
+    "description": "Discover the drums, cymbals, and gear behind the first heavy metal drummer. Complete breakdown of Bill Ward's classic Ludwig setup from Black Sabbath's golden era, plus how to get his iconic sound today.",
     "ogImage": "/images/drummers/bill-ward.webp",
     "datePublished": "2026-03-20",
     "dateModified": "2026-03-20",

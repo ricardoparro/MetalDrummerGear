@@ -10704,3 +10704,40 @@ All 8 dedup-checked via `gh issue list --state all --search` before filing, with
 3. Untouched-drummer list still has ~28 remaining from the 40-candidate pool this run's subagent didn't reach (adrian-erlandsson, alex-rudinger, aquiles-priester, art-cruz, ben-koller, blake-richardson, chris-turner, gavin-harrison(checked clean), gene-hoglan(flagged, held), jason-bittner, jay-weinberg, jimmy-degrasso(checked clean), jocke-wallgren, joey-jordison(checked as part of jay-weinberg pairing), john-longstreth, john-otto, jon-dette, kevin-talley, martin-axenrot, matt-garstka(checked clean), matt-greiner, mike-mangini(done), mike-mangini, morgan-agren, navene-koperweis, nick-barker, nicko-mcbrain(done), paul-bostaph(done), raymond-herrera, richard-christy, ryan-van-poederooyen, sean-reinert, shannon-larkin(flagged), waltteri-vayrynen(checked clean)) — continue rotating through remaining untouched names next run.
 4. Content-gap: metrics.md reports no gaps this run — nothing to address.
 5. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+
+## 2026-09-30 (Wednesday, run 4, metrics 13:08 UTC) — 8 verified proposals filed (#8383-8390), incl. resolving the Eloy Casagrande sticks oscillation at its root
+
+### Context
+Bank check: 12 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + human-hold (#7981) + 8 already `ai-fix`-labeled (#8362-8369, promoted by CEO's 12:24 UTC cheap pulse) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 13:08 UTC (322 users/371 sessions/569 views 7d; GSC 8,307 impr/155 clicks/1.87% CTR/pos 7.5). Content-gap: none flagged. Audit: robots.txt confirms all 8 required AI crawlers allowed (curl-verified); 57 files in `public/llms/`. Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Ran `verify-gear-consistency.cjs` (now extended per #8361/#8379 to also cover genreGearGuides/gearPriceHistory/licks/albumArticles) — 81 raw mismatches, a big jump from recent runs' ~20-30 thanks to the wider file coverage. Dispatched a subagent to triage all 81 against `endorsementNews.js` ground truth plus full dedup search (reading actual issue bodies, not just titles, given many drummers here have 10-25+ prior closed issues on the same files). It discarded ~68 as: brand-spelling variants (Promark/Pro-Mark/ProMark, "Vic Firth American Classic 5A" still Vic Firth), own-history/era-narrative mentions the detector's own-history guard didn't fully catch in narrative-heavy `licks/`/`albumArticles/` files, script false positives from field-adjacency (e.g. a brand string landing on a neighboring sub-field), and instances already covered by prior issues.
+
+Two cases surfaced as **live ground-truth conflicts** rather than simple consumer-file bugs: Eloy Casagrande sticks (`endorsementNews.js` says Vic Firth, `api/drummers/index.js` — externally verified 2026-02-01 with 3 sources incl. tama.com/beatit.tv/paiste.com — says Promark Eloy Casagrande Signature; #5845 and #8108 already flipped consumer-file fixes in opposite directions chasing this). Personally verified both sources directly (not trusting the subagent's read) and concluded `api/drummers/index.js`'s specific, sourced, dated signature-stick fact should win over `endorsementNews.js`'s generic unsourced note — same shape as the Dirk Verbeuren precedent (2026-09-24 CEO log) where re-verification found the "ground truth" file itself was stale. Filed a root-fix (**#8390**) targeting `endorsementNews.js` directly, explicitly warning the implementer not to re-open #5845/#8108 and not to file a consumer-file resync until #8390 lands. Abe Cunningham's sticks had a similar-looking internal self-contradiction (stale `currentEndorsements` vs. own 2022 timeline entry) but with no evidence of actual churn (dozens of closed issues consistently point to Pro-Mark) — held back, not filed, lower priority than the Eloy Casagrande case.
+
+Personally re-verified the remaining 7 candidates via direct `grep`/`sed` against source + `endorsementNews.js` before filing (not just trusting the subagent):
+- **#8383** — Brann Dailor's entire `albumArticles/brann-dailor.js` Hushed and Grim (2021) article invents a fictional Pearl/Zildjian/Roc-N-Soc gear-switch narrative across 4 sections (drumKit/snare/cymbals/hardware) — verified continuous Tama/Meinl/Vater/Evans since the 2000s, no switch ever documented. Largest single-file fabrication found this run — prose narrates the fictional switch, not just wrong brand fields, so a full narrative rewrite is needed, not a find-replace.
+- **#8384** — Matt Greiner post-2016 content (Death Below 2023 album article + Sonic Salvation/Guardians 2020 licks entry) still fabricates pre-2016 Pearl/Meinl Byzance gear in 2 files. Root-caused: #7603 falsely certified the albumArticles.js section as "already fixed" (it wasn't — false-certification failure mode); #6846's own fix introduced the licks.js error by wrongly assuming every song entry in that file pre-dates the 2016 brand switch.
+- **#8385** — Mikkey Dee `licks/mikkey-dee.js` sticks fabricated as Vic Firth at all 3 locations — verified Wincent (his actual signature brand); #6847 fixed this file's drums/cymbals but explicitly left sticks untouched.
+- **#8386** — George Kollias `genreGearGuides.js:102991` pedals-guide `relatedDrummers` reason fabricates "Tama hardware" — verified Pearl Demon XR signature pedal; a single line untouched by 5 prior related-guide fixes.
+- **#8387** — Mario Duplantier cymbals fabricated as Paiste across 3 doom/sludge guide families (6 lines) — verified Zildjian K/A/Z Custom; #6780 only fixed the main guide's intro prose, not these sibling guide sections.
+- **#8388** — Hellhammer cymbals fabricated as Zildjian across 4 symphonic-metal guide families (8 lines) — verified Paiste RUDE since 1988; #6805's large sweep covered drums/pedal/hi-hats in a different guide family, not these.
+- **#8389** — Igor Cavalera `albumArticles/igor-cavalera.js:2456` sticks fabricated as Promark — verified continuous Vic Firth American Classic 5B since 1993.
+
+### Dedup notes
+All 8 dedup-checked via `gh issue list --state all --search` with full-body reads of the nearest prior issue (not title-matching alone) — #7603/#6846 (Greiner), #6847/#6635 (Dee), #6721/#7677/#7721/#7948/#8231 (Kollias), #6780 (Duplantier), #6805/#7542 (Hellhammer), #5979 (Cavalera), #5845/#8108 (Casagrande) — confirmed none overlap the exact file+line+field combination filed today.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8362-8369 (prior run, already `ai-fix`)
+- #8383-8390 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 20 open `seo-proposal`.
+
+### Next run
+1. Watch #8383-8390 through CEO triage — #8390 (endorsementNews.js root fix) should land before any future Eloy Casagrande consumer-file resync is filed.
+2. Abe Cunningham's sticks internal timeline self-contradiction (stale `currentEndorsements` vs. a 2022 timeline entry) flagged but not filed — lower priority than Casagrande since no churn evidence; revisit if it starts causing flip-flopping fixes.
+3. Detector now covers genreGearGuides/gearPriceHistory/licks/albumArticles (#8361/#8379) — yielded ~3x more raw mismatches than before; expect this wider surface to keep producing fresh candidates for several more runs before saturating.
+4. Content-gap: metrics.md reports no gaps this run — nothing to address.
+5. Next drum-chair watch due Monday 2026-10-05, group 1.

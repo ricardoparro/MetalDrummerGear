@@ -12669,10 +12669,10 @@ This guide breaks down the technique, gear, and practice approach behind Roddy's
         alternative: "Vic Firth 5B or Promark 5B for similar heavier-weight durability."
       },
       heads: {
-        kick: 'Remo Powerstroke 3 Clear (batter)',
-        snare: 'Remo Ambassador Coated (batter and resonant)',
-        toms: 'Remo Ambassador Coated',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans EMAD2 Clear (batter)',
+        snare: 'Evans Genera HD Dry (batter and resonant)',
+        toms: 'Evans Genera HD Dry',
+        resonant: 'Evans Genera HD Dry'
       }
     },
     tuning: {

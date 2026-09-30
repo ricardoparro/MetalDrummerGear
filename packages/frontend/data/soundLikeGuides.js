@@ -12669,10 +12669,10 @@ This guide breaks down the technique, gear, and practice approach behind Roddy's
         alternative: "Vic Firth 5B or Promark 5B for similar heavier-weight durability."
       },
       heads: {
-        kick: 'Remo Powerstroke 3 Clear (batter)',
-        snare: 'Remo Ambassador Coated (batter and resonant)',
-        toms: 'Remo Ambassador Coated',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans EMAD2 Clear (batter)',
+        snare: 'Evans Genera HD Dry (batter and resonant)',
+        toms: 'Evans Genera HD Dry',
+        resonant: 'Evans Genera HD Dry'
       }
     },
     tuning: {
@@ -12681,7 +12681,7 @@ This guide breaks down the technique, gear, and practice approach behind Roddy's
       kickDrum: {
         tension: "Medium-firm",
         muffling: "Minimal, attack-focused",
-        description: "A focused Powerstroke 3 attack keeps double-kick strokes distinct at 220-280 BPM without the boom that would blur fast alternating patterns.",
+        description: "A focused EMAD2 attack keeps double-kick strokes distinct at 220-280 BPM without the boom that would blur fast alternating patterns.",
         tip: "Prioritize a tight, controlled decay — sustain that lingers past the next stroke destroys articulation at extreme tempo."
       },
       snare: {
@@ -12693,7 +12693,7 @@ This guide breaks down the technique, gear, and practice approach behind Roddy's
       toms: {
         tension: "Medium",
         muffling: "Light",
-        description: "Coated Ambassador heads add durability for heavy playing while keeping toms responsive for transitional fills between blast sections.",
+        description: "Genera HD Dry heads add durability for heavy playing while keeping toms responsive for transitional fills between blast sections.",
         tip: "Two-ply or coated heads trade a bit of sensitivity for durability — worth it at the impact level extreme death metal demands."
       }
     },

@@ -185,12 +185,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Series Kit",
+        "name": "Mapex Black Panther Design Lab",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Meinl Byzance Cymbals",
+        "name": "Paiste Formula 602",
         "type": "cymbals",
         "link": null
       },

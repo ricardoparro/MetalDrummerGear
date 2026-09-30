@@ -42,7 +42,7 @@ export const licks = {
       { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
+      { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Lock the groove to a metronome and build tempo gradually",
@@ -103,7 +103,7 @@ export const licks = {
       { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
+      { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Build the double-bass roll slowly until both feet are even",
@@ -164,7 +164,7 @@ export const licks = {
       { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
+      { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Lock the groove to a metronome and keep time rock-solid",
@@ -220,7 +220,7 @@ export const licks = {
       { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Sonor Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
+      { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practice the 8th-note hi-hat alone with a metronome at a range of tempos until it feels natural",
@@ -275,7 +275,7 @@ export const licks = {
       { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
+      { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Count the triplet gallop aloud before touching the kit — feel the three-against-two first",
@@ -330,7 +330,7 @@ export const licks = {
       { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
+      { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise the 8th-note roll at 80 BPM in 4-bar loops until both feet are identical",

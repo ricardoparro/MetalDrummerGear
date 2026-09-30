@@ -2618,7 +2618,7 @@ Mangini departed Dream Theater in 2023 when founding drummer Mike Portnoy rejoin
         items: [
           { q: 'What band does Mike Mangini play drums for?', a: 'Mike Mangini drummed for Dream Theater from 2010 to 2023, departing when founding member Mike Portnoy returned to the band. Since June 2026 he has been Godsmack\'s touring drummer, and he continues to play with Extreme.' },
           { q: 'What drums does Mike Mangini play?', a: 'Mike Mangini plays a Pearl Reference Series drum kit.' },
-          { q: 'What drum kit does Mike Mangini play?', a: 'Mike Mangini\'s drum kit is a Pearl Reference Series shell pack built around two signature-spec Pearl Reference brass snares (14"x5" and 14"x6.5"), with Evans drumheads.' },
+          { q: 'What drum kit does Mike Mangini play?', a: 'Mike Mangini\'s drum kit is a Pearl Reference Series shell pack built around two signature-spec Pearl Reference brass snares (14"x5" and 14"x6.5"), with Remo drumheads (Emperor Coated / Powerstroke 3).' },
           { q: 'What drum set does Mike Mangini play?', a: 'Mike Mangini\'s drum set pairs Pearl Reference Series shells and his two Pearl Reference brass snares with Sabian HHX and AAX Series cymbals.' },
           { q: 'What cymbals does Mike Mangini use?', a: 'Mike Mangini uses Sabian HHX and AAX Series cymbals, including 14" HHX Evolution Hi-Hats, 17", 18", and 19" HHX Evolution Crashes, and a 21" HHX Raw Bell Dry Ride.' },
           { q: 'What hi-hats does Mike Mangini use?', a: 'Mike Mangini plays 14" Sabian HHX Evolution Hi-Hats, providing the crisp, articulate chick sound needed to cut through Dream Theater\'s dense, technical arrangements.' },

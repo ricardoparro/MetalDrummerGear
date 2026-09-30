@@ -102986,7 +102986,7 @@ For death metal drummers who want the natural give of chain drive combined with 
       'best-drum-hardware-for-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Tama hardware — 240+ BPM buried-beater blast beat technique with Nile' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — 240+ BPM buried-beater blast beat technique with Nile' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s dynamic, consistent precision since 2008' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Pioneering blast beat pedal technique with Morbid Angel' },
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Tama Starclassic — the speed and precision behind "Reign in Blood"' }

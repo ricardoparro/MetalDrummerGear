@@ -99,6 +99,74 @@ function addBrand(map, brand) {
   if (!map.has(key)) map.set(key, brand);
 }
 
+// Generic brace/bracket-depth scanner for data files with nested objects
+// (drumKit.config, product.specs, etc.) where a plain "stop at the first
+// closing brace" regex would truncate before reaching the field we want.
+function skipStringLiteral(content, i) {
+  const quote = content[i];
+  i++;
+  while (i < content.length) {
+    if (content[i] === '\\') { i += 2; continue; }
+    if (content[i] === quote) return i + 1;
+    i++;
+  }
+  return i;
+}
+
+function findMatchingBracket(content, openIdx) {
+  let depth = 0;
+  for (let i = openIdx; i < content.length; i++) {
+    const c = content[i];
+    if (c === '"' || c === "'" || c === '`') { i = skipStringLiteral(content, i) - 1; continue; }
+    if (c === '{' || c === '[' || c === '(') depth++;
+    else if (c === '}' || c === ']' || c === ')') {
+      depth--;
+      if (depth === 0) return i;
+    }
+  }
+  return -1;
+}
+
+// Locate the `key: {`/`key: [` (quotes around the key optional) object or
+// array starting after `fromIndex` (bounded by `toIndex`) and return its
+// brace-matched span.
+function findKeyObjectSpan(content, key, fromIndex, toIndex) {
+  const end = toIndex == null ? content.length : toIndex;
+  const re = new RegExp(`["']?${key}["']?:\\s*([{[])`);
+  const m = re.exec(content.slice(fromIndex, end));
+  if (!m) return null;
+  const openIdx = fromIndex + m.index + m[0].length - 1;
+  const closeIdx = findMatchingBracket(content, openIdx);
+  if (closeIdx === -1) return null;
+  return { start: openIdx, end: closeIdx };
+}
+
+// Yield each top-level `{...}` object directly inside an array/object span
+// (skipping over further-nested objects rather than matching into them).
+function topLevelObjects(content, spanStart, spanEnd) {
+  const objs = [];
+  let i = spanStart + 1;
+  while (i < spanEnd) {
+    const c = content[i];
+    if (c === '"' || c === "'" || c === '`') { i = skipStringLiteral(content, i); continue; }
+    if (c === '{') {
+      const close = findMatchingBracket(content, i);
+      if (close === -1 || close > spanEnd) break;
+      objs.push({ start: i, end: close });
+      i = close + 1;
+      continue;
+    }
+    i++;
+  }
+  return objs;
+}
+
+function parseSinceYear(since) {
+  if (!since) return null;
+  const m = /(\d{4})/.exec(since);
+  return m ? parseInt(m[1], 10) : null;
+}
+
 async function loadGroundTruth() {
   const href = pathToFileURL(path.join(DATA_DIR, 'endorsementNews.js')).href;
   const mod = await import(href);
@@ -115,14 +183,21 @@ async function loadGroundTruth() {
     groundTruth[slug] = { name: entry.name || slug, categories: {} };
 
     for (const cat of CATEGORIES) {
-      const candidates = parseBrandCandidates(current[cat] && current[cat].brand);
+      const currentField = current[cat] || {};
+      const candidates = parseBrandCandidates(currentField.brand);
       const historical = new Map();
       for (const change of changes) {
         if (change.category !== cat) continue;
         addBrand(historical, change.from);
         addBrand(historical, change.to);
       }
-      groundTruth[slug].categories[cat] = { candidates, historical };
+      groundTruth[slug].categories[cat] = {
+        candidates,
+        historical,
+        currentBrand: currentField.brand || null,
+        currentModel: currentField.model || null,
+        currentSinceYear: parseSinceYear(currentField.since),
+      };
       for (const c of candidates) addBrand(globalBrands[cat], c);
       for (const h of historical.values()) addBrand(globalBrands[cat], h);
     }
@@ -319,24 +394,61 @@ function processDrummerComparisons(groundTruth, globalBrands, mismatches) {
   }
 }
 
-// packages/frontend/data/gearPriceHistory.js is deliberately NOT checked here.
-// The issue that spawned this script assumed `modernEquivalent` is a "current
-// state" pointer comparable to endorsementNews.js's currentEndorsements, but
-// each gearPriceHistory.js entry is anchored to one specific historical
-// album/era (`iconicYear`/`era`, often decades before "now" — e.g. Gene
-// Hoglan's entry documents his 1993 Death-era rig, Vinnie Paul's documents
-// 1990's Cowboys from Hell), and `modernEquivalent` tracks brand continuity
-// with THAT era, not with the drummer's present-day endorsement (confirmed
-// via git history, e.g. commit 2506e20e, which edits the era `item` and its
-// `modernEquivalent.item` together in lockstep). Comparing modernEquivalent
-// to currentEndorsements produces false positives whenever a drummer's brand
-// changed since that era — confirmed on vinnie-paul, one of this issue's own
-// designated should-be-clean spot-check drummers, whose hardware/heads read
-// as false mismatches purely because his gearPriceHistory entry predates his
-// 2008 ddrum/Evans switch. A correct check would need era-anchored ground
-// truth (which brand was valid in that specific year) that
-// endorsementNews.js's timeline doesn't consistently record for every
-// category, so this file is left out rather than shipping a noisy check.
+// packages/frontend/data/gearPriceHistory.js — every entry is anchored to one
+// specific historical album/era (`iconicYear`/`era`, often decades before
+// "now" — e.g. Vinnie Paul's documents 1990's Cowboys from Hell), and the
+// vintage `item`/`notes` fields track brand continuity with THAT era, not
+// with the drummer's present-day endorsement (confirmed via git history,
+// e.g. commit 2506e20e, which edits the era `item` and its
+// `modernEquivalent.item` together in lockstep). Comparing those vintage
+// fields to currentEndorsements produces false positives whenever a
+// drummer's brand changed since that era — confirmed on vinnie-paul, whose
+// hardware/heads would read as false mismatches purely because his entry
+// predates his 2008 ddrum/Evans switch. So the vintage fields are
+// deliberately left unchecked here.
+//
+// `modernEquivalent.item`, however, is explicitly framed as "what this gear
+// looks like today" — and whenever it names the drummer's own signature
+// model (e.g. "Pro-Mark Tomas Haake Signature", #8356), that's a current-
+// state claim with exactly one right answer: which brand actually makes
+// that drummer's signature line right now. That's narrow enough to check
+// safely without the era-anchoring problem above (a non-signature
+// modernEquivalent item, like Vinnie Paul's generic "DW 9002 Double Pedal",
+// is never checked, since it never names him).
+function nameAppears(text, name) {
+  if (!text || !name) return false;
+  const last = name.split(/\s+/).filter(Boolean).pop();
+  if (!last || last.length < 3) return false;
+  return containsBrand(text, last);
+}
+
+function processGearPriceHistory(groundTruth, globalBrands, mismatches) {
+  const relFile = 'packages/frontend/data/gearPriceHistory.js';
+  const content = fs.readFileSync(path.join(DATA_DIR, 'gearPriceHistory.js'), 'utf8');
+  const lineOf = makeLineFinder(content);
+
+  const blocks = getTopLevelBlocks(content, /\n {2}'([a-z0-9-]+)':\s*\{/g);
+
+  for (const { slug, start, end } of blocks) {
+    const gt = groundTruth[slug];
+    if (!gt) continue;
+    const block = content.slice(start, end);
+
+    for (const cat of CATEGORIES) {
+      const catSpan = findKeyObjectSpan(block, cat, 0);
+      if (!catSpan) continue;
+      const meSpan = findKeyObjectSpan(block, 'modernEquivalent', catSpan.start, catSpan.end);
+      if (!meSpan) continue;
+      const itemRe = /item:\s*'((?:[^'\\]|\\.)*)'/d;
+      const mm = itemRe.exec(block.slice(meSpan.start, meSpan.end));
+      if (!mm) continue;
+      const value = mm[1];
+      if (!nameAppears(value, gt.name)) continue;
+      const idx = start + meSpan.start + mm.indices[1][0];
+      checkAndRecord(mismatches, value, slug, cat, relFile, lineOf(idx), groundTruth, globalBrands);
+    }
+  }
+}
 
 // packages/frontend/data/extendedBios.js — `gearHighlights` array and any
 // FAQ answer whose question asks what current gear a drummer uses.
@@ -426,6 +538,203 @@ function processDrummerEvolution(groundTruth, globalBrands, mismatches) {
   }
 }
 
+// packages/frontend/data/licks/*.js — each per-drummer module's per-lick
+// `gearUsed` array names the gear for ONE specific song/album, which (like
+// drummerEvolution.js eras) is a historical snapshot, not necessarily
+// current state. `album` carries a year we anchor the era to.
+//
+// A per-item check against endorsementNews' `since` year (either as a
+// brand-drift check, or as an anachronism check on the specific model name)
+// was tried and produced a wall of false positives across most of this
+// directory: many drummers' signature-model naming gets reused across a
+// later brand switch (e.g. Aquiles Priester's current ProMark signature
+// stick and his earlier Vic Firth signature stick are both just "Aquiles
+// Priester Signature"), and `since` years here are approximate enough that
+// even brand-only comparisons misfire on genuinely older, undocumented gear
+// (same failure mode the gearPriceHistory scope-guard above exists for).
+//
+// So, mirroring drummerEvolution.js's scope guard exactly: only the era
+// with the LATEST album year per drummer (the closest thing this file has
+// to a "Present" bucket) gets checked, and only with a plain brand-drift
+// check — never an inferred cutoff year.
+const LICKS_DIR = path.join(DATA_DIR, 'licks');
+
+function extractYear(text) {
+  if (!text) return null;
+  const m = /\b(19|20)\d{2}\b/.exec(text);
+  return m ? parseInt(m[0], 10) : null;
+}
+
+function processLicks(groundTruth, globalBrands, mismatches) {
+  const files = fs.readdirSync(LICKS_DIR).filter((f) => f.endsWith('.js') && f !== 'index.js');
+
+  for (const file of files) {
+    const relFile = `packages/frontend/data/licks/${file}`;
+    const content = fs.readFileSync(path.join(LICKS_DIR, file), 'utf8');
+    const lineOf = makeLineFinder(content);
+
+    const blocks = getTopLevelBlocks(content, /\n {2}"([a-z0-9-]+)":\s*\{/g)
+      .map(({ start, end }) => {
+        const block = content.slice(start, end);
+        const slugMatch = /"drummerSlug":\s*"([a-z0-9-]+)"/.exec(block);
+        const albumMatch = /"album":\s*"((?:[^"\\]|\\.)*)"/.exec(block);
+        return {
+          start,
+          end,
+          block,
+          slug: slugMatch && slugMatch[1],
+          eraYear: albumMatch ? extractYear(albumMatch[1]) : null,
+        };
+      })
+      .filter((b) => b.slug && groundTruth[b.slug] && b.eraYear != null);
+
+    if (!blocks.length) continue;
+    const maxYear = Math.max(...blocks.map((b) => b.eraYear));
+
+    for (const b of blocks) {
+      if (b.eraYear !== maxYear) continue;
+
+      const gearRe = /\{\s*"name":\s*"((?:[^"\\]|\\.)*)",\s*"type":\s*"([a-z]+)"/dg;
+      let gm;
+      while ((gm = gearRe.exec(b.block))) {
+        const name = gm[1];
+        const cat = gm[2];
+        if (!CATEGORIES.includes(cat)) continue;
+        const idx = b.start + gm.indices[1][0];
+        checkAndRecord(mismatches, name, b.slug, cat, relFile, lineOf(idx), groundTruth, globalBrands);
+      }
+    }
+  }
+}
+
+// packages/frontend/data/albumArticles/<drummer-slug>.js — one module per
+// drummer (per CLAUDE.md's per-drummer split), each article scoped to one
+// album via its own `year` field. Same scope guard as processLicks above,
+// for the same empirically-confirmed reason (a full-career, per-article
+// brand check false-fired across most of this directory — endorsementNews'
+// `since` years are too approximate, and plenty of real, undocumented
+// brand history exists that isn't fabrication): only the article with the
+// LATEST `year` per drummer is checked, treated as this file's "Present"
+// bucket. Only the directly-structured `brand` fields are checked
+// (drumKit/snare/cymbals, and hardware.items entries whose `type` names a
+// pedal or sticks) — free-text prose elsewhere in these articles is out of
+// scope, same rationale as every other processor here.
+const ALBUM_ARTICLES_DIR = path.join(DATA_DIR, 'albumArticles');
+const ALBUM_ARTICLE_DIRECT_FIELDS = [
+  { key: 'drumKit', cat: 'drums' },
+  { key: 'snare', cat: 'drums' },
+  { key: 'cymbals', cat: 'cymbals' },
+];
+
+function processAlbumArticles(groundTruth, globalBrands, mismatches) {
+  const files = fs.readdirSync(ALBUM_ARTICLES_DIR).filter((f) => f.endsWith('.js') && f !== 'index.js');
+
+  for (const file of files) {
+    const slug = file.replace(/\.js$/, '');
+    if (!groundTruth[slug]) continue;
+
+    const relFile = `packages/frontend/data/albumArticles/${file}`;
+    const content = fs.readFileSync(path.join(ALBUM_ARTICLES_DIR, file), 'utf8');
+    const lineOf = makeLineFinder(content);
+
+    const blocks = getTopLevelBlocks(content, /\n {2}"([a-z0-9-]+)":\s*\{/g)
+      .map(({ start, end }) => {
+        const yearMatch = /"year":\s*(\d{4})/.exec(content.slice(start, end));
+        return { start, end, eraYear: yearMatch ? parseInt(yearMatch[1], 10) : null };
+      })
+      .filter((b) => b.eraYear != null);
+
+    if (!blocks.length) continue;
+    const maxYear = Math.max(...blocks.map((b) => b.eraYear));
+
+    for (const { start, end, eraYear } of blocks) {
+      if (eraYear !== maxYear) continue;
+
+      for (const { key, cat } of ALBUM_ARTICLE_DIRECT_FIELDS) {
+        const span = findKeyObjectSpan(content, key, start, end);
+        if (!span) continue;
+        const brandM = /"brand":\s*"((?:[^"\\]|\\.)*)"/d.exec(content.slice(span.start, span.end));
+        if (!brandM) continue;
+        const idx = span.start + brandM.indices[1][0];
+        checkAndRecord(mismatches, brandM[1], slug, cat, relFile, lineOf(idx), groundTruth, globalBrands);
+      }
+
+      const hwSpan = findKeyObjectSpan(content, 'hardware', start, end);
+      if (!hwSpan) continue;
+      const itemsSpan = findKeyObjectSpan(content, 'items', hwSpan.start, hwSpan.end);
+      if (!itemsSpan) continue;
+      for (const item of topLevelObjects(content, itemsSpan.start, itemsSpan.end)) {
+        const itemText = content.slice(item.start, item.end);
+        const typeM = /"type":\s*"((?:[^"\\]|\\.)*)"/.exec(itemText);
+        const brandM = /"brand":\s*"((?:[^"\\]|\\.)*)"/d.exec(itemText);
+        if (!typeM || !brandM) continue;
+        const cat = /pedal/i.test(typeM[1]) ? 'hardware' : /stick/i.test(typeM[1]) ? 'sticks' : null;
+        if (!cat) continue;
+        const idx = item.start + brandM.indices[1][0];
+        checkAndRecord(mismatches, brandM[1], slug, cat, relFile, lineOf(idx), groundTruth, globalBrands);
+      }
+    }
+  }
+}
+
+// packages/frontend/data/genreGearGuides.js — "best <gear> for <genre>"
+// guides. `gearType` tells us which of our 5 categories (if any — some
+// gearTypes like `iem`/`metronomes`/`thrones` aren't endorsement-tracked
+// categories at all, and are skipped) a guide covers.
+//
+// `relatedDrummers`/`featuredDrummers` (`{ slug, name, reason }`) is the
+// one structured spot that's reliably a CURRENT-state claim (slug is
+// already given, so `reason` is checked directly, same pattern as
+// extendedBios' FAQ answers) — this is exactly what #8354 fabricated
+// (Pete Sandoval's `reason` claiming Evans when he's actually
+// Remo/Aquarian).
+//
+// `proRecommendations.pedals[].usedBy[]` was also tried (checking each
+// named drummer against that product's own `brand`), but many of these
+// guides recommend specific classic/vintage gear tied to one famous
+// session (e.g. a "best snare for thrash" pick whose `usedBy` note reads
+// "Master of Puppets sessions") rather than the drummer's current
+// endorsement — the same historical-vs-current ambiguity that sank a
+// naive check on licks/albumArticles, so it's left out here too.
+const GEARTYPE_TO_CATEGORY = {
+  drumheads: 'heads',
+  cymbals: 'cymbals',
+  crash: 'cymbals',
+  ride: 'cymbals',
+  splash: 'cymbals',
+  snare: 'drums',
+  snares: 'drums',
+  kits: 'drums',
+  'bass-drum': 'drums',
+  sticks: 'sticks',
+  hardware: 'hardware',
+  pedals: 'hardware',
+};
+
+function processGenreGearGuides(groundTruth, globalBrands, mismatches) {
+  const relFile = 'packages/frontend/data/genreGearGuides.js';
+  const content = fs.readFileSync(path.join(DATA_DIR, 'genreGearGuides.js'), 'utf8');
+  const lineOf = makeLineFinder(content);
+
+  const blocks = getTopLevelBlocks(content, /\n {2}'([a-z0-9-]+)':\s*\{/g);
+
+  for (const { start, end } of blocks) {
+    const block = content.slice(start, end);
+    const gearTypeMatch = /gearType:\s*'([a-z-]+)'/.exec(block);
+    const cat = gearTypeMatch && GEARTYPE_TO_CATEGORY[gearTypeMatch[1]];
+    if (!cat) continue;
+
+    const relRe = /\{\s*slug:\s*'([a-z0-9-]+)',\s*name:\s*'(?:[^'\\]|\\.)*',\s*reason:\s*'((?:[^'\\]|\\.)*)'\s*\}/dg;
+    let rm;
+    while ((rm = relRe.exec(block))) {
+      const slug = rm[1];
+      if (!groundTruth[slug]) continue;
+      const idx = start + rm.indices[2][0];
+      checkAndRecord(mismatches, rm[2], slug, cat, relFile, lineOf(idx), groundTruth, globalBrands);
+    }
+  }
+}
+
 async function main() {
   const { groundTruth, globalBrands } = await loadGroundTruth();
   const mismatches = [];
@@ -434,6 +743,10 @@ async function main() {
   processDrummerComparisons(groundTruth, globalBrands, mismatches);
   processExtendedBios(groundTruth, globalBrands, mismatches);
   processDrummerEvolution(groundTruth, globalBrands, mismatches);
+  processGenreGearGuides(groundTruth, globalBrands, mismatches);
+  processGearPriceHistory(groundTruth, globalBrands, mismatches);
+  processLicks(groundTruth, globalBrands, mismatches);
+  processAlbumArticles(groundTruth, globalBrands, mismatches);
 
   for (const m of mismatches) {
     console.log(

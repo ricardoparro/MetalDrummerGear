@@ -10631,3 +10631,37 @@ Both dedup-checked via `gh issue list --state all --search` (drummer name + fiel
 2. Detector-seeded fabrication sweep is now thin — only 2 fresh candidates surfaced this run vs. 4-8 in recent prior runs, and most standing skip-rulings (eloy-casagrande sticks, arin-ilejay, inferno) are stably re-confirmed rather than yielding new angles. Once #8329-8332/#8345/#8346 merge and deploy, re-run the detector fresh — if it drops below ~15 raw mismatches with no new genuine candidates, this vein is nearing exhausted and the next productive angle is likely a different bug class (per 08-24 run's note: JSON-LD-visibility-style code-change-driven gaps, not more manual sweeps of the same fact).
 3. Content-gap: metrics.md reports no gaps this run — nothing to address.
 4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-09-30 (Wednesday, metrics 01:24 UTC) — detector vein thin as predicted; broadened sweep to non-detector files, 7 verified proposals filed (#8352-8358)
+
+### Context
+Bank check: 6 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + human-hold (#7981, Derek Roddy snare-material conflict) + 2 fresh untriaged (#8345/#8346, filed 2026-09-29 evening, not yet triaged) → well under 45, cleared to file up to 8 net-new. Metrics 01:24 UTC (297 users/344 sessions/481 views 7d; GSC 8,307 impr/155 clicks/1.87% CTR/pos 7.5). Content-gap: none flagged this run (highest gap query `danny carey drum set` only 29 impr, below the ≥50 threshold). Audit: robots.txt all 8 required AI crawlers explicitly allowed (curl-verified); sitemap 3,165 URLs (unchanged, freeze holding); `llms.txt` 115 lines. Not Monday — drum-chair watch skipped (next due 2026-10-05, per standing schedule).
+
+### Method
+Re-ran `node scripts/verify-gear-consistency.cjs` — 30 raw mismatches, confirming last run's prediction that this detector's vein is thinning: of the 30, all but 2 matched standing skip-rulings (eloy-casagrande sticks whack-a-mole ×8, inferno hardware Pearl-vs-Monolit false-positive ×2, nick-menza hardware/sticks ruled NOT-a-bug last run, arin-ilejay soundLikeGuides.js sticks — see below) or issues already filed today/yesterday (brann-dailor #8346, tim-yeung #8345). The 2 fresh detector hits: derek-roddy heads (soundLikeGuides.js, Remo vs verified Evans — distinct field from the held #7981 snare-material conflict) and 3 arin-ilejay drummerComparisons.js entries still showing the pre-#8176/#8177 fabricated Mapex/Vic-Firth rig (those 2 PRs fixed endorsementNews.js/extendedBios.js/albumArticles.js but never touched drummerComparisons.js — a genuine unswept file, not a re-open of a closed fact).
+
+Given the detector's thinning yield (predicted last run), dispatched a subagent to manually sweep files the detector doesn't check at all (`gearPriceHistory.js`, `genreGearGuides.js`, `albumArticles/*.js`, `top10Lists.js`, `licks/*.js`, `drummerEvolution.js` prose/summary fields) across 8-10 drummers not recently touched. It returned 6 candidates; personally verified all 6 via direct `sed`/`grep` against `endorsementNews.js` before trusting any (per standing practice — never file on a subagent's claim alone). 5 of 6 confirmed solid and filed; 1 (Paul Bostaph top10Lists.js "one earlier exception on 1998's Diabolus in Musica") dropped — re-reading the actual sentence, it doesn't name a specific wrong brand for 1998 (just says "an exception" without specifying Sabian), so it's vague/incomplete rather than a clear fabrication; doesn't clear the verified-only bar cleanly enough to file, would need a positive-addition rewrite instead of a correction. Filed 7 total:
+- **#8352** — Derek Roddy soundLikeGuides.js heads fabricated Remo → verified Evans Genera HD Dry/EMAD since 2001 (distinct from held #7981 snare-material conflict)
+- **#8353** — Arin Ilejay drummerComparisons.js (3 entries: arin-ilejay-vs-jay-weinberg, john-otto-vs-arin-ilejay, arin-ilejay-vs-matt-garstka) still fabricate Mapex/Vic Firth — #8176/#8177 fixed 3 other files, missed this one
+- **#8354** — Pete Sandoval genreGearGuides.js "best-drum-heads-for-extreme-metal" guide fabricates him as an Evans endorser at 6 locations — verified Remo (other 3 drummers named in the same guide, Kollias/Roddy/Hoglan, ARE correctly Evans — only Sandoval is wrong)
+- **#8355** — Martin Lopez albumArticles.js fabricates "DW 5000 Double Pedal" across ~20 pre-2010 Opeth-era locations — no pedal brand verified before Axis (2010); omit-if-unsure violation, not a simple brand swap
+- **#8356** — Tomas Haake gearPriceHistory.js sticks modernEquivalent fabricates nonexistent "Pro-Mark Tomas Haake Signature" — verified is Wincent Tomas Haake Signature
+- **#8357** — Charlie Benante drummerEvolution.js era 3 sticks + era 4 heads/sticks + era 5 heads keep Pro-Mark/Remo past their verified 1990s/2000s brand-switch decades (distinct fields from closed #7897/#8133 same-file pedal/kit fix and closed #8277/#6445 same-fact different-file soundLikeGuides.js fix)
+- **#8358** — Dirk Verbeuren licks/dirk-verbeuren.js "King of the Threshold" (2005) entry still lists 2016+ Tama Speed Cobra 910 pedal — closed #6900 fixed this entry's drums/cymbals/sticks fields but never touched hardware
+
+### Dedup notes
+All 7 dedup-checked via `gh issue list --state all --search` (drummer + field/file/brand keywords) before filing, including full-body reads of #8176/#8177 (confirmed drummerComparisons.js untouched), #6900 (confirmed hardware field untouched), #7897/#8133/#8277/#6445 (confirmed none touch drummerEvolution.js heads/sticks for Benante). No overlap for any of the 7.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8345, #8346 (prior run, still untriaged as of this run's start)
+- #8352-8358 (this run, 7 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 13 open `seo-proposal`.
+
+### Next run
+1. Watch #8345/#8346/#8352-8358 through CEO triage.
+2. The non-detector manual sweep (gearPriceHistory.js/genreGearGuides.js/albumArticles.js/top10Lists.js/licks.js) proved more productive than re-running the now-thinning detector — consider this the default method going forward once the detector's own yield drops further; rotate through a fresh set of 8-10 under-checked drummers each run rather than re-treading derek-roddy/arin-ilejay/eloy-casagrande/flo-mounier/george-kollias.
+3. Held-back, not filed: Paul Bostaph top10Lists.js "1998 exception" line is vague rather than clearly wrong — would need a rewrite naming the correct 1998 brand (Zildjian A Custom, per endorsementNews.js) as a positive addition, not a correction; worth revisiting as a small clarity fix if the bank runs dry.
+4. Content-gap: metrics.md reports no gaps this run — nothing to address.
+5. Next drum-chair watch due Monday 2026-10-05, group 1.

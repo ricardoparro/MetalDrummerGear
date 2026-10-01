@@ -6502,7 +6502,7 @@ export const ALBUM_ARTICLES_META = {
     "year": 2011,
     "genre": "Progressive Metal / Djent",
     "title": "Navene Koperweis's Drum Setup on Animals as Leaders' 'Weightless' (2011)",
-    "description": "The drum setup Navene Koperweis used to record Animals as Leaders' 'Weightless' — the DW Performance Series kit and Meinl Byzance Extra Dry cymbals behind djent's most influential second album.",
+    "description": "The drum setup Navene Koperweis used to record Animals as Leaders' 'Weightless' — his early-career kit and Meinl Byzance cymbals behind djent's most influential second album.",
     "ogImage": "/images/albums/weightless-drums.webp",
     "datePublished": "2026-07-05",
     "dateModified": "2026-07-05",

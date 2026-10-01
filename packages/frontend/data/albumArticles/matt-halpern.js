@@ -1287,9 +1287,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Matt Halpern Signature",
-          "notes": "Halpern's signature stick — consistent through every Periphery recording from the 2010 debut to Aliens"
+          "brand": "Promark",
+          "model": "Promark Matt Halpern Signature",
+          "notes": "Halpern's signature stick since 2015 — consistent through the Mapex Saturn V era, including Aliens"
         }
       ],
       "heads": {

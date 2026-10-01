@@ -56,7 +56,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Vic Firth American Classic 5A",
+        "name": "Promark 5B",
         "type": "sticks",
         "link": null
       }
@@ -134,7 +134,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Vic Firth American Classic 5A",
+        "name": "Promark 5B",
         "type": "sticks",
         "link": null
       }
@@ -212,7 +212,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Vic Firth American Classic 5A",
+        "name": "Promark 5B",
         "type": "sticks",
         "link": null
       }

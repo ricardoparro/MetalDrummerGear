@@ -92315,7 +92315,7 @@ Roddy's choice is proof that in technical death metal, a well-chosen standard 5B
     ],
     relatedDrummers: [
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'Vic Firth American Classic 5B — classically-informed precision' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Vater Power 5B — three decades of gravity-blast technique' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Vic Firth 5A American Classic — three decades of gravity-blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Standard Vater 5B — one-footed blast technique' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Vic Firth sticks — Nile\'s extreme blast-beat precision' }
     ],
@@ -92323,7 +92323,7 @@ Roddy's choice is proof that in technical death metal, a well-chosen standard 5B
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'Vic Firth American Classic 5B — Obscura/Alkaloid classically-informed technicality' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Vater Power 5B — Cryptopsy\'s gravity-blast technique' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Vic Firth 5A American Classic — Cryptopsy\'s gravity-blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Standard Vater 5B — Hate Eternal/Nile one-footed blast speed' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Vic Firth sticks — Nile\'s extreme blast-beat precision' }
     ],

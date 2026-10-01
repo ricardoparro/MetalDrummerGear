@@ -5290,7 +5290,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Destroy the Opposition (2000)',
     profileImage: '/images/drummers/kevin-talley.webp',
 
-    summary: "Kevin Talley's 2000 setup behind Dying Fetus's Destroy the Opposition shows how a genuinely entry-level rig produced one of brutal death metal's most technically influential recordings. Talley's polyrhythmic double-kick patterns — shifting between straight and triplet groupings at 200+ BPM while the snare held a separate pulse — became a reference point for extreme metal drummers, and he built that reputation on a Pearl Export-tier shell pack, a basic steel snare, Zildjian A/A Custom cymbals, and a standard DW double bass pedal. The complete rig cost approximately $2,846 in 2000 dollars, equivalent to roughly $5,414 in 2026 after CPI adjustment — a genuinely accessible price point for the technical ceiling it helped Talley reach.\n\nThat gap between gear cost and technical output is the throughline of Talley's career: rather than chasing boutique hardware, he carried the same Pearl/Zildjian/DW combination through Misery Index's Retaliate (2003) and Discordia (2006) and Dying Fetus's War of Attrition (2007) — refining touring reliability rather than upgrading tier. Talley's setup has since moved to Pearl Masters Premium Legend shells, Sabian AAX cymbals, and a Pearl Eliminator double pedal, a step up in build quality but still squarely professional-tier rather than custom or boutique gear. For drummers researching how far extreme technique can be pushed on a mid-tier budget, Talley's Destroy the Opposition rig remains one of the clearest documented cases: the blast-speed ceiling was set by technique, not equipment.",
+    summary: "Kevin Talley's 2000 setup behind Dying Fetus's Destroy the Opposition shows how a genuinely entry-level rig produced one of brutal death metal's most technically influential recordings. Talley's polyrhythmic double-kick patterns — shifting between straight and triplet groupings at 200+ BPM while the snare held a separate pulse — became a reference point for extreme metal drummers, and he built that reputation on a Pearl Export-tier shell pack, a basic steel snare, Sabian AAX cymbals, and a Pearl Eliminator double bass pedal. The complete rig cost approximately $2,846 in 2000 dollars, equivalent to roughly $5,414 in 2026 after CPI adjustment — a genuinely accessible price point for the technical ceiling it helped Talley reach.\n\nThat gap between gear cost and technical output is the throughline of Talley's career: rather than chasing boutique hardware, he carried the same Pearl/Sabian/Pearl Eliminator combination through Misery Index's Retaliate (2003) and Discordia (2006) and Dying Fetus's War of Attrition (2007) — refining touring reliability rather than upgrading tier. Talley's setup has since moved to Pearl Masters Premium Legend shells, still paired with Sabian AAX cymbals and the Pearl Eliminator double pedal, a step up in shell build quality but the same cymbal and pedal brands he's used since 2000. For drummers researching how far extreme technique can be pushed on a mid-tier budget, Talley's Destroy the Opposition rig remains one of the clearest documented cases: the blast-speed ceiling was set by technique, not equipment.",
 
     setup: {
       drums: {
@@ -5324,13 +5324,13 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Zildjian A / A Custom Series',
-        model: 'Mixed A and A Custom configuration',
-        specs: '14" A Custom Hi-Hats, 16"/18" A Custom Crashes, 20" A Medium Ride, 18" A China',
+        item: 'Sabian AAX Series',
+        model: 'Mixed AAX configuration',
+        specs: '14" AAX Hi-Hats, 16"/18" AAX Crashes, 20" AAX Medium Ride, 18" AAX China',
         originalPrice: 900,
         year: 2000,
-        source: 'Zildjian A/A Custom catalog pricing 2000',
-        notes: "Fast-attacking, controlled-decay cymbals that articulated clearly above Dying Fetus's down-tuned guitars without requiring premium hardware.",
+        source: 'Sabian AAX catalog pricing 2000',
+        notes: "Fast-attacking, controlled-decay cymbals that articulated clearly above Dying Fetus's down-tuned guitars without requiring premium hardware — the same AAX lineup Talley has endorsed since 2000.",
         vintageValue2026: 1150,
         modernEquivalent: {
           item: 'Sabian AAX Series (current)',
@@ -5339,13 +5339,13 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'DW Double Bass Pedal',
+        item: 'Pearl Eliminator Double Pedal',
         model: 'Chain-drive double pedal + stands',
-        specs: 'DW double bass pedal, hi-hat stand, boom stands, throne',
+        specs: 'Pearl Eliminator double bass pedal, hi-hat stand, boom stands, throne',
         originalPrice: 300,
         year: 2000,
-        source: 'DW hardware catalog pricing 2000',
-        notes: "Consistent cam action was the one non-negotiable spec in Talley's budget rig — his polyrhythmic kick patterns depend on mechanical reliability, not tier.",
+        source: 'Pearl Eliminator hardware catalog pricing 2000',
+        notes: "Consistent cam action was the one non-negotiable spec in Talley's budget rig — his polyrhythmic kick patterns depend on mechanical reliability, not tier. The same Pearl Eliminator pedal he's used since 2000.",
         vintageValue2026: 380,
         modernEquivalent: {
           item: 'Pearl Eliminator Double Pedal (current)',
@@ -5393,11 +5393,11 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     priceEvolution: [
-      { year: 1999, price: 2600, label: 'Joins Dying Fetus', event: 'Entry-level Pearl/Zildjian/DW rig established' },
+      { year: 1999, price: 2600, label: 'Joins Dying Fetus', event: 'Entry-level Pearl/Sabian/Pearl Eliminator rig established' },
       { year: 2000, price: 2846, label: 'Original Purchase', event: 'Destroy the Opposition recorded — landmark polyrhythmic blast beat brutal death metal album' },
-      { year: 2003, price: 3400, label: 'Misery Index era', event: 'Retaliate recorded; same Pearl/Zildjian/DW rig carries into a grindcore-adjacent context' },
-      { year: 2007, price: 4400, label: 'War of Attrition era', event: 'Dying Fetus return; most documented touring configuration of the DW-pedal era' },
-      { year: 2018, price: 5600, label: 'Current rig era', event: 'Pearl Masters Premium Legend / Sabian AAX / Pearl Eliminator setup established' },
+      { year: 2003, price: 3400, label: 'Misery Index era', event: 'Retaliate recorded; same Pearl/Sabian/Pearl Eliminator rig carries into a grindcore-adjacent context' },
+      { year: 2007, price: 4400, label: 'War of Attrition era', event: 'Dying Fetus return; most documented touring configuration of the Pearl Eliminator-pedal era' },
+      { year: 2018, price: 5600, label: 'Current rig era', event: 'Pearl Masters Premium Legend shell upgrade, still paired with Sabian AAX and Pearl Eliminator' },
       { year: 2026, price: 5414, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2000 setup' },
     ],
 
@@ -5410,7 +5410,7 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Kevin Talley 2000 Dying Fetus Drum Setup Cost | Destroy the Opposition Era Gear Prices",
-      description: "How much did Kevin Talley's 2000 Dying Fetus drum kit cost? Original entry-level Pearl/Zildjian/DW setup ~$2,846, inflation-adjusted to ~$5,414 today. Complete Destroy the Opposition-era gear breakdown.",
+      description: "How much did Kevin Talley's 2000 Dying Fetus drum kit cost? Original entry-level Pearl/Sabian/Pearl Eliminator setup ~$2,846, inflation-adjusted to ~$5,414 today. Complete Destroy the Opposition-era gear breakdown.",
       keywords: ['kevin talley drum setup', 'dying fetus drummer gear', 'destroy the opposition drums cost', 'kevin talley 2000 setup', 'kevin talley drum kit price'],
     },
   },

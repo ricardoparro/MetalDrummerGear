@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-01 00:37 UTC*
 
 ---
+## 2026-10-01 12:24 — Cheap pulse: 7 fresh fabrication proposals verified+promoted (#8434-8440), 2 w/ scope-gap comments
+
+### Context (≤3 lines)
+12:24 UTC cheap pulse (before the 13:00 mid-day boundary). Metrics 12:18 UTC (337 users/386 sessions/605 views 7d; GSC 8,385 impr/148 clicks/1.77% CTR/pos 7.5; content-gap filter re-flagged `arin ilejay` 638 impr/0% CTR/pos 12.1, same standing query as the 06:24 run). At run start: eligible `ai-fix` backlog **0**, 7 fresh untriaged `seo-proposal` (#8434-8440, filed 07:24-07:25 UTC) continuing the gear-fabrication sweep across albumArticles/drummerEvolution.js/snares.js/extendedBios.js/endorsementNews.js.
+
+### Actions taken
+- **GSC content-gap check**: `arin ilejay` (638 impr/0%/pos 12.1) cross-referenced against `.agents/seo/gsc-watch-snapshot.md` — already tracked there at pos 11.4/391 impr/0 cl, classified "null (within noise band)". This is a confirmed class-2 bare-name/bio-intent query (`learned-patterns.md` line 205/211: Wikipedia/ModernDrummer structurally out-rank a gear-focused snippet at this query shape; title/meta rewrites don't convert, 5-for-5 confirmed across other entities). No fix filed — re-filing would repeat the exact mistake the 211 process-fix note warns against.
+- **Live-verified all 7 via subagent** (grep against current source + `endorsementNews.js` ground-truth quote check + cross-file scope sweep + dupe-check). 5 clean (#8434 Abe Cunningham, #8436 Jon Dette, #8438 Kevin Talley, #8439 Richard Christy, #8440 Jason Bittner ground-truth file), promoted as-is. 2 needed scope-gap comments before promoting: **#8435** (Art Cruz "Ludwig Classic Maple" — issue scoped to gearPriceHistory.js only, but `drummerEvolution.js`'s art-cruz-2020-lamb-of-god block independently repeats the same fabrication at :11372/:11419/:11438/:11365) and **#8437** (Sean Reinert early-K-Series cymbal switch — issue scoped to drummerEvolution.js only, but `extendedBios.js:8421`'s FAQ answer repeats the identical fabrication; confirmed `albumArticles/sean-reinert.js:784` is already correct, no change needed there). Posted scope-gap comments on both, then promoted all 7 (`ai-fix`).
+- **Held issues re-checked, no new info**: #7981 (Derek Roddy snare conflict, held since 09-23) and #8390 (Eloy Casagrande sticks 3rd-flip-flop risk, held since 09-30) both have no new comments since their hold rulings — left held, not re-litigated.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all unchanged, no re-spam.
+- **Atomic-split sweep**: all 13 non-fresh open `ai-fix` issues are the frozen roster/band `hold` splits (#4932-#5108) — correctly frozen under the freeze, nothing eligible.
+- **Starvation check**: post-triage backlog 7, untriaged bank 0 — trips the trigger shape (backlog <15, bank ≤2). Confirmed via `gh run list --workflow=seo-agent.yml` this is the same one-run-triages-the-batch artifact as every prior occurrence (07:11 UTC run produced exactly these 7 issues; SEO Agent cadence is ~6h, next run due early afternoon). Not escalating.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-09-28 (closed out in the 09-28 22:57 evening entry). Next weekly refresh due ~2026-10-05 — not due.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 7 (#8434-8440 promoted)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, held #7981/#8390): 7 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 7/7 fresh triaged, live-verified against source, all promoted (2 with scope-gap comments). ✅ Founder ideas: inbox empty. ✅ GSC-gap: `arin ilejay` checked against gsc-watch-snapshot + learned-patterns class-2 rule, correctly held, zero new issues. ✅ L1/L2/L3: not due, already closed out last week. ✅ Starvation: trigger shape met but confirmed non-event via run history. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8434-8440 pick up via Roadie.
+2. Confirm #8435/#8437's implementations cover the scope-gap comments (drummerEvolution.js for Art Cruz, extendedBios.js for Sean Reinert), not just each issue's original file list.
+3. Next L1/L2/L3 weekly refresh due ~2026-10-05 — full close-the-loop pass once it lands.
+4. #7981 (Derek Roddy) and #8390 (Eloy Casagrande) still held — no action until new external info surfaces.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
 ## 2026-10-01 06:24 — Cheap pulse: 8 fresh fabrication proposals verified+promoted (#8419-8426), 2 w/ scope-gap comments
 
 ### Context (≤3 lines)

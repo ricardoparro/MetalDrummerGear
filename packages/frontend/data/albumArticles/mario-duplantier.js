@@ -1710,10 +1710,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "5B for extra reach and power on dual bass patterns",
-          "description": "The 5B is slightly heavier and longer than the 5A Mario used on earlier albums. The additional weight suits the physically demanding passages on 'L'Enfant Sauvage' without sacrificing the control needed for ghost notes and delicate cymbal work."
+          "brand": "Tama",
+          "model": "Tama Mario Duplantier Signature",
+          "notes": "Mario's own signature model, developed after years on Vic Firth 5A",
+          "description": "By \"L'Enfant Sauvage,\" Mario had moved from the Vic Firth 5A he played on earlier albums to his own Tama signature stick, designed to his specifications. The switch to a signature model suits the physically demanding passages on 'L'Enfant Sauvage' without sacrificing the control needed for ghost notes and delicate cymbal work."
         }
       ],
       "heads": {
@@ -1815,7 +1815,7 @@ export const articles = {
         {
           "category": "Sticks",
           "then": "Zildjian 5A",
-          "now": "Vic Firth American Classic 5B (heavier for more authority)"
+          "now": "Tama Mario Duplantier Signature (his own signature model)"
         }
       ]
     },
@@ -1864,7 +1864,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Wild Child Grows Up",
-      "content": "\"L'Enfant Sauvage\" — the wild child — is Gojira's album of maturation without compromise. It is simultaneously their most accessible and most accomplished record: cleaner production, stronger songs, and a drummer who has fully absorbed his influences and transformed them into something entirely personal.\n\nMario Duplantier's Tama/Zildjian setup on this album was refined rather than replaced. It was a deliberate sonic sharpening — from the dark, organic density of the earlier Tama/Zildjian years to the clear, projected authority of a more articulate Bubinga and K Custom/A Custom voicing. Every element of the refined setup served the new direction: more defined, more confident, more present.\n\nThe Grammy nomination validated what Gojira fans already knew: that Mario is among the most complete drummers in modern metal. Not just technically proficient — every aspect of his playing is unified by musical intelligence. He plays for the song, not for the drummer. He plays for the room, not for the gear.\n\nThe Tama Starclassic Bubinga kit, Zildjian K Custom/A Custom cymbals, Tama Iron Cobra pedals, and Vic Firth 5B sticks are the tools of a master craftsman at his most deliberate. They do not define his playing; they enable it.\n\n**What \"L'Enfant Sauvage\" teaches drummers:**\n- **Refinement requires commitment**: Sharpening a setup mid-career takes discipline; Mario executed the refinement flawlessly\n- **Brightness serves clarity**: Sometimes a more forward-sounding cymbal voicing serves the mix better than a darker, more complex one\n- **Endorsements should serve art**: The refined Tama/Zildjian voicing matched Gojira's sonic evolution, not just a business arrangement\n- **Grammy recognition follows artistic authenticity**: The title track is Grammy-worthy because it is genuinely great, not because it was designed to be\n- **Evolution without abandonment**: Refined gear, same philosophy — tribal grooves, dual kicks, melodic toms\n\nFor drummers who want to understand how Mario Duplantier became one of the defining metal drummers of his generation, \"L'Enfant Sauvage\" is the essential document. It is where the wild child learned that mastery and ferocity are not opposites.\n\n*The wild child never tamed — only refined.*"
+      "content": "\"L'Enfant Sauvage\" — the wild child — is Gojira's album of maturation without compromise. It is simultaneously their most accessible and most accomplished record: cleaner production, stronger songs, and a drummer who has fully absorbed his influences and transformed them into something entirely personal.\n\nMario Duplantier's Tama/Zildjian setup on this album was refined rather than replaced. It was a deliberate sonic sharpening — from the dark, organic density of the earlier Tama/Zildjian years to the clear, projected authority of a more articulate Bubinga and K Custom/A Custom voicing. Every element of the refined setup served the new direction: more defined, more confident, more present.\n\nThe Grammy nomination validated what Gojira fans already knew: that Mario is among the most complete drummers in modern metal. Not just technically proficient — every aspect of his playing is unified by musical intelligence. He plays for the song, not for the drummer. He plays for the room, not for the gear.\n\nThe Tama Starclassic Bubinga kit, Zildjian K Custom/A Custom cymbals, Tama Iron Cobra pedals, and Tama signature sticks are the tools of a master craftsman at his most deliberate. They do not define his playing; they enable it.\n\n**What \"L'Enfant Sauvage\" teaches drummers:**\n- **Refinement requires commitment**: Sharpening a setup mid-career takes discipline; Mario executed the refinement flawlessly\n- **Brightness serves clarity**: Sometimes a more forward-sounding cymbal voicing serves the mix better than a darker, more complex one\n- **Endorsements should serve art**: The refined Tama/Zildjian voicing matched Gojira's sonic evolution, not just a business arrangement\n- **Grammy recognition follows artistic authenticity**: The title track is Grammy-worthy because it is genuinely great, not because it was designed to be\n- **Evolution without abandonment**: Refined gear, same philosophy — tribal grooves, dual kicks, melodic toms\n\nFor drummers who want to understand how Mario Duplantier became one of the defining metal drummers of his generation, \"L'Enfant Sauvage\" is the essential document. It is where the wild child learned that mastery and ferocity are not opposites.\n\n*The wild child never tamed — only refined.*"
     }
   },
   "magma-drum-setup": {
@@ -2016,10 +2016,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "5B for authority in power passages without sacrificing control",
-          "description": "Mario continued with the Vic Firth 5B for Magma — the extra weight and length he adopted for \"L'Enfant Sauvage\" remained the right choice for Gojira's physically demanding music. The 5B provides the reach and authority for full-kit explosions in \"Silvera\" without losing the control needed for the intricate patterns in quieter passages."
+          "brand": "Tama",
+          "model": "Tama Mario Duplantier Signature",
+          "notes": "Mario's own signature model, unchanged since \"L'Enfant Sauvage\"",
+          "description": "Mario continued with his Tama signature stick for Magma — the switch away from Vic Firth he made for \"L'Enfant Sauvage\" remained the right choice for Gojira's physically demanding music. The signature model provides the reach and authority for full-kit explosions in \"Silvera\" without losing the control needed for the intricate patterns in quieter passages."
         }
       ],
       "heads": {
@@ -2120,8 +2120,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth American Classic 5B",
-          "now": "Vic Firth American Classic 5B (unchanged)"
+          "then": "Tama Mario Duplantier Signature",
+          "now": "Tama Mario Duplantier Signature (unchanged)"
         }
       ]
     },
@@ -2724,10 +2724,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "5B weight for authority in Gojira's physically demanding music",
-          "description": "Mario Duplantier has played Vic Firth American Classic 5B sticks throughout the Gojira catalog. The 5B's extra weight and length compared to a 5A provides the authority required for Gojira's sustained high-intensity patterns without sacrificing the control needed for the intricate polyrhythmic figures that define Mario's playing. On *Fortitude*, the 5B drives \"Amazonia\"'s relentless groove with physical weight — each stroke landing with the authority the Grammy-nominated performance demands."
+          "brand": "Tama",
+          "model": "Tama Mario Duplantier Signature",
+          "notes": "Mario's own signature model, built to his specifications",
+          "description": "Mario Duplantier has played his own Tama signature stick throughout the later Gojira catalog, having moved on from the Vic Firth 5A he used earlier in his career. The signature model provides the authority required for Gojira's sustained high-intensity patterns without sacrificing the control needed for the intricate polyrhythmic figures that define Mario's playing. On *Fortitude*, it drives \"Amazonia\"'s relentless groove with physical weight — each stroke landing with the authority the Grammy-nominated performance demands."
         }
       ],
       "heads": {

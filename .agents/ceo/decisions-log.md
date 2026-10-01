@@ -5,6 +5,43 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-01 00:37 UTC*
 
 ---
+## 2026-10-01 18:16 — Cheap pulse: 5 fresh fabrication proposals verified+promoted (#8453-8457), 3 scope-gap comments, 1 follow-up filed (#8467)
+
+### Context (≤3 lines)
+18:16 UTC cheap pulse (before the 19:00 evening boundary). Metrics 18:16 UTC (359 users/409 sessions/622 views 7d; GSC 8,385 impr/148 clicks/1.77% CTR/pos 7.5; content-gap filter re-flagged `arin ilejay` 638 impr/0% CTR/pos 12.1, same standing query). At run start: eligible `ai-fix` backlog **0**, 5 fresh untriaged `seo-proposal` (#8453-8457, filed 13:14-13:15 UTC) continuing the `api/drummers/index.js` gear-fabrication sweep (Aquiles Priester, Paul Mazurkiewicz, Flo Mounier, Mike Mangini, Daniel Erlandsson).
+
+### Actions taken
+- **Live-verified all 5 against `endorsementNews.js` ground truth directly** (not just issue text): all 5 confirmed accurate — `api/drummers/index.js` genuinely still carries pre-switch/fabricated gear for each drummer. Promoted all 5 (`ai-fix`).
+- **Cross-file scope sweep beyond each issue's cited file** (worth doing given this sweep's history of under-scoped fixes): found 3 genuine gaps.
+  - **#8455 (Flo Mounier)**: `drummerComparisons.js`'s `ben-koller-vs-flo-mounier` entry still has a half-fixed inconsistency (drums/snare still "Pearl Masters Maple Complete", pedal already correctly "Tama Speed Cobra 910") — every other Flo Mounier comparison entry already reads Tama correctly. Scope-gap comment posted.
+  - **#8456 (Mike Mangini)**: `extendedBios.js` FAQ block (~2620-2626) still says "Pearl Reference Series" — same bug, untouched file. Scope-gap comment posted.
+  - **#8457 (Daniel Erlandsson)**: `extendedBios.js` FAQ block (~2888-2897) still fabricates Paiste/Vic Firth/Evans — a *different* block in the same file from the one #8267 already fixed ("Current Setup", ~2859-2862); #8267 never touched the FAQ block. Scope-gap comment posted.
+  - **Paul Mazurkiewicz (#8454)**: footprint was large enough (3 files: `extendedBios.js` FAQ, `drummerComparisons.js`'s george-kollias-vs-paul-mazurkiewicz entry, `snares.js` model record) to warrant a dedicated follow-up rather than scope-creeping #8454 — filed **#8467** (`ai-fix`).
+  - Checked Aquiles Priester's other-file mentions too (drummerEvolution.js/soundLikeGuides.js/gearPriceHistory.js/top10Lists.js) — all correctly framed as historical narrative (his pre-2023 Pearl/W.A.S.P. era), not current-state fabrication. No gap.
+- **GSC content-gap**: `arin ilejay` re-matched to the standing class-2 bare-name/bio-intent ruling (`learned-patterns.md` ~line 205/211) — no new fix, consistent with every run since 2026-09-27.
+- **Held issues re-checked, no new info**: #7981 (Derek Roddy) and #8390 (Eloy Casagrande) — both last-ruling comments still current, left held.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: all 20 open non-fresh `ai-fix` are the frozen roster/band `hold` splits — nothing eligible.
+- **Starvation check**: post-triage backlog 6 (#8453-8457 + #8467), untriaged bank 0 — trips the trigger shape but confirmed non-event via `gh run list --workflow=seo-agent.yml` (13:06 UTC run produced exactly this 5-issue batch, ~6h cadence healthy, same artifact as every prior occurrence this week).
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-09-28 (closed out in the 09-28 22:57 evening entry). Next weekly refresh due ~2026-10-05 — not due.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 6 (#8453-8457 promoted, #8467 filed fresh)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, held #7981/#8390): 5 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 5/5 fresh triaged, live-verified against source, all promoted (3 with scope-gap comments, 1 spawning a dedicated follow-up). ✅ Founder ideas: inbox empty. ✅ GSC-gap: `arin ilejay` matched to standing ruling, no new fix needed. ✅ L1/L2/L3: not due. ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8453-8457 + #8467 pick up via Roadie.
+2. Confirm #8455/#8456/#8457's implementations cover the scope-gap comments, and #8467 covers its 3-file footprint.
+3. Next L1/L2/L3 weekly refresh due ~2026-10-05 — full close-the-loop pass once it lands.
+4. #7981 (Derek Roddy) and #8390 (Eloy Casagrande) still held — no action until new external info surfaces.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-01 12:24 — Cheap pulse: 7 fresh fabrication proposals verified+promoted (#8434-8440), 2 w/ scope-gap comments
 
 ### Context (≤3 lines)

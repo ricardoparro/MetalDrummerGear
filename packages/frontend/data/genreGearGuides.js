@@ -88062,7 +88062,7 @@ For drummers building a djent setup on a budget, or those who simply prefer the 
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Wincent signature — front-heavy power for Meshuggah\'s polymetric precision' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Vic Firth signature — balanced control for Periphery\'s technical breakdowns' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Promark signature — balanced control for Periphery\'s technical breakdowns' },
       { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Vic Firth signature — long taper for Animals as Leaders\' instrumental complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Vic Firth American Classic 3A — lightweight articulation for BTBAM' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Vic Firth American Classic 5B — dependable power for odd-meter technical drumming' }
@@ -88071,7 +88071,7 @@ For drummers building a djent setup on a budget, or those who simply prefer the 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Wincent Massive and Made for Metal signature — Meshuggah\'s founding djent voice' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Vic Firth signature — Periphery\'s technical breakdown power and control' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Promark signature — Periphery\'s technical breakdown power and control' },
       { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Vic Firth signature — Animals as Leaders\' ghost-note-heavy instrumental fills' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Vic Firth American Classic 3A — Between the Buried and Me\'s genre-blending range' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Vic Firth American Classic 5B — odd-meter technical drumming' }

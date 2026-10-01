@@ -123,7 +123,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Evans Heavyweight Heads",
+        "name": "Remo Heads",
         "type": "heads",
         "link": null
       }

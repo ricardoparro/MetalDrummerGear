@@ -2862,7 +2862,7 @@ const drummers = [
     country: 'Brazil',
     image: '/images/drummers/aquiles-priester.webp',
     bio: 'Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2000-2012, 2023-present), W.A.S.P. (2006-present), and his own project Hangar. Priester\'s double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.',
-    kitOverview: 'Aquiles Priester plays a Pearl Reference Series drum kit — a dense, multi-ply shell pack chosen for the powerful low end and quick rebound that support his trademark blend of blistering speed and razor-sharp precision. The Aquiles Priester drum set is centered on a Pearl Reference 14x6.5" brass snare, prized for a bright, cutting crack that keeps his rapid single- and double-stroke fills audible through Angra\'s dense progressive power metal arrangements.\n\nSabian HHX and AAX Series cymbals shape the sound of the Aquiles Priester drum kit: 14" HHX Evolution Hi-Hats for crisp, controlled chops at his characteristically breakneck tempos; 18" and 19" HHX X-Plosion Crashes for explosive accents; a 21" HHX Groove Ride for definition through extended double-bass sections; and an 18" AAX Chinese cymbal for sharp punctuation. A Pearl Demon Drive double pedal, mounted on Pearl\'s Icon Rack System, delivers the sustained, high-speed double-bass patterns that have made Priester one of the most celebrated technical drummers to emerge from Brazil\'s metal scene.\n\nHis Promark TX419W Aquiles Priester Autograph sticks, paired with Evans heads, complete the Aquiles Priester drum set — a setup that has carried him through his work with Angra, W.A.S.P., and his own project, Hangar.',
+    kitOverview: 'Aquiles Priester plays a Mapex Saturn Evolution All Maple signature kit — a dense maple shell pack chosen for the powerful low end and quick rebound that support his trademark blend of blistering speed and razor-sharp precision.\n\nA Paiste custom red-coated cymbal set, including an 18" Psychoctopus Giga Bell Ride, shapes the sound of the Aquiles Priester drum kit, giving his rapid single- and double-stroke fills a bright, cutting edge that stays audible through Angra\'s dense progressive power metal arrangements. A DW 9000 Series double pedal delivers the sustained, high-speed double-bass patterns that have made Priester one of the most celebrated technical drummers to emerge from Brazil\'s metal scene.\n\nHis ProMark Aquiles Priester Signature sticks, paired with Remo coated Ambassador / Powerstroke 3 heads, complete the Aquiles Priester drum set — a setup that has carried him through his work with Angra, W.A.S.P., and his own project, Hangar.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Aquiles_Priester',
       'https://www.instagram.com/aquilespriester/',
@@ -2870,14 +2870,13 @@ const drummers = [
       'https://www.allmusic.com/artist/aquiles-priester-mn0000507691'
     ],
     gear: {
-      drums: 'Pearl Reference Series',
-      snare: 'Pearl Reference 14x6.5" Brass',
-      cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl Icon Rack System',
-      sticks: 'Promark TX419W Aquiles Priester Autograph',
-      heads: 'Remo',
+      drums: 'Mapex Saturn Evolution All Maple (signature kit)',
+      cymbals: 'Paiste Custom red-coated set incl. 18" Psychoctopus Giga Bell Ride',
+      hardware: 'DW 9000 Series Double Pedal',
+      sticks: 'ProMark Aquiles Priester Signature',
+      heads: 'Remo Coated Ambassador / Powerstroke 3',
       verified: true,
-      sources: ['https://pearldrum.com/en/artists/', 'https://sabian.com/artists']
+      sources: ['https://www.mapexdrums.com/artists/', 'https://paiste.com/pages/artists']
     },
     photos: [
       '/images/drummers/aquiles-priester.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/a/a0/Aquiles_Priester_Cropped_-Aquiles_Priester_El_SALVADOR.jpg

@@ -2910,17 +2910,17 @@ const drummers = [
     image: '/images/drummers/paul-mazurkiewicz.webp',
     imageCredit: 'Photo by Markus Felix | PushingPixels, CC BY-SA 3.0, via Wikimedia Commons (RockHard Festival 2016)',
     bio: 'Paul Mazurkiewicz (born September 8, 1968) is an American drummer and co-founder of legendary death metal band Cannibal Corpse, formed in Buffalo, New York in 1988. As one of the most consistent and dedicated drummers in extreme metal, Mazurkiewicz has performed on every Cannibal Corpse album since their 1990 debut "Eaten Back to Life." His drumming style combines relentless blast beats, complex double bass patterns, and groove-oriented sections that have helped define the death metal sound. With Cannibal Corpse being the best-selling death metal band of all time, Mazurkiewicz\'s contribution to the genre is immeasurable.',
-    kitOverview: 'Paul Mazurkiewicz plays a Pearl Masters Maple Complete drum kit with Meinl Classics Custom / Byzance Series cymbals — the blast-beat-optimized drum set that has powered Cannibal Corpse\'s relentless death metal assault for over three decades. The centerpiece of the Paul Mazurkiewicz drum kit is a Pearl Masters 14×6.5" Maple snare, tuned bright and tight to cut through down-tuned guitars on landmark recordings from Tomb of the Mutilated through Violence Unimagined. A Pearl Demon Drive Double Pedal anchors Mazurkiewicz\'s locomotive double bass technique — the same configuration carried across Cannibal Corpse\'s entire discography.\n\nThe Meinl cymbal spread rounds out the Paul Mazurkiewicz drum set: Byzance Hi-Hats deliver a punchy, controlled chick beneath extreme blast beat tempos; Byzance Crashes provide fast-attacking accents for riff-change punctuation; a Byzance Ride offers cutting rhythmic definition over dense guitar passages; and a Byzance China adds brutal trashy impact on the most intense sections. Vic Firth American Classic 5B sticks and Evans drumheads complete the drum kit configuration. For the full breakdown, see the [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup).',
+    kitOverview: 'Paul Mazurkiewicz plays a Pearl Reference drum kit with Meinl Classics Custom / Byzance Series cymbals — the blast-beat-optimized drum set that has powered Cannibal Corpse\'s relentless death metal assault for over three decades. The centerpiece of the Paul Mazurkiewicz drum kit is a Pearl Free-Floating steel snare, tuned bright and tight to cut through down-tuned guitars on landmark recordings from Tomb of the Mutilated through Violence Unimagined. A Pearl Eliminator Double Bass Pedal anchors Mazurkiewicz\'s locomotive double bass technique — the same configuration carried across Cannibal Corpse\'s entire discography.\n\nThe Meinl cymbal spread rounds out the Paul Mazurkiewicz drum set: Byzance Hi-Hats deliver a punchy, controlled chick beneath extreme blast beat tempos; Byzance Crashes provide fast-attacking accents for riff-change punctuation; a Byzance Ride offers cutting rhythmic definition over dense guitar passages; and a Byzance China adds brutal trashy impact on the most intense sections. Vic Firth Paul Mazurkiewicz Signature sticks and Remo drumheads complete the drum kit configuration. For the full breakdown, see the [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup).',
     sameAs: [
       'https://en.wikipedia.org/wiki/Paul_Mazurkiewicz',
       'https://www.discogs.com/artist/257779-Paul-Mazurkiewicz'
     ],
     gear: {
-      drums: 'Pearl Masters Maple Complete',
-      snare: 'Pearl Masters 14x6.5" Maple',
+      drums: 'Pearl Reference',
+      snare: 'Pearl Free-Floating Steel',
       cymbals: 'Meinl Classics Custom & Byzance Series',
-      hardware: 'Pearl Demon Drive Double Pedal',
-      sticks: 'Vic Firth American Classic 5B',
+      hardware: 'Pearl Eliminator Double Bass Pedal',
+      sticks: 'Vic Firth Paul Mazurkiewicz Signature',
       heads: 'Remo',
       verified: true,
       sources: ['https://en.wikipedia.org/wiki/Paul_Mazurkiewicz']

@@ -8477,7 +8477,7 @@ export const DRUMMER_EVOLUTION = {
         years: '1992-1993',
         startYear: 1992,
         endYear: 1993,
-        description: 'The apex. Cynic\'s Focus (1993) is the defining jazz-fusion death metal record — and Sean Reinert\'s drumming is inseparable from that achievement. Co-written with Paul Masvidal, Focus fused death metal brutality with Weather Report-style complexity. The Tama Artstar II setup reached its fullest expression here, with a switch to darker Zildjian K cymbals.',
+        description: 'The apex. Cynic\'s Focus (1993) is the defining jazz-fusion death metal record — and Sean Reinert\'s drumming is inseparable from that achievement. Co-written with Paul Masvidal, Focus fused death metal brutality with Weather Report-style complexity. The Tama Artstar II setup reached its fullest expression here, with the same Zildjian A/K Series cymbal blend carried over from Human.',
         albums: ['Focus (1993)'],
         tours: ['Focus Tour 1993 (supporting Death, limited dates)'],
         image: null,
@@ -8496,10 +8496,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Zildjian K Series',
-            details: '14" K hi-hats, 16"/18" K Custom crashes, 20" K ride',
-            notes: 'Switched from A Series to the darker, more complex Zildjian K for Focus — a deliberate move toward jazz-fusion cymbal character over the bright, cutting A Series sound.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Zildjian A/K Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride — A/K Series blend',
+            notes: 'Continued the same Zildjian A/K Series blend used on Human — the mix of bright A Series attack and darker K Series complexity carried through Focus unchanged. Sean wouldn\'t narrow to K Custom alone until Cynic\'s 2008 reunion album Traced in Air.',
+            change: null,
           },
           hardware: {
             item: 'DW 5000 Double Pedal',
@@ -8529,7 +8529,6 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Focus (1993) — the defining jazz-death fusion record',
-          'Switched to Zildjian K Series for darker, more jazz-oriented cymbal voice',
           'Snare tuned higher and more open than the Death recordings',
           'Drumming cited among the greatest metal drum performances by Modern Drummer and Decibel',
         ],

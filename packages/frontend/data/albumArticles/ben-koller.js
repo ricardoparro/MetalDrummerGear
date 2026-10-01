@@ -326,7 +326,7 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Ben Koller's Drum Setup on Converge's Jane Doe (2001)",
-    "description": "Inside Ben Koller's drum setup for Converge's Jane Doe (2001) — the mathcore masterpiece tracked at Kurt Ballou's GodCity Studio. Tama drums, Sabian HHX/AAX cymbals, Iron Cobra pedals, Vater sticks, and the blast-and-breakdown vocabulary that redefined heavy music.",
+    "description": "Inside Ben Koller's drum setup for Converge's Jane Doe (2001) — the mathcore masterpiece tracked at Kurt Ballou's GodCity Studio. Tama drums, Sabian HHX/AAX cymbals, Iron Cobra pedals, Vic Firth sticks, and the blast-and-breakdown vocabulary that redefined heavy music.",
     "seoKeywords": [
       "jane doe drum setup",
       "ben koller jane doe",
@@ -339,7 +339,7 @@ export const articles = {
     "ogImage": "/images/albums/jane-doe-drums.webp",
     "intro": {
       "title": "The Mathcore Masterpiece",
-      "content": "Released on September 4, 2001 on Equal Vision Records, Converge's Jane Doe is widely considered one of the greatest heavy records of all time — a mathcore landmark that fused hardcore punk, metal, and noise into a singular, devastating statement. At the center of that storm sits Ben Koller, whose drum setup for the Jane Doe sessions delivered the controlled chaos that turned a four-piece hardcore band into a genre-defining force.\n\nTracked by guitarist Kurt Ballou at his GodCity Studio in Salem, Massachusetts, Jane Doe captures a band at the peak of its creative violence. Koller was only 23 when the album was recorded, but his playing on tracks like \"Concubine,\" \"Fault and Fracture,\" \"The Broken Vow,\" and the closing title track established a blast-and-breakdown vocabulary that drummers in mathcore, metalcore, and extreme metal still study today.\n\nBen Koller's Jane Doe drum setup centered on a Tama kit with a single bass drum, Sabian HHX and AAX cymbals, Tama Iron Cobra pedals, and Vater sticks — a pragmatic, hard-touring configuration built for the brutal demands of Converge's music. Koller has been a single-kick monster throughout his career, and Jane Doe is the record where that approach reached its definitive form.\n\nThis article breaks down the gear Ben Koller used to record Jane Doe and examines how each piece serves Converge's most influential album.",
+      "content": "Released on September 4, 2001 on Equal Vision Records, Converge's Jane Doe is widely considered one of the greatest heavy records of all time — a mathcore landmark that fused hardcore punk, metal, and noise into a singular, devastating statement. At the center of that storm sits Ben Koller, whose drum setup for the Jane Doe sessions delivered the controlled chaos that turned a four-piece hardcore band into a genre-defining force.\n\nTracked by guitarist Kurt Ballou at his GodCity Studio in Salem, Massachusetts, Jane Doe captures a band at the peak of its creative violence. Koller was only 23 when the album was recorded, but his playing on tracks like \"Concubine,\" \"Fault and Fracture,\" \"The Broken Vow,\" and the closing title track established a blast-and-breakdown vocabulary that drummers in mathcore, metalcore, and extreme metal still study today.\n\nBen Koller's Jane Doe drum setup centered on a Tama kit with a single bass drum, Sabian HHX and AAX cymbals, Tama Iron Cobra pedals, and Vic Firth sticks — a pragmatic, hard-touring configuration built for the brutal demands of Converge's music. Koller has been a single-kick monster throughout his career, and Jane Doe is the record where that approach reached its definitive form.\n\nThis article breaks down the gear Ben Koller used to record Jane Doe and examines how each piece serves Converge's most influential album.",
       "keyPoints": [
         "Released September 4, 2001 on Equal Vision Records",
         "Produced by Kurt Ballou at GodCity Studio, Salem, Massachusetts",
@@ -449,9 +449,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Ben Koller signature stick",
-          "notes": "Custom-spec hickory stick balanced for power and rebound"
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Stock hickory 5B — Koller's stick of choice since 1999"
         }
       ],
       "heads": {
@@ -519,7 +519,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Jane Doe to the Modern Koller Setup",
-      "content": "Jane Doe is the foundational document of Ben Koller's recorded career, and the gear principles established on the album have remained largely consistent over the following two decades.\n\n**Immediate Changes:**\nAfter Jane Doe, Koller refined his Tama kit choices through subsequent Converge records — You Fail Me (2004), No Heroes (2006), Axe to Fall (2009), and All We Love We Leave Behind (2012) — but kept the single-kick, four-tom approach throughout.\n\n**Cymbal Evolution:**\nKoller has been on and off Sabian and Zildjian endorsements during his career. His current Converge setup uses Zildjian K Dark Series cymbals; the Jane Doe era was firmly Sabian HHX/AAX.\n\n**Modern Comparison:**\nToday, Koller plays:\n- Tama Starclassic Maple drums\n- Tama S.L.P. 14\"x6\" Brass snare\n- Zildjian K Dark Series cymbals\n- Vater Ben Koller signature sticks\n- Tama Iron Cobra pedals\n- Evans drumheads\n\nThe single-kick approach, the compact tom configuration, and the focus on cutting snare attack have all remained — Jane Doe established the vocabulary that Koller has refined ever since.",
+      "content": "Jane Doe is the foundational document of Ben Koller's recorded career, and the gear principles established on the album have remained largely consistent over the following two decades.\n\n**Immediate Changes:**\nAfter Jane Doe, Koller refined his Tama kit choices through subsequent Converge records — You Fail Me (2004), No Heroes (2006), Axe to Fall (2009), and All We Love We Leave Behind (2012) — but kept the single-kick, four-tom approach throughout.\n\n**Cymbal Evolution:**\nKoller has been on and off Sabian and Zildjian endorsements during his career. His current Converge setup uses Zildjian K Dark Series cymbals; the Jane Doe era was firmly Sabian HHX/AAX.\n\n**Modern Comparison:**\nToday, Koller plays:\n- Tama Starclassic Maple drums\n- Tama S.L.P. 14\"x6\" Brass snare\n- Zildjian K Dark Series cymbals\n- Vic Firth American Classic 5B sticks\n- Tama Iron Cobra pedals\n- Evans drumheads\n\nThe single-kick approach, the compact tom configuration, and the focus on cutting snare attack have all remained — Jane Doe established the vocabulary that Koller has refined ever since.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -538,8 +538,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vater Ben Koller signature",
-          "now": "Vater Ben Koller signature"
+          "then": "Vic Firth American Classic 5B",
+          "now": "Vic Firth American Classic 5B"
         },
         {
           "category": "Pedals",
@@ -614,7 +614,7 @@ export const articles = {
     "ogImage": "/images/albums/you-fail-me-drums.webp",
     "intro": {
       "title": "The Difficult Second Album (After a Masterpiece)",
-      "content": "Released on September 20, 2004, Converge's You Fail Me was always going to live in a shadow — it was the record that had to follow Jane Doe, the album widely regarded as a genre-defining masterpiece. Rather than chase that record's sound, Converge made You Fail Me rawer, more abrasive, and more emotionally direct. It was also a milestone in its own right: the band's fifth studio album, their first release for Epitaph Records, and their first to chart on the Billboard 200, reaching No. 171.\n\nBen Koller's drum setup on You Fail Me is the sound of a drummer pushing past Jane Doe's template rather than repeating it. Tracked mostly at Kurt Ballou's GodCity Studio in Salem, Massachusetts in March 2004 (with additional sessions at Magpie Sound Design and Witch Doctor Studio), the album was produced by Alan Douches and Kurt Ballou — engineers who pushed for a more abrasive, less polished drum sound than Jane Doe's already-raw production. Tracks like \"First Light,\" \"Last Light,\" \"You Fail Me,\" and \"In Her Shadow\" remain Converge essentials, and Koller's playing on them — still single-kick, still built on the blast-and-breakdown vocabulary he established in 2001 — carries a heavier, more wounded weight than his work on Jane Doe.\n\nKoller's You Fail Me rig kept the core formula intact: Tama Starclassic bubinga shells, a single bass drum, Sabian HHX and AAX cymbals, a Tama Iron Cobra pedal, and Vater signature sticks. What changed wasn't the gear so much as the intent behind it — You Fail Me is a more wounded, less triumphant record than Jane Doe, and Koller's drumming leans into that rawness rather than smoothing it over. This article breaks down the gear behind Converge's most underrated record and the drummer who held it together.",
+      "content": "Released on September 20, 2004, Converge's You Fail Me was always going to live in a shadow — it was the record that had to follow Jane Doe, the album widely regarded as a genre-defining masterpiece. Rather than chase that record's sound, Converge made You Fail Me rawer, more abrasive, and more emotionally direct. It was also a milestone in its own right: the band's fifth studio album, their first release for Epitaph Records, and their first to chart on the Billboard 200, reaching No. 171.\n\nBen Koller's drum setup on You Fail Me is the sound of a drummer pushing past Jane Doe's template rather than repeating it. Tracked mostly at Kurt Ballou's GodCity Studio in Salem, Massachusetts in March 2004 (with additional sessions at Magpie Sound Design and Witch Doctor Studio), the album was produced by Alan Douches and Kurt Ballou — engineers who pushed for a more abrasive, less polished drum sound than Jane Doe's already-raw production. Tracks like \"First Light,\" \"Last Light,\" \"You Fail Me,\" and \"In Her Shadow\" remain Converge essentials, and Koller's playing on them — still single-kick, still built on the blast-and-breakdown vocabulary he established in 2001 — carries a heavier, more wounded weight than his work on Jane Doe.\n\nKoller's You Fail Me rig kept the core formula intact: Tama Starclassic bubinga shells, a single bass drum, Sabian HHX and AAX cymbals, a Tama Iron Cobra pedal, and Vic Firth American Classic 5B sticks. What changed wasn't the gear so much as the intent behind it — You Fail Me is a more wounded, less triumphant record than Jane Doe, and Koller's drumming leans into that rawness rather than smoothing it over. This article breaks down the gear behind Converge's most underrated record and the drummer who held it together.",
       "keyPoints": [
         "Released September 20, 2004 — Converge's fifth studio album",
         "First Converge release for Epitaph Records",
@@ -720,9 +720,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Ben Koller signature stick",
-          "notes": "Custom-spec hickory stick balanced for power and rebound"
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Stock hickory 5B — Koller's stick of choice since 1999"
         }
       ],
       "heads": {
@@ -990,9 +990,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Ben Koller signature stick",
-          "notes": "Custom-spec hickory stick balanced for power and rebound"
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Stock hickory 5B — Koller's stick of choice since 1999"
         }
       ],
       "heads": {
@@ -1157,7 +1157,7 @@ export const articles = {
     "ogImage": "/images/albums/all-we-love-we-leave-behind-drums.webp",
     "intro": {
       "title": "AP Album of the Year, Koller at His Most Melodic",
-      "content": "Released on October 9, 2012 on Epitaph Records, Converge's All We Love We Leave Behind arrived as a surprise — not in its existence, but in its character. After the sprawling, guest-heavy ambition of Axe to Fall (2009), Converge stripped back and delivered their most melodically accessible record to date. AP Magazine named it Album of the Year. It reached audiences who had never engaged with hardcore before and reminded longtime fans that Converge's intensity had always been in service of songwriting, not the other way around.\n\nBen Koller's drum setup on All We Love We Leave Behind reflects that focus. By 2012 Koller had been Converge's drummer for thirteen years — enough time that his relationship with the kit was instinctive rather than deliberate. Tracks like \"Aimless Arrow,\" \"Trespasses,\" \"Glacial Pace,\" and \"All We Love We Leave Behind\" show a drummer fully in command of the blast-and-breakdown vocabulary he developed on Jane Doe, now deployed with more dynamic nuance than at any point in his career.\n\nThe Converge arc from Jane Doe (2001) through Axe to Fall (2009) to All We Love We Leave Behind (2012) is one of the great runs in heavy music: three landmark records from the same four-piece, each expanding on the last without abandoning the core identity. Koller's drum setup for All We Love We Leave Behind is the mid-period statement — Tama Starclassic drums, Zildjian K Dark Series cymbals, Tama Iron Cobra pedal, Vater signature sticks — the rig that bridges the Sabian-era recordings and his current fully settled Zildjian configuration.",
+      "content": "Released on October 9, 2012 on Epitaph Records, Converge's All We Love We Leave Behind arrived as a surprise — not in its existence, but in its character. After the sprawling, guest-heavy ambition of Axe to Fall (2009), Converge stripped back and delivered their most melodically accessible record to date. AP Magazine named it Album of the Year. It reached audiences who had never engaged with hardcore before and reminded longtime fans that Converge's intensity had always been in service of songwriting, not the other way around.\n\nBen Koller's drum setup on All We Love We Leave Behind reflects that focus. By 2012 Koller had been Converge's drummer for thirteen years — enough time that his relationship with the kit was instinctive rather than deliberate. Tracks like \"Aimless Arrow,\" \"Trespasses,\" \"Glacial Pace,\" and \"All We Love We Leave Behind\" show a drummer fully in command of the blast-and-breakdown vocabulary he developed on Jane Doe, now deployed with more dynamic nuance than at any point in his career.\n\nThe Converge arc from Jane Doe (2001) through Axe to Fall (2009) to All We Love We Leave Behind (2012) is one of the great runs in heavy music: three landmark records from the same four-piece, each expanding on the last without abandoning the core identity. Koller's drum setup for All We Love We Leave Behind is the mid-period statement — Tama Starclassic drums, Zildjian K Dark Series cymbals, Tama Iron Cobra pedal, Vic Firth American Classic 5B sticks — the rig that bridges the Sabian-era recordings and his current fully settled Zildjian configuration.",
       "keyPoints": [
         "Released October 9, 2012 on Epitaph Records",
         "Produced by Kurt Ballou at GodCity Studio, Salem, Massachusetts",
@@ -1251,7 +1251,7 @@ export const articles = {
       "estimatedValue": "$1,500–2,000 (Zildjian K Dark Series transitional setup)"
     },
     "hardware": {
-      "title": "Iron Cobra and Vater Sticks",
+      "title": "Iron Cobra and Vic Firth Sticks",
       "items": [
         {
           "type": "Bass Drum Pedal",
@@ -1262,9 +1262,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Ben Koller Signature",
-          "notes": "Custom-spec hickory balanced for power and rebound"
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Stock hickory 5B — Koller's stick of choice since 1999"
         },
         {
           "type": "Drumheads (Toms, Batter)",
@@ -1368,8 +1368,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vater Ben Koller signature",
-          "now": "Vater Ben Koller signature"
+          "then": "Vic Firth American Classic 5B",
+          "now": "Vic Firth American Classic 5B"
         },
         {
           "category": "Pedals",
@@ -1407,7 +1407,7 @@ export const articles = {
       },
       {
         "question": "What is Ben Koller's setup on All We Love We Leave Behind?",
-        "answer": "Ben Koller's complete drum setup on All We Love We Leave Behind (2012) centers on a Tama Starclassic kit with bubinga shells and a single 22\" bass drum — no double pedal. His snare is a Tama S.L.P. 14\" x 6\" Brass, cymbals are Zildjian K Dark Series, pedal is a Tama Iron Cobra single, and sticks are his Vater signature model. Evans drumheads complete the setup: G2 Coated on tom batters, EMAD on the bass drum. The record was produced by Kurt Ballou at GodCity Studio in Salem, Massachusetts."
+        "answer": "Ben Koller's complete drum setup on All We Love We Leave Behind (2012) centers on a Tama Starclassic kit with bubinga shells and a single 22\" bass drum — no double pedal. His snare is a Tama S.L.P. 14\" x 6\" Brass, cymbals are Zildjian K Dark Series, pedal is a Tama Iron Cobra single, and sticks are Vic Firth American Classic 5B. Evans drumheads complete the setup: G2 Coated on tom batters, EMAD on the bass drum. The record was produced by Kurt Ballou at GodCity Studio in Salem, Massachusetts."
       },
       {
         "question": "Why is All We Love We Leave Behind considered Converge's most accessible album?",
@@ -1416,7 +1416,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Melodic Turning Point in the Converge Arc",
-      "content": "All We Love We Leave Behind stands as a pivotal moment in the Converge catalog — the record where their uncompromising approach to heavy music met a wider audience without compromise. AP Magazine's Album of the Year designation wasn't an accident: the album demonstrated that Converge could expand their reach without diluting what made them great, and Ben Koller's drum setup was the foundation that made that expansion possible.\n\nHis mid-period Tama Starclassic / Zildjian K Dark Series / Iron Cobra setup bridges the Sabian era of Jane Doe and Axe to Fall with the fully settled Zildjian configuration of The Dusk in Us and beyond. The single-kick approach, compact four-tom layout, and Evans heads remain the constant throughout — proof that Koller's gear philosophy prioritizes reliability and efficiency over change for its own sake.\n\nFor the complete Converge drumming arc:\n- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)\n- [Jane Doe Drum Setup (2001)](/articles/jane-doe-drum-setup) — the mathcore landmark\n- [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star expansion\n- [The Dusk in Us Drum Setup (2017)](/articles/the-dusk-in-us-drum-setup) — the Grammy-nominated evolution\n\nAll We Love We Leave Behind is the middle chapter of a story that began with Jane Doe's controlled chaos and continues to unfold. Ben Koller's drum setup tells that story from behind the kit — the same reliable Tama, the same Vater hickory, the same relentless forward momentum."
+      "content": "All We Love We Leave Behind stands as a pivotal moment in the Converge catalog — the record where their uncompromising approach to heavy music met a wider audience without compromise. AP Magazine's Album of the Year designation wasn't an accident: the album demonstrated that Converge could expand their reach without diluting what made them great, and Ben Koller's drum setup was the foundation that made that expansion possible.\n\nHis mid-period Tama Starclassic / Zildjian K Dark Series / Iron Cobra setup bridges the Sabian era of Jane Doe and Axe to Fall with the fully settled Zildjian configuration of The Dusk in Us and beyond. The single-kick approach, compact four-tom layout, and Evans heads remain the constant throughout — proof that Koller's gear philosophy prioritizes reliability and efficiency over change for its own sake.\n\nFor the complete Converge drumming arc:\n- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)\n- [Jane Doe Drum Setup (2001)](/articles/jane-doe-drum-setup) — the mathcore landmark\n- [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star expansion\n- [The Dusk in Us Drum Setup (2017)](/articles/the-dusk-in-us-drum-setup) — the Grammy-nominated evolution\n\nAll We Love We Leave Behind is the middle chapter of a story that began with Jane Doe's controlled chaos and continues to unfold. Ben Koller's drum setup tells that story from behind the kit — the same reliable Tama, the same Vic Firth hickory, the same relentless forward momentum."
     }
   },
   "the-dusk-in-us-drum-setup": {
@@ -1450,7 +1450,7 @@ export const articles = {
     "ogImage": "/images/albums/the-dusk-in-us-drums.webp",
     "intro": {
       "title": "Grammy Nomination, UK Chart Entry, Koller's Peak Dynamic Range",
-      "content": "Released on November 3, 2017 on Epitaph Records, Converge's The Dusk in Us arrived five years after All We Love We Leave Behind — and proved that the band's evolution toward dynamic sophistication had continued without pause. The album entered the UK charts, earned a Grammy Award nomination for Best Metal Performance, and produced \"I Can Tell You About Pain\" as its defining single. For a band that began in the basement of hardcore, these achievements were a measure of how far Converge had carried their uncompromising approach into mainstream critical consciousness.\n\nBen Koller's drum setup on The Dusk in Us represents the fully settled form of the rig he had been developing since the early 2010s. The Tama Starclassic Maple — with its all-maple shells — is his established kit. The Zildjian K Dark Series cymbal configuration is locked in. The Vater signature sticks, the Tama Iron Cobra, the Evans heads — all are now the standard rather than the in-progress choice.\n\nThe album is Koller's most dynamic recorded performance with Converge. Tracks like \"A Single Tear,\" \"Cannibals,\" \"I Can Tell You About Pain,\" and the 7-minute closing \"It Rides\" demand more sustained musical range than any Converge record before them — quiet to violent within a single verse, held together by drumming that can shift from near-silence to full-intensity impact without losing the thread. This article breaks down every piece of Ben Koller's Dusk in Us drum setup and examines how each choice serves the most sophisticated Converge record to date.",
+      "content": "Released on November 3, 2017 on Epitaph Records, Converge's The Dusk in Us arrived five years after All We Love We Leave Behind — and proved that the band's evolution toward dynamic sophistication had continued without pause. The album entered the UK charts, earned a Grammy Award nomination for Best Metal Performance, and produced \"I Can Tell You About Pain\" as its defining single. For a band that began in the basement of hardcore, these achievements were a measure of how far Converge had carried their uncompromising approach into mainstream critical consciousness.\n\nBen Koller's drum setup on The Dusk in Us represents the fully settled form of the rig he had been developing since the early 2010s. The Tama Starclassic Maple — with its all-maple shells — is his established kit. The Zildjian K Dark Series cymbal configuration is locked in. The Vic Firth American Classic 5B sticks, the Tama Iron Cobra, the Evans heads — all are now the standard rather than the in-progress choice.\n\nThe album is Koller's most dynamic recorded performance with Converge. Tracks like \"A Single Tear,\" \"Cannibals,\" \"I Can Tell You About Pain,\" and the 7-minute closing \"It Rides\" demand more sustained musical range than any Converge record before them — quiet to violent within a single verse, held together by drumming that can shift from near-silence to full-intensity impact without losing the thread. This article breaks down every piece of Ben Koller's Dusk in Us drum setup and examines how each choice serves the most sophisticated Converge record to date.",
       "keyPoints": [
         "Released November 3, 2017 on Epitaph Records",
         "Produced by Kurt Ballou at GodCity Studio",
@@ -1544,7 +1544,7 @@ export const articles = {
       "estimatedValue": "$1,500–2,500 (full Zildjian K Dark Series touring setup)"
     },
     "hardware": {
-      "title": "Iron Cobra, Evans Heads, Vater Sticks",
+      "title": "Iron Cobra, Evans Heads, Vic Firth Sticks",
       "items": [
         {
           "type": "Bass Drum Pedal",
@@ -1555,10 +1555,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Ben Koller Signature",
-          "notes": "Custom-spec hickory — power and rebound for sustained heavy playing",
-          "description": "Koller's signature Vater sticks are engineered to his specifications — hickory construction, 5B-adjacent dimensions, balanced for the combination of power and rebound that hardcore drumming demands. On The Dusk in Us, where the dynamic range demands both light touch and heavy attack, the stick's balance across velocities is critical."
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Stock hickory 5B — power and rebound for sustained heavy playing",
+          "description": "Koller has played Vic Firth American Classic 5B sticks since 1999 — a stock model, not a signature design. On The Dusk in Us, where the dynamic range demands both light touch and heavy attack, the 5B's standard hickory construction and weight give him the balance across velocities that the record's wide dynamic swings require."
         },
         {
           "type": "Drumheads (Toms, Batter)",
@@ -1662,8 +1662,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vater Ben Koller signature",
-          "now": "Vater Ben Koller signature"
+          "then": "Vic Firth American Classic 5B",
+          "now": "Vic Firth American Classic 5B"
         },
         {
           "category": "Pedals",
@@ -1701,7 +1701,7 @@ export const articles = {
       },
       {
         "question": "What is Ben Koller's setup on The Dusk in Us?",
-        "answer": "Ben Koller's complete drum setup on The Dusk in Us (2017): Tama Starclassic Maple (all-maple shells) with single 22\" bass drum; Tama S.L.P. 14\" x 6\" Brass snare; Zildjian K Dark Series Hi-Hats (14\"), K Dark Series Crashes (18\" and 19\"), K Custom Ride (21\"), K China (18\"), K Splash (10\"); Tama Iron Cobra single pedal; Vater Ben Koller signature sticks; Evans heads (G2 Coated on tom batters, G1 Coated on snare batter, EMAD on bass). Produced by Kurt Ballou at GodCity Studio in Salem, Massachusetts."
+        "answer": "Ben Koller's complete drum setup on The Dusk in Us (2017): Tama Starclassic Maple (all-maple shells) with single 22\" bass drum; Tama S.L.P. 14\" x 6\" Brass snare; Zildjian K Dark Series Hi-Hats (14\"), K Dark Series Crashes (18\" and 19\"), K Custom Ride (21\"), K China (18\"), K Splash (10\"); Tama Iron Cobra single pedal; Vic Firth American Classic 5B sticks; Evans heads (G2 Coated on tom batters, G1 Coated on snare batter, EMAD on bass). Produced by Kurt Ballou at GodCity Studio in Salem, Massachusetts."
       },
       {
         "question": "Was The Dusk in Us Grammy nominated?",
@@ -1710,7 +1710,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Grammy-Nominated Peak of the Converge Drumming Arc",
-      "content": "The Dusk in Us is where the Ben Koller / Converge story reaches its critical apex — a Grammy-nominated, UK-charting record that demonstrated a hardcore band could achieve the highest level of mainstream recognition without compromising a single element of what made them great. For drummers studying Koller's approach, it is the most complete document of his playing: the full dynamic range, the settled gear, the mastery of the blast-and-breakdown vocabulary applied to the most sophisticated Converge songwriting yet.\n\nEvery element of the setup earns its place:\n- **Tama Starclassic Maple**: All-maple versatility for the album's widest dynamic range\n- **Tama S.L.P. Brass Snare 14\"x6\"**: Settled, authoritative, tuned for maximum musical range\n- **Zildjian K Dark Series Hi-Hats**: Tonal complexity for both blast-beat articulation and atmospheric restraint\n- **Zildjian K Dark Series Crashes**: Cutting darkness for the album's highest-impact moments\n- **Tama Iron Cobra Single Pedal**: Two decades of trust in one pedal\n- **Vater Ben Koller Signature Sticks**: Custom-balanced hickory for power and control\n\nThe complete Converge arc that The Dusk in Us completes:\n- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)\n- [Jane Doe Drum Setup (2001)](/articles/jane-doe-drum-setup) — the mathcore foundation\n- [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star expansion\n- [All We Love We Leave Behind Drum Setup (2012)](/articles/all-we-love-we-leave-behind-drum-setup) — the melodic turning point\n\nTwenty years of Converge drumming culminated in this record. Same drummer, same Iron Cobra, same relentless commitment — now carrying a Grammy nomination and a place in the mainstream critical conversation. Ben Koller's drum setup on The Dusk in Us is the definitive evidence that hardcore drumming, done with this level of care and musicality, can go anywhere."
+      "content": "The Dusk in Us is where the Ben Koller / Converge story reaches its critical apex — a Grammy-nominated, UK-charting record that demonstrated a hardcore band could achieve the highest level of mainstream recognition without compromising a single element of what made them great. For drummers studying Koller's approach, it is the most complete document of his playing: the full dynamic range, the settled gear, the mastery of the blast-and-breakdown vocabulary applied to the most sophisticated Converge songwriting yet.\n\nEvery element of the setup earns its place:\n- **Tama Starclassic Maple**: All-maple versatility for the album's widest dynamic range\n- **Tama S.L.P. Brass Snare 14\"x6\"**: Settled, authoritative, tuned for maximum musical range\n- **Zildjian K Dark Series Hi-Hats**: Tonal complexity for both blast-beat articulation and atmospheric restraint\n- **Zildjian K Dark Series Crashes**: Cutting darkness for the album's highest-impact moments\n- **Tama Iron Cobra Single Pedal**: Two decades of trust in one pedal\n- **Vic Firth American Classic 5B Sticks**: Stock hickory, his stick of choice since 1999\n\nThe complete Converge arc that The Dusk in Us completes:\n- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)\n- [Jane Doe Drum Setup (2001)](/articles/jane-doe-drum-setup) — the mathcore foundation\n- [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star expansion\n- [All We Love We Leave Behind Drum Setup (2012)](/articles/all-we-love-we-leave-behind-drum-setup) — the melodic turning point\n\nTwenty years of Converge drumming culminated in this record. Same drummer, same Iron Cobra, same relentless commitment — now carrying a Grammy nomination and a place in the mainstream critical conversation. Ben Koller's drum setup on The Dusk in Us is the definitive evidence that hardcore drumming, done with this level of care and musicality, can go anywhere."
     }
   },
   "axe-to-fall-drum-setup": {
@@ -1730,7 +1730,7 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Ben Koller's Drum Setup on Converge's Axe to Fall (2009)",
-    "description": "Inside Ben Koller's drum setup for Converge's Axe to Fall (2009) — the all-star collaboration record with members of Mastodon, Cave In, and Genghis Tron. Tama drums, Sabian cymbals, Tama Iron Cobra pedals, Vater signature sticks, and a more progressive arrangement palette than Jane Doe.",
+    "description": "Inside Ben Koller's drum setup for Converge's Axe to Fall (2009) — the all-star collaboration record with members of Mastodon, Cave In, and Genghis Tron. Tama drums, Sabian cymbals, Tama Iron Cobra pedals, Vic Firth sticks, and a more progressive arrangement palette than Jane Doe.",
     "seoKeywords": [
       "axe to fall drum setup",
       "ben koller axe to fall",
@@ -1743,7 +1743,7 @@ export const articles = {
     "ogImage": "/images/albums/axe-to-fall-drums.webp",
     "intro": {
       "title": "The All-Star Collaboration Record",
-      "content": "Released on October 20, 2009 on Epitaph Records, Converge's Axe to Fall stands as one of the most ambitious and collaborative records in the band's catalog. Where 2001's Jane Doe established a vocabulary of mathcore chaos, Axe to Fall expanded that vocabulary outward — incorporating guest performances from members of Mastodon, Cave In, Genghis Tron, Disfear, Neurosis, and more into a more progressive, dynamically varied set of arrangements.\n\nTracked at Kurt Ballou's GodCity Studio in Salem, Massachusetts and mixed by Matt Bayles (Mastodon, Isis, Botch), Axe to Fall captures Ben Koller in peak form. By 2009 Koller had been Converge's drummer for a decade, and the playing on tracks like \"Dark Horse,\" \"Reap What You Sow,\" \"Effigy,\" and the title track shows a drummer who has fully integrated the blast-and-breakdown vocabulary of Jane Doe with a wider rhythmic and dynamic palette.\n\nThe Axe to Fall guest list is unprecedented for a hardcore record. Brann Dailor (Mastodon) sings on \"Worms Will Feed / Rats Will Feast.\" Members of Cave In, Genghis Tron, Neurosis, and Disfear contribute throughout. Koller's job on these tracks isn't just to deliver Converge intensity — it's to make room for the textures these collaborators bring, then drive the band back into full-throttle hardcore when the song demands it.\n\nBen Koller's Axe to Fall drum setup remained centered on Tama drums, Sabian cymbals, Tama Iron Cobra pedals, and Vater signature sticks — the same core rig as Jane Doe, refined over eight more years of touring. This article breaks down the gear and examines how Koller's playing serves Axe to Fall's expanded ambition.",
+      "content": "Released on October 20, 2009 on Epitaph Records, Converge's Axe to Fall stands as one of the most ambitious and collaborative records in the band's catalog. Where 2001's Jane Doe established a vocabulary of mathcore chaos, Axe to Fall expanded that vocabulary outward — incorporating guest performances from members of Mastodon, Cave In, Genghis Tron, Disfear, Neurosis, and more into a more progressive, dynamically varied set of arrangements.\n\nTracked at Kurt Ballou's GodCity Studio in Salem, Massachusetts and mixed by Matt Bayles (Mastodon, Isis, Botch), Axe to Fall captures Ben Koller in peak form. By 2009 Koller had been Converge's drummer for a decade, and the playing on tracks like \"Dark Horse,\" \"Reap What You Sow,\" \"Effigy,\" and the title track shows a drummer who has fully integrated the blast-and-breakdown vocabulary of Jane Doe with a wider rhythmic and dynamic palette.\n\nThe Axe to Fall guest list is unprecedented for a hardcore record. Brann Dailor (Mastodon) sings on \"Worms Will Feed / Rats Will Feast.\" Members of Cave In, Genghis Tron, Neurosis, and Disfear contribute throughout. Koller's job on these tracks isn't just to deliver Converge intensity — it's to make room for the textures these collaborators bring, then drive the band back into full-throttle hardcore when the song demands it.\n\nBen Koller's Axe to Fall drum setup remained centered on Tama drums, Sabian cymbals, Tama Iron Cobra pedals, and Vic Firth American Classic 5B sticks — the same core rig as Jane Doe, refined over eight more years of touring. This article breaks down the gear and examines how Koller's playing serves Axe to Fall's expanded ambition.",
       "keyPoints": [
         "Released October 20, 2009 on Epitaph Records",
         "Produced by Kurt Ballou at GodCity Studio; mixed by Matt Bayles",
@@ -1859,9 +1859,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Ben Koller signature stick",
-          "notes": "Custom-spec hickory stick balanced for power and rebound"
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Stock hickory 5B — Koller's stick of choice since 1999"
         }
       ],
       "heads": {
@@ -1928,7 +1928,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Axe to Fall to the Modern Koller Setup",
-      "content": "Axe to Fall sits at the midpoint of Ben Koller's Converge catalog — eight years after Jane Doe established the template, and about a decade before his current setup with the band. The gear refinements visible on the album have continued forward into his modern rig.\n\n**Subsequent Changes:**\nAfter Axe to Fall, Koller's setup continued to evolve subtly. All We Love We Leave Behind (2012), The Dusk in Us (2017), and Bloodmoon: I (2021) each used variations on the same core Tama / single-kick / Sabian-or-Zildjian / Vater rig.\n\n**Cymbal Evolution:**\nThe Axe to Fall era was Koller's Sabian period. His modern Converge setup runs Zildjian K Dark Series — a similar tonal palette (dark hats and ride, bright crashes, aggressive china) executed in a different cymbal company's voice.\n\n**Modern Comparison:**\nToday, Koller plays:\n- Tama Starclassic Maple drums\n- Tama S.L.P. 14\"x6\" Brass snare\n- Zildjian K Dark Series cymbals\n- Vater Ben Koller signature sticks\n- Tama Iron Cobra pedals\n- Evans drumheads\n\nThe single-kick approach, the compact four-tom layout, and the focus on cutting snare attack established on Jane Doe and refined on Axe to Fall remain the foundation of his current setup.",
+      "content": "Axe to Fall sits at the midpoint of Ben Koller's Converge catalog — eight years after Jane Doe established the template, and about a decade before his current setup with the band. The gear refinements visible on the album have continued forward into his modern rig.\n\n**Subsequent Changes:**\nAfter Axe to Fall, Koller's setup continued to evolve subtly. All We Love We Leave Behind (2012), The Dusk in Us (2017), and Bloodmoon: I (2021) each used variations on the same core Tama / single-kick / Sabian-or-Zildjian / Vic Firth rig.\n\n**Cymbal Evolution:**\nThe Axe to Fall era was Koller's Sabian period. His modern Converge setup runs Zildjian K Dark Series — a similar tonal palette (dark hats and ride, bright crashes, aggressive china) executed in a different cymbal company's voice.\n\n**Modern Comparison:**\nToday, Koller plays:\n- Tama Starclassic Maple drums\n- Tama S.L.P. 14\"x6\" Brass snare\n- Zildjian K Dark Series cymbals\n- Vic Firth American Classic 5B sticks\n- Tama Iron Cobra pedals\n- Evans drumheads\n\nThe single-kick approach, the compact four-tom layout, and the focus on cutting snare attack established on Jane Doe and refined on Axe to Fall remain the foundation of his current setup.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1947,8 +1947,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vater Ben Koller signature",
-          "now": "Vater Ben Koller signature"
+          "then": "Vic Firth American Classic 5B",
+          "now": "Vic Firth American Classic 5B"
         },
         {
           "category": "Pedals",
@@ -1990,7 +1990,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The All-Star Hardcore Statement",
-      "content": "Axe to Fall sits as one of the most ambitious records in Converge's catalog — an unprecedented all-star collaboration that pulled members of Mastodon, Cave In, Genghis Tron, Neurosis, and Disfear into a single set of mathcore-rooted compositions. Ben Koller's drum setup on the album is the same core rig that powered Jane Doe eight years earlier, refined and expanded for the more progressive arrangements.\n\nFor drummers building an Axe to Fall-inspired rig, the principles are continuity and refinement:\n- **Tama Starclassic / Bubinga shells**: Focused attack with deep fundamental\n- **Single 22\" bass drum**: Trust your foot\n- **Brass-shell 14\"x6.5\" snare**: Bright, cutting, tuned medium-high\n- **Sabian HHX / AAX**: Complementary dark and bright voices, expanded with splash and X-Plosion\n- **Tama Iron Cobra single pedal**: Smooth, consistent single-foot feel\n\nAxe to Fall demonstrates that a great drum setup doesn't have to change every album. Koller's Jane Doe setup, refined over eight more years of touring and recording, served Axe to Fall's expanded ambition without compromise. The blast-and-breakdown vocabulary was already locked in. The collaborators brought new textures. Koller's job was to drive the band through every shift in feel — and his Tama / Sabian / Iron Cobra / Vater rig was built for exactly that."
+      "content": "Axe to Fall sits as one of the most ambitious records in Converge's catalog — an unprecedented all-star collaboration that pulled members of Mastodon, Cave In, Genghis Tron, Neurosis, and Disfear into a single set of mathcore-rooted compositions. Ben Koller's drum setup on the album is the same core rig that powered Jane Doe eight years earlier, refined and expanded for the more progressive arrangements.\n\nFor drummers building an Axe to Fall-inspired rig, the principles are continuity and refinement:\n- **Tama Starclassic / Bubinga shells**: Focused attack with deep fundamental\n- **Single 22\" bass drum**: Trust your foot\n- **Brass-shell 14\"x6.5\" snare**: Bright, cutting, tuned medium-high\n- **Sabian HHX / AAX**: Complementary dark and bright voices, expanded with splash and X-Plosion\n- **Tama Iron Cobra single pedal**: Smooth, consistent single-foot feel\n\nAxe to Fall demonstrates that a great drum setup doesn't have to change every album. Koller's Jane Doe setup, refined over eight more years of touring and recording, served Axe to Fall's expanded ambition without compromise. The blast-and-breakdown vocabulary was already locked in. The collaborators brought new textures. Koller's job was to drive the band through every shift in feel — and his Tama / Sabian / Iron Cobra / Vic Firth rig was built for exactly that."
     }
   },
   "bloodmoon-i-drum-setup": {
@@ -2023,7 +2023,7 @@ export const articles = {
     "ogImage": "/images/albums/bloodmoon-i-drums.webp",
     "intro": {
       "title": "The Collaborative Ambition: Converge Meets Chelsea Wolfe",
-      "content": "Released November 19, 2021 on Epitaph Records and Deathwish Inc., Bloodmoon: I paired Converge with singer-songwriter Chelsea Wolfe for a full-length collaborative album — the most atmospheric and dynamically extreme record of Ben Koller's career. Written and performed by Jacob Bannon, Kurt Ballou, Nate Newton, and Koller alongside Chelsea Wolfe, with additional contributions from Converge's longtime collaborator Stephen Brodsky (Cave In, Mutoid Man) and Wolfe's longtime collaborator Ben Chisholm, the album pushed Converge's sound further from hardcore's blast-and-breakdown vocabulary than any release before it.\n\nWhere The Dusk in Us (2017) stretched Converge's dynamic range within a still-recognizably hardcore framework, Bloodmoon: I abandons the framework almost entirely on tracks like \"Blood Moon,\" \"Flower Moon,\" and \"Tongues Playing Dead\" — songs built on doom-paced tempos, layered vocal harmonies between Bannon and Wolfe, and long stretches of atmosphere rather than aggression. Koller's job across the record's eleven tracks is less about delivering intensity and more about shaping space: knowing when restraint serves the song and when to bring the kit's full weight to bear.\n\nRecorded and mixed by Kurt Ballou at GodCity Studio in Salem, Massachusetts — the same room behind every Converge album since Jane Doe (2001) — Bloodmoon: I still used Koller's fully settled touring rig: the Tama Starclassic Maple, Zildjian K Dark Series cymbals, Tama Iron Cobra pedal, and Vater signature sticks. No new gear was required. What changed was how Koller used it — pulling dynamic range and textural nuance out of the same setup that powered Axe to Fall's all-out aggression four years earlier.\n\nThis article breaks down Ben Koller's Bloodmoon: I drum setup and examines how his most collaborative, least hardcore-oriented Converge record still required every tool in his established rig.",
+      "content": "Released November 19, 2021 on Epitaph Records and Deathwish Inc., Bloodmoon: I paired Converge with singer-songwriter Chelsea Wolfe for a full-length collaborative album — the most atmospheric and dynamically extreme record of Ben Koller's career. Written and performed by Jacob Bannon, Kurt Ballou, Nate Newton, and Koller alongside Chelsea Wolfe, with additional contributions from Converge's longtime collaborator Stephen Brodsky (Cave In, Mutoid Man) and Wolfe's longtime collaborator Ben Chisholm, the album pushed Converge's sound further from hardcore's blast-and-breakdown vocabulary than any release before it.\n\nWhere The Dusk in Us (2017) stretched Converge's dynamic range within a still-recognizably hardcore framework, Bloodmoon: I abandons the framework almost entirely on tracks like \"Blood Moon,\" \"Flower Moon,\" and \"Tongues Playing Dead\" — songs built on doom-paced tempos, layered vocal harmonies between Bannon and Wolfe, and long stretches of atmosphere rather than aggression. Koller's job across the record's eleven tracks is less about delivering intensity and more about shaping space: knowing when restraint serves the song and when to bring the kit's full weight to bear.\n\nRecorded and mixed by Kurt Ballou at GodCity Studio in Salem, Massachusetts — the same room behind every Converge album since Jane Doe (2001) — Bloodmoon: I still used Koller's fully settled touring rig: the Tama Starclassic Maple, Zildjian K Dark Series cymbals, Tama Iron Cobra pedal, and Vic Firth American Classic 5B sticks. No new gear was required. What changed was how Koller used it — pulling dynamic range and textural nuance out of the same setup that powered Axe to Fall's all-out aggression four years earlier.\n\nThis article breaks down Ben Koller's Bloodmoon: I drum setup and examines how his most collaborative, least hardcore-oriented Converge record still required every tool in his established rig.",
       "keyPoints": [
         "Released November 19, 2021 on Epitaph Records / Deathwish Inc.",
         "Collaborative full-length with Chelsea Wolfe, featuring Stephen Brodsky and Ben Chisholm",
@@ -2110,7 +2110,7 @@ export const articles = {
       "estimatedValue": "$1,500–2,500 (full Zildjian K Dark Series touring setup)"
     },
     "hardware": {
-      "title": "Iron Cobra, Vater Sticks, Evans Heads — Unchanged",
+      "title": "Iron Cobra, Vic Firth Sticks, Evans Heads — Unchanged",
       "items": [
         {
           "type": "Bass Drum Pedal",
@@ -2121,9 +2121,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Ben Koller Signature",
-          "notes": "Custom-spec hickory stick — same model used since the early 2010s"
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Stock hickory 5B — the same model Koller has used since 1999"
         }
       ],
       "heads": {
@@ -2209,8 +2209,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vater Ben Koller signature",
-          "now": "Vater Ben Koller signature"
+          "then": "Vic Firth American Classic 5B",
+          "now": "Vic Firth American Classic 5B"
         },
         {
           "category": "Pedals",

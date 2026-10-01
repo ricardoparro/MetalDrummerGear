@@ -6254,22 +6254,22 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Lamb of God (2020)',
     profileImage: '/images/drummers/art-cruz.webp',
 
-    summary: "Art Cruz's 2020 setup behind Lamb of God's self-titled album — his first studio recording as the band's full-time drummer, succeeding Chris Adler — marks the moment his gear settled into the Ludwig Classic Maple, Zildjian A Custom, and Trick Pro 1-V Bigfoot rig that has defined his tenure ever since. The complete setup cost approximately $7,500 in 2020 dollars, equivalent to roughly $9,500 today after inflation, a step up from the transitional Ludwig/Zildjian/Trick gear he assembled while filling in for Adler on Lamb of God's 2018 Slayer farewell support dates. Cruz carried the rig into Omens (2022), expanding his Zildjian A Custom cymbal configuration for the tour, while keeping the Ludwig Classic Maple shells and single-kick Trick Bigfoot pedal that distinguish his approach from Adler's double-kick setup. A decade in the deathcore and industrial-metal underground with Winds of Plague and Prong preceded this rig, but it's the Ludwig/Zildjian/Trick combination that has carried Lamb of God's groove metal legacy into its next chapter.",
+    summary: "Art Cruz's 2020 setup behind Lamb of God's self-titled album — his first studio recording as the band's full-time drummer, succeeding Chris Adler — marks the moment his gear settled into the Ludwig Black Beauty, Zildjian A Custom, and Trick Pro 1-V Bigfoot rig that has defined his tenure ever since. The complete setup cost approximately $7,500 in 2020 dollars, equivalent to roughly $9,500 today after inflation, a step up from the transitional Ludwig/Zildjian/Trick gear he assembled while filling in for Adler on Lamb of God's 2018 Slayer farewell support dates. Cruz carried the rig into Omens (2022), expanding his Zildjian A Custom cymbal configuration for the tour, while keeping the Ludwig Black Beauty shells and single-kick Trick Bigfoot pedal that distinguish his approach from Adler's double-kick setup. A decade in the deathcore and industrial-metal underground with Winds of Plague and Prong preceded this rig, but it's the Ludwig/Zildjian/Trick combination that has carried Lamb of God's groove metal legacy into its next chapter.",
 
     setup: {
       drums: {
-        item: 'Ludwig Classic Maple',
+        item: 'Ludwig Black Beauty (14x6.5")',
         model: 'All-maple shell pack',
         specs: '22"x18" kick, 10"/12" rack toms, 14"/16" floor toms',
         originalPrice: 3700,
         year: 2020,
-        source: 'Ludwig Classic Maple catalog MSRP 2020',
+        source: 'Ludwig Black Beauty catalog MSRP 2020',
         notes: "Signature setup established during his transition from fill-in drummer to full member — warm, punchy tone for Lamb of God's down-tuned groove metal.",
         vintageValue2026: 2600,
         modernEquivalent: {
-          item: 'Ludwig Classic Maple (Current)',
+          item: 'Ludwig Black Beauty (Current)',
           price: 3900,
-          link: 'ludwig-classic-maple-cruz',
+          link: 'ludwig-black-beauty-cruz',
         },
       },
       snare: {
@@ -6282,9 +6282,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "Medium-high tuning for punch and articulation against Lamb of God's 7-string guitar wall.",
         vintageValue2026: 380,
         modernEquivalent: {
-          item: 'Ludwig Classic Maple Snare (Current)',
+          item: 'Ludwig Black Beauty Snare (Current)',
           price: 550,
-          link: 'ludwig-classic-maple-snare-cruz',
+          link: 'ludwig-black-beauty-snare-cruz',
         },
       },
       cymbals: {
@@ -6358,22 +6358,22 @@ export const GEAR_PRICE_HISTORY = {
 
     priceEvolution: [
       { year: 2018, price: 3500, label: 'Fill-in era', event: "Fills in for Chris Adler on Lamb of God's Slayer farewell support dates, Zildjian and Trick endorsements established" },
-      { year: 2020, price: 7500, label: 'Original Purchase', event: 'Lamb of God (2020) — first studio album as full-time member, Ludwig Classic Maple rig settled' },
+      { year: 2020, price: 7500, label: 'Original Purchase', event: 'Lamb of God (2020) — first studio album as full-time member, Ludwig Black Beauty rig settled' },
       { year: 2022, price: 8200, label: 'Omens era', event: 'Omens (2022) tour rig, expanded Zildjian A Custom cymbal configuration' },
       { year: 2026, price: 9500, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2020 Lamb of God setup' },
     ],
 
     sources: [
-      { title: 'Ludwig Classic Maple Catalog', year: 2020, type: 'catalog' },
+      { title: 'Ludwig Black Beauty Catalog', year: 2020, type: 'catalog' },
       { title: 'Modern Drummer — Art Cruz Interview', year: 2020, type: 'interview' },
       { title: 'Metal Hammer — Art Cruz Interview', year: 2022, type: 'interview' },
-      { title: 'Reverb Marketplace Analysis — Ludwig Classic Maple', year: 2025, type: 'market' },
+      { title: 'Reverb Marketplace Analysis — Ludwig Black Beauty', year: 2025, type: 'market' },
     ],
 
     meta: {
       title: "Art Cruz Drum Setup Cost | Lamb of God Gear Price History",
-      description: "How much was Art Cruz's self-titled Lamb of God-era drum kit worth? Original Ludwig Classic Maple setup ~$7,500 in 2020, inflation-adjusted to ~$9,500 today. Complete gear breakdown from his fill-in dates through Omens.",
-      keywords: ['art cruz drum setup cost', 'lamb of god drum kit price', 'ludwig classic maple price', 'art cruz gear cost today', 'lamb of god 2020 drum kit price'],
+      description: "How much was Art Cruz's self-titled Lamb of God-era drum kit worth? Original Ludwig Black Beauty setup ~$7,500 in 2020, inflation-adjusted to ~$9,500 today. Complete gear breakdown from his fill-in dates through Omens.",
+      keywords: ['art cruz drum setup cost', 'lamb of god drum kit price', 'ludwig black beauty price', 'art cruz gear cost today', 'lamb of god 2020 drum kit price'],
     },
   },
 

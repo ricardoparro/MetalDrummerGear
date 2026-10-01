@@ -82,6 +82,17 @@ const listPreviewHeroSwap = `
     <!-- LCP: Top-10 list hero swap (#7148) -->
     <script>(function(){var m=location.pathname.match(/^\\/lists\\/([a-z0-9-]+)\\/?$/);if(!m)return;fetch('/api/list-preview/'+m[1]).then(function(r){return r.ok?r.json():null}).then(function(d){if(!d)return;function apply(){var h=document.querySelector('#critical-hero h1'),p=document.querySelector('#critical-hero p');if(h)h.textContent=(d.emoji?d.emoji+' ':'')+d.title;if(p){p.textContent=d.description;p.style.fontSize='16px';p.style.lineHeight='24px';p.style.maxWidth='600px'}}if(document.getElementById('critical-hero'))apply();else document.addEventListener('DOMContentLoaded',apply,{once:true})}).catch(function(){})})();</script>`;
 
+// LCP Optimization (Issue #8452): /articles/:slug shares TopListPage with
+// /lists/:slug (see App.js), but the #7148 hero swap only matched the /lists/
+// path — album articles still showed the generic, mismatched static hero
+// until the per-drummer chunk (#7149) finished loading, so Lighthouse's LCP
+// kept crediting the late, fully-hydrated article body. Same technique, same
+// swap target, sourced from /api/article-preview/:slug (the already-committed
+// lightweight catalog from #7149 — no duplicated data).
+const articlePreviewHeroSwap = `
+    <!-- LCP: Album article hero swap (#8452) -->
+    <script>(function(){var m=location.pathname.match(/^\\/articles\\/([a-z0-9-]+)\\/?$/);if(!m)return;fetch('/api/article-preview/'+m[1]).then(function(r){return r.ok?r.json():null}).then(function(d){if(!d)return;function apply(){var h=document.querySelector('#critical-hero h1'),p=document.querySelector('#critical-hero p');if(h)h.textContent=d.title;if(p){p.textContent=d.description;p.style.fontSize='16px';p.style.lineHeight='24px';p.style.maxWidth='600px'}}if(document.getElementById('critical-hero'))apply();else document.addEventListener('DOMContentLoaded',apply,{once:true})}).catch(function(){})})();</script>`;
+
 // Critical CSS for fast FCP (Issues #535, #752)
 const criticalCSS = `
     <style>
@@ -232,6 +243,13 @@ try {
   if (!html.includes('Top-10 list hero swap')) {
     html = html.replace('</head>', listPreviewHeroSwap + '\n  </head>');
     console.log('✅ Injected top-10 list hero swap (#7148)');
+    injectedSomething = true;
+  }
+
+  // Inject album article hero swap (#8452)
+  if (!html.includes('Album article hero swap')) {
+    html = html.replace('</head>', articlePreviewHeroSwap + '\n  </head>');
+    console.log('✅ Injected album article hero swap (#8452)');
     injectedSomething = true;
   }
 

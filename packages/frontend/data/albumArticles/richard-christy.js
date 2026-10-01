@@ -42,9 +42,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Richard's Peak Metal Era Setup: Pearl Custom Z",
+      "title": "Richard's Peak Metal Era Setup: Pearl Masters Custom",
       "brand": "Pearl",
-      "model": "Pearl Custom Z",
+      "model": "Pearl Masters Custom",
       "finish": "Black",
       "config": {
         "bassdrums": [
@@ -60,9 +60,9 @@ export const articles = {
         ],
         "shells": "Maple shells"
       },
-      "description": "During his years with Death, Control Denied, and Iced Earth, Richard Christy relied on Pearl Custom Z drums. The choice made sense: Pearl's Canadian Birds Eye Maple shells provided the clarity and attack needed for technical death metal, while the Custom Z line offered the durability required for extensive touring.\n\nThe 22\" bass drum was deeper than typical death metal setups of the era, providing the low-end punch that \"The Sound of Perseverance\" required. Unlike drummers who favored 18\" or 20\" kicks for faster response, Christy's deeper shell added weight to his double bass patterns without sacrificing speed.\n\nHis tom setup was practical and efficient — two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This configuration allowed the complex fill work that characterizes \"Spirit Crusher\" and \"Flesh and the Power It Holds\" while maintaining the accessibility needed for Death's progressive arrangements.\n\nThe maple shells delivered exactly what technical death metal demands: clear note definition even at extreme speeds, attack that cuts through dense guitar work, and enough body to prevent the kit from sounding thin on ballads and quieter passages. \"Voice of the Soul\" (Death's instrumental) showcases this versatility — the same kit that powers blast beats also sings on melodic sections.\n\nFor Iced Earth, Christy maintained similar shell sizes but occasionally adjusted for the band's more anthemic, less technically demanding material.",
+      "description": "During his years with Death, Control Denied, and Iced Earth, Richard Christy relied on Pearl Masters Custom drums. The choice made sense: Pearl's Canadian Birds Eye Maple shells provided the clarity and attack needed for technical death metal, while the Masters Custom line offered the durability required for extensive touring.\n\nThe 22\" bass drum was deeper than typical death metal setups of the era, providing the low-end punch that \"The Sound of Perseverance\" required. Unlike drummers who favored 18\" or 20\" kicks for faster response, Christy's deeper shell added weight to his double bass patterns without sacrificing speed.\n\nHis tom setup was practical and efficient — two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This configuration allowed the complex fill work that characterizes \"Spirit Crusher\" and \"Flesh and the Power It Holds\" while maintaining the accessibility needed for Death's progressive arrangements.\n\nThe maple shells delivered exactly what technical death metal demands: clear note definition even at extreme speeds, attack that cuts through dense guitar work, and enough body to prevent the kit from sounding thin on ballads and quieter passages. \"Voice of the Soul\" (Death's instrumental) showcases this versatility — the same kit that powers blast beats also sings on melodic sections.\n\nFor Iced Earth, Christy maintained similar shell sizes but occasionally adjusted for the band's more anthemic, less technically demanding material.",
       "notes": [
-        "Pearl Custom Z — professional-grade maple shells",
+        "Pearl Masters Custom — professional-grade maple shells",
         "22\" bass drum deeper than typical death metal setups",
         "Standard 4-piece tom configuration for flexibility",
         "Same basic setup used for Death, Control Denied, and Iced Earth"
@@ -72,10 +72,10 @@ export const articles = {
     "snare": {
       "title": "The Snare Sound of Perseverance",
       "brand": "Pearl",
-      "model": "Pearl Custom Z 14\" x 6.5\" Maple",
+      "model": "Pearl Masters Custom 14\" x 6.5\" Maple",
       "size": "14\" x 6.5\"",
       "shell": "Maple",
-      "description": "Richard Christy's snare work on \"The Sound of Perseverance\" demonstrates remarkable control at extreme speeds. His snare of choice during the Death era was a Pearl Custom Z 14\" x 6.5\" Maple — a drum that offered the sensitivity needed for ghost notes while providing the crack required to cut through Chuck Schuldiner's dense guitar arrangements.\n\nThe 14\" x 6.5\" dimensions offered enough body for rim shots while maintaining the response required for ghost notes at extreme tempos. The snare tone on TSOP is tight, focused, and musical — listen to the opening of \"Scavenger of Human Sorrow\" for proof. Even at extreme tempos, each stroke remains clear and defined.\n\nProducer Jim Morris at Morrisound Recording (where Death recorded) was known for capturing drum sounds that combined natural tone with clarity. Christy's snare was tuned medium-high for maximum cut and sensitivity, essential for the dynamic range Death's progressive arrangements demanded.\n\nThe maple shell provided the warmth and musicality needed for an album that ranges from blast-beat fury to acoustic interludes.",
+      "description": "Richard Christy's snare work on \"The Sound of Perseverance\" demonstrates remarkable control at extreme speeds. His snare of choice during the Death era was a Pearl Masters Custom 14\" x 6.5\" Maple — a drum that offered the sensitivity needed for ghost notes while providing the crack required to cut through Chuck Schuldiner's dense guitar arrangements.\n\nThe 14\" x 6.5\" dimensions offered enough body for rim shots while maintaining the response required for ghost notes at extreme tempos. The snare tone on TSOP is tight, focused, and musical — listen to the opening of \"Scavenger of Human Sorrow\" for proof. Even at extreme tempos, each stroke remains clear and defined.\n\nProducer Jim Morris at Morrisound Recording (where Death recorded) was known for capturing drum sounds that combined natural tone with clarity. Christy's snare was tuned medium-high for maximum cut and sensitivity, essential for the dynamic range Death's progressive arrangements demanded.\n\nThe maple shell provided the warmth and musicality needed for an album that ranges from blast-beat fury to acoustic interludes.",
       "tuningSetting": "Medium-high tension for cut and sensitivity",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$300-500 (late 1990s) / $250-450 (used today)"
@@ -164,14 +164,14 @@ export const articles = {
       "items": [
         {
           "category": "Drums",
-          "recommendation": "Pearl Custom Z",
+          "recommendation": "Pearl Masters Custom",
           "available": true,
           "priceRange": "$2,500-4,500 (new)",
-          "notes": "Current Pearl Custom Z maple shells deliver similar tone and attack"
+          "notes": "Current Pearl Masters Custom maple shells deliver similar tone and attack"
         },
         {
           "category": "Snare",
-          "recommendation": "Pearl Custom Z 14\"x6.5\" Maple",
+          "recommendation": "Pearl Masters Custom 14\"x6.5\" Maple",
           "available": true,
           "priceRange": "$400-550 (new)",
           "notes": "Modern version of the classic Starclassic Maple snare"
@@ -237,7 +237,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Richard Christy use?",
-        "answer": "Richard Christy has long been associated with Pearl Custom Z kits. His standard configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Custom Z line was Pearl's flagship professional series through the late 1990s and 2000s, offering consistent maple tone and build quality that Christy relied on through his tenure with Death, Control Denied, and his subsequent career as a performer and educator."
+        "answer": "Richard Christy has long been associated with Pearl Masters Custom kits. His standard configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Masters Custom line was Pearl's flagship professional series through the late 1990s and 2000s, offering consistent maple tone and build quality that Christy relied on through his tenure with Death, Control Denied, and his subsequent career as a performer and educator."
       },
       {
         "question": "What cymbals does Richard Christy use?",
@@ -245,7 +245,7 @@ export const articles = {
       },
       {
         "question": "How much does Richard Christy's death metal kit cost?",
-        "answer": "Richard Christy's Pearl Custom Z shell pack originally retailed for approximately $2,500 to $4,000 in the late 1990s. Used Custom Z shells in good condition today sell for roughly $1,000 to $2,500. His Sabian AA and AAX cymbals remain in production, with a comparable full setup costing between $1,200 and $2,000 new. Building a complete kit matching Christy's classic death metal configuration today runs approximately $4,000 to $7,000 depending on hardware and pedal choices."
+        "answer": "Richard Christy's Pearl Masters Custom shell pack originally retailed for approximately $2,500 to $4,000 in the late 1990s. Used Masters Custom shells in good condition today sell for roughly $1,000 to $2,500. His Sabian AA and AAX cymbals remain in production, with a comparable full setup costing between $1,200 and $2,000 new. Building a complete kit matching Christy's classic death metal configuration today runs approximately $4,000 to $7,000 depending on hardware and pedal choices."
       }
     ],
     "conclusion": {
@@ -293,9 +293,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Richard's Morrisound Setup: Pearl Custom Z",
+      "title": "Richard's Morrisound Setup: Pearl Masters Custom",
       "brand": "Pearl",
-      "model": "Pearl Custom Z",
+      "model": "Pearl Masters Custom",
       "finish": "Piano Black",
       "config": {
         "bassdrums": [
@@ -311,9 +311,9 @@ export const articles = {
         ],
         "shells": "Maple shells with optimized bearing edges"
       },
-      "description": "For \"The Sound of Perseverance,\" Richard Christy used a Pearl Custom Z kit — the flagship maple series that offered exactly what technical death metal demanded: clarity, attack, and projection.\n\nThe 22\" x 18\" bass drum was notably deeper than many death metal setups of the era. While drummers like Gene Hoglan (Richard's predecessor in Death) often favored tighter kicks for quicker response, Christy's deeper shell provided the low-end weight that Chuck Schuldiner wanted for this album's sound. The result was double bass patterns with presence — each stroke punched through without becoming muddy.\n\nThe four-tom configuration (10\", 12\", 14\", 16\") gave Christy the melodic canvas he needed for Perseverance's progressive arrangements. His fills aren't just technical exercises — they're compositional elements that Chuck specifically wrote around. Listen to the bridge sections of \"Flesh and the Power It Holds\" to hear how the toms sing.\n\nPearl's Canadian Birds Eye Maple shells delivered the articulation crucial for this album's complex passages. At 200+ BPM, every stroke needs definition. The Custom Z's optimized bearing edges and maple construction ensured that even the fastest ghost notes registered clearly. This wasn't gear chosen for endorsement money — it was gear chosen because it worked.\n\nFor the softer passages — particularly \"Voice of the Soul\" — the same kit demonstrated remarkable versatility. The toms ring musically rather than aggressively, the kick provides foundation without dominance, the overall sound serves the composition perfectly.",
+      "description": "For \"The Sound of Perseverance,\" Richard Christy used a Pearl Masters Custom kit — the flagship maple series that offered exactly what technical death metal demanded: clarity, attack, and projection.\n\nThe 22\" x 18\" bass drum was notably deeper than many death metal setups of the era. While drummers like Gene Hoglan (Richard's predecessor in Death) often favored tighter kicks for quicker response, Christy's deeper shell provided the low-end weight that Chuck Schuldiner wanted for this album's sound. The result was double bass patterns with presence — each stroke punched through without becoming muddy.\n\nThe four-tom configuration (10\", 12\", 14\", 16\") gave Christy the melodic canvas he needed for Perseverance's progressive arrangements. His fills aren't just technical exercises — they're compositional elements that Chuck specifically wrote around. Listen to the bridge sections of \"Flesh and the Power It Holds\" to hear how the toms sing.\n\nPearl's Canadian Birds Eye Maple shells delivered the articulation crucial for this album's complex passages. At 200+ BPM, every stroke needs definition. The Masters Custom's optimized bearing edges and maple construction ensured that even the fastest ghost notes registered clearly. This wasn't gear chosen for endorsement money — it was gear chosen because it worked.\n\nFor the softer passages — particularly \"Voice of the Soul\" — the same kit demonstrated remarkable versatility. The toms ring musically rather than aggressively, the kick provides foundation without dominance, the overall sound serves the composition perfectly.",
       "notes": [
-        "Pearl Custom Z — professional maple shells",
+        "Pearl Masters Custom — professional maple shells",
         "22\" x 18\" bass drum deeper than typical death metal setups",
         "Four-tom configuration for melodic fill work",
         "Same kit used for both brutal and delicate passages"
@@ -323,10 +323,10 @@ export const articles = {
     "snare": {
       "title": "The Snare That Cut Through Darkness",
       "brand": "Pearl",
-      "model": "Pearl Custom Z 14\" x 6.5\" Maple",
+      "model": "Pearl Masters Custom 14\" x 6.5\" Maple",
       "size": "14\" x 6.5\"",
       "shell": "Maple",
-      "description": "The snare sound on \"The Sound of Perseverance\" is immediately recognizable — tight, cutting, and articulate at any tempo. Richard Christy relied on a Pearl Custom Z 14\" x 6.5\" Maple snare throughout the sessions.\n\nFor heavier tracks like \"Scavenger of Human Sorrow\" and \"Spirit Crusher,\" the maple shell provided the crack and cut needed to slice through Chuck's dense guitar arrangements. The 14\" x 6.5\" dimensions offered enough body for rim shots while maintaining the response required for ghost notes at extreme tempos.\n\nFor more nuanced passages, particularly on \"Voice of the Soul\" and the quieter sections of \"Flesh and the Power It Holds,\" the maple shell provided warmth and musicality. Death's progressive evolution demanded a snare that could scream and whisper.\n\nEngineer Jim Morris captured it with careful microphone placement — SM57 on top for attack, AKG C451 underneath for snare response. The blend allowed Christy's dynamics to translate fully. His ghost notes register clearly; his accents crack without harshness.\n\nTuning was medium-high for maximum articulation. At the speeds Christy played, anything looser would have resulted in a flappy, undefined sound. The tight tuning also helped during the complex sticking patterns that characterize tracks like \"The Flesh and the Power It Holds.\"",
+      "description": "The snare sound on \"The Sound of Perseverance\" is immediately recognizable — tight, cutting, and articulate at any tempo. Richard Christy relied on a Pearl Masters Custom 14\" x 6.5\" Maple snare throughout the sessions.\n\nFor heavier tracks like \"Scavenger of Human Sorrow\" and \"Spirit Crusher,\" the maple shell provided the crack and cut needed to slice through Chuck's dense guitar arrangements. The 14\" x 6.5\" dimensions offered enough body for rim shots while maintaining the response required for ghost notes at extreme tempos.\n\nFor more nuanced passages, particularly on \"Voice of the Soul\" and the quieter sections of \"Flesh and the Power It Holds,\" the maple shell provided warmth and musicality. Death's progressive evolution demanded a snare that could scream and whisper.\n\nEngineer Jim Morris captured it with careful microphone placement — SM57 on top for attack, AKG C451 underneath for snare response. The blend allowed Christy's dynamics to translate fully. His ghost notes register clearly; his accents crack without harshness.\n\nTuning was medium-high for maximum articulation. At the speeds Christy played, anything looser would have resulted in a flappy, undefined sound. The tight tuning also helped during the complex sticking patterns that characterize tracks like \"The Flesh and the Power It Holds.\"",
       "tuningSetting": "Medium-high tension for maximum articulation at extreme speeds",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$350-500 (1998) / $300-450 (used today)"
@@ -601,7 +601,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Richard Christy use on The Sound of Perseverance in 1998?",
-        "answer": "Richard Christy recorded Death's The Sound of Perseverance in 1998 using a Pearl Custom Z kit. His configuration included a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Pearl Custom Z was a top-tier professional kit during the late 1990s, known for its warm maple tone and reliable construction. This setup handled the album's technically demanding passages and shifting time signatures with the projection and sensitivity the material required."
+        "answer": "Richard Christy recorded Death's The Sound of Perseverance in 1998 using a Pearl Masters Custom kit. His configuration included a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Pearl Masters Custom was a top-tier professional kit during the late 1990s, known for its warm maple tone and reliable construction. This setup handled the album's technically demanding passages and shifting time signatures with the projection and sensitivity the material required."
       },
       {
         "question": "What cymbals did Richard Christy use on The Sound of Perseverance in 1998?",
@@ -609,12 +609,12 @@ export const articles = {
       },
       {
         "question": "How much does Richard Christy's Sound of Perseverance kit cost today?",
-        "answer": "Richard Christy's Pearl Custom Z kit retailed for approximately $3,000 to $4,500 when new in 1998. Today, used Custom Z shells in good condition sell for around $1,200 to $2,800. His Sabian AA and AAX cymbals remain in current production, and a comparable complete setup costs $1,500 to $2,200 new. Building a full replica of Christy's 1998 setup with hardware and pedals today costs approximately $5,000 to $8,000."
+        "answer": "Richard Christy's Pearl Masters Custom kit retailed for approximately $3,000 to $4,500 when new in 1998. Today, used Masters Custom shells in good condition sell for around $1,200 to $2,800. His Sabian AA and AAX cymbals remain in current production, and a comparable complete setup costs $1,500 to $2,200 new. Building a full replica of Christy's 1998 setup with hardware and pedals today costs approximately $5,000 to $8,000."
       }
     ],
     "conclusion": {
       "title": "The Final Statement: Legacy of Perseverance",
-      "content": "\"The Sound of Perseverance\" wasn't meant to be Death's final album. Chuck Schuldiner was already planning Control Denied's debut and had ideas for future Death material. But fate intervened — Chuck's brain cancer diagnosis in 1999 and his passing in December 2001 made Perseverance the unintended swan song for one of metal's most important bands.\n\n**What Makes This Album Special:**\nPerseverance represents the culmination of Death's 14-year evolution. From the raw brutality of \"Scream Bloody Gore\" through the technical precision of \"Human\" and \"Symbolic,\" Death constantly pushed boundaries. This final album pushed furthest — into progressive territory that no death metal band had fully explored. And at the center of that push was Richard Christy's drumming.\n\n**The Christy-Schuldiner Partnership:**\nChuck Schuldiner was notoriously demanding. His roster of collaborators reads like a who's who of extreme metal drumming: Sean Reinert, Gene Hoglan, and finally Richard Christy. Each brought something unique, but Christy's combination of speed, precision, and musicality perfectly suited Chuck's final vision. Their chemistry produced some of the most technically accomplished death metal ever recorded.\n\n**Why the Drumming Matters:**\n\"The Sound of Perseverance\" proves that technical drumming and musical drumming aren't opposites. Christy's performances are impossibly fast, absurdly precise, and deeply musical. He plays WITH the songs, not over them. \"Voice of the Soul\" could have felt awkward with a death metal drummer — instead, it's beautiful because Christy understood restraint.\n\n**The Gear Philosophy:**\nRichard's setup wasn't exotic. Pearl Custom Z drums, Sabian cymbals, standard Vic Firth sticks. The magic wasn't in rare gear — it was in thousands of hours of practice, a drummer who relocated his entire life to pursue death metal, and a bandleader who demanded the best. The lesson: exceptional drumming comes from the player, not the equipment.\n\n**For Aspiring Drummers:**\nStudy this album obsessively. Learn \"Spirit Crusher\" to understand sustained double bass. Learn \"Voice of the Soul\" to understand dynamics. Learn \"Flesh and the Power It Holds\" to understand endurance and versatility. Then remember: Richard Christy moved to Florida with no connections, worked at a music store, played in local bands, and eventually earned Chuck Schuldiner's call. Dedication creates opportunity.\n\nChuck Schuldiner called Richard \"one of the best drummers I ever worked with.\" Coming from someone who worked with Reinert and Hoglan, that's not hyperbole — it's recognition of a drummer who rose to the moment and delivered a masterpiece.\n\nDeath's sound persevered. And thanks to Richard Christy's legendary performances, it always will.\n\n🥁 *\"The secret of success is not what they think — the flesh and the power it holds!\"* 🥁"
+      "content": "\"The Sound of Perseverance\" wasn't meant to be Death's final album. Chuck Schuldiner was already planning Control Denied's debut and had ideas for future Death material. But fate intervened — Chuck's brain cancer diagnosis in 1999 and his passing in December 2001 made Perseverance the unintended swan song for one of metal's most important bands.\n\n**What Makes This Album Special:**\nPerseverance represents the culmination of Death's 14-year evolution. From the raw brutality of \"Scream Bloody Gore\" through the technical precision of \"Human\" and \"Symbolic,\" Death constantly pushed boundaries. This final album pushed furthest — into progressive territory that no death metal band had fully explored. And at the center of that push was Richard Christy's drumming.\n\n**The Christy-Schuldiner Partnership:**\nChuck Schuldiner was notoriously demanding. His roster of collaborators reads like a who's who of extreme metal drumming: Sean Reinert, Gene Hoglan, and finally Richard Christy. Each brought something unique, but Christy's combination of speed, precision, and musicality perfectly suited Chuck's final vision. Their chemistry produced some of the most technically accomplished death metal ever recorded.\n\n**Why the Drumming Matters:**\n\"The Sound of Perseverance\" proves that technical drumming and musical drumming aren't opposites. Christy's performances are impossibly fast, absurdly precise, and deeply musical. He plays WITH the songs, not over them. \"Voice of the Soul\" could have felt awkward with a death metal drummer — instead, it's beautiful because Christy understood restraint.\n\n**The Gear Philosophy:**\nRichard's setup wasn't exotic. Pearl Masters Custom drums, Sabian cymbals, standard Vic Firth sticks. The magic wasn't in rare gear — it was in thousands of hours of practice, a drummer who relocated his entire life to pursue death metal, and a bandleader who demanded the best. The lesson: exceptional drumming comes from the player, not the equipment.\n\n**For Aspiring Drummers:**\nStudy this album obsessively. Learn \"Spirit Crusher\" to understand sustained double bass. Learn \"Voice of the Soul\" to understand dynamics. Learn \"Flesh and the Power It Holds\" to understand endurance and versatility. Then remember: Richard Christy moved to Florida with no connections, worked at a music store, played in local bands, and eventually earned Chuck Schuldiner's call. Dedication creates opportunity.\n\nChuck Schuldiner called Richard \"one of the best drummers I ever worked with.\" Coming from someone who worked with Reinert and Hoglan, that's not hyperbole — it's recognition of a drummer who rose to the moment and delivered a masterpiece.\n\nDeath's sound persevered. And thanks to Richard Christy's legendary performances, it always will.\n\n🥁 *\"The secret of success is not what they think — the flesh and the power it holds!\"* 🥁"
     }
   }
 };

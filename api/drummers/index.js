@@ -2189,17 +2189,16 @@ const drummers = [
     country: 'Canada',
     image: '/images/drummers/flo-mounier.webp',
     bio: 'Flo Mounier is a Canadian drummer and the only constant member of technical death metal pioneers Cryptopsy, which he joined in 1992. Born in Montreal, Quebec, Mounier is widely regarded as one of the fastest and most technically proficient drummers in extreme metal. His innovative blast beat techniques, gravity blasts, and complex polyrhythmic patterns have influenced countless death metal drummers. Albums like "None So Vile" (1996) and "Whisper Supremacy" (1998) showcase his legendary speed and precision. Beyond his raw power, Mounier incorporates jazz and fusion elements into his playing, adding musicality to Cryptopsy\'s brutality. He has been endorsed by Pearl, Sabian, and Vic Firth, and has released instructional DVDs sharing his techniques.',
-    kitOverview: 'Flo Mounier plays a Pearl Masters Maple Complete drum kit — the maple-shell configuration he has maintained through Cryptopsy\'s most demanding technical death metal recordings. The Flo Mounier drum set centers on a Pearl Masters 14×5.5" Maple snare tuned for the sharp, penetrating crack that cuts through Cryptopsy\'s dense arrangements on None So Vile and Whisper Supremacy. A Pearl Demon Drive double bass pedal powers his legendary speed — the direct-drive mechanism engineered for the fast rebound his gravity blast technique demands.\n\nSabian AAX and HHX Series cymbals complete the Flo Mounier drum kit: 14" HHX Stage Hi-Hats for rapid hi-hat patterns; 17" and 18" AAX X-Plosion Crashes for fast-response accent work; a 21" HHX Raw Bell Dry Ride for dark articulation; and an 18" AAXtreme China for brutal punctuation. Evans drumheads and Vic Firth American Classic 5A sticks round out the rig. Mounier has been Cryptopsy\'s only constant member since 1992, anchoring the band\'s catalog from Ungentle Exhumation (1993) through As Gomorrah Burns (2023). His Pearl drum set endorsement reflects a long-standing partnership built for the extreme precision his technical death metal playing demands.',
+    kitOverview: 'Flo Mounier plays a Tama Starclassic Maple drum kit — the all-maple shell pack he has used since 2012 through Cryptopsy\'s most demanding technical death metal recordings. A Tama Speed Cobra 910 Twin Pedal powers his legendary speed — the direct-drive mechanism engineered for the fast rebound his gravity blast technique demands.\n\nSabian AAX and HHX Series cymbals complete the Flo Mounier drum kit: 14" HHX Stage Hi-Hats for rapid hi-hat patterns; 17" and 18" AAX X-Plosion Crashes for fast-response accent work; a 21" HHX Raw Bell Dry Ride for dark articulation; and an 18" AAXtreme China for brutal punctuation. Evans drumheads and Vic Firth American Classic 5A sticks round out the rig. Mounier has been Cryptopsy\'s only constant member since 1992, anchoring the band\'s catalog from Ungentle Exhumation (1993) through As Gomorrah Burns (2023). His Tama drum kit endorsement, in place since 2012, reflects a partnership built for the extreme precision his technical death metal playing demands.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Cryptopsy',
       'https://www.discogs.com/artist/313395-Flo-Mounier',
       'https://www.allmusic.com/artist/flo-mounier-mn0000144667'
     ],
     gear: {
-      drums: 'Pearl Masters Maple Complete',
-      snare: 'Pearl Masters 14x5.5" Maple',
+      drums: 'Tama Starclassic Maple',
       cymbals: 'Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-3000 Throne',
+      hardware: 'Tama Speed Cobra 910 Twin Pedal',
       sticks: 'Vic Firth American Classic 5A',
       heads: 'Evans',
       verified: true,

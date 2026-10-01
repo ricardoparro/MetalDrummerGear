@@ -20843,17 +20843,17 @@ export const DRUMMER_EVOLUTION = {
         years: '1997-2012',
         startYear: 1997,
         endYear: 2012,
-        description: 'Dette\'s longest and most productive relationship came with Testament, spanning two touring stints (1997-1999, 2001-2012) and captured on the live album Live at the Fillmore (2005). He was Testament\'s touring drummer rather than a studio member — the band\'s studio albums released during those years, The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively. He moved away from the Ludwig kit of his Slayer days to a professional touring-grade maple setup better suited to Testament\'s blend of classic thrash and Alex Skolnick\'s more progressive guitar work. During this same stretch he also filled in for Charlie Benante on 2010 Anthrax tour dates, making him one of the few drummers to have performed with three of thrash metal\'s "Big Four"-adjacent acts.',
+        description: 'Dette\'s longest and most productive relationship came with Testament, spanning two touring stints (1997-1999, 2001-2012) and captured on the live album Live at the Fillmore (2005). He was Testament\'s touring drummer rather than a studio member — the band\'s studio albums released during those years, The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively. He carried the same Ludwig Classic Maple kit from his Slayer days into Testament, a setup that held up well across the band\'s blend of classic thrash and Alex Skolnick\'s more progressive guitar work. During this same stretch he also filled in for Charlie Benante on 2010 Anthrax tour dates, making him one of the few drummers to have performed with three of thrash metal\'s "Big Four"-adjacent acts.',
         albums: ['Testament - Live at the Fillmore (2005) — touring drummer; no studio album recorded during either stint'],
         tours: ['The Gathering Tour 1999', 'Formation of Damnation World Tour 2008-2009', 'Dark Roots of Earth World Tour 2012-2013', 'Anthrax Tour Dates 2010 (fill-in for Charlie Benante)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Professional Maple Touring Kit (DW Performance Series)',
-            details: 'Maple shells, double 22"x18" kicks, four-tom configuration',
-            notes: 'A switch away from the Ludwig Classic Maple of his Slayer era, chosen for Testament\'s wider stylistic range and the band\'s more progressive live arrangements.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Ludwig Classic Maple',
+            details: 'Six-ply maple shells, double 22" bass drums, carried over from his Slayer touring stint',
+            notes: 'Continued the same Ludwig Classic Maple kit from his Slayer era into Testament, a setup that suited the band\'s wider stylistic range and Alex Skolnick\'s more progressive live arrangements.',
+            change: null,
           },
           snare: {
             item: '14"x6.5" Maple/Steel Snare',
@@ -20870,7 +20870,7 @@ export const DRUMMER_EVOLUTION = {
           hardware: {
             item: 'DW 9000 / Tama Iron Cobra Double Pedal',
             details: 'Carried over from his Slayer era',
-            notes: 'The one constant through the Ludwig-to-DW kit switch — a mechanism he already trusted.',
+            notes: 'The one constant from his Slayer era onward — a mechanism he already trusted.',
             change: null,
           },
           sticks: {

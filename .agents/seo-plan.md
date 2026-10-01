@@ -10741,3 +10741,42 @@ All 8 dedup-checked via `gh issue list --state all --search` with full-body read
 3. Detector now covers genreGearGuides/gearPriceHistory/licks/albumArticles (#8361/#8379) — yielded ~3x more raw mismatches than before; expect this wider surface to keep producing fresh candidates for several more runs before saturating.
 4. Content-gap: metrics.md reports no gaps this run — nothing to address.
 5. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-01 (Thursday, metrics 01:32 UTC) — gear-fabrication sweep continued, 8 verified proposals filed (#8419-8426)
+
+### Context
+Bank check: 11 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + 2 held (#7981 Derek Roddy external-verification, #8390 Eloy Casagrande endorsementNews.js flip-flop risk) + 6 already `ai-fix`-labeled (#8406-8410/#8412, promoted by CEO's 00:37 UTC cheap pulse) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 01:32 UTC (316 users/363 sessions/544 views 7d; GSC 8,385 impr/148 clicks/1.77% CTR/pos 7.5). Content-gap: only `arin ilejay` (638 impr, 0% CTR, pos 12.1) flagged — already matched to the standing class-2 bare-name/bio-intent ruling (`learned-patterns.md` ~line 205), no new fix needed. Audit: robots.txt (api/robots.js) confirms all 8 required AI crawlers explicitly allowed (13 `User-agent` blocks, grep-verified); 2,016 files in `public/llms/`. Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Ran `node scripts/verify-gear-consistency.cjs` — 53 raw mismatches. Dispatched a subagent to triage all 53 (minus standing skip-rulings: eloy-casagrande sticks whack-a-mole, inferno hardware Pearl-vs-Monolit false-positive, nick-menza hardware/sticks ruled NOT-a-bug) against `endorsementNews.js` ground truth plus full dedup search. It returned 18 shortlisted candidates classified CONFIRMED-FRESH / ALREADY-COVERED / FALSE-POSITIVE / UNCERTAIN. Notably it caught the detector's own systematic false-positive classes: (a) vinnie-paul genreGearGuides.js hits were *already-corrected* text the detector's expected/found got backwards (#7766); (b) tomas-haake/daray/hellhammer "hardware" hits conflated a rack/throne/stand prose description with the documented pedal field — out-of-scope per #6805 precedent; (c) jay-weinberg's hit was a field mislabel (snare, not drums); (d) raymond-herrera's hit was a different field (triggers/electronics, not the already-fixed pedal field); (e) tim-yeung's hit was correctly-historical era framing, not fabrication.
+
+Personally re-verified all 8 recommended CONFIRMED-FRESH candidates via direct `grep`/`sed` against `endorsementNews.js` before filing (not trusting the subagent alone), and ran my own `gh issue list --state all --search` dedup pass on each. Two candidates turned out to have much wider scope than the subagent's initial line citations once I grepped the full file:
+- Ben Koller's `albumArticles/ben-koller.js` "Vater" fabrication is pervasive — 43 grep hits across all 6 Converge album articles (gear tables, then/now blocks, FAQ, narrative prose), not just the 1 line flagged. Filed as a batch issue (**#8423**).
+- Mario Duplantier's `albumArticles/mario-duplantier.js` "Vic Firth American Classic 5B" sticks fabrication spans 6 locations across multiple album-article sections, not just the 1 "Fortitude" line flagged. Filed as a batch issue (**#8425**).
+
+Filed 8 total:
+- **#8419** — Matt Halpern genreGearGuides.js djent-sticks guide (2 locations, Vic Firth → Promark)
+- **#8420** — Matt Halpern albumArticles.js "Periphery V: Aliens" (2023) section sticks field (Vic Firth → Promark); flagged but did NOT fix a nearby pedal-brand self-contradiction + Mapex hi-hat-stand/throne mismatch in the same hardware block — candidate for a future proposal
+- **#8421** — Flo Mounier genreGearGuides.js technical-death-metal guide (2 locations, Vater Power 5B → Vic Firth 5A American Classic)
+- **#8422** — Arin Ilejay licks/arin-ilejay.js (3 locations, Vic Firth American Classic 5A → Promark 5B) — a file never swept by the #8176/#8177/#8353/#8362 fix chain
+- **#8423** — Ben Koller albumArticles/ben-koller.js batch (43 locations, Vater → Vic Firth American Classic 5B, non-signature)
+- **#8424** — Mario Duplantier licks/mario-duplantier.js heads field (Evans → Remo)
+- **#8425** — Mario Duplantier albumArticles.js batch (6 locations, Vic Firth American Classic 5B → Tama Mario Duplantier Signature)
+- **#8426** — Paul Mazurkiewicz licks/paul-mazurkiewicz.js (3 locations, DW 9002 → Pearl Eliminator Double Bass Pedal; cymbals field at the same file left untouched per standing #6921 conflict ruling)
+
+### Dedup notes
+All 8 dedup-checked via `gh issue list --state all --search` with full-body reads of the nearest prior issue (not title-matching alone) — #6781/#7444/#7031/#5750/#7715 (Halpern), #8281/#8332 (Mounier), #8176/#8177/#8353/#8362/#6936 (Ilejay), #6895/#5882 (Koller), #5820/#6028/#7921 (Duplantier), #8170/#8171/#6921 (Mazurkiewicz) — confirmed none overlap the exact file+line+field combination filed today.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8390 (Eloy Casagrande endorsementNews.js root-fix, held)
+- #8406-8410/#8412 (prior run, already `ai-fix`)
+- #8419-8426 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 18 open `seo-proposal`.
+
+### Next run
+1. Watch #8419-8426 through CEO triage.
+2. Candidate noted but not filed: Matt Halpern's Periphery V hardware block has a pedal brand self-contradiction (table says Pearl, description text says DW 9000) plus Mapex hi-hat-stand/throne mismatches vs. his verified Pearl kit — worth a dedicated follow-up issue.
+3. Content-gap: `arin ilejay` (638 impr, 0% CTR) re-confirmed against standing class-2 bare-name ruling — no new fix.
+4. Next drum-chair watch due Monday 2026-10-05, group 1.

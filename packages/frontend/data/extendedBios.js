@@ -4781,7 +4781,7 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
         content: `During his peak metal years, Richard Christy used Pearl Drums. His setup was designed for the extreme technical demands of Death's music.
 
 **Peak Metal Era Setup:**
-- **Drums**: Pearl Custom Z / Pearl Prestige Session
+- **Drums**: Pearl Masters Custom / Pearl Prestige Session
 - **Snare**: Pearl 14"x6.5" Maple
 - **Cymbals**: Sabian AAX and HHX Series
 - **Hardware**: Axis A Longboard double pedal
@@ -4810,8 +4810,8 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Richard Christy use?', a: 'Richard Christy played a Pearl Custom Z drum kit — a nine-piece Canadian Birds Eye Maple shell pack he used to record Death\'s technical, genre-defining swan song The Sound of Perseverance alongside Chuck Schuldiner. His Pearl 14"x6.5" Maple snare stays warm under Death\'s intricate arrangements while still delivering the crack needed for rapid-fire blast beats.' },
-          { q: 'What drum set does Richard Christy use?', a: 'Richard Christy\'s drum set pairs a Pearl Custom Z shell pack and his Pearl Maple snare with an Axis A Longboard double pedal, giving him the speed and precision behind the double-bass patterns he carried from Death into Iced Earth and Charred Walls of the Damned.' },
+          { q: 'What drum kit does Richard Christy use?', a: 'Richard Christy played a Pearl Masters Custom drum kit — a nine-piece Canadian Birds Eye Maple shell pack he used to record Death\'s technical, genre-defining swan song The Sound of Perseverance alongside Chuck Schuldiner. His Pearl 14"x6.5" Maple snare stays warm under Death\'s intricate arrangements while still delivering the crack needed for rapid-fire blast beats.' },
+          { q: 'What drum set does Richard Christy use?', a: 'Richard Christy\'s drum set pairs a Pearl Masters Custom shell pack and his Pearl Maple snare with an Axis A Longboard double pedal, giving him the speed and precision behind the double-bass patterns he carried from Death into Iced Earth and Charred Walls of the Damned.' },
           { q: 'What cymbals does Richard Christy play?', a: 'Richard Christy plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, and an 18" AAX Chinese.' },
           { q: 'What snare does Richard Christy use?', a: 'Richard Christy\'s snare is a Pearl 14"x6.5" Maple, warm enough to sit underneath Death\'s progressive arrangements while cutting through for blast beats.' },
           { q: 'What sticks does Richard Christy use?', a: 'Richard Christy uses Vic Firth American Classic 5A drumsticks, a comparatively lightweight, classic-diameter stick that favors finesse and articulation.' },

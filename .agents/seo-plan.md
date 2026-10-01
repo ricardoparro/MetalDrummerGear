@@ -10780,3 +10780,40 @@ All 8 dedup-checked via `gh issue list --state all --search` with full-body read
 2. Candidate noted but not filed: Matt Halpern's Periphery V hardware block has a pedal brand self-contradiction (table says Pearl, description text says DW 9000) plus Mapex hi-hat-stand/throne mismatches vs. his verified Pearl kit — worth a dedicated follow-up issue.
 3. Content-gap: `arin ilejay` (638 impr, 0% CTR) re-confirmed against standing class-2 bare-name ruling — no new fix.
 4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-01 (Thursday, run 2, metrics 07:12 UTC) — detector thinned to 1 fresh hit; manual sweep of 17 untouched drummers yielded 6 more, 7 verified proposals filed (#8434-8440)
+
+### Context
+Bank check: 13 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + 2 held (#7981 Derek Roddy, #8390 Eloy Casagrande endorsementNews.js flip-flop risk) + 8 already `ai-fix`-labeled (#8419-8426, promoted by CEO's 06:24 UTC cheap pulse) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 07:12 UTC (326 users/375 sessions/568 views 7d; GSC 8,385 impr/148 clicks/1.77% CTR/pos 7.5). Content-gap: only `arin ilejay` (638 impr, 0% CTR, pos 12.1) flagged — matches the standing class-2 bare-name/bio-intent ruling (`learned-patterns.md` ~line 205), no new fix needed. Audit: robots.txt (api/robots.js) all 8 required AI crawlers explicitly allowed; 57 files in `public/llms/` top-level + many more nested (32 `.md` files checked in one subdir sample). Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Ran `node scripts/verify-gear-consistency.cjs` — same 53 raw mismatches as the 01:32 UTC run (no new detector-scope changes since). Dispatched a subagent to triage the 5 candidates NOT already covered by #8419-8426 or the documented false-positive classes (vinnie-paul/tomas-haake/daray/hellhammer/jay-weinberg/raymond-herrera/tim-yeung): aquiles-priester hardware+sticks, paul-bostaph cymbals+sticks, abe-cunningham sticks, matt-halpern sticks (line 1290), pete-sandoval sticks. Only **1 of 5 survived**: abe-cunningham sticks (confirmed fresh — 8+ locations in `albumArticles/abe-cunningham.js` fabricate Zildjian/Vic Firth vs verified Pro-Mark since 1997). The other 4 were correctly rejected: aquiles-priester and paul-bostaph both turned out to be correct era-specific historical framing (verified against the specific album-era timeline entries, not the current-day endorsement); matt-halpern:1290 is the identical location issue #8420 (filed in the prior run, same day) already targets — would have been a duplicate; pete-sandoval is a Pro-Mark/Promark spelling-variant non-issue already validated by a prior closed sweep (#7501).
+
+This confirms the automated-detector vein has thinned sharply (8/53 → 1/5 fresh-rate this run), consistent with the trend flagged in yesterday's 01:24 UTC run notes. Fell back to the established manual-sweep method: dispatched a second subagent to check the 17 drummers never checked in this multi-week sweep per the prior run's tracking list (adrian-erlandsson, alex-rudinger, art-cruz, blake-richardson, chris-turner, jason-bittner, jocke-wallgren, john-longstreth, john-otto, jon-dette, kevin-talley, martin-axenrot, navene-koperweis, nick-barker, richard-christy, ryan-van-poederooyen, sean-reinert) across albumArticles/licks/gearPriceHistory/genreGearGuides/drummerEvolution/drummerComparisons/soundLikeGuides/extendedBios vs `endorsementNews.js`. It returned 7 candidates; personally re-verified all 7 via direct `sed`/`grep` against source + ground truth (not trusting the subagent alone) before any dedup search, and ran full `gh issue list --state all --search` dedup passes reading actual issue bodies (not just titles) given most of these drummers have 10-20+ prior closed issues. All 7 confirmed genuinely fresh:
+- **#8434** — Abe Cunningham sticks (8 locations, `albumArticles/abe-cunningham.js`, Zildjian/Vic Firth → Pro-Mark since 1997)
+- **#8435** — Art Cruz gearPriceHistory.js (9 locations) fabricates "Ludwig Classic Maple" — verified Ludwig Black Beauty since 2019; likely cross-contamination from Jon Dette's entry further down the same file, which genuinely is Classic Maple
+- **#8436** — Jon Dette drummerEvolution.js Testament era (1997-2012) fabricates a Ludwig-to-DW drum kit switch — verified continuous Ludwig Classic Maple; distinct block from #8269's fix of the separate 'Present' (2015+) era
+- **#8437** — Sean Reinert drummerEvolution.js Focus era (1993) cymbals field fabricates a 15-years-early Zildjian K Series switch — verified the actual switch happened in 2008; sibling-field gap left by #7567's drums-only fix of the same era block
+- **#8438** — Kevin Talley snares.js fabricates "14x5.5\" Maple" — verified 14x6.5" steel; genuinely unswept file despite ~16 prior closed Kevin Talley issues on other files
+- **#8439** — Richard Christy "Pearl Custom Z" fabrication across `albumArticles/richard-christy.js` (~15 locations, 2 duplicate album-setup sections + FAQ) + `extendedBios.js` (~3 locations) — verified Pearl Masters Custom; #7650/#6919 fixed this exact fabrication class in 2 other files but never these two
+- **#8440** — Jason Bittner's `endorsementNews.js` (the ground-truth file itself) still carries stale 2012-Overkill-join timeline notes in 2 places — verified May 2017 per #6293; distinct from #6131's brand-field fix of the same file
+
+Jon Dette and Sean Reinert findings required careful cross-checking against several prior closed issues on the exact same era blocks (#8269, #7567) to confirm the new findings target a different field within the same block, not a re-opened duplicate.
+
+### Dedup notes
+All 7 dedup-checked via `gh issue list --state all --search` with full title-list reads (not single-issue spot checks) given the density of prior fixes on these drummers — Abe Cunningham (8+ prior issues, confirmed none touch `albumArticles.js` sticks), Art Cruz (3 prior gearPriceHistory batch issues, none address the Classic Maple/Black Beauty conflict), Jon Dette (12 prior issues, confirmed #8269 is a different era block), Sean Reinert (14 prior issues, confirmed #7567 is drums-field-only in the same block), Kevin Talley (17 prior issues, none touch `snares.js`), Richard Christy (17 prior issues, confirmed #7650/#6919 scope to different files/facts), Jason Bittner (16 prior issues, confirmed #6131 is brand-fields-only not timeline notes).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8390 (Eloy Casagrande endorsementNews.js root-fix, held)
+- #8419-8426 (prior run, already `ai-fix`)
+- #8434-8440 (this run, 7 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 20 open `seo-proposal`.
+
+### Next run
+1. Watch #8434-8440 through CEO triage.
+2. Automated-detector (`verify-gear-consistency.cjs`) yield has dropped to near-zero fresh hits (1/53 this run) — the manual drummer-by-drummer sweep is now clearly the primary productive method; consider this the default going forward, same as noted in yesterday's run.
+3. 17-drummer untouched list for this sweep now fully exhausted (all 17 checked: 6 clean — adrian-erlandsson, alex-rudinger, blake-richardson, john-longstreth, john-otto, martin-axenrot, ryan-van-poederooyen — 7 confirmed-fixed via #8434-8440, jocke-wallgren flagged as ambiguous/structural (Jomsviking recording-credit nuance, needs a founder-judgment framing, not a simple fact swap), chris-turner and nick-barker surfaced second-tier candidates not independently re-verified yet — revisit next run if bank runs dry.
+4. Content-gap: `arin ilejay` re-confirmed against standing class-2 bare-name ruling — no new fix.
+5. Next drum-chair watch due Monday 2026-10-05, group 1.

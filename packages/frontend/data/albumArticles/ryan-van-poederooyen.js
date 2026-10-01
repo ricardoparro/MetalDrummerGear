@@ -186,7 +186,7 @@ export const articles = {
         ],
         "description": "Establishing the Van Poederooyen / Townsend partnership across progressive metal and ambient metal records.",
         "gear": {
-          "drums": "Pearl or Tama kit (developing setup)",
+          "drums": "Pearl Reference Series",
           "snare": "Bright, aggressive tuning for Townsend's heavy production",
           "cymbals": "Sabian AAX series",
           "pedals": "No fixed pedal brand documented"

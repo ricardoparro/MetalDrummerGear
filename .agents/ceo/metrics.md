@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-01 13:07 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-01 18:16 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 338 |
-| Sessions | 387 |
-| Page views | 605 |
-| Engagement rate | 65.37% |
-| Avg session (s) | 163 |
+| Active users | 359 |
+| Sessions | 409 |
+| Page views | 622 |
+| Engagement rate | 62.10% |
+| Avg session (s) | 156 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 26 | 21 |
-| /drummer/mario-duplantier | 17 | 12 |
+| / | 27 | 22 |
+| /drummer/mario-duplantier | 19 | 14 |
 | /drummers | 14 | 5 |
 | /studies/metal-tempo-by-subgenre | 13 | 3 |
 | /drummer/eloy-casagrande | 10 | 6 |
@@ -31,22 +31,22 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 325 | 280 |
-| Direct | 45 | 44 |
-| Unassigned | 22 | 21 |
-| Cross-network | 9 | 9 |
+| Organic Search | 328 | 282 |
+| Direct | 51 | 50 |
+| Unassigned | 40 | 38 |
+| Cross-network | 12 | 12 |
 | AI Assistant | 2 | 2 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 164 | 137 |
+| United States | 180 | 152 |
 | Germany | 24 | 22 |
 | United Kingdom | 22 | 12 |
 | Canada | 18 | 16 |
-| Australia | 16 | 15 |
-| China | 16 | 16 |
+| Australia | 17 | 16 |
+| China | 17 | 17 |
 | Finland | 8 | 7 |
 | France | 8 | 8 |
 | Spain | 8 | 7 |

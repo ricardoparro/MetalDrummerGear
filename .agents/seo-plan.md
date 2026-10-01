@@ -10842,3 +10842,28 @@ All 5 dedup-checked via `gh issue list --state all --search` with full title-lis
 2. **New standing fact: `api/drummers/index.js` is outside `verify-gear-consistency.cjs`'s file coverage** — only 5 of its ~72 drummer entries were checked this run (the ones with the literal "Pearl Demon Drive" string). Worth a dedicated full-roster sweep of this file's `gear` objects + `kitOverview` prose against `endorsementNews.js` in a future run, and/or extending the detector script to cover it (infra fix, bigger lever than more manual batches per the generator-level-gap rule at learned-patterns.md line 45).
 3. Content-gap: `arin ilejay` re-confirmed against standing class-2 bare-name ruling — no new fix.
 4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-01 (Thursday, run ~19:xx UTC) — 4 fresh fabrication proposals filed (#8468-8471), continuing the gear-sweep + first manual pass on api/drummers/index.js
+
+### Context
+Bank check at run start: `gh issue list --state open --label seo-proposal` showed 10, but net of umbrellas (#2211/#3810/#3819) and held items (#7981 human-hold, #8390 eloy-casagrande root-fix held), the 5 freshest (#8453-8457, filed 13:14-13:15 UTC) were already triaged+promoted (`ai-fix` added) per the CEO's prior commit — effectively 0 untriaged. Under the 45-threshold, filed up to 8 new.
+
+### Actions taken
+- Ran `verify-gear-consistency.cjs` fresh: 39 raw mismatches. Dispatched a subagent to triage all 39 against `endorsementNews.js` ground truth + the standing skip-ruling list (eloy-casagrande sticks whack-a-mole/held by open #8390, inferno hardware Pearl-vs-Monolit false-positive, vinnie-paul/tomas-haake/daray/hellhammer rack-vs-pedal field-conflation false positives, jay-weinberg/raymond-herrera field mislabels, nick-menza era mismatch). Personally re-verified every candidate it returned via direct grep/read (not just trusting the agent) before filing — this caught one wrong call: the subagent flagged flo-mounier licks.js cymbals+hardware as both fresh, but closed #7030 already fixed cymbals+drums for era-correctness (confirmed live: file already shows correct Yamaha/Zildjian for the 2008 entry) — only the **hardware** field (`Pearl Demon Drive Double Pedal`, never addressed by #7030, boilerplate-contamination pattern per `.agents/seo/learned-patterns.md`) was actually fresh.
+- Filed 3 detector-seed issues: **#8468** (flo-mounier licks.js hardware, 6 locations, omit-unverified-pedal), **#8469** (paul-mazurkiewicz licks.js cymbals, 3 locations, Paiste→Meinl — closes the gap #6921 explicitly left open), **#8470** (paul-bostaph licks.js sticks, 3 locations, Vic Firth never documented at any era — gap left by #6896 which only touched drums/pedal).
+- Continued the prior run's flagged lead (api/drummers/index.js is outside the detector's file coverage, only partially manually swept): checked Scott Travis (25+ prior closed issues across every OTHER file, never checked in this file) and Nicko McBrain. Scott Travis's `kitOverview` prose falsely claims the ddrum kit dates "since Travis joined the band in 1989" (verified: ddrum only since 2018, Tama on the actual 1990 Painkiller recording) — filed **#8471**. Nicko McBrain's kitOverview has similar "four decades" phrasing but it's ambiguous (could just mean his Maiden tenure, not a brand-specific claim) — held back, not filed, per omit-if-unsure caution on ambiguous cases.
+- Dedup-checked all 4 via `gh issue list --state all --search` before filing (drummer + brand/field keywords); read full bodies of the closest-matching prior issues (#7030, #6921, #6896, #3247) to confirm no overlap.
+- Robots.txt audit: all 7 required AI crawlers + cohere-ai explicitly allowed, aggressive-bot crawl-delays in place. Healthy, no action.
+- Not Monday — drum-chair watch sweep skipped this run (next due 2026-10-05).
+
+### Metrics readout (2026-10-01 19:03 UTC)
+- Organic: 328/410 sessions (80%). GSC: 8,385 impr / 148 clicks / 1.77% CTR / pos 7.5 (7d).
+- Content-gap: `arin ilejay` (638 impr, 0.00% CTR, pos 12.1) — matches the standing class-2 bare-name-authority-gap ruling (Wikipedia/band-news SERP dominance), no new fix per precedent.
+
+### State delta
+- seo-proposal bank: 5 fresh (already promoted) → +4 new (#8468-8471), untriaged.
+
+### Next run
+1. Watch #8468-8471 through CEO triage.
+2. `api/drummers/index.js` full-roster sweep is still only partially done (scott-travis, nicko-mcbrain checked this run; ~70 entries remain unchecked) — good candidate for the next run's time-boxed manual pass, or for extending `verify-gear-consistency.cjs`'s `DATA_DIR` coverage to include it (infra fix > more manual batches, per the generator-level-gap rule).
+3. Next drum-chair watch due Monday 2026-10-05, group 1.

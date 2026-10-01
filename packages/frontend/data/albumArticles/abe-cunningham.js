@@ -33,7 +33,7 @@ export const articles = {
       "content": "Abe Cunningham isn't trying to be the fastest drummer. He's not interested in the most complex fills or the biggest kit. What he does — better than almost anyone in heavy music — is make you *feel* something. For 35 years with Deftones, he's been the heartbeat of one of the most emotionally resonant bands in modern rock.\n\nBorn Abraham Cunningham on July 27, 1973, in Sacramento, California, he co-founded Deftones in 1988 as a teenager. While his classmates were studying for exams, Abe was developing a style that would help define alternative metal's atmospheric approach.\n\nWhat makes Abe Cunningham unique isn't complexity — it's restraint. His drumming breathes. It builds. It knows when to explode and when to whisper. On a song like \"Digital Bath,\" his playing is the tide — rising and falling with the emotional arc, never overwhelming, always essential.\n\nDeftones' Grammy win for \"Elite\" in 2001 validated what fans already knew: this band operated on a different level. And at the center of it all, Abe has remained a constant — the same founding member who started playing with Chino Moreno and Stephen Carpenter in their Sacramento high school.\n\nNine studio albums. Multiple platinum certifications. Millions of devoted fans. And through it all, a drummer who values groove over flash, emotion over technique, and serving the song above all else. This is his gear.",
       "keyPoints": [
         "Tama Starclassic Maple/Bubinga endorsee since 1997 with a straightforward, groove-focused setup",
-        "Zildjian cymbal artist with signature drumsticks",
+        "Zildjian cymbal artist, Pro-Mark sticks since 1997",
         "Founding member of Deftones since 1988 (age 15)",
         "Grammy Award winner for \"Elite\" (2001)",
         "Known for groove-focused, dynamic playing style",
@@ -154,10 +154,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Zildjian",
-          "model": "Zildjian Abe Cunningham Artist Series",
-          "notes": "Custom design for his playing style",
-          "description": "Abe's signature sticks are designed for his specific feel — balanced weight for groove playing with enough heft for power when needed. The custom tip shape provides his preferred cymbal articulation."
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark (non-signature)",
+          "notes": "Abe's sticks of choice since 1997",
+          "description": "Abe has played Pro-Mark sticks, non-signature, since 1997 — a standard model chosen for balanced weight for groove playing with enough heft for power when needed."
         }
       ],
       "heads": {
@@ -277,10 +277,10 @@ export const articles = {
           "notes": "Punchy, cutting matching snare"
         },
         {
-          "item": "Zildjian Abe Cunningham Signature Sticks",
+          "item": "Pro-Mark Drumsticks",
           "available": true,
           "priceRange": "$12-16 per pair",
-          "notes": "Custom design for groove playing"
+          "notes": "Abe's sticks of choice since 1997"
         },
         {
           "item": "Zildjian A New Beat Hi-Hats (14\")",
@@ -517,10 +517,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Zildjian",
-          "model": "Zildjian 5A (or similar)",
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark (non-signature)",
           "notes": "Standard weight, wood tip",
-          "description": "Abe has since developed signature sticks, but during the White Pony era he used standard models that offered balance between finesse and power."
+          "description": "Abe has played Pro-Mark sticks since 1997 with no signature deal; during the White Pony era he used the same standard models that offered balance between finesse and power."
         }
       ],
       "heads": {
@@ -736,10 +736,10 @@ export const articles = {
           "notes": "Dry, complex ride; essential to White Pony's textured cymbal work"
         },
         {
-          "item": "Zildjian Abe Cunningham Artist Series Sticks",
+          "item": "Pro-Mark Drumsticks",
           "available": true,
           "priceRange": "$12-15 per pair",
-          "notes": "Abe's signature stick design"
+          "notes": "Abe's sticks of choice since 1997"
         },
         {
           "item": "Tama Iron Cobra Pedals",
@@ -933,9 +933,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Signature / 5B-equivalent",
-          "notes": "Standard weight, wood tip — Abe is a longtime Vic Firth player"
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark (non-signature)",
+          "notes": "Standard weight, wood tip — Abe's sticks of choice since 1997"
         }
       ],
       "heads": {
@@ -1141,10 +1141,10 @@ export const articles = {
           "notes": "Abe's pedal of choice for single-kick work"
         },
         {
-          "item": "Vic Firth Signature Sticks",
+          "item": "Pro-Mark Drumsticks",
           "available": true,
           "priceRange": "$12-15 per pair",
-          "notes": "Abe is a longtime Vic Firth player"
+          "notes": "Abe's sticks of choice since 1997"
         }
       ]
     },
@@ -1332,9 +1332,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Signature / 5B-equivalent",
-          "notes": "Standard weight, wood tip — Abe is a longtime Vic Firth player"
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark (non-signature)",
+          "notes": "Standard weight, wood tip — Abe's sticks of choice since 1997"
         }
       ],
       "heads": {
@@ -1539,10 +1539,10 @@ export const articles = {
           "notes": "Abe's pedal of choice for single-kick work"
         },
         {
-          "item": "Vic Firth Signature Sticks",
+          "item": "Pro-Mark Drumsticks",
           "available": true,
           "priceRange": "$12-15 per pair",
-          "notes": "Abe is a longtime Vic Firth player"
+          "notes": "Abe's sticks of choice since 1997"
         }
       ]
     },
@@ -1729,8 +1729,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Zildjian",
-          "model": "Zildjian 5A",
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark (non-signature)",
           "notes": "Standard weight, wood tip for balance of finesse and power"
         }
       ],
@@ -2247,9 +2247,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Zildjian",
-          "model": "Zildjian 5A / Artist Series",
-          "notes": "Standard weight; transitioning toward signature models"
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark (non-signature)",
+          "notes": "Standard weight; no signature deal, as with his sticks throughout his career"
         }
       ],
       "heads": {
@@ -2762,8 +2762,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Zildjian",
-          "model": "Zildjian 5A / Artist Series",
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark (non-signature)",
           "notes": "Standard weight with wood tip for balanced attack"
         }
       ],
@@ -3309,9 +3309,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Zildjian",
-          "model": "Zildjian Abe Cunningham Artist Series",
-          "notes": "Custom-designed signature sticks for his specific balance and tip preferences"
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark (non-signature)",
+          "notes": "Standard model Abe has played since 1997; no signature deal"
         }
       ],
       "heads": {
@@ -3433,7 +3433,7 @@ export const articles = {
           "drums": "Tama Starclassic Maple/Bubinga",
           "snare": "Tama S.L.P. Big Black Steel 14\"x8\"",
           "cymbals": "Zildjian K Custom / A Custom",
-          "hardware": "Tama Speed Cobra; Zildjian Abe Cunningham signature sticks"
+          "hardware": "Tama Speed Cobra; Pro-Mark sticks (non-signature, since 1997)"
         },
         "notes": "Deftones' most recent album; closes arc to the present day."
       }
@@ -3507,10 +3507,10 @@ export const articles = {
           "notes": "Smooth, responsive single-kick action"
         },
         {
-          "item": "Zildjian Abe Cunningham Artist Series Sticks",
+          "item": "Pro-Mark Drumsticks",
           "available": true,
           "priceRange": "$12-16 per pair",
-          "notes": "Custom-designed for his specific balance and tip preferences"
+          "notes": "Abe's sticks of choice since 1997"
         }
       ]
     },
@@ -3843,9 +3843,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Signature / 5B-equivalent",
-          "notes": "Standard weight, wood tip — Abe's longtime stick of choice through this era"
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark (non-signature)",
+          "notes": "Standard weight, wood tip — Abe's sticks of choice since 1997"
         }
       ],
       "heads": {
@@ -3956,7 +3956,7 @@ export const articles = {
           "drums": "Tama Starclassic Maple/Bubinga",
           "snare": "Tama S.L.P. Big Black Steel 14\"x8\"",
           "cymbals": "Zildjian K Custom / A Custom",
-          "hardware": "Tama Speed Cobra; Zildjian Abe Cunningham signature sticks"
+          "hardware": "Tama Speed Cobra; Pro-Mark sticks (non-signature, since 1997)"
         },
         "notes": "Deftones' most recent album as of this writing."
       }
@@ -4024,10 +4024,10 @@ export const articles = {
           "notes": "Abe's pedal of choice for single-kick work"
         },
         {
-          "item": "Vic Firth Signature Sticks",
+          "item": "Pro-Mark Drumsticks",
           "available": true,
           "priceRange": "$12-15 per pair",
-          "notes": "Abe's stick of choice through the Gore era"
+          "notes": "Abe's sticks of choice since 1997"
         }
       ]
     },

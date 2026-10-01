@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-01 00:37 UTC*
 
 ---
+## 2026-10-01 06:24 — Cheap pulse: 8 fresh fabrication proposals verified+promoted (#8419-8426), 2 w/ scope-gap comments
+
+### Context (≤3 lines)
+06:24 UTC cheap pulse (before the 07:00 deep-run boundary). Metrics 06:21 UTC (326 users/374 sessions/568 views 7d; GSC 8,385 impr/148 clicks/1.77% CTR/pos 7.5; content-gap filter re-flagged `arin ilejay` 638 impr/0% CTR/pos 12.1, same standing query). At run start: eligible `ai-fix` backlog **0** (all 20 open `ai-fix` are the frozen roster/band `hold` splits), 8 fresh untriaged `seo-proposal` (#8419-8426, filed 01:39-01:40 UTC) continuing the gear-fabrication sweep across genreGearGuides.js/albumArticles/licks.
+
+### Actions taken
+- **Live-verified all 8 via subagent** (grep against current source + `endorsementNews.js` ground-truth quote check + cross-file scope sweep + dupe-check via `gh issue list --search`). 6 clean (#8421 Flo Mounier, #8422 Arin Ilejay, #8423 Ben Koller, #8424/#8425 Mario Duplantier, #8426 Paul Mazurkiewicz), promoted as-is. 2 needed same-file scope comments before promoting: **#8419** (Matt Halpern genreGearGuides.js — issue cited 2 lines, file actually has ~8 more Vic Firth/Matt Halpern fabrication sites at 87670/87707/87767/87775/87798/88035/88088/88111) and **#8420** (Matt Halpern albumArticles/matt-halpern.js — issue cited only the Aliens section, file has ~12 more hits including a Periphery II block at 450-451 that #7444 missed when it fixed Periphery III). Posted scope-gap comments on both, then promoted all 8 (`ai-fix`).
+- **#8422 (Arin Ilejay) deep-checked given its history** of repeated scope-gap re-filings (#8176/#8177/#8353/#8362 all closed as "missed a file") — this time confirmed clean: albumArticles, drummerComparisons, soundLikeGuides for this drummer already correctly say Promark 5B, so prior fixes fully closed those files and only licks/arin-ilejay.js still had the fabrication.
+- **Two minor adjacent findings noted but NOT filed as issues** (single-line, different-file, below the threshold that warranted dedicated follow-ups in past runs like #8380-8382): `drummerComparisons.js:4391` has a stray "Vater 5B" for Ben Koller outside #8423's file scope; `api/drummers/index.js:2913` Paul Mazurkiewicz `kitOverview` prose still says "Pearl Demon Drive Double Pedal" + plain "Vic Firth 5B" (should be Eliminator + his signature Vic Firth per endorsementNews.js), not covered by #7649 (which only fixed the cymbals field there) or #8426 (targets licks/, not api/drummers/index.js). Left for the SEO Agent's sweep to surface naturally, consistent with the pattern where adjacent fabrication sites keep showing up as their own proposals (e.g. #8353/#8362 for Arin Ilejay).
+- **GSC content-gap**: `arin ilejay` re-flagged, matched again to the standing class-2 bare-name/bio-intent ruling (`learned-patterns.md` ~line 205/211) — searcher wants biography, Wikipedia/Metal-Archives structurally outrank a gear-focused page. No new fix filed, consistent with every prior run flagging this query since 2026-09-27.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all unchanged, no re-spam.
+- **Atomic-split sweep**: all 20 open `ai-fix` with `hold` are the standing frozen roster/band splits (new-page freeze); the 8 freshly promoted (#8419-8426) are brand new. Nothing eligible to split.
+- **Starvation check**: post-triage backlog 8, untriaged bank 0 — trips the trigger shape (backlog <15, bank ≤2). Checked `gh run list --workflow=seo-agent.yml`: runs land roughly every 6h (01:23→07:10→13:08→19:03→01:31 pattern), last run 01:31 UTC produced exactly this 8-issue batch, next run due ~07:10 UTC — under an hour away. Same artifact as every prior occurrence this week. Not escalating.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-09-28 (closed out in the 09-28 22:57 evening entry). Next weekly refresh due ~2026-10-05 — not due.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#8419-8426 promoted, 2 with scope-gap comments)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, held #7981/#8390): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified against source, all promoted (2 with scope-gap comments). ✅ Founder ideas: inbox empty. ✅ GSC-gap: `arin ilejay` matched to standing ruling, no new fix needed. ✅ L1/L2/L3: not due, already closed out last week. ✅ Starvation: trigger shape met but confirmed non-event via run-history cadence check. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8419-8426 pick up via Roadie; confirm #8419/#8420 PRs cover the scope-gap comments, not just the original 2-3 cited lines.
+2. Watch the ~07:10 UTC SEO Agent run — if its proposal count stays in the 6-8/run range, the fabrication sweep is still healthy; if it drops to 0-1, re-run the starvation playbook for real.
+3. Next L1/L2/L3 weekly refresh due ~2026-10-05 — full close-the-loop pass once it lands.
+4. #7981 (Derek Roddy snare conflict) and #8390 (Eloy Casagrande sticks oscillation) still held pending external verification — no action this run.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-10-01 00:37 — Cheap pulse: 6/6 fresh proposals verified and promoted (#8406-8410, #8412)
 
 ### Context (≤3 lines)

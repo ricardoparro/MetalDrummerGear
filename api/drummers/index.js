@@ -3030,17 +3030,17 @@ const drummers = [
     country: 'Sweden',
     image: '/images/drummers/daniel-erlandsson.webp',
     bio: 'Daniel Erlandsson (born May 22, 1976) is a Swedish drummer and founding member of melodic death metal band Arch Enemy, formed in 1995. His drumming combines Scandinavian death metal intensity with technical precision and musicality. He has also played with Eucharist, Carcass (live), and In Flames.',
-    kitOverview: 'Daniel Erlandsson plays a Pearl Reference Pure drum kit — a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy. The Daniel Erlandsson drum set is built around a Pearl Daniel Erlandsson Signature 14x5.5" snare, a thinner-shell signature model that delivers a fast, cracking response suited to his blend of Scandinavian death metal intensity and technical precision.\n\nPaiste\'s RUDE and 2002 Series cymbals shape the Daniel Erlandsson drum kit: 14" RUDE Hi-Hats for aggressive, cutting chick sounds; 18" and 19" RUDE Crashes for explosive accents; and a 22" RUDE Power Ride built to punch through Arch Enemy\'s dense, dual-guitar attack. A Pearl Demon Drive double pedal drives his rapid, precise double-bass patterns, giving Erlandsson the speed and control heard across decades of Arch Enemy recordings and tours.\n\nVic Firth American Classic 5B sticks and Evans heads round out the rig, favored for durability under his hard-hitting, high-tempo playing. The Daniel Erlandsson drum set has remained tied to this Pearl/Paiste configuration throughout his work with Arch Enemy and his side project Brujeria, alongside earlier stints with Eucharist and live work with Carcass and In Flames.',
+    kitOverview: 'Daniel Erlandsson plays a Pearl Reference Pure drum kit — a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy, built around a matching Reference Pure snare that delivers a fast, cracking response suited to his blend of Scandinavian death metal intensity and technical precision.\n\nSabian\'s AAX / HHX Series cymbals shape the Daniel Erlandsson drum kit, built to punch through Arch Enemy\'s dense, dual-guitar attack. A Pearl Eliminator Double Bass Pedal drives his rapid, precise double-bass patterns, giving Erlandsson the speed and control heard across decades of Arch Enemy recordings and tours.\n\nProMark 5B sticks and Remo heads round out the rig, favored for durability under his hard-hitting, high-tempo playing. The Daniel Erlandsson drum set has remained tied to this Pearl/Sabian configuration throughout his work with Arch Enemy and his side project Brujeria, alongside earlier stints with Eucharist and live work with Carcass and In Flames.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Daniel_Erlandsson',
       'https://www.discogs.com/artist/276769-Daniel-Erlandsson'
     ],
     gear: {
       drums: 'Pearl Reference Pure',
-      snare: 'Pearl Daniel Erlandsson Signature 14x5.5"',
-      cymbals: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride)',
-      hardware: 'Pearl Demon Drive Double Pedal',
-      sticks: 'Vic Firth American Classic 5B',
+      snare: 'Pearl Reference Pure',
+      cymbals: 'Sabian AAX / HHX Series',
+      hardware: 'Pearl Eliminator Double Bass Pedal',
+      sticks: 'ProMark 5B',
       heads: 'Remo',
       verified: true,
       sources: ['https://en.wikipedia.org/wiki/Daniel_Erlandsson']

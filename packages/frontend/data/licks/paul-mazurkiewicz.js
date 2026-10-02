@@ -40,7 +40,7 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Reference Kit", "type": "drums", "link": null },
-      { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Meinl Classics Custom / Byzance Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Eliminator Double Bass Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Paul Mazurkiewicz Signature", "type": "sticks", "link": null }
     ],
@@ -101,7 +101,7 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Reference Kit", "type": "drums", "link": null },
-      { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Meinl Classics Custom / Byzance Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Eliminator Double Bass Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Paul Mazurkiewicz Signature", "type": "sticks", "link": null }
     ],
@@ -162,7 +162,7 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Reference Kit", "type": "drums", "link": null },
-      { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Meinl Classics Custom / Byzance Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Eliminator Double Bass Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Paul Mazurkiewicz Signature", "type": "sticks", "link": null }
     ],

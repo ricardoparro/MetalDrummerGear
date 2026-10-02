@@ -41,7 +41,6 @@ export const licks = {
     "gearUsed": [
       { "name": "Yamaha Recording Custom Kit", "type": "drums", "link": null },
       { "name": "Zildjian ZXT Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -101,7 +100,6 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Masters Maple Kit", "type": "drums", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -156,7 +154,6 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       { "name": "Pearl Masters Maple Kit", "type": "drums", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -211,7 +208,6 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       { "name": "Pearl Masters Maple Kit", "type": "drums", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -266,7 +262,6 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       { "name": "Pearl Masters Maple Kit", "type": "drums", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -326,7 +321,6 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Masters Maple Kit", "type": "drums", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
     ],
     "learningTips": [

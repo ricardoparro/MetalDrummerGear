@@ -1612,12 +1612,12 @@ const drummers = [
       'https://www.allmusic.com/artist/arin-ilejay-mn0002963117'
     ],
     gear: {
-      drums: 'Mapex Saturn Series',
-      snare: 'Mapex Black Panther 14x6.5"',
+      drums: "DW Collector's Series",
+      snare: "DW Collector's Series",
       cymbals: 'Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China)',
-      hardware: 'Mapex Falcon Double Pedal, Mapex T865 Throne',
-      sticks: 'Vic Firth American Classic 5A',
-      heads: 'Evans',
+      hardware: 'DW 9000 Series Double Pedal',
+      sticks: 'Promark 5B',
+      heads: 'Remo',
       verified: false,
       notes: 'Gear from A7X era (2011-2015)'
     },

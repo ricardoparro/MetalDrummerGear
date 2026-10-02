@@ -1919,18 +1919,18 @@ const drummers = [
     country: 'UK',
     image: '/images/drummers/bill-ward.webp',
     bio: 'Bill Ward (born May 5, 1948) is an English drummer and co-founder of Black Sabbath, one of the most influential bands in heavy metal history. Alongside Ozzy Osbourne, Tony Iommi, and Geezer Butler, Ward helped create the template for heavy metal drumming. His jazz-influenced style, combining swing with power, set him apart from other rock drummers of the era. He played on all eight classic Ozzy-era Sabbath albums, including groundbreaking records like Paranoid (1970) and Master of Reality (1971). Ward\'s influences include jazz greats Gene Krupa, Buddy Rich, and John Bonham. He also sang lead on the ballad "It\'s Alright" from Technical Ecstasy.',
-    kitOverview: 'Bill Ward played Ludwig drum kits through Black Sabbath\'s classic era — the foundational setup behind some of the heaviest records of the 1970s. On landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), Ward used a Ludwig Super Classic drum kit paired with Paiste 2002 and Giant Beat cymbals, favoring a raw, swinging feel that defined early heavy metal\'s rhythmic DNA. His Ludwig Supraphonic 14x6.5" LM402 snare delivered the sharp crack anchoring tracks like "Iron Man," "War Pigs," and "Symptom of the Universe."\n\nThe Bill Ward drum set typically centered on a 22" bass drum, 13" and 16" toms, and Paiste\'s massive 24" 2002 Ride — one of the largest ride cymbals in classic rock — alongside 15" Giant Beat Hi-Hats and 18" and 20" crashes that gave his kit an open, resonant character. Ward\'s jazz-influenced grip and open playing style, shaped by heroes Gene Krupa and Buddy Rich, emphasized feel and swing over technical precision. As of Never Say Die! (1978), Ward\'s Ludwig drum kit and Paiste cymbal configuration remained the defining sound of Black Sabbath\'s classic lineup.',
+    kitOverview: 'Bill Ward played Ludwig drum kits through Black Sabbath\'s classic era — the foundational setup behind some of the heaviest records of the 1970s. On landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), Ward used a Ludwig Standard / Club Date Series drum kit paired with Zildjian Avedis cymbals, favoring a raw, swinging feel that defined early heavy metal\'s rhythmic DNA. His Ludwig Supraphonic 14x6.5" LM402 snare delivered the sharp crack anchoring tracks like "Iron Man," "War Pigs," and "Symptom of the Universe."\n\nThe Bill Ward drum set typically centered on a 22" bass drum, 13" and 16" toms, driven by a Ludwig Speed King pedal that powered his jazz-influenced feel. Ward\'s open playing style, shaped by heroes Gene Krupa and Buddy Rich, emphasized swing over technical precision, rounded out by Pro-Mark sticks. As of Never Say Die! (1978), Ward\'s Ludwig drum kit and Zildjian Avedis cymbal setup remained the defining sound of Black Sabbath\'s classic lineup.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Bill_Ward_(musician)',
       'https://www.discogs.com/artist/255466-Bill-Ward',
       'https://www.allmusic.com/artist/bill-ward-mn0000136139'
     ],
     gear: {
-      drums: 'Ludwig Classic Maple',
+      drums: 'Ludwig Standard / Club Date Series',
       snare: 'Ludwig Supraphonic 14x6.5" LM402',
-      cymbals: 'Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China)',
-      hardware: 'Ludwig Atlas Pro Double Pedal, Ludwig Throne',
-      sticks: 'Vic Firth American Classic 2B',
+      cymbals: 'Zildjian Avedis Series',
+      hardware: 'Ludwig Speed King Pedal',
+      sticks: 'Pro-Mark Standard 5A/5B equivalent',
       heads: 'Remo',
       verified: true,
       verifiedAt: '2026-02-02',
@@ -1941,8 +1941,8 @@ const drummers = [
     ],
     endorsements: [
       { name: 'Ludwig Drums', url: 'https://www.ludwig-drums.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'ProMark Sticks', url: 'https://www.daddario.com/promark' },
       { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [

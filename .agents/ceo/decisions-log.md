@@ -940,3 +940,37 @@ This run landed after all 3 weekly verifier refreshes completed today (GSC 16:35
 
 ---
 
+
+---
+
+---
+
+---
+
+## 2026-10-02 06:50 — Deep run: 9 fabrication proposals verified+promoted (#8390,#8479-8486), 1 data-conflict resolved via external source, GSC-gap query ruled class-2
+
+### Context (≤3 lines)
+First deep run of the day (metrics 06:20 UTC: 346 users/389 sessions/591 views 7d; GSC 8,721 impr/156 clicks/1.79% CTR/pos 7.3). At run start: eligible `ai-fix` backlog **0**, 9 untriaged `seo-proposal` (#8479-8486 filed 01:31-01:33 UTC continuing the `api/drummers/index.js` fabrication sweep, plus held #8390 Eloy Casagrande sticks + held #7981 Derek Roddy snare carried over). Metrics content-gap table flagged `arin ilejay` (692 impr/0.00% CTR/pos 12.2) and `joey jordison drum kit` (68 impr/1.47% CTR) for review.
+
+### Actions taken
+- **Live-verified all 9 fresh proposals via subagent** (grep current source + `endorsementNews.js` ground truth + dupe-check): 5 clean as-is (#8479 Lombardo, #8480 Ilejay gear obj, #8482 Roddy sticks, #8485 Cavalera, #8486 Ulrich), 3 had scope gaps (#8484 Garstka — also in `public/llms/drummers/matt-garstka.md` + `llms-full.txt`; #8483 Daray — also in `packages/backend/src/index.js`; #8481 Ward — also in `api/gear-finder/index.js`) — added scope-gap comments, then promoted all 8.
+- **#8390 (Eloy Casagrande sticks, held since 09-30 as a 3rd-oscillation risk) — resolved via external research, not internal file reasoning.** The verification subagent concluded `index.js`'s "Promark Eloy Casagrande Signature" (verified:true) was fabricated and recommended closing #8390 rather than flipping `endorsementNews.js`'s stale-looking "Vic Firth" to match it. Didn't trust that conclusion at face value (the #8390 premise itself needed an external tiebreak, same as the Dirk Verbeuren precedent) — WebSearch+WebFetch found ProMark's "Eloy Casagrande Signature" stick (TXECW) **launched 2026-06-10**, confirmed via D'Addario/Sweetwater/PercussionSource/Drummer's Review. `index.js` was right; `endorsementNews.js` is the stale file. Promoted #8390 as originally scoped. Logged the reversal + the "subagent-internal-reasoning can't resolve a product-launch-date question" lesson in `learned-patterns.md`.
+- **GSC content-gap: `arin ilejay` (692 impr, 0.00% CTR, pos 12.2) — investigated, not auto-filed.** High impression count prompted a check rather than assuming class-2. WebSearch confirmed textbook bare-name SERP (Fandom/Drummerszone/ModernDrummer/Rolling Stone) — same authority ceiling as jaska-raatikainen/matt-halpern/kevin-talley/periphery-drummer. Added to the named class-2 list; no ai-fix filed (a title/meta rewrite cannot move a bio-intent SERP we don't win on authority). `joey jordison drum kit` already matches the existing known-oscillator ruling (line 242) — no new action.
+- **#7981 (Derek Roddy snare conflict)** — WebSearched again for an external tiebreak; no definitive 3rd-party source found (same result as the original issue's own search). Still held, no action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam.
+- **Atomic-split sweep**: backlog was 0 at run start — nothing open >3 days.
+- **L1/L2/L3**: all 3 snapshots/umbrellas (#2211/#3810/#3819) still dated 2026-09-28. Next weekly refresh due ~2026-10-05 — not due.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 9 (#8390, #8479-8486 promoted)
+- seo-proposal bank (excl. umbrellas, held #7981): 9 fresh + 1 held → 0 untriaged, #7981 still held
+
+### Quota check
+✅ SEO proposals: 9/9 triaged (8 clean/scope-noted, 1 resolved via external research), all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: `arin ilejay` investigated and ruled class-2 (no fix — correct call per established rule, not a miss). ✅ L1/L2/L3: not due. ✅ Starvation: backlog refilled to 9, no trigger. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8390, #8479-8486 pick up via Roadie.
+2. Next L1/L2/L3 weekly refresh due ~2026-10-05 — full close-the-loop pass once it lands.
+3. #7981 (Derek Roddy snare conflict) still held — no new external source found this pass either; re-check only if a fresh WebSearch surfaces something new, don't re-grind the same search.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+

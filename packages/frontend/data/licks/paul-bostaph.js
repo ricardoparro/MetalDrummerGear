@@ -56,7 +56,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Vic Firth American Classic 5B",
+        "name": "Vater Power 5B",
         "type": "sticks",
         "link": null
       }
@@ -126,11 +126,6 @@ export const licks = {
       {
         "name": "Paiste 2002 Series Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Vic Firth American Classic 5B",
-        "type": "sticks",
         "link": null
       }
     ],
@@ -207,7 +202,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Vic Firth American Classic 5B",
+        "name": "Vater Power 5B",
         "type": "sticks",
         "link": null
       }

@@ -135,7 +135,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/joey-jordison.webp',
     bio: 'Joey Jordison (1975-2021) was an American musician best known as the original drummer of Slipknot. His blistering speed, technical precision, and theatrical stage presence made him one of the most influential metal drummers of his generation. He also played guitar for Murderdolls and drums for various other projects.',
-    kitOverview: 'Joey Jordison built his legendary Slipknot sound on a Tama Starclassic Performer kit configured with a 22" bass drum and 12", 13", and 16" toms, paired with his signature Pearl 13x6.5" snare. His Paiste RUDE and 2002 Series cymbals — Wild Hi-Hats, Power Crashes, and Wild China cymbals — gave him the aggressive cut needed for the Iowa era\'s brutal performances. Axis A Longboard double pedals powered his extreme double kick technique on Slipknot\'s rotating drum riser.',
+    kitOverview: 'Joey Jordison built his legendary Slipknot sound on a Pearl Reference Series kit, paired with his signature Pearl Joey Jordison Signature 13x6.5" snare — the cutting, aggressive tone heard across the Iowa and All Hope Is Gone eras. His Paiste RUDE and 2002 Series cymbals — Wild Hi-Hats, Power Crashes, and Wild China cymbals — gave him the aggressive cut needed for Slipknot\'s brutal performances. A Pearl Demon Drive double pedal powered his extreme double kick technique on Slipknot\'s rotating drum riser, with Promark Joey Jordison Signature TX515W sticks and Evans heads completing the rig.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Joey_Jordison',
       'https://www.discogs.com/artist/355738-Joey-Jordison',
@@ -250,26 +250,22 @@ const drummers = [
     ],
     // Detailed kit specs for GSC keyword targeting (Issue #1261)
     kitSpecs: [
-      { label: 'Kit (Primary Slipknot Era)', value: 'Tama Starclassic Performer' },
-      { label: 'Bass Drum', value: '22"' },
-      { label: 'Rack Toms', value: '12", 13"' },
-      { label: 'Floor Tom', value: '16"' },
+      { label: 'Kit', value: 'Pearl Reference Series' },
       { label: 'Snare', value: 'Pearl Joey Jordison Signature 13"×6.5"' },
-      { label: 'Cymbals', value: 'Sabian HHX Evolution 14" hi-hats; Sabian AAX Stage 16" & 18" crashes; Sabian AAX Stage 21" ride' },
-      { label: 'Bass Pedals', value: 'Axis A Longboard double bass drum pedals' },
-      { label: 'Drum Heads', value: 'Remo Ambassador Coated (batter)' },
-      { label: 'Sticks', value: 'Vic Firth 5B nylon tip' },
-      { label: 'Kit (Later Career)', value: 'Pearl Reference Pure' }
+      { label: 'Cymbals', value: 'Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16"-19" Power Crashes, 20"/22" Wild Chinas, 22" Power Ride)' },
+      { label: 'Bass Pedals', value: 'Pearl Demon Drive Double Pedal' },
+      { label: 'Drum Heads', value: 'Evans' },
+      { label: 'Sticks', value: 'Promark Joey Jordison Signature TX515W' }
     ],
     // Exact-match FAQ items for top GSC queries (Issue #1261)
     faq: [
       {
         q: 'What drum set did Joey Jordison use?',
-        a: 'Joey Jordison used a Tama Starclassic Performer drum set during his primary Slipknot era, configured with a 22" bass drum and 12", 13", and 16" toms. His snare was the Pearl Joey Jordison Signature 13"×6.5". He later transitioned to a Pearl Reference Pure kit for post-Slipknot projects.'
+        a: 'Joey Jordison used a Pearl Reference Series drum kit, with his snare being the Pearl Joey Jordison Signature 13"×6.5". Paiste RUDE & 2002 Series cymbals and a Pearl Demon Drive double pedal completed his signature rig.'
       },
       {
         q: "What was Joey Jordison's drum kit?",
-        a: "Joey Jordison's drum kit during his peak Slipknot era was a Tama Starclassic Performer (22\" BD, 12\"/13\"/16\" toms) with a Pearl Joey Jordison Signature 13\"×6.5\" snare. Axis A Longboard double bass pedals powered his extreme blast beats, and Remo Ambassador Coated heads were fitted on the batter side."
+        a: "Joey Jordison's drum kit was a Pearl Reference Series kit with a Pearl Joey Jordison Signature 13\"×6.5\" snare. A Pearl Demon Drive double pedal powered his extreme blast beats, and Evans heads were fitted on the batter side."
       },
       {
         q: "What drum kit did Joey Jordison use?",
@@ -277,11 +273,11 @@ const drummers = [
       },
       {
         q: 'What cymbals did Joey Jordison use?',
-        a: 'Joey Jordison used Sabian HHX Evolution 14" hi-hats, Sabian AAX Stage crashes (16" and 18"), and a Sabian AAX Stage 21" ride cymbal. During the Iowa era he also employed Paiste RUDE and 2002 series cymbals known for their aggressive cut and extreme durability.'
+        a: 'Joey Jordison used Paiste RUDE and 2002 Series cymbals: 14" Wild Hi-Hats, 16"-19" Power Crashes, 20" & 22" Wild Chinas, and a 22" Power Ride — known for their aggressive cut and extreme durability.'
       },
       {
         q: 'What bass drum pedals did Joey Jordison use?',
-        a: 'Joey Jordison used Axis A Longboard double bass drum pedals. The long footboard design gave him the leverage and speed required for his extreme double kick patterns and the blast beats he performed live on Slipknot\'s rotating drum riser.'
+        a: 'Joey Jordison used a Pearl Demon Drive double bass drum pedal. Its chain-drive design gave him the leverage and speed required for his extreme double kick patterns and the blast beats he performed live on Slipknot\'s rotating drum riser.'
       },
       {
         q: 'What instruments did Joey Jordison play?',
@@ -289,7 +285,7 @@ const drummers = [
       },
       {
         q: "What kit did Joey Jordison use?",
-        a: "Joey Jordison's kit was a Tama Starclassic Performer (22\" BD, 12\"/13\"/16\" toms) early on, moving to Pearl MasterWorks during the Iowa era and a Pearl Reference Series kit for All Hope Is Gone. Every era kept his Pearl Joey Jordison Signature 13\"×6.5\" snare and Paiste RUDE cymbals."
+        a: "Joey Jordison's kit was a Pearl MasterWorks Series during the Iowa era, moving to a Pearl Reference Series kit for All Hope Is Gone. Every era kept his Pearl Joey Jordison Signature 13\"×6.5\" snare and Paiste RUDE cymbals."
       }
     ]
   },

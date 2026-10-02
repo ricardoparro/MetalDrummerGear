@@ -10969,3 +10969,33 @@ All 3 filed issues dedup-checked via `gh issue list --state all --search` with f
 2. If #8508 (detector infra fix) ships, run it fresh next time instead of another manual `api/drummers/index.js` full-roster pass — that manual exercise is now genuinely exhausted for `kitOverview`/`kitSpecs`/`faq`/`gear`-object-vs-`gearTimeline` bugs across the full 72-entry roster (only the 4 `gearTimeline`-bearing entries + 2 `kitSpecs`/`faq`-bearing entries existed to check, and both groups are now fully covered).
 3. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings — no new fix.
 4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-02 19:03 (cheap pulse #2) — detector false-positive audit + 4 verified proposals filed (#8518, #8520-8522)
+
+### Context
+Bank check: 7 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 + 3 already `ai-fix`-labeled #8506-8508, promoted by the 18:15 cheap pulse) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 19:03 UTC (385 users/433 sessions/654 views 7d; GSC 8,721 impr/156 clicks/1.79% CTR/pos 7.3 — unchanged since this morning). Content-gap: `joey jordison drum kit` and `arin ilejay` both already ruled class-2/known-oscillator (`learned-patterns.md` lines 205/242/250) — no new action. Audit: robots.txt 8/8 AI crawlers allowed; 2,016 `/llms/*.md` files live; not Monday — drum-chair watch skipped.
+
+### Method
+Ran `node scripts/verify-gear-consistency.cjs` fresh — 29 raw mismatches. Rather than file-by-file whack-a-mole, personally traced each against `endorsementNews.js`'s *full* timeline (not just `currentEndorsements`) before deciding real-vs-false. Result was unusual: **most of the 29 were detector false positives, not content bugs** — the newly-wired file types from #8361/#8508's coverage extension (`genreGearGuides.js`, `licks/*`, `albumArticles/*`) exposed detector gaps the existing skip-list didn't cover yet:
+- Known skip-list, reconfirmed: inferno hardware (3 locations, category-tagging miss, already documented), nick-menza hardware+sticks (2 locations, `endorsementNews.js:2944-46` has an explicit "not resolving this gap, flagging rather than guessing" maintainer comment — already ruled NOT-a-bug 2026-09-28), eloy-casagrande sticks (albumArticles:864, duplicate of today's #8506, already filed).
+- pete-sandoval sticks (albumArticles:1013) — pure formatting false positive ("Pro-Mark" vs ground truth "Promark", same brand).
+- **3 new false-positive classes found and root-caused** (not just skipped — filed as a detector fix, #8518): (1) `SIGNATURE`-type timeline entries' `brand` field is never read into the historical map (only `from`/`to` are), so era-accurate signature-stick mentions in licks/albumArticles get flagged against the current-era brand — confirmed via aquiles-priester sticks (3 locations: his 2004 Vic Firth signature, documented in a `SIGNATURE`-type entry, flagged against his 2023+ ProMark). (2) `genreGearGuides.js`'s `gearType: 'hardware'` (stands/racks/thrones guides) is checked against the pedal-brand ground truth meant for `gearType: 'pedals'` — confirmed by reading the actual guide content (DW 9000 "Hardware Pack" = cymbal/hi-hat/snare stands, not a pedal) for tomas-haake/daray/hellhammer (4 locations). (3) electronic-trigger items tagged `"type": "hardware"` in source data (no better bucket exists) collide with the pedal-brand category — confirmed via raymond-herrera's "Drum triggers (DDrum/Roland)" correctly using `endorsementNews.js`'s real (but detector-unrecognized) `ELECTRONICS` category value.
+- jay-weinberg drums (albumArticles:913) — flagged the `snare` field (Tama SLP) against the `drumKit` brand (SJC); confirmed this is an intentional, well-documented mixed-brand setup (his own SEO keywords literally say "jay weinberg tama slp snare") — not a bug, flagged as a lower-priority note in #8518 rather than its own fix.
+- flo-mounier cymbals (licks:43, albumArticles:1762) and paul-bostaph cymbals (licks:127) — both era-accurate per `notes`-only historical mentions in `endorsementNews.js` (Zildjian ZXT / Paiste 2002 respectively) that the detector's structured `from`/`to` parser can't see. Same root cause as Class 1 above but for freeform notes rather than SIGNATURE entries — flagged in #8518 as context, not a 4th formal class (would need NLP to fix properly; not worth the complexity for a notes-text edge case).
+- **Genuinely confirmed, filed**: vinnie-paul pre-2008 pedal brand (genreGearGuides.js "Tama double pedal" × 16 locations across 3 guide families + albumArticles.js "Pearl Eliminator P-3000E" × 1 — zero `hardware`-category timeline entries exist in `endorsementNews.js` before his 2008 ddrum signing; WebSearched for an external source, found none, so filed as #8520 scoped to either-source-or-omit). tim-yeung hardware (albumArticles.js *Bleed the Fifth*, 2007) — asserts "DW 9002" 2 years after his documented since-2005 Tama Speed Cobra signing, no switch-away entry exists — filed #8521. flo-mounier hardware (albumArticles.js *The Unspoken King*, 2008) — asserts "DW 9002" with zero hardware-category ground truth at any era for this drummer — filed #8522.
+
+### Dedup notes
+All 4 filed issues dedup-checked via `gh issue list --state all --search` (drummer/file/brand keywords) before filing — no overlapping open or closed issue targets the exact fact for any of the 4. #8518 (detector fix) confirmed distinct in scope from the open #8508 (which extends coverage to `api/drummers/index.js`, not these false-positive classes).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8506-8508 (18:15 pulse, already `ai-fix`)
+- #8518, #8520-8522 (this run, 4 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 11 open `seo-proposal`.
+
+### Next run
+1. Watch #8518-8522 through CEO triage.
+2. Once #8518 ships, re-run `verify-gear-consistency.cjs` and confirm the 7 false-positive locations it named no longer surface — don't re-litigate them from scratch a 3rd time.
+3. Content-gap: both rows already ruled this week — no new action unless a snapshot shows a different query.
+4. Next drum-chair watch due Monday 2026-10-05, group 1.

@@ -2569,7 +2569,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/derek-roddy.webp',
     bio: 'Derek Roddy (born 1972) is an American drummer renowned for his extreme speed, technical proficiency, and endurance. He is considered one of the pioneers of modern extreme metal drumming. Roddy has performed with Hate Eternal, Nile, Aurora Borealis, Council of the Fallen, and Serpents Rise. His blast beats, one-footed bass drum techniques, and overall precision have influenced countless metal drummers. Beyond performing, Derek is a respected educator, having written instructional books and produced educational DVDs on extreme metal drumming techniques.',
-    kitOverview: 'Derek Roddy plays a Tama Starclassic Bubinga drum kit — a dense, bass-heavy shell pack built to handle the blistering blast beats and one-footed bass drum technique that made him one of the most respected extreme metal drummers of his generation. The Tama SLP Black Brass 14x6.5" snare at the core of the Derek Roddy drum set delivers a sharp, cutting crack engineered to stay audible through the technical density of his work with Hate Eternal, Nile, and Malevolent Creation.\n\nMeinl\'s Byzance and Mb20 Heavy cymbals define the Derek Roddy drum kit: 14" Byzance Heavy Hi-Hats for tight, controlled chops at extreme tempos; 18" and 19" Mb20 Heavy Crashes for explosive accents; a 21" Mb20 Heavy Ride for cutting through relentless double-kick runs; and an 18" Byzance China for abrupt punctuation. A Tama Speed Cobra 910 double pedal anchors the low end, giving Roddy the speed and stability behind his signature one-footed blast technique — a method he later taught through his own instructional books and DVDs.\n\nVic Firth Derek Roddy Signature sticks and Evans heads complete the setup, chosen for durability under his relentless attack. The Derek Roddy drum set has remained anchored to this Tama/Meinl configuration throughout stints with Hate Eternal (2000–2002, 2004–2005), Nile (2000–2002), and Aurora Borealis.',
+    kitOverview: 'Derek Roddy plays a Tama Starclassic Bubinga drum kit — a dense, bass-heavy shell pack built to handle the blistering blast beats and one-footed bass drum technique that made him one of the most respected extreme metal drummers of his generation. The Tama SLP Black Brass 14x6.5" snare at the core of the Derek Roddy drum set delivers a sharp, cutting crack engineered to stay audible through the technical density of his work with Hate Eternal, Nile, and Malevolent Creation.\n\nMeinl\'s Byzance and Mb20 Heavy cymbals define the Derek Roddy drum kit: 14" Byzance Heavy Hi-Hats for tight, controlled chops at extreme tempos; 18" and 19" Mb20 Heavy Crashes for explosive accents; a 21" Mb20 Heavy Ride for cutting through relentless double-kick runs; and an 18" Byzance China for abrupt punctuation. A Tama Speed Cobra 910 double pedal anchors the low end, giving Roddy the speed and stability behind his signature one-footed blast technique — a method he later taught through his own instructional books and DVDs.\n\nVater 5B sticks and Evans heads complete the setup, chosen for durability under his relentless attack. The Derek Roddy drum set has remained anchored to this Tama/Meinl configuration throughout stints with Hate Eternal (2000–2002, 2004–2005), Nile (2000–2002), and Aurora Borealis.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Derek_Roddy',
       'https://www.instagram.com/derekroddy/',
@@ -2581,7 +2581,7 @@ const drummers = [
       snare: 'Tama SLP Black Brass 14x6.5"',
       cymbals: 'Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China)',
       hardware: 'Tama Speed Cobra 910 Double Pedal',
-      sticks: 'Vater Player\'s Design Derek Roddy Model (VHDRW)',
+      sticks: 'Vater 5B',
       heads: 'Evans',
       verified: true,
       sources: ['https://www.tama.com/usa/artists/', 'https://meinlcymbals.com/en/artists']
@@ -2592,7 +2592,7 @@ const drummers = [
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [

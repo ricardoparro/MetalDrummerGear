@@ -377,7 +377,7 @@ export const ENDORSEMENT_TIMELINE = {
     currentEndorsements: {
       drums: { brand: 'Tama', since: '2010s' },
       cymbals: { brand: 'Paiste', model: '2002, Formula 602, Masters', since: '2005' },
-      sticks: { brand: 'Vic Firth', since: '2010s' },
+      sticks: { brand: 'Promark', model: 'Eloy Casagrande Signature', since: '2010s', signature: true },
       heads: { brand: 'Evans', since: '2010s' },
     },
     timeline: [

@@ -71,9 +71,9 @@ const drummers = [
         gear: {
           drums: 'Tama Artstar II',
           snare: 'Tama Bell Brass 14x6.5"',
-          cymbals: 'Zildjian Z Custom Series (14" Hi-Hats, 17" & 18" Crashes, 20" China, 22" Ride)',
+          cymbals: 'Zildjian A Series (14" Hi-Hats, 17" & 18" Crashes, 20" China, 22" Ride)',
           hardware: 'Tama Iron Cobra Double Pedal',
-          sticks: 'Zildjian Lars Ulrich Artist Series'
+          sticks: 'Regal Tip 5B'
         },
         notes: 'The Black Album era saw Lars adopt the tight, punchy drum sound that became his trademark.'
       },

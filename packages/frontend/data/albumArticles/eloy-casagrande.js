@@ -171,10 +171,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth",
-          "notes": "Long-running Vic Firth endorsement since the 2010s, carried from Sepultura into Slipknot",
-          "description": "Eloy has been a Vic Firth stick endorser since the 2010s, an endorsement that carried over unchanged from his Sepultura years into his Slipknot tenure."
+          "brand": "Promark",
+          "model": "Eloy Casagrande Signature",
+          "notes": "Long-running Promark endorsement since the 2010s, carried from Sepultura into Slipknot",
+          "description": "Eloy has been a Promark stick endorser since the 2010s, an endorsement that carried over unchanged from his Sepultura years into his Slipknot tenure."
         },
         {
           "type": "In-Ear Monitors",
@@ -276,7 +276,7 @@ export const articles = {
           "cymbals": "Full Paiste RUDE arsenal",
           "hardware": "Tama Speed Cobra"
         },
-        "notes": "Vic Firth stick endorsement. Modern Drummer recognition grows."
+        "notes": "Promark stick endorsement. Modern Drummer recognition grows."
       },
       {
         "era": "Slipknot Era",
@@ -387,7 +387,7 @@ export const articles = {
           "notes": "Rolling Glide cam for speed"
         },
         {
-          "item": "Vic Firth Drumsticks",
+          "item": "Promark Drumsticks",
           "available": true,
           "priceRange": "$12-15",
           "notes": "Eloy's long-running stick endorsement"
@@ -416,7 +416,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Right Drummer at the Right Time",
-      "content": "When Slipknot announced Eloy Casagrande as their new drummer in 2024, some fans wondered if anyone could fill the legacy left by Joey Jordison and Jay Weinberg. After two years of touring, the answer is clear: Eloy isn't just filling those shoes — he's walking his own path while honoring those who came before.\n\nHis gear choices reflect his philosophy: professional equipment built for reliability and projection, not exotic choices for their own sake. Tama Starclassic Bubinga drums because they deliver the attack and warmth needed for Slipknot's dense mix. Paiste RUDE cymbals because they're literally designed for aggressive, heavy hitting. Vic Firth sticks because he knows exactly what he needs.\n\nBut gear is just tools. What makes Eloy the right choice for Slipknot is harder to quantify:\n\n- **The pedigree**: 13 years with Sepultura proved he could handle legendary material\n- **The recognition**: Modern Drummer's #1 metal drummer ranking validates his peers' respect\n- **The adaptability**: He plays Joey's and Jay's parts with respect while adding his own flavor\n- **The hunger**: At 33, he's still ascending, still improving, still hungry\n- **The soul**: That Brazilian swing makes technical playing feel musical\n\nFor drummers studying Eloy's work, the lessons extend beyond gear specs:\n\n1. **Respect your predecessors**: Learn the original parts before adding your touch\n2. **Groove over flash**: Technical ability means nothing without feel\n3. **Conditioning matters**: Stadium shows require athletic preparation\n4. **Stay humble**: Even as #1 ranked, keep learning and growing\n5. **Bring yourself**: Your background and influences make you unique\n\nEloy Casagrande's journey from São Paulo to Slipknot's stage represents what's possible when talent meets opportunity meets preparation. He didn't just join one of metal's biggest bands — he proved he belongs there.\n\n🤘 *\"The mask doesn't change who you are — it reveals who you've always been.\"* 🤘"
+      "content": "When Slipknot announced Eloy Casagrande as their new drummer in 2024, some fans wondered if anyone could fill the legacy left by Joey Jordison and Jay Weinberg. After two years of touring, the answer is clear: Eloy isn't just filling those shoes — he's walking his own path while honoring those who came before.\n\nHis gear choices reflect his philosophy: professional equipment built for reliability and projection, not exotic choices for their own sake. Tama Starclassic Bubinga drums because they deliver the attack and warmth needed for Slipknot's dense mix. Paiste RUDE cymbals because they're literally designed for aggressive, heavy hitting. Promark sticks because he knows exactly what he needs.\n\nBut gear is just tools. What makes Eloy the right choice for Slipknot is harder to quantify:\n\n- **The pedigree**: 13 years with Sepultura proved he could handle legendary material\n- **The recognition**: Modern Drummer's #1 metal drummer ranking validates his peers' respect\n- **The adaptability**: He plays Joey's and Jay's parts with respect while adding his own flavor\n- **The hunger**: At 33, he's still ascending, still improving, still hungry\n- **The soul**: That Brazilian swing makes technical playing feel musical\n\nFor drummers studying Eloy's work, the lessons extend beyond gear specs:\n\n1. **Respect your predecessors**: Learn the original parts before adding your touch\n2. **Groove over flash**: Technical ability means nothing without feel\n3. **Conditioning matters**: Stadium shows require athletic preparation\n4. **Stay humble**: Even as #1 ranked, keep learning and growing\n5. **Bring yourself**: Your background and influences make you unique\n\nEloy Casagrande's journey from São Paulo to Slipknot's stage represents what's possible when talent meets opportunity meets preparation. He didn't just join one of metal's biggest bands — he proved he belongs there.\n\n🤘 *\"The mask doesn't change who you are — it reveals who you've always been.\"* 🤘"
     }
   },
   "machine-messiah-drum-setup": {
@@ -565,9 +565,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth",
-          "notes": "Vic Firth stick endorsement, carried throughout his Sepultura tenure"
+          "brand": "Promark",
+          "model": "Eloy Casagrande Signature",
+          "notes": "Promark stick endorsement, carried throughout his Sepultura tenure"
         }
       ],
       "heads": {
@@ -693,7 +693,7 @@ export const articles = {
       },
       {
         "question": "What is Eloy Casagrande's drum setup on Machine Messiah?",
-        "answer": "On Machine Messiah (2017), Eloy Casagrande's setup was: Tama Starclassic Walnut/Birch shells (twin 22\"x18\" bass drums, 10\"/12\"/14\" rack toms, 16\" floor tom); Paiste 2002/RUDE cymbals (14\" hi-hats, 16\" and 18\" crashes, 20\" ride, 18\" china); a Tama Iron Cobra 900 double pedal; Vic Firth sticks. Recorded at Fascination Street Studios, Örebro, Sweden with Jens Bogren producing."
+        "answer": "On Machine Messiah (2017), Eloy Casagrande's setup was: Tama Starclassic Walnut/Birch shells (twin 22\"x18\" bass drums, 10\"/12\"/14\" rack toms, 16\" floor tom); Paiste 2002/RUDE cymbals (14\" hi-hats, 16\" and 18\" crashes, 20\" ride, 18\" china); a Tama Iron Cobra 900 double pedal; Promark sticks. Recorded at Fascination Street Studios, Örebro, Sweden with Jens Bogren producing."
       },
       {
         "question": "How does Eloy's Machine Messiah setup compare to his Quadra setup?",
@@ -861,9 +861,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth",
-          "notes": "Eloy's long-running Vic Firth endorsement, unchanged from Machine Messiah"
+          "brand": "Promark",
+          "model": "Eloy Casagrande Signature",
+          "notes": "Eloy's long-running Promark endorsement, unchanged from Machine Messiah"
         }
       ],
       "heads": {
@@ -1175,9 +1175,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth",
-          "notes": "Eloy's Vic Firth endorsement, in place from the start of his Sepultura career"
+          "brand": "Promark",
+          "model": "Eloy Casagrande Signature",
+          "notes": "Eloy's Promark endorsement, in place from the start of his Sepultura career"
         }
       ],
       "heads": {

@@ -1875,7 +1875,7 @@ const drummers = [
     country: 'Brazil',
     image: '/images/drummers/igor-cavalera.webp',
     bio: 'Igor Cavalera (born September 4, 1970), also known as Iggor Cavalera, is a Brazilian drummer who co-founded the legendary metal band Sepultura with his brother Max in 1984. His drumming evolved from pure thrash metal speed to incorporating tribal and world music influences, particularly on groundbreaking albums like Chaos A.D. (1993) and Roots (1996). Known as a hard-hitting drummer with impeccable timing, he left Sepultura in 2006 and reunited with Max in Cavalera Conspiracy. He has since expanded into electronic music with DJ duo Mixhell and became one of three drummers in Soulwax. His influences include Dave Lombardo, Bill Ward, and Stewart Copeland.',
-    kitOverview: 'Igor Cavalera plays a Tama Starclassic Maple drum kit — the powerful, resonant configuration that anchored Sepultura\'s transformation from thrash metal aggression to tribal groove metal across landmark albums like Chaos A.D. (1993) and Roots (1996). The Starclassic Maple\'s warm, focused tone supports both the punishing metal foundation and the tribal percussion vocabulary — atabaques, caixas, surdos — that made Roots a landmark fusion of metal and Brazilian percussion.\n\nThe cornerstone of the Igor Cavalera drum set is his Tama S.L.P. 14×6.5" G-Maple snare, delivering the punishing crack that drives groove metal riffs on "Refuse/Resist" and "Roots Bloody Roots." Paiste RUDE & 2002 Series cymbals define the sonic aggression of the Igor Cavalera drum kit: 14" RUDE Hi-Hats for harsh, cutting articulation; 18" and 19" RUDE Crashes for explosive, slow-decay accents; a 22" RUDE Power Ride for heavyweight rhythmic definition; and an 18" 2002 China for tribal punctuation. A Tama Iron Cobra double pedal powers his double bass drive, while Vic Firth American Classic 5B sticks complete this drum set forged across two decades with Sepultura and Cavalera Conspiracy.',
+    kitOverview: 'Igor Cavalera plays a Yamaha Absolute Hybrid Maple drum kit since 2018 — the powerful, resonant configuration that followed his decades on Tama across Sepultura\'s transformation from thrash metal aggression to tribal groove metal on landmark albums like Chaos A.D. (1993) and Roots (1996). The Absolute Hybrid Maple\'s warm, focused tone supports both the punishing metal foundation and the tribal percussion vocabulary — atabaques, caixas, surdos — that made Roots a landmark fusion of metal and Brazilian percussion.\n\nZildjian A Custom Series cymbals, played since 2006, define the sonic character of the Igor Cavalera drum kit, driving groove metal riffs on "Refuse/Resist" and "Roots Bloody Roots." A Tama Iron Cobra double pedal powers his double bass drive, while Vic Firth American Classic 5B sticks and Remo heads complete this drum set forged across four decades with Sepultura and Cavalera Conspiracy.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Igor_Cavalera',
       'https://www.instagram.com/igloocavalera/',
@@ -1883,14 +1883,14 @@ const drummers = [
       'https://www.allmusic.com/artist/igor-cavalera-mn0000766583'
     ],
     gear: {
-      drums: 'Tama Starclassic Maple',
-      snare: 'Tama S.L.P. 14x6.5" G-Maple',
-      cymbals: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)',
+      drums: 'Yamaha Absolute Hybrid Maple',
+      snare: 'Yamaha',
+      cymbals: 'Zildjian A Custom Series',
       hardware: 'Tama Iron Cobra Double Pedal, Tama Throne',
       sticks: 'Vic Firth American Classic 5B',
       heads: 'Remo',
       verified: true,
-      verifiedAt: '2026-02-02',
+      verifiedAt: '2026-10-02',
       sources: ['https://en.wikipedia.org/wiki/Igor_Cavalera']
     },
     photos: [

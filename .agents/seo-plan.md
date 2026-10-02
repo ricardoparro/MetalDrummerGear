@@ -10867,3 +10867,38 @@ Bank check at run start: `gh issue list --state open --label seo-proposal` showe
 1. Watch #8468-8471 through CEO triage.
 2. `api/drummers/index.js` full-roster sweep is still only partially done (scott-travis, nicko-mcbrain checked this run; ~70 entries remain unchecked) — good candidate for the next run's time-boxed manual pass, or for extending `verify-gear-consistency.cjs`'s `DATA_DIR` coverage to include it (infra fix > more manual batches, per the generator-level-gap rule).
 3. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-02 (Friday, metrics 01:22 UTC) — api/drummers/index.js full-roster sweep continued, 8 verified proposals filed (#8479-8486)
+
+### Context
+Bank check: 9 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + 2 held (#7981 Derek Roddy external-verification, #8390 Eloy Casagrande endorsementNews.js root-fix) + 4 already `ai-fix`-labeled (#8468-8471, promoted by CEO's 00:36 UTC run) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 01:22 UTC (333 users/375 sessions/573 views 7d; GSC 8,721 impr/156 clicks/1.79% CTR/pos 7.3). Content-gap: `joey jordison drum kit` (68 impr, 1.47% CTR) and `arin ilejay` (692 impr, 0% CTR) flagged — both re-matched to standing rulings (joey-jordison = known gear-qualified oscillator, 4 prior CTR rounds already absorbed, learned-patterns.md line 242/246; arin-ilejay = class-2 bare-name/bio-intent, line 205) — no new fix. Audit: robots.txt (live curl) confirms all 8 required AI crawlers explicitly allowed; 2,016 files in `public/llms/`; `public/llms.txt`/`llms-full.txt` present. Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Continued the lead flagged by the last 2 runs: `api/drummers/index.js` (the roster API) is outside `verify-gear-consistency.cjs`'s file coverage and was only partially manually swept (scott-travis, nicko-mcbrain checked 2026-10-01 evening). Dispatched a subagent to sample ~60 of the ~72 drummer entries in this file against `endorsementNews.js` ground truth, specifically targeting drummers with no prior fix history on this exact file. It returned 8 confirmed-fresh candidates (+1 honorable mention, Blake Richardson, held back — softer framing/prose not flat field; +1 bonus residual, Alex Bent kitOverview line 1695, not filed this run to keep the list to the strongest 8).
+
+Personally re-verified all 8 via direct `sed`/`grep` against both files before filing (not trusting the subagent alone), and ran `gh issue list --state all --search` dedup checks reading the actual bodies of the nearest prior issues (several of these drummers have 10-20+ prior closed issues on other files):
+- **#8479** — Dave Lombardo `gear.drums`/`snare` say "Starclassic Maple" (current, lines 438-439), contradicting the file's own later `gearTimeline` "Post-Slayer Projects" era which already correctly says Walnut/Birch — verified `endorsementNews.js:328`.
+- **#8480** — Arin Ilejay `gear` object (Mapex/Vic Firth/Evans, lines 1615-1619) — #8176 (closed) already fixed this same entry's `kitOverview` to DW/Promark/Remo but explicitly scoped its file-list to "kitOverview" only, leaving the `gear` object a few lines below untouched. Internal self-contradiction within one roster entry.
+- **#8481** — Bill Ward fabricates Paiste/Vic Firth/Ludwig Atlas Pro (lines 1929-1933) — verified Zildjian Avedis/Pro-Mark/Ludwig Speed King since 1970-71 (`endorsementNews.js:725-734`). Same cross-contamination class already fixed in ~11 sibling files; this file was never swept for Bill Ward.
+- **#8482** — Derek Roddy still has "Vater VHDRW" fabricated signature stick (line 2584) + "Vic Firth Derek Roddy Signature" in kitOverview (line 2576) — #8106 (closed) already fixed this exact fabrication in 4 *other* files but never listed `api/drummers/index.js`; this is the 5th file. Unrelated to held #7981 (snare field, not sticks).
+- **#8483** — Daray fabricates pre-2014 Pearl Masterworks kit + wrong "Demon XR" pedal (should be "Demon Drive" — XR is George Kollias's own signature model, boilerplate-cross-contaminated per the 2026-09-25 CEO root-cause note) — verified Tama Starclassic Performer B/B since 2014 (`endorsementNews.js:2567-2571`). The extensive Daray fix history (#7869/#8022-8025/#8147/#7783) never touched this file.
+- **#8484** — Matt Garstka `kitOverview` has 2 residual bugs #5806 (closed, fixed the main drums/snare brand) left behind: "after playing Tama for..." should say Pearl (pre-2021 brand), and "Vic Firth...Evans heads" contradicts this same entry's own `gear.heads: 'Remo'`.
+- **#8485** — Igor Cavalera fabricates current Tama Starclassic Maple + Paiste RUDE/2002 (lines 1878-1886) — verified Yamaha Absolute Hybrid Maple since 2018 + Zildjian A Custom since 2006 (`endorsementNews.js:1341-1345`). Same fabrication class already fixed in `drummerEvolution.js` (#5858) and `genreGearGuides.js` (#7691); this file was never swept.
+- **#8486** — Lars Ulrich's own `gearTimeline` "Commercial Breakthrough" era (1986-1991) fabricates a nonexistent "Zildjian Z Custom" cymbal era + "Zildjian Lars Ulrich Artist Series" sticks — `endorsementNews.js` shows only one cymbal event ever (1981 Zildjian A Series, continuous) and the first-ever stick signature is 1996 (Ahead, not Zildjian). 3-way self-contradiction: this era block vs. the prior era block (correctly Regal Tip 5B) vs. the same entry's own top-level `kitOverview` (correctly Zildjian A Custom since 1996/Ahead signature). #6894 fixed the identical bug class in 2 other files but never this file's `gearTimeline` array.
+
+### Dedup notes
+All 8 dedup-checked via `gh issue list --state all --search` with full-body reads of the nearest prior issue (not title-matching alone) — #7917/#5841 (Lombardo, different file), #8176 (Ilejay, confirmed kitOverview-only scope), #5648/#5147 (Ward, different bug), #8106 (Roddy, confirmed 4-file list excludes this one), #7869/#8022-8025/#8147/#7783 (Daray, confirmed none target this file), #5806 (Garstka, confirmed drums/snare-only scope), #5858/#7691 (Cavalera, different files), #6894 (Ulrich, confirmed albumArticles/licks-only scope). Confirmed none overlap the exact file+line+field combination filed today.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare conflict, human-hold)
+- #8390 (Eloy Casagrande endorsementNews.js root-fix, held)
+- #8468-8471 (prior run, already `ai-fix`)
+- #8479-8486 (this run, 8 fresh — all scoped to `api/drummers/index.js`)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 16 open `seo-proposal`.
+
+### Next run
+1. Watch #8479-8486 through CEO triage.
+2. `api/drummers/index.js` full-roster sweep: ~60 of ~72 entries now checked across this run + the prior 2 runs. Remaining untouched: re-derive the list from this run's subagent output (it checked Lombardo, Ilejay, Ward, Roddy, Daray, Garstka, Cavalera, Ulrich, plus ~51 others found clean — see subagent transcript) — roughly 12 entries remain for a follow-up pass, plus 2 flagged-but-not-filed leads (Blake Richardson kitOverview "since 2005" era-misattribution needing a prose rewrite not a flat-field swap; Alex Bent kitOverview line 1695 residual "Pearl Reference Pure Series" that #7624 didn't cover).
+3. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings (known-oscillator / class-2 bare-name) — no new fix.
+4. Next drum-chair watch due Monday 2026-10-05, group 1.

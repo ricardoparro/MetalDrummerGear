@@ -735,6 +735,70 @@ function processGenreGearGuides(groundTruth, globalBrands, mismatches) {
   }
 }
 
+// api/drummers/index.js — the site's roster API. Each entry has a top-level
+// `gear` object (current state, `verified: true` when sourced) plus optional
+// `kitOverview` (prose), `gearTimeline` (era array, same shape as
+// drummerEvolution.js), `kitSpecs`, and `faq`. No explicit `slug` field exists
+// on entries — derive it the same way the frontend already does (see
+// packages/frontend/components/SeoHead.js, QuizShareButtons.js):
+// `name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')`.
+//
+// Scope: only the top-level `gear` object and gearTimeline's current
+// ('...-Present') era are checked here — kitOverview/kitSpecs/faq free-text
+// fields need prose-scanning (a different, more false-positive-prone
+// approach than the other processors use) and are deliberately left for a
+// follow-up once this flat-field coverage is live and proven.
+const API_DRUMMERS_FILE = path.join(ROOT, 'api/drummers/index.js');
+
+function slugifyDrummerName(name) {
+  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+}
+
+function processApiDrummersIndex(groundTruth, globalBrands, mismatches) {
+  const relFile = 'api/drummers/index.js';
+  const content = fs.readFileSync(API_DRUMMERS_FILE, 'utf8');
+  const lineOf = makeLineFinder(content);
+
+  const blocks = getTopLevelBlocks(content, /\n {2}\{\s*\n {4}id:\s*\d+,\s*\n {4}name:\s*'([^']+)'/g)
+    .map(({ start, end }) => {
+      const nameMatch = /name:\s*'([^']+)'/.exec(content.slice(start, Math.min(end, start + 200)));
+      return { start, end, slug: nameMatch && slugifyDrummerName(nameMatch[1]) };
+    })
+    .filter((b) => b.slug && groundTruth[b.slug]);
+
+  for (const { start, end, slug } of blocks) {
+    const block = content.slice(start, end);
+
+    // 1. Top-level `gear` object — direct per-category brand check.
+    for (const cat of CATEGORIES) {
+      const re = new RegExp(`\\n {6}${cat}:\\s*'((?:[^'\\\\]|\\\\.)*)'`, 'd');
+      const mm = re.exec(block);
+      if (!mm) continue;
+      checkAndRecord(mismatches, mm[1], slug, cat, relFile, lineOf(start + mm.indices[1][0]), groundTruth, globalBrands);
+    }
+
+    // 2. gearTimeline[] current-era bucket (years string contains 'Present'),
+    //    same scope guard as processDrummerEvolution — only check the
+    //    current/ongoing era, never historical ones.
+    const eraStarts = [];
+    const eraStartRe = /\n {6}era:\s*'/g;
+    let em;
+    while ((em = eraStartRe.exec(block))) eraStarts.push(em.index);
+    for (let i = 0; i < eraStarts.length; i++) {
+      const eraEnd = i + 1 < eraStarts.length ? eraStarts[i + 1] : block.length;
+      const era = block.slice(eraStarts[i], eraEnd);
+      const yearsMatch = /years:\s*'([^']*)'/.exec(era);
+      if (!yearsMatch || !/present/i.test(yearsMatch[1])) continue;
+      for (const cat of CATEGORIES) {
+        const re = new RegExp(`\\n {10}${cat}:\\s*'((?:[^'\\\\]|\\\\.)*)'`, 'd');
+        const mm = re.exec(era);
+        if (!mm) continue;
+        checkAndRecord(mismatches, mm[1], slug, cat, relFile, lineOf(start + eraStarts[i] + mm.indices[1][0]), groundTruth, globalBrands);
+      }
+    }
+  }
+}
+
 async function main() {
   const { groundTruth, globalBrands } = await loadGroundTruth();
   const mismatches = [];
@@ -747,6 +811,7 @@ async function main() {
   processGearPriceHistory(groundTruth, globalBrands, mismatches);
   processLicks(groundTruth, globalBrands, mismatches);
   processAlbumArticles(groundTruth, globalBrands, mismatches);
+  processApiDrummersIndex(groundTruth, globalBrands, mismatches);
 
   for (const m of mismatches) {
     console.log(

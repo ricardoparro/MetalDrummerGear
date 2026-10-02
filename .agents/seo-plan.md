@@ -10902,3 +10902,39 @@ All 8 dedup-checked via `gh issue list --state all --search` with full-body read
 2. `api/drummers/index.js` full-roster sweep: ~60 of ~72 entries now checked across this run + the prior 2 runs. Remaining untouched: re-derive the list from this run's subagent output (it checked Lombardo, Ilejay, Ward, Roddy, Daray, Garstka, Cavalera, Ulrich, plus ~51 others found clean — see subagent transcript) — roughly 12 entries remain for a follow-up pass, plus 2 flagged-but-not-filed leads (Blake Richardson kitOverview "since 2005" era-misattribution needing a prose rewrite not a flat-field swap; Alex Bent kitOverview line 1695 residual "Pearl Reference Pure Series" that #7624 didn't cover).
 3. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings (known-oscillator / class-2 bare-name) — no new fix.
 4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-02 (Friday, run ~07:xx UTC) — api/drummers/index.js sweep continued: 5 verified proposals filed (#8491-8495), 2 near-misses dropped as oscillation risk (Ben Koller, Inferno)
+
+### Context
+Bank check: 13 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + 2 held (#7981 Derek Roddy, #8390 Eloy Casagrande) + 8 already `ai-fix`-labeled (#8479-8486, promoted by CEO's 01:22-area pulse) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 07:10 UTC (348 users/391 sessions/592 views 7d; GSC 8,721 impr/156 clicks/1.79% CTR/pos 7.3). Content-gap: `joey jordison drum kit` (68 impr, 1.47% CTR) and `arin ilejay` (692 impr, 0% CTR) both re-matched to standing rulings (known gear-qualified oscillator / class-2 bare-name, learned-patterns.md line ~242/205) — no new fix. Audit: robots.txt (live curl) all 8 required AI crawlers allowed. Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Continued the `api/drummers/index.js` full-roster sweep (outside `verify-gear-consistency.cjs`'s file coverage, flagged by the last 3 runs). Dispatched a subagent to check the ~59 entries not yet covered by name in prior run notes, plus a final decisive call on 2 previously-held leads (Blake Richardson, Alex Bent). It returned 10 candidates; personally re-verified every one via direct grep/read against `endorsementNews.js` before filing (not trusting the subagent alone), which caught 2 that would have been **regressions, not fixes**:
+- **Ben Koller**: subagent flagged `gear.drums`/cymbals ("Starclassic Maple"/"K Dark Series") as contradicting `endorsementNews.js` ("Starclassic Performer B/B"/"K Custom & A Custom"). Investigation showed `endorsementNews.js` is itself the stale outlier here — 3+ independent files (`extendedBios.js`, `drummerEvolution.js`, `drummerComparisons.js`, this same `api/drummers/index.js`) and 2 closed issues (**#5448**, **#5970**) already established "Starclassic Maple"/"K Dark Series" as the site-wide consensus-correct value, explicitly overriding `endorsementNews.js`. Filing the subagent's suggested "fix" would have reintroduced an already-reverted fabrication. Dropped.
+- **Inferno**: same shape — subagent flagged `gear.drums` ("Pearl Masterworks") vs `endorsementNews.js` ("Reference Series"). Closed issue **#5855** explicitly cites `api/drummers/index.js`'s "Pearl Masterworks" (this exact file, `verified: true`) as the CANONICAL source, agreeing with `extendedBios.js` + `cymbalSetups.js`. Also matches the standing detector skip-ruling ("inferno hardware Pearl-vs-Monolit false-positive"). Dropped — `endorsementNews.js` is wrong here too, not the roster file.
+
+**New standing risk flagged:** `endorsementNews.js` is treated by convention as ground truth, but at least 2 fields now (Ben Koller, Inferno) show it disagreeing with an already-established, multi-file, previously-adjudicated consensus. Before filing any "roster file contradicts endorsementNews.js" bug, cross-check whether 2+ OTHER files already agree with the roster file instead — if so, `endorsementNews.js` is the stale one, not the proposal target.
+
+5 candidates survived verification, all precedented by the identical bug class already fixed in sibling files for the same drummer — api/drummers/index.js's `kitOverview`/`kitSpecs`/`faq` fields were simply never swept:
+- **#8491** — Joey Jordison `kitOverview`+`kitSpecs`+`faq` fabricate an entire Tama/Sabian/Axis/Vic Firth/Remo rig, contradicting this same entry's own `gear` object (Pearl/Paiste/Promark/Evans). Identical bug class to closed #5341 (same contamination, different file — extendedBios.js).
+- **#8492** — Nick Menza `kitOverview` fabricates "Tama Swingstar" + invented "Premier Signia" brand + wrong 1992 transition narrative. Identical bug class already fixed in 7+ other files (#7277/#8009/#7452/#7509/#6700/#8175/#6848/#6329) — this file's kitOverview was the one sibling gap left.
+- **#8493** — Alex Bent `kitOverview` still says "Pearl Reference Pure Series", contradicting the same entry's already-fixed `gear` object (#7624 explicitly scoped to `gear` only, confirmed via issue body).
+- **#8494** — Blake Richardson `kitOverview` misattributes current Tama/Sabian gear to Colors (2007)/Parallax II (2012) — both actually DW/Meinl era (2006-2018) per endorsementNews.js. Same recording-window-attribution bug class fixed elsewhere via #7381/#6148/#6233/#5880/#8211/#6636/#6833/#5715.
+- **#8495** — Abe Cunningham `kitOverview` misattributes current Zildjian cymbals to Koi No Yokan/Gore/Ohms — those albums were actually Sabian HHX era (2010-2022). Same bug class fixed elsewhere via #7372/#7445/#6043/#6872.
+
+### Dedup notes
+All 5 dedup-checked via `gh issue list --state all --search` with full-body reads of the nearest prior issues (not title-matching) given the density of prior fixes on all 5 drummers (10-25+ closed issues each) — confirmed in every case the specific file+field combination (`api/drummers/index.js`'s `kitOverview`/`kitSpecs`/`faq`) was never the target of any prior fix, only sibling files were.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8390 (Eloy Casagrande endorsementNews.js root-fix, held)
+- #8479-8486 (prior run, already `ai-fix`)
+- #8491-8495 (this run, 5 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 18 open `seo-proposal`.
+
+### Next run
+1. Watch #8491-8495 through CEO triage.
+2. `api/drummers/index.js` full-roster sweep: this run's subagent covered ~59 entries including the final calls on Blake Richardson/Alex Bent. Remaining candidates NOT filed (correctly, not oversights): Ben Koller, Inferno (both would regress an established consensus, see above). Roster coverage of this file is now effectively exhausted for the `kitOverview`/`gear`-contradiction bug class — next pass (if any) should look at `kitSpecs`/`faq` arrays specifically (only a handful of entries have these richer fields; Joey Jordison's was the first one checked and it was heavily contaminated — worth checking if other entries with kitSpecs/faq arrays have the same issue).
+3. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings — no new fix.
+4. Next drum-chair watch due Monday 2026-10-05, group 1.

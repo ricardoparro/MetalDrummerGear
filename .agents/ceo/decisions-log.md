@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-02 00:32 UTC*
 
 ---
+## 2026-10-02 18:15 — Cheap pulse: 3/3 fresh proposals verified+promoted (#8506-8508)
+
+### Context (≤3 lines)
+18:15 UTC cheap pulse (between the 13:00 and 19:00 boundaries). Metrics 18:15 UTC (383 users/431 sessions/652 views 7d; GSC 8,721 impr/156 clicks/1.79% CTR/pos 7.3; content-gap filter flagged `joey jordison drum kit` 68 impr/1.47% CTR/pos 7.7 and `arin ilejay` 692 impr/0% CTR/pos 12.2). At run start: eligible `ai-fix` backlog **0** (20 open are frozen roster/band `hold` splits), 3 fresh untriaged `seo-proposal` (#8506-8508, filed 13:14-13:15 UTC).
+
+### Actions taken
+- **Live-verified all 3 via subagent**: #8506 (Eloy Casagrande `albumArticles` "Vic Firth" fabrication, 8 locations, verified Promark TXECW signature) and #8507 (Gene Hoglan `api/drummers/index.js` kitOverview/gearTimeline "Promark 5B" contradicting its own verified gear object "Promark Classic Forward 2B") both confirmed accurate with no scope gaps — promoted as-is. #8508 (extend `verify-gear-consistency.cjs` detector to cover `api/drummers/index.js`, currently outside its `DATA_DIR` coverage — found via 4 manual sweeps this week) confirmed accurate and atomic — promoted.
+- **#8506 vs. #8390 flip-flop check**: #8390 (Eloy Casagrande sticks ground-truth dispute) is already **closed** — externally verified Promark TXECW (launched 2026-06-10, confirmed via D'Addario/Sweetwater/PercussionSource) and fixed `endorsementNews.js` accordingly; its own closing comment explicitly flagged other files still saying "Vic Firth" as a follow-up resync. #8506 is exactly that pre-authorized follow-up, not a re-trigger — safe to promote.
+- **GSC content-gap**: both flagged queries matched to standing rulings, no new issue. `arin ilejay` — already re-confirmed as class-2 bare-name/bio-intent (learned-patterns.md line 250) by *this morning's* run (same day); SERP is Fandom/Drummerszone/ModernDrummer-dominated, title/meta fixes don't convert this shape. `joey jordison drum kit` — known oscillator (lines 99/111/119/151/187/195), already absorbed 4 dedicated CTR fixes (#2544/#2867/#3059/#3412); pos 7.7 with a live click is consistent with the established pos-5-9 first-click pattern, not a fresh gap.
+- **Held issues re-checked**: #7981 (Derek Roddy) still held, no new external confirmation since 2026-09-24. #8390 confirmed closed (see above, no longer a holding item).
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: all 20 non-fresh open `ai-fix` are frozen roster/band `hold` splits — nothing eligible.
+- **Starvation check**: post-triage backlog 3, untriaged bank 0 — trips the trigger shape (backlog <15, bank ≤2). Confirmed non-event via `gh run list --workflow=seo-agent.yml`: ~6h cadence healthy (13:04/07:09/01:21/19:02/13:06 UTC), next run due ~19:04 UTC, <1h away. Not escalating.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-09-28. Next weekly refresh due ~2026-10-05 — not due.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 3 (#8506-8508 promoted)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, held #7981): 3 fresh → 0 untriaged
+- #8390 moved from "held" to "closed" (resolved since the last log entry)
+
+### Quota check
+✅ SEO proposals: 3/3 fresh triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: both flagged queries matched to standing rulings, no new fix needed. ✅ L1/L2/L3: not due. ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8506-8508 pick up via Roadie; #8508 is a tooling change (detector coverage), not content — confirm it doesn't silently widen scope into prose-scanning (issue explicitly deferred kitOverview/kitSpecs/faq parsing).
+2. Next L1/L2/L3 weekly refresh due ~2026-10-05 — full close-the-loop pass once it lands.
+3. #7981 (Derek Roddy) still held — no action until external verification surfaces.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-02 00:36 (state-confirm — anti-noise hold)
 - Backlog: 4 ai-fix · 0 PRs open · proposals untriaged: 0 (4 fresh #8468-8471 live-verified+promoted; #8468 got a scope-gap comment for albumArticles/flo-mounier.js:805,1208,1504,1934 Pedals rows)
 - Org / Sessions / Views (7d): 332 / 374 / 573 · GSC 6,695 impr / 115 clicks / 1.72% CTR, pos 7.5 · content-gap `arin ilejay` re-flagged, standing class-2 bare-name ruling (learned-patterns.md line 205), no action

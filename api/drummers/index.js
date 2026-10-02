@@ -428,7 +428,7 @@ const drummers = [
     country: 'Cuba/USA',
     image: '/images/drummers/dave-lombardo.webp',
     bio: 'Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.',
-    kitOverview: 'Dave Lombardo plays a Tama Starclassic Maple drum kit — the maple shell configuration he has favored since Slayer\'s recording peak, prized for its punchy attack and projection in live thrash metal contexts. The cornerstone of the Dave Lombardo drum set is his Tama S.L.P. G-Maple snare (14×6.5"): a maple-shelled snare delivering the fat, responsive crack heard on Reign in Blood, South of Heaven, and Seasons in the Abyss.\n\nPaiste cymbals define the sonic character of Dave Lombardo\'s drum kit: 15" Sound Edge Hi-Hats from the RUDE series provide aggressive open-edge response; 18" and 19" Paiste crashes deliver explosive attack for thrash metal\'s dynamic accents; a 22" Reign Power Ride cuts through dense guitar arrangements; and an 18" China adds brutal punctuation central to tracks like "Angel of Death." A Tama Iron Cobra 900 double pedal drives Lombardo\'s legendary double kick — the technique that redefined extreme metal drumming.\n\nThe Dave Lombardo drum set draws on his work across Slayer (1981–2013) and subsequent projects with Dead Cross, Mr. Bungle, and Suicidal Tendencies. His Promark Dave Lombardo Signature 2Bx drumsticks are heavier than standard, matched to the power required for Slayer\'s extreme thrash tempos — a legacy that makes his Reign in Blood drum parts among the most studied in metal history.',
+    kitOverview: 'Dave Lombardo plays a Tama Starclassic Walnut/Birch drum kit — the shell configuration he has favored since Slayer\'s recording peak, prized for its punchy attack and projection in live thrash metal contexts. The cornerstone of the Dave Lombardo drum set is his Tama S.L.P. G-Maple snare (14×6.5"): delivering the fat, responsive crack heard on Reign in Blood, South of Heaven, and Seasons in the Abyss.\n\nPaiste cymbals define the sonic character of Dave Lombardo\'s drum kit: 15" Sound Edge Hi-Hats from the RUDE series provide aggressive open-edge response; 18" and 19" Paiste crashes deliver explosive attack for thrash metal\'s dynamic accents; a 22" Reign Power Ride cuts through dense guitar arrangements; and an 18" China adds brutal punctuation central to tracks like "Angel of Death." A Tama Iron Cobra 900 double pedal drives Lombardo\'s legendary double kick — the technique that redefined extreme metal drumming.\n\nThe Dave Lombardo drum set draws on his work across Slayer (1981–2013) and subsequent projects with Dead Cross, Mr. Bungle, and Suicidal Tendencies. His Promark Dave Lombardo Signature 2Bx drumsticks are heavier than standard, matched to the power required for Slayer\'s extreme thrash tempos — a legacy that makes his Reign in Blood drum parts among the most studied in metal history.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Dave_Lombardo',
       'https://www.instagram.com/davelombardo/',
@@ -436,8 +436,8 @@ const drummers = [
       'https://www.allmusic.com/artist/dave-lombardo-mn0000134767'
     ],
     gear: {
-      drums: 'Tama Starclassic Maple',
-      snare: 'Tama S.L.P. 14x6.5" G-Maple',
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama S.L.P. 14x6.5"',
       cymbals: 'Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)',
       hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
       sticks: 'Promark Dave Lombardo Signature 2Bx',

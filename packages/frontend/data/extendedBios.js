@@ -1974,7 +1974,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
     sections: {
       overview: {
         title: 'Overview',
-        content: `Morgan Ågren (born November 4, 1967, in Umeå, Sweden) is a Swedish drummer and multi-instrumentalist renowned for his extraordinary technical ability and musical versatility. A child prodigy who was performing professionally by age 13, Ågren gained international recognition for his work with Frank Zappa's band in 1988 and later with Devin Townsend Project.
+        content: `Morgan Ågren (born July 13, 1967, in Umeå, Sweden) is a Swedish drummer and multi-instrumentalist renowned for his extraordinary technical ability and musical versatility. A child prodigy who was performing professionally by age 13, Ågren gained international recognition for his work with Frank Zappa's band in 1988 and later with Devin Townsend Project.
 
 Ågren's drumming combines jazz fusion sophistication with rock power, making him one of the most technically accomplished drummers in progressive music. His work with the Mats/Morgan Band alongside keyboardist Mats Öberg showcases his incredible improvisational abilities and compositional skills.`
       },
@@ -4081,7 +4081,7 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
     sections: {
       overview: {
         title: 'Overview',
-        content: `Derek Roddy (born February 22, 1972, in Mullins, South Carolina) is an American drummer and educator who helped define modern extreme metal drumming. Best known for his work with Hate Eternal and his brief but influential stint with Nile, Roddy is renowned for his blazing speed, innovative blast beat techniques, and his significant contributions to metal drumming education.
+        content: `Derek Roddy (born August 28, 1972, in Myrtle Beach, South Carolina) is an American drummer and educator who helped define modern extreme metal drumming. Best known for his work with Hate Eternal and his brief but influential stint with Nile, Roddy is renowned for his blazing speed, innovative blast beat techniques, and his significant contributions to metal drumming education.
 
 Roddy is considered one of the pioneers of modern extreme metal drumming, having developed techniques for sustained blast beats and double bass that influenced an entire generation of drummers. His instructional materials, particularly "The Evolution of Blast Beats" DVD, have become essential resources for aspiring extreme metal drummers.`
       },
@@ -4850,7 +4850,7 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
     sections: {
       overview: {
         title: 'Overview',
-        content: `Aquiles Priester (born June 19, 1971, in São Paulo, Brazil) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2000-2012, returning 2023), American heavy metal band W.A.S.P. (2006-present), and his own band Hangar.
+        content: `Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2000-2012, returning 2023), American heavy metal band W.A.S.P. (2006-present), and his own band Hangar.
 
 Priester is considered one of the greatest power metal drummers in the world. His double bass abilities, complex fills, and capacity to maintain blazing speeds for extended periods have earned him numerous awards from Brazilian and international music publications. His energetic live performances and precise studio work have influenced a generation of metal drummers.`
       },
@@ -7151,7 +7151,7 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
     sections: {
       overview: {
         title: 'Overview',
-        content: `Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) is an American drummer and founding member of metalcore band August Burns Red. Since the band's formation in 2003, Greiner has established himself as one of the most innovative and influential drummers in the metalcore genre, known for his complex patterns, powerful playing, and creative use of dynamics.
+        content: `Matt Greiner (born October 28, 1985, in Lancaster, Pennsylvania) is an American drummer and founding member of metalcore band August Burns Red. Since the band's formation in 2003, Greiner has established himself as one of the most innovative and influential drummers in the metalcore genre, known for his complex patterns, powerful playing, and creative use of dynamics.
 
 His work with August Burns Red has earned a Grammy nomination and widespread critical acclaim. Greiner is also known for his Pearl signature snare drum and his contributions to drum education through clinics and social media content. His approach combines technical proficiency with musicality, influencing countless drummers in the heavy music scene.`
       },

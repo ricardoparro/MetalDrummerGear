@@ -1862,7 +1862,7 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "Vinnie Paul's Drum Setup on Pantera's Reinventing the Steel (2000)",
-    "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and Pearl Eliminator P-3000E pedals behind the band's last record before their 2003 breakup.",
+    "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and double-pedal bass drum setup behind the band's last record before their 2003 breakup.",
     "seoKeywords": [
       "reinventing the steel drums",
       "vinnie paul last album",
@@ -1876,7 +1876,7 @@ export const articles = {
     "ogImage": "/images/albums/reinventing-the-steel-drums.webp",
     "intro": {
       "title": "The Last Record",
-      "content": "Released on March 21, 2000, \"Reinventing the Steel\" is Pantera's sixth and final studio album — the last time Vinnie Paul, Dimebag Darrell, Phil Anselmo, and Rex Brown would ever record together. It debuted at #4 on the Billboard 200 and was certified Gold by the RIAA that May. Three years later, Pantera quietly dissolved. Four years after that, Dimebag was murdered on stage with Damageplan. Heard today, \"Reinventing the Steel\" carries a weight none of the band could have known about at the time: it's the closing statement of the classic Pantera lineup.\n\nThe album marked a deliberate return to basics after the fractured, experimental extremity of \"The Great Southern Trendkill.\" Vinnie Paul and Dimebag Darrell produced the record themselves alongside engineer Sterling Winfield — the first Pantera studio album since 1988's \"Power Metal\" not produced by Terry Date. Tracked once again at Chasin' Jason Studios, Dimebag's home studio in the Arlington area, the sessions were reportedly more unified than \"Trendkill's\" split-coast recording, with the whole band back in one room chasing a simpler, riff-first sound.\n\nVinnie Paul's drumming on \"Reinventing the Steel\" is widely regarded as some of the most groove-focused, pocket-heavy playing of his career. Tracks like \"Goddamn Electric\" and \"Revolution Is My Name\" — the latter voted Song of the Year in the 2000 Metal Edge Readers' Choice Awards — showcase the power-groove approach Vinnie had spent a decade refining, now delivered with a leaner, more direct production than the trigger-heavy records of the mid-90s.\n\nThis article breaks down every piece of gear behind Pantera's last studio statement: the white marine pearl Pearl Reference kit, the Sabian cymbal setup straddling the HH and new AAX Custom lines, and the Pearl Eliminator pedals that drove the double kick on the album's heaviest tracks.",
+      "content": "Released on March 21, 2000, \"Reinventing the Steel\" is Pantera's sixth and final studio album — the last time Vinnie Paul, Dimebag Darrell, Phil Anselmo, and Rex Brown would ever record together. It debuted at #4 on the Billboard 200 and was certified Gold by the RIAA that May. Three years later, Pantera quietly dissolved. Four years after that, Dimebag was murdered on stage with Damageplan. Heard today, \"Reinventing the Steel\" carries a weight none of the band could have known about at the time: it's the closing statement of the classic Pantera lineup.\n\nThe album marked a deliberate return to basics after the fractured, experimental extremity of \"The Great Southern Trendkill.\" Vinnie Paul and Dimebag Darrell produced the record themselves alongside engineer Sterling Winfield — the first Pantera studio album since 1988's \"Power Metal\" not produced by Terry Date. Tracked once again at Chasin' Jason Studios, Dimebag's home studio in the Arlington area, the sessions were reportedly more unified than \"Trendkill's\" split-coast recording, with the whole band back in one room chasing a simpler, riff-first sound.\n\nVinnie Paul's drumming on \"Reinventing the Steel\" is widely regarded as some of the most groove-focused, pocket-heavy playing of his career. Tracks like \"Goddamn Electric\" and \"Revolution Is My Name\" — the latter voted Song of the Year in the 2000 Metal Edge Readers' Choice Awards — showcase the power-groove approach Vinnie had spent a decade refining, now delivered with a leaner, more direct production than the trigger-heavy records of the mid-90s.\n\nThis article breaks down every piece of gear behind Pantera's last studio statement: the white marine pearl Pearl Reference kit, the Sabian cymbal setup straddling the HH and new AAX Custom lines, and the double pedal that drove the double kick on the album's heaviest tracks.",
       "keyPoints": [
         "Pantera's sixth and final studio album, released March 21, 2000",
         "Debuted at #4 on the Billboard 200; certified Gold by the RIAA on May 2, 2000",
@@ -1971,14 +1971,14 @@ export const articles = {
       "estimatedValue": "$1,700-2,300 total (2000)"
     },
     "hardware": {
-      "title": "The Pearl Eliminator P-3000E",
+      "title": "The Double Pedal Setup",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Eliminator P-3000E Double Pedal",
-          "notes": "Refined Eliminator cam system from the Trendkill-era setup",
-          "description": "Vinnie continued with the Pearl Eliminator line on \"Reinventing the Steel,\" using the P-3000E double pedal. The Eliminator's interchangeable cam system let him dial in the balance of speed and power needed for the album's mid-tempo grooves and the faster double-kick runs on tracks like \"Hellbound.\""
+          "brand": "",
+          "model": "Double Pedal (brand unconfirmed)",
+          "notes": "Pedal brand/model for this era is not documented; Vinnie's first verified pedal endorsement was ddrum in 2008",
+          "description": "Vinnie drove \"Reinventing the Steel\"'s double-kick passages with a double pedal setup, balancing speed and power for the album's mid-tempo grooves and the faster double-kick runs on tracks like \"Hellbound.\" The specific pedal brand from this era isn't documented."
         },
         {
           "type": "Stands",
@@ -2058,7 +2058,7 @@ export const articles = {
           "Sabian HH China accents the main riff's stop-time hits",
           "Demonstrates the album's restrained, groove-first philosophy"
         ],
-        "gearNotes": "Pearl Eliminator P-3000E pedals give the sparse kick hits maximum weight without excess speed."
+        "gearNotes": "The double pedal gives the sparse kick hits maximum weight without excess speed."
       }
     ],
     "evolution": {
@@ -2082,8 +2082,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Pearl Eliminator P-3000E",
-          "now": "Pearl Eliminator Demon Drive is the modern flagship"
+          "then": "Double pedal (brand unconfirmed)",
+          "now": "ddrum became Vinnie's first verified pedal endorsement in 2008"
         },
         {
           "category": "Band",
@@ -2135,7 +2135,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Final Groove",
-      "content": "\"Reinventing the Steel\" doesn't reach for the commercial peak of \"Far Beyond Driven\" or the emotional extremity of \"The Great Southern Trendkill.\" Instead, it does something arguably harder: it returns, deliberately, to the groove-first foundation that made Pantera matter in the first place. Vinnie Paul's playing throughout — power without excess, pocket over flash — is a reminder of exactly what he brought to metal drumming for two decades.\n\nThe white marine pearl Pearl Reference kit, the Sabian HH/AAX Custom cymbal blend, and the Pearl Eliminator P-3000E pedals gave Vinnie the tools for one last statement. None of it was flashy. All of it served the songs, from the direct assault of \"Hellbound\" to the half-time swagger of \"Revolution Is My Name.\"\n\nNone of the band could have known this was the end. Pantera dissolved in 2003 amid tensions that had been building for years, and Dimebag Darrell was murdered on stage with Damageplan in December 2004 — a tragedy that makes every note of \"Reinventing the Steel\" harder to hear now than it was in 2000. Vinnie Paul himself passed away in 2018, forming a devastating bookend to the classic Pantera lineup.\n\nFor the complete Pantera arc, see the [Cowboys from Hell drum setup](/articles/cowboys-from-hell-drum-setup), [Vulgar Display of Power drum setup](/articles/vulgar-display-of-power-drum-setup), [Far Beyond Driven drum setup](/articles/far-beyond-driven-drum-setup), and [The Great Southern Trendkill drum setup](/articles/great-southern-trendkill-drum-setup) breakdowns."
+      "content": "\"Reinventing the Steel\" doesn't reach for the commercial peak of \"Far Beyond Driven\" or the emotional extremity of \"The Great Southern Trendkill.\" Instead, it does something arguably harder: it returns, deliberately, to the groove-first foundation that made Pantera matter in the first place. Vinnie Paul's playing throughout — power without excess, pocket over flash — is a reminder of exactly what he brought to metal drumming for two decades.\n\nThe white marine pearl Pearl Reference kit, the Sabian HH/AAX Custom cymbal blend, and the double pedal setup gave Vinnie the tools for one last statement. None of it was flashy. All of it served the songs, from the direct assault of \"Hellbound\" to the half-time swagger of \"Revolution Is My Name.\"\n\nNone of the band could have known this was the end. Pantera dissolved in 2003 amid tensions that had been building for years, and Dimebag Darrell was murdered on stage with Damageplan in December 2004 — a tragedy that makes every note of \"Reinventing the Steel\" harder to hear now than it was in 2000. Vinnie Paul himself passed away in 2018, forming a devastating bookend to the classic Pantera lineup.\n\nFor the complete Pantera arc, see the [Cowboys from Hell drum setup](/articles/cowboys-from-hell-drum-setup), [Vulgar Display of Power drum setup](/articles/vulgar-display-of-power-drum-setup), [Far Beyond Driven drum setup](/articles/far-beyond-driven-drum-setup), and [The Great Southern Trendkill drum setup](/articles/great-southern-trendkill-drum-setup) breakdowns."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -2143,7 +2143,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Vinnie Paul's Drum Setup on Pantera's Reinventing the Steel (2000)",
-          "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and Pearl Eliminator P-3000E pedals behind the band's last record before their 2003 breakup.",
+          "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and double-pedal bass drum setup behind the band's last record before their 2003 breakup.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"

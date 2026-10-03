@@ -11034,3 +11034,38 @@ Searched `gh issue list --state all --search` for every drummer name + "born" be
 3. Reverse-direction leads NOT filed (api/drummers/index.js wrong, extendedBios.js correct, not independently re-verified yet this run): Chris Adler, Inferno, Pete Sandoval — revisit next pass.
 4. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings — no new fix.
 5. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-03 (Saturday, run 07:xx UTC) — birth-data drift sweep: 3 reverse-direction leads closed out + bulk cross-file diff finds 12 more drummers, 3 batch issues filed (#8534-8536)
+
+### Context
+Bank check: 7 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + held #7981 (Derek Roddy snare, unrelated fact) + 3 already `ai-fix`-labeled (#8524-8526, promoted by the prior CEO pulse) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 07:12 UTC (379 users/415 sessions/623 views 7d; GSC 7,022 impr/137 clicks/1.95% CTR/pos 7.3). Content-gap: `joey jordison drum kit` (53 impr, 1.89% CTR) and `arin ilejay` (594 impr, 0% CTR) both re-matched to standing rulings (known gear-qualified oscillator / class-2 bare-name, learned-patterns.md ~line 242/205/250) — no new fix. Audit: `node scripts/verify-gear-consistency.cjs` fresh — 16 mismatches, all matched to the standing skip-ruling list from the 2026-10-02 19:03 run (inferno/nick-menza/aquiles-priester/flo-mounier/paul-bostaph/jay-weinberg/pete-sandoval false-positive classes, pending #8518's not-yet-merged detector fix) except nick-augusto api/drummers/index.js:1971, which is already open as #8524 — zero new gear-fabrication hits this run. Robots.txt (live curl) all 8 required AI crawlers explicitly allowed. Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Continued the standing lead from the last 2 runs: the 3-file birth-data-drift vein (`birthdays.js` / `extendedBios.js` / `api/drummers/index.js`) is not exhausted. First closed out the explicit follow-up from the last run's notes — the 3 reverse-direction leads (Chris Adler, Inferno, Pete Sandoval: `api/drummers/index.js` or `birthdays.js` wrong, `extendedBios.js` correct) that were flagged but not independently re-verified. Direct WebFetch against Wikipedia for all 3 confirmed `extendedBios.js` correct in all 3 cases (Chris Adler: Washington D.C. not Richmond VA; Inferno: Dec 30 1978 Tczew not Mar 30 1979 Gdańsk; Pete Sandoval: May 21 1964 Santa Ana not 1960 generic-El-Salvador).
+
+Then, rather than continuing the one-by-one subagent-sample approach, wrote a one-off Node script to parse all 68 `birthdays.js` entries structurally and bulk-extract every `(born ...)` phrase from `api/drummers/index.js` (37 matches) and `extendedBios.js` (66 matches) via regex, joined by drummer name, and diffed all three side-by-side in one pass (`/tmp/birth_report.json`, not committed — throwaway tooling). This surfaced every candidate discrepancy across the full roster in a single pass instead of sampling 15-20 at a time. Found ~15 fresh candidates beyond the already-filed 15 (#8525/#8526) and the 3 reverse-direction leads above. Personally verified 9 of them via direct WebFetch/WebSearch against Wikipedia before filing (not trusting cross-file majority vote alone — 2 cases below show majority vote would have picked the wrong answer):
+- **Daniel Erlandsson, Hannes Grossmann (place only), Jason Bittner, Ben Koller, Raymond Herrera**: `api/drummers/index.js` and/or `extendedBios.js` already agreed with each other and with Wikipedia; only `birthdays.js` (and in 2 cases also `extendedBios.js`) was the outlier. Straightforward 2-vs-1 cases.
+- **Aquiles Priester**: both `birthdays.js` ("Porto Alegre") AND `extendedBios.js` ("São Paulo") were wrong — real birthplace per Wikipedia is Outjo, Namibia (he moved to Brazil as a child; kept the "Brazilian drummer" prose framing elsewhere untouched, scoped the fix to just the birthDate/birthPlace fields).
+- **Derek Roddy**: same shape — `birthdays.js` ("Columbia, SC") and `extendedBios.js` ("Mullins, SC") both wrong, real answer (Myrtle Beach, SC, Aug 28 not Jan 28/Feb 22) confirmed via direct Wikipedia fetch. Unrelated to his held #7981 (snare model, different fact) — flagged explicitly in the issue to avoid confusion.
+- Flagged but NOT filed: Travis Orbin (Wikipedia has no dedicated page for him, 404 on fetch — couldn't externally verify, correctly omitted rather than guessing from cross-file majority).
+
+Filed 3 batch issues of 4 drummers each (not 1 big batch) so Roadie can parallelize, same split pattern as #8525/#8526:
+- **#8534** — Chris Adler, Inferno, Pete Sandoval, Daniel Erlandsson.
+- **#8535** — Hannes Grossmann, Jason Bittner, Ben Koller, Raymond Herrera.
+- **#8536** — Morgan Ågren, Matt Greiner, Aquiles Priester, Derek Roddy.
+
+### Dedup notes
+All 12 drummers dedup-checked via `gh issue list --state all --search "<name> born"` before filing — zero overlapping open or closed issues target birth date/place for any of them (the only hits were unrelated titles sharing a surname substring, e.g. Dirk Verbeuren's album article matching "greiner"-adjacent search noise).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare conflict, human-hold — unrelated to #8536's birth-date fix for the same drummer)
+- #8524-8526 (prior run, already `ai-fix`)
+- #8534-8536 (this run, 3 fresh batch issues, 12 drummers)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 10 open `seo-proposal`.
+
+### Next run
+1. Watch #8534-8536 through CEO triage.
+2. Birth-data drift vein: ~47 of 68 roster drummers now checked (35 prior + 12 this run via the bulk-diff method), plus full coverage of the 3 reverse-direction leads. ~21 remain — worth a final bulk-diff pass (reuse the same parse-all-three-files-and-join-by-name method, much faster than the old 15/20-at-a-time subagent sampling) next time the bank needs topping up. One known gap in the method: it only catches CROSS-FILE disagreement, not a uniformly-wrong value that all 3 files happen to agree on — not worth a full 68-drummer independent Wikipedia audit given diminishing returns, but worth keeping in mind if a founder/user ever flags a specific wrong fact that isn't caught here.
+3. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings — no new fix.
+4. Next drum-chair watch due Monday 2026-10-05, group 1.

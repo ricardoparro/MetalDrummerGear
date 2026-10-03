@@ -1957,7 +1957,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/nick-augusto.webp',
     bio: 'Nick Augusto (born August 4, 1986) is an American drummer best known for his tenure with Trivium from 2009 to 2014. Before joining Trivium, he was the drummer for the grindcore band Maruta and played in Metal Militia alongside future Trivium bassist Paolo Gregoletto. Augusto initially joined Trivium as their drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus. His powerful, speedy drumming style contributed to two studio albums: "In Waves" (2011) and "Vengeance Falls" (2013). Known for his aggressive playing and technical proficiency, Augusto brought a fresh energy to Trivium\'s live performances. After parting ways with Trivium, he formed the band Corrosion and has continued touring with bands like Light the Torch.',
-    kitOverview: 'Nick Augusto\'s drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2009–2014 tenure as Trivium\'s drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is his Pearl Reference 14x6.5" Brass snare, delivering the sharp, cutting crack needed to punch through Trivium\'s dense thrash-metalcore guitar work, paired with a Pearl Demon Drive Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.\n\nSabian AAX Series cymbals round out the Nick Augusto drum set: 14" Stage Hi-Hats for tight articulation, 18" and 19" X-Plosion Crashes for explosive accents, a 21" Stage Ride for a driving rhythmic backbone, and an 18" AAXtreme China for aggressive punctuation on Trivium\'s heaviest passages. Vic Firth American Classic 5B sticks and Evans drumheads complete the rig. This configuration reflects Augusto\'s gear from his Trivium era (2009-2014).',
+    kitOverview: 'Nick Augusto\'s drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2009–2014 tenure as Trivium\'s drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is his Pearl Reference 14x6.5" Brass snare, delivering the sharp, cutting crack needed to punch through Trivium\'s dense thrash-metalcore guitar work, paired with a Pearl Demon Drive Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.\n\nSabian AAX Series cymbals round out the Nick Augusto drum set: 14" Stage Hi-Hats for tight articulation, 18" and 19" X-Plosion Crashes for explosive accents, a 21" Stage Ride for a driving rhythmic backbone, and an 18" AAXtreme China for aggressive punctuation on Trivium\'s heaviest passages. Pro-Mark Nylon Tip 5B sticks and Evans drumheads complete the rig. This configuration reflects Augusto\'s gear from his Trivium era (2009-2014).',
     sameAs: [
       'https://en.wikipedia.org/wiki/Nick_Augusto',
       'https://www.instagram.com/nickaugusto/',
@@ -1968,7 +1968,7 @@ const drummers = [
       snare: 'Pearl Reference 14x6.5" Brass',
       cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)',
       hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'Vic Firth American Classic 5B',
+      sticks: 'Pro-Mark Nylon Tip 5B',
       heads: 'Evans',
       verified: false,
       notes: 'Gear from Trivium era (2009-2014)'
@@ -1979,7 +1979,7 @@ const drummers = [
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Pro-Mark Sticks', url: 'https://www.daddario.com/promark' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [

@@ -11098,3 +11098,33 @@ Also re-ran `scripts/verify-gear-consistency.cjs` fresh (post-#8518/#8527 detect
 3. Gear-consistency detector: 15 standing false-positive mismatches remain post-#8527, root cause is a block-level era-scoping blind spot (distinct from #8518's 3 classes) — not worth a 2nd detector-complexity fix per the 2026-10-02 ruling; re-check only if the mismatch set changes shape.
 4. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings — no new fix.
 5. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-03 19:44 UTC (4x/day run) — new vein: albumArticlesCatalog.js description-field boilerplate, distinct from the module-file sweeps; 3 verified proposals filed (#8546-8548)
+
+### Context
+Bank check: 5 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + #8541 birth-data batch) — well under 45, cleared to file up to 8 net-new. Metrics 19:44 UTC (407 users/444 sessions/661 views 7d; GSC 7,022 impr/137 clicks/1.95% CTR/pos 7.3 — unchanged fetch vs this morning). Content-gap: `joey jordison drum kit` (53 impr, 1.89% CTR) and `arin ilejay` (594 impr, 0% CTR) both re-matched to standing rulings (known gear-qualified oscillator line 242/205; class-2 bare-name line 250) — no new fix. Audit: robots.txt (live curl) all 8 required AI crawlers explicitly allowed; 2,016 `/llms/*.md` files live. `node scripts/verify-gear-consistency.cjs` fresh — 15 mismatches, all matched the standing skip-ruling list (zero new gear-fabrication hits, consistent with the last several runs). Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+With the birth-data vein closed and the gear-consistency detector clean, looked for a fresh angle rather than re-sweeping exhausted territory (FAQ/gearHighlights/sources.items/trivia rosters all closed per learned-patterns.md). Grepped `packages/frontend/data/albumArticles/albumArticlesCatalog.js` (8,933 lines — a separate metadata/description-field catalog, distinct from the per-drummer module files in the same directory) for repeated generic brand/model phrases, the same "boilerplate contamination" shape that previously found the Pearl Demon Drive vein (2026-09-25). "DW 9000"/"DW 9002" hit 24 times across 10 unrelated drummers — dispatched a subagent to verify every hit against `endorsementNews.js` era-scoped ground truth before trusting the lead.
+
+**Result: the DW-9000 theory mostly didn't pan out** — 9 of 10 drummers' catalog entries are correct (several explicitly already-fixed by prior issues, e.g. #8110 Ray Luzier, #7355/#6233 Blake Richardson, #7450 Scott Travis). But the investigation surfaced one confirmed fabrication (Flo Mounier) plus 2 side-leads which I personally re-verified via direct file reads (not trusting the subagent's verdict alone):
+
+- **Flo Mounier** (`albumArticlesCatalog.js`, 3 entries: Whisper Supremacy 1998, And Then You'll Beg 2000, Once Was Not 2005) — this catalog file's `description`/`title` fields assert cymbal/hardware brands (Paiste Alpha, Pearl Eliminator, DW 9000, DW hardware) with **zero supporting `endorsementNews.js` timeline entry at any era before 2005 (cymbals) or 2012 (hardware)** — confirmed via full direct read of the timeline array. Also caught a 3rd bug while reading: Whisper Supremacy's "Pearl Masters BRX" is wrong-era (that upgrade is timeline-dated to the 2000 album per the RENEWED entry) — should be Pearl MX Series, reinforced by the already-established #7401 ruling on a sibling file. Confirmed distinct from #8522 (which fixed a *different* entry/file — The Unspoken King hardware in the module file, not this catalog file) via `gh issue view 8522`. Filed **#8546**.
+- **Matt Greiner** (`albumArticlesCatalog.js`, Beacon 2019 + Guardians 2020 entries) — still say "Meinl Byzance Extra Dry cymbals" 3-4 years after the verified 2016 Paiste Formula 602 switch; the sibling 2023 entry in the same file already correctly says Paiste, used as the fix template. Confirmed distinct from closed #8384 (same bug, but scoped to `albumArticles/matt-greiner.js` + `licks/matt-greiner.js`, never this catalog file) via direct body read. Filed **#8547**.
+- **Arin Ilejay** (`drummerEvolution.js`, 2011-2015 Avenged Sevenfold era block) — a 3-way-disagreement side-lead the subagent flagged: this file still states a Mapex Saturn/Mapex Falcon/Vic Firth/Evans rig that closed issue #8176 already externally refuted with 5 independent sources (Zildjian official page, Gear Gods, drumfaster.com, Reverb listing, Equipboard) in favor of DW/Promark/Remo. #8176's own follow-ups (#8177/#8353/#8480) each explicitly scoped to a *different* file and left `drummerEvolution.js` as the one unreconciled sibling. Dedup-confirmed via `gh issue list --search` (no hit naming this file for this drummer). Filed **#8548**.
+
+### Dedup notes
+All 3 personally dedup-checked via `gh issue list --state all --search` plus direct `gh issue view` reads of the nearest-looking prior issue (not title-matching alone) before filing — each confirmed to target a file/field combination no prior fix touched.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8541 (prior run, birth-data batch)
+- #8546-8548 (this run, 3 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 8 open `seo-proposal`.
+
+### Next run
+1. Watch #8546-8548 through CEO triage.
+2. **New standing lead**: `albumArticlesCatalog.js` (the description/title metadata file, separate from the per-drummer module files) has never been systematically swept for gear-fabrication — this run found 2 genuine hits (Flo Mounier, Matt Greiner) via a single targeted boilerplate-string grep, not an exhaustive pass. Worth a dedicated full sweep next time the bank needs topping up: grep the file's `description` fields for brand names per drummer and cross-check against `endorsementNews.js`, the same method used here, scaled to the full ~72-drummer catalog instead of just the 10 drummers sampled via the "DW 9000" string.
+3. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings — no new fix.
+4. Next drum-chair watch due Monday 2026-10-05, group 1.

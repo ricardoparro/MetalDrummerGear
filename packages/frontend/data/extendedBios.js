@@ -3059,7 +3059,7 @@ Children of Bodom became one of Finland's most successful metal exports, selling
     sections: {
       overview: {
         title: 'Overview',
-        content: `Hannes Grossmann (born September 8, 1982, in Freising, Germany) is a German drummer, composer, and producer widely regarded as one of the most technically proficient drummers in extreme metal. His playing combines classical music influences with precision extreme metal technique, creating a unique style that bridges technical death metal with progressive and jazz elements.
+        content: `Hannes Grossmann (born September 8, 1982, in Bayreuth, Germany) is a German drummer, composer, and producer widely regarded as one of the most technically proficient drummers in extreme metal. His playing combines classical music influences with precision extreme metal technique, creating a unique style that bridges technical death metal with progressive and jazz elements.
 
 Grossmann first gained international recognition as the drummer for Necrophagist (2004-2010), one of the most influential technical death metal bands. He subsequently co-founded Obscura, where he helped define the progressive technical death metal sound. Beyond performing, he is an accomplished composer and producer who has worked on numerous metal productions from his studio in Germany.`
       },
@@ -6397,7 +6397,7 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
     sections: {
       overview: {
         title: 'Overview',
-        content: `Jason Bittner (born August 19, 1970, in Waterbury, Connecticut) is an American drummer best known for his work with thrash metal legends Overkill and metalcore pioneers Shadows Fall. His powerful, versatile drumming has made him one of the most respected drummers in the American heavy metal scene.
+        content: `Jason Bittner (born January 11, 1970, in Niskayuna, New York) is an American drummer best known for his work with thrash metal legends Overkill and metalcore pioneers Shadows Fall. His powerful, versatile drumming has made him one of the most respected drummers in the American heavy metal scene.
 
 Bittner rose to prominence with Shadows Fall during the early 2000s metalcore explosion, contributing to Grammy-nominated albums. Following Shadows Fall's hiatus, he joined Flotsam and Jetsam before becoming Overkill's drummer in 2017, continuing the legacy of one of thrash metal's most enduring bands.`
       },
@@ -7415,7 +7415,7 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
     sections: {
       overview: {
         title: 'Overview',
-        content: `Ben Koller (born March 12, 1978) is an American drummer best known for his work with influential metalcore/hardcore band Converge since 1999. He is widely regarded as one of the most important drummers in heavy music, having helped define the sound of modern metalcore and hardcore through his work on landmark albums like "Jane Doe."
+        content: `Ben Koller (born July 29, 1980) is an American drummer best known for his work with influential metalcore/hardcore band Converge since 1999. He is widely regarded as one of the most important drummers in heavy music, having helped define the sound of modern metalcore and hardcore through his work on landmark albums like "Jane Doe."
 
 Beyond Converge, Koller maintains an impressive roster of projects including Mutoid Man (with Stephen Brodsky of Cave In), All Pigs Must Die, and Killer Be Killed. His relentless energy, creative approach, and ability to shift between genres while maintaining intensity has made him an icon in underground heavy music.`
       },

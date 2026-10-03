@@ -309,14 +309,14 @@ export const articles = {
     "ogImage": "/images/albums/bleed-the-fifth-drums.webp",
     "intro": {
       "title": "Bleed the Fifth: Divine Heresy's Extreme Debut",
-      "content": "Released in August 2007 — via Century Media Records in North America and Roadrunner Records in Europe, Fear Factory guitarist Dino Cazares's longtime home — Bleed the Fifth is Divine Heresy's debut album and the record that introduced Tim Yeung to a significantly wider extreme metal audience. Recorded, mixed, and mastered at Undercity Studios in North Hollywood between February and May 2007 under producer Logan Mader (formerly of Machine Head), the album combines death metal brutality with the groove-forward riff architecture Cazares brought from his Fear Factory years.\n\nYeung had already built his reputation across Hate Eternal, Vital Remains, and Morbid Angel by the time Divine Heresy formed, but Bleed the Fifth is where his machine-like blast beat consistency met a more accessible, groove-conscious songwriting style. Three tracks in particular document his range on the record: the title track, \"Bleed the Fifth,\" runs a relentless blast beat at roughly 200 BPM; \"Inferno of Violence\" isolates his double bass technique across extended passages near 195 BPM; and \"Anarchists of the Underground\" shows a groove-within-brutality approach at around 185 BPM that reveals a dimension of his playing separate from pure blasting speed.\n\nThis article covers the complete gear behind Bleed the Fifth — Pearl Reference Masters drums, Sabian AAX/HHX cymbals, a DW 9002 double bass pedal, and Vic Firth 5B sticks — and breaks down how Yeung's technique across all three tracks defines his contribution to one of extreme metal's most technically demanding debut albums.",
+      "content": "Released in August 2007 — via Century Media Records in North America and Roadrunner Records in Europe, Fear Factory guitarist Dino Cazares's longtime home — Bleed the Fifth is Divine Heresy's debut album and the record that introduced Tim Yeung to a significantly wider extreme metal audience. Recorded, mixed, and mastered at Undercity Studios in North Hollywood between February and May 2007 under producer Logan Mader (formerly of Machine Head), the album combines death metal brutality with the groove-forward riff architecture Cazares brought from his Fear Factory years.\n\nYeung had already built his reputation across Hate Eternal, Vital Remains, and Morbid Angel by the time Divine Heresy formed, but Bleed the Fifth is where his machine-like blast beat consistency met a more accessible, groove-conscious songwriting style. Three tracks in particular document his range on the record: the title track, \"Bleed the Fifth,\" runs a relentless blast beat at roughly 200 BPM; \"Inferno of Violence\" isolates his double bass technique across extended passages near 195 BPM; and \"Anarchists of the Underground\" shows a groove-within-brutality approach at around 185 BPM that reveals a dimension of his playing separate from pure blasting speed.\n\nThis article covers the complete gear behind Bleed the Fifth — Pearl Reference Masters drums, Sabian AAX/HHX cymbals, a Tama Speed Cobra 910 double bass pedal, and Vic Firth 5B sticks — and breaks down how Yeung's technique across all three tracks defines his contribution to one of extreme metal's most technically demanding debut albums.",
       "keyPoints": [
         "Bleed the Fifth (2007) is Divine Heresy's debut album, produced by Logan Mader at Undercity Studios",
         "Released via Century Media Records (North America) and Roadrunner Records (Europe)",
         "Tim Yeung's blast beats on the title track run at approximately 200 BPM",
         "\"Inferno of Violence\" isolates his double bass technique at roughly 195 BPM",
         "\"Anarchists of the Underground\" demonstrates a groove-within-brutality approach at around 185 BPM",
-        "Same Pearl Reference Masters / Sabian / DW 9002 setup Yeung uses across his Morbid Angel and Hate Eternal work"
+        "Same Pearl Reference Masters / Sabian / Tama Speed Cobra 910 setup Yeung uses across his Morbid Angel and Hate Eternal work"
       ]
     },
     "drumKit": {
@@ -386,14 +386,14 @@ export const articles = {
       "estimatedValue": "$1,200–2,000 (full Sabian AAX/HHX setup)"
     },
     "hardware": {
-      "title": "DW 9002: The Engine Behind Bleed the Fifth's Speed",
+      "title": "Tama Speed Cobra 910: The Engine Behind Bleed the Fifth's Speed",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 9002 Double Bass Pedal",
-          "notes": "Smooth cam action supporting Yeung's heel-up, ankle-driven technique on \"Inferno of Violence\"",
-          "description": "\"Inferno of Violence\" is the clearest showcase of Yeung's foot technique on the record — extended passages where the guitar riff sustains over a driving double bass foundation give an unobstructed view of his pedal work at roughly 195 BPM. The DW 9002's smooth, consistent cam action supports the heel-up, ankle-driven approach Yeung shares with other elite extreme metal double bassists, producing a defined, audible note from each stroke rather than a rushing smear. Bass drum tones on the Divine Heresy recordings were reinforced with trigger assistance, standard practice for extreme metal productions of the era, which let the kick clarity survive Mader's dense guitar mix."
+          "brand": "Tama",
+          "model": "Tama Speed Cobra 910 Double Pedal",
+          "notes": "Direct-drive action supporting Yeung's heel-up, ankle-driven technique on \"Inferno of Violence\"",
+          "description": "\"Inferno of Violence\" is the clearest showcase of Yeung's foot technique on the record — extended passages where the guitar riff sustains over a driving double bass foundation give an unobstructed view of his pedal work at roughly 195 BPM. The Speed Cobra 910's direct-drive system supports the heel-up, ankle-driven approach Yeung shares with other elite extreme metal double bassists, producing a defined, audible note from each stroke rather than a rushing smear. Bass drum tones on the Divine Heresy recordings were reinforced with trigger assistance, standard practice for extreme metal productions of the era, which let the kick clarity survive Mader's dense guitar mix."
         },
         {
           "type": "Sticks",
@@ -441,7 +441,7 @@ export const articles = {
           "Extended passages where the guitar sustains over a driving double bass foundation",
           "Trigger-assisted bass drum tone, standard for extreme metal productions of the era"
         ],
-        "gearNotes": "DW 9002's smooth cam action supports the relaxed, rebound-efficient foot technique across long unbroken passages."
+        "gearNotes": "The Tama Speed Cobra 910's direct-drive action supports the relaxed, rebound-efficient foot technique across long unbroken passages."
       },
       {
         "track": "Anarchists of the Underground",
@@ -471,7 +471,7 @@ export const articles = {
       },
       {
         "question": "What drum kit did Tim Yeung use on Bleed the Fifth?",
-        "answer": "Tim Yeung played a Pearl Reference Masters kit on Bleed the Fifth — maple/mahogany hybrid shells in a double 22\" x 18\" bass drum configuration, with 10\" and 12\" rack toms and 16\" and 18\" floor toms. His setup included Sabian AAX and HHX cymbals, a DW 9002 double bass pedal, and Vic Firth 5B sticks — the same rig documented on his [complete drum setup breakdown](/articles/tim-yeung-drum-setup)."
+        "answer": "Tim Yeung played a Pearl Reference Masters kit on Bleed the Fifth — maple/mahogany hybrid shells in a double 22\" x 18\" bass drum configuration, with 10\" and 12\" rack toms and 16\" and 18\" floor toms. His setup included Sabian AAX and HHX cymbals, a Tama Speed Cobra 910 double bass pedal, and Vic Firth 5B sticks — the same rig documented on his [complete drum setup breakdown](/articles/tim-yeung-drum-setup)."
       }
     ],
     "relatedAlbums": [
@@ -512,7 +512,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Bleed the Fifth: The Record That Widened Tim Yeung's Audience",
-      "content": "Bleed the Fifth works as a career document precisely because it captures Tim Yeung's range rather than a single dimension of his playing. The title track proves he can sustain a 200 BPM blast beat with machine-like consistency; \"Inferno of Violence\" isolates the foot technique that makes that consistency possible; \"Anarchists of the Underground\" proves he can trade pure speed for groove without losing intensity. Few extreme metal drummers demonstrate all three capabilities on a single record as clearly as Yeung does here.\n\nThe gear behind that performance — Pearl Reference Masters, Sabian AAX/HHX cymbals, a DW 9002 double bass pedal, Vic Firth 5B sticks — is the same setup Yeung carried into his subsequent Morbid Angel tenure, evidence that his equipment choices were never the variable driving his versatility. Logan Mader's production at Undercity Studios gave that performance the clarity to be heard in full detail.\n\nFor deeper exploration:\n- **Full drummer profile**: [Tim Yeung at MetalForge](/drummer/tim-yeung)\n- **Complete gear breakdown**: [Tim Yeung drum setup](/articles/tim-yeung-drum-setup)\n- **Death metal cluster**: [Paul Mazurkiewicz drum setup — Cannibal Corpse](/articles/paul-mazurkiewicz-drum-setup)"
+      "content": "Bleed the Fifth works as a career document precisely because it captures Tim Yeung's range rather than a single dimension of his playing. The title track proves he can sustain a 200 BPM blast beat with machine-like consistency; \"Inferno of Violence\" isolates the foot technique that makes that consistency possible; \"Anarchists of the Underground\" proves he can trade pure speed for groove without losing intensity. Few extreme metal drummers demonstrate all three capabilities on a single record as clearly as Yeung does here.\n\nThe gear behind that performance — Pearl Reference Masters, Sabian AAX/HHX cymbals, a Tama Speed Cobra 910 double bass pedal, Vic Firth 5B sticks — is the same setup Yeung carried into his subsequent Morbid Angel tenure, evidence that his equipment choices were never the variable driving his versatility. Logan Mader's production at Undercity Studios gave that performance the clarity to be heard in full detail.\n\nFor deeper exploration:\n- **Full drummer profile**: [Tim Yeung at MetalForge](/drummer/tim-yeung)\n- **Complete gear breakdown**: [Tim Yeung drum setup](/articles/tim-yeung-drum-setup)\n- **Death metal cluster**: [Paul Mazurkiewicz drum setup — Cannibal Corpse](/articles/paul-mazurkiewicz-drum-setup)"
     }
   }
 };

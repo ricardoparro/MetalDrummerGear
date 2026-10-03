@@ -33,7 +33,18 @@ const { pathToFileURL } = require('url');
 
 const ROOT = path.join(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'packages/frontend/data');
-const CATEGORIES = ['drums', 'cymbals', 'sticks', 'heads', 'hardware'];
+const CATEGORIES = ['drums', 'cymbals', 'sticks', 'heads', 'hardware', 'electronics'];
+// `electronics` ground truth (#8518) only tracks ONE item per drummer (e.g.
+// danny-carey's "Mandala" controller), but elaborate rigs documented
+// elsewhere (drummerEvolution.js, the roster API, free-text comparisons)
+// routinely name several distinct electronics items side by side (e.g. his
+// Fear Inoculum-era rig also runs a Roland SPD-SX alongside Mandala) without
+// that being a brand switch — same multi-item-vs-single-ground-truth shape
+// as the jay-weinberg snare note in the issue. Only the processors that were
+// actually audited for this category (processLicks/processAlbumArticles,
+// where trigger items collide with the pedal brand) check `electronics`;
+// everywhere else continues to check just the original 5 categories.
+const CHECKED_CATEGORIES = CATEGORIES.filter((c) => c !== 'electronics');
 
 const UNSURE_RE = /not\s+(publicly\s+)?(documented|confirmed|announced)|unconfirmed|never\s+publicly|undocumented|brand\s+unconfirmed/i;
 
@@ -190,6 +201,11 @@ async function loadGroundTruth() {
         if (change.category !== cat) continue;
         addBrand(historical, change.from);
         addBrand(historical, change.to);
+        // SIGNATURE/RENEWED-style entries use `brand`/`product` instead of
+        // `from`/`to` (e.g. aquiles-priester's 2004 Vic Firth signature
+        // stick, #8518) — without this, those brands silently drop out of
+        // the historical set and era-accurate mentions get flagged as drift.
+        addBrand(historical, change.brand);
       }
       groundTruth[slug].categories[cat] = {
         candidates,
@@ -385,7 +401,7 @@ function processDrummerComparisons(groundTruth, globalBrands, mismatches) {
       const hasB = groundTruth[slugB] && mentions(clause, tokensB);
       const target = hasA && !hasB ? slugA : hasB && !hasA ? slugB : null;
       if (!target || !groundTruth[target]) continue;
-      for (const cat of CATEGORIES) {
+      for (const cat of CHECKED_CATEGORIES) {
         if (!CATEGORY_KEYWORDS[cat].test(clause)) continue;
         checkAndRecord(mismatches, clause, target, cat, relFile, lineNo, groundTruth, globalBrands);
       }
@@ -434,7 +450,7 @@ function processGearPriceHistory(groundTruth, globalBrands, mismatches) {
     if (!gt) continue;
     const block = content.slice(start, end);
 
-    for (const cat of CATEGORIES) {
+    for (const cat of CHECKED_CATEGORIES) {
       const catSpan = findKeyObjectSpan(block, cat, 0);
       if (!catSpan) continue;
       const meSpan = findKeyObjectSpan(block, 'modernEquivalent', catSpan.start, catSpan.end);
@@ -526,7 +542,7 @@ function processDrummerEvolution(groundTruth, globalBrands, mismatches) {
       const yearsMatch = /years:\s*'([^']*)'/.exec(era);
       if (!yearsMatch || !yearsMatch[1].includes('Present')) continue;
 
-      for (const cat of CATEGORIES) {
+      for (const cat of CHECKED_CATEGORIES) {
         const re = new RegExp(`\\n {10}${cat}:\\s*\\{\\s*item:\\s*'((?:[^'\\\\]|\\\\.)*)'`, 'd');
         const mm = re.exec(era);
         if (!mm) continue;
@@ -558,6 +574,11 @@ function processDrummerEvolution(groundTruth, globalBrands, mismatches) {
 // to a "Present" bucket) gets checked, and only with a plain brand-drift
 // check — never an inferred cutoff year.
 const LICKS_DIR = path.join(DATA_DIR, 'licks');
+// Electronic trigger modules have no dedicated "type" bucket in source data
+// and get tagged "hardware" alongside bass-drum pedals, even though
+// endorsementNews.js tracks them under the separate ELECTRONICS category
+// (#8518) — detect by name so they check against the right ground truth.
+const TRIGGER_RE = /trigger/i;
 
 function extractYear(text) {
   if (!text) return null;
@@ -598,7 +619,12 @@ function processLicks(groundTruth, globalBrands, mismatches) {
       let gm;
       while ((gm = gearRe.exec(b.block))) {
         const name = gm[1];
-        const cat = gm[2];
+        // Source data has no dedicated "electronics" type bucket, so trigger
+        // modules get tagged "hardware" even though endorsementNews.js tracks
+        // them under the separate ELECTRONICS category (#8518) — reroute by
+        // name so they're checked against the right ground truth instead of
+        // colliding with the bass-drum-pedal brand.
+        const cat = TRIGGER_RE.test(name) && gm[2] === 'hardware' ? 'electronics' : gm[2];
         if (!CATEGORIES.includes(cat)) continue;
         const idx = b.start + gm.indices[1][0];
         checkAndRecord(mismatches, name, b.slug, cat, relFile, lineOf(idx), groundTruth, globalBrands);
@@ -665,10 +691,12 @@ function processAlbumArticles(groundTruth, globalBrands, mismatches) {
       if (!itemsSpan) continue;
       for (const item of topLevelObjects(content, itemsSpan.start, itemsSpan.end)) {
         const itemText = content.slice(item.start, item.end);
+        const nameM = /"name":\s*"((?:[^"\\]|\\.)*)"/.exec(itemText);
         const typeM = /"type":\s*"((?:[^"\\]|\\.)*)"/.exec(itemText);
         const brandM = /"brand":\s*"((?:[^"\\]|\\.)*)"/d.exec(itemText);
         if (!typeM || !brandM) continue;
-        const cat = /pedal/i.test(typeM[1]) ? 'hardware' : /stick/i.test(typeM[1]) ? 'sticks' : null;
+        const isTrigger = TRIGGER_RE.test(typeM[1]) || (nameM && TRIGGER_RE.test(nameM[1]));
+        const cat = isTrigger ? 'electronics' : /pedal/i.test(typeM[1]) ? 'hardware' : /stick/i.test(typeM[1]) ? 'sticks' : null;
         if (!cat) continue;
         const idx = item.start + brandM.indices[1][0];
         checkAndRecord(mismatches, brandM[1], slug, cat, relFile, lineOf(idx), groundTruth, globalBrands);
@@ -707,7 +735,13 @@ const GEARTYPE_TO_CATEGORY = {
   kits: 'drums',
   'bass-drum': 'drums',
   sticks: 'sticks',
-  hardware: 'hardware',
+  // NOTE: gearType `'hardware'` (stands/racks/thrones) is intentionally NOT
+  // mapped here. endorsementNews.js's `hardware` field tracks bass-drum
+  // pedal brand only — a stand/rack brand has no relationship to it, so
+  // comparing them produced false mismatches (#8518, e.g. tomas-haake's
+  // Sonor throne flagged against his Tama pedal). Stands/racks/thrones
+  // aren't tracked in endorsementNews.js at all, so this gearType is
+  // deliberately left unmapped (skipped) rather than routed elsewhere.
   pedals: 'hardware',
 };
 
@@ -770,7 +804,7 @@ function processApiDrummersIndex(groundTruth, globalBrands, mismatches) {
     const block = content.slice(start, end);
 
     // 1. Top-level `gear` object — direct per-category brand check.
-    for (const cat of CATEGORIES) {
+    for (const cat of CHECKED_CATEGORIES) {
       const re = new RegExp(`\\n {6}${cat}:\\s*'((?:[^'\\\\]|\\\\.)*)'`, 'd');
       const mm = re.exec(block);
       if (!mm) continue;
@@ -789,7 +823,7 @@ function processApiDrummersIndex(groundTruth, globalBrands, mismatches) {
       const era = block.slice(eraStarts[i], eraEnd);
       const yearsMatch = /years:\s*'([^']*)'/.exec(era);
       if (!yearsMatch || !/present/i.test(yearsMatch[1])) continue;
-      for (const cat of CATEGORIES) {
+      for (const cat of CHECKED_CATEGORIES) {
         const re = new RegExp(`\\n {10}${cat}:\\s*'((?:[^'\\\\]|\\\\.)*)'`, 'd');
         const mm = re.exec(era);
         if (!mm) continue;

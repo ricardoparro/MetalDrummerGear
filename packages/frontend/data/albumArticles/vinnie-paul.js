@@ -1415,7 +1415,7 @@ export const articles = {
     "ogImage": "/images/albums/great-southern-trendkill-drums.webp",
     "intro": {
       "title": "The Sound of a Band Coming Apart",
-      "content": "Released on May 7, 1996, Pantera's \"The Great Southern Trendkill\" arrived as the band's most fractured, bleakest, and emotionally extreme record. It debuted at #4 on the Billboard 200 — not #1, as the common myth suggests, but a top-five debut for an album with no commercial concessions whatsoever. By 1996, the internal tension inside Pantera was no longer subtext. It was the record.\n\nVocalist Phil Anselmo, deep in his New Orleans orbit and battling addiction, recorded his vocals separately at Trent Reznor's Nothing Studios in New Orleans, while Vinnie Paul, Dimebag Darrell, and Rex Brown tracked the music in Texas. The instrumental sessions took place primarily at Chasin' Jason Studios — Dimebag's home studio in Dalworthington Gardens — with additional work at Dallas Sound Lab. Terry Date returned to produce alongside Vinnie Paul, with Dimebag also credited as co-producer. The geographic split between Texas and New Orleans wasn't just logistics. It was the sound of a band coming apart in real time.\n\nAt the center of that fracture was Vinnie Paul Abbott, who delivered one of his most emotionally varied performances. \"Suicide Note Pt. II\" is arguably the heaviest, ugliest track of his entire recorded career — a blast of pure violence anchored by relentless double kick. On the other end of the spectrum, \"Floods\" features some of his most patient, emotive playing: tom rolls that breathe, cymbal washes that swell, and a closing fill sequence that ranks among the most iconic in metal drumming.\n\nThe kit had evolved again. Vinnie was now firmly in his Pearl Masters Custom era, with Sabian HH cymbals — the endorsement that would carry him through the rest of his career — Pearl Eliminator pedals, and Vic Firth signature sticks. This article breaks down every piece of gear, the unusual recording approach, and the production techniques behind Pantera's most divisive, most ambitious, and most emotionally complete record.",
+      "content": "Released on May 7, 1996, Pantera's \"The Great Southern Trendkill\" arrived as the band's most fractured, bleakest, and emotionally extreme record. It debuted at #4 on the Billboard 200 — not #1, as the common myth suggests, but a top-five debut for an album with no commercial concessions whatsoever. By 1996, the internal tension inside Pantera was no longer subtext. It was the record.\n\nVocalist Phil Anselmo, deep in his New Orleans orbit and battling addiction, recorded his vocals separately at Trent Reznor's Nothing Studios in New Orleans, while Vinnie Paul, Dimebag Darrell, and Rex Brown tracked the music in Texas. The instrumental sessions took place primarily at Chasin' Jason Studios — Dimebag's home studio in Dalworthington Gardens — with additional work at Dallas Sound Lab. Terry Date returned to produce alongside Vinnie Paul, with Dimebag also credited as co-producer. The geographic split between Texas and New Orleans wasn't just logistics. It was the sound of a band coming apart in real time.\n\nAt the center of that fracture was Vinnie Paul Abbott, who delivered one of his most emotionally varied performances. \"Suicide Note Pt. II\" is arguably the heaviest, ugliest track of his entire recorded career — a blast of pure violence anchored by relentless double kick. On the other end of the spectrum, \"Floods\" features some of his most patient, emotive playing: tom rolls that breathe, cymbal washes that swell, and a closing fill sequence that ranks among the most iconic in metal drumming.\n\nThe kit had evolved again. Vinnie was now firmly in his Pearl Masters Custom era, with Sabian HH cymbals — the endorsement that would carry him through the rest of his career — a bass drum pedal setup whose specific brand isn't publicly documented, and Vic Firth signature sticks. This article breaks down every piece of gear, the unusual recording approach, and the production techniques behind Pantera's most divisive, most ambitious, and most emotionally complete record.",
       "keyPoints": [
         "Debuted at #4 on the Billboard 200 in May 1996 — not #1, despite a persistent online myth",
         "Tracked at Chasin' Jason Studios (Dimebag's home studio) and Dallas Sound Lab",
@@ -1522,14 +1522,13 @@ export const articles = {
       "estimatedValue": "$1,600-2,200 total (1996)"
     },
     "hardware": {
-      "title": "The Pearl Eliminator Engine",
+      "title": "Bass Drum Pedals: Brand Not Publicly Documented",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Eliminator Double Pedal",
-          "notes": "Era-correct; Vinnie later moved to chain-drive Eliminators",
-          "description": "For \"The Great Southern Trendkill,\" Vinnie used the Pearl Eliminator system — a logical move given his deepening relationship with the Pearl brand. The Eliminator's interchangeable cam system let him tune the pedal's response for the album's mix of mid-tempo grooves and brutal double-kick passages. Vinnie would continue to develop his Eliminator setup over the rest of his career, eventually settling on chain-drive cam configurations."
+          "brand": "Not publicly documented",
+          "notes": "No verified source names Vinnie's pedal brand for this era; his documented hardware endorsement (ddrum) began in 2008.",
+          "description": "Vinnie Paul's bass drum pedal brand for \"The Great Southern Trendkill\" hasn't been confirmed by any artist interview or gear feature — only his drum kit (Pearl) and cymbal (Sabian) endorsements from this era are documented. What's audible on the record is the result: a double-kick setup tuned to handle the album's mix of mid-tempo grooves and brutal passages like \"Suicide Note Pt. II\" with total consistency."
         },
         {
           "type": "Stands",
@@ -1589,7 +1588,7 @@ export const articles = {
           "Showcases his ability to play extreme tempos with full musicality",
           "A direct sonic counterweight to the acoustic Pt. I"
         ],
-        "gearNotes": "Pearl Eliminator pedals at peak speed. Triggered kicks keep articulation perfect through the chaos."
+        "gearNotes": "Bass drum pedals at peak speed. Triggered kicks keep articulation perfect through the chaos."
       },
       {
         "track": "Floods",
@@ -1618,7 +1617,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "The Pivot Between #1 and the End",
-      "content": "\"The Great Southern Trendkill\" sits at a fascinating pivot point in Vinnie Paul's catalog. It comes after the commercial peak of \"Far Beyond Driven\" and before the more conventional production of \"Reinventing the Steel.\" Between those poles, \"Trendkill\" is the wildest, ugliest, and most emotionally complete record Vinnie ever made with Pantera.\n\n**What Changed from Far Beyond Driven:**\nThe kit moved from Remo to Pearl Masters Custom — a warmer, more woody fundamental tone, and the start of Vinnie's Pearl endorsement. The bass drums dropped from 24\" to 22\", trading some low-end thunder for tighter articulation at extreme tempos. Cymbals stayed on Sabian but upgraded from the AA/AAX combination to the HH series, moving Vinnie to a darker, more complex palette. The pedal setup consolidated around the Pearl Eliminator system after the DW 9000/Steel Cobra hybrid era. And the snare moved from a 14\" x 8\" steel snare to a 14\" x 6.5\" brass free-floating — brighter, sharper, more controlled.\n\n**The Studio Shift:**\nLeaving Pantego Sound Studio for Chasin' Jason and Dallas Sound Lab forced Terry Date and Vinnie Paul to rebuild their approach. The drier, smaller room meant more reliance on trigger blending and close-miked attack. The result is a drum sound that's more focused and aggressive than \"Far Beyond Driven,\" with less of the cavernous room ambience of the previous record.\n\n**Chart Reality vs. Myth:**\nThe album debuted at #4 on the Billboard 200 in May 1996 — a fact often miscredited as #1 in retrospectives. The actual chart position doesn't diminish the achievement: a top-five debut for an album with \"Suicide Note Pt. II\" on it remains an extraordinary commercial outcome for music this uncompromising.\n\n**Legacy:**\nAfter \"The Great Southern Trendkill,\" Pantera would release \"Reinventing the Steel\" in 2000 before dissolving. The Abbott brothers would go on to form Damageplan, and Vinnie would later join Hellyeah. But \"Trendkill\" stands as the most emotionally varied performance of Vinnie Paul's career — from the brutality of \"Suicide Note Pt. II\" to the tenderness of \"Floods\" — and a document of a band putting everything they had into one final pre-Reinventing statement.",
+      "content": "\"The Great Southern Trendkill\" sits at a fascinating pivot point in Vinnie Paul's catalog. It comes after the commercial peak of \"Far Beyond Driven\" and before the more conventional production of \"Reinventing the Steel.\" Between those poles, \"Trendkill\" is the wildest, ugliest, and most emotionally complete record Vinnie ever made with Pantera.\n\n**What Changed from Far Beyond Driven:**\nThe kit moved from Remo to Pearl Masters Custom — a warmer, more woody fundamental tone, and the start of Vinnie's Pearl endorsement. The bass drums dropped from 24\" to 22\", trading some low-end thunder for tighter articulation at extreme tempos. Cymbals stayed on Sabian but upgraded from the AA/AAX combination to the HH series, moving Vinnie to a darker, more complex palette. The pedal setup consolidated around a single double-kick system after the DW 9000/Steel Cobra hybrid era, though the specific pedal brand for this period isn't publicly documented. And the snare moved from a 14\" x 8\" steel snare to a 14\" x 6.5\" brass free-floating — brighter, sharper, more controlled.\n\n**The Studio Shift:**\nLeaving Pantego Sound Studio for Chasin' Jason and Dallas Sound Lab forced Terry Date and Vinnie Paul to rebuild their approach. The drier, smaller room meant more reliance on trigger blending and close-miked attack. The result is a drum sound that's more focused and aggressive than \"Far Beyond Driven,\" with less of the cavernous room ambience of the previous record.\n\n**Chart Reality vs. Myth:**\nThe album debuted at #4 on the Billboard 200 in May 1996 — a fact often miscredited as #1 in retrospectives. The actual chart position doesn't diminish the achievement: a top-five debut for an album with \"Suicide Note Pt. II\" on it remains an extraordinary commercial outcome for music this uncompromising.\n\n**Legacy:**\nAfter \"The Great Southern Trendkill,\" Pantera would release \"Reinventing the Steel\" in 2000 before dissolving. The Abbott brothers would go on to form Damageplan, and Vinnie would later join Hellyeah. But \"Trendkill\" stands as the most emotionally varied performance of Vinnie Paul's career — from the brutality of \"Suicide Note Pt. II\" to the tenderness of \"Floods\" — and a document of a band putting everything they had into one final pre-Reinventing statement.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1634,11 +1633,6 @@ export const articles = {
           "category": "Cymbals",
           "then": "Sabian HH series",
           "now": "Sabian HH still in production; HHX is the modern bright sibling"
-        },
-        {
-          "category": "Pedals",
-          "then": "Pearl Eliminator double pedal",
-          "now": "Pearl Eliminator Demon Drive is the modern flagship"
         },
         {
           "category": "Studio",
@@ -1694,7 +1688,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Emotional Peak",
-      "content": "\"The Great Southern Trendkill\" is the record where Vinnie Paul stretched the furthest emotionally. \"Far Beyond Driven\" had the commercial peak. \"Vulgar Display of Power\" had the genre-defining grooves. But \"Trendkill\" had the full range — from the punishing extremity of \"Suicide Note Pt. II\" to the patient, devastating beauty of \"Floods.\"\n\nThe Pearl Masters Custom kit, Sabian HH cymbals, Pearl Eliminator pedals, and Vic Firth signature sticks gave Vinnie the tools to deliver that range. But what makes the record extraordinary is how Vinnie used those tools under conditions that should have produced a worse album. The band was fractured. Vocals were tracked a thousand miles away. The studio was a smaller, less familiar room. And the music came out tighter, heavier, and more emotional than any Pantera record before or since.\n\n\"Floods\" remains the proof. The closing tom fill — a descending melodic sequence that has been transcribed and re-transcribed by drummers for thirty years — is what Vinnie Paul leaves behind on this record. It is restraint, taste, melody, and power in one passage, played on a Pearl Masters Custom kit at Dimebag's home studio while a band was quietly falling apart around him.\n\nVinnie Paul passed away on June 22, 2018. \"The Great Southern Trendkill\" stands as the most emotionally complete document of his Pantera career — the record that proves a drummer most famous for groove and power could also play with absolute tenderness when the song demanded it.\n\nFor the complete Pantera arc, see the [Cowboys from Hell drum setup](/articles/cowboys-from-hell-drum-setup), [Vulgar Display of Power drum setup](/articles/vulgar-display-of-power-drum-setup), and [Far Beyond Driven drum setup](/articles/far-beyond-driven-drum-setup) breakdowns."
+      "content": "\"The Great Southern Trendkill\" is the record where Vinnie Paul stretched the furthest emotionally. \"Far Beyond Driven\" had the commercial peak. \"Vulgar Display of Power\" had the genre-defining grooves. But \"Trendkill\" had the full range — from the punishing extremity of \"Suicide Note Pt. II\" to the patient, devastating beauty of \"Floods.\"\n\nThe Pearl Masters Custom kit, Sabian HH cymbals, a bass drum pedal setup whose brand isn't publicly documented, and Vic Firth signature sticks gave Vinnie the tools to deliver that range. But what makes the record extraordinary is how Vinnie used those tools under conditions that should have produced a worse album. The band was fractured. Vocals were tracked a thousand miles away. The studio was a smaller, less familiar room. And the music came out tighter, heavier, and more emotional than any Pantera record before or since.\n\n\"Floods\" remains the proof. The closing tom fill — a descending melodic sequence that has been transcribed and re-transcribed by drummers for thirty years — is what Vinnie Paul leaves behind on this record. It is restraint, taste, melody, and power in one passage, played on a Pearl Masters Custom kit at Dimebag's home studio while a band was quietly falling apart around him.\n\nVinnie Paul passed away on June 22, 2018. \"The Great Southern Trendkill\" stands as the most emotionally complete document of his Pantera career — the record that proves a drummer most famous for groove and power could also play with absolute tenderness when the song demanded it.\n\nFor the complete Pantera arc, see the [Cowboys from Hell drum setup](/articles/cowboys-from-hell-drum-setup), [Vulgar Display of Power drum setup](/articles/vulgar-display-of-power-drum-setup), and [Far Beyond Driven drum setup](/articles/far-beyond-driven-drum-setup) breakdowns."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -1862,7 +1856,7 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "Vinnie Paul's Drum Setup on Pantera's Reinventing the Steel (2000)",
-    "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and Pearl Eliminator P-3000E pedals behind the band's last record before their 2003 breakup.",
+    "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and double-kick pedal setup behind the band's last record before their 2003 breakup.",
     "seoKeywords": [
       "reinventing the steel drums",
       "vinnie paul last album",
@@ -1876,7 +1870,7 @@ export const articles = {
     "ogImage": "/images/albums/reinventing-the-steel-drums.webp",
     "intro": {
       "title": "The Last Record",
-      "content": "Released on March 21, 2000, \"Reinventing the Steel\" is Pantera's sixth and final studio album — the last time Vinnie Paul, Dimebag Darrell, Phil Anselmo, and Rex Brown would ever record together. It debuted at #4 on the Billboard 200 and was certified Gold by the RIAA that May. Three years later, Pantera quietly dissolved. Four years after that, Dimebag was murdered on stage with Damageplan. Heard today, \"Reinventing the Steel\" carries a weight none of the band could have known about at the time: it's the closing statement of the classic Pantera lineup.\n\nThe album marked a deliberate return to basics after the fractured, experimental extremity of \"The Great Southern Trendkill.\" Vinnie Paul and Dimebag Darrell produced the record themselves alongside engineer Sterling Winfield — the first Pantera studio album since 1988's \"Power Metal\" not produced by Terry Date. Tracked once again at Chasin' Jason Studios, Dimebag's home studio in the Arlington area, the sessions were reportedly more unified than \"Trendkill's\" split-coast recording, with the whole band back in one room chasing a simpler, riff-first sound.\n\nVinnie Paul's drumming on \"Reinventing the Steel\" is widely regarded as some of the most groove-focused, pocket-heavy playing of his career. Tracks like \"Goddamn Electric\" and \"Revolution Is My Name\" — the latter voted Song of the Year in the 2000 Metal Edge Readers' Choice Awards — showcase the power-groove approach Vinnie had spent a decade refining, now delivered with a leaner, more direct production than the trigger-heavy records of the mid-90s.\n\nThis article breaks down every piece of gear behind Pantera's last studio statement: the white marine pearl Pearl Reference kit, the Sabian cymbal setup straddling the HH and new AAX Custom lines, and the Pearl Eliminator pedals that drove the double kick on the album's heaviest tracks.",
+      "content": "Released on March 21, 2000, \"Reinventing the Steel\" is Pantera's sixth and final studio album — the last time Vinnie Paul, Dimebag Darrell, Phil Anselmo, and Rex Brown would ever record together. It debuted at #4 on the Billboard 200 and was certified Gold by the RIAA that May. Three years later, Pantera quietly dissolved. Four years after that, Dimebag was murdered on stage with Damageplan. Heard today, \"Reinventing the Steel\" carries a weight none of the band could have known about at the time: it's the closing statement of the classic Pantera lineup.\n\nThe album marked a deliberate return to basics after the fractured, experimental extremity of \"The Great Southern Trendkill.\" Vinnie Paul and Dimebag Darrell produced the record themselves alongside engineer Sterling Winfield — the first Pantera studio album since 1988's \"Power Metal\" not produced by Terry Date. Tracked once again at Chasin' Jason Studios, Dimebag's home studio in the Arlington area, the sessions were reportedly more unified than \"Trendkill's\" split-coast recording, with the whole band back in one room chasing a simpler, riff-first sound.\n\nVinnie Paul's drumming on \"Reinventing the Steel\" is widely regarded as some of the most groove-focused, pocket-heavy playing of his career. Tracks like \"Goddamn Electric\" and \"Revolution Is My Name\" — the latter voted Song of the Year in the 2000 Metal Edge Readers' Choice Awards — showcase the power-groove approach Vinnie had spent a decade refining, now delivered with a leaner, more direct production than the trigger-heavy records of the mid-90s.\n\nThis article breaks down every piece of gear behind Pantera's last studio statement: the white marine pearl Pearl Reference kit, the Sabian cymbal setup straddling the HH and new AAX Custom lines, and the double-kick pedal setup (brand not publicly documented) that drove the double kick on the album's heaviest tracks.",
       "keyPoints": [
         "Pantera's sixth and final studio album, released March 21, 2000",
         "Debuted at #4 on the Billboard 200; certified Gold by the RIAA on May 2, 2000",
@@ -1971,14 +1965,13 @@ export const articles = {
       "estimatedValue": "$1,700-2,300 total (2000)"
     },
     "hardware": {
-      "title": "The Pearl Eliminator P-3000E",
+      "title": "Bass Drum Pedals: Brand Not Publicly Documented",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Eliminator P-3000E Double Pedal",
-          "notes": "Refined Eliminator cam system from the Trendkill-era setup",
-          "description": "Vinnie continued with the Pearl Eliminator line on \"Reinventing the Steel,\" using the P-3000E double pedal. The Eliminator's interchangeable cam system let him dial in the balance of speed and power needed for the album's mid-tempo grooves and the faster double-kick runs on tracks like \"Hellbound.\""
+          "brand": "Not publicly documented",
+          "notes": "No verified source names Vinnie's pedal brand for this era; his documented hardware endorsement (ddrum) began in 2008.",
+          "description": "Vinnie Paul's bass drum pedal brand for \"Reinventing the Steel\" hasn't been confirmed by any artist interview or gear feature — only his drum kit (Pearl) and cymbal (Sabian) endorsements from this era are documented. What's audible on the record is a double-kick setup that handled the balance of speed and power needed for the album's mid-tempo grooves and the faster runs on tracks like \"Hellbound.\""
         },
         {
           "type": "Stands",
@@ -2058,7 +2051,7 @@ export const articles = {
           "Sabian HH China accents the main riff's stop-time hits",
           "Demonstrates the album's restrained, groove-first philosophy"
         ],
-        "gearNotes": "Pearl Eliminator P-3000E pedals give the sparse kick hits maximum weight without excess speed."
+        "gearNotes": "Bass drum pedals give the sparse kick hits maximum weight without excess speed."
       }
     ],
     "evolution": {
@@ -2079,11 +2072,6 @@ export const articles = {
           "category": "Cymbals",
           "then": "Sabian HH / AAX Custom blend",
           "now": "Sabian AAX Custom remains a current production line"
-        },
-        {
-          "category": "Pedals",
-          "then": "Pearl Eliminator P-3000E",
-          "now": "Pearl Eliminator Demon Drive is the modern flagship"
         },
         {
           "category": "Band",
@@ -2135,7 +2123,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Final Groove",
-      "content": "\"Reinventing the Steel\" doesn't reach for the commercial peak of \"Far Beyond Driven\" or the emotional extremity of \"The Great Southern Trendkill.\" Instead, it does something arguably harder: it returns, deliberately, to the groove-first foundation that made Pantera matter in the first place. Vinnie Paul's playing throughout — power without excess, pocket over flash — is a reminder of exactly what he brought to metal drumming for two decades.\n\nThe white marine pearl Pearl Reference kit, the Sabian HH/AAX Custom cymbal blend, and the Pearl Eliminator P-3000E pedals gave Vinnie the tools for one last statement. None of it was flashy. All of it served the songs, from the direct assault of \"Hellbound\" to the half-time swagger of \"Revolution Is My Name.\"\n\nNone of the band could have known this was the end. Pantera dissolved in 2003 amid tensions that had been building for years, and Dimebag Darrell was murdered on stage with Damageplan in December 2004 — a tragedy that makes every note of \"Reinventing the Steel\" harder to hear now than it was in 2000. Vinnie Paul himself passed away in 2018, forming a devastating bookend to the classic Pantera lineup.\n\nFor the complete Pantera arc, see the [Cowboys from Hell drum setup](/articles/cowboys-from-hell-drum-setup), [Vulgar Display of Power drum setup](/articles/vulgar-display-of-power-drum-setup), [Far Beyond Driven drum setup](/articles/far-beyond-driven-drum-setup), and [The Great Southern Trendkill drum setup](/articles/great-southern-trendkill-drum-setup) breakdowns."
+      "content": "\"Reinventing the Steel\" doesn't reach for the commercial peak of \"Far Beyond Driven\" or the emotional extremity of \"The Great Southern Trendkill.\" Instead, it does something arguably harder: it returns, deliberately, to the groove-first foundation that made Pantera matter in the first place. Vinnie Paul's playing throughout — power without excess, pocket over flash — is a reminder of exactly what he brought to metal drumming for two decades.\n\nThe white marine pearl Pearl Reference kit, the Sabian HH/AAX Custom cymbal blend, and a double-kick pedal setup whose brand isn't publicly documented gave Vinnie the tools for one last statement. None of it was flashy. All of it served the songs, from the direct assault of \"Hellbound\" to the half-time swagger of \"Revolution Is My Name.\"\n\nNone of the band could have known this was the end. Pantera dissolved in 2003 amid tensions that had been building for years, and Dimebag Darrell was murdered on stage with Damageplan in December 2004 — a tragedy that makes every note of \"Reinventing the Steel\" harder to hear now than it was in 2000. Vinnie Paul himself passed away in 2018, forming a devastating bookend to the classic Pantera lineup.\n\nFor the complete Pantera arc, see the [Cowboys from Hell drum setup](/articles/cowboys-from-hell-drum-setup), [Vulgar Display of Power drum setup](/articles/vulgar-display-of-power-drum-setup), [Far Beyond Driven drum setup](/articles/far-beyond-driven-drum-setup), and [The Great Southern Trendkill drum setup](/articles/great-southern-trendkill-drum-setup) breakdowns."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -2143,7 +2131,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Vinnie Paul's Drum Setup on Pantera's Reinventing the Steel (2000)",
-          "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and Pearl Eliminator P-3000E pedals behind the band's last record before their 2003 breakup.",
+          "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and double-kick pedal setup behind the band's last record before their 2003 breakup.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"

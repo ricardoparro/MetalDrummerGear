@@ -1713,7 +1713,7 @@ Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath
     sections: {
       overview: {
         title: 'Overview',
-        content: `Shannon Larkin (born April 24, 1967, in Baltimore, Maryland) is an American drummer best known as the drummer for multi-platinum hard rock band Godsmack since 2002. Before Godsmack, Larkin made his mark with Ugly Kid Joe, known for their hit "Everything About You," and thrash band Wrathchild America.
+        content: `Shannon Larkin (born April 24, 1967, in Chicago, Illinois) is an American drummer best known as the drummer for multi-platinum hard rock band Godsmack since 2002. Before Godsmack, Larkin made his mark with Ugly Kid Joe, known for their hit "Everything About You," and thrash band Wrathchild America.
 
 Known for his powerful, groove-oriented drumming style and dynamic stage presence, Larkin has become one of the most recognizable drummers in modern hard rock. His playing combines hard-hitting power with musical sensitivity, perfectly complementing Godsmack's heavy yet accessible sound.`
       },
@@ -2925,7 +2925,7 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
     sections: {
       overview: {
         title: 'Overview',
-        content: `Jaska Raatikainen (born July 18, 1979, in Espoo, Finland) was the drummer and co-founder of Finnish melodic death metal band Children of Bodom, formed in 1993 (originally as Inearthed). Alongside the late Alexi Laiho (1979-2020), Raatikainen helped create the band's signature sound that blended neoclassical melodies with aggressive death metal.
+        content: `Jaska Raatikainen (born July 18, 1979, in Lappeenranta, Finland) was the drummer and co-founder of Finnish melodic death metal band Children of Bodom, formed in 1993 (originally as Inearthed). Alongside the late Alexi Laiho (1979-2020), Raatikainen helped create the band's signature sound that blended neoclassical melodies with aggressive death metal.
 
 Children of Bodom became one of Finland's most successful metal exports, selling over 2 million albums worldwide. Raatikainen's drumming combined blast beats, complex double bass patterns, and progressive elements that complemented Laiho's virtuosic guitar work. The band announced their dissolution in 2019 after 26 years together. Following Alexi Laiho's tragic death in December 2020, Children of Bodom's legacy became permanently sealed in metal history.`
       },
@@ -3186,7 +3186,7 @@ Grossmann first gained international recognition as the drummer for Necrophagist
     sections: {
       overview: {
         title: 'Overview',
-        content: `Dariusz "Daray" Brzozowski (born August 23, 1984, in Warsaw, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his 10-year tenure with Polish death metal legends Vader (2006-2016).
+        content: `Dariusz "Daray" Brzozowski (born January 30, 1980, in Nowy Dwór Mazowiecki, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his 10-year tenure with Polish death metal legends Vader (2006-2016).
 
 Daray's drumming combines extreme speed and technical precision with theatrical flair, making him ideally suited for Dimmu Borgir's grandiose symphonic productions. His ability to perform complex, blistering patterns while maintaining the dynamics required for orchestral metal has established him as one of the premier drummers in extreme metal.`
       },
@@ -3310,7 +3310,7 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
     sections: {
       overview: {
         title: 'Overview',
-        content: `Jocke Wallgren (born April 1, 1986, in Karlstad, Sweden) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson. His powerful, groove-oriented drumming style has brought fresh energy to the band's Viking-themed sound while honoring their established musical identity.
+        content: `Jocke Wallgren (born June 10, 1985, in Chile, and raised in Stockholm, Sweden) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson. His powerful, groove-oriented drumming style has brought fresh energy to the band's Viking-themed sound while honoring their established musical identity.
 
 Before Amon Amarth, Wallgren was known for his work with Swedish bands including Valkyria. His transition to one of Sweden's most internationally successful metal bands marked a significant career milestone, and he has since become an integral part of Amon Amarth's live and studio work.`
       },
@@ -6523,7 +6523,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
     sections: {
       overview: {
         title: 'Overview',
-        content: `Martin Lopez (born February 8, 1978, in Stockholm, Sweden, raised in Mölndal) is a Swedish drummer of Uruguayan descent, best known for his work with progressive metal bands Opeth (1997-2006) and Soen (2010-present). He is widely regarded as one of the most influential progressive metal drummers of his generation.
+        content: `Martin Lopez (born May 20, 1978, in Stockholm, Sweden, raised in Mölndal) is a Swedish drummer of Uruguayan descent, best known for his work with progressive metal bands Opeth (1997-2006) and Soen (2010-present). He is widely regarded as one of the most influential progressive metal drummers of his generation.
 
 Lopez's tenure with Opeth spanned some of the band's most critically acclaimed albums, including "Still Life," "Blackwater Park," and "Ghost Reveries." His dynamic, jazz-influenced approach to extreme metal drumming helped define Opeth's signature sound. After leaving Opeth due to health issues, Lopez co-founded Soen in 2010, continuing to showcase his exceptional musicality and versatility.`
       },
@@ -6908,7 +6908,7 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
     sections: {
       overview: {
         title: 'Overview',
-        content: `Nick Augusto (born April 16, 1988, in Orlando, Florida) is an American drummer best known for his tenure with thrash/metalcore band Trivium from 2010 to 2014. He joined the band following the departure of Travis Smith, bringing a more aggressive and technically demanding approach to Trivium's sound.
+        content: `Nick Augusto (born August 4, 1986, in Fort Lauderdale, Florida) is an American drummer best known for his tenure with thrash/metalcore band Trivium from 2010 to 2014. He joined the band following the departure of Travis Smith, bringing a more aggressive and technically demanding approach to Trivium's sound.
 
 During his four years with Trivium, Augusto recorded two studio albums—"In Waves" (2011) and "Vengeance Falls" (2013)—and toured extensively, helping to expand the band's international fanbase. His drumming style combined thrash metal intensity with metalcore precision, perfectly complementing Trivium's evolving sound.`
       },
@@ -7282,7 +7282,7 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
     sections: {
       overview: {
         title: 'Overview',
-        content: `Blake Richardson (born February 25, 1984, in Winston-Salem, North Carolina) is an American drummer known for his work with progressive metal band Between the Buried and Me (BTBAM) since 2005. He is widely regarded as one of the most technically proficient and creative drummers in progressive metal, capable of seamlessly blending extreme metal intensity with jazz, fusion, and experimental elements.
+        content: `Blake Richardson (born June 29, 1984, in Winston-Salem, North Carolina) is an American drummer known for his work with progressive metal band Between the Buried and Me (BTBAM) since 2005. He is widely regarded as one of the most technically proficient and creative drummers in progressive metal, capable of seamlessly blending extreme metal intensity with jazz, fusion, and experimental elements.
 
 Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "The Parallax" series has earned him critical acclaim and a devoted following among drummers. His ability to navigate complex compositions while maintaining musicality and groove has made him an influential figure in modern progressive metal.`
       },

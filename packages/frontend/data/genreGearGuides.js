@@ -11932,16 +11932,15 @@ The rock-solid Gibraltar mounting eliminates hardware drift during Lamb of God's
         },
         {
           rank: 3,
-          name: "Tama Double Pedal",
-          brand: "Tama",
+          name: "Classic Chain-Drive Double Pedal",
           model: "Chain-Drive Double Pedal",
-          image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tama_Iron_Cobra_double_bass_drum_pedal.jpg",
+          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€280-350",
           tier: "mid-pro",
           driveType: "Chain Drive",
-          description: `Vinnie Paul built groove metal's founding pedal template on a Tama double pedal, driving the thunderous, deliberately-placed kick patterns that anchored "Vulgar Display of Power" and "Far Beyond Driven" during his 1990-1996 tenure with Tama. Paul favored control and pocket feel over nonstop double-bass barrages, reserving the second pedal for section-ending accents rather than continuous runs.
+          description: `Vinnie Paul built groove metal's founding pedal template on a chain-drive double pedal, driving the thunderous, deliberately-placed kick patterns that anchored "Vulgar Display of Power" and "Far Beyond Driven" during his 1990-1996 Pantera era. Paul favored control and pocket feel over nonstop double-bass barrages, reserving the second pedal for section-ending accents rather than continuous runs.
 
-For groove metal drummers who want the genre's founding feel — weight and placement over raw speed — a dependable chain-drive Tama pedal remains a proven reference point.`,
+For groove metal drummers who want the genre's founding feel — weight and placement over raw speed — a dependable chain-drive pedal remains a proven reference point.`,
           pros: [
             "Vinnie Paul's own founding groove metal template",
             "Chain drive delivers a natural, controllable feel for deliberate placement",
@@ -11960,7 +11959,7 @@ For groove metal drummers who want the genre's founding feel — weight and plac
             beater: "Felt Beater (fixed)"
           },
           usedBy: [
-            { name: "Vinnie Paul", band: "Pantera", note: "Tama double pedal (1990-1996) — groove metal's founding, pocket-first template" }
+            { name: "Vinnie Paul", band: "Pantera", note: "Chain-drive double pedal (1990-1996) — groove metal's founding, pocket-first template" }
           ],
           verdict: "The founding groove metal feel. Best for drummers who prioritize pocket and placement over speed.",
           rating: 4.4
@@ -12057,7 +12056,7 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
 
     // Comparison section
     comparison: {
-      title: "Trick Pro V vs Trick Pro 1-V vs Tama Double Pedal for Groove Metal",
+      title: "Trick Pro V vs Trick Pro 1-V vs Chain-Drive Double Pedal for Groove Metal",
       content: `Groove metal's pedal choices split between modern direct-drive precision and the genre's founding pocket-first feel. Here's how they compare:
 
 **Trick Pro V (Chris Adler):**
@@ -12070,12 +12069,12 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
 - Mounted on stable Gibraltar hardware for zero drift
 - Best for current-era groove metal precision at a premium price
 
-**Tama Double Pedal (Vinnie Paul):**
+**Chain-Drive Double Pedal (Vinnie Paul):**
 - Chain drive built around deliberate, weighted placement
 - The genre's founding feel — control and pocket over raw speed
 - Best for drummers building single-pedal groove technique first
 
-**Our Recommendation:** Start with the Tama double pedal or a single pedal if you're building foundational pocket feel. Step up to the Trick Pro V or Trick Pro 1-V once you need direct-drive precision for syncopated double-kick accents.`,
+**Our Recommendation:** Start with a chain-drive double pedal or a single pedal if you're building foundational pocket feel. Step up to the Trick Pro V or Trick Pro 1-V once you need direct-drive precision for syncopated double-kick accents.`,
       comparisonTable: [
         { feature: "Pocket Precision", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Founding Groove Feel", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -12100,7 +12099,7 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
         },
         {
           category: "Best Founding Feel",
-          pedal: "Tama Double Pedal",
+          pedal: "Classic Chain-Drive Double Pedal",
           reason: "Groove metal's founding template — control and deliberate placement over raw speed."
         },
         {
@@ -12118,14 +12117,14 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
       'best-bass-drum-pedals-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Tama double pedal — Pantera groove metal founding template' },
+      { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Chain-drive double pedal — Pantera groove metal founding template' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Trick Pro V — Lamb of God syncopated riff-locking precision' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — current Lamb of God riff-locking precision' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra — Sepultura tribal groove metal precision' }
     ],
 
     featuredDrummers: [
-      { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Tama double pedal — Pantera\'s founding, pocket-first groove metal template' },
+      { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Chain-drive double pedal — Pantera\'s founding, pocket-first groove metal template' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Trick Pro V — Lamb of God\'s syncopated riff-locking precision' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — modern groove metal\'s riff-locking standard' }
     ],
@@ -12134,7 +12133,7 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
     faq: [
       {
         question: "What bass drum pedal did Vinnie Paul use?",
-        answer: "Vinnie Paul built groove metal's founding pedal template with a Tama double pedal during his 1990-1996 tenure with Tama, though he favored deliberately-placed single kick hits over constant double bass, reserving the second pedal mainly for accents and section-ending bursts on Pantera classics like \"Vulgar Display of Power\" and \"Far Beyond Driven.\""
+        answer: "Vinnie Paul built groove metal's founding pedal template with a chain-drive double pedal during his 1990-1996 Pantera era, though he favored deliberately-placed single kick hits over constant double bass, reserving the second pedal mainly for accents and section-ending bursts on Pantera classics like \"Vulgar Display of Power\" and \"Far Beyond Driven.\""
       },
       {
         question: "Do I need a double pedal for groove metal?",
@@ -12142,7 +12141,7 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
       },
       {
         question: "Direct drive or chain drive — which is better for groove metal?",
-        answer: "Both work well. Direct drive (Chris Adler's Trick Pro V, Art Cruz's Trick Pro 1-V) gives the most immediate, linear response for landing syncopated accents exactly on the beat. Chain drive (Vinnie Paul's Tama pedal, Igor Cavalera's Tama Iron Cobra) offers a more traditional feel many groove-oriented drummers prefer for pocket control."
+        answer: "Both work well. Direct drive (Chris Adler's Trick Pro V, Art Cruz's Trick Pro 1-V) gives the most immediate, linear response for landing syncopated accents exactly on the beat. Chain drive (Vinnie Paul's chain-drive pedal, Igor Cavalera's Tama Iron Cobra) offers a more traditional feel many groove-oriented drummers prefer for pocket control."
       },
       {
         question: "What's the best budget bass drum pedal for groove metal?",
@@ -12159,7 +12158,7 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
       title: "Find Your Groove Metal Pocket",
       content: `Groove metal's pedal choice comes down to feel, not top speed. Vinnie Paul built the genre's founding template on deliberate placement over nonstop double bass, and that pocket-first philosophy still defines what makes a great groove metal bass drum pedal today. Chris Adler's Trick Pro V and Art Cruz's Trick Pro 1-V show how direct-drive precision translates that founding feel into modern, syncopated riff-locking accuracy, while Igor Cavalera's Tama Iron Cobra proves a smooth, adjustable chain-drive pedal serves groove's tribal-influenced pocket just as well.
 
-Start with a single pedal or a Tama double pedal if you're building foundational pocket feel. Step up to the Trick Pro V or Trick Pro 1-V once your syncopated double-kick accents demand direct-drive precision.
+Start with a single pedal or a chain-drive double pedal if you're building foundational pocket feel. Step up to the Trick Pro V or Trick Pro 1-V once your syncopated double-kick accents demand direct-drive precision.
 
 🤘 **Feel the pocket. Own the groove.**`
     }
@@ -63908,7 +63907,7 @@ Budget shouldn't stop you either. A Zildjian S Family Dark or Sabian XSR Monarch
     // SEO metadata
     title: "Best Drum Pedals for Groove Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Groove Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for groove metal drumming: what Vinnie Paul (Tama), Chris Adler (Trick Pro V), Art Cruz (Trick Pro 1-V), and Igor Cavalera (Tama Iron Cobra) actually play. Tight, punchy response for groove metal's syncopated riff-locking grooves — ranked budget to pro.",
+    description: "Best drum pedals for groove metal drumming: what Vinnie Paul (chain-drive double pedal), Chris Adler (Trick Pro V), Art Cruz (Trick Pro 1-V), and Igor Cavalera (Tama Iron Cobra) actually play. Tight, punchy response for groove metal's syncopated riff-locking grooves — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for groove metal',
       'groove metal drum pedals',
@@ -63945,7 +63944,7 @@ Budget shouldn't stop you either. A Zildjian S Family Dark or Sabian XSR Monarch
       title: "Why Groove Metal Needs a Tight, Punchy Pedal Over Pure Speed",
       content: `Groove metal inverts death metal's usual pedal priorities. Instead of chasing 250+ BPM blast beats, groove metal locks into syncopated, riff-tight patterns where the bass drum has to land exactly on the pocket — a fraction of a beat early or late and the entire riff falls apart. That changes what you need from a pedal: rather than a pedal tuned purely for maximum top-end speed, groove metal rewards a tight, immediate, highly controllable response that lets you nail syncopated accents with total precision.
 
-Vinnie Paul built groove metal's founding pedal template with Pantera, driving a Tama double pedal through the thunderous, syncopated double-kick patterns that anchored "Vulgar Display of Power" and "Far Beyond Driven" during his 1990-1996 tenure with Tama. Chris Adler's Trick Pro V double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." and "Roots," proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
+Vinnie Paul built groove metal's founding pedal template with Pantera, driving a chain-drive double pedal through the thunderous, syncopated double-kick patterns that anchored "Vulgar Display of Power" and "Far Beyond Driven" during his 1990-1996 Pantera era. Chris Adler's Trick Pro V double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." and "Roots," proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
 
 This guide breaks down drive systems, footboard feel, and response tuning for groove metal pedals — comparing four drummers whose setups defined the genre's syncopated, riff-locking foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -63969,7 +63968,7 @@ This guide breaks down drive systems, footboard feel, and response tuning for gr
         {
           name: "Drive System for Pocket Precision",
           icon: "⚙️",
-          description: "Direct drive (Adler's Trick Pro V) offers the most linear feel for landing syncopated accents exactly on the beat. Chain and dual-chain systems (Vinnie Paul's Tama pedal, Cavalera's Iron Cobra) provide a slightly more traditional feel many groove-oriented drummers prefer for pocket feel.",
+          description: "Direct drive (Adler's Trick Pro V) offers the most linear feel for landing syncopated accents exactly on the beat. Chain and dual-chain systems (Vinnie Paul's chain-drive pedal, Cavalera's Iron Cobra) provide a slightly more traditional feel many groove-oriented drummers prefer for pocket feel.",
           recommendation: "Direct drive for maximum precision, chain drive for a more traditional groove feel"
         },
         {
@@ -63993,7 +63992,7 @@ This guide breaks down drive systems, footboard feel, and response tuning for gr
         {
           name: "Double Pedal Reliability for Syncopated Doubles",
           icon: "🔁",
-          description: "Vinnie Paul's Tama double pedal and Igor Cavalera's Tama Iron Cobra both prioritize rock-solid reliability for the syncopated double-kick hits that punctuate groove metal's signature riffs — a place where a pedal skipping a beat ruins the entire groove.",
+          description: "Vinnie Paul's chain-drive double pedal and Igor Cavalera's Tama Iron Cobra both prioritize rock-solid reliability for the syncopated double-kick hits that punctuate groove metal's signature riffs — a place where a pedal skipping a beat ruins the entire groove.",
           recommendation: "A double pedal built for consistent, skip-free triggering on syncopated doubled hits"
         }
       ]
@@ -64125,15 +64124,14 @@ The Iron Cobra's proven reliability across decades of touring makes it a dependa
         },
         {
           rank: 4,
-          name: "Tama Chain-Drive Double Pedal",
-          brand: "Tama",
+          name: "Classic Chain-Drive Double Pedal",
           model: "Chain-Drive Double Pedal (1990-1996 era)",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€250-320",
           tier: "mid-pro",
           driveType: "Chain Drive",
 
-          description: `Vinnie Paul built groove metal's founding pedal template on a Tama double pedal during his 1990-1996 tenure with Tama, driving the thunderous, syncopated double-kick patterns that anchored Pantera's "Vulgar Display of Power" and "Far Beyond Driven." The straightforward chain-drive design prioritizes rock-solid reliability and thunderous power over exotic mechanisms.
+          description: `Vinnie Paul built groove metal's founding pedal template on a chain-drive double pedal during his 1990-1996 Pantera era, driving the thunderous, syncopated double-kick patterns that anchored Pantera's "Vulgar Display of Power" and "Far Beyond Driven." The straightforward chain-drive design prioritizes rock-solid reliability and thunderous power over exotic mechanisms.
 
 For groove metal drummers who want to trace their pedal choice back to the genre's founding sound, Vinnie Paul's setup proves that a well-built, reliable chain-drive pedal remains fully capable of anchoring the genre's most iconic, riff-locking grooves.`,
 
@@ -64156,7 +64154,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
             weight: "4.4 kg (pair)"
           },
           usedBy: [
-            { name: "Vinnie Paul", band: "Pantera", note: "Tama chain drive (1990-1996) — groove metal's founding thunderous, syncopated template" }
+            { name: "Vinnie Paul", band: "Pantera", note: "Chain-drive double pedal (1990-1996) — groove metal's founding thunderous, syncopated template" }
           ],
           verdict: "Groove metal's founding pedal sound. Vinnie Paul's reliable, thunderous setup remains a benchmark decades later.",
           rating: 4.4
@@ -64229,7 +64227,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
 - Proven reliability across decades of touring
 - Fully capable of anchoring groove metal's syncopated, riff-tight patterns
 
-**The Truth:** Both work for groove metal because the genre is about pocket precision, not top-end speed. Chris Adler nails syncopated Lamb of God riffs on direct drive. Vinnie Paul built the genre's founding sound on a Tama chain-drive pedal. Your technique and feel for the pocket matter more than the drive system.
+**The Truth:** Both work for groove metal because the genre is about pocket precision, not top-end speed. Chris Adler nails syncopated Lamb of God riffs on direct drive. Vinnie Paul built the genre's founding sound on a chain-drive pedal. Your technique and feel for the pocket matter more than the drive system.
 
 **Our Recommendation:** If you're new to groove metal, try both if possible. If buying blind, direct drive (Trick Pro V or Trick Pro 1-V) gives you the most immediate, riff-locking precision out of the box.`,
       comparisonTable: [
@@ -64275,7 +64273,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
       'best-bass-drums-for-groove-metal'
     ],
     relatedDrummers: [
-      { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Tama double pedal — Pantera groove metal founding template' },
+      { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Chain-drive double pedal — Pantera groove metal founding template' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Trick Pro V direct drive — Lamb of God syncopated riff precision' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — current Lamb of God riff-locking precision' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra — Sepultura tribal groove metal pocket' }
@@ -64283,7 +64281,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Tama double pedal — Pantera groove metal founding template' },
+      { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Chain-drive double pedal — Pantera groove metal founding template' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Trick Pro V direct drive — Lamb of God syncopated riff precision' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — current Lamb of God riff-locking precision' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra — Sepultura tribal groove metal pocket' }
@@ -64293,7 +64291,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
     faq: [
       {
         question: "Who are the best groove metal drummers and what pedals do they use?",
-        answer: "Vinnie Paul of Pantera built groove metal's founding pedal template on a Tama double pedal during his 1990-1996 tenure with Tama, driving the syncopated double-kick patterns on \"Vulgar Display of Power\" and \"Far Beyond Driven.\" Chris Adler of Lamb of God plays a Trick Pro V direct drive double pedal, and Art Cruz, Lamb of God's current drummer, plays a Trick Pro 1-V mounted on Gibraltar hardware."
+        answer: "Vinnie Paul of Pantera built groove metal's founding pedal template on a chain-drive double pedal during his 1990-1996 Pantera era, driving the syncopated double-kick patterns on \"Vulgar Display of Power\" and \"Far Beyond Driven.\" Chris Adler of Lamb of God plays a Trick Pro V direct drive double pedal, and Art Cruz, Lamb of God's current drummer, plays a Trick Pro 1-V mounted on Gibraltar hardware."
       },
       {
         question: "What pedal does Chris Adler use?",
@@ -64301,7 +64299,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
       },
       {
         question: "Direct drive or chain drive — which is better for groove metal?",
-        answer: "Both work well for groove metal because the genre prioritizes syncopated pocket precision over pure top-end speed. Chris Adler and Art Cruz use direct drive for immediate, linear response, while Vinnie Paul (Tama) and Igor Cavalera (Tama Iron Cobra) built groove metal's foundational sound on reliable chain drive pedals."
+        answer: "Both work well for groove metal because the genre prioritizes syncopated pocket precision over pure top-end speed. Chris Adler and Art Cruz use direct drive for immediate, linear response, while Vinnie Paul (chain-drive double pedal) and Igor Cavalera (Tama Iron Cobra) built groove metal's foundational sound on reliable chain drive pedals."
       },
       {
         question: "Do groove metal pedals need to be fast like death metal pedals?",
@@ -64316,7 +64314,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
     // Conclusion
     conclusion: {
       title: "Find Your Groove Metal Pedal Feel",
-      content: `Groove metal pedal choice comes down to how precisely you need to land syncopated accents in the pocket. Chris Adler's Trick Pro V defined the direct-drive standard for Lamb of God's riff-locking grooves. Art Cruz's Trick Pro 1-V proved that V-Cam adjustability and rock-solid Gibraltar mounting can carry that precision into the band's current era. Igor Cavalera's Tama Iron Cobra shows that reliable chain drive still anchors groove metal's tribal pocket, while Vinnie Paul's Tama pedal remains the genre's founding, thunderous template decades later.
+      content: `Groove metal pedal choice comes down to how precisely you need to land syncopated accents in the pocket. Chris Adler's Trick Pro V defined the direct-drive standard for Lamb of God's riff-locking grooves. Art Cruz's Trick Pro 1-V proved that V-Cam adjustability and rock-solid Gibraltar mounting can carry that precision into the band's current era. Igor Cavalera's Tama Iron Cobra shows that reliable chain drive still anchors groove metal's tribal pocket, while Vinnie Paul's chain-drive pedal remains the genre's founding, thunderous template decades later.
 
 None of these approaches is more "correct" — all four represent groove metal's foundational commitment to tight, syncopated pocket precision over raw speed. Start with whichever drive system matches your technique, and remember that landing exactly on the riff matters more than how fast you can play.
 
@@ -83591,7 +83589,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
     // SEO metadata
     title: "Best Bass Drums for Groove Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Groove Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drum setups for groove metal's punchy, mid-tempo pocket: what Vinnie Paul (Tama), Chris Adler (Mapex Black Panther), Charlie Benante (Tama Starclassic), and John Otto (OCDP Custom) actually play. Deep, thunderous low-mid thump — ranked budget to pro.",
+    description: "Best bass drum setups for groove metal's punchy, mid-tempo pocket: what Vinnie Paul (Tama bass drum), Chris Adler (Mapex Black Panther), Charlie Benante (Tama Starclassic), and John Otto (OCDP Custom) actually play. Deep, thunderous low-mid thump — ranked budget to pro.",
     seoKeywords: [
       'best bass drums for groove metal',
       'groove metal bass drum setup',
@@ -83628,7 +83626,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
       title: "What Bass Drum Setup Delivers Groove Metal's Punchy, Mid-Tempo Thump?",
       content: `Groove metal's entire identity rests on the bass drum landing with more weight than speed. The genre trades thrash's blast-driven tempo for syncopated, mid-tempo patterns in the 100-140 BPM range, where a single kick hit needs to feel like a hammer blow rather than a blur of notes. That reframes what a bass drum setup needs to deliver: instead of the high-headroom speed a death metal or deathcore kit chases, groove metal rewards maximum low-mid punch, a controlled and immediate response, and a shell voiced for weight rather than rebound.
 
-Vinnie Paul built the genre's founding bass drum tone on a Tama 22"x18" bass drum during his 1990-1996 tenure with the brand, driven by a straightforward chain-drive Tama double pedal that anchored Pantera's thunderous, syncopated double-kick patterns on "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler's Mapex Black Panther Design Lab bass drum, paired with his direct-drive Trick Pro V double pedal, gave Lamb of God's New Wave of American Heavy Metal riffs a tighter, more articulate low end across "Ashes of the Wake" and "Sacrament." Charlie Benante has run a Tama Starclassic Maple bass drum through Tama hardware including a Tama Speed Cobra pedal since the 2010s — the same bass drum and pedal family he leaned on in 2022 when he stepped in for Pantera's reunion tour to honor his late friend Vinnie Paul. John Otto's Orange County Drum & Percussion (OCDP) Custom bass drum, driven by a Gibraltar Professional Series double pedal, delivers the deep, hip-hop-influenced pocket that defined Limp Bizkit's rap-metal groove on "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
+Vinnie Paul built the genre's founding bass drum tone on a Tama 22"x18" bass drum during his 1990-1996 tenure with the brand, driven by a straightforward chain-drive double pedal that anchored Pantera's thunderous, syncopated double-kick patterns on "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler's Mapex Black Panther Design Lab bass drum, paired with his direct-drive Trick Pro V double pedal, gave Lamb of God's New Wave of American Heavy Metal riffs a tighter, more articulate low end across "Ashes of the Wake" and "Sacrament." Charlie Benante has run a Tama Starclassic Maple bass drum through Tama hardware including a Tama Speed Cobra pedal since the 2010s — the same bass drum and pedal family he leaned on in 2022 when he stepped in for Pantera's reunion tour to honor his late friend Vinnie Paul. John Otto's Orange County Drum & Percussion (OCDP) Custom bass drum, driven by a Gibraltar Professional Series double pedal, delivers the deep, hip-hop-influenced pocket that defined Limp Bizkit's rap-metal groove on "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
 
 This guide breaks down shell size, head selection, and pedal choice for groove metal bass drums — comparing punchy, pocket-first setups across four drummers whose founding and cross-genre groove metal lineages shaped the genre's thunderous low end, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -83658,7 +83656,7 @@ This guide breaks down shell size, head selection, and pedal choice for groove m
         {
           name: "Tight, Predictable Pedal Response",
           icon: "🦶",
-          description: "Chris Adler's direct-drive Trick Pro V and Vinnie Paul's chain-drive Tama pedal both prioritize landing exactly on the syncopated beat over sheer top-end speed — precision matters more than velocity when the whole riff depends on one kick hit landing in the pocket.",
+          description: "Chris Adler's direct-drive Trick Pro V and Vinnie Paul's chain-drive pedal both prioritize landing exactly on the syncopated beat over sheer top-end speed — precision matters more than velocity when the whole riff depends on one kick hit landing in the pocket.",
           recommendation: "A pedal tuned for immediate, predictable response — direct or chain drive both work if it's precise"
         },
         {
@@ -83688,7 +83686,7 @@ This guide breaks down shell size, head selection, and pedal choice for groove m
       pedals: [
         {
           rank: 1,
-          name: "Tama Bass Drum + Tama Chain-Drive Double Pedal",
+          name: "Tama Bass Drum + Chain-Drive Double Pedal",
           brand: "Tama",
           model: "Maple Bass Drum + Chain-Drive Double Pedal (1990-1996 era)",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
@@ -83696,7 +83694,7 @@ This guide breaks down shell size, head selection, and pedal choice for groove m
           tier: "pro",
           material: "North American Maple + chain-drive double pedal",
 
-          description: `Vinnie Paul built groove metal's founding bass drum tone on Tama drums during his 1990-1996 tenure with the brand, driven by a straightforward chain-drive Tama double pedal. Together they anchored the thunderous, syncopated double-kick patterns that made "Vulgar Display of Power" and "Far Beyond Driven" the genre's defining records.
+          description: `Vinnie Paul built groove metal's founding bass drum tone on Tama drums during his 1990-1996 tenure with the brand, driven by a straightforward chain-drive double pedal. Together they anchored the thunderous, syncopated double-kick patterns that made "Vulgar Display of Power" and "Far Beyond Driven" the genre's defining records.
 
 The North American maple shell delivers a punchy, full-bodied low end tuned for weight rather than speed, while the heavily gated studio tone Pantera became known for shows exactly how much muffling and shell depth matter for a bass drum built to hammer a mid-tempo groove home.`,
 
@@ -83715,7 +83713,7 @@ The North American maple shell delivers a punchy, full-bodied low end tuned for 
             diameter: "22\"",
             depth: "18\"",
             shell: "North American Maple",
-            pedal: "Tama chain-drive double pedal",
+            pedal: "Chain-drive double pedal",
             headRecommendation: "Evans EMAD"
           },
           usedBy: [
@@ -83885,10 +83883,10 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
 
     // Comparison
     comparison: {
-      title: "Tama vs Trick Pro V vs Tama Speed Cobra vs DW 9000 for Groove Metal",
+      title: "Chain-Drive Double Pedal vs Trick Pro V vs Tama Speed Cobra vs DW 9000 for Groove Metal",
       content: `Shell size stays consistent at 22\"x18\" across groove metal's founding and cross-genre lineage, but pedal choice splits these drummers into distinct camps. Here's how they compare:
 
-**Tama Double Pedal (Vinnie Paul):**
+**Chain-Drive Double Pedal (Vinnie Paul):**
 - Straightforward chain drive built for thunderous, reliable power
 - Groove metal's founding pedal template
 - Best for classic, Pantera-style syncopated grooves
@@ -83923,7 +83921,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Bass Drum + Tama Chain-Drive Double Pedal",
+          pedal: "Tama Bass Drum + Chain-Drive Double Pedal",
           reason: "Vinnie Paul's proven Pantera-era platform — groove metal's founding, thunderous bass drum tone."
         },
         {
@@ -83969,11 +83967,11 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
     faq: [
       {
         question: "Who are the best groove metal drummers and what bass drum setups do they use?",
-        answer: "Vinnie Paul of Pantera played a Tama 22x18\" bass drum with a chain-drive Tama double pedal during his 1990-1996 tenure with the brand. Chris Adler of Lamb of God plays a Mapex Black Panther Design Lab bass drum with a Trick Pro V double pedal, Charlie Benante of Anthrax runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra, and John Otto of Limp Bizkit plays an OCDP Custom bass drum with a Gibraltar Professional Series double pedal."
+        answer: "Vinnie Paul of Pantera played a Tama 22x18\" bass drum with a chain-drive double pedal during his 1990-1996 tenure with the brand. Chris Adler of Lamb of God plays a Mapex Black Panther Design Lab bass drum with a Trick Pro V double pedal, Charlie Benante of Anthrax runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra, and John Otto of Limp Bizkit plays an OCDP Custom bass drum with a Gibraltar Professional Series double pedal."
       },
       {
         question: "What bass drum pedal handles groove metal's syncopated pocket best?",
-        answer: "Chris Adler's Trick Pro V delivers immediate, linear response for landing syncopated accents exactly on the beat, while Vinnie Paul's Tama chain-drive pedal and Charlie Benante's Tama Speed Cobra prove that a tight, reliable pedal — direct or chain drive — serves groove metal's mid-tempo pocket just as well as raw speed does."
+        answer: "Chris Adler's Trick Pro V delivers immediate, linear response for landing syncopated accents exactly on the beat, while Vinnie Paul's chain-drive pedal and Charlie Benante's Tama Speed Cobra prove that a tight, reliable pedal — direct or chain drive — serves groove metal's mid-tempo pocket just as well as raw speed does."
       },
       {
         question: "What bass drum size is best for groove metal?",

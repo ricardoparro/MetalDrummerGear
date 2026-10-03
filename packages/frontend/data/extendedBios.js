@@ -574,7 +574,7 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
     sections: {
       overview: {
         title: 'Overview',
-        content: `Tomas Haake (born July 13, 1971, in Örebro, Sweden) is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. He is widely regarded as one of the most innovative and influential drummers in contemporary heavy metal, having pioneered the polyrhythmic drumming style that spawned an entire subgenre known as "djent."
+        content: `Tomas Haake (born July 13, 1971, in Örnsköldsvik, Sweden) is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. He is widely regarded as one of the most innovative and influential drummers in contemporary heavy metal, having pioneered the polyrhythmic drumming style that spawned an entire subgenre known as "djent."
 
 Haake's approach to drumming involves complex polyrhythmic patterns that create the illusion of multiple time signatures occurring simultaneously. His metronomic precision and ability to navigate bewildering rhythmic landscapes while maintaining groove has influenced countless drummers and bands in the progressive and extreme metal communities.`
       },
@@ -845,7 +845,7 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
     sections: {
       overview: {
         title: 'Overview',
-        content: `Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) is a Brazilian drummer who joined Slipknot as their new drummer in 2024, following his 13-year tenure with legendary thrash metal band Sepultura. Named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, Casagrande's drum kit — a Tama Starclassic Bubinga configuration with Paiste cymbals and Tama Iron Cobra double pedal — is built for the extreme demands of Slipknot's live performances.
+        content: `Eloy Casagrande (born January 29, 1991, in Santo André, São Paulo, Brazil) is a Brazilian drummer who joined Slipknot as their new drummer in 2024, following his 13-year tenure with legendary thrash metal band Sepultura. Named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, Casagrande's drum kit — a Tama Starclassic Bubinga configuration with Paiste cymbals and Tama Iron Cobra double pedal — is built for the extreme demands of Slipknot's live performances.
 
 Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented the new generation of metal drumming. His combination of traditional thrash metal power with modern technical elements has made him one of the most exciting and influential drummers in contemporary metal.`
       },
@@ -1246,7 +1246,7 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
     sections: {
       overview: {
         title: 'Overview',
-        content: `Mario Duplantier (born June 19, 1981, in Ondres, France) is a French drummer and visual artist, best known as the drummer and co-founder of progressive death metal band Gojira, which he formed with his brother Joe Duplantier (vocals/guitar) in 1996 (originally as Godzilla).
+        content: `Mario Duplantier (born June 19, 1981, in Bayonne, France, raised in nearby Ondres) is a French drummer and visual artist, best known as the drummer and co-founder of progressive death metal band Gojira, which he formed with his brother Joe Duplantier (vocals/guitar) in 1996 (originally as Godzilla).
 
 Mario's drumming combines crushing power with technical precision, featuring complex double bass patterns and an almost tribal quality that defines Gojira's unique sound. Beyond his drumming, he is a talented visual artist who creates artwork for Gojira's albums, merchandise, and stage productions.`
       },
@@ -2655,14 +2655,14 @@ Mangini departed Dream Theater in 2023 when founding drummer Mike Portnoy rejoin
     sections: {
       overview: {
         title: 'Overview',
-        content: `Matt Garstka (born April 27, 1989, in Westfield, Massachusetts) is an American drummer known for his virtuosic work with instrumental progressive metal band Animals as Leaders since 2012. His playing seamlessly blends jazz fusion, electronic music, and progressive metal, featuring complex polyrhythms, intricate ghost note patterns, and innovative use of dynamics.
+        content: `Matt Garstka (born April 27, 1989, in Hopewell, Virginia (raised in Westfield, Massachusetts)) is an American drummer known for his virtuosic work with instrumental progressive metal band Animals as Leaders since 2012. His playing seamlessly blends jazz fusion, electronic music, and progressive metal, featuring complex polyrhythms, intricate ghost note patterns, and innovative use of dynamics.
 
 Garstka joined Animals as Leaders after the departure of original drummer Navene Koperweis, bringing a jazz-educated sensibility to the band's technical instrumental music. His approach—combining traditional grip, linear independence, and a deep understanding of metric modulation—has made him one of the most influential drummers of his generation. Beyond Animals as Leaders, Garstka is an in-demand educator and session musician.`
       },
       careerHighlights: {
         title: 'Career Highlights',
         items: [
-          { year: '1989', event: 'Born April 27 in Westfield, Massachusetts' },
+          { year: '1989', event: 'Born April 27 in Hopewell, Virginia' },
           { year: '2007', event: 'Began studying at Berklee College of Music' },
           { year: '2012', event: 'Joined Animals as Leaders, replacing Navene Koperweis' },
           { year: '2014', event: 'Released "The Joy of Motion" with Animals as Leaders, first album with band' },
@@ -3430,7 +3430,7 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
     sections: {
       overview: {
         title: 'Overview',
-        content: `Tim Yeung (born November 27, 1978, in Pennsylvania, USA) is an American extreme metal drummer whose incredible speed, precision, and endurance have made him one of the most sought-after drummers in death metal. His resume reads like a who's who of extreme metal, having performed with Morbid Angel, Vital Remains, Hate Eternal, Divine Heresy, and Nile.
+        content: `Tim Yeung (born November 27, 1978, in Rochester, New York) is an American extreme metal drummer whose incredible speed, precision, and endurance have made him one of the most sought-after drummers in death metal. His resume reads like a who's who of extreme metal, having performed with Morbid Angel, Vital Remains, Hate Eternal, Divine Heresy, and Nile.
 
 Yeung's drumming combines machine-like consistency with the brutal intensity demanded by the most extreme forms of death metal. His ability to maintain clarity and power at sustained high tempos has earned him a reputation as one of the elite drummers in the genre.`
       },
@@ -4724,7 +4724,7 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
     sections: {
       overview: {
         title: 'Overview',
-        content: `Richard Christy (born February 1, 1974, in Fort Scott, Kansas) is an American drummer, comedian, and radio personality. In the metal world, he is renowned for his work with Death (1996-2001), Chuck Schuldiner's Control Denied, and Iced Earth (2003-2007). He is considered one of the most technically proficient death metal drummers of his generation.
+        content: `Richard Christy (born April 1, 1974, in Fort Scott, Kansas) is an American drummer, comedian, and radio personality. In the metal world, he is renowned for his work with Death (1996-2001), Chuck Schuldiner's Control Denied, and Iced Earth (2003-2007). He is considered one of the most technically proficient death metal drummers of his generation.
 
 Christy's drumming on Death's final two albums—"The Sound of Perseverance" and the posthumously released Control Denied's "The Fragile Art of Existence"—showcased his incredible speed, precision, and musicality. He later transitioned to entertainment, becoming a prominent member of The Howard Stern Show, but his legacy in metal drumming remains influential.`
       },
@@ -6142,7 +6142,7 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
     sections: {
       overview: {
         title: 'Overview',
-        content: `Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Oslo, Norway) is a Norwegian drummer widely regarded as one of the most influential figures in black metal history. Best known as the longtime drummer of the pioneering black metal band Mayhem, he has also contributed to numerous other projects including Arcturus, Dimmu Borgir, and Shining.
+        content: `Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) is a Norwegian drummer widely regarded as one of the most influential figures in black metal history. Best known as the longtime drummer of the pioneering black metal band Mayhem, he has also contributed to numerous other projects including Arcturus, Dimmu Borgir, and Shining.
 
 Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rhythmic foundation of the band through its most turbulent years. His drumming combines raw black metal aggression with surprising technical sophistication, and his influence on the genre cannot be overstated. He has recorded with over 40 different bands and artists.`
       },

@@ -11069,3 +11069,32 @@ All 12 drummers dedup-checked via `gh issue list --state all --search "<name> bo
 2. Birth-data drift vein: ~47 of 68 roster drummers now checked (35 prior + 12 this run via the bulk-diff method), plus full coverage of the 3 reverse-direction leads. ~21 remain — worth a final bulk-diff pass (reuse the same parse-all-three-files-and-join-by-name method, much faster than the old 15/20-at-a-time subagent sampling) next time the bank needs topping up. One known gap in the method: it only catches CROSS-FILE disagreement, not a uniformly-wrong value that all 3 files happen to agree on — not worth a full 68-drummer independent Wikipedia audit given diminishing returns, but worth keeping in mind if a founder/user ever flags a specific wrong fact that isn't caught here.
 3. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings — no new fix.
 4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-03 (Saturday, metrics 14:30 UTC) — birth-data drift sweep CLOSED OUT (#8541), gear-consistency re-audit clean
+
+### Context
+Bank check: 7 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + held #7981 (Derek Roddy snare, unrelated fact) + 3 already `ai-fix`-labeled (#8534-8536, promoted by CEO) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 14:30 UTC (388 users/425 sessions/646 views 7d; GSC 7,022 impr/137 clicks/1.95% CTR/pos 7.3 — flat vs this morning). Content-gap: `joey jordison drum kit` (53 impr, 1.89% CTR) and `arin ilejay` (594 impr, 0% CTR) both re-matched to standing rulings (`learned-patterns.md` ~line 242/205/250) — no new fix. Audit: robots.txt (live curl) all 8 AI crawlers explicitly allowed; 2,016 `/llms/*.md` files + `llms.txt`/`llms-full.txt` live. Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Dispatched a subagent to finish the cross-file birth-data-drift sweep (`birthdays.js`/`extendedBios.js`/`api/drummers/index.js`) for the ~41 roster drummers not yet covered by #8525/#8526/#8534/#8535/#8536 (27 drummers). Reused the bulk-diff method from the prior run (parse all 3 files, join by name, flag contradictions only — not missing data). Result: only **3 confirmed discrepancies** survived external Wikipedia verification (Kevin Talley, Dirk Verbeuren, Frost/Kjetil-Vidar Haraldstad) — 2 drummers (Travis Orbin, Chris Turner) had real 3-way contradictions but no reliable source to resolve them (no Wikipedia page; correctly omitted per verified-only rule rather than guessing from majority vote or a non-Wikipedia-tier source).
+
+Personally re-verified all 3 via direct WebFetch against Wikipedia myself (not trusting subagent citations alone) and cross-checked exact line numbers against current file state before filing. Filed **#8541** (single batch, 3 drummers — small enough not to split like the earlier 15/12-drummer batches). **This closes the vein**: full 68-drummer roster now swept (27 + 3 fixed, ~38 confirmed-consistent, 2 skipped for lack of source).
+
+Also re-ran `scripts/verify-gear-consistency.cjs` fresh (post-#8518/#8527 detector-fix merge) — 15 raw mismatches, all matched to the standing skip-ruling list (inferno/nick-menza/aquiles-priester/flo-mounier/paul-bostaph/jay-weinberg/pete-sandoval false-positive classes). Confirmed these are NOT regressions of the merged #8527 fix — they're a different root cause (block-level era-scoping blind spot for licks/albumArticles, documented in the 2026-10-02 19:03 run) that #8518/#8527 never claimed to fix. Zero new gear-fabrication hits this run.
+
+### Dedup notes
+#8541's 3 drummers dedup-checked via `gh issue list --state all --search "<name> born"` — zero overlapping open/closed issues target birth date/place for any of them (Dirk Verbeuren has 4 closed issues, all sticks-fabrication/missing-album-articles, none touch birth data).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare conflict, human-hold)
+- #8534-8536 (prior run, already `ai-fix`)
+- #8541 (this run, 1 fresh batch, 3 drummers)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 8 open `seo-proposal`.
+
+### Next run
+1. Watch #8541 through CEO triage.
+2. **Birth-data drift vein is now CLOSED** — don't re-open unless a founder/user flags a specific wrong fact. 2 known unresolved leads if a source ever surfaces: Travis Orbin (no Wikipedia page; Metal-Archives gives a 3rd, different year/state with no exact day), Chris Turner (no Wikipedia page; only non-Wikipedia-tier source found disagrees with both files).
+3. Gear-consistency detector: 15 standing false-positive mismatches remain post-#8527, root cause is a block-level era-scoping blind spot (distinct from #8518's 3 classes) — not worth a 2nd detector-complexity fix per the 2026-10-02 ruling; re-check only if the mismatch set changes shape.
+4. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings — no new fix.
+5. Next drum-chair watch due Monday 2026-10-05, group 1.

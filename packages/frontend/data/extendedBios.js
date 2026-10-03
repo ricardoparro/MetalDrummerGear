@@ -3558,7 +3558,7 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
     sections: {
       overview: {
         title: 'Overview',
-        content: `Kevin Talley (born May 21, 1979, in Maryland, USA) is an American drummer renowned for his work with brutal death metal and grindcore bands including Dying Fetus, Misery Index, Chimaira, Suffocation, and Six Feet Under. His incredibly fast and precise drumming helped define the brutal death metal sound that emerged from the Maryland/DC area in the late 1990s.
+        content: `Kevin Talley (born May 21, 1979, in San Antonio, Texas, USA) is an American drummer renowned for his work with brutal death metal and grindcore bands including Dying Fetus, Misery Index, Chimaira, Suffocation, and Six Feet Under. His incredibly fast and precise drumming helped define the brutal death metal sound that emerged from the Maryland/DC area in the late 1990s.
 
 Talley's drumming combines the technical demands of brutal death metal with the groove-oriented approach that made Dying Fetus influential. His extensive resume across multiple extreme metal bands has established him as one of the go-to drummers in the brutal death metal community.`
       },
@@ -4332,7 +4332,7 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
     sections: {
       overview: {
         title: 'Overview',
-        content: `Kjetil-Vidar Haraldstad (born June 28, 1973, in Hammerfest, Norway), known professionally as Frost, is a Norwegian drummer and one of the most iconic figures in Scandinavian black metal. He is the longtime drummer for Satyricon since 1993 and 1349 since the band's formation in 2001.
+        content: `Kjetil-Vidar Haraldstad (born June 28, 1973, in Øyer, Norway), known professionally as Frost, is a Norwegian drummer and one of the most iconic figures in Scandinavian black metal. He is the longtime drummer for Satyricon since 1993 and 1349 since the band's formation in 2001.
 
 Frost is renowned for his blistering speed, metronomic precision, and seemingly inhuman stamina. His blast beats and hyperspeed drumming have set the technical standard for black metal percussion, combining raw ferocity with disciplined execution. Despite the often chaotic and raw nature of black metal, Frost brings a level of technicality and consistency that has influenced countless extreme metal drummers worldwide.`
       },
@@ -4409,7 +4409,6 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
       trivia: {
         title: 'Trivia & Notes',
         items: [
-          'Born in Hammerfest, Norway—one of the northernmost cities in the world',
           'The name "Frost" reflects the cold, harsh Norwegian environment',
           'Manages to play in two demanding bands (Satyricon and 1349) simultaneously',
           'Known for his stoic, corpse-painted stage presence',

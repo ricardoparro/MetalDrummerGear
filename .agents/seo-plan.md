@@ -10999,3 +10999,38 @@ All 4 filed issues dedup-checked via `gh issue list --state all --search` (drumm
 2. Once #8518 ships, re-run `verify-gear-consistency.cjs` and confirm the 7 false-positive locations it named no longer surface — don't re-litigate them from scratch a 3rd time.
 3. Content-gap: both rows already ruled this week — no new action unless a snapshot shows a different query.
 4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-03 (Saturday, metrics 01:18 UTC) — new vein found: birth date/place drifted across 3 redundant data files; 3 proposals filed (#8524-8526)
+
+### Context
+Bank check: 8 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + 1 held (#7981 Derek Roddy) + 4 already `ai-fix`-labeled (#8518, #8520-8522, promoted by CEO's 00:30 UTC pulse) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 01:18 UTC (368 users/401 sessions/603 views 7d; GSC 7,022 impr/137 clicks/1.95% CTR/pos 7.3). Content-gap: `joey jordison drum kit` (53 impr, 1.89% CTR) and `arin ilejay` (594 impr, 0% CTR) both re-matched to standing rulings (known gear-qualified oscillator / class-2 bare-name, learned-patterns.md ~line 242/205/250) — no new fix. Audit: robots.txt (api/robots.js) all 8 required AI crawlers explicitly allowed; 2,016 files in `public/llms/`; `llms.txt`/`llms-full.txt` present. Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Ran `node scripts/verify-gear-consistency.cjs` fresh (now covering `api/drummers/index.js` per merged #8508) — 31 raw mismatches, all but 1 matched to the standing skip-ruling list (inferno/nick-menza/vinnie-paul/tomas-haake/daray/hellhammer/aquiles-priester/flo-mounier/paul-bostaph/raymond-herrera/jay-weinberg/pete-sandoval false-positive classes, most pending the not-yet-merged #8518 detector fix). The 1 fresh hit: `nick-augusto sticks api/drummers/index.js:1971` (Vic Firth vs verified Pro-Mark Nylon Tip 5B) — personally verified against `endorsementNews.js` (empty timeline, `currentEndorsements.sticks` = Pro-Mark) and dedup-checked (6+ closed issues on this exact fabrication in other files, none target `api/drummers/index.js`). Filed **#8524**.
+
+While reading the Nick Augusto entry, noticed `api/drummers/index.js`'s bio states a DOB ("born August 4, 1986") that disagreed with `extendedBios.js`'s bio ("born April 16, 1988, in Orlando, Florida") for the same drummer. WebFetched Wikipedia directly — confirmed Aug 4, 1986, Fort Lauderdale FL is correct; extendedBios.js's date AND birthplace are both fabricated. Suspecting this wasn't isolated, dispatched a subagent to sample 15 random drummers' DOB/birthplace across `api/drummers/index.js` vs `extendedBios.js`, with mandatory external verification (no trusting either file). **6 of 15 came back confirmed-fabricated in extendedBios.js** (Matt Halpern — actually the reverse, index.js wrong not extendedBios; Blake Richardson, Martín López, Shannon Larkin, Jaska Raatikainen, Daray, Jocke Wallgren, Tim Yeung, Richard Christy, Matt Garstka — high hit rate). Ran a second subagent pass on 20 more drummers (non-overlapping) — 4 more confirmed-fabricated (Tomas Haake, Eloy Casagrande, Mario Duplantier, Hellhammer), plus a reverse-direction flag (Chris Adler/Inferno/Pete Sandoval: `api/drummers/index.js` wrong, extendedBios.js correct — not fully verified this run, noted as a follow-up lead, not filed).
+
+Also discovered mid-investigation: **`packages/frontend/data/birthdays.js`** (the file that actually feeds the Person schema `birthDate`/`birthPlace` via `api/meta/[...path].js:2524`) is a **third, independently-drifted copy** of the same fact for every one of these drummers — in several cases (Daray, Jocke Wallgren, Hellhammer) all 3 files state a *different* wrong value, a genuine 3-way split. This is a textbook Rule-1 violation ("ONE data module per domain... duplicates drifted twice") that's drifted a third time, specifically on birth data, and it feeds structured data (LLM-citable Person schema), making it L2-relevant per the freeze's Rule 3.
+
+Personally re-verified every flagged discrepancy via direct WebFetch/WebSearch against Wikipedia (primary) before filing anything — did not file a single row on subagent say-so alone. Caught and corrected one subagent overstatement in the process (Blake Richardson's birthplace "Winston-Salem, NC" turned out to be correct, not merely "unverified" as the first subagent pass hedged — direct Wikipedia fetch confirmed it).
+
+Filed 2 batch issues covering 15 drummers total, split across 2 issues (not 1) so they can be implemented in parallel by separate Roadie agents:
+- **#8525** — 8 drummers (Nick Augusto, Matt Halpern, Blake Richardson, Martín López, Shannon Larkin, Jaska Raatikainen, Daray, Jocke Wallgren), exact line numbers + corrected values + source URL per file per drummer.
+- **#8526** — 7 more drummers (Tim Yeung, Richard Christy, Matt Garstka, Tomas Haake, Eloy Casagrande, Mario Duplantier, Hellhammer), same shape.
+
+### Dedup notes
+Searched `gh issue list --state all --search` for every drummer name + "born" before filing — only 1 hit (#5659, Jaska Raatikainen date-only mismatch between birthdays.js/extendedBios.js, already resolved to July 18 — my finding is additive, a different field (birthplace) on the same drummer, not a re-trigger). Also checked `birthdays.js`/`birthPlace` generally — #5001/#4249/#4864/#4821/#4250 are about *missing* birth data or schema completeness, not fact-accuracy — no overlap.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8518, #8520-8522 (prior run, already `ai-fix`)
+- #8524-8526 (this run, 3 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 11 open `seo-proposal`.
+
+### Next run
+1. Watch #8524-8526 through CEO triage.
+2. **New standing lead: the 3-file birth-data drift vein is NOT exhausted** — only ~35 of ~70+ roster drummers have been checked (15 + 20 this run). Continue the same subagent-sample-and-externally-verify method on the remaining ~35 next time the bank needs topping up. Consider whether this warrants an infra-level recommendation (single source of truth for birth data, other 2 files derive from it) — that's an architecture call for the founder, flag it in a future CEO-facing note rather than an SEO proposal.
+3. Reverse-direction leads NOT filed (api/drummers/index.js wrong, extendedBios.js correct, not independently re-verified yet this run): Chris Adler, Inferno, Pete Sandoval — revisit next pass.
+4. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings — no new fix.
+5. Next drum-chair watch due Monday 2026-10-05, group 1.

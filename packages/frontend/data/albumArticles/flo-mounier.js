@@ -1265,7 +1265,7 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Once Was Not Drum Setup: Flo Mounier's Fastest Recorded Performance",
-    "description": "Discover the exact drum kit, cymbals, and gear Flo Mounier used to record Cryptopsy's Once Was Not (2005). Complete breakdown of the Yamaha Recording Custom, Zildjian ZXT cymbals, and DW hardware behind the most technically demanding album in Cryptopsy's catalog.",
+    "description": "Discover the exact drum kit, cymbals, and gear Flo Mounier used to record Cryptopsy's Once Was Not (2005). Complete breakdown of the Yamaha Recording Custom, Zildjian ZXT cymbals, and hardware setup behind the most technically demanding album in Cryptopsy's catalog.",
     "seoKeywords": [
       "once was not drums",
       "flo mounier 2005 kit",
@@ -1367,20 +1367,20 @@ export const articles = {
       "estimatedValue": "$700-950 total (2005)"
     },
     "hardware": {
-      "title": "DW Hardware: Precision Infrastructure for Extreme Velocity",
+      "title": "Pedal Hardware: Precision Infrastructure for Extreme Velocity",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9002 Double Pedal",
-          "notes": "Dual-chain drive, adjustable spring tension for extreme double bass work",
-          "description": "Continuing the DW hardware relationship established on 'And Then You'll Beg,' Flo used the DW 9002 double pedal for 'Once Was Not.' The dual-chain drive mechanism provided the mechanical feedback needed for controlled double bass work at the album's extreme tempos. On the 22-inch Yamaha bass drum, the pedal's adjustable beater angle allowed precise tuning of the impact point — critical for maintaining attack transient consistency across extended blast sequences."
+          "brand": "Unverified",
+          "model": "Double pedal setup (specific brand/model not publicly documented)",
+          "notes": "Double bass pedal continuity from prior albums; specific brand/model not confirmed by a verified source",
+          "description": "Flo used a double bass pedal for 'Once Was Not,' but no period interview, endorsement listing, or verified photograph documents the specific brand or model — so no brand claim is made here. Whatever the mechanism, it supported the controlled double bass work the album's extreme tempos required; on the 22-inch Yamaha bass drum, precise beater-angle tuning would have been needed to maintain attack transient consistency across extended blast sequences."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9000 Hi-Hat Stand",
-          "notes": "Matching DW hardware for consistent feel and response across the kit"
+          "brand": "Unverified",
+          "model": "Hi-hat stand (specific brand/model not publicly documented)",
+          "notes": "Specific brand/model not confirmed by a verified source"
         },
         {
           "type": "Throne",
@@ -1435,7 +1435,7 @@ export const articles = {
           "Lord Worm's vocal patterns require the rhythm section to maintain absolute metric stability",
           "Demonstrates the physical peak of Flo's blast beat execution in the studio"
         ],
-        "gearNotes": "The 22\" Yamaha bass drum's faster response compared to the 26\" of \"And Then You'll Beg\" is directly audible in the double bass clarity at these velocities. DW 9002 pedal rebound supports the extended foot patterns."
+        "gearNotes": "The 22\" Yamaha bass drum's faster response compared to the 26\" of \"And Then You'll Beg\" is directly audible in the double bass clarity at these velocities. Double pedal rebound supports the extended foot patterns."
       },
       {
         "track": "Praise the Lord (Opium of the Masses)",
@@ -1476,7 +1476,7 @@ export const articles = {
     },
     "evolution": {
       "title": "2000 → 2005: The Pearl-to-Yamaha Transition",
-      "content": "The five years between \"And Then You'll Beg\" and \"Once Was Not\" represented the longest gap in Cryptopsy's studio album history to that point. When the band returned, Flo's gear had undergone its most significant transformation since the early days.\n\n**And Then You'll Beg (2000):**\n- Pearl Masters BRX, 26\" x 18\" bass drum\n- Paiste Alpha Series cymbals\n- DW 9000 double pedal\n- Odd-time blast beats in 11/8 and 13/8 — compositional complexity peak\n\n**Once Was Not (2005):**\n- Yamaha Recording Custom, 22\" x 18\" bass drum\n- Zildjian ZXT cymbals\n- DW 9002 double pedal\n- Pure velocity peak — maximum BPM with maintained precision\n\n**What the Transition Reveals:**\nThe move from Pearl to Yamaha was not just a brand change — it was a deliberate sonic decision. The 26-inch Pearl bass drum of \"And Then You'll Beg\" served that album's need for low-frequency authority in progressive odd-time passages. The 22-inch Yamaha serves \"Once Was Not\"'s need for fast attack response at higher velocities. Each gear configuration served its album's specific technical and musical requirements.\n\n**After 2005:**\nThe next Cryptopsy album, \"The Unspoken King\" (2008), would retain the Yamaha Recording Custom platform while introducing different head selections and tuning to accommodate the album's controversial shift toward more melodic and progressive songwriting. See the [Unspoken King drum setup](/articles/unspoken-king-drum-setup) for how the same kit was adapted to a fundamentally different musical context.",
+      "content": "The five years between \"And Then You'll Beg\" and \"Once Was Not\" represented the longest gap in Cryptopsy's studio album history to that point. When the band returned, Flo's gear had undergone its most significant transformation since the early days.\n\n**And Then You'll Beg (2000):**\n- Pearl Masters BRX, 26\" x 18\" bass drum\n- Paiste Alpha Series cymbals\n- DW 9000 double pedal\n- Odd-time blast beats in 11/8 and 13/8 — compositional complexity peak\n\n**Once Was Not (2005):**\n- Yamaha Recording Custom, 22\" x 18\" bass drum\n- Zildjian ZXT cymbals\n- Double pedal (specific brand/model not publicly documented)\n- Pure velocity peak — maximum BPM with maintained precision\n\n**What the Transition Reveals:**\nThe move from Pearl to Yamaha was not just a brand change — it was a deliberate sonic decision. The 26-inch Pearl bass drum of \"And Then You'll Beg\" served that album's need for low-frequency authority in progressive odd-time passages. The 22-inch Yamaha serves \"Once Was Not\"'s need for fast attack response at higher velocities. Each gear configuration served its album's specific technical and musical requirements.\n\n**After 2005:**\nThe next Cryptopsy album, \"The Unspoken King\" (2008), would retain the Yamaha Recording Custom platform while introducing different head selections and tuning to accommodate the album's controversial shift toward more melodic and progressive songwriting. See the [Unspoken King drum setup](/articles/unspoken-king-drum-setup) for how the same kit was adapted to a fundamentally different musical context.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1500,7 +1500,7 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "DW 9002 Double Pedal",
+          "then": "Double pedal (brand unconfirmed)",
           "now": "Pearl Demon Drive"
         }
       ]
@@ -1554,7 +1554,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Once Was Not Drum Setup: Flo Mounier's Fastest Recorded Performance (Cryptopsy, 2005)",
-          "description": "Discover the exact drum kit, cymbals, and gear Flo Mounier used to record Cryptopsy's Once Was Not. Full breakdown of his Yamaha Recording Custom, Zildjian ZXT cymbals, and DW hardware.",
+          "description": "Discover the exact drum kit, cymbals, and gear Flo Mounier used to record Cryptopsy's Once Was Not. Full breakdown of his Yamaha Recording Custom, Zildjian ZXT cymbals, and hardware setup.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1797,20 +1797,20 @@ export const articles = {
       "estimatedValue": "$700-950 total (2008)"
     },
     "hardware": {
-      "title": "DW Hardware: Consistent Infrastructure for a Changed Musical Direction",
+      "title": "Pedal Hardware: Consistent Infrastructure for a Changed Musical Direction",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9002 Double Pedal",
-          "notes": "Same double pedal as Once Was Not — consistent foot technique infrastructure",
-          "description": "The DW 9002 double pedal carried over from 'Once Was Not' unchanged. For the album's extreme passages, it delivered the same mechanical performance as the previous recording. For the groove-oriented sections, the pedal's adjustable spring tension allowed Flo to fine-tune the rebound feel for the less extreme foot patterns these sections required. The consistency of the pedal across albums reflects Flo's philosophy: hardware infrastructure should be stable; musical adaptation happens through technique and tuning, not constant equipment replacement."
+          "brand": "Unverified",
+          "model": "Double pedal setup (specific brand/model not publicly documented)",
+          "notes": "Same pedal continuity as Once Was Not; specific brand/model not confirmed by a verified source",
+          "description": "The double bass pedal carried over from 'Once Was Not' unchanged — no source documents a brand, model, or change between the two albums, so no brand claim is made here. For the album's extreme passages, it delivered the same mechanical performance as the previous recording, while the groove-oriented sections drew on the same foot-technique infrastructure. The consistency of the pedal across albums reflects Flo's philosophy: hardware infrastructure should be stable; musical adaptation happens through technique and tuning, not constant equipment replacement."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9000 Hi-Hat Stand",
-          "notes": "Matching DW hardware — consistent with Once Was Not configuration"
+          "brand": "Unverified",
+          "model": "Hi-hat stand (specific brand/model not publicly documented)",
+          "notes": "Consistent with Once Was Not configuration; specific brand/model not confirmed by a verified source"
         },
         {
           "type": "Throne",
@@ -1906,7 +1906,7 @@ export const articles = {
     },
     "evolution": {
       "title": "2005 → 2008: The Same Kit, A Different Mission",
-      "content": "The equipment continuity between \"Once Was Not\" and \"The Unspoken King\" — same Yamaha Recording Custom shells, same Zildjian ZXT cymbals, same DW hardware — throws the musical difference into sharp relief. The kit didn't change. The music did.\n\n**Once Was Not (2005):**\n- Yamaha Recording Custom, tuned for maximum attack and minimum sustain\n- Zildjian ZXT, deployed primarily in blast beat context\n- Lord Worm on vocals — extreme approach allowed maximum rhythmic intensity\n- DW 9002 double pedal at peak velocity usage\n- Focus: pure technical velocity\n\n**The Unspoken King (2008):**\n- Same Yamaha Recording Custom, tuned for dynamic range rather than maximum attack\n- Same Zildjian ZXT, but ride cymbal significantly more prominent\n- Matt McGachy on vocals — melodic approach required rhythmic accommodation\n- Same DW 9002 double pedal, but at reduced average velocity\n- Focus: dynamic versatility within the same technical framework\n\n**The Tuning Tells the Story:**\nThe most significant technical difference between the two albums is not what equipment Flo used but how he configured it. Lower head tension, adjusted muffling, revised snare calibration — all serving a musical context that \"Once Was Not\" had not required. The Yamaha Recording Custom system was flexible enough to accommodate both extremes.\n\n**After 2008:**\nFollowing \"The Unspoken King,\" Cryptopsy went on a four-year hiatus before returning in 2012 with a self-titled album (and without Matt McGachy). The 2012 album and subsequent EP returned to the extreme technical death metal approach, with Flo eventually settling into the Pearl Masters Maple Complete setup that defines his modern configuration. See [What's In Flo Mounier's Kit](/articles/whats-in-flo-mouniers-kit) for where the gear journey ended up.",
+      "content": "The equipment continuity between \"Once Was Not\" and \"The Unspoken King\" — same Yamaha Recording Custom shells, same Zildjian ZXT cymbals, same pedal hardware — throws the musical difference into sharp relief. The kit didn't change. The music did.\n\n**Once Was Not (2005):**\n- Yamaha Recording Custom, tuned for maximum attack and minimum sustain\n- Zildjian ZXT, deployed primarily in blast beat context\n- Lord Worm on vocals — extreme approach allowed maximum rhythmic intensity\n- Double pedal (specific brand/model not publicly documented) at peak velocity usage\n- Focus: pure technical velocity\n\n**The Unspoken King (2008):**\n- Same Yamaha Recording Custom, tuned for dynamic range rather than maximum attack\n- Same Zildjian ZXT, but ride cymbal significantly more prominent\n- Matt McGachy on vocals — melodic approach required rhythmic accommodation\n- Same double pedal, but at reduced average velocity\n- Focus: dynamic versatility within the same technical framework\n\n**The Tuning Tells the Story:**\nThe most significant technical difference between the two albums is not what equipment Flo used but how he configured it. Lower head tension, adjusted muffling, revised snare calibration — all serving a musical context that \"Once Was Not\" had not required. The Yamaha Recording Custom system was flexible enough to accommodate both extremes.\n\n**After 2008:**\nFollowing \"The Unspoken King,\" Cryptopsy went on a four-year hiatus before returning in 2012 with a self-titled album (and without Matt McGachy). The 2012 album and subsequent EP returned to the extreme technical death metal approach, with Flo eventually settling into the Pearl Masters Maple Complete setup that defines his modern configuration. See [What's In Flo Mounier's Kit](/articles/whats-in-flo-mouniers-kit) for where the gear journey ended up.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1930,7 +1930,7 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "DW 9002 Double Pedal",
+          "then": "Double pedal (brand unconfirmed)",
           "now": "Pearl Demon Drive"
         }
       ]
@@ -1984,7 +1984,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "The Unspoken King Drum Setup: Flo Mounier's 2008 Cryptopsy Gear Breakdown",
-          "description": "Discover the exact drum kit, cymbals, and gear Flo Mounier used on Cryptopsy's controversial The Unspoken King (2008). Full breakdown of the Yamaha Recording Custom, Zildjian ZXT, and DW hardware.",
+          "description": "Discover the exact drum kit, cymbals, and gear Flo Mounier used on Cryptopsy's controversial The Unspoken King (2008). Full breakdown of the Yamaha Recording Custom, Zildjian ZXT, and hardware setup.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"

@@ -90953,14 +90953,14 @@ One overlooked factor: mathcore's unpredictability means the "right" stick often
     // SEO metadata
     title: "Best Drumsticks for Progressive Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Progressive Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for progressive metal drumming: what Mike Mangini (Vic Firth Signature), Mike Portnoy (Promark Signature TX420N), and Danny Carey (Vic Firth Signature) actually play. Lighter, articulate sticks for odd-meter precision — ranked budget to pro.",
+    description: "Best drumsticks for progressive metal drumming: what Mike Mangini (Vater Signature), Mike Portnoy (Promark Signature TX420N), and Danny Carey (Vic Firth Signature) actually play. Lighter, articulate sticks for odd-meter precision — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for progressive metal',
       'progressive metal drumsticks',
       'mike mangini drumsticks',
       'mike portnoy drumsticks',
       'danny carey drumsticks',
-      'vic firth mike mangini signature',
+      'vater mike mangini signature',
       'promark mike portnoy signature',
       'best sticks for odd meter drumming',
       'best stick size for progressive metal'
@@ -90989,12 +90989,12 @@ One overlooked factor: mathcore's unpredictability means the "right" stick often
       title: "Why Progressive Metal Demands a Lighter, More Articulate Stick",
       content: `Progressive metal's constantly shifting meters, extended compositions, and wide dynamic range — from a whisper-quiet cymbal wash to a full-band unison hit — place unusual demands on a drumstick. Unlike a genre built around one repeating groove, progressive metal drummers move between odd-time fills, quiet dynamic passages, and explosive accents within a single song, and the stick has to stay controllable across all of it.
 
-Mike Mangini of Dream Theater plays his own Vic Firth signature stick, tuned for the precision required to execute Dream Theater's famously complex, constantly-shifting arrangements without losing control at speed. Mike Portnoy, Dream Theater's original drummer and now of Sons of Apollo, plays his own Promark signature model, the TX420N, a nylon-tip stick built for consistent articulation across decades of technically dense progressive metal writing. Danny Carey of Tool plays his own barrel-tipped Vic Firth signature stick, built around the balanced control his polyrhythmic, odd-meter compositions require.
+Mike Mangini of Dream Theater plays his own Vater signature stick, tuned for the precision required to execute Dream Theater's famously complex, constantly-shifting arrangements without losing control at speed. Mike Portnoy, Dream Theater's original drummer and now of Sons of Apollo, plays his own Promark signature model, the TX420N, a nylon-tip stick built for consistent articulation across decades of technically dense progressive metal writing. Danny Carey of Tool plays his own barrel-tipped Vic Firth signature stick, built around the balanced control his polyrhythmic, odd-meter compositions require.
 
 This guide breaks down what actually makes a stick work for progressive metal's technical demands, what the genre's most influential drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Progressive metal rewards control and articulation over raw power — lighter, precisely-tapered sticks dominate",
-        "Mike Mangini's Vic Firth signature stick is tuned for Dream Theater's constantly-shifting, technically dense arrangements",
+        "Mike Mangini's Vater signature stick is tuned for Dream Theater's constantly-shifting, technically dense arrangements",
         "Mike Portnoy's Promark TX420N nylon-tip signature has anchored his sound across decades of progressive metal writing",
         "Danny Carey's barrel-tipped Vic Firth signature balances tonal fullness with polyrhythmic control"
       ]
@@ -91265,14 +91265,14 @@ It's a stick built for a drummer who needs both explosive climactic accents and 
       'best-drum-triggers-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Vic Firth signature — precision for Dream Theater\'s constantly-shifting arrangements' },
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Vater signature — precision for Dream Theater\'s constantly-shifting arrangements' },
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Promark TX420N signature — three-plus decades of progressive metal writing' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth signature — polyrhythmic control for Tool\'s unconventional time signatures' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Vic Firth signature — Dream Theater\'s technically demanding, constantly-shifting arrangements' },
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Vater signature — Dream Theater\'s technically demanding, constantly-shifting arrangements' },
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Promark TX420N signature — decades of progressive metal\'s most ambitious writing' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth signature — Tool\'s polyrhythmic, odd-meter mastery' }
     ],
@@ -91282,7 +91282,7 @@ It's a stick built for a drummer who needs both explosive climactic accents and 
     faq: [
       {
         question: "What drumsticks does Mike Mangini use?",
-        answer: "Mike Mangini of Dream Theater plays his own Vic Firth signature stick, a 0.590\" diameter model with an oval tip, built for the precision required to execute Dream Theater's famously complex, constantly-shifting arrangements without losing control at speed."
+        answer: "Mike Mangini of Dream Theater plays his own Vater signature stick, the Wicked Piston (VHMMWP), built for the precision required to execute Dream Theater's famously complex, constantly-shifting arrangements without losing control at speed."
       },
       {
         question: "What drumsticks does Mike Portnoy use?",
@@ -91290,7 +91290,7 @@ It's a stick built for a drummer who needs both explosive climactic accents and 
       },
       {
         question: "What's the best drumstick for odd-meter progressive metal?",
-        answer: "A stick with balanced weight distribution and a controlled tip works best across odd-meter writing. Mike Mangini's Vic Firth signature is purpose-built for this kind of constantly-shifting technical control."
+        answer: "A stick with balanced weight distribution and a controlled tip works best across odd-meter writing. Mike Mangini's Vater signature is purpose-built for this kind of constantly-shifting technical control."
       },
       {
         question: "What drumsticks does Danny Carey use?",

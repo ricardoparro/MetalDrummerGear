@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-04 10:12 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-04 13:57 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,45 +8,45 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 411 |
-| Sessions | 447 |
-| Page views | 651 |
-| Engagement rate | 55.48% |
-| Avg session (s) | 132 |
+| Active users | 422 |
+| Sessions | 459 |
+| Page views | 676 |
+| Engagement rate | 61.66% |
+| Avg session (s) | 125 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 29 | 26 |
-| /drummers | 14 | 5 |
-| /drummer/mario-duplantier | 13 | 12 |
+| / | 30 | 26 |
+| /drummer/mario-duplantier | 14 | 12 |
+| /drummers | 13 | 5 |
+| /studies/metal-tempo-by-subgenre | 13 | 3 |
 | /drummer/john-otto | 12 | 11 |
-| /studies/metal-tempo-by-subgenre | 12 | 3 |
 | /drummer/matt-greiner | 9 | 8 |
 | /drummers/mike-portnoy/evolution | 9 | 4 |
 | /quiz | 9 | 2 |
-| /articles/whats-in-lars-ulrichs-kit | 8 | 9 |
+| /articles/whats-in-lars-ulrichs-kit | 8 | 10 |
 | /drummer/hellhammer | 8 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 318 | 289 |
-| Unassigned | 72 | 67 |
-| Direct | 69 | 66 |
-| Cross-network | 33 | 33 |
+| Organic Search | 358 | 328 |
+| Direct | 78 | 75 |
+| Unassigned | 30 | 29 |
+| Cross-network | 10 | 10 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 188 | 172 |
-| China | 26 | 26 |
-| Germany | 26 | 22 |
-| United Kingdom | 19 | 15 |
+| United States | 189 | 173 |
+| China | 29 | 29 |
+| Germany | 28 | 24 |
+| United Kingdom | 21 | 16 |
+| Australia | 14 | 14 |
 | Canada | 14 | 14 |
-| Australia | 12 | 12 |
 | France | 11 | 11 |
 | Indonesia | 10 | 9 |
 | Poland | 9 | 9 |

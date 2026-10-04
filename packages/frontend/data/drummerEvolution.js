@@ -19409,13 +19409,13 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Mapex Saturn Series',
+            item: "DW Collector's Series",
             details: 'Maple/walnut hybrid shell pack',
-            notes: 'Established as his documented endorsement during the Hail to the King touring cycle.',
+            notes: 'Signed with DW upon joining Avenged Sevenfold in 2011, carried into the Hail to the King touring cycle.',
             change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'Mapex Black Panther 14"x6.5"',
+            item: "DW Collector's Series snare",
             details: 'Signature snare series, steel/maple options',
             notes: 'Provided the crack needed to cut through A7X\'s classic-metal wall of guitars.',
             change: CHANGE_TYPES.NEW,
@@ -19427,21 +19427,21 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           hardware: {
-            item: 'Mapex Falcon Double Pedal, Mapex T865 Throne',
+            item: 'DW 9000 Series Double Pedal',
             details: 'Chain-drive double pedal',
             notes: 'First documented hardware endorsement of his career.',
             change: CHANGE_TYPES.NEW,
           },
           sticks: {
-            item: 'Vic Firth American Classic 5A',
+            item: 'Promark 5B',
             details: 'Standard hickory',
-            notes: 'First documented Vic Firth relationship.',
+            notes: 'First documented Promark relationship.',
             change: CHANGE_TYPES.NEW,
           },
           heads: {
-            item: 'Evans',
+            item: 'Remo',
             details: 'Standard head package',
-            notes: 'Rounded out the Mapex rig documented across the Hail to the King era.',
+            notes: 'Rounded out the DW rig documented across the Hail to the King era.',
             change: CHANGE_TYPES.NEW,
           },
         },

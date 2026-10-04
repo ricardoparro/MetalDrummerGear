@@ -5,6 +5,42 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-04 01:10 UTC*
 
 ---
+## 2026-10-04 19:05 — Evening review: 5/6 fresh proposals verified+promoted (#8565-8569), #8570 rejected (stale fix target)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 19:03 UTC (428 users/465 sessions/684 views 7d; GSC 5,336 impr/105 clicks/1.97% CTR/pos 7.2; content-gap table re-flags `arin ilejay` 429 impr/0.00% CTR/pos 12.2, standing class-2 ruling). At run start: eligible `ai-fix` backlog **0**, 0 open PRs (all 12 PRs since the mid-day pulse — #8554-8564, #8571-8572 — confirmed merged). 6 fresh untriaged `seo-proposal` (#8565-8570, filed 14:56-14:57 UTC today).
+
+### Actions taken
+- **Live-verified all 6 via subagent** against source + `endorsementNews.js` ground truth, plus dupe-check against closed history:
+  - **#8569** (Raymond Herrera `gearPriceHistory.js` fabricated 1992 "Tama/ddrum rig established" row, contradicts the file's own 1995 summary) — confirmed present, closed #7266 only fixed the brand/mislabel in this entry, never touched the 1992 row. Promoted.
+  - **#8568** (Joey Jordison `gearPriceHistory.js` 2001 cymbal line fabricated "Paiste Signature Series") — confirmed present, `endorsementNews.js` shows Paiste RUDE since 1999, no Signature-line reference. Promoted.
+  - **#8567** (Martin Axenrot `soundLikeGuides.js` tuning section still says "The SQ2 maple snare" despite `gear.snare.brand` correctly saying DW) — confirmed residual leftover: #5908's own fix range (`soundLikeGuides.js:16865-16920`, grepped for "Sonor|Meinl Byzance") sits just short of this line, and "SQ2" alone wouldn't match that grep. Promoted.
+  - **#8566** (Matt Garstka `soundLikeGuides.js` lone file claiming "Matched Grip") — confirmed outlier vs. unanimous traditional-grip corroboration across `endorsementNews.js`/`drummerEvolution.js`(incl. dedicated FAQ)/`extendedBios.js`/`drummerComparisons.js`. Promoted.
+  - **#8565** (Mike Mangini `soundLikeGuides.js` pedal still "Pearl Demon Drive", 5th file in this recurring fix chain) — confirmed last holdout; `endorsementNews.js` + extensive `genreGearGuides.js` corpus agree on Pearl Eliminator Redline since 2011. Promoted.
+  - **#8570** (Abe Cunningham `soundLikeGuides.js` cymbals, proposal claimed fix target "Sabian HHX since 2010") — **REJECTED, not promoted.** `endorsementNews.js`'s own timeline has a 3rd, more recent entry: switched BACK to Zildjian A Custom/K Custom in 2022 post-Ohms touring, `currentEndorsements.cymbals = {brand: 'Zildjian', since: '2022'}`. Sabian HHX was only correct 2010-2022 — promoting as scoped would swap one era-wrong fabrication for another. Closed with a comment explaining the correct 2022-current target and inviting a refile.
+- **GSC content-gap**: `arin ilejay` re-matched to the standing class-2 bare-name ruling (learned-patterns.md). No new action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: confirmed all 20 non-fresh open `ai-fix` still carry `hold` (frozen roster/band splits since late July, per the 2026-07-28 new-page freeze) — nothing eligible.
+- **Starvation check**: post-triage backlog 5, untriaged bank 0 (excl. held #7981 and the 3 umbrella issues). Confirmed non-event — SEO Agent's ~6-7h cadence has produced a fresh batch every run this week; not escalating.
+- **L1/L2/L3**: all snapshots still show `Generated:` timestamps of 2026-09-28 (file mtimes reflect checkout, not regen). Next weekly refresh due ~2026-10-05 — not due yet.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 5 (#8565-8569 promoted)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, held #7981): 6 fresh → 0 untriaged (5 promoted, 1 closed/rejected)
+
+### Quota check
+✅ SEO proposals: 6/6 triaged, live-verified against source, 5 promoted / 1 rejected with reason. ✅ Founder ideas: inbox empty. ✅ GSC-gap: matched to standing ruling, no new fix needed. ✅ L1/L2/L3: not due. ✅ Starvation: non-event, healthy cadence. ✅ Atomic split: nothing eligible (all held under freeze). ✅ Decisions logged.
+
+### Next Run
+1. Watch #8565-8569 pick up via Roadie.
+2. If a corrected Abe Cunningham proposal is refiled (targeting 2022-current Zildjian A Custom/K Custom), verify the new era target before promoting.
+3. Next L1/L2/L3 weekly refresh due ~2026-10-05 — full close-the-loop pass once it lands.
+4. #7981 (Derek Roddy snare conflict) still held — no new external source found yet.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-04 13:58 — Mid-day pulse: 2/2 fresh proposals verified+promoted (#8557-8558), #8550-8553 confirmed merged
 
 ### Context (≤3 lines)

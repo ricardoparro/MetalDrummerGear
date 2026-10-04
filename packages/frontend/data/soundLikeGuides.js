@@ -6003,13 +6003,13 @@ His signature approach involves treating each limb as an independent rhythmic vo
     },
     technique: {
       title: "Matt's Signature Playing Style",
-      overview: `Garstka plays matched grip with a relaxed, efficient technique informed by his jazz training. His defining quality is controlled limb independence — the ability to run four simultaneous rhythmic streams without any limb disrupting the others. Physically, he keeps his upper body relaxed and uses wrist-driven strokes for sustained technical passages, reserving larger arm movements for crashes and fills that require impact. His jazz background means he actively manages dynamics even in dense polyrhythmic contexts — not every stroke is maximum velocity.`,
+      overview: `Garstka plays traditional grip with a relaxed, efficient technique informed by his jazz training — one of the few prominent metal drummers to hold onto the grip from his jazz background rather than switching to the matched-grip default. His defining quality is controlled limb independence — the ability to run four simultaneous rhythmic streams without any limb disrupting the others. Physically, he keeps his upper body relaxed and uses wrist-driven strokes for sustained technical passages, reserving larger arm movements for crashes and fills that require impact. His jazz background means he actively manages dynamics even in dense polyrhythmic contexts — not every stroke is maximum velocity.`,
       stickGrip: {
-        type: 'Matched Grip',
-        description: "Garstka uses matched grip with a relaxed, jazz-influenced hold. The key is minimal tension throughout — tightly gripping sticks at high tempos during complex polyrhythmic passages is the most common error that kills speed and control. His Berklee training emphasizes using the natural rebound of the drumhead rather than muscling strokes.",
+        type: 'Traditional Grip',
+        description: "Garstka uses traditional grip — a holdover from his jazz training at Berklee College of Music, unusual among metal drummers who overwhelmingly favor matched-grip technique. The left-hand fulcrum sits between the thumb and first two fingers with the stick resting against the ring finger, and the rotated left wrist shapes his touch, dynamics, and ghost-note vocabulary. His Berklee training emphasizes using the natural rebound of the drumhead rather than muscling strokes.",
         tips: [
-          "Keep the grip loose — tension kills rebound, and rebound is what makes complex patterns manageable",
-          "Use wrist-driven strokes for dense 16th-note passages; let rebound do the work between strokes",
+          "Keep the left-hand fulcrum loose — tension kills rebound, and rebound is what makes complex patterns manageable",
+          "Rotate the left wrist rather than driving straight down; the traditional grip's angle depends on that rotation for power and control",
           "Develop each limb independently before combining patterns — the combination is built from isolated parts"
         ]
       },

@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-04 01:10 UTC*
 
 ---
+## 2026-10-04 08:04 — Deep run: 4/4 fresh proposals verified+promoted (#8550-8553), new regen-regression failure class logged
+
+### Context (≤3 lines)
+Daily deep run (first after 07:00 UTC, metrics refreshed 08:04 UTC: 408 users/444 sessions/648 views 7d; GSC 5,336 impr/105 clicks/1.97% CTR/pos 7.2; content-gap table re-flagged `arin ilejay` 429 impr/0.00% CTR/pos 12.2). At run start: eligible `ai-fix` backlog **0** (20 open are frozen roster/band `hold` splits, unchanged since late July), 4 fresh untriaged `seo-proposal` (#8550-8553, filed 02:19 UTC) plus held #7981 (Derek Roddy, unchanged).
+
+### Actions taken
+- **Live-verified all 4 via subagent** against source + `endorsementNews.js` ground truth: #8553 (Dave Lombardo — `albumArticlesCatalog.js` fabricates "Ludwig" for 1983/1985 albums, confirmed Pearl Maxwin era both years, sibling file #7451 never touched this catalog file), #8552 (Blake Richardson — catalog says "double pedal" post-2018, `endorsementNews.js:1769` explicitly disclaims "single pedals (not linked double)"), #8551 (Mikkey Dee — confirmed #8078 only swapped the brand name in the "switched from Tama to Sonor SQ2 in <year>" sentence, never removed the switch-narrative framing itself as its own fix spec required; `endorsementNews.js` shows no 2006 switch event at all), #8550 (Pearl Demon Drive fabrication regressed by PR #8466's bulk regenerate step — confirmed via commit message + live grep that all 5 originally-fixed entries, Kollias/Jordison/Greiner×2/Larkin, reverted to the pre-#8125/#8141 fabricated state). All 4 clean, text-only corrections, zero new URLs — freeze-compliant, no scope gaps found. Promoted all 4 (`ai-fix`).
+- **Logged a new failure class** in `learned-patterns.md`: #8466's "regenerate albumArticlesCatalog.js from source" step silently reverted an already-closed, unrelated point-fix (#8125/#8141) across all 5 of its entries — distinct from the known template-contamination shape (one bad string copy-pasted). Rule: any PR that regenerates/re-derives a leaf data file is a regression risk for every prior point-fix in that file; flagged for future sweeps of this file to cross-check closed-issue history, not just scan for new fabrications.
+- **GSC content-gap**: `arin ilejay` re-matched to the standing class-2 bare-name ruling (learned-patterns.md line 250, confirmed 2026-10-02). No new action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: confirmed all 20 non-fresh open `ai-fix` carry `hold` label (frozen roster/band splits since late July) — nothing eligible.
+- **Starvation check**: post-triage backlog 4, untriaged bank 0 (excl. held #7981) — trips the trigger shape but confirmed non-event via `gh run list --workflow=seo-agent.yml`: healthy ~6-7h cadence (02:04/19:43/14:29/07:11 UTC), next run imminent/already due. Not escalating.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-09-28. Next weekly refresh due ~2026-10-05 — not due.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 4 (#8550-8553 promoted)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, held #7981): 4 fresh → 0 untriaged
+- New learned-pattern line: regen-step regression risk (albumArticlesCatalog.js, PR #8466)
+
+### Quota check
+✅ SEO proposals: 4/4 fresh triaged, live-verified against source, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: matched to standing ruling, no new fix needed. ✅ L1/L2/L3: not due. ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8550-8553 pick up via Roadie.
+2. Spot-check whether PR #8466's regen touched any OTHER closed fixes in `albumArticlesCatalog.js` beyond the 5 Pearl Demon Drive entries — only the cited ones were checked this run.
+3. Next L1/L2/L3 weekly refresh due ~2026-10-05 — full close-the-loop pass once it lands.
+4. #7981 (Derek Roddy snare conflict) still held — no new external source found yet.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
 ## 2026-10-03 00:30 — Cheap pulse: 4/4 fresh proposals verified+promoted (#8518, #8520-8522)
 
 ### Context (≤3 lines)

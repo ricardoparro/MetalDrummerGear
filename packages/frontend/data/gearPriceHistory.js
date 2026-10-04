@@ -5259,7 +5259,6 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     priceEvolution: [
-      { year: 1992, price: 4300, label: 'Soul of a New Machine era', event: "Early Tama/ddrum hybrid trigger rig established on Fear Factory's debut" },
       { year: 1995, price: 5202, label: 'Original Purchase', event: "Demanufacture recorded — the founding template of industrial metal's hybrid triggered drum sound" },
       { year: 1998, price: 5900, label: 'Obsolete era', event: 'Rhys Fulber-produced hybrid kit refined further; commercial peak for Fear Factory' },
       { year: 2001, price: 6400, label: 'Digimortal era', event: 'Same Tama/Zildjian/ddrum rig carries through' },

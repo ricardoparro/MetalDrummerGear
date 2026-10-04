@@ -16923,7 +16923,7 @@ This guide breaks down Axenrot's playing across both sides of that range — the
       snare: {
         tension: "Medium-high",
         muffling: "Minimal",
-        description: "The SQ2 maple snare is tuned for a warm, cutting crack that works whether it's driving a blast beat or providing a restrained backbeat on a prog-rock passage.",
+        description: "The DW custom snare is tuned for a warm, cutting crack that works whether it's driving a blast beat or providing a restrained backbeat on a prog-rock passage.",
         tip: "Tune slightly lower than a typical extreme metal snare to preserve warmth for Opeth's quieter material."
       },
       toms: {

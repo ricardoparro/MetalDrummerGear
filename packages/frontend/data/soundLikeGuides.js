@@ -3957,9 +3957,9 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
       },
       pedals: {
         brand: 'Pearl',
-        model: 'Pearl Demon Drive Double Pedal',
-        description: "Mike uses Pearl Demon Drive pedals, taking advantage of their adjustability for his precise kick technique. His heel-up approach combined with Pearl's direct drive delivers the clarity his subdivision patterns require.",
-        alternative: "Pearl Eliminator or Tama Iron Cobra 900 for similar precision"
+        model: 'Pearl Eliminator Redline Double Pedal',
+        description: "Mike uses Pearl Eliminator Redline pedals, taking advantage of their adjustability for his precise kick technique. His heel-up approach combined with Pearl's direct drive delivers the clarity his subdivision patterns require.",
+        alternative: "Tama Iron Cobra 900 for similar precision"
       },
       sticks: {
         brand: 'Vater',

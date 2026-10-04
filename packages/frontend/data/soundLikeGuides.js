@@ -6003,12 +6003,12 @@ His signature approach involves treating each limb as an independent rhythmic vo
     },
     technique: {
       title: "Matt's Signature Playing Style",
-      overview: `Garstka plays matched grip with a relaxed, efficient technique informed by his jazz training. His defining quality is controlled limb independence — the ability to run four simultaneous rhythmic streams without any limb disrupting the others. Physically, he keeps his upper body relaxed and uses wrist-driven strokes for sustained technical passages, reserving larger arm movements for crashes and fills that require impact. His jazz background means he actively manages dynamics even in dense polyrhythmic contexts — not every stroke is maximum velocity.`,
+      overview: `Garstka plays traditional grip with a relaxed, efficient technique informed by his jazz training. His defining quality is controlled limb independence — the ability to run four simultaneous rhythmic streams without any limb disrupting the others. Physically, he keeps his upper body relaxed and uses wrist-driven strokes for sustained technical passages, reserving larger arm movements for crashes and fills that require impact. His jazz background means he actively manages dynamics even in dense polyrhythmic contexts — not every stroke is maximum velocity.`,
       stickGrip: {
-        type: 'Matched Grip',
-        description: "Garstka uses matched grip with a relaxed, jazz-influenced hold. The key is minimal tension throughout — tightly gripping sticks at high tempos during complex polyrhythmic passages is the most common error that kills speed and control. His Berklee training emphasizes using the natural rebound of the drumhead rather than muscling strokes.",
+        type: 'Traditional Grip',
+        description: "Garstka is one of the few prominent metal drummers who uses traditional grip rather than matched grip — a holdover from his jazz training at Berklee College of Music. The left-hand stick rests in a fulcrum between the thumb and first two fingers, with the wrist rotated to drive the stroke, rather than mirroring the right hand's overhand position. That asymmetry shapes his touch, dynamics, and ghost-note vocabulary, and it's the basis for his signature Vic Firth stick model, which uses an elongated taper designed for traditional-grip players.",
         tips: [
-          "Keep the grip loose — tension kills rebound, and rebound is what makes complex patterns manageable",
+          "Keep both hands loose — tension kills rebound, and rebound is what makes complex patterns manageable",
           "Use wrist-driven strokes for dense 16th-note passages; let rebound do the work between strokes",
           "Develop each limb independently before combining patterns — the combination is built from isolated parts"
         ]

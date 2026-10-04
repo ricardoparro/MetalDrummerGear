@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-04 08:04 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-04 09:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 408 |
-| Sessions | 444 |
-| Page views | 648 |
-| Engagement rate | 55.86% |
-| Avg session (s) | 132 |
+| Active users | 409 |
+| Sessions | 445 |
+| Page views | 651 |
+| Engagement rate | 55.73% |
+| Avg session (s) | 133 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -25,16 +25,16 @@
 | /drummer/matt-greiner | 9 | 8 |
 | /drummers/mike-portnoy/evolution | 9 | 4 |
 | /quiz | 9 | 2 |
+| /articles/whats-in-lars-ulrichs-kit | 8 | 9 |
 | /drummer/hellhammer | 8 | 7 |
-| /drummer/inferno | 8 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 317 | 288 |
+| Organic Search | 318 | 289 |
+| Unassigned | 70 | 65 |
 | Direct | 69 | 66 |
-| Unassigned | 69 | 64 |
-| Cross-network | 32 | 32 |
+| Cross-network | 33 | 33 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 

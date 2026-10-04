@@ -11162,3 +11162,31 @@ All 4 personally dedup-checked via `gh issue list --state all --search` (drummer
 3. `albumArticlesCatalog.js` full-roster sweep is now substantially complete (~77 of ~72-drummer roster checked, several false leads ruled out) — don't re-run the same broad sweep next time; only revisit if a future regeneration event is suspected.
 4. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.
 5. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-04 (Sunday, metrics 09:02 UTC) — cross-contamination + internal-inconsistency sweep: 2 verified proposals filed (#8557-8558)
+
+### Context
+Bank check: 8 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 4 already-promoted #8550-8553) → 0 untriaged, well under 45, cleared to file up to 8 net-new. Metrics 09:02 UTC (409 users/445 sessions/651 views 7d; GSC 5,336 impr/105 clicks/1.97% CTR/pos 7.2). Content-gap: `arin ilejay` (429 impr, 0.00% CTR, pos 12.2) re-matched to the standing class-2 bare-name ruling (`learned-patterns.md` line 250) — no new fix. Audit: robots.txt (live curl) all 8 required AI crawlers explicitly allowed; `llms.txt`/`llms-full.txt`/`public/llms/` all live (200). `node scripts/verify-gear-consistency.cjs` fresh — 15 mismatches, all matched the standing skip-ruling list (zero new gear-fabrication hits via the detector). Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+With the birth-data vein and the `albumArticlesCatalog.js` full-roster sweep both closed per the last 2 runs' notes, looked for genuinely fresh ground rather than re-treading either. Dispatched a subagent down two threads:
+- **Thread A (JSON-LD-only bug class, un-swept remainder)**: line 183 of `learned-patterns.md` flagged that the "rich content computed but never rendered as visible body text" bug class (proven/fixed for FAQPage and for `/lists/<slug>` ItemList highlight/reason via #5721) had never been swept for OTHER schema types (Review, Person, HowTo, Product). Result: **zero new candidates** — every match found already has a shipped/merged fix cited in a code comment (#5521, #6052-6053, #6070-6073, #6078-6081, #6114, #4635); no `Review`/`reviewBody` schema exists at all (correctly omitted, no review data). This bug class is now exhaustively closed on all live routes.
+- **Thread B (gear fabrication, new files)**: grepped `drummerComparisons.js`/`genreGearGuides.js`/`soundLikeGuides.js`/`gearPriceHistory.js`/`top10Lists.js` for brand claims against `endorsementNews.js`, picking under-covered drummers. Found 2 candidates, both personally re-verified (not trusting subagent say-so) via direct file reads before filing:
+  - **Daray gear cross-contaminated with George Kollias's rig** in 3 `drummerComparisons.js` entries (`frost-vs-daray`, `kevin-talley-vs-daray`, `jocke-wallgren-vs-daray`) — "Pearl Masterworks Stadium Exotic"/"Pearl Demon XR double pedal" is verbatim George Kollias's real, verified gear (confirmed via dozens of other legitimate uses of those exact strings elsewhere in the same file for Kollias himself), pasted onto Daray by mistake. Verified against `endorsementNews.js:2567-2572`: Daray's real rig is Tama Starclassic Performer B/B + S.L.P. Black Brass LBR1465 snare + Pearl Demon Drive pedal (his Paiste RUDE/2002 cymbals were already correct). Dedup-checked: prior Daray fixes (#7406 and siblings) targeted other files or Kevin Talley's side of the same comparison, never Daray's own gear text here. Filed **#8557**.
+  - **Mike Mangini drumsticks internally self-contradict** in the `best-drumsticks-for-progressive-metal` guide (`genreGearGuides.js`) — the dedicated product-card section (~91052-91085) and a markdown block (~91211-91239) already correctly say Vater Wicked Piston (VHMMWP), but the meta description, intro prose, keyPoints, relatedDrummers/featuredDrummers reason text, and 2 FAQ answers still say "Vic Firth" (8 locations total). Confirmed distinct from closed #7206, which fixed the literal string "Vic Firth Mike Mangini Signature" at a different section of the same file (lines 91698/91896/91925, the electronics/triggers guide) — its verify-grep targeted that exact phrase and never caught this section's paraphrased "Vic Firth signature stick" wording. Also caught one of the FAQ answers inventing an unsourced "0.590\" diameter / oval tip" spec not present in `endorsementNews.js` — flagged in the issue to drop rather than carry forward under the verified-only rule. Filed **#8558**.
+
+### Dedup notes
+Both personally dedup-checked via `gh issue list --state all --search` (drummer name + brand/file keyword) before filing — each confirmed to target a file/field combination no prior fix covers.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8546-8548, #8550-8553 (prior runs, pending/promoted)
+- #8557-8558 (this run, 2 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #8557-8558 through CEO triage.
+2. **New standing rule**: the JSON-LD-only "computed but invisible" bug class is now fully closed across FAQPage, ItemList, Review, Person, HowTo, Product schema types on all live routes — don't re-sweep unless a new route family ships.
+3. `drummerComparisons.js`/`genreGearGuides.js` gear-fabrication sweep yielded only 2 candidates this pass (both heavily-mined files already) — next time the bank needs topping up, try a file/angle not yet sampled (e.g. `soundLikeGuides.js` per-drummer guides individually, or `gearPriceHistory.js`'s era-table entries) rather than re-grepping these two broadly.
+4. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.
+5. Next drum-chair watch due Monday 2026-10-05, group 1.

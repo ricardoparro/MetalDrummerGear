@@ -6357,7 +6357,7 @@ export const ALBUM_ARTICLES_META = {
     "year": 2006,
     "genre": "Heavy Metal / Speed Metal",
     "title": "Kiss of Death Drum Setup: Mikkey Dee's Gear on Motörhead's 2006 Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Kiss of Death (2006) — the album where he switched from Tama to Sonor SQ2 drums. Complete breakdown of the new Sonor SQ2 kit, Paiste cymbals, and the band's highest German chart entry to date.",
+    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Kiss of Death (2006). Complete breakdown of the Sonor SQ2 kit, Paiste cymbals, and the band's highest German chart entry to date.",
     "ogImage": "/images/albums/kiss-of-death-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",

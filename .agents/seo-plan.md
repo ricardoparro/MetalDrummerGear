@@ -11190,3 +11190,39 @@ Both personally dedup-checked via `gh issue list --state all --search` (drummer 
 3. `drummerComparisons.js`/`genreGearGuides.js` gear-fabrication sweep yielded only 2 candidates this pass (both heavily-mined files already) — next time the bank needs topping up, try a file/angle not yet sampled (e.g. `soundLikeGuides.js` per-drummer guides individually, or `gearPriceHistory.js`'s era-table entries) rather than re-grepping these two broadly.
 4. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.
 5. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-04 (Sunday, metrics 14:47 UTC) — soundLikeGuides.js/gearPriceHistory.js full sweep (new files, per last run's lead): 6 verified proposals filed (#8565-8570), 1 false positive caught and dropped
+
+### Context
+Bank check: 6 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 2 untriaged #8557-8558 from prior run) — well under 45, cleared to file up to 8 net-new. Metrics 14:47 UTC (424 users/461 sessions/678 views 7d; GSC 5,336 impr/105 clicks/1.97% CTR/pos 7.2 — flat vs this morning's 09:02 snapshot). Content-gap: `arin ilejay` (429 impr, 0.00% CTR, pos 12.2) re-matched to the standing class-2 bare-name ruling (`learned-patterns.md` line 250) — no new fix. Audit: robots.txt (live curl) all 8 required AI crawlers explicitly allowed; 2,016 `/llms/*.md` files + `llms.txt`/`llms-full.txt` live (200). `node scripts/verify-gear-consistency.cjs` fresh — 15 mismatches, all matched the standing skip-ruling list (zero new gear-fabrication hits via the detector). Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Picked up the prior run's explicit lead: `soundLikeGuides.js` (~18,377 lines) and `gearPriceHistory.js` (~9,930 lines) had never been swept for gear fabrication, unlike the heavily-mined `drummerComparisons.js`/`genreGearGuides.js`. Dispatched a subagent to cross-check every brand/model claim in both files against `endorsementNews.js`'s era-scoped timeline.
+
+**Subagent surfaced 12 candidates; personally re-verified each via direct file reads before filing — caught 1 false positive this way.** The subagent flagged a "Mikkey Dee soundLikeGuides.js Tama→Sonor switch-year fabrication" at lines 6265/6322/6331/6470, but reading the live file directly showed the text is already correct ("Dee's Sonor Drums relationship began in 2012... decades into his Motörhead tenure, which he began in 1992 playing a Tama kit") — closed issue #7628 had already fixed exactly this, and the fix is live. Subagent was simply wrong (likely pattern-matched on the topic rather than the actual current text). **Dropped, not filed.**
+
+Also dropped **Daniel Erlandsson** (gearPriceHistory.js drums model "Pearl Masters Premium" vs endorsementNews's "Pearl Reference Pure" naming for the Wages of Sin era) as too ambiguous to file confidently this run — prior fixes #7278/#7320 already touched this exact entry for cymbals/sticks/snare/switch-year, and endorsementNews.js itself has an internal year inconsistency (says 2002 while citing "Wages of Sin (2002)," though the real album released 2001) that would need untangling before a clean fix spec is possible. Not re-opened; flag as a future lead if someone wants to resolve the endorsementNews.js date first.
+
+**6 confirmed and filed** (each personally verified against `endorsementNews.js` directly, not on subagent say-so alone):
+- **#8565** — Mike Mangini `soundLikeGuides.js` pedal still "Pearl Demon Drive" (verified Eliminator Redline) — 6th file in this long-running correction chain (#7961/#8366/#8456/#8550/#8380 already fixed 5 others).
+- **#8566** — Matt Garstka `soundLikeGuides.js` is the lone file claiming "Matched Grip" — verified traditional grip, unanimous and explicit across extendedBios.js, drummerComparisons.js, drummerEvolution.js (incl. a dedicated FAQ), and 6 albumArticles/matt-garstka.js locations. Strongest finding this run — internal consensus was overwhelming.
+- **#8567** — Martin Axenrot `soundLikeGuides.js` self-contradiction: gear section correctly says DW snare (per #5908's fix), but the `tuning` section 50 lines later still calls it "The SQ2 maple snare" (a Sonor model name) — #5908's brand-field grep wouldn't have caught this freeform prose sentence.
+- **#8568** — Joey Jordison `gearPriceHistory.js` 2001 cymbal line fabricated as "Paiste Signature Series" — verified Paiste RUDE since the 1999 switch (Signature and RUDE are distinct, non-overlapping lines).
+- **#8569** — Raymond Herrera `gearPriceHistory.js` fabricates an unsupported 1992 "Tama/ddrum rig established" priceEvolution entry — contradicts the file's own 1995 summary text and endorsementNews.js (signed 1995, no earlier entry); #7266 fixed this same entry's brand fields but never addressed this separate row.
+- **#8570** — Abe Cunningham's own dedicated `soundLikeGuides.js` guide still states current cymbals as Zildjian A/K Custom — verified Sabian HHX since 2010; 5 other files already carry this correction but the guide's own gear section (arguably highest-visibility single location) was never touched.
+
+### Dedup notes
+All 6 personally dedup-checked via `gh issue list --state all --search` (drummer + file/field keyword) before filing — each confirmed to target a file/field/claim combination no prior fix covers.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8557-8558 (prior run, still untriaged as of this run)
+- #8565-8570 (this run, 6 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #8557-8558 and #8565-8570 through CEO triage.
+2. **soundLikeGuides.js/gearPriceHistory.js sweep substantially complete** for the sampled drummers this pass — don't re-run broadly; 1 unresolved lead if anyone wants it: Daniel Erlandsson's gearPriceHistory.js drums model name needs endorsementNews.js's own Wages of Sin year (2001 vs 2002) resolved first.
+3. **Process note**: subagent-reported line numbers and claims are not always reliable (1 of 12 this run was flatly wrong, already-fixed content) — always re-read the live file directly before trusting a subagent's framing, not just before filing. This cost no bad filings this run only because of that check.
+4. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.
+5. Next drum-chair watch due Monday 2026-10-05, group 1.

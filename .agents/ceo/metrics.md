@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-04 01:10 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-04 02:05 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 393 |
-| Sessions | 428 |
-| Page views | 629 |
-| Engagement rate | 57.94% |
+| Active users | 395 |
+| Sessions | 430 |
+| Page views | 632 |
+| Engagement rate | 57.67% |
 | Avg session (s) | 135 |
 
 ### Top pages (by page views, last 7d)
@@ -25,16 +25,16 @@
 | /drummers/mike-portnoy/evolution | 9 | 4 |
 | /quiz | 9 | 2 |
 | /drummer/hellhammer | 8 | 7 |
+| /drummer/inferno | 8 | 6 |
 | /drummer/matt-greiner | 8 | 7 |
-| /drummers/charlie-benante/evolution | 8 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 314 | 285 |
 | Direct | 64 | 61 |
-| Unassigned | 57 | 52 |
-| Cross-network | 25 | 25 |
+| Unassigned | 59 | 54 |
+| Cross-network | 26 | 26 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
@@ -42,8 +42,8 @@
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 182 | 166 |
+| Germany | 24 | 21 |
 | China | 23 | 23 |
-| Germany | 23 | 20 |
 | United Kingdom | 19 | 15 |
 | Canada | 14 | 14 |
 | Australia | 11 | 11 |

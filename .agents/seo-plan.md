@@ -11128,3 +11128,37 @@ All 3 personally dedup-checked via `gh issue list --state all --search` plus dir
 2. **New standing lead**: `albumArticlesCatalog.js` (the description/title metadata file, separate from the per-drummer module files) has never been systematically swept for gear-fabrication — this run found 2 genuine hits (Flo Mounier, Matt Greiner) via a single targeted boilerplate-string grep, not an exhaustive pass. Worth a dedicated full sweep next time the bank needs topping up: grep the file's `description` fields for brand names per drummer and cross-check against `endorsementNews.js`, the same method used here, scaled to the full ~72-drummer catalog instead of just the 10 drummers sampled via the "DW 9000" string.
 3. Content-gap: `joey jordison drum kit` and `arin ilejay` both re-confirmed against standing rulings — no new fix.
 4. Next drum-chair watch due Monday 2026-10-05, group 1.
+
+## 2026-10-04 (Sunday, metrics 02:05 UTC) — albumArticlesCatalog.js full-roster sweep: found a silent regression (PR #8466) + 3 fresh fabrications, 4 proposals filed (#8550-8553)
+
+### Context
+Bank check: 7 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + held #7981 (Derek Roddy) + 3 untriaged fresh (#8546-8548, filed prior run, not yet CEO-triaged) → well under 45, cleared to file up to 8 net-new. Metrics 02:05 UTC (395 users/430 sessions/632 views 7d; GSC 5,336 impr/105 clicks/1.97% CTR/pos 7.2). Content-gap: `arin ilejay` (429 impr, 0% CTR, pos 12.2) re-matched to standing class-2 bare-name ruling (`learned-patterns.md` ~line 205/250) — no new fix; `joey jordison drum kit` not flagged this snapshot (CTR back above 2% threshold). Audit: robots.txt (live curl) all 8 required AI crawlers explicitly allowed; 2,016 `/llms/*.md` files live. `node scripts/verify-gear-consistency.cjs` fresh — 15 mismatches, all matched the standing skip-ruling list (zero new gear-fabrication hits). Not Monday — drum-chair watch skipped (next due 2026-10-05).
+
+### Method
+Picked up the standing lead flagged by the prior run: `albumArticlesCatalog.js` (the description/title metadata catalog, ~8,933 lines, distinct from the per-drummer module files) had only been sampled for 10 drummers via a narrow "DW 9000" grep. Dispatched a subagent to sweep the full ~77-drummer roster (4 parallel chunks), cross-checking every named gear-brand claim against `endorsementNews.js`'s full timeline, with known false-positive classes (SIGNATURE-era brand fields, freeform `notes`-only historical mentions, pre-switch era-accurate claims) excluded up front.
+
+**Headline finding, personally re-verified before trusting the subagent's framing**: commit `23c4ced7` (PR #8466, merged 2026-10-01, ostensibly a performance fix extending the list-preview hero swap to album articles) **regenerated `albumArticlesCatalog.js` from a stale source**, and its own commit message admits this "had drifted from several already-merged per-drummer gear corrections (#8458-#8460)" — but the regeneration silently **reverted 5 entries that closed issue #8125/PR #8141 (2026-09-25) had already fixed**, reintroducing the exact pre-fix "Pearl Demon Drive" fabrication text byte-for-byte (confirmed via `gh pr diff 8141` vs. live file: George Kollias, Joey Jordison, Matt Greiner ×2, Shannon Larkin). 2 sibling entries from the same original fix (Mike Mangini, Matt Greiner's Constellations) are NOT regressed — confirmed correct in the live file, left untouched. Filed **#8550**.
+
+While verifying the regression, also found (and personally confirmed against `endorsementNews.js` + the relevant closed-issue history, not on subagent say-so alone):
+- **Mikkey Dee** (`albumArticlesCatalog.js:6360`) — closed #8078 fixed a "switched from Tama to **Pearl**" brand fabrication here, with its own fix spec explicitly saying to *remove* the switch-narrative framing. The live implementation only swapped the brand name (now "switched from Tama to **Sonor SQ2**") — the underlying claim (a dated 2006 switch event) still has zero supporting `endorsementNews.js` timeline entry (timeline jumps 1992 Tama → 2012 Sonor signature with no dated switch), i.e. #8078 was only half-implemented. Filed **#8551**.
+- **Blake Richardson** (`albumArticlesCatalog.js:930/947/966`, Automata I/II 2018 + general overview) — says "double pedal," but `endorsementNews.js`'s own hardware entry for this era explicitly disclaims this: "Twin Tama Iron Cobra Power Glide **single pedals (not linked double)**, since 2018." Checked 13 closed Blake Richardson issues (#6148/#7355/#8211/#8494/#6833/#6636/#5880/#5327/#6958/#7771/#7980/#7972/#7973) — all target other files, none this pedal-count claim in this file. Filed **#8552**.
+- **Dave Lombardo** (`albumArticlesCatalog.js:2054/2076`, Show No Mercy 1983 + Hell Awaits 1985) — says "Ludwig" drums; verified Pearl Maxwin (signed 1981, "still on Pearl through the Reign in Blood era" per 1986 renewal). A 3rd independent drift layer on this exact fact: closed #7451 already fixed the *sibling* module file `albumArticles/dave-lombardo.js` (same era, different fabricated brand — "Tama Artstar II") but never touched this catalog file. Filed **#8553**.
+
+Several other subagent leads (Jaska Raatikainen, Matt Halpern, Vinnie Paul, Arin Ilejay, Art Cruz, Ben Koller, Daniel Erlandsson, Danny Carey, Raymond Herrera, Paul Mazurkiewicz, Mike Portnoy) were checked and ruled out — consistent with `endorsementNews.js` on direct re-check, not filed.
+
+### Dedup notes
+All 4 personally dedup-checked via `gh issue list --state all --search` (drummer name + brand keyword) with full-body reads of the closest prior issues (#8125/#8141, #8078, #7451, and the 13 Blake Richardson issues) before filing — each confirmed to target a file/field/claim combination no prior fix covers.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8546-8548 (prior run, still untriaged as of this run)
+- #8550-8553 (this run, 4 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 11 open `seo-proposal`.
+
+### Next run
+1. Watch #8546-8548 and #8550-8553 through CEO triage.
+2. **New standing lead**: the `albumArticlesCatalog.js` regeneration path (triggered by #8466-style "extend X to album articles" performance/infra work) is a regression risk — if another infra change touches this file's generation again, re-diff against the last-known-good state (this run's method: `gh pr diff <last-fix-PR>` vs. live file) rather than assuming prior fixes are durable.
+3. `albumArticlesCatalog.js` full-roster sweep is now substantially complete (~77 of ~72-drummer roster checked, several false leads ruled out) — don't re-run the same broad sweep next time; only revisit if a future regeneration event is suspected.
+4. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.
+5. Next drum-chair watch due Monday 2026-10-05, group 1.

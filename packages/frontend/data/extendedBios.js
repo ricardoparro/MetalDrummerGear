@@ -362,7 +362,7 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
 
 **Current Setup:**
 - **Drums**: Pearl Reference Pure in various finishes
-- **Snare**: Pearl Reference 14"x6.5" Brass
+- **Snare**: A Pearl snare; the specific model has not been independently verified
 - **Cymbals**: Sabian AAX series (15" Hi-Hats, crashes up to 20", 22" Ride)
 - **Hardware**: Pearl Demon Drive double pedal
 - **Sticks**: ProMark Classic Forward 2B (forward-weighted, for durability)
@@ -370,7 +370,6 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
 
 **Setup Philosophy:**
 - Favors a relatively compact setup for accessibility
-- Uses brass snare for cut and projection
 - Prefers Sabian AAX for brightness in extreme metal contexts
 - Known for consistent setup across different bands`
       },
@@ -397,10 +396,10 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
           { q: 'What drums does Gene Hoglan play?', a: 'Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX cymbals.' },
           { q: 'Was Gene Hoglan in Death?', a: "Yes, Gene drummed on Death's albums \"Individual Thought Patterns\" (1993) and \"Symbolic\" (1995)." },
           { q: 'When was Gene Hoglan born?', a: 'Gene Hoglan was born on August 31, 1967, and turns 59 on August 31, 2026.' },
-          { q: 'What drum kit does Gene Hoglan use?', a: 'Gene Hoglan\'s drum kit is a Pearl Reference Pure kit in various finishes, centered on his Pearl Reference 14"x6.5" brass snare drum for extra cut and projection. The kit is fitted with Sabian AAX cymbals — 15" hi-hats, crashes up to 20", and a 22" ride — and powered by a Pearl Demon Drive double pedal. Hoglan favors a relatively compact drum kit for accessibility across the many bands he plays in.' },
-          { q: 'What drum set does Gene Hoglan use?', a: 'Gene Hoglan\'s drum set is Pearl Reference Pure, built around a Pearl Reference 14"x6.5" brass snare drum, Sabian AAX cymbals (15" hi-hats, crashes to 20", and a 22" ride), and a Pearl Demon Drive double pedal. He plays Evans Genera HD or EMAD heads and ProMark Classic Forward 2B sticks, keeping the drum set consistent across Death, Testament, and Dethklok.' },
+          { q: 'What drum kit does Gene Hoglan use?', a: 'Gene Hoglan\'s drum kit is a Pearl Reference Pure kit in various finishes; the specific snare model has not been independently verified. The kit is fitted with Sabian AAX cymbals — 15" hi-hats, crashes up to 20", and a 22" ride — and powered by a Pearl Demon Drive double pedal. Hoglan favors a relatively compact drum kit for accessibility across the many bands he plays in.' },
+          { q: 'What drum set does Gene Hoglan use?', a: 'Gene Hoglan\'s drum set is Pearl Reference Pure, paired with Sabian AAX cymbals (15" hi-hats, crashes to 20", and a 22" ride), and a Pearl Demon Drive double pedal; the specific snare model has not been independently verified. He plays Evans Genera HD or EMAD heads and ProMark Classic Forward 2B sticks, keeping the drum set consistent across Death, Testament, and Dethklok.' },
           { q: 'What cymbals does Gene Hoglan use?', a: 'Gene Hoglan uses Sabian AAX series cymbals, including 15" AAX hi-hats, AAX crashes up to 20", and a 22" AAX ride. He favors the brightness and cut of the AAX line to project clearly in dense, extreme metal arrangements.' },
-          { q: 'What snare drum does Gene Hoglan use?', a: 'Gene Hoglan plays a Pearl Reference 14"x6.5" brass snare drum, chosen for the extra cut and projection a brass shell provides over his Pearl Reference Pure kit.' }
+          { q: 'What snare drum does Gene Hoglan use?', a: 'Gene Hoglan plays a Pearl snare as part of his Pearl Reference Pure kit; the specific snare model has not been independently verified.' }
         ]
       },
       sources: {
@@ -3363,7 +3362,7 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
 
 **Current Setup:**
 - **Drums**: Pearl Reference Pure
-- **Snare**: Pearl Reference 14"x6.5" Brass
+- **Snare**: A Pearl snare; the specific model has not been independently verified
 - **Cymbals**: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride)
 - **Hardware**: Pearl Demon Drive double pedal
 - **Sticks**: Vic Firth American Classic 5B
@@ -3390,10 +3389,10 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Jocke Wallgren use?', a: 'Jocke Wallgren\'s drum kit is a Pearl Reference Pure kit, the versatile, hybrid-shell configuration that has powered Amon Amarth\'s Viking metal assault since he joined the band in 2016. It centers on a Pearl Reference 14"x6.5" brass snare and is topped with Zildjian A Custom and K Custom cymbals, driven by a Pearl Demon Drive double pedal.' },
-          { q: 'What drum set does Jocke Wallgren use?', a: 'Jocke Wallgren\'s drum set is a Pearl Reference Pure configuration built around a bright, cutting Pearl Reference 14"x6.5" brass snare. The drum set carries Zildjian A Custom and K Custom Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks.' },
+          { q: 'What drum kit does Jocke Wallgren use?', a: 'Jocke Wallgren\'s drum kit is a Pearl Reference Pure kit, the versatile, hybrid-shell configuration that has powered Amon Amarth\'s Viking metal assault since he joined the band in 2016; the specific snare model has not been independently verified. It is topped with Zildjian A Custom and K Custom cymbals, driven by a Pearl Demon Drive double pedal.' },
+          { q: 'What drum set does Jocke Wallgren use?', a: 'Jocke Wallgren\'s drum set is a Pearl Reference Pure configuration; the specific snare model has not been independently verified. The drum set carries Zildjian A Custom and K Custom Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks.' },
           { q: 'What cymbals does Jocke Wallgren use?', a: 'Jocke Wallgren uses Zildjian A Custom and K Custom Series cymbals: 14" A Custom Hi-Hats for tight, driving patterns, 18" and 19" A Custom Crashes for explosive accents, and a 21" K Custom Ride for dark, controlled rhythmic definition.' },
-          { q: 'What snare drum does Jocke Wallgren play?', a: 'Jocke Wallgren plays a Pearl Reference 14"x6.5" brass snare, delivering the bright, cutting crack that projects through Amon Amarth\'s dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages.' },
+          { q: 'What snare drum does Jocke Wallgren play?', a: 'Jocke Wallgren plays a Pearl snare as part of his Pearl Reference Pure kit; the specific snare model has not been independently verified.' },
           { q: 'What bass drum pedals does Jocke Wallgren use?', a: 'Jocke Wallgren uses a Pearl Demon Drive double bass drum pedal, giving him the speed and stability needed for Amon Amarth\'s driving, groove-oriented tempos.' },
           { q: 'What band is Jocke Wallgren in?', a: 'Jocke Wallgren has been the drummer for melodic death metal band Amon Amarth since 2016, replacing Fredrik Andersson.' },
           { q: 'What drumsticks does Jocke Wallgren use?', a: 'Jocke Wallgren uses Vic Firth American Classic 5B drumsticks.' },
@@ -5043,7 +5042,7 @@ Before joining Korn, Luzier built an impressive resume playing with David Lee Ro
 
 **Current Setup:**
 - **Drums**: Pearl Reference Pure in custom finishes
-- **Snare**: Pearl Reference 14"x6.5" Brass
+- **Snare**: A Pearl snare; the specific model has not been independently verified
 - **Cymbals**: Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Hardware**: DW 9000 Series double pedal
 - **Sticks**: Vic Firth Ray Luzier Signature
@@ -5073,10 +5072,10 @@ Before joining Korn, Luzier built an impressive resume playing with David Lee Ro
         items: [
           { q: 'What band does Ray Luzier play drums for?', a: 'Ray Luzier has been the drummer for Korn since 2007, and also plays in the hard rock trio KXM.' },
           { q: 'What drums does Ray Luzier play?', a: 'Ray Luzier plays a Pearl Reference Series drum kit.' },
-          { q: 'What drum kit does Ray Luzier play?', a: 'Ray Luzier\'s drum kit is a Pearl Reference Series shell pack built around a Pearl Reference 14"x6.5" brass snare, giving him the cut and volume needed for Korn\'s heavy, low-tuned sound.' },
-          { q: 'What drum set does Ray Luzier play?', a: 'Ray Luzier\'s drum set pairs Pearl Reference Series shells and his 14"x6.5" brass Reference snare with Sabian AAX Series cymbals and a DW 9002 double pedal for Korn\'s touring and studio work.' },
+          { q: 'What drum kit does Ray Luzier play?', a: 'Ray Luzier\'s drum kit is a Pearl Reference Series shell pack; the specific snare model has not been independently verified.' },
+          { q: 'What drum set does Ray Luzier play?', a: 'Ray Luzier\'s drum set pairs Pearl Reference Series shells with Sabian AAX Series cymbals and a DW 9002 double pedal for Korn\'s touring and studio work; the specific snare model has not been independently verified.' },
           { q: 'What cymbals does Ray Luzier use?', a: 'Ray Luzier uses Sabian AAX Series cymbals, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.' },
-          { q: 'What snare drum does Ray Luzier use?', a: 'Ray Luzier\'s primary snare is the Pearl Reference 14"x6.5" Brass, chosen for its projection and attack.' },
+          { q: 'What snare drum does Ray Luzier use?', a: 'Ray Luzier\'s snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.' },
           { q: 'What pedals does Ray Luzier use?', a: 'Ray Luzier drives his double bass playing with a DW 9002 double pedal, seated on a Pearl D-2000 Roadster throne.' },
           { q: 'What drumsticks does Ray Luzier use?', a: 'Ray Luzier plays his own Vic Firth Ray Luzier Signature drumsticks.' },
           { q: 'What drumheads does Ray Luzier use?', a: 'Ray Luzier uses Evans drumheads across his Pearl Reference Series drum kit and drum set.' }
@@ -5943,7 +5942,7 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
 
 **Current Setup:**
 - **Drums**: Pearl Reference Series
-- **Snare**: Pearl Reference 14"x6.5" Brass
+- **Snare**: A Pearl snare; the specific model has not been independently verified
 - **Cymbals**: Meinl Byzance series (14" Byzance Traditional Medium Hi-Hats, 18" & 20" Byzance Traditional Extra Thin Hammered Crashes, 22" Byzance Sand Crash-Ride, 10" Byzance Traditional Splash, plus his signature Artist Concept "Double Down Stack")
 - **Hardware**: Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Electronics**: Roland SPD-SX, various triggers
@@ -5972,10 +5971,10 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Matt Halpern use?', a: 'Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery\'s complex polyrhythmic arrangements. His Pearl Reference 14"x6.5" Brass snare delivers cutting, focused crack that sits precisely within Periphery\'s dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan.' },
-          { q: 'What drum set does Matt Halpern use?', a: 'Matt Halpern\'s drum set pairs Pearl Reference Series shells and his Brass snare with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent\'s syncopated rhythms.' },
+          { q: 'What drum kit does Matt Halpern use?', a: 'Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery\'s complex polyrhythmic arrangements; the specific snare model has not been independently verified.' },
+          { q: 'What drum set does Matt Halpern use?', a: 'Matt Halpern\'s drum set pairs Pearl Reference Series shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent\'s syncopated rhythms; the specific snare model has not been independently verified.' },
           { q: 'What cymbals does Matt Halpern play?', a: 'Matt Halpern plays Meinl Byzance Series cymbals: 14" Byzance Traditional Medium Hi-Hats, 18" and 20" Byzance Traditional Extra Thin Hammered Crashes, a 22" Byzance Sand Crash-Ride, and a 10" Byzance Traditional Splash, plus his signature Meinl Artist Concept "Double Down Stack".' },
-          { q: 'What snare does Matt Halpern use?', a: 'Matt Halpern\'s snare is a Pearl Reference 14"x6.5" Brass, giving him cutting, focused crack that sits within Periphery\'s dense, downtuned guitar mix.' },
+          { q: 'What snare does Matt Halpern use?', a: 'Matt Halpern\'s snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.' },
           { q: 'What sticks does Matt Halpern use?', a: 'Matt Halpern uses Promark Matt Halpern Signature drumsticks.' },
           { q: 'What bass drum pedal does Matt Halpern use?', a: 'Matt Halpern uses a Pearl Demon Drive double pedal.' },
           { q: 'What drumheads does Matt Halpern use?', a: 'Matt Halpern uses Evans drumheads.' },
@@ -6836,7 +6835,7 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
 
 **Typical Setup:**
 - **Drums**: Pearl Reference Series
-- **Snare**: Pearl Reference 14"x6.5" Brass
+- **Snare**: A Pearl snare; the specific model has not been independently verified
 - **Cymbals**: Sabian (AAX, HHX series)
 - **Hardware**: Pearl Demon Drive Double Pedal
 - **Sticks**: Vic Firth (various models)
@@ -6866,9 +6865,9 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
         title: 'Frequently Asked Questions',
         items: [
           { q: 'What drum kit does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen\'s rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend\'s primary drummer across two decades of genre-hopping albums, from ambient soundscapes to full-throttle metal assaults.' },
-          { q: 'What drum set does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen\'s drum set is built around a Pearl Reference 14"x6.5" Brass snare, delivering the cutting attack needed to punch through Townsend\'s dense, layered guitar walls on records like Accelerated Evolution, Synchestra, and Transcendence.' },
+          { q: 'What drum set does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen\'s drum set is a Pearl Reference Series shell pack, used across records like Accelerated Evolution, Synchestra, and Transcendence; the specific snare model has not been independently verified.' },
           { q: 'What cymbals does Ryan Van Poederooyen play?', a: 'Ryan Van Poederooyen plays Sabian HHX and AAX Series cymbals: 14" HHX Evolution Hi-Hats, 18" and 20" HHX Evolution Crashes, a 21" HHX Raw Bell Dry Ride, and a 19" AAXtreme China.' },
-          { q: 'What snare does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen\'s snare is a Pearl Reference 14"x6.5" Brass, delivering the cutting attack needed to punch through Devin Townsend\'s dense guitar walls.' },
+          { q: 'What snare does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen\'s snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.' },
           { q: 'What sticks does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen drives Townsend\'s crushing riffs with a Pearl Demon Drive double pedal, seated on a Pearl D-3000 throne.' },
           { q: 'What drumheads does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen uses Evans drumheads across his Pearl Reference kit.' },
@@ -6959,7 +6958,7 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
 
 **Setup with Trivium:**
 - **Drums**: Pearl Reference Pure
-- **Snare**: Pearl Reference 14"x6.5" Brass
+- **Snare**: A Pearl snare; the specific model has not been independently verified
 - **Cymbals**: Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Hardware**: Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks**: Pro-Mark Nylon Tip 5B
@@ -6989,8 +6988,8 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
           { q: 'When was Nick Augusto in Trivium?', a: 'Nick Augusto was Trivium\'s drummer from 2010 to 2014, recording two albums with the band.' },
           { q: 'What albums did Nick Augusto record with Trivium?', a: 'Nick recorded "In Waves" (2011) and "Vengeance Falls" (2013) with Trivium.' },
           { q: 'What drum kit does Nick Augusto use?', a: 'Nick Augusto\'s drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls."' },
-          { q: 'What drum set does Nick Augusto use?', a: 'Nick Augusto\'s drum set pairs his Pearl Reference Pure shells and 14"x6.5" Brass snare with a Pearl Demon Drive double pedal and Pearl D-2000 throne, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls."' },
-          { q: 'What snare does Nick Augusto use?', a: 'Augusto plays a Pearl Reference 14"x6.5" Brass snare, chosen for the sharp, cutting crack needed to punch through Trivium\'s dense thrash-metalcore guitar work.' },
+          { q: 'What drum set does Nick Augusto use?', a: 'Nick Augusto\'s drum set pairs his Pearl Reference Pure shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls"; the specific snare model has not been independently verified.' },
+          { q: 'What snare does Nick Augusto use?', a: 'Augusto plays a Pearl snare as part of his Pearl Reference Pure kit; the specific snare model has not been independently verified.' },
           { q: 'What cymbals does Nick Augusto play?', a: 'Nick Augusto\'s cymbal setup is Sabian AAX Series: 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.' },
           { q: 'What bass drum pedal does Nick Augusto use?', a: 'Augusto drives his speed-focused double bass work with a Pearl Demon Drive Double Pedal, mounted alongside a Pearl D-2000 Throne.' },
           { q: 'What sticks does Nick Augusto use?', a: 'Nick Augusto plays Pro-Mark Nylon Tip 5B sticks, paired with Evans drumheads.' },

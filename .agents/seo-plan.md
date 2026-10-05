@@ -11264,3 +11264,35 @@ All 7 personally dedup-checked via `gh issue list --state all --search` (drummer
 3. `cymbalSetups.js`/`drummersByKit.js`/`drummerGearCategoryPages.js` now checked clean — don't re-sweep unless flagged by a future regression.
 4. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.
 5. **Process lesson for future sweeps**: when a per-drummer flat data file (snares.js, cymbalSetups.js, etc.) appears to contradict `endorsementNews.js`, check whether a *prior* issue already ruled that file as the anchor for a specific historical era before assuming the mismatch runs in the "obvious" direction — read full issue bodies, not just titles.
+
+## 2026-10-05 (Monday, metrics 07:25 UTC) — follow-up gear-fabrication sweep (extendedBios.js/top10Lists.js, fresh ground): 6 verified proposals filed (#8593-8598)
+
+### Context
+Bank check: 11 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 7 already-promoted #8583-8589 per this morning's 01:28 UTC run) — well under 45, cleared to file up to 8 net-new. Metrics 07:25 UTC (408 users/446 sessions/651 views 7d; GSC 9,179 impr/217 clicks/2.36% CTR/pos 7.1 — unchanged vs 01:28 snapshot). Content-gap: `arin ilejay` (550 impr, 0.36% CTR, pos 11.7) re-matched to the standing class-2 bare-name ruling (learned-patterns.md line 250) — no new fix. Audit: robots.txt (live curl) all 8 required AI crawlers explicitly allowed; `llms.txt`/`llms-full.txt` live (200); 2,016 `/llms/*.md` files live. **Monday — drum-chair watch group 1 already completed and logged in this morning's 01:28 UTC run (0 changes found) — not re-run this pass, next due 2026-10-12 group 2.**
+
+### Method
+This morning's run already swept `signatureGear.js`/`snares.js`/`evolutionTimeline.js`/`gearComparisons.js`. Picked genuinely fresh ground not yet systematically mined: `extendedBios.js` (9,289 lines — only scattered one-off prior fixes) and `top10Lists.js` (3,588 lines — only 1 incidental hit so far). Dispatched a subagent, then personally re-verified every candidate via direct file reads + `endorsementNews.js` cross-checks before filing (standard process per the 2026-10-04 run's lesson that subagent line numbers/claims aren't always reliable).
+
+**Headline finding**: grepping the exact string `"Pearl Reference 14"x6.5" Brass"` in `extendedBios.js` turned up **12 occurrences across 6 unrelated drummers** (Gene Hoglan, Jocke Wallgren, Ray Luzier, Matt Halpern, Ryan Van Poederooyen, Nick Augusto) — a boilerplate snare spec copy-pasted with zero per-drummer verification. Confirmed none of the 6 has a `snare` field in `endorsementNews.js`'s `currentEndorsements` at all. The site already has an established correct convention for undocumented snares (Martin Axenrot/Isaac Lamb: "not independently verified/documented") — this fabrication should follow that pattern instead. Filed as one consolidated batch, **#8594**.
+
+**5 other findings, each personally verified against `endorsementNews.js` + dedup-checked via `gh issue list --state all --search` with full-body reads of the closest prior issue (not just titles) before filing:**
+- **#8593** — `endorsementNews.js` itself (the ground-truth file) has an internal date bug: Daniel Erlandsson's Pearl Reference Pure switch timeline entry says `year: 2002` / "Wages of Sin (2002)", but Arch Enemy's *Wages of Sin* released 2001 — confirmed every OTHER file in the repo (`bands.js`, `extendedBios.js`, `drummerEvolution.js`, `top10Lists.js`, `soundLikeGuides.js`, `gearPriceHistory.js`) already has 2001 correct; `endorsementNews.js` is the sole outlier. This resolves a lead flagged by the 2026-10-04 14:47 UTC run (which couldn't file a clean `gearPriceHistory.js` fix because this exact date conflict made the root cause ambiguous).
+- **#8595** — Bill Ward `extendedBios.js` FAQ answer (line ~2348) still says "Ludwig Classic Maple," contradicting the correct "Ludwig Standard / Club Date Series" two lines up in the same file's gearHighlights block. Closed #8381 (2026-09-30) fixed the gearHighlights line but never touched this FAQ answer — scope gap.
+- **#8596** — Flo Mounier `top10Lists.js:218` fabricates a 2012+ Tama Speed Cobra pedal for the 1996 "None So Vile" era (verified Pearl at the time, Tama only from 2012). Distinct line from closed #7089/#7401 (confirmed via full-body read).
+- **#8597** — Vinnie Paul `top10Lists.js:494` fabricates his 2008+ ddrum signature kit for the 1990-1992 Cowboys From Hell/Vulgar Display of Power era (verified Tama at the time). Distinct from closed #7017 (different file, `evolutionTimeline.js`).
+- **#8598** — Dave Lombardo `top10Lists.js` self-contradicts across two separate list entries (lines 300 and 419) about the same "Reign in Blood" (1986) era — one says Tama Iron Cobra pedals, the other says Pearl kit + Tama Iron Cobra pedals; verified Pearl-era with no documented pedal brand at all for 1986. Distinct from closed #7049 (fixed a different Lombardo instance, lines 406-410/1041, same file).
+
+### Dedup notes
+All 6 personally dedup-checked via `gh issue list --state all --search` (drummer + keyword) with full-body reads of the closest-looking prior issues (#8381, #7089/#7401, #7017, #7049, plus ~10 Daniel-Erlandsson-related closed issues) before filing — each confirmed to target a file/field/line combination no prior fix covers.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8593-8598 (this run, 6 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 17 open `seo-proposal`.
+
+### Next run
+1. Watch #8593-8598 through CEO triage.
+2. **New standing lead**: `extendedBios.js` (9,289 lines) and `top10Lists.js` (3,588 lines) were only partially sampled this run (2 files, targeted grep + subagent sweep, not exhaustive) — worth a deeper pass if the bank needs topping up again, especially `extendedBios.js`'s gearHighlights blocks for drummers not yet checked this week.
+3. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.
+4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands) — already logged this week, don't re-run.

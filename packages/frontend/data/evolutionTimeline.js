@@ -208,7 +208,7 @@ export const EVOLUTION_TIMELINE = [
     album: 'Show No Mercy',
     type: TIMELINE_EVENT_TYPES.DRUMMER_DEBUT,
     subgenre: METAL_SUBGENRES.THRASH,
-    gearNotes: 'Pearl kit with DW 5000 double pedal',
+    gearNotes: 'Pearl kit',
     significance: 'Introduced machine-gun double bass that defined extreme metal',
     videoEmbed: null,
     image: '/images/drummers/dave-lombardo.webp',

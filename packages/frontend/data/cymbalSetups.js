@@ -792,14 +792,9 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'nick-menza',
-    summary: 'Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride)',
-    brands: ['Zildjian'],
-    pieces: [
-      { type: 'hi-hat', sizeIn: 14, series: 'A', model: 'Hi-Hats' },
-      { type: 'crash', sizeIn: 16, series: 'A', model: 'Crash' },
-      { type: 'crash', sizeIn: 18, series: 'A', model: 'Crash' },
-      { type: 'ride', sizeIn: 20, series: 'A', model: 'Ride' },
-    ],
+    summary: 'Sabian AA / Signature Series',
+    brands: ['Sabian'],
+    pieces: [],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
     retailerUrls: {},
   },

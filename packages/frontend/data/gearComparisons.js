@@ -104,7 +104,7 @@ export const gearComparisons = {
           manufacturing: 'Hand-hammered',
           origin: 'Turkey',
         },
-        usedBy: ['Mario Duplantier', 'Brann Dailor', 'Matt Halpern', 'Chris Adler'],
+        usedBy: ['Brann Dailor', 'Matt Halpern', 'Chris Adler'],
         bestFor: 'Progressive metal, djent, modern metal',
         rating: 4.9,
       },

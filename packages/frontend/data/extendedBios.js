@@ -1340,7 +1340,8 @@ Mario's drumming combines crushing power with technical precision, featuring com
           { q: 'What drum kit does Mario Duplantier use?', a: 'Mario Duplantier\'s drum kit is a Tama Starclassic Bubinga setup with dual 22"x18" bass drums and a Tama S.L.P. 14"x6.5" G-Maple snare, driven by a Tama Iron Cobra 900 Power Glide double pedal. Zildjian cymbals and Remo heads complete the kit he uses across Gojira\'s catalog.' },
           { q: 'What cymbals does Mario Duplantier use?', a: 'Mario Duplantier uses Zildjian cymbals: 14" K Sweet Hi-Hats, various K Custom and A Custom crashes, and a 21" Z Custom Mega Bell Ride.' },
           { q: 'What snare drum does Mario Duplantier use?', a: 'Mario Duplantier plays a Tama S.L.P. 14"x6.5" G-Maple snare drum.' },
-          { q: 'What pedals does Mario Duplantier use?', a: 'Mario Duplantier drives his dual-bass-drum setup with a Tama Iron Cobra 900 Power Glide double pedal.' }
+          { q: 'What pedals does Mario Duplantier use?', a: 'Mario Duplantier drives his dual-bass-drum setup with a Tama Iron Cobra 900 Power Glide double pedal.' },
+          { q: 'Does Mario Duplantier use triggers?', a: "Mario Duplantier uses a trigger on his kick drum. He's explained in interviews that triggering raises the stakes on precision — every kick hit becomes clearly audible, leaving no room for timing mistakes. No source documents him using a snare trigger." }
         ]
       },
       sources: {
@@ -1349,7 +1350,8 @@ Mario's drumming combines crushing power with technical precision, featuring com
           { name: 'Tama Drums Artist Profile', url: 'https://www.tama.com' },
           { name: 'Zildjian Artist Profile', url: 'https://zildjian.com' },
           { name: 'Gojira Official', url: 'https://gojira-music.com' },
-          { name: 'Wikipedia: Mario Duplantier', url: 'https://en.wikipedia.org/wiki/Mario_Duplantier' }
+          { name: 'Wikipedia: Mario Duplantier', url: 'https://en.wikipedia.org/wiki/Mario_Duplantier' },
+          { name: 'MusicRadar: Gojira\'s Mario Duplantier reveals all about his astonishing technique', url: 'https://www.musicradar.com/news/gojiras-mario-duplantier-reveals-all-about-his-astonishing-technique' }
         ]
       }
     }

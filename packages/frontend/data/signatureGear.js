@@ -1391,7 +1391,7 @@ Nearly four decades after "Reign in Blood," the Promark Dave Lombardo Signature 
       title: 'The Fixed Point in a Shifting Meter',
       content: `Tomas Haake's drumming is built around a paradox: he holds a steady 4/4 pulse while Meshuggah's guitars cycle through shifting odd meters underneath him. "The polyrhythmic approach came from wanting to create something that felt both mechanical and organic at the same time," Haake explained in a 2012 Modern Drummer Magazine interview — and nowhere is that balance more exposed than on the snare drum, the instrument that has to mark the beat clearly enough for the listener to stay oriented while the rest of the band deliberately drifts away from it.
 
-The Sonor Tomas Haake Signature snare first appeared on Meshuggah's gear rider during the "Chaosphere" and "Nothing" era (1998-2005), replacing the Sonor Designer Series bronze snare he'd used on "Destroy Erase Improve." It has remained the backbone of his kit ever since, carried through "Catch Thirtythree" (2005), "obZen" (2008), "Koloss" (2012), "The Violent Sleep of Reason" (2016), and "Immutable" (2022) — a 25-plus year run on the same signature model, which is unusual even among artist-endorsed gear.
+The Sonor Tomas Haake Signature snare arrived in 2005 as part of Haake's new partnership with Sonor for the SQ2 series, debuting on "Catch Thirtythree" (2005). It has remained the backbone of his kit ever since, carried through "obZen" (2008), "Koloss" (2012), "The Violent Sleep of Reason" (2016), and "Immutable" (2022) — a 20-plus year run on the same signature model, which is unusual even among artist-endorsed gear.
 
 The reason it has lasted is functional, not sentimental. Meshuggah's 8-string guitars are tuned far below standard pitch, and the resulting mix occupies a huge amount of low-mid frequency space. A snare that leans too warm gets buried; one that's all crack and no body sounds thin next to guitars that heavy. The 14x6.5" signature snare splits that difference — enough shell depth to carry weight in the mix, tuned and built to cut through with a clear, dry attack rather than a wash of overtone. Later in his career Haake paired it with a companion Sonor Artist Series Bronze snare for sessions that call for a slightly different tonal color, but the original 14x6.5" signature model remains his primary drum.
 
@@ -1478,7 +1478,7 @@ More than two decades after its introduction, the Sonor Tomas Haake Signature sn
       ],
       featuredTracks: [
         { song: 'Bleed', album: 'obZen (2008)', note: 'The signature snare\'s clarity under relentless 32nd-note kick patterns' },
-        { song: 'Rational Gaze', album: 'Nothing (2002)', note: 'The signature snare\'s debut era, anchoring Meshuggah\'s shifting meters' },
+        { song: 'Autonomy Lost', album: 'Catch Thirtythree (2005)', note: 'The signature snare\'s debut on record, anchoring Meshuggah\'s shifting meters' },
         { song: 'Do Not Look Down', album: 'Koloss (2012)', note: 'Dry, controlled backbeat cutting through dense 8-string guitars' },
         { song: 'Clockworks', album: 'Immutable (2022)', note: 'Modern production showcasing the snare\'s continued role in the kit' },
       ],
@@ -1533,11 +1533,11 @@ More than two decades after its introduction, the Sonor Tomas Haake Signature sn
           note: 'Dense, down-tuned production with the signature snare front and center',
         },
         {
-          title: 'Nothing',
+          title: 'Catch Thirtythree',
           artist: 'Meshuggah',
-          year: 2002,
-          cover: '/images/albums/meshuggah-nothing.webp',
-          note: 'The signature snare\'s debut era on record',
+          year: 2005,
+          cover: '/images/albums/meshuggah-catch-thirtythree.webp',
+          note: 'The signature snare\'s debut on record',
         },
         {
           title: 'Immutable',
@@ -1596,7 +1596,7 @@ More than two decades after its introduction, the Sonor Tomas Haake Signature sn
       },
       {
         question: 'How long has Tomas Haake used this signature snare?',
-        answer: 'The Sonor Tomas Haake Signature snare first appeared during Meshuggah\'s "Chaosphere" and "Nothing" era (1998-2005) and has remained his primary snare through "Catch Thirtythree," "obZen," "Koloss," "The Violent Sleep of Reason," and "Immutable" — more than 25 years on the same signature model.',
+        answer: 'The Sonor Tomas Haake Signature snare arrived in 2005 and has remained his primary snare through "Catch Thirtythree," "obZen," "Koloss," "The Violent Sleep of Reason," and "Immutable" — 20-plus years on the same signature model.',
       },
       {
         question: 'Does Tomas Haake use more than one snare?',

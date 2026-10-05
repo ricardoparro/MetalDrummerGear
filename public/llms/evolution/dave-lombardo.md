@@ -5,7 +5,7 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummers/dave-lombardo"
 evolution_url: "https://metalforge.io/drummers/dave-lombardo/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-06-20"
+last_updated: "2026-10-05"
 ---
 
 # Dave Lombardo Drum Kit Evolution — Complete Timeline
@@ -21,13 +21,13 @@ See also: [Dave Lombardo drummer profile](/llms/drummers/dave-lombardo.md)
 **Albums:** Show No Mercy (1983), Haunting the Chapel (1984), Hell Awaits (1985)
 **Tours:** Early club circuit tours
 
-Young Dave Lombardo built the thrash metal drumming vocabulary from scratch with affordable Japanese gear. His DW 5000 pedal became essential for the double bass technique he was pioneering — a setup no one had used quite like this in metal before. Pure technique over gear quality defines this entire period.
+Young Dave Lombardo built the thrash metal drumming vocabulary from scratch with affordable Japanese gear. Pure technique over gear quality defines this entire period.
 
-- **Drums:** Tama Imperialstar — basic 5-piece: 22" kick, 12"/13"/16" toms
-- **Snare:** Tama Steel 14"×5.5" (bright, cutting tone)
-- **Cymbals:** Paiste 2002 — 14" hi-hats, 16"/18" crashes, 20" ride
-- **Hardware:** Tama hardware with DW 5000 pedal (single initially, then double bass configuration)
-- **Sticks:** Vic Firth 5B hickory
+- **Drums:** Pearl Maxwin — basic 5-piece: 22" kick, 12"/13"/16" toms
+- **Snare:** Steel snare, 14"×5.5" (brand undocumented for this era)
+- **Cymbals:** 14" hi-hats, 16"/18" crashes, 20" ride (brand undocumented for this era)
+- **Hardware:** Pearl (pedal brand not documented for this era)
+- **Sticks:** Brand undocumented for this era (standard hickory)
 - **Heads:** Remo Ambassador (clear on toms)
 - **Estimated kit cost (original):** ~$2,000
 
@@ -35,9 +35,6 @@ Young Dave Lombardo built the thrash metal drumming vocabulary from scratch with
 - Developed the machine-gun double bass technique that defined extreme metal
 - Created the thrash metal drumming vocabulary still used today
 - Playing speed was unmatched among metal drummers at the time
-- DW 5000 double pedal becomes the essential tool for his style
-
-> "I didn't have expensive gear. I had hunger and speed. That's all you need." — *Metal Hammer Interview, 1985*
 
 ---
 
@@ -51,45 +48,39 @@ The most influential era of Dave Lombardo's career — and arguably the most inf
 - **Drums:** Pearl BLX Series (birch shells) — 24" kick, 10"/12"/14"/16" toms *(switch — Pearl endorsement begins)*
 - **Snare:** Pearl Free-Floating Steel 14"×6.5" *(switch — maximum crack and attack)*
 - **Cymbals:** Paiste RUDE — 14" hi-hats, 18"/19"/20" crashes, 22" ride, 18" China *(upgrade — cut and volume)*
-- **Hardware:** DW 5000 Double Pedal (Turbo drive) *(continued — the pedal that defined thrash bass drum sound)*
+- **Hardware:** Not documented for this era (double pedal setup; pedal brand not documented)
 - **Sticks:** Pro-Mark 747 oak *(switch — oak for more durability)*
 - **Heads:** Remo Emperor double-ply *(upgrade — more durable for aggressive playing)*
 - **Estimated kit cost (original):** ~$10,000
 
 **Key developments:**
 - Pearl endorsement begins — first major drum brand partnership
-- DW 5000 double pedal cements its status as the signature thrash pedal
 - Reign in Blood (1986) recorded — considered the most influential thrash drum performance ever
 - Paiste RUDE series adopted for extreme volume and cutting power
 
-> "Reign in Blood was 29 minutes of pure aggression. Every note had to be perfect." — *Revolver Magazine, 2006*
-
 ---
 
-## DW & Return Era (1995–2010)
+## Tama & Paiste Era (1995–2010)
 
 **Albums:** Christ Illusion (2006), World Painted Blood (2009)
 **Tours:** Unholy Alliance Tour
 
-After leaving and returning to Slayer multiple times, Dave secured a DW Collector's Series endorsement — premium maple shells bringing warmth alongside the attack he required. He also launched his first signature drumstick with Vic Firth. Roland kick triggers were added for stadium-level sound consistency. The Christ Illusion album (2006) won a Grammy Award for Best Metal Performance.
+After leaving and returning to Slayer, Dave settled into the long-running Tama and Paiste setup that carried through the reunion years. Roland kick triggers were added for stadium-level sound consistency. The Christ Illusion album (2006) won a Grammy Award for Best Metal Performance.
 
-- **Drums:** DW Collector's Series (maple shells) — 24" kick, 10"/12"/14"/16" toms *(switch — premium DW sound)*
-- **Snare:** DW Edge Snare 14"×6.5" with VLT shell *(switch — warm yet cutting)*
-- **Cymbals:** Paiste Signature Series (full Paiste Signature setup, refined sound)
-- **Hardware:** DW 9000 Double Pedal *(upgrade — latest DW technology)*
-- **Sticks:** Vic Firth Dave Lombardo Signature (hickory, custom specs) *(signature — first signature stick)*
-- **Heads:** Evans EMAD on kicks *(upgrade — focused, controlled modern sound)*
+- **Drums:** Tama Starclassic Maple — maple shells: 24" kick, 10"/12"/14"/16" toms *(switch — switched to Tama for the reunion era)*
+- **Snare:** Tama S.L.P. 14"×6.5" G-Maple *(switch — Tama snare paired with the new kit)*
+- **Cymbals:** Paiste Signature (full Signature setup — refined Paiste sound)
+- **Hardware:** Tama Iron Cobra 900 Double Pedal *(switch — switched to Tama hardware)*
+- **Sticks:** Promark Dave Lombardo Signature 2Bx *(signature — signature stick partnership begins)*
+- **Heads:** Evans EMAD on kicks *(upgrade — more controlled modern sound)*
 - **Electronics:** Roland triggers on kick drums *(new — added for stadium consistency)*
 - **Estimated kit cost (original):** ~$20,000
 
 **Key developments:**
-- DW Collector's Series endorsement (major gear upgrade in warmth and quality)
-- Vic Firth Dave Lombardo Signature sticks launched
-- Returned to Slayer (2001) after earlier departure
+- Switched to Tama drum endorsement
+- Promark signature stick partnership begins
+- Returned to Slayer (2001)
 - Christ Illusion (2006) wins Grammy for Best Metal Performance
-- Roland kick triggers integrated for live touring at stadium scale
-
-> "DW gave me the warmth I was looking for while keeping the attack. Best of both worlds." — *DW Artist Spotlight, 2007*
 
 ---
 
@@ -98,24 +89,21 @@ After leaving and returning to Slayer multiple times, Dave secured a DW Collecto
 **Albums:** Dead Cross albums; Suicidal Tendencies recordings; Mr. Bungle reunion
 **Tours:** Various touring with Dead Cross, Suicidal Tendencies, and others
 
-After leaving Slayer for the final time in 2013, Dave entered the most diverse phase of his career — playing simultaneously with Dead Cross, Suicidal Tendencies, and reuniting with Mr. Bungle. He switched to Trick Drums aluminum shell kits, a radical departure from the birch and maple shells of his previous career. The Trick Pro 1-V Bigfoot direct drive pedal replaced the long-standing DW 9000.
+After leaving Slayer for the final time in 2013, Dave entered the most diverse phase of his career — playing simultaneously with Dead Cross, Suicidal Tendencies, and reuniting with Mr. Bungle. His Tama and Paiste setup, established during the reunion years, has carried through unchanged.
 
-- **Drums:** Trick Drums Custom (aluminum shells) — 22" kick, 10"/12"/14"/16" toms *(switch — metal shells for unique cutting sound)*
-- **Snare:** Trick Drums Aluminum Snare 14"×6.5" *(switch — bright, cutting aluminum tone)*
-- **Cymbals:** Paiste RUDE/Masters mix (continued Paiste loyalty throughout entire career)
-- **Hardware:** Trick Pro 1-V Bigfoot direct drive double pedal *(switch — Trick pedals for maximum speed)*
-- **Sticks:** Vic Firth Dave Lombardo Signature (refined over the years, continued)
-- **Heads:** Evans UV1 on toms, EMAD on kicks *(upgrade — latest Evans technology)*
+- **Drums:** Tama Starclassic Maple — maple shell configuration favored since Slayer's recording peak
+- **Snare:** Tama S.L.P. 14"×6.5" G-Maple (fat, responsive crack heard on Reign in Blood-era recordings)
+- **Cymbals:** Paiste RUDE & 2002 Series — 15" Sound Edge hi-hats, 18"/19" crashes, 22" Reign Power ride, 18" China
+- **Hardware:** Tama Iron Cobra 900 Double Pedal (longtime Tama hardware endorser)
+- **Sticks:** Promark Dave Lombardo Signature 2Bx (continued signature line)
+- **Heads:** Remo Emperor Coated / Ambassador (Remo endorser since the 1980s)
 - **Estimated kit cost:** ~$25,000
 
 **Key developments:**
-- Left Slayer for the final time (2013)
-- Trick Drums endorsement — aluminum shells represent a major tonal shift from previous career
-- Trick Pro 1-V Bigfoot direct drive pedal replaces DW 9000
-- Active simultaneously with Dead Cross, Suicidal Tendencies, and Mr. Bungle reunion (2020)
-- Still performing and recording actively as of 2026
-
-> "I'm playing better now than I ever have. Age brings wisdom, not weakness." — *Metal Injection Interview, 2022*
+- Left Slayer again (2013)
+- Continued longtime Tama/Paiste endorsements
+- Playing with multiple bands simultaneously
+- Mr. Bungle reunion (2020)
 
 ---
 
@@ -125,40 +113,38 @@ After leaving Slayer for the final time in 2013, Dave entered the most diverse p
 |---|---|---|---|
 | Show No Mercy Era | 1981–1985 | $2,000 | ~$6,000 |
 | Reign in Blood Era | 1986–1992 | $10,000 | ~$26,000 |
-| DW & Return Era | 1995–2010 | $20,000 | ~$30,000 |
+| Tama & Paiste Era | 1995–2010 | $20,000 | ~$30,000 |
 | Modern Era | 2013–present | $25,000 | ~$25,000 |
 
 ---
 
 ## Gear Brand Partnerships Timeline
 
-- **Tama Imperialstar** — 1981–1985 (budget/early career)
+- **Pearl Maxwin** — 1981–1985 (budget/early career)
 - **Pearl BLX / Free-Floating** — 1986–early 1990s (Reign in Blood era endorsement)
-- **DW Collector's Series** — 1995–2013 (premium maple era)
-- **Trick Drums Custom** — 2013–present (aluminum shell era)
-- **Paiste** — throughout entire career (2002 → RUDE → Signature → RUDE/Masters mix)
-- **DW 5000/9000** — 1981–2013 (pedal partnership)
-- **Trick Pro 1-V Bigfoot** — 2013–present (current pedal)
-- **Vic Firth Signature** — 1995–present (30+ year signature partnership)
+- **Tama Starclassic Maple** — 1995–present (reunion era through today)
+- **Paiste** — throughout entire career (undocumented → RUDE → Signature → RUDE/2002 mix)
+- **Tama Iron Cobra 900 Double Pedal** — 1995–present (hardware partnership)
+- **Promark Dave Lombardo Signature 2Bx** — 1995–present (30+ year signature partnership)
 
 ---
 
 ## FAQ
 
 **Q: What drum kit did Dave Lombardo use on Reign in Blood?**
-A: Dave recorded Reign in Blood (1986) with a Pearl BLX Series kit featuring birch shells — 24" kick drum with 10", 12", 14", and 16" toms. The snare was a Pearl Free-Floating Steel 14"×6.5", giving maximum crack and attack. Cymbals were Paiste RUDE series, and he used the DW 5000 Turbo double pedal.
+A: Dave recorded Reign in Blood (1986) with a Pearl BLX Series kit featuring birch shells — 24" kick drum with 10", 12", 14", and 16" toms. The snare was a Pearl Free-Floating Steel 14"×6.5", giving maximum crack and attack. Cymbals were Paiste RUDE series.
 
 **Q: What drum kit did Dave Lombardo use on Show No Mercy?**
-A: For Show No Mercy (1983) and Slayer's earliest recordings, Dave played a Tama Imperialstar — an affordable Japanese beginner kit with a 22" kick and 12", 13", 16" toms — with Paiste 2002 cymbals. The DW 5000 pedal was his essential tool for the double bass technique he was developing.
+A: For Show No Mercy (1983) and Slayer's earliest recordings, Dave played a Pearl Maxwin — an affordable Japanese kit with a 22" kick and 12", 13", 16" toms. Snare, cymbal, and stick brands for this early era are not documented.
 
 **Q: Why is Dave Lombardo called the Godfather of Double Bass?**
 A: Lombardo pioneered the use of double bass drumming at extreme thrash metal speeds beginning in 1981. His work on Show No Mercy (1983) and especially Reign in Blood (1986) established the machine-gun double bass patterns that became the template for all subsequent extreme metal drumming. His 1986 performance on "Angel of Death" and "Raining Blood" is widely cited as the definitive thrash drum recording.
 
 **Q: What pedal does Dave Lombardo use?**
-A: From the early 1980s through 2013, Dave used DW pedals — starting with the DW 5000 (which defined the thrash metal bass drum sound) and later upgrading to the DW 9000. Since 2013, he has played the Trick Pro 1-V Bigfoot direct drive double pedal.
+A: Since the mid-1990s, Dave has used the Tama Iron Cobra 900 Double Pedal, switched to alongside his Tama Starclassic Maple drum endorsement. Pedal brand for his earlier Pearl-endorsed eras (1981–1992) is not documented.
 
 **Q: What cymbals has Dave Lombardo used throughout his career?**
-A: Lombardo has been loyal to Paiste for his entire career. He began with Paiste 2002 during the Show No Mercy era (1981–1985), switched to Paiste RUDE for the Reign in Blood era (1986–1992) for added cut and aggression, upgraded to the Paiste Signature series during the DW era (1995–2010), and currently uses a mix of Paiste RUDE and Masters series.
+A: Lombardo has been loyal to Paiste for the majority of his career. He switched to Paiste RUDE for the Reign in Blood era (1986–1992) for added cut and aggression, upgraded to the Paiste Signature series during the Tama & Paiste era (1995–2010), and currently uses a mix of Paiste RUDE and 2002 series.
 
 **Q: When did Dave Lombardo join and leave Slayer?**
 A: Dave Lombardo was a founding member of Slayer (1981). He left the band in 1986 (returning in 1987 for South of Heaven), departed again in 1992, returned in 2001, and left for the final time in 2013. His tenures covered the band's most influential recordings including Reign in Blood, South of Heaven, Seasons in the Abyss, Christ Illusion, and World Painted Blood.

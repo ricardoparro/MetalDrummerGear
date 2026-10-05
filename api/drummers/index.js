@@ -3478,7 +3478,7 @@ const drummers = [
     ],
     gear: {
       drums: 'Pearl Reference Custom',
-      snare: 'Tama Steel Snare 14x5.5"',
+      snare: 'Pearl Reference Custom 14x5.5"',
       cymbals: 'Sabian AA / Signature Series',
       hardware: 'Tama Iron Cobra Double Pedal',
       sticks: 'Vater Nick Menza Signature',

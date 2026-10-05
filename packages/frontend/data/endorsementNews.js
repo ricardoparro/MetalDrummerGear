@@ -1917,12 +1917,12 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Adopted an early professional Sabian cymbal setup during his Eucharist years, ahead of the AA/HH configuration used on Arch Enemy\'s breakthrough albums',
       },
       {
-        year: 2002,
+        year: 2001,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: 'Pearl Masters',
         to: 'Pearl Reference Pure',
-        notes: "Reached his fully documented Pearl Reference Pure configuration on Wages of Sin (2002), paired with a Pearl Free-Floating Brass 14\"x6.5\" snare",
+        notes: "Reached his fully documented Pearl Reference Pure configuration on Wages of Sin (2001), paired with a Pearl Free-Floating Brass 14\"x6.5\" snare",
       },
       {
         year: 2005,

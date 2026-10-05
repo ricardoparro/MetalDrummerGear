@@ -2471,9 +2471,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Pearl with DW 5000 Pedal',
+            item: 'Pearl',
             details: 'Single pedal initially, then double',
-            notes: 'DW 5000 became essential for double bass',
+            notes: 'Pedal brand not documented for this era',
             change: null,
           },
           sticks: {
@@ -2502,14 +2502,9 @@ export const DRUMMER_EVOLUTION = {
           'Playing speed unmatched at the time',
         ],
         
-        quote: {
-          text: "I didn't have expensive gear. I had hunger and speed. That's all you need.",
-          source: 'Metal Hammer Interview, 1985',
-        },
-        
         videos: [],
       },
-      
+
       {
         id: 'lombardo-1986-reign-in-blood',
         era: 'Reign in Blood Era',
@@ -2541,9 +2536,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'DW 5000 Double Pedal',
-            details: 'Turbo drive',
-            notes: 'The pedal that defined thrash bass drum sound',
+            item: 'Not documented for this era',
+            details: 'Double pedal setup',
+            notes: 'Pedal brand not documented for this era',
             change: null,
           },
           sticks: {
@@ -2568,19 +2563,13 @@ export const DRUMMER_EVOLUTION = {
         
         keyChanges: [
           'Pearl endorsement begins',
-          'DW 5000 becomes signature pedal',
           'Reign in Blood recorded - changed metal forever',
           'Larger kit for bigger sound',
         ],
-        
-        quote: {
-          text: "Reign in Blood was 29 minutes of pure aggression. Every note had to be perfect.",
-          source: 'Revolver Magazine, 2006',
-        },
-        
+
         videos: [],
       },
-      
+
       {
         id: 'lombardo-1995-return',
         era: 'Tama & Paiste Era',
@@ -2715,12 +2704,7 @@ export const DRUMMER_EVOLUTION = {
           'Playing with multiple bands simultaneously',
           'Mr. Bungle reunion (2020)',
         ],
-        
-        quote: {
-          text: "I'm playing better now than I ever have. Age brings wisdom, not weakness.",
-          source: 'Metal Injection Interview, 2022',
-        },
-        
+
         videos: [],
       },
     ],

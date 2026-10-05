@@ -5491,12 +5491,15 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
     metaTitle: 'Charlie Benante Drum Kit & Gear Setup — Anthrax Drummer | MetalForge',
     metaDescription: 'Complete biography of Charlie Benante, Anthrax drummer and thrash metal pioneer. Explore his revolutionary double bass and blast beat techniques, Big Four legacy, and current Pantera touring role.',
     ogImage: '/images/drummers/charlie-benante.webp',
+    lastUpdated: '2026-10-05',
     sections: {
       overview: {
         title: 'Overview',
         content: `Charlie Benante (born Charles Lee Benante; November 27, 1962, in The Bronx, New York) is an American drummer best known as the drummer for thrash metal band Anthrax and crossover thrash pioneers Stormtroopers of Death (S.O.D.). He is credited as one of the pioneers of double bass drumming in thrash metal and with popularizing the blast beat technique.
 
-Beyond his drumming, Benante is Anthrax's main composer and a talented graphic artist who has created many of the band's album covers and T-shirt designs. Since 2022, he has also toured with the reunited Pantera, filling in for the late Vinnie Paul, his close friend.`
+Beyond his drumming, Benante is Anthrax's main composer and a talented graphic artist who has created many of the band's album covers and T-shirt designs. Since 2022, he has also toured with the reunited Pantera, filling in for the late Vinnie Paul, his close friend.
+
+**November 27, 2026** marks Charlie Benante's 64th birthday. Fans continue to celebrate the milestone by revisiting the thrash metal foundation he built across Anthrax's "Among the Living" and "Persistence of Time," records that cemented his pioneering double bass and blast beat techniques.`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -5578,12 +5581,14 @@ Beyond his drumming, Benante is Anthrax's main composer and a talented graphic a
           'Joined Pantera reunion in 2022 to honor close friend Vinnie Paul',
           'Released solo album "Silver Linings" during COVID lockdowns',
           'Born and raised in The Bronx, New York',
-          'Married Carla Harvey (formerly of Butcher Babies) in 2025'
+          'Married Carla Harvey (formerly of Butcher Babies) in 2025',
+          'Born November 27, 1962 — November 27, 2026 marks his 64th birthday'
         ]
       },
       faq: {
         title: 'Frequently Asked Questions',
         items: [
+          { q: 'When was Charlie Benante born?', a: 'Charlie Benante was born on November 27, 1962, in The Bronx, New York, and turns 64 on November 27, 2026.' },
           { q: 'What band does Charlie Benante play drums for?', a: 'Charlie Benante has been the drummer for Anthrax since 1983, and has toured with the Pantera reunion since 2022 in honor of his late friend Vinnie Paul.' },
           { q: 'What drums does Charlie Benante play?', a: 'Charlie Benante plays a Tama Starclassic drum kit.' },
           { q: 'What drum kit does Charlie Benante play?', a: 'Charlie Benante\'s drum kit is a Tama Starclassic shell pack, anchored by his Tama Charlie Benante Signature 14"x6.5" snare drum.' },

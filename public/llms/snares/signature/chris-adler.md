@@ -38,4 +38,4 @@ A: Chris Adler plays the Mapex Chris Adler Signature Walnut/Maple — a signatur
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-05 · Source: [MetalForge.io](https://metalforge.io)*

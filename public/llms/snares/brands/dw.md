@@ -14,14 +14,17 @@
 - **Performance Series:** A steel-shell snare line built for cut and projection, verified on the roster through Navene Koperweis.
 - **Collector's Series:** DW's maple-shell premium line, verified on the roster through Hannes Grossmann.
 
-## Confirmed Metal Drummers (2)
+## Confirmed Metal Drummers (5)
 
 | Drummer | Band | Snare |
 |---------|------|-------|
 | [Hannes Grossmann](https://metalforge.io/llms/drummers/hannes-grossmann.md) | Obscura / ex-Necrophagist / Alkaloid | DW Collectors 14x5.5" Maple |
+| [Martin Axenrot](https://metalforge.io/llms/drummers/martin-axenrot.md) | Opeth | DW Custom maple/gum shells 14x5.75" |
+| [Matt Garstka](https://metalforge.io/llms/drummers/matt-garstka.md) | Animals as Leaders | DW Collector's Series Purpleheart |
 | [Navene Koperweis](https://metalforge.io/llms/drummers/navene-koperweis.md) | Entheos / ex-Animals as Leaders | DW Performance 14x6.5" Steel |
+| [Sean Reinert](https://metalforge.io/llms/drummers/sean-reinert.md) | Death / Cynic | DW Collector's Series Maple Shell |
 
-These 2 entries are pulled directly from MetalForge's verified snares database, parsed from each drummer's roster gear record — never guessed from a photo or a forum post.
+These 5 entries are pulled directly from MetalForge's verified snares database, parsed from each drummer's roster gear record — never guessed from a photo or a forum post.
 
 Source: [DW — The DW Story](https://dwdrums.com/the-dw-story/).
 
@@ -31,7 +34,7 @@ Source: [DW — The DW Story](https://dwdrums.com/the-dw-story/).
 A: DW's verified-roster snares split across its two core lines: the steel-shell Performance series (Navene Koperweis) for cut, and the maple-shell Collector's Series (Hannes Grossmann) for tonal body.
 
 **Q: Which metal drummers play DW snares?**
-A: On our verified roster: Hannes Grossmann, Navene Koperweis. See the table above for each drummer's exact snare.
+A: On our verified roster: Hannes Grossmann, Martin Axenrot, Matt Garstka, Navene Koperweis, Sean Reinert. See the table above for each drummer's exact snare.
 
 **Q: What are DW's most metal-relevant snare models?**
 A: Performance Series, Collector's Series. Full descriptions are in the Notable Models section above.
@@ -60,4 +63,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides DW, see:
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-05 · Source: [MetalForge.io](https://metalforge.io)*

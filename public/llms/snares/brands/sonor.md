@@ -11,21 +11,20 @@
 
 ## Notable Models for Metal Drummers
 
-- **SQ2:** A fully customizable maple shell series — the most common single Sonor snare on the verified roster, used by Hellhammer, Frost (Satyricon), and Martin Axenrot.
+- **SQ2:** A fully customizable maple shell series — the most common single Sonor snare on the verified roster, used by Hellhammer (Mayhem).
 - **Artist-signature models:** Purpose-built signature snares for roster drummers, including Tomas Haake (Meshuggah), Nicko McBrain (Iron Maiden), and Gavin Harrison.
 
-## Confirmed Metal Drummers (6)
+## Confirmed Metal Drummers (5)
 
 | Drummer | Band | Snare |
 |---------|------|-------|
-| [Frost](https://metalforge.io/llms/drummers/frost.md) | Satyricon / 1349 | Sonor SQ2 14x6" Maple |
 | [Gavin Harrison](https://metalforge.io/llms/drummers/gavin-harrison.md) | Porcupine Tree / King Crimson | Sonor Gavin Harrison Signature 12x5" & 14x5.25" |
 | [Hellhammer](https://metalforge.io/llms/drummers/hellhammer.md) | Mayhem | Sonor SQ2 14x5.5" Maple |
-| [Martin Axenrot](https://metalforge.io/llms/drummers/martin-axenrot.md) | Opeth | Sonor SQ2 14x5.75" Maple |
+| [Mikkey Dee](https://metalforge.io/llms/drummers/mikkey-dee.md) | Scorpions / Motörhead | Sonor Mikkey Dee Signature 14x7.25" Birch |
 | [Nicko McBrain](https://metalforge.io/llms/drummers/nicko-mcbrain.md) | Iron Maiden | Sonor Nicko McBrain Signature 14x6.5" |
 | [Tomas Haake](https://metalforge.io/llms/drummers/tomas-haake.md) | Meshuggah | Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze |
 
-These 6 entries are pulled directly from MetalForge's verified snares database, parsed from each drummer's roster gear record — never guessed from a photo or a forum post.
+These 5 entries are pulled directly from MetalForge's verified snares database, parsed from each drummer's roster gear record — never guessed from a photo or a forum post.
 
 Source: [Sonor — Wikipedia (company history)](https://en.wikipedia.org/wiki/Sonor).
 
@@ -35,7 +34,7 @@ Source: [Sonor — Wikipedia (company history)](https://en.wikipedia.org/wiki/So
 A: Sonor is one of the oldest percussion manufacturers in the world, and on the verified metal roster its customizable maple SQ2 series is the most common single Sonor snare, used alongside artist-signature models built for Tomas Haake, Nicko McBrain, and Gavin Harrison.
 
 **Q: Which metal drummers play Sonor snares?**
-A: On our verified roster: Frost, Gavin Harrison, Hellhammer, Martin Axenrot, Nicko McBrain, Tomas Haake. See the table above for each drummer's exact snare.
+A: On our verified roster: Gavin Harrison, Hellhammer, Mikkey Dee, Nicko McBrain, Tomas Haake. See the table above for each drummer's exact snare.
 
 **Q: What are Sonor's most metal-relevant snare models?**
 A: SQ2, Artist-signature models. Full descriptions are in the Notable Models section above.
@@ -64,4 +63,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Sonor, see:
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-05 · Source: [MetalForge.io](https://metalforge.io)*

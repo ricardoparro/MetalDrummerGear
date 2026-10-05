@@ -11336,3 +11336,41 @@ Both searched via `gh issue list --state all --search` before filing: "notableFa
 3. **Cluster A (band FAQ) and Cluster C (drummer head-terms) from #2211 are now independently re-confirmed dead ends twice over** (this run's subagent + the 2026-09-14 prior investigation) — do not re-investigate either without new evidence (e.g. a competitor losing/gaining a citation, or a format change elsewhere on the site).
 4. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands) — already logged this week, don't re-run.
+
+## 2026-10-05 (Monday, metrics 19:05 UTC) — root-cause fabrication hunt (Mikkey Dee "Sonor since King Diamond days" traced to ground-truth file itself): 3 verified proposals filed (#8625-8627)
+
+### Context
+Bank check: 6 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 2 already `ai-fix`-labeled #8608-8609, promoted by the 18:15 CEO pulse) — 0 truly untriaged, well under 45, cleared to file up to 8 net-new. Metrics 19:05 UTC (435 users/472 sessions/692 views 7d; GSC 11,006 impr/259 clicks/2.35% CTR/pos 7.2 — flat vs this morning). Content-gap: `arin ilejay` (645 impr, 0.31% CTR) re-matched to standing class-2 bare-name ruling — no new fix. Audit: robots.txt (live curl) all 8 required AI crawlers explicitly allowed; `llms.txt`/`llms-full.txt` live (200); 2,016 `/llms/*.md` files live. `node scripts/verify-gear-consistency.cjs` fresh — 15 mismatches, all matched the standing skip-ruling list (zero new detector hits — the nick-menza hardware/sticks rows are the known era-scoped-prose false-positive class named in #8518's scope). Monday drum-chair watch (group 1) already completed and logged this morning (01:28 UTC run, 0 changes) — not re-run.
+
+### Method — L2 fresh-ground check, then root-cause hunt
+Per founder's standing LLM-first Rule 3, first checked `#2211`'s freshly-regenerated (16:20 UTC today) "no competitor cited" rows not yet chased by earlier runs today: `nick barker drum kit`, `waltteri vayrynen drum kit`, `kevin talley`, `hellhammer drummer`, `limp bizkit drummer`. Live-checked each via `curl -A PerplexityBot`:
+- **nick-barker / waltteri-vayrynen / kevin-talley drummer pages**: all substantial (862-991 visible words), FAQPage schema present, no thin-content or missing-render bug — dead end, not a format gap.
+- **`/bands/hellhammer`**: confirmed `hellhammer` is not a key in `bands.js` at all — bot gets the generic SPA-shell fallback. This is a missing-entity gap, not a format bug, and adding a new band page is explicitly out of scope under the new-page freeze. Correctly unfixable, not filed.
+- **`/bands/limp-bizkit`**: has correct FAQPage schema with the exact "Who is the drummer for Limp Bizkit?" question/answer already live. The LLM citation report shows "no competitor in citations" for this query (not "a competitor wins") — likely the LLM answers this well-known fact from parametric memory without citing anything, a different (and unfixable) shape from the known Cluster-A "competitor wins" dead end. Not filed.
+
+With the L2 fresh-ground leads exhausted, pivoted to a dispatched subagent for a fresh `extendedBios.js`/`top10Lists.js` gear-fabrication sweep (drummers not yet checked this week: Jaska Raatikainen, Mikkey Dee, Paul Bostaph — latter ruled clean). Personally re-verified every candidate against `endorsementNews.js` + closed-issue history before filing, which surfaced something bigger than a simple text fix.
+
+**3 confirmed and filed:**
+- **#8625** — Jaska Raatikainen `top10Lists.js` (2 locations, same file/drummer, bundled): the Pearl-kits-list entry claims "a Pearl relationship that held steady through Children of Bodom's entire discography," erasing the documented 1999-2004 Tama interlude (Hatebreeder/Follow the Reaper/Hate Crew Deathroll); the Zildjian-cymbals-list entry backdates the A Custom switch to "Follow the Reaper (2000)" when `endorsementNews.js` dates it to the mid-2000s. 6 prior Pearl/Tama-continuity fixes exist for OTHER files (#8178/#6376/#5927/#6870) — `top10Lists.js` was never swept for this drummer, confirmed via full-body dedup search.
+- **#8626** — **the headline finding**: traced a fabricated clause — "Sonor SQ2 endorsement dating back to his King Diamond days" — all the way back to its source: `endorsementNews.js:930` **itself** (the ground-truth file) has this exact phrase in its own 2012 Sonor-signature timeline-entry `notes` field, directly contradicting the same file's 1992 Tama-signing entry two lines above. This single bad sentence propagated into 6 more files (`extendedBios.js`, `gearPriceHistory.js` ×2, `drummerEvolution.js` ×2, `genreGearGuides.js` ×3) and **caused two closed issues to rule in opposite directions**: #7628 (correct — found the true 2012 date, fixed `soundLikeGuides.js`) vs. **#8369 (closed, but unknowingly trusted the same corrupted ground-truth text and introduced the wrong "Sonor during King Diamond" claim into `gearPriceHistory.js`)**. Filed as one batch covering all 7 locations, explicitly flagging that #8369's fix needs reverting (not just extending) and preserving the one true adjacent fact (Paiste-since-1987 does overlap his King Diamond tenure; only the Sonor half is wrong).
+- **#8627** — `pedalBrands.js`'s Yamaha brand entry fabricates Mikkey Dee as its sole verified roster example ("FP9 double pedal... verified on the roster through Mikkey Dee's decades-long run with Motörhead and King Diamond") — his actual hardware is DW 5000 Series, no Yamaha anywhere in his record. This is the same long-running "Mikkey Dee + Yamaha" fabrication already fixed in 5 other files (#5657/#5694/#5973/#6123/#5856) but never swept in `pedalBrands.js`.
+
+### Process note for future sweeps
+**When a closed issue's "Verified truth" section quotes `endorsementNews.js`'s own narrative `notes` field as its evidence (rather than the structured `year`/`from`/`to`/`brand` fields), double-check that notes field isn't itself the bug** — #8369 did exactly this and got it backwards. The structured timeline fields (year, changeType, from/to) are reliable; free-text `notes` fields are prose written alongside them and can drift or self-contradict, same as any other file. Treat `endorsementNews.js`'s notes fields with the same scrutiny as any downstream file, not as unconditional ground truth.
+
+### Dedup notes
+All 3 personally dedup-checked via `gh issue list --state all --search` with full-body reads of the closest prior issues (#8178/#6376/#5927/#6870 for Raatikainen; #7628/#8369/#5657/#5694/#5973/#6123/#5856 for Mikkey Dee) before filing.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8608-8609 (already `ai-fix`-labeled, prior run)
+- #8625-8627 (this run, 3 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 9 open `seo-proposal`.
+
+### Next run
+1. Watch #8625-8627 through CEO triage; #8626 is a larger batch (7 locations/6 files) — confirm the implementation reverts #8369's wording in `gearPriceHistory.js` rather than just adding to it, and confirm the Paiste-since-1987 claim in `drummerEvolution.js` survives untouched.
+2. L2: #2211's remaining fresh "no competitor cited" leads (nick-barker/waltteri-vayrynen/kevin-talley/hellhammer/limp-bizkit) are now checked and ruled dead ends — don't re-chase without new evidence (e.g. the L2 history-snapshot fix in #8624 landing and showing a real shift).
+3. Watch #8624 (L2 citation history snapshotting, filed by CEO) — the 3-week citation decline (74→69→59→47/100) needs a real diff once that lands.
+4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands) — already logged this week, don't re-run.
+5. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.

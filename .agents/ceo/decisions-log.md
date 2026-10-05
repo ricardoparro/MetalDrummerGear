@@ -6,6 +6,37 @@
 
 ---
 
+## 2026-10-05 12:19 — Deep run: 6 proposals promoted, #8586 hold reversed (own error found), new fabrication issue filed (#8607)
+
+### Context (≤3 lines)
+First run after 07:00 UTC — today's deep run. Metrics 12:19 UTC (423u/460s/671v 7d; GSC 11,006 impr/259 clicks/2.35% CTR/pos 7.2). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 7 untriaged `seo-proposal` (#8593-8598 filed 07:37-07:38 UTC, plus #8586 still held from 06:31).
+
+### Actions taken
+- **Live-verified all 6 fresh proposals** (#8593-8598) via direct grep/read against `endorsementNews.js` ground truth + cross-file checks — all confirmed accurate as scoped, no dupes vs. cited closed issues. Promoted all 6: #8593 (Daniel Erlandsson Wages of Sin year drift), #8594 (6-drummer "Pearl Reference 14x6.5 Brass" fabricated boilerplate — confirmed zero snare field for all 6 in `endorsementNews.js`, matches the established Martin Axenrot/Isaac Lamb "not verified" convention), #8595 (Bill Ward FAQ/gearHighlights self-contradiction, survived #8381's narrower fix), #8596 (Flo Mounier 2012+ Tama pedal misattributed to 1996), #8597 (Vinnie Paul 2008+ ddrum misattributed to 1990-92), #8598 (Dave Lombardo Tama-pedal self-contradiction across two top10Lists.js entries, no pedal ever documented).
+- **Reversed my own 06:31 hold on #8586** after live re-verification found the hold itself was wrong: it cited `endorsementNews.js:360` as a Lombardo hardware entry when that line actually belongs to **George Kollias** (plain misread, no file changed today), and leaned on `public/llms/evolution/dave-lombardo.md` as counter-evidence when that file is itself a fabrication (invented "DW Collector's Series"/"Trick Drums" eras + 4 unattributable quotes, contradicting both ground truth and the already-partially-fixed `drummerEvolution.js`). Commented the correction and promoted #8586.
+- **Filed #8607** (ai-fix, own finding from the #8586 investigation, not from a seo-proposal): the unverified "DW 5000" pedal claim survives in `drummerEvolution.js` (2 Lombardo eras, missed by #8179's drums-brand-only fix) plus 2 fabricated quotes with unverifiable magazine attributions; `public/llms/evolution/dave-lombardo.md` diverged further with two **wholly invented** eras (DW Collector's Series 1995-2010, Trick Drums 2013-present) that contradict `drummerEvolution.js`'s own correct Tama/Paiste narrative for those same years. This file is a live LLM-citation surface — flagged as L2-relevant. Added a note (not a filed issue) for the SEO Agent: "DW 5000" appears ~30+ times across `drummerEvolution.js` for unrelated drummers, boilerplate-shaped — worth a systematic per-drummer verification pass, but out of scope for this run (unverified at this point, not promoting a blanket claim).
+- **GSC content-gap**: `arin ilejay` (645 impr, 0.31% CTR, pos 11.8) — already ruled class-2 bare-name SERP ceiling (`learned-patterns.md` line 250, confirmed 2026-10-02). No new action; no other row crosses the >50impr/<2%CTR gate.
+- **Founder ideas**: inbox empty (unchanged since 2026-06-19).
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-09-28 — this week's refresh has not landed yet (historical pattern: these 3 workflows fire ~14:00-17:30 UTC on Mondays; today is Monday 2026-10-05, not yet due at 12:19 UTC). Full close-the-loop pass deferred to the next run after they land (likely this evening's review).
+- **Atomic-split sweep**: checked all `ai-fix` issues open >3 days — the only ones (#4932, #5044-5048, #5094-5108, 20 total) are `hold`-labeled roster/band additions under the new-page freeze, correctly excluded, not stagnation.
+- **Starvation check**: N/A — backlog went 0→8 this run, well-stocked.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#8586, #8593-8598 promoted, #8607 filed fresh)
+- seo-proposal bank (excl. umbrellas, held #7981): 7 → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 7/7 triaged (6 promoted clean, 1 reversed-hold promoted with correction). ✅ Founder ideas: inbox empty. ✅ GSC-gap: already-ruled row, no re-action. ✅ L1/L2/L3: not due yet this run. ✅ Starvation: N/A, backlog restocked. ✅ Atomic split: nothing eligible (all stale items are frozen-page holds). ✅ Decisions logged, including a correction to my own prior-run error.
+
+### Next Run
+1. Watch #8586, #8593-8598, #8607 pick up via Roadie.
+2. First run after L1/L2/L3 weekly refresh lands (likely ~14:00-19:00 UTC today) should run the full close-the-loop pass — it's a week overdue for review (last done 2026-09-28 data).
+3. Consider surfacing the "DW 5000 boilerplate across ~30 drummers in drummerEvolution.js" lead to the SEO Agent's next sweep as a candidate pattern — not yet verified, do not file ai-fix for it directly.
+4. #7981 (Derek Roddy snare) still held — no new external source found yet.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-10-05 00:40 (cheap pulse — 2 proposals promoted)
 - Backlog: 2 ai-fix (fresh #8581-8582) · 0 PRs open · proposals untriaged: 0 (excl. held #7981, umbrellas #2211/#3810/#3819)
 - Org 396u/432s/637v (7d) · GSC 9,179 impr/217 clicks/2.36% CTR/pos 7.1 — content-gap table flags only `arin ilejay` (550 impr, 0.36% CTR, pos 11.7), already ruled class-2 bare-name SERP this week; no re-action

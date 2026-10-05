@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-05 08:32 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-05 12:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 411 |
-| Sessions | 448 |
-| Page views | 654 |
-| Engagement rate | 55.13% |
-| Avg session (s) | 92 |
+| Active users | 423 |
+| Sessions | 460 |
+| Page views | 671 |
+| Engagement rate | 60.87% |
+| Avg session (s) | 88 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -24,73 +24,73 @@
 | /drummer/john-otto | 12 | 11 |
 | /drummer/mario-duplantier | 11 | 9 |
 | /drummer/matt-greiner | 10 | 9 |
+| /articles/whats-in-lars-ulrichs-kit | 9 | 10 |
 | /quiz | 9 | 2 |
 | /drummer/inferno | 8 | 6 |
-| /drummer/joey-jordison | 8 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 324 | 292 |
-| Direct | 84 | 82 |
-| Unassigned | 60 | 57 |
-| Cross-network | 25 | 25 |
+| Organic Search | 357 | 323 |
+| Direct | 87 | 85 |
+| Unassigned | 20 | 19 |
+| Cross-network | 7 | 7 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 174 | 160 |
-| China | 34 | 34 |
-| Germany | 25 | 21 |
-| United Kingdom | 22 | 18 |
+| United States | 176 | 162 |
+| China | 35 | 35 |
+| Germany | 26 | 22 |
+| United Kingdom | 26 | 21 |
 | Australia | 12 | 12 |
 | Canada | 12 | 12 |
-| Poland | 10 | 10 |
+| Finland | 11 | 11 |
+| Poland | 11 | 11 |
 | Singapore | 10 | 10 |
-| Finland | 9 | 9 |
 | Indonesia | 9 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 9,179 |
-| Clicks | 217 |
-| CTR | 2.36% |
-| Avg position | 7.1 |
+| Impressions | 11,006 |
+| Clicks | 259 |
+| CTR | 2.35% |
+| Avg position | 7.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| john otto signature snare | 88 | 7 | 7.95% | 3.4 |
-| arin ilejay | 550 | 2 | 0.36% | 11.7 |
-| best metal drummers | 15 | 2 | 13.33% | 10.5 |
-| joey jordison drum kit | 71 | 2 | 2.82% | 7.5 |
-| mario duplantier drum kit | 64 | 2 | 3.13% | 7.2 |
+| john otto signature snare | 99 | 7 | 7.07% | 3.3 |
+| mario duplantier drum kit | 71 | 3 | 4.23% | 7.0 |
+| arin ilejay | 645 | 2 | 0.31% | 11.8 |
+| best metal drummers | 18 | 2 | 11.11% | 10.1 |
+| joey jordison drum kit | 84 | 2 | 2.38% | 7.5 |
+| matt greiner drum setup | 10 | 2 | 20.00% | 6.5 |
 | best drumsticks for blast beats | 3 | 1 | 33.33% | 7.0 |
-| best snares for metal | 1 | 1 | 100.00% | 28.0 |
-| deathcore snare | 4 | 1 | 25.00% | 5.5 |
-| eloy casagrande vs jay weinberg | 3 | 1 | 33.33% | 5.0 |
-| fastest double bass drummer | 11 | 1 | 9.09% | 5.2 |
+| best metal drummers of all time | 43 | 1 | 2.33% | 9.9 |
+| best snares for metal | 3 | 1 | 33.33% | 12.7 |
+| deathcore snare | 5 | 1 | 20.00% | 5.6 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,652 | 85 | 2.33% | 7.2 |
-| gbr | 589 | 13 | 2.21% | 7.4 |
-| deu | 311 | 11 | 3.54% | 6.2 |
-| ita | 133 | 8 | 6.02% | 6.4 |
-| pol | 130 | 8 | 6.15% | 6.7 |
-| aus | 295 | 6 | 2.03% | 7.7 |
-| dnk | 77 | 6 | 7.79% | 6.1 |
-| bra | 288 | 5 | 1.74% | 6.0 |
-| fin | 120 | 5 | 4.17% | 6.8 |
-| fra | 169 | 5 | 2.96% | 7.6 |
+| usa | 4,324 | 97 | 2.24% | 7.3 |
+| deu | 375 | 15 | 4.00% | 6.2 |
+| gbr | 700 | 15 | 2.14% | 7.6 |
+| aus | 364 | 9 | 2.47% | 7.7 |
+| ita | 161 | 9 | 5.59% | 6.6 |
+| pol | 162 | 9 | 5.56% | 6.4 |
+| fra | 203 | 8 | 3.94% | 7.5 |
+| dnk | 86 | 7 | 8.14% | 6.2 |
+| bra | 336 | 5 | 1.49% | 6.1 |
+| fin | 142 | 5 | 3.52% | 6.8 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| arin ilejay | 550 | 0.36% | 11.7 | open issue to answer better |
+| arin ilejay | 645 | 0.31% | 11.8 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

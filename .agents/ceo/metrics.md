@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-05 13:09 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-05 18:15 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 423 |
-| Sessions | 460 |
-| Page views | 674 |
-| Engagement rate | 60.87% |
-| Avg session (s) | 88 |
+| Active users | 435 |
+| Sessions | 472 |
+| Page views | 691 |
+| Engagement rate | 59.32% |
+| Avg session (s) | 87 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,31 +21,31 @@
 | /drummers | 13 | 5 |
 | /drummers/mike-portnoy/evolution | 13 | 5 |
 | /studies/metal-tempo-by-subgenre | 13 | 3 |
+| /articles/whats-in-lars-ulrichs-kit | 12 | 13 |
 | /drummer/john-otto | 12 | 11 |
 | /drummer/mario-duplantier | 11 | 9 |
 | /drummer/matt-greiner | 10 | 9 |
-| /articles/whats-in-lars-ulrichs-kit | 9 | 10 |
 | /quiz | 9 | 2 |
-| /drummer/inferno | 8 | 6 |
+| /drummer/bill-ward | 8 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 357 | 323 |
+| Organic Search | 359 | 325 |
 | Direct | 87 | 85 |
-| Unassigned | 20 | 19 |
-| Cross-network | 8 | 8 |
+| Unassigned | 31 | 30 |
+| Cross-network | 19 | 19 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 176 | 162 |
+| United States | 180 | 166 |
 | China | 35 | 35 |
-| Germany | 26 | 22 |
-| United Kingdom | 26 | 21 |
+| Germany | 27 | 23 |
+| United Kingdom | 27 | 22 |
+| Canada | 13 | 13 |
 | Australia | 12 | 12 |
-| Canada | 12 | 12 |
 | Finland | 11 | 11 |
 | Poland | 11 | 11 |
 | Singapore | 10 | 10 |

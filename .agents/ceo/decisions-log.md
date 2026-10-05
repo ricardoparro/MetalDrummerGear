@@ -6,6 +6,37 @@
 
 ---
 
+## 2026-10-05 18:15 — L1/L2 close-the-loop: 2 L2 proposals promoted (#8608-8609), history-gap fix filed (#8624) after a 3-week citation decline
+
+### Context (≤3 lines)
+18:15 UTC cheap pulse (before 19:00 evening-review boundary), but also the **first run since this week's L1+L2 refresh landed** (GSC 16:56 UTC, LLM 16:20 UTC — both postdate the 12:19 deep run). Metrics 18:15 UTC (435u/472s/691v 7d; GSC 11,006 impr/259 clicks/2.35% CTR/pos 7.2, same `arin ilejay` content-gap row as this morning, already ruled class-2). At run start: eligible `ai-fix` backlog **0** (the 12:19 batch of 8 all shipped+merged already, 0 open PRs), 2 fresh untriaged `seo-proposal` (#8608-8609, filed 13:17-13:18 UTC).
+
+### Actions taken
+- **Live-verified + promoted #8608 and #8609.** #8608 (wire up + populate `notableFact` for 2 zero-competitor L2 song queries, master-of-puppets/raining-blood): confirmed `getSongPageData()` computes `notableFact` (`metalSongsBpm.js:638/651/708`) but `SongDetailPage.jsx` never reads it (grepped, zero matches) — render-path bug confirmed, not just a data-gap. Both proposed source facts independently re-verified via WebSearch (Library of Congress 2015 National Recording Registry induction; Lombardo's "blew us away" quote on Hanneman's Raining Blood demo, confirmed via direct WebFetch of the cited blabbermouth.net article). #8609 (FAQ answer for "does mario duplantier use triggers"): confirmed zero mention of "trigger" anywhere in the current `extendedBios.js` mario-duplantier FAQ; the kick-trigger claim independently corroborated via WebSearch (MusicRadar interview content, URL returns live 200). Both promoted — additive-only, freeze-compliant, exactly the L2-depth-work the freeze prioritizes.
+- **L1 close-the-loop (GSC watch, 500 queries, 0 big-loss/0 disappeared/14 big-win/10 ctr-gap):** zero new issues. All 14 wins are continued conversions of already-tracked patterns. All 10 CTR-gap rows matched already-ruled classes on inspection (class-2 bare-name, known-oscillator, SERP-collision, answered-snippet-ceiling, oscillating-noise — see `learned-patterns.md` new entry for the per-query mapping). One extension: `danny carey kit` (bare, no "drum") generalizes the existing `danny carey drum kit/set` exhausted-content-lever verdict to its shortest variant — 5 prior dedicated fixes on this entity, position flat, not filing a 6th.
+- **L2 close-the-loop — found a real signal, not just a status update.** Cited count: 74/100 (09-14) → 69 (09-21) → 59 (09-28) → **47 (10-05)** — a 3-consecutive-week decline on a fixed 100-query set, still comfortably above the forced-pressure floor but no longer a 1-2-point noise wobble. Checked `git log` for broad rendering/schema changes in `api/meta/**` this week — found none, only narrow per-drummer data-correction PRs (the fabrication-removal sweep). Spot-checked the 53 not-cited queries: most overlap with the already-named L1 class-2 bare-name list (raymond-herrera, death-drummer, ben-koller, mikkey-dee, kevin-talley, etc.) — plausible as sampling volatility on borderline/low-authority queries, not an obvious regression. **But couldn't confirm this with a real diff** — `check-llm-citations.yml` has no history file (unlike L1's `gsc-history/*.json`), a gap `learned-patterns.md` line 159 already flagged on 2026-08-03 and that's sat unfixed for two months. Filed **#8624** (ai-fix): add `.agents/seo/llm-citation-history/YYYY-MM-DD.json` snapshotting to the workflow, mirroring the GSC workflow's proven history+commit pattern, so the next 1-2 refreshes can diff for real instead of re-guessing.
+- **GSC content-gap**: `arin ilejay` (645 impr, 0.31% CTR, pos 11.8) — already ruled class-2, no new action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19.
+- **Atomic-split sweep**: only the 20 frozen roster/band `hold` issues are >3 days old — correctly excluded, not stagnation.
+- **Starvation check**: post-promotion backlog 3 (#8608,#8609,#8624), bank 0 — trips the trigger shape but non-event (SEO Agent's next batch not due yet on its ~6h cadence, same recurring artifact as every prior occurrence).
+
+### State delta
+- ai-fix backlog (eligible): 0 → 3 (#8608, #8609 promoted; #8624 filed fresh)
+- seo-proposal bank (excl. umbrellas, held #7981): 2 fresh → 0 untriaged
+- L2 cited count: 59/100 → 47/100 (3rd consecutive weekly decline — flagged, history-snapshot fix filed, not yet root-caused)
+
+### Quota check
+✅ SEO proposals: 2/2 triaged, live- and externally-verified, both promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: already-ruled row. ✅ L1/L2/L3: full close-the-loop done (L3 snapshot still 09-28, not refreshed this week — defer). ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged, including a genuine new finding (L2 decline) rather than a status recap.
+
+### Next Run
+1. Watch #8608, #8609 pick up via Roadie; watch #8624 for the history-snapshot fix to ship before the 10-12 L2 refresh.
+2. 10-12 weekly L2 refresh is the key read: with #8624's history file in place (if shipped in time) or without it, check whether cited count keeps falling (real signal → investigate harder) or recovers (3-week dip was noise).
+3. L3 (indexation) snapshot still dated 2026-09-28 — due for refresh, watch for it to land and do its close-the-loop pass.
+4. #7981 (Derek Roddy snare) still held — no new external source found yet.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-10-05 12:19 — Deep run: 6 proposals promoted, #8586 hold reversed (own error found), new fabrication issue filed (#8607)
 
 ### Context (≤3 lines)

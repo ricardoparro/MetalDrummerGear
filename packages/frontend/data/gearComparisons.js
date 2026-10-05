@@ -443,10 +443,10 @@ export const gearComparisons = {
         usedBy: [
           { name: 'Tomas Haake', band: 'Meshuggah', series: 'HHX/AAX', note: 'Djent pioneer, Compression Hi-Hats' },
           { name: 'Gene Hoglan', band: 'Death/Testament', series: 'AAX', note: 'The Atomic Clock' },
-          { name: 'Vinnie Paul', band: 'Pantera', series: 'AAX/HHX', note: 'Groove metal legend (RIP)' },
+          { name: 'Vinnie Paul', band: 'Pantera', series: 'AA/AAX', note: 'Groove metal legend (RIP)' },
           { name: 'Mike Portnoy', band: 'Dream Theater', series: 'HHX', note: 'Prog metal icon' },
           { name: 'Ray Luzier', band: 'Korn', series: 'AAX Series', note: 'Nu-metal precision' },
-          { name: 'Richard Christy', band: 'Death/Charred Walls', series: 'HHX', note: 'Death metal' },
+          { name: 'Richard Christy', band: 'Death/Charred Walls', series: 'AA/AAX', note: 'Death metal' },
         ],
         bestFor: 'Progressive metal, djent, groove metal, death metal',
         rating: 4.6,

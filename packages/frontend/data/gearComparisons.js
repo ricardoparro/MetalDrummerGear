@@ -822,7 +822,7 @@ Both companies have earned their place on the world's biggest stages. You can't 
           hoops: 'MasterCast',
           mounting: 'OptiMount',
         },
-        usedBy: ['Gene Hoglan', 'Mike Mangini'],
+        usedBy: ['Paul Bostaph'],
         bestFor: 'Death metal, technical death metal, progressive metal',
         rating: 4.7,
       },

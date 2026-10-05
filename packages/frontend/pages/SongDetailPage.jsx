@@ -65,6 +65,11 @@ function buildFaqSchema(song, drummerName) {
     mainEntity: [
       { '@type': 'Question', name: `What BPM is ${song.song}?`, acceptedAnswer: { '@type': 'Answer', text: bpmAnswer } },
       { '@type': 'Question', name: `Who played drums on ${song.song}?`, acceptedAnswer: { '@type': 'Answer', text: drummerAnswer } },
+      ...(song && song.notableFact ? [{
+        '@type': 'Question',
+        name: `What is a notable fact about ${song.song}?`,
+        acceptedAnswer: { '@type': 'Answer', text: song.notableFact.fact },
+      }] : []),
     ],
   };
 }
@@ -245,6 +250,13 @@ export function SongDetailPage({ slug, drummers = [] }) {
         <View style={styles.section}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>Technique Notes</Text>
           <Text style={[styles.bodyText, { color: theme.secondaryText }]}>{song.techniqueSummary}</Text>
+        </View>
+      ) : null}
+
+      {song.notableFact ? (
+        <View style={styles.section}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>Notable Fact</Text>
+          <Text style={[styles.bodyText, { color: theme.secondaryText }]}>{song.notableFact.fact}</Text>
         </View>
       ) : null}
 

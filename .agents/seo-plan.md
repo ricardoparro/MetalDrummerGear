@@ -11296,3 +11296,43 @@ All 6 personally dedup-checked via `gh issue list --state all --search` (drummer
 2. **New standing lead**: `extendedBios.js` (9,289 lines) and `top10Lists.js` (3,588 lines) were only partially sampled this run (2 files, targeted grep + subagent sweep, not exhaustive) — worth a deeper pass if the bank needs topping up again, especially `extendedBios.js`'s gearHighlights blocks for drummers not yet checked this week.
 3. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.
 4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands) — already logged this week, don't re-run.
+
+## 2026-10-05 (Monday, metrics 13:09 UTC) — L2-priority pivot: genuine citable-fact gaps, 2 verified proposals filed (#8608-8609)
+
+### Context
+Bank check: 11 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 7 already-promoted #8593-8598 per this morning's 07:25 UTC run) — well under 45, cleared to file up to 8 net-new. Metrics 13:09 UTC (423 users/460 sessions/674 views 7d; GSC 11,006 impr/259 clicks/2.35% CTR/pos 7.2). Content-gap: `arin ilejay` (645 impr, 0.31% CTR) re-matched to standing class-2 bare-name ruling — no new fix. Audit: robots.txt (live curl) all 8 required AI crawlers explicitly allowed; `llms.txt`/`llms-full.txt` live (200); 2,016 `/llms/*.md` files live. Monday drum-chair watch (group 1) already completed and logged in this morning's 01:28 UTC run (0 changes) — not re-run.
+
+### Method — deliberate pivot away from gear-fabrication sweeps
+With `drummerComparisons.js`/`genreGearGuides.js`/`soundLikeGuides.js`/`gearPriceHistory.js`/`albumArticlesCatalog.js`/`signatureGear.js`/`snares.js`/`evolutionTimeline.js`/`gearComparisons.js`/`extendedBios.js`/`top10Lists.js` all freshly mined across today's 2 prior runs, and per the founder's standing LLM-first-mode Rule 3 ("prefer proposals that create citable facts nobody else has... when in doubt file the L2 one"), read the live #2211 citation-gap report (41/100 uncited queries) directly instead of continuing the gear-fabrication vein.
+
+Dispatched a subagent to investigate 3 clusters from the uncited list against live bot-served HTML (`curl -A PerplexityBot`, confirmed via `vercel.json`'s UA-gated rewrite rules that this is literally what Perplexity's crawler receives — a plain curl gets a byte-identical generic SPA shell for every page, cited or not):
+- **Cluster A** (band "who is the drummer of X": slipknot/tool/gojira/mastodon/pantera) — all 5 already have correct FAQPage direct-answer schema; this is a **pre-logged dead end** (`.agents/seo/learned-patterns.md`, investigated 4 times already: 08-17/08-24/09-14/original) — authority gap, not fixable via format. Did not re-file.
+- **Cluster B** (song BPM, zero-competitor: master-of-puppets, raining-blood) — both pages correctly formatted but genuinely thin (131-153 words visible body). **Live, actionable lead.**
+- **Cluster C** (big-name drummer head-terms: lars-ulrich/gene-hoglan/tomas-haake/mike-portnoy vs cited george-kollias/danny-carey) — no structural difference found; **matches a pre-logged dead end** (learned-patterns.md, 2026-09-14 entry, identical 6-way comparison already ruled no-differentiator). Did not re-file.
+
+Personally verified and chased Cluster B further: `getSongPageGate()` (`packages/frontend/data/metalSongsBpm.js:625`) defines a 4th richness criterion, `notableFact`, explicitly "reserved for a future data pass" — and `getSongPageData()` (line 706) already plumbs it through, but `SongDetailPage.jsx` **never renders it anywhere** (grepped the full file — absent). Computed-but-invisible dead code, currently harmless only because no song has the field populated yet.
+
+Also personally chased 2 more "no competitor cited" rows from the same report directly (not subagent-sourced):
+- `what is a gravity blast` — checked `/technique/gravity-blast` (singular) via curl, got the generic SPA shell under PerplexityBot UA, initially looked like a missing-rewrite bug. **False lead, caught before filing**: App.js/api/sitemap.js confirm the real canonical route is `/techniques/gravity-blast` (plural) — re-tested and it correctly bot-renders with FAQPage schema (13KB, JSON-LD present). No bug; dropped.
+- `what drum kit on iowa album` — checked `/articles/iowa-drum-setup` (already correctly says Pearl for the 2001 Iowa era, no ddrum contradiction, FAQ present, bot-renders at 11KB). Already clean; likely an authority gap like Cluster A, not independently fixable — dropped, not filed.
+- `does mario duplantier use triggers` — checked `/drummer/mario-duplantier` via curl, the word "trigger" appears **nowhere on the page** despite detailed gear coverage elsewhere. Genuine content gap on a page that otherwise has deep content. **Live, actionable lead.**
+
+**2 proposals filed, both personally source-verified via WebSearch (not guessed) before writing the issue:**
+- **#8608** — bundles the `notableFact` render-path fix (SongDetailPage.jsx, ~line 253 + FAQ schema builder ~line 58) with 2 populated, sourced facts: master-of-puppets (Library of Congress National Recording Registry induction, 2015, first metal recording ever selected — sourced to loc.gov directly) and raining-blood (Jeff Hanneman's solo demo origin story, sourced to a Blabbermouth Lombardo interview). Bundled as one issue deliberately — shipping the render fix alone adds no visible content, shipping the data alone does nothing since nothing renders it; this is one atomic user-visible unit.
+- **#8609** — one new FAQ item + source citation on the existing `/drummer/mario-duplantier` page (`extendedBios.js`'s `'mario-duplantier'` entry, `faq.items` ~line 1344), confirming (via MusicRadar interview, verified by WebSearch) that he uses a kick trigger, explicitly scoped to NOT claim a snare trigger since no source supports that.
+
+### Dedup notes
+Both searched via `gh issue list --state all --search` before filing: "notableFact" (1 hit, #4761, the original phase-3 feature issue that reserved the field — not a dupe of filling it in), "master of puppets raining blood" (10 hits, all distinct — metaTitle/PropertyValue/video-sitemap/llms fixes, none touch notableFact), "SongDetailPage" (0 hits). No existing issue covers either.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8608-8609 (this run, 2 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 13 open `seo-proposal`.
+
+### Next run
+1. Watch #8608-8609 through CEO triage.
+2. **Process note**: gear-fabrication sweeps across `drummerComparisons.js`/`genreGearGuides.js`/`soundLikeGuides.js`/`gearPriceHistory.js`/`albumArticlesCatalog.js`/`signatureGear.js`/`snares.js`/`evolutionTimeline.js`/`gearComparisons.js`/`extendedBios.js`/`top10Lists.js` are now heavily mined across 3 runs today (2026-10-05) — if the bank needs topping up again soon, prefer the #2211 L2 report's remaining "no competitor cited" rows (`hellhammer drummer`, `nick barker drum kit`, `kevin talley`) as fresh, genuinely novel ground over re-grepping the same gear files a 4th time.
+3. **Cluster A (band FAQ) and Cluster C (drummer head-terms) from #2211 are now independently re-confirmed dead ends twice over** (this run's subagent + the 2026-09-14 prior investigation) — do not re-investigate either without new evidence (e.g. a competitor losing/gaining a citation, or a format change elsewhere on the site).
+4. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands) — already logged this week, don't re-run.

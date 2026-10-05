@@ -491,7 +491,7 @@ Whether it's the spine-tingling buildup of a Dream Theater epic or the controlle
         reason: 'Vinnie Paul\'s drum solos with Pantera combined raw power with groove metal swagger. His performances during the Cowboys From Hell and Vulgar Display of Power tours showcased a unique style that prioritized feel over flash. The thunderous power of his solos helped define the groove metal sound and inspired a generation of heavy drummers.',
         duration: '3-5 minutes',
         showcaseVideo: { youtubeId: 'J9FD8_kRVEc', title: 'The MONSTER known as VINNIE PAUL (by Scott Ian)' },
-        gearHighlight: 'ddrum Vinnie Paul Signature kit, Sabian AAX cymbals',
+        gearHighlight: 'Tama drum kit, Sabian AA cymbals',
         technique: 'Groove-focused power, half-time heaviness, signature kick patterns',
         funFacts: [
           'Co-founded Pantera with his brother Dimebag Darrell',

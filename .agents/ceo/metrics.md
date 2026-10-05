@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-05 07:25 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-05 08:32 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 408 |
-| Sessions | 446 |
-| Page views | 651 |
-| Engagement rate | 55.38% |
+| Active users | 411 |
+| Sessions | 448 |
+| Page views | 654 |
+| Engagement rate | 55.13% |
 | Avg session (s) | 92 |
 
 ### Top pages (by page views, last 7d)
@@ -23,7 +23,7 @@
 | /studies/metal-tempo-by-subgenre | 13 | 3 |
 | /drummer/john-otto | 12 | 11 |
 | /drummer/mario-duplantier | 11 | 9 |
-| /drummer/matt-greiner | 9 | 8 |
+| /drummer/matt-greiner | 10 | 9 |
 | /quiz | 9 | 2 |
 | /drummer/inferno | 8 | 6 |
 | /drummer/joey-jordison | 8 | 8 |
@@ -31,25 +31,25 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 322 | 290 |
+| Organic Search | 324 | 292 |
 | Direct | 84 | 82 |
-| Unassigned | 58 | 54 |
+| Unassigned | 60 | 57 |
 | Cross-network | 25 | 25 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 173 | 159 |
+| United States | 174 | 160 |
 | China | 34 | 34 |
 | Germany | 25 | 21 |
 | United Kingdom | 22 | 18 |
-| Australia | 12 | 11 |
+| Australia | 12 | 12 |
 | Canada | 12 | 12 |
+| Poland | 10 | 10 |
 | Singapore | 10 | 10 |
 | Finland | 9 | 9 |
 | Indonesia | 9 | 8 |
-| Netherlands | 9 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

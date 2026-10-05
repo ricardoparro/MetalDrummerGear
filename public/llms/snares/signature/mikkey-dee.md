@@ -1,29 +1,33 @@
 # What Snare Does Mikkey Dee Use? Signature Model & Specs
 
-**Band:** Scorpions / Motörhead | **Brand:** Yamaha | **Model:** Mikkey Dee Signature
+**Band:** Scorpions / Motörhead | **Brand:** Sonor | **Model:** Mikkey Dee Signature
 
 ---
 
 ## Direct Answer
 
-Mikkey Dee plays the Yamaha Mikkey Dee Signature — a signature snare built for them, sized 14x8".
+Mikkey Dee plays the Sonor Mikkey Dee Signature — a signature snare built for them, sized 14x7.25" with a Birch shell.
 
 ## Snare Breakdown
 
 | Field | Value |
 |-------|-------|
-| Brand | Yamaha |
+| Brand | Sonor |
 | Model | Mikkey Dee Signature |
 | Size | 14" |
-| Depth | 8" |
-| Shell Material | — |
+| Depth | 7.25" |
+| Shell Material | Birch |
 
-Verified roster hardware entry: "Yamaha Mikkey Dee Signature 14x8"." Source: roster gear.snare (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Sonor Mikkey Dee Signature 14x7.25" Birch." Source: roster gear.snare (verified: true; sources on the drummer record).
+
+## Setup Context
+
+- **Birch shell:** Brighter than maple, with emphasized highs and lows and a crisper attack.
 
 ## FAQ
 
 **Q: What snare does Mikkey Dee use?**
-A: Mikkey Dee plays the Yamaha Mikkey Dee Signature — a signature snare built for them, sized 14x8".
+A: Mikkey Dee plays the Sonor Mikkey Dee Signature — a signature snare built for them, sized 14x7.25" with a Birch shell.
 
 ## More Resources
 
@@ -34,4 +38,4 @@ A: Mikkey Dee plays the Yamaha Mikkey Dee Signature — a signature snare built 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-05 · Source: [MetalForge.io](https://metalforge.io)*

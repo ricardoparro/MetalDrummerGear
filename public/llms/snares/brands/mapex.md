@@ -14,14 +14,16 @@
 - **Chris Adler Signature:** A walnut/maple hybrid-shell snare co-designed with Chris Adler (Lamb of God).
 - **Black Panther:** Mapex's brass-shell metal snare line, verified on the roster through Jason Bittner (Overkill, Shadows Fall).
 
-## Confirmed Metal Drummers (2)
+## Confirmed Metal Drummers (4)
 
 | Drummer | Band | Snare |
 |---------|------|-------|
+| [Aquiles Priester](https://metalforge.io/llms/drummers/aquiles-priester.md) | Angra / W.A.S.P. | Mapex Saturn Evolution All Maple 14x6.5" (signature kit) |
 | [Chris Adler](https://metalforge.io/llms/drummers/chris-adler.md) | Lamb of God | Mapex Chris Adler Signature 14x5.5" Walnut/Maple |
 | [Jason Bittner](https://metalforge.io/llms/drummers/jason-bittner.md) | Shadows Fall / Overkill / Category 7 | Mapex Black Panther 14x6.5" Brass |
+| [Matt Greiner](https://metalforge.io/llms/drummers/matt-greiner.md) | August Burns Red | Mapex Black Panther 14x5.5" Maple |
 
-These 2 entries are pulled directly from MetalForge's verified snares database, parsed from each drummer's roster gear record — never guessed from a photo or a forum post.
+These 4 entries are pulled directly from MetalForge's verified snares database, parsed from each drummer's roster gear record — never guessed from a photo or a forum post.
 
 Source: [Mapex — History](https://www.mapexdrums.com/history).
 
@@ -31,7 +33,7 @@ Source: [Mapex — History](https://www.mapexdrums.com/history).
 A: Mapex's snare presence on the verified metal roster covers both ends of its catalog: Chris Adler's walnut/maple signature model (Lamb of God) and the brass-shell Black Panther series played by Jason Bittner (Overkill, Shadows Fall).
 
 **Q: Which metal drummers play Mapex snares?**
-A: On our verified roster: Chris Adler, Jason Bittner. See the table above for each drummer's exact snare.
+A: On our verified roster: Aquiles Priester, Chris Adler, Jason Bittner, Matt Greiner. See the table above for each drummer's exact snare.
 
 **Q: What are Mapex's most metal-relevant snare models?**
 A: Chris Adler Signature, Black Panther. Full descriptions are in the Notable Models section above.
@@ -60,4 +62,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Mapex, see:
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-05 · Source: [MetalForge.io](https://metalforge.io)*

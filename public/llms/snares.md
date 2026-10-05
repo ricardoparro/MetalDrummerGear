@@ -2,7 +2,7 @@
 
 This page indexes every verified snare catalogued in MetalForge's snares database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-09-09 · Source: https://metalforge.io
+> Last Updated: 2026-10-05 · Source: https://metalforge.io
 
 For shell material, size, and tuning reference pages see the Reference Guides section below. For a buying guide anchored on the verified signature snares see [https://metalforge.io/snares/best-for-metal](https://metalforge.io/snares/best-for-metal).
 
@@ -78,7 +78,7 @@ A: 14x6.5" is the most common "workhorse" size across the verified metal roster,
 - Igor Cavalera — [Yamaha Absolute Hybrid Maple 14x6.5"](https://metalforge.io/drummer/igor-cavalera)
 - Bill Ward — [Ludwig Supraphonic 14x6.5" LM402](https://metalforge.io/drummer/bill-ward)
 - Chris Turner — [Tama S.L.P. 14x5.5" G-Maple](https://metalforge.io/drummer/chris-turner)
-- Matt Greiner — [Pearl Reference Pure Matt Greiner Signature 14x6.5"](https://metalforge.io/drummer/matt-greiner)
+- Matt Greiner — [Mapex Black Panther 14x5.5" Maple](https://metalforge.io/drummer/matt-greiner)
 - Blake Richardson — [Tama STARPHONIC 14x6" Brass](https://metalforge.io/drummer/blake-richardson)
 - Ben Koller — [Tama S.L.P. 14x6" Brass](https://metalforge.io/drummer/ben-koller)
 - Flo Mounier — [Tama Starclassic Maple 14x5.5"](https://metalforge.io/drummer/flo-mounier)
@@ -96,19 +96,19 @@ A: 14x6.5" is the most common "workhorse" size across the verified metal roster,
 - Abe Cunningham — [Tama Starclassic Maple/Bubinga 14x6.5"](https://metalforge.io/drummer/abe-cunningham)
 - Richard Christy — [Pearl Custom Z 14x6.5" Maple](https://metalforge.io/drummer/richard-christy)
 - Aquiles Priester — [Mapex Saturn Evolution All Maple 14x6.5" (signature kit)](https://metalforge.io/drummer/aquiles-priester)
-- Paul Mazurkiewicz — [Pearl Masters 14x6.5" Maple](https://metalforge.io/drummer/paul-mazurkiewicz)
+- Paul Mazurkiewicz — [Pearl Free-Floating Steel](https://metalforge.io/drummer/paul-mazurkiewicz)
 - Mike Mangini — [Pearl Reference 14x5" & 14x6.5" Brass](https://metalforge.io/drummer/mike-mangini)
-- Matt Garstka — [Tama S.L.P. 14x6" G-Maple](https://metalforge.io/drummer/matt-garstka)
+- Matt Garstka — [DW Collector's Series Purpleheart](https://metalforge.io/drummer/matt-garstka)
 - Daniel Erlandsson — [Pearl Daniel Erlandsson Signature 14x5.5"](https://metalforge.io/drummer/daniel-erlandsson)
 - Jaska Raatikainen — [Pearl Masters 14x5.5" Maple](https://metalforge.io/drummer/jaska-raatikainen)
 - Hannes Grossmann — [DW Collectors 14x5.5" Maple](https://metalforge.io/drummer/hannes-grossmann)
 - Daray — [Pearl Reference 14x5.5" Brass](https://metalforge.io/drummer/daray)
 - Jocke Wallgren — [Pearl Reference 14x6.5" Brass](https://metalforge.io/drummer/jocke-wallgren)
 - Tim Yeung — [Tama S.L.P. Big Black Steel 14x6.5"](https://metalforge.io/drummer/tim-yeung)
-- Kevin Talley — [Pearl Masters 14x5.5" Maple](https://metalforge.io/drummer/kevin-talley)
+- Kevin Talley — [Pearl Masters 14x6.5" Steel](https://metalforge.io/drummer/kevin-talley)
 - Martin Axenrot — [DW Custom maple/gum shells 14x5.75"](https://metalforge.io/drummer/martin-axenrot)
 - Paul Bostaph — [Pearl Masters Steel 14x6.5"](https://metalforge.io/drummer/paul-bostaph)
-- Sean Reinert — [Tama Artstar II Birch 14x5.5"](https://metalforge.io/drummer/sean-reinert)
+- Sean Reinert — [DW Collector's Series Maple Shell](https://metalforge.io/drummer/sean-reinert)
 - Nick Menza — [Tama Steel Snare 14x5.5"](https://metalforge.io/drummer/nick-menza)
 - Adrian Erlandsson — [Tama Starclassic Bubinga 14x6.5"](https://metalforge.io/drummer/adrian-erlandsson)
 - Jon Dette — [14x6.5" Metal or Maple Snare](https://metalforge.io/drummer/jon-dette)

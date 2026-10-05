@@ -12,14 +12,16 @@
 ## Notable Models for Metal Drummers
 
 - **S.L.P. (Sound Lab Project):** A modular series spanning G-Maple, Brass, Big Black Steel, and Black Brass shells — the most common single snare line across the verified metal roster, used by drummers from Dave Lombardo to Dirk Verbeuren.
-- **Starclassic:** Tama's core maple/bubinga shell line, used on the roster by Richard Christy (maple) and Adrian Erlandsson (Bubinga).
+- **Starclassic:** Tama's core maple/bubinga shell line, used on the roster by Adrian Erlandsson (Bubinga).
 - **LU1465 Lars Ulrich Signature:** Metallica drummer Lars Ulrich's signature 14x6.5" snare model.
 
 ## Confirmed Metal Drummers (17)
 
 | Drummer | Band | Snare |
 |---------|------|-------|
+| [Abe Cunningham](https://metalforge.io/llms/drummers/abe-cunningham.md) | Deftones | Tama Starclassic Maple/Bubinga 14x6.5" |
 | [Adrian Erlandsson](https://metalforge.io/llms/drummers/adrian-erlandsson.md) | At the Gates | Tama Starclassic Bubinga 14x6.5" |
+| [Alex Bent](https://metalforge.io/llms/drummers/alex-bent.md) | ex-Trivium / Arkaik / Dragonlord | Tama Starclassic Maple 14x5" (approx.) |
 | [Ben Koller](https://metalforge.io/llms/drummers/ben-koller.md) | Converge / Mutoid Man / Killer Be Killed | Tama S.L.P. 14x6" Brass |
 | [Blake Richardson](https://metalforge.io/llms/drummers/blake-richardson.md) | Between the Buried and Me | Tama STARPHONIC 14x6" Brass |
 | [Chris Turner](https://metalforge.io/llms/drummers/chris-turner.md) | Oceans Ate Alaska | Tama S.L.P. 14x5.5" G-Maple |
@@ -27,14 +29,12 @@
 | [Derek Roddy](https://metalforge.io/llms/drummers/derek-roddy.md) | Hate Eternal / Nile | Tama SLP Black Brass 14x6.5" |
 | [Dirk Verbeuren](https://metalforge.io/llms/drummers/dirk-verbeuren.md) | Megadeth | Tama S.L.P. Big Black Steel 14x6.5" |
 | [Eloy Casagrande](https://metalforge.io/llms/drummers/eloy-casagrande.md) | Slipknot | Tama Bell Brass 14x5.5" (BB146) |
-| [Igor Cavalera](https://metalforge.io/llms/drummers/igor-cavalera.md) | Sepultura / Cavalera Conspiracy / Soulwax | Tama S.L.P. 14x6.5" G-Maple |
+| [Flo Mounier](https://metalforge.io/llms/drummers/flo-mounier.md) | Cryptopsy | Tama Starclassic Maple 14x5.5" |
+| [Frost](https://metalforge.io/llms/drummers/frost.md) | Satyricon / 1349 | Tama Starclassic Bubinga 14x5.5" |
 | [Lars Ulrich](https://metalforge.io/llms/drummers/lars-ulrich.md) | Metallica | Tama LU1465 Lars Ulrich Signature 14x6.5" |
 | [Mario Duplantier](https://metalforge.io/llms/drummers/mario-duplantier.md) | Gojira | Tama S.L.P. 14x6.5" G-Maple |
-| [Matt Garstka](https://metalforge.io/llms/drummers/matt-garstka.md) | Animals as Leaders | Tama S.L.P. 14x6" G-Maple |
 | [Nick Menza](https://metalforge.io/llms/drummers/nick-menza.md) | Megadeth | Tama Steel Snare 14x5.5" |
 | [Raymond Herrera](https://metalforge.io/llms/drummers/raymond-herrera.md) | Fear Factory / Arkaea / Brujeria | Tama 14x6.5" Brass |
-| [Richard Christy](https://metalforge.io/llms/drummers/richard-christy.md) | Death / Iced Earth | Tama Starclassic 14x6.5" Maple |
-| [Sean Reinert](https://metalforge.io/llms/drummers/sean-reinert.md) | Death / Cynic | Tama Artstar II Birch 14x5.5" |
 | [Tim Yeung](https://metalforge.io/llms/drummers/tim-yeung.md) | Morbid Angel / Hate Eternal / Vital Remains | Tama S.L.P. Big Black Steel 14x6.5" |
 
 These 17 entries are pulled directly from MetalForge's verified snares database, parsed from each drummer's roster gear record — never guessed from a photo or a forum post.
@@ -47,7 +47,7 @@ Source: [Tama — official site](https://www.tama.com).
 A: Tama is the single most common snare brand across the verified metal roster, anchored by the modular S.L.P. (Sound Lab Project) series — which spans brass, steel, and maple shells and is by far the most common single line on this roster — alongside the Starclassic maple/bubinga shells and Lars Ulrich's own LU1465 signature model.
 
 **Q: Which metal drummers play Tama snares?**
-A: On our verified roster: Adrian Erlandsson, Ben Koller, Blake Richardson, Chris Turner, Dave Lombardo, Derek Roddy, Dirk Verbeuren, Eloy Casagrande, Igor Cavalera, Lars Ulrich, Mario Duplantier, Matt Garstka, Nick Menza, Raymond Herrera, Richard Christy, Sean Reinert, Tim Yeung. See the table above for each drummer's exact snare.
+A: On our verified roster: Abe Cunningham, Adrian Erlandsson, Alex Bent, Ben Koller, Blake Richardson, Chris Turner, Dave Lombardo, Derek Roddy, Dirk Verbeuren, Eloy Casagrande, Flo Mounier, Frost, Lars Ulrich, Mario Duplantier, Nick Menza, Raymond Herrera, Tim Yeung. See the table above for each drummer's exact snare.
 
 **Q: What are Tama's most metal-relevant snare models?**
 A: S.L.P. (Sound Lab Project), Starclassic, LU1465 Lars Ulrich Signature. Full descriptions are in the Notable Models section above.
@@ -76,4 +76,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Tama, see:
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-05 · Source: [MetalForge.io](https://metalforge.io)*

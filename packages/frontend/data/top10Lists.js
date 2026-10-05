@@ -297,7 +297,7 @@ This ranking considers documented BPM records, sustained speed over full perform
         reason: 'Dave Lombardo\'s double bass work with Slayer on "Reign in Blood" was revolutionary. He proved double bass could be both fast AND musical, influencing generations.', 
         bpm: '210+',
         showcaseVideo: { youtubeId: '3ivOfkqFmxg', title: 'Dave Lombardo - War Ensemble Drum Cam (Yankee Stadium)' },
-        gearHighlight: 'Tama Iron Cobra 900 Power Glide pedals, natural sound without triggers',
+        gearHighlight: 'Pearl kits, natural sound without triggers',
         technique: 'Combines Latin/Cuban influences with thrash metal speed',
         funFacts: [
           'Pioneered thrash metal double bass technique',
@@ -416,7 +416,7 @@ Whether it's the spine-tingling buildup of a Dream Theater epic or the controlle
         reason: 'Dave Lombardo\'s drum solos during Slayer\'s Reign in Blood era defined thrash metal aggression. His combination of Latin-influenced grooves with relentless double bass created a template that every thrash drummer has followed since. The controlled chaos of his live solos — particularly the War Ensemble breakdown — represents pure metal fury.',
         duration: '3-5 minutes',
         showcaseVideo: { youtubeId: '3ivOfkqFmxg', title: 'Dave Lombardo - War Ensemble Drum Cam (Yankee Stadium)' },
-        gearHighlight: 'Pearl kits, Paiste RUDE cymbals, Tama Iron Cobra pedals',
+        gearHighlight: 'Pearl kits, Paiste RUDE cymbals',
         technique: 'Latin/Cuban influenced patterns fused with thrash speed',
         funFacts: [
           'Brought Cuban/Latin percussion influences into thrash metal',

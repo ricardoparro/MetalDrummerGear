@@ -49,7 +49,7 @@ export const SNARE_BRANDS = [
       "Pearl's snare lineup splits into two verified-roster standards — the brass/steel Reference series for maximum cut, and the maple Masters series for a warmer tone — alongside multiple artist-signature models, including Joey Jordison's 13x6.5\" and George Kollias's 14x6.5\" snares.",
     notableLines: [
       { name: 'Reference', description: 'Brass and steel shells built for maximum cut and volume — the most common single Pearl series on the verified metal roster, from Gene Hoglan to Mike Mangini.' },
-      { name: 'Masters', description: 'Pearl\'s maple shell line, chosen for a warmer tone by drummers including Flo Mounier, Jaska Raatikainen, and Paul Bostaph (Masters Steel).' },
+      { name: 'Masters', description: 'Pearl\'s maple shell line, chosen for a warmer tone by drummers including Jaska Raatikainen and Paul Bostaph (Masters Steel).' },
       { name: 'Artist-signature models', description: 'Purpose-built signature snares for roster drummers, including Joey Jordison (13x6.5"), George Kollias, and Daniel Erlandsson.' },
     ],
     source: { label: 'Pearl Drums — Wikipedia (company history)', url: 'https://en.wikipedia.org/wiki/Pearl_Drums' },

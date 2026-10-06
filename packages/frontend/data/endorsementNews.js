@@ -927,7 +927,7 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         brand: 'Sonor',
-        notes: 'Released his Sonor Mikkey Dee Signature 14"x7.25" birch snare, built on his longtime Sonor SQ2 endorsement dating back to his King Diamond days',
+        notes: 'Released his Sonor Mikkey Dee Signature 14"x7.25" birch snare, part of the Sonor SQ2 setup he\'s used since 2012',
       },
       {
         year: 2016,

@@ -4006,7 +4006,7 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Mikkey Dee has been a Sonor Drums endorser since his King Diamond days, playing their SQ2 custom-build series. Cymbal-wise he has been a Paiste artist since April 1987. His setup emphasizes power and durability for high-energy rock performances.
+        content: `Mikkey Dee has been a Sonor Drums endorser since 2012, playing their SQ2 custom-build series. Cymbal-wise he has been a Paiste artist since April 1987. His setup emphasizes power and durability for high-energy rock performances.
 
 **Current Setup (Scorpions):**
 - **Drums**: Sonor SQ2 (18"x22" Bass Drum)

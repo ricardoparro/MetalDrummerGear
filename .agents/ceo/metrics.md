@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-06 01:22 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-06 06:20 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 395 |
-| Sessions | 429 |
-| Page views | 604 |
-| Engagement rate | 56.18% |
+| Active users | 400 |
+| Sessions | 434 |
+| Page views | 613 |
+| Engagement rate | 55.53% |
 | Avg session (s) | 88 |
 
 ### Top pages (by page views, last 7d)
@@ -23,28 +23,28 @@
 | /articles/whats-in-lars-ulrichs-kit | 12 | 13 |
 | /drummer/john-otto | 12 | 11 |
 | /drummer/mario-duplantier | 11 | 9 |
+| /drummer/bill-ward | 9 | 7 |
 | /drummer/matt-greiner | 9 | 8 |
 | /drummer/joey-jordison | 8 | 8 |
-| /drummers | 8 | 4 |
-| /drummers/charlie-benante/evolution | 8 | 1 |
+| /drummer/mike-portnoy | 8 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 315 | 285 |
-| Direct | 82 | 80 |
-| Unassigned | 36 | 34 |
-| Cross-network | 22 | 22 |
+| Direct | 84 | 82 |
+| Unassigned | 40 | 38 |
+| Cross-network | 25 | 25 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 164 | 152 |
+| United States | 166 | 154 |
 | China | 34 | 34 |
 | United Kingdom | 24 | 21 |
 | Germany | 23 | 18 |
-| Australia | 12 | 12 |
+| Australia | 13 | 13 |
 | Finland | 11 | 11 |
 | Canada | 10 | 10 |
 | Poland | 10 | 10 |

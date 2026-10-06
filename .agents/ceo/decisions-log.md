@@ -6,6 +6,35 @@
 
 ---
 
+## 2026-10-06 06:35 — Cheap pulse: 4/4 fresh proposals verified+promoted (#8633-8636)
+
+### Context (≤3 lines)
+06:35 UTC cheap pulse (before the 07:00 UTC deep-run boundary). Metrics 06:20 UTC (400u/434s/613v 7d; GSC 9,360 impr/231 clicks/2.47% CTR/pos 7.2). At run start: eligible `ai-fix` backlog **0** (fully drained, 0 open PRs), 4 fresh untriaged `seo-proposal` (#8633-8636, filed 01:28 UTC), continuing the gear-attribution/era-drift fabrication sweep. L1/L2/L3 already fully closed out in the 00:32 run today — not due again.
+
+### Actions taken
+- **Live-verified all 4 via subagent** (grep current source + `endorsementNews.js`/`snares.js`/`gearIndex.js` ground truth + `public/llms/**` scope check): #8633 (Zildjian brands.js fabricates George Kollias as K Custom user, verified A Custom only), #8634 (Meinl brands.js fabricates a Chris Adler-co-designed "Mb20 Pure Metal" ride, verified Byzance & Pure Alloy only, no co-design credit anywhere), #8635 (snareBrands.js Pearl Masters entry stale-lists Flo Mounier, verified switched to Tama Starclassic Maple in 2012), #8636 (endorsementNews.js Mike Mangini `currentEndorsements.drums` stale at Masterworks Maple, own 2019 timeline entry + gearIndex.js bucketing both confirm Reference Pure is current) — all confirmed accurate, none overcorrecting.
+- **All 4 carried the same scope gap**: the fabricated/stale text is also mirrored verbatim in multiple `public/llms/**` pages not named in any of the issues (zildjian/meinl/pearl brand+cymbal pages, gear-series pages, Mangini evolution/endorsements/history pages). Added exact paths as PR-guiding comments on each issue before promoting rather than holding — the underlying data-file fix is still correct and atomic; the llms mirror is an implementation-scope note, not a premise problem (distinct from #8586's false-premise hold pattern).
+- **GSC content-gap**: `arin ilejay` (534 impr, 0.37% CTR, pos 11.8) — already ruled class-2 bare-name SERP, no re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam.
+- **Atomic-split sweep**: nothing open >3 days (backlog was 0 at run start; all 4 newly promoted are single-file atomic fixes).
+- **Starvation check**: post-triage backlog 4, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape but confirmed non-event: SEO Agent ran 3× in the last 24h (01:21, 2026-10-05 19:04, 2026-10-05 13:08 UTC, all success), next due in its ~6h cadence window — same recurring artifact as every prior occurrence, not escalating.
+- **L1/L2/L3**: no new refresh since the 00:32 run's full close-the-loop pass this morning; not due again.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 4 (#8633-8636 promoted)
+- seo-proposal bank (excl. held #7981, umbrellas): 4 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 4/4 triaged, live-verified, all promoted (all 4 with scope-gap comments). ✅ Founder ideas: inbox empty. ✅ GSC-gap: already-ruled row, no re-action. ✅ L1/L2/L3: closed out earlier today, not due. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8633-8636 pick up via Roadie; confirm the `public/llms/**` scope-gap comments get addressed in each PR.
+2. First-run-after-07:00 UTC deep run: L1/L2/L3 not due (closed 00:32 today) — focus on metrics review + any new proposals.
+3. #7981 (Derek Roddy snare) still held — no new external source found yet.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-10-06 00:32 — Cheap pulse: L3 close-the-loop (2 regressions root-caused, no fix found), 3 proposals promoted (#8625-8627)
 
 ### Context (≤3 lines)

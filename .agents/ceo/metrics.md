@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-06 07:11 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-06 08:23 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 400 |
-| Sessions | 434 |
-| Page views | 613 |
-| Engagement rate | 55.53% |
-| Avg session (s) | 88 |
+| Active users | 402 |
+| Sessions | 437 |
+| Page views | 615 |
+| Engagement rate | 55.38% |
+| Avg session (s) | 87 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -25,16 +25,16 @@
 | /drummer/mario-duplantier | 11 | 9 |
 | /drummer/bill-ward | 9 | 7 |
 | /drummer/matt-greiner | 9 | 8 |
+| /articles/slipknot-self-titled-drum-setup | 8 | 6 |
 | /drummer/joey-jordison | 8 | 8 |
-| /drummer/mike-portnoy | 8 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 315 | 285 |
-| Direct | 84 | 82 |
-| Unassigned | 40 | 38 |
-| Cross-network | 25 | 25 |
+| Direct | 85 | 82 |
+| Unassigned | 41 | 39 |
+| Cross-network | 26 | 26 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)

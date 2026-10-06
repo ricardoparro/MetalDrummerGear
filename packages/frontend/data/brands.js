@@ -470,7 +470,7 @@ Zildjian's centuries of experience show in their consistency and quality. Each c
         { year: 1981, event: "A family split sends Robert Zildjian to found rival cymbal maker Sabian in Meductic, New Brunswick, Canada." },
         { year: 2023, event: "Zildjian marks its 400th anniversary, still family-owned into its 15th generation." },
       ],
-      metalEra: "Lars Ulrich has played an all-Zildjian setup throughout Metallica's career, and his bright, cutting A Custom cymbals became a reference point for thrash metal's cymbal sound in the 1980s. The darker K and K Custom lines later found favor with progressive and technical metal drummers such as George Kollias and Mario Duplantier, who mix K-series crashes and rides with A Custom hi-hats to balance cut with complexity.",
+      metalEra: "Lars Ulrich has played an all-Zildjian setup throughout Metallica's career, and his bright, cutting A Custom cymbals became a reference point for thrash metal's cymbal sound in the 1980s. The darker K and K Custom lines later found favor with progressive and technical metal drummers such as Mario Duplantier, who mixes K-series crashes and rides with A Custom hi-hats to balance cut with complexity.",
       sources: ["https://zildjian.com/pages/brand"],
     },
     themeLinks: [

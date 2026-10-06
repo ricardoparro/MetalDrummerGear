@@ -2945,13 +2945,13 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/mike-mangini.webp',
     bio: 'Mike Mangini (born April 18, 1963) is an American drummer who joined Dream Theater in 2010. A former Berklee College of Music professor, Mangini holds multiple world records for drumming speed. Before Dream Theater, he played with Steve Vai, Extreme, and Annihilator. His technical approach incorporates odd time signatures, complex polyrhythms, and innovative use of hybrid acoustic/electronic setups.',
-    kitOverview: 'Mike Mangini plays a Pearl Masterworks Maple kit complemented by Sabian HHX and AAX cymbals including 14" HHX Evolution Hi-Hats, 17"/18"/19" Evolution Crashes, and a 21" HHX Raw Bell Dry Ride. A Roland SPD-SX sampling pad integrates electronics into his hybrid setup, driven by Pearl Eliminator Redline double pedals — a configuration built for Dream Theater\'s complex progressive metal landscapes.',
+    kitOverview: 'Mike Mangini plays a Pearl Reference Pure kit — a single-species maple configuration he switched to in 2019, succeeding the Masterworks Maple shells he used earlier in his Dream Theater tenure — complemented by Sabian HHX and AAX cymbals including 14" HHX Evolution Hi-Hats, 17"/18"/19" Evolution Crashes, and a 21" HHX Raw Bell Dry Ride. A Roland SPD-SX sampling pad integrates electronics into his hybrid setup, driven by Pearl Eliminator Redline double pedals — a configuration built for Dream Theater\'s complex progressive metal landscapes.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Mike_Mangini',
       'https://www.discogs.com/artist/257048-Mike-Mangini'
     ],
     gear: {
-      drums: 'Pearl Masterworks Maple',
+      drums: 'Pearl Reference Pure',
       cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)',
       hardware: 'Pearl Eliminator Redline Double Pedal, Roland SPD-SX Sampling Pad',
       sticks: 'Vater Mike Mangini Wicked Piston (VHMMWP)',

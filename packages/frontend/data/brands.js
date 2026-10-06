@@ -612,7 +612,7 @@ Meinl constantly pushes cymbal design forward with unique models like the Dual C
         { year: "1980s", event: "Meinl expands into a full percussion catalog, including congas and cajons, growing into one of Europe's largest percussion manufacturers." },
         { year: 2001, event: "The hand-hammered Byzance series launches, becoming a favorite among progressive and technical metal drummers." },
       ],
-      metalEra: "Meinl's Byzance series became a favorite of progressive and technical metal drummers seeking dark, complex overtones rather than the brighter cut of traditional metal cymbals — players like Matt Garstka (Animals as Leaders) use Byzance extensively. Meinl's Mb20 \"Pure Metal\" ride, co-designed with Chris Adler (Lamb of God), extended that identity to drummers who need volume and cut for heavier, more aggressive styles.",
+      metalEra: "Meinl's Byzance series became a favorite of progressive and technical metal drummers seeking dark, complex overtones rather than the brighter cut of traditional metal cymbals — players like Matt Garstka (Animals as Leaders) use Byzance extensively. Meinl's hand-hammered, high-density Mb20 \"Pure Metal\" ride extended that identity to drummers who need volume and cut for heavier, more aggressive styles, with Chris Adler (Lamb of God) among the metal drummers who play Meinl's Byzance and Pure Alloy lines.",
       sources: ["https://meinlcymbals.com/en/Wiki"],
     },
     themeLinks: [

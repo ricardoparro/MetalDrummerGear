@@ -8713,10 +8713,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'DW 5000 Double Pedal',
+            item: 'Tama Iron Cobra 900 Rolling Glide',
             details: 'Double kick for enhanced drive',
-            notes: 'Added double kick configuration for the heavier material on Around the Fur.',
-            change: CHANGE_TYPES.NEW,
+            notes: 'Adopted alongside the 1997 Tama signing — double kick configuration for the heavier material on Around the Fur.',
+            change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
             item: 'Vic Firth 5B',
@@ -8858,10 +8858,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'DW 9000 Double Pedal',
+            item: 'Tama Iron Cobra 900 Rolling Glide',
             details: 'Spring-loaded double pedal, smooth action',
-            notes: 'DW 9000 for smooth, powerful double bass response across this era\'s harder-driving material.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued on the Tama Iron Cobra signed in 1997 — no hardware brand change through the self-titled record and Saturday Night Wrist.',
+            change: null,
           },
           sticks: {
             item: 'Vater 5A',
@@ -8924,9 +8924,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'DW 9000 Double Pedal',
+            item: 'Tama Iron Cobra 900 Rolling Glide',
             details: 'Spring-loaded double pedal, smooth action',
-            notes: 'Continued with the DW 9000 for smooth, powerful double bass response across Diamond Eyes\'s harder-driving material.',
+            notes: 'Continued with the Tama Iron Cobra for smooth, powerful double bass response across Diamond Eyes\'s harder-driving material.',
             change: null,
           },
           sticks: {

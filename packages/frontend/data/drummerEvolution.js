@@ -7814,9 +7814,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'DW 5000 Double Pedal',
-            details: 'Chain-drive double pedal',
-            notes: 'Double bass setup consistent from the early years. Chris\'s precise double bass technique was central to LoG\'s groove-metal identity.',
+            item: 'Double pedal (brand not verified for this era)',
+            details: 'Double pedal setup',
+            notes: 'Double bass setup consistent from the early years. Chris\'s precise double bass technique was central to LoG\'s groove-metal identity. Pedal brand not documented for this era.',
             change: null,
           },
           sticks: {
@@ -7884,9 +7884,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'DW 5000 Double Pedal',
-            details: 'Chain-drive continued',
-            notes: 'Same double pedal setup — proven reliability on the road.',
+            item: 'Double pedal (brand not verified for this era)',
+            details: 'Double pedal setup continued',
+            notes: 'Same double pedal setup — proven reliability on the road. Pedal brand not documented for this era.',
             change: null,
           },
           sticks: {

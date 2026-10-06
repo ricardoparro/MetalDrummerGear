@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-06 08:23 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-06 12:17 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,45 +8,45 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 402 |
-| Sessions | 437 |
-| Page views | 615 |
-| Engagement rate | 55.38% |
-| Avg session (s) | 87 |
+| Active users | 407 |
+| Sessions | 446 |
+| Page views | 631 |
+| Engagement rate | 60.76% |
+| Avg session (s) | 85 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 22 | 22 |
-| /drummers/mike-portnoy/evolution | 13 | 5 |
+| /drummers/mike-portnoy/evolution | 15 | 6 |
+| /articles/whats-in-lars-ulrichs-kit | 13 | 13 |
 | /studies/metal-tempo-by-subgenre | 13 | 3 |
-| /articles/whats-in-lars-ulrichs-kit | 12 | 13 |
 | /drummer/john-otto | 12 | 11 |
 | /drummer/mario-duplantier | 11 | 9 |
 | /drummer/bill-ward | 9 | 7 |
 | /drummer/matt-greiner | 9 | 8 |
-| /articles/slipknot-self-titled-drum-setup | 8 | 6 |
-| /drummer/joey-jordison | 8 | 8 |
+| /drummer/joey-jordison | 8 | 9 |
+| /drummer/mike-portnoy | 8 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 315 | 285 |
+| Organic Search | 350 | 316 |
 | Direct | 85 | 82 |
-| Unassigned | 41 | 39 |
-| Cross-network | 26 | 26 |
+| Unassigned | 10 | 10 |
+| Cross-network | 6 | 6 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 166 | 154 |
+| United States | 167 | 155 |
 | China | 34 | 34 |
-| United Kingdom | 24 | 21 |
-| Germany | 23 | 18 |
+| United Kingdom | 25 | 21 |
+| Germany | 24 | 19 |
 | Australia | 13 | 13 |
+| Canada | 12 | 11 |
 | Finland | 11 | 11 |
-| Canada | 10 | 10 |
 | Poland | 10 | 10 |
 | France | 9 | 9 |
 | Indonesia | 9 | 8 |

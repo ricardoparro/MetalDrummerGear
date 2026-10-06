@@ -8556,10 +8556,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'DW 5000 Double Pedal',
-            details: 'Single-chain drive — continued',
-            notes: 'Continued the DW 5000 double pedal setup used throughout his career.',
-            change: null,
+            item: 'DW 9000 Double Pedal',
+            details: 'Upgraded for the reunion era',
+            notes: 'Moved to the DW 9000 double pedal for Traced in Air (2008), retained through Kindly Bent to Free Us (2014) for the same smooth, compositional double-bass feel.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           sticks: {
             item: 'Vic Firth 5A',

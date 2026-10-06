@@ -16681,10 +16681,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'DW 5000 Series Double Pedal',
-            details: 'Chain-drive',
-            notes: 'Switched pedal brands to match the DW-adjacent snare choice.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Double pedal (brand not verified for this era)',
+            details: null,
+            notes: null,
+            change: null,
           },
           sticks: {
             item: 'Pro-Mark Hickory 5B',

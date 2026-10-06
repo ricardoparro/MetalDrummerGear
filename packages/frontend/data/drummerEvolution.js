@@ -1895,9 +1895,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Tama Hardware + DW 5000 Double Pedal',
+            item: 'Tama Hardware + double pedal (brand not verified for this era)',
             details: 'Tama stands, professional pedal',
-            notes: 'The DW 5000 double pedal was a priority investment for double bass work.',
+            notes: 'Double bass pedal brand not documented for this era.',
             change: null,
           },
           sticks: {
@@ -1924,7 +1924,7 @@ export const DRUMMER_EVOLUTION = {
           'First Mastodon recording setup',
           'Jazz-influenced approach applied to sludge metal',
           'Joined the Tama family during the Remission era',
-          'DW 5000 double pedal — priority investment for double bass work',
+          'Double bass pedal in use (brand not verified for this era)',
         ],
 
         quote: {
@@ -1966,9 +1966,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           hardware: {
-            item: 'DW 5000 Double Pedal (continued)',
-            details: 'Turbo cam version',
-            notes: 'Continued DW 5000 loyalty.',
+            item: 'Double pedal (continued, brand not verified for this era)',
+            details: 'Specific model undocumented',
+            notes: 'Pedal brand not documented for this era.',
             change: null,
           },
           sticks: {
@@ -2036,10 +2036,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'DW 9000 Double Pedal',
-            details: 'Upgraded from DW 5000',
-            notes: 'Stepped up to DW 9000 for more control at higher tempos.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Double pedal (brand not verified for this era)',
+            details: 'Specific model undocumented',
+            notes: 'Pedal brand/model not documented for this era.',
+            change: null,
           },
           sticks: {
             item: 'Vater 5B',
@@ -2063,7 +2063,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Mastodon signs to Reprise/Warner for Blood Mountain',
-          'DW 9000 double pedal upgrade',
+          'Double pedal in use (brand not verified for this era)',
           'Biggest touring cycle of the band\'s career to date',
         ],
 

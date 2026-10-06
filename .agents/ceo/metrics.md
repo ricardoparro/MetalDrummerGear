@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-06 13:05 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-06 18:14 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,89 +8,90 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 408 |
-| Sessions | 447 |
-| Page views | 631 |
-| Engagement rate | 60.63% |
-| Avg session (s) | 85 |
+| Active users | 419 |
+| Sessions | 459 |
+| Page views | 656 |
+| Engagement rate | 59.04% |
+| Avg session (s) | 97 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 22 | 22 |
+| / | 23 | 23 |
 | /drummers/mike-portnoy/evolution | 15 | 6 |
 | /articles/whats-in-lars-ulrichs-kit | 13 | 13 |
 | /studies/metal-tempo-by-subgenre | 13 | 3 |
 | /drummer/john-otto | 12 | 11 |
-| /drummer/mario-duplantier | 11 | 9 |
+| /drummer/mario-duplantier | 12 | 9 |
+| /drummers | 11 | 5 |
 | /drummer/bill-ward | 9 | 7 |
 | /drummer/matt-greiner | 9 | 8 |
 | /drummer/joey-jordison | 8 | 9 |
-| /drummer/mike-portnoy | 8 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 350 | 316 |
-| Direct | 85 | 82 |
-| Unassigned | 11 | 11 |
-| Cross-network | 6 | 6 |
+| Organic Search | 355 | 319 |
+| Direct | 88 | 85 |
+| Unassigned | 21 | 20 |
+| Cross-network | 9 | 9 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 168 | 156 |
-| China | 34 | 34 |
-| United Kingdom | 25 | 21 |
+| United States | 170 | 158 |
+| China | 36 | 36 |
+| United Kingdom | 26 | 22 |
 | Germany | 24 | 19 |
-| Australia | 13 | 13 |
-| Canada | 12 | 11 |
+| Australia | 14 | 13 |
+| Canada | 13 | 12 |
 | Finland | 11 | 11 |
+| Italy | 11 | 11 |
 | Poland | 10 | 10 |
 | France | 9 | 9 |
-| Indonesia | 9 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 9,360 |
-| Clicks | 231 |
-| CTR | 2.47% |
+| Impressions | 11,123 |
+| Clicks | 265 |
+| CTR | 2.38% |
 | Avg position | 7.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| john otto signature snare | 99 | 7 | 7.07% | 3.3 |
-| mario duplantier drum kit | 56 | 3 | 5.36% | 7.0 |
-| arin ilejay | 534 | 2 | 0.37% | 11.8 |
-| joey jordison drum kit | 73 | 2 | 2.74% | 7.2 |
+| john otto signature snare | 101 | 7 | 6.93% | 3.2 |
+| mario duplantier drum kit | 62 | 3 | 4.84% | 7.1 |
+| arin ilejay | 612 | 2 | 0.33% | 11.8 |
+| joey jordison drum kit | 86 | 2 | 2.33% | 7.3 |
 | matt greiner drum setup | 10 | 2 | 20.00% | 6.5 |
 | best metal drummers | 14 | 1 | 7.14% | 9.9 |
-| best metal drummers of all time | 36 | 1 | 2.78% | 9.9 |
+| best metal drummers ever | 4 | 1 | 25.00% | 4.8 |
+| best metal drummers of all time | 40 | 1 | 2.50% | 9.8 |
 | best snares for metal | 3 | 1 | 33.33% | 12.7 |
 | deathcore snare | 3 | 1 | 33.33% | 5.3 |
-| eloy casagrande pedals | 2 | 1 | 50.00% | 1.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,718 | 89 | 2.39% | 7.3 |
-| deu | 312 | 14 | 4.49% | 6.1 |
-| gbr | 588 | 13 | 2.21% | 7.5 |
-| fra | 169 | 8 | 4.73% | 7.4 |
-| pol | 131 | 8 | 6.11% | 6.3 |
-| aus | 307 | 7 | 2.28% | 7.7 |
-| dnk | 74 | 7 | 9.46% | 5.9 |
-| ita | 129 | 7 | 5.43% | 6.6 |
-| bra | 279 | 5 | 1.79% | 6.0 |
-| fin | 122 | 5 | 4.10% | 6.9 |
+| usa | 4,331 | 96 | 2.22% | 7.4 |
+| deu | 382 | 16 | 4.19% | 6.1 |
+| gbr | 699 | 16 | 2.29% | 7.5 |
+| aus | 380 | 9 | 2.37% | 7.7 |
+| fra | 201 | 9 | 4.48% | 7.6 |
+| pol | 153 | 9 | 5.88% | 6.4 |
+| bra | 327 | 7 | 2.14% | 6.1 |
+| dnk | 79 | 7 | 8.86% | 6.0 |
+| fin | 148 | 7 | 4.73% | 6.7 |
+| ita | 169 | 7 | 4.14% | 6.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| arin ilejay | 534 | 0.37% | 11.8 | open issue to answer better |
+| arin ilejay | 612 | 0.33% | 11.8 | open issue to answer better |
+| matt halpern | 169 | 0.59% | 8.9 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

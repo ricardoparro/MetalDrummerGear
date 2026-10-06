@@ -131,10 +131,8 @@ export const PEDAL_BRANDS = [
     founded: '1967 (Yamaha Drums division), Hamamatsu, Japan',
     parent: 'Yamaha Corporation',
     positioning:
-      "Yamaha entered the drum-hardware market in 1967, a division of the century-old Yamaha Corporation, and its FP9 double pedal is verified on the roster through Mikkey Dee's decades-long run with Motörhead and King Diamond.",
-    notableLines: [
-      { name: 'FP9', description: "Yamaha's double bass drum pedal, verified on the roster through Mikkey Dee (Motörhead, King Diamond)." },
-    ],
+      "Yamaha entered the drum-hardware market in 1967, a division of the century-old Yamaha Corporation, and its FP9 double pedal rounds out a hardware line built to match its drum kits — no drummer on the verified roster is currently documented on a Yamaha pedal.",
+    notableLines: [],
     source: { label: 'Yamaha Drums — Wikipedia', url: 'https://en.wikipedia.org/wiki/Yamaha_Drums' },
   },
   {

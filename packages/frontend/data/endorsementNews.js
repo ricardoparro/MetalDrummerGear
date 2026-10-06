@@ -2160,7 +2160,7 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Mike Mangini',
     band: 'Dream Theater',
     currentEndorsements: {
-      drums: { brand: 'Pearl', model: 'Masterworks Maple', since: '2011' },
+      drums: { brand: 'Pearl', model: 'Reference Pure', since: '2019' },
       cymbals: { brand: 'Sabian', model: 'HHX / AAX Combination', since: '2011' },
       sticks: { brand: 'Vater', model: 'Mike Mangini Wicked Piston (VHMMWP)', since: '2011' },
       heads: { brand: 'Remo', model: 'Emperor Coated / Powerstroke 3', since: '2011' },

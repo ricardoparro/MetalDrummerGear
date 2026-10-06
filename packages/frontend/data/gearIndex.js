@@ -17,6 +17,26 @@
 
 export const GEAR_INDEX = {
   "DW": {
+    "9000 Series Double Pedal": [
+      {
+        "id": 23,
+        "name": "Arin Ilejay",
+        "slug": "arin-ilejay",
+        "configString": "DW 9000 Series Double Pedal"
+      },
+      {
+        "id": 50,
+        "name": "Aquiles Priester",
+        "slug": "aquiles-priester",
+        "configString": "DW 9000 Series Double Pedal"
+      },
+      {
+        "id": 56,
+        "name": "Hannes Grossmann",
+        "slug": "hannes-grossmann",
+        "configString": "DW 9000 Series Double Pedal"
+      }
+    ],
     "9000 Series Double Pedal, DW 9100 Throne": [
       {
         "id": 10,
@@ -30,37 +50,25 @@ export const GEAR_INDEX = {
         "slug": "matt-greiner",
         "configString": "DW 9000 Series Double Pedal, DW 9100 Throne"
       }
-    ]
-  },
-  "Ludwig": {
-    "Classic Maple": [
-      {
-        "id": 30,
-        "name": "Bill Ward",
-        "slug": "bill-ward",
-        "configString": "Ludwig Classic Maple"
-      },
-      {
-        "id": 67,
-        "name": "Jon Dette",
-        "slug": "jon-dette",
-        "configString": "Ludwig Classic Maple"
-      }
-    ]
-  },
-  "Mapex": {
-    "Falcon Double Pedal, Mapex T865 Throne": [
+    ],
+    "Collector's": [
       {
         "id": 23,
         "name": "Arin Ilejay",
         "slug": "arin-ilejay",
-        "configString": "Mapex Falcon Double Pedal, Mapex T865 Throne"
+        "configString": "DW Collector's Series"
       },
       {
-        "id": 37,
-        "name": "Jason Bittner",
-        "slug": "jason-bittner",
-        "configString": "Mapex Falcon Double Pedal, Mapex T865 Throne"
+        "id": 53,
+        "name": "Matt Garstka",
+        "slug": "matt-garstka",
+        "configString": "DW Collector's Series"
+      },
+      {
+        "id": 64,
+        "name": "Sean Reinert",
+        "slug": "sean-reinert",
+        "configString": "DW Collector's Series"
       }
     ]
   },
@@ -131,22 +139,10 @@ export const GEAR_INDEX = {
         "configString": "Paiste RUDE & 2002 Series (14\" Hi-Hats, 18\" & 19\" Crashes, 20\" Power Ride, 18\" China)"
       },
       {
-        "id": 29,
-        "name": "Igor Cavalera",
-        "slug": "igor-cavalera",
-        "configString": "Paiste RUDE & 2002 Series (14\" RUDE Hi-Hats, 18\" & 19\" RUDE Crashes, 22\" RUDE Power Ride, 18\" 2002 China)"
-      },
-      {
         "id": 42,
         "name": "Scott Travis",
         "slug": "scott-travis",
         "configString": "Paiste RUDE & 2002 Series (14\" RUDE Hi-Hats, 18\" & 19\" RUDE Crashes, 22\" RUDE Power Ride, 18\" RUDE China)"
-      },
-      {
-        "id": 54,
-        "name": "Daniel Erlandsson",
-        "slug": "daniel-erlandsson",
-        "configString": "Paiste RUDE & 2002 Series (14\" RUDE Hi-Hats, 18\" & 19\" RUDE Crashes, 22\" RUDE Power Ride)"
       },
       {
         "id": 57,
@@ -171,26 +167,6 @@ export const GEAR_INDEX = {
     ]
   },
   "Pearl": {
-    "Demon Drive Double Pedal": [
-      {
-        "id": 51,
-        "name": "Paul Mazurkiewicz",
-        "slug": "paul-mazurkiewicz",
-        "configString": "Pearl Demon Drive Double Pedal"
-      },
-      {
-        "id": 54,
-        "name": "Daniel Erlandsson",
-        "slug": "daniel-erlandsson",
-        "configString": "Pearl Demon Drive Double Pedal"
-      },
-      {
-        "id": 58,
-        "name": "Jocke Wallgren",
-        "slug": "jocke-wallgren",
-        "configString": "Pearl Demon Drive Double Pedal"
-      }
-    ],
     "Demon Drive Double Pedal, Pearl D-2000 Throne": [
       {
         "id": 3,
@@ -211,18 +187,18 @@ export const GEAR_INDEX = {
         "configString": "Pearl Demon Drive Double Pedal, Pearl D-2000 Throne"
       }
     ],
-    "Demon Drive Double Pedal, Pearl D-3000 Throne": [
+    "Eliminator Double Bass Pedal": [
       {
-        "id": 35,
-        "name": "Flo Mounier",
-        "slug": "flo-mounier",
-        "configString": "Pearl Demon Drive Double Pedal, Pearl D-3000 Throne"
+        "id": 51,
+        "name": "Paul Mazurkiewicz",
+        "slug": "paul-mazurkiewicz",
+        "configString": "Pearl Eliminator Double Bass Pedal"
       },
       {
-        "id": 36,
-        "name": "Ryan Van Poederooyen",
-        "slug": "ryan-van-poederooyen",
-        "configString": "Pearl Demon Drive Double Pedal, Pearl D-3000 Throne"
+        "id": 54,
+        "name": "Daniel Erlandsson",
+        "slug": "daniel-erlandsson",
+        "configString": "Pearl Eliminator Double Bass Pedal"
       }
     ],
     "Eliminator Double Pedal": [
@@ -247,12 +223,6 @@ export const GEAR_INDEX = {
     ],
     "Masters 14x5.5\" Maple": [
       {
-        "id": 35,
-        "name": "Flo Mounier",
-        "slug": "flo-mounier",
-        "configString": "Pearl Masters 14x5.5\" Maple"
-      },
-      {
         "id": 55,
         "name": "Jaska Raatikainen",
         "slug": "jaska-raatikainen",
@@ -263,40 +233,6 @@ export const GEAR_INDEX = {
         "name": "Kevin Talley",
         "slug": "kevin-talley",
         "configString": "Pearl Masters 14x5.5\" Maple"
-      }
-    ],
-    "Masters Maple Complete": [
-      {
-        "id": 35,
-        "name": "Flo Mounier",
-        "slug": "flo-mounier",
-        "configString": "Pearl Masters Maple Complete"
-      },
-      {
-        "id": 51,
-        "name": "Paul Mazurkiewicz",
-        "slug": "paul-mazurkiewicz",
-        "configString": "Pearl Masters Maple Complete"
-      },
-      {
-        "id": 63,
-        "name": "Paul Bostaph",
-        "slug": "paul-bostaph",
-        "configString": "Pearl Masters Maple Complete (MCX)"
-      }
-    ],
-    "Masterworks Stadium Exotic": [
-      {
-        "id": 6,
-        "name": "George Kollias",
-        "slug": "george-kollias",
-        "configString": "Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)"
-      },
-      {
-        "id": 57,
-        "name": "Daray",
-        "slug": "daray",
-        "configString": "Pearl Masterworks Stadium Exotic"
       }
     ],
     "Reference": [
@@ -325,16 +261,10 @@ export const GEAR_INDEX = {
         "configString": "Pearl Reference Series"
       },
       {
-        "id": 50,
-        "name": "Aquiles Priester",
-        "slug": "aquiles-priester",
-        "configString": "Pearl Reference Series"
-      },
-      {
-        "id": 52,
-        "name": "Mike Mangini",
-        "slug": "mike-mangini",
-        "configString": "Pearl Reference Series"
+        "id": 51,
+        "name": "Paul Mazurkiewicz",
+        "slug": "paul-mazurkiewicz",
+        "configString": "Pearl Reference"
       }
     ],
     "Reference 14x6.5\" Brass": [
@@ -369,12 +299,6 @@ export const GEAR_INDEX = {
         "configString": "Pearl Reference 14x6.5\" Brass"
       },
       {
-        "id": 50,
-        "name": "Aquiles Priester",
-        "slug": "aquiles-priester",
-        "configString": "Pearl Reference 14x6.5\" Brass"
-      },
-      {
         "id": 58,
         "name": "Jocke Wallgren",
         "slug": "jocke-wallgren",
@@ -395,6 +319,12 @@ export const GEAR_INDEX = {
         "configString": "Pearl Reference Pure"
       },
       {
+        "id": 52,
+        "name": "Mike Mangini",
+        "slug": "mike-mangini",
+        "configString": "Pearl Reference Pure"
+      },
+      {
         "id": 54,
         "name": "Daniel Erlandsson",
         "slug": "daniel-erlandsson",
@@ -405,6 +335,22 @@ export const GEAR_INDEX = {
         "name": "Jocke Wallgren",
         "slug": "jocke-wallgren",
         "configString": "Pearl Reference Pure"
+      }
+    ]
+  },
+  "Promark": {
+    "5B": [
+      {
+        "id": 23,
+        "name": "Arin Ilejay",
+        "slug": "arin-ilejay",
+        "configString": "Promark 5B"
+      },
+      {
+        "id": 54,
+        "name": "Daniel Erlandsson",
+        "slug": "daniel-erlandsson",
+        "configString": "ProMark 5B"
       }
     ]
   },
@@ -481,12 +427,6 @@ export const GEAR_INDEX = {
         "configString": "Sabian HHX & AAX Series (14\" HHX Evolution Hi-Hats, 18\" & 20\" HHX Evolution Crashes, 21\" HHX Raw Bell Dry Ride, 19\" AAXtreme China)"
       },
       {
-        "id": 50,
-        "name": "Aquiles Priester",
-        "slug": "aquiles-priester",
-        "configString": "Sabian HHX & AAX Series (14\" HHX Evolution Hi-Hats, 18\" & 19\" HHX X-Plosion Crashes, 21\" HHX Groove Ride, 18\" AAX Chinese)"
-      },
-      {
         "id": 52,
         "name": "Mike Mangini",
         "slug": "mike-mangini",
@@ -533,12 +473,6 @@ export const GEAR_INDEX = {
   "Tama": {
     "S.L.P. 14x6.5\" G-Maple": [
       {
-        "id": 4,
-        "name": "Dave Lombardo",
-        "slug": "dave-lombardo",
-        "configString": "Tama S.L.P. 14x6.5\" G-Maple"
-      },
-      {
         "id": 15,
         "name": "Mario Duplantier",
         "slug": "mario-duplantier",
@@ -549,26 +483,6 @@ export const GEAR_INDEX = {
         "name": "Brann Dailor",
         "slug": "brann-dailor",
         "configString": "Tama S.L.P. 14x6.5\" G-Maple"
-      },
-      {
-        "id": 29,
-        "name": "Igor Cavalera",
-        "slug": "igor-cavalera",
-        "configString": "Tama S.L.P. 14x6.5\" G-Maple"
-      }
-    ],
-    "S.L.P. Big Black Steel 14x6.5\"": [
-      {
-        "id": 45,
-        "name": "Dirk Verbeuren",
-        "slug": "dirk-verbeuren",
-        "configString": "Tama S.L.P. Big Black Steel 14x6.5\""
-      },
-      {
-        "id": 59,
-        "name": "Tim Yeung",
-        "slug": "tim-yeung",
-        "configString": "Tama S.L.P. Big Black Steel 14x6.5\""
       }
     ],
     "Speed Cobra 910 Double Pedal": [
@@ -663,27 +577,27 @@ export const GEAR_INDEX = {
         "configString": "Tama Starclassic Maple"
       },
       {
-        "id": 4,
-        "name": "Dave Lombardo",
-        "slug": "dave-lombardo",
-        "configString": "Tama Starclassic Maple"
-      },
-      {
         "id": 25,
         "name": "Alex Bent",
         "slug": "alex-bent",
         "configString": "Tama Starclassic Maple"
       },
       {
-        "id": 29,
-        "name": "Igor Cavalera",
-        "slug": "igor-cavalera",
-        "configString": "Tama Starclassic Maple"
-      },
-      {
         "id": 34,
         "name": "Ben Koller",
         "slug": "ben-koller",
+        "configString": "Tama Starclassic Maple"
+      },
+      {
+        "id": 35,
+        "name": "Flo Mounier",
+        "slug": "flo-mounier",
+        "configString": "Tama Starclassic Maple"
+      },
+      {
+        "id": 45,
+        "name": "Dirk Verbeuren",
+        "slug": "dirk-verbeuren",
         "configString": "Tama Starclassic Maple"
       }
     ],
@@ -702,14 +616,24 @@ export const GEAR_INDEX = {
       }
     ]
   },
+  "Vater": {
+    "5B": [
+      {
+        "id": 16,
+        "name": "Brann Dailor",
+        "slug": "brann-dailor",
+        "configString": "Vater 5B"
+      },
+      {
+        "id": 44,
+        "name": "Derek Roddy",
+        "slug": "derek-roddy",
+        "configString": "Vater 5B"
+      }
+    ]
+  },
   "Vic Firth": {
     "American Classic 5A": [
-      {
-        "id": 23,
-        "name": "Arin Ilejay",
-        "slug": "arin-ilejay",
-        "configString": "Vic Firth American Classic 5A"
-      },
       {
         "id": 28,
         "name": "Morgan Ågren",
@@ -797,12 +721,6 @@ export const GEAR_INDEX = {
         "configString": "Vic Firth American Classic 5B"
       },
       {
-        "id": 31,
-        "name": "Nick Augusto",
-        "slug": "nick-augusto",
-        "configString": "Vic Firth American Classic 5B"
-      },
-      {
         "id": 34,
         "name": "Ben Koller",
         "slug": "ben-koller",
@@ -824,18 +742,6 @@ export const GEAR_INDEX = {
         "id": 42,
         "name": "Scott Travis",
         "slug": "scott-travis",
-        "configString": "Vic Firth American Classic 5B"
-      },
-      {
-        "id": 51,
-        "name": "Paul Mazurkiewicz",
-        "slug": "paul-mazurkiewicz",
-        "configString": "Vic Firth American Classic 5B"
-      },
-      {
-        "id": 54,
-        "name": "Daniel Erlandsson",
-        "slug": "daniel-erlandsson",
         "configString": "Vic Firth American Classic 5B"
       },
       {
@@ -873,6 +779,20 @@ export const GEAR_INDEX = {
     ]
   },
   "Zildjian": {
+    "A Custom": [
+      {
+        "id": 1,
+        "name": "Lars Ulrich",
+        "slug": "lars-ulrich",
+        "configString": "Zildjian A Custom Series (14\" Dyno Beat Hi-Hats, 16\", 17\" & 18\" Rock Crashes, 20\" Z Custom China, 22\" Ride)"
+      },
+      {
+        "id": 29,
+        "name": "Igor Cavalera",
+        "slug": "igor-cavalera",
+        "configString": "Zildjian A Custom Series"
+      }
+    ],
     "A Custom & K Custom": [
       {
         "id": 55,
@@ -885,6 +805,20 @@ export const GEAR_INDEX = {
         "name": "Jocke Wallgren",
         "slug": "jocke-wallgren",
         "configString": "Zildjian A Custom & K Custom Series (14\" A Custom Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" K Custom Ride)"
+      }
+    ],
+    "K Custom": [
+      {
+        "id": 39,
+        "name": "Travis Orbin",
+        "slug": "travis-orbin",
+        "configString": "Zildjian K Custom Series (14\" K Custom Dark Hi-Hats, 18\" & 19\" K Custom Dark Crashes, 21\" K Custom Ride, 18\" K Custom China)"
+      },
+      {
+        "id": 64,
+        "name": "Sean Reinert",
+        "slug": "sean-reinert",
+        "configString": "Zildjian K Custom Series"
       }
     ]
   }
@@ -926,12 +860,6 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "id": 22,
       "name": "Art Cruz",
       "slug": "art-cruz",
-      "configString": "Evans"
-    },
-    {
-      "id": 23,
-      "name": "Arin Ilejay",
-      "slug": "arin-ilejay",
       "configString": "Evans"
     },
     {
@@ -1087,6 +1015,12 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Remo Emperor (toms), Remo Powerstroke 3 (bass drums)"
     },
     {
+      "id": 23,
+      "name": "Arin Ilejay",
+      "slug": "arin-ilejay",
+      "configString": "Remo"
+    },
+    {
       "id": 25,
       "name": "Alex Bent",
       "slug": "alex-bent",
@@ -1156,7 +1090,7 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "id": 50,
       "name": "Aquiles Priester",
       "slug": "aquiles-priester",
-      "configString": "Remo"
+      "configString": "Remo Coated Ambassador / Powerstroke 3"
     },
     {
       "id": 51,

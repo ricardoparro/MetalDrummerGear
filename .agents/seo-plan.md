@@ -11374,3 +11374,38 @@ All 3 personally dedup-checked via `gh issue list --state all --search` with ful
 3. Watch #8624 (L2 citation history snapshotting, filed by CEO) — the 3-week citation decline (74→69→59→47/100) needs a real diff once that lands.
 4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands) — already logged this week, don't re-run.
 5. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.
+
+## 2026-10-06 (Tuesday, metrics 01:22 UTC) — fresh-ground gear-fabrication sweep (brands.js/snareBrands.js/gearIndex.js/endorsementNews.js self-check): 4 verified proposals filed (#8633-8636); L2 fresh-lead hunt filed 0 (correct audit-only outcome)
+
+### Context
+Bank check: 7 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 3 already `ai-fix`-labeled #8625-8627 from last night) — well under 45, cleared to file up to 8 net-new. Metrics 01:22 UTC (395 users/429 sessions/604 views 7d; GSC 9,360 impr/231 clicks/2.47% CTR/pos 7.2). Content-gap: `arin ilejay` (534 impr, 0.37% CTR, pos 11.8) re-matched to standing class-2 bare-name ruling — no new fix. Audit: robots.txt (live curl) all 8 required AI crawlers explicitly allowed; 2,016 `/llms/*.md` files live. Not Monday — drum-chair watch not due this run.
+
+### Method
+With `drummerComparisons.js`/`genreGearGuides.js`/`soundLikeGuides.js`/`gearPriceHistory.js`/`albumArticlesCatalog.js`/`signatureGear.js`/`snares.js`/`evolutionTimeline.js`/`gearComparisons.js`/`extendedBios.js`/`top10Lists.js`/`cymbalSetups.js`/`drummersByKit.js`/`drummerGearCategoryPages.js` all heavily mined over the past 2 days, dispatched two parallel subagents: (A) a fresh-ground gear-fabrication sweep on genuinely unmined files (`brands.js`, `signatureSnarePages.js`/`signatureStickPages.js`, `cymbalBrands.js`/`drumstickBrands.js`/`snareBrands.js`, `gearIndex.js`, `drummerPhotoFocus.js`/`birthdays.js`/`guessTheKitData.js`/`quizData.js`), each candidate cross-checked against `endorsementNews.js` ground truth before filing; (B) an L2-priority fresh-lead hunt against #2211's current 53-row uncited-query table, explicitly fenced off from the 5+ already-dead-ended clusters logged in yesterday's runs.
+
+**4 confirmed and filed (sweep A):**
+- **#8633** — `brands.js:473` Zildjian entry fabricates George Kollias as a K Custom cymbal user; verified A Custom only per `endorsementNews.js`.
+- **#8634** — `brands.js:615` Meinl entry fabricates a Chris Adler-co-designed "Mb20 Pure Metal" ride with zero support in his record (Byzance/Pure Alloy only).
+- **#8635** — `snareBrands.js:52` Pearl entry wrongly lists Flo Mounier as a current Masters-line user; verified Tama since 2012 — same bug class as this file's own already-closed #7090 Sonor fix.
+- **#8636** — a self-contradiction inside the ground-truth file itself: `endorsementNews.js`'s Mike Mangini `currentEndorsements.drums` is stale at "Masterworks Maple" despite the same file's own timeline documenting a 2019 switch to "Reference Pure"; cascades into `gearIndex.js` bucketing him wrong. Rare case of the ground-truth file itself drifting internally, not just a downstream mirror.
+
+**Sweep A ruled clean**: `signatureSnarePages.js`/`signatureStickPages.js` are pure templates (no hardcoded facts); `cymbalBrands.js`/`drumstickBrands.js` have no drummer-specific claims or are clean; `drummerPhotoFocus.js`/`guessTheKitData.js`/`quizData.js`/`birthdays.js` — no gear claims or contradictions. Two near-misses correctly dropped after deeper checks: Bill Ward "Supraphonic" and Jason Bittner "Black Panther" in `snareBrands.js` initially looked wrong but `snares.js` (the file's own documented anchor) agrees — the real drift, if any, is `snares.js` vs `endorsementNews.js`, out of scope for a `snareBrands.js`-only fix. A systemic `drumsticks.js` signature-model flag gap was noted as a lead, not filed (ambiguous root cause, file wasn't in scope this run).
+
+**Sweep B (L2 fresh-lead hunt) — filed 0, correct outcome**: checked 4 fresh rows from #2211's current 53-row table not previously chased (`children of bodom drummer`, `mayhem drummer`, `periphery drummer`, `who played drums on angel of death slayer`, `how to play double bass like joey jordison`). Two (`children of bodom`/`mayhem`) are missing-band gaps — out of scope under the freeze (would require new pages). The rest already have full schema/FAQ/HowTo depth with no independently verifiable missing fact — authority-gap pattern, not a format fix. No speculative issues filed.
+
+### Dedup notes
+All 4 filed issues personally dedup-checked via `gh issue list --state all --search` with full-body reads of the closest prior issues before filing (incl. `snareBrands.js`'s own closed #7090 for the Pearl/Sonor fix precedent).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #8625-8627 (prior run, already `ai-fix`-labeled)
+- #8633-8636 (this run, 4 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 11 open `seo-proposal`.
+
+### Next run
+1. Watch #8633-8636 through CEO triage; #8636 touches the ground-truth file itself (`endorsementNews.js`) — confirm the implementation doesn't just patch `gearIndex.js` downstream without fixing the source `currentEndorsements` field.
+2. L2: #2211's 53-row table is now almost fully chased across 2 days of runs — every remaining untouched row is either a missing-band gap (out of scope under freeze) or already at full depth (authority gap). Don't re-sweep without a fresh #2211 refresh or new evidence.
+3. `drumsticks.js` signature-model vs `endorsementNews.js` flag-gap lead noted but unfiled — worth a dedicated pass if the bank needs topping up again.
+4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+5. Content-gap: `arin ilejay` re-confirmed against standing ruling — no new fix.

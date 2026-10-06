@@ -80067,7 +80067,7 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
       title: "Why Power Metal Needs a Bright, Cutting Snare",
       content: `Power metal's soaring vocal melodies, galloping riffs, and sustained double-bass patterns need a snare that cuts through a dense, often orchestral or keyboard-heavy mix without ever sounding harsh. That means power metal drummers generally favor brighter, more cutting tones than doom or sludge metal's deep, resonant approach — a snare voice built to punctuate anthemic choruses and stay articulate at high tempos.
 
-Scott Travis has run his own ddrum Scott Travis Signature 14"x6.5" snare, part of his ddrum Dominion Series shell pack, since switching to ddrum for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Mapex Saturn Evolution 14"x6.5" snare, part of his signature kit, gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems since he switched to Sonor in 2010, and it continues within his current British Drum Co. kit (since 2019). Mikkey Dee's Sonor SQ2 Mikkey Dee Signature 14"x7.25" birch snare, built on his longtime Sonor SQ2 endorsement dating back to his King Diamond days, carried the final years of his 23-year Motörhead tenure and now continues with Scorpions.
+Scott Travis has run his own ddrum Scott Travis Signature 14"x6.5" snare, part of his ddrum Dominion Series shell pack, since switching to ddrum for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Mapex Saturn Evolution 14"x6.5" snare, part of his signature kit, gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems since he switched to Sonor in 2010, and it continues within his current British Drum Co. kit (since 2019). Mikkey Dee's Sonor SQ2 Mikkey Dee Signature 14"x7.25" birch snare, part of his Sonor SQ2 endorsement since 2012, carried the final years of his 23-year Motörhead tenure and now continues with Scorpions.
 
 This guide breaks down shell material, brightness, and projection for power metal snares — comparing four drummers whose setups define the genre's cutting, anthemic sound, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -80109,7 +80109,7 @@ This guide breaks down shell material, brightness, and projection for power meta
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Power metal bands tour relentlessly across festival circuits worldwide. Mikkey Dee's Sonor SQ2 Signature snare, built on his Sonor endorsement dating back to his King Diamond days, has held up across decades with Motörhead and now Scorpions — proof that a well-built shell can last decades on the road.",
+          description: "Power metal bands tour relentlessly across festival circuits worldwide. Mikkey Dee's Sonor SQ2 Signature snare, part of his Sonor endorsement since 2012, has held up across the decades with Motörhead and now Scorpions — proof that a well-built shell can last decades on the road.",
           recommendation: "Reinforced hoops and quality throw-offs that hold tuning through relentless touring"
         },
         {
@@ -80215,7 +80215,7 @@ McBrain's decades-long partnership with this signature spec proves a steel shell
           tier: "pro",
           material: "Birch (SQ2 Signature)",
 
-          description: `Mikkey Dee's Sonor SQ2 Mikkey Dee Signature 14"x7.25" birch snare, released in 2012 and built on his longtime Sonor SQ2 endorsement dating back to his King Diamond days, carried him through the final years of his 23-year Motörhead tenure — including the band's Grammy-winning "Bad Magic" (2015) — and now continues with Scorpions. The birch shell delivers a focused, cutting tone built for touring reliability.
+          description: `Mikkey Dee's Sonor SQ2 Mikkey Dee Signature 14"x7.25" birch snare, released in 2012, carried him through the final years of his 23-year Motörhead tenure — including the band's Grammy-winning "Bad Magic" (2015) — and now continues with Scorpions. The birch shell delivers a focused, cutting tone built for touring reliability.
 
 Dee's decades-long Sonor partnership shows how a signature birch platform can deliver bright cut and consistent projection night after night.`,
 

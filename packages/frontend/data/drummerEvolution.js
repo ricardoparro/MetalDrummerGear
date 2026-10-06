@@ -7472,7 +7472,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Motörhead',
     totalYearsActive: '1988-Present',
     profileImage: '/images/drummers/mikkey-dee.webp',
-    summary: 'Mikkey Dee holds one of the longest unbroken tenures in metal drumming history: 23 years as Motörhead\'s drummer, from Bastards in 1993 to Lemmy Kilmister\'s death in December 2015. His evolution spans a King Diamond apprenticeship, the full arc of Motörhead\'s later career as a relentless touring and recording machine, and a post-Motörhead chapter with Scorpions that continues today. His Sonor Drums and Paiste cymbal endorsements — both dating back to his King Diamond days — track nearly four decades of non-stop professional metal drumming.',
+    summary: 'Mikkey Dee holds one of the longest unbroken tenures in metal drumming history: 23 years as Motörhead\'s drummer, from Bastards in 1993 to Lemmy Kilmister\'s death in December 2015. His evolution spans a King Diamond apprenticeship, the full arc of Motörhead\'s later career as a relentless touring and recording machine, and a post-Motörhead chapter with Scorpions that continues today. His Paiste cymbal endorsement, in place since 1987 and overlapping his King Diamond tenure, and his Sonor Drums endorsement, established in 2012, together track nearly four decades of non-stop professional metal drumming.',
 
     eras: [
       {
@@ -7481,7 +7481,7 @@ export const DRUMMER_EVOLUTION = {
         years: '1988–1992',
         startYear: 1988,
         endYear: 1992,
-        description: 'Mikkey Dee joined King Diamond\'s band in 1988, appearing on four albums — Them (1988), Conspiracy (1989), The Eye (1990), and In Concert 1987: Abigail (live, 1991). The King Diamond years were his professional apprenticeship: technically demanding melodic metal with theatrical staging requirements, teaching Dee the discipline of consistent performance within complex arrangements. His Sonor and Paiste endorsements, both established during this period, were the foundation for everything that followed.',
+        description: 'Mikkey Dee joined King Diamond\'s band in 1988, appearing on four albums — Them (1988), Conspiracy (1989), The Eye (1990), and In Concert 1987: Abigail (live, 1991). The King Diamond years were his professional apprenticeship: technically demanding melodic metal with theatrical staging requirements, teaching Dee the discipline of consistent performance within complex arrangements. His Paiste endorsement, established during this period, was the foundation for the cymbal setup that followed; his Sonor Drums endorsement came later, in 2012.',
         albums: ['Them (1988)', 'Conspiracy (1989)', 'The Eye (1990)'],
         tours: ['King Diamond world tours 1988–1991', 'North American and European touring'],
         image: null,

@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-07 00:33 UTC*
 
 ---
+## 2026-10-07 12:19 — Cheap pulse: 4/4 fresh proposals verified+promoted (#8678-8681)
+
+### Context (≤3 lines)
+12:19 UTC cheap pulse (pre-13:00, not the mid-day boundary). Metrics 12:18 UTC (422u/464s/643v 7d; GSC 9,097 impr/224 clicks/2.46% CTR/pos 7.3). At run start: eligible `ai-fix` backlog **9**, 4 fresh untriaged `seo-proposal` (#8678-8681, filed 07:21-07:22 UTC), continuing the gear-attribution/era-drift fabrication sweep. 0 open PRs.
+
+### Actions taken
+- **Live-verified all 4 against current source + `endorsementNews.js` ground truth via direct grep** (not just trusting the issue's own citations): #8678 (Daray `albumArticles.js` — confirmed "Demon XR"/"Masterworks Stadium Exotic" fabrications vs ground-truth "Demon Drive"/"Pearl Reference Pure"), #8679 (Martin Lopez — confirmed 16 "Pearl Export" hits in `albumArticles/martin-lopez.js`, zero Pearl anywhere in his `endorsementNews.js` entry, which only documents Sonor 1997+ and Noble & Cooley 2010+), #8680 (Vinnie Paul — confirmed zero pre-2008 pedal-brand entries in ground truth yet found a direct in-file self-contradiction: lines 131-138 say "DW 5000" and lines 775-777 say "Tama Camco HP35" for the *same* album, Cowboys from Hell) all promoted clean. #8681 (Charlie Benante `public/llms/**` sprawl) also confirmed against ground truth (Tama/no-model, Paiste, Speed Cobra since 2010s) — promoted, but added a scope-gap comment: the issue's own broad verify-grep returns 77 files (not its claimed ~15), almost all aggregator/index pages (`lists.md`, `guides.md`, etc.) where the two search terms coincidentally appear in unrelated passages about other drummers — flagged so Roadie scopes to the Fix section's explicitly enumerated files, not the raw grep count.
+- **GSC content-gap**: `arin ilejay`/`joey jordison drum kit`/`matt halpern` rows all already ruled class-2 bare-name / known-oscillator (`learned-patterns.md` lines 246/250). No re-action.
+- **Founder ideas**: inbox empty, unchanged. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam. #7981 (Derek Roddy snare) still held, no new source.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-05, umbrella issues unchanged since then — not due for a fresh close-the-loop pass this run.
+- **Atomic-split sweep**: nothing open >3 days at run start (backlog was 9, all recently filed).
+- **Starvation check**: post-triage backlog 13, untriaged bank 0 — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent last ran 07:21 UTC (filed this batch), next due in its ~6h cadence window (~13:00-14:00), not yet elapsed — same recurring artifact as every prior occurrence this week, not escalating.
+
+### State delta
+- ai-fix backlog (eligible): 9 → 13 (#8678-8681 promoted)
+- seo-proposal bank (excl. held #7981, umbrellas #2211/#3810/#3819): 4 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 4/4 triaged, live-verified against ground truth, all promoted (1 with scope-gap comment). ✅ Founder ideas: inbox empty. ✅ GSC-gap: already-ruled rows, no re-action. ✅ L1/L2/L3: not due. ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8678-8681 pick up via Roadie; confirm #8681's scope-gap comment keeps Roadie from chasing the 77-file grep count.
+2. SEO Agent due ~13:00-14:00 UTC — expect next proposal batch around the mid-day pulse.
+3. #7981 (Derek Roddy snare) still held — no new external source found yet.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
+
+---
+
 ## 2026-10-07 06:19 — Cheap pulse: 8/8 fresh proposals verified+promoted (#8669-8676), 2 with corrective clarifications
 
 ### Context (≤3 lines)

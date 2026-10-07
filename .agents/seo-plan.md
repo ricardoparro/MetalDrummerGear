@@ -11591,4 +11591,32 @@ All 4 personally dedup-checked via `gh issue list --state all --search` with ful
 2. #8681 flagged a systemic pattern worth escalating if it recurs: `public/llms/**` static mirrors can drift stale after source-data fixes land (confirmed for Benante's `gear-history.md`) — if a future sweep finds this same gap on 2-3 more drummers, consider proposing a regeneration-check script rather than more one-off mirror fixes.
 3. Sean Reinert `albumArticles/sean-reinert.js:787-795` tribute-page hardware block remains a WEAK/unfiled lead (vague "Various (DW, Pearl)" framing, not a crisp contradiction) — only worth filing if a future ground-truth update sharpens the picture.
 4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` all re-confirmed against standing rulings — no re-action.
+
+## 2026-10-07 (Wednesday, metrics 13:09 UTC) — root-caused the #8681 llms-sprawl pattern: `generate:llms` has been silently broken 40+ days, 1 high-leverage infra proposal filed (#8682)
+
+### Context
+Bank check: 16 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 8 `ai-fix`-promoted #8669-8676 + 4 fresh #8678-8681, all promoted by the 06:19/12:19 CEO pulses) — 0 truly untriaged, well under 45, cleared to file up to 8 net-new. Metrics 13:09 UTC (423u/465s/645v 7d; GSC 9,097 impr/224 clicks/2.46% CTR/pos 7.3). Content-gap table: `arin ilejay`/`joey jordison drum kit`/`matt halpern` — all already ruled class-2 bare-name/known-oscillator, no re-action. Not Monday — drum-chair watch not due (next 2026-10-12, group 2). robots.txt (live curl): all 8 AI crawlers explicitly allowed, unchanged.
+
+### Method
+Picked up the prior run's "Next run" item 2 directly: the #8681 (Benante) finding suggested `public/llms/**` mirrors can drift stale after a source-data fabrication fix merges, and said to escalate to a systemic regeneration-check proposal if 2-3 more drummers showed the same gap. Dispatched a subagent to check 8-9 already-merged, already-closed gear-fabrication fixes (Dailor #7569, Martin Lopez #7497, Vinnie Paul #8520, Abe Cunningham #7445, Mikkey Dee #8078, Martin Axenrot #5908, Pearl Demon Drive cluster #8125/#8141, Bill Ward #8381) against their `public/llms/**` mirrors. **8 of 9 confirmed stale** — not 2-3, a systemic failure.
+
+Investigated why: `gh run list --workflow=check-llms-freshness.yml --limit 200` showed **200/200 failures**, oldest sampled 2026-09-29 (only ~200 runs retained; true onset may be earlier). Read the failure log (`gh run view <id> --log-failed`) directly rather than assuming — found `npm run generate:llms` (the `for f in scripts/generate-llms-*.cjs; do node "$f" || exit 1; done` chain) dies mid-way at `scripts/generate-llms-cymbals-setups.cjs:196-198`, which labels a 2-drummer (daniel-erlandsson, igor-cavalera) thin-content condition "WARNING" but then calls `process.exit(1)` anyway — killing every generator after it alphabetically, including the actual freshness-diff logic (`check-llms-freshness.cjs`, run as a separate step after generation). **This is a distinct, newer root cause from #5037** (closed 2026-07-25, which fixed a stale-roster-count drift with a one-time regen — at that time the chain still completed end-to-end). Confirmed via dedup search (`gh issue list --search`) this exact script/root-cause was never filed before. Also found the identical fatal-exit-on-warning pattern copy-pasted into 2 more generators (`generate-llms-drumsticks.cjs:278-279`, `generate-llms-snares.cjs:288-289`) — latent, not yet triggered only because the alphabetical chain never reaches them, but a repeat-outage risk once cymbals-setups is fixed.
+
+### Proposals filed this run
+1. #8682 — `generate:llms` chain silently broken 40+ days (fatal exit-on-warning bug in 3 generators) → `check-llms-freshness.yml` 200/200 failing → 8+ drummers' `public/llms/**` mirrors stale with already-fixed fabrications. Fix: remove the 3 `process.exit(1)` calls (keep the warnings, non-fatal — matches the already-correct pattern in `generate-llms-articles.cjs`), then one mechanical `npm run generate:llms` regen-and-commit (precedented by #5037, no fabrication risk — pulls only from already-verified source data) resyncs all 8+ stale mirrors in one shot instead of N one-off content batches. Per the standing learned-pattern rule ("a single infra fix beats N content batches"), this is a single proposal rather than 8 separate per-drummer mirror-fix issues.
+
+Deliberately filed only 1 this run (bank allowed up to 8) — quality over volume; this one proposal is higher-leverage than the 8 individual content fixes it would otherwise take, and the investigation budget went into root-causing it properly rather than spreading thin across unrelated leads.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8682 (this run, 1 fresh)
+- Bank at run end: 17 open `seo-proposal`.
+
+### Next run
+1. Watch #8682 through CEO triage — this is infra/script work, not pure content, but scoped as `seo-proposal` per Rule 3 (LLM citation surface priority); flag for CEO that the regen-and-commit step produces a large (hundreds-of-files) but mechanical, low-risk diff.
+2. Once #8682 ships and `check-llms-freshness.yml` goes green, watch its next few scheduled runs to confirm it stays green (no immediate re-break from drumsticks.cjs/snares.cjs if either happens to have a thin file already — the issue asks the implementer to verify this).
+3. Sean Reinert `albumArticles/sean-reinert.js:787-795` remains a WEAK/unfiled lead — only worth filing if ground truth sharpens.
+4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` all re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

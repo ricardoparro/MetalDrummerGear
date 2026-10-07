@@ -812,42 +812,42 @@ export const articles = {
       "estimatedValue": "$80-120 (1986)"
     },
     "cymbals": {
-      "title": "Sabian AA Series: Standard Tools, Extraordinary Results",
-      "brand": "Sabian",
-      "series": "Sabian AA Series",
+      "title": "Zildjian A Series: Standard Tools, Extraordinary Results",
+      "brand": "Zildjian",
+      "series": "Zildjian A Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian AA 14\" Hi-Hats",
+          "model": "Zildjian A 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Bright, cutting articulation for blast-beat precursor patterns at extreme tempos"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 16\" Medium Thin Crash",
+          "model": "Zildjian A 16\" Medium Thin Crash",
           "position": "Left of hi-hats",
           "notes": "Fast decay for syncopated accent work"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 18\" Medium Crash",
+          "model": "Zildjian A 18\" Medium Crash",
           "position": "Over rack toms",
           "notes": "Primary crash for section accents throughout the album"
         },
         {
           "type": "Ride",
-          "model": "Sabian AA 20\" Medium Ride",
+          "model": "Zildjian A 20\" Medium Ride",
           "position": "Right side",
           "notes": "Bell and bow riding for mid-tempo groove sections"
         },
         {
           "type": "China",
-          "model": "Sabian AA 18\" Chinese",
+          "model": "Zildjian A 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive accent for the album's most brutal passages"
         }
       ],
-      "description": "Gene Hoglan's cymbal selection for \"Darkness Descends\" centered on Sabian's traditional AA series — the mid-range hand-hammered standard that began his lifelong Sabian loyalty. For extreme metal at these speeds, the AA series provided two essential qualities: fast response and musical definition.\n\nThe Sabian AA 14\" hi-hats were foundational. Their heavier bottom cymbal and standard top produced the tight \"chick\" sounds that Hoglan's precision hi-hat patterns required, while offering enough complexity for the open and half-open work in more mid-tempo sections. At 247 BPM, hi-hat clarity is not a luxury; it's the difference between a comprehensible musical statement and auditory chaos. Hoglan's hi-hat work on Darkness Descends navigates that distinction repeatedly and brilliantly.\n\nThe two-crash configuration (16\" and 18\") gave Hoglan the dynamic range that compositions spanning multiple tempo and intensity levels required. The 16\" Medium Thin provided fast, punchy accents for quick syncopated work; the 18\" medium handled the album's larger section boundaries. This paired approach — lighter crash for agility, heavier crash for weight — was intuitive and effective.\n\nThe 20\" AA Medium Ride, used primarily for bell accents and mid-tempo groove sections, added textural variety that kept the album from becoming a single-dynamic exercise in extreme tempo. Even at 19, Hoglan understood that sustained maximum intensity is less impactful than intensity earned through contrast.",
+      "description": "Gene Hoglan's cymbal selection for \"Darkness Descends\" centered on Zildjian's traditional A Series — the standard he'd signed with in 1983 and the cymbals that opened his first Dark Angel recordings. For extreme metal at these speeds, the A Series provided two essential qualities: fast response and musical definition.\n\nThe Zildjian A 14\" hi-hats were foundational. Their heavier bottom cymbal and standard top produced the tight \"chick\" sounds that Hoglan's precision hi-hat patterns required, while offering enough complexity for the open and half-open work in more mid-tempo sections. At 247 BPM, hi-hat clarity is not a luxury; it's the difference between a comprehensible musical statement and auditory chaos. Hoglan's hi-hat work on Darkness Descends navigates that distinction repeatedly and brilliantly.\n\nThe two-crash configuration (16\" and 18\") gave Hoglan the dynamic range that compositions spanning multiple tempo and intensity levels required. The 16\" Medium Thin provided fast, punchy accents for quick syncopated work; the 18\" medium handled the album's larger section boundaries. This paired approach — lighter crash for agility, heavier crash for weight — was intuitive and effective.\n\nThe 20\" A Medium Ride, used primarily for bell accents and mid-tempo groove sections, added textural variety that kept the album from becoming a single-dynamic exercise in extreme tempo. Even at 19, Hoglan understood that sustained maximum intensity is less impactful than intensity earned through contrast.",
       "estimatedValue": "$700-1,000 total (1986)"
     },
     "hardware": {
@@ -942,7 +942,7 @@ export const articles = {
           "China cymbal accents used compositionally throughout",
           "Among the strongest demonstrations of Hoglan's architectural approach"
         ],
-        "gearNotes": "Sabian AA Chinese prominent in the arrangement. Independent kick drums executing compositional patterns at 220 BPM."
+        "gearNotes": "Zildjian A China prominent in the arrangement. Independent kick drums executing compositional patterns at 220 BPM."
       }
     ],
     "evolution": {
@@ -961,7 +961,7 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Sabian AA Series",
+          "then": "Zildjian A Series",
           "now": "Sabian AAX Series"
         },
         {
@@ -997,7 +997,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Gene Hoglan use on Darkness Descends?",
-        "answer": "Gene Hoglan recorded Darkness Descends (1986) using a Tama Imperialstar kit as his primary setup, augmented with custom components. His configuration included two 22\" x 16\" bass drums for his signature independent double-kick setup — separate drums with separate pedals, not a double pedal on a single drum. His snare was a Ludwig Acrolite aluminum model at 14\" x 5\", chosen for its fast response and bright crack at extreme speeds. Cymbals were Sabian AA Series — the mid-range hand-hammered standard that began his lifelong Sabian loyalty — and he used single pedals (one per kick drum) from Tama's Iron Cobra line."
+        "answer": "Gene Hoglan recorded Darkness Descends (1986) using a Tama Imperialstar kit as his primary setup, augmented with custom components. His configuration included two 22\" x 16\" bass drums for his signature independent double-kick setup — separate drums with separate pedals, not a double pedal on a single drum. His snare was a Ludwig Acrolite aluminum model at 14\" x 5\", chosen for its fast response and bright crack at extreme speeds. Cymbals were Zildjian A Series — the standard he'd signed with in 1983, during his earliest thrash recordings with Dark Angel — and he used single pedals (one per kick drum) from Tama's Iron Cobra line."
       },
       {
         "question": "How fast is the opening of Dark Angel's Darkness Descends?",
@@ -2763,7 +2763,7 @@ export const articles = {
     "dateModified": "2026-06-28",
     "author": "MetalForge Editorial",
     "title": "Leave Scars Drum Setup: Gene Hoglan's Groove-Within-Speed Mastery (Dark Angel, 1989)",
-    "description": "Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Leave Scars (1989) — the album where The Atomic Clock added groove to legendary speed. Tama Rockstar kit, Ludwig Acrolite snare, Paiste 2002 cymbals, and the techniques bridging Darkness Descends to Individual Thought Patterns.",
+    "description": "Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Leave Scars (1989) — the album where The Atomic Clock added groove to legendary speed. Tama Rockstar kit, Ludwig Acrolite snare, Zildjian A Series cymbals, and the techniques bridging Darkness Descends to Individual Thought Patterns.",
     "seoKeywords": [
       "leave scars drum setup",
       "gene hoglan dark angel 1989",
@@ -2777,13 +2777,13 @@ export const articles = {
     "ogImage": "/images/albums/leave-scars-drums.webp",
     "intro": {
       "title": "Groove Within Speed: The Atomic Clock Matures",
-      "content": "When Dark Angel released \"Leave Scars\" on November 1, 1989, Gene Hoglan was 22 years old — three years older and measurably more sophisticated than the teenager who had laid down \"Darkness Descends\" at 247 BPM. The difference between these two albums is not one of speed — Leave Scars matches and in places exceeds the tempo of its predecessor — but of integration. Where Darkness Descends established the speed standard, Leave Scars established something harder to quantify: the groove-within-speed standard.\n\n\"Leave Scars\" was recorded at Track Record Studios in North Hollywood, again with producer Bill Metoyer — the same team and facility that captured \"Darkness Descends\" three years earlier. The production is noticeably more polished: the drums have greater definition, the kick drum attack is more articulate, and Hoglan's intricate inner patterns have more room to breathe in the mix. Metoyer had refined his extreme metal production approach in the intervening years, and the results are audible throughout.\n\nGear-wise, the sessions represented a meaningful upgrade. Hoglan's primary kit had evolved from the Tama Imperialstar of the Darkness Descends sessions to a Tama Rockstar — the updated mid-professional line that Tama introduced in the late 1980s with improved shell construction and hardware. The Ludwig Acrolite snare remained constant: its aluminum shell delivering the same bright, cutting crack that had defined the 1986 album. Cymbals shifted to Paiste's 2002 series, bringing a distinctly European tonality — drier, more focused, with faster decay — to Hoglan's previously Sabian-dominated setup.\n\nThe \"Leave Scars\" sessions document the period that musicians who knew Hoglan describe consistently: a drummer actively expanding his vocabulary beyond pure speed, incorporating groove elements that would become fully developed in his death metal work. Tracks like \"Leave Scars\" and \"Never to Rise Again\" demonstrate double bass patterns that groove rather than simply drive — a compositional distinction that separates Hoglan from contemporaries who matched his velocity but not his musicality.\n\nFor context on what preceded this: see [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986). For what followed: [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) (Death, 1993). The complete Hoglan career gear overview is at [gene-hoglan-drum-setup](https://metalforge.io/articles/gene-hoglan-drum-setup).",
+      "content": "When Dark Angel released \"Leave Scars\" on November 1, 1989, Gene Hoglan was 22 years old — three years older and measurably more sophisticated than the teenager who had laid down \"Darkness Descends\" at 247 BPM. The difference between these two albums is not one of speed — Leave Scars matches and in places exceeds the tempo of its predecessor — but of integration. Where Darkness Descends established the speed standard, Leave Scars established something harder to quantify: the groove-within-speed standard.\n\n\"Leave Scars\" was recorded at Track Record Studios in North Hollywood, again with producer Bill Metoyer — the same team and facility that captured \"Darkness Descends\" three years earlier. The production is noticeably more polished: the drums have greater definition, the kick drum attack is more articulate, and Hoglan's intricate inner patterns have more room to breathe in the mix. Metoyer had refined his extreme metal production approach in the intervening years, and the results are audible throughout.\n\nGear-wise, the sessions represented a meaningful upgrade. Hoglan's primary kit had evolved from the Tama Imperialstar of the Darkness Descends sessions to a Tama Rockstar — the updated mid-professional line that Tama introduced in the late 1980s with improved shell construction and hardware. The Ludwig Acrolite snare remained constant: its aluminum shell delivering the same bright, cutting crack that had defined the 1986 album. Cymbals stayed with Zildjian's A Series — the setup Hoglan had used since signing with the brand in 1983 — carrying the same hand-hammered character forward into the more refined Leave Scars production.\n\nThe \"Leave Scars\" sessions document the period that musicians who knew Hoglan describe consistently: a drummer actively expanding his vocabulary beyond pure speed, incorporating groove elements that would become fully developed in his death metal work. Tracks like \"Leave Scars\" and \"Never to Rise Again\" demonstrate double bass patterns that groove rather than simply drive — a compositional distinction that separates Hoglan from contemporaries who matched his velocity but not his musicality.\n\nFor context on what preceded this: see [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986). For what followed: [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) (Death, 1993). The complete Hoglan career gear overview is at [gene-hoglan-drum-setup](https://metalforge.io/articles/gene-hoglan-drum-setup).",
       "keyPoints": [
         "Gene Hoglan was 22 at time of recording — three years more developed than on Darkness Descends",
         "Recorded at Track Record Studios, North Hollywood with producer Bill Metoyer",
         "Tama Rockstar kit — upgrade from the Imperialstar used on Darkness Descends",
         "Ludwig Acrolite snare maintained from previous Dark Angel sessions",
-        "Cymbals shifted from Sabian AA Series to Paiste 2002",
+        "Zildjian A Series cymbals maintained from Darkness Descends — no gear change at the cymbal position",
         "Tama Iron Cobra pedals — emerging endorsement era",
         "Released November 1, 1989 on Combat Records"
       ]
@@ -2829,43 +2829,43 @@ export const articles = {
       "estimatedValue": "$80-120 (1989)"
     },
     "cymbals": {
-      "title": "Paiste 2002: European Precision Replaces American Tradition",
-      "brand": "Paiste",
-      "series": "Paiste 2002 Series",
+      "title": "Zildjian A Series: Continuity Through the Groove Evolution",
+      "brand": "Zildjian",
+      "series": "Zildjian A Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
+          "model": "Zildjian A 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Tight, focused articulation with controlled overtones — faster decay than the Sabian AA Series used on Darkness Descends"
+          "notes": "Tight, focused articulation — the same pairing Hoglan used on Darkness Descends"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 16\" Medium Crash",
+          "model": "Zildjian A 16\" Medium Thin Crash",
           "position": "Left of hi-hats",
           "notes": "Quick decay for syncopated accent work in fast passages"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 18\" Medium Crash",
+          "model": "Zildjian A 18\" Medium Crash",
           "position": "Over rack toms",
           "notes": "Primary crash — section boundaries and climactic accents throughout the album"
         },
         {
           "type": "Ride",
-          "model": "Paiste 2002 20\" Medium Ride",
+          "model": "Zildjian A 20\" Medium Ride",
           "position": "Right side",
-          "notes": "Bell and bow riding for groove sections — more defined character than the Sabian AA on Darkness Descends"
+          "notes": "Bell and bow riding for groove sections"
         },
         {
           "type": "China",
-          "model": "Paiste 2002 18\" Novo China",
+          "model": "Zildjian A 18\" China",
           "position": "Above floor tom",
-          "notes": "Aggressive accent — cleaner and more focused than the Sabian Chinese it replaced"
+          "notes": "Aggressive accent, carried over unchanged from Darkness Descends"
         }
       ],
-      "description": "The most significant gear change between Darkness Descends and Leave Scars was at the cymbal level: Gene Hoglan shifted from Sabian's AA Series to Paiste's 2002 line — a transition that brought a distinctly European character to his sound and one that would persist through his subsequent Symbolic work with Death.\n\nPaiste's 2002 cymbals are defined by their CuSn8 bronze alloy — a tin-rich formulation that produces a drier, more focused tone than the B20 alloys typical of Sabian's production. Where Sabian AA Series cymbals have complex, warm overtones that bloom and sustain, Paiste 2002s cut and decay quickly. For extreme metal at high tempos, this faster decay prevents cymbal wash from obscuring the rhythmic patterns underneath. Every crash and hi-hat articulation on Leave Scars is distinct — there is no muddy cymbal blur in the dense passages.\n\nThe 14\" Sound Edge Hi-Hats were foundational to this setup. The Sound Edge design — a rippled bottom cymbal that reduces surface contact with the top — produces a tighter, more precise \"chick\" sound and a faster open tone. At the speeds Hoglan played, hi-hat definition determines whether patterns are legible or chaotic. The Sound Edge delivered the definition Metoyer's production could capture and preserve.\n\nThe two-crash configuration — 16\" and 18\" — maintained the approach established on Darkness Descends while providing the Paiste 2002's characteristic quick decay. The 18\" Novo China added aggressive accents that were tonally cleaner than the Sabian Chinese it replaced — less sustained, more focused, more controllable at extreme dynamics.\n\nThis cymbal shift represented Hoglan's growing awareness of how production interacts with gear choice — a consciousness that would inform every subsequent studio decision in his career.",
-      "estimatedValue": "$900-1,300 total (1989)"
+      "description": "Gene Hoglan carried the same Zildjian A Series setup from Darkness Descends into the Leave Scars sessions — there was no cymbal-level gear change between the two albums. What changed was how Metoyer's more refined production captured them: every crash and hi-hat articulation on Leave Scars is distinct, with less of the close-mic blur that occasionally muddied the 1986 sessions.\n\nThe 14\" Hi-Hats remained foundational to this setup. At the speeds Hoglan played, hi-hat definition determines whether patterns are legible or chaotic, and the improved separation at Track Record Studios let that definition come through more clearly than it had three years earlier.\n\nThe two-crash configuration — 16\" and 18\" — maintained the approach established on Darkness Descends, giving Hoglan the same dynamic range for the album's larger compositional structures. The 18\" China added the same aggressive accents heard on the debut, now rendered with Metoyer's cleaner separation.\n\nThe consistency here was deliberate rather than incidental: Hoglan had found a cymbal setup that worked, and his attention in this period went toward developing the groove vocabulary layered on top of it — not toward changing the tools underneath.",
+      "estimatedValue": "$700-1,000 total (1989)"
     },
     "hardware": {
       "title": "Tama Iron Cobra: The Endorsement Begins",
@@ -2904,12 +2904,12 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Bill Metoyer at Track Record: Refining the Formula",
-      "content": "The \"Leave Scars\" sessions saw Bill Metoyer returning to Track Record Studios with a more refined approach to extreme metal drum production than he had applied on \"Darkness Descends.\" By 1989, Metoyer had accumulated additional experience with extreme metal recording through his continued Combat Records work — and the evolution in his production approach is audible in the Leave Scars drum sound.\n\n**Microphone Setup:**\n- Kick drums: AKG D112 inside each drum, positioned closer to the beater for increased attack definition\n- Snare: Shure SM57 on top, AKG C414 underneath — adding a condenser under-mic for better wire response capture\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451 small diaphragm condenser, cardioid pattern to minimize snare bleed\n- Overheads: Condenser pair for cymbal balance and room contribution\n\n**Production Evolution:**\nThe most significant development between Darkness Descends and Leave Scars is the increased separation between elements. Each drum voice is more distinctly placed in the mix; the kick drums have greater definition; the Paiste 2002 cymbals' faster decay reduces wash compared to the Sabian AA Series on the previous album. This separation allowed the complexity of Hoglan's inner patterns to emerge more clearly in the final recording.\n\n**Performance Approach:**\nAs with Darkness Descends, Metoyer captured Hoglan's drum performances primarily as complete takes. By 1989, Hoglan had toured extensively in support of Darkness Descends and had developed the physical stamina to maintain his patterns for an album's worth of material without significant fatigue-induced inconsistency. The result is a drum performance that sounds controlled and deliberate throughout — less raw than Darkness Descends, more precise.",
+      "content": "The \"Leave Scars\" sessions saw Bill Metoyer returning to Track Record Studios with a more refined approach to extreme metal drum production than he had applied on \"Darkness Descends.\" By 1989, Metoyer had accumulated additional experience with extreme metal recording through his continued Combat Records work — and the evolution in his production approach is audible in the Leave Scars drum sound.\n\n**Microphone Setup:**\n- Kick drums: AKG D112 inside each drum, positioned closer to the beater for increased attack definition\n- Snare: Shure SM57 on top, AKG C414 underneath — adding a condenser under-mic for better wire response capture\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451 small diaphragm condenser, cardioid pattern to minimize snare bleed\n- Overheads: Condenser pair for cymbal balance and room contribution\n\n**Production Evolution:**\nThe most significant development between Darkness Descends and Leave Scars is the increased separation between elements. Each drum voice is more distinctly placed in the mix; the kick drums have greater definition; the Zildjian A Series cymbals — unchanged from the previous album — read with less wash thanks to Metoyer's more refined miking. This separation allowed the complexity of Hoglan's inner patterns to emerge more clearly in the final recording.\n\n**Performance Approach:**\nAs with Darkness Descends, Metoyer captured Hoglan's drum performances primarily as complete takes. By 1989, Hoglan had toured extensively in support of Darkness Descends and had developed the physical stamina to maintain his patterns for an album's worth of material without significant fatigue-induced inconsistency. The result is a drum performance that sounds controlled and deliberate throughout — less raw than Darkness Descends, more precise.",
       "keyTechniques": [
         "Track Record Studios, North Hollywood — same facility as Darkness Descends (1986)",
         "Bill Metoyer's evolved extreme metal production approach, three years more refined",
         "Improved kick drum definition through closer beater placement",
-        "Paiste 2002 cymbal character reduces wash — more distinct pattern articulation in dense passages"
+        "Zildjian A Series cymbals captured with more separation than Darkness Descends — more distinct pattern articulation in dense passages"
       ]
     },
     "trackAnalysis": [
@@ -2923,7 +2923,7 @@ export const articles = {
           "Hi-hat work during verses shows Hoglan's growing compositional sophistication",
           "The snare interplay with guitar riffs is more complex than on any previous Dark Angel material"
         ],
-        "gearNotes": "Tama Rockstar twin kick drums at 210 BPM. Paiste 2002 Sound Edge Hi-Hats defining the verse patterns. Ludwig Acrolite crack cutting through the arrangement."
+        "gearNotes": "Tama Rockstar twin kick drums at 210 BPM. Zildjian A Hi-Hats defining the verse patterns. Ludwig Acrolite crack cutting through the arrangement."
       },
       {
         "track": "The Death of Innocence",
@@ -2935,7 +2935,7 @@ export const articles = {
           "Dynamic range demonstrates Hoglan's growing sensitivity: contrasting sections within the same track",
           "Ghost notes audible in the cleaner Leave Scars production — early indicator of his death metal approach"
         ],
-        "gearNotes": "Paiste 2002 18\" crash as primary accent — cleaner and faster-decaying than the Sabian AA 18\" used on Darkness Descends."
+        "gearNotes": "Zildjian A 18\" crash as primary accent, unchanged from Darkness Descends — Metoyer's cleaner miking lets it cut more distinctly."
       },
       {
         "track": "Cauterization",
@@ -2947,7 +2947,7 @@ export const articles = {
           "China cymbal accents used with greater compositional precision than on previous Dark Angel material",
           "Demonstrates that Hoglan's speed had not decreased as he added groove — both capabilities fully operational"
         ],
-        "gearNotes": "Paiste 2002 Novo China accent — tonally cleaner than Sabian Chinese. Twin Iron Cobra pedals at near-maximum speed."
+        "gearNotes": "Zildjian A China accent, carried over from Darkness Descends. Twin Iron Cobra pedals at near-maximum speed."
       },
       {
         "track": "Never to Rise Again",
@@ -2959,12 +2959,12 @@ export const articles = {
           "Ride cymbal work in middle sections provides textural contrast absent from Darkness Descends",
           "One of the strongest demonstrations of Hoglan's evolution between 1986 and 1989"
         ],
-        "gearNotes": "Paiste 2002 20\" Medium Ride for sustained groove sections. Tama Rockstar floor toms — melodic fill vocabulary fully mature by this point."
+        "gearNotes": "Zildjian A 20\" Medium Ride for sustained groove sections. Tama Rockstar floor toms — melodic fill vocabulary fully mature by this point."
       }
     ],
     "evolution": {
       "title": "From Darkness Descends (1986) to Leave Scars (1989): The Groove Emerges",
-      "content": "The three years between \"Darkness Descends\" and \"Leave Scars\" represent the most important developmental period in Gene Hoglan's playing — the transition from a young drummer who played with extraordinary speed to a mature musician who could combine extraordinary speed with extraordinary groove simultaneously.\n\n**What Changed:**\nThe vocabulary established on Darkness Descends — twin kick drums, Ludwig Acrolite snare, four-tom spread, architectural approach to fills — remained intact on Leave Scars. What changed was how these tools were deployed. The double bass patterns on Leave Scars have internal movement that creates groove even at maximum velocity. The tom fills serve more complex compositional functions. The cymbal work — now centered on the faster-decaying Paiste 2002 series — is more precisely integrated into the rhythmic structures.\n\n**The Gear Bridge:**\nThe Tama Rockstar was a natural upgrade from the Imperialstar — improved hardware, more consistent tuning, better build quality across the board. The Paiste 2002 cymbal shift represented a more deliberate aesthetic choice: Hoglan was moving toward cymbals that matched his playing's precision rather than adding the complexity and sustain of the Sabian AA Series. The Iron Cobra pedals were becoming the standard platform for his double kick work.\n\n**The Death Metal Preview:**\nListening to Leave Scars in the context of what Hoglan would record four years later on Death's \"Individual Thought Patterns\" — the [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) article documents that transition in detail — the connections are audible. The ghost notes emerging in Metoyer's cleaner production, the compositional approach to fills, the groove integration at high speed: these are the building blocks of his death metal technique, developed in the context of Dark Angel's extreme thrash.",
+      "content": "The three years between \"Darkness Descends\" and \"Leave Scars\" represent the most important developmental period in Gene Hoglan's playing — the transition from a young drummer who played with extraordinary speed to a mature musician who could combine extraordinary speed with extraordinary groove simultaneously.\n\n**What Changed:**\nThe vocabulary established on Darkness Descends — twin kick drums, Ludwig Acrolite snare, four-tom spread, architectural approach to fills, Zildjian A Series cymbals — remained intact on Leave Scars. What changed was how these tools were deployed. The double bass patterns on Leave Scars have internal movement that creates groove even at maximum velocity. The tom fills serve more complex compositional functions. The cymbal work, unchanged in brand and series from the debut, is more precisely integrated into the rhythmic structures thanks to Metoyer's improved separation.\n\n**The Gear Bridge:**\nThe Tama Rockstar was a natural upgrade from the Imperialstar — improved hardware, more consistent tuning, better build quality across the board. The Zildjian A Series cymbals and Iron Cobra pedals carried over unchanged, giving Hoglan a stable sonic foundation to build his groove vocabulary on top of.\n\n**The Death Metal Preview:**\nListening to Leave Scars in the context of what Hoglan would record four years later on Death's \"Individual Thought Patterns\" — the [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) article documents that transition in detail — the connections are audible. The ghost notes emerging in Metoyer's cleaner production, the compositional approach to fills, the groove integration at high speed: these are the building blocks of his death metal technique, developed in the context of Dark Angel's extreme thrash.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -2978,8 +2978,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Sabian AA Series (Darkness Descends)",
-          "now": "Paiste 2002 Series (Leave Scars)"
+          "then": "Zildjian A Series (Darkness Descends)",
+          "now": "Zildjian A Series (Leave Scars, consistent)"
         },
         {
           "category": "Pedals",
@@ -3017,7 +3017,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Gene Hoglan use on Leave Scars?",
-        "answer": "Gene Hoglan switched from Sabian AA Series to Paiste 2002 cymbals for Dark Angel's Leave Scars (1989) — the most significant gear change from the Darkness Descends setup. The 2002 series setup included 14\" Sound Edge Hi-Hats, 16\" and 18\" Medium Crashes, a 20\" Medium Ride, and an 18\" Novo China. The Paiste 2002's CuSn8 bronze alloy produces a drier, faster-decaying tone compared to Sabian's warmer B20 alloys — a sonic choice that aligned with the cleaner, more defined production approach Bill Metoyer applied to the 1989 sessions."
+        "answer": "Gene Hoglan kept his Zildjian A Series cymbals for Dark Angel's Leave Scars (1989) — the same setup he had used on Darkness Descends (1986) and had played since signing with Zildjian in 1983. The setup included 14\" Hi-Hats, 16\" and 18\" Medium Crashes, a 20\" Medium Ride, and an 18\" China. There was no cymbal-brand change between the two albums; the cleaner, more defined sound on Leave Scars came from Bill Metoyer's more refined production approach, not a gear switch."
       },
       {
         "question": "What did Gene Hoglan record between Darkness Descends and Individual Thought Patterns?",
@@ -3026,7 +3026,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Leave Scars: Where Speed Learned to Groove",
-      "content": "\"Leave Scars\" is the essential missing piece in the Gene Hoglan origin story. It is the album that proves Darkness Descends was not a speed peak — it was a foundation. In the three years between these recordings, Hoglan developed the groove integration that would make his death metal work with Chuck Schuldiner not just fast but musical, not just technical but compelling.\n\nThe gear upgrade — Tama Rockstar over Imperialstar, Paiste 2002 over Sabian AA Series, the continuing Iron Cobra endorsement — tells the story of a young professional taking control of his sonic identity. Each choice reflects deliberation rather than accident: a drummer who understood, at 22, that precision of sound enabled precision of expression.\n\nFor drummers studying the Gene Hoglan arc through MetalForge's documentation: the chain runs from [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986) through this album and then [time-does-not-heal-drum-setup](https://metalforge.io/articles/time-does-not-heal-drum-setup) (1991) before the seismic shift to [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) (Death, 1993). The Atomic Clock was always ticking. On Leave Scars, it started to swing.\n\n🥁 *Leave Scars, 1989. The groove found the speed. The speed was already there.* 🤘"
+      "content": "\"Leave Scars\" is the essential missing piece in the Gene Hoglan origin story. It is the album that proves Darkness Descends was not a speed peak — it was a foundation. In the three years between these recordings, Hoglan developed the groove integration that would make his death metal work with Chuck Schuldiner not just fast but musical, not just technical but compelling.\n\nThe gear upgrade — Tama Rockstar over Imperialstar, with the Zildjian A Series cymbals and Iron Cobra pedals carried over unchanged — tells the story of a young professional refining his sonic identity rather than reinventing it. Each choice reflects deliberation rather than accident: a drummer who understood, at 22, that precision of sound enabled precision of expression.\n\nFor drummers studying the Gene Hoglan arc through MetalForge's documentation: the chain runs from [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986) through this album and then [time-does-not-heal-drum-setup](https://metalforge.io/articles/time-does-not-heal-drum-setup) (1991) before the seismic shift to [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) (Death, 1993). The Atomic Clock was always ticking. On Leave Scars, it started to swing.\n\n🥁 *Leave Scars, 1989. The groove found the speed. The speed was already there.* 🤘"
     }
   },
   "time-does-not-heal-drum-setup": {
@@ -3045,7 +3045,7 @@ export const articles = {
     "dateModified": "2026-06-28",
     "author": "MetalForge Editorial",
     "title": "Time Does Not Heal Drum Setup: Gene Hoglan's Dark Angel Final Chapter (1991)",
-    "description": "Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Time Does Not Heal (1991) — the band's final album and Hoglan's most sophisticated extreme thrash performance before pivoting to death metal with Death. Tama Rockstar, Ludwig Acrolite snare, Paiste 2002 cymbals.",
+    "description": "Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Time Does Not Heal (1991) — the band's final album and Hoglan's most sophisticated extreme thrash performance before pivoting to death metal with Death. Tama Rockstar, Ludwig Acrolite snare, Zildjian A Series cymbals.",
     "seoKeywords": [
       "time does not heal drum setup",
       "gene hoglan dark angel 1991",
@@ -3059,13 +3059,13 @@ export const articles = {
     "ogImage": "/images/albums/time-does-not-heal-drums.webp",
     "intro": {
       "title": "The Final Chapter: Dark Angel's Most Ambitious Record",
-      "content": "When Dark Angel released \"Time Does Not Heal\" on May 5, 1991, the band was at the peak of its compositional ambition — and within eighteen months of dissolution. Gene Hoglan was 24 years old, five years into his Dark Angel career, and recording what would prove to be the original lineup's final studio statement before Chuck Schuldiner came calling for \"Individual Thought Patterns\" in 1992.\n\nThe album represents a significant departure from Dark Angel's previous work in terms of compositional complexity. Where \"Darkness Descends\" (1986) was defined by extreme velocity and \"Leave Scars\" (1989) by the integration of groove into that velocity, \"Time Does Not Heal\" extends both approaches into longer, more architecturally complex song structures. The title track runs over eight minutes. The arrangements involve more tempo variation, more dynamic contrast, and more compositional sophistication than anything Dark Angel had previously recorded.\n\nRecorded once again at Track Record Studios in North Hollywood with producer Bill Metoyer, the 1991 sessions benefited from a production approach refined across three prior Dark Angel albums. Metoyer understood Hoglan's playing with the precision of a long-term collaborator — where to place the microphones, how much compression to apply, what the kick drums needed to cut through increasingly complex guitar arrangements.\n\nGear-wise, the sessions were consistent with \"Leave Scars\" — Tama Rockstar drums, Ludwig Acrolite snare, Paiste 2002 cymbals, Tama Iron Cobra pedals. The continuity was deliberate: Hoglan had developed a setup that worked, and there was no compelling reason to disrupt it mid-career. What evolved between these albums was not the gear but the application — how a drummer with five years of professional development used familiar tools to serve compositions of unprecedented complexity.\n\nFor what preceded this: see [leave-scars-drum-setup](https://metalforge.io/articles/leave-scars-drum-setup) (1989) and [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986). For what followed: [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) (Death, 1993). For the complete career arc: [gene-hoglan-drum-setup](https://metalforge.io/articles/gene-hoglan-drum-setup).",
+      "content": "When Dark Angel released \"Time Does Not Heal\" on May 5, 1991, the band was at the peak of its compositional ambition — and within eighteen months of dissolution. Gene Hoglan was 24 years old, five years into his Dark Angel career, and recording what would prove to be the original lineup's final studio statement before Chuck Schuldiner came calling for \"Individual Thought Patterns\" in 1992.\n\nThe album represents a significant departure from Dark Angel's previous work in terms of compositional complexity. Where \"Darkness Descends\" (1986) was defined by extreme velocity and \"Leave Scars\" (1989) by the integration of groove into that velocity, \"Time Does Not Heal\" extends both approaches into longer, more architecturally complex song structures. The title track runs over eight minutes. The arrangements involve more tempo variation, more dynamic contrast, and more compositional sophistication than anything Dark Angel had previously recorded.\n\nRecorded once again at Track Record Studios in North Hollywood with producer Bill Metoyer, the 1991 sessions benefited from a production approach refined across three prior Dark Angel albums. Metoyer understood Hoglan's playing with the precision of a long-term collaborator — where to place the microphones, how much compression to apply, what the kick drums needed to cut through increasingly complex guitar arrangements.\n\nGear-wise, the sessions were consistent with \"Leave Scars\" — Tama Rockstar drums, Ludwig Acrolite snare, Zildjian A Series cymbals, Tama Iron Cobra pedals. The continuity was deliberate: Hoglan had developed a setup that worked, and there was no compelling reason to disrupt it mid-career. What evolved between these albums was not the gear but the application — how a drummer with five years of professional development used familiar tools to serve compositions of unprecedented complexity.\n\nFor what preceded this: see [leave-scars-drum-setup](https://metalforge.io/articles/leave-scars-drum-setup) (1989) and [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986). For what followed: [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) (Death, 1993). For the complete career arc: [gene-hoglan-drum-setup](https://metalforge.io/articles/gene-hoglan-drum-setup).",
       "keyPoints": [
         "Gene Hoglan was 24 — at the peak of his Dark Angel development",
         "Dark Angel's most compositionally complex album — longer tracks, more dynamic variation",
         "Final studio album before the band dissolved in 1992",
         "Recorded at Track Record Studios, North Hollywood with producer Bill Metoyer",
-        "Consistent gear from Leave Scars: Tama Rockstar, Ludwig Acrolite, Paiste 2002",
+        "Consistent gear from Leave Scars: Tama Rockstar, Ludwig Acrolite, Zildjian A Series",
         "Title track exceeds eight minutes — compositional scale beyond any prior Dark Angel material",
         "Released May 5, 1991 on Combat Records"
       ]
@@ -3111,49 +3111,49 @@ export const articles = {
       "estimatedValue": "$80-120 (1991)"
     },
     "cymbals": {
-      "title": "Paiste 2002: The Dark Angel Sound Fully Developed",
-      "brand": "Paiste",
-      "series": "Paiste 2002 Series",
+      "title": "Zildjian A Series: The Dark Angel Sound Fully Developed",
+      "brand": "Zildjian",
+      "series": "Zildjian A Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
+          "model": "Zildjian A 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Precise articulation required for complex hi-hat patterns in extended song structures"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 16\" Medium Crash",
+          "model": "Zildjian A 16\" Medium Thin Crash",
           "position": "Left of hi-hats",
           "notes": "Fast-decaying accent for quick syncopated work in complex rhythmic passages"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 18\" Medium Crash",
+          "model": "Zildjian A 18\" Medium Crash",
           "position": "Over rack toms",
           "notes": "Primary crash for section boundaries in the album's extended song structures"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 19\" Wild Crash",
+          "model": "Zildjian A 19\" Medium Crash",
           "position": "Right of toms",
           "notes": "Heavier crash added for the album's most climactic passages — expanded over the Leave Scars setup"
         },
         {
           "type": "Ride",
-          "model": "Paiste 2002 20\" Medium Ride",
+          "model": "Zildjian A 20\" Medium Ride",
           "position": "Right side",
           "notes": "Extended use in the album's longer tracks — more prominent than on previous Dark Angel albums"
         },
         {
           "type": "China",
-          "model": "Paiste 2002 18\" Novo China",
+          "model": "Zildjian A 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive accent for the most brutal passages — consistent with Leave Scars setup"
         }
       ],
-      "description": "The Paiste 2002 cymbal setup that Gene Hoglan had introduced on \"Leave Scars\" reached its fullest Dark Angel expression on \"Time Does Not Heal.\" By 1991, Hoglan had two years of familiarity with this setup — he understood how each cymbal interacted with the others, how the Sound Edge hi-hats' focused articulation complemented the 2002 crashes' fast decay, and how the entire setup functioned within Metoyer's production.\n\nThe most significant change from the Leave Scars cymbal setup was the addition of a 19\" Wild Crash — expanding the existing 16\" and 18\" configuration with a third, heavier option for the album's most climactic passages. This expansion reflected the increased compositional scope of \"Time Does Not Heal\" — songs with more dynamic variation required more dynamic cymbal options.\n\nThe Paiste 2002's CuSn8 bronze alloy continued to deliver the drier, faster-decaying character that Hoglan had found suited his playing. In the extended song structures of \"Time Does Not Heal\" — the title track alone runs over eight minutes, with multiple distinct sections — the 2002's fast decay prevented cymbal wash from accumulating across long passages. Every accent remained distinct; every crash spoke clearly even as the arrangements around it grew more complex.\n\nThe 14\" Sound Edge Hi-Hats were particularly prominent on this album. The extended song structures gave Hoglan more room for hi-hat variation — moving between closed, half-open, and open positions within extended passages, using the hi-hat as a melodic voice rather than purely a timekeeping instrument. This approach to hi-hat work would characterize his Death recordings and establish a technique that remains part of his vocabulary today.\n\nThe 2002 setup on \"Time Does Not Heal\" represents Hoglan's cymbal approach at the peak of his Dark Angel era — and the final iteration before the Sabian HH series that marked his transition into the Death recordings.",
-      "estimatedValue": "$1,000-1,400 total (1991)"
+      "description": "The Zildjian A Series setup that Gene Hoglan had played since signing with the brand in 1983 reached its fullest Dark Angel expression on \"Time Does Not Heal.\" By 1991, Hoglan had eight years of familiarity with this setup — he understood how each cymbal interacted with the others, how the hi-hats' articulation complemented the crashes, and how the entire setup functioned within Metoyer's production.\n\nThe most significant change from the Leave Scars cymbal setup was the addition of a 19\" crash — expanding the existing 16\" and 18\" configuration with a third, heavier option for the album's most climactic passages. This expansion reflected the increased compositional scope of \"Time Does Not Heal\" — songs with more dynamic variation required more dynamic cymbal options.\n\nIn the extended song structures of \"Time Does Not Heal\" — the title track alone runs over eight minutes, with multiple distinct sections — Metoyer's refined miking kept every accent distinct; every crash spoke clearly even as the arrangements around it grew more complex.\n\nThe 14\" Hi-Hats were particularly prominent on this album. The extended song structures gave Hoglan more room for hi-hat variation — moving between closed, half-open, and open positions within extended passages, using the hi-hat as a melodic voice rather than purely a timekeeping instrument. This approach to hi-hat work would characterize his Death recordings and establish a technique that remains part of his vocabulary today.\n\nThis setup on \"Time Does Not Heal\" represents Hoglan's cymbal approach at the peak of his Dark Angel era — and the final chapter before the 1991 switch to Sabian that accompanied his move into the Death recordings.",
+      "estimatedValue": "$700-1,100 total (1991)"
     },
     "hardware": {
       "title": "Tama Iron Cobra: The Anchor of the Setup",
@@ -3211,7 +3211,7 @@ export const articles = {
           "Double bass patterns provide continuous rhythmic foundation across dramatic structural shifts",
           "Hi-hat work moves between closed, half-open, and open positions — more sophisticated than any prior Dark Angel track"
         ],
-        "gearNotes": "Full Paiste 2002 setup utilized across the track's extended structure. The 20\" Medium Ride used for sustained groove passages. Twin Iron Cobra pedals provide the rhythmic foundation across eight-plus minutes."
+        "gearNotes": "Full Zildjian A Series setup utilized across the track's extended structure. The 20\" Medium Ride used for sustained groove passages. Twin Iron Cobra pedals provide the rhythmic foundation across eight-plus minutes."
       },
       {
         "track": "The Healing Power of Destruction",
@@ -3223,7 +3223,7 @@ export const articles = {
           "China cymbal accents are precisely placed — part of the arrangement rather than generic accent points",
           "Double kick groove integration fully mature by this point in Hoglan's development"
         ],
-        "gearNotes": "Paiste 2002 Novo China prominent in the arrangement. Tama Rockstar twin kick drums at 200 BPM — five years after Darkness Descends, the speed is still there and the groove is fully integrated."
+        "gearNotes": "Zildjian A China prominent in the arrangement. Tama Rockstar twin kick drums at 200 BPM — five years after Darkness Descends, the speed is still there and the groove is fully integrated."
       },
       {
         "track": "Nothing Left",
@@ -3247,12 +3247,12 @@ export const articles = {
           "Ride cymbal used extensively — more prominent than on any prior Dark Angel track",
           "Shows the death metal compositional DNA that would emerge fully in his work with Chuck Schuldiner"
         ],
-        "gearNotes": "Paiste 2002 20\" Medium Ride extensive use — Hoglan's growing compositional relationship with the ride cymbal approaches death metal sophistication."
+        "gearNotes": "Zildjian A 20\" Medium Ride extensive use — Hoglan's growing compositional relationship with the ride cymbal approaches death metal sophistication."
       }
     ],
     "evolution": {
       "title": "From Time Does Not Heal to Individual Thought Patterns: The Pivot",
-      "content": "\"Time Does Not Heal\" closes the Dark Angel chapter of Gene Hoglan's career — and points directly toward what came next. The album's compositional complexity, extended song structures, and dynamic sophistication all anticipate the death metal context that Hoglan would enter with Chuck Schuldiner's \"Individual Thought Patterns\" in 1993.\n\n**The Dark Angel Arc:**\nAcross four albums — from the 19-year-old on \"Darkness Descends\" to the 24-year-old on \"Time Does Not Heal\" — Gene Hoglan developed from one of extreme metal's fastest drummers into one of its most compositionally sophisticated. The arc is linear: Darkness Descends established the speed standard, [leave-scars-drum-setup](https://metalforge.io/articles/leave-scars-drum-setup) (1989) added groove to that speed, and \"Time Does Not Heal\" extended both into compositions of unprecedented structural complexity.\n\n**The Gear Transition:**\nThe gear used on \"Time Does Not Heal\" — Tama Rockstar, Ludwig Acrolite, Paiste 2002 — would give way to a Tama Artstar II kit, Pearl Free-Floating snare, and Sabian HH Series cymbals by the time Hoglan recorded \"Individual Thought Patterns\" with Death in 1993, moving from Tama's mid-tier Rockstar line to the professional Artstar II series. The [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) article documents those transitions in full.\n\n**Dark Angel's Dissolution:**\nDark Angel disbanded in 1992 — within a year of \"Time Does Not Heal's\" release. The timing reflected both the band's internal pressures and the broader trajectory of extreme metal in the early 1990s, where the thrash wave that had produced Dark Angel was giving way to death metal and other directions. Hoglan read the landscape correctly: the skills he had developed over five years in Dark Angel were precisely what Chuck Schuldiner needed for his most technically demanding compositions.",
+      "content": "\"Time Does Not Heal\" closes the Dark Angel chapter of Gene Hoglan's career — and points directly toward what came next. The album's compositional complexity, extended song structures, and dynamic sophistication all anticipate the death metal context that Hoglan would enter with Chuck Schuldiner's \"Individual Thought Patterns\" in 1993.\n\n**The Dark Angel Arc:**\nAcross four albums — from the 19-year-old on \"Darkness Descends\" to the 24-year-old on \"Time Does Not Heal\" — Gene Hoglan developed from one of extreme metal's fastest drummers into one of its most compositionally sophisticated. The arc is linear: Darkness Descends established the speed standard, [leave-scars-drum-setup](https://metalforge.io/articles/leave-scars-drum-setup) (1989) added groove to that speed, and \"Time Does Not Heal\" extended both into compositions of unprecedented structural complexity.\n\n**The Gear Transition:**\nThe gear used on \"Time Does Not Heal\" — Tama Rockstar, Ludwig Acrolite, Zildjian A Series — would give way to a Tama Artstar II kit, Pearl Free-Floating snare, and Sabian HH Series cymbals by the time Hoglan recorded \"Individual Thought Patterns\" with Death in 1993, moving from Tama's mid-tier Rockstar line to the professional Artstar II series and from his longtime Zildjian cymbals to the Sabian endorsement that would define the rest of his career. The [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) article documents those transitions in full.\n\n**Dark Angel's Dissolution:**\nDark Angel disbanded in 1992 — within a year of \"Time Does Not Heal's\" release. The timing reflected both the band's internal pressures and the broader trajectory of extreme metal in the early 1990s, where the thrash wave that had produced Dark Angel was giving way to death metal and other directions. Hoglan read the landscape correctly: the skills he had developed over five years in Dark Angel were precisely what Chuck Schuldiner needed for his most technically demanding compositions.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -3266,7 +3266,7 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Paiste 2002 Series (Dark Angel era)",
+          "then": "Zildjian A Series (Dark Angel era)",
           "now": "Sabian HH Series (Death era)"
         },
         {
@@ -3309,12 +3309,12 @@ export const articles = {
       },
       {
         "question": "What drums did Gene Hoglan use on Time Does Not Heal?",
-        "answer": "Gene Hoglan recorded Dark Angel's Time Does Not Heal (1991) using a Tama Rockstar kit — the same setup he had used on Leave Scars (1989). His configuration retained the twin 22\" x 16\" bass drums for independent double-kick, with 10\" and 12\" rack toms and 14\" and 16\" floor toms. His snare remained the Ludwig Acrolite aluminum model at 14\" x 5\" — consistent throughout all Dark Angel studio albums. Cymbals were Paiste 2002 series, expanded with an added 19\" Wild Crash over the Leave Scars configuration. Pedals were Tama Iron Cobra singles, one per bass drum."
+        "answer": "Gene Hoglan recorded Dark Angel's Time Does Not Heal (1991) using a Tama Rockstar kit — the same setup he had used on Leave Scars (1989). His configuration retained the twin 22\" x 16\" bass drums for independent double-kick, with 10\" and 12\" rack toms and 14\" and 16\" floor toms. His snare remained the Ludwig Acrolite aluminum model at 14\" x 5\" — consistent throughout all Dark Angel studio albums. Cymbals were Zildjian A Series, expanded with an added 19\" crash over the Leave Scars configuration. Pedals were Tama Iron Cobra singles, one per bass drum."
       }
     ],
     "conclusion": {
       "title": "Time Does Not Heal: The Dark Angel Endgame",
-      "content": "\"Time Does Not Heal\" stands as both Dark Angel's most sophisticated studio recording and the conclusion of the arc that began with \"Darkness Descends\" in 1986. Gene Hoglan at 24 was playing at a level that the 19-year-old who had opened that earlier album at 247 BPM could not have reached — not faster, but more complete, more compositionally aware, more dynamically sophisticated.\n\nThe gear that served these sessions — Tama Rockstar, Ludwig Acrolite, Paiste 2002 — was not exotic or expensive by professional standards. But Hoglan had made it his own across multiple albums and years of touring, and the familiarity shows in the performance. Every choice on \"Time Does Not Heal\" sounds considered: the cymbal selections serve the compositions, the dynamic range serves the song structures, the double kick patterns serve the arrangements.\n\nFor drummers tracing Gene Hoglan's development through MetalForge's documentation: this album completes the Dark Angel trilogy of [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986), [leave-scars-drum-setup](https://metalforge.io/articles/leave-scars-drum-setup) (1989), and this 1991 final chapter. From here, Hoglan walked into Morrisound Recording with Chuck Schuldiner and changed the course of death metal drumming — but \"Time Does Not Heal\" made that transition possible. The Atomic Clock, in 1991, was fully wound.\n\n🥁 *Time Does Not Heal, 1991. Dark Angel's final statement. Hoglan's death metal pivot was eighteen months away.* 🤘"
+      "content": "\"Time Does Not Heal\" stands as both Dark Angel's most sophisticated studio recording and the conclusion of the arc that began with \"Darkness Descends\" in 1986. Gene Hoglan at 24 was playing at a level that the 19-year-old who had opened that earlier album at 247 BPM could not have reached — not faster, but more complete, more compositionally aware, more dynamically sophisticated.\n\nThe gear that served these sessions — Tama Rockstar, Ludwig Acrolite, Zildjian A Series — was not exotic or expensive by professional standards. But Hoglan had made it his own across multiple albums and years of touring, and the familiarity shows in the performance. Every choice on \"Time Does Not Heal\" sounds considered: the cymbal selections serve the compositions, the dynamic range serves the song structures, the double kick patterns serve the arrangements.\n\nFor drummers tracing Gene Hoglan's development through MetalForge's documentation: this album completes the Dark Angel trilogy of [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986), [leave-scars-drum-setup](https://metalforge.io/articles/leave-scars-drum-setup) (1989), and this 1991 final chapter. From here, Hoglan walked into Morrisound Recording with Chuck Schuldiner and changed the course of death metal drumming — but \"Time Does Not Heal\" made that transition possible. The Atomic Clock, in 1991, was fully wound.\n\n🥁 *Time Does Not Heal, 1991. Dark Angel's final statement. Hoglan's death metal pivot was eighteen months away.* 🤘"
     }
   }
 };

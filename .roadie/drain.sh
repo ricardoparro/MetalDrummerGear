@@ -19,9 +19,15 @@
 #      The preferred token is always tried first; on a usage/rate limit the run
 #      fails over to the backup for the rest of the run (see run_claude below).
 #      Optional: WALL_CAP_MIN, PER_ISSUE_TIMEOUT, ROADIE_WORKER_OFFSET (distinct
-#      per worker when run as a parallel fleet — see .github/workflows/roadie-night-fleet.yml).
-# Safe to run as N concurrent workers: each claims a different issue (offset +
-# `in-progress` label + pre-PR dup guard), so the fleet parallelises the drain.
+#      per worker when run as a parallel fleet — see .github/workflows/roadie-night-fleet.yml),
+#      CLAIM_SETTLE_SECS (see claim_issue below).
+# Safe to run as N concurrent workers: each targets a different issue via the
+# offset scheme below, then confirms the claim with claim_issue() (comment +
+# settle delay) BEFORE doing any real work, so a colliding pick costs one
+# cheap comment round-trip instead of a full Claude invocation + duplicate PR
+# (#8668 — offsets alone let 2-3 workers converge on the same issue because
+# the old guards, `in-progress` label + pushed branch, aren't visible to a
+# sibling worker until well after the race window).
 set -uo pipefail
 
 REPO="${REPO:?REPO required}"
@@ -111,6 +117,39 @@ open_pr_for() {
   [ -n "$(gh pr list --repo "$REPO" --state open --search "$1 in:title,body" --json number --jq '.[0].number // ""' 2>/dev/null)" ]
 }
 
+# Coordination-comment prefix used by claim_issue() below.
+CLAIM_PREFIX="🤖 roadie-claim"
+
+# Confirm (not just assume) this worker owns issue $1 before spending 25min of
+# Claude time on it. Returns 0 if WE won the claim, 1 if another worker's
+# claim is older (race lost — caller must skip, not implement).
+#
+# Why this is needed on top of next_issue()'s offset scheme (#8668): two
+# workers can resolve the SAME offset to the SAME issue because the signals
+# next_issue() relies on arrive too late to prevent it —
+#   - `branch_exists_for` only sees a branch once it's PUSHED, which doesn't
+#     happen until implement_issue() has already run Claude to completion (up
+#     to PER_ISSUE_TIMEOUT=1500s). For that entire window a sibling worker's
+#     next_issue() sees no branch at all.
+#   - the `in-progress` label IS written immediately, but `gh issue list`
+#     reads from a search index with no read-your-writes guarantee for a
+#     DIFFERENT worker's near-simultaneous query, so a sibling can still see
+#     the issue as eligible for a short window after the label lands.
+# A uniquely-tokened comment plus a settle delay sidesteps both: comments are
+# a direct resource (not a search index), so a re-read a few seconds later
+# reliably sees every comment posted in that window, and sorting by
+# (createdAt, id) deterministically picks one winner even when two workers
+# post within the same second.
+claim_issue() {
+  local n="$1" token="$2" first
+  gh issue comment "$n" --repo "$REPO" --body "${CLAIM_PREFIX} ${token}" >/dev/null 2>&1 || return 1
+  sleep "${CLAIM_SETTLE_SECS:-5}"
+  first=$(gh issue view "$n" --repo "$REPO" --json comments \
+            --jq --arg p "$CLAIM_PREFIX" \
+            '[.comments[] | select(.body | startswith($p))] | sort_by(.createdAt, .id) | .[0].body' 2>/dev/null)
+  [ "$first" = "${CLAIM_PREFIX} ${token}" ]
+}
+
 # Self-heal: clear `in-progress` orphaned by a previously killed run
 # (issue has in-progress but no open PR and no branch → reclaim it).
 reclaim_orphans() {
@@ -177,6 +216,17 @@ next_issue() {
 implement_issue() {
   local n="$1"
   TRIED[$n]=1   # record the attempt up-front so no outcome can cause a re-pick this run
+
+  # Authoritative claim BEFORE any real work — see claim_issue() for why the
+  # offset scheme alone isn't enough (#8668). A lost race means another
+  # worker is already on this issue, which is the system working as
+  # designed, not a failure — don't trip the circuit breaker.
+  local claim_token="w${ROADIE_WORKER_OFFSET}-$$-$(date -u +%s)"
+  if ! claim_issue "$n" "$claim_token"; then
+    log "#$n lost the claim race to another worker — skipping"
+    DONE_NOOP+=("$n"); return
+  fi
+
   gh issue edit "$n" --repo "$REPO" --add-label in-progress >/dev/null 2>&1 || true
 
   git checkout -q main 2>/dev/null || git checkout -qB main origin/main

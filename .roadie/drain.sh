@@ -141,12 +141,28 @@ CLAIM_PREFIX="🤖 roadie-claim"
 # (createdAt, id) deterministically picks one winner even when two workers
 # post within the same second.
 claim_issue() {
-  local n="$1" token="$2" first
+  local n="$1" token="$2" first settle since
   gh issue comment "$n" --repo "$REPO" --body "${CLAIM_PREFIX} ${token}" >/dev/null 2>&1 || return 1
-  sleep "${CLAIM_SETTLE_SECS:-5}"
-  first=$(gh issue view "$n" --repo "$REPO" --json comments \
-            --jq --arg p "$CLAIM_PREFIX" \
-            '[.comments[] | select(.body | startswith($p))] | sort_by(.createdAt, .id) | .[0].body' 2>/dev/null)
+  settle="${CLAIM_SETTLE_SECS:-5}"
+  sleep "$settle"
+  # `gh --jq` takes exactly one argument (the filter) and does NOT support a
+  # preceding `--arg` the way the real `jq` binary does — passing one here
+  # made `gh issue view` itself error out ("accepts 1 arg(s), received 4"),
+  # so `first` was always empty and every claim silently lost, forever
+  # (#8683: 15h+ total Roadie freeze, 0 PRs across day+night fleets since
+  # this claim mechanism shipped in #8677). Fix: emit raw JSON from gh and
+  # filter with the real `jq` binary, which does support --arg.
+  #
+  # Also scope to claim comments from THIS settle window only (now - settle -
+  # buffer), not all-time history: a crashed/finished run's own stale claim
+  # comment is still the oldest forever, so without this every future claim
+  # on that issue would lose to a worker that no longer exists — permanent
+  # poisoning, which is exactly what happened to #4753/#8648/#8669-8681 etc.
+  # across the 6 runs this bug was live.
+  since=$(( $(date -u +%s) - settle - 10 ))
+  first=$(gh issue view "$n" --repo "$REPO" --json comments 2>/dev/null | \
+            jq -r --arg p "$CLAIM_PREFIX" --argjson since "$since" \
+            '[.comments[] | select(.body | startswith($p)) | select((.createdAt | fromdateiso8601) >= $since)] | sort_by(.createdAt, .id) | .[0].body // ""' 2>/dev/null)
   [ "$first" = "${CLAIM_PREFIX} ${token}" ]
 }
 

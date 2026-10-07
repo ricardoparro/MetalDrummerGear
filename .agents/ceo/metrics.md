@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-07 13:09 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-07 18:15 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 423 |
-| Sessions | 465 |
-| Page views | 645 |
-| Engagement rate | 52.04% |
-| Avg session (s) | 95 |
+| Active users | 432 |
+| Sessions | 475 |
+| Page views | 660 |
+| Engagement rate | 50.95% |
+| Avg session (s) | 94 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -22,30 +22,30 @@
 | /drummer/john-otto | 13 | 12 |
 | /studies/metal-tempo-by-subgenre | 13 | 3 |
 | /articles/whats-in-lars-ulrichs-kit | 12 | 12 |
+| /drummer/mario-duplantier | 12 | 10 |
 | /drummers | 11 | 6 |
-| /drummer/mario-duplantier | 9 | 9 |
 | /articles/slipknot-self-titled-drum-setup | 8 | 7 |
+| /drummer/flo-mounier | 8 | 5 |
 | /drummer/hellhammer | 8 | 9 |
-| /drummer/joey-jordison | 8 | 9 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 321 | 285 |
-| Direct | 93 | 90 |
-| Unassigned | 56 | 52 |
-| Cross-network | 32 | 31 |
+| Organic Search | 323 | 286 |
+| Direct | 94 | 91 |
+| Unassigned | 63 | 59 |
+| Cross-network | 38 | 37 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 178 | 162 |
-| China | 44 | 44 |
+| United States | 181 | 164 |
+| China | 46 | 46 |
 | United Kingdom | 24 | 20 |
 | Germany | 21 | 17 |
+| Canada | 14 | 13 |
 | Australia | 13 | 12 |
-| Canada | 13 | 12 |
 | Finland | 11 | 11 |
 | France | 11 | 11 |
 | Italy | 10 | 10 |

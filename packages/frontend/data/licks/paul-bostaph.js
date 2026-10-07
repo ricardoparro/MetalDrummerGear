@@ -46,7 +46,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Paiste 2002 Series Cymbals",
+        "name": "Sabian AAX Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -192,7 +192,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Paiste 2002 Series Cymbals",
+        "name": "Sabian AAX Cymbals",
         "type": "cymbals",
         "link": null
       },

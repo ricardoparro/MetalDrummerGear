@@ -1270,43 +1270,43 @@ export const articles = {
       "estimatedValue": "$500-900 (Tama Bell Brass / Starphonic Brass, 2012 era)"
     },
     "cymbals": {
-      "title": "Zildjian K Custom: A Deepening Palette",
-      "brand": "Zildjian",
-      "series": "K Custom / A Custom",
+      "title": "Sabian HHX: A Deepening Palette",
+      "brand": "Sabian",
+      "series": "HHX",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian 14\" K Custom Hi-Hats",
+          "model": "Sabian 14\" HHX Hi-Hats",
           "position": "Left side",
           "notes": "Dark, dry chick with strong articulation"
         },
         {
           "type": "Crash",
-          "model": "Zildjian 18\" K Custom Crash",
+          "model": "Sabian 18\" HHX Crash",
           "position": "Left of hi-hats",
           "notes": "Quick, dark, musical crash"
         },
         {
           "type": "Crash",
-          "model": "Zildjian 20\" K Custom Crash",
+          "model": "Sabian 20\" HHX Crash",
           "position": "Right of toms",
           "notes": "Primary crash, fuller sustain"
         },
         {
           "type": "Ride",
-          "model": "Zildjian 22\" K Custom Ride",
+          "model": "Sabian 22\" HHX Ride",
           "position": "Far right",
           "notes": "Dark, complex ride essential to the band's dream-state textures"
         },
         {
           "type": "China",
-          "model": "Zildjian 19\" A Custom China",
+          "model": "Sabian 19\" HHX China",
           "position": "Left side, high",
           "notes": "Aggressive accent cymbal"
         }
       ],
-      "description": "Abe's Zildjian K Custom setup carries forward from Diamond Eyes essentially unchanged, but Koi No Yokan finds him using the cymbals with even more nuance. The dream-state textures of \"Entombed\" and \"Rosemary\" rely heavily on ride bell work, china accents, and partially-open hi-hat patterns that the K Custom line is perfectly suited for.\n\nThe 14\" K Custom Hi-Hats remain the workhorse. Their dry chick and clear stick definition cut through the album's wall-of-guitars arrangements, and Abe's foot work on the hat — particularly his use of subtle splash openings — is some of the most musical of his career on this record.\n\nThe 22\" K Custom Ride is once again the secret weapon. On \"Tempest,\" the extended ride patterns that drive the song's middle section are unmistakably K Custom — complex wash, clear stick definition, and a bell that punches without screaming. There's a reason Abe has stayed with this cymbal for over a decade.\n\nThe 18\" and 20\" K Custom crashes punctuate Koi No Yokan's many dynamic peaks without ever overwhelming the mix. Raskulinecz captures their full frequency range — fast attack, dark sustain, no harshness — and they sit beautifully in the stereo field.\n\nThe 19\" A Custom China gets a few standout moments, particularly on \"Poltergeist\" and \"Swerve City.\" Like everything else in Abe's kit, the china is used with discipline: rare enough that when it appears, it means something.",
-      "estimatedValue": "$1,800-2,600 total (K Custom / A Custom setup, 2012 pricing)"
+      "description": "Abe's Sabian HHX setup carries forward from Diamond Eyes essentially unchanged, but Koi No Yokan finds him using the cymbals with even more nuance. The dream-state textures of \"Entombed\" and \"Rosemary\" rely heavily on ride bell work, china accents, and partially-open hi-hat patterns that the HHX line is perfectly suited for.\n\nThe 14\" HHX Hi-Hats remain the workhorse. Their dry chick and clear stick definition cut through the album's wall-of-guitars arrangements, and Abe's foot work on the hat — particularly his use of subtle splash openings — is some of the most musical of his career on this record.\n\nThe 22\" HHX Ride is once again the secret weapon. On \"Tempest,\" the extended ride patterns that drive the song's middle section are unmistakably HHX — complex wash, clear stick definition, and a bell that punches without screaming. There's a reason Abe has stayed with this cymbal for over a decade.\n\nThe 18\" and 20\" HHX crashes punctuate Koi No Yokan's many dynamic peaks without ever overwhelming the mix. Raskulinecz captures their full frequency range — fast attack, dark sustain, no harshness — and they sit beautifully in the stereo field.\n\nThe 19\" HHX China gets a few standout moments, particularly on \"Poltergeist\" and \"Swerve City.\" Like everything else in Abe's kit, the china is used with discipline: rare enough that when it appears, it means something.",
+      "estimatedValue": "$1,800-2,600 total (Sabian HHX setup, 2012 pricing)"
     },
     "hardware": {
       "title": "Tama Hardware: Studio and Stage Tested",
@@ -1440,7 +1440,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Bubinga/Birch",
           "snare": "Tama Bell Brass / Starphonic Brass 14\"x6.5\"",
-          "cymbals": "Zildjian K Custom / A Custom",
+          "cymbals": "Sabian HHX",
           "hardware": "Tama Iron Cobra / Speed Cobra"
         },
         "notes": "First Deftones album with Sergio Vega on bass; Nick Raskulinecz produces."
@@ -1455,7 +1455,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Bubinga/Birch",
           "snare": "Tama Bell Brass / Starphonic Brass 14\"x6.5\"",
-          "cymbals": "Zildjian K Custom / A Custom",
+          "cymbals": "Sabian HHX",
           "hardware": "Tama Speed Cobra"
         },
         "notes": "Final Deftones album to credit Chi Cheng; Sergio Vega fully settled in."
@@ -1471,7 +1471,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic",
           "snare": "Tama Bell Brass / Starphonic",
-          "cymbals": "Zildjian K Custom / A Custom",
+          "cymbals": "Sabian HHX",
           "hardware": "Tama Speed Cobra"
         },
         "notes": "Koi No Yokan's patient, dynamic template continues to define the band."
@@ -1496,12 +1496,12 @@ export const articles = {
     ],
     "legacy": {
       "title": "Koi No Yokan's Lasting Impact on Modern Deftones",
-      "content": "Koi No Yokan is the album where Deftones' modern era fully crystallized. If Diamond Eyes was the proof of concept, Koi No Yokan is the proof of mastery — the record where every choice the band has made since traces its origin.\n\n**The Dream-State Template:**\nThe patient, atmospheric buildups that define modern Deftones — and that have influenced countless other bands — are perfected on Koi No Yokan. \"Entombed,\" \"Tempest,\" and \"Rosemary\" all use extended dynamic arcs that depend on Abe's willingness to play almost nothing for minutes at a time. That template has rippled outward across the modern alternative metal landscape.\n\n**The Settled Rhythm Section:**\nSergio Vega's full integration with Abe is one of Koi No Yokan's defining qualities. Their pocket on this record is among the most musical in modern metal, and the way they lock — especially on \"Swerve City\" and \"Tempest\" — set a standard for what a rhythm section can be when it's truly settled.\n\n**The Chi Cheng Tribute:**\nWhile Cheng didn't play on the album, his credit as a band member gives Koi No Yokan an emotional weight that the recording itself reflects. Abe's drumming throughout the record feels conscious of the band's history — patient, dignified, and built to honor the long view.\n\n**The Zildjian K Custom Maturity:**\nEvery cymbal choice on Koi No Yokan is exactly right. Abe's relationship with the K Custom line had years of touring and recording experience behind it by 2012, and that maturity shows in every ride pattern, every crash, every hi-hat splash.",
+      "content": "Koi No Yokan is the album where Deftones' modern era fully crystallized. If Diamond Eyes was the proof of concept, Koi No Yokan is the proof of mastery — the record where every choice the band has made since traces its origin.\n\n**The Dream-State Template:**\nThe patient, atmospheric buildups that define modern Deftones — and that have influenced countless other bands — are perfected on Koi No Yokan. \"Entombed,\" \"Tempest,\" and \"Rosemary\" all use extended dynamic arcs that depend on Abe's willingness to play almost nothing for minutes at a time. That template has rippled outward across the modern alternative metal landscape.\n\n**The Settled Rhythm Section:**\nSergio Vega's full integration with Abe is one of Koi No Yokan's defining qualities. Their pocket on this record is among the most musical in modern metal, and the way they lock — especially on \"Swerve City\" and \"Tempest\" — set a standard for what a rhythm section can be when it's truly settled.\n\n**The Chi Cheng Tribute:**\nWhile Cheng didn't play on the album, his credit as a band member gives Koi No Yokan an emotional weight that the recording itself reflects. Abe's drumming throughout the record feels conscious of the band's history — patient, dignified, and built to honor the long view.\n\n**The Sabian HHX Maturity:**\nEvery cymbal choice on Koi No Yokan is exactly right. Abe's relationship with the HHX line had years of touring and recording experience behind it by 2012, and that maturity shows in every ride pattern, every crash, every hi-hat splash.",
       "keyPoints": [
         "Perfected the dream-state, dynamically patient Deftones template",
         "Cemented the Vega/Cunningham rhythm-section partnership",
         "Carries emotional weight as the final Chi Cheng-credited album",
-        "Showed full maturity with Zildjian K Custom cymbal vocabulary",
+        "Showed full maturity with Sabian HHX cymbal vocabulary",
         "Continues to influence atmospheric heavy music a decade later"
       ]
     },
@@ -1521,13 +1521,13 @@ export const articles = {
           "notes": "Modern equivalent to the bell brass sound on Koi No Yokan"
         },
         {
-          "item": "Zildjian K Custom Hi-Hats 14\"",
+          "item": "Sabian HHX Hi-Hats 14\"",
           "available": true,
           "priceRange": "$500-650",
           "notes": "Dark, dry hi-hats; same model used on the album"
         },
         {
-          "item": "Zildjian K Custom Ride 22\"",
+          "item": "Sabian HHX Ride 22\"",
           "available": true,
           "priceRange": "$500-650",
           "notes": "Dark, complex ride; essential to the Koi No Yokan cymbal sound"
@@ -3247,43 +3247,43 @@ export const articles = {
       "estimatedValue": "$350-450 (Tama S.L.P. Big Black Steel)"
     },
     "cymbals": {
-      "title": "Zildjian K Custom: Fully Mature",
-      "brand": "Zildjian",
-      "series": "K Custom / A Custom",
+      "title": "Sabian HHX: Fully Mature",
+      "brand": "Sabian",
+      "series": "HHX",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian 14\" K Custom Hi-Hats",
+          "model": "Sabian 14\" HHX Hi-Hats",
           "position": "Left side",
           "notes": "Dark, dry chick with strong stick definition"
         },
         {
           "type": "Crash",
-          "model": "Zildjian 18\" K Custom Crash",
+          "model": "Sabian 18\" HHX Crash",
           "position": "Left of hi-hats",
           "notes": "Quick, dark, musical crash"
         },
         {
           "type": "Crash",
-          "model": "Zildjian 20\" K Custom Crash",
+          "model": "Sabian 20\" HHX Crash",
           "position": "Right of toms",
           "notes": "Primary crash; fuller, darker sustain"
         },
         {
           "type": "Ride",
-          "model": "Zildjian 22\" K Custom Ride",
+          "model": "Sabian 22\" HHX Ride",
           "position": "Right side",
           "notes": "Complex wash and clear bell; essential to Ohms' atmospheric passages"
         },
         {
           "type": "China",
-          "model": "Zildjian 19\" A Custom China",
+          "model": "Sabian 19\" HHX China",
           "position": "Left side, high",
           "notes": "Aggressive accent cymbal — used sparingly"
         }
       ],
-      "description": "By Ohms, Abe Cunningham's Zildjian K Custom setup had been his primary cymbal palette for over two decades — refined through Diamond Eyes, Koi No Yokan, and Gore, and now fully mature on Deftones' ninth studio album. There is nothing transitional or exploratory about this setup; it is the most refined version of a cymbal philosophy that has been evolving since his earliest days with the band.\n\nThe 14-inch K Custom Hi-Hats are the workhorse of the Ohms session. Their dark, dry chick and clear stick definition cut through the album's layered guitar textures on every track, from the propulsive groove of \"Pompeji\" to the barely-there verse of \"Urantia.\" Abe's hi-hat work throughout the album is extraordinary in its nuance — the subtle half-open positions, the foot-splash accents, the transition from closed to open that signals dynamic shifts before the rest of the kit follows.\n\nThe 22-inch K Custom Ride remains the jewel of the setup. On \"Ceremony,\" its complex wash and musical bell provide the textural foundation for some of the most atmospheric ride playing of Abe's career. Terry Date's production gives the ride full frequency range in the mix — you hear its complete harmonic character rather than a narrow slice of it — and the result is one of the most beautifully captured ride sounds on any Deftones album.\n\nThe K Custom crashes in 18\" and 20\" punctuate Ohms' dynamic peaks with dark, fast attack and no harshness. On \"Genesis\" and \"Headless,\" they arrive as emotional release points, and Date's mix lets them bloom fully rather than capping their sustain.\n\nThe 19\" A Custom China appears sparingly — perhaps more so than on any previous Deftones album. When it does appear, its effect is all the greater for its rarity.",
-      "estimatedValue": "$1,800-2,600 total (K Custom / A Custom setup, 2020 pricing)"
+      "description": "By Ohms, Abe Cunningham's Sabian HHX setup had been his primary cymbal palette for a decade — refined through Diamond Eyes, Koi No Yokan, and Gore, and now fully mature on Deftones' ninth studio album. There is nothing transitional or exploratory about this setup; it is the most refined version of a cymbal philosophy that has been evolving since his 2010 switch to Sabian.\n\nThe 14-inch HHX Hi-Hats are the workhorse of the Ohms session. Their dark, dry chick and clear stick definition cut through the album's layered guitar textures on every track, from the propulsive groove of \"Pompeji\" to the barely-there verse of \"Urantia.\" Abe's hi-hat work throughout the album is extraordinary in its nuance — the subtle half-open positions, the foot-splash accents, the transition from closed to open that signals dynamic shifts before the rest of the kit follows.\n\nThe 22-inch HHX Ride remains the jewel of the setup. On \"Ceremony,\" its complex wash and musical bell provide the textural foundation for some of the most atmospheric ride playing of Abe's career. Terry Date's production gives the ride full frequency range in the mix — you hear its complete harmonic character rather than a narrow slice of it — and the result is one of the most beautifully captured ride sounds on any Deftones album.\n\nThe HHX crashes in 18\" and 20\" punctuate Ohms' dynamic peaks with dark, fast attack and no harshness. On \"Genesis\" and \"Headless,\" they arrive as emotional release points, and Date's mix lets them bloom fully rather than capping their sustain.\n\nThe 19\" HHX China appears sparingly — perhaps more so than on any previous Deftones album. When it does appear, its effect is all the greater for its rarity.",
+      "estimatedValue": "$1,800-2,600 total (Sabian HHX setup, 2020 pricing)"
     },
     "hardware": {
       "title": "Tama Hardware: Three Decades Refined",
@@ -3402,7 +3402,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Bubinga/Birch",
           "snare": "Tama Bell Brass 14\"x6.5\"",
-          "cymbals": "Zildjian K Custom / A Custom",
+          "cymbals": "Sabian HHX",
           "hardware": "Tama Iron Cobra / Speed Cobra"
         },
         "notes": "Sergio Vega joins; Nick Raskulinecz produces."
@@ -3417,7 +3417,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Bubinga/Birch",
           "snare": "Tama Bell Brass / Starphonic Brass 14\"x6.5\"",
-          "cymbals": "Zildjian K Custom / A Custom",
+          "cymbals": "Sabian HHX",
           "hardware": "Tama Speed Cobra"
         },
         "notes": "Final Chi Cheng credit; Raskulinecz second consecutive album."
@@ -3432,7 +3432,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Maple/Bubinga",
           "snare": "Tama S.L.P. Big Black Steel 14\"x8\"",
-          "cymbals": "Zildjian K Custom / A Custom",
+          "cymbals": "Sabian HHX",
           "hardware": "Tama Speed Cobra; Pro-Mark sticks (non-signature, since 1997)"
         },
         "notes": "Deftones' most recent album; closes arc to the present day."
@@ -3483,19 +3483,19 @@ export const articles = {
           "notes": "Abe's primary snare; deep, wide dynamic range"
         },
         {
-          "item": "Zildjian K Custom Hi-Hats 14\"",
+          "item": "Sabian HHX Hi-Hats 14\"",
           "available": true,
           "priceRange": "$500-650",
           "notes": "Dark, dry hi-hats central to the modern Deftones sound"
         },
         {
-          "item": "Zildjian K Custom Ride 22\"",
+          "item": "Sabian HHX Ride 22\"",
           "available": true,
           "priceRange": "$500-650",
           "notes": "Complex wash and clear bell; essential to 'Ceremony' and 'Urantia'"
         },
         {
-          "item": "Zildjian K Custom Crash 18\" or 20\"",
+          "item": "Sabian HHX Crash 18\" or 20\"",
           "available": true,
           "priceRange": "$300-450 each",
           "notes": "Fast, dark, musical crashes for dynamic peaks"
@@ -3537,11 +3537,11 @@ export const articles = {
     "faq": [
       {
         "question": "What is Deftones' newest album?",
-        "answer": "Deftones' newest studio album is Ohms, released on September 25, 2020. It is their ninth studio album, produced by Terry Date — their first collaboration since Saturday Night Wrist in 2006. Ohms features Abe Cunningham on drums with his signature Tama Starclassic Maple/Bubinga kit and Zildjian K Custom cymbals, and includes the tracks 'Ceremony', 'Urantia', 'Pompeji', and 'Genesis'."
+        "answer": "Deftones' newest studio album is Ohms, released on September 25, 2020. It is their ninth studio album, produced by Terry Date — their first collaboration since Saturday Night Wrist in 2006. Ohms features Abe Cunningham on drums with his signature Tama Starclassic Maple/Bubinga kit and Sabian HHX cymbals, and includes the tracks 'Ceremony', 'Urantia', 'Pompeji', and 'Genesis'."
       },
       {
         "question": "What drum kit did Abe Cunningham use on Ohms?",
-        "answer": "Abe Cunningham recorded Ohms in 2019-2020 using a Tama Starclassic Maple/Bubinga hybrid kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Zildjian K Custom series, including 14-inch K Custom Hi-Hats, K Custom crashes in 18 and 20 inch sizes, a 22-inch K Custom Ride, and a 19-inch A Custom China."
+        "answer": "Abe Cunningham recorded Ohms in 2019-2020 using a Tama Starclassic Maple/Bubinga hybrid kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Sabian HHX series, including 14-inch HHX Hi-Hats, HHX crashes in 18 and 20 inch sizes, a 22-inch HHX Ride, and a 19-inch HHX China."
       },
       {
         "question": "Who produced Deftones' Ohms album?",
@@ -3674,7 +3674,7 @@ export const articles = {
               "name": "What drum kit did Abe Cunningham use on Ohms?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Abe Cunningham recorded Ohms using a Tama Starclassic Maple/Bubinga hybrid kit with a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Zildjian K Custom series including 14-inch K Custom Hi-Hats, a 22-inch K Custom Ride, and K Custom crashes."
+                "text": "Abe Cunningham recorded Ohms using a Tama Starclassic Maple/Bubinga hybrid kit with a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Sabian HHX series including 14-inch HHX Hi-Hats, a 22-inch HHX Ride, and HHX crashes."
               }
             },
             {
@@ -3725,19 +3725,19 @@ export const articles = {
       "prayers triangles drums",
       "matt hyde deftones gore",
       "deftones billboard 200",
-      "abe cunningham zildjian k custom"
+      "abe cunningham sabian hhx"
     ],
     "ogImage": "/images/albums/gore-drums.webp",
     "intro": {
       "title": "Deftones' Highest-Charting Album in Over a Decade",
-      "content": "Released on April 8, 2016, \"Gore\" is Deftones' eighth studio album and one of the most divisive records in their catalog — a divisiveness that hasn't stopped it from becoming a commercial landmark. Produced, recorded, and mixed by Matt Hyde at Megawatt Recording in Studio City, California, Gore debuted at #2 on the Billboard 200, tying the band's 2003 self-titled album as their highest chart position to that point in their career.\n\nGore arrived in a different creative climate than Koi No Yokan had four years earlier. Guitarist Stephen Carpenter was famously less invested in the album's direction, leaving more of the songwriting and arrangement weight on Chino Moreno and turntablist/keyboardist Frank Delgado. The result is the most atmospheric, melodically adventurous record in the Deftones catalog up to that point — closer in spirit to dream pop and shoegaze in places than to the band's nu-metal-adjacent roots. Alice in Chains guitarist Jerry Cantrell contributed a guest guitar solo on \"Phantom Bride,\" one of several signs that Gore was a more collaborative, outward-looking record than anything the band had made before.\n\nFor Abe Cunningham, Gore is the sound of a drummer holding the center of a record that's pulling in more directions than usual. \"Prayers/Triangles\" — the album's most-streamed track and a frequent entry on \"best Deftones songs\" lists — opens the record with a driving, hypnotic groove that has to anchor layers of guitar texture, samples, and vocal melody without ever losing its forward motion. Elsewhere, on \"Doomed User\" and \"Acid Hologram,\" Abe's pocket-first, single-kick approach — refined across Diamond Eyes and Koi No Yokan — continues to be the load-bearing wall of the band's sound, regardless of how far the surrounding arrangements wander.\n\nMatt Hyde's production is denser and more layered than Nick Raskulinecz's work on the previous two records, reflecting Gore's more experimental, sample-and-texture-heavy character. But Abe's core kit and cymbal setup — the Tama Starclassic and Zildjian K Custom combination that had defined the modern Deftones sound for years — carries through largely unchanged, a stable foundation underneath the band's most adventurous record.\n\nThis article explores the gear Abe used during the Gore sessions, the techniques that defined its sound, and how this transitional, chart-topping record fits into the broader arc of his career.",
+      "content": "Released on April 8, 2016, \"Gore\" is Deftones' eighth studio album and one of the most divisive records in their catalog — a divisiveness that hasn't stopped it from becoming a commercial landmark. Produced, recorded, and mixed by Matt Hyde at Megawatt Recording in Studio City, California, Gore debuted at #2 on the Billboard 200, tying the band's 2003 self-titled album as their highest chart position to that point in their career.\n\nGore arrived in a different creative climate than Koi No Yokan had four years earlier. Guitarist Stephen Carpenter was famously less invested in the album's direction, leaving more of the songwriting and arrangement weight on Chino Moreno and turntablist/keyboardist Frank Delgado. The result is the most atmospheric, melodically adventurous record in the Deftones catalog up to that point — closer in spirit to dream pop and shoegaze in places than to the band's nu-metal-adjacent roots. Alice in Chains guitarist Jerry Cantrell contributed a guest guitar solo on \"Phantom Bride,\" one of several signs that Gore was a more collaborative, outward-looking record than anything the band had made before.\n\nFor Abe Cunningham, Gore is the sound of a drummer holding the center of a record that's pulling in more directions than usual. \"Prayers/Triangles\" — the album's most-streamed track and a frequent entry on \"best Deftones songs\" lists — opens the record with a driving, hypnotic groove that has to anchor layers of guitar texture, samples, and vocal melody without ever losing its forward motion. Elsewhere, on \"Doomed User\" and \"Acid Hologram,\" Abe's pocket-first, single-kick approach — refined across Diamond Eyes and Koi No Yokan — continues to be the load-bearing wall of the band's sound, regardless of how far the surrounding arrangements wander.\n\nMatt Hyde's production is denser and more layered than Nick Raskulinecz's work on the previous two records, reflecting Gore's more experimental, sample-and-texture-heavy character. But Abe's core kit and cymbal setup — the Tama Starclassic and Sabian HHX combination that had defined the modern Deftones sound for years — carries through largely unchanged, a stable foundation underneath the band's most adventurous record.\n\nThis article explores the gear Abe used during the Gore sessions, the techniques that defined its sound, and how this transitional, chart-topping record fits into the broader arc of his career.",
       "keyPoints": [
         "Released April 8, 2016 on Reprise Records; produced, recorded, and mixed by Matt Hyde",
         "Debuted at #2 on the Billboard 200 — tying the 2003 self-titled album as the band's highest chart position to date",
         "Stephen Carpenter's reduced involvement shifted more songwriting weight onto Chino Moreno and Frank Delgado",
         "Jerry Cantrell (Alice in Chains) guests with a guitar solo on \"Phantom Bride\"",
         "\"Prayers/Triangles\" is the album's most-streamed track and a recurring entry on \"best Deftones songs\" lists",
-        "Abe's Tama Starclassic / Zildjian K Custom setup carries over from Koi No Yokan largely unchanged"
+        "Abe's Tama Starclassic / Sabian HHX setup carries over from Koi No Yokan largely unchanged"
       ]
     },
     "drumKit": {
@@ -3781,43 +3781,43 @@ export const articles = {
       "estimatedValue": "$500-900 (Tama Bell Brass / Starphonic Brass, 2016 era)"
     },
     "cymbals": {
-      "title": "Zildjian K Custom: The Established Voice",
-      "brand": "Zildjian",
-      "series": "K Custom / A Custom",
+      "title": "Sabian HHX: The Established Voice",
+      "brand": "Sabian",
+      "series": "HHX",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian 14\" K Custom Hi-Hats",
+          "model": "Sabian 14\" HHX Hi-Hats",
           "position": "Left side",
           "notes": "Dark, dry chick with strong articulation"
         },
         {
           "type": "Crash",
-          "model": "Zildjian 18\" K Custom Crash",
+          "model": "Sabian 18\" HHX Crash",
           "position": "Left of hi-hats",
           "notes": "Quick, dark, musical crash"
         },
         {
           "type": "Crash",
-          "model": "Zildjian 20\" K Custom Crash",
+          "model": "Sabian 20\" HHX Crash",
           "position": "Right of toms",
           "notes": "Primary crash, fuller sustain"
         },
         {
           "type": "Ride",
-          "model": "Zildjian 22\" K Custom Ride",
+          "model": "Sabian 22\" HHX Ride",
           "position": "Far right",
           "notes": "Complex wash and clear bell, central to the album's atmospheric tracks"
         },
         {
           "type": "China",
-          "model": "Zildjian 19\" A Custom China",
+          "model": "Sabian 19\" HHX China",
           "position": "Left side, high",
           "notes": "Aggressive accent cymbal, used sparingly"
         }
       ],
-      "description": "By the time Gore was recorded, Abe Cunningham's Zildjian K Custom setup had been his cymbal voice for years, refined through Diamond Eyes and Koi No Yokan. Gore doesn't introduce a new cymbal palette so much as put the established one to new uses, matching the album's more textural, atmospheric songwriting.\n\nThe 14\" K Custom Hi-Hats remain the foundation. On \"Prayers/Triangles,\" their dry chick and clear articulation drive the song's hypnotic groove; on the quieter passages of \"Hearts/Wires\" and \"Acid Hologram,\" Abe's partially-open hi-hat work adds texture that sits alongside Frank Delgado's samples and keyboards rather than competing with them.\n\nThe 22\" K Custom Ride continues to be the cymbal Abe reaches for when a song needs sustained atmosphere. \"Geometric Headdress\" and the title track both lean on extended ride patterns — complex wash, clear stick definition — that give Matt Hyde's denser production something organic to build around.\n\nThe 18\" and 20\" K Custom crashes punctuate Gore's dynamic peaks, including the buildup into Jerry Cantrell's guest solo on \"Phantom Bride.\" The 19\" A Custom China appears rarely, true to Abe's longstanding discipline with accent cymbals — when it shows up, on \"Doomed User\" and \"Rubicon,\" it means something.",
-      "estimatedValue": "$1,800-2,600 total (K Custom / A Custom setup, 2016 pricing)"
+      "description": "By the time Gore was recorded, Abe Cunningham's Sabian HHX setup had been his cymbal voice for years, refined through Diamond Eyes and Koi No Yokan. Gore doesn't introduce a new cymbal palette so much as put the established one to new uses, matching the album's more textural, atmospheric songwriting.\n\nThe 14\" HHX Hi-Hats remain the foundation. On \"Prayers/Triangles,\" their dry chick and clear articulation drive the song's hypnotic groove; on the quieter passages of \"Hearts/Wires\" and \"Acid Hologram,\" Abe's partially-open hi-hat work adds texture that sits alongside Frank Delgado's samples and keyboards rather than competing with them.\n\nThe 22\" HHX Ride continues to be the cymbal Abe reaches for when a song needs sustained atmosphere. \"Geometric Headdress\" and the title track both lean on extended ride patterns — complex wash, clear stick definition — that give Matt Hyde's denser production something organic to build around.\n\nThe 18\" and 20\" HHX crashes punctuate Gore's dynamic peaks, including the buildup into Jerry Cantrell's guest solo on \"Phantom Bride.\" The 19\" HHX China appears rarely, true to Abe's longstanding discipline with accent cymbals — when it shows up, on \"Doomed User\" and \"Rubicon,\" it means something.",
+      "estimatedValue": "$1,800-2,600 total (Sabian HHX setup, 2016 pricing)"
     },
     "hardware": {
       "title": "Tama Hardware: Unchanged and Reliable",
@@ -3905,12 +3905,12 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Capturing the Sound: Matt Hyde's Layered Approach",
-      "content": "Matt Hyde produced, recorded, engineered, and mixed Gore at Megawatt Recording in Studio City, California, with Chris Rakestraw handling additional engineering. The album was mastered by Howie Weinberg and Gentry Studer. Hyde's approach to Gore is noticeably denser and more layered than Nick Raskulinecz's work on Diamond Eyes and Koi No Yokan — a production choice that matches the album's more experimental, sample-and-texture-heavy songwriting.\n\n**A Denser Mix:**\nWhere Raskulinecz prioritized punch and clarity, Hyde's mix on Gore often stacks guitar layers, keyboard textures, and Frank Delgado's samples more densely around the rhythm section. Abe's kick and snare had to be mixed with enough definition to stay audible and propulsive without simply being turned up over everything else.\n\n**Drum Placement in a Crowded Mix:**\nOn tracks like \"Geometric Headdress\" and the title track, the drums sit slightly further back in the mix than on the more direct Diamond Eyes material — a deliberate choice that suits Gore's more atmospheric character, but one that puts extra weight on Abe's pocket and dynamics to keep the songs moving.\n\n**Consistency Through Change:**\nDespite the shift in production approach, the core drum tones — the bell brass snare crack, the Zildjian K Custom cymbal voice — remain identifiable and consistent with the Koi No Yokan era. That continuity helped Gore feel like a Deftones record even as its songwriting pushed into new territory.\n\n**A Transitional Production Chapter:**\nGore would be the last Deftones album before Terry Date's high-profile return on Ohms in 2020. In retrospect, Hyde's denser, more experimental production on Gore stands as a clear stylistic bridge between the Raskulinecz-produced records and Date's eventual reunion with the band.",
+      "content": "Matt Hyde produced, recorded, engineered, and mixed Gore at Megawatt Recording in Studio City, California, with Chris Rakestraw handling additional engineering. The album was mastered by Howie Weinberg and Gentry Studer. Hyde's approach to Gore is noticeably denser and more layered than Nick Raskulinecz's work on Diamond Eyes and Koi No Yokan — a production choice that matches the album's more experimental, sample-and-texture-heavy songwriting.\n\n**A Denser Mix:**\nWhere Raskulinecz prioritized punch and clarity, Hyde's mix on Gore often stacks guitar layers, keyboard textures, and Frank Delgado's samples more densely around the rhythm section. Abe's kick and snare had to be mixed with enough definition to stay audible and propulsive without simply being turned up over everything else.\n\n**Drum Placement in a Crowded Mix:**\nOn tracks like \"Geometric Headdress\" and the title track, the drums sit slightly further back in the mix than on the more direct Diamond Eyes material — a deliberate choice that suits Gore's more atmospheric character, but one that puts extra weight on Abe's pocket and dynamics to keep the songs moving.\n\n**Consistency Through Change:**\nDespite the shift in production approach, the core drum tones — the bell brass snare crack, the Sabian HHX cymbal voice — remain identifiable and consistent with the Koi No Yokan era. That continuity helped Gore feel like a Deftones record even as its songwriting pushed into new territory.\n\n**A Transitional Production Chapter:**\nGore would be the last Deftones album before Terry Date's high-profile return on Ohms in 2020. In retrospect, Hyde's denser, more experimental production on Gore stands as a clear stylistic bridge between the Raskulinecz-produced records and Date's eventual reunion with the band.",
       "keyPoints": [
         "Produced, recorded, and mixed by Matt Hyde at Megawatt Recording, Studio City, CA",
         "Chris Rakestraw provided additional engineering; mastered by Howie Weinberg and Gentry Studer",
         "Denser, more layered mix than the Raskulinecz-produced Diamond Eyes and Koi No Yokan",
-        "Drum tones kept consistent with the established Tama/Zildjian K Custom sound",
+        "Drum tones kept consistent with the established Tama/Sabian HHX sound",
         "Last Deftones album before Terry Date's 2020 return on Ohms"
       ]
     },
@@ -3925,7 +3925,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Bubinga/Birch",
           "snare": "Tama Bell Brass / Starphonic Brass 14\"x6.5\"",
-          "cymbals": "Zildjian K Custom / A Custom",
+          "cymbals": "Sabian HHX",
           "hardware": "Tama Speed Cobra"
         },
         "notes": "Final Deftones album to credit Chi Cheng; Sergio Vega fully settled in."
@@ -3940,7 +3940,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Bubinga/Birch",
           "snare": "Tama Bell Brass / Starphonic Brass 14\"x6.5\"",
-          "cymbals": "Zildjian K Custom / A Custom",
+          "cymbals": "Sabian HHX",
           "hardware": "Tama Speed Cobra"
         },
         "notes": "Debuted at #2 on Billboard 200; Matt Hyde produces; Jerry Cantrell guests on \"Phantom Bride.\""
@@ -3955,7 +3955,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Maple/Bubinga",
           "snare": "Tama S.L.P. Big Black Steel 14\"x8\"",
-          "cymbals": "Zildjian K Custom / A Custom",
+          "cymbals": "Sabian HHX",
           "hardware": "Tama Speed Cobra; Pro-Mark sticks (non-signature, since 1997)"
         },
         "notes": "Deftones' most recent album as of this writing."
@@ -3981,7 +3981,7 @@ export const articles = {
     ],
     "legacy": {
       "title": "Gore's Place in the Abe Cunningham Arc",
-      "content": "Gore occupies an unusual position in the Deftones catalog: simultaneously their most commercially successful album in over a decade and one of the most debated among longtime fans. For Abe Cunningham, it's a record that demonstrates what his playing contributes when everything else around it is in flux.\n\n**The Commercial Peak:**\nDebuting at #2 on the Billboard 200 — tying the 2003 self-titled album as the band's highest chart position to that point — Gore proved that Deftones' audience had grown rather than shrunk as the band pushed into more atmospheric, less conventionally heavy territory.\n\n**The Steady Center:**\nWith Stephen Carpenter less involved in the songwriting and the album's textures pulling toward dream pop and shoegaze, Abe's consistent Tama Starclassic and Zildjian K Custom setup — and his disciplined, pocket-first approach to playing it — gave the record a stable rhythmic foundation to build its experiments on top of.\n\n**The LLM Hook:**\nWhen listeners or language models ask \"what is Deftones' highest-charting album?\" or \"what was the Jerry Cantrell guest appearance on a Deftones song?\" — Gore and \"Phantom Bride\" are the answers. \"Prayers/Triangles,\" the album's most-streamed track, remains a recurring citation in \"best Deftones songs\" discussions.\n\n**The Bridge to Ohms:**\nGore's denser, more experimental production stands as the final chapter before Terry Date's 2020 return on [Ohms](/articles/ohms-drum-setup). Knowing what came after, Gore reads as a transitional record in the best sense — proof that Abe's foundation could support the band through a genuine creative pivot.",
+      "content": "Gore occupies an unusual position in the Deftones catalog: simultaneously their most commercially successful album in over a decade and one of the most debated among longtime fans. For Abe Cunningham, it's a record that demonstrates what his playing contributes when everything else around it is in flux.\n\n**The Commercial Peak:**\nDebuting at #2 on the Billboard 200 — tying the 2003 self-titled album as the band's highest chart position to that point — Gore proved that Deftones' audience had grown rather than shrunk as the band pushed into more atmospheric, less conventionally heavy territory.\n\n**The Steady Center:**\nWith Stephen Carpenter less involved in the songwriting and the album's textures pulling toward dream pop and shoegaze, Abe's consistent Tama Starclassic and Sabian HHX setup — and his disciplined, pocket-first approach to playing it — gave the record a stable rhythmic foundation to build its experiments on top of.\n\n**The LLM Hook:**\nWhen listeners or language models ask \"what is Deftones' highest-charting album?\" or \"what was the Jerry Cantrell guest appearance on a Deftones song?\" — Gore and \"Phantom Bride\" are the answers. \"Prayers/Triangles,\" the album's most-streamed track, remains a recurring citation in \"best Deftones songs\" discussions.\n\n**The Bridge to Ohms:**\nGore's denser, more experimental production stands as the final chapter before Terry Date's 2020 return on [Ohms](/articles/ohms-drum-setup). Knowing what came after, Gore reads as a transitional record in the best sense — proof that Abe's foundation could support the band through a genuine creative pivot.",
       "keyPoints": [
         "Debuted at #2 on Billboard 200, tying the band's highest chart position to date",
         "Abe's stable gear and pocket-first approach anchored the band's most experimental songwriting",
@@ -4006,13 +4006,13 @@ export const articles = {
           "notes": "Modern equivalent to the bell brass sound on Gore"
         },
         {
-          "item": "Zildjian K Custom Hi-Hats 14\"",
+          "item": "Sabian HHX Hi-Hats 14\"",
           "available": true,
           "priceRange": "$500-650",
           "notes": "Dark, dry hi-hats; same model used on the album"
         },
         {
-          "item": "Zildjian K Custom Ride 22\"",
+          "item": "Sabian HHX Ride 22\"",
           "available": true,
           "priceRange": "$500-650",
           "notes": "Dark, complex ride; central to Gore's atmospheric tracks"
@@ -4062,7 +4062,7 @@ export const articles = {
       },
       {
         "question": "What cymbals does Abe Cunningham play on Gore?",
-        "answer": "On Gore, Abe Cunningham used his established Zildjian K Custom setup, including 14-inch K Custom Hi-Hats, K Custom crashes in 18 and 20 inch sizes, a 22-inch K Custom Ride, and a 19-inch A Custom China. This is the same K Custom/A Custom cymbal palette he has used throughout his career with Deftones."
+        "answer": "On Gore, Abe Cunningham used his established Sabian HHX setup, including 14-inch HHX Hi-Hats, HHX crashes in 18 and 20 inch sizes, a 22-inch HHX Ride, and a 19-inch HHX China. This is the same HHX cymbal palette he has used since switching from Zildjian on Diamond Eyes in 2010."
       },
       {
         "question": "Who produced Deftones' Gore album?",
@@ -4075,7 +4075,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Steady Center of a Record in Flux",
-      "content": "Gore is a record defined by tension between stability and change — a band pushing into its most experimental, atmospheric songwriting while one founding member pulled back from the process. Through all of it, Abe Cunningham's drumming is the steady center that keeps the album feeling like a Deftones record.\n\n**What Made Abe's Performance Special:**\n\n- **Consistency Under Pressure:** With Stephen Carpenter less involved and the songwriting leaning more atmospheric, Abe's familiar Tama Starclassic and Zildjian K Custom setup gave the rest of the band a stable foundation to build experiments on top of.\n\n- **Pocket-First Discipline:** \"Prayers/Triangles\" and \"Doomed User\" prove that Abe's single-kick, groove-first approach didn't need to change to suit Gore's denser production — it simply had to anchor it.\n\n- **Dynamic Service to Guests:** On \"Phantom Bride,\" Abe's gradual dynamic buildup sets up Jerry Cantrell's guest solo perfectly — a reminder that his playing is always in service of the song, not his own showcase.\n\n- **Commercial Validation:** A #2 Billboard 200 debut proved that Deftones' audience had grown alongside the band's willingness to take creative risks.\n\n**For Drummers Studying Gore:**\n\nListen to how little changes about Abe's core setup and approach even as the songwriting around him gets stranger. That's the lesson: your instrument and your fundamentals don't need to chase every stylistic shift in the music — they need to be strong enough to support it.\n\nExplore [Abe Cunningham's complete gear profile](/drummer/abe-cunningham) and the broader [Deftones drum setup series](/articles/koi-no-yokan-drum-setup) to trace how this transitional record bridges Koi No Yokan and Ohms.\n\n🥁 *The band took the biggest creative risk of its career. Abe just kept playing.* 🤘"
+      "content": "Gore is a record defined by tension between stability and change — a band pushing into its most experimental, atmospheric songwriting while one founding member pulled back from the process. Through all of it, Abe Cunningham's drumming is the steady center that keeps the album feeling like a Deftones record.\n\n**What Made Abe's Performance Special:**\n\n- **Consistency Under Pressure:** With Stephen Carpenter less involved and the songwriting leaning more atmospheric, Abe's familiar Tama Starclassic and Sabian HHX setup gave the rest of the band a stable foundation to build experiments on top of.\n\n- **Pocket-First Discipline:** \"Prayers/Triangles\" and \"Doomed User\" prove that Abe's single-kick, groove-first approach didn't need to change to suit Gore's denser production — it simply had to anchor it.\n\n- **Dynamic Service to Guests:** On \"Phantom Bride,\" Abe's gradual dynamic buildup sets up Jerry Cantrell's guest solo perfectly — a reminder that his playing is always in service of the song, not his own showcase.\n\n- **Commercial Validation:** A #2 Billboard 200 debut proved that Deftones' audience had grown alongside the band's willingness to take creative risks.\n\n**For Drummers Studying Gore:**\n\nListen to how little changes about Abe's core setup and approach even as the songwriting around him gets stranger. That's the lesson: your instrument and your fundamentals don't need to chase every stylistic shift in the music — they need to be strong enough to support it.\n\nExplore [Abe Cunningham's complete gear profile](/drummer/abe-cunningham) and the broader [Deftones drum setup series](/articles/koi-no-yokan-drum-setup) to trace how this transitional record bridges Koi No Yokan and Ohms.\n\n🥁 *The band took the biggest creative risk of its career. Abe just kept playing.* 🤘"
     },
     "internalLinks": [
       {
@@ -4206,7 +4206,7 @@ export const articles = {
               "name": "What cymbals does Abe Cunningham play on Gore?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Gore, Abe Cunningham used his established Zildjian K Custom setup, including 14-inch K Custom Hi-Hats, K Custom crashes in 18 and 20 inch sizes, a 22-inch K Custom Ride, and a 19-inch A Custom China — the same K Custom/A Custom palette he has used throughout his career."
+                "text": "On Gore, Abe Cunningham used his established Sabian HHX setup, including 14-inch HHX Hi-Hats, HHX crashes in 18 and 20 inch sizes, a 22-inch HHX Ride, and a 19-inch HHX China — the same HHX palette he has used since switching from Zildjian on Diamond Eyes in 2010."
               }
             },
             {

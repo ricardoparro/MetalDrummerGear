@@ -11519,3 +11519,42 @@ None. Gear-consistency sweep, structured-data/broken-images/robots/llms audits, 
 3. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
 4. Content-gap: `arin ilejay` and `matt halpern` both re-confirmed against the standing class-2 bare-name ruling — no re-action unless SERP shape changes.
 5. L2 (#2211): last refreshed 2026-10-05 16:20 UTC (weekly cadence) — not due for a fresh chase; the 53-row table remains fully chased from this week's earlier runs.
+
+## 2026-10-07 (Wednesday, metrics 01:26 UTC) — fresh-ground fabrication sweep: licks/*.js + albumArticles/*.js, 8 proposals filed (#8669-8676)
+
+### Context
+Bank check: 4 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy) — 0 truly untriaged, well under 45, cleared to file up to 8 net-new. Metrics 01:26 UTC (396u/434s/615v 7d; GSC 9,097 impr/224 clicks/2.46% CTR/pos 7.3). Content-gap table: `arin ilejay`/`joey jordison drum kit`/`matt halpern` — all 3 already ruled class-2 bare-name/known-oscillator (learned-patterns.md), no re-action. Not Monday — drum-chair watch not due (next 2026-10-12, group 2).
+
+### Audit
+- robots.txt (`api/robots.js`): all 8 AI crawlers explicitly allowed — unchanged, not re-verified live this run (confirmed clean in last several runs).
+- `/llms/*.md`: 2,016+ files live per last run's count — unchanged.
+- Per the 2026-10-06 19:0X run's note ("gear-fabrication sweep now covers essentially every data file ... remaining unswept: licks/*.js, albumArticles/*.js"), dispatched two parallel subagents to sweep these two previously-unmined per-drummer file families (73 licks files, 72 albumArticles files) against `endorsementNews.js` structured-timeline ground truth, each with dedup checks via `gh issue list --search` before reporting.
+
+### Method
+Licks sweep found 5 confirmed candidates; albumArticles sweep found 10 confirmed candidates (15 total). Personally spot-verified the top 3 picks directly via grep/read against both the claim file and `endorsementNews.js` before filing (nicko-mcbrain Premier fabrication, charlie-benante Starclassic/Iron Cobra fabrication, shannon-larkin DW→Pearl→DW pedal arc) — all 3 confirmed exactly as reported. Selected the 8 highest-confidence/highest-impact of the 15 for this run's cap; the remaining 7 (mario-duplantier pedal anachronism, george-kollias pedal-date anachronism, daray stale Pearl, martin-lopez off-by-one-album, matt-greiner fabricated cymbals, vinnie-paul unverified pre-2008 pedals, sean-reinert stale hardware gap) are solid leads for a future run, not yet filed.
+
+### Proposals filed this run
+1. #8669 — Nicko McBrain `albumArticles/nicko-mcbrain.js` fabricates an entire "Premier" drum-brand era across 3 album sections (highest impact: invents a brand relationship that doesn't exist in `endorsementNews.js` at all — real arc is Pearl→Yamaha→Sonor→British Drum Co.)
+2. #8670 — Charlie Benante `licks/charlie-benante.js` fabricates "Tama Starclassic"/"Iron Cobra" model names across all 6 entries (verified: no model name documented pre-2010s)
+3. #8671 — Paul Bostaph `licks/paul-bostaph.js` wrong cymbal brand (Paiste 2002) mixed into a 2015-era Pearl/Vater/Sabian rig, gap left by closed #6896/#8470 which fixed the other 3 fields but not cymbals
+4. #8672 — Matt Halpern `licks/matt-halpern.js` **regression**: drum brand reverted to Pearl (closed #7031 already fixed this to Yamaha) plus a new fabricated "Istanbul Agop" cymbal brand never in his record
+5. #8673 — Shannon Larkin `albumArticles/shannon-larkin.js` fabricates a DW→Pearl→DW pedal-brand switch across 2 albums; ground truth is unbroken DW 9000 since 2002
+6. #8674 — Gene Hoglan `albumArticles/gene-hoglan.js` invents a Sabian→Paiste cymbal switch during the Dark Angel era (3 albums); real brand throughout is Zildjian (signed 1983)
+7. #8675 — Abe Cunningham `albumArticles/abe-cunningham.js` stale "Zildjian" on 3 post-2010 albums despite a documented 2010 Sabian HHX switch, gap left by closed #7372/#7445 (fixed only 1 other section)
+8. #8676 — Scott Travis `albumArticles/scott-travis.js` "no gear changes since 1990" narrative erases 2 documented switches (Tama→Pearl→ddrum), same bug class as closed #8471 in a different file
+
+### Dedup notes
+All 8 personally dedup-checked (directly or via subagent + my own spot-check) against `gh issue list --state all --search` before filing; each issue body cites the specific closed issue(s) that fixed adjacent-but-not-identical scope in the same file, so the CEO/implementer can see why this isn't a re-file.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8669-8676 (this run, 8 fresh)
+- Bank at run end: 12 open `seo-proposal`.
+
+### Next run
+1. Watch #8669-8676 through CEO triage and implementation.
+2. 7 solid leads not yet filed from this sweep (see Method above) — worth filing next time the bank needs topping up, without re-running the full sweep.
+3. `licks/*.js` and `albumArticles/*.js` are now swept once each — if a future sweep comes up dry on the 7 remaining leads, the next productive angle is likely `licks/`/`albumArticles/` files not yet checked for non-brand factual drift (album years, song details) rather than another gear-brand pass.
+4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` all re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

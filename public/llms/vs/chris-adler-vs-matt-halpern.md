@@ -10,10 +10,10 @@ Lamb of God's Chris Adler vs Periphery's Matt Halpern. Groove metal's syncopated
 
 ## Chris Adler Setup
 
-- **Drums:** Mapex Black Panther Design Lab
+- **Drums:** Mapex Saturn in Satin Black Maple Burl
 - **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)
 - **Snare:** Mapex Chris Adler Signature 14x5.5" Walnut/Maple
-- **Pedals/Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
+- **Pedals/Hardware:** Trick Pro V Double Pedal
 - **Sticks:** Promark TX5AXW Chris Adler Signature
 
 ## Matt Halpern Setup
@@ -34,7 +34,7 @@ Adler's technique is built on obsessive precision — tight, syncopated triplet 
 
 ## Key Differences
 
-Chris Adler plays a Mapex Black Panther Design Lab kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Mapex Falcon double pedal and Promark TX5AXW Chris Adler Signature sticks. Matt Halpern plays a Pearl Reference Series kit with a Pearl Reference 14x6.5" Brass snare and Meinl Byzance Series cymbals (14" Byzance Traditional Medium Hi-Hats, 18" & 20" Byzance Traditional Extra Thin Hammered Crashes, 22" Byzance Sand Crash-Ride, plus his signature Meinl Artist Concept Double Down Stack), powered by a Pearl Demon Drive double pedal and Promark Matt Halpern Signature sticks — both drummers share a Meinl Byzance cymbal foundation and a Promark signature stick endorsement despite playing different drum brands. Adler's technique is built on obsessive precision — tight, syncopated triplet grooves locked to the guitar riffs, explosive snare accents, and a double bass approach influenced as much by Latin and jazz rhythms as by metal. Halpern's technique combines groove-focused polyrhythms and ghost notes with the ability to navigate Periphery's complex time signatures while maintaining pocket, a skill set he shares widely as an accomplished drum educator.
+Chris Adler plays a Mapex Black Panther Design Lab kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Trick Pro V double pedal and Promark TX5AXW Chris Adler Signature sticks. Matt Halpern plays a Pearl Reference Series kit with a Pearl Reference 14x6.5" Brass snare and Meinl Byzance Series cymbals (14" Byzance Traditional Medium Hi-Hats, 18" & 20" Byzance Traditional Extra Thin Hammered Crashes, 22" Byzance Sand Crash-Ride, plus his signature Meinl Artist Concept Double Down Stack), powered by a Pearl Demon Drive double pedal and Promark Matt Halpern Signature sticks — both drummers share a Meinl Byzance cymbal foundation and a Promark signature stick endorsement despite playing different drum brands. Adler's technique is built on obsessive precision — tight, syncopated triplet grooves locked to the guitar riffs, explosive snare accents, and a double bass approach influenced as much by Latin and jazz rhythms as by metal. Halpern's technique combines groove-focused polyrhythms and ghost notes with the ability to navigate Periphery's complex time signatures while maintaining pocket, a skill set he shares widely as an accomplished drum educator.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Matt Halpern is more directly tied to djent, having helped architect the genr
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -3,7 +3,7 @@
 > Educational reference for metal drumming techniques: how to play them, their history,
 > the drummers who define them, and recommended gear.
 >
-> Last updated: 2026-09-09 · 29 techniques
+> Last updated: 2026-10-07 · 29 techniques
 
 ---
 ## Blast Beat

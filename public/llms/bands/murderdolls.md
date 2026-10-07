@@ -72,4 +72,4 @@ A: Two studio albums: Beyond the Valley of the Murderdolls (2002) and Women and 
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

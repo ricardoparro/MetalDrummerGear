@@ -1,6 +1,6 @@
 # Vinnie Paul's Drum Setup on Pantera's Reinventing the Steel (2000)
 
-> Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and Pearl Eliminator P-3000E pedals behind the band's last record before their 2003 breakup.
+> Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and double-kick pedal setup behind the band's last record before their 2003 breakup.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Vinnie Paul](/llms/drummers/vinnie-paul.md)
@@ -18,14 +18,14 @@ The album marked a deliberate return to basics after the fractured, experimental
 
 Vinnie Paul's drumming on "Reinventing the Steel" is widely regarded as some of the most groove-focused, pocket-heavy playing of his career. Tracks like "Goddamn Electric" and "Revolution Is My Name" — the latter voted Song of the Year in the 2000 Metal Edge Readers' Choice Awards — showcase the power-groove approach Vinnie had spent a decade refining, now delivered with a leaner, more direct production than the trigger-heavy records of the mid-90s.
 
-This article breaks down every piece of gear behind Pantera's last studio statement: the white marine pearl Pearl Reference kit, the Sabian cymbal setup straddling the HH and new AAX Custom lines, and the Pearl Eliminator pedals that drove the double kick on the album's heaviest tracks.
+This article breaks down every piece of gear behind Pantera's last studio statement: the white marine pearl Pearl Reference kit, the Sabian cymbal setup straddling the HH and new AAX Custom lines, and the double pedal that drove the double kick on the album's heaviest tracks.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference (White Marine Pearl finish)
 - **Snare:** Pearl Pearl Free-Floating Steel Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HH / AAX Custom
-- **Hardware / Pedals:** Pearl Eliminator P-3000E Double Pedal; Pearl 2000-Series Stands; Roc-N-Soc Nitro Throne; Vater Vinnie Paul 5B Signature (played backwards)
+- **Hardware / Pedals:** Chain-Drive Double Pedal; Pearl 2000-Series Stands; Roc-N-Soc Nitro Throne; Vic Firth American Classic 5B (played backwards)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium-high tension for a tight, immediate crack
 
@@ -57,7 +57,7 @@ This HH/AAX Custom hybrid setup would be the last cymbal configuration Vinnie pl
 
 "Reinventing the Steel" doesn't reach for the commercial peak of "Far Beyond Driven" or the emotional extremity of "The Great Southern Trendkill." Instead, it does something arguably harder: it returns, deliberately, to the groove-first foundation that made Pantera matter in the first place. Vinnie Paul's playing throughout — power without excess, pocket over flash — is a reminder of exactly what he brought to metal drumming for two decades.
 
-The white marine pearl Pearl Reference kit, the Sabian HH/AAX Custom cymbal blend, and the Pearl Eliminator P-3000E pedals gave Vinnie the tools for one last statement. None of it was flashy. All of it served the songs, from the direct assault of "Hellbound" to the half-time swagger of "Revolution Is My Name."
+The white marine pearl Pearl Reference kit, the Sabian HH/AAX Custom cymbal blend, and the double-kick pedal setup gave Vinnie the tools for one last statement. None of it was flashy. All of it served the songs, from the direct assault of "Hellbound" to the half-time swagger of "Revolution Is My Name."
 
 None of the band could have known this was the end. Pantera dissolved in 2003 amid tensions that had been building for years, and Dimebag Darrell was murdered on stage with Damageplan in December 2004 — a tragedy that makes every note of "Reinventing the Steel" harder to hear now than it was in 2000. Vinnie Paul himself passed away in 2018, forming a devastating bookend to the classic Pantera lineup.
 
@@ -111,4 +111,4 @@ A: Reinventing the Steel was produced by Vinnie Paul and Dimebag Darrell alongsi
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

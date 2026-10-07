@@ -10,11 +10,11 @@ Cannibal Corpse's Paul Mazurkiewicz vs Tim Yeung (Hour of Penance, Decrepit Birt
 
 ## Paul Mazurkiewicz Setup
 
-- **Drums:** Pearl Masters Maple Complete
-- **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Pearl Masters 14x6.5" Maple
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** Pearl Reference
+- **Cymbals:** Meinl Classics Custom & Byzance Series
+- **Snare:** Pearl Free-Floating Steel
+- **Pedals/Hardware:** Pearl Eliminator Double Bass Pedal
+- **Sticks:** Vic Firth Paul Mazurkiewicz Signature
 
 ## Tim Yeung Setup
 
@@ -34,7 +34,7 @@ Mazurkiewicz operates with brutal consistency — his blast beats are powerful a
 
 ## Key Differences
 
-Paul Mazurkiewicz plays Pearl Reference Series drums with Sabian cymbals, maintaining a robust, traditional death metal setup that has evolved alongside Cannibal Corpse's recording career from early extreme metal production to modern high-definition studio recordings. His Pearl reference setup prioritizes warm, powerful tone that sits in the low end of brutal death metal production. Tim Yeung plays a Tama Starclassic Bubinga kit with Sabian cymbals across multiple projects — a setup tuned for maximum attack and definition at high blast tempos, with his Tama Speed Cobra 910 double pedal optimized for the single-stroke speed that his verified blast BPM records require. Mazurkiewicz operates with brutal consistency — his blast beats are powerful and relentless, his double bass patterns lock perfectly with Alex Webster's bass and the band's down-tuned guitar assault, and his rhythmic framework is designed for maximum aggression rather than technical complexity. His strength is inexhaustible stamina across decades of the most physically demanding recordings and live performances in death metal. Yeung brings a different technical register: his two-bass or double pedal speed is among the most physically verified in the extreme metal world, and his ability to navigate between technical death metal's polyrhythmic demands (Decrepit Birth), brutal Italian death metal (Hour of Penance), and industrial death metal (Divine Heresy) demonstrates extraordinary cross-genre versatility. Where Mazurkiewicz defines the brutal death metal template, Yeung represents its most technically accelerated modern evolution.
+Paul Mazurkiewicz plays Pearl Reference Series drums with Meinl Classics Custom / Byzance Series cymbals, maintaining a robust, traditional death metal setup that has evolved alongside Cannibal Corpse's recording career from early extreme metal production to modern high-definition studio recordings. His Pearl reference setup prioritizes warm, powerful tone that sits in the low end of brutal death metal production. Tim Yeung plays a Tama Starclassic Bubinga kit with Sabian cymbals across multiple projects — a setup tuned for maximum attack and definition at high blast tempos, with his Tama Speed Cobra 910 double pedal optimized for the single-stroke speed that his verified blast BPM records require. Mazurkiewicz operates with brutal consistency — his blast beats are powerful and relentless, his double bass patterns lock perfectly with Alex Webster's bass and the band's down-tuned guitar assault, and his rhythmic framework is designed for maximum aggression rather than technical complexity. His strength is inexhaustible stamina across decades of the most physically demanding recordings and live performances in death metal. Yeung brings a different technical register: his two-bass or double pedal speed is among the most physically verified in the extreme metal world, and his ability to navigate between technical death metal's polyrhythmic demands (Decrepit Birth), brutal Italian death metal (Hour of Penance), and industrial death metal (Divine Heresy) demonstrates extraordinary cross-genre versatility. Where Mazurkiewicz defines the brutal death metal template, Yeung represents its most technically accelerated modern evolution.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Tim Yeung has been documented performing blast beats at over 280 BPM, ranking
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

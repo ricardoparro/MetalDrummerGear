@@ -43,4 +43,4 @@ A: It's a named signature model — the ProMark TXMP420XW-AG is designed and mar
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

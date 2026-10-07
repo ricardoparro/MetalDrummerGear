@@ -64,7 +64,7 @@ Menza's Pearl endorsement — begun on Countdown to Extinction, refined through 
 Together, Countdown to Extinction, Youthanasia, and Cryptic Writings tell the story of a drummer maturing alongside a band reinventing its commercial identity. Where Rust in Peace proved Menza could play anything Mustaine wrote, these three records proved he understood exactly when not to — and Cryptic Writings, with "Trust"'s elegantly simple groove, is the clearest distillation of that lesson in his entire catalog.
 
 **The Legacy:**
-Menza was fired from Megadeth in 1998, returned briefly for the band's 2004 reunion, and tragically died on stage in 2016 while performing with his band OHM. Cryptic Writings remains the final studio statement of his classic-era Megadeth tenure — a Platinum-selling, radio-defining record built on the Pearl Reference Custom kit that closed out the endorsement journey he began seven years after debuting on the Tama Swingstar for Rust in Peace.
+Menza was fired from Megadeth in 1998, returned briefly for the band's 2004 reunion, and tragically died on stage in 2016 while performing with his band OHM. Cryptic Writings remains the final studio statement of his classic-era Megadeth tenure — a Platinum-selling, radio-defining record built on the Pearl Reference Custom kit that closed out the endorsement journey he began seven years after debuting on the Tama Artstar II for Rust in Peace.
 
 For deeper study:
 - **Full Menza gear overview**: [Nick Menza Drum Setup](/articles/nick-menza-drum-setup)
@@ -126,4 +126,4 @@ A: Dave Mustaine brought in Nashville-based producer Dann Huff because the band 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Chris Adler's Drum Setup on Megadeth's 'Dystopia' (2016)
 
-> Chris Adler's Grammy-winning guest session with Megadeth. Full breakdown of the Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and Mapex Falcon pedals the Lamb of God drummer used to record 'Dystopia' — Best Metal Performance, 59th Grammy Awards.
+> Chris Adler's Grammy-winning guest session with Megadeth. Full breakdown of the Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and Trick Pro V pedals the Lamb of God drummer used to record 'Dystopia' — Best Metal Performance, 59th Grammy Awards.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)
@@ -25,7 +25,7 @@ Produced by Dann Huff alongside Dave Mustaine, "Dystopia" has a modern but muscu
 - **Drums:** Mapex Mapex Black Panther Velvetone Series (Custom Satin Black finish)
 - **Snare:** Mapex Mapex Chris Adler Signature Black Panther Warbird, 14" x 5.5"
 - **Cymbals:** Meinl — Meinl Byzance
-- **Hardware / Pedals:** Mapex Falcon Double Pedal (used as two independent singles); Mapex Falcon Hi-Hat Stand; Roc-N-Soc Nitro Throne; Promark Chris Adler Signature TX5AXW
+- **Hardware / Pedals:** Trick Pro V Double Pedal (used as two independent singles); Roc-N-Soc Nitro Throne; Promark Chris Adler Signature TX5AXW
 - **Heads:** Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for maximum cut and fast ghost-note response
 
@@ -57,7 +57,7 @@ The 14" Byzance Traditional hi-hats anchored his pivot technique — independent
 
 "Dystopia" stands as one of thrash metal's landmark comeback albums — a Grammy-winning return to commercial and critical relevance that few bands achieve after three decades. Behind that comeback was an unusual arrangement: Chris Adler, co-founder and drummer of a completely different band, stepping in for a guest session that became one of the most celebrated performances of his career.
 
-The Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and Mapex Falcon pedals are the same tools Adler was using with Lamb of God at the time — no reinvention was needed. In under two weeks at Vic's Garage, he laid down every drum track on the album that would earn Megadeth their first competitive Grammy. The gear was familiar; the execution, on unfamiliar material, was flawless.
+The Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and Trick Pro V pedals are the same tools Adler was using with Lamb of God at the time — no reinvention was needed. In under two weeks at Vic's Garage, he laid down every drum track on the album that would earn Megadeth their first competitive Grammy. The gear was familiar; the execution, on unfamiliar material, was flawless.
 
 **The Megadeth Drummer Timeline:**
 Megadeth has had several notable drummers across its history. Gar Samuelson anchored the band's debut era; Nick Menza delivered the technical masterwork of Rust in Peace; Chuck Behler and Jimmy DeGrasso filled the gaps between. Chris Adler's one-album guest turn on Dystopia is a singular chapter — a Grammy-winning outsider's contribution before Dirk Verbeuren took over the touring lineup and, eventually, the drum chair permanently. For the complete Rust in Peace drum breakdown — the album that establishes the Megadeth thrash drumming template — see the [Rust in Peace Drum Setup article](/articles/rust-in-peace-drum-setup).
@@ -89,7 +89,7 @@ A: Chris Adler, co-founder and drummer of Lamb of God, recorded all the drum par
 
 **Q: What drums did Chris Adler use on Dystopia?**
 
-A: Chris Adler used the same Mapex Black Panther Velvetone kit he was recording and touring with in Lamb of God at the time — a maple/walnut hybrid shell pack with dual 22" x 18" bass drums, 10" and 12" rack toms, and 14" and 16" floor toms. He paired it with his own 14" x 5.5" Mapex Chris Adler Signature Warbird snare, Meinl Byzance cymbals, and Mapex Falcon pedals — no gear changes were made specifically for the Megadeth session.
+A: Chris Adler used the same Mapex Black Panther Velvetone kit he was recording and touring with in Lamb of God at the time — a maple/walnut hybrid shell pack with dual 22" x 18" bass drums, 10" and 12" rack toms, and 14" and 16" floor toms. He paired it with his own 14" x 5.5" Mapex Chris Adler Signature Warbird snare, Meinl Byzance cymbals, and Trick Pro V pedals — no gear changes were made specifically for the Megadeth session.
 
 **Q: What won the Grammy for Best Metal Performance in 2016 / 2017?**
 
@@ -122,4 +122,4 @@ A: The two performances reflect very different circumstances as well as three de
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -10,10 +10,10 @@ Flo Mounier (Cryptopsy) vs Pete Sandoval (Morbid Angel). Canada vs USA, technica
 
 ## Flo Mounier Setup
 
-- **Drums:** Pearl Masters Maple Complete
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Pearl Masters 14x5.5" Maple
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-3000 Throne
+- **Snare:** Signature snare
+- **Pedals/Hardware:** Tama Speed Cobra 910 Twin Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
 ## Pete Sandoval Setup
@@ -67,4 +67,4 @@ A: Both are foundational. Pete Sandoval is credited as one of the key inventors 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

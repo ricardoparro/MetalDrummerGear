@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers' Signature & Notable Drumhead Models — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumhead-models)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumhead-models)
 
 ---
 
@@ -152,4 +152,4 @@ A: At blast-beat and 200+ BPM tempos, a head that loses tension or wears unevenl
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

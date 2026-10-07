@@ -1,32 +1,32 @@
 # What Pedals Does Bill Ward Use? Full Setup
 
-**Band:** Black Sabbath | **Configuration:** double | **Drive Type:** unknown
+**Band:** Black Sabbath | **Configuration:** single | **Drive Type:** unknown
 
 ---
 
 ## Direct Answer
 
-Bill Ward plays a Ludwig Atlas Pro double pedal.
+Bill Ward plays a Ludwig Speed King single pedal.
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
 | Brand | Ludwig |
-| Model | Atlas Pro |
-| Configuration | double |
+| Model | Speed King |
+| Configuration | single |
 | Drive Type | — |
 
-Verified roster hardware entry: "Ludwig Atlas Pro Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Ludwig Speed King Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
-- Double pedal: A primary pedal mounted on the hoop plus a slave pedal, linked by a drive shaft that runs along the floor and turns a second beater on the same head. Best suited to blast beats, sustained sixteenth-note kick patterns, and virtually every other modern metal subgenre.
+- Single pedal: One footboard, one beater, mounted directly on the bass drum hoop. Best suited to doom, traditional heavy metal, and groove-focused metal where two feet aren't needed for the pattern.
 
 ## FAQ
 
 **Q: What pedals does Bill Ward use?**
-A: Bill Ward plays a Ludwig Atlas Pro double pedal.
+A: Bill Ward plays a Ludwig Speed King single pedal.
 
 ## More Resources
 
@@ -37,4 +37,4 @@ A: Bill Ward plays a Ludwig Atlas Pro double pedal.
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

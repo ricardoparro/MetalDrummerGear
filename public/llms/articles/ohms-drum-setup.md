@@ -26,8 +26,8 @@ This is the end of the Abe Cunningham arc as it currently stands — and it's on
 
 - **Drums:** Tama Tama Starclassic Maple/Bubinga (Custom finish finish)
 - **Snare:** Tama Tama S.L.P. Big Black Steel 14" x 8", 14" x 8"
-- **Cymbals:** Zildjian — K Custom / A Custom
-- **Hardware / Pedals:** Tama Speed Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Zildjian Abe Cunningham Artist Series
+- **Cymbals:** Sabian — HHX
+- **Hardware / Pedals:** Tama Speed Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark (non-signature)
 - **Heads:** Evans G2 Coated (batter), Evans Hazy 300 Snare Side (resonant)
 - **Snare tuning:** Medium tuning for wide dynamic range — body in quiet sections, authority in heavy moments
 
@@ -55,17 +55,17 @@ Terry Date's engineering captures the snare's full character — not just the ba
 
 The S.L.P. Big Black Steel is the culmination of Abe's snare journey — from the 14x6.5-inch steel drums of the early Zildjian era to the bell brass of the Diamond Eyes period, and finally to this deep, versatile, definitive instrument.
 
-### Zildjian K Custom: Fully Mature
+### Sabian HHX: Fully Mature
 
-By Ohms, Abe Cunningham's Zildjian K Custom setup had been his primary cymbal palette for over two decades — refined through Diamond Eyes, Koi No Yokan, and Gore, and now fully mature on Deftones' ninth studio album. There is nothing transitional or exploratory about this setup; it is the most refined version of a cymbal philosophy that has been evolving since his earliest days with the band.
+By Ohms, Abe Cunningham's Sabian HHX setup had been his primary cymbal palette for a decade — refined through Diamond Eyes, Koi No Yokan, and Gore, and now fully mature on Deftones' ninth studio album. There is nothing transitional or exploratory about this setup; it is the most refined version of a cymbal philosophy that has been evolving since his 2010 switch to Sabian.
 
-The 14-inch K Custom Hi-Hats are the workhorse of the Ohms session. Their dark, dry chick and clear stick definition cut through the album's layered guitar textures on every track, from the propulsive groove of "Pompeji" to the barely-there verse of "Urantia." Abe's hi-hat work throughout the album is extraordinary in its nuance — the subtle half-open positions, the foot-splash accents, the transition from closed to open that signals dynamic shifts before the rest of the kit follows.
+The 14-inch HHX Hi-Hats are the workhorse of the Ohms session. Their dark, dry chick and clear stick definition cut through the album's layered guitar textures on every track, from the propulsive groove of "Pompeji" to the barely-there verse of "Urantia." Abe's hi-hat work throughout the album is extraordinary in its nuance — the subtle half-open positions, the foot-splash accents, the transition from closed to open that signals dynamic shifts before the rest of the kit follows.
 
-The 22-inch K Custom Ride remains the jewel of the setup. On "Ceremony," its complex wash and musical bell provide the textural foundation for some of the most atmospheric ride playing of Abe's career. Terry Date's production gives the ride full frequency range in the mix — you hear its complete harmonic character rather than a narrow slice of it — and the result is one of the most beautifully captured ride sounds on any Deftones album.
+The 22-inch HHX Ride remains the jewel of the setup. On "Ceremony," its complex wash and musical bell provide the textural foundation for some of the most atmospheric ride playing of Abe's career. Terry Date's production gives the ride full frequency range in the mix — you hear its complete harmonic character rather than a narrow slice of it — and the result is one of the most beautifully captured ride sounds on any Deftones album.
 
-The K Custom crashes in 18" and 20" punctuate Ohms' dynamic peaks with dark, fast attack and no harshness. On "Genesis" and "Headless," they arrive as emotional release points, and Date's mix lets them bloom fully rather than capping their sustain.
+The HHX crashes in 18" and 20" punctuate Ohms' dynamic peaks with dark, fast attack and no harshness. On "Genesis" and "Headless," they arrive as emotional release points, and Date's mix lets them bloom fully rather than capping their sustain.
 
-The 19" A Custom China appears sparingly — perhaps more so than on any previous Deftones album. When it does appear, its effect is all the greater for its rarity.
+The 19" HHX China appears sparingly — perhaps more so than on any previous Deftones album. When it does appear, its effect is all the greater for its rarity.
 
 ## The Newest Album, the Complete Arc
 
@@ -105,11 +105,11 @@ Explore the full [Abe Cunningham gear profile](/drummer/abe-cunningham) and the 
 
 **Q: What is Deftones' newest album?**
 
-A: Deftones' newest studio album is Ohms, released on September 25, 2020. It is their ninth studio album, produced by Terry Date — their first collaboration since Saturday Night Wrist in 2006. Ohms features Abe Cunningham on drums with his signature Tama Starclassic Maple/Bubinga kit and Zildjian K Custom cymbals, and includes the tracks 'Ceremony', 'Urantia', 'Pompeji', and 'Genesis'.
+A: Deftones' newest studio album is Ohms, released on September 25, 2020. It is their ninth studio album, produced by Terry Date — their first collaboration since Saturday Night Wrist in 2006. Ohms features Abe Cunningham on drums with his signature Tama Starclassic Maple/Bubinga kit and Sabian HHX cymbals, and includes the tracks 'Ceremony', 'Urantia', 'Pompeji', and 'Genesis'.
 
 **Q: What drum kit did Abe Cunningham use on Ohms?**
 
-A: Abe Cunningham recorded Ohms in 2019-2020 using a Tama Starclassic Maple/Bubinga hybrid kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Zildjian K Custom series, including 14-inch K Custom Hi-Hats, K Custom crashes in 18 and 20 inch sizes, a 22-inch K Custom Ride, and a 19-inch A Custom China.
+A: Abe Cunningham recorded Ohms in 2019-2020 using a Tama Starclassic Maple/Bubinga hybrid kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Sabian HHX series, including 14-inch HHX Hi-Hats, HHX crashes in 18 and 20 inch sizes, a 22-inch HHX Ride, and a 19-inch HHX China.
 
 **Q: Who produced Deftones' Ohms album?**
 
@@ -135,4 +135,4 @@ A: Abe Cunningham used a Tama S.L.P. Big Black Steel 14x8-inch snare on Ohms. Th
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

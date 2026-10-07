@@ -25,8 +25,8 @@ Eloy's gear for the sessions: a Tama Starclassic Bubinga kit, Paiste RUDE and 20
 - **Drums:** Tama Tama Starclassic Bubinga (Natural Bubinga finish)
 - **Snare:** Tama Tama S.L.P. Big Black Steel, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste RUDE / 2002 Series
-- **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Tama Iron Cobra Hi-Hat Stand; Roc-N-Soc Original Nitro Throne; ProMark TX5B Hickory
-- **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
+- **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Tama Iron Cobra Hi-Hat Stand; Roc-N-Soc Original Nitro Throne; Eloy Casagrande Signature
+- **Heads:** Evans (batter and resonant)
 - **Snare tuning:** Medium-high, deep shell for added body alongside steel bite
 
 ### Eloy's Sepultura Debut: Tama Starclassic Bubinga
@@ -109,4 +109,4 @@ A: Between The Mediator (2013) and Machine Messiah (2017), Eloy's setup evolved 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

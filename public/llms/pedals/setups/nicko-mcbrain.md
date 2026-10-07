@@ -37,4 +37,4 @@ A: Nicko McBrain plays a Single Bass Drum Pedal.
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

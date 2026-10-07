@@ -2,7 +2,7 @@
 
 Chronological feed of drummer gear updates. See full tracker at https://metalforge.io/gear-news
 
-> Last updated: 2026-07-25 · 21 total events · 10 gear change events
+> Last updated: 2026-10-07 · 19 total events · 8 gear change events
 
 ---
 
@@ -89,17 +89,6 @@ Megadeth's Dirk Verbeuren joins with his Tama Starclassic setup details.
 
 ---
 
-### Jay Weinberg adds Paiste 2002 20" Ride Cymbal — 2026-03-01
-
-**Type:** Gear Added
-**Drummer:** Jay Weinberg — /drummer/jay-weinberg
-**Gear:** Paiste 2002 20" Ride Cymbal
-
-Slipknot's Jay Weinberg expands his cymbal arsenal with a Paiste 2002 20" Ride.
-*Adding vintage-style bite to his massive setup.*
-
----
-
 ### Mario Duplantier updates snare configuration — 2026-02-28
 
 **Type:** Gear Updated
@@ -108,18 +97,6 @@ Slipknot's Jay Weinberg expands his cymbal arsenal with a Paiste 2002 20" Ride.
 
 Gojira's Mario Duplantier tweaks his Tama S.L.P. snare setup for upcoming tour.
 *Refined attack for the Flying Whales.*
-
----
-
-### George Kollias switches to Paiste RUDE cymbals — 2026-02-25
-
-**Type:** Gear Switched
-**Drummer:** George Kollias — /drummer/george-kollias
-**Gear:** Paiste RUDE Series
-**Previously used:** Meinl Byzance
-
-Nile's George Kollias completes his switch to the full Paiste RUDE series.
-*The fastest feet in death metal demands the loudest cymbals.*
 
 ---
 
@@ -234,31 +211,12 @@ Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into 
 
 Filtered view: only events where a drummer added, removed, updated, or switched specific gear.
 
-### Jay Weinberg — Paiste 2002 20" Ride Cymbal (Added) — 2026
-
-Slipknot's Jay Weinberg expands his cymbal arsenal with a Paiste 2002 20" Ride.
-
-**Note:** Adding vintage-style bite to his massive setup.
-**Profile:** https://metalforge.io/drummer/jay-weinberg
-
----
-
 ### Mario Duplantier — Tama S.L.P. Snare (Updated) — 2026
 
 Gojira's Mario Duplantier tweaks his Tama S.L.P. snare setup for upcoming tour.
 
 **Note:** Refined attack for the Flying Whales.
 **Profile:** https://metalforge.io/drummer/mario-duplantier
-
----
-
-### George Kollias — Paiste RUDE Series (Switched) — 2026
-
-Nile's George Kollias completes his switch to the full Paiste RUDE series.
-
-**Previously used:** Meinl Byzance
-**Note:** The fastest feet in death metal demands the loudest cymbals.
-**Profile:** https://metalforge.io/drummer/george-kollias
 
 ---
 
@@ -342,20 +300,10 @@ Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into 
 - **2026-03-02** (Site Update): Dirk Verbeuren Profile Added
 - Profile: https://metalforge.io/drummer/dirk-verbeuren
 
-### Jay Weinberg
-
-- **2026-03-01** (Gear Added) — Paiste 2002 20" Ride Cymbal: Jay Weinberg adds Paiste 2002 20" Ride Cymbal
-- Profile: https://metalforge.io/drummer/jay-weinberg
-
 ### Mario Duplantier
 
 - **2026-02-28** (Gear Updated) — Tama S.L.P. Snare: Mario Duplantier updates snare configuration
 - Profile: https://metalforge.io/drummer/mario-duplantier
-
-### George Kollias
-
-- **2026-02-25** (Gear Switched) — Paiste RUDE Series: George Kollias switches to Paiste RUDE cymbals
-- Profile: https://metalforge.io/drummer/george-kollias
 
 ### Matt Halpern
 
@@ -400,4 +348,4 @@ Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into 
 - [Endorsement News](https://metalforge.io/llms/endorsement-news.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

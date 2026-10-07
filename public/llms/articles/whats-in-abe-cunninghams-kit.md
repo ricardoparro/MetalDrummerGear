@@ -24,7 +24,7 @@ Nine studio albums. Multiple platinum certifications. Millions of devoted fans. 
 - **Drums:** Tama Starclassic Maple/Bubinga (Egyptian Night Mist (varies by era) finish)
 - **Snare:** Tama Starclassic Maple/Bubinga, 14" x 6.5"
 - **Cymbals:** Zildjian — A Custom / K Custom hybrid
-- **Hardware / Pedals:** Tama Iron Cobra 900 Rolling Glide; Tama Iron Cobra Hi-Hat Stand; Tama Roadpro series; Tama 1st Chair; Zildjian Abe Cunningham Artist Series
+- **Hardware / Pedals:** Tama Iron Cobra 900 Rolling Glide; Tama Iron Cobra Hi-Hat Stand; Tama Roadpro series; Tama 1st Chair; Pro-Mark (non-signature)
 - **Heads:** Evans G2 Coated (batter), Evans Hazy 300 Snare Side (resonant)
 - **Snare tuning:** Medium tuning for balance of body and response
 
@@ -87,7 +87,7 @@ That's the ultimate measure of a great drummer. And by that measure, Abe Cunning
 ## Key Facts
 
 - Tama Starclassic Maple/Bubinga endorsee since 1997 with a straightforward, groove-focused setup
-- Zildjian cymbal artist with signature drumsticks
+- Zildjian cymbal artist, Pro-Mark sticks since 1997
 - Founding member of Deftones since 1988 (age 15)
 - Grammy Award winner for "Elite" (2001)
 - Known for groove-focused, dynamic playing style
@@ -127,4 +127,4 @@ A: A Tama Starclassic Maple/Bubinga shell pack comparable to Abe Cunningham's se
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

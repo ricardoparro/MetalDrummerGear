@@ -18,10 +18,10 @@ Converge's Ben Koller vs Cryptopsy's Flo Mounier. Raw hardcore-driven mathcore i
 
 ## Flo Mounier Setup
 
-- **Drums:** Pearl Masters Maple Complete
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Pearl Masters 14x5.5" Maple
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-3000 Throne
+- **Snare:** Signature snare
+- **Pedals/Hardware:** Tama Speed Cobra 910 Twin Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
 ## Playing Style
@@ -34,7 +34,7 @@ Koller's technique favors loose, explosive unpredictability — sudden tempo shi
 
 ## Key Differences
 
-Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Flo Mounier plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Vic Firth American Classic 5A sticks. Koller's technique favors loose, explosive unpredictability — sudden tempo shifts and dynamic swings that thrive on Converge's constantly shifting song structures, prioritizing gut-level feel over rehearsed precision. Mounier's technique is built around the gravity blast, a technique he helped pioneer to push blast beat tempos beyond what traditional single-stroke blasting allows, layered with jazz-influenced timing that gives his playing a swing most pure speed specialists lack.
+Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Flo Mounier plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), powered by a Tama Speed Cobra 910 double pedal and Vic Firth American Classic 5A sticks. Koller's technique favors loose, explosive unpredictability — sudden tempo shifts and dynamic swings that thrive on Converge's constantly shifting song structures, prioritizing gut-level feel over rehearsed precision. Mounier's technique is built around the gravity blast, a technique he helped pioneer to push blast beat tempos beyond what traditional single-stroke blasting allows, layered with jazz-influenced timing that gives his playing a swing most pure speed specialists lack.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Ben Koller and Flo Mounier represent two benchmarks of technical extreme drummin
 A: Both are considered among the most demanding drummers in extreme music, but in different ways. Ben Koller (Converge) is demanding because of his loose, explosive, unpredictable attack that thrives on sudden tempo shifts. Flo Mounier (Cryptopsy) is demanding because of the gravity blast — a technique he helped pioneer to push blast beat speed and complexity beyond traditional limits. Koller's difficulty is visceral; Mounier's is a measurable speed and precision benchmark.
 
 **Q: What gear do Ben Koller and Flo Mounier use?**
-A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Flo Mounier plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a Pearl Demon Drive double pedal.
+A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Flo Mounier plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a Tama Speed Cobra 910 double pedal.
 
 **Q: What bands are Ben Koller and Flo Mounier known for?**
 A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Flo Mounier has been Cryptopsy's only constant member since 1992.
@@ -67,4 +67,4 @@ A: The gravity blast is a blast beat technique that uses the rebound of a partia
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

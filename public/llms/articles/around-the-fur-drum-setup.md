@@ -27,7 +27,7 @@ This article explores the gear Abe used during the Around the Fur sessions, the 
 - **Drums:** Tama Tama Starclassic Maple (Standard production finish finish)
 - **Snare:** Tama Tama Steel Snare, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Series
-- **Hardware / Pedals:** Tama Iron Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Zildjian 5A
+- **Hardware / Pedals:** Tama Iron Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark (non-signature)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-high for aggressive attack
 
@@ -137,4 +137,4 @@ A: Around the Fur was produced by Terry Date, who also produced Deftones' debut 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Yamaha Bass Drum Pedals for Metal
 
-> Yamaha entered the drum-hardware market in 1967, a division of the century-old Yamaha Corporation, and its FP9 double pedal is verified on the roster through Mikkey Dee's decades-long run with Motörhead and King Diamond.
+> Yamaha entered the drum-hardware market in 1967, a division of the century-old Yamaha Corporation, and its FP9 double pedal rounds out a hardware line built to match its drum kits — no drummer on the verified roster is currently documented on a Yamaha pedal.
 
 ---
 
@@ -11,13 +11,10 @@
 
 ## Metal-Relevant Models
 
-- **FP9:** Yamaha's double bass drum pedal, verified on the roster through Mikkey Dee (Motörhead, King Diamond).
 
-## Confirmed Metal Drummers (1)
+## Confirmed Metal Drummers (0)
 
-| Drummer | Band | Pedal | Setup Page |
-|---------|------|-------|------------|
-| [Mikkey Dee](https://metalforge.io/pedals/setups/mikkey-dee) | Scorpions / Motörhead | Yamaha FP9 | [Markdown](https://metalforge.io/llms/pedals/setups/mikkey-dee.md) |
+We haven't verified a Yamaha pedal played by one of our mapped metal drummers yet.
 
 Source: [Yamaha Drums — Wikipedia](https://en.wikipedia.org/wiki/Yamaha_Drums).
 
@@ -35,4 +32,4 @@ Source: [Yamaha Drums — Wikipedia](https://en.wikipedia.org/wiki/Yamaha_Drums)
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

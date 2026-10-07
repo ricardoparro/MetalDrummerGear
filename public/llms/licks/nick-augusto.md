@@ -31,10 +31,9 @@ Trivium's 2011 album *In Waves* marked a major turning point for the band — a 
 
 ### Gear Used
 
-- Tama Starclassic Performer B/B (drums)
-- Meinl MB20 Cymbals (cymbals)
-- Pearl Demon Drive Double Bass Pedal (pedals)
-- Vic Firth American Classic 5B Sticks (sticks)
+- Pearl Reference Pure (drums)
+- Sabian AAX Series (cymbals)
+- Pro-Mark Nylon Tip 5B (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -61,10 +60,9 @@ Trivium's 2011 album *In Waves* marked a major turning point for the band — a 
 
 ### Gear Used
 
-- Tama Starclassic Performer B/B (drums)
-- Meinl MB20 Cymbals (cymbals)
-- Pearl Demon Drive Double Bass Pedal (pedals)
-- Meinl Classics Custom China Cymbal (cymbals)
+- Pearl Reference Pure (drums)
+- Sabian AAX Series (cymbals)
+- Pro-Mark Nylon Tip 5B (sticks)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -72,7 +70,7 @@ Trivium's 2011 album *In Waves* marked a major turning point for the band — a 
 
 **Song:** Vengeance Falls | **Album:** Vengeance Falls (2013) | **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** advanced
 
-Trivium's *Vengeance Falls* (2013) was produced by David Draiman of Disturbed, a choice that moved the band toward a heavier, more direct production sound with the drums sitting more prominently in the mix than on any previous Trivium record. This production context was both an opportunity and a challenge for Nick Augusto: every aspect of his drum performance was exposed with a clarity that rewarded precision and punished slop, and the result is a recorded performance that represents the most technically demanding drumming of his tenure with the band. The title track "Vengeance Falls" opens the album with an immediate statement of the new sonic direction — a driving, 180 BPM arrangement where Augusto incorporates blast beat passages alongside the thrash-groove hybrid approach that characterised *In Waves*, expanding his extreme-metal vocabulary in direct response to the heavier album concept. His blast beat work on "Vengeance Falls" is more compact and brief than a dedicated death metal blast — it arrives in short bursts of four to eight beats that punctuate particularly aggressive riff moments before returning to the groove, a technique that preserves the song's structural accessibility while injecting moments of extreme-metal intensity. This controlled use of blast beats is a distinct approach from the continuous-blast methodology of death metal: Augusto uses blasting as a dynamic tool within a broader groove framework rather than as the primary texture. The Meinl MB20 and Classics Custom cymbal setup that Augusto used with Trivium is prominently featured in the blast sections: the china cymbals in particular cut through the dense production with a sharp attack that gives each blast beat a defined edge rather than a washed, compressed tone. For drummers, the "Vengeance Falls" blast approach is instructive because it demonstrates how to incorporate extreme-metal techniques into a non-extreme context: the blast beats are technically demanding but compositionally restrained, deployed for maximum effect in specific moments rather than as the default texture throughout the song. Practising this approach means learning to start and stop blast beats cleanly within a groove context — a harder skill than sustaining an extended blast — and developing the compositional ear to recognise which moments in a metal arrangement can absorb a blast beat without breaking the song's momentum.
+Trivium's *Vengeance Falls* (2013) was produced by David Draiman of Disturbed, a choice that moved the band toward a heavier, more direct production sound with the drums sitting more prominently in the mix than on any previous Trivium record. This production context was both an opportunity and a challenge for Nick Augusto: every aspect of his drum performance was exposed with a clarity that rewarded precision and punished slop, and the result is a recorded performance that represents the most technically demanding drumming of his tenure with the band. The title track "Vengeance Falls" opens the album with an immediate statement of the new sonic direction — a driving, 180 BPM arrangement where Augusto incorporates blast beat passages alongside the thrash-groove hybrid approach that characterised *In Waves*, expanding his extreme-metal vocabulary in direct response to the heavier album concept. His blast beat work on "Vengeance Falls" is more compact and brief than a dedicated death metal blast — it arrives in short bursts of four to eight beats that punctuate particularly aggressive riff moments before returning to the groove, a technique that preserves the song's structural accessibility while injecting moments of extreme-metal intensity. This controlled use of blast beats is a distinct approach from the continuous-blast methodology of death metal: Augusto uses blasting as a dynamic tool within a broader groove framework rather than as the primary texture. Augusto's cymbal setup is prominently featured in the blast sections: the crashes and chinas cut through the dense production with a sharp attack that gives each blast beat a defined edge rather than a washed, compressed tone. For drummers, the "Vengeance Falls" blast approach is instructive because it demonstrates how to incorporate extreme-metal techniques into a non-extreme context: the blast beats are technically demanding but compositionally restrained, deployed for maximum effect in specific moments rather than as the default texture throughout the song. Practising this approach means learning to start and stop blast beats cleanly within a groove context — a harder skill than sustaining an extended blast — and developing the compositional ear to recognise which moments in a metal arrangement can absorb a blast beat without breaking the song's momentum.
 
 ### How to Play
 
@@ -91,10 +89,9 @@ Trivium's *Vengeance Falls* (2013) was produced by David Draiman of Disturbed, a
 
 ### Gear Used
 
-- Tama Starclassic Performer B/B (drums)
-- Meinl MB20 Heavy Metal Cymbals (cymbals)
-- Meinl Classics Custom China Cymbal (cymbals)
-- Pearl Demon Drive Double Bass Pedal (pedals)
+- Pearl Reference Pure (drums)
+- Sabian AAX Series (cymbals)
+- Pro-Mark Nylon Tip 5B (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -111,4 +108,4 @@ Nick Augusto's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

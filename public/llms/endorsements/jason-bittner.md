@@ -8,41 +8,45 @@
 
 ## Current Endorsements
 
-### Drums: Tama
+### Drums: Mapex
 
-Jason Bittner endorses Tama for drums. They play the Tama Starclassic Performer B/B. This partnership began in 1997.
+Jason Bittner endorses Mapex for drums. They play the Mapex Saturn V. This partnership began in 1997.
 
-### Cymbals: Sabian
+### Cymbals: Zildjian
 
-Jason Bittner endorses Sabian for cymbals. They play the Sabian HHX / HH Series. This partnership began in 1997.
+Jason Bittner endorses Zildjian for cymbals. They play the Zildjian K and A Custom Series. This partnership began in 1997.
 
-### Drumsticks: Vic Firth
+### Drumsticks: ProMark
 
-Jason Bittner endorses Vic Firth for drumsticks. They play the Vic Firth 5B. This partnership began in 1997.
+Jason Bittner endorses ProMark for drumsticks. They play the ProMark Jason Bittner Signature 5BX. This partnership began in 1997. Jason Bittner has a co-designed signature product with ProMark.
 
-### Drumheads: Remo
+### Drumheads: Evans
 
-Jason Bittner endorses Remo for drumheads. They play the Remo Ambassador Coated / Powerstroke 3. This partnership began in 1997.
+Jason Bittner endorses Evans for drumheads. They play the Evans G2 Coated / EMAD. This partnership began in 1997.
 
-### Hardware / Pedals: DW
+### Hardware / Pedals: Mapex
 
-Jason Bittner endorses DW for hardware / pedals. They play the DW 9002 Double Bass Pedal. This partnership began in 2002.
+Jason Bittner endorses Mapex for hardware / pedals. They play the Mapex Falcon Double Pedal. This partnership began in 2002.
+
+## Signature Models
+
+- ProMark Jason Bittner Signature 5BX (signature)
 
 ## Endorsement History
 
-- **1997** (Drums): Signed with Tama — Signed with Tama in Shadows Fall's formative years, settling on the Starclassic Performer B/B birch/bubinga hybrid
-- **1997** (Cymbals): Signed with Sabian — Began his Sabian relationship alongside the Tama deal, building the HHX/HH setup that still defines his sound
-- **2002** (Hardware / Pedals): Signed with DW — Adopted the DW 9002 double bass pedal for The Art of Balance sessions, the record that broke Shadows Fall into NWOAHM's front rank
-- **2012** (Drums): Renewed Tama deal — Carried the same Starclassic Performer B/B kit into his new chair with Overkill on The Electric Age, confirming his thrash credentials without changing gear
-- **2012** (Cymbals): Renewed Sabian deal — Kept his Sabian HHX/HH setup across both Shadows Fall and Overkill duties after joining Overkill full-time in 2012
+- **1997** (Drums): Signed with Mapex — Signed with Mapex in Shadows Fall's formative years, settling on the Saturn V shell pack
+- **1997** (Cymbals): Signed with Zildjian — Began his Zildjian relationship alongside the Mapex deal, building the K and A Custom Series setup that still defines his sound
+- **2002** (Hardware / Pedals): Signed with Mapex — Adopted the Mapex Falcon double bass pedal for The Art of Balance sessions, the record that broke Shadows Fall into NWOAHM's front rank
+- **2017** (Drums): Renewed Mapex deal — Carried the same Mapex Saturn V kit into his new chair with Overkill after joining in May 2017, confirming his thrash credentials without changing gear
+- **2017** (Cymbals): Renewed Zildjian deal — Kept his Zildjian K and A Custom setup across both Shadows Fall and Overkill duties after joining Overkill full-time in May 2017
 
 ## FAQ
 
 **Q: What brands does Jason Bittner endorse?**
-A: Jason Bittner endorses Tama, Sabian, Vic Firth, Remo, DW. Their primary drum endorsement is Tama and they play Sabian cymbals.
+A: Jason Bittner endorses Mapex, Zildjian, ProMark, Evans. Their primary drum endorsement is Mapex and they play Zildjian cymbals.
 
 **Q: Does Jason Bittner have a signature drum or cymbal?**
-A: Jason Bittner is a key Tama endorser but does not have a dedicated signature kit model in the current lineup.
+A: Yes. Jason Bittner has signature gear: ProMark Jason Bittner Signature 5BX (signature).
 
 **Q: What is Jason Bittner's endorsement history?**
 A: See the Endorsement History section above for a full timeline of Jason Bittner's brand deals.
@@ -57,4 +61,4 @@ A: See the Endorsement History section above for a full timeline of Jason Bittne
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

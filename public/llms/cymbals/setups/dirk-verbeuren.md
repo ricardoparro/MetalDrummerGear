@@ -1,25 +1,26 @@
 # What Cymbals Does Dirk Verbeuren Use? Full Setup
 
-**Band:** Megadeth | **Brand(s):** Zildjian
+**Band:** Megadeth | **Brand(s):** Meinl
 
 ---
 
 ## Direct Answer
 
-Dirk Verbeuren plays Zildjian cymbals: 14" A Custom Hi-Hats, 17" A Custom Crash, 18" A Custom Crash, 19" A Custom Crash, 21" K Custom Hybrid Ride, 18" K China.
+Dirk Verbeuren plays Meinl cymbals: 14" Byzance Brilliant Medium Hi-Hats, 18" Classics Custom Dark Crash, 19" Classics Custom Dark Crash, 20" Classics Custom Dark Crash, 21" Classics Custom Dark Crash, 22" Byzance Brilliant HH Ride, 18" Byzance Brilliant HH China.
 
 ## Cymbal Breakdown
 
 | Piece | Size | Series | Model |
 |-------|------|--------|-------|
-| Hi-hat | 14" | A Custom | Hi-Hats |
-| Crash | 17" | A Custom | Crash |
-| Crash | 18" | A Custom | Crash |
-| Crash | 19" | A Custom | Crash |
-| Ride | 21" | K Custom Hybrid | Ride |
-| China | 18" | K | China |
+| Hi-hat | 14" | Byzance Brilliant | Medium Hi-Hats |
+| Crash | 18" | Classics Custom Dark | Crash |
+| Crash | 19" | Classics Custom Dark | Crash |
+| Crash | 20" | Classics Custom Dark | Crash |
+| Crash | 21" | Classics Custom Dark | Crash |
+| Ride | 22" | Byzance Brilliant | HH Ride |
+| China | 18" | Byzance Brilliant | HH China |
 
-Verified roster hardware entry: "Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hats, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -31,7 +32,7 @@ Verified roster hardware entry: "Zildjian A Custom & K Custom Series (14" A Cust
 ## FAQ
 
 **Q: What cymbals does Dirk Verbeuren use?**
-A: Dirk Verbeuren plays Zildjian cymbals: 14" A Custom Hi-Hats, 17" A Custom Crash, 18" A Custom Crash, 19" A Custom Crash, 21" K Custom Hybrid Ride, 18" K China.
+A: Dirk Verbeuren plays Meinl cymbals: 14" Byzance Brilliant Medium Hi-Hats, 18" Classics Custom Dark Crash, 19" Classics Custom Dark Crash, 20" Classics Custom Dark Crash, 21" Classics Custom Dark Crash, 22" Byzance Brilliant HH Ride, 18" Byzance Brilliant HH China.
 
 ## More Resources
 
@@ -42,4 +43,4 @@ A: Dirk Verbeuren plays Zildjian cymbals: 14" A Custom Hi-Hats, 17" A Custom Cra
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

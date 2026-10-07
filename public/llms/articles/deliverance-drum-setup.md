@@ -27,7 +27,7 @@ This article breaks down every piece of gear Martin Lopez used on Deliverance, e
 - **Drums:** Sonor Sonor Designer Series (Natural Maple finish)
 - **Snare:** Sonor Sonor Designer Maple Snare, 14" x 5.5"
 - **Cymbals:** Sabian — Sabian HH (Hand Hammered) & AAX Series
-- **Hardware / Pedals:** DW 5000 Double Pedal; DW 5500 Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5B; DW Hard Felt Beaters
+- **Hardware / Pedals:** DW 5500 Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5B
 - **Heads:** Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium-high for maximum cut and attack
 
@@ -74,7 +74,7 @@ Most death metal drummers at this intensity level abandon musical thinking in fa
 Deliverance cannot be fully understood without Damnation. The fact that the same drummer who barely appears on the acoustic companion album is also playing the most brutal drumming of his career on Deliverance — recorded simultaneously — speaks to the range Lopez possessed. Not many musicians can occupy both poles of that spectrum at the same level.
 
 **The Gear Perspective:**
-Sonor Designer Series, Sabian HH/AAX, DW pedals with heavy beaters — Lopez's Deliverance setup was the same trusted rig from Blackwater Park, pushed harder. Every choice served the album's aggressive intent: dark, complex cymbals that still cut through the distortion, a tightened kick, heavier sticks for more authority. Gear doesn't make greatness, but the right gear removes obstacles to it.
+Sonor Designer Series, Sabian HH/AAX, heavier felt beaters — Lopez's Deliverance setup was the same trusted rig from Blackwater Park, pushed harder. Every choice served the album's aggressive intent: dark, complex cymbals that still cut through the distortion, a tightened kick, heavier sticks for more authority. Gear doesn't make greatness, but the right gear removes obstacles to it.
 
 **Legacy:**
 Every progressive death metal band that attempts long-form brutal compositions follows the template Lopez established on Deliverance. The idea that death metal can sustain architectural complexity across 13 minutes — that extreme music can have form and intention beyond intensity — owes enormous debt to this album and this performance.
@@ -135,4 +135,4 @@ A: Martin Lopez has described his approach as treating drums like architecture �
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

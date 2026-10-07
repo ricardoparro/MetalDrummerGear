@@ -18,9 +18,9 @@ Deftones' Abe Cunningham vs Megadeth's Dirk Verbeuren. Alt-metal atmosphere vs t
 
 ## Dirk Verbeuren Setup
 
-- **Drums:** Tama Starclassic Walnut/Birch
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
-- **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
+- **Snare:** Tama S.L.P. Dynamic Bronze 14x5.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
 - **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
 
@@ -34,7 +34,7 @@ Cunningham's approach is rooted in unconventional snare placement, creative hi-h
 
 ## Key Differences
 
-Abe Cunningham plays Tama Starclassic Maple/Bubinga drums with Zildjian cymbals (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride) and Tama Iron Cobra double pedal — a compact, feel-focused setup with his signature Zildjian sticks. Dirk Verbeuren endorses Tama Starclassic Maple with Meinl Byzance cymbals (14" Dark Hi-Hats, Byzance crashes, Mb20 ride) and Tama Speed Cobra 910 double pedal — a darker, more projection-focused rig built for thrash metal's aggressive attack. Cunningham's approach is rooted in unconventional snare placement, creative hi-hat and ride patterns, and pocket-focused playing that mirrors Deftones' emotional content rather than following conventional metal formulas. His dynamic control — transitioning between crushing downbeats and delicate atmospheric moments — is one of alternative metal's most distinctive signatures. Verbeuren combines blast-capable speed from his melodic death metal years with tight, groove-forward double bass work suited to Megadeth's thrash canon. His precise hi-hat accents and fills maintain momentum while honoring the legacy of Megadeth's classic recordings through Gar Samuelson and Nick Menza.
+Abe Cunningham plays Tama Starclassic Maple/Bubinga drums with Zildjian cymbals (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride) and Tama Iron Cobra double pedal — a compact, feel-focused setup with Pro-Mark sticks. Dirk Verbeuren endorses Tama Starclassic Maple with Meinl Byzance cymbals (14" Dark Hi-Hats, Byzance crashes, Mb20 ride) and Tama Speed Cobra 910 double pedal — a darker, more projection-focused rig built for thrash metal's aggressive attack. Cunningham's approach is rooted in unconventional snare placement, creative hi-hat and ride patterns, and pocket-focused playing that mirrors Deftones' emotional content rather than following conventional metal formulas. His dynamic control — transitioning between crushing downbeats and delicate atmospheric moments — is one of alternative metal's most distinctive signatures. Verbeuren combines blast-capable speed from his melodic death metal years with tight, groove-forward double bass work suited to Megadeth's thrash canon. His precise hi-hat accents and fills maintain momentum while honoring the legacy of Megadeth's classic recordings through Gar Samuelson and Nick Menza.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Dirk Verbeuren was the drummer for Swedish melodic death metal band Soilwork 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -3,14 +3,16 @@
 > Every documented drum-chair change (one drummer handing off to the next) across MetalForge's tracked metal bands, most recent first.
 > Optimised for queries like 'who is the new drummer for <band>', 'who replaced <drummer>'.
 
-> Last updated: 2026-07-25 · 113 changes across 45 bands
+> Last updated: 2026-10-07 · 122 changes across 47 bands
 
 ---
 
 ## 2020s
 
 - **2026** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): Jay Weinberg → Xavier Ware — Announced as new drummer January 2026
+- **2026** — [Godsmack](https://metalforge.io/bands/godsmack): Shannon Larkin → Mike Mangini — Ex-Dream Theater drummer; joined as touring drummer in June 2026 after the band cycled through interim touring drummers Will Hunt and Wade Murff following Larkin's 2024 departure
 - **2025** — [Cynic](https://metalforge.io/bands/cynic): Matt Lynch → Michel Belanger — Also drummer for Gorguts; joined May 2025
+- **2025** — [Iron Maiden](https://metalforge.io/bands/iron-maiden): Nicko Mcbrain → Simon Dawson — Touring-only successor to McBrain, not a formal lineup change
 - **2024** — [Sepultura](https://metalforge.io/bands/sepultura): Eloy Casagrande → Greyson Nekrutman — Joined on short notice after Casagrande's departure for the band's farewell-tour era
 - **2024** — [Slipknot](https://metalforge.io/bands/slipknot): Jay Weinberg → Eloy Casagrande — Former Sepultura drummer; joined 2024, first live show April 25, 2024. No documented interim/stand-in drummer filled the Nov 2023-Apr 2024 gap. Has not yet recorded a Slipknot studio album.
 - **2024** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): Greyson Nekrutman → Jay Weinberg — Former Slipknot drummer; departed January 2026
@@ -119,6 +121,7 @@
 ## 1980s
 
 - **1989** — [Megadeth](https://metalforge.io/bands/megadeth): Chuck Behler → Nick Menza — Powered Rust in Peace and Countdown to Extinction; brief 2004 reunion
+- **1989** — [Judas Priest](https://metalforge.io/bands/judas-priest): Dave Holland → Scott Travis — Recorded every studio album from Painkiller (1990) onward; joined after a November 1989 audition in Spain
 - **1988** — [Morbid Angel](https://metalforge.io/bands/morbid-angel): Wayne Hartsell → Pete Sandoval — Joined July 1988; recorded Altars of Madness through Heretic; also co-founder of Terrorizer
 - **1988** — [Vader](https://metalforge.io/bands/vader): Grzegorz Jackowski → Doc — Krzysztof "Doc" Raczkowski; recorded The Ultimate Incantation through Revelations; fired March 2005 for alcoholism struggles, died months later
 - **1987** — [Death](https://metalforge.io/bands/death): Chris Reifert → Bill Andrews — Recorded Leprosy (1988) and Spiritual Healing (1990)
@@ -133,10 +136,19 @@
 - **1983** — [Vader](https://metalforge.io/bands/vader): Daniel Markowski → Adam Skwarek — Dismissed after one rehearsal; no recordings
 - **1982** — [Anthrax](https://metalforge.io/bands/anthrax): Dave Weiss → Greg Dangelo — Appeared on the 'Soldiers of Metal' single
 - **1982** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): Sean Dunnigan → Amery Smith — Drummer on the self-titled 1983 debut album
+- **1982** — [Iron Maiden](https://metalforge.io/bands/iron-maiden): Clive Burr → Nicko Mcbrain — Recorded every studio album from Piece of Mind (1983) through Senjutsu (2021); retired from touring in December 2024 following a 2023 stroke but remains an official/studio member
 - **1981** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): Carlos Egert → Sean Dunnigan — Replaced Egert
+
+## 1970s
+
+- **1979** — [Iron Maiden](https://metalforge.io/bands/iron-maiden): Doug Sampson → Clive Burr — Recorded the band's first three studio albums; fired during The Beast on the Road tour after touring commitments for The Number of the Beast concluded
+- **1979** — [Judas Priest](https://metalforge.io/bands/judas-priest): Les Binks → Dave Holland — Recorded every studio album from British Steel (1980) through Ram It Down (1988)
+- **1977** — [Judas Priest](https://metalforge.io/bands/judas-priest): Alan Moore → Simon Phillips — Session-only drummer brought in by producer Roger Glover; recorded Sin After Sin (1977) but did not join full-time
+- **1977** — [Judas Priest](https://metalforge.io/bands/judas-priest): Simon Phillips → Les Binks — Recorded Stained Class (1978), Killing Machine (1978), and the live album Unleashed in the East (1979)
+- **1971** — [Judas Priest](https://metalforge.io/bands/judas-priest): John Hinch → Alan Moore — Recorded Sad Wings of Destiny (1976)
 
 **Full profile:** [Drum Chair Changes on MetalForge](https://metalforge.io/bands/drum-chair-changes)
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

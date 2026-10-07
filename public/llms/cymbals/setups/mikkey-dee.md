@@ -1,24 +1,24 @@
 # What Cymbals Does Mikkey Dee Use? Full Setup
 
-**Band:** Scorpions / Motörhead | **Brand(s):** Zildjian
+**Band:** Scorpions / Motörhead | **Brand(s):** Paiste
 
 ---
 
 ## Direct Answer
 
-Mikkey Dee plays Zildjian cymbals: 14" A Custom Hi-Hats, 18" A Custom Crash, 19" A Custom Crash, 22" K Custom Ride, 20" A Custom & K Oriental China.
+Mikkey Dee plays Paiste cymbals: 14" Signature Sound Edge Hi-Hats, 19" Signature Power Crash, 20" Signature Power Crash, 22" Signature Power Ride, 18" Signature Heavy China.
 
 ## Cymbal Breakdown
 
 | Piece | Size | Series | Model |
 |-------|------|--------|-------|
-| Hi-hat | 14" | A Custom | Hi-Hats |
-| Crash | 18" | A Custom | Crash |
-| Crash | 19" | A Custom | Crash |
-| Ride | 22" | K Custom | Ride |
-| China | 20" | A Custom & K | Oriental China |
+| Hi-hat | 14" | Signature | Sound Edge Hi-Hats |
+| Crash | 19" | Signature | Power Crash |
+| Crash | 20" | Signature | Power Crash |
+| Ride | 22" | Signature | Power Ride |
+| China | 18" | Signature | Heavy China |
 
-Verified roster hardware entry: "Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -30,7 +30,7 @@ Verified roster hardware entry: "Zildjian A Custom & K Series (14" A Custom Hi-H
 ## FAQ
 
 **Q: What cymbals does Mikkey Dee use?**
-A: Mikkey Dee plays Zildjian cymbals: 14" A Custom Hi-Hats, 18" A Custom Crash, 19" A Custom Crash, 22" K Custom Ride, 20" A Custom & K Oriental China.
+A: Mikkey Dee plays Paiste cymbals: 14" Signature Sound Edge Hi-Hats, 19" Signature Power Crash, 20" Signature Power Crash, 22" Signature Power Ride, 18" Signature Heavy China.
 
 ## More Resources
 
@@ -41,4 +41,4 @@ A: Mikkey Dee plays Zildjian cymbals: 14" A Custom Hi-Hats, 18" A Custom Crash, 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

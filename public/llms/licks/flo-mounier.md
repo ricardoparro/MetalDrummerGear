@@ -33,7 +33,6 @@ Flo Mounier is widely regarded as one of the fastest and most technically comple
 
 - Yamaha Recording Custom Kit (drums)
 - Zildjian ZXT Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [Double Bass](https://metalforge.io/techniques/double-bass)
@@ -62,7 +61,6 @@ Cryptopsy's None So Vile (1996) is one of the most influential technical death m
 ### Gear Used
 
 - Pearl Masters Maple Kit (drums)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 
 **Core Techniques:** [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [Blast Beat](https://metalforge.io/techniques/blast-beat), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll)
@@ -91,7 +89,6 @@ Cryptopsy's None So Vile (1996) is one of the most influential technical death m
 ### Gear Used
 
 - Pearl Masters Maple Kit (drums)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 
 **Core Techniques:** [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass)
@@ -120,7 +117,6 @@ Cryptopsy's debut album Blasphemy Made Flesh (1994) introduced Flo Mounier to th
 ### Gear Used
 
 - Pearl Masters Maple Kit (drums)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Foot Endurance](https://metalforge.io/techniques/foot-endurance)
@@ -149,7 +145,6 @@ Whisper Supremacy (1998) is often cited as the most jazz-influenced of Cryptopsy
 ### Gear Used
 
 - Pearl Masters Maple Kit (drums)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Jazz Phrasing](https://metalforge.io/techniques/jazz-phrasing), [Blast Beat](https://metalforge.io/techniques/blast-beat)
@@ -178,7 +173,6 @@ Whisper Supremacy (1998) is often cited as the most jazz-influenced of Cryptopsy
 ### Gear Used
 
 - Pearl Masters Maple Kit (drums)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
@@ -196,4 +190,4 @@ Flo Mounier's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

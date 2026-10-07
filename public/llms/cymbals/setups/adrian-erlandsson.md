@@ -38,4 +38,4 @@ A: Adrian Erlandsson plays Sabian cymbals: 15" HHX Xcelerator Hi-Hats, 20" AAX I
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

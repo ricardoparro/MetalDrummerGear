@@ -1,6 +1,6 @@
 # Top 10 Most Expensive Metal Drum Setups — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-expensive-drum-setups)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-expensive-drum-setups)
 
 ---
 
@@ -85,7 +85,7 @@ Full drummer profile: [Mike Mangini on MetalForge](https://metalforge.io/drummer
 
 **Band:** Dream Theater / The Winery Dogs
 **Highlight:** Est. €7,500+ setup
-**Why ranked here:** Tama Starclassic with Roland SPD integration + Sabian HHX series
+**Why ranked here:** Tama Starclassic + Sabian HHX series
 **Estimated kit value:** €7,500+
 
 Full drummer profile: [Mike Portnoy on MetalForge](https://metalforge.io/drummer/mike-portnoy)
@@ -135,4 +135,4 @@ A: At that price point, you're paying for custom shell specifications, exotic wo
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

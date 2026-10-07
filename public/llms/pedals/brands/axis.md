@@ -14,13 +14,14 @@
 - **AXiS A / AXiS A Longboard:** Axis's flagship direct-drive double pedal, with a Longboard variant offering an extended footboard for more leverage — used by Alex Bent (Trivium).
 - **AXiS Percussion Double Pedal:** Direct-drive double pedal built for zero-lag speed and consistency — used by Martin Lopez (ex-Opeth, Soen).
 
-## Confirmed Metal Drummers (3)
+## Confirmed Metal Drummers (4)
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
 | [Alex Bent](https://metalforge.io/pedals/setups/alex-bent) | ex-Trivium / Arkaik / Dragonlord | Axis A Longboard | [Markdown](https://metalforge.io/llms/pedals/setups/alex-bent.md) |
 | [Hellhammer](https://metalforge.io/pedals/setups/hellhammer) | Mayhem | Axis | [Markdown](https://metalforge.io/llms/pedals/setups/hellhammer.md) |
 | [Martin Lopez](https://metalforge.io/pedals/setups/martin-lopez) | Soen / ex-Opeth | Axis Percussion | [Markdown](https://metalforge.io/llms/pedals/setups/martin-lopez.md) |
+| [Richard Christy](https://metalforge.io/pedals/setups/richard-christy) | Death / Iced Earth | Axis A Longboard | [Markdown](https://metalforge.io/llms/pedals/setups/richard-christy.md) |
 
 Source: [Axis Percussion — About Axis](https://axispdc.com/pages/about-axis).
 
@@ -39,4 +40,4 @@ Source: [Axis Percussion — About Axis](https://axispdc.com/pages/about-axis).
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

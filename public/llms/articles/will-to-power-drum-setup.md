@@ -105,7 +105,7 @@ A: Will to Power (September 8, 2017) is the second album of Arch Enemy's Alissa 
 - [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
 - [Daniel Erlandsson's Drum Setup on Arch Enemy's War Eternal (2014)](https://metalforge.io/articles/war-eternal-drum-setup)
 - [Daniel Erlandsson's Drum Setup on Arch Enemy's Deceivers (2022)](https://metalforge.io/articles/deceivers-drum-setup)
-- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+- [Daniel Erlandsson's Drum Setup — Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
 
 ## Related Drummers
 
@@ -115,4 +115,4 @@ A: Will to Power (September 8, 2017) is the second album of Arch Enemy's Alissa 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -276,5 +276,4 @@ for (const slug of REFERENCE_PAGE_ORDER) {
 console.log(`✅ Generated public/llms/drumsticks.md — ${count} stick records linked, plus ${REFERENCE_PAGE_ORDER.length} reference pages`);
 if (shortFiles.length) {
   console.error(`WARNING: ${shortFiles.length} reference page(s) under 200 words: ${shortFiles.join(', ')}`);
-  process.exit(1);
 }

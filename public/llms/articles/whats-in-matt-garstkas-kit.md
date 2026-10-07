@@ -24,7 +24,7 @@ This article breaks down every piece of gear Matt uses to achieve his distinctiv
 - **Drums:** DW DW Collector's Series (custom shop) (Custom per DW custom shop order finish)
 - **Snare:** DW DW Collector's Series Purpleheart, Not verified
 - **Cymbals:** Meinl — Meinl Byzance (Multiple lines)
-- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl Demon Drive Hi-Hat Stand; Pearl Roadster D-3500 Throne; Vic Firth Matt Garstka Signature
+- **Hardware / Pedals:** Tama Speed Cobra 910 Double Pedal; Pearl Demon Drive Hi-Hat Stand; Pearl Roadster D-3500 Throne; Vic Firth Matt Garstka Signature
 - **Heads:** Not verified for this era
 - **Snare tuning:** Not verified
 
@@ -124,4 +124,4 @@ A: Pricing for Matt Garstka's current DW Collector's Series custom shop kit and 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

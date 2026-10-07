@@ -8,13 +8,13 @@
 
 ## Current Endorsements
 
-### Drums: Sonor
+### Drums: British Drum Co.
 
-Nicko McBrain endorses Sonor for drums. They play the Sonor SQ2. This partnership began in 2010s.
+Nicko McBrain endorses British Drum Co. for drums. This partnership began in 2019.
 
 ### Cymbals: Paiste
 
-Nicko McBrain endorses Paiste for cymbals. This partnership began in 1980s.
+Nicko McBrain endorses Paiste for cymbals. They play the Paiste 2002 & Signature Series. This partnership began in 1980s.
 
 ### Drumsticks: Vic Firth
 
@@ -24,24 +24,25 @@ Nicko McBrain endorses Vic Firth for drumsticks. They play the Vic Firth Nicko M
 
 Nicko McBrain endorses Remo for drumheads. This partnership began in 1984.
 
-### Hardware / Pedals: DW
+### Hardware / Pedals: unconfirmed
 
-Nicko McBrain endorses DW for hardware / pedals. They play the DW 5000 Single Pedal. This partnership began in 1984.
+Nicko McBrain endorses unconfirmed for hardware / pedals. They play the unconfirmed Single Pedal (not double bass). This partnership began in 1984.
 
 ## Endorsement History
 
 - **1984** (Drums): Signed with Pearl — Pearl DLX kit used for the "Powerslave" world tour and "Live After Death"
 - **1984** (Hardware / Pedals): Signed with DW — Adopted a DW 5000 single pedal, kept exclusively (no double bass) throughout his career
 - **1985** (Drums): Switched from Pearl to Yamaha — Moved to a Yamaha Recording Custom kit, used through 2010
-- **2010** (Drums): Switched from Yamaha to Sonor — Switched to the Sonor SQ2 signature kit that remains his current setup
+- **2010** (Drums): Switched from Yamaha to Sonor — Switched to the Sonor SQ2 signature kit, used until his 2019 British Drum Co. move
+- **2019** (Drums): Switched from Sonor to British Drum Co. — Became a British Drum Co. artist; continues to use his Sonor Nicko McBrain Signature 14"x6.5" snare within the BDC kit
 
 ## FAQ
 
 **Q: What brands does Nicko McBrain endorse?**
-A: Nicko McBrain endorses Sonor, Paiste, Vic Firth, Remo, DW. Their primary drum endorsement is Sonor and they play Paiste cymbals.
+A: Nicko McBrain endorses British Drum Co., Paiste, Vic Firth, Remo, unconfirmed. Their primary drum endorsement is British Drum Co. and they play Paiste cymbals.
 
 **Q: Does Nicko McBrain have a signature drum or cymbal?**
-A: Nicko McBrain is a key Sonor endorser but does not have a dedicated signature kit model in the current lineup.
+A: Nicko McBrain is a key British Drum Co. endorser but does not have a dedicated signature kit model in the current lineup.
 
 **Q: What is Nicko McBrain's endorsement history?**
 A: See the Endorsement History section above for a full timeline of Nicko McBrain's brand deals.
@@ -56,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Nicko McBrai
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

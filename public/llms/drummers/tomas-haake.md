@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/tomas-haake"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Tomas Haake — Drum Kit & Gear Setup
@@ -34,7 +34,7 @@ Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a massive 24x18" bass drum, 1
 
 Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.
 
-Tomas Haake (born July 13, 1971, in Örebro, Sweden) is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. He is widely regarded as one of the most innovative and influential drummers in contemporary heavy metal, having pioneered the polyrhythmic drumming style that spawned an entire subgenre known as "djent."
+Tomas Haake (born July 13, 1971, in Örnsköldsvik, Sweden) is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. He is widely regarded as one of the most innovative and influential drummers in contemporary heavy metal, having pioneered the polyrhythmic drumming style that spawned an entire subgenre known as "djent."
 
 Haake's approach to drumming involves complex polyrhythmic patterns that create the illusion of multiple time signatures occurring simultaneously. His metronomic precision and ability to navigate bewildering rhythmic landscapes while maintaining groove has influenced countless drummers and bands in the progressive and extreme metal communities.
 
@@ -250,4 +250,4 @@ Dated brand-endorsement timeline: [Tomas Haake's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

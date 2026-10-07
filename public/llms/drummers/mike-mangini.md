@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/mike-mangini"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Mike Mangini — Drum Kit & Gear Setup
@@ -23,13 +23,12 @@ Mike Mangini's drum kit and gear setup. Mike Mangini is a professional metal dru
 | Genre | Progressive Metal |
 | Country | USA |
 | Primary brand | Pearl |
-| Drum kit | Pearl Reference Series |
-| Signature snare | Pearl Reference 14x5" & 14x6.5" Brass |
+| Drum kit | Pearl Reference Pure |
 | Sticks | Vater Mike Mangini Wicked Piston (VHMMWP) |
 
 ## Kit Overview
 
-Mike Mangini plays a Pearl Reference Series kit with multiple snare options — a 14x5" and 14x6.5" Pearl Reference Brass snare — complemented by Sabian HHX and AAX cymbals including 14" HHX Evolution Hi-Hats, 17"/18"/19" Evolution Crashes, and a 21" HHX Raw Bell Dry Ride. A Roland SPD-SX sampling pad integrates electronics into his hybrid setup, driven by Pearl Demon Drive double pedals — a configuration built for Dream Theater's complex progressive metal landscapes.
+Mike Mangini plays a Pearl Reference Pure kit — a single-species maple configuration he switched to in 2019, succeeding the Masterworks Maple shells he used earlier in his Dream Theater tenure — complemented by Sabian HHX and AAX cymbals including 14" HHX Evolution Hi-Hats, 17"/18"/19" Evolution Crashes, and a 21" HHX Raw Bell Dry Ride. A Roland SPD-SX sampling pad integrates electronics into his hybrid setup, driven by Pearl Eliminator Redline double pedals — a configuration built for Dream Theater's complex progressive metal landscapes.
 
 ## Biography
 
@@ -106,12 +105,11 @@ Mike Mangini's drumming represents the intersection of academic study and practi
 
 ## Gear
 
-- **Drums:** Pearl Reference Series
-- **Snare:** Pearl Reference 14x5" & 14x6.5" Brass
+- **Drums:** Pearl Reference Pure
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)
-- **Hardware:** Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad
+- **Hardware:** Pearl Eliminator Redline Double Pedal, Roland SPD-SX Sampling Pad
 - **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP)
-- **Heads:** Evans
+- **Heads:** Remo
 
 See the [Mike Mangini vs Gavin Harrison](/vs/gavin-harrison-vs-mike-mangini) comparison for a full breakdown of Dream Theater's technical science vs Porcupine Tree/King Crimson's polyrhythmic feel.
 
@@ -139,11 +137,11 @@ A: Mike Mangini plays a Pearl Reference Series drum kit.
 
 **Q: What drum kit does Mike Mangini play?**
 
-A: Mike Mangini's drum kit is a Pearl Reference Series shell pack built around two signature-spec Pearl Reference brass snares (14"x5" and 14"x6.5"), with Evans drumheads.
+A: Mike Mangini's drum kit is a Pearl Reference Series shell pack built around two signature-spec Pearl Reference brass snares (14"x5" and 14"x6.5"), with Remo drumheads (Emperor Coated / Powerstroke 3).
 
 **Q: What drum set does Mike Mangini play?**
 
-A: Mike Mangini's drum set pairs Pearl Reference Series shells and his two Pearl Reference brass snares with Sabian HHX and AAX Series cymbals, plus a Roland SPD-SX sampling pad for electronic textures.
+A: Mike Mangini's drum set pairs Pearl Reference Series shells and his two Pearl Reference brass snares with Sabian HHX and AAX Series cymbals.
 
 **Q: What cymbals does Mike Mangini use?**
 
@@ -159,15 +157,11 @@ A: Mike Mangini plays two Pearl Reference brass snares — a 14"x5" and a 14"x6.
 
 **Q: What pedals does Mike Mangini use?**
 
-A: Mike Mangini drives his technical double bass patterns with a Pearl Demon Drive double pedal.
+A: Mike Mangini drives his technical double bass patterns with a Pearl Eliminator Redline Double Pedal.
 
 **Q: What drumsticks does Mike Mangini use?**
 
 A: Mike Mangini plays his own signature Vater Mike Mangini Wicked Piston (VHMMWP) drumsticks.
-
-**Q: What electronics does Mike Mangini use?**
-
-A: Mike Mangini integrates a Roland TD-50 module for triggers and samples into his Pearl Reference Series drum kit, giving his drum set the electronic textures heard on recent Dream Theater albums.
 
 ## Trivia
 
@@ -215,7 +209,7 @@ Full breakdown: [Mike Mangini's cymbal setup](https://metalforge.io/cymbals/setu
 
 ## Pedal
 
-Mike Mangini plays a Pearl Demon Drive double pedal (direct-drive).
+Mike Mangini plays a Pearl Eliminator Redline double pedal.
 
 Full breakdown: [Mike Mangini's pedal setup](https://metalforge.io/pedals/setups/mike-mangini).
 
@@ -250,4 +244,4 @@ Dated brand-endorsement timeline: [Mike Mangini's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

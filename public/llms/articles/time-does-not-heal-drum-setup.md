@@ -1,6 +1,6 @@
 # Time Does Not Heal Drum Setup: Gene Hoglan's Dark Angel Final Chapter (1991)
 
-> Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Time Does Not Heal (1991) — the band's final album and Hoglan's most sophisticated extreme thrash performance before pivoting to death metal with Death. Tama Rockstar, Ludwig Acrolite snare, Paiste 2002 cymbals.
+> Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Time Does Not Heal (1991) — the band's final album and Hoglan's most sophisticated extreme thrash performance before pivoting to death metal with Death. Tama Rockstar, Ludwig Acrolite snare, Zildjian A Series cymbals.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Gene Hoglan](/llms/drummers/gene-hoglan.md)
@@ -18,7 +18,7 @@ The album represents a significant departure from Dark Angel's previous work in 
 
 Recorded once again at Track Record Studios in North Hollywood with producer Bill Metoyer, the 1991 sessions benefited from a production approach refined across three prior Dark Angel albums. Metoyer understood Hoglan's playing with the precision of a long-term collaborator — where to place the microphones, how much compression to apply, what the kick drums needed to cut through increasingly complex guitar arrangements.
 
-Gear-wise, the sessions were consistent with "Leave Scars" — Tama Rockstar drums, Ludwig Acrolite snare, Paiste 2002 cymbals, Tama Iron Cobra pedals. The continuity was deliberate: Hoglan had developed a setup that worked, and there was no compelling reason to disrupt it mid-career. What evolved between these albums was not the gear but the application — how a drummer with five years of professional development used familiar tools to serve compositions of unprecedented complexity.
+Gear-wise, the sessions were consistent with "Leave Scars" — Tama Rockstar drums, Ludwig Acrolite snare, Zildjian A Series cymbals, Tama Iron Cobra pedals. The continuity was deliberate: Hoglan had developed a setup that worked, and there was no compelling reason to disrupt it mid-career. What evolved between these albums was not the gear but the application — how a drummer with five years of professional development used familiar tools to serve compositions of unprecedented complexity.
 
 For what preceded this: see [leave-scars-drum-setup](https://metalforge.io/articles/leave-scars-drum-setup) (1989) and [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986). For what followed: [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) (Death, 1993). For the complete career arc: [gene-hoglan-drum-setup](https://metalforge.io/articles/gene-hoglan-drum-setup).
 
@@ -26,7 +26,7 @@ For what preceded this: see [leave-scars-drum-setup](https://metalforge.io/artic
 
 - **Drums:** Tama Tama Rockstar (Black finish)
 - **Snare:** Ludwig Ludwig Acrolite, 14" x 5"
-- **Cymbals:** Paiste — Paiste 2002 Series
+- **Cymbals:** Zildjian — Zildjian A Series
 - **Hardware / Pedals:** Tama Iron Cobra Single Pedals (x2); Tama HH55W Hi-Hat Stand; Tama HT230B; Vic Firth 5B Wood Tip
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension, moderately tight snare wires — five years of consistent application
@@ -53,23 +53,23 @@ On "Time Does Not Heal," the Acrolite's character is more clearly audible than o
 
 This dynamic expansion represents the final phase of Hoglan's pre-death-metal snare development. On "Individual Thought Patterns" the following year, the snare would change — Pearl Free-Floating steel replacing the Acrolite — but the dynamic vocabulary and compositional approach to snare work that Hoglan developed over three Dark Angel albums would transfer completely. The Acrolite, in this sense, was the training ground.
 
-### Paiste 2002: The Dark Angel Sound Fully Developed
+### Zildjian A Series: The Dark Angel Sound Fully Developed
 
-The Paiste 2002 cymbal setup that Gene Hoglan had introduced on "Leave Scars" reached its fullest Dark Angel expression on "Time Does Not Heal." By 1991, Hoglan had two years of familiarity with this setup — he understood how each cymbal interacted with the others, how the Sound Edge hi-hats' focused articulation complemented the 2002 crashes' fast decay, and how the entire setup functioned within Metoyer's production.
+The Zildjian A series setup Gene Hoglan had carried since 1983 reached its fullest Dark Angel expression on "Time Does Not Heal." By 1991, Hoglan had eight years of familiarity with this cymbal family — he understood how each piece interacted with the others, how the New Beat hi-hats' focused articulation complemented the A series crashes' warm decay, and how the entire setup functioned within Metoyer's production.
 
-The most significant change from the Leave Scars cymbal setup was the addition of a 19" Wild Crash — expanding the existing 16" and 18" configuration with a third, heavier option for the album's most climactic passages. This expansion reflected the increased compositional scope of "Time Does Not Heal" — songs with more dynamic variation required more dynamic cymbal options.
+The most significant change from the Leave Scars cymbal setup was the addition of a 19" Medium Crash — expanding the existing 16" and 18" configuration with a third, heavier option for the album's most climactic passages. This expansion reflected the increased compositional scope of "Time Does Not Heal" — songs with more dynamic variation required more dynamic cymbal options.
 
-The Paiste 2002's CuSn8 bronze alloy continued to deliver the drier, faster-decaying character that Hoglan had found suited his playing. In the extended song structures of "Time Does Not Heal" — the title track alone runs over eight minutes, with multiple distinct sections — the 2002's fast decay prevented cymbal wash from accumulating across long passages. Every accent remained distinct; every crash spoke clearly even as the arrangements around it grew more complex.
+The A series' traditional B20 bronze alloy continued to deliver the complex, musical character that had defined Hoglan's sound since Darkness Descends. In the extended song structures of "Time Does Not Heal" — the title track alone runs over eight minutes, with multiple distinct sections — that complexity gave the arrangements texture without the cymbals ever overwhelming the guitar work. Every accent remained distinct; every crash spoke clearly even as the arrangements around it grew more complex.
 
-The 14" Sound Edge Hi-Hats were particularly prominent on this album. The extended song structures gave Hoglan more room for hi-hat variation — moving between closed, half-open, and open positions within extended passages, using the hi-hat as a melodic voice rather than purely a timekeeping instrument. This approach to hi-hat work would characterize his Death recordings and establish a technique that remains part of his vocabulary today.
+The 14" New Beat Hi-Hats were particularly prominent on this album. The extended song structures gave Hoglan more room for hi-hat variation — moving between closed, half-open, and open positions within extended passages, using the hi-hat as a melodic voice rather than purely a timekeeping instrument. This approach to hi-hat work would characterize his Death recordings and establish a technique that remains part of his vocabulary today.
 
-The 2002 setup on "Time Does Not Heal" represents Hoglan's cymbal approach at the peak of his Dark Angel era — and the final iteration before the Sabian HH series that marked his transition into the Death recordings.
+The A series setup on "Time Does Not Heal" represents Hoglan's cymbal approach at the peak of his Dark Angel era — and the final chapter before the switch to Sabian's AAX series that marked his transition into the Death recordings the following year.
 
 ## Time Does Not Heal: The Dark Angel Endgame
 
 "Time Does Not Heal" stands as both Dark Angel's most sophisticated studio recording and the conclusion of the arc that began with "Darkness Descends" in 1986. Gene Hoglan at 24 was playing at a level that the 19-year-old who had opened that earlier album at 247 BPM could not have reached — not faster, but more complete, more compositionally aware, more dynamically sophisticated.
 
-The gear that served these sessions — Tama Rockstar, Ludwig Acrolite, Paiste 2002 — was not exotic or expensive by professional standards. But Hoglan had made it his own across multiple albums and years of touring, and the familiarity shows in the performance. Every choice on "Time Does Not Heal" sounds considered: the cymbal selections serve the compositions, the dynamic range serves the song structures, the double kick patterns serve the arrangements.
+The gear that served these sessions — Tama Rockstar, Ludwig Acrolite, Zildjian A Series — was not exotic or expensive by professional standards. But Hoglan had made it his own across multiple albums and years of touring, and the familiarity shows in the performance. Every choice on "Time Does Not Heal" sounds considered: the cymbal selections serve the compositions, the dynamic range serves the song structures, the double kick patterns serve the arrangements.
 
 For drummers tracing Gene Hoglan's development through MetalForge's documentation: this album completes the Dark Angel trilogy of [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986), [leave-scars-drum-setup](https://metalforge.io/articles/leave-scars-drum-setup) (1989), and this 1991 final chapter. From here, Hoglan walked into Morrisound Recording with Chuck Schuldiner and changed the course of death metal drumming — but "Time Does Not Heal" made that transition possible. The Atomic Clock, in 1991, was fully wound.
 
@@ -81,7 +81,7 @@ For drummers tracing Gene Hoglan's development through MetalForge's documentatio
 - Dark Angel's most compositionally complex album — longer tracks, more dynamic variation
 - Final studio album before the band dissolved in 1992
 - Recorded at Track Record Studios, North Hollywood with producer Bill Metoyer
-- Consistent gear from Leave Scars: Tama Rockstar, Ludwig Acrolite, Paiste 2002
+- Consistent gear from Leave Scars: Tama Rockstar, Ludwig Acrolite, Zildjian A Series
 - Title track exceeds eight minutes — compositional scale beyond any prior Dark Angel material
 - Released May 5, 1991 on Combat Records
 - Same Tama Rockstar kit carried from Leave Scars sessions — familiar and fully integrated
@@ -104,7 +104,7 @@ A: Dark Angel's last album before breaking up was Time Does Not Heal, released M
 
 **Q: What drums did Gene Hoglan use on Time Does Not Heal?**
 
-A: Gene Hoglan recorded Dark Angel's Time Does Not Heal (1991) using a Tama Rockstar kit — the same setup he had used on Leave Scars (1989). His configuration retained the twin 22" x 16" bass drums for independent double-kick, with 10" and 12" rack toms and 14" and 16" floor toms. His snare remained the Ludwig Acrolite aluminum model at 14" x 5" — consistent throughout all Dark Angel studio albums. Cymbals were Paiste 2002 series, expanded with an added 19" Wild Crash over the Leave Scars configuration. Pedals were Tama Iron Cobra singles, one per bass drum.
+A: Gene Hoglan recorded Dark Angel's Time Does Not Heal (1991) using a Tama Rockstar kit — the same setup he had used on Leave Scars (1989). His configuration retained the twin 22" x 16" bass drums for independent double-kick, with 10" and 12" rack toms and 14" and 16" floor toms. His snare remained the Ludwig Acrolite aluminum model at 14" x 5" — consistent throughout all Dark Angel studio albums. Cymbals were Zildjian A Series, the same setup he'd played since signing with Zildjian in 1983, expanded with an added 19" Medium Crash over the Leave Scars configuration. Pedals were Tama Iron Cobra singles, one per bass drum.
 
 ## Related Articles
 
@@ -125,4 +125,4 @@ A: Gene Hoglan recorded Dark Angel's Time Does Not Heal (1991) using a Tama Rock
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

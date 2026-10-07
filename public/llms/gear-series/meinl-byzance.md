@@ -1,12 +1,12 @@
 # Meinl Byzance — Cymbals | MetalForge
 
-> The Meinl Byzance is a pro-grade cymbals choice used by 9 metal drummers in the MetalForge database.
+> The Meinl Byzance is a pro-grade cymbals choice used by 7 metal drummers in the MetalForge database.
 
 **Brand:** Meinl  
 **Series:** Byzance  
 **Category:** Cymbals  
 **Estimated Price:** $1,500–$4,000 (set)  
-**Drummers Using It:** 9  
+**Drummers Using It:** 7  
 
 ---
 
@@ -16,13 +16,11 @@
 - **[Chris Adler](https://metalforge.io/drummer/chris-adler)** (Lamb of God) — 14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China
 - **[Matt Halpern](https://metalforge.io/drummer/matt-halpern)** (Periphery) — 15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China
 - **[Navene Koperweis](https://metalforge.io/drummer/navene-koperweis)** (Entheos / ex-Animals as Leaders) — 15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash
-- **[Matt Greiner](https://metalforge.io/drummer/matt-greiner)** (August Burns Red) — 15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes
 - **[Chris Turner](https://metalforge.io/drummer/chris-turner)** (Oceans Ate Alaska) — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China
 - **[Matt Garstka](https://metalforge.io/drummer/matt-garstka)** (Animals as Leaders) — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride
 - **[Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann)** (Obscura / ex-Necrophagist / Alkaloid) — 14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride
-- **[Martin Axenrot](https://metalforge.io/drummer/martin-axenrot)** (Opeth) — 14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China
 
-See all 9 drummers on the [Meinl Byzance gear page](https://metalforge.io/gear/meinl/byzance/drummers-using).
+See all 7 drummers on the [Meinl Byzance gear page](https://metalforge.io/gear/meinl/byzance/drummers-using).
 
 ## Gear Specifications
 
@@ -37,10 +35,10 @@ The Meinl Byzance cymbals are a go-to choice in the metal scene for their cuttin
 ## Frequently Asked Questions
 
 **Q: Which metal drummers use the Meinl Byzance?**
-A: 9 metal drummers in the MetalForge database play the Meinl Byzance: Brann Dailor, Chris Adler, Matt Halpern, Navene Koperweis, Matt Greiner, Chris Turner, Matt Garstka, Hannes Grossmann, and Martin Axenrot. Each profile includes their exact setup and full kit configuration.
+A: 7 metal drummers in the MetalForge database play the Meinl Byzance: Brann Dailor, Chris Adler, Matt Halpern, Navene Koperweis, Chris Turner, Matt Garstka, and Hannes Grossmann. Each profile includes their exact setup and full kit configuration.
 
 **Q: Is the Meinl Byzance good for metal drumming?**
-A: Yes — the Meinl Byzance is a proven metal choice, endorsed by 9 professional drummers across death, thrash, progressive, and groove metal. Brann Dailor of Mastodon is among the signature players relying on this cymbals for high-intensity performance.
+A: Yes — the Meinl Byzance is a proven metal choice, endorsed by 7 professional drummers across death, thrash, progressive, and groove metal. Brann Dailor of Mastodon is among the signature players relying on this cymbals for high-intensity performance.
 
 **Q: How much does the Meinl Byzance cost?**
 A: The Meinl Byzance is estimated at $1,500–$4,000 (set) street price. Actual pricing varies by retailer, finish, and configuration. Check Thomann (EU) or Sweetwater (US) for current deals.
@@ -50,4 +48,4 @@ A: MetalForge tracks all Meinl series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/meinl/byzance/drummers-using](https://metalforge.io/gear/meinl/byzance/drummers-using) · Last updated: 2026-07-25*
+*Source: [metalforge.io/gear/meinl/byzance/drummers-using](https://metalforge.io/gear/meinl/byzance/drummers-using) · Last updated: 2026-10-07*

@@ -64,4 +64,4 @@ A: Both incorporate jazz into heavy contexts, but differently — Lopez brings j
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

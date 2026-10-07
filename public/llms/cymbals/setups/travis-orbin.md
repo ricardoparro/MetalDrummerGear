@@ -41,4 +41,4 @@ A: Travis Orbin plays Zildjian cymbals: 14" K Custom Dark Hi-Hats, 18" K Custom 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -3,10 +3,10 @@ name: "Daray"
 band: "Dimmu Borgir / Vader"
 genre: "Black Metal / Death Metal"
 country: "Poland"
-primary_brand: "Pearl"
+primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/daray"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Daray — Drum Kit & Gear Setup
@@ -22,22 +22,22 @@ Daray's drum kit and gear setup. Daray is a professional metal drummer best know
 | All bands | Dimmu Borgir, Vader |
 | Genre | Black Metal / Death Metal |
 | Country | Poland |
-| Primary brand | Pearl |
-| Drum kit | Pearl Masterworks Stadium Exotic |
-| Signature snare | Pearl Reference 14x5.5" Brass |
+| Primary brand | Tama |
+| Drum kit | Tama Starclassic Performer B/B, Piano Black |
+| Signature snare | Tama S.L.P. Black Brass LBR1465 |
 | Sticks | Vic Firth American Classic Extreme 5B |
 
 ## Kit Overview
 
-Daray's kit is anchored by a Pearl Masterworks Stadium Exotic shell pack, a setup built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements and Vader's blast-driven death metal assault. His Pearl Reference 14x5.5" Brass snare supplies a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike, forming the backbone of the Daray drum kit.
+Daray's kit is anchored by a Tama Starclassic Performer B/B shell pack in Piano Black, a setup built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements and Vader's blast-driven death metal assault. His Tama S.L.P. Black Brass LBR1465 snare supplies a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike, forming the backbone of the Daray drum kit.
 
-Paiste's RUDE and 2002 Series cymbals give the kit its aggressive edge: 14" RUDE Hi-Hats for raw, driving timekeeping; 17" and 18" RUDE Crashes for explosive accents; and a 22" RUDE Power Ride cutting through extreme-tempo passages. A Pearl Demon XR double pedal provides the speed and control behind his rapid-fire double bass work, a defining element of his playing with both Dimmu Borgir and Vader. Vic Firth American Classic Extreme 5B sticks — a heavier stick variant built for extreme metal's demands — and Evans heads complete the setup, engineered to withstand the speed and theatrical intensity of his live performances.
+Paiste's RUDE and 2002 Series cymbals give the kit its aggressive edge: 14" RUDE Hi-Hats for raw, driving timekeeping; 17" and 18" RUDE Crashes for explosive accents; and a 22" RUDE Power Ride cutting through extreme-tempo passages. A Pearl Demon Drive double pedal provides the speed and control behind his rapid-fire double bass work, a defining element of his playing with both Dimmu Borgir and Vader. Vic Firth American Classic Extreme 5B sticks — a heavier stick variant built for extreme metal's demands — and Evans heads complete the setup, engineered to withstand the speed and theatrical intensity of his live performances.
 
 ## Biography
 
-Dariusz "Daray" Brzozowski (born August 23, 1984) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2006-2016). His drumming combines extreme speed, technical precision, and theatrical flair.
+Dariusz "Daray" Brzozowski (born January 30, 1980) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2006-2016). His drumming combines extreme speed, technical precision, and theatrical flair.
 
-Dariusz "Daray" Brzozowski (born August 23, 1984, in Warsaw, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his 10-year tenure with Polish death metal legends Vader (2006-2016).
+Dariusz "Daray" Brzozowski (born January 30, 1980, in Nowy Dwór Mazowiecki, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his 10-year tenure with Polish death metal legends Vader (2006-2016).
 
 Daray's drumming combines extreme speed and technical precision with theatrical flair, making him ideally suited for Dimmu Borgir's grandiose symphonic productions. His ability to perform complex, blistering patterns while maintaining the dynamics required for orchestral metal has established him as one of the premier drummers in extreme metal.
 
@@ -95,10 +95,10 @@ Daray's drumming style combines the extreme speed and brutality of death metal w
 
 ## Gear
 
-- **Drums:** Pearl Masterworks Stadium Exotic
-- **Snare:** Pearl Reference 14x5.5" Brass
+- **Drums:** Tama Starclassic Performer B/B, Piano Black
+- **Snare:** Tama S.L.P. Black Brass LBR1465
 - **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride)
-- **Hardware:** Pearl Demon XR Double Pedal
+- **Hardware:** Pearl Demon Drive Double Bass Pedal
 - **Sticks:** Vic Firth American Classic Extreme 5B
 - **Heads:** Evans
 
@@ -116,11 +116,11 @@ Daray's drumming style combines the extreme speed and brutality of death metal w
 
 **Q: What drum kit does Daray use?**
 
-A: Daray's kit is anchored by a Pearl Masterworks Stadium Exotic shell pack, built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements and Vader's blast-driven death metal assault. It centers on a Pearl Reference 14"x5.5" Brass snare.
+A: Since switching to Tama in 2014, Daray's kit has been anchored by a Starclassic Performer B/B shell pack in Piano Black, built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements. It centers on a Tama S.L.P. Black Brass snare. He played a Pearl Masterworks Stadium Exotic kit from 2008-2013, tracked on "Abrahadabra."
 
 **Q: What drum set does Daray use?**
 
-A: Daray's drum set pairs his Pearl Masterworks shells and brass snare with a Pearl Demon XR double pedal, giving him the speed and control behind his rapid-fire double bass work with both Dimmu Borgir and Vader.
+A: Daray's drum set pairs his Tama Starclassic Performer B/B shells and S.L.P. Black Brass snare with a Pearl Demon Drive double pedal, giving him the speed and control behind his rapid-fire double bass work with Dimmu Borgir.
 
 **Q: What cymbals does Daray play?**
 
@@ -128,7 +128,7 @@ A: Daray plays Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats, 17" and 18
 
 **Q: What snare does Daray use?**
 
-A: Daray's snare is a Pearl Reference 14"x5.5" Brass, supplying a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike.
+A: Daray's snare is a Tama S.L.P. Black Brass (LBR1465), supplying a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike.
 
 **Q: What sticks does Daray use?**
 
@@ -136,11 +136,11 @@ A: Daray uses Vic Firth American Classic Extreme 5B drumsticks, a heavier stick 
 
 **Q: What bass drum pedal does Daray use?**
 
-A: Daray drives his rapid-fire double bass work with a Pearl Demon XR double pedal.
+A: Daray drives his rapid-fire double bass work with a Pearl Demon Drive double pedal.
 
 **Q: What drumheads does Daray use?**
 
-A: Daray uses Evans drumheads across his Pearl Masterworks kit.
+A: Daray uses Evans drumheads across his Tama Starclassic kit.
 
 **Q: What band is Daray in?**
 
@@ -217,6 +217,7 @@ Dated brand-endorsement timeline: [Daray's endorsement history](https://metalfor
 
 ## Sources
 
+- [Tama Drums](https://www.tama.com)
 - [Pearl Drums](https://pearldrum.com)
 - [Dimmu Borgir Official](https://www.dimmu-borgir.com)
 - [Paiste Cymbals](https://www.paiste.com)
@@ -228,4 +229,4 @@ Dated brand-endorsement timeline: [Daray's endorsement history](https://metalfor
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

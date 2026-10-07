@@ -25,7 +25,7 @@ By the time Ghost Reveries toured, Lopez's long-standing struggles with panic di
 - **Drums:** Sonor Sonor Designer Series (Natural Maple finish)
 - **Snare:** Sonor Sonor Designer Maple Snare, 14" x 5.5"
 - **Cymbals:** Sabian — Sabian HH (Hand Hammered) & AAX Series
-- **Hardware / Pedals:** DW 5000 Double Pedal; DW 5500 Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5A; DW Standard Felt Beaters
+- **Hardware / Pedals:** DW 5500 Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5A; DW Standard Felt Beaters
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium, balanced for both ghost notes and full-force hits
 
@@ -121,4 +121,4 @@ A: Martin Lopez used Sabian HH and AAX cymbals on Ghost Reveries — the same co
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

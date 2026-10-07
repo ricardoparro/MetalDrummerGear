@@ -14,7 +14,7 @@ Trivium's Nick Augusto vs August Burns Red's Matt Greiner. Modern American metal
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Snare:** Pearl Reference 14x6.5" Brass
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
-- **Sticks:** Vic Firth American Classic 5B
+- **Sticks:** Pro-Mark Nylon Tip 5B
 
 ## Matt Greiner Setup
 
@@ -34,7 +34,7 @@ Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight
 
 ## Key Differences
 
-Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Matt Greiner's current setup is a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14"x6" steel snare, Paiste Formula 602 cymbals, a DW 9000 Series double pedal, and his own Vic Firth Matt Greiner Signature sticks. Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight, aggressive double bass work and straightforward technicality built to serve Trivium's thrash-influenced songwriting rather than to showcase complexity for its own sake. Greiner takes the opposite approach within the same genre: his style layers jazz-influenced dynamics, creative stacked-cymbal work, and intricate, rapid-fire kick patterns over metalcore's heavy foundation, drawing on Chris Adler, Danny Carey, Tony Royster Jr., and Brann Dailor to build compositions that shift fluidly between delicate passages and crushing breakdowns, often inside the same odd time signature.
+Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Pro-Mark Nylon Tip 5B sticks. Matt Greiner's current setup is a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14"x6" steel snare, Paiste Formula 602 cymbals, a DW 9000 Series double pedal, and his own Vic Firth Matt Greiner Signature sticks. Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight, aggressive double bass work and straightforward technicality built to serve Trivium's thrash-influenced songwriting rather than to showcase complexity for its own sake. Greiner takes the opposite approach within the same genre: his style layers jazz-influenced dynamics, creative stacked-cymbal work, and intricate, rapid-fire kick patterns over metalcore's heavy foundation, drawing on Chris Adler, Danny Carey, Tony Royster Jr., and Brann Dailor to build compositions that shift fluidly between delicate passages and crushing breakdowns, often inside the same odd time signature.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Yes — Pearl released the Matt Greiner Signature Snare, a 14"x6" steel-shell
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

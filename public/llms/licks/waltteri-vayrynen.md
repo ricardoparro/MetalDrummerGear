@@ -50,4 +50,4 @@ Waltteri Väyrynen's style is defined by precision, timing, and genre-defining g
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

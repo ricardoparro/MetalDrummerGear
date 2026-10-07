@@ -20,9 +20,9 @@ Inferno endorses Paiste for cymbals. They play the Paiste RUDE Series. This part
 
 Inferno endorses Vic Firth for drumsticks. They play the Vic Firth American Classic Extreme 5B. This partnership began in 2000s.
 
-### Drumheads: Evans
+### Drumheads: Remo
 
-Inferno endorses Evans for drumheads. This partnership began in 2000s.
+Inferno endorses Remo for drumheads. This partnership began in 2000s.
 
 ### Hardware / Pedals: Monolit
 
@@ -35,7 +35,7 @@ Inferno endorses Monolit for hardware / pedals. They play the Monolit Czarcie Ko
 ## FAQ
 
 **Q: What brands does Inferno endorse?**
-A: Inferno endorses Pearl, Paiste, Vic Firth, Evans, Monolit. Their primary drum endorsement is Pearl and they play Paiste cymbals.
+A: Inferno endorses Pearl, Paiste, Vic Firth, Remo, Monolit. Their primary drum endorsement is Pearl and they play Paiste cymbals.
 
 **Q: Does Inferno have a signature drum or cymbal?**
 A: Inferno is a key Pearl endorser but does not have a dedicated signature kit model in the current lineup.
@@ -53,4 +53,4 @@ A: See the Endorsement History section above for a full timeline of Inferno's br
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

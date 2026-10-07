@@ -76,4 +76,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

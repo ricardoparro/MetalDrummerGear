@@ -32,9 +32,9 @@ Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest d
 **Band:** Slayer  
 **Career:** Slayer, Suicidal Tendencies, Dead Cross, Mr. Bungle, Fantômas  
 **Genre:** Thrash Metal  
-**Current Kit:** Tama Starclassic Maple  
+**Current Kit:** Tama Starclassic Walnut/Birch  
 **Cymbals:** Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)  
-**Key Gear:** Tama S.L.P. 14x6.5" G-Maple, Tama Iron Cobra 900 Double Pedal, Promark Dave Lombardo Signature 2Bx  
+**Key Gear:** Tama S.L.P. 14x6.5", Tama Iron Cobra 900 Double Pedal, Promark Dave Lombardo Signature 2Bx  
 
 **Watch:**
 
@@ -46,9 +46,9 @@ Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest d
 
 | Category | Vinnie Paul | Dave Lombardo |
 |----------|-------------|---------------|
-| Drum Kit | ddrum (brand confirmed; specific kit series unverified) | Tama Starclassic Maple |
+| Drum Kit | ddrum (brand confirmed; specific kit series unverified) | Tama Starclassic Walnut/Birch |
 | Cymbals | Sabian | Paiste |
-| Snare | ddrum Vinnie Paul Signature 14x8" (8-ply maple, 10 lugs, die-cast hoops) | Tama S.L.P. 14x6.5" G-Maple |
+| Snare | ddrum Vinnie Paul Signature 14x8" (8-ply maple, 10 lugs, die-cast hoops) | Tama S.L.P. 14x6.5" |
 | Pedals | ddrum hardware (brand confirmed via 2009 interview; specific pedal/throne models unverified) | Tama Iron Cobra 900 Double Pedal |
 
 ## FAQ
@@ -57,13 +57,13 @@ Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest d
 A: Vinnie Paul's ddrum Vinnie Paul Signature + Sabian AA/AAX is estimated at $8,000–$12,000, while Dave Lombardo's Tama Starclassic Maple + Paiste RUDE runs approximately $7,000–$10,000. Both setups are professional-grade rigs well into five-figure territory when fully configured with all cymbals, hardware, and electronics.
 
 **Q: What are the main gear differences between Vinnie Paul and Dave Lombardo?**  
-A: Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified) paired with Sabian (brand per secondary sources; specific models unverified). Dave Lombardo opts for Tama Starclassic Maple with Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/vinnie-paul-vs-dave-lombardo](https://metalforge.io/battles/vinnie-paul-vs-dave-lombardo).
+A: Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified) paired with Sabian (brand per secondary sources; specific models unverified). Dave Lombardo opts for Tama Starclassic Walnut/Birch with Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/vinnie-paul-vs-dave-lombardo](https://metalforge.io/battles/vinnie-paul-vs-dave-lombardo).
 
 **Q: Who wins the drum kit battle, Vinnie Paul or Dave Lombardo?**  
 A: The winner is decided by community votes on MetalForge. Vinnie Paul (Pantera / Damageplan / Hellyeah) and Dave Lombardo (Slayer) both bring world-class rigs. Cast your vote at [metalforge.io/battles/vinnie-paul-vs-dave-lombardo](https://metalforge.io/battles/vinnie-paul-vs-dave-lombardo).
 
 **Q: What drum kits do Vinnie Paul and Dave Lombardo play?**  
-A: Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified). Dave Lombardo plays Tama Starclassic Maple.
+A: Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified). Dave Lombardo plays Tama Starclassic Walnut/Birch.
 
 **Q: What cymbals do Vinnie Paul and Dave Lombardo use?**  
 A: Vinnie Paul uses Sabian (brand per secondary sources; specific models unverified). Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China).
@@ -76,4 +76,4 @@ A: Vinnie Paul uses Sabian (brand per secondary sources; specific models unverif
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -10,9 +10,9 @@ Sepultura founding drummer Igor Cavalera vs current drummer Eloy Casagrande. Bra
 
 ## Igor Cavalera Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Drums:** Yamaha Absolute Hybrid Maple
+- **Cymbals:** Zildjian A Custom Series
+- **Snare:** Yamaha
 - **Pedals/Hardware:** Tama Iron Cobra Double Pedal, Tama Throne
 - **Sticks:** Vic Firth American Classic 5B
 
@@ -47,16 +47,16 @@ Igor Cavalera created Sepultura's iconic sound. Eloy Casagrande honors it while 
 ## FAQ
 
 **Q: What are the main differences between Igor Cavalera's and Eloy Casagrande's drum kits?**
-A: Igor Cavalera plays Tama Starclassic Maple with Paiste cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Igor played various brands throughout his career. Eloy endorses Tama drums with Paiste cymbals.
+A: Igor Cavalera plays Yamaha Absolute Hybrid Maple with Zildjian cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Igor played various brands throughout his career. Eloy endorses Tama drums with Paiste cymbals.
 
 **Q: What drums does Igor Cavalera play vs Eloy Casagrande?**
-A: Igor Cavalera plays Tama Starclassic Maple. Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms).
+A: Igor Cavalera plays Yamaha Absolute Hybrid Maple. Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms).
 
 **Q: Who is the better thrash metal drummer, Igor Cavalera or Eloy Casagrande?**
 A: Both are legends in their own right. Igor Cavalera created Sepultura's iconic sound. See the full analysis at [metalforge.io/vs/igor-cavalera-vs-eloy-casagrande](https://metalforge.io/vs/igor-cavalera-vs-eloy-casagrande).
 
 **Q: What cymbals do Igor Cavalera and Eloy Casagrande use?**
-A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China). Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong).
+A: Igor Cavalera uses Zildjian A Custom Series. Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong).
 
 ---
 
@@ -67,4 +67,4 @@ A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUD
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # 10 Best Thrash Metal Drummers Ranked — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-thrash-metal-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-thrash-metal-drummers)
 
 ---
 
@@ -152,7 +152,7 @@ A: Slayer's Dave Lombardo is most commonly cited as thrash metal's greatest drum
 A: Nick Menza (born July 23, 1964 — died May 21, 2016) was Megadeth's drummer from 1989 to 1998 and briefly in 2004, performing on the landmark albums "Rust in Peace" (1990), "Countdown to Extinction" (1992), "Youthanasia" (1994), and "Cryptic Writings" (1997). His drumming on "Rust in Peace" — particularly "Holy Wars...The Punishment Due," "Tornado of Souls," and "Hangar 18" — is studied by thrash drummers as among the greatest performances in the genre's history. He died of a heart attack while performing on stage at The Baked Potato club in Studio City, California. His absence from the top of this list reflects a data constraint in our ranking system, not an assessment of his quality — any honest ranking of the five greatest thrash metal drummers must include Nick Menza, and his contribution to Megadeth's classic era is irreplaceable.
 
 **Q: What gear do thrash metal drummers use?**
-A: Classic-era thrash metal drummers gravitated toward Tama and Pearl kits for their punchy attack and durability under aggressive playing. Dave Lombardo was on Pearl kits during the "Reign in Blood" era, later moving to Tama. Lars Ulrich also used Tama during Metallica's classic period. Nick Menza recorded "Rust in Peace" on a Tama Swingstar — a mid-range kit whose poplar shells delivered the tight, dry sound that defined Megadeth's production. For cymbals, thrash metal favors attack-heavy options: Paiste RUDE series (Lombardo's choice for its aggressive tone), Zildjian A Custom (Ulrich's long-term endorsement), and Sabian AAX for modern thrash applications. Double bass pedals are essential — Tama Iron Cobra and Pearl Eliminator series are the most common choices for their power-to-weight ratio at thrash tempos.
+A: Classic-era thrash metal drummers gravitated toward Tama and Pearl kits for their punchy attack and durability under aggressive playing. Dave Lombardo was on Pearl kits during the "Reign in Blood" era, later moving to Tama. Lars Ulrich also used Tama during Metallica's classic period. Nick Menza recorded "Rust in Peace" on a Tama Artstar II — a kit whose birch shells delivered the tight, dry sound that defined Megadeth's production. For cymbals, thrash metal favors attack-heavy options: Paiste RUDE series (Lombardo's choice for its aggressive tone), Zildjian A Custom (Ulrich's long-term endorsement), and Sabian AAX for modern thrash applications. Double bass pedals are essential — Tama Iron Cobra and Pearl Eliminator series are the most common choices for their power-to-weight ratio at thrash tempos.
 
 
 ---
@@ -173,4 +173,4 @@ A: Classic-era thrash metal drummers gravitated toward Tama and Pearl kits for t
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

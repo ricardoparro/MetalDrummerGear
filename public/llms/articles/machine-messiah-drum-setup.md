@@ -25,8 +25,8 @@ His gear for the album: a Tama Starclassic Walnut/Birch kit, Paiste 2002/RUDE cy
 - **Drums:** Tama Tama Starclassic Walnut/Birch (Custom Sepultura livery finish)
 - **Snare:** Tama Tama S.L.P. Sonic Steel, 14" x 5.5"
 - **Cymbals:** Paiste — 2002 / RUDE Series
-- **Hardware / Pedals:** Tama Iron Cobra 900 Double Pedal; Tama HH905D Hi-Hat Stand; Roc-N-Soc Original Nitro Throne; ProMark Eloy Casagrande Signature TX5BW
-- **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
+- **Hardware / Pedals:** Tama Iron Cobra 900 Double Pedal; Tama HH905D Hi-Hat Stand; Roc-N-Soc Original Nitro Throne; Eloy Casagrande Signature
+- **Heads:** Evans (batter and resonant)
 - **Snare tuning:** Medium-high for definition and projection across tempo range
 
 ### Eloy's Sepultura Debut: Tama Starclassic Walnut/Birch
@@ -89,7 +89,7 @@ A: Eloy Casagrande joined Sepultura in 2011 at the age of 19, replacing Jean Dol
 
 **Q: What is Eloy Casagrande's drum setup on Machine Messiah?**
 
-A: On Machine Messiah (2017), Eloy Casagrande's setup was: Tama Starclassic Walnut/Birch shells (twin 22"x18" bass drums, 10"/12"/14" rack toms, 16" floor tom); Paiste 2002/RUDE cymbals (14" hi-hats, 16" and 18" crashes, 20" ride, 18" china); a Tama Iron Cobra 900 double pedal; ProMark Eloy Casagrande Signature sticks. Recorded at Fascination Street Studios, Örebro, Sweden with Jens Bogren producing.
+A: On Machine Messiah (2017), Eloy Casagrande's setup was: Tama Starclassic Walnut/Birch shells (twin 22"x18" bass drums, 10"/12"/14" rack toms, 16" floor tom); Paiste 2002/RUDE cymbals (14" hi-hats, 16" and 18" crashes, 20" ride, 18" china); a Tama Iron Cobra 900 double pedal; Promark sticks. Recorded at Fascination Street Studios, Örebro, Sweden with Jens Bogren producing.
 
 **Q: How does Eloy's Machine Messiah setup compare to his Quadra setup?**
 
@@ -113,4 +113,4 @@ A: "Phantom Self" (the lead single) is the primary showcase of Eloy's blast-beat
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

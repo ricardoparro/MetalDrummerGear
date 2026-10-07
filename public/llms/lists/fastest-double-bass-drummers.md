@@ -1,6 +1,6 @@
 # Top 10 Fastest Double Bass Drummers in Metal History — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-double-bass-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-double-bass-drummers)
 
 ---
 
@@ -73,7 +73,7 @@ Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/
 **Why ranked here:** Flo Mounier's work on "None So Vile" redefined what was physically possible. His gravity blasts and sustained speed are still studied by drummers worldwide.
 **Documented speed:** 250+ BPM
 **Technique:** Gravity blast innovator — uses rebound for one-handed blast beats
-**Key gear:** Tama Speed Cobra 910 Twin Pedal, minimal triggering for organic sound
+**Key gear:** Pearl kit era, minimal triggering for organic sound
 
 **Notable facts:**
 - Pioneered the gravity blast technique
@@ -89,7 +89,7 @@ Full drummer profile: [Flo Mounier on MetalForge](https://metalforge.io/drummer/
 **Why ranked here:** Pete Sandoval's drumming on Morbid Angel's "Altars of Madness" and "Blessed Are the Sick" invented the extreme double bass template that every death metal drummer follows.
 **Documented speed:** 240+ BPM
 **Technique:** Pure power technique — alternating single strokes at extreme speeds
-**Key gear:** Pearl PowerShifter Eliminator pedals, acoustic kit without triggers
+**Key gear:** ddrum kit and hardware since 1989, acoustic setup without triggers
 
 **Notable facts:**
 - Had never played double bass before joining Morbid Angel
@@ -169,7 +169,7 @@ Full drummer profile: [Raymond Herrera on MetalForge](https://metalforge.io/drum
 **Why ranked here:** Dave Lombardo's double bass work with Slayer on "Reign in Blood" was revolutionary. He proved double bass could be both fast AND musical, influencing generations.
 **Documented speed:** 210+ BPM
 **Technique:** Combines Latin/Cuban influences with thrash metal speed
-**Key gear:** Tama Iron Cobra 900 Power Glide pedals, natural sound without triggers
+**Key gear:** Pearl kit, natural sound without triggers
 
 **Notable facts:**
 - Pioneered thrash metal double bass technique
@@ -243,4 +243,4 @@ A: Lightweight, low-inertia pedals dominate: Axis Longboard (Derek Roddy), Pearl
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

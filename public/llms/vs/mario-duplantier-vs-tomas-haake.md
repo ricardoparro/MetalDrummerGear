@@ -34,7 +34,7 @@ Mario uses raw power and endurance with explosive fills. Tomas employs machine-l
 
 ## Key Differences
 
-Mario endorses Meinl cymbals for dark, complex tones. Tomas plays Sonor drums with Sabian cymbals for focused attack. Mario uses raw power and endurance with explosive fills. Tomas employs machine-like precision with complex time signatures.
+Mario endorses a Zildjian A Custom/K Custom cymbal array for dark, complex tones. Tomas plays Sonor drums with Sabian cymbals for focused attack. Mario uses raw power and endurance with explosive fills. Tomas employs machine-like precision with complex time signatures.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Two masters of progressive metal drumming. Mario brings organic power and tribal
 ## FAQ
 
 **Q: What are the main differences between Mario Duplantier's and Tomas Haake's drum kits?**
-A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals, while Tomas Haake uses Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms) with Sabian cymbals. Mario endorses Meinl cymbals for dark, complex tones. Tomas plays Sonor drums with Sabian cymbals for focused attack.
+A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals, while Tomas Haake uses Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms) with Sabian cymbals. Mario endorses a Zildjian A Custom/K Custom cymbal array for dark, complex tones. Tomas plays Sonor drums with Sabian cymbals for focused attack.
 
 **Q: What drums does Mario Duplantier play vs Tomas Haake?**
 A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom). Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms).
@@ -67,4 +67,4 @@ A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

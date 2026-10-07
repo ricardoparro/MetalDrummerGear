@@ -1,33 +1,33 @@
 # What Pedals Does Richard Christy Use? Full Setup
 
-**Band:** Death / Iced Earth | **Configuration:** double | **Drive Type:** chain
+**Band:** Death / Iced Earth | **Configuration:** double | **Drive Type:** direct
 
 ---
 
 ## Direct Answer
 
-Richard Christy plays a Tama Iron Cobra 900 double pedal (chain-drive).
+Richard Christy plays an Axis A Longboard double pedal (direct-drive).
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
-| Brand | Tama |
-| Model | Iron Cobra 900 |
+| Brand | Axis |
+| Model | A Longboard |
 | Configuration | double |
-| Drive Type | chain |
+| Drive Type | direct |
 
-Verified roster hardware entry: "Tama Iron Cobra 900 Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Axis A Longboard Double Pedal." Source: Sick Drummer Magazine Hall of Fame profile (2008-10-23): "I use Axis A Longboard Drum Pedals.".
 
 ## Setup Context
 
-- Chain drive: Slight flex/give — a natural, slightly cushioned feel most drummers find comfortable. A small amount of lag exists (every chain link is a point of contact), though it's effectively imperceptible in normal play.
+- Direct drive: Rigid rod, zero slack — the most immediate, "cam-less" connection between footboard and beater. The fastest and most consistent response of the three, with the least unaccounted-for sideways flex.
 - Double pedal: A primary pedal mounted on the hoop plus a slave pedal, linked by a drive shaft that runs along the floor and turns a second beater on the same head. Best suited to blast beats, sustained sixteenth-note kick patterns, and virtually every other modern metal subgenre.
 
 ## FAQ
 
 **Q: What pedals does Richard Christy use?**
-A: Richard Christy plays a Tama Iron Cobra 900 double pedal (chain-drive).
+A: Richard Christy plays an Axis A Longboard double pedal (direct-drive).
 
 ## More Resources
 
@@ -38,4 +38,4 @@ A: Richard Christy plays a Tama Iron Cobra 900 double pedal (chain-drive).
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

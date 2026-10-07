@@ -11,16 +11,16 @@ Arch Enemy's Daniel Erlandsson vs Soilwork/Megadeth's Dirk Verbeuren. Two Gothen
 ## Daniel Erlandsson Setup
 
 - **Drums:** Pearl Reference Pure
-- **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride)
-- **Snare:** Pearl Daniel Erlandsson Signature 14x5.5"
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
+- **Cymbals:** Sabian AAX / HHX Series
+- **Snare:** Pearl Reference Pure
+- **Pedals/Hardware:** Pearl Eliminator Double Bass Pedal
+- **Sticks:** ProMark 5B
 
 ## Dirk Verbeuren Setup
 
-- **Drums:** Tama Starclassic Walnut/Birch
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
-- **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
+- **Snare:** Tama S.L.P. Dynamic Bronze 14x5.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
 - **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
 
@@ -34,7 +34,7 @@ Erlandsson brings a clean, high-precision approach to melodic death metal — hi
 
 ## Key Differences
 
-Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple kits with Sabian cymbals — a clean, articulate setup built for Arch Enemy's high-production recording and global touring demands. Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals (14" Byzance Brilliant Hi-Hats, 18", 19", 20", 21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China), powered by a Tama Speed Cobra 910 double pedal and Promark Shira Kashi Oak 5B sticks. Erlandsson brings a clean, high-precision approach to melodic death metal — his blast beats are controlled and even, his double bass patterns are tight and consistent with Arch Enemy's production-forward sound, and his fills are designed to punctuate rather than overwhelm the band's anthemic, guitar-centric compositions. Verbeuren bridges melodic death metal technicality with thrash metal power: extreme double bass speed, technical fills, and seamless transitions between blast-beat intensity and groove-based riffing, a vocabulary built across 18 years with Soilwork and now applied to Megadeth's classic thrash framework.
+Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple kits with Sabian cymbals — a clean, articulate setup built for Arch Enemy's high-production recording and global touring demands. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals (14" Byzance Brilliant Hi-Hats, 18", 19", 20", 21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China), powered by a Tama Speed Cobra 910 double pedal and Promark Shira Kashi Oak 5B sticks. Erlandsson brings a clean, high-precision approach to melodic death metal — his blast beats are controlled and even, his double bass patterns are tight and consistent with Arch Enemy's production-forward sound, and his fills are designed to punctuate rather than overwhelm the band's anthemic, guitar-centric compositions. Verbeuren bridges melodic death metal technicality with thrash metal power: extreme double bass speed, technical fills, and seamless transitions between blast-beat intensity and groove-based riffing, a vocabulary built across 18 years with Soilwork and now applied to Megadeth's classic thrash framework.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Daniel Erlandsson and Dirk Verbeuren both emerged from Sweden's melodic death me
 A: Daniel Erlandsson (Arch Enemy, since 2005) plays with clean, production-forward precision built around anthemic, guitar-centric songwriting. Dirk Verbeuren (Soilwork 1998-2016, Megadeth since 2016) bridges melodic death metal technicality with thrash power, applying 18 years of Soilwork's technical vocabulary to Megadeth's classic thrash framework.
 
 **Q: What gear do Daniel Erlandsson and Dirk Verbeuren use?**
-A: Daniel Erlandsson plays Pearl Reference Series or Masters Maple kits with Sabian cymbals. Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by a Tama Speed Cobra 910 double pedal.
+A: Daniel Erlandsson plays Pearl Reference Series or Masters Maple kits with Sabian cymbals. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by a Tama Speed Cobra 910 double pedal.
 
 **Q: What bands are Daniel Erlandsson and Dirk Verbeuren known for?**
 A: Daniel Erlandsson has drummed for Arch Enemy since 2005. Dirk Verbeuren drummed for Swedish melodic death metal band Soilwork from 1998 to 2016 before joining Megadeth in 2016, where he recorded the Grammy-nominated "The Sick, the Dying... and the Dead!" (2022).
@@ -67,4 +67,4 @@ A: Soilwork formed in Helsingborg, Sweden, and is closely associated with the br
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

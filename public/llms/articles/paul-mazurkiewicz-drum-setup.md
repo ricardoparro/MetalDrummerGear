@@ -1,6 +1,6 @@
 # Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide
 
-> Paul Mazurkiewicz's Pearl Reference kit, Sabian cymbals, and Pearl Eliminator double bass pedals — the rig behind Cannibal Corpse's 2M+ album sales. Complete death metal drum setup breakdown.
+> Paul Mazurkiewicz's Pearl Reference kit, Meinl cymbals, and Pearl Eliminator double bass pedals — the rig behind Cannibal Corpse's 2M+ album sales. Complete death metal drum setup breakdown.
 
 **Type:** Kit Breakdown
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
@@ -15,13 +15,13 @@ Mazurkiewicz (born September 8, 1970) co-founded Cannibal Corpse in Buffalo, New
 
 What distinguishes Mazurkiewicz's playing from other death metal drummers is his brutal consistency. In a genre populated by drummers who approach blast beats as a speed competition, Mazurkiewicz treats them as a compositional tool — the engine that drives songs forward with menacing weight rather than merely demonstrating how fast a foot can move. His double-bass technique has been described as "locomotive" — relentless, powerful, and absolutely locked to the grid.
 
-His Pearl Reference kit, Sabian cymbal selection, and Pearl Eliminator double bass pedals have remained consistent across Cannibal Corpse's most important recent recordings. This article breaks down every major component, explains how the gear supports the blast beat technique that defines the Cannibal Corpse sound, and traces the gear evolution from Eaten Back to Life through Violence Unimagined.
+His Pearl Reference kit, Meinl cymbal selection, and Pearl Eliminator double bass pedals have remained consistent across Cannibal Corpse's most important recent recordings. This article breaks down every major component, explains how the gear supports the blast beat technique that defines the Cannibal Corpse sound, and traces the gear evolution from Eaten Back to Life through Violence Unimagined.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference (Various custom finishes across touring periods finish)
 - **Snare:** Pearl Pearl Free-Floating Snare, 14" x 6.5"
-- **Cymbals:** Sabian — Sabian AAX Series
+- **Cymbals:** Meinl — Meinl Classics Custom / Byzance Series
 - **Hardware / Pedals:** Pearl Eliminator Double Bass Pedal; ddrum Acoustic Pro Triggers; Vic Firth Paul Mazurkiewicz Signature; Remo Powerstroke 3; Remo Emperor Coated
 - **Heads:** Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium-bright for cut through death metal guitar frequencies
@@ -42,13 +42,13 @@ Pearl's Free-Floating snare design serves this requirement through mechanical de
 
 Mazurkiewicz tunes his snare toward the brighter end of the spectrum — optimized for cut rather than the fat, low-tuned sounds favored by groove metal drummers. In blast beat passages, the snare alternates rapidly with the kick at extreme tempos; it needs to articulate each stroke distinctly even at maximum velocity. A bright, focused tuning preserves this distinction in a way that low-tuned, open-sounding snares cannot.
 
-### Sabian: Aggressive, Fast, Purpose-Built for Death Metal
+### Meinl: Aggressive, Fast, Purpose-Built for Death Metal
 
-Paul Mazurkiewicz's Sabian cymbal setup is built around the demands of death metal production: cymbals that speak clearly and decay quickly in dense, compressed sonic environments. Sabian's manufacturing process — hand-hammered, lathed bronze alloys — produces instruments with focused, aggressive voices that project over down-tuned guitars without blurring into wash.
+Paul Mazurkiewicz's Meinl cymbal setup is built around the demands of death metal production: cymbals that speak clearly and decay quickly in dense, compressed sonic environments. Meinl's manufacturing process — hand-hammered, lathed bronze alloys — produces instruments with focused, aggressive voices that project over down-tuned guitars without blurring into wash.
 
-The 14" hi-hats are Mazurkiewicz's rhythmic backbone. In blast beat passages, the hi-hats and ride cymbals define the fast sixteenth-note pulse that sits over the alternating kick-snare pattern. Cymbals with slow decay would blur this pulse into an undifferentiated wash at extreme tempos; Sabian's design choices prioritize the fast attack and controlled decay that death metal performance demands.
+The 14" hi-hats are Mazurkiewicz's rhythmic backbone. In blast beat passages, the hi-hats and ride cymbals define the fast sixteenth-note pulse that sits over the alternating kick-snare pattern. Cymbals with slow decay would blur this pulse into an undifferentiated wash at extreme tempos; Meinl's design choices prioritize the fast attack and controlled decay that death metal performance demands.
 
-His crash setup covers two primary accent demands. The 18" X-Plosion responds fast and sharp for accenting riff changes and fill-endings at high tempos. The 19" X-Plosion provides the fuller crash for structural moments — section boundaries, build peaks, climactic passages in songs like "Evisceration Plague" and "Make Them Suffer."
+His crash setup covers two primary accent demands. The 18" Extra Dry crash responds fast and sharp for accenting riff changes and fill-endings at high tempos. The 19" Extra Dry crash provides the fuller crash for structural moments — section boundaries, build peaks, climactic passages in songs like "Evisceration Plague" and "Make Them Suffer."
 
 The china cymbal is used selectively but to maximum effect: its upward-cutting, aggressive character provides sonic punctuation that standard crashes cannot match. In Cannibal Corpse's most intense passages, the china punctuates the brutality with a trashy, violent accent that reinforces the music's character.
 
@@ -59,7 +59,7 @@ Paul Mazurkiewicz has spent 35+ years proving that death metal doesn't require r
 His gear reflects that philosophy at every level:
 
 - **Pearl Reference**: A flagship production shell that rewards the consistency and physical demands he brings to every performance across hundreds of shows per year
-- **Sabian Cymbals**: Fast-attacking, controlled-decay instruments built for death metal's dense, compressed sonic environments
+- **Meinl Cymbals**: Fast-attacking, controlled-decay instruments built for death metal's dense, compressed sonic environments
 - **Pearl Eliminator Double Bass**: Interchangeable cam engineering supporting the 180–250 BPM blast beat range that defines the Cannibal Corpse sound
 - **Pearl Free-Floating Snare**: Open, explosive crack that cuts through down-tuned guitar frequencies without EQ assistance
 - **ddrum Triggers**: Electronic reinforcement ensuring consistent kick articulation from studio to massive festival stage
@@ -78,7 +78,7 @@ For deeper exploration:
 
 - Co-founding member of Cannibal Corpse — active since 1988, 35+ years of death metal
 - Pearl Reference kit — Pearl drums endorsee with double-bass configuration
-- Sabian cymbals throughout key career periods
+- Meinl cymbals throughout key career periods
 - Pearl Eliminator double bass pedal — the foot engine for 180–250 BPM blast beats
 - Vic Firth signature sticks — custom-spec for death metal power demands
 - ddrum electronic triggers used live for consistent kick drum articulation
@@ -105,7 +105,7 @@ A: Paul Mazurkiewicz's blast beat speed is primarily built on push-pull techniqu
 
 **Q: What cymbals does Paul Mazurkiewicz use?**
 
-A: Paul Mazurkiewicz plays Sabian AAX cymbals. His setup includes Sabian AAX 14" Stage Hi-Hats, 18" and 19" X-Plosion crashes, a 21" AAX Raw Bell Dry ride, and an 18" AAXtreme china cymbal. Sabian's hand-hammered bronze construction produces focused, aggressive voices with fast attack and controlled decay — essential in death metal production contexts where cymbals need to speak clearly through dense, down-tuned guitar frequencies without creating excess wash that blurs the rhythmic density of blast beat sections.
+A: Paul Mazurkiewicz plays Meinl Byzance cymbals. His setup includes Meinl Classics Custom 14" Dark Hi-Hats, 18" and 19" Byzance Extra Dry crashes, a 21" Byzance Transition ride, and an 18" Byzance Extra Dry china cymbal. Meinl's hand-hammered bronze construction produces focused, aggressive voices with fast attack and controlled decay — essential in death metal production contexts where cymbals need to speak clearly through dense, down-tuned guitar frequencies without creating excess wash that blurs the rhythmic density of blast beat sections.
 
 **Q: How long has Paul Mazurkiewicz been Cannibal Corpse's drummer?**
 
@@ -124,4 +124,4 @@ A: Paul Mazurkiewicz has been Cannibal Corpse's drummer since the band's foundin
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

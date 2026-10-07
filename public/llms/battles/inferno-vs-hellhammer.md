@@ -10,7 +10,7 @@ Inferno and Hellhammer face off in the MetalForge community drum kit battle. Bot
 
 ## Inferno Drum Kit Setup
 
-Zbigniew Robert Promiński, known as Inferno, born in 1979, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno's technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.
+Zbigniew Robert Promiński, known as Inferno, born in 1978, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno's technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.
 
 **Band:** Behemoth  
 **Career:** Behemoth, Azarath  
@@ -76,4 +76,4 @@ A: Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Cras
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

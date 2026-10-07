@@ -8,44 +8,39 @@
 
 ## Current Endorsements
 
-### Drums: Pearl
+### Drums: ddrum
 
-Shannon Larkin endorses Pearl for drums. They play the Pearl Reference Pure. This partnership began in 2002.
+Shannon Larkin endorses ddrum for drums. They play the ddrum Dios Series. This partnership began in 2002.
 
 ### Cymbals: Sabian
 
 Shannon Larkin endorses Sabian for cymbals. They play the Sabian AAX Series. This partnership began in 2002.
 
-### Drumsticks: Promark
+### Drumsticks: Vic Firth
 
-Shannon Larkin endorses Promark for drumsticks. They play the Promark Shannon Larkin Signature. This partnership began in 2012. Shannon Larkin has a co-designed signature product with Promark.
+Shannon Larkin endorses Vic Firth for drumsticks. They play the Vic Firth American Classic 5B. This partnership began in 2002.
 
 ### Drumheads: Evans
 
 Shannon Larkin endorses Evans for drumheads. This partnership began in 2002.
 
-### Hardware / Pedals: Pearl
+### Hardware / Pedals: DW
 
-Shannon Larkin endorses Pearl for hardware / pedals. They play the Pearl Demon Drive Double Pedal. This partnership began in 2002.
-
-## Signature Models
-
-- Promark Shannon Larkin Signature (signature)
+Shannon Larkin endorses DW for hardware / pedals. They play the DW 9000 Series Double Pedal. This partnership began in 2002.
 
 ## Endorsement History
 
-- **2002** (Drums): Signed with Pearl — Joined Godsmack in 2002, replacing Tommy Stewart, and brought his Pearl Reference kit into the band's platinum-selling run
+- **2002** (Drums): Signed with ddrum — Joined Godsmack in 2002, replacing Tommy Stewart, and brought his ddrum Dios Series kit into the band's platinum-selling run
 - **2002** (Cymbals): Signed with Sabian — Adopted Sabian AAX Series cymbals for the powerful, cutting attack behind Godsmack's "Faceless" (2003) breakthrough
-- **2002** (Drumsticks): Signed with Promark — Began playing Promark sticks alongside his new Pearl/Sabian setup at the start of the Godsmack era
-- **2012** (Drumsticks): Signature product: Promark Shannon Larkin Signature — Promark released a Shannon Larkin signature stick model, reflecting his long-running tenure as Godsmack's drummer
+- **2002** (Drumsticks): Signed with Vic Firth — Began playing Vic Firth American Classic 5B sticks alongside his new ddrum/Sabian setup at the start of the Godsmack era
 
 ## FAQ
 
 **Q: What brands does Shannon Larkin endorse?**
-A: Shannon Larkin endorses Pearl, Sabian, Promark, Evans. Their primary drum endorsement is Pearl and they play Sabian cymbals.
+A: Shannon Larkin endorses ddrum, Sabian, Vic Firth, Evans, DW. Their primary drum endorsement is ddrum and they play Sabian cymbals.
 
 **Q: Does Shannon Larkin have a signature drum or cymbal?**
-A: Yes. Shannon Larkin has signature gear: Promark Shannon Larkin Signature (signature).
+A: Shannon Larkin is a key ddrum endorser but does not have a dedicated signature kit model in the current lineup.
 
 **Q: What is Shannon Larkin's endorsement history?**
 A: See the Endorsement History section above for a full timeline of Shannon Larkin's brand deals.
@@ -60,4 +55,4 @@ A: See the Endorsement History section above for a full timeline of Shannon Lark
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

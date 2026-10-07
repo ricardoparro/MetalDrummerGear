@@ -8,40 +8,39 @@
 
 ## Current Endorsements
 
-### Drums: Sonor
+### Drums: DW
 
-Martin Axenrot endorses Sonor for drums. They play the Sonor Designer / SQ2 Series. This partnership began in 2008.
+Martin Axenrot endorses DW for drums. They play the DW Custom (maple/gum shells). This partnership began in 2006.
 
-### Cymbals: Meinl
+### Cymbals: Sabian
 
-Martin Axenrot endorses Meinl for cymbals. They play the Meinl Byzance Series. This partnership began in 2008.
+Martin Axenrot endorses Sabian for cymbals. They play the Sabian HHX / AAX Series. This partnership began in 2006.
 
-### Drumsticks: Vic Firth
+### Drumsticks: Pro-Mark
 
-Martin Axenrot endorses Vic Firth for drumsticks. They play the Vic Firth American Classic 5B. This partnership began in 2008.
+Martin Axenrot endorses Pro-Mark for drumsticks. This partnership began in 2006.
 
-### Drumheads: Remo
+### Drumheads: Evans
 
-Martin Axenrot endorses Remo for drumheads. They play the Remo Ambassador Coated. This partnership began in 2008.
+Martin Axenrot endorses Evans for drumheads. This partnership began in 2006.
 
-### Hardware / Pedals: Sonor
+### Hardware / Pedals: DW
 
-Martin Axenrot endorses Sonor for hardware / pedals. They play the Sonor Giant Step Double Pedal. This partnership began in 2008.
+Martin Axenrot endorses DW for hardware / pedals. This partnership began in 2006.
 
 ## Endorsement History
 
-- **2008** (Drums): Signed with Sonor — Introduced twin 22"x18" Sonor Designer/SQ2 bass drums on studio debut "Watershed" (2008), replacing predecessor Martin Lopez's single-kick rig with a heavier setup informed by his Bloodbath and Witchery background
-- **2008** (Cymbals): Signed with Meinl — Brought his own longtime Meinl Byzance cymbal setup (hand-hammered Traditional/Dark series) into Opeth on "Watershed", continuing Lopez's dark/complex cymbal vocabulary under a different brand than Lopez's Sabian HH
-- **2008** (Hardware / Pedals): Signed with Sonor — Used Sonor Giant Step direct-drive twin pedals on "Watershed", tracked at Fascination Street Studios with Jens Bogren producing
-- **2014** (Drums): Renewed Sonor deal — Carried the same twin-kick Sonor / Meinl Byzance rig through Opeth's prog-rock turn on "Pale Communion" (2014), following "Heritage" (2011) dropping death metal vocals entirely
+- **2006** (Drums): Signed with DW — Joined Opeth mid-tour on the Ghost Reveries cycle in 2006, playing a custom hand-made DW kit with maple/gum shells — the same setup he described in a 2016 MusicRadar interview around the Sorceress cycle
+- **2006** (Cymbals): Signed with Sabian — SABIAN artist endorsing HHX / AAX Series cymbals since joining Opeth in 2006, per SABIAN's own artist page
+- **2006** (Hardware / Pedals): Signed with DW — DW hardware paired with his custom DW kit since joining Opeth in 2006
 
 ## FAQ
 
 **Q: What brands does Martin Axenrot endorse?**
-A: Martin Axenrot endorses Sonor, Meinl, Vic Firth, Remo. Their primary drum endorsement is Sonor and they play Meinl cymbals.
+A: Martin Axenrot endorses DW, Sabian, Pro-Mark, Evans. Their primary drum endorsement is DW and they play Sabian cymbals.
 
 **Q: Does Martin Axenrot have a signature drum or cymbal?**
-A: Martin Axenrot is a key Sonor endorser but does not have a dedicated signature kit model in the current lineup.
+A: Martin Axenrot is a key DW endorser but does not have a dedicated signature kit model in the current lineup.
 
 **Q: What is Martin Axenrot's endorsement history?**
 A: See the Endorsement History section above for a full timeline of Martin Axenrot's brand deals.
@@ -56,4 +55,4 @@ A: See the Endorsement History section above for a full timeline of Martin Axenr
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

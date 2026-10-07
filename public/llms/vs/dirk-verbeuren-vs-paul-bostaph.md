@@ -10,9 +10,9 @@ Megadeth's Dirk Verbeuren vs Slayer's Paul Bostaph. Two of thrash metal's most r
 
 ## Dirk Verbeuren Setup
 
-- **Drums:** Tama Starclassic Walnut/Birch
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
-- **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
+- **Snare:** Tama S.L.P. Dynamic Bronze 14x5.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
 - **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
 
@@ -34,7 +34,7 @@ Verbeuren brings blast-capable speed from his melodic death metal years to Megad
 
 ## Key Differences
 
-Dirk Verbeuren plays Tama Starclassic Walnut/Birch drums with a Tama S.L.P. Big Black Steel 14"×6.5" snare, Meinl Byzance Brilliant & Classics Custom Dark cymbals (14" Byzance Brilliant Hi-Hats, 18"/19"/20"/21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China), Tama Speed Cobra 910 double pedal, and Promark Shira Kashi Oak 5B sticks. Paul Bostaph played a Pearl Masters Maple Complete (MCX) kit with a Pearl Masters Steel 14"×6.5" snare, Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), a Pearl Eliminator double pedal, and Vater Power 5B sticks on Repentless (2015) and Slayer's Final World Tour. Verbeuren brings blast-capable speed from his melodic death metal years to Megadeth's thrash canon, with tight, groove-forward double bass work and precise hi-hat accents that maintain momentum while honoring the legacy of Gar Samuelson and Nick Menza. Bostaph brings relentless power and metronomic consistency — his double bass at thrash tempos is machine-like, and his ability to replicate and extend Dave Lombardo's complex parts night after night across years of global touring made him the definitive long-term Slayer replacement, including being the drummer for Slayer's original "final" show in Los Angeles in November 2019.
+Dirk Verbeuren plays Tama Starclassic Maple drums with a Tama S.L.P. Dynamic Bronze 14"x5.5" snare, Meinl Byzance Brilliant & Classics Custom Dark cymbals (14" Byzance Brilliant Hi-Hats, 18"/19"/20"/21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China), Tama Speed Cobra 910 double pedal, and Promark Shira Kashi Oak 5B sticks. Paul Bostaph played a Pearl Masters Maple Complete (MCX) kit with a Pearl Masters Steel 14"×6.5" snare, Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), a Pearl Eliminator double pedal, and Vater Power 5B sticks on Repentless (2015) and Slayer's Final World Tour. Verbeuren brings blast-capable speed from his melodic death metal years to Megadeth's thrash canon, with tight, groove-forward double bass work and precise hi-hat accents that maintain momentum while honoring the legacy of Gar Samuelson and Nick Menza. Bostaph brings relentless power and metronomic consistency — his double bass at thrash tempos is machine-like, and his ability to replicate and extend Dave Lombardo's complex parts night after night across years of global touring made him the definitive long-term Slayer replacement, including being the drummer for Slayer's original "final" show in Los Angeles in November 2019.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Paul Bostaph recorded four studio albums with Slayer: "Divine Intervention" (
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

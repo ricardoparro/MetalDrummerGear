@@ -11,10 +11,10 @@ Arch Enemy's Daniel Erlandsson vs Children of Bodom's Jaska Raatikainen. Two mel
 ## Daniel Erlandsson Setup
 
 - **Drums:** Pearl Reference Pure
-- **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride)
-- **Snare:** Pearl Daniel Erlandsson Signature 14x5.5"
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
+- **Cymbals:** Sabian AAX / HHX Series
+- **Snare:** Pearl Reference Pure
+- **Pedals/Hardware:** Pearl Eliminator Double Bass Pedal
+- **Sticks:** ProMark 5B
 
 ## Jaska Raatikainen Setup
 
@@ -67,4 +67,4 @@ A: Both are melodic death metal, but from different national scenes — Arch Ene
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

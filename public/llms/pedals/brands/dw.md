@@ -15,19 +15,21 @@
 - **5000 (Series):** Chain drive — DW's original 1979 pedal design, an industry benchmark still used on the verified roster (Raymond Herrera, Sean Reinert, Nick Menza).
 - **MDD (Machined Direct Drive):** Direct drive — DW's zero-slack, cam-less pedal for players who want DW build quality without chain flex.
 
-## Confirmed Metal Drummers (11)
+## Confirmed Metal Drummers (13)
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
-| [Abe Cunningham](https://metalforge.io/pedals/setups/abe-cunningham) | Deftones | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/abe-cunningham.md) |
+| [Aquiles Priester](https://metalforge.io/pedals/setups/aquiles-priester) | Angra / W.A.S.P. | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/aquiles-priester.md) |
 | [Hannes Grossmann](https://metalforge.io/pedals/setups/hannes-grossmann) | Obscura / ex-Necrophagist / Alkaloid | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/hannes-grossmann.md) |
 | [Jay Weinberg](https://metalforge.io/pedals/setups/jay-weinberg) | Suicidal Tendencies | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/jay-weinberg.md) |
+| [Martin Axenrot](https://metalforge.io/pedals/setups/martin-axenrot) | Opeth | DW | [Markdown](https://metalforge.io/llms/pedals/setups/martin-axenrot.md) |
 | [Matt Greiner](https://metalforge.io/pedals/setups/matt-greiner) | August Burns Red | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/matt-greiner.md) |
+| [Mikkey Dee](https://metalforge.io/pedals/setups/mikkey-dee) | Scorpions / Motörhead | DW 5000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/mikkey-dee.md) |
 | [Navene Koperweis](https://metalforge.io/pedals/setups/navene-koperweis) | Entheos / ex-Animals as Leaders | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/navene-koperweis.md) |
 | [Nick Menza](https://metalforge.io/pedals/setups/nick-menza) | Megadeth | DW 5000 | [Markdown](https://metalforge.io/llms/pedals/setups/nick-menza.md) |
 | [Raymond Herrera](https://metalforge.io/pedals/setups/raymond-herrera) | Fear Factory / Arkaea / Brujeria | DW 5000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/raymond-herrera.md) |
 | [Scott Travis](https://metalforge.io/pedals/setups/scott-travis) | Judas Priest | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/scott-travis.md) |
-| [Sean Reinert](https://metalforge.io/pedals/setups/sean-reinert) | Death / Cynic | DW 5000 | [Markdown](https://metalforge.io/llms/pedals/setups/sean-reinert.md) |
+| [Sean Reinert](https://metalforge.io/pedals/setups/sean-reinert) | Death / Cynic | DW 9000 Double Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/sean-reinert.md) |
 | [Shannon Larkin](https://metalforge.io/pedals/setups/shannon-larkin) | Godsmack / Ugly Kid Joe / Amen | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/shannon-larkin.md) |
 | [Travis Orbin](https://metalforge.io/pedals/setups/travis-orbin) | Darkest Hour / ex-Periphery | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/travis-orbin.md) |
 
@@ -48,4 +50,4 @@ Source: [DW — The DW Story](https://dwdrums.com/the-dw-story/).
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

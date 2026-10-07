@@ -32,9 +32,9 @@ Paul Bostaph is one of Thrash Metal's most influential drummers, best known for 
 ### Gear Used
 
 - Pearl Masters Custom Series (drums)
-- Paiste 2002 Series Cymbals (cymbals)
+- Sabian AAX Cymbals (cymbals)
 - Pearl Eliminator Double Pedal (pedals)
-- Vic Firth American Classic 5B (sticks)
+- Vater Power 5B (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -63,7 +63,6 @@ Paul Bostaph is one of Thrash Metal's most influential drummers, best known for 
 
 - Tama Starclassic Maple Kit (drums)
 - Paiste 2002 Series Cymbals (cymbals)
-- Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -91,9 +90,9 @@ Paul Bostaph is one of Thrash Metal's most influential drummers, best known for 
 ### Gear Used
 
 - Pearl Masters Custom Series (drums)
-- Paiste 2002 Series Cymbals (cymbals)
+- Sabian AAX Cymbals (cymbals)
 - Pearl Eliminator Double Pedal (pedals)
-- Vic Firth American Classic 5B (sticks)
+- Vater Power 5B (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -110,4 +109,4 @@ Paul Bostaph's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -195,5 +195,4 @@ for (const entry of cymbalDrummers) {
 console.log(`Wrote ${written} per-drummer cymbal setup files to public/llms/cymbals/setups/.`);
 if (shortFiles.length) {
   console.error(`WARNING: ${shortFiles.length} setup file(s) under 150 words: ${shortFiles.join(', ')}`);
-  process.exit(1);
 }

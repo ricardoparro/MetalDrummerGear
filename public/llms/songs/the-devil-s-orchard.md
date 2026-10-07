@@ -38,12 +38,12 @@ SongBPM/GetSongBPM dual reading (95/142 BPM depending on section); Axenrot's ten
 
 ## Related Songs
 
-- [Bleak](https://metalforge.io/songs/bleak) — Opeth, 100 BPM
 - [The Drapery Falls](https://metalforge.io/songs/the-drapery-falls) — Opeth, 75 BPM
 - [Panic Attack](https://metalforge.io/songs/panic-attack) — Dream Theater, 168 BPM
 - [Concubine](https://metalforge.io/songs/concubine) — Converge, 168 BPM
 - [Hangar 18](https://metalforge.io/songs/hangar-18) — Megadeth, 165 BPM
 - [The Trooper](https://metalforge.io/songs/the-trooper) — Iron Maiden, 160 BPM
+- [Conquer All](https://metalforge.io/songs/conquer-all) — Behemoth, 160 BPM
 
 ---
 
@@ -51,4 +51,4 @@ SongBPM/GetSongBPM dual reading (95/142 BPM depending on section); Axenrot's ten
 
 **More resources:** [Metal Songs Database](https://metalforge.io/songs) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

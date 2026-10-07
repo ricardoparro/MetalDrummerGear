@@ -27,14 +27,14 @@ Brann Dailor, born in 1975 in Rochester, New York, is the drummer and vocalist f
 
 ## Chris Adler Drum Kit Setup
 
-Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler's work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.
+Chris Adler, born in 1972 in Washington, D.C., is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler's work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.
 
 **Band:** Lamb of God  
 **Career:** Lamb of God, Megadeth, Firstborne  
 **Genre:** Groove Metal  
-**Current Kit:** Mapex Black Panther Design Lab  
+**Current Kit:** Mapex Saturn in Satin Black Maple Burl  
 **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)  
-**Key Gear:** Mapex Chris Adler Signature 14x5.5" Walnut/Maple, Mapex Falcon Double Pedal, Promark TX5AXW Chris Adler Signature  
+**Key Gear:** Mapex Chris Adler Signature 14x5.5" Walnut/Maple, Trick Pro V Double Pedal, Promark TX5AXW Chris Adler Signature  
 
 **Watch:**
 
@@ -46,10 +46,10 @@ Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder
 
 | Category | Brann Dailor | Chris Adler |
 |----------|--------------|-------------|
-| Drum Kit | Tama Starclassic Performer B/B | Mapex Black Panther Design Lab |
+| Drum Kit | Tama Starclassic Performer B/B | Mapex Saturn in Satin Black Maple Burl |
 | Cymbals | Meinl | Meinl |
 | Snare | Tama S.L.P. 14x6.5" G-Maple | Mapex Chris Adler Signature 14x5.5" Walnut/Maple |
-| Pedals | Tama Speed Cobra Double Pedal | Mapex Falcon Double Pedal |
+| Pedals | Tama Speed Cobra Double Pedal | Trick Pro V Double Pedal |
 
 ## FAQ
 
@@ -57,13 +57,13 @@ Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder
 A: Brann Dailor's Tama Starclassic Performer B/B + Meinl Byzance is estimated at $8,000–$13,000, while Chris Adler's Mapex Black Panther Design Lab + Meinl Byzance runs approximately $9,000–$14,000. Both setups are professional-grade rigs well into five-figure territory when fully configured with all cymbals, hardware, and electronics.
 
 **Q: What are the main gear differences between Brann Dailor and Chris Adler?**  
-A: Brann Dailor plays Tama Starclassic Performer B/B paired with Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Chris Adler opts for Mapex Black Panther Design Lab with Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/brann-dailor-vs-chris-adler](https://metalforge.io/battles/brann-dailor-vs-chris-adler).
+A: Brann Dailor plays Tama Starclassic Performer B/B paired with Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Chris Adler opts for Mapex Saturn in Satin Black Maple Burl with Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/brann-dailor-vs-chris-adler](https://metalforge.io/battles/brann-dailor-vs-chris-adler).
 
 **Q: Who wins the drum kit battle, Brann Dailor or Chris Adler?**  
 A: The winner is decided by community votes on MetalForge. Brann Dailor (Mastodon) and Chris Adler (Lamb of God) both bring world-class rigs. Cast your vote at [metalforge.io/battles/brann-dailor-vs-chris-adler](https://metalforge.io/battles/brann-dailor-vs-chris-adler).
 
 **Q: What drum kits do Brann Dailor and Chris Adler play?**  
-A: Brann Dailor plays Tama Starclassic Performer B/B. Chris Adler plays Mapex Black Panther Design Lab.
+A: Brann Dailor plays Tama Starclassic Performer B/B. Chris Adler plays Mapex Saturn in Satin Black Maple Burl.
 
 **Q: What cymbals do Brann Dailor and Chris Adler use?**  
 A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China).
@@ -76,4 +76,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

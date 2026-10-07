@@ -14,7 +14,7 @@ Bill Ward endorses Ludwig for drums. They play the Ludwig Standard / Club Date S
 
 ### Cymbals: Zildjian
 
-Bill Ward endorses Zildjian for cymbals. They play the Zildjian Avedis Series. This partnership began in 1968.
+Bill Ward endorses Zildjian for cymbals. They play the Zildjian Avedis Series. This partnership began in 1971.
 
 ### Drumsticks: Pro-Mark
 
@@ -31,7 +31,8 @@ Bill Ward endorses Ludwig for hardware / pedals. They play the Ludwig Speed King
 ## Endorsement History
 
 - **1968** (Drums): Signed with Ludwig — Played a Ludwig kit from Black Sabbath's formation in Birmingham through the "Paranoid" and "Master of Reality" sessions
-- **1970** (Cymbals): Signed with Zildjian — Avedis Zildjian hi-hats, ride, and crash set the cymbal template heard on "Black Sabbath" and "Paranoid"
+- **1968** (Cymbals): Signed with Super Zyn — Used Super Zyn cymbals from Black Sabbath's 1968 formation through the debut album and "Paranoid" (1970)
+- **1971** (Cymbals): Signed with Zildjian — Switched to Avedis Zildjian hi-hats, ride, and crash starting with "Master of Reality", continuing through "Never Say Die!" (1978)
 - **1971** (Drums): Renewed Ludwig deal — Upgraded to a 22" Ludwig bass drum (from the 20" used on "Paranoid") to match Tony Iommi's down-tuned riffs on "Master of Reality"
 
 ## FAQ
@@ -55,4 +56,4 @@ A: See the Endorsement History section above for a full timeline of Bill Ward's 
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -40,7 +40,6 @@ tab/lesson tempo consensus (Ultimate Guitar, Songsterr, drum-cover community) cr
 ## Related Songs
 
 - [The Devil's Orchard](https://metalforge.io/songs/the-devil-s-orchard) — Opeth, 142 BPM
-- [Bleak](https://metalforge.io/songs/bleak) — Opeth, 100 BPM
 - [Flying Whales](https://metalforge.io/songs/flying-whales) — Gojira, 85 BPM
 - [South of Heaven](https://metalforge.io/songs/south-of-heaven) — Slayer, 80 BPM
 - [N.I.B.](https://metalforge.io/songs/n-i-b) — Black Sabbath, 80 BPM
@@ -52,4 +51,4 @@ tab/lesson tempo consensus (Ultimate Guitar, Songsterr, drum-cover community) cr
 
 **More resources:** [Metal Songs Database](https://metalforge.io/songs) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

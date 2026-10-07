@@ -27,7 +27,7 @@ This article examines every piece of equipment Charlie Benante used to record Am
 - **Drums:** Tama Tama Artstar II (Black Lacquer finish)
 - **Snare:** Tama Tama Artstar Steel Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002
-- **Hardware / Pedals:** Tama HP35 Camco; Tama Titan Hi-Hat Stand; Tama 1st Chair; Vic Firth 2B Wood Tip
+- **Hardware / Pedals:** Chain-drive pedal (specific model unconfirmed); Tama Titan Hi-Hat Stand; Tama 1st Chair; Vic Firth 2B Wood Tip
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** High tension for maximum attack and crack
 
@@ -67,7 +67,7 @@ Among the Living stands as Charlie Benante's definitive studio statement — the
 
 For drummers studying the Big Four, Among the Living is essential listening alongside Metallica's Master of Puppets, Slayer's Reign in Blood, and Megadeth's Rust in Peace. Each album represents a different vision of what thrash drumming could achieve. Benante's contribution is the one most concerned with feel — you can hear him swinging, breathing, making the music move in ways that pure speed alone cannot.
 
-The Tama HP35 Camco pedals, the Artstar II birch shells, the Paiste 2002 cymbals: the gear was excellent, but the man behind it is what made Among the Living transcendent. Charlie Benante didn't just play these songs — he wrote most of them, conceived the arrangements, and then executed them with the authority of someone who knew exactly what he wanted to say.
+His chain-drive pedal setup of the era, the Artstar II birch shells, the Paiste 2002 cymbals: the gear was excellent, but the man behind it is what made Among the Living transcendent. Charlie Benante didn't just play these songs — he wrote most of them, conceived the arrangements, and then executed them with the authority of someone who knew exactly what he wanted to say.
 
 For the full Charlie Benante gear story beyond Among the Living, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For Anthrax's complete drummer history and band context, see the [Anthrax band page](/bands/anthrax).
 
@@ -94,11 +94,11 @@ A: Charlie Benante used a Tama Artstar II kit on Among the Living (1987). The se
 
 **Q: What is Charlie Benante's drum setup?**
 
-A: Charlie Benante's drum setup on Among the Living consisted of a Tama Artstar II kit with dual 22" bass drums, Paiste 2002 cymbals (including 14" Sound Edge hi-hats and an 18" China), a Tama steel snare, and the legendary Tama HP35 Camco pedals he used from 1984 to 2010. In modern use he plays Tama Starclassic Maple, Paiste cymbals, and Vic Firth Charlie Benante Signature sticks.
+A: Charlie Benante's drum setup on Among the Living consisted of a Tama Artstar II kit with dual 22" bass drums, Paiste 2002 cymbals (including 14" Sound Edge hi-hats and an 18" China), a Tama steel snare, and the chain-drive pedal setup he relied on before switching to Tama Speed Cobra pedals in the 2010s. In modern use he plays Tama Starclassic Maple, Paiste cymbals, and Vic Firth Charlie Benante Signature sticks.
 
 **Q: What gear did the Anthrax drummer use on Among the Living?**
 
-A: Anthrax drummer Charlie Benante used Tama Artstar II drums, Paiste 2002 cymbals, and Tama HP35 Camco bass drum pedals on Among the Living. The album was produced by Eddie Kramer at Kajem/Victory Studios in 1987. Benante's double bass patterns — particularly on "Caught in a Mosh," "I Am the Law," and "Indians" — are considered among the finest thrash drumming performances of the 1980s.
+A: Anthrax drummer Charlie Benante used Tama Artstar II drums, Paiste 2002 cymbals, and a chain-drive bass drum pedal setup on Among the Living. The album was produced by Eddie Kramer at Kajem/Victory Studios in 1987. Benante's double bass patterns — particularly on "Caught in a Mosh," "I Am the Law," and "Indians" — are considered among the finest thrash drumming performances of the 1980s.
 
 **Q: What is the drum setup on Among the Living?**
 
@@ -121,4 +121,4 @@ A: The drum setup on Among the Living features Charlie Benante's Tama Artstar II
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

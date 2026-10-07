@@ -1,6 +1,6 @@
 # Lamb of God "Omens" Drum Setup: Art Cruz's 2022 Album
 
-> Who plays drums on Lamb of God's Omens (2022)? Art Cruz's second studio album with the band — Ludwig Classic Oak kit, raw brass snare, Zildjian A Custom cymbals, and the gear behind the record that confirmed him as Chris Adler's successor.
+> Who plays drums on Lamb of God's Omens (2022)? Art Cruz's second studio album with the band — his Ludwig kit anchored by the Black Beauty snare, Zildjian A Custom cymbals, and the gear behind the record that confirmed him as Chris Adler's successor.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Art Cruz](/llms/drummers/art-cruz.md)
@@ -18,26 +18,24 @@ The story behind that chair is one of the more dramatic replacement narratives i
 
 Omens debuted at number 15 on the Billboard 200, number 1 on the Top Hard Rock Albums chart, and number 3 on Top Rock Albums — commercial numbers that confirmed Lamb of God's audience had fully accepted the Cruz era. Produced by longtime collaborator Josh Wilbur and tracked at Henson Recording Studios in Los Angeles, much of the album was recorded with the band playing together live on the studio floor, a deliberate choice that put Cruz's chemistry with guitarists Mark Morton and Willie Adler, bassist John Campbell, and vocalist Randy Blythe directly on tape.
 
-Gear-wise, Omens marked Cruz's clearest public alignment with Ludwig: he tracked the album on his Classic Oak series kit in a Brown Burst finish, paired with a raw brass snare that Ludwig itself highlighted when the album dropped. That kit, alongside his Zildjian cymbals and Trick pedals, is the engine behind tracks like "Nevermore," "Ditch," and "Grayscale" — songs that lean on groove and dynamic control as much as outright aggression.
+Gear-wise, Omens continued Cruz's established Ludwig setup: the same Black Beauty-anchored kit he adopted after joining Lamb of God in 2019, carried through this record just as it was through the band's 2020 self-titled album. That kit, alongside his Zildjian cymbals and Trick pedals, is the engine behind tracks like "Nevermore," "Ditch," and "Grayscale" — songs that lean on groove and dynamic control as much as outright aggression.
 
 This article breaks down every piece of that gear, and traces how Omens fits into Lamb of God's broader drum-setup history — a lineage that runs from Chris Adler's [Sacrament](/articles/sacrament-drum-setup) and [Wrath](/articles/wrath-drum-setup) eras through to Cruz's own.
 
 ## Gear Breakdown
 
-- **Drums:** Ludwig Ludwig Classic Oak (Brown Burst finish)
+- **Drums:** Ludwig Ludwig
 - **Snare:** Ludwig Ludwig raw brass snare, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Custom
 - **Hardware / Pedals:** Trick Pro 1-V Bigfoot; Gibraltar 9707ML-DP; Roc-N-Soc Nitro Original; Vic Firth 5B / Power 5B
 - **Heads:** Evans G2 Coated or HD Dry (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium-high tension for brass crack and articulation
 
-### The Ludwig Classic Oak: Cruz's Omens-Era Kit
+### Cruz's Omens-Era Ludwig Kit
 
-Ludwig itself confirmed Art Cruz's Omens-era setup when the album dropped: a Classic Oak series kit in a Brown Burst finish, paired with a raw brass snare. Oak is a notably harder, denser tonewood than the maple or birch found on most metal kits — it produces a louder, more cutting fundamental with less natural sustain, which suits a drummer who needs his kit to project over Mark Morton and Willie Adler's down-tuned, dual-guitar wall without getting buried.
+Art Cruz's Omens-era kit carries forward the Ludwig setup he adopted after joining Lamb of God in 2019, anchored by the 14" x 6.5" Black Beauty snare that stayed in place through the band's 2020 self-titled album and into Omens — see the snare breakdown below for the details Ludwig has confirmed. Cruz hasn't publicly detailed a separate named shell series for the Omens sessions, so the shell pack's specific model and finish aren't listed here.
 
-The twin 22" bass drums carried over from the visual and sonic footprint Cruz had already established touring behind Lamb of God — two full-size kicks rather than a single drum, giving him the stage presence the band's arena-level shows demand alongside the low-end weight Omens' production needed. The compact tom spread (10", 12" rack toms; 16", 18" floor toms) keeps his fills direct and purposeful, in keeping with his stated philosophy of serving the song over showing off.
-
-Where Cruz's setup diverges most clearly from his predecessor's is tonal character: Chris Adler's Sacrament and Wrath-era kits leaned on DW and Pearl maple/mahogany hybrid shells for a warmer, rounder low end. The Classic Oak's harder attack gives Omens a more percussive, immediate kick and tom sound — a tonal signature as much a part of the Cruz era as the playing itself.
+Where Cruz's setup diverges most clearly from his predecessor's is overall character: Chris Adler's Sacrament and Wrath-era kits leaned on DW and Pearl maple/mahogany hybrid shells for a warmer, rounder low end, while Cruz's Ludwig-and-Black-Beauty rig gives Omens a brighter, more cutting attack — a tonal signature as much a part of the Cruz era as the playing itself.
 
 ### The Raw Brass Crack
 
@@ -53,9 +51,9 @@ The 14" A Custom hi-hats handle the rhythmic detail that defines Lamb of God's g
 
 ## The Cruz Era, Confirmed
 
-Omens didn't just give Lamb of God a commercial hit — it closed the question of whether Art Cruz belonged in the band's most demanding seat. Three years after taking over for Chris Adler, and two full studio albums in, Cruz's Ludwig Classic Oak kit and raw brass snare are now as much a part of Lamb of God's modern sound as the riffs they sit beneath.
+Omens didn't just give Lamb of God a commercial hit — it closed the question of whether Art Cruz belonged in the band's most demanding seat. Three years after taking over for Chris Adler, and two full studio albums in, Cruz's Ludwig kit and Black Beauty snare are now as much a part of Lamb of God's modern sound as the riffs they sit beneath.
 
-The gear tells part of that story: a harder, more cutting tonal character than Adler's DW and Pearl-era kits, built around twin bass drums and a tom spread designed for groove over decoration. The Zildjian A Custom cymbals and Trick double pedal connect Cruz's setup directly to the vocabulary he had to learn note-for-note before he could add anything of his own.
+The gear tells part of that story: a tonal character distinct from Adler's DW and Pearl-era kits, carried by the same Black Beauty-anchored setup Cruz adopted in 2019. The Zildjian A Custom cymbals and Trick double pedal connect Cruz's setup directly to the vocabulary he had to learn note-for-note before he could add anything of his own.
 
 For the fuller picture of how Lamb of God's drum chair evolved into this moment, the [Art Cruz drummer profile](/drummer/art-cruz) covers his complete path from Winds of Plague and Prong through the 2018 Slayer Farewell Tour audition to the present. The [Sacrament](/articles/sacrament-drum-setup) and [Wrath](/articles/wrath-drum-setup) setup articles document the Chris Adler era that Cruz inherited and had to honor before he could move past it.
 
@@ -68,13 +66,11 @@ For the fuller picture of how Lamb of God's drum chair evolved into this moment,
 - Confirms Cruz as Chris Adler's permanent successor after Adler's 2019 departure
 - Debuted at #15 Billboard 200, #1 Top Hard Rock Albums, #3 Top Rock Albums
 - Produced by Josh Wilbur at Henson Recording Studios, Los Angeles — tracked largely live in the room
-- Cruz's confirmed Omens-era gear: Ludwig Classic Oak kit (Brown Burst) with a raw brass snare
+- Cruz's confirmed Omens-era gear: Ludwig kit anchored by the 14" x 6.5" Black Beauty snare
 - Fills the 7-year gap between VII: Sturm und Drang (2015) and the present in LoG's discography
-- Ludwig Classic Oak in Brown Burst — confirmed directly by Ludwig for the Omens sessions
-- Twin 22" bass drums for stage presence and low-end weight
-- Oak shells trade sustain for a harder, more cutting attack than maple or birch
-- Compact four-tom spread keeps fills functional rather than decorative
-- Estimated kit value: $3,500-5,500 (Ludwig Classic Oak configuration)
+- Ludwig kit anchored by the 14" x 6.5" Black Beauty snare, carried through Omens from Cruz's 2019 setup
+- Shell series and finish are not independently verified for the Omens sessions and are omitted here
+- Estimated kit value: $3,500-5,500 (Ludwig kit configuration)
 - Estimated snare value: $400-700 (Ludwig raw brass snare)
 
 ## Frequently Asked Questions
@@ -85,7 +81,7 @@ A: Art Cruz played drums on Lamb of God's Omens (2022). It was Cruz's second stu
 
 **Q: What kit does Art Cruz use?**
 
-A: For Omens (2022), Art Cruz played a Ludwig Classic Oak kit in a Brown Burst finish, paired with a raw brass Ludwig snare — both confirmed directly by Ludwig at the time of the album's release. His configuration includes twin 22" bass drums, 10" and 12" rack toms, and 16" and 18" floor toms. He also plays Zildjian A Custom cymbals, Trick Pro 1-V Bigfoot double pedals, Gibraltar hardware, and Vic Firth 5B sticks.
+A: For Omens (2022), Art Cruz played a Ludwig kit anchored by his 14" x 6.5" Black Beauty snare — the same setup he adopted after joining Lamb of God in 2019 and carried through the band's 2020 self-titled album. He also plays Zildjian A Custom cymbals, Trick Pro 1-V Bigfoot double pedals, Gibraltar hardware, and Vic Firth 5B sticks.
 
 **Q: What replaced Chris Adler in Lamb of God?**
 
@@ -110,4 +106,4 @@ A: Omens was released October 7, 2022, through Epic Records and Nuclear Blast �
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

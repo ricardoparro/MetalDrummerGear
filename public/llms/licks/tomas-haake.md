@@ -147,9 +147,8 @@ New Millennium Cyanide Christ, from Meshuggah's ferocious Chaosphere album, is o
 
 ### Gear Used
 
-- Sonor Drum Kit (drums)
-- Sabian Cymbals (cymbals)
-- Tama Speed Cobra Pedals (pedals)
+- Tama Superstar (drums)
+- DW 5002 Double Pedal (pedals)
 
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -166,4 +165,4 @@ Tomas Haake's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

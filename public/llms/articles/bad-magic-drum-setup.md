@@ -25,25 +25,25 @@ This article breaks down the Sonor SQ2 kit, Paiste Signature cymbals, and Vic Fi
 - **Drums:** Sonor Sonor SQ2 (Piano black lacquer finish)
 - **Snare:** Sonor Sonor Mikkey Dee Signature, 14" x 7.25"
 - **Cymbals:** Paiste — Paiste Signature Series
-- **Hardware / Pedals:** DW 5000 Series Double Pedal; Sonor Hardware; Roc-N-Soc Nitro Throne; Vic Firth Mikkey Dee Signature
+- **Hardware / Pedals:** DW 5000 Series Double Pedal; Sonor Hardware; Roc-N-Soc Nitro Throne; Mikkey Dee Signature (W-MDS)
 - **Heads:** Evans G2 Coated (batter), Evans Snare Side 300 (resonant)
 - **Snare tuning:** Medium-high tension for maximum crack and cut
 
 ### Sonor SQ2, Refined by Decades: Dee's Final Motörhead Kit
 
-By the time Motörhead entered NRG Studios to track *Bad Magic*, Mikkey Dee's Sonor SQ2 custom-build kit — an endorsement dating back to his pre-Motörhead King Diamond days — remained the foundation of his sound through the band's late-career records. The birch shells were prized for the punchy, focused low-mid resonance that arena and festival stages demanded as Motörhead's shows grew larger in scale.
+By the time Motörhead entered NRG Studios to track *Bad Magic*, Mikkey Dee's Sonor SQ2 custom-build kit — the setup he'd switched to from Tama back in 2006 — remained the foundation of his sound through the band's late-career records. The birch shells were prized for the punchy, focused low-mid resonance that arena and festival stages demanded as Motörhead's shows grew larger in scale.
 
 The 22" x 18" bass drum remained the foundation, delivering the same focused low-end punch Dee had relied on since his Tama days on *Bastards* — proof that his fundamental drum voice never changed even as the hardware around it evolved. Paired with a DW 5000 Series double pedal, the kick response on *Bad Magic* is tight and immediate, well suited to the tighter, more song-focused arrangements of Motörhead's later material.
 
 The expanded tom configuration — an added 8" rack tom alongside the familiar 10"/12"/14" set and a single 16" floor tom — gave Dee more melodic range for fills without cluttering the kit's visual footprint on Motörhead's increasingly elaborate stage productions.
 
-Listening to *Bad Magic* against *Bastards* is a study in continuity: the same aggressive placement philosophy, the same commitment to serving the song over displaying technique, delivered through the same Sonor custom-build platform Dee had relied on since well before Motörhead ever existed. It's the sound of a drummer who spent 23 years finding exactly what worked and never stopped refining it.
+Listening to *Bad Magic* against *Bastards* is a study in continuity: the same aggressive placement philosophy, the same commitment to serving the song over displaying technique, delivered through the same Sonor custom-build platform Dee had relied on since 2006. It's the sound of a drummer who spent 23 years finding exactly what worked and never stopped refining it.
 
 ### Sonor Signature Birch: The Snare That Closed Out an Era
 
 The snare crack on *Bad Magic* comes from Dee's own Sonor Mikkey Dee Signature snare — a 14" x 7.25" birch shell Sonor released in 2012, three years before these sessions. The extra-deep shell adds substantial low-mid body to his backbeat, bright and cutting enough to slice through Motörhead's wall-of-amplifiers stage volume.
 
-Earlier in his career — through the King Diamond years and into Motörhead — Dee played a shallower birch Sonor snare; the deeper signature model added more low-end weight without sacrificing the crack. The birch shell delivers extra sensitivity for ghost notes alongside a full, articulate backbeat.
+From his 2006 switch to Sonor through 2012, Dee played a 14" x 6.5" steel-shell Sonor SQ2 snare; the 2012 signature model moved to a deeper birch shell, adding more low-end weight without sacrificing the crack. The birch shell delivers extra sensitivity for ghost notes alongside a full, articulate backbeat.
 
 On *Bad Magic*, the snare sits high in the mix on tracks like "Victory or Die" and "Thunder & Lightning," cutting cleanly through Phil Campbell's guitar and Lemmy's mid-heavy Rickenbacker bass tone — the same frequency-carving challenge Dee solved on every Motörhead record he ever played.
 
@@ -78,7 +78,7 @@ With [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) (2010) and
 - Lemmy Kilmister died December 28, 2015 — four months after release
 - Closes Mikkey Dee's 23-year Motörhead tenure, which began on *Bastards* (1993)
 - "Thunder & Lightning" — closely tied to a Best Metal Performance Grammy recognition for the band
-- Sonor SQ2 remained Dee's kit throughout the late-Motörhead era — an endorsement dating back to his pre-Motörhead King Diamond days
+- Sonor SQ2 remained Dee's kit throughout the late-Motörhead era — a setup he switched to from Tama in 2006
 - 22" x 18" bass drum kept the same focused punch as his 1993 Tama setup
 - Added 8" rack tom gave more fill options on the band's final record
 - DW 5000 Series double pedal gave a precise, immediate kick response for the band's later material
@@ -93,7 +93,7 @@ A: Yes. *Bad Magic*, released August 28, 2015, is Motörhead's twenty-second and
 
 **Q: What drums and cymbals did Mikkey Dee use on Bad Magic?**
 
-A: On *Bad Magic* (2015), Mikkey Dee used a Sonor SQ2 kit with a 22" x 18" bass drum, an 8"/10"/12"/14" rack tom configuration, and a 16" floor tom, paired with his own Sonor Mikkey Dee Signature birch snare (14" x 7.25"). His cymbal setup used the Paiste Signature Series (Sound Edge hi-hats and Full Crashes) with a 21" Full Ride for extra tonal depth, plus a 19" China for accents. He played a DW 5000 Series double pedal and used his own Vic Firth Mikkey Dee signature sticks. For his full gear evolution across four decades, see [What's In Mikkey Dee's Kit](/articles/whats-in-mikkey-dees-kit).
+A: On *Bad Magic* (2015), Mikkey Dee used a Sonor SQ2 kit with a 22" x 18" bass drum, an 8"/10"/12"/14" rack tom configuration, and a 16" floor tom, paired with his own Sonor Mikkey Dee Signature birch snare (14" x 7.25"). His cymbal setup used the Paiste Signature Series (Sound Edge hi-hats and Full Crashes) with a 21" Full Ride for extra tonal depth, plus a 19" China for accents. He played a DW 5000 Series double pedal and used his own Wincent Mikkey Dee signature sticks. For his full gear evolution across four decades, see [What's In Mikkey Dee's Kit](/articles/whats-in-mikkey-dees-kit).
 
 **Q: Did Motörhead win a Grammy for Bad Magic?**
 
@@ -101,7 +101,7 @@ A: "Thunder & Lightning," from *Bad Magic*, is closely associated with a Grammy 
 
 **Q: How did Mikkey Dee's gear change between Bastards (1993) and Bad Magic (2015)?**
 
-A: Across 23 years, Dee's early Motörhead records were built on Tama Artstar II/Swingstar drums, as heard on [*Bastards*](/articles/bastards-drum-setup), before his kit settled into the Sonor SQ2 birch-shell setup — an endorsement dating back to his pre-Motörhead King Diamond days — that carried him through *Bad Magic*. His Paiste cymbal endorsement, dating back to 1987, continued throughout, expanding from the Giant Beat/2002 blend heard on *Bastards* to the fuller Signature Series configuration used here. The 22" bass drum stayed constant across both eras, while the snare evolved from a 14" x 6.5" steel shell to his own 14" x 7.25" Sonor Mikkey Dee Signature birch snare, released in 2012. See the [full evolution breakdown](/articles/whats-in-mikkey-dees-kit) for the complete gear timeline.
+A: Across 23 years, Dee's early Motörhead records were built on Tama Artstar II/Swingstar drums, as heard on [*Bastards*](/articles/bastards-drum-setup), before his kit switched to Sonor SQ2 in 2006 and settled into the birch-shell setup that carried him through *Bad Magic*. His Paiste cymbal endorsement, dating back to 1987, continued throughout, expanding from the Giant Beat/2002 blend heard on *Bastards* to the fuller Signature Series configuration used here. The 22" bass drum stayed constant across both eras, while the snare evolved from a 14" x 6.5" steel shell to his own 14" x 7.25" Sonor Mikkey Dee Signature birch snare, released in 2012. See the [full evolution breakdown](/articles/whats-in-mikkey-dees-kit) for the complete gear timeline.
 
 **Q: What is the complete Mikkey Dee / Motörhead album arc, from debut to Bad Magic?**
 
@@ -124,4 +124,4 @@ A: Mikkey Dee's Motörhead studio discography runs, in order: [*Bastards*](/arti
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

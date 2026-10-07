@@ -1,6 +1,6 @@
 # Once Was Not Drum Setup: Flo Mounier's Fastest Recorded Performance
 
-> Discover the exact drum kit, cymbals, and gear Flo Mounier used to record Cryptopsy's Once Was Not (2005). Complete breakdown of the Yamaha Recording Custom, Zildjian ZXT cymbals, and DW hardware behind the most technically demanding album in Cryptopsy's catalog.
+> Discover the exact drum kit, cymbals, and gear Flo Mounier used to record Cryptopsy's Once Was Not (2005). Complete breakdown of the Yamaha Recording Custom, Zildjian ZXT cymbals, and hardware setup behind the most technically demanding album in Cryptopsy's catalog.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Flo Mounier](/llms/drummers/flo-mounier.md)
@@ -27,7 +27,7 @@ Explore Flo Mounier's complete career at [What's In Flo Mounier's Kit](/articles
 - **Drums:** Yamaha Recording Custom Series (Natural Wood / Solid Black finish)
 - **Snare:** Yamaha Recording Custom Steel Snare, 14" x 5.5"
 - **Cymbals:** Zildjian — ZXT Series
-- **Hardware / Pedals:** DW 9002 Double Pedal; DW 9000 Hi-Hat Stand; Roc-n-Soc Nitro Throne; Vic Firth 5A American Classic
+- **Hardware / Pedals:** Double pedal setup (specific brand/model not publicly documented); Hi-hat stand (specific brand/model not publicly documented); Roc-n-Soc Nitro Throne; Vic Firth 5A American Classic
 - **Heads:** Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Very high tension — maximum attack, minimum sustain for blast beat clarity at extreme tempos
 
@@ -134,4 +134,4 @@ A: Once Was Not (2005) and And Then You'll Beg (2000) represent different peaks 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

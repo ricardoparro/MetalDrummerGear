@@ -1,26 +1,26 @@
 # What Cymbals Does Matt Greiner Use? Full Setup
 
-**Band:** August Burns Red | **Brand(s):** Meinl
+**Band:** August Burns Red | **Brand(s):** Paiste
 
 ---
 
 ## Direct Answer
 
-Matt Greiner plays Meinl cymbals: 15" Byzance Dual Hi-Hats, 18" Byzance Dual Crash, 19" Byzance Dual Crash, 21" Byzance Transition Ride, 18" Byzance Extra Dry China, 10" Byzance Splash, 12" Byzance Splash.
+Matt Greiner plays Paiste cymbals: 14" Formula 602 Hi-Hats, 16" Formula 602 Crash, 17" Formula 602 Crash, 18" Formula 602 Crash, 22" Formula 602 Ride, 18" Formula 602 China, 10" Formula 602 Splash.
 
 ## Cymbal Breakdown
 
 | Piece | Size | Series | Model |
 |-------|------|--------|-------|
-| Hi-hat | 15" | Byzance | Dual Hi-Hats |
-| Crash | 18" | Byzance | Dual Crash |
-| Crash | 19" | Byzance | Dual Crash |
-| Ride | 21" | Byzance | Transition Ride |
-| China | 18" | Byzance | Extra Dry China |
-| Splash | 10" | Byzance | Splash |
-| Splash | 12" | Byzance | Splash |
+| Hi-hat | 14" | Formula 602 | Hi-Hats |
+| Crash | 16" | Formula 602 | Crash |
+| Crash | 17" | Formula 602 | Crash |
+| Crash | 18" | Formula 602 | Crash |
+| Ride | 22" | Formula 602 | Ride |
+| China | 18" | Formula 602 | China |
+| Splash | 10" | Formula 602 | Splash |
 
-Verified roster hardware entry: "Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Paiste Formula 602 (14" Hi-Hats, 16", 17" & 18" Crashes, 22" Ride, 18" China, 10" Splash)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -33,7 +33,7 @@ Verified roster hardware entry: "Meinl Byzance Series (15" Dual Hi-Hats, 18" & 1
 ## FAQ
 
 **Q: What cymbals does Matt Greiner use?**
-A: Matt Greiner plays Meinl cymbals: 15" Byzance Dual Hi-Hats, 18" Byzance Dual Crash, 19" Byzance Dual Crash, 21" Byzance Transition Ride, 18" Byzance Extra Dry China, 10" Byzance Splash, 12" Byzance Splash.
+A: Matt Greiner plays Paiste cymbals: 14" Formula 602 Hi-Hats, 16" Formula 602 Crash, 17" Formula 602 Crash, 18" Formula 602 Crash, 22" Formula 602 Ride, 18" Formula 602 China, 10" Formula 602 Splash.
 
 ## More Resources
 
@@ -44,4 +44,4 @@ A: Matt Greiner plays Meinl cymbals: 15" Byzance Dual Hi-Hats, 18" Byzance Dual 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

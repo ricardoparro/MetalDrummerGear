@@ -3,10 +3,10 @@ name: "Aquiles Priester"
 band: "Angra / W.A.S.P."
 genre: "Power Metal / Heavy Metal"
 country: "Brazil"
-primary_brand: "Pearl"
+primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -22,24 +22,23 @@ Aquiles Priester's drum kit and gear setup. Aquiles Priester is a professional m
 | All bands | Angra, W.A.S.P. |
 | Genre | Power Metal / Heavy Metal |
 | Country | Brazil |
-| Primary brand | Pearl |
-| Drum kit | Pearl Reference Series |
-| Signature snare | Pearl Reference 14x6.5" Brass |
-| Sticks | Promark TX419W Aquiles Priester Autograph |
+| Primary brand | Mapex |
+| Drum kit | Mapex Saturn Evolution All Maple (signature kit) |
+| Sticks | ProMark Aquiles Priester Signature |
 
 ## Kit Overview
 
-Aquiles Priester plays a Pearl Reference Series drum kit — a dense, multi-ply shell pack chosen for the powerful low end and quick rebound that support his trademark blend of blistering speed and razor-sharp precision. The Aquiles Priester drum set is centered on a Pearl Reference 14x6.5" brass snare, prized for a bright, cutting crack that keeps his rapid single- and double-stroke fills audible through Angra's dense progressive power metal arrangements.
+Aquiles Priester plays a Mapex Saturn Evolution All Maple signature kit — a dense maple shell pack chosen for the powerful low end and quick rebound that support his trademark blend of blistering speed and razor-sharp precision.
 
-Sabian HHX and AAX Series cymbals shape the sound of the Aquiles Priester drum kit: 14" HHX Evolution Hi-Hats for crisp, controlled chops at his characteristically breakneck tempos; 18" and 19" HHX X-Plosion Crashes for explosive accents; a 21" HHX Groove Ride for definition through extended double-bass sections; and an 18" AAX Chinese cymbal for sharp punctuation. A Pearl Demon Drive double pedal, mounted on Pearl's Icon Rack System, delivers the sustained, high-speed double-bass patterns that have made Priester one of the most celebrated technical drummers to emerge from Brazil's metal scene.
+A Paiste custom red-coated cymbal set, including an 18" Psychoctopus Giga Bell Ride, shapes the sound of the Aquiles Priester drum kit, giving his rapid single- and double-stroke fills a bright, cutting edge that stays audible through Angra's dense progressive power metal arrangements. A DW 9000 Series double pedal delivers the sustained, high-speed double-bass patterns that have made Priester one of the most celebrated technical drummers to emerge from Brazil's metal scene.
 
-His Promark TX419W Aquiles Priester Autograph sticks, paired with Evans heads, complete the Aquiles Priester drum set — a setup that has carried him through his work with Angra, W.A.S.P., and his own project, Hangar.
+His ProMark Aquiles Priester Signature sticks, paired with Remo coated Ambassador / Powerstroke 3 heads, complete the Aquiles Priester drum set — a setup that has carried him through his work with Angra, W.A.S.P., and his own project, Hangar.
 
 ## Biography
 
 Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2000-2012, 2023-present), W.A.S.P. (2006-present), and his own project Hangar. Priester's double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.
 
-Aquiles Priester (born June 19, 1971, in São Paulo, Brazil) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2000-2012, returning 2023), American heavy metal band W.A.S.P. (2006-present), and his own band Hangar.
+Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2000-2012, returning 2023), American heavy metal band W.A.S.P. (2006-present), and his own band Hangar.
 
 Priester is considered one of the greatest power metal drummers in the world. His double bass abilities, complex fills, and capacity to maintain blazing speeds for extended periods have earned him numerous awards from Brazilian and international music publications. His energetic live performances and precise studio work have influenced a generation of metal drummers.
 
@@ -101,19 +100,18 @@ Aquiles Priester's drumming style combines extreme speed with musicality and sho
 
 ## Gear
 
-- **Drums:** Pearl Reference Series
-- **Snare:** Pearl Reference 14x6.5" Brass
-- **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)
-- **Hardware:** Pearl Demon Drive Double Pedal, Pearl Icon Rack System
-- **Sticks:** Promark TX419W Aquiles Priester Autograph
-- **Heads:** Evans
+- **Drums:** Mapex Saturn Evolution All Maple (signature kit)
+- **Cymbals:** Paiste Custom red-coated set incl. 18" Psychoctopus Giga Bell Ride
+- **Hardware:** DW 9000 Series Double Pedal
+- **Sticks:** ProMark Aquiles Priester Signature
+- **Heads:** Remo Coated Ambassador / Powerstroke 3
 
 ## Endorsements
 
 - [Pearl Drums](https://pearldrum.com)
 - [Sabian Cymbals](https://www.sabian.com)
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -157,7 +155,7 @@ A: Aquiles Priester uses his own ProMark Aquiles Priester Signature drumsticks.
 
 **Q: What drumheads does Aquiles Priester use?**
 
-A: Aquiles Priester uses Evans drumheads across his Mapex Saturn Evolution All Maple kit.
+A: Aquiles Priester uses Remo Coated Ambassador / Powerstroke 3 drumheads across his Mapex Saturn Evolution All Maple kit.
 
 **Q: What hardware does Aquiles Priester use?**
 
@@ -211,7 +209,7 @@ Full breakdown: [Aquiles Priester's cymbal setup](https://metalforge.io/cymbals/
 
 ## Pedal
 
-Aquiles Priester plays a Pearl Demon Drive double pedal (direct-drive).
+Aquiles Priester plays a DW 9000 Series double pedal (chain-drive).
 
 Full breakdown: [Aquiles Priester's pedal setup](https://metalforge.io/pedals/setups/aquiles-priester).
 
@@ -245,4 +243,4 @@ Dated brand-endorsement timeline: [Aquiles Priester's endorsement history](https
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

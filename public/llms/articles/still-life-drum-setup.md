@@ -18,40 +18,40 @@ Lopez had joined Opeth in 1997, replacing original drummer Anders Nordin mid-rec
 
 The album was recorded at Fredman Studio in Gothenburg, with Mikael Åkerfeldt producing. Without the influence of Steven Wilson—who would later transform the drum sound on Blackwater Park—the production here is more typical of late-1990s Swedish death metal, but Lopez's playing already transcended the genre's expectations. His ghost notes on "Benighted" and "Face of Melinda," his brush sensitivity on "White Cluster," and his explosive blast beats on "The Moor" showed the full range in a single album.
 
-Gear-wise, Lopez worked with a Pearl Export kit during this era—a professional but workmanlike choice suited to a band still building its budget. Paired with Sabian HH cymbals, the setup gave him the tonal warmth his jazz-influenced approach demanded even in budget-conscious circumstances. The Pearl Export's punchy attack cut through Fredman Studio's dense guitar tones while remaining responsive enough for Still Life's demanding acoustic passages.
+Gear-wise, Lopez worked with a Sonor Designer Series kit during this era—the same German-made maple kit he would continue to play through Blackwater Park (2001), Deliverance (2002), and Ghost Reveries (2005). Paired with Sabian HH cymbals, the setup gave him the tonal warmth his jazz-influenced approach demanded. The Sonor's maple shells cut through Fredman Studio's dense guitar tones while remaining articulate enough for Still Life's demanding acoustic passages.
 
 This article breaks down the gear Martin Lopez used on Still Life, explores the jazz technique that made the album's dynamics work, and explains why this 1999 record was the crucial step that made Blackwater Park possible.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Export Series (Black finish)
-- **Snare:** Pearl Pearl Sensitone Steel Snare, 14" x 5.5"
+- **Drums:** Sonor Sonor Designer Series (Natural Maple finish)
+- **Snare:** Sonor Sonor Designer Maple Snare, 14" x 5.5"
 - **Cymbals:** Sabian — Sabian HH (Hand Hammered) Series
-- **Hardware / Pedals:** DW 5000 Double Pedal; Pearl H-1000 Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5A
+- **Hardware / Pedals:** Pearl H-1000 Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5A
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium for balanced crack and ghost-note sensitivity
 
-### Lopez's Pearl Setup: Punchy and Workmanlike
+### Lopez's Sonor Setup: Warm and Articulate
 
-For Still Life, Martin Lopez worked with a Pearl Export kit—a choice that reflected Opeth's 1999 budget realities while still delivering the tonal characteristics Lopez needed. The Pearl Export was the working drummer's workhorse of the late 1990s: consistent, reliable, and punchier than its price point suggested.
+For Still Life, Martin Lopez worked with a Sonor Designer Series kit—the same German-made maple setup he would carry through Blackwater Park, Deliverance, and Ghost Reveries. Even on this first full record with the band, the kit delivered the warm, articulate tone Lopez's jazz-influenced approach demanded.
 
-The 22" bass drum gave Lopez the same deep foundation he would later carry into Blackwater Park's Sonor setup. On Still Life's heaviest passages—"The Moor," "Godhead's Lament"—the kick's punch cut through the dense guitar downtunings without becoming muddy. For the album's softer sections, Lopez's touch was light enough to use the Export's resonance rather than fight it.
+The 22" bass drum gave Lopez a deep foundation that blended with the guitars rather than fighting them. On Still Life's heaviest passages—"The Moor," "Godhead's Lament"—the kick's punch cut through the dense guitar downtunings without becoming muddy. For the album's softer sections, Lopez's touch drew out the maple shells' natural resonance rather than fighting it.
 
-The poplar/Asian maple shell construction delivered more mid-forward tone than the premium European maple of his later Sonor Designer Series. This gave Still Life's drums a grittier, more direct character—appropriate for a record that still sits closer to death metal than Blackwater Park's polished progressive sound.
+The maple shell construction delivered the warmth and sustain that would become a hallmark of Lopez's Opeth tone across the next decade. Even against Still Life's rawer, pre-Steven Wilson production, the kit's tonal character is already recognizable as the same setup that would define Blackwater Park two years later.
 
 Tom configuration matched what would become Lopez's standard layout for Opeth: 10" and 12" racks, 14" and 16" floors. The fills on tracks like "Benighted" and "Face of Melinda" established the melodic-phrasing approach that would fully flower on Blackwater Park—using toms to create melodic counterpoints rather than pure rhythmic punctuation.
 
-The Pearl Export's limitation was dynamic ceiling: it saturated faster than premium shells under hard playing. Lopez managed this through technique rather than fighting it, pulling back velocity where the music allowed and landing harder only where the death metal sections demanded.
+Lopez's dynamic control was already fully formed on Still Life: the same touch that let him whisper through brushed passages and erupt into blast beats moments later, all on the kit that would carry him through Opeth's most celebrated run of albums.
 
-### The Snare: Responsive at Any Volume
+### The Snare That Breathes
 
-Lopez used a Pearl Sensitone steel snare for Still Life—a drum known for its sharp, cutting crack and sensitivity across dynamic ranges. The steel shell delivered a brighter, more cutting snap than the warm maple snare he would use on Blackwater Park, which suited the album's rawer production aesthetic.
+Lopez used a Sonor Designer maple snare for Still Life—a drum that prioritized tone over pure attack, matching the same warm, musical character he would carry into Blackwater Park two years later.
 
-At 14" x 5.5", the Sensitone sat in classic snare territory: deep enough for body on heavy hits, shallow enough to remain crisp on ghost notes. The steel construction meant it resonated quickly and decayed cleanly—essential for Fredman Studio's close-microphone approach, where excessive ring would have muddied the mix.
+At 14" x 5.5", the snare sat in classic dimensions: deep enough for body on heavy hits, shallow enough to remain crisp on ghost notes. The maple shell resonated with warmth rather than the harsh crack of a metal snare—essential for Fredman Studio's close-microphone approach, where Lopez's dynamic range needed to translate cleanly.
 
-Lopez's snare technique on Still Life is one of the album's most underappreciated features. His ghost notes on "Benighted" and "Face of Melinda" require a drum that speaks clearly at low velocities without losing presence. The Sensitone's steel shell achieves exactly this—even at near-silent ghost note levels, each stroke registers.
+Lopez's snare technique on Still Life is one of the album's most underappreciated features. His ghost notes on "Benighted" and "Face of Melinda" require a drum that speaks clearly at low velocities without losing presence. The maple shell achieves exactly this—even at near-silent ghost note levels, each stroke registers.
 
-For the album's death metal passages, the Sensitone's crack cut through distorted guitars without needing excessive tuning tension. Lopez kept it at medium tension, getting brightness from the steel shell rather than overtightening the head, which preserved the drum's sensitivity for the dynamic shifts Still Life constantly demanded.
+For the album's death metal passages, the snare's crack cut through distorted guitars without needing excessive tuning tension. Lopez kept it at medium tension, getting brightness from the shell rather than overtightening the head, which preserved the drum's sensitivity for the dynamic shifts Still Life constantly demanded.
 
 ### Sabian HH: Dark and Complex from the Start
 
@@ -67,13 +67,13 @@ The lone AAX China cymbal—the one concession to brighter metal aggression—wa
 
 ## The Album That Made Blackwater Park Possible
 
-Still Life is the overlooked cornerstone of Martin Lopez's legacy. Blackwater Park gets the accolades — the Steven Wilson production, the Sonor kit, the revolutionary drum sound — but every element that made that album's drumming great was established here in 1999, with a Pearl Export and Sabian HH cymbals, under tighter production, on a lower budget.
+Still Life is the overlooked cornerstone of Martin Lopez's legacy. Blackwater Park gets the accolades — the Steven Wilson production, the revolutionary drum sound — but every element that made that album's drumming great was established here in 1999, on the same Sonor Designer Series kit and Sabian HH cymbals, under tighter, more compressed production.
 
 **What Lopez Accomplished on Still Life:**
 A death metal drummer used jazz ghost note technique, brush sensitivity, and melodic ride vocabulary to make a concept album feel emotionally continuous across 67 minutes. He prioritized the music's emotional arc over his own technical display. He established a drumming philosophy that would influence progressive metal for the next two decades.
 
 **The Gear Perspective:**
-The Pearl Export limitation is ultimately irrelevant to Still Life's greatness. Lopez's technique transcended the mid-range shells. The Sabian HH cymbals provided the tonal sophistication his playing demanded. The DW 5000 double pedal held up under demanding kick patterns. Professional gear doesn't require premium gear — Still Life proves this.
+The gear was never the limitation on Still Life. Lopez was already playing the premium Sonor Designer Series maple kit he'd carry through Blackwater Park, Deliverance, and Ghost Reveries. The Sabian HH cymbals provided the tonal sophistication his playing demanded. His double pedal held up under demanding kick patterns. What changed by Blackwater Park was the production, not the equipment — proof that Steven Wilson's dynamic-range philosophy, not a gear upgrade, unlocked the sound everyone remembers.
 
 **For Drummers Today:**
 Study Still Life for the ghost note work on "Face of Melinda" and "Benighted." Study the brush performance on "Benighted" for jazz-to-metal translation. Study "The Moor" for how Lopez built a ten-minute arc from acoustic restraint to full death metal intensity. These are the techniques that made Blackwater Park possible — and they're available to any drummer willing to approach metal with jazz ears.
@@ -86,23 +86,23 @@ Martin Lopez found his Opeth voice on Still Life. Everything that followed — B
 
 - Recorded at Fredman Studio, Gothenburg in 1999
 - Produced by Mikael Åkerfeldt — first Opeth album Lopez tracked start-to-finish
-- Pearl Export kit: punchy, workmanlike, suited to Fredman Studio's dense guitar tones
+- Sonor Designer Series kit: warm, articulate maple shells he'd play through Blackwater Park and beyond
 - Sabian HH cymbals provided warmth for jazz-influenced passages
 - Concept album structure required Lopez to sustain emotional arc across 67 minutes
 - Commercial breakthrough that secured Opeth's international profile before Blackwater Park
-- Pearl Export chosen for budget-era Opeth sessions at Fredman Studio
-- 22" kick provides the same deep foundation as his later Sonor setup
-- Mid-forward tone from poplar shells gives Still Life a grittier character than Blackwater Park
+- Sonor Designer Series—the same kit Lopez played through Blackwater Park, Deliverance, and Ghost Reveries
+- 22" kick provides the same deep foundation he carried into later Opeth records
+- Maple shells give Still Life's drums the warmth that became Lopez's signature Opeth tone
 - Same four-tom layout Lopez used throughout his Opeth tenure
-- Lopez's technique compensated for the Export's reduced dynamic ceiling
-- Estimated kit value: $700-1,000 (1999) / $400-700 used today
+- Dynamic control across ghost notes and blast beats already fully formed on this record
+- Estimated kit value: $3,500-5,000 (1999) / $4,000-6,000 (comparable setup today)
 - Estimated snare value: $150-250
 
 ## Frequently Asked Questions
 
 **Q: What drum kit did Martin Lopez use to record Still Life in 1999?**
 
-A: Martin Lopez recorded Opeth's Still Life in 1999 using a Pearl Export Series kit. His configuration included a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Pearl Export was a professional but budget-conscious choice for the era — Opeth were still building their international profile when Still Life was recorded. Lopez paired the Export with Sabian HH hand-hammered cymbals, which provided the dark, complex tone his jazz-influenced playing demanded. He would upgrade to the Sonor Designer Series for the [Blackwater Park sessions in 2001](/articles/blackwater-park-drum-setup), where Steven Wilson's production fully captured his dynamic range.
+A: Martin Lopez recorded Opeth's Still Life in 1999 using a Sonor Designer Series maple kit. His configuration included a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Sonor Designer Series was the same premium German-made kit Lopez had played since joining Opeth in 1997, and the same setup he carried through the [Blackwater Park sessions in 2001](/articles/blackwater-park-drum-setup), Deliverance, and Ghost Reveries. Lopez paired the Sonor with Sabian HH hand-hammered cymbals, which provided the dark, complex tone his jazz-influenced playing demanded. Steven Wilson's production on Blackwater Park would later capture the kit's dynamic range more fully than Still Life's tighter mix.
 
 **Q: How did Martin Lopez use jazz techniques on Opeth's Still Life?**
 
@@ -114,7 +114,7 @@ A: Martin Lopez used Sabian HH (Hand Hammered) series cymbals on Still Life, wit
 
 **Q: How does Still Life's drum production differ from Blackwater Park?**
 
-A: Still Life's drum production reflects standard Swedish death metal practice circa 1999: tightly compressed, close-miked, with minimal room ambience. Producer Mikael Åkerfeldt prioritized clarity and punch over dynamic width. Blackwater Park (2001) — produced by Steven Wilson — represented a radical departure: wider dynamic range, more room ambience, no triggers, and a philosophy that preserved the difference between Lopez's softest ghost notes and his hardest hits. You can hear the impact of this difference by comparing Lopez's ghost note work across both albums. On Still Life, the dynamic window is narrower; on Blackwater Park, the contrast between whisper and thunder is one of the most striking sounds in progressive metal. The gear upgrade from Pearl Export to Sonor Designer Series also contributed — premium maple shells respond to touch differently, allowing Lopez's dynamics to register more fully.
+A: Still Life's drum production reflects standard Swedish death metal practice circa 1999: tightly compressed, close-miked, with minimal room ambience. Producer Mikael Åkerfeldt prioritized clarity and punch over dynamic width. Blackwater Park (2001) — produced by Steven Wilson — represented a radical departure: wider dynamic range, more room ambience, no triggers, and a philosophy that preserved the difference between Lopez's softest ghost notes and his hardest hits. You can hear the impact of this difference by comparing Lopez's ghost note work across both albums. On Still Life, the dynamic window is narrower; on Blackwater Park, the contrast between whisper and thunder is one of the most striking sounds in progressive metal. Lopez played the same Sonor Designer Series maple kit on both albums — the difference comes down to Wilson's production approach, not a gear change.
 
 **Q: Why was Still Life important to Martin Lopez's development as a drummer?**
 
@@ -135,4 +135,4 @@ A: Still Life was the first Opeth album Martin Lopez tracked from inception to c
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

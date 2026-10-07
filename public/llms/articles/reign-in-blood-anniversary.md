@@ -1,6 +1,6 @@
 # Reign in Blood at 40: Dave Lombardo's Gear, 40 Years Later
 
-> Slayer's Reign in Blood turns 40 in October 2026. A look back at Dave Lombardo's drumming on the record that redefined thrash — the verified Tama and Paiste rig, the tracks that still test drummers, and where to find the gear today.
+> Slayer's Reign in Blood turns 40 in October 2026. A look back at Dave Lombardo's drumming on the record that redefined thrash — the verified Pearl Maxwin kit, the tracks that still test drummers, and where to find the gear today.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Dave Lombardo](/llms/drummers/dave-lombardo.md)
@@ -16,13 +16,12 @@ What isn't disputed is what's on the record. Dave Lombardo drums on every track,
 
 ## The Speed That Redefined Metal
 
-Lombardo recorded Reign in Blood on a Tama Artstar II kit in Piano Black, running two 22" bass drums independently rather than a single kick with a double pedal — a choice that gave every stroke identical attack at tempos other drummers couldn't sustain with one foot. His Tama Superstar Steel snare, tuned high and tight, cut through the record's dry, close-mic'd production, and Paiste's RUDE and 2002 series cymbals supplied the crashes and Chinas that punctuate the riffs on "Angel of Death" and "Raining Blood."
+Lombardo recorded Reign in Blood on a Pearl Maxwin kit with birch shells, running two 22" bass drums independently rather than a single kick with a double pedal — a choice that gave every stroke identical attack at tempos other drummers couldn't sustain with one foot. His Tama Superstar Steel snare, tuned high and tight, cut through the record's dry, close-mic'd production, and his cymbal setup of that era supplied the crashes and Chinas that punctuate the riffs on "Angel of Death" and "Raining Blood."
 
 None of it would matter without the playing. "Angel of Death" sustains blast beats past 200 BPM for minutes at a stretch, "Criminally Insane" packs relentless speed into under three minutes, and the transition from "Postmortem" into "Raining Blood" is still one of metal's most-cited drum performances. Forty years later, that combination of raw velocity and Cuban-influenced groove is still the reason drummers study this record rather than just headbang to it.
 
-- Tama Artstar II kit, Piano Black finish, twin independent 22" bass drums
+- Pearl Maxwin kit with birch shells, twin independent 22" bass drums
 - Tama Superstar Steel 14" x 6.5" snare, tuned high for maximum cut
-- Paiste RUDE & 2002 series cymbals for crashes, hi-hats, and Chinas
 - "Angel of Death" sustains 200+ BPM blast beats across the album opener
 
 ## 40 Years of Influence
@@ -33,17 +32,17 @@ Four decades after release, Reign in Blood still functions as a technical benchm
 
 ## The Gear Behind Reign in Blood
 
-Every major piece of Lombardo's Reign in Blood rig is documented in detail on MetalForge, and the Paiste cymbal lineup he used is still in production 40 years later.
+Every major piece of Lombardo's Reign in Blood rig is documented in detail on MetalForge.
 
 - [His Complete Kit & Gear Setup](https://metalforge.io/drummer/dave-lombardo) — Full drummer profile: drums, snare, cymbals, hardware, and career timeline
-- [Reign in Blood Drum Setup — Full Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup) — Track-by-track gear notes, recording techniques, and the Tama Artstar II build
+- [Reign in Blood Drum Setup — Full Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup) — Track-by-track gear notes, recording techniques, and the Pearl Maxwin build
 - [Signature Sticks — ProMark TX2BXN](https://metalforge.io/drumsticks/signature/dave-lombardo) — Lombardo's current signature stick model
-- [Cymbal Setup — Paiste RUDE & 2002 Series](https://metalforge.io/cymbals/setups/dave-lombardo) — Full per-piece breakdown of the hi-hats, crashes, ride, and China
+- [Cymbal Setup — Full Breakdown](https://metalforge.io/cymbals/setups/dave-lombardo) — Full per-piece breakdown of the hi-hats, crashes, ride, and China
 - [Paul Bostaph vs Dave Lombardo](https://metalforge.io/vs/paul-bostaph-vs-dave-lombardo) — The Slayer drum chair, gear and technique compared
 
 ## 40 Years Later, Still the Standard
 
-Reign in Blood's 40th anniversary isn't just a nostalgia trigger — it's a reminder that the album's drumming still holds up as a technical and musical benchmark. The gear that made it possible is still partly on the market: the Paiste RUDE and 2002 cymbal lineup is unchanged, and Lombardo's current signature sticks carry the lineage forward even though the exact vintage Tama kit is now a collector's item. For drummers discovering Reign in Blood for the first time in 2026, or returning to it four decades on, the links above are where the study starts.
+Reign in Blood's 40th anniversary isn't just a nostalgia trigger — it's a reminder that the album's drumming still holds up as a technical and musical benchmark. Lombardo's current signature sticks carry the lineage forward even though the exact vintage Pearl Maxwin kit is now a collector's item. For drummers discovering Reign in Blood for the first time in 2026, or returning to it four decades on, the links above are where the study starts.
 
 ## Key Facts
 
@@ -69,11 +68,11 @@ A: Dave Lombardo played drums on every track of Reign in Blood. His performance 
 
 **Q: What drum gear did Dave Lombardo use on Reign in Blood?**
 
-A: Lombardo recorded Reign in Blood on a Tama Artstar II kit (Piano Black finish) with twin independent 22" bass drums, a Tama Superstar Steel 14" x 6.5" snare, and Paiste RUDE and 2002 series cymbals. The full track-by-track breakdown, including hardware and recording technique, is in our Reign in Blood drum setup article.
+A: Lombardo recorded Reign in Blood on a Pearl Maxwin kit with birch shells, twin independent 22" bass drums, and a Tama Superstar Steel 14" x 6.5" snare. The full track-by-track breakdown, including cymbals, hardware, and recording technique, is in our Reign in Blood drum setup article.
 
 **Q: Is Dave Lombardo's Reign in Blood-era gear still available?**
 
-A: The Paiste RUDE and 2002 series cymbals he used remain in production largely unchanged. The Tama Artstar II itself is a discontinued vintage model found through Reverb and used-gear dealers; Lombardo's current signature ProMark TX2BXN sticks are a separate, present-day product.
+A: The Pearl Maxwin itself is a discontinued vintage model found through Reverb and used-gear dealers; Lombardo's current signature ProMark TX2BXN sticks are a separate, present-day product.
 
 ## Related Articles
 
@@ -91,4 +90,4 @@ A: The Paiste RUDE and 2002 series cymbals he used remain in production largely 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -34,7 +34,7 @@ Eloy combines Brazilian rhythmic roots with thrash metal power — his double ba
 
 ## Key Differences
 
-Eloy plays Tama Starclassic Maple drums with Paiste cymbals, and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound. Jay played SJC Custom Drums with Zildjian cymbals and DW hardware during his Slipknot tenure, with a masked performer's setup built for visual impact and live endurance. Eloy combines Brazilian rhythmic roots with thrash metal power — his double bass work is defined by locked-in groove rather than sheer speed, and his ability to adapt to Slipknot's percussive, multi-tempo catalog is his defining challenge. Jay brings a technically rigorous, precise approach to Slipknot's chaos — his live playing with the percussive assault of Slipknot's multi-drummer setup demanded exceptional timing, independence, and endurance night after night.
+Eloy plays Tama Starclassic Bubinga drums with Paiste cymbals, and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound. Jay played SJC Custom Drums with Zildjian cymbals and DW hardware during his Slipknot tenure, with a masked performer's setup built for visual impact and live endurance. Eloy combines Brazilian rhythmic roots with thrash metal power — his double bass work is defined by locked-in groove rather than sheer speed, and his ability to adapt to Slipknot's percussive, multi-tempo catalog is his defining challenge. Jay brings a technically rigorous, precise approach to Slipknot's chaos — his live playing with the percussive assault of Slipknot's multi-drummer setup demanded exceptional timing, independence, and endurance night after night.
 
 ## Influence & Legacy
 
@@ -53,7 +53,7 @@ A: Eloy Casagrande was announced as Slipknot's drummer in 2024 after leaving Sep
 A: Jay Weinberg departed Slipknot in late 2023. No official detailed reason was given; the band announced his exit while continuing touring commitments with a replacement drummer.
 
 **Q: What gear does Eloy Casagrande use?**
-A: Eloy Casagrande plays Tama Starclassic Maple drums with Paiste cymbals and Tama Iron Cobra double pedals.
+A: Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals and Tama Iron Cobra double pedals.
 
 **Q: Who is the better drummer: Eloy Casagrande or Jay Weinberg?**
 A: Both are exceptional. Eloy's groove-driven thrash power suits Slipknot's catalog; Jay's precision-based chaos also suited Slipknot's percussive assault. Style preference determines the winner.
@@ -67,4 +67,4 @@ A: Both are exceptional. Eloy's groove-driven thrash power suits Slipknot's cata
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

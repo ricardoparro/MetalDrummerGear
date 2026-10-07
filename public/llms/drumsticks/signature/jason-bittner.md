@@ -47,4 +47,4 @@ A: It's a named signature model — the ProMark Jason Bittner Signature 5BX (TX5
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

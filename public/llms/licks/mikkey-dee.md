@@ -34,7 +34,7 @@ Mikkey Dee is one of Heavy Metal / Hard Rock's most influential drummers, best k
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -64,7 +64,7 @@ Mikkey Dee is one of Heavy Metal / Hard Rock's most influential drummers, best k
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -94,7 +94,7 @@ Mikkey Dee is one of Heavy Metal / Hard Rock's most influential drummers, best k
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -124,7 +124,7 @@ When Mikkey Dee joined Motörhead in 1992, he brought a technical pedigree that 
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Sonor Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -154,7 +154,7 @@ When Mikkey Dee joined Motörhead in 1992, he brought a technical pedigree that 
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -184,7 +184,7 @@ The double-bass pattern on "Overkill" is one of the most influential drum parts 
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -201,4 +201,4 @@ Mikkey Dee's style is defined by precision, timing, and genre-defining grooves. 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

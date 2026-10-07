@@ -34,7 +34,7 @@ Cunningham's technique is defined by unconventional patterns, creative use of sp
 
 ## Key Differences
 
-Abe Cunningham has been a longtime Tama endorser, playing a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14x8" snare and Zildjian cymbals (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride), driven by a Tama Iron Cobra double pedal and Zildjian Abe Cunningham Artist Series sticks. Shannon Larkin is a longtime Ddrum endorser, playing a ddrum Dios Series kit with his Ddrum Shannon Larkin Signature 14x6.5" snare and Sabian AAX & HHX Series cymbals (14" Stage Hi-Hats, assorted crashes, 21" Raw Bell Dry Ride), driven by a DW 9000 Series double pedal, a Pork Pie Big Boy throne, and Vater Shannon Larkin Signature sticks. Cunningham's technique is defined by unconventional patterns, creative use of space, and an intuitive feel for dynamics — his unconventional snare placements and seamless transitions between crushing heaviness and ethereal delicacy mirror Deftones' emotional arc rather than showcasing technical flash. Larkin's technique centers on powerful, deep-pocket groove drumming with dynamic control that swings from quiet verses to explosive choruses, delivering the hard-hitting backbeat and tribal-influenced fills that make Godsmack's riff-driven hard rock instantly recognizable, including memorable drum-off exchanges with vocalist Sully Erna live.
+Abe Cunningham has been a longtime Tama endorser, playing a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14x8" snare and Zildjian cymbals (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride), driven by a Tama Iron Cobra double pedal and Pro-Mark sticks. Shannon Larkin is a longtime Ddrum endorser, playing a ddrum Dios Series kit with his Ddrum Shannon Larkin Signature 14x6.5" snare and Sabian AAX & HHX Series cymbals (14" Stage Hi-Hats, assorted crashes, 21" Raw Bell Dry Ride), driven by a DW 9000 Series double pedal, a Pork Pie Big Boy throne, and Vic Firth American Classic 5B sticks. Cunningham's technique is defined by unconventional patterns, creative use of space, and an intuitive feel for dynamics — his unconventional snare placements and seamless transitions between crushing heaviness and ethereal delicacy mirror Deftones' emotional arc rather than showcasing technical flash. Larkin's technique centers on powerful, deep-pocket groove drumming with dynamic control that swings from quiet verses to explosive choruses, delivering the hard-hitting backbeat and tribal-influenced fills that make Godsmack's riff-driven hard rock instantly recognizable, including memorable drum-off exchanges with vocalist Sully Erna live.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Before joining Godsmack in 2002, Shannon Larkin was the drummer for Ugly Kid 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

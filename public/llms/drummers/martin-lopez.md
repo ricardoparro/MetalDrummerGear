@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Noble"
 profile_url: "https://metalforge.io/drummer/martin-lopez"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Martin Lopez — Drum Kit & Gear Setup
@@ -39,7 +39,7 @@ Vic Firth American Classic 5A sticks and Remo heads complete the rig — a light
 
 Martín Walter López Cardozo (born May 20, 1978) is a Swedish-Uruguayan drummer best known as the former drummer of Opeth and current member/co-founder of progressive metal band Soen. López joined Opeth in 1997 after leaving Amon Amarth, and his drumming was central to their classic albums including "Blackwater Park," "Deliverance," "Damnation," and "Ghost Reveries." His dynamic playing style combines jazz finesse with metal power, featuring creative use of ghost notes, complex hi-hat patterns, and melodic tom work. Health issues led to his departure from Opeth in 2006. In 2010, he co-founded Soen with bassist Steve Di Giorgio, creating a new vehicle for his progressive vision. López's drumming emphasizes feel and musicality over pure technicality, making him one of the most tasteful drummers in progressive metal.
 
-Martin Lopez (born February 8, 1978, in Stockholm, Sweden, raised in Mölndal) is a Swedish drummer of Uruguayan descent, best known for his work with progressive metal bands Opeth (1997-2006) and Soen (2010-present). He is widely regarded as one of the most influential progressive metal drummers of his generation.
+Martin Lopez (born May 20, 1978, in Stockholm, Sweden, raised in Mölndal) is a Swedish drummer of Uruguayan descent, best known for his work with progressive metal bands Opeth (1997-2006) and Soen (2010-present). He is widely regarded as one of the most influential progressive metal drummers of his generation.
 
 Lopez's tenure with Opeth spanned some of the band's most critically acclaimed albums, including "Still Life," "Blackwater Park," and "Ghost Reveries." His dynamic, jazz-influenced approach to extreme metal drumming helped define Opeth's signature sound. After leaving Opeth due to health issues, Lopez co-founded Soen in 2010, continuing to showcase his exceptional musicality and versatility.
 
@@ -253,4 +253,4 @@ Dated brand-endorsement timeline: [Martin Lopez's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

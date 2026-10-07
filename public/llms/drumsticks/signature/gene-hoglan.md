@@ -47,4 +47,4 @@ A: It's an artist endorsement of a stock ProMark model, not a custom signature s
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

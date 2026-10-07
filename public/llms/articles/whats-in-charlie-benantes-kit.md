@@ -72,7 +72,7 @@ In the Big Four of Thrash, Charlie Benante often receives less attention than La
 
 Consider his contributions: pioneered sustained double bass patterns in thrash metal. Popularized the blast beat that would birth extreme metal subgenres. Co-invented crossover thrash with S.O.D. Served as Anthrax's primary composer while delivering demanding drum performances. And now, at 63 years old, he's honoring his late friend Vinnie Paul by drumming for Pantera's reunion tour.
 
-The gear tells part of the story — the Tama Starclassic Maple that's served him for decades, the Paiste cymbals that cut through thrash's guitar wall, the HP35 Camco pedals he used for 26 years before switching to Speed Cobras. But gear is just tools. Benante's contribution lies in what he did with those tools.
+The gear tells part of the story — the Tama Starclassic Maple that's served him for decades, the Paiste cymbals that cut through thrash's guitar wall, the chain-drive pedal setup he relied on for years before switching to Speed Cobras. But gear is just tools. Benante's contribution lies in what he did with those tools.
 
 Few drummers can claim to have invented techniques that defined a genre. Fewer still have done it while also composing the music and designing the artwork. Benante's role in Anthrax transcends drumming — he's been the band's creative engine for four decades.
 
@@ -128,4 +128,4 @@ A: Charlie Benante's current Tama Starclassic Maple kit runs approximately $5,00
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

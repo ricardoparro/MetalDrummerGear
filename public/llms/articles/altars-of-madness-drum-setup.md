@@ -26,7 +26,7 @@ This article breaks down every piece of gear Pete Sandoval used to create this l
 
 - **Drums:** ddrum ddrum (specific series unconfirmed) (Unconfirmed finish)
 - **Snare:** ddrum ddrum (specific model unconfirmed), 14" x 6.5"
-- **Cymbals:** Paiste — Paiste 2002 / RUDE Series
+- **Cymbals:** Unconfirmed — Unconfirmed
 - **Hardware / Pedals:** ddrum (specific pedal model unconfirmed); ddrum (specific model unconfirmed); ddrum (specific model unconfirmed); Pro-Mark 5B Wood Tip
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** High tension, tight snare wires for extreme clarity
@@ -51,17 +51,9 @@ Engineer Scott Burns positioned the snare mic (a Shure SM57) close to the drum, 
 
 Pete tuned the snare high and cranked the snare wires tight, eliminating ring and maximizing definition. The result was a snare that remained articulate even during blast beats exceeding 200 BPM — a sound that countless death metal bands have tried to replicate.
 
-### Paiste Warfare
+### Cymbals: Unconfirmed
 
-Pete's cymbal setup for Altars of Madness combined Paiste's 2002 series with select RUDE cymbals — a combination that provided both musicality and aggression. The 2002 series was the professional standard of the era, while the RUDE series added the raw, aggressive character that extreme metal demanded.
-
-The 14" Sound Edge hi-hats were crucial to Pete's playing. The rippled bottom cymbal provided articulation that cut through even the fastest blast beats. The "chick" sound remained defined at tempos that would cause other hi-hats to wash out.
-
-The crash cymbals (16" and 18") gave Pete options for accents without cluttering the kit. Death metal required precision, not excess — every cymbal hit needed to serve the music.
-
-The 20" ride was used sparingly but effectively. Pete often rode on the hi-hats during verses, saving the ride for specific sections where its sustain added dimension.
-
-The China cymbal became a signature element of the Morbid Angel sound. The trashy, explosive accents punctuated riffs and announced transitions — a technique that would become standard in death metal.
+Pete Sandoval's cymbal choice for Altars of Madness has not been publicly documented. Death metal drummers of the Morrisound era typically ran mainstream professional cymbal lines, but without a verified source confirming Sandoval's actual setup, this page won't assign him a specific brand or model.
 
 ## The Foundation of Extreme
 
@@ -69,7 +61,7 @@ Altars of Madness didn't just establish Morbid Angel as death metal pioneers —
 
 What made Sandoval special wasn't just speed — it was the combination of speed, control, endurance, and musicality. At 19 years old, he played with the maturity and precision of a veteran while bringing youthful aggression that couldn't be faked. The sustained blast beats, the intricate footwork, the controlled fury — all captured with remarkable clarity by Scott Burns at Morrisound.
 
-The gear Pete used was professional but not exotic — a ddrum kit (specific series unconfirmed), Paiste cymbals, and basic hardware were standard professional equipment. What made the difference was the player behind them and the vision of how to capture that performance. The "Tampa sound" Burns developed — dry, direct, powerful — remains the standard for death metal production.
+The gear Pete used was professional but not exotic — a ddrum kit (specific series unconfirmed) and basic hardware were standard professional equipment; his cymbal brand remains undocumented. What made the difference was the player behind them and the vision of how to capture that performance. The "Tampa sound" Burns developed — dry, direct, powerful — remains the standard for death metal production.
 
 For drummers studying Altars of Madness, the lessons extend beyond technique:
 
@@ -106,11 +98,11 @@ A: Pete Sandoval recorded Morbid Angel's debut Altars of Madness in 1989 on a dd
 
 **Q: What cymbals did Pete Sandoval use on Altars of Madness?**
 
-A: Pete Sandoval used Paiste 2002 cymbals on Altars of Madness, a series well known for its aggressive, powerful projection. His setup included 2002 14 inch Sound Edge hi-hats, 2002 16 and 18 inch Crashes, a 2002 20 inch Medium Ride, and a 2002 18 inch China Type. The 2002 series' bright, cutting character was ideal for cutting through the dense, fast guitar work on the album, and helped establish the Paiste 2002 as a foundational cymbal choice in early death metal.
+A: Pete Sandoval's cymbal brand for Altars of Madness has not been publicly documented. No verified source confirms a specific make or model, so this page does not assign him one.
 
 **Q: How much did Pete Sandoval's Altars of Madness drum kit cost?**
 
-A: Pete's specific ddrum kit and snare model from this era haven't been publicly confirmed, so an exact period price isn't available. The Paiste 2002 cymbal setup would have cost around $800 to $1,500 new in 1989.
+A: Pete's specific ddrum kit and snare model from this era haven't been publicly confirmed, so an exact period price isn't available. His cymbal brand is also unconfirmed, so no price estimate can be given for that part of the setup.
 
 ## Related Articles
 
@@ -129,4 +121,4 @@ A: Pete's specific ddrum kit and snare model from this era haven't been publicly
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

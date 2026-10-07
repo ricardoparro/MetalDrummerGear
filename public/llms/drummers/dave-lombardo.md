@@ -6,7 +6,7 @@ country: "Cuba/USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dave-lombardo"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Dave Lombardo — Drum Kit & Gear Setup
@@ -23,13 +23,13 @@ Dave Lombardo's drum kit and gear setup. Dave Lombardo is a professional metal d
 | Genre | Thrash Metal |
 | Country | Cuba/USA |
 | Primary brand | Tama |
-| Drum kit | Tama Starclassic Maple |
-| Signature snare | Tama S.L.P. 14x6.5" G-Maple |
+| Drum kit | Tama Starclassic Walnut/Birch |
+| Signature snare | Tama S.L.P. 14x6.5" |
 | Sticks | Promark Dave Lombardo Signature 2Bx |
 
 ## Kit Overview
 
-Dave Lombardo plays a Tama Starclassic Maple drum kit — the maple shell configuration he has favored since Slayer's recording peak, prized for its punchy attack and projection in live thrash metal contexts. The cornerstone of the Dave Lombardo drum set is his Tama S.L.P. G-Maple snare (14×6.5"): a maple-shelled snare delivering the fat, responsive crack heard on Reign in Blood, South of Heaven, and Seasons in the Abyss.
+Dave Lombardo plays a Tama Starclassic Walnut/Birch drum kit — the shell configuration he has favored since Slayer's recording peak, prized for its punchy attack and projection in live thrash metal contexts. The cornerstone of the Dave Lombardo drum set is his Tama S.L.P. G-Maple snare (14×6.5"): delivering the fat, responsive crack heard on Reign in Blood, South of Heaven, and Seasons in the Abyss.
 
 Paiste cymbals define the sonic character of Dave Lombardo's drum kit: 15" Sound Edge Hi-Hats from the RUDE series provide aggressive open-edge response; 18" and 19" Paiste crashes deliver explosive attack for thrash metal's dynamic accents; a 22" Reign Power Ride cuts through dense guitar arrangements; and an 18" China adds brutal punctuation central to tracks like "Angel of Death." A Tama Iron Cobra 900 double pedal drives Lombardo's legendary double kick — the technique that redefined extreme metal drumming.
 
@@ -105,8 +105,8 @@ Dave Lombardo's drumming style is characterized by incredible speed, precise dou
 
 ## Gear
 
-- **Drums:** Tama Starclassic Maple
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Drums:** Tama Starclassic Walnut/Birch
+- **Snare:** Tama S.L.P. 14x6.5"
 - **Cymbals:** Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)
 - **Hardware:** Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne
 - **Sticks:** Promark Dave Lombardo Signature 2Bx
@@ -260,4 +260,4 @@ Dated brand-endorsement timeline: [Dave Lombardo's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

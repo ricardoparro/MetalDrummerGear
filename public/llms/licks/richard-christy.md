@@ -34,7 +34,7 @@ Richard Christy is one of Death Metal / Thrash Metal's most influential drummers
 - Pearl Masters Custom Kit (drums)
 - Pearl 14"x5.5" Sensitone Snare (snare)
 - Sabian AA/AAX Cymbals (cymbals)
-- Pearl Eliminator Double Pedal (hardware)
+- Axis A Longboard Double Pedal (hardware)
 - Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Technical Death Metal](https://metalforge.io/techniques/technical-death-metal)
@@ -65,7 +65,7 @@ Richard Christy is one of Death Metal / Thrash Metal's most influential drummers
 - Pearl Masters Custom Kit (drums)
 - Pearl 14"x5.5" Sensitone Snare (snare)
 - Sabian AA/AAX Cymbals (cymbals)
-- Pearl Eliminator Double Pedal (hardware)
+- Axis A Longboard Double Pedal (hardware)
 - Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Fills](https://metalforge.io/techniques/fills), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Technical Death Metal](https://metalforge.io/techniques/technical-death-metal)
@@ -96,7 +96,7 @@ Richard Christy is one of Death Metal / Thrash Metal's most influential drummers
 - Pearl Masters Custom Kit (drums)
 - Pearl 14"x5.5" Sensitone Snare (snare)
 - Sabian AA/AAX Cymbals (cymbals)
-- Pearl Eliminator Double Pedal (hardware)
+- Axis A Longboard Double Pedal (hardware)
 - Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fills](https://metalforge.io/techniques/fills)
@@ -114,4 +114,4 @@ Richard Christy's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

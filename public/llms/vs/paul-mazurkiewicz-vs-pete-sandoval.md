@@ -10,11 +10,11 @@ Cannibal Corpse's Paul Mazurkiewicz vs Morbid Angel's Pete Sandoval. The Tampa v
 
 ## Paul Mazurkiewicz Setup
 
-- **Drums:** Pearl Masters Maple Complete
-- **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Pearl Masters 14x6.5" Maple
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** Pearl Reference
+- **Cymbals:** Meinl Classics Custom & Byzance Series
+- **Snare:** Pearl Free-Floating Steel
+- **Pedals/Hardware:** Pearl Eliminator Double Bass Pedal
+- **Sticks:** Vic Firth Paul Mazurkiewicz Signature
 
 ## Pete Sandoval Setup
 
@@ -34,7 +34,7 @@ Mazurkiewicz uses a traditional alternating-leg double kick approach, prioritizi
 
 ## Key Differences
 
-Paul Mazurkiewicz plays a Pearl Reference Series kit with a Pearl Free-Floating 14x6.5" steel snare and Zildjian A Custom Series cymbals, driven by a Pearl Demon Drive double pedal and his own Vater signature sticks. Pete Sandoval played a ddrum kit (exact model undocumented) with hardware to match; his cymbal brand was never publicly confirmed, though his gravity blast technique relied on the pedal's rebound action regardless of make. Mazurkiewicz uses a traditional alternating-leg double kick approach, prioritizing consistency, groove, and relentless drive over technical flash — his parts serve Cannibal Corpse's riffs rather than showcasing individual virtuosity, keeping tempos punishing across marathon brutal death compositions. Sandoval pioneered the gravity blast, a technique that harnesses gravity and stick rebound rather than muscle to generate single-footed blast beats at speeds once considered physically impossible, a discovery AllMusic's Jason Birchmeier said "challenges one's perception of how fast a drummer can possibly drum."
+Paul Mazurkiewicz plays a Pearl Reference Series kit with a Pearl Free-Floating 14x6.5" steel snare and Meinl Classics Custom / Byzance Series cymbals, driven by a Pearl Eliminator Double Bass Pedal and his own Vic Firth Paul Mazurkiewicz Signature sticks. Pete Sandoval played a ddrum kit (exact model undocumented) with hardware to match; his cymbal brand was never publicly confirmed, though his gravity blast technique relied on the pedal's rebound action regardless of make. Mazurkiewicz uses a traditional alternating-leg double kick approach, prioritizing consistency, groove, and relentless drive over technical flash — his parts serve Cannibal Corpse's riffs rather than showcasing individual virtuosity, keeping tempos punishing across marathon brutal death compositions. Sandoval pioneered the gravity blast, a technique that harnesses gravity and stick rebound rather than muscle to generate single-footed blast beats at speeds once considered physically impossible, a discovery AllMusic's Jason Birchmeier said "challenges one's perception of how fast a drummer can possibly drum."
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Paul Mazurkiewicz is the definition of consistent, punishing death metal drummin
 A: The defining difference is double kick technique. Paul Mazurkiewicz uses traditional alternating-leg double kick pedals for sustained brutal tempos. Pete Sandoval invented the gravity blast — a single-footed technique that uses gravity and stick rebound to achieve blast beat speeds physically impossible with conventional methods, revolutionizing extreme metal drumming.
 
 **Q: What drums does Paul Mazurkiewicz play vs Pete Sandoval?**
-A: Paul Mazurkiewicz plays Pearl Reference Series drums with Pearl Demon Drive double pedals. Pete Sandoval played a ddrum kit, but the exact model and his cymbal brand were never publicly documented.
+A: Paul Mazurkiewicz plays Pearl Reference Series drums with a Pearl Eliminator Double Bass Pedal. Pete Sandoval played a ddrum kit, but the exact model and his cymbal brand were never publicly documented.
 
 **Q: Which Florida death metal drummer is more influential — Paul Mazurkiewicz or Pete Sandoval?**
 A: Both are enormously influential in different ways. Pete Sandoval's gravity blast invention had broader technical impact across all extreme metal. Paul Mazurkiewicz's 35+ year tenure with Cannibal Corpse — the best-selling death metal band — gives him unmatched longevity.
@@ -67,4 +67,4 @@ A: The gravity blast (also called the "Morrisound blast" or "rebound blast") is 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

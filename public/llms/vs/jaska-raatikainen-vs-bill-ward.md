@@ -18,11 +18,11 @@ Children of Bodom's Jaska Raatikainen vs Black Sabbath's Bill Ward. Finnish melo
 
 ## Bill Ward Setup
 
-- **Drums:** Ludwig Classic Maple
-- **Cymbals:** Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China)
+- **Drums:** Ludwig Standard / Club Date Series
+- **Cymbals:** Zildjian Avedis Series
 - **Snare:** Ludwig Supraphonic 14x6.5" LM402
-- **Pedals/Hardware:** Ludwig Atlas Pro Double Pedal, Ludwig Throne
-- **Sticks:** Vic Firth American Classic 2B
+- **Pedals/Hardware:** Ludwig Speed King Pedal
+- **Sticks:** Pro-Mark Standard 5A/5B equivalent
 
 ## Playing Style
 
@@ -47,16 +47,16 @@ Jaska Raatikainen and Bill Ward sit at opposite ends of heavy metal drumming's f
 ## FAQ
 
 **Q: What are the main differences between Jaska Raatikainen's and Bill Ward's drum kits?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while Bill Ward uses Ludwig Classic Maple with Paiste cymbals. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single pedal.
+A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while Bill Ward uses Ludwig Standard / Club Date Series with Zildjian cymbals. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single pedal.
 
 **Q: What drums does Jaska Raatikainen play vs Bill Ward?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple. Bill Ward plays Ludwig Classic Maple.
+A: Jaska Raatikainen plays Pearl Masters Premium Maple. Bill Ward plays Ludwig Standard / Club Date Series.
 
 **Q: Who is the better extreme / death / black metal drummer, Jaska Raatikainen or Bill Ward?**
 A: Both are legends in their own right. Jaska Raatikainen and Bill Ward sit at opposite ends of heavy metal drumming's five-decade evolution. See the full analysis at [metalforge.io/vs/jaska-raatikainen-vs-bill-ward](https://metalforge.io/vs/jaska-raatikainen-vs-bill-ward).
 
 **Q: What cymbals do Jaska Raatikainen and Bill Ward use?**
-A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China).
+A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Bill Ward uses Zildjian Avedis Series.
 
 ---
 
@@ -67,4 +67,4 @@ A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-H
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

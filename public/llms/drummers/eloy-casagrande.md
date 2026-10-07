@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/eloy-casagrande"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Eloy Casagrande — Drum Kit & Gear Setup
@@ -37,7 +37,7 @@ The centerpiece of the Eloy Casagrande drum kit is his Tama Bell Brass snare dru
 
 Eloy Casagrande, born in 1991, is a Brazilian drummer who became Sepultura's drummer in 2011 and joined Slipknot in 2024 as their new drummer. Named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, he is known for his explosive speed, technical prowess, and energetic performances. His drumming style combines traditional metal with modern technical elements, making him one of the most exciting drummers in contemporary metal.
 
-Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) is a Brazilian drummer who joined Slipknot as their new drummer in 2024, following his 13-year tenure with legendary thrash metal band Sepultura. Named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, Casagrande's drum kit — a Tama Starclassic Bubinga configuration with Paiste cymbals and Tama Iron Cobra double pedal — is built for the extreme demands of Slipknot's live performances.
+Eloy Casagrande (born January 29, 1991, in Santo André, São Paulo, Brazil) is a Brazilian drummer who joined Slipknot as their new drummer in 2024, following his 13-year tenure with legendary thrash metal band Sepultura. Named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, Casagrande's drum kit — a Tama Starclassic Bubinga configuration with Paiste cymbals and Tama Iron Cobra double pedal — is built for the extreme demands of Slipknot's live performances.
 
 Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented the new generation of metal drumming. His combination of traditional thrash metal power with modern technical elements has made him one of the most exciting and influential drummers in contemporary metal.
 
@@ -233,4 +233,4 @@ Dated brand-endorsement timeline: [Eloy Casagrande's endorsement history](https:
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

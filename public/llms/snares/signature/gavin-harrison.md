@@ -34,4 +34,4 @@ A: Gavin Harrison plays the Sonor Gavin Harrison Signature — a signature snare
 
 ---
 
-*Last updated: 2026-10-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

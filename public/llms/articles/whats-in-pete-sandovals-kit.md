@@ -22,7 +22,7 @@ After a career-threatening back injury in 2010, Sandoval stepped away from Morbi
 
 - **Drums:** ddrum ddrum (specific series unconfirmed) (Unconfirmed finish)
 - **Snare:** ddrum ddrum (specific model unconfirmed), 14" x 5.5" / 14" x 6.5"
-- **Cymbals:** Paiste — Paiste RUDE
+- **Cymbals:** Unconfirmed — Unconfirmed
 - **Hardware / Pedals:** ddrum (specific pedal model unconfirmed); ddrum (specific model unconfirmed); ddrum (specific model unconfirmed); Vic Firth American Classic 2B / 5B
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** High tension, tight snare wires for maximum attack and response
@@ -47,19 +47,9 @@ His tuning approach prioritized projection over warmth. High tension on both hea
 
 The gravity blast technique Pete pioneered puts unique demands on a snare drum. The stick must bounce consistently at extreme speeds, requiring a drum that responds identically to every stroke.
 
-### The Paiste Attack
+### Cymbals: Unconfirmed
 
-Pete Sandoval's cymbal choice tells you everything about his approach: Paiste RUDE, the most aggressive line in Paiste's catalog. These cymbals were designed specifically for loud, aggressive music — perfect for Morbid Angel's sonic assault.
-
-The RUDE series features heavy weights and bright, cutting tones that project through walls of distorted guitars. Unlike traditional bronze cymbals that can wash out, RUDE cymbals maintain definition even at extreme volumes. This was essential for Morbid Angel's dense, technical arrangements.
-
-Pete's hi-hats, 14" RUDE models, provided the crisp articulation needed for his intricate patterns. Death metal hi-hat work often serves as a rhythmic anchor while the feet handle the blast beats, requiring cymbals that speak clearly without excessive sustain.
-
-The Crash/Ride models in the RUDE line served multiple purposes in Pete's setup. Quick crashes for accents, ride patterns for hypnotic sections, and everything in between. The versatility matched Morbid Angel's dynamic arrangements, from slow doom sections to blasting fury.
-
-The 18" RUDE China added the aggressive, exotic accents that punctuated songs like "Chapel of Ghouls" and "Immortal Rites." Pete used the China sparingly but effectively, marking important transitions and adding variety to his patterns.
-
-Throughout his career, Paiste RUDE remained Pete's primary choice, though he occasionally incorporated other Paiste lines for specific sounds.
+Pete Sandoval's cymbal brand has not been publicly documented. Death metal drummers of the Morrisound era typically ran mainstream professional cymbal lines, but without a verified source confirming Sandoval's actual choices, this page won't assign him a specific brand or model.
 
 ## The Foundation of Extreme
 
@@ -69,7 +59,7 @@ The gravity blast technique he pioneered remains a standard tool for extreme met
 
 Beyond technique, Pete brought an intensity that's difficult to quantify. Watching footage of classic Morbid Angel shows a drummer possessed, channeling something beyond mere physical ability. That energy, that commitment to extreme expression, defined death metal's spirit.
 
-The gear Pete used — ddrum drums, Paiste RUDE cymbals — remains available today. The path he blazed can be followed by anyone willing to put in the practice. But replicating Pete Sandoval means more than copying his gear or patterns. It means bringing genuine intensity and commitment to your playing.
+The gear Pete used — ddrum drums, though his cymbal brand remains undocumented — reflects his approach. The path he blazed can be followed by anyone willing to put in the practice. But replicating Pete Sandoval means more than copying his gear or patterns. It means bringing genuine intensity and commitment to your playing.
 
 For drummers studying Pete Sandoval:
 
@@ -105,11 +95,11 @@ A: Pete Sandoval has been a ddrum endorser for much of his career with Morbid An
 
 **Q: What cymbals does Pete Sandoval use with Morbid Angel?**
 
-A: Pete Sandoval is closely associated with Paiste RUDE cymbals, one of the most iconic cymbal pairings in death metal history. His setup includes RUDE 14 inch hi-hats, RUDE 18 to 20 inch Crash/Rides, a RUDE 20 inch Ride, and a RUDE 18 inch China. The RUDE series is designed for maximum volume and aggression, with a raw, cutting tone that projects powerfully in live settings. This setup has been central to Morbid Angel's sonic identity since the late 1980s.
+A: Pete Sandoval's cymbal brand has not been publicly documented. While his ddrum drums, Remo heads, and Vic Firth sticks are verified, no source confirms a specific cymbal brand or model across his career, so this page does not assign him one.
 
 **Q: How much does Pete Sandoval's Morbid Angel drum kit cost?**
 
-A: Pete's specific ddrum series and snare model haven't been publicly confirmed, so an exact price for his personal rig isn't available. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500.
+A: Pete's specific ddrum series and snare model haven't been publicly confirmed, so an exact price for his personal rig isn't available. His cymbal brand is also unconfirmed, so no price estimate can be given for that part of the setup.
 
 ## Related Articles
 
@@ -126,4 +116,4 @@ A: Pete's specific ddrum series and snare model haven't been publicly confirmed,
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

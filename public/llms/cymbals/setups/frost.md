@@ -6,20 +6,20 @@
 
 ## Direct Answer
 
-Frost plays Zildjian cymbals: 14" A Custom Hi-Hats, 16" A Custom Crash, 17" A Custom Crash, 18" A Custom Crash, 22" K Custom Dark Ride, 18" K China.
+Frost plays Zildjian cymbals: 14" A A New Beat Hi-Hats, 16" A Crash, 17" A Crash, 18" A Crash, 22" A Ride, 18" A China.
 
 ## Cymbal Breakdown
 
 | Piece | Size | Series | Model |
 |-------|------|--------|-------|
-| Hi-hat | 14" | A Custom | Hi-Hats |
-| Crash | 16" | A Custom | Crash |
-| Crash | 17" | A Custom | Crash |
-| Crash | 18" | A Custom | Crash |
-| Ride | 22" | K Custom Dark | Ride |
-| China | 18" | K | China |
+| Hi-hat | 14" | A | A New Beat Hi-Hats |
+| Crash | 16" | A | Crash |
+| Crash | 17" | A | Crash |
+| Crash | 18" | A | Crash |
+| Ride | 22" | A | Ride |
+| China | 18" | A | China |
 
-Verified roster hardware entry: "Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Zildjian A Series (14" A New Beat Hi-Hats, 16", 17", 18" A Series Crashes, 22" A Series Ride, 18" A Series China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -31,7 +31,7 @@ Verified roster hardware entry: "Zildjian A Custom & K Series (14" A Custom Hi-H
 ## FAQ
 
 **Q: What cymbals does Frost use?**
-A: Frost plays Zildjian cymbals: 14" A Custom Hi-Hats, 16" A Custom Crash, 17" A Custom Crash, 18" A Custom Crash, 22" K Custom Dark Ride, 18" K China.
+A: Frost plays Zildjian cymbals: 14" A A New Beat Hi-Hats, 16" A Crash, 17" A Crash, 18" A Crash, 22" A Ride, 18" A China.
 
 ## More Resources
 
@@ -42,4 +42,4 @@ A: Frost plays Zildjian cymbals: 14" A Custom Hi-Hats, 16" A Custom Crash, 17" A
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

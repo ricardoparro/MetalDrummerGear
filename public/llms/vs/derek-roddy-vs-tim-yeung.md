@@ -14,7 +14,7 @@ Hate Eternal's Derek Roddy vs Morbid Angel/Vital Remains' Tim Yeung. Two of tech
 - **Cymbals:** Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China)
 - **Snare:** Tama SLP Black Brass 14x6.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal
-- **Sticks:** Vater Player's Design Derek Roddy Model (VHDRW)
+- **Sticks:** Vater 5B
 
 ## Tim Yeung Setup
 
@@ -67,4 +67,4 @@ A: Derek Roddy has played with Hate Eternal (2000–2002, 2004–2005), Nile (20
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

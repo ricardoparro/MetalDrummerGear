@@ -10,10 +10,10 @@ Cryptopsy's Flo Mounier vs Children of Bodom's Jaska Raatikainen. Hyper-technica
 
 ## Flo Mounier Setup
 
-- **Drums:** Pearl Masters Maple Complete
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Pearl Masters 14x5.5" Maple
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-3000 Throne
+- **Snare:** Signature snare
+- **Pedals/Hardware:** Tama Speed Cobra 910 Twin Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
 ## Jaska Raatikainen Setup
@@ -67,4 +67,4 @@ A: Flo Mounier has been the drummer for Canadian technical death metal band Cryp
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

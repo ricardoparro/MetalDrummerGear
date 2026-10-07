@@ -34,7 +34,7 @@ Raatikainen built his technique around clean, locked-in double bass and precise,
 
 ## Key Differences
 
-Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals — both drummers favor Zildjian A Custom cymbals despite operating at opposite ends of metal's tempo spectrum. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom's dense arrangements anchored with surgical consistency at extreme tempos, composing fills that support Alexi Laiho's guitar and Janne Wirman's keyboard interplay rather than overwhelming it. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket rather than chasing extreme-metal speed.
+Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals — both drummers favor Zildjian A Custom cymbals despite operating at opposite ends of metal's tempo spectrum. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom's dense arrangements anchored with surgical consistency at extreme tempos, composing fills that support Alexi Laiho's guitar and Janne Wirman's keyboard interplay rather than overwhelming it. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket rather than chasing extreme-metal speed.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Jaska Raatikainen and John Otto show just how differently precision and groove c
 A: Jaska Raatikainen (Children of Bodom) is known for clean, locked-in double bass and precise blast beats that anchored Finnish melodic death metal for 26 years. John Otto (Limp Bizkit) is known for jazz-and-funk-informed grooves built around a tight, single-pedal pocket. Raatikainen represents extreme metal precision; Otto represents nu-metal groove.
 
 **Q: What gear do Jaska Raatikainen and John Otto use?**
-A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar G Class pedals.
+A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar Professional Series pedals.
 
 **Q: What bands are Jaska Raatikainen and John Otto known for?**
 A: Jaska Raatikainen was the co-founding drummer of Children of Bodom from 1993 until the band's 2019 dissolution. John Otto has been Limp Bizkit's drummer and founding member since 1994.
@@ -67,4 +67,4 @@ A: No — John Otto plays with a single-pedal setup, relying on jazz-schooled sy
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

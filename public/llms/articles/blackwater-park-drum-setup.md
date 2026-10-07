@@ -27,7 +27,7 @@ This article breaks down every piece of gear Martin Lopez used during these lege
 - **Drums:** Sonor Sonor Designer Series (Natural Maple finish)
 - **Snare:** Sonor Sonor Designer Maple Snare, 14" x 5.5"
 - **Cymbals:** Sabian — Sabian HH (Hand Hammered) & AAX Series
-- **Hardware / Pedals:** DW 5000 Double Pedal; Sonor 600 Series Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5A
+- **Hardware / Pedals:** Sonor 600 Series Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5A
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-high for maximum responsiveness
 
@@ -78,7 +78,7 @@ It wasn't just Lopez's technical ability—though he had that in abundance. It w
 Steven Wilson's involvement was crucial. His progressive rock sensibilities gave Lopez permission to play dynamically in ways that typical death metal production would have flattened. The result was a drum sound that breathed, that had room for nuance, that captured both the thunder and the whisper.
 
 **The Gear Perspective:**
-Lopez's equipment was professional but not exotic: Sonor drums, Sabian cymbals, DW pedals. What made the sound special was the application—gear selected for tone and responsiveness rather than just power. His cymbal choices, in particular, prioritized musicality over volume, enabling the album's atmospheric passages.
+Lopez's equipment was professional but not exotic: Sonor drums, Sabian cymbals. What made the sound special was the application—gear selected for tone and responsiveness rather than just power. His cymbal choices, in particular, prioritized musicality over volume, enabling the album's atmospheric passages.
 
 **Legacy:**
 Every progressive death metal drummer who prioritizes dynamics over pure aggression owes something to Martin Lopez's work on Blackwater Park. Every producer who captures extreme drums with nuance references this album's approach. Every band that transitions seamlessly between beauty and brutality follows the template Opeth established here.
@@ -135,4 +135,4 @@ A: Martin Lopez's Sonor Designer Series kit retailed for approximately $3,500 to
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

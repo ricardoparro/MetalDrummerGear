@@ -25,7 +25,7 @@ This article covers every piece of gear Lars used during the legendary 1991 sess
 - **Drums:** Tama Tama Artist Maple (Black with chrome hardware finish)
 - **Snare:** Tama Tama Lars Ulrich Prototype (precursor to LU1465), 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Series
-- **Hardware / Pedals:** Tama Iron Cobra Double Pedal (early production); Tama Titan Hi-Hat Stand; Roc-N-Soc Original; Ahead Lars Ulrich Signature (prototype era)
+- **Hardware / Pedals:** Tama Iron Cobra Double Pedal (early production); Tama Titan Hi-Hat Stand; Roc-N-Soc Original
 - **Heads:** Remo Powerstroke 3 Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Low-to-medium tension batter head — significantly looser than Justice-era tuning
 
@@ -108,7 +108,7 @@ A: Lars used a Tama prototype snare on The Black Album — a steel-shell drum th
 
 **Q: How is the Black Album kit different from the Master of Puppets or Justice setup?**
 
-A: Each Metallica album used a distinct setup even where the kit carried over. Master of Puppets (1986): Tama Artstar II birch shells with Ludwig Supraphonic snare — high tuning, Sweet Silence Studios. ...And Justice for All (1988): the same Tama Artstar II birch shells, but with a high-tension steel snare, dry production, close mics only. The Black Album (1991): Tama Artist Maple shells (warmer than birch), prototype LU1465 snare tuned much lower, Bob Rock's room mics and gated reverb, groove-focused production. The progression shows Lars moving from raw thrash aggression through dry technical playing to warm, roomy groove. Tuning and production philosophy changed significantly each time, and the Black Album marked the first shell-material change since 1984.
+A: Each Metallica album used a distinct setup even where the kit carried over. Master of Puppets (1986): Tama Artstar II birch shells with a Tama steel-shell snare — high tuning, Sweet Silence Studios. ...And Justice for All (1988): the same Tama Artstar II birch shells, but with a higher-tension steel snare, dry production, close mics only. The Black Album (1991): Tama Artist Maple shells (warmer than birch), prototype LU1465 snare tuned much lower, Bob Rock's room mics and gated reverb, groove-focused production. The progression shows Lars moving from raw thrash aggression through dry technical playing to warm, roomy groove. Tuning and production philosophy changed significantly each time, and the Black Album marked the first shell-material change since 1984.
 
 **Q: Did Lars Ulrich use double bass on The Black Album?**
 
@@ -132,4 +132,4 @@ A: Yes, but sparingly compared to the Justice era. Lars used a Tama Iron Cobra d
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

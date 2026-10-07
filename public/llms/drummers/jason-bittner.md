@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/jason-bittner"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Jason Bittner — Drum Kit & Gear Setup
@@ -37,7 +37,7 @@ Zildjian K & A Custom Series cymbals complete the Jason Bittner drum kit: 14" K 
 
 Jason Bittner (born January 11, 1970) is an American drummer best known for his work with Shadows Fall, Overkill, Flotsam and Jetsam, and supergroup Category 7. A Berklee College of Music alumnus, Bittner combines technical precision with raw power, making him a standout in the thrash metal scene. He joined Shadows Fall in 2001 and was integral to their commercial breakthrough, winning multiple "Best Metal Drummer" awards from Modern Drummer magazine. His playing on albums like "The Art of Balance" and "The War Within" earned him widespread recognition. Bittner joined Overkill in 2017, bringing his technical chops to the legendary thrash band. He has also filled in for Charlie Benante of Anthrax on multiple occasions. An accomplished educator, he has released instructional DVDs and written for drum publications worldwide.
 
-Jason Bittner (born August 19, 1970, in Waterbury, Connecticut) is an American drummer best known for his work with thrash metal legends Overkill and metalcore pioneers Shadows Fall. His powerful, versatile drumming has made him one of the most respected drummers in the American heavy metal scene.
+Jason Bittner (born January 11, 1970, in Niskayuna, New York) is an American drummer best known for his work with thrash metal legends Overkill and metalcore pioneers Shadows Fall. His powerful, versatile drumming has made him one of the most respected drummers in the American heavy metal scene.
 
 Bittner rose to prominence with Shadows Fall during the early 2000s metalcore explosion, contributing to Grammy-nominated albums. Following Shadows Fall's hiatus, he joined Flotsam and Jetsam before becoming Overkill's drummer in 2017, continuing the legacy of one of thrash metal's most enduring bands.
 
@@ -240,4 +240,4 @@ Dated brand-endorsement timeline: [Jason Bittner's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

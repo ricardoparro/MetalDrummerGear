@@ -24,22 +24,22 @@ This article breaks down every piece of gear Nick used to create this timeless m
 
 ## Gear Breakdown
 
-- **Drums:** Tama Tama Swingstar 5-piece
+- **Drums:** Tama Tama Artstar II 5-piece, Midnight Blue finish
 - **Snare:** Tama Tama Steel Snare, 14" x 5.5"
 - **Cymbals:** Zildjian — Zildjian A Custom / A Series
 - **Hardware / Pedals:** DW 5000 Double Pedal; Tama Titan Hi-Hat Stand; Roc-N-Soc Nitro Original; Vic Firth American Classic 5B
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Tight, rimshot-focused tuning with moderate snare wire tension for versatility
 
-### Menza's Arsenal: The Tama Swingstar
+### Menza's Arsenal: The Tama Artstar II
 
-For Rust in Peace, Nick Menza used a Tama Swingstar 5-piece kit — a mid-range, working drummer's kit rather than a prestige endorsement. It was a practical choice, not a flashy one, and its poplar shells delivered the tight, dry sound that became a benchmark for thrash drum production.
+For Rust in Peace, Nick Menza used a Tama Artstar II 5-piece kit in Midnight Blue finish — Tama's pro-tier kit of the era, matching the technical precision of his playing. Its birch shells delivered the tight, dry sound that became a benchmark for thrash drum production.
 
 A single 22" x 16" bass drum, driven by a DW 5000 double pedal, handled the sustained double-bass passages on tracks like "Holy Wars" and "Take No Prisoners." The double pedal gave Menza the surgical, clean double-bass precision he was known for, without the added weight and setup time of a second physical bass drum.
 
 Menza's tom setup was compact but versatile: two rack toms and a single floor tom gave him enough range for his melodic fills. Unlike purely aggressive thrash drummers, Nick often incorporated tom patterns that were almost jazz-like in their melodicism — a direct result of his training background.
 
-The poplar shells of the Swingstar were crucial to cutting through Megadeth's dense guitar arrangements. Dave Mustaine and Marty Friedman's interweaving guitar parts required drums that could punch through without muddying the mix. The tight, dry poplar tone delivered exactly that, even from a modest, working drummer's kit.
+The birch shells of the Artstar II were crucial to cutting through Megadeth's dense guitar arrangements. Dave Mustaine and Marty Friedman's interweaving guitar parts required drums that could punch through without muddying the mix. The tight, focused birch tone delivered exactly that, from a pro-tier kit that matched the technical demands of the record.
 
 ### The Crack of Technical Thrash
 
@@ -74,7 +74,7 @@ The drumming on Rust in Peace isn't just fast — it's musical. Menza brought so
 Nick Menza's tragic death in 2016 robbed metal of one of its most talented drummers. But his legacy lives on every time a drummer studies "Holy Wars" or attempts the pre-solo fill in "Tornado of Souls." His playing proved that metal drumming could be as sophisticated as any jazz or fusion work.
 
 **Gear Philosophy:**
-Like many great recordings, Rust in Peace's drum sound came from quality playing, not exotic gear. The Tama Swingstar was a mid-range, working drummer's kit, not a prestige endorsement instrument. The Zildjian A Customs were newly released but affordable. What made the difference was the player and his preparation.
+Like many great recordings, Rust in Peace's drum sound came from quality playing paired with pro-tier gear. The Tama Artstar II was Tama's pro-tier kit of 1990, matching the technical precision Menza brought to the record. The Zildjian A Customs were newly released but affordable. What made the difference was the player and his preparation.
 
 **For Aspiring Drummers:**
 Study this album obsessively. Learn "Holy Wars" to understand how to navigate complex arrangements. Learn "Tornado of Souls" to understand dynamics and musicality. Learn "Take No Prisoners" to understand sustained speed. Then remember: Nick Menza started as a drum tech. Dedication and talent opened the door; preparation and musicality created the legend.
@@ -91,16 +91,16 @@ Dave Mustaine has called Rust in Peace his favorite Megadeth album. The drumming
 - Features some of thrash metal's most demanding drum performances
 - DW 5000 double pedal drove Megadeth's demanding double-bass patterns on a single 22" kick
 - Two rack toms and a floor tom enabled melodic, jazz-influenced fills
-- Poplar shells delivered a tight, dry attack
-- A mid-range, working drummer's kit rather than a prestige endorsement
-- Estimated kit value: $800-1,200 (1990)
+- Birch shells delivered a tight, focused attack
+- Tama's pro-tier kit of 1990, reflecting the technical precision of Menza's playing
+- Estimated kit value: $900-1,200 (1990)
 - Estimated snare value: $150-250 (1990) / $200-350 (vintage today)
 
 ## Frequently Asked Questions
 
 **Q: What drum kit did Nick Menza use on Rust in Peace?**
 
-A: Nick Menza played a Tama Swingstar 5-piece kit on Rust in Peace, recorded in 1990 — a mid-range, working drummer's kit rather than a prestige endorsement. The setup featured a 22x16 inch bass drum driven by a DW 5000 double pedal, 12x10 and 13x11 inch rack toms, and a 16x16 inch floor tom. All shells were poplar, giving the kit a tight, dry attack that cut through Megadeth's aggressive riff-driven arrangements on that album.
+A: Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish on Rust in Peace, recorded in 1990 — Tama's pro-tier kit of the period. The setup featured a 22x16 inch bass drum driven by a DW 5000 double pedal, 12x10 and 13x11 inch rack toms, and a 16x16 inch floor tom. All shells were birch, giving the kit a tight, focused attack that cut through Megadeth's aggressive riff-driven arrangements on that album.
 
 **Q: What cymbals did Nick Menza use on Rust in Peace?**
 
@@ -108,7 +108,7 @@ A: Nick Menza used Zildjian A Custom and A Series cymbals on Rust in Peace. His 
 
 **Q: How much does Nick Menza's Rust in Peace kit cost?**
 
-A: At the time of recording in 1990, the Tama Swingstar kit was valued at approximately $800 to $1,200 new — a mid-range, working drummer's kit rather than a prestige endorsement instrument. Today, a vintage Tama Swingstar in good condition typically fetches a modest $600 to $1,000 depending on configuration and condition. The Tama Steel snare he used, originally around $150 to $250, now commands $200 to $350 or so on the vintage market.
+A: At the time of recording in 1990, the Tama Artstar II kit was valued at approximately $900 to $1,200 new — Tama's pro-tier kit of the period, reflecting the technical precision of Menza's playing. Today, a vintage Tama Artstar II in good condition typically fetches around $1,000 to $1,200 depending on configuration and condition. The Tama Steel snare he used, originally around $150 to $250, now commands $200 to $350 or so on the vintage market.
 
 ## Related Articles
 
@@ -128,4 +128,4 @@ A: At the time of recording in 1990, the Tama Swingstar kit was valued at approx
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

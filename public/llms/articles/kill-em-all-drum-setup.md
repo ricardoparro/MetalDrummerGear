@@ -47,7 +47,7 @@ Lars's snare on Kill 'Em All was a Tama wood snare at 14x5.5 inches — again, a
 
 The 5.5" depth sits between the more common 5" and 6.5" depths, providing a balanced voice: enough body to cut through a recording without the exaggerated depth that makes snares sound boomy. For the Kill 'Em All sessions, the wood shell's natural warmth was captured raw, with minimal processing, resulting in a snare sound that feels physical and present.
 
-Compared to the Ludwig Supraphonic LM402 aluminum snare Lars would use on Master of Puppets, this wood Tama sounds earthier and less surgical. The Supraphonic's aluminum shell delivers a brighter, more cutting crack; the wood snare sounds like a drum someone actually hit in a room. That quality — unprocessed physicality — became central to Kill 'Em All's identity.
+Compared to the Tama steel-shell snare Lars would use starting with Ride the Lightning and carried through Master of Puppets, this wood Tama sounds earthier and less surgical. The steel shell delivers a brighter, more cutting crack; the wood snare sounds like a drum someone actually hit in a room. That quality — unprocessed physicality — became central to Kill 'Em All's identity.
 
 The tuning, like the rest of the kit, was practical rather than refined. Lars tuned for attack and cut to drive the fast tempos, but without the high-precision approach he would develop over subsequent albums.
 
@@ -100,7 +100,7 @@ A: Lars Ulrich used a mixed set of Paiste 2002 and Zildjian A cymbals on Kill 'E
 
 **Q: How was Lars Ulrich's kit on Kill 'Em All different from later Metallica albums?**
 
-A: Kill 'Em All featured a bare-bones Tama Imperial Star budget kit — the entry-level touring model Lars owned before any endorsements. The following year, he upgraded to a professional Tama Artstar II kit with birch shells and a Ludwig Supraphonic LM402 snare for Ride the Lightning, a setup he kept through Master of Puppets (1986). By ...And Justice for All (1988), that Artstar II relationship had grown into a formal Tama artist endorsement. The progression from Imperial Star to Tama Artstar II mirrors Metallica's own trajectory from underground indie act to major-label juggernaut — each album's gear reflects exactly where the band stood commercially and artistically at the time of recording.
+A: Kill 'Em All featured a bare-bones Tama Imperial Star budget kit — the entry-level touring model Lars owned before any endorsements. The following year, he upgraded to a professional Tama Artstar II kit with birch shells and a Tama steel-shell snare for Ride the Lightning, a setup he kept through Master of Puppets (1986). By ...And Justice for All (1988), that Artstar II relationship had grown into a formal Tama artist endorsement. The progression from Imperial Star to Tama Artstar II mirrors Metallica's own trajectory from underground indie act to major-label juggernaut — each album's gear reflects exactly where the band stood commercially and artistically at the time of recording.
 
 **Q: Where was Kill 'Em All recorded and who produced it?**
 
@@ -126,4 +126,4 @@ A: Lars Ulrich used a Ludwig standard bass drum pedal on Kill 'Em All, despite t
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

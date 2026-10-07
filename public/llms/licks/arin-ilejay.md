@@ -34,7 +34,7 @@ The title track of Avenged Sevenfold's sixth studio album "Hail to the King" (20
 - DW Collector's Series (drums)
 - Zildjian A Custom Series (cymbals)
 - DW 9000 Series Double Pedal (pedals)
-- Vic Firth American Classic 5A (sticks)
+- Promark 5B (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Half Time Feel](https://metalforge.io/techniques/half-time-feel), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -64,7 +64,7 @@ The title track of Avenged Sevenfold's sixth studio album "Hail to the King" (20
 - DW Collector's Series (drums)
 - Zildjian A Custom Series (cymbals)
 - DW 9000 Series Double Pedal (pedals)
-- Vic Firth American Classic 5A (sticks)
+- Promark 5B (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -94,7 +94,7 @@ The title track of Avenged Sevenfold's sixth studio album "Hail to the King" (20
 - DW Collector's Series (drums)
 - Zildjian A Custom Series (cymbals)
 - DW 9000 Series Double Pedal (pedals)
-- Vic Firth American Classic 5A (sticks)
+- Promark 5B (sticks)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -111,4 +111,4 @@ Arin Ilejay's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

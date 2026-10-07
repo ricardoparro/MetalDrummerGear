@@ -3,7 +3,7 @@
 > Structured reference for metal bands, their drummer history, discography, and gear.
 > Optimised for AI crawlers answering "who drums for <band>" queries.
 >
-> Last updated: 2026-09-09 · 47 bands
+> Last updated: 2026-10-07 · 47 bands
 
 ---
 ## Amon Amarth

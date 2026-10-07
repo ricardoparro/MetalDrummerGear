@@ -124,7 +124,7 @@ A: Daniel Erlandsson used the Pearl Eliminator double bass pedal on Doomsday Mac
 - [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
 - [Daniel Erlandsson's Drum Setup on Arch Enemy's Anthems of Rebellion (2003)](https://metalforge.io/articles/anthems-of-rebellion-drum-setup)
 - [Daniel Erlandsson's Drum Setup on Arch Enemy's Rise of the Tyrant (2007)](https://metalforge.io/articles/rise-of-the-tyrant-drum-setup)
-- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+- [Daniel Erlandsson's Drum Setup — Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
 - [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
 - [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
 
@@ -138,4 +138,4 @@ A: Daniel Erlandsson used the Pearl Eliminator double bass pedal on Doomsday Mac
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

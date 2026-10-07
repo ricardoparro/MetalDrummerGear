@@ -18,10 +18,10 @@ Inferno (Behemoth) vs Flo Mounier (Cryptopsy) — the two most technically deman
 
 ## Flo Mounier Setup
 
-- **Drums:** Pearl Masters Maple Complete
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Pearl Masters 14x5.5" Maple
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-3000 Throne
+- **Snare:** Signature snare
+- **Pedals/Hardware:** Tama Speed Cobra 910 Twin Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
 ## Playing Style
@@ -34,7 +34,7 @@ Inferno uses a Moeller-influenced technique with single-stroke blast beats optim
 
 ## Key Differences
 
-Inferno plays Pearl Reference Pure drums with Paiste Signature/2002 cymbals — a powerful, high-endurance setup that translates Behemoth's massive live sound. Flo Mounier uses a Tama Starclassic kit with Sabian cymbals, a combination built for the precise, cutting response his technical death metal demands. Inferno uses a Moeller-influenced technique with single-stroke blast beats optimized for endurance rather than maximum tempo — his genius is sustaining ferocious speeds across full live sets night after night. Flo Mounier employs a gravity blast technique that enabled the record-setting blast tempos on *None So Vile* and combines jazz-influenced timing with death metal brutality, giving his playing a swing and fluidity that sets him apart from pure speed merchants.
+Inferno plays Pearl Reference Series drums with Paiste RUDE Series cymbals — a powerful, high-endurance setup that translates Behemoth's massive live sound. Flo Mounier uses a Tama Starclassic kit with Sabian cymbals, a combination built for the precise, cutting response his technical death metal demands. Inferno uses a Moeller-influenced technique with single-stroke blast beats optimized for endurance rather than maximum tempo — his genius is sustaining ferocious speeds across full live sets night after night. Flo Mounier employs a gravity blast technique that enabled the record-setting blast tempos on *None So Vile* and combines jazz-influenced timing with death metal brutality, giving his playing a swing and fluidity that sets him apart from pure speed merchants.
 
 ## Influence & Legacy
 
@@ -64,4 +64,4 @@ A: Flo Mounier has more jazz and groove crossover; Inferno excels in controlled 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

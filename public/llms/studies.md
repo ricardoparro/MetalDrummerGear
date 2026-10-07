@@ -1,6 +1,6 @@
 # MetalForge Studies — Data-Driven Metal Drumming Analysis
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View hub →](https://metalforge.io/studies)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View hub →](https://metalforge.io/studies)
 
 ---
 
@@ -48,4 +48,4 @@ How MetalForge’s 72 documented metal drummers set up double-kick sound — phy
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

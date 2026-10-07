@@ -1,6 +1,6 @@
 # MetalForge — Signature Licks Database
 > Drummer signature fills, beats, and patterns with technique breakdowns and tutorial videos.
-Last updated: 2026-09-10 · Source: https://metalforge.io
+Last updated: 2026-10-07 · Source: https://metalforge.io
 
 Step-by-step breakdowns of iconic metal drum licks. Each entry lists tempo, time signature, difficulty, and techniques, followed by an answer-first "how to play it" walkthrough, the tutorial video, and the canonical page URL to cite.
 
@@ -527,7 +527,7 @@ Profile: [https://metalforge.io/drummers/arin-ilejay](https://metalforge.io/drum
 - DW Collector's Series (drums)
 - Zildjian A Custom Series (cymbals)
 - DW 9000 Series Double Pedal (pedals)
-- Vic Firth American Classic 5A (sticks)
+- Promark 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=DelhLppPSxY
 **Page:** https://metalforge.io/drummers/arin-ilejay/licks/arin-ilejay-hail-to-the-king-halftime
@@ -553,7 +553,7 @@ Profile: [https://metalforge.io/drummers/arin-ilejay](https://metalforge.io/drum
 - DW Collector's Series (drums)
 - Zildjian A Custom Series (cymbals)
 - DW 9000 Series Double Pedal (pedals)
-- Vic Firth American Classic 5A (sticks)
+- Promark 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=bT8FEOJEFcI
 **Page:** https://metalforge.io/drummers/arin-ilejay/licks/arin-ilejay-shepherd-of-fire-double-bass
@@ -579,7 +579,7 @@ Profile: [https://metalforge.io/drummers/arin-ilejay](https://metalforge.io/drum
 - DW Collector's Series (drums)
 - Zildjian A Custom Series (cymbals)
 - DW 9000 Series Double Pedal (pedals)
-- Vic Firth American Classic 5A (sticks)
+- Promark 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=JflCPMkd-6c
 **Page:** https://metalforge.io/drummers/arin-ilejay/licks/arin-ilejay-god-forsaken-fill-cascade
@@ -606,9 +606,9 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 - Listen to the guitar riff and drum pattern simultaneously to hear how the polyrhythmic tension resolves at the bar line
 
 **Gear Used:**
-- Ludwig Classic Oak Kit (drums)
+- Ludwig Black Beauty Kit (drums)
 - Zildjian A Custom & K Series Cymbals (cymbals)
-- Trick Drums Dominator Double Pedal (pedals)
+- Trick Drums Pro 1-V Double Pedal (pedals)
 - Vic Firth American Classic 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=hBj0-dIU8HI
@@ -632,9 +632,9 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 - Record yourself and listen for whether the snare backbeats are consistently weighted — any thinness breaks the authority of the groove
 
 **Gear Used:**
-- Ludwig Classic Oak Kit (drums)
+- Ludwig Black Beauty Kit (drums)
 - Zildjian A Custom & K Series Cymbals (cymbals)
-- Trick Drums Dominator Double Pedal (pedals)
+- Trick Drums Pro 1-V Double Pedal (pedals)
 - Vic Firth American Classic 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=v6rB1vOF84w
@@ -658,9 +658,9 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 - Record the full-speed run and zoom in on the transition point to check for any tempo fluctuation or hesitation
 
 **Gear Used:**
-- Ludwig Classic Oak Kit (drums)
+- Ludwig Black Beauty Kit (drums)
 - Zildjian A Custom & K Series Cymbals (cymbals)
-- Trick Drums Dominator Double Pedal (pedals)
+- Trick Drums Pro 1-V Double Pedal (pedals)
 - Vic Firth American Classic 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=p9d5HMNBFoE
@@ -675,7 +675,7 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 2. Deliver the backbeat with full arm authority on every repetition — consistency of impact is what gives the groove metal feel its power
 3. Ride the bell with a straight, unwavering eighth-note pulse to anchor the arrangement through the kick's syncopated patterns
 4. Honour the original arrangement's structure while bringing your own physical intensity — faithfulness and personality are not mutually exclusive
-5. Use the Trick Drums Dominator pedal's heavier attack to add extra weight to the kick emphasis points without disrupting the overall flow
+5. Use the Trick Drums Pro 1-V pedal's heavier attack to add extra weight to the kick emphasis points without disrupting the overall flow
 
 **Practice tips:**
 - Transcribe the kick-snare pattern before playing along — understanding the interlocking structure makes it physically accessible
@@ -684,9 +684,9 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 - Record yourself and compare the backbeat consistency — any variation in snare weight across repetitions erodes the groove's authority
 
 **Gear Used:**
-- Ludwig Classic Oak Kit (drums)
+- Ludwig Black Beauty Kit (drums)
 - Zildjian A Custom & K Series Cymbals (cymbals)
-- Trick Drums Dominator Double Pedal (pedals)
+- Trick Drums Pro 1-V Double Pedal (pedals)
 - Vic Firth American Classic 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=U-cvDsW-r3M
@@ -710,9 +710,9 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 - Practise the full song at performance tempo regularly to build the endurance Cruz needs to deliver it night after night on tour
 
 **Gear Used:**
-- Ludwig Classic Oak Kit (drums)
+- Ludwig Black Beauty Kit (drums)
 - Zildjian A Custom & K Series Cymbals (cymbals)
-- Trick Drums Dominator Double Pedal (pedals)
+- Trick Drums Pro 1-V Double Pedal (pedals)
 - Vic Firth American Classic 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=nIfi05bMed0
@@ -726,7 +726,7 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 1. Treat the kick and snare as conversational partners — the pattern is built on dialogue, not parallel independent voices
 2. Add ghost notes between the main backbeats to keep the groove in constant motion without adding rhythmic complexity
 3. Tune the snare for a dry, cutting attack that sits naturally in the mix rather than requiring heavy processing to be heard
-4. Configure the Trick Drums Dominator beater angle for maximum attack definition so every kick stroke articulates clearly in fast passages
+4. Configure the Trick Drums Pro 1-V beater angle for maximum attack definition so every kick stroke articulates clearly in fast passages
 5. Lock the kick accent points precisely to the guitar riff's lowest note emphasis for a unified, crushing low-end groove
 
 **Practice tips:**
@@ -736,9 +736,9 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 - Record your playing and focus on the kick-riff lock point specifically — any looseness in that relationship is immediately audible
 
 **Gear Used:**
-- Ludwig Classic Oak Kit (drums)
+- Ludwig Black Beauty Kit (drums)
 - Zildjian A Custom & K Series Cymbals (cymbals)
-- Trick Drums Dominator Double Pedal (pedals)
+- Trick Drums Pro 1-V Double Pedal (pedals)
 - Vic Firth American Classic 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=v6rB1vOF84w
@@ -1157,9 +1157,8 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 - Record yourself and check the kick lines up exactly with the riff
 
 **Gear Used:**
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=S5jWdwruito
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-caught-in-a-mosh-groove
@@ -1182,9 +1181,8 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 - Use a metronome to keep the syncopated accents from rushing
 
 **Gear Used:**
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=e2sMCDvXr90
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-madhouse-thrash-groove
@@ -1207,9 +1205,8 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 - Loop the transition between the thrash sections and the breakdown
 
 **Gear Used:**
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=OR6rUpbFOk0
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-indians-war-dance
@@ -1232,9 +1229,8 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 - Practise the fills in isolation, then re-insert them at the exact section changes where they belong
 
 **Gear Used:**
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-among-the-living-thrash-groove
 
 ### Persistence of Time Blast Beat — "Blood", Persistence of Time (1990)
@@ -1255,9 +1251,8 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 - Study the song's arrangement to know exactly when the blast arrives and what it should accomplish each time
 
 **Gear Used:**
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-persistence-of-time-blast
 
 ### State of Euphoria Mid-Tempo Groove — "Be All, End All", State of Euphoria (1988)
@@ -1278,9 +1273,8 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 - Practise the tom fills separately and listen to how Benante places them — they land and resolve cleanly every time
 
 **Gear Used:**
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-euphoria-groove
 
 ## Chris Adler (Lamb of God)
@@ -1305,9 +1299,7 @@ Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drum
 - Practise the linear fills slowly, then place them back into the groove
 
 **Gear Used:**
-- Mapex Black Panther Kit (drums)
 - Meinl Cymbals (cymbals)
-- Trick Pro1-V Bigfoot Double Pedal (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=4eNHAm6Lip8
 **Page:** https://metalforge.io/drummers/chris-adler/licks/chris-adler-laid-to-rest-groove
@@ -1330,9 +1322,7 @@ Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drum
 - Practise the fills separately, then place them back to mark the transitions
 
 **Gear Used:**
-- Mapex Black Panther Kit (drums)
 - Meinl Cymbals (cymbals)
-- Trick Pro1-V Bigfoot Double Pedal (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=oSvE3tqq-Yo
 **Page:** https://metalforge.io/drummers/chris-adler/licks/chris-adler-walk-with-me-in-hell-groove
@@ -1369,7 +1359,7 @@ Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drum
 **How to play it:**
 1. Set the ride cymbal for immediate bell access — the bell pulse is the engine of the groove throughout the verses
 2. Anchor the half-time snare on beat three with full arm weight, not just wrist — the backbeat must be authoritative
-3. Keep the Trick double pedal heel-up with relaxed ankles so the kick strokes remain even and unforced at the mid-tempo pace
+3. Keep the double pedal heel-up with relaxed ankles so the kick strokes remain even and unforced at the mid-tempo pace
 4. Let the hi-hat breathe with a slight open position on the off-beats during builds to create tension before the release
 5. Strike the China cymbal at section changes with deliberate, percussive intent — it is an accent, not an afterthought
 
@@ -1380,9 +1370,7 @@ Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drum
 - Add the China cymbal last after the main pattern is solid — placement timing is everything for those section accents
 
 **Gear Used:**
-- Mapex Black Panther Kit (drums)
 - Meinl Cymbals (cymbals)
-- Trick Pro1-V Bigfoot Double Pedal (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=oSvE3tqq-Yo
 **Page:** https://metalforge.io/drummers/chris-adler/licks/chris-adler-walk-drum-setup
@@ -1405,9 +1393,7 @@ Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drum
 - Record the full song and listen back specifically to the kick-riff lock in the verses to identify any loose spots
 
 **Gear Used:**
-- Mapex Black Panther Kit (drums)
 - Meinl Cymbals (China prominent) (cymbals)
-- Trick Pro1-V Bigfoot Double Pedal (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=s3faYcatpd0
 **Page:** https://metalforge.io/drummers/chris-adler/licks/chris-adler-redneck-drum-setup
@@ -1550,7 +1536,7 @@ Profile: [https://metalforge.io/drummers/daniel-erlandsson](https://metalforge.i
 - Pearl Reference Pure Kit (drums)
 - Sabian AAX/HHX Cymbals (cymbals)
 - Pearl Eliminator Double Bass Pedal (hardware)
-- Vic Firth American Classic 5B (sticks)
+- ProMark 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=akIjOyZsjQI
 **Page:** https://metalforge.io/drummers/daniel-erlandsson/licks/daniel-erlandsson-war-eternal
@@ -1576,7 +1562,7 @@ Profile: [https://metalforge.io/drummers/daniel-erlandsson](https://metalforge.i
 - Pearl Reference Pure Kit (drums)
 - Sabian AA/HH Cymbals (cymbals)
 - Pearl Eliminator Double Bass Pedal (hardware)
-- Vic Firth American Classic 5B (sticks)
+- ProMark 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=ZFD3fHF33Wg
 **Page:** https://metalforge.io/drummers/daniel-erlandsson/licks/daniel-erlandsson-nemesis
@@ -1602,7 +1588,7 @@ Profile: [https://metalforge.io/drummers/daniel-erlandsson](https://metalforge.i
 - Pearl Reference Pure Kit (drums)
 - Sabian AA/HH Cymbals (cymbals)
 - Pearl Eliminator Double Bass Pedal (hardware)
-- Vic Firth American Classic 5B (sticks)
+- ProMark 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=B7G3u6iqLt8
 **Page:** https://metalforge.io/drummers/daniel-erlandsson/licks/daniel-erlandsson-avalanche
@@ -1679,7 +1665,7 @@ Profile: [https://metalforge.io/drummers/danny-carey](https://metalforge.io/drum
 - Focus on smooth hand-foot linear runs rather than maximum speed
 
 **Gear Used:**
-- Sonor SQ2 Drum Kit (drums)
+- Sonor Phonic Plus Drum Kit (drums)
 - Paiste Signature Cymbals (cymbals)
 - Sonor Giant Step Twin Effect Double Pedal (pedals)
 
@@ -1750,7 +1736,7 @@ Profile: [https://metalforge.io/drummers/danny-carey](https://metalforge.io/drum
 - Trust the groove's internal logic — stop thinking in 4/4 entirely while playing it
 
 **Gear Used:**
-- Sonor SQ2 Drum Kit (drums)
+- Sonor Phonic Plus Drum Kit (drums)
 - Paiste Signature Cymbals (cymbals)
 - Sonor Giant Step Twin Effect Double Pedal (pedals)
 **Page:** https://metalforge.io/drummers/danny-carey/licks/danny-carey-forty-six-and-2-steady-groove
@@ -1929,7 +1915,6 @@ Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/dr
 **Gear Used:**
 - Pearl Maxwin Kit (drums)
 - Paiste RUDE Cymbals (cymbals)
-- DW 5000 Pedals (pedals)
 **Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-raining-blood-double-bass
 
 ### Seasons in the Abyss Groove — "Seasons in the Abyss", Seasons in the Abyss (1990)
@@ -2242,7 +2227,6 @@ Profile: [https://metalforge.io/drummers/dirk-verbeuren](https://metalforge.io/d
 **Gear Used:**
 - Tama Starclassic Performer Kit (drums)
 - Meinl Byzance Dark Cymbals (cymbals)
-- Tama Speed Cobra 910 Double Pedal (hardware)
 - Vater Power 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=ejxBRmzi5MU
@@ -2351,7 +2335,6 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 **Gear Used:**
 - Yamaha Recording Custom Kit (drums)
 - Zildjian ZXT Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=-U6ScIBk4qE
@@ -2376,7 +2359,6 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 
 **Gear Used:**
 - Pearl Masters Maple Kit (drums)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=iF_2ja9A7Ac
@@ -2401,7 +2383,6 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 
 **Gear Used:**
 - Pearl Masters Maple Kit (drums)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 **Page:** https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-none-so-vile-gravity-blast
 
@@ -2424,7 +2405,6 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 
 **Gear Used:**
 - Pearl Masters Maple Kit (drums)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 **Page:** https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-blasphemy-made-flesh-double-kick
 
@@ -2447,7 +2427,6 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 
 **Gear Used:**
 - Pearl Masters Maple Kit (drums)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 **Page:** https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-whisper-supremacy-tom-fill
 
@@ -2470,7 +2449,6 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 
 **Gear Used:**
 - Pearl Masters Maple Kit (drums)
-- Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth American Classic 5A (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=ctjjDz5zl2A
@@ -2851,9 +2829,9 @@ Profile: [https://metalforge.io/drummers/george-kollias](https://metalforge.io/d
 - Treat the gravity blast as a long-term project: it may take months to internalise the mechanics, but once it clicks it becomes reliable
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
-- Tama Iron Cobra HP900 Double Pedal (pedals)
-- Paiste Signature Series (cymbals)
+- Pearl Masterworks Series Kit (drums)
+- Pearl Demon XR Pedals (pedals)
+- Zildjian A Custom Series (cymbals)
 
 **Tutorial:** https://www.youtube.com/watch?v=R-qQUFqrjwE
 **Page:** https://metalforge.io/drummers/george-kollias/licks/george-kollias-gravity-blast
@@ -2876,9 +2854,9 @@ Profile: [https://metalforge.io/drummers/george-kollias](https://metalforge.io/d
 - Use a polyrhythmic metronome app to hear both pulses simultaneously while you practise
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
-- Tama Iron Cobra HP900 Double Pedal (pedals)
-- Paiste Signature Series (cymbals)
+- Pearl Masterworks Series Kit (drums)
+- Pearl Demon XR Pedals (pedals)
+- Zildjian A Custom Series (cymbals)
 
 **Tutorial:** https://www.youtube.com/watch?v=mMqfMuQMTEU
 **Page:** https://metalforge.io/drummers/george-kollias/licks/george-kollias-polyrhythmic-mayhem
@@ -2901,8 +2879,8 @@ Profile: [https://metalforge.io/drummers/george-kollias](https://metalforge.io/d
 - Focus every session on relaxation rather than effort: if something feels hard it usually means tension, not weakness, and relaxing through it will produce better results than pushing through
 
 **Gear Used:**
-- Pearl Reference Pure (drums)
-- Tama Iron Cobra HP900 Double Pedal (pedals)
+- Pearl Masterworks Series Kit (drums)
+- Pearl Demon XR Pedals (pedals)
 - Evans Hybrid Heads (heads)
 
 **Tutorial:** https://www.youtube.com/watch?v=1LR3woj1mjI
@@ -4294,7 +4272,6 @@ Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drum
 
 **Gear Used:**
 - Tama Artstar ES Kit (drums)
-- Ahead Lars Ulrich Sticks (sticks)
 - Zildjian A Custom Cymbals (cymbals)
 **Page:** https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-one-intro
 
@@ -4360,7 +4337,6 @@ Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drum
 
 **Gear Used:**
 - Tama Artstar ES Kit (drums)
-- Ahead Lars Ulrich Sticks (sticks)
 - Zildjian A Custom Cymbals (cymbals)
 **Page:** https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-one-building-thrash
 
@@ -4409,7 +4385,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 **Gear Used:**
 - Tama Kit (drums)
 - Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
-- DW 9000 Pedals (pedals)
+- Tama Iron Cobra 900 Power Glide (pedals)
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-polyrhythmic-groove
 
 ### Gojira Blast Variation — "Silvera", Magma (2016)
@@ -4431,7 +4407,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 **Gear Used:**
 - Tama Kit (drums)
 - Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
-- Evans Heavyweight Heads (heads)
+- Remo Heads (heads)
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-blast-variation
 
 ### Silvera Tribal Polyrhythm — "Silvera", Magma (2016)
@@ -4454,7 +4430,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 **Gear Used:**
 - Tama Kit (drums)
 - Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
-- DW 9000 Pedals (pedals)
+- Tama Iron Cobra 900 Power Glide (pedals)
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-silvera-tribal-groove
 
 ### Stranded Intro Blast Pattern — "Stranded", Magma (2016)
@@ -4477,7 +4453,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 **Gear Used:**
 - Tama Kit (drums)
 - Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
-- DW 9000 Pedals (pedals)
+- Tama Iron Cobra 900 Power Glide (pedals)
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-stranded-intro-fill
 
 ### Flying Whales Main Groove — "Flying Whales", From Mars to Sirius (2005)
@@ -4498,7 +4474,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 - Practise the fill-to-groove transition until the return to the pocket feels completely natural
 
 **Gear Used:**
-- DW 9000 Pedals (pedals)
+- DW 5000 Turbo Double Pedal (pedals)
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-flying-whales-groove
 
 ### Backbone Main Groove — "Backbone", From Mars to Sirius (2005)
@@ -4518,7 +4494,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 - Great song for developing feel and timing
 
 **Gear Used:**
-- DW 9000 Pedals (pedals)
+- DW 5000 Turbo Double Pedal (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=c8my3UqStjI
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-backbone-groove
@@ -4603,7 +4579,6 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 **Gear Used:**
 - Sonor Designer Series Kit (drums)
 - Sabian HH/AAX Cymbals (cymbals)
-- DW 5000 Double Pedal (hardware)
 - Vic Firth Signature Sticks (sticks)
 **Page:** https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-bleak-ghost-notes
 
@@ -4627,7 +4602,6 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 **Gear Used:**
 - Sonor Designer Series Kit (drums)
 - Sabian HH/AAX Cymbals (cymbals)
-- DW 5000 Double Pedal (hardware)
 - Vic Firth Signature Sticks (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=HWZzPaKYges
@@ -4679,7 +4653,6 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 **Gear Used:**
 - Sonor Designer Series Kit (drums)
 - Sabian HH/AAX Cymbals (cymbals)
-- DW 5000 Double Pedal (hardware)
 - Vic Firth Signature Sticks (sticks)
 **Page:** https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-demon-of-the-fall-opening
 
@@ -4703,7 +4676,6 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 **Gear Used:**
 - Sonor Designer Series Kit (drums)
 - Sabian HH/AAX Cymbals (cymbals)
-- DW 5000 Double Pedal (hardware)
 - Vic Firth Signature Sticks (sticks)
 **Page:** https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-blackwater-park-shuffle
 
@@ -4727,7 +4699,6 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 **Gear Used:**
 - Sonor Designer Series Kit (drums)
 - Sabian HH/AAX Cymbals (cymbals)
-- DW 5000 Double Pedal (hardware)
 - Vic Firth Signature Sticks (sticks)
 **Page:** https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-deliverance-blast
 
@@ -4928,8 +4899,8 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 - Follow the official playthrough to learn the orchestration and sticking
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
-- Meinl Byzance Cymbals (cymbals)
+- Mapex Black Panther Design Lab (drums)
+- Paiste Formula 602 (cymbals)
 - Double Bass Pedals (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=J1fxihr8qxo
@@ -5095,8 +5066,8 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 - Keep the backbeat strong so the groove never loses its centre
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
-- Istanbul Agop Cymbals (cymbals)
+- Yamaha Drum Kit (drums)
+- Meinl Cymbals (cymbals)
 - Pearl Demon Drive Double Pedal (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=WjObrWs84iM
@@ -5243,9 +5214,9 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 - Count the odd-time sections out loud until the pulse feels natural
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
+- Pearl Masterworks Maple Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=SjyggZCZeA4
@@ -5269,9 +5240,9 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 - Prioritise taste — let the song decide where the fills go
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
+- Pearl Masterworks Maple Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=ha8ZWhB8FSY
@@ -5295,9 +5266,9 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 - Build stamina with longer reps before chasing the full arrangement
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
+- Pearl Masterworks Maple Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=-NNa_Z6UFHw
@@ -5321,9 +5292,9 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 - Increase tempo in 5 BPM increments and return to the previous tempo if evenness breaks down
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
+- Pearl Masterworks Maple Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 **Page:** https://metalforge.io/drummers/mike-mangini/licks/mangini-systematic-chaos-paradiddle-lick
 
@@ -5345,9 +5316,9 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 - Practise the pattern in a musical context at half tempo before approaching the song's BPM
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
+- Pearl Masterworks Maple Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 **Page:** https://metalforge.io/drummers/mike-mangini/licks/mangini-dramatic-turn-polyrhythm
 
@@ -5369,9 +5340,9 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 - Learn the fill as a musical phrase, not a technique exercise — feel where it comes from and where it resolves
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
+- Pearl Reference Pure Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 **Page:** https://metalforge.io/drummers/mike-mangini/licks/mangini-distance-over-time-fill
 
@@ -5548,7 +5519,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=SQzrOJ1aJ7g
 **Page:** https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-ace-of-spades
@@ -5574,7 +5545,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=00Y2BneEXUg
 **Page:** https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-overkill
@@ -5600,7 +5571,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=1BDIGLJQV3E
 **Page:** https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-killed-by-death
@@ -5626,7 +5597,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Sonor Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 **Page:** https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-bastards-motorik
 
 ### Bomber Triplet Gallop — "Bomber", Bomber (1979, live with Mikkey Dee)
@@ -5650,7 +5621,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 **Page:** https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-bomber-gallop
 
 ### Overkill 8th-Note Double Bass — "Overkill", Overkill (1979, performed by Mikkey Dee)
@@ -5674,7 +5645,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 - Tama Artstar II/Swingstar Kit (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
-- Vic Firth Mikkey Dee Signature (sticks)
+- Wincent Mikkey Dee Signature (sticks)
 **Page:** https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-overkill-double-bass
 
 ## Morgan Ågren (Devin Townsend)
@@ -5863,10 +5834,9 @@ Profile: [https://metalforge.io/drummers/nick-augusto](https://metalforge.io/dru
 - Slow the full groove to 130 BPM with a metronome and listen for the four limbs locking together before raising tempo
 
 **Gear Used:**
-- Tama Starclassic Performer B/B (drums)
-- Meinl MB20 Cymbals (cymbals)
-- Pearl Demon Drive Double Bass Pedal (pedals)
-- Vic Firth American Classic 5B Sticks (sticks)
+- Pearl Reference Pure (drums)
+- Sabian AAX Series (cymbals)
+- Pro-Mark Nylon Tip 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=0Xfvk028Kv0
 **Page:** https://metalforge.io/drummers/nick-augusto/licks/nick-augusto-in-waves-groove
@@ -5889,10 +5859,9 @@ Profile: [https://metalforge.io/drummers/nick-augusto](https://metalforge.io/dru
 - Record your fills and check whether the crash landing arrives on the correct downbeat — small rushing errors at 170 BPM are easy to miss in real time
 
 **Gear Used:**
-- Tama Starclassic Performer B/B (drums)
-- Meinl MB20 Cymbals (cymbals)
-- Pearl Demon Drive Double Bass Pedal (pedals)
-- Meinl Classics Custom China Cymbal (cymbals)
+- Pearl Reference Pure (drums)
+- Sabian AAX Series (cymbals)
+- Pro-Mark Nylon Tip 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=f7rXtYuxUzs
 **Page:** https://metalforge.io/drummers/nick-augusto/licks/nick-augusto-built-to-fall-fill
@@ -5915,10 +5884,9 @@ Profile: [https://metalforge.io/drummers/nick-augusto](https://metalforge.io/dru
 - Record the full groove-blast-groove sequence and review whether both transitions are clean and metrically exact
 
 **Gear Used:**
-- Tama Starclassic Performer B/B (drums)
-- Meinl MB20 Heavy Metal Cymbals (cymbals)
-- Meinl Classics Custom China Cymbal (cymbals)
-- Pearl Demon Drive Double Bass Pedal (pedals)
+- Pearl Reference Pure (drums)
+- Sabian AAX Series (cymbals)
+- Pro-Mark Nylon Tip 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=tWaye_eG1e8
 **Page:** https://metalforge.io/drummers/nick-augusto/licks/nick-augusto-vengeance-falls-blast
@@ -6203,9 +6171,9 @@ Profile: [https://metalforge.io/drummers/paul-bostaph](https://metalforge.io/dru
 
 **Gear Used:**
 - Pearl Masters Custom Series (drums)
-- Paiste 2002 Series Cymbals (cymbals)
+- Sabian AAX Cymbals (cymbals)
 - Pearl Eliminator Double Pedal (pedals)
-- Vic Firth American Classic 5B (sticks)
+- Vater Power 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=cbyswHABG3Q
 **Page:** https://metalforge.io/drummers/paul-bostaph/licks/paul-bostaph-raining-blood-double-bass
@@ -6230,7 +6198,6 @@ Profile: [https://metalforge.io/drummers/paul-bostaph](https://metalforge.io/dru
 **Gear Used:**
 - Tama Starclassic Maple Kit (drums)
 - Paiste 2002 Series Cymbals (cymbals)
-- Vic Firth American Classic 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=mD-jXXi7N5k
 **Page:** https://metalforge.io/drummers/paul-bostaph/licks/paul-bostaph-disciple-speed-groove
@@ -6254,9 +6221,9 @@ Profile: [https://metalforge.io/drummers/paul-bostaph](https://metalforge.io/dru
 
 **Gear Used:**
 - Pearl Masters Custom Series (drums)
-- Paiste 2002 Series Cymbals (cymbals)
+- Sabian AAX Cymbals (cymbals)
 - Pearl Eliminator Double Pedal (pedals)
-- Vic Firth American Classic 5B (sticks)
+- Vater Power 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=5h1igyKQUuk
 **Page:** https://metalforge.io/drummers/paul-bostaph/licks/paul-bostaph-war-ensemble-blast
@@ -6284,8 +6251,8 @@ Profile: [https://metalforge.io/drummers/paul-mazurkiewicz](https://metalforge.i
 
 **Gear Used:**
 - Pearl Reference Kit (drums)
-- Paiste 2002 Cymbals (cymbals)
-- DW 9002 Double Pedal (hardware)
+- Meinl Classics Custom / Byzance Cymbals (cymbals)
+- Pearl Eliminator Double Bass Pedal (hardware)
 - Vic Firth Paul Mazurkiewicz Signature (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=KxcfdLzfrzg
@@ -6310,8 +6277,8 @@ Profile: [https://metalforge.io/drummers/paul-mazurkiewicz](https://metalforge.i
 
 **Gear Used:**
 - Pearl Reference Kit (drums)
-- Paiste 2002 Cymbals (cymbals)
-- DW 9002 Double Pedal (hardware)
+- Meinl Classics Custom / Byzance Cymbals (cymbals)
+- Pearl Eliminator Double Bass Pedal (hardware)
 - Vic Firth Paul Mazurkiewicz Signature (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=7pINeSy8Dow
@@ -6336,8 +6303,8 @@ Profile: [https://metalforge.io/drummers/paul-mazurkiewicz](https://metalforge.i
 
 **Gear Used:**
 - Pearl Reference Kit (drums)
-- Paiste 2002 Cymbals (cymbals)
-- DW 9002 Double Pedal (hardware)
+- Meinl Classics Custom / Byzance Cymbals (cymbals)
+- Pearl Eliminator Double Bass Pedal (hardware)
 - Vic Firth Paul Mazurkiewicz Signature (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=ztzi8Dk9OmM
@@ -6527,7 +6494,6 @@ Profile: [https://metalforge.io/drummers/raymond-herrera](https://metalforge.io/
 
 **Gear Used:**
 - Tama Starclassic Kit (drums)
-- Pearl 14"x6.5" Free-Floating Snare (snare)
 - Zildjian Z Custom Cymbals (cymbals)
 - DW 5000 Series Double Pedal (hardware)
 - Drum triggers (DDrum/Roland) (hardware)
@@ -6554,7 +6520,6 @@ Profile: [https://metalforge.io/drummers/raymond-herrera](https://metalforge.io/
 
 **Gear Used:**
 - Tama Starclassic Kit (drums)
-- Pearl 14"x6.5" Free-Floating Snare (snare)
 - Zildjian Z Custom Cymbals (cymbals)
 - DW 5000 Series Double Pedal (hardware)
 - Drum triggers (DDrum/Roland) (hardware)
@@ -6581,7 +6546,6 @@ Profile: [https://metalforge.io/drummers/raymond-herrera](https://metalforge.io/
 
 **Gear Used:**
 - Tama Starclassic Kit (drums)
-- Pearl 14"x6.5" Free-Floating Snare (snare)
 - Zildjian Z Custom Cymbals (cymbals)
 - DW 5000 Series Double Pedal (hardware)
 - Drum triggers (DDrum/Roland) (hardware)
@@ -6614,7 +6578,7 @@ Profile: [https://metalforge.io/drummers/richard-christy](https://metalforge.io/
 - Pearl Masters Custom Kit (drums)
 - Pearl 14"x5.5" Sensitone Snare (snare)
 - Sabian AA/AAX Cymbals (cymbals)
-- Pearl Eliminator Double Pedal (hardware)
+- Axis A Longboard Double Pedal (hardware)
 - Vic Firth American Classic 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=hN8XncMtwAA
@@ -6641,7 +6605,7 @@ Profile: [https://metalforge.io/drummers/richard-christy](https://metalforge.io/
 - Pearl Masters Custom Kit (drums)
 - Pearl 14"x5.5" Sensitone Snare (snare)
 - Sabian AA/AAX Cymbals (cymbals)
-- Pearl Eliminator Double Pedal (hardware)
+- Axis A Longboard Double Pedal (hardware)
 - Vic Firth American Classic 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=wK4VPM-0ssU
@@ -6668,7 +6632,7 @@ Profile: [https://metalforge.io/drummers/richard-christy](https://metalforge.io/
 - Pearl Masters Custom Kit (drums)
 - Pearl 14"x5.5" Sensitone Snare (snare)
 - Sabian AA/AAX Cymbals (cymbals)
-- Pearl Eliminator Double Pedal (hardware)
+- Axis A Longboard Double Pedal (hardware)
 - Vic Firth American Classic 5B (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=s2EJ1AqPIPg
@@ -7225,9 +7189,8 @@ Profile: [https://metalforge.io/drummers/tomas-haake](https://metalforge.io/drum
 - Use this track as your entry point into Meshuggah-style phrasing
 
 **Gear Used:**
-- Sonor Drum Kit (drums)
-- Sabian Cymbals (cymbals)
-- Tama Speed Cobra Pedals (pedals)
+- Tama Superstar (drums)
+- DW 5002 Double Pedal (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=4A_tSyJBsRQ
 **Page:** https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-new-millennium-cyanide-christ-groove

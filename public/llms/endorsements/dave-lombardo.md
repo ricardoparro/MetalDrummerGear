@@ -8,34 +8,38 @@
 
 ## Current Endorsements
 
-### Drums: Pearl
+### Drums: Tama
 
-Dave Lombardo endorses Pearl for drums. They play the Pearl Reference Series. This partnership began in 2000s.
+Dave Lombardo endorses Tama for drums. They play the Tama Starclassic Walnut/Birch.
 
 ### Cymbals: Paiste
 
 Dave Lombardo endorses Paiste for cymbals. They play the Paiste RUDE Series. This partnership began in 2000s.
 
-### Drumsticks: Vic Firth
+### Drumsticks: Promark
 
-Dave Lombardo endorses Vic Firth for drumsticks. This partnership began in 1990s.
+Dave Lombardo endorses Promark for drumsticks. They play the Promark Dave Lombardo Signature 2Bx. Dave Lombardo has a co-designed signature product with Promark.
 
 ### Drumheads: Remo
 
 Dave Lombardo endorses Remo for drumheads. This partnership began in 1980s.
 
+## Signature Models
+
+- Promark Dave Lombardo Signature 2Bx (signature)
+
 ## Endorsement History
 
-- **1981** (Drums): Signed with Pearl — First kit was Pearl Maxwin, started long relationship with Pearl
-- **1986** (Drums): Renewed Pearl deal — Continued with Pearl through Reign in Blood era
+- **1981** (Drums): Signed with Pearl — First kit was Pearl Maxwin, at the start of his time with Slayer, before his later long-running switch to Tama
+- **1986** (Drums): Renewed Pearl deal — Still on Pearl through the Reign in Blood era
 
 ## FAQ
 
 **Q: What brands does Dave Lombardo endorse?**
-A: Dave Lombardo endorses Pearl, Paiste, Vic Firth, Remo. Their primary drum endorsement is Pearl and they play Paiste cymbals.
+A: Dave Lombardo endorses Tama, Paiste, Promark, Remo. Their primary drum endorsement is Tama and they play Paiste cymbals.
 
 **Q: Does Dave Lombardo have a signature drum or cymbal?**
-A: Dave Lombardo is a key Pearl endorser but does not have a dedicated signature kit model in the current lineup.
+A: Yes. Dave Lombardo has signature gear: Promark Dave Lombardo Signature 2Bx (signature).
 
 **Q: What is Dave Lombardo's endorsement history?**
 A: See the Endorsement History section above for a full timeline of Dave Lombardo's brand deals.
@@ -50,4 +54,4 @@ A: See the Endorsement History section above for a full timeline of Dave Lombard
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

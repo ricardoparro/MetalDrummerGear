@@ -10,9 +10,9 @@ Slayer's Dave Lombardo vs Morbid Angel's Pete Sandoval. Groove-based double kick
 
 ## Dave Lombardo Setup
 
-- **Drums:** Tama Starclassic Maple
+- **Drums:** Tama Starclassic Walnut/Birch
 - **Cymbals:** Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Snare:** Tama S.L.P. 14x6.5"
 - **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne
 - **Sticks:** Promark Dave Lombardo Signature 2Bx
 
@@ -47,10 +47,10 @@ Dave Lombardo is the godfather of thrash metal drumming — his groove-powered d
 ## FAQ
 
 **Q: What are the main differences between Dave Lombardo's and Pete Sandoval's drum kits?**
-A: Dave Lombardo plays Tama Starclassic Maple with Paiste cymbals, while Pete Sandoval uses ddrum (specific series unconfirmed) with Cymbal cymbals. Lombardo plays Tama Starclassic Maple drums with Paiste RUDE cymbals and Tama Iron Cobra double pedals. Sandoval played a ddrum kit (exact model undocumented) with hardware to match during his classic Morbid Angel years; his cymbal brand was never publicly confirmed.
+A: Dave Lombardo plays Tama Starclassic Walnut/Birch with Paiste cymbals, while Pete Sandoval uses ddrum (specific series unconfirmed) with Cymbal cymbals. Lombardo plays Tama Starclassic Maple drums with Paiste RUDE cymbals and Tama Iron Cobra double pedals. Sandoval played a ddrum kit (exact model undocumented) with hardware to match during his classic Morbid Angel years; his cymbal brand was never publicly confirmed.
 
 **Q: What drums does Dave Lombardo play vs Pete Sandoval?**
-A: Dave Lombardo plays Tama Starclassic Maple. Pete Sandoval plays ddrum (specific series unconfirmed).
+A: Dave Lombardo plays Tama Starclassic Walnut/Birch. Pete Sandoval plays ddrum (specific series unconfirmed).
 
 **Q: Who is the better extreme / death / black metal drummer, Dave Lombardo or Pete Sandoval?**
 A: Both are legends in their own right. Dave Lombardo is the godfather of thrash metal drumming — his groove-powered double kick defined Slayer's sonic identity and inspired every extreme metal band that followed. See the full analysis at [metalforge.io/vs/dave-lombardo-vs-pete-sandoval](https://metalforge.io/vs/dave-lombardo-vs-pete-sandoval).
@@ -67,4 +67,4 @@ A: Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 1
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

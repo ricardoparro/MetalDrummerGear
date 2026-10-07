@@ -15,10 +15,11 @@
 - **Speed Cobra:** Chain drive with an extended longboard footboard, trading a touch of raw power for less foot strength per stroke — built for fast footwork and heel-toe technique.
 - **Dyna-Sync:** Tama's direct-drive pedal, connecting footboard to beater with a rigid rod for the zero-slack feel extreme-metal specialists reach for.
 
-## Confirmed Metal Drummers (15)
+## Confirmed Metal Drummers (16)
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
+| [Abe Cunningham](https://metalforge.io/pedals/setups/abe-cunningham) | Deftones | Tama Iron Cobra 900 Rolling Glide | [Markdown](https://metalforge.io/llms/pedals/setups/abe-cunningham.md) |
 | [Ben Koller](https://metalforge.io/pedals/setups/ben-koller) | Converge / Mutoid Man / Killer Be Killed | Tama Iron Cobra 900 | [Markdown](https://metalforge.io/llms/pedals/setups/ben-koller.md) |
 | [Blake Richardson](https://metalforge.io/pedals/setups/blake-richardson) | Between the Buried and Me | Tama Iron Cobra Power Glide | [Markdown](https://metalforge.io/llms/pedals/setups/blake-richardson.md) |
 | [Chris Turner](https://metalforge.io/pedals/setups/chris-turner) | Oceans Ate Alaska | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/chris-turner.md) |
@@ -26,12 +27,12 @@
 | [Derek Roddy](https://metalforge.io/pedals/setups/derek-roddy) | Hate Eternal / Nile | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/derek-roddy.md) |
 | [Dirk Verbeuren](https://metalforge.io/pedals/setups/dirk-verbeuren) | Megadeth | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/dirk-verbeuren.md) |
 | [Eloy Casagrande](https://metalforge.io/pedals/setups/eloy-casagrande) | Slipknot | Tama Iron Cobra | [Markdown](https://metalforge.io/llms/pedals/setups/eloy-casagrande.md) |
+| [Flo Mounier](https://metalforge.io/pedals/setups/flo-mounier) | Cryptopsy | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/flo-mounier.md) |
+| [Frost](https://metalforge.io/pedals/setups/frost) | Satyricon / 1349 | Tama Iron Cobra Power Glide | [Markdown](https://metalforge.io/llms/pedals/setups/frost.md) |
 | [Igor Cavalera](https://metalforge.io/pedals/setups/igor-cavalera) | Sepultura / Cavalera Conspiracy / Soulwax | Tama Iron Cobra | [Markdown](https://metalforge.io/llms/pedals/setups/igor-cavalera.md) |
 | [Lars Ulrich](https://metalforge.io/pedals/setups/lars-ulrich) | Metallica | Tama Iron Cobra 900 Power Glide | [Markdown](https://metalforge.io/llms/pedals/setups/lars-ulrich.md) |
 | [Mario Duplantier](https://metalforge.io/pedals/setups/mario-duplantier) | Gojira | Tama Iron Cobra 900 Power Glide | [Markdown](https://metalforge.io/llms/pedals/setups/mario-duplantier.md) |
-| [Martin Axenrot](https://metalforge.io/pedals/setups/martin-axenrot) | Opeth | Tama Iron Cobra | [Markdown](https://metalforge.io/llms/pedals/setups/martin-axenrot.md) |
 | [Matt Garstka](https://metalforge.io/pedals/setups/matt-garstka) | Animals as Leaders | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/matt-garstka.md) |
-| [Richard Christy](https://metalforge.io/pedals/setups/richard-christy) | Death / Iced Earth | Tama Iron Cobra 900 | [Markdown](https://metalforge.io/llms/pedals/setups/richard-christy.md) |
 | [Tim Yeung](https://metalforge.io/pedals/setups/tim-yeung) | Morbid Angel / Hate Eternal / Vital Remains | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/tim-yeung.md) |
 | [Tomas Haake](https://metalforge.io/pedals/setups/tomas-haake) | Meshuggah | Tama Speed Cobra | [Markdown](https://metalforge.io/llms/pedals/setups/tomas-haake.md) |
 
@@ -52,4 +53,4 @@ Source: [Tama — official site](https://www.tama.com).
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

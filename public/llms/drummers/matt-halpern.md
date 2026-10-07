@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/matt-halpern"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Matt Halpern — Drum Kit & Gear Setup
@@ -34,7 +34,7 @@ The centerpiece of the Matt Halpern drum kit is his Pearl Reference 14×6.5" Bra
 
 ## Biography
 
-Matt Halpern, born in 1984, is the drummer for progressive metal band Periphery and one of the most influential figures in the djent movement. His drumming combines polyrhythmic complexity with electronic elements and modern production techniques. Halpern's ability to navigate complex time signatures while maintaining groove has made him a role model for a new generation of progressive metal drummers. He is also an accomplished drum educator, sharing his knowledge through clinics and online platforms.
+Matt Halpern, born in 1983, is the drummer for progressive metal band Periphery and one of the most influential figures in the djent movement. His drumming combines polyrhythmic complexity with electronic elements and modern production techniques. Halpern's ability to navigate complex time signatures while maintaining groove has made him a role model for a new generation of progressive metal drummers. He is also an accomplished drum educator, sharing his knowledge through clinics and online platforms.
 
 Matt Halpern (born June 21, 1983, in Baltimore, Maryland) is an American drummer best known as the drummer for progressive metal band Periphery. As one of the architects of the "djent" movement, Halpern has become one of the most influential drummers in modern metal, known for his precise, groove-focused playing and dynamic approach.
 
@@ -117,11 +117,11 @@ Matt Halpern's drumming combines academic precision with organic groove. His pla
 
 **Q: What drum kit does Matt Halpern use?**
 
-A: Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery's complex polyrhythmic arrangements. His Pearl Reference 14"x6.5" Brass snare delivers cutting, focused crack that sits precisely within Periphery's dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan.
+A: Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery's complex polyrhythmic arrangements; the specific snare model has not been independently verified.
 
 **Q: What drum set does Matt Halpern use?**
 
-A: Matt Halpern's drum set pairs Pearl Reference Series shells and his Brass snare with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent's syncopated rhythms.
+A: Matt Halpern's drum set pairs Pearl Reference Series shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent's syncopated rhythms; the specific snare model has not been independently verified.
 
 **Q: What cymbals does Matt Halpern play?**
 
@@ -129,7 +129,7 @@ A: Matt Halpern plays Meinl Byzance Series cymbals: 14" Byzance Traditional Medi
 
 **Q: What snare does Matt Halpern use?**
 
-A: Matt Halpern's snare is a Pearl Reference 14"x6.5" Brass, giving him cutting, focused crack that sits within Periphery's dense, downtuned guitar mix.
+A: Matt Halpern's snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.
 
 **Q: What sticks does Matt Halpern use?**
 
@@ -205,4 +205,4 @@ Dated brand-endorsement timeline: [Matt Halpern's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

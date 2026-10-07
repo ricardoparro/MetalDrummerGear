@@ -18,10 +18,10 @@ Mike Portnoy founded Dream Theater; Mike Mangini won the 2010 audition. Gear, te
 
 ## Mike Mangini Setup
 
-- **Drums:** Pearl Reference Series
+- **Drums:** Pearl Reference Pure
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)
-- **Snare:** Pearl Reference 14x5" & 14x6.5" Brass
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad
+- **Snare:** Signature snare
+- **Pedals/Hardware:** Pearl Eliminator Redline Double Pedal, Roland SPD-SX Sampling Pad
 - **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP)
 
 ## Playing Style
@@ -47,10 +47,10 @@ One of progressive metal's great debates. Portnoy built Dream Theater's identity
 ## FAQ
 
 **Q: What are the main differences between Mike Portnoy's and Mike Mangini's drum kits?**
-A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian cymbals, while Mike Mangini uses Pearl Reference Series with Sabian cymbals. Portnoy plays Tama Starclassic Maple/Birch drums with Sabian HHX cymbals and Tama Iron Cobra double pedals. Mangini uses a Pearl Reference Series kit with Pearl Reference snares, Sabian HHX Evolution and AAX X-Plosion cymbals, and a Pearl Demon Drive double pedal.
+A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian cymbals, while Mike Mangini uses Pearl Reference Pure with Sabian cymbals. Portnoy plays Tama Starclassic Maple/Birch drums with Sabian HHX cymbals and Tama Iron Cobra double pedals. Mangini uses a Pearl Reference Series kit with Pearl Reference snares, Sabian HHX Evolution and AAX X-Plosion cymbals, and a Pearl Demon Drive double pedal.
 
 **Q: What drums does Mike Portnoy play vs Mike Mangini?**
-A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Mike Mangini plays Pearl Reference Series.
+A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Mike Mangini plays Pearl Reference Pure.
 
 **Q: Who is the better progressive metal drummer, Mike Portnoy or Mike Mangini?**
 A: Both are legends in their own right. One of progressive metal's great debates. See the full analysis at [metalforge.io/vs/mike-portnoy-vs-mike-mangini](https://metalforge.io/vs/mike-portnoy-vs-mike-mangini).
@@ -67,4 +67,4 @@ A: Mike Portnoy uses Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

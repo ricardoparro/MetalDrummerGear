@@ -10,17 +10,17 @@ Sepultura's Igor Cavalera vs Slayer's Dave Lombardo — two founding thrash meta
 
 ## Igor Cavalera Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Drums:** Yamaha Absolute Hybrid Maple
+- **Cymbals:** Zildjian A Custom Series
+- **Snare:** Yamaha
 - **Pedals/Hardware:** Tama Iron Cobra Double Pedal, Tama Throne
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Dave Lombardo Setup
 
-- **Drums:** Tama Starclassic Maple
+- **Drums:** Tama Starclassic Walnut/Birch
 - **Cymbals:** Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Snare:** Tama S.L.P. 14x6.5"
 - **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne
 - **Sticks:** Promark Dave Lombardo Signature 2Bx
 
@@ -67,4 +67,4 @@ A: The two converged on remarkably similar rigs from 2007-2018: Igor Cavalera us
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

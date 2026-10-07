@@ -16,7 +16,7 @@ Released on September 4, 2015, The Book of Souls is Iron Maiden's sixteenth stud
 
 The album was recorded at Guillaume Tell Studio in Paris between September and December 2014, with the band, as Nicko McBrain has described it, writing much of the record on the spot in the studio rather than arriving with fully formed songs. Weeks after recording wrapped, vocalist Bruce Dickinson was diagnosed with a Stage 3 tumor at the base of his tongue in early 2015. He underwent seven weeks of radiation and chemotherapy and was declared cancer-free in May 2015 — mere months before the album's September release. The band delayed the supporting tour to allow Dickinson to fully recover, turning The Book of Souls' rollout into one of Iron Maiden's most emotionally charged album cycles.
 
-For Nicko McBrain, The Book of Souls arrived at a moment of gear transition. After business difficulties with longtime drum partner Premier came to a head in mid-2014, Nicko returned to Sonor — the brand he had played from the late 1980s until 1992 — recording the album on a new Sonor SQ2 kit built, in his words, to 'exactly what I had twenty-two years ago: same sizes, same wood.' The album also contains 'Empire of the Clouds,' an 18-minute, piano-led epic written by Dickinson that became the longest song in Iron Maiden's catalog and one of the most demanding, dynamically varied pieces Nicko has ever recorded.
+For Nicko McBrain, The Book of Souls found him five years into his tenure on the Sonor SQ2 kit he'd switched to in 2010 after a quarter-century with Yamaha — a settled, well-established setup rather than a new one. The album also contains 'Empire of the Clouds,' an 18-minute, piano-led epic written by Dickinson that became the longest song in Iron Maiden's catalog and one of the most demanding, dynamically varied pieces Nicko has ever recorded.
 
 The Book of Souls closes the progressive arc that runs from The Final Frontier (2010) through to Senjutsu (2021) — and stands as one of the most historically significant records of Nicko McBrain's four-decade tenure behind the kit.
 
@@ -29,27 +29,27 @@ The Book of Souls closes the progressive arc that runs from The Final Frontier (
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium-high tension, tuned for natural resonance rather than a tight, gated attack
 
-### Nicko McBrain's Sonor SQ2 — A Homecoming
+### Nicko McBrain's Sonor SQ2 — An Established Setup
 
-After a long run with Premier, business troubles in the middle of 2014 left Nicko McBrain without a drum manufacturer just as Iron Maiden were about to record The Book of Souls. He called Sonor — the company he had left in 1992 — and asked for a kit built to 'exactly what I had twenty-two years ago: same sizes, same wood.' The result was a new Sonor SQ2, finished in natural wood with gold-tone hardware, that put Nicko back on the brand he'd started his post-Trust, post-Streetwalkers career with.
+By The Book of Souls, Nicko McBrain had been playing a Sonor SQ2 kit since 2010, when he switched to the brand after twenty-five years with Yamaha. For the double album, Sonor built him an expanded kit, finished in natural wood with gold-tone hardware, scaled up well beyond the setup he'd used on The Final Frontier.
 
 The configuration was the largest of Nicko's recording career. In interviews around the album, he described a nine-tom setup spread across the kit — six rack toms (6, 8, 10, 12, 13, and 14 inch) plus three floor toms (16, 18, and 20 inch) — joking that there was 'nowhere to put anything' once cymbals were added. Not every tom is used constantly; the expanded array exists to give Nicko a full melodic and textural palette across a double album that ranges from the galloping 'Speed of Light' to the wide-open, near-ambient drum entrances of 'Empire of the Clouds.'
 
 Producer Kevin Shirley miked the Sonor kit with a deliberately natural, wide-open approach. As Nicko put it, 'you don't want to start taping things and take the ring out of the drums' — Shirley favored open mic technique over heavy gating, varying compression from track to track to preserve the kit's natural resonance rather than flattening it into a uniform metal-record tone.
 
-The single 22-inch bass drum carried on unchanged through the brand switch. Nicko has always credited his single-pedal approach to a career built on locking in with bass players rather than chasing raw speed — a philosophy The Book of Souls' eleven tracks, several exceeding ten minutes, put to the test once again.
+The single 22-inch bass drum carried on unchanged, as it has through every era of Nicko's career. Nicko has always credited his single-pedal approach to a career built on locking in with bass players rather than chasing raw speed — a philosophy The Book of Souls' eleven tracks, several exceeding ten minutes, put to the test once again.
 
 ### The Backbone of a Double Album
 
-Nicko McBrain's return to Sonor for The Book of Souls carried over to his snare drum — a 14 by 6.5-inch maple-shell signature model built to the same specifications he had relied on through the Premier years. The depth and shell material stayed consistent through the brand change because they represented Nicko's personal sound, not a manufacturer's house tone.
+Nicko McBrain's Sonor endorsement, in place since 2010, carried over to his snare drum on The Book of Souls — a 14 by 6.5-inch maple-shell signature model built to the same specifications he had relied on since the switch from Yamaha. The depth and shell material stayed consistent across his career because they represented Nicko's personal sound, not a manufacturer's house tone.
 
 Across a double album with wildly varying textures — from the driving verses of 'The Red and the Black' to the hushed, room-heavy passages of 'Empire of the Clouds' — the snare needed to sit convincingly in both aggressive and atmospheric contexts. Kevin Shirley's open-mic recording philosophy let the snare's natural crack and shell resonance carry through without artificial tightening, giving it a bigger, more room-driven character than the tighter, more compressed snare sounds on some of Iron Maiden's earlier 2000s albums.
 
 On the title track, 'The Book of Souls,' the snare works in tandem with a 22-inch heavy china cymbal that Nicko deployed on the off-beat — a detail he later said in interviews simply 'felt right' for the song's tribal, Mayan-influenced groove.
 
-### Paiste Signature: The One Constant Through the Brand Switch
+### Paiste Signature: The One Constant Across Every Drum-Brand Switch
 
-While Nicko McBrain's drums changed manufacturers for The Book of Souls, his cymbals did not — Paiste Signature remained his setup of choice, the same endorsement relationship that had defined his cymbal sound since the late 1990s. That continuity mattered: across a brand switch on the drums themselves, the Paiste Signature series kept the fundamental character of Nicko's cymbal voice consistent for longtime fans.
+While Nicko McBrain's drums have changed manufacturers several times across his career, his cymbals did not — Paiste Signature remained his setup of choice on The Book of Souls, the same endorsement relationship that had defined his cymbal sound since the late 1990s. That continuity mattered: across brand switches on the drums themselves, the Paiste Signature series kept the fundamental character of Nicko's cymbal voice consistent for longtime fans.
 
 The 22-inch Heavy China was the standout gear choice on this record. On the title track, 'The Book of Souls,' Nicko used it on the off-beat to drive the song's tribal, Mayan-mythology-inspired groove — a specific, deliberate choice he later described simply as what 'felt right' for that particular arrangement, rather than a default pattern carried over from other songs.
 
@@ -57,13 +57,13 @@ The expanded three-crash setup (16, 18, and 19 inch) and 22-inch Power Ride, bot
 
 For Iron Maiden's subsequent Book of Souls World Tour, Paiste built Nicko an elaborate Signature Reflector cymbal set inspired by the tour's Mayan stage design — but that expanded touring rig came after this album's studio sessions, which relied on his existing Signature setup.
 
-## A Comeback Album in More Ways Than One
+## A Second Chance for Iron Maiden
 
-The Book of Souls is a comeback story on two fronts. For Nicko McBrain, it marked a return to Sonor after business troubles ended his long run with Premier, and the largest, most ambitious drum kit of his recording career. For Iron Maiden as a whole, its September 2015 release followed Bruce Dickinson's recovery from a serious cancer diagnosis discovered weeks after recording wrapped — turning the album's arrival into a genuine second chance, celebrated by a UK #1 debut and the band's strongest US first week in over two decades.
+The Book of Souls is, first and foremost, a second-chance story for Iron Maiden. Its September 2015 release followed Bruce Dickinson's recovery from a serious cancer diagnosis discovered weeks after recording wrapped — turning the album's arrival into a genuine comeback, celebrated by a UK #1 debut and the band's strongest US first week in over two decades. For Nicko McBrain, it also meant the largest, most ambitious drum kit of his recording career, five years into his Sonor endorsement.
 
-Across 92 minutes and 11 tracks, Nicko's Sonor SQ2 kit — built to match the specifications of the Sonor he'd played in the early 1990s — carried the record's full emotional and dynamic range: the driving gallop of 'Speed of Light,' the tribal off-beat china groove of the title track, the 13-minute live favorite 'The Red and the Black,' and the patient, wide-open 18 minutes of 'Empire of the Clouds,' the longest song Iron Maiden has ever recorded.
+Across 92 minutes and 11 tracks, Nicko's Sonor SQ2 kit — the setup he'd played since 2010 — carried the record's full emotional and dynamic range: the driving gallop of 'Speed of Light,' the tribal off-beat china groove of the title track, the 13-minute live favorite 'The Red and the Black,' and the patient, wide-open 18 minutes of 'Empire of the Clouds,' the longest song Iron Maiden has ever recorded.
 
-The Paiste Signature cymbals and Vic Firth signature sticks carried through unchanged, proof that Nicko's core musical voice survived a manufacturer switch intact. The single bass drum pedal, as ever, powered every gallop and fill.
+The Paiste Signature cymbals and Vic Firth signature sticks carried through unchanged, as they had for two decades. The single bass drum pedal, as ever, powered every gallop and fill.
 
 The Book of Souls closes the arc that runs from The Final Frontier through to Senjutsu — and stands as one of the most historically important records of Nicko McBrain's four-decade career, not for any single technical feat, but for the sheer scale of what it took to make it, and the circumstances the band overcame to bring it home.
 
@@ -73,9 +73,9 @@ The Book of Souls closes the arc that runs from The Final Frontier through to Se
 - UK #1 (5th UK chart-topper), US #4 Billboard 200 — their best US first week since 1991
 - Recorded at Guillaume Tell Studio, Paris, September–December 2014
 - Bruce Dickinson diagnosed with Stage 3 tongue/throat cancer weeks after recording wrapped; declared cancer-free May 2015
-- Nicko McBrain's return to Sonor after Premier — recorded on a new Sonor SQ2 kit
+- Nicko McBrain's fifth year on the Sonor SQ2 kit he'd switched to in 2010 — not a new endorsement
 - 'Empire of the Clouds' (18:01) — the longest song in Iron Maiden's history
-- Sonor SQ2 — Nicko's return to the brand after 22 years with Premier
+- Sonor SQ2 — the kit Nicko has played since switching from Yamaha in 2010
 - Nine-tom configuration (6 rack + 3 floor) — the largest recording setup of his career
 - Natural wide-open miking from Kevin Shirley preserved the kit's ring rather than gating it
 - Single 22-inch bass drum — unchanged through the equipment switch
@@ -86,11 +86,11 @@ The Book of Souls closes the arc that runs from The Final Frontier through to Se
 
 **Q: What drums does Nicko McBrain use on The Book of Souls?**
 
-A: Nicko McBrain recorded The Book of Souls (2015) on a new Sonor SQ2 kit — his return to Sonor after leaving Premier following business difficulties in mid-2014. He requested the kit be built to match the specifications of the Sonor he played in the early 1990s: 'same sizes, same wood.' The configuration was the largest of his recording career, with a nine-tom array (six rack toms and three floor toms) around a single 22-inch bass drum. His snare was a Sonor Nicko McBrain Signature, 14 by 6.5 inches, maple shell. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete career gear history.
+A: Nicko McBrain recorded The Book of Souls (2015) on a Sonor SQ2 kit — the setup he'd played since switching from Yamaha in 2010, five years before this album. For the double album, Sonor built him the largest configuration of his recording career: a nine-tom array (six rack toms and three floor toms) around a single 22-inch bass drum. His snare was a Sonor Nicko McBrain Signature, 14 by 6.5 inches, maple shell. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete career gear history.
 
-**Q: Why did Nicko McBrain switch from Premier back to Sonor?**
+**Q: Why did Nicko McBrain switch from Yamaha to Sonor?**
 
-A: In the middle of 2014, business difficulties at Premier left Nicko McBrain without a drum manufacturer just as Iron Maiden were preparing to record The Book of Souls. He contacted Sonor — the company he had played from the late 1980s until 1992, before moving to Premier — and the two sides worked out a new endorsement deal. Nicko asked for a kit built to match his old early-1990s Sonor specifications, and Sonor has remained his drum manufacturer ever since, carrying through to Senjutsu (2021). See the [Senjutsu drum setup article](/articles/senjutsu-drum-setup) for how the Sonor relationship evolved into the SQ1.
+A: Nicko McBrain played a Yamaha Recording Custom kit for twenty-five years, from 1985 through The Final Frontier (2010). Later in 2010 he switched to Sonor, signing on for the SQ2 signature kit used on The Book of Souls (2015). Sonor remained his drum manufacturer until 2019, when he moved to British Drum Co. — though his Sonor Nicko McBrain Signature snare carried over into that kit, as heard on Senjutsu (2021). See the [Senjutsu drum setup article](/articles/senjutsu-drum-setup) for how the Sonor relationship carried forward.
 
 **Q: Was The Book of Souls recorded before or after Bruce Dickinson's cancer diagnosis?**
 
@@ -122,4 +122,4 @@ A: The Book of Souls (2015) is Iron Maiden's first studio double album, running 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

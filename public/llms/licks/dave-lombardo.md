@@ -116,7 +116,6 @@ After the thunderstorm intro comes one of metal's most recognizable double bass 
 
 - Pearl Maxwin Kit (drums)
 - Paiste RUDE Cymbals (cymbals)
-- DW 5000 Pedals (pedals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove](https://metalforge.io/techniques/groove), [Dynamics](https://metalforge.io/techniques/dynamics)
 
@@ -244,4 +243,4 @@ Dave Lombardo's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

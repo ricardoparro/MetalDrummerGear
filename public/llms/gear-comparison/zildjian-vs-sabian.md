@@ -1,7 +1,7 @@
 # Zildjian vs Sabian Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Zildjian and Sabian cymbals used by pro metal drummers.
-> Last updated: 2026-09-10
+> Last updated: 2026-10-07
 
 The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX/HHX, sound profiles, durability, pricing, and which cymbals top metal drummers actually use.
 
@@ -9,13 +9,13 @@ The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX
 
 ## Which Metal Drummers Use Zildjian?
 
-Pro metal drummers who endorse Zildjian include: **Lars Ulrich (Metallica), Mario Duplantier (Gojira), Jay Weinberg (Slipknot), Hellhammer (Mayhem/Dimmu Borgir), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349)**.
+Pro metal drummers who endorse Zildjian include: **Lars Ulrich (Metallica), Mario Duplantier (Gojira), Jay Weinberg (Slipknot), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349)**.
 
 Zildjian is particularly well-suited for: Thrash metal, black metal, nu-metal, drummers who need bright cut.
 
 ## Which Metal Drummers Use Sabian?
 
-Pro metal drummers who endorse Sabian include: **Tomas Haake (Meshuggah), Gene Hoglan (Death/Testament), Vinnie Paul (Pantera), Mike Portnoy (Dream Theater), Ray Luzier (Korn), Scott Travis (Judas Priest), Richard Christy (Death/Charred Walls)**.
+Pro metal drummers who endorse Sabian include: **Tomas Haake (Meshuggah), Gene Hoglan (Death/Testament), Vinnie Paul (Pantera), Mike Portnoy (Dream Theater), Ray Luzier (Korn), Richard Christy (Death/Charred Walls)**.
 
 Sabian is particularly well-suited for: Progressive metal, djent, groove metal, death metal.
 
@@ -95,16 +95,16 @@ Choose Sabian if:
 A: Zildjian for cutting brightness (thrash, black metal). Sabian for complex warmth (prog, djent, groove).
 
 **Q: Which metal drummers endorse Zildjian?**
-A: Zildjian is endorsed by notable metal drummers including Lars Ulrich (Metallica), Mario Duplantier (Gojira), Jay Weinberg (Slipknot), Hellhammer (Mayhem/Dimmu Borgir), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349). The brand is especially popular for Thrash metal, black metal, nu-metal, drummers who need bright cut.
+A: Zildjian is endorsed by notable metal drummers including Lars Ulrich (Metallica), Mario Duplantier (Gojira), Jay Weinberg (Slipknot), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349). The brand is especially popular for Thrash metal, black metal, nu-metal, drummers who need bright cut.
 
 **Q: Which metal drummers endorse Sabian?**
-A: Sabian is endorsed by notable metal drummers including Tomas Haake (Meshuggah), Gene Hoglan (Death/Testament), Vinnie Paul (Pantera), Mike Portnoy (Dream Theater), Ray Luzier (Korn), Scott Travis (Judas Priest), Richard Christy (Death/Charred Walls). The brand is especially popular for Progressive metal, djent, groove metal, death metal.
+A: Sabian is endorsed by notable metal drummers including Tomas Haake (Meshuggah), Gene Hoglan (Death/Testament), Vinnie Paul (Pantera), Mike Portnoy (Dream Theater), Ray Luzier (Korn), Richard Christy (Death/Charred Walls). The brand is especially popular for Progressive metal, djent, groove metal, death metal.
 
 **Q: How do Zildjian and Sabian price points compare?**
 A: Zildjian (A Custom) is priced at €1,500 - €2,500 (full setup). Sabian (AAX) runs €1,400 - €2,300 (full setup). Sabian offers marginally better value, especially at mid-tier. Both are investments that last decades.
 
 **Q: Which cymbals brand is more popular among metal drummers?**
-A: Based on MetalForge's tracking data, Zildjian is used by 8 documented metal drummers and Sabian by 7 in this comparison dataset. Zildjian leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/zildjian-vs-sabian](https://metalforge.io/compare/zildjian-vs-sabian).
+A: Based on MetalForge's tracking data, Zildjian is used by 7 documented metal drummers and Sabian by 6 in this comparison dataset. Zildjian leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/zildjian-vs-sabian](https://metalforge.io/compare/zildjian-vs-sabian).
 
 ---
 

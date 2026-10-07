@@ -1,33 +1,33 @@
 # What Pedals Does Flo Mounier Use? Full Setup
 
-**Band:** Cryptopsy | **Configuration:** double | **Drive Type:** direct
+**Band:** Cryptopsy | **Configuration:** double | **Drive Type:** chain
 
 ---
 
 ## Direct Answer
 
-Flo Mounier plays a Pearl Demon Drive double pedal (direct-drive).
+Flo Mounier plays a Tama Speed Cobra 910 double pedal (chain-drive).
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
-| Brand | Pearl |
-| Model | Demon Drive |
+| Brand | Tama |
+| Model | Speed Cobra 910 |
 | Configuration | double |
-| Drive Type | direct |
+| Drive Type | chain |
 
-Verified roster hardware entry: "Pearl Demon Drive Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Tama Speed Cobra 910 Twin Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
-- Direct drive: Rigid rod, zero slack — the most immediate, "cam-less" connection between footboard and beater. The fastest and most consistent response of the three, with the least unaccounted-for sideways flex.
+- Chain drive: Slight flex/give — a natural, slightly cushioned feel most drummers find comfortable. A small amount of lag exists (every chain link is a point of contact), though it's effectively imperceptible in normal play.
 - Double pedal: A primary pedal mounted on the hoop plus a slave pedal, linked by a drive shaft that runs along the floor and turns a second beater on the same head. Best suited to blast beats, sustained sixteenth-note kick patterns, and virtually every other modern metal subgenre.
 
 ## FAQ
 
 **Q: What pedals does Flo Mounier use?**
-A: Flo Mounier plays a Pearl Demon Drive double pedal (direct-drive).
+A: Flo Mounier plays a Tama Speed Cobra 910 double pedal (chain-drive).
 
 ## More Resources
 
@@ -38,4 +38,4 @@ A: Flo Mounier plays a Pearl Demon Drive double pedal (direct-drive).
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -17,7 +17,7 @@ Mario's blast beats are distinctive - they serve the song's groove while maintai
 
 ## Album
 
-Full drum-setup breakdown: [Magma Drum Setup: Mario Duplantier's Pearl Reference Pure Breakthrough](https://metalforge.io/articles/magma-drum-setup)
+Full drum-setup breakdown: [Magma Drum Setup: Mario Duplantier's Tama Bubinga Breakthrough](https://metalforge.io/articles/magma-drum-setup)
 
 ## Video
 
@@ -50,4 +50,4 @@ tab/lesson tempo consensus (Ultimate Guitar, Songsterr, drum-cover community) cr
 
 **More resources:** [Metal Songs Database](https://metalforge.io/songs) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

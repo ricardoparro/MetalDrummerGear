@@ -1,16 +1,16 @@
 # Top 10 Metal Drummers Playing Meinl Cymbals — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-meinl-cymbals)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-meinl-cymbals)
 
 ---
 
 ## Overview
 
-Meinl is the third cymbal brand in MetalForge's gear-angle ranking series, following the companion Zildjian and Sabian lists, and its Byzance Series carries a distinct identity of its own: hand-hammered, traditionally-finished bronze built around a darker, more complex overtone than the brighter A Custom or AAX lines that dominate the other two rankings. Brann Dailor pairs a brighter Brilliant-finish Byzance crash pair with dark hi-hats and a Ghost Ride for Mastodon's expansive, melodic tom work, while Chris Adler and Matt Halpern both lean on the fully dark Byzance configuration — dark hi-hats, dark crashes, a Transition Ride — that has become the default Meinl setup for groove metal and djent alike. Matt Greiner runs the deepest Byzance rig on this list, a five-piece spread including dual splashes for August Burns Red's dense metalcore arrangements, and Derek Roddy is the one drummer here who mixes in Meinl's heavier Mb20 line alongside Byzance for the extra crash weight his blast-beat-driven death metal demands. Hannes Grossmann and Martin Axenrot both favor a leaner, three-piece Byzance Traditional setup for technical death metal and progressive death metal respectively, while Navene Koperweis, Chris Turner, and Matt Garstka round out the list with the dual-hi-hat, dual-ride configurations common among the current wave of progressive and djent-adjacent drummers. Every entry here is backed by a specific, model-level Meinl relationship documented in MetalForge's own gear data, ranked by how extensive and distinctive that Byzance setup is.
+Meinl is the third cymbal brand in MetalForge's gear-angle ranking series, following the companion Zildjian and Sabian lists, and its Byzance Series carries a distinct identity of its own: hand-hammered, traditionally-finished bronze built around a darker, more complex overtone than the brighter A Custom or AAX lines that dominate the other two rankings. Brann Dailor pairs a brighter Brilliant-finish Byzance crash pair with dark hi-hats and a Ghost Ride for Mastodon's expansive, melodic tom work, while Chris Adler and Matt Halpern both lean on the fully dark Byzance configuration — dark hi-hats, dark crashes, a Transition Ride — that has become the default Meinl setup for groove metal and djent alike. Matt Greiner runs the deepest Byzance rig on this list, a five-piece spread including dual splashes for August Burns Red's dense metalcore arrangements, and Derek Roddy is the one drummer here who mixes in Meinl's heavier Mb20 line alongside Byzance for the extra crash weight his blast-beat-driven death metal demands. Hannes Grossmann favors a leaner, three-piece Byzance Traditional setup for technical death metal, while Navene Koperweis, Chris Turner, and Matt Garstka round out the list with the dual-hi-hat, dual-ride configurations common among the current wave of progressive and djent-adjacent drummers. Every entry here is backed by a specific, model-level Meinl relationship documented in MetalForge's own gear data, ranked by how extensive and distinctive that Byzance setup is.
 
 **Keywords:** meinl cymbals metal, meinl byzance metal drummers, who plays meinl cymbals, meinl byzance dark, metal drummer cymbal brands
 
-The metal drummers with verified Meinl cymbal setups, ranked. Brann Dailor's Byzance Brilliant crashes, Chris Adler, Matt Halpern, Matt Greiner's five-piece Byzance rig, Derek Roddy's Byzance/Mb20 mix, Hannes Grossmann, Martin Axenrot, Navene Koperweis, Chris Turner, and Matt Garstka — sourced from MetalForge's own gear guides, not guesswork.
+The metal drummers with verified Meinl cymbal setups, ranked. Brann Dailor's Byzance Brilliant crashes, Chris Adler, Matt Halpern, Matt Greiner's five-piece Byzance rig, Derek Roddy's Byzance/Mb20 mix, Hannes Grossmann, Navene Koperweis, Chris Turner, and Matt Garstka — sourced from MetalForge's own gear guides, not guesswork.
 
 ---
 
@@ -78,39 +78,31 @@ Hannes Grossmann (Obscura / Necrophagist) earns rank #6 for: meinl byzance tradi
 
 Full drummer profile: [Hannes Grossmann on MetalForge](https://metalforge.io/drummer/hannes-grossmann)
 
-### 7. Drummer #62
-
-**Band:** Unknown
-**Highlight:** Meinl Byzance Traditional — Opeth's progressive death metal texture
-**Why ranked here:** Martin Axenrot runs a Byzance Traditional setup — 14" traditional medium hi-hats, 16", 18", and 19" crashes, a 22" Traditional Ride, and an 18" China — sized for the graduated crash weights Opeth's shifts between progressive death metal aggression and mellower progressive rock passages demand. The extra 16" crash gives Axenrot a lighter accent option between his hi-hats and his larger crashes that several other Meinl setups on this list don't include. Axenrot earns rank #7 for a Meinl rig built specifically around Opeth's wide dynamic range.
-
-Drummer #62 (Unknown) earns rank #7 for: meinl byzance traditional — opeth's progressive death metal texture. Martin Axenrot runs a Byzance Traditional setup — 14" traditional medium hi-hats, 16", 18", and 19" crashes, a 22" Traditional Ride, and an 18" China — sized for the graduated crash weights Opeth's shifts between progressive death metal aggression and mellower progressive rock passages demand. The extra 16" crash gives Axenrot a lighter accent option between his hi-hats and his larger crashes that several other Meinl setups on this list don't include. Axenrot earns rank #7 for a Meinl rig built specifically around Opeth's wide dynamic range..
-
-### 8. Navene Koperweis
+### 7. Navene Koperweis
 
 **Band:** Entheos / ex-Animals as Leaders
 **Highlight:** Meinl Byzance Series — Entheos's progressive technical death metal wash
-**Why ranked here:** Navene Koperweis runs a dual-hi-hat Meinl Byzance setup — 15" dual hi-hats, 18" and 19" Extra Dry Medium crashes, a 21" Transition Ride, an 18" Extra Dry China, and a 10" splash — for the progressive, technical death metal he plays with Entheos and formerly with Animals as Leaders. The added splash gives Koperweis a quick, bright accent that cuts through the same dense, polymetric arrangements his former Animals as Leaders bandmate Matt Garstka also builds his Meinl setup around. Koperweis earns rank #8 for a Meinl rig purpose-built for progressive technical death metal's dynamic range.
+**Why ranked here:** Navene Koperweis runs a dual-hi-hat Meinl Byzance setup — 15" dual hi-hats, 18" and 19" Extra Dry Medium crashes, a 21" Transition Ride, an 18" Extra Dry China, and a 10" splash — for the progressive, technical death metal he plays with Entheos and formerly with Animals as Leaders. The added splash gives Koperweis a quick, bright accent that cuts through the same dense, polymetric arrangements his former Animals as Leaders bandmate Matt Garstka also builds his Meinl setup around. Koperweis earns rank #7 for a Meinl rig purpose-built for progressive technical death metal's dynamic range.
 
-Navene Koperweis (Entheos / ex-Animals as Leaders) earns rank #8 for: meinl byzance series — entheos's progressive technical death metal wash. Navene Koperweis runs a dual-hi-hat Meinl Byzance setup — 15" dual hi-hats, 18" and 19" Extra Dry Medium crashes, a 21" Transition Ride, an 18" Extra Dry China, and a 10" splash — for the progressive, technical death metal he plays with Entheos and formerly with Animals as Leaders. The added splash gives Koperweis a quick, bright accent that cuts through the same dense, polymetric arrangements his former Animals as Leaders bandmate Matt Garstka also builds his Meinl setup around. Koperweis earns rank #8 for a Meinl rig purpose-built for progressive technical death metal's dynamic range..
+Navene Koperweis (Entheos / ex-Animals as Leaders) earns rank #7 for: meinl byzance series — entheos's progressive technical death metal wash. Navene Koperweis runs a dual-hi-hat Meinl Byzance setup — 15" dual hi-hats, 18" and 19" Extra Dry Medium crashes, a 21" Transition Ride, an 18" Extra Dry China, and a 10" splash — for the progressive, technical death metal he plays with Entheos and formerly with Animals as Leaders. The added splash gives Koperweis a quick, bright accent that cuts through the same dense, polymetric arrangements his former Animals as Leaders bandmate Matt Garstka also builds his Meinl setup around. Koperweis earns rank #7 for a Meinl rig purpose-built for progressive technical death metal's dynamic range..
 
 Full drummer profile: [Navene Koperweis on MetalForge](https://metalforge.io/drummer/navene-koperweis)
 
-### 9. Drummer #40
+### 8. Drummer #40
 
 **Band:** Unknown
 **Highlight:** Meinl Byzance Series — progressive metalcore's dual-ride setup
-**Why ranked here:** Chris Turner runs a Meinl Byzance setup — 15" dual hi-hats, 18" and 20" Extra Dry Medium crashes, and a 22" dual ride, with an 18" Extra Dry China — built for Oceans Ate Alaska's progressive metalcore, where the dual ride gives him two distinct stick-response zones for switching between driving verse patterns and more textured breakdown sections. Turner earns rank #9 for a Meinl setup that mirrors the dual-hi-hat, dual-ride template several other progressive-leaning drummers on this list also favor.
+**Why ranked here:** Chris Turner runs a Meinl Byzance setup — 15" dual hi-hats, 18" and 20" Extra Dry Medium crashes, and a 22" dual ride, with an 18" Extra Dry China — built for Oceans Ate Alaska's progressive metalcore, where the dual ride gives him two distinct stick-response zones for switching between driving verse patterns and more textured breakdown sections. Turner earns rank #8 for a Meinl setup that mirrors the dual-hi-hat, dual-ride template several other progressive-leaning drummers on this list also favor.
 
-Drummer #40 (Unknown) earns rank #9 for: meinl byzance series — progressive metalcore's dual-ride setup. Chris Turner runs a Meinl Byzance setup — 15" dual hi-hats, 18" and 20" Extra Dry Medium crashes, and a 22" dual ride, with an 18" Extra Dry China — built for Oceans Ate Alaska's progressive metalcore, where the dual ride gives him two distinct stick-response zones for switching between driving verse patterns and more textured breakdown sections. Turner earns rank #9 for a Meinl setup that mirrors the dual-hi-hat, dual-ride template several other progressive-leaning drummers on this list also favor..
+Drummer #40 (Unknown) earns rank #8 for: meinl byzance series — progressive metalcore's dual-ride setup. Chris Turner runs a Meinl Byzance setup — 15" dual hi-hats, 18" and 20" Extra Dry Medium crashes, and a 22" dual ride, with an 18" Extra Dry China — built for Oceans Ate Alaska's progressive metalcore, where the dual ride gives him two distinct stick-response zones for switching between driving verse patterns and more textured breakdown sections. Turner earns rank #8 for a Meinl setup that mirrors the dual-hi-hat, dual-ride template several other progressive-leaning drummers on this list also favor..
 
-### 10. Matt Garstka
+### 9. Matt Garstka
 
 **Band:** Animals as Leaders
 **Highlight:** Meinl Byzance Series — Animals as Leaders' instrumental precision
-**Why ranked here:** Matt Garstka runs a three-piece Meinl Byzance setup — 15" dual hi-hats, 18" and 20" Extra Dry Medium crashes, and a 22" dual ride — the leanest configuration on this list, reflecting Animals as Leaders' instrumental, odd-meter-driven progressive metal where precision and note clarity matter more than a large number of auxiliary cymbals. Garstka earns rank #10 for proving a stripped-down Meinl setup can anchor some of metal's most technically demanding material.
+**Why ranked here:** Matt Garstka runs a three-piece Meinl Byzance setup — 15" dual hi-hats, 18" and 20" Extra Dry Medium crashes, and a 22" dual ride — the leanest configuration on this list, reflecting Animals as Leaders' instrumental, odd-meter-driven progressive metal where precision and note clarity matter more than a large number of auxiliary cymbals. Garstka earns rank #9 for proving a stripped-down Meinl setup can anchor some of metal's most technically demanding material.
 
-Matt Garstka (Animals as Leaders) earns rank #10 for: meinl byzance series — animals as leaders' instrumental precision. Matt Garstka runs a three-piece Meinl Byzance setup — 15" dual hi-hats, 18" and 20" Extra Dry Medium crashes, and a 22" dual ride — the leanest configuration on this list, reflecting Animals as Leaders' instrumental, odd-meter-driven progressive metal where precision and note clarity matter more than a large number of auxiliary cymbals. Garstka earns rank #10 for proving a stripped-down Meinl setup can anchor some of metal's most technically demanding material..
+Matt Garstka (Animals as Leaders) earns rank #9 for: meinl byzance series — animals as leaders' instrumental precision. Matt Garstka runs a three-piece Meinl Byzance setup — 15" dual hi-hats, 18" and 20" Extra Dry Medium crashes, and a 22" dual ride — the leanest configuration on this list, reflecting Animals as Leaders' instrumental, odd-meter-driven progressive metal where precision and note clarity matter more than a large number of auxiliary cymbals. Garstka earns rank #9 for proving a stripped-down Meinl setup can anchor some of metal's most technically demanding material..
 
 Full drummer profile: [Matt Garstka on MetalForge](https://metalforge.io/drummer/matt-garstka)
 
@@ -119,7 +111,7 @@ Full drummer profile: [Matt Garstka on MetalForge](https://metalforge.io/drummer
 ## Frequently Asked Questions
 
 **Q: Which metal drummers play Meinl cymbals?**
-A: Brann Dailor (Mastodon) mixes dark and Brilliant-finish Byzance cymbals, Chris Adler (Lamb of God) and Matt Halpern (Periphery) both run fully dark Byzance setups, and Matt Greiner (August Burns Red) plays the most extensive five-piece Byzance rig in MetalForge's data. Derek Roddy (Hate Eternal/Nile), Hannes Grossmann (Obscura), Martin Axenrot (Opeth), Navene Koperweis (Entheos), Chris Turner (Oceans Ate Alaska), and Matt Garstka (Animals as Leaders) round out MetalForge's most extensively documented Meinl artists.
+A: Brann Dailor (Mastodon) mixes dark and Brilliant-finish Byzance cymbals, Chris Adler (Lamb of God) and Matt Halpern (Periphery) both run fully dark Byzance setups, and Matt Greiner (August Burns Red) plays the most extensive five-piece Byzance rig in MetalForge's data. Derek Roddy (Hate Eternal/Nile), Hannes Grossmann (Obscura), Navene Koperweis (Entheos), Chris Turner (Oceans Ate Alaska), and Matt Garstka (Animals as Leaders) round out MetalForge's most extensively documented Meinl artists.
 
 **Q: What makes Meinl Byzance cymbals different from Zildjian or Sabian?**
 A: Meinl's Byzance Series is hand-hammered using a traditional B20 bronze process similar to its competitors, but Meinl leans harder into the darker end of the tonal spectrum by default — most of the drummers on this list run a "Dark" or "Traditional" finish rather than the brighter A Custom or AAX lines that dominate MetalForge's Zildjian and Sabian rankings. That darker default voice is why Byzance shows up so often among progressive, djent, and technical death metal drummers who want a complex wash rather than a bright, cutting attack.
@@ -145,4 +137,4 @@ A: Derek Roddy pairs Meinl's nuanced Byzance line (hi-hats and china) with the l
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

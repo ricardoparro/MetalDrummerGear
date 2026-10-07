@@ -120,7 +120,7 @@ A: Daniel Erlandsson played Sabian cymbals on Wages of Sin, combining the AA and
 
 - [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
 - [Daniel Erlandsson's Drum Setup on Arch Enemy's Anthems of Rebellion (2003)](https://metalforge.io/articles/anthems-of-rebellion-drum-setup)
-- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+- [Daniel Erlandsson's Drum Setup — Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
 - [At the Gates 'Slaughter of the Soul' Drum Setup — Adrian Erlandsson's 1995 Gear](https://metalforge.io/articles/slaughter-of-the-soul-drum-setup)
 
 ## Related Drummers
@@ -131,4 +131,4 @@ A: Daniel Erlandsson played Sabian cymbals on Wages of Sin, combining the AA and
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

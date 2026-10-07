@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/frost"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Frost — Drum Kit & Gear Setup
@@ -37,7 +37,7 @@ Zildjian A Custom and K Series cymbals define the tonal character of the Frost d
 
 Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and 1349 since 2001. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.
 
-Kjetil-Vidar Haraldstad (born June 28, 1973, in Hammerfest, Norway), known professionally as Frost, is a Norwegian drummer and one of the most iconic figures in Scandinavian black metal. He is the longtime drummer for Satyricon since 1993 and 1349 since the band's formation in 2001.
+Kjetil-Vidar Haraldstad (born June 28, 1973, in Øyer, Norway), known professionally as Frost, is a Norwegian drummer and one of the most iconic figures in Scandinavian black metal. He is the longtime drummer for Satyricon since 1993 and 1349 since the band's formation in 2001.
 
 Frost is renowned for his blistering speed, metronomic precision, and seemingly inhuman stamina. His blast beats and hyperspeed drumming have set the technical standard for black metal percussion, combining raw ferocity with disciplined execution. Despite the often chaotic and raw nature of black metal, Frost brings a level of technicality and consistency that has influenced countless extreme metal drummers worldwide.
 
@@ -135,11 +135,11 @@ A: Frost's drum kit is a Tama Starclassic Bubinga shell pack, built around a Tam
 
 **Q: What drum set does Frost play?**
 
-A: Frost's drum set pairs Tama Starclassic Bubinga shells and his 14"x5.5" snare with Zildjian A Custom and K Series cymbals and a Tama Iron Cobra Power Glide pedal built for his hyperspeed blast beats.
+A: Frost's drum set pairs Tama Starclassic Bubinga shells and his 14"x5.5" snare with Zildjian A Series cymbals and a Tama Iron Cobra Power Glide pedal built for his hyperspeed blast beats.
 
 **Q: What cymbals does Frost use?**
 
-A: Frost uses Zildjian A Custom and K Series cymbals, including 14" A Custom Hi-Hats, 16", 17", and 18" A Custom Crashes, a 22" K Custom Dark Ride, and an 18" K China.
+A: Frost uses Zildjian A Series cymbals.
 
 **Q: What snare drum does Frost use?**
 
@@ -159,7 +159,6 @@ A: Frost uses Remo drumheads across his Tama Starclassic Bubinga drum kit, givin
 
 ## Trivia
 
-- Born in Hammerfest, Norway—one of the northernmost cities in the world
 - The name "Frost" reflects the cold, harsh Norwegian environment
 - Manages to play in two demanding bands (Satyricon and 1349) simultaneously
 - Known for his stoic, corpse-painted stage presence
@@ -195,16 +194,16 @@ Frost's snare: Tama Starclassic Bubinga 14x5.5". See the [snares guide](https://
 
 ## Cymbal Setup
 
-Frost's cymbals: Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China).
+Frost's cymbals: Zildjian A Series (14" A New Beat Hi-Hats, 16", 17", 18" A Series Crashes, 22" A Series Ride, 18" A Series China).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 14" | A Custom | Hi-Hats |
-| crash | 16" | A Custom | Crash |
-| crash | 17" | A Custom | Crash |
-| crash | 18" | A Custom | Crash |
-| ride | 22" | K Custom Dark | Ride |
-| china | 18" | K | China |
+| hi-hat | 14" | A | A New Beat Hi-Hats |
+| crash | 16" | A | Crash |
+| crash | 17" | A | Crash |
+| crash | 18" | A | Crash |
+| ride | 22" | A | Ride |
+| china | 18" | A | China |
 
 Full breakdown: [Frost's cymbal setup](https://metalforge.io/cymbals/setups/frost).
 
@@ -245,4 +244,4 @@ Dated brand-endorsement timeline: [Frost's endorsement history](https://metalfor
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

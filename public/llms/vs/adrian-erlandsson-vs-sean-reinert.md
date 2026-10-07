@@ -18,10 +18,10 @@ At the Gates' Adrian Erlandsson vs Death/Cynic's Sean Reinert — two drummers w
 
 ## Sean Reinert Setup
 
-- **Drums:** Tama Artstar II
-- **Cymbals:** Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)
-- **Snare:** Tama Artstar II Birch 14x5.5"
-- **Pedals/Hardware:** DW 5000 Double Pedal
+- **Drums:** DW Collector's Series
+- **Cymbals:** Zildjian K Custom Series
+- **Snare:** DW Collector's Series Maple Shell
+- **Pedals/Hardware:** DW 9000 Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
 ## Playing Style
@@ -67,4 +67,4 @@ A: No. Sean Reinert's core bands were Death and Cynic; Adrian Erlandsson's core 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

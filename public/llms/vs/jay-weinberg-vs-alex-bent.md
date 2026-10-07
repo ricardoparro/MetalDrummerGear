@@ -18,9 +18,9 @@ Ex-Slipknot's Jay Weinberg vs ex-Trivium's Alex Bent — two drummers who steppe
 
 ## Alex Bent Setup
 
-- **Drums:** Pearl Reference Pure Series
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China)
-- **Snare:** Pearl Reference 14x5" Brass
+- **Snare:** Tama Starclassic Maple 14x5"
 - **Pedals/Hardware:** Axis A Longboard Double Pedal, Pearl D-3000 Throne
 - **Sticks:** Vic Firth American Classic 5B
 
@@ -67,4 +67,4 @@ A: No — Jay Weinberg left Slipknot in November 2023 and later joined Suicidal 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

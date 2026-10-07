@@ -27,7 +27,7 @@ This article breaks down every component of Mario Duplantier's setup on "L'Enfan
 - **Drums:** Tama Tama Starclassic Bubinga (Custom Lacquer (Black Burst) finish)
 - **Snare:** Tama Tama S.L.P. G-Maple, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian K Custom / A Custom
-- **Hardware / Pedals:** Tama Iron Cobra 900 Power Glide (x2 single pedals); Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair Ergo-Rider Throne; Vic Firth American Classic 5B
+- **Hardware / Pedals:** Tama Iron Cobra 900 Power Glide (x2 single pedals); Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair Ergo-Rider Throne; Tama Mario Duplantier Signature
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium for balanced crack and body; lighter in atmospheric sections
 
@@ -73,7 +73,7 @@ Mario Duplantier's Tama/Zildjian setup on this album was refined rather than rep
 
 The Grammy nomination validated what Gojira fans already knew: that Mario is among the most complete drummers in modern metal. Not just technically proficient — every aspect of his playing is unified by musical intelligence. He plays for the song, not for the drummer. He plays for the room, not for the gear.
 
-The Tama Starclassic Bubinga kit, Zildjian K Custom/A Custom cymbals, Tama Iron Cobra pedals, and Vic Firth 5B sticks are the tools of a master craftsman at his most deliberate. They do not define his playing; they enable it.
+The Tama Starclassic Bubinga kit, Zildjian K Custom/A Custom cymbals, Tama Iron Cobra pedals, and Tama signature sticks are the tools of a master craftsman at his most deliberate. They do not define his playing; they enable it.
 
 **What "L'Enfant Sauvage" teaches drummers:**
 - **Refinement requires commitment**: Sharpening a setup mid-career takes discipline; Mario executed the refinement flawlessly
@@ -134,4 +134,4 @@ A: Yes. Gojira received a Grammy nomination for Best Hard Rock/Metal Performance
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

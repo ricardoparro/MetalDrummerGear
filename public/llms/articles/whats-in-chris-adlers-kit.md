@@ -26,7 +26,7 @@ After 25 years with Lamb of God, Adler departed in 2019. But his influence remai
 - **Drums:** Mapex Mapex Black Panther Velvetone Series (Custom Black / Lamb of God Graphics finish)
 - **Snare:** Mapex Mapex Chris Adler Signature Black Panther Warbird, 14" x 5.5"
 - **Cymbals:** Meinl — Meinl Byzance
-- **Hardware / Pedals:** Mapex Falcon Double Pedal; Mapex Falcon Hi-Hat Stand; Roc-N-Soc Nitro Throne; Promark Chris Adler Signature TX5AXW; Mapex IQ Series Rack
+- **Hardware / Pedals:** Trick Pro V Double Pedal; Roc-N-Soc Nitro Throne; Promark Chris Adler Signature TX5AXW; Mapex IQ Series Rack
 - **Heads:** Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high for maximum response and crack
 
@@ -128,4 +128,4 @@ A: A Mapex Black Panther Velvetone Series kit in Adler's dual bass drum configur
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

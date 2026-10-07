@@ -25,7 +25,7 @@ Recorded at NRG Recording Studios in North Hollywood and Suburban Soul Studios i
 - **Drums:** Mapex Mapex Black Panther Velvetone Series (Custom Satin Black with Lamb of God graphics finish)
 - **Snare:** Mapex Mapex Chris Adler Signature Black Panther Warbird, 14" x 5.5"
 - **Cymbals:** Meinl — Meinl Byzance
-- **Hardware / Pedals:** Mapex Falcon Double Pedal (used as two independent singles); Mapex Falcon Hi-Hat Stand; Roc-N-Soc Nitro Throne; Promark Chris Adler Signature TX5AXW; Mapex IQ Series Rack
+- **Hardware / Pedals:** Trick Pro V Double Pedal (used as two independent singles); Roc-N-Soc Nitro Throne; Promark Chris Adler Signature TX5AXW; Mapex IQ Series Rack
 - **Heads:** Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for crack and response, slightly more body than the Resolution-era tuning
 
@@ -128,4 +128,4 @@ A: VII: Sturm und Drang was recorded at NRG Recording Studios in North Hollywood
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

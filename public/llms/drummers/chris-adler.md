@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/chris-adler"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Chris Adler — Drum Kit & Gear Setup
@@ -23,23 +23,25 @@ Chris Adler's drum kit and gear setup. Chris Adler is a professional metal drumm
 | Genre | Groove Metal |
 | Country | USA |
 | Primary brand | Mapex |
-| Drum kit | Mapex Black Panther Design Lab |
+| Drum kit | Mapex Saturn in Satin Black Maple Burl |
 | Signature snare | Mapex Chris Adler Signature 14x5.5" Walnut/Maple |
 | Sticks | Promark TX5AXW Chris Adler Signature |
 
 ## Kit Overview
 
-Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered Lamb of God's rise from underground metal to one of the most successful American metal bands of the 21st century. The Mapex Black Panther's dry, focused tone delivers the cutting attack central to Adler's groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath — albums that defined the New Wave of American Heavy Metal.
+Chris Adler plays a Mapex Saturn drum kit — the precision-engineered configuration that powered Lamb of God's rise from underground metal to one of the most successful American metal bands of the 21st century. The Mapex Saturn's dry, focused tone delivers the cutting attack central to Adler's groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath — albums that defined the New Wave of American Heavy Metal.
 
-The cornerstone of the Chris Adler drum set is his Mapex Chris Adler Signature 14×5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls with the precise crack essential for Lamb of God's syncopated riff-locking grooves. Meinl Byzance Series cymbals complete the drum kit: 14" Dark Hi-Hats for dry, controlled articulation; 18" and 19" Dark Crashes for explosive accent bursts; a 21" Transition Ride for clear rhythmic articulation; and an 18" Extra Dry China for raw, cutting punctuation. A Mapex Falcon double pedal and Promark TX5AXW Chris Adler Signature sticks complete this drum set defined by precision groove and Grammy-winning power.
+The cornerstone of the Chris Adler drum set is his Mapex Chris Adler Signature 14×5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls with the precise crack essential for Lamb of God's syncopated riff-locking grooves. Meinl Byzance Series cymbals complete the drum kit: 14" Dark Hi-Hats for dry, controlled articulation; 18" and 19" Dark Crashes for explosive accent bursts; a 21" Transition Ride for clear rhythmic articulation; and an 18" Extra Dry China for raw, cutting punctuation. A Trick Pro V double pedal and Promark TX5AXW Chris Adler Signature sticks complete this drum set defined by precision groove and Grammy-winning power.
 
 ## Biography
 
-Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler's work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.
+Chris Adler, born in 1972 in Washington, D.C., is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler's work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.
 
 Chris Adler (born November 23, 1972, in Washington, D.C.) is an American drummer best known as the co-founder and longtime drummer of Lamb of God, one of the most successful American metal bands of the 21st century. His innovative approach to groove metal drumming, combining technical precision with crushing heaviness, has made him one of the most influential drummers in modern metal.
 
 Adler's drumming is characterized by powerful groove-based patterns, creative use of dynamics, and signature techniques like his "pivot" hi-hat foot work. In 2015, he briefly joined Megadeth to record "Dystopia," which won a Grammy for Best Metal Performance. He departed Lamb of God in 2019, and has since focused on new projects and drum education.
+
+**November 23, 2026** marks Chris Adler's 54th birthday. Fans continue to celebrate the anniversary by revisiting his groove-metal foundation across Lamb of God's "Ashes of the Wake," "Sacrament," and "Wrath," records that cemented his influence on modern metal drumming.
 
 ## Career Highlights
 
@@ -100,10 +102,10 @@ Chris Adler's drumming style blends thrash metal aggression with groove metal's 
 
 ## Gear
 
-- **Drums:** Mapex Black Panther Design Lab
+- **Drums:** Mapex Saturn in Satin Black Maple Burl
 - **Snare:** Mapex Chris Adler Signature 14x5.5" Walnut/Maple
 - **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)
-- **Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
+- **Hardware:** Trick Pro V Double Pedal
 - **Sticks:** Promark TX5AXW Chris Adler Signature
 
 ## Endorsements
@@ -121,13 +123,17 @@ Chris Adler's drumming style blends thrash metal aggression with groove metal's 
 
 ## Frequently Asked Questions
 
+**Q: When was Chris Adler born?**
+
+A: Chris Adler was born on November 23, 1972, in Washington, D.C., and turns 54 on November 23, 2026.
+
 **Q: What drum kit does Chris Adler use?**
 
 A: Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered Lamb of God's rise to one of the most successful American metal bands of the 21st century. Its dry, focused tone anchors his groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath.
 
 **Q: What drum set does Chris Adler use?**
 
-A: Chris Adler's drum set is built around his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls — driven by a Mapex Falcon double pedal and Mapex T865 throne.
+A: Chris Adler's drum set is built around his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls — driven by a Trick Pro 1-V double pedal and Mapex T865 throne.
 
 **Q: What cymbals does Chris Adler play?**
 
@@ -143,7 +149,7 @@ A: Chris Adler uses Promark TX5AXW Chris Adler Signature drumsticks.
 
 **Q: What bass drum pedal does Chris Adler use?**
 
-A: Chris Adler uses a Mapex Falcon double pedal.
+A: Chris Adler uses a Trick Pro 1-V double pedal.
 
 **Q: What drumheads does Chris Adler use?**
 
@@ -168,6 +174,7 @@ A: Chris Adler plays 14" Meinl Byzance Dark Hi-Hats, part of the Byzance cymbal 
 - Uses traditional grip for certain passages, unusual in metal
 - His drum parts on "Laid to Rest" are considered groove metal benchmarks
 - Left Lamb of God in 2019 after 25 years to pursue other interests
+- Born November 23, 1972 — November 23, 2026 marks his 54th birthday
 
 ## Signature Licks on MetalForge
 
@@ -231,4 +238,4 @@ Dated brand-endorsement timeline: [Chris Adler's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

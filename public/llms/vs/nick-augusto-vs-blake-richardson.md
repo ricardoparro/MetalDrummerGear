@@ -14,7 +14,7 @@ Trivium's Nick Augusto vs Between the Buried and Me's Blake Richardson. Modern t
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Snare:** Pearl Reference 14x6.5" Brass
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
-- **Sticks:** Vic Firth American Classic 5B
+- **Sticks:** Pro-Mark Nylon Tip 5B
 
 ## Blake Richardson Setup
 
@@ -34,7 +34,7 @@ Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight
 
 ## Key Differences
 
-Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime), driven by twin Tama Iron Cobra Power Glide single pedals and Vic Firth American Classic 3A sticks. Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight, aggressive double bass work and straightforward technicality built to serve Trivium's thrash-influenced songwriting rather than to showcase complexity for its own sake. Richardson fuses death metal precision with jazz influences, drawing on heroes like Terry Bozzio, Dennis Chambers, and Tomas Haake to build complex blast beats, constantly shifting odd time signatures, and fill-heavy arrangements that treat the drum kit as a compositional voice within BTBAM's genre-blending progressive death metal.
+Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Pro-Mark Nylon Tip 5B sticks. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime), driven by twin Tama Iron Cobra Power Glide single pedals and Vic Firth American Classic 3A sticks. Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight, aggressive double bass work and straightforward technicality built to serve Trivium's thrash-influenced songwriting rather than to showcase complexity for its own sake. Richardson fuses death metal precision with jazz influences, drawing on heroes like Terry Bozzio, Dennis Chambers, and Tomas Haake to build complex blast beats, constantly shifting odd time signatures, and fill-heavy arrangements that treat the drum kit as a compositional voice within BTBAM's genre-blending progressive death metal.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Blake Richardson has cited Terry Bozzio, Dennis Chambers, and Meshuggah's Tom
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

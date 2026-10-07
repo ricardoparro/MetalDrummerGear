@@ -34,7 +34,7 @@ Dailor's constant motion style treats fills as melodic lines — his snare and t
 
 ## Key Differences
 
-Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks — a warm, musical setup suited to Mastodon's progressive sludge sound. Eloy Casagrande plays Tama Starclassic Maple drums with Paiste cymbals and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound. Dailor's constant motion style treats fills as melodic lines — his snare and toms carry melody through flowing, jazz-vocabulary fills that blur the line between drumming and composition. Casagrande's technique is defined by groove-first double bass work and the ability to adapt across Slipknot's percussive, multi-drummer catalog — a range requiring extraordinary musical versatility.
+Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks — a warm, musical setup suited to Mastodon's progressive sludge sound. Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound. Dailor's constant motion style treats fills as melodic lines — his snare and toms carry melody through flowing, jazz-vocabulary fills that blur the line between drumming and composition. Casagrande's technique is defined by groove-first double bass work and the ability to adapt across Slipknot's percussive, multi-drummer catalog — a range requiring extraordinary musical versatility.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Brann Dailor and Eloy Casagrande represent two generations and two philosophies 
 A: Brann Dailor plays with constant motion and jazz-influenced melodic fills — his drumming is compositionally complex and integral to Mastodon's identity. Eloy Casagrande plays with groove-first thrash authority and powerful double bass — his drumming is defined by locked-in precision and the versatility to adapt across styles and tempos.
 
 **Q: What gear does Brann Dailor use vs Eloy Casagrande?**
-A: Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks. Eloy Casagrande plays Tama Starclassic Maple drums with Paiste cymbals and Tama Iron Cobra double pedals.
+A: Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks. Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals and Tama Iron Cobra double pedals.
 
 **Q: Why did Eloy Casagrande join Slipknot?**
 A: Eloy Casagrande joined Slipknot in 2024 after departing Sepultura. His thrash metal roots, technical precision, and ability to handle a vast and demanding catalog made him the natural choice for one of the most scrutinized drum chairs in metal history.
@@ -64,4 +64,4 @@ A: Eloy Casagrande joined Slipknot in 2024 after departing Sepultura. His thrash
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

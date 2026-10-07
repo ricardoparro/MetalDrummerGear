@@ -10,10 +10,10 @@ Lamb of God's Chris Adler vs Slipknot's Joey Jordison. Groove metal vs nu-metal 
 
 ## Chris Adler Setup
 
-- **Drums:** Mapex Black Panther Design Lab
+- **Drums:** Mapex Saturn in Satin Black Maple Burl
 - **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)
 - **Snare:** Mapex Chris Adler Signature 14x5.5" Walnut/Maple
-- **Pedals/Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
+- **Pedals/Hardware:** Trick Pro V Double Pedal
 - **Sticks:** Promark TX5AXW Chris Adler Signature
 
 ## Joey Jordison Setup
@@ -47,10 +47,10 @@ Two drummers who defined 2000s heavy metal. Chris Adler brought technical precis
 ## FAQ
 
 **Q: What are the main differences between Chris Adler's and Joey Jordison's drum kits?**
-A: Chris Adler plays Mapex Black Panther Design Lab with Meinl cymbals, while Joey Jordison uses Pearl Reference Series with Paiste cymbals. Chris played Mapex drums with Meinl cymbals for dark attack. Joey endorsed Pearl drums with Paiste cymbals for aggressive tone.
+A: Chris Adler plays Mapex Saturn in Satin Black Maple Burl with Meinl cymbals, while Joey Jordison uses Pearl Reference Series with Paiste cymbals. Chris played Mapex drums with Meinl cymbals for dark attack. Joey endorsed Pearl drums with Paiste cymbals for aggressive tone.
 
 **Q: What drums does Chris Adler play vs Joey Jordison?**
-A: Chris Adler plays Mapex Black Panther Design Lab. Joey Jordison plays Pearl Reference Series.
+A: Chris Adler plays Mapex Saturn in Satin Black Maple Burl. Joey Jordison plays Pearl Reference Series.
 
 **Q: Who is the better thrash metal drummer, Chris Adler or Joey Jordison?**
 A: Both are legends in their own right. Two drummers who defined 2000s heavy metal. See the full analysis at [metalforge.io/vs/chris-adler-vs-joey-jordison](https://metalforge.io/vs/chris-adler-vs-joey-jordison).
@@ -67,4 +67,4 @@ A: Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crash
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

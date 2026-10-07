@@ -27,7 +27,7 @@ This article breaks down every component of Mario Duplantier's setup on Magma an
 - **Drums:** Tama Tama Starclassic Bubinga (Matte finish finish)
 - **Snare:** Tama Tama S.L.P. G-Maple, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian K Custom / A Custom
-- **Hardware / Pedals:** Tama Iron Cobra 900 Power Glide (x2 single pedals); Tama Iron Cobra Lever Glide Hi-Hat Stand; Tama 1st Chair Ergo-Rider Throne; Vic Firth American Classic 5B
+- **Hardware / Pedals:** Tama Iron Cobra 900 Power Glide (x2 single pedals); Tama Iron Cobra Lever Glide Hi-Hat Stand; Tama 1st Chair Ergo-Rider Throne; Tama Mario Duplantier Signature
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-low for warm crack and body; tighter for aggressive passages
 
@@ -134,4 +134,4 @@ A: For Magma, Mario Duplantier played a full Zildjian K Custom/A Custom hybrid c
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

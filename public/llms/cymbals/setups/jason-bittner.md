@@ -41,4 +41,4 @@ A: Jason Bittner plays Zildjian cymbals: 14" K Hi-Hats, 18" A Custom Crash, 19" 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

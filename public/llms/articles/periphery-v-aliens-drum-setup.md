@@ -25,7 +25,7 @@ The album contains standout tracks including "Zagreus," "Wildfire," "Dying Star,
 - **Drums:** Pearl Pearl Reference Series (Custom finishes (varies per promotional cycle) finish)
 - **Snare:** Pearl Pearl Reference 14"x6.5" Brass, 14" x 6" (primary configuration)
 - **Cymbals:** Meinl — Byzance (Dual, Extra Dry, Traditional, Pure Alloy)
-- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Mapex Falcon Series Hi-Hat Stand; Mapex Saddle Throne; Vic Firth Matt Halpern Signature
+- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Mapex Falcon Series Hi-Hat Stand; Mapex Saddle Throne; Promark Matt Halpern Signature
 - **Heads:** Evans UV1 (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium-high — authority and ghost-note clarity across Aliens' wide dynamic range
 
@@ -120,4 +120,4 @@ A: Periphery V: Aliens was released on 3DOT Recordings, Periphery's own independ
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

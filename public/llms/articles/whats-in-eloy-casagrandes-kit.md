@@ -22,8 +22,8 @@ This article breaks down every piece of gear Eloy is using with Slipknot, how hi
 - **Drums:** Tama Tama Starclassic Bubinga (Custom Slipknot Black/Red Tribal (exclusive) finish)
 - **Snare:** Tama Tama S.L.P. Sonic Steel 14"x6", 14" x 6"
 - **Cymbals:** Paiste — Paiste RUDE / PST X / 2002
-- **Hardware / Pedals:** Tama Speed Cobra 910 Double Pedal; Tama Iron Cobra 900; Tama 1st Chair Ergo-Rider; Promark Eloy Casagrande Signature; Custom IEMs
-- **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
+- **Hardware / Pedals:** Tama Speed Cobra 910 Double Pedal; Tama Iron Cobra 900; Tama 1st Chair Ergo-Rider; Eloy Casagrande Signature; Custom IEMs
+- **Heads:** Evans (batter and resonant)
 - **Snare tuning:** Medium-high for maximum cut and crack
 
 ### Eloy's Slipknot Tama Starclassic Rig
@@ -68,7 +68,7 @@ Custom stacks (combining different cymbals for unique sounds) add texture for sp
 
 When Slipknot announced Eloy Casagrande as their new drummer in 2024, some fans wondered if anyone could fill the legacy left by Joey Jordison and Jay Weinberg. After two years of touring, the answer is clear: Eloy isn't just filling those shoes — he's walking his own path while honoring those who came before.
 
-His gear choices reflect his philosophy: professional equipment built for reliability and projection, not exotic choices for their own sake. Tama Starclassic Bubinga drums because they deliver the attack and warmth needed for Slipknot's dense mix. Paiste RUDE cymbals because they're literally designed for aggressive, heavy hitting. Promark signature sticks because he knows exactly what he needs.
+His gear choices reflect his philosophy: professional equipment built for reliability and projection, not exotic choices for their own sake. Tama Starclassic Bubinga drums because they deliver the attack and warmth needed for Slipknot's dense mix. Paiste RUDE cymbals because they're literally designed for aggressive, heavy hitting. Promark sticks because he knows exactly what he needs.
 
 But gear is just tools. What makes Eloy the right choice for Slipknot is harder to quantify:
 
@@ -135,4 +135,4 @@ A: A Tama Starclassic Bubinga kit matching Casagrande's configuration currently 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

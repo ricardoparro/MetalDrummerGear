@@ -18,7 +18,7 @@ Alex Rüdinger endorses Evans for drumheads. This partnership began in 2010s.
 
 ### Cymbals: Meinl
 
-Alex Rüdinger endorses Meinl for cymbals. They play the Meinl Byzance / MB20 Series. This partnership began in 2010s.
+Alex Rüdinger endorses Meinl for cymbals. They play the Meinl Byzance / MB20 Series. This partnership began in 2015.
 
 ## Endorsement History
 
@@ -47,4 +47,4 @@ A: See the Endorsement History section above for a full timeline of Alex Rüding
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

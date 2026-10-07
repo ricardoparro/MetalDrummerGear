@@ -16,7 +16,7 @@ When Morbid Angel released "Blessed Are the Sick" on May 21, 1991, they did some
 
 For Pete Sandoval, this was the pivotal album. Not the fastest. Not the most celebrated. But the record where his double bass mastery moved from raw aggression toward architectural precision — the transition that made "Covenant" (1993) possible.
 
-Recorded again at Morrisound Recording with producer Tom Morris and engineer Scott Burns, "Blessed Are the Sick" found Pete pushing his configuration further toward the full double-kick dominance that would define his legend. His kit expanded, the Paiste cymbal selection deepened, and the playing found a new groove-to-blast ratio that matched the album's denser compositional ambitions.
+Recorded again at Morrisound Recording with producer Tom Morris and engineer Scott Burns, "Blessed Are the Sick" found Pete pushing his configuration further toward the full double-kick dominance that would define his legend. His kit expanded, and the playing found a new groove-to-blast ratio that matched the album's denser compositional ambitions.
 
 David Vincent's lyrical partnership with Trey Azagthoth reached its lyrical peak here — the "Ancient Ones" mythology, the Egyptian mysticism, the slow-building ceremonial tracks like "Doomsday Celebrations" demanded drumming that could conjure atmosphere as effectively as it could destroy. Pete delivered both.
 
@@ -26,7 +26,7 @@ This article breaks down the gear Pete Sandoval used on "Blessed Are the Sick," 
 
 - **Drums:** ddrum ddrum (specific series unconfirmed) (Unconfirmed finish)
 - **Snare:** ddrum ddrum (specific model unconfirmed), 14" x 6.5"
-- **Cymbals:** Paiste — Paiste 2002 / RUDE Series
+- **Cymbals:** Unconfirmed — Unconfirmed
 - **Hardware / Pedals:** ddrum (specific pedal model unconfirmed); ddrum (specific model unconfirmed); ddrum (specific model unconfirmed); Pro-Mark 5B Wood Tip
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension — slightly looser than Altars of Madness for dynamic range
@@ -49,21 +49,15 @@ The 14" x 6.5" dimensions remained ideal — deep enough for body on the slower 
 
 Scott Burns maintained his close-mic philosophy (Shure SM57, tight to the head) but the final drum mix reflects slightly more body in the low-mids compared to Altars. This gives "Blessed Are the Sick" a heavier, more ominous weight — befitting an album that was deliberately slower and darker than its predecessor.
 
-### Paiste Through the Egyptian Lens
+### Cymbals: Unconfirmed
 
-"Blessed Are the Sick" pushed Pete's cymbal use in new directions. The Paiste 2002 setup from "Altars of Madness" expanded with the addition of a RUDE Crash/Ride, giving him a more aggressive mid-range option for tracks that demanded controlled chaos rather than pure blast.
-
-The hi-hats took on greater compositional importance in 1991. Where "Altars" demanded hi-hats that could survive constant blast beat punishment, the slower passages of "Blessed Are the Sick" required Pete to actually play patterns — melodic hi-hat work that sat over churning bass drum grooves and Trey's Egyptian-scale riffs. The 2002 Sound Edge's articulation proved ideal for both demands.
-
-The China cymbal became central to Pete's accent vocabulary on this album. The slower tempos gave him room to deploy it more deliberately — a punctuation mark rather than a rapid-fire spray. On tracks like "Fall from Grace" and "Brainstorm," China accents frame Trey's most angular riff transitions with precision that the faster Altars tempos didn't allow.
-
-The ride cymbal, used sparingly on "Altars of Madness," gained prominence on "Blessed Are the Sick." The album's atmospheric passages and mid-tempo grooves demanded sustained texture, and the 2002 20" Medium Ride provided the sustained shimmer that slower sections required without washing out like a crash.
+Pete Sandoval's cymbal choice for "Blessed Are the Sick" has not been publicly documented. The Egyptian and Middle Eastern rhythmic influences on this album placed new compositional demands on his hi-hat, ride, and China work, but without a verified source confirming his actual cymbal setup, this page won't assign him a specific brand or model.
 
 ## The Missing Chapter in Pete Sandoval's Story
 
 Death metal histories tend to jump straight from "Altars of Madness" to "Covenant" when telling Pete Sandoval's story. "Blessed Are the Sick" is the missing chapter — the record where a blast beat pioneer became a complete death metal musician.
 
-The gear story is one of evolution within continuity. Pete's ddrum platform remained, but expanded. The Paiste cymbal selection deepened. The Scott Burns / Morrisound partnership refined rather than replaced. What changed was how Pete deployed his tools — with more patience, more dynamic intelligence, more willingness to serve strange and ancient musical demands.
+The gear story is one of evolution within continuity. Pete's ddrum platform remained, but expanded. The Scott Burns / Morrisound partnership refined rather than replaced. What changed was how Pete deployed his tools — with more patience, more dynamic intelligence, more willingness to serve strange and ancient musical demands.
 
 Trey Azagthoth's Egyptian and Arabic scale compositions forced Pete into rhythmic territory no death metal drummer had mapped before. The slow-burning ritualistic passages, the irregular accent placements, the patience required for tracks like "The Ancient Ones" and "Doomsday Celebrations" — these demanded a different kind of mastery than "Immortal Rites" or "Suffocation" had required.
 
@@ -106,7 +100,7 @@ A: Between "Altars of Madness" (1989) and "Blessed Are the Sick" (1991), Pete Sa
 
 **Q: What cymbals did Pete Sandoval use on Blessed Are the Sick?**
 
-A: Pete Sandoval used an expanded Paiste setup on "Blessed Are the Sick" compared to "Altars of Madness." His cymbal configuration included Paiste 2002 14-inch Sound Edge hi-hats, 2002 16 and 18-inch Medium Crashes, a RUDE 17-inch Crash/Ride (new addition), a 2002 20-inch Medium Ride, and a 2002 18-inch China Type. The expanded selection — particularly the added RUDE Crash/Ride — gave Pete more tonal options for the album's wider dynamic range, from atmospheric mid-tempo passages to full blast assault sections.
+A: Pete Sandoval's cymbal brand for "Blessed Are the Sick" has not been publicly documented. No verified source confirms a specific make or model, so this page does not assign him one.
 
 **Q: Why is Blessed Are the Sick important in death metal drumming history?**
 
@@ -133,4 +127,4 @@ A: Like "Altars of Madness," "Blessed Are the Sick" was recorded with pure acous
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

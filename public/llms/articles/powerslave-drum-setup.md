@@ -1,6 +1,6 @@
 # Powerslave Drum Setup: Nicko McBrain's Gear on Iron Maiden's 1984 Live-Era Masterpiece
 
-> The complete gear breakdown for Iron Maiden's Powerslave (1984). Discover the Ludwig drums, Paiste 2002 cymbals, and single bass drum technique that defined Nicko McBrain's performance on one of heavy metal's greatest albums.
+> The complete gear breakdown for Iron Maiden's Powerslave (1984). Discover the Pearl DLX drums, Paiste 2002 cymbals, and single bass drum technique that defined Nicko McBrain's performance on one of heavy metal's greatest albums.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
@@ -20,36 +20,34 @@ Produced once again by Martin Birch, Powerslave delivered eight tracks across a 
 
 The album launched the World Slavery Tour (1984–85), a 335-show odyssey across 13 months that is still one of the longest and most documented heavy metal tours in history. Nicko's single-bass-drum endurance across that tour became the stuff of legend, proving that two pedals are not a prerequisite for speed and power in heavy metal.
 
-This article examines the Ludwig drum kit, Paiste cymbals, and single-pedal technique that powered one of the most important drum performances of the NWOBHM era.
+This article examines the Pearl DLX drum kit, Paiste cymbals, and single-pedal technique that powered one of the most important drum performances of the NWOBHM era.
 
 ## Gear Breakdown
 
-- **Drums:** Ludwig Ludwig Classic Maple (Natural Maple finish)
-- **Snare:** Ludwig Ludwig Supraphonic LM400, 14" x 5"
+- **Drums:** Pearl Pearl DLX
+- **Snare:** Pearl Specific model unverified, Not independently documented
 - **Cymbals:** Paiste — Paiste 2002
-- **Hardware / Pedals:** Ludwig Speed King; Ludwig Atlas; Ludwig Standard; Pro-Mark 5B
+- **Hardware / Pedals:** DW 5000; Not independently documented; Not independently documented; Pro-Mark 5B
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium-high tension for clarity and projection
 
-### Nicko McBrain's Ludwig Setup
+### Nicko McBrain's Pearl Setup
 
-Nicko McBrain recorded Powerslave on a Ludwig kit — the professional standard of the era and a natural continuation of the setup Iron Maiden had used on The Number of the Beast. Ludwig's maple shells provided the warm, resonant tone that sat perfectly in Martin Birch's production, cutting through the dense triple-guitar wall without sounding harsh or clinical.
+Nicko McBrain recorded Powerslave on a Pearl DLX kit, signed in 1984 and used through the Powerslave world tour and Live After Death — the professional setup that succeeded the gear used on The Number of the Beast. The kit sat perfectly in Martin Birch's production, cutting through the dense triple-guitar wall without sounding harsh or clinical.
 
 The configuration was compact by modern standards: two rack toms, two floor toms, and a single 22" bass drum. No second bass drum. No auxiliary percussion racks. The philosophy was simple: master the setup you have rather than substitute gear for technique. Nicko's rolling, jazz-influenced approach to fills — using both hands across the kit in flowing patterns — made the compact setup sound enormous.
 
 The two floor toms were particularly important on Powerslave. Nicko used them for the cascading tom fills that appear throughout "Aces High," "2 Minutes to Midnight," and "Powerslave." The tom tuning — musical and resonant rather than choked tight — gave the fills a melodic quality that complemented Steve Harris's bass runs.
 
-Maple shells also produced the necessary sustain for Birch's recording approach. Unlike modern metal productions that use triggered drums for precision, Powerslave was recorded live in the room, and the Ludwig shells' natural resonance was essential to the sound.
+Unlike modern metal productions that use triggered drums for precision, Powerslave was recorded live in the room, and the kit's natural resonance was essential to the sound (specific shell material unconfirmed for this era).
 
 ### The Crack Behind 'Aces High'
 
-The Ludwig Supraphonic was the professional snare drum of choice across rock and metal in the 1980s, and Nicko McBrain's setup on Powerslave was no exception. The LM400 (14" x 5") delivered the bright, cracking backbeat that cuts through Iron Maiden's layered guitar arrangements.
+Nicko McBrain's snare on Powerslave came from the Pearl kit he signed with in 1984 for the Powerslave world tour and Live After Death, paired with the Remo heads he has used since that year. No interview or gear feature independently documents the specific snare model, so this page does not assign one.
 
-The aluminum shell's sensitivity allowed Nicko's dynamic playing to translate fully — his ghost notes on "Still Life" and "To Tame a Land" (from the previous album, carried into the live show) came through clearly, while the full-force backbeats on "2 Minutes to Midnight" hit with authority.
+What's clear from the recordings is the role the snare plays: his ghost notes on "Still Life" and "To Tame a Land" (from the previous album, carried into the live show) come through clearly, while the full-force backbeats on "2 Minutes to Midnight" hit with authority.
 
 Martin Birch's approach to snare placement in the mix on Powerslave is notable: the snare is forward and present without dominating. It serves the songs while announcing itself when Nicko needed to accent. This balance — rare in heavy metal production — reflected both Birch's experience and Nicko's controlled dynamics.
-
-The 5" depth, slightly shallower than the more common 6.5" shell, produced a tight, focused crack. Combined with medium-high tension tuning, it gave Nicko the articulate response needed for the intricate cross-stick and rim-shot patterns across the album.
 
 ### Paiste 2002: The NWOBHM Standard
 
@@ -65,7 +63,7 @@ The 20" ride was crucial for the extended sections of tracks like "Rime of the A
 
 Powerslave is the album that established Nicko McBrain as one of heavy metal's essential drummers. It captured him at the height of his early mastery: technically accomplished, physically powerful, musically sensitive, and wholly committed to serving songs that demanded his absolute best.
 
-The gear was the professional toolkit of the era — Ludwig drums, Paiste 2002 cymbals, single pedal. Nothing exotic. The difference was in the player: a man who had absorbed jazz drumming deeply enough to bring swing and feel to the most demanding heavy metal material of 1984.
+The gear was the professional toolkit of the era — Pearl drums, Paiste 2002 cymbals, single pedal. Nothing exotic. The difference was in the player: a man who had absorbed jazz drumming deeply enough to bring swing and feel to the most demanding heavy metal material of 1984.
 
 The World Slavery Tour turned these studio performances into live legends. Night after night, in arena after arena, across 13 months and 335 shows, Nicko proved that single-pedal technique could do everything double bass promised — with more feel and more musicality.
 
@@ -76,22 +74,22 @@ Powerslave remains one of heavy metal's greatest drum albums — not because of 
 ## Key Facts
 
 - Nicko McBrain's second Iron Maiden studio album, recorded at Compass Point Studios, Nassau
-- Ludwig drums and Paiste 2002 cymbals define the era-specific sound
+- Pearl DLX drums and Paiste 2002 cymbals define the era-specific sound
 - Single bass drum technique at speed — no double bass, pure single-pedal mastery
 - The World Slavery Tour (1984–85) made these parts famous worldwide
 - "Rime of the Ancient Mariner" is one of the most demanding drum performances in classic metal
 - Single bass drum — no double bass, all gallop driven by single-pedal technique
 - Two floor toms for the cascading tom fills across the album
-- Maple shells for warmth and musicality in a live room recording
+- Endorsed by Pearl in 1984, used through the World Slavery Tour and Live After Death
 - Compact, professional setup focused on feel over flash
 - Estimated kit value: $2,800-3,800 (1984)
-- Estimated snare value: $300-450 (1984)
+- Estimated snare value: Not independently documented
 
 ## Frequently Asked Questions
 
 **Q: What drums did Nicko McBrain use on Powerslave?**
 
-A: Nicko McBrain recorded Powerslave (1984) on a Ludwig Classic Maple kit — the professional standard of the NWOBHM era. The configuration featured a single 22"x14" bass drum, two rack toms (12" and 13"), and two floor toms (16" and 18"). The maple shells provided warm, resonant tone that suited Martin Birch's live-room recording approach at Compass Point Studios in Nassau. For a complete profile of Nicko's setup across his career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain).
+A: Nicko McBrain recorded Powerslave (1984) on a Pearl DLX kit — signed in 1984 and used through the Powerslave world tour and Live After Death. The configuration featured a single 22"x14" bass drum, two rack toms (12" and 13"), and two floor toms (16" and 18"), suited to Martin Birch's live-room recording approach at Compass Point Studios in Nassau. For a complete profile of Nicko's setup across his career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain).
 
 **Q: What cymbals did Nicko McBrain use on Powerslave?**
 
@@ -123,4 +121,4 @@ A: Powerslave is considered one of the most demanding drum performances in class
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

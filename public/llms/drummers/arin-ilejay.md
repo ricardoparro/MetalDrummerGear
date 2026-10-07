@@ -3,10 +3,10 @@ name: "Arin Ilejay"
 band: "ex-Avenged Sevenfold"
 genre: "Heavy Metal / Hard Rock"
 country: "USA"
-primary_brand: "Mapex"
+primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/arin-ilejay"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Arin Ilejay — Drum Kit & Gear Setup
@@ -21,18 +21,18 @@ Arin Ilejay's drum kit and gear setup. Arin Ilejay is a professional metal drumm
 | Band | ex-Avenged Sevenfold |
 | Genre | Heavy Metal / Hard Rock |
 | Country | USA |
-| Primary brand | Mapex |
-| Drum kit | Mapex Saturn Series |
-| Signature snare | Mapex Black Panther 14x6.5" |
-| Sticks | Vic Firth American Classic 5A |
+| Primary brand | DW |
+| Drum kit | DW Collector's Series |
+| Signature snare | DW Collector's Series |
+| Sticks | Promark 5B |
 
 ## Kit Overview
 
-Arin Ilejay plays a Mapex Saturn Series drum kit — the setup behind Avenged Sevenfold's "Hail to the King" (2013), the album that introduced his straightforward, classic-metal-influenced attack following Jimmy "The Rev" Sullivan's death. The cornerstone of the Arin Ilejay drum set is a Mapex Black Panther snare (14×6.5"), delivering the sharp, cutting backbeat that anchored the album's deliberately retro heavy metal grooves, paired with Evans drumheads for consistent tone under Ilejay's hard-hitting style.
+Arin Ilejay plays a DW Collector's Series drum kit — the setup behind Avenged Sevenfold's "Hail to the King" (2013), the album that introduced his straightforward, classic-metal-influenced attack following Jimmy "The Rev" Sullivan's death. The cornerstone of the Arin Ilejay drum set is a DW Collector's Series snare, delivering the sharp, cutting backbeat that anchored the album's deliberately retro heavy metal grooves, paired with Remo drumheads for consistent tone under Ilejay's hard-hitting style.
 
-Zildjian A Custom cymbals define the Arin Ilejay drum kit: 14" A Custom Mastersound Hi-Hats for crisp articulation, 18" and 19" A Custom Crashes for accent work, a 21" A Sweet Ride for the record's driving verse patterns, and an 18" A Custom China for explosive fills. A Mapex Falcon double pedal and Mapex T865 throne rounded out the rig, with Vic Firth American Classic 5A sticks giving Ilejay the control needed for A7X's tighter, groove-oriented "Hail to the King" material.
+Zildjian A Custom cymbals define the Arin Ilejay drum kit: 14" A Custom Mastersound Hi-Hats for crisp articulation, 18" and 19" A Custom Crashes for accent work, a 21" A Sweet Ride for the record's driving verse patterns, and an 18" A Custom China for explosive fills. A DW 9000 Series double pedal drives the kick, with Promark sticks giving Ilejay the control needed for A7X's tighter, groove-oriented "Hail to the King" material.
 
-This Mapex/Zildjian configuration reflects Ilejay's 2011-2015 tenure with Avenged Sevenfold specifically — the gear documented from his highest-profile run with the band. Since departing A7X, Ilejay has continued as an active session and solo drummer, though his current touring rig is less publicly documented than the "Hail to the King" era setup.
+This DW/Zildjian configuration reflects Ilejay's 2011-2015 tenure with Avenged Sevenfold specifically — the gear documented from his highest-profile run with the band. Since departing A7X, Ilejay has continued as an active session and solo drummer, though his current touring rig is less publicly documented than the "Hail to the King" era setup.
 
 ## Biography
 
@@ -91,12 +91,12 @@ Arin Ilejay's drumming style on "Hail to the King" emphasized power, simplicity,
 
 ## Gear
 
-- **Drums:** Mapex Saturn Series
-- **Snare:** Mapex Black Panther 14x6.5"
+- **Drums:** DW Collector's Series
+- **Snare:** DW Collector's Series
 - **Cymbals:** Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China)
-- **Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
-- **Sticks:** Vic Firth American Classic 5A
-- **Heads:** Evans
+- **Hardware:** DW 9000 Series Double Pedal
+- **Sticks:** Promark 5B
+- **Heads:** Remo
 
 ## Endorsements
 
@@ -115,11 +115,11 @@ Arin Ilejay's drumming style on "Hail to the King" emphasized power, simplicity,
 
 **Q: What drum kit does Arin Ilejay use?**
 
-A: Arin Ilejay played a Mapex Saturn Series drum kit — the setup behind Avenged Sevenfold's "Hail to the King" (2013), the album that introduced his straightforward, classic-metal-influenced attack following Jimmy "The Rev" Sullivan's death. It centered on a Mapex Black Panther 14"x6.5" snare.
+A: Arin Ilejay played a DW Collector's Series drum kit — the setup behind Avenged Sevenfold's "Hail to the King" (2013), the album that introduced his straightforward, classic-metal-influenced attack following Jimmy "The Rev" Sullivan's death. It centered on a DW Collector's Series snare.
 
 **Q: What drum set does Arin Ilejay use?**
 
-A: Arin Ilejay's drum set paired his Mapex Black Panther snare with a Mapex Falcon double pedal and Mapex T865 throne, anchoring the deliberately retro heavy metal grooves of "Hail to the King."
+A: Arin Ilejay's drum set paired his DW Collector's Series snare with a DW 9000 Series double pedal, anchoring the deliberately retro heavy metal grooves of "Hail to the King."
 
 **Q: What cymbals does Arin Ilejay play?**
 
@@ -127,19 +127,19 @@ A: Arin Ilejay played Zildjian A Custom cymbals: 14" A Custom Mastersound Hi-Hat
 
 **Q: What snare does Arin Ilejay use?**
 
-A: Arin Ilejay's snare was a Mapex Black Panther 14"x6.5", delivering the sharp, cutting backbeat that anchored "Hail to the King"'s retro heavy metal grooves.
+A: Arin Ilejay's snare was a DW Collector's Series, delivering the sharp, cutting backbeat that anchored "Hail to the King"'s retro heavy metal grooves.
 
 **Q: What sticks does Arin Ilejay use?**
 
-A: Arin Ilejay used Vic Firth American Classic 5A drumsticks.
+A: Arin Ilejay used Promark 5B drumsticks.
 
 **Q: What bass drum pedal does Arin Ilejay use?**
 
-A: Arin Ilejay drove his double bass patterns with a Mapex Falcon double pedal.
+A: Arin Ilejay drove his double bass patterns with a DW 9000 Series double pedal.
 
 **Q: What drumheads does Arin Ilejay use?**
 
-A: Arin Ilejay used Evans drumheads across his Mapex Saturn Series kit.
+A: Arin Ilejay used Remo drumheads across his DW Collector's Series kit.
 
 **Q: What band is Arin Ilejay in?**
 
@@ -205,4 +205,4 @@ Dated brand-endorsement timeline: [Arin Ilejay's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

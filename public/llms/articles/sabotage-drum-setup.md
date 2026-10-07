@@ -31,7 +31,7 @@ This article breaks down the Ludwig kit and expanded Zildjian cymbal setup Ward 
 
 For *Sabotage*, Ward moved back to a 22" bass drum after the brief jump to 24" on *Sabbath Bloody Sabbath*, but expanded his tom configuration with an added 14" rack tom — giving him three toms in total for the first time in his Sabbath tenure. That extra voice mattered on a record built around multi-part songs like "Megalomania" and "Symptom of the Universe," where Ward needed a wider tonal palette to punctuate the shifts between sections rather than just driving a single riff.
 
-The kit also marked a return to natural maple shells rather than the Vistalite acrylic Ward had used for live stage work — a choice suited to the more nuanced, dynamically varied playing *Sabotage*'s progressive arrangements demanded. Where "Hole in the Sky" opens the album with the same riff-locked aggression heard on earlier records, "Symptom of the Universe" pushes the kit into genuinely new territory: a fast, palm-muted gallop in the verses that anticipates thrash metal, followed by an extended acoustic jam that calls for a completely different touch from the same setup.
+The kit kept the natural maple shells that had carried through the previous two albums — a choice suited to the more nuanced, dynamically varied playing *Sabotage*'s progressive arrangements demanded. Where "Hole in the Sky" opens the album with the same riff-locked aggression heard on earlier records, "Symptom of the Universe" pushes the kit into genuinely new territory: a fast, palm-muted gallop in the verses that anticipates thrash metal, followed by an extended acoustic jam that calls for a completely different touch from the same setup.
 
 Self-producing for a second consecutive album gave the band more studio time than the four-day sprint that produced *Paranoid*, and Ward used that time to record some of his most structurally complex drum parts — particularly on "Supertzar," where the kit sits underneath a full choir arrangement.
 
@@ -65,7 +65,7 @@ For the rest of Ward's gear evolution through Black Sabbath's catalog, see the [
 - Existing Avedis Zildjian cymbal setup expanded with a China cymbal for the first time
 - Bass drum back to 22" after the 24" used on Sabbath Bloody Sabbath
 - Third tom (14") added — Ward's widest tom configuration to date
-- Returned to natural maple shells after Vistalite acrylic use on stage
+- Natural maple shells retained from Sabbath Bloody Sabbath
 - Extended studio time (self-produced, second consecutive album) allowed for more structurally complex parts
 - Estimated kit value: $1,100–1,900 (1975) / $6,500–16,000 (vintage today)
 - Estimated snare value: $75–120 (1975) / $200–450 (vintage today)
@@ -103,4 +103,4 @@ A: Bill Ward's Ludwig kit on *Sabotage* — a 22" bass drum, three toms, and a f
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

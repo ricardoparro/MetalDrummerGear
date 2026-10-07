@@ -1,6 +1,6 @@
 # Requiem Drum Setup: Ray Luzier's 2022 Korn Gear Breakdown
 
-> Ray Luzier's drum setup on Korn's Requiem (2022) — the band's 14th studio album and most recent release, recorded at Buck Owens Studio in their hometown of Bakersfield. Pearl Reference Maple drums, Sabian AAX cymbals, Pearl Demon Drive pedals. Full gear breakdown including 'Start the Healing' and 'Forgotten.'
+> Ray Luzier's drum setup on Korn's Requiem (2022) — the band's 14th studio album and most recent release, recorded at Buck Owens Studio in their hometown of Bakersfield. Pearl Reference Maple drums, Sabian AAX cymbals, DW 9000 Series double pedal. Full gear breakdown including 'Start the Healing' and 'Forgotten.'
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Ray Luzier](/llms/drummers/ray-luzier.md)
@@ -18,7 +18,7 @@ Recording took place from April to July 2021 at Buck Owens Studio in Bakersfield
 
 For Ray Luzier, *Requiem* marks his fourth full studio album with Korn and closes out a drumming arc that began with *Korn III* in 2010. By 2021, Luzier had spent fourteen years locked into Korn's rhythmic identity — through Ross Robinson's raw aggression, Skrillex's dubstep experiments, Don Gilmore's radio-ready polish, and Nick Raskulinecz's natural heaviness. *Requiem* called for something different again: restraint, dynamic control, and the ability to let space do as much work as the groove itself. Lead single 'Start the Healing' (released November 11, 2021) reached #1 on the Mediabase Active Rock radio chart in February 2022, and the album debuted at #14 on the US Billboard 200 — Korn's first album since their 1994 debut not to reach the chart's Top 10, though the record was widely praised by critics as one of the band's most cohesive statements in years.
 
-Luzier's rig for the *Requiem* sessions continued the Pearl platform he'd built since *The Paradigm Shift* — Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and the Pearl Demon Drive double pedal. This article breaks down that setup and how it served one of the most atmospheric, dynamically controlled records in Korn's modern catalog.
+Luzier's rig for the *Requiem* sessions continued the Pearl platform he'd built since *The Paradigm Shift* — Pearl Reference Maple drums, Pearl Reference Brass snare, and Sabian AAX cymbals, with the DW 9000 Series double pedal still carried over. This article breaks down that setup and how it served one of the most atmospheric, dynamically controlled records in Korn's modern catalog.
 
 ## Gear Breakdown
 
@@ -53,7 +53,7 @@ The 14" AAX Stage Hi-Hats carry more of the rhythmic responsibility on this reco
 
 *Requiem* closes a fourteen-year circle for Ray Luzier — from a touring drummer proving himself on *Korn III* in 2010 to a fully integrated member delivering one of the most controlled, dynamically mature performances of his career, recorded in the band's own hometown. Debuting at #14 on the Billboard 200 with 'Start the Healing' topping the Active Rock chart, *Requiem* confirmed that Korn — and its rhythm section — still had new ground to cover after nearly three decades.
 
-Luzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedal carried the same DNA as *The Paradigm Shift* and *Serenity of Suffering*, deployed here with a new degree of restraint that let *Requiem*'s atmosphere breathe. It's the sound of a drummer who no longer has anything to prove, playing exactly what the song needs.
+Luzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and carried-over DW 9000 Series pedal carried the same DNA as *The Paradigm Shift* and *Serenity of Suffering*, deployed here with a new degree of restraint that let *Requiem*'s atmosphere breathe. It's the sound of a drummer who no longer has anything to prove, playing exactly what the song needs.
 
 For deeper exploration of Ray Luzier's complete Korn arc:
 - **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)
@@ -83,7 +83,7 @@ For deeper exploration of Ray Luzier's complete Korn arc:
 
 **Q: What drums did Ray Luzier use on Requiem?**
 
-A: Ray Luzier used his Pearl Reference Maple drum kit on Korn's Requiem (2022), continuing the setup he'd used since The Paradigm Shift (2013) and The Serenity of Suffering (2016). The configuration included double 22" bass drums with a Pearl Demon Drive pedal, a five-tom spread (10", 12", 14" racks, 16" and 18" floor toms), and a Pearl Reference 14" × 6.5" Brass snare. His cymbals were Sabian AAX, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
+A: Ray Luzier used his Pearl Reference Maple drum kit on Korn's Requiem (2022), continuing the setup he'd used since The Paradigm Shift (2013) and The Serenity of Suffering (2016). The configuration included double 22" bass drums with the same DW 9000 Series double pedal carried over unchanged, a five-tom spread (10", 12", 14" racks, 16" and 18" floor toms), and a Pearl Reference 14" × 6.5" Brass snare. His cymbals were Sabian AAX, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
 
 **Q: When was Korn's Requiem released?**
 
@@ -118,4 +118,4 @@ A: "Start the Healing" was the lead single from Korn's Requiem, released Novembe
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

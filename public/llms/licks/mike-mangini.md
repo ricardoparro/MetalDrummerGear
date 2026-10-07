@@ -31,9 +31,9 @@ When Mike Mangini joined Dream Theater for 2011's A Dramatic Turn of Events, he 
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
+- Pearl Masterworks Maple Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
@@ -61,9 +61,9 @@ When Mike Mangini joined Dream Theater for 2011's A Dramatic Turn of Events, he 
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
+- Pearl Masterworks Maple Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
@@ -91,9 +91,9 @@ The twelve-minute epic "Breaking All Illusions" is the most ambitious track on A
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
+- Pearl Masterworks Maple Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
@@ -125,9 +125,9 @@ What makes this a defining Mangini study is his insistence on mechanical evennes
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
+- Pearl Masterworks Maple Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 
 **Core Techniques:** [Paradiddles](https://metalforge.io/techniques/paradiddles), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
@@ -159,9 +159,9 @@ Mangini's clinic materials address this kind of polyrhythmic construction with c
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
+- Pearl Masterworks Maple Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
@@ -193,9 +193,9 @@ The approach Mangini prescribes for this kind of material is his standard system
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
+- Pearl Reference Pure Kit (drums)
 - Sabian HHX & AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (hardware)
+- Pearl Eliminator Redline Double Pedal (hardware)
 - Vater Mike Mangini Wicked Piston (sticks)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Speed Technique](https://metalforge.io/techniques/speed-technique)
@@ -213,4 +213,4 @@ Mike Mangini's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

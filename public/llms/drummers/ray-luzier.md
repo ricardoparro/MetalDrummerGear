@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/ray-luzier"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Ray Luzier — Drum Kit & Gear Setup
@@ -133,11 +133,11 @@ A: Ray Luzier plays a Pearl Reference Series drum kit.
 
 **Q: What drum kit does Ray Luzier play?**
 
-A: Ray Luzier's drum kit is a Pearl Reference Series shell pack built around a Pearl Reference 14"x6.5" brass snare, giving him the cut and volume needed for Korn's heavy, low-tuned sound.
+A: Ray Luzier's drum kit is a Pearl Reference Series shell pack; the specific snare model has not been independently verified.
 
 **Q: What drum set does Ray Luzier play?**
 
-A: Ray Luzier's drum set pairs Pearl Reference Series shells and his 14"x6.5" brass Reference snare with Sabian AAX Series cymbals and a DW 9002 double pedal for Korn's touring and studio work.
+A: Ray Luzier's drum set pairs Pearl Reference Series shells with Sabian AAX Series cymbals and a DW 9002 double pedal for Korn's touring and studio work; the specific snare model has not been independently verified.
 
 **Q: What cymbals does Ray Luzier use?**
 
@@ -145,7 +145,7 @@ A: Ray Luzier uses Sabian AAX Series cymbals, including 14" Stage Hi-Hats, 18" a
 
 **Q: What snare drum does Ray Luzier use?**
 
-A: Ray Luzier's primary snare is the Pearl Reference 14"x6.5" Brass, chosen for its projection and attack.
+A: Ray Luzier's snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.
 
 **Q: What pedals does Ray Luzier use?**
 
@@ -211,4 +211,4 @@ Dated brand-endorsement timeline: [Ray Luzier's endorsement history](https://met
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

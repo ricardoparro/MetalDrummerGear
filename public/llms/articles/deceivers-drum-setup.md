@@ -111,7 +111,7 @@ A: Deceivers (August 12, 2022) closes the Alissa White-Gluz era arc that began w
 - [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
 - [Daniel Erlandsson's Drum Setup on Arch Enemy's Will to Power (2017)](https://metalforge.io/articles/will-to-power-drum-setup)
 - [Daniel Erlandsson's Drum Setup on Arch Enemy's War Eternal (2014)](https://metalforge.io/articles/war-eternal-drum-setup)
-- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+- [Daniel Erlandsson's Drum Setup — Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
 
 ## Related Drummers
 
@@ -121,4 +121,4 @@ A: Deceivers (August 12, 2022) closes the Alissa White-Gluz era arc that began w
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

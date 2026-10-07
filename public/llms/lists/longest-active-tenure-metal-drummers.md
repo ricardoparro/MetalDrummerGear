@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers with the Longest Active Tenure — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/longest-active-tenure-metal-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/longest-active-tenure-metal-drummers)
 
 ---
 
@@ -172,4 +172,4 @@ A: Several bands on this list have never changed drummers since forming: Meshugg
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

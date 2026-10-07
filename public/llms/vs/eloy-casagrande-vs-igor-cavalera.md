@@ -18,9 +18,9 @@ Sepultura's Eloy Casagrande (now Slipknot) vs founding drummer Igor Cavalera. Th
 
 ## Igor Cavalera Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Drums:** Yamaha Absolute Hybrid Maple
+- **Cymbals:** Zildjian A Custom Series
+- **Snare:** Yamaha
 - **Pedals/Hardware:** Tama Iron Cobra Double Pedal, Tama Throne
 - **Sticks:** Vic Firth American Classic 5B
 
@@ -67,4 +67,4 @@ A: Igor Cavalera co-created Sepultura's iconic sound — his tribal-thrash ident
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

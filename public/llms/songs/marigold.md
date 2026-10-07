@@ -38,11 +38,11 @@ tab/lesson tempo consensus (Ultimate Guitar, Songsterr, drum-cover community) cr
 ## Related Songs
 
 - [The Bad Thing](https://metalforge.io/songs/the-bad-thing) — Periphery, 135 BPM
+- [Scarlet](https://metalforge.io/songs/scarlet) — Periphery, 132 BPM
 - [Icarus Lives!](https://metalforge.io/songs/icarus-lives) — Periphery, 120 BPM
 - [Panic Attack](https://metalforge.io/songs/panic-attack) — Dream Theater, 168 BPM
 - [Concubine](https://metalforge.io/songs/concubine) — Converge, 168 BPM
 - [Hangar 18](https://metalforge.io/songs/hangar-18) — Megadeth, 165 BPM
-- [The Trooper](https://metalforge.io/songs/the-trooper) — Iron Maiden, 160 BPM
 
 ---
 
@@ -50,4 +50,4 @@ tab/lesson tempo consensus (Ultimate Guitar, Songsterr, drum-cover community) cr
 
 **More resources:** [Metal Songs Database](https://metalforge.io/songs) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -41,4 +41,4 @@ A: Lars Ulrich, Gene Hoglan, George Kollias, Jay Weinberg use the Zildjian A Cus
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,23 +6,23 @@
 
 ## Direct Answer
 
-Frost plays a Sonor Perfect Balance pedal.
+Frost plays a Tama Iron Cobra Power Glide pedal.
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
-| Brand | Sonor |
-| Model | Perfect Balance |
+| Brand | Tama |
+| Model | Iron Cobra Power Glide |
 | Configuration | unknown |
 | Drive Type | — |
 
-Verified roster hardware entry: "Sonor Perfect Balance Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## FAQ
 
 **Q: What pedals does Frost use?**
-A: Frost plays a Sonor Perfect Balance pedal.
+A: Frost plays a Tama Iron Cobra Power Glide pedal.
 
 ## More Resources
 
@@ -33,4 +33,4 @@ A: Frost plays a Sonor Perfect Balance pedal.
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

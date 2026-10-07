@@ -25,8 +25,8 @@ The album's "quadrant" concept — childhood, adolescence, adulthood, and elderh
 - **Drums:** Tama Tama Starclassic Walnut/Birch (Custom — Sepultura branded finish)
 - **Snare:** Tama Tama S.L.P. Sonic Steel, 14" x 5.5"
 - **Cymbals:** Paiste — Masters / 602 / RUDE / PST X
-- **Hardware / Pedals:** Tama Speed Cobra HP310LW Double Pedal; Tama HH905D Hi-Hat Stand; Roc-N-Soc Original Nitro Throne; ProMark Eloy Casagrande Signature TX5BW
-- **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
+- **Hardware / Pedals:** Tama Speed Cobra HP310LW Double Pedal; Tama HH905D Hi-Hat Stand; Roc-N-Soc Original Nitro Throne; Eloy Casagrande Signature
+- **Heads:** Evans (batter and resonant)
 - **Snare tuning:** Medium-high for cut and definition across tempo range
 
 ### Eloy's Sepultura Peak: Tama Starclassic Walnut/Birch
@@ -129,4 +129,4 @@ A: The core endorsements carried straight through: Eloy's Quadra setup (Tama Sta
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -39,7 +39,6 @@ For drummers looking to expand their vocabulary beyond raw power and speed, "Ble
 
 - Sonor Designer Series Kit (drums)
 - Sabian HH/AAX Cymbals (cymbals)
-- DW 5000 Double Pedal (hardware)
 - Vic Firth Signature Sticks (sticks)
 
 **Core Techniques:** [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
@@ -75,7 +74,6 @@ For students, "The Drapery Falls" is an advanced study in dynamic control, acous
 
 - Sonor Designer Series Kit (drums)
 - Sabian HH/AAX Cymbals (cymbals)
-- DW 5000 Double Pedal (hardware)
 - Vic Firth Signature Sticks (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
@@ -145,7 +143,6 @@ For drummers, the acoustic-to-electric transition in "Demon of the Fall" is a st
 
 - Sonor Designer Series Kit (drums)
 - Sabian HH/AAX Cymbals (cymbals)
-- DW 5000 Double Pedal (hardware)
 - Vic Firth Signature Sticks (sticks)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
@@ -179,7 +176,6 @@ For drummers, learning the Blackwater Park shuffle is a lesson in applying jazz 
 
 - Sonor Designer Series Kit (drums)
 - Sabian HH/AAX Cymbals (cymbals)
-- DW 5000 Double Pedal (hardware)
 - Vic Firth Signature Sticks (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
@@ -213,7 +209,6 @@ For drummers, the Deliverance blast section is an advanced study in physically d
 
 - Sonor Designer Series Kit (drums)
 - Sabian HH/AAX Cymbals (cymbals)
-- DW 5000 Double Pedal (hardware)
 - Vic Firth Signature Sticks (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
@@ -231,4 +226,4 @@ Martin Lopez's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

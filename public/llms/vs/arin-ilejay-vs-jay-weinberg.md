@@ -10,11 +10,11 @@ Avenged Sevenfold's Arin Ilejay vs ex-Slipknot's Jay Weinberg. Two drummers who 
 
 ## Arin Ilejay Setup
 
-- **Drums:** Mapex Saturn Series
+- **Drums:** DW Collector's Series
 - **Cymbals:** Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China)
-- **Snare:** Mapex Black Panther 14x6.5"
-- **Pedals/Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
-- **Sticks:** Vic Firth American Classic 5A
+- **Snare:** DW Collector's Series
+- **Pedals/Hardware:** DW 9000 Series Double Pedal
+- **Sticks:** Promark 5B
 
 ## Jay Weinberg Setup
 
@@ -34,7 +34,7 @@ Ilejay favors a straightforward, powerful attack — heavy-handed backbeats and 
 
 ## Key Differences
 
-Arin Ilejay played a Mapex Saturn Series kit with a Mapex Black Panther 14x6.5" snare and Zildjian A Custom cymbals (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China), powered by a Mapex Falcon double pedal and Vic Firth American Classic 5A sticks. Jay Weinberg plays an SJC Custom Drums kit built around his signature SJC "The Crucible" 14x6.5" 48-ply brass snare, with Zildjian cymbals (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell), a DW 9000 Series double pedal, and his own Vater Jay Weinberg 908 Signature sticks. Ilejay favors a straightforward, powerful attack — heavy-handed backbeats and simple, effective fills that prioritize serving Avenged Sevenfold's arena-rock songwriting over technical display, a deliberate contrast to the intricate, jazz-inflected patterns The Rev built his reputation on. Weinberg brings an aggressive, high-energy technique rooted in his hardcore and thrash-crossover background with Against Me! and Madball, honoring Jordison's speed and precision while adding his own explosive intensity to Slipknot's nine-member live assault.
+Arin Ilejay played a DW Collector's Series kit with a DW Collector's Series snare and Zildjian A Custom cymbals (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China), powered by a DW 9000 Series double pedal and Promark 5B sticks. Jay Weinberg plays an SJC Custom Drums kit built around his signature SJC "The Crucible" 14x6.5" 48-ply brass snare, with Zildjian cymbals (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell), a DW 9000 Series double pedal, and his own Vater Jay Weinberg 908 Signature sticks. Ilejay favors a straightforward, powerful attack — heavy-handed backbeats and simple, effective fills that prioritize serving Avenged Sevenfold's arena-rock songwriting over technical display, a deliberate contrast to the intricate, jazz-inflected patterns The Rev built his reputation on. Weinberg brings an aggressive, high-energy technique rooted in his hardcore and thrash-crossover background with Against Me! and Madball, honoring Jordison's speed and precision while adding his own explosive intensity to Slipknot's nine-member live assault.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Arin Ilejay and Jay Weinberg both faced the same unforgiving assignment: replaci
 A: Both drummers replaced a legendary predecessor in a massive metal band. Arin Ilejay joined Avenged Sevenfold in 2011 after the death of founding drummer Jimmy "The Rev" Sullivan. Jay Weinberg joined Slipknot in 2014 after Joey Jordison's departure. Both faced intense scrutiny stepping into an established band's drum chair.
 
 **Q: What gear do Arin Ilejay and Jay Weinberg use?**
-A: Arin Ilejay played a Mapex Saturn Series kit with a Mapex Black Panther snare and Zildjian A Custom cymbals. Jay Weinberg plays an SJC Custom Drums kit with his signature SJC "The Crucible" brass snare and Zildjian cymbals, powered by a DW 9000 Series double pedal.
+A: Arin Ilejay played a DW Collector's Series kit with a DW Collector's Series snare and Zildjian A Custom cymbals, powered by a DW 9000 Series double pedal. Jay Weinberg plays an SJC Custom Drums kit with his signature SJC "The Crucible" brass snare and Zildjian cymbals, also powered by a DW 9000 Series double pedal.
 
 **Q: What bands are Arin Ilejay and Jay Weinberg known for?**
 A: Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King" (2013). Jay Weinberg drummed for Slipknot from 2014 to 2023 before joining Suicidal Tendencies in 2023.
@@ -67,4 +67,4 @@ A: Arin Ilejay held Avenged Sevenfold's drum chair for about four years (2011-20
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

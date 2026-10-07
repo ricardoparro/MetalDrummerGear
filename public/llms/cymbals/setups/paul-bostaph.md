@@ -41,4 +41,4 @@ A: Paul Bostaph plays Sabian cymbals: 14" AAX Stage Hi-Hats, 17" AAX X-Plosion C
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -10,11 +10,11 @@ Megadeth's Nick Menza vs Anthrax's Charlie Benante. Two Big Four thrash peers, d
 
 ## Nick Menza Setup
 
-- **Drums:** Tama Swingstar
-- **Cymbals:** Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride)
-- **Snare:** Tama Steel Snare 14x5.5"
-- **Pedals/Hardware:** DW 5000 Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** Pearl Reference Custom
+- **Cymbals:** Sabian AA / Signature Series
+- **Snare:** Pearl Reference Custom 14x5.5"
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal
+- **Sticks:** Vater Nick Menza Signature
 
 ## Charlie Benante Setup
 
@@ -74,4 +74,4 @@ A: Charlie Benante is widely credited as one of the earliest popularizers of the
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -18,9 +18,9 @@ Periphery's Matt Halpern vs Trivium's Alex Bent. Djent, modern metal, and techni
 
 ## Alex Bent Setup
 
-- **Drums:** Pearl Reference Pure Series
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China)
-- **Snare:** Pearl Reference 14x5" Brass
+- **Snare:** Tama Starclassic Maple 14x5"
 - **Pedals/Hardware:** Axis A Longboard Double Pedal, Pearl D-3000 Throne
 - **Sticks:** Vic Firth American Classic 5B
 
@@ -47,10 +47,10 @@ Matt Halpern shaped djent drumming for a generation. Alex Bent proves technical 
 ## FAQ
 
 **Q: What are the main differences between Matt Halpern's and Alex Bent's drum kits?**
-A: Matt Halpern plays Pearl Reference Series with Meinl cymbals, while Alex Bent uses Pearl Reference Pure Series with Zildjian cymbals. Matt plays Pearl drums with Meinl cymbals for dark tones. Alex uses TAMA with precision-focused cymbal selection.
+A: Matt Halpern plays Pearl Reference Series with Meinl cymbals, while Alex Bent uses Tama Starclassic Maple with Zildjian cymbals. Matt plays Pearl drums with Meinl cymbals for dark tones. Alex uses TAMA with precision-focused cymbal selection.
 
 **Q: What drums does Matt Halpern play vs Alex Bent?**
-A: Matt Halpern plays Pearl Reference Series. Alex Bent plays Pearl Reference Pure Series.
+A: Matt Halpern plays Pearl Reference Series. Alex Bent plays Tama Starclassic Maple.
 
 **Q: Who is the better progressive metal drummer, Matt Halpern or Alex Bent?**
 A: Both are legends in their own right. Matt Halpern shaped djent drumming for a generation. See the full analysis at [metalforge.io/vs/matt-halpern-vs-alex-bent](https://metalforge.io/vs/matt-halpern-vs-alex-bent).
@@ -67,4 +67,4 @@ A: Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

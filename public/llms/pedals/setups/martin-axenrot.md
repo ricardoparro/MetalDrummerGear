@@ -6,18 +6,18 @@
 
 ## Direct Answer
 
-Martin Axenrot plays a Tama Iron Cobra double pedal.
+Martin Axenrot plays a DW double pedal.
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
-| Brand | Tama |
-| Model | Iron Cobra |
+| Brand | DW |
+| Model | — |
 | Configuration | double |
 | Drive Type | — |
 
-Verified roster hardware entry: "Tama Iron Cobra Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "DW Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -26,7 +26,7 @@ Verified roster hardware entry: "Tama Iron Cobra Double Pedal." Source: roster g
 ## FAQ
 
 **Q: What pedals does Martin Axenrot use?**
-A: Martin Axenrot plays a Tama Iron Cobra double pedal.
+A: Martin Axenrot plays a DW double pedal.
 
 ## More Resources
 
@@ -37,4 +37,4 @@ A: Martin Axenrot plays a Tama Iron Cobra double pedal.
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

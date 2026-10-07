@@ -89,7 +89,7 @@ The climax of Forty Six & 2 is one of the most celebrated drum moments in progre
 
 ### Gear Used
 
-- Sonor SQ2 Drum Kit (drums)
+- Sonor Phonic Plus Drum Kit (drums)
 - Paiste Signature Cymbals (cymbals)
 - Sonor Giant Step Twin Effect Double Pedal (pedals)
 
@@ -176,7 +176,7 @@ While Forty Six & 2's drum solo outro is the moment that attracts most attention
 
 ### Gear Used
 
-- Sonor SQ2 Drum Kit (drums)
+- Sonor Phonic Plus Drum Kit (drums)
 - Paiste Signature Cymbals (cymbals)
 - Sonor Giant Step Twin Effect Double Pedal (pedals)
 
@@ -195,4 +195,4 @@ Danny Carey's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

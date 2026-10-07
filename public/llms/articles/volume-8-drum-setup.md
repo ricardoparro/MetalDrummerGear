@@ -25,7 +25,7 @@ This article breaks down the kit, cymbals, hardware, and recording approach behi
 - **Drums:** Tama Tama Artstar Custom (Black finish)
 - **Snare:** Tama Tama Artstar Custom Brass Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002 / RUDE
-- **Hardware / Pedals:** Tama HP35 Camco; Tama Titan Hi-Hat Stand; Tama 1st Chair; Pro-Mark Hickory 2B
+- **Hardware / Pedals:** Chain-drive pedal (specific model unconfirmed); Tama Titan Hi-Hat Stand; Tama 1st Chair; Pro-Mark Hickory 2B
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Lowest, fattest tension of the three-album run — maximum body for groove-locked playing
 
@@ -118,4 +118,4 @@ A: Volume 8: The Threat Is Real (1998) was Anthrax's last new studio album for t
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,34 +1,36 @@
 # What Cymbals Does Nick Menza Use? Full Setup
 
-**Band:** Megadeth | **Brand(s):** Zildjian
+**Band:** Megadeth | **Brand(s):** Sabian
 
 ---
 
 ## Direct Answer
 
-Nick Menza plays Zildjian cymbals: 14" A Hi-Hats, 16" A Crash, 18" A Crash, 20" A Ride.
+Nick Menza plays Sabian cymbals: 14" AA Regular Hi-Hats, 16" AA Rock Crash, 18" Signature Crash, 20" AA Medium Ride, 18" AA China.
 
 ## Cymbal Breakdown
 
 | Piece | Size | Series | Model |
 |-------|------|--------|-------|
-| Hi-hat | 14" | A | Hi-Hats |
-| Crash | 16" | A | Crash |
-| Crash | 18" | A | Crash |
-| Ride | 20" | A | Ride |
+| Hi-hat | 14" | AA | Regular Hi-Hats |
+| Crash | 16" | AA | Rock Crash |
+| Crash | 18" | Signature | Crash |
+| Ride | 20" | AA | Medium Ride |
+| China | 18" | AA | China |
 
-Verified roster hardware entry: "Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Sabian AA / Signature Series (14" AA Hi-Hats, 16" AA & 18" Signature Crash, 20" AA Ride, 18" AA China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
 ## Setup Context
 
 - **Hi-hat:** Two cymbals on a stand, played by foot and/or stick — the main timekeeper for tight, fast 16th-note patterns and blast beats.
 - **Crash:** A short, explosive accent on strong beats and fills; metal kits often stack several sizes (e.g. 16"/17"/18") for different accent pitches.
 - **Ride:** The largest, heaviest cymbal in most setups — carries sustained 16th-note "blast-beat" ride patterns and cuts through a dense mix, with the bell used for sharper accents.
+- **China:** An upturned-edge cymbal with a trashy, explosive, dirty accent — a staple for breakdown and chorus hits in metal; sometimes mounted upside down for an even darker tone.
 
 ## FAQ
 
 **Q: What cymbals does Nick Menza use?**
-A: Nick Menza plays Zildjian cymbals: 14" A Hi-Hats, 16" A Crash, 18" A Crash, 20" A Ride.
+A: Nick Menza plays Sabian cymbals: 14" AA Regular Hi-Hats, 16" AA Rock Crash, 18" Signature Crash, 20" AA Medium Ride, 18" AA China.
 
 ## More Resources
 
@@ -39,4 +41,4 @@ A: Nick Menza plays Zildjian cymbals: 14" A Hi-Hats, 16" A Crash, 18" A Crash, 2
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

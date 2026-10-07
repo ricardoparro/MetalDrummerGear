@@ -93,7 +93,6 @@ Before Megadeth, Dirk Verbeuren spent years as the drummer for Swedish melodic d
 
 - Tama Starclassic Performer Kit (drums)
 - Meinl Byzance Dark Cymbals (cymbals)
-- Tama Speed Cobra 910 Double Pedal (hardware)
 - Vater Power 5B (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Gravity Blast](https://metalforge.io/techniques/gravity-blast)
@@ -111,4 +110,4 @@ Dirk Verbeuren's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

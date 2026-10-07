@@ -14,7 +14,7 @@
 
 Released on November 3, 2017 on Epitaph Records, Converge's The Dusk in Us arrived five years after All We Love We Leave Behind — and proved that the band's evolution toward dynamic sophistication had continued without pause. The album entered the UK charts, earned a Grammy Award nomination for Best Metal Performance, and produced "I Can Tell You About Pain" as its defining single. For a band that began in the basement of hardcore, these achievements were a measure of how far Converge had carried their uncompromising approach into mainstream critical consciousness.
 
-Ben Koller's drum setup on The Dusk in Us represents the fully settled form of the rig he had been developing since the early 2010s. The Tama Starclassic Maple — with its all-maple shells — is his established kit. The Zildjian K Dark Series cymbal configuration is locked in. The Vater signature sticks, the Tama Iron Cobra, the Evans heads — all are now the standard rather than the in-progress choice.
+Ben Koller's drum setup on The Dusk in Us represents the fully settled form of the rig he had been developing since the early 2010s. The Tama Starclassic Maple — with its all-maple shells — is his established kit. The Zildjian K Dark Series cymbal configuration is locked in. The Vic Firth American Classic 5B sticks, the Tama Iron Cobra, the Evans heads — all are now the standard rather than the in-progress choice.
 
 The album is Koller's most dynamic recorded performance with Converge. Tracks like "A Single Tear," "Cannibals," "I Can Tell You About Pain," and the 7-minute closing "It Rides" demand more sustained musical range than any Converge record before them — quiet to violent within a single verse, held together by drumming that can shift from near-silence to full-intensity impact without losing the thread. This article breaks down every piece of Ben Koller's Dusk in Us drum setup and examines how each choice serves the most sophisticated Converge record to date.
 
@@ -23,7 +23,7 @@ The album is Koller's most dynamic recorded performance with Converge. Tracks li
 - **Drums:** Tama Tama Starclassic Maple (Various (Piano Black touring configuration) finish)
 - **Snare:** Tama Tama S.L.P. Brass (Studio Legendary Percussion), 14" x 6"
 - **Cymbals:** Zildjian — Zildjian K Dark Series
-- **Hardware / Pedals:** Tama Iron Cobra Double Pedal (Power Glide or Rolling Glide); Vater Ben Koller Signature; Evans G2 Coated; Evans G1 Clear; Evans EMAD
+- **Hardware / Pedals:** Tama Iron Cobra Double Pedal (Power Glide or Rolling Glide); Vic Firth American Classic 5B; Evans G2 Coated; Evans G1 Clear; Evans EMAD
 - **Heads:** Evans G1 Coated batter; Evans 300 Snare Side resonant
 - **Snare tuning:** Medium tension — balancing warmth and cut for the album's widest dynamic range yet
 
@@ -69,7 +69,7 @@ Every element of the setup earns its place:
 - **Zildjian K Dark Series Hi-Hats**: Tonal complexity for both blast-beat articulation and atmospheric restraint
 - **Zildjian K Dark Series Crashes**: Cutting darkness for the album's highest-impact moments
 - **Tama Iron Cobra Single Pedal**: Two decades of trust in one pedal
-- **Vater Ben Koller Signature Sticks**: Custom-balanced hickory for power and control
+- **Vic Firth American Classic 5B Sticks**: Stock hickory, his stick of choice since 1999
 
 The complete Converge arc that The Dusk in Us completes:
 - [Ben Koller — Full Drummer Profile](/drummer/ben-koller)
@@ -110,7 +110,7 @@ A: Ben Koller uses Zildjian K Dark Series cymbals on The Dusk in Us. His full se
 
 **Q: What is Ben Koller's setup on The Dusk in Us?**
 
-A: Ben Koller's complete drum setup on The Dusk in Us (2017): Tama Starclassic Maple (all-maple shells) with single 22" bass drum; Tama S.L.P. 14" x 6" Brass snare; Zildjian K Dark Series Hi-Hats (14"), K Dark Series Crashes (18" and 19"), K Custom Ride (21"), K China (18"), K Splash (10"); Tama Iron Cobra single pedal; Vater Ben Koller signature sticks; Evans heads (G2 Coated on tom batters, G1 Coated on snare batter, EMAD on bass). Produced by Kurt Ballou at GodCity Studio in Salem, Massachusetts.
+A: Ben Koller's complete drum setup on The Dusk in Us (2017): Tama Starclassic Maple (all-maple shells) with single 22" bass drum; Tama S.L.P. 14" x 6" Brass snare; Zildjian K Dark Series Hi-Hats (14"), K Dark Series Crashes (18" and 19"), K Custom Ride (21"), K China (18"), K Splash (10"); Tama Iron Cobra single pedal; Vic Firth American Classic 5B sticks; Evans heads (G2 Coated on tom batters, G1 Coated on snare batter, EMAD on bass). Produced by Kurt Ballou at GodCity Studio in Salem, Massachusetts.
 
 **Q: Was The Dusk in Us Grammy nominated?**
 
@@ -133,4 +133,4 @@ A: Yes. The Dusk in Us (2017) by Converge received a Grammy Award nomination for
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/shannon-larkin"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Shannon Larkin — Drum Kit & Gear Setup
@@ -37,7 +37,7 @@ The cornerstone of the Shannon Larkin drum kit is his ddrum Dios 14×6.5" Maple 
 
 Shannon Larkin (born April 24, 1967) is an American drummer best known as the former drummer of Godsmack, a position he held from 2002 to 2024, making him the band's longest-serving drummer. His powerful, groove-oriented style was essential to Godsmack's signature heavy sound. Before Godsmack, Larkin played with Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen. He has been playing drums since age ten and briefly filled in for Black Sabbath on one show in 1997 when Mike Bordin was unavailable. Known for his hard-hitting style and versatility, Larkin has been a Sabian cymbal artist for decades.
 
-Shannon Larkin (born April 24, 1967, in Baltimore, Maryland) is an American drummer best known as the drummer for multi-platinum hard rock band Godsmack since 2002. Before Godsmack, Larkin made his mark with Ugly Kid Joe, known for their hit "Everything About You," and thrash band Wrathchild America.
+Shannon Larkin (born April 24, 1967, in Chicago, Illinois) is an American drummer best known as the drummer for multi-platinum hard rock band Godsmack since 2002. Before Godsmack, Larkin made his mark with Ugly Kid Joe, known for their hit "Everything About You," and thrash band Wrathchild America.
 
 Known for his powerful, groove-oriented drumming style and dynamic stage presence, Larkin has become one of the most recognizable drummers in modern hard rock. His playing combines hard-hitting power with musical sensitivity, perfectly complementing Godsmack's heavy yet accessible sound.
 
@@ -242,4 +242,4 @@ Dated brand-endorsement timeline: [Shannon Larkin's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

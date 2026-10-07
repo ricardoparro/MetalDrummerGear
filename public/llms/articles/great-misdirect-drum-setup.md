@@ -27,7 +27,7 @@ This article covers the complete drum setup Blake Richardson used on *The Great 
 - **Drums:** DW DW Collector's Series (Custom lacquer finish finish)
 - **Snare:** DW DW Collector's Series Maple Snare, 14" x 6.5"
 - **Cymbals:** Meinl — Meinl Byzance Extra Dry Series
-- **Hardware / Pedals:** DW 9002 Chain-Drive Double Bass Pedal; Vic Firth American Classic 5B; Remo Ambassador Coated; Remo Powerstroke 3
+- **Hardware / Pedals:** DW 9002 Chain-Drive Double Bass Pedal; Vic Firth American Classic 3A; Remo Ambassador Coated; Remo Powerstroke 3
 - **Heads:** Remo Ambassador Coated (batter), Remo Hazy Snare Side (resonant)
 - **Snare tuning:** Medium tension — same dialed-in configuration from the Colors era, full body and ghost-note sensitivity across The Great Misdirect's extended compositions
 
@@ -110,4 +110,4 @@ A: *The Great Misdirect* was released on October 6, 2009, on Metal Blade Records
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

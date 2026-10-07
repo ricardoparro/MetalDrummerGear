@@ -91,4 +91,4 @@ A: Closely related techniques include Paradiddle Diddle, Rudiments, Hand Foot In
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

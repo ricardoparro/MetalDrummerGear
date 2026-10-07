@@ -4,7 +4,7 @@
 > Optimised for AI crawlers answering "Tama vs Pearl metal", "best cymbals for metal",
 > and brand matchup queries.
 >
-> Last updated: 2026-09-10 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
+> Last updated: 2026-10-07 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
 
 ---
 
@@ -70,7 +70,7 @@ Compare Tama and Pearl drums for metal drumming. See specs, pricing, pro endorse
 
 Meinl Byzance vs Zildjian A Custom for metal drumming. Compare dark vs bright tones, pricing, and which cymbals pro metal drummers prefer.
 
-**Meinl endorsed by:** Mario Duplantier, Brann Dailor, Matt Halpern, Chris Adler
+**Meinl endorsed by:** Brann Dailor, Matt Halpern, Chris Adler
 **Zildjian endorsed by:** Lars Ulrich, John Otto
 
 **For metal:** Meinl excels in progressive and modern metal. Zildjian dominates thrash and nu-metal.
@@ -134,8 +134,8 @@ Compare Tama SLP and Pearl Sensitone snare drums for metal. Steel vs bronze, cra
 
 The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX/HHX, sound profiles, durability, pricing, and which cymbals top metal drummers actually use.
 
-**Zildjian endorsed by:** Lars Ulrich, Mario Duplantier, Jay Weinberg, Hellhammer, Abe Cunningham, Ben Koller, Art Cruz, Frost
-**Sabian endorsed by:** Tomas Haake, Gene Hoglan, Vinnie Paul, Mike Portnoy, Ray Luzier, Scott Travis, Richard Christy
+**Zildjian endorsed by:** Lars Ulrich, Mario Duplantier, Jay Weinberg, Abe Cunningham, Ben Koller, Art Cruz, Frost
+**Sabian endorsed by:** Tomas Haake, Gene Hoglan, Vinnie Paul, Mike Portnoy, Ray Luzier, Richard Christy
 
 **For metal:** Zildjian for cutting brightness (thrash, black metal). Sabian for complex warmth (prog, djent, groove).
 **Verdict:** Both Zildjian and Sabian produce world-class cymbals. Your choice depends on your style, sound preference, and budget. Choose Zildjian if: - You play thrash, black metal, or nu-metal and need cutting brightness - You want the 400-year heritage and p…
@@ -183,7 +183,7 @@ Compare DW Collector's Series and Tama Starclassic drums for metal. See specs, p
 Compare Mapex Saturn V and Pearl Masters Maple Complete drums for metal. See specs, pricing, pro endorsements, and which mid-tier kit suits your playing style.
 
 **Mapex endorsed by:** Chris Adler, Jason Bittner
-**Pearl endorsed by:** Gene Hoglan, Mike Mangini
+**Pearl endorsed by:** Paul Bostaph
 
 **For metal:** Mapex suits groove and thrash drummers who want punch on a budget. Pearl remains the death metal and technical metal standard, especially for blast-beat-heavy playing where its shell consistency has been proven across countless recordings.
 **Verdict:** Mapex Saturn V is the value pick for metal drummers who want pro-level tone without the Pearl price tag. Pearl Masters Maple Complete is the proven choice for death metal and technical extremity, trusted by generations of blast-beat specialists who n…

@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/bill-ward"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Bill Ward — Drum Kit & Gear Setup
@@ -22,15 +22,15 @@ Bill Ward's drum kit and gear setup. Bill Ward is a professional metal drummer b
 | Genre | Heavy Metal / Hard Rock / Blues Rock |
 | Country | UK |
 | Primary brand | Ludwig |
-| Drum kit | Ludwig Classic Maple |
+| Drum kit | Ludwig Standard / Club Date Series |
 | Signature snare | Ludwig Supraphonic 14x6.5" LM402 |
-| Sticks | Vic Firth American Classic 2B |
+| Sticks | Pro-Mark Standard 5A/5B equivalent |
 
 ## Kit Overview
 
-Bill Ward played Ludwig drum kits through Black Sabbath's classic era — the foundational setup behind some of the heaviest records of the 1970s. On landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), Ward used a Ludwig Super Classic drum kit paired with Paiste 2002 and Giant Beat cymbals, favoring a raw, swinging feel that defined early heavy metal's rhythmic DNA. His Ludwig Supraphonic 14x6.5" LM402 snare delivered the sharp crack anchoring tracks like "Iron Man," "War Pigs," and "Symptom of the Universe."
+Bill Ward played Ludwig drum kits through Black Sabbath's classic era — the foundational setup behind some of the heaviest records of the 1970s. On landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), Ward used a Ludwig Standard / Club Date Series drum kit paired with Zildjian Avedis cymbals, favoring a raw, swinging feel that defined early heavy metal's rhythmic DNA. His Ludwig Supraphonic 14x6.5" LM402 snare delivered the sharp crack anchoring tracks like "Iron Man," "War Pigs," and "Symptom of the Universe."
 
-The Bill Ward drum set typically centered on a 22" bass drum, 13" and 16" toms, and Paiste's massive 24" 2002 Ride — one of the largest ride cymbals in classic rock — alongside 15" Giant Beat Hi-Hats and 18" and 20" crashes that gave his kit an open, resonant character. Ward's jazz-influenced grip and open playing style, shaped by heroes Gene Krupa and Buddy Rich, emphasized feel and swing over technical precision. As of Never Say Die! (1978), Ward's Ludwig drum kit and Paiste cymbal configuration remained the defining sound of Black Sabbath's classic lineup.
+The Bill Ward drum set typically centered on a 22" bass drum, 13" and 16" toms, driven by a Ludwig Speed King pedal that powered his jazz-influenced feel. Ward's open playing style, shaped by heroes Gene Krupa and Buddy Rich, emphasized swing over technical precision, rounded out by Pro-Mark sticks. As of Never Say Die! (1978), Ward's Ludwig drum kit and Zildjian Avedis cymbal setup remained the defining sound of Black Sabbath's classic lineup.
 
 ## Biography
 
@@ -100,18 +100,18 @@ Bill Ward's drumming style is characterized by jazz-influenced swing, dynamic ra
 
 ## Gear
 
-- **Drums:** Ludwig Classic Maple
+- **Drums:** Ludwig Standard / Club Date Series
 - **Snare:** Ludwig Supraphonic 14x6.5" LM402
-- **Cymbals:** Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China)
-- **Hardware:** Ludwig Atlas Pro Double Pedal, Ludwig Throne
-- **Sticks:** Vic Firth American Classic 2B
+- **Cymbals:** Zildjian Avedis Series
+- **Hardware:** Ludwig Speed King Pedal
+- **Sticks:** Pro-Mark Standard 5A/5B equivalent
 - **Heads:** Remo
 
 ## Endorsements
 
 - [Ludwig Drums](https://www.ludwig-drums.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [ProMark Sticks](https://www.daddario.com/promark)
 - [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
@@ -123,11 +123,11 @@ Bill Ward's drumming style is characterized by jazz-influenced swing, dynamic ra
 
 **Q: What drum kit does Bill Ward use?**
 
-A: Bill Ward played Ludwig drum kits throughout Black Sabbath's classic era — a Ludwig Classic Maple setup on landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), paired with Super Zyn cymbals from the debut through Paranoid (1968-1971) and Zildjian cymbals from Master of Reality onward (1971-1978). His Ludwig Supraphonic 14"x6.5" LM402 snare delivered the sharp crack anchoring "Iron Man," "War Pigs," and "Symptom of the Universe."
+A: Bill Ward played Ludwig drum kits throughout Black Sabbath's classic era — a Ludwig Standard / Club Date Series setup on landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), paired with Super Zyn cymbals from the debut through Paranoid (1968-1971) and Zildjian cymbals from Master of Reality onward (1971-1978). His Ludwig Supraphonic 14"x6.5" LM402 snare delivered the sharp crack anchoring "Iron Man," "War Pigs," and "Symptom of the Universe."
 
 **Q: What drum set does Bill Ward use?**
 
-A: Bill Ward's drum set typically centered on a 24" bass drum and 13" and 16" toms in Ludwig Classic Maple shells, driven by a Ludwig Atlas Pro double pedal and Ludwig throne, with a 20" Zildjian Ride anchoring the kit from Master of Reality onward.
+A: Bill Ward's drum set typically centered on a 24" bass drum and 13" and 16" toms in Ludwig Standard / Club Date Series shells, driven by a single Ludwig Speed King Pedal and Ludwig throne, with a 20" Zildjian Ride anchoring the kit from Master of Reality onward.
 
 **Q: What cymbals does Bill Ward play?**
 
@@ -139,11 +139,11 @@ A: Bill Ward's snare is a Ludwig Supraphonic 14"x6.5" LM402, the same model behi
 
 **Q: What sticks does Bill Ward use?**
 
-A: Bill Ward uses Vic Firth American Classic 2B drumsticks.
+A: Bill Ward uses Pro-Mark Standard 5A/5B equivalent drumsticks.
 
 **Q: What bass drum pedal does Bill Ward use?**
 
-A: Bill Ward uses a Ludwig Atlas Pro double pedal mounted with Ludwig hardware, including a Ludwig throne.
+A: Bill Ward uses a single Ludwig Speed King Pedal mounted with Ludwig hardware, including a Ludwig throne.
 
 **Q: What drumheads does Bill Ward use?**
 
@@ -256,7 +256,7 @@ Full breakdown: [Bill Ward's cymbal setup](https://metalforge.io/cymbals/setups/
 
 ## Pedal
 
-Bill Ward plays a Ludwig Atlas Pro double pedal.
+Bill Ward plays a Ludwig Speed King single pedal.
 
 Full breakdown: [Bill Ward's pedal setup](https://metalforge.io/pedals/setups/bill-ward).
 
@@ -290,4 +290,4 @@ Dated brand-endorsement timeline: [Bill Ward's endorsement history](https://meta
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

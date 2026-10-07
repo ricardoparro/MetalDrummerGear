@@ -55,7 +55,7 @@ The 14" hi-hats and 21" ride carried most of the record's groove work, while the
 
 The gear Bent brought to the session — Tama Starclassic Maple drums, Zildjian K Custom Hybrid cymbals, Axis A21 pedals — wasn't flashy or unusual. What mattered was how directly it translated his tech-death background into a mainstream metal context without losing any of the technicality that made him stand out in the first place.
 
-For the arc of Trivium's drummers before Bent, see the [Shogun drum setup article](/articles/shogun-drum-setup) for Nick Augusto's earlier work with the band, and see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that followed three years later.
+For the arc of Trivium's drummers before Bent, see the [In Waves drum setup article](/articles/in-waves-drum-setup) for Nick Augusto's earlier work with the band, and see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that followed three years later.
 
 ## Key Facts
 
@@ -97,7 +97,6 @@ A: The Sin and the Sentence was recorded at Hybrid Studios in Santa Ana, Califor
 ## Related Articles
 
 - [Top 10 Technical Death Metal Drummers](https://metalforge.io/lists/technical-death-metal-drummers)
-- [Shogun Drum Setup: Nick Augusto's Progressive Thrash Masterpiece (Trivium, 2008)](https://metalforge.io/articles/shogun-drum-setup)
 - [In Waves Drum Setup: Nick Augusto's Breakthrough Kit (Trivium, 2011)](https://metalforge.io/articles/in-waves-drum-setup)
 - [What the Dead Men Say Drum Setup: Alex Bent's Pandemic-Era Trivium Album (2020)](https://metalforge.io/articles/trivium-what-the-dead-men-say-drum-setup)
 - [What's In Alex Bent's Trivium Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-alex-bents-kit)
@@ -112,4 +111,4 @@ A: The Sin and the Sentence was recorded at Hybrid Studios in Santa Ana, Califor
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

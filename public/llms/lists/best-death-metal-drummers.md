@@ -1,6 +1,6 @@
 # 10 Best Death Metal Drummers of All Time — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-death-metal-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-death-metal-drummers)
 
 ---
 
@@ -175,4 +175,4 @@ A: Death metal drummers typically operate in the 180–280 BPM range for blast b
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

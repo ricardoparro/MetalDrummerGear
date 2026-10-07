@@ -16,14 +16,14 @@ Released on September 20, 2004, Converge's You Fail Me was always going to live 
 
 Ben Koller's drum setup on You Fail Me is the sound of a drummer pushing past Jane Doe's template rather than repeating it. Tracked mostly at Kurt Ballou's GodCity Studio in Salem, Massachusetts in March 2004 (with additional sessions at Magpie Sound Design and Witch Doctor Studio), the album was produced by Alan Douches and Kurt Ballou — engineers who pushed for a more abrasive, less polished drum sound than Jane Doe's already-raw production. Tracks like "First Light," "Last Light," "You Fail Me," and "In Her Shadow" remain Converge essentials, and Koller's playing on them — still single-kick, still built on the blast-and-breakdown vocabulary he established in 2001 — carries a heavier, more wounded weight than his work on Jane Doe.
 
-Koller's You Fail Me rig kept the core formula intact: Tama Starclassic bubinga shells, a single bass drum, Sabian HHX and AAX cymbals, a Tama Iron Cobra pedal, and Vater signature sticks. What changed wasn't the gear so much as the intent behind it — You Fail Me is a more wounded, less triumphant record than Jane Doe, and Koller's drumming leans into that rawness rather than smoothing it over. This article breaks down the gear behind Converge's most underrated record and the drummer who held it together.
+Koller's You Fail Me rig kept the core formula intact: Tama Starclassic bubinga shells, a single bass drum, Sabian HHX and AAX cymbals, a Tama Iron Cobra pedal, and Vic Firth American Classic 5B sticks. What changed wasn't the gear so much as the intent behind it — You Fail Me is a more wounded, less triumphant record than Jane Doe, and Koller's drumming leans into that rawness rather than smoothing it over. This article breaks down the gear behind Converge's most underrated record and the drummer who held it together.
 
 ## Gear Breakdown
 
 - **Drums:** Tama Tama Starclassic Bubinga (era-appropriate) (Piano Black finish)
 - **Snare:** Tama Tama Bell Brass / Starphonic Brass (era-appropriate), 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX / AAX
-- **Hardware / Pedals:** Tama Iron Cobra (Power Glide or Rolling Glide); Tama Iron Cobra Lever Glide; Vater Ben Koller signature stick
+- **Hardware / Pedals:** Tama Iron Cobra (Power Glide or Rolling Glide); Tama Iron Cobra Lever Glide; Vic Firth American Classic 5B
 - **Heads:** Evans G1 Coated batter; Evans 300 snare-side resonant
 - **Snare tuning:** Medium-high tension, mixed drier and more upfront than Jane Doe
 
@@ -113,4 +113,4 @@ A: Gear-wise, almost nothing changed — Ben Koller used the same Tama Starclass
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

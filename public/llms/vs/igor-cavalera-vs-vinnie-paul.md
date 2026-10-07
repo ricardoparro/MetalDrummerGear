@@ -10,9 +10,9 @@ Sepultura's Igor Cavalera vs Pantera's Vinnie Paul. Thrash-vs-thrash: Brazilian 
 
 ## Igor Cavalera Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Drums:** Yamaha Absolute Hybrid Maple
+- **Cymbals:** Zildjian A Custom Series
+- **Snare:** Yamaha
 - **Pedals/Hardware:** Tama Iron Cobra Double Pedal, Tama Throne
 - **Sticks:** Vic Firth American Classic 5B
 
@@ -47,16 +47,16 @@ Igor Cavalera and Vinnie Paul are two of thrash and groove metal's most defining
 ## FAQ
 
 **Q: What are the main differences between Igor Cavalera's and Vinnie Paul's drum kits?**
-A: Igor Cavalera plays Tama Starclassic Maple with Paiste cymbals, while Vinnie Paul uses ddrum (brand confirmed; specific kit series unverified) with Sabian cymbals. Igor played Tama Starclassic Maple with Paiste RUDE & 2002 cymbals. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals.
+A: Igor Cavalera plays Yamaha Absolute Hybrid Maple with Zildjian cymbals, while Vinnie Paul uses ddrum (brand confirmed; specific kit series unverified) with Sabian cymbals. Igor played Tama Starclassic Maple with Paiste RUDE & 2002 cymbals. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals.
 
 **Q: What drums does Igor Cavalera play vs Vinnie Paul?**
-A: Igor Cavalera plays Tama Starclassic Maple. Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified).
+A: Igor Cavalera plays Yamaha Absolute Hybrid Maple. Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified).
 
 **Q: Who is the better thrash metal drummer, Igor Cavalera or Vinnie Paul?**
 A: Both are legends in their own right. Igor Cavalera and Vinnie Paul are two of thrash and groove metal's most defining forces. See the full analysis at [metalforge.io/vs/igor-cavalera-vs-vinnie-paul](https://metalforge.io/vs/igor-cavalera-vs-vinnie-paul).
 
 **Q: What cymbals do Igor Cavalera and Vinnie Paul use?**
-A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China). Vinnie Paul uses Sabian (brand per secondary sources; specific models unverified).
+A: Igor Cavalera uses Zildjian A Custom Series. Vinnie Paul uses Sabian (brand per secondary sources; specific models unverified).
 
 ---
 
@@ -67,4 +67,4 @@ A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUD
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

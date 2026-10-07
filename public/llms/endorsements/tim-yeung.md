@@ -8,9 +8,9 @@
 
 ## Current Endorsements
 
-### Drums: Pearl
+### Drums: Tama
 
-Tim Yeung endorses Pearl for drums. They play the Pearl Reference Masters. This partnership began in 2005.
+Tim Yeung endorses Tama for drums. They play the Tama Starclassic Bubinga. This partnership began in 2005.
 
 ### Cymbals: Sabian
 
@@ -24,9 +24,9 @@ Tim Yeung endorses Vic Firth for drumsticks. They play the Vic Firth 5B. This pa
 
 Tim Yeung endorses Remo for drumheads. They play the Remo Powerstroke 3. This partnership began in 2005.
 
-### Hardware / Pedals: DW
+### Hardware / Pedals: Tama
 
-Tim Yeung endorses DW for hardware / pedals. They play the DW 9002 Double Bass Pedal. This partnership began in 2005.
+Tim Yeung endorses Tama for hardware / pedals. They play the Tama Speed Cobra 910 Double Pedal. This partnership began in 2005.
 
 ## Endorsement History
 
@@ -37,10 +37,10 @@ Tim Yeung endorses DW for hardware / pedals. They play the DW 9002 Double Bass P
 ## FAQ
 
 **Q: What brands does Tim Yeung endorse?**
-A: Tim Yeung endorses Pearl, Sabian, Vic Firth, Remo, DW. Their primary drum endorsement is Pearl and they play Sabian cymbals.
+A: Tim Yeung endorses Tama, Sabian, Vic Firth, Remo. Their primary drum endorsement is Tama and they play Sabian cymbals.
 
 **Q: Does Tim Yeung have a signature drum or cymbal?**
-A: Tim Yeung is a key Pearl endorser but does not have a dedicated signature kit model in the current lineup.
+A: Tim Yeung is a key Tama endorser but does not have a dedicated signature kit model in the current lineup.
 
 **Q: What is Tim Yeung's endorsement history?**
 A: See the Endorsement History section above for a full timeline of Tim Yeung's brand deals.
@@ -55,4 +55,4 @@ A: See the Endorsement History section above for a full timeline of Tim Yeung's 
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

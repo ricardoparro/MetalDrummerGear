@@ -23,7 +23,7 @@ This article breaks down every piece of gear Lars used during the 1984 Copenhage
 ## Gear Breakdown
 
 - **Drums:** Tama Artstar II (Black Wrap finish)
-- **Snare:** Ludwig Ludwig Supraphonic LM402, 14" x 6.5"
+- **Snare:** Tama Tama steel-shell snare, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Series
 - **Hardware / Pedals:** Tama single pedal (Iron Cobra precursor); Tama Titan Hi-Hat Stand; Tama Titan boom and straight stands; Tama 1st Chair Drum Throne; Regal Tip 5B
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
@@ -39,15 +39,15 @@ Lars maintained the compact 5-piece configuration he had used on Kill 'Em All: s
 
 The Artstar II represented Lars's first professional-grade Tama drum — and he'd keep playing this same birch-shell kit straight through Master of Puppets (1986) and into ...And Justice for All (1988), establishing a brand relationship that continues today.
 
-### The Snare Upgrade: Ludwig Supraphonic Arrives
+### The Snare Upgrade: A Matching Tama Steel Snare Arrives
 
-Lars's snare situation improved dramatically between Kill 'Em All and Ride the Lightning. The warm but imprecise Tama wood snare from the Imperial Star era gave way to the Ludwig Supraphonic LM402 — a transition that immediately registered in the album's sonics. The Supraphonic's seamless aluminum shell (Ludwig's "Ludalloy" alloy) produces the bright, cutting crack that became a Lars Ulrich signature sound and which he maintained through Master of Puppets (1986).
+Lars's snare situation improved dramatically between Kill 'Em All and Ride the Lightning. The warm but imprecise Tama wood snare from the Imperial Star era gave way to a Tama steel-shell snare, matching the new Artstar II kit — a transition that immediately registered in the album's sonics. The steel shell produces the bright, cutting crack that became a Lars Ulrich signature sound and which he maintained through Master of Puppets (1986).
 
-At 14 inches in diameter and 6.5 inches deep, the LM402 sits between a standard and a power snare, offering the brightness of a shallow drum with added body from the deeper shell. For the dense arrangements of Ride the Lightning — where Lars needed to cut through two guitars, bass, and his own heavy cymbal patterns simultaneously — this combination of crack and projection was essential.
+At 14 inches in diameter and 6.5 inches deep, the snare sits between a standard and a power snare, offering the brightness of a shallow drum with added body from the deeper shell. For the dense arrangements of Ride the Lightning — where Lars needed to cut through two guitars, bass, and his own heavy cymbal patterns simultaneously — this combination of crack and projection was essential.
 
-Flemming Rasmussen placed a close mic above the batter head and a second below to capture the snare wire response, blending the two to produce the crisp crack audible throughout the record. The aluminum shell's quick decay suited thrash metal's tight, aggressive feel — resonance and sustain were sonic liabilities in this context, and the LM402's tight response addressed both.
+Flemming Rasmussen placed a close mic above the batter head and a second below to capture the snare wire response, blending the two to produce the crisp crack audible throughout the record. The steel shell's quick decay suited thrash metal's tight, aggressive feel — resonance and sustain were sonic liabilities in this context, and the snare's tight response addressed both.
 
-This Ludwig Supraphonic carried directly into the Master of Puppets sessions, making it one of the most consequential pieces of Metallica equipment across the catalog.
+This Tama steel-shell snare carried directly into the Master of Puppets sessions, making it one of the most consequential pieces of Metallica equipment across the catalog.
 
 ### All-Zildjian A Series: A Unified Setup
 
@@ -61,7 +61,7 @@ This all-Zildjian A setup carried directly into the Master of Puppets sessions i
 
 ## Ride the Lightning: Where Metallica Found Their Full Range
 
-Ride the Lightning is the document of a band discovering what it could do beyond pure aggression. The drum setup story — Tama Artstar II birch shells, Ludwig Supraphonic snare, unified Zildjian A cymbals, single pedal driving double-bass ideas — reflects a drummer making confident choices with professional equipment for the first time.
+Ride the Lightning is the document of a band discovering what it could do beyond pure aggression. The drum setup story — Tama Artstar II birch shells, matching Tama steel-shell snare, unified Zildjian A cymbals, single pedal driving double-bass ideas — reflects a drummer making confident choices with professional equipment for the first time.
 
 **Why This Album Matters Technically:**
 "For Whom the Bell Tolls" is the most instructive track for drummers: the driving kick at 100 BPM demonstrates that double-bass ideas don't require double-bass hardware — they require single-pedal mastery and musical intention. "Fight Fire with Fire" demonstrates 16th-note hi-hat endurance at 220 BPM with the Artstar II's birch shells cutting through the guitars with more clarity than the Kill 'Em All mahogany ever could. "Fade to Black" demonstrates the full dynamic range of the Zildjian A setup from near silence to full-power crash.
@@ -93,11 +93,11 @@ For the continued gear evolution through the Justice era and beyond, see the [..
 
 **Q: What drums did Lars Ulrich use on Ride the Lightning?**
 
-A: Lars Ulrich recorded Ride the Lightning in 1984 on a Tama Artstar II kit with birch shells — a significant upgrade from the budget Tama Imperial Star he used on Kill 'Em All the previous year. The configuration was a compact 5-piece: a single 22-inch bass drum at 16-inch depth, 12 and 13 inch rack toms, and a 16-inch floor tom. He paired the Artstar II with a Ludwig Supraphonic LM402 snare (14x6.5 inches, aluminum shell) and an all-Zildjian A series cymbal setup. The sessions took place at Sweet Silence Studios in Copenhagen, Denmark with producer Flemming Rasmussen.
+A: Lars Ulrich recorded Ride the Lightning in 1984 on a Tama Artstar II kit with birch shells — a significant upgrade from the budget Tama Imperial Star he used on Kill 'Em All the previous year. The configuration was a compact 5-piece: a single 22-inch bass drum at 16-inch depth, 12 and 13 inch rack toms, and a 16-inch floor tom. He paired the Artstar II with a matching Tama steel-shell snare (14x6.5 inches) and an all-Zildjian A series cymbal setup. The sessions took place at Sweet Silence Studios in Copenhagen, Denmark with producer Flemming Rasmussen.
 
 **Q: How does the Ride the Lightning drum setup differ from Master of Puppets?**
 
-A: There isn't much difference — Ride the Lightning (1984) and Master of Puppets (1986) used the same drum kit. Lars played the same Tama Artstar II with birch shells on both albums, along with the same Ludwig Supraphonic LM402 snare and Zildjian A series cymbals, and both were recorded at Sweet Silence Studios in Copenhagen with Flemming Rasmussen. The gear was consistent; what changed between the two records was arrangement complexity and production polish, not the kit itself.
+A: There isn't much difference — Ride the Lightning (1984) and Master of Puppets (1986) used the same drum kit. Lars played the same Tama Artstar II with birch shells on both albums, along with the same Tama steel-shell snare and Zildjian A series cymbals, and both were recorded at Sweet Silence Studios in Copenhagen with Flemming Rasmussen. The gear was consistent; what changed between the two records was arrangement complexity and production polish, not the kit itself.
 
 **Q: What is the double-bass pattern on For Whom the Bell Tolls?**
 
@@ -127,4 +127,4 @@ A: Lars Ulrich used an all-Zildjian A series cymbal setup on Ride the Lightning 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

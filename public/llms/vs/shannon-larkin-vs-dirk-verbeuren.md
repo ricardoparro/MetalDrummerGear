@@ -18,9 +18,9 @@ Godsmack's Shannon Larkin vs Megadeth's Dirk Verbeuren — hard-rock groove-meta
 
 ## Dirk Verbeuren Setup
 
-- **Drums:** Tama Starclassic Walnut/Birch
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
-- **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
+- **Snare:** Tama S.L.P. Dynamic Bronze 14x5.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
 - **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
 
@@ -34,7 +34,7 @@ Larkin favors solid, powerful grooves and dynamic fills over technical flash, pr
 
 ## Key Differences
 
-Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals (14" Byzance Brilliant Hi-Hats, 18", 19", 20", 21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China), powered by a Tama Speed Cobra 910 double pedal and Promark Shira Kashi Oak 5B sticks. Larkin favors solid, powerful grooves and dynamic fills over technical flash, prioritizing feel and pocket to give Godsmack's riffs their driving, radio-ready hard rock weight. Verbeuren applies melodic death metal's technical vocabulary — fast, even double bass runs and precise fills learned across Soilwork's catalog — to Megadeth's classic thrash framework, moving fluidly between groove-based riffing and blast-beat-adjacent speed within the same song.
+Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals (14" Byzance Brilliant Hi-Hats, 18", 19", 20", 21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China), powered by a Tama Speed Cobra 910 double pedal and Promark Shira Kashi Oak 5B sticks. Larkin favors solid, powerful grooves and dynamic fills over technical flash, prioritizing feel and pocket to give Godsmack's riffs their driving, radio-ready hard rock weight. Verbeuren applies melodic death metal's technical vocabulary — fast, even double bass runs and precise fills learned across Soilwork's catalog — to Megadeth's classic thrash framework, moving fluidly between groove-based riffing and blast-beat-adjacent speed within the same song.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Shannon Larkin and Dirk Verbeuren built their reputations on opposite ends of he
 A: Shannon Larkin drummed for Godsmack from 2002 to 2024, building the band's hard rock sound on solid, groove-first power. Dirk Verbeuren spent nearly two decades with Soilwork before joining Megadeth in 2016, bringing melodic death metal-trained technical precision and session versatility to modern thrash metal.
 
 **Q: What gear do Shannon Larkin and Dirk Verbeuren use?**
-A: Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, driven by a DW 9000 Series double pedal. Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by a Tama Speed Cobra 910 double pedal.
+A: Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, driven by a DW 9000 Series double pedal. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by a Tama Speed Cobra 910 double pedal.
 
 **Q: What bands are Shannon Larkin and Dirk Verbeuren known for?**
 A: Shannon Larkin drummed for Godsmack from 2002 to 2024, and earlier played with Ugly Kid Joe, Wrathchild America, and Amen. Dirk Verbeuren drummed for Soilwork from 1998 to 2016 before joining Megadeth in 2016.
@@ -67,4 +67,4 @@ A: No — Megadeth's "Dystopia" (2016) won the Grammy for Best Metal Performance
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

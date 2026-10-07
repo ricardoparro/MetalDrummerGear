@@ -8,41 +8,41 @@
 
 ## Current Endorsements
 
-### Drums: Tama
+### Drums: Pearl
 
-Jocke Wallgren endorses Tama for drums. They play the Tama Starclassic Performer B/B. This partnership began in 2013.
+Jocke Wallgren endorses Pearl for drums. They play the Pearl Reference Pure. This partnership began in 2016.
 
-### Cymbals: Meinl
+### Cymbals: Zildjian
 
-Jocke Wallgren endorses Meinl for cymbals. They play the Meinl Byzance Series. This partnership began in 2005.
+Jocke Wallgren endorses Zildjian for cymbals. They play the Zildjian A Custom & K Custom Series. This partnership began in 2005.
 
 ### Drumsticks: Vic Firth
 
-Jocke Wallgren endorses Vic Firth for drumsticks. They play the Vic Firth 5B. This partnership began in 2013.
+Jocke Wallgren endorses Vic Firth for drumsticks. They play the Vic Firth American Classic 5B. This partnership began in 2016.
 
-### Drumheads: Remo
+### Drumheads: Evans
 
-Jocke Wallgren endorses Remo for drumheads. They play the Remo Coated Ambassador / Powerstroke 3. This partnership began in 2013.
+Jocke Wallgren endorses Evans for drumheads. This partnership began in 2016.
 
-### Hardware / Pedals: DW
+### Hardware / Pedals: Pearl
 
-Jocke Wallgren endorses DW for hardware / pedals. They play the DW 9002 Double Bass Pedal. This partnership began in 2005.
+Jocke Wallgren endorses Pearl for hardware / pedals. They play the Pearl Demon Drive Double Pedal. This partnership began in 2005.
 
 ## Endorsement History
 
-- **2005** (Cymbals): Signed with Meinl — Began playing Meinl Byzance cymbals during his time with Rage and Evergrey in the European power/prog metal scene
-- **2005** (Hardware / Pedals): Signed with DW — Adopted a DW double bass pedal configuration during his Rage and Evergrey years, ahead of the 9002 model becoming his standard
-- **2013** (Drums): Signed with Tama — Signed with Tama on joining Amon Amarth for Deceiver of the Gods (2013), settling on the Starclassic Performer B/B birch/bubinga kit
-- **2013** (Cymbals): Renewed Meinl deal — Carried his Meinl Byzance cymbals into the Amon Amarth chair, valuing their dark, warm voicing for the band's melodic death metal identity
-- **2019** (Hardware / Pedals): Renewed DW deal — Continued with the DW 9002 double bass pedal through Berserker (2019), which demanded both extended blast-beat passages and the band's signature gallop
+- **2005** (Cymbals): Signed with Zildjian — Began playing Zildjian A Custom & K Custom cymbals during his time with Rage and Evergrey in the European power/prog metal scene
+- **2005** (Hardware / Pedals): Signed with Pearl — Adopted a Pearl double bass pedal configuration during his Rage and Evergrey years, ahead of the Demon Drive model becoming his standard
+- **2016** (Drums): Signed with Pearl — Signed with Pearl on joining Amon Amarth for Jomsviking (2016), settling on the Reference Pure single-species maple kit
+- **2016** (Cymbals): Renewed Zildjian deal — Carried his Zildjian A Custom & K Custom cymbals into the Amon Amarth chair, valuing their bright yet warm voicing for the band's melodic death metal identity
+- **2019** (Hardware / Pedals): Renewed Pearl deal — Continued with the Pearl Demon Drive double pedal through Berserker (2019), which demanded both extended blast-beat passages and the band's signature gallop
 
 ## FAQ
 
 **Q: What brands does Jocke Wallgren endorse?**
-A: Jocke Wallgren endorses Tama, Meinl, Vic Firth, Remo, DW. Their primary drum endorsement is Tama and they play Meinl cymbals.
+A: Jocke Wallgren endorses Pearl, Zildjian, Vic Firth, Evans. Their primary drum endorsement is Pearl and they play Zildjian cymbals.
 
 **Q: Does Jocke Wallgren have a signature drum or cymbal?**
-A: Jocke Wallgren is a key Tama endorser but does not have a dedicated signature kit model in the current lineup.
+A: Jocke Wallgren is a key Pearl endorser but does not have a dedicated signature kit model in the current lineup.
 
 **Q: What is Jocke Wallgren's endorsement history?**
 A: See the Endorsement History section above for a full timeline of Jocke Wallgren's brand deals.
@@ -57,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Jocke Wallgr
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

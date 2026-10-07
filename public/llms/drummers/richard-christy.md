@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/richard-christy"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Richard Christy — Drum Kit & Gear Setup
@@ -23,13 +23,13 @@ Richard Christy's drum kit and gear setup. Richard Christy is a professional met
 | Genre | Death Metal / Thrash Metal |
 | Country | USA |
 | Primary brand | Pearl |
-| Drum kit | Pearl Custom Z |
-| Signature snare | Pearl Custom Z 14x6.5" Maple |
+| Drum kit | Pearl Masters Custom |
+| Signature snare | Pearl Masters Custom 14x6.5" Maple |
 | Sticks | Vic Firth American Classic 5A |
 
 ## Kit Overview
 
-Richard Christy played a Pearl Custom Z drum kit — a nine-piece Canadian Birds Eye Maple shell pack he used to record Death's technical, genre-defining swan song "The Sound of Perseverance" alongside Chuck Schuldiner. At the heart of the Richard Christy drum set is a Pearl Custom Z 14x6.5" maple snare, warm enough to sit underneath Death's intricate, progressive arrangements while still delivering the crack needed for his rapid-fire blast beats and complex time-signature work.
+Richard Christy played a Pearl Masters Custom drum kit — a nine-piece Canadian Birds Eye Maple shell pack he used to record Death's technical, genre-defining swan song "The Sound of Perseverance" alongside Chuck Schuldiner. At the heart of the Richard Christy drum set is a Pearl Masters Custom 14x6.5" maple snare, warm enough to sit underneath Death's intricate, progressive arrangements while still delivering the crack needed for his rapid-fire blast beats and complex time-signature work.
 
 Sabian AAX and HHX Series cymbals define the voice of the Richard Christy drum kit: 14" AAX Stage Hi-Hats for tight control through odd-meter passages; 18" and 19" AAX X-Plosion Crashes for sharp, fast-decaying accents; a 21" HHX Raw Bell Dry Ride for dark, articulate timekeeping; and an 18" AAX Chinese cymbal for abrupt punctuation on technical fills. An Axis A Longboard double pedal gives Christy the speed and precision behind his double-bass patterns, a technique he carried from Death into Iced Earth and his own progressive death metal band, Charred Walls of the Damned.
 
@@ -39,7 +39,7 @@ Vic Firth American Classic 5A sticks and Evans drumheads round out the Richard C
 
 Richard Allan Christy (born 1974) is an American drummer known for his work with Death (1996-2001), Iced Earth (2003-2004), and his own band Charred Walls of the Damned. He recorded two albums with Death: "The Sound of Perseverance" and the live album "Live in L.A." His work with Chuck Schuldiner showcased his incredible technical abilities and musicality. Christy is known for his speed, precision, and ability to play complex progressive death metal patterns. Beyond drumming, he is also known for his work on The Howard Stern Show as a staff member since 2004.
 
-Richard Christy (born February 1, 1974, in Fort Scott, Kansas) is an American drummer, comedian, and radio personality. In the metal world, he is renowned for his work with Death (1996-2001), Chuck Schuldiner's Control Denied, and Iced Earth (2003-2007). He is considered one of the most technically proficient death metal drummers of his generation.
+Richard Christy (born April 1, 1974, in Fort Scott, Kansas) is an American drummer, comedian, and radio personality. In the metal world, he is renowned for his work with Death (1996-2001), Chuck Schuldiner's Control Denied, and Iced Earth (2003-2007). He is considered one of the most technically proficient death metal drummers of his generation.
 
 Christy's drumming on Death's final two albums—"The Sound of Perseverance" and the posthumously released Control Denied's "The Fragile Art of Existence"—showcased his incredible speed, precision, and musicality. He later transitioned to entertainment, becoming a prominent member of The Howard Stern Show, but his legacy in metal drumming remains influential.
 
@@ -98,8 +98,8 @@ Richard Christy's drumming style is characterized by exceptional speed, technica
 
 ## Gear
 
-- **Drums:** Pearl Custom Z
-- **Snare:** Pearl Custom Z 14x6.5" Maple
+- **Drums:** Pearl Masters Custom
+- **Snare:** Pearl Masters Custom 14x6.5" Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)
 - **Hardware:** Axis A Longboard Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
@@ -122,11 +122,11 @@ Richard Christy's drumming style is characterized by exceptional speed, technica
 
 **Q: What drum kit does Richard Christy use?**
 
-A: Richard Christy played a Pearl Custom Z drum kit — a nine-piece Canadian Birds Eye Maple shell pack he used to record Death's technical, genre-defining swan song The Sound of Perseverance alongside Chuck Schuldiner. His Pearl 14"x6.5" Maple snare stays warm under Death's intricate arrangements while still delivering the crack needed for rapid-fire blast beats.
+A: Richard Christy played a Pearl Masters Custom drum kit — a nine-piece Canadian Birds Eye Maple shell pack he used to record Death's technical, genre-defining swan song The Sound of Perseverance alongside Chuck Schuldiner. His Pearl 14"x6.5" Maple snare stays warm under Death's intricate arrangements while still delivering the crack needed for rapid-fire blast beats.
 
 **Q: What drum set does Richard Christy use?**
 
-A: Richard Christy's drum set pairs a Pearl Custom Z shell pack and his Pearl Maple snare with an Axis A Longboard double pedal, giving him the speed and precision behind the double-bass patterns he carried from Death into Iced Earth and Charred Walls of the Damned.
+A: Richard Christy's drum set pairs a Pearl Masters Custom shell pack and his Pearl Maple snare with an Axis A Longboard double pedal, giving him the speed and precision behind the double-bass patterns he carried from Death into Iced Earth and Charred Walls of the Damned.
 
 **Q: What cymbals does Richard Christy play?**
 
@@ -243,4 +243,4 @@ Dated brand-endorsement timeline: [Richard Christy's endorsement history](https:
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

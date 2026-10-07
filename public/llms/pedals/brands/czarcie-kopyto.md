@@ -17,7 +17,7 @@
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
 | [Adrian Erlandsson](https://metalforge.io/pedals/setups/adrian-erlandsson) | At the Gates | Monolit Czarcie Kopyto | [Markdown](https://metalforge.io/llms/pedals/setups/adrian-erlandsson.md) |
-| [Inferno](https://metalforge.io/pedals/setups/inferno) | Behemoth | Czarcie Kopyto | [Markdown](https://metalforge.io/llms/pedals/setups/inferno.md) |
+| [Inferno](https://metalforge.io/pedals/setups/inferno) | Behemoth | Monolit Czarcie Kopyto | [Markdown](https://metalforge.io/llms/pedals/setups/inferno.md) |
 
 Source: [Czarcie Kopyto — official site](https://www.czarciekopyto.com/en/).
 
@@ -35,4 +35,4 @@ Source: [Czarcie Kopyto — official site](https://www.czarciekopyto.com/en/).
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

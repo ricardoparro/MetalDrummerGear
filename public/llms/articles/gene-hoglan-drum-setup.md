@@ -77,7 +77,7 @@ Study Human for polyrhythmic sophistication. Study Individual Thought Patterns f
 For deeper exploration:
 - **Full drummer profile**: [Gene Hoglan at MetalForge](/drummer/3)
 - **Dave Lombardo profile**: [Dave Lombardo — Slayer's precision architect](/drummer/4) — the thrash contemporary who helped define the same era
-- **Richard Christy profile**: [Richard Christy — Death's next chapter](/drummer/49) — the drummer who carried Death forward on Symbolic and The Sound of Perseverance
+- **Richard Christy profile**: [Richard Christy — Death's next chapter](/drummer/49) — the drummer who carried Death forward on The Sound of Perseverance
 
 The Atomic Clock is still running. Every click is exactly on time.
 
@@ -137,4 +137,4 @@ A: Gene Hoglan has played with Dark Angel (Darkness Descends, Leave Scars, Time 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

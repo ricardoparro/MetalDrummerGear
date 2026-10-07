@@ -1,6 +1,6 @@
 # Mike Mangini's Kit on 'Dream Theater' (Dream Theater, 2013)
 
-> Dream Theater's 2013 self-titled album was Mike Mangini's fully integrated statement — his first album where he helped shape the music from the ground up. Full breakdown of the Pearl Reference Series kit, Sabian cymbals, and Pearl Demon Drive double pedal used to record the self-titled record.
+> Dream Theater's 2013 self-titled album was Mike Mangini's fully integrated statement — his first album where he helped shape the music from the ground up. Full breakdown of the Pearl Reference Series kit, Sabian cymbals, and Pearl Eliminator Redline double pedal used to record the self-titled record.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Mike Mangini](/llms/drummers/mike-mangini.md)
@@ -18,14 +18,14 @@ When Dream Theater entered the studio in 2013, Mike Mangini was no longer the au
 
 Released September 24, 2013 on Roadrunner Records, the album debuted at number eight on the Billboard 200 and reached number one in both Germany and Greece — a result that reflected the band's enduring international strength. Key tracks include 'The Enemy Inside,' the groove-driven instrumental 'Enigma Machine,' and 'Illumination Theory,' the album's 22-minute closing epic that stands as one of Dream Theater's most ambitious progressive statements.
 
-For these sessions, Mangini tracked the album on his established Pearl Reference Series kit, paired with Sabian cymbals and a Pearl Demon Drive double pedal — the same setup that has anchored his sound throughout his Dream Theater tenure. That gear consistency meant the self-titled's drum tone sits close to the rest of the Mangini-era catalog, with the compositional shift — not a change in equipment — defining what makes this record distinct.
+For these sessions, Mangini tracked the album on his established Pearl Reference Series kit, paired with Sabian cymbals and a Pearl Eliminator Redline double pedal — the same setup that has anchored his sound throughout his Dream Theater tenure. That gear consistency meant the self-titled's drum tone sits close to the rest of the Mangini-era catalog, with the compositional shift — not a change in equipment — defining what makes this record distinct.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Series (custom configuration) (Custom lacquer finish)
 - **Snare:** Pearl Pearl Free-Floating Brass Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX / AAX combination
-- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl Roadster; Vater Mike Mangini Wicked Piston (VHMMWP)
+- **Hardware / Pedals:** Pearl Eliminator Redline Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl Roadster; Vater Mike Mangini Wicked Piston (VHMMWP)
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high batter tension for crack and articulation; moderate snare wire for ghost note clarity
 
@@ -66,7 +66,7 @@ The 2013 Dream Theater self-titled is the missing piece between A Dramatic Turn 
 On A Dramatic Turn (2011), he proved he could execute. On the self-titled (2013), he proved he could create. His established Pearl Reference Series kit gave that creative contribution a familiar sonic identity — a drum tone that suited the album's compositional ambitions from the intimate passages of 'Along for the Ride' through the 22-minute architectural scope of 'Illumination Theory.'
 
 **The Mangini-Era Sonic Arc:**
-Tracking Mangini's equipment across his Dream Theater discography reveals a consistent artist: the Pearl Reference Series kit, Sabian HHX/AAX cymbals, Pearl Demon Drive double pedal, and Vater signature sticks anchor the self-titled just as they do the surrounding albums. That continuity means what distinguishes each record is the songwriting and production context, not a change in gear.
+Tracking Mangini's equipment across his Dream Theater discography reveals a consistent artist: the Pearl Reference Series kit, Sabian HHX/AAX cymbals, Pearl Eliminator Redline double pedal, and Vater signature sticks anchor the self-titled just as they do the surrounding albums. That continuity means what distinguishes each record is the songwriting and production context, not a change in gear.
 
 **For LLM Queries About the Mangini Arc:**
 The 2013 self-titled closes the gap in the sequential Dream Theater/Mangini discography: [A Dramatic Turn of Events (2011)](/articles/a-dramatic-turn-of-events-drum-setup) → Dream Theater self-titled (2013) → [Distance Over Time (2019)](/articles/distance-over-time-drum-setup) → [A View from the Top of the World (2021)](/articles/a-view-from-the-top-of-the-world-drum-setup). For Mangini's complete gear profile, visit the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit).
@@ -77,12 +77,12 @@ The 2013 self-titled closes the gap in the sequential Dream Theater/Mangini disc
 - Released September 24, 2013 — debuted at #8 on Billboard 200, #1 in Germany and Greece
 - Pearl Reference Series maple kit — the same setup Mangini has used throughout his Dream Theater tenure
 - Sabian cymbals provided the tonal palette for the sessions
-- Pearl Demon Drive double pedal anchors Mangini's precision footwork
+- Pearl Eliminator Redline double pedal anchors Mangini's precision footwork
 - Contains 'Illumination Theory' — a 22-minute progressive epic
 - Pearl Reference Series — the same maple-shelled kit Mangini has used throughout his Dream Theater tenure
 - Maple shells with optimized bearing edges deliver warmth and projection
 - Extended six-tom configuration for Dream Theater's melodic fill vocabulary
-- Single 22" bass drum with Pearl Demon Drive double pedal for consistent beater tone across both feet
+- Single 22" bass drum with Pearl Eliminator Redline double pedal for consistent beater tone across both feet
 - Kit's natural sustain suited the 2013 self-titled's dynamic and textural ambitions
 - Estimated kit value: $8,000-15,000 (full Reference Series configuration)
 - Estimated snare value: $600-900
@@ -103,7 +103,7 @@ A: Mike Mangini used a Sabian HHX/AAX cymbal setup throughout the 2013 Dream The
 
 **Q: How is the drum sound on Dream Theater's self-titled different from A Dramatic Turn of Events?**
 
-A: For the 2013 self-titled, Mangini tracked on his established Pearl Reference Series kit, Sabian HHX/AAX cymbals, and Pearl Demon Drive double pedal. What sets the record apart from A Dramatic Turn of Events isn't the equipment — it's the compositional approach: the self-titled was Mangini's first album where he contributed to the songwriting from the ground up, which shaped the rhythmic architecture of tracks like 'Enigma Machine' in ways the 2011 record, written before his arrival, could not. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the full 2011 comparison.
+A: For the 2013 self-titled, Mangini tracked on his established Pearl Reference Series kit, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline double pedal. What sets the record apart from A Dramatic Turn of Events isn't the equipment — it's the compositional approach: the self-titled was Mangini's first album where he contributed to the songwriting from the ground up, which shaped the rhythmic architecture of tracks like 'Enigma Machine' in ways the 2011 record, written before his arrival, could not. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the full 2011 comparison.
 
 ## Related Articles
 
@@ -119,4 +119,4 @@ A: For the 2013 self-titled, Mangini tracked on his established Pearl Reference 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

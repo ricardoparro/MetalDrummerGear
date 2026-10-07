@@ -1,6 +1,6 @@
 # Destroy the Opposition Drum Setup — Kevin Talley's Brutal Death Metal Landmark
 
-> Inside Kevin Talley's drum performance on Dying Fetus's Destroy the Opposition (2000): Pearl Masters kit, Zildjian cymbals, and the groove-and-blast duality that made this album a brutal death metal landmark. Complete gear and technique breakdown.
+> Inside Kevin Talley's drum performance on Dying Fetus's Destroy the Opposition (2000): Pearl Masters kit, Sabian AAX cymbals, and the groove-and-blast duality that made this album a brutal death metal landmark. Complete gear and technique breakdown.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Kevin Talley](/llms/drummers/kevin-talley.md)
@@ -16,14 +16,14 @@ Released October 3, 2000 on Relapse Records, Destroy the Opposition is Dying Fet
 
 Kevin Talley, who joined Dying Fetus in 1996 at just 17 years old, delivers what many extreme metal fans consider his most influential recorded performance on this album. The title track, "Destroy the Opposition," is the clearest showcase of the quality that separates Talley from purely speed-focused blast beat drummers: his ability to shift between extreme blasting and punishing, groove-oriented mid-tempo sections without losing compositional coherence. At roughly 155 BPM, the title track's groove sections hit with a physical weight that can feel heavier than many faster passages, built on surgical snare-and-kick placement rather than density.
 
-This article covers the complete gear behind Destroy the Opposition — Talley's Pearl kit, Zildjian cymbals, and DW double bass pedal — and breaks down the groove-and-blast duality that made this record a genre landmark and a continuing reference point for brutal death metal drummers.
+This article covers the complete gear behind Destroy the Opposition — Talley's Pearl kit, Sabian AAX cymbals, and Pearl Eliminator double bass pedal — and breaks down the groove-and-blast duality that made this record a genre landmark and a continuing reference point for brutal death metal drummers.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Masters Series (Studio configuration, Hit and Run Studios sessions finish)
 - **Snare:** Pearl Pearl Free-Floating or Sensitone Steel Snare, 14" x 6.5"
-- **Cymbals:** Zildjian — Zildjian A / A Custom Series
-- **Hardware / Pedals:** DW Double Bass Pedal; Vic Firth American Classic 5B
+- **Cymbals:** Sabian — Sabian AAX Series
+- **Hardware / Pedals:** Pearl Eliminator Double Pedal; Vic Firth American Classic 5B
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high — crack and articulation across both groove and blast sections
 
@@ -39,15 +39,15 @@ On the title track, Talley's snare carries the full weight of the groove section
 
 The same snare voice serves the album's faster blast sections, where it must articulate as a discrete event in patterns alternating between kick and snare at extreme tempo — a tuning that has to satisfy both the groove sections' authority and the blast sections' clarity.
 
-### Zildjian on Destroy the Opposition
+### Sabian AAX on Destroy the Opposition
 
-Talley's Zildjian A and A Custom cymbal setup on Destroy the Opposition is built for the same dual demand as his snare: fast, aggressive articulation in the blast sections and controlled definition in the groove passages. The 14" A Custom Hi-Hats deliver a tight, responsive feel that holds together whether Talley is driving a 155 BPM groove pulse or the album's faster, blast-driven material, while the 18" China cymbal punctuates the title track's heaviest rhythmic moments with a trashy, violent character standard crashes cannot replicate.
+Talley's Sabian AAX cymbal setup on Destroy the Opposition is built for the same dual demand as his snare: fast, aggressive articulation in the blast sections and controlled definition in the groove passages. The 14" AAX Hi-Hats deliver a tight, responsive feel that holds together whether Talley is driving a 155 BPM groove pulse or the album's faster, blast-driven material, while the 18" AAX China cymbal punctuates the title track's heaviest rhythmic moments with a trashy, violent character standard crashes cannot replicate.
 
 ## Destroy the Opposition: The Groove-and-Blast Template
 
 Destroy the Opposition endures as a brutal death metal landmark because Kevin Talley's performance refuses to be reduced to a single dimension. The title track's ability to shift between extreme blasting and a weighted, deliberate groove — without either side sounding like a compromise — became a template that brutal death metal drummers have studied for over two decades. It is a reminder that the genre's technical ceiling was never only about speed.
 
-The gear behind that performance — Pearl Masters drums, Zildjian A Custom cymbals, a DW double bass pedal, Vic Firth 5B sticks — carried forward largely unchanged into Talley's subsequent Misery Index and War of Attrition-era work, evidence that the record's impact came from compositional discipline rather than equipment. Recorded and produced within the Maryland/DC scene that shaped Dying Fetus's identity, Destroy the Opposition remains the reference point for understanding Talley's full technical range.
+The gear behind that performance — Pearl Masters drums, Sabian AAX cymbals, a Pearl Eliminator double bass pedal, Vic Firth 5B sticks — carried forward largely unchanged into Talley's subsequent Misery Index and War of Attrition-era work, evidence that the record's impact came from compositional discipline rather than equipment. Recorded and produced within the Maryland/DC scene that shaped Dying Fetus's identity, Destroy the Opposition remains the reference point for understanding Talley's full technical range.
 
 For deeper exploration:
 - **Full drummer profile**: [Kevin Talley at MetalForge](/drummers/kevin-talley)
@@ -61,7 +61,7 @@ For deeper exploration:
 - Marked the album where explicitly political lyrical themes became Dying Fetus's dominant thread
 - The title track's groove sections run around 155 BPM, built on surgical snare-and-kick placement rather than density
 - Widely considered one of Kevin Talley's most influential recorded performances
-- Same Pearl / Zildjian / DW setup Talley used across his Dying Fetus and Misery Index periods
+- Same Pearl / Sabian AAX / Pearl Eliminator setup Talley used across his Dying Fetus and Misery Index periods
 - Pearl Masters maple/mahogany hybrid shells — developing toward the fully configured setup of later albums
 - Double 22" x 18" bass drums generate sub-bass mass for both blast and groove sections
 - Compact four-tom spread matched to Dying Fetus's riff-driven arrangement style
@@ -81,7 +81,7 @@ A: Destroy the Opposition was produced by Dying Fetus alongside Steve Carr, reco
 
 **Q: What drum kit did Kevin Talley use on Destroy the Opposition?**
 
-A: Kevin Talley played a Pearl Masters kit on Destroy the Opposition — maple/mahogany hybrid shells in a double 22" x 18" bass drum configuration, with 10" and 12" rack toms and 16" and 18" floor toms, paired with a 14" x 6.5" steel snare. His cymbal setup used Zildjian A and A Custom hi-hats and china, driven by a DW double bass pedal and Vic Firth American Classic 5B sticks — the same rig documented on his [complete drum setup breakdown](/articles/kevin-talley-drum-setup).
+A: Kevin Talley played a Pearl Masters kit on Destroy the Opposition — maple/mahogany hybrid shells in a double 22" x 18" bass drum configuration, with 10" and 12" rack toms and 16" and 18" floor toms, paired with a 14" x 6.5" steel snare. His cymbal setup used Sabian AAX hi-hats and china, driven by a Pearl Eliminator double bass pedal and Vic Firth American Classic 5B sticks — the same rig documented on his [complete drum setup breakdown](/articles/kevin-talley-drum-setup).
 
 **Q: How does the groove on 'Destroy the Opposition' work?**
 
@@ -101,4 +101,4 @@ A: The groove sections on "Destroy the Opposition" run at approximately 155 BPM 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -18,9 +18,9 @@ Slayer's two defining drummers compared: founding member Dave Lombardo vs longti
 
 ## Dave Lombardo Setup
 
-- **Drums:** Tama Starclassic Maple
+- **Drums:** Tama Starclassic Walnut/Birch
 - **Cymbals:** Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Snare:** Tama S.L.P. 14x6.5"
 - **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne
 - **Sticks:** Promark Dave Lombardo Signature 2Bx
 
@@ -67,4 +67,4 @@ A: Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama Dave Lomb
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

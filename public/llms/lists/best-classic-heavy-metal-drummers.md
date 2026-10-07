@@ -1,6 +1,6 @@
 # 10 Best Classic Heavy Metal Drummers of All Time — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-classic-heavy-metal-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-classic-heavy-metal-drummers)
 
 ---
 
@@ -152,7 +152,7 @@ A: Classic heavy metal drumming established the foundational rhythmic vocabulary
 A: The most influential classic heavy metal drumming albums include: Black Sabbath's "Paranoid" (1970) and "Master of Reality" (1971) for Bill Ward's genre-founding doom-laden swing; Iron Maiden's "Powerslave" (1984) for Nicko McBrain's NWOBHM gallop precision; Judas Priest's "Painkiller" (1990) for Scott Travis's speed metal technical ceiling; Motörhead's "Bastards" (1993) for Mikkey Dee's relentless proto-speed-metal force; and Pantera's "Power Metal" (1988) for Vinnie Paul's pre-groove-metal foundational work.
 
 **Q: What gear do classic heavy metal drummers use?**
-A: Classic heavy metal drummers favor durable, road-proven kits built for decades of touring reliability. Nicko McBrain has been a Sonor SQ2 endorser for decades, using a single bass drum pedal throughout his entire Iron Maiden career to achieve his signature galloping rhythms without a second pedal. Bill Ward's early Black Sabbath recordings featured Ambassador-style drumheads, establishing the warm, organic drum tone that influenced classic and doom metal alike. Scott Travis and Mikkey Dee both favor large, powerful kit configurations built for speed metal's technical double bass demands. The common thread across the genre is gear chosen for tone and touring reliability over extreme-tempo specialization.
+A: Classic heavy metal drummers favor durable, road-proven kits built for decades of touring reliability. Nicko McBrain has run a single DW pedal throughout his entire Iron Maiden career, achieving his signature galloping rhythms without ever adopting a second bass drum. Bill Ward's early Black Sabbath recordings featured Ambassador-style drumheads, establishing the warm, organic drum tone that influenced classic and doom metal alike. Scott Travis and Mikkey Dee both favor large, powerful kit configurations built for speed metal's technical double bass demands. The common thread across the genre is gear chosen for tone and touring reliability over extreme-tempo specialization.
 
 
 ---
@@ -172,4 +172,4 @@ A: Classic heavy metal drummers favor durable, road-proven kits built for decade
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

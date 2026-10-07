@@ -1,6 +1,6 @@
 # Top 10 Blackened Death Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/blackened-death-metal-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/blackened-death-metal-drummers)
 
 ---
 
@@ -127,7 +127,7 @@ A: Inferno of Behemoth is the most widely cited best blackened death metal drumm
 A: Blackened death metal drumming combines death metal's technical precision and compositional complexity with black metal's raw atmospheric ferocity and relentless hypnotic blast beat endurance. Where standard death metal prioritizes technical pattern construction and compositional sophistication, blackened death metal adds black metal's ritualistic intensity and darker atmospheric dimension — blast beats that feel more like summoning than technical demonstration. The tempos are similar (180–280+ BPM), but blackened death metal drumming emphasizes endurance and atmosphere alongside the technical demands of death metal. Bands like Behemoth, Morbid Angel, and Mayhem's blackened death phase represent the genre's defining extremity.
 
 **Q: What drum gear do blackened death metal drummers use?**
-A: Blackened death metal drummers require equipment built for sustained extreme speed. Inferno uses Pearl Masterworks with custom Polish-made Czarcie Kopyto (Devil's Hoof) double pedals, engineered specifically for extreme metal's heel-up demands. Pete Sandoval used Pearl PowerShifter Eliminator pedals on Morbid Angel's founding recordings, performing acoustically without triggers to maintain organic extreme intensity. Paul Mazurkiewicz plays Pearl kits. Hellhammer uses Sonor SQ2 with Axis double pedals and Paiste RUDE cymbals. The common thread is pedal hardware optimized for high-speed heel-up technique and cymbal setups that maintain attack clarity at extreme blast beat tempos — response speed and durability matter above all else.
+A: Blackened death metal drummers require equipment built for sustained extreme speed. Inferno uses Pearl Masterworks with custom Polish-made Czarcie Kopyto (Devil's Hoof) double pedals, engineered specifically for extreme metal's heel-up demands. Pete Sandoval has used ddrum hardware since his 1989 Morbid Angel debut, performing acoustically without triggers to maintain organic extreme intensity. Paul Mazurkiewicz plays Pearl kits. Hellhammer uses Sonor SQ2 with Axis double pedals and Paiste RUDE cymbals. The common thread is pedal hardware optimized for high-speed heel-up technique and cymbal setups that maintain attack clarity at extreme blast beat tempos — response speed and durability matter above all else.
 
 
 ---
@@ -141,4 +141,4 @@ A: Blackened death metal drummers require equipment built for sustained extreme 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

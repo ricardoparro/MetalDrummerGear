@@ -1,6 +1,6 @@
 # Ben Koller's Drum Setup on Converge's Axe to Fall (2009)
 
-> Inside Ben Koller's drum setup for Converge's Axe to Fall (2009) — the all-star collaboration record with members of Mastodon, Cave In, and Genghis Tron. Tama drums, Sabian cymbals, Tama Iron Cobra pedals, Vater signature sticks, and a more progressive arrangement palette than Jane Doe.
+> Inside Ben Koller's drum setup for Converge's Axe to Fall (2009) — the all-star collaboration record with members of Mastodon, Cave In, and Genghis Tron. Tama drums, Sabian cymbals, Tama Iron Cobra pedals, Vic Firth sticks, and a more progressive arrangement palette than Jane Doe.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Ben Koller](/llms/drummers/ben-koller.md)
@@ -18,14 +18,14 @@ Tracked at Kurt Ballou's GodCity Studio in Salem, Massachusetts and mixed by Mat
 
 The Axe to Fall guest list is unprecedented for a hardcore record. Brann Dailor (Mastodon) sings on "Worms Will Feed / Rats Will Feast." Members of Cave In, Genghis Tron, Neurosis, and Disfear contribute throughout. Koller's job on these tracks isn't just to deliver Converge intensity — it's to make room for the textures these collaborators bring, then drive the band back into full-throttle hardcore when the song demands it.
 
-Ben Koller's Axe to Fall drum setup remained centered on Tama drums, Sabian cymbals, Tama Iron Cobra pedals, and Vater signature sticks — the same core rig as Jane Doe, refined over eight more years of touring. This article breaks down the gear and examines how Koller's playing serves Axe to Fall's expanded ambition.
+Ben Koller's Axe to Fall drum setup remained centered on Tama drums, Sabian cymbals, Tama Iron Cobra pedals, and Vic Firth American Classic 5B sticks — the same core rig as Jane Doe, refined over eight more years of touring. This article breaks down the gear and examines how Koller's playing serves Axe to Fall's expanded ambition.
 
 ## Gear Breakdown
 
 - **Drums:** Tama Tama Starclassic Bubinga / Star Series (era-appropriate) (Piano Black finish)
 - **Snare:** Tama Tama Bell Brass / Starphonic Brass (era-appropriate), 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX / AAX
-- **Hardware / Pedals:** Tama Iron Cobra (Power Glide or Rolling Glide); Tama Iron Cobra Lever Glide; Tama 1st Chair Round Rider; Vater Ben Koller signature stick
+- **Hardware / Pedals:** Tama Iron Cobra (Power Glide or Rolling Glide); Tama Iron Cobra Lever Glide; Tama 1st Chair Round Rider; Vic Firth American Classic 5B
 - **Heads:** Evans G1 Coated batter; Evans 300 snare-side resonant
 - **Snare tuning:** Medium-high tension for cut through guitar mix
 
@@ -74,7 +74,7 @@ For drummers building an Axe to Fall-inspired rig, the principles are continuity
 - **Sabian HHX / AAX**: Complementary dark and bright voices, expanded with splash and X-Plosion
 - **Tama Iron Cobra single pedal**: Smooth, consistent single-foot feel
 
-Axe to Fall demonstrates that a great drum setup doesn't have to change every album. Koller's Jane Doe setup, refined over eight more years of touring and recording, served Axe to Fall's expanded ambition without compromise. The blast-and-breakdown vocabulary was already locked in. The collaborators brought new textures. Koller's job was to drive the band through every shift in feel — and his Tama / Sabian / Iron Cobra / Vater rig was built for exactly that.
+Axe to Fall demonstrates that a great drum setup doesn't have to change every album. Koller's Jane Doe setup, refined over eight more years of touring and recording, served Axe to Fall's expanded ambition without compromise. The blast-and-breakdown vocabulary was already locked in. The collaborators brought new textures. Koller's job was to drive the band through every shift in feel — and his Tama / Sabian / Iron Cobra / Vic Firth rig was built for exactly that.
 
 ## Key Facts
 
@@ -122,4 +122,4 @@ A: Axe to Fall features guest contributions from members of Mastodon (Brann Dail
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

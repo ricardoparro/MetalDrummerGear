@@ -27,7 +27,7 @@ This article breaks down the gear Martin Lopez used on My Arms, Your Hearse, pla
 - **Drums:** Pearl / Sonor (mixed) Budget touring kit (Black finish)
 - **Snare:** Pearl / Generic Generic steel snare, 14" x 5.5"
 - **Cymbals:** Sabian — Sabian B8 Pro / entry-level Sabian
-- **Hardware / Pedals:** DW 5000 Double Pedal; Pearl H-900 Hi-Hat Stand; Pearl Standard Throne; Vic Firth American Classic 5A
+- **Hardware / Pedals:** Pearl H-900 Hi-Hat Stand; Pearl Standard Throne; Vic Firth American Classic 5A
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-tight for cutting projection through dense guitars
 
@@ -102,7 +102,7 @@ A: Martin Lopez joined Opeth in 1997, partway through the recording of "My Arms,
 
 **Q: What drum kit did Martin Lopez use on My Arms, Your Hearse?**
 
-A: Martin Lopez used a budget touring kit on My Arms, Your Hearse (1998) — likely a mix of Pearl Forum or Sonor Force-class shells consistent with Opeth's pre-endorsement era finances. His configuration included a 22x18" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms — the same four-tom layout he would carry through every subsequent Opeth album. He paired the kit with Sabian B8 Pro entry-level cymbals (later upgraded to the Sabian HH series by [Still Life in 1999](/articles/still-life-drum-setup)) and a DW 5000 double pedal, which would remain his pedal of choice throughout his Opeth career. The gear was modest; the technique already wasn't.
+A: Martin Lopez used a budget touring kit on My Arms, Your Hearse (1998) — likely a mix of Pearl Forum or Sonor Force-class shells consistent with Opeth's pre-endorsement era finances. His configuration included a 22x18" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms — the same four-tom layout he would carry through every subsequent Opeth album. He paired the kit with Sabian B8 Pro entry-level cymbals (later upgraded to the Sabian HH series by [Still Life in 1999](/articles/still-life-drum-setup)). No specific pedal brand is documented for this era. The gear was modest; the technique already wasn't.
 
 **Q: Why does My Arms, Your Hearse sound different from other Opeth albums?**
 
@@ -131,4 +131,4 @@ A: My Arms, Your Hearse is the entry point for the five-album Lopez/Opeth cluste
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

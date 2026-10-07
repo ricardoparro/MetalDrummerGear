@@ -33,9 +33,9 @@ The album earned a Grammy nomination for Best Metal Performance at the 1993 cere
 
 ### Menza's Pearl Masters — The Move to a New Kit
 
-For Countdown to Extinction, Nick Menza left behind the Tama Swingstar that had carried him through Rust in Peace and moved to a Pearl Masters kit, seeking a more resonant, powerful sound to match the album's bigger, more radio-ready production. The three-tom setup of 1990 gave way to a more focused two-up, two-down arrangement — better suited to the album's song-first approach and to the mid-tempo grooves that anchored singles like "Symphony of Destruction" and "Foreclosure of a Dream."
+For Countdown to Extinction, Nick Menza left behind the Tama Artstar II that had carried him through Rust in Peace and moved to a Pearl Masters kit, seeking a more resonant, powerful sound to match the album's bigger, more radio-ready production. The three-tom setup of 1990 gave way to a more focused two-up, two-down arrangement — better suited to the album's song-first approach and to the mid-tempo grooves that anchored singles like "Symphony of Destruction" and "Foreclosure of a Dream."
 
-The Pearl Masters' maple shells suited Megadeth's dense guitar arrangements in a different way than the Swingstar's poplar had. Maple's warmer, more resonant voice gave each drum a fuller body under Mustaine's and Marty Friedman's interweaving guitar parts, while still cutting through cleanly enough that Max Norman didn't need to reach for aggressive EQ. Norman's modern, polished production approach paired well with the kit's added resonance.
+The Pearl Masters' maple shells suited Megadeth's dense guitar arrangements in a different way than the Artstar II's birch had. Maple's warmer, more resonant voice gave each drum a fuller body under Mustaine's and Marty Friedman's interweaving guitar parts, while still cutting through cleanly enough that Max Norman didn't need to reach for aggressive EQ. Norman's modern, polished production approach paired well with the kit's added resonance.
 
 The double 22" x 16" bass drums stayed in place for tracks that still demanded sustained double-kick work — "Skin O' My Teeth," "High Speed Dirt," and sections of "Captive Honour" — but Menza used them with more restraint than on Rust in Peace. The album rewards listening for what Menza chose not to play as much as what he did play. That restraint is the sound of a drummer who knew the songs were the star.
 
@@ -96,7 +96,7 @@ Nick Menza died tragically in 2016 at age 51, collapsing on stage with his band 
 - Streamlined four-tom configuration vs. Rust in Peace's five-tom sprawl
 - Maple shells for a warmer, more resonant tone than the Rust in Peace-era Tama birch
 - Double bass retained for select tracks; used with more restraint
-- Marked the start of Menza's Pearl endorsement, replacing the Tama Swingstar
+- Marked the start of Menza's Pearl endorsement, replacing the Tama Artstar II
 - First album-era setup of Menza's Pearl relationship, which carried through Cryptic Writings
 - Estimated kit value: $2,000-4,000 (vintage Pearl Masters shell pack)
 - Estimated snare value: $350-450 (1992) / $600-900 (vintage today)
@@ -105,7 +105,7 @@ Nick Menza died tragically in 2016 at age 51, collapsing on stage with his band 
 
 **Q: What drum kit did Nick Menza use on Countdown to Extinction?**
 
-A: Nick Menza played a Pearl Masters kit on Countdown to Extinction, recorded at Enterprise Studios in Burbank in 1992 — his first album on Pearl after moving on from the Tama Swingstar he used on Rust in Peace. The setup featured twin 22 by 16 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms — a four-tom configuration compared to the three-tom setup he used on Rust in Peace. The maple shells gave the kit a warmer, more resonant tone that suited the album's dense guitar arrangements while Max Norman's production delivered the bigger, more radio-ready drum sound the songs called for.
+A: Nick Menza played a Pearl Masters kit on Countdown to Extinction, recorded at Enterprise Studios in Burbank in 1992 — his first album on Pearl after moving on from the Tama Artstar II he used on Rust in Peace. The setup featured twin 22 by 16 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms — a four-tom configuration compared to the three-tom setup he used on Rust in Peace. The maple shells gave the kit a warmer, more resonant tone that suited the album's dense guitar arrangements while Max Norman's production delivered the bigger, more radio-ready drum sound the songs called for.
 
 **Q: What cymbals did Nick Menza use on Countdown to Extinction?**
 
@@ -138,4 +138,4 @@ A: Nick Menza used a Pearl Masters snare at 14 inches by 6.5 inches deep on Coun
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

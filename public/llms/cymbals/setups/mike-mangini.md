@@ -1,6 +1,6 @@
 # What Cymbals Does Mike Mangini Use? Full Setup
 
-**Band:** Dream Theater | **Brand(s):** Sabian
+**Band:** Godsmack (2026-present); Dream Theater (2010-2023) | **Brand(s):** Sabian
 
 ---
 
@@ -40,4 +40,4 @@ A: Mike Mangini plays Sabian cymbals: 14" HHX Evolution Hi-Hats, 17" HHX Evoluti
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

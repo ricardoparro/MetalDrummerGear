@@ -1,6 +1,6 @@
 # Top 10 Symphonic Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/symphonic-metal-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/symphonic-metal-drummers)
 
 ---
 
@@ -141,4 +141,4 @@ A: Symphonic metal drummers favor large kits capable of delivering the power and
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

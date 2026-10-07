@@ -1,24 +1,24 @@
 # What Cymbals Does Bill Ward Use? Full Setup
 
-**Band:** Black Sabbath | **Brand(s):** Paiste
+**Band:** Black Sabbath | **Brand(s):** Zildjian
 
 ---
 
 ## Direct Answer
 
-Bill Ward plays Paiste cymbals: 15" Giant Beat Hi-Hats, 18" 2002 Crash, 20" 2002 Crash, 24" 2002 Ride, 18" 2002 China.
+Bill Ward plays Zildjian cymbals: 15" Avedis Hi-Hats, 18" Avedis Crash, 20" Avedis Crash, 24" Avedis Ride, 18" Avedis China.
 
 ## Cymbal Breakdown
 
 | Piece | Size | Series | Model |
 |-------|------|--------|-------|
-| Hi-hat | 15" | Giant Beat | Hi-Hats |
-| Crash | 18" | 2002 | Crash |
-| Crash | 20" | 2002 | Crash |
-| Ride | 24" | 2002 | Ride |
-| China | 18" | 2002 | China |
+| Hi-hat | 15" | Avedis | Hi-Hats |
+| Crash | 18" | Avedis | Crash |
+| Crash | 20" | Avedis | Crash |
+| Ride | 24" | Avedis | Ride |
+| China | 18" | Avedis | China |
 
-Verified roster hardware entry: "Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Zildjian Avedis Series (15" Hi-Hats, 18" & 20" Crashes, 24" Ride, 18" China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -30,7 +30,7 @@ Verified roster hardware entry: "Paiste 2002 & Giant Beat Series (15" Giant Beat
 ## FAQ
 
 **Q: What cymbals does Bill Ward use?**
-A: Bill Ward plays Paiste cymbals: 15" Giant Beat Hi-Hats, 18" 2002 Crash, 20" 2002 Crash, 24" 2002 Ride, 18" 2002 China.
+A: Bill Ward plays Zildjian cymbals: 15" Avedis Hi-Hats, 18" Avedis Crash, 20" Avedis Crash, 24" Avedis Ride, 18" Avedis China.
 
 ## More Resources
 
@@ -41,4 +41,4 @@ A: Bill Ward plays Paiste cymbals: 15" Giant Beat Hi-Hats, 18" 2002 Crash, 20" 2
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

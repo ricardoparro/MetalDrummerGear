@@ -111,10 +111,10 @@ A: Yes. At the Gates disbanded in 1996, the year after releasing Slaughter of th
 - [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
 - [At the Gates 'Slaughter of the Soul' Drum Setup — Adrian Erlandsson's 1995 Gear](https://metalforge.io/articles/slaughter-of-the-soul-drum-setup)
 - [At the Gates 'To Drink from the Night Itself' Drum Setup — Adrian Erlandsson's 2018 Gear](https://metalforge.io/articles/to-drink-from-the-night-itself-drum-setup)
-- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+- [Daniel Erlandsson's Drum Setup — Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
 
 **Source:** https://metalforge.io/articles/at-war-with-reality-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

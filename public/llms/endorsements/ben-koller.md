@@ -20,9 +20,9 @@ Ben Koller endorses Zildjian for cymbals. They play the Zildjian K Custom & A Cu
 
 Ben Koller endorses Vic Firth for drumsticks. They play the Vic Firth American Classic 5B. This partnership began in 1999.
 
-### Drumheads: Evans
+### Drumheads: Remo
 
-Ben Koller endorses Evans for drumheads. They play the Evans G1/G2 Coated. This partnership began in 1999.
+Ben Koller endorses Remo for drumheads. They play the Remo Coated. This partnership began in 1999.
 
 ### Hardware / Pedals: Tama
 
@@ -37,7 +37,7 @@ Ben Koller endorses Tama for hardware / pedals. They play the Tama Iron Cobra Do
 ## FAQ
 
 **Q: What brands does Ben Koller endorse?**
-A: Ben Koller endorses Tama, Zildjian, Vic Firth, Evans. Their primary drum endorsement is Tama and they play Zildjian cymbals.
+A: Ben Koller endorses Tama, Zildjian, Vic Firth, Remo. Their primary drum endorsement is Tama and they play Zildjian cymbals.
 
 **Q: Does Ben Koller have a signature drum or cymbal?**
 A: Ben Koller is a key Tama endorser but does not have a dedicated signature kit model in the current lineup.
@@ -55,4 +55,4 @@ A: See the Endorsement History section above for a full timeline of Ben Koller's
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

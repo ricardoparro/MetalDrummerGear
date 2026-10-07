@@ -10,18 +10,18 @@ Slayer's Dave Lombardo vs Lamb of God's Chris Adler. Thrash metal's founding dou
 
 ## Dave Lombardo Setup
 
-- **Drums:** Tama Starclassic Maple
+- **Drums:** Tama Starclassic Walnut/Birch
 - **Cymbals:** Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Snare:** Tama S.L.P. 14x6.5"
 - **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne
 - **Sticks:** Promark Dave Lombardo Signature 2Bx
 
 ## Chris Adler Setup
 
-- **Drums:** Mapex Black Panther Design Lab
+- **Drums:** Mapex Saturn in Satin Black Maple Burl
 - **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)
 - **Snare:** Mapex Chris Adler Signature 14x5.5" Walnut/Maple
-- **Pedals/Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
+- **Pedals/Hardware:** Trick Pro V Double Pedal
 - **Sticks:** Promark TX5AXW Chris Adler Signature
 
 ## Playing Style
@@ -34,7 +34,7 @@ Lombardo's technique is rooted in feel over quantization — his single-stroke b
 
 ## Key Differences
 
-Dave Lombardo plays a Tama Starclassic Maple drum kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China), driven by a Tama Iron Cobra 900 double pedal and Promark Dave Lombardo Signature 2Bx sticks. Chris Adler plays a Mapex Black Panther Design Lab kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Mapex Falcon double pedal and Promark TX5AXW Chris Adler Signature sticks. Lombardo's technique is rooted in feel over quantization — his single-stroke blast beat on "Angel of Death" essentially invented the extreme metal blast beat template that generations of death and black metal drummers built upon, and his playing across Slayer's catalog retains a loose, human urgency even at breakneck tempos. Adler's technique is built on obsessive precision — tight, syncopated triplet grooves locked to the guitar riffs, explosive snare accents, and a double bass approach influenced as much by Latin and jazz rhythms as by metal, producing the tightly quantized-feeling grooves that became Lamb of God's signature.
+Dave Lombardo plays a Tama Starclassic Maple drum kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China), driven by a Tama Iron Cobra 900 double pedal and Promark Dave Lombardo Signature 2Bx sticks. Chris Adler plays a Mapex Black Panther Design Lab kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Trick Pro V double pedal and Promark TX5AXW Chris Adler Signature sticks. Lombardo's technique is rooted in feel over quantization — his single-stroke blast beat on "Angel of Death" essentially invented the extreme metal blast beat template that generations of death and black metal drummers built upon, and his playing across Slayer's catalog retains a loose, human urgency even at breakneck tempos. Adler's technique is built on obsessive precision — tight, syncopated triplet grooves locked to the guitar riffs, explosive snare accents, and a double bass approach influenced as much by Latin and jazz rhythms as by metal, producing the tightly quantized-feeling grooves that became Lamb of God's signature.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: No direct collaboration exists between the two, though both drummers moved in
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

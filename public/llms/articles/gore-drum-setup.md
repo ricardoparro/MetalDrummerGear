@@ -18,7 +18,7 @@ Gore arrived in a different creative climate than Koi No Yokan had four years ea
 
 For Abe Cunningham, Gore is the sound of a drummer holding the center of a record that's pulling in more directions than usual. "Prayers/Triangles" — the album's most-streamed track and a frequent entry on "best Deftones songs" lists — opens the record with a driving, hypnotic groove that has to anchor layers of guitar texture, samples, and vocal melody without ever losing its forward motion. Elsewhere, on "Doomed User" and "Acid Hologram," Abe's pocket-first, single-kick approach — refined across Diamond Eyes and Koi No Yokan — continues to be the load-bearing wall of the band's sound, regardless of how far the surrounding arrangements wander.
 
-Matt Hyde's production is denser and more layered than Nick Raskulinecz's work on the previous two records, reflecting Gore's more experimental, sample-and-texture-heavy character. But Abe's core kit and cymbal setup — the Tama Starclassic and Zildjian K Custom combination that had defined the modern Deftones sound for years — carries through largely unchanged, a stable foundation underneath the band's most adventurous record.
+Matt Hyde's production is denser and more layered than Nick Raskulinecz's work on the previous two records, reflecting Gore's more experimental, sample-and-texture-heavy character. But Abe's core kit and cymbal setup — the Tama Starclassic and Sabian HHX combination that had defined the modern Deftones sound for years — carries through largely unchanged, a stable foundation underneath the band's most adventurous record.
 
 This article explores the gear Abe used during the Gore sessions, the techniques that defined its sound, and how this transitional, chart-topping record fits into the broader arc of his career.
 
@@ -26,8 +26,8 @@ This article explores the gear Abe used during the Gore sessions, the techniques
 
 - **Drums:** Tama Tama Starclassic Bubinga / Birch hybrid (Custom dark finish finish)
 - **Snare:** Tama Tama Bell Brass 14"x6.5" / Tama Starphonic Brass, 14" x 6.5"
-- **Cymbals:** Zildjian — K Custom / A Custom
-- **Hardware / Pedals:** Tama Speed Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth Signature / 5B-equivalent
+- **Cymbals:** Sabian — HHX
+- **Hardware / Pedals:** Tama Speed Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark (non-signature)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tuning with controlled overtones
 
@@ -53,15 +53,15 @@ For the more atmospheric material — "Acid Hologram," "Hearts/Wires," the title
 
 "Phantom Bride" is a particular showcase: the verse plays with restraint and rim work before Jerry Cantrell's guest solo arrives, and the snare's dynamic range — quiet enough to disappear, loud enough to anchor a full-band crescendo — is exactly what the song needs at each stage.
 
-### Zildjian K Custom: The Established Voice
+### Sabian HHX: The Established Voice
 
-By the time Gore was recorded, Abe Cunningham's Zildjian K Custom setup had been his cymbal voice for years, refined through Diamond Eyes and Koi No Yokan. Gore doesn't introduce a new cymbal palette so much as put the established one to new uses, matching the album's more textural, atmospheric songwriting.
+By the time Gore was recorded, Abe Cunningham's Sabian HHX setup had been his cymbal voice for years, refined through Diamond Eyes and Koi No Yokan. Gore doesn't introduce a new cymbal palette so much as put the established one to new uses, matching the album's more textural, atmospheric songwriting.
 
-The 14" K Custom Hi-Hats remain the foundation. On "Prayers/Triangles," their dry chick and clear articulation drive the song's hypnotic groove; on the quieter passages of "Hearts/Wires" and "Acid Hologram," Abe's partially-open hi-hat work adds texture that sits alongside Frank Delgado's samples and keyboards rather than competing with them.
+The 14" HHX Hi-Hats remain the foundation. On "Prayers/Triangles," their dry chick and clear articulation drive the song's hypnotic groove; on the quieter passages of "Hearts/Wires" and "Acid Hologram," Abe's partially-open hi-hat work adds texture that sits alongside Frank Delgado's samples and keyboards rather than competing with them.
 
-The 22" K Custom Ride continues to be the cymbal Abe reaches for when a song needs sustained atmosphere. "Geometric Headdress" and the title track both lean on extended ride patterns — complex wash, clear stick definition — that give Matt Hyde's denser production something organic to build around.
+The 22" HHX Ride continues to be the cymbal Abe reaches for when a song needs sustained atmosphere. "Geometric Headdress" and the title track both lean on extended ride patterns — complex wash, clear stick definition — that give Matt Hyde's denser production something organic to build around.
 
-The 18" and 20" K Custom crashes punctuate Gore's dynamic peaks, including the buildup into Jerry Cantrell's guest solo on "Phantom Bride." The 19" A Custom China appears rarely, true to Abe's longstanding discipline with accent cymbals — when it shows up, on "Doomed User" and "Rubicon," it means something.
+The 18" and 20" HHX crashes punctuate Gore's dynamic peaks, including the buildup into Jerry Cantrell's guest solo on "Phantom Bride." The 19" HHX China appears rarely, true to Abe's longstanding discipline with accent cymbals — when it shows up, on "Doomed User" and "Rubicon," it means something.
 
 ## The Steady Center of a Record in Flux
 
@@ -69,7 +69,7 @@ Gore is a record defined by tension between stability and change — a band push
 
 **What Made Abe's Performance Special:**
 
-- **Consistency Under Pressure:** With Stephen Carpenter less involved and the songwriting leaning more atmospheric, Abe's familiar Tama Starclassic and Zildjian K Custom setup gave the rest of the band a stable foundation to build experiments on top of.
+- **Consistency Under Pressure:** With Stephen Carpenter less involved and the songwriting leaning more atmospheric, Abe's familiar Tama Starclassic and Sabian HHX setup gave the rest of the band a stable foundation to build experiments on top of.
 
 - **Pocket-First Discipline:** "Prayers/Triangles" and "Doomed User" prove that Abe's single-kick, groove-first approach didn't need to change to suit Gore's denser production — it simply had to anchor it.
 
@@ -92,7 +92,7 @@ Explore [Abe Cunningham's complete gear profile](/drummer/abe-cunningham) and th
 - Stephen Carpenter's reduced involvement shifted more songwriting weight onto Chino Moreno and Frank Delgado
 - Jerry Cantrell (Alice in Chains) guests with a guitar solo on "Phantom Bride"
 - "Prayers/Triangles" is the album's most-streamed track and a recurring entry on "best Deftones songs" lists
-- Abe's Tama Starclassic / Zildjian K Custom setup carries over from Koi No Yokan largely unchanged
+- Abe's Tama Starclassic / Sabian HHX setup carries over from Koi No Yokan largely unchanged
 - Tama Starclassic Bubinga/Birch — same kit carried over from Diamond Eyes and Koi No Yokan
 - Single 22" bass drum — no double bass anywhere on the record
 - 10/12 rack toms and 14/16 floor toms for melodic range
@@ -113,7 +113,7 @@ A: Gore debuted at #2 on the Billboard 200 chart upon its April 8, 2016 release,
 
 **Q: What cymbals does Abe Cunningham play on Gore?**
 
-A: On Gore, Abe Cunningham used his established Zildjian K Custom setup, including 14-inch K Custom Hi-Hats, K Custom crashes in 18 and 20 inch sizes, a 22-inch K Custom Ride, and a 19-inch A Custom China. This is the same K Custom/A Custom cymbal palette he has used throughout his career with Deftones.
+A: On Gore, Abe Cunningham used his established Sabian HHX setup, including 14-inch HHX Hi-Hats, HHX crashes in 18 and 20 inch sizes, a 22-inch HHX Ride, and a 19-inch HHX China. This is the same HHX cymbal palette he has used since switching from Zildjian on Diamond Eyes in 2010.
 
 **Q: Who produced Deftones' Gore album?**
 
@@ -139,4 +139,4 @@ A: "Prayers/Triangles," the album's opening track, is Gore's most-streamed song 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -34,7 +34,7 @@ Harrison specializes in linear drumming and polyrhythmic layering, using deep mu
 
 ## Key Differences
 
-Gavin Harrison plays a Sonor SQ2 kit with thin maple shells, his own Sonor Gavin Harrison Signature 14x5.25" brass snare, and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, paired with his Vic Firth Gavin Harrison Signature stick. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals — Harrison's dry, articulate rig favors restraint, while Otto's acrylic shells and single-pedal setup are built for cutting through Limp Bizkit's dense rap-metal mix. Harrison specializes in linear drumming and polyrhythmic layering, using deep musical instinct and meticulous ghost-note weaving through odd time signatures to make technically impossible grooves feel natural, a discipline honed across decades of session work. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket — a shared jazz foundation that the two drummers channel toward entirely different ends.
+Gavin Harrison plays a Sonor SQ2 kit with thin maple shells, his own Sonor Gavin Harrison Signature 14x5.25" brass snare, and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, paired with his Vic Firth Gavin Harrison Signature stick. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals — Harrison's dry, articulate rig favors restraint, while Otto's acrylic shells and single-pedal setup are built for cutting through Limp Bizkit's dense rap-metal mix. Harrison specializes in linear drumming and polyrhythmic layering, using deep musical instinct and meticulous ghost-note weaving through odd time signatures to make technically impossible grooves feel natural, a discipline honed across decades of session work. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket — a shared jazz foundation that the two drummers channel toward entirely different ends.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Gavin Harrison and John Otto both draw on jazz training, yet arrive at opposite 
 A: Gavin Harrison (Porcupine Tree, King Crimson) is known for meticulous polyrhythmic layering and ghost-note precision across odd time signatures. John Otto (Limp Bizkit) is known for disciplined, jazz-and-funk-informed grooves built around a tight single-pedal pocket. Both trained in jazz, but Harrison channels it into composed complexity while Otto channels it into song-serving restraint.
 
 **Q: What gear do Gavin Harrison and John Otto use?**
-A: Gavin Harrison plays a Sonor SQ2 kit with his signature Sonor 14x5.25" brass snare and Zildjian K Custom Special Dry cymbals. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar G Class pedals.
+A: Gavin Harrison plays a Sonor SQ2 kit with his signature Sonor 14x5.25" brass snare and Zildjian K Custom Special Dry cymbals. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar Professional Series pedals.
 
 **Q: What bands are Gavin Harrison and John Otto known for?**
 A: Gavin Harrison is best known for Porcupine Tree (since 2002) and King Crimson (since 2008), and also drums for The Pineapple Thief. John Otto has been Limp Bizkit's drummer and founding member since 1994.
@@ -67,4 +67,4 @@ A: Yes — both drummers have jazz backgrounds. Gavin Harrison built his early c
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

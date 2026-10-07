@@ -40,4 +40,4 @@ A: Tomas Haake, Danny Carey, Hellhammer use the Sonor SQ2 Heavy Beech Drums.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide
 
-> Shannon Larkin's complete drum setup: Ddrum Reflex kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks — the full rig behind Godsmack's hard rock power.
+> Shannon Larkin's complete drum setup: ddrum Dios Series kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks — the full rig behind Godsmack's hard rock power.
 
 **Type:** Kit Breakdown
 **Drummer(s):** [Shannon Larkin](/llms/drummers/shannon-larkin.md)
@@ -13,26 +13,26 @@ Shannon Larkin has been the drummer for Godsmack since 2002 — one of the most 
 
 Born on April 24, 1967, in Baltimore, Maryland, Larkin built his professional foundation with Wrathchild America (thrash metal, 1989) and Ugly Kid Joe (whose "Everything About You" became a worldwide hit in 1992), arriving in the Godsmack lineup with more than a decade of professional experience already behind him. That experience shows in his playing: disciplined, punishing where the music demands it, and always locked into the groove that makes Godsmack's brand of heavy rock so immediately identifiable.
 
-His setup centers on Ddrum Reflex Series drums with a Ddrum Shannon Larkin Signature snare, Sabian AAX and HHX cymbals, DW 9000 double bass pedals, and Vic Firth American Classic 5B sticks. Every element is selected for durability and performance under the demands of a global touring schedule — Godsmack has never been a studio-only band, and Larkin's kit reflects that road-first philosophy.
+His setup centers on ddrum Dios Series drums with a Ddrum Shannon Larkin Signature snare, Sabian AAX and HHX cymbals, DW 9000 double bass pedals, and Vic Firth American Classic 5B sticks. Every element is selected for durability and performance under the demands of a global touring schedule — Godsmack has never been a studio-only band, and Larkin's kit reflects that road-first philosophy.
 
 This article breaks down every major component of Shannon Larkin's drum setup: the Ddrum shell configuration, the Sabian cymbal selection, the DW 9000 foot hardware, and the evolution of his gear across Godsmack's catalog from *Faceless* (2003) through *Lighting Up the Sky* (2023).
 
 ## Gear Breakdown
 
-- **Drums:** Ddrum Ddrum Reflex Series (Custom finishes for touring configurations finish)
+- **Drums:** Ddrum ddrum Dios Series (Custom finishes for touring configurations finish)
 - **Snare:** Ddrum Ddrum Shannon Larkin Signature, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian AAX and HHX Series
 - **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vic Firth American Classic 5B; Pork Pie Big Boy; Evans G2 Coated / EC2; Evans EMAD
 - **Heads:** Evans G2 Coated (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium-high for cut and projection through Godsmack's dense guitar mix
 
-### Ddrum Reflex Series: Built for the Road
+### ddrum Dios Series: Built for the Road
 
-Shannon Larkin has been a Ddrum endorser for much of his time with Godsmack, and the Ddrum Reflex Series forms the backbone of his touring rig. Ddrum (Digital Drums) is a Swedish-founded company now manufactured in the US, known for producing aggressive, durable drum shells designed to withstand the rigors of arena and festival touring. The Reflex series delivers a punchy, articulate tone with the durability that Godsmack's relentless touring schedule demands.
+Shannon Larkin has been a Ddrum endorser for much of his time with Godsmack, and the ddrum Dios Series forms the backbone of his touring rig. Ddrum (Digital Drums) is a Swedish-founded company now manufactured in the US, known for producing aggressive, durable drum shells designed to withstand the rigors of arena and festival touring. The Dios series delivers a punchy, articulate tone with the durability that Godsmack's relentless touring schedule demands.
 
 The kit configuration is streamlined for maximum impact with minimum complexity. A double-kick configuration with two 22" bass drums anchors the low end; two rack toms (10" and 12") plus two floor toms (14" and 16") provide the fills range Larkin needs for Godsmack's dynamic arrangements without overcomplicating the setup. Songs like "I Stand Alone," "Awake," and "Bulletproof" are built on big, simple, crushing rhythmic patterns — and Larkin's kit is configured to deliver exactly that.
 
-The basswood/poplar shell construction characteristic of the Reflex Series provides a dry, punchy attack that translates well both in large outdoor festival environments and in the more controlled acoustics of Godsmack's arena headline slots. The shells' focused tone means less bleed between drums on stage, which is critical in a live production with as much sonic density as Godsmack's.
+The basswood/poplar shell construction characteristic of the Dios Series provides a dry, punchy attack that translates well both in large outdoor festival environments and in the more controlled acoustics of Godsmack's arena headline slots. The shells' focused tone means less bleed between drums on stage, which is critical in a live production with as much sonic density as Godsmack's.
 
 Larkin keeps the visual presentation simple — matching drum hardware without excessive customization — in keeping with his philosophy of gear that works rather than gear that displays.
 
@@ -62,11 +62,11 @@ The 10" AAX Splash and 18" AAX Chinese round out the setup: the splash for quick
 
 Shannon Larkin has spent more than twenty years as Godsmack's drummer — a tenure that spans seven studio albums, multi-platinum commercial success, and some of the largest stages in American hard rock. That longevity is itself a statement about what his gear and approach deliver: consistent, reliable, powerful drumming that serves the band's music exactly as well in arena 200 as it did in 2003.
 
-His Ddrum Reflex kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks are not flashy or trend-chasing choices. They are road-tested selections from an experienced professional who understands that gear exists to serve performance — and that the best gear for a global touring drummer is gear that sounds great and never lets you down.
+His ddrum Dios Series kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks are not flashy or trend-chasing choices. They are road-tested selections from an experienced professional who understands that gear exists to serve performance — and that the best gear for a global touring drummer is gear that sounds great and never lets you down.
 
 Every piece of the Shannon Larkin rig reflects that priority:
 
-- **Ddrum Reflex Series**: Road-grade shells with focused, punchy tone for hard rock arena environments
+- **ddrum Dios Series**: Road-grade shells with focused, punchy tone for hard rock arena environments
 - **Ddrum Shannon Larkin Signature Snare**: Custom 14" x 6.5" steel snare for the crack that defines Godsmack's backbeat
 - **Sabian AAX/HHX**: Bright, fast, dynamic — cymbals that project in 20,000-seat venues without compromising tonal complexity
 - **DW 9000 Double Pedal**: Industry-standard chain-drive precision for Godsmack's groove-first double-kick approach
@@ -85,25 +85,25 @@ Shannon Larkin arrived at Godsmack with a resume built on professional gigs acro
 ## Key Facts
 
 - Godsmack's drummer since 2002 — first album: Faceless (2003)
-- Ddrum Reflex Series kit — Ddrum signature artist since the mid-2000s
+- ddrum Dios Series kit — Ddrum signature artist since the mid-2000s
 - Ddrum Shannon Larkin Signature snare, 14" x 6.5"
 - Sabian AAX and HHX series cymbals — 14" Stage Hi-Hats, X-Plosion Crashes, HHX Raw Bell Dry Ride
 - DW 9000 Series double bass pedal for Godsmack's driving hard rock rhythms
 - Vic Firth American Classic 5B sticks
 - Former member of Ugly Kid Joe and Wrathchild America
-- Ddrum Reflex Series — road-tested construction for global touring
+- ddrum Dios Series — road-tested construction for global touring
 - Double 22" bass drums for Godsmack's driving rock double-kick
 - Streamlined four-tom spread (10", 12", 14", 16") for powerful fills
 - Basswood/poplar shells for focused, punchy attack in outdoor and arena environments
 - Ddrum signature artist since mid-2000s Godsmack touring cycle
-- Estimated kit value: $1,500–3,000 (Ddrum Reflex shell pack)
+- Estimated kit value: $1,500–3,000 (ddrum Dios Series shell pack)
 - Estimated snare value: $300–500 (Ddrum Shannon Larkin Signature snare)
 
 ## Frequently Asked Questions
 
 **Q: What drum kit does Shannon Larkin use?**
 
-A: Shannon Larkin plays Ddrum Reflex Series drums as his primary touring kit with Godsmack. Ddrum (Digital Drums) is a Swedish-founded brand now manufactured in the US, known for road-grade basswood/poplar shells with a punchy, dry attack suited to hard rock arena environments. His configuration runs double 22" bass drums and four toms (10", 12", 14", 16"). Larkin has been a Ddrum endorser for much of his tenure with Godsmack since 2002. Full profile at [Shannon Larkin at MetalForge](/drummer/shannon-larkin).
+A: Shannon Larkin plays ddrum Dios Series drums as his primary touring kit with Godsmack. Ddrum (Digital Drums) is a Swedish-founded brand now manufactured in the US, known for road-grade basswood/poplar shells with a punchy, dry attack suited to hard rock arena environments. His configuration runs double 22" bass drums and four toms (10", 12", 14", 16"). Larkin has been a Ddrum endorser for much of his tenure with Godsmack since 2002. Full profile at [Shannon Larkin at MetalForge](/drummer/shannon-larkin).
 
 **Q: What cymbals does Shannon Larkin play?**
 
@@ -138,4 +138,4 @@ A: Shannon Larkin uses the DW 9000 Series double bass pedal. The DW 9000 is one 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

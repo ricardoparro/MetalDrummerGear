@@ -3,10 +3,10 @@ name: "Igor Cavalera"
 band: "Sepultura / Cavalera Conspiracy / Soulwax"
 genre: "Thrash Metal / Groove Metal / Death Metal"
 country: "Brazil"
-primary_brand: "Tama"
+primary_brand: "Yamaha"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup
@@ -22,16 +22,16 @@ Igor Cavalera's drum kit and gear setup. Igor Cavalera is a professional metal d
 | All bands | Mats/Morgan Band, Kaipa |
 | Genre | Thrash Metal / Groove Metal / Death Metal |
 | Country | Brazil |
-| Primary brand | Tama |
-| Drum kit | Tama Starclassic Maple |
-| Signature snare | Tama S.L.P. 14x6.5" G-Maple |
+| Primary brand | Yamaha |
+| Drum kit | Yamaha Absolute Hybrid Maple |
+| Signature snare | Yamaha |
 | Sticks | Vic Firth American Classic 5B |
 
 ## Kit Overview
 
-Igor Cavalera plays a Tama Starclassic Maple drum kit — the powerful, resonant configuration that anchored Sepultura's transformation from thrash metal aggression to tribal groove metal across landmark albums like Chaos A.D. (1993) and Roots (1996). The Starclassic Maple's warm, focused tone supports both the punishing metal foundation and the tribal percussion vocabulary — atabaques, caixas, surdos — that made Roots a landmark fusion of metal and Brazilian percussion.
+Igor Cavalera plays a Yamaha Absolute Hybrid Maple drum kit since 2018 — the powerful, resonant configuration that followed his decades on Tama across Sepultura's transformation from thrash metal aggression to tribal groove metal on landmark albums like Chaos A.D. (1993) and Roots (1996). The Absolute Hybrid Maple's warm, focused tone supports both the punishing metal foundation and the tribal percussion vocabulary — atabaques, caixas, surdos — that made Roots a landmark fusion of metal and Brazilian percussion.
 
-The cornerstone of the Igor Cavalera drum set is his Tama S.L.P. 14×6.5" G-Maple snare, delivering the punishing crack that drives groove metal riffs on "Refuse/Resist" and "Roots Bloody Roots." Paiste RUDE & 2002 Series cymbals define the sonic aggression of the Igor Cavalera drum kit: 14" RUDE Hi-Hats for harsh, cutting articulation; 18" and 19" RUDE Crashes for explosive, slow-decay accents; a 22" RUDE Power Ride for heavyweight rhythmic definition; and an 18" 2002 China for tribal punctuation. A Tama Iron Cobra double pedal powers his double bass drive, while Vic Firth American Classic 5B sticks complete this drum set forged across two decades with Sepultura and Cavalera Conspiracy.
+Zildjian A Custom Series cymbals, played since 2006, define the sonic character of the Igor Cavalera drum kit, driving groove metal riffs on "Refuse/Resist" and "Roots Bloody Roots." A Tama Iron Cobra double pedal powers his double bass drive, while Vic Firth American Classic 5B sticks and Remo heads complete this drum set forged across four decades with Sepultura and Cavalera Conspiracy.
 
 ## Biography
 
@@ -100,19 +100,19 @@ Igor Cavalera's drumming style revolutionized metal by incorporating Brazilian t
 
 ## Gear
 
-- **Drums:** Tama Starclassic Maple
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
-- **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)
+- **Drums:** Yamaha Absolute Hybrid Maple
+- **Snare:** Yamaha
+- **Cymbals:** Zildjian A Custom Series
 - **Hardware:** Tama Iron Cobra Double Pedal, Tama Throne
 - **Sticks:** Vic Firth American Classic 5B
-- **Heads:** Evans
+- **Heads:** Remo
 
 ## Endorsements
 
 - [Tama Drums](https://www.tama.com)
 - [Paiste Cymbals](https://www.paiste.com)
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -195,15 +195,7 @@ Igor Cavalera's snare: Yamaha Absolute Hybrid Maple 14x6.5". See the [snares gui
 
 ## Cymbal Setup
 
-Igor Cavalera's cymbals: Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China).
-
-| Piece | Size | Series | Model |
-|---|---|---|---|
-| hi-hat | 14" | RUDE | Hi-Hats |
-| crash | 18" | RUDE | Crash |
-| crash | 19" | RUDE | Crash |
-| ride | 22" | RUDE | Power Ride |
-| china | 18" | 2002 | China |
+Igor Cavalera's cymbals: Zildjian A Custom Series, adopted for the Cavalera Conspiracy era starting with "Inflikted".
 
 Full breakdown: [Igor Cavalera's cymbal setup](https://metalforge.io/cymbals/setups/igor-cavalera).
 
@@ -243,4 +235,4 @@ Dated brand-endorsement timeline: [Igor Cavalera's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

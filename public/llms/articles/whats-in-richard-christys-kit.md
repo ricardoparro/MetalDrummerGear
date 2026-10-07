@@ -24,16 +24,16 @@ This is the gear that powered Death's final chapter.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Custom Z (Black finish)
-- **Snare:** Pearl Pearl Custom Z 14" x 6.5" Maple, 14" x 6.5"
+- **Drums:** Pearl Pearl Masters Custom (Black finish)
+- **Snare:** Pearl Pearl Masters Custom 14" x 6.5" Maple, 14" x 6.5"
 - **Cymbals:** Sabian — AA and AAX Series
 - **Hardware / Pedals:** A Longboard; Pearl D-2000 Roadster; Vic Firth American Classic 5A or 5B; Remo Emperor or Pinstripe / Evans G2
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for cut and sensitivity
 
-### Richard's Peak Metal Era Setup: Pearl Custom Z
+### Richard's Peak Metal Era Setup: Pearl Masters Custom
 
-During his years with Death, Control Denied, and Iced Earth, Richard Christy relied on Pearl Custom Z drums. The choice made sense: Pearl's Canadian Birds Eye Maple shells provided the clarity and attack needed for technical death metal, while the Custom Z line offered the durability required for extensive touring.
+During his years with Death, Control Denied, and Iced Earth, Richard Christy relied on Pearl Masters Custom drums. The choice made sense: Pearl's Canadian Birds Eye Maple shells provided the clarity and attack needed for technical death metal, while the Masters Custom line offered the durability required for extensive touring.
 
 The 22" bass drum was deeper than typical death metal setups of the era, providing the low-end punch that "The Sound of Perseverance" required. Unlike drummers who favored 18" or 20" kicks for faster response, Christy's deeper shell added weight to his double bass patterns without sacrificing speed.
 
@@ -45,7 +45,7 @@ For Iced Earth, Christy maintained similar shell sizes but occasionally adjusted
 
 ### The Snare Sound of Perseverance
 
-Richard Christy's snare work on "The Sound of Perseverance" demonstrates remarkable control at extreme speeds. His snare of choice during the Death era was a Pearl Custom Z 14" x 6.5" Maple — a drum that offered the sensitivity needed for ghost notes while providing the crack required to cut through Chuck Schuldiner's dense guitar arrangements.
+Richard Christy's snare work on "The Sound of Perseverance" demonstrates remarkable control at extreme speeds. His snare of choice during the Death era was a Pearl Masters Custom 14" x 6.5" Maple — a drum that offered the sensitivity needed for ghost notes while providing the crack required to cut through Chuck Schuldiner's dense guitar arrangements.
 
 The 14" x 6.5" dimensions offered enough body for rim shots while maintaining the response required for ghost notes at extreme tempos. The snare tone on TSOP is tight, focused, and musical — listen to the opening of "Scavenger of Human Sorrow" for proof. Even at extreme tempos, each stroke remains clear and defined.
 
@@ -95,7 +95,7 @@ The Sound of Perseverance was Death's final studio album. Richard Christy helped
 - Control Denied drummer on "The Fragile Art of Existence"
 - Iced Earth drummer 2003-2007
 - Death To All tribute performer, keeping Chuck's legacy alive
-- Pearl Custom Z — professional-grade maple shells
+- Pearl Masters Custom — professional-grade maple shells
 - 22" bass drum deeper than typical death metal setups
 - Standard 4-piece tom configuration for flexibility
 - Same basic setup used for Death, Control Denied, and Iced Earth
@@ -106,7 +106,7 @@ The Sound of Perseverance was Death's final studio album. Richard Christy helped
 
 **Q: What drum kit does Richard Christy use?**
 
-A: Richard Christy has long been associated with Pearl Custom Z kits. His standard configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Custom Z line was Pearl's flagship professional series through the late 1990s and 2000s, offering consistent maple tone and build quality that Christy relied on through his tenure with Death, Control Denied, and his subsequent career as a performer and educator.
+A: Richard Christy has long been associated with Pearl Masters Custom kits. His standard configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Masters Custom line was Pearl's flagship professional series through the late 1990s and 2000s, offering consistent maple tone and build quality that Christy relied on through his tenure with Death, Control Denied, and his subsequent career as a performer and educator.
 
 **Q: What cymbals does Richard Christy use?**
 
@@ -114,7 +114,7 @@ A: Richard Christy uses Sabian AA and AAX series cymbals. His setup includes Sab
 
 **Q: How much does Richard Christy's death metal kit cost?**
 
-A: Richard Christy's Pearl Custom Z shell pack originally retailed for approximately $2,500 to $4,000 in the late 1990s. Used Custom Z shells in good condition today sell for roughly $1,000 to $2,500. His Sabian AA and AAX cymbals remain in production, with a comparable full setup costing between $1,200 and $2,000 new. Building a complete kit matching Christy's classic death metal configuration today runs approximately $4,000 to $7,000 depending on hardware and pedal choices.
+A: Richard Christy's Pearl Masters Custom shell pack originally retailed for approximately $2,500 to $4,000 in the late 1990s. Used Masters Custom shells in good condition today sell for roughly $1,000 to $2,500. His Sabian AA and AAX cymbals remain in production, with a comparable full setup costing between $1,200 and $2,000 new. Building a complete kit matching Christy's classic death metal configuration today runs approximately $4,000 to $7,000 depending on hardware and pedal choices.
 
 ## Related Articles
 
@@ -133,4 +133,4 @@ A: Richard Christy's Pearl Custom Z shell pack originally retailed for approxima
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

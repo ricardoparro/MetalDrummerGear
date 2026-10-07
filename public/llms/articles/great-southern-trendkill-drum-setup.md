@@ -1,6 +1,6 @@
 # Vinnie Paul's Drum Setup on Pantera's The Great Southern Trendkill (1996)
 
-> Complete breakdown of Vinnie Paul's drum gear on Pantera's The Great Southern Trendkill — the Pearl Masters Custom kit, Sabian HH cymbals, and Vater signature sticks behind the 1996 #4 Billboard 200 debut tracked amid the band tensions that sent Floods and Suicide Note Pt. II into the canon.
+> Complete breakdown of Vinnie Paul's drum gear on Pantera's The Great Southern Trendkill — the Pearl Masters Custom kit, Sabian HH cymbals, and Vic Firth signature sticks behind the 1996 #4 Billboard 200 debut tracked amid the band tensions that sent Floods and Suicide Note Pt. II into the canon.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Vinnie Paul](/llms/drummers/vinnie-paul.md)
@@ -18,14 +18,14 @@ Vocalist Phil Anselmo, deep in his New Orleans orbit and battling addiction, rec
 
 At the center of that fracture was Vinnie Paul Abbott, who delivered one of his most emotionally varied performances. "Suicide Note Pt. II" is arguably the heaviest, ugliest track of his entire recorded career — a blast of pure violence anchored by relentless double kick. On the other end of the spectrum, "Floods" features some of his most patient, emotive playing: tom rolls that breathe, cymbal washes that swell, and a closing fill sequence that ranks among the most iconic in metal drumming.
 
-The kit had evolved again. Vinnie was now firmly in his Pearl Masters Custom era, with Sabian HH cymbals — the endorsement that would carry him through the rest of his career — Pearl Eliminator pedals, and Vater Vinnie Paul signature sticks. This article breaks down every piece of gear, the unusual recording approach, and the production techniques behind Pantera's most divisive, most ambitious, and most emotionally complete record.
+The kit had evolved again. Vinnie was now firmly in his Pearl Masters Custom era, with Sabian HH cymbals — the endorsement that would carry him through the rest of his career — Pearl Eliminator pedals, and Vic Firth signature sticks. This article breaks down every piece of gear, the unusual recording approach, and the production techniques behind Pantera's most divisive, most ambitious, and most emotionally complete record.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Masters Custom (Black finish)
 - **Snare:** Pearl Pearl Free-Floating Brass Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HH (Hand Hammered)
-- **Hardware / Pedals:** Pearl Eliminator Double Pedal; Pearl 2000-Series Stands; Roc-N-Soc Nitro Throne; Vater Vinnie Paul 5B Signature (played backwards)
+- **Hardware / Pedals:** Pearl Eliminator Double Pedal; Pearl 2000-Series Stands; Roc-N-Soc Nitro Throne; Vic Firth American Classic 5B (played backwards)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium tension for crack and body; tight snare wire response for studio precision
 
@@ -45,7 +45,7 @@ For "The Great Southern Trendkill," Vinnie moved to a Pearl Free-Floating brass 
 
 The free-floating strainer system — where the snare wires are tensioned independently of the shell — let Vinnie dial in extremely precise snare response. At 6.5" deep, the drum had less low-end body than the 8" deep steel snare, but it gained articulation. Every hit read clearly, even during the relentless snare patterns of "Suicide Note Pt. II" and "War Nerve."
 
-Vinnie continued his approach of blending the natural snare sound with triggered samples, locking the attack to a consistent transient and using the brass shell's natural overtones for body and air. Combined with his trademark backwards-stick technique on the Vater Vinnie Paul 5Bs, the snare delivered the gunshot pop that defines the album's rhythm tracks.
+Vinnie continued his approach of blending the natural snare sound with triggered samples, locking the attack to a consistent transient and using the brass shell's natural overtones for body and air. Combined with his trademark backwards-stick technique on the Vic Firth American Classic 5Bs, the snare delivered the gunshot pop that defines the album's rhythm tracks.
 
 On "Floods," that same snare shifts gears entirely. The dynamic restraint Vinnie shows in the verses — ghost notes, brushed-feel rim work, controlled cross-stick — proves the Pearl Free-Floating brass could whisper as easily as it could scream.
 
@@ -63,7 +63,7 @@ The Sabian HH setup would carry Vinnie through "Reinventing the Steel" and into 
 
 "The Great Southern Trendkill" is the record where Vinnie Paul stretched the furthest emotionally. "Far Beyond Driven" had the commercial peak. "Vulgar Display of Power" had the genre-defining grooves. But "Trendkill" had the full range — from the punishing extremity of "Suicide Note Pt. II" to the patient, devastating beauty of "Floods."
 
-The Pearl Masters Custom kit, Sabian HH cymbals, Pearl Eliminator pedals, and Vater signature sticks gave Vinnie the tools to deliver that range. But what makes the record extraordinary is how Vinnie used those tools under conditions that should have produced a worse album. The band was fractured. Vocals were tracked a thousand miles away. The studio was a smaller, less familiar room. And the music came out tighter, heavier, and more emotional than any Pantera record before or since.
+The Pearl Masters Custom kit, Sabian HH cymbals, Pearl Eliminator pedals, and Vic Firth signature sticks gave Vinnie the tools to deliver that range. But what makes the record extraordinary is how Vinnie used those tools under conditions that should have produced a worse album. The band was fractured. Vocals were tracked a thousand miles away. The studio was a smaller, less familiar room. And the music came out tighter, heavier, and more emotional than any Pantera record before or since.
 
 "Floods" remains the proof. The closing tom fill — a descending melodic sequence that has been transcribed and re-transcribed by drummers for thirty years — is what Vinnie Paul leaves behind on this record. It is restraint, taste, melody, and power in one passage, played on a Pearl Masters Custom kit at Dimebag's home studio while a band was quietly falling apart around him.
 
@@ -124,4 +124,4 @@ A: No — The Great Southern Trendkill debuted at #4 on the Billboard 200 in May
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

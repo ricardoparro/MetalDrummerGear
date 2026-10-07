@@ -42,4 +42,4 @@ A: Mario Duplantier, Brann Dailor, Chris Adler, Matt Halpern, Hellhammer use the
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/hellhammer"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Hellhammer — Drum Kit & Gear Setup
@@ -37,7 +37,7 @@ Paiste RUDE Series cymbals define the sonic character of the Hellhammer drum kit
 
 Jan Axel Blomberg, known as Hellhammer, born in 1969, is a Norwegian drummer best known for his work with black metal pioneers Mayhem. He joined Mayhem in 1988 and has been a constant presence through the band's turbulent history. Hellhammer is credited with helping define the black metal drumming style, characterized by fast blast beats and raw, aggressive playing. Beyond Mayhem, he has played with numerous projects including Arcturus, Dimmu Borgir, and Shining. His influence on extreme metal drumming is immeasurable.
 
-Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Oslo, Norway) is a Norwegian drummer widely regarded as one of the most influential figures in black metal history. Best known as the longtime drummer of the pioneering black metal band Mayhem, he has also contributed to numerous other projects including Arcturus, Dimmu Borgir, and Shining.
+Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) is a Norwegian drummer widely regarded as one of the most influential figures in black metal history. Best known as the longtime drummer of the pioneering black metal band Mayhem, he has also contributed to numerous other projects including Arcturus, Dimmu Borgir, and Shining.
 
 Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rhythmic foundation of the band through its most turbulent years. His drumming combines raw black metal aggression with surprising technical sophistication, and his influence on the genre cannot be overstated. He has recorded with over 40 different bands and artists.
 
@@ -237,4 +237,4 @@ Dated brand-endorsement timeline: [Hellhammer's endorsement history](https://met
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

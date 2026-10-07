@@ -84,4 +84,4 @@ A: Fred Sablan has served as Deftones' touring bassist since 2022, following Ser
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

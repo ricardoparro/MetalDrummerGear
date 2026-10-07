@@ -31,9 +31,8 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 
 ### Gear Used
 
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -60,9 +59,8 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 
 ### Gear Used
 
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -89,9 +87,8 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 
 ### Gear Used
 
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -118,9 +115,8 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 
 ### Gear Used
 
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -147,9 +143,8 @@ Persistence of Time (1990) marks the point where Charlie Benante pushed Anthrax'
 
 ### Gear Used
 
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -176,9 +171,8 @@ Persistence of Time (1990) marks the point where Charlie Benante pushed Anthrax'
 
 ### Gear Used
 
-- Tama Starclassic Kit (drums)
+- Tama Drum Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Iron Cobra Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -195,4 +189,4 @@ Charlie Benante's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

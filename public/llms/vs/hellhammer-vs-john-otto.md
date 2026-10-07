@@ -34,7 +34,7 @@ Hellhammer's blast beats are built on cold, relentless one-foot precision, and h
 
 ## Key Differences
 
-Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals — the two run entirely different cymbal setups despite operating at opposite ends of metal's tempo and intensity spectrum. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket — a groove-first, song-serving discipline that has nothing in common with Hellhammer's machine-like speed.
+Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals — the two run entirely different cymbal setups despite operating at opposite ends of metal's tempo and intensity spectrum. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket — a groove-first, song-serving discipline that has nothing in common with Hellhammer's machine-like speed.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Hellhammer and John Otto sit at opposite ends of heavy music's rhythmic spectrum
 A: Hellhammer (Mayhem, Dimmu Borgir) is known for cold, relentless blast beats delivered with icy one-foot precision, defining second-wave black metal's speed vocabulary. John Otto (Limp Bizkit) is known for disciplined, jazz-and-funk-informed grooves built around a tight single-pedal pocket. Hellhammer represents extreme metal speed; Otto represents nu-metal groove and restraint.
 
 **Q: What gear do Hellhammer and John Otto use?**
-A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar G Class pedals.
+A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar Professional Series pedals.
 
 **Q: What bands are Hellhammer and John Otto known for?**
 A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside co-founding Arcturus. John Otto has been Limp Bizkit's drummer and founding member since 1994.
@@ -67,4 +67,4 @@ A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedbac
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

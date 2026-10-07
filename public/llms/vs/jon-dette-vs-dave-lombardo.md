@@ -18,9 +18,9 @@ Jon Dette vs Dave Lombardo: the touring fill-in vs the founding architect of Sla
 
 ## Dave Lombardo Setup
 
-- **Drums:** Tama Starclassic Maple
+- **Drums:** Tama Starclassic Walnut/Birch
 - **Cymbals:** Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Snare:** Tama S.L.P. 14x6.5"
 - **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne
 - **Sticks:** Promark Dave Lombardo Signature 2Bx
 
@@ -67,4 +67,4 @@ A: After his 1996-97 Slayer touring stint, Jon Dette joined Testament in 1997, r
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

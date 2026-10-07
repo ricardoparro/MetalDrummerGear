@@ -62,4 +62,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Mapex, see:
 
 ---
 
-*Last updated: 2026-10-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

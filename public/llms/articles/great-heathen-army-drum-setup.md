@@ -12,7 +12,7 @@
 
 ## Overview
 
-Released August 5, 2022 on Metal Blade Records, "The Great Heathen Army" is Amon Amarth's most recent studio album and, as of this writing, the current end point of Jocke Wallgren's discography with the band — a run that began with Deceiver of the Gods (2013) and continued through Jomsviking (2016) and Berserker (2019). Produced by Andy Sneap at Backstage Productions in Derbyshire, England, the album debuted at #1 in Germany and reached #2 on the UK Rock & Metal Albums Chart, among the strongest chart showings of the band's career.
+Released August 5, 2022 on Metal Blade Records, "The Great Heathen Army" is Amon Amarth's most recent studio album and, as of this writing, the current end point of Jocke Wallgren's discography with the band — a run that began with Jomsviking (2016) and continued through Berserker (2019). Produced by Andy Sneap at Backstage Productions in Derbyshire, England, the album debuted at #1 in Germany and reached #2 on the UK Rock & Metal Albums Chart, among the strongest chart showings of the band's career.
 
 Where Berserker pushed toward extended blast-beat extremity in its title track, The Great Heathen Army pulls back toward a more refined hybrid of driving double-bass work and pure groove — Kerrang! described the record as "a step back towards their melodic death metal origins," and that shift is audible directly in Wallgren's playing. The gallop patterns are tighter and more controlled, the dynamic contrast between verse and chorus is sharper, and the blast-beat sections that do appear are used more surgically than on the prior record.
 
@@ -39,7 +39,7 @@ The four-tom configuration (10", 12" racks; 16", 18" floors) continues to carry 
 
 ### Snare: Precision Backbeat for a More Controlled Record
 
-The Great Heathen Army's pull toward composed groove over blast-beat extremity puts more weight on Wallgren's snare as a precision instrument rather than a high-speed endurance tool. His Pearl Reference brass snare — the same 14" x 6.5" configuration he has used since Deceiver of the Gods — delivers the bright, cutting backbeat that anchors tracks like "Get in the Ring" and "Oden Owns You All," where the snare's role is to lock precisely with the gallop rather than sustain rapid-fire patterns.
+The Great Heathen Army's pull toward composed groove over blast-beat extremity puts more weight on Wallgren's snare as a precision instrument rather than a high-speed endurance tool. His Pearl Reference brass snare — the same 14" x 6.5" configuration he has used since Jomsviking — delivers the bright, cutting backbeat that anchors tracks like "Get in the Ring" and "Oden Owns You All," where the snare's role is to lock precisely with the gallop rather than sustain rapid-fire patterns.
 
 Andy Sneap's production, recorded at Backstage Productions in Derbyshire, favors a slightly more natural, less processed snare tone than Jay Ruston's Berserker mix — consistent with the album's overall step back toward the band's melodic death metal origins. The snare's ghost-note work is also more prominent on this record, filling the space between backbeats in the album's more restrained verse sections.
 
@@ -51,11 +51,11 @@ The hi-hat work carries particular importance on tracks like "Get in the Ring," 
 
 ## The Great Heathen Army: Closing the Arc on Wallgren's Most Composed Performance
 
-The Great Heathen Army closes out — as of this writing — Jocke Wallgren's studio discography with Amon Amarth, an arc that runs from Deceiver of the Gods (2013) through Jomsviking (2016) and Berserker (2019) to this, the band's most recent and most chart-successful record. Where Berserker showcased Wallgren's capacity for blast-beat extremity, The Great Heathen Army shows the other half of his range: composed, precisely controlled groove built on nearly a decade of experience in Amon Amarth's drum chair.
+The Great Heathen Army closes out — as of this writing — Jocke Wallgren's studio discography with Amon Amarth, an arc that runs from Jomsviking (2016) through Berserker (2019) to this, the band's most recent and most chart-successful record. Where Berserker showcased Wallgren's capacity for blast-beat extremity, The Great Heathen Army shows the other half of his range: composed, precisely controlled groove built on half a decade of experience in Amon Amarth's drum chair.
 
 The gear tells the same story of refinement rather than reinvention:
 
-- **Pearl Reference Pure**: Unchanged across all four Wallgren-era studio albums, now played with a more surgical, composed touch
+- **Pearl Reference Pure**: Unchanged across all three Wallgren-era studio albums, now played with a more surgical, composed touch
 - **Zildjian A Custom & K Custom**: The same established hybrid cymbal setup carried through from Berserker — matching the album's pull back toward Amon Amarth's melodic core
 - **Pearl Demon Drive Double Pedal**: The same pedal that carried Berserker's blast-beat sections, here supporting tighter, riff-locked double-kick bursts instead
 
@@ -70,13 +70,13 @@ For deeper exploration:
 ## Key Facts
 
 - Amon Amarth's most recent studio album, released August 5, 2022 on Metal Blade Records
-- Closes out Jocke Wallgren's discography arc: Deceiver of the Gods → Jomsviking → Berserker → The Great Heathen Army
+- Closes out Jocke Wallgren's discography arc: Jomsviking → Berserker → The Great Heathen Army
 - Produced by Andy Sneap at Backstage Productions, Derbyshire, England
 - Debuted #1 in Germany; peaked #2 on the UK Rock & Metal Albums Chart
 - Nominated for a 2023 Grammis Award (Sweden's Grammy equivalent) — Hard Rock/Metal Of The Year
 - Refined double-bass-and-groove hybrid replaces Berserker's extended blast-beat extremity
 - Pearl Reference Pure kit and Zildjian A Custom & K Custom cymbals — Wallgren's most evolved touring configuration
-- Same Pearl Reference Pure configuration across all four Wallgren-era studio albums
+- Same Pearl Reference Pure configuration across all three Wallgren-era studio albums
 - Double 22" x 18" bass drums used for tighter, more surgical double-kick work than Berserker's extended blasts
 - Maple shell construction balances gallop-section attack with warmth for the album's more melodic verses
 - Four-tom fills more deliberately placed, reflecting the record's pull toward composed restraint
@@ -87,7 +87,7 @@ For deeper exploration:
 
 **Q: What drum kit did Jocke Wallgren use on The Great Heathen Army?**
 
-A: Jocke Wallgren recorded The Great Heathen Army (2022) on the same Pearl Reference Pure kit he has used since Deceiver of the Gods (2013) — double 22" x 18" bass drums, 10" and 12" rack toms, and 16" and 18" floor toms in a maple shell construction. The configuration is unchanged from Berserker, but Wallgren's playing on this record favors tighter, more controlled double-bass work over extended blast-beat sections. See [jocke-wallgren-drum-setup](/articles/jocke-wallgren-drum-setup) for his full gear history.
+A: Jocke Wallgren recorded The Great Heathen Army (2022) on the same Pearl Reference Pure kit he has used since Jomsviking (2016) — double 22" x 18" bass drums, 10" and 12" rack toms, and 16" and 18" floor toms in a maple shell construction. The configuration is unchanged from Berserker, but Wallgren's playing on this record favors tighter, more controlled double-bass work over extended blast-beat sections. See [jocke-wallgren-drum-setup](/articles/jocke-wallgren-drum-setup) for his full gear history.
 
 **Q: Was The Great Heathen Army nominated for a Grammy?**
 
@@ -114,4 +114,4 @@ A: Where Berserker's title track pushed into extended blast-beat extremity, The 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

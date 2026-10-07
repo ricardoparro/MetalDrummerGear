@@ -18,14 +18,14 @@ For Scott Travis — who had anchored the band through the reunion record *Angel
 
 Produced once again by Roy Z alongside the band — the same production team behind *Angel of Retribution* — *Nostradamus* pushed Travis's dynamic palette further than any previous Priest record. Songs like "Pestilence and Plague," "Persecution," and "Nostradamus" itself feature full-power Travis double-kick fury. "Alone," "Lament," and "Lost Love" are quiet, orchestral pieces where the drums are sparse or absent altogether. The album's 23-track arc required Travis to read arrangements with a level of sophistication the band had never previously asked of him.
 
-The gear story on *Nostradamus* is one of continuity within the Pearl era. By 2008 Travis was still on the Pearl Reference Series kit and Sabian HH/AA hybrid cymbals he'd moved to for *Angel of Retribution* three years earlier, running his Vater signature sticks. The setup proved flexible enough to handle the album's extraordinary dynamic range.
+The gear story on *Nostradamus* is one of continuity within the Pearl era. By 2008 Travis was still on the Pearl Reference Series kit and Sabian HH/AA hybrid cymbals he'd moved to for *Angel of Retribution* three years earlier, running his Vic Firth sticks. The setup proved flexible enough to handle the album's extraordinary dynamic range.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Series (Piano Black finish)
 - **Snare:** Pearl Pearl Reference Brass 14" x 6.5", 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HH / AA Hybrid
-- **Hardware / Pedals:** Pearl Demon Drive (x2 independent pedals); Pearl Eliminator Hi-Hat Stand; Pearl Roadster Throne, round seat; Vater Scott Travis Signature
+- **Hardware / Pedals:** Pearl Demon Drive (x2 independent pedals); Pearl Eliminator Hi-Hat Stand; Pearl Roadster Throne, round seat; Vic Firth American Classic 5B
 - **Heads:** Evans HD Dry (batter), Evans 300 Snare Side (resonant)
 - **Snare tuning:** Medium-high tension, moderate snare wire tension for body without losing attack
 
@@ -117,4 +117,4 @@ A: Scott Travis used Sabian HH and AA series cymbals on Nostradamus — the same
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

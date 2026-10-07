@@ -1,6 +1,6 @@
 # Sonor Bass Drum Pedals for Metal
 
-> Sonor is one of the oldest percussion manufacturers in the world, and on the verified metal roster its pedals follow the same distinct-from-Japan-and-America identity as its shells: the Perfect Balance is used by extreme and progressive-metal drummers including Gavin Harrison and Frost (Satyricon), while the Giant Step shows up on Morgan Agren's setup.
+> Sonor is one of the oldest percussion manufacturers in the world, and on the verified metal roster its pedals follow the same distinct-from-Japan-and-America identity as its shells: the Perfect Balance is used by extreme and progressive-metal drummers including Gavin Harrison, while the Giant Step shows up on Morgan Agren's setup.
 
 ---
 
@@ -11,14 +11,13 @@
 
 ## Metal-Relevant Models
 
-- **Perfect Balance:** Sonor's current flagship double pedal, used on the verified roster by Gavin Harrison and Frost (Satyricon).
+- **Perfect Balance:** Sonor's current flagship double pedal, used on the verified roster by Gavin Harrison.
 - **Giant Step:** Sonor's longboard-footboard double pedal, verified on the roster through Morgan Agren.
 
-## Confirmed Metal Drummers (3)
+## Confirmed Metal Drummers (2)
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
-| [Frost](https://metalforge.io/pedals/setups/frost) | Satyricon / 1349 | Sonor Perfect Balance | [Markdown](https://metalforge.io/llms/pedals/setups/frost.md) |
 | [Gavin Harrison](https://metalforge.io/pedals/setups/gavin-harrison) | Porcupine Tree / King Crimson | Sonor Perfect Balance | [Markdown](https://metalforge.io/llms/pedals/setups/gavin-harrison.md) |
 | [Morgan Ågren](https://metalforge.io/pedals/setups/morgan-agren) | Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects | Sonor Giant Step | [Markdown](https://metalforge.io/llms/pedals/setups/morgan-agren.md) |
 
@@ -39,4 +38,4 @@ Source: [Sonor — Wikipedia (company history)](https://en.wikipedia.org/wiki/So
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

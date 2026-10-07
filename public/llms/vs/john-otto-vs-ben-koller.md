@@ -34,7 +34,7 @@ Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated p
 
 ## Key Differences
 
-Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, powered by a Tama Iron Cobra 900 double pedal. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket. Koller favors a loose, explosive attack built for maximum unpredictability, thriving on Converge's sudden tempo shifts and dynamic swings with gut-level feel over rehearsed precision.
+Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, powered by a Tama Iron Cobra 900 double pedal. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket. Koller favors a loose, explosive attack built for maximum unpredictability, thriving on Converge's sudden tempo shifts and dynamic swings with gut-level feel over rehearsed precision.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ John Otto and Ben Koller show just how differently groove and chaos can define h
 ## FAQ
 
 **Q: What are the main differences between John Otto's and Ben Koller's drum kits?**
-A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals, while Ben Koller uses Tama Starclassic Maple with Zildjian cymbals. Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, powered by a Tama Iron Cobra 900 double pedal.
+A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals, while Ben Koller uses Tama Starclassic Maple with Zildjian cymbals. Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, powered by a Tama Iron Cobra 900 double pedal.
 
 **Q: What drums does John Otto play vs Ben Koller?**
 A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. Ben Koller plays Tama Starclassic Maple.
@@ -67,4 +67,4 @@ A: John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -14,7 +14,7 @@ Derek Roddy (Hate Eternal) vs Travis Orbin (ex-Periphery): brutal death metal bl
 - **Cymbals:** Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China)
 - **Snare:** Tama SLP Black Brass 14x6.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal
-- **Sticks:** Vater Player's Design Derek Roddy Model (VHDRW)
+- **Sticks:** Vater 5B
 
 ## Travis Orbin Setup
 
@@ -67,4 +67,4 @@ A: Derek Roddy is best known for brutal and technical death metal, performing wi
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

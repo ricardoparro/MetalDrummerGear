@@ -10,10 +10,10 @@ Lamb of God's Chris Adler vs KoRn's Ray Luzier. Two defining American heavy meta
 
 ## Chris Adler Setup
 
-- **Drums:** Mapex Black Panther Design Lab
+- **Drums:** Mapex Saturn in Satin Black Maple Burl
 - **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)
 - **Snare:** Mapex Chris Adler Signature 14x5.5" Walnut/Maple
-- **Pedals/Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
+- **Pedals/Hardware:** Trick Pro V Double Pedal
 - **Sticks:** Promark TX5AXW Chris Adler Signature
 
 ## Ray Luzier Setup
@@ -67,4 +67,4 @@ A: Ray Luzier studied at the Musicians Institute (MI) in Los Angeles, California
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

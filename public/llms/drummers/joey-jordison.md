@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/joey-jordison"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Joey Jordison — Drum Kit & Gear Setup
@@ -29,7 +29,7 @@ Joey Jordison's drum kit and gear setup. Joey Jordison is a professional metal d
 
 ## Kit Overview
 
-Joey Jordison built his legendary Slipknot sound on a Tama Starclassic Performer kit configured with a 22" bass drum and 12", 13", and 16" toms, paired with his signature Pearl 13x6.5" snare. His Paiste RUDE and 2002 Series cymbals — Wild Hi-Hats, Power Crashes, and Wild China cymbals — gave him the aggressive cut needed for the Iowa era's brutal performances. Axis A Longboard double pedals powered his extreme double kick technique on Slipknot's rotating drum riser.
+Joey Jordison built his legendary Slipknot sound on a Pearl Reference Series kit, paired with his signature Pearl Joey Jordison Signature 13x6.5" snare — the cutting, aggressive tone heard across the Iowa and All Hope Is Gone eras. His Paiste RUDE and 2002 Series cymbals — Wild Hi-Hats, Power Crashes, and Wild China cymbals — gave him the aggressive cut needed for Slipknot's brutal performances. A Pearl Demon Drive double pedal powered his extreme double kick technique on Slipknot's rotating drum riser, with Promark Joey Jordison Signature TX515W sticks and Evans heads completing the rig.
 
 ## Biography
 
@@ -250,4 +250,4 @@ Dated brand-endorsement timeline: [Joey Jordison's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

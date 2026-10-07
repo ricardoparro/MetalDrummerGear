@@ -56,7 +56,7 @@ A: Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple 
 A: Shannon Larkin drummed for Godsmack from 2002 to 2024, and earlier played with Ugly Kid Joe, Wrathchild America, Amen, and Candlebox. Mario Duplantier co-founded Gojira with his brother Joe Duplantier in 1996 and remains the band's drummer.
 
 **Q: Does Shannon Larkin have a signature stick line?**
-A: Yes — Shannon Larkin has his own Promark Shannon Larkin Signature drumstick model, reflecting his standing as one of hard rock's most recognizable drummers.
+A: No — Shannon Larkin plays Vic Firth American Classic 5B sticks, a standard off-the-shelf model rather than a signature line.
 
 ---
 
@@ -67,4 +67,4 @@ A: Yes — Shannon Larkin has his own Promark Shannon Larkin Signature drumstick
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

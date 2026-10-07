@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/matt-greiner"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Matt Greiner — Drum Kit & Gear Setup
@@ -36,7 +36,7 @@ The cornerstone of the Matt Greiner drum kit is his Mapex Black Panther 14×5.5"
 
 Matthew Wilson Greiner (born October 28, 1985) is an American drummer and founding member of the metalcore band August Burns Red, formed in 2003 in Manheim, Pennsylvania. Known for his highly technical drumming style, Greiner combines blazing double bass patterns with intricate fills and creative use of dynamics. His work on albums like "Messengers," "Constellations," and "Phantom Anthem" has earned him widespread acclaim in the metal community. A Grammy-nominated artist (Best Metal Performance for "Identity"), Greiner is considered one of the most influential metalcore drummers of his generation. Beyond drumming, he is also an accomplished pianist and an outspoken Christian.
 
-Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) is an American drummer and founding member of metalcore band August Burns Red. Since the band's formation in 2003, Greiner has established himself as one of the most innovative and influential drummers in the metalcore genre, known for his complex patterns, powerful playing, and creative use of dynamics.
+Matt Greiner (born October 28, 1985, in Lancaster, Pennsylvania) is an American drummer and founding member of metalcore band August Burns Red. Since the band's formation in 2003, Greiner has established himself as one of the most innovative and influential drummers in the metalcore genre, known for his complex patterns, powerful playing, and creative use of dynamics.
 
 His work with August Burns Red has earned a Grammy nomination and widespread critical acclaim. Greiner is also known for his Pearl signature snare drum and his contributions to drum education through clinics and social media content. His approach combines technical proficiency with musicality, influencing countless drummers in the heavy music scene.
 
@@ -198,21 +198,21 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Matt Greiner's snare: Pearl Reference Pure Matt Greiner Signature 14x6.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Matt Greiner's snare: Mapex Black Panther 14x5.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
-Matt Greiner's cymbals: Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes).
+Matt Greiner's cymbals: Paiste Formula 602 (14" Hi-Hats, 16", 17" & 18" Crashes, 22" Ride, 18" China, 10" Splash).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 15" | Byzance | Dual Hi-Hats |
-| crash | 18" | Byzance | Dual Crash |
-| crash | 19" | Byzance | Dual Crash |
-| ride | 21" | Byzance | Transition Ride |
-| china | 18" | Byzance | Extra Dry China |
-| splash | 10" | Byzance | Splash |
-| splash | 12" | Byzance | Splash |
+| hi-hat | 14" | Formula 602 | Hi-Hats |
+| crash | 16" | Formula 602 | Crash |
+| crash | 17" | Formula 602 | Crash |
+| crash | 18" | Formula 602 | Crash |
+| ride | 22" | Formula 602 | Ride |
+| china | 18" | Formula 602 | China |
+| splash | 10" | Formula 602 | Splash |
 
 Full breakdown: [Matt Greiner's cymbal setup](https://metalforge.io/cymbals/setups/matt-greiner).
 
@@ -252,4 +252,4 @@ Dated brand-endorsement timeline: [Matt Greiner's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

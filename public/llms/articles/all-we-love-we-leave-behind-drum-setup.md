@@ -16,14 +16,14 @@ Released on October 9, 2012 on Epitaph Records, Converge's All We Love We Leave 
 
 Ben Koller's drum setup on All We Love We Leave Behind reflects that focus. By 2012 Koller had been Converge's drummer for thirteen years — enough time that his relationship with the kit was instinctive rather than deliberate. Tracks like "Aimless Arrow," "Trespasses," "Glacial Pace," and "All We Love We Leave Behind" show a drummer fully in command of the blast-and-breakdown vocabulary he developed on Jane Doe, now deployed with more dynamic nuance than at any point in his career.
 
-The Converge arc from Jane Doe (2001) through Axe to Fall (2009) to All We Love We Leave Behind (2012) is one of the great runs in heavy music: three landmark records from the same four-piece, each expanding on the last without abandoning the core identity. Koller's drum setup for All We Love We Leave Behind is the mid-period statement — Tama Starclassic drums, Zildjian K Dark Series cymbals, Tama Iron Cobra pedal, Vater signature sticks — the rig that bridges the Sabian-era recordings and his current fully settled Zildjian configuration.
+The Converge arc from Jane Doe (2001) through Axe to Fall (2009) to All We Love We Leave Behind (2012) is one of the great runs in heavy music: three landmark records from the same four-piece, each expanding on the last without abandoning the core identity. Koller's drum setup for All We Love We Leave Behind is the mid-period statement — Tama Starclassic drums, Zildjian K Dark Series cymbals, Tama Iron Cobra pedal, Vic Firth American Classic 5B sticks — the rig that bridges the Sabian-era recordings and his current fully settled Zildjian configuration.
 
 ## Gear Breakdown
 
 - **Drums:** Tama Tama Starclassic (Bubinga / early Maple transition) (Piano Black finish)
 - **Snare:** Tama Tama S.L.P. Brass — mid-period configuration, 14" x 6"
 - **Cymbals:** Zildjian — Zildjian K Dark Series
-- **Hardware / Pedals:** Tama Iron Cobra (Power Glide or Rolling Glide); Vater Ben Koller Signature; Evans G2 Coated; Evans G1 Clear; Evans EMAD
+- **Hardware / Pedals:** Tama Iron Cobra (Power Glide or Rolling Glide); Vic Firth American Classic 5B; Evans G2 Coated; Evans G1 Clear; Evans EMAD
 - **Heads:** Evans G1 Coated batter; Evans 300 snare-side resonant
 - **Snare tuning:** Medium to medium-high tension — balancing cut and warmth for the album's wider dynamic range
 
@@ -71,7 +71,7 @@ For the complete Converge drumming arc:
 - [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star expansion
 - [The Dusk in Us Drum Setup (2017)](/articles/the-dusk-in-us-drum-setup) — the Grammy-nominated evolution
 
-All We Love We Leave Behind is the middle chapter of a story that began with Jane Doe's controlled chaos and continues to unfold. Ben Koller's drum setup tells that story from behind the kit — the same reliable Tama, the same Vater hickory, the same relentless forward momentum.
+All We Love We Leave Behind is the middle chapter of a story that began with Jane Doe's controlled chaos and continues to unfold. Ben Koller's drum setup tells that story from behind the kit — the same reliable Tama, the same Vic Firth hickory, the same relentless forward momentum.
 
 ## Key Facts
 
@@ -103,7 +103,7 @@ A: Ben Koller used Zildjian K Dark Series cymbals on All We Love We Leave Behind
 
 **Q: What is Ben Koller's setup on All We Love We Leave Behind?**
 
-A: Ben Koller's complete drum setup on All We Love We Leave Behind (2012) centers on a Tama Starclassic kit with bubinga shells and a single 22" bass drum — no double pedal. His snare is a Tama S.L.P. 14" x 6" Brass, cymbals are Zildjian K Dark Series, pedal is a Tama Iron Cobra single, and sticks are his Vater signature model. Evans drumheads complete the setup: G2 Coated on tom batters, EMAD on the bass drum. The record was produced by Kurt Ballou at GodCity Studio in Salem, Massachusetts.
+A: Ben Koller's complete drum setup on All We Love We Leave Behind (2012) centers on a Tama Starclassic kit with bubinga shells and a single 22" bass drum — no double pedal. His snare is a Tama S.L.P. 14" x 6" Brass, cymbals are Zildjian K Dark Series, pedal is a Tama Iron Cobra single, and sticks are Vic Firth American Classic 5B. Evans drumheads complete the setup: G2 Coated on tom batters, EMAD on the bass drum. The record was produced by Kurt Ballou at GodCity Studio in Salem, Massachusetts.
 
 **Q: Why is All We Love We Leave Behind considered Converge's most accessible album?**
 
@@ -126,4 +126,4 @@ A: All We Love We Leave Behind (2012) is considered Converge's most melodically 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

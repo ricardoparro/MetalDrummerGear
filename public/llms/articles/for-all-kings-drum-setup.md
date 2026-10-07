@@ -101,7 +101,7 @@ A: For All Kings (2016) and Worship Music (2011) share the same fundamental Char
 
 **Q: What Anthrax albums has Charlie Benante recorded with Tama Speed Cobra pedals?**
 
-A: Charlie Benante switched to Tama Speed Cobra pedals in 2010, replacing the legendary HP35 Camco chain-drive pedals he had used since 1984. Both modern Anthrax studio albums — Worship Music (2011) and For All Kings (2016) — were recorded with Speed Cobra pedals. Worship Music was the first Anthrax album with Speed Cobras (approximately one year of familiarity at the time of recording); For All Kings was the second (six years of experience). All subsequent Anthrax touring and session work, including his role in Pantera's reunion tour from 2022, used the Speed Cobra configuration. For the full modern kit overview, see [What's In Charlie Benante's Kit](/articles/whats-in-charlie-benantes-kit).
+A: Charlie Benante switched to Tama Speed Cobra pedals around 2010, replacing the chain-drive pedal setup he had used for years. Both modern Anthrax studio albums — Worship Music (2011) and For All Kings (2016) — were recorded with Speed Cobra pedals. Worship Music was the first Anthrax album with Speed Cobras (approximately one year of familiarity at the time of recording); For All Kings was the second (six years of experience). All subsequent Anthrax touring and session work, including his role in Pantera's reunion tour from 2022, used the Speed Cobra configuration. For the full modern kit overview, see [What's In Charlie Benante's Kit](/articles/whats-in-charlie-benantes-kit).
 
 ## Related Articles
 
@@ -121,4 +121,4 @@ A: Charlie Benante switched to Tama Speed Cobra pedals in 2010, replacing the le
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

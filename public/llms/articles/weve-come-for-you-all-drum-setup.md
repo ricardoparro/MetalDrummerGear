@@ -27,7 +27,7 @@ This article breaks down the kit, cymbals, hardware, and recording approach behi
 - **Drums:** Tama Tama Starclassic Maple (Custom finish finish)
 - **Snare:** Tama Tama Starclassic Steel Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002 / RUDE
-- **Hardware / Pedals:** Tama HP35 Camco Chain-Drive Double Pedal Configuration; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark Hickory 2B
+- **Hardware / Pedals:** Chain-drive double pedal configuration (specific model unconfirmed); Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark Hickory 2B
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Higher, brighter tension than the Sound of White Noise/Stomp 442/Volume 8 era — a return toward thrash-era crack
 
@@ -122,4 +122,4 @@ A: Yes. We've Come for You All (2003) was the final Anthrax studio album to feat
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

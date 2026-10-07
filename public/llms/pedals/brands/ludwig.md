@@ -17,7 +17,7 @@
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
-| [Bill Ward](https://metalforge.io/pedals/setups/bill-ward) | Black Sabbath | Ludwig Atlas Pro | [Markdown](https://metalforge.io/llms/pedals/setups/bill-ward.md) |
+| [Bill Ward](https://metalforge.io/pedals/setups/bill-ward) | Black Sabbath | Ludwig Speed King | [Markdown](https://metalforge.io/llms/pedals/setups/bill-ward.md) |
 
 Source: [Ludwig Drums — About](https://www.ludwig-drums.com/en-us/ludwig/about).
 
@@ -36,4 +36,4 @@ Source: [Ludwig Drums — About](https://www.ludwig-drums.com/en-us/ludwig/about
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

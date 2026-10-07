@@ -10,9 +10,9 @@ Slayer's Dave Lombardo vs Iron Maiden's Nicko McBrain. Double bass thrash pionee
 
 ## Dave Lombardo Setup
 
-- **Drums:** Tama Starclassic Maple
+- **Drums:** Tama Starclassic Walnut/Birch
 - **Cymbals:** Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Snare:** Tama S.L.P. 14x6.5"
 - **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne
 - **Sticks:** Promark Dave Lombardo Signature 2Bx
 
@@ -67,4 +67,4 @@ A: Dave Lombardo's drumming on Slayer's "Reign in Blood" (1986) is widely consid
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

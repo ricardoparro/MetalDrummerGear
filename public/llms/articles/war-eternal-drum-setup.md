@@ -105,7 +105,7 @@ A: War Eternal (June 9, 2014) is significant as the arc-opening record of Arch E
 - [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
 - [Daniel Erlandsson's Drum Setup on Arch Enemy's Khaos Legions (2011)](https://metalforge.io/articles/khaos-legions-drum-setup)
 - [Daniel Erlandsson's Drum Setup on Arch Enemy's Will to Power (2017)](https://metalforge.io/articles/will-to-power-drum-setup)
-- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+- [Daniel Erlandsson's Drum Setup — Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
 
 ## Related Drummers
 
@@ -115,4 +115,4 @@ A: War Eternal (June 9, 2014) is significant as the arc-opening record of Arch E
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/paul-mazurkiewicz"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Paul Mazurkiewicz — Drum Kit & Gear Setup
@@ -22,15 +22,15 @@ Paul Mazurkiewicz's drum kit and gear setup. Paul Mazurkiewicz is a professional
 | Genre | Death Metal |
 | Country | USA |
 | Primary brand | Pearl |
-| Drum kit | Pearl Masters Maple Complete |
-| Signature snare | Pearl Masters 14x6.5" Maple |
-| Sticks | Vic Firth American Classic 5B |
+| Drum kit | Pearl Reference |
+| Signature snare | Pearl Free-Floating Steel |
+| Sticks | Vic Firth Paul Mazurkiewicz Signature |
 
 ## Kit Overview
 
-Paul Mazurkiewicz plays a Pearl Masters Maple Complete drum kit with Sabian AAX Series cymbals — the blast-beat-optimized drum set that has powered Cannibal Corpse's relentless death metal assault for over three decades. The centerpiece of the Paul Mazurkiewicz drum kit is a Pearl Masters 14×6.5" Maple snare, tuned bright and tight to cut through down-tuned guitars on landmark recordings from Tomb of the Mutilated through Violence Unimagined. A Pearl Demon Drive Double Pedal anchors Mazurkiewicz's locomotive double bass technique — the same configuration carried across Cannibal Corpse's entire discography.
+Paul Mazurkiewicz plays a Pearl Reference drum kit with Meinl Classics Custom / Byzance Series cymbals — the blast-beat-optimized drum set that has powered Cannibal Corpse's relentless death metal assault for over three decades. The centerpiece of the Paul Mazurkiewicz drum kit is a Pearl Free-Floating steel snare, tuned bright and tight to cut through down-tuned guitars on landmark recordings from Tomb of the Mutilated through Violence Unimagined. A Pearl Eliminator Double Bass Pedal anchors Mazurkiewicz's locomotive double bass technique — the same configuration carried across Cannibal Corpse's entire discography.
 
-The Sabian AAX cymbal spread rounds out the Paul Mazurkiewicz drum set: 14" AAX Stage Hi-Hats deliver a punchy, controlled chick beneath extreme blast beat tempos; 18" and 19" X-Plosion Crashes provide fast-attacking accents for riff-change punctuation; a 21" AAX Raw Bell Dry Ride offers cutting rhythmic definition over dense guitar passages; and an 18" AAXtreme China adds brutal trashy impact on the most intense sections. Vic Firth American Classic 5B sticks and Evans drumheads complete the drum kit configuration. For the full breakdown, see the [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup).
+The Meinl cymbal spread rounds out the Paul Mazurkiewicz drum set: Byzance Hi-Hats deliver a punchy, controlled chick beneath extreme blast beat tempos; Byzance Crashes provide fast-attacking accents for riff-change punctuation; a Byzance Ride offers cutting rhythmic definition over dense guitar passages; and a Byzance China adds brutal trashy impact on the most intense sections. Vic Firth Paul Mazurkiewicz Signature sticks and Remo drumheads complete the drum kit configuration. For the full breakdown, see the [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup).
 
 ## Biography
 
@@ -100,17 +100,17 @@ Paul Mazurkiewicz's drumming style is the foundation of Cannibal Corpse's brutal
 
 ## Gear
 
-- **Drums:** Pearl Masters Maple Complete
-- **Snare:** Pearl Masters 14x6.5" Maple
-- **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)
-- **Hardware:** Pearl Demon Drive Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
-- **Heads:** Evans
+- **Drums:** Pearl Reference
+- **Snare:** Pearl Free-Floating Steel
+- **Cymbals:** Meinl Classics Custom & Byzance Series
+- **Hardware:** Pearl Eliminator Double Bass Pedal
+- **Sticks:** Vic Firth Paul Mazurkiewicz Signature
+- **Heads:** Remo
 
 ## Endorsements
 
 - [Pearl Drums](https://pearldrum.com)
-- [Sabian Cymbals](https://www.sabian.com)
+- [Meinl Cymbals](https://www.meinlcymbals.com)
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
 ## Notable Performances
@@ -121,19 +121,19 @@ Paul Mazurkiewicz's drumming style is the foundation of Cannibal Corpse's brutal
 
 **Q: What drum kit does Paul Mazurkiewicz use?**
 
-A: Paul Mazurkiewicz plays a Pearl Masters Maple Complete drum kit — the blast-beat-optimized setup that has powered Cannibal Corpse's relentless death metal assault for over three decades. It's anchored by a Pearl Masters 14"x6.5" Maple snare tuned bright and tight to cut through down-tuned guitars.
+A: Paul Mazurkiewicz plays a Pearl Reference drum kit — the blast-beat-optimized setup that has powered Cannibal Corpse's relentless death metal assault for over three decades. It's anchored by a Pearl Free-Floating steel snare tuned bright and tight to cut through down-tuned guitars.
 
 **Q: What drum set does Paul Mazurkiewicz use?**
 
-A: Paul Mazurkiewicz's drum set pairs his Pearl Masters Maple Complete shells and maple snare with a Pearl Demon Drive double pedal, the same configuration carried across Cannibal Corpse's entire discography from Tomb of the Mutilated through Violence Unimagined.
+A: Paul Mazurkiewicz's drum set pairs his Pearl Reference shells and Free-Floating steel snare with a Pearl Eliminator Double Bass Pedal, the same configuration carried across Cannibal Corpse's entire discography from Tomb of the Mutilated through Violence Unimagined.
 
 **Q: What cymbals does Paul Mazurkiewicz play?**
 
-A: Paul Mazurkiewicz plays Sabian AAX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" AAX Raw Bell Dry Ride, and an 18" AAXtreme China.
+A: Paul Mazurkiewicz plays Meinl cymbals, drawing from the Classics Custom and Byzance Series.
 
 **Q: What snare does Paul Mazurkiewicz use?**
 
-A: Paul Mazurkiewicz's snare is a Pearl Masters 14"x6.5" Maple, tuned bright and tight to cut through Cannibal Corpse's down-tuned guitars.
+A: Paul Mazurkiewicz's snare is a Pearl Free-Floating Steel, tuned bright and tight to cut through Cannibal Corpse's down-tuned guitars.
 
 **Q: What sticks does Paul Mazurkiewicz use?**
 
@@ -141,11 +141,11 @@ A: Paul Mazurkiewicz uses Vic Firth American Classic 5B drumsticks.
 
 **Q: What bass drum pedal does Paul Mazurkiewicz use?**
 
-A: Paul Mazurkiewicz drives his locomotive double bass technique with a Pearl Demon Drive double pedal.
+A: Paul Mazurkiewicz drives his locomotive double bass technique with a Pearl Eliminator Double Bass Pedal.
 
 **Q: What drumheads does Paul Mazurkiewicz use?**
 
-A: Paul Mazurkiewicz uses Evans drumheads across his Pearl Masters kit.
+A: Paul Mazurkiewicz uses Remo Powerstroke 3 / Emperor Coated drumheads across his Pearl Reference kit.
 
 **Q: What band is Paul Mazurkiewicz in?**
 
@@ -179,19 +179,19 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Paul Mazurkiewicz's snare: Pearl Masters 14x6.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Paul Mazurkiewicz's snare: Pearl Free-Floating Steel. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
-Paul Mazurkiewicz's cymbals: Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China).
+Paul Mazurkiewicz's cymbals: Meinl Classics Custom & Byzance Series (14" Classics Custom Dark Hi-Hats, 18" & 19" Classics Custom Dark Crashes, 21" Byzance Dark Ride, 18" Byzance Dark China).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 14" | AAX | Stage Hi-Hats |
-| crash | 18" | AAX | X-Plosion Crash |
-| crash | 19" | AAX | X-Plosion Crash |
-| ride | 21" | AAX | Raw Bell Dry Ride |
-| china | 18" | AAX | AAXtreme China |
+| hi-hat | 14" | Classics Custom Dark | Hi-Hats |
+| crash | 18" | Classics Custom Dark | Crash |
+| crash | 19" | Classics Custom Dark | Crash |
+| ride | 21" | Byzance Dark | Ride |
+| china | 18" | Byzance Dark | China |
 
 Full breakdown: [Paul Mazurkiewicz's cymbal setup](https://metalforge.io/cymbals/setups/paul-mazurkiewicz).
 
@@ -231,4 +231,4 @@ Dated brand-endorsement timeline: [Paul Mazurkiewicz's endorsement history](http
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

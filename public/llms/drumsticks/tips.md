@@ -47,4 +47,4 @@ A: Yes. Nylon is a harder, more wear-resistant material than wood, so nylon tips
 - [Drumsticks Guide](https://metalforge.io/llms/drumsticks.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

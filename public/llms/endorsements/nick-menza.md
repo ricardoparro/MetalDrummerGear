@@ -8,9 +8,9 @@
 
 ## Current Endorsements
 
-### Drums: Tama
+### Drums: Pearl
 
-Nick Menza endorses Tama for drums. They play the Tama Tama Artstar. This partnership began in 1990.
+Nick Menza endorses Pearl for drums. They play the Pearl Reference Custom. This partnership began in 1997.
 
 ### Cymbals: Sabian
 
@@ -37,14 +37,17 @@ Nick Menza endorses Tama for hardware / pedals. They play the Tama Iron Cobra Do
 - **1990** (Drums): Signed with Tama — Debuted on Megadeth's "Rust in Peace" (1990) with a Tama Artstar II kit in Midnight Blue finish — birch shells chosen for the focused attack needed to cut through Dave Mustaine and Marty Friedman's dense guitar arrangements
 - **1990** (Cymbals): Signed with Zildjian — Ran a Zildjian A / A Custom setup (14" New Beat hi-hats, 16"/18" crashes, 20" ride, 18" China Boy High) on "Rust in Peace" (1990) — the bright, cutting tone that became a signature of the album's thrash attack
 - **1992** (Cymbals): Switched from Zildjian A / A Custom to Paiste 2002 / Signature — Switched to Paiste 2002 and Signature cymbals for "Countdown to Extinction" (1992), matching the album's more melodic, arena-rock-oriented production without losing thrash-level cut
+- **1992** (Drums): Switched from Tama to Pearl Masters — Upgraded to Pearl Masters for "Countdown to Extinction" (1992), seeking a more resonant, powerful sound than the Rust in Peace-era Tama kit
+- **1994** (Drums): Switched from Pearl Masters to Pearl Masterworks — Moved to Pearl Masterworks for "Youthanasia" (1994), the most premium kit of his career
 - **1997** (Cymbals): Switched from Paiste 2002 / Signature to Sabian AA / Signature — Moved to a Sabian AA and Signature cymbal setup for "Cryptic Writings" (1997) — a brighter, more focused voice paired with Dann Huff's contemporary Nashville production on the band's final Menza-era record
+- **1997** (Drums): Switched from Pearl Masterworks to Pearl Reference Custom — Settled on a Pearl Reference Custom setup — his flagship professional tier — for "Cryptic Writings" (1997), his final full studio album with Megadeth
 - **1997** (Drumsticks): Signature product: Vater Vater Nick Menza Signature — His Vater signature stick model was in regular use by the "Cryptic Writings" (1997) sessions — the closing chapter of his nine-year run behind Megadeth's kit
 - **1997** (Hardware / Pedals): Switched from Tama Camco to Tama Iron Cobra Double Pedal — The Tama Iron Cobra had fully replaced his older Camco-style pedals by "Cryptic Writings" (1997), after a transitional Camco/early-Iron-Cobra period on "Youthanasia" (1994)
 
 ## FAQ
 
 **Q: What brands does Nick Menza endorse?**
-A: Nick Menza endorses Tama, Sabian, Vater, Remo. Their primary drum endorsement is Tama and they play Sabian cymbals.
+A: Nick Menza endorses Pearl, Sabian, Vater, Remo, Tama. Their primary drum endorsement is Pearl and they play Sabian cymbals.
 
 **Q: Does Nick Menza have a signature drum or cymbal?**
 A: Yes. Nick Menza has signature gear: Vater Vater Nick Menza Signature (signature).
@@ -62,4 +65,4 @@ A: See the Endorsement History section above for a full timeline of Nick Menza's
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -18,11 +18,11 @@ Mayhem's Hellhammer vs Black Sabbath's Bill Ward — extreme black metal blast-b
 
 ## Bill Ward Setup
 
-- **Drums:** Ludwig Classic Maple
-- **Cymbals:** Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China)
+- **Drums:** Ludwig Standard / Club Date Series
+- **Cymbals:** Zildjian Avedis Series
 - **Snare:** Ludwig Supraphonic 14x6.5" LM402
-- **Pedals/Hardware:** Ludwig Atlas Pro Double Pedal, Ludwig Throne
-- **Sticks:** Vic Firth American Classic 2B
+- **Pedals/Hardware:** Ludwig Speed King Pedal
+- **Sticks:** Pro-Mark Standard 5A/5B equivalent
 
 ## Playing Style
 
@@ -67,4 +67,4 @@ A: No. Bill Ward built Black Sabbath's foundational heaviness entirely with a si
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

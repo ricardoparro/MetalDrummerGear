@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Gene Hoglan — Drum Kit & Gear Setup
@@ -33,7 +33,7 @@ Gene Hoglan plays a Pearl Reference Pure drum kit — a premium maple/mahogany h
 
 Sabian AAX cymbals complete the Gene Hoglan drum kit: 15" AAX Hi-Hats for crisp, articulate hi-hat patterns; 18" and 20" AAX Crashes for quick-response accent work across Death's Symbolic, Testament's Formation of Damnation, and Dethklok sessions; a 22" AAX Ride; and a 20" AAX China. Pearl Demon Drive double pedals — engineered for single-chain precision — power the blazing double-bass passages that are a Hoglan trademark.
 
-The Gene Hoglan drum set has remained consistent in its Pearl/Sabian configuration across more than 20 bands over four decades. He uses Promark 5B drumsticks and Evans drumheads tuned for focused tone — a setup equally effective for Dark Angel's thrash, Death's technical death metal, and Dethklok's satirical brutality.
+The Gene Hoglan drum set has remained consistent in its Pearl/Sabian configuration across more than 20 bands over four decades. He uses Promark Classic Forward 2B drumsticks and Evans drumheads tuned for focused tone — a setup equally effective for Dark Angel's thrash, Death's technical death metal, and Dethklok's satirical brutality.
 
 ## Biography
 
@@ -153,11 +153,11 @@ A: Gene Hoglan was born on August 31, 1967, and turns 59 on August 31, 2026.
 
 **Q: What drum kit does Gene Hoglan use?**
 
-A: Gene Hoglan's drum kit is a Pearl Reference Pure kit in various finishes, centered on his Pearl Reference 14"x6.5" brass snare drum for extra cut and projection. The kit is fitted with Sabian AAX cymbals — 15" hi-hats, crashes up to 20", and a 22" ride — and powered by a Pearl Demon Drive double pedal. Hoglan favors a relatively compact drum kit for accessibility across the many bands he plays in.
+A: Gene Hoglan's drum kit is a Pearl Reference Pure kit in various finishes; the specific snare model has not been independently verified. The kit is fitted with Sabian AAX cymbals — 15" hi-hats, crashes up to 20", and a 22" ride — and powered by a Pearl Demon Drive double pedal. Hoglan favors a relatively compact drum kit for accessibility across the many bands he plays in.
 
 **Q: What drum set does Gene Hoglan use?**
 
-A: Gene Hoglan's drum set is Pearl Reference Pure, built around a Pearl Reference 14"x6.5" brass snare drum, Sabian AAX cymbals (15" hi-hats, crashes to 20", and a 22" ride), and a Pearl Demon Drive double pedal. He plays Evans Genera HD or EMAD heads and ProMark Classic Forward 2B sticks, keeping the drum set consistent across Death, Testament, and Dethklok.
+A: Gene Hoglan's drum set is Pearl Reference Pure, paired with Sabian AAX cymbals (15" hi-hats, crashes to 20", and a 22" ride), and a Pearl Demon Drive double pedal; the specific snare model has not been independently verified. He plays Evans Genera HD or EMAD heads and ProMark Classic Forward 2B sticks, keeping the drum set consistent across Death, Testament, and Dethklok.
 
 **Q: What cymbals does Gene Hoglan use?**
 
@@ -165,7 +165,7 @@ A: Gene Hoglan uses Sabian AAX series cymbals, including 15" AAX hi-hats, AAX cr
 
 **Q: What snare drum does Gene Hoglan use?**
 
-A: Gene Hoglan plays a Pearl Reference 14"x6.5" brass snare drum, chosen for the extra cut and projection a brass shell provides over his Pearl Reference Pure kit.
+A: Gene Hoglan plays a Pearl snare as part of his Pearl Reference Pure kit; the specific snare model has not been independently verified.
 
 ## Trivia
 
@@ -262,4 +262,4 @@ Dated brand-endorsement timeline: [Gene Hoglan's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

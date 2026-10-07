@@ -1,6 +1,6 @@
 # Mike Mangini's Kit on 'A Dramatic Turn of Events' (Dream Theater, 2011)
 
-> World-record holder Mike Mangini replaced Mike Portnoy on Dream Theater's landmark 2011 album. Full breakdown of the Pearl Masterworks kit, Sabian HHX/AAX cymbals, and DW 9002 double pedals used to record A Dramatic Turn of Events.
+> World-record holder Mike Mangini replaced Mike Portnoy on Dream Theater's landmark 2011 album. Full breakdown of the Pearl Masterworks kit, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline double pedals used to record A Dramatic Turn of Events.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Mike Mangini](/llms/drummers/mike-mangini.md)
@@ -29,7 +29,7 @@ The album debuted at number eight on the Billboard 200 and earned Grammy nominat
 - **Drums:** Pearl Pearl Masterworks Custom (Custom lacquer finish)
 - **Snare:** Pearl Pearl Free-Floating Brass Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX / AAX combination
-- **Hardware / Pedals:** DW 9002 Double Pedal; DW 9000 Series Hi-Hat Stand; DW 9000 Series Straight & Boom Stands; DW 9120M Drum Throne; Vater Mike Mangini Wicked Piston (VHMMWP)
+- **Hardware / Pedals:** Pearl Eliminator Redline Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl BC-830 Boom Stands; Pearl Roadster; Vater Mike Mangini Wicked Piston (VHMMWP)
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high batter tension for crack; moderate snare wire tension for ghost note response
 
@@ -67,7 +67,7 @@ Multiple crashes across the AAX and HHX lines gave Mangini a full palette of acc
 
 "A Dramatic Turn of Events" accomplished something that seemed impossible in the months after Mike Portnoy's departure: it demonstrated not only that Dream Theater could survive the loss of a founding member, but that the transition opened creative space for a new kind of precision. Mike Mangini brought to Dream Theater a technical vocabulary built on decades of study, world-record speed, and academic rigor — a foundation that produced one of the most impressive debut performances in progressive metal history.
 
-The Pearl Masterworks kit, Sabian HHX/AAX cymbals, and DW 9002 double pedals are the instruments that made this possible. In a studio album co-produced by the drummer himself, every piece of gear was a deliberate choice. The complexity of the Sabian HHX/AAX cymbals suits the harmonic complexity of Dream Theater's keyboard-rich arrangements. The six-tom Pearl Masterworks configuration gives Mangini the melodic fill vocabulary to match Petrucci's guitar orchestrations. The DW 9002's consistency enabled the clean double-bass execution that tracks like "Build Me Up Break Me Down" demand.
+The Pearl Masterworks kit, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline double pedals are the instruments that made this possible. In a studio album co-produced by the drummer himself, every piece of gear was a deliberate choice. The complexity of the Sabian HHX/AAX cymbals suits the harmonic complexity of Dream Theater's keyboard-rich arrangements. The six-tom Pearl Masterworks configuration gives Mangini the melodic fill vocabulary to match Petrucci's guitar orchestrations. The Eliminator Redline's consistency enabled the clean double-bass execution that tracks like "Build Me Up Break Me Down" demand.
 
 **The Dream Theater Drummer Timeline:**
 Mike Portnoy's 25-year run defined Dream Theater's sound through Images and Words, Metropolis Pt. 2, and Train of Thought. Mangini's arrival — won in the most transparent audition process in rock history — carried the band into its next chapter. For the Portnoy-era breakdown, see the [Images and Words Drum Setup article](/articles/images-and-words-drum-setup) and the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
@@ -86,7 +86,7 @@ Start with "On the Backs of Angels" to hear Mangini's compound meter groove and 
 - Pearl Masterworks — Pearl's handcrafted flagship series, built to exact artist spec
 - Maple/birch hybrid shells: warmth of maple with projection of birch
 - Six-tom configuration covers nearly four octaves of drum voice
-- Single 22" bass drum with DW 9002 double pedal
+- Single 22" bass drum with Pearl Eliminator Redline double pedal
 - Extended setup matches the orchestral complexity of Dream Theater compositions
 - Estimated kit value: $7,000-12,000 (Pearl Masterworks configuration)
 - Estimated snare value: $600-900
@@ -95,7 +95,7 @@ Start with "On the Backs of Angels" to hear Mangini's compound meter groove and 
 
 **Q: What drums did Mike Mangini use on A Dramatic Turn of Events?**
 
-A: On Dream Theater's A Dramatic Turn of Events (2011), Mike Mangini used a Pearl Masterworks Custom kit with a maple/birch hybrid shell formula. The configuration included a 22" x 18" bass drum, four rack toms (8", 10", 12", 13"), and two floor toms (14", 16"). He paired the kit with DW 9002 double pedals and a Pearl Free-Floating brass snare. For Mangini's complete current touring setup and gear history, see the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit).
+A: On Dream Theater's A Dramatic Turn of Events (2011), Mike Mangini used a Pearl Masterworks Custom kit with a maple/birch hybrid shell formula. The configuration included a 22" x 18" bass drum, four rack toms (8", 10", 12", 13"), and two floor toms (14", 16"). He paired the kit with Pearl Eliminator Redline double pedals and a Pearl Free-Floating brass snare. For Mangini's complete current touring setup and gear history, see the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit).
 
 **Q: What cymbals did Mike Mangini use on A Dramatic Turn of Events?**
 
@@ -124,4 +124,4 @@ A: The two Mikes represent distinctly different but equally valid approaches to 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

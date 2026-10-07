@@ -18,11 +18,11 @@ Gene "The Atomic Clock" Hoglan vs Cannibal Corpse's Paul Mazurkiewicz. Two of de
 
 ## Paul Mazurkiewicz Setup
 
-- **Drums:** Pearl Masters Maple Complete
-- **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Pearl Masters 14x6.5" Maple
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** Pearl Reference
+- **Cymbals:** Meinl Classics Custom & Byzance Series
+- **Snare:** Pearl Free-Floating Steel
+- **Pedals/Hardware:** Pearl Eliminator Double Bass Pedal
+- **Sticks:** Vic Firth Paul Mazurkiewicz Signature
 
 ## Playing Style
 
@@ -34,7 +34,7 @@ Hoglan's defining trait is metronome-like precision at extreme tempos — he pro
 
 ## Key Differences
 
-Gene Hoglan endorses Pearl drums, favoring large-format kits with multiple bass drums (or double pedals) capable of handling his demanding technical requirements. His cymbal setup prioritizes attack and decay suited to extreme metal production. Paul Mazurkiewicz plays Pearl Reference Series drums with Sabian cymbals, maintaining a robust but traditional death metal setup that has evolved alongside Cannibal Corpse's recording career across more than fifteen studio albums. Hoglan's defining trait is metronome-like precision at extreme tempos — he processes complex polyrhythmic patterns at speeds that most drummers cannot maintain without sacrificing feel or timing. His gravity blast technique, bass drum control, and ability to shift between odd time signatures and straight brutal passages make him one of the most technically complete drummers in extreme metal history. Mazurkiewicz operates in a different technical register: where Hoglan builds architecture, Mazurkiewicz delivers unflinching brutality — his double bass patterns, alternating blast beats, and relentless mid-tempo bulldoze sections have become part of death metal's shared vocabulary.
+Gene Hoglan endorses Pearl drums, favoring large-format kits with multiple bass drums (or double pedals) capable of handling his demanding technical requirements. His cymbal setup prioritizes attack and decay suited to extreme metal production. Paul Mazurkiewicz plays Pearl Reference Series drums with Meinl Classics Custom / Byzance Series cymbals, maintaining a robust but traditional death metal setup that has evolved alongside Cannibal Corpse's recording career across more than fifteen studio albums. Hoglan's defining trait is metronome-like precision at extreme tempos — he processes complex polyrhythmic patterns at speeds that most drummers cannot maintain without sacrificing feel or timing. His gravity blast technique, bass drum control, and ability to shift between odd time signatures and straight brutal passages make him one of the most technically complete drummers in extreme metal history. Mazurkiewicz operates in a different technical register: where Hoglan builds architecture, Mazurkiewicz delivers unflinching brutality — his double bass patterns, alternating blast beats, and relentless mid-tempo bulldoze sections have become part of death metal's shared vocabulary.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Gene Hoglan has played with Dark Angel, Death, Dethklok, Strapping Young Lad,
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

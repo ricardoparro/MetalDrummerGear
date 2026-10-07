@@ -18,14 +18,14 @@ The album showcased Lars at his technical peak. Songs like "Blackened," "...And 
 
 Recorded at One on One Recording Studios in Los Angeles with returning producer Flemming Rasmussen, the drum sound on Justice is dry, punchy, and incredibly present. Lars worked extensively on his kit sound, tuning his drums higher than on previous albums for maximum attack and clarity.
 
-The album marked a notable shift in Lars's gear approach — swapping the Ludwig Supraphonic snare he'd used since Ride the Lightning for a matching Tama Artstar II steel snare and adopting his first double pedal, while keeping the same Tama Artstar II kit he'd played since 1984. This article explores every piece of gear used during these legendary sessions and the recording techniques that made Justice's drum sound so distinctive.
+The album marked a notable shift in Lars's gear approach — moving to a higher-tension Tama Artstar II steel snare and adopting his first double pedal, while keeping the same Tama Artstar II kit he'd played since 1984. This article explores every piece of gear used during these legendary sessions and the recording techniques that made Justice's drum sound so distinctive.
 
 ## Gear Breakdown
 
 - **Drums:** Tama Tama Artstar II (Midnight Blue finish)
 - **Snare:** Tama Tama Artstar II Steel Snare, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Series / Z Series
-- **Hardware / Pedals:** Tama Camco HP35 Double Pedal; Tama Titan Hi-Hat Stand; Roc-N-Soc Original; Zildjian Lars Ulrich Signature (prototype)
+- **Hardware / Pedals:** Tama Camco HP35 Double Pedal; Tama Titan Hi-Hat Stand; Roc-N-Soc Original
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** High tension for maximum attack and crack
 
@@ -128,4 +128,4 @@ A: The Tama Artstar II kit Lars Ulrich used in 1988 originally cost approximatel
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

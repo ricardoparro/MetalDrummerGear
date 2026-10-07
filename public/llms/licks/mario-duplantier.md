@@ -32,7 +32,7 @@ Mario's signature approach to polyrhythms - groovy, musical, and organic. Unlike
 
 - Tama Kit (drums)
 - Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
-- DW 9000 Pedals (pedals)
+- Tama Iron Cobra 900 Power Glide (pedals)
 
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove](https://metalforge.io/techniques/groove), [Dynamics](https://metalforge.io/techniques/dynamics)
 
@@ -60,7 +60,7 @@ Mario's blast beats are distinctive - they serve the song's groove while maintai
 
 - Tama Kit (drums)
 - Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
-- Evans Heavyweight Heads (heads)
+- Remo Heads (heads)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Dynamics](https://metalforge.io/techniques/dynamics), [Accents](https://metalforge.io/techniques/accents)
 
@@ -89,7 +89,7 @@ Mario's blast beats are distinctive - they serve the song's groove while maintai
 
 - Tama Kit (drums)
 - Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
-- DW 9000 Pedals (pedals)
+- Tama Iron Cobra 900 Power Glide (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Tribal Influence](https://metalforge.io/techniques/tribal-influence)
 
@@ -118,7 +118,7 @@ Mario's blast beats are distinctive - they serve the song's groove while maintai
 
 - Tama Kit (drums)
 - Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
-- DW 9000 Pedals (pedals)
+- Tama Iron Cobra 900 Power Glide (pedals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
@@ -145,7 +145,7 @@ Mario's blast beats are distinctive - they serve the song's groove while maintai
 
 ### Gear Used
 
-- DW 9000 Pedals (pedals)
+- DW 5000 Turbo Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Riff Lock](https://metalforge.io/techniques/riff-lock), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
@@ -171,7 +171,7 @@ One of Gojira's grooviest tracks showcases Mario's pocket and feel. The slow, he
 
 ### Gear Used
 
-- DW 9000 Pedals (pedals)
+- DW 5000 Turbo Double Pedal (pedals)
 
 **Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Pocket](https://metalforge.io/techniques/pocket), [Dynamics](https://metalforge.io/techniques/dynamics)
 
@@ -188,4 +188,4 @@ Mario Duplantier's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

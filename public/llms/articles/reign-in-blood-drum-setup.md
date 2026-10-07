@@ -22,22 +22,22 @@ This article examines every piece of gear Dave Lombardo used to create this land
 
 ## Gear Breakdown
 
-- **Drums:** Tama Tama Artstar II (Piano Black finish)
+- **Drums:** Pearl Pearl Maxwin
 - **Snare:** Tama Tama Superstar Steel, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste RUDE / 2002
 - **Hardware / Pedals:** Tama Iron Cobra (prototype); Tama Titan; Tama 1st Chair; Pro-Mark 2B Wood Tip
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** High tension, tight snare wires for maximum attack
 
-### Lombardo's Weapon: The Tama Setup
+### Lombardo's Weapon: The Pearl Setup
 
-For Reign in Blood, Dave Lombardo used a Tama Artstar II kit in Piano Black finish. The Artstar II was Tama's professional series, featuring birch shells known for their punchy attack and focused low-end — perfect for the aggressive thrash sound Slayer was developing.
+For Reign in Blood, Dave Lombardo played a Pearl kit — the same brand he'd been on since signing with Pearl in 1981, at the very start of his time with Slayer. His now-famous switch to Tama came later in his career, well after Reign in Blood was recorded.
 
 The double bass drum setup was essential to Lombardo's style. Unlike many drummers who use a double pedal on a single bass drum, Dave insisted on two separate 22" drums for maximum impact and consistency. Each drum was independently miked, giving engineer Andy Wallace complete control in the mix.
 
 The tom configuration was relatively standard for the era: two rack toms and two floor toms. However, Lombardo's playing was anything but standard — his lightning-fast fills moved around the kit with precision and power that few could match.
 
-The birch shells of the Artstar II provided the attack and projection needed to cut through Slayer's wall of guitars. The die-cast hoops added sustain control and durability, essential for Lombardo's aggressive stick attacks.
+The birch shells provided the attack and projection needed to cut through Slayer's wall of guitars. The die-cast hoops added sustain control and durability, essential for Lombardo's aggressive stick attacks.
 
 ### The Crack of Doom
 
@@ -67,7 +67,7 @@ What makes the album's drum sound special isn't just the speed — it's the musi
 
 For drummers studying Reign in Blood, the lessons are clear: technique matters, but so does taste. Power is essential, but control is equally important. And sometimes the most effective production approach is the simplest one.
 
-The gear Dave Lombardo used was professional but not exotic. The Tama kit and Paiste cymbals were solid, reliable instruments. What made the difference was the player behind them and the vision of how to capture that performance. That combination created 29 minutes that changed metal forever.
+The gear Dave Lombardo used was professional but not exotic. The Pearl kit and Paiste cymbals were solid, reliable instruments. What made the difference was the player behind them and the vision of how to capture that performance. That combination created 29 minutes that changed metal forever.
 
 ## Key Facts
 
@@ -77,8 +77,8 @@ The gear Dave Lombardo used was professional but not exotic. The Tama kit and Pa
 - Lombardo's performance influenced every extreme metal drummer since
 - Double bass drums for maximum attack, not a double pedal
 - Birch shells provided attack and projection
-- Piano Black finish matched Slayer's stage aesthetic
-- This kit would remain Dave's preference through the 80s
+- Pearl kit Lombardo had played since signing with the brand in 1981
+- His later, long-running switch to Tama came after this era
 - Estimated kit value: $2,500-3,500 (1986)
 - Estimated snare value: $250-350 (1986)
 
@@ -86,7 +86,7 @@ The gear Dave Lombardo used was professional but not exotic. The Tama kit and Pa
 
 **Q: What drum kit did Dave Lombardo use on Reign in Blood?**
 
-A: Dave Lombardo recorded Reign in Blood in 1986 on a Tama Artstar II kit featuring birch shells with die-cast hoops. He ran a double bass configuration with two 22x16 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Tama Superstar Steel at 14x6.5 inches. The birch shells gave the kit an aggressive, cutting attack perfectly suited to Slayer's relentless tempo.
+A: Dave Lombardo recorded Reign in Blood in 1986 on a Pearl kit — the same brand he'd played since signing with Pearl in 1981, well before his later switch to Tama — featuring birch shells with die-cast hoops. He ran a double bass configuration with two 22x16 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Tama Superstar Steel at 14x6.5 inches. The birch shells gave the kit an aggressive, cutting attack perfectly suited to Slayer's relentless tempo.
 
 **Q: What cymbals did Dave Lombardo use on Reign in Blood?**
 
@@ -94,7 +94,7 @@ A: Dave Lombardo used a combination of Paiste RUDE and 2002 Series cymbals on Re
 
 **Q: How much does Dave Lombardo's Reign in Blood kit cost?**
 
-A: Dave Lombardo's Tama Artstar II double bass setup would have cost approximately $2,500 to $3,500 new in 1986. The Tama Superstar Steel snare added another $250 to $350 at the time. Vintage Artstar II kits in good condition now command a premium among collectors. Paiste RUDE cymbals remain in production, so that portion of the setup is more affordable to replicate today, with individual pieces ranging from $150 to $400 depending on size.
+A: Dave Lombardo's Pearl double bass setup would have cost approximately $2,500 to $3,500 new in 1986. The Tama Superstar Steel snare added another $250 to $350 at the time. Vintage Pearl kits from this era in good condition now command a premium among collectors. Paiste RUDE cymbals remain in production, so that portion of the setup is more affordable to replicate today, with individual pieces ranging from $150 to $400 depending on size.
 
 ## Related Articles
 
@@ -114,4 +114,4 @@ A: Dave Lombardo's Tama Artstar II double bass setup would have cost approximate
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

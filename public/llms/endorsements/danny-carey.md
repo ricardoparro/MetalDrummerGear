@@ -20,9 +20,9 @@ Danny Carey endorses Paiste for cymbals. They play the Paiste Signature Series. 
 
 Danny Carey endorses Vic Firth for drumsticks. They play the Vic Firth Danny Carey Signature. This partnership began in 2000s. Danny Carey has a co-designed signature product with Vic Firth.
 
-### Drumheads: Evans
+### Drumheads: Remo
 
-Danny Carey endorses Evans for drumheads. This partnership began in 2000s.
+Danny Carey endorses Remo for drumheads. This partnership began in 2000s.
 
 ### Electronics: Mandala
 
@@ -43,7 +43,7 @@ Danny Carey endorses Mandala for electronics. This partnership began in 2000s.
 ## FAQ
 
 **Q: What brands does Danny Carey endorse?**
-A: Danny Carey endorses Sonor, Paiste, Vic Firth, Evans, Mandala. Their primary drum endorsement is Sonor and they play Paiste cymbals.
+A: Danny Carey endorses Sonor, Paiste, Vic Firth, Remo, Mandala. Their primary drum endorsement is Sonor and they play Paiste cymbals.
 
 **Q: Does Danny Carey have a signature drum or cymbal?**
 A: Yes. Danny Carey has signature gear: Paiste Signature Series (signature), Vic Firth Danny Carey Signature (signature).
@@ -61,4 +61,4 @@ A: See the Endorsement History section above for a full timeline of Danny Carey'
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

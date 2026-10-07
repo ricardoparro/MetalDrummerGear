@@ -1,14 +1,14 @@
 # Metal Drummer Gear Endorsements — Complete List
 
-This page documents official gear endorsements for the 72 professional metal drummers catalogued in MetalForge's endorsement index.
+This page documents official gear endorsements for the 71 professional metal drummers catalogued in MetalForge's endorsement index.
 
-> Last Updated: 2026-07-25 · Source: https://metalforge.io
+> Last Updated: 2026-10-07 · Source: https://metalforge.io
 
-For a brand-first view of the full 72-drummer roster see [/llms/gear-by-brand.md](https://metalforge.io/llms/gear-by-brand.md).
+For a brand-first view of the full 71-drummer roster see [/llms/gear-by-brand.md](https://metalforge.io/llms/gear-by-brand.md).
 
 ## Per-Drummer Endorsement Detail Pages
 
-Each of the 72 drummers has a dedicated endorsement page with current endorsements, signature models, endorsement history, and FAQ:
+Each of the 71 drummers has a dedicated endorsement page with current endorsements, signature models, endorsement history, and FAQ:
 
 - [Lars Ulrich — Brand Endorsements](https://metalforge.io/llms/endorsements/lars-ulrich.md)
 - [Joey Jordison — Brand Endorsements](https://metalforge.io/llms/endorsements/joey-jordison.md)
@@ -52,7 +52,6 @@ Each of the 72 drummers has a dedicated endorsement page with current endorsemen
 - [Daniel Erlandsson — Brand Endorsements](https://metalforge.io/llms/endorsements/daniel-erlandsson.md)
 - [Derek Roddy — Brand Endorsements](https://metalforge.io/llms/endorsements/derek-roddy.md)
 - [Hannes Grossmann — Brand Endorsements](https://metalforge.io/llms/endorsements/hannes-grossmann.md)
-- [Isaac Lamb — Brand Endorsements](https://metalforge.io/llms/endorsements/isaac-lamb.md)
 - [Jason Bittner — Brand Endorsements](https://metalforge.io/llms/endorsements/jason-bittner.md)
 - [Jocke Wallgren — Brand Endorsements](https://metalforge.io/llms/endorsements/jocke-wallgren.md)
 - [Mike Mangini — Brand Endorsements](https://metalforge.io/llms/endorsements/mike-mangini.md)

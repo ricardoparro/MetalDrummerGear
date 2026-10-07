@@ -3,10 +3,10 @@ name: "Alex Bent"
 band: "ex-Trivium / Arkaik / Dragonlord"
 genre: "Heavy Metal / Thrash Metal / Technical Death Metal"
 country: "USA"
-primary_brand: "Pearl"
+primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/alex-bent"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Alex Bent — Drum Kit & Gear Setup
@@ -22,16 +22,16 @@ Alex Bent's drum kit and gear setup. Alex Bent is a professional metal drummer b
 | All bands | Trivium, Arkaik |
 | Genre | Heavy Metal / Thrash Metal / Technical Death Metal |
 | Country | USA |
-| Primary brand | Pearl |
-| Drum kit | Pearl Reference Pure Series |
-| Signature snare | Pearl Reference 14x5" Brass |
+| Primary brand | Tama |
+| Drum kit | Tama Starclassic Maple |
+| Signature snare | Tama Starclassic Maple 14x5" |
 | Sticks | Vic Firth American Classic 5B |
 
 ## Kit Overview
 
-Alex Bent plays a Pearl Reference Pure Series drum kit — a setup built for the technical precision and cross-genre versatility he brought to Trivium from 2017 to 2024, after cutting his teeth in technical death metal outfits Arkaik and Brain Drill. The kit powered three Trivium albums, "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021), and continues to serve his work with Eric Peterson's Dragonlord.
+Alex Bent plays a Tama Starclassic Maple drum kit — a setup built for the technical precision and cross-genre versatility he brought to Trivium from 2017 to 2024, after cutting his teeth in technical death metal outfits Arkaik and Brain Drill. The kit powered three Trivium albums, "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021), and continues to serve his work with Eric Peterson's Dragonlord.
 
-The foundation of the Alex Bent drum kit is his Pearl Reference 14x5" Brass snare, delivering the bright, cutting attack that drives Trivium's thrash-meets-technical-death-metal sound. Zildjian K Custom Hybrid cymbals define the setup: 14" K Custom Hybrid Hi-Hats for crisp articulation, 18" and 19" K Custom Hybrid Crashes for dark, trashy accents, and a 21" K Custom Hybrid Ride for a dry, complex wash, paired with an 18" A Custom China for aggressive punctuation. Bent's rapid double bass work is powered by Axis A Longboard double pedals, mounted on a Pearl D-3000 throne, with Vic Firth American Classic 5B sticks and Remo heads rounding out a rig built for speed and technicality.
+The foundation of the Alex Bent drum kit is his Tama Starclassic Maple 14x5" snare, delivering the bright, cutting attack that drives Trivium's thrash-meets-technical-death-metal sound. Zildjian K Custom Hybrid cymbals define the setup: 14" K Custom Hybrid Hi-Hats for crisp articulation, 18" and 19" K Custom Hybrid Crashes for dark, trashy accents, and a 21" K Custom Hybrid Ride for a dry, complex wash, paired with an 18" A Custom China for aggressive punctuation. Bent's rapid double bass work is powered by Axis A Longboard double pedals, mounted on a Pearl D-3000 throne, with Vic Firth American Classic 5B sticks and Remo heads rounding out a rig built for speed and technicality.
 
 ## Biography
 
@@ -46,7 +46,7 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
 - **2004** — Started playing drums at age 11 after assembling father's old drum kit
 - **2005** — Began competing in drum competitions and auditioning for bands
 - **2008** — Participated in Guitar Center Drum Off, reaching Regional Finals
-- **2011** — Joined technical death metal band Arkaik
+- **2008** — Joined technical death metal band Arkaik
 - **2012** — Toured with Decrepit Birth and Hatriot
 - **2015** — Joined Brain Drill and Dragonlord (Testament guitarist's band)
 - **2015** — Joined Battlecross; filled in for Gene Hoglan on Testament dates
@@ -99,8 +99,8 @@ Alex Bent's drumming style combines the extreme technicality of death metal with
 
 ## Gear
 
-- **Drums:** Pearl Reference Pure Series
-- **Snare:** Pearl Reference 14x5" Brass
+- **Drums:** Tama Starclassic Maple
+- **Snare:** Tama Starclassic Maple 14x5"
 - **Cymbals:** Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China)
 - **Hardware:** Axis A Longboard Double Pedal, Pearl D-3000 Throne
 - **Sticks:** Vic Firth American Classic 5B
@@ -152,7 +152,7 @@ A: Alex Bent uses Remo drumheads across his TAMA Starclassic Maple kit.
 
 **Q: What band is Alex Bent in?**
 
-A: Alex Bent drummed for Trivium from 2017 to 2025, and also drums for Eric Peterson's Dragonlord (since 2015) and Arkaik (since 2011).
+A: Alex Bent drummed for Trivium from 2017 to 2025, and also drums for Eric Peterson's Dragonlord (since 2015) and Arkaik (since 2008).
 
 **Q: Did Alex Bent ever fill in for another drummer?**
 
@@ -240,4 +240,4 @@ Dated brand-endorsement timeline: [Alex Bent's endorsement history](https://meta
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

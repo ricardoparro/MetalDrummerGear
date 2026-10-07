@@ -25,7 +25,7 @@ This article explores the massive setup that supports Mangini's scientific appro
 - **Drums:** Pearl Pearl Reference Series (custom configuration) (Custom configurations varying by tour finish)
 - **Snare:** Pearl Pearl Reference Series Snares (Multiple), 14" x 5" and 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX / AAX combination
-- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl Roadster; Vater Mike Mangini Wicked Piston (VHMMWP); Roland TD-50 Module
+- **Hardware / Pedals:** Pearl Eliminator Redline Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl Roadster; Vater Mike Mangini Wicked Piston (VHMMWP); Roland TD-50 Module
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension for sensitivity; adjusted per song requirements
 
@@ -136,4 +136,4 @@ A: A Pearl Reference Series shell pack comparable to Mangini's configuration ran
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

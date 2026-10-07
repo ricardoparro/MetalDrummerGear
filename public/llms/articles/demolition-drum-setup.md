@@ -25,7 +25,7 @@ Gear-wise, Demolition continues the same Tama Artstar II and Paiste RUDE/2002 se
 - **Drums:** Tama Tama Artstar II (Piano Black finish)
 - **Snare:** Tama Tama Artstar II Steel, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste RUDE / 2002
-- **Hardware / Pedals:** DW 9000 Series Double Pedal; Yamaha HS-1200 Hi-Hat Stand; Yamaha System 3 Boom Stands; Gibraltar Throne, round seat; Vic Firth American Classic 5B
+- **Hardware / Pedals:** Tama Iron Cobra HP900 (Prototype/Early Version) x2; Yamaha HS-1200 Hi-Hat Stand; Yamaha System 3 Boom Stands; Gibraltar Throne, round seat; Vic Firth American Classic 5B
 - **Heads:** Remo Pinstripe (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium-high tension, moderate snare wire tension — same setting as Jugulator
 
@@ -53,7 +53,7 @@ The 14" Sound Edge Hi-Hats continue to provide the tighter, more controlled chic
 
 Demolition closed the book on Judas Priest's seven-year, two-album experiment without Rob Halford. It's a harder, darker, more contemporary-sounding record than Jugulator, pushing the band's downtuned pivot further into nu-metal and industrial territory, and it gave Scott Travis his only songwriting credit in the band's history, a small but meaningful mark of how central he'd become to Priest's creative process by 2001.
 
-Gear-wise, Demolition is a story of refinement rather than reinvention: the same Tama Artstar II kit, the same Paiste RUDE/2002 cymbal voice, with Yamaha hardware layered in alongside the established DW/Gibraltar rig. It's the sound of a drummer who had already found his post-Painkiller identity on Jugulator and simply kept building on it.
+Gear-wise, Demolition is a story of refinement rather than reinvention: the same Tama Artstar II kit, the same Paiste RUDE/2002 cymbal voice, with Yamaha hardware layered in alongside the established Tama/Gibraltar rig. It's the sound of a drummer who had already found his post-Painkiller identity on Jugulator and simply kept building on it.
 
 Two years after Demolition's release, Rob Halford rejoined Judas Priest, and Travis's gradual migration off this Tama rig toward Pearl was already underway by Angel of Retribution (2005). For drummers tracing the full arc of Scott Travis's career, Painkiller's speed-metal blitz, the Owens-era pivot toward groove and industrial textures on Jugulator and Demolition, and the mature, song-serving drummer of the Halford-reunion years, Demolition is the essential missing link.
 
@@ -84,7 +84,7 @@ A: Yes — Scott Travis co-wrote "Cyberface" on Demolition (2001) alongside guit
 
 **Q: What drum kit did Scott Travis use on Demolition?**
 
-A: On Demolition (2001), Scott Travis played the same Tama Artstar II kit he used on Jugulator (1997) and Painkiller (1990), dual 22" x 16" bass drums, 10"/12"/13" rack toms, and 14"/16" floor toms. His cymbal setup was also unchanged: Paiste RUDE/2002 cymbals. The one addition was Yamaha hardware, a Yamaha HS-1200 hi-hat stand and Yamaha System 3 boom stands supplementing his existing DW/Gibraltar rig. It's a case of refinement rather than reinvention: Travis had found a setup that worked on Jugulator and carried it forward largely intact.
+A: On Demolition (2001), Scott Travis played the same Tama Artstar II kit he used on Jugulator (1997) and Painkiller (1990), dual 22" x 16" bass drums, 10"/12"/13" rack toms, and 14"/16" floor toms. His cymbal setup was also unchanged: Paiste RUDE/2002 cymbals. The one addition was Yamaha hardware, a Yamaha HS-1200 hi-hat stand and Yamaha System 3 boom stands supplementing his existing Tama/Gibraltar rig. It's a case of refinement rather than reinvention: Travis had found a setup that worked on Jugulator and carried it forward largely intact.
 
 **Q: Why does Demolition have a Parental Advisory sticker?**
 
@@ -92,7 +92,7 @@ A: Demolition is the only Judas Priest studio album to carry a Parental Advisory
 
 **Q: How does Demolition compare to Jugulator and Painkiller in Scott Travis's gear?**
 
-A: Demolition (2001) continues the same Tama Artstar II / Paiste RUDE/2002 setup Travis has used since Painkiller (1990), with Yamaha hardware added alongside his existing DW/Gibraltar rig, a refinement rather than an overhaul. Travis was a Tama endorser from Painkiller through the mid-2000s, before later switching to Pearl and then ddrum — the stylistic evolution from Painkiller's speed-metal blitz through Jugulator and Demolition's groove-and-industrial-leaning material happened within one consistent Tama-era rig, not across gear changes.
+A: Demolition (2001) continues the same Tama Artstar II / Paiste RUDE/2002 setup Travis has used since Painkiller (1990), with Yamaha hardware added alongside his existing Tama/Gibraltar rig, a refinement rather than an overhaul. Travis was a Tama endorser from Painkiller through the mid-2000s, before later switching to Pearl and then ddrum — the stylistic evolution from Painkiller's speed-metal blitz through Jugulator and Demolition's groove-and-industrial-leaning material happened within one consistent Tama-era rig, not across gear changes.
 
 ## Related Articles
 
@@ -110,4 +110,4 @@ A: Demolition (2001) continues the same Tama Artstar II / Paiste RUDE/2002 setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

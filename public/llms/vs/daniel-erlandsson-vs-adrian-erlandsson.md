@@ -11,10 +11,10 @@ Arch Enemy's Daniel Erlandsson vs At the Gates/The Haunted's Adrian Erlandsson. 
 ## Daniel Erlandsson Setup
 
 - **Drums:** Pearl Reference Pure
-- **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride)
-- **Snare:** Pearl Daniel Erlandsson Signature 14x5.5"
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
+- **Cymbals:** Sabian AAX / HHX Series
+- **Snare:** Pearl Reference Pure
+- **Pedals/Hardware:** Pearl Eliminator Double Bass Pedal
+- **Sticks:** ProMark 5B
 
 ## Adrian Erlandsson Setup
 
@@ -34,7 +34,7 @@ Daniel brings a clean, high-precision approach to melodic death metal — his bl
 
 ## Key Differences
 
-Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple with Sabian cymbals — a clean, articulate setup that serves Arch Enemy's high-production recording and global touring demands. His double pedal setup emphasizes consistency and power across extended live sets. Adrian Erlandsson has endorsed various setups throughout his career, including Tama drums with Zildjian cymbals during his At the Gates and Haunted years — a setup that prioritized raw attack and aggressive projection suited to the more punk-inflected energy of Gothenburg's earliest wave. Daniel brings a clean, high-precision approach to melodic death metal — his blast beats are controlled and even, his double bass patterns are tight and consistent with Arch Enemy's production-forward sound, and his fills are designed to punctuate rather than overwhelm the melodic guitar-centric compositions. He excels at maintaining momentum across long set passages while letting the band's hooks remain the focal point. Adrian approaches the drum kit with rawer intensity — his "Slaughter of the Soul" recordings remain benchmark examples of how to play aggressive death metal with energy that feels violent yet musical. His patterns are more rooted in hardcore punk bluntness than technical precision, giving At the Gates a ferocious immediacy that's distinct from Gothenburg's more polished melodic acts. Both brothers demonstrate the Swedish melodic death metal tradition from different angles: Daniel from the melodic, anthem-first side; Adrian from the aggressive, hardcore-influenced side.
+Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple with Sabian cymbals — a clean, articulate setup that serves Arch Enemy's high-production recording and global touring demands. His double pedal setup emphasizes consistency and power across extended live sets. Adrian Erlandsson played a Pearl kit with Zildjian A-Series cymbals during his original At the Gates and Haunted years (1995-2003) — raw, budget-conscious gear suited to the more punk-inflected energy of Gothenburg's earliest wave — before moving to a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals for At the Gates' 2014+ reunion era. Daniel brings a clean, high-precision approach to melodic death metal — his blast beats are controlled and even, his double bass patterns are tight and consistent with Arch Enemy's production-forward sound, and his fills are designed to punctuate rather than overwhelm the melodic guitar-centric compositions. He excels at maintaining momentum across long set passages while letting the band's hooks remain the focal point. Adrian approaches the drum kit with rawer intensity — his "Slaughter of the Soul" recordings remain benchmark examples of how to play aggressive death metal with energy that feels violent yet musical. His patterns are more rooted in hardcore punk bluntness than technical precision, giving At the Gates a ferocious immediacy that's distinct from Gothenburg's more polished melodic acts. Both brothers demonstrate the Swedish melodic death metal tradition from different angles: Daniel from the melodic, anthem-first side; Adrian from the aggressive, hardcore-influenced side.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: At the Gates' "Slaughter of the Soul" (1995) is widely considered one of the 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

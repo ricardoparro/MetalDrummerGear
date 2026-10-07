@@ -1,12 +1,12 @@
 # Pearl Reference 14x6.5" Brass — Snare Drums | MetalForge
 
-> The Pearl Reference 14x6.5" Brass is a pro-grade snare drums choice used by 7 metal drummers in the MetalForge database.
+> The Pearl Reference 14x6.5" Brass is a pro-grade snare drums choice used by 6 metal drummers in the MetalForge database.
 
 **Brand:** Pearl  
 **Series:** Reference 14x6.5" Brass  
 **Category:** Snare Drums  
 **Estimated Price:** $350–$800  
-**Drummers Using It:** 7  
+**Drummers Using It:** 6  
 
 ---
 
@@ -17,10 +17,9 @@
 - **[Matt Halpern](https://metalforge.io/drummer/matt-halpern)** (Periphery) — standard configuration
 - **[Nick Augusto](https://metalforge.io/drummer/nick-augusto)** (ex-Trivium) — standard configuration
 - **[Ryan Van Poederooyen](https://metalforge.io/drummer/ryan-van-poederooyen)** (Devin Townsend Project) — standard configuration
-- **[Aquiles Priester](https://metalforge.io/drummer/aquiles-priester)** (Angra / W.A.S.P.) — standard configuration
 - **[Jocke Wallgren](https://metalforge.io/drummer/jocke-wallgren)** (Amon Amarth) — standard configuration
 
-See all 7 drummers on the [Pearl Reference 14x6.5" Brass gear page](https://metalforge.io/gear/pearl/reference-14x6-5-brass/drummers-using).
+See all 6 drummers on the [Pearl Reference 14x6.5" Brass gear page](https://metalforge.io/gear/pearl/reference-14x6-5-brass/drummers-using).
 
 ## Gear Specifications
 
@@ -35,10 +34,10 @@ The Pearl Reference 14x6.5" Brass snare is a metal stage workhorse prized for sh
 ## Frequently Asked Questions
 
 **Q: Which metal drummers use the Pearl Reference 14x6.5" Brass?**
-A: 7 metal drummers in the MetalForge database play the Pearl Reference 14x6.5" Brass: Gene Hoglan, Ray Luzier, Matt Halpern, Nick Augusto, Ryan Van Poederooyen, Aquiles Priester, and Jocke Wallgren. Each profile includes their exact setup and full kit configuration.
+A: 6 metal drummers in the MetalForge database play the Pearl Reference 14x6.5" Brass: Gene Hoglan, Ray Luzier, Matt Halpern, Nick Augusto, Ryan Van Poederooyen, and Jocke Wallgren. Each profile includes their exact setup and full kit configuration.
 
 **Q: Is the Pearl Reference 14x6.5" Brass good for metal drumming?**
-A: Yes — the Pearl Reference 14x6.5" Brass is a proven metal choice, endorsed by 7 professional drummers across death, thrash, progressive, and groove metal. Gene Hoglan of Death / Testament / Dethklok is among the signature players relying on this snare drums for high-intensity performance.
+A: Yes — the Pearl Reference 14x6.5" Brass is a proven metal choice, endorsed by 6 professional drummers across death, thrash, progressive, and groove metal. Gene Hoglan of Death / Testament / Dethklok is among the signature players relying on this snare drums for high-intensity performance.
 
 **Q: How much does the Pearl Reference 14x6.5" Brass cost?**
 A: The Pearl Reference 14x6.5" Brass is estimated at $350–$800 street price. Actual pricing varies by retailer, finish, and configuration. Check Thomann (EU) or Sweetwater (US) for current deals.
@@ -48,4 +47,4 @@ A: MetalForge tracks all Pearl series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/pearl/reference-14x6-5-brass/drummers-using](https://metalforge.io/gear/pearl/reference-14x6-5-brass/drummers-using) · Last updated: 2026-07-25*
+*Source: [metalforge.io/gear/pearl/reference-14x6-5-brass/drummers-using](https://metalforge.io/gear/pearl/reference-14x6-5-brass/drummers-using) · Last updated: 2026-10-07*

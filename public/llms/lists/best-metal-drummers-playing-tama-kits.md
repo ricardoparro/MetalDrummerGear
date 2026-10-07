@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Tama Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits)
 
 ---
 
@@ -147,4 +147,4 @@ A: Hannes Grossmann is the clearest example: he built a Tama Starclassic Maple k
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

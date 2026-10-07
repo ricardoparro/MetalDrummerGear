@@ -1,6 +1,6 @@
 # Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal
 
-> Blake Richardson's complete drum setup: Pearl Reference kit, Sabian cymbals, Tama double pedal, and the metric modulation technique that defines Between the Buried and Me's progressive metal sound.
+> Blake Richardson's complete drum setup: Tama Starclassic Bubinga kit, Sabian cymbals, Tama double pedal, and the metric modulation technique that defines Between the Buried and Me's progressive metal sound.
 
 **Type:** Kit Breakdown
 **Drummer(s):** [Blake Richardson](/llms/drummers/blake-richardson.md)
@@ -13,28 +13,28 @@ Blake Richardson (born February 25, 1984, in Winston-Salem, North Carolina) has 
 
 Between the Buried and Me emerged from North Carolina's hardcore scene but rapidly transcended any single genre. Albums like *Colors* (2007), *The Parallax II: Future Sequence* (2012), and *Automata I & II* (2018) are landmark documents of progressive metal — extended, concept-driven works that move from death metal blast beats to jazz-inflected interludes to ambient passages within a single song. Richardson is the rhythmic intelligence that makes these transitions coherent. His ability to shift between radically different feels without losing momentum, and to execute metric modulations that would challenge any drummer, while still serving the music rather than displaying technique, separates him from mere technicians.
 
-His setup reflects this musical philosophy. The Pearl Reference Pure kit provides warmth and resonance across BTBAM's full dynamic range. Sabian cymbals — Dark, Extra Dry, and Traditional voicings — deliver the complex, nuanced tone his playing demands. The Tama Iron Cobra Power Glide double pedal is the foundation of the extended double-kick passages that underpin the band's heaviest material. Every piece of gear is chosen to serve music that spans extreme metal, jazz, and progressive rock within a single performance.
+His setup reflects this musical philosophy. The Tama Starclassic Bubinga kit provides warmth and resonance across BTBAM's full dynamic range. Sabian cymbals — Dark, Extra Dry, and Traditional voicings — deliver the complex, nuanced tone his playing demands. The Tama Iron Cobra Power Glide double pedal is the foundation of the extended double-kick passages that underpin the band's heaviest material. Every piece of gear is chosen to serve music that spans extreme metal, jazz, and progressive rock within a single performance.
 
 This article covers the complete Blake Richardson drum setup: shell configuration, snare selection, Sabian cymbal spread, hardware, and the gear evolution across the *Colors*, *Parallax*, and *Automata* eras — plus a technical breakdown of how his metric modulation approach actually works.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Pure (Custom finishes for touring and studio configurations finish)
+- **Drums:** DW DW Collector's Series (Custom finishes for touring and studio configurations finish)
 - **Snare:** Tama Tama STARPHONIC Brass Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian Series (HHX Evolution, AAX, and HH)
-- **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Vic Firth American Classic 5B; Remo Emperor Coated / Ambassador Coated; Remo Powerstroke 3; Pearl Rack System
+- **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Vic Firth American Classic 3A; Remo Emperor Coated / Ambassador Coated; Remo Powerstroke 3; Pearl Rack System
 - **Heads:** Evans G2 Coated (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium to medium-high — versatile across BTBAM's dynamic range from blast beats to restrained groove
 
-### Pearl Reference Pure: Warmth and Resonance for Progressive Metal
+### DW Collector's Series: Warmth and Resonance for Progressive Metal
 
-Blake Richardson's Pearl Reference Pure kit is the foundation of BTBAM's studio and live sound across the band's most ambitious catalog period. The Reference Pure line uses all-maple shell construction — a departure from Pearl's hybrid-shell Reference series — producing a warmer, more resonant tone that suits progressive metal's dynamic range requirements far better than the harder-edged sounds typical of extreme metal drums.
+Blake Richardson's DW Collector's Series kit is the foundation of BTBAM's studio and live sound across the band's most ambitious catalog period. The Collector's Series uses all-maple shell construction, producing a warm, resonant tone that suits progressive metal's dynamic range requirements far better than the harder-edged sounds typical of extreme metal drums.
 
-The double kick configuration (two 22" bass drums) provides the low-end foundation for BTBAM's most intense passages while maintaining the flexibility to play with restraint during the band's jazz-inflected and ambient sections. Richardson doesn't use the double bass as a constant — he deploys it compositionally, varying density to follow the music's emotional arc rather than simply running an uninterrupted eighth-note roll beneath everything. The Tama Iron Cobra Power Glide double pedal handles single-bass passages and allows natural integration of single-foot and double-foot techniques within the same performance.
+The double kick configuration (two 22" bass drums) provides the low-end foundation for BTBAM's most intense passages while maintaining the flexibility to play with restraint during the band's jazz-inflected and ambient sections. Richardson doesn't use the double bass as a constant — he deploys it compositionally, varying density to follow the music's emotional arc rather than simply running an uninterrupted eighth-note roll beneath everything. The DW 9002 chain-drive double bass pedal handles single-bass passages and allows natural integration of single-foot and double-foot techniques within the same performance.
 
-The three rack toms (10", 12", 13") and single floor tom (16") give Richardson's fills a wide tonal palette — essential for BTBAM's complex transition architecture. Tom fills in progressive metal function differently than in straightforward metal: they are often melodic statements as much as rhythmic ones, moving through specific pitch intervals to create melodic counterpoint with the guitars. The Reference Pure's warm maple resonance makes these melodic fill sequences more musical and less percussive in character.
+The three rack toms (10", 12", 13") and single floor tom (16") give Richardson's fills a wide tonal palette — essential for BTBAM's complex transition architecture. Tom fills in progressive metal function differently than in straightforward metal: they are often melodic statements as much as rhythmic ones, moving through specific pitch intervals to create melodic counterpoint with the guitars. The Collector's Series' warm maple resonance makes these melodic fill sequences more musical and less percussive in character.
 
-The all-maple shell construction and Pearl's SST (Superior Shelf Technology) mounting system allow the shells to resonate freely, with full sustain that Richardson can control through head selection and tuning. This sustain is intentional: in BTBAM's more dynamic arrangements, the natural decay of the drums is a compositional element, not a problem to muffle.
+The all-maple shell construction allows the shells to resonate freely, with full sustain that Richardson can control through head selection and tuning. This sustain is intentional: in BTBAM's more dynamic arrangements, the natural decay of the drums is a compositional element, not a problem to muffle.
 
 ### The Tama STARPHONIC Snare: Articulation in a Dense Mix
 
@@ -62,15 +62,15 @@ The Sabian China and Dark Splash complete the setup: the China for extreme metal
 
 Blake Richardson has spent nearly two decades as the rhythmic architect of Between the Buried and Me — one of progressive metal's most consequential bands. From the landmark *Colors* (2007) through *Colors II* (2021), he has delivered some of the most musically sophisticated drumming in the genre: technically demanding, compositionally intelligent, and always in service of music rather than individual display.
 
-His Pearl Reference Pure kit, Sabian cymbal spread, and Tama Iron Cobra Power Glide double pedal are the tools of a drummer who has thought carefully about what each piece of gear contributes to his musical goals. The all-maple warmth of the Reference Pure, the complex tonal vocabulary of the Sabian series, the consistent precision of the Tama Iron Cobra — each choice reflects the same philosophy: equipment that serves a wide dynamic range and a sophisticated musical language.
+His Tama Starclassic Bubinga kit, Sabian cymbal spread, and Tama Iron Cobra Power Glide double pedal are the tools of a drummer who has thought carefully about what each piece of gear contributes to his musical goals. The warmth of the Starclassic Bubinga's shells, the complex tonal vocabulary of the Sabian series, the consistent precision of the Tama Iron Cobra — each choice reflects the same philosophy: equipment that serves a wide dynamic range and a sophisticated musical language.
 
 **The Richardson setup in summary:**
 
-- **Pearl Reference Pure**: All-maple warmth and resonance for progressive metal's full dynamic spectrum
+- **Tama Starclassic Bubinga**: Warmth and resonance for progressive metal's full dynamic spectrum
 - **Tama STARPHONIC Brass Snare (14" x 6.5")**: Warm, articulate crack that reads through dense progressive arrangements without harshness
 - **Sabian Dark and Extra Dry**: Complex, nuanced tonal vocabulary across jazz and extreme metal contexts
 - **Tama Iron Cobra Double Pedal**: Compositional double-bass control for density-variable progressive metal kick work
-- **Vic Firth American Classic 5B**: Balanced mass and control across BTBAM's full dynamic range
+- **Vic Firth American Classic 3A**: Balanced mass and control across BTBAM's full dynamic range
 
 For drummers interested in progressive metal drumming at this level of sophistication:
 
@@ -85,25 +85,25 @@ Blake Richardson arrived at BTBAM in 2005 as a technically gifted young drummer.
 ## Key Facts
 
 - BTBAM's drummer since 2005 — first album: Alaska (2006)
-- Pearl Reference Pure or Masters Maple kit — warm, resonant shells for progressive dynamics
+- Tama Starclassic Bubinga kit — warm, resonant shells for progressive dynamics
 - Sabian series cymbals — Dark, Extra Dry, and Traditional voicings
 - Tama Iron Cobra Power Glide double pedal for extended progressive metal kick passages
-- Vic Firth American Classic 5B sticks
+- Vic Firth American Classic 3A sticks
 - Signature technique: metric modulation across genre-shifting progressive arrangements
 - Colors (2007) and The Parallax II (2012) — landmark progressive metal performances
-- Pearl Reference Pure — all-maple construction for warm, resonant progressive metal tone
+- DW Collector's Series — all-maple construction for warm, resonant progressive metal tone
 - Double 22" bass drum configuration for compositional double-kick deployment
 - Three rack toms (10", 12", 13") for wide pitch range in melodic fill sequences
-- SST mounting system allows full shell resonance — sustain as a musical tool
-- Also associated with Pearl Masters Maple configuration in some touring setups
-- Estimated kit value: $3,000–6,000 (Pearl Reference Pure shell pack)
+- All-maple shells allow full shell resonance — sustain as a musical tool
+- Used from Alaska (2006) through the Automata era (2018), when Richardson switched to Tama
+- Estimated kit value: $3,500–6,000 (DW Collector's Series shell pack)
 - Estimated snare value: $400–700 (Tama STARPHONIC brass snare)
 
 ## Frequently Asked Questions
 
 **Q: What drums does Blake Richardson use?**
 
-A: Blake Richardson plays a Pearl Reference Pure kit as his primary setup — an all-maple shell configuration that delivers the warm, resonant tone BTBAM's progressive arrangements require. The configuration runs double 22" bass drums with three rack toms (10", 12", 13") and a 16" floor tom, giving him the wide tonal range his melodic fill architecture demands. In earlier periods (Colors through Parallax era), Richardson used a Tama Starclassic Bubinga kit. Full profile at [Blake Richardson at MetalForge](/drummer/blake-richardson).
+A: Blake Richardson plays a Tama Starclassic Bubinga kit as his primary setup — a bubinga shell configuration that delivers the warm, resonant tone BTBAM's progressive arrangements require. The configuration runs double 22" bass drums with three rack toms (10", 12", 13") and a 16" floor tom, giving him the wide tonal range his melodic fill architecture demands. Full profile at [Blake Richardson at MetalForge](/drummer/blake-richardson).
 
 **Q: What cymbals does Blake Richardson play?**
 
@@ -136,4 +136,4 @@ A: For drummers studying Blake Richardson's technique, three albums are essentia
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

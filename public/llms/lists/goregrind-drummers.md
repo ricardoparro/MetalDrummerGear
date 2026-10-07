@@ -1,6 +1,6 @@
 # Top 10 Goregrind Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/goregrind-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/goregrind-drummers)
 
 ---
 
@@ -110,4 +110,4 @@ A: Carcass founded goregrind with "Reek of Putrefaction" (1988) and "Symphonies 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

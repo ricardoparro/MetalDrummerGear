@@ -18,10 +18,10 @@ Dying Fetus/Misery Index's Kevin Talley vs Vader/Dimmu Borgir's Daray — Americ
 
 ## Daray Setup
 
-- **Drums:** Pearl Masterworks Stadium Exotic
+- **Drums:** Tama Starclassic Performer B/B, Piano Black
 - **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride)
-- **Snare:** Pearl Reference 14x5.5" Brass
-- **Pedals/Hardware:** Pearl Demon XR Double Pedal
+- **Snare:** Tama S.L.P. Black Brass LBR1465
+- **Pedals/Hardware:** Pearl Demon Drive Double Bass Pedal
 - **Sticks:** Vic Firth American Classic Extreme 5B
 
 ## Playing Style
@@ -30,11 +30,11 @@ Kevin Talley built his reputation in brutal death metal and grindcore across Dyi
 
 ## Technique
 
-Talley's fast, precise single-stroke blasting and gravity-blast technique became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning his additional work with Chimaira and Suffocation. Daray drives rapid-fire double bass work through a Pearl Demon XR double pedal, bringing Vader's stripped-down technical death metal speed into Dimmu Borgir's orchestrated, large-scale symphonic black metal productions.
+Talley's fast, precise single-stroke blasting and gravity-blast technique became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning his additional work with Chimaira and Suffocation. Daray drives rapid-fire double bass work through a Pearl Demon Drive double pedal, bringing Vader's stripped-down technical death metal speed into Dimmu Borgir's orchestrated, large-scale symphonic black metal productions.
 
 ## Key Differences
 
-Kevin plays a Pearl Masters Premium Legend kit with a 14x5.5" Pearl Masters maple snare, Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride), and a Pearl Eliminator double pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon XR double pedal. Talley's fast, precise single-stroke blasting and gravity-blast technique became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning his additional work with Chimaira and Suffocation. Daray drives rapid-fire double bass work through a Pearl Demon XR double pedal, bringing Vader's stripped-down technical death metal speed into Dimmu Borgir's orchestrated, large-scale symphonic black metal productions.
+Kevin plays a Pearl Masters Custom kit with a 14x5.5" Pearl Masters maple snare, Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride), and a Pearl Eliminator double pedal. Daray plays a Tama Starclassic Performer B/B kit (Piano Black finish) with a S.L.P. Black Brass LBR1465 snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon Drive double bass pedal. Talley's fast, precise single-stroke blasting and gravity-blast technique became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning his additional work with Chimaira and Suffocation. Daray drives rapid-fire double bass work through a Pearl Demon Drive double pedal, bringing Vader's stripped-down technical death metal speed into Dimmu Borgir's orchestrated, large-scale symphonic black metal productions.
 
 ## Influence & Legacy
 
@@ -50,13 +50,13 @@ Kevin Talley's speed and precision across Dying Fetus, Misery Index, and Six Fee
 A: Both are elite extreme-speed drummers from different corners of death metal. Kevin Talley's skill set is rooted in brutal death metal and grindcore — fast, precise single-stroke blasting proven across Dying Fetus, Misery Index, and Six Feet Under. Daray's skill set spans two extreme metal chairs at once, combining Vader's technical death metal speed with Dimmu Borgir's theatrical symphonic black metal.
 
 **Q: What is each drummer's signature technique?**
-A: Kevin Talley's signature is relentless, high-velocity single-stroke and gravity-blast beats that defined brutal death metal's drumming standard. Daray's signature is rapid-fire double bass work delivered through a Pearl Demon XR double pedal, applied across both stripped-down death metal and orchestrated black metal.
+A: Kevin Talley's signature is relentless, high-velocity single-stroke and gravity-blast beats that defined brutal death metal's drumming standard. Daray's signature is rapid-fire double bass work delivered through a Pearl Demon Drive double pedal, applied across both stripped-down death metal and orchestrated black metal.
 
 **Q: What bands have Kevin Talley and Daray played in?**
 A: Kevin Talley has played with Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. Daray played in Polish death metal band Vader from 2006 to 2016 and has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008.
 
 **Q: What gear do Kevin Talley and Daray use?**
-A: Kevin Talley plays a Pearl Masters Premium Legend kit with a 14x5.5" Pearl Masters maple snare and Sabian AAX Series cymbals, driven by a Pearl Eliminator double pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare and Paiste RUDE & 2002 Series cymbals, driven by a Pearl Demon XR double pedal.
+A: Kevin Talley plays a Pearl Masters Custom kit with a 14x5.5" Pearl Masters maple snare and Sabian AAX Series cymbals, driven by a Pearl Eliminator double pedal. Daray plays a Tama Starclassic Performer B/B kit with a S.L.P. Black Brass LBR1465 snare and Paiste RUDE & 2002 Series cymbals, driven by a Pearl Demon Drive double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Kevin Talley plays a Pearl Masters Premium Legend kit with a 14x5.5" Pearl Ma
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

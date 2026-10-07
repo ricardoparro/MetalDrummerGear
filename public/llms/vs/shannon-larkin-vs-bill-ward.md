@@ -18,11 +18,11 @@ Godsmack's Shannon Larkin vs Black Sabbath's Bill Ward. Hard-hitting hard rock g
 
 ## Bill Ward Setup
 
-- **Drums:** Ludwig Classic Maple
-- **Cymbals:** Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China)
+- **Drums:** Ludwig Standard / Club Date Series
+- **Cymbals:** Zildjian Avedis Series
 - **Snare:** Ludwig Supraphonic 14x6.5" LM402
-- **Pedals/Hardware:** Ludwig Atlas Pro Double Pedal, Ludwig Throne
-- **Sticks:** Vic Firth American Classic 2B
+- **Pedals/Hardware:** Ludwig Speed King Pedal
+- **Sticks:** Pro-Mark Standard 5A/5B equivalent
 
 ## Playing Style
 
@@ -47,16 +47,16 @@ Shannon Larkin and Bill Ward represent two eras of the same hard-hitting, groove
 ## FAQ
 
 **Q: What are the main differences between Shannon Larkin's and Bill Ward's drum kits?**
-A: Shannon Larkin plays ddrum Dios Series with Sabian cymbals, while Bill Ward uses Ludwig Classic Maple with Paiste cymbals. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a DW 9000 Series double pedal. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single pedal.
+A: Shannon Larkin plays ddrum Dios Series with Sabian cymbals, while Bill Ward uses Ludwig Standard / Club Date Series with Zildjian cymbals. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a DW 9000 Series double pedal. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single pedal.
 
 **Q: What drums does Shannon Larkin play vs Bill Ward?**
-A: Shannon Larkin plays ddrum Dios Series. Bill Ward plays Ludwig Classic Maple.
+A: Shannon Larkin plays ddrum Dios Series. Bill Ward plays Ludwig Standard / Club Date Series.
 
 **Q: Who is the better alternative / nu-metal drummer, Shannon Larkin or Bill Ward?**
 A: Both are legends in their own right. Shannon Larkin and Bill Ward represent two eras of the same hard-hitting, groove-first lineage that runs from Black Sabbath through modern hard rock. See the full analysis at [metalforge.io/vs/shannon-larkin-vs-bill-ward](https://metalforge.io/vs/shannon-larkin-vs-bill-ward).
 
 **Q: What cymbals do Shannon Larkin and Bill Ward use?**
-A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese). Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China).
+A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese). Bill Ward uses Zildjian Avedis Series.
 
 ---
 
@@ -67,4 +67,4 @@ A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

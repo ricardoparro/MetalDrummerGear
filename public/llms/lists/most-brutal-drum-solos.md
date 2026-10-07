@@ -1,6 +1,6 @@
 # Top 10 Most Brutal Drum Solos in Metal History — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-brutal-drum-solos)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-brutal-drum-solos)
 
 ---
 
@@ -73,8 +73,8 @@ Full drummer profile: [Danny Carey on MetalForge](https://metalforge.io/drummer/
 **Band:** Dream Theater / The Winery Dogs
 **Highlight:** The Dance of Eternity / Instrumedley Marathon
 **Why ranked here:** Mike Portnoy's extended solo passages during Dream Theater's "Instrumedley" and "The Dance of Eternity" showcases represent progressive metal drumming at its peak. Navigating over 100 time signature changes, incorporating theatrical elements, and maintaining musical integrity through 15+ minute pieces, Portnoy redefined what a drum solo could be — an epic journey rather than a simple showcase.
-**Technique:** Progressive time signatures, theatrical choreography, electronic integration
-**Key gear:** Tama Starclassic with Roland electronics, massive kit configuration
+**Technique:** Progressive time signatures, theatrical choreography
+**Key gear:** Tama Starclassic, massive kit configuration
 **Solo duration:** 15+ minutes
 
 **Notable facts:**
@@ -91,7 +91,7 @@ Full drummer profile: [Mike Portnoy on MetalForge](https://metalforge.io/drummer
 **Highlight:** Reign in Blood Era Fury
 **Why ranked here:** Dave Lombardo's drum solos during Slayer's Reign in Blood era defined thrash metal aggression. His combination of Latin-influenced grooves with relentless double bass created a template that every thrash drummer has followed since. The controlled chaos of his live solos — particularly the War Ensemble breakdown — represents pure metal fury.
 **Technique:** Latin/Cuban influenced patterns fused with thrash speed
-**Key gear:** Pearl kits, Paiste RUDE cymbals, Tama Iron Cobra pedals
+**Key gear:** Pearl kits, Paiste RUDE cymbals
 **Solo duration:** 3-5 minutes
 
 **Notable facts:**
@@ -176,7 +176,7 @@ Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drumm
 **Highlight:** Cowboys From Hell Groove Power
 **Why ranked here:** Vinnie Paul's drum solos with Pantera combined raw power with groove metal swagger. His performances during the Cowboys From Hell and Vulgar Display of Power tours showcased a unique style that prioritized feel over flash. The thunderous power of his solos helped define the groove metal sound and inspired a generation of heavy drummers.
 **Technique:** Groove-focused power, half-time heaviness, signature kick patterns
-**Key gear:** ddrum Vinnie Paul Signature kit, Sabian AAX cymbals
+**Key gear:** Tama drum kit, Sabian AA cymbals
 **Solo duration:** 3-5 minutes
 
 **Notable facts:**
@@ -255,4 +255,4 @@ A: Metal drum solos range from 3–4 minute stand-alone pieces (Joey Jordison's 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

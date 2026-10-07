@@ -10,11 +10,11 @@ Megadeth's Nick Menza vs Pantera's Vinnie Paul — 90s thrash and groove metal i
 
 ## Nick Menza Setup
 
-- **Drums:** Tama Swingstar
-- **Cymbals:** Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride)
-- **Snare:** Tama Steel Snare 14x5.5"
-- **Pedals/Hardware:** DW 5000 Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** Pearl Reference Custom
+- **Cymbals:** Sabian AA / Signature Series
+- **Snare:** Pearl Reference Custom 14x5.5"
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal
+- **Sticks:** Vater Nick Menza Signature
 
 ## Vinnie Paul Setup
 
@@ -34,7 +34,7 @@ Menza's technique drew directly from his jazz background: ghost notes tucked int
 
 ## Key Differences
 
-In a striking parallel, both drummers started 1990 on the exact same kit: a Tama Artstar II with birch shells and die-cast hoops — Menza in Midnight Blue for "Rust in Peace," Paul in Piano Black for "Cowboys from Hell." From there their gear diverged completely. Menza stayed with Tama and a Bell Brass 14"x6.5" snare throughout his Megadeth tenure, moving from Zildjian A Custom cymbals on "Rust in Peace" to Paiste 2002 and Signature series cymbals on "Countdown to Extinction," and used Vic Firth 5B sticks. Paul moved from Tama to a custom ddrum kit for "Vulgar Display of Power" — oversized 24"x18" double bass drums and an 8"-deep steel snare, both triggered — and stayed with Sabian AA/AAX cymbals for nearly his entire career, eventually landing on a ddrum Vinnie Paul Signature Series kit for Hellyeah. Paul was also an early advocate of blending acoustic drums with electronic triggers to guarantee consistency at massive volume. Menza's technique drew directly from his jazz background: ghost notes tucked into thrash arrangements, melodic tom fills that moved around the kit rather than simply filling space, and a swing feel audible even inside "Holy Wars...The Punishment Due"'s machine-gun double bass. Paul's signature technique was almost the inverse — he famously held his drumsticks backwards, gripping the tapered end and striking with the butt for maximum weight on every hit, and he used double bass sparingly, for groove accents rather than sustained blast work. Both drummers valued restraint, but Menza's restraint served harmonic and rhythmic complexity while Paul's restraint served physical impact — the difference between a drummer thinking like a jazz musician and a drummer thinking like a producer sculpting low end.
+In a striking parallel, both drummers started 1990 on the exact same kit: a Tama Artstar II with birch shells and die-cast hoops — Menza in Midnight Blue for "Rust in Peace," Paul in Piano Black for "Cowboys from Hell." From there their gear diverged completely. Menza's drums kept moving too — from that Tama Artstar II he switched to Pearl Masters for "Countdown to Extinction" (1992), Pearl Masterworks for "Youthanasia" (1994), and Pearl Reference Custom for his final Megadeth album, "Cryptic Writings" (1997) — while his cymbals went Zildjian A/A Custom on "Rust in Peace" to Paiste 2002 and Signature series on "Countdown to Extinction" to Sabian AA/Signature on "Cryptic Writings," and he used Vater Nick Menza Signature sticks. Paul moved from Tama to a custom ddrum kit for "Vulgar Display of Power" — oversized 24"x18" double bass drums and an 8"-deep steel snare, both triggered — and stayed with Sabian AA/AAX cymbals for nearly his entire career, eventually landing on a ddrum Vinnie Paul Signature Series kit for Hellyeah. Paul was also an early advocate of blending acoustic drums with electronic triggers to guarantee consistency at massive volume. Menza's technique drew directly from his jazz background: ghost notes tucked into thrash arrangements, melodic tom fills that moved around the kit rather than simply filling space, and a swing feel audible even inside "Holy Wars...The Punishment Due"'s machine-gun double bass. Paul's signature technique was almost the inverse — he famously held his drumsticks backwards, gripping the tapered end and striking with the butt for maximum weight on every hit, and he used double bass sparingly, for groove accents rather than sustained blast work. Both drummers valued restraint, but Menza's restraint served harmonic and rhythmic complexity while Paul's restraint served physical impact — the difference between a drummer thinking like a jazz musician and a drummer thinking like a producer sculpting low end.
 
 ## Influence & Legacy
 
@@ -47,13 +47,13 @@ Nick Menza and Vinnie Paul both broke through in 1990 on the same Tama Artstar I
 ## FAQ
 
 **Q: Did Nick Menza and Vinnie Paul use the same drum kit?**
-A: Yes, at least at the start of the decade — both drummers played a Tama Artstar II with birch shells and die-cast hoops in 1990: Nick Menza in Midnight Blue finish on Megadeth's "Rust in Peace," and Vinnie Paul in Piano Black finish on Pantera's "Cowboys from Hell." Their gear diverged sharply afterward, with Menza staying on Tama and moving to Paiste cymbals, while Paul switched to a custom ddrum kit and stayed on Sabian cymbals for most of his career.
+A: Yes, at least at the start of the decade — both drummers played a Tama Artstar II with birch shells and die-cast hoops in 1990: Nick Menza in Midnight Blue finish on Megadeth's "Rust in Peace," and Vinnie Paul in Piano Black finish on Pantera's "Cowboys from Hell." Their gear diverged sharply afterward, with Menza moving through Pearl Masters, Pearl Masterworks, and finally Pearl Reference Custom drums while his cymbals went from Zildjian to Paiste to Sabian, while Paul switched to a custom ddrum kit and stayed on Sabian cymbals for most of his career.
 
 **Q: What made Vinnie Paul's drumming style different from Nick Menza's?**
 A: Vinnie Paul built his reputation on half-time, groove-first drumming — proving that heavy music didn't require speed, with signature tracks like "Walk" hitting harder through restraint than technical density. Nick Menza, by contrast, brought a jazz-trained vocabulary of ghost notes, melodic fills, and dynamic control to Megadeth's technical thrash, prioritizing musicality and complexity over raw groove.
 
 **Q: What snare drums did Nick Menza and Vinnie Paul use?**
-A: Nick Menza used a Tama Artstar Bell Brass snare at 14"x6.5" throughout his Megadeth tenure, prized for its bright, articulate crack. Vinnie Paul used a custom ddrum steel snare at 14"x8" — notably deeper than standard metal snares — which produced the massive, cracking low-end tone that became a hallmark of Pantera's groove metal sound.
+A: Nick Menza's snare moved along with his kit changes across his Megadeth tenure, settling into his Pearl Reference Custom setup by "Cryptic Writings" (1997). Vinnie Paul used a custom ddrum steel snare at 14"x8" — notably deeper than standard metal snares — which produced the massive, cracking low-end tone that became a hallmark of Pantera's groove metal sound.
 
 **Q: How did Nick Menza and Vinnie Paul die?**
 A: Nick Menza collapsed and died on stage in 2016 at age 51 while performing with his band OHM. Vinnie Paul passed away in 2018 at age 54 from dilated cardiomyopathy and coronary artery disease, two years after Menza and fourteen years after his brother Dimebag Darrell was murdered on stage in 2004.
@@ -67,4 +67,4 @@ A: Nick Menza collapsed and died on stage in 2016 at age 51 while performing wit
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

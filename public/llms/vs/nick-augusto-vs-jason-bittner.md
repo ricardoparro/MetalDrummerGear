@@ -14,7 +14,7 @@ Trivium's Nick Augusto vs Overkill/Shadows Fall's Jason Bittner. Modern metalcor
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Snare:** Pearl Reference 14x6.5" Brass
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
-- **Sticks:** Vic Firth American Classic 5B
+- **Sticks:** Pro-Mark Nylon Tip 5B
 
 ## Jason Bittner Setup
 
@@ -34,7 +34,7 @@ Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight
 
 ## Key Differences
 
-Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Jason Bittner's current Overkill-era rig centers on Mapex Saturn V all-maple shells and Zildjian K & A Custom cymbals, driven by a Mapex Falcon double pedal and his own Promark Jason Bittner Signature 5BX sticks — a wholesale Mapex/Zildjian switch he made in 2017 after nearly two decades on Tama and Sabian gear during his Shadows Fall years. Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight, aggressive double bass work and straightforward technicality built to serve Trivium's thrash-influenced songwriting rather than to showcase complexity for its own sake. Bittner combines thrash metal power with the groove and heaviness of modern metal, drawing on Dave Lombardo, Nicko McBrain, Vinnie Paul, and Charlie Benante to build a style defined by powerful, driving double bass patterns, tight and punchy snare work, and the versatility to move between Shadows Fall's metalcore attack and Overkill's classic thrash gallop without losing his identity.
+Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Pro-Mark Nylon Tip 5B sticks. Jason Bittner's current Overkill-era rig centers on Mapex Saturn V all-maple shells and Zildjian K & A Custom cymbals, driven by a Mapex Falcon double pedal and his own Promark Jason Bittner Signature 5BX sticks — a wholesale Mapex/Zildjian switch he made in 2017 after nearly two decades on Tama and Sabian gear during his Shadows Fall years. Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight, aggressive double bass work and straightforward technicality built to serve Trivium's thrash-influenced songwriting rather than to showcase complexity for its own sake. Bittner combines thrash metal power with the groove and heaviness of modern metal, drawing on Dave Lombardo, Nicko McBrain, Vinnie Paul, and Charlie Benante to build a style defined by powerful, driving double bass patterns, tight and punchy snare work, and the versatility to move between Shadows Fall's metalcore attack and Overkill's classic thrash gallop without losing his identity.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Jason Bittner joined Overkill in 2017, replacing longtime drummer Ron Lipnick
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

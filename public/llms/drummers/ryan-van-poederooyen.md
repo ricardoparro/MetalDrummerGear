@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/ryan-van-poederooyen"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Ryan Van Poederooyen — Drum Kit & Gear Setup
@@ -125,7 +125,7 @@ A: Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, th
 
 **Q: What drum set does Ryan Van Poederooyen use?**
 
-A: Ryan Van Poederooyen's drum set is built around a Pearl Reference 14"x6.5" Brass snare, delivering the cutting attack needed to punch through Townsend's dense, layered guitar walls on records like Accelerated Evolution, Synchestra, and Transcendence.
+A: Ryan Van Poederooyen's drum set is a Pearl Reference Series shell pack, used across records like Accelerated Evolution, Synchestra, and Transcendence; the specific snare model has not been independently verified.
 
 **Q: What cymbals does Ryan Van Poederooyen play?**
 
@@ -133,7 +133,7 @@ A: Ryan Van Poederooyen plays Sabian HHX and AAX Series cymbals: 14" HHX Evoluti
 
 **Q: What snare does Ryan Van Poederooyen use?**
 
-A: Ryan Van Poederooyen's snare is a Pearl Reference 14"x6.5" Brass, delivering the cutting attack needed to punch through Devin Townsend's dense guitar walls.
+A: Ryan Van Poederooyen's snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.
 
 **Q: What sticks does Ryan Van Poederooyen use?**
 
@@ -245,4 +245,4 @@ Dated brand-endorsement timeline: [Ryan Van Poederooyen's endorsement history](h
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

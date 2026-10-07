@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/morgan-agren"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Morgan Ågren — Drum Kit & Gear Setup
@@ -38,7 +38,7 @@ The Sonor/Paiste configuration has remained Ågren's foundation across a career 
 
 Morgan Ågren (born July 13, 1967) is a Swedish drummer renowned for his extraordinary technical ability and complex polyrhythmic playing. He began drumming as a child and formed the Mats/Morgan Band with keyboardist Mats Öberg in 1981, performing Frank Zappa's music. Ågren has collaborated with Dweezil and Ahmet Zappa, recorded the legendary Sol Niger Within album with Meshuggah's Fredrik Thordendal, and has been a member of progressive rock band Kaipa since 2002. He's also worked with Devin Townsend on Casualties of Cool and Empath. A documentary about him, "Morgan Ågren's Conundrum: A Percussive Misadventure," was released in 2013.
 
-Morgan Ågren (born November 4, 1967, in Umeå, Sweden) is a Swedish drummer and multi-instrumentalist renowned for his extraordinary technical ability and musical versatility. A child prodigy who was performing professionally by age 13, Ågren gained international recognition for his work with Frank Zappa's band in 1988 and later with Devin Townsend Project.
+Morgan Ågren (born July 13, 1967, in Umeå, Sweden) is a Swedish drummer and multi-instrumentalist renowned for his extraordinary technical ability and musical versatility. A child prodigy who was performing professionally by age 13, Ågren gained international recognition for his work with Frank Zappa's band in 1988 and later with Devin Townsend Project.
 
 Ågren's drumming combines jazz fusion sophistication with rock power, making him one of the most technically accomplished drummers in progressive music. His work with the Mats/Morgan Band alongside keyboardist Mats Öberg showcases his incredible improvisational abilities and compositional skills.
 
@@ -224,4 +224,4 @@ Dated brand-endorsement timeline: [Morgan Ågren's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

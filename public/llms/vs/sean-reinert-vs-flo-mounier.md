@@ -10,18 +10,18 @@ Death/Cynic's Sean Reinert vs Cryptopsy's Flo Mounier — jazz-fusion technical 
 
 ## Sean Reinert Setup
 
-- **Drums:** Tama Artstar II
-- **Cymbals:** Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)
-- **Snare:** Tama Artstar II Birch 14x5.5"
-- **Pedals/Hardware:** DW 5000 Double Pedal
+- **Drums:** DW Collector's Series
+- **Cymbals:** Zildjian K Custom Series
+- **Snare:** DW Collector's Series Maple Shell
+- **Pedals/Hardware:** DW 9000 Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
 ## Flo Mounier Setup
 
-- **Drums:** Pearl Masters Maple Complete
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Pearl Masters 14x5.5" Maple
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-3000 Throne
+- **Snare:** Signature snare
+- **Pedals/Hardware:** Tama Speed Cobra 910 Twin Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
 ## Playing Style
@@ -34,7 +34,7 @@ Reinert's jazz training gave him traditional-grip ghost notes, brush-like dynami
 
 ## Key Differences
 
-Sean played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks — a jazz-crossover setup built for dynamic range. Flo plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5A sticks. Reinert's jazz training gave him traditional-grip ghost notes, brush-like dynamic control, and polymetric phrasing that let him move between brutal intensity and jazz-informed delicacy within the same passage — a vocabulary almost unheard of in death metal at the time. Mounier's technique is built on raw speed and endurance — his gravity blasts and complex polyrhythmic patterns pushed blast-beat technique to new extremes, while his incorporation of jazz and fusion elements adds musicality without sacrificing Cryptopsy's trademark brutality.
+Sean played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks — a jazz-crossover setup built for dynamic range. Flo plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), driven by a Tama Speed Cobra 910 double pedal and Vic Firth American Classic 5A sticks. Reinert's jazz training gave him traditional-grip ghost notes, brush-like dynamic control, and polymetric phrasing that let him move between brutal intensity and jazz-informed delicacy within the same passage — a vocabulary almost unheard of in death metal at the time. Mounier's technique is built on raw speed and endurance — his gravity blasts and complex polyrhythmic patterns pushed blast-beat technique to new extremes, while his incorporation of jazz and fusion elements adds musicality without sacrificing Cryptopsy's trademark brutality.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Sean Reinert's signature is jazz-informed ghost notes and dynamic, polymetric
 A: Sean Reinert recorded Death's "Human" (1991) before becoming the founding drummer of Cynic, recording "Focus" (1993) and "Traced in Air" (2008). Flo Mounier has been Cryptopsy's only constant member since joining in 1992, appearing on every album from "Ungentle Exhumation" through "As Gomorrah Burns" (2023).
 
 **Q: What gear do Sean Reinert and Flo Mounier use?**
-A: Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks. Flo Mounier plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals, driven by a Pearl Demon Drive double pedal.
+A: Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks. Flo Mounier plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom c
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

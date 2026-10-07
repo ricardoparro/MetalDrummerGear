@@ -27,7 +27,7 @@ This is the gap in the Abe Cunningham arc: after White Pony's atmospheric breakt
 - **Drums:** Tama Tama Starclassic Maple (Custom finish finish)
 - **Snare:** Tama Tama Steel Snare 14" x 6.5", 14" x 6.5"
 - **Cymbals:** Zildjian — A Custom / K Custom hybrid
-- **Hardware / Pedals:** Tama Iron Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Zildjian 5A / Artist Series
+- **Hardware / Pedals:** Tama Iron Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark (non-signature)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-high — assertive in heavy passages, controlled in atmospheric sections
 
@@ -133,4 +133,4 @@ A: The Deftones' self-titled 2003 album is certified 4x Platinum in the United S
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

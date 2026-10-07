@@ -32,7 +32,6 @@ Raymond Herrera is one of Industrial Metal / Death Metal's most influential drum
 ### Gear Used
 
 - Tama Starclassic Kit (drums)
-- Pearl 14"x6.5" Free-Floating Snare (snare)
 - Zildjian Z Custom Cymbals (cymbals)
 - DW 5000 Series Double Pedal (hardware)
 - Drum triggers (DDrum/Roland) (hardware)
@@ -63,7 +62,6 @@ Raymond Herrera is one of Industrial Metal / Death Metal's most influential drum
 ### Gear Used
 
 - Tama Starclassic Kit (drums)
-- Pearl 14"x6.5" Free-Floating Snare (snare)
 - Zildjian Z Custom Cymbals (cymbals)
 - DW 5000 Series Double Pedal (hardware)
 - Drum triggers (DDrum/Roland) (hardware)
@@ -94,7 +92,6 @@ Raymond Herrera is one of Industrial Metal / Death Metal's most influential drum
 ### Gear Used
 
 - Tama Starclassic Kit (drums)
-- Pearl 14"x6.5" Free-Floating Snare (snare)
 - Zildjian Z Custom Cymbals (cymbals)
 - DW 5000 Series Double Pedal (hardware)
 - Drum triggers (DDrum/Roland) (hardware)
@@ -114,4 +111,4 @@ Raymond Herrera's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

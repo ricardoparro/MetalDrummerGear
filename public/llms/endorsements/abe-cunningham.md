@@ -16,13 +16,13 @@ Abe Cunningham endorses Tama for drums. They play the Tama Starclassic Maple/Bub
 
 Abe Cunningham endorses Zildjian for cymbals. They play the Zildjian A Custom / K Custom hybrid. This partnership began in 2022.
 
-### Drumsticks: Zildjian
+### Drumsticks: Pro-Mark
 
-Abe Cunningham endorses Zildjian for drumsticks. They play the Zildjian Abe Cunningham Artist Series. This partnership began in 2022. Abe Cunningham has a co-designed signature product with Zildjian.
+Abe Cunningham endorses Pro-Mark for drumsticks. This partnership began in 1997.
 
-### Drumheads: Evans
+### Drumheads: Remo
 
-Abe Cunningham endorses Evans for drumheads. They play the Evans EMAD / G2. This partnership began in 1997.
+Abe Cunningham endorses Remo for drumheads. They play the Remo Powerstroke P3 / Pinstripe / Ambassador. This partnership began in 1997.
 
 ### Hardware / Pedals: Tama
 
@@ -30,7 +30,7 @@ Abe Cunningham endorses Tama for hardware / pedals. They play the Tama Iron Cobr
 
 ## Signature Models
 
-- Zildjian Abe Cunningham Artist Series (signature)
+- Zildjian Abe Cunningham Artist Series (2022)
 
 ## Endorsement History
 
@@ -43,10 +43,10 @@ Abe Cunningham endorses Tama for hardware / pedals. They play the Tama Iron Cobr
 ## FAQ
 
 **Q: What brands does Abe Cunningham endorse?**
-A: Abe Cunningham endorses Tama, Zildjian, Evans. Their primary drum endorsement is Tama and they play Zildjian cymbals.
+A: Abe Cunningham endorses Tama, Zildjian, Pro-Mark, Remo. Their primary drum endorsement is Tama and they play Zildjian cymbals.
 
 **Q: Does Abe Cunningham have a signature drum or cymbal?**
-A: Yes. Abe Cunningham has signature gear: Zildjian Abe Cunningham Artist Series (signature).
+A: Yes. Abe Cunningham has signature gear: Zildjian Abe Cunningham Artist Series (2022).
 
 **Q: What is Abe Cunningham's endorsement history?**
 A: See the Endorsement History section above for a full timeline of Abe Cunningham's brand deals.
@@ -61,4 +61,4 @@ A: See the Endorsement History section above for a full timeline of Abe Cunningh
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

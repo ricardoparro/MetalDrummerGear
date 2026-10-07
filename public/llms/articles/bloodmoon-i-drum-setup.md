@@ -16,7 +16,7 @@ Released November 19, 2021 on Epitaph Records and Deathwish Inc., Bloodmoon: I p
 
 Where The Dusk in Us (2017) stretched Converge's dynamic range within a still-recognizably hardcore framework, Bloodmoon: I abandons the framework almost entirely on tracks like "Blood Moon," "Flower Moon," and "Tongues Playing Dead" — songs built on doom-paced tempos, layered vocal harmonies between Bannon and Wolfe, and long stretches of atmosphere rather than aggression. Koller's job across the record's eleven tracks is less about delivering intensity and more about shaping space: knowing when restraint serves the song and when to bring the kit's full weight to bear.
 
-Recorded and mixed by Kurt Ballou at GodCity Studio in Salem, Massachusetts — the same room behind every Converge album since Jane Doe (2001) — Bloodmoon: I still used Koller's fully settled touring rig: the Tama Starclassic Maple, Zildjian K Dark Series cymbals, Tama Iron Cobra pedal, and Vater signature sticks. No new gear was required. What changed was how Koller used it — pulling dynamic range and textural nuance out of the same setup that powered Axe to Fall's all-out aggression four years earlier.
+Recorded and mixed by Kurt Ballou at GodCity Studio in Salem, Massachusetts — the same room behind every Converge album since Jane Doe (2001) — Bloodmoon: I still used Koller's fully settled touring rig: the Tama Starclassic Maple, Zildjian K Dark Series cymbals, Tama Iron Cobra pedal, and Vic Firth American Classic 5B sticks. No new gear was required. What changed was how Koller used it — pulling dynamic range and textural nuance out of the same setup that powered Axe to Fall's all-out aggression four years earlier.
 
 This article breaks down Ben Koller's Bloodmoon: I drum setup and examines how his most collaborative, least hardcore-oriented Converge record still required every tool in his established rig.
 
@@ -25,7 +25,7 @@ This article breaks down Ben Koller's Bloodmoon: I drum setup and examines how h
 - **Drums:** Tama Tama Starclassic Maple (Piano Black touring configuration finish)
 - **Snare:** Tama Tama S.L.P. Brass (Studio Legendary Percussion), 14" x 6"
 - **Cymbals:** Zildjian — Zildjian K Dark Series
-- **Hardware / Pedals:** Tama Iron Cobra (Power Glide or Rolling Glide); Vater Ben Koller Signature
+- **Hardware / Pedals:** Tama Iron Cobra (Power Glide or Rolling Glide); Vic Firth American Classic 5B
 - **Heads:** Evans G1 Coated batter; Evans 300 Snare Side resonant
 - **Snare tuning:** Variable — medium-high for the album's harder tracks, lower tension for its atmospheric passages
 
@@ -120,4 +120,4 @@ A: Bloodmoon: I (2021) was written, recorded, and mixed by Kurt Ballou at GodCit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -23,7 +23,7 @@ Ben Koller's drum setup on No Heroes carries the same Tama Starclassic, brass sn
 - **Drums:** Tama Tama Starclassic Bubinga (era-appropriate) (Piano Black finish)
 - **Snare:** Tama Tama Bell Brass / Starphonic Brass (era-appropriate), 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX / AAX
-- **Hardware / Pedals:** Tama Iron Cobra (Power Glide or Rolling Glide); Tama Iron Cobra Lever Glide; Vater Ben Koller signature stick
+- **Hardware / Pedals:** Tama Iron Cobra (Power Glide or Rolling Glide); Tama Iron Cobra Lever Glide; Vic Firth American Classic 5B
 - **Heads:** Evans G1 Coated batter; Evans 300 snare-side resonant
 - **Snare tuning:** Medium-high tension for cut across both the album's fastest and slowest material
 
@@ -112,4 +112,4 @@ A: Gear-wise, almost nothing changed across all three records — Ben Koller use
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

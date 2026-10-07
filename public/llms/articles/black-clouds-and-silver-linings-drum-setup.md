@@ -1,6 +1,6 @@
 # Black Clouds & Silver Linings Drum Setup — Mike Portnoy's Final Dream Theater Album (2009)
 
-> Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Black Clouds & Silver Linings (2009) — his final album before his departure. Discover the Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, DW 9000 pedals, and the story behind the Grammy-nominated 'A Rite of Passage'.
+> Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Black Clouds & Silver Linings (2009) — his final album before his departure. Discover the Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, and the story behind the Grammy-nominated 'A Rite of Passage'.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Mike Portnoy](/llms/drummers/mike-portnoy.md)
@@ -16,7 +16,7 @@ Released on June 23, 2009, *Black Clouds & Silver Linings* is Dream Theater's te
 
 The album is an extraordinary artistic statement in retrospect: a 77-minute record spanning brutal prog-metal riffing, a 19-minute epic, and the most emotionally devastating performance of Portnoy's Dream Theater career. "The Best of Times" — a 13-minute track Portnoy wrote for his father, Howard, who was dying of pancreatic cancer — contains Portnoy's most personal drumming. Howard Portnoy passed away before the album was released; the track became a tribute rather than a dedication before the world ever heard it.
 
-Gear-wise, *Black Clouds & Silver Linings* continued the platform Portnoy had established on *Systematic Chaos* (2007): Tama Starclassic **Bubinga** shells, Sabian **HHX Evolution** cymbals, and **DW 9000** double pedals. After the significant transitions of the mid-decade, this was Portnoy in a period of gear consolidation. Two years of touring *Systematic Chaos* had proven every component, and the *Black Clouds* sessions reflect a drummer completely comfortable with his entire rig.
+Gear-wise, *Black Clouds & Silver Linings* continued the platform Portnoy had established on *Systematic Chaos* (2007): Tama Starclassic **Bubinga** shells and Sabian **HHX Evolution** cymbals. After the significant transitions of the mid-decade, this was Portnoy in a period of gear consolidation. Two years of touring *Systematic Chaos* had proven every component, and the *Black Clouds* sessions reflect a drummer completely comfortable with his entire rig.
 
 The sessions took place at Cove City Sound Studios in Glen Cove, New York — a change from the Avatar Studios environment of *Train of Thought* and *Systematic Chaos*. John Petrucci and Portnoy self-produced again, with the goal of capturing drum performances capable of ranging from the aggressive double-bass assault of "A Rite of Passage" to the intimate, emotionally raw dynamics of "Wither" and "The Best of Times."
 
@@ -27,7 +27,7 @@ This is a complete breakdown of every piece of drum gear Mike Portnoy used to re
 - **Drums:** Tama Tama Starclassic Bubinga (Black Nickel Silver finish)
 - **Snare:** Tama Tama Starclassic Bubinga Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX Evolution Series
-- **Hardware / Pedals:** DW 9000 Double Pedal; DW 9000 Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Vic Firth Mike Portnoy Signature
+- **Hardware / Pedals:** Tama Power Tower Rack; Tama 1st Chair; Vic Firth Mike Portnoy Signature
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension — tight, punchy attack for aggressive passages; sensitivity maintained for emotional dynamics
 
@@ -65,7 +65,7 @@ The drum performance across the album is the fullest demonstration of Portnoy's 
 - "A Rite of Passage" is the model for sustained aggressive double-bass at high velocity
 - "The Count of Tuscany" is 19 minutes of compositional drumming at its finest
 - "The Best of Times" demonstrates that the most powerful drumming is often the most restrained
-- DW 9000 dynamic sensitivity — the difference between power and precision is in the feel
+- Pedal dynamic sensitivity — the difference between power and precision is in the feel
 
 Portnoy left Dream Theater in September 2010. The band continued with Mike Mangini — an extraordinary drummer with a completely different philosophy. But *Black Clouds & Silver Linings* closed the Portnoy era with a record that had no compromises: a Grammy nomination, a #1 charting, and a personal tribute that may be the most emotionally significant piece of music in Dream Theater's catalog.
 
@@ -79,7 +79,6 @@ For the album that preceded this and established the gear platform, see the [Sys
 - Recorded at Cove City Sound Studios, Glen Cove, NY — self-produced by Petrucci & Portnoy
 - Tama Starclassic Bubinga shells — same proven platform as Systematic Chaos, refined over two years of touring
 - Sabian HHX Evolution cymbals — continued and consolidated from the 2007 era
-- DW 9000 double pedals — final Dream Theater studio recording of this configuration
 - 'The Best of Times' — written for his dying father; Portnoy's most emotionally demanding performance
 - Continued from Systematic Chaos — same Bubinga platform, two years of touring seasoning behind it
 - Double 22"x18" bass drums — maintained throughout the entire late-Portnoy era
@@ -93,7 +92,7 @@ For the album that preceded this and established the gear platform, see the [Sys
 
 **Q: What gear did Mike Portnoy use on Black Clouds & Silver Linings?**
 
-A: Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit — the same proven platform as Systematic Chaos (2007), seasoned over two years of touring. The configuration maintained approximately 13 drums: double 22"x18" bass drums, five rack toms (8", 10", 12", 13", 14"), and three floor toms (14", 16", 18"). Cymbals were Sabian HHX Evolution — hand-hammered, darker-toned, and capable of serving both the album's heaviest and most atmospheric passages. Pedals were DW 9000 double pedals, known for smooth roller-bearing cam action and dynamic sensitivity. Sticks were his Vic Firth Mike Portnoy Signature model. For his full career profile, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
+A: Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit — the same proven platform as Systematic Chaos (2007), seasoned over two years of touring. The configuration maintained approximately 13 drums: double 22"x18" bass drums, five rack toms (8", 10", 12", 13", 14"), and three floor toms (14", 16", 18"). Cymbals were Sabian HHX Evolution — hand-hammered, darker-toned, and capable of serving both the album's heaviest and most atmospheric passages. Sticks were his Vic Firth Mike Portnoy Signature model. For his full career profile, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
 
 **Q: Why did Mike Portnoy leave Dream Theater after this album?**
 
@@ -109,7 +108,7 @@ A: Yes. Dream Theater received a Grammy nomination for Best Metal Performance at
 
 **Q: How does the Black Clouds kit differ from Systematic Chaos?**
 
-A: The two setups are closely related — Black Clouds & Silver Linings continued the Tama Starclassic Bubinga / Sabian HHX Evolution / DW 9000 platform that Portnoy had established on Systematic Chaos (2007). The primary differences were contextual rather than gear-based: the Black Clouds kit arrived at the sessions with two years of touring experience behind it, and the recording environment shifted from Avatar Studios (Systematic Chaos) to Cove City Sound Studios in Glen Cove, NY. Musically, the same gear served a far wider emotional range on Black Clouds — from the Grammy-nominated aggression of 'A Rite of Passage' to the intimate restraint of 'The Best of Times' and 'Wither.' See the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the full 2007 comparison.
+A: The two setups are closely related — Black Clouds & Silver Linings continued the Tama Starclassic Bubinga / Sabian HHX Evolution platform that Portnoy had established on Systematic Chaos (2007). The primary differences were contextual rather than gear-based: the Black Clouds kit arrived at the sessions with two years of touring experience behind it, and the recording environment shifted from Avatar Studios (Systematic Chaos) to Cove City Sound Studios in Glen Cove, NY. Musically, the same gear served a far wider emotional range on Black Clouds — from the Grammy-nominated aggression of 'A Rite of Passage' to the intimate restraint of 'The Best of Times' and 'Wither.' See the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the full 2007 comparison.
 
 ## Related Articles
 
@@ -128,4 +127,4 @@ A: The two setups are closely related — Black Clouds & Silver Linings continue
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

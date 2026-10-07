@@ -117,7 +117,7 @@ A: As the Palaces Burn (2003) and Ashes of the Wake (2004) share the same Mapex 
 
 **Q: What pedals did Chris Adler use on As the Palaces Burn?**
 
-A: Chris Adler used Mapex P400 single pedals on his dual bass drum setup for As the Palaces Burn. The P400's chain-drive mechanism provided reliable response for his developing double-bass patterns — pre-dating the more advanced Mapex Janus and Falcon designs he would adopt in later years. He ran two independent P400 pedals, one on each bass drum, rather than a double pedal on a single kick.
+A: Chris Adler used Mapex P400 single pedals on his dual bass drum setup for As the Palaces Burn. The P400's chain-drive mechanism provided reliable response for his developing double-bass patterns — pre-dating the more advanced Mapex Janus and Trick Pro V pedals he would adopt in later years. He ran two independent P400 pedals, one on each bass drum, rather than a double pedal on a single kick.
 
 ## Related Articles
 
@@ -135,4 +135,4 @@ A: Chris Adler used Mapex P400 single pedals on his dual bass drum setup for As 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

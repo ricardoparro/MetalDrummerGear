@@ -1,6 +1,6 @@
 # Top 10 Technical Thrash Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/technical-thrash-metal-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/technical-thrash-metal-drummers)
 
 ---
 
@@ -128,7 +128,7 @@ A: Technical thrash drumming layers odd-time signatures, polyrhythmic fills, and
 A: Megadeth's "Rust in Peace" and "Countdown to Extinction" eras (with drummer Nick Menza) are the genre's most commonly cited technical thrash benchmark. Dark Angel earned the nickname "The Fastest Band Alive" chasing technical thrash's tempo ceiling in the mid-1980s. Death's later technical death metal work, Forbidden, Vio-lence, Coroner, and Toxik all contributed to technical thrash's vocabulary, while Testament and Slayer's post-Lombardo lineups carried the style's technical demands into the 1990s and beyond.
 
 **Q: What gear do technical thrash metal drummers use?**
-A: Technical thrash's demanding fill work and sustained double-bass precision favor kits and pedals built for fast, consistent response. Dave Lombardo's Pearl Masters Maple kit and Pearl Demon Drive double pedal deliver the quick rebound his Latin-influenced fills require. Gene Hoglan's Tama Starclassic kit and Tama Speed Cobra double pedal provide the metronomic reliability behind his "Atomic Clock" reputation. Charlie Benante's Tama Starclassic kit with Roland electronics and Paul Bostaph's ddrum Paladin kit round out the genre's preference for bright, cutting cymbals (Zildjian A Custom, Paiste RUDE) that stay articulate through technical thrash's dense, fast arrangements.
+A: Technical thrash's demanding fill work and sustained double-bass precision favor kits and pedals built for fast, consistent response. Dave Lombardo's Tama Starclassic Walnut/Birch kit delivers the quick rebound his Latin-influenced fills require. Gene Hoglan's Tama Starclassic kit and Tama Speed Cobra double pedal provide the metronomic reliability behind his "Atomic Clock" reputation. Charlie Benante's Tama Starclassic kit and Paul Bostaph's Pearl Masters Maple kit round out the genre's preference for bright, cutting cymbals (Paiste for Benante, Sabian AAX for Bostaph) that stay articulate through technical thrash's dense, fast arrangements.
 
 
 ---
@@ -148,4 +148,4 @@ A: Technical thrash's demanding fill work and sustained double-bass precision fa
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

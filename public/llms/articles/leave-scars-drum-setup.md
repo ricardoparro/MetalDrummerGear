@@ -1,6 +1,6 @@
 # Leave Scars Drum Setup: Gene Hoglan's Groove-Within-Speed Mastery (Dark Angel, 1989)
 
-> Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Leave Scars (1989) — the album where The Atomic Clock added groove to legendary speed. Tama Rockstar kit, Ludwig Acrolite snare, Paiste 2002 cymbals, and the techniques bridging Darkness Descends to Individual Thought Patterns.
+> Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Leave Scars (1989) — the album where The Atomic Clock added groove to legendary speed. Tama Rockstar kit, Ludwig Acrolite snare, Zildjian A Series cymbals, and the techniques bridging Darkness Descends to Individual Thought Patterns.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Gene Hoglan](/llms/drummers/gene-hoglan.md)
@@ -16,7 +16,7 @@ When Dark Angel released "Leave Scars" on November 1, 1989, Gene Hoglan was 22 y
 
 "Leave Scars" was recorded at Track Record Studios in North Hollywood, again with producer Bill Metoyer — the same team and facility that captured "Darkness Descends" three years earlier. The production is noticeably more polished: the drums have greater definition, the kick drum attack is more articulate, and Hoglan's intricate inner patterns have more room to breathe in the mix. Metoyer had refined his extreme metal production approach in the intervening years, and the results are audible throughout.
 
-Gear-wise, the sessions represented a meaningful upgrade. Hoglan's primary kit had evolved from the Tama Imperialstar of the Darkness Descends sessions to a Tama Rockstar — the updated mid-professional line that Tama introduced in the late 1980s with improved shell construction and hardware. The Ludwig Acrolite snare remained constant: its aluminum shell delivering the same bright, cutting crack that had defined the 1986 album. Cymbals shifted to Paiste's 2002 series, bringing a distinctly European tonality — drier, more focused, with faster decay — to Hoglan's previously Sabian-dominated setup.
+Gear-wise, the sessions represented a meaningful upgrade. Hoglan's primary kit had evolved from the Tama Imperialstar of the Darkness Descends sessions to a Tama Rockstar — the updated mid-professional line that Tama introduced in the late 1980s with improved shell construction and hardware. The Ludwig Acrolite snare remained constant: its aluminum shell delivering the same bright, cutting crack that had defined the 1986 album. Cymbals remained Zildjian's A series — the same mid-range hand-hammered setup Hoglan had used since signing with the brand in 1983 — as the gear evolution for this session focused on the drum kit rather than the cymbals.
 
 The "Leave Scars" sessions document the period that musicians who knew Hoglan describe consistently: a drummer actively expanding his vocabulary beyond pure speed, incorporating groove elements that would become fully developed in his death metal work. Tracks like "Leave Scars" and "Never to Rise Again" demonstrate double bass patterns that groove rather than simply drive — a compositional distinction that separates Hoglan from contemporaries who matched his velocity but not his musicality.
 
@@ -26,7 +26,7 @@ For context on what preceded this: see [darkness-descends-drum-setup](https://me
 
 - **Drums:** Tama Tama Rockstar (Black finish)
 - **Snare:** Ludwig Ludwig Acrolite, 14" x 5"
-- **Cymbals:** Paiste — Paiste 2002 Series
+- **Cymbals:** Zildjian — Zildjian A Series
 - **Hardware / Pedals:** Tama Iron Cobra Single Pedals (x2); Tama HH55W Hi-Hat Stand; Tama HT230B; Vic Firth 5B Wood Tip
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension, moderate snare wire tension for articulation at extreme speeds
@@ -53,23 +53,23 @@ On "Leave Scars," the Acrolite's character is more prominently featured than on 
 
 Hoglan maintained the medium-high tuning established on Darkness Descends, with moderately tight snare wires for crisp, articulate response. The Acrolite's 5" depth kept the drum responsive at extreme tempos — deeper drums can smear at speed, producing an indistinct attack rather than a precise crack. The aluminum shell's inherent brightness compensated for the shallow depth, maintaining body and projection without sacrificing response.
 
-### Paiste 2002: European Precision Replaces American Tradition
+### Zildjian A Series: Dark Angel's Cymbal Constant
 
-The most significant gear change between Darkness Descends and Leave Scars was at the cymbal level: Gene Hoglan shifted from Sabian's AA Series to Paiste's 2002 line — a transition that brought a distinctly European character to his sound and one that would persist through his subsequent Symbolic work with Death.
+Unlike the drum kit, which saw a meaningful upgrade from the Darkness Descends sessions, Gene Hoglan's cymbal setup for "Leave Scars" carried forward unchanged: Zildjian's A series, the mid-range hand-hammered standard he had played since signing with the brand in 1983, at the very start of his Dark Angel tenure.
 
-Paiste's 2002 cymbals are defined by their CuSn8 bronze alloy — a tin-rich formulation that produces a drier, more focused tone than the B20 alloys typical of Sabian's production. Where Sabian AA Series cymbals have complex, warm overtones that bloom and sustain, Paiste 2002s cut and decay quickly. For extreme metal at high tempos, this faster decay prevents cymbal wash from obscuring the rhythmic patterns underneath. Every crash and hi-hat articulation on Leave Scars is distinct — there is no muddy cymbal blur in the dense passages.
+The A series' traditional B20 bronze alloy gave Hoglan complex, warm overtones with enough bite to cut through Bill Metoyer's increasingly dense production. For extreme metal at high tempos, that blend of warmth and definition kept crash and hi-hat articulation legible rather than letting the mix collapse into cymbal wash. Every accent on Leave Scars reads clearly against Track Record Studios' more polished 1989 production.
 
-The 14" Sound Edge Hi-Hats were foundational to this setup. The Sound Edge design — a rippled bottom cymbal that reduces surface contact with the top — produces a tighter, more precise "chick" sound and a faster open tone. At the speeds Hoglan played, hi-hat definition determines whether patterns are legible or chaotic. The Sound Edge delivered the definition Metoyer's production could capture and preserve.
+The A Zildjian New Beat 14" hi-hats were foundational to this setup, just as they had been on Darkness Descends. Their heavier bottom cymbal and standard top produced the tight "chick" sound Hoglan's precision patterns required, while remaining musical enough for the open and half-open work that increasingly defined his groove-within-speed approach.
 
-The two-crash configuration — 16" and 18" — maintained the approach established on Darkness Descends while providing the Paiste 2002's characteristic quick decay. The 18" Novo China added aggressive accents that were tonally cleaner than the Sabian Chinese it replaced — less sustained, more focused, more controllable at extreme dynamics.
+The two-crash configuration — 16" and 18" — maintained the exact pairing established on Darkness Descends, giving Hoglan the same lighter-for-agility, heavier-for-weight dynamic range across Leave Scars' more developed arrangements. The 18" China High added the aggressive accent the album's heaviest passages demanded.
 
-This cymbal shift represented Hoglan's growing awareness of how production interacts with gear choice — a consciousness that would inform every subsequent studio decision in his career.
+This continuity at the cymbal level reflects a broader pattern in Hoglan's early career: once a setup worked, he saw no reason to disrupt it. The real Dark Angel-era gear evolution happened at the drum kit (Imperialstar to Rockstar); the cymbals stayed Zildjian through the band's entire studio run.
 
 ## Leave Scars: Where Speed Learned to Groove
 
 "Leave Scars" is the essential missing piece in the Gene Hoglan origin story. It is the album that proves Darkness Descends was not a speed peak — it was a foundation. In the three years between these recordings, Hoglan developed the groove integration that would make his death metal work with Chuck Schuldiner not just fast but musical, not just technical but compelling.
 
-The gear upgrade — Tama Rockstar over Imperialstar, Paiste 2002 over Sabian AA Series, the continuing Iron Cobra endorsement — tells the story of a young professional taking control of his sonic identity. Each choice reflects deliberation rather than accident: a drummer who understood, at 22, that precision of sound enabled precision of expression.
+The gear upgrade — Tama Rockstar over Imperialstar, the same Zildjian A Series cymbals carried forward, the continuing Iron Cobra endorsement — tells the story of a young professional taking control of his sonic identity. Each choice reflects deliberation rather than accident: a drummer who understood, at 22, that precision of sound enabled precision of expression.
 
 For drummers studying the Gene Hoglan arc through MetalForge's documentation: the chain runs from [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986) through this album and then [time-does-not-heal-drum-setup](https://metalforge.io/articles/time-does-not-heal-drum-setup) (1991) before the seismic shift to [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) (Death, 1993). The Atomic Clock was always ticking. On Leave Scars, it started to swing.
 
@@ -81,7 +81,7 @@ For drummers studying the Gene Hoglan arc through MetalForge's documentation: th
 - Recorded at Track Record Studios, North Hollywood with producer Bill Metoyer
 - Tama Rockstar kit — upgrade from the Imperialstar used on Darkness Descends
 - Ludwig Acrolite snare maintained from previous Dark Angel sessions
-- Cymbals shifted from Sabian AA Series to Paiste 2002
+- Zildjian A Series cymbals carried over unchanged from Darkness Descends
 - Tama Iron Cobra pedals — emerging endorsement era
 - Released November 1, 1989 on Combat Records
 - Tama Rockstar — upgraded from the Imperialstar used on Darkness Descends
@@ -100,7 +100,7 @@ A: Gene Hoglan recorded Dark Angel's Leave Scars (1989) using a Tama Rockstar ki
 
 **Q: What cymbals did Gene Hoglan use on Leave Scars?**
 
-A: Gene Hoglan switched from Sabian AA Series to Paiste 2002 cymbals for Dark Angel's Leave Scars (1989) — the most significant gear change from the Darkness Descends setup. The 2002 series setup included 14" Sound Edge Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" Novo China. The Paiste 2002's CuSn8 bronze alloy produces a drier, faster-decaying tone compared to Sabian's warmer B20 alloys — a sonic choice that aligned with the cleaner, more defined production approach Bill Metoyer applied to the 1989 sessions.
+A: Gene Hoglan kept the same Zildjian A Series cymbals on Dark Angel's Leave Scars (1989) that he had used on Darkness Descends — the gear change for this session happened at the drum kit level (Tama Imperialstar to Rockstar), not the cymbal level. The A Series setup included 14" New Beat Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" China High. Zildjian's traditional B20 bronze alloy delivered the same warm, complex character that had defined Darkness Descends, now captured with the cleaner, more defined production approach Bill Metoyer applied to the 1989 sessions.
 
 **Q: What did Gene Hoglan record between Darkness Descends and Individual Thought Patterns?**
 
@@ -125,4 +125,4 @@ A: Between Dark Angel's Darkness Descends (1986) and Death's Individual Thought 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

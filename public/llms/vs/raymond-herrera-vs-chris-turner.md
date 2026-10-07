@@ -34,7 +34,7 @@ Herrera's technique centers on machine-gun double bass patterns and heavy use of
 
 ## Key Differences
 
-Raymond Herrera played a Tama Starclassic kit (with triggering) with a trigger-equipped snare and Zildjian Z Custom cymbals, driven by a DW 5000 Series Double Pedal with ddrum/Roland triggers throughout the kit and Pro-Mark 5A Oak Nylon Tip sticks. Chris Turner endorses Tama Drums and Meinl Cymbals, playing a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x5.5" Vintage Hammered Steel snare and Meinl Byzance & Pure Alloy Series cymbals, driven by a Tama Speed Cobra 910 double pedal and Promark or Vic Firth 5B sticks. Herrera's technique centers on machine-gun double bass patterns and heavy use of drum triggers to achieve a processed, mechanical sound, combined with syncopated "stop-start" rhythmic patterns that became a Fear Factory signature. Turner's technique blends extreme-speed double bass with complex polyrhythms and jazz-influenced fills, seamlessly transitioning between blast beats and groove sections while maintaining the clarity that made his social media playthroughs go viral — both drummers pursue relentless double-kick precision, but Herrera engineers his through electronic triggering while Turner achieves his through pure acoustic technique.
+Raymond Herrera played a Tama Starclassic kit (with triggering) with a trigger-equipped snare and Zildjian Z Custom cymbals, driven by a DW 5000 Series Double Pedal with ddrum/Roland triggers throughout the kit and Pro-Mark 5A Oak Nylon Tip sticks. Chris Turner endorses Tama Drums and Meinl Cymbals, playing a Tama Starclassic Maple/Birch kit with a Tama S.L.P. 14"x5.5" G-Maple snare and Meinl Byzance Series (Extra Dry / Dual) cymbals, driven by a Tama Speed Cobra 910 double pedal and Promark or Vic Firth 5B sticks. Herrera's technique centers on machine-gun double bass patterns and heavy use of drum triggers to achieve a processed, mechanical sound, combined with syncopated "stop-start" rhythmic patterns that became a Fear Factory signature. Turner's technique blends extreme-speed double bass with complex polyrhythms and jazz-influenced fills, seamlessly transitioning between blast beats and groove sections while maintaining the clarity that made his social media playthroughs go viral — both drummers pursue relentless double-kick precision, but Herrera engineers his through electronic triggering while Turner achieves his through pure acoustic technique.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Yes — Raymond Herrera made heavy use of ddrum/Roland triggers throughout hi
 A: Raymond Herrera co-founded Fear Factory in 1990 and drummed for the band until 2009, also playing in Brujeria since 1989 and Arkaea from 2008 to 2011. Chris Turner co-founded Oceans Ate Alaska in Birmingham, UK, in 2010 and remains the band's drummer.
 
 **Q: What gear do Raymond Herrera and Chris Turner use?**
-A: Raymond Herrera played a Tama Starclassic kit (with triggering) with a triggered snare and Zildjian Z Custom cymbals, driven by a DW 5000 Series Double Pedal with extensive triggering. Chris Turner plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Vintage Hammered Steel snare and Meinl Byzance & Pure Alloy Series cymbals, driven by a Tama Speed Cobra 910 double pedal.
+A: Raymond Herrera played a Tama Starclassic kit (with triggering) with a triggered snare and Zildjian Z Custom cymbals, driven by a DW 5000 Series Double Pedal with extensive triggering. Chris Turner plays a Tama Starclassic Maple/Birch kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series (Extra Dry / Dual) cymbals, driven by a Tama Speed Cobra 910 double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Raymond Herrera played a Tama Starclassic kit (with triggering) with a trigge
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

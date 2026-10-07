@@ -40,4 +40,4 @@ A: Gene Hoglan, Mario Duplantier, Brann Dailor use the Tama Starclassic Walnut/B
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

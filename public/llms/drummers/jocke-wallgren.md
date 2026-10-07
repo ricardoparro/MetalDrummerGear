@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jocke-wallgren"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Jocke Wallgren — Drum Kit & Gear Setup
@@ -34,9 +34,9 @@ Zildjian A Custom and K Custom Series cymbals define the Jocke Wallgren drum kit
 
 ## Biography
 
-Jocke Wallgren (born April 1, 1986) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing Fredrik Andersson. His drumming brings a fresh energy to Amon Amarth's Viking-themed sound, combining powerful double bass patterns with groove-oriented playing.
+Jocke Wallgren (born June 10, 1985) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing Fredrik Andersson. His drumming brings a fresh energy to Amon Amarth's Viking-themed sound, combining powerful double bass patterns with groove-oriented playing.
 
-Jocke Wallgren (born April 1, 1986, in Karlstad, Sweden) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson. His powerful, groove-oriented drumming style has brought fresh energy to the band's Viking-themed sound while honoring their established musical identity.
+Jocke Wallgren (born June 10, 1985, in Chile, and raised in Stockholm, Sweden) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson. His powerful, groove-oriented drumming style has brought fresh energy to the band's Viking-themed sound while honoring their established musical identity.
 
 Before Amon Amarth, Wallgren was known for his work with Swedish bands including Valkyria. His transition to one of Sweden's most internationally successful metal bands marked a significant career milestone, and he has since become an integral part of Amon Amarth's live and studio work.
 
@@ -111,11 +111,11 @@ Jocke Wallgren's drumming style emphasizes power, groove, and consistency. His a
 
 **Q: What drum kit does Jocke Wallgren use?**
 
-A: Jocke Wallgren's drum kit is a Pearl Reference Pure kit, the versatile, hybrid-shell configuration that has powered Amon Amarth's Viking metal assault since he joined the band in 2016. It centers on a Pearl Reference 14"x6.5" brass snare and is topped with Zildjian A Custom and K Custom cymbals, driven by a Pearl Demon Drive double pedal.
+A: Jocke Wallgren's drum kit is a Pearl Reference Pure kit, the versatile, hybrid-shell configuration that has powered Amon Amarth's Viking metal assault since he joined the band in 2016; the specific snare model has not been independently verified. It is topped with Zildjian A Custom and K Custom cymbals, driven by a Pearl Demon Drive double pedal.
 
 **Q: What drum set does Jocke Wallgren use?**
 
-A: Jocke Wallgren's drum set is a Pearl Reference Pure configuration built around a bright, cutting Pearl Reference 14"x6.5" brass snare. The drum set carries Zildjian A Custom and K Custom Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks.
+A: Jocke Wallgren's drum set is a Pearl Reference Pure configuration; the specific snare model has not been independently verified. The drum set carries Zildjian A Custom and K Custom Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks.
 
 **Q: What cymbals does Jocke Wallgren use?**
 
@@ -123,7 +123,7 @@ A: Jocke Wallgren uses Zildjian A Custom and K Custom Series cymbals: 14" A Cust
 
 **Q: What snare drum does Jocke Wallgren play?**
 
-A: Jocke Wallgren plays a Pearl Reference 14"x6.5" brass snare, delivering the bright, cutting crack that projects through Amon Amarth's dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages.
+A: Jocke Wallgren plays a Pearl snare as part of his Pearl Reference Pure kit; the specific snare model has not been independently verified.
 
 **Q: What bass drum pedals does Jocke Wallgren use?**
 
@@ -222,4 +222,4 @@ Dated brand-endorsement timeline: [Jocke Wallgren's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

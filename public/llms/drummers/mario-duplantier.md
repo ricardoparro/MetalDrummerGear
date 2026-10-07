@@ -6,7 +6,7 @@ country: "France"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mario-duplantier"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Mario Duplantier — Drum Kit & Gear Setup
@@ -36,7 +36,7 @@ Zildjian cymbals form a sprawling array across the Mario Duplantier drum kit: 14
 
 Mario Duplantier, born in 1981 in Bayonne, France, is the drummer and co-founder of the critically acclaimed progressive death metal band Gojira, which he formed with his brother Joe Duplantier in 1996. Known for his powerful, precise, and incredibly intense drumming style, Mario combines crushing double bass patterns with complex rhythmic structures that complement Gojira's unique blend of death metal and progressive elements. His drumming on albums like "From Mars to Sirius," "The Way of All Flesh," and "Magma" has been praised for its technical excellence and raw energy. Beyond his drumming prowess, Mario is also a talented visual artist who has created artwork for Gojira's albums and merchandise. His approach to drumming emphasizes dynamics, groove, and an almost tribal quality that has helped define Gojira's distinctive sound.
 
-Mario Duplantier (born June 19, 1981, in Ondres, France) is a French drummer and visual artist, best known as the drummer and co-founder of progressive death metal band Gojira, which he formed with his brother Joe Duplantier (vocals/guitar) in 1996 (originally as Godzilla).
+Mario Duplantier (born June 19, 1981, in Bayonne, France, raised in nearby Ondres) is a French drummer and visual artist, best known as the drummer and co-founder of progressive death metal band Gojira, which he formed with his brother Joe Duplantier (vocals/guitar) in 1996 (originally as Godzilla).
 
 Mario's drumming combines crushing power with technical precision, featuring complex double bass patterns and an almost tribal quality that defines Gojira's unique sound. Beyond his drumming, he is a talented visual artist who creates artwork for Gojira's albums, merchandise, and stage productions.
 
@@ -153,6 +153,10 @@ A: Mario Duplantier plays a Tama S.L.P. 14"x6.5" G-Maple snare drum.
 
 A: Mario Duplantier drives his dual-bass-drum setup with a Tama Iron Cobra 900 Power Glide double pedal.
 
+**Q: Does Mario Duplantier use triggers?**
+
+A: Mario Duplantier uses a trigger on his kick drum. He's explained in interviews that triggering raises the stakes on precision — every kick hit becomes clearly audible, leaving no room for timing mistakes. No source documents him using a snare trigger.
+
 ## Trivia
 
 - Creates all artwork for Gojira's albums and merchandise
@@ -241,6 +245,7 @@ Dated brand-endorsement timeline: [Mario Duplantier's endorsement history](https
 - [Zildjian Artist Profile](https://zildjian.com)
 - [Gojira Official](https://gojira-music.com)
 - [Wikipedia: Mario Duplantier](https://en.wikipedia.org/wiki/Mario_Duplantier)
+- [MusicRadar: Gojira's Mario Duplantier reveals all about his astonishing technique](https://www.musicradar.com/news/gojiras-mario-duplantier-reveals-all-about-his-astonishing-technique)
 
 ---
 
@@ -248,4 +253,4 @@ Dated brand-endorsement timeline: [Mario Duplantier's endorsement history](https
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

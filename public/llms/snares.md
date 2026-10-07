@@ -2,7 +2,7 @@
 
 This page indexes every verified snare catalogued in MetalForge's snares database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-10-05 · Source: https://metalforge.io
+> Last Updated: 2026-10-07 · Source: https://metalforge.io
 
 For shell material, size, and tuning reference pages see the Reference Guides section below. For a buying guide anchored on the verified signature snares see [https://metalforge.io/snares/best-for-metal](https://metalforge.io/snares/best-for-metal).
 
@@ -109,7 +109,7 @@ A: 14x6.5" is the most common "workhorse" size across the verified metal roster,
 - Martin Axenrot — [DW Custom maple/gum shells 14x5.75"](https://metalforge.io/drummer/martin-axenrot)
 - Paul Bostaph — [Pearl Masters Steel 14x6.5"](https://metalforge.io/drummer/paul-bostaph)
 - Sean Reinert — [DW Collector's Series Maple Shell](https://metalforge.io/drummer/sean-reinert)
-- Nick Menza — [Tama Steel Snare 14x5.5"](https://metalforge.io/drummer/nick-menza)
+- Nick Menza — [Pearl Reference Custom 14x5.5"](https://metalforge.io/drummer/nick-menza)
 - Adrian Erlandsson — [Tama Starclassic Bubinga 14x6.5"](https://metalforge.io/drummer/adrian-erlandsson)
 - Jon Dette — [14x6.5" Metal or Maple Snare](https://metalforge.io/drummer/jon-dette)
 

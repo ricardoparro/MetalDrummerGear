@@ -34,7 +34,7 @@ Daniel Erlandsson has been the rhythmic backbone of Arch Enemy for decades, and 
 - Pearl Reference Pure Kit (drums)
 - Sabian AAX/HHX Cymbals (cymbals)
 - Pearl Eliminator Double Bass Pedal (hardware)
-- Vic Firth American Classic 5B (sticks)
+- ProMark 5B (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -64,7 +64,7 @@ Daniel Erlandsson has been the rhythmic backbone of Arch Enemy for decades, and 
 - Pearl Reference Pure Kit (drums)
 - Sabian AA/HH Cymbals (cymbals)
 - Pearl Eliminator Double Bass Pedal (hardware)
-- Vic Firth American Classic 5B (sticks)
+- ProMark 5B (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -94,7 +94,7 @@ Daniel Erlandsson has been the rhythmic backbone of Arch Enemy for decades, and 
 - Pearl Reference Pure Kit (drums)
 - Sabian AA/HH Cymbals (cymbals)
 - Pearl Eliminator Double Bass Pedal (hardware)
-- Vic Firth American Classic 5B (sticks)
+- ProMark 5B (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Blast Beat](https://metalforge.io/techniques/blast-beat)
 
@@ -111,4 +111,4 @@ Daniel Erlandsson's style is defined by precision, timing, and genre-defining gr
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

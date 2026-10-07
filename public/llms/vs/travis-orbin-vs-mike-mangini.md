@@ -18,10 +18,10 @@ Former Periphery drummer Travis Orbin vs Dream Theater's Mike Mangini. Djent-def
 
 ## Mike Mangini Setup
 
-- **Drums:** Pearl Reference Series
+- **Drums:** Pearl Reference Pure
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)
-- **Snare:** Pearl Reference 14x5" & 14x6.5" Brass
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad
+- **Snare:** Signature snare
+- **Pedals/Hardware:** Pearl Eliminator Redline Double Pedal, Roland SPD-SX Sampling Pad
 - **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP)
 
 ## Playing Style
@@ -67,4 +67,4 @@ A: Mike Mangini holds multiple Guinness World Records for drumming speed, a dist
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

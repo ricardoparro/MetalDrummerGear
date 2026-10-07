@@ -41,4 +41,4 @@ A: Generally tighter and more even across the strainer. A firmer wire tension gi
 - [Snares Guide](https://metalforge.io/llms/snares.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

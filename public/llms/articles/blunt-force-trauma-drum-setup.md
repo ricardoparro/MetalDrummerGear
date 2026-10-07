@@ -25,7 +25,7 @@ The Cavalera brothers' creative dynamic had deepened by 2011. Max's riff writing
 - **Drums:** ddrum ddrum Hybrid Kit (Dark stain finish)
 - **Snare:** Tama Tama Steel Snare, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Custom Series
-- **Hardware / Pedals:** Tama Speed Cobra HP910LSW; Tama Iron Cobra Hi-Hat Stand HH905N; Roc-N-Soc Nitro; Promark 2B Wood Tip
+- **Hardware / Pedals:** Tama Speed Cobra HP910LSW; Tama Iron Cobra Hi-Hat Stand HH905N; Roc-N-Soc Nitro; Vic Firth American Classic 5B
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension — consistent with Inflikted setup; tighter than Sepultura groove-era tuning
 
@@ -136,4 +136,4 @@ A: Max and Igor Cavalera formed Cavalera Conspiracy rather than returning to Sep
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

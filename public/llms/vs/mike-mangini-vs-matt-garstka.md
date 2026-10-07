@@ -10,10 +10,10 @@ Dream Theater's Mike Mangini vs Animals as Leaders' Matt Garstka — the two mos
 
 ## Mike Mangini Setup
 
-- **Drums:** Pearl Reference Series
+- **Drums:** Pearl Reference Pure
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)
-- **Snare:** Pearl Reference 14x5" & 14x6.5" Brass
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad
+- **Snare:** Signature snare
+- **Pedals/Hardware:** Pearl Eliminator Redline Double Pedal, Roland SPD-SX Sampling Pad
 - **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP)
 
 ## Matt Garstka Setup
@@ -34,7 +34,7 @@ Mangini specializes in speed records and complex metric modulation within a band
 
 ## Key Differences
 
-Mangini plays Pearl Masters MCX drums with Sabian HHX / AAX cymbals — a powerful, projection-focused setup suited to Dream Theater's arena-scale progressive metal. Garstka plays DW Collector's Series drums with Meinl Byzance cymbals and electronic pads, a combination that balances acoustic power with the electronic integration Animals as Leaders' modern sound requires. Mangini specializes in speed records and complex metric modulation within a band context, developing proprietary techniques for speed development that he teaches through his Speed and Dexterity instructional series. Garstka focuses on extended hand technique, ghost-note density, and creative integration of electronics and effects within Animals as Leaders' intricate compositional framework.
+Mangini plays Pearl Masterworks Maple drums with Sabian HHX / AAX cymbals — a powerful, projection-focused setup suited to Dream Theater's arena-scale progressive metal. Garstka plays DW Collector's Series drums with Meinl Byzance cymbals and electronic pads, a combination that balances acoustic power with the electronic integration Animals as Leaders' modern sound requires. Mangini specializes in speed records and complex metric modulation within a band context, developing proprietary techniques for speed development that he teaches through his Speed and Dexterity instructional series. Garstka focuses on extended hand technique, ghost-note density, and creative integration of electronics and effects within Animals as Leaders' intricate compositional framework.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Mike Mangini and Matt Garstka define two different expressions of modern progres
 A: Mangini specializes in speed records and complex metric modulation within a band context; Garstka focuses on extended technique and ghost-note density in a groove-centric framework.
 
 **Q: What drum kits do Mangini and Garstka use?**
-A: Mangini uses a Pearl Masters MCX kit with Sabian HHX / AAX cymbals; Garstka plays a DW Collector's Series kit with Meinl Byzance cymbals and electronic pads.
+A: Mangini uses a Pearl Masterworks Maple kit with Sabian HHX / AAX cymbals; Garstka plays a DW Collector's Series kit with Meinl Byzance cymbals and electronic pads.
 
 **Q: Who has won more speed drumming records?**
 A: Mike Mangini holds several Guinness World Records for drumming speed; Garstka's records are in the creative application of technique rather than raw speed.
@@ -64,4 +64,4 @@ A: Mike Mangini holds several Guinness World Records for drumming speed; Garstka
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

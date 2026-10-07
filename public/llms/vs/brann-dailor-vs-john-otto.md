@@ -34,7 +34,7 @@ Dailor's technique favors flowing, syncopated fills that weave in and out of Mas
 
 ## Key Differences
 
-Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals — Otto has never needed a double pedal, relying instead on jazz-honed foot control for Limp Bizkit's groove-driven single-kick patterns. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex, constantly moving patterns while simultaneously handling lead and co-lead vocal duties on many songs — a rare combination among metal drummers. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket, prioritizing restraint and feel over the constant motion that defines Dailor's playing.
+Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals — Otto has never needed a double pedal, relying instead on jazz-honed foot control for Limp Bizkit's groove-driven single-kick patterns. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex, constantly moving patterns while simultaneously handling lead and co-lead vocal duties on many songs — a rare combination among metal drummers. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket, prioritizing restraint and feel over the constant motion that defines Dailor's playing.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Brann Dailor and John Otto show just how differently compositional density and d
 A: Brann Dailor drives Mastodon's progressive sludge with flowing, constantly moving fills that treat the kit as a lead voice, while also handling co-lead vocal duties on many songs. John Otto anchors Limp Bizkit with disciplined, jazz-and-funk-informed grooves built around syncopated ghost notes and a tight single-pedal pocket, prioritizing restraint over Dailor's compositional density.
 
 **Q: What gear do Brann Dailor and John Otto use?**
-A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance cymbals, and a Tama Speed Cobra double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar G Class pedals.
+A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance cymbals, and a Tama Speed Cobra double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar Professional Series pedals.
 
 **Q: What bands are Brann Dailor and John Otto known for?**
 A: Brann Dailor co-founded Mastodon in 2000 and remains the band's drummer and co-vocalist. John Otto has been Limp Bizkit's drummer and founding member since 1994.
@@ -67,4 +67,4 @@ A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

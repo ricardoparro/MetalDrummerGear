@@ -25,7 +25,7 @@ Mixed by Josh Wilbur and mastered by Ted Jensen at Sterling Sound, the album car
 - **Drums:** Tama Tama Starclassic Maple Custom (Custom finish finish)
 - **Snare:** Tama Tama Signature Series Dirk Verbeuren Snare, 14" x 5.5"
 - **Cymbals:** Meinl — Meinl Byzance Brilliant Heavy Hammered / Classics Custom Dark
-- **Hardware / Pedals:** Tama Speed Cobra 910 (single pedals, x2); Tama Iron Cobra 900 Hi-Hat (x2); Tama Stage Master / Road Pro Series; Tama 1st Chair Ergo-Rider; Vater 5B / Power 5B
+- **Hardware / Pedals:** Tama Speed Cobra 910 (single pedals, x2); Tama Iron Cobra 900 Hi-Hat (x2); Tama Stage Master / Road Pro Series; Tama 1st Chair Ergo-Rider; Tama O-DVM2
 - **Heads:** Evans G2 Coated (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium-high tension for fast, focused attack
 
@@ -121,4 +121,4 @@ A: The album was produced by Dave Mustaine and longtime Megadeth collaborator Ch
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

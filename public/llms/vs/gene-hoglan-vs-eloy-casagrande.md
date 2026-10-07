@@ -34,7 +34,7 @@ Gene Hoglan is credited with pioneering the gravity blast — a technique that u
 
 ## Key Differences
 
-Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX Series cymbals and Pearl Demon Drive double pedals — a powerful, projection-focused setup built for extreme metal clarity. Eloy Casagrande plays Tama Starclassic Maple drums with Paiste cymbals and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound. Gene Hoglan is credited with pioneering the gravity blast — a technique that uses stick rebound momentum to achieve superhuman blast beat speeds without muscular fatigue. His double bass work at extreme tempos remains a benchmark for death metal. Eloy Casagrande combines Brazilian rhythmic roots with thrash metal power — his double bass is defined by locked-in groove rather than sheer speed, and his ability to adapt to Slipknot's percussive, multi-drummer catalog demonstrates extraordinary musical versatility and technical range.
+Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX Series cymbals and Pearl Demon Drive double pedals — a powerful, projection-focused setup built for extreme metal clarity. Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound. Gene Hoglan is credited with pioneering the gravity blast — a technique that uses stick rebound momentum to achieve superhuman blast beat speeds without muscular fatigue. His double bass work at extreme tempos remains a benchmark for death metal. Eloy Casagrande combines Brazilian rhythmic roots with thrash metal power — his double bass is defined by locked-in groove rather than sheer speed, and his ability to adapt to Slipknot's percussive, multi-drummer catalog demonstrates extraordinary musical versatility and technical range.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Gene Hoglan and Eloy Casagrande represent 40 years of thrash and death metal dru
 A: Gene Hoglan earned "The Atomic Clock" nickname for metronomic precision at extreme metal speeds — he pioneered the gravity blast and set death metal drumming benchmarks across Dark Angel, Death, and Testament. Eloy Casagrande is the elite next-generation drummer now playing Slipknot's demanding catalog. Both are technically exceptional by different generational standards.
 
 **Q: What gear does Gene Hoglan use vs Eloy Casagrande?**
-A: Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX cymbals and Pearl Demon Drive double pedals. Eloy Casagrande plays Tama Starclassic Maple drums with Paiste cymbals and Tama Iron Cobra double pedals.
+A: Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX cymbals and Pearl Demon Drive double pedals. Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals and Tama Iron Cobra double pedals.
 
 **Q: What is Gene Hoglan's legacy in metal drumming?**
 A: Gene Hoglan is credited with pioneering the gravity blast technique and played on landmark records with Dark Angel, Death, Testament, Strapping Young Lad, and Dethklok. His metronomic precision earned him "The Atomic Clock" nickname and shaped the technical vocabulary of death and thrash metal drumming for decades.
@@ -67,4 +67,4 @@ A: Eloy Casagrande joined Slipknot in 2024 after departing Sepultura. His combin
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

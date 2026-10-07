@@ -16,13 +16,13 @@ Arin Ilejay endorses DW for drums. They play the DW Collector's Series. This par
 
 Arin Ilejay endorses Zildjian for cymbals. They play the Zildjian A Custom Series. This partnership began in 2011.
 
-### Drumsticks: Vic Firth
+### Drumsticks: Promark
 
-Arin Ilejay endorses Vic Firth for drumsticks. They play the Vic Firth 5B. This partnership began in 2011.
+Arin Ilejay endorses Promark for drumsticks. They play the Promark 5B. This partnership began in 2011.
 
 ### Drumheads: Remo
 
-Arin Ilejay endorses Remo for drumheads. They play the Remo Ambassador Coated / Powerstroke 3. This partnership began in 2011.
+Arin Ilejay endorses Remo for drumheads. They play the Remo Ambassador Coated. This partnership began in 2011.
 
 ### Hardware / Pedals: DW
 
@@ -39,7 +39,7 @@ Arin Ilejay endorses DW for hardware / pedals. They play the DW 9000 Series Doub
 ## FAQ
 
 **Q: What brands does Arin Ilejay endorse?**
-A: Arin Ilejay endorses DW, Zildjian, Vic Firth, Remo. Their primary drum endorsement is DW and they play Zildjian cymbals.
+A: Arin Ilejay endorses DW, Zildjian, Promark, Remo. Their primary drum endorsement is DW and they play Zildjian cymbals.
 
 **Q: Does Arin Ilejay have a signature drum or cymbal?**
 A: Arin Ilejay is a key DW endorser but does not have a dedicated signature kit model in the current lineup.
@@ -57,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Arin Ilejay'
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

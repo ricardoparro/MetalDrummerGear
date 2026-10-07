@@ -46,4 +46,4 @@ Album producer Neil Kernon has stated the track clocks in at 271 BPM; George Kol
 
 **More resources:** [Metal Songs Database](https://metalforge.io/songs) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Known for Live Improvisation — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/drummers-known-for-live-improvisation)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/drummers-known-for-live-improvisation)
 
 ---
 
@@ -172,4 +172,4 @@ A: Often, yes. Danny Carey's Volto! and Mike Portnoy's Liquid Tension Experiment
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

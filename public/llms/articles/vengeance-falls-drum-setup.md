@@ -61,11 +61,10 @@ What changed was the mission David Draiman set for the record:
 - **Sabian AAX Series**: The same cymbal package translated naturally into the album's more groove-driven, mid-tempo material
 - **Pearl Demon Drive**: Unmodified from In Waves, its direct-drive response suited to the album's sustained pocket-driven double-bass work over raw top-end speed
 
-Augusto left Trivium in May 2014, closing out a chapter that ran from the technical peak of Shogun's aftermath through two increasingly commercially successful, stylistically distinct records. Vengeance Falls remains the clearest evidence that a drummer's gear is only half the story — the other half is who's shaping it in the room.
+Augusto left Trivium in May 2014, closing out a two-album chapter that began with his 2010 arrival and ran through two increasingly commercially successful, stylistically distinct records. Vengeance Falls remains the clearest evidence that a drummer's gear is only half the story — the other half is who's shaping it in the room.
 
 For deeper exploration:
 - **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)
-- **The technical peak**: [Shogun drum setup at MetalForge](/articles/shogun-drum-setup)
 - **The In Waves breakdown**: [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup)
 - **What came next for Trivium**: [The Sin and the Sentence drum setup at MetalForge](/articles/trivium-sin-and-the-sentence-drum-setup)
 - **Double-bass technique**: [Double-bass drumming for metal at MetalForge](/articles/double-bass-drumming-for-metal)
@@ -101,7 +100,7 @@ A: Nick Augusto's full Vengeance Falls-era setup — the Pearl Reference Pure ki
 
 **Q: Is Vengeance Falls heavier or more technical than Shogun?**
 
-A: Neither — the two albums pursue different goals. Shogun (2008) is Trivium's most technically demanding record, built around extended, multi-part compositions like the 11:39 title track. Vengeance Falls (2013) is deliberately more direct: every track on the standard edition runs under six minutes, and Nick Augusto's playing prioritizes locked-in groove and pocket over technical display. It's a heavier, more song-focused record rather than a more technical one. See the [Shogun drum setup article](/articles/shogun-drum-setup) for the technical high-water mark of Augusto's Trivium tenure.
+A: Neither is a direct comparison — Shogun (2008) predates Nick Augusto's time in Trivium; it was recorded by his predecessor, Travis Smith. Vengeance Falls (2013) is deliberately direct: every track on the standard edition runs under six minutes, and Augusto's playing prioritizes locked-in groove and pocket over technical display. For Augusto's most technically demanding record with the band, see the [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup).
 
 **Q: Where did Vengeance Falls chart, and what were the singles?**
 
@@ -111,7 +110,6 @@ A: Vengeance Falls debuted at #15 on the US Billboard 200 and reached #23 on the
 
 - [How to Play Double Bass Drums for Metal](https://metalforge.io/articles/double-bass-drumming-for-metal)
 - [How to Play Metal Breakdown Beats](https://metalforge.io/articles/breakdown-beat-guide)
-- [Shogun Drum Setup: Nick Augusto's Progressive Thrash Masterpiece (Trivium, 2008)](https://metalforge.io/articles/shogun-drum-setup)
 - [In Waves Drum Setup: Nick Augusto's Breakthrough Kit (Trivium, 2011)](https://metalforge.io/articles/in-waves-drum-setup)
 - [The Sin and the Sentence Drum Setup: Alex Bent's Trivium Debut (2017)](https://metalforge.io/articles/trivium-sin-and-the-sentence-drum-setup)
 
@@ -123,4 +121,4 @@ A: Vengeance Falls debuted at #15 on the US Billboard 200 and reached #23 on the
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

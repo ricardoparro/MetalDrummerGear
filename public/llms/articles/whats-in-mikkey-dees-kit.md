@@ -32,19 +32,19 @@ This article breaks down the gear that's powered decades of thunderous rock drum
 
 ### Sonor Power: The Foundation of Thunder
 
-Mikkey Dee's Sonor drums are built for one purpose: delivering crushing power night after night on world tours. His choice of Sonor reflects his priorities — durability, consistency, and massive low-end punch — and dates back to an endorsement he picked up during his King Diamond days in the late 1980s, well before Motörhead.
+Mikkey Dee's Sonor drums are built for one purpose: delivering crushing power night after night on world tours. His choice of Sonor reflects his priorities — durability, consistency, and massive low-end punch — and goes back to the mid-2000s, when he switched from Tama to Sonor partway through his Motörhead tenure.
 
 **The Bass Drum Philosophy:**
 Mikkey's configuration emphasizes floor toms over rack toms — two floor toms (14" and 16") against just two or three smaller rack toms — reflecting a fill vocabulary built around low-frequency weight. A 22" bass drum (dual kick when double bass runs demand it) delivers the chest-thumping low end that defined Motörhead's live sound.
 
 **Sonor SQ2 Custom-Build:**
-The Sonor SQ2 series (birch shells) has been Mikkey's kit of choice since the King Diamond era, prized for its punchy, focused attack and rock-solid hardware. The custom-build program let him dial in exactly the shell depths and hardware configuration his touring schedule demanded — essential for a drummer who has barely stopped touring since 1988.
+The Sonor SQ2 series (birch shells) has been Mikkey's kit of choice since he switched from Tama in the mid-2000s, prized for its punchy, focused attack and rock-solid hardware. The custom-build program let him dial in exactly the shell depths and hardware configuration his touring schedule demanded — essential for a drummer who has barely stopped touring since 1988.
 
 **The Motörhead Setup:**
 With Motörhead, Mikkey typically used a configuration built around a 22" kick, multiple rack toms, and dual floor toms. This setup provided the tonal range to deliver both delicate passages (yes, Motörhead had them) and the devastating power the band was known for.
 
 **The Scorpions Configuration:**
-With Scorpions, Mikkey has adapted his setup slightly for the band's more melodic rock approach, but the foundation remains the same Sonor SQ2 platform that's defined his sound for nearly four decades. The Scorpions' arena rock requires projection, and Sonor delivers.
+With Scorpions, Mikkey has adapted his setup slightly for the band's more melodic rock approach, but the foundation remains the same Sonor SQ2 platform that's defined his sound since the mid-2000s. The Scorpions' arena rock requires projection, and Sonor delivers.
 
 **Shell Selection:**
 Mikkey prefers Sonor's birch shells for maximum volume and projection. His drums are built to cut through walls of Marshall amplifiers — a necessity when playing next to Lemmy's legendary stage volume or Scorpions' wall-of-sound production.
@@ -60,7 +60,7 @@ While many rock drummers favor shallower snares for a quicker attack, Mikkey's s
 This snare has been Mikkey's go-to since its 2012 release. The birch shell produces a full, articulate sound with excellent sensitivity for ghost notes while delivering devastating rimshots. Sonor's hardware is robust enough for his aggressive playing.
 
 **Before the Signature Model:**
-Earlier in his career — through the King Diamond years and into Motörhead — Mikkey played a shallower birch Sonor snare. The 2012 signature model deepened the shell to add more low-mid weight without sacrificing the crack.
+From his mid-2000s switch to Sonor through 2012, Mikkey played a 14"x6.5" steel-shell Sonor SQ2 snare. The 2012 signature model moved to a deeper birch shell, adding more low-mid weight without sacrificing the crack.
 
 **Tuning Philosophy:**
 Mikkey tunes his snare on the higher side of medium — tight enough for a clear crack on every stroke but not so high that it loses body. This tuning survives aggressive playing while maintaining musicality. With Lemmy's bass often occupying the low-mid frequencies, Mikkey's snare needed to live in its own sonic space.
@@ -128,10 +128,10 @@ Born to play. Born to raise hell. Born to drive the locomotive.
 - Joined Scorpions in 2016 — still touring at 62
 - Previous work with King Diamond showcased technical range
 - 22" bass drum (dual kick for double bass runs) delivers chest-thumping power
-- Sonor SQ2 birch shells since his King Diamond days
+- Sonor SQ2 birch shells since switching from Tama in the mid-2000s
 - Floor-tom-forward voicing for low-frequency fill weight
 - Thicker shells for projection through loud stage volumes
-- Same Sonor endorsement carried from King Diamond through Motörhead into Scorpions
+- Same Sonor endorsement carried from his mid-2000s Motörhead switch into Scorpions
 - Estimated kit value: $4,000-7,000 (professional Sonor SQ2 kits)
 - Estimated snare value: $500-800 (professional deep-shell birch snares)
 
@@ -139,7 +139,7 @@ Born to play. Born to raise hell. Born to drive the locomotive.
 
 **Q: What drum kit does Mikkey Dee use with Motörhead and Scorpions?**
 
-A: Mikkey Dee plays a Sonor SQ2 custom-build kit — an endorsement dating back to his King Diamond days in the late 1980s. His setup features a 22 inch bass drum (dual kick for double bass runs), rack toms, and floor toms in 14 and 16 inch sizes. The SQ2's birch shells deliver a tight, punchy sound with the low-end depth central to his powerful, driving style suited to hard rock and heavy metal.
+A: Mikkey Dee plays a Sonor SQ2 custom-build kit, a setup he's used since switching from Tama partway through his Motörhead tenure in the mid-2000s. His setup features a 22 inch bass drum (dual kick for double bass runs), rack toms, and floor toms in 14 and 16 inch sizes. The SQ2's birch shells deliver a tight, punchy sound with the low-end depth central to his powerful, driving style suited to hard rock and heavy metal.
 
 **Q: What cymbals does Mikkey Dee use with Motörhead and Scorpions?**
 
@@ -165,4 +165,4 @@ A: A Sonor SQ2 custom-build shell pack in Mikkey Dee's configuration currently r
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

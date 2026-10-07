@@ -1,6 +1,6 @@
 # Top 10 Fastest Blast Beat Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-blast-beat-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-blast-beat-drummers)
 
 ---
 
@@ -42,9 +42,9 @@ Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drumm
 
 **Band:** Cryptopsy
 **Highlight:** Technical variations that redefined blast-beat precision
-**Why ranked here:** Flo Mounier is widely regarded as one of the fastest and most technically proficient drummers in extreme metal, his innovative blast beat techniques and gravity blasts showcased on Cryptopsy's "None So Vile" (1996) and "Whisper Supremacy" (1998) — two albums MetalForge's data cites as demonstrating his legendary speed and precision. His Pearl Masters Maple kit is tuned specifically for the sharp, penetrating crack that cuts through his most extreme blast passages. Mounier earns rank #3 for technical death metal's most influential blast-beat innovator.
+**Why ranked here:** Flo Mounier is widely regarded as one of the fastest and most technically proficient drummers in extreme metal, his innovative blast beat techniques and gravity blasts showcased on Cryptopsy's "None So Vile" (1996) and "Whisper Supremacy" (1998) — two albums MetalForge's data cites as demonstrating his legendary speed and precision. His Pearl MX Series kit is tuned specifically for the sharp, penetrating crack that cuts through his most extreme blast passages. Mounier earns rank #3 for technical death metal's most influential blast-beat innovator.
 
-Flo Mounier (Cryptopsy) earns rank #3 for: technical variations that redefined blast-beat precision. Flo Mounier is widely regarded as one of the fastest and most technically proficient drummers in extreme metal, his innovative blast beat techniques and gravity blasts showcased on Cryptopsy's "None So Vile" (1996) and "Whisper Supremacy" (1998) — two albums MetalForge's data cites as demonstrating his legendary speed and precision. His Pearl Masters Maple kit is tuned specifically for the sharp, penetrating crack that cuts through his most extreme blast passages. Mounier earns rank #3 for technical death metal's most influential blast-beat innovator..
+Flo Mounier (Cryptopsy) earns rank #3 for: technical variations that redefined blast-beat precision. Flo Mounier is widely regarded as one of the fastest and most technically proficient drummers in extreme metal, his innovative blast beat techniques and gravity blasts showcased on Cryptopsy's "None So Vile" (1996) and "Whisper Supremacy" (1998) — two albums MetalForge's data cites as demonstrating his legendary speed and precision. His Pearl MX Series kit is tuned specifically for the sharp, penetrating crack that cuts through his most extreme blast passages. Mounier earns rank #3 for technical death metal's most influential blast-beat innovator..
 
 Full drummer profile: [Flo Mounier on MetalForge](https://metalforge.io/drummer/flo-mounier)
 
@@ -152,4 +152,4 @@ A: Death metal (Pete Sandoval, George Kollias, Flo Mounier, Gene Hoglan, Kevin T
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

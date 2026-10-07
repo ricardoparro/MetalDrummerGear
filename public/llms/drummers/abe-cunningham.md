@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/abe-cunningham"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Abe Cunningham — Drum Kit & Gear Setup
@@ -28,7 +28,7 @@ Abe Cunningham's drum kit and gear setup. Abe Cunningham is a professional metal
 
 ## Kit Overview
 
-Abe Cunningham plays a Tama Starclassic Bubinga drum kit in the Egyptian Night Mist finish, with Zildjian K Custom and A Custom cymbals — the setup that has anchored the Deftones' atmospheric alt-metal sound across the Koi No Yokan, Gore, and Ohms era. The snare matches the Starclassic Bubinga shell pack; Tama does not publicly document a separate snare model for his current rig. A Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) and Iron Cobra Lever Glide Hi-Hat (HH905) anchor the drum set.
+Abe Cunningham plays a Tama Starclassic Bubinga drum kit in the Egyptian Night Mist finish, with Zildjian K Custom and A Custom cymbals — the hybrid setup he has used since returning to Zildjian in 2022 following the Ohms touring cycle. The snare matches the Starclassic Bubinga shell pack; Tama does not publicly document a separate snare model for his current rig. A Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) and Iron Cobra Lever Glide Hi-Hat (HH905) anchor the drum set.
 
 Zildjian cymbals define the Abe Cunningham drum kit's sonic character: 14" K Custom Hi-Hats for a dark, nuanced chick suited to Deftones' atmospheric passages; 18" and 20" K Custom Crashes for the dynamic, full-bodied accents that shift between crushing and delicate; a 22" K Custom Ride for dark, controlled rhythmic definition; and a 19" A Custom China for aggressive punctuation on the most intense sections. Pro-Mark sticks and Remo drumheads complete the rig. For the full gear breakdown, see the [White Pony drum setup](/articles/white-pony-drum-setup).
 
@@ -210,7 +210,7 @@ Full breakdown: [Abe Cunningham's cymbal setup](https://metalforge.io/cymbals/se
 
 ## Pedal
 
-Abe Cunningham plays a DW 9000 Series double pedal (chain-drive).
+Abe Cunningham plays a Tama Iron Cobra 900 Rolling Glide double pedal (chain-drive).
 
 Full breakdown: [Abe Cunningham's pedal setup](https://metalforge.io/pedals/setups/abe-cunningham).
 
@@ -244,4 +244,4 @@ Dated brand-endorsement timeline: [Abe Cunningham's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

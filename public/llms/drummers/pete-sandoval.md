@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/pete-sandoval"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Pete Sandoval — Drum Kit & Gear Setup
@@ -33,7 +33,7 @@ Pete Sandoval has been a ddrum artist for much of his career, though the specifi
 
 ## Biography
 
-Pedro "Pete" Sandoval, born in 1960 in El Salvador, is a legendary death metal drummer best known for his work with Morbid Angel and Terrorizer. He is credited with pioneering and perfecting the gravity blast technique, which revolutionized extreme metal drumming. His work on classic Morbid Angel albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" set the standard for death metal drumming. Sandoval's combination of speed, precision, and endurance influenced countless drummers in the extreme metal genre.
+Pedro "Pete" Sandoval, born May 21, 1964, in Santa Ana, El Salvador, is a legendary death metal drummer best known for his work with Morbid Angel and Terrorizer. He is credited with pioneering and perfecting the gravity blast technique, which revolutionized extreme metal drumming. His work on classic Morbid Angel albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" set the standard for death metal drumming. Sandoval's combination of speed, precision, and endurance influenced countless drummers in the extreme metal genre.
 
 Pedro Rigoberto "Pete" Sandoval (born May 21, 1964, in Santa Ana, El Salvador) is a Salvadoran-American drummer widely regarded as one of the most influential figures in extreme metal. Known by his nicknames "Commando" and "Pete the Feet," Sandoval's work with Morbid Angel and Terrorizer helped define the sound of death metal and grindcore drumming.
 
@@ -202,4 +202,4 @@ Dated brand-endorsement timeline: [Pete Sandoval's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -24,9 +24,9 @@ Richard Christy endorses Vic Firth for drumsticks. They play the Vic Firth Ameri
 
 Richard Christy endorses Remo / Evans for drumheads. They play the Remo / Evans Emperor / Pinstripe / G2. This partnership began in 1998.
 
-### Hardware / Pedals: Pearl
+### Hardware / Pedals: Axis
 
-Richard Christy endorses Pearl for hardware / pedals. They play the Pearl PowerShifter Eliminator. This partnership began in 1998.
+Richard Christy endorses Axis for hardware / pedals. They play the Axis A Longboard Double Pedal. This partnership began in 1998.
 
 ## Endorsement History
 
@@ -36,7 +36,7 @@ Richard Christy endorses Pearl for hardware / pedals. They play the Pearl PowerS
 ## FAQ
 
 **Q: What brands does Richard Christy endorse?**
-A: Richard Christy endorses Pearl, Sabian, Vic Firth, Remo / Evans. Their primary drum endorsement is Pearl and they play Sabian cymbals.
+A: Richard Christy endorses Pearl, Sabian, Vic Firth, Remo / Evans, Axis. Their primary drum endorsement is Pearl and they play Sabian cymbals.
 
 **Q: Does Richard Christy have a signature drum or cymbal?**
 A: Richard Christy is a key Pearl endorser but does not have a dedicated signature kit model in the current lineup.
@@ -54,4 +54,4 @@ A: See the Endorsement History section above for a full timeline of Richard Chri
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

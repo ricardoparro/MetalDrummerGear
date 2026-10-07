@@ -6,18 +6,18 @@
 
 ## Direct Answer
 
-Mikkey Dee plays a Yamaha FP9 double pedal.
+Mikkey Dee plays a DW 5000 Series double pedal.
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
-| Brand | Yamaha |
-| Model | FP9 |
+| Brand | DW |
+| Model | 5000 Series |
 | Configuration | double |
 | Drive Type | — |
 
-Verified roster hardware entry: "Yamaha FP9 Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "DW 5000 Series Double Pedal, Sonor Hardware." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -26,7 +26,7 @@ Verified roster hardware entry: "Yamaha FP9 Double Pedal." Source: roster gear.h
 ## FAQ
 
 **Q: What pedals does Mikkey Dee use?**
-A: Mikkey Dee plays a Yamaha FP9 double pedal.
+A: Mikkey Dee plays a DW 5000 Series double pedal.
 
 ## More Resources
 
@@ -37,4 +37,4 @@ A: Mikkey Dee plays a Yamaha FP9 double pedal.
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

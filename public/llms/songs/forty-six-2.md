@@ -17,7 +17,7 @@ The climax of Forty Six & 2 is one of the most celebrated drum moments in progre
 
 ## Album
 
-Full drum-setup breakdown: [Ænima Drum Setup: Danny Carey's 1996 Pearl Masters Kit Breakdown](https://metalforge.io/articles/aenima-drum-setup)
+Full drum-setup breakdown: [Ænima Drum Setup: Danny Carey's 1996 Tool Kit Breakdown](https://metalforge.io/articles/aenima-drum-setup)
 
 ## Video
 
@@ -50,4 +50,4 @@ tab/lesson tempo consensus (Ultimate Guitar, Songsterr, drum-cover community) cr
 
 **More resources:** [Metal Songs Database](https://metalforge.io/songs) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

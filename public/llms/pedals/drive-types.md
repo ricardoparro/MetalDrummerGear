@@ -18,7 +18,7 @@ Direct drive pedals were actually the original bass drum pedal design, and they 
 
 ## Why extreme metal gravitates to direct drive
 
-Direct drive's biggest advantage — instant, zero-lag transfer from foot to beater — matters most exactly where extreme metal lives: sustained, maximum-speed single-stroke and blast-beat patterns where even microscopic response lag compounds over hundreds of strokes per minute. That's why Axis, a brand built entirely around direct drive, and the Pearl Demon Drive (used across the verified roster by drummers including George Kollias, Gene Hoglan, and several black and death metal specialists) are the go-to choice for drummers chasing raw, sustained top-end speed, while chain drive remains the comfortable, versatile default for every other style of metal.
+Direct drive's biggest advantage — instant, zero-lag transfer from foot to beater — matters most exactly where extreme metal lives: sustained, maximum-speed single-stroke and blast-beat patterns where even microscopic response lag compounds over hundreds of strokes per minute. That's why Axis, a brand built entirely around direct drive, and Pearl's direct-drive Demon line (Gene Hoglan's Demon Drive, George Kollias's co-designed signature Demon XR, and several black and death metal specialists on both) are the go-to choice for drummers chasing raw, sustained top-end speed, while chain drive remains the comfortable, versatile default for every other style of metal.
 
 ## Reference Table
 
@@ -52,4 +52,4 @@ A: Belt drive is generally lighter and more responsive underfoot than chain driv
 - [Pedals Guide](https://metalforge.io/llms/pedals.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -112,7 +112,7 @@ A: Falling into Infinity was recorded under direct pressure from Elektra Records
 
 **Q: What pedals did Mike Portnoy use on Falling into Infinity?**
 
-A: Mike Portnoy used Tama Iron Cobra double pedals on Falling into Infinity — the rolling-glide cam model that he favored through the mid-to-late 1990s. The Iron Cobra's smooth, long-throw action was well-suited to the album's varied material: restrained enough for melodic tracks like "Hollow Years" and powerful enough for the double-bass runs on "Trial of Tears" and "Lines in the Sand." He later switched to DW 5000 pedals for the Metropolis Pt. 2 sessions in 1999.
+A: Mike Portnoy used Tama Iron Cobra double pedals on Falling into Infinity — the rolling-glide cam model that he favored through the mid-to-late 1990s. The Iron Cobra's smooth, long-throw action was well-suited to the album's varied material: restrained enough for melodic tracks like "Hollow Years" and powerful enough for the double-bass runs on "Trial of Tears" and "Lines in the Sand."
 
 ## Related Articles
 
@@ -130,4 +130,4 @@ A: Mike Portnoy used Tama Iron Cobra double pedals on Falling into Infinity — 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

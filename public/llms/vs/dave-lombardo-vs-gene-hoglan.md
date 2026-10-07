@@ -10,9 +10,9 @@ Slayer's Dave Lombardo vs Gene "The Atomic Clock" Hoglan. Two titans of extreme 
 
 ## Dave Lombardo Setup
 
-- **Drums:** Tama Starclassic Maple
+- **Drums:** Tama Starclassic Walnut/Birch
 - **Cymbals:** Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)
-- **Snare:** Tama S.L.P. 14x6.5" G-Maple
+- **Snare:** Tama S.L.P. 14x6.5"
 - **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne
 - **Sticks:** Promark Dave Lombardo Signature 2Bx
 
@@ -47,10 +47,10 @@ Two drummers who defined extreme metal drumming. Dave Lombardo is thrash metal r
 ## FAQ
 
 **Q: What are the main differences between Dave Lombardo's and Gene Hoglan's drum kits?**
-A: Dave Lombardo plays Tama Starclassic Maple with Paiste cymbals, while Gene Hoglan uses Pearl Reference Pure with Sabian cymbals. Dave plays Tama Starclassic drums with Paiste RUDE cymbals for aggressive cut. Gene endorses Pearl for power and projection with signature sticks.
+A: Dave Lombardo plays Tama Starclassic Walnut/Birch with Paiste cymbals, while Gene Hoglan uses Pearl Reference Pure with Sabian cymbals. Dave plays Tama Starclassic drums with Paiste RUDE cymbals for aggressive cut. Gene endorses Pearl for power and projection with signature sticks.
 
 **Q: What drums does Dave Lombardo play vs Gene Hoglan?**
-A: Dave Lombardo plays Tama Starclassic Maple. Gene Hoglan plays Pearl Reference Pure.
+A: Dave Lombardo plays Tama Starclassic Walnut/Birch. Gene Hoglan plays Pearl Reference Pure.
 
 **Q: Who is the better extreme / death / black metal drummer, Dave Lombardo or Gene Hoglan?**
 A: Both are legends in their own right. Two drummers who defined extreme metal drumming. See the full analysis at [metalforge.io/vs/dave-lombardo-vs-gene-hoglan](https://metalforge.io/vs/dave-lombardo-vs-gene-hoglan).
@@ -67,4 +67,4 @@ A: Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 1
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -18,10 +18,10 @@ Gojira's Mario Duplantier vs Cryptopsy's Flo Mounier — tribal, polyrhythmic pr
 
 ## Flo Mounier Setup
 
-- **Drums:** Pearl Masters Maple Complete
+- **Drums:** Tama Starclassic Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Pearl Masters 14x5.5" Maple
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-3000 Throne
+- **Snare:** Signature snare
+- **Pedals/Hardware:** Tama Speed Cobra 910 Twin Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
 ## Playing Style
@@ -34,7 +34,7 @@ Duplantier blends raw power with polyrhythmic complexity and an unmistakable tri
 
 ## Key Differences
 
-Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal and Tama Mario Duplantier Signature sticks. Flo Mounier plays a Pearl Reference Series kit with a Pearl Reference 14x5" Steel snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China), driven by a Pearl Demon Drive double pedal and Vater Power 5B sticks. Duplantier blends raw power with polyrhythmic complexity and an unmistakable tribal, ceremonial quality, treating blast beats as compositional tools that build tension rather than a default setting for intensity, locking into Gojira's tuned, resonant guitar tones with explosive fills and odd-meter grooves. Mounier is widely credited as one of the drummers most responsible for popularizing the gravity blast — a technique where a single hand bounces off the snare drum and rim in a see-saw motion to produce two strokes from one arm movement — which he introduced on "None So Vile" in 1996.
+Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal and Tama Mario Duplantier Signature sticks. Flo Mounier plays a Tama Starclassic Maple kit with a Tama Starclassic Maple 14x5.5" snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China), driven by a Tama Speed Cobra 910 double pedal and Vic Firth 5A American Classic sticks. Duplantier blends raw power with polyrhythmic complexity and an unmistakable tribal, ceremonial quality, treating blast beats as compositional tools that build tension rather than a default setting for intensity, locking into Gojira's tuned, resonant guitar tones with explosive fills and odd-meter grooves. Mounier is widely credited as one of the drummers most responsible for popularizing the gravity blast — a technique where a single hand bounces off the snare drum and rim in a see-saw motion to produce two strokes from one arm movement — which he introduced on "None So Vile" in 1996.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Mario Duplantier and Flo Mounier represent progressive death metal's two poles f
 A: Mario Duplantier co-founded Gojira in 1996 and drives the band's tribal, polyrhythmic progressive death metal groove. Flo Mounier has drummed for Cryptopsy since 1992 and is widely credited as a pioneer of the gravity blast technique.
 
 **Q: What gear do Mario Duplantier and Flo Mounier use?**
-A: Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal. Flo Mounier plays a Pearl Reference Series kit with a Pearl Reference 14x5" Steel snare and Sabian AAX Series cymbals, driven by a Pearl Demon Drive double pedal.
+A: Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal. Flo Mounier plays a Tama Starclassic Maple kit with a Tama Starclassic Maple 14x5.5" snare and Sabian AAX Series cymbals, driven by a Tama Speed Cobra 910 double pedal.
 
 **Q: What bands are Mario Duplantier and Flo Mounier known for?**
 A: Mario Duplantier co-founded Gojira with his brother Joe Duplantier in 1996 and remains the band's drummer. Flo Mounier has been the only constant member of Cryptopsy since joining in 1992.
@@ -67,4 +67,4 @@ A: Flo Mounier is widely credited as one of the drummers most responsible for po
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

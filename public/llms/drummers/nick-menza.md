@@ -3,10 +3,10 @@ name: "Nick Menza"
 band: "Megadeth"
 genre: "Thrash Metal"
 country: "USA"
-primary_brand: "Tama"
+primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/nick-menza"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Nick Menza — Drum Kit & Gear Setup
@@ -21,18 +21,18 @@ Nick Menza's drum kit and gear setup. Nick Menza is a professional metal drummer
 | Band | Megadeth |
 | Genre | Thrash Metal |
 | Country | USA |
-| Primary brand | Tama |
-| Drum kit | Tama Swingstar |
-| Signature snare | Tama Steel Snare 14x5.5" |
-| Sticks | Vic Firth American Classic 5B |
+| Primary brand | Pearl |
+| Drum kit | Pearl Reference Custom |
+| Signature snare | Pearl Reference Custom 14x5.5" |
+| Sticks | Vater Nick Menza Signature |
 
 ## Kit Overview
 
-Nick Menza's Rust in Peace-era setup was built around a Tama Swingstar — a mid-range, poplar-shell kit that proved raw speed and precision mattered more than gear prestige on Megadeth's 1990 thrash masterpiece. The Nick Menza drum set centered on a 14x5.5" Tama steel snare for extra brightness and crack against Megadeth's dense guitar arrangements, driven by a DW 5000 double pedal that carried the machine-gun double-kick on "Holy Wars... The Punishment Due" and "Tornado of Souls."
+Nick Menza's Rust in Peace-era setup was built around a Tama Artstar II in Midnight Blue finish — a birch-shell kit that proved raw speed and precision mattered more than gear prestige on Megadeth's 1990 thrash masterpiece. The Nick Menza drum set centered on a 14x5.5" Tama steel snare for extra brightness and crack against Megadeth's dense guitar arrangements, driven by a DW 5000 double pedal that carried the machine-gun double-kick on "Holy Wars... The Punishment Due" and "Tornado of Souls."
 
-Zildjian A Series cymbals rounded out the kit — 14" A Hi-Hats, 16" and 18" A Crashes, and a 20" A Ride — a standard, versatile setup that delivered the balanced attack Rust in Peace's technical passages required. Vic Firth American Classic 5B sticks and Remo Ambassador heads, with a Powerstroke 3 kick batter for focused low end, completed the rig Menza used from his 1989 arrival through Countdown to Extinction (1992), when he upgraded to a Tama Artstar kit.
+Zildjian A Series cymbals rounded out the kit — 14" A Hi-Hats, 16" and 18" A Crashes, and a 20" A Ride — a standard, versatile setup that delivered the balanced attack Rust in Peace's technical passages required. Remo Ambassador heads, with a Powerstroke 3 kick batter for focused low end, completed the Rust in Peace-era rig. Menza switched to Pearl Masters for Countdown to Extinction (1992), then upgraded to Pearl Masterworks — the most premium kit of his career — for Youthanasia (1994).
 
-Menza's gear evolved further into a Premier Signia endorsement beginning with Youthanasia (1994) and continuing through Cryptic Writings (1997), before his 1998 departure and brief 2004 return to Megadeth. He died on May 21, 2016, collapsing on stage during a performance with jazz-fusion band OHM — a dramatic end to a career that helped define thrash metal drumming.
+He settled on a Pearl Reference Custom kit, Sabian AA / Signature Series cymbals, and Vater Nick Menza Signature sticks for Cryptic Writings (1997), his final full studio album with Megadeth, before his 1998 departure and brief 2004 return to Megadeth. He died on May 21, 2016, collapsing on stage during a performance with jazz-fusion band OHM — a dramatic end to a career that helped define thrash metal drumming.
 
 ## Biography
 
@@ -90,11 +90,11 @@ Nick Menza's drumming combined speed with control, prioritizing precision over r
 
 ## Gear
 
-- **Drums:** Tama Swingstar
-- **Snare:** Tama Steel Snare 14x5.5"
-- **Cymbals:** Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride)
-- **Hardware:** DW 5000 Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** Pearl Reference Custom
+- **Snare:** Pearl Reference Custom 14x5.5"
+- **Cymbals:** Sabian AA / Signature Series
+- **Hardware:** Tama Iron Cobra Double Pedal
+- **Sticks:** Vater Nick Menza Signature
 - **Heads:** Remo Ambassador / Powerstroke 3
 
 ## Endorsements
@@ -110,13 +110,17 @@ Nick Menza's drumming combined speed with control, prioritizing precision over r
 
 ## Frequently Asked Questions
 
+**Q: Who was Nick Menza?**
+
+A: Nick Menza (July 23, 1964 – May 21, 2016) was an American drummer best known as Megadeth's drummer from 1989 to 1998, and again briefly in 2004. He recorded Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997) with the band. After leaving Megadeth, he drummed for the jazz-metal fusion group OHM from 2004 until his death in 2016, when he collapsed on stage during a performance.
+
 **Q: What albums did Nick Menza play drums on with Megadeth?**
 
 A: Nick Menza recorded Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997) with Megadeth.
 
 **Q: What drum kit did Nick Menza use on Rust in Peace?**
 
-A: Nick Menza played a Tama Swingstar 5-piece kit with poplar shells, Zildjian A Series cymbals, and a DW 5000 double pedal on Rust in Peace.
+A: Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish with birch shells, Zildjian A Series cymbals, and a DW 5000 double pedal on Rust in Peace.
 
 **Q: Why did Nick Menza leave Megadeth?**
 
@@ -136,7 +140,7 @@ A: Nick Menza was born on July 23, 1964, and would have turned 62 on July 23, 20
 
 **Q: What drum set did Nick Menza use?**
 
-A: Nick Menza's Rust in Peace-era drum set was a Tama Swingstar 5-piece kit with poplar shells (22"x16" kick, 12"x10"/13"x11" racks, 16"x16" floor) and a Tama Steel 14"x5.5" 8-lug snare — a mid-range, working drummer's kit rather than a prestige endorsement. He upgraded to Pearl Masters for Countdown to Extinction (1992), Pearl Masterworks for Youthanasia (1994), and Pearl Reference Custom for Cryptic Writings (1997).
+A: Nick Menza's Rust in Peace-era drum set was a Tama Artstar II 5-piece kit in Midnight Blue finish with birch shells (22"x16" kick, 12"x10"/13"x11" racks, 16"x16" floor) and a Tama Steel 14"x5.5" 8-lug snare — a professional-tier kit matching the technical precision of his playing. He upgraded to Pearl Masters for Countdown to Extinction (1992), Pearl Masterworks for Youthanasia (1994), and Pearl Reference Custom for Cryptic Writings (1997).
 
 **Q: What cymbals did Nick Menza use?**
 
@@ -176,18 +180,19 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Nick Menza's snare: Tama Steel Snare 14x5.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Nick Menza's snare: Pearl Reference Custom 14x5.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
-Nick Menza's cymbals: Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride).
+Nick Menza's cymbals: Sabian AA / Signature Series (14" AA Hi-Hats, 16" AA & 18" Signature Crash, 20" AA Ride, 18" AA China).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 14" | A | Hi-Hats |
-| crash | 16" | A | Crash |
-| crash | 18" | A | Crash |
-| ride | 20" | A | Ride |
+| hi-hat | 14" | AA | Regular Hi-Hats |
+| crash | 16" | AA | Rock Crash |
+| crash | 18" | Signature | Crash |
+| ride | 20" | AA | Medium Ride |
+| china | 18" | AA | China |
 
 Full breakdown: [Nick Menza's cymbal setup](https://metalforge.io/cymbals/setups/nick-menza).
 
@@ -227,4 +232,4 @@ Dated brand-endorsement timeline: [Nick Menza's endorsement history](https://met
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

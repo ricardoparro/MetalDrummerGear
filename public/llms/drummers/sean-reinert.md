@@ -3,10 +3,10 @@ name: "Sean Reinert"
 band: "Death / Cynic"
 genre: "Progressive Death Metal / Technical Death Metal"
 country: "USA"
-primary_brand: "Tama"
+primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/sean-reinert"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Sean Reinert — Drum Kit & Gear Setup
@@ -22,18 +22,18 @@ Sean Reinert's drum kit and gear setup. Sean Reinert is a professional metal dru
 | All bands | Cynic, Death |
 | Genre | Progressive Death Metal / Technical Death Metal |
 | Country | USA |
-| Primary brand | Tama |
-| Drum kit | Tama Artstar II |
-| Signature snare | Tama Artstar II Birch 14x5.5" |
+| Primary brand | DW |
+| Drum kit | DW Collector's Series |
+| Signature snare | DW Collector's Series Maple Shell |
 | Sticks | Vic Firth American Classic 5A |
 
 ## Kit Overview
 
-Sean Reinert's defining setup was the Tama Artstar II birch shell kit he played on Death's Human (1991) — the album, recorded at Morrisound with producer Scott Burns when Reinert was just 20, that introduced jazz vocabulary and polyrhythmic complexity to death metal drumming. The Sean Reinert drum set centered on a single 22x16" bass drum with a DW 5000 double pedal rather than the twin-kick setups favored by his death metal peers, paired with a 14x5.5" Tama birch snare tuned medium-high for the ghost-note sensitivity his playing required.
+Sean Reinert's final setup was a DW Collector's Series maple shell kit paired with darker, more complex Zildjian K Custom cymbals, adopted after Cynic reunited in 2006 and carried through Traced in Air (2008) and Kindly Bent to Free Us (2014) — a DW 9000 double pedal replaced his earlier DW 5000, suited to the atmospheric, self-produced sound of Cynic's reunion era.
 
-Zildjian's A/K Series cymbals defined Reinert's sound: 14" A Quick Beat Hi-Hats, 16" and 18" A Crashes, a 16" China, a 10" A Splash, and — central to his revolutionary approach — a 20" K Custom Dry Ride that he actually rode with sustained jazz-fusion patterns, unprecedented in death metal at the time. Vic Firth American Classic 5A sticks, a medium-weight model atypical for metal drummers of the era, gave Reinert the fast rebound and dynamic control his jazz-informed vocabulary demanded, a setup he carried into Cynic's Focus (1993), the landmark album he co-founded with Paul Masvidal.
+That rig succeeded the Tama Artstar II birch shell kit Reinert played on Death's Human (1991) — the album, recorded at Morrisound with producer Scott Burns when Reinert was just 20, that introduced jazz vocabulary and polyrhythmic complexity to death metal drumming. That earlier Sean Reinert drum set centered on a single 22x16" bass drum with a DW 5000 double pedal rather than the twin-kick setups favored by his death metal peers, paired with a 14x5.5" Tama birch snare tuned medium-high for the ghost-note sensitivity his playing required.
 
-After Cynic reunited in 2006, Reinert upgraded to a DW Collector's Series maple shell pack and darker, more complex Zildjian K Custom cymbals for Traced in Air (2008), suited to the album's atmospheric, self-produced sound. Sean Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a drumming legacy that proved death metal could swing.
+Zildjian's A/K Series cymbals defined that earlier sound: 14" A Quick Beat Hi-Hats, 16" and 18" A Crashes, a 16" China, a 10" A Splash, and — central to his revolutionary approach — a 20" K Custom Dry Ride that he actually rode with sustained jazz-fusion patterns, unprecedented in death metal at the time. Vic Firth American Classic 5A sticks, a medium-weight model atypical for metal drummers of the era, gave Reinert the fast rebound and dynamic control his jazz-informed vocabulary demanded, a setup he carried into Cynic's Focus (1993), the landmark album he co-founded with Paul Masvidal, and continued using through his final recordings. Sean Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a drumming legacy that proved death metal could swing.
 
 ## Biography
 
@@ -91,16 +91,16 @@ Sean Reinert's drumming style fused jazz-informed technique with death metal pow
 
 ## Gear
 
-- **Drums:** Tama Artstar II
-- **Snare:** Tama Artstar II Birch 14x5.5"
-- **Cymbals:** Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)
-- **Hardware:** DW 5000 Double Pedal
+- **Drums:** DW Collector's Series
+- **Snare:** DW Collector's Series Maple Shell
+- **Cymbals:** Zildjian K Custom Series
+- **Hardware:** DW 9000 Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Remo Powerstroke 3 / Ambassador
 
 ## Endorsements
 
-- [Tama Drums](https://www.tama.com)
+- [DW Drums](https://www.dwdrums.com)
 - [Zildjian Cymbals](https://zildjian.com)
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Remo Drumheads](https://remo.com)
@@ -169,7 +169,7 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Sean Reinert's snare: Tama Artstar II Birch 14x5.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Sean Reinert's snare: DW Collector's Series Maple Shell. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
@@ -188,7 +188,7 @@ Full breakdown: [Sean Reinert's cymbal setup](https://metalforge.io/cymbals/setu
 
 ## Pedal
 
-Sean Reinert plays a DW 5000 double pedal (chain-drive).
+Sean Reinert plays a DW 9000 Double Pedal double pedal (chain-drive).
 
 Full breakdown: [Sean Reinert's pedal setup](https://metalforge.io/pedals/setups/sean-reinert).
 
@@ -222,4 +222,4 @@ Dated brand-endorsement timeline: [Sean Reinert's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

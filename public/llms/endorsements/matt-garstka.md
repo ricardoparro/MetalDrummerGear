@@ -8,9 +8,9 @@
 
 ## Current Endorsements
 
-### Drums: Pearl
+### Drums: DW
 
-Matt Garstka endorses Pearl for drums. They play the Pearl Masterworks Maple. This partnership began in 2012.
+Matt Garstka endorses DW for drums. They play the DW Collector's Series (custom shop). This partnership began in 2021.
 
 ### Cymbals: Meinl
 
@@ -24,9 +24,9 @@ Matt Garstka endorses Vic Firth for drumsticks. They play the Vic Firth Matt Gar
 
 Matt Garstka endorses Remo for drumheads. They play the Remo Ambassador Coated. This partnership began in 2012.
 
-### Hardware / Pedals: Pearl
+### Hardware / Pedals: Tama
 
-Matt Garstka endorses Pearl for hardware / pedals. They play the Pearl Demon Drive Double Pedal. This partnership began in 2012.
+Matt Garstka endorses Tama for hardware / pedals. They play the Tama Speed Cobra 910 Double Pedal. This partnership began in 2021.
 
 ## Signature Models
 
@@ -40,11 +40,13 @@ Matt Garstka endorses Pearl for hardware / pedals. They play the Pearl Demon Dri
 - **2012** (Cymbals): Signed with Meinl — Built his cymbal setup around Meinl Byzance (15" Dual Hi-Hats, 22" Sand Ride, 18" Extra Dry Thin Crash) for the dark, musical character heard on his debut "The Joy of Motion" (2014)
 - **2014** (Drums): Signature product: Pearl Matt Garstka Signature Snare — Released his Pearl signature snare (14"x5" maple with a unique bearing edge for ghost-note sensitivity), recorded on "The Joy of Motion" (2014) with producer Misha Mansoor
 - **2014** (Drumsticks): Signature product: Vic Firth Matt Garstka Signature Stick — Released his Vic Firth signature stick — an elongated taper for dynamic control, designed for his traditional-grip technique
+- **2021** (Drums): Switched from Pearl to DW — Switched from Pearl/Tama to a DW Collector's Series custom shop kit (mixed wood species and shell configurations, plus a DW Collector's Series Purpleheart snare) in September 2021, driven by a Tama Speed Cobra 910 double pedal
+- **2021** (Hardware / Pedals): Switched from Pearl Demon Drive Double Pedal to Tama Speed Cobra 910 Double Pedal — Moved his double bass pedal to a Tama Speed Cobra 910 alongside the September 2021 DW drum kit switch
 
 ## FAQ
 
 **Q: What brands does Matt Garstka endorse?**
-A: Matt Garstka endorses Pearl, Meinl, Vic Firth, Remo. Their primary drum endorsement is Pearl and they play Meinl cymbals.
+A: Matt Garstka endorses DW, Meinl, Vic Firth, Remo, Tama. Their primary drum endorsement is DW and they play Meinl cymbals.
 
 **Q: Does Matt Garstka have a signature drum or cymbal?**
 A: Yes. Matt Garstka has signature gear: Vic Firth Matt Garstka Signature (signature), Pearl Matt Garstka Signature Snare (2014).
@@ -62,4 +64,4 @@ A: See the Endorsement History section above for a full timeline of Matt Garstka
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

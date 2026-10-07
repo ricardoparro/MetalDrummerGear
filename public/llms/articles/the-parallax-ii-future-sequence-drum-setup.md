@@ -27,7 +27,7 @@ This article breaks down every element of the drum setup Blake Richardson used o
 - **Drums:** DW DW Collector's Series (Custom lacquer finish, refined touring configuration finish)
 - **Snare:** DW DW Collector's Series Maple Snare, 14" x 6.5"
 - **Cymbals:** Meinl — Meinl Byzance Extra Dry Series
-- **Hardware / Pedals:** DW 9002 Chain-Drive Double Bass Pedal; Vic Firth American Classic 5B; Pearl Rack System; Remo Emperor Coated; Remo Powerstroke 3
+- **Hardware / Pedals:** DW 9002 Chain-Drive Double Bass Pedal; Vic Firth American Classic 3A; Pearl Rack System; Remo Emperor Coated; Remo Powerstroke 3
 - **Heads:** Evans G2 Coated (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium tension — warm body for ghost note work and snare sensitivity, enough authority to drive blast beat and extreme metal passages
 
@@ -114,4 +114,4 @@ A: Blake Richardson played an expanded Meinl Byzance Extra Dry setup on The Para
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

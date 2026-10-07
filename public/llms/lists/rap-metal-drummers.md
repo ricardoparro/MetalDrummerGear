@@ -1,6 +1,6 @@
 # Top 10 Rap-Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/rap-metal-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/rap-metal-drummers)
 
 ---
 
@@ -80,4 +80,4 @@ A: Rap-metal specifically pairs rapped or rap-cadence vocals with metal instrume
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

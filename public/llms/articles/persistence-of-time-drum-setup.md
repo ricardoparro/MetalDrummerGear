@@ -1,6 +1,6 @@
 # Persistence of Time Drum Setup: Charlie Benante's 1990 Anthrax Gear Breakdown
 
-> Complete breakdown of Charlie Benante's drum setup on Anthrax's Persistence of Time (1990). Tama Artstar Custom kit, Paiste cymbals, HP35 Camco pedals — the final Joey Belladonna-era album that went Platinum in the US.
+> Complete breakdown of Charlie Benante's drum setup on Anthrax's Persistence of Time (1990). Tama Artstar Custom kit, Paiste cymbals, chain-drive pedal setup — the final Joey Belladonna-era album that went Platinum in the US.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
@@ -25,7 +25,7 @@ For drummers, Persistence of Time is the culmination of the Joey Belladonna era 
 - **Drums:** Tama Tama Artstar Custom (Black finish)
 - **Snare:** Tama Tama Artstar Custom Brass Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002 / RUDE
-- **Hardware / Pedals:** Tama HP35 Camco; Tama Titan Hi-Hat Stand; Tama Titan / Stage Master; Tama 1st Chair; Pro-Mark Hickory 2B
+- **Hardware / Pedals:** Chain-drive pedal (specific model unconfirmed); Tama Titan Hi-Hat Stand; Tama Titan / Stage Master; Tama 1st Chair; Pro-Mark Hickory 2B
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for balanced crack and body
 
@@ -63,7 +63,7 @@ The 22" Heavy Ride was substantial enough to remain controlled at the blistering
 
 Persistence of Time closes the first and perhaps greatest chapter of Anthrax's story. It is the album where everything the classic lineup had been building since Spreading the Disease — the double-bass command, the compositional intelligence, the technical precision, the groove within aggression — achieves its most complete expression in the thrash metal format. The Platinum certification, the #24 Billboard debut, the enduring fan passion for tracks like 'In My World,' 'Got the Time,' and 'Blood': these are the marks of a band and a drummer operating at their creative and commercial peak simultaneously.
 
-For Charlie Benante specifically, Persistence of Time represents the completion of a five-year gear arc. The Tama Artstar Custom kit, the Paiste 2002/RUDE cymbals, the HP35 Camco pedals, the Remo heads, the Pro-Mark sticks: every piece of this configuration had been refined and field-tested across Spreading the Disease, Among the Living, and State of Euphoria before arriving at their most mature expression here. When Mark Dodson captured this kit at Bearsville in 1990, he was recording equipment and technique that had been genuinely optimised for these specific demands.
+For Charlie Benante specifically, Persistence of Time represents the completion of a five-year gear arc. The Tama Artstar Custom kit, the Paiste 2002/RUDE cymbals, the chain-drive pedal setup, the Remo heads, the Pro-Mark sticks: every piece of this configuration had been refined and field-tested across Spreading the Disease, Among the Living, and State of Euphoria before arriving at their most mature expression here. When Mark Dodson captured this kit at Bearsville in 1990, he was recording equipment and technique that had been genuinely optimised for these specific demands.
 
 The John Bush era that followed — Sound of White Noise (1993) and beyond — would require Benante to reinvent his playing approach on this same gear, and he did so successfully. But for drummers studying the craft, the Joey Belladonna era arc from Spreading the Disease through Persistence of Time is one of the most instructive in metal history: a drummer growing from technically proficient to genuinely transcendent, on record, across five years and four albums.
 
@@ -95,7 +95,7 @@ A: Charlie Benante used a Tama Artstar Custom kit on Persistence of Time (1990).
 
 **Q: What is Charlie Benante's drum setup on 'Got the Time'?**
 
-A: On 'Got the Time,' Charlie Benante used his standard Persistence of Time setup: Tama Artstar Custom birch kit with dual 22" bass drums, Paiste 2002 cymbals including 14" Sound Edge Hi-Hats, and Tama HP35 Camco bass drum pedals. The track runs at approximately 230 BPM, and the double-bass patterns in the opening riff — combined with the crystal-clear hi-hat articulation — represent the HP35 Camco operating at the outer limits of pedal speed. The performance remains one of the most studied drum recordings in thrash history.
+A: On 'Got the Time,' Charlie Benante used his standard Persistence of Time setup: Tama Artstar Custom birch kit with dual 22" bass drums, Paiste 2002 cymbals including 14" Sound Edge Hi-Hats, and his chain-drive bass drum pedal setup. The track runs at approximately 230 BPM, and the double-bass patterns in the opening riff — combined with the crystal-clear hi-hat articulation — represent that pedal setup operating at the outer limits of pedal speed. The performance remains one of the most studied drum recordings in thrash history.
 
 **Q: What cymbals did Charlie Benante use on Persistence of Time?**
 
@@ -111,7 +111,7 @@ A: Persistence of Time was produced by Mark Dodson with Anthrax, the same team t
 
 **Q: How does Persistence of Time connect to Sound of White Noise drum-wise?**
 
-A: Persistence of Time is the direct predecessor to Sound of White Noise (1993) in Charlie Benante's gear arc, and the gear itself carried straight through — the same Tama Artstar Custom birch drums, Paiste cymbals, and Tama HP35 Camco pedals appear on both records. What changed was the production and the tuning: Mark Dodson's tight, forward production on Persistence of Time gave way to Dave Jerden's organic, room-rich approach on Sound of White Noise, with the kit tuned lower and damped more heavily to match. For the complete comparison, see the Sound of White Noise drum setup article.
+A: Persistence of Time is the direct predecessor to Sound of White Noise (1993) in Charlie Benante's gear arc, and the gear itself carried straight through — the same Tama Artstar Custom birch drums, Paiste cymbals, and chain-drive pedal setup appear on both records. What changed was the production and the tuning: Mark Dodson's tight, forward production on Persistence of Time gave way to Dave Jerden's organic, room-rich approach on Sound of White Noise, with the kit tuned lower and damped more heavily to match. For the complete comparison, see the Sound of White Noise drum setup article.
 
 ## Related Articles
 
@@ -131,4 +131,4 @@ A: Persistence of Time is the direct predecessor to Sound of White Noise (1993) 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

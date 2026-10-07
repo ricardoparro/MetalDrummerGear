@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/scott-travis"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Scott Travis — Drum Kit & Gear Setup
@@ -28,7 +28,7 @@ Scott Travis's drum kit and gear setup. Scott Travis is a professional metal dru
 
 ## Kit Overview
 
-Scott Travis plays a ddrum Dominion Series drum kit with Paiste RUDE and 2002 Series cymbals — the precision-built drum set configuration that has defined Judas Priest's heavy metal sound since Travis joined the band in 1989. Best known for his performance on the landmark Painkiller album, the Scott Travis drum kit centers on a ddrum Scott Travis Signature 14×6.5" snare — a purpose-built shell designed for the explosive crack that cuts through Judas Priest's dual-guitar attack. A DW 9000 Series Double Pedal drives Travis's formidable double bass technique, mounted in a Gibraltar Rack System for consistent positioning across world arena tours.
+Scott Travis plays a ddrum Dominion Series drum kit with Paiste RUDE and 2002 Series cymbals — the setup he's used since 2018's "Firepower," the latest configuration in a Judas Priest tenure that began with a Tama Artstar II on the landmark Painkiller album in 1990. The Scott Travis drum kit centers on a ddrum Scott Travis Signature 14×6.5" snare — a purpose-built shell designed for the explosive crack that cuts through Judas Priest's dual-guitar attack. A DW 9000 Series Double Pedal drives Travis's formidable double bass technique, mounted in a Gibraltar Rack System for consistent positioning across world arena tours.
 
 Paiste RUDE Series cymbals round out the Scott Travis drum set: 14" RUDE Hi-Hats for aggressive, cutting hi-hat articulation; 18" and 19" RUDE Crashes for explosive, high-volume accents; a 22" RUDE Power Ride for powerful rhythmic definition over Judas Priest's dense arrangements; and an 18" RUDE China for brutal, trashy impact on the most intense sections of Painkiller and Firepower. Vic Firth American Classic 5B sticks and Remo drumheads complete the drum kit. For the full breakdown, see the [Painkiller drum setup](/articles/painkiller-drum-setup).
 
@@ -245,4 +245,4 @@ Dated brand-endorsement timeline: [Scott Travis's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -25,7 +25,7 @@ The Faulkner era began here, but the rhythmic foundation was unchanged. Travis's
 - **Drums:** Pearl Pearl Reference Series (Piano Black finish)
 - **Snare:** Pearl Pearl Reference Brass 14" x 6.5", 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HH / AA Hybrid
-- **Hardware / Pedals:** Pearl Demon Drive (x2 independent pedals); Pearl Eliminator Hi-Hat Stand; Pearl Roadster Throne, round seat; Vater Scott Travis Signature
+- **Hardware / Pedals:** Pearl Demon Drive (x2 independent pedals); Pearl Eliminator Hi-Hat Stand; Pearl Roadster Throne, round seat; Vic Firth American Classic 5B
 - **Heads:** Evans HD Dry (batter), Evans 300 Snare Side (resonant)
 - **Snare tuning:** Medium-high tension, tight snare wires — Sneap's dry production favors maximum snap
 
@@ -113,4 +113,4 @@ A: Redeemer of Souls (2014) and Firepower (2018) are both Andy Sneap-produced Ju
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

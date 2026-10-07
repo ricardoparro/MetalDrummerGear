@@ -6,14 +6,14 @@
 
 ## Direct Answer
 
-Inferno plays a Czarcie Kopyto double pedal.
+Inferno plays a Monolit Czarcie Kopyto double pedal.
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
-| Brand | Czarcie Kopyto |
-| Model | — |
+| Brand | Monolit |
+| Model | Czarcie Kopyto |
 | Configuration | double |
 | Drive Type | — |
 
@@ -26,7 +26,7 @@ Verified roster hardware entry: "Czarcie Kopyto (Devil's Hoof) Double Pedal." So
 ## FAQ
 
 **Q: What pedals does Inferno use?**
-A: Inferno plays a Czarcie Kopyto double pedal.
+A: Inferno plays a Monolit Czarcie Kopyto double pedal.
 
 ## More Resources
 
@@ -37,4 +37,4 @@ A: Inferno plays a Czarcie Kopyto double pedal.
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

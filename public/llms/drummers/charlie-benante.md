@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/charlie-benante"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Charlie Benante — Drum Kit & Gear Setup
@@ -40,6 +40,8 @@ Charlie Benante, born in 1962 in The Bronx, New York, is a pioneer of thrash met
 Charlie Benante (born Charles Lee Benante; November 27, 1962, in The Bronx, New York) is an American drummer best known as the drummer for thrash metal band Anthrax and crossover thrash pioneers Stormtroopers of Death (S.O.D.). He is credited as one of the pioneers of double bass drumming in thrash metal and with popularizing the blast beat technique.
 
 Beyond his drumming, Benante is Anthrax's main composer and a talented graphic artist who has created many of the band's album covers and T-shirt designs. Since 2022, he has also toured with the reunited Pantera, filling in for the late Vinnie Paul, his close friend.
+
+**November 27, 2026** marks Charlie Benante's 64th birthday. Fans continue to celebrate the milestone by revisiting the thrash metal foundation he built across Anthrax's "Among the Living" and "Persistence of Time," records that cemented his pioneering double bass and blast beat techniques.
 
 ## Career Highlights
 
@@ -121,6 +123,10 @@ Charlie Benante is credited with pioneering several techniques that became stand
 
 ## Frequently Asked Questions
 
+**Q: When was Charlie Benante born?**
+
+A: Charlie Benante was born on November 27, 1962, in The Bronx, New York, and turns 64 on November 27, 2026.
+
 **Q: What band does Charlie Benante play drums for?**
 
 A: Charlie Benante has been the drummer for Anthrax since 1983, and has toured with the Pantera reunion since 2022 in honor of his late friend Vinnie Paul.
@@ -169,6 +175,7 @@ A: Charlie Benante uses Evans drumheads across his Tama Starclassic drum kit and
 - Released solo album "Silver Linings" during COVID lockdowns
 - Born and raised in The Bronx, New York
 - Married Carla Harvey (formerly of Butcher Babies) in 2025
+- Born November 27, 1962 — November 27, 2026 marks his 64th birthday
 
 ## Signature Licks on MetalForge
 
@@ -213,4 +220,4 @@ Dated brand-endorsement timeline: [Charlie Benante's endorsement history](https:
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

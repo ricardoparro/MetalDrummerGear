@@ -31,8 +31,8 @@ Matt Halpern is one of Progressive/Djent's most influential drummers, best known
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
-- Istanbul Agop Cymbals (cymbals)
+- Yamaha Drum Kit (drums)
+- Meinl Cymbals (cymbals)
 - Pearl Demon Drive Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
@@ -207,4 +207,4 @@ Matt Halpern's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

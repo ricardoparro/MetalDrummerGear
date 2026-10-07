@@ -1,6 +1,6 @@
 # Top 10 Speed Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/speed-metal-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/speed-metal-drummers)
 
 ---
 
@@ -130,7 +130,7 @@ A: Speed metal is an up-tempo heavy metal subgenre that emerged in the early-to-
 A: Speed metal and thrash metal share the same up-tempo, double-bass-driven DNA — the terms are often used interchangeably for early-1980s bands. The distinction that emerged over time is that thrash metal added more complex song structures, breakdown sections, and mosh-pit-oriented groove, while speed metal stayed closer to straightforward, headbanging-focused velocity. Many bands, including early Metallica and Slayer, are retroactively described as speed metal for their earliest releases before critics began applying the "thrash" label to their more structurally ambitious later work.
 
 **Q: What gear do speed metal drummers use?**
-A: Speed metal's velocity-first demands favor large, punchy bass drums and stiff, fast-responding double pedals. Dave Lombardo's ddrum kit and Sabian cymbals gave Slayer's early speed metal ferocity its raw, cutting attack. Scott Travis's DW kit with Paiste cymbals powers Judas Priest's "Painkiller"-era aggression. Gene Hoglan's Tama kit and Zildjian cymbals deliver the surgical precision behind his "Atomic Clock" reputation. Across the genre, bright, cutting cymbals and dependable, fast double pedals remain the shared priority.
+A: Speed metal's velocity-first demands favor large, punchy bass drums and stiff, fast-responding double pedals. Dave Lombardo's ddrum kit and Sabian cymbals gave Slayer's early speed metal ferocity its raw, cutting attack. Scott Travis's Tama Artstar II kit with Paiste cymbals powers Judas Priest's "Painkiller"-era aggression. Gene Hoglan's Tama kit and Zildjian cymbals deliver the surgical precision behind his "Atomic Clock" reputation. Across the genre, bright, cutting cymbals and dependable, fast double pedals remain the shared priority.
 
 
 ---
@@ -150,4 +150,4 @@ A: Speed metal's velocity-first demands favor large, punchy bass drums and stiff
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

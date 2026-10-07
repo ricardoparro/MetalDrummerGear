@@ -112,11 +112,11 @@ A: Slaughter of the Soul was recorded at Studio Fredman in Gothenburg, Sweden in
 ## Related Articles
 
 - [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
-- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+- [Daniel Erlandsson's Drum Setup — Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
 - [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
 
 **Source:** https://metalforge.io/articles/slaughter-of-the-soul-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

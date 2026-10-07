@@ -34,7 +34,7 @@ Larkin brings deep rock roots and veteran groove instincts to Godsmack, locking 
 
 ## Kit
 
-Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAX Chinese), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14x8" snare and Zildjian cymbals (14" A New Beat Hi-Hats, A Custom Crashes, K Custom Ride), driven by a Tama Iron Cobra double pedal and his own Zildjian Abe Cunningham Artist Series sticks.
+Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAX Chinese), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14x8" snare and Zildjian cymbals (14" A New Beat Hi-Hats, A Custom Crashes, K Custom Ride), driven by a Tama Iron Cobra double pedal and Pro-Mark sticks.
 
 ## Key Differences
 
@@ -74,4 +74,4 @@ A: Abe Cunningham is known for unconventional, feel-first drumming that prioriti
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

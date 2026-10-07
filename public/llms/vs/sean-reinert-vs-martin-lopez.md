@@ -10,10 +10,10 @@ Sean Reinert (Death / Cynic) vs Martin Lopez (Opeth / Morbid Angel). Two drummer
 
 ## Sean Reinert Setup
 
-- **Drums:** Tama Artstar II
-- **Cymbals:** Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)
-- **Snare:** Tama Artstar II Birch 14x5.5"
-- **Pedals/Hardware:** DW 5000 Double Pedal
+- **Drums:** DW Collector's Series
+- **Cymbals:** Zildjian K Custom Series
+- **Snare:** DW Collector's Series Maple Shell
+- **Pedals/Hardware:** DW 9000 Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
 ## Martin Lopez Setup
@@ -67,4 +67,4 @@ A: Yes — Martin Lopez appeared on Morbid Angel's "Heretic" (2003) as a session
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

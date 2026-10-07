@@ -10,10 +10,10 @@ Chris Adler vs Art Cruz — Lamb of God's drumming succession compared. Ride-bel
 
 ## Chris Adler Setup
 
-- **Drums:** Mapex Black Panther Design Lab
+- **Drums:** Mapex Saturn in Satin Black Maple Burl
 - **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)
 - **Snare:** Mapex Chris Adler Signature 14x5.5" Walnut/Maple
-- **Pedals/Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
+- **Pedals/Hardware:** Trick Pro V Double Pedal
 - **Sticks:** Promark TX5AXW Chris Adler Signature
 
 ## Art Cruz Setup
@@ -34,7 +34,7 @@ Adler's signature is his ride-bell-anchored groove — riding the bell with his 
 
 ## Key Differences
 
-Chris Adler played a Mapex Black Panther Design Lab kit with his Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals, including the Extra Dry China that became a Lamb of God sonic signature, driven by a Mapex Falcon double pedal. Art Cruz plays Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and Zildjian A Custom & K Series cymbals, driven by a Trick Pro 1-V Bigfoot double pedal for fast, ergonomic footwork. Adler's signature is his ride-bell-anchored groove — riding the bell with his right hand instead of the hi-hat while his left foot works independently for dynamic accents, all locked to syncopated double-bass patterns that gave Lamb of God its mechanical, riff-tight momentum. Cruz brings a blast-beat foundation and raw physical attack from his deathcore roots, executing Adler's notoriously complex back catalog live while adding heavier, more overt power to Lamb of God's newer, dynamically broader material.
+Chris Adler played a Mapex Black Panther Design Lab kit with his Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals, including the Extra Dry China that became a Lamb of God sonic signature, driven by a Trick Pro V double pedal. Art Cruz plays Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and Zildjian A Custom & K Series cymbals, driven by a Trick Pro 1-V Bigfoot double pedal for fast, ergonomic footwork. Adler's signature is his ride-bell-anchored groove — riding the bell with his right hand instead of the hi-hat while his left foot works independently for dynamic accents, all locked to syncopated double-bass patterns that gave Lamb of God its mechanical, riff-tight momentum. Cruz brings a blast-beat foundation and raw physical attack from his deathcore roots, executing Adler's notoriously complex back catalog live while adding heavier, more overt power to Lamb of God's newer, dynamically broader material.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Chris Adler played a Mapex Black Panther Design Lab kit with a Mapex Chris Ad
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/derek-roddy"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Derek Roddy — Drum Kit & Gear Setup
@@ -25,7 +25,7 @@ Derek Roddy's drum kit and gear setup. Derek Roddy is a professional metal drumm
 | Primary brand | Tama |
 | Drum kit | Tama Starclassic Bubinga |
 | Signature snare | Tama SLP Black Brass 14x6.5" |
-| Sticks | Vater Player's Design Derek Roddy Model (VHDRW) |
+| Sticks | Vater 5B |
 
 ## Kit Overview
 
@@ -33,13 +33,13 @@ Derek Roddy plays a Tama Starclassic Bubinga drum kit — a dense, bass-heavy sh
 
 Meinl's Byzance and Mb20 Heavy cymbals define the Derek Roddy drum kit: 14" Byzance Heavy Hi-Hats for tight, controlled chops at extreme tempos; 18" and 19" Mb20 Heavy Crashes for explosive accents; a 21" Mb20 Heavy Ride for cutting through relentless double-kick runs; and an 18" Byzance China for abrupt punctuation. A Tama Speed Cobra 910 double pedal anchors the low end, giving Roddy the speed and stability behind his signature one-footed blast technique — a method he later taught through his own instructional books and DVDs.
 
-Vic Firth Derek Roddy Signature sticks and Evans heads complete the setup, chosen for durability under his relentless attack. The Derek Roddy drum set has remained anchored to this Tama/Meinl configuration throughout stints with Hate Eternal (2000–2002, 2004–2005), Nile (2000–2002), and Aurora Borealis.
+Vater 5B sticks and Evans heads complete the setup, chosen for durability under his relentless attack. The Derek Roddy drum set has remained anchored to this Tama/Meinl configuration throughout stints with Hate Eternal (2000–2002, 2004–2005), Nile (2000–2002), and Aurora Borealis.
 
 ## Biography
 
 Derek Roddy (born 1972) is an American drummer renowned for his extreme speed, technical proficiency, and endurance. He is considered one of the pioneers of modern extreme metal drumming. Roddy has performed with Hate Eternal, Nile, Aurora Borealis, Council of the Fallen, and Serpents Rise. His blast beats, one-footed bass drum techniques, and overall precision have influenced countless metal drummers. Beyond performing, Derek is a respected educator, having written instructional books and produced educational DVDs on extreme metal drumming techniques.
 
-Derek Roddy (born February 22, 1972, in Mullins, South Carolina) is an American drummer and educator who helped define modern extreme metal drumming. Best known for his work with Hate Eternal and his brief but influential stint with Nile, Roddy is renowned for his blazing speed, innovative blast beat techniques, and his significant contributions to metal drumming education.
+Derek Roddy (born August 28, 1972, in Myrtle Beach, South Carolina) is an American drummer and educator who helped define modern extreme metal drumming. Best known for his work with Hate Eternal and his brief but influential stint with Nile, Roddy is renowned for his blazing speed, innovative blast beat techniques, and his significant contributions to metal drumming education.
 
 Roddy is considered one of the pioneers of modern extreme metal drumming, having developed techniques for sustained blast beats and double bass that influenced an entire generation of drummers. His instructional materials, particularly "The Evolution of Blast Beats" DVD, have become essential resources for aspiring extreme metal drummers.
 
@@ -101,14 +101,14 @@ Derek Roddy's drumming style combines extreme speed with clarity and endurance. 
 - **Snare:** Tama SLP Black Brass 14x6.5"
 - **Cymbals:** Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China)
 - **Hardware:** Tama Speed Cobra 910 Double Pedal
-- **Sticks:** Vater Player's Design Derek Roddy Model (VHDRW)
+- **Sticks:** Vater 5B
 - **Heads:** Evans
 
 ## Endorsements
 
 - [Tama Drums](https://www.tama.com)
 - [Meinl Cymbals](https://meinlcymbals.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Vater Drumsticks](https://www.vater.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Notable Performances
@@ -137,7 +137,7 @@ A: Derek Roddy's snare is a Tama SLP Black Brass 14"x6.5", tuned for a sharp, cu
 
 **Q: What sticks does Derek Roddy use?**
 
-A: Derek Roddy uses Vater Player's Design Derek Roddy Model (VHDRW) drumsticks, his own signature stick.
+A: Derek Roddy plays a standard Vater 5B, a dependable, off-the-shelf diameter he has used since 2001 — not a signature model.
 
 **Q: What bass drum pedal does Derek Roddy use?**
 
@@ -242,4 +242,4 @@ Dated brand-endorsement timeline: [Derek Roddy's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

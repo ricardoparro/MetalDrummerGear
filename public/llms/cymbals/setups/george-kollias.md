@@ -41,4 +41,4 @@ A: George Kollias plays Zildjian cymbals: 14" K Mastersound Hi-Hats, 17" K Custo
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

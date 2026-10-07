@@ -1,6 +1,6 @@
 # Octavarium Drum Setup — Mike Portnoy's 24-Minute Prog Landmark (Dream Theater, 2005)
 
-> Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Octavarium (2005). Discover the Tama Starclassic Maple kit, Sabian AAX cymbals, Pearl Eliminator pedals, and the technique behind the 24-minute title track — Portnoy's most ambitious studio performance.
+> Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Octavarium (2005). Discover the Tama Starclassic Maple kit, Sabian AAX cymbals, and the technique behind the 24-minute title track — Portnoy's most ambitious studio performance.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Mike Portnoy](/llms/drummers/mike-portnoy.md)
@@ -18,7 +18,7 @@ The album is structured around the concept of the musical octave — the five st
 
 The centerpiece is "Octavarium" itself — at 24 minutes, the longest Dream Theater studio track to that point and one of the defining performances of Portnoy's career. It requires him to sustain compositional discipline, dynamic range, and physical stamina across a piece that moves from near-silence to full-power prog-metal and back, multiple times, while maintaining the narrative coherence of the larger structure. This is a different demand than anything *Train of Thought* required.
 
-For Mike Portnoy, *Octavarium* represents the continuation of the Tama Starclassic Maple platform established on *Train of Thought* — the same gear foundation redirected toward a more compositionally complex and dynamically nuanced musical purpose. The Sabian AAX cymbals that had served the heaviest DT album were now being asked to serve the most orchestrally ambitious one. The Pearl Eliminator pedals that had powered relentless double-bass on *Train of Thought* now anchored passages ranging from Portnoy's most delicate to his most powerful.
+For Mike Portnoy, *Octavarium* represents the continuation of the Tama Starclassic Maple platform established on *Train of Thought* — the same gear foundation redirected toward a more compositionally complex and dynamically nuanced musical purpose. The Sabian AAX cymbals that had served the heaviest DT album were now being asked to serve the most orchestrally ambitious one, and his double-bass technique now anchored passages ranging from Portnoy's most delicate to his most powerful.
 
 This article breaks down every piece of equipment Mike Portnoy used to record the most architecturally ambitious album of his Dream Theater career.
 
@@ -27,7 +27,7 @@ This article breaks down every piece of equipment Mike Portnoy used to record th
 - **Drums:** Tama Tama Starclassic Maple (Black Sparkle finish)
 - **Snare:** Tama Tama Starclassic Maple Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian AAX Series
-- **Hardware / Pedals:** Pearl Eliminator Double Pedal; Tama Iron Cobra Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Vic Firth Mike Portnoy Signature
+- **Hardware / Pedals:** Tama Iron Cobra Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Vic Firth Mike Portnoy Signature
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension — broad dynamic range from intimate passages to orchestral climaxes
 
@@ -65,7 +65,7 @@ The transition to Sabian HHX Evolution cymbals — darker and more complex — w
 
 *Octavarium* is the Dream Theater album that demonstrates something crucial about Mike Portnoy as a musician: that technical ambition and compositional intelligence are not the same thing. The 24-minute title track is not technically complex in the way *In the Name of God* or *In the Presence of Enemies* is complex. It is compositionally complex — architecturally disciplined across 24 minutes in a way that only a drummer who thinks about music beyond the individual beat can sustain.
 
-The Tama Starclassic Maple kit, Sabian AAX cymbals, and Pearl Eliminator pedals documented here are the same gear that recorded *Train of Thought*. The album they served on *Octavarium* is unrecognizable from *Train of Thought* in mood, ambition, and compositional approach. That contrast — same tools, completely different result — is the Portnoy story in miniature.
+The Tama Starclassic Maple kit and Sabian AAX cymbals documented here are the same gear that recorded *Train of Thought*. The album they served on *Octavarium* is unrecognizable from *Train of Thought* in mood, ambition, and compositional approach. That contrast — same tools, completely different result — is the Portnoy story in miniature.
 
 **For drummers studying this album:**
 - The 24-minute title track teaches architectural thinking: know the full structure before playing the first bar
@@ -83,7 +83,6 @@ For the heavy chapter that preceded this, see the [Train of Thought drum setup a
 - "Octavarium" title track: 24 minutes — longest DT studio track to that point, Portnoy's most ambitious single performance
 - Tama Starclassic Maple kit — continuation of the Train of Thought platform, redeployed for orchestral prog
 - Sabian AAX cymbals — same series as Train of Thought, now serving far wider dynamic contexts
-- Pearl Eliminator double pedals — sustained from the Train of Thought era
 - Fills the arc: Train of Thought (2003) → Octavarium (2005) → Systematic Chaos (2007)
 - ~13-drum configuration continued from the Train of Thought era
 - Double 22"x18" bass drums — consistent platform across the 2003-2005 period
@@ -97,7 +96,7 @@ For the heavy chapter that preceded this, see the [Train of Thought drum setup a
 
 **Q: What is the 24-minute Dream Theater song?**
 
-A: "Octavarium" — the title track of Dream Theater's 2005 album — is the 24-minute studio track that defined Mike Portnoy's most ambitious studio performance with the band. At 24 minutes, it was the longest Dream Theater studio track at the time of release. The track incorporates orchestral strings, multiple tempo and time signature changes, and a compositional arch that references musical phrases from across the full album. For Portnoy specifically, it required sustaining compositional discipline, dynamic range, and physical stamina across a structure that moves from near-silence to full-power prog-metal and back, multiple times. The entire performance was executed on the Tama Starclassic Maple kit with Sabian AAX cymbals and Pearl Eliminator double pedals — the same platform from Train of Thought (2003), redeployed for an entirely different musical purpose. For the complete gear and technique breakdown, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
+A: "Octavarium" — the title track of Dream Theater's 2005 album — is the 24-minute studio track that defined Mike Portnoy's most ambitious studio performance with the band. At 24 minutes, it was the longest Dream Theater studio track at the time of release. The track incorporates orchestral strings, multiple tempo and time signature changes, and a compositional arch that references musical phrases from across the full album. For Portnoy specifically, it required sustaining compositional discipline, dynamic range, and physical stamina across a structure that moves from near-silence to full-power prog-metal and back, multiple times. The entire performance was executed on the Tama Starclassic Maple kit with Sabian AAX cymbals — the same platform from Train of Thought (2003), redeployed for an entirely different musical purpose. For the complete gear and technique breakdown, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
 
 **Q: What drum kit did Mike Portnoy use on Octavarium (2005)?**
 
@@ -109,7 +108,7 @@ A: For Octavarium, Mike Portnoy continued with the Sabian AAX series that had se
 
 **Q: How does Octavarium fit in Mike Portnoy's Dream Theater gear arc?**
 
-A: Octavarium (2005) sits at the exact midpoint between two of the most significant gear transitions of Mike Portnoy's Dream Theater career. Train of Thought (2003) established the Tama Starclassic Maple / Sabian AAX / Pearl Eliminator platform — the heaviest kit configuration of his DT era. Systematic Chaos (2007) introduced the complete overhaul: Tama Starclassic Bubinga shells, Sabian HHX Evolution cymbals, and the DW 9000 double pedal. Octavarium bridges these two configurations, using the Train of Thought gear philosophy to serve a radically different musical purpose — orchestral prog rather than maximum heaviness. The gear is the same; the intention is different. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) and the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the bookend configurations.
+A: Octavarium (2005) sits at the exact midpoint between two of the most significant gear transitions of Mike Portnoy's Dream Theater career. Train of Thought (2003) established the Tama Starclassic Maple / Sabian AAX platform — the heaviest kit configuration of his DT era. Systematic Chaos (2007) introduced the complete overhaul: Tama Starclassic Bubinga shells and Sabian HHX Evolution cymbals. Octavarium bridges these two configurations, using the Train of Thought gear philosophy to serve a radically different musical purpose — orchestral prog rather than maximum heaviness. The gear is the same; the intention is different. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) and the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the bookend configurations.
 
 **Q: Is Octavarium a concept album, and how does that affect the drumming?**
 
@@ -132,4 +131,4 @@ A: Octavarium is conceptually structured around the musical octave — the five 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

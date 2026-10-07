@@ -38,4 +38,4 @@ A: Lars Ulrich plays a Tama Iron Cobra 900 Power Glide double pedal (chain-drive
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

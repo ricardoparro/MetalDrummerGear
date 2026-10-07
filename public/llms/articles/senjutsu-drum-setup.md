@@ -65,7 +65,7 @@ Senjutsu debuted at number one in the UK, number three in the United States, and
 
 That is not a footnote. That is the story.
 
-The Sonor SQ1 kit, Paiste Signature cymbals, and Vic Firth signature sticks were the tools. The single pedal was the philosophy. And the philosophy, demonstrated on 'Stratego' and 'The Writing on the Wall' and 'Hell on Earth,' remained as fully realized in 2019 as it had been on 'Aces High' in 1984.
+The British Drum Co. kit, Paiste Signature cymbals, and Vic Firth signature sticks were the tools. The single pedal was the philosophy. And the philosophy, demonstrated on 'Stratego' and 'The Writing on the Wall' and 'Hell on Earth,' remained as fully realized in 2019 as it had been on 'Aces High' in 1984.
 
 For drummers studying Senjutsu today, the technical demands are real: six tracks over seven minutes, two over eleven, one at nearly thirteen. These required complete single-take performances from beginning to end, navigating enormous dynamic ranges with the precision and musicality that have defined Nicko McBrain's career since he opened Iron Maiden's Piece of Mind with the 'Where Eagles Dare' drum intro.
 
@@ -92,11 +92,11 @@ One kit. One foot. One number-one album. Nicko McBrain, 2021.
 
 **Q: What drums does Nicko McBrain use on Senjutsu?**
 
-A: Nicko McBrain recorded Senjutsu (2021) on a Sonor SQ1 drum kit — his professional studio and touring configuration for the modern era. The setup featured a single 22"x17" bass drum (no double bass), three rack toms (10", 12", 13"), and two floor toms (16" and 18"). Shells are North American maple. His snare was the Sonor Nicko McBrain Signature, 14"x6.5". The album was recorded at Guillaume Tell Studio in Paris in August 2019 and debuted at UK #1 on its September 2021 release. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete gear history.
+A: Nicko McBrain recorded Senjutsu (2021) on a British Drum Co. drum kit — the brand he moved to in 2019, and his professional studio and touring configuration for the modern era. The setup featured a single 22"x17" bass drum (no double bass), three rack toms (10", 12", 13"), and two floor toms (16" and 18"). Shells are birch. His snare was the Sonor Nicko McBrain Signature, 14"x6.5", retained from his prior Sonor endorsement. The album was recorded at Guillaume Tell Studio in Paris in August 2019 and debuted at UK #1 on its September 2021 release. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete gear history.
 
 **Q: What is Senjutsu's drum setup?**
 
-A: Senjutsu (Iron Maiden, 2021) was recorded using Nicko McBrain's Sonor SQ1 kit with North American maple shells, a Sonor Nicko McBrain Signature snare (14"x6.5"), Paiste Signature cymbals including 15" Sound Edge hi-hats and a 22" Power Ride, and Vic Firth Nicko McBrain Signature sticks. The bass drum was a single 22" Sonor, driven by a single bass drum pedal — Nicko's lifelong philosophy. Producer Kevin Shirley captured the kit at Guillaume Tell Studio in Paris with a natural, dynamic approach consistent with his work on Brave New World, The Final Frontier, and [The Book of Souls](/articles/book-of-souls-drum-setup).
+A: Senjutsu (Iron Maiden, 2021) was recorded using Nicko McBrain's British Drum Co. kit with birch shells, a Sonor Nicko McBrain Signature snare (14"x6.5") retained from his prior Sonor endorsement, Paiste Signature cymbals including 15" Sound Edge hi-hats and a 22" Power Ride, and Vic Firth Nicko McBrain Signature sticks. The bass drum was a single 22" British Drum Co., driven by a single bass drum pedal — Nicko's lifelong philosophy. Producer Kevin Shirley captured the kit at Guillaume Tell Studio in Paris with a natural, dynamic approach consistent with his work on Brave New World, The Final Frontier, and [The Book of Souls](/articles/book-of-souls-drum-setup).
 
 **Q: Was Senjutsu nominated for a Grammy?**
 
@@ -127,4 +127,4 @@ A: On Senjutsu, Nicko McBrain used Paiste Signature series cymbals: 15" Sound Ed
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

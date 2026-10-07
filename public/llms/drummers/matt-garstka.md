@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/matt-garstka"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Matt Garstka — Drum Kit & Gear Setup
@@ -28,21 +28,21 @@ Matt Garstka's drum kit and gear setup. Matt Garstka is a professional metal dru
 
 ## Kit Overview
 
-Matt Garstka's drum kit is a DW Collector's Series custom shop build — mixing Collector's Series wood species and shell configurations — which he switched to in September 2021 after playing Tama for Animals as Leaders' first two albums. The Matt Garstka drum set centers on a DW Collector's Series Purpleheart snare, delivering the articulate crack that cuts through dense odd-meter passages.
+Matt Garstka's drum kit is a DW Collector's Series custom shop build — mixing Collector's Series wood species and shell configurations — which he switched to in September 2021 after playing Pearl for Animals as Leaders' first two albums. The Matt Garstka drum set centers on a DW Collector's Series Purpleheart snare, delivering the articulate crack that cuts through dense odd-meter passages.
 
-Meinl Byzance Series cymbals complete the Matt Garstka drum kit: 15" Dual Hi-Hats for nuanced, washy articulation; 18" and 20" Extra Dry Medium Crashes for quick-decaying accents; and a 22" Dual Ride for complex rhythmic definition. A Tama Speed Cobra 910 double pedal drives the intricate, ghost-note-laced double bass patterns central to Garstka's linear independence, while Vic Firth Matt Garstka Signature sticks and Evans heads complete a drum set built for the technical demands of instrumental progressive metal. For the full gear breakdown, see [what's in Matt Garstka's kit](/articles/whats-in-matt-garstkas-kit), the [Mike Mangini vs. Matt Garstka technique comparison](/vs/mike-mangini-vs-matt-garstka), and the [complete cymbal setup](/drummer/matt-garstka/cymbals).
+Meinl Byzance Series cymbals complete the Matt Garstka drum kit: 15" Dual Hi-Hats for nuanced, washy articulation; 18" and 20" Extra Dry Medium Crashes for quick-decaying accents; and a 22" Dual Ride for complex rhythmic definition. A Tama Speed Cobra 910 double pedal drives the intricate, ghost-note-laced double bass patterns central to Garstka's linear independence, while Vic Firth Matt Garstka Signature sticks and Remo heads complete a drum set built for the technical demands of instrumental progressive metal. For the full gear breakdown, see [what's in Matt Garstka's kit](/articles/whats-in-matt-garstkas-kit), the [Mike Mangini vs. Matt Garstka technique comparison](/vs/mike-mangini-vs-matt-garstka), and the [complete cymbal setup](/drummer/matt-garstka/cymbals).
 
 ## Biography
 
 Matt Garstka (born April 27, 1989) is an American drummer known for his virtuosic work with instrumental progressive metal band Animals as Leaders since 2012. His playing seamlessly blends jazz fusion, electronic music, and progressive metal, featuring complex polyrhythms, intricate ghost note patterns, and innovative use of dynamics.
 
-Matt Garstka (born April 27, 1989, in Westfield, Massachusetts) is an American drummer known for his virtuosic work with instrumental progressive metal band Animals as Leaders since 2012. His playing seamlessly blends jazz fusion, electronic music, and progressive metal, featuring complex polyrhythms, intricate ghost note patterns, and innovative use of dynamics.
+Matt Garstka (born April 27, 1989, in Hopewell, Virginia (raised in Westfield, Massachusetts)) is an American drummer known for his virtuosic work with instrumental progressive metal band Animals as Leaders since 2012. His playing seamlessly blends jazz fusion, electronic music, and progressive metal, featuring complex polyrhythms, intricate ghost note patterns, and innovative use of dynamics.
 
 Garstka joined Animals as Leaders after the departure of original drummer Navene Koperweis, bringing a jazz-educated sensibility to the band's technical instrumental music. His approach—combining traditional grip, linear independence, and a deep understanding of metric modulation—has made him one of the most influential drummers of his generation. Beyond Animals as Leaders, Garstka is an in-demand educator and session musician.
 
 ## Career Highlights
 
-- **1989** — Born April 27 in Westfield, Massachusetts
+- **1989** — Born April 27 in Hopewell, Virginia
 - **2007** — Began studying at Berklee College of Music
 - **2012** — Joined Animals as Leaders, replacing Navene Koperweis
 - **2014** — Released "The Joy of Motion" with Animals as Leaders, first album with band
@@ -98,7 +98,7 @@ Matt Garstka's drumming represents a new paradigm in progressive metal—combini
 - **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride)
 - **Hardware:** Tama Speed Cobra 910 Double Pedal
 - **Sticks:** Vic Firth Matt Garstka Signature
-- **Heads:** Evans
+- **Heads:** Remo
 
 ## Endorsements
 
@@ -142,7 +142,7 @@ A: Matt Garstka drives his double bass patterns with a Tama Speed Cobra 910 doub
 
 **Q: What drumheads does Matt Garstka use?**
 
-A: Matt Garstka uses Evans drumheads across his DW Collector's Series kit.
+A: Matt Garstka uses Remo Ambassador Coated drumheads across his DW Collector's Series kit.
 
 **Q: What band is Matt Garstka in?**
 
@@ -179,7 +179,7 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Matt Garstka's snare: Tama S.L.P. 14x6" G-Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Matt Garstka's snare: DW Collector's Series Purpleheart. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
@@ -232,4 +232,4 @@ Dated brand-endorsement timeline: [Matt Garstka's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

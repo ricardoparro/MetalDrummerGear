@@ -25,7 +25,7 @@ Sound of White Noise was a commercial triumph — debuting at #7 on the Billboar
 - **Drums:** Tama Tama Artstar Custom (Black finish)
 - **Snare:** Tama Tama Artstar Custom Brass Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002 / RUDE
-- **Hardware / Pedals:** Tama HP35 Camco; Tama Titan Hi-Hat Stand; Tama 1st Chair; Pro-Mark Hickory 2B
+- **Hardware / Pedals:** Chain-drive pedal (specific model unconfirmed); Tama Titan Hi-Hat Stand; Tama 1st Chair; Pro-Mark Hickory 2B
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Lower, fatter tension than Persistence of Time — more body and groove, less crack
 
@@ -57,7 +57,7 @@ The 22" Heavy Ride remained Charlie's primary ride voice on the record. Its size
 
 ## The Album That Proved Anthrax Could Evolve
 
-Sound of White Noise is the album where Anthrax stopped being a thrash band and started being something more flexible — a heavy band capable of operating across genres without losing identity. Charlie Benante's playing did all the work of that transformation while his gear stayed constant: the same Tama kit, the same Paiste cymbals, the same Tama HP35 Camco pedals he had used since the mid-1980s. This was not a cosmetic switch; it was a comprehensive rethinking of how he wanted his familiar drums to sound and what kind of music he wanted them to support.
+Sound of White Noise is the album where Anthrax stopped being a thrash band and started being something more flexible — a heavy band capable of operating across genres without losing identity. Charlie Benante's playing did all the work of that transformation while his gear stayed constant: the same Tama kit, the same Paiste cymbals, the same chain-drive pedal setup he had used since the mid-1980s. This was not a cosmetic switch; it was a comprehensive rethinking of how he wanted his familiar drums to sound and what kind of music he wanted them to support.
 
 The album's commercial success — debuting at #7 on the Billboard 200 (Anthrax's highest chart position ever), going Gold in the US, and producing two singles in "Only" and "Black Lodge" that received significant radio and MTV rotation — validated the risk. The fan base that worried John Bush would not work showed up in larger numbers than ever before. The critical reception, mixed at the time, has only grown more positive in retrospect: Sound of White Noise is now widely regarded as Anthrax's most underrated album and arguably the band's high-water mark of the 1990s.
 
@@ -118,4 +118,4 @@ A: Sound of White Noise represents a fundamental change in Charlie Benante's dru
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

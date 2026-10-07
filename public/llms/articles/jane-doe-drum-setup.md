@@ -1,6 +1,6 @@
 # Ben Koller's Drum Setup on Converge's Jane Doe (2001)
 
-> Inside Ben Koller's drum setup for Converge's Jane Doe (2001) — the mathcore masterpiece tracked at Kurt Ballou's GodCity Studio. Tama drums, Sabian HHX/AAX cymbals, Iron Cobra pedals, Vater sticks, and the blast-and-breakdown vocabulary that redefined heavy music.
+> Inside Ben Koller's drum setup for Converge's Jane Doe (2001) — the mathcore masterpiece tracked at Kurt Ballou's GodCity Studio. Tama drums, Sabian HHX/AAX cymbals, Iron Cobra pedals, Vic Firth sticks, and the blast-and-breakdown vocabulary that redefined heavy music.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Ben Koller](/llms/drummers/ben-koller.md)
@@ -16,7 +16,7 @@ Released on September 4, 2001 on Equal Vision Records, Converge's Jane Doe is wi
 
 Tracked by guitarist Kurt Ballou at his GodCity Studio in Salem, Massachusetts, Jane Doe captures a band at the peak of its creative violence. Koller was only 23 when the album was recorded, but his playing on tracks like "Concubine," "Fault and Fracture," "The Broken Vow," and the closing title track established a blast-and-breakdown vocabulary that drummers in mathcore, metalcore, and extreme metal still study today.
 
-Ben Koller's Jane Doe drum setup centered on a Tama kit with a single bass drum, Sabian HHX and AAX cymbals, Tama Iron Cobra pedals, and Vater sticks — a pragmatic, hard-touring configuration built for the brutal demands of Converge's music. Koller has been a single-kick monster throughout his career, and Jane Doe is the record where that approach reached its definitive form.
+Ben Koller's Jane Doe drum setup centered on a Tama kit with a single bass drum, Sabian HHX and AAX cymbals, Tama Iron Cobra pedals, and Vic Firth sticks — a pragmatic, hard-touring configuration built for the brutal demands of Converge's music. Koller has been a single-kick monster throughout his career, and Jane Doe is the record where that approach reached its definitive form.
 
 This article breaks down the gear Ben Koller used to record Jane Doe and examines how each piece serves Converge's most influential album.
 
@@ -25,7 +25,7 @@ This article breaks down the gear Ben Koller used to record Jane Doe and examine
 - **Drums:** Tama Tama Starclassic Bubinga (era-appropriate) (Piano Black finish)
 - **Snare:** Tama Tama Starphonic Brass (era-appropriate Tama metal snare), 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX / AAX
-- **Hardware / Pedals:** Tama Iron Cobra Power Glide; Tama Iron Cobra Lever Glide; Tama 1st Chair Round Rider; Vater Ben Koller signature stick
+- **Hardware / Pedals:** Tama Iron Cobra Power Glide; Tama Iron Cobra Lever Glide; Tama 1st Chair Round Rider; Vic Firth American Classic 5B
 - **Heads:** Evans G1 Coated batter; Evans 300 snare-side resonant
 - **Snare tuning:** Medium-high tension for cut through dense mix
 
@@ -120,4 +120,4 @@ A: Jane Doe was recorded at GodCity Studio in Salem, Massachusetts, with Converg
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

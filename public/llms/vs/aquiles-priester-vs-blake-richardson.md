@@ -10,11 +10,11 @@ Aquiles Priester (Angra) vs Blake Richardson (Between the Buried and Me): Brazil
 
 ## Aquiles Priester Setup
 
-- **Drums:** Pearl Reference Series
-- **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)
-- **Snare:** Pearl Reference 14x6.5" Brass
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl Icon Rack System
-- **Sticks:** Promark TX419W Aquiles Priester Autograph
+- **Drums:** Mapex Saturn Evolution All Maple (signature kit)
+- **Cymbals:** Paiste Custom red-coated set incl. 18" Psychoctopus Giga Bell Ride
+- **Snare:** Signature snare
+- **Pedals/Hardware:** DW 9000 Series Double Pedal
+- **Sticks:** ProMark Aquiles Priester Signature
 
 ## Blake Richardson Setup
 
@@ -67,4 +67,4 @@ A: Blake Richardson joined Between the Buried and Me in early 2005, replacing fo
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

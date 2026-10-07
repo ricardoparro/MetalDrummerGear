@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/kevin-talley"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Kevin Talley — Drum Kit & Gear Setup
@@ -37,7 +37,7 @@ Sabian AAX Series cymbals round out the Kevin Talley drum kit: 14" Stage Hi-Hats
 
 Kevin Talley (born May 21, 1979) is an American drummer renowned for his work with brutal death metal and grindcore bands including Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. His incredibly fast and precise drumming helped define the brutal death metal sound.
 
-Kevin Talley (born May 21, 1979, in Maryland, USA) is an American drummer renowned for his work with brutal death metal and grindcore bands including Dying Fetus, Misery Index, Chimaira, Suffocation, and Six Feet Under. His incredibly fast and precise drumming helped define the brutal death metal sound that emerged from the Maryland/DC area in the late 1990s.
+Kevin Talley (born May 21, 1979, in San Antonio, Texas, USA) is an American drummer renowned for his work with brutal death metal and grindcore bands including Dying Fetus, Misery Index, Chimaira, Suffocation, and Six Feet Under. His incredibly fast and precise drumming helped define the brutal death metal sound that emerged from the Maryland/DC area in the late 1990s.
 
 Talley's drumming combines the technical demands of brutal death metal with the groove-oriented approach that made Dying Fetus influential. His extensive resume across multiple extreme metal bands has established him as one of the go-to drummers in the brutal death metal community.
 
@@ -121,7 +121,7 @@ Kevin Talley's drumming style is characterized by extreme speed, technical preci
 
 **Q: What drum kit does Kevin Talley use?**
 
-A: Kevin Talley plays a Pearl Masters Premium Legend drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Suffocation, Chimaira, and Six Feet Under has demanded for over two decades. It centers on a Pearl Masters 14"x5.5" Maple snare.
+A: Kevin Talley plays a Pearl Masters Custom / Reference Series drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Suffocation, Chimaira, and Six Feet Under has demanded for over two decades. It centers on a Pearl Masters 14"x5.5" Maple snare.
 
 **Q: What drum set does Kevin Talley use?**
 
@@ -179,7 +179,7 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Kevin Talley's snare: Pearl Masters 14x5.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Kevin Talley's snare: Pearl Masters 14x6.5" Steel. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
@@ -230,4 +230,4 @@ Dated brand-endorsement timeline: [Kevin Talley's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

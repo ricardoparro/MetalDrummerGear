@@ -9,7 +9,7 @@
 
 ## Overview
 
-Jaska Raatikainen is the drummer for Children of Bodom, using a Pearl Masters kit with Zildjian cymbals throughout the band's career. Born July 18, 1979, in Espoo, Finland, Raatikainen co-founded the band alongside the late Alexi Laiho in 1993 — originally performing as Inearthed before adopting the Children of Bodom name in 1997. Together they created one of Finnish metal's most distinctive sounds: neoclassical melodies fused with aggressive death metal, built on a foundation of precise drumming that balanced explosive blast beats with compositionally aware melodic fills.
+Jaska Raatikainen is the drummer for Children of Bodom, whose kit endorsement traced a Pearl → Tama → Pearl arc across the band's career: an early Pearl relationship on "Something Wild" (1997), a switch to Tama Starclassic for "Hatebreeder" (1999) that carried through "Follow the Reaper" and "Hate Crew Deathroll," and a return to Pearl in 2004 on the Masters Premium Maple kit that remained his platform through the band's 2019 dissolution, paired throughout with Zildjian cymbals. Born July 18, 1979, in Espoo, Finland, Raatikainen co-founded the band alongside the late Alexi Laiho in 1993 — originally performing as Inearthed before adopting the Children of Bodom name in 1997. Together they created one of Finnish metal's most distinctive sounds: neoclassical melodies fused with aggressive death metal, built on a foundation of precise drumming that balanced explosive blast beats with compositionally aware melodic fills.
 
 Children of Bodom became one of Finland's most successful metal exports, selling over 2 million albums worldwide across a 26-year career. Raatikainen's drumming was central to that success. His playing style combined the raw velocity of death metal — double bass patterns, blast beats, aggressive snare attacks — with a musical sensibility shaped by the neoclassical guitar and keyboard counterpoint that defined Alexi Laiho's compositional approach. The drums had to do more than provide a rhythmic foundation; they had to move with the melodic material in ways that pure death metal drumming rarely demands.
 
@@ -93,7 +93,7 @@ Children of Bodom's catalog stands as Finnish metal's defining contribution to t
 
 **Q: What drum kit does Jaska Raatikainen use?**
 
-A: Jaska Raatikainen plays Pearl drums — specifically the Pearl Masters Premium Maple series throughout the majority of Children of Bodom's career. The Masters Premium Maple features a six-ply all-maple shell construction that delivers the focused attack and warm body his melodic death metal work demands. He runs a double-kick configuration with two 22" x 18" bass drums, two rack toms (10" and 12"), and two floor toms (14" and 16") — a compact spread that supports both rapid melodic fill work and the aggressive blast-beat sections that punctuate Children of Bodom's most intense material.
+A: Jaska Raatikainen's kit endorsement traced a Pearl → Tama → Pearl arc: an early Pearl configuration on "Something Wild" (1997), a switch to Tama Starclassic for "Hatebreeder" (1999) that carried through "Follow the Reaper" and "Hate Crew Deathroll," and a return to Pearl in 2004 on the Masters Premium Maple series that remained his platform for the rest of Children of Bodom's career. The Masters Premium Maple features a six-ply all-maple shell construction that delivers the focused attack and warm body his melodic death metal work demands. He runs a double-kick configuration with two 22" x 18" bass drums, two rack toms (10" and 12"), and two floor toms (14" and 16") — a compact spread that supports both rapid melodic fill work and the aggressive blast-beat sections that punctuate Children of Bodom's most intense material.
 
 **Q: What cymbals does Children of Bodom's drummer play?**
 
@@ -101,7 +101,7 @@ A: Jaska Raatikainen plays Zildjian A Custom and K Custom cymbals. His setup inc
 
 **Q: How did Jaska Raatikainen's setup evolve over Children of Bodom's career?**
 
-A: Raatikainen's core setup remained relatively consistent across Children of Bodom's 26-year career, with evolutionary refinements rather than wholesale changes. The Pearl Masters relationship was established early and solidified through the Follow the Reaper and Hate Crew Deathroll sessions (2000–2003), which represent the most technically demanding period of the band's output. The cymbal setup evolved from Zildjian A series toward the A Custom and K Custom combination that became his established configuration by the mid-2000s. The Pearl Eliminator double bass pedal was his primary foot instrument across the peak touring years, providing the consistent double-kick response that sustained the band's high-velocity material across extensive worldwide touring.
+A: Raatikainen's drum kit endorsement moved through three distinct eras across Children of Bodom's 26-year career. An early, developing Pearl relationship appeared on "Something Wild" (1997); in 1999 he switched to an early Tama Starclassic configuration for "Hatebreeder," which carried through the band's most technically demanding period on Follow the Reaper and Hate Crew Deathroll (2000–2003); and in 2004 he returned to Pearl, settling into the Masters Premium Maple kit that remained his setup through Hexed and the band's 2019 dissolution. The cymbal setup evolved from Zildjian A series toward the A Custom and K Custom combination that became his established configuration by the mid-2000s. The Pearl Eliminator double bass pedal was his primary foot instrument across the peak touring years, providing the consistent double-kick response that sustained the band's high-velocity material across extensive worldwide touring.
 
 **Q: What bass drum pedal does Jaska Raatikainen use?**
 
@@ -128,4 +128,4 @@ A: Jaska Raatikainen plays Vic Firth American Classic 5A sticks. The 5A's weight
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -27,7 +27,7 @@ This article explores the gear Abe used during the White Pony sessions, the tech
 - **Drums:** Tama Tama Starclassic Maple (Custom Finish (varied during sessions) finish)
 - **Snare:** Tama Tama S.L.P. Big Black Steel (or equivalent deep steel snare), 14" x 6.5" to 14" x 8"
 - **Cymbals:** Zildjian — Zildjian A / K Series
-- **Hardware / Pedals:** Tama Iron Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Zildjian 5A (or similar)
+- **Hardware / Pedals:** Tama Iron Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark (non-signature)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-low for atmosphere, medium-high for aggression
 
@@ -139,4 +139,4 @@ A: The Tama Starclassic Maple kit Abe Cunningham used on White Pony was valued a
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

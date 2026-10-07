@@ -41,4 +41,4 @@ A: Martin Lopez plays Zildjian cymbals: 14" K Dark Thin Hi-Hats, 18" K Dark Medi
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

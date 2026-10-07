@@ -31,7 +31,6 @@ The haunting, militaristic snare pattern that opens Metallica's anti-war masterp
 ### Gear Used
 
 - Tama Artstar ES Kit (drums)
-- Ahead Lars Ulrich Sticks (sticks)
 - Zildjian A Custom Cymbals (cymbals)
 
 **Core Techniques:** [Dynamics](https://metalforge.io/techniques/dynamics), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Military Snare](https://metalforge.io/techniques/military-snare)
@@ -115,7 +114,6 @@ The mid-to-late section of Metallica's "One" represents one of the most dramatic
 ### Gear Used
 
 - Tama Artstar ES Kit (drums)
-- Ahead Lars Ulrich Sticks (sticks)
 - Zildjian A Custom Cymbals (cymbals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamics](https://metalforge.io/techniques/dynamics), [Stamina](https://metalforge.io/techniques/stamina)
@@ -161,4 +159,4 @@ Lars Ulrich's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

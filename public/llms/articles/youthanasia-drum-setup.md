@@ -18,7 +18,7 @@ What makes Youthanasia singular among Megadeth records is the studio it was trac
 
 A core compositional decision shaped how Menza approached the record. Mustaine and Norman deliberately tuned every song on the album to be playable at the same metronome tempo (roughly 88 BPM), creating a unified feel across the entire release. For a drummer, that constraint imposes an unusual discipline: the groove pocket has to live in microtiming, dynamic shading, and feel rather than tempo variation. Menza's response was to lean even further into the jazz-informed vocabulary that had always distinguished him — ghost notes, dynamic shading, melodic fill construction, and a remarkable patience that lets each song breathe rather than rush. This is the same player who built the breakneck blasts of "Holy Wars," now operating at a single steady pulse for an entire album and finding endless variation inside it.
 
-Gear-wise, Youthanasia caught Menza a step further into his Pearl endorsement. Having moved on from the Tama Swingstar to a Pearl Masters kit for Countdown to Extinction, Menza moved up again for Youthanasia to a Pearl Masterworks — the most premium kit of his career — which remained his primary instrument across the sessions. The Masterworks was paired with a matching Pearl snare, and his Paiste 2002 and Signature cymbal setup gave the album its bright, articulate top end. The double 22" bass drums were tuned slightly tighter than the cavernous Rust in Peace sound — appropriate for an album that prioritized groove over speed.
+Gear-wise, Youthanasia caught Menza a step further into his Pearl endorsement. Having moved on from the Tama Artstar II to a Pearl Masters kit for Countdown to Extinction, Menza moved up again for Youthanasia to a Pearl Masterworks — the most premium kit of his career — which remained his primary instrument across the sessions. The Masterworks was paired with a matching Pearl snare, and his Paiste 2002 and Signature cymbal setup gave the album its bright, articulate top end. The double 22" bass drums were tuned slightly tighter than the cavernous Rust in Peace sound — appropriate for an album that prioritized groove over speed.
 
 This article breaks down every component of Nick Menza's Youthanasia drum kit: the Pearl Masterworks configuration, the matching signature snare, the Paiste cymbal arsenal, and how each gear choice supported the unified-tempo concept that made Youthanasia one of the most cohesive metal albums of the 1990s.
 
@@ -145,4 +145,4 @@ A: The 1994 sessions caught Menza in a transition between the Tama Camco pedals 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

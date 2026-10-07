@@ -91,4 +91,4 @@ A: Closely related techniques include Groove Drumming, Fill Techniques, Linear D
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

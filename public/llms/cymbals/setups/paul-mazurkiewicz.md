@@ -1,24 +1,24 @@
 # What Cymbals Does Paul Mazurkiewicz Use? Full Setup
 
-**Band:** Cannibal Corpse | **Brand(s):** Sabian
+**Band:** Cannibal Corpse | **Brand(s):** Meinl
 
 ---
 
 ## Direct Answer
 
-Paul Mazurkiewicz plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plosion Crash, 19" AAX X-Plosion Crash, 21" AAX Raw Bell Dry Ride, 18" AAX AAXtreme China.
+Paul Mazurkiewicz plays Meinl cymbals: 14" Classics Custom Dark Hi-Hats, 18" Classics Custom Dark Crash, 19" Classics Custom Dark Crash, 21" Byzance Dark Ride, 18" Byzance Dark China.
 
 ## Cymbal Breakdown
 
 | Piece | Size | Series | Model |
 |-------|------|--------|-------|
-| Hi-hat | 14" | AAX | Stage Hi-Hats |
-| Crash | 18" | AAX | X-Plosion Crash |
-| Crash | 19" | AAX | X-Plosion Crash |
-| Ride | 21" | AAX | Raw Bell Dry Ride |
-| China | 18" | AAX | AAXtreme China |
+| Hi-hat | 14" | Classics Custom Dark | Hi-Hats |
+| Crash | 18" | Classics Custom Dark | Crash |
+| Crash | 19" | Classics Custom Dark | Crash |
+| Ride | 21" | Byzance Dark | Ride |
+| China | 18" | Byzance Dark | China |
 
-Verified roster hardware entry: "Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Meinl Classics Custom & Byzance Series (14" Classics Custom Dark Hi-Hats, 18" & 19" Classics Custom Dark Crashes, 21" Byzance Dark Ride, 18" Byzance Dark China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -30,7 +30,7 @@ Verified roster hardware entry: "Sabian AAX Series (14" Stage Hi-Hats, 18" & 19"
 ## FAQ
 
 **Q: What cymbals does Paul Mazurkiewicz use?**
-A: Paul Mazurkiewicz plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plosion Crash, 19" AAX X-Plosion Crash, 21" AAX Raw Bell Dry Ride, 18" AAX AAXtreme China.
+A: Paul Mazurkiewicz plays Meinl cymbals: 14" Classics Custom Dark Hi-Hats, 18" Classics Custom Dark Crash, 19" Classics Custom Dark Crash, 21" Byzance Dark Ride, 18" Byzance Dark China.
 
 ## More Resources
 
@@ -41,4 +41,4 @@ A: Paul Mazurkiewicz plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plos
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

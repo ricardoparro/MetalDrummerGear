@@ -1,6 +1,6 @@
 # Digimortal Drum Setup: Raymond Herrera's 2001 Fear Factory Kit Breakdown
 
-> Complete breakdown of Raymond Herrera's drum gear on Fear Factory's Digimortal (2001). The final Herrera studio album — Pearl Reference Series triggered kit, heavier double-kick approach, and how 'Linchpin' and 'What Will Become?' were recorded.
+> Complete breakdown of Raymond Herrera's drum gear on Fear Factory's Digimortal (2001). The final Herrera studio album — Tama Starclassic triggered kit, heavier double-kick approach, and how 'Linchpin' and 'What Will Become?' were recorded.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Raymond Herrera](/llms/drummers/raymond-herrera.md)
@@ -14,7 +14,7 @@
 
 Released on May 22, 2001, Fear Factory's *Digimortal* is the final studio album Raymond Herrera recorded with the band before his departure in 2002 — and one of the more controversial entries in the Fear Factory catalog. Produced again by Rhys Fulber, *Digimortal* pushed the hybrid industrial metal formula of *Demanufacture* (1995) and *Obsolete* (1998) into new territory: shorter song structures, nu-metal-influenced passages, electronic programming woven more explicitly into the arrangements, and a collaboration with rapper B-Real of Cypress Hill on "Back the Fuck Up."
 
-For drummers, *Digimortal* is a study in how a world-class industrial metal kit sounds when the music around it changes. Herrera's Pearl Reference Series setup with full ddrum/Roland triggering remained consistent with his previous Fear Factory work, but the drum performances were shaped by the album's more varied compositional landscape: tighter, shorter patterns in the nu-metal influenced tracks; heavier double-kick density in the more aggressive passages like "Linchpin" and "What Will Become?"; more integration with programmed electronic elements throughout.
+For drummers, *Digimortal* is a study in how a world-class industrial metal kit sounds when the music around it changes. Herrera's Tama Starclassic setup with full ddrum/Roland triggering remained consistent with his previous Fear Factory work, but the drum performances were shaped by the album's more varied compositional landscape: tighter, shorter patterns in the nu-metal influenced tracks; heavier double-kick density in the more aggressive passages like "Linchpin" and "What Will Become?"; more integration with programmed electronic elements throughout.
 
 Rhys Fulber, returning as producer, continued the direction he had established on *Obsolete* — treating the triggered drum signals as electronic production material to be shaped and integrated with the album's programmed layers. On *Digimortal*, this approach went further than on *Obsolete*, with the boundary between Herrera's performed drum parts and the electronic programming deliberately blurred in certain tracks.
 
@@ -22,20 +22,20 @@ This article breaks down Herrera's complete drum setup for *Digimortal*, examine
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Series (Various finishes — consistent with Demanufacture through Obsolete touring period finish)
+- **Drums:** Tama Tama Starclassic (Various finishes — consistent with Demanufacture through Obsolete touring period finish)
 - **Snare:** Tama Tama 14" x 6.5" Brass, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian Z Custom Series
 - **Hardware / Pedals:** DW 5000 Series Double Pedal; ddrum triggers and Roland drum module; Pro-Mark 5A Oak Nylon Tip; Remo Pinstripe; Remo Ambassador
 - **Heads:** Remo Pinstripe (batter) with ddrum trigger — controlled attack for consistent electronic layering in Fulber's more program-heavy production
 - **Snare tuning:** Medium-high tension — fast mechanical response consistent with the Demanufacture through Digimortal production approach
 
-### Pearl Reference Series: The Foundation of Herrera's Final Fear Factory Record
+### Tama Starclassic: The Foundation of Herrera's Final Fear Factory Record
 
-The Pearl Reference Series kit Herrera used on *Digimortal* was the same core setup that had defined Fear Factory's drum sound since *Demanufacture* — a continuity that demonstrates how completely this kit had become the foundation of the band's sonic identity. Pearl Reference Series shells, maple construction, consistent trigger response: the acoustic core of a hybrid system that producer Rhys Fulber extended further into electronic integration on *Digimortal* than on any previous Fear Factory record.
+The Tama Starclassic kit Herrera used on *Digimortal* was the same core setup that had defined Fear Factory's drum sound since *Demanufacture* — a continuity that demonstrates how completely this kit had become the foundation of the band's sonic identity. Tama Starclassic shells, maple construction, consistent trigger response: the acoustic core of a hybrid system that producer Rhys Fulber extended further into electronic integration on *Digimortal* than on any previous Fear Factory record.
 
 The double kick configuration drove the album's most aggressive passages. "Linchpin" and "What Will Become?" feature double-kick patterns in the Herrera tradition — machine-gun grids executing at industrial metal's demanding tempos, the DW 5000 Series pedal driving both kick drums with consistent action across both beaters, each stroke firing its ddrum trigger. The triggered kick samples on *Digimortal* carry more electronic processing than on *Obsolete*, further blurring the line between acoustic performance and programmed sound.
 
-On *Digimortal*'s nu-metal influenced tracks — shorter compositions with more direct, less complex rhythmic structures — the Pearl Reference kit still provided its characteristic acoustic body. The triggered toms delivered emphatic, sample-enhanced attacks on fills and accents. The kit's tonal consistency across all drums was essential given Fulber's production approach, which required predictable trigger signals from every drum in the setup.
+On *Digimortal*'s nu-metal influenced tracks — shorter compositions with more direct, less complex rhythmic structures — the Tama Starclassic kit still provided its characteristic acoustic body. The triggered toms delivered emphatic, sample-enhanced attacks on fills and accents. The kit's tonal consistency across all drums was essential given Fulber's production approach, which required predictable trigger signals from every drum in the setup.
 
 The *Digimortal* sessions were among the last Herrera would record with Fear Factory. His departure in 2002, along with guitarist Christian Olde Wolbers, effectively ended the classic Fear Factory lineup that had defined the band's three-album peak from *Demanufacture* through *Obsolete* and *Digimortal*.
 
@@ -59,11 +59,11 @@ Fulber's production on *Digimortal* captured the Z Custom cymbals with definitio
 
 ## Digimortal: Closing the Classic Raymond Herrera Fear Factory Era
 
-*Digimortal* closes the three-album arc of Raymond Herrera's classic Fear Factory period — from *Demanufacture*'s industrial metal template (1995) through *Obsolete*'s commercial peak (1998) to this final, more experimental record (2001). The drum setup was consistent throughout: Pearl Reference Series with full trigger integration, DW 5000 Series double pedal, Zildjian Z Custom cymbals, Pro-Mark 5A Oak Nylon Tip sticks. What changed was the production context and the music around it.
+*Digimortal* closes the three-album arc of Raymond Herrera's classic Fear Factory period — from *Demanufacture*'s industrial metal template (1995) through *Obsolete*'s commercial peak (1998) to this final, more experimental record (2001). The drum setup was consistent throughout: Tama Starclassic with full trigger integration, DW 5000 Series double pedal, Zildjian Z Custom cymbals, Pro-Mark 5A Oak Nylon Tip sticks. What changed was the production context and the music around it.
 
 For the full Fear Factory drum setup arc:
 
-- **Pearl Reference Series**: Maple shells providing consistent trigger response across all three albums — the acoustic core of the hybrid system Herrera never changed
+- **Tama Starclassic**: Maple shells providing consistent trigger response across all three albums — the acoustic core of the hybrid system Herrera never changed
 - **ddrum/Roland triggers**: Deployed with increasing electronic integration from *Demanufacture* through *Digimortal* — the trigger system used most extensively in *Digimortal*'s programmed production
 - **DW 5000 Series Double Pedal**: Machine-gun double-kick patterns from "Replica" on *Demanufacture* through "Linchpin" on *Digimortal* — six years of industrial precision
 - **Zildjian Z Custom**: Consistent upper-frequency projection above three albums' worth of dense industrial metal guitar processing
@@ -81,15 +81,15 @@ For the complete Fear Factory drum cluster:
 
 - Released May 22, 2001 — Raymond Herrera's final studio album with Fear Factory
 - Produced by Rhys Fulber — building on the electronic production approach of Obsolete
-- Pearl Reference Series with full ddrum/Roland triggering — same kit architecture across the Demanufacture through Digimortal arc
+- Tama Starclassic with full ddrum/Roland triggering — same kit architecture across the Demanufacture through Digimortal arc
 - More nu-metal-influenced compositions with explicit electronic programming integrated into drum arrangements
 - Signature tracks: "Linchpin," "What Will Become?," "Invisible Wounds (Dark Bodies)," "No One"
 - Heavier double-kick emphasis on aggressive tracks; tighter patterns in shorter nu-metal influenced compositions
-- Same Pearl Reference Series architecture across Demanufacture, Obsolete, and Digimortal — three-album continuity
+- Same Tama Starclassic architecture across Demanufacture, Obsolete, and Digimortal — three-album continuity
 - Double 22" kick drums with ddrum triggers — heavier double-kick emphasis on Linchpin and What Will Become?
 - All toms triggered — Fulber's most extensive electronic integration of triggered signals to date
 - Final Fear Factory recording sessions for this lineup before Herrera's 2002 departure
-- Estimated kit value: $3,000–5,500 (Pearl Reference Series shell pack)
+- Estimated kit value: $3,000–5,500 (Tama Starclassic shell pack)
 - Estimated snare value: $400–800
 
 ## Frequently Asked Questions
@@ -112,7 +112,7 @@ A: "Linchpin" is the standout Herrera performance on *Digimortal* — a driving 
 
 **Q: What happened to Raymond Herrera after Digimortal?**
 
-A: Raymond Herrera left Fear Factory in 2002, along with guitarist Christian Olde Wolbers. The departure effectively ended the classic Fear Factory lineup that had recorded *Demanufacture*, *Obsolete*, and *Digimortal*. Herrera and Olde Wolbers subsequently formed Arkaea, releasing one album (*Years in the Darkness*, 2009). Herrera continued drumming in various projects, applying his hybrid industrial metal technique — Pearl Reference Series drums, trigger integration, DW 5000 Series double pedal — in contexts outside Fear Factory's thematic framework. Fear Factory continued and eventually reformed with different lineups, but the three-album Herrera era from 1995 to 2001 remains the definitive period of the band's drum sound. For Herrera's complete career profile: [Raymond Herrera at MetalForge](/drummer/raymond-herrera).
+A: Raymond Herrera left Fear Factory in 2002, along with guitarist Christian Olde Wolbers. The departure effectively ended the classic Fear Factory lineup that had recorded *Demanufacture*, *Obsolete*, and *Digimortal*. Herrera and Olde Wolbers subsequently formed Arkaea, releasing one album (*Years in the Darkness*, 2009). Herrera continued drumming in various projects, applying his hybrid industrial metal technique — Tama Starclassic drums, trigger integration, DW 5000 Series double pedal — in contexts outside Fear Factory's thematic framework. Fear Factory continued and eventually reformed with different lineups, but the three-album Herrera era from 1995 to 2001 remains the definitive period of the band's drum sound. For Herrera's complete career profile: [Raymond Herrera at MetalForge](/drummer/raymond-herrera).
 
 ## Related Articles
 
@@ -127,4 +127,4 @@ A: Raymond Herrera left Fear Factory in 2002, along with guitarist Christian Old
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

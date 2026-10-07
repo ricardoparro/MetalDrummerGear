@@ -18,11 +18,11 @@ Nile's George Kollias vs Cannibal Corpse's Paul Mazurkiewicz. Technical blast-be
 
 ## Paul Mazurkiewicz Setup
 
-- **Drums:** Pearl Masters Maple Complete
-- **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Pearl Masters 14x6.5" Maple
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** Pearl Reference
+- **Cymbals:** Meinl Classics Custom & Byzance Series
+- **Snare:** Pearl Free-Floating Steel
+- **Pedals/Hardware:** Pearl Eliminator Double Bass Pedal
+- **Sticks:** Vic Firth Paul Mazurkiewicz Signature
 
 ## Playing Style
 
@@ -38,7 +38,7 @@ Kollias is routinely cited among the fastest drummers in death metal, sustaining
 
 ## Kit
 
-George Kollias plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14x6.5" snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), driven by the Pearl Demon Drive double pedal he co-designed and his own Vic Firth George Kollias Signature sticks. Paul Mazurkiewicz plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x6.5" Maple snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks.
+George Kollias plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14x6.5" snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), driven by the Pearl Demon Drive double pedal he co-designed and his own Vic Firth George Kollias Signature sticks. Paul Mazurkiewicz plays a Pearl Reference kit with a Pearl Free-Floating steel snare and Meinl Classics Custom / Byzance Series cymbals, powered by a Pearl Eliminator Double Bass Pedal and his own Vic Firth Paul Mazurkiewicz Signature sticks.
 
 ## Key Differences
 
@@ -58,7 +58,7 @@ George Kollias and Paul Mazurkiewicz represent death metal drumming's two defini
 A: George Kollias is widely regarded as the faster drummer, sustaining blast beats past 280 BPM across full Nile sets using heel-toe double bass technique. Paul Mazurkiewicz favors punishing mid-tempo grooves and shorter blast passages over maximum velocity, prioritizing consistency and riff-serving impact — Cannibal Corpse's brutality is crushing rather than blistering.
 
 **Q: What gear do George Kollias and Paul Mazurkiewicz use?**
-A: George Kollias plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature snare and Zildjian cymbals, driven by the Pearl Demon Drive double pedal he co-designed. Paul Mazurkiewicz plays a Pearl Masters Maple Complete kit with a Pearl Masters Maple snare and Sabian AAX Series cymbals, also using a Pearl Demon Drive double pedal. Both drummers endorse Pearl.
+A: George Kollias plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature snare and Zildjian cymbals, driven by the Pearl Demon Drive double pedal he co-designed. Paul Mazurkiewicz plays a Pearl Reference kit with a Pearl Free-Floating steel snare and Meinl Classics Custom / Byzance Series cymbals, also using a Pearl Eliminator Double Bass Pedal. Both drummers endorse Pearl.
 
 **Q: How long has Paul Mazurkiewicz been Cannibal Corpse's drummer?**
 A: Paul Mazurkiewicz co-founded Cannibal Corpse in Buffalo, New York in 1988 and has performed on every studio album the band has released since their 1990 debut "Eaten Back to Life" — a run of over 35 years and 16 studio albums, making him one of the most consistent drummers in death metal history.
@@ -78,4 +78,4 @@ A: Nile is generally considered more technically complex, built around Egyptian-
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

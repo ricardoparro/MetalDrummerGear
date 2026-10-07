@@ -49,7 +49,7 @@ In the Court of the Dragon closes out a remarkably consistent three-album run fo
 
 What changed was the ambition of the material. Trivium's push into longer, more structurally complex songwriting demanded more from Bent's stamina and dynamic control than either of his first two albums with the band — and the results, both critically and commercially, spoke for themselves.
 
-For the fuller arc, see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that preceded this one, the [The Sin and the Sentence drum setup article](/articles/trivium-sin-and-the-sentence-drum-setup) for Bent's Trivium debut, and the [Shogun drum setup article](/articles/shogun-drum-setup) for Nick Augusto's earlier chapter in Trivium's drumming history.
+For the fuller arc, see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that preceded this one, and the [The Sin and the Sentence drum setup article](/articles/trivium-sin-and-the-sentence-drum-setup) for Bent's Trivium debut.
 
 ## Key Facts
 
@@ -94,7 +94,6 @@ A: In the Court of the Dragon was produced by Josh Wilbur, who also produced The
 - [What the Dead Men Say Drum Setup: Alex Bent's Pandemic-Era Trivium Album (2020)](https://metalforge.io/articles/trivium-what-the-dead-men-say-drum-setup)
 - [The Sin and the Sentence Drum Setup: Alex Bent's Trivium Debut (2017)](https://metalforge.io/articles/trivium-sin-and-the-sentence-drum-setup)
 - [What's In Alex Bent's Trivium Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-alex-bents-kit)
-- [Shogun Drum Setup: Nick Augusto's Progressive Thrash Masterpiece (Trivium, 2008)](https://metalforge.io/articles/shogun-drum-setup)
 
 ## Related Drummers
 
@@ -106,4 +105,4 @@ A: In the Court of the Dragon was produced by Josh Wilbur, who also produced The
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

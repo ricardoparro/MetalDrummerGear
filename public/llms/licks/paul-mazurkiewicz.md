@@ -32,8 +32,8 @@ Paul Mazurkiewicz is the co-founding drummer of Cannibal Corpse and one of the m
 ### Gear Used
 
 - Pearl Reference Kit (drums)
-- Paiste 2002 Cymbals (cymbals)
-- DW 9002 Double Pedal (hardware)
+- Meinl Classics Custom / Byzance Cymbals (cymbals)
+- Pearl Eliminator Double Bass Pedal (hardware)
 - Vic Firth Paul Mazurkiewicz Signature (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove](https://metalforge.io/techniques/groove)
@@ -62,8 +62,8 @@ The title track of Cannibal Corpse's 1992 record is one of Paul Mazurkiewicz's m
 ### Gear Used
 
 - Pearl Reference Kit (drums)
-- Paiste 2002 Cymbals (cymbals)
-- DW 9002 Double Pedal (hardware)
+- Meinl Classics Custom / Byzance Cymbals (cymbals)
+- Pearl Eliminator Double Bass Pedal (hardware)
 - Vic Firth Paul Mazurkiewicz Signature (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove](https://metalforge.io/techniques/groove)
@@ -92,8 +92,8 @@ By 2009 Paul Mazurkiewicz had been Cannibal Corpse's drummer for over two decade
 ### Gear Used
 
 - Pearl Reference Kit (drums)
-- Paiste 2002 Cymbals (cymbals)
-- DW 9002 Double Pedal (hardware)
+- Meinl Classics Custom / Byzance Cymbals (cymbals)
+- Pearl Eliminator Double Bass Pedal (hardware)
 - Vic Firth Paul Mazurkiewicz Signature (sticks)
 
 **Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
@@ -111,4 +111,4 @@ Paul Mazurkiewicz's style is defined by precision, timing, and genre-defining gr
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

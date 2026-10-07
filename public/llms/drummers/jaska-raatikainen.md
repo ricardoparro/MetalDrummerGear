@@ -6,7 +6,7 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jaska-raatikainen"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Jaska Raatikainen — Drum Kit & Gear Setup
@@ -36,7 +36,7 @@ The Jaska Raatikainen drum set centers on a Pearl Masters 14×5.5" Maple snare �
 
 Jaska Raatikainen (born July 18, 1979) was the drummer and co-founder of Finnish melodic death metal band Children of Bodom, formed in 1993. Alongside the late Alexi Laiho, Raatikainen helped create the band's signature sound that blended neoclassical melodies with aggressive death metal.
 
-Jaska Raatikainen (born July 18, 1979, in Espoo, Finland) was the drummer and co-founder of Finnish melodic death metal band Children of Bodom, formed in 1993 (originally as Inearthed). Alongside the late Alexi Laiho (1979-2020), Raatikainen helped create the band's signature sound that blended neoclassical melodies with aggressive death metal.
+Jaska Raatikainen (born July 18, 1979, in Lappeenranta, Finland) was the drummer and co-founder of Finnish melodic death metal band Children of Bodom, formed in 1993 (originally as Inearthed). Alongside the late Alexi Laiho (1979-2020), Raatikainen helped create the band's signature sound that blended neoclassical melodies with aggressive death metal.
 
 Children of Bodom became one of Finland's most successful metal exports, selling over 2 million albums worldwide. Raatikainen's drumming combined blast beats, complex double bass patterns, and progressive elements that complemented Laiho's virtuosic guitar work. The band announced their dissolution in 2019 after 26 years together. Following Alexi Laiho's tragic death in December 2020, Children of Bodom's legacy became permanently sealed in metal history.
 
@@ -238,4 +238,4 @@ Dated brand-endorsement timeline: [Jaska Raatikainen's endorsement history](http
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

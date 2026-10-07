@@ -1,6 +1,6 @@
 # Top 10 Djent Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/djent-metal-drummers)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/djent-metal-drummers)
 
 ---
 
@@ -126,7 +126,7 @@ A: Djent drumming is built around tight, syncopated interplay with palm-muted, p
 A: Meshuggah is universally credited as djent's originating band, with guitarist Fredrik Thordendal's palm-muted "chug" tone giving the genre its onomatopoeic name. Periphery popularized djent commercially in the late 2000s, followed by Animals as Leaders, Tesseract, Monuments, and Vildhjarta. The genre has since blended heavily with metalcore, with bands like August Burns Red, Erra, and modern-era Trivium incorporating djent's polyrhythmic vocabulary into breakdown-driven songwriting.
 
 **Q: What gear do djent drummers use?**
-A: Djent drummers favor kits and cymbals that deliver clear articulation at complex, syncopated tempos. Matt Halpern's Mapex Saturn V kit with Meinl Byzance Series cymbals gives Periphery's polyrhythmic arrangements a controlled, dry attack. Tomas Haake's Sonor kit and Meinl cymbals provide the metronomic clarity Meshuggah's polymeters demand. Across the genre, dry, quick-decaying cymbals and precisely tuned toms help complex rhythmic cells stay legible even at high information density.
+A: Djent drummers favor kits and cymbals that deliver clear articulation at complex, syncopated tempos. Matt Halpern's Mapex Saturn V kit with Meinl Byzance Series cymbals gives Periphery's polyrhythmic arrangements a controlled, dry attack. Tomas Haake's Sonor kit and Sabian HHX/AAX cymbals provide the metronomic clarity Meshuggah's polymeters demand. Across the genre, dry, quick-decaying cymbals and precisely tuned toms help complex rhythmic cells stay legible even at high information density.
 
 
 ---
@@ -146,4 +146,4 @@ A: Djent drummers favor kits and cymbals that deliver clear articulation at comp
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

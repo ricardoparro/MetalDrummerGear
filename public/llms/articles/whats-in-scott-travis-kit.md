@@ -31,7 +31,7 @@ This is the gear that powers heavy metal's longest-running speed demon.
 
 ### Scott's Current Arsenal: ddrum Dominion Series
 
-Scott Travis has been a long-time ddrum endorser, and his setup centers on the Dominion Series shell pack — the platform behind Painkiller and every Priest album since.
+Scott Travis has been a ddrum endorser since 2018's Firepower, and his current setup centers on the Dominion Series shell pack — the third drum-brand era of his Priest tenure, following the Tama Artstar II he played from Painkiller (1990) to 2005 and the Pearl Reference Series he played from 2005 to 2018.
 
 The dual 22" x 18" bass drums are crucial to Travis's sound, producing a commanding low-end that fills arenas without sacrificing definition. Despite running two independent kick drums rather than a connected double pedal, his double bass patterns remain clear and articulate — a testament to both his technique and the Dominion Series's shell design.
 
@@ -65,7 +65,7 @@ The 22" RUDE Power Ride is essential for songs with extended ride work. Heavier 
 
 The RUDE China cymbal provides the trashy explosions that punctuate Priest's heaviest moments. Used sparingly but effectively, it adds aggression that standard crashes can't match.
 
-This cymbal array has remained consistent since Travis joined Priest. He knows what works for their sound and sees no need to chase trends.
+Travis played this Paiste RUDE/2002 combination from Painkiller through the mid-2000s, moved to Sabian HH/AA Hybrid cymbals during the Pearl-kit era (2005-2018), then returned to Paiste RUDE/2002 alongside the ddrum Dominion Series starting with 2018's Firepower — his current setup.
 
 ## The Painkiller Legacy Continues
 
@@ -95,11 +95,11 @@ Heavy metal's speed demon shows no signs of slowing down.
 - "Painkiller" set the benchmark for speed metal drumming
 - 35+ years with Priest — longer than any previous drummer
 - Still touring and recording at the highest level in 2026
-- ddrum Dominion Series — Travis's long-standing shell pack
+- ddrum Dominion Series — Travis's current shell pack, in place since 2018's Firepower
 - Dual bass drums for arena-filling power
 - Two rack toms for melodic flexibility
-- Same basic configuration since Painkiller (1990)
-- Consistency — no gear changes documented across his Priest career
+- Third drum-brand era of his career: Tama (1990-2005) → Pearl (2005-2018) → ddrum (2018-present)
+- Each era's rig stayed consistent in its own stretch — the brand itself has changed twice
 - Estimated kit value: $6,000-8,000 (new) / $4,000-6,000 (used)
 - Estimated snare value: $600-900 (new)
 
@@ -107,7 +107,7 @@ Heavy metal's speed demon shows no signs of slowing down.
 
 **Q: What drum kit does Scott Travis use with Judas Priest?**
 
-A: Scott Travis plays the ddrum Dominion Series shell pack — his long-time endorsement, unchanged since Painkiller (1990). His configuration includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The shell pack gives Travis the deep, powerful tone that anchors Judas Priest's arena rock and heavy metal sound, with the durability required for decades of touring.
+A: Scott Travis plays the ddrum Dominion Series shell pack, his current kit since 2018's Firepower — the third drum-brand era of his Priest tenure after the Tama Artstar II he used from Painkiller (1990) to 2005 and the Pearl Reference Series he played from 2005 to 2018. His current configuration includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The shell pack gives Travis the deep, powerful tone that anchors Judas Priest's arena rock and heavy metal sound, with the durability required for decades of touring.
 
 **Q: What cymbals does Scott Travis use with Judas Priest?**
 
@@ -134,4 +134,4 @@ A: Scott Travis's ddrum Dominion Series shell pack is estimated at $6,000 to $8,
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

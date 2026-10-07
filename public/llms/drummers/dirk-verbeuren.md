@@ -6,7 +6,7 @@ country: "Belgium"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dirk-verbeuren"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Dirk Verbeuren — Drum Kit & Gear Setup
@@ -23,13 +23,13 @@ Dirk Verbeuren's drum kit and gear setup. Dirk Verbeuren is a professional metal
 | Genre | Thrash Metal / Melodic Death Metal |
 | Country | Belgium |
 | Primary brand | Tama |
-| Drum kit | Tama Starclassic Walnut/Birch |
-| Signature snare | Tama S.L.P. Big Black Steel 14x6.5" |
+| Drum kit | Tama Starclassic Maple |
+| Signature snare | Tama S.L.P. Dynamic Bronze 14x5.5" |
 | Sticks | Tama O-DVM2 Dirk Verbeuren Signature |
 
 ## Kit Overview
 
-Dirk Verbeuren plays a Tama Starclassic Walnut/Birch drum kit — a hybrid shell combination chosen for the tight low end and articulate attack needed to anchor Megadeth's thrash riffing while still translating the melodic death metal groove he built over eighteen years with Soilwork. The heart of the Dirk Verbeuren drum set is a Tama S.L.P. Big Black Steel 14x6.5" snare, a dark, aggressive-sounding steel shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.
+Dirk Verbeuren plays a Tama Starclassic Maple drum kit — an all-maple shell configuration chosen for the deep, punchy low end and articulate attack needed to anchor Megadeth's thrash riffing while still translating the melodic death metal groove he built over eighteen years with Soilwork. The heart of the Dirk Verbeuren drum set is a Tama S.L.P. Dynamic Bronze 14x5.5" snare, a warm, cutting bronze shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp backbeat live.
 
 Meinl Byzance Brilliant and Classics Custom Dark cymbals shape the tonal palette of the Dirk Verbeuren drum kit: a 14" Byzance Brilliant Hi-Hat for crisp, controlled chops during rapid thrash picking patterns; 18", 19", 20", and 21" Classics Custom Dark Crashes stacked for layered accents; a 22" Byzance Brilliant Ride for definition through Megadeth's technical arrangements; and an 18" Byzance Brilliant China for abrupt punctuation. Tama Speed Cobra 910 double pedals deliver the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth's The Sick, the Dying... and the Dead! era, while Tama O-DVM2 Dirk Verbeuren Signature sticks and Evans heads complete a setup built for both precision and power.
 
@@ -96,8 +96,8 @@ Dirk Verbeuren's drumming style bridges melodic death metal technicality with th
 
 ## Gear
 
-- **Drums:** Tama Starclassic Walnut/Birch
-- **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
+- **Drums:** Tama Starclassic Maple
+- **Snare:** Tama S.L.P. Dynamic Bronze 14x5.5"
 - **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
 - **Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
 - **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
@@ -120,11 +120,11 @@ Dirk Verbeuren's drumming style bridges melodic death metal technicality with th
 
 **Q: What drum kit does Dirk Verbeuren use?**
 
-A: Dirk Verbeuren's drum kit is a Tama Starclassic Walnut/Birch hybrid shell kit, chosen for the tight low end and articulate attack needed to anchor Megadeth's thrash riffing. It centers on a Tama S.L.P. Big Black Steel 14"x6.5" snare and is topped with Meinl Byzance Brilliant and Classics Custom Dark cymbals, driven by Tama Speed Cobra 910 double pedals.
+A: Dirk Verbeuren's drum kit is a Tama Starclassic Maple hybrid shell kit, chosen for the tight low end and articulate attack needed to anchor Megadeth's thrash riffing. It centers on a Tama S.L.P. Dynamic Bronze 14"x5.5" snare and is topped with Meinl Byzance Brilliant and Classics Custom Dark cymbals, driven by Tama Speed Cobra 910 double pedals.
 
 **Q: What drum set does Dirk Verbeuren use?**
 
-A: Dirk Verbeuren's drum set is a Tama Starclassic Walnut/Birch configuration built around his dark, aggressive-sounding Tama S.L.P. Big Black Steel 14"x6.5" snare. The drum set carries Meinl Byzance Brilliant and Classics Custom Dark cymbals, Tama Speed Cobra 910 double pedals, and his signature Tama O-DVM2 sticks.
+A: Dirk Verbeuren's drum set is a Tama Starclassic Maple configuration built around his warm, resonant Tama S.L.P. Dynamic Bronze 14"x5.5" snare. The drum set carries Meinl Byzance Brilliant and Classics Custom Dark cymbals, Tama Speed Cobra 910 double pedals, and his signature Tama O-DVM2 sticks.
 
 **Q: What cymbals does Dirk Verbeuren use?**
 
@@ -132,7 +132,7 @@ A: Dirk Verbeuren uses Meinl Byzance Brilliant and Classics Custom Dark cymbals:
 
 **Q: What snare drum does Dirk Verbeuren play?**
 
-A: Dirk Verbeuren plays a Tama S.L.P. Big Black Steel 14"x6.5" snare, a dark, aggressive-sounding steel shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.
+A: Dirk Verbeuren plays a Tama S.L.P. Dynamic Bronze 14"x5.5" snare, a warm, resonant bronze shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.
 
 **Q: What bass drum pedals does Dirk Verbeuren use?**
 
@@ -148,7 +148,7 @@ A: Dirk Verbeuren uses his signature Tama O-DVM2 Dirk Verbeuren drumsticks.
 
 **Q: What drumheads does Dirk Verbeuren use?**
 
-A: Dirk Verbeuren uses Evans drumheads across his Tama Starclassic Walnut/Birch kit.
+A: Dirk Verbeuren uses Evans drumheads across his Tama Starclassic Maple kit.
 
 **Q: What size bass drum does Dirk Verbeuren use?**
 
@@ -242,4 +242,4 @@ Dated brand-endorsement timeline: [Dirk Verbeuren's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

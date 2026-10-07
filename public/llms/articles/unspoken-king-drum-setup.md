@@ -27,7 +27,7 @@ Explore Flo Mounier's complete gear history at [What's In Flo Mounier's Kit](/ar
 - **Drums:** Yamaha Recording Custom Series (Natural Wood / Solid Black finish)
 - **Snare:** Yamaha Recording Custom Steel Snare, 14" x 5.5"
 - **Cymbals:** Zildjian — ZXT Series
-- **Hardware / Pedals:** DW 9002 Double Pedal; DW 9000 Hi-Hat Stand; Roc-n-Soc Nitro Throne; Vic Firth 5A American Classic
+- **Hardware / Pedals:** Double pedal setup (specific brand/model not publicly documented); Hi-hat stand (specific brand/model not publicly documented); Roc-n-Soc Nitro Throne; Vic Firth 5A American Classic
 - **Heads:** Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Moderate-high tension — reduced from Once Was Not for dynamic versatility while maintaining blast beat clarity
 
@@ -136,4 +136,4 @@ A: On The Unspoken King (2008), Flo Mounier continued using the Zildjian ZXT ser
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

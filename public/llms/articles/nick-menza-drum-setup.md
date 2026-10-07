@@ -30,11 +30,11 @@ This article covers Nick Menza's complete drum gear across his Megadeth career: 
 
 ### Nick's Pearl Masters Custom
 
-By the Countdown to Extinction era (1992), Nick Menza had transitioned from the Tama Swingstar he used on Rust in Peace to a Pearl Masters Custom kit — Pearl's flagship maple shell offering of the period. The Pearl Masters Custom was the instrument of choice for countless professional rock and metal drummers of the early-to-mid 1990s, and for good reason: its pure maple construction delivered warmth, sustain, and natural projection that suited both stadium touring and studio recording.
+By the Countdown to Extinction era (1992), Nick Menza had transitioned from the Tama Artstar II he used on Rust in Peace to a Pearl Masters Custom kit — Pearl's flagship maple shell offering of the period. The Pearl Masters Custom was the instrument of choice for countless professional rock and metal drummers of the early-to-mid 1990s, and for good reason: its pure maple construction delivered warmth, sustain, and natural projection that suited both stadium touring and studio recording.
 
 Menza's Pearl setup featured a standard large-shell configuration appropriate for thrash metal: double 22" bass drums generating the thunderous low-end foundation that Megadeth's music demanded, with a four-tom layout providing the range needed for the complex, melodic fills that characterized his playing. The 10" and 12" rack toms alongside 14" and 16" floors gave him a wide tonal palette — useful when constructing the kind of musically considered fill work that appeared throughout Countdown to Extinction and Youthanasia.
 
-The maple shells suited Menza's style particularly well. In the Rust in Peace era he had relied on the poplar shells of the Tama Swingstar — a tighter, drier tone from a mid-range, working drummer's kit. The Pearl Masters Custom's maple warmth softened slightly as Megadeth moved into the more melodic, commercially oriented sound of Countdown to Extinction. This wasn't a compromise — it was the right tool for a band evolving toward arena-rock production values while retaining thrash intensity.
+The maple shells suited Menza's style particularly well. In the Rust in Peace era he had relied on the birch shells of the Tama Artstar II — a tighter, more focused tone from a pro-tier kit. The Pearl Masters Custom's maple warmth softened slightly as Megadeth moved into the more melodic, commercially oriented sound of Countdown to Extinction. This wasn't a compromise — it was the right tool for a band evolving toward arena-rock production values while retaining thrash intensity.
 
 Pearl's hardware system of the period gave Menza reliable mount points, tom arms, and bass drum positioning for live setups that changed nightly on major world tours. The stability and consistency of Pearl's rack and mount system was well-suited to the demands of heavy touring.
 
@@ -89,12 +89,12 @@ For deeper study:
 - Primary kit: Pearl Masters Custom (Countdown to Extinction era onward)
 - Cymbals: Zildjian A and A Custom series — bright, cutting thrash tones
 - Pedals: Tama Iron Cobra double pedal for sustained double-kick work
-- Rust in Peace era: Tama Swingstar kit with Tama Steel snare
+- Rust in Peace era: Tama Artstar II kit with Tama Steel snare
 - Passed away May 2016 — legacy endures through Rust in Peace and Countdown to Extinction
 - Pearl Masters Custom — flagship Pearl maple shell kit, early-to-mid 1990s
 - Double 22" bass drums for independent double-kick feel
 - Four-tom configuration: 10", 12", 14", 16" for melodic fill range
-- Maple construction: warmer tone than Rust in Peace-era Tama poplar
+- Maple construction: warmer tone than Rust in Peace-era Tama birch
 - Used through Countdown to Extinction (1992), Youthanasia (1994), Cryptic Writings (1997)
 - Estimated kit value: $2,000–4,000 (vintage Pearl Masters Custom shell pack)
 - Estimated snare value: $300–600 (depending on era and shell material)
@@ -103,7 +103,7 @@ For deeper study:
 
 **Q: What drums did Nick Menza play?**
 
-A: Nick Menza used a Tama Swingstar kit (poplar shells) during the Rust in Peace era, then transitioned to Pearl Masters Custom (maple shells) from the Countdown to Extinction era onward. The Pearl Masters Custom became his primary instrument through Youthanasia and Cryptic Writings, and he maintained the Pearl relationship for the remainder of his Megadeth career.
+A: Nick Menza used a Tama Artstar II kit (birch shells) during the Rust in Peace era, then transitioned to Pearl Masters Custom (maple shells) from the Countdown to Extinction era onward. The Pearl Masters Custom became his primary instrument through Youthanasia and Cryptic Writings, and he maintained the Pearl relationship for the remainder of his Megadeth career.
 
 **Q: What snare drum was used on Rust in Peace?**
 
@@ -136,4 +136,4 @@ A: Nick Menza's jazz education — he was the son of jazz saxophonist Don Menza 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

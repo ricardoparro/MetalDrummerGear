@@ -18,9 +18,9 @@ Converge/Mutoid Man's Ben Koller vs Death/Iced Earth's Richard Christy — blist
 
 ## Richard Christy Setup
 
-- **Drums:** Pearl Custom Z
+- **Drums:** Pearl Masters Custom
 - **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)
-- **Snare:** Pearl Custom Z 14x6.5" Maple
+- **Snare:** Pearl Masters Custom 14x6.5" Maple
 - **Pedals/Hardware:** Axis A Longboard Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
@@ -67,4 +67,4 @@ A: Beyond his technical death metal career, Richard Christy has worked on The Ho
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

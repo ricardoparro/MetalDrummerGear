@@ -8,34 +8,38 @@
 
 ## Current Endorsements
 
-### Drums: Yamaha
+### Drums: Tama
 
-Eloy Casagrande endorses Yamaha for drums. This partnership began in 2010s.
+Eloy Casagrande endorses Tama for drums. This partnership began in 2010s.
 
 ### Cymbals: Paiste
 
 Eloy Casagrande endorses Paiste for cymbals. They play the Paiste 2002, Formula 602, Masters. This partnership began in 2005.
 
-### Drumsticks: Vic Firth
+### Drumsticks: Promark
 
-Eloy Casagrande endorses Vic Firth for drumsticks. This partnership began in 2010s.
+Eloy Casagrande endorses Promark for drumsticks. They play the Promark Eloy Casagrande Signature. This partnership began in 2010s. Eloy Casagrande has a co-designed signature product with Promark.
 
 ### Drumheads: Evans
 
 Eloy Casagrande endorses Evans for drumheads. This partnership began in 2010s.
 
+## Signature Models
+
+- Promark Eloy Casagrande Signature (signature)
+
 ## Endorsement History
 
 - **2005** (Cymbals): Signed with Paiste — Became Paiste artist at age 17, youngest to sign with the brand at the time
-- **2024** (Drums): Signed (Yamaha) — Maintained Yamaha endorsement after joining Slipknot
+- **2024** (Drums): Signed (Tama) — Maintained Tama Starclassic Bubinga endorsement after joining Slipknot
 
 ## FAQ
 
 **Q: What brands does Eloy Casagrande endorse?**
-A: Eloy Casagrande endorses Yamaha, Paiste, Vic Firth, Evans. Their primary drum endorsement is Yamaha and they play Paiste cymbals.
+A: Eloy Casagrande endorses Tama, Paiste, Promark, Evans. Their primary drum endorsement is Tama and they play Paiste cymbals.
 
 **Q: Does Eloy Casagrande have a signature drum or cymbal?**
-A: Eloy Casagrande is a key Yamaha endorser but does not have a dedicated signature kit model in the current lineup.
+A: Yes. Eloy Casagrande has signature gear: Promark Eloy Casagrande Signature (signature).
 
 **Q: What is Eloy Casagrande's endorsement history?**
 A: See the Endorsement History section above for a full timeline of Eloy Casagrande's brand deals.
@@ -50,4 +54,4 @@ A: See the Endorsement History section above for a full timeline of Eloy Casagra
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

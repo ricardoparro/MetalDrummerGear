@@ -6,7 +6,7 @@ country: "Germany"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/hannes-grossmann"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Hannes Grossmann — Drum Kit & Gear Setup
@@ -37,7 +37,7 @@ Meinl's Byzance Series cymbals define the kit's tonal character: 14" Byzance Tra
 
 Hannes Grossmann (born September 8, 1982) is a German drummer, composer, and producer known for his work with Obscura, Necrophagist, Blotted Science, and Alkaloid. Widely regarded as one of the most technically proficient drummers in death metal, his playing combines classical music influences with extreme metal precision.
 
-Hannes Grossmann (born September 8, 1982, in Freising, Germany) is a German drummer, composer, and producer widely regarded as one of the most technically proficient drummers in extreme metal. His playing combines classical music influences with precision extreme metal technique, creating a unique style that bridges technical death metal with progressive and jazz elements.
+Hannes Grossmann (born September 8, 1982, in Bayreuth, Germany) is a German drummer, composer, and producer widely regarded as one of the most technically proficient drummers in extreme metal. His playing combines classical music influences with precision extreme metal technique, creating a unique style that bridges technical death metal with progressive and jazz elements.
 
 Grossmann first gained international recognition as the drummer for Necrophagist (2004-2010), one of the most influential technical death metal bands. He subsequently co-founded Obscura, where he helped define the progressive technical death metal sound. Beyond performing, he is an accomplished composer and producer who has worked on numerous metal productions from his studio in Germany.
 
@@ -230,4 +230,4 @@ Dated brand-endorsement timeline: [Hannes Grossmann's endorsement history](https
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

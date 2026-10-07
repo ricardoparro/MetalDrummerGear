@@ -31,9 +31,9 @@ George Kollias is widely regarded as one of the fastest and most technically sop
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
-- Tama Iron Cobra HP900 Double Pedal (pedals)
-- Paiste Signature Series (cymbals)
+- Pearl Masterworks Series Kit (drums)
+- Pearl Demon XR Pedals (pedals)
+- Zildjian A Custom Series (cymbals)
 
 **Core Techniques:** [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll), [Extreme Speed](https://metalforge.io/techniques/extreme-speed)
 
@@ -60,9 +60,9 @@ George Kollias is widely regarded as one of the fastest and most technically sop
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
-- Tama Iron Cobra HP900 Double Pedal (pedals)
-- Paiste Signature Series (cymbals)
+- Pearl Masterworks Series Kit (drums)
+- Pearl Demon XR Pedals (pedals)
+- Zildjian A Custom Series (cymbals)
 
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Independence](https://metalforge.io/techniques/independence), [Odd Groupings](https://metalforge.io/techniques/odd-groupings)
 
@@ -89,8 +89,8 @@ George Kollias is widely regarded as one of the fastest and most technically sop
 
 ### Gear Used
 
-- Pearl Reference Pure (drums)
-- Tama Iron Cobra HP900 Double Pedal (pedals)
+- Pearl Masterworks Series Kit (drums)
+- Pearl Demon XR Pedals (pedals)
 - Evans Hybrid Heads (heads)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Stamina](https://metalforge.io/techniques/stamina), [Double Bass](https://metalforge.io/techniques/double-bass)
@@ -108,4 +108,4 @@ George Kollias's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

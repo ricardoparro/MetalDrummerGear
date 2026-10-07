@@ -25,7 +25,7 @@ For drummers tracing the arc between Among the Living (1987) and Persistence of 
 - **Drums:** Tama Tama Granstar (Black finish)
 - **Snare:** Tama Tama Bell Brass, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002 / RUDE
-- **Hardware / Pedals:** Tama HP35 Camco; Tama Titan Hi-Hat Stand; Tama Titan / Stage Master; Tama 1st Chair; Pro-Mark Hickory 2B
+- **Hardware / Pedals:** Chain-drive pedal (specific model unconfirmed); Tama Titan Hi-Hat Stand; Tama Titan / Stage Master; Tama 1st Chair; Pro-Mark Hickory 2B
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** High tension for cut and articulation, with snare wires tensioned tight
 
@@ -61,7 +61,7 @@ Multiple crashes in 16", 17", and 18" sizes gave him dynamic range. The 16" prov
 
 State of Euphoria sits in a critical place in Charlie Benante's recorded history. It follows the watershed Among the Living, precedes the more ambitious Persistence of Time, and captures Charlie at the precise moment his identity as a working endorser stabilised — Tama drums, Paiste cymbals, Pro-Mark sticks, Remo heads. Everything that would define his sound for the next two decades is in place on this record.
 
-For drummers studying his evolution, State of Euphoria is the album where the Tama Granstar bridges the Artstar II of Among the Living and the kits to come; where the Tama Bell Brass snare provides one of the most prominent recorded examples of that legendary shell; where the Tama HP35 Camco pedals continue the chain-drive legacy that lasted until 2010; and where Charlie's Remo drumhead endorsement makes its first fully credited Anthrax appearance.
+For drummers studying his evolution, State of Euphoria is the album where the Tama Granstar bridges the Artstar II of Among the Living and the kits to come; where the Tama Bell Brass snare provides one of the most prominent recorded examples of that legendary shell; where his chain-drive pedal setup continues the legacy that lasted until his eventual switch to Speed Cobra pedals; and where Charlie's Remo drumhead endorsement makes its first fully credited Anthrax appearance.
 
 Producer Mark Dodson's tighter, drier, more forward approach gave the album a distinctly different sonic personality from its predecessor — and the result is a record that sounds unmistakably late-80s thrash, full of the upper-midrange aggression that defined the era. It remains essential listening for anyone tracing the lineage of Big Four thrash drumming.
 
@@ -125,4 +125,4 @@ A: State of Euphoria debuted at #30 on the Billboard 200 — Anthrax's highest c
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

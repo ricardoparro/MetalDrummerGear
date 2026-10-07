@@ -18,11 +18,11 @@ Limp Bizkit's John Otto vs Avenged Sevenfold's Arin Ilejay — jazz-schooled hip
 
 ## Arin Ilejay Setup
 
-- **Drums:** Mapex Saturn Series
+- **Drums:** DW Collector's Series
 - **Cymbals:** Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China)
-- **Snare:** Mapex Black Panther 14x6.5"
-- **Pedals/Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
-- **Sticks:** Vic Firth American Classic 5A
+- **Snare:** DW Collector's Series
+- **Pedals/Hardware:** DW 9000 Series Double Pedal
+- **Sticks:** Promark 5B
 
 ## Playing Style
 
@@ -34,7 +34,7 @@ Otto studied jazz at the Douglas Anderson School of the Arts and channels that t
 
 ## Key Differences
 
-John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual OCDP snares — a 14x6.5" 40-ply vented shell and a 10x6" 20-ply piccolo — and Zildjian cymbals (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom), driven by Gibraltar G Class bass drum pedals. Arin Ilejay played a Mapex Saturn Series kit with a Mapex Black Panther 14x6.5" snare and Zildjian A Custom cymbals (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China), powered by a Mapex Falcon double pedal — the documented setup from his 2011-2015 A7X tenure. Otto studied jazz at the Douglas Anderson School of the Arts and channels that training into syncopated, pocket-driven grooves and funky ghost notes, treating hip-hop's rhythmic feel as the backbone of Limp Bizkit's rap-metal attack rather than raw speed or technical display. Ilejay favors a powerful, straightforward approach built for song service, playing deliberately retro, mid-tempo grooves and direct fills that matched "Hail to the King"'s classic heavy metal songwriting rather than the polyrhythmic complexity of Avenged Sevenfold's earlier progressive material.
+John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual OCDP snares — a 14x6.5" 40-ply vented shell and a 10x6" 20-ply piccolo — and Zildjian cymbals (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom), driven by Gibraltar Professional Series bass drum pedals. Arin Ilejay played a DW Collector's Series kit with a DW Collector's Series snare and Zildjian A Custom cymbals (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China), powered by a DW 9000 Series double pedal — the documented setup from his 2011-2015 A7X tenure. Otto studied jazz at the Douglas Anderson School of the Arts and channels that training into syncopated, pocket-driven grooves and funky ghost notes, treating hip-hop's rhythmic feel as the backbone of Limp Bizkit's rap-metal attack rather than raw speed or technical display. Ilejay favors a powerful, straightforward approach built for song service, playing deliberately retro, mid-tempo grooves and direct fills that matched "Hail to the King"'s classic heavy metal songwriting rather than the polyrhythmic complexity of Avenged Sevenfold's earlier progressive material.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ John Otto and Arin Ilejay both drove Billboard No. 1 albums for genre-defining b
 A: John Otto has been Limp Bizkit's only drummer since co-founding the band in 1994, known for jazz-schooled, hip-hop-influenced groove and pocket. Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, bringing a straightforward, classic-metal-influenced power style to the band's "Hail to the King" album.
 
 **Q: What gear do John Otto and Arin Ilejay use?**
-A: John Otto plays an OCDP Custom Type 5 Acrylic kit with dual OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class bass drum pedals. Arin Ilejay played a Mapex Saturn Series kit with a Mapex Black Panther snare and Zildjian A Custom cymbals, powered by a Mapex Falcon double pedal, during his 2011-2015 Avenged Sevenfold tenure.
+A: John Otto plays an OCDP Custom Type 5 Acrylic kit with dual OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series bass drum pedals. Arin Ilejay played a DW Collector's Series kit with a DW Collector's Series snare and Zildjian A Custom cymbals, powered by a DW 9000 Series double pedal, during his 2011-2015 Avenged Sevenfold tenure.
 
 **Q: What bands are John Otto and Arin Ilejay known for?**
 A: John Otto co-founded and still drums for Limp Bizkit, formed in Jacksonville, Florida, in 1994. Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King," and previously played with Confide.
@@ -67,4 +67,4 @@ A: Arin Ilejay joined Avenged Sevenfold in 2011 following the death of founding 
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

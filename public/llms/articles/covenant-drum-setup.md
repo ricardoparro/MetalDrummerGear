@@ -16,7 +16,7 @@ When Morbid Angel released *Covenant* on June 22, 1993, they accomplished someth
 
 *Covenant* is the culmination of the Morbid Angel trilogy that began with *Altars of Madness* (1989) and evolved through *Blessed Are the Sick* (1991). Where *Altars* was raw aggression and *Blessed Are the Sick* was expansive and experimental, *Covenant* found the perfect balance: brutality with precision, speed with intent, atmosphere without sacrificing the blast.
 
-For Pete Sandoval, this album marks a cymbal endorsement transition — from Paiste to Sabian — while his ddrum kit endorsement continued (the specific series remains unconfirmed across his career). The technique reached a new benchmark too: by 1993, Pete's double-bass pedal independence at 230+ BPM had become the standard against which all death metal drummers measured themselves.
+For Pete Sandoval, this album continued his ddrum kit endorsement (the specific series remains unconfirmed across his career; his cymbal brand has never been publicly documented). The technique reached a new benchmark too: by 1993, Pete's double-bass pedal independence at 230+ BPM had become the standard against which all death metal drummers measured themselves.
 
 Recorded again at Morrisound Recording in Tampa with producer Tom Morris and engineer Scott Burns, *Covenant* captured a drummer who had absorbed the lessons of *Blessed Are the Sick* — the dynamic range, the rhythmic vocabulary, the patience — and deployed them with newfound confidence. "Pain Divine," "Rapture," "Angel of Disease," and the slow-burning "God of Emptiness" showcase a drummer who could do everything at the highest level.
 
@@ -26,7 +26,7 @@ This article breaks down every piece of gear Pete Sandoval used on *Covenant*, e
 
 - **Drums:** ddrum ddrum (specific series unconfirmed) (Unconfirmed finish)
 - **Snare:** ddrum ddrum (specific model unconfirmed), 14" x 6.5"
-- **Cymbals:** Sabian — Sabian Signature Series
+- **Cymbals:** Unconfirmed — Unconfirmed
 - **Hardware / Pedals:** ddrum (specific pedal model unconfirmed); ddrum (specific model unconfirmed); ddrum (specific model unconfirmed); Pro-Mark 5B Wood Tip
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** High tension for blast beat clarity; relaxed for "God of Emptiness" atmospheric passages
@@ -51,21 +51,15 @@ On "Rapture" and "Pain Divine," the snare crack sits prominently in Scott Burns'
 
 The 14" x 6.5" dimensions remained Pete's preferred configuration throughout the trilogy. At this size, the snare carries enough body for musical dynamics while delivering the cut needed in a death metal mix.
 
-### The Sabian Transition: Brighter, Sharper, Faster
+### Cymbals: Unconfirmed
 
-*Covenant* marks Pete Sandoval's complete departure from the Paiste 2002 and RUDE series he had used through the first two Morbid Angel albums. The Sabian AA and Signature series brought a brighter, tighter, faster-responding voice to Pete's setup — and on an album where tempo and precision are everything, that response speed was essential.
-
-The Sabian hi-hats are the most immediately noticeable change. Where the Paiste 2002 Sound Edge delivers a warm, slightly complex sound well-suited to slower passages, the Sabian AA Medium Hi-Hats respond with a sharper, more percussive attack. At 230+ BPM, this attack edge keeps Pete's foot hi-hat articulation audible in the mix — not smeared into a sustained hiss, but defined and rhythmically clear.
-
-The crash cymbal selection also shifted character. Sabian's AA series crashes decay faster than the Paiste 2002 equivalent — which, counterintuitively, is an advantage at extreme tempos. Shorter decay means Pete can layer crash accents in rapid succession without each sustaining into the next. "Rapture" and "Pain Divine" both feature crash work that would blur under the longer-sustaining Paiste approach.
-
-The China cymbal earned a defining role on *Covenant*. Its placement above the floor tom allowed Pete to mark Trey Azagthoth's most angular riff transitions with a sound that cut through the mix without requiring a pause in the double-bass pattern.
+Pete Sandoval's cymbal choice for *Covenant* has not been publicly documented. No verified source confirms a brand or model for this or any other era of his career, so this page won't assign him one.
 
 ## The Death Metal Benchmark
 
 *Covenant* closes the early Morbid Angel trilogy by achieving what neither predecessor could alone: it brought death metal's most uncompromising drumming to a mainstream audience without softening it.
 
-The gear story is one of deliberate evolution. Deeper 22x18" bass drums replaced the earlier 22x16" setup — more mass, more resonance, more authority. Sabian AA cymbals replaced Paiste 2002 — faster response, sharper attack, better-suited to 230+ BPM precision. The Morrisound infrastructure remained constant, but Scott Burns adapted his approach to honor the new gear's character while maintaining the direct, close-miked clarity that had defined the previous two albums.
+The gear story is one of deliberate evolution. Deeper 22x18" bass drums replaced the earlier 22x16" setup — more mass, more resonance, more authority. The Morrisound infrastructure remained constant, and Scott Burns maintained the direct, close-miked clarity that had defined the previous two albums.
 
 Pete Sandoval in 1993 was the complete death metal drummer. Fast enough to define the genre's upper velocity limit. Patient enough to anchor "God of Emptiness" with ceremonial restraint. Precise enough to record 230+ BPM double bass in a way that the next 30 years of drummers are still studying.
 
@@ -85,7 +79,7 @@ Thirty years on, "Pain Divine" still sounds like it was recorded yesterday — b
 
 - Third Morbid Angel album — completes the Altars → Blessed Are the Sick → Covenant trilogy
 - First death metal album to chart in 10 countries simultaneously
-- Pete Sandoval transitions to Sabian cymbal endorsement
+- Pete Sandoval's double-bass pedal independence reaches its career peak
 - Double-bass pedal independence at 230+ BPM — the death metal benchmark
 - Recorded at Morrisound with Tom Morris and Scott Burns
 - "God of Emptiness" slow dirge contrasts with peak-velocity blast tracks
@@ -109,15 +103,15 @@ A: Pete Sandoval's double-bass pedal technique on *Covenant* reached sustained s
 
 **Q: How does Covenant differ from Altars of Madness and Blessed Are the Sick in terms of drumming?**
 
-A: The three albums represent Pete Sandoval's complete development arc. *Altars of Madness* (1989) was pure aggression — maximum velocity on his ddrum kit with Paiste 2002 cymbals. *Blessed Are the Sick* (1991) expanded the dynamic range with Egyptian and Middle Eastern rhythmic influences, slower atmospheric passages, and a third rack tom. *Covenant* (1993) completed the trilogy by synthesizing both: the refined speed of the debut and the dynamic intelligence of the sophomore record. Deeper 22x18" bass drums and the transition to Sabian cymbals reinforced this evolution — greater low-end authority and faster-responding cymbals for precision at 230+ BPM. See [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup) and [Blessed Are the Sick drum setup](/articles/blessed-are-the-sick-drum-setup) for the full arc.
+A: The three albums represent Pete Sandoval's complete development arc. *Altars of Madness* (1989) was pure aggression — maximum velocity on his ddrum kit. *Blessed Are the Sick* (1991) expanded the dynamic range with Egyptian and Middle Eastern rhythmic influences, slower atmospheric passages, and a third rack tom. *Covenant* (1993) completed the trilogy by synthesizing both: the refined speed of the debut and the dynamic intelligence of the sophomore record. Deeper 22x18" bass drums reinforced this evolution, giving the double-bass patterns greater low-end authority at 230+ BPM. See [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup) and [Blessed Are the Sick drum setup](/articles/blessed-are-the-sick-drum-setup) for the full arc.
 
 **Q: What cymbals did Pete Sandoval use on Covenant?**
 
-A: Pete Sandoval switched from Paiste (used on *Altars of Madness* and *Blessed Are the Sick*) to Sabian for the *Covenant* sessions in 1993. His Sabian AA setup included 14-inch AA Medium Hi-Hats, 16 and 18-inch AA Medium Crashes, a 17-inch AA Rock Crash, a 20-inch AA Metal Ride, and an 18-inch AA China. The Sabian AA series is brighter and faster-decaying than the Paiste 2002 and RUDE series he had used previously — a characteristic that suited the increased tempos on *Covenant*, keeping crash accents cleanly separated and hi-hat articulation defined at 230+ BPM blast sections.
+A: Pete Sandoval's cymbal brand for *Covenant* has not been publicly documented. No verified source confirms a specific make or model, so this page does not assign him one.
 
 **Q: Why is Covenant considered Morbid Angel's commercial breakthrough?**
 
-A: *Covenant* (1993) was the first death metal album to chart in 10 countries simultaneously, selling over 200,000 copies — unprecedented commercial numbers for the genre. Released on Giant Records in the US (in addition to Earache in Europe), the album had mainstream distribution that bypassed the underground-only channels of its predecessors. The songwriting balanced extreme brutality with more accessible song structures, and producer Tom Morris's *Covenant* drum sound — built around Pete Sandoval's deeper 22x18" bass drums and new Sabian cymbal setup — had a weight and authority that connected with mainstream metal audiences without compromising the extremity that death metal fans expected.
+A: *Covenant* (1993) was the first death metal album to chart in 10 countries simultaneously, selling over 200,000 copies — unprecedented commercial numbers for the genre. Released on Giant Records in the US (in addition to Earache in Europe), the album had mainstream distribution that bypassed the underground-only channels of its predecessors. The songwriting balanced extreme brutality with more accessible song structures, and producer Tom Morris's *Covenant* drum sound — built around Pete Sandoval's deeper 22x18" bass drums — had a weight and authority that connected with mainstream metal audiences without compromising the extremity that death metal fans expected.
 
 ## Related Articles
 
@@ -135,4 +129,4 @@ A: *Covenant* (1993) was the first death metal album to chart in 10 countries si
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

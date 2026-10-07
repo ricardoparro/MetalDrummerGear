@@ -18,7 +18,7 @@ Produced by Carl Canedy (drummer of The Rods) at Pyramid Sound Studios in Ithaca
 
 The album opens with 'A.I.R.' and within eight bars it's clear this is a different beast. The double bass drives the main riff with a locked, mechanical precision that was years ahead of the competition. 'Madhouse' became Anthrax's signature song and remains one of the most-cited tracks in thrash history — its mid-tempo groove underpinned by Benante's perfect snare placement and hi-hat command. 'Lone Justice,' 'Aftershock,' and 'Medusa' showed that this wasn't a band that front-loaded albums with their best material; Spreading the Disease maintained intensity across all nine tracks.
 
-For drummers, the album documents a key moment in Charlie Benante's development: the gear configuration was settling into its first endorsement-era shape (Tama drums, Paiste 2002 and RUDE cymbals, the HP35 Camco pedals he'd started using in 1984), and the techniques that would define his reputation — blast beats in a metal context, sustained double-bass triplet figures, compositional fills that served arrangements — were being committed to tape for the first time in their fully realised form.
+For drummers, the album documents a key moment in Charlie Benante's development: the gear configuration was settling into its first endorsement-era shape (Tama drums, Paiste 2002 and RUDE cymbals, the chain-drive pedal setup he was using at the time), and the techniques that would define his reputation — blast beats in a metal context, sustained double-bass triplet figures, compositional fills that served arrangements — were being committed to tape for the first time in their fully realised form.
 
 This article documents every piece of equipment Charlie Benante used to record Spreading the Disease and connects the album to its place in the arc that leads to Among the Living (1987) and beyond.
 
@@ -27,7 +27,7 @@ This article documents every piece of equipment Charlie Benante used to record S
 - **Drums:** Tama Tama Artstar (Black finish)
 - **Snare:** Tama Tama Artstar Steel Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002 / RUDE
-- **Hardware / Pedals:** Tama HP35 Camco; Tama Titan Hi-Hat Stand; Tama 1st Chair; Pro-Mark Hickory 2B
+- **Hardware / Pedals:** Chain-drive pedal (specific model unconfirmed); Tama Titan Hi-Hat Stand; Tama 1st Chair; Pro-Mark Hickory 2B
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** High tension for maximum crack and attack
 
@@ -65,7 +65,7 @@ The 22" 2002 Heavy Ride provided the bell clarity and sustain control needed at 
 
 Spreading the Disease is where the Charlie Benante story begins in earnest — not because Fistful of Metal didn't exist, but because everything that defines the Anthrax sound arrived here simultaneously. Joey Belladonna's voice, Scott Ian and Dan Spitz's twin-guitar aggression, Frank Bello's rumbling bass, and Charlie Benante's technically advanced, compositionally intelligent drumming: this is the lineup that wrote the Anthrax chapter of thrash history, and Spreading the Disease is its opening statement.
 
-For drummers, the album is a study in priorities. Benante was already one of thrash's most technically accomplished practitioners in 1985, but the gear choices and production approach on Spreading the Disease reflect the priorities he has maintained for four decades: gear that serves the music, technique that serves the song, and innovations that expand the vocabulary rather than merely display it. The HP35 Camco pedals he started using in 1984 appear here for the first time on a full-length Anthrax album. The Paiste 2002 Sound Edge hi-hats deliver the crisp, defined patterns that have driven Anthrax grooves ever since. The dual Tama bass drums establish the physical foundation of the most sustained double-bass technique in Big Four thrash.
+For drummers, the album is a study in priorities. Benante was already one of thrash's most technically accomplished practitioners in 1985, but the gear choices and production approach on Spreading the Disease reflect the priorities he has maintained for four decades: gear that serves the music, technique that serves the song, and innovations that expand the vocabulary rather than merely display it. The chain-drive pedal setup he relied on for years appears here for the first time on a full-length Anthrax album. The Paiste 2002 Sound Edge hi-hats deliver the crisp, defined patterns that have driven Anthrax grooves ever since. The dual Tama bass drums establish the physical foundation of the most sustained double-bass technique in Big Four thrash.
 
 Tracks like 'Madhouse' and 'A.I.R.' have remained in Anthrax's live set for four decades not because the band is nostalgic, but because the material is genuinely great — and at the core of that greatness is Charlie Benante's drumming. 'Madhouse' in particular has become one of the most-searched Anthrax drum topics on the internet because it represents something rare: a song where the drums are simultaneously appropriate for the song and undeniably impressive on their own terms.
 
@@ -78,7 +78,7 @@ For the full Charlie Benante gear story, visit the [Charlie Benante drummer prof
 - Produced by Carl Canedy (drummer of The Rods)
 - Features 'Madhouse' — one of the most-cited thrash metal songs ever recorded
 - Benante's blast beats and double-bass innovations captured in their earliest full studio form
-- Tama Artstar kit with Paiste 2002 / RUDE cymbals and HP35 Camco pedals
+- Tama Artstar kit with Paiste 2002 / RUDE cymbals and a chain-drive pedal setup
 - Two separate 22" bass drums — the foundation of Benante's pioneering double-bass technique
 - Birch shells for punchy, articulate attack suited to thrash production
 - Three-rack, single-floor configuration for melodic fill vocabulary
@@ -103,7 +103,7 @@ A: Charlie Benante used Paiste cymbals on Spreading the Disease, combining the 2
 
 **Q: What pedals did Charlie Benante use on Spreading the Disease?**
 
-A: Charlie Benante used Tama HP35 Camco chain-drive pedals on Spreading the Disease — the same pedals he had started using in 1984 and would continue to use for 26 years until Tama discontinued the line in 2010. The Camco's direct, responsive chain-drive feel was the mechanical foundation of Benante's pioneering sustained double-bass technique. Spreading the Disease is likely the first full Anthrax album recorded with these legendary pedals.
+A: Charlie Benante used a chain-drive pedal setup on Spreading the Disease — the same type of setup he relied on for years before eventually switching to Tama Speed Cobra pedals in the 2010s. The direct, responsive chain-drive feel was the mechanical foundation of Benante's pioneering sustained double-bass technique. Spreading the Disease is likely the first full Anthrax album recorded with this setup.
 
 **Q: Who produced Spreading the Disease and where was it recorded?**
 
@@ -111,7 +111,7 @@ A: Spreading the Disease was produced by Carl Canedy — drummer of The Rods —
 
 **Q: How does Spreading the Disease fit in Charlie Benante's drum setup arc?**
 
-A: Spreading the Disease is the opening chapter of Charlie Benante's classic-era gear arc. It documents his first full album on Tama Artstar drums and HP35 Camco pedals, his early Paiste 2002/RUDE cymbal setup, and the nascent form of the double-bass and blast-beat techniques that would be fully refined on Among the Living (1987) and Persistence of Time (1990). For the next chapter in his gear evolution, see the Among the Living drum setup breakdown.
+A: Spreading the Disease is the opening chapter of Charlie Benante's classic-era gear arc. It documents his first full album on Tama Artstar drums and a chain-drive pedal setup, his early Paiste 2002/RUDE cymbal setup, and the nascent form of the double-bass and blast-beat techniques that would be fully refined on Among the Living (1987) and Persistence of Time (1990). For the next chapter in his gear evolution, see the Among the Living drum setup breakdown.
 
 ## Related Articles
 
@@ -131,4 +131,4 @@ A: Spreading the Disease is the opening chapter of Charlie Benante's classic-era
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

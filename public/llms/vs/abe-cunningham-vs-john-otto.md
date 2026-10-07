@@ -34,7 +34,7 @@ Cunningham's technique emphasizes dynamic control and textural sensitivity — h
 
 ## Key Differences
 
-Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit and Zildjian K Custom & A Custom Series cymbals (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China), powered by a Tama Iron Cobra 900 Rolling Glide. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual OCDP snares (a 14x6.5" 40-ply vented shell and a 10x6" 20-ply piccolo) and Zildjian A Custom cymbals (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom), driven by Gibraltar G Class bass drum pedals. Cunningham's technique emphasizes dynamic control and textural sensitivity — his fills and groove patterns are composed to serve Deftones' atmospheric, shoegaze-adjacent passages one moment and crushing detuned riffs the next, requiring restraint as much as power. Otto's technique centers on a deep sense of groove and pocket drawn from hip-hop and funk, favoring tight snare work and syncopated patterns over speed or technicality, giving Limp Bizkit's rap-metal fusion its rhythmic backbone.
+Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit and Zildjian K Custom & A Custom Series cymbals (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China), powered by a Tama Iron Cobra 900 Rolling Glide. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual OCDP snares (a 14x6.5" 40-ply vented shell and a 10x6" 20-ply piccolo) and Zildjian A Custom cymbals (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom), driven by Gibraltar Professional Series bass drum pedals. Cunningham's technique emphasizes dynamic control and textural sensitivity — his fills and groove patterns are composed to serve Deftones' atmospheric, shoegaze-adjacent passages one moment and crushing detuned riffs the next, requiring restraint as much as power. Otto's technique centers on a deep sense of groove and pocket drawn from hip-hop and funk, favoring tight snare work and syncopated patterns over speed or technicality, giving Limp Bizkit's rap-metal fusion its rhythmic backbone.
 
 ## Influence & Legacy
 
@@ -53,7 +53,7 @@ A: Both are foundational nu-metal era drummers with different strengths. Abe Cun
 A: Deftones' Abe Cunningham favors dynamic, textural playing that serves the band's shifts between heaviness and atmosphere, heard on albums like "White Pony" (2000) and "Diamond Eyes" (2010). Limp Bizkit's John Otto favors a tighter, more groove-based approach rooted in hip-hop and funk, driving tracks like "Rollin'" and "Break Stuff" from "Significant Other" (1999) and "Chocolate Starfish and the Hot Dog Flavored Water" (2000).
 
 **Q: What gear do Abe Cunningham and John Otto use?**
-A: Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit with Zildjian K Custom & A Custom Series cymbals and a Tama Iron Cobra 900 Rolling Glide. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with Zildjian A Custom cymbals and Gibraltar G Class bass drum pedals.
+A: Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit with Zildjian K Custom & A Custom Series cymbals and a Tama Iron Cobra 900 Rolling Glide. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with Zildjian A Custom cymbals and Gibraltar Professional Series bass drum pedals.
 
 **Q: How long have Abe Cunningham and John Otto been with their bands?**
 A: Abe Cunningham has been Deftones' drummer since the band formed in 1988, appearing on every studio album. John Otto has been Limp Bizkit's drummer and a founding member since the band formed in Jacksonville, Florida in 1994.
@@ -67,4 +67,4 @@ A: Abe Cunningham has been Deftones' drummer since the band formed in 1988, appe
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

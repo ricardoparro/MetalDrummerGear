@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers' Signature & Standout Pedal Lines — Complete Ranked Guide
 
-> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-pedal-lines)
+> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-pedal-lines)
 
 ---
 
@@ -71,10 +71,10 @@ Full drummer profile: [Tomas Haake on MetalForge](https://metalforge.io/drummer/
 ### 6. Nicko McBrain
 
 **Band:** Iron Maiden
-**Highlight:** A single Sonor pedal — no double bass across a 40-plus year career
-**Why ranked here:** Nicko McBrain has used a single bass drum and a single pedal throughout his entire tenure with Iron Maiden — from a Ludwig Speed King in 1983 to his current Sonor pedal — never once adopting a double pedal despite the galloping, triplet-heavy speed his playing demands. That single-pedal foundation, proven across landmark albums including "Piece of Mind" (1983), "Powerslave" (1984), and "Somewhere in Time" (1986), remains one of the most distinctive technical traits among professional metal drummers, most of whom reach for a second kick to hit similar speeds. McBrain earns rank #6 for the longest continuous single-pedal career in modern metal.
+**Highlight:** A single DW pedal — no double bass across a 40-plus year career
+**Why ranked here:** Nicko McBrain has used a single bass drum and a single pedal throughout his entire tenure with Iron Maiden — a DW pedal adopted in 1984 and kept ever since — never once adopting a double pedal despite the galloping, triplet-heavy speed his playing demands. That single-pedal foundation, proven across landmark albums including "Piece of Mind" (1983), "Powerslave" (1984), and "Somewhere in Time" (1986), remains one of the most distinctive technical traits among professional metal drummers, most of whom reach for a second kick to hit similar speeds. McBrain earns rank #6 for the longest continuous single-pedal career in modern metal.
 
-Nicko McBrain (Iron Maiden) earns rank #6 for: a single sonor pedal — no double bass across a 40-plus year career. Nicko McBrain has used a single bass drum and a single pedal throughout his entire tenure with Iron Maiden — from a Ludwig Speed King in 1983 to his current Sonor pedal — never once adopting a double pedal despite the galloping, triplet-heavy speed his playing demands. That single-pedal foundation, proven across landmark albums including "Piece of Mind" (1983), "Powerslave" (1984), and "Somewhere in Time" (1986), remains one of the most distinctive technical traits among professional metal drummers, most of whom reach for a second kick to hit similar speeds. McBrain earns rank #6 for the longest continuous single-pedal career in modern metal..
+Nicko McBrain (Iron Maiden) earns rank #6 for: a single dw pedal — no double bass across a 40-plus year career. Nicko McBrain has used a single bass drum and a single pedal throughout his entire tenure with Iron Maiden — a DW pedal adopted in 1984 and kept ever since — never once adopting a double pedal despite the galloping, triplet-heavy speed his playing demands. That single-pedal foundation, proven across landmark albums including "Piece of Mind" (1983), "Powerslave" (1984), and "Somewhere in Time" (1986), remains one of the most distinctive technical traits among professional metal drummers, most of whom reach for a second kick to hit similar speeds. McBrain earns rank #6 for the longest continuous single-pedal career in modern metal..
 
 Full drummer profile: [Nicko McBrain on MetalForge](https://metalforge.io/drummer/nicko-mcbrain)
 
@@ -101,20 +101,20 @@ Full drummer profile: [Lars Ulrich on MetalForge](https://metalforge.io/drummer/
 ### 9. Charlie Benante
 
 **Band:** Anthrax / S.O.D.
-**Highlight:** Tama Speed Cobra with Roland triggers — thrash precision meets modern triggering
-**Why ranked here:** Charlie Benante drives Anthrax's skank-beat-driven thrash patterns on a Tama Speed Cobra double pedal fitted with Roland electronic triggers, a combination that pairs Speed Cobra's lightweight, rapid-response action with modern triggered clarity for his unconventional left-handed-on-a-right-handed-kit technique. That triggered setup distinguishes Benante's pedal choice from the purely acoustic approach several other drummers on this list deliberately maintain. Benante earns rank #9 for a pedal setup that documents thrash's adoption of modern triggering technology.
+**Highlight:** Tama Speed Cobra — thrash precision for an unconventional technique
+**Why ranked here:** Charlie Benante drives Anthrax's skank-beat-driven thrash patterns on a Tama Speed Cobra double pedal, whose lightweight, rapid-response action suits his unconventional left-handed-on-a-right-handed-kit technique. Benante earns rank #9 for a pedal setup built around that distinctive playing style.
 
-Charlie Benante (Anthrax / S.O.D.) earns rank #9 for: tama speed cobra with roland triggers — thrash precision meets modern triggering. Charlie Benante drives Anthrax's skank-beat-driven thrash patterns on a Tama Speed Cobra double pedal fitted with Roland electronic triggers, a combination that pairs Speed Cobra's lightweight, rapid-response action with modern triggered clarity for his unconventional left-handed-on-a-right-handed-kit technique. That triggered setup distinguishes Benante's pedal choice from the purely acoustic approach several other drummers on this list deliberately maintain. Benante earns rank #9 for a pedal setup that documents thrash's adoption of modern triggering technology..
+Charlie Benante (Anthrax / S.O.D.) earns rank #9 for: tama speed cobra — thrash precision for an unconventional technique. Charlie Benante drives Anthrax's skank-beat-driven thrash patterns on a Tama Speed Cobra double pedal, whose lightweight, rapid-response action suits his unconventional left-handed-on-a-right-handed-kit technique. Benante earns rank #9 for a pedal setup built around that distinctive playing style..
 
 Full drummer profile: [Charlie Benante on MetalForge](https://metalforge.io/drummer/charlie-benante)
 
 ### 10. Chris Adler
 
 **Band:** Lamb of God
-**Highlight:** Mapex Falcon — Lamb of God's syncopated, riff-locking double bass engine
-**Why ranked here:** Chris Adler drives Lamb of God's syncopated, riff-locking grooves on a Mapex Falcon double pedal, the mechanical foundation beneath the machine-gun double bass work that powered Grammy-nominated albums like "Ashes of the Wake" and "Sacrament." The Falcon's role in Adler's setup, alongside his Mapex Chris Adler Signature snare, reflects a pedal chosen for precise, syncopated attack rather than the pure top-end speed that defines several other entries on this list. Adler earns rank #10 for a pedal engineered around groove-metal syncopation rather than blast-beat velocity.
+**Highlight:** Trick Pro1-V Bigfoot — Lamb of God's syncopated, riff-locking double bass engine
+**Why ranked here:** Chris Adler drives Lamb of God's syncopated, riff-locking grooves on a Trick Pro1-V Bigfoot double pedal, the mechanical foundation beneath the machine-gun double bass work that powered Grammy-nominated albums like "Ashes of the Wake" and "Sacrament." The Pro1-V's role in Adler's setup, alongside his Mapex Chris Adler Signature snare, reflects a pedal chosen for precise, syncopated attack rather than the pure top-end speed that defines several other entries on this list. Adler earns rank #10 for a pedal engineered around groove-metal syncopation rather than blast-beat velocity.
 
-Chris Adler (Lamb of God) earns rank #10 for: mapex falcon — lamb of god's syncopated, riff-locking double bass engine. Chris Adler drives Lamb of God's syncopated, riff-locking grooves on a Mapex Falcon double pedal, the mechanical foundation beneath the machine-gun double bass work that powered Grammy-nominated albums like "Ashes of the Wake" and "Sacrament." The Falcon's role in Adler's setup, alongside his Mapex Chris Adler Signature snare, reflects a pedal chosen for precise, syncopated attack rather than the pure top-end speed that defines several other entries on this list. Adler earns rank #10 for a pedal engineered around groove-metal syncopation rather than blast-beat velocity..
+Chris Adler (Lamb of God) earns rank #10 for: trick pro1-v bigfoot — lamb of god's syncopated, riff-locking double bass engine. Chris Adler drives Lamb of God's syncopated, riff-locking grooves on a Trick Pro1-V Bigfoot double pedal, the mechanical foundation beneath the machine-gun double bass work that powered Grammy-nominated albums like "Ashes of the Wake" and "Sacrament." The Pro1-V's role in Adler's setup, alongside his Mapex Chris Adler Signature snare, reflects a pedal chosen for precise, syncopated attack rather than the pure top-end speed that defines several other entries on this list. Adler earns rank #10 for a pedal engineered around groove-metal syncopation rather than blast-beat velocity..
 
 Full drummer profile: [Chris Adler on MetalForge](https://metalforge.io/drummer/chris-adler)
 
@@ -152,4 +152,4 @@ A: Derek Roddy pairs a standard Tama Speed Cobra 910 Double Pedal with his own i
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

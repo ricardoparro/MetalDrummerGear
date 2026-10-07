@@ -89,8 +89,8 @@ Matt Greiner is one of Metalcore / Christian Metal's most influential drummers, 
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
-- Meinl Byzance Cymbals (cymbals)
+- Mapex Black Panther Design Lab (drums)
+- Paiste Formula 602 (cymbals)
 - Double Bass Pedals (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
@@ -282,4 +282,4 @@ Matt Greiner's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

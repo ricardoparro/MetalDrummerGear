@@ -27,7 +27,7 @@ This article explores the gear Abe used during the Saturday Night Wrist sessions
 - **Drums:** Tama Tama Starclassic Maple/Birch (Custom finish finish)
 - **Snare:** Tama Tama Steel / Brass Snare, 14" x 6.5"
 - **Cymbals:** Zildjian — A Custom / K Custom
-- **Hardware / Pedals:** Tama Iron Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Zildjian 5A / Artist Series
+- **Hardware / Pedals:** Tama Iron Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark (non-signature)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tuning — versatile across aggressive and atmospheric sections
 
@@ -140,4 +140,4 @@ A: Yes — Saturday Night Wrist (2006) is the last Deftones studio album to feat
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

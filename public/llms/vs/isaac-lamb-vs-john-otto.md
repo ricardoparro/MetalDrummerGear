@@ -34,7 +34,7 @@ Lamb prioritizes devastating breakdown timing and consistent, direct-drive kick 
 
 ## Key Differences
 
-Lamb endorses SJC Custom Drums and Meinl Cymbals; his specific kit and cymbal models are not publicly documented. Otto plays an OCDP Custom Type 5 Acrylic kit with Zildjian A Custom cymbals and Gibraltar G Class bass drum pedals. Lamb prioritizes devastating breakdown timing and consistent, direct-drive kick response over flash, built for hardcore's relentless touring demands. Otto blends tight rock power with hip-hop pocket and syncopation, defining nu metal's groove-forward rhythmic identity.
+Lamb endorses SJC Custom Drums and Meinl Cymbals; his specific kit and cymbal models are not publicly documented. Otto plays an OCDP Custom Type 5 Acrylic kit with Zildjian A Custom cymbals and Gibraltar Professional Series bass drum pedals. Lamb prioritizes devastating breakdown timing and consistent, direct-drive kick response over flash, built for hardcore's relentless touring demands. Otto blends tight rock power with hip-hop pocket and syncopation, defining nu metal's groove-forward rhythmic identity.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Isaac Lamb and John Otto both built their identities around groove over flash �
 ## FAQ
 
 **Q: What are the main differences between Isaac Lamb's and John Otto's drum kits?**
-A: Isaac Lamb plays Not publicly documented with Not cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. Lamb endorses SJC Custom Drums and Meinl Cymbals; his specific kit and cymbal models are not publicly documented. Otto plays an OCDP Custom Type 5 Acrylic kit with Zildjian A Custom cymbals and Gibraltar G Class bass drum pedals.
+A: Isaac Lamb plays Not publicly documented with Not cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. Lamb endorses SJC Custom Drums and Meinl Cymbals; his specific kit and cymbal models are not publicly documented. Otto plays an OCDP Custom Type 5 Acrylic kit with Zildjian A Custom cymbals and Gibraltar Professional Series bass drum pedals.
 
 **Q: What drums does Isaac Lamb play vs John Otto?**
 A: Isaac Lamb plays Not publicly documented. John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic.
@@ -67,4 +67,4 @@ A: Isaac Lamb uses Not publicly documented. John Otto uses Zildjian (13" A Custo
 
 ---
 
-*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -27,7 +27,7 @@ Steven Wilson's production on "Damnation" captured Lopez's performance with part
 - **Drums:** Sonor Sonor Designer Series (Natural Maple finish)
 - **Snare:** Sonor Sonor Designer Maple Snare, 14" x 5.5"
 - **Cymbals:** Sabian — Sabian HH Hand Hammered Series
-- **Hardware / Pedals:** DW 5000 Double Pedal; Sonor 600 Series Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5A / Rute 505 Brushes
+- **Hardware / Pedals:** Sonor 600 Series Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5A / Rute 505 Brushes
 - **Heads:** Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium — sensitive response across brush and light stick dynamics
 
@@ -121,4 +121,4 @@ A: Opeth's Damnation was produced by Steven Wilson (Porcupine Tree), recorded si
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

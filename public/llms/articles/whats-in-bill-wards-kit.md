@@ -1,6 +1,6 @@
 # What's In Bill Ward's Kit: The Godfather of Metal Drumming's Legendary Setup
 
-> Discover the drums, cymbals, and gear behind the first heavy metal drummer. Complete breakdown of Bill Ward's classic Ludwig and Slingerland setups from Black Sabbath's golden era, plus how to get his iconic sound today.
+> Discover the drums, cymbals, and gear behind the first heavy metal drummer. Complete breakdown of Bill Ward's classic Ludwig setup from Black Sabbath's golden era, plus how to get his iconic sound today.
 
 **Type:** Kit Breakdown
 **Drummer(s):** [Bill Ward](/llms/drummers/bill-ward.md)
@@ -21,7 +21,7 @@ Now in his late 70s, Bill Ward's playing days may be behind him (he didn't parti
 
 ## Gear Breakdown
 
-- **Drums:** Ludwig Ludwig Vistalite / Standard Maple (Clear Vistalite / Natural Maple finish)
+- **Drums:** Ludwig Ludwig Standard / Club Date Series (Natural Maple finish)
 - **Snare:** Ludwig Ludwig Supraphonic 400 / LM402, 14" x 6.5"
 - **Cymbals:** Zildjian — Super Zyn / Avedis Zildjian
 - **Hardware / Pedals:** Ludwig Speed King; Ludwig Atlas; Standard round seat; 2B or similar heavy sticks
@@ -30,17 +30,13 @@ Now in his late 70s, Bill Ward's playing days may be behind him (he didn't parti
 
 ### Bill's Classic Ludwig Setup
 
-Bill Ward's drum setup throughout Black Sabbath's classic era (1970-1978) was relatively simple by modern standards — but devastatingly effective. He primarily used Ludwig drums, switching between the iconic Vistalite acrylic shells and traditional maple configurations.
+Bill Ward's drum setup throughout Black Sabbath's classic era (1970-1978) was relatively simple by modern standards — but devastatingly effective. He primarily used Ludwig's Standard / Club Date Series maple drums.
 
-The Ludwig Vistalite drums of the early 1970s became synonymous with rock excess — their clear acrylic shells looked spectacular on stage. Bill used various Vistalite setups during Sabbath's peak touring years. The acrylic shells provided a bright, cutting tone that projected well in the large arenas Sabbath was filling.
-
-However, for studio work, Bill often preferred Ludwig's standard maple drums. The 3-ply maple shells with reinforcement rings offered warmer tones and better recording characteristics. The "Paranoid" album's drum sound — punchy yet organic — came from these traditional shells.
+The 3-ply maple shells with reinforcement rings offered warm tones and reliable recording characteristics. The "Paranoid" album's drum sound — punchy yet organic — came from these shells.
 
 Bill's setup was compact: typically a 24" bass drum, one rack tom (13"), and one or two floor toms (16" and sometimes 18"). No double bass. No massive tom arrays. Just the essentials, played with jazz-influenced finesse and proto-metal power.
 
 The 24" bass drum was standard for rock drummers of the era — slightly larger than today's typical 22" — providing the deep, thunderous foundation that Sabbath's downtuned riffs demanded. Bill tuned it low and punchy, creating the "doom" sound that would influence generations of metal.
-
-Bill also used Slingerland drums at various points, particularly the Radio King series known for their solid construction and warm tone. The Radio King's single-ply maple shells offered a different character — slightly drier, more controlled — that suited certain Sabbath material.
 
 ### The Sound of Heavy Metal: Supraphonic
 
@@ -89,7 +85,7 @@ He didn't just invent heavy metal drumming. He proved that jazz and metal were n
 - Simple setup: kick, one rack tom, one or two floor toms
 - No double bass — single pedal throughout career
 - 24" bass drum for maximum low-end
-- Vistalite for stage, maple for studio
+- Ludwig Standard / Club Date maple shells throughout
 - Influenced by jazz setups rather than rock excess
 - Estimated kit value: $1,500-3,000 (1970s) / $4,000-12,000 (vintage today)
 - Estimated snare value: $300-400 (1970s) / $500-800 (vintage today)
@@ -132,4 +128,4 @@ A: Virtually every metal drummer owes a debt to Bill Ward, whether direct or ind
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

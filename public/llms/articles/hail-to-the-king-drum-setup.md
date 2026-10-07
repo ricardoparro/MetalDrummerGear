@@ -1,6 +1,6 @@
 # Arin Ilejay's Drum Setup on Avenged Sevenfold's Hail to the King (2013)
 
-> Complete breakdown of Arin Ilejay's drum setup on Avenged Sevenfold's Hail to the King (2013). Mapex Saturn Series kit, Zildjian A Custom cymbals, Mapex Falcon double pedal — the gear behind A7X's #1 Billboard 200 album.
+> Complete breakdown of Arin Ilejay's drum setup on Avenged Sevenfold's Hail to the King (2013). DW Collector's Series kit, Zildjian A Custom cymbals, DW 9000 Series double pedal — the gear behind A7X's #1 Billboard 200 album.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Arin Ilejay](/llms/drummers/arin-ilejay.md)
@@ -22,28 +22,28 @@ The album debuted at #1 in the US, UK, Ireland, Canada, Brazil, and Finland, eve
 
 ## Gear Breakdown
 
-- **Drums:** Mapex Mapex Saturn Series (Various finishes during A7X's Hail to the King era finish)
-- **Snare:** Mapex Mapex Black Panther 14" x 6.5" Snare, 14" x 6.5"
+- **Drums:** DW DW Collector's Series (Various finishes during A7X's Hail to the King era finish)
+- **Snare:** DW DW Collector's Series 14" x 6.5" Snare, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Custom
-- **Hardware / Pedals:** Mapex Falcon Double Bass Pedal; Vic Firth American Classic 5A; Mapex T865
+- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Promark 5B; DW 9000 Series
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension for power and cut in heavy metal guitar environments
 
-### Arin Ilejay's Studio Kit: Mapex Saturn Series
+### Arin Ilejay's Studio Kit: DW Collector's Series
 
-Arin Ilejay's Mapex Saturn Series kit is one of Mapex's professional touring lineups and a proven choice in mainstream metal. The Saturn Series shells are built for a combination of attack, projection, and tonal clarity that serves arena-scale metal better than smaller studio kits.
+Arin Ilejay's DW Collector's Series kit is one of DW's professional touring lineups and a proven choice in mainstream metal. The Collector's Series shells are built for a combination of attack, projection, and tonal clarity that serves arena-scale metal better than smaller studio kits.
 
 The double bass drum configuration was a practical requirement for A7X's live show. Two 22" x 18" kick drums provided the low-frequency mass that projects across arena floors. Three rack toms (10", 12", 14") and two floor toms (16", 18") gave Ilejay sufficient range for A7X's expansive arrangements — from the galloping double-bass patterns of "This Means War" to the straightforward heavy metal power of the title track.
 
-Ilejay's style on Hail to the King prioritized punch and authority over complexity. The Saturn Series' attack-focused character aligned with the album's production philosophy: big, direct, classic. Songs like "Shepherd of Fire" and "Doing Time" demanded drums that could anchor arena arrangements without clutter.
+Ilejay's style on Hail to the King prioritized punch and authority over complexity. The Collector's Series' attack-focused character aligned with the album's production philosophy: big, direct, classic. Songs like "Shepherd of Fire" and "Doing Time" demanded drums that could anchor arena arrangements without clutter.
 
-### The Snare: Mapex Black Panther
+### The Snare: DW Collector's Series
 
-The snare sound on Hail to the King is authoritative and direct — a dry, punchy crack that anchors each track's groove without excessive sustain. Ilejay's Mapex Black Panther 14" x 6.5" snare balances power with enough articulation for rapid strokes across faster passages.
+The snare sound on Hail to the King is authoritative and direct — a dry, punchy crack that anchors each track's groove without excessive sustain. Ilejay's DW Collector's Series 14" x 6.5" snare balances power with enough articulation for rapid strokes across faster passages.
 
 Mike Elizondo's production approach on Hail to the King prioritized natural drum capture. The snare was tuned in the medium range — enough tension for attack and crack, low enough for the body that classic heavy metal production demands. Songs like "Hail to the King" and "Shepherd of Fire" required a snare that could sit at the front of a dense, layered arrangement without disappearing into the guitar frequencies.
 
-The Black Panther series was a fitting choice for the classic aesthetic A7X pursued on this album — delivering the depth and controlled crack needed to sit at the front of a dense, layered arrangement without disappearing into the guitar frequencies.
+The Collector's Series construction was a fitting choice for the classic aesthetic A7X pursued on this album — delivering the depth and controlled crack needed to sit at the front of a dense, layered arrangement without disappearing into the guitar frequencies.
 
 ### The Zildjian A Custom Arsenal
 
@@ -57,7 +57,7 @@ The 20" A Custom Ride provided clear bell definition for riding passages — a b
 
 ## The Kit That Carried A7X to #1
 
-Hail to the King stands as the definitive document of Arin Ilejay's tenure with Avenged Sevenfold — a #1 Billboard 200 album that achieved massive mainstream reach while making a deliberate case for classic heavy metal values. The Mapex Saturn Series kit, Zildjian A Custom cymbals, and Mapex Falcon double pedal were the tools Ilejay used to deliver that vision, chosen for their projection, reliability, and the authority they brought to arena stages across a two-year world tour.
+Hail to the King stands as the definitive document of Arin Ilejay's tenure with Avenged Sevenfold — a #1 Billboard 200 album that achieved massive mainstream reach while making a deliberate case for classic heavy metal values. The DW Collector's Series kit, Zildjian A Custom cymbals, and DW 9000 Series double pedal were the tools Ilejay used to deliver that vision, chosen for their projection, reliability, and the authority they brought to arena stages across a two-year world tour.
 
 Ilejay's approach on Hail to the King — restrained, powerful, in service of the song rather than the drummer — was itself a statement. In a band defined by The Rev's extraordinary technical personality, Ilejay chose a different path: prove that A7X could make a great heavy metal record without replicating what made The Rev irreplaceable. Whether that approach succeeded is debated among A7X fans, but the commercial result is not: Hail to the King debuted at #1 in multiple countries and remains one of the most commercially successful mainstream heavy metal albums of the 2010s.
 
@@ -67,10 +67,10 @@ For the full Arin Ilejay gear story, see the [Arin Ilejay drummer profile](/drum
 
 - Hail to the King debuted at #1 on the Billboard 200 — A7X's first #1 US album
 - Only full studio album Arin Ilejay recorded as official A7X drummer
-- Mapex Saturn Series kit — professional-grade arena shells
+- DW Collector's Series kit — professional-grade arena shells
 - Zildjian A Custom cymbals throughout — bright, cutting, built for large-venue projection
 - Deliberate classic hard rock influence — Sabbath, Metallica, Maiden — distinct from The Rev era
-- Mapex Saturn Series — Mapex's professional touring kit, maple shell construction
+- DW Collector's Series — DW's professional touring kit, maple shell construction
 - Arena-ready finish matching the album's classic heavy metal visual references
 - Double bass drums for live flexibility across A7X's full catalogue
 - Three-rack-tom configuration for fill range across complex arrangements
@@ -82,7 +82,7 @@ For the full Arin Ilejay gear story, see the [Arin Ilejay drummer profile](/drum
 
 **Q: What drums did Arin Ilejay use on Hail to the King?**
 
-A: Arin Ilejay recorded Hail to the King (2013) using a Mapex Saturn Series drum kit. His configuration included double 22" x 18" bass drums, three rack toms (10", 12", 14"), and two floor toms (16", 18"). The shells are built for attack, projection, and tonal clarity — essential characteristics for the arena-scale performances A7X's touring demands. The Saturn Series is one of Mapex's professional touring lineups, used by drummers across mainstream metal.
+A: Arin Ilejay recorded Hail to the King (2013) using a DW Collector's Series drum kit. His configuration included double 22" x 18" bass drums, three rack toms (10", 12", 14"), and two floor toms (16", 18"). The shells are built for attack, projection, and tonal clarity — essential characteristics for the arena-scale performances A7X's touring demands. The Collector's Series is one of DW's professional touring lineups, used by drummers across mainstream metal.
 
 **Q: Why did Arin Ilejay leave Avenged Sevenfold?**
 
@@ -90,11 +90,11 @@ A: Arin Ilejay's departure from Avenged Sevenfold in late 2014 was not accompani
 
 **Q: What is the drum setup on Hail to the King?**
 
-A: The drum setup on Avenged Sevenfold's Hail to the King (2013) centers on a Mapex Saturn Series kit, a Mapex Black Panther 14" x 6.5" snare, Zildjian A Custom cymbals (14" hi-hats, 16", 18", and 19" crashes, 20" ride, and a China), and a Mapex Falcon double bass pedal. Drummer Arin Ilejay played Vic Firth American Classic 5A sticks. The production, handled by Mike Elizondo, prioritized a punchy, direct drum sound that matched the album's deliberate classic heavy metal aesthetic.
+A: The drum setup on Avenged Sevenfold's Hail to the King (2013) centers on a DW Collector's Series kit, a DW Collector's Series 14" x 6.5" snare, Zildjian A Custom cymbals (14" hi-hats, 16", 18", and 19" crashes, 20" ride, and a China), and a DW 9000 Series double bass pedal. Drummer Arin Ilejay played Promark 5B sticks. The production, handled by Mike Elizondo, prioritized a punchy, direct drum sound that matched the album's deliberate classic heavy metal aesthetic.
 
 **Q: How does Arin Ilejay's kit on Hail to the King compare to The Rev's setup?**
 
-A: The Rev (Jimmy Sullivan) played a Pearl kit with Zildjian cymbals during Avenged Sevenfold's earlier era — notably on City of Evil (2005) and Avenged Sevenfold (2007). His approach was technically extravagant, with jazz-influenced fills and unconventional patterns that set him apart from most mainstream metal drummers. Arin Ilejay's Mapex Saturn Series setup on Hail to the King (2013) reflects a completely different philosophy: power and authority in service of the album's classic metal aesthetic, rather than technical showmanship. The gear choices — Mapex over Pearl, Zildjian A Custom throughout — are broadly comparable in quality tier, but the playing approach and production context are distinctly different. Ilejay deliberately did not try to replicate The Rev's style.
+A: The Rev (Jimmy Sullivan) played a Pearl kit with Zildjian cymbals during Avenged Sevenfold's earlier era — notably on City of Evil (2005) and Avenged Sevenfold (2007). His approach was technically extravagant, with jazz-influenced fills and unconventional patterns that set him apart from most mainstream metal drummers. Arin Ilejay's DW Collector's Series setup on Hail to the King (2013) reflects a completely different philosophy: power and authority in service of the album's classic metal aesthetic, rather than technical showmanship. The gear choices — DW over Pearl, Zildjian A Custom throughout — are broadly comparable in quality tier, but the playing approach and production context are distinctly different. Ilejay deliberately did not try to replicate The Rev's style.
 
 ## Related Articles
 
@@ -112,4 +112,4 @@ A: The Rev (Jimmy Sullivan) played a Pearl kit with Zildjian cymbals during Aven
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

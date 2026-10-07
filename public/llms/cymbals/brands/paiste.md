@@ -19,21 +19,21 @@
 
 | Drummer | Band | Cymbal Setup |
 |---------|------|--------------|
-| [Bill Ward](https://metalforge.io/cymbals/setups/bill-ward) | Black Sabbath | Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China) |
-| [Daniel Erlandsson](https://metalforge.io/cymbals/setups/daniel-erlandsson) | Arch Enemy | Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride) |
+| [Aquiles Priester](https://metalforge.io/cymbals/setups/aquiles-priester) | Angra / W.A.S.P. | Paiste Custom red-coated set (18" Psychoctopus Giga Bell Ride) |
 | [Daray](https://metalforge.io/cymbals/setups/daray) | Dimmu Borgir / Vader | Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride) |
 | [Dave Lombardo](https://metalforge.io/cymbals/setups/dave-lombardo) | Slayer | Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China) |
 | [Eloy Casagrande](https://metalforge.io/cymbals/setups/eloy-casagrande) | Slipknot | Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong) |
 | [Hellhammer](https://metalforge.io/cymbals/setups/hellhammer) | Mayhem | Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China) |
-| [Igor Cavalera](https://metalforge.io/cymbals/setups/igor-cavalera) | Sepultura / Cavalera Conspiracy / Soulwax | Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China) |
 | [Inferno](https://metalforge.io/cymbals/setups/inferno) | Behemoth | Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China) |
 | [Joey Jordison](https://metalforge.io/cymbals/setups/joey-jordison) | Slipknot | Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride) |
+| [Matt Greiner](https://metalforge.io/cymbals/setups/matt-greiner) | August Burns Red | Paiste Formula 602 (14" Hi-Hats, 16", 17" & 18" Crashes, 22" Ride, 18" China, 10" Splash) |
+| [Mikkey Dee](https://metalforge.io/cymbals/setups/mikkey-dee) | Scorpions / Motörhead | Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China) |
 | [Nicko McBrain](https://metalforge.io/cymbals/setups/nicko-mcbrain) | Iron Maiden | Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China) |
 | [Scott Travis](https://metalforge.io/cymbals/setups/scott-travis) | Judas Priest | Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China) |
 
 These 11 entries are pulled directly from MetalForge's verified cymbal setups database, parsed from each drummer's roster gear record — never guessed from a photo or a forum post.
 
-Source: [Paiste — Company History](https://www.paiste.com/pages/history).
+Source: [Paiste — Company History](https://www.paiste.com/en/about/background/history).
 
 ## FAQ
 
@@ -41,7 +41,7 @@ Source: [Paiste — Company History](https://www.paiste.com/pages/history).
 A: Paiste is a Swiss cymbal maker whose RUDE and 2002 series were built specifically for the volume and abuse of loud rock and metal playing, rather than adapted from a jazz or orchestral line. RUDE in particular is marketed around an intentionally raw, unlathed or partially-lathed finish that trades refinement for maximum cut and durability under hard, sustained hitting.
 
 **Q: Which metal drummers play Paiste cymbals?**
-A: On our verified roster: Bill Ward, Daniel Erlandsson, Daray, Dave Lombardo, Eloy Casagrande, Hellhammer, Igor Cavalera, Inferno, Joey Jordison, Nicko McBrain, Scott Travis. See the table above for each drummer's exact setup.
+A: On our verified roster: Aquiles Priester, Daray, Dave Lombardo, Eloy Casagrande, Hellhammer, Inferno, Joey Jordison, Matt Greiner, Mikkey Dee, Nicko McBrain, Scott Travis. See the table above for each drummer's exact setup.
 
 **Q: What are Paiste's most metal-relevant cymbal series?**
 A: RUDE, 2002, Signature. Full descriptions are in the Notable Series section above.
@@ -68,4 +68,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Paiste, se
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

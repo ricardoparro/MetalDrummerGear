@@ -40,4 +40,4 @@ A: Dave Lombardo, Ray Luzier, Matt Halpern use the Pearl Reference Series Drums.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

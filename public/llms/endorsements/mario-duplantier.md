@@ -12,17 +12,21 @@
 
 Mario Duplantier endorses Tama for drums. This partnership began in 2010s.
 
-### Cymbals: Meinl
+### Cymbals: Zildjian
 
-Mario Duplantier endorses Meinl for cymbals. This partnership began in 2010s.
+Mario Duplantier endorses Zildjian for cymbals. They play the Zildjian K Custom / A Custom / Z Custom. This partnership began in 2010s.
 
-### Drumsticks: Vic Firth
+### Drumsticks: Tama
 
-Mario Duplantier endorses Vic Firth for drumsticks. This partnership began in 2010s.
+Mario Duplantier endorses Tama for drumsticks. They play the Tama Mario Duplantier Signature. Mario Duplantier has a co-designed signature product with Tama.
 
 ### Drumheads: Remo
 
 Mario Duplantier endorses Remo for drumheads. This partnership began in 2010s.
+
+## Signature Models
+
+- Tama Mario Duplantier Signature (signature)
 
 ## Endorsement History
 
@@ -31,10 +35,10 @@ Mario Duplantier endorses Remo for drumheads. This partnership began in 2010s.
 ## FAQ
 
 **Q: What brands does Mario Duplantier endorse?**
-A: Mario Duplantier endorses Tama, Meinl, Vic Firth, Remo. Their primary drum endorsement is Tama and they play Meinl cymbals.
+A: Mario Duplantier endorses Tama, Zildjian, Remo. Their primary drum endorsement is Tama and they play Zildjian cymbals.
 
 **Q: Does Mario Duplantier have a signature drum or cymbal?**
-A: Mario Duplantier is a key Tama endorser but does not have a dedicated signature kit model in the current lineup.
+A: Yes. Mario Duplantier has signature gear: Tama Mario Duplantier Signature (signature).
 
 **Q: What is Mario Duplantier's endorsement history?**
 A: See the Endorsement History section above for a full timeline of Mario Duplantier's brand deals.
@@ -49,4 +53,4 @@ A: See the Endorsement History section above for a full timeline of Mario Duplan
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

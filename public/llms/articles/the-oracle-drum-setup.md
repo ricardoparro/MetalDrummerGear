@@ -1,6 +1,6 @@
 # Shannon Larkin's Drum Setup on Godsmack's The Oracle (2010)
 
-> Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series drums, Sabian HH/HHX cymbals, Pearl Demon Drive double pedal, and the home-studio recording approach behind 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain.'
+> Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series drums, Sabian HH/HHX cymbals, DW 9000 double pedal, and the home-studio recording approach behind 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain.'
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Shannon Larkin](/llms/drummers/shannon-larkin.md)
@@ -18,16 +18,16 @@ For Shannon Larkin, *The Oracle* sessions represented his third studio album wit
 
 The most significant production context for *The Oracle* was that it was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman (Evanescence, Slipknot, Mudvayne) co-producing alongside Erna. That home-studio environment gave the band the time and isolation to track drums with the kind of focused attention that arena-tier studios with hourly meters don't always allow. Larkin had room to dial in head selections, microphone placement, and tuning across the full kit — an approach that suited the album's deliberate, song-first arrangements.
 
-By 2010, Larkin's stick choice remained the Vic Firth American Classic 5B, the same hickory 5B he had played since joining Godsmack. Combined with Pearl's Demon Drive direct-drive double pedal (which had become his preferred pedal by the late-2000s touring cycle), the gear picture on *The Oracle* is one of a drummer who has settled into a refined, mature setup and is using it to serve the music rather than to chase new equipment.
+By 2010, Larkin's stick choice remained the Vic Firth American Classic 5B, the same hickory 5B he had played since joining Godsmack. Combined with his unchanged DW 9000 double bass pedal, the gear picture on *The Oracle* is one of a drummer who has settled into a refined, mature setup and is using it to serve the music rather than to chase new equipment.
 
-This article documents the ddrum Dios Series kit, ddrum Dios maple snare, Sabian HH/HHX cymbal configuration, Pearl Demon Drive pedals, and Vic Firth American Classic 5B sticks that powered Shannon Larkin's *The Oracle* studio performance — the rig behind Godsmack's third consecutive #1 Billboard 200 debut.
+This article documents the ddrum Dios Series kit, ddrum Dios maple snare, Sabian HH/HHX cymbal configuration, DW 9000 double pedal, and Vic Firth American Classic 5B sticks that powered Shannon Larkin's *The Oracle* studio performance — the rig behind Godsmack's third consecutive #1 Billboard 200 debut.
 
 ## Gear Breakdown
 
 - **Drums:** ddrum ddrum Dios Series (Custom finishes finish)
 - **Snare:** ddrum ddrum Dios 14"x6.5" Maple, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HH / HHX Series
-- **Hardware / Pedals:** Pearl Demon Drive Double Bass Pedal; Vic Firth American Classic 5B; Pearl H-2050 Gyro-Lock Hi-Hat Stand; Evans G2 Coated; Evans EMAD
+- **Hardware / Pedals:** DW 9000 Series Double Pedal; Vic Firth American Classic 5B; Evans G2 Coated; Evans EMAD
 - **Heads:** Evans or Remo coated batter (rotating across sessions), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension — preserving cutting attack while allowing maple shell character to express
 
@@ -63,13 +63,13 @@ The Sabian setup on *The Oracle* demonstrates Larkin's approach to cymbal select
 
 ## The Settled Era: The Oracle and the Third #1
 
-*The Oracle* (2010) is Shannon Larkin's settled-era studio performance with Godsmack — an album recorded at Sully Erna's Massachusetts home studio with the kind of time and attention that commercial sessions don't always allow. The ddrum Dios Series kit and maple snare, Sabian HH/HHX cymbals, Pearl Demon Drive pedal, and Vic Firth American Classic 5B sticks collectively represent a drummer who has refined his rig across two prior Godsmack studio albums and arrived at *The Oracle* with very specific ideas about the sounds he wanted to make.
+*The Oracle* (2010) is Shannon Larkin's settled-era studio performance with Godsmack — an album recorded at Sully Erna's Massachusetts home studio with the kind of time and attention that commercial sessions don't always allow. The ddrum Dios Series kit and maple snare, Sabian HH/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks collectively represent a drummer who has refined his rig across two prior Godsmack studio albums and arrived at *The Oracle* with very specific ideas about the sounds he wanted to make.
 
 **For Drummers Studying The Oracle:**
 Start with "Cryin' Like a Bitch" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's cutting voice for radio-driving authority. Then work through "Love-Hate-Sex-Pain" for the maple snare's complex backbeat and the HHX Raw Bell Dry Ride's verse-driving voice. The title track demonstrates the architectural ambition Larkin can deliver when the arrangement demands it — extended dynamic arcs across a single track without losing pocket.
 
 **The Gear Legacy:**
-By 2010, Shannon Larkin's ddrum Dios Series + Sabian HH/HHX + Vic Firth American Classic 5B setup represented a settled professional rig that he carried across multiple albums and touring cycles. A player approaching *The Oracle*'s drum sound can replicate the gear philosophy — durable shells, hand-hammered cymbals with body and complexity, direct-drive double pedal, standard-weight stick — at multiple price points.
+By 2010, Shannon Larkin's ddrum Dios Series + Sabian HH/HHX + DW 9000 + Vic Firth American Classic 5B setup represented a settled professional rig that he carried across multiple albums and touring cycles. A player approaching *The Oracle*'s drum sound can replicate the gear philosophy — durable shells, hand-hammered cymbals with body and complexity, chain-drive double pedal, standard-weight stick — at multiple price points.
 
 For the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue through [IV (2006)](/articles/godsmack-iv-drum-setup), and follow with *The Oracle* (2010) for the settled era documented here. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit.
 
@@ -81,7 +81,7 @@ For the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/f
 - Recorded at Sully Erna's home studio in Massachusetts; produced by Dave Fortman and Sully Erna
 - Singles 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain' anchored the album commercially
 - ddrum Dios Series — Shannon Larkin's kit since Faceless, unchanged by 2010
-- Pearl Demon Drive double bass pedal — direct-drive precision for Larkin's late-2000s touring cycle
+- DW 9000 Series double bass pedal — unchanged since Faceless (2003), Larkin's consistent foot hardware
 - Vic Firth American Classic 5B sticks — Larkin's consistent stick choice since joining Godsmack
 - ddrum Dios Series — Shannon Larkin's continuing platform since Faceless (2003)
 - Custom-finish shells: warm fundamental with punchy, attack-forward character
@@ -103,11 +103,11 @@ A: *The Oracle* was recorded at Sully Erna's home studio in Massachusetts. Dave 
 
 **Q: How did The Oracle chart on the Billboard 200?**
 
-A: *The Oracle* (released May 4, 2010, on Universal Republic Records) debuted at #1 on the Billboard 200 — Godsmack's third consecutive studio album to do so, following *Faceless* (2003) and *IV* (2006). That achievement is remarkable in retrospect: by 2010, hard rock's commercial environment had shifted significantly toward streaming-era economics, and a #1 debut for a hard rock band on a major label was no longer routine. *The Oracle* delivered exactly that, anchored by the singles "Cryin' Like a Bitch" and "Love-Hate-Sex-Pain." Shannon Larkin's drumming — driving the album's heavier tracks with the ddrum Dios Series kit and Pearl Demon Drive pedal, anchoring its mid-tempo material with the ddrum Dios maple snare's complex voice — was central to the album's commercial and critical reception.
+A: *The Oracle* (released May 4, 2010, on Universal Republic Records) debuted at #1 on the Billboard 200 — Godsmack's third consecutive studio album to do so, following *Faceless* (2003) and *IV* (2006). That achievement is remarkable in retrospect: by 2010, hard rock's commercial environment had shifted significantly toward streaming-era economics, and a #1 debut for a hard rock band on a major label was no longer routine. *The Oracle* delivered exactly that, anchored by the singles "Cryin' Like a Bitch" and "Love-Hate-Sex-Pain." Shannon Larkin's drumming — driving the album's heavier tracks with the ddrum Dios Series kit and DW 9000 double pedal, anchoring its mid-tempo material with the ddrum Dios maple snare's complex voice — was central to the album's commercial and critical reception.
 
 **Q: What pedal does Shannon Larkin use on The Oracle?**
 
-A: On *The Oracle* (2010), Shannon Larkin used the Pearl Demon Drive double bass pedal — Pearl's flagship direct-drive double pedal of the late-2000s era. The Demon Drive moved Larkin from the chain-drive Eliminator he used on *IV* (2006) into Pearl's direct-drive territory, which delivers the most immediate response between footboard and beater. For *The Oracle*'s double-kick passages — including the heavier sections of the title track and album cuts — the Demon Drive's direct feel allowed Larkin to play the album's foot patterns with maximum response consistency. See the [Shannon Larkin drummer profile](/drummer/shannon-larkin) for his complete current hardware setup.
+A: On *The Oracle* (2010), Shannon Larkin used the same DW 9000 Series Double Bass Pedal he played on *Faceless* (2003) and *IV* (2006) — DW's flagship chain-drive double pedal. For *The Oracle*'s double-kick passages — including the heavier sections of the title track and album cuts — the 9000's chain-drive consistency allowed Larkin to play the album's foot patterns with maximum response consistency. See the [Shannon Larkin drummer profile](/drummer/shannon-larkin) for his complete current hardware setup.
 
 **Q: What sticks does Shannon Larkin use?**
 
@@ -133,4 +133,4 @@ A: Shannon Larkin is a long-time Sabian artist. On *The Oracle* (2010), he used 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

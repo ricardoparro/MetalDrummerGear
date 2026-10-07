@@ -1,6 +1,6 @@
 # Mike Mangini's Kit on 'The Astonishing' (Dream Theater, 2016)
 
-> Dream Theater's sprawling two-act, 34-track rock opera demanded a different kind of drumming from Mike Mangini. Full breakdown of the Pearl Masterworks kit, Sabian HHX/AAX cymbals, and DW double pedals used across The Astonishing's dystopian sci-fi concept album.
+> Dream Theater's sprawling two-act, 34-track rock opera demanded a different kind of drumming from Mike Mangini. Full breakdown of the Pearl Masterworks kit, Sabian HHX/AAX cymbals, and Pearl double pedals used across The Astonishing's dystopian sci-fi concept album.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Mike Mangini](/llms/drummers/mike-mangini.md)
@@ -27,7 +27,7 @@ The Astonishing closes a chapter that began with A Dramatic Turn of Events (2011
 - **Drums:** Pearl Pearl Masterworks Maple (Custom lacquer finish)
 - **Snare:** Pearl Pearl Free-Floating Brass Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX / AAX combination
-- **Hardware / Pedals:** DW 9000 Double Pedal; DW 9000 Series Hi-Hat Stand; DW 9000 Series Straight & Boom Stands; DW 9120M Drum Throne; Vater Mike Mangini Wicked Piston (VHMMWP)
+- **Hardware / Pedals:** Pearl Eliminator Redline Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl BC-830 Boom Stands; Pearl Roadster; Vater Mike Mangini Wicked Piston (VHMMWP)
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension for balanced crack and ghost-note sensitivity across wide dynamic shifts
 
@@ -55,7 +55,7 @@ The consistency of this cymbal setup across three consecutive Mangini-era albums
 
 ## The Album That Asked Mangini to Disappear
 
-The Astonishing remains the outlier in Mike Mangini's Dream Theater discography — not because of any gear change, but because of what the music asked of him. Pearl Masterworks shells, Sabian HHX/AAX cymbals, and DW 9000 pedals were all familiar tools by 2016. What was new was the discipline the role required: serving a 34-track narrative meant knowing when to recede into the orchestration and when to step forward, a different kind of mastery than the technical showcases of A Dramatic Turn of Events or the collaborative groove-writing of the 2013 self-titled album.
+The Astonishing remains the outlier in Mike Mangini's Dream Theater discography — not because of any gear change, but because of what the music asked of him. Pearl Masterworks shells, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline pedals were all familiar tools by 2016. What was new was the discipline the role required: serving a 34-track narrative meant knowing when to recede into the orchestration and when to step forward, a different kind of mastery than the technical showcases of A Dramatic Turn of Events or the collaborative groove-writing of the 2013 self-titled album.
 
 For drummers studying restraint as a skill, The Astonishing is essential listening. 'Dystopian Overture' shows how tom work can function as orchestral color rather than rhythmic drive; 'Moment of Betrayal' proves the technical firepower never left, it was simply held in reserve until the story called for it.
 
@@ -82,7 +82,7 @@ The Astonishing (2016) fills the gap between [Dream Theater's self-titled album 
 
 **Q: What drums did Mike Mangini use on The Astonishing?**
 
-A: On The Astonishing (2016), Mike Mangini played a Pearl Masterworks Maple kit, continuing the same setup used since his 2011 Dream Theater debut on A Dramatic Turn of Events. The setup included a 22" x 18" bass drum, four rack toms (8", 10", 12", 13"), and two floor toms (14" and 16"), paired with a Pearl Free-Floating brass snare and DW 9000 double pedals. For Mangini's complete career gear history, see the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit).
+A: On The Astonishing (2016), Mike Mangini played a Pearl Masterworks Maple kit, continuing the same setup used since his 2011 Dream Theater debut on A Dramatic Turn of Events. The setup included a 22" x 18" bass drum, four rack toms (8", 10", 12", 13"), and two floor toms (14" and 16"), paired with a Pearl Free-Floating brass snare and Pearl Eliminator Redline double pedals. For Mangini's complete career gear history, see the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit).
 
 **Q: What cymbals did Mike Mangini use on The Astonishing?**
 
@@ -111,4 +111,4 @@ A: Mike Mangini recorded five studio albums as Dream Theater's drummer: A Dramat
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

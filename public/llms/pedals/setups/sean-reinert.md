@@ -6,18 +6,18 @@
 
 ## Direct Answer
 
-Sean Reinert plays a DW 5000 double pedal (chain-drive).
+Sean Reinert plays a DW 9000 Double Pedal double pedal (chain-drive).
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
 | Brand | DW |
-| Model | 5000 |
+| Model | 9000 Double Pedal |
 | Configuration | double |
 | Drive Type | chain |
 
-Verified roster hardware entry: "DW 5000 Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "DW 9000 Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -27,7 +27,7 @@ Verified roster hardware entry: "DW 5000 Double Pedal." Source: roster gear.hard
 ## FAQ
 
 **Q: What pedals does Sean Reinert use?**
-A: Sean Reinert plays a DW 5000 double pedal (chain-drive).
+A: Sean Reinert plays a DW 9000 Double Pedal double pedal (chain-drive).
 
 ## More Resources
 
@@ -38,4 +38,4 @@ A: Sean Reinert plays a DW 5000 double pedal (chain-drive).
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

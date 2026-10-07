@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/ben-koller"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Ben Koller — Drum Kit & Gear Setup
@@ -37,7 +37,7 @@ Zildjian K Dark Series cymbals define the Ben Koller drum sound: 14" K Dark Thin
 
 Ben Koller (born July 29, 1980) is an American drummer known for his work with Converge, Mutoid Man, Killer Be Killed, and All Pigs Must Die. Joining Converge in late 1999, Koller has been central to the band's legendary status, playing on landmark albums like "Jane Doe," "You Fail Me," and "The Dusk in Us." His drumming style combines blistering speed with creative dynamics, drawing from hardcore punk, grindcore, and experimental rock. Beyond Converge, he co-founded the heavy rock band Mutoid Man with Stephen Brodsky of Cave In, and joined the supergroup Killer Be Killed alongside members of Mastodon, The Dillinger Escape Plan, and Soulfly. Koller's versatility and intensity have made him one of the most respected drummers in extreme music.
 
-Ben Koller (born March 12, 1978) is an American drummer best known for his work with influential metalcore/hardcore band Converge since 1999. He is widely regarded as one of the most important drummers in heavy music, having helped define the sound of modern metalcore and hardcore through his work on landmark albums like "Jane Doe."
+Ben Koller (born July 29, 1980) is an American drummer best known for his work with influential metalcore/hardcore band Converge since 1999. He is widely regarded as one of the most important drummers in heavy music, having helped define the sound of modern metalcore and hardcore through his work on landmark albums like "Jane Doe."
 
 Beyond Converge, Koller maintains an impressive roster of projects including Mutoid Man (with Stephen Brodsky of Cave In), All Pigs Must Die, and Killer Be Killed. His relentless energy, creative approach, and ability to shift between genres while maintaining intensity has made him an icon in underground heavy music.
 
@@ -235,4 +235,4 @@ Dated brand-endorsement timeline: [Ben Koller's endorsement history](https://met
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

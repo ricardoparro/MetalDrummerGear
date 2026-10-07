@@ -55,13 +55,13 @@ Matt Bayles captured the snare with a single close microphone (likely a Shure SM
 
 ### Sabian HHX: Brann's Mid-2000s Cymbal Voice
 
-Brann Dailor's Sabian HHX cymbal setup on *Leviathan* defines the album's bright, articulate top-end character. The HHX series — Sabian's hand-hammered "extreme" line — was Dailor's cymbal of choice through the early-to-mid 2000s, before his later transition to Meinl Byzance for the *Crack the Skye* era and beyond. HHX cymbals use a brilliant finish, intensive hand-hammering, and a distinct bell-and-bow shaping that produces a brighter, more cutting sound than the darker Turkish-style cymbals Dailor would later prefer.
+Brann Dailor's Sabian HHX cymbal setup on *Leviathan* defines the album's bright, articulate top-end character. The HHX series — Sabian's hand-hammered "extreme" line — was Dailor's cymbal of choice in the early 2000s; he signed with Meinl in 2004 and moved to Byzance cymbals in the years that followed. HHX cymbals use a brilliant finish, intensive hand-hammering, and a distinct bell-and-bow shaping that produces a brighter, more cutting sound than the darker Turkish-style cymbals Dailor would later prefer.
 
 For *Leviathan* specifically, the HHX series was the correct musical choice. The album is denser, more abrasive, and more directly aggressive than Mastodon's later atmospheric records — and bright, cutting cymbals were essential for the drum kit to remain intelligible above the layered guitars. The HHX hi-hats deliver an articulate chick that registers cleanly even under Brent Hinds' and Bill Kelliher's most overdriven riffing; the crashes slash rather than bloom, providing immediate punctuation rather than atmospheric wash.
 
 The China cymbal is particularly significant on *Leviathan*. Dailor uses it constantly throughout the album — aggressive, trashy accents marking riff transitions across "Blood and Thunder," section boundaries in "Iron Tusk," and the closing intensity of "Hearts Alive." The HHX China's controlled trashiness gives those accents a sonic identity that became part of the album's recognisable character: not a brief decorative splash but a structural compositional element.
 
-For drummers studying how cymbal choice shapes an album's emotional character, the comparison between *Leviathan*'s Sabian HHX setup and the later Meinl Byzance setup on [Crack the Skye](/articles/crack-the-skye-drum-setup) is instructive. Same player, different cymbals, dramatically different result: HHX gives *Leviathan* its bright physicality; Byzance gives *Crack the Skye* its dark atmosphere. See also the [Brann Dailor drummer profile](/drummer/brann-dailor) for the full cymbal evolution.
+For drummers studying how cymbal choice shapes an album's emotional character, the comparison between *Leviathan*'s Sabian HHX setup and the Meinl Byzance setup Dailor later brought to [Crack the Skye](/articles/crack-the-skye-drum-setup) is instructive. Same player, different cymbals, dramatically different result: HHX gives *Leviathan* its bright physicality; Byzance gives *Crack the Skye* its dark atmosphere. See also the [Brann Dailor drummer profile](/drummer/brann-dailor) for the full cymbal evolution.
 
 ## Leviathan: The Whale That Made Mastodon — and the Drum Setup That Made the Whale
 
@@ -107,7 +107,7 @@ A: Leviathan (2004) is considered Mastodon's breakthrough because it elevated th
 
 **Q: What cymbals did Brann Dailor use on Leviathan?**
 
-A: On Leviathan (2004), Brann Dailor used Sabian HHX series cymbals — Sabian's hand-hammered 'extreme' line, prized for its bright, articulate, cutting character. His setup included 14 inch HHX Groove Hi-Hats, a 17 inch HHX Evolution Crash, an 18 inch HHX X-Plosion Crash, a 21 inch HHX Groove Ride, an 18 inch HHX China (heavily featured throughout the album), and a 10 inch HHX Splash for accent work. This Sabian HHX setup was Brann's cymbal voice through the early-to-mid 2000s era. He later switched to Meinl Byzance cymbals for Crack the Skye (2009) and every subsequent record, trading the HHX's bright cutting attack for the darker, more atmospheric Byzance character.
+A: On Leviathan (2004), Brann Dailor used Sabian HHX series cymbals — Sabian's hand-hammered 'extreme' line, prized for its bright, articulate, cutting character. His setup included 14 inch HHX Groove Hi-Hats, a 17 inch HHX Evolution Crash, an 18 inch HHX X-Plosion Crash, a 21 inch HHX Groove Ride, an 18 inch HHX China (heavily featured throughout the album), and a 10 inch HHX Splash for accent work. This Sabian HHX setup was Brann's cymbal voice in the early 2000s. He signed with Meinl in 2004 and moved to Byzance cymbals in the years that followed, trading the HHX's bright cutting attack for the darker, more atmospheric Byzance character that has defined every Mastodon record from Crack the Skye (2009) onward.
 
 **Q: What is the song "Blood and Thunder" about?**
 
@@ -134,4 +134,4 @@ A: Leviathan was recorded at Studio Litho in Seattle, Washington — Stone Gossa
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

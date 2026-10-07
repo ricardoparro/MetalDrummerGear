@@ -1,21 +1,22 @@
 # DW 9000 Series Double Pedal — Hardware / Pedals | MetalForge
 
-> The DW 9000 Series Double Pedal is a pro-grade hardware / pedals choice used by 2 metal drummers in the MetalForge database.
+> The DW 9000 Series Double Pedal is a pro-grade hardware / pedals choice used by 3 metal drummers in the MetalForge database.
 
 **Brand:** DW  
 **Series:** 9000 Series Double Pedal  
 **Category:** Hardware / Pedals  
 **Estimated Price:** $300–$700  
-**Drummers Using It:** 2  
+**Drummers Using It:** 3  
 
 ---
 
 ## Metal Drummers Who Use the DW 9000 Series Double Pedal
 
+- **[Arin Ilejay](https://metalforge.io/drummer/arin-ilejay)** (ex-Avenged Sevenfold) — standard configuration
+- **[Aquiles Priester](https://metalforge.io/drummer/aquiles-priester)** (Angra / W.A.S.P.) — standard configuration
 - **[Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann)** (Obscura / ex-Necrophagist / Alkaloid) — standard configuration
-- **[Isaac Lamb](https://metalforge.io/drummer/isaac-lamb)** (Kublai Khan TX) — standard configuration
 
-See all 2 drummers on the [DW 9000 Series Double Pedal gear page](https://metalforge.io/gear/dw/9000-series-double-pedal/drummers-using).
+See all 3 drummers on the [DW 9000 Series Double Pedal gear page](https://metalforge.io/gear/dw/9000-series-double-pedal/drummers-using).
 
 ## Gear Specifications
 
@@ -25,15 +26,15 @@ See all 2 drummers on the [DW 9000 Series Double Pedal gear page](https://metalf
 
 ## Why Metal Drummers Choose the DW 9000 Series Double Pedal
 
-The DW 9000 Series Double Pedal double pedal is trusted by metal's elite for its mechanical precision and low latency response. Drummers like Hannes Grossmann (Obscura / ex-Necrophagist / Alkaloid), Isaac Lamb (Kublai Khan TX) depend on its consistent spring tension and direct drive feel for blazing double bass passages, including blast beats and polyrhythmic patterns at 200+ BPM. The pedal's adjustability allows each drummer to dial in the exact feel needed for their style.
+The DW 9000 Series Double Pedal double pedal is trusted by metal's elite for its mechanical precision and low latency response. Drummers like Arin Ilejay (ex-Avenged Sevenfold), Aquiles Priester (Angra / W.A.S.P.), Hannes Grossmann (Obscura / ex-Necrophagist / Alkaloid) depend on its consistent spring tension and direct drive feel for blazing double bass passages, including blast beats and polyrhythmic patterns at 200+ BPM. The pedal's adjustability allows each drummer to dial in the exact feel needed for their style.
 
 ## Frequently Asked Questions
 
 **Q: Which metal drummers use the DW 9000 Series Double Pedal?**
-A: 2 metal drummers in the MetalForge database play the DW 9000 Series Double Pedal: Hannes Grossmann and Isaac Lamb. Each profile includes their exact setup and full kit configuration.
+A: 3 metal drummers in the MetalForge database play the DW 9000 Series Double Pedal: Arin Ilejay, Aquiles Priester, and Hannes Grossmann. Each profile includes their exact setup and full kit configuration.
 
 **Q: Is the DW 9000 Series Double Pedal good for metal drumming?**
-A: Yes — the DW 9000 Series Double Pedal is a proven metal choice, endorsed by 2 professional drummers across death, thrash, progressive, and groove metal. Hannes Grossmann of Obscura / ex-Necrophagist / Alkaloid is among the signature players relying on this hardware / pedals for high-intensity performance.
+A: Yes — the DW 9000 Series Double Pedal is a proven metal choice, endorsed by 3 professional drummers across death, thrash, progressive, and groove metal. Arin Ilejay of ex-Avenged Sevenfold is among the signature players relying on this hardware / pedals for high-intensity performance.
 
 **Q: How much does the DW 9000 Series Double Pedal cost?**
 A: The DW 9000 Series Double Pedal is estimated at $300–$700 street price. Actual pricing varies by retailer, finish, and configuration. Check Thomann (EU) or Sweetwater (US) for current deals.
@@ -43,4 +44,4 @@ A: MetalForge tracks all DW series used by professional metal drummers. Visit [h
 
 ---
 
-*Source: [metalforge.io/gear/dw/9000-series-double-pedal/drummers-using](https://metalforge.io/gear/dw/9000-series-double-pedal/drummers-using) · Last updated: 2026-07-25*
+*Source: [metalforge.io/gear/dw/9000-series-double-pedal/drummers-using](https://metalforge.io/gear/dw/9000-series-double-pedal/drummers-using) · Last updated: 2026-10-07*

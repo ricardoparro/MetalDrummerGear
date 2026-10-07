@@ -27,7 +27,7 @@ This article documents the gear Mike Portnoy used on *Nightmare*, the context of
 - **Drums:** Tama Tama Starclassic Maple (Transparent Black / Midnight Blue Sparkle finish)
 - **Snare:** Tama Tama Starclassic Maple Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX Evolution Series
-- **Hardware / Pedals:** DW 9000 Double Pedal; DW 9000 Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Vic Firth Mike Portnoy Signature
+- **Hardware / Pedals:** Tama Power Tower Rack; Tama 1st Chair; Vic Firth Mike Portnoy Signature
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension — balanced attack and sensitivity for the album's wide dynamic range
 
@@ -63,7 +63,7 @@ For an album recorded under significant emotional and time pressure — the band
 
 *Nightmare* stands as one of the most unusual and moving records in modern heavy metal history — an album that needed to function simultaneously as a commercial release, a tribute to a fallen friend, and a bridge between two eras of one of metal's most passionate fanbases. Mike Portnoy's performance achieved all three.
 
-The gear he brought — Tama Starclassic Maple kit, Sabian HHX Evolution cymbals, DW 9000 pedals — was the equipment of a drummer at the peak of his technical and creative powers. But the performance required something beyond technical command: the discipline to disappear entirely into The Rev's compositions, to serve another drummer's vision with complete fidelity, and to do so under the emotional weight of grief, time pressure, and the scrutiny of one of metal's most devoted fan communities.
+The gear he brought — Tama Starclassic Maple kit and Sabian HHX Evolution cymbals — was the equipment of a drummer at the peak of his technical and creative powers. But the performance required something beyond technical command: the discipline to disappear entirely into The Rev's compositions, to serve another drummer's vision with complete fidelity, and to do so under the emotional weight of grief, time pressure, and the scrutiny of one of metal's most devoted fan communities.
 
 That *Nightmare* debuted at #1, received a Grammy nomination for "So Far Away," and is still regularly cited by A7X fans as one of the band's most important records says everything about the quality of that service. Portnoy gave the A7X community The Rev's album. That is the most accurate description of what happened on *Nightmare* — and it is a remarkable thing to have done.
 
@@ -102,7 +102,7 @@ A: Nightmare (2010) is the last Avenged Sevenfold album associated with The Rev 
 
 **Q: What drums did Mike Portnoy use on the Nightmare album?**
 
-A: Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions — his 2010 touring configuration featuring double 22"x18" bass drums, five rack toms (8" through 14"), and three floor toms (14", 16", 18"). His cymbal rig was Sabian HHX Evolution, carried over from the Black Clouds & Silver Linings touring setup — crashes, ride, chinese, and splash. Hardware included the DW 9000 double bass pedal. He played his Vic Firth Mike Portnoy Signature sticks throughout the sessions. For the full Mike Portnoy gear story, see the [Mike Portnoy kit guide](/articles/whats-in-mike-portnoys-kit).
+A: Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions — his 2010 touring configuration featuring double 22"x18" bass drums, five rack toms (8" through 14"), and three floor toms (14", 16", 18"). His cymbal rig was Sabian HHX Evolution, carried over from the Black Clouds & Silver Linings touring setup — crashes, ride, chinese, and splash. He played his Vic Firth Mike Portnoy Signature sticks throughout the sessions. For the full Mike Portnoy gear story, see the [Mike Portnoy kit guide](/articles/whats-in-mike-portnoys-kit).
 
 **Q: Was Avenged Sevenfold's Nightmare Grammy-nominated?**
 
@@ -125,4 +125,4 @@ A: "So Far Away" — the Grammy-nominated tribute ballad from Nightmare — rece
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

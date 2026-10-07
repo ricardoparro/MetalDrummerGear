@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daniel-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-09-09"
+last_updated: "2026-10-07"
 ---
 
 # Daniel Erlandsson — Drum Kit & Gear Setup
@@ -24,16 +24,16 @@ Daniel Erlandsson's drum kit and gear setup. Daniel Erlandsson is a professional
 | Country | Sweden |
 | Primary brand | Pearl |
 | Drum kit | Pearl Reference Pure |
-| Signature snare | Pearl Daniel Erlandsson Signature 14x5.5" |
-| Sticks | Vic Firth American Classic 5B |
+| Signature snare | Pearl Reference Pure |
+| Sticks | ProMark 5B |
 
 ## Kit Overview
 
-Daniel Erlandsson plays a Pearl Reference Pure drum kit — a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy. The Daniel Erlandsson drum set is built around a Pearl Daniel Erlandsson Signature 14x5.5" snare, a thinner-shell signature model that delivers a fast, cracking response suited to his blend of Scandinavian death metal intensity and technical precision.
+Daniel Erlandsson plays a Pearl Reference Pure drum kit — a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy, built around a matching Reference Pure snare that delivers a fast, cracking response suited to his blend of Scandinavian death metal intensity and technical precision.
 
-Paiste's RUDE and 2002 Series cymbals shape the Daniel Erlandsson drum kit: 14" RUDE Hi-Hats for aggressive, cutting chick sounds; 18" and 19" RUDE Crashes for explosive accents; and a 22" RUDE Power Ride built to punch through Arch Enemy's dense, dual-guitar attack. A Pearl Demon Drive double pedal drives his rapid, precise double-bass patterns, giving Erlandsson the speed and control heard across decades of Arch Enemy recordings and tours.
+Sabian's AAX / HHX Series cymbals shape the Daniel Erlandsson drum kit, built to punch through Arch Enemy's dense, dual-guitar attack. A Pearl Eliminator Double Bass Pedal drives his rapid, precise double-bass patterns, giving Erlandsson the speed and control heard across decades of Arch Enemy recordings and tours.
 
-Vic Firth American Classic 5B sticks and Evans heads round out the rig, favored for durability under his hard-hitting, high-tempo playing. The Daniel Erlandsson drum set has remained tied to this Pearl/Paiste configuration throughout his work with Arch Enemy and his side project Brujeria, alongside earlier stints with Eucharist and live work with Carcass and In Flames.
+ProMark 5B sticks and Remo heads round out the rig, favored for durability under his hard-hitting, high-tempo playing. The Daniel Erlandsson drum set has remained tied to this Pearl/Sabian configuration throughout his work with Arch Enemy and his side project Brujeria, alongside earlier stints with Eucharist and live work with Carcass and In Flames.
 
 ## Biography
 
@@ -105,11 +105,11 @@ Daniel Erlandsson's drumming embodies the Swedish melodic death metal approach�
 ## Gear
 
 - **Drums:** Pearl Reference Pure
-- **Snare:** Pearl Daniel Erlandsson Signature 14x5.5"
-- **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride)
-- **Hardware:** Pearl Demon Drive Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
-- **Heads:** Evans
+- **Snare:** Pearl Reference Pure
+- **Cymbals:** Sabian AAX / HHX Series
+- **Hardware:** Pearl Eliminator Double Bass Pedal
+- **Sticks:** ProMark 5B
+- **Heads:** Remo
 
 ## Endorsements
 
@@ -191,14 +191,7 @@ Daniel Erlandsson plays a signature snare: the Pearl Daniel Erlandsson Signature
 
 ## Cymbal Setup
 
-Daniel Erlandsson's cymbals: Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride).
-
-| Piece | Size | Series | Model |
-|---|---|---|---|
-| hi-hat | 14" | RUDE | Hi-Hats |
-| crash | 18" | RUDE | Crash |
-| crash | 19" | RUDE | Crash |
-| ride | 22" | RUDE | Power Ride |
+Daniel Erlandsson's cymbals: Sabian AAX / HHX Series.
 
 Full breakdown: [Daniel Erlandsson's cymbal setup](https://metalforge.io/cymbals/setups/daniel-erlandsson).
 
@@ -238,4 +231,4 @@ Dated brand-endorsement timeline: [Daniel Erlandsson's endorsement history](http
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*

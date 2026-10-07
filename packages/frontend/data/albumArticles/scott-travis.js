@@ -2298,13 +2298,13 @@ export const articles = {
         ],
         "shells": "ddrum Dominion Series shell pack"
       },
-      "description": "Scott Travis has been a long-time ddrum endorser, and his setup centers on the Dominion Series shell pack — the platform behind Painkiller and every Priest album since.\n\nThe dual 22\" x 18\" bass drums are crucial to Travis's sound, producing a commanding low-end that fills arenas without sacrificing definition. Despite running two independent kick drums rather than a connected double pedal, his double bass patterns remain clear and articulate — a testament to both his technique and the Dominion Series's shell design.\n\nHis two-rack-tom configuration (10\", 12\") provides melodic options for fills while maintaining accessibility. The Dominion Series produces focused, powerful tones that cut through Priest's twin-guitar assault.\n\nThe dual floor toms (14\" and 16\") anchor the kit's bottom end. Travis uses them sparingly but effectively, saving the thunder for moments of maximum impact.\n\nWhat sets the Dominion Series apart is consistency — every drum responds predictably, allowing Travis to execute his demanding patterns with confidence. For a drummer whose style depends on precision at extreme speeds, that reliability is essential.",
+      "description": "Scott Travis has been a ddrum endorser since 2018's Firepower, and his current setup centers on the Dominion Series shell pack — the third drum-brand era of his Priest tenure, following the Tama Artstar II he played from Painkiller (1990) to 2005 and the Pearl Reference Series he played from 2005 to 2018.\n\nThe dual 22\" x 18\" bass drums are crucial to Travis's sound, producing a commanding low-end that fills arenas without sacrificing definition. Despite running two independent kick drums rather than a connected double pedal, his double bass patterns remain clear and articulate — a testament to both his technique and the Dominion Series's shell design.\n\nHis two-rack-tom configuration (10\", 12\") provides melodic options for fills while maintaining accessibility. The Dominion Series produces focused, powerful tones that cut through Priest's twin-guitar assault.\n\nThe dual floor toms (14\" and 16\") anchor the kit's bottom end. Travis uses them sparingly but effectively, saving the thunder for moments of maximum impact.\n\nWhat sets the Dominion Series apart is consistency — every drum responds predictably, allowing Travis to execute his demanding patterns with confidence. For a drummer whose style depends on precision at extreme speeds, that reliability is essential.",
       "notes": [
-        "ddrum Dominion Series — Travis's long-standing shell pack",
+        "ddrum Dominion Series — Travis's current shell pack, in place since 2018's Firepower",
         "Dual bass drums for arena-filling power",
         "Two rack toms for melodic flexibility",
-        "Same basic configuration since Painkiller (1990)",
-        "Consistency — no gear changes documented across his Priest career"
+        "Third drum-brand era of his career: Tama (1990-2005) → Pearl (2005-2018) → ddrum (2018-present)",
+        "Each era's rig stayed consistent in its own stretch — the brand itself has changed twice"
       ],
       "estimatedValue": "$6,000-8,000 (new) / $4,000-6,000 (used)"
     },
@@ -2361,7 +2361,7 @@ export const articles = {
           "notes": "Aggressive accents on heavy riffs"
         }
       ],
-      "description": "Scott Travis's cymbal setup is built for arena-level projection. His combination of Paiste RUDE and 2002 cymbals delivers the brightness and cut that heavy metal demands while maintaining musical quality.\n\nThe 14\" RUDE Hi-Hats are the foundation. Heavier than standard hi-hats, they provide stability during aggressive playing and clear definition at all tempos. Travis's hi-hat work — often overlooked in favor of his double bass — is remarkably precise, providing the \"chick\" and \"splash\" sounds that drive Priest's rhythms.\n\nMultiple crashes allow dynamic variety. The RUDE series crashes are designed for heavy hitting — they project immediately, sustain appropriately, then get out of the way. The 18\", 19\", and 20\" sizing gives Travis options for different musical moments.\n\nThe 22\" RUDE Power Ride is essential for songs with extended ride work. Heavier than typical rides, it maintains stick definition even during aggressive playing. The bell is particularly prominent, cutting through for accents.\n\nThe RUDE China cymbal provides the trashy explosions that punctuate Priest's heaviest moments. Used sparingly but effectively, it adds aggression that standard crashes can't match.\n\nThis cymbal array has remained consistent since Travis joined Priest. He knows what works for their sound and sees no need to chase trends.",
+      "description": "Scott Travis's cymbal setup is built for arena-level projection. His combination of Paiste RUDE and 2002 cymbals delivers the brightness and cut that heavy metal demands while maintaining musical quality.\n\nThe 14\" RUDE Hi-Hats are the foundation. Heavier than standard hi-hats, they provide stability during aggressive playing and clear definition at all tempos. Travis's hi-hat work — often overlooked in favor of his double bass — is remarkably precise, providing the \"chick\" and \"splash\" sounds that drive Priest's rhythms.\n\nMultiple crashes allow dynamic variety. The RUDE series crashes are designed for heavy hitting — they project immediately, sustain appropriately, then get out of the way. The 18\", 19\", and 20\" sizing gives Travis options for different musical moments.\n\nThe 22\" RUDE Power Ride is essential for songs with extended ride work. Heavier than typical rides, it maintains stick definition even during aggressive playing. The bell is particularly prominent, cutting through for accents.\n\nThe RUDE China cymbal provides the trashy explosions that punctuate Priest's heaviest moments. Used sparingly but effectively, it adds aggression that standard crashes can't match.\n\nTravis played this Paiste RUDE/2002 combination from Painkiller through the mid-2000s, moved to Sabian HH/AA Hybrid cymbals during the Pearl-kit era (2005-2018), then returned to Paiste RUDE/2002 alongside the ddrum Dominion Series starting with 2018's Firepower — his current setup.",
       "notes": [
         "RUDE/2002 combination — projection and musicality",
         "Heavy hi-hats for stability at speed",
@@ -2411,27 +2411,27 @@ export const articles = {
       ]
     },
     "gearEvolution": {
-      "title": "Judas Priest Era: A Consistent Rig",
-      "content": "Scott Travis has been a long-time endorser of ddrum, Paiste Cymbals, DW Pedals, and Vic Firth Drumsticks throughout his entire tenure with Judas Priest, with no documented brand changes. Understanding that consistency illuminates his journey as a drummer just as much as any evolution would.\n\n**Painkiller Era (1989-1990):**\nWhen Travis joined Judas Priest, he brought the ddrum Dominion Series shell pack that would remain his platform for the rest of his career. The kit heard on \"Painkiller\" is the same one heard on every Priest album since. The snare was his ddrum Scott Travis Signature model, built to his own specifications.\n\n**Owens and Reunion Era (1996-2008):**\nThrough the Tim \"Ripper\" Owens era and Rob Halford's return, Travis kept the same ddrum Dominion Series kit and Paiste RUDE/2002 cymbals — the stylistic range across Jugulator, Demolition, Angel of Retribution, and Nostradamus came from his playing, not his gear.\n\n**Modern Era (2014-Present):**\nTravis has stayed on the ddrum Dominion Series drums through Redeemer of Souls, Firepower, and Invincible Shield, finding that the shell pack delivered the balance of warmth and attack his playing has always demanded. His cymbal preferences have remained the Paiste RUDE and 2002 lines throughout. The current setup represents decades of the same trusted gear.\n\n**Consistency Philosophy:**\nUnlike some drummers who constantly chase new gear, Travis values reliability. His basic configuration has remained the same for his entire Priest career. He knows what works for Judas Priest's sound and sees no reason to reinvent what already performs.",
+      "title": "Judas Priest Era: Three Distinct Gear Chapters",
+      "content": "Scott Travis's gear across 35+ years with Judas Priest isn't one unbroken setup — it's three separate drum-brand eras, each with its own matching cymbal and pedal changes.\n\n**Tama Era (1990-2005):**\nTravis debuted with Priest on a Tama Artstar II birch shell pack and steel Artstar II snare for \"Painkiller\" (1990), carrying that rig through \"Jugulator\" (1997) and \"Demolition\" (2001). Cymbals were Paiste Signature/2002, and his bass drums ran on Tama Iron Cobra HP900 pedals.\n\n**Pearl Era (2005-2018):**\nFor the Halford reunion album \"Angel of Retribution\" (2005), Travis switched to Pearl's Reference Series hybrid shell pack and a Pearl Reference Brass snare — his first major gear change of the Priest tenure. He moved to Sabian HH/AA Hybrid cymbals and Pearl Demon Drive pedals for this stretch, which carried through \"Nostradamus\" (2008) and \"Redeemer of Souls\" (2014).\n\n**ddrum Era (2018-Present):**\nTravis switched again for \"Firepower\" (2018), moving to the ddrum Dominion Series shell pack and ddrum Scott Travis Signature snare he still plays today, pairing it with a return to Paiste — this time the RUDE/2002 combination — and a DW 9000 Series Double Pedal. That setup carried through \"Invincible Shield\" (2024) and remains his current rig.\n\n**Consistency Within Each Era:**\nWithin each of these three chapters, Travis has stuck with his gear rather than chasing trends — his Paiste cymbal relationship alone dates back to his pre-Priest Racer X days. But the full picture across his Priest tenure is two deliberate brand switches, not a single frozen rig.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "ddrum Dominion Series (Painkiller)",
-          "now": "ddrum Dominion Series"
+          "then": "Tama Artstar II (Painkiller, 1990)",
+          "now": "ddrum Dominion Series (since Firepower, 2018)"
         },
         {
           "category": "Snare",
-          "then": "ddrum Scott Travis Signature 14\"x6.5\"",
+          "then": "Tama Artstar II Steel 14\"x6.5\"",
           "now": "ddrum Scott Travis Signature 14\"x6.5\""
         },
         {
           "category": "Cymbals",
-          "then": "Paiste RUDE/2002 mix",
+          "then": "Paiste Signature/2002 mix",
           "now": "Paiste RUDE/2002 mix"
         },
         {
           "category": "Pedals",
-          "then": "DW 9000 Series Double Pedal",
+          "then": "Tama Iron Cobra HP900 (x2 independent)",
           "now": "DW 9000 Series Double Pedal"
         },
         {
@@ -2541,7 +2541,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Scott Travis use with Judas Priest?",
-        "answer": "Scott Travis plays the ddrum Dominion Series shell pack — his long-time endorsement, unchanged since Painkiller (1990). His configuration includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The shell pack gives Travis the deep, powerful tone that anchors Judas Priest's arena rock and heavy metal sound, with the durability required for decades of touring."
+        "answer": "Scott Travis plays the ddrum Dominion Series shell pack, his current kit since 2018's Firepower — the third drum-brand era of his Priest tenure after the Tama Artstar II he used from Painkiller (1990) to 2005 and the Pearl Reference Series he played from 2005 to 2018. His current configuration includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The shell pack gives Travis the deep, powerful tone that anchors Judas Priest's arena rock and heavy metal sound, with the durability required for decades of touring."
       },
       {
         "question": "What cymbals does Scott Travis use with Judas Priest?",

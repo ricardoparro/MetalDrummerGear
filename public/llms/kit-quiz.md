@@ -37,7 +37,7 @@ If your answers lean toward odd time signatures, complex fills, or polyrhythms: 
 Answers pointing toward traditional heavy metal, NWOBHM, or thrash match: Lars Ulrich, Nicko McBrain, or Charlie Benante.
 - **Lars Ulrich** (Metallica): Tama Starclassic, Zildjian A — the most recognised thrash drummer
 - **Nicko McBrain** (Iron Maiden): Premier/Sonor, wide tom configurations, galloping patterns
-- **Charlie Benante** (Anthrax): Pearl Reference, Zildjian, technical thrash with jazz influences
+- **Charlie Benante** (Anthrax): Tama Starclassic, Paiste, technical thrash with jazz influences
 
 ### Death Metal Core
 Mid-range death metal placement matches Gene Hoglan, Paul Mazurkiewicz, or Flo Mounier.

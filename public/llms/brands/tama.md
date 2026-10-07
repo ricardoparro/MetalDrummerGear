@@ -8,7 +8,7 @@ Tama is a Japanese drum manufacturer launched in 1974 as the drum brand of Hoshi
 - Dave Lombardo (Slayer) — Tama Starclassic Maple; Tama Iron Cobra 900 Double Pedal
 - Mario Duplantier (Gojira) — Tama Starclassic Bubinga (22"x18" Bass Drums x2); Iron Cobra 900 Power Glide Double Pedal
 - Eloy Casagrande (Slipknot, ex-Sepultura) — Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums); Iron Cobra Double Pedal
-- Charlie Benante (Anthrax) — Tama Starclassic Maple; Iron Cobra Double Pedal
+- Charlie Benante (Anthrax) — Tama Starclassic Maple; Speed Cobra Double Pedal
 - Mike Portnoy (Dream Theater, The Winery Dogs) — Tama Starclassic Maple; Iron Cobra Double Pedal
 - Brann Dailor (Mastodon) — Tama Starclassic Performer B/B; Speed Cobra Double Pedal
 - Raymond Herrera (Fear Factory) — Tama Starclassic; Iron Cobra Double Pedal

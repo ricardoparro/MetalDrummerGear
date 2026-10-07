@@ -13,24 +13,24 @@ What makes Benante distinctive among thrash's founding figures is his insistence
 
 ## Kit Setup
 
-Charlie plays **Pearl Reference Pure** drums — all-maple shells with warm attack and strong projection:
+Charlie plays **Tama Starclassic Maple** drums — all-maple shells with warm attack and strong projection:
 
-- **Kick Drums:** 22" x 18" (x2, independent) with Pearl Eliminator Redline Double Pedal
-- **Snare:** 14" x 5" Pearl Free-Floating Steel
+- **Kick Drums:** 22" x 18" (x2, independent) with Tama Speed Cobra Double Pedal
+- **Snare:** 14" x 6.5" Tama Charlie Benante Signature (steel)
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 16", 18" x 16"
-- **Cymbals:** Sabian AAX / HHX Series — bright, projecting, fast attack
-- **Pedals:** Pearl Eliminator Redline Double Pedal (interchangeable cam system)
-- **Sticks:** Ahead Charlie Benante Signature (5B equivalent, aluminum core)
-- **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
+- **Cymbals:** Paiste RUDE & 2002 Series — bright, projecting, fast attack
+- **Pedals:** Tama Speed Cobra Double Pedal (direct-drive)
+- **Sticks:** Vic Firth Charlie Benante Signature (5B equivalent, hickory)
+- **Heads:** Evans EQ3 Clear (kick), Evans G1 Coated (snare), Evans G2 Coated (toms)
 
 ## Tuning & Setup
 
 Benante tunes for attack, projection, and controlled sustain — thrash needs drums that speak immediately and cut through dense guitar:
 
 - **Kick:** Medium-low tension with light internal muffling (small pillow or foam touching batter lightly). Defined thump with audible attack transient — the kick must lock with guitar riff accents, so the attack edge must be distinct and clear.
-- **Snare:** Medium-high tension on batter, medium on resonant. The Free-Floating Steel delivers a sharp, cutting crack at this tension. Thin tape strip at edge for recording; one Moongel or nothing for live. Too loose and the steel loses control; too tight and it loses body.
-- **Toms:** Medium tension, Remo Emperor Clear. Musical sustain with strong attack — not dead, over-muffled drums. One small Moongel per tom if needed for recording, positioned at the edge not the center.
+- **Snare:** Medium-high tension on batter, medium on resonant. The Tama Charlie Benante Signature steel shell delivers a sharp, cutting crack at this tension. Thin tape strip at edge for recording; one Moongel or nothing for live. Too loose and the steel loses control; too tight and it loses body.
+- **Toms:** Medium tension, Evans G2 Coated. Musical sustain with strong attack — not dead, over-muffled drums. One small Moongel per tom if needed for recording, positioned at the edge not the center.
 
 ## Technique Tips
 
@@ -49,14 +49,14 @@ Benante plays **matched grip** with an upright, wrist-driven technique. His defi
 
 | Item | Benante's Spec | Budget Alternative |
 |------|---------------|-------------------|
-| Drum Kit | Pearl Reference Pure | Pearl Export Series (~$550) |
-| Snare | Pearl Free-Floating Steel 14" x 5" | Ludwig Acrolite or Pearl Sensitone Steel |
-| Cymbals | Sabian AAX Stage Series | Sabian SBR or B8X Pack (~$200) |
-| Pedal | Pearl Eliminator Redline Double | Pearl P-2002C Eliminator (~$200) |
-| Sticks | Ahead Charlie Benante Signature | Vic Firth 5B or Promark 5B |
-| Kick Head | Remo Powerstroke P3 Clear | Evans EMAD2 Clear |
+| Drum Kit | Tama Starclassic Maple | Tama Imperialstar (~$550) |
+| Snare | Tama Charlie Benante Signature 14" x 6.5" (steel) | Tama Superstar Steel or Ludwig Acrolite |
+| Cymbals | Paiste RUDE & 2002 Series | Paiste PST 5 or 101 Pack (~$200) |
+| Pedal | Tama Speed Cobra Double Pedal | Tama Iron Cobra Junior Double Pedal (~$200) |
+| Sticks | Vic Firth Charlie Benante Signature | Vic Firth 5B or Promark 5B |
+| Kick Head | Evans EQ3 Clear | Evans EMAD2 Clear |
 
-**Starter budget path (~$1,100):** Pearl Export + Sabian B8X Pack + Pearl Eliminator Double. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/sabian](https://metalforge.io/brands/sabian).
+**Starter budget path (~$1,100):** Tama Imperialstar + Paiste PST 5/101 Pack + Tama Iron Cobra Junior Double. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/paiste](https://metalforge.io/brands/paiste).
 
 ## Practice Routine
 
@@ -69,16 +69,16 @@ Benante plays **matched grip** with an upright, wrist-driven technique. His defi
 ## FAQ
 
 **Q: What drum kit does Charlie Benante use?**  
-A: Charlie Benante plays Pearl Reference Pure drums with an all-maple shell configuration. He has been a Pearl endorser for decades. His setup uses dual 22" bass drums (independent, not a double pedal) and a two-up, two-down tom configuration for his polyrhythmic fills.
+A: Charlie Benante plays a Tama Starclassic Maple kit with an all-maple shell configuration. He has been a Tama endorser for decades. His setup uses dual 22" bass drums (independent, not a double pedal) and a two-up, two-down tom configuration for his polyrhythmic fills.
 
 **Q: What is Charlie Benante's signature drumming technique?**  
 A: His most recognizable technique is the open hi-hat thrash drive — the hi-hat opens slightly on every eighth-note upbeat while the snare plays on 2 and 4. Paired with syncopated kick patterns that follow guitar riff accent points, this creates a churning, musical quality that distinguishes Anthrax's thrash from purely speed-driven approaches.
 
 **Q: What cymbals does Charlie Benante use?**  
-A: Benante plays Sabian cymbals, primarily the AAX and HHX series. His live setup includes 14" AAX Stage Hi-Hats, AAX Stage Crashes, an AAX Chinese, and an AAX Metal Ride. The AAX series' brightness and fast attack suit his open hi-hat patterns at 200 BPM.
+A: Benante plays Paiste cymbals, primarily the RUDE and 2002 series. His live setup includes 14" RUDE Hi-Hats, RUDE and 2002 Crashes, a RUDE China, and a RUDE Power Ride. The RUDE series' brightness and fast attack suit his open hi-hat patterns at 200 BPM.
 
 **Q: Does Charlie Benante use double bass?**  
-A: Yes. Benante uses dual 22" bass drums (independent kick drums) with Pearl Eliminator Redline double pedals. Two independent kicks eliminate slave-pedal response lag and provide complete foot independence for his syncopated kick accent technique.
+A: Yes. Benante uses dual 22" bass drums (independent kick drums) with a Tama Speed Cobra double pedal. Two independent kicks eliminate slave-pedal response lag and provide complete foot independence for his syncopated kick accent technique.
 
 **Q: What are the best songs to learn Charlie Benante's style?**  
 A: Start with "Among the Living" and "Caught in a Mosh" from Among the Living (1987) — both showcase the open hi-hat drive and kick-guitar lock in clear contexts. "I Am The Law" demonstrates the kick-guitar riff-lock technique, while "Indians" shows his mid-tempo range. "Got the Time" from Persistence of Time (1990) demonstrates dynamic control and polyrhythmic fills.

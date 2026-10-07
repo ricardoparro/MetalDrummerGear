@@ -10,7 +10,7 @@ The genre demands exceptional endurance, speed, and the ability to maintain cont
 |---|---|---|---|
 | Lars Ulrich | Metallica | Tama Starclassic + Zildjian A Custom | [/drummer/lars-ulrich](/drummer/lars-ulrich) |
 | Dave Lombardo | Slayer | Pearl + Zildjian | [/drummer/dave-lombardo](/drummer/dave-lombardo) |
-| Charlie Benante | Anthrax | Tama + Zildjian A Custom | [/drummer/charlie-benante](/drummer/charlie-benante) |
+| Charlie Benante | Anthrax | Tama Starclassic + Paiste | [/drummer/charlie-benante](/drummer/charlie-benante) |
 | Dirk Verbeuren | Megadeth | Pearl Reference | [/drummer/dirk-verbeuren](/drummer/dirk-verbeuren) |
 | Gene Hoglan | Dark Angel / Death / Testament | Pearl Reference Pure + Meinl | [/drummer/gene-hoglan](/drummer/gene-hoglan) |
 | Igor Cavalera | Sepultura | Pearl Reference + Paiste | [/drummer/igor-cavalera](/drummer/igor-cavalera) |
@@ -34,7 +34,7 @@ The genre demands exceptional endurance, speed, and the ability to maintain cont
 ## Gear Preferences by Drummer
 - **Lars Ulrich**: Tama Starclassic Maple, Zildjian A Custom cymbals, Remo heads
 - **Dave Lombardo**: Pearl Reference Pure, Zildjian cymbals, Pearl Demon Drive pedals
-- **Charlie Benante**: Tama Starclassic, Zildjian A Custom, Tama Iron Cobra pedals
+- **Charlie Benante**: Tama Starclassic, Paiste cymbals, Tama Speed Cobra pedals
 - **Dirk Verbeuren**: Pearl Reference, Meinl Byzance, Pearl Demon Drive
 - **Gene Hoglan**: Pearl Reference Pure — known as "The Atomic Clock" for metronomic precision
 - **Igor Cavalera**: Pearl Reference, Paiste cymbals; tribal influences blend with thrash aggression

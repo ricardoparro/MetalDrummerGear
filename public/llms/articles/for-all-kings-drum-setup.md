@@ -23,7 +23,7 @@ The album's songwriting — developed over an extended period following the Wors
 - **Drums:** Tama Tama Starclassic Maple (Custom finish finish)
 - **Snare:** Tama Tama Charlie Benante Signature Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002 / Signature / RUDE Series
-- **Hardware / Pedals:** Tama Speed Cobra HP910LN (two single pedals); Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth Charlie Benante Signature / 2B
+- **Hardware / Pedals:** Tama Speed Cobra HP910LN (two single pedals); Tama Speed Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth Charlie Benante Signature / 2B
 - **Heads:** Evans Power Center (batter), Evans Snare Side 300 (resonant)
 - **Snare tuning:** High tension for thrash attack and precision — consistent with the Worship Music approach
 

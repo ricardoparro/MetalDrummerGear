@@ -25,7 +25,7 @@ The album also closed an 18-year gap in Anthrax's studio partnership with Bellad
 - **Drums:** Tama Tama Starclassic Maple (Custom finish finish)
 - **Snare:** Tama Tama Charlie Benante Signature Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002 / Signature Series
-- **Hardware / Pedals:** Tama Speed Cobra HP910LN (two single pedals); Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth Charlie Benante Signature / 2B
+- **Hardware / Pedals:** Tama Speed Cobra HP910LN (two single pedals); Tama Speed Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth Charlie Benante Signature / 2B
 - **Heads:** Evans Power Center (batter), Evans Snare Side 300 (resonant)
 - **Snare tuning:** High tension for maximum attack and cut — thrash-era approach matching the Belladonna reunion context
 

@@ -26,7 +26,7 @@ This article breaks down every piece of gear behind four decades of relentless i
 - **Drums:** Tama Tama Starclassic Maple (Custom Finishes (various) finish)
 - **Snare:** Tama Tama Charlie Benante Signature Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002 / Signature / RUDE mix
-- **Hardware / Pedals:** Tama Speed Cobra Double Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth Charlie Benante Signature; Various Roland triggers
+- **Hardware / Pedals:** Tama Speed Cobra Double Pedal; Tama Speed Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth Charlie Benante Signature; Various Roland triggers
 - **Heads:** Evans Power Center (batter), Evans Snare Side 300 (resonant)
 - **Snare tuning:** Medium-high for maximum cut and projection
 

@@ -152,9 +152,9 @@ export const articles = {
         {
           "type": "Hi-Hat Stand",
           "brand": "Tama",
-          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "model": "Tama Speed Cobra Hi-Hat Stand",
           "notes": "Smooth action for fast footwork",
-          "description": "The Iron Cobra hi-hat provides the quick, consistent action Benante needs for complex hi-hat patterns. The leg bracing prevents movement during intense playing."
+          "description": "The Speed Cobra hi-hat stand provides the quick, consistent action Benante needs for complex hi-hat patterns. The leg bracing prevents movement during intense playing."
         },
         {
           "type": "Throne",
@@ -2002,9 +2002,9 @@ export const articles = {
         {
           "type": "Hi-Hat Stand",
           "brand": "Tama",
-          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "model": "Tama Speed Cobra Hi-Hat Stand",
           "notes": "Heavy-duty stand for the aggressive hi-hat work across the album",
-          "description": "The Iron Cobra hi-hat stand provides the stability and smooth clutch action that Benante's fast hi-hat patterns require. The album's tighter, more aggressive tracks demanded precise hi-hat control, and the Iron Cobra's reliable mechanism supported both closed and half-open patterns across Worship Music's varied tempos."
+          "description": "The Speed Cobra hi-hat stand provides the stability and smooth clutch action that Benante's fast hi-hat patterns require. The album's tighter, more aggressive tracks demanded precise hi-hat control, and the Speed Cobra's reliable mechanism supported both closed and half-open patterns across Worship Music's varied tempos."
         },
         {
           "type": "Throne",
@@ -2312,9 +2312,9 @@ export const articles = {
         {
           "type": "Hi-Hat Stand",
           "brand": "Tama",
-          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "model": "Tama Speed Cobra Hi-Hat Stand",
           "notes": "Reliable, heavy-duty platform for the album's precise hi-hat work",
-          "description": "The Iron Cobra stand's smooth clutch action and solid construction supported the controlled hi-hat vocabulary across For All Kings' varied tempo and style range. From the mid-tempo groove of \"Evil Twin\" to the high-velocity patterns of \"Zero Tolerance,\" the stand's stable platform contributed to the precision of Benante's hi-hat performance throughout the recording sessions."
+          "description": "The Speed Cobra stand's smooth clutch action and solid construction supported the controlled hi-hat vocabulary across For All Kings' varied tempo and style range. From the mid-tempo groove of \"Evil Twin\" to the high-velocity patterns of \"Zero Tolerance,\" the stand's stable platform contributed to the precision of Benante's hi-hat performance throughout the recording sessions."
         },
         {
           "type": "Throne",
@@ -3202,8 +3202,8 @@ export const articles = {
         {
           "type": "Hi-Hat Stand",
           "brand": "Tama",
-          "model": "Tama Iron Cobra Hi-Hat Stand",
-          "notes": "Heavy-duty stand upgraded alongside the new Starclassic Maple kit"
+          "model": "Tama hi-hat stand (specific model unconfirmed)",
+          "notes": "Upgraded alongside the new Starclassic Maple kit; the Speed Cobra hardware line was still years away in 2003"
         },
         {
           "type": "Throne",

@@ -27,7 +27,7 @@ This article breaks down the kit, cymbals, hardware, and recording approach behi
 - **Drums:** Tama Tama Starclassic Maple (Custom finish finish)
 - **Snare:** Tama Tama Starclassic Steel Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002 / RUDE
-- **Hardware / Pedals:** Chain-drive double pedal configuration (specific model unconfirmed); Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark Hickory 2B
+- **Hardware / Pedals:** Chain-drive double pedal configuration (specific model unconfirmed); Tama hi-hat stand (specific model unconfirmed); Tama 1st Chair; Pro-Mark Hickory 2B
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Higher, brighter tension than the Sound of White Noise/Stomp 442/Volume 8 era — a return toward thrash-era crack
 

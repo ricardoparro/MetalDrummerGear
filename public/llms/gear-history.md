@@ -482,27 +482,29 @@ Brann Dailor's 2009 setup behind Mastodon's Crack the Skye — widely regarded a
 
 Charlie Benante's 1987 thrash metal setup during Anthrax's commercial breakthrough. Built around a Tama Artstar II shell pack with Paiste 2002 cymbals, this rig defined the tightly controlled yet explosive thrash sound that placed Anthrax at the forefront of the Big 4.
 
-### Among the Living Era (1987)
+### Early Anthrax Era (1983–1986)
 
-- **Kit:** Tama Artstar II — 7-piece; 22"x18" kick, 8"x8" rack, 10"x9" rack, 12"x10" rack, 14"x14" and 16"x16" floors
-- **Snare:** Pearl Free-Floating Steel 14"x5"
-- **Cymbals:** Sabian HH Series — 14" hi-hats, 16" crash, 18" crash, 20" ride
-- **Original setup cost (1987):** ~$2,478
-- **Inflation-adjusted to 2026:** ~$7,147
+- **Kit:** Tama Artstar — birch shells, dual 22"x16" kicks, 10"/12"/13" racks, 16" floor
+- **Snare:** Tama Artstar Steel 14"x6.5"
+- **Cymbals:** Paiste 2002 / RUDE Series — 14" hi-hats, 16"/18" crashes, 20" ride
+- **Original setup cost (1983):** ~$2,200
+- **Inflation-adjusted to 2026:** ~$6,500
 
-### Sound of White Noise Era (1993)
+### John Bush Groove-Metal Era (1993–1998)
 
-- **Kit:** Pearl Export — transitional kit during endorsement shift
-- **Snare:** Pearl Free-Floating Steel 14"x5"
-- **Cymbals:** Sabian HH and HHX Series (mixed)
-- **Notable:** With John Bush replacing Joey Belladonna on vocals, Anthrax pivoted toward a heavier, more groove-oriented sound on Sound of White Noise. Benante's kit transition to Pearl hardware mirrored this shift — Pearl's fuller, rounder tone suited the album's more modern production aesthetic.
+- **Kit:** Tama Artstar Custom / Granstar — dual 22"x18" kicks, 10"/12"/13" racks, 16"-18" floor toms
+- **Snare:** Tama Bell Brass 14"x6.5" — carried over from the late-80s setup
+- **Cymbals:** Paiste 2002 Series — 14" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China
+- **Original setup cost (1993):** ~$6,000
+- **Inflation-adjusted to 2026:** ~$10,500
 
-### Current Setup (2010s–present)
+### Worship Music Reunion & Modern Era (2011–present)
 
-- **Kit:** Pearl Reference Pure — flagship Pearl shell pack, all-maple construction
-- **Snare:** Pearl Free-Floating Steel/Brass 14"x5"
-- **Cymbals:** Sabian HHX Evolution and AAX series
-- **Notable:** The Pearl Reference Pure represents the top of Pearl's product line, using a multi-wood construction optimised for maximum projection and tonal complexity. Benante's current setup reflects four decades of refinement while retaining the fundamental clarity-and-speed philosophy that defined his 1987 rig.
+- **Kit:** Tama Starclassic Maple — all-maple, dual 22"x18" kicks, three rack toms, two floor toms
+- **Snare:** Tama Charlie Benante Signature 14"x6.5" — his first true signature snare
+- **Cymbals:** Paiste 2002 / Signature / RUDE Series
+- **Original setup cost (2011):** ~$9,500
+- **Inflation-adjusted to 2026:** ~$11,000
 
 **Price Evolution:**
 - 1987: $2,478 (Original Purchase) — Among the Living recording

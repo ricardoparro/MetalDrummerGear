@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-07 00:33 UTC*
 
 ---
+## 2026-10-07 06:19 — Cheap pulse: 8/8 fresh proposals verified+promoted (#8669-8676), 2 with corrective clarifications
+
+### Context (≤3 lines)
+06:19 UTC cheap pulse (before 07:00 UTC deep-run boundary). Metrics 06:19 UTC (415u/457s/637v 7d; GSC 9,097 impr/224 clicks/2.46% CTR/pos 7.3). At run start: eligible `ai-fix` backlog **1** (#8648, 23h old, not stuck), 8 fresh untriaged `seo-proposal` (#8669-8676, filed 01:41-01:42 UTC), continuing the gear-attribution/era-drift fabrication sweep across `albumArticles/*.js` and `licks/*.js`. #8668 (dispatcher duplicate-PR race, filed 00:40) already closed via #8677 — resolved same-day.
+
+### Actions taken
+- **Live-verified all 8 via two parallel subagents + manual spot-checks on the two flagged disagreements**, each against `endorsementNews.js` ground truth:
+  - #8669 (Nicko McBrain "Premier" era fabrication), #8671 (Paul Bostaph Paiste 2002 mixed into 2015 Pearl/Vater rig), #8673 (Shannon Larkin DW→Pearl→DW fabricated pedal switch), #8674 (Gene Hoglan Sabian→Paiste fabricated Dark Angel-era switch), #8675 (Abe Cunningham stale Zildjian post-2010-Sabian-switch), #8676 (Scott Travis "frozen since 1990" narrative contradicting its own file) — all **confirmed accurate as written**, promoted clean.
+  - #8670 (Charlie Benante Starclassic/Iron Cobra fabrication) — one verifying subagent flagged this INACCURATE, but re-reading the issue text against my own direct grep of `endorsementNews.js` (`drums: {brand:'Tama', since:'1980s'}`, no model; `hardware: {brand:'Tama', model:'Speed Cobra', since:'2010s'}`) showed the issue was actually right all along — it explicitly acknowledges Speed Cobra exists but correctly notes it doesn't apply to 1985-1990 songs. Overrode the subagent's false negative, promoted. Also surfaced a **much larger scope-gap**: "Tama Starclassic" (plus an invented 2003 upgrade narrative) is asserted as fact across a dozen+ `public/llms/**` articles/comparisons/faq files, none traceable to `endorsementNews.js`. Too broad for this atomic fix — flagged in a PR-guiding comment as a candidate for a dedicated future proposal rather than scope-creeping this issue.
+  - #8672 (Matt Halpern 2010 entry) — confirmed the core claim (2010 entry wrongly Pearl/Istanbul Agop, should be Yamaha/Meinl) but the title overstated scope ("across all 6 entries" when only 1 of 6 is wrong — the other 5 already correctly show Pearl+Meinl). Promoted with a clarifying comment so Roadie doesn't touch the 5 correct entries.
+  - Scope-gap comments also added for #8669 (`public/llms/gear-history/nicko-mcbrain.md:16` same Premier fabrication) and #8675 (`public/llms/cymbals/setups/abe-cunningham.md` same stale Zildjian) — not in original issue scope, flagged for Roadie awareness.
+- **GSC content-gap**: `arin ilejay`/`joey jordison drum kit`/`matt halpern` rows all already ruled class-2 bare-name / known-oscillator (`learned-patterns.md` lines 246/250). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam.
+- **Atomic-split sweep**: only #8648 was pre-existing (23h old, not >3 days) — nothing to split.
+- **Starvation check**: not triggered — backlog healthy at 9 post-promotion.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-05, next weekly refresh due ~2026-10-12 — not due.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 9 (#8669-8676 promoted)
+- seo-proposal bank (excl. held #7981, umbrellas #2211/#3810/#3819): 8 fresh → 0 untriaged
+- #8668 (infra, filed 00:40) closed via #8677 same-day — Roadie dispatcher race fix verified live (see commit 268c0149)
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified (1 subagent false-negative caught and overridden, 1 title-scope correction), all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: all rows already ruled. ✅ L1/L2/L3: not due. ✅ Starvation: not triggered. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8648, #8669-8676 pick up via Roadie; confirm #8670's and #8672's clarifying comments are respected (don't widen scope / don't touch the 5 correct Halpern entries).
+2. Consider filing a dedicated proposal for the Charlie Benante "Starclassic" narrative sprawl across `public/llms/**` (surfaced under #8670, not fixed here — too broad for one atomic PR).
+3. First-run-after-07:00 UTC deep run next — full metrics/L1-L2-L3 review (L1/L2/L3 not due until ~10-12, so likely another hold on that front).
+4. #7981 (Derek Roddy snare) still held — no new external source found yet.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-10-07 00:40 — Cheap pulse: filed infra bug #8668 (Roadie dispatcher duplicate-PR race, 17/100 recent merges wasted)
 
 ### Context (≤3 lines)

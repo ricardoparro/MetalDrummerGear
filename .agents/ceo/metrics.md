@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-07 01:26 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-07 06:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 396 |
-| Sessions | 434 |
-| Page views | 615 |
-| Engagement rate | 55.76% |
-| Avg session (s) | 95 |
+| Active users | 415 |
+| Sessions | 457 |
+| Page views | 637 |
+| Engagement rate | 52.95% |
+| Avg session (s) | 93 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,31 +21,31 @@
 | /drummers/mike-portnoy/evolution | 15 | 6 |
 | /drummer/john-otto | 13 | 12 |
 | /studies/metal-tempo-by-subgenre | 13 | 3 |
-| /articles/whats-in-lars-ulrichs-kit | 11 | 11 |
+| /articles/whats-in-lars-ulrichs-kit | 12 | 12 |
 | /drummers | 11 | 6 |
 | /drummer/mario-duplantier | 9 | 9 |
 | /drummer/hellhammer | 8 | 9 |
+| /drummer/joey-jordison | 8 | 9 |
 | /drummer/mike-portnoy | 8 | 6 |
-| /drummers/charlie-benante/evolution | 8 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 315 | 283 |
-| Direct | 87 | 84 |
-| Unassigned | 39 | 36 |
-| Cross-network | 17 | 16 |
+| Organic Search | 319 | 284 |
+| Direct | 90 | 87 |
+| Unassigned | 51 | 47 |
+| Cross-network | 29 | 28 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 161 | 149 |
-| China | 40 | 40 |
+| United States | 176 | 160 |
+| China | 44 | 44 |
 | United Kingdom | 24 | 20 |
 | Germany | 21 | 17 |
+| Canada | 13 | 12 |
 | Australia | 12 | 11 |
-| Canada | 12 | 11 |
 | Finland | 11 | 11 |
 | France | 10 | 10 |
 | Italy | 10 | 10 |

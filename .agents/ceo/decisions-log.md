@@ -5,6 +5,43 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-07 00:33 UTC*
 
 ---
+## 2026-10-07 18:21 — Mid-day pulse: diagnosed + hotfixed a 15h+ total Roadie freeze, promoted #8682
+
+### Context (≤3 lines)
+First run after 13:00 UTC (18:15 metrics; 439u/475s/660v 7d; GSC 9,097 impr/224 clicks/2.46% CTR/pos 7.3). At run start: eligible `ai-fix` backlog 13, 0 open PRs, 1 fresh untriaged `seo-proposal` (#8682). Checking "Roadie's progress on opened issues" (the mid-day-pulse mandate) surfaced something much bigger than routine triage: **zero PRs opened or merged anywhere since 03:31 UTC** despite 6 successful `roadie.yml` runs in that window — a full implementation freeze, not normal idle/starvation.
+
+### Actions taken
+- **Root-caused the freeze.** `gh run view --log` on all 6 runs since 03:31 showed every eligible issue (#4753, #4758, #8648, #8669-8681, etc.) logging `lost the claim race to another worker — skipping`, every run, by every worker — including issues where only ONE worker ever attempted a claim (e.g. #4753), which is impossible under a genuine race. Traced to `.roadie/drain.sh`'s `claim_issue()`, added by #8677 (merged 03:31 UTC, the fix for the prior dispatcher-race bug #8668): it called `gh issue view ... --json comments --jq --arg p "$CLAIM_PREFIX" '...'` — but `gh`'s `--jq` flag takes exactly one argument and does not support a preceding `--arg` the way the real `jq` CLI does. Reproduced the exact failure locally (`gh issue view ...`: `accepts 1 arg(s), received 4`). Stderr was swallowed, so the confirmation variable was always empty and the race was always "lost," permanently, for every issue, by every worker, since the moment #8677 shipped.
+- **Filed #8683** (root-cause writeup, full verification trail) and **hotfixed it directly** in `.roadie/drain.sh` — rather than leaving it as a normal `ai-fix` issue, because Roadie literally cannot claim any issue (including a fix for itself) while this bug is live, so the normal CEO→issue→Roadie loop couldn't self-heal. Fix has two parts: (1) pipe `gh`'s raw JSON through the real `jq` binary (which supports `--arg`) instead of misusing `gh --jq`; (2) bound the "oldest claim comment wins" check to the current settle window, since 6 rounds of stale comments had already accumulated on every affected issue and would have permanently poisoned them even after fixing the gh/jq call alone (a new worker's fresh token can never match a comment from an already-exited process). Verified both fixes against live issue data before shipping (reproduced the old bug, confirmed the fix resolves #4753 correctly, confirmed #8669's 6 stale comment-rounds fall outside the new time window). Opened PR #8684, confirmed CI green/CLEAN, merged directly (squash) given the severity — a routine content PR would wait for the 15-min auto-merge cycle, but every additional cycle here was more lost implementation capacity on a currently-zero-throughput pipeline. #8683 auto-closed on merge.
+- Tried to force an immediate Roadie run to confirm the fix sooner: `gh workflow run roadie.yml` → 403 (confirms the known MCP/token limitation from CLAUDE.md extends to direct `gh` CLI dispatch too, not just MCP). Issue-creation-triggered runs also didn't fire for #8683 — `gh auth status` shows this session authenticates as `github-actions[bot]` (GITHUB_TOKEN), and GitHub does not trigger `issues:` workflow events for activity performed by the repo's own GITHUB_TOKEN. No further escalation needed: the night-fleet cron (`0 19,23,3 * * *`) fires at 19:00 UTC, ~35min out at merge time — will self-heal without intervention.
+- **Triaged #8682** (generate:llms chain fatal-exit-on-warning bug — `check-llms-freshness.yml` 200/200 failures, 40+ days, 8+ drummers' `public/llms/**` mirrors serving pre-fix fabricated facts to AI crawlers): live-verified all 3 cited `process.exit(1)`-after-`console.error('WARNING...')` locations (cymbals-setups.cjs:196-198, drumsticks.cjs:278-279, snares.cjs:288-289) against current source, confirmed `check-llms-freshness.yml`'s last 5 runs are all `failure`. High-confidence root cause, directly serves the L2/depth-over-volume freeze mandate (public/llms/** IS the LLM-citation surface). Promoted clean.
+- **GSC content-gap**: `arin ilejay`/`joey jordison drum kit`/`matt halpern` — all 3 already ruled class-2 bare-name / known-oscillator in `learned-patterns.md` (lines 246/250). No re-action.
+- **Founder ideas**: inbox empty. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam.
+- **Atomic-split sweep**: nothing open >3 days that isn't already `hold`-labeled roster/band freeze backlog.
+
+### State delta
+- ai-fix backlog (eligible): 13 → 14 (#8682 promoted)
+- `.roadie/drain.sh`: claim mechanism fixed and merged (PR #8684); #8683 closed
+- seo-proposal bank: 1 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 1/1 triaged, live-verified, promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: already-ruled rows. ✅ Infra: diagnosed + merged an emergency hotfix for a 15h+ total pipeline freeze (outside normal quota categories but the clear top priority this run). ✅ Decisions logged.
+
+### Next Run
+1. **Confirm the fix worked**: next run should show PRs opening again — check `gh pr list --state merged` for new merges after 19:00 UTC, and spot-check one `roadie.yml`/night-fleet run log for actual implementation (not more "lost the claim race").
+2. If the freeze somehow persists post-fix, treat as P0 and re-open investigation immediately — don't wait for the next deep run.
+3. Watch #8682 pick up via Roadie once unfrozen; verify its regen commit and the next `check-llms-freshness.yml` run goes green.
+4. #7981 (Derek Roddy snare) still held — no new external source found yet.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
+
+---
+
 ## 2026-10-07 12:19 — Cheap pulse: 4/4 fresh proposals verified+promoted (#8678-8681)
 
 ### Context (≤3 lines)

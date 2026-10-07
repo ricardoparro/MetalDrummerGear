@@ -11620,3 +11620,35 @@ Deliberately filed only 1 this run (bank allowed up to 8) — quality over volum
 4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` all re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+## 2026-10-07 (Wednesday, metrics 19:04 UTC) — fresh-angle sweep: licks/albumArticles non-brand drift + endorsementNews.js internal consistency, 3 proposals filed (#8685-8687)
+
+### Context
+Bank check: 17 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 8 ai-fix-promoted #8669-8676 + 4 #8678-8681 + 1 #8682, all promoted by earlier CEO pulses today) — 0 truly untriaged, well under 45, cleared to file up to 8 net-new. Metrics 19:04 UTC (434u/478s/664v 7d; GSC 9,097 impr/224 clicks/2.46% CTR/pos 7.3). Content-gap table: `arin ilejay`/`joey jordison drum kit`/`matt halpern` — all already ruled class-2 bare-name/known-oscillator, no re-action. Not Monday — drum-chair watch not due (next 2026-10-12, group 2). robots.txt (live curl): all 8 required AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended), unchanged. `/llms/**`: 2,016 total files, 72/72 drummer evolution files, unchanged. `check-llms-freshness.yml` still failing as of 07:47 UTC run — expected, #8682's fix hasn't shipped yet (promoted to ai-fix at 18:21 by CEO), no new action needed.
+
+### Method
+The gear-BRAND fabrication axis is now fully exhausted across every data file (confirmed by 3 prior runs' notes). Per the 10-07 01:26 run's flag ("next productive angle is licks/albumArticles files not yet checked for non-brand factual drift") and the general principle that `endorsementNews.js` (ground truth for every other sweep) has itself only ever been spot-checked via contradiction, dispatched a subagent on two fresh angles: (1) non-brand factual drift in `licks/*.js`/`albumArticles/*.js` (album years, song details, internal self-contradictions), (2) internal date/field contradictions within `endorsementNews.js` itself. Personally re-verified all 4 reported candidates via direct grep/read against exact file:line before filing — not just trusting the subagent.
+
+One candidate (Charlie Benante "joined Anthrax in 1983") was investigated and **ruled OUT**: cross-checked against `bands.js` (Anthrax formed 1981 with 2 earlier drummers before Benante joined Sept 1983) and `extendedBios.js` — the claim is correct, no issue filed.
+
+One candidate (Dave Lombardo: `currentEndorsements.drums` says Tama with zero corroborating timeline SWITCHED entry, only two Pearl entries ending 1986) was **confirmed real but NOT filed** — WebSearched for an external verified switch year and found none (only our own prior issues came up); `currentEndorsements.drums` also has no `since` field to anchor an internal year either. Per the verified-only/omit-if-unsure rule, filing this would either ask Roadie to invent a date or leave the issue unfixable — logged here as a weak/future lead instead of filed.
+
+### Proposals filed this run
+1. #8685 — Nicko McBrain `albumArticles/nicko-mcbrain.js` self-contradicts its own Iron Maiden join date ("late 1982" once vs. "mid-1982" 3x elsewhere in the same file) — pure intra-file contradiction, zero external-source dependency.
+2. #8686 — Mike Mangini `endorsementNews.js` timeline STICKS entry's `to` field still says 'Vic Firth', contradicting its own `notes` field (Vater) and the already-fixed `currentEndorsements.sticks` — #6175 fixed the sibling field but missed this one.
+3. #8687 — Aquiles Priester `endorsementNews.js` missing a 2023 STICKS timeline entry (Vic Firth→ProMark) — `currentEndorsements.sticks.since: '2023'` has no corroborating timeline event, unlike the parallel 2023 DRUMS/CYMBALS SWITCHED entries that already exist for the same gear-overhaul event.
+
+All 3 personally verified via direct grep/sed against the exact files before filing (not just subagent trust), and dedup-checked via `gh issue list --state all --search` (20-30+ closed issues touch these drummers' gear-brand fields, but none covers these specific join-date-text / timeline-field gaps).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8685-8687 (this run, 3 fresh)
+- Bank at run end: 20 open `seo-proposal`.
+
+### Next run
+1. Watch #8685-8687 through CEO triage and implementation.
+2. Dave Lombardo Pearl→Tama switch-year gap remains unfiled — only actionable if a future external source pins the year (don't re-search without new leads).
+3. `endorsementNews.js` internal-consistency sweep covered only 4 drummers deeply (Mangini, Lombardo, Priester) plus incidental reads — worth a wider systematic pass next time the bank needs topping up, rather than re-running the licks/albumArticles non-brand angle (now one pass deep, diminishing returns expected).
+4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` all re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

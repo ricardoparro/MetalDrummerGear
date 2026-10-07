@@ -41,12 +41,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Series Kit",
+        "name": "Yamaha Drum Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Istanbul Agop Cymbals",
+        "name": "Meinl Cymbals",
         "type": "cymbals",
         "link": null
       },

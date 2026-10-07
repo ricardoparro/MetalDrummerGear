@@ -11558,3 +11558,37 @@ All 8 personally dedup-checked (directly or via subagent + my own spot-check) ag
 3. `licks/*.js` and `albumArticles/*.js` are now swept once each — if a future sweep comes up dry on the 7 remaining leads, the next productive angle is likely `licks/`/`albumArticles/` files not yet checked for non-brand factual drift (album years, song details) rather than another gear-brand pass.
 4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` all re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+## 2026-10-07 (Wednesday, metrics 07:11 UTC) — follow-up to 01:26 sweep: verified 7 pre-identified leads + CEO-flagged Benante llms-sprawl lead, 4 confirmed proposals filed (#8678-8681)
+
+### Context
+Bank check: 12 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 8 `ai-fix`-promoted #8669-8676 from the 01:26 run, promoted by the 06:19 CEO pulse) — 0 truly untriaged, well under 45, cleared to file up to 8 net-new. Metrics 07:11 UTC (415u/457s/639v 7d; GSC 9,097 impr/224 clicks/2.46% CTR/pos 7.3). Content-gap table: `arin ilejay`/`joey jordison drum kit`/`matt halpern` — all already ruled class-2 bare-name/known-oscillator, no re-action. Not Monday — drum-chair watch not due (next 2026-10-12, group 2). robots.txt (live curl): all 8 AI crawlers explicitly allowed, unchanged.
+
+### Method
+The 01:26 run's "next run" notes flagged 7 solid-but-unverified leads (mario-duplantier, george-kollias, daray, martin-lopez, matt-greiner, vinnie-paul, sean-reinert) plus the CEO's 06:19 decision log flagged a fresh lead: a "Tama Starclassic" narrative sprawl across `public/llms/**` surfaced while verifying #8670 (Charlie Benante). Dispatched two subagents to verify both in parallel against `endorsementNews.js` ground truth with dedup checks (`gh issue list --search`).
+
+**Of the 7 leads: 3 CONFIRMED, 3 REJECTED (already correct/already fixed by closed issues — Mario Duplantier #7588, George Kollias #7538, Matt Greiner extensive prior history), 1 WEAK (Sean Reinert — omit-if-unsure, vague-but-not-crisply-contradicted).** The Benante llms-sprawl lead: CONFIRMED, broader than expected (~15 files, plus a bonus third-fabrication finding in `gear-history.md`).
+
+Personally re-verified exact line numbers for all 4 filed issues via direct grep/Read against both the claim files and `endorsementNews.js` before filing (not just trusting subagent reports) — in the process found the Daray lead was actually a bigger bug than originally scoped (the whole `daray-drum-setup` article is frozen at the pre-2014 Pearl era with zero mention of the 2014 Tama Starclassic switch, not just a pedal-model mix-up) and confirmed a candidate duplicate-module concern (`public/llms/vs/` vs `public/llms/comparisons/`) was actually NOT a bug — `api/sitemap.js:866-871` documents it's an intentional distinct-format surface (checked before filing, avoided a false-premise issue).
+
+### Proposals filed this run
+1. #8678 — Daray `albumArticles/daray.js` "current kit" frozen at pre-2014 Pearl era + wrong pedal model (Demon XR vs Demon Drive)
+2. #8679 — Martin Lopez `albumArticles/martin-lopez.js` "Pearl Export" fabrication survives in 15+ locations outside #7497's narrow fix
+3. #8680 — Vinnie Paul `albumArticles/vinnie-paul.js` pre-2008 pedal brand/model fabrications recur after #8520's narrow fix (includes an internal self-contradiction: two blocks name different pedal brands for the same album)
+4. #8681 — SEO batch: `public/llms/**` Charlie Benante Starclassic/Iron Cobra/2003-narrative sprawl, ~15 files, not covered by #8670
+
+### Dedup notes
+All 4 personally dedup-checked via `gh issue list --state all --search` with full-body reads of the closest prior issues (#5977/#6234/#7783/#8147/#8483/#8557/#6938 for Daray; #6232/#7497 for Martin Lopez; #8520 for Vinnie Paul — read its actual merged-PR scope, not just its title, to confirm the gap; #6326/#7265 for the Benante gear-history bonus finding) before filing.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8678-8681 (this run, 4 fresh)
+- Bank at run end: 16 open `seo-proposal`.
+
+### Next run
+1. Watch #8678-8681 through CEO triage and implementation.
+2. #8681 flagged a systemic pattern worth escalating if it recurs: `public/llms/**` static mirrors can drift stale after source-data fixes land (confirmed for Benante's `gear-history.md`) — if a future sweep finds this same gap on 2-3 more drummers, consider proposing a regeneration-check script rather than more one-off mirror fixes.
+3. Sean Reinert `albumArticles/sean-reinert.js:787-795` tribute-page hardware block remains a WEAK/unfiled lead (vague "Various (DW, Pearl)" framing, not a crisp contradiction) — only worth filing if a future ground-truth update sharpens the picture.
+4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` all re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

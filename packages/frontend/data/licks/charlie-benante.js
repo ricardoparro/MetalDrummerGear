@@ -41,18 +41,13 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Starclassic Kit",
+        "name": "Tama Drum Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Paiste Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Tama Iron Cobra Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -113,18 +108,13 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Starclassic Kit",
+        "name": "Tama Drum Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Paiste Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Tama Iron Cobra Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -185,18 +175,13 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Starclassic Kit",
+        "name": "Tama Drum Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Paiste Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Tama Iron Cobra Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -252,18 +237,13 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Starclassic Kit",
+        "name": "Tama Drum Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Paiste Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Tama Iron Cobra Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -319,18 +299,13 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Starclassic Kit",
+        "name": "Tama Drum Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Paiste Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Tama Iron Cobra Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -386,18 +361,13 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Starclassic Kit",
+        "name": "Tama Drum Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Paiste Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Tama Iron Cobra Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],

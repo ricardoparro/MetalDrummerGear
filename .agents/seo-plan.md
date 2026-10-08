@@ -11779,3 +11779,44 @@ All 7 dedup-checked via `gh issue list --state all --search "<drummer name>"` wi
 2. The `endorsementNews.js` missing-timeline-entry sweep has now covered ~25 of ~71 drummers. Continuing runway exists — the dispatched subagent also flagged a second tier of ~24 more candidates (Mikkey Dee, Charlie Benante, Hellhammer, Flo Mounier, Scott Travis, Paul Bostaph, Shannon Larkin, Morgan Ågren, Navene Koperweis, Paul Mazurkiewicz, Pete Sandoval, Ray Luzier, Raymond Herrera, Richard Christy, Ryan Van Poederooyen, Daray, Kevin Talley, Martin Axenrot, Martin Lopez, Matt Garstka, Nick Menza, Art Cruz, John Longstreth, Jon Dette, Jimmy DeGrasso) not yet independently verified line-by-line — next bank-topping-up run should direct-verify a handful of these rather than re-deriving candidates from scratch. Also unverified: Hannes Grossmann sticks (brand matches, since-year off by 7 years, lower severity).
 3. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+## 2026-10-08 (Thursday, metrics 19:04 UTC) — endorsementNews.js sweep continued into the second-tier candidate list, 7 proposals filed (#8740-8746)
+
+### Context
+Bank check: 11 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 7 already-promoted #8725-8731, confirmed via the 13:09 batch landing in decisions-log.md) — **0 truly untriaged**, well under 45, cleared to file up to 8 net-new. Metrics 19:04 UTC (429u/481s/637v 7d; GSC 9,179 impr/203 clicks/2.21% CTR/pos 7.4). Content-gap table: `arin ilejay` (483 impr, 0.41% CTR), `joey jordison drum kit` (60 impr, 1.67% CTR), `matt halpern` (174 impr, 0.57% CTR) — all three already ruled class-2 bare-name / known-oscillator (`learned-patterns.md` lines 246/250), no re-action. Not Monday — drum-chair watch not due (next 2026-10-12, group 2).
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged. ✅
+- `/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap: 3,162 URLs — unchanged from recent runs.
+
+### Method
+Continued the `endorsementNews.js` missing-timeline-entry sweep per the 13:09 run's note ("the dispatched subagent also flagged a second tier of ~24 more candidates... not yet independently verified line-by-line — next bank-topping-up run should direct-verify a handful"). Personally read the file directly (no subagent) for 7 names off that list — Charlie Benante, Mikkey Dee, Hellhammer, Flo Mounier, Scott Travis, Paul Bostaph, Shannon Larkin — at their exact line numbers (857, 1110, 1184, 1220, 1265, 1419, 1519) and confirmed the same sibling-field-miss shape: a `currentEndorsements` category with a brand/since value and zero corresponding `timeline` row.
+
+Also resolved the Hannes Grossmann weak lead logged 2026-10-08 07:14/13:09: read his entry (line 2274) directly — sticks (Vic Firth, since 2014) has a *matching* 2007 STICKS SIGNED entry already in the timeline (model differs slightly in notes but brand/category align), no bug found, not filed.
+
+Every one of the 7 filed drummers was dedup-checked two ways: `gh issue list --state all --search "<name>"` (full list reviewed — each has 10-20+ closed issues, all targeting *other* files: licks.js, albumArticles.js, drummerEvolution.js, soundLikeGuides.js, genreGearGuides.js, drummerComparisons.js, gearPriceHistory.js, snareBrands.js, gearComparisons.js, pedalBrands.js, api/drummers/index.js — none touch this specific endorsementNews.js timeline-completeness gap), plus a narrower `"<name> endorsementNews"` / `"<name> timeline"` search (surfaced only old, already-closed `currentEndorsements`-wrong-brand fixes from mid-2026, e.g. #6123/#6178/#6134 — all predate and are unrelated to the missing-entry bug class found today). All 7 confirmed to have an existing `public/llms/endorsements/<slug>.md` mirror (`ls` checked) — each issue's Fix/Verify sections require the regen step per standing practice.
+
+Two issues flagged a category with only a vague decade-level `since` (no exact year) — Mikkey Dee's sticks/heads/hardware and Scott Travis's sticks — scoped those as "only add if a year can be sourced elsewhere in the repo, don't invent one" rather than leaving them unaddressed or guessing a year, per the verified-only/omit-if-unsure rule.
+
+### Proposals filed this run
+1. #8740 — Charlie Benante: cymbals/sticks/heads/hardware (4 categories) have no supporting timeline entries
+2. #8741 — Mikkey Dee: cymbals (Paiste since 1987) has no supporting timeline entry; sticks/heads/hardware flagged but not fabricated a year for
+3. #8742 — Hellhammer: sticks/heads/hardware (3 categories) have no supporting timeline entries
+4. #8743 — Flo Mounier: sticks/cymbals/heads/hardware (4 categories) have no supporting timeline entries
+5. #8744 — Scott Travis: heads/hardware have no supporting timeline entries; sticks flagged (vague since, not fabricated)
+6. #8745 — Paul Bostaph: cymbals/sticks/heads/hardware (4 categories, all since 2015) have no supporting timeline entries
+7. #8746 — Shannon Larkin: heads/hardware (since 2002) have no supporting timeline entries
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8740-8746 (this run, 7 fresh)
+- Bank at run end: 17 open `seo-proposal`.
+
+### Next run
+1. Watch #8740-8746 through CEO triage — flag #8741 and #8744 as having a partial scope (vague-since categories intentionally left unfixed, not an oversight).
+2. The `endorsementNews.js` missing-timeline-entry sweep has now covered ~32 of ~71 drummers. The second-tier candidate list from 2026-10-08 13:09 still has runway: Morgan Ågren, Navene Koperweis, Paul Mazurkiewicz, Pete Sandoval, Ray Luzier, Raymond Herrera, Richard Christy, Ryan Van Poederooyen, Daray, Kevin Talley, Martin Axenrot, Martin Lopez, Matt Garstka, Nick Menza, Art Cruz, John Longstreth, Jon Dette, Jimmy DeGrasso — not yet independently verified. Next bank-topping-up run should continue directly from this list.
+3. Hannes Grossmann sticks lead (logged 2026-10-08 13:09) ruled OUT — brand/category match an existing 2007 timeline entry, no bug.
+4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

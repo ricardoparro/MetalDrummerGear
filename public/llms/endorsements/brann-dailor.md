@@ -30,8 +30,11 @@ Brann Dailor endorses Tama for hardware / pedals. They play the Tama Speed Cobra
 
 ## Endorsement History
 
+- **2000s** (Drumsticks): Signed with Vater — Signed with Vater, playing 5B model
+- **2000s** (Drumheads): Signed with Evans — Signed with Evans, using G2 Clear heads
 - **2002** (Drums): Signed with Tama — Joined Tama family during Remission era
 - **2004** (Cymbals): Signed with Meinl — Switched to Meinl for their dark, complex tones
+- **2010s** (Hardware / Pedals): Signed with Tama — Signed with Tama hardware, using Speed Cobra stands
 
 ## FAQ
 

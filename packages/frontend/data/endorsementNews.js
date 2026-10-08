@@ -242,6 +242,22 @@ export const ENDORSEMENT_TIMELINE = {
         product: 'LU1465 Signature Snare Drum',
         notes: '14x6.5" signature snare drum with steel shell',
       },
+      {
+        year: 1986,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: 'Signed with Remo drumheads around the same time as the switch to Tama',
+      },
+      {
+        year: 1990,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        brand: 'Tama',
+        product: 'Iron Cobra 900',
+        notes: 'Adopted the Tama Iron Cobra 900 hardware and pedal line in the early 1990s',
+      },
     ],
   },
   'joey-jordison': {

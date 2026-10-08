@@ -1703,6 +1703,14 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'Paiste',
         notes: 'Adopted a custom red-coated Paiste cymbal set and DW 9000 hardware for the Angra reunion touring and recording setup',
       },
+      {
+        year: 2023,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: 'Vic Firth',
+        to: 'ProMark',
+        notes: 'Adopted a ProMark Aquiles Priester Signature stick alongside the Mapex/Paiste gear overhaul upon returning to Angra for their 2023 album cycle',
+      },
     ],
   },
   'arin-ilejay': {

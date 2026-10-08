@@ -37,8 +37,11 @@ Gavin Harrison endorses Sonor for hardware / pedals. They play the Sonor Perfect
 ## Endorsement History
 
 - **2002** (Drums): Signed with Sonor — Brought a custom Sonor SQ2 shell pack to Porcupine Tree upon joining for "In Absentia," refined through "Deadwing"
+- **2002** (Drumheads): Signed with Remo — Adopted Remo Ambassador Coated heads upon joining Porcupine Tree for "In Absentia"
+- **2002** (Hardware / Pedals): Signed with Sonor — Paired the custom Sonor SQ2 shell pack with Sonor Perfect Balance Pedal hardware upon joining Porcupine Tree for "In Absentia"
 - **2007** (Cymbals): Signature product: Zildjian Zildjian K Custom Special Dry Series — Co-developed the K Custom Special Dry cymbal line with Zildjian, in full use on "Fear of a Blank Planet"
 - **2007** (Drums): Signature product: Sonor Sonor Gavin Harrison Signature Snares (14"x5.25" brass and 12" Protean) — Sonor released signature snare drums developed with Harrison for ghost-note sensitivity and rimshot projection
+- **2007** (Drumsticks): Signature product: Vic Firth Vic Firth Gavin Harrison Signature — Vic Firth released a Gavin Harrison signature stick model alongside his other 2007 signature product launches
 
 ## FAQ
 

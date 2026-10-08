@@ -1232,6 +1232,22 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'ddrum',
         notes: 'Signed with ddrum, who developed his Vinnie Paul Signature Series kit and snare for Hellyeah',
       },
+      {
+        year: 2008,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Signed with Evans drumheads alongside the ddrum deal',
+      },
+      {
+        year: 2008,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'ddrum',
+        notes: 'Signed with ddrum hardware alongside the ddrum drums deal',
+      },
     ],
   },
   'paul-bostaph': {

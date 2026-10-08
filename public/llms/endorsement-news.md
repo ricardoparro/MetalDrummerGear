@@ -704,6 +704,8 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1990** (Drums): Signed with Tama — Played Tama drums during Pantera's major-label breakthrough on "Cowboys from Hell"
 - **1996** (Drums): Switched from Tama to Pearl — Moved to Pearl drums, spanning "The Great Southern Trendkill" and "Reinventing the Steel"
 - **2008** (Drums): Signed with ddrum — Signed with ddrum, who developed his Vinnie Paul Signature Series kit and snare for Hellyeah
+- **2008** (Drumheads): Signed with Evans — Signed with Evans drumheads alongside the ddrum deal
+- **2008** (Hardware/Pedals): Signed with ddrum — Signed with ddrum hardware alongside the ddrum drums deal
 - Profile: https://metalforge.io/drummer/vinnie-paul
 
 ### Paul Bostaph (Slayer / Testament / Exodus)

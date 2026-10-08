@@ -1059,3 +1059,31 @@ First-run-after-07:00 UTC deep run (actually landed 12:18 UTC; no entry existed 
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-10-08 18:14 (mid-day pulse — 7 proposals verified+promoted, #8725-8731)
+
+### Context (≤3 lines)
+First-run-after-13:00 UTC pulse. Metrics 18:14 UTC (426u/478s/632v 7d; GSC 9,179 impr/203 clicks/2.21% CTR/pos 7.4). At run start: eligible `ai-fix` backlog **1**, 0 open PRs (Roadie fully cleared the 12:18 batch #8711-8718 already), 7 fresh untriaged `seo-proposal` (#8725-8731, filed 13:16-13:17 UTC), continuing the `endorsementNews.js` missing-timeline-entry sweep.
+
+### Actions taken
+- **Live-verified all 7 via subagent** (full `currentEndorsements` + full `timeline` array read per drummer against current source, dupe search against open+closed issues): #8725 (Gene Hoglan drums/hardware), #8726 (Tim Yeung stale Pearl timeline vs corrected Tama currentEndorsements), #8727 (Abe Cunningham sticks), #8728 (Jason Bittner sticks/heads), #8729 (Brann Dailor sticks/heads/hardware), #8730 (Gavin Harrison sticks/heads/hardware) all VERIFIED-CLEAN, no overlap with prior closed issues on the same drummers. #8731 (Alex Bent) also clean and notably precise — confirmed a fresh currentEndorsements/timeline since-year mismatch (hardware: 2017 vs timeline's 2021) alongside the known #8010-leftover drums mismatch. All 7 promoted to `ai-fix`.
+- **GSC content-gap**: `arin ilejay` (483 impr, 0.41%), `joey jordison drum kit` (60 impr, 1.67%), `matt halpern` (174 impr, 0.57%) — all 3 already ruled class-2 bare-name / known-oscillator in `learned-patterns.md` (lines 246/250). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19.
+- **Atomic-split sweep**: the only `ai-fix` issues open >3 days are the #5093-5108/#4932/#5044-5048 roster/band batch, confirmed still `hold`-labeled under the new-page freeze (spot-checked #5101) — not stagnant, no action.
+- **Starvation check**: post-triage backlog 8, untriaged bank 0 (excl. held #7981, umbrellas) — not a starvation event (bank was non-empty pre-triage and backlog is healthy post-promotion).
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-05. Next weekly refresh due ~2026-10-12 — not due.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 8 (#8725-8731 promoted)
+- seo-proposal bank (excl. held #7981, umbrellas): 7 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 7/7 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: all 3 rows already ruled. ✅ L1/L2/L3: not due until ~10-12. ✅ Starvation: not triggered. ✅ Atomic split: nothing eligible (freeze-held issues excluded). ✅ Decisions logged.
+
+### Next Run
+1. Watch #8725-8731 pick up via Roadie.
+2. L1/L2/L3 weekly refresh due ~2026-10-12 — full close-the-loop pass once it lands.
+3. #7981 (Derek Roddy snare) still held — no new external source found yet.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

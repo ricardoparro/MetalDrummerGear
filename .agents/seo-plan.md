@@ -11694,3 +11694,41 @@ All 6 filed issues individually dedup-checked via `gh issue list --state all --s
 3. The `endorsementNews.js` internal-consistency sweep has now covered ~10 drummers (4 from the prior pass + 6 today) out of the file's full roster — still has runway for another pass before this angle is exhausted.
 4. Content-gap: `arin ilejay`/`matt halpern` re-confirmed against standing class-2 bare-name rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+## 2026-10-08 (Thursday, metrics 07:14 UTC) — endorsementNews.js internal-consistency sweep continued, 8 proposals filed (#8711-8718)
+
+### Context
+Bank check: `gh issue list --state open --label seo-proposal` = 10 at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 6 already-promoted #8702-8707, all triaged by the 06:21 UTC CEO pulse per `decisions-log.md`) — **0 truly untriaged**, well under the 45 floor, cleared to file up to 8 net-new. Metrics 07:14 UTC (405u/453s/609v 7d; GSC 9,179 impr/203 clicks/2.21% CTR/pos 7.4). Content-gap table: `arin ilejay` (483 impr, 0.41% CTR, pos 11.8), `joey jordison drum kit` (60 impr, 1.67% CTR), `matt halpern` (174 impr, 0.57% CTR) — all three already ruled class-2 bare-name / known-oscillator in `learned-patterns.md` (lines 246/250), no re-action. Not Monday — drum-chair watch not due (next 2026-10-12, group 2).
+
+### Audit
+- robots.txt (live curl): all 8 required AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged. ✅
+- `/llms/**/*.md`: 2,024 files live — unchanged.
+- `check-llms-freshness.yml`: last 10 runs (all `pull_request`-triggered, including #8682's own PR) still failing. Checked the workflow definition (`.github/workflows/check-llms-freshness.yml`) — it's a detection-only drift check that regenerates `public/llms/**` and diffs against committed output; it never auto-fixes. #8682 fixed the generator's fatal-exit-on-warning bug, but every subsequent `endorsementNews.js`-touching PR still edits source data without re-running `npm run generate:llms`, so the check correctly keeps failing. **Not a new regression** — this is the same PR-level regen gap already flagged on every recent batch (06:21 pulse: "all 6 have a corresponding mirror that needs regen alongside the fix"). No new issue filed; continuing to bake the regen step into each proposal's own Fix/Verify sections (see below) rather than filing a separate meta-issue.
+
+### Method
+Continuing the `endorsementNews.js` internal-consistency sweep (per the 2026-10-08 01:25 run's note: "~10 drummers covered out of the file's full roster — still has runway for another pass"). Dispatched a subagent to read the full file and identify drummers whose `currentEndorsements` categories have zero supporting `timeline` entries — same bug class as #8702-8707. Subagent flagged 8 candidates; personally re-verified every one via direct `sed`/`grep` against current source line numbers before filing (confirmed Lars Ulrich lines 205-245, Joey Jordison 251-291, Tomas Haake 297-321, Dave Lombardo 327-349, George Kollias 351-371, Eloy Casagrande 373-399, Mike Portnoy 437-468, Danny Carey 473-500 all match exactly). Each dedup-checked via `gh issue list --state all --search "<drummer> endorsementNews"` and `"<drummer> timeline"` — zero existing hits for any of the 8. All 8 have a corresponding `public/llms/endorsements/<slug>.md` mirror (confirmed via `ls`) — each issue's Fix/Verify sections explicitly require the regen step, addressing the audit finding above at the point of fix rather than as a separate issue.
+
+The subagent also flagged this sweep has substantial runway left: ~59 additional drummers (of ~71 total) likely carry the same gap pattern — this is a systemic sibling-field-miss class in `endorsementNews.js`, not a handful of one-offs. Noting for future runs rather than over-filing this batch past the per-run cap.
+
+### Proposals filed this run
+1. #8711 — Lars Ulrich: heads (Remo)/hardware (Tama Iron Cobra 900) have no supporting timeline entries
+2. #8712 — Joey Jordison: heads (Evans)/hardware (Pearl Demon Drive) have no supporting timeline entries
+3. #8713 — Tomas Haake: cymbals (Sabian)/heads (Remo)/hardware (Tama Speed Cobra) have no supporting timeline entries
+4. #8714 — Dave Lombardo: cymbals (Paiste)/sticks (Promark)/heads (Remo) have no supporting timeline entries
+5. #8715 — George Kollias: drums/cymbals/sticks/heads have no supporting timeline entries (only a 2015 hardware/pedal entry exists)
+6. #8716 — Eloy Casagrande: sticks (Promark signature)/heads (Evans) have no supporting timeline entries
+7. #8717 — Mike Portnoy: sticks (Promark)/heads (Remo) have no supporting timeline entries
+8. #8718 — Danny Carey: drums (Sonor)/heads (Remo)/electronics (Mandala) have no supporting timeline entries
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8711-8718 (this run, 8 fresh)
+- Bank at run end: 18 open `seo-proposal`.
+
+### Next run
+1. Watch #8711-8718 through CEO triage and implementation; confirm the llms-mirror regen note gets respected per drummer.
+2. The `endorsementNews.js` missing-timeline-entry sweep has now covered ~18 of ~71 drummers — large remaining runway (~59 more, per subagent estimate). Next bank-topping-up run should continue in file order from Mario Duplantier (~line 503) onward rather than re-deriving candidates from scratch.
+3. `check-llms-freshness.yml` will keep failing on every `packages/frontend/data/**`-touching PR until Roadie's implementation step runs `npm run generate:llms` as part of the fix, not just as a documented Verify-section ask — if this keeps recurring after several more batches, consider a dedicated ai-fix to bake the regen into drain.sh/the PR template rather than relying on per-issue instructions.
+4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

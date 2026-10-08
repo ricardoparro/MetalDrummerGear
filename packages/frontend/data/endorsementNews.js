@@ -508,6 +508,22 @@ export const ENDORSEMENT_TIMELINE = {
         brand: 'Tama',
         notes: 'Maintained Tama Starclassic Bubinga endorsement after joining Slipknot',
       },
+      {
+        year: '2010s',
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        brand: 'Promark',
+        product: 'Eloy Casagrande Signature',
+        notes: 'Signed with Promark for signature drumstick model',
+      },
+      {
+        year: '2010s',
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Signed with Evans for drumhead endorsement',
+      },
     ],
   },
   'jay-weinberg': {

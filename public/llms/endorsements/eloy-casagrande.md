@@ -32,6 +32,8 @@ Eloy Casagrande endorses Evans for drumheads. This partnership began in 2010s.
 
 - **2005** (Cymbals): Signed with Paiste — Became Paiste artist at age 17, youngest to sign with the brand at the time
 - **2024** (Drums): Signed (Tama) — Maintained Tama Starclassic Bubinga endorsement after joining Slipknot
+- **2010s** (Drumsticks): Signature product: Promark Eloy Casagrande Signature — Signed with Promark for signature drumstick model
+- **2010s** (Drumheads): Signed with Evans — Signed with Evans for drumhead endorsement
 
 ## FAQ
 
@@ -54,4 +56,4 @@ A: See the Endorsement History section above for a full timeline of Eloy Casagra
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

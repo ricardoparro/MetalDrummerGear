@@ -32,6 +32,8 @@ Arin Ilejay endorses DW for hardware / pedals. They play the DW 9000 Series Doub
 
 - **2011** (Drums): Signed with DW — Adopted a DW Collector's Series kit upon joining Avenged Sevenfold as permanent drummer, replacing the late Jimmy "The Rev" Sullivan
 - **2011** (Cymbals): Signed with Zildjian — Set up a Zildjian A Custom cymbal arsenal calibrated for A7X's arena-scale touring
+- **2011** (Drumsticks): Signed with Promark — Played Promark 5B sticks upon joining Avenged Sevenfold as permanent drummer in 2011
+- **2011** (Drumheads): Signed with Remo — Set up Remo Ambassador Coated heads across his DW Collector's Series kit for A7X's 2011 touring cycle
 - **2011** (Hardware / Pedals): Signed with DW — Adopted DW 9000 Series double bass pedals for consistent double-kick action across the A7X world tour
 - **2013** (Drums): Renewed DW deal — Recorded Hail to the King (2013) on his DW Collector's Series kit, the only full studio album he tracked as A7X's drummer
 - **2015** (Drums): Ended DW endorsement — Departed Avenged Sevenfold in late 2014 (split announced 2015), ending his DW-backed A7X run; Brooks Wackerman took over the drum chair
@@ -57,4 +59,4 @@ A: See the Endorsement History section above for a full timeline of Arin Ilejay'
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

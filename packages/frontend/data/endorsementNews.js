@@ -1717,12 +1717,15 @@ export const ENDORSEMENT_TIMELINE = {
     slug: 'arin-ilejay',
     name: 'Arin Ilejay',
     band: 'Avenged Sevenfold (ex) / Confide',
+    // currentEndorsements below reflect his final A7X-era gear (2011-2014); the
+    // DW-backed deal ended with his 2014/2015 departure (see ENDED entry below) —
+    // `until` marks the two DW-branded categories tied to that run, not an active deal.
     currentEndorsements: {
-      drums: { brand: 'DW', model: "Collector's Series", since: '2011' },
+      drums: { brand: 'DW', model: "Collector's Series", since: '2011', until: '2015' },
       cymbals: { brand: 'Zildjian', model: 'A Custom Series', since: '2011' },
       sticks: { brand: 'Promark', model: '5B', since: '2011', signature: false },
       heads: { brand: 'Remo', model: 'Ambassador Coated', since: '2011' },
-      hardware: { brand: 'DW', model: '9000 Series Double Pedal', since: '2011' },
+      hardware: { brand: 'DW', model: '9000 Series Double Pedal', since: '2011', until: '2015' },
     },
     timeline: [
       {
@@ -1740,6 +1743,22 @@ export const ENDORSEMENT_TIMELINE = {
         from: null,
         to: 'Zildjian',
         notes: "Set up a Zildjian A Custom cymbal arsenal calibrated for A7X's arena-scale touring",
+      },
+      {
+        year: 2011,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: null,
+        to: 'Promark',
+        notes: "Played Promark 5B sticks upon joining Avenged Sevenfold as permanent drummer in 2011",
+      },
+      {
+        year: 2011,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: "Set up Remo Ambassador Coated heads across his DW Collector's Series kit for A7X's 2011 touring cycle",
       },
       {
         year: 2011,

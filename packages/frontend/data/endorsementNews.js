@@ -623,6 +623,13 @@ export const ENDORSEMENT_TIMELINE = {
         product: 'Artist Concept Double Down Stack',
         notes: 'Signature cymbal stack for djent-style playing',
       },
+      {
+        year: 2015,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        brand: 'Promark',
+        notes: 'Signature drumstick deal with Promark',
+      },
     ],
   },
   'inferno': {

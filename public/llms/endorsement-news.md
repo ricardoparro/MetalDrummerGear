@@ -598,6 +598,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 - **2010** (Drums): Signed with Yamaha — Initial endorsement with Yamaha during early Periphery days
 - **2015** (Drums): Switched from Yamaha to Pearl — Switched to Pearl with signature snare drum deal
+- **2015** (Drumsticks): Signature product: Promark  — Signature drumstick deal with Promark
 - **2016** (Cymbals): Signature product: Meinl Artist Concept Double Down Stack — Signature cymbal stack for djent-style playing
 - Profile: https://metalforge.io/drummer/matt-halpern
 

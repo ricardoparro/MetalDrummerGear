@@ -628,6 +628,22 @@ export const ENDORSEMENT_TIMELINE = {
         brand: 'Tama',
         notes: 'Returned to Dream Theater with same Tama setup after 13 years',
       },
+      {
+        year: '2000s',
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: null,
+        to: 'Promark',
+        notes: 'Signed with Promark for signature stick models',
+      },
+      {
+        year: '1980s',
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: 'Signed with Remo drumheads',
+      },
     ],
   },
   'danny-carey': {

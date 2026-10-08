@@ -33,6 +33,8 @@ Vinnie Paul endorses ddrum for hardware / pedals. This partnership began in 2008
 - **1990** (Drums): Signed with Tama — Played Tama drums during Pantera's major-label breakthrough on "Cowboys from Hell"
 - **1996** (Drums): Switched from Tama to Pearl — Moved to Pearl drums, spanning "The Great Southern Trendkill" and "Reinventing the Steel"
 - **2008** (Drums): Signed with ddrum — Signed with ddrum, who developed his Vinnie Paul Signature Series kit and snare for Hellyeah
+- **2008** (Drumheads): Signed with Evans — Signed with Evans drumheads alongside the ddrum deal
+- **2008** (Hardware / Pedals): Signed with ddrum — Signed with ddrum hardware alongside the ddrum drums deal
 
 ## FAQ
 
@@ -55,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Vinnie Paul'
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

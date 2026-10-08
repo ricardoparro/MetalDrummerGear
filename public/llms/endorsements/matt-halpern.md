@@ -33,6 +33,7 @@ Matt Halpern endorses Evans for drumheads. This partnership began in 2010s.
 
 - **2010** (Drums): Signed with Yamaha — Initial endorsement with Yamaha during early Periphery days
 - **2015** (Drums): Switched from Yamaha to Pearl — Switched to Pearl with signature snare drum deal
+- **2015** (Drumsticks): Signature product: Promark  — Signature drumstick deal with Promark
 - **2016** (Cymbals): Signature product: Meinl Artist Concept Double Down Stack — Signature cymbal stack for djent-style playing
 
 ## FAQ
@@ -56,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Matt Halpern
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

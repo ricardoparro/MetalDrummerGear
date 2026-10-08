@@ -40,6 +40,7 @@ Aquiles Priester endorses DW for hardware / pedals. They play the DW 9000 Series
 - **2012** (Drums): Switched from Mapex Saturn Series to Pearl Reference Series — Moved to a Pearl Reference Series kit and Meinl Byzance cymbals during his post-Angra W.A.S.P./Hangar-focused years
 - **2023** (Drums): Switched from Pearl Reference Series to Mapex — Adopted the Mapex Saturn Evolution All Maple signature kit upon returning to Angra for their 2023 album cycle
 - **2023** (Cymbals): Switched from Meinl Byzance to Paiste — Adopted a custom red-coated Paiste cymbal set and DW 9000 hardware for the Angra reunion touring and recording setup
+- **2023** (Drumsticks): Switched from Vic Firth to ProMark — Adopted a ProMark Aquiles Priester Signature stick alongside the Mapex/Paiste gear overhaul upon returning to Angra for their 2023 album cycle
 
 ## FAQ
 
@@ -62,4 +63,4 @@ A: See the Endorsement History section above for a full timeline of Aquiles Prie
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

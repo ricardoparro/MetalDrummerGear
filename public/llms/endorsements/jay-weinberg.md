@@ -31,6 +31,10 @@ Jay Weinberg endorses DW for hardware / pedals. This partnership began in 2014.
 ## Endorsement History
 
 - **2014** (Drums): Signed with SJC Custom Drums — Joined SJC when becoming Slipknot drummer
+- **2014** (Cymbals): Signed with Zildjian — Joined Zildjian when becoming Slipknot drummer
+- **2014** (Drumsticks): Signed with Vater — Joined Vater (5B model) when becoming Slipknot drummer
+- **2014** (Drumheads): Signed with Evans — Joined Evans when becoming Slipknot drummer
+- **2014** (Hardware / Pedals): Signed with DW — Joined DW hardware when becoming Slipknot drummer
 - **2023** (Drums): Ended SJC endorsement — Left Slipknot in November 2023, maintained all endorsements
 - **2024** (Drums): Renewed SJC Custom Drums deal — Continued with SJC after joining Suicidal Tendencies
 
@@ -55,4 +59,4 @@ A: See the Endorsement History section above for a full timeline of Jay Weinberg
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-08 06:21 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-08 07:14 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -9,9 +9,9 @@
 | Metric | Last 7d |
 | --- | --- |
 | Active users | 405 |
-| Sessions | 452 |
-| Page views | 606 |
-| Engagement rate | 47.57% |
+| Sessions | 453 |
+| Page views | 609 |
+| Engagement rate | 47.46% |
 | Avg session (s) | 90 |
 
 ### Top pages (by page views, last 7d)
@@ -22,18 +22,18 @@
 | /drummer/john-otto | 14 | 13 |
 | /articles/whats-in-lars-ulrichs-kit | 13 | 13 |
 | /drummer/mario-duplantier | 12 | 9 |
+| /drummer/flo-mounier | 11 | 4 |
 | /drummer/joey-jordison | 11 | 10 |
 | /drummers/mike-portnoy/evolution | 11 | 5 |
 | /drummer/bill-ward | 8 | 6 |
-| /drummer/flo-mounier | 8 | 4 |
 | /drummer/hellhammer | 8 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 301 | 259 |
+| Organic Search | 302 | 259 |
 | Direct | 99 | 97 |
-| Unassigned | 58 | 50 |
+| Unassigned | 59 | 51 |
 | Cross-network | 39 | 39 |
 
 ### Top countries (sessions, last 7d)

@@ -30,8 +30,11 @@ Dave Lombardo endorses Remo for drumheads. This partnership began in 1980s.
 
 ## Endorsement History
 
+- (Drumsticks): Signature product: Promark Dave Lombardo Signature 2Bx — Signature Promark stick model; exact signing year not verified
+- **1980s** (Drumheads): Signed with Remo — Long-running Remo drumhead endorsement
 - **1981** (Drums): Signed with Pearl — First kit was Pearl Maxwin, at the start of his time with Slayer, before his later long-running switch to Tama
 - **1986** (Drums): Renewed Pearl deal — Still on Pearl through the Reign in Blood era
+- **2000s** (Cymbals): Signed with Paiste — Signed with Paiste, playing the RUDE Series
 
 ## FAQ
 
@@ -54,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Dave Lombard
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -138,7 +138,7 @@ function buildMarkdown(drummer) {
   if (Array.isArray(timeline) && timeline.length > 0) {
     parts.push('## Endorsement History');
     parts.push('');
-    const sorted = [...timeline].sort((a, b) => a.year - b.year);
+    const sorted = [...timeline].sort((a, b) => (parseInt(a.year, 10) || 0) - (parseInt(b.year, 10) || 0));
     for (const ev of sorted) {
       let action;
       switch (ev.changeType) {
@@ -160,7 +160,8 @@ function buildMarkdown(drummer) {
         default:
           action = cap(ev.changeType);
       }
-      let line = `- **${ev.year}** (${formatCategory(ev.category)}): ${action}`;
+      const yearPrefix = ev.year ? `**${ev.year}** ` : '';
+      let line = `- ${yearPrefix}(${formatCategory(ev.category)}): ${action}`;
       if (ev.notes) line += ` — ${ev.notes}`;
       parts.push(line);
     }

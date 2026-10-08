@@ -32,13 +32,16 @@ Joey Jordison endorses Pearl for hardware / pedals. They play the Pearl Demon Dr
 
 - Promark TX515W Joey Jordison (signature)
 - Pearl Joey Jordison Signature Snare 13x6.5" (2010)
+- Pearl Demon Drive (2010)
 
 ## Endorsement History
 
 - **1999** (Drums): Signed with Pearl — Signed with Pearl after Slipknot debut album success
 - **1999** (Cymbals): Switched from Zildjian to Paiste — Switched to Paiste RUDE series for heavier, more aggressive sound
+- **2005** (Drumheads): Signed with Evans — Signed with Evans drumheads
 - **2008** (Drumsticks): Switched from Ahead to Promark — Moved from Ahead aluminum sticks to Promark signature wood sticks
 - **2010** (Drums): Signature product: Pearl Joey Jordison Signature Snare 13x6.5" — Signature snare with unique blood splatter finish
+- **2010** (Hardware / Pedals): Signature product: Pearl Demon Drive — Adopted Pearl Demon Drive hardware alongside the Reference Series kit deal
 
 ## FAQ
 
@@ -61,4 +64,4 @@ A: See the Endorsement History section above for a full timeline of Joey Jordiso
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

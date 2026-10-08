@@ -2,7 +2,7 @@
 
 Brand endorsement changes for professional metal drummers. See https://metalforge.io/endorsement-news
 
-> Last updated: 2026-10-07 · 71 drummers tracked · 40 brands
+> Last updated: 2026-10-08 · 71 drummers tracked · 40 brands
 
 ---
 
@@ -699,6 +699,8 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1990** (Drums): Signed with Tama — Played Tama drums during Pantera's major-label breakthrough on "Cowboys from Hell"
 - **1996** (Drums): Switched from Tama to Pearl — Moved to Pearl drums, spanning "The Great Southern Trendkill" and "Reinventing the Steel"
 - **2008** (Drums): Signed with ddrum — Signed with ddrum, who developed his Vinnie Paul Signature Series kit and snare for Hellyeah
+- **2008** (Drumheads): Signed with Evans — Signed with Evans drumheads alongside the ddrum deal
+- **2008** (Hardware/Pedals): Signed with ddrum — Signed with ddrum hardware alongside the ddrum drums deal
 - Profile: https://metalforge.io/drummer/vinnie-paul
 
 ### Paul Bostaph (Slayer / Testament / Exodus)
@@ -783,6 +785,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **2012** (Drums): Switched from Mapex Saturn Series to Pearl Reference Series — Moved to a Pearl Reference Series kit and Meinl Byzance cymbals during his post-Angra W.A.S.P./Hangar-focused years
 - **2023** (Drums): Switched from Pearl Reference Series to Mapex — Adopted the Mapex Saturn Evolution All Maple signature kit upon returning to Angra for their 2023 album cycle
 - **2023** (Cymbals): Switched from Meinl Byzance to Paiste — Adopted a custom red-coated Paiste cymbal set and DW 9000 hardware for the Angra reunion touring and recording setup
+- **2023** (Drumsticks): Switched from Vic Firth to ProMark — Adopted a ProMark Aquiles Priester Signature stick alongside the Mapex/Paiste gear overhaul upon returning to Angra for their 2023 album cycle
 - Profile: https://metalforge.io/drummer/aquiles-priester
 
 ### Arin Ilejay (Avenged Sevenfold (ex) / Confide)
@@ -864,7 +867,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 - **2010** (Drums): Signed with Pearl — Signed with Pearl after winning the Dream Theater audition documented in "The Spirit Carries On," bringing his Masterworks Maple configuration to "A Dramatic Turn of Events" (2011)
 - **2011** (Cymbals): Signed with Sabian — Adopted the Sabian HHX/AAX combination for his Dream Theater debut, pairing HHX Evolution hi-hats with AAX X-Plosion crashes
-- **2011** (Drumsticks): Signed with Vic Firth — Began playing what became his Vater Mike Mangini Wicked Piston (VHMMWP) model, designed around his biomechanical analysis of stick motion
+- **2011** (Drumsticks): Signed with Vater — Began playing what became his Vater Mike Mangini Wicked Piston (VHMMWP) model, designed around his biomechanical analysis of stick motion
 - **2019** (Drums): Switched from Pearl Masterworks Maple to Pearl Reference Pure — Moved to Pearl's single-species maple Reference Pure shells for "Distance Over Time" (2019), suited to the album's live-in-the-studio approach at Yonderbarn Studios
 - Profile: https://metalforge.io/drummer/mike-mangini
 
@@ -1080,4 +1083,4 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - [Gear News](https://metalforge.io/llms/gear-news.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1471,7 +1471,7 @@ export const ENDORSEMENT_TIMELINE = {
       cymbals: { brand: 'Sabian', model: 'AAX Series', since: '1991' },
       sticks: { brand: 'ProMark', model: 'Classic Forward 2B', since: '2018' },
       heads: { brand: 'Evans', since: '1980s' },
-      hardware: { brand: 'Pearl', model: 'Demon Drive Double Pedal', since: '2008' },
+      hardware: { brand: 'Pearl', model: 'Demon Drive Double Pedal', since: '2018' },
     },
     timeline: [
       {
@@ -1505,6 +1505,14 @@ export const ENDORSEMENT_TIMELINE = {
         brand: 'Tama',
         product: 'Gene Hoglan Signature Snare 14x8"',
         notes: 'First signature snare drum, an exceptionally deep 14x8" model built for thunderous power during his Testament and Dethklok era',
+      },
+      {
+        year: 2018,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: 'Tama',
+        to: 'Pearl',
+        notes: 'Switched to a Pearl Reference Pure kit, also adopting Pearl\'s Demon Drive Double Pedal as part of the same hardware changeover',
       },
       {
         year: 2018,

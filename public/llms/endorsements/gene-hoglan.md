@@ -26,7 +26,7 @@ Gene Hoglan endorses Evans for drumheads. This partnership began in 1980s.
 
 ### Hardware / Pedals: Pearl
 
-Gene Hoglan endorses Pearl for hardware / pedals. They play the Pearl Demon Drive Double Pedal. This partnership began in 2008.
+Gene Hoglan endorses Pearl for hardware / pedals. They play the Pearl Demon Drive Double Pedal. This partnership began in 2018.
 
 ## Signature Models
 
@@ -38,6 +38,7 @@ Gene Hoglan endorses Pearl for hardware / pedals. They play the Pearl Demon Driv
 - **1983** (Cymbals): Signed with Zildjian — Paired his Tama kit with Zildjian A Series cymbals from his earliest thrash recordings with Dark Angel
 - **1991** (Cymbals): Switched from Zildjian to Sabian — Switched to Sabian's AAX Series for the technical precision demanded by Death's "Individual Thought Patterns" and "Symbolic"
 - **2008** (Drums): Signature product: Tama Gene Hoglan Signature Snare 14x8" — First signature snare drum, an exceptionally deep 14x8" model built for thunderous power during his Testament and Dethklok era
+- **2018** (Drums): Switched from Tama to Pearl — Switched to a Pearl Reference Pure kit, also adopting Pearl's Demon Drive Double Pedal as part of the same hardware changeover
 - **2018** (Drumsticks): Signed with ProMark — Settled on ProMark Classic Forward 2B sticks for his Pearl Reference Pure setup of that era, favoring their balance across marathon touring and clinic schedules
 
 ## FAQ

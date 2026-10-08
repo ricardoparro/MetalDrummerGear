@@ -3284,11 +3284,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Alex Bent',
     band: 'ex-Trivium / Arkaik / Dragonlord',
     currentEndorsements: {
-      drums: { brand: 'Tama', model: 'Starclassic Maple (14x5" Snare)', since: '2016' },
+      drums: { brand: 'Tama', model: 'Starclassic Maple (14x5" Snare)', since: '2017' },
       cymbals: { brand: 'Zildjian', model: 'K Custom Hybrid', since: '2017' },
-      sticks: { brand: 'Vic Firth', model: 'American Classic 5B', since: '2016' },
-      heads: { brand: 'Remo', since: '2016' },
-      hardware: { brand: 'Axis', model: 'A Longboard Double Pedal', since: '2017' },
+      sticks: { brand: 'Vic Firth', model: 'American Classic 5B', since: '2017' },
+      heads: { brand: 'Remo', since: '2017' },
+      hardware: { brand: 'Axis', model: 'A Longboard Double Pedal', since: '2021' },
     },
     timeline: [
       {
@@ -3306,6 +3306,22 @@ export const ENDORSEMENT_TIMELINE = {
         from: null,
         to: 'Zildjian',
         notes: 'Paired Zildjian K Custom Hybrid cymbals with the Tama kit for his Trivium studio debut, "The Sin and the Sentence" (2017)',
+      },
+      {
+        year: 2017,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: null,
+        to: 'Vic Firth',
+        notes: 'Paired Vic Firth American Classic 5B sticks with the Tama kit upon joining Trivium in 2017',
+      },
+      {
+        year: 2017,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: 'Ran Remo heads on the Tama Starclassic Maple kit upon joining Trivium in 2017',
       },
       {
         year: 2020,

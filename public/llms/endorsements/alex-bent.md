@@ -10,7 +10,7 @@
 
 ### Drums: Tama
 
-Alex Bent endorses Tama for drums. They play the Tama Starclassic Maple (14x5" Snare). This partnership began in 2016.
+Alex Bent endorses Tama for drums. They play the Tama Starclassic Maple (14x5" Snare). This partnership began in 2017.
 
 ### Cymbals: Zildjian
 
@@ -18,20 +18,22 @@ Alex Bent endorses Zildjian for cymbals. They play the Zildjian K Custom Hybrid.
 
 ### Drumsticks: Vic Firth
 
-Alex Bent endorses Vic Firth for drumsticks. They play the Vic Firth American Classic 5B. This partnership began in 2016.
+Alex Bent endorses Vic Firth for drumsticks. They play the Vic Firth American Classic 5B. This partnership began in 2017.
 
 ### Drumheads: Remo
 
-Alex Bent endorses Remo for drumheads. This partnership began in 2016.
+Alex Bent endorses Remo for drumheads. This partnership began in 2017.
 
 ### Hardware / Pedals: Axis
 
-Alex Bent endorses Axis for hardware / pedals. They play the Axis A Longboard Double Pedal. This partnership began in 2017.
+Alex Bent endorses Axis for hardware / pedals. They play the Axis A Longboard Double Pedal. This partnership began in 2021.
 
 ## Endorsement History
 
 - **2017** (Drums): Signed with Tama — Signed with Tama drums upon joining Trivium in 2017, replacing Paul Wandtke, after his 2008-2017 run in technical death metal outfit Arkaik
 - **2017** (Cymbals): Signed with Zildjian — Paired Zildjian K Custom Hybrid cymbals with the Tama kit for his Trivium studio debut, "The Sin and the Sentence" (2017)
+- **2017** (Drumsticks): Signed with Vic Firth — Paired Vic Firth American Classic 5B sticks with the Tama kit upon joining Trivium in 2017
+- **2017** (Drumheads): Signed with Remo — Ran Remo heads on the Tama Starclassic Maple kit upon joining Trivium in 2017
 - **2020** (Drums): Renewed Tama deal — Carried the Tama Starclassic Maple setup, centered on the 14x5" snare, through "What the Dead Men Say" (2020)
 - **2021** (Hardware / Pedals): Signed with Axis — Added Axis A Longboard double pedals to drive the rapid double-bass patterns on "In the Court of the Dragon" (2021)
 

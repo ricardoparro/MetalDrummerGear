@@ -555,6 +555,10 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 ### Jay Weinberg (Suicidal Tendencies)
 
 - **2014** (Drums): Signed with SJC Custom Drums — Joined SJC when becoming Slipknot drummer
+- **2014** (Cymbals): Signed with Zildjian — Joined Zildjian when becoming Slipknot drummer
+- **2014** (Drumsticks): Signed with Vater — Joined Vater (5B model) when becoming Slipknot drummer
+- **2014** (Drumheads): Signed with Evans — Joined Evans when becoming Slipknot drummer
+- **2014** (Hardware/Pedals): Signed with DW — Joined DW hardware when becoming Slipknot drummer
 - **2023** (Drums): Ended SJC endorsement — Left Slipknot in November 2023, maintained all endorsements
 - **2024** (Drums): Renewed SJC Custom Drums deal — Continued with SJC after joining Suicidal Tendencies
 - Profile: https://metalforge.io/drummer/jay-weinberg

@@ -36,6 +36,8 @@ Jason Bittner endorses Mapex for hardware / pedals. They play the Mapex Falcon D
 
 - **1997** (Drums): Signed with Mapex — Signed with Mapex in Shadows Fall's formative years, settling on the Saturn V shell pack
 - **1997** (Cymbals): Signed with Zildjian — Began his Zildjian relationship alongside the Mapex deal, building the K and A Custom Series setup that still defines his sound
+- **1997** (Drumsticks): Signature product: ProMark Jason Bittner Signature 5BX — Received his ProMark Jason Bittner Signature 5BX model alongside the Mapex and Zildjian deals in Shadows Fall's formative years
+- **1997** (Drumheads): Signed with Evans — Settled on Evans G2 Coated / EMAD heads alongside the Mapex and Zildjian deals in Shadows Fall's formative years
 - **2002** (Hardware / Pedals): Signed with Mapex — Adopted the Mapex Falcon double bass pedal for The Art of Balance sessions, the record that broke Shadows Fall into NWOAHM's front rank
 - **2017** (Drums): Renewed Mapex deal — Carried the same Mapex Saturn V kit into his new chair with Overkill after joining in May 2017, confirming his thrash credentials without changing gear
 - **2017** (Cymbals): Renewed Zildjian deal — Kept his Zildjian K and A Custom setup across both Shadows Fall and Overkill duties after joining Overkill full-time in May 2017

@@ -2352,6 +2352,22 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Began his Zildjian relationship alongside the Mapex deal, building the K and A Custom Series setup that still defines his sound',
       },
       {
+        year: 1997,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        brand: 'ProMark',
+        product: 'Jason Bittner Signature 5BX',
+        notes: "Received his ProMark Jason Bittner Signature 5BX model alongside the Mapex and Zildjian deals in Shadows Fall's formative years",
+      },
+      {
+        year: 1997,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: "Settled on Evans G2 Coated / EMAD heads alongside the Mapex and Zildjian deals in Shadows Fall's formative years",
+      },
+      {
         year: 2002,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.HARDWARE,

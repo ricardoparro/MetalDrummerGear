@@ -11732,3 +11732,50 @@ The subagent also flagged this sweep has substantial runway left: ~59 additional
 3. `check-llms-freshness.yml` will keep failing on every `packages/frontend/data/**`-touching PR until Roadie's implementation step runs `npm run generate:llms` as part of the fix, not just as a documented Verify-section ask — if this keeps recurring after several more batches, consider a dedicated ai-fix to bake the regen into drain.sh/the PR template rather than relying on per-issue instructions.
 4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+## 2026-10-08 (Thursday, metrics 13:09 UTC) — endorsementNews.js sweep continued past Danny Carey, 7 proposals filed (#8725-8731), 1 is a leftover-gap from #8010 + a fresh since-year mismatch
+
+### Context
+Bank check: 12 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 8 already-promoted #8711-8718, confirmed `ai-fix`-labeled via the 12:18 deep-run commit) — **0 truly untriaged**, well under 45, cleared to file up to 8 net-new. Metrics 13:09 UTC (414u/465s/624v 7d; GSC 9,179 impr/203 clicks/2.21% CTR/pos 7.4). Content-gap table unchanged: `arin ilejay`/`joey jordison drum kit`/`matt halpern` all already ruled class-2 bare-name/known-oscillator (`learned-patterns.md` lines 246/250) — no re-action. Not Monday — drum-chair watch not due (next 2026-10-12, group 2).
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged. ✅
+- `/llms/**/*.md`: 2,024 files live — unchanged.
+
+### Method
+Continued the `endorsementNews.js` missing-timeline-entry sweep per the 07:14 run's note ("continue in file order from Mario Duplantier (~line 503) onward"). Dispatched a subagent to read the rest of the file (lines ~500-3519) for the same sibling-field-miss bug class (currentEndorsements category with zero supporting timeline entry), plus resolve two weak leads logged 2026-10-08 01:25 (Gene Hoglan hardware date-plausibility, Matt Greiner Pearl-after-Mapex entry). Personally re-verified every candidate via direct `Read` against exact line numbers before filing — not just subagent trust.
+
+**Matt Greiner ruled NOT a bug**: the 2017 Pearl entry is explicitly `category: DRUMS` + `changeType: SIGNATURE` for a signature **snare** product, framed as a historical product event (not a current-endorsement claim) — `currentEndorsements.drums` correctly shows Mapex as current. Internally consistent as written, no issue filed.
+
+**Gene Hoglan confirmed a real gap** (drums + hardware Pearl claims with zero timeline support) — filed, but flagged the hardware "since 2008" date as uncertain in the issue body (2008 collides with a timeline entry showing him still on Tama drums that year) rather than asking Roadie to invent corroboration.
+
+**Tim Yeung surfaced a different flavor of bug** — not a missing entry, but a **stale pre-fix leftover**: `currentEndorsements.drums` correctly says Tama (matches 7+ closed issues incl. #6177 "endorsementNews.js says Pearl... extendedBios.js verified Tama for both"), but this file's own `timeline` array still has the original fabricated Pearl entries (2005 SIGNED, 2011 RENEWED, the latter also name-dropping a DW pedal inconsistent with the verified Tama Speed Cobra hardware). Whatever fixed `currentEndorsements` never touched the timeline in the same file.
+
+**Alex Bent bundles two since-year mismatches**: `currentEndorsements.drums.since` still says 2016 even though #8010 already corrected the **timeline** entry to 2017 (textbook sibling-field-miss left by a partial fix) — plus a fresh, previously-unflagged hardware since-year gap (claims 2017, but the only HARDWARE timeline entry is dated 2021, a 4-year gap no prior issue touches). Bundled with the file's own sticks/heads missing-timeline-entry gaps (same class as 8702-8707/8711-8718) since it's all one data block.
+
+**Abe Cunningham's finding needed care**: `currentEndorsements.sticks` says Pro-Mark since 1997 (verified via #8434/#8297/#7881), but the only STICKS timeline entry is a 2022 Zildjian "Artist Series" signature — a entry no other file in the codebase corroborates. Rather than assuming which side is wrong, the issue asks the implementer to add the missing 1997 Pro-Mark entry and separately investigate/verify the 2022 Zildjian entry before deciding to keep or remove it (default: remove if unverifiable, per omit-if-unsure).
+
+Jason Bittner and Gavin Harrison were both straightforward sibling-field-misses (signature sticks + heads/hardware with zero timeline support) — same established pattern, no complications.
+
+All 7 dedup-checked via `gh issue list --state all --search "<drummer name>"` with full title review (not just keyword matching) — each drummer has 10-25+ closed issues touching *other* files/fields, none touching these specific endorsementNews.js timeline gaps. All 7 confirmed to have an existing `public/llms/endorsements/<slug>.md` mirror (`ls` checked) — each issue's Fix/Verify sections require the regen step per the standing practice from #8711-8718.
+
+### Proposals filed this run
+1. #8725 — Gene Hoglan: drums (Pearl 2018)/hardware (Pearl Demon Drive 2008) have no supporting timeline entries; hardware date flagged as needing independent verification, not just a mechanical add
+2. #8726 — Tim Yeung: timeline still says Pearl (2005 SIGNED, 2011 RENEWED) despite `currentEndorsements` already correctly saying Tama — stale leftover from an earlier fix (likely #6177) that only touched currentEndorsements
+3. #8727 — Abe Cunningham: sticks — currentEndorsements says Pro-Mark since 1997, but the only STICKS timeline entry is an uncorroborated 2022 Zildjian signature; asks implementer to add the missing entry and verify/resolve the Zildjian one
+4. #8728 — Jason Bittner: signature sticks + heads have no supporting timeline entries
+5. #8729 — Brann Dailor: sticks/heads/hardware have no supporting timeline entries (3 of 5 categories, in an otherwise 2-entry timeline)
+6. #8730 — Gavin Harrison: signature sticks + heads + hardware have no supporting timeline entries
+7. #8731 — Alex Bent: drums since-year leftover from #8010 (2016→2017) + fresh hardware since-year mismatch (2017 vs timeline's 2021) + sticks/heads missing timeline entries entirely
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8725-8731 (this run, 7 fresh)
+- Bank at run end: 18 open `seo-proposal`.
+
+### Next run
+1. Watch #8725-8731 through CEO triage — flag #8725 (Gene Hoglan hardware date) and #8727 (Abe Cunningham Zildjian entry) as needing a verification judgment call, not pure mechanical fixes.
+2. The `endorsementNews.js` missing-timeline-entry sweep has now covered ~25 of ~71 drummers. Continuing runway exists — the dispatched subagent also flagged a second tier of ~24 more candidates (Mikkey Dee, Charlie Benante, Hellhammer, Flo Mounier, Scott Travis, Paul Bostaph, Shannon Larkin, Morgan Ågren, Navene Koperweis, Paul Mazurkiewicz, Pete Sandoval, Ray Luzier, Raymond Herrera, Richard Christy, Ryan Van Poederooyen, Daray, Kevin Talley, Martin Axenrot, Martin Lopez, Matt Garstka, Nick Menza, Art Cruz, John Longstreth, Jon Dette, Jimmy DeGrasso) not yet independently verified line-by-line — next bank-topping-up run should direct-verify a handful of these rather than re-deriving candidates from scratch. Also unverified: Hannes Grossmann sticks (brand matches, since-year off by 7 years, lower severity).
+3. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

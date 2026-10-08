@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-07 19:15 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-08 00:32 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,91 +8,89 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 434 |
-| Sessions | 478 |
-| Page views | 664 |
-| Engagement rate | 50.63% |
-| Avg session (s) | 94 |
+| Active users | 396 |
+| Sessions | 441 |
+| Page views | 585 |
+| Engagement rate | 48.75% |
+| Avg session (s) | 83 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 22 | 22 |
-| /drummers/mike-portnoy/evolution | 15 | 7 |
-| /drummer/john-otto | 13 | 12 |
-| /studies/metal-tempo-by-subgenre | 13 | 3 |
+| / | 18 | 18 |
+| /drummer/john-otto | 14 | 13 |
+| /drummers | 14 | 6 |
 | /articles/whats-in-lars-ulrichs-kit | 12 | 12 |
-| /drummer/mario-duplantier | 12 | 10 |
-| /drummers | 11 | 6 |
-| /drummer/mike-portnoy | 9 | 7 |
-| /articles/slipknot-self-titled-drum-setup | 8 | 7 |
-| /drummer/flo-mounier | 8 | 5 |
+| /drummer/mario-duplantier | 12 | 9 |
+| /drummers/mike-portnoy/evolution | 11 | 5 |
+| /drummer/joey-jordison | 10 | 10 |
+| /drummer/bill-ward | 8 | 6 |
+| /drummer/flo-mounier | 8 | 4 |
+| /drummer/hellhammer | 8 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 324 | 286 |
-| Direct | 94 | 91 |
-| Unassigned | 64 | 60 |
-| Cross-network | 40 | 39 |
-| Referral | 1 | 1 |
+| Organic Search | 296 | 257 |
+| Direct | 96 | 94 |
+| Unassigned | 50 | 44 |
+| Cross-network | 34 | 34 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 183 | 165 |
+| United States | 169 | 154 |
 | China | 46 | 46 |
-| United Kingdom | 24 | 20 |
-| Germany | 21 | 17 |
-| Canada | 14 | 13 |
-| Australia | 13 | 12 |
-| Finland | 11 | 11 |
+| United Kingdom | 23 | 18 |
+| Germany | 18 | 14 |
+| Canada | 13 | 11 |
+| Australia | 12 | 11 |
 | France | 11 | 11 |
-| Italy | 11 | 11 |
-| Poland | 10 | 10 |
+| Italy | 10 | 10 |
+| Poland | 9 | 9 |
+| Singapore | 9 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 9,097 |
-| Clicks | 224 |
-| CTR | 2.46% |
-| Avg position | 7.3 |
+| Impressions | 7,414 |
+| Clicks | 176 |
+| CTR | 2.37% |
+| Avg position | 7.4 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | john otto signature snare | 101 | 7 | 6.93% | 3.2 |
-| arin ilejay | 488 | 2 | 0.41% | 11.7 |
-| mario duplantier drum kit | 42 | 2 | 4.76% | 7.2 |
-| matt greiner drum setup | 8 | 2 | 25.00% | 6.4 |
-| best metal drummers ever | 4 | 1 | 25.00% | 4.8 |
-| best metal drummers of all time | 30 | 1 | 3.33% | 9.6 |
+| arin ilejay | 392 | 2 | 0.51% | 11.8 |
+| mario duplantier drum kit | 27 | 2 | 7.41% | 6.9 |
+| matt greiner drum setup | 7 | 2 | 28.57% | 6.6 |
+| best metal drummers ever | 3 | 1 | 33.33% | 4.0 |
+| best metal drummers of all time | 20 | 1 | 5.00% | 9.9 |
 | best snares for metal | 3 | 1 | 33.33% | 12.7 |
 | eloy casagrande pedals | 2 | 1 | 50.00% | 1.0 |
-| eloy casagrande vs jay weinberg | 3 | 1 | 33.33% | 5.0 |
-| fastest double bass drummer | 12 | 1 | 8.33% | 4.8 |
+| eloy casagrande vs jay weinberg | 2 | 1 | 50.00% | 3.5 |
+| joey jordison drum kit | 50 | 1 | 2.00% | 7.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,508 | 80 | 2.28% | 7.6 |
-| deu | 321 | 15 | 4.67% | 6.0 |
-| gbr | 596 | 12 | 2.01% | 7.7 |
-| pol | 127 | 9 | 7.09% | 6.3 |
-| aus | 319 | 8 | 2.51% | 7.6 |
-| fra | 163 | 8 | 4.91% | 7.5 |
-| dnk | 68 | 6 | 8.82% | 6.0 |
-| fin | 121 | 6 | 4.96% | 6.7 |
-| bra | 244 | 5 | 2.05% | 6.4 |
-| can | 492 | 5 | 1.02% | 7.3 |
+| usa | 2,805 | 58 | 2.07% | 7.6 |
+| deu | 267 | 12 | 4.49% | 6.0 |
+| gbr | 484 | 10 | 2.07% | 7.8 |
+| fra | 128 | 7 | 5.47% | 7.7 |
+| pol | 106 | 7 | 6.60% | 6.3 |
+| aus | 284 | 6 | 2.11% | 7.6 |
+| dnk | 58 | 6 | 10.34% | 6.3 |
+| bra | 204 | 5 | 2.45% | 6.5 |
+| can | 385 | 5 | 1.30% | 7.3 |
+| fin | 97 | 4 | 4.12% | 6.8 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| arin ilejay | 488 | 0.41% | 11.7 | open issue to answer better |
-| joey jordison drum kit | 64 | 1.56% | 7.4 | open issue to answer better |
-| matt halpern | 155 | 0.65% | 8.7 | open issue to answer better |
+| arin ilejay | 392 | 0.51% | 11.8 | open issue to answer better |
+| matt halpern | 140 | 0.71% | 8.7 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

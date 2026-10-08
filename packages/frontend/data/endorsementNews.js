@@ -304,6 +304,22 @@ export const ENDORSEMENT_TIMELINE = {
         product: 'Joey Jordison Signature Snare 13x6.5"',
         notes: 'Signature snare with unique blood splatter finish',
       },
+      {
+        year: 2005,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Signed with Evans drumheads',
+      },
+      {
+        year: 2010,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        brand: 'Pearl',
+        product: 'Demon Drive',
+        notes: 'Adopted Pearl Demon Drive hardware alongside the Reference Series kit deal',
+      },
     ],
   },
   'tomas-haake': {

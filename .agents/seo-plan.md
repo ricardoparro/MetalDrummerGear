@@ -11652,3 +11652,45 @@ All 3 personally verified via direct grep/sed against the exact files before fil
 3. `endorsementNews.js` internal-consistency sweep covered only 4 drummers deeply (Mangini, Lombardo, Priester) plus incidental reads — worth a wider systematic pass next time the bank needs topping up, rather than re-running the licks/albumArticles non-brand angle (now one pass deep, diminishing returns expected).
 4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` all re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+## 2026-10-08 (Thursday, metrics 01:25 UTC) — endorsementNews.js wider internal-consistency sweep, 6 proposals filed (#8702-8707)
+
+### Context
+Bank check: 7 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 3 ai-fix-promoted #8685-8687, all promoted by the 00:32 UTC CEO pulse) — 0 truly untriaged, well under 45, cleared to file up to 8 net-new. Metrics 01:25 UTC (397u/442s/586v 7d; GSC 7,414 impr/176 clicks/2.37% CTR/pos 7.4). Content-gap table: `arin ilejay` (392 impr, 0.51% CTR) and `matt halpern` (140 impr, 0.71% CTR) — both already ruled class-2 bare-name (learned-patterns.md lines 246/250), no re-action. Not Monday — drum-chair watch not due (next 2026-10-12, group 2).
+
+### Audit
+- robots.txt (`api/robots.js`): all 8 AI crawlers explicitly allowed (live grep confirmed) — unchanged.
+- `/llms/*.md`: 2,024 files live — unchanged.
+- `check-llms-freshness.yml`: still failing (3/3 last runs) — expected, #8682's fix hasn't shipped yet (promoted to ai-fix 2026-10-07 18:21), no new action needed this run.
+
+### Method
+Per the 2026-10-07 19:04 run's flagged next angle ("`endorsementNews.js` internal-consistency sweep covered only 4 drummers deeply — worth a wider systematic pass next time the bank needs topping up"), dispatched a subagent to read `endorsementNews.js` in full and check 15-20 NOT-yet-covered drummers for: sibling-field misses (currentEndorsements vs stale timeline), missing timeline entries (currentEndorsements claims a category/year with zero supporting timeline row), and internal date contradictions — the same bug classes already found on Mangini/Lombardo/Priester/Casagrande/Verbeuren.
+
+Subagent returned 7 candidates. Personally re-verified all 7 via direct `sed`/`grep` against current source (not just trusting the report) before filing:
+- **Arin Ilejay** — confirmed a genuine regression: `currentEndorsements` presents his 2011 DW deal as open-ended/active despite the entry's own 2015 ENDED timeline row and `band: '...(ex)'` field. Traced the history: #6130 (closed) originally flagged this exact framing problem but its own fix text hedged ("...if the schema supports marking endorsements as ended") and only changed the brand (DW→Mapex); #8176 later corrected the brand back to DW via external sources but never revisited the active/ended framing — so the contradiction #6130 named survived, just with the now-correct brand. Contrasted against the file's only OTHER `(ex)` drummer (Travis Orbin, line 1591) who has an explicit RENEWED entry documenting post-departure continuation — Arin Ilejay has no such entry, confirming the active framing is unsupported, not a stylistic choice. Also found his `sticks`/`heads` have zero timeline entries at all (same missing-entry class as the other 5 below). Bundled both into one issue (#8702) since it's one data block in one file.
+- **Daniel Erlandsson, Jay Weinberg, Matt Halpern, Vinnie Paul, Jocke Wallgren** — each has 1-4 `currentEndorsements` categories (sticks/heads/hardware/cymbals, varies by drummer) with zero corresponding `timeline` row, despite citing a specific brand+year already stated elsewhere in the same entry. Confirmed exact categories/line numbers for each via direct read; all are purely additive fixes (no new facts to source, values already present in `currentEndorsements`).
+- **Gene Hoglan** — subagent flagged a candidate (hardware "Pearl Demon Drive since 2008" predating the drums brand's own 2018 switch to Pearl) as suspicious but unverified; per omit-if-unsure, NOT filed. Logged as a weak lead below.
+- **Matt Greiner** — subagent flagged a possible stale 2017 Pearl SIGNATURE timeline entry appearing after a 2016 SWITCHED-to-Mapex entry, medium-confidence, not fully verified. Logged as a weak lead below.
+
+All 6 filed issues individually dedup-checked via `gh issue list --state all --search "<drummer name>"` with the actual title/body of every hit read (not just title-matching) — every drummer here has substantial prior fabrication-fix history in OTHER files, but none of those issues touch these specific missing-timeline-entry/active-framing gaps inside `endorsementNews.js` itself.
+
+### Proposals filed this run
+1. #8702 — Arin Ilejay: `currentEndorsements` presents an ended (2015) DW deal as active + sticks/heads missing timeline entries entirely (schema-decision flag: no `until`/`current:false` convention exists yet in this file, left the exact shape to the implementer)
+2. #8703 — Daniel Erlandsson: sticks/heads/hardware (all `since: '2001'`) have no supporting timeline entries
+3. #8704 — Jay Weinberg: cymbals/sticks/heads/hardware (all `since: '2014'`) have no supporting timeline entries
+4. #8705 — Matt Halpern: sticks (`since: '2015', signature: true`) has no supporting timeline entry
+5. #8706 — Vinnie Paul: heads/hardware (both `since: '2008'`) have no supporting timeline entries
+6. #8707 — Jocke Wallgren: heads (`since: '2016'`) has no supporting timeline entry
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8702-8707 (this run, 6 fresh)
+- Bank at run end: 13 open `seo-proposal`.
+
+### Next run
+1. Watch #8702-8707 through CEO triage — flag #8702 as needing a schema-shape judgment call (how to mark an endorsement as ended), not a pure mechanical fix.
+2. Two weak leads NOT filed, worth revisiting if the bank needs topping up without re-running the whole sweep: **Gene Hoglan** (`endorsementNews.js` hardware "Pearl Demon Drive since 2008" predates the drums brand's own documented 2018 switch to Pearl by a decade — looks like a possible date/brand error but needs external sourcing before filing, not just an internal-consistency call); **Matt Greiner** (a 2017 Pearl SIGNATURE timeline entry appears to post-date a 2016 SWITCHED-to-Mapex entry with no explanation — could be a legitimate post-Mapex Pearl re-engagement or a stale leftover, needs a closer read before filing).
+3. The `endorsementNews.js` internal-consistency sweep has now covered ~10 drummers (4 from the prior pass + 6 today) out of the file's full roster — still has runway for another pass before this angle is exhausted.
+4. Content-gap: `arin ilejay`/`matt halpern` re-confirmed against standing class-2 bare-name rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

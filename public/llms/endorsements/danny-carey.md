@@ -38,6 +38,9 @@ Danny Carey endorses Mandala for electronics. This partnership began in 2000s.
 ## Endorsement History
 
 - **2000** (Cymbals): Signature product: Paiste Dry Heavy Ride - Monad — Signature ride cymbal with unique sound characteristics
+- **2000** (Drums): Signed (Sonor) — Sonor Custom drum kit endorsement
+- **2000** (Drumheads): Signed (Remo) — Remo drumhead endorsement
+- **2000** (Electronics): Signed (Mandala) — Mandala electronic drum trigger/pad endorsement
 - **2005** (Drumsticks): Signature product: Vic Firth Danny Carey Signature Sticks — Custom signature sticks designed for dynamic playing
 
 ## FAQ
@@ -61,4 +64,4 @@ A: See the Endorsement History section above for a full timeline of Danny Carey'
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

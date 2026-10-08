@@ -610,6 +610,28 @@ export const ENDORSEMENT_TIMELINE = {
         product: 'Danny Carey Signature Sticks',
         notes: 'Custom signature sticks designed for dynamic playing',
       },
+      {
+        year: 2000,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        brand: 'Sonor',
+        product: 'Custom',
+        notes: 'Sonor Custom drum kit endorsement',
+      },
+      {
+        year: 2000,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        brand: 'Remo',
+        notes: 'Remo drumhead endorsement',
+      },
+      {
+        year: 2000,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.ELECTRONICS,
+        brand: 'Mandala',
+        notes: 'Mandala electronic drum trigger/pad endorsement',
+      },
     ],
   },
   'mario-duplantier': {

@@ -2188,7 +2188,7 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.STICKS,
         from: null,
-        to: 'Vic Firth',
+        to: 'Vater',
         notes: 'Began playing what became his Vater Mike Mangini Wicked Piston (VHMMWP) model, designed around his biomechanical analysis of stick motion',
       },
       {

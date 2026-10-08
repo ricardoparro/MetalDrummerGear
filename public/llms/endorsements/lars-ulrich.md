@@ -39,6 +39,8 @@ Lars Ulrich endorses Tama for hardware / pedals. They play the Tama Iron Cobra 9
 
 - **1981** (Cymbals): Signed with Zildjian — Started with Zildjian A series cymbals when forming Metallica
 - **1984** (Drums): Switched from Camco to Tama — Upgraded from Camco to Tama Artstar II during Ride the Lightning era
+- **1986** (Drumheads): Signed with Remo — Signed with Remo drumheads around the same time as the switch to Tama
+- **1990** (Hardware / Pedals): Signed (Tama) — Adopted the Tama Iron Cobra 900 hardware and pedal line in the early 1990s
 - **1996** (Drumsticks): Signature product: Ahead Lars Ulrich Signature Aluminum Sticks — First signature drumstick, made with aluminum for durability
 - **2000** (Drums): Signature product: Tama LU1465 Signature Snare Drum — 14x6.5" signature snare drum with steel shell
 
@@ -63,4 +65,4 @@ A: See the Endorsement History section above for a full timeline of Lars Ulrich'
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

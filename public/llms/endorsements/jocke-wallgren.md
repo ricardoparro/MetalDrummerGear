@@ -33,6 +33,7 @@ Jocke Wallgren endorses Pearl for hardware / pedals. They play the Pearl Demon D
 - **2005** (Cymbals): Signed with Zildjian — Began playing Zildjian A Custom & K Custom cymbals during his time with Rage and Evergrey in the European power/prog metal scene
 - **2005** (Hardware / Pedals): Signed with Pearl — Adopted a Pearl double bass pedal configuration during his Rage and Evergrey years, ahead of the Demon Drive model becoming his standard
 - **2016** (Drums): Signed with Pearl — Signed with Pearl on joining Amon Amarth for Jomsviking (2016), settling on the Reference Pure single-species maple kit
+- **2016** (Drumheads): Signed with Evans — Signed with Evans on joining Amon Amarth for Jomsviking (2016), aligning with the Pearl Reference Pure kit
 - **2016** (Cymbals): Renewed Zildjian deal — Carried his Zildjian A Custom & K Custom cymbals into the Amon Amarth chair, valuing their bright yet warm voicing for the band's melodic death metal identity
 - **2019** (Hardware / Pedals): Renewed Pearl deal — Continued with the Pearl Demon Drive double pedal through Berserker (2019), which demanded both extended blast-beat passages and the band's signature gallop
 
@@ -57,4 +58,4 @@ A: See the Endorsement History section above for a full timeline of Jocke Wallgr
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

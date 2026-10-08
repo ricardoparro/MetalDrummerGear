@@ -2,7 +2,7 @@
 
 This page documents official gear endorsements for the 71 professional metal drummers catalogued in MetalForge's endorsement index.
 
-> Last Updated: 2026-10-07 · Source: https://metalforge.io
+> Last Updated: 2026-10-08 · Source: https://metalforge.io
 
 For a brand-first view of the full 71-drummer roster see [/llms/gear-by-brand.md](https://metalforge.io/llms/gear-by-brand.md).
 

@@ -37,6 +37,9 @@ Daniel Erlandsson endorses Pearl for hardware / pedals. They play the Pearl Elim
 - **1989** (Drums): Signed with Pearl — Began playing a developing Pearl kit with early Gothenburg act Eucharist, the foundation of the Pearl relationship carried into Arch Enemy
 - **1989** (Cymbals): Signed with Sabian — Adopted an early professional Sabian cymbal setup during his Eucharist years, ahead of the AA/HH configuration used on Arch Enemy's breakthrough albums
 - **2001** (Drums): Signed with Pearl Reference Pure — Reached his fully documented Pearl Reference Pure configuration on Wages of Sin (2001), paired with a Pearl Free-Floating Brass 14"x6.5" snare
+- **2001** (Drumsticks): Signed with ProMark 5B — Settled on ProMark 5B sticks alongside his fully documented Pearl Reference Pure kit on Wages of Sin (2001)
+- **2001** (Drumheads): Signed with Remo Emperor Coated / Powerstroke 3 — Adopted Remo Emperor Coated / Powerstroke 3 heads alongside his Pearl Reference Pure configuration on Wages of Sin (2001)
+- **2001** (Hardware / Pedals): Signed with Pearl Eliminator Double Bass Pedal — Paired his Pearl Reference Pure kit with a Pearl Eliminator Double Bass Pedal on Wages of Sin (2001)
 - **2005** (Drums): Signature product: Pearl Daniel Erlandsson Signature Snare 14"x5.5" — Co-designed a personal 14"x5.5" signature snare with Pearl during the Doomsday Machine era, replacing his earlier Pearl Free-Floating Brass snare
 - **2014** (Cymbals): Switched from Sabian AA/HH to Sabian AAX/HHX — Refined his Sabian setup to the brighter AAX crashes and darker HHX ride heard from the War Eternal era onward
 
@@ -61,4 +64,4 @@ A: See the Endorsement History section above for a full timeline of Daniel Erlan
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

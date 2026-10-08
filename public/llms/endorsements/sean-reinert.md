@@ -59,4 +59,4 @@ A: See the Endorsement History section above for a full timeline of Sean Reinert
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*

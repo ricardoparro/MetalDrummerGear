@@ -2247,6 +2247,14 @@ export const ENDORSEMENT_TIMELINE = {
       },
       {
         year: 2016,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Signed with Evans on joining Amon Amarth for Jomsviking (2016), aligning with the Pearl Reference Pure kit',
+      },
+      {
+        year: 2016,
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.CYMBALS,
         brand: 'Zildjian',

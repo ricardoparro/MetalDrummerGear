@@ -2879,7 +2879,32 @@ export const ENDORSEMENT_TIMELINE = {
       cymbals: { brand: 'Sabian', model: 'AAX Series' },
       sticks: { brand: 'Pro-Mark', model: 'Nylon Tip 5B' },
     },
-    timeline: [],
+    timeline: [
+      {
+        year: 2010,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: null,
+        to: 'Pearl',
+        notes: 'Pearl Reference Pure documented as his kit for his entire 2010-2014 Trivium tenure, debuting on "In Waves" (2011); no earlier endorsement era is sourced for Augusto and no exact signing date is publicly documented',
+      },
+      {
+        year: 2010,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.CYMBALS,
+        from: null,
+        to: 'Sabian',
+        notes: 'Sabian AAX Series documented as his cymbal setup throughout his 2010-2014 Trivium tenure; no earlier endorsement era is sourced for Augusto and no exact signing date is publicly documented',
+      },
+      {
+        year: 2010,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: null,
+        to: 'Pro-Mark',
+        notes: 'Pro-Mark Nylon Tip 5B documented as his stick of choice throughout his 2010-2014 Trivium tenure; no earlier endorsement era is sourced for Augusto and no exact signing date is publicly documented',
+      },
+    ],
   },
   'paul-mazurkiewicz': {
     slug: 'paul-mazurkiewicz',

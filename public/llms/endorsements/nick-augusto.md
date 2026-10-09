@@ -20,6 +20,12 @@ Nick Augusto endorses Sabian for cymbals. They play the Sabian AAX Series.
 
 Nick Augusto endorses Pro-Mark for drumsticks. They play the Pro-Mark Nylon Tip 5B.
 
+## Endorsement History
+
+- **2010** (Drums): Signed with Pearl — Pearl Reference Pure documented as his kit for his entire 2010-2014 Trivium tenure, debuting on "In Waves" (2011); no earlier endorsement era is sourced for Augusto and no exact signing date is publicly documented
+- **2010** (Cymbals): Signed with Sabian — Sabian AAX Series documented as his cymbal setup throughout his 2010-2014 Trivium tenure; no earlier endorsement era is sourced for Augusto and no exact signing date is publicly documented
+- **2010** (Drumsticks): Signed with Pro-Mark — Pro-Mark Nylon Tip 5B documented as his stick of choice throughout his 2010-2014 Trivium tenure; no earlier endorsement era is sourced for Augusto and no exact signing date is publicly documented
+
 ## FAQ
 
 **Q: What brands does Nick Augusto endorse?**
@@ -29,7 +35,7 @@ A: Nick Augusto endorses Pearl, Sabian, Pro-Mark. Their primary drum endorsement
 A: Nick Augusto is a key Pearl endorser but does not have a dedicated signature kit model in the current lineup.
 
 **Q: What is Nick Augusto's endorsement history?**
-A: Nick Augusto has maintained a stable roster of endorsements throughout their career with Pearl.
+A: See the Endorsement History section above for a full timeline of Nick Augusto's brand deals.
 
 ---
 
@@ -41,4 +47,4 @@ A: Nick Augusto has maintained a stable roster of endorsements throughout their 
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

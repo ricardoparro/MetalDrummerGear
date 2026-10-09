@@ -32,6 +32,9 @@ Art Cruz endorses Trick for hardware / pedals. They play the Trick Pro 1-V Doubl
 
 - **2019** (Drums): Signed with Ludwig — Adopted a Ludwig kit anchored by the 14x6.5" Black Beauty snare after joining Lamb of God in 2019 to replace Chris Adler, following his 2010-2012 run with Winds of Plague and 2012-2019 run with Prong
 - **2019** (Cymbals): Signed with Zildjian — Signed with Zildjian (A Custom Mastersound hi-hats, A Custom crashes, K China with EFX holes) alongside the Ludwig kit for his Lamb of God debut
+- **2019** (Drumsticks): Signed with Vic Firth — Paired Vic Firth American Classic 5B sticks with the Ludwig/Zildjian setup for his Lamb of God debut in 2019
+- **2019** (Drumheads): Signed with Evans — Ran Evans heads on the Ludwig Black Beauty-anchored kit upon joining Lamb of God in 2019
+- **2019** (Hardware / Pedals): Signed with Trick — Adopted the Trick Pro 1-V double pedal alongside the Ludwig kit for his Lamb of God debut in 2019
 - **2020** (Drums): Renewed Ludwig deal — Carried the Black Beauty-anchored Ludwig setup through Lamb of God's self-titled 2020 album, his first studio record with the band
 - **2022** (Cymbals): Renewed Zildjian deal — Continued the Zildjian A Custom/K China cymbal mix, plus Vic Firth American Classic 5B sticks and Evans heads, through Lamb of God's "Omens" (2022)
 
@@ -56,4 +59,4 @@ A: See the Endorsement History section above for a full timeline of Art Cruz's b
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

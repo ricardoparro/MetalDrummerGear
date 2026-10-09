@@ -32,6 +32,9 @@ Tim Yeung endorses Tama for hardware / pedals. They play the Tama Speed Cobra 91
 
 - **2005** (Drums): Signed with Tama — Established his Tama Starclassic Bubinga kit with Erik Rutan's Hate Eternal on "I, Monarch" (2005), the setup he later carried unchanged into Divine Heresy and Morbid Angel
 - **2005** (Cymbals): Signed with Sabian — Paired the Tama kit with Sabian AAX/HHX cymbals starting on Hate Eternal's "I, Monarch" (2005), the same combination he used on Divine Heresy's "Bleed the Fifth" (2007) and Morbid Angel's "Illud Divinum Insanus" (2011)
+- **2005** (Drumsticks): Signed with Vic Firth — Adopted Vic Firth 5B sticks alongside his Tama/Sabian rig starting on Hate Eternal's "I, Monarch" (2005), the same pairing he carried into Divine Heresy and Morbid Angel
+- **2005** (Drumheads): Signed with Remo — Set up his Tama Starclassic Bubinga kit with Remo Powerstroke 3 heads starting on Hate Eternal's "I, Monarch" (2005), the same heads he used into Morbid Angel
+- **2005** (Hardware / Pedals): Signed with Tama — Drove his Tama Starclassic Bubinga kit with a Tama Speed Cobra 910 double pedal starting on Hate Eternal's "I, Monarch" (2005), the same pedal he carried into Morbid Angel
 - **2011** (Drums): Renewed Tama deal — Carried the Tama Starclassic Bubinga / Sabian / Tama Speed Cobra setup into his debut Morbid Angel album "Illud Divinum Insanus" (2011), maintaining it through "Kingdoms Disdained" (2017)
 
 ## FAQ
@@ -55,4 +58,4 @@ A: See the Endorsement History section above for a full timeline of Tim Yeung's 
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

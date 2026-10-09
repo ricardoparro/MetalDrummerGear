@@ -32,6 +32,9 @@ Richard Christy endorses Axis for hardware / pedals. They play the Axis A Longbo
 
 - **1998** (Drums): Signed with Pearl — Recorded Death's final album "The Sound of Perseverance" (1998) on a Pearl Masters Custom maple kit with a deeper-than-typical 22" x 18" kick for the low-end weight Chuck Schuldiner wanted; carried the same kit into Control Denied and Iced Earth
 - **1998** (Cymbals): Signed with Sabian — Paired the Pearl kit with Sabian AA and AAX cymbals (14" AA Regular Hi-Hats, 16" AAX Studio Crash, 20" AA Medium Ride, 18" AAX Chinese) on "The Sound of Perseverance" (1998)
+- **1998** (Drumsticks): Signed with Vic Firth — Vic Firth American Classic 5A/5B sticks, adopted alongside the Pearl and Sabian deals on "The Sound of Perseverance" (1998)
+- **1998** (Drumheads): Signed with Remo / Evans — Remo Emperor and Pinstripe / Evans G2 heads, adopted alongside the Pearl and Sabian deals on "The Sound of Perseverance" (1998)
+- **1998** (Hardware / Pedals): Signed with Axis — Axis A Longboard Double Pedal, adopted alongside the Pearl and Sabian deals on "The Sound of Perseverance" (1998)
 
 ## FAQ
 
@@ -54,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Richard Chri
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -31,6 +31,10 @@ Inferno endorses Monolit for hardware / pedals. They play the Monolit Czarcie Ko
 ## Endorsement History
 
 - **2005** (Drums): Signed with Pearl — Long-term Pearl endorser through Behemoth's rise
+- **2005** (Cymbals): Signed with Paiste — Exact signing date unconfirmed; anchored to the 2005 Pearl kit deal era, when the Paiste RUDE series became his standard cymbal setup
+- **2005** (Drumsticks): Signed with Vic Firth — Exact signing date unconfirmed; anchored to the 2005 Pearl kit deal era, when the Vic Firth American Classic Extreme 5B became his standard stick
+- **2005** (Drumheads): Signed with Remo — Exact signing date unconfirmed; anchored to the 2005 Pearl kit deal era, when Remo heads became his standard batter/resonant choice
+- **2013** (Hardware / Pedals): Signed with Monolit — Monolit Czarcie Kopyto pedal only documented to the "2010s"; anchored here to mid-decade as the best available estimate pending an exact date
 
 ## FAQ
 
@@ -53,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Inferno's br
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

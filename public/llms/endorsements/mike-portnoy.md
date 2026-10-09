@@ -26,11 +26,11 @@ Mike Portnoy endorses Remo for drumheads. This partnership began in 1980s.
 
 ## Endorsement History
 
+- **1980s** (Drumheads): Signed with Remo — Signed with Remo drumheads
 - **1985** (Drums): Signed with Tama — One of the longest-running Tama endorsements in metal
 - **1985** (Cymbals): Signed with Sabian — Long-term Sabian artist with signature cymbals
-- **2023** (Drums): Renewed Tama deal — Returned to Dream Theater with same Tama setup after 13 years
 - **2000s** (Drumsticks): Signed with Promark — Signed with Promark for signature stick models
-- **1980s** (Drumheads): Signed with Remo — Signed with Remo drumheads
+- **2023** (Drums): Renewed Tama deal — Returned to Dream Theater with same Tama setup after 13 years
 
 ## FAQ
 
@@ -53,4 +53,4 @@ A: See the Endorsement History section above for a full timeline of Mike Portnoy
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

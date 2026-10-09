@@ -35,10 +35,10 @@ Tomas Haake endorses Tama for hardware / pedals. They play the Tama Speed Cobra.
 
 ## Endorsement History
 
-- **2005** (Drums): Signed with Sonor — Long-term partnership with Sonor for SQ2 series drums
-- **2010** (Drumsticks): Signature product: Wincent Tomas Haake Signature Sticks — Custom signature sticks designed for polymetric playing
 - **2000s** (Cymbals): Signed with Sabian — Signed with Sabian, playing HHX & AAX series cymbals
 - **2000s** (Drumheads): Signed with Remo — Signed with Remo, using Coated Emperor heads
+- **2005** (Drums): Signed with Sonor — Long-term partnership with Sonor for SQ2 series drums
+- **2010** (Drumsticks): Signature product: Wincent Tomas Haake Signature Sticks — Custom signature sticks designed for polymetric playing
 - **2010s** (Hardware / Pedals): Signed with Tama — Signed with Tama hardware, using Speed Cobra pedals
 
 ## FAQ
@@ -62,4 +62,4 @@ A: See the Endorsement History section above for a full timeline of Tomas Haake'
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

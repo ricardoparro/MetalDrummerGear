@@ -2944,6 +2944,14 @@ export const ENDORSEMENT_TIMELINE = {
         product: 'Ray Luzier Signature',
         notes: 'Moved to his own Vic Firth Ray Luzier Signature model starting with "The Paradigm Shift" (2013)',
       },
+      {
+        year: 2010,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Signed with Evans, using EC2 Coated batter heads and EMAD2 bass drum heads starting with "Korn III: Remember Who You Are" (2010), his debut studio album with Korn',
+      },
     ],
   },
   'raymond-herrera': {

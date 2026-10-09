@@ -35,11 +35,11 @@ George Kollias endorses Pearl for hardware / pedals. They play the Pearl Demon X
 
 ## Endorsement History
 
-- **2015** (Hardware / Pedals): Signature product: Pearl Demon XR Bass Drum Pedals — Co-designed signature bass drum pedals with Pearl for extreme speed
 - **2000s** (Drums): Signed with Pearl — Signed with Pearl for the Masterworks Series kit
 - **2000s** (Cymbals): Signed with Zildjian — Signed with Zildjian for A Custom Series cymbals
 - **2000s** (Drumsticks): Signed with Vic Firth — Signed with Vic Firth for drumsticks
 - **2000s** (Drumheads): Signed with Evans — Signed with Evans for drumheads
+- **2015** (Hardware / Pedals): Signature product: Pearl Demon XR Bass Drum Pedals — Co-designed signature bass drum pedals with Pearl for extreme speed
 
 ## FAQ
 
@@ -62,4 +62,4 @@ A: See the Endorsement History section above for a full timeline of George Kolli
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

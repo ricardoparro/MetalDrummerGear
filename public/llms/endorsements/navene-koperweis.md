@@ -34,6 +34,8 @@ Navene Koperweis endorses DW for hardware / pedals. They play the DW 9000 Series
 - **2015** (Drums): Signed with DW — Moved from the Tama Birch Silverstar used on Entheos' "Primal" EP (2015) to DW Performance Series, unifying his hardware under one endorsement as his session career expanded
 - **2015** (Hardware / Pedals): Switched from Tama Speed Cobra to DW 9000 Series — Switched to the DW 9000 double pedal's adjustable eccentric cam to dial in the acceleration curve his riff-locked, heel-up double bass technique requires
 - **2015** (Cymbals): Switched from Meinl Byzance to Meinl Byzance Extra Dry — Refined to the Extra Dry sub-series for its fast decay and controlled sustain, preventing cymbal bleed in Entheos' tight djent riffing
+- **2015** (Drumsticks): Signed with Vic Firth — Signed with Vic Firth for the American Classic 5B as he unified his endorsements during Entheos' formation
+- **2015** (Drumheads): Signed with Evans — Signed with Evans for Genera HD Dry batters and EC2 Clear resonants as part of the same rig unification
 
 ## FAQ
 
@@ -56,4 +58,4 @@ A: See the Endorsement History section above for a full timeline of Navene Koper
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

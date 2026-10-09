@@ -2795,6 +2795,22 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'Meinl Byzance Extra Dry',
         notes: 'Refined to the Extra Dry sub-series for its fast decay and controlled sustain, preventing cymbal bleed in Entheos\' tight djent riffing',
       },
+      {
+        year: 2015,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: null,
+        to: 'Vic Firth',
+        notes: 'Signed with Vic Firth for the American Classic 5B as he unified his endorsements during Entheos\' formation',
+      },
+      {
+        year: 2015,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Signed with Evans for Genera HD Dry batters and EC2 Clear resonants as part of the same rig unification',
+      },
     ],
   },
   'nick-augusto': {

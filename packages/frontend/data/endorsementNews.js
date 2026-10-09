@@ -2038,6 +2038,14 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'Meinl Byzance Brilliant Heavy Hammered / Classics Custom Dark',
         notes: 'Expanded to a dual-line Meinl setup pairing brighter Byzance Brilliant Heavy Hammered with darker Classics Custom Dark for wider tonal range on his Megadeth studio debut',
       },
+      {
+        year: 2016,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'Tama Speed Cobra 910 Double Pedal',
+        notes: 'Tama Speed Cobra 910 double pedal, adopted alongside the move to the Starclassic Maple kit for the Megadeth era',
+      },
     ],
   },
   'frost': {

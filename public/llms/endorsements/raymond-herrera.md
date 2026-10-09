@@ -34,6 +34,8 @@ Raymond Herrera endorses DW for hardware / pedals. They play the DW 5000 Series 
 - **1995** (Cymbals): Signed with Zildjian — Chose Zildjian Z Custom cymbals for their durability and bright, cutting projection above Fear Factory's down-tuned guitars, starting on "Demanufacture" (1995)
 - **1995** (Electronics): Signed with ddrum / Roland — Wired his Tama kit with ddrum triggers into a Roland drum module for "Demanufacture," creating the mechanical, processed drum sound at the core of Fear Factory's identity
 - **1995** (Drumsticks): Signed with Pro-Mark — Plays Pro-Mark 5A Oak Nylon Tip sticks, per MusicRadar's "How to sound like Fear Factory's Raymond Herrera" breakdown of his "Demanufacture"-era (1995) setup
+- **1995** (Drumheads): Signed with Remo — Used Remo Pinstripe / Ambassador heads on his Tama Starclassic kit for "Demanufacture" (1995)
+- **1995** (Hardware / Pedals): Signed with DW — Drove his triggered kit with a DW 5000 Series Double Pedal starting on "Demanufacture" (1995)
 
 ## FAQ
 
@@ -56,4 +58,4 @@ A: See the Endorsement History section above for a full timeline of Raymond Herr
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

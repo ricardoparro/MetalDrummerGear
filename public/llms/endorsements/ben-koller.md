@@ -31,7 +31,11 @@ Ben Koller endorses Tama for hardware / pedals. They play the Tama Iron Cobra Do
 ## Endorsement History
 
 - **1999** (Drums): Signed with Tama — Joined Converge in 1999 playing standard touring-grade Tama kits through "Jane Doe" (2001)
+- **1999** (Drumsticks): Signed with Vic Firth — Signed with Vic Firth around the same time as joining Converge, settling on American Classic 5B
+- **1999** (Drumheads): Signed with Remo — Signed with Remo drumheads around the same time as joining Converge, settling on Coated heads
 - **2004** (Drums): Switched from Tama (standard) to Tama Starclassic — Upgraded to Tama Starclassic shells and solidified the Zildjian K Custom/A Custom cymbal setup through "Axe to Fall" and "All We Love We Leave Behind"
+- **2004** (Cymbals): Signed with Zildjian — Solidified the Zildjian K Custom & A Custom Series cymbal setup alongside the Tama Starclassic upgrade
+- **2004** (Hardware / Pedals): Signed with Tama — Adopted the Tama Iron Cobra Double Pedal alongside the Starclassic shell upgrade
 - **2017** (Drums): Renewed Tama deal — Settled into the Tama Starclassic Performer B/B birch/bubinga kit still used on "The Dusk in Us" and "Bloodmoon: I"
 
 ## FAQ
@@ -55,4 +59,4 @@ A: See the Endorsement History section above for a full timeline of Ben Koller's
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

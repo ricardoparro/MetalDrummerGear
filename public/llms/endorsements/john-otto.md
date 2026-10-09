@@ -32,7 +32,10 @@ John Otto endorses Gibraltar for hardware / pedals. They play the Gibraltar Prof
 
 - **1994** (Drums): Signed with Pearl — Played a Pearl kit through Limp Bizkit's Jacksonville formation and the "Three Dollar Bill, Y'all$" debut
 - **1994** (Cymbals): Signed with Zildjian — Zildjian cymbal and stick endorsement established alongside Limp Bizkit's formation, expanded to A Custom models by the "Significant Other" era
+- **1994** (Drumsticks): Signed with Zildjian — Zildjian drumstick endorsement signed alongside the cymbal deal at Limp Bizkit's formation
+- **1994** (Drumheads): Signed with Remo — Remo Emperor Coated / Powerstroke 3 heads established as his standard batter/resonant choice alongside the 1994 Pearl kit
 - **1999** (Drums): Switched from Pearl to Orange County Drum & Percussion — Transitioned to an OCDP setup during the "Significant Other" / "Chocolate Starfish" commercial peak
+- **1999** (Hardware / Pedals): Signed with Gibraltar — Gibraltar Professional Series hardware adopted alongside the OCDP kit transition during the "Significant Other" / "Chocolate Starfish" era
 - **2003** (Drums): Renewed Orange County Drum & Percussion deal — OCDP custom kit fully established as his standard configuration through "Results May Vary," "Gold Cobra," and "Still Sucks"
 
 ## FAQ
@@ -56,4 +59,4 @@ A: See the Endorsement History section above for a full timeline of John Otto's 
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

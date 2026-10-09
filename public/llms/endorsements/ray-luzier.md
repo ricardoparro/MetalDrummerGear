@@ -35,6 +35,7 @@ Ray Luzier endorses DW for hardware / pedals. They play the DW 9000 Series Doubl
 ## Endorsement History
 
 - **2010** (Drums): Signed with DW — Ran a DW Collector's Series kit with a DW 9002 double bass pedal for "Korn III: Remember Who You Are" (2010), his debut studio album with Korn
+- **2010** (Drumheads): Signed with Evans — Signed with Evans, running EC2 Coated batter heads and EMAD2 bass drum heads starting with "Korn III: Remember Who You Are" (2010)
 - **2013** (Drums): Switched from DW to Pearl — Transitioned from a DW kit to a Pearl Reference Maple kit for "The Paradigm Shift" (2013), beginning his current Pearl endorsement, while remaining on his DW 9000 Series double pedal
 - **2013** (Cymbals): Switched from Paiste 2002 / Meinl Byzance to Sabian AAX — Switched from his Paiste 2002/Meinl Byzance mix to Sabian AAX cymbals alongside the Pearl move for "The Paradigm Shift" (2013), a setup he has kept through "Requiem" (2022)
 - **2013** (Drumsticks): Signature product: Vic Firth Ray Luzier Signature — Moved to his own Vic Firth Ray Luzier Signature model starting with "The Paradigm Shift" (2013)
@@ -60,4 +61,4 @@ A: See the Endorsement History section above for a full timeline of Ray Luzier's
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

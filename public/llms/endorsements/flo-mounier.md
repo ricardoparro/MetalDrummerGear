@@ -31,9 +31,13 @@ Flo Mounier endorses Tama for hardware / pedals. They play the Tama Speed Cobra 
 ## Endorsement History
 
 - **1992** (Drums): Signed with Pearl — Co-founded Cryptopsy playing Pearl kits (MX Series by the "None So Vile" era) through the mid-1990s
+- **1992** (Drumsticks): Signed with Vic Firth — Vic Firth 5A American Classic sticks, established alongside his original Pearl endorsement
 - **2000** (Drums): Renewed Pearl deal — Upgraded to the Pearl Masters BRX flagship kit, including a 26" bass drum, for "And Then You'll Beg"
 - **2005** (Drums): Switched from Pearl to Yamaha — Switched to a Yamaha Recording Custom kit paired with Zildjian ZXT cymbals for "Once Was Not"
 - **2012** (Drums): Switched from Yamaha to Tama — Moved to the Tama Starclassic Maple kit and Sabian cymbal setup that remains his current configuration through "As Gomorrah Burns"
+- **2012** (Cymbals): Switched from null to Sabian — Sabian AAX/HHX Series cymbals, adopted alongside the move to Tama Starclassic Maple
+- **2012** (Drumheads): Switched from null to Evans — Evans EC Reverse Dot heads, adopted alongside the move to Tama Starclassic Maple
+- **2012** (Hardware / Pedals): Switched from null to Tama — Tama Speed Cobra 910 Twin Pedal, adopted alongside the move to Tama Starclassic Maple
 
 ## FAQ
 
@@ -56,4 +60,4 @@ A: See the Endorsement History section above for a full timeline of Flo Mounier'
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

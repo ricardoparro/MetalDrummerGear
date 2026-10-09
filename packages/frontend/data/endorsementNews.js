@@ -2892,6 +2892,22 @@ export const ENDORSEMENT_TIMELINE = {
         product: 'Paul Mazurkiewicz Signature',
         notes: 'Developed a Vic Firth signature stick spec — heavier overall weight and a durable wood tip built for the power demands of 180-250 BPM blast beats',
       },
+      {
+        year: 1990,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: 'Exact signing date unconfirmed; anchored to the 1990 Pearl kit deal era, when Remo Powerstroke 3 / Emperor Coated heads became his standard batter/resonant choice',
+      },
+      {
+        year: 1990,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'Pearl',
+        notes: 'Exact signing date unconfirmed; anchored to the 1990 Pearl kit deal era, when the Pearl Eliminator Double Bass Pedal became his standard hardware',
+      },
     ],
   },
   'pete-sandoval': {

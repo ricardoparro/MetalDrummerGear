@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-09 00:34 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-09 01:27 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 382 |
-| Sessions | 435 |
-| Page views | 550 |
-| Engagement rate | 39.54% |
+| Active users | 384 |
+| Sessions | 437 |
+| Page views | 556 |
+| Engagement rate | 39.36% |
 | Avg session (s) | 94 |
 
 ### Top pages (by page views, last 7d)
@@ -21,25 +21,25 @@
 | / | 14 | 15 |
 | /articles/whats-in-lars-ulrichs-kit | 14 | 14 |
 | /drummers | 13 | 5 |
+| /drummer/joey-jordison | 12 | 10 |
 | /drummer/mario-duplantier | 12 | 9 |
-| /drummer/joey-jordison | 11 | 10 |
 | /drummer/flo-mounier | 9 | 2 |
 | /drummer/john-otto | 8 | 7 |
 | /articles/slipknot-self-titled-drum-setup | 7 | 7 |
-| /drummer/matt-greiner | 7 | 7 |
+| /drummer/bill-ward | 7 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 265 | 219 |
-| Unassigned | 97 | 86 |
+| Organic Search | 268 | 222 |
+| Unassigned | 99 | 88 |
 | Direct | 85 | 83 |
-| Cross-network | 55 | 55 |
+| Cross-network | 56 | 56 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 151 | 134 |
+| United States | 152 | 135 |
 | China | 46 | 46 |
 | United Kingdom | 28 | 22 |
 | Germany | 16 | 12 |

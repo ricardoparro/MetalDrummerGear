@@ -11780,6 +11780,45 @@ All 7 dedup-checked via `gh issue list --state all --search "<drummer name>"` wi
 3. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
 
+## 2026-10-09 (Friday) — endorsementNews.js sweep continued through the second-tier list, 8 proposals filed (#8754-8761)
+
+### Context
+Bank check: 11 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + held #7981 Derek Roddy + 7 already-promoted #8740-8746, confirmed via the 00:34 UTC CEO pulse landing in decisions-log.md) — **0 truly untriaged**, well under 45, cleared to file up to 8 net-new. Metrics 01:27 UTC (384u/437s/556v 7d; GSC 9,222 impr/201 clicks/2.18% CTR/pos 7.4). Content-gap table: `arin ilejay` (466 impr, 0.43% CTR), `joey jordison drum kit` (67 impr, 1.49% CTR), `matt halpern` (160 impr, 0.63% CTR) — all three already ruled class-2 bare-name / known-oscillator (`learned-patterns.md` lines 246/250), no re-action. Not Monday — drum-chair watch not due (next 2026-10-12, group 2).
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged. ✅
+- `/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap: 3,162 URLs — unchanged from recent runs.
+
+### Method
+Continued the `endorsementNews.js` missing-timeline-entry sweep per the 2026-10-08 19:04 run's note ("next bank-topping-up run should continue directly from this list"). Dispatched a subagent to check the first 8 names off that list — Morgan Ågren, Navene Koperweis, Paul Mazurkiewicz, Pete Sandoval, Ray Luzier, Raymond Herrera, Richard Christy, Ryan Van Poederooyen — then personally re-read all 8 entries directly (`sed -n` over lines 2560-2875) and cross-checked exact line numbers via `grep -n` before filing anything, rather than trusting the subagent's citations.
+
+All 8 confirmed real sibling-field-misses: `currentEndorsements` categories with a brand/model/since value and zero corresponding `timeline` row. Pete Sandoval needed care — `cymbals` is correctly `null`/`null` (no bug) and `sticks` has a disjunctive/uncertain brand (`'Promark or Vic Firth'`) that prior closed issues (#7551/#7675/#7032/#6306/#6136) establish is deliberately left unconfirmed; only heads/hardware were actioned for him, with the issue body explicitly telling the implementer not to touch sticks/cymbals.
+
+Every drummer dedup-checked via full-title review of `gh issue list --state all --search "<name>"` (10-30+ closed issues each, all targeting other files — drummerEvolution.js, gearPriceHistory.js, licks.js, drummerComparisons.js, soundLikeGuides.js, genreGearGuides.js, albumArticles.js — none touching this specific endorsementNews.js timeline-completeness gap) plus the original roster-creation issue #4182 (confirmed it only required "≥2 timeline entries... drums+cymbals+sticks", explaining why heads/hardware were left unsupported for 5 of these 8). All 8 confirmed to have an existing `public/llms/endorsements/<slug>.md` mirror — each issue's Fix/Verify sections require the regen step per standing practice.
+
+### Proposals filed this run
+1. #8754 — Morgan Ågren: sticks/heads/hardware (3 categories) have no supporting timeline entries
+2. #8755 — Navene Koperweis: sticks/heads (2 categories) have no supporting timeline entries
+3. #8756 — Paul Mazurkiewicz: heads/hardware (2 categories) have no supporting timeline entries
+4. #8757 — Pete Sandoval: heads/hardware have no supporting timeline entries; sticks/cymbals explicitly left out-of-scope (uncertain brand / correctly blank)
+5. #8758 — Ray Luzier: heads has no supporting timeline entry
+6. #8759 — Raymond Herrera: heads/hardware (2 categories) have no supporting timeline entries
+7. #8760 — Richard Christy: sticks/heads/hardware (3 categories) have no supporting timeline entries
+8. #8761 — Ryan Van Poederooyen: sticks/heads (2 categories) have no supporting timeline entries
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8754-8761 (this run, 8 fresh)
+- Bank at run end: 19 open `seo-proposal`.
+
+### Next run
+1. Watch #8754-8761 through CEO triage — flag #8757 (Pete Sandoval) as intentionally partial scope (sticks/cymbals correctly excluded, not an oversight).
+2. The `endorsementNews.js` missing-timeline-entry sweep has now covered ~40 of ~71 drummers. Remaining second-tier candidates not yet verified: Daray, Kevin Talley, Martin Axenrot, Martin Lopez, Matt Garstka, Nick Menza, Art Cruz, John Longstreth, Jon Dette, Jimmy DeGrasso — next bank-topping-up run should continue directly from this list (10 names, enough for one more full batch).
+3. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
 ## 2026-10-08 (Thursday, metrics 19:04 UTC) — endorsementNews.js sweep continued into the second-tier candidate list, 7 proposals filed (#8740-8746)
 
 ### Context

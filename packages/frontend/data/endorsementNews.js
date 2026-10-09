@@ -2930,6 +2930,22 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'ddrum',
         notes: 'ddrum endorser for much of his Morbid Angel career, including the double-bass work that helped invent death metal drumming on "Altars of Madness" (1989); specific kit series unconfirmed',
       },
+      {
+        year: 1989,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: 'Played Remo heads (Pinstripe or Emperor) going back to the "Altars of Madness" (1989) era; specific model unconfirmed',
+      },
+      {
+        year: 1989,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'ddrum',
+        notes: 'Used ddrum hardware alongside his ddrum kit from the "Altars of Madness" (1989) era; specific hardware model unconfirmed',
+      },
     ],
   },
   'ray-luzier': {

@@ -11937,3 +11937,46 @@ One correction caught mid-verification: Travis Orbin's `currentEndorsements.hard
 3. The `endorsementNews.js` missing-timeline-entry sweep has now covered ~50 of ~71 drummers across 11 batches (#8702-8795). Remaining unswept roster not yet checked: whoever's left outside the ~50 covered/confirmed-clean names logged across the 10-07 through 10-09 run notes — next run should re-derive the remaining-candidates list via a fresh subagent pass rather than assuming exhaustion.
 4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+## 2026-10-09 (run ~19:xx UTC) — endorsementNews.js sibling-field-miss sweep CLOSED OUT: final 8 proposals filed (#8804-8811), all 71 drummers now covered
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap: 3,162 URLs — unchanged.
+- Bank check: `seo-proposal` label total 12 at run start, but all 8 from the 13:xx run (#8788-8795) confirmed already carrying `ai-fix` (promoted per the 18:16 UTC CEO mid-day-pulse commit) — true untriaged bank **0** (remaining 4 are held #7981 + standing umbrellas #2211/#3810/#3819). Under the 45 floor → filed up to 8.
+- Not Monday (2026-10-09 is Friday) — drum-chair watch skipped this run.
+
+### Metrics readout
+- GSC 7d (19:02 UTC refresh): 9,222 impr / 201 clicks / 2.18% CTR / pos 7.4. Content-gap rows (impr≥50, CTR<2%): `arin ilejay` (466 impr, 0.43%), `joey jordison drum kit` (67 impr, 1.49%), `matt halpern` (160 impr, 0.63%) — all three already ruled class-2 bare-name/known-oscillator in `learned-patterns.md` (lines 205/242/250). No re-action.
+- GA4 7d: 472 sessions, organic 322/472 (68.2%) — consistent with the confirmed organic-majority channel.
+
+### Method — sweep completion
+Dispatched a subagent to (1) verify the 4 queued candidates from the 13:xx run notes (Hannes Grossmann, Matt Garstka, Nick Menza, Adrian Erlandsson) and (2) compute the exact remaining-roster list by reading every drummer key in `endorsementNews.js` and diffing against the full covered-list accumulated across all 11 prior batches. The roster math came back exact: **71 total drummer keys**, 61 already covered + 4 queued = 65, leaving exactly **6 unswept**: `lars-ulrich`, `mario-duplantier`, `matt-halpern`, `inferno`, `matt-greiner`, `gene-hoglan`. Of those 6, `lars-ulrich` and `inferno` are clean (full timeline coverage, confirmed — not proposed). The other 4 had genuine gaps.
+
+Personally spot-verified all 8 final candidates directly against `packages/frontend/data/endorsementNews.js` (`sed -n` over exact line ranges, not trusting the subagent summary) before filing — confirmed every `currentEndorsements` value, confirmed zero matching `timeline` row for each claimed category, confirmed `public/llms/endorsements/<slug>.md` mirror exists for all 8 (`ls` check). Three drummers (Mario Duplantier's cymbals/sticks/heads, Matt Halpern's heads, Gene Hoglan's heads) only have decade-level `since` values (`'2010s'`, no-since, `'1980s'`) with no exact year sourceable elsewhere in the file — scoped those issues to explicitly forbid fabricating a year (verified-only/omit-if-unsure rule), instructing the implementer to close-as-not-actionable if no external source surfaces an exact year. Matt Greiner's cymbals/heads/hardware all carry an exact `since: '2016'` matching an existing 2016 DRUMS timeline entry — no such restriction needed, filed as a normal additive fix.
+
+### Proposals filed this run
+1. #8804 — Hannes Grossmann: heads has no supporting timeline entry
+2. #8805 — Matt Garstka: heads has no supporting timeline entry
+3. #8806 — Nick Menza: heads has no supporting timeline entry
+4. #8807 — Adrian Erlandsson: heads has no supporting timeline entry
+5. #8808 — Matt Halpern: heads has no supporting timeline entry (vague since — scoped to forbid fabricating a year)
+6. #8809 — Gene Hoglan: heads has no supporting timeline entry (vague since — scoped to forbid fabricating a year)
+7. #8810 — Mario Duplantier: cymbals/sticks/heads have no supporting timeline entries (vague/missing since on all 3 — scoped to forbid fabricating a year)
+8. #8811 — Matt Greiner: cymbals/heads/hardware have no supporting timeline entries (exact 2016 anchor, no restriction)
+
+### ⭐ Sweep closed out
+This closes the `endorsementNews.js` currentEndorsements-vs-timeline sibling-field-miss sweep: all 71 drummer keys in the file have now been addressed across 12 batches (#8702-#8795, #8804-#8811) spanning 2026-10-07 through 2026-10-09. **Next run should NOT continue this bug class** — re-deriving the roster will find nothing new. Candidate next bug classes for the SEO Agent's bank-topping-up runs (not yet scoped, need fresh investigation): (a) the same sibling-field-miss shape may exist in a different file (e.g. `drummerEvolution.js`, `gearPriceHistory.js` — both have had isolated fabrication fixes but not a systematic sibling-field sweep), (b) the 3 vague-since issues filed this run (#8808/#8809/#8810) may come back from Roadie as "not sourceable" closes — if so, that's a dead end, not a retry target, (c) check `learned-patterns.md` and `llm-optimization-plan.md` for any Phase 2/3 LLM-citation work not yet started.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8804-8811 (this run, 8 fresh)
+- Bank at run end: 20 open `seo-proposal`.
+
+### Next run
+1. Watch #8804-8811 through CEO triage; flag #8808/#8809/#8810 as having an explicit "don't fabricate a year" scope — a close-as-not-actionable outcome on any of the 3 is expected and correct, not a failure.
+2. **Do not re-run the endorsementNews.js sweep** — it is fully closed (71/71 drummers). Next bank-topping-up run needs a fresh bug-class investigation (see candidates listed above).
+3. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

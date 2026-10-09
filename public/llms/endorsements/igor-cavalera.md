@@ -32,9 +32,11 @@ Igor Cavalera endorses Tama for hardware / pedals. They play the Tama Iron Cobra
 
 - **1993** (Drums): Signed with Pearl — Pearl Masters Custom maple shells for the Chaos A.D./Roots era
 - **1993** (Cymbals): Signed with Paiste — Cut through Sepultura's groove-metal aggression with Paiste RUDE & 2002 Series cymbals, a setup kept through "Roots" (1996)
+- **1993** (Drumsticks): Signed with Vic Firth — Signed with Vic Firth, playing American Classic 5B sticks through the Chaos A.D./Roots era and beyond
 - **1996** (Drums): Switched from Pearl to Tama — Returned to a Tama Starclassic Maple kit after the Pearl Masters Custom sub-era of "Chaos A.D."/"Roots" (1993-1996) ended, ahead of the 2006 move to ddrum
 - **2006** (Drums): Switched from Tama to ddrum — Left Sepultura in 2006 and reunited with brother Max in Cavalera Conspiracy, moving to a ddrum Hybrid Kit
 - **2006** (Cymbals): Switched from Paiste to Zildjian — Switched to Zildjian A Custom Series cymbals for the Cavalera Conspiracy era, starting with "Inflikted"
+- **2006** (Drumheads): Signed with Remo — Signed with Remo heads around the 2006 Cavalera Conspiracy formation
 - **2018** (Drums): Switched from ddrum to Yamaha — Announced a new Yamaha Absolute Hybrid Maple endorsement in August 2018, moving off his prior kit
 - **2018** (Hardware / Pedals): Switched from DW to Tama — Adopted Tama Iron Cobra double pedal alongside the 2018 Yamaha kit switch
 
@@ -59,4 +61,4 @@ A: See the Endorsement History section above for a full timeline of Igor Cavaler
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

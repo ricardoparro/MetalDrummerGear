@@ -1952,6 +1952,22 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'Tama',
         notes: 'Adopted Tama Iron Cobra double pedal alongside the 2018 Yamaha kit switch',
       },
+      {
+        year: 1993,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: null,
+        to: 'Vic Firth',
+        notes: 'Signed with Vic Firth, playing American Classic 5B sticks through the Chaos A.D./Roots era and beyond',
+      },
+      {
+        year: 2006,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: 'Signed with Remo heads around the 2006 Cavalera Conspiracy formation',
+      },
     ],
   },
   'dirk-verbeuren': {

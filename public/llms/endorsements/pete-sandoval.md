@@ -31,6 +31,8 @@ Pete Sandoval endorses ddrum for hardware / pedals. They play the ddrum unconfir
 ## Endorsement History
 
 - **1989** (Drums): Signed with ddrum — ddrum endorser for much of his Morbid Angel career, including the double-bass work that helped invent death metal drumming on "Altars of Madness" (1989); specific kit series unconfirmed
+- **1989** (Drumheads): Signed with Remo — Played Remo heads (Pinstripe or Emperor) going back to the "Altars of Madness" (1989) era; specific model unconfirmed
+- **1989** (Hardware / Pedals): Signed with ddrum — Used ddrum hardware alongside his ddrum kit from the "Altars of Madness" (1989) era; specific hardware model unconfirmed
 
 ## FAQ
 
@@ -53,4 +55,4 @@ A: See the Endorsement History section above for a full timeline of Pete Sandova
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -2969,6 +2969,14 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Ran a DW Collector\'s Series kit with a DW 9002 double bass pedal for "Korn III: Remember Who You Are" (2010), his debut studio album with Korn',
       },
       {
+        year: 2010,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Signed with Evans, running EC2 Coated batter heads and EMAD2 bass drum heads starting with "Korn III: Remember Who You Are" (2010)',
+      },
+      {
         year: 2013,
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,

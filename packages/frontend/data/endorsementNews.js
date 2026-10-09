@@ -2458,6 +2458,22 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Settled on Vic Firth American Classic 5A sticks for the ghost-note-to-rimshot dynamic range Hikari required',
       },
       {
+        year: 2017,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Moved to Evans EMAD / G2 Coated / EQ3 heads alongside the locked-in Starclassic Maple/Birch kit for Hikari',
+      },
+      {
+        year: 2017,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'Tama',
+        notes: 'Locked in the Tama Speed Cobra 910 Double Pedal as part of the full touring hardware setup for Hikari',
+      },
+      {
         year: 2022,
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,

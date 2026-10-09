@@ -4175,6 +4175,14 @@ export const ENDORSEMENT_TIMELINE = {
         product: '"Wee Heavy" Signature Drumsticks',
         notes: 'Scorpion Percussion credits him as a signature artist for its "Wee Heavy" stick model on the brand\'s own artist page',
       },
+      {
+        year: 2010,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'ACD Unlimited',
+        notes: 'Endorses ACD Unlimited hardware, using the brand\'s Bass Drum Pedals and FootBlaster Triggers',
+      },
     ],
   },
   'waltteri-vayrynen': {

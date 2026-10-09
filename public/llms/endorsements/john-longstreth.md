@@ -33,6 +33,7 @@ John Longstreth endorses ACD Unlimited for hardware / pedals. They play the ACD 
 - **1995** (Drums): Signed with Pearl — Played Pearl drums from Angelcorpse's 1995 formation through his ongoing tenure in Origin, recording "Informis Infinitas Inhumanitas" (2002) and "Chaosmos" (2022)
 - **2010** (Cymbals): Signed with Meinl — Signed with Meinl Cymbals, per the brand's own artist page — Classics Custom Dark series (8" Splash, 14" Hi-Hats, 18" China) plus a Generation X 12"/14" Trash Hat
 - **2010** (Drumsticks): Signature product: Scorpion Percussion "Wee Heavy" Signature Drumsticks — Scorpion Percussion credits him as a signature artist for its "Wee Heavy" stick model on the brand's own artist page
+- **2010** (Hardware / Pedals): Signed with ACD Unlimited — Endorses ACD Unlimited hardware, using the brand's Bass Drum Pedals and FootBlaster Triggers
 
 ## FAQ
 
@@ -55,4 +56,4 @@ A: See the Endorsement History section above for a full timeline of John Longstr
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

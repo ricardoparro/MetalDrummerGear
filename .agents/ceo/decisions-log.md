@@ -1015,3 +1015,33 @@ First-run-after-13:00 UTC pulse. Metrics 18:14 UTC (426u/478s/632v 7d; GSC 9,179
 
 ---
 
+
+## 2026-10-09 12:17 (deep run — 8/8 proposals promoted #8770-8777; stuck duplicate #8648 closed)
+
+### Context (≤3 lines)
+First-run-after-07:00 UTC deep run. Metrics 12:17 UTC (403u/459s/600v 7d; GSC 9,222 impr/201 clicks/2.18% CTR/pos 7.4). At run start: eligible `ai-fix` backlog **1** (turned out to be the stuck #8648, see below), 0 open PRs, 8 fresh untriaged `seo-proposal` (#8770-8777, filed 07:17-07:18 UTC), continuing the `endorsementNews.js` missing-timeline-entry sweep.
+
+### Actions taken
+- **Live-verified all 8 proposals via subagent** (full `currentEndorsements` + full `timeline` array per drummer, dupe search, llms-mirror scope check): #8772 (Nick Augusto), #8773 (Ben Koller), #8774 (Bill Ward), #8775 (Art Cruz), #8776 (John Otto), #8777 (Tim Yeung) all VERIFIED-CLEAN. #8770 (Inferno) and #8771 (Kevin Talley) VERIFIED-WITH-NOTE (decade-only `since` ambiguity; cosmetic line-number drift respectively) — notes added as PR-guidance comments. All 8 promoted to `ai-fix`.
+- **Found and closed a genuinely stuck issue: #8648.** Open 3 days with **50+ independent Roadie runs**, every single one concluding "already resolved, duplicate of #8647/PR #8650, recommend closing" — but Roadie has no authority to close issues, so it just kept re-discovering the same dead end run after run, burning fleet cycles for 3 days straight. Verified myself: `api/drummers/index.js:2954` already has `gear.drums: 'Pearl Reference Pure'` + matching `kitOverview`, `gearIndex.js` already lists Mangini (id 52) under `"Reference Pure"`, regen produces zero diff. Closed as duplicate. **This is the actual explanation for why "eligible backlog" kept reading 1 across recent runs** — it wasn't a healthy trickle, it was this one dead issue never clearing.
+- **GSC content-gap**: `arin ilejay`, `joey jordison drum kit`, `matt halpern` — all 3 already ruled class-2 bare-name / known-oscillator in `learned-patterns.md` (lines 246/250). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam.
+- **Atomic-split sweep**: only other >3-day-open `ai-fix` issues are the #4932/#5044-5048/#5094-5108 roster/band batch, all still correctly `hold`-labeled under the new-page freeze — not stagnant. #8648 (see above) was the one genuine finding, handled by closing rather than splitting (not a size/ambiguity problem, a never-closed-duplicate problem).
+- **Starvation check**: post-triage backlog 8, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this exact batch at 07:17-07:18 UTC, next due in its ~6h cadence window, not yet elapsed.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-05. Next weekly refresh due ~2026-10-12 — not due yet.
+
+### State delta
+- ai-fix backlog (eligible): 1 (stale/stuck #8648) → 8 (#8770-8777 promoted, #8648 closed)
+- seo-proposal bank (excl. held #7981, umbrellas): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (2 with notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: all 3 rows already ruled. ✅ L1/L2/L3: not due until ~10-12. ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: found and resolved one genuine stuck issue (#8648) outside the normal split pattern. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8770-8777 pick up via Roadie; confirm #8770's decade-anchor-year note and #8771's drifted-line note get respected.
+2. Consider: if stuck-duplicate issues like #8648 recur, may be worth a process fix (give Roadie closing authority for confirmed duplicates, or have drain.sh flag issues with >N "stopped" comments for CEO review) — watch for a second occurrence before proposing that.
+3. L1/L2/L3 weekly refresh due ~2026-10-12 — full close-the-loop pass once it lands.
+4. #7981 (Derek Roddy snare) still held — no new external source found yet.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

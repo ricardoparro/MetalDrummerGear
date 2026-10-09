@@ -1641,6 +1641,22 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'Vic Firth',
         notes: 'Began playing Vic Firth American Classic 5B sticks alongside his new ddrum/Sabian setup at the start of the Godsmack era',
       },
+      {
+        year: 2002,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Evans drumheads, adopted alongside the 2002 ddrum/Sabian/Vic Firth setup upon joining Godsmack',
+      },
+      {
+        year: 2002,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'DW',
+        notes: 'DW 9000 Series Double Pedal, adopted alongside the 2002 ddrum/Sabian/Vic Firth setup upon joining Godsmack',
+      },
     ],
   },
   'igor-cavalera': {

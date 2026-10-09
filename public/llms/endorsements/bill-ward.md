@@ -32,6 +32,9 @@ Bill Ward endorses Ludwig for hardware / pedals. They play the Ludwig Speed King
 
 - **1968** (Drums): Signed with Ludwig — Played a Ludwig kit from Black Sabbath's formation in Birmingham through the "Paranoid" and "Master of Reality" sessions
 - **1968** (Cymbals): Signed with Super Zyn — Used Super Zyn cymbals from Black Sabbath's 1968 formation through the debut album and "Paranoid" (1970)
+- **1970** (Drumsticks): Signed with Pro-Mark — Played Pro-Mark sticks in a Standard 5A/5B equivalent model from around the "Paranoid" era onward
+- **1970** (Drumheads): Signed with Remo — Used Remo Ambassador Coated heads from around the "Paranoid" era onward
+- **1970** (Hardware / Pedals): Signed with Ludwig — Used a Ludwig Speed King Pedal from around the "Paranoid" era onward
 - **1971** (Cymbals): Signed with Zildjian — Switched to Avedis Zildjian hi-hats, ride, and crash starting with "Master of Reality", continuing through "Never Say Die!" (1978)
 - **1971** (Drums): Renewed Ludwig deal — Upgraded to a 22" Ludwig bass drum (from the 20" used on "Paranoid") to match Tony Iommi's down-tuned riffs on "Master of Reality"
 
@@ -56,4 +59,4 @@ A: See the Endorsement History section above for a full timeline of Bill Ward's 
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

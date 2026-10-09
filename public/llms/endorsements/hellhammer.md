@@ -31,8 +31,11 @@ Hellhammer endorses Axis for hardware / pedals. They play the Axis Double Pedal.
 ## Endorsement History
 
 - **1988** (Drums): Signed with Sonor — Developing Sonor endorsement during his early Mayhem years, in use on "De Mysteriis Dom Sathanas" (1994)
+- **1988** (Drumheads): Signed with Remo — Remo Coated Ambassador heads established during his early Mayhem years
 - **1999** (Drums): Renewed Sonor deal — Moved to the Sonor SQ2 Heavy Beech kit while drumming simultaneously for Dimmu Borgir and Mayhem
 - **1999** (Cymbals): Renewed Paiste deal — Cymbal setup expanded to a full Paiste RUDE series configuration used consistently across both bands
+- **1999** (Drumsticks): Signed with Vic Firth — Vic Firth American Classic 5B sticks, adopted alongside the Sonor SQ2 Heavy Beech kit switch
+- **1999** (Hardware / Pedals): Signed with Axis — Axis double pedal, adopted alongside the Sonor SQ2 Heavy Beech kit switch
 
 ## FAQ
 
@@ -55,4 +58,4 @@ A: See the Endorsement History section above for a full timeline of Hellhammer's
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

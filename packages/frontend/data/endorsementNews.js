@@ -1177,6 +1177,14 @@ export const ENDORSEMENT_TIMELINE = {
     },
     timeline: [
       {
+        year: 1987,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.CYMBALS,
+        from: null,
+        to: 'Paiste',
+        notes: 'Paiste Signature Series cymbals, carried from his early Motörhead years through to Scorpions',
+      },
+      {
         year: 1992,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,

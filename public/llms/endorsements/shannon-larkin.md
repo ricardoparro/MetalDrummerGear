@@ -33,6 +33,8 @@ Shannon Larkin endorses DW for hardware / pedals. They play the DW 9000 Series D
 - **2002** (Drums): Signed with ddrum — Joined Godsmack in 2002, replacing Tommy Stewart, and brought his ddrum Dios Series kit into the band's platinum-selling run
 - **2002** (Cymbals): Signed with Sabian — Adopted Sabian AAX Series cymbals for the powerful, cutting attack behind Godsmack's "Faceless" (2003) breakthrough
 - **2002** (Drumsticks): Signed with Vic Firth — Began playing Vic Firth American Classic 5B sticks alongside his new ddrum/Sabian setup at the start of the Godsmack era
+- **2002** (Drumheads): Signed with Evans — Evans drumheads, adopted alongside the 2002 ddrum/Sabian/Vic Firth setup upon joining Godsmack
+- **2002** (Hardware / Pedals): Signed with DW — DW 9000 Series Double Pedal, adopted alongside the 2002 ddrum/Sabian/Vic Firth setup upon joining Godsmack
 
 ## FAQ
 
@@ -55,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Shannon Lark
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -2990,6 +2990,22 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'Pro-Mark',
         notes: 'Plays Pro-Mark 5A Oak Nylon Tip sticks, per MusicRadar\'s "How to sound like Fear Factory\'s Raymond Herrera" breakdown of his "Demanufacture"-era (1995) setup',
       },
+      {
+        year: 1995,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: 'Used Remo Pinstripe / Ambassador heads on his Tama Starclassic kit for "Demanufacture" (1995)',
+      },
+      {
+        year: 1995,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'DW',
+        notes: 'Drove his triggered kit with a DW 5000 Series Double Pedal starting on "Demanufacture" (1995)',
+      },
     ],
   },
   'richard-christy': {

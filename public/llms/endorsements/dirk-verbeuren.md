@@ -41,6 +41,7 @@ Dirk Verbeuren endorses Tama for hardware / pedals. They play the Tama Speed Cob
 - **2016** (Drums): Switched from Tama Starclassic Performer to Tama Starclassic Maple — Joining Megadeth's touring lineup after Chris Adler recorded "Dystopia," upgraded to an all-maple Tama Starclassic Maple kit for a deeper, punchier low end
 - **2016** (Drumheads): Switched from Remo Ambassador to Evans G2 / EMAD2 — Moved to Evans heads for the Megadeth era, pairing EMAD2 kick heads with Tama's Speed Cobra pedals for consistent attack
 - **2016** (Drumsticks): Switched from Vater 5B / Power 5B to Tama O-DVM2 — Switched to his own Tama O-DVM2 signature stick model for the Megadeth era, moving off Vater's Power 5B
+- **2016** (Hardware / Pedals): Switched from null to Tama Speed Cobra 910 Double Pedal — Tama Speed Cobra 910 double pedal, adopted alongside the move to the Starclassic Maple kit for the Megadeth era
 - **2022** (Drums): Signature product: Tama Tama S.L.P. Dynamic Bronze Snare 14x5.5" (LBZ1455DV) — Debuted his first signature snare on "The Sick, the Dying... and the Dead!" — a paper-thin 1.5mm bronze shell built to his specs after six years with the band
 - **2022** (Cymbals): Switched from Meinl Byzance Dark to Meinl Byzance Brilliant Heavy Hammered / Classics Custom Dark — Expanded to a dual-line Meinl setup pairing brighter Byzance Brilliant Heavy Hammered with darker Classics Custom Dark for wider tonal range on his Megadeth studio debut
 
@@ -65,4 +66,4 @@ A: See the Endorsement History section above for a full timeline of Dirk Verbeur
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

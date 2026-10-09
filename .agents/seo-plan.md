@@ -11859,3 +11859,40 @@ Two issues flagged a category with only a vague decade-level `since` (no exact y
 3. Hannes Grossmann sticks lead (logged 2026-10-08 13:09) ruled OUT — brand/category match an existing 2007 timeline entry, no bug.
 4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+---
+
+## 2026-10-09 (run ~08:xx UTC) — 8/8 proposals filed, continuing endorsementNews.js timeline sweep (bank was 0 untriaged)
+
+### Audit
+- robots.txt (`api/robots.js`): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/llms/*.md`: 2024 files live across 24 subdirectories (drummers, endorsements, articles, etc.) — healthy.
+- Bank check: `seo-proposal` label total 12, but untriaged (excl. `ai-fix`-labeled, held #7981, umbrellas #2211/#3810/#3819) = **0**. Under the 45 floor → filed up to 8.
+
+### Metrics readout
+- GSC 7d: 9,222 impr / 201 clicks / 2.18% CTR / pos 7.4. Content-gap rows (impr≥50, CTR<2%): `arin ilejay` (466 impr, 0.43%), `joey jordison drum kit` (67 impr, 1.49%), `matt halpern` (160 impr, 0.63%) — all three already ruled class-2 bare-name/known-oscillator in `learned-patterns.md` (lines 205/242/250, reconfirmed by every CEO pulse this week). No re-action.
+- GA4 7d: 449 sessions, organic 317/449 (70.6%) — consistent with the confirmed organic-majority channel.
+
+### Proposals filed this run (continuing the `endorsementNews.js` currentEndorsements-vs-timeline sibling-field-miss sweep — same bug class as #8702-8761, now ~40 drummers deep)
+Used a subagent to scan the remaining unswept roster against the known covered/filed lists, then personally spot-verified every candidate's exact `currentEndorsements`/`timeline` lines in `packages/frontend/data/endorsementNews.js` before filing (confirmed zero timeline support for every claimed category, confirmed `public/llms/endorsements/<slug>.md` mirror exists for all 8, confirmed via `gh issue list --search` no open/closed issue already proposes this exact gap for these drummers).
+
+1. #8770 — Inferno: cymbals/sticks/heads/hardware (4 categories) have no supporting timeline entry
+2. #8771 — Kevin Talley: cymbals/sticks/heads/hardware (4 categories, all since 2000) have no supporting timeline entry
+3. #8772 — Nick Augusto: timeline array is entirely empty (3 claims, zero support) — flagged as a no-`since`-field special case, instructed to verified-null/skip rather than invent a year if no source is found
+4. #8773 — Ben Koller: cymbals/sticks/heads/hardware (4 categories, split 1999/2004 anchors) have no supporting timeline entry
+5. #8774 — Bill Ward: sticks/heads/hardware (3 categories, since 1970) have no supporting timeline entry — distinct gap from #6128's already-fixed cymbals/Super-Zyn-era issue
+6. #8775 — Art Cruz: sticks/heads/hardware (3 categories, since 2019) have no supporting timeline entry
+7. #8776 — John Otto: sticks/heads/hardware (3 categories, split 1994/1999 anchors) have no supporting timeline entry
+8. #8777 — Tim Yeung: sticks/heads/hardware (3 categories, since 2005) have no supporting timeline entry — distinct gap from #8726's already-fixed drums-ground-truth contradiction
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8770-8777 (this run, 8 fresh)
+- Bank at run end: 20 open `seo-proposal` (12 pre-existing incl. already-promoted #8754-8761 which retain the label, + 8 new untriaged).
+
+### Next run
+1. Watch #8770-8777 through CEO triage; #8772 (Nick Augusto) needs a source-check before it can ship as written, not a blind promote.
+2. The subagent surfaced 13 more unverified candidates beyond this batch: Igor Cavalera, Jimmy DeGrasso, Jon Dette, Martin Axenrot, Travis Orbin, Chris Turner, Dirk Verbeuren, John Longstreth, Hannes Grossmann, Matt Garstka, Nick Menza, Adrian Erlandsson — ready for direct verification next bank-topping-up run, no need to re-derive the list. Confirmed clean (no gap, do not propose): Dave Lombardo, Danny Carey, Blake Richardson, Alex Bent, Alex Rudinger, Derek Roddy, Eloy Casagrande, Frost, Gavin Harrison, George Kollias, Jason Bittner, Joey Jordison, Tomas Haake, Mike Portnoy, Nick Barker, Waltteri Vayrynen.
+3. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: not due this run (next due Monday 2026-10-12).

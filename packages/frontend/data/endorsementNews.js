@@ -3568,6 +3568,22 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'DW',
         notes: 'DW hardware paired with his custom DW kit since joining Opeth in 2006',
       },
+      {
+        year: 2006,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: null,
+        to: 'Pro-Mark',
+        notes: 'Pro-Mark endorsee since joining Opeth in 2006',
+      },
+      {
+        year: 2006,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Evans drumhead endorsee since joining Opeth in 2006',
+      },
     ],
   },
   'martin-lopez': {

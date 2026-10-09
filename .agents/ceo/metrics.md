@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-09 07:13 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-09 08:25 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 395 |
-| Sessions | 449 |
-| Page views | 589 |
-| Engagement rate | 46.99% |
-| Avg session (s) | 85 |
+| Active users | 398 |
+| Sessions | 454 |
+| Page views | 594 |
+| Engagement rate | 46.48% |
+| Avg session (s) | 84 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| /drummer/joey-jordison | 17 | 12 |
 | /drummers/mike-portnoy/evolution | 17 | 6 |
-| / | 15 | 15 |
-| /drummer/joey-jordison | 15 | 10 |
+| / | 16 | 15 |
 | /articles/whats-in-lars-ulrichs-kit | 14 | 14 |
 | /drummers | 13 | 5 |
 | /drummer/mario-duplantier | 12 | 9 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 317 | 268 |
-| Direct | 93 | 91 |
-| Unassigned | 61 | 55 |
+| Organic Search | 321 | 269 |
+| Direct | 94 | 92 |
+| Unassigned | 65 | 57 |
 | Cross-network | 28 | 28 |
 
 ### Top countries (sessions, last 7d)
@@ -43,12 +43,12 @@
 | China | 47 | 47 |
 | United Kingdom | 28 | 22 |
 | Germany | 16 | 12 |
+| Singapore | 15 | 15 |
 | Canada | 14 | 12 |
-| Singapore | 14 | 14 |
 | France | 12 | 12 |
 | Australia | 11 | 10 |
 | Indonesia | 11 | 10 |
-| Italy | 9 | 9 |
+| Italy | 10 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

@@ -32,6 +32,8 @@ Jimmy DeGrasso endorses Evans for drumheads. This partnership began in 1998.
 
 - **1998** (Drums): Signed with Pearl — Played a Pearl kit through his 1998–2002 Megadeth tenure, recording "Risk" (1999) and "The World Needs a Hero" (2001)
 - **1998** (Cymbals): Signed with Sabian — Ran Sabian cymbals through his Megadeth tenure and into subsequent touring work with Alice Cooper and other hard rock acts
+- **1998** (Drumsticks): Signed with Promark — Ran Promark sticks through his 1998–2002 Megadeth tenure, recording "Risk" (1999) and "The World Needs a Hero" (2001)
+- **1998** (Drumheads): Signed with Evans — Ran Evans drumheads through his 1998–2002 Megadeth tenure, recording "Risk" (1999) and "The World Needs a Hero" (2001)
 - **2008** (Drums): Signature product: Pearl JD1455 Signature Snare — Pearl unveiled his 14x5.5" hammered brass, gold-plated-hardware signature snare at the 2008 NAMM Show
 
 ## FAQ
@@ -55,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Jimmy DeGras
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

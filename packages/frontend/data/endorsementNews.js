@@ -4125,6 +4125,22 @@ export const ENDORSEMENT_TIMELINE = {
         product: 'JD1455 Signature Snare',
         notes: 'Pearl unveiled his 14x5.5" hammered brass, gold-plated-hardware signature snare at the 2008 NAMM Show',
       },
+      {
+        year: 1998,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: null,
+        to: 'Promark',
+        notes: 'Ran Promark sticks through his 1998–2002 Megadeth tenure, recording "Risk" (1999) and "The World Needs a Hero" (2001)',
+      },
+      {
+        year: 1998,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Ran Evans drumheads through his 1998–2002 Megadeth tenure, recording "Risk" (1999) and "The World Needs a Hero" (2001)',
+      },
     ],
   },
   'nick-barker': {

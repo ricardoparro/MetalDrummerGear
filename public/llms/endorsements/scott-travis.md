@@ -32,8 +32,10 @@ Scott Travis endorses DW for hardware / pedals. They play the DW 9000 Series Dou
 
 - **1987** (Cymbals): Signed with Paiste — Established his Paiste endorsement during his Racer X years, before joining Judas Priest
 - **1990** (Drums): Signed with Tama — Debuted on Tama Artstar II kit for "Painkiller," one of metal's most influential drumming performances
+- **1990** (Drumheads): Signed with Remo — Remo heads, established alongside his 1990 Tama Artstar II debut on "Painkiller"
 - **2005** (Drums): Switched from Tama to Pearl — Gradual migration to Pearl's Reference Series through the 2000s
 - **2018** (Drums): Switched from Pearl to ddrum — Switched to a ddrum Dominion Series shell pack and DW 9000 Series Double Pedal for "Firepower," carrying through 2024's "Invincible Shield"
+- **2018** (Hardware / Pedals): Switched from null to DW — DW 9000 Series Double Pedal, adopted alongside the ddrum Dominion Series kit switch for "Firepower"
 
 ## FAQ
 
@@ -56,4 +58,4 @@ A: See the Endorsement History section above for a full timeline of Scott Travis
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

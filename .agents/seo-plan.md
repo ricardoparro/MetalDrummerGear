@@ -11896,3 +11896,44 @@ Used a subagent to scan the remaining unswept roster against the known covered/f
 2. The subagent surfaced 13 more unverified candidates beyond this batch: Igor Cavalera, Jimmy DeGrasso, Jon Dette, Martin Axenrot, Travis Orbin, Chris Turner, Dirk Verbeuren, John Longstreth, Hannes Grossmann, Matt Garstka, Nick Menza, Adrian Erlandsson — ready for direct verification next bank-topping-up run, no need to re-derive the list. Confirmed clean (no gap, do not propose): Dave Lombardo, Danny Carey, Blake Richardson, Alex Bent, Alex Rudinger, Derek Roddy, Eloy Casagrande, Frost, Gavin Harrison, George Kollias, Jason Bittner, Joey Jordison, Tomas Haake, Mike Portnoy, Nick Barker, Waltteri Vayrynen.
 3. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: not due this run (next due Monday 2026-10-12).
+
+## 2026-10-09 (run ~13:xx UTC) — 8/8 proposals filed (#8788-8795), continuing endorsementNews.js timeline sweep
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap: 3,162 URLs — unchanged.
+- Bank check: `seo-proposal` label total 12 at run start; all 8 from the prior 07:xx run (#8770-8777) confirmed already promoted (`ai-fix` label present) via `gh issue list --json labels` — true untriaged bank **0**. Under the 45 floor → filed up to 8.
+
+### Metrics readout
+- GSC 7d (13:07 UTC refresh): 9,222 impr / 201 clicks / 2.18% CTR / pos 7.4. Content-gap rows (impr≥50, CTR<2%): `arin ilejay` (466 impr, 0.43%), `joey jordison drum kit` (67 impr, 1.49%), `matt halpern` (160 impr, 0.63%) — all three already ruled class-2 bare-name/known-oscillator in `learned-patterns.md` (lines 205/242/250). No re-action.
+- GA4 7d: 460 sessions, organic 321/460 (69.8%) — consistent with the confirmed organic-majority channel.
+
+### Proposals filed this run (continuing the `endorsementNews.js` currentEndorsements-vs-timeline sibling-field-miss sweep — same bug class as #8702-8777, now ~50 drummers deep)
+Personally read each candidate's exact `currentEndorsements`/`timeline` block directly in `packages/frontend/data/endorsementNews.js` (not via subagent) before filing — confirmed zero timeline support for every claimed category, confirmed `public/llms/endorsements/<slug>.md` mirror exists for all 8, confirmed via `gh issue list --state all --search "<name>"` (full title review, 10-30+ results each) that no open/closed issue already targets this specific gap (existing issues for these drummers all target other files — albumArticles.js, drummerEvolution.js, genreGearGuides.js, licks.js, soundLikeGuides.js, drummerComparisons.js — wrong-brand fabrications, a different bug class).
+
+Worked through the 12-name candidate list left by the 07:xx run (Igor Cavalera, Jimmy DeGrasso, Jon Dette, Martin Axenrot, Travis Orbin, Chris Turner, Dirk Verbeuren, John Longstreth, Hannes Grossmann, Matt Garstka, Nick Menza, Adrian Erlandsson) — all 12 confirmed as genuine gaps. Filed the 8 with the broadest scope (multi-category gaps, or a lone hardware gap since that category has the fewest fixes so far); held back 4 single-category heads-only gaps (Hannes Grossmann, Matt Garstka, Nick Menza, Adrian Erlandsson) for next run, already fully verified.
+
+One correction caught mid-verification: Travis Orbin's `currentEndorsements.hardware` bundles "DW 9000 Series Double Pedal + Roland SPD-SX", but the timeline already has a distinct 2011 ELECTRONICS/Roland entry — scoped the new HARDWARE entry to the DW pedal only to avoid a duplicate claim (noted explicitly in the issue body).
+
+1. #8788 — Igor Cavalera: sticks/heads (2 categories) have no supporting timeline entries
+2. #8789 — Travis Orbin: heads/hardware (2 categories) have no supporting timeline entries — hardware scoped to DW pedal only, not duplicating the existing Roland ELECTRONICS entry
+3. #8790 — Chris Turner: heads/hardware (2 categories) have no supporting timeline entries
+4. #8791 — Martin Axenrot: sticks/heads (2 categories) have no supporting timeline entries
+5. #8792 — Jon Dette: sticks/heads (2 categories) have no supporting timeline entries
+6. #8793 — Jimmy DeGrasso: sticks/heads (2 categories) have no supporting timeline entries; no hardware field exists for him, correctly left out of scope
+7. #8794 — Dirk Verbeuren: hardware has no supporting timeline entry — distinct from #8358 (closed, fixed a different file's anachronistic pedal date)
+8. #8795 — John Longstreth: hardware has no supporting timeline entry — anchored to 2010 since `currentEndorsements` only gives "2010s"; no heads field exists for him, correctly left out of scope
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8788-8795 (this run, 8 fresh)
+- Bank at run end: 20 open `seo-proposal`.
+
+### Next run
+1. Watch #8788-8795 through CEO triage; flag #8789 (Travis Orbin, scoped hardware to avoid ELECTRONICS dupe), #8793 (Jimmy DeGrasso, no hardware field, don't add one), #8795 (John Longstreth, no heads field, don't add one; hardware year is an anchor choice not a sourced fact).
+2. 4 already-verified, ready-to-file single-category (heads-only) candidates queued: Hannes Grossmann, Matt Garstka, Nick Menza, Adrian Erlandsson — no re-verification needed, just file next bank-topping-up run.
+3. The `endorsementNews.js` missing-timeline-entry sweep has now covered ~50 of ~71 drummers across 11 batches (#8702-8795). Remaining unswept roster not yet checked: whoever's left outside the ~50 covered/confirmed-clean names logged across the 10-07 through 10-09 run notes — next run should re-derive the remaining-candidates list via a fresh subagent pass rather than assuming exhaustion.
+4. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

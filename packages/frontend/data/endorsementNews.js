@@ -3147,6 +3147,22 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Built his cymbal setup around Sabian AAX and HHX pieces (14" AAX Hi-Hats, 16" AAX Crash, 18" HHX Crash, 20" HHX Ride, 18" AAX China) starting with "Physicist" (2000), unchanged through "Deconstruction" (2011) and "Empath" (2019)',
       },
       {
+        year: 2000,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: null,
+        to: 'Vic Firth',
+        notes: 'Played Vic Firth American Classic 5B sticks starting with Devin Townsend\'s "Physicist" (2000), carried across the Devin Townsend Project catalogue',
+      },
+      {
+        year: 2000,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans / Remo',
+        notes: 'Set up Evans EMAD/EC2 and Remo Powerstroke 3 heads starting with "Physicist" (2000), unchanged through the Devin Townsend Project catalogue',
+      },
+      {
         year: 2011,
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.HARDWARE,

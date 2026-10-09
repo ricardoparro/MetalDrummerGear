@@ -33,6 +33,8 @@ Martin Axenrot endorses DW for hardware / pedals. This partnership began in 2006
 - **2006** (Drums): Signed with DW — Joined Opeth mid-tour on the Ghost Reveries cycle in 2006, playing a custom hand-made DW kit with maple/gum shells — the same setup he described in a 2016 MusicRadar interview around the Sorceress cycle
 - **2006** (Cymbals): Signed with Sabian — SABIAN artist endorsing HHX / AAX Series cymbals since joining Opeth in 2006, per SABIAN's own artist page
 - **2006** (Hardware / Pedals): Signed with DW — DW hardware paired with his custom DW kit since joining Opeth in 2006
+- **2006** (Drumsticks): Signed with Pro-Mark — Pro-Mark endorsee since joining Opeth in 2006
+- **2006** (Drumheads): Signed with Evans — Evans drumhead endorsee since joining Opeth in 2006
 
 ## FAQ
 
@@ -55,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Martin Axenr
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

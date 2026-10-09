@@ -32,6 +32,8 @@ Ryan Van Poederooyen endorses Pearl for hardware / pedals. They play the Pearl D
 
 - **2000** (Drums): Signed with Pearl — Anchored Devin Townsend's "Physicist" (2000) — his recording debut with Townsend — on a Pearl Reference Series maple/mahogany hybrid kit with dual 22" x 18" kicks, a setup he has kept across the entire Devin Townsend Project catalogue
 - **2000** (Cymbals): Signed with Sabian — Built his cymbal setup around Sabian AAX and HHX pieces (14" AAX Hi-Hats, 16" AAX Crash, 18" HHX Crash, 20" HHX Ride, 18" AAX China) starting with "Physicist" (2000), unchanged through "Deconstruction" (2011) and "Empath" (2019)
+- **2000** (Drumsticks): Signed with Vic Firth — Played Vic Firth American Classic 5B sticks starting with Devin Townsend's "Physicist" (2000), carried across the Devin Townsend Project catalogue
+- **2000** (Drumheads): Signed with Evans / Remo — Set up Evans EMAD/EC2 and Remo Powerstroke 3 heads starting with "Physicist" (2000), unchanged through the Devin Townsend Project catalogue
 - **2011** (Hardware / Pedals): Renewed Pearl deal — Carried the Pearl Demon Drive double bass pedal across "Deconstruction" and "Ghost" (both 2011), released the same day and recorded on the same physical kit
 
 ## FAQ
@@ -55,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Ryan Van Poe
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -4018,6 +4018,22 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Used DW 9000 or Tama Iron Cobra double bass pedals to execute Slayer\'s sustained double-kick passages after learning the band\'s full live set on short notice in 1996',
       },
       {
+        year: 1996,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: null,
+        to: 'Promark / Vater',
+        notes: 'Played Promark / Vater 5B sticks through his 1996–1997 Slayer touring stint',
+      },
+      {
+        year: 1996,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: 'Ran Remo heads — Powerstroke 3 on the kick, Emperor Coated on toms, Coated Ambassador on snare — through his 1996–1997 Slayer touring stint',
+      },
+      {
         year: 1997,
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,

@@ -33,6 +33,8 @@ Jon Dette endorses DW / Tama for hardware / pedals. They play the DW / Tama 9000
 - **1996** (Drums): Signed with Ludwig Classic Maple — Brought a Ludwig Classic Maple kit — six-ply maple shells, double 22" bass drums — to his 1996–1997 Slayer touring stint filling in for Paul Bostaph, a distinct gear choice from Dave Lombardo's Tama and Bostaph's DW setups
 - **1996** (Cymbals): Signed with Sabian AAX / Zildjian A or K Series — Ran a Sabian AAX / Zildjian A or K Series setup (14" hi-hats, 16"/18" crashes, 20" ride, 18" China) for the fast, projecting cymbal work Slayer's 180–220 BPM catalogue demands
 - **1996** (Hardware / Pedals): Signed with DW 9000 / Tama Iron Cobra Double Pedal — Used DW 9000 or Tama Iron Cobra double bass pedals to execute Slayer's sustained double-kick passages after learning the band's full live set on short notice in 1996
+- **1996** (Drumsticks): Signed with Promark / Vater — Played Promark / Vater 5B sticks through his 1996–1997 Slayer touring stint
+- **1996** (Drumheads): Signed with Remo — Ran Remo heads — Powerstroke 3 on the kick, Emperor Coated on toms, Coated Ambassador on snare — through his 1996–1997 Slayer touring stint
 - **1997** (Drums): Renewed Ludwig deal — Carried the same Ludwig Classic Maple setup into his first stint with Testament (1997–1999), recording "The Gathering" (1999) alongside guitarist Alex Skolnick's progressive arrangements
 
 ## FAQ
@@ -56,4 +58,4 @@ A: See the Endorsement History section above for a full timeline of Jon Dette's 
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

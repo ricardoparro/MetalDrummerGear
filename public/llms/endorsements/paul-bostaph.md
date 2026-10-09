@@ -34,6 +34,10 @@ Paul Bostaph endorses Pearl for hardware / pedals. They play the Pearl Eliminato
 - **1998** (Drums): Switched from Tama to DW — Moved to a DW Collector's Series Maple kit and Zildjian A Custom cymbals for "Diabolus in Musica"
 - **2001** (Drums): Switched from DW to Tama — Returned to Tama with a Starclassic Maple kit and Paiste 2002 cymbals for "God Hates Us All"
 - **2015** (Drums): Switched from Tama to Pearl — Producer Terry Date moved him to a Pearl Masters Maple Complete kit and Sabian AAX cymbals for "Repentless"
+- **2015** (Cymbals): Switched from null to Sabian — Sabian AAX Series cymbals, adopted alongside the move to Pearl Masters Maple Complete for "Repentless"
+- **2015** (Drumsticks): Switched from null to Vater — Vater Power 5B sticks, adopted alongside the 2015 Pearl/Sabian setup
+- **2015** (Drumheads): Switched from null to Remo — Remo Emperor/Ambassador heads, adopted alongside the 2015 Pearl/Sabian setup
+- **2015** (Hardware / Pedals): Switched from null to Pearl — Pearl Eliminator Double Pedal, adopted alongside the move to Pearl Masters Maple Complete for "Repentless"
 
 ## FAQ
 
@@ -56,4 +60,4 @@ A: See the Endorsement History section above for a full timeline of Paul Bostaph
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

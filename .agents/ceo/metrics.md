@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-09 18:14 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-09 19:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,40 +8,40 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 410 |
-| Sessions | 466 |
-| Page views | 606 |
-| Engagement rate | 45.28% |
-| Avg session (s) | 83 |
+| Active users | 416 |
+| Sessions | 472 |
+| Page views | 613 |
+| Engagement rate | 44.70% |
+| Avg session (s) | 82 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 17 | 16 |
+| / | 18 | 17 |
+| /drummers/mike-portnoy/evolution | 18 | 7 |
 | /drummer/joey-jordison | 17 | 12 |
-| /drummers/mike-portnoy/evolution | 17 | 6 |
 | /articles/whats-in-lars-ulrichs-kit | 14 | 14 |
 | /drummer/mario-duplantier | 14 | 10 |
 | /drummers | 13 | 5 |
+| /drummer/flo-mounier | 10 | 3 |
 | /drummer/bill-ward | 9 | 6 |
-| /drummer/flo-mounier | 9 | 2 |
+| /drummer/john-otto | 9 | 8 |
 | /articles/slipknot-self-titled-drum-setup | 8 | 7 |
-| /drummer/john-otto | 8 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 321 | 269 |
-| Direct | 100 | 98 |
-| Unassigned | 75 | 67 |
-| Cross-network | 31 | 31 |
+| Organic Search | 322 | 270 |
+| Direct | 102 | 100 |
+| Unassigned | 79 | 71 |
+| Cross-network | 35 | 35 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 159 | 141 |
 | China | 47 | 47 |
-| United Kingdom | 28 | 22 |
+| United Kingdom | 29 | 23 |
 | Singapore | 19 | 19 |
 | Germany | 16 | 12 |
 | Canada | 14 | 12 |

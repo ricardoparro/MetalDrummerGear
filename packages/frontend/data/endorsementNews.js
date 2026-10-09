@@ -2193,6 +2193,22 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Settled on Vic Firth American Classic 5B sticks for the balance of accent power and ghost-note control his linear patterns require',
       },
       {
+        year: 2010,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Moved to Evans EMAD / G2 Coated heads for the attack and durability his double-bass-heavy Periphery parts demand',
+      },
+      {
+        year: 2010,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'DW',
+        notes: 'Adopted a DW 9000 Series double pedal for the speed and feel his linear double-bass patterns require',
+      },
+      {
         year: 2011,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.ELECTRONICS,

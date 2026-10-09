@@ -31,6 +31,10 @@ Charlie Benante endorses Tama for hardware / pedals. They play the Tama Speed Co
 ## Endorsement History
 
 - **1985** (Drums): Signed with Tama — Pioneer of thrash drumming, early Tama endorser
+- **1985** (Cymbals): Signed with Paiste — Paiste endorsement only documented to the "1980s"; anchored here to his 1985 Tama signing as the earliest verifiable point in that decade
+- **1993** (Drumsticks): Signed with Vic Firth — Vic Firth endorsement only documented to the "1990s"; anchored here to mid-decade as the best available estimate pending an exact date
+- **2003** (Drumheads): Signed with Evans — Evans endorsement only documented to the "2000s"; anchored here to mid-decade as the best available estimate pending an exact date
+- **2013** (Hardware / Pedals): Signed with Tama — Tama Speed Cobra hardware only documented to the "2010s"; anchored here to mid-decade as the best available estimate pending an exact date
 - **2022** (Drums): Renewed Tama deal — Continued with Tama for Pantera reunion tours
 
 ## FAQ
@@ -54,4 +58,4 @@ A: See the Endorsement History section above for a full timeline of Charlie Bena
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

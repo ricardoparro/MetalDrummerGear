@@ -1354,6 +1354,22 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'ddrum',
         notes: 'Switched to a ddrum Dominion Series shell pack and DW 9000 Series Double Pedal for "Firepower," carrying through 2024\'s "Invincible Shield"',
       },
+      {
+        year: 1990,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: 'Remo heads, established alongside his 1990 Tama Artstar II debut on "Painkiller"',
+      },
+      {
+        year: 2018,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'DW',
+        notes: 'DW 9000 Series Double Pedal, adopted alongside the ddrum Dominion Series kit switch for "Firepower"',
+      },
     ],
   },
   'nicko-mcbrain': {

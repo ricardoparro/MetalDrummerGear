@@ -36,6 +36,8 @@ Paul Mazurkiewicz endorses Pearl for hardware / pedals. They play the Pearl Elim
 
 - **1990** (Drums): Signed with Pearl — Played a pre-endorsement Pearl Export-range kit on Cannibal Corpse's debut "Eaten Back to Life" (1990), recorded at Morrisound with producer Scott Burns
 - **1990** (Cymbals): Signed with Meinl — Moved on from the budget Paiste/Zildjian cymbals used on "Eaten Back to Life" as the Meinl endorsement developed through the early Morrisound era
+- **1990** (Drumheads): Signed with Remo — Exact signing date unconfirmed; anchored to the 1990 Pearl kit deal era, when Remo Powerstroke 3 / Emperor Coated heads became his standard batter/resonant choice
+- **1990** (Hardware / Pedals): Signed with Pearl — Exact signing date unconfirmed; anchored to the 1990 Pearl kit deal era, when the Pearl Eliminator Double Bass Pedal became his standard hardware
 - **1996** (Drums): Switched from Pearl Export to Pearl Reference — Solidified the Pearl Reference maple/African mahogany hybrid shell pack as his primary kit, paired with a Pearl Free-Floating steel snare
 - **2000** (Drumsticks): Signature product: Vic Firth Paul Mazurkiewicz Signature — Developed a Vic Firth signature stick spec — heavier overall weight and a durable wood tip built for the power demands of 180-250 BPM blast beats
 
@@ -60,4 +62,4 @@ A: See the Endorsement History section above for a full timeline of Paul Mazurki
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

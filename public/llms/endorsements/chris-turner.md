@@ -34,6 +34,8 @@ Chris Turner endorses Tama for hardware / pedals. They play the Tama Speed Cobra
 - **2013** (Cymbals): Signed with Meinl — Recorded the Lost What Remains EP on an early Meinl Byzance setup paired with an initial Tama Speed Cobra pedal
 - **2017** (Drums): Switched from Tama Starclassic (developing configuration) to Tama Starclassic Maple/Birch — Locked in the full touring Starclassic Maple/Birch kit and Tama S.L.P. G-Maple snare for Hikari, the album that made his playthrough videos go viral
 - **2017** (Drumsticks): Signed with Vic Firth — Settled on Vic Firth American Classic 5A sticks for the ghost-note-to-rimshot dynamic range Hikari required
+- **2017** (Drumheads): Signed with Evans — Moved to Evans EMAD / G2 Coated / EQ3 heads alongside the locked-in Starclassic Maple/Birch kit for Hikari
+- **2017** (Hardware / Pedals): Signed with Tama — Locked in the Tama Speed Cobra 910 Double Pedal as part of the full touring hardware setup for Hikari
 - **2022** (Drums): Renewed Tama deal — Carried the same Starclassic Maple/Birch, Byzance Extra Dry, and Speed Cobra 910 setup into Disparity (2022)
 
 ## FAQ
@@ -57,4 +59,4 @@ A: See the Endorsement History section above for a full timeline of Chris Turner
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

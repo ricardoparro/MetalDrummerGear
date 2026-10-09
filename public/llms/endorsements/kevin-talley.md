@@ -31,6 +31,10 @@ Kevin Talley endorses Pearl for hardware / pedals. They play the Pearl Eliminato
 ## Endorsement History
 
 - **2000** (Drums): Signed with Pearl — Played a Pearl Masters kit (maple/mahogany hybrid, double 22"x18" bass drums) on Dying Fetus's "Destroy the Opposition" (2000), widely cited as his most influential recorded performance
+- **2000** (Cymbals): Signed with Sabian — Paired the Pearl kit with Sabian AAX Series cymbals, adopted alongside the Pearl deal on Dying Fetus's "Destroy the Opposition" (2000)
+- **2000** (Drumsticks): Signed with Vic Firth — Vic Firth American Classic 5B sticks, adopted alongside the Pearl and Sabian deals on Dying Fetus's "Destroy the Opposition" (2000)
+- **2000** (Drumheads): Signed with Remo — Remo Powerstroke 3 / Emperor Coated heads, adopted alongside the Pearl and Sabian deals on Dying Fetus's "Destroy the Opposition" (2000)
+- **2000** (Hardware / Pedals): Signed with Pearl — Pearl Eliminator Double Pedal, adopted alongside the Pearl and Sabian deals on Dying Fetus's "Destroy the Opposition" (2000)
 - **2007** (Drums): Renewed Pearl deal — Documented in his "full touring configuration" (Pearl Masters Custom/Reference, 14"x6.5" steel snare) on Dying Fetus's "War of Attrition" (2007), his most technically complete recorded performance
 - **2015** (Drums): Renewed Pearl deal — Carried the same Pearl Reference Masters setup into Jungle Rot's "Order Shall Prevail" (2015), adapting it to a more groove-oriented death metal context
 
@@ -55,4 +59,4 @@ A: See the Endorsement History section above for a full timeline of Kevin Talley
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1075,7 +1075,7 @@ export const GEAR_PRICE_HISTORY = {
     priceEvolution: [
       { year: 1998, price: 2315, label: 'Original Purchase', event: 'Chaosphere recording' },
       { year: 2002, price: 2500, label: 'Nothing era', event: 'Meshuggah releases Nothing' },
-      { year: 2008, price: 3200, label: 'ÖBZen era', event: 'Haake signs with Sonor SQ2, upgrades to Sabian HHX/AAX cymbals' },
+      { year: 2008, price: 3200, label: 'ÖBZen era', event: 'Continues on Sonor SQ2 (signed 2005), Sabian HHX/AAX cymbals in rotation' },
       { year: 2012, price: 3800, label: 'Koloss era', event: 'Meshuggah reaches global audiences' },
       { year: 2016, price: 4200, label: 'The Violent Sleep of Reason', event: 'Full-album live performances' },
       { year: 2022, price: 5100, label: 'Immutable', event: 'Career peak commercial success' },

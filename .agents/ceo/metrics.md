@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-10 08:21 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-10 12:16 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 395 |
-| Sessions | 448 |
-| Page views | 579 |
-| Engagement rate | 46.21% |
-| Avg session (s) | 77 |
+| Active users | 405 |
+| Sessions | 458 |
+| Page views | 598 |
+| Engagement rate | 53.71% |
+| Avg session (s) | 76 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -20,33 +20,33 @@
 | /drummer/mario-duplantier | 16 | 12 |
 | /drummers/mike-portnoy/evolution | 16 | 6 |
 | / | 15 | 14 |
-| /drummer/joey-jordison | 13 | 8 |
+| /drummer/joey-jordison | 14 | 8 |
 | /articles/whats-in-lars-ulrichs-kit | 11 | 11 |
 | /drummer/bill-ward | 10 | 7 |
-| /drummers | 9 | 4 |
+| /drummers | 10 | 5 |
 | /articles/black-sabbath-drum-setup | 8 | 8 |
 | /articles/slipknot-self-titled-drum-setup | 7 | 6 |
-| /drummer/flo-mounier | 7 | 4 |
+| /drummer/eloy-casagrande | 7 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 313 | 265 |
-| Direct | 106 | 104 |
-| Unassigned | 67 | 64 |
-| Cross-network | 17 | 17 |
+| Organic Search | 336 | 287 |
+| Direct | 113 | 111 |
+| Unassigned | 19 | 19 |
+| Cross-network | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 153 | 134 |
 | China | 41 | 41 |
+| Singapore | 28 | 28 |
 | United Kingdom | 27 | 22 |
-| Singapore | 25 | 25 |
-| Canada | 14 | 12 |
-| Germany | 14 | 11 |
+| Germany | 16 | 13 |
+| Canada | 15 | 13 |
 | Australia | 13 | 12 |
-| France | 12 | 11 |
+| France | 13 | 12 |
 | Indonesia | 11 | 10 |
 | Brazil | 9 | 9 |
 

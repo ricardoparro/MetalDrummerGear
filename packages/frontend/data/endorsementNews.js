@@ -3708,6 +3708,14 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'Tama Speed Cobra 910 Double Pedal',
         notes: 'Moved his double bass pedal to a Tama Speed Cobra 910 alongside the September 2021 DW drum kit switch',
       },
+      {
+        year: 2012,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: 'Signed with Remo drumheads (Ambassador Coated) around the same time he joined Animals as Leaders in 2012',
+      },
     ],
   },
   'sean-reinert': {

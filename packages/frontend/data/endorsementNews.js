@@ -3817,6 +3817,14 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Ran a Zildjian A / A Custom setup (14" New Beat hi-hats, 16"/18" crashes, 20" ride, 18" China Boy High) on "Rust in Peace" (1990) — the bright, cutting tone that became a signature of the album\'s thrash attack',
       },
       {
+        year: 1990,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Remo',
+        notes: 'Ran Remo Ambassador Coated heads from his "Rust in Peace" (1990) debut onward, a durable workhorse choice that stayed consistent through his nine-year Megadeth run',
+      },
+      {
         year: 1992,
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.CYMBALS,

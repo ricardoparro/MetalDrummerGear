@@ -36,6 +36,7 @@ Nick Menza endorses Tama for hardware / pedals. They play the Tama Iron Cobra Do
 
 - **1990** (Drums): Signed with Tama — Debuted on Megadeth's "Rust in Peace" (1990) with a Tama Artstar II kit in Midnight Blue finish — birch shells chosen for the focused attack needed to cut through Dave Mustaine and Marty Friedman's dense guitar arrangements
 - **1990** (Cymbals): Signed with Zildjian — Ran a Zildjian A / A Custom setup (14" New Beat hi-hats, 16"/18" crashes, 20" ride, 18" China Boy High) on "Rust in Peace" (1990) — the bright, cutting tone that became a signature of the album's thrash attack
+- **1990** (Drumheads): Signed with Remo — Ran Remo Ambassador Coated heads from his "Rust in Peace" (1990) debut onward, a durable workhorse choice that stayed consistent through his nine-year Megadeth run
 - **1992** (Cymbals): Switched from Zildjian A / A Custom to Paiste 2002 / Signature — Switched to Paiste 2002 and Signature cymbals for "Countdown to Extinction" (1992), matching the album's more melodic, arena-rock-oriented production without losing thrash-level cut
 - **1992** (Drums): Switched from Tama to Pearl Masters — Upgraded to Pearl Masters for "Countdown to Extinction" (1992), seeking a more resonant, powerful sound than the Rust in Peace-era Tama kit
 - **1994** (Drums): Switched from Pearl Masters to Pearl Masterworks — Moved to Pearl Masterworks for "Youthanasia" (1994), the most premium kit of his career
@@ -65,4 +66,4 @@ A: See the Endorsement History section above for a full timeline of Nick Menza's
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-10 · Source: [MetalForge.io](https://metalforge.io)*

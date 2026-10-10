@@ -20516,7 +20516,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2009–2016',
         startYear: 2009,
         endYear: 2016,
-        description: 'Wallgren (born April 1, 1986, in Karlstad, Sweden) began his drumming career in the Swedish underground metal scene in the 2000s before joining Viking/folk metal band Valkyria in 2009. He spent seven years developing the powerful, groove-oriented style that would later suit Amon Amarth\'s anthemic Viking metal, during a period for which no single fixed drum, cymbal, or stick endorsement is publicly documented.',
+        description: 'Wallgren (born April 1, 1986, in Karlstad, Sweden) began his drumming career in the Swedish underground metal scene in the 2000s, playing with Rage and Evergrey in the European power/prog metal scene, where he signed with Zildjian and Pearl hardware in 2005, before joining Viking/folk metal band Valkyria in 2009. He spent seven years developing the powerful, groove-oriented style that would later suit Amon Amarth\'s anthemic Viking metal, during a period for which no single fixed drum, snare, or stick endorsement is publicly documented.',
         albums: [],
         tours: ['Valkyria regional Swedish shows (2009–2016)'],
         image: null,
@@ -20535,16 +20535,16 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Varied by gig',
-            details: 'No fixed brand documented',
-            notes: 'Cymbal setup varied across Valkyria\'s regional Swedish dates.',
-            change: null,
+            item: 'Zildjian A Custom & K Custom Series',
+            details: 'Signed with Zildjian in 2005 during his Rage and Evergrey years',
+            notes: 'Carried his Zildjian A Custom & K Custom cymbals through the Valkyria years, ahead of renewing the relationship on joining Amon Amarth.',
+            change: CHANGE_TYPES.NEW,
           },
           hardware: {
-            item: 'Standard touring double pedal',
-            details: 'No fixed brand documented',
-            notes: 'No fixed hardware brand documented for this period.',
-            change: null,
+            item: 'Pearl double bass pedal',
+            details: 'Signed with Pearl in 2005 during his Rage and Evergrey years, ahead of the Demon Drive model becoming his standard',
+            notes: 'Carried his Pearl double pedal configuration through the Valkyria years, ahead of renewing the relationship on joining Amon Amarth.',
+            change: CHANGE_TYPES.NEW,
           },
           sticks: {
             item: 'Standard hickory sticks (varied by gig)',
@@ -20568,9 +20568,10 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Began drumming in the Swedish underground metal scene in the 2000s',
+          'Signed with Zildjian cymbals and Pearl hardware in 2005 during his Rage and Evergrey years',
           'Joined Viking/folk metal band Valkyria in 2009',
           'Developed the powerful, groove-oriented style later heard in Amon Amarth',
-          'No fixed gear endorsement documented for the Valkyria years',
+          'No fixed drum, snare, or stick endorsement documented for the Valkyria years',
         ],
 
         videos: [],

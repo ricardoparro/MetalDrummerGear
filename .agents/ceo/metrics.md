@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-10 00:33 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-10 01:25 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 380 |
-| Sessions | 431 |
-| Page views | 549 |
-| Engagement rate | 48.03% |
+| Active users | 383 |
+| Sessions | 435 |
+| Page views | 552 |
+| Engagement rate | 47.59% |
 | Avg session (s) | 74 |
 
 ### Top pages (by page views, last 7d)
@@ -26,26 +26,26 @@
 | /drummers | 9 | 4 |
 | /articles/black-sabbath-drum-setup | 8 | 8 |
 | /articles/slipknot-self-titled-drum-setup | 7 | 6 |
-| /drummer/eloy-casagrande | 6 | 4 |
+| /studies/metal-tempo-by-subgenre | 7 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 298 | 252 |
+| Organic Search | 301 | 254 |
 | Direct | 101 | 99 |
-| Unassigned | 56 | 53 |
+| Unassigned | 59 | 56 |
 | Cross-network | 17 | 17 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 145 | 126 |
-| China | 40 | 40 |
+| China | 41 | 41 |
 | United Kingdom | 26 | 21 |
 | Singapore | 23 | 23 |
 | Germany | 14 | 11 |
+| Australia | 13 | 12 |
 | Canada | 13 | 11 |
-| Australia | 12 | 11 |
 | France | 12 | 11 |
 | Indonesia | 11 | 10 |
 | Brazil | 9 | 9 |

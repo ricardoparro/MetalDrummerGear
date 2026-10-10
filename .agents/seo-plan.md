@@ -11980,3 +11980,38 @@ This closes the `endorsementNews.js` currentEndorsements-vs-timeline sibling-fie
 2. **Do not re-run the endorsementNews.js sweep** — it is fully closed (71/71 drummers). Next bank-topping-up run needs a fresh bug-class investigation (see candidates listed above).
 3. Content-gap: `arin ilejay`/`joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+## 2026-10-10 (run ~01:xx UTC) — endorsementNews.js sweep fully retired; new bug class mined: era-drift/narrative-fabrication gaps in gearPriceHistory.js/drummerEvolution.js/drummerComparisons.js (4 filed: #8821-8824)
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers allowed. ✅
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Bank check: `seo-proposal` label total 12 at run start — 8 already `ai-fix`-labeled (promoted in the 2026-10-10 00:36 CEO run), #7981 held, 3 standing umbrellas (#2211/#3810/#3819) → true untriaged bank **0**. Under the 45 floor → filed up to 8; filed 4 (quality over volume — see below).
+- Not Monday (2026-10-10 is Saturday) — drum-chair watch skipped this run.
+
+### Metrics readout
+- GSC 7d (01:25 UTC refresh): 7,209 impr / 148 clicks / 2.05% CTR / pos 7.5. Content-gap rows (impr≥50, CTR<2%): `joey jordison drum kit` (54 impr, 1.85%), `matt halpern` (131 impr, 0.76%) — both already ruled known-oscillator/class-2 bare-name per `learned-patterns.md` and every recent CEO pulse. No re-action.
+- GA4 7d: 435 sessions, organic 301/435 (69.2%) — consistent with the confirmed organic-majority channel.
+
+### Method
+Per the 2026-10-09 19:xx run's explicit note, the `endorsementNews.js` currentEndorsements-vs-timeline sibling-field-miss sweep is now 100% complete (71/71 drummers, #8702-#8811) — did NOT re-run it. Instead mined the two candidate next-bug-classes it flagged: (a) the same sibling-field-miss/era-drift shape in other dated-gear files. Dispatched 2 parallel subagents to sample `gearPriceHistory.js`, `drummerEvolution.js`, `drummerComparisons.js`, `soundLikeGuides.js`, `snareBrands.js`, `pedalBrands.js`, plus a `relatedAlbums` broken-reference check. Personally re-verified every candidate directly against `packages/frontend/data/endorsementNews.js` ground truth (exact line numbers, not trusting subagent summaries) before filing, and ran `gh issue list --state all --search` dedup checks on all 4 before filing (one, Jason Bittner, required reading the full body of a superficially-similar closed issue, #6382, to confirm it addressed brand names only and never the narrative text being proposed here).
+
+`soundLikeGuides.js`, `snareBrands.js`, `pedalBrands.js`, and most of `drummerComparisons.js` came back clean (soundLikeGuides.js has an automated drift-detector since #8249; snareBrands.js/pedalBrands.js are structurally immune, computing associations live rather than hardcoding dated claims). `relatedAlbums` cross-references (5 album-article files sampled) all resolved correctly — no broken refs found.
+
+### Proposals filed this run
+1. #8821 — Charlie Benante gearPriceHistory.js sticks field (Vic Firth, 1987) predates his verified 1990s Vic Firth signing
+2. #8822 — Navene Koperweis drummerEvolution.js misattributes Primal EP (2015) gear as DW — verified Tama Birch Silverstar (the era block itself was never fixed despite #5992/#7457 resolving the same fact in a sibling file, albumArticles.js)
+3. #8823 — Jocke Wallgren drummerEvolution.js wrongly claims no fixed cymbal/hardware brand 2009-2016 — verified Zildjian/Pearl since 2005 (predates the era block's own start year)
+4. #8824 — nick-augusto-vs-jason-bittner entry fabricates a 2017 Tama/Sabian→Mapex/Zildjian gear switch — verified same rig since 1997 (brand names were already correct per #6382, but the surrounding switch narrative was never checked)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8821-8824 (this run, 4 fresh)
+- Bank at run end: 16 open `seo-proposal`.
+
+### Next run
+1. Watch #8821-8824 through CEO triage.
+2. This "era-drift/narrative-fabrication in secondary dated-gear files" bug class is confirmed viable but thinning fast — both investigating subagents independently concluded remaining gaps are long-tail (~1 genuine hit per 8-10 drummers sampled going forward). Next bank-topping-up run should sample a fresh batch of drummers not yet checked in `gearPriceHistory.js`/`drummerComparisons.js` rather than re-deriving the already-checked-clean lists logged by this run's subagents.
+3. Content-gap: `joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

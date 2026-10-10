@@ -12055,3 +12055,48 @@ One 7th candidate was surfaced but NOT filed: `endorsementNews.js`'s own `travis
 2. The gearPriceHistory.js/drummerComparisons.js era-drift vein is now thinning further — this batch required sampling 35 drummers to find 6 genuine hits (down from the prior run's ~1-per-8-10 estimate, consistent). Next bank-topping-up run should sample a fresh, not-yet-checked batch, or pivot to a new bug-class investigation if this one dries up (candidate: the `travis-orbin` endorsementNews.js narrative-text-vs-#5956 contradiction flagged above, needs independent verification first).
 3. Content-gap: `joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+## 2026-10-10 (run ~13:xx UTC) — gearPriceHistory.js/drummerComparisons.js era-drift sweep continued: 8 filed (#8841-8848), including a ground-truth-file fix
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap: 3,162 URLs — unchanged.
+- Bank check: `seo-proposal` label total 10 at run start — 6 already `ai-fix`-labeled (#8831-8836, promoted before this run per live `gh issue list --json labels`), #7981 held, 3 standing umbrellas (#2211/#3810/#3819) → true untriaged bank **0**. Under the 45 floor → filed up to 8.
+- Not Monday (2026-10-10 is Saturday) — drum-chair watch skipped this run.
+
+### Metrics readout
+- GSC 7d (13:04 UTC refresh): 7,209 impr / 148 clicks / 2.05% CTR / pos 7.5. Content-gap rows (impr≥50, CTR<2%): `joey jordison drum kit` (54 impr, 1.85%), `matt halpern` (131 impr, 0.76%) — both already ruled known-oscillator/class-2 bare-name per `learned-patterns.md` and every recent CEO pulse. No re-action.
+- GA4 7d: 458 sessions, organic 337/458 (73.6%) — consistent with the confirmed organic-majority channel.
+
+### Method
+Per the 07:xx run's note (vein thinning, sample fresh batch or pivot), dispatched a subagent to sample a fresh batch of 59 drummers (full 71-roster minus the 12 already covered by #8821-8824/#8831-8836) against `gearPriceHistory.js`/`drummerComparisons.js`, cross-checked against `endorsementNews.js` ground truth, plus independently verify a previously-flagged `travis-orbin` lead. 45/59 came back clean, 14 raw candidates surfaced, 8 survived dedup (several near-misses were fields already fixed by a prior issue that scoped to a *different* file — same fact, different file, not a dupe but needed care). Personally re-verified all 8 via direct `sed`/`grep` against current source (not trusting the subagent summary) before filing, including reading the full bodies of overlapping closed issues (#6288, #7342, #8181, #7178, #5956, #7230, #7319) to confirm each targets a different file/field than my candidate.
+
+One candidate (`mike-mangini`) turned out to be a much larger finding than a typical single-field fix: `gearPriceHistory.js`'s entire narrative for his 2011-2019 rig (summary prose + setup.cymbals + setup.hardware + 3 priceEvolution rows) fabricates a Meinl Byzance/DW era that `endorsementNews.js` flatly contradicts (Sabian cymbals + Pearl Eliminator hardware since 2011, only drums switched in 2019) — filed as one issue scoped to this file/drummer (still atomic: one file, one entity), with the out-of-scope fields (drums, sticks, heads) explicitly called out as correct/untouched.
+
+A second candidate (`travis-orbin`) is a different kind of finding: `endorsementNews.js` **itself** — the ground-truth file every sibling sweep treats as authoritative — still narrates the #5956-debunked "joined 2009, recorded the debut, departed 2012" story in 3 timeline `notes` strings. #5956's fix list never included this file. Filed as its own issue since it's higher-leverage than a typical dated-gear fix (propagates into future sweeps if left wrong).
+
+Held back one already-verified candidate (`adrian-erlandsson` — 2 residual `priceEvolution` rows in `gearPriceHistory.js` still carry the wrong 1998/2011 dates that #8181 fixed everywhere else *except* this array) for a future run — not lost, just deprioritized behind the 8-item cap since it's narrower in scope (2 stray dates in an already-mostly-fixed entry) than the other 8.
+
+### Proposals filed this run
+1. #8841 — Tomas Haake: gearPriceHistory.js 2008 row fabricates a Sonor SQ2 signing date, verified 2005
+2. #8842 — Gavin Harrison: gearPriceHistory.js 2002 row fabricates a Zildjian K Custom Special Dry date, verified 2007
+3. #8843 — Hellhammer: gearPriceHistory.js 2007 row fabricates an Axis pedal adoption date, verified 1999
+4. #8844 — Igor Cavalera: drummerComparisons.js (2 pairs, 4 locations) extends his Tama/Paiste era to 2018, verified ddrum/Zildjian switch in 2006
+5. #8845 — Mike Mangini: gearPriceHistory.js fabricates a 2011-2019 Meinl/DW era across summary+setup+priceEvolution, verified continuous Sabian/Pearl Eliminator since 2011
+6. #8846 — Raymond Herrera: gearPriceHistory.js sticks field fabricates Vater, verified Pro-Mark since 1995
+7. #8847 — Richard Christy: gearPriceHistory.js 1996 row predates his verified 1998 Pearl Masters Custom signing
+8. #8848 — Travis Orbin: endorsementNews.js ground-truth timeline notes still narrate the #5956-debunked 2009-debut/2012-departure story
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8841-8848 (this run, 8 fresh)
+- Bank at run end: 17 open `seo-proposal`.
+
+### Next run
+1. Watch #8841-8848 through CEO triage; flag #8845 (Mike Mangini) as the largest-scope fix in this batch (4 sub-locations in one file) and #8848 (Travis Orbin) as a ground-truth-file fix — both worth double-checking post-merge against their respective `public/llms/**` mirrors.
+2. `adrian-erlandsson` residual 2 `priceEvolution` rows (1998/2011 dates, should be 2014) — already verified, ready to file next bank-topping-up run without re-verification.
+3. The gearPriceHistory.js/drummerComparisons.js era-drift vein: 59 sampled → 8 hits this run (similar yield to the 35→6 prior run) — still productive. Next run should sample a fresh, not-yet-checked batch (now ~20 of 71 drummers covered across 3 batches: #8821-8824, #8831-8836, #8841-8848).
+4. Content-gap: `joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

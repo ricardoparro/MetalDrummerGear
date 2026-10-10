@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-10 01:25 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-10 06:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,44 +8,44 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 383 |
-| Sessions | 435 |
-| Page views | 552 |
-| Engagement rate | 47.59% |
-| Avg session (s) | 74 |
+| Active users | 395 |
+| Sessions | 447 |
+| Page views | 576 |
+| Engagement rate | 46.31% |
+| Avg session (s) | 77 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummer/mario-duplantier | 16 | 12 |
 | /drummers/mike-portnoy/evolution | 16 | 6 |
-| / | 14 | 13 |
+| / | 15 | 14 |
 | /drummer/joey-jordison | 13 | 8 |
-| /articles/whats-in-lars-ulrichs-kit | 10 | 11 |
+| /articles/whats-in-lars-ulrichs-kit | 11 | 11 |
 | /drummer/bill-ward | 10 | 7 |
 | /drummers | 9 | 4 |
 | /articles/black-sabbath-drum-setup | 8 | 8 |
 | /articles/slipknot-self-titled-drum-setup | 7 | 6 |
-| /studies/metal-tempo-by-subgenre | 7 | 5 |
+| /drummer/flo-mounier | 7 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 301 | 254 |
-| Direct | 101 | 99 |
-| Unassigned | 59 | 56 |
+| Organic Search | 312 | 265 |
+| Direct | 105 | 103 |
+| Unassigned | 67 | 64 |
 | Cross-network | 17 | 17 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 145 | 126 |
+| United States | 153 | 134 |
 | China | 41 | 41 |
-| United Kingdom | 26 | 21 |
-| Singapore | 23 | 23 |
+| United Kingdom | 27 | 22 |
+| Singapore | 25 | 25 |
+| Canada | 14 | 12 |
 | Germany | 14 | 11 |
 | Australia | 13 | 12 |
-| Canada | 13 | 11 |
 | France | 12 | 11 |
 | Indonesia | 11 | 10 |
 | Brazil | 9 | 9 |

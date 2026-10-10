@@ -35,6 +35,7 @@ Hannes Grossmann endorses DW for hardware / pedals. They play the DW 9000 Series
 - **2007** (Drumsticks): Signed with Vic Firth — Settled on Vic Firth 5A/5B sticks while co-founding Obscura and recording Cosmogenesis (2009) and Omnivium (2011)
 - **2014** (Drums): Switched from Tama Starclassic Maple to DW Collectors Series — Moved to a DW Collectors Series maple kit while co-founding Alkaloid, seeking the custom bearing-edge precision his compositional prog-death arrangements demanded
 - **2014** (Hardware / Pedals): Switched from Tama Iron Cobra to DW 9000 Series Double Pedal — Upgraded to DW's 9000 Series double pedal alongside the kit switch for the adjustable cam action his two-footed patterns require
+- **2014** (Drumheads): Signed with Evans — Signed with Evans heads alongside the DW kit switch while co-founding Alkaloid
 
 ## FAQ
 
@@ -57,4 +58,4 @@ A: See the Endorsement History section above for a full timeline of Hannes Gross
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-10 · Source: [MetalForge.io](https://metalforge.io)*

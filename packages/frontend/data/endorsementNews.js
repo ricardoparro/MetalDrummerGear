@@ -2707,6 +2707,14 @@ export const ENDORSEMENT_TIMELINE = {
         to: 'DW 9000 Series Double Pedal',
         notes: "Upgraded to DW's 9000 Series double pedal alongside the kit switch for the adjustable cam action his two-footed patterns require",
       },
+      {
+        year: 2014,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Signed with Evans heads alongside the DW kit switch while co-founding Alkaloid',
+      },
     ],
   },
   'jason-bittner': {

@@ -40,6 +40,7 @@ Adrian Erlandsson endorses Monolit for hardware / pedals. They play the Monolit 
 - **2014** (Cymbals): Switched from Zildjian A-Series to Sabian AAX/HHX — Moved to Sabian's professional AAX and HHX lines (15" HHX Xcelerator hi-hats, 20" AAX Iso crash, 19" AAX Paragon China) for "At War with Reality" (2014), a setup carried over from his Paradise Lost years
 - **2014** (Hardware / Pedals): Signed with Monolit Czarcie Kopyto Double Pedal — Adopted the Monolit Czarcie Kopyto — a boutique Polish double pedal prized for fast, direct response — for "At War with Reality" (2014), replacing the standard double bass pedal setups of his 1995 sessions
 - **2014** (Drumsticks): Signature product: Vic Firth Vic Firth Rock Nylon Tip (At the Gates Signature) — His long-running Vic Firth stick relationship was formalized into an official At the Gates-branded signature model, documented alongside the "At War with Reality" (2014) sessions
+- **2014** (Drumheads): Signed with Evans — Adopted Evans EMAD Onyx (kick) and EC Reverse Dot (snare/toms) heads for "At War with Reality" (2014), part of the rig he assembled for the reunion sessions at Studio Fredman
 
 ## FAQ
 
@@ -62,4 +63,4 @@ A: See the Endorsement History section above for a full timeline of Adrian Erlan
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-10 · Source: [MetalForge.io](https://metalforge.io)*

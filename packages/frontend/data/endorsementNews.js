@@ -4075,6 +4075,14 @@ export const ENDORSEMENT_TIMELINE = {
         product: 'Vic Firth Rock Nylon Tip (At the Gates Signature)',
         notes: 'His long-running Vic Firth stick relationship was formalized into an official At the Gates-branded signature model, documented alongside the "At War with Reality" (2014) sessions',
       },
+      {
+        year: 2014,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Adopted Evans EMAD Onyx (kick) and EC Reverse Dot (snare/toms) heads for "At War with Reality" (2014), part of the rig he assembled for the reunion sessions at Studio Fredman',
+      },
     ],
   },
   'jon-dette': {

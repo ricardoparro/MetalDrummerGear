@@ -5,7 +5,7 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummer/jocke-wallgren"
 evolution_url: "https://metalforge.io/drummers/jocke-wallgren/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-07-05"
+last_updated: "2026-10-10"
 ---
 
 # Jocke Wallgren Drum Kit Evolution — Complete Timeline
@@ -20,21 +20,22 @@ See also: [Jocke Wallgren drummer profile](/llms/drummers/jocke-wallgren.md) · 
 
 **Tours:** Valkyria regional Swedish shows (2009–2016)
 
-Wallgren (born April 1, 1986, in Karlstad, Sweden) began his drumming career in the Swedish underground metal scene in the 2000s before joining Viking/folk metal band Valkyria in 2009. He spent seven years developing the powerful, groove-oriented style that would later suit Amon Amarth's anthemic Viking metal, during a period for which no single fixed drum, cymbal, or stick endorsement is publicly documented.
+Wallgren (born April 1, 1986, in Karlstad, Sweden) began his drumming career in the Swedish underground metal scene in the 2000s, playing with Rage and Evergrey in the European power/prog metal scene, where he signed with Zildjian and Pearl hardware in 2005, before joining Viking/folk metal band Valkyria in 2009. He spent seven years developing the powerful, groove-oriented style that would later suit Amon Amarth's anthemic Viking metal, during a period for which no single fixed drum, snare, or stick endorsement is publicly documented.
 
 - **Drums:** Various regional kits — no single fixed brand documented
 - **Snare:** Standard steel snares, varied by gig
-- **Cymbals:** Varied by gig, no fixed brand documented
-- **Hardware:** Standard touring double pedal, no fixed brand documented
+- **Cymbals:** Zildjian A Custom & K Custom Series, signed in 2005 during his Rage and Evergrey years
+- **Hardware:** Pearl double bass pedal, signed in 2005 during his Rage and Evergrey years
 - **Sticks:** Standard hickory sticks, varied by gig (pre-Vic Firth era)
 - **Heads:** Standard regional-scene heads, varied by gig
 - **Estimated kit cost (original):** ~$1,400 (inflation-adjusted to 2026: ~$2,000)
 
 **Key developments:**
 - Began drumming in the Swedish underground metal scene in the 2000s
+- Signed with Zildjian cymbals and Pearl hardware in 2005 during his Rage and Evergrey years
 - Joined Viking/folk metal band Valkyria in 2009
 - Developed the powerful, groove-oriented style later heard in Amon Amarth
-- No fixed gear endorsement documented for the Valkyria years
+- No fixed drum, snare, or stick endorsement documented for the Valkyria years
 
 ---
 

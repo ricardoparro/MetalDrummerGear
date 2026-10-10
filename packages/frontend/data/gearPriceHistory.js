@@ -4784,7 +4784,7 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     priceEvolution: [
-      { year: 2002, price: 9200, label: 'In Absentia era', event: 'Joins Porcupine Tree — establishes Sonor SQ2 and Zildjian K Custom Special Dry endorsement' },
+      { year: 2002, price: 9200, label: 'In Absentia era', event: 'Joins Porcupine Tree — establishes Sonor SQ2 drums endorsement' },
       { year: 2007, price: 11660, label: 'Original Purchase', event: 'Fear of a Blank Planet recorded — signature Sonor 14"x5.25" brass snare and companion 12" Protean snare and K Custom Special Dry collaboration finalized' },
       { year: 2008, price: 13400, label: 'King Crimson era', event: "Joins King Crimson's revolutionary three-drummer lineup; expanded rack tom configuration" },
       { year: 2022, price: 16800, label: 'Porcupine Tree reunion', event: 'Closure/Continuation reunion album — same core rig after 12-year hiatus' },

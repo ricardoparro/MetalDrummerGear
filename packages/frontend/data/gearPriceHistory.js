@@ -1621,32 +1621,17 @@ export const GEAR_PRICE_HISTORY = {
           link: 'vic-firth-american-classic-5b',
         },
       },
-      heads: {
-        item: 'Evans EC2 / EMAD',
-        model: 'EC2 toms, EMAD kick',
-        specs: 'EC2 clear toms, coated snare batter, EMAD2 kick batter',
-        originalPrice: 120,
-        year: 2011,
-        source: 'Evans retail pricing 2011',
-        notes: 'Evans EC2 for controlled, focused tom tone. The EMAD2 kick head provides the defined, punchy low-end thump that distinguishes ABR\'s live bass drum sound — important for maintaining clarity at high stage volumes and in dense arena mixes.',
-        vintageValue2026: null,
-        modernEquivalent: {
-          item: 'Evans EC2S + EMAD2',
-          price: 150,
-          link: 'evans-ec2-emad',
-        },
-      },
     },
 
     totals: {
-      originalTotal: 8632,
+      originalTotal: 8512,
       inflationAdjusted2026: null, // Calculated dynamically
       vintageTotal2026: 9200,
-      modernEquivalentTotal: 9314,
+      modernEquivalentTotal: 9164,
     },
 
     priceEvolution: [
-      { year: 2011, price: 8632, label: 'Original Purchase', event: 'Leveler recording and release' },
+      { year: 2011, price: 8512, label: 'Original Purchase', event: 'Leveler recording and release' },
       { year: 2013, price: 9200, label: 'Back Burner era', event: 'ABR EP; steadily growing fanbase' },
       { year: 2016, price: 9800, label: 'Rescue & Restore era', event: 'ABR headlining major metalcore festivals' },
       { year: 2019, price: 10600, label: 'Messengers anniversary', event: 'Decade-of-Messengers tour drives early ABR interest' },

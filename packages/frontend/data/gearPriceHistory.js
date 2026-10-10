@@ -368,21 +368,6 @@ export const GEAR_PRICE_HISTORY = {
           link: 'ahead-joey-jordison',
         },
       },
-      heads: {
-        item: 'Evans EC2 Clear + EMAD',
-        model: 'EC2 toms, EMAD kick',
-        specs: 'Sound-shaping technology',
-        originalPrice: 120,
-        year: 2001,
-        source: 'Evans retail pricing',
-        notes: 'Evans EC2 for controlled, focused tone.',
-        vintageValue2026: null,
-        modernEquivalent: {
-          item: 'Evans EC2S + EMAD2',
-          price: 150,
-          link: 'evans-ec2-emad',
-        },
-      },
       electronics: {
         item: 'ddrum Acoustic Pro Triggers',
         model: 'Kick and snare triggers',
@@ -401,14 +386,14 @@ export const GEAR_PRICE_HISTORY = {
     },
     
     totals: {
-      originalTotal: 11005,
+      originalTotal: 10885,
       inflationAdjusted2026: null,
       vintageTotal2026: 11600,
-      modernEquivalentTotal: 12070,
+      modernEquivalentTotal: 11922,
     },
-    
+
     priceEvolution: [
-      { year: 2001, price: 11005, label: 'Original Purchase', event: 'Iowa recording' },
+      { year: 2001, price: 10885, label: 'Original Purchase', event: 'Iowa recording' },
       { year: 2004, price: 11500, label: 'Vol. 3 era', event: 'Signature products expand' },
       { year: 2008, price: 12000, label: 'All Hope Is Gone', event: 'Peak Slipknot era' },
       { year: 2013, price: 11000, label: 'Market correction', event: 'Joey leaves Slipknot' },

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-10 18:14 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-10 19:12 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,21 +8,21 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 412 |
-| Sessions | 467 |
-| Page views | 611 |
-| Engagement rate | 52.68% |
+| Active users | 415 |
+| Sessions | 470 |
+| Page views | 615 |
+| Engagement rate | 52.34% |
 | Avg session (s) | 77 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 16 | 15 |
+| / | 17 | 15 |
 | /drummer/mario-duplantier | 16 | 12 |
 | /drummers/mike-portnoy/evolution | 16 | 6 |
 | /drummer/joey-jordison | 14 | 8 |
 | /articles/whats-in-lars-ulrichs-kit | 12 | 12 |
-| /drummers | 11 | 6 |
+| /drummers | 12 | 6 |
 | /drummer/bill-ward | 10 | 7 |
 | /articles/black-sabbath-drum-setup | 8 | 8 |
 | /articles/slipknot-self-titled-drum-setup | 7 | 6 |
@@ -33,15 +33,15 @@
 | --- | --- | --- |
 | Organic Search | 340 | 290 |
 | Direct | 114 | 112 |
-| Unassigned | 27 | 27 |
-| Cross-network | 6 | 6 |
+| Unassigned | 30 | 30 |
+| Cross-network | 7 | 7 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 156 | 136 |
-| China | 42 | 42 |
-| United Kingdom | 29 | 24 |
+| China | 43 | 43 |
+| United Kingdom | 30 | 25 |
 | Singapore | 28 | 28 |
 | Germany | 17 | 14 |
 | Canada | 15 | 13 |

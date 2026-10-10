@@ -4819,7 +4819,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'A Dramatic Turn of Events (2011)',
     profileImage: '/images/drummers/mike-mangini.webp',
 
-    summary: "Mike Mangini's 2011 setup marks one of the most consequential drum-chair transitions in progressive metal. When Mangini won the highly publicized audition to replace founding member Mike Portnoy in 2010, he inherited a fanbase that studies drum performances note-by-note — and he answered with A Dramatic Turn of Events, an album built entirely around his own technical vocabulary rather than an imitation of his predecessor. The rig he brought into the studio centered on a custom Pearl Masterworks kit, Meinl Byzance Traditional cymbals, and DW pedals and hardware — a combination distinct from both Portnoy's prior setup and from the Pearl/Sabian rig Mangini would eventually settle into years later.\n\nThe complete 2011 setup cost approximately $12,356, equivalent to roughly $17,999 in 2026 after CPI adjustment. That price reflects the fully custom nature of the Masterworks shell pack, a full seven-piece Meinl Byzance cymbal spread, and DW's premium 9000-series hardware and 9002 double pedal — a configuration built to handle Dream Theater's demanding odd-meter, high-speed passages without sacrificing the dynamic control Mangini's Berklee-honed technique requires.\n\nWhat makes Mangini's gear history unusually well-documented is how much it changed across a single band's catalog. He briefly swapped in Ludwig Keystone X Maple shells for Dream Theater's 2013 self-titled album before returning to Pearl for The Astonishing (2016) — all while keeping the Meinl/DW hardware combination. Then, starting with Distance Over Time (2019) and continuing through A View from the Top of the World (2021), Mangini made a wholesale switch to Pearl Reference Pure shells, Sabian HHX/AAX cymbals, and Pearl's own Eliminator Redline double pedal, retiring the DW hardware entirely. That two-stage evolution — DW/Meinl through the mid-2010s, then Pearl/Sabian from 2019 onward — makes his rig one of the most instructive case studies in how a signature progressive metal setup evolves under one drummer across more than a decade with the same band.",
+    summary: "Mike Mangini's 2011 setup marks one of the most consequential drum-chair transitions in progressive metal. When Mangini won the highly publicized audition to replace founding member Mike Portnoy in 2010, he inherited a fanbase that studies drum performances note-by-note — and he answered with A Dramatic Turn of Events, an album built entirely around his own technical vocabulary rather than an imitation of his predecessor. The rig he brought into the studio centered on a custom Pearl Masterworks kit, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline hardware — a combination distinct from Portnoy's prior setup.\n\nThe complete 2011 setup cost approximately $12,356, equivalent to roughly $17,999 in 2026 after CPI adjustment. That price reflects the fully custom nature of the Masterworks shell pack, a full seven-piece Sabian HHX/AAX cymbal spread, and Pearl's Eliminator Redline double pedal and hardware — a configuration built to handle Dream Theater's demanding odd-meter, high-speed passages without sacrificing the dynamic control Mangini's Berklee-honed technique requires.\n\nWhat makes Mangini's gear history unusually well-documented is how much the drums changed across a single band's catalog even as the cymbals and hardware stayed constant. He briefly swapped in Ludwig Keystone X Maple shells for Dream Theater's 2013 self-titled album before returning to Pearl Masterworks Maple for The Astonishing (2016) — all while keeping the same Sabian HHX/AAX cymbals and Pearl Eliminator Redline hardware. Then, starting with Distance Over Time (2019) and continuing through A View from the Top of the World (2021), Mangini switched the shells again to Pearl Reference Pure, with the Sabian cymbals and Pearl Eliminator Redline hardware carrying through unchanged. That drums-only evolution — Pearl Masterworks through the mid-2010s, then Pearl Reference Pure from 2019 onward, with Sabian/Pearl hardware constant since his 2011 debut — makes his rig one of the most instructive case studies in how a signature progressive metal setup evolves under one drummer across more than a decade with the same band.",
 
     setup: {
       drums: {
@@ -4853,34 +4853,26 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Meinl Byzance Traditional',
-        model: 'Full seven-piece traditional-finish setup',
-        specs: '14" Hi-Hats, 16" Thin Crash, 18"/20" Medium Crashes, 22" Medium Ride, 18" China, 10" Splash',
+        item: 'Sabian HHX/AAX Combination',
+        model: 'Full seven-piece HHX/AAX setup',
+        specs: '14" HHX Evolution Hi-Hats, 16" AAX X-Plosion Crash, 18"/20" AAX X-Plosion Crashes, 22" HHX Evolution Ride, 18" HHX China, 10" AAX Splash',
         originalPrice: 2300,
         year: 2011,
-        source: 'Meinl Byzance Traditional catalog pricing 2011',
-        notes: "Meinl's traditional hand-hammered finish gave Mangini's setup a darker, more complex overtone structure than the brighter B20 cymbals common in prog metal at the time.",
+        source: 'Sabian HHX/AAX catalog pricing 2011',
+        notes: "Mangini adopted the Sabian HHX/AAX combination for his Dream Theater debut, pairing HHX Evolution hi-hats and ride with AAX X-Plosion crashes for a cutting, articulate attack suited to A Dramatic Turn of Events' odd-meter passages.",
         vintageValue2026: 3000,
-        modernEquivalent: {
-          item: 'Sabian HHX/AAX Evolution Pack (current)',
-          price: 3200,
-          link: 'sabian-hhx-aax-evolution-pack',
-        },
+        modernEquivalent: null,
       },
       hardware: {
-        item: 'DW 9002 Double Pedal + 9000 Series Hardware',
+        item: 'Pearl Eliminator Redline Double Pedal + Hardware',
         model: 'Double bass pedal, hi-hat stand, boom stands, throne',
-        specs: 'DW 9002 double bass pedal, DW 9000 Series hi-hat stand and boom stands, DW 9120M throne',
+        specs: 'Pearl Eliminator Redline double bass pedal, Pearl hi-hat stand and boom stands, Pearl throne',
         originalPrice: 950,
         year: 2011,
-        source: 'DW hardware catalog pricing 2011',
-        notes: "DW's 9000 Series was chosen for the smooth, adjustable cam action the 9002 pedal needed to keep Mangini's extreme-tempo double-kick patterns even and controlled.",
+        source: 'Pearl hardware catalog pricing 2011',
+        notes: "Pearl's Eliminator Redline double pedal was chosen for the smooth, adjustable cam action needed to keep Mangini's extreme-tempo double-kick patterns even and controlled.",
         vintageValue2026: 1300,
-        modernEquivalent: {
-          item: 'Pearl Eliminator Redline Double Pedal + Hardware (current)',
-          price: 1400,
-          link: 'pearl-eliminator-redline-hardware',
-        },
+        modernEquivalent: null,
       },
       sticks: {
         item: 'Vater Mike Mangini Wicked Piston (VHMMWP)',
@@ -4922,11 +4914,11 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     priceEvolution: [
-      { year: 2010, price: 10500, label: 'Joins Dream Theater', event: 'Wins publicized audition to replace Mike Portnoy; assembles Pearl/Meinl/DW rig' },
-      { year: 2011, price: 12356, label: 'Original Purchase', event: 'A Dramatic Turn of Events recorded — Mangini\'s studio debut with Dream Theater' },
+      { year: 2010, price: 10500, label: 'Joins Dream Theater', event: 'Wins publicized audition to replace Mike Portnoy; assembles Pearl/Sabian/Pearl-hardware rig' },
+      { year: 2011, price: 12356, label: 'Original Purchase', event: 'A Dramatic Turn of Events recorded — Mangini\'s studio debut with Dream Theater on Sabian HHX/AAX cymbals and Pearl Eliminator Redline hardware' },
       { year: 2013, price: 13800, label: 'Self-titled era', event: 'Temporary switch to Ludwig Keystone X Maple shells for Dream Theater (2013)' },
-      { year: 2016, price: 15200, label: 'The Astonishing era', event: 'Returns to Pearl Masterworks Maple; same Meinl/DW hardware continues' },
-      { year: 2019, price: 17600, label: 'Distance Over Time era', event: 'Major switch to Pearl Reference Pure shells, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline pedal' },
+      { year: 2016, price: 15200, label: 'The Astonishing era', event: 'Returns to Pearl Masterworks Maple; same Sabian HHX/AAX cymbals and Pearl Eliminator Redline hardware continue' },
+      { year: 2019, price: 17600, label: 'Distance Over Time era', event: 'Major switch to Pearl Reference Pure shells; Sabian HHX/AAX cymbals and Pearl Eliminator Redline pedal continue unchanged since 2011' },
       { year: 2021, price: 18900, label: 'A View from the Top of the World era', event: 'Same Pearl/Sabian rig continues; Roland SPD-SX sampling pad added for hybrid passages' },
       { year: 2026, price: 17998, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2011 setup' },
     ],
@@ -4934,7 +4926,7 @@ export const GEAR_PRICE_HISTORY = {
     sources: [
       { title: 'Pearl Masterworks Custom-Order Catalog', year: 2011, type: 'catalog' },
       { title: 'Modern Drummer — Mike Mangini Interview', year: 2012, type: 'interview' },
-      { title: 'Meinl Artist Profiles — Byzance Traditional Series', year: 2011, type: 'manufacturer' },
+      { title: 'Sabian Artist Profiles — Mike Mangini', year: 2011, type: 'manufacturer' },
       { title: 'Reverb Price Guide — Pearl Masterworks Custom Kits', year: 2025, type: 'market' },
     ],
 

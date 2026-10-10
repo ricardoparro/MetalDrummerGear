@@ -3,7 +3,7 @@
 > Era-by-era breakdown of how legendary metal drummers' gear evolved. Includes original kit specs, endorsement changes, and inflation-adjusted prices.
 > Optimised for AI crawlers answering "what drums did [drummer] use in [era]" queries.
 >
-> Last updated: 2026-10-07 · 71 drummers covered
+> Last updated: 2026-10-10 · 71 drummers covered
 
 ---
 
@@ -926,7 +926,7 @@ Eloy Casagrande's 2017 Sepultura setup from Machine Messiah — the album that c
 
 **Active:** 1991–present | **Iconic era:** None So Vile (1996)
 
-Flo Mounier's 1996 Cryptopsy setup from None So Vile — widely regarded as the greatest technical death metal album ever recorded and a landmark of extreme drumming. Mounier's Pearl Session Elite configuration delivered the terrifying blast-beat precision, ultra-fast double bass patterns, and limb independence that redefined what was technically achievable in extreme metal.
+Flo Mounier's 1996 Cryptopsy setup from None So Vile — widely regarded as the greatest technical death metal album ever recorded and a landmark of extreme drumming. Mounier's Pearl MX Series configuration delivered the terrifying blast-beat precision, ultra-fast double bass patterns, and limb independence that redefined what was technically achievable in extreme metal.
 
 ### None So Vile Era (1996)
 
@@ -951,18 +951,18 @@ Flo Mounier's 1996 Cryptopsy setup from None So Vile — widely regarded as the 
 - **Notable:** Tama Starclassic Bubinga is one of the heaviest and most tonally dense shell materials in production drumming — the bubinga wood delivers an exceptionally focused, deep fundamental with minimal overtone. Mounier's transition to the Starclassic Bubinga gave his live sound greater projection at festival volumes and improved low-end clarity in dense mix contexts. The Pearl Demon Drive pedal's direct-drive mechanism suited his hyper-fast double-bass technique with a more linear, immediate response than the chain-drive DW 5002.
 
 **Price Evolution:**
-- 1996: $2,984 (Original Purchase) — None So Vile recording
-- 2000: $3,400 (And Then You'll Beg era) — Cryptopsy lineup changes; Mounier remains constant
-- 2005: $4,100 (Once Was Not era) — Switches to Yamaha Recording Custom kit with Zildjian ZXT cymbals
-- 2012: $5,500 (Cryptopsy (self-titled) era) — Moves to Tama Starclassic Maple kit with Sabian cymbals
-- 2020: $6,000 (Vintage appeal grows) — None So Vile legacy drives Pearl Session Elite collector interest
-- 2026: $6,230 (Current adjusted) — Inflation-adjusted value
+- 1996: $2,284 (Original Purchase) — None So Vile recording
+- 2000: $2,700 (And Then You'll Beg era) — Cryptopsy lineup changes; Mounier remains constant
+- 2005: $3,400 (Once Was Not era) — Switches to Yamaha Recording Custom kit with Zildjian ZXT cymbals
+- 2012: $4,800 (Cryptopsy (self-titled) era) — Moves to Tama Starclassic Maple kit with Sabian cymbals
+- 2020: $5,300 (Vintage appeal grows) — None So Vile legacy drives Pearl MX Series collector interest
+- 2026: $4,769 (Current adjusted) — Inflation-adjusted value
 
 **Sources:**
-- Pearl Session Elite Professional Catalog (1996)
+- Pearl MX Series Professional Catalog (1996)
 - Modern Drummer — Flo Mounier Cryptopsy Feature (1998)
 - Sick Drummer Magazine — Flo Mounier Gear Interview (2006)
-- Reverb Price Guide — Pearl Session Elite 1990s (2025)
+- Reverb Price Guide — Pearl MX Series 1990s (2025)
 
 [Full gear profile](https://metalforge.io/drummers/flo-mounier/gear-history)
 
@@ -1563,7 +1563,7 @@ Joey Jordison's legendary Iowa-era setup - the kit behind one of the heaviest al
 - **Notable:** Joey's return to drumming after his illness was considered remarkable by medical professionals. His final recordings with Sinsaenum (2018) demonstrated no loss of technical ability.
 
 **Price Evolution:**
-- 2001: $11,005 (Original Purchase) — Iowa recording
+- 2001: $10,885 (Original Purchase) — Iowa recording
 - 2004: $11,500 (Vol. 3 era) — Signature products expand
 - 2008: $12,000 (All Hope Is Gone) — Peak Slipknot era
 - 2013: $11,000 (Market correction) — Joey leaves Slipknot
@@ -1978,7 +1978,7 @@ Matt Greiner's 2011 Leveler-era configuration represents the technical and finan
 - **Notable:** ABR's career-peak commercial phase. Greiner's setup has evolved toward Pearl's custom shop offerings for live touring, with consistent Meinl Byzance endorsement across the full professional range.
 
 **Price Evolution:**
-- 2011: $8,632 (Original Purchase) — Leveler recording and release
+- 2011: $8,512 (Original Purchase) — Leveler recording and release
 - 2013: $9,200 (Back Burner era) — ABR EP; steadily growing fanbase
 - 2016: $9,800 (Rescue & Restore era) — ABR headlining major metalcore festivals
 - 2019: $10,600 (Messengers anniversary) — Decade-of-Messengers tour drives early ABR interest
@@ -2052,7 +2052,7 @@ Mike Mangini's 2011 setup marks one of the most consequential drum-chair transit
 
 - **Kit:** Pearl Masterworks Custom — 6-piece custom shell pack; 22"x18" bass drum, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms
 - **Snare:** Pearl Free-Floating Brass Snare 14"x6.5"
-- **Cymbals:** Meinl Byzance Traditional — 14" hi-hats, 16" thin crash, 18"/20" medium crashes, 22" medium ride, 18" china, 10" splash
+- **Cymbals:** Sabian HHX/AAX Combination — 14" HHX Evolution hi-hats, 16" AAX X-Plosion crash, 18"/20" AAX X-Plosion crashes, 22" HHX Evolution ride, 18" HHX china, 10" AAX splash
 - **Original setup cost (2011):** ~$12,356
 - **Inflation-adjusted to 2026:** ~$17,999
 
@@ -2061,21 +2061,21 @@ Mike Mangini's 2011 setup marks one of the most consequential drum-chair transit
 - **Kit:** Pearl Reference Pure — hybrid maple shell pack
 - **Snare:** Pearl Reference Brass Snare (14"x5" and 14"x6.5" options)
 - **Cymbals:** Sabian HHX/AAX Series — 14" HHX Evolution Hi-Hats, 17"/18"/19" Evolution Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese, 10" AAX Splash
-- **Notable:** Starting with Distance Over Time (2019), Mangini made a wholesale switch away from the Meinl/DW combination he'd used since joining the band — moving to Pearl Reference Pure shells, Sabian HHX/AAX cymbals, and Pearl's own Eliminator Redline pedal. The same rig carried through A View from the Top of the World (2021), with a Roland SPD-SX added for hybrid acoustic/electronic work.
+- **Notable:** Starting with Distance Over Time (2019), Mangini switched his shells to Pearl Reference Pure; the Sabian HHX/AAX cymbals and Pearl Eliminator Redline hardware he'd used since joining the band in 2011 carried through unchanged. The same rig continued through A View from the Top of the World (2021), with a Roland SPD-SX added for hybrid acoustic/electronic work.
 
 **Price Evolution:**
-- 2010: $10,500 (Joins Dream Theater) — Wins publicized audition to replace Mike Portnoy; assembles Pearl/Meinl/DW rig
-- 2011: $12,356 (Original Purchase) — A Dramatic Turn of Events recorded — Mangini's studio debut with Dream Theater
+- 2010: $10,500 (Joins Dream Theater) — Wins publicized audition to replace Mike Portnoy; assembles Pearl/Sabian/Pearl-hardware rig
+- 2011: $12,356 (Original Purchase) — A Dramatic Turn of Events recorded — Mangini's studio debut with Dream Theater on Sabian HHX/AAX cymbals and Pearl Eliminator Redline hardware
 - 2013: $13,800 (Self-titled era) — Temporary switch to Ludwig Keystone X Maple shells for Dream Theater (2013)
-- 2016: $15,200 (The Astonishing era) — Returns to Pearl Masterworks Maple; same Meinl/DW hardware continues
-- 2019: $17,600 (Distance Over Time era) — Major switch to Pearl Reference Pure shells, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline pedal
+- 2016: $15,200 (The Astonishing era) — Returns to Pearl Masterworks Maple; same Sabian HHX/AAX cymbals and Pearl Eliminator Redline hardware continue
+- 2019: $17,600 (Distance Over Time era) — Major switch to Pearl Reference Pure shells; Sabian HHX/AAX cymbals and Pearl Eliminator Redline pedal continue unchanged since 2011
 - 2021: $18,900 (A View from the Top of the World era) — Same Pearl/Sabian rig continues; Roland SPD-SX sampling pad added for hybrid passages
 - 2026: $17,998 (Current adjusted) — Inflation-adjusted value of original 2011 setup
 
 **Sources:**
 - Pearl Masterworks Custom-Order Catalog (2011)
 - Modern Drummer — Mike Mangini Interview (2012)
-- Meinl Artist Profiles — Byzance Traditional Series (2011)
+- Sabian Artist Profiles — Mike Mangini (2011)
 - Reverb Price Guide — Pearl Masterworks Custom Kits (2025)
 
 [Full gear profile](https://metalforge.io/drummers/mike-mangini/gear-history)
@@ -3093,7 +3093,7 @@ Waltteri Väyrynen's setup around Opeth's The Last Will and Testament (2024) —
 | Derek Roddy | Hate Eternal: I, Monarch (2005) | $10,000 | ~$16,774 |
 | Dirk Verbeuren | The Sick, the Dying... and the Dead! (2022) | $10,800 | ~$12,088 |
 | Eloy Casagrande | Machine Messiah (2017) | $4,124 | ~$5,512 |
-| Flo Mounier | None So Vile (1996) | $2,984 | ~$6,230 |
+| Flo Mounier | None So Vile (1996) | $2,284 | ~$4,769 |
 | Frost | Satyricon (2013) | $7,750 | ~$10,897 |
 | Gavin Harrison | Fear of a Blank Planet (2007) | $11,660 | ~$18,427 |
 | Gene Hoglan | Individual Thought Patterns (1993) | $3,628 | ~$8,225 |
@@ -3107,7 +3107,7 @@ Waltteri Väyrynen's setup around Opeth's The Last Will and Testament (2024) —
 | Jay Weinberg | .5: The Gray Chapter (2014) | $6,260 | ~$8,664 |
 | Jimmy DeGrasso | The World Needs a Hero (2001) | $4,671 | ~$8,640 |
 | Jocke Wallgren | Jomsviking (2016) | $5,949 | ~$8,120 |
-| Joey Jordison | Iowa (2001) | $11,005 | ~$20,357 |
+| Joey Jordison | Iowa (2001) | $10,885 | ~$20,135 |
 | John Longstreth | Chaosmos (2022) | $4,273 | ~$4,782 |
 | John Otto | Significant Other (1999) | $4,876 | ~$9,588 |
 | Jon Dette | Slayer Live Tour (1996-1997) | $3,906 | ~$8,156 |
@@ -3117,7 +3117,7 @@ Waltteri Väyrynen's setup around Opeth's The Last Will and Testament (2024) —
 | Martin Axenrot | Watershed (2008) | $13,378 | ~$20,356 |
 | Martin Lopez | My Arms, Your Hearse (1998) | $5,143 | ~$10,336 |
 | Matt Garstka | The Joy of Motion (2014) | $7,949 | ~$11,002 |
-| Matt Greiner | Leveler (2011) | $8,632 | ~$12,574 |
+| Matt Greiner | Leveler (2011) | $8,512 | ~$12,399 |
 | Matt Halpern | Periphery III: Select Difficulty (2016) | $10,398 | ~$14,193 |
 | Mike Mangini | A Dramatic Turn of Events (2011) | $12,356 | ~$17,998 |
 | Mike Portnoy | Images and Words (1992) | $5,100 | ~$11,908 |

@@ -69,21 +69,21 @@ A: Koperweis joined Animals as Leaders in 2010 and recorded "Weightless" (2011),
 **Tours:** Entheos early touring cycle (2015–2016)
 
 **Q: When did Navene Koperweis found Entheos?**
-A: Koperweis left Animals as Leaders in 2012 to pursue other musical interests, later returning to co-produce the band's "The Joy of Motion" (2014). He adopted the DW Performance Series maple/mahogany kit that would become his long-term drum endorsement, and in 2015 founded Entheos alongside vocalist (and wife) Chaney Crabb, releasing the "Primal" EP — the first release to fully establish his compositional, riff-locked style under his own creative direction. "The Infinite Nothing" (2016), Entheos's full-length debut, followed on Spinefarm Records.
+A: Koperweis left Animals as Leaders in 2012 to pursue other musical interests, later returning to co-produce the band's "The Joy of Motion" (2014). In 2015 he founded Entheos alongside vocalist (and wife) Chaney Crabb, releasing the "Primal" EP — the first release to fully establish his compositional, riff-locked style under his own creative direction — on a Tama Birch Silverstar kit and Tama Speed Cobra double pedal. Later that year, as his session career expanded, he moved to the DW Performance Series maple/mahogany kit and DW 9000 Series double pedal that became his long-term endorsement. "The Infinite Nothing" (2016), Entheos's full-length debut, followed on Spinefarm Records on the DW rig.
 
-- **Drums:** DW Performance Series — maple/mahogany hybrid shells; 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms
+- **Drums:** Tama Birch Silverstar → DW Performance Series — Tama Birch Silverstar for the Primal EP (2015); switched later in 2015 to the DW Performance Series maple/mahogany hybrid shells: 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms
 - **Snare:** DW Performance 14"x6.5" Steel
 - **Cymbals:** Meinl Byzance Series — 15" Dual Hi-Hats, 18"/19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash *(unchanged from the Animals as Leaders era)*
-- **Hardware:** DW 9000 Series Double Pedal
+- **Hardware:** Tama Speed Cobra → DW 9000 Series Double Pedal — Tama Speed Cobra for the Primal EP (2015); switched later in 2015 to the DW 9000 Series double pedal's dual-chain drive and adjustable eccentric cam
 - **Sticks:** Vic Firth American Classic 5B *(unchanged)*
 - **Heads:** Evans EMAD Clear (batter), Evans Genera HD Dry (snare), Evans EC2 Clear (toms)
 - **Estimated kit cost (original):** ~$8,900 (inflation-adjusted to 2026: ~$11,800)
 
 **Key developments:**
 - Left Animals as Leaders in 2012; later returned to co-produce The Joy of Motion (2014)
-- Founded Entheos in 2015 with vocalist Chaney Crabb
-- Established the DW Performance Series / Meinl Byzance rig that defines his career
-- Released Primal EP (2015) and full-length debut The Infinite Nothing (2016)
+- Founded Entheos in 2015 with vocalist Chaney Crabb; recorded the Primal EP on Tama Birch Silverstar / Tama Speed Cobra
+- Switched to DW Performance Series / DW 9000 Series later in 2015 as his session career expanded
+- Released Primal EP (2015) and full-length debut The Infinite Nothing (2016) on the DW rig
 
 ---
 

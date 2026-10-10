@@ -18603,17 +18603,17 @@ export const DRUMMER_EVOLUTION = {
         years: '2012–2016',
         startYear: 2012,
         endYear: 2016,
-        description: 'Koperweis left Animals as Leaders in 2012 to pursue other musical interests, later returning to co-produce the band\'s "The Joy of Motion" (2014). He adopted the DW Performance Series maple/mahogany kit that would become his long-term drum endorsement, and in 2015 founded Entheos alongside vocalist (and wife) Chaney Crabb, releasing the "Primal" EP — the first release to fully establish his compositional, riff-locked style under his own creative direction. "The Infinite Nothing" (2016), Entheos\'s full-length debut, followed on Spinefarm Records.',
+        description: 'Koperweis left Animals as Leaders in 2012 to pursue other musical interests, later returning to co-produce the band\'s "The Joy of Motion" (2014). In 2015 he founded Entheos alongside vocalist (and wife) Chaney Crabb, releasing the "Primal" EP — the first release to fully establish his compositional, riff-locked style under his own creative direction — on a Tama Birch Silverstar kit and Tama Speed Cobra double pedal. Later that year, as his session career expanded, he moved to the DW Performance Series maple/mahogany kit and DW 9000 Series double pedal that became his long-term endorsement. "The Infinite Nothing" (2016), Entheos\'s full-length debut, followed on Spinefarm Records on the DW rig.',
         albums: ['Entheos: Primal EP (2015)', 'Entheos: The Infinite Nothing (2016)'],
         tours: ['Entheos early touring cycle (2015–2016)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Performance Series',
-            details: 'Maple/mahogany hybrid shells: 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
-            notes: 'Established as his core endorsement during this era — a warm, full-bodied tone with the focused attack fast djent riffing demands.',
-            change: CHANGE_TYPES.NEW,
+            item: 'Tama Birch Silverstar → DW Performance Series',
+            details: 'Tama Birch Silverstar for the Primal EP (2015); switched later in 2015 to the DW Performance Series maple/mahogany hybrid shells: 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
+            notes: 'The Primal EP (2015) was recorded on a Tama Birch Silverstar kit; Koperweis moved to DW Performance Series later that year as his session career expanded, establishing the warm, full-bodied tone with focused attack that carried through "The Infinite Nothing" (2016).',
+            change: CHANGE_TYPES.SWITCH,
           },
           snare: {
             item: 'DW Performance 14"x6.5" Steel',
@@ -18628,10 +18628,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'DW 9000 Series Double Pedal',
-            details: 'Dual-chain drive, adjustable eccentric cam',
-            notes: 'Gave Koperweis a fine-tunable acceleration curve for his heel-up riff-locked technique.',
-            change: CHANGE_TYPES.NEW,
+            item: 'Tama Speed Cobra → DW 9000 Series Double Pedal',
+            details: 'Tama Speed Cobra for the Primal EP (2015); switched later in 2015 to the DW 9000 Series double pedal\'s dual-chain drive and adjustable eccentric cam',
+            notes: 'Used the Tama Speed Cobra through the Primal EP (2015) sessions, then switched to the DW 9000 double pedal\'s adjustable eccentric cam as his hardware unified under the DW endorsement — giving him a fine-tunable acceleration curve for his heel-up riff-locked technique.',
+            change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
             item: 'Vic Firth American Classic 5B',
@@ -18655,9 +18655,9 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Left Animals as Leaders in 2012; later returned to co-produce The Joy of Motion (2014)',
-          'Founded Entheos in 2015 with vocalist Chaney Crabb',
-          'Established the DW Performance Series / Meinl Byzance rig that defines his career',
-          'Released Primal EP (2015) and full-length debut The Infinite Nothing (2016)',
+          'Founded Entheos in 2015 with vocalist Chaney Crabb; recorded the Primal EP on Tama Birch Silverstar / Tama Speed Cobra',
+          'Switched to DW Performance Series / DW 9000 Series later in 2015 as his session career expanded',
+          'Released Primal EP (2015) and full-length debut The Infinite Nothing (2016) on the DW rig',
         ],
 
         videos: [],

@@ -1883,19 +1883,15 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       sticks: {
-        item: 'Vic Firth 5B Hickory',
-        model: 'American Classic 5B',
+        item: 'Standard hickory 5B sticks (specific brand not independently documented for 1987)',
+        model: null,
         specs: 'Hickory, wood tip, 16"',
         originalPrice: 8,
         year: 1987,
         source: 'Standard retail price',
-        notes: 'Standard 5B sticks suited to thrash aggression — heavier than 5A for more attack without sacrificing speed.',
+        notes: 'No specific stick brand/model independently verified for the 1987 Among the Living era; Vic Firth endorsement is only documented from the 1990s onward (endorsementNews.js).',
         vintageValue2026: null,
-        modernEquivalent: {
-          item: 'Vic Firth 5B American Classic',
-          price: 14,
-          link: 'vic-firth-5b',
-        },
+        modernEquivalent: null,
       },
       heads: {
         item: 'Remo Ambassador',

@@ -12015,3 +12015,43 @@ Per the 2026-10-09 19:xx run's explicit note, the `endorsementNews.js` currentEn
 2. This "era-drift/narrative-fabrication in secondary dated-gear files" bug class is confirmed viable but thinning fast — both investigating subagents independently concluded remaining gaps are long-tail (~1 genuine hit per 8-10 drummers sampled going forward). Next bank-topping-up run should sample a fresh batch of drummers not yet checked in `gearPriceHistory.js`/`drummerComparisons.js` rather than re-deriving the already-checked-clean lists logged by this run's subagents.
 3. Content-gap: `joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+## 2026-10-10 (run ~07:xx UTC) — era-drift sweep continued in gearPriceHistory.js: 6 filed (#8831-8836)
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap: 3,162 URLs — unchanged.
+- Bank check: `seo-proposal` label total 8 at run start — 4 already `ai-fix`-labeled (#8821-8824, promoted in the 06:19 CEO cheap pulse), #7981 held, 3 standing umbrellas (#2211/#3810/#3819) → true untriaged bank **0**. Under the 45 floor → filed up to 8; filed 6 (quality over volume — see below).
+- Not Monday (2026-10-10 is Saturday) — drum-chair watch skipped this run.
+
+### Metrics readout
+- GSC 7d (07:08 UTC refresh): 7,209 impr / 148 clicks / 2.05% CTR / pos 7.5. Content-gap rows (impr≥50, CTR<2%): `joey jordison drum kit` (54 impr, 1.85%), `matt halpern` (131 impr, 0.76%) — both already ruled known-oscillator/class-2 bare-name per `learned-patterns.md` and every recent CEO pulse. No re-action.
+- GA4 7d: 448 sessions, organic 313/448 (69.9%) — consistent with the confirmed organic-majority channel.
+
+### Method
+Per the 01:xx run's explicit note ("next bank-topping-up run should sample a fresh batch of drummers not yet checked in gearPriceHistory.js/drummerComparisons.js"), dispatched a subagent to sample ~35 drummers not previously logged as checked, cross-verifying every candidate's `gearPriceHistory.js`/`drummerComparisons.js` claims against `endorsementNews.js` ground truth. Personally re-verified all 6 surviving candidates myself via direct `sed`/`grep` against current source (not trusting the subagent summary) before filing, and ran independent `gh issue list --state all --search "<name> gearPriceHistory"` dedup checks plus read the full bodies of 3 superficially-similar closed issues (#8568 Joey Jordison cymbals, #7297 Flo Mounier priceEvolution labels, #7322 Inferno cymbals) to confirm each targets a different field than my candidate.
+
+All 33 sampled `drummerComparisons.js` pairs came back clean (hardcoded prose, no dated contradictions found) — contrary to the 01:xx run's note that "most of drummerComparisons.js came back clean/live-computed," this batch found it's hardcoded narrative text, just not contradictory. `gearPriceHistory.js`'s **heads** field was the concentrated hit (3 of 6 candidates: Joey Jordison, Matt Greiner, Inferno) — plausibly because heads is the last category typically added to `currentEndorsements` blocks and gets the least cross-referencing.
+
+One 7th candidate was surfaced but NOT filed: `endorsementNews.js`'s own `travis-orbin` timeline notes text still contradicts the later, externally-sourced #5956 ruling (Orbin left Periphery Feb 2009, didn't record the 2010 debut) — real bug, but outside the 3 target files for this sweep and not independently re-verified by me; flagged for a future run rather than filed on secondhand verification.
+
+### Proposals filed this run
+1. #8831 — Jaska Raatikainen: gearPriceHistory.js 2000-era cymbals claims A Custom, verified A Series until 2005 switch
+2. #8832 — Daray: gearPriceHistory.js 2011 sticks claims Promark, verified Vic Firth since 2008 (same bug class as #8296/#6193/#5977/#5504 in other files, gearPriceHistory.js was the one unfixed file)
+3. #8833 — Joey Jordison: gearPriceHistory.js 2001 heads claims Evans, verified no heads endorsement until 2005 (`from: null`) — distinct field from #8568's already-fixed cymbals
+4. #8834 — Matt Greiner: gearPriceHistory.js 2011 heads claims Evans tied to the Pearl-era kit, verified the Evans deal is anchored to the 2016 Mapex switch
+5. #8835 — Inferno: gearPriceHistory.js 2004 heads claims Evans, verified Remo since ~2005 — distinct field from #7322's already-fixed cymbals
+6. #8836 — Flo Mounier: gearPriceHistory.js 1996 setup claims Pearl "Session Elite" (verified: MX Series) and Zildjian A Series cymbals (first verified Zildjian association is 2005 ZXT) — distinct from #7297's already-fixed priceEvolution labels
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8831-8836 (this run, 6 fresh)
+- Bank at run end: 14 open `seo-proposal`.
+
+### Next run
+1. Watch #8831-8836 through CEO triage.
+2. The gearPriceHistory.js/drummerComparisons.js era-drift vein is now thinning further — this batch required sampling 35 drummers to find 6 genuine hits (down from the prior run's ~1-per-8-10 estimate, consistent). Next bank-topping-up run should sample a fresh, not-yet-checked batch, or pivot to a new bug-class investigation if this one dries up (candidate: the `travis-orbin` endorsementNews.js narrative-text-vs-#5956 contradiction flagged above, needs independent verification first).
+3. Content-gap: `joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

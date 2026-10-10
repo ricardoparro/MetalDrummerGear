@@ -2778,7 +2778,7 @@ export const GEAR_PRICE_HISTORY = {
 
   // ==========================================
   // FLO MOUNIER - 1996 None So Vile Era
-  // Pearl Session Elite Setup
+  // Pearl MX Series Setup
   // ==========================================
   'flo-mounier': {
     slug: 'flo-mounier',
@@ -2789,17 +2789,20 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'None So Vile (1996)',
     profileImage: '/images/drummers/flo-mounier.webp',
 
-    summary: "Flo Mounier's 1996 Cryptopsy setup from None So Vile — widely regarded as the greatest technical death metal album ever recorded and a landmark of extreme drumming. Mounier's Pearl Session Elite configuration delivered the terrifying blast-beat precision, ultra-fast double bass patterns, and limb independence that redefined what was technically achievable in extreme metal. The setup cost approximately $2,984 in 1996, equivalent to over $6,200 inflation-adjusted today.",
+    summary: "Flo Mounier's 1996 Cryptopsy setup from None So Vile — widely regarded as the greatest technical death metal album ever recorded and a landmark of extreme drumming. Mounier's Pearl MX Series configuration delivered the terrifying blast-beat precision, ultra-fast double bass patterns, and limb independence that redefined what was technically achievable in extreme metal. The setup cost approximately $2,284 in 1996, equivalent to over $4,700 inflation-adjusted today.",
 
+    // Issue #8836: cymbals omitted — no cymbal brand is verified for the 1992-2005 Pearl
+    // era (endorsementNews.js's flo-mounier timeline names Zildjian ZXT only starting with
+    // the 2005 Yamaha switch), so no 1996 cymbal brand claim can be sourced.
     setup: {
       drums: {
-        item: 'Pearl Session Elite',
+        item: 'Pearl MX Series',
         model: '6-piece shell pack with double kick configuration',
         specs: '22"x18" kick (×2), 10"x9" rack, 12"x10" rack, 14"x14" floor, 16"x16" floor — birch shells',
         originalPrice: 1200,
         year: 1996,
-        source: 'Pearl Session Elite MSRP 1996, adjusted for double-kick configuration',
-        notes: "Pearl Session Elite's birch shells gave Mounier a focused, punchy tone that cut through Cryptopsy's dense, chaotic guitar layers. The double-kick configuration was essential for his signature hyper-speed double-bass passages — particularly the legendary blast-beat sections on 'Slit Your Guts' and 'Phobophile'.",
+        source: 'Pearl MX Series MSRP 1996, adjusted for double-kick configuration',
+        notes: "Pearl MX Series' birch shells gave Mounier a focused, punchy tone that cut through Cryptopsy's dense, chaotic guitar layers. The double-kick configuration was essential for his signature hyper-speed double-bass passages — particularly the legendary blast-beat sections on 'Slit Your Guts' and 'Phobophile'.",
         vintageValue2026: 1800,
         modernEquivalent: {
           item: 'Pearl Session Studio Select',
@@ -2820,21 +2823,6 @@ export const GEAR_PRICE_HISTORY = {
           item: 'Pearl Free-Floating Steel 14"x6.5"',
           price: 650,
           link: 'pearl-free-floating-steel',
-        },
-      },
-      cymbals: {
-        item: 'Zildjian A Series',
-        model: 'A Series mixed setup',
-        specs: '14" A Hi-Hats, 16" A Medium Crash, 18" A Medium Crash, 20" A Medium Ride, 18" A China',
-        originalPrice: 700,
-        year: 1996,
-        source: 'Zildjian A series catalog pricing 1996',
-        notes: "Zildjian A Series cymbals provided the cutting, bright voice needed for Mounier's blast-beat-heavy style. At the extreme tempos on None So Vile — some passages exceeding 250 BPM — the A Series' tight, focused crash response prevented cymbal wash from overwhelming the mix.",
-        vintageValue2026: 900,
-        modernEquivalent: {
-          item: 'Zildjian A Series Cymbal Set',
-          price: 1600,
-          link: 'zildjian-a-series-set',
         },
       },
       hardware: {
@@ -2885,31 +2873,31 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     totals: {
-      originalTotal: 2984,
+      originalTotal: 2284,
       inflationAdjusted2026: null, // Calculated dynamically
-      vintageTotal2026: 4050,
-      modernEquivalentTotal: 5674,
+      vintageTotal2026: 3150,
+      modernEquivalentTotal: 4074,
     },
 
     priceEvolution: [
-      { year: 1996, price: 2984, label: 'Original Purchase', event: 'None So Vile recording' },
-      { year: 2000, price: 3400, label: 'And Then You\'ll Beg era', event: 'Cryptopsy lineup changes; Mounier remains constant' },
-      { year: 2005, price: 4100, label: 'Once Was Not era', event: 'Switches to Yamaha Recording Custom kit with Zildjian ZXT cymbals' },
-      { year: 2012, price: 5500, label: 'Cryptopsy (self-titled) era', event: 'Moves to Tama Starclassic Maple kit with Sabian cymbals' },
-      { year: 2020, price: 6000, label: 'Vintage appeal grows', event: 'None So Vile legacy drives Pearl Session Elite collector interest' },
-      { year: 2026, price: 6230, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+      { year: 1996, price: 2284, label: 'Original Purchase', event: 'None So Vile recording' },
+      { year: 2000, price: 2700, label: 'And Then You\'ll Beg era', event: 'Cryptopsy lineup changes; Mounier remains constant' },
+      { year: 2005, price: 3400, label: 'Once Was Not era', event: 'Switches to Yamaha Recording Custom kit with Zildjian ZXT cymbals' },
+      { year: 2012, price: 4800, label: 'Cryptopsy (self-titled) era', event: 'Moves to Tama Starclassic Maple kit with Sabian cymbals' },
+      { year: 2020, price: 5300, label: 'Vintage appeal grows', event: 'None So Vile legacy drives Pearl MX Series collector interest' },
+      { year: 2026, price: 4769, label: 'Current adjusted', event: 'Inflation-adjusted value' },
     ],
 
     sources: [
-      { title: 'Pearl Session Elite Professional Catalog', year: 1996, type: 'catalog' },
+      { title: 'Pearl MX Series Professional Catalog', year: 1996, type: 'catalog' },
       { title: 'Modern Drummer — Flo Mounier Cryptopsy Feature', year: 1998, type: 'interview' },
       { title: 'Sick Drummer Magazine — Flo Mounier Gear Interview', year: 2006, type: 'interview' },
-      { title: 'Reverb Price Guide — Pearl Session Elite 1990s', year: 2025, type: 'market' },
+      { title: 'Reverb Price Guide — Pearl MX Series 1990s', year: 2025, type: 'market' },
     ],
 
     meta: {
       title: "Flo Mounier 1996 Drum Setup Cost | None So Vile Era Gear Prices",
-      description: "How much did Flo Mounier's 1996 Cryptopsy drum kit cost? Original ~$2,984, inflation-adjusted to ~$6,230 today. Complete Pearl Session Elite breakdown from the None So Vile era.",
+      description: "How much did Flo Mounier's 1996 Cryptopsy drum kit cost? Original ~$2,284, inflation-adjusted to ~$4,769 today. Complete Pearl MX Series breakdown from the None So Vile era.",
       keywords: ['flo mounier drum kit', 'cryptopsy drummer gear', 'none so vile drums', 'flo mounier pearl setup', 'flo mounier drum setup cost'],
     },
   },

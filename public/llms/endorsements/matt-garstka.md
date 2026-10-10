@@ -38,6 +38,7 @@ Matt Garstka endorses Tama for hardware / pedals. They play the Tama Speed Cobra
 
 - **2012** (Drums): Signed with Pearl — Joined Animals as Leaders in 2012 (replacing Navene Koperweis) playing a compact Pearl Masterworks Maple kit — a 20" bass drum and MasterCast hoops chosen for articulation over raw power
 - **2012** (Cymbals): Signed with Meinl — Built his cymbal setup around Meinl Byzance (15" Dual Hi-Hats, 22" Sand Ride, 18" Extra Dry Thin Crash) for the dark, musical character heard on his debut "The Joy of Motion" (2014)
+- **2012** (Drumheads): Signed with Remo — Signed with Remo drumheads (Ambassador Coated) around the same time he joined Animals as Leaders in 2012
 - **2014** (Drums): Signature product: Pearl Matt Garstka Signature Snare — Released his Pearl signature snare (14"x5" maple with a unique bearing edge for ghost-note sensitivity), recorded on "The Joy of Motion" (2014) with producer Misha Mansoor
 - **2014** (Drumsticks): Signature product: Vic Firth Matt Garstka Signature Stick — Released his Vic Firth signature stick — an elongated taper for dynamic control, designed for his traditional-grip technique
 - **2021** (Drums): Switched from Pearl to DW — Switched from Pearl/Tama to a DW Collector's Series custom shop kit (mixed wood species and shell configurations, plus a DW Collector's Series Purpleheart snare) in September 2021, driven by a Tama Speed Cobra 910 double pedal
@@ -64,4 +65,4 @@ A: See the Endorsement History section above for a full timeline of Matt Garstka
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-10 · Source: [MetalForge.io](https://metalforge.io)*

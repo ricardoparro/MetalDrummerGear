@@ -7008,7 +7008,7 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     priceEvolution: [
-      { year: 1996, price: 3200, label: 'Joined Death / Control Denied', event: 'Handpicked by Chuck Schuldiner; began touring and recording with a Pearl Masters Custom kit' },
+      { year: 1996, price: 3200, label: 'Joined Death / Control Denied', event: "Handpicked by Chuck Schuldiner to join Death's touring lineup" },
       { year: 1998, price: 6183, label: 'Original Purchase', event: 'The Sound of Perseverance recorded at Morrisound — full Pearl Masters Custom / Sabian AA-AAX setup documented' },
       { year: 1999, price: 6183, label: 'The Fragile Art of Existence era', event: "Same rig carried into Control Denied's progressive metal sessions" },
       { year: 2003, price: 6800, label: 'Iced Earth era', event: 'Joined Iced Earth as touring and studio drummer; setup expanded for larger stage productions' },

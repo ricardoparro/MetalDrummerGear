@@ -30,13 +30,13 @@ Travis Orbin endorses DW for hardware / pedals. They play the DW 9000 Series Dou
 
 ## Endorsement History
 
-- **2009** (Drums): Signed with SJC — Built his SJC Custom double-bass kit while assembling Periphery's self-titled debut, the record that gave djent its technical vocabulary
-- **2010** (Cymbals): Signed with Zildjian — Paired his DW kit with Zildjian K Custom Dark and A Custom cymbals on Periphery's 2010 debut, a dark-under/bright-over setup built to cut through djent's mid-scooped guitar tone
+- **2009** (Drums): Signed with SJC — Built his SJC Custom double-bass kit during his run in Periphery's early formative lineup (2006-2009), before the band's self-titled debut that gave djent its technical vocabulary
+- **2010** (Cymbals): Signed with Zildjian — Paired his SJC kit with Zildjian K Custom Dark and A Custom cymbals for his post-Periphery solo and session work, a dark-under/bright-over setup built to cut through djent's mid-scooped guitar tone
 - **2010** (Drumsticks): Signed with Vic Firth — Settled on Vic Firth American Classic 5B sticks for the balance of accent power and ghost-note control his linear patterns require
 - **2010** (Drumheads): Signed with Evans — Moved to Evans EMAD / G2 Coated heads for the attack and durability his double-bass-heavy Periphery parts demand
 - **2010** (Hardware / Pedals): Signed with DW — Adopted a DW 9000 Series double pedal for the speed and feel his linear double-bass patterns require
 - **2011** (Electronics): Signed with Roland — Integrated a Roland SPD-SX sampling pad and bass drum trigger system on the "Icarus" EP, building the hybrid acoustic/electronic rig that defined his sound
-- **2016** (Drums): Renewed SJC deal — Remained an SJC/Zildjian endorsee after departing Periphery in 2012, carrying the same Custom kit and Roland trigger rig through his Sky Harbor and Darkest Hour session work and viral educational content
+- **2016** (Drums): Renewed SJC deal — Remained an SJC/Zildjian endorsee after departing Periphery in 2009, carrying the same Custom kit and Roland trigger rig through his Sky Harbor and Darkest Hour session work and viral educational content
 
 ## FAQ
 
@@ -59,4 +59,4 @@ A: See the Endorsement History section above for a full timeline of Travis Orbin
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-10 · Source: [MetalForge.io](https://metalforge.io)*

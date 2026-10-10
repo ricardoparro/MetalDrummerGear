@@ -2214,7 +2214,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: null,
         to: 'SJC',
-        notes: 'Built his SJC Custom double-bass kit while assembling Periphery\'s self-titled debut, the record that gave djent its technical vocabulary',
+        notes: 'Built his SJC Custom double-bass kit during his run in Periphery\'s early formative lineup (2006-2009), before the band\'s self-titled debut that gave djent its technical vocabulary',
       },
       {
         year: 2010,
@@ -2222,7 +2222,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.CYMBALS,
         from: null,
         to: 'Zildjian',
-        notes: 'Paired his DW kit with Zildjian K Custom Dark and A Custom cymbals on Periphery\'s 2010 debut, a dark-under/bright-over setup built to cut through djent\'s mid-scooped guitar tone',
+        notes: 'Paired his SJC kit with Zildjian K Custom Dark and A Custom cymbals for his post-Periphery solo and session work, a dark-under/bright-over setup built to cut through djent\'s mid-scooped guitar tone',
       },
       {
         year: 2010,
@@ -2261,7 +2261,7 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         brand: 'SJC',
-        notes: 'Remained an SJC/Zildjian endorsee after departing Periphery in 2012, carrying the same Custom kit and Roland trigger rig through his Sky Harbor and Darkest Hour session work and viral educational content',
+        notes: 'Remained an SJC/Zildjian endorsee after departing Periphery in 2009, carrying the same Custom kit and Roland trigger rig through his Sky Harbor and Darkest Hour session work and viral educational content',
       },
     ],
   },

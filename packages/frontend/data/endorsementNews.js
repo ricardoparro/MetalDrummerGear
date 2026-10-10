@@ -852,6 +852,14 @@ export const ENDORSEMENT_TIMELINE = {
         brand: 'Promark',
         notes: 'Signature drumstick deal with Promark',
       },
+      {
+        year: '2010s',
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Signed with Evans drumheads; exact year not publicly sourced',
+      },
     ],
   },
   'inferno': {

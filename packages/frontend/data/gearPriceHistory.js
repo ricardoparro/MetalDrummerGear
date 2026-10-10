@@ -4371,7 +4371,7 @@ export const GEAR_PRICE_HISTORY = {
     priceEvolution: [
       { year: 1994, price: 2068, label: 'Original Purchase', event: 'De Mysteriis Dom Sathanas recorded at Grieghallen Studio' },
       { year: 1999, price: 5500, label: 'Dimmu Borgir dual-era begins', event: 'Upgrade to Sonor SQ2 Heavy Beech; joins Dimmu Borgir while remaining Mayhem\'s drummer' },
-      { year: 2007, price: 8000, label: 'Ordo Ad Chao era', event: 'Axis double pedal adopted; Mayhem records without a bassist' },
+      { year: 2007, price: 8000, label: 'Ordo Ad Chao era', event: 'Ordo Ad Chao era — Mayhem records without a bassist, Axis double pedal (adopted 1999) in continued use' },
       { year: 2019, price: 9200, label: 'Daemon era', event: 'Paiste RUDE setup expanded; Sonor SQ2/Axis confirmed as current rig' },
       { year: 2026, price: 4571, label: 'Current adjusted', event: 'Inflation-adjusted value of original 1994 setup' },
     ],

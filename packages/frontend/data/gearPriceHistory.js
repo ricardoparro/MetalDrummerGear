@@ -9046,8 +9046,7 @@ export const GEAR_PRICE_HISTORY = {
 
     priceEvolution: [
       { year: 1995, price: 1506, label: 'Slaughter of the Soul Era', event: "Original Purchase — Pearl Export/Studio House budget kit used for At the Gates' genre-defining Slaughter of the Soul, recorded at Studio Fredman with Fredrik Nordström" },
-      { year: 1998, price: 3200, label: 'The Haunted & Cradle of Filth Era', event: "Founded The Haunted, then joined Cradle of Filth — switched from Pearl to Tama Starclassic, beginning a career-long brand relationship" },
-      { year: 2011, price: 5800, label: 'Paradise Lost Era', event: "Joined Paradise Lost, recording Draconian Times MMXI — upgraded to Tama Starclassic Bubinga, Sabian AAX/HHX cymbals, and a Monolit Czarcie Kopyto double pedal" },
+      { year: 2014, price: 5800, label: 'At War with Reality Era', event: "Switched from Pearl to Tama Starclassic Bubinga, Sabian AAX/HHX cymbals, and a Monolit Czarcie Kopyto double pedal for At the Gates' reunion album At War with Reality — the mature rig developed across his years with The Haunted, Cradle of Filth, and Paradise Lost" },
       { year: 2026, price: 3230, label: 'Current adjusted', event: "Inflation-adjusted value of the 1995 Slaughter of the Soul-era Pearl Export setup" },
     ],
 

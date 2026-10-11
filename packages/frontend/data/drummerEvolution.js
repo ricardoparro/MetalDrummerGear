@@ -7488,15 +7488,15 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Sonor SQ2',
+            item: 'Various kits (no single fixed brand documented)',
             details: 'Birch shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Sonor SQ2 — Dee became a Sonor Drums endorser during his King Diamond days, the start of a partnership that continues today. Birch shells provided the warm, powerful tone suited to King Diamond\'s melodic metal context.',
+            notes: 'No drum endorsement existed yet during the King Diamond years — Dee\'s Tama deal began in 1992 joining Motörhead, and his Sonor Drums endorsement came later still, in 2012. Birch-shell kits of the day provided the warm, powerful tone suited to King Diamond\'s melodic metal context.',
             change: null,
           },
           snare: {
-            item: 'Sonor Birch Snare 14"×5.5"',
+            item: 'Stock birch snare 14"×5.5"',
             details: 'Birch shell, sharp attack',
-            notes: 'Sonor snare for crisp, cutting attack across King Diamond\'s theatrically varied arrangements — from delicate passages to full-power climaxes.',
+            notes: 'No snare endorsement yet — chosen for crisp, cutting attack across King Diamond\'s theatrically varied arrangements, from delicate passages to full-power climaxes. Dee\'s Sonor signature snare didn\'t arrive until 2012.',
             change: null,
           },
           cymbals: {
@@ -7506,9 +7506,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Sonor Hardware, Double Pedal',
+            item: 'Standard hardware, double pedal',
             details: 'Cam-driven double pedal',
-            notes: 'Sonor hardware for double bass work in King Diamond\'s demanding technical arrangements — a step up from basic chain pedals.',
+            notes: 'No hardware endorsement yet during the King Diamond years — standard double pedal for double bass work in demanding technical arrangements, a step up from basic chain pedals.',
             change: null,
           },
           sticks: {
@@ -7533,7 +7533,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Joined King Diamond\'s band in 1988',
-          'Sonor SQ2 and Paiste Signature endorsements established',
+          'Paiste Signature endorsement established',
           'Them (1988) and Conspiracy (1989) — professional debut recordings',
           'Learned discipline of consistent performance within complex theatrical arrangements',
           'Foundation laid for the non-stop touring career that would define the following three decades',

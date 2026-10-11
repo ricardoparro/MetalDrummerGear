@@ -49,7 +49,7 @@ Kippo's adaptation to Sonic Pump Studios — handling the room's different refle
 
 Jaska Raatikainen's Zildjian A Custom and K Custom cymbal setup on *Blooddrunk* was the same configuration established on *Are You Dead Yet?* (2005), now fully settled and deployed in a more aggressive musical context that suited the A Custom's bright, cutting character particularly well.
 
-The Zildjian A Custom series' multi-stage lathing and brilliant finish produce a brighter, more immediately cutting sound than the Paiste 2002 of the Tama era — qualities that are an advantage in *Blooddrunk*'s more aggressive arrangements. The A Custom's fast attack and bright upper frequency presence allowed cymbal work to cut through Janne Wirman's keyboard-dense arrangements naturally, without post-processing, even at the higher velocities that *Blooddrunk*'s return to aggression demanded.
+The Zildjian A Custom series' multi-stage lathing and brilliant finish produce a brighter, more immediately cutting sound than the Zildjian A Series of the Tama era — qualities that are an advantage in *Blooddrunk*'s more aggressive arrangements. The A Custom's fast attack and bright upper frequency presence allowed cymbal work to cut through Janne Wirman's keyboard-dense arrangements naturally, without post-processing, even at the higher velocities that *Blooddrunk*'s return to aggression demanded.
 
 The A Custom 14" hi-hats' articulation through *Blooddrunk*'s faster passages — particularly on "Hellhounds on My Trail" and "LoBodomy" — demonstrates the setup's suitability for high-velocity playing. The multi-stage lathing delivers consistent stick response across the full surface at tempos where hi-hat articulation must register as distinct events rather than blurring into continuous texture.
 
@@ -94,7 +94,7 @@ A: Jaska Raatikainen used the Pearl Eliminator double pedal on *Blooddrunk* (200
 
 **Q: What cymbals did Jaska Raatikainen use on Blooddrunk?**
 
-A: On *Blooddrunk* (2008), Jaska Raatikainen used the established Zildjian A Custom and K Custom configuration — A Custom 14" hi-hats, A Custom crashes (17" and 18"), a K Custom 20" ride, and an A Custom 18" China. This was the same setup as *Are You Dead Yet?* (2005), now deployed in a more aggressive musical context where the A Custom's bright, cutting character suited *Blooddrunk*'s return to higher-velocity playing. For context on the Paiste 2002 era this setup replaced, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup).
+A: On *Blooddrunk* (2008), Jaska Raatikainen used the established Zildjian A Custom and K Custom configuration — A Custom 14" hi-hats, A Custom crashes (17" and 18"), a K Custom 20" ride, and an A Custom 18" China. This was the same setup as *Are You Dead Yet?* (2005), now deployed in a more aggressive musical context where the A Custom's bright, cutting character suited *Blooddrunk*'s return to higher-velocity playing. For context on the Zildjian A Series era this setup replaced, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup).
 
 **Q: How does Blooddrunk differ from Are You Dead Yet? in drum approach?**
 
@@ -114,4 +114,4 @@ A: *Blooddrunk* (2008) represents a deliberate return to the aggressive, high-ve
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-11 · Source: [MetalForge.io](https://metalforge.io)*

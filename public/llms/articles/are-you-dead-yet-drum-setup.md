@@ -14,7 +14,7 @@
 
 Released on September 26, 2005, *Are You Dead Yet?* is Children of Bodom's fifth full-length album and their most commercially successful record — debuting at number 56 on the Finnish charts and marking the point where the band's sound evolved toward broader accessibility without abandoning the technical foundation that defined their earlier work. Recorded at Astia Studio in Imatra, Finland with Anssi Kippo, the album documented a deliberate shift in approach: more mid-paced grooves, shorter song structures, and a streamlined production that brought CoB's sound to a wider audience.
 
-At the center of this evolution was Jaska Raatikainen's gear transition — the move from the Tama Starclassic era of *Hate Crew Deathroll* (2003) to a Pearl Masters Premium Maple setup with Zildjian A Custom cymbals and Pearl Eliminator double pedals. This was the beginning of the Pearl endorsement relationship that would define Raatikainen's setup for the remainder of Children of Bodom's career, and the combination produced a different tonal character: Pearl's more focused attack and Zildjian A Custom's multi-stage lathing bringing a brighter, more defined sound than the Tama/Paiste combination.
+At the center of this evolution was Jaska Raatikainen's gear transition — the move from the Tama Starclassic era of *Hate Crew Deathroll* (2003) to a Pearl Masters Premium Maple setup, paired with a switch from the Zildjian A Series he had used since *Hatebreeder* to Zildjian A Custom / K Custom cymbals and Pearl Eliminator double pedals. This was the beginning of the Pearl endorsement relationship that would define Raatikainen's setup for the remainder of Children of Bodom's career, and the combination produced a different tonal character: Pearl's more focused attack and Zildjian A Custom's multi-stage lathing bringing a brighter, more defined sound than the Tama/A Series combination.
 
 *Are You Dead Yet?* sits at the mid-point of the Jaska Raatikainen discovery arc: it fills the gear transition gap between the Tama Starclassic era (*Hate Crew Deathroll*, 2003) and the established Pearl Masters years (*Blooddrunk*, 2008). This article breaks down every component of Raatikainen's setup on *Are You Dead Yet?* — the Pearl Masters Premium Maple shells, the Zildjian A Custom cymbal selection, the Pearl Eliminator double pedal, and the adjusted stylistic approach behind CoB's most commercially successful record.
 
@@ -45,19 +45,19 @@ The Pearl Masters snare's character suited the more groove-oriented arrangements
 
 Ghost notes and dynamic snare work are more prominent on *Are You Dead Yet?* than on any previous CoB album — reflecting both the more groove-centred song structures and the Pearl snare's natural dynamics across a wider dynamic range than blast-and-fill-dominated playing requires.
 
-### Zildjian A Custom: The Transition from Paiste to Zildjian's Precision Series
+### Zildjian A Custom: The Transition from A Series to Zildjian's Precision Series
 
-Jaska Raatikainen's cymbal setup on *Are You Dead Yet?* marked the second major cymbal transition of his Children of Bodom career — from the Paiste 2002 / Sound Edge combination of the Tama era to Zildjian A Custom and K Custom, a combination that would define his sound through the remainder of CoB's catalog.
+Jaska Raatikainen's cymbal setup on *Are You Dead Yet?* marked the only cymbal transition of his Children of Bodom career to date — from the Zildjian A Series he had used since *Hatebreeder* (1999) to Zildjian A Custom and K Custom, a combination that would define his sound through the remainder of CoB's catalog.
 
-The Zildjian A Custom series uses a multi-stage lathing process that produces a brighter, more defined sound than the Paiste 2002's character — more cutting in the upper frequencies, with a faster decay that keeps the cymbal mix clean in dense arrangements. Where the Paiste 2002's CuSn8 alloy produced warmth alongside brightness, the A Custom's B20 bronze with brilliant finish delivers precision and immediacy. This transition is part of what gives *Are You Dead Yet?* its different sonic character compared to the Tama-era albums.
+The Zildjian A Custom series uses a multi-stage lathing process that produces a brighter, more defined sound than the A Series' character — more cutting in the upper frequencies, with a faster decay that keeps the cymbal mix clean in dense arrangements. Where the A Series' B20 bronze with traditional lathing produced a classic bright, responsive sound, the A Custom's B20 bronze with brilliant finish delivers greater precision and immediacy. This transition is part of what gives *Are You Dead Yet?* its different sonic character compared to the Tama-era albums.
 
-The A Custom 14" hi-hats provided the articulation foundation for *Are You Dead Yet?*'s more groove-centred rhythmic approach. The multi-stage lathing gave a faster, more defined chick sound than the Paiste Sound Edge — clean and present at the tempos the album favoured without becoming harsh.
+The A Custom 14" hi-hats provided the articulation foundation for *Are You Dead Yet?*'s more groove-centred rhythmic approach. The multi-stage lathing gave a faster, more defined chick sound than the A Series — clean and present at the tempos the album favoured without becoming harsh.
 
-The Zildjian K Custom 20" ride brought a darker, more complex character into the setup — its warmer bell and body sound creating a different textural dimension from the Paiste 2002 ride's brighter character. This combination of A Custom crashes and K Custom ride is a classic Zildjian pairing that balances cut and warmth across different cymbal functions.
+The Zildjian K Custom 20" ride brought a darker, more complex character into the setup — its warmer bell and body sound creating a different textural dimension from the A Series ride's brighter character. This combination of A Custom crashes and K Custom ride is a classic Zildjian pairing that balances cut and warmth across different cymbal functions.
 
 ## The Commercial Pivot: Are You Dead Yet? and the Beginning of the Pearl Era
 
-*Are You Dead Yet?* (2005) is the most significant gear transition album in Jaska Raatikainen's discography — the record where the Tama Starclassic / Paiste 2002 combination that defined CoB's most celebrated era gave way to the Pearl Masters / Zildjian A Custom setup that would carry through the remainder of the band's career. It also documents the most deliberate artistic evolution in the band's approach: a conscious move toward accessibility, groove, and commercial appeal from the technical extremity of *Follow the Reaper* and *Hate Crew Deathroll*.
+*Are You Dead Yet?* (2005) is the most significant gear transition album in Jaska Raatikainen's discography — the record where the Tama Starclassic / Zildjian A Series combination that defined CoB's most celebrated era gave way to the Pearl Masters / Zildjian A Custom setup that would carry through the remainder of the band's career. It also documents the most deliberate artistic evolution in the band's approach: a conscious move toward accessibility, groove, and commercial appeal from the technical extremity of *Follow the Reaper* and *Hate Crew Deathroll*.
 
 The drumming on *Are You Dead Yet?* rewards careful listening precisely because it is not the most technically demanding Raatikainen performance — it is the most stylistically adaptive. Tracks like "Living Dead Beat" and "Are You Dead Yet?" demonstrate his ability to serve groove-oriented arrangements with the same precision and musical intelligence he brought to blast-beat-dominant compositions. The Pearl Eliminator's cam-adjustable response and the A Custom's bright precision were the right tools for this broader brief.
 
@@ -71,7 +71,7 @@ For the complete picture of how this album fits within Jaska Raatikainen's gear 
 - Released September 26, 2005 — Children of Bodom's fifth album and most commercially successful
 - Debuted at #56 on Finnish charts — CoB's commercial peak at the time
 - Jaska Raatikainen's debut on Pearl Masters Premium Maple — beginning of the Pearl endorsement era
-- Zildjian A Custom cymbals — transition from the Paiste 2002 era of Hate Crew Deathroll
+- Zildjian A Custom / K Custom cymbals — switch from the Zildjian A Series used since Hatebreeder through Hate Crew Deathroll
 - Pearl Eliminator double pedal — replaces the Tama Iron Cobra of the Tama era
 - Recorded at Astia Studio with Anssi Kippo — same team, evolving production approach
 - Pearl Masters Premium Maple — debut Pearl album for Raatikainen, beginning of endorsement era
@@ -94,7 +94,7 @@ A: Jaska Raatikainen used the Pearl Eliminator double pedal on *Are You Dead Yet
 
 **Q: What cymbals did Jaska Raatikainen use on Are You Dead Yet?**
 
-A: On *Are You Dead Yet?* (2005), Jaska Raatikainen used Zildjian A Custom and K Custom cymbals — specifically A Custom 14" hi-hats, A Custom crashes (17" and 18"), a K Custom 20" ride, and an A Custom 18" China. This marked the transition from the Paiste 2002 / Sound Edge combination of the *Hate Crew Deathroll* (2003) sessions. The A Custom's multi-stage lathing brought a brighter, more defined character than the Paiste 2002's CuSn8 alloy. For more context on how this setup evolved, see the [Blooddrunk drum setup article](/articles/blooddrunk-drum-setup).
+A: On *Are You Dead Yet?* (2005), Jaska Raatikainen used Zildjian A Custom and K Custom cymbals — specifically A Custom 14" hi-hats, A Custom crashes (17" and 18"), a K Custom 20" ride, and an A Custom 18" China. This marked the switch from the Zildjian A Series he had used continuously since *Hatebreeder* (1999) through the *Hate Crew Deathroll* (2003) sessions. The A Custom's multi-stage lathing brought a brighter, more defined character than the A Series' traditional lathing. For more context on how this setup evolved, see the [Blooddrunk drum setup article](/articles/blooddrunk-drum-setup).
 
 **Q: Why is Are You Dead Yet? different from earlier CoB albums?**
 
@@ -114,4 +114,4 @@ A: *Are You Dead Yet?* (2005) represented a deliberate shift in Children of Bodo
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-11 · Source: [MetalForge.io](https://metalforge.io)*

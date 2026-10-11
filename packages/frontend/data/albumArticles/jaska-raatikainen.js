@@ -490,7 +490,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Jaska Raatikainen use on Something Wild?",
-        "answer": "On *Something Wild* (1997), Jaska Raatikainen used Zildjian A Series cymbals — a pre-endorsement selection that preceded the Paiste configurations documented on later CoB albums and the eventual Zildjian A Custom / K Custom pairing of his Pearl endorsement era. The A Series setup included 14\" A hi-hats, A crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China. The Zildjian A's B20 bronze alloy and traditional lathing delivered the natural brightness and cut that melodic death metal requires in keyboard-heavy arrangements."
+        "answer": "On *Something Wild* (1997), Jaska Raatikainen used Zildjian A Series cymbals — a pre-endorsement selection that continued through *Hatebreeder*, *Follow the Reaper*, and *Hate Crew Deathroll* before the eventual Zildjian A Custom / K Custom switch of his Pearl endorsement era in 2005. The A Series setup included 14\" A hi-hats, A crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China. The Zildjian A's B20 bronze alloy and traditional lathing delivered the natural brightness and cut that melodic death metal requires in keyboard-heavy arrangements."
       }
     ],
     "evolution": {
@@ -722,7 +722,7 @@ export const articles = {
       "keyPoints": [
         "Recorded at Astia Studio, Imatra — Anssi Kippo's first major CoB production",
         "Jaska Raatikainen, age 19 — early Tama configuration before the Starclassic era",
-        "Zildjian A Series cymbals throughout — pre-endorsement, pre-Paiste period",
+        "Zildjian A Series cymbals throughout — pre-endorsement, continuing through Follow the Reaper and Hate Crew Deathroll",
         "DW 5000 double pedal — chain-drive foundation for the neo-classical double-kick approach",
         "\"Downfall\" and \"Children of Decadence\" showcase the earliest expression of CoB's drum language",
         "Entry point for the Jaska Raatikainen discovery cluster: debut album, youngest major Finnish metal lineup"
@@ -914,7 +914,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Jaska Raatikainen use on Hatebreeder?",
-        "answer": "On *Hatebreeder* (1999), Jaska Raatikainen used Zildjian A Series cymbals throughout — a pre-endorsement setup that preceded the Paiste 2002 combination documented on *Hate Crew Deathroll* (2003) and the later Zildjian A Custom / K Custom pairing of his Pearl endorsement era. The A Series setup included 14\" A hi-hats, A crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China. The Zildjian A's brightness and natural cut through the mix made them well-suited to Astia Studio's keyboard-heavy recording environment. For context on how this setup evolved across CoB's career, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup)."
+        "answer": "On *Hatebreeder* (1999), Jaska Raatikainen used Zildjian A Series cymbals throughout — a pre-endorsement setup that continued through *Follow the Reaper* (2000) and *Hate Crew Deathroll* (2003) before he switched to Zildjian A Custom / K Custom in 2005 for *Are You Dead Yet?*. The A Series setup included 14\" A hi-hats, A crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China. The Zildjian A's brightness and natural cut through the mix made them well-suited to Astia Studio's keyboard-heavy recording environment. For context on how this setup evolved across CoB's career, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup)."
       },
       {
         "question": "What is the drumming style on Hatebreeder?",
@@ -923,7 +923,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Hatebreeder to Hate Crew Deathroll: The Early Gear Arc",
-      "content": "*Hatebreeder* (1999) captures Jaska Raatikainen at the very start of his professional drum career — the early Tama configuration and DW 5000 double pedal represent the gear foundation from which his more documented setups evolved. The arc from this album to *Hate Crew Deathroll* (2003) is the most significant gear transition of his career.\n\n**The Hatebreeder Era (1999):**\nEarly Tama maple configuration, Zildjian A Series cymbals, DW 5000 double pedal. This combination produced the raw, direct drum sound of CoB's debut era — present attack, Zildjian brightness, and the DW 5000's foundational double-kick engine. Recorded at Astia Studio with Anssi Kippo, who would remain a key figure in Finnish metal production.\n\n**The Starclassic Transition (approximately 2000–2003):**\nBy *Follow the Reaper* (2000) and solidified on *Hate Crew Deathroll* (2003), Raatikainen had moved to the Tama Starclassic Maple — a significant upgrade in shell construction. Simultaneously, his cymbal setup shifted to Paiste 2002 and Sound Edge, and his pedals moved to the Tama Iron Cobra. The Starclassic's six-ply construction and Paiste 2002's CuSn8 alloy character produced the more refined, polished drum sound that defined CoB's commercial peak.\n\n**The Pearl Era (2004 onward):**\nBeginning approximately with *Are You Dead Yet?* (2005), Raatikainen moved to Pearl Masters Premium Maple drums and Zildjian A Custom / K Custom cymbals — the setup most associated with his mid-to-late career CoB work. The *Hatebreeder* setup is therefore the origin point: the earliest documented major studio configuration before any of the brand transitions that followed.",
+      "content": "*Hatebreeder* (1999) captures Jaska Raatikainen at the very start of his professional drum career — the early Tama configuration and DW 5000 double pedal represent the gear foundation from which his more documented setups evolved. The arc from this album to *Hate Crew Deathroll* (2003) is the most significant drum-kit transition of his career, though his cymbal choice stayed constant across it.\n\n**The Hatebreeder Era (1999):**\nEarly Tama maple configuration, Zildjian A Series cymbals, DW 5000 double pedal. This combination produced the raw, direct drum sound of CoB's debut era — present attack, Zildjian brightness, and the DW 5000's foundational double-kick engine. Recorded at Astia Studio with Anssi Kippo, who would remain a key figure in Finnish metal production.\n\n**The Starclassic Transition (approximately 2000–2003):**\nBy *Follow the Reaper* (2000) and solidified on *Hate Crew Deathroll* (2003), Raatikainen had moved to the Tama Starclassic Maple — a significant upgrade in shell construction — and his pedals moved to the Tama Iron Cobra. His cymbals remained Zildjian A Series throughout this period, unchanged from *Hatebreeder*. The Starclassic's six-ply construction and the Iron Cobra's cam geometry produced the more refined, polished drum sound that defined CoB's commercial peak.\n\n**The Pearl Era (2004 onward):**\nBeginning approximately with *Are You Dead Yet?* (2005), Raatikainen moved to Pearl Masters Premium Maple drums and switched his cymbals from Zildjian A Series to Zildjian A Custom / K Custom — the setup most associated with his mid-to-late career CoB work. The *Hatebreeder* setup is therefore the origin point: the earliest documented major studio configuration before any of the brand transitions that followed.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1099,7 +1099,7 @@ export const articles = {
               "name": "What cymbals did Jaska Raatikainen use on Hatebreeder?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Jaska Raatikainen used Zildjian A Series cymbals on Hatebreeder (1999) — including 14\" A hi-hats, A crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China. This predates the Paiste 2002 setup documented on Hate Crew Deathroll (2003) and his later Zildjian A Custom endorsement era."
+                "text": "Jaska Raatikainen used Zildjian A Series cymbals on Hatebreeder (1999) — including 14\" A hi-hats, A crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China. The same A Series setup continued through Hate Crew Deathroll (2003) before his later Zildjian A Custom / K Custom endorsement era began in 2005."
               }
             },
             {
@@ -1116,7 +1116,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Album That Started Everything: Hatebreeder and the CoB Drum Legacy",
-      "content": "*Hatebreeder* (1999) is where Jaska Raatikainen's approach to melodic death metal drumming first found full expression in a major studio context. The early Tama configuration, Zildjian A Series cymbals, and DW 5000 double pedal were not a finished setup — they were a starting point, the gear foundation from which the Starclassic Maple and Paiste 2002 era, and later the Pearl Masters years, would evolve. But the drumming language was already complete.\n\nWhat makes *Hatebreeder* worth studying as a drum record is exactly what makes it the entry point for the Jaska Raatikainen discovery cluster: it captures the CoB approach before refinement, at its most direct and energetic. The rawer Astia Studio production, the brightness of the Zildjian A Series against the dense keyboard arrangements, the DW 5000's foundational double-kick engine — these elements create a drum sound with a character distinct from the more polished *Hate Crew Deathroll* recording, and that distinction is musically meaningful.\n\n**For Drummers Studying Hatebreeder:**\nStart with \"Towards Dead End\" for the double-kick foundation: count the patterns against the keyboard lines, observe how the bass drum placement locks with the rhythm rather than simply underlining it. Then move to \"Children of Decadence\" for the fill language: track the tom phrases against Janne Wirman's keyboard runs, hear how each fill functions as melodic counterpoint. Finally, listen to \"Downfall\" for the full dynamic range — the contrast from verse restraint to the album's climactic close shows the compositional thinking that was already present at age 19.\n\n**The Gear Legacy:**\nThe DW 5000 double pedal remains in production and remains respected as one of metal drumming's foundational chain-drive options. Zildjian A Series cymbals have been continuous for decades — the same B20 alloy and traditional lathing that Raatikainen used on *Hatebreeder* are available today.\n\nFor Jaska Raatikainen's complete gear evolution — from the DW 5000 era through the Tama Starclassic years and into the Pearl Masters decade — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup)."
+      "content": "*Hatebreeder* (1999) is where Jaska Raatikainen's approach to melodic death metal drumming first found full expression in a major studio context. The early Tama configuration, Zildjian A Series cymbals, and DW 5000 double pedal were not a finished setup — they were a starting point, the gear foundation from which the Starclassic Maple era, and later the Pearl Masters years, would evolve. But the drumming language was already complete.\n\nWhat makes *Hatebreeder* worth studying as a drum record is exactly what makes it the entry point for the Jaska Raatikainen discovery cluster: it captures the CoB approach before refinement, at its most direct and energetic. The rawer Astia Studio production, the brightness of the Zildjian A Series against the dense keyboard arrangements, the DW 5000's foundational double-kick engine — these elements create a drum sound with a character distinct from the more polished *Hate Crew Deathroll* recording, and that distinction is musically meaningful.\n\n**For Drummers Studying Hatebreeder:**\nStart with \"Towards Dead End\" for the double-kick foundation: count the patterns against the keyboard lines, observe how the bass drum placement locks with the rhythm rather than simply underlining it. Then move to \"Children of Decadence\" for the fill language: track the tom phrases against Janne Wirman's keyboard runs, hear how each fill functions as melodic counterpoint. Finally, listen to \"Downfall\" for the full dynamic range — the contrast from verse restraint to the album's climactic close shows the compositional thinking that was already present at age 19.\n\n**The Gear Legacy:**\nThe DW 5000 double pedal remains in production and remains respected as one of metal drumming's foundational chain-drive options. Zildjian A Series cymbals have been continuous for decades — the same B20 alloy and traditional lathing that Raatikainen used on *Hatebreeder* are available today.\n\nFor Jaska Raatikainen's complete gear evolution — from the DW 5000 era through the Tama Starclassic years and into the Pearl Masters decade — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup)."
     }
   },
   "hate-crew-deathroll-drum-setup": {
@@ -1136,26 +1136,26 @@ export const articles = {
     "dateModified": "2026-06-24",
     "author": "MetalForge Editorial",
     "title": "Hate Crew Deathroll Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2003 Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hate Crew Deathroll (2003). Complete breakdown of the Tama Starclassic Maple kit, Paiste 2002 cymbals, and Iron Cobra double pedals behind CoB's commercial and critical peak.",
+    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hate Crew Deathroll (2003). Complete breakdown of the Tama Starclassic Maple kit, Zildjian A Series cymbals, and Iron Cobra double pedals behind CoB's commercial and critical peak.",
     "seoKeywords": [
       "hate crew deathroll drums",
       "jaska raatikainen drum setup",
       "children of bodom drum kit",
       "jaska raatikainen tama",
       "hate crew deathroll recording gear",
-      "jaska raatikainen paiste",
+      "jaska raatikainen zildjian",
       "children of bodom 2003 drums",
       "jaska raatikainen iron cobra"
     ],
     "ogImage": "/images/albums/hate-crew-deathroll-drums.webp",
     "intro": {
       "title": "Finland's Finest: The Drum Kit Behind Hate Crew Deathroll",
-      "content": "Released on January 13, 2003, *Hate Crew Deathroll* is widely regarded as Children of Bodom's commercial and critical peak — the album that brought Finnish melodic death metal to a global audience. Debuting at number one on the Finnish charts and charting across Europe, it demonstrated that the neoclassical-meets-death-metal fusion Alexi Laiho and Jaska Raatikainen had been developing since the mid-1990s could cross over without compromise.\n\nAt the center of the album's relentless momentum was Jaska Raatikainen, co-founder and drummer since the band's formation. Recorded at Finnvox Studios in Helsinki under mixing engineers Mikko Karmila and Anssi Kippo — the production team behind some of the most important Finnish metal records of the era — the album captured Raatikainen's drumming with a clarity and precision that earlier releases had approached but never fully achieved.\n\nFor *Hate Crew Deathroll*, Raatikainen played a Tama Starclassic Maple kit — a departure from his later Pearl endorsement era and a setup that gave the album its distinctive drum character. Paired with Paiste 2002 cymbals and Tama Iron Cobra double pedals, the combination delivered both the velocity required for the album's fastest passages and the musical sensitivity needed to serve Jaska Wirman's keyboard countermelodies and Alexi Laiho's neoclassical guitar runs.\n\nThis article breaks down every component of Jaska Raatikainen's drum setup on *Hate Crew Deathroll*: the Tama Starclassic Maple shells, the Paiste 2002 cymbal selection, the Iron Cobra double pedal, and the stylistic approach that made this album a landmark in melodic death metal drumming.",
+      "content": "Released on January 13, 2003, *Hate Crew Deathroll* is widely regarded as Children of Bodom's commercial and critical peak — the album that brought Finnish melodic death metal to a global audience. Debuting at number one on the Finnish charts and charting across Europe, it demonstrated that the neoclassical-meets-death-metal fusion Alexi Laiho and Jaska Raatikainen had been developing since the mid-1990s could cross over without compromise.\n\nAt the center of the album's relentless momentum was Jaska Raatikainen, co-founder and drummer since the band's formation. Recorded at Finnvox Studios in Helsinki under mixing engineers Mikko Karmila and Anssi Kippo — the production team behind some of the most important Finnish metal records of the era — the album captured Raatikainen's drumming with a clarity and precision that earlier releases had approached but never fully achieved.\n\nFor *Hate Crew Deathroll*, Raatikainen played a Tama Starclassic Maple kit — a departure from his later Pearl endorsement era and a setup that gave the album its distinctive drum character. Paired with the same Zildjian A Series cymbals he had used since *Hatebreeder* and Tama Iron Cobra double pedals, the combination delivered both the velocity required for the album's fastest passages and the musical sensitivity needed to serve Jaska Wirman's keyboard countermelodies and Alexi Laiho's neoclassical guitar runs.\n\nThis article breaks down every component of Jaska Raatikainen's drum setup on *Hate Crew Deathroll*: the Tama Starclassic Maple shells, the Zildjian A Series cymbal selection, the Iron Cobra double pedal, and the stylistic approach that made this album a landmark in melodic death metal drumming.",
       "keyPoints": [
         "Debuted at #1 on Finnish charts — Children of Bodom's commercial and critical peak",
         "Recorded at Finnvox Studios, Helsinki — mixed by Mikko Karmila and Anssi Kippo",
         "Tama Starclassic Maple kit — distinct from Raatikainen's later Pearl endorsement era",
-        "Paiste 2002 cymbals and Tama Iron Cobra double pedals throughout the sessions",
+        "Zildjian A Series cymbals (unchanged since Hatebreeder) and Tama Iron Cobra double pedals throughout the sessions",
         "Tracks like \"Needled 24/7\" and \"Sixpounder\" set new benchmarks for melodic death metal drumming",
         "Album opened the Children of Bodom / melodic death metal cluster to a global audience"
       ]
@@ -1201,43 +1201,43 @@ export const articles = {
       "estimatedValue": "$350–550 (Tama Starclassic maple snare, 2003)"
     },
     "cymbals": {
-      "title": "Paiste 2002 and Sound Edge: Volume, Cut, and Character",
-      "brand": "Paiste",
-      "series": "Paiste 2002 / Paiste Sound Edge",
+      "title": "Zildjian A Series: Brightness and Cut, Unchanged Since Hatebreeder",
+      "brand": "Zildjian",
+      "series": "Zildjian A Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste Sound Edge 14\" Hi-Hats",
+          "model": "Zildjian A 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Rippled bottom cymbal for tight chick and clean articulation at high tempos"
+          "notes": "Fast, cutting response for rapid 16th-note patterns at high tempos"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 16\" Crash",
+          "model": "Zildjian A 16\" Crash",
           "position": "Left of hi-hats",
           "notes": "Fast, cutting crash for accent work in tight melodic passages"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 18\" Crash",
+          "model": "Zildjian A 18\" Crash",
           "position": "Right of rack toms",
           "notes": "Fuller crash for section endings and high-intensity moments"
         },
         {
           "type": "Ride",
-          "model": "Paiste 2002 20\" Ride",
+          "model": "Zildjian A 20\" Ride",
           "position": "Far right",
           "notes": "Versatile ride — bell for accents, bow for sustained patterns"
         },
         {
           "type": "China",
-          "model": "Paiste 2002 18\" China",
+          "model": "Zildjian A 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive upward-cutting accent — punctuates blast beat sections and riff transitions"
         }
       ],
-      "description": "Jaska Raatikainen's cymbal setup on *Hate Crew Deathroll* centered on Paiste's 2002 series with Paiste Sound Edge hi-hats — a combination that delivered the volume, cut, and musical character that melodic death metal demands.\n\nThe Paiste 2002 line has been a fixture in rock and heavy metal since the 1970s. Its CuSn8 bronze alloy produces a bright, cutting sound with enough warmth in the sustain to avoid harshness — qualities that made it the choice of Lars Ulrich on *Kill 'Em All* (1983) and Dave Lombardo on *Reign in Blood* (1986), and that suited Raatikainen's melodic death metal application equally well. In the dense, keyboard-heavy arrangements on *Hate Crew Deathroll*, cymbals that cut naturally through the mix without requiring aggressive EQ were essential.\n\nThe Paiste Sound Edge 14\" hi-hats paired a standard top cymbal with a rippled-edge bottom, creating a distinct \"chick\" sound with faster air release than traditional hi-hat designs. At the tempos Raatikainen plays on tracks like \"Needled 24/7\" and \"Sixpounder\" — often exceeding 200 BPM — hi-hat articulation at every sixteenth note demands that each stroke register cleanly. The Sound Edge design supported that precision, with consistent stick response across the full surface.\n\nThe two Paiste 2002 crashes (16\" and 18\") gave Raatikainen tonal variety for accents. The 16\" provided the fast, explosive response needed for syncopated accents in tight melodic passages, while the 18\" delivered the fuller sound for section boundaries and climactic builds. The 20\" ride served both time-keeping and accent functions — the bell providing aggressive punctuation during keyboard-driven passages. The 18\" China china cymbal added the trashy, upward-cutting attack essential to Children of Bodom's most aggressive moments, deployed at structural transitions rather than continuously.",
-      "estimatedValue": "$1,200–1,800 (full Paiste 2002 + Sound Edge setup, 2003)"
+      "description": "Jaska Raatikainen's cymbal setup on *Hate Crew Deathroll* carried forward the same Zildjian A Series he had used since *Hatebreeder* (1999) — a combination that delivered the volume, cut, and musical character that melodic death metal demands.\n\nThe Zildjian A Series has been a fixture across rock and metal for decades. Its B20 bronze alloy and traditional lathing produce a bright, immediately responsive sound with clear attack and consistent sustain — qualities essential in dense, keyboard-heavy arrangements where cymbals must cut through the mix naturally rather than relying on post-production enhancement. In the dense, keyboard-heavy arrangements on *Hate Crew Deathroll*, cymbals that cut naturally through the mix without requiring aggressive EQ were essential.\n\nThe Zildjian A 14\" hi-hats provided the articulation foundation for Raatikainen's rhythmic work. At the tempos Raatikainen plays on tracks like \"Needled 24/7\" and \"Sixpounder\" — often exceeding 200 BPM — hi-hat articulation at every sixteenth note demands that each stroke register cleanly. The A Series' responsive, bright character supported that precision, with consistent stick response across the full surface.\n\nThe two A Series crashes (16\" and 18\") gave Raatikainen tonal variety for accents. The 16\" provided the fast, explosive response needed for syncopated accents in tight melodic passages, while the 18\" delivered the fuller sound for section boundaries and climactic builds. The 20\" ride served both time-keeping and accent functions — the bell providing aggressive punctuation during keyboard-driven passages. The 18\" A China added the trashy, upward-cutting attack essential to Children of Bodom's most aggressive moments, deployed at structural transitions rather than continuously.",
+      "estimatedValue": "$900–1,400 (full Zildjian A Series setup, 2003)"
     },
     "hardware": {
       "title": "Tama Iron Cobra: The Double Kick Engine of Hate Crew Deathroll",
@@ -1277,11 +1277,11 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording at Finnvox: Capturing Melodic Death Metal's Commercial Peak",
-      "content": "By 2003, Finnvox Studios in Helsinki had become the definitive home for Finnish heavy metal production. Mixing engineers Mikko Karmila and Anssi Kippo had built their reputation on albums including Nightwish's *Wishmaster* and HIM's early work, and their approach suited Children of Bodom's dense, keyboard-saturated arrangements perfectly.\n\n**Drum Isolation and Shell Capture:**\nRaatikainen's Tama Starclassic Maple kit was recorded with close miking on each shell — Sennheiser MD421s on toms and a Shure SM57 / AKG combination on snare — to capture the attack and definition that Starclassic shells produce naturally. Room mics provided controlled ambience without washing out the precision of the double-kick work.\n\n**Kick Drum Treatment:**\nThe double bass configuration presented a mix challenge: two 22\" kick drums producing sustained low-frequency information across fast patterns risked muddying the mix. Karmila addressed this by focusing kick EQ on the upper attack transient (around 100–200 Hz punch) rather than sub-bass frequencies, allowing the kick to be heard as rhythmic information rather than sonic weight in the final mix. The result is a kick drum sound on *Hate Crew Deathroll* that remains intelligible even during \"Needled 24/7\"'s most relentless double-bass passages.\n\n**Cymbal Balance in a Keyboard-Dense Mix:**\nJanne Wirman's keyboards occupied substantial frequency space on every track. The Paiste 2002 cymbals' natural cut through the upper midrange allowed the cymbal tracks to sit in the mix without competing directly with keyboard harmonics, a tonal advantage of the 2002's CuSn8 alloy over softer bronze alternatives.\n\n**Performance Approach:**\nLike most Children of Bodom recordings, the *Hate Crew Deathroll* sessions prioritized complete takes over composite tracking. Raatikainen's ability to maintain consistent feel and accuracy across full-song performances — often at extreme tempos — was a defining characteristic of his studio contribution to the album.",
+      "content": "By 2003, Finnvox Studios in Helsinki had become the definitive home for Finnish heavy metal production. Mixing engineers Mikko Karmila and Anssi Kippo had built their reputation on albums including Nightwish's *Wishmaster* and HIM's early work, and their approach suited Children of Bodom's dense, keyboard-saturated arrangements perfectly.\n\n**Drum Isolation and Shell Capture:**\nRaatikainen's Tama Starclassic Maple kit was recorded with close miking on each shell — Sennheiser MD421s on toms and a Shure SM57 / AKG combination on snare — to capture the attack and definition that Starclassic shells produce naturally. Room mics provided controlled ambience without washing out the precision of the double-kick work.\n\n**Kick Drum Treatment:**\nThe double bass configuration presented a mix challenge: two 22\" kick drums producing sustained low-frequency information across fast patterns risked muddying the mix. Karmila addressed this by focusing kick EQ on the upper attack transient (around 100–200 Hz punch) rather than sub-bass frequencies, allowing the kick to be heard as rhythmic information rather than sonic weight in the final mix. The result is a kick drum sound on *Hate Crew Deathroll* that remains intelligible even during \"Needled 24/7\"'s most relentless double-bass passages.\n\n**Cymbal Balance in a Keyboard-Dense Mix:**\nJanne Wirman's keyboards occupied substantial frequency space on every track. The Zildjian A Series' natural brightness and cut through the upper midrange allowed the cymbal tracks to sit in the mix without competing directly with keyboard harmonics, a tonal advantage of the A Series' lathing profile over softer bronze alternatives.\n\n**Performance Approach:**\nLike most Children of Bodom recordings, the *Hate Crew Deathroll* sessions prioritized complete takes over composite tracking. Raatikainen's ability to maintain consistent feel and accuracy across full-song performances — often at extreme tempos — was a defining characteristic of his studio contribution to the album.",
       "keyTechniques": [
         "Close miking of Tama Starclassic shells for attack definition in dense mix",
         "Kick EQ focused on upper attack (100–200 Hz) to maintain intelligibility in double-bass passages",
-        "Paiste 2002 cymbals' natural cut reduced post-processing needed to balance against keyboards",
+        "Zildjian A Series cymbals' natural cut reduced post-processing needed to balance against keyboards",
         "Full-song performance takes preserved feel and momentum across complete tracks"
       ]
     },
@@ -1293,10 +1293,10 @@ export const articles = {
         "highlights": [
           "Album opener and definitive showcase of Raatikainen's double-kick velocity",
           "Sustained double-bass patterns throughout at extreme tempo — Iron Cobra precision essential",
-          "Hi-hat articulation remains clean at 200+ BPM — Sound Edge design at work",
+          "Hi-hat articulation remains clean at 200+ BPM — Zildjian A hi-hats at work",
           "Blast beat sections alternate with groove passages, demonstrating dynamic control"
         ],
-        "gearNotes": "The Iron Cobra's consistent response across the full track is the foundational gear requirement. The Sound Edge hi-hats articulate every sixteenth note clearly in the final mix."
+        "gearNotes": "The Iron Cobra's consistent response across the full track is the foundational gear requirement. The Zildjian A hi-hats articulate every sixteenth note clearly in the final mix."
       },
       {
         "track": "Sixpounder",
@@ -1305,7 +1305,7 @@ export const articles = {
         "highlights": [
           "Relentless tempo with neoclassical guitar runs requiring precise fill synchronization",
           "Tom fills follow Alexi Laiho's melodic lines — Starclassic maple sustain serves the melodic phrases",
-          "Paiste 2002 crashes land on structurally significant beats — deliberate, not decorative",
+          "Zildjian A crashes land on structurally significant beats — deliberate, not decorative",
           "Double-kick pattern shifts support rhythmic interplay with Janne Wirman's keyboard lines"
         ],
         "gearNotes": "The Starclassic Maple toms' even sustain makes the melody-following fill work audible and musical in the mix, rather than disappearing into the guitar layer."
@@ -1320,7 +1320,7 @@ export const articles = {
           "China cymbal deployed for riff-accent work, punctuating the heaviest guitar sections",
           "Snare ghost notes audible in verses — melodic death metal's jazz-influenced sensitivity"
         ],
-        "gearNotes": "The Paiste 2002 China's aggressive character is prominent in the verse riff accents. Snare ghost notes confirm the maple shell's dynamic range from whisper to full-force."
+        "gearNotes": "The Zildjian A China's aggressive character is prominent in the verse riff accents. Snare ghost notes confirm the maple shell's dynamic range from whisper to full-force."
       },
       {
         "track": "Hate Crew Deathroll",
@@ -1332,7 +1332,7 @@ export const articles = {
           "Multiple time feel transitions demonstrate musical range beyond pure speed",
           "Ride cymbal deployed for textural variation in the album's concluding section"
         ],
-        "gearNotes": "The 20\" Paiste 2002 ride's bell gives articulation to the rhythmic figures in the title track's climactic section — a deliberate choice over crash-only accent work."
+        "gearNotes": "The 20\" Zildjian A ride's bell gives articulation to the rhythmic figures in the title track's climactic section — a deliberate choice over crash-only accent work."
       }
     ],
     "faq": [
@@ -1350,12 +1350,12 @@ export const articles = {
       },
       {
         "question": "What cymbals did Jaska Raatikainen use on Hate Crew Deathroll?",
-        "answer": "On *Hate Crew Deathroll* (2003), Jaska Raatikainen used Paiste cymbals throughout — specifically Paiste Sound Edge 14\" hi-hats paired with Paiste 2002 crashes (16\" and 18\"), a Paiste 2002 20\" ride, and a Paiste 2002 18\" China cymbal. The Paiste 2002's CuSn8 bronze alloy produces a bright, cutting sound with enough warmth in the sustain to avoid harshness — qualities that allowed the cymbals to cut through *Hate Crew Deathroll*'s keyboard-dense arrangements naturally without aggressive post-processing. The Sound Edge hi-hats' rippled bottom cymbal design provided clean articulation at the extreme tempos the album demanded. See [Paiste cymbals](/gear/paiste) for more on the 2002 series specifications."
+        "answer": "On *Hate Crew Deathroll* (2003), Jaska Raatikainen used Zildjian A Series cymbals throughout — the same setup he had used since *Hatebreeder* (1999) — specifically 14\" A hi-hats paired with A Series crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China cymbal. The Zildjian A's B20 bronze alloy and traditional lathing produce a bright, cutting sound that allowed the cymbals to cut through *Hate Crew Deathroll*'s keyboard-dense arrangements naturally without aggressive post-processing. Raatikainen would switch to Zildjian A Custom / K Custom in 2005 for *Are You Dead Yet?*. See the [Are You Dead Yet? drum setup article](/articles/are-you-dead-yet-drum-setup) for that transition."
       }
     ],
     "evolution": {
       "title": "From Hate Crew Deathroll to Hexed: Jaska's Gear Evolution",
-      "content": "*Hate Crew Deathroll* captured Jaska Raatikainen at a pivotal moment in his gear history — the Tama Starclassic era that preceded his long-running Pearl Masters endorsement. The transition from Tama to Pearl changed the tonal character of his studio sound noticeably across subsequent releases.\n\n**The Tama Era (through approximately 2003):**\nThe *Hate Crew Deathroll* sessions used Tama Starclassic Maple with Paiste 2002 cymbals and Iron Cobra double pedals. This combination produced the drum sound that many fans associate with Children of Bodom's commercial peak — a particular maple warmth in the shell attack paired with the 2002's characteristic brightness.\n\n**The Pearl Transition (2004 onward):**\nBeginning approximately with *Are You Dead Yet?* (2005), Raatikainen moved to Pearl Masters Premium Maple drums and Zildjian A Custom / K Custom cymbals. Pearl's Masters shells have a different construction philosophy from the Starclassic — tighter tolerances, different shell composition — producing a more focused, modern attack. The Zildjian A Custom's multi-stage lathing gives a brighter, more defined sound than the Paiste 2002's character.\n\n**Modern Setup:**\nBy *Halo of Blood* (2013) and *I Worship Chaos* (2015), Raatikainen's setup was fully Pearl/Zildjian — Pearl Masters Premium Maple, Pearl Eliminator double pedal, Zildjian A Custom crashes, K Custom ride. The gear evolution tracks clearly against the studio recordings; each transition is audible in the drum sound.",
+      "content": "*Hate Crew Deathroll* captured Jaska Raatikainen at a pivotal moment in his gear history — the Tama Starclassic era that preceded his long-running Pearl Masters endorsement. The transition from Tama to Pearl changed the tonal character of his studio sound noticeably across subsequent releases, though his cymbal brand stayed the same across the Tama years.\n\n**The Tama Era (through approximately 2003):**\nThe *Hate Crew Deathroll* sessions used Tama Starclassic Maple with Zildjian A Series cymbals (unchanged since *Hatebreeder*) and Iron Cobra double pedals. This combination produced the drum sound that many fans associate with Children of Bodom's commercial peak — a particular maple warmth in the shell attack paired with the A Series' characteristic brightness.\n\n**The Pearl Transition (2004 onward):**\nBeginning approximately with *Are You Dead Yet?* (2005), Raatikainen moved to Pearl Masters Premium Maple drums and switched his cymbals from Zildjian A Series to Zildjian A Custom / K Custom. Pearl's Masters shells have a different construction philosophy from the Starclassic — tighter tolerances, different shell composition — producing a more focused, modern attack. The Zildjian A Custom's multi-stage lathing gives a brighter, more defined sound than the A Series' character.\n\n**Modern Setup:**\nBy *Halo of Blood* (2013) and *I Worship Chaos* (2015), Raatikainen's setup was fully Pearl/Zildjian — Pearl Masters Premium Maple, Pearl Eliminator double pedal, Zildjian A Custom crashes, K Custom ride. The gear evolution tracks clearly against the studio recordings; each transition is audible in the drum sound.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1369,17 +1369,17 @@ export const articles = {
         },
         {
           "category": "Hi-Hats",
-          "then": "Paiste Sound Edge 14\"",
+          "then": "Zildjian A 14\"",
           "now": "Zildjian A Custom 14\""
         },
         {
           "category": "Crashes",
-          "then": "Paiste 2002 16\" and 18\"",
+          "then": "Zildjian A 16\" and 18\"",
           "now": "Zildjian A Custom 17\" and 18\""
         },
         {
           "category": "Ride",
-          "then": "Paiste 2002 20\"",
+          "then": "Zildjian A 20\"",
           "now": "Zildjian K Custom 20\""
         },
         {
@@ -1438,10 +1438,6 @@ export const articles = {
         "url": "/gear/tama"
       },
       {
-        "text": "Paiste cymbals brand overview",
-        "url": "/gear/paiste"
-      },
-      {
         "text": "Jaska Raatikainen full kit guide",
         "url": "/articles/jaska-raatikainen-drum-setup"
       }
@@ -1452,7 +1448,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Hate Crew Deathroll Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2003 Album",
-          "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hate Crew Deathroll (2003). Complete breakdown of the Tama Starclassic Maple kit, Paiste 2002 cymbals, and Iron Cobra double pedals.",
+          "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hate Crew Deathroll (2003). Complete breakdown of the Tama Starclassic Maple kit, Zildjian A Series cymbals, and Iron Cobra double pedals.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1553,7 +1549,7 @@ export const articles = {
               "name": "What cymbals did Jaska Raatikainen use on Hate Crew Deathroll?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Jaska Raatikainen used Paiste Sound Edge 14\" hi-hats, Paiste 2002 crashes (16\" and 18\"), a Paiste 2002 20\" ride, and a Paiste 2002 18\" China cymbal on Hate Crew Deathroll (2003)."
+                "text": "Jaska Raatikainen used Zildjian A 14\" hi-hats, A Series crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China cymbal on Hate Crew Deathroll (2003) — the same setup he had used since Hatebreeder (1999)."
               }
             }
           ]
@@ -1562,7 +1558,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Album That Defined Finnish Melodic Death Metal Drumming",
-      "content": "*Hate Crew Deathroll* (2003) is the album where Jaska Raatikainen's approach to melodic death metal drumming reached its clearest expression. The Tama Starclassic Maple kit, Paiste 2002 cymbals, and Tama Iron Cobra double pedals were not passive tools — they were active contributors to a sound that placed Finnish metal on the global stage.\n\nWhat makes the drumming on this album worth studying is not merely the speed. Sustained double-kick at 200 BPM is technically demanding, but pure velocity is a skill many drummers develop. What Raatikainen brought to *Hate Crew Deathroll* was the musical intelligence to deploy that velocity within compositional structures that reward it — to serve arrangements where the guitar, keyboard, and drums are in genuine dialogue rather than competing for attention.\n\n**For Drummers Studying Hate Crew Deathroll:**\nStart with \"Needled 24/7\" for the double-kick foundation: count the patterns against the guitar riff, notice how the kick placement locks with the rhythm guitar rather than simply running under it. Then move to \"Sixpounder\" for the fill work: track the tom phrases against the keyboard lines, hear how the Starclassic maple sustain lets each note speak in the mix. Finally, listen to \"Bodom Beach Terror\" for dynamic range — the contrast between verse restraint and chorus intensity shows the compositional thinking behind what could be a purely aggressive performance.\n\n**The Gear Legacy:**\nTama Starclassic Maple kits remain among the most respected professional drums available — their construction philosophy unchanged from the 2003 sessions. Paiste 2002 cymbals have been in continuous production for decades, used across rock and metal precisely because their tonal character is genuinely useful rather than fashionable. A drummer who wants to approximate the *Hate Crew Deathroll* drum sound is working with gear that is readily available today.\n\nFor Jaska Raatikainen's complete career gear evolution — from the Tama era through his Pearl Masters years — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [full kit guide](/articles/jaska-raatikainen-drum-setup)."
+      "content": "*Hate Crew Deathroll* (2003) is the album where Jaska Raatikainen's approach to melodic death metal drumming reached its clearest expression. The Tama Starclassic Maple kit, Zildjian A Series cymbals, and Tama Iron Cobra double pedals were not passive tools — they were active contributors to a sound that placed Finnish metal on the global stage.\n\nWhat makes the drumming on this album worth studying is not merely the speed. Sustained double-kick at 200 BPM is technically demanding, but pure velocity is a skill many drummers develop. What Raatikainen brought to *Hate Crew Deathroll* was the musical intelligence to deploy that velocity within compositional structures that reward it — to serve arrangements where the guitar, keyboard, and drums are in genuine dialogue rather than competing for attention.\n\n**For Drummers Studying Hate Crew Deathroll:**\nStart with \"Needled 24/7\" for the double-kick foundation: count the patterns against the guitar riff, notice how the kick placement locks with the rhythm guitar rather than simply running under it. Then move to \"Sixpounder\" for the fill work: track the tom phrases against the keyboard lines, hear how the Starclassic maple sustain lets each note speak in the mix. Finally, listen to \"Bodom Beach Terror\" for dynamic range — the contrast between verse restraint and chorus intensity shows the compositional thinking behind what could be a purely aggressive performance.\n\n**The Gear Legacy:**\nTama Starclassic Maple kits remain among the most respected professional drums available — their construction philosophy unchanged from the 2003 sessions. Zildjian A Series cymbals have been in continuous production for decades, used across rock and metal precisely because their tonal character is genuinely useful rather than fashionable. A drummer who wants to approximate the *Hate Crew Deathroll* drum sound is working with gear that is readily available today.\n\nFor Jaska Raatikainen's complete career gear evolution — from the Tama era through his Pearl Masters years — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [full kit guide](/articles/jaska-raatikainen-drum-setup)."
     }
   },
   "follow-the-reaper-drum-setup": {
@@ -1582,25 +1578,25 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Follow the Reaper Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2000 Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Follow the Reaper (2000). Complete breakdown of the Tama Starclassic Maple kit, Paiste 2002 cymbals, and Tama Iron Cobra double pedal behind CoB's most technically demanding album.",
+    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Follow the Reaper (2000). Complete breakdown of the Tama Starclassic Maple kit, Zildjian A Series cymbals, and Tama Iron Cobra double pedal behind CoB's most technically demanding album.",
     "seoKeywords": [
       "follow the reaper drums",
       "jaska raatikainen follow the reaper drum setup",
       "children of bodom 2000 drum kit",
       "jaska raatikainen tama starclassic",
       "follow the reaper recording gear",
-      "jaska raatikainen paiste 2002",
+      "jaska raatikainen zildjian a series",
       "children of bodom third album drums",
       "jaska raatikainen iron cobra"
     ],
     "ogImage": "/images/albums/follow-the-reaper-drums.webp",
     "intro": {
       "title": "The Technical Peak: The Drum Kit Behind Follow the Reaper",
-      "content": "Released on September 25, 2000, *Follow the Reaper* is Children of Bodom's third full-length album and the record widely regarded as the pinnacle of Jaska Raatikainen's technical drumming within the band's catalog. Recorded at Astia Studio in Imatra, Finland — the same studio and production team responsible for *Hatebreeder* — it arrived just a year after CoB's second album and documented a dramatic leap in both compositional sophistication and technical execution.\n\nAt the center of *Follow the Reaper*'s relentless precision was Raatikainen at 21, already operating at a level of technical mastery that would define the Children of Bodom sound for years to come. His newly adopted Tama Starclassic Maple kit, paired with Paiste 2002 cymbals and the Tama Iron Cobra double pedals, marked the beginning of the gear era that would reach its commercial peak on *Hate Crew Deathroll* (2003). Tracks like \"Kissing the Shadows,\" \"Follow the Reaper,\" and \"Bodom After Midnight\" deploy double-bass patterns, blast beats, and neoclassical tom fills at extremes that remain benchmarks for the genre.\n\n*Follow the Reaper* represents the critical bridge in the Jaska Raatikainen gear arc: it is where the early Tama configuration of *Hatebreeder* gave way to the Starclassic era, where Zildjian A Series cymbals were replaced by Paiste 2002, and where the DW 5000 double pedal was superseded by the Tama Iron Cobra. This article breaks down every component of Raatikainen's setup on *Follow the Reaper* — the Starclassic shells, the Paiste 2002 cymbal selection, the Iron Cobra double pedal, and the stylistic approach that made this CoB's most technically demanding record.",
+      "content": "Released on September 25, 2000, *Follow the Reaper* is Children of Bodom's third full-length album and the record widely regarded as the pinnacle of Jaska Raatikainen's technical drumming within the band's catalog. Recorded at Astia Studio in Imatra, Finland — the same studio and production team responsible for *Hatebreeder* — it arrived just a year after CoB's second album and documented a dramatic leap in both compositional sophistication and technical execution.\n\nAt the center of *Follow the Reaper*'s relentless precision was Raatikainen at 21, already operating at a level of technical mastery that would define the Children of Bodom sound for years to come. His newly adopted Tama Starclassic Maple kit, paired with the same Zildjian A Series cymbals he had used since *Hatebreeder* and the Tama Iron Cobra double pedals, marked the beginning of the gear era that would reach its commercial peak on *Hate Crew Deathroll* (2003). Tracks like \"Kissing the Shadows,\" \"Follow the Reaper,\" and \"Bodom After Midnight\" deploy double-bass patterns, blast beats, and neoclassical tom fills at extremes that remain benchmarks for the genre.\n\n*Follow the Reaper* represents the critical bridge in the Jaska Raatikainen gear arc: it is where the early Tama configuration of *Hatebreeder* gave way to the Starclassic era, and where the DW 5000 double pedal was superseded by the Tama Iron Cobra — his Zildjian A Series cymbals carried over unchanged. This article breaks down every component of Raatikainen's setup on *Follow the Reaper* — the Starclassic shells, the Zildjian A Series cymbal selection, the Iron Cobra double pedal, and the stylistic approach that made this CoB's most technically demanding record.",
       "keyPoints": [
         "Released September 25, 2000 — Children of Bodom's third full-length, one year after Hatebreeder",
         "Jaska Raatikainen, age 21 — first album on the Tama Starclassic Maple, marking the Starclassic era debut",
-        "Paiste 2002 cymbals — transition from Zildjian A Series used on Hatebreeder",
+        "Zildjian A Series cymbals — unchanged from Hatebreeder",
         "Tama Iron Cobra double pedal — replaces the DW 5000 of the Hatebreeder sessions",
         "\"Kissing the Shadows\" and \"Bodom After Midnight\" are the definitive CoB technical drumming showcases",
         "Recorded at Astia Studio, Imatra with Anssi Kippo — same team as Hatebreeder, elevated production"
@@ -1647,43 +1643,43 @@ export const articles = {
       "estimatedValue": "$350–550 (Tama Starclassic maple snare, 2000)"
     },
     "cymbals": {
-      "title": "Paiste 2002: The Transition from Zildjian to Finnish Metal's Defining Cymbal",
-      "brand": "Paiste",
-      "series": "Paiste 2002 / Paiste Sound Edge",
+      "title": "Zildjian A Series: Brightness and Cut, Carried Over from Hatebreeder",
+      "brand": "Zildjian",
+      "series": "Zildjian A Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste Sound Edge 14\" Hi-Hats",
+          "model": "Zildjian A 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Rippled bottom cymbal for clean articulation at extreme tempos — essential for rapid 16th-note hi-hat work"
+          "notes": "Fast, cutting response for rapid 16th-note hi-hat work at extreme tempos"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 16\" Crash",
+          "model": "Zildjian A 16\" Crash",
           "position": "Left of hi-hats",
           "notes": "Fast, cutting crash for accent work in tight melodic passages"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 18\" Crash",
+          "model": "Zildjian A 18\" Crash",
           "position": "Right of rack toms",
           "notes": "Fuller crash for section endings and climactic moments"
         },
         {
           "type": "Ride",
-          "model": "Paiste 2002 20\" Ride",
+          "model": "Zildjian A 20\" Ride",
           "position": "Far right",
           "notes": "Bell for neoclassical accents, bow for sustained rhythmic patterns"
         },
         {
           "type": "China",
-          "model": "Paiste 2002 18\" China",
+          "model": "Zildjian A 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive upward-cutting accent for the most intense riff transitions"
         }
       ],
-      "description": "Jaska Raatikainen's cymbal setup on *Follow the Reaper* marked the transition from the Zildjian A Series of *Hatebreeder* to Paiste's 2002 line — a shift that brought a different tonal character to CoB's studio sound and defined the drum sound that would reach its peak on *Hate Crew Deathroll* (2003).\n\nThe Paiste 2002 line's CuSn8 bronze alloy produces a bright, cutting sound with enough warmth in the sustain to avoid harshness at high velocities — qualities essential for *Follow the Reaper*'s keyboard-dense arrangements, where Janne Wirman's layers occupied substantial harmonic space across every track. The 2002's natural cut through the mix, without requiring aggressive post-processing, was a significant advantage in Astia Studio's recording environment.\n\nThe Paiste Sound Edge 14\" hi-hats — with their rippled-edge bottom cymbal for faster air release and more defined chick — gave Raatikainen the articulation precision required at the tempos on *Follow the Reaper*. \"Kissing the Shadows\" and \"Bodom After Midnight\" demand that every sixteenth note at the hi-hat registers as a distinct event; the Sound Edge design delivered that precision across the full surface.\n\nThe two Paiste 2002 crashes (16\" and 18\") provided tonal variety for accent work: the 16\" for explosive short-decay accents in tight melodic passages, the 18\" for section boundaries and builds. The 20\" ride served both time-keeping and bell accent functions. The 18\" China added the trashy upward-cutting attack deployed at structural riff transitions — always deliberate, never continuous.",
-      "estimatedValue": "$1,200–1,800 (full Paiste 2002 + Sound Edge setup, 2000)"
+      "description": "Jaska Raatikainen's cymbal setup on *Follow the Reaper* carried forward the Zildjian A Series he had used since *Hatebreeder* (1999) — the only element of his rig that didn't change alongside the new Starclassic kit and Iron Cobra pedals, and a setup that would continue through *Hate Crew Deathroll* (2003).\n\nThe Zildjian A Series' B20 bronze alloy and traditional lathing produce a bright, cutting sound with enough warmth in the sustain to avoid harshness at high velocities — qualities essential for *Follow the Reaper*'s keyboard-dense arrangements, where Janne Wirman's layers occupied substantial harmonic space across every track. The A Series' natural cut through the mix, without requiring aggressive post-processing, was a significant advantage in Astia Studio's recording environment.\n\nThe Zildjian A 14\" hi-hats gave Raatikainen the articulation precision required at the tempos on *Follow the Reaper*. \"Kissing the Shadows\" and \"Bodom After Midnight\" demand that every sixteenth note at the hi-hat registers as a distinct event; the A Series' responsive character delivered that precision across the full surface.\n\nThe two A Series crashes (16\" and 18\") provided tonal variety for accent work: the 16\" for explosive short-decay accents in tight melodic passages, the 18\" for section boundaries and builds. The 20\" ride served both time-keeping and bell accent functions. The 18\" China added the trashy upward-cutting attack deployed at structural riff transitions — always deliberate, never continuous.",
+      "estimatedValue": "$900–1,400 (full Zildjian A Series setup, 2000)"
     },
     "hardware": {
       "title": "Tama Iron Cobra: The Upgrade That Defined the CoB Double-Kick Sound",
@@ -1723,11 +1719,11 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording at Astia Studio: Elevated Production for the Technical Peak",
-      "content": "Astia Studio in Imatra, Finland — Anssi Kippo's production base — returned as the recording environment for *Follow the Reaper*, building on the template established during *Hatebreeder* sessions a year earlier. Kippo's deepening experience with Children of Bodom's dense, keyboard-heavy arrangements and the band's increased technical demands produced a significantly more refined result than the debut sessions.\n\n**Drum Isolation and Shell Capture:**\nRaatikainen's Tama Starclassic Maple kit was recorded with close miking on each shell, capturing the attack and definition that the six-ply maple construction produced naturally. The improved shell consistency of the Starclassic over the early Tama configuration allowed Kippo to use a more standardized miking approach across the kit, trusting the shells to deliver consistent results rather than compensating for tonal variation shell to shell.\n\n**Kick Drum Treatment:**\nThe increased double-kick demands of *Follow the Reaper* required Kippo to refine his kick EQ approach beyond the *Hatebreeder* template. The focus on the upper attack transient — preserving rhythmic clarity at the expense of sub-bass weight — became more critical on an album where tracks like \"Kissing the Shadows\" deployed sustained double-bass patterns at maximum velocity across extended passages.\n\n**Cymbal Balance with Paiste 2002:**\nThe transition to Paiste 2002 cymbals brought a different tonal character to the mix compared to *Hatebreeder*'s Zildjian A Series. The 2002's CuSn8 alloy produced a brighter, more cutting sound that sat differently against Wirman's keyboards — not inherently better or worse, but distinct, and part of what gives *Follow the Reaper* its different sonic character from the debut album.",
+      "content": "Astia Studio in Imatra, Finland — Anssi Kippo's production base — returned as the recording environment for *Follow the Reaper*, building on the template established during *Hatebreeder* sessions a year earlier. Kippo's deepening experience with Children of Bodom's dense, keyboard-heavy arrangements and the band's increased technical demands produced a significantly more refined result than the debut sessions.\n\n**Drum Isolation and Shell Capture:**\nRaatikainen's Tama Starclassic Maple kit was recorded with close miking on each shell, capturing the attack and definition that the six-ply maple construction produced naturally. The improved shell consistency of the Starclassic over the early Tama configuration allowed Kippo to use a more standardized miking approach across the kit, trusting the shells to deliver consistent results rather than compensating for tonal variation shell to shell.\n\n**Kick Drum Treatment:**\nThe increased double-kick demands of *Follow the Reaper* required Kippo to refine his kick EQ approach beyond the *Hatebreeder* template. The focus on the upper attack transient — preserving rhythmic clarity at the expense of sub-bass weight — became more critical on an album where tracks like \"Kissing the Shadows\" deployed sustained double-bass patterns at maximum velocity across extended passages.\n\n**Cymbal Balance with Zildjian A Series:**\nRaatikainen's Zildjian A Series cymbals carried over unchanged from *Hatebreeder*, giving Kippo a known tonal quantity to balance against Wirman's keyboards even as the rest of the kit changed. The A Series' natural brightness and cut continued to sit well against the dense keyboard arrangements without requiring aggressive post-processing.",
       "keyTechniques": [
         "Close miking of Tama Starclassic Maple shells for improved attack consistency over Hatebreeder sessions",
         "Kick EQ focused on upper attack transient for rhythmic clarity during sustained double-bass passages",
-        "Paiste 2002 natural cut reduced post-processing needed to balance cymbals against keyboard-dense mix",
+        "Zildjian A Series' natural cut reduced post-processing needed to balance cymbals against keyboard-dense mix",
         "Full-song performance takes preserved the momentum and feel essential to CoB's technical performance style"
       ]
     },
@@ -1740,7 +1736,7 @@ export const articles = {
           "Title track and definitive statement of the album's technical ambitions",
           "Opening double-kick patterns at 190+ BPM establish the Iron Cobra's performance profile immediately",
           "Blast beat sections alternate with groove passages — dynamic control at extreme tempo",
-          "Paiste 2002 crashes deployed at structurally precise beats, not decorative accents"
+          "Zildjian A crashes deployed at structurally precise beats, not decorative accents"
         ],
         "gearNotes": "The Iron Cobra's consistency across the title track's opening is the first demonstration of why the pedal upgrade from DW 5000 mattered — each stroke at 190+ BPM registers as a distinct event rather than blurring into continuous noise."
       },
@@ -1766,7 +1762,7 @@ export const articles = {
           "China cymbal punctuates the most aggressive riff transitions with deliberate structural placement",
           "Tom fills follow the keyboard melody — neoclassical fill language fully realized"
         ],
-        "gearNotes": "The Paiste Sound Edge hi-hats' articulation through \"Bodom After Midnight\" verse sections demonstrates the Sound Edge design advantage at extreme tempos — consistent stick response across the full cymbal surface rather than the dead zones of traditional hi-hat designs."
+        "gearNotes": "The Zildjian A hi-hats' articulation through \"Bodom After Midnight\" verse sections demonstrates the A Series' responsive character at extreme tempos — consistent stick response across the full cymbal surface rather than the dead zones of lesser hi-hat designs."
       },
       {
         "track": "Children of Bodom",
@@ -1775,7 +1771,7 @@ export const articles = {
         "highlights": [
           "The song with the band's name — Raatikainen's most compositionally varied performance on the record",
           "Multiple dynamic transitions showcase full range from verse restraint to blast-peak intensity",
-          "Paiste 2002 ride deployed for textural variation in extended neoclassical passages",
+          "Zildjian A ride deployed for textural variation in extended neoclassical passages",
           "Snare ghost notes in verse sections demonstrate the dynamic sensitivity beneath the aggression"
         ],
         "gearNotes": "The Starclassic Maple toms' even sustain supports the melody-following fills in \"Children of Bodom\" more clearly than the early Tama configuration of Hatebreeder — the upgraded shell construction is audibly meaningful here."
@@ -1792,7 +1788,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Jaska Raatikainen use on Follow the Reaper?",
-        "answer": "On *Follow the Reaper* (2000), Jaska Raatikainen used Paiste cymbals — specifically Paiste Sound Edge 14\" hi-hats paired with Paiste 2002 crashes (16\" and 18\"), a Paiste 2002 20\" ride, and a Paiste 2002 18\" China. This marked the transition from the Zildjian A Series of *Hatebreeder* (1999) to the Paiste 2002 era that would continue through *Hate Crew Deathroll* (2003). The Paiste 2002's CuSn8 bronze alloy brought a different, brighter tonal character to CoB's cymbal sound. For context, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup)."
+        "answer": "On *Follow the Reaper* (2000), Jaska Raatikainen used Zildjian A Series cymbals — specifically 14\" A hi-hats paired with A Series crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China. This was the same Zildjian A Series setup he had used since *Hatebreeder* (1999), and it continued unchanged through *Hate Crew Deathroll* (2003) before he switched to Zildjian A Custom / K Custom in 2005. For context, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup)."
       },
       {
         "question": "Is Follow the Reaper Jaska Raatikainen's most technical album?",
@@ -1801,7 +1797,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Hatebreeder to Hate Crew Deathroll: The Starclassic Transition",
-      "content": "*Follow the Reaper* (2000) is the pivot point in Jaska Raatikainen's gear history — the album where the early Tama configuration of *Hatebreeder* gave way to the Starclassic era, and where the DW 5000 was replaced by the Iron Cobra that would carry through *Hate Crew Deathroll*.\n\n**The Hatebreeder Era (1999):**\nEarly Tama maple configuration, Zildjian A Series cymbals, DW 5000 double pedal. The raw, direct drum sound of CoB's debut era — energetic and present, but built on less refined shell construction and earlier pedal technology.\n\n**The Follow the Reaper Transition (2000):**\nTama Starclassic Maple shells, Paiste 2002 cymbals, Tama Iron Cobra double pedal. The Starclassic's six-ply construction delivered improved shell-to-shell consistency; the Paiste 2002's CuSn8 alloy brought a different, brighter character to the cymbal sound; and the Iron Cobra's superior cam geometry gave Raatikainen the mechanical platform for *Follow the Reaper*'s extraordinary technical demands.\n\n**The Hate Crew Deathroll Era (2003):**\nThe same Tama Starclassic Maple / Paiste 2002 / Iron Cobra setup, captured by Mikko Karmila and Anssi Kippo at Finnvox Studios with a more polished, commercially refined production. The gear was identical; the studio environment and production approach produced the more refined drum sound associated with CoB's commercial peak.",
+      "content": "*Follow the Reaper* (2000) is the pivot point in Jaska Raatikainen's gear history — the album where the early Tama configuration of *Hatebreeder* gave way to the Starclassic era, and where the DW 5000 was replaced by the Iron Cobra that would carry through *Hate Crew Deathroll*. His cymbals, however, stayed Zildjian A Series across all three albums.\n\n**The Hatebreeder Era (1999):**\nEarly Tama maple configuration, Zildjian A Series cymbals, DW 5000 double pedal. The raw, direct drum sound of CoB's debut era — energetic and present, but built on less refined shell construction and earlier pedal technology.\n\n**The Follow the Reaper Transition (2000):**\nTama Starclassic Maple shells, Zildjian A Series cymbals (unchanged), Tama Iron Cobra double pedal. The Starclassic's six-ply construction delivered improved shell-to-shell consistency, and the Iron Cobra's superior cam geometry gave Raatikainen the mechanical platform for *Follow the Reaper*'s extraordinary technical demands.\n\n**The Hate Crew Deathroll Era (2003):**\nThe same Tama Starclassic Maple / Zildjian A Series / Iron Cobra setup, captured by Mikko Karmila and Anssi Kippo at Finnvox Studios with a more polished, commercially refined production. The gear was identical; the studio environment and production approach produced the more refined drum sound associated with CoB's commercial peak.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1815,17 +1811,17 @@ export const articles = {
         },
         {
           "category": "Hi-Hats",
-          "then": "Paiste Sound Edge 14\"",
+          "then": "Zildjian A 14\"",
           "now": "Zildjian A Custom 14\""
         },
         {
           "category": "Crashes",
-          "then": "Paiste 2002 16\" and 18\"",
+          "then": "Zildjian A 16\" and 18\"",
           "now": "Zildjian A Custom 17\" and 18\""
         },
         {
           "category": "Ride",
-          "then": "Paiste 2002 20\"",
+          "then": "Zildjian A 20\"",
           "now": "Zildjian K Custom 20\""
         },
         {
@@ -1883,7 +1879,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Follow the Reaper Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2000 Album",
-          "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Follow the Reaper (2000). Complete breakdown of the Tama Starclassic Maple kit, Paiste 2002 cymbals, and Tama Iron Cobra double pedal.",
+          "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Follow the Reaper (2000). Complete breakdown of the Tama Starclassic Maple kit, Zildjian A Series cymbals, and Tama Iron Cobra double pedal.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1976,7 +1972,7 @@ export const articles = {
               "name": "What cymbals did Jaska Raatikainen use on Follow the Reaper?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Jaska Raatikainen used Paiste Sound Edge 14\" hi-hats, Paiste 2002 crashes (16\" and 18\"), a Paiste 2002 20\" ride, and a Paiste 2002 18\" China on Follow the Reaper (2000). This marked the transition from the Zildjian A Series of Hatebreeder to the Paiste 2002 era that continued through Hate Crew Deathroll (2003)."
+                "text": "Jaska Raatikainen used Zildjian A 14\" hi-hats, A Series crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China on Follow the Reaper (2000) — the same Zildjian A Series setup from Hatebreeder, which continued through Hate Crew Deathroll (2003) before he switched to A Custom / K Custom in 2005."
               }
             },
             {
@@ -1993,7 +1989,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Technical Summit: Follow the Reaper and the Starclassic Era",
-      "content": "*Follow the Reaper* (2000) is where Jaska Raatikainen's technical drumming reached its most demanding expression in Children of Bodom's catalog. The transition to the Tama Starclassic Maple, Paiste 2002 cymbals, and Tama Iron Cobra double pedal was not cosmetic — it was a gear upgrade matched to a fundamental increase in the technical ambition of the arrangements.\n\nWhat distinguishes *Follow the Reaper* as a drum record is not merely the speed — though \"Kissing the Shadows\" remains one of melodic death metal's most physically demanding recorded performances. It is the combination of that technical extremity with the melody-following intelligence that characterizes Raatikainen's approach: tom fills that track neoclassical guitar and keyboard lines, blast beats deployed as structural events rather than constant texture, dynamic contrast maintained across the full range from verse restraint to peak intensity. The Starclassic Maple's shell consistency and the Iron Cobra's mechanical reliability were the gear conditions that made this combination achievable at these tempos.\n\n**For Drummers Studying Follow the Reaper:**\nStart with \"Kissing the Shadows\" for the technical foundation: count the double-bass patterns against the guitar riff, observe how the kick placement locks with the rhythm rather than running independently under it. Then move to \"Bodom After Midnight\" for the groove sensibility: hear how the same Raatikainen who sustains blast at 210 BPM also swings with clear pulse through the track's verse sections. Finally, listen to \"Children of Bodom\" for the full dynamic range — the contrast from verse restraint to climactic intensity shows the compositional intelligence at work.\n\nFor the complete picture of how this album fits within Jaska Raatikainen's gear evolution — from the early Tama of *Hatebreeder* through the Starclassic era and into the Pearl Masters years — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hatebreeder drum setup article](/articles/hatebreeder-drum-setup), and the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup)."
+      "content": "*Follow the Reaper* (2000) is where Jaska Raatikainen's technical drumming reached its most demanding expression in Children of Bodom's catalog. The transition to the Tama Starclassic Maple and Tama Iron Cobra double pedal was not cosmetic — it was a gear upgrade matched to a fundamental increase in the technical ambition of the arrangements, while his Zildjian A Series cymbals carried over unchanged from Hatebreeder.\n\nWhat distinguishes *Follow the Reaper* as a drum record is not merely the speed — though \"Kissing the Shadows\" remains one of melodic death metal's most physically demanding recorded performances. It is the combination of that technical extremity with the melody-following intelligence that characterizes Raatikainen's approach: tom fills that track neoclassical guitar and keyboard lines, blast beats deployed as structural events rather than constant texture, dynamic contrast maintained across the full range from verse restraint to peak intensity. The Starclassic Maple's shell consistency and the Iron Cobra's mechanical reliability were the gear conditions that made this combination achievable at these tempos.\n\n**For Drummers Studying Follow the Reaper:**\nStart with \"Kissing the Shadows\" for the technical foundation: count the double-bass patterns against the guitar riff, observe how the kick placement locks with the rhythm rather than running independently under it. Then move to \"Bodom After Midnight\" for the groove sensibility: hear how the same Raatikainen who sustains blast at 210 BPM also swings with clear pulse through the track's verse sections. Finally, listen to \"Children of Bodom\" for the full dynamic range — the contrast from verse restraint to climactic intensity shows the compositional intelligence at work.\n\nFor the complete picture of how this album fits within Jaska Raatikainen's gear evolution — from the early Tama of *Hatebreeder* through the Starclassic era and into the Pearl Masters years — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hatebreeder drum setup article](/articles/hatebreeder-drum-setup), and the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup)."
     }
   },
   "are-you-dead-yet-drum-setup": {
@@ -2027,12 +2023,12 @@ export const articles = {
     "ogImage": "/images/albums/are-you-dead-yet-drums.webp",
     "intro": {
       "title": "The Commercial Peak: The Drum Kit Behind Are You Dead Yet?",
-      "content": "Released on September 26, 2005, *Are You Dead Yet?* is Children of Bodom's fifth full-length album and their most commercially successful record — debuting at number 56 on the Finnish charts and marking the point where the band's sound evolved toward broader accessibility without abandoning the technical foundation that defined their earlier work. Recorded at Astia Studio in Imatra, Finland with Anssi Kippo, the album documented a deliberate shift in approach: more mid-paced grooves, shorter song structures, and a streamlined production that brought CoB's sound to a wider audience.\n\nAt the center of this evolution was Jaska Raatikainen's gear transition — the move from the Tama Starclassic era of *Hate Crew Deathroll* (2003) to a Pearl Masters Premium Maple setup with Zildjian A Custom cymbals and Pearl Eliminator double pedals. This was the beginning of the Pearl endorsement relationship that would define Raatikainen's setup for the remainder of Children of Bodom's career, and the combination produced a different tonal character: Pearl's more focused attack and Zildjian A Custom's multi-stage lathing bringing a brighter, more defined sound than the Tama/Paiste combination.\n\n*Are You Dead Yet?* sits at the mid-point of the Jaska Raatikainen discovery arc: it fills the gear transition gap between the Tama Starclassic era (*Hate Crew Deathroll*, 2003) and the established Pearl Masters years (*Blooddrunk*, 2008). This article breaks down every component of Raatikainen's setup on *Are You Dead Yet?* — the Pearl Masters Premium Maple shells, the Zildjian A Custom cymbal selection, the Pearl Eliminator double pedal, and the adjusted stylistic approach behind CoB's most commercially successful record.",
+      "content": "Released on September 26, 2005, *Are You Dead Yet?* is Children of Bodom's fifth full-length album and their most commercially successful record — debuting at number 56 on the Finnish charts and marking the point where the band's sound evolved toward broader accessibility without abandoning the technical foundation that defined their earlier work. Recorded at Astia Studio in Imatra, Finland with Anssi Kippo, the album documented a deliberate shift in approach: more mid-paced grooves, shorter song structures, and a streamlined production that brought CoB's sound to a wider audience.\n\nAt the center of this evolution was Jaska Raatikainen's gear transition — the move from the Tama Starclassic era of *Hate Crew Deathroll* (2003) to a Pearl Masters Premium Maple setup, paired with a switch from the Zildjian A Series he had used since *Hatebreeder* to Zildjian A Custom / K Custom cymbals and Pearl Eliminator double pedals. This was the beginning of the Pearl endorsement relationship that would define Raatikainen's setup for the remainder of Children of Bodom's career, and the combination produced a different tonal character: Pearl's more focused attack and Zildjian A Custom's multi-stage lathing bringing a brighter, more defined sound than the Tama/A Series combination.\n\n*Are You Dead Yet?* sits at the mid-point of the Jaska Raatikainen discovery arc: it fills the gear transition gap between the Tama Starclassic era (*Hate Crew Deathroll*, 2003) and the established Pearl Masters years (*Blooddrunk*, 2008). This article breaks down every component of Raatikainen's setup on *Are You Dead Yet?* — the Pearl Masters Premium Maple shells, the Zildjian A Custom cymbal selection, the Pearl Eliminator double pedal, and the adjusted stylistic approach behind CoB's most commercially successful record.",
       "keyPoints": [
         "Released September 26, 2005 — Children of Bodom's fifth album and most commercially successful",
         "Debuted at #56 on Finnish charts — CoB's commercial peak at the time",
         "Jaska Raatikainen's debut on Pearl Masters Premium Maple — beginning of the Pearl endorsement era",
-        "Zildjian A Custom cymbals — transition from the Paiste 2002 era of Hate Crew Deathroll",
+        "Zildjian A Custom / K Custom cymbals — switch from the Zildjian A Series used since Hatebreeder through Hate Crew Deathroll",
         "Pearl Eliminator double pedal — replaces the Tama Iron Cobra of the Tama era",
         "Recorded at Astia Studio with Anssi Kippo — same team, evolving production approach"
       ]
@@ -2078,7 +2074,7 @@ export const articles = {
       "estimatedValue": "$380–580 (Pearl Masters maple snare, 2005)"
     },
     "cymbals": {
-      "title": "Zildjian A Custom: The Transition from Paiste to Zildjian's Precision Series",
+      "title": "Zildjian A Custom: The Transition from A Series to Zildjian's Precision Series",
       "brand": "Zildjian",
       "series": "Zildjian A Custom / Zildjian K Custom",
       "setup": [
@@ -2113,7 +2109,7 @@ export const articles = {
           "notes": "Bright, cutting China accent for aggressive section transitions"
         }
       ],
-      "description": "Jaska Raatikainen's cymbal setup on *Are You Dead Yet?* marked the second major cymbal transition of his Children of Bodom career — from the Paiste 2002 / Sound Edge combination of the Tama era to Zildjian A Custom and K Custom, a combination that would define his sound through the remainder of CoB's catalog.\n\nThe Zildjian A Custom series uses a multi-stage lathing process that produces a brighter, more defined sound than the Paiste 2002's character — more cutting in the upper frequencies, with a faster decay that keeps the cymbal mix clean in dense arrangements. Where the Paiste 2002's CuSn8 alloy produced warmth alongside brightness, the A Custom's B20 bronze with brilliant finish delivers precision and immediacy. This transition is part of what gives *Are You Dead Yet?* its different sonic character compared to the Tama-era albums.\n\nThe A Custom 14\" hi-hats provided the articulation foundation for *Are You Dead Yet?*'s more groove-centred rhythmic approach. The multi-stage lathing gave a faster, more defined chick sound than the Paiste Sound Edge — clean and present at the tempos the album favoured without becoming harsh.\n\nThe Zildjian K Custom 20\" ride brought a darker, more complex character into the setup — its warmer bell and body sound creating a different textural dimension from the Paiste 2002 ride's brighter character. This combination of A Custom crashes and K Custom ride is a classic Zildjian pairing that balances cut and warmth across different cymbal functions.",
+      "description": "Jaska Raatikainen's cymbal setup on *Are You Dead Yet?* marked the only cymbal transition of his Children of Bodom career to date — from the Zildjian A Series he had used since *Hatebreeder* (1999) to Zildjian A Custom and K Custom, a combination that would define his sound through the remainder of CoB's catalog.\n\nThe Zildjian A Custom series uses a multi-stage lathing process that produces a brighter, more defined sound than the A Series' character — more cutting in the upper frequencies, with a faster decay that keeps the cymbal mix clean in dense arrangements. Where the A Series' B20 bronze with traditional lathing produced a classic bright, responsive sound, the A Custom's B20 bronze with brilliant finish delivers greater precision and immediacy. This transition is part of what gives *Are You Dead Yet?* its different sonic character compared to the Tama-era albums.\n\nThe A Custom 14\" hi-hats provided the articulation foundation for *Are You Dead Yet?*'s more groove-centred rhythmic approach. The multi-stage lathing gave a faster, more defined chick sound than the A Series — clean and present at the tempos the album favoured without becoming harsh.\n\nThe Zildjian K Custom 20\" ride brought a darker, more complex character into the setup — its warmer bell and body sound creating a different textural dimension from the A Series ride's brighter character. This combination of A Custom crashes and K Custom ride is a classic Zildjian pairing that balances cut and warmth across different cymbal functions.",
       "estimatedValue": "$1,400–2,000 (full Zildjian A Custom / K Custom setup, 2005)"
     },
     "hardware": {
@@ -2154,7 +2150,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording at Astia Studio: Kippo Adapts to the Pearl Era",
-      "content": "*Are You Dead Yet?* returned to Astia Studio in Imatra with producer Anssi Kippo — the third consecutive CoB album recorded in this environment — but with a different drum setup and a different sonic goal. Where the Tama-era sessions had prioritized the attack definition and controlled sustain of the Starclassic Maple for extreme-velocity playing, the Pearl Masters setup required Kippo to adapt his approach to a different shell character and a different musical brief.\n\n**Drum Isolation with Pearl Masters:**\nPearl Masters Premium Maple shells have tighter manufacturing tolerances and a more focused attack transient than the Tama Starclassic. Kippo's close-miking approach captured this character clearly — the Pearl shells' more immediate attack requiring less EQ adjustment to project through the mix than the Starclassic's slightly warmer, more open character.\n\n**Kick Drum Treatment for Groove-Oriented Arrangements:**\n*Are You Dead Yet?*'s more mid-paced arrangements allowed a different kick drum treatment than the sustained-velocity focus of *Follow the Reaper* and *Hate Crew Deathroll*. With double-bass patterns functioning as dynamic punctuation rather than continuous structural elements across many tracks, the kick EQ approach could accommodate more body frequency alongside the attack transient — giving the kick sound a fuller character suited to the album's groove orientation.\n\n**Cymbal Balance with Zildjian A Custom:**\nThe transition from Paiste 2002 to Zildjian A Custom brought a brighter, more defined cymbal character to the mix. Kippo's balancing approach with the A Custom — which cuts more aggressively in the upper frequencies than the 2002 — adjusted accordingly, slightly rolling off high frequency peaks to keep the cymbal mix present without harshness against the album's keyboard layers.",
+      "content": "*Are You Dead Yet?* returned to Astia Studio in Imatra with producer Anssi Kippo — the third consecutive CoB album recorded in this environment — but with a different drum setup and a different sonic goal. Where the Tama-era sessions had prioritized the attack definition and controlled sustain of the Starclassic Maple for extreme-velocity playing, the Pearl Masters setup required Kippo to adapt his approach to a different shell character and a different musical brief.\n\n**Drum Isolation with Pearl Masters:**\nPearl Masters Premium Maple shells have tighter manufacturing tolerances and a more focused attack transient than the Tama Starclassic. Kippo's close-miking approach captured this character clearly — the Pearl shells' more immediate attack requiring less EQ adjustment to project through the mix than the Starclassic's slightly warmer, more open character.\n\n**Kick Drum Treatment for Groove-Oriented Arrangements:**\n*Are You Dead Yet?*'s more mid-paced arrangements allowed a different kick drum treatment than the sustained-velocity focus of *Follow the Reaper* and *Hate Crew Deathroll*. With double-bass patterns functioning as dynamic punctuation rather than continuous structural elements across many tracks, the kick EQ approach could accommodate more body frequency alongside the attack transient — giving the kick sound a fuller character suited to the album's groove orientation.\n\n**Cymbal Balance with Zildjian A Custom:**\nThe transition from Zildjian A Series to Zildjian A Custom brought a brighter, more defined cymbal character to the mix. Kippo's balancing approach with the A Custom — which cuts more aggressively in the upper frequencies than the A Series — adjusted accordingly, slightly rolling off high frequency peaks to keep the cymbal mix present without harshness against the album's keyboard layers.",
       "keyTechniques": [
         "Pearl Masters' tighter shell tolerances require less EQ adjustment for attack definition in close-miking approach",
         "Kick treatment adapted for groove-oriented arrangements — more body alongside attack transient than previous albums",
@@ -2193,11 +2189,11 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Complex arrangement showcasing the full dynamic range of the Pearl era setup",
-          "K Custom ride deployed for textural variation — darker bell character distinct from Paiste 2002 ride",
+          "K Custom ride deployed for textural variation — darker bell character distinct from the Zildjian A Series ride",
           "Tom fills continue the neoclassical melody-following approach — Pearl shell character audibly different from Starclassic",
           "Ghost notes in verse sections more prominent than on any previous CoB album"
         ],
-        "gearNotes": "The K Custom 20\" ride's darker bell character is distinctly audible in \"If You Want Peace...\" compared to the Paiste 2002 ride of the Tama era — a deliberate tonal shift that suits the track's textural sophistication."
+        "gearNotes": "The K Custom 20\" ride's darker bell character is distinctly audible in \"If You Want Peace...\" compared to the Zildjian A Series ride of the Tama era — a deliberate tonal shift that suits the track's textural sophistication."
       },
       {
         "track": "Living Dead Beat",
@@ -2223,7 +2219,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Jaska Raatikainen use on Are You Dead Yet?",
-        "answer": "On *Are You Dead Yet?* (2005), Jaska Raatikainen used Zildjian A Custom and K Custom cymbals — specifically A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. This marked the transition from the Paiste 2002 / Sound Edge combination of the *Hate Crew Deathroll* (2003) sessions. The A Custom's multi-stage lathing brought a brighter, more defined character than the Paiste 2002's CuSn8 alloy. For more context on how this setup evolved, see the [Blooddrunk drum setup article](/articles/blooddrunk-drum-setup)."
+        "answer": "On *Are You Dead Yet?* (2005), Jaska Raatikainen used Zildjian A Custom and K Custom cymbals — specifically A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. This marked the switch from the Zildjian A Series he had used continuously since *Hatebreeder* (1999) through the *Hate Crew Deathroll* (2003) sessions. The A Custom's multi-stage lathing brought a brighter, more defined character than the A Series' traditional lathing. For more context on how this setup evolved, see the [Blooddrunk drum setup article](/articles/blooddrunk-drum-setup)."
       },
       {
         "question": "Why is Are You Dead Yet? different from earlier CoB albums?",
@@ -2232,7 +2228,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Hate Crew Deathroll to Blooddrunk: The Pearl Era Takes Hold",
-      "content": "*Are You Dead Yet?* (2005) is the gear transition album in Jaska Raatikainen's CoB discography — the point where the Tama Starclassic / Paiste 2002 / Iron Cobra combination gave way to the Pearl Masters / Zildjian A Custom / Pearl Eliminator setup that would define his sound for the remainder of Children of Bodom's career.\n\n**The Tama Era (through 2003):**\n*Hate Crew Deathroll* (2003) was the final expression of the Tama Starclassic Maple / Paiste 2002 / Iron Cobra combination. Its drum sound — captured at Finnvox Studios by Mikko Karmila — remains the most celebrated CoB drum recording for the combination of technical demands and production refinement.\n\n**The Pearl Transition (2005):**\n*Are You Dead Yet?* documented the beginning of the Pearl endorsement era. Pearl Masters Premium Maple shells replaced the Starclassic; Zildjian A Custom / K Custom replaced Paiste 2002 / Sound Edge; the Pearl Eliminator replaced the Iron Cobra. The tonal shift is audible: more focused attack from the Pearl shells, brighter precision from the A Custom cymbals, and the adjustable cam flexibility of the Eliminator.\n\n**The Established Pearl Era (2008 onward):**\nBy *Blooddrunk* (2008), the Pearl Masters setup was fully established — the same core configuration, now captured with deepened familiarity at Sonic Pump Studios. The gear story from *Are You Dead Yet?* through CoB's final albums is one of refinement within a consistent endorsement framework.",
+      "content": "*Are You Dead Yet?* (2005) is the gear transition album in Jaska Raatikainen's CoB discography — the point where the Tama Starclassic / Zildjian A Series / Iron Cobra combination gave way to the Pearl Masters / Zildjian A Custom / Pearl Eliminator setup that would define his sound for the remainder of Children of Bodom's career.\n\n**The Tama Era (through 2003):**\n*Hate Crew Deathroll* (2003) was the final expression of the Tama Starclassic Maple / Zildjian A Series / Iron Cobra combination. Its drum sound — captured at Finnvox Studios by Mikko Karmila — remains the most celebrated CoB drum recording for the combination of technical demands and production refinement.\n\n**The Pearl Transition (2005):**\n*Are You Dead Yet?* documented the beginning of the Pearl endorsement era. Pearl Masters Premium Maple shells replaced the Starclassic; Zildjian A Custom / K Custom replaced the Zildjian A Series he had used since *Hatebreeder*; the Pearl Eliminator replaced the Iron Cobra. The tonal shift is audible: more focused attack from the Pearl shells, brighter precision from the A Custom cymbals, and the adjustable cam flexibility of the Eliminator.\n\n**The Established Pearl Era (2008 onward):**\nBy *Blooddrunk* (2008), the Pearl Masters setup was fully established — the same core configuration, now captured with deepened familiarity at Sonic Pump Studios. The gear story from *Are You Dead Yet?* through CoB's final albums is one of refinement within a consistent endorsement framework.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -2246,7 +2242,7 @@ export const articles = {
         },
         {
           "category": "Hi-Hats",
-          "then": "Zildjian A Custom 14\" (debut — replacing Paiste Sound Edge)",
+          "then": "Zildjian A Custom 14\" (debut — replacing Zildjian A 14\")",
           "now": "Zildjian A Custom 14\" (established)"
         },
         {
@@ -2407,7 +2403,7 @@ export const articles = {
               "name": "What cymbals did Jaska Raatikainen use on Are You Dead Yet?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Jaska Raatikainen used Zildjian A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China on Are You Dead Yet? (2005). This marked the transition from the Paiste 2002 / Sound Edge combination of Hate Crew Deathroll (2003)."
+                "text": "Jaska Raatikainen used Zildjian A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China on Are You Dead Yet? (2005). This marked the switch from the Zildjian A Series he had used since Hatebreeder (1999) through Hate Crew Deathroll (2003)."
               }
             },
             {
@@ -2424,7 +2420,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Commercial Pivot: Are You Dead Yet? and the Beginning of the Pearl Era",
-      "content": "*Are You Dead Yet?* (2005) is the most significant gear transition album in Jaska Raatikainen's discography — the record where the Tama Starclassic / Paiste 2002 combination that defined CoB's most celebrated era gave way to the Pearl Masters / Zildjian A Custom setup that would carry through the remainder of the band's career. It also documents the most deliberate artistic evolution in the band's approach: a conscious move toward accessibility, groove, and commercial appeal from the technical extremity of *Follow the Reaper* and *Hate Crew Deathroll*.\n\nThe drumming on *Are You Dead Yet?* rewards careful listening precisely because it is not the most technically demanding Raatikainen performance — it is the most stylistically adaptive. Tracks like \"Living Dead Beat\" and \"Are You Dead Yet?\" demonstrate his ability to serve groove-oriented arrangements with the same precision and musical intelligence he brought to blast-beat-dominant compositions. The Pearl Eliminator's cam-adjustable response and the A Custom's bright precision were the right tools for this broader brief.\n\n**For Drummers Studying Are You Dead Yet?:**\nStart with \"In Your Face\" for continuity with the Tama era: the full-velocity passages here show that the Pearl Masters / Eliminator combination serves high-tempo playing as effectively as the Starclassic / Iron Cobra. Then move to the title track for the groove adaptation: observe how the Eliminator's controlled feel at 160 BPM differs from the Iron Cobra's approach to sustained-velocity patterns. Finally, listen to \"If You Want Peace... Prepare for War\" for the K Custom ride's contribution — a deliberately darker textural element in a setup that otherwise favours brightness and precision.\n\nFor the complete picture of how this album fits within Jaska Raatikainen's gear arc — from the Tama era through the Pearl transition and into *Blooddrunk* — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup), and the [Blooddrunk drum setup article](/articles/blooddrunk-drum-setup)."
+      "content": "*Are You Dead Yet?* (2005) is the most significant gear transition album in Jaska Raatikainen's discography — the record where the Tama Starclassic / Zildjian A Series combination that defined CoB's most celebrated era gave way to the Pearl Masters / Zildjian A Custom setup that would carry through the remainder of the band's career. It also documents the most deliberate artistic evolution in the band's approach: a conscious move toward accessibility, groove, and commercial appeal from the technical extremity of *Follow the Reaper* and *Hate Crew Deathroll*.\n\nThe drumming on *Are You Dead Yet?* rewards careful listening precisely because it is not the most technically demanding Raatikainen performance — it is the most stylistically adaptive. Tracks like \"Living Dead Beat\" and \"Are You Dead Yet?\" demonstrate his ability to serve groove-oriented arrangements with the same precision and musical intelligence he brought to blast-beat-dominant compositions. The Pearl Eliminator's cam-adjustable response and the A Custom's bright precision were the right tools for this broader brief.\n\n**For Drummers Studying Are You Dead Yet?:**\nStart with \"In Your Face\" for continuity with the Tama era: the full-velocity passages here show that the Pearl Masters / Eliminator combination serves high-tempo playing as effectively as the Starclassic / Iron Cobra. Then move to the title track for the groove adaptation: observe how the Eliminator's controlled feel at 160 BPM differs from the Iron Cobra's approach to sustained-velocity patterns. Finally, listen to \"If You Want Peace... Prepare for War\" for the K Custom ride's contribution — a deliberately darker textural element in a setup that otherwise favours brightness and precision.\n\nFor the complete picture of how this album fits within Jaska Raatikainen's gear arc — from the Tama era through the Pearl transition and into *Blooddrunk* — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup), and the [Blooddrunk drum setup article](/articles/blooddrunk-drum-setup)."
     }
   },
   "blooddrunk-drum-setup": {
@@ -2544,7 +2540,7 @@ export const articles = {
           "notes": "Bright, cutting China accent for aggressive riff transitions — more prominent on Blooddrunk than Are You Dead Yet?"
         }
       ],
-      "description": "Jaska Raatikainen's Zildjian A Custom and K Custom cymbal setup on *Blooddrunk* was the same configuration established on *Are You Dead Yet?* (2005), now fully settled and deployed in a more aggressive musical context that suited the A Custom's bright, cutting character particularly well.\n\nThe Zildjian A Custom series' multi-stage lathing and brilliant finish produce a brighter, more immediately cutting sound than the Paiste 2002 of the Tama era — qualities that are an advantage in *Blooddrunk*'s more aggressive arrangements. The A Custom's fast attack and bright upper frequency presence allowed cymbal work to cut through Janne Wirman's keyboard-dense arrangements naturally, without post-processing, even at the higher velocities that *Blooddrunk*'s return to aggression demanded.\n\nThe A Custom 14\" hi-hats' articulation through *Blooddrunk*'s faster passages — particularly on \"Hellhounds on My Trail\" and \"LoBodomy\" — demonstrates the setup's suitability for high-velocity playing. The multi-stage lathing delivers consistent stick response across the full surface at tempos where hi-hat articulation must register as distinct events rather than blurring into continuous texture.\n\nThe combination of A Custom crashes and K Custom ride continued to serve its function: the crashes providing bright, fast accent work at structurally precise moments; the K Custom ride offering a darker, warmer textural alternative for sustained patterns and melodic keyboard-driven passages. The China cymbal's deployment was more prominent on *Blooddrunk* than on *Are You Dead Yet?*, reflecting the album's more aggressive character and the structural moments where the China's upward-cutting attack serves best.",
+      "description": "Jaska Raatikainen's Zildjian A Custom and K Custom cymbal setup on *Blooddrunk* was the same configuration established on *Are You Dead Yet?* (2005), now fully settled and deployed in a more aggressive musical context that suited the A Custom's bright, cutting character particularly well.\n\nThe Zildjian A Custom series' multi-stage lathing and brilliant finish produce a brighter, more immediately cutting sound than the Zildjian A Series of the Tama era — qualities that are an advantage in *Blooddrunk*'s more aggressive arrangements. The A Custom's fast attack and bright upper frequency presence allowed cymbal work to cut through Janne Wirman's keyboard-dense arrangements naturally, without post-processing, even at the higher velocities that *Blooddrunk*'s return to aggression demanded.\n\nThe A Custom 14\" hi-hats' articulation through *Blooddrunk*'s faster passages — particularly on \"Hellhounds on My Trail\" and \"LoBodomy\" — demonstrates the setup's suitability for high-velocity playing. The multi-stage lathing delivers consistent stick response across the full surface at tempos where hi-hat articulation must register as distinct events rather than blurring into continuous texture.\n\nThe combination of A Custom crashes and K Custom ride continued to serve its function: the crashes providing bright, fast accent work at structurally precise moments; the K Custom ride offering a darker, warmer textural alternative for sustained patterns and melodic keyboard-driven passages. The China cymbal's deployment was more prominent on *Blooddrunk* than on *Are You Dead Yet?*, reflecting the album's more aggressive character and the structural moments where the China's upward-cutting attack serves best.",
       "estimatedValue": "$1,400–2,000 (full Zildjian A Custom / K Custom setup, 2008)"
     },
     "hardware": {
@@ -2654,7 +2650,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Jaska Raatikainen use on Blooddrunk?",
-        "answer": "On *Blooddrunk* (2008), Jaska Raatikainen used the established Zildjian A Custom and K Custom configuration — A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. This was the same setup as *Are You Dead Yet?* (2005), now deployed in a more aggressive musical context where the A Custom's bright, cutting character suited *Blooddrunk*'s return to higher-velocity playing. For context on the Paiste 2002 era this setup replaced, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup)."
+        "answer": "On *Blooddrunk* (2008), Jaska Raatikainen used the established Zildjian A Custom and K Custom configuration — A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. This was the same setup as *Are You Dead Yet?* (2005), now deployed in a more aggressive musical context where the A Custom's bright, cutting character suited *Blooddrunk*'s return to higher-velocity playing. For context on the Zildjian A Series era this setup replaced, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup)."
       },
       {
         "question": "How does Blooddrunk differ from Are You Dead Yet? in drum approach?",
@@ -2663,7 +2659,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "The Pearl Era Matures: Blooddrunk Through the Final CoB Albums",
-      "content": "*Blooddrunk* (2008) represents the Pearl Masters era fully established — the same core configuration that would carry through *Relentless Reckless Forever* (2011), *Halo of Blood* (2013), *I Worship Chaos* (2015), and *Hexed* (2019). Where *Are You Dead Yet?* documented the gear transition, *Blooddrunk* documented the settled Pearl approach in its first mature expression.\n\n**The Are You Dead Yet? Transition (2005):**\nPearl Masters Premium Maple / Zildjian A Custom / Pearl Eliminator debuted — a gear change matched to a commercial pivot in CoB's approach. The Eliminator's cam system was explored; the A Custom's brightness contrasted with the Paiste 2002's warmth; the Pearl shells' focused attack differed from the Starclassic's warmer character.\n\n**The Blooddrunk Establishment (2008):**\nSame gear configuration, deployed with three years of confidence. The Eliminator's established cam setting, the A Custom's character fully understood in the mix, the Pearl shells performing predictably in a new studio environment. *Blooddrunk* is the first CoB album where the Pearl era sounds settled rather than transitional.\n\n**The Late-Career Pearl Refinement (2011–2019):**\n*Relentless Reckless Forever*, *Halo of Blood*, *I Worship Chaos*, and *Hexed* continued the Pearl Masters / Zildjian approach with accumulated experience and production refinement. The gear story from *Blooddrunk* to CoB's final album is one of continuity — the same core setup, deepened familiarity, and evolving production quality.",
+      "content": "*Blooddrunk* (2008) represents the Pearl Masters era fully established — the same core configuration that would carry through *Relentless Reckless Forever* (2011), *Halo of Blood* (2013), *I Worship Chaos* (2015), and *Hexed* (2019). Where *Are You Dead Yet?* documented the gear transition, *Blooddrunk* documented the settled Pearl approach in its first mature expression.\n\n**The Are You Dead Yet? Transition (2005):**\nPearl Masters Premium Maple / Zildjian A Custom / Pearl Eliminator debuted — a gear change matched to a commercial pivot in CoB's approach. The Eliminator's cam system was explored; the A Custom's brightness contrasted with the Zildjian A Series' more traditional character; the Pearl shells' focused attack differed from the Starclassic's warmer character.\n\n**The Blooddrunk Establishment (2008):**\nSame gear configuration, deployed with three years of confidence. The Eliminator's established cam setting, the A Custom's character fully understood in the mix, the Pearl shells performing predictably in a new studio environment. *Blooddrunk* is the first CoB album where the Pearl era sounds settled rather than transitional.\n\n**The Late-Career Pearl Refinement (2011–2019):**\n*Relentless Reckless Forever*, *Halo of Blood*, *I Worship Chaos*, and *Hexed* continued the Pearl Masters / Zildjian approach with accumulated experience and production refinement. The gear story from *Blooddrunk* to CoB's final album is one of continuity — the same core setup, deepened familiarity, and evolving production quality.",
       "thenVsNow": [
         {
           "category": "Kit",

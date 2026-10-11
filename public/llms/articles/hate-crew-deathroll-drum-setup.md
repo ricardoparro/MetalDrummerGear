@@ -1,6 +1,6 @@
 # Hate Crew Deathroll Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2003 Album
 
-> Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hate Crew Deathroll (2003). Complete breakdown of the Tama Starclassic Maple kit, Paiste 2002 cymbals, and Iron Cobra double pedals behind CoB's commercial and critical peak.
+> Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hate Crew Deathroll (2003). Complete breakdown of the Tama Starclassic Maple kit, Zildjian A Series cymbals, and Iron Cobra double pedals behind CoB's commercial and critical peak.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Jaska Raatikainen](/llms/drummers/jaska-raatikainen.md)
@@ -16,15 +16,15 @@ Released on January 13, 2003, *Hate Crew Deathroll* is widely regarded as Childr
 
 At the center of the album's relentless momentum was Jaska Raatikainen, co-founder and drummer since the band's formation. Recorded at Finnvox Studios in Helsinki under mixing engineers Mikko Karmila and Anssi Kippo — the production team behind some of the most important Finnish metal records of the era — the album captured Raatikainen's drumming with a clarity and precision that earlier releases had approached but never fully achieved.
 
-For *Hate Crew Deathroll*, Raatikainen played a Tama Starclassic Maple kit — a departure from his later Pearl endorsement era and a setup that gave the album its distinctive drum character. Paired with Paiste 2002 cymbals and Tama Iron Cobra double pedals, the combination delivered both the velocity required for the album's fastest passages and the musical sensitivity needed to serve Jaska Wirman's keyboard countermelodies and Alexi Laiho's neoclassical guitar runs.
+For *Hate Crew Deathroll*, Raatikainen played a Tama Starclassic Maple kit — a departure from his later Pearl endorsement era and a setup that gave the album its distinctive drum character. Paired with the same Zildjian A Series cymbals he had used since *Hatebreeder* and Tama Iron Cobra double pedals, the combination delivered both the velocity required for the album's fastest passages and the musical sensitivity needed to serve Jaska Wirman's keyboard countermelodies and Alexi Laiho's neoclassical guitar runs.
 
-This article breaks down every component of Jaska Raatikainen's drum setup on *Hate Crew Deathroll*: the Tama Starclassic Maple shells, the Paiste 2002 cymbal selection, the Iron Cobra double pedal, and the stylistic approach that made this album a landmark in melodic death metal drumming.
+This article breaks down every component of Jaska Raatikainen's drum setup on *Hate Crew Deathroll*: the Tama Starclassic Maple shells, the Zildjian A Series cymbal selection, the Iron Cobra double pedal, and the stylistic approach that made this album a landmark in melodic death metal drumming.
 
 ## Gear Breakdown
 
 - **Drums:** Tama Tama Starclassic Maple (Custom finish finish)
 - **Snare:** Tama Tama Starclassic 14" x 5.5" Maple Snare, 14" x 5.5"
-- **Cymbals:** Paiste — Paiste 2002 / Paiste Sound Edge
+- **Cymbals:** Zildjian — Zildjian A Series
 - **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Vic Firth American Classic 5A; Remo Emperor Coated; Remo Powerstroke 3
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-bright — attack clarity for melodic death metal without sacrificing body
@@ -47,19 +47,19 @@ Maple shell construction gave the snare a warmer, slightly more complex characte
 
 Mikko Karmila's mixing approach at Finnvox captured the snare with close miking and careful EQ, preserving the maple warmth in the body frequencies while enhancing the attack transient. The result is a snare sound that is aggressive and present on *Hate Crew Deathroll* without overwhelming the melodic content — a sound that rewards close listening through headphones as much as it hits hard through club speakers.
 
-### Paiste 2002 and Sound Edge: Volume, Cut, and Character
+### Zildjian A Series: Brightness and Cut, Unchanged Since Hatebreeder
 
-Jaska Raatikainen's cymbal setup on *Hate Crew Deathroll* centered on Paiste's 2002 series with Paiste Sound Edge hi-hats — a combination that delivered the volume, cut, and musical character that melodic death metal demands.
+Jaska Raatikainen's cymbal setup on *Hate Crew Deathroll* carried forward the same Zildjian A Series he had used since *Hatebreeder* (1999) — a combination that delivered the volume, cut, and musical character that melodic death metal demands.
 
-The Paiste 2002 line has been a fixture in rock and heavy metal since the 1970s. Its CuSn8 bronze alloy produces a bright, cutting sound with enough warmth in the sustain to avoid harshness — qualities that made it the choice of Lars Ulrich on *Kill 'Em All* (1983) and Dave Lombardo on *Reign in Blood* (1986), and that suited Raatikainen's melodic death metal application equally well. In the dense, keyboard-heavy arrangements on *Hate Crew Deathroll*, cymbals that cut naturally through the mix without requiring aggressive EQ were essential.
+The Zildjian A Series has been a fixture across rock and metal for decades. Its B20 bronze alloy and traditional lathing produce a bright, immediately responsive sound with clear attack and consistent sustain — qualities essential in dense, keyboard-heavy arrangements where cymbals must cut through the mix naturally rather than relying on post-production enhancement. In the dense, keyboard-heavy arrangements on *Hate Crew Deathroll*, cymbals that cut naturally through the mix without requiring aggressive EQ were essential.
 
-The Paiste Sound Edge 14" hi-hats paired a standard top cymbal with a rippled-edge bottom, creating a distinct "chick" sound with faster air release than traditional hi-hat designs. At the tempos Raatikainen plays on tracks like "Needled 24/7" and "Sixpounder" — often exceeding 200 BPM — hi-hat articulation at every sixteenth note demands that each stroke register cleanly. The Sound Edge design supported that precision, with consistent stick response across the full surface.
+The Zildjian A 14" hi-hats provided the articulation foundation for Raatikainen's rhythmic work. At the tempos Raatikainen plays on tracks like "Needled 24/7" and "Sixpounder" — often exceeding 200 BPM — hi-hat articulation at every sixteenth note demands that each stroke register cleanly. The A Series' responsive, bright character supported that precision, with consistent stick response across the full surface.
 
-The two Paiste 2002 crashes (16" and 18") gave Raatikainen tonal variety for accents. The 16" provided the fast, explosive response needed for syncopated accents in tight melodic passages, while the 18" delivered the fuller sound for section boundaries and climactic builds. The 20" ride served both time-keeping and accent functions — the bell providing aggressive punctuation during keyboard-driven passages. The 18" China china cymbal added the trashy, upward-cutting attack essential to Children of Bodom's most aggressive moments, deployed at structural transitions rather than continuously.
+The two A Series crashes (16" and 18") gave Raatikainen tonal variety for accents. The 16" provided the fast, explosive response needed for syncopated accents in tight melodic passages, while the 18" delivered the fuller sound for section boundaries and climactic builds. The 20" ride served both time-keeping and accent functions — the bell providing aggressive punctuation during keyboard-driven passages. The 18" A China added the trashy, upward-cutting attack essential to Children of Bodom's most aggressive moments, deployed at structural transitions rather than continuously.
 
 ## The Album That Defined Finnish Melodic Death Metal Drumming
 
-*Hate Crew Deathroll* (2003) is the album where Jaska Raatikainen's approach to melodic death metal drumming reached its clearest expression. The Tama Starclassic Maple kit, Paiste 2002 cymbals, and Tama Iron Cobra double pedals were not passive tools — they were active contributors to a sound that placed Finnish metal on the global stage.
+*Hate Crew Deathroll* (2003) is the album where Jaska Raatikainen's approach to melodic death metal drumming reached its clearest expression. The Tama Starclassic Maple kit, Zildjian A Series cymbals, and Tama Iron Cobra double pedals were not passive tools — they were active contributors to a sound that placed Finnish metal on the global stage.
 
 What makes the drumming on this album worth studying is not merely the speed. Sustained double-kick at 200 BPM is technically demanding, but pure velocity is a skill many drummers develop. What Raatikainen brought to *Hate Crew Deathroll* was the musical intelligence to deploy that velocity within compositional structures that reward it — to serve arrangements where the guitar, keyboard, and drums are in genuine dialogue rather than competing for attention.
 
@@ -67,7 +67,7 @@ What makes the drumming on this album worth studying is not merely the speed. Su
 Start with "Needled 24/7" for the double-kick foundation: count the patterns against the guitar riff, notice how the kick placement locks with the rhythm guitar rather than simply running under it. Then move to "Sixpounder" for the fill work: track the tom phrases against the keyboard lines, hear how the Starclassic maple sustain lets each note speak in the mix. Finally, listen to "Bodom Beach Terror" for dynamic range — the contrast between verse restraint and chorus intensity shows the compositional thinking behind what could be a purely aggressive performance.
 
 **The Gear Legacy:**
-Tama Starclassic Maple kits remain among the most respected professional drums available — their construction philosophy unchanged from the 2003 sessions. Paiste 2002 cymbals have been in continuous production for decades, used across rock and metal precisely because their tonal character is genuinely useful rather than fashionable. A drummer who wants to approximate the *Hate Crew Deathroll* drum sound is working with gear that is readily available today.
+Tama Starclassic Maple kits remain among the most respected professional drums available — their construction philosophy unchanged from the 2003 sessions. Zildjian A Series cymbals have been in continuous production for decades, used across rock and metal precisely because their tonal character is genuinely useful rather than fashionable. A drummer who wants to approximate the *Hate Crew Deathroll* drum sound is working with gear that is readily available today.
 
 For Jaska Raatikainen's complete career gear evolution — from the Tama era through his Pearl Masters years — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [full kit guide](/articles/jaska-raatikainen-drum-setup).
 
@@ -76,7 +76,7 @@ For Jaska Raatikainen's complete career gear evolution — from the Tama era thr
 - Debuted at #1 on Finnish charts — Children of Bodom's commercial and critical peak
 - Recorded at Finnvox Studios, Helsinki — mixed by Mikko Karmila and Anssi Kippo
 - Tama Starclassic Maple kit — distinct from Raatikainen's later Pearl endorsement era
-- Paiste 2002 cymbals and Tama Iron Cobra double pedals throughout the sessions
+- Zildjian A Series cymbals (unchanged since Hatebreeder) and Tama Iron Cobra double pedals throughout the sessions
 - Tracks like "Needled 24/7" and "Sixpounder" set new benchmarks for melodic death metal drumming
 - Album opened the Children of Bodom / melodic death metal cluster to a global audience
 - Tama Starclassic Maple — flagship professional six-ply maple shells
@@ -103,7 +103,7 @@ A: Jaska Raatikainen's drumming on *Hate Crew Deathroll* (2003) represents the d
 
 **Q: What cymbals did Jaska Raatikainen use on Hate Crew Deathroll?**
 
-A: On *Hate Crew Deathroll* (2003), Jaska Raatikainen used Paiste cymbals throughout — specifically Paiste Sound Edge 14" hi-hats paired with Paiste 2002 crashes (16" and 18"), a Paiste 2002 20" ride, and a Paiste 2002 18" China cymbal. The Paiste 2002's CuSn8 bronze alloy produces a bright, cutting sound with enough warmth in the sustain to avoid harshness — qualities that allowed the cymbals to cut through *Hate Crew Deathroll*'s keyboard-dense arrangements naturally without aggressive post-processing. The Sound Edge hi-hats' rippled bottom cymbal design provided clean articulation at the extreme tempos the album demanded. See [Paiste cymbals](/gear/paiste) for more on the 2002 series specifications.
+A: On *Hate Crew Deathroll* (2003), Jaska Raatikainen used Zildjian A Series cymbals throughout — the same setup he had used since *Hatebreeder* (1999) — specifically 14" A hi-hats paired with A Series crashes (16" and 18"), a 20" A ride, and an 18" A China cymbal. The Zildjian A's B20 bronze alloy and traditional lathing produce a bright, cutting sound that allowed the cymbals to cut through *Hate Crew Deathroll*'s keyboard-dense arrangements naturally without aggressive post-processing. Raatikainen would switch to Zildjian A Custom / K Custom in 2005 for *Are You Dead Yet?*. See the [Are You Dead Yet? drum setup article](/articles/are-you-dead-yet-drum-setup) for that transition.
 
 ## Related Articles
 
@@ -121,4 +121,4 @@ A: On *Hate Crew Deathroll* (2003), Jaska Raatikainen used Paiste cymbals throug
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-11 · Source: [MetalForge.io](https://metalforge.io)*

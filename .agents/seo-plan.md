@@ -12194,3 +12194,57 @@ The other 3 fresh findings (Paul Mazurkiewicz Sabian+Evans fabrications in `top1
 3. The 8 lower-confidence subagent leads (Kevin Talley, Ryan Van Poederooyen, Matt Halpern, Nick Augusto, Ben Koller, Arin Ilejay, Charlie Benante, Sean Reinert) — none independently checked yet, good source list for next sweep.
 4. Content-gap: `joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+---
+
+## 2026-10-11 (run ~13:05 UTC) — scope-gap sweep: held-back + lower-confidence candidates from prior run, 7 filed (#8903-8909)
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers explicitly allowed. ✅
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap: 3,162 URLs — unchanged.
+- Bank check: 12 open `seo-proposal` at run start (8 from the 07:xx batch #8887-8894, already `ai-fix`-labeled and promoted per the 12:17 UTC CEO deep run, still open pending Roadie merge; held #7981; 3 standing umbrellas #2211/#3810/#3819) → true untriaged bank 0. Under the 45 floor → filed up to 8; filed 7 (one candidate dropped as unverifiable, one dropped as too ambiguous to scope confidently — see Method).
+- Not Monday (2026-10-11 is Sunday) — drum-chair watch skipped; next due Monday 2026-10-12, group 2 (korn through opeth).
+
+### Metrics readout
+- GSC 7d (13:04 UTC refresh): 9,590 impr / 189 clicks / 1.97% CTR / pos 7.5. Content-gap rows (impr≥50, CTR<2%): `joey jordison drum kit` (63 impr, 1.59%) and `matt halpern` (237 impr, 0.42%) — both already ruled class-2 bare-name/known-oscillator SERP shapes in `learned-patterns.md`. No re-action.
+- GA4 7d: 446 sessions, organic 324/446 (72.6%) — consistent with organic-majority channel.
+
+### Method
+Started from the 01:46 and 07:xx runs' explicit carry-over list: 1 pre-verified candidate (Martin Lopez sticks-field fabrication) and 8 lower-confidence, not-yet-checked leads (Kevin Talley, Ryan Van Poederooyen, Matt Halpern, Nick Augusto, Ben Koller, Arin Ilejay, Charlie Benante, Sean Reinert). Dispatched a subagent to independently verify all 9 against current source + `endorsementNews.js` ground truth; it reported all 9 as REAL BUG. Per this repo's standing discipline, did NOT trust that summary — personally re-ran `grep`/`sed` against current source for every candidate myself before accepting any of them.
+
+Two did not survive personal verification:
+- **Ryan Van Poederooyen**: the subagent claimed `cymbalSetups.js`/`extendedBios.js`/`gearIndex.js` disagreed on cymbal sizes, but direct inspection showed all three files state the *identical* spec (14" HHX Evolution Hi-Hats, 18"/20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China) — no contradiction exists; `endorsementNews.js` is just coarser-grained (brand/series only), which is not itself a bug. Dropped.
+- **Ben Koller**: the subagent framed the Jane Doe (2001) Sabian HHX/AAX narrative as a fabrication, but the article's own "Cymbal Evolution" section and `licks/ben-koller.js`'s GoPro entries (tied to specific Jane Doe-era songs) are historically accurate for that period — Koller's Zildjian K Custom/A Custom endorsement only starts in 2004 per `endorsementNews.js:1172`. There may be a narrower real bug (the article's "current Converge setup uses Zildjian K Dark Series" vs. the verified "K Custom & A Custom Series" model name), but it needs more careful scoping than this run had time for. Held back, not filed.
+
+The remaining 7 all required a git-history check before filing, since each one's drummer/file had prior closed issues with superficially similar titles. For every candidate, ran `git log --all --oneline --grep="#<issue>"` to find the merge commit, then `git show --stat` (and for 2 of them, the full diff) to confirm exactly which lines the merged PR touched — this caught that every "prior fix" had patched a *different* file or a *different field* than my candidate, never the specific lines being proposed here:
+- Martin Lopez: #8355 fixed the hardware/pedal field only; sticks field (5B fabrication) untouched.
+- Kevin Talley: #8438 fixed `snares.js` only (4 lines); `extendedBios.js`/`drummerComparisons.js` still carry the old 14x5.5"/Maple spec.
+- Matt Halpern: 5 prior closed issues (#7998/#7295/#7444/#6781/#7031) each fixed a different file/section; #7444 specifically fixed only the Periphery III (2016) section of `albumArticles/matt-halpern.js` — the Periphery IV/Hail Stan (2019) section, several hundred lines later in the same file, was never touched, and `top10Lists.js` was never touched by any of them.
+- Arin Ilejay: #8548/#8556 (`0fbae37f`) fixed only the structured `gear.*` sub-object for the 2011-2015 era; the sibling `summary` and era `description` prose fields two lines away still say Mapex — confirmed via the full diff, a clean sibling-field-miss.
+- Sean Reinert: #8437 fixed `drummerEvolution.js` only (11 lines); `extendedBios.js` and `albumArticles/sean-reinert.js`'s FAQ/conclusion block still narrate a fabricated clean 1993 switch — notably the latter file *already* has the correct A/K blend in its own detailed per-song breakdown a few hundred lines earlier, making this also a same-file self-contradiction.
+- Nick Augusto: #8059 fixed `genreGearGuides.js` only (172 lines); confirmed via #7481's cited MusicRadar source that DW 9000 Series (not Pearl Demon Drive) is the correct pedal — `extendedBios.js`, 3 `drummerComparisons.js` entries, and `drummerEvolution.js` still say Pearl Demon Drive.
+- Charlie Benante: #7897/#8357 both fixed `drummerEvolution.js` only; `gearPriceHistory.js`'s 1987 hardware entry still fabricates a DW 5000 pedal that its own `source` field admits is an unsourced MSRP estimate, contradicting the externally-verified "continuous Tama since the 1980s" narrative those two issues established.
+
+### Proposals filed this run
+1. #8903 — Martin Lopez: albumArticles/martin-lopez.js fabricates a "Vic Firth 5B" sticks era for Deliverance (2002), survives #8355's hardware-only fix — verified continuous 5A Nylon Tip since 1997
+2. #8904 — Kevin Talley: extendedBios.js + drummerComparisons.js still fabricate 14x5.5"/Maple snare, #8438 only fixed snares.js — verified 14x6.5" steel
+3. #8905 — Matt Halpern: top10Lists.js + albumArticles/matt-halpern.js Hail Stan (2019) section still fabricate Mapex Saturn V, distinct from 5 prior closed fixes — verified Pearl since 2015
+4. #8906 — Arin Ilejay: drummerEvolution.js summary + era description prose still say Mapex, #8548/#8556 only fixed the gear object — sibling-field-miss
+5. #8907 — Sean Reinert: extendedBios.js + albumArticles/sean-reinert.js still fabricate a clean 1993 A→K switch, #8437 only fixed drummerEvolution.js — verified continuous A/K blend until 2008
+6. #8908 — Nick Augusto: extendedBios.js + drummerComparisons.js (3 entries) + drummerEvolution.js still fabricate Pearl Demon Drive pedal, #8059 only fixed genreGearGuides.js — verified DW 9000 Series
+7. #8909 — Charlie Benante: gearPriceHistory.js fabricates a 1987 DW 5000 pedal — verified continuous Tama hardware per #7897/#8357 precedent
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8887-8894 (07:xx batch, already promoted to ai-fix, pending Roadie merge)
+- #8903-8909 (this run, 7 fresh)
+- Bank at run end: 19 open `seo-proposal`.
+
+### Next run
+1. Watch #8903-8909 through CEO triage; flag all 7 as scope-gap/sibling-field-miss cases needing the same git-log-verify treatment the CEO should already be applying.
+2. Ben Koller `albumArticles/ben-koller.js` "current Converge setup uses Zildjian K Dark Series" vs. verified "K Custom & A Custom Series" model-name mismatch — needs narrower scoping before filing (the broader Sabian-era claim this run initially flagged is NOT a bug, it's historically correct for Jane Doe/2001).
+3. This "closed issue fixed one file/field, sibling file/field still wrong" bug class is now confirmed to recur across at least 7 independent drummer/file pairs this run alone — worth considering whether `scripts/verify-gear-consistency.cjs` (added by #8249) could be extended to flag cross-file drift automatically rather than relying on manual sampling, though that's a tooling proposal for a future run, not this one.
+4. Content-gap: `joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

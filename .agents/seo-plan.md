@@ -12145,3 +12145,52 @@ Notable findings this run:
 3. Continue widening the sibling-field-miss sweep to `drummerEvolution.js`/`soundLikeGuides.js`/`albumArticles/*.js` for drummers already covered on `gearPriceHistory.js`/`drummerComparisons.js` only — today's hit rate (10/10 candidates confirmed real) suggests these less-swept files still have a high yield.
 4. Content-gap: `matt halpern`/`arin ilejay` re-confirmed against standing class-2 rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+---
+
+## 2026-10-11 (run ~07:10 UTC) — sibling-field-miss sweep: held-back candidates + false-closure/scope-gap hunt, 8 filed (#8887-8894)
+
+### Audit
+- robots.txt (live curl not re-run this run; confirmed via last run's 01:46 UTC check): all 8 AI crawlers explicitly allowed. ✅
+- `public/llms/**/*.md`: 2,024 files (unchanged since last run).
+- Sitemap: 3,162 URLs (unchanged).
+- Bank check: 12 open `seo-proposal` at run start (8 from 01:44-01:46 batch already promoted to `ai-fix` per CEO's 06:19 pulse but still open pending merge, held #7981, 3 standing umbrellas) → true untriaged bank 0. Under the 45 floor → filed up to 8.
+- Not Monday — drum-chair watch skipped; next due Monday 2026-10-12, group 2 (korn through opeth).
+
+### Metrics readout
+- GSC 7d (07:09 UTC refresh): 9,590 impr / 189 clicks / 1.97% CTR / pos 7.5. Content-gap rows (impr≥50, CTR<2%): `joey jordison drum kit` (63 impr, 1.59%) and `matt halpern` (237 impr, 0.42%) — both already ruled class-2 bare-name/known-oscillator SERP shapes in `learned-patterns.md`. No re-action.
+- GA4 7d: 434 sessions, organic 305/434 (70.3%) — consistent with organic-majority channel.
+
+### Method
+Started from the 2 pre-verified, held-back candidates noted in the prior run (Jaska Raatikainen Paiste-2002 albumArticles.js narrative, Hellhammer top10Lists.js Pearl/Meinl FAQ fabrication) — independently re-verified both directly against current source + `endorsementNews.js` before filing (no re-use of stale verification). Dispatched a subagent to sample fresh drummers/files for 6 more candidates, explicitly excluding the long list of already-heavily-mined drummers. Got back 8 candidates; personally re-verified all 8 via direct `grep`/`sed` against current source and `endorsementNews.js` ground truth (not trusting the subagent summary). For any candidate matching an existing closed issue title, ran `git log --all --grep` + `git show --stat` on the merge commit to confirm whether the merged PR actually touched the flagged lines, per the repo's standing "don't trust state:closed" rule — this caught 3 genuine **scope-gap** findings (prior fix touched only part of the file/entry) rather than risking 3 duplicate re-files:
+- **Matt Greiner** (#8889): 2 prior closed issues (#7454, #7603) claimed to fix the Ludwig/Paiste-2002 fabrication; `git show` on the merge commit confirms it changed 210+/217- lines, but a fresh grep count today (25 "Ludwig" hits) is essentially unchanged from the pre-fix count (26) — the fix only nibbled at the edges. Filed with an explicit prior-fix-history callout and a grep-count verify step so Roadie doesn't repeat the same narrow-patch mistake.
+- **Mikkey Dee** (#8890): #8626's "root-cause fix across 7 locations in 6 files" (merged `a97029cb`) correctly fixed the `summary` and `description` prose fields in `drummerEvolution.js`'s King Diamond era block, but `git show` confirms it never touched the same block's `gear.drums.notes`/`gear.snare`/`gear.hardware` fields or `keyChanges` array — all three still say Sonor started "during his King Diamond days" right next to the now-correct description saying 2012. Classic sibling-field-miss, same shape as the file's broader `gearHighlights`-vs-FAQ bug class.
+- **George Kollias** (#8891): #8302 (merged `b78f8903`) fixed exactly 1 of 3 era blocks in `drummerEvolution.js` (a 2-line diff, confirmed via `git show --stat`) — the 2005-2008 and 2009-2015 eras still fabricate "Remo Emperor/Powerstroke 3" heads against the verified continuous Evans since the 2000s.
+
+The other 3 fresh findings (Paul Mazurkiewicz Sabian+Evans fabrications in `top10Lists.js`, #8893; Jay Weinberg fabricated Tama era in `top10Lists.js`'s Tama list, #8894 — wait, swap: Jay Weinberg is #8893... see Proposals list below for exact numbers) had clean dedup searches (no matching issue title/file combination found) and were filed as fresh findings. Dirk Verbeuren's `drummerComparisons.js` sticks fabrication (#8894) is a 3rd file for an already-known bug (soundLikeGuides.js #6620, licks/dirk-verbeuren.js #6900 both already fixed this exact "Promark Shira Kashi Oak" fabrication) — confirmed via dedup search that drummerComparisons.js specifically was never covered.
+
+**Held back for next run** (sampled by the subagent, plausible but not independently re-verified by me this run — per the conservative "only file what you personally confirmed" rule): Martin Lopez `albumArticles/martin-lopez.js` fabricates a "Vic Firth 5B" era for *Deliverance* (2002) vs. verified continuous 5A Nylon Tip since 1997 — this file has an extensive prior-fix history (12+ closed issues: #6232/#7497/#8113/#8679/etc.) covering drums/pedal/cymbal fields, but none specifically addressing the sticks field, so likely a fresh scope-gap in the same shape as this run's other 3 — needs the same git-log-verify treatment before filing. Also lower-confidence leads from the subagent not yet checked at all: Kevin Talley snare spec, Ryan Van Poederooyen cymbal sizes, Matt Halpern "Mapex Saturn V" FAQ claim, Nick Augusto 3-way hardware conflict, Ben Koller Sabian/K-Dark claims, Arin Ilejay Mapex-vs-DW self-contradiction, Charlie Benante DW-vs-Tama pedal claim, Sean Reinert 1993 cymbal-switch claim.
+
+### Proposals filed this run
+1. #8887 — Jaska Raatikainen: albumArticles.js fabricates an entire "Paiste 2002" cymbal era across 6 album articles (74 occurrences) — verified continuous Zildjian
+2. #8888 — Hellhammer: top10Lists.js Viking-metal/war-metal FAQ fabricates "Pearl Masters Premium + Meinl Byzance" gear — verified Sonor SQ2 + Paiste RUDE
+3. #8889 — Matt Greiner: albumArticles.js still fabricates "Ludwig Classic Maple" + "Paiste 2002" gear — survives 2 prior closed fixes (#7454, #7603)
+4. #8890 — Mikkey Dee: drummerEvolution.js gear.drums.notes + keyChanges still contradict #8626's already-fixed summary/description (sibling-field miss)
+5. #8891 — George Kollias: drummerEvolution.js heads still fabricate "Remo Emperor/Powerstroke 3" in 2 of 3 era blocks — #8302 only fixed 1 of 3
+6. #8892 — Paul Mazurkiewicz: fabricated as Sabian cymbals + Evans heads user in 2 top10Lists.js entries — verified Meinl + Remo
+7. #8893 — Jay Weinberg: fabricated as a Tama endorser in top10Lists.js "Tama drummers" list — verified SJC Custom Drums since 2014
+8. #8894 — Dirk Verbeuren: sticks fabricated as "Promark Shira Kashi Oak 5B" in 3 drummerComparisons.js entries — verified Tama O-DVM2 signature since 2016
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8871-8878 (01:44-01:46 batch, already promoted to ai-fix per CEO 06:19 pulse, pending Roadie pickup)
+- #8887-8894 (this run, 8 fresh)
+- Bank at run end: 20 open `seo-proposal`.
+
+### Next run
+1. Watch #8887-8894 through CEO triage; flag #8889/#8890/#8891 as re-verify-don't-trust-prior-closure cases — the CEO's own triage should re-run the grep-count verify steps, not just confirm the issue text reads plausibly.
+2. Martin Lopez `albumArticles/martin-lopez.js` sticks-field "Vic Firth 5B" era — pre-sampled, needs the same git-log-verify treatment next run before filing (file has 12+ prior closed issues on other fields).
+3. The 8 lower-confidence subagent leads (Kevin Talley, Ryan Van Poederooyen, Matt Halpern, Nick Augusto, Ben Koller, Arin Ilejay, Charlie Benante, Sean Reinert) — none independently checked yet, good source list for next sweep.
+4. Content-gap: `joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

@@ -18,7 +18,7 @@ Released on November 8, 2005, on Solid State Records, *Thrill Seeker* is the alb
 
 Tracks like "Your Little Suburbia Is in Ruins" and "The Seventh Trumpet" already show the blast-beat-to-groove vocabulary that would become Greiner's signature, even if the execution is rawer and the gear more modest than what followed. The album's original lineup — with vocalist Josh McManness and bassist Jordan Tuscan, both of whom departed the band the following year — makes *Thrill Seeker* a snapshot of a specific, unrepeatable moment in the band's history.
 
-For drummers and gear historians tracing Matt Greiner's evolution, *Thrill Seeker* is the necessary starting point. Every later upgrade — DW Performance Series in 2007, Ludwig Classic Maple in 2011, the full Pearl and Meinl Byzance endorsement era beyond — reads differently once you know what he was playing before any of it existed.
+For drummers and gear historians tracing Matt Greiner's evolution, *Thrill Seeker* is the necessary starting point. Every later upgrade — DW Performance Series in 2007, the Pearl Reference upgrade in 2011, the solidified Meinl Byzance cymbal era beyond — reads differently once you know what he was playing before any of it existed.
 
 ## Gear Breakdown
 
@@ -105,4 +105,4 @@ A: *Thrill Seeker* (2005) shows a rawer, less technically developed version of t
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-11 · Source: [MetalForge.io](https://metalforge.io)*

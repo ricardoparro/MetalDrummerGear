@@ -9374,30 +9374,30 @@ export const DRUMMER_EVOLUTION = {
         years: '1996–1998',
         startYear: 1996,
         endYear: 1998,
-        description: 'Cryptic Writings (1997) continued Megadeth\'s accessible direction. Menza\'s final full studio album with the band showed his groove-based drumming at its most polished. Per the verified kit overview, his gear moved to a Premier Signia endorsement beginning with Youthanasia (1994) and continuing through Cryptic Writings (1997) — no Pearl kit is documented for this era. He was fired from Megadeth in 1998 following a knee injury, ending one of thrash metal\'s most storied drummer-band partnerships.',
+        description: 'Cryptic Writings (1997) continued Megadeth\'s accessible direction. Menza\'s final full studio album with the band showed his groove-based drumming at its most polished. Per the verified kit overview, he settled on a Pearl Reference Custom kit — upgraded from the Pearl Masterworks he\'d played since Youthanasia (1994) — paired with Sabian AA / Signature Series cymbals for Cryptic Writings (1997). He was fired from Megadeth in 1998 following a knee injury, ending one of thrash metal\'s most storied drummer-band partnerships.',
         albums: ['Cryptic Writings (1997)'],
         tours: ['Cryptic Writings Tour 1997–1998'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Premier Signia',
-            details: 'Endorsement kit; specific shell configuration not independently documented',
-            notes: 'Menza\'s gear moved to a Premier Signia endorsement beginning with Youthanasia (1994) and continuing through Cryptic Writings (1997), per the verified kit overview — no Pearl kit is documented for this era.',
+            item: 'Pearl Reference Custom',
+            details: 'Flagship Pearl tier; specific shell configuration not independently documented',
+            notes: 'Settled on Pearl Reference Custom — his flagship professional tier — for Cryptic Writings (1997), upgrading from the Pearl Masterworks he\'d played since Youthanasia (1994), per the verified kit overview.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Zildjian A Series',
-            details: '14" A Hi-Hats, 16"/18" A Crash, 20" A Ride',
-            notes: 'Zildjian A Series is the only independently verified cymbal setup on record for Menza\'s Megadeth tenure — no K Custom cymbals are documented for this era.',
-            change: null,
+            item: 'Sabian AA / Signature Series',
+            details: 'Sabian AA and Signature Series cymbals; specific size configuration not independently documented',
+            notes: 'Switched to Sabian AA / Signature Series cymbals for Cryptic Writings (1997), per the verified kit overview — no Zildjian cymbals are documented for this era.',
+            change: CHANGE_TYPES.SWITCH,
           },
         },
 
         keyChanges: [
-          'Premier Signia endorsement begins with Youthanasia (1994), continuing through Cryptic Writings (1997)',
+          'Upgraded to Pearl Reference Custom — his flagship kit — for Cryptic Writings (1997), moving on from Pearl Masterworks',
           'Cryptic Writings (1997) — final full studio album with Megadeth',
-          'Zildjian A Series remains the only independently verified cymbal setup for this era',
+          'Switched to Sabian AA / Signature Series cymbals for Cryptic Writings (1997)',
           'Fired from Megadeth (1998) following knee injury — end of defining band partnership',
         ],
 
@@ -9436,7 +9436,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit did Nick Menza use?',
-        a: 'Nick Menza joined Megadeth with a Tama Artstar II before upgrading to Pearl Masters for Rust in Peace (1990) and Pearl Masterworks for the Countdown to Extinction era. Per the verified kit overview, his gear moved to a Premier Signia endorsement beginning with Youthanasia (1994) and continuing through Cryptic Writings (1997) — no Pearl kit is documented for that era. No independently verified gear information exists for his post-Megadeth years.',
+        a: 'Nick Menza joined Megadeth with a Tama Artstar II before upgrading to Pearl Masters for Rust in Peace (1990) and Pearl Masterworks for the Countdown to Extinction era. Per the verified kit overview, he played Pearl Masterworks through Youthanasia (1994) before upgrading to Pearl Reference Custom for Cryptic Writings (1997). No independently verified gear information exists for his post-Megadeth years.',
       },
       {
         q: 'What snare did Nick Menza use on Rust in Peace?',
@@ -9452,12 +9452,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What cymbals did Nick Menza use?',
-        a: 'Menza used Zildjian throughout his career. He played Zildjian A Custom during the Rust in Peace and Countdown to Extinction eras. For Cryptic Writings (1997) and his post-Megadeth years, the only independently verified cymbal setup on record is Zildjian A Series — no K Custom cymbals are documented for those periods.',
+        a: 'Menza played Zildjian A Custom during the Rust in Peace and Countdown to Extinction eras. Per the verified kit overview, he switched to Sabian AA / Signature Series cymbals for Cryptic Writings (1997). No independently verified gear information exists for his post-Megadeth years.',
       },
     ],
 
     metaTitle: 'Nick Menza Gear Evolution Timeline | Megadeth Drum Kit History',
-    metaDescription: 'Explore Nick Menza\'s complete drum gear evolution: Tama Artstar II → Pearl Masters (Rust in Peace) → Pearl Masterworks (Countdown) → Premier Signia (Cryptic Writings). The Megadeth drummer\'s full timeline.',
+    metaDescription: 'Explore Nick Menza\'s complete drum gear evolution: Tama Artstar II → Pearl Masters (Rust in Peace) → Pearl Masterworks (Countdown) → Pearl Reference Custom (Cryptic Writings). The Megadeth drummer\'s full timeline.',
   },
 
   // ==========================================

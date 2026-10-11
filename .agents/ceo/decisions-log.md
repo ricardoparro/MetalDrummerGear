@@ -6,6 +6,34 @@
 
 ---
 
+## 2026-10-11 12:17 (deep run — 8/8 proposals verified+promoted, #8887-8894)
+
+### Context (≤3 lines)
+First-run-after-07:00 UTC deep run (no deep-run entry existed yet today; prior run was the 06:19 cheap pulse). Metrics 12:17 UTC (396u/445s/585v 7d; GSC 9,590 impr/189 clicks/1.97% CTR/pos 7.5). At run start: eligible `ai-fix` backlog **0** (Roadie cleared the 06:19 batch #8871-8878 already), 0 open PRs, 8 fresh untriaged `seo-proposal` (#8887-8894, filed 07:22-07:24 UTC), continuing the gear-fabrication sweep across `albumArticles.js`/`top10Lists.js`/`drummerEvolution.js`/`drummerComparisons.js` vs. `endorsementNews.js` ground truth.
+
+### Actions taken
+- **Live-verified all 8 via subagent** (read actual cited file lines, cross-checked `endorsementNews.js` currentEndorsements/timeline per drummer, dupe search against open+closed issues): #8887 (Jaska Raatikainen — albumArticles.js fabricates a Paiste 2002 era across 74 occurrences, verified continuous Zildjian), #8888 (Hellhammer — top10Lists.js FAQ fabricates Pearl Masters Premium + Meinl Byzance, verified Sonor SQ2 + Paiste RUDE, self-contradicts the same file's own correct lines elsewhere), #8890 (Mikkey Dee — drummerEvolution.js `gear.drums.notes`/`keyChanges` still assert a Sonor relationship during 1988-1992, #8626 only fixed summary/description, genuine sibling-field miss), #8891 (George Kollias — #8302 fixed only 1 of 3 Remo-fabrication era blocks, 2 remain), #8893 (Jay Weinberg — top10Lists.js fabricates Tama tenure, verified SJC Custom since 2014, prior Tama fixes targeted different files), #8894 (Dirk Verbeuren — drummerComparisons.js fabricates Promark sticks, verified Tama O-DVM2 since 2016, prior fixes #6620/#6900/#8073 never touched sticks) — all VERIFIED-CLEAN. #8889 (Matt Greiner) VERIFIED-WITH-NOTE: #7454/#7603 never touched the two sections (`rescue-and-restore`/`found-in-far-away-places` drum-setups) where the Ludwig/Paiste fabrication actually lives — added scope-correction comment. #8892 (Paul Mazurkiewicz) VERIFIED-WITH-NOTE: confirmed current verified brand is Meinl/Remo (consistent with the #5803→#7296/#7403/#7488 cymbal-saga resolution; `top10Lists.js` was never covered by those), found a 4th fabricated "Evans" occurrence beyond the 2 cited — added note to grep the whole file in one pass. All 8 promoted to `ai-fix` (2 with PR-guidance comments).
+- **GSC content-gap**: `joey jordison drum kit` (63 impr, 1.59% CTR) and `matt halpern` (237 impr, 0.42% CTR) — both already ruled (known-oscillator cluster / class-2 bare-name list, `learned-patterns.md` lines 195/246). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` changes since last cited, no re-spam.
+- **Atomic-split sweep**: all open `ai-fix` issues are same-day (today's batch) — nothing open >3 days without `in-progress`/`pr-opened`/`hold`/`blocked`.
+- **Starvation check**: post-triage backlog 8, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this exact batch at 07:22-07:24 UTC, next due in its ~6h cadence window, not yet elapsed — same recurring same-batch-triaged-in-one-run artifact as every prior occurrence this week, not escalating.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still `Generated:` 2026-10-05. Next weekly refresh due ~2026-10-12 — not due yet.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#8887-8894 promoted)
+- seo-proposal bank (excl. held #7981, umbrellas): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (2 with scope-correction notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows already ruled. ✅ L1/L2/L3: not due until ~10-12. ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8887-8894 pick up via Roadie; confirm #8889 scopes to the correct sections and #8892 catches the 4th Evans occurrence.
+2. L1/L2/L3 weekly refresh due ~2026-10-12 — full close-the-loop pass once it lands.
+3. #7981 (Derek Roddy snare) still held — no new external source found yet.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-10-11 06:19 (cheap pulse — 8/8 fresh proposals verified+promoted, #8871-8878)
 
 ### Context (≤3 lines)

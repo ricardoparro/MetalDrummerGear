@@ -34,7 +34,7 @@ Brann's constant motion style treats fills as melodic lines, blending jazz vocab
 
 ## Key Differences
 
-Brann plays Tama Starclassic Performer B/B with Meinl Byzance cymbals and Vater 5B sticks. Mike uses Tama Starclassic Maple/Birch with Sabian HHX cymbals on his iconic multi-bass-drum signature setup. Brann's constant motion style treats fills as melodic lines, blending jazz vocabulary with heavy metal energy. Mike masters rapid-fire transitions, complex time signatures, and endurance across marathon compositions on his massive multi-bass drum kit.
+Brann plays Tama Starclassic Performer B/B with Meinl Mb20 & Mb8 Series cymbals and Vater 5B sticks. Mike uses Tama Starclassic Maple/Birch with Sabian HHX cymbals on his iconic multi-bass-drum signature setup. Brann's constant motion style treats fills as melodic lines, blending jazz vocabulary with heavy metal energy. Mike masters rapid-fire transitions, complex time signatures, and endurance across marathon compositions on his massive multi-bass drum kit.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Brann Dailor represents the organic, melody-driven approach to progressive metal
 ## FAQ
 
 **Q: What are the main differences between Brann Dailor's and Mike Portnoy's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Mike Portnoy uses Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian cymbals. Brann plays Tama Starclassic Performer B/B with Meinl Byzance cymbals and Vater 5B sticks. Mike uses Tama Starclassic Maple/Birch with Sabian HHX cymbals on his iconic multi-bass-drum signature setup.
+A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Mike Portnoy uses Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian cymbals. Brann plays Tama Starclassic Performer B/B with Meinl Mb20 & Mb8 Series cymbals and Vater 5B sticks. Mike uses Tama Starclassic Maple/Birch with Sabian HHX cymbals on his iconic multi-bass-drum signature setup.
 
 **Q: What drums does Brann Dailor play vs Mike Portnoy?**
 A: Brann Dailor plays Tama Starclassic Performer B/B. Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit).
@@ -67,4 +67,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-11 · Source: [MetalForge.io](https://metalforge.io)*

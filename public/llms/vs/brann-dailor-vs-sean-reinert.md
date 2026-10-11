@@ -34,7 +34,7 @@ Dailor's constant-motion style treats fills as melody: his snare and toms carry 
 
 ## Key Differences
 
-Brann Dailor plays a Tama Starclassic Performer B/B (birch/bubinga) drum kit with his Tama S.L.P. G-Maple 14x6.5" snare, Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China), a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks — a jazz-crossover setup chosen for dynamic range over raw power. Dailor's constant-motion style treats fills as melody: his snare and toms carry musical statements through flowing, non-repetitive patterns that blur the line between drumming and composition, all while singing lead and backing vocals over the same parts. Reinert's technique was rooted in formal jazz training — traditional grip, ghost-note vocabulary, and dynamic sensitivity let him navigate between brutal death metal intensity and delicate, swing-informed passages within the same song, a combination virtually unheard of in extreme metal before Cynic's "Focus."
+Brann Dailor plays a Tama Starclassic Performer B/B (birch/bubinga) drum kit with his Tama S.L.P. G-Maple 14x6.5" snare, Meinl Mb20 & Mb8 Series cymbals (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China), a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks — a jazz-crossover setup chosen for dynamic range over raw power. Dailor's constant-motion style treats fills as melody: his snare and toms carry musical statements through flowing, non-repetitive patterns that blur the line between drumming and composition, all while singing lead and backing vocals over the same parts. Reinert's technique was rooted in formal jazz training — traditional grip, ghost-note vocabulary, and dynamic sensitivity let him navigate between brutal death metal intensity and delicate, swing-informed passages within the same song, a combination virtually unheard of in extreme metal before Cynic's "Focus."
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Brann Dailor and Sean Reinert represent two eras of the same idea: that death me
 A: Both are routinely cited in "most musically creative metal drummer" discussions. Brann Dailor (Mastodon) built a career-spanning catalog of melodic, jazz-informed fills across "Leviathan," "Blood Mountain," and "Crack the Skye" while also serving as co-vocalist. Sean Reinert (Death, Cynic) pioneered jazz-fusion vocabulary in death metal a decade earlier on "Human" (1991) and "Focus" (1993), works still considered genre-defining.
 
 **Q: What gear does Brann Dailor use vs Sean Reinert?**
-A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance Series cymbals, a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, a DW 9000 Double Pedal, and Vic Firth American Classic 5A sticks.
+A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Mb20 & Mb8 Series cymbals, a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, a DW 9000 Double Pedal, and Vic Firth American Classic 5A sticks.
 
 **Q: What albums are Brann Dailor and Sean Reinert best known for?**
 A: Brann Dailor is best known for Mastodon's "Leviathan" (2004), "Blood Mountain" (2006), and "Crack the Skye" (2009). Sean Reinert is best known for Death's "Human" (1991) and Cynic's "Focus" (1993) — two albums widely credited with founding technical death metal's jazz-fusion wing.
@@ -64,4 +64,4 @@ A: Brann Dailor is best known for Mastodon's "Leviathan" (2004), "Blood Mountain
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-11 · Source: [MetalForge.io](https://metalforge.io)*

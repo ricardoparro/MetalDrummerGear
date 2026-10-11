@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-10 19:12 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-11 00:36 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,22 +8,22 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 415 |
-| Sessions | 470 |
-| Page views | 615 |
-| Engagement rate | 52.34% |
+| Active users | 365 |
+| Sessions | 413 |
+| Page views | 542 |
+| Engagement rate | 50.85% |
 | Avg session (s) | 77 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 17 | 15 |
-| /drummer/mario-duplantier | 16 | 12 |
-| /drummers/mike-portnoy/evolution | 16 | 6 |
-| /drummer/joey-jordison | 14 | 8 |
-| /articles/whats-in-lars-ulrichs-kit | 12 | 12 |
-| /drummers | 12 | 6 |
-| /drummer/bill-ward | 10 | 7 |
+| /drummer/mario-duplantier | 15 | 10 |
+| / | 14 | 12 |
+| /drummer/joey-jordison | 14 | 7 |
+| /drummers/mike-portnoy/evolution | 14 | 6 |
+| /articles/whats-in-lars-ulrichs-kit | 11 | 11 |
+| /drummer/bill-ward | 10 | 8 |
+| /drummers | 10 | 5 |
 | /articles/black-sabbath-drum-setup | 8 | 8 |
 | /articles/slipknot-self-titled-drum-setup | 7 | 6 |
 | /drummer/eloy-casagrande | 7 | 6 |
@@ -31,66 +31,66 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 340 | 290 |
-| Direct | 114 | 112 |
-| Unassigned | 30 | 30 |
-| Cross-network | 7 | 7 |
+| Organic Search | 295 | 250 |
+| Direct | 96 | 96 |
+| Unassigned | 38 | 36 |
+| Cross-network | 11 | 11 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 156 | 136 |
-| China | 43 | 43 |
-| United Kingdom | 30 | 25 |
-| Singapore | 28 | 28 |
-| Germany | 17 | 14 |
-| Canada | 15 | 13 |
-| Australia | 13 | 12 |
-| France | 13 | 12 |
-| Indonesia | 11 | 10 |
-| Brazil | 9 | 9 |
+| United States | 136 | 117 |
+| China | 37 | 37 |
+| United Kingdom | 29 | 24 |
+| Singapore | 27 | 27 |
+| Germany | 15 | 13 |
+| Canada | 12 | 11 |
+| Australia | 11 | 10 |
+| France | 11 | 10 |
+| Finland | 9 | 7 |
+| Brazil | 8 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 7,209 |
-| Clicks | 148 |
-| CTR | 2.05% |
+| Impressions | 5,382 |
+| Clicks | 106 |
+| CTR | 1.97% |
 | Avg position | 7.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| best drumsticks for metal | 4 | 1 | 25.00% | 6.8 |
+| best drumsticks for metal | 2 | 1 | 50.00% | 8.0 |
 | best metal drummers ever | 3 | 1 | 33.33% | 4.0 |
-| best metal drummers of all time | 20 | 1 | 5.00% | 9.4 |
-| bill ward drum kit | 5 | 1 | 20.00% | 6.4 |
-| death metal drum kit | 3 | 1 | 33.33% | 4.3 |
-| eloy casagrande pedals | 1 | 1 | 100.00% | 1.0 |
+| bill ward drum kit | 4 | 1 | 25.00% | 6.5 |
+| death metal drum kit | 2 | 1 | 50.00% | 3.0 |
 | eloy casagrande slipknot drum kit | 4 | 1 | 25.00% | 5.5 |
-| fastest metal drummers | 2 | 1 | 50.00% | 9.5 |
-| joey jordison drum kit | 54 | 1 | 1.85% | 7.5 |
+| fastest metal drummers | 1 | 1 | 100.00% | 10.0 |
+| joey jordison drum kit | 41 | 1 | 2.44% | 7.5 |
 | judas priest painkiller bpm | 2 | 1 | 50.00% | 7.0 |
+| matt halpern | 97 | 1 | 1.03% | 10.3 |
+| mayhem drummer hellhammer | 2 | 1 | 50.00% | 11.5 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,668 | 46 | 1.72% | 7.9 |
-| gbr | 478 | 14 | 2.93% | 7.7 |
-| fra | 121 | 7 | 5.79% | 7.3 |
-| aus | 291 | 6 | 2.06% | 7.4 |
-| can | 388 | 6 | 1.55% | 7.6 |
-| deu | 248 | 6 | 2.42% | 6.7 |
-| fin | 100 | 6 | 6.00% | 6.3 |
-| idn | 126 | 4 | 3.17% | 6.8 |
-| ita | 129 | 4 | 3.10% | 7.0 |
-| swe | 109 | 4 | 3.67% | 7.3 |
+| usa | 1,996 | 34 | 1.70% | 7.9 |
+| gbr | 367 | 12 | 3.27% | 7.4 |
+| fin | 78 | 6 | 7.69% | 6.1 |
+| can | 279 | 5 | 1.79% | 7.6 |
+| fra | 87 | 4 | 4.60% | 7.2 |
+| aus | 222 | 3 | 1.35% | 7.3 |
+| ita | 101 | 3 | 2.97% | 6.9 |
+| nor | 45 | 3 | 6.67% | 7.5 |
+| swe | 76 | 3 | 3.95% | 7.4 |
+| bra | 149 | 2 | 1.34% | 6.8 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 54 | 1.85% | 7.5 | open issue to answer better |
-| matt halpern | 131 | 0.76% | 9.5 | open issue to answer better |
+| matt halpern | 97 | 1.03% | 10.3 | open issue to answer better |
+| arin ilejay | 261 | 0.00% | 11.8 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

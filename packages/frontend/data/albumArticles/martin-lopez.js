@@ -1733,8 +1733,8 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "Heavier stick than the 5A used on Blackwater Park — more mass for aggressive passages"
+          "model": "Vic Firth American Classic 5A",
+          "notes": "Same 5A stick Lopez used throughout his Opeth tenure"
         }
       ],
       "heads": {
@@ -1889,7 +1889,7 @@ export const articles = {
           "drums": "Sonor Designer Series (22\" kick)",
           "snare": "Sonor Designer 14\" x 5.5\"",
           "cymbals": "Sabian HH Hi-Hats, HH/AAX Crashes, HH Ride, AAX China",
-          "hardware": "Vic Firth 5B"
+          "hardware": "Vic Firth 5A"
         },
         "notes": "Tighter, more aggressive configuration matching Deliverance's brutal production intent."
       },
@@ -1949,10 +1949,10 @@ export const articles = {
           "notes": "Standard tom head for aggressive playing; widely available"
         },
         {
-          "item": "Vic Firth American Classic 5B Sticks",
+          "item": "Vic Firth American Classic 5A Sticks",
           "available": true,
           "priceRange": "$10-15 per pair",
-          "notes": "The heavier-than-5A choice Lopez made for Deliverance's demanding material"
+          "notes": "Lopez's consistent stick choice across his entire Opeth tenure, including Deliverance"
         }
       ]
     },
@@ -2147,7 +2147,7 @@ export const articles = {
           "type": "Sticks",
           "brand": "Vic Firth",
           "model": "Vic Firth American Classic 5A",
-          "notes": "Return to the lighter 5A after Deliverance's heavier 5B — suited to the album's broader dynamic range"
+          "notes": "Same 5A stick Lopez used throughout his Opeth tenure — suited to the album's broader dynamic range"
         },
         {
           "type": "Beaters",
@@ -2300,7 +2300,7 @@ export const articles = {
           "drums": "Sonor Designer Series (22\" kick)",
           "snare": "Sonor Designer 14\" x 5.5\"",
           "cymbals": "Sabian HH Hi-Hats, HH/AAX Crashes, HH Ride, AAX China",
-          "hardware": "Vic Firth 5B"
+          "hardware": "Vic Firth 5A"
         },
         "notes": "Tighter, more aggressive configuration matching Deliverance's brutal production intent."
       },

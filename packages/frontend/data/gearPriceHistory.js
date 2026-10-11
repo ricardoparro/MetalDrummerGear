@@ -2807,18 +2807,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       sticks: {
-        item: 'Vic Firth 5B Hickory',
-        model: 'American Classic 5B',
+        item: 'Vic Firth 5A Hickory',
+        model: 'American Classic 5A',
         specs: 'Hickory, wood tip',
         originalPrice: 9,
         year: 1996,
         source: 'Standard retail price',
-        notes: "Mounier's 5B choice provided the extra mass needed for sustained blast-beat sections without sacrificing control. The heavier 5B (vs 5A) helped maintain consistent stroke weight across extended extreme-tempo passages.",
+        notes: "Mounier's 5A choice provided the speed and control needed for sustained blast-beat sections without sacrificing stick response. The lighter 5A helped maintain consistent stroke speed across extended extreme-tempo passages.",
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Vic Firth 5B American Classic',
+          item: 'Vic Firth 5A American Classic',
           price: 14,
-          link: 'vic-firth-5b',
+          link: 'vic-firth-5a',
         },
       },
       heads: {

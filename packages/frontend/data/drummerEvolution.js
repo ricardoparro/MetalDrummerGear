@@ -19303,7 +19303,7 @@ export const DRUMMER_EVOLUTION = {
 
   // ==========================================
   // Arin Ilejay - ex-Avenged Sevenfold (Drummer Evolution batch 24, Issue #3682)
-  // Confide club circuit -> Mapex/Zildjian A7X era -> Islander & session work
+  // Confide club circuit -> DW/Zildjian A7X era -> Islander & session work
   // ==========================================
   'arin-ilejay': {
     slug: 'arin-ilejay',
@@ -19311,7 +19311,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Avenged Sevenfold',
     totalYearsActive: '2007-Present',
     profileImage: '/images/drummers/arin-ilejay.webp',
-    summary: 'Arin Ilejay went from the Orange County post-hardcore club circuit with Confide to the drum stool vacated by Jimmy "The Rev" Sullivan, recording Avenged Sevenfold\'s chart-topping "Hail to the King" (2013) on a Mapex Saturn Series / Zildjian A Custom rig before a 2015 split sent him into Islander and session work.',
+    summary: 'Arin Ilejay went from the Orange County post-hardcore club circuit with Confide to the drum stool vacated by Jimmy "The Rev" Sullivan, recording Avenged Sevenfold\'s chart-topping "Hail to the King" (2013) on a DW Collector\'s Series / Zildjian A Custom rig before a 2015 split sent him into Islander and session work.',
 
     eras: [
       {
@@ -19386,7 +19386,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2011–2015',
         startYear: 2011,
         endYear: 2015,
-        description: 'Avenged Sevenfold announced on January 20, 2011 that "former Confide drummer" Arin Ilejay would begin touring with the band, filling the seat vacated after Jimmy "The Rev" Sullivan\'s 2009 death and Mike Portnoy\'s session stint on "Nightmare" (2010). Ilejay was confirmed as a full-time member during the recording of "Hail to the King" (2013), which debuted at number one on the Billboard 200, and he built out a Mapex Saturn Series / Zildjian A Custom Mastersound rig for the album\'s touring cycle before the band announced their split in July 2015.',
+        description: 'Avenged Sevenfold announced on January 20, 2011 that "former Confide drummer" Arin Ilejay would begin touring with the band, filling the seat vacated after Jimmy "The Rev" Sullivan\'s 2009 death and Mike Portnoy\'s session stint on "Nightmare" (2010). Ilejay was confirmed as a full-time member during the recording of "Hail to the King" (2013), which debuted at number one on the Billboard 200, and he built out a DW Collector\'s Series / Zildjian A Custom Mastersound rig for the album\'s touring cycle before the band announced their split in July 2015.',
         albums: ['Avenged Sevenfold: Hail to the King (2013)'],
         tours: ['Hail to the King World Tour (2013–2015)'],
         image: null,
@@ -19452,7 +19452,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2015–Present',
         startYear: 2015,
         endYear: 2026,
-        description: 'After Avenged Sevenfold announced their split with Ilejay in mid-2015, he joined Greenville, South Carolina rap-rock band Islander in 2016, replacing Eric Fraizer and recording the group\'s "Power Under Control" (2016). He has continued with solo work and session drumming in the years since, without a single publicly documented gear endorsement replacing the Mapex/Zildjian rig from his Avenged Sevenfold years.',
+        description: 'After Avenged Sevenfold announced their split with Ilejay in mid-2015, he joined Greenville, South Carolina rap-rock band Islander in 2016, replacing Eric Fraizer and recording the group\'s "Power Under Control" (2016). He has continued with solo work and session drumming in the years since, without a single publicly documented gear endorsement replacing the DW/Zildjian rig from his Avenged Sevenfold years.',
         albums: ['Islander: Power Under Control (2016)'],
         tours: ['Islander touring dates (2016–present)'],
         image: null,
@@ -19516,7 +19516,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit did Arin Ilejay play in Avenged Sevenfold?',
-        a: 'Arin Ilejay played a Mapex Saturn Series kit with a Mapex Black Panther 14"x6.5" snare, Zildjian A Custom cymbals, and a Mapex Falcon double pedal — the rig documented across Avenged Sevenfold\'s Hail to the King (2013) recording and touring cycle.',
+        a: 'Arin Ilejay played a DW Collector\'s Series kit with a DW Collector\'s Series snare, Zildjian A Custom cymbals, and a DW 9000 Series double pedal — the rig documented across Avenged Sevenfold\'s Hail to the King (2013) recording and touring cycle.',
       },
       {
         q: 'Was Arin Ilejay in Confide before Avenged Sevenfold?',
@@ -19537,7 +19537,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Arin Ilejay Gear Evolution Timeline | Avenged Sevenfold Drum Kit History',
-    metaDescription: 'Explore Arin Ilejay\'s complete drum gear evolution: from the undocumented Confide club-circuit years through the Mapex Saturn Series / Zildjian A Custom rig behind Avenged Sevenfold\'s Hail to the King (2013), to his post-2015 Islander and session-drumming career.',
+    metaDescription: 'Explore Arin Ilejay\'s complete drum gear evolution: from the undocumented Confide club-circuit years through the DW Collector\'s Series / Zildjian A Custom rig behind Avenged Sevenfold\'s Hail to the King (2013), to his post-2015 Islander and session-drumming career.',
   },
 
   // ==========================================

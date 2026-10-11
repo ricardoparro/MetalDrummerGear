@@ -1,6 +1,6 @@
 # Follow the Reaper Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2000 Album
 
-> Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Follow the Reaper (2000). Complete breakdown of the Tama Starclassic Maple kit, Paiste 2002 cymbals, and Tama Iron Cobra double pedal behind CoB's most technically demanding album.
+> Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Follow the Reaper (2000). Complete breakdown of the Tama Starclassic Maple kit, Zildjian A Series cymbals, and Tama Iron Cobra double pedal behind CoB's most technically demanding album.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Jaska Raatikainen](/llms/drummers/jaska-raatikainen.md)
@@ -14,15 +14,15 @@
 
 Released on September 25, 2000, *Follow the Reaper* is Children of Bodom's third full-length album and the record widely regarded as the pinnacle of Jaska Raatikainen's technical drumming within the band's catalog. Recorded at Astia Studio in Imatra, Finland — the same studio and production team responsible for *Hatebreeder* — it arrived just a year after CoB's second album and documented a dramatic leap in both compositional sophistication and technical execution.
 
-At the center of *Follow the Reaper*'s relentless precision was Raatikainen at 21, already operating at a level of technical mastery that would define the Children of Bodom sound for years to come. His newly adopted Tama Starclassic Maple kit, paired with Paiste 2002 cymbals and the Tama Iron Cobra double pedals, marked the beginning of the gear era that would reach its commercial peak on *Hate Crew Deathroll* (2003). Tracks like "Kissing the Shadows," "Follow the Reaper," and "Bodom After Midnight" deploy double-bass patterns, blast beats, and neoclassical tom fills at extremes that remain benchmarks for the genre.
+At the center of *Follow the Reaper*'s relentless precision was Raatikainen at 21, already operating at a level of technical mastery that would define the Children of Bodom sound for years to come. His newly adopted Tama Starclassic Maple kit, paired with the same Zildjian A Series cymbals he had used since *Hatebreeder* and the Tama Iron Cobra double pedals, marked the beginning of the gear era that would reach its commercial peak on *Hate Crew Deathroll* (2003). Tracks like "Kissing the Shadows," "Follow the Reaper," and "Bodom After Midnight" deploy double-bass patterns, blast beats, and neoclassical tom fills at extremes that remain benchmarks for the genre.
 
-*Follow the Reaper* represents the critical bridge in the Jaska Raatikainen gear arc: it is where the early Tama configuration of *Hatebreeder* gave way to the Starclassic era, where Zildjian A Series cymbals were replaced by Paiste 2002, and where the DW 5000 double pedal was superseded by the Tama Iron Cobra. This article breaks down every component of Raatikainen's setup on *Follow the Reaper* — the Starclassic shells, the Paiste 2002 cymbal selection, the Iron Cobra double pedal, and the stylistic approach that made this CoB's most technically demanding record.
+*Follow the Reaper* represents the critical bridge in the Jaska Raatikainen gear arc: it is where the early Tama configuration of *Hatebreeder* gave way to the Starclassic era, and where the DW 5000 double pedal was superseded by the Tama Iron Cobra — his Zildjian A Series cymbals carried over unchanged. This article breaks down every component of Raatikainen's setup on *Follow the Reaper* — the Starclassic shells, the Zildjian A Series cymbal selection, the Iron Cobra double pedal, and the stylistic approach that made this CoB's most technically demanding record.
 
 ## Gear Breakdown
 
 - **Drums:** Tama Tama Starclassic Maple (Custom finish finish)
 - **Snare:** Tama Tama Starclassic 14" x 5.5" Maple Snare, 14" x 5.5"
-- **Cymbals:** Paiste — Paiste 2002 / Paiste Sound Edge
+- **Cymbals:** Zildjian — Zildjian A Series
 - **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Vic Firth American Classic 5A; Remo Emperor Coated; Remo Powerstroke 3
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-bright — attack clarity for technical death metal without sacrificing body
@@ -43,19 +43,19 @@ The Starclassic maple snare's construction gave it a warmer, more complex charac
 
 The result is a snare sound on *Follow the Reaper* that is aggressive, precise, and present without overwhelming the melodic content — the correct tool for arguably CoB's most technically demanding studio performance.
 
-### Paiste 2002: The Transition from Zildjian to Finnish Metal's Defining Cymbal
+### Zildjian A Series: Brightness and Cut, Carried Over from Hatebreeder
 
-Jaska Raatikainen's cymbal setup on *Follow the Reaper* marked the transition from the Zildjian A Series of *Hatebreeder* to Paiste's 2002 line — a shift that brought a different tonal character to CoB's studio sound and defined the drum sound that would reach its peak on *Hate Crew Deathroll* (2003).
+Jaska Raatikainen's cymbal setup on *Follow the Reaper* carried forward the Zildjian A Series he had used since *Hatebreeder* (1999) — the only element of his rig that didn't change alongside the new Starclassic kit and Iron Cobra pedals, and a setup that would continue through *Hate Crew Deathroll* (2003).
 
-The Paiste 2002 line's CuSn8 bronze alloy produces a bright, cutting sound with enough warmth in the sustain to avoid harshness at high velocities — qualities essential for *Follow the Reaper*'s keyboard-dense arrangements, where Janne Wirman's layers occupied substantial harmonic space across every track. The 2002's natural cut through the mix, without requiring aggressive post-processing, was a significant advantage in Astia Studio's recording environment.
+The Zildjian A Series' B20 bronze alloy and traditional lathing produce a bright, cutting sound with enough warmth in the sustain to avoid harshness at high velocities — qualities essential for *Follow the Reaper*'s keyboard-dense arrangements, where Janne Wirman's layers occupied substantial harmonic space across every track. The A Series' natural cut through the mix, without requiring aggressive post-processing, was a significant advantage in Astia Studio's recording environment.
 
-The Paiste Sound Edge 14" hi-hats — with their rippled-edge bottom cymbal for faster air release and more defined chick — gave Raatikainen the articulation precision required at the tempos on *Follow the Reaper*. "Kissing the Shadows" and "Bodom After Midnight" demand that every sixteenth note at the hi-hat registers as a distinct event; the Sound Edge design delivered that precision across the full surface.
+The Zildjian A 14" hi-hats gave Raatikainen the articulation precision required at the tempos on *Follow the Reaper*. "Kissing the Shadows" and "Bodom After Midnight" demand that every sixteenth note at the hi-hat registers as a distinct event; the A Series' responsive character delivered that precision across the full surface.
 
-The two Paiste 2002 crashes (16" and 18") provided tonal variety for accent work: the 16" for explosive short-decay accents in tight melodic passages, the 18" for section boundaries and builds. The 20" ride served both time-keeping and bell accent functions. The 18" China added the trashy upward-cutting attack deployed at structural riff transitions — always deliberate, never continuous.
+The two A Series crashes (16" and 18") provided tonal variety for accent work: the 16" for explosive short-decay accents in tight melodic passages, the 18" for section boundaries and builds. The 20" ride served both time-keeping and bell accent functions. The 18" China added the trashy upward-cutting attack deployed at structural riff transitions — always deliberate, never continuous.
 
 ## The Technical Summit: Follow the Reaper and the Starclassic Era
 
-*Follow the Reaper* (2000) is where Jaska Raatikainen's technical drumming reached its most demanding expression in Children of Bodom's catalog. The transition to the Tama Starclassic Maple, Paiste 2002 cymbals, and Tama Iron Cobra double pedal was not cosmetic — it was a gear upgrade matched to a fundamental increase in the technical ambition of the arrangements.
+*Follow the Reaper* (2000) is where Jaska Raatikainen's technical drumming reached its most demanding expression in Children of Bodom's catalog. The transition to the Tama Starclassic Maple and Tama Iron Cobra double pedal was not cosmetic — it was a gear upgrade matched to a fundamental increase in the technical ambition of the arrangements, while his Zildjian A Series cymbals carried over unchanged from Hatebreeder.
 
 What distinguishes *Follow the Reaper* as a drum record is not merely the speed — though "Kissing the Shadows" remains one of melodic death metal's most physically demanding recorded performances. It is the combination of that technical extremity with the melody-following intelligence that characterizes Raatikainen's approach: tom fills that track neoclassical guitar and keyboard lines, blast beats deployed as structural events rather than constant texture, dynamic contrast maintained across the full range from verse restraint to peak intensity. The Starclassic Maple's shell consistency and the Iron Cobra's mechanical reliability were the gear conditions that made this combination achievable at these tempos.
 
@@ -68,7 +68,7 @@ For the complete picture of how this album fits within Jaska Raatikainen's gear 
 
 - Released September 25, 2000 — Children of Bodom's third full-length, one year after Hatebreeder
 - Jaska Raatikainen, age 21 — first album on the Tama Starclassic Maple, marking the Starclassic era debut
-- Paiste 2002 cymbals — transition from Zildjian A Series used on Hatebreeder
+- Zildjian A Series cymbals — unchanged from Hatebreeder
 - Tama Iron Cobra double pedal — replaces the DW 5000 of the Hatebreeder sessions
 - "Kissing the Shadows" and "Bodom After Midnight" are the definitive CoB technical drumming showcases
 - Recorded at Astia Studio, Imatra with Anssi Kippo — same team as Hatebreeder, elevated production
@@ -92,7 +92,7 @@ A: Jaska Raatikainen used the Tama Iron Cobra double pedal on *Follow the Reaper
 
 **Q: What cymbals did Jaska Raatikainen use on Follow the Reaper?**
 
-A: On *Follow the Reaper* (2000), Jaska Raatikainen used Paiste cymbals — specifically Paiste Sound Edge 14" hi-hats paired with Paiste 2002 crashes (16" and 18"), a Paiste 2002 20" ride, and a Paiste 2002 18" China. This marked the transition from the Zildjian A Series of *Hatebreeder* (1999) to the Paiste 2002 era that would continue through *Hate Crew Deathroll* (2003). The Paiste 2002's CuSn8 bronze alloy brought a different, brighter tonal character to CoB's cymbal sound. For context, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup).
+A: On *Follow the Reaper* (2000), Jaska Raatikainen used Zildjian A Series cymbals — specifically 14" A hi-hats paired with A Series crashes (16" and 18"), a 20" A ride, and an 18" A China. This was the same Zildjian A Series setup he had used since *Hatebreeder* (1999), and it continued unchanged through *Hate Crew Deathroll* (2003) before he switched to Zildjian A Custom / K Custom in 2005. For context, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup).
 
 **Q: Is Follow the Reaper Jaska Raatikainen's most technical album?**
 
@@ -112,4 +112,4 @@ A: *Follow the Reaper* (2000) is widely regarded as Jaska Raatikainen's most tec
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-11 · Source: [MetalForge.io](https://metalforge.io)*

@@ -55,7 +55,7 @@ The two A Series crashes (16" and 18") gave Raatikainen tonal variety for accent
 
 ## The Album That Started Everything: Hatebreeder and the CoB Drum Legacy
 
-*Hatebreeder* (1999) is where Jaska Raatikainen's approach to melodic death metal drumming first found full expression in a major studio context. The early Tama configuration, Zildjian A Series cymbals, and DW 5000 double pedal were not a finished setup — they were a starting point, the gear foundation from which the Starclassic Maple and Paiste 2002 era, and later the Pearl Masters years, would evolve. But the drumming language was already complete.
+*Hatebreeder* (1999) is where Jaska Raatikainen's approach to melodic death metal drumming first found full expression in a major studio context. The early Tama configuration, Zildjian A Series cymbals, and DW 5000 double pedal were not a finished setup — they were a starting point, the gear foundation from which the Starclassic Maple era, and later the Pearl Masters years, would evolve. But the drumming language was already complete.
 
 What makes *Hatebreeder* worth studying as a drum record is exactly what makes it the entry point for the Jaska Raatikainen discovery cluster: it captures the CoB approach before refinement, at its most direct and energetic. The rawer Astia Studio production, the brightness of the Zildjian A Series against the dense keyboard arrangements, the DW 5000's foundational double-kick engine — these elements create a drum sound with a character distinct from the more polished *Hate Crew Deathroll* recording, and that distinction is musically meaningful.
 
@@ -71,7 +71,7 @@ For Jaska Raatikainen's complete gear evolution — from the DW 5000 era through
 
 - Recorded at Astia Studio, Imatra — Anssi Kippo's first major CoB production
 - Jaska Raatikainen, age 19 — early Tama configuration before the Starclassic era
-- Zildjian A Series cymbals throughout — pre-endorsement, pre-Paiste period
+- Zildjian A Series cymbals throughout — pre-endorsement, continuing through Follow the Reaper and Hate Crew Deathroll
 - DW 5000 double pedal — chain-drive foundation for the neo-classical double-kick approach
 - "Downfall" and "Children of Decadence" showcase the earliest expression of CoB's drum language
 - Entry point for the Jaska Raatikainen discovery cluster: debut album, youngest major Finnish metal lineup
@@ -95,7 +95,7 @@ A: Jaska Raatikainen used the DW 5000 double pedal on *Hatebreeder* (1999). The 
 
 **Q: What cymbals did Jaska Raatikainen use on Hatebreeder?**
 
-A: On *Hatebreeder* (1999), Jaska Raatikainen used Zildjian A Series cymbals throughout — a pre-endorsement setup that preceded the Paiste 2002 combination documented on *Hate Crew Deathroll* (2003) and the later Zildjian A Custom / K Custom pairing of his Pearl endorsement era. The A Series setup included 14" A hi-hats, A crashes (16" and 18"), a 20" A ride, and an 18" A China. The Zildjian A's brightness and natural cut through the mix made them well-suited to Astia Studio's keyboard-heavy recording environment. For context on how this setup evolved across CoB's career, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup).
+A: On *Hatebreeder* (1999), Jaska Raatikainen used Zildjian A Series cymbals throughout — a pre-endorsement setup that continued through *Follow the Reaper* (2000) and *Hate Crew Deathroll* (2003) before he switched to Zildjian A Custom / K Custom in 2005 for *Are You Dead Yet?*. The A Series setup included 14" A hi-hats, A crashes (16" and 18"), a 20" A ride, and an 18" A China. The Zildjian A's brightness and natural cut through the mix made them well-suited to Astia Studio's keyboard-heavy recording environment. For context on how this setup evolved across CoB's career, see the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup).
 
 **Q: What is the drumming style on Hatebreeder?**
 
@@ -115,4 +115,4 @@ A: *Hatebreeder* (1999) documents the first fully-realized expression of Jaska R
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-11 · Source: [MetalForge.io](https://metalforge.io)*

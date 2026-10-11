@@ -19789,7 +19789,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Dimmu Borgir',
     totalYearsActive: '2004-Present',
     profileImage: '/images/drummers/daray.webp',
-    summary: 'Dariusz "Daray" Brzozowski stepped in for an injured Krzysztof "Doc" Raczkowski in Vader in 2004, then crossed straight from his final Vader show into Dimmu Borgir\'s audition room in August 2008, building the Pearl Masterworks Stadium Exotic / Paiste RUDE rig behind "Abrahadabra" (2010) before switching to a Tama Starclassic Performer B/B kit by 2014, the rig that has carried the band\'s symphonic black metal through 2026\'s "Grand Serpent Rising."',
+    summary: 'Dariusz "Daray" Brzozowski stepped in for an injured Krzysztof "Doc" Raczkowski in Vader in 2004, then crossed straight from his final Vader show into Dimmu Borgir\'s audition room in August 2008, building the Pearl Reference Pure / Paiste RUDE rig behind "Abrahadabra" (2010) before switching to a Tama Starclassic Performer B/B kit by 2014, the rig that has carried the band\'s symphonic black metal through 2026\'s "Grand Serpent Rising."',
 
     eras: [
       {
@@ -19864,21 +19864,21 @@ export const DRUMMER_EVOLUTION = {
         years: '2008–2017',
         startYear: 2008,
         endYear: 2017,
-        description: 'Just days after his final Vader show, Brzozowski auditioned for Dimmu Borgir in Oslo in August 2008, replacing touring drummer Tony Laureano behind the kit. He recorded the symphonic black metal landmark "Abrahadabra" (2010), Dimmu Borgir\'s first album with him, and established the Pearl Masterworks Stadium Exotic / Paiste RUDE & 2002 Series rig that has anchored his sound through the band\'s subsequent decade of orchestral, theatrical extreme metal.',
+        description: 'Just days after his final Vader show, Brzozowski auditioned for Dimmu Borgir in Oslo in August 2008, replacing touring drummer Tony Laureano behind the kit. He recorded the symphonic black metal landmark "Abrahadabra" (2010), Dimmu Borgir\'s first album with him, and established the Pearl Reference Pure / Paiste RUDE & 2002 Series rig that has anchored his sound through the band\'s subsequent decade of orchestral, theatrical extreme metal.',
         albums: ['Dimmu Borgir: Abrahadabra (2010)'],
         tours: ['Dimmu Borgir World Tours (2008–2017)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Masterworks Stadium Exotic',
-            details: 'Exotic-veneer stadium-grade shell pack',
+            item: 'Pearl Reference Pure',
+            details: 'Custom black finish, double 22" kick',
             notes: 'Established as his documented endorsement during the Abrahadabra era.',
             change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'Pearl Reference 14"x5.5" Brass',
-            details: 'Brass shell, bright and cutting',
+            item: 'Pearl Reference Series Snare',
+            details: 'Matching Reference-series snare',
             notes: 'Provided the crack needed to cut through Dimmu Borgir\'s dense orchestral arrangements.',
             change: CHANGE_TYPES.NEW,
           },
@@ -19995,7 +19995,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Daray play?',
-        a: 'Daray played a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14"x5.5" Brass snare during Dimmu Borgir\'s Abrahadabra era (2010), before switching to a Tama Starclassic Performer B/B (Piano Black) kit with a Tama S.L.P. Black Brass snare by his July 5, 2014 TAMA 40th Anniversary Drum Festival appearance — the Tama rig documented through Eonian (2018) and Grand Serpent Rising (2026). His Paiste RUDE & 2002 Series cymbals and Pearl Demon Drive double pedal have remained constant.',
+        a: 'Daray played a Pearl Reference Pure kit (custom black finish, double 22" kick) with a Pearl Reference Series snare during Dimmu Borgir\'s Abrahadabra era (2010), before switching to a Tama Starclassic Performer B/B (Piano Black) kit with a Tama S.L.P. Black Brass snare by his July 5, 2014 TAMA 40th Anniversary Drum Festival appearance — the Tama rig documented through Eonian (2018) and Grand Serpent Rising (2026). His Paiste RUDE & 2002 Series cymbals and Pearl Demon Drive double pedal have remained constant.',
       },
       {
         q: 'Was Daray in Vader before Dimmu Borgir?',
@@ -20016,7 +20016,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Daray Gear Evolution Timeline | Dimmu Borgir Drum Kit History',
-    metaDescription: 'Explore Daray\'s complete drum gear evolution: from the undocumented Vader years (2004–2008) through the Pearl Masterworks Stadium Exotic rig behind Dimmu Borgir\'s Abrahadabra (2010), to the Tama Starclassic Performer B/B rig behind Eonian (2018) and 2026\'s Grand Serpent Rising.',
+    metaDescription: 'Explore Daray\'s complete drum gear evolution: from the undocumented Vader years (2004–2008) through the Pearl Reference Pure rig behind Dimmu Borgir\'s Abrahadabra (2010), to the Tama Starclassic Performer B/B rig behind Eonian (2018) and 2026\'s Grand Serpent Rising.',
   },
 
   // ==========================================

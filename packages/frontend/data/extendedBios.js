@@ -7000,10 +7000,10 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
           { q: 'When was Nick Augusto in Trivium?', a: 'Nick Augusto was Trivium\'s drummer from 2010 to 2014, recording two albums with the band.' },
           { q: 'What albums did Nick Augusto record with Trivium?', a: 'Nick recorded "In Waves" (2011) and "Vengeance Falls" (2013) with Trivium.' },
           { q: 'What drum kit does Nick Augusto use?', a: 'Nick Augusto\'s drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls."' },
-          { q: 'What drum set does Nick Augusto use?', a: 'Nick Augusto\'s drum set pairs his Pearl Reference Pure shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls"; the specific snare model has not been independently verified.' },
+          { q: 'What drum set does Nick Augusto use?', a: 'Nick Augusto\'s drum set pairs his Pearl Reference Pure shells with a DW 9000 Series double pedal and Pearl D-2000 throne, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls"; the specific snare model has not been independently verified.' },
           { q: 'What snare does Nick Augusto use?', a: 'Augusto plays a Pearl snare as part of his Pearl Reference Pure kit; the specific snare model has not been independently verified.' },
           { q: 'What cymbals does Nick Augusto play?', a: 'Nick Augusto\'s cymbal setup is Sabian AAX Series: 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.' },
-          { q: 'What bass drum pedal does Nick Augusto use?', a: 'Augusto drives his speed-focused double bass work with a Pearl Demon Drive Double Pedal, mounted alongside a Pearl D-2000 Throne.' },
+          { q: 'What bass drum pedal does Nick Augusto use?', a: 'Augusto drives his speed-focused double bass work with a DW 9000 Series double pedal, mounted alongside a Pearl D-2000 Throne.' },
           { q: 'What sticks does Nick Augusto use?', a: 'Nick Augusto plays Pro-Mark Nylon Tip 5B sticks, paired with Evans drumheads.' },
           { q: 'Why did Nick Augusto leave Trivium?', a: 'Nick parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro.' }
         ]

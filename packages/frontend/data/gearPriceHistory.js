@@ -3160,7 +3160,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'The Joy of Motion (2014)',
     profileImage: '/images/drummers/matt-garstka.webp',
 
-    summary: "Matt Garstka's 2014 debut with Animals as Leaders on The Joy of Motion introduced metal audiences to a drummer who approached djent with a jazz-fusion vocabulary. A Berklee College of Music graduate who replaced Navene Koperweis in 2012, Garstka built his AAL-era rig around a compact Pearl Masterworks Maple four-piece — deliberately smaller than the sprawling kits favored by many progressive metal peers, with a 20\"x16\" kick chosen for quick articulation over raw size. His Pearl Reference snare (still pre-signature at this point) and a developing Meinl Byzance cymbal array gave him the dynamic range needed for the ghost-note-heavy, traditional-grip style he brought from his jazz background. A Pearl Demon Drive double pedal anchored the footwork beneath The Joy of Motion's dense polyrhythms. The complete 2014 setup cost approximately $7,949 — equivalent to roughly $11,000 in 2026 after inflation. Within two years, Garstka's profile had grown enough to earn a Pearl Matt Garstka Signature Snare and Vic Firth signature sticks, products that remain in production today and that define his \"peak era\" setup across The Madness of Many (2016) and Parrhesia (2022). What distinguishes Garstka's gear story is how little the underlying philosophy changed even as the products became personalized: smaller drums, dark Byzance cymbals, and a traditional-grip-friendly stick taper, all built around dynamics rather than raw power. The Joy of Motion remains the foundational document of that approach — and the album that first proved jazz sophistication could anchor a progressive metal rhythm section.",
+    summary: "Matt Garstka's 2014 debut with Animals as Leaders on The Joy of Motion introduced metal audiences to a drummer who approached djent with a jazz-fusion vocabulary. A Berklee College of Music graduate who replaced Navene Koperweis in 2012, Garstka built his AAL-era rig around a compact Pearl Masterworks Maple four-piece — deliberately smaller than the sprawling kits favored by many progressive metal peers, with a 20\"x16\" kick chosen for quick articulation over raw size. The same year, Pearl and Vic Firth released his signature snare and signature sticks, and Garstka recorded The Joy of Motion on that gear from day one — the 14\"x5\" maple signature snare's ghost-note-sensitive bearing edge and a developing Meinl Byzance cymbal array gave him the dynamic range needed for the ghost-note-heavy, traditional-grip style he brought from his jazz background. A Pearl Demon Drive double pedal anchored the footwork beneath The Joy of Motion's dense polyrhythms. The complete 2014 setup cost approximately $7,949 — equivalent to roughly $11,000 in 2026 after inflation. Both the signature snare and signature sticks remain in production today, defining his \"peak era\" setup across The Madness of Many (2016) and Parrhesia (2022) without ever having changed. What distinguishes Garstka's gear story is how little the underlying philosophy changed even as his profile grew: smaller drums, dark Byzance cymbals, and a traditional-grip-friendly stick taper, all built around dynamics rather than raw power. The Joy of Motion remains the foundational document of that approach — and the album that first proved jazz sophistication could anchor a progressive metal rhythm section.",
 
     setup: {
       drums: {
@@ -3179,16 +3179,16 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       snare: {
-        item: 'Pearl Reference Snare 14"x5"',
-        model: 'Maple/Birch Hybrid (pre-signature)',
-        specs: '14"x5" Reference hybrid shell',
+        item: 'Pearl Matt Garstka Signature Snare',
+        model: '14"x5" Maple Signature',
+        specs: '14"x5" maple shell with a unique bearing edge tuned for ghost-note sensitivity',
         originalPrice: 350,
         year: 2014,
-        source: 'Pearl Reference snare catalog 2014',
-        notes: "Before his 2016 signature model, Garstka recorded The Joy of Motion on a standard Pearl Reference snare — already shallow and quick-responding, foreshadowing the sensitivity-first design of the signature drum that followed.",
+        source: 'Pearl Matt Garstka Signature Snare released 2014',
+        notes: "Garstka's Pearl signature snare launched in 2014 and was the drum he recorded The Joy of Motion on — its sensitivity-tuned bearing edge was built around the ghost-note-heavy, traditional-grip style he brought from his jazz background.",
         vintageValue2026: 400,
         modernEquivalent: {
-          item: 'Pearl Matt Garstka Signature Snare',
+          item: 'Pearl Matt Garstka Signature Snare (current production)',
           price: 450,
           link: 'pearl-matt-garstka-signature-snare',
         },
@@ -3224,16 +3224,16 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       sticks: {
-        item: 'Vic Firth 5A Hickory',
-        model: 'American Classic 5A (pre-signature)',
-        specs: 'Hickory, wood tip',
+        item: 'Vic Firth Matt Garstka Signature',
+        model: 'Signature Stick (elongated taper)',
+        specs: 'Hickory, elongated taper, wood tip',
         originalPrice: 9,
         year: 2014,
-        source: 'Standard retail price',
-        notes: 'Standard Vic Firth 5A before his 2016 signature stick — already suited to traditional grip and dynamic control.',
+        source: 'Vic Firth Matt Garstka Signature Stick released 2014',
+        notes: "Garstka's Vic Firth signature stick launched in 2014 — its elongated taper for dynamic control was already suited to the traditional-grip technique he used on The Joy of Motion.",
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Vic Firth Matt Garstka Signature',
+          item: 'Vic Firth Matt Garstka Signature (current production)',
           price: 15,
           link: 'vic-firth-matt-garstka-signature',
         },
@@ -3263,8 +3263,7 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     priceEvolution: [
-      { year: 2014, price: 7949, label: 'Original Purchase', event: 'The Joy of Motion recording' },
-      { year: 2016, price: 8600, label: 'Signature products launch', event: 'Pearl Matt Garstka Signature Snare and Vic Firth signature sticks released' },
+      { year: 2014, price: 7949, label: 'Original Purchase', event: 'The Joy of Motion recording on his new Pearl and Vic Firth signature gear' },
       { year: 2019, price: 9400, label: 'Drumeo presence grows', event: 'Garstka becomes one of the most-watched drum educators online' },
       { year: 2022, price: 10200, label: 'Parrhesia era', event: 'AAL returns with its most dynamically ambitious album' },
       { year: 2024, price: 10800, label: 'Touring Parrhesia', event: 'Continued global clinics and touring' },

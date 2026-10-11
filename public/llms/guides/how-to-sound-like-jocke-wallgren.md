@@ -16,7 +16,7 @@ What makes Wallgren distinctive is groove-first support. Amon Amarth's songs liv
 Wallgren plays a **Pearl Reference Pure** kit for the combination of low-end authority and articulate attack needed to project Amon Amarth's double-bass gallop across arena and festival stages:
 
 - **Kick Drums:** 22" x 18" Bass Drums (double kick configuration)
-- **Snare:** 14" x 6.5" Pearl Reference Brass
+- **Snare:** 14" x 6.5" Pearl Reference Pure
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Tom:** 16" x 16"
 - **Cymbals:** Zildjian A Custom & K Custom Series — bright A Custom crashes and hi-hats with a warmer K Custom ride
@@ -29,7 +29,7 @@ Wallgren plays a **Pearl Reference Pure** kit for the combination of low-end aut
 Wallgren tunes for projection and clarity at arena scale — every gallop stroke and backbeat crack needs to reach the back of a festival field without losing definition:
 
 - **Kick:** Medium-tight tension, foam pad and small port hole. Prioritize attack over boom so fast gallop patterns stay articulate even at high volume.
-- **Snare:** Medium-high tension, minimal muffling. The brass shell provides the cut, not choking the drum — tune a few turns above finger-tight and let it ring.
+- **Snare:** Medium-high tension, minimal muffling. The maple/birch hybrid shell provides warm, full-bodied cut without choking the drum — tune a few turns above finger-tight and let it ring.
 - **Toms:** Medium tension, light Moongel. Tune toms a fourth apart for a big, cinematic descending fill sound that suits Viking metal's dramatic scope.
 
 ## Technique Tips
@@ -49,7 +49,7 @@ Wallgren plays **matched grip** with a powerful, relaxed stroke built for endura
 | Item | Wallgren's Spec | Budget Alternative |
 |------|-------------|-------------------|
 | Drum Kit | Pearl Reference Pure | Pearl Export or Decade Maple (~$700) |
-| Snare | Pearl Reference Brass 14" x 6.5" | Pearl Sensitone Brass or Tama Bell Brass |
+| Snare | Pearl Reference Pure 14" x 6.5" | Pearl Export or Decade Maple |
 | Cymbals | Zildjian A Custom & K Custom Series | Zildjian A Custom Pack (~$250) |
 | Pedal | Pearl Demon Drive Double | Pearl P2000C Double (~$150) |
 | Sticks | Vic Firth American Classic 5B | Promark 5B or Vater Power 5B |
@@ -71,7 +71,7 @@ Wallgren plays **matched grip** with a powerful, relaxed stroke built for endura
 A: Wallgren's defining trait is groove-first support — his double-bass gallop and kick patterns track Amon Amarth's guitar riffs exactly rather than running as independent technical showcases. Combined with a huge, anthemic backbeat and genuine dynamic control between quiet folk-tinged passages and explosive choruses, his playing makes the band's Viking-themed anthems hit with maximum physical weight.
 
 **Q: What drums and cymbals does Jocke Wallgren use?**  
-A: Wallgren plays a Pearl Reference Pure kit with a Pearl Reference Brass snare for a bright, cutting backbeat. His cymbals are Zildjian A Custom & K Custom — bright A Custom crashes and hi-hats paired with a warmer K Custom ride. He uses a Pearl Demon Drive double pedal and heavier Vic Firth 5B sticks.
+A: Wallgren plays a Pearl Reference Pure kit, including the matching maple/birch hybrid Reference Pure snare, for a warm, full-bodied backbeat. His cymbals are Zildjian A Custom & K Custom — bright A Custom crashes and hi-hats paired with a warmer K Custom ride. He uses a Pearl Demon Drive double pedal and heavier Vic Firth 5B sticks.
 
 **Q: How do I get the Amon Amarth drum sound?**  
 A: Tune the kick for punchy, defined attack rather than boom, keep the snare bright and minimally muffled for cut, and prioritize locking every kick pattern to the guitar riff before adding fills. The Viking gallop only works when it's rhythmically identical to the riff it supports.

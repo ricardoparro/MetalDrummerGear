@@ -7724,7 +7724,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Cosmogenesis (2009)',
     profileImage: '/images/drummers/hannes-grossmann.webp',
 
-    summary: "Hannes Grossmann's 2009 setup behind Obscura's Cosmogenesis documents the rig that helped redefine technical death metal for a new generation — the album that established Obscura as heir apparent to Death's progressive legacy after Grossmann's earlier tenure in Necrophagist. His Tama Starclassic Maple kit, paired with a Tama S.L.P. G-Maple snare and a Meinl Byzance cymbal setup built around traditional and brilliant finishes, gave him the warmth and articulation needed for Cosmogenesis's sweeping, multi-tempo compositions. The complete rig cost approximately $8,992 in 2009 dollars — equivalent to roughly $13,733 in 2026 after inflation. Grossmann carried a version of this Tama/Meinl configuration through Omnivium (2011) before departing Obscura in 2014, having already co-founded the progressive death metal supergroup Alkaloid in 2013. What distinguished Grossmann's playing on Cosmogenesis was his classically-influenced precision — a drummer equally comfortable with blast-beat velocity and the kind of compositional restraint that let Obscura's cosmic, multi-part arrangements breathe. The Tama Starclassic Maple kit documented here remained his foundation through one of technical death metal's most celebrated album runs.",
+    summary: "Hannes Grossmann's 2009 setup behind Obscura's Cosmogenesis documents the rig that helped redefine technical death metal for a new generation — the album that established Obscura as heir apparent to Death's progressive legacy after Grossmann's earlier tenure in Necrophagist. His Tama Starclassic Maple kit, paired with a Tama S.L.P. G-Maple snare and a Meinl Byzance cymbal setup built around traditional and brilliant finishes, gave him the warmth and articulation needed for Cosmogenesis's sweeping, multi-tempo compositions. The complete rig cost approximately $8,907 in 2009 dollars — equivalent to roughly $13,606 in 2026 after inflation. Grossmann carried a version of this Tama/Meinl configuration through Omnivium (2011) before departing Obscura in 2014, having already co-founded the progressive death metal supergroup Alkaloid in 2013. What distinguished Grossmann's playing on Cosmogenesis was his classically-influenced precision — a drummer equally comfortable with blast-beat velocity and the kind of compositional restraint that let Obscura's cosmic, multi-part arrangements breathe. The Tama Starclassic Maple kit documented here remained his foundation through one of technical death metal's most celebrated album runs.",
 
     setup: {
       drums: {
@@ -7802,36 +7802,21 @@ export const GEAR_PRICE_HISTORY = {
           link: 'vic-firth-5b-grossmann',
         },
       },
-      heads: {
-        item: 'Evans Drumheads',
-        model: 'G2 Clear (toms), EMAD (kick), Genera HD Dry (snare)',
-        specs: 'Evans G2 clear tom batters, EMAD kick batter, Genera HD Dry snare batter',
-        originalPrice: 85,
-        year: 2009,
-        source: 'Evans retail pricing 2009',
-        notes: "Durable, punchy heads built to survive Obscura's demanding touring schedule.",
-        vintageValue2026: null,
-        modernEquivalent: {
-          item: 'Evans Pro Pack (G2 + G1 + EMAD2)',
-          price: 120,
-          link: 'evans-pro-pack-grossmann',
-        },
-      },
     },
 
     totals: {
-      originalTotal: 8992,
+      originalTotal: 8907,
       inflationAdjusted2026: null, // Calculated dynamically
       vintageTotal2026: 5980,
-      modernEquivalentTotal: 10883,
+      modernEquivalentTotal: 10763,
     },
 
     priceEvolution: [
       { year: 2008, price: 7800, label: 'Co-founds Obscura', event: 'Departs Necrophagist; establishes Tama Starclassic / Meinl Byzance rig with new band' },
-      { year: 2009, price: 8992, label: 'Original Purchase', event: 'Cosmogenesis recorded — full Tama Starclassic / Meinl Byzance rig documented' },
-      { year: 2011, price: 9400, label: 'Omnivium era', event: 'Same Tama / Meinl configuration carried into Obscura\'s second album' },
-      { year: 2014, price: 9400, label: 'Departs Obscura', event: 'Left the band; continues with Alkaloid, co-founded in 2013' },
-      { year: 2026, price: 13733, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2009 Cosmogenesis-era setup' },
+      { year: 2009, price: 8907, label: 'Original Purchase', event: 'Cosmogenesis recorded — full Tama Starclassic / Meinl Byzance rig documented' },
+      { year: 2011, price: 9315, label: 'Omnivium era', event: 'Same Tama / Meinl configuration carried into Obscura\'s second album' },
+      { year: 2014, price: 9315, label: 'Departs Obscura', event: 'Left the band; continues with Alkaloid, co-founded in 2013' },
+      { year: 2026, price: 13606, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2009 Cosmogenesis-era setup' },
     ],
 
     sources: [
@@ -7843,7 +7828,7 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Hannes Grossmann Drum Setup Cost | Obscura Cosmogenesis Gear Price History",
-      description: "How much did Hannes Grossmann's 2009 Obscura drum kit cost? Original ~$8,992, inflation-adjusted to ~$13,733 today. Complete Tama Starclassic Maple breakdown from the Cosmogenesis era.",
+      description: "How much did Hannes Grossmann's 2009 Obscura drum kit cost? Original ~$8,907, inflation-adjusted to ~$13,606 today. Complete Tama Starclassic Maple breakdown from the Cosmogenesis era.",
       keywords: ['hannes grossmann drum setup cost', 'obscura drummer gear history', 'hannes grossmann tama starclassic maple', 'cosmogenesis drum kit price', 'hannes grossmann gear cost today', 'hannes grossmann drummer gear'],
     },
   },

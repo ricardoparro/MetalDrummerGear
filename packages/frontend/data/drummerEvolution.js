@@ -5493,8 +5493,8 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Remo Emperor / Powerstroke 3',
-            details: 'Emperor on toms, Powerstroke 3 on kick',
+            item: 'Evans G2 Coated / EMAD',
+            details: 'G2 Coated on toms, EMAD on kick',
             notes: 'Double-ply for durability at extreme speeds; focused kick punch.',
             change: CHANGE_TYPES.UPGRADE,
           },
@@ -5564,8 +5564,8 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
-            item: 'Remo Emperor / Powerstroke 3',
-            details: 'Emperor on toms, Powerstroke 3 on kick',
+            item: 'Evans G2 Coated / EMAD',
+            details: 'G2 Coated on toms, EMAD on kick',
             notes: 'Reliable configuration maintained for intense international touring.',
             change: null,
           },

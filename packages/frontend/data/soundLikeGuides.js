@@ -89,7 +89,7 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
         finish: 'Slipknot Tribal Black',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 5.5" Joey Jordison Signature Snare',
+          snare: '13" x 6.5" Joey Jordison Signature Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '14" x 12" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
@@ -99,9 +99,9 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
       snare: {
         brand: 'Pearl',
         model: 'Joey Jordison Signature Snare',
-        size: '14" x 5.5"',
+        size: '13" x 6.5"',
         shell: 'Steel with custom Joey Jordison lugs',
-        description: "Joey's signature snare was all about crack and cut. The steel shell provided the bright, aggressive attack that defined his sound. He tuned it high for maximum projection.",
+        description: "Joey's signature snare was all about crack and cut. The steel shell and deep 6.5\" shell gave it extra body and punch alongside the bright, aggressive attack that defined his sound. He tuned it high for maximum projection.",
         alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for similar crack"
       },
       cymbals: {

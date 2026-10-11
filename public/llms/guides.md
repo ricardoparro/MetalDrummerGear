@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-10-07 · Source: https://metalforge.io
+> Last updated: 2026-10-11 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 

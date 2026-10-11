@@ -12100,3 +12100,48 @@ Held back one already-verified candidate (`adrian-erlandsson` — 2 residual `pr
 3. The gearPriceHistory.js/drummerComparisons.js era-drift vein: 59 sampled → 8 hits this run (similar yield to the 35→6 prior run) — still productive. Next run should sample a fresh, not-yet-checked batch (now ~20 of 71 drummers covered across 3 batches: #8821-8824, #8831-8836, #8841-8848).
 4. Content-gap: `joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+---
+
+## 2026-10-11 (run ~01:46 UTC) — gear-fabrication sweep continued, fresh file coverage: 8 filed (#8871-8878)
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers explicitly allowed. ✅
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap: 3,162 URLs — unchanged.
+- Bank check: `seo-proposal` label total 12 at run start (8 open: #8863-8870 + held #7981 + 3 standing umbrellas #2211/#3810/#3819) → true untriaged bank 0. Under the 45 floor → filed up to 8.
+- Not Monday (2026-10-11 is Sunday) — drum-chair watch skipped this run; next due Monday 2026-10-12, group 2 (korn through opeth).
+
+### Metrics readout
+- GSC 7d (01:29 UTC refresh): 5,382 impr / 106 clicks / 1.97% CTR / pos 7.5. Content-gap rows (impr≥50, CTR<2%): `matt halpern` (97 impr, 1.03%) and `arin ilejay` (261 impr, 0.00%) — both already ruled class-2 bare-name SERP shapes in `learned-patterns.md` (confirmed by re-reading the file this run, not just trusting the prior ruling). No re-action.
+- GA4 7d: 414 sessions, organic 295/414 (71.3%) — consistent with the confirmed organic-majority channel.
+
+### Method
+Continued the gearPriceHistory.js/drummerComparisons.js/endorsementNews.js sibling-field-miss sweep, this run widening scope beyond those two files (per the "vein thinning" note from the prior run) to also cover `drummerEvolution.js` and `soundLikeGuides.js`, which hadn't been swept for these specific drummers. Dispatched a subagent to sample a fresh batch of drummers not named in the 8 open issues (#8863-8870) across 2-3 drift-prone files each, cross-checked against `endorsementNews.js` ground truth. Got back 10 candidates; personally re-verified all 10 via direct `grep`/`sed` against current source (not trusting the subagent summary) — all 10 held up as genuine, still-live discrepancies. Trimmed to the 8 strongest/clearest for this run's cap; held back 2 for next run (see below).
+
+Notable findings this run:
+- **Nick Menza** (#8872) and **Daray** (#8873): both in `drummerEvolution.js`, a file not touched by the recent gearPriceHistory.js-focused batches — confirms the vein extends to sibling files once the primary file is more thoroughly covered.
+- **Jocke Wallgren** (#8877): a same-file internal self-contradiction (drumKit.model says Reference Pure/maple, the snare sub-block says Reference Brass) — this class of finding (no cross-file comparison needed, the file disagrees with itself) is cheap to verify and high-confidence.
+- **Matt Garstka** (#8876): a 2014-vs-2016 date error on signature-gear launch, same shape as the Jason Bittner (#8874) 2012-vs-2017 Overkill-join error — date/year drift on an otherwise-correct brand is a distinct sub-pattern from brand fabrication.
+
+### Proposals filed this run
+1. #8871 — Brann Dailor: drummerComparisons.js fabricates Meinl Byzance cymbals (6 locations) — verified Meinl Mb20 & Mb8 Series
+2. #8872 — Nick Menza: drummerEvolution.js Cryptic Writings era fabricates Premier Signia drums/Zildjian cymbals — verified Pearl Masterworks/Sabian AA
+3. #8873 — Daray: drummerEvolution.js 2008-2017 era fabricates Pearl Masterworks Stadium Exotic — verified Pearl Reference Pure
+4. #8874 — Jason Bittner: gearPriceHistory.js fabricates 2012 Overkill join — verified May 2017
+5. #8875 — Flo Mounier: gearPriceHistory.js 1996 sticks fabricates Vic Firth 5B — verified 5A American Classic since 1992
+6. #8876 — Matt Garstka: gearPriceHistory.js claims 2016 signature snare/sticks launch — verified both released 2014
+7. #8877 — Jocke Wallgren: soundLikeGuides.js snare self-contradicts as brass — verified maple Reference Pure
+8. #8878 — Joey Jordison: soundLikeGuides.js snare size wrong (14x5.5") — verified 13x6.5"
+
+### Held back for next run (already verified, ready to file without re-verification)
+- **Jaska Raatikainen** — `albumArticles/jaska-raatikainen.js` narrates an entire fabricated "Paiste 2002" cymbal era (Follow the Reaper 2000 / Hate Crew Deathroll 2003) across many lines in the file; endorsementNews.js shows continuous Zildjian (A Series → A Custom/K Custom in 2005), Paiste never appears. Larger/sprawling single-file fix, deprioritized behind the 8 atomic ones this run.
+- **Hellhammer** — `top10Lists.js` FAQ answers (2 locations, Viking-metal and war-metal genre lists) fabricate "Pearl Masters Premium kit with Meinl Byzance cymbals"; verified Sonor SQ2 Heavy Beech / Paiste RUDE Series.
+- `adrian-erlandsson` residual 2 `priceEvolution` rows note from the 2026-10-10 run is now superseded — that fact shipped as #8863 (open, awaiting CEO triage).
+
+### Next run
+1. Watch #8871-8878 through CEO triage.
+2. File Jaska Raatikainen (Paiste 2002 narrative) and Hellhammer (top10Lists.js FAQ) next bank-topping-up run — both pre-verified.
+3. Continue widening the sibling-field-miss sweep to `drummerEvolution.js`/`soundLikeGuides.js`/`albumArticles/*.js` for drummers already covered on `gearPriceHistory.js`/`drummerComparisons.js` only — today's hit rate (10/10 candidates confirmed real) suggests these less-swept files still have a high yield.
+4. Content-gap: `matt halpern`/`arin ilejay` re-confirmed against standing class-2 rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).

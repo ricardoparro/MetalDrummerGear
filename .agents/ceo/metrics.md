@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-11 00:36 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-11 01:29 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 365 |
-| Sessions | 413 |
-| Page views | 542 |
-| Engagement rate | 50.85% |
+| Active users | 366 |
+| Sessions | 414 |
+| Page views | 544 |
+| Engagement rate | 50.72% |
 | Avg session (s) | 77 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| / | 15 | 13 |
 | /drummer/mario-duplantier | 15 | 10 |
-| / | 14 | 12 |
-| /drummer/joey-jordison | 14 | 7 |
+| /drummer/joey-jordison | 14 | 8 |
 | /drummers/mike-portnoy/evolution | 14 | 6 |
 | /articles/whats-in-lars-ulrichs-kit | 11 | 11 |
 | /drummer/bill-ward | 10 | 8 |
@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | Organic Search | 295 | 250 |
 | Direct | 96 | 96 |
-| Unassigned | 38 | 36 |
+| Unassigned | 39 | 37 |
 | Cross-network | 11 | 11 |
 
 ### Top countries (sessions, last 7d)

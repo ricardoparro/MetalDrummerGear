@@ -10925,7 +10925,7 @@ This guide breaks down the technique, gear, and practice approach behind Wallgre
         finish: 'Touring finish',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Reference Brass',
+          snare: '14" x 6.5" Pearl Reference Pure',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
@@ -10934,11 +10934,11 @@ This guide breaks down the technique, gear, and practice approach behind Wallgre
       },
       snare: {
         brand: 'Pearl',
-        model: 'Pearl Reference Brass',
+        model: 'Pearl Reference Pure',
         size: '14" x 6.5"',
-        shell: 'Brass',
-        description: "A brass snare gives Wallgren a bright, cutting crack that projects over Amon Amarth's dense, downtuned guitar wall. The 6.5\" depth adds enough body for a full, anthemic backbeat without sacrificing articulation on faster patterns.",
-        alternative: "Pearl Sensitone Brass or Tama Bell Brass for a similar bright cut"
+        shell: 'Maple/birch hybrid',
+        description: "The maple/birch hybrid shell gives Wallgren a warm, full-bodied crack with enough low-mid punch to project over Amon Amarth's dense, downtuned guitar wall. The 6.5\" depth adds enough body for a full, anthemic backbeat without sacrificing articulation on faster patterns.",
+        alternative: "Pearl Export or Decade Maple for a similar warm, full-bodied tone"
       },
       cymbals: {
         brand: 'Zildjian',
@@ -10983,8 +10983,8 @@ This guide breaks down the technique, gear, and practice approach behind Wallgre
       snare: {
         tension: "Medium-high",
         muffling: "Minimal",
-        description: "The brass snare is tuned bright and cutting so the backbeat registers over Amon Amarth's dense guitar wall without needing to be mixed unnaturally loud.",
-        tip: "Tune a few turns above finger-tight and let the brass shell ring — the cut comes from the shell material, not from choking the drum."
+        description: "The maple/birch hybrid snare is tuned medium-high with minimal muffling so the backbeat registers warm but defined over Amon Amarth's dense guitar wall without needing to be mixed unnaturally loud.",
+        tip: "Tune a few turns above finger-tight and let the shell ring — the fullness comes from the hybrid shell, not from choking the drum."
       },
       toms: {
         tension: "Medium",
@@ -11061,7 +11061,7 @@ This guide breaks down the technique, gear, and practice approach behind Wallgre
       },
       {
         question: "What drums and cymbals does Jocke Wallgren use?",
-        answer: "Wallgren plays a Pearl Reference Pure kit with a Pearl Reference Brass snare for a bright, cutting backbeat. His cymbals are Zildjian A Custom & K Custom — bright A Custom crashes and hi-hats paired with a warmer K Custom ride. He uses a Pearl Demon Drive double pedal and heavier Vic Firth 5B sticks for arena-level power."
+        answer: "Wallgren plays a Pearl Reference Pure kit, including the matching maple/birch hybrid Reference Pure snare, for a warm, full-bodied backbeat. His cymbals are Zildjian A Custom & K Custom — bright A Custom crashes and hi-hats paired with a warmer K Custom ride. He uses a Pearl Demon Drive double pedal and heavier Vic Firth 5B sticks for arena-level power."
       },
       {
         question: "How do I get the Amon Amarth drum sound?",

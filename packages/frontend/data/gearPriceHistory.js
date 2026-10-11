@@ -2208,17 +2208,17 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Wages of Sin (2001)',
     profileImage: '/images/drummers/daniel-erlandsson.webp',
 
-    summary: "Daniel Erlandsson's 2001 Pearl Masters Premium setup from Arch Enemy's Wages of Sin — the album that introduced Angela Gossow as vocalist and elevated Arch Enemy to international melodic death metal prominence. Erlandsson combined Pearl's professional-grade maple shells with his longtime Sabian cymbal setup to produce the precise, powerful foundation beneath Michael Amott's harmony guitar leads. His approach favoured clean attack and dynamic control over sheer brutality, making the Pearl Masters Premium's articulate tone an ideal match for melodic death metal's balance of aggression and melody. The setup established the sonic signature that Erlandsson would develop through Anthems of Rebellion, Doomsday Machine, and beyond.",
+    summary: "Daniel Erlandsson's 2001 Pearl Reference Pure setup from Arch Enemy's Wages of Sin — the album that introduced Angela Gossow as vocalist and elevated Arch Enemy to international melodic death metal prominence. Erlandsson combined Pearl's professional-grade maple shells with his longtime Sabian cymbal setup to produce the precise, powerful foundation beneath Michael Amott's harmony guitar leads. His approach favoured clean attack and dynamic control over sheer brutality, making the Pearl Reference Pure's articulate tone an ideal match for melodic death metal's balance of aggression and melody. The setup established the sonic signature that Erlandsson would develop through Anthems of Rebellion, Doomsday Machine, and beyond.",
 
     setup: {
       drums: {
-        item: 'Pearl Masters Premium',
+        item: 'Pearl Reference Pure',
         model: '6-piece maple shell pack',
         specs: '22"x18" kick, 10"x8" rack, 12"x9" rack, 14"x12" floor, 16"x14" floor — natural finish',
         originalPrice: 2800,
         year: 2001,
-        source: 'Pearl Masters Premium catalog MSRP 2001',
-        notes: "Pearl Masters Premium maple shells delivered balanced projection across all frequencies — the warm, round fundamental complemented Arch Enemy's dual-guitar harmonic layers while maintaining clarity at melodic death metal tempos.",
+        source: 'Pearl Reference Pure catalog MSRP 2001',
+        notes: "Pearl Reference Pure maple shells delivered balanced projection across all frequencies — the warm, round fundamental complemented Arch Enemy's dual-guitar harmonic layers while maintaining clarity at melodic death metal tempos, the configuration Erlandsson debuted on Wages of Sin (2001).",
         vintageValue2026: 2200,
         modernEquivalent: {
           item: 'Pearl Reference Pure 6-piece',
@@ -2320,15 +2320,15 @@ export const GEAR_PRICE_HISTORY = {
     ],
 
     sources: [
-      { title: 'Pearl Masters Premium Professional Catalog', year: 2001, type: 'catalog' },
+      { title: 'Pearl Reference Pure Professional Catalog', year: 2001, type: 'catalog' },
       { title: 'Modern Drummer — Daniel Erlandsson Arch Enemy Feature', year: 2003, type: 'interview' },
       { title: 'Metal Hammer — Wages of Sin Drum Setup Rundown', year: 2001, type: 'interview' },
-      { title: 'Reverb Price Guide — Pearl Masters Premium Vintage', year: 2025, type: 'market' },
+      { title: 'Reverb Price Guide — Pearl Reference Pure Vintage', year: 2025, type: 'market' },
     ],
 
     meta: {
       title: "Daniel Erlandsson 2001 Drum Setup Cost | Wages of Sin Era Gear Prices",
-      description: "How much did Daniel Erlandsson's 2001 Arch Enemy drum kit cost? Original ~$5,188, inflation-adjusted to ~$9,597 today. Complete Pearl Masters Premium breakdown from the Wages of Sin era.",
+      description: "How much did Daniel Erlandsson's 2001 Arch Enemy drum kit cost? Original ~$5,188, inflation-adjusted to ~$9,597 today. Complete Pearl Reference Pure breakdown from the Wages of Sin era.",
       keywords: ['daniel erlandsson drum kit', 'arch enemy drummer gear', 'wages of sin drums', 'daniel erlandsson pearl setup', 'arch enemy drum kit cost'],
     },
   },

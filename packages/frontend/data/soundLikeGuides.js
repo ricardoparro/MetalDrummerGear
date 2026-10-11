@@ -13855,7 +13855,7 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       drumKit: {
         brand: 'Pearl',
         model: 'Pearl Reference Pure',
-        description: "Augusto's Pearl Reference Pure setup, paired with a Pearl Demon Drive double pedal and Pearl D-2000 throne, delivers the punchy, attack-focused tone that anchors his driving, thrash-rooted double bass approach with Trivium.",
+        description: "Augusto's Pearl Reference Pure setup, paired with a DW 9000 Series double pedal and Pearl D-2000 throne, delivers the punchy, attack-focused tone that anchors his driving, thrash-rooted double bass approach with Trivium.",
         affiliateNote: "Pearl Export or Pearl Decade Maple offer a similar Pearl attack at a lower price point."
       },
       snare: {
@@ -13879,9 +13879,9 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
         description: "Sabian's AAX Series gives Augusto a heavy, cutting cymbal voice that projects clearly through Trivium's thrash-metalcore guitar tone."
       },
       pedals: {
-        brand: 'Pearl',
-        model: 'Pearl Demon Drive Double Bass Pedal',
-        description: "The Demon Drive's reliable, powerful drive suits Augusto's aggressive double bass approach, delivering the consistent power needed for long, high-energy sets.",
+        brand: 'DW',
+        model: 'DW 9000 Series Double Bass Drum Pedal',
+        description: "The DW 9000's reliable, powerful drive suits Augusto's aggressive double bass approach, delivering the consistent power needed for long, high-energy sets.",
         alternative: "Pearl Eliminator or DW 5000 for a similarly powerful feel"
       },
       sticks: {
@@ -13966,16 +13966,16 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
         label: "Intermediate Setup",
         kit: "Pearl Decade Maple ($1,700)",
         cymbals: "Sabian AAX partial set ($850)",
-        pedals: "Pearl Demon Drive Double ($350)",
+        pedals: "DW 9000 Series Double ($350)",
         sticks: "Vic Firth American Classic 5B ($10)",
-        notes: "The Demon Drive double pedal is the key upgrade — the same model Augusto used with Trivium."
+        notes: "The DW 9000 Series double pedal is the key upgrade — the same model Augusto used with Trivium."
       },
       pro: {
         price: "$5,000+",
         label: "Professional Setup",
         kit: "Pearl Reference Pure ($2,800+)",
         cymbals: "Full Sabian AAX selection ($1,700+)",
-        pedals: "Pearl Demon Drive Double ($400)",
+        pedals: "DW 9000 Series Double ($400)",
         heads: "Full Evans setup ($150)",
         notes: "Touring-ready setup matching Augusto's In Waves/Vengeance Falls era rig."
       }
@@ -13987,7 +13987,7 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       },
       {
         question: "What gear did Nick Augusto use with Trivium?",
-        answer: "Augusto played a Pearl Reference Pure kit with a Pearl Reference 14\" x 6.5\" Brass snare, Sabian AAX Series cymbals, a Pearl Demon Drive double pedal, and Pro-Mark Nylon Tip 5B sticks."
+        answer: "Augusto played a Pearl Reference Pure kit with a Pearl Reference 14\" x 6.5\" Brass snare, Sabian AAX Series cymbals, a DW 9000 Series double pedal, and Pro-Mark Nylon Tip 5B sticks."
       },
       {
         question: "Why did Nick Augusto leave Trivium?",

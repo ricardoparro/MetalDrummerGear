@@ -4437,18 +4437,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Zildjian A Series',
-        model: 'A New Beat mixed setup',
-        specs: '14" A New Beat Hi-Hats, 16"/17" A Crash, 20" A Ride',
-        originalPrice: 580,
+        item: 'Unbranded Brass Cymbals',
+        model: 'Entry-level mixed setup',
+        specs: '14" hi-hats, 16"/17" crash, 20" ride — no verified brand for this era',
+        originalPrice: 180,
         year: 2001,
-        source: 'Zildjian A series catalog pricing 2001',
-        notes: 'A move up from budget brass to Zildjian A Series — brighter, more defined response suited to the increasingly precise, jazz-influenced rhythmic structures of Jane Doe.',
-        vintageValue2026: 750,
+        source: 'Estimated from entry-level brass cymbal pricing 2001',
+        notes: "No cymbal brand is documented for Converge's Jane Doe era — Koller's first verified cymbal endorsement, Zildjian, wasn't signed until 2004. Likely budget/no-name brass carried over from his DIY hardcore years.",
+        vintageValue2026: 220,
         modernEquivalent: {
-          item: 'Zildjian A Series Cymbal Pack',
-          price: 1100,
-          link: 'zildjian-a-series-pack',
+          item: 'Entry-level brass cymbal pack',
+          price: 300,
+          link: 'entry-level-cymbal-pack',
         },
       },
       hardware: {
@@ -4499,18 +4499,18 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     totals: {
-      originalTotal: 2063,
+      originalTotal: 1663,
       inflationAdjusted2026: null, // Calculated dynamically
-      vintageTotal2026: 2510,
-      modernEquivalentTotal: 2964,
+      vintageTotal2026: 1980,
+      modernEquivalentTotal: 2164,
     },
 
     priceEvolution: [
-      { year: 2001, price: 2063, label: 'Original Purchase', event: 'Jane Doe recorded — hardcore/mathcore breakthrough on Hydra Head Records' },
+      { year: 2001, price: 1663, label: 'Original Purchase', event: 'Jane Doe recorded — hardcore/mathcore breakthrough on Hydra Head Records' },
       { year: 2004, price: 2900, label: 'You Fail Me era', event: 'Deeper Tama steel snare; switch to Tama Starclassic Maple; Converge\'s Epitaph Records debut' },
       { year: 2009, price: 7200, label: 'Axe to Fall era', event: 'Continued on established Tama Starclassic Maple setup' },
       { year: 2017, price: 10500, label: 'The Dusk in Us era', event: 'Expanded Zildjian A Custom/K Custom cymbal setup; Tama Iron Cobra 900 upgrade' },
-      { year: 2026, price: 3816, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2001 setup' },
+      { year: 2026, price: 3076, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2001 setup' },
     ],
 
     sources: [
@@ -4522,7 +4522,7 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Ben Koller 2001 Converge Drum Setup Cost | Jane Doe Era Gear Prices",
-      description: "How much did Ben Koller's 2001 Converge drum kit cost? Original Tama Rockstar setup ~$2,063, inflation-adjusted to ~$3,816 today. Complete Jane Doe-era gear breakdown.",
+      description: "How much did Ben Koller's 2001 Converge drum kit cost? Original Tama Rockstar setup ~$1,663, inflation-adjusted to ~$3,076 today. Complete Jane Doe-era gear breakdown.",
       keywords: ['ben koller drum kit', 'converge drummer gear', 'jane doe drums', 'ben koller 2001 setup', 'converge drum kit cost'],
     },
   },

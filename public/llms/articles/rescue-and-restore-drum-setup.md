@@ -16,9 +16,9 @@ Released on June 24, 2014, August Burns Red's *Rescue & Restore* marked a signif
 
 *Rescue & Restore* was the band's most experimental statement to date. Tracks like the saxophone-infused "Beauty in Tragedy," the cinematic instrumental "Spirit Breaker," and the Eastern-tinged "Sincerity" pushed metalcore into territory that genre purists had not anticipated. Through every detour and dynamic shift, Greiner's drumming remained the unwavering anchor — equal parts precision and musicality. He approached the album not as a metalcore drummer working within genre constraints, but as a composer using the kit to support unconventional musical choices.
 
-The gear context for *Rescue & Restore* matters enormously to understanding its sound. By 2014, Greiner had completed his transition from the Ludwig Classic Maple kit of *Leveler* (2011) and *Constellations* (2009) to the Pearl Reference Pure setup that would define the next chapter of his career. The shift from Paiste 2002 to Meinl Byzance cymbals was equally consequential — bringing darker, more controlled cymbal character that suited the album's more nuanced production. Pearl Demon Drive double pedals replaced the DW 9000s, offering a different mechanical feel that matched Greiner's evolving technique.
+The gear context for *Rescue & Restore* matters enormously to understanding its sound. By 2014, Greiner had refined the Pearl Reference kit he'd played since *Leveler* (2011) — itself an upgrade from the Pearl Vision of *Constellations* (2009) — into the Pearl Reference Pure setup that would carry through the next chapter of his career. His Meinl Byzance cymbal setup, solidified around *Leveler*, carried forward unchanged — the same dark, controlled character that had anchored his sound since 2011. Pearl Demon Drive double pedals replaced the DW 9000s, offering a different mechanical feel that matched Greiner's evolving technique.
 
-For drummers and gear historians, *Rescue & Restore* documents Matt Greiner's first fully realized Pearl/Meinl setup in studio — the moment his modern signature sound crystallized.
+For drummers and gear historians, *Rescue & Restore* documents the first studio appearance of Matt Greiner's refined Pearl Reference Pure kit, continuing the Meinl Byzance cymbal setup established on *Leveler*.
 
 ## Gear Breakdown
 
@@ -31,7 +31,7 @@ For drummers and gear historians, *Rescue & Restore* documents Matt Greiner's fi
 
 ### Matt's Rescue & Restore Kit: Pearl Reference Pure
 
-Matt Greiner's Pearl Reference Pure kit on *Rescue & Restore* represented the fully realized successor to his earlier Ludwig Classic Maple setup. Where the Ludwig had emphasized warmth and vintage-style resonance, the Reference Pure's pure-maple, six-ply construction delivered a tighter, more articulate sound with more focused attack — a perfect match for the more precise production approach of the Atrium Audio sessions.
+Matt Greiner's Pearl Reference Pure kit on *Rescue & Restore* represented a refinement of the Pearl Reference kit he'd played since *Leveler* (2011). Where the Reference's hybrid maple/birch/mahogany shells had emphasized warmth and tonal complexity, the Reference Pure's pure-maple, six-ply construction delivered a tighter, more articulate sound with more focused attack — a perfect match for the more precise production approach of the Atrium Audio sessions.
 
 Pearl's Reference Pure series uses 100% maple shells across all sizes, deliberately departing from the Reference series' hybrid maple/birch/mahogany construction. The decision to choose Reference Pure over the standard Reference reflects Greiner's preference for shell consistency: every drum in the kit shares the same tonal character, allowing fills and rolls to translate across the kit without the timbral shifts that hybrid shells produce. On a track like "Treatment" — where Greiner moves rapidly between toms in extended fills — that consistency is the foundation of the part's clarity.
 
@@ -41,29 +41,29 @@ The compact tom configuration — two rack toms, one floor tom — remained Grei
 
 ### The Rescue & Restore Snare: Pearl Steel Power
 
-Matt Greiner's snare on *Rescue & Restore* was the early studio iteration of what would become his Pearl Matt Greiner Signature snare — a 14" x 6" steel-shell drum tuned to deliver both the cutting attack metalcore demands and the dynamic sensitivity his jazz-informed playing requires. The shift from the Ludwig aluminum of *Leveler* to the Pearl steel represented a deliberate tonal evolution toward brighter attack and more controlled decay.
+Matt Greiner's snare on *Rescue & Restore* was the early studio iteration of what would become his Pearl Matt Greiner Signature snare — a 14" x 6" steel-shell drum tuned to deliver both the cutting attack metalcore demands and the dynamic sensitivity his jazz-informed playing requires. The deepened shell, up from the 5.5" Pearl Reference Steel snare of *Leveler*, represented a deliberate tonal evolution toward more body and sustain alongside the same steel-shell cutting attack.
 
 Steel snare shells produce a sharper, more focused attack than wood or aluminum alternatives — qualities essential in the dense Atrium Audio production context. When Brent Rambler and JB Brubaker's guitars fill the midrange with heavily distorted riffs, the snare needs its own frequency space, and the Pearl steel delivers that authority without aggressive EQ manipulation. On the album's heaviest tracks — "Fault Line," "Beauty in Tragedy" — the snare punches through the mix with the precision Greiner's playing demands.
 
-The 6" depth (deeper than the 5" Ludwig of the *Leveler* era) adds body and sustain that complement the brighter attack. This combination — sharp top-end with controlled lower midrange — became a defining characteristic of Greiner's modern sound. The dynamic range remained wide: ghost notes on tracks like "The First Step" register clearly even within heavily layered arrangements, while the primary backbeat lands with full authority.
+The 6" depth (deeper than the 5.5" Pearl Reference Steel snare of the *Leveler* era) adds body and sustain that complement the brighter attack. This combination — sharp top-end with controlled lower midrange — became a defining characteristic of Greiner's modern sound. The dynamic range remained wide: ghost notes on tracks like "The First Step" register clearly even within heavily layered arrangements, while the primary backbeat lands with full authority.
 
 Greiner tuned the snare toward medium-high tension for the *Rescue & Restore* sessions — tight enough for projection through the mix, but not so high as to eliminate the warm midrange that distinguishes his snare from harder, more clinical metalcore tones.
 
 ### Meinl Byzance: The Dark, Controlled Cymbal Character of Rescue & Restore
 
-The transition from Paiste 2002 to Meinl Byzance cymbals between *Leveler* (2011) and *Rescue & Restore* (2014) was one of the most consequential gear shifts in Matt Greiner's career. Where the Paiste 2002 had delivered a cutting, brighter attack with classic rock and metal heritage, the Meinl Byzance series brought a darker, more controlled character — a more refined musical palette that suited *Rescue & Restore*'s experimental ambitions.
+Matt Greiner's Meinl Byzance cymbal setup on *Rescue & Restore* continued directly from *Leveler* (2011), where his long-developing Meinl endorsement had first solidified into the named Byzance series. For *Rescue & Restore*, the setup expanded in size and scope — larger crashes and a bigger ride — delivering the same dark, controlled character in a configuration suited to the album's more experimental ambitions.
 
-Meinl's Byzance line is hand-hammered Turkish bronze (B20 alloy), produced in Turkey using traditional methods. The Byzance Medium and Medium Thin variants Greiner adopted balance attack and complexity — bright enough to articulate through ABR's dense mixes, dark enough to provide musical complexity that the more aggressive 2002 series simply doesn't offer. On a track like "Beauty in Tragedy," where saxophone shares the arrangement, the Byzance hi-hats sit in the mix musically rather than fighting for sonic space.
+Meinl's Byzance line is hand-hammered Turkish bronze (B20 alloy), produced in Turkey using traditional methods. The Byzance Medium and Medium Thin variants Greiner adopted balance attack and complexity — bright enough to articulate through ABR's dense mixes, dark enough to provide musical complexity. On a track like "Beauty in Tragedy," where saxophone shares the arrangement, the Byzance hi-hats sit in the mix musically rather than fighting for sonic space.
 
-The 18" and 19" Medium Thin crashes give Greiner the rapid response his accent placement demands while delivering a controlled sustain that doesn't wash out the rest of the mix. This is a particularly important consideration in the Atrium Audio production context, where Slovak and McFarland's approach favored cymbal clarity over the bright, washier overhead character common in earlier metalcore production.
+The 18" and 19" Medium Thin crashes — sized up from the 16" and 18" crashes of *Leveler* — give Greiner the rapid response his accent placement demands while delivering a controlled sustain that doesn't wash out the rest of the mix. This is a particularly important consideration in the Atrium Audio production context, where Slovak and McFarland's approach favored cymbal clarity over the bright, washier overhead character common in earlier metalcore production.
 
-The 22" Medium Ride is the cornerstone of the modern Greiner sound — a cymbal large enough for full bell and bow articulation across varied playing styles, controlled enough to support extended ride passages without overwhelming. The 18" China cymbal added the dark, controlled trash accent that *Rescue & Restore*'s compositional ambitions required — Greiner deployed it sparingly, treating each hit as a musical statement rather than a textural constant.
+The 22" Medium Ride — up from the 20" Ride of *Leveler* — is the cornerstone of the modern Greiner sound — a cymbal large enough for full bell and bow articulation across varied playing styles, controlled enough to support extended ride passages without overwhelming. The 18" China cymbal added the dark, controlled trash accent that *Rescue & Restore*'s compositional ambitions required — Greiner deployed it sparingly, treating each hit as a musical statement rather than a textural constant.
 
-The Paiste-to-Meinl transition reflected Greiner's growing identity as an endorsed artist and his evolving musical vision. The Byzance series would remain central to his sound across every subsequent ABR album.
+The continuity of the Byzance setup from *Leveler* onward reflected Greiner's settled identity as an endorsed artist, with configuration refinements tracking his evolving musical vision. The Byzance series would remain central to his sound across every subsequent ABR album.
 
 ## Rescue & Restore's Legacy: The Album That Launched Matt Greiner's Modern Era
 
-*Rescue & Restore* (2014) is the album where Matt Greiner's modern sound crystallized. Every element of the gear setup that would define his next decade — the Pearl Reference Pure kit, the Meinl Byzance cymbals, the Pearl Demon Drive pedals — was documented in studio for the first time. The shift to Atrium Audio with Carson Slovak and Grant McFarland produced a drum sound that was cleaner, more dynamically nuanced, and more musically expressive than ABR's earlier records.
+*Rescue & Restore* (2014) is the album where Matt Greiner's refined kit sound crystallized. The Pearl Reference Pure kit and Pearl Demon Drive pedals were documented in studio for the first time here, continuing the Meinl Byzance cymbal setup that had solidified on *Leveler*. The shift to Atrium Audio with Carson Slovak and Grant McFarland produced a drum sound that was cleaner, more dynamically nuanced, and more musically expressive than ABR's earlier records.
 
 The album also captured Greiner at an important compositional moment. *Rescue & Restore*'s experimental arrangements — saxophone features, extended instrumentals, Eastern-tinged passages — demanded a drummer who could support unconventional musical choices without falling back on metalcore reflexes. Greiner met every challenge with the jazz-informed sensitivity and technical command that had become his signature, proving that his approach scaled beyond the genre's conventions.
 
@@ -71,7 +71,7 @@ The album also captured Greiner at an important compositional moment. *Rescue & 
 The most valuable lesson from this album is how to use restraint as a compositional tool. Study "Beauty in Tragedy" for how Greiner supports the saxophone melody with ghost note work and selective crash placement. Study "Spirit Breaker" for how an extended instrumental demands the drummer act as a co-composer, leading sections rather than supporting them. Study "Treatment" for how the rapid tom fills translate cleanly when shells share a consistent tonal character — the Pearl Reference Pure's design philosophy in action.
 
 **The Gear Legacy:**
-Pearl Reference Pure remains one of the most respected professional metal kits available. Meinl Byzance cymbals are central to modern metalcore and rock drumming. The Pearl Demon Drive pedal continues as a benchmark for direct-drive mechanism preference. The setup Matt Greiner premiered on *Rescue & Restore* defined the next chapter of his career.
+Pearl Reference Pure remains one of the most respected professional metal kits available. Meinl Byzance cymbals are central to modern metalcore and rock drumming. The Pearl Demon Drive pedal continues as a benchmark for direct-drive mechanism preference. The refined kit Matt Greiner premiered on *Rescue & Restore*, paired with his already-established Meinl Byzance cymbal setup, defined the next chapter of his career.
 
 For Matt Greiner's current gear and the full evolution of his sound, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the previous chapter in the ABR drum story, see the [Leveler drum setup article (2011)](/articles/leveler-drum-setup).
 
@@ -79,12 +79,12 @@ For Matt Greiner's current gear and the full evolution of his sound, see the [Ma
 
 - Released June 24, 2014 on Solid State Records — ABR's first hometown-recorded studio album
 - First album produced by Carson Slovak & Grant McFarland at Atrium Audio in Lancaster, Pennsylvania
-- Matt Greiner's first studio documentation of his Pearl Reference Pure kit and Meinl Byzance cymbals
+- Matt Greiner's first studio documentation of his refined Pearl Reference Pure kit, continuing the Meinl Byzance cymbal setup from Leveler
 - Experimental arrangements — saxophone, instrumentals, Eastern-tinged passages — supported by jazz-informed drumming
-- Pearl Reference Pure: 100% maple six-ply shells — tighter and more articulate than the Ludwig Classic Maple era
+- Pearl Reference Pure: 100% maple six-ply shells — tighter and more articulate than the hybrid-shell Pearl Reference era
 - Double 22" bass drums: independent kick response essential for Greiner's lever-driven technique
 - Compact tom configuration: continuity with earlier setups — creative fills through constraint
-- First studio documentation of Greiner's mature Pearl-era kit, succeeding the Ludwig of Leveler and Constellations
+- First studio documentation of the refined Reference Pure kit, succeeding the Pearl Reference of Leveler and Pearl Vision of Constellations
 - Estimated kit value: $3,500–5,500 (2014) / $2,500–4,500 (used today)
 - Estimated snare value: $350–550 (2014)
 
@@ -92,15 +92,15 @@ For Matt Greiner's current gear and the full evolution of his sound, see the [Ma
 
 **Q: What drums did Matt Greiner use on Rescue & Restore?**
 
-A: On *Rescue & Restore* (2014), Matt Greiner played a Pearl Reference Pure drum kit — his first fully realized Pearl setup in studio after transitioning from the Ludwig Classic Maple kit of *Leveler* (2011). The configuration centered on dual 22" bass drums, two rack toms (10", 12"), and a 16" floor tom. The Pearl Reference Pure's 100% maple six-ply shells delivered a tighter, more articulate sound than the Ludwig era — perfect for the cleaner, more dynamically nuanced production approach of the Atrium Audio sessions. For his complete current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).
+A: On *Rescue & Restore* (2014), Matt Greiner played a Pearl Reference Pure drum kit — a refinement of the Pearl Reference kit he'd played since *Leveler* (2011). The configuration centered on dual 22" bass drums, two rack toms (10", 12"), and a 16" floor tom. The Pearl Reference Pure's 100% maple six-ply shells delivered a tighter, more articulate sound than the hybrid-shell Reference era — perfect for the cleaner, more dynamically nuanced production approach of the Atrium Audio sessions. For his complete current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).
 
 **Q: How did Matt Greiner's kit evolve from Leveler to Rescue & Restore?**
 
-A: Between *Leveler* (2011) and *Rescue & Restore* (2014), Matt Greiner underwent the most consequential gear evolution of his career. The Ludwig Classic Maple kit gave way to the Pearl Reference Pure — a shift from warmer, vintage-influenced shells to tighter, more articulate modern maple construction. Paiste 2002 cymbals were replaced by Meinl Byzance — a move from cutting, bright bronze toward darker, hand-hammered Turkish bronze with more controlled musical complexity. DW 9000 pedals gave way to Pearl Demon Drive direct-drive pedals, offering instantaneous response that matched Greiner's refined lever technique. The simultaneous shifts in kit, cymbals, and pedals reflected both his growing artist endorsement relationships and his evolving musical vision. For a full comparison, see the [Leveler drum setup article](/articles/leveler-drum-setup).
+A: Between *Leveler* (2011) and *Rescue & Restore* (2014), Matt Greiner's kit evolved within the Pearl lineage rather than changing brands. The hybrid-shell Pearl Reference kit of *Leveler* gave way to the all-maple Pearl Reference Pure — a shift toward tighter, more articulate construction. His Meinl Byzance cymbal setup, solidified since *Leveler*, carried forward unchanged, with crash and ride sizes expanding for *Rescue & Restore*'s more experimental arrangements. DW 9000 pedals gave way to Pearl Demon Drive direct-drive pedals, offering instantaneous response that matched Greiner's refined lever technique. For a full comparison, see the [Leveler drum setup article](/articles/leveler-drum-setup).
 
 **Q: What cymbals did Matt Greiner use on Rescue & Restore?**
 
-A: On *Rescue & Restore* (2014), Matt Greiner used Meinl Byzance cymbals — his first studio documentation of the Byzance series that would remain central to his sound across every subsequent ABR album. His setup included Meinl Byzance 14" Medium Hi-Hats, 18" and 19" Medium Thin Crashes, a 22" Medium Ride, and an 18" China. The Byzance line is hand-hammered Turkish bronze (B20 alloy), producing a darker, more controlled character than the Paiste 2002 cymbals Greiner had played on *Leveler*. The transition to Meinl reflected both his evolving musical vision and the cleaner production approach of the Atrium Audio sessions. For his complete current cymbal setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).
+A: On *Rescue & Restore* (2014), Matt Greiner used Meinl Byzance cymbals — continuing the Byzance series first solidified on *Leveler* (2011), which remained central to his sound across every subsequent ABR album. His setup included Meinl Byzance 14" Medium Hi-Hats, 18" and 19" Medium Thin Crashes, a 22" Medium Ride, and an 18" China — sized up from the 16"/18" crashes and 20" ride of *Leveler*. The Byzance line is hand-hammered Turkish bronze (B20 alloy), producing the same dark, controlled character well suited to the Atrium Audio production. For his complete current cymbal setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).
 
 **Q: Where was Rescue & Restore recorded?**
 
@@ -120,4 +120,4 @@ A: *Rescue & Restore* (2014) was August Burns Red's first studio album recorded 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-11 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,7 +67,7 @@ The Mapex Black Panther Design Lab / Zildjian A Custom + Sabian AAX / DW 9000 Se
 Begin with "King of Sorrow." Study the blast-to-groove transitions — the moment where a blast beat sequence locks into a groove pattern is Greiner's most recognizable compositional signature, and *Phantom Anthem* contains refined versions. Note the ghost note integration beneath the melodic sections: those subtle dynamics are what earned Grammy attention, because they demonstrate musicality inside aggression. Then examine how the Zildjian A Custom hi-hats' fast response enables the open/closed pattern variations that add rhythmic texture throughout the track.
 
 **The ABR Arc:**
-*Phantom Anthem* fills the 2017 position in the complete August Burns Red drum story. Trace it: [Leveler (2011)](/articles/leveler-drum-setup) established the Ludwig Classic Maple era. [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) closed out the Pearl Reference Pure era. *Phantom Anthem* (2017) opens on the Mapex Black Panther Design Lab setup Greiner adopted in 2016, paired with a brighter cymbal voice, and earned the Grammy nomination. For the full arc including Greiner's current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).
+*Phantom Anthem* fills the 2017 position in the complete August Burns Red drum story. Trace it: [Leveler (2011)](/articles/leveler-drum-setup) established the Pearl Reference era. [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) closed out the Pearl Reference Pure era. *Phantom Anthem* (2017) opens on the Mapex Black Panther Design Lab setup Greiner adopted in 2016, paired with a brighter cymbal voice, and earned the Grammy nomination. For the full arc including Greiner's current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).
 
 ## Key Facts
 
@@ -114,4 +114,4 @@ A: *Phantom Anthem* (2017) fills the gap between *Found in Far Away Places* (201
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-11 · Source: [MetalForge.io](https://metalforge.io)*

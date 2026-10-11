@@ -8396,15 +8396,15 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
 **Human/Focus-Era Setup (1991-1993):**
 - **Drums**: Tama Artstar II birch, single 22"x16" kick, various toms
 - **Snare**: Tama Artstar II 14"x5.5" birch
-- **Cymbals**: Zildjian A Series (Human) transitioning to darker Zildjian K Series (Focus)
+- **Cymbals**: Zildjian A/K Series blend (Human and Focus)
 - **Hardware**: DW 5000 single-chain double pedal
 - **Sticks**: Vic Firth American Classic 5A
 - **Heads**: Remo Ambassador (clear toms, coated snare)
 
 **Notable Gear Evolution:**
-- Switched from Zildjian A to the darker, more complex Zildjian K Series for Cynic's Focus
+- Carried the same Zildjian A/K Series cymbal blend from Death's Human through Cynic's Focus
 - Tuned his snare higher and more open on Focus to suit the album's jazz-fusion textures
-- Upgraded to a DW Collector's maple shell pack and Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air
+- Narrowed to Zildjian K Custom cymbals and upgraded to a DW Collector's maple shell pack for Cynic's 2008 reunion album, Traced in Air
 - Maintained a fluid, fusion-informed double-bass technique rather than the brute-force approach common among death metal peers`
       },
       trivia: {
@@ -8428,7 +8428,7 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
           { q: 'When did Sean Reinert co-found Cynic?', a: 'Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1990.' },
           { q: 'When did Sean Reinert die?', a: 'Sean Reinert passed away on January 24, 2020, one day after his 49th birthday.' },
           { q: 'What drum set did Sean Reinert use?', a: 'Sean Reinert\'s Human/Focus-era drum set was a Tama Artstar II birch shell kit — a single 22"x16" kick and various toms — built around a Tama Artstar II 14"x5.5" birch snare. He upgraded to a DW Collector\'s maple shell pack and Zildjian K Custom cymbals for Cynic\'s 2008 reunion album, Traced in Air.' },
-          { q: 'What cymbals did Sean Reinert use?', a: 'Sean Reinert used Zildjian A Series cymbals on Death\'s Human (1991), then switched to the darker Zildjian K Series for Cynic\'s Focus (1993), before upgrading to Zildjian K Custom cymbals for Cynic\'s 2008 reunion album, Traced in Air.' },
+          { q: 'What cymbals did Sean Reinert use?', a: 'Sean Reinert used a Zildjian A/K Series cymbal blend on both Death\'s Human (1991) and Cynic\'s Focus (1993), then narrowed to Zildjian K Custom cymbals for Cynic\'s 2008 reunion album, Traced in Air.' },
           { q: 'What snare drum did Sean Reinert use?', a: 'Sean Reinert played a Tama Artstar II 14"x5.5" birch snare, tuned higher and more open for Cynic\'s Focus to suit the album\'s jazz-fusion textures.' },
           { q: 'What bass drum pedal did Sean Reinert use?', a: 'Sean Reinert used a DW 5000 single-chain double pedal, applying a fluid, fusion-informed double-bass technique rather than the brute-force approach common among his death metal peers.' }
         ]

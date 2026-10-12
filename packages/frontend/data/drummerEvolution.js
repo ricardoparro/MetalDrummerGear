@@ -3580,10 +3580,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Evans EC2 / EMAD',
-            details: 'EC2 on toms, EMAD on kick',
-            notes: 'Switched to Evans for better controlled sound in studio and live applications.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Remo',
+            details: 'Remo drumheads',
+            notes: 'Remo heads, consistent with his later-documented 2000s endorsement — no earlier switch is documented.',
+            change: null,
           },
           electronics: {
             item: 'Roland Octapad SPD-8',
@@ -3603,7 +3603,6 @@ export const DRUMMER_EVOLUTION = {
           'Kit expanded to 6 toms and dual kicks',
           'Roland Octapad introduced — first electronics integration',
           'Paiste Signature cymbal upgrade',
-          'Evans heads adopted for studio/live consistency',
         ],
 
         videos: [],
@@ -3652,10 +3651,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
-            item: 'Evans G2 / EMAD',
-            details: 'G2 on toms, EMAD on kicks',
-            notes: 'G2 double-ply on toms for heavier, more controlled response.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Remo',
+            details: 'Remo drumheads',
+            notes: 'Remo heads, consistent with his later-documented 2000s endorsement — no earlier switch is documented.',
+            change: null,
           },
           electronics: {
             item: 'Roland SPD-S + Octapad',

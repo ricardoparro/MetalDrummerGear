@@ -155,9 +155,9 @@ export const PEDAL_BRANDS = [
     founded: '1993',
     parent: 'Drum Workshop, Inc. (acquired 2014)',
     positioning:
-      "Gibraltar is a drum-hardware specialist now owned by DW, and its G Class pedal is verified on the roster through John Otto (Limp Bizkit).",
+      "Gibraltar is a drum-hardware specialist now owned by DW, and its Professional Series pedal is verified on the roster through John Otto (Limp Bizkit).",
     notableLines: [
-      { name: 'G Class', description: "Gibraltar's bass drum pedal line, verified on the roster through John Otto (Limp Bizkit)." },
+      { name: 'Professional Series', description: "Gibraltar's bass drum pedal line, verified on the roster through John Otto (Limp Bizkit)." },
     ],
     source: { label: 'Gibraltar Hardware — Wikipedia', url: 'https://en.wikipedia.org/wiki/Gibraltar_Hardware' },
   },

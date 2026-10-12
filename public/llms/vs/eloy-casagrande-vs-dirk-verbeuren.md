@@ -34,7 +34,7 @@ Casagrande's technique is built for modern extreme dynamics — explosive double
 
 ## Key Differences
 
-Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x6.5" snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride), powered by a Tama Iron Cobra Power Glide double pedal. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by a Tama Speed Cobra 910 double pedal and his own Tama signature sticks. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed and technically dense fills delivered with blast beats that stay notably even and articulate rather than smeared, a hallmark of Sepultura's tribal-thrash legacy. Verbeuren applies his Soilwork-trained technical metal vocabulary to Megadeth's thrash framework, seamlessly shifting from groove thrash to blast-beat-driven extreme speed within the same song.
+Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride), powered by a Tama Iron Cobra double pedal. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by a Tama Speed Cobra 910 double pedal and his own Tama signature sticks. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed and technically dense fills delivered with blast beats that stay notably even and articulate rather than smeared, a hallmark of Sepultura's tribal-thrash legacy. Verbeuren applies his Soilwork-trained technical metal vocabulary to Megadeth's thrash framework, seamlessly shifting from groove thrash to blast-beat-driven extreme speed within the same song.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Eloy Casagrande and Dirk Verbeuren both carried thrash metal's founding-era band
 A: Eloy Casagrande drove Sepultura's modern thrash era from 2011 to 2024 with explosive speed before joining Slipknot. Dirk Verbeuren joined Megadeth in 2016 after nearly two decades with Soilwork, bringing melodic death metal precision to the band's classic thrash framework.
 
 **Q: What gear do Eloy Casagrande and Dirk Verbeuren use?**
-A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x6.5" snare and Paiste cymbals, powered by a Tama Iron Cobra Power Glide double pedal. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals.
+A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals, powered by a Tama Iron Cobra double pedal. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals.
 
 **Q: What bands are Eloy Casagrande and Dirk Verbeuren known for?**
 A: Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot. Dirk Verbeuren drummed for Soilwork from 1998 to 2016 before joining Megadeth.

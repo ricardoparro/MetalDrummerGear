@@ -6184,8 +6184,8 @@ The 1mm vented steel shell provides bright, cutting attack perfect for thrash. I
           artist: "Pantera",
           year: 1992,
           drummer: "Vinnie Paul",
-          snare: "Remo Steel Snare",
-          notes: "The snare that helped define groove metal, from Vinnie's 1992-1996 Remo endorsement era. Deeper tuning, massive crack for slower tempos."
+          snare: "Tama Steel Snare",
+          notes: "The snare that helped define groove metal, from Vinnie's 1990-1996 Tama endorsement era. Deeper tuning, massive crack for slower tempos."
         }
       ]
     },

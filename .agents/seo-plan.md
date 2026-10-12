@@ -12339,3 +12339,47 @@ Dispatched 5 parallel subagents (one per drummer), each reading `endorsementNews
 3. 5 held-back candidates from the morning run (Danny Carey gearPriceHistory.js date, Blake Richardson, Jon Dette x2, Shannon Larkin) still need personal verification.
 4. Content-gap: `joey jordison drum kit` re-confirmed against standing ruling — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-12 (run ~13:25 UTC) — held-back candidates closed out + traffic-weighted top-up: 5 filed (#8971-8975)
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers explicitly allowed. ✅
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap/`api/sitemap.js`: unchanged this run (not re-counted; last confirmed 3,162 URLs).
+- Bank check: 9 open `seo-proposal` at run start (#7981 held; #2211/#3810/#3819 standing umbrellas; #8952-8956 from the 07:xx run still untriaged) → true untriaged bank 5. Well under the 45 floor → filed 5.
+- Monday drum-chair watch already logged this morning (group 2, 0 candidates) — not re-run.
+
+### Metrics readout
+- GSC 7d (13:25 UTC refresh): 12,168 impr / 223 clicks / 1.83% CTR / pos 7.5. Content-gap rows (impr≥50, CTR<2%): `joey jordison drum kit` (76 impr, 1.32%) and `joey jordison drum set` (70 impr, 1.43%) — both already-ruled known-oscillator/gear-qualified class in `learned-patterns.md`. No re-action.
+- GA4 7d: 458 sessions, organic 330/458 (72.1%). Top pages this week: `/bpm`, `/drummers`, `/`, `/drummer/joey-jordison`, `/drummer/mario-duplantier`, `/drummer/bill-ward`, `/drummers/mike-portnoy/evolution`, `/studies/metal-tempo-by-subgenre`, `/articles/whats-in-lars-ulrichs-kit`, `/articles/black-sabbath-drum-setup`.
+
+### Method
+Two-part sweep this run. **Part 1 — closed out the 5 held-back candidates** flagged (but not personally verified) by the 07:xx run: dispatched a subagent to re-investigate all 5 from scratch (full endorsementNews.js read, exact current quotes, git-history check on every plausibly-related prior closed issue, dedup search), then personally re-verified every claim myself via direct `grep`/`sed`/`git show --stat` before accepting any of them — per standing discipline, never trust a subagent's verdict alone. Result: 1 of 5 (Danny Carey `gearPriceHistory.js` drums field) was **already fixed** by #7307+#8135 — confirmed via diff, no gap exists, correctly dropped. The other 4 survived personal verification as genuinely unfixed:
+- **Blake Richardson** (#8971): `drummerEvolution.js`'s 2009-2014 "Great Misdirect/Parallax" era block fabricates Tama/Sabian; confirmed via diff that #8211 fixed only the 2007-2009 block before it and #5880 fixed only the 2015-Present block after it — this middle block was never touched. Verified continuous DW/Meinl (per endorsementNews.js, no switch until 2018) across both sibling fixes' diffs myself.
+- **Jon Dette metaDescription** (#8972): `drummerEvolution.js` line 21063 still says "DW-based rig" for the Testament years, contradicting the entry's own (already-fixed-by-#8436) body text two paragraphs above which correctly says continuous Ludwig. Confirmed #8436's diff never touched this field (outside the era block it edited).
+- **Jon Dette album article** (#8973): the prior run's "actually about Paul Bostaph" framing didn't hold up on inspection — `albumArticles/jon-dette.js` is correctly scoped to Dette himself, but its comparative references to Bostaph's gear fabricate "DW" at 6 locations (lines 53/79/176/236/244/270) for Bostaph's Final World Tour era — verified Pearl since 2015 per endorsementNews.js. This exact fact was already fixed once in `drummerComparisons.js` by #6352, confirmed via diff that fix never touched this file.
+- **Shannon Larkin HHX** (#8974): confirmed `cymbalSetups.js` line 289 tags his ride as `series: 'HHX'`, propagated into `drummerComparisons.js` (7 locations), `extendedBios.js`, and `top10Lists.js` — but endorsementNews.js verifies Sabian AAX-only since 2002, no HHX anywhere. Root-caused to #5376 validating internal consistency with `cymbalSetups.js` without ever cross-checking endorsementNews.js, then #5565 propagating the wording further.
+
+**Part 2 — traffic-weighted top-up**: picked 2 more drummers from this week's top-GA4-traffic table not yet swept (Mike Portnoy, Lars Ulrich — both are among the most-fixed entities on the site with ~40+ closed issues each, so expected a largely clean sweep). Dispatched a subagent with explicit git-archaeology instructions (don't report anything already through a prior fix round without confirming via diff). Lars Ulrich came back clean — one candidate (Evans heads in 2 album-article sections) was investigated and correctly excluded after confirming the exact commit that closed #5821 deliberately retained that wording while rewriting surrounding text, i.e. it already survived a targeted review pass. Mike Portnoy yielded 1 small genuinely-unfixed finding, personally verified: **extendedBios.js decade fabrication** (#8975) — "Tama endorser since the 1990s" vs. verified 1985/1980s, an error that's existed unchanged since the original bio-pages commit and was never touched by either of 2 later nearby-content fixes.
+
+### Proposals filed this run
+1. #8971 — Blake Richardson: drummerEvolution.js 2009-2014 era still fabricates Tama/Sabian — #8211/#5880 only fixed the eras before/after it, verified continuous DW/Meinl
+2. #8972 — Jon Dette: drummerEvolution.js metaDescription still says "DW-based rig," contradicts its own already-fixed body text — verified continuous Ludwig
+3. #8973 — Jon Dette: albumArticles/jon-dette.js fabricates Paul Bostaph's Final World Tour gear as "DW" across 6 locations — #6352 only fixed drummerComparisons.js, verified Pearl since 2015
+4. #8974 — Shannon Larkin: cymbalSetups.js + 3 sibling files fabricate "Sabian AAX & HHX" — verified AAX-only since 2002, root-caused to #5376's internal-only validation
+5. #8975 — Mike Portnoy: extendedBios.js says Tama endorser "since the 1990s" — verified since 1985, unfixed since original commit
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8952-8956 (07:xx run, still pending triage at this run's start)
+- #8971-8975 (this run, 5 fresh)
+- Bank at run end: 13 open `seo-proposal`.
+
+### Next run
+1. Watch #8971-8975 through CEO triage; flag #8971 (Blake Richardson) to confirm the fix doesn't also touch the already-correct sticks/heads fields in the same block, and flag #8974 (Larkin) to confirm the replacement AAX ride model name is externally verified before committing a specific model string (per the issue's own caveat).
+2. Held-back-candidate backlog is now fully cleared — no carry-over list for next run; next run should pick fresh targets (continue traffic-weighted approach per metrics.md top-pages/top-queries, or resume broader random sampling if traffic-weighted targets run dry).
+3. Content-gap: `joey jordison drum kit`/`drum set` re-confirmed against standing ruling — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3 (already logged, not due again this week).

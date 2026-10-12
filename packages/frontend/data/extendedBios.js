@@ -2318,7 +2318,7 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
 - **Drums**: Ludwig Standard / Club Date Series (24"x16" bass, natural finish)
 - **Snare**: Ludwig Supraphonic 14"x6.5" (400 series)
 - **Cymbals**: Super Zyn (1968-1971, debut through Paranoid), then Zildjian (1971-1978, Master of Reality through Never Say Die!)
-- **Hardware**: Ludwig Atlas or similar era hardware
+- **Hardware**: Ludwig hardware (Speed King Pedal, stands, throne)
 - **Sticks**: Various 2B or 5B sizes
 - **Heads**: Remo (Ambassador/Emperor)
 

@@ -10386,10 +10386,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           hardware: {
-            item: 'Ludwig Atlas Hardware',
-            details: 'Upgraded stands and pedal',
-            notes: 'Upgraded to Ludwig\'s heavier-duty Atlas line as the band\'s stage production grew with arena touring.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Ludwig Speed King Pedal (continued)',
+            details: 'Continued single-pedal setup',
+            notes: 'Unchanged pedal through the progressive era — Ward\'s power came from technique and touch, not equipment.',
+            change: null,
           },
           sticks: {
             item: 'Ludwig 2B Hickory',
@@ -10458,9 +10458,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Ludwig Atlas Hardware (continued)',
-            details: 'Stable arena-touring hardware',
-            notes: 'Unchanged from the progressive era — the rig was by now fully mature.',
+            item: 'Ludwig Speed King Pedal (continued)',
+            details: 'Continued single-pedal setup',
+            notes: 'Unchanged from the progressive era — Ward\'s power came from technique and touch, not equipment.',
             change: null,
           },
           sticks: {

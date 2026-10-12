@@ -706,7 +706,7 @@ export const EVOLUTION_TIMELINE = [
     album: 'Periphery (2010)',
     type: TIMELINE_EVENT_TYPES.TECHNIQUE_PIONEER,
     subgenre: METAL_SUBGENRES.DJENT,
-    gearNotes: 'Meinl cymbals, progressive djent setup',
+    gearNotes: 'progressive djent setup, pre-signature-era kit',
     significance: 'Made djent drumming accessible to younger drummers',
     videoEmbed: null,
     image: '/images/drummers/matt-halpern.webp',

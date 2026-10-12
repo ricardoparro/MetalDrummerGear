@@ -1030,7 +1030,7 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Mike Portnoy has been a Tama endorser since the 1990s, using their drums for both Dream Theater and his various side projects. His current rig is a dual side-by-side "Dream Monster" kit combining two different Starclassic shell types.
+        content: `Mike Portnoy has been a Tama endorser since 1985, using their drums for both Dream Theater and his various side projects. His current rig is a dual side-by-side "Dream Monster" kit combining two different Starclassic shell types.
 
 **Current Setup (per Tama's and Sabian's own current artist pages):**
 - **Drums**: Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit)

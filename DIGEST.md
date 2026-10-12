@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-11 19:12 UTC · Window: last 12h*
+*Generated 2026-10-12 08:37 UTC · Window: last 12h*
 
 ---
 
@@ -8,26 +8,26 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **27** |
-| Open `seo-proposal` issues | 11 |
+| Open `ai-fix` issues | **22** |
+| Open `seo-proposal` issues | 9 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 3 |
-| PRs merged in window | **16** |
-| Issues closed in window | 16 |
-| Commits to `main` in window | 21 |
+| Open PRs | 2 |
+| PRs merged in window | **17** |
+| Issues closed in window | 17 |
+| Commits to `main` in window | 24 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **411** |
-| Sessions | 463 |
-| Page views | 608 |
-| Engagement rate | 51.84% |
-| GSC impressions | 11,647 |
-| GSC clicks | 221 |
-| GSC CTR | 1.90% |
+| Active users | **387** |
+| Sessions | 439 |
+| Page views | 614 |
+| Engagement rate | 57.63% |
+| GSC impressions | 9,884 |
+| GSC clicks | 187 |
+| GSC CTR | 1.89% |
 | GSC avg position | 7.5 |
 
 ## 💰 Revenue trajectory (estimate)
@@ -36,17 +36,17 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~2,606 |
-| Est. ad revenue / mo | **~€7.82** |
+| Est. pageviews / mo | ~2,631 |
+| Est. ad revenue / mo | **~€7.89** |
 | Progress to €1000/mo | 0.8% |
-| Pageviews/mo needed for €1000 | ~333,333 (128× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (127× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
 | Loop | Now | Trend |
 | --- | --- | --- |
-| **L1 organic** (GSC, 500 tracked queries) | 35 clicks · 3425 impr · CTR 1.0% · avg pos 9.3 | clicks (+11) · impr (+868) · pos (−0.7) _(pos ↓ = better)_ |
-| **L2 AI citations** (#2211) | **47/100** queries cite metalforge.io | _refreshed weekly_ |
+| **L1 organic** (GSC, 534 tracked queries) | 27 clicks · 3342 impr · CTR 0.8% · avg pos 9.5 | clicks (−8) · impr (−83) · pos (+0.3) _(pos ↓ = better)_ |
+| **L2 AI citations** (#2211) | **27/100** queries cite metalforge.io | _refreshed weekly_ |
 | **L3 indexation** | sentinels (fixed top-250, trend-comparable): 238/250 indexed (−2) · rotating sample: 234/250 indexed · **full site: 2269 of 3162 sitemap URLs earned impressions (90d)** | 3 rejected-quality · 12 never-crawled |
 | **L4 performance** (6 URLs, live site) | homepage 75 perf · TBT 1163ms · **worst: Top-10 list (best death metal drummers) — 50 perf, LCP 12.8s** · 4/6 URLs chronically slow (score < 60 or LCP > 4s) | homepage score (+4) · TBT (−691)ms · chronic (±0) _(TBT/chronic ↓ = better)_ |
 
@@ -54,8 +54,7 @@
 
 ## 🔗 Backlink signal
 
-**Referring domains (GA4 signal, 90d, clicked links only):** 14 (+1)
-- 🆕 New this week: au.search.yahoo.com
+**Referring domains (GA4 signal, 90d, clicked links only):** 14 (±0)
 - Top sources: m.facebook.com (12) · noai.duckduckgo.com (3) · ca.search.yahoo.com (2) · cn.bing.com (2) · doubao.com (2)
 _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.json`._
 
@@ -65,67 +64,64 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Mikkey Dee — 63º aniversário | 20d | _awaiting scanner run_ |
-| Chris Adler — 54º aniversário | 43d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 47d | _awaiting scanner run_ |
+| Mikkey Dee — 63º aniversário | 19d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 42d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 46d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 27 | 26 | 1 |
-| Verify YouTube Videos | 14 | 7 | 4 |
-| Verify Data Modules | 14 | 7 | 4 |
-| Check Sitemap Drift | 14 | 7 | 4 |
-| Perf Budget Gate | 7 | 0 | 4 |
-| Check llms freshness | 7 | 0 | 4 |
-| .github/workflows/check-vercel-rewrites.yml | 7 | 0 | 7 |
-| Health Check | 2 | 2 | 0 |
-| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
+| Check Sitemap Drift | 19 | 9 | 8 |
+| Verify YouTube Videos | 18 | 9 | 7 |
+| Verify Data Modules | 17 | 8 | 8 |
+| PR Merger | 11 | 10 | 0 |
+| Check llms freshness | 11 | 0 | 9 |
+| .github/workflows/check-vercel-rewrites.yml | 9 | 0 | 9 |
+| Perf Budget Gate | 9 | 0 | 8 |
+| Verify API Modules | 2 | 1 | 0 |
 | Daily Digest | 1 | 0 | 0 |
-| Loop Watchdog | 1 | 1 | 0 |
-| Roadie Night Fleet | 1 | 0 | 0 |
-| SEO Agent | 1 | 0 | 0 |
-| CEO Agent | 1 | 1 | 0 |
-| X Agent | 1 | 1 | 0 |
+| Check GSC watched queries | 1 | 1 | 0 |
+| Check backlink signal | 1 | 1 | 0 |
+| Check LLM citations | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-10-12 00:37 (evening-review catch-up — 8/8 proposals verified+promoted #8924-8932, follow-up #8934 filed)
 - 2026-10-11 18:16 (mid-day pulse — 7/7 proposals verified+promoted, #8903-8909)
 - 2026-10-11 12:17 (deep run — 8/8 proposals verified+promoted, #8887-8894)
 - 2026-10-11 06:19 (cheap pulse — 8/8 fresh proposals verified+promoted, #8871-8878)
 - 2026-10-11 00:36 — Evening-review catch-up: 8/8 fresh proposals verified+promoted (#8863-8870), 4 clean + 4 with tighten
-- 2026-10-10 00:36 (evening review — 8/8 proposals verified+promoted, #8804-8811)
-- 2026-10-10 06:19 (cheap pulse — 4/4 fresh proposals verified+promoted, #8821-8824)
+- 2026-10-12 06:30 (cheap pulse — 6/7 proposals verified+promoted, 1 closed stale, #8935-8941)
 
-## 📦 Shipped to main (16)
+## 📦 Shipped to main (17)
 
-- #8917 fix: #8892 SEO: Paul Mazurkiewicz fabricated as Sabian cymbals + Evans heads user in 2 top10Lists.js entries — verified Meinl + Remo
-- #8916 fix: #8894 SEO: Dirk Verbeuren sticks fabricated as 'Promark Shira Kashi Oak 5B' in 3 drummerComparisons.js entries — verified Tama O-DVM2 signature since 2016
-- #8915 fix: #8893 SEO: Jay Weinberg fabricated as a Tama endorser in top10Lists.js 'Tama drummers' list — verified SJC Custom Drums since 2014
-- #8914 fix: #8890 SEO: Mikkey Dee drummerEvolution.js gear.drums.notes + keyChanges still contradict #8626's already-fixed summary/description (sibling-field miss)
-- #8913 fix: #8891 SEO: George Kollias drummerEvolution.js heads still fabricate 'Remo Emperor/Powerstroke 3' in 2 of 3 era blocks — #8302 only fixed 1 of 3
-- #8912 fix: #8889 SEO: Matt Greiner albumArticles.js still fabricates 'Ludwig Classic Maple' + 'Paiste 2002' gear — survives 2 prior closed fixes (#7454, #7603)
-- #8911 fix: #8888 SEO: Hellhammer top10Lists.js Viking-metal/war-metal FAQ fabricates 'Pearl Masters Premium + Meinl Byzance' gear — verified Sonor SQ2 + Paiste RUDE
-- #8910 fix: #8887 SEO: Jaska Raatikainen albumArticles.js fabricates an entire 'Paiste 2002' cymbal era across 6 album articles (74 occurrences) — verified continuous Zildjian
-- #8902 fix: #8878 SEO: Joey Jordison soundLikeGuides.js snare size wrong (14x5.5") — verified signature snare is 13x6.5"
-- #8901 fix: #8877 SEO: Jocke Wallgren soundLikeGuides.js snare self-contradicts as brass-shell — verified maple Reference Pure, same file's own kit field
-- #8900 fix: #8876 SEO: Matt Garstka gearPriceHistory.js claims 2016 signature snare/sticks launch — verified both released 2014, used on The Joy of Motion itself
-- #8899 fix: #8874 SEO: Jason Bittner gearPriceHistory.js fabricates 2012 Overkill full-time join — verified May 2017
-- #8898 fix: #8875 SEO: Flo Mounier gearPriceHistory.js 1996 sticks field fabricates Vic Firth 5B — verified 5A American Classic since 1992
-- #8897 fix: #8873 SEO: Daray drummerEvolution.js 2008-2017 era fabricates 'Pearl Masterworks Stadium Exotic' kit — verified Pearl Reference Pure
-- #8896 fix: #8872 SEO: Nick Menza drummerEvolution.js Cryptic Writings era fabricates 'Premier Signia' drums/Zildjian cymbals — verified Pearl Masterworks/Sabian AA
-- _+1 more_
+- #8967 fix: #8958 SEO: Vinnie Paul gear-evolution page has a third fabrication (Pearl, not Tama, for 1992-1996); FBD/Reinventing-the-Steel cross-reference also wrong
+- #8966 fix: #8941 SEO: Brann Dailor albumArticles.js fabricates an entire 'Sabian HHX' cymbal era for Leviathan (2004) across 20 occurrences — verified continuous Meinl since 2004
+- #8964 fix: #8940 SEO: top10Lists.js credits Travis Orbin with playing on Periphery's 2010 self-titled debut (6 locations) — he left in 2009, never recorded a Periphery album
+- #8963 fix: #8939 SEO: Richard Christy drummerEvolution.js 1996-1999 Death/Control Denied eras still fabricate 'Pearl double pedal' — #8268 only fixed the 2009-Present era, verified Axis A Longboard since 1998
+- #8962 fix: #8938 SEO: Aquiles Priester albumArticles.js line 83 self-contradicts as Evans heads user — verified Remo since 1996 (same file says Remo at line 397)
+- #8961 fix: #8937 SEO: Gene Hoglan albumArticles.js 'Brotherhood of the Snake' (2016) article fabricates Pearl endorsement 2 years early — verified Pearl since 2018
+- #8959 fix: #8936 SEO: Vinnie Paul albumArticles.js + extendedBios.js fabricate an entire 'Remo drums' era (1992-1996) — root cause of 5 prior misguided fixes, verified Tama through 1996 then Pearl
+- #8957 fix: #8935 SEO: Chris Adler drummerComparisons.js fabricates 'Mapex Black Panther Design Lab' kit across 12 locations — verified Mapex Saturn Satin Black Maple Burl
+- #8951 fix: #8934 SEO: sweep remaining 'Atlas Pro'/Bill Ward and 'G Class'/John Otto fabrications (gearPriceHistory.js, pedals.js, extendedBios.js, soundLikeGuides.js, studies/*)
+- #8950 fix: #8932 SEO batch: drummerComparisons.js 'Pearl Demon Drive' misattributed to George Kollias, Mike Mangini, Matt Halpern (15 lines, 3 drummers)
+- #8949 fix: #8928 SEO: pedalBrands.js Ludwig entry fabricates 'Atlas Pro' double pedal for Bill Ward — verified Ludwig Speed King (single) since 1970
+- #8948 fix: #8930 SEO: Ray Luzier soundLikeGuides.js drum kit model fabricated as 'Pearl Masters Maple Complete' across 5 locations — verified Pearl Reference Maple since 2013
+- #8947 fix: #8931 SEO: Daray top10Lists.js FAQ lines (symphonic/gothic metal) still say Pearl drums — verified Tama Starclassic Performer B/B since 2014
+- #8946 fix: #8929 SEO: pedalBrands.js Gibraltar entry fabricates 'G Class' pedal for John Otto — verified Gibraltar Professional Series since 1999
+- #8944 fix: #8927 SEO: Navene Koperweis gearComparisons.js fabricates DW 'Collector's Series Maple' in 2 comparisons — verified Performance Series since 2015
+- _+2 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 1764h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 1860h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2037h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3122h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5552h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 1777h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 1873h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2051h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3135h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5566h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

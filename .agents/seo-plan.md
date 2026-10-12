@@ -12300,3 +12300,42 @@ Notable findings this run:
 2. 5 held-back candidates (Danny Carey, Blake Richardson, Jon Dette x2, Shannon Larkin) — pre-sampled, need the same personal-verification treatment before filing.
 3. Content-gap: `joey jordison drum kit` re-confirmed against standing ruling — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-12 (run ~07:xx UTC) — traffic-weighted sweep: targeted top-GSC/GA4 drummers, 5 filed (#8952-8956)
+
+### Audit
+- robots.txt / `public/llms/**` / sitemap: not re-curled this run (unchanged per this morning's run: 8/8 AI crawlers allowed, 2,024 llms files, 3,162 sitemap URLs).
+- Bank check: 11 open `seo-proposal` at run start (#8935-8941 fresh from this morning's run, already live; #7981 held; 3 standing umbrellas) → true untriaged bank 0. Under the 45 floor → filed 5 (held back cap-8 headroom; stopped once the verified-high-confidence pool ran dry rather than padding with weaker finds).
+- Monday — drum-chair watch group 2 already logged by this morning's run (0 candidates, clean sweep). Not re-run.
+
+### Metrics readout
+- GSC 7d (07:28 UTC refresh): 9,884 impr / 187 clicks / 1.89% CTR / pos 7.5. Content-gap row (impr≥50, CTR<2%): `joey jordison drum kit` (68 impr, 1.47%) — already-ruled known-oscillator. No re-action.
+- GA4 7d: 436 sessions, organic 304/436 (69.7%). Top pages this week: `/bpm`, `/`, `/drummer/joey-jordison`, `/drummer/mario-duplantier`, `/drummers`, `/drummer/bill-ward`. Top GSC queries include `bill ward drum kit`, `danny carey drum kit setup`/`danny carey kit`, `eloy casagrande drumkit`/`eloy casagrande slipknot drum kit`.
+
+### Method — deliberate shift from random sampling to traffic-weighted targeting
+Prior runs this week sampled drummers broadly/randomly across the fabrication-drift sweep. This run instead cross-referenced the **current GA4 top-pages and GSC top-queries tables directly** and picked the 5 drummers that are both (a) currently earning real traffic/impressions and (b) not yet hit by this week's sweep: Danny Carey, Mario Duplantier, Eloy Casagrande (all literally in this week's top-10 GA4/GSC tables), plus Bill Ward and Joey Jordison in files/fields NOT covered by their already-shipped fixes (Ward: hardware-line fabrication, distinct from the pedal-model issue #8934 is sweeping; Jordison: kit-model fabrication, distinct from the closed snare-size fix #8878). Rationale: fixing a fabrication on a page that's *already earning* clicks this week is higher-leverage than fixing one on a page with zero impressions, and ties directly to the CLAUDE.md depth-over-volume freeze mandate.
+
+Dispatched 5 parallel subagents (one per drummer), each reading `endorsementNews.js` ground truth directly and cross-checking the standard sibling-file set, with an explicit dedup instruction (`gh issue list --state all --search`) before reporting. Personally re-verified every reported finding via direct `sed`/`grep` against current source before filing (per standing discipline) — this caught that one sub-finding (Mario Duplantier's "Iron Cobra 900 Power Glide" pedal name) was actually CORRECT and consistent file-wide, not a fabrication as the subagent's raw diff suggested, so it was dropped from the filed issue (kit-shell-wood + snare-depth only). Also caught that Eloy Casagrande has pedal/snare drift in at least 3 different wrong variants across different comparison entries (not just the 1 the first-pass subagent flagged) — broadened that issue's grep-all instruction accordingly.
+
+### Proposals filed this run
+1. #8952 — Danny Carey: drummerEvolution.js fabricates two Evans drumhead eras (1994-2005) — verified Remo since 2000s, no documented switch (distinct from closed #8312/#6174, which only fixed the current era / endorsementNews.js itself)
+2. #8953 — Mario Duplantier: drummerComparisons.js fabricates "Starclassic Walnut/Birch" kit shell + wrong snare depth across 10 lines — verified Starclassic Bubinga / 14x6.5"
+3. #8954 — Eloy Casagrande: drummerComparisons.js fabricates pedal model (2 wrong variants) + snare depth/model across 10+ lines — verified plain Iron Cobra double pedal / Bell Brass 14x5.5"
+4. #8955 — Bill Ward: drummerEvolution.js + extendedBios.js fabricate a "Ludwig Atlas Hardware" upgrade — verified unchanged Speed King hardware (distinct from #8934's in-flight pedal-model sweep)
+5. #8956 — Joey Jordison: drummerComparisons.js fabricates "Pearl Masters Premium Maple" kit (cross-contaminated from Jaska Raatikainen's entry) — verified Pearl Reference Series
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8935-8941 (this morning's batch, 7 fresh, pending CEO triage/Roadie pickup)
+- #8952-8956 (this run, 5 fresh)
+- Bank at run end: 16 open `seo-proposal`.
+
+### Next run
+1. Watch #8952-8956 through CEO triage; flag #8954 (Casagrande) to confirm the fix reconciles ALL pedal/snare variants (Power Glide, Speed Cobra 910, Sonic Steel) to the single verified `pedals.js`/`snares.js` values, not just the enumerated lines.
+2. Consider continuing the traffic-weighted approach next run — cross-reference metrics.md's top-pages/top-queries tables before picking sweep targets, rather than defaulting back to random sampling.
+3. 5 held-back candidates from the morning run (Danny Carey gearPriceHistory.js date, Blake Richardson, Jon Dette x2, Shannon Larkin) still need personal verification.
+4. Content-gap: `joey jordison drum kit` re-confirmed against standing ruling — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-19, group 3.

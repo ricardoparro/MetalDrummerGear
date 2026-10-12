@@ -341,6 +341,13 @@ const DRUMMER_META_OVERRIDES = {
     title: `Joey Jordison Drum Set, Kit & Instruments | ${SITE_NAME}`,
     description:
       "What instruments did Joey Jordison play? Slipknot's drummer (and Murderdolls guitarist) built his kit on a Pearl Reference Series shell pack, signature 13×6.5\" snare, and Paiste RUDE cymbals — complete instrument & kit breakdown.",
+    // Issue #8970: /articles/joey-jordison-legacy is a genuine drummerId/slug
+    // match but sorts outside the auto-detected slice(0,3) below — articles
+    // that merely cross-reference Joey via relatedDrummers (e.g. Lars Ulrich
+    // pieces) appear earlier in ALBUM_ARTICLES iteration order. Pin it so the
+    // profile page keeps a crawlable inbound link to it (same root cause/shape
+    // as the already-shipped #8294 songs fix).
+    extraRelatedArticles: ['joey-jordison-legacy'],
   },
   'eloy-casagrande': {
     title: `Eloy Casagrande Drum Kit & Setup — Tama Starclassic | ${SITE_NAME}`,
@@ -4098,9 +4105,17 @@ export function getMetaForPath(pathname) {
       const bandText = drummer.band ? `${drummer.band} ` : '';
       // Issue #1357: build related article backlinks for SSR body
       const allArticles = Object.values(ALBUM_ARTICLES);
-      const relatedArticles = allArticles
+      const autoRelatedArticles = allArticles
         .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === slug)
         .slice(0, 3);
+      // Issue #8970: DRUMMER_META_OVERRIDES.extraRelatedArticles pins specific
+      // article slugs (e.g. anniversary/tribute pieces) that are genuine
+      // matches but sort outside the slice(0,3) cutoff above, guaranteeing
+      // them a crawlable inbound link from the profile page.
+      const extraRelatedArticles = (override?.extraRelatedArticles || [])
+        .map(s => ALBUM_ARTICLES[s])
+        .filter(a => a && !autoRelatedArticles.some(existing => existing.slug === a.slug));
+      const relatedArticles = [...autoRelatedArticles, ...extraRelatedArticles];
       // Issue #4611: prefer the full FAQ authored in extendedBios.js (often 8+
       // questions) over the generic 3-question template.
       const extFaqItems = extBio?.sections?.faq?.items;

@@ -1023,7 +1023,7 @@ export const ALBUM_ARTICLES_META = {
     "year": 2004,
     "genre": "Progressive Sludge Metal",
     "title": "Brann Dailor's Drum Setup on Mastodon's Leviathan (2004)",
-    "description": "The exact drum kit, cymbals, and gear Brann Dailor used on Mastodon's Leviathan (2004) — the Moby-Dick concept album that earned a Grammy nomination for 'Blood and Thunder,' produced by Matt Bayles at Studio Litho in Seattle. Tama Starclassic Bubinga, Sabian HHX cymbals, Tama Iron Cobra pedals, and the jazz-trained fill vocabulary that announced Mastodon's arrival as one of metal's most musical bands.",
+    "description": "The exact drum kit, cymbals, and gear Brann Dailor used on Mastodon's Leviathan (2004) — the Moby-Dick concept album that earned a Grammy nomination for 'Blood and Thunder,' produced by Matt Bayles at Studio Litho in Seattle. Tama Starclassic Bubinga, Meinl cymbals, Tama Iron Cobra pedals, and the jazz-trained fill vocabulary that announced Mastodon's arrival as one of metal's most musical bands.",
     "ogImage": "/images/albums/leviathan-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",

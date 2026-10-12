@@ -80,7 +80,7 @@ export const articles = {
       "shell": "All-maple",
       "description": "Priester's snare needs to perform two very different functions: it must crack through the dense low-mid frequencies of power metal guitar arrangements, and it must respond with sensitivity to ghost notes and dynamic variation during slower, more atmospheric passages.\n\nThe 14\" x 6.5\" format offers the depth to generate real body, while the all-maple shell gives a warm, focused tone that matches the rest of the Saturn Evolution shell pack.\n\nIn a live power metal context, snare tuning typically runs medium-high to tight: you want the crack to cut over large PA systems without becoming papery or thin. Priester's snare approach on records like Temple of Shadows demonstrates exceptional control — his rimshots are decisive and even, never muddy, even at the extreme tempos where less experienced drummers start losing snare definition.\n\nFor the double-bass-heavy sections that make up most of Angra's catalog, a powerful, authoritative snare backbeat is the anchor that keeps the groove from dissolving into pure machine-gun kick noise. Priester's snare work on \"Spread Your Fire\" is a masterclass in this: the backbeat swings with real conviction at 182 BPM, preventing the song from feeling like a pure endurance exercise.",
       "tuningSetting": "Medium-high for live projection; medium for studio warmth",
-      "heads": "Evans",
+      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$400–800 (Saturn Evolution snare)"
     },
     "cymbals": {

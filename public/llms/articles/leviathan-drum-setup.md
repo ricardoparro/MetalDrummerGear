@@ -1,6 +1,6 @@
 # Brann Dailor's Drum Setup on Mastodon's Leviathan (2004)
 
-> The exact drum kit, cymbals, and gear Brann Dailor used on Mastodon's Leviathan (2004) — the Moby-Dick concept album that earned a Grammy nomination for 'Blood and Thunder,' produced by Matt Bayles at Studio Litho in Seattle. Tama Starclassic Bubinga, Sabian HHX cymbals, Tama Iron Cobra pedals, and the jazz-trained fill vocabulary that announced Mastodon's arrival as one of metal's most musical bands.
+> The exact drum kit, cymbals, and gear Brann Dailor used on Mastodon's Leviathan (2004) — the Moby-Dick concept album that earned a Grammy nomination for 'Blood and Thunder,' produced by Matt Bayles at Studio Litho in Seattle. Tama Starclassic Bubinga, Meinl cymbals, Tama Iron Cobra pedals, and the jazz-trained fill vocabulary that announced Mastodon's arrival as one of metal's most musical bands.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Brann Dailor](/llms/drummers/brann-dailor.md)
@@ -18,7 +18,7 @@ Recorded at Studio Litho in Seattle, Washington — Stone Gossard's studio, the 
 
 What makes Dailor's performance on *Leviathan* extraordinary is not technical extremity — though the playing is fierce — but the sheer density of musical ideas per minute. Trained in jazz from his Rochester childhood, Dailor brought a fills-as-lead-instrument approach that almost no metal drummer had attempted at this scale. The opening seconds of "Blood and Thunder" — the song that earned the album its Grammy nomination — feature a cascading tom phrase that functions as a melodic statement rather than a rhythmic count-in. Across the album, his fills weave between the riffs as a third melodic voice alongside Brent Hinds' and Bill Kelliher's guitars, a compositional role that would deepen across [Blood Mountain](/articles/blood-mountain-drum-setup) (2006) and reach its full expression on [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009).
 
-The gear Dailor used on *Leviathan* sits at the centre of this story. The Tama Starclassic Bubinga kit — six-ply African bubinga shells with the dense, focused fundamental that bubinga is prized for — provided the heavy, articulate canvas on which his melodic tom work could register. Sabian HHX cymbals (his cymbal of choice in the early-to-mid 2000s, before his later Meinl Byzance era) gave the album its bright, complex top end. Tama Iron Cobra pedals drove a double-kick configuration with the double 22"x18" bass drums that anchored the album's most intense passages, from the gallop of "Iron Tusk" to the relentless closing minutes of "Hearts Alive."
+The gear Dailor used on *Leviathan* sits at the centre of this story. The Tama Starclassic Bubinga kit — six-ply African bubinga shells with the dense, focused fundamental that bubinga is prized for — provided the heavy, articulate canvas on which his melodic tom work could register. Dailor signed with Meinl for cymbals in 2004 — the same year *Leviathan* was released — and the dark, complex tones of his Meinl setup gave the album its top end. Tama Iron Cobra pedals drove a double-kick configuration with the double 22"x18" bass drums that anchored the album's most intense passages, from the gallop of "Iron Tusk" to the relentless closing minutes of "Hearts Alive."
 
 This article breaks down every piece of gear Dailor used during the *Leviathan* sessions — the kit, the snare, the cymbals, the hardware — and how each choice shaped the sound that turned a sludge metal concept record about a whale into one of the defining metal albums of the 2000s.
 
@@ -26,7 +26,7 @@ This article breaks down every piece of gear Dailor used during the *Leviathan* 
 
 - **Drums:** Tama Tama Starclassic Bubinga (Natural bubinga gloss / dark custom wrap finish)
 - **Snare:** Tama Tama Bell Brass or Steel Snare, 14" x 5.5"
-- **Cymbals:** Sabian — Sabian HHX Series
+- **Cymbals:** Meinl — Meinl Mb20 & Mb8 Series
 - **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Tama Iron Cobra Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vater 3A Wood Tip
 - **Heads:** Evans Genera HD (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium-high tension — bright attack with controlled ring, projection for dense mix
@@ -53,24 +53,22 @@ Ghost notes — the hallmark of Dailor's jazz-trained playing — register clear
 
 Matt Bayles captured the snare with a single close microphone (likely a Shure SM57) supplemented by minimal room contribution — the dry, direct snare crack that became the album's sonic fingerprint. This production approach kept the snare anchored at the front of the mix where Dailor's intricate playing could be followed by the listener, even at the album's most chaotic moments.
 
-### Sabian HHX: Brann's Mid-2000s Cymbal Voice
+### Meinl: Brann's Dark, Complex Cymbal Voice from Day One
 
-Brann Dailor's Sabian HHX cymbal setup on *Leviathan* defines the album's bright, articulate top-end character. The HHX series — Sabian's hand-hammered "extreme" line — was Dailor's cymbal of choice in the early 2000s; he signed with Meinl in 2004 and moved to Byzance cymbals in the years that followed. HHX cymbals use a brilliant finish, intensive hand-hammering, and a distinct bell-and-bow shaping that produces a brighter, more cutting sound than the darker Turkish-style cymbals Dailor would later prefer.
+Brann Dailor signed with Meinl in 2004 — the same year *Leviathan* was released — drawn to the dark, complex tones that distinguished Meinl's Turkish-style cymbals from the brighter options on the market. That dark character gave *Leviathan* a cymbal voice with genuine low-mid weight, able to sit underneath Brent Hinds' and Bill Kelliher's dense guitar layers without turning harsh or brittle.
 
-For *Leviathan* specifically, the HHX series was the correct musical choice. The album is denser, more abrasive, and more directly aggressive than Mastodon's later atmospheric records — and bright, cutting cymbals were essential for the drum kit to remain intelligible above the layered guitars. The HHX hi-hats deliver an articulate chick that registers cleanly even under Brent Hinds' and Bill Kelliher's most overdriven riffing; the crashes slash rather than bloom, providing immediate punctuation rather than atmospheric wash.
+The china cymbal is particularly significant on *Leviathan*. Dailor uses it constantly throughout the album — aggressive, trashy accents marking riff transitions across "Blood and Thunder," section boundaries in "Iron Tusk," and the closing intensity of "Hearts Alive." That trashy character became part of the album's recognisable sonic identity: not a brief decorative splash but a structural compositional element.
 
-The China cymbal is particularly significant on *Leviathan*. Dailor uses it constantly throughout the album — aggressive, trashy accents marking riff transitions across "Blood and Thunder," section boundaries in "Iron Tusk," and the closing intensity of "Hearts Alive." The HHX China's controlled trashiness gives those accents a sonic identity that became part of the album's recognisable character: not a brief decorative splash but a structural compositional element.
-
-For drummers studying how cymbal choice shapes an album's emotional character, the comparison between *Leviathan*'s Sabian HHX setup and the Meinl Byzance setup Dailor later brought to [Crack the Skye](/articles/crack-the-skye-drum-setup) is instructive. Same player, different cymbals, dramatically different result: HHX gives *Leviathan* its bright physicality; Byzance gives *Crack the Skye* its dark atmosphere. See also the [Brann Dailor drummer profile](/drummer/brann-dailor) for the full cymbal evolution.
+Meinl's Mb20 and Mb8 series have remained Dailor's cymbal voice in the two decades since, carried forward across [Blood Mountain](/articles/blood-mountain-drum-setup) (2006), [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009), and every Mastodon record that followed. Specific individual hi-hat, crash, ride, and china models used during the *Leviathan* sessions are not independently documented. See also the [Brann Dailor drummer profile](/drummer/brann-dailor) for the full gear history.
 
 ## Leviathan: The Whale That Made Mastodon — and the Drum Setup That Made the Whale
 
 *Leviathan*'s place in metal history is secure. The Grammy nomination for "Blood and Thunder," the universal critical acclaim, the year-end honours from *Revolver* and others — these confirmed at the time what listeners could hear immediately: that Mastodon was a band of rare compositional ambition, and that Brann Dailor was a drummer operating on a different musical plane than most of his metal peers.
 
-The gear behind that achievement — a Tama Starclassic Bubinga kit, Sabian HHX cymbals, Tama Iron Cobra pedals, and a Tama brass snare — was chosen specifically to serve the album's heavy concept-record character. The dense, focused fundamental of bubinga shells gave Dailor's cascading fills the structural punch they needed to register through dense guitar layering. The bright, cutting HHX cymbals provided an articulate top end that contrasted cleanly against the dark bubinga character. The double-kick architecture of the Iron Cobra pedals drove the album's most physically intense passages with consistency and stamina across full takes.
+The gear behind that achievement — a Tama Starclassic Bubinga kit, Meinl cymbals, Tama Iron Cobra pedals, and a Tama brass snare — was chosen specifically to serve the album's heavy concept-record character. The dense, focused fundamental of bubinga shells gave Dailor's cascading fills the structural punch they needed to register through dense guitar layering. The dark, complex tones of his newly-signed Meinl cymbals gave the kit a top end with genuine weight rather than a thin, brittle brightness. The double-kick architecture of the Iron Cobra pedals drove the album's most physically intense passages with consistency and stamina across full takes.
 
 For drummers studying *Leviathan*, the key takeaways are:
-- Cymbal choice shapes album character. Compare the HHX brightness of *Leviathan* with the Byzance darkness of *Crack the Skye* for the same player on different cymbals.
+- 2004 marked two foundational choices for Dailor: the Tama Starclassic Bubinga kit and his Meinl cymbal endorsement, both still echoing through his setup two decades later.
 - Tom configuration enables melodic vocabulary. The four-tom palette (10", 12", 14", 16") makes Dailor's cascading fills audible as melodic intervals rather than as a wash of percussive events.
 - Double-kick is a compositional tool, not just a velocity exercise. *Leviathan* uses double-kick for visceral physicality and structural drive, not for blast beat shock value.
 - A jazz vocabulary translates beautifully into metal when the gear supports the dynamic range required. Ghost notes, controlled fills, and intricate hi-hat work all register on this kit because the gear choices were made with that vocabulary in mind.
@@ -83,7 +81,7 @@ For the complete Brann Dailor gear arc, visit the [Brann Dailor drummer profile]
 - Grammy-nominated for "Blood and Thunder" (Best Metal Performance, 2005)
 - Recorded at Studio Litho, Seattle — produced by Matt Bayles (Isis, Botch, Pearl Jam)
 - Tama Starclassic Bubinga — six-ply African bubinga shells, double 22"x18" bass drums
-- Sabian HHX cymbals — Brann's era-specific choice before his later Meinl Byzance years
+- Meinl cymbals — Dailor signed with Meinl in 2004, the same year Leviathan was released
 - Tama Iron Cobra double pedal — anchored the album's blast and gallop passages
 - Brann Dailor's breakthrough — fills-as-lead-instrument philosophy fully on display
 - Tama Starclassic Bubinga — flagship bubinga shells for heavy, focused fundamental
@@ -103,15 +101,15 @@ A: Brann Dailor recorded Mastodon's Leviathan (2004) using a Tama Starclassic Bu
 
 **Q: Why is Leviathan considered Mastodon's breakthrough?**
 
-A: Leviathan (2004) is considered Mastodon's breakthrough because it elevated the band from underground sludge metal status to international critical acclaim. The album earned a Grammy nomination for 'Blood and Thunder' (Best Metal Performance, 2005), topped Revolver magazine's Album of the Year list, and appeared on numerous year-end critic polls. As a Moby-Dick concept album with serious compositional ambition, Leviathan announced Mastodon as a band capable of writing thematically coherent records that worked both as headbanging metal and as music for listeners who valued the more progressive elements of the genre. It also established the band's relationship with Tama drums and Sabian cymbals (later switched to Meinl), and it set the stage for the subsequent records — Blood Mountain (2006), Crack the Skye (2009), and beyond — that built Mastodon into one of the most critically respected metal bands of the 21st century.
+A: Leviathan (2004) is considered Mastodon's breakthrough because it elevated the band from underground sludge metal status to international critical acclaim. The album earned a Grammy nomination for 'Blood and Thunder' (Best Metal Performance, 2005), topped Revolver magazine's Album of the Year list, and appeared on numerous year-end critic polls. As a Moby-Dick concept album with serious compositional ambition, Leviathan announced Mastodon as a band capable of writing thematically coherent records that worked both as headbanging metal and as music for listeners who valued the more progressive elements of the genre. It also established the band's relationship with Tama drums and marked the year Dailor signed with Meinl for cymbals, and it set the stage for the subsequent records — Blood Mountain (2006), Crack the Skye (2009), and beyond — that built Mastodon into one of the most critically respected metal bands of the 21st century.
 
 **Q: What cymbals did Brann Dailor use on Leviathan?**
 
-A: On Leviathan (2004), Brann Dailor used Sabian HHX series cymbals — Sabian's hand-hammered 'extreme' line, prized for its bright, articulate, cutting character. His setup included 14 inch HHX Groove Hi-Hats, a 17 inch HHX Evolution Crash, an 18 inch HHX X-Plosion Crash, a 21 inch HHX Groove Ride, an 18 inch HHX China (heavily featured throughout the album), and a 10 inch HHX Splash for accent work. This Sabian HHX setup was Brann's cymbal voice in the early 2000s. He signed with Meinl in 2004 and moved to Byzance cymbals in the years that followed, trading the HHX's bright cutting attack for the darker, more atmospheric Byzance character that has defined every Mastodon record from Crack the Skye (2009) onward.
+A: On Leviathan (2004), Brann Dailor played Meinl cymbals — specifically the Mb20 and Mb8 series. 2004 was the year Dailor signed with Meinl, drawn to the dark, complex tones of their Turkish-style cymbals. The china cymbal is especially prominent on the album, used for aggressive, trashy accents marking riff transitions throughout tracks like 'Blood and Thunder' and 'Iron Tusk.' Meinl's Mb20 and Mb8 series have remained Dailor's cymbal voice on every Mastodon record since, through Crack the Skye (2009) and beyond.
 
 **Q: What is the song "Blood and Thunder" about?**
 
-A: 'Blood and Thunder' is the opening track of Mastodon's Leviathan (2004) and the song that earned the album its Grammy nomination for Best Metal Performance at the 2005 Grammy Awards. Like the rest of Leviathan, the song draws directly from Herman Melville's Moby-Dick: the lyrics narrate Captain Ahab's obsessive pursuit of the white whale, with lines like 'White whale, holy grail' referencing the central image of the novel. The song became one of Mastodon's signature tracks and remains a fixture in their live sets. Musically, it features a galloping double-kick pattern under the central riff, a cascading tom fill at the opening that functions as a melodic statement, and the bright, trashy HHX China cymbal accents that mark every riff transition — gear and performance choices that defined the band's mid-2000s sound.
+A: 'Blood and Thunder' is the opening track of Mastodon's Leviathan (2004) and the song that earned the album its Grammy nomination for Best Metal Performance at the 2005 Grammy Awards. Like the rest of Leviathan, the song draws directly from Herman Melville's Moby-Dick: the lyrics narrate Captain Ahab's obsessive pursuit of the white whale, with lines like 'White whale, holy grail' referencing the central image of the novel. The song became one of Mastodon's signature tracks and remains a fixture in their live sets. Musically, it features a galloping double-kick pattern under the central riff, a cascading tom fill at the opening that functions as a melodic statement, and the trashy Meinl china cymbal accents that mark every riff transition — gear and performance choices that defined the band's mid-2000s sound.
 
 **Q: Where was Leviathan recorded?**
 
@@ -134,4 +132,4 @@ A: Leviathan was recorded at Studio Litho in Seattle, Washington — Stone Gossa
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

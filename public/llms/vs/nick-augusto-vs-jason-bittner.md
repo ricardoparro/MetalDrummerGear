@@ -34,7 +34,7 @@ Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight
 
 ## Key Differences
 
-Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Pro-Mark Nylon Tip 5B sticks. Jason Bittner's current Overkill-era rig centers on Mapex Saturn V all-maple shells and Zildjian K & A Custom cymbals, driven by a Mapex Falcon double pedal and his own Promark Jason Bittner Signature 5BX sticks — the same Mapex/Zildjian rig he's played since signing in 1997, carried unchanged from his Shadows Fall years into his 2017 move to Overkill. Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight, aggressive double bass work and straightforward technicality built to serve Trivium's thrash-influenced songwriting rather than to showcase complexity for its own sake. Bittner combines thrash metal power with the groove and heaviness of modern metal, drawing on Dave Lombardo, Nicko McBrain, Vinnie Paul, and Charlie Benante to build a style defined by powerful, driving double bass patterns, tight and punchy snare work, and the versatility to move between Shadows Fall's metalcore attack and Overkill's classic thrash gallop without losing his identity.
+Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a DW 9000 Series double pedal and Pro-Mark Nylon Tip 5B sticks. Jason Bittner's current Overkill-era rig centers on Mapex Saturn V all-maple shells and Zildjian K & A Custom cymbals, driven by a Mapex Falcon double pedal and his own Promark Jason Bittner Signature 5BX sticks — the same Mapex/Zildjian rig he's played since signing in 1997, carried unchanged from his Shadows Fall years into his 2017 move to Overkill. Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight, aggressive double bass work and straightforward technicality built to serve Trivium's thrash-influenced songwriting rather than to showcase complexity for its own sake. Bittner combines thrash metal power with the groove and heaviness of modern metal, drawing on Dave Lombardo, Nicko McBrain, Vinnie Paul, and Charlie Benante to build a style defined by powerful, driving double bass patterns, tight and punchy snare work, and the versatility to move between Shadows Fall's metalcore attack and Overkill's classic thrash gallop without losing his identity.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Nick Augusto and Jason Bittner both built their reputations powering thrash-adja
 A: Nick Augusto drummed for Trivium from 2009 to 2014, bringing fast, aggressive metalcore fundamentals shaped by his grindcore background. Jason Bittner has spent over two decades powering thrash-adjacent metalcore, first with Shadows Fall (1999-2015) and now with Overkill (2017-present), combining thrash power with modern metal groove.
 
 **Q: What gear do Nick Augusto and Jason Bittner use?**
-A: Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference brass snare and Sabian AAX Series cymbals, powered by a Pearl Demon Drive double pedal. Jason Bittner's current Overkill rig uses Mapex Saturn V all-maple shells and Zildjian K & A Custom cymbals, powered by a Mapex Falcon double pedal and his own Promark signature sticks — the same setup he's used since signing with Mapex and Zildjian in 1997, carried unchanged from Shadows Fall into Overkill.
+A: Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference brass snare and Sabian AAX Series cymbals, powered by a DW 9000 Series double pedal. Jason Bittner's current Overkill rig uses Mapex Saturn V all-maple shells and Zildjian K & A Custom cymbals, powered by a Mapex Falcon double pedal and his own Promark signature sticks — the same setup he's used since signing with Mapex and Zildjian in 1997, carried unchanged from Shadows Fall into Overkill.
 
 **Q: What bands are Nick Augusto and Jason Bittner known for?**
 A: Nick Augusto drummed for Trivium from 2009 to 2014, recording "In Waves" (2011) and "Vengeance Falls" (2013). Jason Bittner drummed for Shadows Fall from 1999 to 2015, played briefly in Flotsam and Jetsam, and has been Overkill's drummer since 2017.
@@ -67,4 +67,4 @@ A: Jason Bittner joined Overkill in 2017, replacing longtime drummer Ron Lipnick
 
 ---
 
-*Last updated: 2026-10-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

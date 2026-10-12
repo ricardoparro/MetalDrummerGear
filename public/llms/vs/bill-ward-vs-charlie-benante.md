@@ -67,4 +67,4 @@ A: Bill Ward is widely credited as one of the true originators of heavy metal dr
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

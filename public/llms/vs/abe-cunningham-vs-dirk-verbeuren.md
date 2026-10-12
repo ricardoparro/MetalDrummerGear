@@ -67,4 +67,4 @@ A: Dirk Verbeuren was the drummer for Swedish melodic death metal band Soilwork 
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

@@ -34,7 +34,7 @@ Portnoy excels at rapid-fire transitions, dramatic fills, and endurance across m
 
 ## Key Differences
 
-Portnoy plays Tama Starclassic Maple/Birch drums with Sabian HHX cymbals and Tama Iron Cobra double pedals. Mangini uses a Pearl Reference Series kit with Pearl Reference snares, Sabian HHX Evolution and AAX X-Plosion cymbals, and a Pearl Demon Drive double pedal. Portnoy excels at rapid-fire transitions, dramatic fills, and endurance across marathon prog compositions. Mangini holds Guinness World Records for drumming speed and applies biomechanical analysis to maximize performance efficiency.
+Portnoy plays Tama Starclassic Maple/Birch drums with Sabian HHX cymbals and Tama Iron Cobra double pedals. Mangini uses a Pearl Reference Series kit with Pearl Reference snares, Sabian HHX Evolution and AAX X-Plosion cymbals, and a Pearl Eliminator Redline double pedal. Portnoy excels at rapid-fire transitions, dramatic fills, and endurance across marathon prog compositions. Mangini holds Guinness World Records for drumming speed and applies biomechanical analysis to maximize performance efficiency.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ One of progressive metal's great debates. Portnoy built Dream Theater's identity
 ## FAQ
 
 **Q: What are the main differences between Mike Portnoy's and Mike Mangini's drum kits?**
-A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian cymbals, while Mike Mangini uses Pearl Reference Pure with Sabian cymbals. Portnoy plays Tama Starclassic Maple/Birch drums with Sabian HHX cymbals and Tama Iron Cobra double pedals. Mangini uses a Pearl Reference Series kit with Pearl Reference snares, Sabian HHX Evolution and AAX X-Plosion cymbals, and a Pearl Demon Drive double pedal.
+A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian cymbals, while Mike Mangini uses Pearl Reference Pure with Sabian cymbals. Portnoy plays Tama Starclassic Maple/Birch drums with Sabian HHX cymbals and Tama Iron Cobra double pedals. Mangini uses a Pearl Reference Series kit with Pearl Reference snares, Sabian HHX Evolution and AAX X-Plosion cymbals, and a Pearl Eliminator Redline double pedal.
 
 **Q: What drums does Mike Portnoy play vs Mike Mangini?**
 A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Mike Mangini plays Pearl Reference Pure.
@@ -67,4 +67,4 @@ A: Mike Portnoy uses Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

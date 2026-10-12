@@ -67,4 +67,4 @@ A: The gravity blast (also called the "Morrisound blast" or "rebound blast") is 
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

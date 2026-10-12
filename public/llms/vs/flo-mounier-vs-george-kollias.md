@@ -67,4 +67,4 @@ A: Cryptopsy's None So Vile (1996) is universally considered Flo Mounier's defin
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

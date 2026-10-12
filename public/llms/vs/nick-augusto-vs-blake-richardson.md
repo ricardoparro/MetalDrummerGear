@@ -34,7 +34,7 @@ Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight
 
 ## Key Differences
 
-Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Pro-Mark Nylon Tip 5B sticks. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime), driven by twin Tama Iron Cobra Power Glide single pedals and Vic Firth American Classic 3A sticks. Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight, aggressive double bass work and straightforward technicality built to serve Trivium's thrash-influenced songwriting rather than to showcase complexity for its own sake. Richardson fuses death metal precision with jazz influences, drawing on heroes like Terry Bozzio, Dennis Chambers, and Tomas Haake to build complex blast beats, constantly shifting odd time signatures, and fill-heavy arrangements that treat the drum kit as a compositional voice within BTBAM's genre-blending progressive death metal.
+Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a DW 9000 Series double pedal and Pro-Mark Nylon Tip 5B sticks. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime), driven by twin Tama Iron Cobra Power Glide single pedals and Vic Firth American Classic 3A sticks. Augusto's playing favors powerful, speed-driven metalcore fundamentals — tight, aggressive double bass work and straightforward technicality built to serve Trivium's thrash-influenced songwriting rather than to showcase complexity for its own sake. Richardson fuses death metal precision with jazz influences, drawing on heroes like Terry Bozzio, Dennis Chambers, and Tomas Haake to build complex blast beats, constantly shifting odd time signatures, and fill-heavy arrangements that treat the drum kit as a compositional voice within BTBAM's genre-blending progressive death metal.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Nick Augusto and Blake Richardson represent two different technical demands with
 A: Nick Augusto (Trivium, 2009-2014) plays powerful, speed-driven metalcore drumming built for aggressive thrash-influenced songwriting. Blake Richardson (Between the Buried and Me, since 2005) fuses death metal precision with jazz influences, building complex blast beats and constantly shifting odd time signatures. Augusto prioritizes speed and power; Richardson prioritizes technical and compositional complexity.
 
 **Q: What gear do Nick Augusto and Blake Richardson use?**
-A: Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference brass snare and Sabian AAX Series cymbals, powered by a Pearl Demon Drive double pedal. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian cymbals, driven by twin Tama Iron Cobra Power Glide single pedals.
+A: Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference brass snare and Sabian AAX Series cymbals, powered by a DW 9000 Series double pedal. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian cymbals, driven by twin Tama Iron Cobra Power Glide single pedals.
 
 **Q: What bands are Nick Augusto and Blake Richardson known for?**
 A: Nick Augusto drummed for Trivium from 2009 to 2014, recording "In Waves" (2011) and "Vengeance Falls" (2013). Blake Richardson has drummed for Between the Buried and Me since 2005, also playing in Glass Casket.
@@ -67,4 +67,4 @@ A: Blake Richardson has cited Terry Bozzio, Dennis Chambers, and Meshuggah's Tom
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

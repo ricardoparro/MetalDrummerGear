@@ -67,4 +67,4 @@ A: Brann Dailor is the drummer and vocalist for Mastodon. Gavin Harrison is best
 
 ---
 
-*Last updated: 2026-10-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

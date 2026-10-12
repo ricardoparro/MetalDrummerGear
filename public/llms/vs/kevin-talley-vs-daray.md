@@ -56,7 +56,7 @@ A: Kevin Talley's signature is relentless, high-velocity single-stroke and gravi
 A: Kevin Talley has played with Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. Daray played in Polish death metal band Vader from 2006 to 2016 and has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008.
 
 **Q: What gear do Kevin Talley and Daray use?**
-A: Kevin Talley plays a Pearl Masters Custom kit with a 14x5.5" Pearl Masters maple snare and Sabian AAX Series cymbals, driven by a Pearl Eliminator double pedal. Daray plays a Tama Starclassic Performer B/B kit with a S.L.P. Black Brass LBR1465 snare and Paiste RUDE & 2002 Series cymbals, driven by a Pearl Demon Drive double pedal.
+A: Kevin Talley plays a Pearl Masters Custom kit with a 14x6.5" Pearl Masters steel snare and Sabian AAX Series cymbals, driven by a Pearl Eliminator double pedal. Daray plays a Tama Starclassic Performer B/B kit with a S.L.P. Black Brass LBR1465 snare and Paiste RUDE & 2002 Series cymbals, driven by a Pearl Demon Drive double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Kevin Talley plays a Pearl Masters Custom kit with a 14x5.5" Pearl Masters ma
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

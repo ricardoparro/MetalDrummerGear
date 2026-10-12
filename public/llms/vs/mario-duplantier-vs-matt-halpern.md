@@ -34,7 +34,7 @@ Mario uses tribal stamina and explosive accent placement to power Gojira's massi
 
 ## Key Differences
 
-Mario endorses Tama Starclassic Bubinga drums with Zildjian A Custom and K Sweet cymbals and Tama signature sticks — a warm, powerful setup built for Gojira's atmospheric heaviness. Matt plays Pearl Reference Series drums with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — a precision-tuned setup suited to Periphery's studio-quality live performance standards. Mario uses tribal stamina and explosive accent placement to power Gojira's massive riff cycles, with a style built on controlled ferocity and dynamics rather than pure speed. Halpern masters the djent paradox — making syncopated polyrhythms feel completely natural through ghost-note density, precise subdivision, and a groove-first philosophy supported by extensive music theory knowledge and YouTube educational content.
+Mario endorses Tama Starclassic Bubinga drums with Zildjian A Custom and K Sweet cymbals and Tama signature sticks — a warm, powerful setup built for Gojira's atmospheric heaviness. Matt plays Pearl Reference Series drums with Meinl Byzance cymbals — a precision-tuned setup suited to Periphery's studio-quality live performance standards. Mario uses tribal stamina and explosive accent placement to power Gojira's massive riff cycles, with a style built on controlled ferocity and dynamics rather than pure speed. Halpern masters the djent paradox — making syncopated polyrhythms feel completely natural through ghost-note density, precise subdivision, and a groove-first philosophy supported by extensive music theory knowledge and YouTube educational content.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Mario Duplantier and Matt Halpern represent two faces of modern heavy drumming �
 A: Mario Duplantier plays Tama Starclassic Bubinga drums with Zildjian A Custom and K Sweet cymbals and Tama signature sticks.
 
 **Q: What drums does Matt Halpern play?**
-A: Matt Halpern plays Pearl Reference Series drums with Meinl Byzance cymbals (Traditional Medium hi-hats, Traditional Extra Thin Hammered crashes, Sand Crash-Ride) plus his signature Artist Concept Double Down Stack and a Pearl Demon Drive double pedal.
+A: Matt Halpern plays Pearl Reference Series drums with Meinl Byzance cymbals (Traditional Medium hi-hats, Traditional Extra Thin Hammered crashes, Sand Crash-Ride) plus his signature Artist Concept Double Down Stack.
 
 **Q: Who is more technical: Mario Duplantier or Matt Halpern?**
 A: Both are highly technical in different ways. Halpern's polyrhythmic ghost-note complexity and djent subdivision are a different kind of technical demand than Mario's tribal power and explosive accent placement. Neither is "more technical" — they're technically elite in different dimensions.
@@ -67,4 +67,4 @@ A: Mario Duplantier is the drummer and co-founder of Gojira, the French progress
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

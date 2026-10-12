@@ -34,7 +34,7 @@ Mario uses tribal power, explosive accents, and stamina-driven endurance across 
 
 ## Key Differences
 
-Mario endorses Tama Starclassic Bubinga drums with Zildjian K Sweet and A Custom cymbals and Tama signature sticks. George plays Pearl Reference drums with Pearl Demon Drive pedals specifically engineered for extreme-tempo double bass. Mario uses tribal power, explosive accents, and stamina-driven endurance across Gojira's massive, atmospheric compositions. George employs heel-toe technique for sustained blast beats at 280+ BPM, combining mechanical precision with technical death metal complexity.
+Mario endorses Tama Starclassic Bubinga drums with Zildjian K Sweet and A Custom cymbals and Tama signature sticks. George plays Pearl Reference drums with Pearl Demon XR pedals specifically engineered for extreme-tempo double bass. Mario uses tribal power, explosive accents, and stamina-driven endurance across Gojira's massive, atmospheric compositions. George employs heel-toe technique for sustained blast beats at 280+ BPM, combining mechanical precision with technical death metal complexity.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Mario Duplantier brings atmospheric, eco-conscious tribal power to extreme metal
 ## FAQ
 
 **Q: What are the main differences between Mario Duplantier's and George Kollias's drum kits?**
-A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals, while George Kollias uses Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals. Mario endorses Tama Starclassic Bubinga drums with Zildjian K Sweet and A Custom cymbals and Tama signature sticks. George plays Pearl Reference drums with Pearl Demon Drive pedals specifically engineered for extreme-tempo double bass.
+A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals, while George Kollias uses Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals. Mario endorses Tama Starclassic Bubinga drums with Zildjian K Sweet and A Custom cymbals and Tama signature sticks. George plays Pearl Reference drums with Pearl Demon XR pedals specifically engineered for extreme-tempo double bass.
 
 **Q: What drums does Mario Duplantier play vs George Kollias?**
 A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom). George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware).
@@ -67,4 +67,4 @@ A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

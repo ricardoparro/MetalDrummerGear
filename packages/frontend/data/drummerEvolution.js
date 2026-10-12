@@ -6605,34 +6605,34 @@ export const DRUMMER_EVOLUTION = {
         years: '2009–2014',
         startYear: 2009,
         endYear: 2014,
-        description: 'The Great Misdirect (2009) and the Parallax concept albums (2011–2012) pushed BTBAM\'s progressive ambitions further. Richardson\'s drumming became more compositionally involved, and the band\'s international stature demanded a setup that could handle both intimate and arena-scale performances. His transition to Meinl Byzance cymbals began during this era.',
+        description: 'The Great Misdirect (2009) and the Parallax concept albums (2011–2012) pushed BTBAM\'s progressive ambitions further. Richardson\'s drumming became more compositionally involved, and the band\'s international stature demanded a setup that could handle both intimate and arena-scale performances. He remained on the DW Collector\'s Series kit and Meinl Byzance Extra Dry cymbals signed in 2006 throughout this run.',
         albums: ['The Great Misdirect (2009)', 'The Parallax: Hypersleep Dialogues (2011)', 'The Parallax II: Future Sequence (2012)'],
         tours: ['The Great Misdirect Tour', 'The Parallax Tour', 'Progressive Nation at Sea'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Walnut/Birch (expanded)',
-            details: 'Walnut/birch: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Added 8" tom for higher tonal range in the increasingly complex Parallax arrangements.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: "DW Collector's Series",
+            details: 'All-maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Continued on the DW Collector\'s Series maple kit signed in 2006 — no brand change through the Great Misdirect and Parallax cycles.',
+            change: null,
           },
           snare: {
-            item: 'Tama Starclassic Maple 14"×6.5"',
-            details: 'Continued maple snare preference',
-            notes: 'Consistent snare across multiple album cycles.',
+            item: "DW Collector's Series 14\"×6.5\"",
+            details: 'Maple shell, versatile attack',
+            notes: 'Consistent maple snare across multiple album cycles.',
             change: null,
           },
           cymbals: {
-            item: 'Meinl Byzance Series',
-            details: '14" Byzance hi-hats, 16"/18"/19" crashes, 21" ride, 18" China',
-            notes: 'Switched from Sabian to Meinl Byzance — darker Turkish B20 alloy provided the complex, nuanced cymbal tone that suited the Parallax\'s prog arrangements.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Meinl Byzance Extra Dry',
+            details: '14" hi-hats, 16"/18" crashes, 21" ride',
+            notes: 'Continued on Meinl Byzance Extra Dry, signed in 2006 — the dark, hand-hammered voice carried through the Great Misdirect and Parallax eras.',
+            change: null,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 Double Pedal',
-            details: 'Continued Iron Cobra partnership',
-            notes: 'Reliable double pedal maintained across the Parallax touring cycle.',
+            item: 'DW 9002 Double Pedal',
+            details: 'Chain-drive double pedal',
+            notes: 'DW 9002 continued as the reliable touring pedal through the Parallax touring cycle.',
             change: null,
           },
           sticks: {
@@ -6656,14 +6656,13 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Switched to Meinl Byzance cymbals',
-          'Added 8" tom for expanded tonal range',
           'The Great Misdirect (2009) — ambitious concept album raises critical profile further',
           'Parallax II: Future Sequence (2012) — band\'s most technically demanding release',
+          'Continued on DW/Meinl setup signed in 2006 through the Great Misdirect and Parallax eras',
         ],
 
         quote: {
-          text: "The Byzance cymbals opened up something in my playing. They respond differently — you have to listen more. And that listening made me a better drummer.",
+          text: "The Byzance cymbals respond differently — you have to listen more. And that listening made me a better drummer.",
           source: 'Drum! Magazine, 2012',
         },
 

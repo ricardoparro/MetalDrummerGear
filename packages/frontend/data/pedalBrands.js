@@ -142,9 +142,9 @@ export const PEDAL_BRANDS = [
     founded: '1909, Chicago, Illinois, USA',
     parent: 'Conn-Selmer',
     positioning:
-      "Ludwig is the oldest American drum company, founded in 1909 on a first product that was itself a practical bass drum pedal. Its modern Atlas Pro double pedal is verified on the roster through Bill Ward's Black Sabbath-era setup.",
+      "Ludwig is the oldest American drum company, founded in 1909 on a first product that was itself a practical bass drum pedal. Its vintage Speed King single pedal is verified on the roster through Bill Ward's Black Sabbath-era setup; no drummer on the verified roster is currently documented on the modern Atlas Pro double pedal.",
     notableLines: [
-      { name: 'Atlas Pro', description: "Ludwig's current double bass drum pedal, verified on the roster through Bill Ward (Black Sabbath)." },
+      { name: 'Speed King', description: "Ludwig's vintage single bass drum pedal, verified on the roster through Bill Ward (Black Sabbath) since 1970." },
     ],
     source: { label: 'Ludwig Drums — About', url: 'https://www.ludwig-drums.com/en-us/ludwig/about' },
   },

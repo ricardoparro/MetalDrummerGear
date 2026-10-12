@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-12 08:37 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-12 12:25 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,45 +8,46 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 387 |
-| Sessions | 439 |
-| Page views | 614 |
-| Engagement rate | 57.63% |
-| Avg session (s) | 103 |
+| Active users | 402 |
+| Sessions | 455 |
+| Page views | 633 |
+| Engagement rate | 55.82% |
+| Avg session (s) | 101 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /bpm | 27 | 1 |
-| /drummers | 17 | 6 |
-| / | 16 | 13 |
-| /drummer/joey-jordison | 15 | 8 |
+| /drummers | 19 | 7 |
+| / | 18 | 15 |
+| /drummer/joey-jordison | 16 | 9 |
 | /drummer/mario-duplantier | 14 | 9 |
 | /drummer/bill-ward | 12 | 9 |
 | /drummers/mike-portnoy/evolution | 12 | 5 |
 | /studies/metal-tempo-by-subgenre | 11 | 7 |
 | /articles/whats-in-lars-ulrichs-kit | 10 | 10 |
-| /articles/slipknot-self-titled-drum-setup | 9 | 7 |
+| /articles/black-sabbath-drum-setup | 9 | 9 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 319 | 271 |
-| Direct | 113 | 111 |
-| Unassigned | 14 | 12 |
+| Organic Search | 329 | 280 |
+| Direct | 115 | 113 |
+| Unassigned | 25 | 23 |
+| Cross-network | 2 | 2 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 155 | 130 |
-| Singapore | 39 | 39 |
+| United States | 158 | 132 |
+| Singapore | 41 | 41 |
 | China | 32 | 32 |
 | United Kingdom | 28 | 24 |
-| Canada | 17 | 15 |
-| Germany | 14 | 13 |
+| Canada | 18 | 16 |
+| Germany | 16 | 15 |
 | France | 13 | 12 |
-| Australia | 11 | 9 |
-| Sweden | 11 | 8 |
+| Australia | 12 | 10 |
+| Sweden | 12 | 9 |
 | Italy | 9 | 8 |
 
 ## Search Console — Search performance

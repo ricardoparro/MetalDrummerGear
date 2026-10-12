@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-12 00:37 UTC*
 
 ---
+## 2026-10-12 12:25 (deep run — L1/L2/L3 full close-the-loop + 5/5 proposals verified+promoted #8952-8956, L3 fix #8970 filed)
+
+### Context (≤3 lines)
+First-run-after-07:00 UTC deep run. Metrics 12:25 UTC (402u/455s/633v 7d; GSC 9,884 impr/187 clicks/1.89% CTR/pos 7.5). All 3 verifier snapshots refreshed today (GSC 08:36 UTC, LLM 08:09 UTC, indexation 09:49 UTC) — first simultaneous refresh since 09-28, triggering the full close-the-loop pass. At run start: eligible `ai-fix` backlog 0 (prior batch #8924-8934 fully drained/merged), 5 fresh untriaged `seo-proposal` (#8952-8956, filed 07:36-07:37 UTC), continuing the gear-fabrication sweep.
+
+### Actions taken
+- **Live-verified all 5 proposals via 5 parallel subagents** (read cited lines, cross-checked `endorsementNews.js`, dupe-searched via REST `search/issues` since GraphQL `gh issue list` is 504-timing-out today): #8952 (Danny Carey — `drummerEvolution.js` 2 remaining Evans-heads era blocks, lines 3582-3587/3654-3659, verified Remo since 2000s; distinct from #8312/#8334's current-era-only fix) VERIFIED-CLEAN. #8953 (Mario Duplantier — `drummerComparisons.js` 10 lines fabricate Walnut/Birch shell, verified Bubinga) VERIFIED-WITH-NOTE (issue's reference-line citations off-by-one, added PR-guidance to verify by content not line number). #8954 (Eloy Casagrande — pedal model + snare depth fabricated across 10 lines, verified plain Iron Cobra/Bell Brass 14x5.5") VERIFIED-CLEAN. #8955 (Bill Ward — `drummerEvolution.js`+`extendedBios.js` "Ludwig Atlas Hardware" fabrication, verified unchanged Speed King-era hardware; confirmed zero file/line overlap with #8934's already-merged pedal-model fix) VERIFIED-CLEAN, added PR-guidance pinning the 3 exact locations. #8956 (Joey Jordison — `drummerComparisons.js` 2 lines fabricate Pearl Masters Premium Maple, verified Reference Series; confirmed distinct from #8109) VERIFIED-CLEAN. All 5 promoted to `ai-fix`.
+- **L1 close-the-loop** (dispatched investigation agent): of 6 big-losses, `mario duplantier drum kit` and `who is the best metal drummer of all time` already matched existing rulings (gear-qualified oscillator / exhausted-content-lever respectively). `frost drummer`/`death metal drummers` are new shapes but too low-volume to action. **`john otto signature snare`/`john otto`/`john otto snare` form a genuine fresh cluster (pos 3.3→6.6, impr 99→58, clicks 7→0)** — live-verified the page (title/meta/FAQ/schema all correct) and git-logged the only in-window change (purely additive, doesn't touch title/meta/snare fields) — no code cause found, no fact to add (Otto has no real "signature" snare model). Logged as a watch item, not filed as an issue (no lever to pull); will re-check 10-19 snapshot. All 11 CTR-gap rows matched already-ruled classes. Zero new L1 issues.
+- **L2 close-the-loop:** cited count **47→27/100 — a 4th straight weekly decline and the sharpest single-week drop yet (prior drops -5/-10/-12, this one -20)**, now only 2 points above the 25-floor that re-arms the forced-pressure quota. Investigated for a code cause before accepting as noise (per the 10-05 "don't assume noise a 4th time" rule): #8624/#8632's history-file change (merged this week) only adds snapshotting, doesn't touch crawler/matching logic; no `api/meta/**` commits this week; live-curled a flipped-to-uncited entity (eloy-casagrande) with PerplexityBot UA — renders correctly; spot-checked 2 "no competitor citing either" opportunity rows (`what bpm is master of puppets`, `what is a gravity blast`) — both pages exist, return 200, answer correctly, still uncited. **No fixable pattern found — logged the investigation per the minimum-pressure rule's "silence is not acceptable" clause rather than filing a speculative issue.** Watch: 10-19 is the first refresh with real 2-week history to diff; if it drops below 25, the forced quota re-arms automatically.
+- **L3 close-the-loop:** the `duplicate→/lists/math-metal-drummers` stale-crawl cluster grew 5→36 URLs — confirmed via live curl (2 samples) this is the rotating-sample cursor surfacing more of the already-ruled stale-crawl artifact (last-crawl dates unchanged, 3+ months stale; live canonicals correct), not a new/worsening bug — 4th confirmation of this pattern, not re-investigating again. 4 crawled-not-indexed + 1 5xx all live-checked healthy (200s, substantial content) — recrawl-pending. Of 6 discovered-not-indexed, 5 already correctly hub/profile-linked; `joey-jordison-legacy` was hub-linked but missing from the drummer profile's relatedArticles (same shape as the shipped #8294 fix) — filed **#8970** (additive-only, freeze-compliant).
+- **GSC content-gap:** `joey jordison drum kit` (68 impr, 1.47% CTR) re-matched to the standing known-oscillator ruling. No new action.
+- **Founder ideas:** inbox empty, unchanged since 2026-06-19. **Human-founder blockers:** #5141/#5100/#4892/#875/#529/#526/#525 all checked via REST — zero `updated_at` change, no re-spam. #5141 (backlink outreach) remains the only lever for the data-studies epic (#4763, closed/shipped) — still founder-only, not re-escalated.
+- **Atomic-split sweep:** only >3-day-open `ai-fix` issues are the #4932/#5044-5048/#5094-5108 roster/band batch, all still correctly `hold`-labeled under the new-page freeze — not stagnant.
+- **Starvation check:** post-triage backlog 6, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — below the 15/2 trigger shape on backlog alone but bank was 5 (not ≤2) pre-triage, so the compound trigger didn't fire; not escalating.
+- **GitHub API note:** GraphQL (`gh issue list`) returned persistent 504s all run; REST (`gh api search/issues`) worked reliably throughout — used REST for all issue queries this run.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 6 (#8952-8956 promoted, #8970 filed)
+- seo-proposal bank (excl. held #7981, umbrellas): 5 fresh → 0 untriaged
+- L2 cited count: 47 → 27/100 (4th consecutive weekly decline, accelerating — watch item, no fix found)
+- L1: new watch item opened (John Otto cluster), no ai-fix filed
+
+### Quota check
+✅ SEO proposals: 5/5 triaged, live-verified, all promoted (2 with PR-guidance notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: matched standing ruling. ✅ L1/L2/L3: full close-the-loop done, 1 new ai-fix filed (#8970), 1 new watch item logged (John Otto), L2 investigated with no actionable fix found. ✅ Starvation: trigger shape not met. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8952-8956/#8970 pick up via Roadie.
+2. **Watch the 10-19 L2 refresh closely** — first real history-file diff available; if cited count drops below 25/100, the forced ≥2-pattern-issues/week quota re-arms automatically.
+3. Re-check the John Otto cluster (signature snare/bare-name/snare) at the 10-19 L1 snapshot — recovery = volatility, persistence = escalate to deeper investigation.
+4. #7981 (Derek Roddy snare) still held — no new external source found yet.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-12 00:37 (evening-review catch-up — 8/8 proposals verified+promoted #8924-8932, follow-up #8934 filed)
 
 ### Context (≤3 lines)

@@ -18,20 +18,20 @@ Vocalist Phil Anselmo, deep in his New Orleans orbit and battling addiction, rec
 
 At the center of that fracture was Vinnie Paul Abbott, who delivered one of his most emotionally varied performances. "Suicide Note Pt. II" is arguably the heaviest, ugliest track of his entire recorded career — a blast of pure violence anchored by relentless double kick. On the other end of the spectrum, "Floods" features some of his most patient, emotive playing: tom rolls that breathe, cymbal washes that swell, and a closing fill sequence that ranks among the most iconic in metal drumming.
 
-The kit had evolved again. Vinnie was now firmly in his Pearl Masters Custom era, with Sabian HH cymbals — the endorsement that would carry him through the rest of his career — Pearl Eliminator pedals, and Vic Firth signature sticks. This article breaks down every piece of gear, the unusual recording approach, and the production techniques behind Pantera's most divisive, most ambitious, and most emotionally complete record.
+The kit had evolved again. Vinnie was now firmly in his Pearl Masters Custom era, with Sabian HH cymbals — the endorsement that would carry him through the rest of his career — and Vic Firth signature sticks (the pedal brand for this era isn't documented in verified sources). This article breaks down every piece of gear, the unusual recording approach, and the production techniques behind Pantera's most divisive, most ambitious, and most emotionally complete record.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Masters Custom (Black finish)
 - **Snare:** Pearl Pearl Free-Floating Brass Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HH (Hand Hammered)
-- **Hardware / Pedals:** Pearl Eliminator Double Pedal; Pearl 2000-Series Stands; Roc-N-Soc Nitro Throne; Vic Firth American Classic 5B (played backwards)
+- **Hardware / Pedals:** Double pedal (brand not documented for this era); Pearl 2000-Series Stands; Roc-N-Soc Nitro Throne; Vic Firth American Classic 5B (played backwards)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium tension for crack and body; tight snare wire response for studio precision
 
 ### The Pearl Masters Custom: Vinnie's Mid-90s Maple Era
 
-For "The Great Southern Trendkill," Vinnie Paul moved to a Pearl Masters Custom kit — his primary studio setup through the mid-90s before he eventually transitioned to Pearl Reference. The Masters Custom's all-maple shells gave Vinnie a warmer, more woody fundamental than the Remo shells he'd used on "Far Beyond Driven," but with no loss in attack or punch.
+For "The Great Southern Trendkill," Vinnie Paul moved to a Pearl Masters Custom kit — his primary studio setup through the mid-90s before he eventually transitioned to Pearl Reference. The Masters Custom's all-maple shells gave Vinnie a warmer, more woody fundamental than the Tama shells he'd used on "Far Beyond Driven," but with no loss in attack or punch.
 
 The dual 22" x 18" bass drums remained the cornerstone of his sound. A step down from the cavernous 24" kicks of "Far Beyond Driven," the 22s were tighter, faster, and more articulate — a decision that fit the album's more savage, percussive material. On tracks like "Suicide Note Pt. II" and the title track, the double kick had to remain intelligible at extreme tempos, and the 22s delivered that clarity without giving up low end.
 
@@ -63,7 +63,7 @@ The Sabian HH setup would carry Vinnie through "Reinventing the Steel" and into 
 
 "The Great Southern Trendkill" is the record where Vinnie Paul stretched the furthest emotionally. "Far Beyond Driven" had the commercial peak. "Vulgar Display of Power" had the genre-defining grooves. But "Trendkill" had the full range — from the punishing extremity of "Suicide Note Pt. II" to the patient, devastating beauty of "Floods."
 
-The Pearl Masters Custom kit, Sabian HH cymbals, Pearl Eliminator pedals, and Vic Firth signature sticks gave Vinnie the tools to deliver that range. But what makes the record extraordinary is how Vinnie used those tools under conditions that should have produced a worse album. The band was fractured. Vocals were tracked a thousand miles away. The studio was a smaller, less familiar room. And the music came out tighter, heavier, and more emotional than any Pantera record before or since.
+The Pearl Masters Custom kit, Sabian HH cymbals, and Vic Firth signature sticks gave Vinnie the tools to deliver that range. But what makes the record extraordinary is how Vinnie used those tools under conditions that should have produced a worse album. The band was fractured. Vocals were tracked a thousand miles away. The studio was a smaller, less familiar room. And the music came out tighter, heavier, and more emotional than any Pantera record before or since.
 
 "Floods" remains the proof. The closing tom fill — a descending melodic sequence that has been transcribed and re-transcribed by drummers for thirty years — is what Vinnie Paul leaves behind on this record. It is restraint, taste, melody, and power in one passage, played on a Pearl Masters Custom kit at Dimebag's home studio while a band was quietly falling apart around him.
 
@@ -76,9 +76,9 @@ For the complete Pantera arc, see the [Cowboys from Hell drum setup](/articles/c
 - Debuted at #4 on the Billboard 200 in May 1996 — not #1, despite a persistent online myth
 - Tracked at Chasin' Jason Studios (Dimebag's home studio) and Dallas Sound Lab
 - Phil Anselmo recorded vocals separately in New Orleans due to band tension
-- Pearl Masters Custom kit replaced the Remo setup of Far Beyond Driven
+- Pearl Masters Custom kit replaced the Tama setup of Far Beyond Driven
 - "Floods" outro fill is one of the most iconic tom sequences in metal drumming
-- Pearl Masters Custom replaced the Remo setup of Far Beyond Driven
+- Pearl Masters Custom replaced the Tama setup of Far Beyond Driven
 - Smaller 22" x 18" kicks delivered tighter articulation for the album's extreme tempos
 - All-maple shells warmed the fundamental tone without softening the attack
 - Tracked at the smaller, drier Chasin' Jason room rather than Pantego Sound
@@ -89,7 +89,7 @@ For the complete Pantera arc, see the [Cowboys from Hell drum setup](/articles/c
 
 **Q: What drums did Vinnie Paul use on The Great Southern Trendkill?**
 
-A: Vinnie Paul recorded The Great Southern Trendkill in 1996 on a Pearl Masters Custom kit in black finish. The configuration included dual 22 inch by 18 inch bass drums, rack toms at 10, 12, and 13 inches, and floor toms at 16 and 18 inches. The maple shells produced a warmer, woodier tone than the Remo shells he had used on Far Beyond Driven, while the smaller 22 inch kicks delivered tighter, faster articulation that fit the album's more savage material. All drums were triggered for attack consistency, blending acoustic shell character with electronic reinforcement.
+A: Vinnie Paul recorded The Great Southern Trendkill in 1996 on a Pearl Masters Custom kit in black finish. The configuration included dual 22 inch by 18 inch bass drums, rack toms at 10, 12, and 13 inches, and floor toms at 16 and 18 inches. The maple shells produced a warmer, woodier tone than the Tama shells he had used on Far Beyond Driven, while the smaller 22 inch kicks delivered tighter, faster articulation that fit the album's more savage material. All drums were triggered for attack consistency, blending acoustic shell character with electronic reinforcement.
 
 **Q: What snare did Vinnie Paul use on The Great Southern Trendkill?**
 
@@ -124,4 +124,4 @@ A: No — The Great Southern Trendkill debuted at #4 on the Billboard 200 in May
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

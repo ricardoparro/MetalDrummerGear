@@ -1777,7 +1777,7 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
 **Current Setup:**
 - **Drums**: ddrum Dios Series (custom finishes)
 - **Snare**: ddrum Dios 14"x6.5" Maple
-- **Cymbals**: Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
+- **Cymbals**: Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
 - **Hardware**: DW 9000 Series double pedal
 - **Throne**: Pork Pie Big Boy
 - **Sticks**: Vic Firth American Classic 5B
@@ -1807,8 +1807,8 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
         title: 'Frequently Asked Questions',
         items: [
           { q: 'What drum kit does Shannon Larkin use?', a: 'Shannon Larkin plays a ddrum Dios Series drum kit — a setup built for the raw power and groove-centric approach he brought to Godsmack across two decades of multi-platinum hard rock. It\'s anchored by a ddrum Dios 14"x6.5" Maple snare delivering a warm yet cutting crack.' },
-          { q: 'What drum set does Shannon Larkin use?', a: 'Shannon Larkin\'s drum set pairs his ddrum Dios Series shells and maple snare with Sabian AAX and HHX Series cymbals and a DW 9000 Series double pedal, the configuration anchoring Godsmack albums like Faceless, IV, and When Legends Rise.' },
-          { q: 'What cymbals does Shannon Larkin play?', a: 'Shannon Larkin plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal.' },
+          { q: 'What drum set does Shannon Larkin use?', a: 'Shannon Larkin\'s drum set pairs his ddrum Dios Series shells and maple snare with Sabian AAX Series cymbals and a DW 9000 Series double pedal, the configuration anchoring Godsmack albums like Faceless, IV, and When Legends Rise.' },
+          { q: 'What cymbals does Shannon Larkin play?', a: 'Shannon Larkin plays Sabian AAX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" AAX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal.' },
           { q: 'What hi-hats does Shannon Larkin use?', a: 'Shannon Larkin plays 14" Sabian AAX Stage Hi-Hats, chosen for a bright, cutting chick sound that drives Godsmack\'s groove-oriented hard rock arrangements.' },
           { q: 'What snare does Shannon Larkin use?', a: 'Shannon Larkin\'s snare is a ddrum Dios 14"x6.5" Maple, delivering the warm yet cutting crack that anchors Godsmack\'s groove-driven rhythms.' },
           { q: 'What sticks does Shannon Larkin use?', a: 'Shannon Larkin uses Vic Firth American Classic 5B drumsticks.' },

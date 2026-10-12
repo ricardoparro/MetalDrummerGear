@@ -15487,7 +15487,7 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
     genre: 'Nu-Metal / Alternative Metal',
     priority: 60,
     title: "How to Sound Like Ray Luzier: Complete Gear & Technique Guide",
-    description: "Master Ray Luzier's groove-locked nu-metal power. Learn the Korn drummer's pocket-driven double bass, session-player precision, Pearl Masters Maple kit, and Sabian AAX cymbal setup behind Korn III through Requiem.",
+    description: "Master Ray Luzier's groove-locked nu-metal power. Learn the Korn drummer's pocket-driven double bass, session-player precision, Pearl Reference Maple kit, and Sabian AAX cymbal setup behind Korn III through Requiem.",
     seoKeywords: ['ray luzier drumming', 'how to sound like ray luzier', 'korn drums', 'ray luzier gear', 'ray luzier technique', 'ray luzier drum kit', 'korn drummer'],
     ogImage: '/images/guides/ray-luzier-guide.webp',
     datePublished: '2026-07-02',
@@ -15555,7 +15555,7 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
       title: "Luzier's Pearl & Sabian Gear Setup",
       drumKit: {
         brand: 'Pearl',
-        model: 'Pearl Masters Maple Complete',
+        model: 'Pearl Reference Maple',
         shells: 'All-Maple',
         finish: 'Various custom finishes for Korn touring configurations',
         config: {
@@ -15564,7 +15564,7 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Pearl's all-maple Masters Maple Complete shells deliver the focused attack and clear tone needed to cut through Korn's dense, down-tuned seven-string guitar walls and Fieldy's deep bass, while the five-tom spread gives Luzier room for the musical, flowing fills that define his style.",
+        description: "Pearl's Reference Maple shells deliver the focused attack and clear tone needed to cut through Korn's dense, down-tuned seven-string guitar walls and Fieldy's deep bass, while the five-tom spread gives Luzier room for the musical, flowing fills that define his style.",
         affiliateNote: "Pearl Export or Pearl Decade Maple offer a similar focused, maple-forward attack at a lower price point."
       },
       snare: {
@@ -15676,7 +15676,7 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
         cymbals: "Sabian B8X Pack ($200)",
         pedals: "Pearl P-2000C Eliminator chain-drive double pedal ($130)",
         sticks: "Promark American Classic 5B ($10)",
-        notes: "Pearl's Export shells share the same maple-forward construction philosophy as Luzier's Masters kit."
+        notes: "Pearl's Export shells share the same maple-forward construction philosophy as Luzier's Reference kit."
       },
       mid: {
         price: "$3,200",
@@ -15690,7 +15690,7 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "Pearl Masters Maple Complete ($3,000+)",
+        kit: "Pearl Reference Maple ($3,000+)",
         cymbals: "Full Sabian AAX selection ($2,000+)",
         pedals: "DW 9000 Series Double Pedal ($350)",
         heads: "Full Evans/Remo setup ($150)",
@@ -15704,7 +15704,7 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
       },
       {
         question: "What drum kit does Ray Luzier play?",
-        answer: "Ray Luzier plays a Pearl Masters Maple Complete kit with double 22\" x 18\" bass drums, a five-tom spread (10\", 12\", 13\" racks and 16\", 18\" floor toms), and a Pearl Reference 14\" x 6.5\" brass snare. His cymbals are Sabian AAX — 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" AAXtreme China."
+        answer: "Ray Luzier plays a Pearl Reference Maple kit with double 22\" x 18\" bass drums, a five-tom spread (10\", 12\", 13\" racks and 16\", 18\" floor toms), and a Pearl Reference 14\" x 6.5\" brass snare. His cymbals are Sabian AAX — 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" AAXtreme China."
       },
       {
         question: "What pedal and sticks does Ray Luzier use?",

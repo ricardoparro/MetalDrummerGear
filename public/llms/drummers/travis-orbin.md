@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/travis-orbin"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-12"
 ---
 
 # Travis Orbin — Drum Kit & Gear Setup
@@ -29,13 +29,13 @@ Travis Orbin's drum kit and gear setup. Travis Orbin is a professional metal dru
 
 ## Kit Overview
 
-Travis Orbin's drum kit is built around SJC Custom Drums, the setup behind his genre-defining work on Periphery's self-titled debut (2010) and the complex, trigger-augmented polyrhythmic playing he's since carried into Darkest Hour and his solo session work. The centerpiece of the Travis Orbin drum kit is an SJC Custom 14x6.5" Maple snare, delivering the crisp, controlled crack his precise, linear patterns require. A DW 9000 Series Double Pedal handles his fast, articulate double bass work, while a Roland SPD-SX Sampling Pad integrates electronic triggers into his acoustic setup, and a DW 9100 Throne rounds out the hardware.
+Travis Orbin's drum kit is built around SJC Custom Drums, the setup behind the complex, trigger-augmented polyrhythmic playing he's carried through Darkest Hour, Sky Harbor, and his solo playthrough and session work. The centerpiece of the Travis Orbin drum kit is an SJC Custom 14x6.5" Maple snare, delivering the crisp, controlled crack his precise, linear patterns require. A DW 9000 Series Double Pedal handles his fast, articulate double bass work, while a Roland SPD-SX Sampling Pad integrates electronic triggers into his acoustic setup, and a DW 9100 Throne rounds out the hardware.
 
 Zildjian K Custom Series cymbals shape the Travis Orbin drum set's tone: 14" K Custom Dark Hi-Hats for a controlled, nuanced chick, 18" and 19" K Custom Dark Crashes for dark, complex accents, a 21" K Custom Ride for defined rhythmic clarity, and an 18" K Custom China for sharp punctuation on his most technical passages. Vic Firth American Classic 5B sticks and Evans drumheads complete the rig. This configuration is verified via SJC Drums' and Zildjian's official artist rosters.
 
 ## Biography
 
-Travis Orbin (born August 26, 1985) is an American drummer known for his work with Darkest Hour and as the original studio drummer for Periphery. A self-taught drummer from New York, Orbin rose to prominence recording Periphery's groundbreaking self-titled debut album (2010), which helped define the djent movement. His complex polyrhythmic patterns, precise double bass work, and creative use of electronic triggers set a new standard for modern metal drumming. After leaving Periphery, he joined thrash metal band Darkest Hour in 2013. Orbin is also a prolific session musician and runs the "Travis Orbin Drum" YouTube channel where he posts playthroughs of his studio work. His influences include Gene Hoglan, Tomas Haake, and Matt Garstka.
+Travis Orbin, born July 5, 1985, in Baltimore, Maryland, is an American drummer known for his technical, polyrhythmic playing. He was Periphery's drummer from around 2006 to February 2009, during the band's early, pre-recording years, and left before the group wrote or recorded its self-titled debut album (2010) — he does not perform on any Periphery release; Matt Halpern has recorded every one since. Orbin has since built his reputation through session work, stints with Sky Harbor and Darkest Hour, and widely viewed "Travis Orbin Drum" YouTube playthroughs. His influences include Gene Hoglan, Tomas Haake, and Matt Garstka.
 
 Travis Orbin (born July 5, 1985, in Baltimore, Maryland) is an American drummer who played in progressive metal band Periphery from around 2006 to February 2009, during the band's early, pre-recording years. He left before Periphery wrote or recorded its self-titled debut album, released in 2010 with new drummer Matt Halpern, and does not perform on any Periphery release.
 
@@ -227,4 +227,4 @@ Dated brand-endorsement timeline: [Travis Orbin's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

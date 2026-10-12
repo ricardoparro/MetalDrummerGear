@@ -48,7 +48,7 @@
  *
  * Parsing is conservative: an unparseable brand or model is left null rather
  * than guessed. `configuration` is read strictly from the "Double"/"Single"
- * wording in the summary — plural "Pedals" alone (e.g. Gibraltar G Class,
+ * wording in the summary — plural "Pedals" alone (e.g. Gibraltar Professional Series,
  * Sonor Perfect Balance) is not treated as evidence of a double setup and is
  * marked 'unknown'.
  */
@@ -132,11 +132,11 @@ export const PEDALS = [
     retailerUrls: {},
   },
   {
-    id: 'gibraltar-g-class-john-otto',
+    id: 'gibraltar-professional-series-john-otto',
     drummerSlug: 'john-otto',
-    summary: 'Gibraltar G Class Bass Drum Pedals',
+    summary: 'Gibraltar Professional Series Bass Drum Pedals',
     brand: 'Gibraltar',
-    model: 'G Class',
+    model: 'Professional Series',
     configuration: 'unknown',
     driveType: null,
     source: 'roster gear.hardware (verified: true; sources on the drummer record)',

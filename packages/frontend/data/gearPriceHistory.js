@@ -3495,9 +3495,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: 'Standard single-pedal setup of the era — Ward\'s heaviness came from feel and dynamics, not double-bass technique.',
         vintageValue2026: 250,
         modernEquivalent: {
-          item: 'Ludwig Atlas Pro Double Pedal',
-          price: 320,
-          link: 'ludwig-atlas-pro-pedal',
+          item: 'Ludwig Speed King Pedal',
+          price: 199,
+          link: 'ludwig-speed-king-pedal',
         },
       },
       sticks: {

@@ -1751,7 +1751,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Bill Ward",
           "slug": "bill-ward",
           "band": "Black Sabbath",
-          "configString": "Ludwig Atlas Pro Double Pedal"
+          "configString": "Ludwig Speed King Pedal"
         },
         {
           "id": 67,
@@ -1847,7 +1847,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "John Otto",
           "slug": "john-otto",
           "band": "Limp Bizkit",
-          "configString": "Gibraltar G Class Bass Drum Pedals"
+          "configString": "Gibraltar Professional Series Bass Drum Pedals"
         }
       ]
     },

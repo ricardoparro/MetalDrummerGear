@@ -5196,15 +5196,15 @@ Otto studied jazz drumming at the Douglas Anderson School of the Arts and played
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does John Otto use?', a: 'John Otto\'s drum kit is an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit — the transparent acrylic shells that defined his visual and sonic identity throughout Limp Bizkit\'s nu-metal peak. It centers on two signature OCDP snares (a 14"x6.5" 40-ply vented shell and a 10"x6" 20-ply piccolo), driven by Gibraltar G Class bass drum pedals and topped with Zildjian A Custom cymbals.' },
-          { q: 'What drum set does John Otto use?', a: 'John Otto\'s drum set is an OCDP Custom Type 5 Acrylic configuration built around a 14"x6.5" 40-ply vented snare for primary work and a 10"x6" 20-ply piccolo snare for accents. The drum set carries Zildjian cymbals, a single Gibraltar G Class bass drum pedal, and Remo Emperor Coated heads throughout.' },
+          { q: 'What drum kit does John Otto use?', a: 'John Otto\'s drum kit is an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit — the transparent acrylic shells that defined his visual and sonic identity throughout Limp Bizkit\'s nu-metal peak. It centers on two signature OCDP snares (a 14"x6.5" 40-ply vented shell and a 10"x6" 20-ply piccolo), driven by Gibraltar Professional Series bass drum pedals and topped with Zildjian A Custom cymbals.' },
+          { q: 'What drum set does John Otto use?', a: 'John Otto\'s drum set is an OCDP Custom Type 5 Acrylic configuration built around a 14"x6.5" 40-ply vented snare for primary work and a 10"x6" 20-ply piccolo snare for accents. The drum set carries Zildjian cymbals, a single Gibraltar Professional Series bass drum pedal, and Remo Emperor Coated heads throughout.' },
           { q: 'What cymbals does John Otto use?', a: 'John Otto uses Zildjian cymbals: 13" A Custom Mastersound Hi-Hats for tight groove patterns, 16" and 17" A Custom Projection Crashes for accent work, a 20" A Custom EFX for trashy edge, and a 20" FX Oriental Crash of Doom for explosive decay.' },
           { q: 'What snare drum does John Otto play?', a: 'John Otto\'s primary snare is an OCDP 14"x6.5" 40-ply vented shell, paired with a smaller OCDP 10"x6" 20-ply piccolo snare he brings in for accent work.' },
-          { q: 'What bass drum pedals does John Otto use?', a: 'John Otto uses Gibraltar G Class bass drum pedals in a single-pedal configuration, mounted on Gibraltar custom hardware racks, underpinning the straight-ahead funk and rock grooves on tracks like "Rollin\'" and "Break Stuff."' },
+          { q: 'What bass drum pedals does John Otto use?', a: 'John Otto uses Gibraltar Professional Series bass drum pedals in a single-pedal configuration, mounted on Gibraltar custom hardware racks, underpinning the straight-ahead funk and rock grooves on tracks like "Rollin\'" and "Break Stuff."' },
           { q: 'What band is John Otto in?', a: 'John Otto is the drummer and a founding member of Limp Bizkit, which he co-founded with Fred Durst and Sam Rivers in Jacksonville, Florida in 1994.' },
           { q: 'What drumsticks does John Otto use?', a: 'John Otto uses Zildjian Artist Series drumsticks.' },
           { q: 'What drumheads does John Otto use?', a: 'John Otto uses Remo Emperor Coated drumheads across his OCDP acrylic kit.' },
-          { q: 'What hardware does John Otto use?', a: 'John Otto uses Gibraltar hardware — including his custom racks and G Class bass drum pedal — to support his transparent OCDP acrylic drum kit and drum set on stage.' }
+          { q: 'What hardware does John Otto use?', a: 'John Otto uses Gibraltar hardware — including his custom racks and Professional Series bass drum pedal — to support his transparent OCDP acrylic drum kit and drum set on stage.' }
         ]
       },
       sources: {

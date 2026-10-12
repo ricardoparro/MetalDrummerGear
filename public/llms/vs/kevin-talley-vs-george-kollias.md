@@ -56,7 +56,7 @@ A: Kevin Talley's signature is relentless, high-velocity single-stroke blast bea
 A: Kevin Talley has played with Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. George Kollias has been Nile's drummer since 2004 and previously played in Nightfall.
 
 **Q: What gear do Kevin Talley and George Kollias use?**
-A: Kevin Talley plays a Pearl Masters Custom / Reference Series kit with a 14x5.5" Pearl Masters maple snare and Sabian AAX Series cymbals, driven by a Pearl Eliminator double pedal. George Kollias plays a Pearl Masterworks Stadium Exotic kit with his own 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals, driven by a co-designed Pearl Demon XR double pedal.
+A: Kevin Talley plays a Pearl Masters Custom / Reference Series kit with a 14x6.5" Pearl Masters steel snare and Sabian AAX Series cymbals, driven by a Pearl Eliminator double pedal. George Kollias plays a Pearl Masterworks Stadium Exotic kit with his own 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals, driven by a co-designed Pearl Demon XR double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Kevin Talley plays a Pearl Masters Custom / Reference Series kit with a 14x5.
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

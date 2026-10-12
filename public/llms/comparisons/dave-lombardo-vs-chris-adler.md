@@ -19,7 +19,7 @@ A: Dave Lombardo's style is rooted in raw, human intensity — his single-stroke
 A: Dave Lombardo plays a Tama Starclassic Maple drum kit with a Tama S.L.P. 14x6.5" G-Maple snare — the setup behind the punchy, projecting attack heard on "Reign in Blood" and Slayer's other classic-era recordings.
 
 **Q: What drums does Chris Adler play?**
-A: Chris Adler plays a Mapex Black Panther Design Lab drum kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare — a dry, focused, precision-engineered setup built for Lamb of God's syncopated riff-locking grooves.
+A: Chris Adler plays a Mapex Saturn in Satin Black Maple Burl drum kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare — a dry, focused, precision-engineered setup built for Lamb of God's syncopated riff-locking grooves.
 
 **Q: What cymbals do Dave Lombardo and Chris Adler use?**
 A: Dave Lombardo uses Paiste RUDE & 2002 Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China) for aggressive, explosive attack. Chris Adler uses Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China) for a darker, more controlled tone.

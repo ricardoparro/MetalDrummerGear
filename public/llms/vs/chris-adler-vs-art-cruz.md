@@ -34,7 +34,7 @@ Adler's signature is his ride-bell-anchored groove — riding the bell with his 
 
 ## Key Differences
 
-Chris Adler played a Mapex Black Panther Design Lab kit with his Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals, including the Extra Dry China that became a Lamb of God sonic signature, driven by a Trick Pro V double pedal. Art Cruz plays Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and Zildjian A Custom & K Series cymbals, driven by a Trick Pro 1-V Bigfoot double pedal for fast, ergonomic footwork. Adler's signature is his ride-bell-anchored groove — riding the bell with his right hand instead of the hi-hat while his left foot works independently for dynamic accents, all locked to syncopated double-bass patterns that gave Lamb of God its mechanical, riff-tight momentum. Cruz brings a blast-beat foundation and raw physical attack from his deathcore roots, executing Adler's notoriously complex back catalog live while adding heavier, more overt power to Lamb of God's newer, dynamically broader material.
+Chris Adler played a Mapex Saturn in Satin Black Maple Burl kit with his Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals, including the Extra Dry China that became a Lamb of God sonic signature, driven by a Trick Pro V double pedal. Art Cruz plays Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and Zildjian A Custom & K Series cymbals, driven by a Trick Pro 1-V Bigfoot double pedal for fast, ergonomic footwork. Adler's signature is his ride-bell-anchored groove — riding the bell with his right hand instead of the hi-hat while his left foot works independently for dynamic accents, all locked to syncopated double-bass patterns that gave Lamb of God its mechanical, riff-tight momentum. Cruz brings a blast-beat foundation and raw physical attack from his deathcore roots, executing Adler's notoriously complex back catalog live while adding heavier, more overt power to Lamb of God's newer, dynamically broader material.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Chris Adler's signature is riding the cymbal bell with his right hand instead
 A: Chris Adler stepped away from Lamb of God in 2019 after 25 years, following a period in which arm injury and other factors limited his availability. Art Cruz had already been filling in on tour since 2018 and was named the band's permanent drummer in 2019, debuting on the self-titled "Lamb of God" (2020).
 
 **Q: What gear do Chris Adler and Art Cruz use?**
-A: Chris Adler played a Mapex Black Panther Design Lab kit with a Mapex Chris Adler Signature 14x5.5" snare and Meinl Byzance cymbals. Art Cruz plays Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and Zildjian A Custom & K Series cymbals, driven by a Trick Pro 1-V Bigfoot double pedal.
+A: Chris Adler played a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature 14x5.5" snare and Meinl Byzance cymbals. Art Cruz plays Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and Zildjian A Custom & K Series cymbals, driven by a Trick Pro 1-V Bigfoot double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Chris Adler played a Mapex Black Panther Design Lab kit with a Mapex Chris Ad
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

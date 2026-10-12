@@ -34,7 +34,7 @@ Adler is renowned for his sixteenth-note double bass precision, explosive fills,
 
 ## Key Differences
 
-Chris Adler played a Mapex Black Panther Design Lab kit throughout his Lamb of God career, endorsing Meinl Byzance cymbals for their dark, complex tonal character — a setup built for heavy attack and long sustain in the groove metal context. Ray Luzier plays Pearl Reference Series drums with Sabian cymbals, favoring a powerful, projection-forward setup that serves KoRn's arena-scale heavy rock with the punch and clarity needed in large venues. Adler is renowned for his sixteenth-note double bass precision, explosive fills, and the ability to lock into Lamb of God's down-tuned guitar grooves without losing momentum — his triplet-based patterns in songs like "Redneck" and "Walk With Me in Hell" are studied by drummers worldwide. Luzier's strength lies in feel and adaptability — his jazz education at Musicians Institute in Los Angeles gives him a vocabulary that goes beyond most nu-metal drummers, evident in his ability to serve KoRn's groove-heavy context while executing technically demanding passages at full intensity.
+Chris Adler played a Mapex Saturn in Satin Black Maple Burl kit throughout his Lamb of God career, endorsing Meinl Byzance cymbals for their dark, complex tonal character — a setup built for heavy attack and long sustain in the groove metal context. Ray Luzier plays Pearl Reference Series drums with Sabian cymbals, favoring a powerful, projection-forward setup that serves KoRn's arena-scale heavy rock with the punch and clarity needed in large venues. Adler is renowned for his sixteenth-note double bass precision, explosive fills, and the ability to lock into Lamb of God's down-tuned guitar grooves without losing momentum — his triplet-based patterns in songs like "Redneck" and "Walk With Me in Hell" are studied by drummers worldwide. Luzier's strength lies in feel and adaptability — his jazz education at Musicians Institute in Los Angeles gives him a vocabulary that goes beyond most nu-metal drummers, evident in his ability to serve KoRn's groove-heavy context while executing technically demanding passages at full intensity.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Chris Adler and Ray Luzier represent two distinct schools of American heavy meta
 A: Chris Adler (Lamb of God) plays in a heavier sonic context — groove metal with down-tuned guitars and aggressive double bass work. Ray Luzier (KoRn) operates in nu-metal which prioritizes groove and feel over sheer heaviness. Adler's drumming is more technically extreme; Luzier's is more dynamically nuanced.
 
 **Q: What drums does Chris Adler play vs Ray Luzier?**
-A: Chris Adler plays Mapex Black Panther Design Lab drums with Meinl Byzance cymbals. Ray Luzier plays Pearl Reference Series drums with Sabian cymbals.
+A: Chris Adler plays Mapex Saturn in Satin Black Maple Burl drums with Meinl Byzance cymbals. Ray Luzier plays Pearl Reference Series drums with Sabian cymbals.
 
 **Q: Did Chris Adler leave Lamb of God?**
 A: Yes — Chris Adler departed Lamb of God in 2019 after a period of reduced touring activity. Art Cruz joined as the band's full-time drummer. Adler's recorded legacy with Lamb of God (2000–2017) remains the benchmark for groove metal drumming.
@@ -67,4 +67,4 @@ A: Ray Luzier studied at the Musicians Institute (MI) in Los Angeles, California
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

@@ -34,7 +34,7 @@ Eloy combines death metal speed and double bass fluency with locked-in groove �
 
 ## Key Differences
 
-Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals, a Tama Bell Brass snare, and Tama Iron Cobra double pedals with Promark Eloy Casagrande Signature sticks. Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018) and a Tama Iron Cobra pedal; from 2007-2018 he played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals (he played Pearl Masters Custom drums during Sepultura's 1993-1996 Chaos A.D./Roots era). Eloy combines death metal speed and double bass fluency with locked-in groove — his ability to adapt across Sepultura's catalog and later Slipknot's percussive, multi-drummer setup demonstrates extraordinary musical versatility. Igor invented the tribal-metal fusion that defines Sepultura's classic era, incorporating Brazilian folk percussion, marching rhythms, and thrash aggression into a single unmistakable style.
+Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals, a Tama Bell Brass snare, and Tama Iron Cobra double pedals with Promark Eloy Casagrande Signature sticks. Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018) and a Tama Iron Cobra pedal; from 2006-2018 he played a ddrum Hybrid Kit with Zildjian A Custom Series cymbals (Cavalera Conspiracy era), and he played Pearl Masters Custom drums during Sepultura's 1993-1996 Chaos A.D./Roots era. Eloy combines death metal speed and double bass fluency with locked-in groove — his ability to adapt across Sepultura's catalog and later Slipknot's percussive, multi-drummer setup demonstrates extraordinary musical versatility. Igor invented the tribal-metal fusion that defines Sepultura's classic era, incorporating Brazilian folk percussion, marching rhythms, and thrash aggression into a single unmistakable style.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Igor Cavalera is the primal architect — his tribal-thrash drumming gave Sepult
 A: Igor Cavalera's 1990s Sepultura drumming was tribal and primal — fusing Brazilian folk percussion with thrash aggression on Chaos A.D. and Roots. Eloy Casagrande's modern Sepultura drumming is more technically precise and death metal-influenced. The groove DNA is shared, but Igor's sound is raw and earthy; Eloy's is clean and technically demanding.
 
 **Q: What gear does Eloy Casagrande use vs Igor Cavalera?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals, a Tama Bell Brass snare, and Tama Iron Cobra double pedals. Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018); from 2007-2018 he played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals and Tama Iron Cobra pedals, and during Sepultura's 1993-1996 Chaos A.D./Roots era he played Pearl Masters Custom drums.
+A: Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals, a Tama Bell Brass snare, and Tama Iron Cobra double pedals. Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018); from 2006-2018 he played a ddrum Hybrid Kit with Zildjian A Custom Series cymbals (Cavalera Conspiracy era) and Tama Iron Cobra pedals, and during Sepultura's 1993-1996 Chaos A.D./Roots era he played Pearl Masters Custom drums.
 
 **Q: Why did Eloy Casagrande join Slipknot?**
 A: Eloy Casagrande joined Slipknot in 2024 after departing Sepultura. His thrash metal roots, technical precision, and ability to handle a demanding percussive catalog made him the ideal candidate for one of metal's most scrutinized drum chairs.
@@ -67,4 +67,4 @@ A: Igor Cavalera co-created Sepultura's iconic sound — his tribal-thrash ident
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

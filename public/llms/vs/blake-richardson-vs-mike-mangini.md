@@ -34,7 +34,7 @@ Richardson's technique defies categorization, requiring him to shift fluidly bet
 
 ## Key Differences
 
-Blake Richardson plays a Tama Starclassic Bubinga kit (Custom Finish) with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride), driven by twin Tama Iron Cobra Power Glide single pedals and Vic Firth American Classic 3A sticks. Mike Mangini plays a Pearl Reference Series kit with a Pearl Reference 14x5" & 14x6.5" Brass snare and Sabian HHX & AAX Series cymbals (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride), powered by a Pearl Demon Drive double pedal and a Roland SPD-SX sampling pad — both drummers share a Sabian HHX Evolution cymbal foundation despite very different drum and pedal choices. Richardson's technique defies categorization, requiring him to shift fluidly between brutal extremity and jazz-informed odd-meter intricacy within a single song, prioritizing serving each composition over technical display for its own sake. Mangini holds multiple Guinness World Records for drumming speed and applies rigorous biomechanical analysis to his playing, favoring hybrid acoustic/electronic setups and exhaustive technical preparation across Dream Theater's complex polyrhythmic material.
+Blake Richardson plays a Tama Starclassic Bubinga kit (Custom Finish) with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride), driven by twin Tama Iron Cobra Power Glide single pedals and Vic Firth American Classic 3A sticks. Mike Mangini plays a Pearl Reference Series kit with a Pearl Reference 14x5" & 14x6.5" Brass snare and Sabian HHX & AAX Series cymbals (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride), powered by a Pearl Eliminator Redline double pedal and a Roland SPD-SX sampling pad — both drummers share a Sabian HHX Evolution cymbal foundation despite very different drum and pedal choices. Richardson's technique defies categorization, requiring him to shift fluidly between brutal extremity and jazz-informed odd-meter intricacy within a single song, prioritizing serving each composition over technical display for its own sake. Mangini holds multiple Guinness World Records for drumming speed and applies rigorous biomechanical analysis to his playing, favoring hybrid acoustic/electronic setups and exhaustive technical preparation across Dream Theater's complex polyrhythmic material.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Blake Richardson's most celebrated work is on Between the Buried and Me's "Co
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

@@ -34,7 +34,7 @@ Erlandsson brings a clean, high-precision approach to melodic death metal — hi
 
 ## Key Differences
 
-Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple kits with Sabian cymbals — a clean, articulate setup built for Arch Enemy's high-production recording and global touring demands. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals (14" Byzance Brilliant Hi-Hats, 18", 19", 20", 21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China), powered by a Tama Speed Cobra 910 double pedal and Promark Shira Kashi Oak 5B sticks. Erlandsson brings a clean, high-precision approach to melodic death metal — his blast beats are controlled and even, his double bass patterns are tight and consistent with Arch Enemy's production-forward sound, and his fills are designed to punctuate rather than overwhelm the band's anthemic, guitar-centric compositions. Verbeuren bridges melodic death metal technicality with thrash metal power: extreme double bass speed, technical fills, and seamless transitions between blast-beat intensity and groove-based riffing, a vocabulary built across 18 years with Soilwork and now applied to Megadeth's classic thrash framework.
+Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple kits with Sabian cymbals — a clean, articulate setup built for Arch Enemy's high-production recording and global touring demands. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals (14" Byzance Brilliant Hi-Hats, 18", 19", 20", 21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China), powered by a Tama Speed Cobra 910 double pedal and his own Tama O-DVM2 signature sticks. Erlandsson brings a clean, high-precision approach to melodic death metal — his blast beats are controlled and even, his double bass patterns are tight and consistent with Arch Enemy's production-forward sound, and his fills are designed to punctuate rather than overwhelm the band's anthemic, guitar-centric compositions. Verbeuren bridges melodic death metal technicality with thrash metal power: extreme double bass speed, technical fills, and seamless transitions between blast-beat intensity and groove-based riffing, a vocabulary built across 18 years with Soilwork and now applied to Megadeth's classic thrash framework.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Soilwork formed in Helsingborg, Sweden, and is closely associated with the br
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

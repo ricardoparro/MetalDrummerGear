@@ -67,4 +67,4 @@ A: No — Alex Bent departed Trivium in October 2025 after nine years and four s
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

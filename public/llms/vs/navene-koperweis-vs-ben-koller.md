@@ -67,4 +67,4 @@ A: Navene Koperweis uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

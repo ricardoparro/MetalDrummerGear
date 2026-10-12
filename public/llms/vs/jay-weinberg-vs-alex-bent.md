@@ -67,4 +67,4 @@ A: No — Jay Weinberg left Slipknot in November 2023 and later joined Suicidal 
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

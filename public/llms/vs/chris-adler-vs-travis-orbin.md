@@ -34,7 +34,7 @@ Adler's technique is built on obsessive precision — tight, syncopated triplet 
 
 ## Key Differences
 
-Chris Adler plays a Mapex Black Panther Design Lab kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Trick Pro V double pedal and Promark TX5AXW Chris Adler Signature sticks. Travis Orbin plays SJC Custom Drums with an SJC Custom 14x6.5" Maple snare and Zildjian K Custom Series cymbals (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China), paired with a DW 9000 Series double pedal, a Roland SPD-SX sampling pad for electronic triggers, and Vic Firth American Classic 5B sticks. Adler's technique is built on obsessive precision — tight, syncopated triplet grooves locked to the guitar riffs, explosive snare accents, and a double bass approach influenced as much by Latin and jazz rhythms as by metal. Orbin's technique is built for polymetric complexity at speed — precise double bass work combined with creative use of electronic triggers and odd-meter phrasing that demands navigating shifting time signatures without losing djent's hyper-precise pocket.
+Chris Adler plays a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Trick Pro V double pedal and Promark TX5AXW Chris Adler Signature sticks. Travis Orbin plays SJC Custom Drums with an SJC Custom 14x6.5" Maple snare and Zildjian K Custom Series cymbals (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China), paired with a DW 9000 Series double pedal, a Roland SPD-SX sampling pad for electronic triggers, and Vic Firth American Classic 5B sticks. Adler's technique is built on obsessive precision — tight, syncopated triplet grooves locked to the guitar riffs, explosive snare accents, and a double bass approach influenced as much by Latin and jazz rhythms as by metal. Orbin's technique is built for polymetric complexity at speed — precise double bass work combined with creative use of electronic triggers and odd-meter phrasing that demands navigating shifting time signatures without losing djent's hyper-precise pocket.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Chris Adler and Travis Orbin represent two different technical peaks of 2000s-20
 A: Chris Adler favors tight, syncopated triplet grooves locked to Lamb of God's guitar riffs, with a double bass approach influenced by Latin and jazz rhythms. Travis Orbin favors polymetric complexity at speed, combining precise double bass work with electronic triggers and odd-meter phrasing, documented extensively in his own solo and session playthroughs.
 
 **Q: What gear does Chris Adler use vs Travis Orbin?**
-A: Chris Adler plays a Mapex Black Panther Design Lab kit with a Mapex Chris Adler Signature snare and Meinl Byzance Series cymbals. Travis Orbin plays SJC Custom Drums with an SJC Custom Maple snare and Zildjian K Custom Series cymbals, plus a Roland SPD-SX sampling pad for electronic triggers.
+A: Chris Adler plays a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature snare and Meinl Byzance Series cymbals. Travis Orbin plays SJC Custom Drums with an SJC Custom Maple snare and Zildjian K Custom Series cymbals, plus a Roland SPD-SX sampling pad for electronic triggers.
 
 **Q: Was Travis Orbin the drummer on Periphery's debut album?**
 A: No. Travis Orbin played drums in Periphery from 2006 to 2009, before the band wrote or recorded its self-titled 2010 debut. Matt Halpern joined as his replacement in 2009 and recorded that album and every Periphery release since.
@@ -67,4 +67,4 @@ A: Chris Adler's most celebrated work is on Lamb of God's "Ashes of the Wake" (2
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

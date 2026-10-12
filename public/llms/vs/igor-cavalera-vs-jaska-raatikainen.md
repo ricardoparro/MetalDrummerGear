@@ -34,7 +34,7 @@ Igor Cavalera built his style around tribal-metal fusion — incorporating Brazi
 
 ## Key Differences
 
-Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals, a setup adopted in 2018; from 2007-2018 he played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals (and Pearl Masters Custom drums during Sepultura's 1993-1996 Chaos A.D./Roots era) — setups chosen for raw power and cutting attack suited to thrash and groove metal recording. Jaska Raatikainen played Pearl Masters Premium drums with Zildjian A Custom/K Custom cymbals and Pearl Eliminator double pedals — a precision setup suited to the exacting demands of melodic death metal recording and touring. Igor Cavalera built his style around tribal-metal fusion — incorporating Brazilian folk rhythms, marching percussion, and tribal beats into a thrash framework that gave Sepultura's music its unmistakable global identity. His groove-oriented approach prioritizes feel and power over maximum speed. Jaska Raatikainen developed a melodic death metal technique defined by clean, locked-in double bass, precise timing across complex arrangements, and the ability to anchor Bodom's layered keyboards and guitars with surgical consistency across demanding live sets.
+Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals, a setup adopted in 2018; from 2006-2018 he played a ddrum Hybrid Kit with Zildjian A Custom Series cymbals (Cavalera Conspiracy era) and before that Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals during his Sepultura years (and Pearl Masters Custom drums during Sepultura's 1993-1996 Chaos A.D./Roots era) — setups chosen for raw power and cutting attack suited to thrash and groove metal recording. Jaska Raatikainen played Pearl Masters Premium drums with Zildjian A Custom/K Custom cymbals and Pearl Eliminator double pedals — a precision setup suited to the exacting demands of melodic death metal recording and touring. Igor Cavalera built his style around tribal-metal fusion — incorporating Brazilian folk rhythms, marching percussion, and tribal beats into a thrash framework that gave Sepultura's music its unmistakable global identity. His groove-oriented approach prioritizes feel and power over maximum speed. Jaska Raatikainen developed a melodic death metal technique defined by clean, locked-in double bass, precise timing across complex arrangements, and the ability to anchor Bodom's layered keyboards and guitars with surgical consistency across demanding live sets.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Igor Cavalera and Jaska Raatikainen are the defining drummers of their respectiv
 A: Igor Cavalera pioneered Brazilian tribal-thrash drumming with Sepultura, defining a global genre on albums like Chaos A.D. and Roots. Jaska Raatikainen provided the technical backbone for Children of Bodom's melodic death metal across Hatebreeder and Follow the Reaper. Both are definitive drummers in their styles — the debate is raw tribal power vs melodic death precision.
 
 **Q: What gear does Igor Cavalera use?**
-A: Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018); from 2007-2018 he played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals, and during Sepultura's 1993-1996 Chaos A.D./Roots era he played Pearl Masters Custom drums — raw, powerful setups suited to thrash and groove metal.
+A: Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018); from 2006-2018 he played a ddrum Hybrid Kit with Zildjian A Custom Series cymbals (Cavalera Conspiracy era), and during Sepultura's 1993-1996 Chaos A.D./Roots era he played Pearl Masters Custom drums — raw, powerful setups suited to thrash and groove metal.
 
 **Q: What gear does Jaska Raatikainen use?**
 A: Jaska Raatikainen played Pearl Masters Premium drums with Zildjian A Custom/K Custom cymbals and Pearl Eliminator double pedals — a precision-focused setup suited to Children of Bodom's melodic death metal demands.
@@ -67,4 +67,4 @@ A: Igor Cavalera co-founded Sepultura and drove Brazilian metal into global cons
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

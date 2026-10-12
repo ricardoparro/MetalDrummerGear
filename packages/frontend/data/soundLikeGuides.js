@@ -12903,7 +12903,7 @@ This guide breaks down the technique, gear, and practice approach behind Otto's 
       },
       pedals: {
         brand: 'Gibraltar',
-        model: 'Gibraltar G Class Bass Drum Pedal',
+        model: 'Gibraltar Professional Series Bass Drum Pedal',
         description: "A single-pedal setup reflecting Otto's hip-hop-informed groove approach rather than the double-kick norm common among his nu-metal peers.",
         alternative: "DW 5000 or Tama Speed Cobra single pedal for similarly smooth, consistent action."
       },
@@ -12990,7 +12990,7 @@ This guide breaks down the technique, gear, and practice approach behind Otto's 
         label: "Intermediate Setup",
         kit: "Tama Imperialstar ($1,700)",
         cymbals: "Zildjian A Custom partial setup ($900)",
-        pedals: "Gibraltar G Class Single Pedal ($150)",
+        pedals: "Gibraltar Professional Series Single Pedal ($150)",
         sticks: "Zildjian Artist Series ($15)",
         notes: "The A Custom cymbal upgrade is key — it's the exact series behind Otto's tone."
       },
@@ -12999,7 +12999,7 @@ This guide breaks down the technique, gear, and practice approach behind Otto's 
         label: "Professional Setup",
         kit: "OCDP Custom Acrylic ($3,200+)",
         cymbals: "Full Zildjian A Custom selection ($1,800+)",
-        pedals: "Gibraltar G Class Bass Drum Pedal ($200)",
+        pedals: "Gibraltar Professional Series Bass Drum Pedal ($200)",
         heads: "Full Remo setup ($300)",
         notes: "Touring-ready setup matching Otto's current Limp Bizkit rig."
       }
@@ -13011,7 +13011,7 @@ This guide breaks down the technique, gear, and practice approach behind Otto's 
       },
       {
         question: "What gear should I use to sound like John Otto?",
-        answer: "Otto plays an OCDP Custom Type 5 Acrylic kit with a 14\" x 6.5\" 40-ply vented OCDP snare, Zildjian A Custom cymbals (13\" Mastersound hi-hats, 16\"/17\" Projection Crashes, 20\" EFX, 20\" Oriental Crash of Doom), a single Gibraltar G Class bass drum pedal, Zildjian Artist Series sticks, and Remo heads. A Pearl Export kit with Zildjian ZBT cymbals approximates the punchy, groove-forward character on a budget."
+        answer: "Otto plays an OCDP Custom Type 5 Acrylic kit with a 14\" x 6.5\" 40-ply vented OCDP snare, Zildjian A Custom cymbals (13\" Mastersound hi-hats, 16\"/17\" Projection Crashes, 20\" EFX, 20\" Oriental Crash of Doom), a single Gibraltar Professional Series bass drum pedal, Zildjian Artist Series sticks, and Remo heads. A Pearl Export kit with Zildjian ZBT cymbals approximates the punchy, groove-forward character on a budget."
       },
       {
         question: "Does John Otto use a double bass pedal?",

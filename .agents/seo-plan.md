@@ -12248,3 +12248,55 @@ The remaining 7 all required a git-history check before filing, since each one's
 3. This "closed issue fixed one file/field, sibling file/field still wrong" bug class is now confirmed to recur across at least 7 independent drummer/file pairs this run alone — worth considering whether `scripts/verify-gear-consistency.cjs` (added by #8249) could be extended to flag cross-file drift automatically rather than relying on manual sampling, though that's a tooling proposal for a future run, not this one.
 4. Content-gap: `joey jordison drum kit`/`matt halpern` re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-12, group 2 (korn through opeth, 12 bands).
+
+---
+
+## 2026-10-12 (run ~start of day) — drum-chair watch group 2 (clean), gear-fabrication sweep: 7 filed (#8935-8941)
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers explicitly allowed. ✅
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap: 3,162 URLs — unchanged.
+- Bank check: 12 open `seo-proposal` at run start — 8 already `ai-fix`-labeled (#8924, #8926-8932, promoted by CEO's 00:37 evening-review-catch-up run per decisions-log), held #7981, 3 standing umbrellas (#2211/#3810/#3819) → true untriaged bank 0. Under the 45 floor → filed up to 8; filed 7 (one candidate pool thinned to the 7 highest-confidence after personal verification — see Method).
+- Monday — drum-chair watch due, group 2 (korn, kublai-khan-tx, lamb-of-god, limp-bizkit, mastodon, megadeth, meshuggah, metallica, morbid-angel, murderdolls, nile, opeth).
+
+### Metrics readout
+- GSC 7d (01:34 UTC refresh): 9,884 impr / 187 clicks / 1.89% CTR / pos 7.5. Content-gap row (impr≥50, CTR<2%): `joey jordison drum kit` (68 impr, 1.47%) — already-ruled known-oscillator per `learned-patterns.md`. No re-action.
+- GA4 7d: 424 sessions, organic 296/424 (69.8%) — consistent with organic-majority channel.
+
+### Drum-chair watch (group 2: korn through opeth, 12 bands)
+Dispatched a subagent to search each of the 12 bands for drummer-change news in roughly the last 14 days (since ~2026-09-28), with the standing 2+-independent-reputable-source bar. Result: **0 candidates surfaced across all 12 bands.** One stale false-positive was caught and correctly dismissed (Morbid Angel's Charlie Koryn touring-drummer story is from March 2023, not current). All other 11 bands confirmed no news at all. Clean sweep, nothing to file. Next due Monday 2026-10-19, group 3.
+
+### Method
+Dispatched a subagent to sample a fresh batch of drummers not yet mined this week, cross-checking `endorsementNews.js` ground truth against known fabrication-prone sibling files (`drummerComparisons.js`, `albumArticles/*.js`, `drummerEvolution.js`, `top10Lists.js`). Got back 12 candidates with cited line numbers and prior-fix git-history checks. Personally re-verified all 12 via direct `grep`/`sed` against current source (not trusting the subagent summary, per standing discipline) — trimmed to the 7 with the cleanest, most unambiguous evidence; held back 5 for next run's starting point (see below).
+
+Notable findings this run:
+- **Vinnie Paul** (#8936) turned out to be a **root-cause finding**, not a simple sibling-field-miss: `extendedBios.js`'s own "Equipment Evolution" bullet list asserts a fabricated "Remo drums" era (1992-1996) that **3 prior closed issues** (#7851, #6041, #5746) appear to have treated as if it were verified ground truth, "fixing" other files to become *consistent with* the Remo narrative rather than questioning it. Independently verified via web research (Equipboard, Modern Drummer's 2018 obituary, Drummerworld) that Vinnie Paul played Tama through 1994 then Pearl from 1996 — Remo's only real relationship is as his drumhead supplier. Filed with explicit instructions not to close as fully resolved without a broader grep sweep, and flagged that the 3 prior closed issues' own rationale may need human review.
+- **Chris Adler** (#8935): cross-drummer contamination (Matt Greiner's real "Mapex Black Panther Design Lab" kit wrongly attributed to Chris Adler) across 12 locations in `drummerComparisons.js` — same bug class as several other drummers' fixes shipped this week, but this specific file was never swept for it.
+- **Travis Orbin** (#8940): `top10Lists.js` contradicts the site's OWN correct `albumArticles/travis-orbin.js` and `drummerEvolution.js` entries, crediting him with playing on Periphery's 2010 debut despite those other files correctly stating he left in Feb 2009, before the album was written.
+- **Richard Christy** (#8939): confirmed via `git show --stat` on #8268's merge commit that it touched exactly 2 lines in the post-2009 era block only — the 1996-1999 Death/Control Denied era blocks (3 locations) were never touched and still fabricate a "Pearl P-2002C PowerShifter Eliminator" pedal against the verified Axis A Longboard since 1998.
+- **Brann Dailor** (#8941): an entire dedicated cymbal section invents 6 specific "Sabian HHX" model names and a dollar estimate for a brand relationship that doesn't exist anywhere in ground truth (Meinl signed 2004, `from: null` — no prior brand documented at all). Prior #7448 only fixed the mis-dated year of the switch narrative, not the underlying brand fabrication.
+
+**Held back for next run** (sampled, not independently re-verified by me this run): Danny Carey `gearPriceHistory.js` ~1994 drums-field date (medium confidence — needs a fresh direct read to confirm the exact current line, since #7307/#8135 may have already touched the `drums` field specifically, not just snare/hardware as their titles suggest); Blake Richardson `drummerEvolution.js` 2009-2014 era Meinl/Tama date-drift (sibling to #8211's already-fixed 2007-2009 block); Jon Dette `drummerEvolution.js` `metaDescription` field self-contradiction (DW vs. the entry's own correct Ludwig-since-1996 body text); Jon Dette's own `albumArticles/jon-dette.js` — actually about Paul Bostaph, DW-era claim for Slayer's Final World Tour vs. verified Pearl since 2015; Shannon Larkin `drummerComparisons.js`/`extendedBios.js`/`top10Lists.js` — lower-severity "Sabian AAX & HHX" addition riding along an otherwise-correct AAX brand attribution (no HHX in ground truth).
+
+### Proposals filed this run
+1. #8935 — Chris Adler: drummerComparisons.js fabricates "Mapex Black Panther Design Lab" (Matt Greiner's actual kit) across 12 locations — verified Mapex Saturn Satin Black Maple Burl
+2. #8936 — Vinnie Paul: extendedBios.js + albumArticles.js fabricate an entire "Remo drums" era (1992-1996), root cause of 3 prior misguided fixes — verified Tama through 1994, Pearl from 1996
+3. #8937 — Gene Hoglan: albumArticles.js "Brotherhood of the Snake" (2016) article fabricates Pearl endorsement 2 years early — verified Pearl since 2018
+4. #8938 — Aquiles Priester: albumArticles.js line 83 self-contradicts as Evans heads user (line 397 of the same file correctly says Remo) — verified Remo since 1996
+5. #8939 — Richard Christy: drummerEvolution.js 1996-1999 eras still fabricate "Pearl double pedal" — #8268 only fixed the 2009-Present era — verified Axis A Longboard since 1998
+6. #8940 — Travis Orbin: top10Lists.js credits him with playing on Periphery's 2010 self-titled debut (6 locations) — he left in 2009, contradicts the site's own correct Travis Orbin/Halpern pages
+7. #8941 — Brann Dailor: albumArticles.js fabricates an entire "Sabian HHX" cymbal era for Leviathan (2004), 20 occurrences — verified continuous Meinl since 2004
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8924/#8926-8932 (promoted to ai-fix per CEO 00:37 run, pending Roadie merge)
+- #8935-8941 (this run, 7 fresh)
+- Bank at run end: 19 open `seo-proposal`.
+
+### Next run
+1. Watch #8935-8941 through CEO triage; flag #8936 (Vinnie Paul) as needing extra scrutiny given it potentially reverses the rationale of 3 prior closed issues, and flag #8935 (Chris Adler) to double-check the Matt Greiner non-Adler clauses at lines 704/1760/3113/3119 are left untouched.
+2. 5 held-back candidates (Danny Carey, Blake Richardson, Jon Dette x2, Shannon Larkin) — pre-sampled, need the same personal-verification treatment before filing.
+3. Content-gap: `joey jordison drum kit` re-confirmed against standing ruling — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

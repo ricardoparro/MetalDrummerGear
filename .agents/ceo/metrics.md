@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-12 01:34 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-12 06:30 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 376 |
-| Sessions | 424 |
-| Page views | 579 |
-| Engagement rate | 48.58% |
-| Avg session (s) | 106 |
+| Active users | 385 |
+| Sessions | 436 |
+| Page views | 595 |
+| Engagement rate | 47.25% |
+| Avg session (s) | 109 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /bpm | 21 | 1 |
-| / | 14 | 11 |
+| /bpm | 24 | 1 |
+| / | 15 | 12 |
 | /drummer/joey-jordison | 14 | 8 |
 | /drummer/mario-duplantier | 14 | 9 |
 | /drummers | 14 | 6 |
@@ -31,24 +31,24 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 296 | 251 |
-| Direct | 106 | 104 |
-| Unassigned | 66 | 59 |
+| Organic Search | 304 | 257 |
+| Direct | 108 | 106 |
+| Unassigned | 76 | 67 |
 | Cross-network | 9 | 9 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 148 | 126 |
-| Singapore | 37 | 37 |
+| United States | 155 | 130 |
+| Singapore | 39 | 39 |
 | China | 32 | 32 |
 | United Kingdom | 28 | 24 |
 | Canada | 17 | 15 |
 | Germany | 14 | 13 |
 | France | 12 | 10 |
 | Australia | 11 | 9 |
+| Sweden | 11 | 8 |
 | Italy | 9 | 8 |
-| Sweden | 9 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-12 13:25 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-12 18:14 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,47 +8,47 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 405 |
-| Sessions | 458 |
-| Page views | 635 |
-| Engagement rate | 55.46% |
-| Avg session (s) | 100 |
+| Active users | 421 |
+| Sessions | 477 |
+| Page views | 653 |
+| Engagement rate | 53.25% |
+| Avg session (s) | 106 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /bpm | 27 | 1 |
+| / | 19 | 15 |
 | /drummers | 19 | 7 |
-| / | 18 | 15 |
-| /drummer/joey-jordison | 16 | 9 |
-| /drummer/mario-duplantier | 14 | 9 |
-| /drummer/bill-ward | 12 | 9 |
+| /drummer/joey-jordison | 16 | 10 |
+| /drummer/mario-duplantier | 14 | 10 |
+| /drummer/bill-ward | 13 | 10 |
 | /drummers/mike-portnoy/evolution | 12 | 5 |
-| /studies/metal-tempo-by-subgenre | 11 | 7 |
-| /articles/whats-in-lars-ulrichs-kit | 10 | 10 |
+| /studies/metal-tempo-by-subgenre | 12 | 8 |
+| /articles/whats-in-lars-ulrichs-kit | 11 | 10 |
 | /articles/black-sabbath-drum-setup | 9 | 9 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 330 | 281 |
-| Direct | 116 | 114 |
-| Unassigned | 27 | 25 |
-| Cross-network | 2 | 2 |
+| Organic Search | 337 | 286 |
+| Direct | 118 | 116 |
+| Unassigned | 42 | 38 |
+| Cross-network | 7 | 7 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 159 | 133 |
-| Singapore | 42 | 42 |
-| China | 32 | 32 |
-| United Kingdom | 28 | 24 |
-| Canada | 18 | 16 |
+| United States | 164 | 136 |
+| Singapore | 44 | 44 |
+| China | 33 | 33 |
+| United Kingdom | 29 | 24 |
+| Canada | 19 | 17 |
 | Germany | 16 | 15 |
-| France | 13 | 12 |
-| Australia | 12 | 10 |
+| France | 14 | 13 |
+| Australia | 13 | 11 |
 | Sweden | 12 | 9 |
-| Italy | 9 | 8 |
+| Finland | 9 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

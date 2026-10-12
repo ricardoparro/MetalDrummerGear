@@ -1128,3 +1128,34 @@ Pre-07:00 UTC cheap pulse. Metrics 06:30 UTC (385u/436s/595v 7d; GSC 9,884 impr/
 
 ---
 
+
+---
+## 2026-10-12 18:14 (mid-day pulse — 5/5 proposals verified+promoted, #8971-8975)
+
+### Context (≤3 lines)
+First-run-after-13:00 UTC pulse. Metrics 18:14 UTC (421u/477s/653v 7d; GSC 12,168 impr/223 clicks/1.83% CTR/pos 7.5). At run start: eligible `ai-fix` backlog **0** (Roadie fully cleared the 12:25 batch #8952-8956/#8970 — all 6 merged by 14:31 UTC), 0 open PRs, 5 fresh untriaged `seo-proposal` (#8971-8975, filed 13:39-13:40 UTC), continuing the gear-fabrication sweep across drummerEvolution.js/albumArticles/extendedBios.js/drummerComparisons.js/cymbalSetups.js vs endorsementNews.js ground truth.
+
+### Actions taken
+- **Live-verified all 5 via 5 parallel subagents** (read cited lines, cross-checked `endorsementNews.js`, dupe-searched): #8971 (Blake Richardson — drummerEvolution.js 2009-2014 block's narrative wrongly implies a pre-2009 Sabian stint, verified continuous Meinl since 2006) VERIFIED-WITH-NOTE (block is lines 6603-6671, not 6604-6672; flagged the real bug is line 6629's "switched from Sabian" wording, not just data fields). #8972 (Jon Dette metaDescription "DW-based rig" contradicts the entry's own Ludwig body text) VERIFIED-CLEAN, line 21062 confirmed. #8973 (Jon Dette album article misattributes Paul Bostaph's Final World Tour gear as DW across 6 locations, verified Pearl since 2015) VERIFIED-CLEAN, all 6 lines confirmed, consistent with #6352's already-correct drummerComparisons.js fix. #8974 (Shannon Larkin "AAX & HHX" fabrication across 4 files, verified AAX-only since 2002) VERIFIED-WITH-NOTE (all 7 drummerComparisons.js lines + extendedBios.js/top10Lists.js lines confirmed exact; cymbalSetups.js's HHX reference is actually line 290+296, not line 289 as filed). #8975 (Mike Portnoy Tama endorsement "since the 1990s" vs verified 1985) VERIFIED-CLEAN, line 1033 confirmed, no duplicates. All 5 promoted to `ai-fix`; PR-guidance comments added to #8971 and #8974 with the corrected line numbers/scope.
+- **GSC content-gap**: `joey jordison drum kit`/`joey jordison drum set` (76/70 impr, 1.32%/1.43% CTR) re-matched to the standing known-oscillator ruling (`learned-patterns.md` line 195/242). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: all 5 newly-promoted `ai-fix` issues filed today (13:39-13:40 UTC) — nothing crosses the >3-day trigger this run.
+- **Starvation check**: post-triage backlog 5, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this batch at 13:39-13:40 UTC (~4.5h ago), next due in its ~6h cadence window, not yet elapsed.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated from the 12:25 run's same-day refresh (GSC 08:36, LLM 08:09, indexation 09:49 UTC) — no new refresh since, full close-the-loop pass already done this run-cycle; not re-running.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 5 (#8971-8975 promoted)
+- seo-proposal bank (excl. held #7981, umbrellas): 5 fresh → 0 untriaged
+- #8970 (L3 fix filed 12:25 run) merged as PR #8981, 14:31 UTC
+
+### Quota check
+✅ SEO proposals: 5/5 triaged, live-verified, all promoted (2 with line-number/scope notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows already ruled. ✅ L1/L2/L3: already closed-loop this cycle (12:25 run), not due again. ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8971-8975 pick up via Roadie; confirm #8971 fixes the narrative wording (not just data fields) and #8974 catches cymbalSetups.js lines 290+296.
+2. Watch the 10-19 L2 refresh closely — cited count has declined 4 straight weeks (47→27/100 as of 12:25 run), now only 2 points above the 25-floor; if it drops below 25 the forced ≥2-pattern-issues/week quota re-arms automatically.
+3. Re-check the John Otto cluster (signature snare/bare-name/snare) at the 10-19 L1 snapshot.
+4. #7981 (Derek Roddy snare) still held — no new external source found yet.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

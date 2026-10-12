@@ -17820,9 +17820,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           hardware: {
-            item: 'Pearl double pedal',
-            details: 'Standard chain-drive double pedal',
-            notes: 'Foundation hardware ahead of the P-2002C upgrade for Perseverance.',
+            item: 'Axis A Longboard Double Pedal',
+            details: 'Double pedal',
+            notes: 'Axis endorsement established in 1998 alongside the Pearl and Sabian deals.',
             change: CHANGE_TYPES.NEW,
           },
           sticks: {
@@ -17886,10 +17886,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Pearl P-2002C PowerShifter Eliminator double pedal',
-            details: 'Upgraded double pedal',
-            notes: 'Upgraded from the standard chain-drive double pedal for faster, more consistent response.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Axis A Longboard Double Pedal',
+            details: 'Double pedal',
+            notes: 'Axis endorsement since 1998; unchanged from the previous era.',
+            change: null,
           },
           sticks: {
             item: 'Vic Firth American Classic 5A / 5B',
@@ -17914,7 +17914,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'The Sound of Perseverance (1998) recorded at Morrisound Recording — Death\'s final studio album',
           'Widely considered the most technically demanding death metal album ever recorded',
-          'Expanded to a seven-piece Sabian AA/AAX cymbal setup and upgraded to the Pearl P-2002C Eliminator double pedal',
+          'Expanded to a seven-piece Sabian AA/AAX cymbal setup; continued on the Axis A Longboard Double Pedal signed in 1998',
           'Performance recorded as largely uninterrupted full takes with minimal punch-ins',
         ],
 
@@ -17952,7 +17952,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Pearl P-2002C Eliminator',
+            item: 'Axis A Longboard Double Pedal',
             details: 'Unchanged',
             notes: 'No change from the previous era.',
             change: null,
@@ -18127,7 +18127,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit did Richard Christy use on The Sound of Perseverance?',
-        a: 'Richard Christy used a Pearl Masters Custom maple shell pack — a deeper 22"x18" bass drum than typical for the era, plus 10"/12" rack toms and 14"/16" floor toms — paired with a seven-piece Sabian AA/AAX cymbal setup and a Pearl P-2002C PowerShifter Eliminator double pedal.',
+        a: 'Richard Christy used a Pearl Masters Custom maple shell pack — a deeper 22"x18" bass drum than typical for the era, plus 10"/12" rack toms and 14"/16" floor toms — paired with a seven-piece Sabian AA/AAX cymbal setup and an Axis A Longboard Double Pedal.',
       },
       {
         q: 'Why is Richard Christy\'s drumming on The Sound of Perseverance considered so important?',

@@ -5422,7 +5422,7 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Vinnie Paul used various drum brands throughout his career, including Tama, Remo, Pearl, and finally ddrum (confirmed via ddrum's own artist page). He is associated with Sabian cymbals and Vic Firth drumsticks in secondary coverage, though no official artist page or dated in-career source confirms specific current models for cymbals, sticks, or a full drum-kit series beyond the signature snare.
+        content: `Vinnie Paul used various drum brands throughout his career, including Tama, Pearl, and finally ddrum (confirmed via ddrum's own artist page). He is associated with Sabian cymbals and Vic Firth drumsticks in secondary coverage, though no official artist page or dated in-career source confirms specific current models for cymbals, sticks, or a full drum-kit series beyond the signature snare.
 
 **Final Setup (Hellyeah Era) — confirmed vs. unverified:**
 - **Drums**: ddrum (brand confirmed; specific kit series unverified)
@@ -5434,9 +5434,8 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
 - **Electronics**: ddrum and Roland triggers
 
 **Equipment Evolution:**
-- Tama drums during Cowboys from Hell era (1990-1992)
-- Remo drums for Vulgar Display of Power and Far Beyond Driven
-- Pearl drums from 1996-2008
+- Tama drums through Vulgar Display of Power (1992) and Far Beyond Driven (1994)
+- Switched to Pearl drums in 1996 (through 2008)
 - ddrum endorsement from 2008 until death`
       },
       trivia: {

@@ -22,16 +22,16 @@ What set Vinnie apart was his understanding that heavy doesn't mean fast. His gr
 
 ## Gear Breakdown
 
-- **Drums:** Remo Remo drums (specific model unverified) (Custom Graphics finish)
-- **Snare:** Remo Remo steel snare (specific model unverified), 14" x 8"
+- **Drums:** Tama Tama Artstar II (carried over from Cowboys from Hell) (Custom Graphics finish)
+- **Snare:** Tama Tama steel snare (specific model unverified), 14" x 8"
 - **Cymbals:** Sabian — Sabian AA / AAX
-- **Hardware / Pedals:** DW 5000 Double Pedal (used independently on each drum); DW 5000 Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth American Classic 2B
+- **Hardware / Pedals:** Double pedal (brand not documented for this era); Hi-hat stand (brand not documented for this era); Roc-N-Soc Nitro Throne; Vic Firth American Classic 2B
 - **Heads:** Remo Powerstroke 77 Coated (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium-low tension for body, moderate snare wire tension
 
-### The Beast: Vinnie's Remo-Era Kit
+### The Beast: Vinnie's Tama-Era Kit
 
-Vinnie Paul's drum kit for Vulgar Display of Power was a massive Remo setup, part of the Remo endorsement he ran on this album and Far Beyond Driven before moving to Pearl in 1996. The kit featured deep, oversized shells designed to produce maximum low-end power while maintaining articulation.
+Vinnie Paul's drum kit for Vulgar Display of Power was a massive Tama setup, continuing the Tama endorsement he ran through this album and Far Beyond Driven before moving to Pearl in 1996. The kit featured deep, oversized shells designed to produce maximum low-end power while maintaining articulation.
 
 The double 24" x 18" bass drums were the foundation of Pantera's sound. Larger and deeper than typical metal bass drums, they produced a subsonic rumble that you felt as much as heard. Vinnie triggered them for additional attack, blending the natural drum sound with electronic reinforcement.
 
@@ -41,7 +41,7 @@ The two floor toms (16" and 18") provided thunderous low-end for fills and accen
 
 ### The Crack Heard Around the World
 
-The snare sound on Vulgar Display of Power is one of the most distinctive in metal history. Deep, cracking, with an almost industrial quality — it was achieved with a Remo steel snare during Vinnie's Remo endorsement era (1992-1996).
+The snare sound on Vulgar Display of Power is one of the most distinctive in metal history. Deep, cracking, with an almost industrial quality — it was achieved with a Tama steel snare during Vinnie's Tama endorsement era (1990-1996).
 
 At 14" x 8", the drum was deeper than typical snares, providing more body and projection. The steel shell gave it brightness and cut, while the depth prevented it from sounding thin at high volumes. Vinnie tuned it medium-low with moderate snare wire tension.
 
@@ -80,7 +80,7 @@ Vinnie Paul passed away in 2018, but his influence lives on in every heavy drumm
 - Oversized shells for maximum low-end
 - Bass drums triggered for additional attack
 - Deep toms for focused, punchy sound
-- Remo endorsement era (1992-1996) — Vinnie moved to Pearl in 1996, then ddrum in 2008
+- Tama endorsement era (1990-1996) — Vinnie moved to Pearl in 1996, then ddrum in 2008
 - Estimated kit value: $4,000-6,000 (1992) / $8,000-12,000 (signature editions today)
 - Estimated snare value: $400-600 (1992) / $500-700 (signature model today)
 
@@ -88,7 +88,7 @@ Vinnie Paul passed away in 2018, but his influence lives on in every heavy drumm
 
 **Q: What drum kit did Vinnie Paul use on Vulgar Display of Power?**
 
-A: Vinnie Paul recorded Vulgar Display of Power in 1992 on a Remo drum kit, part of his Remo endorsement era (1992-1996) before he moved to Pearl. The setup featured maple and birch hybrid shells with two massive 24x18 inch bass drums, four rack toms ranging from 8 to 13 inches, and 16x16 and 18x18 inch floor toms. His snare was a Remo steel drum at 14x8 inches, contributing the massive, deep crack that became a hallmark of Pantera's sound.
+A: Vinnie Paul recorded Vulgar Display of Power in 1992 on a Tama drum kit, part of his Tama endorsement era (1990-1996) before he moved to Pearl. The setup featured maple and birch hybrid shells with two massive 24x18 inch bass drums, four rack toms ranging from 8 to 13 inches, and 16x16 and 18x18 inch floor toms. His snare was a Tama steel drum at 14x8 inches, contributing the massive, deep crack that became a hallmark of Pantera's sound.
 
 **Q: What cymbals did Vinnie Paul use on Vulgar Display of Power?**
 
@@ -96,7 +96,7 @@ A: Vinnie Paul used Sabian AA and AAX Series cymbals on Vulgar Display of Power.
 
 **Q: How much does Vinnie Paul's Vulgar Display of Power kit cost?**
 
-A: Vinnie Paul's Remo setup cost an estimated $4,000 to $6,000 in 1992. Modern ddrum Vinnie Paul Signature edition kits, which carry his later legacy configuration, now range from $8,000 to $12,000. The 14x8 inch steel snare would add another $400 to $600 for a comparable piece today. Sabian AA and AAX cymbals remain widely available, with full setups similar to Vinnie's running between $1,500 and $2,500 new.
+A: Vinnie Paul's Tama setup cost an estimated $4,000 to $6,000 in 1992. Modern ddrum Vinnie Paul Signature edition kits, which carry his later legacy configuration, now range from $8,000 to $12,000. The 14x8 inch steel snare would add another $400 to $600 for a comparable piece today. Sabian AA and AAX cymbals remain widely available, with full setups similar to Vinnie's running between $1,500 and $2,500 new.
 
 ## Related Articles
 
@@ -115,4 +115,4 @@ A: Vinnie Paul's Remo setup cost an estimated $4,000 to $6,000 in 1992. Modern d
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

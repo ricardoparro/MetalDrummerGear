@@ -31,13 +31,10 @@ Vinnie Paul passed away at 54 from dilated cardiomyopathy and coronary artery di
 
 ### Vinnie's Final Arsenal: ddrum Signature Series
 
-Vinnie Paul's drum journey mirrored Pantera's evolution from glam to groove. Through Tama, Remo, Pearl, and finally ddrum, Vinnie constantly refined his setup to achieve the massive sound that defined his bands.
+Vinnie Paul's drum journey mirrored Pantera's evolution from glam to groove. Through Tama, Pearl, and finally ddrum, Vinnie constantly refined his setup to achieve the massive sound that defined his bands.
 
-**The Tama Era (1990-1992):**
-When Pantera recorded "Cowboys from Hell," Vinnie was playing Tama drums. This period established the foundational groove metal sound, but Vinnie was already searching for something bigger, louder, and more powerful.
-
-**The Remo Era (1992-1996):**
-For "Vulgar Display of Power" and "Far Beyond Driven" — arguably Pantera's heaviest and most influential albums — Vinnie switched to Remo drums. The massive sound on tracks like "Fucking Hostile," "Walk," and "Strength Beyond Strength" came from this setup. Remo's endorsement helped Vinnie achieve the thunderous kick drum sound that became his signature.
+**The Tama Era (1990-1996):**
+When Pantera recorded "Cowboys from Hell," Vinnie was playing Tama drums. He stayed on Tama through "Vulgar Display of Power" and "Far Beyond Driven" — arguably Pantera's heaviest and most influential albums. The massive sound on tracks like "Fucking Hostile," "Walk," and "Strength Beyond Strength" came from this setup, as Vinnie refined his thunderous kick drum sound.
 
 **The Pearl Era (1996-2008):**
 "The Great Southern Trendkill" and "Reinventing the Steel" were recorded on Pearl drums. After Pantera's breakup, Damageplan and the early Hellyeah material continued with Pearl. The consistency and reliability of Pearl hardware supported Vinnie through some of the most difficult years of his life.
@@ -83,7 +80,7 @@ On June 22, 2018, the metal world lost one of its most influential drummers. Vin
 
 Vinnie didn't chase trends. He set them. When thrash metal was obsessing over speed, Vinnie and Pantera proved that groove could be equally devastating. When triggered drums became controversial, Vinnie used them tastefully to enhance — not replace — his acoustic sound. When the industry pushed for ever-more-technical drumming, Vinnie reminded everyone that the pocket is where the magic lives.
 
-His gear journey — from Tama to Remo to Pearl to ddrum — reflects a drummer who never stopped searching for his sound while staying true to his groove-first philosophy. His Sabian cymbals provided the bright, cutting accent that complemented his thunderous kicks and cracks. His signature technique of playing sticks backwards added power that few could match.
+His gear journey — from Tama to Pearl to ddrum — reflects a drummer who never stopped searching for his sound while staying true to his groove-first philosophy. His Sabian cymbals provided the bright, cutting accent that complemented his thunderous kicks and cracks. His signature technique of playing sticks backwards added power that few could match.
 
 But gear doesn't make the drummer. Vinnie Paul made the gear his own through decades of refinement, experimentation, and dedication to his craft. The same kit in different hands wouldn't sound like Vinnie. That's the indefinable quality that separates good drummers from legendary ones.
 
@@ -110,7 +107,7 @@ Vinnie was buried beside his mother and Dimebag in Arlington, Texas. The Abbott 
 - Famous for playing sticks backwards (holding tapered end) for more power
 - Formed Hellyeah after Damageplan; continued performing until death in 2018
 - ddrum Vinnie Paul Signature Series during final Hellyeah years
-- Previously used Tama (Cowboys era), Remo (Vulgar era), Pearl (later Pantera/Damageplan)
+- Previously used Tama (1990-1996, Cowboys through Far Beyond Driven), Pearl (1996-2008, later Pantera/Damageplan)
 - Double 24" bass drum configuration for maximum visual and sonic impact
 - Larger tom sizes (including 18" floor tom) for deep, resonant fills
 - Maple shells with reinforcement rings for attack and projection
@@ -148,4 +145,4 @@ A: The ddrum Vinnie Paul Signature Series kit is estimated at $5,000 to $8,000 f
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*

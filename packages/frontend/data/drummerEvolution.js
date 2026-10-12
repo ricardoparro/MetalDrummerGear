@@ -21059,7 +21059,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Jon Dette Gear Evolution Timeline | Slayer, Testament & Iced Earth Drum Kit History',
-    metaDescription: 'Explore Jon Dette\'s complete drum gear evolution: the Ludwig Classic Maple kit from his 1996-1997 Slayer touring stint, the DW-based rig from his Testament touring years (1997-2012), his 2013-2015 Iced Earth run, and the same Ludwig kit he carries across his ongoing session and touring career.',
+    metaDescription: 'Explore Jon Dette\'s complete drum gear evolution: the Ludwig Classic Maple kit from his 1996-1997 Slayer touring stint, the same Ludwig Classic Maple kit carried through his Testament touring years (1997-2012), his 2013-2015 Iced Earth run, and the same Ludwig kit he carries across his ongoing session and touring career.',
   },
 
   // ==========================================

@@ -2061,10 +2061,10 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Morgan Ågren use?', a: 'Morgan Ågren plays a Sonor SQ2 Designer Series drum kit — a custom-configured setup reflecting the exacting standards behind his decades of polyrhythmic playing across the Mats/Morgan Band, Kaipa, and Devin Townsend Project. It\'s built around a Sonor Designer 14"x5.5" Maple snare.' },
-          { q: 'What drum set does Morgan Ågren use?', a: 'Morgan Ågren\'s drum set pairs his Sonor SQ2 shells and maple snare with a Sonor Giant Step double pedal, the configuration he has used since co-founding the Mats/Morgan Band with Mats Öberg in 1981.' },
+          { q: 'What drum kit does Morgan Ågren use?', a: 'Morgan Ågren plays a Sonor SQ2 Beech drum kit — his setup since 2012, reflecting the exacting standards behind his polyrhythmic playing with Devin Townsend Project, Kaipa, and the Mats/Morgan Band.' },
+          { q: 'What drum set does Morgan Ågren use?', a: 'Morgan Ågren\'s drum set pairs his Sonor SQ2 Beech shells and snare with a Sonor Giant Step double pedal, the configuration he has used since 2012.' },
           { q: 'What cymbals does Morgan Ågren play?', a: 'Morgan Ågren plays Paiste Signature and 2002 Series cymbals: 14" Signature Heavy Hi-Hats for tight control on his rapid polyrhythmic patterns, 18" and 20" Signature Fast Crashes, a 22" Signature Dry Heavy Ride, and an 18" 2002 China.' },
-          { q: 'What snare does Morgan Ågren use?', a: 'Morgan Ågren\'s snare is a Sonor Designer 14"x5.5" Maple, delivering a warm, articulate crack suited to both his jazz-fusion sensibility and his work with Devin Townsend Project.' },
+          { q: 'What snare does Morgan Ågren use?', a: 'Morgan Ågren\'s snare is part of his Sonor SQ2 Beech kit, delivering a warm, articulate crack suited to both his jazz-fusion sensibility and his work with Devin Townsend Project.' },
           { q: 'What sticks does Morgan Ågren use?', a: 'Morgan Ågren uses Vic Firth American Classic 5A drumsticks.' },
           { q: 'What bass drum pedal does Morgan Ågren use?', a: 'Morgan Ågren plays a Sonor Giant Step double pedal, seated on a Sonor throne.' },
           { q: 'What drumheads does Morgan Ågren use?', a: 'Morgan Ågren uses Remo drumheads across his Sonor SQ2 kit.' },

@@ -15072,7 +15072,7 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
         finish: 'Various touring finishes across Shadows Fall and Overkill eras',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Mapex Saturn V Steel',
+          snare: '14" x 6.5" Mapex Black Panther Brass',
           toms: ['10" Rack Tom', '12" Rack Tom'],
           floorToms: ['14" Floor Tom', '16" Floor Tom']
         },
@@ -15081,11 +15081,11 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
       },
       snare: {
         brand: 'Mapex',
-        model: 'Mapex Saturn V Steel 14" x 6.5"',
+        model: 'Mapex Black Panther 14" x 6.5" Brass',
         size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "The steel shell's focused, high-frequency crack cuts cleanly above heavily distorted guitars in both bands' dense mid-range, with enough body at 6.5\" depth to stay articulate through extended double-bass passages.",
-        alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for a similar bright, steel-shell crack"
+        shell: 'Brass',
+        description: "The brass shell's focused, steel-edged crack cuts cleanly above heavily distorted guitars in both bands' dense mid-range, with enough body at 6.5\" depth to stay articulate through extended double-bass passages.",
+        alternative: "Pearl Sensitone Brass or Ludwig Supraphonic for a similar bright, brass-shell crack"
       },
       cymbals: {
         brand: 'Zildjian',
@@ -15205,7 +15205,7 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
     faq: [
       {
         question: "What drum kit does Jason Bittner play?",
-        answer: "Jason Bittner plays a Mapex Saturn V kit with maple/walnut hybrid shells, a double 22\" x 18\" bass drum configuration, and a 14\" x 6.5\" Mapex Saturn V Steel snare. His cymbals are Zildjian K and A Custom series, and he uses a Mapex Falcon Double Pedal."
+        answer: "Jason Bittner plays a Mapex Saturn V kit with maple/walnut hybrid shells, a double 22\" x 18\" bass drum configuration, and a 14\" x 6.5\" Mapex Black Panther Brass snare. His cymbals are Zildjian K and A Custom series, and he uses a Mapex Falcon Double Pedal."
       },
       {
         question: "How does Jason Bittner combine NWOAHM groove with thrash drumming?",

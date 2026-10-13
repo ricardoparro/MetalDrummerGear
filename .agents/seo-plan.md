@@ -12428,3 +12428,50 @@ The last ~2 weeks of runs have exhaustively swept the traffic-weighted/high-TAM 
 2. Untouched-roster tail is nearly exhausted (6 of 10 sampled this run came back clean) — next run should either sample the remaining handful of never-swept slugs or circle back to traffic-weighted targeting (metrics.md top-pages/top-queries).
 3. Content-gap: `joey jordison drum kit`/`drum set` re-confirmed against standing ruling — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-13 (run ~13:xx UTC) — lowest-issue-count roster sweep: 6 filed (#9028-9033)
+
+### Audit
+- robots.txt (live curl, GPTBot UA): 200, AI crawlers allowed.
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap: unchanged this run (not re-counted).
+- Bank check: 7 open `seo-proposal` at run start (#9014/#9015/#9017 already `ai-fix`-promoted per CEO's 12:19 deep run but retain the `seo-proposal` label; #9016 closed/split into #9026/#9027 by the CEO; held #7981; 3 standing umbrellas #2211/#3810/#3819) → well under the 45 floor. Filed up to 8; filed 6 (stopped once the verified-high-confidence pool ran dry).
+- Not Monday (Tuesday) — drum-chair watch already logged this week (group 2, Monday 10-12, 0 candidates). Skipped.
+
+### Metrics readout
+- GSC 7d (13:12 UTC refresh): 10,403 impr / 196 clicks / 1.88% CTR / pos 7.5. Content-gap rows (impr≥50, CTR<2%): `joey jordison drum kit` (66 impr, 1.52%) and `joey jordison drum set` (60 impr, 1.67%) — both already-ruled known-oscillator per `learned-patterns.md`. No re-action.
+- GA4 7d: 479 sessions, organic 351/479 (73.3%). Top pages: `/bpm`, `/`, `/drummers`, `/drummer/joey-jordison`, `/drummer/mario-duplantier`, `/drummer/bill-ward`, `/studies/metal-tempo-by-subgenre`.
+
+### Method — pick candidates by historical issue-count (proxy for under-swept entities)
+With the "fresh-roster" untouched-slug approach nearly exhausted (per the 09:xx run's note), this run used a different selection signal: queried `gh api search/issues -f q="repo:... \"<drummer name>\" in:title"` for every roster slug not recently mentioned in `seo-plan.md`, ranking by total historical issue count as a proxy for how thoroughly each entity has already been swept. Picked the 10 lowest-count candidates not covered this week: ryan-van-poederooyen (38), hannes-grossmann (53), art-cruz (62), raymond-herrera (79), jason-bittner (78), scott-travis (123), mike-mangini (148), nicko-mcbrain (163) split across 2 parallel subagents (4 each), with the standard protocol (read `endorsementNews.js` ground truth, grep the 14 known fabrication-prone sibling files, `git log --all --grep`/`git show --stat` on any plausibly-related prior closed issue before treating a candidate as unfixed, dedup-search open issues). Personally re-verified every reported finding via direct `grep`/`sed`/`git show` before filing (per standing discipline — never trust a subagent's verdict alone). raymond-herrera and nicko-mcbrain came back clean (extensive prior fix history already resolved everything found).
+
+6 findings across 6 drummers survived personal verification (8 total facts, 2 drummers had 2 findings each bundled into one issue):
+- **Ryan Van Poederooyen** (#9028): `extendedBios.js` + `soundLikeGuides.js` still assert "since 1999"/"Terria (2001)," contradicting the Wikipedia-verified 2002 recruitment / "Accelerated Evolution" (2003) debut that closed issue #8011 resolved — but #8011's own "Verify: all three files agree" step was never executed; only `drummerEvolution.js` got the fix (confirmed via `git show b5de0d30`, which touched only `decisions-log.md`/`metrics.md`, not the data files).
+- **Hannes Grossmann** (#9029): `soundLikeGuides.js` + `albumArticles/hannes-grossmann.js` still say born in "Freising, Germany" — #8535 fixed `extendedBios.js`/`birthdays.js` to the verified "Bayreuth, Germany" but missed these 2 sibling files, a live self-contradiction.
+- **Art Cruz** (#9030): `albumArticles/art-cruz.js`'s debut-era (2020) section still fabricates "Ludwig Classic Maple" (14+ locations) — #8431 (closing #8409) only fixed the same file's Omens (2022) section to the verified "Black Beauty"-anchored kit, leaving the debut section self-contradicting it.
+- **Jason Bittner** (#9031, 2 bundled findings): `top10Lists.js` wrong Shadows Fall join year (2001 vs. verified 1999, confirmed via `drummerEvolution.js`+`extendedBios.js`) + `soundLikeGuides.js` wrong snare model ("Saturn V Steel" vs. verified "Black Panther Brass," confirmed via `extendedBios.js` FAQ and closed #5542/#5555/#5556).
+- **Scott Travis** (#9032, 2 bundled findings): `gearPriceHistory.js` mislabels verified Paiste RUDE/2002 cymbals as "Paiste Signature" (a different, never-endorsed line) + `drummerEvolution.js`'s Pearl-era block fabricates a Sabian/Vater/Evans switch that never happened (ground truth shows continuous Paiste/Vic Firth/Remo the whole time — only drums and, later, hardware ever switched).
+- **Mike Mangini** (#9033): `gearPriceHistory.js` fabricates a 2013 "Ludwig Keystone X Maple" interim kit switch — ground truth shows exactly one drums switch ever (Pearl Masterworks Maple → Pearl Reference Pure, 2019); #8845 fixed the adjacent Meinl/DW fabrication in the same paragraph but left this Ludwig sentence untouched.
+
+### Proposals filed this run
+1. #9028 — Ryan Van Poederooyen: extendedBios.js/soundLikeGuides.js still say "since 1999"/Terria(2001) vs. verified-via-#8011 2002 recruitment
+2. #9029 — Hannes Grossmann: soundLikeGuides.js/albumArticles say "Freising" vs. #8535-verified "Bayreuth"
+3. #9030 — Art Cruz: albumArticles debut-era section still fabricates "Ludwig Classic Maple," #8431 only fixed the Omens section
+4. #9031 — Jason Bittner: top10Lists.js wrong join year (2001 vs 1999) + soundLikeGuides.js wrong snare model (Saturn V Steel vs Black Panther Brass)
+5. #9032 — Scott Travis: gearPriceHistory.js "Paiste Signature" mislabel + drummerEvolution.js fabricated Sabian/Vater/Evans era switch
+6. #9033 — Mike Mangini: gearPriceHistory.js fabricated 2013 "Ludwig Keystone X Maple" interim switch
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9014/#9015/#9017 (promoted to ai-fix per CEO's 12:19 run, pending Roadie pickup) — #9016 closed/split into #9026/#9027
+- #9028-9033 (this run, 6 fresh)
+- Bank at run end: 13 open `seo-proposal` (excl. the 3 standing umbrellas: 10).
+
+### Next run
+1. Watch #9028-9033 through CEO triage; flag #9032 (Scott Travis) to confirm the PR doesn't touch the correctly-switching `drums`/`hardware` fields in the same era block, and flag #9031 (Jason Bittner) to confirm both bundled fixes land (join-year AND snare-model, in 2 different files).
+2. Lowest-issue-count roster signal is a viable targeting method but roster is getting thin on fresh candidates — next run should check whichever of the remaining ~55 drummers haven't been cross-referenced yet, or revisit raymond-herrera/nicko-mcbrain's clean results in 2-3 weeks in case new drift appears.
+3. Content-gap: `joey jordison drum kit`/`drum set` re-confirmed against standing ruling — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3 (not due this run, Tuesday).

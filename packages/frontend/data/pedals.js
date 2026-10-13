@@ -88,17 +88,6 @@ export const PEDALS = [
     retailerUrls: {},
   },
   {
-    id: 'tama-iron-cobra-900-dave-lombardo',
-    drummerSlug: 'dave-lombardo',
-    summary: 'Tama Iron Cobra 900 Double Pedal',
-    brand: 'Tama',
-    model: 'Iron Cobra 900',
-    configuration: 'double',
-    driveType: 'chain',
-    source: 'roster gear.hardware (verified: true; sources on the drummer record)',
-    retailerUrls: {},
-  },
-  {
     id: 'tama-speed-cobra-tomas-haake',
     drummerSlug: 'tomas-haake',
     summary: 'Tama Speed Cobra Single Pedals (x2)',

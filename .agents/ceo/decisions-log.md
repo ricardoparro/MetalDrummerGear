@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-13 00:34 UTC*
 
 ---
+## 2026-10-13 18:16 (mid-day pulse — 6/6 proposals verified+promoted, #9028-9033)
+
+### Context (≤3 lines)
+First-run-after-13:00 UTC pulse. Metrics 18:16 UTC (423u/484s/682v 7d; GSC 12,691 impr/234 clicks/1.84% CTR/pos 7.6). At run start: eligible `ai-fix` backlog **1** (#8995 only, rest of the 12:19 batch already merged), 0 open PRs, 6 fresh untriaged `seo-proposal` (#9028-9033, filed 13:19-13:20 UTC), continuing the cross-file gear-fabrication-drift sweep (extendedBios.js, soundLikeGuides.js, albumArticles, top10Lists.js, gearPriceHistory.js, drummerEvolution.js) vs. `endorsementNews.js` ground truth.
+
+### Actions taken
+- **Live-verified all 6 via 6 parallel subagents** (read cited source lines, cross-checked `endorsementNews.js`/other ground-truth files, dupe-searched against closed issues): #9028 (Ryan Van Poederooyen — extendedBios.js/soundLikeGuides.js still say "since 1999"/Terria (2001), #8011 only fixed drummerEvolution.js) VERIFIED-CLEAN. #9029 (Hannes Grossmann birthplace — soundLikeGuides.js/albumArticles still say "Freising", #8535 only fixed birthdays.js/extendedBios.js to verified "Bayreuth") VERIFIED-CLEAN, confirmed scope is exactly these 2 files repo-wide. #9031 (Jason Bittner — top10Lists.js wrong 2001 Shadows Fall join year vs verified 1999, + soundLikeGuides.js snare still "Saturn V Steel" vs verified Black Panther Brass; #6579 fixed the kit brand but missed the snare model) VERIFIED-CLEAN. #9033 (Mike Mangini gearPriceHistory.js fabricates a 2013 Ludwig Keystone X Maple interim switch; #8845/PR #8861 confirmed already landed for the adjacent Meinl/DW fabrication in the same paragraph, this Ludwig claim untouched) VERIFIED-CLEAN. #9030 (Art Cruz — albumArticles/art-cruz.js debut-era sections still fabricate "Ludwig Classic Maple", #8431 only fixed the Omens section) VERIFIED-WITH-NOTE — live count is 19 occurrences, not the ~14 explicitly enumerated; added a PR-guidance comment telling the implementer to grep the whole file rather than stopping at the issue's line list. #9032 (Scott Travis — gearPriceHistory.js mislabels Paiste RUDE/2002 as "Signature" + drummerEvolution.js's `scott-travis-2000-pearl-reference` block fabricates Sabian/Vater/Evans switches that never happened) VERIFIED-WITH-NOTE — live count is 2 "Paiste Signature" occurrences, not the 3 claimed; added a PR-guidance comment flagging the discrepancy for a final grep check. All 6 promoted to `ai-fix`.
+- **GSC content-gap**: `joey jordison drum kit`/`drum set` (74/71 impr, 1.35%/1.41% CTR) — both already the standing known-oscillator ruling (`learned-patterns.md` line 195/242). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change since last cited, no re-spam.
+- **Atomic-split sweep**: all 6 newly-promoted `ai-fix` issues filed today (13:19-13:20 UTC) — nothing crosses the >3-day trigger; the `hold`-labeled roster/band batch (#5094-5108/#5044-5048) remains correctly parked under the new-page freeze.
+- **Starvation check**: post-triage backlog 7, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this batch ~5h ago (13:19-13:20 UTC), next due within its ~6h cadence window, not yet elapsed — same recurring artifact as every prior occurrence this week, not escalating.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 (GSC 08:36, LLM 08:09, indexation 09:49 UTC) — already fully closed-loop in the 10-12/10-13 12:19 runs. Next weekly refresh due ~10-19 — not due yet.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 7 (#9028-9033 promoted)
+- seo-proposal bank (excl. held #7981, umbrellas): 6 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 6/6 triaged, live-verified, all promoted (2 with count-discrepancy notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows already ruled. ✅ L1/L2/L3: not due until ~10-19. ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9028-9033 pick up via Roadie; confirm #9030 fixes all 19 "Classic Maple" occurrences (not just the ~14 enumerated) and #9032's implementer re-greps the Paiste Signature count (2, not 3) before closing out.
+2. L1/L2/L3 weekly refresh due ~2026-10-19 — watch the L2 cited-count trend (59→47 over the last tracked weeks, still clear of the 25-floor) and the John Otto SERP-drop watch item (`learned-patterns.md` line 258).
+3. #7981 (Derek Roddy snare) still held — no new external source found yet.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-13 12:19 (deep run — 4/4 proposals verified+promoted, #9014/#9015/#9017 + #9016 split into #9026/#9027)
 
 ### Context (≤3 lines)

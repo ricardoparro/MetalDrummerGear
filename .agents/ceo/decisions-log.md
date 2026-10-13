@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-13 00:34 UTC*
 
 ---
+## 2026-10-13 06:23 (cheap pulse — 8/8 proposals verified+promoted, #8996-9003)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:22 UTC (404u/462s/644v 7d; GSC 10,403 impr/196 clicks/1.88% CTR/pos 7.5). At run start: eligible `ai-fix` backlog **1** (only #8995 remained from the 00:35 catch-up, rest already merged), 0 open PRs, 8 fresh untriaged `seo-proposal` (#8996-9003, filed 01:39-01:40 UTC), continuing the cross-file gear-fabrication-drift sweep (api/stats/gear-insights.js, pedals.js, api/drummers/index.js, drummerEvolution.js, api/gear-finder/index.js, extendedBios.js).
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (read cited source lines, cross-checked `endorsementNews.js` ground truth, dupe-searched via `gh issue list`/`search`): #8996 (api/stats/gear-insights.js — 4 of ~10 spot-checked entries wrong: John Otto/Hannes Grossmann/Ryan Van Poederooyen/Daniel Erlandsson; CLAUDE.md Rule 1 duplicate-data violation) VERIFIED-WITH-NOTE (minor line-number drift, locate by `id` field). #8997 (Daniel Erlandsson pedals.js root record — "Demon Drive" fabrication behind 10 prior downstream fixes) VERIFIED-CLEAN, rename-safe (no other references to the `id` string). #8998 (Adrian Erlandsson api/drummers/index.js kitOverview — Tama relationship backdated to "late 1990s", verified 2014; confirmed #8181 didn't cover this file) VERIFIED-WITH-NOTE. #8999 (Jocke Wallgren snare fabricated across drummerEvolution.js/drummerComparisons.js/albumArticles — no snare field exists in ground truth) VERIFIED-WITH-NOTE — found an extra unlisted occurrence (drummerComparisons.js lines 2668/2676), flagged Gene Hoglan's legitimate same-phrase instance to leave untouched, recommended the #8877 reassign-to-verified-shell convention over #8594's pure hedge. #9000 (Nick Menza drummerEvolution.js FAQ + 1992-1996 era block — Pearl/Zildjian dates still wrong after #8150/#8872 fixed adjacent blocks) VERIFIED-CLEAN, all 3 sub-claims confirmed, no overlap with prior fixes. #9001 (Vinnie Paul Vulgar Display/Far Beyond Driven era fabricated as Pearl, verified Tama through 1996) VERIFIED-WITH-NOTE — flagged the same block's snare field is likely affected too, not just drums as originally scoped. #9002 (Igor Cavalera api/gear-finder/index.js — drums/cymbals/heads stale 2007-2018 rig, verified current Yamaha/Zildjian/Remo; sticks/hardware correctly left alone) VERIFIED-WITH-NOTE — no snare field exists in ground truth, flagged for hedge. #9003 (Abe Cunningham extendedBios.js FAQ — Zildjian era-misattributed to Koi No Yokan/Gore/Ohms, verified Sabian HHX for that window; confirmed #5884 only fixed drum brand, left this untouched) VERIFIED-CLEAN. All 8 promoted to `ai-fix` with PR-guidance comments on the 6 with notes.
+- **GSC content-gap**: `joey jordison drum kit` (66 impr, 1.52% CTR) already ruled known-oscillator in `learned-patterns.md`. No new action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change since last cited, no re-spam.
+- **Atomic-split sweep**: all open `ai-fix` issues filed today (01:39 UTC or later, incl. #8995 from 00:37) — nothing crosses the >3-day trigger.
+- **Starvation check**: post-triage backlog 9, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this batch at 01:39-01:40 UTC (~5h ago), next due within its ~6h cadence window, not yet elapsed — same recurring artifact as every prior occurrence this week, not escalating.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 (GSC 08:36, LLM 08:09, indexation 09:49 UTC) — already fully closed-loop in the 10-12 12:25 deep run + 00:35 catch-up. Next weekly refresh due ~10-19 — not due yet.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 9 (#8996-9003 promoted)
+- seo-proposal bank (excl. held #7981, umbrellas): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (6 with PR-guidance notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: row already ruled. ✅ L1/L2/L3: not due until ~10-19. ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8995-9003 pick up via Roadie; confirm #8999/#9001/#9002 respect the guidance notes (extra occurrence, snare-field scope, hedge wording).
+2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands (watch the L2 cited-count trend: 47→27/100 over 4 weeks, only 2pts above the 25-floor that re-arms forced pressure).
+3. #7981 (Derek Roddy snare) still held — no new external source found yet.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-13 00:35 (evening-review catch-up for 10-12 — 8/8 proposals verified+promoted #8987-8994, follow-up #8995 filed)
 
 ### Context (≤3 lines)

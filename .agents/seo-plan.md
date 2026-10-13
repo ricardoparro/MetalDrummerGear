@@ -12385,3 +12385,46 @@ Two-part sweep this run. **Part 1 — closed out the 5 held-back candidates** fl
 2. Held-back-candidate backlog is now fully cleared — no carry-over list for next run; next run should pick fresh targets (continue traffic-weighted approach per metrics.md top-pages/top-queries, or resume broader random sampling if traffic-weighted targets run dry).
 3. Content-gap: `joey jordison drum kit`/`drum set` re-confirmed against standing ruling — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3 (already logged, not due again this week).
+
+---
+
+## 2026-10-13 (run ~09:xx UTC) — fresh-roster gear-fabrication sweep: 4 filed (#9014-9017)
+
+### Audit
+- robots.txt (live curl): all 8 AI crawlers explicitly allowed. ✅
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap (live curl `sitemap.xml`): 3,161 URLs — unchanged (within rotation noise of last-confirmed 3,162).
+- Bank check: 12 open `seo-proposal` at run start — 8 already `ai-fix`-labeled (#8996-9003, promoted by CEO's 06:23 cheap-pulse run per decisions-log), held #7981, 3 standing umbrellas (#2211/#3810/#3819) → true untriaged bank 0. Under the 45 floor → filed up to 8; filed 4 (stopped once the verified-high-confidence pool ran dry rather than padding with weaker finds — same discipline as the 10-12 07:xx run).
+- Not Monday (Tuesday) — drum-chair watch already logged this week (group 2, Monday 10-12, 0 candidates). Skipped.
+
+### Metrics readout
+- GSC 7d (07:17 UTC refresh): 10,403 impr / 196 clicks / 1.88% CTR / pos 7.5. Content-gap rows (impr≥50, CTR<2%): `joey jordison drum kit` (66 impr, 1.52%) and `joey jordison drum set` (60 impr, 1.67%) — both already-ruled known-oscillator per `learned-patterns.md`. No re-action.
+- GA4 7d: 465 sessions, organic 319/465 (68.6%). Top pages: `/bpm`, `/`, `/drummers`, `/drummer/joey-jordison`, `/drummer/mario-duplantier`, `/drummer/bill-ward`.
+
+### Method — deliberate shift to the untouched-roster tail
+The last ~2 weeks of runs have exhaustively swept the traffic-weighted/high-TAM drummers (Danny Carey, Mario Duplantier, Eloy Casagrande, Bill Ward, Joey Jordison, Mike Portnoy, Lars Ulrich, Vinnie Paul, and ~20 others — see decisions-log 10-11 through 10-13). Cross-referenced the full 69-drummer roster (`endorsementNews.js` slugs) against this week's run notes and picked 10 drummers with no recent mention: gavin-harrison, alex-rudinger, chris-turner, jimmy-degrasso, martin-axenrot, nick-barker, waltteri-vayrynen, john-longstreth, frost, paul-bostaph. Dispatched 2 parallel subagents (5 drummers each) with the standard method (read `endorsementNews.js` ground truth, grep the 17 known fabrication-prone sibling files, check `git log --all --grep`/`git show --stat` on any plausibly-related prior closed issue before treating a candidate as unfixed, dedup-search open issues). Personally re-verified every reported finding via direct `sed`/`grep`/`git show` before filing (per standing discipline — never trust a subagent's verdict alone). 6 of 10 came back clean (gavin-harrison, alex-rudinger, jimmy-degrasso, martin-axenrot, waltteri-vayrynen, john-longstreth) — all independently spot-checked, no contradictions survived personal re-verification.
+
+4 survived personal verification as genuinely real and unfixed:
+- **Chris Turner** (#9014): `drummerComparisons.js`'s `raymond-herrera-vs-chris-turner` entry still says "Promark or Vic Firth 5B sticks" — confirmed via `git show` on #7387's merge commit that it fixed the kit-wood and cymbal-line fabrications in this exact sentence but left the sticks clause byte-identical; verified Vic Firth American Classic 5A only (no Promark hedge).
+- **Nick Barker** (#9015): `gearPriceHistory.js` fabricates a full "Sonor 14x3.5 Piccolo" snare (dimensions, price, modern-equivalent link) where ground truth has no snare field documented at all — notably self-contradicting the same entry's own cymbals field and summary prose, which both correctly say "not publicly documented."
+- **Frost** (#9016, filed as batch): the "Zildjian K Custom Dark"/"K China" fabrication has been fixed 5 times already across `endorsementNews.js`/`drummerEvolution.js`/`extendedBios.js`/`cymbalSetups.js`/one `genreGearGuides.js` guide section (#6149/#7568/#7913/#8058/#7753/#7718) — but `genreGearGuides.js` is a single very large file with dozens of independent guide sections, and #7718's diff (confirmed via `git show --stat`, 28 line-pairs) only touched the hi-hat guide. Live-grepped the rest of the file and found the identical fabrication still live across ~70+ locations spanning black-metal ride/crash/splash/china guides and the entire symphonic-metal cymbal/hi-hat/crash guide family. Filed as one batch issue scoped to "genreGearGuides.js outside the already-fixed hi-hat section" rather than re-deriving file-by-file.
+- **Paul Bostaph** (#9017): `top10Lists.js` has 2 separate ranking entries crediting Bostaph with Slayer's "Christ Illusion" (2006) and its Grammy win for "Eyes of the Insane" — but the same file already correctly attributes that exact recording/award to Dave Lombardo (who returned to Slayer for that album) at a 3rd entry. Verified via `endorsementNews.js` + `albumArticles/paul-bostaph.js` that Bostaph's real Slayer albums are Divine Intervention/Undisputed Attitude/Diabolus in Musica/Repentless — a recording-window cross-contamination in the Kairos-lesson class (CLAUDE.md rule 2), not yet touched by any of the 50+ prior Bostaph commits.
+
+### Proposals filed this run
+1. #9014 — Chris Turner: drummerComparisons.js sticks still "Promark or Vic Firth 5B" — #7387 fixed the kit/cymbal clauses in the same sentence, missed sticks — verified Vic Firth American Classic 5A
+2. #9015 — Nick Barker: gearPriceHistory.js fabricates a full "Sonor 14x3.5 Piccolo" snare — no snare model verified anywhere, self-contradicts the entry's own cymbals field
+3. #9016 — Frost (batch): genreGearGuides.js "Zildjian K Custom Dark"/"K China" fabrication survives in ~70+ locations outside the one guide section #7718 fixed — verified plain Zildjian A Series since 2013
+4. #9017 — Paul Bostaph: top10Lists.js credits him with Slayer's "Christ Illusion" + its Grammy, both actually Dave Lombardo's (same file already has the correct attribution elsewhere)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #8996-9003 (06:23 batch, promoted to ai-fix per CEO run, pending Roadie pickup)
+- #9014-9017 (this run, 4 fresh)
+- Bank at run end: 16 open `seo-proposal`.
+
+### Next run
+1. Watch #9014-9017 through CEO triage; flag #9016 (Frost) to confirm the PR greps the WHOLE file for "K Custom Dark"/"K China" in a Frost context (not just the line ranges enumerated in the issue, which are representative, not exhaustive).
+2. Untouched-roster tail is nearly exhausted (6 of 10 sampled this run came back clean) — next run should either sample the remaining handful of never-swept slugs or circle back to traffic-weighted targeting (metrics.md top-pages/top-queries).
+3. Content-gap: `joey jordison drum kit`/`drum set` re-confirmed against standing ruling — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

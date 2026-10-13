@@ -272,7 +272,7 @@ const drummers = [
     genre: 'Black/Death Metal',
     image: '/images/drummers/inferno.webp',
     gear: {
-      drums: 'Pearl Masterworks',
+      drums: 'Pearl Reference Series',
       snare: 'Pearl Reference 14x5" Steel',
       cymbals: 'Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China)',
       hardware: "Czarcie Kopyto (Devil's Hoof) Double Pedal, Pearl D-2000 Throne",

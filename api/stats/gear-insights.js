@@ -1,74 +1,95 @@
 // Vercel Serverless Function - Gear Statistics & Insights
 // Issue #695: Create 'Metal Drummer Gear Statistics' data hub page
+// Issue #8996: drums/snare/cymbals are derived from the canonical `gear`
+// object in drummers/index.js (CLAUDE.md Rule 1 — one data module per
+// domain) instead of a hand-maintained duplicate that had drifted out of
+// sync (e.g. John Otto's drums were fabricated as Pearl; he plays OCDP).
 
-// Import drummers data
-const drummersData = require('../drummers/index.js');
+import { drummers as canonicalDrummers } from '../drummers/index.js';
 
-// Get all drummers from the module (exported as handler, need to parse)
-// We'll inline the drummer data here for serverless efficiency
-const drummers = [
-  { id: 1, name: 'Lars Ulrich', genre: 'Thrash Metal', drums: 'Tama Starclassic Maple', snare: 'Tama LU1465 Lars Ulrich Signature 14x6.5"', cymbals: 'Zildjian A Custom Series', kitCost: 8500 },
-  { id: 2, name: 'Joey Jordison', genre: 'Nu Metal', drums: 'Pearl Reference Series', snare: 'Pearl Joey Jordison Signature 13x6.5"', cymbals: 'Paiste RUDE & 2002 Series', kitCost: 9200 },
-  { id: 3, name: 'Gene Hoglan', genre: 'Death Metal', drums: 'Pearl Reference Pure', snare: 'Pearl Reference 14x6.5" Brass', cymbals: 'Sabian AAX Series', kitCost: 7800 },
-  { id: 4, name: 'Dave Lombardo', genre: 'Thrash Metal', drums: 'Pearl Reference Pure', snare: 'Pearl Dave Lombardo Signature 14x5"', cymbals: 'Paiste RUDE Series', kitCost: 7500 },
-  { id: 5, name: 'Tomas Haake', genre: 'Progressive Metal', drums: 'Sonor SQ2 Heavy Beech', snare: 'Sonor Tomas Haake Signature', cymbals: 'Sabian HHX Series', kitCost: 12500 },
-  { id: 6, name: 'George Kollias', genre: 'Death Metal', drums: 'Pearl Masters Premium', snare: 'Pearl George Kollias Signature', cymbals: 'Zildjian A Custom Series', kitCost: 8200 },
-  { id: 7, name: 'Eloy Casagrande', genre: 'Thrash Metal', drums: 'Tama Starclassic Walnut/Birch', snare: 'Tama S.L.P.', cymbals: 'Meinl Byzance Series', kitCost: 9800 },
-  { id: 8, name: 'Ray Luzier', genre: 'Nu Metal', drums: 'Pearl Reference Series', snare: 'Pearl Reference 14x6.5"', cymbals: 'Zildjian K Custom Series', kitCost: 8500 },
-  { id: 9, name: 'John Otto', genre: 'Nu Metal', drums: 'Pearl Reference Series', snare: 'Pearl Sensitone', cymbals: 'Zildjian A Custom', kitCost: 7200 },
-  { id: 10, name: 'Jay Weinberg', genre: 'Nu Metal', drums: 'SJC Custom', snare: 'SJC Custom 14x6.5"', cymbals: 'Zildjian A Custom Series', kitCost: 9500 },
-  { id: 11, name: 'Vinnie Paul', genre: 'Groove Metal', drums: 'ddrum Vinnie Paul Signature Series', snare: 'ddrum Vinnie Paul Signature', cymbals: 'Sabian AAX Series', kitCost: 6800 },
-  { id: 12, name: 'Charlie Benante', genre: 'Thrash Metal', drums: 'Tama Starclassic Maple', snare: 'Tama Charlie Benante Signature', cymbals: 'Sabian AAX Series', kitCost: 7500 },
-  { id: 13, name: 'Mike Portnoy', genre: 'Progressive Metal', drums: 'Tama Starclassic Maple', snare: 'Tama Mike Portnoy Signature', cymbals: 'Sabian HHX Series', kitCost: 11500 },
-  { id: 14, name: 'Danny Carey', genre: 'Progressive Metal', drums: 'Sonor SQ2 Heavy Beech', snare: 'Sonor Danny Carey Signature', cymbals: 'Paiste Signature Series', kitCost: 15000 },
-  { id: 15, name: 'Mario Duplantier', genre: 'Progressive Metal', drums: 'Tama Starclassic Maple', snare: 'Tama S.L.P.', cymbals: 'Meinl Byzance Series', kitCost: 10200 },
-  { id: 16, name: 'Brann Dailor', genre: 'Progressive Metal', drums: 'DW Collector\'s Series Maple', snare: 'DW Collector\'s Series', cymbals: 'Meinl Byzance Series', kitCost: 12800 },
-  { id: 17, name: 'Chris Adler', genre: 'Groove Metal', drums: 'Mapex Black Panther Design Lab', snare: 'Mapex Chris Adler Signature', cymbals: 'Meinl Byzance Brilliant Series', kitCost: 7200 },
-  { id: 18, name: 'Matt Halpern', genre: 'Progressive Metal', drums: 'Mapex Saturn V MH Exotic', snare: 'Mapex Black Panther', cymbals: 'Meinl Byzance Series', kitCost: 8500 },
-  { id: 19, name: 'Inferno', genre: 'Black Metal', drums: 'Pearl Reference Series', snare: 'Pearl Reference 14x6.5"', cymbals: 'Paiste RUDE Series', kitCost: 7800 },
-  { id: 20, name: 'Hellhammer', genre: 'Black Metal', drums: 'Pearl Masters Premium', snare: 'Pearl Sensitone', cymbals: 'Zildjian A Custom Series', kitCost: 7000 },
-  { id: 21, name: 'Pete Sandoval', genre: 'Death Metal', drums: 'Pearl Reference Series', snare: 'Pearl Reference 14x5.5"', cymbals: 'Paiste RUDE Series', kitCost: 7500 },
-  { id: 22, name: 'Art Cruz', genre: 'Groove Metal', drums: 'Tama Starclassic Walnut/Birch', snare: 'Tama S.L.P.', cymbals: 'Meinl Byzance Series', kitCost: 8800 },
-  { id: 23, name: 'Arin Ilejay', genre: 'Metalcore', drums: 'Pearl Reference Series', snare: 'Pearl Reference 14x6.5"', cymbals: 'Sabian AAX Series', kitCost: 7200 },
-  { id: 24, name: 'Navene Koperweis', genre: 'Progressive Metal', drums: 'DW Collector\'s Series Maple', snare: 'DW Collector\'s Series', cymbals: 'Zildjian K Custom Series', kitCost: 11000 },
-  { id: 25, name: 'Alex Bent', genre: 'Thrash Metal', drums: 'Tama Starclassic Maple', snare: 'Tama S.L.P.', cymbals: 'Paiste RUDE Series', kitCost: 8500 },
-  { id: 26, name: 'Shannon Larkin', genre: 'Nu Metal', drums: 'Pearl Reference Series', snare: 'Pearl Reference 14x6.5"', cymbals: 'Sabian AAX Series', kitCost: 7500 },
-  { id: 27, name: 'Raymond Herrera', genre: 'Industrial Metal', drums: 'Pearl Masters Premium', snare: 'Pearl Sensitone', cymbals: 'Zildjian Z Custom', kitCost: 7000 },
-  { id: 28, name: 'Morgan Ågren', genre: 'Progressive Metal', drums: 'Sonor SQ2 Heavy Beech', snare: 'Sonor SQ2', cymbals: 'Zildjian K Custom Series', kitCost: 10500 },
-  { id: 29, name: 'Igor Cavalera', genre: 'Thrash Metal', drums: 'Tama Starclassic Maple', snare: 'Tama S.L.P.', cymbals: 'Paiste RUDE Series', kitCost: 7800 },
-  { id: 30, name: 'Bill Ward', genre: 'Doom Metal', drums: 'Ludwig Classic Maple', snare: 'Ludwig Supraphonic', cymbals: 'Paiste 2002', kitCost: 6500 },
-  { id: 31, name: 'Nick Augusto', genre: 'Thrash Metal', drums: 'Pearl Reference Series', snare: 'Pearl Reference 14x5.5"', cymbals: 'Sabian AAX Series', kitCost: 7200 },
-  { id: 32, name: 'Matt Greiner', genre: 'Metalcore', drums: 'Tama Starclassic Maple', snare: 'Tama S.L.P.', cymbals: 'Meinl Byzance Series', kitCost: 9200 },
-  { id: 33, name: 'Blake Richardson', genre: 'Progressive Metal', drums: 'Pearl Masters Premium', snare: 'Pearl Sensitone', cymbals: 'Meinl Byzance Brilliant Series', kitCost: 8800 },
-  { id: 34, name: 'Ben Koller', genre: 'Metalcore', drums: 'Tama Starclassic Maple', snare: 'Tama S.L.P.', cymbals: 'Zildjian A Custom Series', kitCost: 7500 },
-  { id: 35, name: 'Flo Mounier', genre: 'Death Metal', drums: 'Pearl Masters Premium', snare: 'Pearl Reference 14x6.5"', cymbals: 'Sabian HHX Series', kitCost: 8200 },
-  { id: 37, name: 'Jason Bittner', genre: 'Thrash Metal', drums: 'Mapex Saturn V', snare: 'Mapex Black Panther', cymbals: 'Sabian AAX Series', kitCost: 7000 },
-  { id: 38, name: 'Martin Lopez', genre: 'Progressive Metal', drums: 'Sonor SQ2 Heavy Beech', snare: 'Sonor SQ2', cymbals: 'Meinl Byzance Series', kitCost: 10000 },
-  { id: 39, name: 'Travis Orbin', genre: 'Progressive Metal', drums: 'Pearl Reference Pure', snare: 'Pearl Reference 14x6.5"', cymbals: 'Sabian HHX Series', kitCost: 9500 },
-  { id: 40, name: 'Chris Turner', genre: 'Progressive Metal', drums: 'DW Collector\'s Series Maple', snare: 'DW Collector\'s Series', cymbals: 'Meinl Byzance Series', kitCost: 11500 },
-  { id: 41, name: 'Nicko McBrain', genre: 'Heavy Metal', drums: 'Sonor SQ2 Heavy Beech', snare: 'Sonor Nicko McBrain Signature', cymbals: 'Paiste Signature Series', kitCost: 11000 },
-  { id: 42, name: 'Scott Travis', genre: 'Heavy Metal', drums: 'Pearl Masters Premium', snare: 'Pearl Sensitone', cymbals: 'Paiste RUDE Series', kitCost: 7500 },
-  { id: 43, name: 'Mikkey Dee', genre: 'Heavy Metal', drums: 'Sonor SQ2 Heavy Beech', snare: 'Sonor SQ2', cymbals: 'Paiste RUDE Series', kitCost: 10500 },
-  { id: 44, name: 'Derek Roddy', genre: 'Death Metal', drums: 'Pearl Masters Premium', snare: 'Pearl Reference 14x5.5"', cymbals: 'Sabian HHX Series', kitCost: 8500 },
-  { id: 45, name: 'Dirk Verbeuren', genre: 'Thrash Metal', drums: 'Tama Starclassic Maple', snare: 'Tama S.L.P.', cymbals: 'Zildjian A Custom Series', kitCost: 8200 },
-  { id: 46, name: 'Frost', genre: 'Black Metal', drums: 'Pearl Masters Premium', snare: 'Pearl Reference 14x6.5"', cymbals: 'Paiste RUDE Series', kitCost: 7800 },
-  { id: 47, name: 'Gavin Harrison', genre: 'Progressive Metal', drums: 'Sonor SQ2 Heavy Beech', snare: 'Sonor Gavin Harrison Signature', cymbals: 'Meinl Byzance Series', kitCost: 12000 },
-  { id: 48, name: 'Abe Cunningham', genre: 'Nu Metal', drums: 'DW Collector\'s Series Maple', snare: 'DW Collector\'s Series', cymbals: 'Zildjian K Custom Series', kitCost: 10500 },
-  { id: 49, name: 'Richard Christy', genre: 'Death Metal', drums: 'Pearl Reference Pure', snare: 'Pearl Reference 14x5.5"', cymbals: 'Sabian AAX Series', kitCost: 7800 },
-  { id: 50, name: 'Aquiles Priester', genre: 'Power Metal', drums: 'Pearl Masters Premium', snare: 'Pearl Reference 14x6.5"', cymbals: 'Paiste Signature Series', kitCost: 8500 },
-  { id: 51, name: 'Paul Mazurkiewicz', genre: 'Death Metal', drums: 'Pearl Reference Series', snare: 'Pearl Reference 14x5.5"', cymbals: 'Zildjian A Custom Series', kitCost: 7200 },
-  { id: 52, name: 'Mike Mangini', genre: 'Progressive Metal', drums: 'Pearl Masters Premium Maple', snare: 'Pearl Reference 14x6.5"', cymbals: 'Sabian HHX Series', kitCost: 11000 },
-  { id: 53, name: 'Matt Garstka', genre: 'Progressive Metal', drums: 'Tama Starclassic Maple', snare: 'Tama S.L.P.', cymbals: 'Meinl Byzance Brilliant Series', kitCost: 9800 },
-  { id: 54, name: 'Daniel Erlandsson', genre: 'Melodic Death Metal', drums: 'Pearl Masters Premium', snare: 'Pearl Sensitone', cymbals: 'Paiste RUDE Series', kitCost: 7500 },
-  { id: 55, name: 'Jaska Raatikainen', genre: 'Melodic Death Metal', drums: 'Pearl Reference Series', snare: 'Pearl Reference 14x5.5"', cymbals: 'Zildjian A Custom Series', kitCost: 7800 },
-  { id: 56, name: 'Hannes Grossmann', genre: 'Technical Death Metal', drums: 'Tama Starclassic Maple', snare: 'Tama S.L.P.', cymbals: 'Meinl Byzance Series', kitCost: 8500 },
-  { id: 57, name: 'Daray', genre: 'Black Metal', drums: 'Pearl Reference Series', snare: 'Pearl Reference 14x6.5"', cymbals: 'Paiste RUDE Series', kitCost: 7500 },
-  { id: 58, name: 'Jocke Wallgren', genre: 'Melodic Death Metal', drums: 'Tama Starclassic Walnut/Birch', snare: 'Tama S.L.P.', cymbals: 'Zildjian K Custom Series', kitCost: 8800 },
-  { id: 59, name: 'Tim Yeung', genre: 'Death Metal', drums: 'Pearl Masters Premium', snare: 'Pearl Reference 14x5.5"', cymbals: 'Sabian AAX Series', kitCost: 7200 },
-  { id: 60, name: 'Kevin Talley', genre: 'Death Metal', drums: 'Pearl Reference Series', snare: 'Pearl Reference 14x6.5"', cymbals: 'Paiste RUDE Series', kitCost: 7500 },
-  { id: 61, name: 'Isaac Lamb', genre: 'Progressive Metal', drums: 'DW Collector\'s Series Maple', snare: 'DW Collector\'s Series', cymbals: 'Meinl Byzance Series', kitCost: 11000 },
-  { id: 62, name: 'Ryan Van Poederooyen', genre: 'Progressive Metal', drums: 'Tama Starclassic Maple', snare: 'Tama S.L.P.', cymbals: 'Sabian HHX Series', kitCost: 9200 },
+const NOT_DOCUMENTED = 'Not publicly documented';
+
+// `kitCost` is an estimated total-rig price with no canonical source
+// elsewhere in the codebase, so it stays a standalone lookup keyed by name.
+// `id`/`genre` are this stats page's own roster bookkeeping; `id` must match
+// the canonical drummer id (consumed by the frontend's onSelectDrummer) —
+// Ryan Van Poederooyen was previously mis-numbered 62, which pointed the
+// /studies profile link at the wrong drummer (canonical id 36).
+const ROSTER = [
+  { id: 1, name: 'Lars Ulrich', genre: 'Thrash Metal', kitCost: 8500 },
+  { id: 2, name: 'Joey Jordison', genre: 'Nu Metal', kitCost: 9200 },
+  { id: 3, name: 'Gene Hoglan', genre: 'Death Metal', kitCost: 7800 },
+  { id: 4, name: 'Dave Lombardo', genre: 'Thrash Metal', kitCost: 7500 },
+  { id: 5, name: 'Tomas Haake', genre: 'Progressive Metal', kitCost: 12500 },
+  { id: 6, name: 'George Kollias', genre: 'Death Metal', kitCost: 8200 },
+  { id: 7, name: 'Eloy Casagrande', genre: 'Thrash Metal', kitCost: 9800 },
+  { id: 8, name: 'Ray Luzier', genre: 'Nu Metal', kitCost: 8500 },
+  { id: 9, name: 'John Otto', genre: 'Nu Metal', kitCost: 7200 },
+  { id: 10, name: 'Jay Weinberg', genre: 'Nu Metal', kitCost: 9500 },
+  { id: 11, name: 'Vinnie Paul', genre: 'Groove Metal', kitCost: 6800 },
+  { id: 12, name: 'Charlie Benante', genre: 'Thrash Metal', kitCost: 7500 },
+  { id: 13, name: 'Mike Portnoy', genre: 'Progressive Metal', kitCost: 11500 },
+  { id: 14, name: 'Danny Carey', genre: 'Progressive Metal', kitCost: 15000 },
+  { id: 15, name: 'Mario Duplantier', genre: 'Progressive Metal', kitCost: 10200 },
+  { id: 16, name: 'Brann Dailor', genre: 'Progressive Metal', kitCost: 12800 },
+  { id: 17, name: 'Chris Adler', genre: 'Groove Metal', kitCost: 7200 },
+  { id: 18, name: 'Matt Halpern', genre: 'Progressive Metal', kitCost: 8500 },
+  { id: 19, name: 'Inferno', genre: 'Black Metal', kitCost: 7800 },
+  { id: 20, name: 'Hellhammer', genre: 'Black Metal', kitCost: 7000 },
+  { id: 21, name: 'Pete Sandoval', genre: 'Death Metal', kitCost: 7500 },
+  { id: 22, name: 'Art Cruz', genre: 'Groove Metal', kitCost: 8800 },
+  { id: 23, name: 'Arin Ilejay', genre: 'Metalcore', kitCost: 7200 },
+  { id: 24, name: 'Navene Koperweis', genre: 'Progressive Metal', kitCost: 11000 },
+  { id: 25, name: 'Alex Bent', genre: 'Thrash Metal', kitCost: 8500 },
+  { id: 26, name: 'Shannon Larkin', genre: 'Nu Metal', kitCost: 7500 },
+  { id: 27, name: 'Raymond Herrera', genre: 'Industrial Metal', kitCost: 7000 },
+  { id: 28, name: 'Morgan Ågren', genre: 'Progressive Metal', kitCost: 10500 },
+  { id: 29, name: 'Igor Cavalera', genre: 'Thrash Metal', kitCost: 7800 },
+  { id: 30, name: 'Bill Ward', genre: 'Doom Metal', kitCost: 6500 },
+  { id: 31, name: 'Nick Augusto', genre: 'Thrash Metal', kitCost: 7200 },
+  { id: 32, name: 'Matt Greiner', genre: 'Metalcore', kitCost: 9200 },
+  { id: 33, name: 'Blake Richardson', genre: 'Progressive Metal', kitCost: 8800 },
+  { id: 34, name: 'Ben Koller', genre: 'Metalcore', kitCost: 7500 },
+  { id: 35, name: 'Flo Mounier', genre: 'Death Metal', kitCost: 8200 },
+  { id: 37, name: 'Jason Bittner', genre: 'Thrash Metal', kitCost: 7000 },
+  { id: 38, name: 'Martin Lopez', genre: 'Progressive Metal', kitCost: 10000 },
+  { id: 39, name: 'Travis Orbin', genre: 'Progressive Metal', kitCost: 9500 },
+  { id: 40, name: 'Chris Turner', genre: 'Progressive Metal', kitCost: 11500 },
+  { id: 41, name: 'Nicko McBrain', genre: 'Heavy Metal', kitCost: 11000 },
+  { id: 42, name: 'Scott Travis', genre: 'Heavy Metal', kitCost: 7500 },
+  { id: 43, name: 'Mikkey Dee', genre: 'Heavy Metal', kitCost: 10500 },
+  { id: 44, name: 'Derek Roddy', genre: 'Death Metal', kitCost: 8500 },
+  { id: 45, name: 'Dirk Verbeuren', genre: 'Thrash Metal', kitCost: 8200 },
+  { id: 46, name: 'Frost', genre: 'Black Metal', kitCost: 7800 },
+  { id: 47, name: 'Gavin Harrison', genre: 'Progressive Metal', kitCost: 12000 },
+  { id: 48, name: 'Abe Cunningham', genre: 'Nu Metal', kitCost: 10500 },
+  { id: 49, name: 'Richard Christy', genre: 'Death Metal', kitCost: 7800 },
+  { id: 50, name: 'Aquiles Priester', genre: 'Power Metal', kitCost: 8500 },
+  { id: 51, name: 'Paul Mazurkiewicz', genre: 'Death Metal', kitCost: 7200 },
+  { id: 52, name: 'Mike Mangini', genre: 'Progressive Metal', kitCost: 11000 },
+  { id: 53, name: 'Matt Garstka', genre: 'Progressive Metal', kitCost: 9800 },
+  { id: 54, name: 'Daniel Erlandsson', genre: 'Melodic Death Metal', kitCost: 7500 },
+  { id: 55, name: 'Jaska Raatikainen', genre: 'Melodic Death Metal', kitCost: 7800 },
+  { id: 56, name: 'Hannes Grossmann', genre: 'Technical Death Metal', kitCost: 8500 },
+  { id: 57, name: 'Daray', genre: 'Black Metal', kitCost: 7500 },
+  { id: 58, name: 'Jocke Wallgren', genre: 'Melodic Death Metal', kitCost: 8800 },
+  { id: 59, name: 'Tim Yeung', genre: 'Death Metal', kitCost: 7200 },
+  { id: 60, name: 'Kevin Talley', genre: 'Death Metal', kitCost: 7500 },
+  { id: 61, name: 'Isaac Lamb', genre: 'Progressive Metal', kitCost: 11000 },
+  { id: 36, name: 'Ryan Van Poederooyen', genre: 'Progressive Metal', kitCost: 9200 },
 ];
+
+const canonicalByName = new Map(canonicalDrummers.map((d) => [d.name, d]));
+
+const drummers = ROSTER.map((entry) => {
+  const gear = (canonicalByName.get(entry.name) || {}).gear || {};
+  return {
+    ...entry,
+    drums: gear.drums || NOT_DOCUMENTED,
+    snare: gear.snare || NOT_DOCUMENTED,
+    cymbals: gear.cymbals || NOT_DOCUMENTED,
+  };
+});
 
 // Calculate statistics
 function calculateStats() {
@@ -194,7 +215,7 @@ function calculateStats() {
   };
 }
 
-module.exports = async (req, res) => {
+export default async function handler(req, res) {
   // CORS headers
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
@@ -215,4 +236,4 @@ module.exports = async (req, res) => {
     console.error('Error calculating stats:', error);
     return res.status(500).json({ error: 'Failed to calculate statistics' });
   }
-};
+}

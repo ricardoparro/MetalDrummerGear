@@ -2317,8 +2317,8 @@ Nick Barker's 2003 setup behind Dimmu Borgir's Death Cult Armageddon — his fin
 
 **Price Evolution:**
 - 1999: $3,000 (Joins Dimmu Borgir) — Departs Cradle of Filth and joins Norwegian symphonic black metal band Dimmu Borgir, continuing on Sonor
-- 2003: $6,670 (Original Purchase) — Special-order Sonor kit built for the Death Cult Armageddon era
-- 2026: $11,876 (Current adjusted) — Inflation-adjusted value of the 2003 Death Cult Armageddon-era Sonor rig
+- 2003: $6,400 (Original Purchase) — Special-order Sonor kit built for the Death Cult Armageddon era
+- 2026: $11,395 (Current adjusted) — Inflation-adjusted value of the 2003 Death Cult Armageddon-era Sonor rig
 
 **Sources:**
 - Sonor Artist Roster — Nick Barker (2026)
@@ -3125,7 +3125,7 @@ Waltteri Väyrynen's setup around Opeth's The Last Will and Testament (2024) —
 | Morgan Ågren | Epicloud (2012) | $11,448 | ~$16,334 |
 | Navene Koperweis | Weightless (2011) | $5,828 | ~$8,316 |
 | Nick Augusto | In Waves (2011) | $9,654 | ~$14,062 |
-| Nick Barker | Death Cult Armageddon (2003) | $6,670 | ~$11,876 |
+| Nick Barker | Death Cult Armageddon (2003) | $6,400 | ~$11,395 |
 | Nick Menza | Rust in Peace (1990) | $1,898 | ~$4,757 |
 | Nicko McBrain | Powerslave (1984) | $3,891 | ~$12,268 |
 | Paul Bostaph | Repentless (2015) | $5,643 | ~$7,800 |

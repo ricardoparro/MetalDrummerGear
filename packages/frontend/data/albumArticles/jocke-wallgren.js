@@ -82,10 +82,9 @@ export const articles = {
     "snare": {
       "title": "Snare: The Backbeat That Drives Viking Metal Anthems",
       "brand": "Pearl",
-      "model": "Pearl Reference 14\" x 6.5\" Brass",
+      "model": "Pearl Reference Pure 14\" x 6.5\"",
       "size": "14\" x 6.5\"",
-      "shell": "Brass",
-      "description": "In the Amon Amarth context, the snare drum must fulfill two distinct functions: explosive, cutting backbeats on the downbeats of anthemic verse-chorus structures, and controlled, precise strokes in the intricate fills that connect structural sections of the band's epic-length compositions.\n\nJocke Wallgren's snare is a Pearl Reference brass shell, chosen for the brightness and projection needed in a mix where Johan Söderberg and Olavi Mikkeli's guitars saturate the mid-low frequency range. A bright, assertive brass snare cuts through that environment without requiring the drum to be mixed overbearingly loud in relation to the rest of the kit — the metal's natural resonance provides presence through frequency separation rather than raw volume.\n\nThe 6.5\" depth gives the snare sufficient body to feel full and substantial in large rooms, while the 14\" diameter keeps the fundamental pitch high enough to articulate clearly over the bass-heavy foundation the double kick and guitars create. In the live Amon Amarth mix — particularly at the festival headline slots the band regularly occupies — this snare character ensures the backbeat registers across every dynamic range from quiet verse passages to full-power chorus explosions.\n\nThe snare is also critical for Wallgren's ghost note work. Amon Amarth's arrangements often employ syncopated rhythmic patterns between the kick and snare that require the snare to produce audible ghost strokes at low dynamics — the brass shell responds to light touch with sufficient tone to register in the mix, supporting the polyrhythmic elements that appear in songs like \"Destroyer of the Universe\" and the groove-driven passages of Jomsviking.",
+      "description": "In the Amon Amarth context, the snare drum must fulfill two distinct functions: explosive, cutting backbeats on the downbeats of anthemic verse-chorus structures, and controlled, precise strokes in the intricate fills that connect structural sections of the band's epic-length compositions.\n\nJocke Wallgren's snare matches his Pearl Reference Pure kit; the specific snare model and shell material have not been independently verified. Whatever the exact spec, the kit's documented endorsement profile and the size of the drum give the backbeat enough body to feel full and substantial in large rooms while articulating clearly over the bass-heavy foundation the double kick and guitars create. In the live Amon Amarth mix — particularly at the festival headline slots the band regularly occupies — the snare registers across every dynamic range from quiet verse passages to full-power chorus explosions.\n\nThe snare is also critical for Wallgren's ghost note work. Amon Amarth's arrangements often employ syncopated rhythmic patterns between the kick and snare that require the snare to produce audible ghost strokes at low dynamics, supporting the polyrhythmic elements that appear in songs like \"Destroyer of the Universe\" and the groove-driven passages of Jomsviking.",
       "tuningSetting": "Medium-high for cut and projection in large live environments",
       "heads": "Evans Coated G1 (batter), Evans Hazy 300 Snare Side (resonant)",
       "estimatedValue": "$400–800"
@@ -196,7 +195,7 @@ export const articles = {
         "description": "Joining Amon Amarth ahead of Jomsviking and establishing the drum sound for the post-Fredrik Andersson era, then carrying it through Berserker's anthemic death metal.",
         "gear": {
           "drums": "Pearl Reference Pure (fully configured)",
-          "snare": "Pearl Reference 14\" x 6.5\" Brass snare",
+          "snare": "Pearl Reference Pure 14\" x 6.5\" — specific snare model not independently verified",
           "cymbals": "Zildjian A Custom & K Custom series",
           "pedals": "Pearl Demon Drive double bass pedal"
         },
@@ -211,7 +210,7 @@ export const articles = {
         "description": "Current era — Amon Amarth at peak commercial success, Wallgren's most refined setup.",
         "gear": {
           "drums": "Pearl Reference Pure (fully evolved touring configuration)",
-          "snare": "Pearl Reference 14\" x 6.5\" Brass — current specification",
+          "snare": "Pearl Reference Pure 14\" x 6.5\" — specific snare model not independently verified",
           "cymbals": "Zildjian A Custom & K Custom full setup",
           "pedals": "Pearl Demon Drive double bass pedal"
         },
@@ -329,10 +328,9 @@ export const articles = {
     "snare": {
       "title": "Snare: Cutting Through Blast Beats and Gallop Alike",
       "brand": "Pearl",
-      "model": "Pearl Reference 14\" x 6.5\" Brass",
+      "model": "Pearl Reference Pure 14\" x 6.5\"",
       "size": "14\" x 6.5\"",
-      "shell": "Brass",
-      "description": "Berserker's title track asks more of Wallgren's snare than most Amon Amarth material: the extended blast-beat sections require the drum to stay articulate at sustained high stroke rates without losing definition, while the Viking groove sections that follow need the same snare to deliver a fatter, more deliberate backbeat. His Pearl Reference brass snare — bright, cutting, and consistent whether struck rapidly or on the beat — handles both without a setup change mid-song.\n\nJay Ruston's production leaned on the snare's natural brightness rather than heavy post-processing, keeping the crack of each hit legible against Johan Söderberg and Olavi Mikkeli's dense guitar tracking. At 14\" x 6.5\", the drum has enough body to feel substantial in the album's gallop sections and enough high-frequency presence to punch through the blast-beat passages where every stroke needs to register distinctly.",
+      "description": "Berserker's title track asks more of Wallgren's snare than most Amon Amarth material: the extended blast-beat sections require the drum to stay articulate at sustained high stroke rates without losing definition, while the Viking groove sections that follow need the same snare to deliver a fatter, more deliberate backbeat. His snare matches his Pearl Reference Pure kit — the specific snare model and shell material have not been independently verified — and handles both demands without a setup change mid-song.\n\nJay Ruston's production kept the crack of each hit legible against Johan Söderberg and Olavi Mikkeli's dense guitar tracking. At 14\" x 6.5\", the drum has enough body to feel substantial in the album's gallop sections and enough presence to punch through the blast-beat passages where every stroke needs to register distinctly.",
       "tuningSetting": "Medium-high for cut and projection across both blast-beat and gallop sections",
       "heads": "Evans Coated G1 (batter), Evans Hazy 300 Snare Side (resonant)",
       "estimatedValue": "$400–800"
@@ -524,10 +522,9 @@ export const articles = {
     "snare": {
       "title": "Snare: Precision Backbeat for a More Controlled Record",
       "brand": "Pearl",
-      "model": "Pearl Reference 14\" x 6.5\" Brass",
+      "model": "Pearl Reference Pure 14\" x 6.5\"",
       "size": "14\" x 6.5\"",
-      "shell": "Brass",
-      "description": "The Great Heathen Army's pull toward composed groove over blast-beat extremity puts more weight on Wallgren's snare as a precision instrument rather than a high-speed endurance tool. His Pearl Reference brass snare — the same 14\" x 6.5\" configuration he has used since Jomsviking — delivers the bright, cutting backbeat that anchors tracks like \"Get in the Ring\" and \"Oden Owns You All,\" where the snare's role is to lock precisely with the gallop rather than sustain rapid-fire patterns.\n\nAndy Sneap's production, recorded at Backstage Productions in Derbyshire, favors a slightly more natural, less processed snare tone than Jay Ruston's Berserker mix — consistent with the album's overall step back toward the band's melodic death metal origins. The snare's ghost-note work is also more prominent on this record, filling the space between backbeats in the album's more restrained verse sections.",
+      "description": "The Great Heathen Army's pull toward composed groove over blast-beat extremity puts more weight on Wallgren's snare as a precision instrument rather than a high-speed endurance tool. His snare — the same 14\" x 6.5\" configuration he has used since Jomsviking, matching his Pearl Reference Pure kit — delivers the backbeat that anchors tracks like \"Get in the Ring\" and \"Oden Owns You All,\" where the snare's role is to lock precisely with the gallop rather than sustain rapid-fire patterns. The specific snare model and shell material have not been independently verified.\n\nAndy Sneap's production, recorded at Backstage Productions in Derbyshire, favors a slightly more natural, less processed snare tone than Jay Ruston's Berserker mix — consistent with the album's overall step back toward the band's melodic death metal origins. The snare's ghost-note work is also more prominent on this record, filling the space between backbeats in the album's more restrained verse sections.",
       "tuningSetting": "Medium-high for cut and precision in groove-locked backbeat patterns",
       "heads": "Evans Coated G1 (batter), Evans Hazy 300 Snare Side (resonant)",
       "estimatedValue": "$400–800"

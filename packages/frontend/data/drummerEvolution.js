@@ -20570,9 +20570,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'Pearl Reference 14x6.5" Brass',
-            details: 'Brass shell, bright and cutting',
-            notes: 'Delivers the crack needed to project through Amon Amarth\'s dual-guitar arrangements.',
+            item: 'Pearl Reference Pure 14x6.5"',
+            details: 'Matching shell from the Pearl Reference Pure kit',
+            notes: 'No separate snare model independently verified.',
             change: CHANGE_TYPES.NEW,
           },
           cymbals: {
@@ -20636,7 +20636,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           snare: {
-            item: 'Pearl Reference 14x6.5" Brass',
+            item: 'Pearl Reference Pure 14x6.5"',
             details: 'Unchanged',
             notes: 'No change from the previous era.',
             change: null,
@@ -20687,7 +20687,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Jocke Wallgren play?',
-        a: 'Jocke Wallgren plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare, Zildjian A Custom & K Custom Series cymbals, and a Pearl Demon Drive double pedal — a rig established when he joined Amon Amarth in 2016 and unchanged through The Great Heathen Army (2022).',
+        a: 'Jocke Wallgren plays a Pearl Reference Pure kit (the specific snare model has not been independently verified) with Zildjian A Custom & K Custom Series cymbals and a Pearl Demon Drive double pedal — a rig established when he joined Amon Amarth in 2016 and unchanged through The Great Heathen Army (2022).',
       },
       {
         q: 'Was Jocke Wallgren in another band before Amon Amarth?',

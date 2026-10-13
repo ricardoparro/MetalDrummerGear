@@ -8405,12 +8405,11 @@ export const GEAR_PRICE_HISTORY = {
       },
       snare: {
         item: 'Pearl Reference Pure 14"x6.5"',
-        model: 'Maple/birch multi-core shell',
-        specs: '14" x 6.5" maple/birch multi-core shell',
+        specs: '14" x 6.5" — specific shell material not independently verified',
         originalPrice: 400,
         year: 2016,
         source: 'Pearl Reference Pure snare catalog pricing 2016',
-        notes: "Matched the main kit's shell material for tonal consistency, carried over from the Reference Pure platform Wallgren adopted joining Pearl in 2016.",
+        notes: "Matches the main kit's Reference Pure platform Wallgren adopted joining Pearl in 2016; the snare's own shell material has not been independently verified.",
         vintageValue2026: 350,
         modernEquivalent: {
           item: 'Pearl Reference Pure 14"x6.5" (Current)',

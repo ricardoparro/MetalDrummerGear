@@ -359,10 +359,10 @@ const drummers = [
     genre: 'Heavy Metal / Thrash Metal / Technical Death Metal',
     image: '/images/drummers/alex-bent.webp',
     gear: {
-      drums: 'Pearl Reference Pure Series',
-      snare: 'Pearl Reference 14x5" Brass',
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama Starclassic Maple 14x5"',
       cymbals: 'Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China)',
-      hardware: 'Axis A Longboard Double Pedal, Pearl D-3000 Throne',
+      hardware: 'Axis A Longboard Double Pedal',
       sticks: 'Vic Firth American Classic 5B',
       heads: 'Remo'
     }

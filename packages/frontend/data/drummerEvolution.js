@@ -5148,10 +5148,10 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Masters Custom',
-            details: 'Maple shells: dual 24" kicks, 10"/12"/14"/16"/18" toms',
-            notes: 'Switched to Pearl for the Vulgar Display era — maple shells provided the warmer, fuller tone that producer Terry Date used to create one of the era\'s most iconic drum sounds. The massive kick drum tone on "Fucking Hostile" and "Walk" was born from this setup.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama',
+            details: 'Dual 24" kicks, 10"/12"/14"/16"/18" toms',
+            notes: 'Continued playing Tama through Vulgar Display of Power and Far Beyond Driven — the same brand that powered Cowboys from Hell. The switch to Pearl didn\'t come until 1996, with The Great Southern Trendkill.',
+            change: null,
           },
           snare: {
             item: 'Pearl Free-Floating 14"×8"',
@@ -5198,7 +5198,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Brand switch to Pearl Masters Custom maple',
+          'Tama kit carried over from Cowboys from Hell — Pearl switch still years away',
           'Signature 14"×8" deep steel snare — no snare sounded like it',
           'Far Beyond Driven (1994) debuts at #1 on Billboard',
           'ddrum triggers added for arena-scale live sound',

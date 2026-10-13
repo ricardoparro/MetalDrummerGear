@@ -9482,30 +9482,6 @@ export const DRUMMER_EVOLUTION = {
         image: null,
 
         gear: {
-          drums: {
-            item: 'Sonor Force Series',
-            details: 'Beech/maple shells: 20" kick, 10"/12"/14" toms',
-            notes: 'Sonor was the natural choice for a young Scandinavian drummer — durable, musical beech/maple shells from the German manufacturer with strong European distribution.',
-            change: null,
-          },
-          snare: {
-            item: 'Sonor 14"×5" Beech',
-            details: 'Beech shell, warm and open',
-            notes: 'Warm beech snare suited to the diverse tonal demands of Ågren\'s polyrhythmic explorations across jazz, rock, and avant-garde contexts.',
-            change: null,
-          },
-          cymbals: {
-            item: 'Paiste 2002 Series',
-            details: '13" hi-hats, 16"/18" crashes, 20" ride',
-            notes: 'Paiste 2002 — a Scandinavian favorite and widely respected in jazz-fusion contexts for their controlled, balanced tone.',
-            change: null,
-          },
-          hardware: {
-            item: 'Sonor hardware with single kick',
-            details: 'Standard European professional hardware',
-            notes: 'Single kick configuration in early years — the extreme double bass of later setups was not yet part of the picture.',
-            change: null,
-          },
           sticks: {
             item: 'Vic Firth 5A',
             details: 'Light hickory for control and nuance',
@@ -9529,7 +9505,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Self-taught drumming begins in Umeå, Sweden (early 1980s)',
           'Met Mats Öberg as children — the founding Mats/Morgan musical partnership',
-          'Sonor Force kit established as early career foundation',
+          'No documented drum or cymbal brand endorsement during this self-taught period',
           'Polyrhythmic and metric modulation vocabulary developed through intensive self-study',
           'Early Scandinavian underground recognition',
         ],

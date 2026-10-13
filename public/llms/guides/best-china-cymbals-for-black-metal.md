@@ -12,7 +12,7 @@ Black metal drummers looking for raw, trashy accent cymbals built for blast-beat
 
 Black metal's aesthetic runs on raw, unpolished chaos, and a china cymbal fits that ethos better than any other cymbal in the kit. A china explodes into a short, trashy wash that blurs into the tremolo-picked guitars and blast beats rather than standing cleanly apart from them.
 
-Hellhammer has driven Mayhem's most extreme material with a raw, hammered 18" Paiste RUDE China. Frost pairs an 18" Zildjian K China with his A Custom crash setup across Satyricon and 1349, giving his blast-beat-driven playing a sharper, more cutting accent. Inferno's Paiste setup with Behemoth layers a china alongside a dedicated 14" Blast China for a wall of controlled noise.
+Hellhammer has driven Mayhem's most extreme material with a raw, hammered 18" Paiste RUDE China. Frost of Satyricon and 1349 relies on an 18" Zildjian A Series china, giving his blast-beat-driven playing a sharper, more cutting accent. Inferno's Paiste setup with Behemoth layers a china alongside a dedicated 14" Blast China for a wall of controlled noise.
 
 ---
 
@@ -32,10 +32,10 @@ A heavily hammered, unlathed cymbal producing a raw, trashy explosion that's def
 
 ---
 
-### 2. Zildjian K China — Sharpest Cut
+### 2. Zildjian A Series China — Sharpest Cut
 
 - **Size:** 18"
-- **Alloy:** B20 Bronze, Dark
+- **Alloy:** B20 Bronze, Bright
 - **Price range:** €210–€260
 - **Best for:** Technical, blast-beat-driven black metal
 
@@ -66,7 +66,7 @@ Layers alongside a smaller Blast China for a wall of trashy noise rather than a 
 - Darker, more chaotic, more unpredictable trash
 - Preferred by Hellhammer across decades of Mayhem's most extreme material
 
-**Standard Finish China (Zildjian K, Paiste standard):**
+**Standard Finish China (Zildjian A Series, Paiste standard):**
 - Sharper, more cutting attack that stays readable at extreme tempo
 - Preferred by Frost across Satyricon and 1349's technical black metal
 
@@ -86,7 +86,7 @@ Yes — china cymbals are a core part of the black metal cymbal setup live and i
 A crash rings out cleanly with a longer decay. A china produces a raw, dirtier, more chaotic wash that blurs into black metal's blast beats and tremolo-picked riffs rather than standing cleanly apart from them.
 
 **Should I use a raw/unlathed china for black metal?**
-Raw, unlathed finishes like Paiste's RUDE line produce a darker, more chaotic trash matching black metal's cold, unpolished aesthetic — the choice Hellhammer has used across decades of Mayhem's material. Standard finishes like Zildjian's K China cut more sharply for technical playing.
+Raw, unlathed finishes like Paiste's RUDE line produce a darker, more chaotic trash matching black metal's cold, unpolished aesthetic — the choice Hellhammer has used across decades of Mayhem's material. Standard finishes like Zildjian's A Series cut more sharply for technical playing.
 
 **What's the best budget china cymbal for black metal?**
 The Zildjian ZBT China (€70–90) delivers a genuinely trashy B8 bronze sound at a true beginner price. The Sabian XSR Fast China (€100–130) brings B20 bronze to a mid-range price with fast blast-beat response.

@@ -132,14 +132,14 @@ Hellhammer's willingness to play barefoot for direct pedal feedback underlines h
 **Material:** Custom Maple  
 **Rating:** 4.7/5
 
-Frost developed his signature Sonor SQ2 custom kit during Satyricon's commercial peak, and it has become the definitive Frost platform across two decades of Norwegian black and symphonic-adjacent metal. Paired with a Sonor SQ2 14"x6" maple snare, Zildjian A Custom and K Custom Dark cymbals, and a Sonor Perfect Balance pedal, the setup is built around dynamic control — knowing when to blast and when to let space define a track.
+Frost developed his signature Sonor SQ2 custom kit during Satyricon's commercial peak, and it has become the definitive Frost platform across two decades of Norwegian black and symphonic-adjacent metal. Paired with a Sonor SQ2 14"x6" maple snare, Zildjian A Series cymbals, and a Sonor Perfect Balance pedal, the setup is built around dynamic control — knowing when to blast and when to let space define a track.
 
 That dynamic sensitivity is exactly what symphonic metal's orchestral arrangements demand: a kit that can execute extreme blast beats one moment and pull back into theatrical restraint the next, without sacrificing tone in either mode.
 
 **Pros:**
 - Frost's signature setup — the genre's technical precision benchmark for two decades
 - Fully custom SQ2 specification for exact dynamic control
-- Zildjian A Custom/K Custom Dark pairing suited to both blast beats and restraint
+- Zildjian A Series cymbals suited to both blast beats and restraint
 - Sonor Perfect Balance pedal for consistent extreme-tempo response
 - Proven across Satyricon and 1349's most acclaimed recordings
 
@@ -279,7 +279,7 @@ Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14"x5.
 Hellhammer plays a Pearl Reference Series kit — flagship maple shells he upgraded to during his dual Mayhem/Dimmu Borgir period beginning in 1999 — paired with Zildjian A Custom hi-hats and crashes, a Z Custom Dark Ride, and a Pearl Demon Drive double pedal.
 
 **What drum kit does Frost from Satyricon use?**
-Frost plays a Sonor SQ2 Series custom kit, his signature setup since the mid-2000s, paired with a Sonor SQ2 14"x6" maple snare, Zildjian A Custom and K Custom Dark cymbals, and a Sonor Perfect Balance pedal.
+Frost plays a Sonor SQ2 Series custom kit, his signature setup since the mid-2000s, paired with a Sonor SQ2 14"x6" maple snare, Zildjian A Series cymbals, and a Sonor Perfect Balance pedal.
 
 **Why do symphonic metal drummers need a different kit than pure black or death metal drummers?**
 Symphonic metal drumming must serve extreme metal's blast-beat aggression and full orchestral or choir arrangements simultaneously. That requires a kit with both the durability and projection for sustained extreme tempos and the dynamic sensitivity to pull back and support keyboard, string, and choir arrangements without overwhelming them.

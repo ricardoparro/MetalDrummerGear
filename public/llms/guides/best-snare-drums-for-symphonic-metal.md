@@ -105,7 +105,7 @@ Paired with his Pearl Masterworks Stadium Exotic kit and Paiste RUDE & 2002 cymb
 
 Frost's Sonor SQ2 14"x6" maple snare is his unchanged signature sound across two decades of Sonor endorsement, giving Satyricon and 1349 a warmer, more musical crack than Daray's brighter brass alternative. The slightly deeper 6" shell adds body without sacrificing the cut needed to stay audible during Frost's sustained blast-beat passages.
 
-Matched to his Sonor SQ2 custom kit and Zildjian A Custom/K Custom Dark cymbals, the snare is built around dynamic control — a warm, resonant voice that still holds up when the material demands maximum extremity.
+Matched to his Sonor SQ2 custom kit and Zildjian A Series cymbals, the snare is built around dynamic control — a warm, resonant voice that still holds up when the material demands maximum extremity.
 
 **Pros:**
 - Frost's signature setup — the genre's technical precision benchmark for two decades
@@ -279,7 +279,7 @@ Shell material splits symphonic metal's leading drummers into three clear camps.
 Daray plays a Pearl Reference 14"x5.5" Brass snare, part of the Pearl Masterworks Stadium Exotic rig established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026). The brass shell is chosen specifically for brightness that survives full-orchestra and choir arrangements.
 
 **What snare drum does Frost from Satyricon use?**
-Frost plays a Sonor SQ2 14"x6" maple snare, his unchanged signature sound across two decades of Sonor endorsement, matched to his Sonor SQ2 custom kit and Zildjian A Custom/K Custom Dark cymbals.
+Frost plays a Sonor SQ2 14"x6" maple snare, his unchanged signature sound across two decades of Sonor endorsement, matched to his Sonor SQ2 custom kit and Zildjian A Series cymbals.
 
 **Why do symphonic metal drummers need a different snare than pure black or death metal drummers?**
 Symphonic metal snares have to stay clearly audible underneath a full orchestra, choir, and keyboard arrangement at every tempo, from a stately march to a 280 BPM blast beat. That requires a snare with both the brightness to cut through dense orchestration and the dynamic sensitivity to respond convincingly during quieter, more theatrical passages.

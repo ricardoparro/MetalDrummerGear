@@ -24532,7 +24532,7 @@ Build the punch. Hold the low end.`
       title: "What Bass Drum Setup Do Metalcore Drummers Actually Use?",
       content: `Metalcore's bass drum has to do two contradictory jobs: land a single, crushing hit that anchors a breakdown with maximum weight, then switch instantly into fast, technical double-bass runs beneath dense, palm-muted guitar riffing. That range demands a shell tuned for punchy, focused low end rather than boomy sustain - every kick has to stay articulate whether it's a slow half-time stomp or a rapid sixteenth-note burst.
 
-Nick Augusto powered Trivium's aggressive, thrash-influenced metalcore on a Pearl Reference Pure bass drum, its thin 6-ply maple shell built for speed and clarity through "In Waves" and "Vengeance Falls." Art Cruz drives Lamb of God's modern groove-metalcore hybrid attack on a Ludwig kit anchored by his signature 14x6.5" Black Beauty snare, delivering the weighted, punchy low end that anchors the band's breakdown-heavy riffing. Travis Orbin recorded Periphery's genre-defining self-titled debut on SJC Custom Drums, building the trigger-augmented, polyrhythmic low end that helped shape djent-adjacent metalcore.
+Nick Augusto powered Trivium's aggressive, thrash-influenced metalcore on a Pearl Reference Pure bass drum, its thin 6-ply maple shell built for speed and clarity through "In Waves" and "Vengeance Falls." Art Cruz drives Lamb of God's modern groove-metalcore hybrid attack on a Ludwig kit anchored by his signature 14x6.5" Black Beauty snare, delivering the weighted, punchy low end that anchors the band's breakdown-heavy riffing. Travis Orbin ran SJC Custom Drums during his 2006-2009 run as Periphery's pre-recording-era drummer, building the trigger-augmented, polyrhythmic low end that helped shape djent-adjacent metalcore before Matt Halpern recorded the band's 2010 self-titled debut.
 
 This guide breaks down exactly what makes a bass drum work for metalcore - shell sensitivity, breakdown weight, and durability - and which specific shells the genre's most demanding drummers actually play.`,
       keyPoints: [
@@ -24680,9 +24680,9 @@ The same Ludwig setup is anchored by Cruz's signature 14x6.5" Black Beauty snare
           tier: "premium",
           material: "Maple (custom-built), 22\"x18\"",
 
-          description: `Travis Orbin recorded Periphery's genre-defining self-titled debut on an SJC Custom bass drum, helping build the trigger-augmented, polyrhythmic low end that shaped djent-adjacent metalcore. As a fully custom builder, SJC lets drummers dial in exact shell specs and finish for their playing style and studio setup.
+          description: `Travis Orbin ran an SJC Custom bass drum during his 2006-2009 run as Periphery's pre-recording-era drummer, helping build the trigger-augmented, polyrhythmic low end that shaped djent-adjacent metalcore. As a fully custom builder, SJC lets drummers dial in exact shell specs and finish for their playing style and studio setup.
 
-The result on Periphery's debut was a bass drum tone precise enough to sit cleanly alongside layered samples and triggers while still delivering real acoustic punch underneath.`,
+Orbin carried that same low end into his solo and session work after Matt Halpern took over and recorded Periphery's 2010 self-titled debut — a bass drum tone precise enough to sit cleanly alongside layered samples and triggers while still delivering real acoustic punch underneath.`,
 
           pros: [
             "Travis Orbin's Periphery debut bass drum - genre-defining djent-adjacent metalcore",
@@ -24825,7 +24825,7 @@ The result on Periphery's debut was a bass drum tone precise enough to sit clean
     faq: [
       {
         question: "What bass drums do metalcore drummers use?",
-        answer: "Nick Augusto of Trivium plays a Pearl Reference Pure, Art Cruz of Lamb of God plays a Ludwig kit anchored by his signature Black Beauty snare, and Travis Orbin recorded Periphery's self-titled debut on an SJC Custom bass drum. All three run a single 22\"x18\" bass drum with a double pedal."
+        answer: "Nick Augusto of Trivium plays a Pearl Reference Pure, Art Cruz of Lamb of God plays a Ludwig kit anchored by his signature Black Beauty snare, and Travis Orbin ran an SJC Custom bass drum during his 2006-2009 run as Periphery's pre-recording-era drummer, before Matt Halpern took over and recorded the band's self-titled debut. All three run a single 22\"x18\" bass drum with a double pedal."
       },
       {
         question: "What size bass drum is best for metalcore?",
@@ -59033,7 +59033,7 @@ Start where your budget allows — even a Pearl Export will get you playing real
       title: "What Drum Kit Should I Use for Metalcore?",
       content: `Metalcore drum kits have to do two contradictory jobs well: deliver the crushing, half-time weight of a breakdown, then snap back into technical, blast-beat-adjacent passages seconds later. That range — from stripped-down heaviness to death-metal-level speed — demands a kit that's punchy at low volume and articulate at high tempo, without falling apart under the genre's relentless touring schedule.
 
-Nick Augusto powered Trivium's aggressive, thrash-influenced metalcore on a Pearl Reference Pure kit throughout "In Waves" and "Vengeance Falls," its thin 6-ply maple shells built for speed and clarity. Art Cruz drives Lamb of God's modern groove-metalcore hybrid attack on a Ludwig kit, anchored by his signature 14x6.5" Black Beauty snare. Travis Orbin recorded Periphery's genre-defining self-titled debut on SJC Custom Drums, building the trigger-augmented, polyrhythmic template that shaped djent-adjacent metalcore.
+Nick Augusto powered Trivium's aggressive, thrash-influenced metalcore on a Pearl Reference Pure kit throughout "In Waves" and "Vengeance Falls," its thin 6-ply maple shells built for speed and clarity. Art Cruz drives Lamb of God's modern groove-metalcore hybrid attack on a Ludwig kit, anchored by his signature 14x6.5" Black Beauty snare. Travis Orbin ran SJC Custom Drums during his 2006-2009 run as Periphery's pre-recording-era drummer, building the trigger-augmented, polyrhythmic template that shaped djent-adjacent metalcore before Matt Halpern recorded the band's 2010 self-titled debut.
 
 This guide breaks down what actually makes a kit work for metalcore — shell sensitivity, breakdown weight, and durability — and which specific kits the genre's most technically demanding drummers rely on, from budget-friendly starters to the professional setups behind metalcore's most influential records.`,
       keyPoints: [

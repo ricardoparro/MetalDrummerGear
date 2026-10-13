@@ -357,7 +357,7 @@ const DRUMMER_META_OVERRIDES = {
   'inferno': {
     title: `Inferno Drum Kit & Setup — Behemoth Gear Breakdown | ${SITE_NAME}`,
     description:
-      "What drum kit does Inferno use? The Behemoth drummer's Pearl Masterworks kit, Paiste RUDE cymbals, and Czarcie Kopyto double pedal — complete setup.",
+      "What drum kit does Inferno use? The Behemoth drummer's Pearl Reference Series kit, Paiste RUDE cymbals, and Czarcie Kopyto double pedal — complete setup.",
   },
   'shannon-larkin': {
     title: `Shannon Larkin Drum Set & Kit — Godsmack Gear | ${SITE_NAME}`,

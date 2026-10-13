@@ -71,7 +71,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Inferno",
               "slug": "inferno",
               "band": "Behemoth",
-              "configString": "Pearl Masterworks"
+              "configString": "Pearl Reference Series"
             },
             {
               "id": 25,

@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-13 08:27 UTC · Window: last 12h*
+*Generated 2026-10-13 19:12 UTC · Window: last 12h*
 
 ---
 
@@ -8,27 +8,27 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **22** |
-| Open `seo-proposal` issues | 9 |
+| Open `ai-fix` issues | **27** |
+| Open `seo-proposal` issues | 18 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 1 |
-| PRs merged in window | **15** |
-| Issues closed in window | 15 |
-| Commits to `main` in window | 19 |
+| Open PRs | 2 |
+| PRs merged in window | **13** |
+| Issues closed in window | 14 |
+| Commits to `main` in window | 18 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **412** |
-| Sessions | 468 |
-| Page views | 663 |
-| Engagement rate | 57.91% |
-| GSC impressions | 10,403 |
-| GSC clicks | 196 |
-| GSC CTR | 1.88% |
-| GSC avg position | 7.5 |
+| Active users | **426** |
+| Sessions | 487 |
+| Page views | 687 |
+| Engagement rate | 55.65% |
+| GSC impressions | 12,691 |
+| GSC clicks | 234 |
+| GSC CTR | 1.84% |
+| GSC avg position | 7.6 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~2,841 |
-| Est. ad revenue / mo | **~€8.52** |
+| Est. pageviews / mo | ~2,944 |
+| Est. ad revenue / mo | **~€8.83** |
 | Progress to €1000/mo | 0.9% |
-| Pageviews/mo needed for €1000 | ~333,333 (117× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (113× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -72,34 +72,39 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 20 | 19 | 1 |
-| Verify YouTube Videos | 18 | 9 | 8 |
-| Check Sitemap Drift | 13 | 6 | 7 |
-| Verify Data Modules | 11 | 5 | 6 |
-| Check llms freshness | 9 | 0 | 9 |
-| .github/workflows/check-vercel-rewrites.yml | 8 | 0 | 8 |
-| Perf Budget Gate | 7 | 0 | 7 |
-| Verify API Modules | 6 | 3 | 2 |
+| PR Merger | 24 | 23 | 0 |
+| Verify YouTube Videos | 14 | 6 | 5 |
+| Verify Data Modules | 14 | 6 | 5 |
+| Check Sitemap Drift | 14 | 6 | 5 |
+| Perf Budget Gate | 7 | 0 | 5 |
+| Check llms freshness | 7 | 0 | 5 |
+| .github/workflows/check-vercel-rewrites.yml | 7 | 0 | 7 |
+| Roadie (Watcher + Implementer) | 3 | 3 | 0 |
+| Loop Watchdog | 2 | 2 | 0 |
+| SEO Agent | 2 | 1 | 0 |
+| Health Check | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
-| Loop Watchdog | 1 | 1 | 0 |
-| SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
+| Roadie Night Fleet | 1 | 0 | 0 |
 | CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| X Agent | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-10-13 18:16 (mid-day pulse — 6/6 proposals verified+promoted, #9028-9033)
+- 2026-10-13 12:19 (deep run — 4/4 proposals verified+promoted, #9014/#9015/#9017 + #9016 split into #9026/#9027)
 - 2026-10-13 06:23 (cheap pulse — 8/8 proposals verified+promoted, #8996-9003)
 - 2026-10-13 00:35 (evening-review catch-up for 10-12 — 8/8 proposals verified+promoted #8987-8994, follow-up #8995 filed)
 - 2026-10-12 12:25 (deep run — L1/L2/L3 full close-the-loop + 5/5 proposals verified+promoted #8952-8956, L3 fix #8970 fil
 - 2026-10-12 00:37 (evening-review catch-up — 8/8 proposals verified+promoted #8924-8932, follow-up #8934 filed)
-- 2026-10-12 06:30 (cheap pulse — 6/7 proposals verified+promoted, 1 closed stale, #8935-8941)
-- 2026-10-12 18:14 (mid-day pulse — 5/5 proposals verified+promoted, #8971-8975)
 
-## 📦 Shipped to main (15)
+## 📦 Shipped to main (13)
 
+- #9038 fix: #9027 feat(seo): fix Frost cymbal fabrication in symphonic-metal guides (split 2/2 of #9016)
+- #9037 fix: #9026 feat(seo): fix Frost cymbal fabrication in black-metal guides (split 1/2 of #9016)
+- #9036 fix: #9015 SEO: Nick Barker snare fabricated as 'Sonor 14x3.5 Piccolo' in gearPriceHistory.js — no snare model is verified at all
+- #9035 fix: #9017 SEO: Paul Bostaph top10Lists.js entries cross-contaminated with Dave Lombardo's 'Christ Illusion' Grammy — Bostaph never played on it
+- #9034 fix: #9014 SEO: Chris Turner sticks still fabricated as 'Promark or Vic Firth 5B' in drummerComparisons.js — verified Vic Firth American Classic 5A only
+- #9024 fix: #9002 SEO: Igor Cavalera drums/cymbals/heads fabricated as 'Tama Starclassic/Paiste/Evans' in api/gear-finder/index.js — verified Yamaha/Zildjian/Remo
 - #9025 fix: #9003 SEO: Abe Cunningham cymbals era-misattributed to Koi No Yokan/Gore/Ohms as 'Zildjian' in extendedBios.js — verified Sabian HHX for that era
 - #9023 fix: #9001 SEO: Vinnie Paul Vulgar Display/Far Beyond Driven era fabricated as 'Pearl Masters Custom' in drummerEvolution.js — verified Tama through 1996
 - #9022 fix: #9000 SEO: Nick Menza drummerEvolution.js FAQ + 1992-1996 era block still fabricate Pearl Masters for Rust in Peace (1990) and Zildjian cymbals for Countdown/Youthanasia — root file never got the fixes its downstream copies received
@@ -107,24 +112,16 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - #9020 fix: #8998 SEO: Adrian Erlandsson Tama relationship fabricated as beginning 'in the late 1990s' in api/drummers/index.js kitOverview — verified 2014 switch (same bug as #8181, missed this file)
 - #9019 fix: #8997 SEO: Daniel Erlandsson hardware fabricated as 'Pearl Demon Drive' in pedals.js — verified Pearl Eliminator Double Bass Pedal (root record behind 10+ prior downstream fixes)
 - #9018 fix: #8996 SEO batch: api/stats/gear-insights.js is a hardcoded 62-entry duplicate gear array that has drifted from endorsementNews.js ground truth (CLAUDE.md Rule 1 violation)
-- #9012 fix: #8994 SEO: Pete Sandoval snare fabricated as 'Pearl Steel Snare' in gearPriceHistory.js (missed by #7055's sweep) + cross-contaminated 'ddrum Dios Series' claim copy-pasted from Shannon Larkin
-- #9011 fix: #8993 SEO: api/gear-finder/index.js (id 25, Alex Bent) fabricates Pearl drums/snare/throne — verified Tama Starclassic Maple, never touched by any of Bent's 5+ prior gear fixes
-- #9010 fix: #8992 SEO: Morgan Ågren drummerEvolution.js 1983-1989 era block backdates Sonor/Paiste by decades — #7984 only fixed later eras, this one untouched
-- #9009 fix: #8991 SEO: genreGearGuides.js (3 occurrences) says Travis Orbin recorded Periphery's self-titled debut — bands.js's own drummerHistory/discography says Matt Halpern recorded it, Orbin left in 2009
-- #9008 fix: #8987 SEO: Inferno (Behemoth) drums fabricated as 'Pearl Masterworks' across extendedBios.js/api/drummers/index.js/top10Lists.js — endorsementNews.js has always said 'Reference Series'
-- #9007 fix: #8990 SEO: kitQuizData.js Question 5 (Tomas Haake) — snare size and hardware fields still wrong, #7543 only fixed the adjacent cymbals field
-- #9006 fix: #8989 SEO: Dave Lombardo fabricated pedal/brand claims in top10Lists.js (2 locations) + unsupported catalog entry in pedals.js
-- #9004 fix: #8988 SEO: Richard Christy cymbals fabricated as 'Sabian HHX' in extendedBios.js/cymbalSetups.js (3 locations) — verified AA/AAX only, distinct from #8589's gearComparisons.js-only scope
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 1801h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 1897h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2075h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3159h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5589h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 1812h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 1908h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2085h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3170h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5600h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

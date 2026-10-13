@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-12 19:13 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-13 00:34 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,54 +8,54 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 423 |
-| Sessions | 479 |
-| Page views | 657 |
-| Engagement rate | 53.03% |
-| Avg session (s) | 105 |
+| Active users | 393 |
+| Sessions | 448 |
+| Page views | 622 |
+| Engagement rate | 50.00% |
+| Avg session (s) | 110 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /bpm | 28 | 2 |
-| / | 19 | 15 |
+| / | 20 | 16 |
 | /drummers | 19 | 7 |
-| /drummer/joey-jordison | 16 | 10 |
+| /drummer/joey-jordison | 17 | 10 |
 | /drummer/mario-duplantier | 15 | 10 |
-| /drummer/bill-ward | 13 | 10 |
+| /drummer/bill-ward | 12 | 9 |
 | /drummers/mike-portnoy/evolution | 12 | 5 |
 | /studies/metal-tempo-by-subgenre | 12 | 8 |
-| /articles/whats-in-lars-ulrichs-kit | 11 | 10 |
 | /articles/black-sabbath-drum-setup | 9 | 9 |
+| /drummer/flo-mounier | 9 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 338 | 287 |
-| Direct | 118 | 116 |
-| Unassigned | 44 | 40 |
-| Cross-network | 8 | 8 |
+| Organic Search | 305 | 258 |
+| Direct | 115 | 112 |
+| Unassigned | 57 | 49 |
+| Cross-network | 10 | 10 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 164 | 136 |
-| Singapore | 44 | 44 |
-| China | 33 | 33 |
-| United Kingdom | 29 | 24 |
-| Canada | 19 | 17 |
-| Germany | 16 | 15 |
-| France | 14 | 13 |
-| Australia | 13 | 11 |
-| Sweden | 12 | 9 |
-| Finland | 9 | 7 |
+| United States | 163 | 133 |
+| Singapore | 43 | 43 |
+| China | 29 | 29 |
+| United Kingdom | 22 | 19 |
+| Canada | 17 | 15 |
+| Germany | 15 | 15 |
+| France | 13 | 12 |
+| Australia | 11 | 9 |
+| Sweden | 10 | 7 |
+| Greece | 9 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 12,168 |
-| Clicks | 223 |
-| CTR | 1.83% |
+| Impressions | 10,403 |
+| Clicks | 196 |
+| CTR | 1.88% |
 | Avg position | 7.5 |
 
 ### Top queries
@@ -63,34 +63,34 @@
 | --- | --- | --- | --- | --- |
 | bill ward drum kit | 22 | 2 | 9.09% | 8.0 |
 | best death metal drummers | 7 | 1 | 14.29% | 6.9 |
-| best drum heads for metal | 19 | 1 | 5.26% | 10.7 |
-| best drumsticks for metal | 10 | 1 | 10.00% | 8.6 |
+| best drum heads for metal | 14 | 1 | 7.14% | 10.4 |
+| best drumsticks for metal | 9 | 1 | 11.11% | 8.3 |
 | bill ward drum setup 1970 | 3 | 1 | 33.33% | 1.0 |
-| danny carey drum kit setup | 3 | 1 | 33.33% | 8.7 |
-| danny carey kit | 18 | 1 | 5.56% | 9.2 |
-| death metal drum kit | 3 | 1 | 33.33% | 6.0 |
-| deathcore drum kit | 2 | 1 | 50.00% | 4.0 |
+| danny carey drum kit setup | 2 | 1 | 50.00% | 8.5 |
+| danny carey kit | 15 | 1 | 6.67% | 9.1 |
+| death metal drum kit | 2 | 1 | 50.00% | 6.5 |
+| deathcore drum kit | 1 | 1 | 100.00% | 3.0 |
 | eloy casagrande drumkit | 3 | 1 | 33.33% | 3.3 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,579 | 84 | 1.83% | 7.9 |
-| gbr | 765 | 19 | 2.48% | 7.7 |
-| fra | 182 | 10 | 5.49% | 6.4 |
-| can | 532 | 8 | 1.50% | 7.3 |
-| fin | 150 | 6 | 4.00% | 6.7 |
-| bra | 449 | 5 | 1.11% | 6.8 |
-| grc | 106 | 5 | 4.72% | 6.8 |
-| idn | 249 | 5 | 2.01% | 6.8 |
-| pol | 198 | 5 | 2.53% | 6.5 |
-| aus | 484 | 4 | 0.83% | 7.4 |
+| usa | 3,928 | 79 | 2.01% | 7.8 |
+| gbr | 641 | 14 | 2.18% | 7.8 |
+| fra | 152 | 8 | 5.26% | 6.6 |
+| can | 438 | 7 | 1.60% | 7.1 |
+| bra | 405 | 5 | 1.23% | 6.8 |
+| grc | 96 | 5 | 5.21% | 6.7 |
+| idn | 222 | 5 | 2.25% | 6.7 |
+| pol | 168 | 5 | 2.98% | 6.4 |
+| aus | 412 | 4 | 0.97% | 7.5 |
+| deu | 286 | 4 | 1.40% | 6.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 76 | 1.32% | 6.8 | open issue to answer better |
-| joey jordison drum set | 70 | 1.43% | 8.1 | open issue to answer better |
+| joey jordison drum kit | 66 | 1.52% | 6.7 | open issue to answer better |
+| joey jordison drum set | 60 | 1.67% | 7.9 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

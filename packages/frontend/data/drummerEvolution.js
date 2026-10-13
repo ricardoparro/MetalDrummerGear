@@ -9319,10 +9319,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Zildjian A Custom / Z Custom mix',
-            details: '14" A Custom hi-hats, 18"/19" A Custom crashes, 21" A Custom ride, 18" Z Custom China',
-            notes: 'Added Z Custom China for the arena-rock aggression of the Countdown era live shows.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Paiste 2002 / Signature',
+            details: 'Paiste 2002 and Signature series mix',
+            notes: 'Switched from Zildjian to Paiste 2002 and Signature cymbals for Countdown to Extinction (1992), matching the album\'s more melodic, arena-rock-oriented production without losing thrash-level cut.',
+            change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
             item: 'Pearl Eliminator Double Pedal (continued)',
@@ -9434,11 +9434,11 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit did Nick Menza use?',
-        a: 'Nick Menza joined Megadeth with a Tama Artstar II before upgrading to Pearl Masters for Rust in Peace (1990) and Pearl Masterworks for the Countdown to Extinction era. Per the verified kit overview, he played Pearl Masterworks through Youthanasia (1994) before upgrading to Pearl Reference Custom for Cryptic Writings (1997). No independently verified gear information exists for his post-Megadeth years.',
+        a: 'Nick Menza joined Megadeth with a Tama Artstar II, which he played through Rust in Peace (1990), before upgrading to Pearl Masters for Countdown to Extinction (1992) and Pearl Masterworks for Youthanasia (1994). Per the verified kit overview, he upgraded to Pearl Reference Custom for Cryptic Writings (1997). No independently verified gear information exists for his post-Megadeth years.',
       },
       {
         q: 'What snare did Nick Menza use on Rust in Peace?',
-        a: 'On Rust in Peace, Menza played a Pearl Free-Floating Steel 14"×6.5" snare. The steel shell delivered the explosive, cutting attack heard on "Holy Wars," "Hangar 18," and "Tornado of Souls." He later switched to a Pearl Free-Floating Brass snare for the warmer tone of Countdown to Extinction\'s polished production.',
+        a: 'On Rust in Peace, Menza played the Tama Artstar II 14"×6.5" birch snare carried over from the So Far, So Good era — the same birch shell delivered the explosive, cutting attack heard on "Holy Wars," "Hangar 18," and "Tornado of Souls." He later switched to a Pearl Free-Floating Brass snare for the warmer tone of Countdown to Extinction\'s polished production in 1992.',
       },
       {
         q: 'How did Nick Menza die?',
@@ -9450,12 +9450,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What cymbals did Nick Menza use?',
-        a: 'Menza played Zildjian A Custom during the Rust in Peace and Countdown to Extinction eras. Per the verified kit overview, he switched to Sabian AA / Signature Series cymbals for Cryptic Writings (1997). No independently verified gear information exists for his post-Megadeth years.',
+        a: 'Menza played Zildjian A Custom during the Rust in Peace era, then switched to Paiste 2002 / Signature cymbals for Countdown to Extinction (1992) and Youthanasia (1994). Per the verified kit overview, he switched to Sabian AA / Signature Series cymbals for Cryptic Writings (1997). No independently verified gear information exists for his post-Megadeth years.',
       },
     ],
 
     metaTitle: 'Nick Menza Gear Evolution Timeline | Megadeth Drum Kit History',
-    metaDescription: 'Explore Nick Menza\'s complete drum gear evolution: Tama Artstar II → Pearl Masters (Rust in Peace) → Pearl Masterworks (Countdown) → Pearl Reference Custom (Cryptic Writings). The Megadeth drummer\'s full timeline.',
+    metaDescription: 'Explore Nick Menza\'s complete drum gear evolution: Tama Artstar II (Rust in Peace) → Pearl Masters (Countdown to Extinction) → Pearl Masterworks (Youthanasia) → Pearl Reference Custom (Cryptic Writings). The Megadeth drummer\'s full timeline.',
   },
 
   // ==========================================

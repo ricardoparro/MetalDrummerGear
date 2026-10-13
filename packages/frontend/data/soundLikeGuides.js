@@ -10059,7 +10059,7 @@ This guide breaks down the technique, gear, and practice approach behind Christy
         price: "$5,500+",
         label: "Professional Setup",
         kit: "Pearl Masters Maple ($3,000+)",
-        cymbals: "Full Sabian AAX / HHX selection ($1,800+)",
+        cymbals: "Full Sabian AA/AAX selection ($1,800+)",
         pedals: "Pearl Demon Drive Double ($500)",
         heads: "Full Remo setup ($150)",
         notes: "Recording and touring-ready setup matching Christy's versatile sound."

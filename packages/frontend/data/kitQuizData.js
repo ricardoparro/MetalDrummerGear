@@ -67,9 +67,9 @@ export const KIT_QUIZ_QUESTIONS = [
     correctDrummerId: 5,
     gear: {
       drums: 'Sonor SQ2 Series',
-      snare: 'Sonor Tomas Haake Signature 14x6.25"',
+      snare: 'Sonor Tomas Haake Signature 14x6.5"',
       cymbals: 'Sabian HHX & AAX Series',
-      hardware: 'Sonor Perfect Balance Pedal',
+      hardware: 'Tama Speed Cobra',
       sticks: 'Wincent Tomas Haake Signature',
     },
     hint: '🔢 Polyrhythm Master - Swedish progressive pioneers',

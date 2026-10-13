@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-13 08:27 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-13 12:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 412 |
-| Sessions | 468 |
-| Page views | 663 |
-| Engagement rate | 57.91% |
-| Avg session (s) | 99 |
+| Active users | 421 |
+| Sessions | 479 |
+| Page views | 674 |
+| Engagement rate | 56.58% |
+| Avg session (s) | 98 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,32 +21,32 @@
 | / | 21 | 16 |
 | /drummers | 19 | 7 |
 | /drummer/joey-jordison | 18 | 11 |
-| /drummer/mario-duplantier | 15 | 10 |
-| /drummer/bill-ward | 13 | 10 |
+| /drummer/mario-duplantier | 15 | 12 |
+| /drummer/bill-ward | 14 | 10 |
+| /studies/metal-tempo-by-subgenre | 13 | 8 |
 | /drummers/mike-portnoy/evolution | 12 | 5 |
-| /studies/metal-tempo-by-subgenre | 12 | 8 |
 | /articles/black-sabbath-drum-setup | 9 | 9 |
 | /drummer/flo-mounier | 9 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 342 | 289 |
-| Direct | 122 | 120 |
-| Unassigned | 13 | 13 |
+| Organic Search | 351 | 296 |
+| Direct | 123 | 121 |
+| Unassigned | 19 | 18 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 169 | 142 |
-| Singapore | 49 | 49 |
+| United States | 172 | 144 |
+| Singapore | 50 | 50 |
 | China | 29 | 29 |
 | United Kingdom | 22 | 19 |
 | Canada | 19 | 16 |
 | Germany | 16 | 15 |
-| France | 13 | 12 |
+| France | 15 | 14 |
 | Australia | 12 | 10 |
-| New Zealand | 11 | 6 |
+| New Zealand | 12 | 6 |
 | Sweden | 10 | 7 |
 
 ## Search Console — Search performance

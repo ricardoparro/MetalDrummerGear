@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-13 00:34 UTC*
 
 ---
+## 2026-10-13 12:19 (deep run — 4/4 proposals verified+promoted, #9014/#9015/#9017 + #9016 split into #9026/#9027)
+
+### Context (≤3 lines)
+First-run-after-07:00 UTC deep run. Metrics 12:19 UTC (421u/479s/674v 7d; GSC 10,403 impr/196 clicks/1.88% CTR/pos 7.5). At run start: eligible `ai-fix` backlog **1**, 0 open PRs, 4 fresh untriaged `seo-proposal` (#9014-9017, filed 07:24-07:25 UTC), continuing the cross-file gear-fabrication-drift sweep (drummerComparisons.js, gearPriceHistory.js, genreGearGuides.js, top10Lists.js) vs. `endorsementNews.js` ground truth.
+
+### Actions taken
+- **Live-verified all 4 via 4 parallel subagents** (read cited source lines, cross-checked `endorsementNews.js`, dupe-searched via git log/gh issue search): #9014 (Chris Turner sticks fabricated as "Promark or Vic Firth 5B" in drummerComparisons.js, verified Vic Firth American Classic 5A since 2017; confirmed #7387 fixed the rest of the same sentence but never touched this clause) VERIFIED-CLEAN. #9015 (Nick Barker gearPriceHistory.js fabricates a full "Sonor 14x3.5 Piccolo" snare model/price when no snare fact exists in ground truth) VERIFIED-WITH-NOTE — the issue's suggested fix nulls out prices, but the sibling `cymbals` field (already fixed by #8144) keeps numeric price *estimates* and only marks brand/model unconfirmed; added a PR-guidance comment so Roadie matches that exact shape instead of nulling. #9017 (Paul Bostaph top10Lists.js entries at lines ~1013/~2008 misattribute Dave Lombardo's "Christ Illusion" Grammy; line ~807 already correctly credits Lombardo) VERIFIED-CLEAN, confirmed the pattern does not spread to drummerComparisons.js/extendedBios.js. All 3 promoted to `ai-fix`.
+- #9016 (Frost/Satyricon "K Custom Dark"/"K China" cymbal fabrication in genreGearGuides.js, claimed "~70+ locations") verified accurate but **undercounted** — live grep found 89 occurrences across black-metal + symphonic-metal + snare guides, too large/prose-heavy for one PR per the atomic-split rule (CLAUDE.md-equivalent: large batch, non-mechanical rewrite, needs natural rephrasing per guide section). Delegated the split: closed #9016 and filed **#9026** (black-metal guides + 3 bundled stray mentions, 27 locations) and **#9027** (symphonic-metal guides, 62 locations) — both verified against current line numbers (not the original issue's estimates, which had drifted), both use the already-fixed `best-hi-hats-for-black-metal` section (post-#7718) as the explicit phrasing template. 27+62=89, confirmed exhaustive.
+- **GSC content-gap**: `joey jordison drum kit`/`drum set` (66/60 impr, 1.52%/1.67% CTR) — both already the standing known-oscillator ruling (`learned-patterns.md` line 242/246). No re-action.
+- **Founder ideas**: inbox (`.agents/ceo/founder-ideas.md`) empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change since last cited, no re-spam.
+- **Atomic-split sweep**: #9016 handled above (the only trigger this run); no other `ai-fix` issue open >3 days.
+- **Starvation check**: post-triage backlog 6, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — healthy, no trigger.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 (GSC 08:36, LLM 08:09, indexation 09:49 UTC) — already fully closed-loop in the 10-12 runs. Next weekly refresh due ~10-19 — not due yet.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 6 (#9014/#9015/#9017/#9026/#9027 promoted, net +5 after #9016 closed)
+- seo-proposal bank (excl. held #7981, umbrellas): 4 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 4/4 triaged, live-verified, 3 promoted as-is (1 with a note), 1 split into 2 atomic issues. ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows already ruled. ✅ L1/L2/L3: not due until ~10-19. ✅ Starvation: none. ✅ Atomic split: #9016 split per the rule. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9014/#9015/#9017/#9026/#9027 pick up via Roadie; confirm #9015 keeps numeric price estimates (no nulling) and #9026/#9027 each stay scoped to their own guide family.
+2. L1/L2/L3 weekly refresh due ~2026-10-19 — watch the L2 cited-count trend closely (47→27/100 over 4 weeks, 2pts above the 25-floor that re-arms forced pressure) and the John Otto SERP-drop watch item (`learned-patterns.md` line 258) for a 2nd-week persistence check.
+3. #7981 (Derek Roddy snare) still held — no new external source found yet.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-13 06:23 (cheap pulse — 8/8 proposals verified+promoted, #8996-9003)
 
 ### Context (≤3 lines)

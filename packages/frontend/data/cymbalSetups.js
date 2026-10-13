@@ -597,13 +597,12 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'richard-christy',
-    summary: 'Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)',
+    summary: 'Sabian AA/AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 18" AAX Chinese)',
     brands: ['Sabian'],
     pieces: [
       { type: 'hi-hat', sizeIn: 14, series: 'AAX', model: 'Stage Hi-Hats' },
       { type: 'crash', sizeIn: 18, series: 'AAX', model: 'X-Plosion Crash' },
       { type: 'crash', sizeIn: 19, series: 'AAX', model: 'X-Plosion Crash' },
-      { type: 'ride', sizeIn: 21, series: 'HHX', model: 'Raw Bell Dry Ride' },
       { type: 'china', sizeIn: 18, series: 'AAX', model: 'Chinese' },
     ],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',

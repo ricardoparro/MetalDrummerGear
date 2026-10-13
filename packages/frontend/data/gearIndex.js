@@ -375,6 +375,12 @@ export const GEAR_INDEX = {
         "configString": "Sabian AAX Series (14\" Stage Hi-Hats, 18\" & 19\" X-Plosion Crashes, 21\" Stage Ride, 18\" AAXtreme China)"
       },
       {
+        "id": 49,
+        "name": "Richard Christy",
+        "slug": "richard-christy",
+        "configString": "Sabian AA/AAX Series (14\" AAX Stage Hi-Hats, 18\" & 19\" AAX X-Plosion Crashes, 18\" AAX Chinese)"
+      },
+      {
         "id": 60,
         "name": "Kevin Talley",
         "slug": "kevin-talley",
@@ -399,12 +405,6 @@ export const GEAR_INDEX = {
         "name": "Flo Mounier",
         "slug": "flo-mounier",
         "configString": "Sabian AAX & HHX Series (14\" HHX Stage Hi-Hats, 17\" & 18\" AAX X-Plosion Crashes, 21\" HHX Raw Bell Dry Ride, 18\" AAXtreme China)"
-      },
-      {
-        "id": 49,
-        "name": "Richard Christy",
-        "slug": "richard-christy",
-        "configString": "Sabian AAX & HHX Series (14\" AAX Stage Hi-Hats, 18\" & 19\" AAX X-Plosion Crashes, 21\" HHX Raw Bell Dry Ride, 18\" AAX Chinese)"
       },
       {
         "id": 59,

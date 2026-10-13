@@ -958,7 +958,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Richard Christy",
           "slug": "richard-christy",
           "band": "Death / Iced Earth",
-          "configString": "Sabian AAX & HHX Series (14\" AAX Stage Hi-Hats, 18\" & 19\" AAX X-Plosion Crashes, 21\" HHX Raw Bell Dry Ride, 18\" AAX Chinese)"
+          "configString": "Sabian AA/AAX Series (14\" AAX Stage Hi-Hats, 18\" & 19\" AAX X-Plosion Crashes, 18\" AAX Chinese)"
         },
         {
           "id": 50,

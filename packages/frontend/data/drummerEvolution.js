@@ -11963,7 +11963,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Behemoth',
     totalYearsActive: '1997-Present',
     profileImage: '/images/drummers/inferno.webp',
-    summary: 'Inferno (Zbigniew Robert Promiński) has been Behemoth\'s drummer since 1997, anchoring the band\'s transition from raw black metal into one of extreme metal\'s most technically demanding and commercially successful blackened death metal acts. His gear evolution tracks that journey from developing-era Pearl kits to the Pearl Masterworks / Paiste RUDE Series rig that powers "The Satanist" and "Opvs Contra Natvram."',
+    summary: 'Inferno (Zbigniew Robert Promiński) has been Behemoth\'s drummer since 1997, anchoring the band\'s transition from raw black metal into one of extreme metal\'s most technically demanding and commercially successful blackened death metal acts. His gear evolution tracks that journey from developing-era Pearl kits to the Pearl Reference Series / Paiste RUDE Series rig that powers "The Satanist" and "Opvs Contra Natvram."',
 
     eras: [
       {
@@ -12043,16 +12043,16 @@ export const DRUMMER_EVOLUTION = {
         years: '2004–2009',
         startYear: 2004,
         endYear: 2009,
-        description: '"Demigod" (2004) became Behemoth\'s international breakthrough, pushing Inferno\'s blast-beat stamina and double bass precision to a global stage. "The Apostasy" (2007) charted on the Billboard 200, and "Evangelion" (2009) pushed the band\'s brutality to a new peak. This era established Inferno\'s flagship Pearl Masterworks setup and his Paiste RUDE Series cymbal partnership — the aggressive, cutting tone that pierces through Behemoth\'s heavily distorted guitar wall.',
+        description: '"Demigod" (2004) became Behemoth\'s international breakthrough, pushing Inferno\'s blast-beat stamina and double bass precision to a global stage. "The Apostasy" (2007) charted on the Billboard 200, and "Evangelion" (2009) pushed the band\'s brutality to a new peak. This era established Inferno\'s flagship Pearl Reference Series setup and his Paiste RUDE Series cymbal partnership — the aggressive, cutting tone that pierces through Behemoth\'s heavily distorted guitar wall.',
         albums: ['Demigod (2004)', 'The Apostasy (2007)', 'Evangelion (2009)'],
         tours: ['Behemoth European and North American tours 2004–2009'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Masterworks',
+            item: 'Pearl Reference Series',
             details: 'Custom shells, double 22" bass drums',
-            notes: 'Upgrade to Pearl\'s premium Masterworks custom shell line gave Inferno the projection and consistency needed for "Demigod"\'s international touring schedule.',
+            notes: 'Upgrade to Pearl\'s premium Reference Series custom shell line gave Inferno the projection and consistency needed for "Demigod"\'s international touring schedule.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
@@ -12097,7 +12097,7 @@ export const DRUMMER_EVOLUTION = {
           '"Demigod" (2004) — Behemoth\'s international commercial breakthrough',
           '"The Apostasy" (2007) reached #149 on the Billboard 200',
           '"Evangelion" (2009) pushed the band\'s brutality to a new peak',
-          'Established Pearl Masterworks drums, Paiste RUDE Series cymbals, and Czarcie Kopyto double pedal as his core rig',
+          'Established Pearl Reference Series drums, Paiste RUDE Series cymbals, and Czarcie Kopyto double pedal as his core rig',
         ],
 
         quote: {
@@ -12114,16 +12114,16 @@ export const DRUMMER_EVOLUTION = {
         years: '2014–2018',
         startYear: 2014,
         endYear: 2018,
-        description: '"The Satanist" (2014), recorded after Nergal\'s recovery from leukemia, is widely regarded as Behemoth\'s career-defining masterpiece. Inferno\'s drumming across the album balances groove-based dynamics with full-throttle blast beat assault, captured on his Pearl Masterworks kit built specifically for extreme metal projection. "I Loved You at Your Darkest" (2018) continued the band\'s critical momentum, earning a Grammy nomination.',
+        description: '"The Satanist" (2014), recorded after Nergal\'s recovery from leukemia, is widely regarded as Behemoth\'s career-defining masterpiece. Inferno\'s drumming across the album balances groove-based dynamics with full-throttle blast beat assault, captured on his Pearl Reference Series kit built specifically for extreme metal projection. "I Loved You at Your Darkest" (2018) continued the band\'s critical momentum, earning a Grammy nomination.',
         albums: ['The Satanist (2014)', 'I Loved You at Your Darkest (2018)'],
         tours: ['Slayer Final World Tour Support 2018–2019', 'Behemoth headlining tours 2014–2019'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Masterworks',
+            item: 'Pearl Reference Series',
             details: 'Custom finish, double 22"×18" bass drums, triggered for consistency',
-            notes: 'Continued Pearl Masterworks platform for maximum tonal clarity at extreme tempos — Inferno prefers two separate bass drums over a single kick with double pedal for independent tonal control.',
+            notes: 'Continued Pearl Reference Series platform for maximum tonal clarity at extreme tempos — Inferno prefers two separate bass drums over a single kick with double pedal for independent tonal control.',
             change: null,
           },
           snare: {
@@ -12168,11 +12168,11 @@ export const DRUMMER_EVOLUTION = {
           '"The Satanist" (2014) — Behemoth\'s career-defining, critically acclaimed masterpiece',
           'Recorded after Nergal\'s recovery from leukemia',
           '"I Loved You at Your Darkest" (2018) earned a Grammy nomination',
-          'Continued Pearl Masterworks kit with triggered double bass drums',
+          'Continued Pearl Reference Series kit with triggered double bass drums',
         ],
 
         quote: {
-          text: 'Every piece of the kit is pushed to its limits on this record. The Masterworks shells project through the wall of guitars.',
+          text: 'Every piece of the kit is pushed to its limits on this record. The Reference Series shells project through the wall of guitars.',
           source: 'Drum! Magazine, 2014',
         },
 
@@ -12185,14 +12185,14 @@ export const DRUMMER_EVOLUTION = {
         years: '2022–Present',
         startYear: 2022,
         endYear: 2026,
-        description: '"Opvs Contra Natvram" (2022) confirmed Inferno\'s settled Pearl Masterworks / Paiste RUDE Series rig as his long-term platform, now refined across 25-plus years with Behemoth. He remains one of extreme metal\'s most consistent performers, with his trigger-supplemented studio approach and elevated drum riser staging continuing to define Behemoth\'s theatrical live shows worldwide.',
+        description: '"Opvs Contra Natvram" (2022) confirmed Inferno\'s settled Pearl Reference Series / Paiste RUDE Series rig as his long-term platform, now refined across 25-plus years with Behemoth. He remains one of extreme metal\'s most consistent performers, with his trigger-supplemented studio approach and elevated drum riser staging continuing to define Behemoth\'s theatrical live shows worldwide.',
         albums: ['Opvs Contra Natvram (2022)'],
         tours: ['Behemoth World Tour 2022–2024', 'Download Festival 2020, 2022'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Masterworks',
+            item: 'Pearl Reference Series',
             details: 'Confirmed current configuration, double bass drums',
             notes: 'Settled platform — over a decade of refinement since "The Satanist" era.',
             change: null,
@@ -12237,7 +12237,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           '"Opvs Contra Natvram" (2022) — most recent Behemoth studio album',
-          'Settled Pearl Masterworks / Paiste RUDE Series platform confirmed as long-term rig',
+          'Settled Pearl Reference Series / Paiste RUDE Series platform confirmed as long-term rig',
           'Over 25 years as Behemoth\'s drummer — the longest-serving member',
           'Continued worldwide headlining and festival touring',
         ],
@@ -12258,7 +12258,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit does Inferno play?',
-        a: 'Inferno plays a Pearl Masterworks kit with double 22"×18" bass drums, two rack toms, and two floor toms. He prefers two separate triggered bass drums over a single kick with a double pedal, giving him independent tonal control during Behemoth\'s sustained blast-beat passages.',
+        a: 'Inferno plays a Pearl Reference Series kit with double 22"×18" bass drums, two rack toms, and two floor toms. He prefers two separate triggered bass drums over a single kick with a double pedal, giving him independent tonal control during Behemoth\'s sustained blast-beat passages.',
       },
       {
         q: 'What cymbals does Inferno use?',
@@ -12266,7 +12266,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'How did Inferno\'s gear change across his Behemoth career?',
-        a: 'Inferno started on developing-era Pearl kits in the late 1990s before upgrading to the flagship Pearl Masterworks line during the "Demigod" breakthrough (2004) and establishing his Paiste RUDE Series cymbal partnership. That Pearl Masterworks / Paiste RUDE Series setup has remained his confirmed current rig through "The Satanist" (2014) and "Opvs Contra Natvram" (2022).',
+        a: 'Inferno started on developing-era Pearl kits in the late 1990s before upgrading to the flagship Pearl Reference Series line during the "Demigod" breakthrough (2004) and establishing his Paiste RUDE Series cymbal partnership. That Pearl Reference Series / Paiste RUDE Series setup has remained his confirmed current rig through "The Satanist" (2014) and "Opvs Contra Natvram" (2022).',
       },
       {
         q: 'What pedals does Inferno use for his double bass drumming?',
@@ -12274,12 +12274,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What was Inferno\'s most acclaimed album with Behemoth?',
-        a: '"The Satanist" (2014) is widely considered Inferno\'s and Behemoth\'s career-defining masterpiece, recorded after frontman Nergal\'s recovery from leukemia. Inferno\'s drumming on the album balances groove-based dynamics with full-intensity blast beats, captured on his Pearl Masterworks kit.',
+        a: '"The Satanist" (2014) is widely considered Inferno\'s and Behemoth\'s career-defining masterpiece, recorded after frontman Nergal\'s recovery from leukemia. Inferno\'s drumming on the album balances groove-based dynamics with full-intensity blast beats, captured on his Pearl Reference Series kit.',
       },
     ],
 
     metaTitle: 'Inferno Gear Evolution Timeline | Behemoth Drum Kit History',
-    metaDescription: 'Explore Inferno\'s complete drum gear evolution: developing-era Pearl kits (1997) → Pearl Masterworks breakthrough on "Demigod" (2004) → Pearl Masterworks / Paiste RUDE Series rig powering "The Satanist" and "Opvs Contra Natvram." 25+ years as Behemoth\'s drummer, era by era.',
+    metaDescription: 'Explore Inferno\'s complete drum gear evolution: developing-era Pearl kits (1997) → Pearl Reference Series breakthrough on "Demigod" (2004) → Pearl Reference Series / Paiste RUDE Series rig powering "The Satanist" and "Opvs Contra Natvram." 25+ years as Behemoth\'s drummer, era by era.',
   },
 
   // ==========================================

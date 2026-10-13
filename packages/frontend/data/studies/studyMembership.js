@@ -15,9 +15,10 @@
  * every field here is copied from those, never re-derived independently. Dataset
  * snapshot date: 2026-07-25.
  *
- * Consumed by: packages/frontend/data/studies/links.js only. The full headlineStat
- * computation and /studies route pages still read the full datasets directly via
- * packages/frontend/data/studies/index.js.
+ * Consumed by: packages/frontend/data/studies/links.js only. Each individual
+ * /studies/<slug> page reads its own full dataset directly instead (e.g.
+ * MostUsedGearBrandsStudyPage.jsx imports mostUsedGearBrands.js); the STUDIES
+ * registry's own headlineStat numbers come from studySummary.js, not this file.
  */
 
 export const STUDY_MEMBERSHIP = {
@@ -28,16 +29,20 @@ export const STUDY_MEMBERSHIP = {
         "label": "Drum Kits",
         "ranked": [
           {
-            "brand": "Pearl",
-            "percent": 30.6
-          },
-          {
             "brand": "Tama",
             "percent": 29.2
           },
           {
+            "brand": "Pearl",
+            "percent": 27.8
+          },
+          {
             "brand": "Sonor",
-            "percent": 12.5
+            "percent": 9.7
+          },
+          {
+            "brand": "DW",
+            "percent": 8.3
           },
           {
             "brand": "ddrum",
@@ -48,15 +53,11 @@ export const STUDY_MEMBERSHIP = {
             "percent": 5.6
           },
           {
-            "brand": "SJC",
-            "percent": 5.6
-          },
-          {
             "brand": "Ludwig",
             "percent": 4.2
           },
           {
-            "brand": "DW",
+            "brand": "SJC",
             "percent": 2.8
           },
           {
@@ -78,15 +79,19 @@ export const STUDY_MEMBERSHIP = {
         "ranked": [
           {
             "brand": "Tama",
-            "percent": 29.2
-          },
-          {
-            "brand": "Pearl",
             "percent": 27.8
           },
           {
+            "brand": "Pearl",
+            "percent": 23.6
+          },
+          {
             "brand": "Sonor",
-            "percent": 11.1
+            "percent": 9.7
+          },
+          {
+            "brand": "DW",
+            "percent": 8.3
           },
           {
             "brand": "ddrum",
@@ -94,18 +99,14 @@ export const STUDY_MEMBERSHIP = {
           },
           {
             "brand": "Mapex",
-            "percent": 5.6
-          },
-          {
-            "brand": "SJC",
-            "percent": 5.6
-          },
-          {
-            "brand": "DW",
-            "percent": 2.8
+            "percent": 4.2
           },
           {
             "brand": "Ludwig",
+            "percent": 2.8
+          },
+          {
+            "brand": "SJC",
             "percent": 2.8
           },
           {
@@ -126,16 +127,16 @@ export const STUDY_MEMBERSHIP = {
         "label": "Cymbals",
         "ranked": [
           {
-            "brand": "Zildjian",
-            "percent": 31.9
-          },
-          {
             "brand": "Sabian",
             "percent": 30.6
           },
           {
+            "brand": "Zildjian",
+            "percent": 30.6
+          },
+          {
             "brand": "Paiste",
-            "percent": 20.8
+            "percent": 19.4
           },
           {
             "brand": "Meinl",
@@ -148,15 +149,15 @@ export const STUDY_MEMBERSHIP = {
         "ranked": [
           {
             "brand": "Vic Firth",
-            "percent": 61.1
+            "percent": 50
           },
           {
             "brand": "Promark",
-            "percent": 18.1
+            "percent": 26.4
           },
           {
             "brand": "Vater",
-            "percent": 8.3
+            "percent": 9.7
           },
           {
             "brand": "Wincent",
@@ -181,26 +182,22 @@ export const STUDY_MEMBERSHIP = {
         "ranked": [
           {
             "brand": "Tama",
-            "percent": 27.8
-          },
-          {
-            "brand": "Pearl",
-            "percent": 22.2
+            "percent": 30.6
           },
           {
             "brand": "DW",
             "percent": 19.4
           },
           {
-            "brand": "Sonor",
-            "percent": 5.6
+            "brand": "Pearl",
+            "percent": 19.4
           },
           {
             "brand": "Axis",
-            "percent": 4.2
+            "percent": 5.6
           },
           {
-            "brand": "Mapex",
+            "brand": "Sonor",
             "percent": 4.2
           },
           {
@@ -212,6 +209,10 @@ export const STUDY_MEMBERSHIP = {
             "percent": 2.8
           },
           {
+            "brand": "Trick",
+            "percent": 2.8
+          },
+          {
             "brand": "Gibraltar",
             "percent": 1.4
           },
@@ -220,39 +221,13 @@ export const STUDY_MEMBERSHIP = {
             "percent": 1.4
           },
           {
-            "brand": "Trick",
-            "percent": 1.4
-          },
-          {
-            "brand": "Yamaha",
+            "brand": "Mapex",
             "percent": 1.4
           }
         ]
       }
     },
     "topDrummerSlugs": [
-      "joey-jordison",
-      "gene-hoglan",
-      "george-kollias",
-      "ray-luzier",
-      "matt-halpern",
-      "inferno",
-      "alex-bent",
-      "nick-augusto",
-      "flo-mounier",
-      "ryan-van-poederooyen",
-      "aquiles-priester",
-      "paul-mazurkiewicz",
-      "mike-mangini",
-      "daniel-erlandsson",
-      "jaska-raatikainen",
-      "daray",
-      "jocke-wallgren",
-      "kevin-talley",
-      "paul-bostaph",
-      "jimmy-degrasso",
-      "john-longstreth",
-      "waltteri-vayrynen",
       "lars-ulrich",
       "dave-lombardo",
       "eloy-casagrande",
@@ -260,81 +235,92 @@ export const STUDY_MEMBERSHIP = {
       "mike-portnoy",
       "mario-duplantier",
       "brann-dailor",
+      "alex-bent",
       "raymond-herrera",
-      "igor-cavalera",
       "blake-richardson",
       "ben-koller",
+      "flo-mounier",
       "chris-turner",
       "derek-roddy",
       "dirk-verbeuren",
-      "richard-christy",
-      "matt-garstka",
+      "frost",
+      "abe-cunningham",
+      "daray",
       "tim-yeung",
-      "sean-reinert",
-      "nick-menza",
       "adrian-erlandsson",
       "alex-rudinger",
-      "john-otto",
-      "jay-weinberg",
+      "gene-hoglan",
+      "tomas-haake",
+      "ray-luzier",
+      "vinnie-paul",
+      "shannon-larkin",
+      "nick-augusto",
+      "ryan-van-poederooyen",
+      "richard-christy",
+      "mike-mangini",
+      "daniel-erlandsson",
+      "kevin-talley",
+      "martin-axenrot",
+      "paul-bostaph",
+      "nick-menza",
+      "jon-dette",
+      "jimmy-degrasso",
+      "waltteri-vayrynen",
+      "george-kollias",
+      "danny-carey",
+      "inferno",
+      "hellhammer",
       "art-cruz",
-      "arin-ilejay",
-      "jason-bittner",
+      "navene-koperweis",
+      "morgan-agren",
+      "igor-cavalera",
+      "matt-greiner",
       "martin-lopez",
       "travis-orbin",
-      "mikkey-dee",
-      "frost",
-      "gavin-harrison",
-      "abe-cunningham",
-      "jon-dette",
-      "vinnie-paul",
-      "danny-carey",
-      "hellhammer",
-      "navene-koperweis",
-      "shannon-larkin",
-      "morgan-agren",
-      "bill-ward",
-      "matt-greiner",
       "nicko-mcbrain",
       "scott-travis",
+      "gavin-harrison",
+      "paul-mazurkiewicz",
+      "matt-garstka",
+      "jaska-raatikainen",
       "hannes-grossmann",
-      "isaac-lamb",
-      "martin-axenrot",
-      "tomas-haake"
+      "jocke-wallgren",
+      "sean-reinert"
     ]
   },
   "drumEndorsementLandscape": {
     "brandReach": [
       {
         "brand": "Vic Firth",
-        "percent": 61.1
+        "percent": 50
       },
       {
         "brand": "Tama",
-        "percent": 33.3
-      },
-      {
-        "brand": "Zildjian",
-        "percent": 31.9
-      },
-      {
-        "brand": "Pearl",
-        "percent": 30.6
+        "percent": 36.1
       },
       {
         "brand": "Sabian",
         "percent": 30.6
       },
       {
-        "brand": "Paiste",
-        "percent": 20.8
+        "brand": "Zildjian",
+        "percent": 30.6
       },
       {
-        "brand": "DW",
-        "percent": 19.4
+        "brand": "Pearl",
+        "percent": 29.2
       },
       {
         "brand": "Promark",
-        "percent": 18.1
+        "percent": 26.4
+      },
+      {
+        "brand": "DW",
+        "percent": 22.2
+      },
+      {
+        "brand": "Paiste",
+        "percent": 19.4
       },
       {
         "brand": "Meinl",
@@ -342,11 +328,15 @@ export const STUDY_MEMBERSHIP = {
       },
       {
         "brand": "Sonor",
-        "percent": 12.5
+        "percent": 11.1
       },
       {
         "brand": "Vater",
-        "percent": 8.3
+        "percent": 9.7
+      },
+      {
+        "brand": "Axis",
+        "percent": 5.6
       },
       {
         "brand": "ddrum",
@@ -355,14 +345,6 @@ export const STUDY_MEMBERSHIP = {
       {
         "brand": "Mapex",
         "percent": 5.6
-      },
-      {
-        "brand": "SJC",
-        "percent": 5.6
-      },
-      {
-        "brand": "Axis",
-        "percent": 4.2
       },
       {
         "brand": "Ludwig",
@@ -374,6 +356,14 @@ export const STUDY_MEMBERSHIP = {
       },
       {
         "brand": "Czarcie Kopyto",
+        "percent": 2.8
+      },
+      {
+        "brand": "SJC",
+        "percent": 2.8
+      },
+      {
+        "brand": "Trick",
         "percent": 2.8
       },
       {
@@ -393,10 +383,6 @@ export const STUDY_MEMBERSHIP = {
         "percent": 1.4
       },
       {
-        "brand": "Trick",
-        "percent": 1.4
-      },
-      {
         "brand": "Yamaha",
         "percent": 1.4
       }
@@ -410,14 +396,11 @@ export const STUDY_MEMBERSHIP = {
       "inferno",
       "hellhammer",
       "art-cruz",
-      "arin-ilejay",
       "navene-koperweis",
       "alex-bent",
       "shannon-larkin",
       "morgan-agren",
       "igor-cavalera",
-      "bill-ward",
-      "nick-augusto",
       "matt-greiner",
       "blake-richardson",
       "ben-koller",
@@ -430,21 +413,16 @@ export const STUDY_MEMBERSHIP = {
       "scott-travis",
       "frost",
       "gavin-harrison",
-      "abe-cunningham",
       "richard-christy",
       "paul-mazurkiewicz",
       "matt-garstka",
-      "daniel-erlandsson",
       "jaska-raatikainen",
       "hannes-grossmann",
       "daray",
       "jocke-wallgren",
       "tim-yeung",
       "kevin-talley",
-      "isaac-lamb",
-      "martin-axenrot",
       "sean-reinert",
-      "nick-menza",
       "adrian-erlandsson"
     ]
   },

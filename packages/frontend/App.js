@@ -5539,7 +5539,7 @@ const DRUMMER_PAGE_META_OVERRIDES = {
   },
   'inferno': {
     title: 'Inferno Drum Kit & Setup — Behemoth Gear Breakdown | MetalForge',
-    description: "What drum kit does Inferno use? The Behemoth drummer's Pearl Masterworks kit, Paiste RUDE cymbals, and Czarcie Kopyto double pedal — complete setup.",
+    description: "What drum kit does Inferno use? The Behemoth drummer's Pearl Reference Series kit, Paiste RUDE cymbals, and Czarcie Kopyto double pedal — complete setup.",
   },
   'shannon-larkin': {
     title: 'Shannon Larkin Drum Kit & Drum Set — Godsmack Drummer | MetalForge',

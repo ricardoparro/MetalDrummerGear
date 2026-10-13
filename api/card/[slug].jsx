@@ -278,7 +278,7 @@ const drummers = {
     country: 'Poland',
     image: 'https://metalforge.io/images/drummers/inferno.webp',
     gear: {
-      drums: 'Pearl Masterworks',
+      drums: 'Pearl Reference Series',
       snare: 'Pearl Reference',
       cymbals: 'Meinl Byzance Brilliant',
       hardware: 'Pearl Demon Drive',

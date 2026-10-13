@@ -1094,7 +1094,7 @@ export const GEAR_PRICE_HISTORY = {
 
   // ==========================================
   // PETE SANDOVAL - 1989 Morbid Angel / Altars of Madness Era
-  // Pearl Export Setup
+  // ddrum Setup (model unconfirmed)
   // ==========================================
   'pete-sandoval': {
     slug: 'pete-sandoval',
@@ -1124,18 +1124,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       snare: {
-        item: 'Pearl Steel Snare 14"x5.5"',
-        model: 'Steel shell snare',
-        specs: '14"x5.5" seamless steel shell, 8-lug',
+        item: 'ddrum snare, model unconfirmed',
+        model: 'unconfirmed model',
+        specs: 'specs not publicly documented',
         originalPrice: 180,
         year: 1989,
-        source: 'Pearl snare catalog 1989',
-        notes: 'Bright, cutting steel snare providing sharp crack for Sandoval\'s blast beat snare hits. The steel shell projects strongly through dense, down-tuned guitar tracks — essential on a 1989 Scott Burns recording.',
+        source: 'ddrum endorsement per endorsementNews.js verified record; specific snare model unconfirmed',
+        notes: 'Sandoval\'s snare was part of his ddrum endorsement from 1989; the exact model and specs are not publicly documented.',
         vintageValue2026: 280,
         modernEquivalent: {
-          item: 'Pearl Sensitone Elite Steel 14"x5"',
-          price: 350,
-          link: 'pearl-sensitone-elite',
+          item: 'ddrum snare (model unconfirmed)',
+          price: 280,
+          link: null,
         },
       },
       cymbals: {

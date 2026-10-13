@@ -419,12 +419,11 @@ const drummers = [
     genre: 'Thrash Metal / Groove Metal / Death Metal',
     image: '/images/drummers/igor-cavalera.webp',
     gear: {
-      drums: 'Tama Starclassic Maple',
-      snare: 'Tama S.L.P. 14x6.5" G-Maple',
-      cymbals: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)',
+      drums: 'Yamaha Absolute Hybrid Maple',
+      cymbals: 'Zildjian A Custom Series',
       hardware: 'Tama Iron Cobra Double Pedal, Tama Throne',
       sticks: 'Vic Firth American Classic 5B',
-      heads: 'Evans'
+      heads: 'Remo'
     }
   },
   {

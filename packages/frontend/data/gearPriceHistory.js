@@ -9303,7 +9303,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Death Cult Armageddon (2003)',
     profileImage: '/images/drummers/nick-barker.webp',
 
-    summary: "Nick Barker's 2003 setup behind Dimmu Borgir's Death Cult Armageddon — his final studio album with the Norwegian symphonic black metal band before departing in 2004 — ran on the Sonor kit that Sonor's own artist page credits him with playing continuously from his 1993–1999 tenure in Cradle of Filth through his 1999–2004 run in Dimmu Borgir, recording both Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003). Barker's cymbal brand for this era is not publicly documented, so this profile omits a specific make and model. The complete rig cost approximately $6,670 in 2003 dollars, equivalent to roughly $11,876 today after inflation. Barker is a longtime official Sonor artist across both bands, though Sonor's own artist materials don't itemize a specific kit spec beyond the brand itself.",
+    summary: "Nick Barker's 2003 setup behind Dimmu Borgir's Death Cult Armageddon — his final studio album with the Norwegian symphonic black metal band before departing in 2004 — ran on the Sonor kit that Sonor's own artist page credits him with playing continuously from his 1993–1999 tenure in Cradle of Filth through his 1999–2004 run in Dimmu Borgir, recording both Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003). Barker's cymbal brand for this era is not publicly documented, so this profile omits a specific make and model. No specific snare model is publicly documented either. The complete rig cost approximately $6,400 in 2003 dollars, equivalent to roughly $11,395 today after inflation. Barker is a longtime official Sonor artist across both bands, though Sonor's own artist materials don't itemize a specific kit spec beyond the brand itself.",
 
     setup: {
       drums: {
@@ -9322,18 +9322,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       snare: {
-        item: 'Sonor 14"x3.5" Piccolo',
-        model: '14"x3.5" free-floating piccolo, maple shell',
-        specs: '14" x 3.5" maple shell, free-floating',
-        originalPrice: 420,
+        item: 'Snare (brand not publicly documented)',
+        model: 'unconfirmed, standard configuration',
+        specs: 'Shell material, dimensions, and brand not publicly documented',
+        originalPrice: 150,
         year: 2003,
-        source: 'Sonor snare catalog pricing 2003',
-        notes: 'Free-floating piccolo depth chosen for a tighter, higher-pitched crack suited to blast-beat-driven black/death metal.',
-        vintageValue2026: 350,
+        source: 'Entry-level/mid-range snare pricing estimate, 2003; no snare-specific endorsement or catalog record is publicly documented for Barker — endorsementNews.js lists only the Sonor drum-kit brand',
+        notes: 'No snare brand/model is documented for Barker in this era — neither Sonor\'s artist materials nor endorsementNews.js list a snare for him.',
+        vintageValue2026: 130,
         modernEquivalent: {
-          item: 'Sonor SQ2 Piccolo Snare (Current)',
-          price: 600,
-          link: 'sonor-sq2-piccolo-nick-barker',
+          item: 'Entry-level snare (brand unconfirmed)',
+          price: 220,
+          link: null,
         },
       },
       cymbals: {
@@ -9369,16 +9369,16 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     totals: {
-      originalTotal: 6670,
+      originalTotal: 6400,
       inflationAdjusted2026: null, // Calculated dynamically
-      vintageTotal2026: 5600,
-      modernEquivalentTotal: 10000,
+      vintageTotal2026: 5380,
+      modernEquivalentTotal: 9620,
     },
 
     priceEvolution: [
       { year: 1999, price: 3000, label: 'Joins Dimmu Borgir', event: 'Departs Cradle of Filth and joins Norwegian symphonic black metal band Dimmu Borgir, continuing on Sonor' },
-      { year: 2003, price: 6670, label: 'Original Purchase', event: "Special-order Sonor kit built for the Death Cult Armageddon era" },
-      { year: 2026, price: 11876, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2003 Death Cult Armageddon-era Sonor rig' },
+      { year: 2003, price: 6400, label: 'Original Purchase', event: "Special-order Sonor kit built for the Death Cult Armageddon era" },
+      { year: 2026, price: 11395, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2003 Death Cult Armageddon-era Sonor rig' },
     ],
 
     sources: [
@@ -9387,7 +9387,7 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: 'Nick Barker Drum Setup Cost | Dimmu Borgir Gear Price History',
-      description: "How much was Nick Barker's Death Cult Armageddon-era Sonor kit worth? Original ~$6,670 in 2003, inflation-adjusted to ~$11,876 today. Complete Dimmu Borgir gear breakdown.",
+      description: "How much was Nick Barker's Death Cult Armageddon-era Sonor kit worth? Original ~$6,400 in 2003, inflation-adjusted to ~$11,395 today. Complete Dimmu Borgir gear breakdown.",
       keywords: ['nick barker drum setup cost', 'dimmu borgir drummer gear price', 'nick barker sonor', 'nick barker gear cost today', 'death cult armageddon drum kit'],
     },
   },

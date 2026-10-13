@@ -13722,7 +13722,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2000–2018',
         startYear: 2000,
         endYear: 2018,
-        description: 'By the mid-2000s Travis had moved into Pearl\'s flagship Reference Series, a hybrid maple/birch/mahogany shell pack that carried him through Rob Halford\'s 2003 return to the band. Angel of Retribution (2005) closed the fifteen-year arc from Painkiller to the orchestral concept work of Nostradamus (2008), and the Pearl Reference kit\'s dynamic range — able to serve both records\' heaviest and quietest passages without a setup change — proved essential to Nostradamus\'s 23-track, two-hour scope. His Sabian cymbal setup evolved in step, moving from an HH/AA hybrid on Angel of Retribution and Nostradamus toward a fuller HHX configuration by Redeemer of Souls (2014), the Andy Sneap-produced, Grammy-nominated album that began the drier, more upfront production sound Priest would carry into Firepower.',
+        description: 'By the mid-2000s Travis had moved into Pearl\'s flagship Reference Series, a hybrid maple/birch/mahogany shell pack that carried him through Rob Halford\'s 2003 return to the band. Angel of Retribution (2005) closed the fifteen-year arc from Painkiller to the orchestral concept work of Nostradamus (2008), and the Pearl Reference kit\'s dynamic range — able to serve both records\' heaviest and quietest passages without a setup change — proved essential to Nostradamus\'s 23-track, two-hour scope. His Paiste RUDE/2002 cymbals, Vic Firth sticks, and Remo heads all carried over unchanged through Redeemer of Souls (2014), the Andy Sneap-produced, Grammy-nominated album that began the drier, more upfront production sound Priest would carry into Firepower.',
         albums: ['Angel of Retribution (2005)', 'Nostradamus (2008)', 'Redeemer of Souls (2014)'],
         tours: ['Angel of Retribution Tour 2005', 'Nostradamus World Tour 2008–2009', 'Redeemer of Souls Tour 2014–2015'],
         image: null,
@@ -13741,10 +13741,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Sabian HH/AA hybrid → HHX transitional',
-            details: '14" hi-hats, 16"–20" crashes, 21"–22" ride, 18" China',
-            notes: 'Moved from Paiste to Sabian with the Pearl deal; hand-hammered HH and machine-hammered AA gave two tonal palettes on Nostradamus, evolving toward brighter HHX models by Redeemer of Souls.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Paiste RUDE / 2002 Series',
+            details: '14" hi-hats, 16"–20" crashes, 20" ride, 18" China',
+            notes: 'Unchanged Paiste RUDE/2002 rig carried over from the Painkiller era — the endorsement Travis established in May 1987 has never switched brands.',
+            change: null,
           },
           hardware: {
             item: 'Pearl Demon Drive (x2 independent pedals)',
@@ -13753,16 +13753,16 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vater Scott Travis Signature',
-            details: 'Signature model',
-            notes: 'Moved to a Vater signature stick model during this era, replacing the Vic Firth 5B.',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Vic Firth 5B',
+            details: 'Hickory 5B',
+            notes: 'Continued the same Vic Firth 5B sticks used since the Painkiller era — no signature model switch.',
+            change: null,
           },
           heads: {
-            item: 'Evans EMAD / EC2 / HD Dry',
-            details: 'EMAD kick batter, EC2 tom batter, HD Dry snare batter',
-            notes: 'Switched from Remo to Evans for a more controlled, focused sound suited to Pearl\'s Reference shells.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Remo Emperor / Ambassador',
+            details: 'Emperor batter heads, Ambassador resonant heads',
+            notes: 'Continued the same Remo heads used since 1990 — no brand switch.',
+            change: null,
           },
         },
 
@@ -13777,7 +13777,7 @@ export const DRUMMER_EVOLUTION = {
           'Angel of Retribution (2005) — Rob Halford\'s return to Priest after 13 years',
           'Nostradamus (2008) — 23-track double concept album demanding the Reference kit\'s full dynamic range',
           'Redeemer of Souls (2014) — Grammy-nominated "Halls of Valhalla," first album produced by Andy Sneap',
-          'Cymbal transition from Paiste to Sabian HH/AA, evolving toward HHX by 2014',
+          'Paiste RUDE/2002 cymbals, Vic Firth sticks, and Remo heads carried over unchanged from the Painkiller era',
         ],
 
         quote: {

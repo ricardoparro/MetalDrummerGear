@@ -14760,7 +14760,7 @@ This guide breaks down the technique, gear, and practice approach behind Koperwe
     genre: 'Symphonic Black Metal',
     priority: 57,
     title: "How to Sound Like Daray: Complete Gear & Technique Guide",
-    description: "Master Daray's orchestral-precision symphonic black metal style. Learn the Dimmu Borgir drummer's blast beat control, Pearl Reference Pure setup, and the technique needed to lock in with a live orchestra.",
+    description: "Master Daray's orchestral-precision symphonic black metal style. Learn the Dimmu Borgir drummer's blast beat control, Tama Starclassic Performer B/B setup, and the technique needed to lock in with a live orchestra.",
     seoKeywords: ['daray drumming', 'how to sound like daray', 'dimmu borgir drummer', 'daray drum technique', 'symphonic black metal drummer', 'daray drum setup'],
     ogImage: '/images/guides/daray-guide.webp',
     datePublished: '2026-07-02',
@@ -14779,7 +14779,7 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
         "Replaced Hellhammer in Dimmu Borgir in 2008, one of symphonic black metal's most demanding drum chairs",
         "Combines death metal blast-beat speed (roughly four years with Vader, 2004-2008) with orchestral timing precision",
         "Must lock in with live orchestra and choir arrangements that cannot adjust to the drummer",
-        "Pearl Reference Pure kit and Paiste cymbals engineered for consistency from clubs to festival stages"
+        "Tama Starclassic Performer B/B kit and Paiste cymbals engineered for consistency from clubs to festival stages"
       ]
     },
     technique: {
@@ -14826,23 +14826,23 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
     gear: {
       title: "Daray's Gear Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Reference Pure',
-        shells: 'Pure Maple/Birch hybrid',
-        finish: 'Custom Black',
+        brand: 'Tama',
+        model: 'Tama Starclassic Performer B/B',
+        shells: 'Birch/Bubinga hybrid',
+        finish: 'Piano Black',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 5" Pearl Reference Brass Snare',
+          snare: '14" x 6.5" Tama S.L.P. Black Brass LBR1465 Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Daray's Pearl Reference Pure kit is engineered for consistent resonance across both intimate studio sessions and Dimmu Borgir's large-scale festival productions — critical when the kit needs to sound identical whether tracking against a philharmonic orchestra or projecting through an arena PA. Earlier in the band's Death Cult Armageddon era (2003) the drum chair used a Tama Starclassic Performer kit for a similar orchestral-integration role.",
-        affiliateNote: "Pearl Decade Maple or Pearl Export offer a similar tonal character for players building toward this setup."
+        description: "Daray's Tama Starclassic Performer B/B kit, played since 2014, is engineered for consistent resonance across both intimate studio sessions and Dimmu Borgir's large-scale festival productions — critical when the kit needs to sound identical whether tracking against a philharmonic orchestra or projecting through an arena PA. Earlier in the band's Death Cult Armageddon era (2003) the drum chair used a Tama Starclassic Performer kit for a similar orchestral-integration role.",
+        affiliateNote: "Tama Imperialstar or Tama Superstar offer a similar tonal character for players building toward this setup."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Reference 14" x 5" Brass',
-        size: '14" x 5"',
+        brand: 'Tama',
+        model: 'Tama S.L.P. Black Brass LBR1465',
+        size: '14" x 6.5"',
         shell: 'Brass',
         description: "The brass shell delivers a bright, cutting crack that projects clearly alongside a full orchestra and choir without disappearing into the mix — essential when the snare has to cut through both distorted guitars and a 70-piece string section.",
         alternative: "Pearl Sensitone Brass or Ludwig Supraphonic for a similar bright, brass-shell crack"
@@ -14940,7 +14940,7 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
         cymbals: "Paiste PST 5 or Sabian B8X Pack ($200-300)",
         pedals: "Tama Speed Cobra Double (entry) ($150)",
         sticks: "Vic Firth American Classic 5B ($10)",
-        notes: "The Export shares a similar shell voicing to the Reference Pure, making it a solid budget entry point for this style."
+        notes: "The Export shares a similar shell voicing to the Starclassic Performer B/B, making it a solid budget entry point for this style."
       },
       mid: {
         price: "$3,200",
@@ -14954,7 +14954,7 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "Pearl Reference Pure ($2,800+)",
+        kit: "Tama Starclassic Performer B/B ($2,800+)",
         cymbals: "Full Paiste RUDE/2002 selection ($1,700+)",
         pedals: "Pearl Demon Drive Double Pedal ($600)",
         heads: "Full Evans setup ($150)",
@@ -14964,7 +14964,7 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
     faq: [
       {
         question: "What drum kit does Daray play?",
-        answer: "Daray plays a Pearl Reference Pure kit in a custom black finish, with a double 22\" x 18\" bass drum configuration and a 14\" x 5\" Pearl Reference brass snare. His cymbals are Paiste RUDE and 2002 series, and he uses a Pearl Demon Drive double pedal."
+        answer: "Daray plays a Tama Starclassic Performer B/B kit in Piano Black finish, with a double 22\" x 18\" bass drum configuration and a 14\" x 6.5\" Tama S.L.P. Black Brass LBR1465 snare. His cymbals are Paiste RUDE and 2002 series, and he uses a Pearl Demon Drive double pedal."
       },
       {
         question: "How does Daray play with a live orchestra?",

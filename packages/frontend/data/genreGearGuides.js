@@ -2929,7 +2929,7 @@ Budget shouldn't stop you — Remo Coated Pinstripe and Evans G1 Coated both off
       title: "Why Symphonic Metal Needs Heads That Cut Through an Orchestra",
       content: `Symphonic metal buries a drum kit under some of the densest arrangements in the genre — string sections, choirs, keyboards, and full orchestral programming all competing for the same frequency space. A drum head that sounds full and controlled in a dry rehearsal room can completely disappear once that orchestral wall is mixed in, which is why symphonic metal drummers need heads engineered specifically for bright, cutting projection rather than warmth alone.
 
-Daray's work with Dimmu Borgir set the modern standard, running a Pearl Masterworks kit voiced for maximum projection against the band's famously maximalist orchestral arrangements. Hellhammer moves fluidly between raw black metal and full symphonic grandeur across Mayhem and Dimmu Borgir, needing heads that stay articulate at blast beat speed while still cutting through a mixed-in orchestra. Frost of Satyricon brings the same dual-band dynamic control, and Jaska Raatikainen's work with Children of Bodom shows how a bright, precise drum tone locks into keyboard-orchestrated melodic material rather than fighting it.
+Daray's work with Dimmu Borgir set the modern standard, running a Tama Starclassic Performer B/B kit voiced for maximum projection against the band's famously maximalist orchestral arrangements. Hellhammer moves fluidly between raw black metal and full symphonic grandeur across Mayhem and Dimmu Borgir, needing heads that stay articulate at blast beat speed while still cutting through a mixed-in orchestra. Frost of Satyricon brings the same dual-band dynamic control, and Jaska Raatikainen's work with Children of Bodom shows how a bright, precise drum tone locks into keyboard-orchestrated melodic material rather than fighting it.
 
 This guide covers the drum heads that deliver symphonic metal's bright, cutting, blast-beat-durable character — why clear and lightly coated constructions with real projection matter more here than the warm, dampened heads favored elsewhere in metal, and which specific models the genre's defining drummers actually use.`,
       keyPoints: [
@@ -2997,7 +2997,7 @@ This guide covers the drum heads that deliver symphonic metal's bright, cutting,
           tier: "pro",
           material: "2-Ply Coated (10mil + 10mil)",
 
-          description: `Daray's Pearl Masterworks kit with Dimmu Borgir runs Evans Emperor and Ambassador heads chosen for maximum projection against the band's dense, full-orchestra arrangements. The Emperor's brighter attack and Level 360 tuning stability cut through mixed-in strings, choirs, and keyboards far better than a warmer, more dampened alternative.
+          description: `Daray's Tama Starclassic Performer B/B kit with Dimmu Borgir runs Evans Emperor and Ambassador heads chosen for maximum projection against the band's dense, full-orchestra arrangements. The Emperor's brighter attack and Level 360 tuning stability cut through mixed-in strings, choirs, and keyboards far better than a warmer, more dampened alternative.
 
 For symphonic metal that leans toward the maximalist, orchestral-black-metal end of the spectrum, the Emperor/Ambassador combination gives the durability and cutting projection the genre's densest arrangements demand.`,
 

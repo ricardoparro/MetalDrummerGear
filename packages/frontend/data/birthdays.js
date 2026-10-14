@@ -535,11 +535,11 @@ export const drummerBirthdays = [
     image: '/images/drummers/hannes-grossmann.webp',
     isLiving: true
   },
-  // Behemoth / Vader
+  // Dimmu Borgir / Vader
   {
     slug: 'daray',
     name: 'Daray',
-    band: 'Behemoth / Vader',
+    band: 'Dimmu Borgir / Vader',
     birthDate: '1980-01-30',
     birthMonth: 1,
     birthDay: 30,

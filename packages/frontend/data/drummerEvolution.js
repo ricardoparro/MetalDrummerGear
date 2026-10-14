@@ -11922,7 +11922,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What cymbals and pedals does Dirk Verbeuren use?',
-        a: 'Verbeuren uses Meinl Byzance/Mb20 cymbals for a dark, complex tone, paired with a Tama Speed Cobra 910 double bass pedal. Both carried over from his Soilwork years and remain his confirmed current Megadeth setup.',
+        a: 'Verbeuren uses Meinl Byzance Brilliant Heavy Hammered and Classics Custom Dark cymbals for a dark, complex tone, a setup he switched to in 2022, paired with a Tama Speed Cobra 910 double bass pedal — his confirmed current Megadeth setup.',
       },
     ],
 

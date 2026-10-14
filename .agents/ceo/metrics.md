@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-14 07:08 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-14 08:22 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 419 |
-| Sessions | 481 |
-| Page views | 689 |
-| Engagement rate | 50.94% |
+| Active users | 420 |
+| Sessions | 483 |
+| Page views | 691 |
+| Engagement rate | 50.72% |
 | Avg session (s) | 114 |
 
 ### Top pages (by page views, last 7d)
@@ -25,15 +25,15 @@
 | /drummer/mario-duplantier | 15 | 13 |
 | /drummer/bill-ward | 10 | 8 |
 | /drummers/mike-portnoy/evolution | 10 | 4 |
+| /articles/whats-in-lars-ulrichs-kit | 9 | 7 |
 | /articles/black-sabbath-drum-setup | 8 | 8 |
-| /articles/whats-in-lars-ulrichs-kit | 8 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 339 | 283 |
+| Organic Search | 341 | 284 |
 | Direct | 117 | 115 |
-| Unassigned | 63 | 56 |
+| Unassigned | 64 | 57 |
 | Cross-network | 8 | 8 |
 
 ### Top countries (sessions, last 7d)
@@ -43,10 +43,10 @@
 | Singapore | 52 | 52 |
 | China | 25 | 25 |
 | Canada | 23 | 18 |
-| United Kingdom | 20 | 17 |
+| United Kingdom | 21 | 17 |
 | Germany | 18 | 16 |
 | France | 13 | 12 |
-| Australia | 11 | 10 |
+| Australia | 12 | 11 |
 | Brazil | 10 | 10 |
 | New Zealand | 10 | 4 |
 

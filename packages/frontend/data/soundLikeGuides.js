@@ -9685,7 +9685,7 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
       title: "Mazurkiewicz's Gear Setup",
       drumKit: {
         brand: 'Pearl',
-        model: 'Pearl Masters Maple Complete',
+        model: 'Pearl Reference',
         shells: 'Maple',
         finish: 'Custom dark finish',
         config: {
@@ -9694,15 +9694,15 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Mazurkiewicz favors a punchy, articulate Pearl Masters Maple Complete kit that delivers attack and projection for brutal death metal. The setup is built for clarity at speed and heaviness in the groove sections.",
-        affiliateNote: "Pearl Masters Maple Complete or Export provide similar attack at various price points."
+        description: "Mazurkiewicz favors a punchy, articulate Pearl Reference kit that delivers attack and projection for brutal death metal. The setup is built for clarity at speed and heaviness in the groove sections.",
+        affiliateNote: "Pearl Reference or Export provide similar attack at various price points."
       },
       snare: {
         brand: 'Pearl',
-        model: 'Pearl Masters 14"x6.5" Maple',
+        model: 'Pearl Free-Floating',
         size: '14" x 6.5"',
-        shell: 'Maple',
-        description: "A maple snare tuned bright and tight for a powerful, cutting crack that drives Cannibal Corpse's relentless patterns. The depth adds body to the brutal mid-tempo grooves while staying sharp at speed.",
+        shell: 'Steel',
+        description: "A steel Free-Floating snare tuned bright and tight for a powerful, cutting crack that drives Cannibal Corpse's relentless patterns. The depth adds body to the brutal mid-tempo grooves while staying sharp at speed.",
         alternative: "Pearl Sensitone or Tama Metalworks Steel for similar cut"
       },
       cymbals: {
@@ -9719,9 +9719,9 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
       },
       pedals: {
         brand: 'Pearl',
-        model: 'Pearl Demon Drive Double Pedal',
-        description: "Mazurkiewicz uses a Pearl Demon Drive double pedal for its power and reliability. Because his style leans on hand-led blasts and skank beats rather than constant double bass, he favors a solid, powerful feel over an ultra-light action.",
-        alternative: "Pearl Eliminator or Tama Speed Cobra for similar feel"
+        model: 'Pearl Eliminator Double Bass Pedal',
+        description: "Mazurkiewicz uses a Pearl Eliminator double pedal for its power and reliability. Because his style leans on hand-led blasts and skank beats rather than constant double bass, he favors a solid, powerful feel over an ultra-light action.",
+        alternative: "Tama Speed Cobra or DW 5000 for similar feel"
       },
       sticks: {
         brand: 'Vic Firth',

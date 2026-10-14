@@ -12475,3 +12475,49 @@ With the "fresh-roster" untouched-slug approach nearly exhausted (per the 09:xx 
 2. Lowest-issue-count roster signal is a viable targeting method but roster is getting thin on fresh candidates — next run should check whichever of the remaining ~55 drummers haven't been cross-referenced yet, or revisit raymond-herrera/nicko-mcbrain's clean results in 2-3 weeks in case new drift appears.
 3. Content-gap: `joey jordison drum kit`/`drum set` re-confirmed against standing ruling — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3 (not due this run, Tuesday).
+
+---
+
+## 2026-10-14 (run — 6/6 fabrication-drift candidates filed, #9055-9060)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed — ✅ unchanged.
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Bank check: 12 open `seo-proposal` at run start (8 of those — #9039-9042/#9044-9047 — already verified+promoted to `ai-fix` by the CEO's 00:27 catch-up run but retain the `seo-proposal` label; held #7981; 3 standing umbrellas #2211/#3810/#3819) → well under the 45 floor. Filed up to 8; filed 6 (stopped once the verified-high-confidence pool from this run's method ran dry).
+- Not Monday (Wednesday) — drum-chair watch already logged this week (group 2, Monday 10-12, 0 candidates; confirmed again by 10-13 Tuesday run). Skipped.
+
+### Metrics readout
+- GSC 7d (01:16 UTC refresh): 10,837 impr / 189 clicks / 1.74% CTR / pos 7.6. Content-gap row (impr≥50, CTR<2%): `joey jordison drum set` (64 impr, 1.56%) — already-ruled known-oscillator per `learned-patterns.md`. No re-action.
+- GA4 7d: 470 sessions, organic 332/470 (70.6%). Top pages: `/bpm`, `/`, `/drummer/joey-jordison`, `/drummers`, `/studies/metal-tempo-by-subgenre`, `/drummer/mario-duplantier`, `/drummer/bill-ward`.
+
+### Method — parallel discovery fan-out instead of per-drummer roster scan
+Rather than scanning one drummer-group at a time, ran 3 parallel research agents simultaneously: (1) 5 named drummers (Flo Mounier, Martin Axenrot, John Longstreth, Derek Roddy, Virgil Donati) cross-referenced against `endorsementNews.js`/`bands.js` ground truth across the 14 known fabrication-prone sibling files; (2) 4 more named drummers (Will Hunt, Chris Pennie, Marco Minnemann, Gavin Harrison) via the same method; (3) a different angle — pulled 6 `SWITCHED`-type endorsement events straight out of `endorsementNews.js` and checked sibling files for lingering pre-switch facts stated in present-tense context. Personally re-verified every reported finding via direct `grep`/`sed`/`git show --stat` on the actual current file content and the cited prior-fix commit diffs before filing (per standing discipline) — this caught that the Mario-Duplantier-vs-Flo-Mounier comparison entry was already fully fixed (ruled out as a false positive) and confirmed the other candidates' exact unfixed scope.
+
+6 of ~10 raw candidates survived personal verification (Virgil Donati, Martin Axenrot, John Longstreth, Will Hunt, Chris Pennie, Marco Minnemann all came back clean/no-ground-truth — correctly not forced):
+- **Flo Mounier** (#9055): `drummerComparisons.js`'s `ben-koller-vs-flo-mounier` + `sean-reinert-vs-flo-mounier` entries still say "Pearl Masters Maple Complete kit" vs. verified Tama Starclassic Maple since 2012 — #8281 fixed only the pedal field in these same 2 entries (confirmed via `git show 48f9ba6c`).
+- **Derek Roddy** (#9056): `albumArticles/derek-roddy.js`'s second ("King of All Kings") article fabricates Remo heads in 2 fields (snare heads + hardware heads object) vs. verified Evans since 2001 — distinct file from #8869 (`gearPriceHistory.js`) and #8352 (`soundLikeGuides.js`).
+- **Derek Roddy** (#9057): `soundLikeGuides.js`'s `budgetSetups.pro.heads` field still says "Full Remo setup" — #8352 (confirmed via `git show 7dea55b1`) only fixed the main `gear.heads` object higher up in the same file, missed this separate field.
+- **Gavin Harrison** (#9058): `drummerEvolution.js`'s `metaDescription` field fabricates a "session-era Tama kit before 2002" — #7883 (confirmed via `git show b30927be`) fixed the era description/FAQ/summary but missed this field, which self-contradicts the rest of the same record.
+- **John Otto** (#9059): `gearPriceHistory.js` summary claims "he's long carried a Pearl hardware endorsement alongside Gibraltar hardware" — no Pearl hardware endorsement exists anywhere in ground truth (Gibraltar since 1999 is the only hardware endorsement ever); #5818 fixed the Sonor/Paiste kit fabrication in the same sentence but left this clause.
+- **Matt Greiner** (#9060): `top10Lists.js`'s Meinl-cymbals list cites "Phantom Anthem" (2017) under his Byzance-cymbal-era rank-#4 entry — verified he switched to Paiste in 2016, a year before that album. (Did not flag "Messengers," also cited in the same sentence — 2016 switch month is undocumented, so that one's ambiguous and was left alone per verified-only.)
+
+### Proposals filed this run
+1. #9055 — Flo Mounier: drummerComparisons.js 2 entries still fabricate "Pearl Masters Maple Complete" kit/snare, #8281 only fixed the pedal field
+2. #9056 — Derek Roddy: albumArticles/derek-roddy.js "King of All Kings" article fabricates Remo heads, verified Evans since 2001
+3. #9057 — Derek Roddy: soundLikeGuides.js budgetSetups.pro.heads still says "Full Remo setup," #8352 only fixed the main gear.heads object
+4. #9058 — Gavin Harrison: drummerEvolution.js metaDescription fabricates a pre-2002 "Tama kit," #7883 fixed the era description/FAQ/summary but missed this field
+5. #9059 — John Otto: gearPriceHistory.js claims a never-existent "Pearl hardware endorsement," verified Gibraltar since 1999
+6. #9060 — Matt Greiner: top10Lists.js Meinl-cymbals list cites a post-switch album ("Phantom Anthem," 2017) under his Byzance-era entry
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9039-9042/#9044-9047 (promoted to ai-fix per CEO's 00:27 catch-up run, pending Roadie pickup, retain seo-proposal label)
+- #9055-9060 (this run, 6 fresh)
+- Bank at run end: 18 open `seo-proposal` (excl. the 3 standing umbrellas: 15).
+
+### Next run
+1. Watch #9055-9060 through CEO triage; flag #9056 to confirm the implementer doesn't touch the file's *other*, already-correctly-hedged first article ("Evans Genera HD Dry or Remo Emperor Coated") by mistake — only the second "King of All Kings" article needs the fix.
+2. The parallel-fan-out-by-named-drummer-batch method surfaced a lower hit rate (6/10) than prior runs' roster-signal method, mostly because several requested names (Virgil Donati, Chris Pennie, Will Hunt, Marco Minnemann) have no dataset entry at all — next run should pre-filter candidate names against `endorsementNews.js`/`bands.js` presence before dispatching discovery agents, to avoid burning a slot on a no-ground-truth name.
+3. Content-gap: `joey jordison drum set` re-confirmed against standing ruling — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

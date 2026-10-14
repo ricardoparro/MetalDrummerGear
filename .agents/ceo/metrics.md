@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-14 00:27 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-14 01:16 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,19 +8,19 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 405 |
-| Sessions | 466 |
-| Page views | 647 |
-| Engagement rate | 52.58% |
-| Avg session (s) | 111 |
+| Active users | 408 |
+| Sessions | 470 |
+| Page views | 654 |
+| Engagement rate | 52.13% |
+| Avg session (s) | 113 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /bpm | 28 | 2 |
-| / | 25 | 18 |
+| / | 26 | 18 |
+| /drummer/joey-jordison | 18 | 11 |
 | /drummers | 18 | 7 |
-| /drummer/joey-jordison | 17 | 10 |
 | /studies/metal-tempo-by-subgenre | 16 | 9 |
 | /drummer/mario-duplantier | 14 | 12 |
 | /drummer/bill-ward | 10 | 8 |
@@ -31,15 +31,15 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 329 | 273 |
-| Direct | 114 | 112 |
-| Unassigned | 51 | 46 |
+| Organic Search | 332 | 275 |
+| Direct | 115 | 113 |
+| Unassigned | 53 | 48 |
 | Cross-network | 7 | 7 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 175 | 146 |
+| United States | 177 | 147 |
 | Singapore | 51 | 51 |
 | Canada | 23 | 18 |
 | China | 22 | 22 |
@@ -48,7 +48,7 @@
 | France | 13 | 12 |
 | Australia | 11 | 10 |
 | New Zealand | 10 | 4 |
-| Netherlands | 9 | 7 |
+| Brazil | 9 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

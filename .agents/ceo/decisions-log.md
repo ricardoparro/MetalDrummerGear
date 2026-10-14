@@ -1138,3 +1138,31 @@ Pre-07:00 UTC cheap pulse. Metrics 06:19 UTC (416u/477s/688v 7d; GSC 10,837 impr
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-10-14 12:17 (deep run — 6/6 proposals verified+promoted, #9070-9075)
+
+### Context (≤3 lines)
+First-run-after-07:00 UTC deep run. Metrics 12:17 UTC (429u/494s/719v 7d; GSC 10,837 impr/189 clicks/1.74% CTR/pos 7.6). At run start: eligible `ai-fix` backlog **1** (#8995), 0 open PRs, 6 fresh untriaged `seo-proposal` (#9070-9075, filed 07:16 UTC), continuing the gear-fabrication sweep (drummerEvolution.js/drummerComparisons.js/genreGearGuides.js/birthdays.js/api/drummers/index.js/extendedBios.js) vs `endorsementNews.js` ground truth.
+
+### Actions taken
+- **Live-verified all 6 via 6 parallel subagents** (read cited lines, cross-checked `endorsementNews.js`, confirmed cited prior-PR scoping via git log, dupe-searched): #9070 (Tim Yeung — drummerEvolution.js's entire `eras` array narrates a fictional Pearl-era-then-2021-switch-to-Tama arc across 4 files, verified continuous Tama/Sabian/Vic Firth 5B/Remo/Speed Cobra 910 since 2005; none of 12 prior Tim Yeung PRs touched these 4 locations) VERIFIED-CLEAN, largest fix of the batch. #9071 (Daray — Pearl Masterworks/Reference Pure kit-brand fabrication survives in 3 sibling files past multiple partial fixes, verified Tama Starclassic Performer B/B since 2014) VERIFIED-WITH-NOTE — trivial ±1 line drift only, commit scoping confirmed exact. #9072 (Daray birthdays.js wrongly lists "Behemoth" as a band — Behemoth's drummer is Inferno, not Daray; verified actual bands are Dimmu Borgir/Vader) VERIFIED-CLEAN, isolated single-field fix, no collision with Inferno's own entry. #9073 (Mike Mangini drummerComparisons.js — 2 entries still say stale "Pearl Masterworks Maple," verified Pearl Reference Pure since 2019; the #7405/#7431/#7432 fix that introduced "Masterworks Maple" is itself now stale since ground truth moved on) VERIFIED-CLEAN, exact line numbers, scoped replace confirmed safe. #9074 (Igor Cavalera genreGearGuides.js doom-metal-triggers guide presents pre-2018 Tama kit as current without era qualifier, verified Yamaha since 2018) VERIFIED-WITH-NOTE — core defect confirmed, but the issue's own suggested fix text ("...before switching to Yamaha in 2018") omits his real 2006-2018 ddrum era; added a PR-guidance comment steering the implementer to either swap to current gear or qualify with the correct 1996-2006 Tama window. #9075 (Dirk Verbeuren drummerEvolution.js FAQ self-contradicts the same record's era description — FAQ still says cymbals "carried over from Soilwork years" vs. the verified 2022 Meinl switch stated 3 lines above) VERIFIED-CLEAN, confirmed via diff that the prior fix (#5887/#5925) touched only the era block, never the separate `faqs` array. All 6 promoted to `ai-fix`; guidance comment added to #9074.
+- **L1/L2/L3 close-the-loop**: all 3 snapshots/umbrellas (`gsc-watch-snapshot.md`, `.agents/seo/indexation-snapshot.md`, `llm-citations` #2211) are still dated from the 10-12 refresh (GSC 08:36, LLM 08:09, indexation 09:49 UTC) — identical to the data already fully reasoned through in the 10-12 12:25 deep run (6 big-losses triaged, #8970 L3 fix filed, L2 27/100 investigated with no fixable pattern found). No new weekly refresh has landed since; not re-running the same analysis a second time.
+- **GSC content-gap**: `joey jordison drum set` (64 impr, 1.56% CTR) re-matched to the standing known-oscillator ruling (`learned-patterns.md`, 4+ prior dedicated CTR fixes already shipped). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change since creation, no re-spam.
+- **Atomic-split sweep**: the only >3-day-open `ai-fix` issues are the #4932/#5044-5048/#5094-5108 roster/band batch, all still correctly `hold`-labeled under the new-page freeze — not stagnant.
+- **Starvation check**: post-triage backlog 7, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this exact batch at 07:16 UTC (~5h ago), next due in its ~6h cadence window, not yet elapsed.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 7 (#9070-9075 promoted)
+- seo-proposal bank (excl. held #7981, umbrellas): 6 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 6/6 triaged, live-verified, all promoted (2 with correction notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: row already ruled. ✅ L1/L2/L3: no new refresh since 10-12, already closed-loop that run. ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9070-9075 pick up via Roadie; confirm #9070's `drummerEvolution.js` eras-array rewrite and #9074 avoids the ddrum-era gap flagged in its guidance comment.
+2. Watch for the next L1/L2/L3 weekly refresh (last: all three 10-12) — L2 cited count was 27/100 as of 10-12, only 2 points above the 25-floor; a drop below it re-arms the forced ≥2-pattern-issues/week quota.
+3. #7981 (Derek Roddy snare) still held — no new external source found yet.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

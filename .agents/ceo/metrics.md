@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-14 08:22 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-14 12:17 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,47 +8,47 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 420 |
-| Sessions | 483 |
-| Page views | 691 |
-| Engagement rate | 50.72% |
-| Avg session (s) | 114 |
+| Active users | 429 |
+| Sessions | 494 |
+| Page views | 719 |
+| Engagement rate | 59.31% |
+| Avg session (s) | 108 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 35 | 21 |
+| / | 38 | 21 |
 | /bpm | 28 | 2 |
-| /drummers | 22 | 8 |
+| /drummers | 25 | 8 |
 | /drummer/joey-jordison | 18 | 11 |
-| /studies/metal-tempo-by-subgenre | 16 | 10 |
-| /drummer/mario-duplantier | 15 | 13 |
+| /drummer/mario-duplantier | 18 | 14 |
+| /studies/metal-tempo-by-subgenre | 18 | 10 |
 | /drummer/bill-ward | 10 | 8 |
+| /drummer/eloy-casagrande | 10 | 9 |
 | /drummers/mike-portnoy/evolution | 10 | 4 |
 | /articles/whats-in-lars-ulrichs-kit | 9 | 7 |
-| /articles/black-sabbath-drum-setup | 8 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 341 | 284 |
-| Direct | 117 | 115 |
-| Unassigned | 64 | 57 |
-| Cross-network | 8 | 8 |
+| Organic Search | 367 | 306 |
+| Direct | 118 | 116 |
+| Unassigned | 21 | 20 |
+| Cross-network | 2 | 2 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 181 | 150 |
+| United States | 182 | 151 |
 | Singapore | 52 | 52 |
 | China | 25 | 25 |
 | Canada | 23 | 18 |
-| United Kingdom | 21 | 17 |
-| Germany | 18 | 16 |
+| United Kingdom | 22 | 18 |
+| Germany | 20 | 17 |
+| Australia | 13 | 12 |
 | France | 13 | 12 |
-| Australia | 12 | 11 |
+| New Zealand | 11 | 4 |
 | Brazil | 10 | 10 |
-| New Zealand | 10 | 4 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

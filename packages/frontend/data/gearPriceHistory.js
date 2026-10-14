@@ -8236,7 +8236,7 @@ export const GEAR_PRICE_HISTORY = {
 
   // ==========================================
   // DARAY - 2011 Welcome to the Morbid Reich Era
-  // Pearl Reference Pure / Paiste RUDE Setup
+  // Pearl Reference Pure / Paiste RUDE Setup (pre-2014; switched to Tama Starclassic Performer B/B in 2014)
   // ==========================================
   'daray': {
     slug: 'daray',
@@ -8247,7 +8247,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Welcome to the Morbid Reich (2011)',
     profileImage: '/images/drummers/daray.webp',
 
-    summary: "Daray's 2011 setup behind Vader's Welcome to the Morbid Reich — recorded midway through his decade-long tenure (2006-2016) with Poland's most internationally recognized death metal band — documents the gear behind one of extreme metal's most technically demanding drummers. By 2011, Daray was simultaneously serving as Dimmu Borgir's drummer as well, having replaced Hellhammer in 2008, and the physical toolkit he built for Vader's blast-beat pedigree was the same rig he carried into Dimmu Borgir's symphonic productions. His setup centered on a Pearl Reference Pure kit in custom black finish, a Pearl Reference 14\"x5\" brass snare for cutting projection, and a Paiste cymbal configuration spanning the Sound Edge, RUDE, and 2002 lines, driven by the Pearl Demon Drive double pedal. The complete rig cost approximately $6,143 in 2011 dollars, equivalent to roughly $8,948 today after inflation.\n\nEvery component served the specific demands of Vader's thrash-inflected death metal on Welcome to the Morbid Reich. The Reference Pure's multi-core maple/birch construction gave Daray's blast beats and machine-gun double-kick patterns a tight, consistent response at extreme tempos without the pitch drift that cheaper shells develop under sustained high-impact playing. The brass snare's bright, dense-shell crack placed his hits above Vader's down-tuned, high-gain guitar wall without requiring excessive production boost, while the Paiste RUDE Power Ride's thick construction resisted warping under the aggressive, high-volume riding his technique demanded across extensive touring.\n\nThat Pearl / Paiste core proved durable well beyond Vader: it carried directly into Daray's full-time Dimmu Borgir role after he left Vader in 2016, powering albums like Eonian (2018) and years of festival headline slots where his kit had to perform with absolute consistency from intimate club stages to elaborate pyrotechnic productions. His current setup, built around the same Pearl Reference Pure / Paiste RUDE foundation established during this Vader-era configuration, is valued at approximately $9,739 at current retail — a testament to a rig engineered for extreme speed that never needed to change.",
+    summary: "Daray's 2011 setup behind Vader's Welcome to the Morbid Reich — recorded midway through his decade-long tenure (2006-2016) with Poland's most internationally recognized death metal band — documents the gear behind one of extreme metal's most technically demanding drummers. By 2011, Daray was simultaneously serving as Dimmu Borgir's drummer as well, having replaced Hellhammer in 2008, and the physical toolkit he built for Vader's blast-beat pedigree was the same rig he carried into Dimmu Borgir's symphonic productions. His setup centered on a Pearl Reference Pure kit in custom black finish, a Pearl Reference 14\"x5\" brass snare for cutting projection, and a Paiste cymbal configuration spanning the Sound Edge, RUDE, and 2002 lines, driven by the Pearl Demon Drive double pedal. The complete rig cost approximately $6,143 in 2011 dollars, equivalent to roughly $8,948 today after inflation.\n\nEvery component served the specific demands of Vader's thrash-inflected death metal on Welcome to the Morbid Reich. The Reference Pure's multi-core maple/birch construction gave Daray's blast beats and machine-gun double-kick patterns a tight, consistent response at extreme tempos without the pitch drift that cheaper shells develop under sustained high-impact playing. The brass snare's bright, dense-shell crack placed his hits above Vader's down-tuned, high-gain guitar wall without requiring excessive production boost, while the Paiste RUDE Power Ride's thick construction resisted warping under the aggressive, high-volume riding his technique demanded across extensive touring.\n\nThat Pearl Reference Pure kit didn't carry on indefinitely, though: Daray switched to a Tama Starclassic Performer B/B kit in Piano Black finish (with a 14\"x6.5\" S.L.P. Black Brass LBR1465 snare) in 2014, and it's that Tama setup — not the Pearl rig documented here — that powered his full-time Dimmu Borgir role after he left Vader in 2016, including albums like Eonian (2018) and years of festival headline slots. Daray's current setup, built around that Tama Starclassic Performer B/B kit, is valued at approximately $9,739 at current retail — the Paiste RUDE cymbals, Pearl Demon Drive pedal, and Vic Firth sticks documented here are the parts of this 2011 rig that carried forward unchanged.",
 
     setup: {
       drums: {
@@ -8260,9 +8260,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "Multi-core maple/birch construction chosen for consistent shell resonance at the extreme tempos Vader's blast-beat-driven death metal demanded.",
         vintageValue2026: 2800,
         modernEquivalent: {
-          item: 'Pearl Reference Pure (Current Line)',
+          item: 'Tama Starclassic Performer B/B (Daray\'s current kit since 2014)',
           price: 5500,
-          link: 'pearl-reference-pure-daray',
+          link: 'tama-starclassic-performer-bb-daray',
         },
       },
       snare: {
@@ -8326,18 +8326,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       heads: {
-        item: 'Remo Emperor / Ambassador',
+        item: 'Evans Emperor / Ambassador',
         model: 'Emperor two-ply batters, Ambassador resonants',
-        specs: 'Remo Emperor coated batters, Ambassador clear resonants',
+        specs: 'Evans Emperor coated batters, Ambassador clear resonants',
         originalPrice: 85,
         year: 2011,
-        source: 'Remo retail pricing 2011',
+        source: 'Evans retail pricing 2011',
         notes: "Two-ply Emperor batters chosen for durability against the wear extreme metal's high-velocity striking causes single-ply heads to develop quickly.",
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Remo Emperor / Ambassador Pro Pack',
+          item: 'Evans Emperor / Ambassador Pro Pack',
           price: 125,
-          link: 'remo-emperor-ambassador-daray',
+          link: 'evans-emperor-ambassador-daray',
         },
       },
     },
@@ -8353,21 +8353,22 @@ export const GEAR_PRICE_HISTORY = {
       { year: 2003, price: 1200, label: 'Vesania Era', event: 'Joined Polish black metal band Vesania on entry-level gear' },
       { year: 2006, price: 2500, label: 'Vader Era Begins', event: "Joined Vader, Poland's most internationally recognized death metal band" },
       { year: 2011, price: 6143, label: 'Original Purchase', event: 'Welcome to the Morbid Reich recorded — Pearl Reference Pure / Paiste RUDE setup reaches its definitive Vader-era configuration' },
-      { year: 2018, price: 7200, label: 'Eonian Era (Dimmu Borgir)', event: 'Same Pearl / Paiste core carried into full-time Dimmu Borgir tenure after leaving Vader in 2016' },
-      { year: 2026, price: 8948, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2011 Welcome to the Morbid Reich-era Pearl Reference Pure setup' },
+      { year: 2014, price: 6800, label: 'Kit Switch to Tama', event: 'Switched from Pearl Reference Pure to a Tama Starclassic Performer B/B kit in Piano Black; Paiste cymbals and Pearl Demon Drive pedal carried forward unchanged' },
+      { year: 2018, price: 7200, label: 'Eonian Era (Dimmu Borgir)', event: 'Tama Starclassic Performer B/B kit powers full-time Dimmu Borgir tenure after leaving Vader in 2016' },
+      { year: 2026, price: 8948, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2011 Welcome to the Morbid Reich-era Pearl Reference Pure setup (superseded by the Tama Starclassic Performer B/B kit Daray has played since 2014)' },
     ],
 
     sources: [
       { title: 'Pearl Reference Pure Catalog', year: 2011, type: 'catalog' },
       { title: 'Paiste RUDE / 2002 Series Catalog', year: 2011, type: 'catalog' },
       { title: 'Metal Hammer — Daray Interview', year: 2018, type: 'interview' },
-      { title: 'Reverb Marketplace Analysis — Pearl Reference Pure', year: 2025, type: 'market' },
+      { title: 'Reverb Marketplace Analysis — Tama Starclassic Performer B/B', year: 2025, type: 'market' },
     ],
 
     meta: {
       title: "Daray Drum Setup Cost | Vader Gear Price History",
-      description: "How much was Daray's Welcome to the Morbid Reich-era Pearl Reference Pure drum kit worth? Original ~$6,143 in 2011, inflation-adjusted to ~$8,948 today. Complete gear breakdown from Vader and Dimmu Borgir's technical blast-beat drummer.",
-      keywords: ['daray drum setup cost', 'vader drum kit price', 'pearl reference pure price', 'daray gear cost today', 'welcome to the morbid reich drum kit price', 'daray drummer gear cost'],
+      description: "How much was Daray's Welcome to the Morbid Reich-era Pearl Reference Pure drum kit worth? Original ~$6,143 in 2011, inflation-adjusted to ~$8,948 today. Complete gear breakdown from Vader and Dimmu Borgir's technical blast-beat drummer, who switched to a Tama Starclassic Performer B/B kit in 2014.",
+      keywords: ['daray drum setup cost', 'vader drum kit price', 'tama starclassic performer price', 'daray gear cost today', 'welcome to the morbid reich drum kit price', 'daray drummer gear cost'],
     },
   },
 

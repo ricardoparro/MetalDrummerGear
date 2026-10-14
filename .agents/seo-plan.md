@@ -12571,3 +12571,46 @@ matt-garstka and navene-koperweis came back fully clean (all facts consistent wi
 2. matt-garstka and navene-koperweis confirmed fully clean this run — don't re-sweep them again soon.
 3. Content-gap: `joey jordison drum set` re-confirmed against standing ruling — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-14 (run ~13:xx UTC) — untouched-roster sweep: 3 filed (#9084-9086), 3 clean
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): 200, all 8 AI crawlers explicitly allowed. ✅ unchanged.
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap (live curl `sitemap.xml`): 3,161 URLs — unchanged.
+- Bank check: 10 open `seo-proposal` at run start — 6 already `ai-fix`-labeled (#9070-9075 promoted per CEO's 07:xx-adjacent run, retain seo-proposal label); held #7981; 3 standing umbrellas (#2211/#3810/#3819) → true untriaged bank 0. Well under the 45 floor → filed up to 8; filed 3 (stopped once the verified-high-confidence pool from this run's candidate list ran dry — same discipline as every recent run).
+- Not Monday (Wednesday) — drum-chair watch already logged this week (group 2, Monday 10-12, 0 candidates; re-confirmed Tue/Wed runs). Skipped.
+
+### Metrics readout
+- GSC 7d (13:03 UTC refresh): 10,837 impr / 189 clicks / 1.74% CTR / pos 7.6. Content-gap row (impr≥50, CTR<2%): `joey jordison drum set` (64 impr, 1.56%) — already-ruled known-oscillator per `learned-patterns.md`. No re-action.
+- GA4 7d: 430 active users / 495 sessions / 723 views. Organic 368/495 (74.3%). Top pages: `/`, `/bpm`, `/drummers`, `/drummer/joey-jordison`, `/drummer/mario-duplantier`, `/studies/metal-tempo-by-subgenre`, `/drummer/bill-ward`.
+
+### Method — last untouched-roster names (6 checked)
+Cross-referenced every slug in `endorsementNews.js` (71 total) against the ~45 names already swept this week (per `decisions-log.md`/`seo-plan.md` recent entries) to find the handful never yet checked: alex-rudinger, jimmy-degrasso, jon-dette, mikkey-dee, paul-mazurkiewicz, waltteri-vayrynen. Dispatched 6 parallel research agents (ground truth = `endorsementNews.js`/`bands.js`, grep the 14 known fabrication-prone sibling files + albumArticles + 3 API files, `git log --all --grep`/`git show --stat` on any plausibly-related prior closed issue, dedup-search via `gh issue list --search`). Personally re-verified every reported finding via direct `grep`/`sed` on current file content before filing (per standing discipline).
+
+alex-rudinger, jimmy-degrasso, waltteri-vayrynen came back fully clean (roster already thoroughly scrubbed by prior batches — correctly not forced).
+
+3 of 6 survived personal verification:
+- **Jon Dette** (#9084): `bands.js` Testament `drummerHistory` says "1994-1996, 1999-2001" — 6 independent sibling files (extendedBios.js, drummerEvolution.js, drummerComparisons.js×2, gearPriceHistory.js, api/drummers/index.js) all agree the real stints are "1997-1999, 2001-2012". Root-caused to commit `a5003d32`/PR #4778 (2026-07-16 "enrich all 35 band entries" pass), which silently introduced the wrong years and was never caught since every *other* file already had it right.
+- **Mikkey Dee** (#9085, batch): `genreGearGuides.js` fabricates "Paiste 2002" as his current cymbal across 58 confirmed same-line co-occurrences (power-metal cymbal/hi-hat/crash/ride/china/splash guides) — verified ground truth is "Paiste Signature Series" since 1987, carried unchanged into Scorpions. Note: `gearPriceHistory.js`'s "Paiste 2002" mention is correctly scoped to his pre-1987 Bastards-era budget setup and is explicitly out of scope.
+- **Paul Mazurkiewicz** (#9086, 3 bundled findings): `soundLikeGuides.js` drumKit/snare/pedal fields fabricate "Pearl Masters Maple Complete"/"Pearl Masters 14x6.5 Maple"/"Pearl Demon Drive Double Pedal" (verified Pearl Reference / Pearl Free-Floating steel / Pearl Eliminator Double Bass Pedal — same cross-contamination pattern as Ray Luzier's #8930) + `drummerComparisons.js`'s Kollias-comparison entry has the same wrong snare/heads + `albumArticles/paul-mazurkiewicz.js` says born 1970 vs. verified 1968 (birthdays.js/extendedBios.js).
+
+### Proposals filed this run
+1. #9084 — Jon Dette: bands.js Testament tenure years wrong (1994-1996,1999-2001 vs verified 1997-1999,2001-2012), root-caused to PR #4778
+2. #9085 — Mikkey Dee: genreGearGuides.js fabricates "Paiste 2002" across 58 lines, verified Paiste Signature Series
+3. #9086 — Paul Mazurkiewicz: soundLikeGuides.js kit/snare/pedal fabrication + drummerComparisons.js snare/heads + wrong birth year (1970 vs 1968)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9070-9075 (promoted to ai-fix per prior CEO run, pending Roadie pickup, retain seo-proposal label)
+- #9084-9086 (this run, 3 fresh)
+- Bank at run end: 13 open `seo-proposal` (excl. the 3 standing umbrellas: 10).
+
+### Next run
+1. Watch #9084-9086 through CEO triage; flag #9085 (Mikkey Dee) to confirm the implementer re-runs the `grep "Mikkey Dee" | grep "2002"` count after editing rather than trusting the static line-number list (offsets will drift after earlier edits in the same PR).
+2. Roster is now fully swept for this cycle (all 71 `endorsementNews.js` slugs cross-referenced across this week's runs) — next run should pick a different targeting signal (e.g. revisit the lowest-issue-count method on names not checked in 2-3 weeks, or go back to GSC-gap/L1-driven targeting) rather than another untouched-roster pass.
+3. Content-gap: `joey jordison drum set` re-confirmed against standing ruling — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

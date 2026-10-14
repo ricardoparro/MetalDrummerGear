@@ -17140,7 +17140,7 @@ export const DRUMMER_EVOLUTION = {
         years: '1996–2000',
         startYear: 1996,
         endYear: 2000,
-        description: 'Born June 19, 1971, in São Paulo, Brazil, Aquiles Priester founded power metal band Hangar in 1996, the project that would remain a constant throughout his career even as he joined larger international acts. These early years established the foundation of his signature technique: a relaxation-based approach to double bass that let him sustain even 16th-note patterns at extreme tempos without the tension that creates a speed ceiling for most drummers. Priester\'s playing during this period drew on influences including Nicko McBrain\'s galloping rhythms, Lars Ulrich\'s thrash energy, and Neil Peart\'s progressive precision, building the neoclassical double-bass vocabulary that would define his 2000 audition for Angra.',
+        description: 'Born June 25, 1971, in Outjo, Namibia, Aquiles Priester founded power metal band Hangar in 1996, the project that would remain a constant throughout his career even as he joined larger international acts. These early years established the foundation of his signature technique: a relaxation-based approach to double bass that let him sustain even 16th-note patterns at extreme tempos without the tension that creates a speed ceiling for most drummers. Priester\'s playing during this period drew on influences including Nicko McBrain\'s galloping rhythms, Lars Ulrich\'s thrash energy, and Neil Peart\'s progressive precision, building the neoclassical double-bass vocabulary that would define his 2000 audition for Angra.',
         albums: ['Hangar debut-era material (1996–2000)'],
         tours: ['Hangar early Brazilian club and festival circuit'],
         image: null,

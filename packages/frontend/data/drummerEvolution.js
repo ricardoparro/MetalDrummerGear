@@ -7151,9 +7151,9 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Maple',
-            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'The Tama Starclassic Maple became Koller\'s consistent modern platform — premium maple shells deliver warmth and attack for both heavy touring and studio recording. The kit\'s resonance suits Kurt Ballou\'s increasingly rich production approach.',
+            item: 'Tama Starclassic Performer B/B',
+            details: 'Birch/bubinga shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'The Tama Starclassic Performer B/B became Koller\'s consistent modern platform — birch/bubinga shells deliver warmth and attack for both heavy touring and studio recording, used on "The Dusk in Us" and "Bloodmoon: I." The kit\'s resonance suits Kurt Ballou\'s increasingly rich production approach.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
@@ -7169,10 +7169,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Tama Iron Cobra 900 Double Pedal',
-            details: 'Roller Glide cam, improved response',
-            notes: 'Iron Cobra 900 upgrade from the earlier Power Glide model — improved spring tension adjustability and more consistent response at Converge\'s demanding live tempos.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Power Glide cam, chain drive',
+            notes: 'Continued on the Tama Iron Cobra Double Pedal adopted in 2004 — consistent spring tension and response at Converge\'s demanding live tempos.',
+            change: null,
           },
           sticks: {
             item: 'Vic Firth 5B / Custom',
@@ -7195,9 +7195,9 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Tama Starclassic Maple adopted — most refined platform of career',
+          'Tama Starclassic Performer B/B adopted — most refined platform of career',
           'Zildjian K Dark Series cymbals for a darker, trashy tonal profile',
-          'Tama Iron Cobra 900 upgrade for improved live consistency',
+          'Continued on the Tama Iron Cobra Double Pedal for consistent live performance',
           'Axe to Fall (2009) — Converge\'s most ambitious record; Epitaph debut',
           'All We Love We Leave Behind (2012) and The Dusk in Us (2017) cement Koller\'s status as modern hardcore\'s definitive drummer',
           'Bloodmoon: I (2021) — collaborative project with Chelsea Wolfe',

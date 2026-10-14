@@ -12754,7 +12754,7 @@ This guide breaks down the technique, gear, and practice approach behind Roddy's
         kit: "Tama Starclassic Bubinga ($3,500+)",
         cymbals: "Full Meinl Byzance/Mb20 Heavy selection ($2,000+)",
         pedals: "Tama Speed Cobra Double Bass Pedal ($700)",
-        heads: "Full Remo setup ($400)",
+        heads: "Full Evans Genera HD Dry/EMAD2 setup ($400)",
         notes: "Touring-ready setup matching Roddy's Hate Eternal-era rig for sustained 220-280 BPM performance."
       }
     },

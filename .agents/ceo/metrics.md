@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-14 06:19 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-14 07:08 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 416 |
-| Sessions | 477 |
-| Page views | 688 |
-| Engagement rate | 51.36% |
-| Avg session (s) | 115 |
+| Active users | 419 |
+| Sessions | 481 |
+| Page views | 689 |
+| Engagement rate | 50.94% |
+| Avg session (s) | 114 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,7 +21,7 @@
 | /bpm | 28 | 2 |
 | /drummers | 22 | 8 |
 | /drummer/joey-jordison | 18 | 11 |
-| /studies/metal-tempo-by-subgenre | 16 | 9 |
+| /studies/metal-tempo-by-subgenre | 16 | 10 |
 | /drummer/mario-duplantier | 15 | 13 |
 | /drummer/bill-ward | 10 | 8 |
 | /drummers/mike-portnoy/evolution | 10 | 4 |
@@ -31,17 +31,17 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 338 | 282 |
+| Organic Search | 339 | 283 |
 | Direct | 117 | 115 |
-| Unassigned | 59 | 53 |
+| Unassigned | 63 | 56 |
 | Cross-network | 8 | 8 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 180 | 150 |
-| Singapore | 51 | 51 |
-| China | 24 | 24 |
+| United States | 181 | 150 |
+| Singapore | 52 | 52 |
+| China | 25 | 25 |
 | Canada | 23 | 18 |
 | United Kingdom | 20 | 17 |
 | Germany | 18 | 16 |

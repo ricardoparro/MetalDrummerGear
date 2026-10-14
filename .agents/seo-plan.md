@@ -12521,3 +12521,53 @@ Rather than scanning one drummer-group at a time, ran 3 parallel research agents
 2. The parallel-fan-out-by-named-drummer-batch method surfaced a lower hit rate (6/10) than prior runs' roster-signal method, mostly because several requested names (Virgil Donati, Chris Pennie, Will Hunt, Marco Minnemann) have no dataset entry at all — next run should pre-filter candidate names against `endorsementNews.js`/`bands.js` presence before dispatching discovery agents, to avoid burning a slot on a no-ground-truth name.
 3. Content-gap: `joey jordison drum set` re-confirmed against standing ruling — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-14 (run ~07:xx UTC) — untouched-tail + switched-endorsement sweep: 6 filed (#9070-9075)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): 200, all 8 AI crawlers explicitly allowed. ✅ unchanged.
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap (live curl `sitemap.xml`): 3,161 URLs — unchanged.
+- Bank check: 10 open `seo-proposal` at run start — 6 already `ai-fix`-labeled (#9039-9042/#9044-9047 promoted per CEO's 00:27 catch-up run, retain seo-proposal label); held #7981; 3 standing umbrellas (#2211/#3810/#3819) → true untriaged bank 0. Well under the 45 floor → filed up to 8; filed 6 (stopped once the verified-high-confidence pool ran dry — same discipline as every recent run).
+- Not Monday (Wednesday) — drum-chair watch already logged this week (group 2, Monday 10-12, 0 candidates; re-confirmed by Tue 10-13 and Wed 10-14 01:xx runs). Skipped.
+
+### Metrics readout
+- GSC 7d (07:08 UTC refresh): 10,837 impr / 189 clicks / 1.74% CTR / pos 7.6. Content-gap row (impr≥50, CTR<2%): `joey jordison drum set` (64 impr, 1.56%) — already-ruled known-oscillator per `learned-patterns.md`. No re-action.
+- GA4 7d: 419 active users / 481 sessions / 689 views. Organic 339/481 (70.5%). Top pages: `/`, `/bpm`, `/drummers`, `/drummer/joey-jordison`, `/studies/metal-tempo-by-subgenre`, `/drummer/mario-duplantier`, `/drummer/bill-ward`.
+
+### Method — 3 parallel sweeps: untouched-roster names + a short-name edge case + the switched-endorsement angle
+Per the 10-14 01:xx run's own next-step note (pre-filter candidate names against ground truth before dispatching), picked 3 angles this run: (1) 2 never-before-mentioned roster slugs with full dataset entries (matt-garstka, tim-yeung); (2) 2 more never-mentioned slugs, including one short/ambiguous name needing extra care against false-positive greps (daray, navene-koperweis); (3) the `SWITCHED`-type endorsement-event angle (productive on 10-13/10-14 runs) applied to drummers outside this week's ~40-name avoid-list, yielding mike-mangini/igor-cavalera/dirk-verbeuren as fresh candidates even though those 3 already have deep prior-fix history (the point is sibling-file drift survives even heavily-fixed entities). All 3 sub-sweeps dispatched parallel research subagents with the standard protocol (read `endorsementNews.js`/`bands.js` ground truth, grep the 13 known fabrication-prone files + `albumArticles/*.js` + 3 API files, `git log --all --grep`/`git show --stat` on any plausibly-related prior closed issue before calling something unfixed, dedup-search via `gh issue list --search`).
+
+matt-garstka and navene-koperweis came back fully clean (all facts consistent with ground truth and prior fix commits) — correctly not forced into findings.
+
+**Personally re-verified all 6 surviving findings myself via direct `sed`/`grep`/`git show`/`git log --grep` before filing** (per standing discipline — never trust a subagent's verdict alone):
+- **Tim Yeung** (#9070): `drummerEvolution.js`'s entire `tim-yeung` entry (lines 16157-16472) — summary + 4 eras + FAQ — narrates a complete fictional "Pearl Reference Masters → DW 9002 pedal → 2021 switch to Tama" arc; ground truth is continuous Tama/Sabian/Vic Firth 5B/Remo/Speed Cobra 910 since 2005 (Hate Eternal's "I, Monarch"), no Pearl period ever existed. Confirmed via `git log --all --grep="Tim Yeung"` that ~12 prior closed issues fixed this fabrication in `extendedBios.js`/`drummerComparisons.js`/`soundLikeGuides.js`/`api/drummers/index.js`'s other fields, but never `drummerEvolution.js` itself. Bundled 3 more surviving "Vic Firth American Classic 5A" (verified 5B) occurrences into the same issue: `drummerComparisons.js:1852` (confirmed #6624/#6649 fixed Derek Roddy's sticks in the same sentence but left Yeung's clause), `api/drummers/index.js` kitOverview (~line 3228, also has stale "Evans drumheads," verified Remo Powerstroke 3), and `extendedBios.js` FAQ (~line 3527).
+- **Daray kit-brand** (#9071): `genreGearGuides.js` (2 locations, ~2932/~3000), `gearPriceHistory.js` (~8250/8329), and `soundLikeGuides.js` (`how-to-sound-like-daray` section, 4 sub-fields) all still present "Pearl Masterworks"/"Pearl Reference Pure" as his current kit; verified Tama Starclassic Performer B/B since 2014. Confirmed via `git show --stat` that prior fixes (#6743, #8025, #8832, #5694, #8296) each touched only an adjacent field (heads brand, sticks brand, tenure years) in the same blocks, never the kit-brand phrase itself.
+- **Daray birthdays.js band field** (#9072): line 542 says `band: 'Behemoth / Vader'` — confirmed via `bands.js` (lines 2082/2126/2139) that Behemoth's drummer since 1997 is Inferno, not Daray; Daray's real bands are Dimmu Borgir/Vader per both `endorsementNews.js` and `bands.js`. Untouched since the file's original creation commit; later birthdate/birthplace reconciliation passes (#8534-8541) never touched the `band` field.
+- **Mike Mangini** (#9073): `drummerComparisons.js` 2 entries (`mike-mangini-vs-matt-garstka` lines ~937/943, `gavin-harrison-vs-mike-mangini` lines ~1322/1328) still say "Pearl Masterworks Maple"; verified Pearl Reference Pure since 2019. Confirmed via `git log --grep="7405"` that #7405/#7431/#7432 fixed a *different* fabrication in this exact spot (wrong model name) in 2026 — but ground truth has since moved on to Reference Pure (2019 switch) and the comparison entries were never re-synced.
+- **Igor Cavalera** (#9074): `genreGearGuides.js`'s `best-drum-triggers-for-doom-metal` guide intro (~line 57342) presents his pre-2018 "Tama Starclassic Maple" kit as current, alongside 3 other drummers (Dailor/Duplantier/Carey) correctly framed as current; verified Yamaha Absolute Hybrid Maple since 2018. ~30 prior Cavalera fixes never reached this specific paragraph.
+- **Dirk Verbeuren** (#9075): `drummerEvolution.js`'s own FAQ array (~line 11925) self-contradicts its own era description 3 lines above (~11836) — FAQ says cymbals are "Meinl Byzance/Mb20... carried over from his Soilwork years," era description correctly says "Meinl Byzance Brilliant/Classics Custom Dark" (verified current, since 2022). Confirmed via `git log --grep="5887"` that #5887/#5925 fixed the `gear` object's current-era cymbals but never touched the separate `faqs` array in the same record.
+
+### Proposals filed this run
+1. #9070 — Tim Yeung: drummerEvolution.js fabricates an entire fictional Pearl→Tama 2021 switch (4 bundled locations)
+2. #9071 — Daray: Pearl Masterworks/Reference Pure kit-brand fabrication survives in 3 sibling files
+3. #9072 — Daray: birthdays.js band field wrongly says "Behemoth / Vader" (Behemoth is Inferno's band, not Daray's)
+4. #9073 — Mike Mangini: drummerComparisons.js 2 entries still say "Pearl Masterworks Maple," verified Pearl Reference Pure since 2019
+5. #9074 — Igor Cavalera: genreGearGuides.js doom-metal-triggers guide presents pre-2018 Tama kit as current, verified Yamaha since 2018
+6. #9075 — Dirk Verbeuren: drummerEvolution.js FAQ self-contradicts its own era description on current cymbals
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9039-9042/#9044-9047 (promoted to ai-fix per CEO's 00:27 catch-up run, pending Roadie pickup, retain seo-proposal label)
+- #9055-9060 (01:xx run, pending triage at this run's start)
+- #9070-9075 (this run, 6 fresh)
+- Bank at run end: 22 open `seo-proposal` (excl. the 3 standing umbrellas: 19).
+
+### Next run
+1. Watch #9070-9075 through CEO triage; flag #9070 (Tim Yeung) as the largest single fix this batch — `drummerEvolution.js`'s eras array needs a real rewrite (not just a find/replace) to drop the fictional brand-switch narrative while preserving the real album/tour history.
+2. matt-garstka and navene-koperweis confirmed fully clean this run — don't re-sweep them again soon.
+3. Content-gap: `joey jordison drum set` re-confirmed against standing ruling — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

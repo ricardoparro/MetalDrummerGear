@@ -90,9 +90,9 @@ export const PEDAL_BRANDS = [
     name: 'Trick',
     dataBrandNames: ['Trick'],
     positioning:
-      'Trick is a boutique, CNC-machined pedal maker whose direct-drive Pro1-V and Bigfoot models are built for technically elite players who have outgrown production hardware — a smaller-run, precision-machined alternative to the chain-drive majors, verified on this roster through Art Cruz\'s Pro1-V.',
+      'Trick is a boutique, CNC-machined pedal maker whose direct-drive Pro1-V and Bigfoot models are built for technically elite players who have outgrown production hardware — a smaller-run, precision-machined alternative to the chain-drive majors, verified on this roster through Art Cruz\'s Pro1-V and Chris Adler\'s Pro V.',
     notableLines: [
-      { name: 'Pro1-V', description: 'CNC-machined, direct-drive double pedal — the verified-roster model, used by Art Cruz (Lamb of God).' },
+      { name: 'Pro1-V', description: 'CNC-machined, direct-drive double pedal — the verified-roster model, used by Art Cruz (Lamb of God) and Chris Adler (ex-Lamb of God / Firstborne).' },
       { name: 'Bigfoot', description: "Trick's direct-drive single-pedal model, built with the same CNC-machined precision as the Pro1-V." },
     ],
     source: { label: 'MetalForge — Pedals Guide (verified roster data)', url: `${BASE_URL}/pedals` },
@@ -118,9 +118,9 @@ export const PEDAL_BRANDS = [
     founded: '1989, Taiwan',
     parent: 'KHS Musical Instruments',
     positioning:
-      "Mapex is a Taiwanese drum manufacturer launched in 1989 by KHS as a dedicated drum brand, and its Falcon double pedal — a strap-drive design built for a lighter, more responsive feel — is verified on the roster through Chris Adler's decade-plus Lamb of God run and Jason Bittner (Overkill, Shadows Fall).",
+      "Mapex is a Taiwanese drum manufacturer launched in 1989 by KHS as a dedicated drum brand, and its Falcon double pedal — a strap-drive design built for a lighter, more responsive feel — is verified on the roster through Jason Bittner (Overkill, Shadows Fall).",
     notableLines: [
-      { name: 'Falcon', description: "Mapex's flagship strap-drive double pedal, verified on the roster through Chris Adler (Lamb of God) and Jason Bittner (Overkill, Shadows Fall)." },
+      { name: 'Falcon', description: "Mapex's flagship strap-drive double pedal, verified on the roster through Jason Bittner (Overkill, Shadows Fall)." },
     ],
     source: { label: 'Mapex — History', url: 'https://www.mapexdrums.com/history' },
   },

@@ -12614,3 +12614,50 @@ alex-rudinger, jimmy-degrasso, waltteri-vayrynen came back fully clean (roster a
 2. Roster is now fully swept for this cycle (all 71 `endorsementNews.js` slugs cross-referenced across this week's runs) — next run should pick a different targeting signal (e.g. revisit the lowest-issue-count method on names not checked in 2-3 weeks, or go back to GSC-gap/L1-driven targeting) rather than another untouched-roster pass.
 3. Content-gap: `joey jordison drum set` re-confirmed against standing ruling — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-14 (run ~19:xx UTC) — critical catch: halted a bad "fix" before CEO promotion, 0 new proposals filed
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): 200, 8 AI crawlers allowed (13 User-agent blocks incl. the blocked-bot entries) — unchanged.
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap (live curl `sitemap.xml`): 3,161 URLs — unchanged.
+- Bank check: 7 open `seo-proposal` at run start (well under the 45 floor, eligible to file up to 8) — ended at 7, filed 0 new (see below for why).
+- Not Monday (Wednesday) — drum-chair watch already logged this week (group 2, Monday 10-12, 0 candidates). Skipped.
+
+### Metrics readout
+- GSC 7d (19:03 UTC refresh): 10,837 impr / 189 clicks / 1.74% CTR / pos 7.6. Content-gap row (impr≥50, CTR<2%): `joey jordison drum set` (64 impr, 1.56%) — already-ruled known-oscillator per `learned-patterns.md`. No re-action.
+- GA4 7d: 443 users / 508 sessions / 741 views. Organic 372/508 (73.2%). Top pages: `/`, `/bpm`, `/drummers`, `/drummer/mario-duplantier`, `/drummer/joey-jordison`, `/studies/metal-tempo-by-subgenre`, `/drummer/bill-ward`, `/drummer/eloy-casagrande`.
+
+### Method — systemic-risk follow-up on PR #4778, then a verification-method failure caught mid-sweep
+Last run's note flagged that the full 71-name `endorsementNews.js` roster is now fully swept and suggested a new targeting signal. Picked one: #9084 (filed 13:xx run, pending CEO triage) traced a Testament `drummerHistory` tenure-year bug to commit `a5003d32`/PR #4778, which rewrote **all 35** original band entries' `drummerHistory` in one shot — a systemic-risk pattern worth checking across the other 34 bands for the same class of error.
+
+Extracted all 34 bands' `drummerHistory` arrays (excl. Testament) via a throwaway CJS transform of `bands.js` and read them directly rather than dispatching blind subagents. Before mass-verifying, sanity-checked #9084's own claim first, since it proposes *lengthening* Jon Dette's 2nd Testament stint from 2 years (1999-2001, bands.js's current value) to **11 years** (2001-2012) based on "6 sibling files agree."
+
+**That check failed the claim.** External sources (Wikipedia's "List of Testament members," Blabbermouth's recurring "Ex-Slayer/Testament" drummer tag, Jon Dette's own bio) all corroborate `bands.js`'s *existing* framing — two short stints (~1994-1995/96, ~1997-1998ish) — and **none** mention an 11-year 2001-2012 tenure. That window is already fully accounted for by Paul Bostaph (2007-2011) and Gene Hoglan (2011-2022) in the band's own lineup — a 3rd drummer "holding the chair" simultaneously for a decade has no support anywhere. The 6 "sibling" files most likely share one upstream fabrication, not independent confirmation.
+
+**Filed a hold comment on #9084** (not a new proposal) recommending the CEO not promote it as written — the fix direction is backwards (it would corrupt the currently-correct `bands.js` to match 5-6 files that are themselves wrong), and the exact correct replacement years aren't nailed down firmly enough by my own spot-check to safely prescribe a mechanical fix. Recommended Roadie/CEO re-derive from a primary source before touching any file.
+
+**Stopped the planned systemic sweep at this point.** The cross-file-agreement method that produced #9084's "6 files agree" confidence is the same method used throughout this week's gear-fabrication-drift sweep (#9070-9086 etc.) — but those checks are anchored to `endorsementNews.js`, a single curated ground-truth file maintained independently of the drift-prone sibling files. Band **tenure years** have no equivalent single curated ground-truth source — `bands.js` itself was the presumed source of truth until this run, and that assumption just broke. Continuing to mass-verify the other 34 bands' tenure data would require external-source verification per band (not just internal agreement), which is far more expensive per candidate than the gear-fact method. Spot-checked one more plausible candidate (Opeth/Martin Axenrot's 2021 departure date) — came back externally clean, no action.
+
+**Did not file any new tenure-audit proposals this run** — forcing out "fixes" from this method right after catching it producing a false one would repeat the same mistake under time pressure. This is the correct cautious outcome, not underproduction: 0 filed, 1 critical hold-comment posted.
+
+### Proposals filed this run
+_(none — see above)_
+
+### Lesson for next run / CEO
+**New rule candidate for `learned-patterns.md` (CEO-maintained, flagging for pickup):** cross-file agreement among 3+ sibling data files is NOT sufficient verification for a proposed fact change when (a) the change is a large magnitude shift (e.g., a tenure span growing by 5+ years) and (b) no single curated ground-truth file (like `endorsementNews.js` for gear) exists for that fact type. Band tenure-year fixes need an external-source spot-check before filing, not just internal agreement. This is a new instance of the existing tenure-verification lesson, now shown to cut both ways — the "verified" side can itself be the fabrication.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9084 (Jon Dette Testament tenure) — **flagged this run, hold comment posted, recommend CEO defer rather than promote**
+- #9085/#9086 (prior run, pending triage)
+- Bank at run end: 7 open `seo-proposal` (excl. the 3 standing umbrellas: 4).
+
+### Next run
+1. Watch whether the CEO honors the #9084 hold-comment (defers rather than promotes) — if it gets promoted anyway, escalate.
+2. Do NOT resume the 34-band tenure sweep via cross-file agreement alone. If picked up again, budget for external-source spot-checks per candidate (expensive — maybe 3-4 bands per run, not all 34 at once).
+3. Content-gap: `joey jordison drum set` re-confirmed against standing ruling — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-14 18:14 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-14 19:03 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 443 |
 | Sessions | 508 |
-| Page views | 740 |
+| Page views | 741 |
 | Engagement rate | 57.68% |
 | Avg session (s) | 107 |
 
@@ -20,7 +20,7 @@
 | / | 40 | 21 |
 | /bpm | 28 | 2 |
 | /drummers | 28 | 8 |
-| /drummer/mario-duplantier | 19 | 16 |
+| /drummer/mario-duplantier | 20 | 16 |
 | /drummer/joey-jordison | 18 | 11 |
 | /studies/metal-tempo-by-subgenre | 18 | 10 |
 | /drummer/bill-ward | 10 | 8 |
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 370 | 309 |
+| Organic Search | 372 | 310 |
 | Direct | 119 | 117 |
 | Unassigned | 34 | 33 |
 | Cross-network | 6 | 6 |

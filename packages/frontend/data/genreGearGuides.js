@@ -5338,7 +5338,7 @@ Don't neglect the resonant side. Evans G1 Clear or Remo Ambassador Clear let you
     // Introduction
     intro: {
       title: "The Right Cymbals Define Your Metal Sound",
-      content: `In metal drumming, cymbals are the most personal gear choice you'll make. While drum heads can be swapped in minutes and pedals adjusted on stage, your cymbal setup defines your sound in a way no EQ or processing can fully replicate. The shimmer of Zildjian A Customs on a Lars Ulrich recording, the explosive crash of Paiste 2002s behind Mikkey Dee's Scorpions power, the dark wash of Meinl Byzance under Dirk Verbeuren's technical precision — these are sonic signatures as recognizable as the drummers who created them.
+      content: `In metal drumming, cymbals are the most personal gear choice you'll make. While drum heads can be swapped in minutes and pedals adjusted on stage, your cymbal setup defines your sound in a way no EQ or processing can fully replicate. The shimmer of Zildjian A Customs on a Lars Ulrich recording, the explosive crash of Paiste Signature Series cymbals behind Mikkey Dee's Scorpions power, the dark wash of Meinl Byzance under Dirk Verbeuren's technical precision — these are sonic signatures as recognizable as the drummers who created them.
 
 Metal places unique demands on cymbals. They need to cut through dense, downtuned guitar walls without disappearing. Crash cymbals must respond to aggressive hits and choke cleanly for tight accents. Hi-hats need to handle both tight closed patterns at high tempo and explosive open accents. Ride cymbals must maintain clarity in a dense mix. And everything needs to survive the physical punishment of aggressive playing.
 
@@ -5453,7 +5453,7 @@ Lars Ulrich's iconic cymbal sound is built on Zildjian A Customs and the earlier
 
           description: `The Paiste 2002 series is the definitive classic heavy metal cymbal. Used on iconic albums throughout the '80s and '90s, the 2002's distinctive character — powerful, full-bodied, slightly dark — defined the sound of metal's golden era. Paiste's proprietary CuSn8 alloy (similar to B8 but unique to Paiste) gives the 2002 a character unlike any competitor.
 
-Mikkey Dee of Scorpions (and formerly Motörhead) has used Paiste throughout his career, producing the explosive, powerful cymbal tones that define classic heavy metal drumming. The 2002 crash cymbals are particularly iconic — fast, aggressive, full of character. Many engineers and producers immediately recognize the 2002 sound and specifically request it for traditional metal recordings.`,
+Joey Jordison of Slipknot has used Paiste 2002 throughout his career, producing the explosive, powerful cymbal tones that define classic heavy metal drumming. The 2002 crash cymbals are particularly iconic — fast, aggressive, full of character. Many engineers and producers immediately recognize the 2002 sound and specifically request it for traditional metal recordings.`,
 
           pros: [
             "Iconic classic heavy metal sound",
@@ -5476,7 +5476,6 @@ Mikkey Dee of Scorpions (and formerly Motörhead) has used Paiste throughout his
             rideRange: "20\" - 22\""
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Scorpions / Motörhead", note: "Paiste endorser — classic heavy metal power" },
             { name: "Joey Jordison", band: "Slipknot", note: "Paiste RUDE & 2002 Series endorser since 2000" },
             { name: "Neil Peart", band: "Rush", note: "Progressive metal/rock landmark recordings" },
             { name: "Stewart Copeland", band: "The Police", note: "Cross-genre versatility" }
@@ -5714,7 +5713,7 @@ Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influentia
     ],
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom — the pro metal standard' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 — classic heavy metal power' },
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste Signature Series — classic heavy metal power' },
       { slug: 'dirk-verbeuren', name: 'Dirk Verbeuren', reason: 'Meinl Byzance — modern technical thrash precision' },
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Sabian AAX — Pantera groove metal power' }
     ],
@@ -5723,7 +5722,7 @@ Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influentia
     faq: [
       {
         question: "What cymbals do metal drummers use?",
-        answer: "Most professional metal drummers use Zildjian A Custom (Lars Ulrich), Paiste 2002 (Mikkey Dee), Meinl Byzance (Dirk Verbeuren), or Sabian AAX (Vinnie Paul, Paul Bostaph). Zildjian A Custom is the single most common choice on MetalForge's roster. All are B20 bronze or equivalent high-quality alloy for complex, musical tone."
+        answer: "Most professional metal drummers use Zildjian A Custom (Lars Ulrich), Paiste Signature Series (Mikkey Dee), Meinl Byzance (Dirk Verbeuren), or Sabian AAX (Vinnie Paul, Paul Bostaph). Zildjian A Custom is the single most common choice on MetalForge's roster. All are B20 bronze or equivalent high-quality alloy for complex, musical tone."
       },
       {
         question: "Are Zildjian or Paiste better for metal?",
@@ -10583,7 +10582,7 @@ Matt Halpern of Periphery is a Meinl endorser (Artist Concept series) whose intr
 
           description: `The Paiste 2002 Sound Edge Hi-Hats are legendary in metal drumming — a cymbal with decades of heritage in thrash, heavy metal, and extreme music. The Sound Edge bottom cymbal's wavy profile creates a uniquely tight, fast chick with a quick air release, giving every hi-hat closure a sharp, precise accent that cuts through even the densest metal mix.
 
-Mikkey Dee of Motörhead used Paiste 2002 cymbals to drive the relentless, powerful grooves that defined late-era Motörhead. The 2002 series' CuSn8 bronze formula produces a bright, powerful, and immediate sound that projects exceptionally at extreme stage volumes — exactly what Motörhead's ear-splitting performances demanded. For drummers who want that classic, aggressive metal hi-hat character with maximum projection, the 2002 Sound Edge delivers.`,
+Daray of Dimmu Borgir built his setup around Paiste 2002 Sound Edge Hi-Hats to drive the relentless, powerful grooves that define Dimmu Borgir's festival-scale live shows. The 2002 series' CuSn8 bronze formula produces a bright, powerful, and immediate sound that projects exceptionally at extreme stage volumes — exactly what those performances demand. For drummers who want that classic, aggressive metal hi-hat character with maximum projection, the 2002 Sound Edge delivers.`,
 
           pros: [
             "Sound Edge bottom creates tight, fast, distinctive chick",
@@ -10605,7 +10604,7 @@ Mikkey Dee of Motörhead used Paiste 2002 cymbals to drive the relentless, power
             series: "2002 Sound Edge"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead", note: "Paiste 2002 — defining heavy metal power" },
+            { name: "Daray", band: "Dimmu Borgir", note: "Paiste 2002 Sound Edge — festival-scale projection" },
             { name: "Nicko McBrain", band: "Iron Maiden", note: "Paiste user — classic heavy metal character" },
             { name: "Igor Cavalera", band: "Sepultura", note: "Aggressive heavy metal attack" }
           ],
@@ -10833,20 +10832,20 @@ The K's ability to transition from aggressive closed chicks to rich, complex ope
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom — the definitive metal hi-hat sound' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl endorser — progressive metal hi-hat complexity' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 — classic heavy metal hi-hat power' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste Signature Series — classic heavy metal hi-hat power' }
     ],
 
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom — the definitive metal hi-hat benchmark across Metallica\'s career' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance — progressive metal hi-hat precision with Periphery' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 Sound Edge — iconic classic heavy metal hi-hat power' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste Signature Series — iconic classic heavy metal hi-hat power' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What hi-hats do metal drummers use?",
-        answer: "Most professional metal drummers use medium-heavy 14\" hi-hats from Zildjian, Meinl, or Paiste. Lars Ulrich of Metallica uses Zildjian A Custom hi-hats. Matt Halpern of Periphery uses Meinl Byzance. Mikkey Dee of Motörhead used Paiste 2002 Sound Edge. The common thread: cymbals that cut through dense guitar mixes with a focused, articulate attack."
+        answer: "Most professional metal drummers use medium-heavy 14\" hi-hats from Zildjian, Meinl, or Paiste. Lars Ulrich of Metallica uses Zildjian A Custom hi-hats. Matt Halpern of Periphery uses Meinl Byzance. Mikkey Dee of Motörhead used Paiste Signature Series. The common thread: cymbals that cut through dense guitar mixes with a focused, articulate attack."
       },
       {
         question: "What size hi-hats are best for metal?",
@@ -28942,13 +28941,13 @@ Start with a durable 20" in whatever alloy fits your budget, mount it inverted f
       title: "Why Power Metal Needs a China That Cuts Through the Orchestra",
       content: `Power metal's fantasy-and-mythology songwriting stacks galloping double bass, soaring clean vocals, and full keyboard orchestration into a dense, theatrical wall of sound — and a china cymbal voiced for darker, murkier subgenres simply disappears in that mix. Power metal's china needs to be bright enough to punctuate a song's biggest climactic moments without getting lost under choirs and synth strings.
 
-Scott Travis pairs his Paiste cymbal setup — signed in 1987, three years before he even recorded "Painkiller" (1990) — with a Paiste RUDE China for the same bright, cutting attack that's carried through every Judas Priest record since, from the record that became a direct blueprint for the European power metal scene onward. Aquiles Priester runs a china from his custom red-coated Paiste setup with Angra, chosen for consistency at the sustained 180-220+ BPM double-bass tempos his neoclassical style demands. Nicko McBrain layers a Paiste Signature China into his Iron Maiden rig for the same galloping, triplet-based rhythmic vocabulary that power metal's entire European scene built upon, while Mikkey Dee's Paiste 2002 China brings European hard rock brightness and touring endurance across Motörhead and Scorpions.
+Scott Travis pairs his Paiste cymbal setup — signed in 1987, three years before he even recorded "Painkiller" (1990) — with a Paiste RUDE China for the same bright, cutting attack that's carried through every Judas Priest record since, from the record that became a direct blueprint for the European power metal scene onward. Aquiles Priester runs a china from his custom red-coated Paiste setup with Angra, chosen for consistency at the sustained 180-220+ BPM double-bass tempos his neoclassical style demands. Nicko McBrain layers a Paiste Signature China into his Iron Maiden rig for the same galloping, triplet-based rhythmic vocabulary that power metal's entire European scene built upon, while Mikkey Dee's Paiste Signature Series China brings European hard rock brightness and touring endurance across Motörhead and Scorpions.
 
 This guide covers what actually makes a china work for power metal: brightness, theatrical punch, and touring durability, along with specific model recommendations across every budget for galloping, orchestration-heavy power metal.`,
       keyPoints: [
         "Power metal chinas need to cut through dense keyboard orchestration and soaring clean vocals without washing out",
         "Scott Travis's Paiste RUDE China carries a cymbal endorsement dating back to 1987, three years before \"Painkiller,\" power metal's foundational blueprint",
-        "Nicko McBrain's Paiste Signature China and Mikkey Dee's Paiste 2002 China both deliver the galloping-rhythm brightness the genre's European scene depends on",
+        "Nicko McBrain's Paiste Signature China and Mikkey Dee's Paiste Signature Series China both deliver the galloping-rhythm brightness the genre's European scene depends on",
         "18\"-20\" is the power metal china sweet spot, favoring bright theatrical presence over dark, murky trash"
       ]
     },
@@ -28984,7 +28983,7 @@ This guide covers what actually makes a china work for power metal: brightness, 
         {
           name: "Touring Endurance",
           icon: "🛡️",
-          description: "Mikkey Dee's Paiste 2002 China has survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so chinas need to hold tone and durability across relentless live schedules.",
+          description: "Mikkey Dee's Paiste Signature Series China has survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so chinas need to hold tone and durability across relentless live schedules.",
           recommendation: "Heavy-gauge B20 or CuSn8 bronze chinas built for daily touring wear"
         },
         {
@@ -29113,16 +29112,16 @@ The genre's galloping tempo feel traces its lineage straight back to McBrain's N
         },
         {
           rank: 4,
-          name: "Paiste 2002 China",
+          name: "Paiste Signature Series China",
           brand: "Paiste",
-          model: "18\" 2002 China",
+          model: "18\" Signature Series China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€170-220",
           tier: "mid-pro",
           driveType: "CuSn8 Bronze, Lathed",
-          description: `Mikkey Dee's Paiste 2002 China has survived decades of Motörhead and Scorpions arena and festival touring, bringing European hard rock brightness and reliability to power metal's demanding live schedule. The traditional lathed CuSn8 bronze construction delivers a cutting, durable accent voice that holds up night after night.
+          description: `Mikkey Dee's Paiste Signature Series China has survived decades of Motörhead and Scorpions arena and festival touring, bringing European hard rock brightness and reliability to power metal's demanding live schedule. The traditional lathed CuSn8 bronze construction delivers a cutting, durable accent voice that holds up night after night.
 
-For power metal drummers whose touring schedule rivals the genre's biggest festival headliners, Dee's 2002 china proves proven, durable brightness matters as much as tonal complexity.`,
+For power metal drummers whose touring schedule rivals the genre's biggest festival headliners, Dee's Signature Series china proves proven, durable brightness matters as much as tonal complexity.`,
           pros: [
             "Mikkey Dee's proven Motörhead/Scorpions touring setup",
             "Bright, cutting CuSn8 bronze attack",
@@ -29142,11 +29141,11 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "18\" 2002 China — decades of proven touring reliability" }
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "18\" Signature Series China — decades of proven touring reliability" }
           ],
           verdict: "Best value for touring reliability. Dee's setup proves proven Paiste brightness holds up across decades of festival touring.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_china_18_dee.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_signature_china_18_dee.htm?partner_id=metalforge"
         }
       ]
     },
@@ -29224,7 +29223,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
 
     // Comparison
     comparison: {
-      title: "Paiste RUDE vs Custom Red-Coated vs Paiste Signature/2002 for Power Metal",
+      title: "Paiste RUDE vs Custom Red-Coated vs Paiste Signature for Power Metal",
       content: `All four of power metal's most influential drummers currently play Paiste, but distinct lines split them into recognizable camps:
 
 **Paiste RUDE (Scott Travis):**
@@ -29237,13 +29236,13 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
 - Built for sustained consistency at extreme neoclassical tempos
 - Best for: Neoclassical, technically demanding power metal
 
-**Paiste Signature/2002 (Nicko McBrain, Mikkey Dee):**
+**Paiste Signature (Nicko McBrain, Mikkey Dee):**
 - Bright, articulate CuSn8 bronze attack
 - McBrain's setup carries the genre's galloping rhythmic DNA
 - Dee's setup proves proven touring durability across decades
 - Best for: Galloping, triplet-based European power metal
 
-**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 china if you're building power metal technique on a budget. Choose Paiste RUDE for the classic speed-and-precision blueprint, a custom-finish set if your material demands sustained neoclassical consistency, or Paiste Signature/2002 for the genre's galloping rhythmic tradition.`,
+**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 china if you're building power metal technique on a budget. Choose Paiste RUDE for the classic speed-and-precision blueprint, a custom-finish set if your material demands sustained neoclassical consistency, or Paiste Signature for the genre's galloping rhythmic tradition.`,
       comparisonTable: [
         { feature: "Brightness/Cut", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Sustained Tempo Consistency", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -29289,7 +29288,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Paiste RUDE China — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Custom red-coated Paiste China — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature China — Iron Maiden galloping foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 China — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste Signature Series China — Motörhead/Scorpions touring stamina' }
     ],
     relatedComparisons: [],
 
@@ -39525,13 +39524,13 @@ Budget shouldn't stop you either. A Zildjian ZBT or Paiste PST 8 ride will teach
       title: "Why Power Metal Rides Need to Cut, Not Wash",
       content: `Power metal's galloping, triplet-based rhythmic vocabulary and theatrical, keyboard-orchestrated arrangements demand a ride that stays bright and clearly articulate rather than blurring into sustain. A ride that washes out under a galloping pattern buries the very rhythmic feel power metal's European scene was built on.
 
-Scott Travis currently rides a 22" Paiste RUDE Power Ride with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester rides a 22" ride from his custom red-coated Paiste set on his current Angra return cycle, chosen for the consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's 22" Paiste Signature Precision Ride has powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's 22" Paiste 2002 Ride brings European hard rock cutting power and touring endurance across Motörhead and Scorpions.
+Scott Travis currently rides a 22" Paiste RUDE Power Ride with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester rides a 22" ride from his custom red-coated Paiste set on his current Angra return cycle, chosen for the consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's 22" Paiste Signature Precision Ride has powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's 22" Paiste Signature Series Ride brings European hard rock cutting power and touring endurance across Motörhead and Scorpions.
 
-This guide compares Paiste RUDE, Custom Red-Coated, and Paiste Signature/2002 rides for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
+This guide compares Paiste RUDE, Custom Red-Coated, and Paiste Signature rides for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
         "Paiste RUDE Power Ride gives Scott Travis the raw, cutting attack of a Paiste endorsement dating back to 1987, three years before \"Painkiller\"",
         "Aquiles Priester's custom red-coated Paiste ride supports sustained neoclassical double-bass patterns with a distinctive signature finish",
-        "Nicko McBrain's Paiste Signature Precision Ride and Mikkey Dee's Paiste 2002 Ride both deliver the galloping-rhythm brightness power metal's European scene depends on",
+        "Nicko McBrain's Paiste Signature Precision Ride and Mikkey Dee's Paiste Signature Series Ride both deliver the galloping-rhythm brightness power metal's European scene depends on",
         "22\" bright, cutting rides dominate power metal, prioritizing theatrical presence over dry, controlled sustain"
       ]
     },
@@ -39561,7 +39560,7 @@ This guide compares Paiste RUDE, Custom Red-Coated, and Paiste Signature/2002 ri
         {
           name: "Touring Endurance",
           icon: "🛡️",
-          description: "Mikkey Dee's Paiste 2002 Ride has survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so a ride needs to hold tone and durability across relentless live schedules.",
+          description: "Mikkey Dee's Paiste Signature Series Ride has survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so a ride needs to hold tone and durability across relentless live schedules.",
           recommendation: "Heavy-gauge bronze rides built for daily touring wear"
         },
         {
@@ -39696,21 +39695,21 @@ The genre's galloping tempo feel traces its lineage straight back to McBrain's N
         },
         {
           rank: 4,
-          name: "Paiste 2002 Ride",
+          name: "Paiste Signature Series Ride",
           brand: "Paiste",
-          model: "22\" 2002 Ride",
+          model: "22\" Signature Series Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg",
           priceRange: "€170-230",
           tier: "pro",
           driveType: "CuSn8 Bronze, Bright",
-          description: `Mikkey Dee's 22" Paiste 2002 Ride has carried him through 23 years with Motörhead and his current tenure with Scorpions, representing the European hard rock power and touring endurance that power metal's festival-circuit bands have built their live reputations on. Bad Magic (2015) won Motörhead's only Grammy for Best Metal Performance weeks before Lemmy Kilmister's death, with Dee's Paiste 2002 setup fully dialed in for the recording.
+          description: `Mikkey Dee's 22" Paiste Signature Series Ride has carried him through 23 years with Motörhead and his current tenure with Scorpions, representing the European hard rock power and touring endurance that power metal's festival-circuit bands have built their live reputations on. Bad Magic (2015) won Motörhead's only Grammy for Best Metal Performance weeks before Lemmy Kilmister's death, with Dee's Paiste Signature Series setup fully dialed in for the recording.
 
-While Dee's catalog sits closer to hard rock than power metal's fantasy-themed wing, his Paiste 2002 Ride's cutting power and arena-level projection represent the touring stamina power metal's biggest festival-headlining bands demand night after night.`,
+While Dee's catalog sits closer to hard rock than power metal's fantasy-themed wing, his Paiste Signature Series Ride's cutting power and arena-level projection represent the touring stamina power metal's biggest festival-headlining bands demand night after night.`,
           pros: [
             "Mikkey Dee's setup — proven across 23+ years of relentless Motörhead and Scorpions touring",
-            "Paiste 2002's cutting power and projection suited to loud arena and festival settings",
+            "Paiste Signature Series's cutting power and projection suited to loud arena and festival settings",
             "Grammy-winning pedigree (Motörhead's \"Thunder & Lightning,\" 2015)",
-            "A more affordable entry into the Paiste family than the Signature Series"
+            "Carried from his early Motörhead years through to Scorpions since 1987"
           ],
           cons: [
             "Less directly tied to power metal's fantasy-themed lyrical tradition",
@@ -39725,11 +39724,11 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
             weight: "Medium"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "22\" 2002 Ride — European hard rock power and touring stamina" }
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "22\" Signature Series Ride — European hard rock power and touring stamina" }
           ],
           verdict: "Best for touring stamina. Dee's ride brings arena-level power and durability to power metal's biggest stages.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_ride_22_dee.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_signature_ride_22_dee.htm?partner_id=metalforge"
         }
       ]
     },
@@ -39784,9 +39783,9 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
       ]
     },
 
-    // Paiste RUDE vs Custom Red-Coated vs Paiste Signature/2002 comparison
+    // Paiste RUDE vs Custom Red-Coated vs Paiste Signature comparison
     comparison: {
-      title: "Paiste RUDE vs Custom Red-Coated vs Paiste Signature/2002 Ride for Power Metal",
+      title: "Paiste RUDE vs Custom Red-Coated vs Paiste Signature Ride for Power Metal",
       content: `All four of power metal's most influential drummers currently play Paiste, but distinct lines split them into recognizable camps:
 
 **Paiste RUDE Power Ride (Scott Travis):**
@@ -39794,7 +39793,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
 - Part of a Paiste endorsement dating back to 1987, predating power metal's foundational "Painkiller" blueprint
 - Best for: Speed-and-precision power metal in the classic European tradition
 
-**Paiste Signature Precision & 2002 Ride (Nicko McBrain, Mikkey Dee):**
+**Paiste Signature Precision Ride (Nicko McBrain, Mikkey Dee):**
 - Bright CuSn8 bronze with strong theatrical presence
 - The rhythmic DNA behind power metal's galloping foundation
 - Best for: Galloping, triplet-based rhythms and high-stamina touring
@@ -39806,7 +39805,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
 
 **The Truth:** All three approaches have driven some of power metal's most influential recordings. Scott Travis's Paiste RUDE Power Ride carries his four-decade Paiste endorsement forward. Nicko McBrain and Mikkey Dee's Paiste rides provide the genre's galloping rhythmic DNA and touring stamina. Aquiles Priester's custom red-coated Paiste ride proves a distinctive signature finish can match the brighter standard lines at extreme neoclassical tempos.
 
-**Our Recommendation:** Start with Paiste RUDE if you want a raw, classic power metal ride sound. Choose Paiste Signature or 2002 if your material leans toward galloping, triplet-based rhythms. Choose a custom-finish set if you want sustained consistency for technical double-bass playing.`,
+**Our Recommendation:** Start with Paiste RUDE if you want a raw, classic power metal ride sound. Choose Paiste Signature if your material leans toward galloping, triplet-based rhythms. Choose a custom-finish set if you want sustained consistency for technical double-bass playing.`,
       comparisonTable: [
         { feature: "Brightness/Cut", sabian: "⭐⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐", customRedCoated: "⭐⭐⭐⭐⭐" },
         { feature: "Sustained Tempo Consistency", sabian: "⭐⭐⭐", paiste: "⭐⭐⭐⭐", customRedCoated: "⭐⭐⭐⭐⭐" },
@@ -39853,7 +39852,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
       { slug: 'scott-travis', name: 'Scott Travis', reason: '22" Paiste RUDE Power Ride — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: '22" custom red-coated Paiste Ride — Angra neoclassical consistency' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: '22" Paiste Signature Precision Ride — Iron Maiden galloping DNA' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: '22" Paiste 2002 Ride — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: '22" Paiste Signature Series Ride — Motörhead/Scorpions touring stamina' }
     ],
 
     // Featured drummers (issue template)
@@ -47488,13 +47487,13 @@ Start with a budget crash from the family that matches your target sound, and up
       title: "Why Power Metal Crashes Need to Cut Through Keyboards and Choirs",
       content: `Power metal's theatrical, fantasy-themed songwriting layers galloping double bass, soaring clean vocals, and keyboard orchestration into a dense, larger-than-life arrangement — and a crash that washes out or disappears into that mix does the genre no favors. Power metal crashes need to be bright and articulate enough to punch through a full orchestral arrangement without abandoning the theatrical dynamic range the genre depends on.
 
-Scott Travis currently plays Paiste RUDE crashes with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before he even recorded "Painkiller" (1990), the record that became a direct blueprint for the European power metal movement. Aquiles Priester runs a full crash setup from his custom red-coated Paiste set on his current Angra return cycle, chosen for consistency at sustained 180-220+ BPM double-bass tempos. Nicko McBrain's Paiste Signature crashes have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste 2002 crashes bring European hard rock brightness and touring endurance across Motörhead and Scorpions.
+Scott Travis currently plays Paiste RUDE crashes with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before he even recorded "Painkiller" (1990), the record that became a direct blueprint for the European power metal movement. Aquiles Priester runs a full crash setup from his custom red-coated Paiste set on his current Angra return cycle, chosen for consistency at sustained 180-220+ BPM double-bass tempos. Nicko McBrain's Paiste Signature crashes have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste Signature Series crashes bring European hard rock brightness and touring endurance across Motörhead and Scorpions.
 
 This guide breaks down what actually makes a crash work for power metal — brightness, cutting power, and theatrical dynamic range — and recommends specific models across every budget, from a first bright crash to the exact cymbals power metal's most influential drummers play.`,
       keyPoints: [
         "Power metal crashes need to cut through dense keyboard orchestration and soaring clean vocals without washing out",
         "Scott Travis's Paiste RUDE crash is part of a Paiste endorsement dating back to 1987, three years before \"Painkiller,\" power metal's foundational blueprint",
-        "Nicko McBrain's Paiste Signature and Mikkey Dee's Paiste 2002 crashes both deliver the galloping-rhythm brightness the genre's European scene depends on",
+        "Nicko McBrain's Paiste Signature and Mikkey Dee's Paiste Signature Series crashes both deliver the galloping-rhythm brightness the genre's European scene depends on",
         "Bright, cutting voicing dominates power metal crash choice, favoring theatrical presence over dark, controlled sustain"
       ]
     },
@@ -47524,7 +47523,7 @@ This guide breaks down what actually makes a crash work for power metal — brig
         {
           name: "Touring Endurance",
           icon: "🛡️",
-          description: "Mikkey Dee's Paiste 2002 crashes have survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so crashes need to hold tone and durability across relentless live schedules.",
+          description: "Mikkey Dee's Paiste Signature Series crashes have survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so crashes need to hold tone and durability across relentless live schedules.",
           recommendation: "Heavy-gauge B20 bronze crashes built for daily touring wear"
         },
         {
@@ -47659,21 +47658,21 @@ The genre's galloping tempo feel traces its lineage straight back to McBrain's N
         },
         {
           rank: 4,
-          name: "Paiste 2002 Crash",
+          name: "Paiste Signature Series Crash",
           brand: "Paiste",
-          model: "16\" & 18\" 2002 Crash",
+          model: "16\" & 18\" Signature Series Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg",
           priceRange: "€160-210",
           tier: "mid-pro",
           driveType: "CuSn8 Bronze, Lathed",
-          description: `Mikkey Dee's Paiste 2002 crashes have survived decades of Motörhead and Scorpions arena and festival touring, bringing European hard rock brightness and reliability to power metal's demanding live schedule. The traditional lathed CuSn8 bronze construction delivers a cutting, durable voice that holds up night after night.
+          description: `Mikkey Dee's Paiste Signature Series crashes have survived decades of Motörhead and Scorpions arena and festival touring, bringing European hard rock brightness and reliability to power metal's demanding live schedule. The traditional lathed CuSn8 bronze construction delivers a cutting, durable voice that holds up night after night.
 
-For power metal drummers whose touring schedule rivals the genre's biggest festival headliners, Dee's 2002 crash proves proven, durable brightness matters as much as tonal complexity.`,
+For power metal drummers whose touring schedule rivals the genre's biggest festival headliners, Dee's Signature Series crash proves proven, durable brightness matters as much as tonal complexity.`,
           pros: [
             "Mikkey Dee's proven Motörhead/Scorpions touring setup",
             "Bright, cutting CuSn8 bronze attack",
             "Extremely durable under relentless festival and arena touring",
-            "More accessible pricing than signature-tier alternatives"
+            "Carried from his early Motörhead years through to Scorpions since 1987"
           ],
           cons: [
             "Simpler harmonic profile than B20 bronze alternatives",
@@ -47688,11 +47687,11 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
             decay: "Bright, cutting"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "16\" & 18\" 2002 Crashes — decades of proven touring reliability" }
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "16\" & 18\" Signature Series Crashes — decades of proven touring reliability" }
           ],
           verdict: "Best value for touring reliability. Dee's setup proves proven Paiste brightness holds up across decades of festival touring.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_crash_18_dee.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_signature_crash_18_dee.htm?partner_id=metalforge"
         }
       ]
     },
@@ -47749,7 +47748,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
 
     // Comparison
     comparison: {
-      title: "Paiste RUDE vs Custom Red-Coated vs Paiste Signature/2002 for Power Metal",
+      title: "Paiste RUDE vs Custom Red-Coated vs Paiste Signature for Power Metal",
       content: `All four of power metal's most influential drummers currently play Paiste, but distinct lines split them into recognizable camps:
 
 **Paiste RUDE (Scott Travis):**
@@ -47762,13 +47761,13 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
 - Built for sustained consistency at extreme neoclassical tempos
 - Best for: Neoclassical, technically demanding power metal
 
-**Paiste Signature/2002 (Nicko McBrain, Mikkey Dee):**
+**Paiste Signature (Nicko McBrain, Mikkey Dee):**
 - Bright, articulate CuSn8 bronze attack
 - McBrain's setup carries the genre's galloping rhythmic DNA
 - Dee's setup proves proven touring durability across decades
 - Best for: Galloping, triplet-based European power metal
 
-**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 crash if you're building power metal technique on a budget. Choose Paiste RUDE for a raw, classic power metal edge, a custom-finish set if your material demands sustained neoclassical consistency, or Paiste Signature/2002 for the genre's galloping rhythmic tradition.`,
+**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 crash if you're building power metal technique on a budget. Choose Paiste RUDE for a raw, classic power metal edge, a custom-finish set if your material demands sustained neoclassical consistency, or Paiste Signature for the genre's galloping rhythmic tradition.`,
       comparisonTable: [
         { feature: "Brightness/Cut", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Sustained Tempo Consistency", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -47816,7 +47815,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Paiste RUDE Crash — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Custom red-coated Paiste Crash — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature Crash — Iron Maiden galloping foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 Crash — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste Signature Series Crash — Motörhead/Scorpions touring stamina' }
     ],
 
     // Featured drummers (issue template)
@@ -61452,7 +61451,7 @@ Start where your budget allows — even a Pearl Export or Tama Imperialstar will
     // SEO metadata
     title: "Best Cymbals for Power Metal: 2026 Expert Guide",
     metaTitle: "Best Cymbals for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best cymbal picks for power metal drumming: what Scott Travis (Paiste RUDE & 2002), Aquiles Priester (custom red-coated Paiste), Nicko McBrain (Paiste Signature), and Mikkey Dee (Paiste 2002) actually play. Paiste RUDE vs Custom Red-Coated vs Paiste Signature/2002 — ranked budget to pro.",
+    description: "Best cymbal picks for power metal drumming: what Scott Travis (Paiste RUDE & 2002), Aquiles Priester (custom red-coated Paiste), Nicko McBrain (Paiste Signature), and Mikkey Dee (Paiste Signature Series) actually play. Paiste RUDE vs Custom Red-Coated vs Paiste Signature — ranked budget to pro.",
     seoKeywords: [
       'best cymbals for power metal',
       'power metal cymbals',
@@ -61488,7 +61487,7 @@ Start where your budget allows — even a Pearl Export or Tama Imperialstar will
       title: "Why Power Metal Cymbals Need Brightness and Stamina in Equal Measure",
       content: `Power metal drumming demands sustained, precise double bass at speed-metal tempos combined with the theatrical, larger-than-life dynamic range the genre's keyboard-orchestrated, fantasy-themed songwriting requires. That combination pushes cymbal choice toward bright, cutting voicing that can punch through galloping rhythms and soaring clean vocals without disappearing into a wash of sustain during 160-200+ BPM sections.
 
-Scott Travis currently plays Paiste RUDE & 2002 Series cymbals with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs a full cymbal setup from his custom red-coated Paiste set on his current Angra return cycle, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style. Nicko McBrain's Paiste Signature cymbals have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon. Mikkey Dee's Paiste 2002 cymbals bring European hard rock power and touring endurance across Motörhead and Scorpions.
+Scott Travis currently plays Paiste RUDE & 2002 Series cymbals with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs a full cymbal setup from his custom red-coated Paiste set on his current Angra return cycle, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style. Nicko McBrain's Paiste Signature cymbals have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon. Mikkey Dee's Paiste Signature Series cymbals bring European hard rock power and touring endurance across Motörhead and Scorpions.
 
 This guide compares Paiste RUDE, Custom Red-Coated, and Paiste Signature/2002 for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
@@ -61524,7 +61523,7 @@ This guide compares Paiste RUDE, Custom Red-Coated, and Paiste Signature/2002 fo
         {
           name: "Touring Endurance",
           icon: "🛡️",
-          description: "Mikkey Dee's Paiste 2002 cymbals have survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so cymbals need to hold tone and durability across relentless live schedules.",
+          description: "Mikkey Dee's Paiste Signature Series cymbals have survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so cymbals need to hold tone and durability across relentless live schedules.",
           recommendation: "Heavy-gauge B20 bronze cymbals built for daily touring wear"
         },
         {
@@ -61657,7 +61656,8 @@ The genre's galloping tempo feel traces its lineage straight back to McBrain's N
             bestFor: "Galloping, triplet-based power metal rhythms"
           },
           usedBy: [
-            { name: "Nicko McBrain", band: "Iron Maiden", note: "Paiste Signature Series — current setup, paired with his British Drum Co. kit and Sonor Nicko McBrain Signature snare" }
+            { name: "Nicko McBrain", band: "Iron Maiden", note: "Paiste Signature Series — current setup, paired with his British Drum Co. kit and Sonor Nicko McBrain Signature snare" },
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "Paiste Signature Series — carried from his early Motörhead years through to Scorpions" }
           ],
           verdict: "Best for galloping rhythmic foundations. McBrain's setup is the direct ancestor of power metal's rhythmic vocabulary.",
           rating: 4.6,
@@ -61673,32 +61673,32 @@ The genre's galloping tempo feel traces its lineage straight back to McBrain's N
           tier: "pro",
           material: "CuSn8 Bronze",
 
-          description: `Mikkey Dee's Paiste 2002 cymbals have carried him through 23 years with Motörhead and his current tenure with Scorpions, representing the European hard rock power and touring endurance that power metal's festival-circuit bands have built their live reputations on. Bad Magic (2015) won Motörhead's only Grammy for Best Metal Performance weeks before Lemmy Kilmister's death, with Dee's Paiste 2002 setup fully dialed in for the recording.
+          description: `Eloy Casagrande became a Paiste artist at age 17 in 2005 — the youngest drummer ever signed to the brand — and has built his setup around Paiste 2002 cymbals through his Sepultura years and into his current tenure with Slipknot. The 2002 series' CuSn8 bronze formula produces a bright, powerful, immediate sound built for heavy touring schedules.
 
-While Dee's catalog sits closer to hard rock than power metal's fantasy-themed wing, his Paiste 2002 setup's cutting power and arena-level projection represent the touring stamina power metal's biggest festival-headlining bands demand night after night.`,
+While Casagrande's background sits in groove and thrash rather than power metal's fantasy-themed wing, his Paiste 2002 setup's cutting power and durability represent the touring stamina power metal's biggest festival-headlining bands demand night after night.`,
 
           pros: [
-            "Mikkey Dee's setup — proven across 23+ years of relentless Motörhead and Scorpions touring",
+            "Eloy Casagrande's setup — a Paiste artist since age 17, the youngest ever signed to the brand",
             "Paiste 2002's cutting power and projection suited to loud arena and festival settings",
-            "Grammy-winning pedigree (Motörhead's \"Thunder & Lightning,\" 2015)",
+            "Proven across Sepultura's festival circuit and Slipknot's arena touring",
             "Excellent durability for relentless touring schedules",
             "A more affordable entry into the Paiste family than the Signature Series"
           ],
           cons: [
             "Less directly tied to power metal's fantasy-themed lyrical tradition",
             "CuSn8 bronze offers a simpler harmonic profile than premium B20 alternatives",
-            "Voicing leans harder rock than power metal's theatrical brightness"
+            "Voicing leans groove/thrash metal rather than power metal's theatrical brightness"
           ],
           specs: {
             alloy: "CuSn8 Bronze",
             finish: "Bright",
             priceRange: "€160–€360 per cymbal",
-            bestFor: "High-stamina touring power metal and power-metal-adjacent hard rock"
+            bestFor: "High-stamina touring power metal and power-metal-adjacent heavy metal"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "Paiste 2002 Series — European hard rock power and touring stamina" }
+            { name: "Eloy Casagrande", band: "Slipknot / Sepultura", note: "Paiste 2002 Series — Paiste artist since age 17" }
           ],
-          verdict: "Best for touring stamina. Dee's setup brings arena-level power and durability to power metal's biggest stages.",
+          verdict: "Best for touring stamina. Casagrande's setup brings arena-level power and durability to power metal's biggest stages.",
           rating: 4.4,
           affiliateLink: "https://www.thomann.de/intl/paiste_2002_series.htm?partner_id=metalforge"
         }
@@ -61741,9 +61741,9 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
       ]
     },
 
-    // Paiste RUDE vs Paiste Signature/2002 vs Custom Red-Coated comparison
+    // Paiste RUDE vs Paiste Signature vs Custom Red-Coated comparison
     comparison: {
-      title: "Paiste RUDE vs Paiste Signature/2002 vs Custom Red-Coated for Power Metal",
+      title: "Paiste RUDE vs Paiste Signature vs Custom Red-Coated for Power Metal",
       content: `All four of power metal's most influential drummers currently play Paiste, but distinct lines split them into recognizable camps:
 
 **Paiste RUDE & 2002 (Scott Travis):**
@@ -61751,7 +61751,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
 - Part of a Paiste endorsement dating back to 1987, predating power metal's foundational "Painkiller" blueprint
 - Best for: Speed-and-precision power metal in the classic European tradition
 
-**Paiste Signature & 2002 (Nicko McBrain, Mikkey Dee):**
+**Paiste Signature (Nicko McBrain, Mikkey Dee):**
 - Bright CuSn8 bronze with strong theatrical presence
 - The rhythmic DNA behind power metal's galloping foundation
 - Best for: Galloping, triplet-based rhythms and high-stamina touring
@@ -61763,7 +61763,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
 
 **The Truth:** All three approaches have driven some of power metal's most influential recordings. Scott Travis's Paiste RUDE & 2002 setup carries his four-decade Paiste endorsement forward. Nicko McBrain and Mikkey Dee's Paiste setups provide the genre's galloping rhythmic DNA and touring stamina. Aquiles Priester's custom red-coated Paiste setup proves a distinctive signature finish can match the brighter standard lines at extreme neoclassical tempos.
 
-**Our Recommendation:** Start with Paiste RUDE if you want a raw, classic power metal cymbal sound. Choose Paiste Signature or 2002 if your material leans toward galloping, triplet-based rhythms. Choose a custom-finish set if you want sustained consistency for technical double-bass playing.`,
+**Our Recommendation:** Start with Paiste RUDE if you want a raw, classic power metal cymbal sound. Choose Paiste Signature if your material leans toward galloping, triplet-based rhythms. Choose a custom-finish set if you want sustained consistency for technical double-bass playing.`,
       comparisonTable: [
         { feature: "Brightness/Cut", sabian: "⭐⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐", customRedCoated: "⭐⭐⭐⭐⭐" },
         { feature: "Sustained Tempo Consistency", sabian: "⭐⭐⭐", paiste: "⭐⭐⭐⭐", customRedCoated: "⭐⭐⭐⭐⭐" },
@@ -61809,7 +61809,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Paiste RUDE & 2002 Series — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Custom Red-Coated Paiste Setup — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature Series — Iron Maiden galloping foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 Series — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste Signature Series — Motörhead/Scorpions touring stamina' }
     ],
 
     // Featured drummers (issue template)
@@ -61817,7 +61817,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Paiste RUDE & 2002 Series — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Custom Red-Coated Paiste Setup — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature Series — Iron Maiden galloping foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 Series — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste Signature Series — Motörhead/Scorpions touring stamina' }
     ],
 
     // FAQ section for SEO
@@ -61832,7 +61832,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
       },
       {
         question: "Paiste RUDE vs Custom Red-Coated — which is better for power metal?",
-        answer: "Both work at the highest level. Scott Travis's Paiste RUDE offers a raw, cutting attack, part of a Paiste endorsement dating back to 1987. Nicko McBrain's Paiste Signature and Mikkey Dee's Paiste 2002 both deliver the bright, theatrical presence and galloping rhythmic character power metal's European scene depends on. Aquiles Priester's custom red-coated Paiste set offers a distinctive signature finish built for sustained neoclassical consistency. Choose based on whether you want RUDE's raw cut or the custom set's distinctive identity."
+        answer: "Both work at the highest level. Scott Travis's Paiste RUDE offers a raw, cutting attack, part of a Paiste endorsement dating back to 1987. Nicko McBrain's and Mikkey Dee's Paiste Signature cymbals both deliver the bright, theatrical presence and galloping rhythmic character power metal's European scene depends on. Aquiles Priester's custom red-coated Paiste set offers a distinctive signature finish built for sustained neoclassical consistency. Choose based on whether you want RUDE's raw cut or the custom set's distinctive identity."
       },
       {
         question: "What cymbals does Nicko McBrain use?",
@@ -61847,7 +61847,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
     // Conclusion
     conclusion: {
       title: "Find Your Power Metal Cymbal Voice",
-      content: `Power metal cymbal choice comes down to a fundamental question: do you want the raw, classic brightness of Paiste RUDE, the galloping theatrical presence of Paiste Signature/2002, or the sustained consistency of a custom-finish set? Scott Travis found his answer in Paiste RUDE, carrying his four-decade Paiste endorsement into the present day. Nicko McBrain and Mikkey Dee both found theirs in Paiste's Signature/2002 theatrical family, while Aquiles Priester found his distinctive identity in a custom red-coated Paiste set for Angra's sustained neoclassical double-bass demands.
+      content: `Power metal cymbal choice comes down to a fundamental question: do you want the raw, classic brightness of Paiste RUDE, the galloping theatrical presence of Paiste Signature, or the sustained consistency of a custom-finish set? Scott Travis found his answer in Paiste RUDE, carrying his four-decade Paiste endorsement into the present day. Nicko McBrain and Mikkey Dee both found theirs in Paiste's Signature theatrical family, while Aquiles Priester found his distinctive identity in a custom red-coated Paiste set for Angra's sustained neoclassical double-bass demands.
 
 None of these approaches is more "authentic" to the genre — all four have driven some of power metal's most influential recordings. Start with whichever family matches your band's balance of classic speed-and-precision versus galloping theatrics versus sustained technical consistency.
 
@@ -73631,13 +73631,13 @@ Start with a single 10" splash voiced to match your existing crash setup, and mo
       title: "A Splash for Power Metal's Most Theatrical Moments",
       content: `Power metal's theatrical, fantasy-themed songwriting swings between galloping double bass, soaring clean vocals, and delicate keyboard-led passages, and a splash cymbal gives a drummer a distinct tonal option for those quieter, more dynamic moments a full-size crash would overpower. At 8" to 12", a splash decays almost instantly, punctuating a single accent hit — a dramatic pause, a syncopated stab before a chorus, a moment of restraint before the next theatrical climax — without washing over the orchestration built up around it.
 
-Scott Travis currently plays Paiste RUDE crashes with Judas Priest, part of a Paiste endorsement dating back to 1987, three years before "Painkiller" (1990), and a matching RUDE splash extends that same raw, cutting brightness down to accent scale for power metal's galloping rhythms. Aquiles Priester runs a full custom red-coated Paiste setup for Angra, and a matching splash gives his sustained 180-220+ BPM neoclassical double-bass technique the same tuning consistency at accent size. Nicko McBrain's Paiste Signature crashes have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary the entire European power metal scene built upon, and a matching Signature splash carries that same warm, controlled voicing into a single theatrical accent hit. Mikkey Dee's Paiste 2002 crashes bring European hard rock brightness and touring endurance across Motörhead and Scorpions, extending naturally down to a 2002 splash for the same bright, cutting character.
+Scott Travis currently plays Paiste RUDE crashes with Judas Priest, part of a Paiste endorsement dating back to 1987, three years before "Painkiller" (1990), and a matching RUDE splash extends that same raw, cutting brightness down to accent scale for power metal's galloping rhythms. Aquiles Priester runs a full custom red-coated Paiste setup for Angra, and a matching splash gives his sustained 180-220+ BPM neoclassical double-bass technique the same tuning consistency at accent size. Nicko McBrain's Paiste Signature crashes have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary the entire European power metal scene built upon, and a matching Signature splash carries that same warm, controlled voicing into a single theatrical accent hit. Mikkey Dee's Paiste Signature Series crashes bring European hard rock brightness and touring endurance across Motörhead and Scorpions, extending naturally down to a Signature Series splash for the same bright, cutting character.
 
 This guide breaks down what actually makes a splash work for power metal — brightness, orchestral clarity, and theatrical dynamic range — and recommends specific models across every budget, from a first bright accent cymbal to the exact splashes power metal's most influential drummers play.`,
       keyPoints: [
         "Power metal splashes need to cut through dense keyboard orchestration while handling delicate, dynamically restrained passages",
         "Scott Travis's Paiste RUDE-family splash is part of a Paiste endorsement dating back to 1987, three years before \"Painkiller,\" power metal's foundational blueprint",
-        "Nicko McBrain's Paiste Signature splash and Mikkey Dee's Paiste 2002 splash both deliver the galloping-rhythm brightness the genre's European scene depends on",
+        "Nicko McBrain's Paiste Signature splash and Mikkey Dee's Paiste Signature Series splash both deliver the galloping-rhythm brightness the genre's European scene depends on",
         "Aquiles Priester's custom red-coated Paiste splash is chosen for the same tuning consistency his sustained 180-220+ BPM neoclassical technique demands"
       ]
     },
@@ -73673,7 +73673,7 @@ This guide breaks down what actually makes a splash work for power metal — bri
         {
           name: "Touring Endurance",
           icon: "🛡️",
-          description: "Mikkey Dee's Paiste 2002 cymbals have survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so a splash needs to hold tone and durability across relentless live schedules.",
+          description: "Mikkey Dee's Paiste Signature Series cymbals have survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so a splash needs to hold tone and durability across relentless live schedules.",
           recommendation: "Heavy-gauge bronze splashes built for daily touring wear"
         },
         {
@@ -73763,18 +73763,18 @@ That galloping, triplet-based rhythmic vocabulary is the direct foundation the e
         },
         {
           rank: 3,
-          name: "Paiste 2002 Splash",
+          name: "Paiste Signature Series Splash",
           brand: "Paiste",
-          model: "2002 Splash 10\"",
+          model: "Signature Series Splash 10\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€110-140",
           tier: "pro",
           driveType: "CuSn8 Bronze, Brilliant Finish",
-          description: `Paiste 2002's bright, full-bodied CuSn8 bronze voicing gives a splash the same European hard rock brightness and touring endurance behind Mikkey Dee's crash setup across Motörhead and Scorpions.
+          description: `Paiste Signature Series's bright, full-bodied CuSn8 bronze voicing gives a splash the same European hard rock brightness and touring endurance behind Mikkey Dee's crash setup across Motörhead and Scorpions.
 
 A durable, direct-cutting accent option for power metal drummers whose bands live on the festival circuit and need a splash that holds tone across relentless live schedules.`,
           pros: [
-            "Bright, direct cut consistent with Mikkey Dee's Paiste 2002 crash setup",
+            "Bright, direct cut consistent with Mikkey Dee's Paiste Signature Series crash setup",
             "Thick, durable construction built for relentless touring schedules",
             "Proven across decades of Motörhead and Scorpions live performance",
             "Full-bodied projection that stays present in a dense live mix"
@@ -73791,11 +73791,11 @@ A durable, direct-cutting accent option for power metal drummers whose bands liv
             weight: "Medium"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Scorpions / Motörhead", note: "2002-family splash alongside his touring Paiste 2002 crash rig" }
+            { name: "Mikkey Dee", band: "Scorpions / Motörhead", note: "Signature Series splash alongside his touring Paiste Signature Series crash rig" }
           ],
           verdict: "The most touring-durable splash here, proven across decades of festival-circuit performance.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_splash_10.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_signature_splash_10_dee.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -73970,7 +73970,7 @@ That consistency matters most at the sustained 180-220+ BPM double-bass tempos P
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Paiste RUDE-family splash — Judas Priest\'s bright accent voice, part of a Paiste endorsement dating back to 1987' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature-family splash — Iron Maiden\'s galloping rhythmic foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002-family splash — Scorpions and Motörhead touring endurance' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste Signature Series splash — Scorpions and Motörhead touring endurance' }
     ],
     relatedComparisons: [],
 
@@ -73986,7 +73986,7 @@ That consistency matters most at the sustained 180-220+ BPM double-bass tempos P
       },
       {
         question: "Should a power metal splash be bright or warm?",
-        answer: "It depends on your existing mix. A bright splash (Paiste RUDE, Paiste 2002) cuts through a dense, festival-scale live mix like Scott Travis's and Mikkey Dee's, while a warmer splash (Paiste Signature, custom red-coated Paiste) blends into theatrical, compositional arrangements like Nicko McBrain's and Aquiles Priester's."
+        answer: "It depends on your existing mix. A bright splash (Paiste RUDE, Paiste 2002) cuts through a dense, festival-scale live mix like Scott Travis's, while a warmer splash (Paiste Signature, custom red-coated Paiste) blends into theatrical, compositional arrangements like Nicko McBrain's, Mikkey Dee's, and Aquiles Priester's."
       },
       {
         question: "What's the difference between a splash and a crash cymbal?",
@@ -86453,7 +86453,7 @@ Whatever you choose, prioritize consistent chick response and dynamic range over
     // SEO metadata
     title: "Best Hi-Hats for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Power Metal 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in power metal? Discover what Scott Travis, Aquiles Priester, Nicko McBrain, and Mikkey Dee actually play — Paiste RUDE, Custom Red-Coated, and Paiste Signature & 2002 — from budget to pro, built for galloping precision.",
+    description: "What hi-hats are used in power metal? Discover what Scott Travis, Aquiles Priester, Nicko McBrain, and Mikkey Dee actually play — Paiste RUDE, Custom Red-Coated, and Paiste Signature — from budget to pro, built for galloping precision.",
     seoKeywords: [
       'best hi-hats for power metal',
       'power metal hi-hats',
@@ -86489,13 +86489,13 @@ Whatever you choose, prioritize consistent chick response and dynamic range over
       title: "What Hi-Hats Are Used in Power Metal?",
       content: `Power metal's galloping, triplet-based rhythmic vocabulary and theatrical, keyboard-orchestrated arrangements demand a hi-hat that stays bright and clearly articulate rather than blurring into wash. A hi-hat that washes out under a galloping pattern buries the very rhythmic feel power metal's European scene was built on.
 
-Scott Travis currently plays Paiste RUDE Hi-Hats with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs hi-hats from his custom red-coated Paiste set on his current Angra return cycle, chosen for the consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's Paiste Signature Hi-Hats have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste 2002 Hi-Hats bring European hard rock cutting power and touring endurance across Motörhead and Scorpions.
+Scott Travis currently plays Paiste RUDE Hi-Hats with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs hi-hats from his custom red-coated Paiste set on his current Angra return cycle, chosen for the consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's Paiste Signature Hi-Hats have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste Signature Series Hi-Hats bring European hard rock cutting power and touring endurance across Motörhead and Scorpions.
 
 This guide compares Paiste RUDE, Custom Red-Coated, and Paiste Signature/2002 hi-hats for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
         "Paiste RUDE Hi-Hats give Scott Travis the raw, cutting sound of a Paiste endorsement dating back to 1987, three years before \"Painkiller\"",
         "Aquiles Priester's custom red-coated Paiste hi-hats support sustained neoclassical double-bass patterns with a distinctive signature finish",
-        "Nicko McBrain's Paiste Signature Hi-Hats and Mikkey Dee's Paiste 2002 Hi-Hats both deliver the galloping-rhythm brightness power metal's European scene depends on",
+        "Nicko McBrain's Paiste Signature Hi-Hats and Mikkey Dee's Paiste Signature Series Hi-Hats both deliver the galloping-rhythm brightness power metal's European scene depends on",
         "14\" bright, cutting hi-hats dominate power metal, prioritizing theatrical presence over dry, controlled sustain"
       ]
     },
@@ -86525,7 +86525,7 @@ This guide compares Paiste RUDE, Custom Red-Coated, and Paiste Signature/2002 hi
         {
           name: "Touring Endurance",
           icon: "🛡️",
-          description: "Mikkey Dee's Paiste 2002 Hi-Hats have survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so a hi-hat needs to hold tone and durability across relentless live schedules.",
+          description: "Mikkey Dee's Paiste Signature Series Hi-Hats have survived decades of Motörhead and Scorpions arena and festival touring. Power metal's biggest bands live on the festival circuit, so a hi-hat needs to hold tone and durability across relentless live schedules.",
           recommendation: "Heavy-gauge bronze hi-hats built for daily touring wear"
         },
         {
@@ -86666,22 +86666,22 @@ McBrain's setup is arguably the single most influential hi-hat sound in power me
         },
         {
           rank: 4,
-          name: "Paiste 2002 Hi-Hats",
+          name: "Paiste Signature Series Hi-Hats",
           brand: "Paiste",
-          model: "2002 Hi-Hats 14\"",
+          model: "Signature Series Hi-Hats 14\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
           priceRange: "€180-250 per pair",
           tier: "mid",
           material: "CuSn8 Bronze",
 
-          description: `Mikkey Dee's Paiste 2002 Hi-Hats bring European hard rock cutting power and decades of touring endurance across both Motörhead and Scorpions. The bright, cutting CuSn8 bronze construction handles power metal-adjacent hard rock energy with the same reliability that's carried Dee through two of hard rock's most demanding touring schedules.
+          description: `Mikkey Dee's Paiste Signature Series Hi-Hats bring European hard rock cutting power and decades of touring endurance across both Motörhead and Scorpions. The bright, cutting CuSn8 bronze construction handles power metal-adjacent hard rock energy with the same reliability that's carried Dee through two of hard rock's most demanding touring schedules.
 
 Dee's setup shows power metal's hi-hat requirements scale down to a more accessible Paiste tier without losing the bright, cutting character the genre depends on.`,
 
           pros: [
             "Mikkey Dee's proven Motörhead/Scorpions setup — decades of touring endurance",
             "Bright, cutting CuSn8 bronze tone",
-            "More accessible pricing than Signature or HHX Groove lines",
+            "More accessible pricing than HHX Groove lines",
             "Reliable Paiste build quality for heavy touring use"
           ],
           cons: [
@@ -86694,14 +86694,14 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
             finish: "Brilliant",
             weight: "Medium-Heavy",
             diameter: "14\"",
-            series: "2002"
+            series: "Signature"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "14\" 2002 Hi-Hats — European hard rock touring endurance" }
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "14\" Signature Series Hi-Hats — European hard rock touring endurance" }
           ],
           verdict: "Strong mid-tier alternative for power metal. Bright, reliable, and proven across decades of touring.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_hi_hats_dee.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_signature_hi_hats_dee.htm?partner_id=metalforge"
         }
       ]
     },
@@ -86744,7 +86744,7 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
 
     // Comparison
     comparison: {
-      title: "Paiste RUDE vs Custom Red-Coated vs Paiste Signature/2002 Hi-Hats for Power Metal",
+      title: "Paiste RUDE vs Custom Red-Coated vs Paiste Signature Hi-Hats for Power Metal",
       content: `All four of power metal's most influential drummers currently play Paiste, but distinct lines split them into recognizable camps:
 
 **Paiste RUDE (Scott Travis):**
@@ -86757,12 +86757,12 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
 - Consistent under sustained, high-tempo neoclassical double-bass patterns
 - A distinctive alternative for drummers wanting to stand apart visually and sonically
 
-**Paiste Signature/2002 (Nicko McBrain, Mikkey Dee):**
+**Paiste Signature (Nicko McBrain, Mikkey Dee):**
 - Bright, articulate CuSn8 bronze attack
 - The rhythmic DNA behind power metal's galloping foundation
 - Proven across decades of touring reliability
 
-**Power Metal Verdict:** Choose Paiste RUDE if you want the genre's dominant galloping-rhythm standard. Choose Paiste Signature or 2002 if your material leans toward galloping, triplet-based rhythms. Choose a custom-finish set if you want Aquiles Priester's distinctive, neoclassical-informed alternative.`,
+**Power Metal Verdict:** Choose Paiste RUDE if you want the genre's dominant galloping-rhythm standard. Choose Paiste Signature if your material leans toward galloping, triplet-based rhythms. Choose a custom-finish set if you want Aquiles Priester's distinctive, neoclassical-informed alternative.`,
       comparisonTable: [
         { feature: "Gallop Articulation", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
         { feature: "Sustained Tempo Consistency", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -86809,7 +86809,7 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Paiste RUDE Hi-Hats — Judas Priest, Paiste endorsement since 1987' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Custom Red-Coated Paiste Hi-Hats — Angra\'s neoclassical double-bass consistency' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature Hi-Hats — Iron Maiden\'s galloping triplet foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 Hi-Hats — Motörhead/Scorpions touring endurance' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste Signature Series Hi-Hats — Motörhead/Scorpions touring endurance' }
     ],
 
     // Featured drummers (issue template)
@@ -86824,7 +86824,7 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
     faq: [
       {
         question: "What hi-hats are used in power metal?",
-        answer: "Scott Travis of Judas Priest plays Paiste RUDE Hi-Hats. Aquiles Priester of Angra plays hi-hats from his custom red-coated Paiste set for a distinctive signature voice. Nicko McBrain of Iron Maiden plays Paiste Signature Hi-Hats, and Mikkey Dee of Motörhead/Scorpions plays Paiste 2002 Hi-Hats."
+        answer: "Scott Travis of Judas Priest plays Paiste RUDE Hi-Hats. Aquiles Priester of Angra plays hi-hats from his custom red-coated Paiste set for a distinctive signature voice. Nicko McBrain of Iron Maiden plays Paiste Signature Hi-Hats, and Mikkey Dee of Motörhead/Scorpions plays Paiste Signature Series Hi-Hats."
       },
       {
         question: "What hi-hats does Nicko McBrain use?",

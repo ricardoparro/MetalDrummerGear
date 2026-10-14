@@ -759,7 +759,7 @@ export const articles = {
       "shell": "Maple",
       "description": "In the dense, down-tuned guitar environment of Hate Eternal's King of All Kings, the snare drum must project with extreme clarity. Derek Roddy's snare selection prioritizes immediate attack and focused crack — the acoustic characteristics that allow a snare to separate itself from the low-frequency mass of guitars and kick drums without requiring extreme mix compression to achieve presence.\n\nAt gravity blast tempos, the snare alternates with the kick in patterns that place individual strokes at intervals measured in milliseconds at the top of the BPM range. A snare with slow attack buildup or extended resonant decay will blur these intervals into an undifferentiated texture; Roddy's setup avoids this through shell selection and tuning discipline.\n\nThe maple snare shell's fast response — similar to the kick drums in his setup — ensures immediate activation and controlled decay. Tuned toward the brighter end of the spectrum, it produces the crack and cut needed to articulate cleanly in dense mixes, while the 6.5\" depth provides enough body and tone to sound musical rather than purely functional.",
       "tuningSetting": "Medium-bright for articulation in extreme death metal mix contexts",
-      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
+      "heads": "Evans Genera HD Dry (batter and resonant)",
       "estimatedValue": "$300–600 (Tama Starclassic snare)"
     },
     "cymbals": {
@@ -820,16 +820,16 @@ export const articles = {
         },
         {
           "type": "Drum Heads",
-          "brand": "Remo",
-          "model": "Remo Powerstroke 3 (kick), Remo Ambassador Coated (toms/snare)",
+          "brand": "Evans",
+          "model": "Evans EMAD2 Clear (kick), Evans Genera HD Dry (toms/snare)",
           "notes": "Attack-focused heads for death metal articulation",
-          "description": "The Powerstroke 3 on the kick drums provides the focused attack zone that Roddy's double bass patterns require at high tempos — individual kick strokes need to articulate cleanly without the extended sustain that would blur fast patterns. Coated Ambassador heads on toms balance attack and tone across the range of fill and accent work his playing demands."
+          "description": "The EMAD2 on the kick drums provides the focused attack zone that Roddy's double bass patterns require at high tempos — individual kick strokes need to articulate cleanly without the extended sustain that would blur fast patterns. Genera HD Dry heads on toms and snare balance attack and tone across the range of fill and accent work his playing demands."
         }
       ],
       "heads": {
-        "bassKick": "Remo Powerstroke 3 Clear",
-        "toms": "Remo Ambassador Coated",
-        "snare": "Remo Ambassador Coated"
+        "bassKick": "Evans EMAD2 Clear",
+        "toms": "Evans Genera HD Dry",
+        "snare": "Evans Genera HD Dry"
       }
     },
     "technique": {

@@ -5177,13 +5177,13 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
     readingTime: '10 min',
     intro: {
       title: "Brazil's Neoclassical Double-Bass King",
-      content: `Aquiles Priester (born June 19, 1971, in São Paulo, Brazil) is one of the most influential power metal drummers on the planet. Since joining Angra in 2000, he has driven the band through its most celebrated era — Rebirth (2001), Temple of Shadows (2004), Aurora Consurgens (2006), and Aqua (2010) — with a combination of blazing double-bass endurance and the musical intelligence to make extreme speed serve the song. He returned to Angra in 2023, proving that precision and power only deepen with time.
+      content: `Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is one of the most influential power metal drummers on the planet. Since joining Angra in 2000, he has driven the band through its most celebrated era — Rebirth (2001), Temple of Shadows (2004), Aurora Consurgens (2006), and Aqua (2010) — with a combination of blazing double-bass endurance and the musical intelligence to make extreme speed serve the song. He returned to Angra in 2023, proving that precision and power only deepen with time.
 
 What sets Aquiles apart from other fast drummers is his architecture-first mentality. On "Spread Your Fire" (~182 BPM), the double bass isn't a showpiece — it's the rhythmic foundation of the entire track, a wall of perfectly even 16th notes that drives the melodic content above it. On "Heroes of Sand," he navigates blast beats, lyrical grooves, and atmospheric sections within the same five-minute composition without ever losing the pocket. The result is extreme technique that sounds inevitable, not impressive.
 
 This guide covers Aquiles' core technique — neoclassical speed with relaxation-based endurance, power metal snare authority, progressive limb independence — his Mapex Saturn Evolution/Paiste/DW 9000 setup used on the current Angra return cycle, and how to practice both dimensions of his playing.`,
       keyPoints: [
-        "Born June 19, 1971, São Paulo — joined Angra in 2000, returned in 2023",
+        "Born June 25, 1971, Outjo, Namibia — joined Angra in 2000, returned in 2023",
         "Recorded the definitive power metal double-bass performances on Temple of Shadows and Rebirth",
         "Known for sustained even double-bass patterns at 180–220+ BPM built on a relaxation-first technique",
         "Current rig: Mapex Saturn Evolution All Maple signature kit, Paiste cymbals, DW 9000 double pedal"

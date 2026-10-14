@@ -14137,7 +14137,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Gavin Harrison Gear Evolution Timeline | Porcupine Tree & King Crimson Drum Kit History',
-    metaDescription: 'Explore Gavin Harrison\'s complete drum gear evolution: session-era Tama kit before 2002 → custom Sonor SQ2 and Zildjian K Custom Special Dry debut on In Absentia and Fear of a Blank Planet → refined dual-snare setup across King Crimson, The Pineapple Thief, and Porcupine Tree\'s Closure/Continuation. Three decades of progressive drumming, era by era.',
+    metaDescription: 'Explore Gavin Harrison\'s complete drum gear evolution: an undocumented pre-2002 session-era setup → custom Sonor SQ2 and Zildjian K Custom Special Dry debut on In Absentia and Fear of a Blank Planet → refined dual-snare setup across King Crimson, The Pineapple Thief, and Porcupine Tree\'s Closure/Continuation. Three decades of progressive drumming, era by era.',
   },
 
   // ==========================================

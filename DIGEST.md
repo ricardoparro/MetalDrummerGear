@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-14 08:22 UTC · Window: last 12h*
+*Generated 2026-10-14 19:14 UTC · Window: last 12h*
 
 ---
 
@@ -8,23 +8,23 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **22** |
-| Open `seo-proposal` issues | 11 |
+| Open `ai-fix` issues | **23** |
+| Open `seo-proposal` issues | 7 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **15** |
+| Open PRs | 1 |
+| PRs merged in window | **14** |
 | Issues closed in window | 13 |
-| Commits to `main` in window | 19 |
+| Commits to `main` in window | 20 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **420** |
-| Sessions | 483 |
-| Page views | 691 |
-| Engagement rate | 50.72% |
+| Active users | **443** |
+| Sessions | 508 |
+| Page views | 741 |
+| Engagement rate | 57.68% |
 | GSC impressions | 10,837 |
 | GSC clicks | 189 |
 | GSC CTR | 1.74% |
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~2,961 |
-| Est. ad revenue / mo | **~€8.88** |
-| Progress to €1000/mo | 0.9% |
-| Pageviews/mo needed for €1000 | ~333,333 (113× current) |
+| Est. pageviews / mo | ~3,176 |
+| Est. ad revenue / mo | **~€9.53** |
+| Progress to €1000/mo | 1.0% |
+| Pageviews/mo needed for €1000 | ~333,333 (105× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -72,21 +72,22 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 23 | 22 | 1 |
-| Verify YouTube Videos | 16 | 8 | 8 |
-| Verify Data Modules | 15 | 7 | 8 |
-| Check Sitemap Drift | 14 | 7 | 7 |
-| Check llms freshness | 9 | 0 | 9 |
-| Perf Budget Gate | 8 | 0 | 8 |
+| PR Merger | 26 | 26 | 0 |
+| Check Sitemap Drift | 14 | 7 | 6 |
+| Verify Data Modules | 14 | 7 | 6 |
+| Verify YouTube Videos | 14 | 7 | 6 |
+| Check llms freshness | 7 | 0 | 6 |
+| Perf Budget Gate | 7 | 0 | 6 |
 | .github/workflows/check-vercel-rewrites.yml | 7 | 0 | 7 |
+| Health Check | 2 | 2 | 0 |
+| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
+| Roadie Night Fleet | 1 | 0 | 0 |
 | SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
 | CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| X Agent | 1 | 1 | 0 |
+| Verify API Modules | 1 | 0 | 1 |
 
 ## 🧠 Today's CEO decisions
 
@@ -97,8 +98,15 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - 2026-10-13 00:35 (evening-review catch-up for 10-12 — 8/8 proposals verified+promoted #8987-8994, follow-up #8995 filed)
 - 2026-10-14 06:19 (cheap pulse — 6/6 proposals verified+promoted, #9055-9060)
 
-## 📦 Shipped to main (15)
+## 📦 Shipped to main (14)
 
+- #9091 fix: #9074 SEO: Igor Cavalera genreGearGuides.js doom-metal-triggers guide presents his pre-2018 Tama kit as current, verified Yamaha since 2018
+- #9092 fix: #9075 SEO: Dirk Verbeuren drummerEvolution.js FAQ still says cymbals "carried over from Soilwork years," contradicts the file's own verified 2022 Meinl switch
+- #9090 fix: #9073 SEO: Mike Mangini drummerComparisons.js — 2 entries still say "Pearl Masterworks Maple", verified Pearl Reference Pure since 2019
+- #9089 fix: #9072 SEO: Daray birthdays.js band field wrongly says "Behemoth / Vader" — he never played for Behemoth
+- #9088 fix: #9071 SEO: Daray — Pearl Masterworks/Reference Pure kit-brand fabrication survives in 3 sibling files, verified Tama since 2014
+- #9087 fix: #9070 SEO: Tim Yeung — drummerEvolution.js fabricates an entire fictional Pearl→Tama 2021 switch; sibling files still say "American Classic 5A" sticks
+- #9083 fix: #9056 SEO: Derek Roddy albumArticles/derek-roddy.js 'King of All Kings' article fabricates Remo heads — verified Evans since 2001
 - #9082 fix: #9060 SEO: top10Lists.js Meinl-cymbals list cites Matt Greiner's 'Phantom Anthem' (2017) under his Byzance-era entry — verified he switched to Paiste in 2016
 - #9081 fix: #9060 SEO: top10Lists.js Meinl-cymbals list cites Matt Greiner's 'Phantom Anthem' (2017) under his Byzance-era entry — verified he switched to Paiste in 2016
 - #9080 fix: #9059 SEO: John Otto gearPriceHistory.js claims he 'long carried a Pearl hardware endorsement' — no Pearl hardware ever existed, verified Gibraltar since 1999
@@ -106,24 +114,16 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - #9078 fix: #9057 SEO: Derek Roddy soundLikeGuides.js budgetSetups.pro.heads still says 'Full Remo setup' — #8352 only fixed the main gear.heads object
 - #9077 fix: #9055 SEO: Flo Mounier drummerComparisons.js still fabricates 'Pearl Masters Maple Complete' kit/snare in 2 entries — #8281 only fixed the pedal field
 - #9076 fix: #9055 SEO: Flo Mounier drummerComparisons.js still fabricates 'Pearl Masters Maple Complete' kit/snare in 2 entries — #8281 only fixed the pedal field
-- #9069 fix: #9047 SEO: Blake Richardson albumArticles/blake-richardson.js still says 'double pedal' throughout — verified twin single pedals since 2018, #8552 only fixed albumArticlesCatalog.js
-- #9068 fix: #9046 SEO: Ben Koller drummerEvolution.js modern-era block fabricates 'Tama Starclassic Maple' + 'Iron Cobra 900' — verified Starclassic Performer B/B + plain Iron Cobra Double Pedal, #5882 fixed snare/cymbals/heads only
-- #9066 fix: #9044 SEO: Chris Adler pedals.js/pedalBrands.js fabricate Mapex Falcon double pedal — verified Trick Pro V, ~10 sibling files already fixed but these 2 were missed
-- #9065 fix: #9045 SEO: Aquiles Priester drummerEvolution.js/soundLikeGuides.js still say born São Paulo, Brazil — #8536 corrected extendedBios.js to verified Outjo, Namibia but missed these 2 files
-- #9064 fix: #9042 SEO: Gene Hoglan genreGearGuides.js misattributes Death's 'Human' to him — recorded by Sean Reinert per bands.js, #5682 only fixed evolutionTimeline.js
-- #9063 fix: #9041 SEO: Shannon Larkin soundLikeGuides.js fabricates wrong birthdate/birthplace (Nov 24 1967, Westerly RI vs verified Apr 24 1967, Chicago IL) — #6634/#8525 never touched this line
-- #9062 fix: #9040 SEO: Mike Portnoy albumArticles/mike-portnoy.js says Tama endorsee 'since the 1990s' — verified 1985, #8975 only fixed extendedBios.js
-- #9061 fix: #9039 SEO: Lars Ulrich drummerEvolution.js dates Tama endorsement to 1985 — verified 1984 switch from Camco, plus self-contradicts the file's own 1984 era boundary
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 1825h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 1921h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2099h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3183h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5613h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 1836h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 1932h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2109h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3194h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5624h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

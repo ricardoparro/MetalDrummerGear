@@ -116,8 +116,8 @@ export const DRUMMER_EVOLUTION = {
       {
         id: 'lars-1986-master-of-puppets',
         era: 'Master of Puppets Era',
-        years: '1985-1988',
-        startYear: 1985,
+        years: '1984-1988',
+        startYear: 1984,
         endYear: 1988,
         description: 'The golden thrash era. Lars gets his first Tama endorsement and the sound becomes more refined and powerful.',
         albums: ['Master of Puppets (1986)', '...And Justice for All (1988)'],
@@ -170,7 +170,7 @@ export const DRUMMER_EVOLUTION = {
         },
         
         keyChanges: [
-          'Tama endorsement begins (1985)',
+          'Tama endorsement begins (1984)',
           'Upgraded to professional-grade gear',
           'Double bass pedal becomes standard',
           'Larger tom sizes for bigger sound',

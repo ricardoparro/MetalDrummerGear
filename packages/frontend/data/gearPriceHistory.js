@@ -2342,7 +2342,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Korn III: Remember Who You Are (2010)',
     profileImage: '/images/drummers/ray-luzier.webp',
 
-    summary: "Ray Luzier's 2010 DW Collector's Series setup from Korn III: Remember Who You Are — his first full studio album as Korn's permanent drummer after replacing Joey Jordison. Luzier combined a high-spec DW custom shell pack with Paiste 2002 cymbals and DW 9002 double pedals to deliver the massive, groove-driven sound Korn demanded. His setup supported a style built on powerful kick patterns, fat snare cracks, and textured ride cymbal work that contrasted with the band's down-tuned, processed guitar layers. Luzier's DW Collector's Series quickly became one of the most recognisable premium kits in mainstream metal, affirming his place among the elite pro-level heavy drummers of his era.",
+    summary: "Ray Luzier's 2010 DW Collector's Series setup from Korn III: Remember Who You Are — his first full studio album as Korn's permanent drummer after replacing David Silveria. Luzier combined a high-spec DW custom shell pack with Paiste 2002 cymbals and DW 9002 double pedals to deliver the massive, groove-driven sound Korn demanded. His setup supported a style built on powerful kick patterns, fat snare cracks, and textured ride cymbal work that contrasted with the band's down-tuned, processed guitar layers. Luzier's DW Collector's Series quickly became one of the most recognisable premium kits in mainstream metal, affirming his place among the elite pro-level heavy drummers of his era.",
 
     setup: {
       drums: {

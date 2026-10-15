@@ -1833,7 +1833,7 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
     drummerId: 19,
     name: 'Raymond Herrera',
     bands: [
-      { slug: 'fear-factory', period: '1990-2009', role: 'Drummer, founding member' },
+      { slug: 'fear-factory', period: '1990-2006', role: 'Drummer, founding member' },
       { slug: 'brujeria', period: '1989-present', role: 'Drummer' },
       { slug: 'arkaea', period: '2008-2011', role: 'Drummer' }
     ],
@@ -1845,7 +1845,7 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
         title: 'Overview',
         content: `Raymond Herrera (born December 18, 1972, in Los Angeles, California) is an American drummer who co-founded influential industrial metal band Fear Factory in 1990. Known for his machine-like precision and pioneering use of drum triggers, Herrera helped define the sound of industrial metal drumming.
 
-His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obsolete" (1998) combined relentless double bass patterns with mechanical precision, creating the template for countless industrial and groove metal bands. Though he departed Fear Factory in 2009, his influence on modern metal drumming remains significant.`
+His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obsolete" (1998) combined relentless double bass patterns with mechanical precision, creating the template for countless industrial and groove metal bands. Though he departed Fear Factory in 2006, his influence on modern metal drumming remains significant.`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -1858,8 +1858,8 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
           { year: '2001', event: 'Released "Digimortal," featuring hit "Linchpin"' },
           { year: '2004', event: 'Released "Archetype" after Fear Factory reunion' },
           { year: '2005', event: 'Released "Transgression" with Fear Factory' },
-          { year: '2008', event: 'Formed Arkaea with Christian Olde Wolbers after Fear Factory split' },
-          { year: '2009', event: 'Officially departed Fear Factory' }
+          { year: '2006', event: 'Officially departed Fear Factory' },
+          { year: '2008', event: 'Formed Arkaea with Christian Olde Wolbers after Fear Factory split' }
         ]
       },
       styleAndInfluences: {
@@ -1892,7 +1892,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
         ],
         tours: [
           { name: 'Ozzfest', year: '1997, 1999, 2001, 2006', note: 'Multiple appearances' },
-          { name: 'Fear Factory World Tours', year: '1992-2009', note: 'Extensive worldwide touring' },
+          { name: 'Fear Factory World Tours', year: '1992-2006', note: 'Extensive worldwide touring' },
           { name: 'Demanufacture Anniversary Tour', year: '2005', note: 'Classic album tour' }
         ]
       },
@@ -1939,7 +1939,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
           { q: 'What sticks does Raymond Herrera use?', a: 'Raymond Herrera uses Pro-Mark 5A Oak Nylon Tip drumsticks.' },
           { q: 'What bass drum pedal does Raymond Herrera use?', a: 'Raymond Herrera drives his precise, stop-go double bass patterns with a DW 5000 Series double pedal.' },
           { q: 'What drumheads does Raymond Herrera use?', a: 'Raymond Herrera uses Attack Drumheads across his Tama Starclassic kit.' },
-          { q: 'What band is Raymond Herrera in?', a: 'Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2009. He also drums for Brujeria and formed Arkaea after Fear Factory\'s split.' },
+          { q: 'What band is Raymond Herrera in?', a: 'Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2006. He also drums for Brujeria and formed Arkaea after Fear Factory\'s split.' },
           { q: 'Does Raymond Herrera use electronic drum triggers?', a: 'Raymond Herrera uses ddrum and Roland electronic triggers throughout his kit, a technical setup central to the mechanically precise, processed drum sound he pioneered on Fear Factory albums like Demanufacture (1995) and Obsolete (1998).' }
         ]
       },

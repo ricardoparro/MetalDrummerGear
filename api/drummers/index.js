@@ -3141,12 +3141,12 @@ const drummers = [
     band: 'Dimmu Borgir / Vader',
     bands: [
       { name: 'Dimmu Borgir', period: '2007–present', current: true },
-      { name: 'Vader', period: '2002–2005', current: false }
+      { name: 'Vader', period: '2004–2008', current: false }
     ],
     genre: 'Black Metal / Death Metal',
     country: 'Poland',
     image: '/images/drummers/daray.webp',
-    bio: 'Dariusz "Daray" Brzozowski (born January 30, 1980) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2006-2016). His drumming combines extreme speed, technical precision, and theatrical flair.',
+    bio: 'Dariusz "Daray" Brzozowski (born January 30, 1980) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2004-2008). His drumming combines extreme speed, technical precision, and theatrical flair.',
     kitOverview: 'Daray\'s kit is anchored by a Tama Starclassic Performer B/B shell pack in Piano Black, a setup built for the volume and low-end depth needed to carry Dimmu Borgir\'s grandiose symphonic arrangements and Vader\'s blast-driven death metal assault. His Tama S.L.P. Black Brass LBR1465 snare supplies a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike, forming the backbone of the Daray drum kit.\n\nPaiste\'s RUDE and 2002 Series cymbals give the kit its aggressive edge: 14" RUDE Hi-Hats for raw, driving timekeeping; 17" and 18" RUDE Crashes for explosive accents; and a 22" RUDE Power Ride cutting through extreme-tempo passages. A Pearl Demon Drive double pedal provides the speed and control behind his rapid-fire double bass work, a defining element of his playing with both Dimmu Borgir and Vader. Vic Firth American Classic Extreme 5B sticks — a heavier stick variant built for extreme metal\'s demands — and Evans heads complete the setup, engineered to withstand the speed and theatrical intensity of his live performances.',
     sameAs: [
       'https://www.discogs.com/artist/868449-Daray'

@@ -3175,7 +3175,7 @@ Grossmann first gained international recognition as the drummer for Necrophagist
     name: 'Daray',
     bands: [
       { slug: 'dimmu-borgir', period: '2008-present', role: 'Drummer' },
-      { slug: 'vader', period: '2006-2016', role: 'Drummer' },
+      { slug: 'vader', period: '2004-2008', role: 'Drummer' },
       { slug: 'vesania', period: '2003-present', role: 'Drummer' }
     ],
     metaTitle: 'Daray Drum Kit & Gear Setup — Dimmu Borgir & Vader Drummer | MetalForge',
@@ -3184,7 +3184,7 @@ Grossmann first gained international recognition as the drummer for Necrophagist
     sections: {
       overview: {
         title: 'Overview',
-        content: `Dariusz "Daray" Brzozowski (born January 30, 1980, in Nowy Dwór Mazowiecki, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his 10-year tenure with Polish death metal legends Vader (2006-2016).
+        content: `Dariusz "Daray" Brzozowski (born January 30, 1980, in Nowy Dwór Mazowiecki, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his four-year tenure with Polish death metal legends Vader (2004-2008).
 
 Daray's drumming combines extreme speed and technical precision with theatrical flair, making him ideally suited for Dimmu Borgir's grandiose symphonic productions. His ability to perform complex, blistering patterns while maintaining the dynamics required for orchestral metal has established him as one of the premier drummers in extreme metal.`
       },
@@ -3276,7 +3276,7 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
           { q: 'What sticks does Daray use?', a: 'Daray uses Vic Firth American Classic Extreme 5B drumsticks, a heavier stick variant built for extreme metal\'s demands.' },
           { q: 'What bass drum pedal does Daray use?', a: 'Daray drives his rapid-fire double bass work with a Pearl Demon Drive double pedal.' },
           { q: 'What drumheads does Daray use?', a: 'Daray uses Evans drumheads across his Tama Starclassic kit.' },
-          { q: 'What band is Daray in?', a: 'Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2006-2016) and Vesania (since 2003).' },
+          { q: 'What band is Daray in?', a: 'Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2004-2008) and Vesania (since 2003).' },
           { q: 'Does Daray use trigger-assisted drums?', a: 'Daray uses trigger-assisted drums live to maintain consistency at the extreme tempos Dimmu Borgir\'s symphonic productions demand, and relies on in-ear monitoring to stay synchronized with orchestral arrangements during performances.' }
         ]
       },

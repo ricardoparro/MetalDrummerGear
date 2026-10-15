@@ -1,9 +1,11 @@
 #!/usr/bin/env node
 /**
  * L4 — Performance verifier. Runs Lighthouse (mobile emulation, simulated
- * throttling, performance category only) against a fixed list of LIVE
- * metalforge.io URLs every two weeks and diffs the result against the
- * previous run. Output:
+ * throttling, performance category only), LIGHTHOUSE_RUNS_PER_URL times per
+ * URL with the per-metric median taken (single-run noise on a shared CI
+ * runner can swing TBT 40-80% with zero bundle change — see #9106), against a
+ * fixed list of LIVE metalforge.io URLs every two weeks, diffing the result
+ * against the previous run. Output:
  *   - .agents/seo/perf-history/<date>.json (next run's baseline, committed)
  *   - Umbrella issue `performance-watch`   (when a URL regressed OR is
  *     chronically slow — see the absolute thresholds below)
@@ -105,6 +107,14 @@ const TRANSFER_GROW_PCT = 0.15;     // total transfer bytes, relative
 const SCORE_FLOOR = 60;             // performance score below this = chronic
 const LCP_CEILING_MS = 4000;        // largest contentful paint above this = chronic
 
+// 2026-10-15 (#9106): a single Lighthouse pass on a shared ubuntu-latest
+// runner is noisy enough to swing TBT 40-80% with ZERO bundle-size change —
+// confirmed by diffing the 10-01/10-15 perf-history snapshots (__common-*.js
+// transfer size moved +149 bytes while every URL's TBT regressed). Taking the
+// median of N runs per URL absorbs that runner-contention noise before it's
+// compared against the regression thresholds above.
+const LIGHTHOUSE_RUNS_PER_URL = 3;
+
 const ISSUE_MARKER = '<!-- l4-performance-watch-umbrella -->';
 const ISSUE_TITLE_PREFIX = '📉 L4 Performance Watch';
 const ISSUE_LABEL = 'performance-watch';
@@ -169,6 +179,40 @@ function extractMetrics(lhr) {
     speedIndex: numeric('speed-index'),
     totalBytes: numeric('total-byte-weight'),
     biggestJsRequests,
+  };
+}
+
+/** Pure: median of numeric values, ignoring nulls. Null if nothing numeric. */
+function median(values) {
+  const nums = values.filter(v => typeof v === 'number').sort((a, b) => a - b);
+  if (nums.length === 0) return null;
+  const mid = Math.floor(nums.length / 2);
+  return nums.length % 2 === 0 ? (nums[mid - 1] + nums[mid]) / 2 : nums[mid];
+}
+
+/**
+ * Pure: collapse N extractMetrics() results for the same URL into one row by
+ * taking the per-metric median — absorbs single-run Lighthouse/runner noise
+ * (see LIGHTHOUSE_RUNS_PER_URL comment). biggestJsRequests is taken from the
+ * run whose TBT is closest to the median (asset list doesn't itself need
+ * averaging, just a representative sample).
+ */
+function medianMetrics(runs) {
+  const tbtMedian = median(runs.map(r => r.tbt));
+  const representative = tbtMedian === null
+    ? runs[0]
+    : runs.reduce((best, r) =>
+        Math.abs((r.tbt ?? Infinity) - tbtMedian) < Math.abs((best.tbt ?? Infinity) - tbtMedian) ? r : best,
+        runs[0]);
+  return {
+    performanceScore: median(runs.map(r => r.performanceScore)),
+    fcp: median(runs.map(r => r.fcp)),
+    lcp: median(runs.map(r => r.lcp)),
+    tbt: tbtMedian,
+    cls: median(runs.map(r => r.cls)),
+    speedIndex: median(runs.map(r => r.speedIndex)),
+    totalBytes: median(runs.map(r => r.totalBytes)),
+    biggestJsRequests: representative.biggestJsRequests,
   };
 }
 
@@ -591,6 +635,21 @@ function selfTest() {
   check('chronic set signature is order-independent',
     chronicSignature([{ url: 'b' }, { url: 'a' }]), chronicSignature([{ url: 'a' }, { url: 'b' }]));
 
+  // Median helpers — absorb single-run Lighthouse noise (#9106).
+  check('median: odd count → middle value', median([3, 1, 2]), 2);
+  check('median: even count → average of middle two', median([1, 2, 3, 4]), 2.5);
+  check('median: nulls ignored', median([null, 5, null, 7]), 6);
+  check('median: all null → null', median([null, null]), null);
+  const noisyRuns = [
+    { performanceScore: 70, fcp: 900, lcp: 900, tbt: 1600, cls: 0, speedIndex: 3000, totalBytes: 2_200_000, biggestJsRequests: [{ url: 'low', transferSize: 1 }] },
+    { performanceScore: 75, fcp: 850, lcp: 850, tbt: 1150, cls: 0, speedIndex: 3500, totalBytes: 2_240_000, biggestJsRequests: [{ url: 'mid', transferSize: 2 }] },
+    { performanceScore: 65, fcp: 950, lcp: 950, tbt: 2600, cls: 0.01, speedIndex: 4600, totalBytes: 2_220_000, biggestJsRequests: [{ url: 'high', transferSize: 3 }] },
+  ];
+  const collapsed = medianMetrics(noisyRuns);
+  check('medianMetrics: TBT collapses to the median run (not the noisy outlier)', collapsed.tbt, 1600);
+  check('medianMetrics: score takes the median', collapsed.performanceScore, 70);
+  check('medianMetrics: biggestJsRequests taken from the run closest to median TBT', collapsed.biggestJsRequests[0].url, 'low');
+
   process.stdout.write(failures === 0 ? '\nself-test: PASS\n' : `\nself-test: FAIL (${failures})\n`);
   return failures === 0;
 }
@@ -611,11 +670,17 @@ async function main() {
 
   const byUrl = {};
   for (const target of URLS) {
-    log(`  lighthouse: ${target.label} (${target.url})`);
-    const lhr = await runLighthouse(target.url);
-    const metrics = extractMetrics(lhr);
+    log(`  lighthouse: ${target.label} (${target.url}) — ${LIGHTHOUSE_RUNS_PER_URL} runs, taking median`);
+    const runs = [];
+    for (let i = 0; i < LIGHTHOUSE_RUNS_PER_URL; i++) {
+      const lhr = await runLighthouse(target.url);
+      const runMetrics = extractMetrics(lhr);
+      runs.push(runMetrics);
+      log(`    run ${i + 1}/${LIGHTHOUSE_RUNS_PER_URL}: score=${runMetrics.performanceScore} TBT=${Math.round(runMetrics.tbt || 0)}ms LCP=${Math.round(runMetrics.lcp || 0)}ms`);
+    }
+    const metrics = medianMetrics(runs);
     byUrl[target.url] = { label: target.label, ...metrics };
-    log(`    score=${metrics.performanceScore} TBT=${Math.round(metrics.tbt || 0)}ms LCP=${Math.round(metrics.lcp || 0)}ms transfer=${Math.round((metrics.totalBytes || 0) / 1024)}KB`);
+    log(`    median: score=${metrics.performanceScore} TBT=${Math.round(metrics.tbt || 0)}ms LCP=${Math.round(metrics.lcp || 0)}ms transfer=${Math.round((metrics.totalBytes || 0) / 1024)}KB`);
   }
 
   fs.mkdirSync(HISTORY_DIR, { recursive: true });
@@ -687,6 +752,6 @@ if (require.main === module) {
 }
 
 module.exports = {
-  extractMetrics, detectRegressions, detectChronic, chronicSignature, buildIssueBody, buildTelegramText,
-  URLS, HOMEPAGE_URL, SCORE_DROP_THRESHOLD, TBT_WORSEN_PCT, TRANSFER_GROW_PCT, SCORE_FLOOR, LCP_CEILING_MS,
+  extractMetrics, median, medianMetrics, detectRegressions, detectChronic, chronicSignature, buildIssueBody, buildTelegramText,
+  URLS, HOMEPAGE_URL, SCORE_DROP_THRESHOLD, TBT_WORSEN_PCT, TRANSFER_GROW_PCT, SCORE_FLOOR, LCP_CEILING_MS, LIGHTHOUSE_RUNS_PER_URL,
 };

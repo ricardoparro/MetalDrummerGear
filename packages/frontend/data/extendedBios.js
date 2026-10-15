@@ -8943,7 +8943,7 @@ Sonor's artist materials do not publish a specific kit model, snare spec, cymbal
     sections: {
       overview: {
         title: 'Overview',
-        content: `Alex Rüdinger (born November 18, 1991, in Frederick, Maryland) is an American drummer known for his technical, high-precision playing across progressive and technical death metal. He received his first drum kit at age 12 and began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in late 2011.
+        content: `Alex Rüdinger (born November 18, 1991, in Frederick, Maryland) is an American drummer known for his technical, high-precision playing across progressive and technical death metal. He received his first drum kit at age 12 and began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in April 2012.
 
 He went on to join The HAARP Machine (2012-2013) and technical death metal band The Faceless (2013-2014), and has been a member of the instrumental project Conquering Dystopia since 2013 and progressive band 7 Horns 7 Eyes since 2018. He also drummed in the progressive metalcore band Good Tiger from 2015 to 2018. Beyond his studio bands, Rüdinger has done extensive session and touring work, including studio credits with Whitechapel (Kin, 2021), Nonvector (Ashen Time, 2024), Cognizance, Monuments, Revocation, and Intronaut, and live touring with Whitechapel (2019-2021) and Light the Torch (2021). In 2025 he became the touring/studio drummer for Trivium, bringing his technical drum set vocabulary to one of modern metal's most prominent bands.`
       },

@@ -17535,7 +17535,7 @@ This guide breaks down the technique and gear approach behind Barker's sound —
     readingTime: '8 min',
     intro: {
       title: "Technical Death Metal's Precision Session Ace",
-      content: `Alex Rüdinger received his first drum kit at age 12 and began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in late 2011. He went on to join The HAARP Machine (2012-2013) and technical death metal band The Faceless (2013-2014), and has been a member of the instrumental project Conquering Dystopia since 2013 and progressive band 7 Horns 7 Eyes since 2018. He also drummed in progressive metalcore band Good Tiger from 2015 to 2018.
+      content: `Alex Rüdinger received his first drum kit at age 12 and began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in April 2012. He went on to join The HAARP Machine (2012-2013) and technical death metal band The Faceless (2013-2014), and has been a member of the instrumental project Conquering Dystopia since 2013 and progressive band 7 Horns 7 Eyes since 2018. He also drummed in progressive metalcore band Good Tiger from 2015 to 2018.
 
 Beyond his studio bands, Rüdinger has built one of modern metal's busiest session résumés: studio credits with Whitechapel ("Kin," 2021), Nonvector ("Ashen Time," 2024), Cognizance, Monuments, Revocation, and Intronaut, plus live touring with Whitechapel (2019-2021) and Light the Torch (2021). In 2025 he became the touring and studio drummer for Trivium — his highest-profile gig to date, built entirely on a reputation for precision and adaptability across an unusually wide range of metal subgenres.
 

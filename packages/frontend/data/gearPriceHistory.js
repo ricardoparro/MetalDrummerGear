@@ -3021,7 +3021,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'The Sin and the Sentence (2017)',
     profileImage: '/images/drummers/alex-bent.webp',
 
-    summary: "Alex Bent's 2017 arrival behind Trivium's kit on The Sin and the Sentence marked a pivot point for the band — and for technical death metal drummers seeking mainstream relevance. Bent spent nearly a decade in the underground with Arkaik, Brain Drill, and Battlecross, building the extreme speed and precision that made him an Axis Percussion endorser years before signing with a recognizable band name. When producer Mark Lewis recommended him to Trivium following Paul Wandtke's departure, Bent inherited a kit built for arena scale rather than club-circuit death metal: a Tama Starclassic Maple double-bass configuration in custom matte black, paired with Zildjian K Custom Hybrid cymbals and his long-standing Axis A21 Longboard double pedal. The double 22\"x18\" kick drums gave him the acoustic power and trigger-consistency needed for festival-sized PA systems, while a deliberately minimalist tom array — just 10\" and 12\" racks plus 14\" and 16\" floors — kept his blistering fills efficient rather than cluttered. The setup cost approximately $11,310 in 2017 dollars, equivalent to roughly $15,100 in 2026 terms after CPI adjustment. Over four albums — The Sin and the Sentence, What the Dead Men Say, In the Court of the Dragon, and Struck Dead — Bent's rig barely changed in brand, but his profile within it grew enormously: a tech-death journeyman became one of modern metal's most studied double-bass technicians. His October 2025 departure from Trivium closed an eight-year chapter, but the Tama Starclassic Maple/Zildjian K Custom/Axis combination he established remains the reference setup for drummers chasing his blend of extreme-metal speed and arena-ready power.",
+    summary: "Alex Bent's 2017 arrival behind Trivium's kit on The Sin and the Sentence marked a pivot point for the band — and for technical death metal drummers seeking mainstream relevance. Bent spent nearly a decade in the underground with Arkaik, Brain Drill, and Battlecross, building the extreme speed and precision that would later make him an Axis Percussion endorser in 2021, four years and two albums into his Trivium tenure. When producer Mark Lewis recommended him to Trivium following Paul Wandtke's departure, Bent inherited a kit built for arena scale rather than club-circuit death metal: a Tama Starclassic Maple double-bass configuration in custom matte black, paired with Zildjian K Custom Hybrid cymbals. The double 22\"x18\" kick drums gave him the acoustic power and trigger-consistency needed for festival-sized PA systems, while a deliberately minimalist tom array — just 10\" and 12\" racks plus 14\" and 16\" floors — kept his blistering fills efficient rather than cluttered. The setup cost approximately $11,310 in 2017 dollars, equivalent to roughly $15,100 in 2026 terms after CPI adjustment. Over four albums — The Sin and the Sentence, What the Dead Men Say, In the Court of the Dragon, and Struck Dead — Bent's rig barely changed in brand, but his profile within it grew enormously: a tech-death journeyman became one of modern metal's most studied double-bass technicians. His October 2025 departure from Trivium closed an eight-year chapter, but the Tama Starclassic Maple/Zildjian K Custom/Axis combination he settled into remains the reference setup for drummers chasing his blend of extreme-metal speed and arena-ready power.",
 
     setup: {
       drums: {
@@ -3070,13 +3070,13 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'Axis A21 Longboard Double Pedal + Pearl Hardware',
-        model: 'Axis A21 direct drive + Pearl H-2050/D-3500BR',
-        specs: 'Axis A21 Longboard double pedal, Pearl H-2050 Eliminator hi-hat stand, Pearl D-3500BR Roadster throne',
+        item: 'Pedal brand unconfirmed + Pearl Hardware',
+        model: 'Standard direct-drive double pedal + Pearl H-2050/D-3500BR',
+        specs: 'Double pedal (brand unconfirmed for this era), Pearl H-2050 Eliminator hi-hat stand, Pearl D-3500BR Roadster throne',
         originalPrice: 1100,
         year: 2017,
-        source: 'Axis Percussion MSRP 2017, Pearl hardware catalog',
-        notes: "Bent's Axis endorsement predates Trivium by years — his direct-drive A21 Longboard pedals were already central to his footwork during his Arkaik and Battlecross days, carried over unchanged into the Trivium era.",
+        source: 'Pearl hardware catalog 2017',
+        notes: "Bent's drum-hardware brand on his 2017 Trivium debut is unconfirmed. His verified Axis Percussion endorsement didn't begin until 2021, on In the Court of the Dragon, four years and two albums into his Trivium tenure.",
         vintageValue2026: 950,
         modernEquivalent: {
           item: 'Axis A21 Longboard + Pearl hardware pack',

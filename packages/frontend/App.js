@@ -217,6 +217,7 @@ function preloadAlbumArticles() {
 function isAlbumArticlesLoaded() { return _albumArticlesCatalogModule !== null; }
 function getAllAlbumArticles() { return _albumArticlesCatalogModule ? Object.values(_albumArticlesCatalogModule.ALBUM_ARTICLES_META) : []; }
 function isAlbumArticleSlug(slug) { return !!_albumArticlesCatalogModule?.ALBUM_ARTICLES_META[slug]; }
+function getAlbumArticleMeta(slug) { return _albumArticlesCatalogModule?.ALBUM_ARTICLES_META[slug] || null; }
 
 // Full body of a single album article — only the current slug's own
 // per-drummer chunk downloads, never the whole catalog of article bodies.
@@ -1485,6 +1486,22 @@ let _top10ListsModule = null;
 let _quizDataModule = null;
 let _kitQuizDataModule = null;
 let _guessTheKitModule = null;
+
+// Issue #9106 (L4 perf: /lists/<slug> LCP ~13s on mobile): the full
+// top10Lists module is ~860KB raw (rankings/faq/intro for all 97 lists).
+// TopListPage only needs title/description to paint its header, so it loads
+// the small top10ListsCatalog chunk first (mirrors albumArticlesCatalog,
+// issue #7149) and fills in rankings/faq once the full module resolves.
+let _top10ListsCatalogModule = null;
+let _top10ListsCatalogLoadPromise = null;
+const loadTop10ListsCatalog = () => import('./data/top10ListsCatalog.js');
+
+function preloadTop10ListsCatalog() {
+  if (!_top10ListsCatalogLoadPromise) {
+    _top10ListsCatalogLoadPromise = loadTop10ListsCatalog().then(m => { _top10ListsCatalogModule = m; return m; });
+  }
+  return _top10ListsCatalogLoadPromise;
+}
 
 // Dynamic import functions for lazy loading
 const loadTop10Lists = () => import('./data/top10Lists');
@@ -3013,6 +3030,20 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArt
       // for the full 2.6MB+ album-articles chunk before every top-10 list
       // page can render.
       if (!isArticleRoute) {
+        // Issue #9106 (L4 perf: /lists/:slug LCP ~13s, chronically slow since
+        // baseline): paint the header from the tiny top10ListsCatalog as soon
+        // as it resolves, instead of blocking on the ~860KB rankings module
+        // too. Every rankings/faq/intro section below is already guarded with
+        // `list.xxx &&`, so a catalog-only (meta-only) list safely renders
+        // just the header until the full module replaces it below.
+        const catalogModule = await preloadTop10ListsCatalog();
+        const catalogMeta = catalogModule.TOP10_LISTS_META[listSlug];
+        if (catalogMeta) {
+          setList(catalogMeta);
+          setIsAlbumArticle(false);
+          setIsLoading(false);
+        }
+
         const module = await loadTop10Lists();
         _top10ListsModule = module;
         const top10List = module.getTop10ListBySlug(listSlug);
@@ -3027,6 +3058,19 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArt
       // Check if this is an album article - Issue #7149: loads only this
       // slug's own per-drummer chunk (catalog lookup + single body chunk),
       // never the full ~10MB album-articles bundle.
+      // Issue #9106: paint the header from the already-small
+      // albumArticlesCatalog as soon as it resolves, before the per-drummer
+      // body chunk also finishes (same progressive-paint pattern as above).
+      if (isArticleRoute) {
+        await preloadAlbumArticles();
+        const meta = getAlbumArticleMeta(listSlug);
+        if (meta) {
+          setList(meta);
+          setIsAlbumArticle(true);
+          setIsLoading(false);
+        }
+      }
+
       const albumArticle = await loadAlbumArticleBody(listSlug);
       if (albumArticle) {
         setList(albumArticle);

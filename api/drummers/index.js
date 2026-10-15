@@ -3339,7 +3339,7 @@ const drummers = [
     name: 'Martin Axenrot',
     band: 'Opeth',
     bands: [
-      { name: 'Opeth', period: '2006–present', current: true },
+      { name: 'Opeth', period: '2006–2021', current: false },
       { name: 'Bloodbath', period: '2008–present', current: true },
       { name: 'Witchery', period: '1997–2010', current: false }
     ],

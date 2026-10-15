@@ -27804,11 +27804,11 @@ Tomas Haake's Sabian setup with Meshuggah applies the same rhythmic exactness to
           priceRange: "€190-230",
           tier: "pro",
           driveType: "B20 Bronze, Dark",
-          description: `Travis Orbin, who helped build the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut, plays a 16" Zildjian K Custom Dark china as part of his broader K Custom Dark / A Custom hybrid setup. The K Custom Dark line's minimal-wash voicing kept his china from bleeding excessively into the acoustic trigger mics used to layer samples onto the album's foundational djent template.
+          description: `Travis Orbin signed with Zildjian in 2010 — after leaving Periphery before the band wrote or recorded its self-titled debut — for his post-Periphery solo and session work, and plays a 16" Zildjian K Custom Dark china as part of his broader K Custom Dark / A Custom hybrid setup. The K Custom Dark line's minimal-wash voicing keeps his china from bleeding excessively into the acoustic trigger mics he uses to layer samples in the studio.
 
 Orbin's china choice proves that dry, controlled voicing isn't just an aesthetic choice in djent — it's a practical studio requirement for drummers integrating acoustic playing with electronic triggers and samples.`,
           pros: [
-            "Travis Orbin's proven Periphery debut setup — helped define djent's genre-shaping china template",
+            "Travis Orbin's proven post-Periphery Zildjian setup — dry, low-bleed china for trigger-augmented djent recording",
             "16\" size responds nearly instantly",
             "Dry voice never blurs surrounding rhythmic detail",
             "High-quality B20 bronze construction"
@@ -27988,7 +27988,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
         {
           category: "Best for Trigger-Augmented Recording",
           pedal: "Zildjian K Custom Dark China",
-          reason: "Travis Orbin's genre-shaping Periphery debut setup — minimal bleed into trigger mics."
+          reason: "Travis Orbin's post-Periphery Zildjian setup — minimal bleed into trigger mics."
         },
         {
           category: "Best Budget",
@@ -35266,7 +35266,7 @@ Start with a 21"-22" standard-bell pro ride, and step up to a Mega Bell design o
       title: "Why Djent Rides Need a Defined Ping, Not a Wash",
       content: `Djent's palm-muted, chugging guitar tone lives in a dense mid-range pocket, and the ride cymbal sits directly on top of it holding the pulse. Unlike a crash, which fires once and gets out of the way, the ride is constantly present — carrying eighth notes, sixteenth-note polyrhythms, and odd-time groupings for entire song sections. That means a djent ride has to do the opposite of what a thrash or death metal ride does: instead of building a wall of wash, it needs to deliver a tight, defined "ping" that stays legible against palm-muted riffing without smearing into a blur of overtones.
 
-Tomas Haake of Meshuggah, the drummer whose grid-locked, mechanically precise polyrhythms defined djent's founding template, rides a Sabian HHX Evolution Ride as part of his broader Sabian AAX/HHX setup — prized for a stick response so consistent that it barely changes whether he's riding a straight groove or one of Meshuggah's signature metric modulations. Matt Halpern of Periphery builds his ride voice around a 22" Meinl Artist Concept Ride, valued for a decay fast enough to keep pace with Periphery's dense, palm-muted prog-djent riffing without piling up sustain on top of the guitars. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, rode a similarly dry, controlled ride throughout those sessions specifically to keep the acoustic kit legible alongside the album's layered trigger and sample work.
+Tomas Haake of Meshuggah, the drummer whose grid-locked, mechanically precise polyrhythms defined djent's founding template, rides a Sabian HHX Evolution Ride as part of his broader Sabian AAX/HHX setup — prized for a stick response so consistent that it barely changes whether he's riding a straight groove or one of Meshuggah's signature metric modulations. Matt Halpern of Periphery builds his ride voice around a 22" Meinl Artist Concept Ride, valued for a decay fast enough to keep pace with Periphery's dense, palm-muted prog-djent riffing without piling up sustain on top of the guitars. Travis Orbin signed with Zildjian in 2010 for his post-Periphery solo and session work, after leaving the band before it wrote or recorded its self-titled debut, and rides a similarly dry, controlled Zildjian ride to keep his acoustic kit legible alongside his own layered trigger and sample work.
 
 This guide breaks down what actually makes a ride work for djent — stick definition, dry decay, and consistency across odd-time groupings — and recommends specific models across every budget, from a first tight-ping ride to the exact cymbals djent's founding and modern drummers ride night after night.`,
       keyPoints: [
@@ -35314,7 +35314,7 @@ This guide breaks down what actually makes a ride work for djent — stick defin
         {
           name: "Trigger and Mic Compatibility",
           icon: "🎛️",
-          description: "Djent drummers frequently record with electronic triggers and samples layered onto acoustic kits. A dry ride with minimal wash — like the one Travis Orbin rode throughout Periphery's genre-defining debut — bleeds less into nearby trigger microphones.",
+          description: "Djent drummers frequently record with electronic triggers and samples layered onto acoustic kits. A dry ride with minimal wash — like the Zildjian ride Travis Orbin has played in his post-Periphery solo and session work — bleeds less into nearby trigger microphones.",
           recommendation: "Low-wash, dry rides that minimize bleed into trigger mics for hybrid acoustic/electronic setups"
         }
       ]
@@ -35611,14 +35611,14 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian HHX Evolution Ride — djent\'s founding precision voice' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Ride — Periphery prog-djent precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Dry, controlled ride throughout Periphery\'s genre-shaping debut setup' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Dry, controlled Zildjian ride for his post-Periphery solo and session work' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian HHX Evolution Ride — djent\'s founding precision voice' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Ride — Periphery prog-djent precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Dry, controlled ride for Periphery\'s genre-shaping debut setup' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Dry, controlled Zildjian ride for his post-Periphery solo and session work' }
     ],
     relatedComparisons: [],
 
@@ -43245,7 +43245,7 @@ Start with one excellent dark, medium-weight crash in the 18" range, master its 
       title: "Why Djent Crashes Need to Stay Dry and Out of the Guitar's Way",
       content: `Djent's signature palm-muted, chugging guitar tone occupies a dense mid-range pocket that a washy, ringing crash directly competes with. Combined with the genre's love of odd-time polyrhythms and precisely placed accents, that means a djent crash has one job above all others: land the accent cleanly and get out of the way before the next syncopated riff hits.
 
-Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has run Sabian AAX crashes for years as part of his broader HHX/AAX setup, choosing their controlled, tight decay to stay out of Meshuggah's mathematically complex riffing. Matt Halpern of Periphery builds his crash voice around 16" and 18" Meinl Artist Concept crashes, valued for the same controlled decay that keeps Periphery's dense, palm-muted arrangements from turning to mush. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays 16" and 18" Zildjian K Custom Dark crashes — the driest, most controlled option of the three — specifically to minimize bleed into the acoustic trigger mics used throughout that record.
+Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has run Sabian AAX crashes for years as part of his broader HHX/AAX setup, choosing their controlled, tight decay to stay out of Meshuggah's mathematically complex riffing. Matt Halpern of Periphery builds his crash voice around 16" and 18" Meinl Artist Concept crashes, valued for the same controlled decay that keeps Periphery's dense, palm-muted arrangements from turning to mush. Travis Orbin signed with Zildjian in 2010 for his post-Periphery solo and session work and plays 16" and 18" Zildjian K Custom Dark crashes — the driest, most controlled option of the three — specifically to minimize bleed into the acoustic trigger mics he uses in his own studio sessions.
 
 This guide breaks down what actually makes a crash work for djent — dryness, control, and consistency across odd-time patterns — and recommends specific models across every budget, from a first tight-decay crash to the exact cymbals djent's founding and modern drummers play.`,
       keyPoints: [
@@ -43281,7 +43281,7 @@ This guide breaks down what actually makes a crash work for djent — dryness, c
         {
           name: "Trigger and Mic Compatibility",
           icon: "🎛️",
-          description: "Djent drummers frequently record with electronic triggers and samples layered onto acoustic kits. Travis Orbin's Zildjian K Custom Dark crashes were chosen specifically to bleed less into the acoustic trigger mics used throughout Periphery's genre-defining debut.",
+          description: "Djent drummers frequently record with electronic triggers and samples layered onto acoustic kits. Travis Orbin's Zildjian K Custom Dark crashes were chosen specifically to bleed less into the acoustic trigger mics he uses for his post-Periphery solo and session work.",
           recommendation: "Low-wash, dry crashes that minimize bleed into nearby trigger microphones"
         },
         {
@@ -43386,14 +43386,14 @@ The Artist Concept's controlled wash stays out of the way of Periphery's syncopa
           priceRange: "€200-250",
           tier: "pro",
           driveType: "B20 Bronze, Dark",
-          description: `Travis Orbin, who helped build the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut, plays 16" and 18" Zildjian K Custom Dark crashes. The K Custom Dark line's minimal-wash voicing kept his crashes from bleeding excessively into the acoustic trigger mics used to layer samples onto the album's foundational djent template.
+          description: `Travis Orbin signed with Zildjian in 2010 — after leaving Periphery before the band wrote or recorded its self-titled debut — for his post-Periphery solo and session work, and plays 16" and 18" Zildjian K Custom Dark crashes. The K Custom Dark line's minimal-wash voicing keeps his crashes from bleeding excessively into the acoustic trigger mics he uses to layer samples in the studio.
 
 Orbin's crash choice proves that dry, low-sustain voicing isn't just an aesthetic choice in djent — it's a practical studio requirement for drummers integrating acoustic playing with electronic triggers and samples.`,
           pros: [
-            "Travis Orbin's proven Periphery debut setup — helped define djent's genre-shaping crash template",
+            "Travis Orbin's proven post-Periphery Zildjian setup — dry, trigger-friendly crash voicing",
             "Driest, most controlled decay of the three featured setups",
             "Minimizes bleed into acoustic trigger microphones",
-            "Proven on Periphery's genre-defining self-titled 2010 debut"
+            "Proven across Orbin's post-Periphery solo and session recordings"
           ],
           cons: [
             "Dark voicing requires the biggest adjustment if coming from brighter cymbals",
@@ -43571,7 +43571,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
         {
           category: "Best for Trigger-Augmented Recording",
           pedal: "Zildjian K Custom Dark Crash",
-          reason: "Travis Orbin's genre-shaping Periphery debut setup — minimal bleed into trigger mics."
+          reason: "Travis Orbin's post-Periphery Zildjian setup — minimal bleed into trigger mics."
         },
         {
           category: "Best Budget",
@@ -43590,14 +43590,14 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian AAX — djent\'s founding precision voice' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — Periphery\'s genre-shaping debut setup' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — his post-Periphery solo and session setup' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian AAX — djent\'s founding precision voice' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — Periphery\'s genre-shaping debut setup' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — his post-Periphery solo and session setup' }
     ],
     relatedComparisons: [],
 
@@ -43612,8 +43612,8 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
         answer: "Matt Halpern of Periphery plays 16\" and 18\" Meinl Artist Concept crashes, chosen for the precise, controlled response Periphery's dense, palm-muted prog-djent arrangements demand."
       },
       {
-        question: "What crash cymbal did Travis Orbin use on Periphery's debut album?",
-        answer: "Travis Orbin played 16\" and 18\" Zildjian K Custom Dark crashes on Periphery's self-titled 2010 debut. The K Custom Dark line's minimal-wash voicing reduced bleed into the acoustic trigger microphones used to layer samples onto the album's genre-defining djent template."
+        question: "What crash cymbal does Travis Orbin use?",
+        answer: "Travis Orbin plays 16\" and 18\" Zildjian K Custom Dark crashes, which he's used since signing with Zildjian in 2010 for his post-Periphery solo and session work — he left Periphery before the band recorded its self-titled debut. The K Custom Dark line's minimal-wash voicing reduces bleed into the acoustic trigger microphones he uses to layer samples in the studio."
       },
       {
         question: "Why do djent drummers favor dry, controlled crashes?",
@@ -82813,13 +82813,13 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export steel snar
       title: "Why Djent Needs Dry, Controlled Cymbals — Not Wash",
       content: `Djent's signature palm-muted, chugging guitar tone creates a dense, mid-heavy wall of sound that has no room for washy, sustained cymbals. Combined with the genre's love of odd-time polyrhythms and precisely placed accents, that means djent drummers need hi-hats, crashes, and rides voiced for immediate, controlled decay rather than the long, complex wash other metal subgenres favor.
 
-Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running HHX and AAX series cymbals including his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands. Matt Halpern of Periphery relies on his signature Meinl Artist Concept setup, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays a Zildjian K Custom Dark / A Custom hybrid cymbal setup, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
+Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running HHX and AAX series cymbals including his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands. Matt Halpern of Periphery relies on his signature Meinl Artist Concept setup, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require. Travis Orbin signed with Zildjian in 2010 for his post-Periphery solo and session work, after leaving the band before it wrote or recorded its self-titled debut, and plays a Zildjian K Custom Dark / A Custom hybrid cymbal setup, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
 
 This guide breaks down hi-hat, crash, and ride choices for djent — comparing three drummers whose polyrhythmic, palm-muted lineages define the genre's cymbal demands, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Tomas Haake's Sabian HHX/AAX setup, including his own signature Compression Hi-Hats, defines djent's founding tight, controlled cymbal voice",
         "Matt Halpern's Meinl Artist Concept setup delivers the precise response Periphery's dense, palm-muted arrangements need",
-        "Travis Orbin's Zildjian K Custom Dark cymbals helped define djent's genre-shaping minimal-wash template on Periphery's 2010 debut",
+        "Travis Orbin's Zildjian K Custom Dark cymbals bring a genre-shaping minimal-wash template to his post-Periphery solo and session work",
         "Dry, low-sustain voicing is essential across every featured setup — djent has no room for washy cymbals"
       ]
     },
@@ -82959,15 +82959,15 @@ Halpern's Berklee-trained musicality shows in how he uses this setup — dynamic
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `Travis Orbin, who helped build the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut, plays a Zildjian K Custom Dark / A Custom hybrid cymbal setup. The K Custom Dark line's minimal-wash voicing kept his cymbals from bleeding excessively into the acoustic trigger mics used to layer samples onto the album's foundational djent template.
+          description: `Travis Orbin signed with Zildjian in 2010 — after leaving Periphery before the band wrote or recorded its self-titled debut — for his post-Periphery solo and session work, and plays a Zildjian K Custom Dark / A Custom hybrid cymbal setup. The K Custom Dark line's minimal-wash voicing keeps his cymbals from bleeding excessively into the acoustic trigger mics he uses to layer samples in the studio.
 
 Orbin's setup proves that a dry, low-sustain cymbal voicing isn't just an aesthetic choice in djent — it's a practical studio requirement for drummers integrating acoustic playing with electronic triggers and samples.`,
 
           pros: [
-            "Travis Orbin's Periphery debut setup — helped define djent's genre-shaping cymbal template",
+            "Travis Orbin's proven post-Periphery Zildjian setup — helped define djent's genre-shaping cymbal template",
             "K Custom Dark voicing minimizes bleed into acoustic trigger microphones",
             "A Custom hybrid pieces add tonal variety alongside the K Custom Dark line",
-            "Proven on Periphery's genre-defining self-titled 2010 debut",
+            "Proven across Orbin's post-Periphery solo and session recordings",
             "B20 bronze construction built for demanding studio and touring use"
           ],
           cons: [
@@ -83083,7 +83083,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
 
 **Zildjian K Custom Dark (Travis Orbin):**
 - Minimal-wash voicing reduces bleed into acoustic trigger microphones
-- Proven on djent's genre-shaping, trigger-augmented debut recordings
+- Proven across Orbin's post-Periphery, trigger-augmented solo and session recordings
 - Best for drummers integrating acoustic playing with electronic triggers and samples
 
 **Our Recommendation:** Start with a Sabian SBR or Meinl HCS set if you're building djent technique on a budget. Choose Matt Halpern's Meinl Artist Concept setup if your priority is dense, palm-muted prog-djent. Go with Travis Orbin's K Custom Dark setup if you're recording with triggers and samples.`,
@@ -83112,7 +83112,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
         {
           category: "Best for Trigger-Augmented Recording",
           pedal: "Zildjian K Custom Dark / A Custom Hybrid",
-          reason: "Travis Orbin's genre-shaping Periphery debut setup — minimal bleed into trigger mics."
+          reason: "Travis Orbin's post-Periphery Zildjian setup — minimal bleed into trigger mics."
         },
         {
           category: "Best Budget",
@@ -83133,14 +83133,14 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian HHX/AAX with signature Compression Hi-Hats — djent\'s founding precision voice' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — Periphery\'s genre-shaping debut setup' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — his post-Periphery solo and session setup' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian HHX/AAX with signature Compression Hi-Hats — djent\'s founding precision voice' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — Periphery\'s genre-shaping debut setup' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark — his post-Periphery solo and session setup' }
     ],
 
     // FAQ section for SEO
@@ -83154,8 +83154,8 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
         answer: "Matt Halpern of Periphery plays his signature Meinl Artist Concept setup — hi-hats, crashes, and a ride — a combination chosen for the precise, controlled response Periphery's dense, palm-muted prog-djent arrangements demand."
       },
       {
-        question: "What cymbals did Travis Orbin use on Periphery's debut album?",
-        answer: "Travis Orbin played a Zildjian K Custom Dark / A Custom hybrid cymbal setup on Periphery's self-titled 2010 debut. The K Custom Dark line's minimal-wash voicing reduced bleed into the acoustic trigger microphones used to layer samples onto the album's genre-defining djent template."
+        question: "What cymbals does Travis Orbin use?",
+        answer: "Travis Orbin plays a Zildjian K Custom Dark / A Custom hybrid cymbal setup, which he's used since signing with Zildjian in 2010 for his post-Periphery solo and session work — he left Periphery before the band recorded its self-titled debut. The K Custom Dark line's minimal-wash voicing reduces bleed into the acoustic trigger microphones he uses to layer samples in the studio."
       },
       {
         question: "Why do djent drummers favor dry, dark cymbals?",
@@ -83170,7 +83170,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
     // Conclusion
     conclusion: {
       title: "Find Your Djent Cymbal Voice",
-      content: `Djent cymbal choice comes down to how dry and controlled you need your setup to stay under palm-muted, polyrhythmic riffing. Tomas Haake's longtime Sabian HHX/AAX setup, anchored by his own signature Compression Hi-Hats, defined the genre's founding precision-first template with Meshuggah. Matt Halpern's Meinl Artist Concept setup proved that dense, palm-muted prog-djent needs precise, controlled response rather than raw power. Travis Orbin's Zildjian K Custom Dark cymbals show how a dry, low-bleed voicing became a practical studio requirement on djent's genre-shaping, trigger-augmented debut recordings.
+      content: `Djent cymbal choice comes down to how dry and controlled you need your setup to stay under palm-muted, polyrhythmic riffing. Tomas Haake's longtime Sabian HHX/AAX setup, anchored by his own signature Compression Hi-Hats, defined the genre's founding precision-first template with Meshuggah. Matt Halpern's Meinl Artist Concept setup proved that dense, palm-muted prog-djent needs precise, controlled response rather than raw power. Travis Orbin's Zildjian K Custom Dark cymbals show how a dry, low-bleed voicing became a practical studio requirement for his own genre-shaping, trigger-augmented post-Periphery recordings.
 
 None of these approaches is more "correct" — all three represent djent's foundational commitment to dry, controlled response over washy sustain. Start with whichever brand and voicing matches your material's density, and don't be afraid to prioritize decay control over raw brightness.
 
@@ -96240,13 +96240,13 @@ Whatever you choose, prioritize dark voicing and closed chick control over flash
       title: "What Hi-Hats Are Used in Djent?",
       content: `Djent's signature palm-muted, chugging guitar tone creates a dense, mid-heavy wall of sound that leaves no room for a washy, sustained hi-hat. Combined with the genre's love of odd-time polyrhythms and precisely placed accents, that means djent drummers need a hi-hat voiced for immediate, choked decay rather than the long, complex wash other metal subgenres favor — a hi-hat that opens up even slightly can blur the tight, mathematically precise attack djent's riffing depends on.
 
-Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands, with almost no bleed between the two cymbals even when played hard. Matt Halpern of Periphery relies on 15" Artist Concept Hi-Hats from Meinl, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require across "Periphery II," "Juggernaut," and "Hail Stan." Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays Zildjian K Custom Dark hi-hats, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
+Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands, with almost no bleed between the two cymbals even when played hard. Matt Halpern of Periphery relies on 15" Artist Concept Hi-Hats from Meinl, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require across "Periphery II," "Juggernaut," and "Hail Stan." Travis Orbin signed with Zildjian in 2010 for his post-Periphery solo and session work, after leaving the band before it wrote or recorded its self-titled debut, and plays Zildjian K Custom Dark hi-hats, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
 
 This guide breaks down what makes a great djent hi-hat — tight decay, choked response, and controlled dynamics — and which specific models these three influential drummers rely on, from budget starter pairs to the professional setups behind djent's most technically demanding records.`,
       keyPoints: [
         "Tomas Haake's Sabian signature Compression Hi-Hats define djent's founding tight, choked hi-hat voice",
         "Matt Halpern's 15\" Meinl Artist Concept Hi-Hats deliver the precise response Periphery's dense, palm-muted arrangements need",
-        "Travis Orbin's Zildjian K Custom Dark hi-hats helped define djent's genre-shaping minimal-wash template on Periphery's 2010 debut",
+        "Travis Orbin's Zildjian K Custom Dark hi-hats bring a genre-shaping minimal-wash template to his post-Periphery solo and session work",
         "Dry, choked voicing is essential across every featured setup — djent has no room for washy hi-hats"
       ]
     },
@@ -96381,15 +96381,15 @@ The larger 15" diameter adds extra surface area and control versus a standard 14
           tier: "pro",
           material: "B20 Bronze, Dark Finish",
 
-          description: `Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays 14" Zildjian K Custom Dark Hi-Hats as part of a broader K Custom Dark / A Custom hybrid setup built for technical, trigger-augmented progressive metal.
+          description: `Travis Orbin signed with Zildjian in 2010 — after leaving Periphery before the band wrote or recorded its self-titled debut — for his post-Periphery solo and session work, and plays 14" Zildjian K Custom Dark Hi-Hats as part of a broader K Custom Dark / A Custom hybrid setup built for technical, trigger-augmented progressive metal.
 
-Orbin's K Custom Dark hi-hats favor minimal-wash voicing, staying tight and controlled whether played acoustically or alongside triggered kick and snare tones — proof that djent's minimal-wash hi-hat demands were baked into the genre from its earliest, most influential recordings.`,
+Orbin's K Custom Dark hi-hats favor minimal-wash voicing, staying tight and controlled whether played acoustically or alongside triggered kick and snare tones — proof that djent's minimal-wash hi-hat demands extend well beyond the genre's founding recordings.`,
 
           pros: [
-            "Travis Orbin's Periphery setup — genre-shaping minimal-wash template from djent's 2010 debut",
+            "Travis Orbin's post-Periphery Zildjian setup — genre-shaping minimal-wash template",
             "Dark voicing stays tight alongside triggered kick and snare tones",
             "Standard 14\" diameter for versatile response",
-            "Proven on one of djent's most influential recordings"
+            "Proven across Orbin's post-Periphery solo and session recordings"
           ],
           cons: [
             "Dark voicing has less natural sustain than brighter alternatives",
@@ -96491,7 +96491,7 @@ Orbin's K Custom Dark hi-hats favor minimal-wash voicing, staying tight and cont
         {
           category: "Best All-Round Dry Voice",
           pedal: "Zildjian K Custom Dark Hi-Hats",
-          reason: "Travis Orbin's genre-shaping choice from djent's 2010 founding template."
+          reason: "Travis Orbin's genre-shaping choice for his post-Periphery solo and session work."
         },
         {
           category: "Best Budget",
@@ -96511,14 +96511,14 @@ Orbin's K Custom Dark hi-hats favor minimal-wash voicing, staying tight and cont
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian Signature Compression Hi-Hats — Meshuggah\'s founding polyrhythmic precision' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept 15" Hi-Hats — Periphery dense, palm-muted precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark Hi-Hats — Periphery\'s genre-shaping 2010 template' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark Hi-Hats — his post-Periphery solo and session setup' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian Signature Compression Hi-Hats — Meshuggah\'s founding polyrhythmic precision' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Hi-Hats — Periphery dense, palm-muted precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark Hi-Hats — Periphery\'s genre-shaping 2010 template' },
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Zildjian K Custom Dark Hi-Hats — his post-Periphery solo and session setup' },
     ],
 
     // FAQ section for SEO

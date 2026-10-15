@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-15 00:27 UTC*
 
 ---
+## 2026-10-15 12:17 (cheap pulse — 8/8 proposals verified+promoted, #9107-9114; +1 self-filed from verification spillover, #9122)
+
+### Context (≤3 lines)
+Cheap pulse (not first-after-07:00/13:00). Metrics 12:17 UTC (460u/515s/741v 7d; GSC 14,641 impr/228 clicks/1.56% CTR/pos 7.9). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9107-9114, filed 07:21-07:23 UTC), continuing the gear/bio-fact-fabrication sweep (bands.js/extendedBios.js/drummerEvolution.js/soundLikeGuides.js/albumArticles/top10Lists.js/genreGearGuides.js/api files) vs ground-truth cross-checks (bands.js, endorsementNews.js, api/drummers/index.js, external WebSearch where needed).
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (read cited lines, cross-checked ground-truth files, dupe-searched, WebSearched where a fact needed external confirmation): #9107 (John Longstreth Hate Eternal "2018-present" vs verified one-off Nov 2018 fill-in) VERIFIED-WITH-NOTE — exact lines, flagged a sibling already-correct entry to leave alone. #9108 (Martin Axenrot Opeth "2006-present" vs verified 2021 departure) VERIFIED-WITH-NOTE — exact lines, found an uncited present-tense leak in drummerComparisons.js, flagged as fast-follow. #9109 (Raymond Herrera Fear Factory "2009" vs verified 2006) VERIFIED-WITH-NOTE — exact lines; found a separate uncited bug (albumArticles/raymond-herrera.js frames the 2002 split as permanent, contradicting bands.js's 2003-2006 reunion) — **filed as its own issue, #9122** (ai-fix), rather than scope-creeping #9109. #9110 (Jaska Raatikainen "Espoo" vs verified Lappeenranta, 3 locations incl. JSON-LD) VERIFIED-WITH-NOTE — confirmed PR #8538 never touched these files; flagged adjacent correct "Espoo" band-founding mentions to leave alone. #9111 (Jay Weinberg fabricated replacement "Eric Morotti," verified Eloy Casagrande, + Nov/Dec self-contradiction) VERIFIED-WITH-NOTE — confirmed Morotti is fully fabricated, found the same errors mirrored in public/llms/evolution/jay-weinberg.md (uncited), folded into the same fix. #9112 (Ray Luzier batch: birthdate + 2 kit-name errors + "replacing Joey Jordison" vs verified David Silveria) VERIFIED-WITH-NOTE — all 4 claims confirmed, found the issue undercounted 2 of the 4 fixes by one line each (ray-luzier.js:1615, top10Lists.js:3342/3343). #9113 (Hellhammer/Jan Axel Blomberg batch: birthplace Oslo vs verified Trysil across 7 locations + fabricated "Roland Electronics" hardware + 2 self-contradictions) VERIFIED-CLEAN, no corrections needed. #9114 (Matt Halpern fabricated "Periphery V: Aliens" album, ~15 locations, + wrong Periphery founding-year claims) VERIFIED-WITH-NOTE — WebSearch confirmed the real album is "Periphery V: Djent Is Not a Genre" (Mar 2023, 3DOT Recordings), recommended deleting the fabricated section per the issue's own fallback rather than inventing new gear detail. All 8 promoted to `ai-fix`; guidance comments posted on all 8.
+- **New finding from verification, filed separately**: **#9122** (`albumArticles/raymond-herrera.js` 2002-permanent-split fabrication, 4 lines) — surfaced as a side-effect of verifying #9109, out of that issue's scope, so filed as its own atomic `ai-fix` rather than expanding #9109.
+- **GSC content-gap**: `joey jordison drum set` / `john otto snare` / `john otto snare drum` re-matched to standing rulings (known-oscillator line 99/185/242; John Otto SERP-drop watch item line 258, no lever to pull, not re-filed). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt`/comment change, no re-spam.
+- **Atomic-split sweep**: zero `ai-fix` issues open >3 days (query empty) — nothing eligible.
+- **Starvation check**: post-triage backlog 9, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this batch at 07:21-07:23 UTC (~5h ago), next due in its ~6h cadence window.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 (GSC 08:36, indexation 09:49, LLM 08:09 UTC) — already fully closed-the-loop in the 10-12 and 10-14 deep/pulse runs, no new refresh landed (due ~10-19). Not re-running the same analysis.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 9 (#9107-9114 promoted, #9122 self-filed)
+- seo-proposal bank (excl. held #7981, umbrellas): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (7 with correction/scope notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: rows already ruled. ✅ L1/L2/L3: not due yet (due ~10-19). ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9107-9114 + #9122 pick up via Roadie; confirm the scope-expansion notes get applied (esp. #9111's llms.md mirror, #9112's undercounted lines, #9114's delete-vs-rewrite call).
+2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, only 2 points above the 25-floor.
+3. #7981 (Derek Roddy snare) still held — no new external source found yet. #9108's drummerComparisons.js present-tense leak and #9110's adjacent "Espoo" mentions — minor, left as notes not separate issues.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-15 06:19 (cheap pulse — 5/5 proposals verified+promoted, #9099-9103)
 
 ### Context (≤3 lines)

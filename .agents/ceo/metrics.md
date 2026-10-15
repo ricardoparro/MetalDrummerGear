@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-15 08:22 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-15 12:16 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,91 +8,91 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 443 |
-| Sessions | 498 |
-| Page views | 708 |
-| Engagement rate | 51.00% |
-| Avg session (s) | 100 |
+| Active users | 460 |
+| Sessions | 515 |
+| Page views | 741 |
+| Engagement rate | 58.06% |
+| Avg session (s) | 98 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 44 | 24 |
+| / | 47 | 26 |
 | /bpm | 28 | 2 |
 | /drummers | 28 | 8 |
 | /drummer/mario-duplantier | 20 | 18 |
 | /studies/metal-tempo-by-subgenre | 16 | 8 |
 | /drummer/joey-jordison | 13 | 10 |
-| /drummer/bill-ward | 10 | 8 |
+| /drummer/bill-ward | 11 | 9 |
 | /drummer/danny-carey | 9 | 8 |
 | /articles/whats-in-lars-ulrichs-kit | 8 | 6 |
-| /drummer/eloy-casagrande | 8 | 9 |
+| /drummer/eloy-casagrande | 8 | 10 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 319 | 268 |
-| Direct | 132 | 130 |
-| Unassigned | 83 | 78 |
-| Cross-network | 29 | 29 |
+| Organic Search | 343 | 291 |
+| Direct | 143 | 141 |
+| Unassigned | 35 | 34 |
+| Cross-network | 23 | 23 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 166 | 142 |
-| Singapore | 57 | 57 |
+| United States | 166 | 143 |
+| Singapore | 63 | 63 |
 | China | 31 | 31 |
 | Canada | 25 | 21 |
-| Germany | 22 | 18 |
-| United Kingdom | 21 | 18 |
-| Australia | 14 | 13 |
+| Germany | 24 | 20 |
+| United Kingdom | 22 | 19 |
+| Australia | 17 | 16 |
+| New Zealand | 12 | 5 |
 | France | 11 | 10 |
 | Netherlands | 11 | 9 |
-| New Zealand | 11 | 4 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 11,492 |
-| Clicks | 195 |
-| CTR | 1.70% |
-| Avg position | 7.7 |
+| Impressions | 14,641 |
+| Clicks | 228 |
+| CTR | 1.56% |
+| Avg position | 7.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
+| joey jordison drum kit | 76 | 2 | 2.63% | 7.3 |
+| mario duplantier drum kit | 45 | 2 | 4.44% | 7.6 |
 | matt greiner cymbal setup | 8 | 2 | 25.00% | 6.4 |
 | best death metal drummers | 8 | 1 | 12.50% | 5.9 |
-| best drum heads for metal | 20 | 1 | 5.00% | 10.5 |
+| best drum heads for metal | 25 | 1 | 4.00% | 10.2 |
 | bill ward drum setup 1970 | 8 | 1 | 12.50% | 2.3 |
 | danny carey drum kit setup | 3 | 1 | 33.33% | 8.3 |
-| deathcore drum kit | 4 | 1 | 25.00% | 2.3 |
+| deathcore drum kit | 5 | 1 | 20.00% | 3.4 |
 | eloy casagrande drumkit | 1 | 1 | 100.00% | 2.0 |
-| flo mounier drum kit | 3 | 1 | 33.33% | 1.7 |
-| greatest metal drummers | 2 | 1 | 50.00% | 13.0 |
-| heavy metal | 2 | 1 | 50.00% | 7.0 |
+| eloy casagrande slipknot drum kit | 5 | 1 | 20.00% | 2.8 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,849 | 66 | 1.71% | 8.1 |
-| gbr | 621 | 13 | 2.09% | 8.3 |
-| deu | 338 | 10 | 2.96% | 7.0 |
-| can | 423 | 8 | 1.89% | 7.1 |
-| fra | 160 | 8 | 5.00% | 6.5 |
-| bra | 620 | 6 | 0.97% | 6.5 |
-| idn | 265 | 6 | 2.26% | 7.3 |
-| esp | 136 | 5 | 3.68% | 6.9 |
-| swe | 145 | 5 | 3.45% | 6.7 |
-| aus | 414 | 4 | 0.97% | 7.5 |
+| usa | 4,660 | 81 | 1.74% | 8.3 |
+| gbr | 800 | 13 | 1.63% | 8.3 |
+| can | 540 | 11 | 2.04% | 7.2 |
+| deu | 409 | 11 | 2.69% | 7.0 |
+| fra | 235 | 10 | 4.26% | 7.2 |
+| bra | 860 | 7 | 0.81% | 6.4 |
+| idn | 325 | 6 | 1.85% | 7.5 |
+| swe | 177 | 6 | 3.39% | 6.7 |
+| aus | 508 | 5 | 0.98% | 7.4 |
+| esp | 186 | 5 | 2.69% | 7.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 62 | 1.61% | 7.0 | open issue to answer better |
-| joey jordison drum set | 68 | 1.47% | 8.4 | open issue to answer better |
-| john otto snare | 94 | 1.06% | 7.7 | open issue to answer better |
+| joey jordison drum set | 87 | 1.15% | 8.8 | open issue to answer better |
+| john otto snare | 110 | 0.91% | 7.3 | open issue to answer better |
+| john otto snare drum | 52 | 1.92% | 7.1 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

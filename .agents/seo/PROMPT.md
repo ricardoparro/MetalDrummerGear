@@ -125,6 +125,34 @@ Drummer-change news (joins, departures, deaths, permanent touring stand-ins) cre
    - Body must include: both source URLs (as binding fact anchors — no fact in the proposal may rest on an uncited claim), the exact `drummerHistory` edit (close the outgoing drummer's `period` with an end year, append the new drummer's entry), and the downstream touchpoints to update (band-page FAQ first answer, the `/bands/drum-chair-changes` timeline once it exists per #4769, and whether the incoming drummer warrants a full roster addition — file that as a **separate** proposal, don't bundle it in).
 5. **Log the sweep every week, even at zero changes** — one line in `.agents/seo-plan.md` run notes: which band group was checked (by name or index), how many candidates surfaced, how many cleared the 2-source bar, how many were deduped away. Anti-noise rules apply same as everywhere else — this is a status line, not a report.
 
+## Re-verification holds — label, don't just comment
+
+If a re-check during this run finds that an issue already labeled `ai-fix` (or
+one you are about to recommend demoting/rejecting after it was already
+promoted) has a fabricated, unverifiable, or otherwise broken core claim,
+**posting a warning comment is not enough.** `.roadie/drain.sh`'s claim
+eligibility filter is mechanical — it hard-skips issues carrying the `hold`
+label, but it has no way to parse comment text. A "⚠️ Hold —" comment with no
+label change is invisible to Roadie and does not stop a claim (see #9098:
+Roadie claimed and shipped #9084 ten minutes after such a comment, requiring a
+revert in #9097).
+
+**Whenever you post a hold/warning comment on an issue that already carries
+`ai-fix` (or is in Roadie's claimable queue), apply the label in the same
+step, not as a follow-up:**
+
+```bash
+gh issue comment <num> --body "⚠️ Hold — do not promote/implement: <reason + sources>"
+gh issue edit <num> --add-label hold
+```
+
+Run both commands together — the comment explains *why*, the label is what
+actually stops Roadie. Do this immediately, in the same tool-call batch as the
+comment; do not defer the label edit to "next run" or treat the comment alone
+as sufficient. This applies any time you recommend against promotion or
+continued implementation of an issue that is already `ai-fix`-labeled or
+sitting in the queue — not only during the weekly drum-chair sweep.
+
 ## Priority Framework
 
 | Priority | Type | Examples this quarter |

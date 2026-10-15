@@ -11776,10 +11776,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Tama S.L.P. G-Maple',
-            details: '14"×6.5" maple snare',
-            notes: 'New signature-line snare adopted specifically for the precision and cut Megadeth\'s catalog demands.',
-            change: CHANGE_TYPES.NEW,
+            item: 'Model unconfirmed',
+            details: 'No specific snare model documented for this era',
+            notes: 'No source documents a specific snare model for the 2016–2019 touring era — his first confirmed signature snare is the Tama S.L.P. Dynamic Bronze from 2022.',
+            change: null,
           },
           cymbals: {
             item: 'Meinl Byzance / Mb20',
@@ -11816,7 +11816,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Recruited by Megadeth in 2016 for Dystopia touring duties',
           'Learned four decades of Megadeth classics for live performance',
-          'Switched to Tama Starclassic Maple and Tama S.L.P. G-Maple snare',
+          'Switched to Tama Starclassic Maple; specific snare model for this era unconfirmed',
           'Dystopia (2016) won the Grammy for Best Metal Performance',
         ],
 
@@ -11911,7 +11911,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit does Dirk Verbeuren play?',
-        a: 'Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. G-Maple 14"×6.5" snare. He switched to this all-maple configuration when he joined Megadeth in 2016, having previously used a Tama Starclassic Performer during his Soilwork years.',
+        a: 'Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14"×5.5" snare. He switched to the all-maple kit configuration when he joined Megadeth in 2016, having previously used a Tama Starclassic Performer during his Soilwork years; the Dynamic Bronze snare was introduced later, as his 2022 signature model.',
       },
       {
         q: 'Did Dirk Verbeuren play on the Dystopia album?',

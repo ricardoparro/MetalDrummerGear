@@ -14406,7 +14406,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Slipknot / Suicidal Tendencies',
     totalYearsActive: '2009-Present',
     profileImage: '/images/drummers/jay-weinberg.webp',
-    summary: 'The son of E Street Band drummer Max Weinberg, Jay Weinberg built his own name the hard way — grinding through the hardcore and punk touring circuit before winning one of metal\'s most scrutinized auditions in 2013 to become Slipknot\'s drummer #1. His gear evolution runs from the modest, no-endorsement kits of his Against Me! and Madball years, through the Pearl Reference Pure setup that introduced him on .5: The Gray Chapter, into the SJC Custom Drums and Zildjian K Custom rig that carried We Are Not Your Kind and The End, So Far — and, after his abrupt December 2023 firing from Slipknot, into the same SJC platform he now plays with Suicidal Tendencies.',
+    summary: 'The son of E Street Band drummer Max Weinberg, Jay Weinberg built his own name the hard way — grinding through the hardcore and punk touring circuit before winning one of metal\'s most scrutinized auditions in 2013 to become Slipknot\'s drummer #1. His gear evolution runs from the modest, no-endorsement kits of his Against Me! and Madball years, through the Pearl Reference Pure setup that introduced him on .5: The Gray Chapter, into the SJC Custom Drums and Zildjian K Custom rig that carried We Are Not Your Kind and The End, So Far — and, after his abrupt November 2023 firing from Slipknot, into the same SJC platform he now plays with Suicidal Tendencies.',
 
     eras: [
       {
@@ -14629,7 +14629,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2021–2023',
         startYear: 2021,
         endYear: 2023,
-        description: 'The End, So Far (2022) — Slipknot\'s most genre-expanding studio record, incorporating alternative rock and electronic textures — found Weinberg\'s SJC Custom and Zildjian K Custom setup fully mature, integrated with a Roland trigger system to keep pace with the band\'s increasingly hybrid acoustic/electronic live show. His drumming spans the album\'s full dynamic range, from atmospheric restraint to Slipknot\'s trademark ferocity. In November 2023, after nearly a decade behind mask #1, Slipknot announced Weinberg\'s departure — with Eric Morotti later confirmed as his replacement — closing out the SJC/K Custom chapter of his career.',
+        description: 'The End, So Far (2022) — Slipknot\'s most genre-expanding studio record, incorporating alternative rock and electronic textures — found Weinberg\'s SJC Custom and Zildjian K Custom setup fully mature, integrated with a Roland trigger system to keep pace with the band\'s increasingly hybrid acoustic/electronic live show. His drumming spans the album\'s full dynamic range, from atmospheric restraint to Slipknot\'s trademark ferocity. In November 2023, after nearly a decade behind mask #1, Slipknot announced Weinberg\'s departure — with Eloy Casagrande later confirmed as his replacement — closing out the SJC/K Custom chapter of his career.',
         albums: ['The End, So Far (2022)'],
         tours: ['Knotfest Roadshow 2021–2022', 'Here Comes the Pain Tour 2023'],
         image: null,
@@ -14682,13 +14682,13 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'The End, So Far (2022) — Slipknot\'s most genre-expanding studio album, incorporating alternative rock and electronic influences',
           'Expanded Roland trigger integration for the band\'s hybrid acoustic/electronic live show',
-          'Fired from Slipknot in December 2023 after nine years and three studio albums',
-          'Eric Morotti later confirmed as his replacement behind mask #1',
+          'Fired from Slipknot in November 2023 after nine years and three studio albums',
+          'Eloy Casagrande later confirmed as his replacement behind mask #1',
         ],
 
         quote: {
           text: "Nine years, three albums, a mask, and a legacy I tried to honor every single night. I gave that band everything I had.",
-          source: 'Statement following Slipknot departure, December 2023',
+          source: 'Statement following Slipknot departure, November 2023',
         },
 
         videos: [],
@@ -14770,7 +14770,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'Why did Jay Weinberg leave Slipknot?',
-        a: 'Slipknot announced Jay Weinberg\'s departure in December 2023 after nine years and three studio albums (.5: The Gray Chapter, We Are Not Your Kind, and The End, So Far). The band did not detail specific reasons at the time; Eric Morotti was later confirmed as his replacement behind mask #1. Weinberg joined Suicidal Tendencies within months of the split.',
+        a: 'Slipknot announced Jay Weinberg\'s departure in November 2023 after nine years and three studio albums (.5: The Gray Chapter, We Are Not Your Kind, and The End, So Far). The band did not detail specific reasons at the time; Eloy Casagrande was later confirmed as his replacement behind mask #1. Weinberg joined Suicidal Tendencies within months of the split.',
       },
       {
         q: 'Who is Jay Weinberg\'s father?',
@@ -14791,7 +14791,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Jay Weinberg Gear Evolution Timeline | Slipknot Drum Kit History',
-    metaDescription: 'Explore Jay Weinberg\'s complete drum gear evolution: no-endorsement hardcore-circuit kits → Pearl Reference Pure on .5: The Gray Chapter (2014) → SJC Custom Drums and Zildjian K Custom across We Are Not Your Kind and The End, So Far → the SJC platform he carried into Suicidal Tendencies after his December 2023 Slipknot firing. Fifteen-plus years, era by era.',
+    metaDescription: 'Explore Jay Weinberg\'s complete drum gear evolution: no-endorsement hardcore-circuit kits → Pearl Reference Pure on .5: The Gray Chapter (2014) → SJC Custom Drums and Zildjian K Custom across We Are Not Your Kind and The End, So Far → the SJC platform he carried into Suicidal Tendencies after his November 2023 Slipknot firing. Fifteen-plus years, era by era.',
   },
 
   // ==========================================

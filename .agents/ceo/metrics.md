@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-15 12:16 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-15 13:05 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 460 |
-| Sessions | 515 |
-| Page views | 741 |
-| Engagement rate | 58.06% |
+| Active users | 461 |
+| Sessions | 516 |
+| Page views | 743 |
+| Engagement rate | 57.95% |
 | Avg session (s) | 98 |
 
 ### Top pages (by page views, last 7d)
@@ -25,23 +25,23 @@
 | /drummer/joey-jordison | 13 | 10 |
 | /drummer/bill-ward | 11 | 9 |
 | /drummer/danny-carey | 9 | 8 |
+| /drummer/eloy-casagrande | 9 | 10 |
 | /articles/whats-in-lars-ulrichs-kit | 8 | 6 |
-| /drummer/eloy-casagrande | 8 | 10 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 343 | 291 |
-| Direct | 143 | 141 |
+| Direct | 144 | 142 |
 | Unassigned | 35 | 34 |
-| Cross-network | 23 | 23 |
+| Cross-network | 24 | 24 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 166 | 143 |
-| Singapore | 63 | 63 |
+| Singapore | 64 | 64 |
 | China | 31 | 31 |
 | Canada | 25 | 21 |
 | Germany | 24 | 20 |

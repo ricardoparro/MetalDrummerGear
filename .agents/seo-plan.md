@@ -12763,3 +12763,51 @@ Dispatched 4 parallel research agents, 2 drummers each, same standard protocol (
 2. Lowest-issue-count method remains highly productive (8/8 hit rate this run, highest yet) — continue ascending by issue count next time: raymond-herrera through matt-halpern are now done; next lowest untouched would need a fresh re-rank (richard-christy/sean-reinert/paul-bostaph cluster at 86 is already well-covered by other methods this week — likely low-yield, consider skipping to the next tier instead).
 3. Content-gap: all 3 rows (joey jordison kit/set, john otto snare) re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-15 (run ~3 — lowest-issue-count roster sweep continued: 6 filed, #9123-9128)
+
+### Audit summary
+- robots.txt (live source read, api/robots.js): all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged. ✅
+- `public/llms/**/*.md`: 2,024 files live across 33 subdirectories — unchanged.
+- Bank check: 12 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819; 1 held #7981; 8 from the prior two runs today, #9099-9103/#9107-9114, already promoted to `ai-fix` by CEO per the 12:17 decision log entry) → true untriaged bank ~0. Well under the 45 floor → filed up to 8; filed 6 (2 of the 8 sampled candidates — jimmy-degrasso, waltteri-vayrynen — came back clean, stopping the verified-high-confidence pool at 6). Bank at run end: 18.
+
+### Metrics readout
+- GSC 7d (13:05 UTC refresh): 14,641 impr / 228 clicks / 1.56% CTR / pos 7.9. Content-gap rows (impr≥50, CTR<2%): `joey jordison drum set` (87 impr, 1.15%), `john otto snare` (110 impr, 0.91%), `john otto snare drum` (52 impr, 1.92%) — all already-ruled known-oscillator / John Otto SERP-drop watch item (no code/content lever) per `learned-patterns.md` line 258 and the 10-15 00:34 CEO entry. No re-action.
+- GA4 7d: 461 active users / 516 sessions / 743 views. Organic 343/516 (66.5%). Top pages: `/`, `/bpm`, `/drummers`, `/drummer/mario-duplantier`, `/studies/metal-tempo-by-subgenre`, `/drummer/joey-jordison`, `/drummer/bill-ward`, `/drummer/danny-carey`, `/drummer/eloy-casagrande`.
+- Not Monday (Thursday) — drum-chair watch already logged this week (group 2, Monday 10-12, 0 candidates). Skipped.
+
+### Method — lowest-issue-count roster sweep, continued
+Ranked all 71 `endorsementNews.js` roster slugs by live `gh api search/issues` title-match count, excluded ~46 names already touched today/this week (prior two runs' batches), and sampled the next 8 lowest-count untouched survivors: alex-rudinger (6), waltteri-vayrynen (7), jimmy-degrasso (9), navene-koperweis (54), john-otto (75), aquiles-priester (91), daray (96), dirk-verbeuren (124). Deliberately skipped jon-dette (53, excluded — too close to the recent Testament tenure incident, same drummer/claim-class risk), richard-christy/sean-reinert (86, tied — prior run flagged this cluster as already well-covered by other methods this week, likely low-yield), and derek-roddy (104, already the held #7981 issue).
+
+Dispatched 4 parallel research agents, 2 drummers each, same standard protocol (ground truth = `endorsementNews.js`/`bands.js`, grep ~15 known fabrication-prone sibling files + albumArticles + 3 API files + llms mirrors, `git log --all --grep`/`gh issue list --search` dedup check, explicit instruction to drop any tenure/membership claim that can't be externally verified beyond internal file agreement).
+
+**6 of 8 candidates survived personal re-verification** (jimmy-degrasso and waltteri-vayrynen came back genuinely clean — both already heavily swept by prior closed issues). Personally re-verified every surviving finding myself via direct `grep`/`sed` before filing, **and additionally ran 3 independent WebSearches** (Aquiles Priester W.A.S.P. join year, Aquiles Priester Angra departure, Alex Rüdinger Threat Signal departure) to externally corroborate the tenure-year claims before filing them, given the standing Jon Dette lesson that cross-file agreement alone is not sufficient for this claim class — all 3 searches independently confirmed the subagents' findings (Blabbermouth/Lambgoat/Wikipedia sources).
+
+- **Alex Rüdinger** (#9123): Threat Signal departure wrongly dated "late 2011" across 8 locations (api/drummers/index.js, extendedBios.js, soundLikeGuides.js, drummerEvolution.js x2, 2 llms.md mirrors) — externally verified April 2012 (Blabbermouth). Self-contradicts the files' own "2010-2012" period field.
+- **Navene Koperweis** (#9124): `api/drummers/index.js` kitOverview field says Animals as Leaders tenure "(2012-2014)" — verified 2010-2012 (Lambgoat, Wikipedia, and the site's own Matt Garstka ground-truth entry). Prior fix #8241 scoped only to 2 other files, never touched this one.
+- **John Otto** (#9125): `gearPriceHistory.js` 1999 hardware entry fabricates "Pearl P-2002 Eliminator Pedal + Pearl H-1000 Hi-Hat Stand" — verified Gibraltar Professional Series since 1999, no Pearl hardware documented. Prior fix #9059 (closed yesterday) fixed an adjacent prose sentence in the same record but missed this separate `setup.hardware` field.
+- **Aquiles Priester** (#9126, batch, 3 bundled fabrications): W.A.S.P. join year wrong as 2006 across 10+ locations (verified 2017, externally confirmed via Blabbermouth/Wikipedia — 2 prior issues #5610/#5653 had actually normalized *toward* this wrong date); Angra end-year wrong as 2012 (verified 2008, same files, #5653 moved one file from correct to wrong); birthplace fabricated as São Paulo/June 19 in `albumArticles/aquiles-priester.js` (verified Outjo, Namibia/June 25 — #9045 fixed this everywhere else yesterday but missed this file). Flagged the `drummerEvolution.js` "2012-wasp-pearl" era block for careful re-dating (not just a string swap) since the era's internal framing assumes continuous Angra→WASP transition that no longer holds once WASP moves to 2017.
+- **Daray** (#9127, batch, 2 bundled fabrications): Vader tenure has 3 live mutually-contradictory values ("2006-2016" in 8+ files/mirrors, "2002-2005" in top10Lists.js, verified "2004-2008" per bands.js) — flagged `gearPriceHistory.js:8250`'s full paragraph as needing timeline re-derivation, not just a bracket swap, since "left Vader in 2016" also cascades from the wrong end-year. Plus `pedals.js`'s root pedal record still has the George Kollias-only "Demon XR" model (verified Demon Drive) — the same cross-contamination pattern 5 prior issues already fixed everywhere else except this file.
+- **Dirk Verbeuren** (#9128): 2016-2019 Megadeth snare misattributed as "Tama S.L.P. G-Maple" in `drummerEvolution.js` + `gearPriceHistory.js` — verified no snare model is documented for this era (only the 2022 signature Dynamic Bronze exists in ground truth). Noted explicitly that G-Maple is a real product correctly used for other drummers (Hannes Grossmann, Chris Turner) elsewhere in the same file — this is a misattribution, not an invented product.
+
+### Proposals filed this run
+1. #9123 — Alex Rüdinger: Threat Signal departure "late 2011" → verified April 2012, 8 locations
+2. #9124 — Navene Koperweis: api/drummers/index.js AAL tenure "2012-2014" → verified "2010-2012"
+3. #9125 — John Otto: gearPriceHistory.js hardware fabricated as Pearl P-2002 Eliminator → verified Gibraltar
+4. #9126 — Aquiles Priester batch: W.A.S.P. join year 2006→2017, Angra end year 2012→2008, birthplace fabrication
+5. #9127 — Daray batch: Vader tenure 3-way contradiction (2006-2016/2002-2005 → verified 2004-2008) + Demon XR→Demon Drive pedal
+6. #9128 — Dirk Verbeuren: 2016-2019 snare misattributed as Tama S.L.P. G-Maple (not in verified record)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9123-9128 (this run, 6 fresh)
+- Bank at run end: 18 open `seo-proposal` (excl. the 3 standing umbrellas: 15; most of the rest are already CEO-promoted to `ai-fix` and awaiting Roadie pickup, not truly untriaged).
+
+### Next run
+1. Watch #9123-9128 through CEO triage; flag #9126 (Aquiles Priester) and #9127 (Daray) as needing the most implementer care — both require re-deriving surrounding timeline prose, not pure string-replace, per the scope notes in each issue.
+2. Lowest-issue-count method remains productive (6/8 hit rate this run). Next untouched tier (ascending, excluding jon-dette/richard-christy/sean-reinert/derek-roddy already flagged as skip-for-now): mikkey-dee, blake-richardson, charlie-benante, dirk-verbeuren (now done), paul-mazurkiewicz, mike-portnoy, flo-mounier, matt-greiner, nicko-mcbrain, brann-dailor — re-rank fresh next time since today's batch shifts several counts.
+3. Content-gap: all 3 rows (joey jordison drum set, john otto snare, john otto snare drum) re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

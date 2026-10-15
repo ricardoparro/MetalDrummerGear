@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-15 08:22 UTC · Window: last 12h*
+*Generated 2026-10-15 19:12 UTC · Window: last 12h*
 
 ---
 
@@ -8,27 +8,27 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 12 |
+| Open `ai-fix` issues | **26** |
+| Open `seo-proposal` issues | 10 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 1 |
-| PRs merged in window | **8** |
-| Issues closed in window | 8 |
-| Commits to `main` in window | 13 |
+| Open PRs | 3 |
+| PRs merged in window | **17** |
+| Issues closed in window | 15 |
+| Commits to `main` in window | 22 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **443** |
-| Sessions | 498 |
-| Page views | 708 |
-| Engagement rate | 51.00% |
-| GSC impressions | 11,492 |
-| GSC clicks | 195 |
-| GSC CTR | 1.70% |
-| GSC avg position | 7.7 |
+| Active users | **473** |
+| Sessions | 532 |
+| Page views | 760 |
+| Engagement rate | 56.20% |
+| GSC impressions | 14,641 |
+| GSC clicks | 228 |
+| GSC CTR | 1.56% |
+| GSC avg position | 7.9 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~3,034 |
-| Est. ad revenue / mo | **~€9.10** |
-| Progress to €1000/mo | 0.9% |
-| Pageviews/mo needed for €1000 | ~333,333 (110× current) |
+| Est. pageviews / mo | ~3,257 |
+| Est. ad revenue / mo | **~€9.77** |
+| Progress to €1000/mo | 1.0% |
+| Pageviews/mo needed for €1000 | ~333,333 (102× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -72,53 +72,60 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 22 | 22 | 0 |
-| Verify YouTube Videos | 15 | 8 | 6 |
-| Check Sitemap Drift | 14 | 7 | 6 |
-| Verify Data Modules | 12 | 6 | 5 |
-| Check llms freshness | 8 | 0 | 7 |
-| .github/workflows/check-vercel-rewrites.yml | 8 | 0 | 8 |
-| Perf Budget Gate | 6 | 0 | 5 |
-| Verify API Modules | 6 | 3 | 3 |
+| PR Merger | 25 | 24 | 0 |
+| Verify YouTube Videos | 14 | 7 | 4 |
+| Check Sitemap Drift | 14 | 3 | 8 |
+| Verify Data Modules | 12 | 6 | 4 |
+| Check llms freshness | 7 | 0 | 4 |
+| Verify API Modules | 6 | 3 | 1 |
+| Perf Budget Gate | 6 | 0 | 4 |
+| .github/workflows/check-vercel-rewrites.yml | 6 | 0 | 6 |
+| Health Check | 2 | 2 | 0 |
+| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
-| SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
+| Roadie Night Fleet | 1 | 0 | 0 |
+| SEO Agent | 1 | 0 | 0 |
 | CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
-| Check performance (L4) | 1 | 1 | 0 |
+| X Agent | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-10-15 18:14 (mid-day pulse — 6/6 proposals verified+promoted, #9123-9128)
+- 2026-10-15 12:17 (cheap pulse — 8/8 proposals verified+promoted, #9107-9114; +1 self-filed from verification spillover, 
 - 2026-10-15 06:19 (cheap pulse — 5/5 proposals verified+promoted, #9099-9103)
 - 2026-10-15 00:34 (evening-review catch-up for 10-14 — reverted a shipped data regression, #9097/#9098 filed)
 - 2026-10-14 00:27 (evening-review catch-up for 10-13 — 8/8 proposals verified+promoted, #9039-9047)
 - 2026-10-14 06:19 (cheap pulse — 6/6 proposals verified+promoted, #9055-9060)
-- 2026-10-14 12:17 (deep run — 6/6 proposals verified+promoted, #9070-9075)
-- 2026-10-14 18:14 (mid-day pulse — 3/3 proposals verified+promoted, #9084-9086; #8995 closed stale)
 
-## 📦 Shipped to main (8)
+## 📦 Shipped to main (17)
 
+- #9138 fix: #9122 SEO: albumArticles/raymond-herrera.js frames 2002 Fear Factory split as permanent, omitting the 2003-2006 reunion lineup bands.js verifies
+- #9137 fix: #9114 SEO batch: Matt Halpern — entire fabricated 'Periphery V: Aliens' album article (fake release date/label/tracklist, ~15 locations) + wrong 'co-founded Periphery since 2005/2009' claims (4 locations in top10Lists.js)
+- #9136 fix: #9113 SEO batch: Hellhammer — wrong birthplace (Oslo vs verified Trysil) across 7 locations, fabricated 'Roland Electronics' hardware in 2 API files + 3 genreGearGuides sections, and 2 internal tenure/discography self-contradictions
+- #9135 fix: #9112 SEO batch: Ray Luzier — wrong birthdate (Feb 11 vs verified Jun 14, 1970) in 3 files, 'Pearl Masters Maple Complete' vs verified Reference Maple, 'Reference Pure' mislabel, and 'replacing Joey Jordison' misattribution (verified: David Silveria)
+- #9134 fix: #9109 SEO: Raymond Herrera's Fear Factory departure still shown as 2009 in extendedBios.js + drummerEvolution.js — bands.js verifies he left in 2006
+- #9133 fix: #9111 SEO: Jay Weinberg's Slipknot exit in drummerEvolution.js names a fabricated replacement 'Eric Morotti' (verified: Eloy Casagrande) and self-contradicts on the departure month
+- #9132 fix: #9110 SEO: Jaska Raatikainen's birthplace still says 'Espoo, Finland' in soundLikeGuides.js + albumArticles (incl. JSON-LD) — #8525 only fixed extendedBios.js/birthdays.js to verified Lappeenranta
+- #9131 fix: #9108 SEO: Martin Axenrot's Opeth tenure still shown as '2006-present' in extendedBios.js + api/drummers/index.js — bands.js already has the verified 2021 departure
+- #9130 fix: #9108 SEO: Martin Axenrot's Opeth tenure still shown as '2006-present' in extendedBios.js + api/drummers/index.js — bands.js already has the verified 2021 departure
+- #9129 fix: #9107 SEO: John Longstreth's Hate Eternal stint mislabeled as ongoing ('2018-present') in bands.js — api/drummers/index.js's own bio confirms it was a one-off Nov 2018 tour fill-in
+- #9121 fix: #9106 📉 L4 Performance Watch — 6 regressed · 4 chronically slow
 - #9120 fix: #9106 📉 L4 Performance Watch — 6 regressed · 4 chronically slow
 - #9119 fix: #9103 SEO: Alex Bent — endorsementNews.js's own ENDORSEMENT_NEWS array still says 2016 Trivium join (#8010 only fixed the separate timeline array); drummerEvolution.js snare depth + Axis-pedal-predates-Trivium fabrications
 - #9118 fix: #9102 SEO: Martin Lopez's drummerEvolution.js fabricates 'Sonor Force Series' (verified Designer Series) and anachronistically attributes his 2010 Zildjian switch to his 1997-2001 Opeth era
 - #9117 fix: #9101 SEO: Travis Orbin's genreGearGuides.js still credits him with playing Zildjian cymbals on Periphery's 2010 debut (10+ locations beyond the 3 #8991 fixed); birthdays.js has a 3rd wrong birthdate
-- #9116 fix: #9100 SEO: Nick Augusto's api/drummers/index.js + api/gear-finder/index.js (6 locations) still fabricate 'Pearl Demon Drive' pedal — verified DW 9000 Series; plus a 2009/2010 Trivium-tenure self-contradiction
-- #9115 fix: #9099 SEO: Kevin Talley's api/drummers/index.js + gearPriceHistory.js still fabricate 'Pearl Masters Premium Legend' kit/snare — #8049/#7406/#6746 only fixed extendedBios.js/drummerComparisons.js
-- #9105 fix: #9097 URGENT: revert Jon Dette Testament tenure to verified 1994-1995, 1997-1998 (PR #9093 regression)
-- #9104 fix: #9098 Process gap: SEO Agent hold-comments have no mechanical teeth — Roadie claimed #9084 10min after a hold warning
+- _+2 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 1849h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 1945h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2123h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3207h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5637h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 1860h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 1956h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2133h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3218h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5648h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

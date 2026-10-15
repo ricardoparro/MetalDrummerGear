@@ -2719,7 +2719,7 @@ export const bands = {
       { drummer: "jade-simonetto", period: "2007-2013", notes: "Confirmed as permanent member July 2007; recorded Fury & Flames (2008) and Phoenix Amongst the Ashes (2011)" },
       { drummer: "chason-westmoreland", period: "2014-2015", notes: "Recorded Infernus (2015), his only album with the band" },
       { drummer: "hannes-grossmann", period: "2015-2018", notes: "Ex-Obscura; initially recruited as a touring fill-in, stayed on to record Upon Desolate Sands (2018)" },
-      { drummer: "john-longstreth", period: "2018-present", notes: "Also of Origin; Wikipedia lists him as a touring/live member rather than an official member. No studio album has been recorded during his tenure; the band's current activity level is unconfirmed" }
+      { drummer: "john-longstreth", period: "2018 (touring fill-in)", notes: "Also of Origin; filled in on drums for Hate Eternal's November 2018 US tour, replacing Hannes Grossmann for that tour only. A one-off touring appearance, not an ongoing or official membership; no studio album was recorded" }
     ],
     discography: [
       { title: "Conquering the Throne", year: 1999, drummer: "tim-yeung", notes: "Debut album" },
@@ -2737,7 +2737,7 @@ export const bands = {
       "https://musicbrainz.org/artist/5c9e111d-579e-4eb3-a6e4-51e223635ee0"
     ],
     faq: [
-      { q: "Who is the drummer for Hate Eternal?", a: "John Longstreth (also of Origin) has served as the band's touring/live drummer since 2018, but is not classified as an official member and no studio album has been recorded during his tenure." },
+      { q: "Who is the drummer for Hate Eternal?", a: "John Longstreth (also of Origin) filled in on drums for Hate Eternal's November 2018 US tour, replacing Hannes Grossmann; this was a one-off touring appearance, not an ongoing or official membership." },
       { q: "Did Derek Roddy drum on Hate Eternal's debut album?", a: "No, this is a common misconception. Conquering the Throne (1999) was recorded by founding drummer Tim Yeung. Roddy joined in 2000, after the album was already out, and only toured on that material before recording King of All Kings (2002) and I, Monarch (2005)." },
       { q: "Who founded Hate Eternal?", a: "Guitarist and vocalist Erik Rutan, formerly of Morbid Angel, founded the band in St. Petersburg, Florida in 1997." },
       { q: "Is Hate Eternal still active?", a: "The band has not released a new studio album since Upon Desolate Sands (2018) or played a confirmed live show since around 2019, so its current activity level is unclear." }

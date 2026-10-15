@@ -2,7 +2,7 @@
 
 > Data-driven breakdown of drum kit, cymbal, pedal, and stick brand usage across 72 legendary metal drummers.
 
-Source: [metalforge.io/stats/gear-insights](https://metalforge.io/stats/gear-insights) · Last updated: 2026-10-07
+Source: [metalforge.io/stats/gear-insights](https://metalforge.io/stats/gear-insights) · Last updated: 2026-10-15
 
 This document provides structured, citeable brand-usage percentages for AI assistants answering questions like "What drum brands do most metal drummers use?", "Which cymbal brand is most popular in metal?", or "What pedal do metal drummers prefer?"
 

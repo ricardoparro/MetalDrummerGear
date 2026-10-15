@@ -43,4 +43,4 @@ A: MetalForge tracks all Zildjian series used by professional metal drummers. Vi
 
 ---
 
-*Source: [metalforge.io/gear/zildjian/a-custom-k-custom/drummers-using](https://metalforge.io/gear/zildjian/a-custom-k-custom/drummers-using) · Last updated: 2026-10-07*
+*Source: [metalforge.io/gear/zildjian/a-custom-k-custom/drummers-using](https://metalforge.io/gear/zildjian/a-custom-k-custom/drummers-using) · Last updated: 2026-10-15*

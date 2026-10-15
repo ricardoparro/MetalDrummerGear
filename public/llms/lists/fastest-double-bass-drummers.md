@@ -1,6 +1,6 @@
 # Top 10 Fastest Double Bass Drummers in Metal History — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-double-bass-drummers)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-double-bass-drummers)
 
 ---
 
@@ -121,7 +121,7 @@ Full drummer profile: [Gene Hoglan on MetalForge](https://metalforge.io/drummer/
 **Why ranked here:** Inferno's relentless double bass assault powers Behemoth's crushing sound. His precision at extreme tempos while maintaining groove is unmatched in black metal.
 **Documented speed:** 240+ BPM
 **Technique:** Heel-up technique with exceptional ankle flexibility
-**Key gear:** Pearl Masterworks kit, custom Czarcie Kopyto (Devil's Hoof) pedals
+**Key gear:** Pearl Reference Series kit, custom Czarcie Kopyto (Devil's Hoof) pedals
 
 **Notable facts:**
 - Uses custom Polish-made "Devil's Hoof" pedals
@@ -243,4 +243,4 @@ A: Lightweight, low-inertia pedals dominate: Axis Longboard (Derek Roddy), Pearl
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

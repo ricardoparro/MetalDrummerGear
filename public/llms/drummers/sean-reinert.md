@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/sean-reinert"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Sean Reinert — Drum Kit & Gear Setup
@@ -137,7 +137,7 @@ A: Sean Reinert's Human/Focus-era drum set was a Tama Artstar II birch shell kit
 
 **Q: What cymbals did Sean Reinert use?**
 
-A: Sean Reinert used Zildjian A Series cymbals on Death's Human (1991), then switched to the darker Zildjian K Series for Cynic's Focus (1993), before upgrading to Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air.
+A: Sean Reinert used a Zildjian A/K Series cymbal blend on both Death's Human (1991) and Cynic's Focus (1993), then narrowed to Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air.
 
 **Q: What snare drum did Sean Reinert use?**
 
@@ -222,4 +222,4 @@ Dated brand-endorsement timeline: [Sean Reinert's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

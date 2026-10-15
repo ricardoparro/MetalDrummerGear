@@ -34,7 +34,7 @@ Casagrande combines dual-bass-drum power with controlled musicality, balancing e
 
 ## Key Differences
 
-Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and an extensive Paiste array including Masters Dark and 2002 cymbals, driven by a Tama Iron Cobra double pedal. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a DW 9000 Series double pedal. Casagrande combines dual-bass-drum power with controlled musicality, balancing explosive double bass runs with dynamic sensitivity across both Sepultura's and Slipknot's demanding live sets. Larkin favors hard-hitting, straightforward power over technical flash, prioritizing feel and impact — the same approach that let him briefly fill in for Black Sabbath's touring lineup for one show in 1997.
+Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and an extensive Paiste array including Masters Dark and 2002 cymbals, driven by a Tama Iron Cobra double pedal. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals, powered by a DW 9000 Series double pedal. Casagrande combines dual-bass-drum power with controlled musicality, balancing explosive double bass runs with dynamic sensitivity across both Sepultura's and Slipknot's demanding live sets. Larkin favors hard-hitting, straightforward power over technical flash, prioritizing feel and impact — the same approach that let him briefly fill in for Black Sabbath's touring lineup for one show in 1997.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Eloy Casagrande and Shannon Larkin represent two generations of hard-hitting met
 ## FAQ
 
 **Q: What are the main differences between Eloy Casagrande's and Shannon Larkin's drum kits?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals, while Shannon Larkin uses ddrum Dios Series with Sabian cymbals. Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and an extensive Paiste array including Masters Dark and 2002 cymbals, driven by a Tama Iron Cobra double pedal. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a DW 9000 Series double pedal.
+A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals, while Shannon Larkin uses ddrum Dios Series with Sabian cymbals. Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and an extensive Paiste array including Masters Dark and 2002 cymbals, driven by a Tama Iron Cobra double pedal. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals, powered by a DW 9000 Series double pedal.
 
 **Q: What drums does Eloy Casagrande play vs Shannon Larkin?**
 A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Shannon Larkin plays ddrum Dios Series.
@@ -67,4 +67,4 @@ A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride,
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

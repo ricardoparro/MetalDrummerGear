@@ -1,32 +1,33 @@
 # What Pedals Does Chris Adler Use? Full Setup
 
-**Band:** Lamb of God | **Configuration:** double | **Drive Type:** unknown
+**Band:** Lamb of God | **Configuration:** double | **Drive Type:** direct
 
 ---
 
 ## Direct Answer
 
-Chris Adler plays a Mapex Falcon double pedal.
+Chris Adler plays a Trick Pro 1-V double pedal (direct-drive).
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
-| Brand | Mapex |
-| Model | Falcon |
+| Brand | Trick |
+| Model | Pro 1-V |
 | Configuration | double |
-| Drive Type | — |
+| Drive Type | direct |
 
-Verified roster hardware entry: "Mapex Falcon Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Trick Pro 1-V Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
+- Direct drive: Rigid rod, zero slack — the most immediate, "cam-less" connection between footboard and beater. The fastest and most consistent response of the three, with the least unaccounted-for sideways flex.
 - Double pedal: A primary pedal mounted on the hoop plus a slave pedal, linked by a drive shaft that runs along the floor and turns a second beater on the same head. Best suited to blast beats, sustained sixteenth-note kick patterns, and virtually every other modern metal subgenre.
 
 ## FAQ
 
 **Q: What pedals does Chris Adler use?**
-A: Chris Adler plays a Mapex Falcon double pedal.
+A: Chris Adler plays a Trick Pro 1-V double pedal (direct-drive).
 
 ## More Resources
 
@@ -37,4 +38,4 @@ A: Chris Adler plays a Mapex Falcon double pedal.
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

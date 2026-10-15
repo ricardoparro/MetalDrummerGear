@@ -1,6 +1,6 @@
 # Ludwig Bass Drum Pedals for Metal
 
-> Ludwig is the oldest American drum company, founded in 1909 on a first product that was itself a practical bass drum pedal. Its modern Atlas Pro double pedal is verified on the roster through Bill Ward's Black Sabbath-era setup.
+> Ludwig is the oldest American drum company, founded in 1909 on a first product that was itself a practical bass drum pedal. Its vintage Speed King single pedal is verified on the roster through Bill Ward's Black Sabbath-era setup; no drummer on the verified roster is currently documented on the modern Atlas Pro double pedal.
 
 ---
 
@@ -11,7 +11,7 @@
 
 ## Metal-Relevant Models
 
-- **Atlas Pro:** Ludwig's current double bass drum pedal, verified on the roster through Bill Ward (Black Sabbath).
+- **Speed King:** Ludwig's vintage single bass drum pedal, verified on the roster through Bill Ward (Black Sabbath) since 1970.
 
 ## Confirmed Metal Drummers (1)
 
@@ -36,4 +36,4 @@ Source: [Ludwig Drums — About](https://www.ludwig-drums.com/en-us/ludwig/about
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

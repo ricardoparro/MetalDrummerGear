@@ -1,6 +1,6 @@
 # Blake Richardson's Drum Setup on Between the Buried and Me's Automata II (2018)
 
-> Blake Richardson's drum kit and gear on BTBAM's Automata II (Jul 2018): Tama Starclassic Bubinga drums, Sabian Dark/Extra Dry cymbals, Tama Iron Cobra Power Glide double pedal, and the companion release that completes BTBAM's Automata concept arc — their most recent concept album.
+> Blake Richardson's drum kit and gear on BTBAM's Automata II (Jul 2018): Tama Starclassic Bubinga drums, Sabian Dark/Extra Dry cymbals, twin Tama Iron Cobra Power Glide single pedals, and the companion release that completes BTBAM's Automata concept arc — their most recent concept album.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Blake Richardson](/llms/drummers/blake-richardson.md)
@@ -27,7 +27,7 @@ This article covers the complete drum setup Blake Richardson used on Automata II
 - **Drums:** Tama Tama Starclassic Bubinga (Custom lacquer finish finish)
 - **Snare:** Tama Tama STARPHONIC Brass Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian Series (HHX Evolution, AAX, and HH)
-- **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Vic Firth American Classic 3A; Pearl Rack System; Remo Emperor Coated; Remo Powerstroke 3
+- **Hardware / Pedals:** Twin Tama Iron Cobra Power Glide Single Pedals; Vic Firth American Classic 3A; Pearl Rack System; Remo Emperor Coated; Remo Powerstroke 3
 - **Heads:** Evans G2 Coated (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium tension — same configuration as Automata I, warm authority across Automata II's full dynamic spectrum
 
@@ -65,7 +65,7 @@ For the complete evolution of Richardson's Sabian setup from the Colors era thro
 
 Automata II (2018) completes the most ambitious project of Blake Richardson's recording career — a two-part concept album that marks the culmination of BTBAM's consecutive concept album arc and demonstrates Richardson's drumming in its most fully developed form. Together with Automata I, it stands as the current endpoint of a progressive metal journey that began with Colors (2007) and has produced some of the genre's most studied and celebrated drumming.
 
-His Tama Starclassic Bubinga kit, Sabian full three-series cymbal spread, and Tama Iron Cobra Power Glide double pedal are the mature tools of a drummer who has spent two decades refining both his instrument and his musical intelligence in one of progressive metal's most demanding bands.
+His Tama Starclassic Bubinga kit, Sabian full three-series cymbal spread, and twin Tama Iron Cobra Power Glide single pedals are the mature tools of a drummer who has spent two decades refining both his instrument and his musical intelligence in one of progressive metal's most demanding bands.
 
 - **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)
 - **Companion release**: [Automata I drum setup (2018)](/articles/automata-i-drum-setup)
@@ -104,7 +104,7 @@ A: Automata II (July 2018) provides the narrative resolution for the artificial 
 
 **Q: What is Blake Richardson's drum setup across both Automata records?**
 
-A: Blake Richardson used an identical setup across both Automata I (February 2018) and Automata II (July 2018), reflecting the two records' status as a single conceptual project. Kit: Tama Starclassic Bubinga, bubinga shells, double 22"x18" bass drums, three rack toms (10", 12", 13"), 16" floor tom. Snare: Tama STARPHONIC Brass, 14"x6.5". Cymbals: Sabian 14" Dark Hi-Hats, 17" Extra Dry Thin Crash, 18" Dark Crash, 20" Extra Dry Ride, 10" Dark Splash, 18" China. Hardware: Tama Iron Cobra Power Glide double pedal, Pearl rack system, Vic Firth American Classic 3A sticks. The Tama Starclassic Bubinga kit has defined Richardson's setup since 2018, unchanged across the Automata era. See [Automata I drum setup](/articles/automata-i-drum-setup) for the companion article.
+A: Blake Richardson used an identical setup across both Automata I (February 2018) and Automata II (July 2018), reflecting the two records' status as a single conceptual project. Kit: Tama Starclassic Bubinga, bubinga shells, double 22"x18" bass drums, three rack toms (10", 12", 13"), 16" floor tom. Snare: Tama STARPHONIC Brass, 14"x6.5". Cymbals: Sabian 14" Dark Hi-Hats, 17" Extra Dry Thin Crash, 18" Dark Crash, 20" Extra Dry Ride, 10" Dark Splash, 18" China. Hardware: twin Tama Iron Cobra Power Glide single pedals, Pearl rack system, Vic Firth American Classic 3A sticks. The Tama Starclassic Bubinga kit has defined Richardson's setup since 2018, unchanged across the Automata era. See [Automata I drum setup](/articles/automata-i-drum-setup) for the companion article.
 
 ## Related Articles
 
@@ -116,4 +116,4 @@ A: Blake Richardson used an identical setup across both Automata I (February 201
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

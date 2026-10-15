@@ -6,7 +6,7 @@
 
 ## Direct Answer
 
-Shannon Larkin plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plosion Crash, 19" AAX X-Plosion Crash, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese.
+Shannon Larkin plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plosion Crash, 19" AAX X-Plosion Crash, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese.
 
 ## Cymbal Breakdown
 
@@ -15,11 +15,11 @@ Shannon Larkin plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plosion Cr
 | Hi-hat | 14" | AAX | Stage Hi-Hats |
 | Crash | 18" | AAX | X-Plosion Crash |
 | Crash | 19" | AAX | X-Plosion Crash |
-| Ride | 21" | HHX | Raw Bell Dry Ride |
+| Ride | 21" | AAX | Raw Bell Dry Ride |
 | Splash | 10" | AAX | Splash |
 | China | 18" | AAX | Chinese |
 
-Verified roster hardware entry: "Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -32,7 +32,7 @@ Verified roster hardware entry: "Sabian AAX & HHX Series (14" AAX Stage Hi-Hats,
 ## FAQ
 
 **Q: What cymbals does Shannon Larkin use?**
-A: Shannon Larkin plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plosion Crash, 19" AAX X-Plosion Crash, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese.
+A: Shannon Larkin plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plosion Crash, 19" AAX X-Plosion Crash, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese.
 
 ## More Resources
 
@@ -43,4 +43,4 @@ A: Shannon Larkin plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plosion
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

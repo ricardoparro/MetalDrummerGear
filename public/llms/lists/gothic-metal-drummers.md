@@ -1,6 +1,6 @@
 # Top 10 Gothic Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/gothic-metal-drummers)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/gothic-metal-drummers)
 
 ---
 
@@ -130,7 +130,7 @@ A: Gothic metal's foundational bands include Paradise Lost and My Dying Bride (w
 A: Gothic metal drumming prioritizes mood, dynamic contrast, and theatrical scale over sustained aggression — funereal, doom-paced restraint in verses giving way to symphonic, orchestral-scale bombast in choruses. Where death and doom metal drumming can stay heavy and slow throughout, gothic metal drumming swings between spacious, atmospheric passages and dramatic, dynamically-charged peaks, serving the genre's melancholic, theatrical songwriting rather than showcasing constant technical intensity.
 
 **Q: What gear do gothic metal drummers use?**
-A: Daray's Pearl Reference Pure kit with dark, theatrical Paiste RUDE and 2002 Series cymbals supports Dimmu Borgir's orchestral-scale black metal drama. Danny Carey's Sonor SQ2 kit with Paiste Signature cymbals and Mandala electronic pads gives Tool's dark atmospheric builds their hypnotic depth. Brann Dailor's Tama Starclassic Performer B/B kit with Meinl cymbals brings a melodic, moody dimension to Mastodon's heavy compositions. Across the genre's closest analogues, darker-voiced cymbals and kits capable of moving between spacious restraint and full orchestral weight are the shared requirement.
+A: Daray's Tama Starclassic Performer B/B kit with dark, theatrical Paiste RUDE and 2002 Series cymbals supports Dimmu Borgir's orchestral-scale black metal drama. Danny Carey's Sonor SQ2 kit with Paiste Signature cymbals and Mandala electronic pads gives Tool's dark atmospheric builds their hypnotic depth. Brann Dailor's Tama Starclassic Performer B/B kit with Meinl cymbals brings a melodic, moody dimension to Mastodon's heavy compositions. Across the genre's closest analogues, darker-voiced cymbals and kits capable of moving between spacious restraint and full orchestral weight are the shared requirement.
 
 
 ---
@@ -150,4 +150,4 @@ A: Daray's Pearl Reference Pure kit with dark, theatrical Paiste RUDE and 2002 S
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

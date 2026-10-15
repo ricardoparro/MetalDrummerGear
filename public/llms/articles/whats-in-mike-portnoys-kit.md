@@ -91,7 +91,7 @@ The prodigal son has returned. And he's brought his full arsenal with him.
 ## Key Facts
 
 - Returned to Dream Theater in 2023 after 13 years away
-- Tama Drums endorsee since the 1990s with signature snare drum
+- Tama Drums endorsee since 1985 with signature snare drum
 - Sabian HHX cymbals including custom/prototype models
 - Over 30 Modern Drummer magazine awards
 - Modern Drummer Hall of Fame inductee (2007)
@@ -136,4 +136,4 @@ A: A Tama Starclassic Maple and Birch kit in Portnoy's configuration with Octoba
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

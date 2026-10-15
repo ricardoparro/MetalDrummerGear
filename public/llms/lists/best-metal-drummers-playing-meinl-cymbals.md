@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Meinl Cymbals — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-meinl-cymbals)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-meinl-cymbals)
 
 ---
 
@@ -52,9 +52,9 @@ Full drummer profile: [Matt Halpern on MetalForge](https://metalforge.io/drummer
 
 **Band:** August Burns Red
 **Highlight:** Meinl Byzance Series — the deepest five-piece rig on this list
-**Why ranked here:** Matt Greiner runs the most extensive Meinl setup MetalForge has documented — 15" dual hi-hats, 18" and 19" dual crashes, a 21" Transition Ride, an 18" Extra Dry China, and both 10" and 12" splashes — a five-piece spread built to cover August Burns Red's dense, technically demanding metalcore arrangements across albums like "Messengers" and "Phantom Anthem." That splash-heavy configuration gives Greiner quick, articulate accents that a simpler three- or four-piece Meinl setup couldn't provide. Greiner earns rank #4 for the broadest and most versatile Byzance rig in MetalForge's database.
+**Why ranked here:** Matt Greiner runs the most extensive Meinl setup MetalForge has documented — 15" dual hi-hats, 18" and 19" dual crashes, a 21" Transition Ride, an 18" Extra Dry China, and both 10" and 12" splashes — a five-piece spread built to cover August Burns Red's dense, technically demanding metalcore arrangements across albums like "Leveler" and "Found in Far Away Places." That splash-heavy configuration gives Greiner quick, articulate accents that a simpler three- or four-piece Meinl setup couldn't provide. Greiner earns rank #4 for the broadest and most versatile Byzance rig in MetalForge's database.
 
-Matt Greiner (August Burns Red) earns rank #4 for: meinl byzance series — the deepest five-piece rig on this list. Matt Greiner runs the most extensive Meinl setup MetalForge has documented — 15" dual hi-hats, 18" and 19" dual crashes, a 21" Transition Ride, an 18" Extra Dry China, and both 10" and 12" splashes — a five-piece spread built to cover August Burns Red's dense, technically demanding metalcore arrangements across albums like "Messengers" and "Phantom Anthem." That splash-heavy configuration gives Greiner quick, articulate accents that a simpler three- or four-piece Meinl setup couldn't provide. Greiner earns rank #4 for the broadest and most versatile Byzance rig in MetalForge's database..
+Matt Greiner (August Burns Red) earns rank #4 for: meinl byzance series — the deepest five-piece rig on this list. Matt Greiner runs the most extensive Meinl setup MetalForge has documented — 15" dual hi-hats, 18" and 19" dual crashes, a 21" Transition Ride, an 18" Extra Dry China, and both 10" and 12" splashes — a five-piece spread built to cover August Burns Red's dense, technically demanding metalcore arrangements across albums like "Leveler" and "Found in Far Away Places." That splash-heavy configuration gives Greiner quick, articulate accents that a simpler three- or four-piece Meinl setup couldn't provide. Greiner earns rank #4 for the broadest and most versatile Byzance rig in MetalForge's database..
 
 Full drummer profile: [Matt Greiner on MetalForge](https://metalforge.io/drummer/matt-greiner)
 
@@ -125,7 +125,7 @@ A: Derek Roddy pairs Meinl's nuanced Byzance line (hi-hats and china) with the l
 ## Related Lists
 
 - [Top 7 Metal Drummers Playing Zildjian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-zildjian-cymbals.md)
-- [Top 10 Metal Drummers Playing Sabian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-sabian-cymbals.md)
+- [Top 9 Metal Drummers Playing Sabian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-sabian-cymbals.md)
 - [Top 10 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
 
 ## More Resources
@@ -137,4 +137,4 @@ A: Derek Roddy pairs Meinl's nuanced Byzance line (hi-hats and china) with the l
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,5 +1,5 @@
 # Metal Drum Gear by Brand — MetalForge
-> Last Updated: 2026-10-07 · Source: https://metalforge.io
+> Last Updated: 2026-10-15 · Source: https://metalforge.io
 
 A brand-first reference for LLM queries such as "Which metal drummers use Pearl drums?",
 "What Zildjian cymbals do famous metal drummers use?", or "Which death metal drummers use DW kits?"
@@ -23,7 +23,7 @@ Brand page: [/brands/pearl](https://metalforge.io/brands/pearl)
 
 **20 roster drummers:** [Joey Jordison (Slipknot, Nu Metal / Death Metal)](/llms/drummers/joey-jordison.md), [Gene Hoglan (Death / Testament / Dethklok, Death Metal / Thrash Metal)](/llms/drummers/gene-hoglan.md), [George Kollias (Nile, Technical Death Metal)](/llms/drummers/george-kollias.md), [Ray Luzier (Korn, Nu Metal)](/llms/drummers/ray-luzier.md), [Matt Halpern (Periphery, Progressive/Djent)](/llms/drummers/matt-halpern.md), [Inferno (Behemoth, Black/Death Metal)](/llms/drummers/inferno.md), [Nick Augusto (ex-Trivium, Metalcore / Thrash Metal)](/llms/drummers/nick-augusto.md), [Ryan Van Poederooyen (Devin Townsend Project, Progressive Metal / Extreme Metal)](/llms/drummers/ryan-van-poederooyen.md), [Richard Christy (Death / Iced Earth, Death Metal / Thrash Metal)](/llms/drummers/richard-christy.md), [Paul Mazurkiewicz (Cannibal Corpse, Death Metal)](/llms/drummers/paul-mazurkiewicz.md), [Mike Mangini (Godsmack (2026-present); Dream Theater (2010-2023), Progressive Metal)](/llms/drummers/mike-mangini.md), [Daniel Erlandsson (Arch Enemy, Melodic Death Metal)](/llms/drummers/daniel-erlandsson.md), [Jaska Raatikainen (Children of Bodom, Melodic Death Metal / Power Metal)](/llms/drummers/jaska-raatikainen.md), [Jocke Wallgren (Amon Amarth, Melodic Death Metal / Viking Metal)](/llms/drummers/jocke-wallgren.md), [Kevin Talley (Dying Fetus / Misery Index / Six Feet Under, Brutal Death Metal / Grindcore)](/llms/drummers/kevin-talley.md), [Paul Bostaph (Slayer, Thrash Metal)](/llms/drummers/paul-bostaph.md), [Nick Menza (Megadeth, Thrash Metal)](/llms/drummers/nick-menza.md), [Jimmy DeGrasso (Megadeth, Thrash Metal)](/llms/drummers/jimmy-degrasso.md), [John Longstreth (Origin, Technical Death Metal / Brutal Death Metal)](/llms/drummers/john-longstreth.md), [Waltteri Väyrynen (Opeth, Progressive Metal / Gothic Doom Metal)](/llms/drummers/waltteri-vayrynen.md)
 
-**Notable models:** Pearl Reference Series; Pearl Reference Pure; Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware); Pearl Masterworks; Pearl Masters Custom
+**Notable models:** Pearl Reference Series; Pearl Reference Pure; Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware); Pearl Masters Custom; Pearl Reference
 
 ### DW
 Brand page: [/brands/dw](https://metalforge.io/brands/dw)

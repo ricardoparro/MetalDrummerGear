@@ -23,7 +23,7 @@ For his prior work establishing the current-era drum sound, see [jocke-wallgren-
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Pure (Dark lacquer touring finish finish)
-- **Snare:** Pearl Pearl Reference 14" x 6.5" Brass, 14" x 6.5"
+- **Snare:** Pearl Pearl Reference Pure 14" x 6.5", 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Custom & K Custom Series
 - **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Vic Firth 5B; Evans EQ3; Evans G2 Coated
 - **Heads:** Evans Coated G1 (batter), Evans Hazy 300 Snare Side (resonant)
@@ -39,9 +39,9 @@ The four-tom spread (10", 12" racks; 16", 18" floors) supports the epic, multi-s
 
 ### Snare: Cutting Through Blast Beats and Gallop Alike
 
-Berserker's title track asks more of Wallgren's snare than most Amon Amarth material: the extended blast-beat sections require the drum to stay articulate at sustained high stroke rates without losing definition, while the Viking groove sections that follow need the same snare to deliver a fatter, more deliberate backbeat. His Pearl Reference brass snare — bright, cutting, and consistent whether struck rapidly or on the beat — handles both without a setup change mid-song.
+Berserker's title track asks more of Wallgren's snare than most Amon Amarth material: the extended blast-beat sections require the drum to stay articulate at sustained high stroke rates without losing definition, while the Viking groove sections that follow need the same snare to deliver a fatter, more deliberate backbeat. His snare matches his Pearl Reference Pure kit — the specific snare model and shell material have not been independently verified — and handles both demands without a setup change mid-song.
 
-Jay Ruston's production leaned on the snare's natural brightness rather than heavy post-processing, keeping the crack of each hit legible against Johan Söderberg and Olavi Mikkeli's dense guitar tracking. At 14" x 6.5", the drum has enough body to feel substantial in the album's gallop sections and enough high-frequency presence to punch through the blast-beat passages where every stroke needs to register distinctly.
+Jay Ruston's production kept the crack of each hit legible against Johan Söderberg and Olavi Mikkeli's dense guitar tracking. At 14" x 6.5", the drum has enough body to feel substantial in the album's gallop sections and enough presence to punch through the blast-beat passages where every stroke needs to register distinctly.
 
 ### Zildjian A Custom & K Custom: Bright Attack for the Album's Heaviest Material
 
@@ -113,4 +113,4 @@ A: Berserker was produced by Jay Ruston (Anthrax, Stone Sour) and tracked at Sph
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

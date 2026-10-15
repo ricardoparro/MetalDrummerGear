@@ -78,4 +78,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Zildjian, 
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

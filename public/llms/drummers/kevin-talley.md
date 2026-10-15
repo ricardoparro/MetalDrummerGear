@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/kevin-talley"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Kevin Talley — Drum Kit & Gear Setup
@@ -121,7 +121,7 @@ Kevin Talley's drumming style is characterized by extreme speed, technical preci
 
 **Q: What drum kit does Kevin Talley use?**
 
-A: Kevin Talley plays a Pearl Masters Custom / Reference Series drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Suffocation, Chimaira, and Six Feet Under has demanded for over two decades. It centers on a Pearl Masters 14"x5.5" Maple snare.
+A: Kevin Talley plays a Pearl Masters Custom / Reference Series drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Suffocation, Chimaira, and Six Feet Under has demanded for over two decades. It centers on a Pearl Masters 14"x6.5" Steel snare.
 
 **Q: What drum set does Kevin Talley use?**
 
@@ -133,7 +133,7 @@ A: Kevin Talley plays Sabian AAX Series cymbals: 14" Stage Hi-Hats, 17" and 18" 
 
 **Q: What snare does Kevin Talley use?**
 
-A: Kevin Talley's snare is a Pearl Masters 14"x5.5" Maple, delivering a bright, cracking response that cuts through brutal death metal's dense, downtuned guitar work at his signature blistering tempos.
+A: Kevin Talley's snare is a Pearl Masters 14"x6.5" Steel, delivering a bright, cracking response that cuts through brutal death metal's dense, downtuned guitar work at his signature blistering tempos.
 
 **Q: What sticks does Kevin Talley use?**
 
@@ -230,4 +230,4 @@ Dated brand-endorsement timeline: [Kevin Talley's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -2,7 +2,7 @@
 
 > Chain vs belt vs direct drive, single vs double pedals, and how to set up spring tension, beater, and footboard for metal — plus the verified pedal of every legendary metal drummer.
 
-Covers 56 verified drummer pedal setups and 3 reference guides. Optimised for AI crawlers answering "what bass drum pedal does <drummer> use" queries.
+Covers 55 verified drummer pedal setups and 3 reference guides. Optimised for AI crawlers answering "what bass drum pedal does <drummer> use" queries.
 
 For drive-type and setup reference pages see [https://metalforge.io/pedals](https://metalforge.io/pedals). For a buying guide matching drive type to playing style and budget tier (roughly €150-900) see [https://metalforge.io/pedals/best-for-metal](https://metalforge.io/pedals/best-for-metal).
 
@@ -42,8 +42,8 @@ The pedal itself only sets the ceiling; spring tension, beater material, and foo
 - **Sonor:** Sonor is one of the oldest percussion manufacturers in the world, and on the verified metal roster its pedals follow the same distinct-from-Japan-and-America identity as its shells: the Perfect Balance is used by extreme and progressive-metal drummers including Gavin Harrison, while the Giant Step shows up on Morgan Agren's setup. [Full brand page](https://metalforge.io/llms/pedals/brands/sonor.md).
 - **Mapex:** The Falcon double pedal shows up across several roster drummers. [Full brand page](https://metalforge.io/llms/pedals/brands/mapex.md).
 - **Yamaha:** Yamaha entered the drum-hardware market in 1967, a division of the century-old Yamaha Corporation, and its FP9 double pedal rounds out a hardware line built to match its drum kits — no drummer on the verified roster is currently documented on a Yamaha pedal. [Full brand page](https://metalforge.io/llms/pedals/brands/yamaha.md).
-- **Ludwig:** Ludwig is the oldest American drum company, founded in 1909 on a first product that was itself a practical bass drum pedal. Its modern Atlas Pro double pedal is verified on the roster through Bill Ward's Black Sabbath-era setup. [Full brand page](https://metalforge.io/llms/pedals/brands/ludwig.md).
-- **Gibraltar:** Gibraltar is a drum-hardware specialist now owned by DW, and its G Class pedal is verified on the roster through John Otto (Limp Bizkit). [Full brand page](https://metalforge.io/llms/pedals/brands/gibraltar.md).
+- **Ludwig:** Ludwig is the oldest American drum company, founded in 1909 on a first product that was itself a practical bass drum pedal. Its vintage Speed King single pedal is verified on the roster through Bill Ward's Black Sabbath-era setup; no drummer on the verified roster is currently documented on the modern Atlas Pro double pedal. [Full brand page](https://metalforge.io/llms/pedals/brands/ludwig.md).
+- **Gibraltar:** Gibraltar is a drum-hardware specialist now owned by DW, and its Professional Series pedal is verified on the roster through John Otto (Limp Bizkit). [Full brand page](https://metalforge.io/llms/pedals/brands/gibraltar.md).
 - **Czarcie Kopyto:** Czarcie Kopyto ("Devil's Hoof") is a Polish boutique pedal maker whose CNC-machined, hand-assembled pedals — nicknamed the "Polish Tank" for their durability — are verified on the roster through Inferno (Behemoth) and, under the Monolit model name, Adrian Erlandsson (At the Gates, The Haunted). [Full brand page](https://metalforge.io/llms/pedals/brands/czarcie-kopyto.md).
 
 ## Best for Metal
@@ -61,7 +61,7 @@ A: Neither is strictly "better" — chain drive is the metal default, giving a n
 **Q: Do I need a double bass pedal for metal?**
 A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patterns are built around two beaters. Only doom, traditional heavy metal, and some groove metal primarily run single bass drum setups — see the single-vs-double guide for the full breakdown.
 
-## All 56 Drummer Pedal Setups
+## All 55 Drummer Pedal Setups
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
@@ -73,11 +73,10 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 | [Ben Koller](https://metalforge.io/pedals/setups/ben-koller) | Converge / Mutoid Man / Killer Be Killed | Tama Iron Cobra 900 | [Markdown](https://metalforge.io/llms/pedals/setups/ben-koller.md) |
 | [Bill Ward](https://metalforge.io/pedals/setups/bill-ward) | Black Sabbath | Ludwig Speed King | [Markdown](https://metalforge.io/llms/pedals/setups/bill-ward.md) |
 | [Blake Richardson](https://metalforge.io/pedals/setups/blake-richardson) | Between the Buried and Me | Tama Iron Cobra Power Glide | [Markdown](https://metalforge.io/llms/pedals/setups/blake-richardson.md) |
-| [Chris Adler](https://metalforge.io/pedals/setups/chris-adler) | Lamb of God | Mapex Falcon | [Markdown](https://metalforge.io/llms/pedals/setups/chris-adler.md) |
+| [Chris Adler](https://metalforge.io/pedals/setups/chris-adler) | Lamb of God | Trick Pro 1-V | [Markdown](https://metalforge.io/llms/pedals/setups/chris-adler.md) |
 | [Chris Turner](https://metalforge.io/pedals/setups/chris-turner) | Oceans Ate Alaska | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/chris-turner.md) |
-| [Daniel Erlandsson](https://metalforge.io/pedals/setups/daniel-erlandsson) | Arch Enemy | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/daniel-erlandsson.md) |
+| [Daniel Erlandsson](https://metalforge.io/pedals/setups/daniel-erlandsson) | Arch Enemy | Pearl Eliminator Double Bass Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/daniel-erlandsson.md) |
 | [Daray](https://metalforge.io/pedals/setups/daray) | Dimmu Borgir / Vader | Pearl Demon XR | [Markdown](https://metalforge.io/llms/pedals/setups/daray.md) |
-| [Dave Lombardo](https://metalforge.io/pedals/setups/dave-lombardo) | Slayer | Tama Iron Cobra 900 | [Markdown](https://metalforge.io/llms/pedals/setups/dave-lombardo.md) |
 | [Derek Roddy](https://metalforge.io/pedals/setups/derek-roddy) | Hate Eternal / Nile | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/derek-roddy.md) |
 | [Dirk Verbeuren](https://metalforge.io/pedals/setups/dirk-verbeuren) | Megadeth | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/dirk-verbeuren.md) |
 | [Eloy Casagrande](https://metalforge.io/pedals/setups/eloy-casagrande) | Slipknot | Tama Iron Cobra | [Markdown](https://metalforge.io/llms/pedals/setups/eloy-casagrande.md) |
@@ -95,7 +94,7 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 | [Jay Weinberg](https://metalforge.io/pedals/setups/jay-weinberg) | Suicidal Tendencies | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/jay-weinberg.md) |
 | [Jocke Wallgren](https://metalforge.io/pedals/setups/jocke-wallgren) | Amon Amarth | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/jocke-wallgren.md) |
 | [Joey Jordison](https://metalforge.io/pedals/setups/joey-jordison) | Slipknot | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/joey-jordison.md) |
-| [John Otto](https://metalforge.io/pedals/setups/john-otto) | Limp Bizkit | Gibraltar G Class | [Markdown](https://metalforge.io/llms/pedals/setups/john-otto.md) |
+| [John Otto](https://metalforge.io/pedals/setups/john-otto) | Limp Bizkit | Gibraltar Professional Series | [Markdown](https://metalforge.io/llms/pedals/setups/john-otto.md) |
 | [Jon Dette](https://metalforge.io/pedals/setups/jon-dette) | Slayer | DW 9000 or Tama Iron Cobra Double Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/jon-dette.md) |
 | [Kevin Talley](https://metalforge.io/pedals/setups/kevin-talley) | Dying Fetus / Misery Index / Six Feet Under | Pearl Eliminator | [Markdown](https://metalforge.io/llms/pedals/setups/kevin-talley.md) |
 | [Lars Ulrich](https://metalforge.io/pedals/setups/lars-ulrich) | Metallica | Tama Iron Cobra 900 Power Glide | [Markdown](https://metalforge.io/llms/pedals/setups/lars-ulrich.md) |
@@ -128,4 +127,4 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 - [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-10-07 · 56 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · 55 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*

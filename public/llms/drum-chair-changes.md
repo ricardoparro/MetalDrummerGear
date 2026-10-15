@@ -3,7 +3,7 @@
 > Every documented drum-chair change (one drummer handing off to the next) across MetalForge's tracked metal bands, most recent first.
 > Optimised for queries like 'who is the new drummer for <band>', 'who replaced <drummer>'.
 
-> Last updated: 2026-10-07 · 122 changes across 47 bands
+> Last updated: 2026-10-15 · 122 changes across 47 bands
 
 ---
 
@@ -73,7 +73,7 @@
 - **2004** — [Nile](https://metalforge.io/bands/nile): Tony Laureano → George Kollias — Joined before Annihilation of the Wicked; drummer on all Nile albums since 2005
 - **2004** — [Megadeth](https://metalforge.io/bands/megadeth): Jimmy Degrasso → Vinnie Colaiuta — Session drummer for The System Has Failed only
 - **2004** — [Megadeth](https://metalforge.io/bands/megadeth): Vinnie Colaiuta → Shawn Drover — Longest-serving Megadeth drummer; four studio albums
-- **2004** — [Testament](https://metalforge.io/bands/testament): Jon Dette → Paul Bostaph — Touring only
+- **2004** — [Testament](https://metalforge.io/bands/testament): Dave Lombardo → Paul Bostaph — Touring only
 - **2004** — [Vader](https://metalforge.io/bands/vader): Marcin Golebiewski → Daray — Dariusz Brzozowski; stand-in from Feb 2004, permanent from March 2005; recorded The Beast and Impressions in Blood; also drummer for Dimmu Borgir
 - **2004** — [Between the Buried and Me](https://metalforge.io/bands/between-the-buried-and-me): Mark Castillo → Jason Roe — No studio album recorded during this tenure
 - **2003** — [Between the Buried and Me](https://metalforge.io/bands/between-the-buried-and-me): Michael Howard Reig → Mark Castillo — Recorded The Silent Circus (2003), his only album with the band
@@ -88,13 +88,13 @@
 
 ## 1990s
 
-- **1999** — [Testament](https://metalforge.io/bands/testament): Gene Hoglan → Dave Lombardo — Recorded The Gathering
-- **1999** — [Testament](https://metalforge.io/bands/testament): Dave Lombardo → Jon Dette — Second touring stint
+- **1999** — [Testament](https://metalforge.io/bands/testament): Jon Dette → Dave Lombardo — Recorded The Gathering
 - **1999** — [Vader](https://metalforge.io/bands/vader): Doc → Marcin Golebiewski — Known as "Ząbek"; brief touring fill-in only, did not appear on a studio album
 - **1998** — [Megadeth](https://metalforge.io/bands/megadeth): Nick Menza → Jimmy Degrasso — Drummer on Risk and The World Needs a Hero
 - **1998** — [Amon Amarth](https://metalforge.io/bands/amon-amarth): Martin Lopez → Fredrik Andersson — Recorded eight studio albums; parted ways with the band in March 2015
 - **1998** — [Arch Enemy](https://metalforge.io/bands/arch-enemy): Peter Wildoer → Daniel Erlandsson — Returned in 1998; has drummed on every album since Burning Bridges (1999) through Blood Dynasty (2025)
 - **1997** — [Death](https://metalforge.io/bands/death): Gene Hoglan → Richard Christy — Recorded The Sound of Perseverance (1998); remained until the band's dissolution
+- **1997** — [Testament](https://metalforge.io/bands/testament): Gene Hoglan → Jon Dette — Second touring stint, covering Demonic-era live dates after Hoglan's first stint ended
 - **1997** — [Opeth](https://metalforge.io/bands/opeth): Anders Nordin → Martin Lopez — Also founding member of Soen; left due to stress-related illness
 - **1997** — [Behemoth](https://metalforge.io/bands/behemoth): Baal Ravenlock → Inferno — Zbigniew Promiński; briefly left around the release of Satanica (1999), returned early 2000; took paternity leave July 2017 with Jan "the Charn" Rice filling in on tour
 - **1997** — [Arch Enemy](https://metalforge.io/bands/arch-enemy): Daniel Erlandsson → Peter Wildoer — Filled in during Erlandsson's absence; primary drummer credited on Stigmata (1998)
@@ -151,4 +151,4 @@
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

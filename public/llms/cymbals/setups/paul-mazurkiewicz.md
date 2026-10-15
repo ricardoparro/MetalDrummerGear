@@ -41,4 +41,4 @@ A: Paul Mazurkiewicz plays Meinl cymbals: 14" Classics Custom Dark Hi-Hats, 18" 
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

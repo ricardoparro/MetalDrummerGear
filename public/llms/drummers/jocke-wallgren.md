@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jocke-wallgren"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Jocke Wallgren — Drum Kit & Gear Setup
@@ -23,12 +23,12 @@ Jocke Wallgren's drum kit and gear setup. Jocke Wallgren is a professional metal
 | Country | Sweden |
 | Primary brand | Pearl |
 | Drum kit | Pearl Reference Pure |
-| Signature snare | Pearl Reference 14x6.5" Brass |
+| Signature snare | Pearl Reference Pure 14x6.5" |
 | Sticks | Vic Firth American Classic 5B |
 
 ## Kit Overview
 
-Jocke Wallgren plays a Pearl Reference Pure drum kit — the versatile, hybrid-shell configuration that has powered Amon Amarth's Viking metal assault since he joined the band in 2016. The Jocke Wallgren drum set centers on a Pearl Reference 14x6.5" Brass snare, delivering the bright, cutting crack that projects through Amon Amarth's dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages worldwide.
+Jocke Wallgren plays a Pearl Reference Pure drum kit — the versatile, hybrid-shell configuration that has powered Amon Amarth's Viking metal assault since he joined the band in 2016. The Jocke Wallgren drum set centers on the matching Pearl Reference Pure 14x6.5" snare, delivering the warm, full-bodied crack that projects through Amon Amarth's dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages worldwide.
 
 Zildjian A Custom and K Custom Series cymbals define the Jocke Wallgren drum kit's sonic character: 14" A Custom Hi-Hats for tight, driving patterns; 18" and 19" A Custom Crashes for explosive accents that punctuate Amon Amarth's galloping riffs; and a 21" K Custom Ride for dark, controlled rhythmic definition. A Pearl Demon Drive double pedal anchors his double bass work, giving Wallgren the speed and stability needed for the band's driving, groove-oriented tempos. Vic Firth American Classic 5B sticks and Evans drumheads complete the rig — a setup built for consistency across Amon Amarth's relentless touring schedule since Jomsviking (2016) and Berserker (2019).
 
@@ -89,7 +89,7 @@ Jocke Wallgren's drumming style emphasizes power, groove, and consistency. His a
 ## Gear
 
 - **Drums:** Pearl Reference Pure
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl Reference Pure 14x6.5"
 - **Cymbals:** Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride)
 - **Hardware:** Pearl Demon Drive Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
@@ -222,4 +222,4 @@ Dated brand-endorsement timeline: [Jocke Wallgren's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

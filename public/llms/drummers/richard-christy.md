@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/richard-christy"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Richard Christy — Drum Kit & Gear Setup
@@ -31,7 +31,7 @@ Richard Christy's drum kit and gear setup. Richard Christy is a professional met
 
 Richard Christy played a Pearl Masters Custom drum kit — a nine-piece Canadian Birds Eye Maple shell pack he used to record Death's technical, genre-defining swan song "The Sound of Perseverance" alongside Chuck Schuldiner. At the heart of the Richard Christy drum set is a Pearl Masters Custom 14x6.5" maple snare, warm enough to sit underneath Death's intricate, progressive arrangements while still delivering the crack needed for his rapid-fire blast beats and complex time-signature work.
 
-Sabian AAX and HHX Series cymbals define the voice of the Richard Christy drum kit: 14" AAX Stage Hi-Hats for tight control through odd-meter passages; 18" and 19" AAX X-Plosion Crashes for sharp, fast-decaying accents; a 21" HHX Raw Bell Dry Ride for dark, articulate timekeeping; and an 18" AAX Chinese cymbal for abrupt punctuation on technical fills. An Axis A Longboard double pedal gives Christy the speed and precision behind his double-bass patterns, a technique he carried from Death into Iced Earth and his own progressive death metal band, Charred Walls of the Damned.
+Sabian AA/AAX Series cymbals define the voice of the Richard Christy drum kit: 14" AAX Stage Hi-Hats for tight control through odd-meter passages; 18" and 19" AAX X-Plosion Crashes for sharp, fast-decaying accents; and an 18" AAX Chinese cymbal for abrupt punctuation on technical fills. An Axis A Longboard double pedal gives Christy the speed and precision behind his double-bass patterns, a technique he carried from Death into Iced Earth and his own progressive death metal band, Charred Walls of the Damned.
 
 Vic Firth American Classic 5A sticks and Evans drumheads round out the Richard Christy drum set — a comparatively lightweight, classic-diameter stick choice that favors the finesse and articulation his technical style demands. Christy's Pearl and Sabian setup has remained the backbone of his studio and live sound since his earliest recordings with Chuck Schuldiner.
 
@@ -100,7 +100,7 @@ Richard Christy's drumming style is characterized by exceptional speed, technica
 
 - **Drums:** Pearl Masters Custom
 - **Snare:** Pearl Masters Custom 14x6.5" Maple
-- **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)
+- **Cymbals:** Sabian AA/AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 18" AAX Chinese)
 - **Hardware:** Axis A Longboard Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Evans
@@ -130,7 +130,7 @@ A: Richard Christy's drum set pairs a Pearl Masters Custom shell pack and his Pe
 
 **Q: What cymbals does Richard Christy play?**
 
-A: Richard Christy plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, and an 18" AAX Chinese.
+A: Richard Christy plays Sabian AA/AAX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, and an 18" AAX Chinese.
 
 **Q: What snare does Richard Christy use?**
 
@@ -154,7 +154,7 @@ A: Richard Christy recorded with Death from 1996-2001, played with Iced Earth fr
 
 **Q: What hi-hats does Richard Christy use?**
 
-A: Richard Christy plays 14" Sabian AAX Stage Hi-Hats, part of the AAX and HHX cymbal setup he used on Death's The Sound of Perseverance and with Iced Earth.
+A: Richard Christy plays 14" Sabian AAX Stage Hi-Hats, part of the AA/AAX cymbal setup he used on Death's The Sound of Perseverance and with Iced Earth.
 
 ## Trivia
 
@@ -194,14 +194,13 @@ Richard Christy's snare: Pearl Custom Z 14x6.5" Maple. See the [snares guide](ht
 
 ## Cymbal Setup
 
-Richard Christy's cymbals: Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese).
+Richard Christy's cymbals: Sabian AA/AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 18" AAX Chinese).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
 | hi-hat | 14" | AAX | Stage Hi-Hats |
 | crash | 18" | AAX | X-Plosion Crash |
 | crash | 19" | AAX | X-Plosion Crash |
-| ride | 21" | HHX | Raw Bell Dry Ride |
 | china | 18" | AAX | Chinese |
 
 Full breakdown: [Richard Christy's cymbal setup](https://metalforge.io/cymbals/setups/richard-christy).
@@ -243,4 +242,4 @@ Dated brand-endorsement timeline: [Richard Christy's endorsement history](https:
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

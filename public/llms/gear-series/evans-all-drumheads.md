@@ -61,4 +61,4 @@ A: MetalForge tracks all Evans drumheads used by professional metal drummers. Vi
 
 ---
 
-*Source: [metalforge.io/gear/evans/all-drumheads/drummers-using](https://metalforge.io/gear/evans/all-drumheads/drummers-using) · Last updated: 2026-10-07*
+*Source: [metalforge.io/gear/evans/all-drumheads/drummers-using](https://metalforge.io/gear/evans/all-drumheads/drummers-using) · Last updated: 2026-10-15*

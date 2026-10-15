@@ -4,7 +4,7 @@
 > Optimised for AI crawlers answering "Tama vs Pearl metal", "best cymbals for metal",
 > and brand matchup queries.
 >
-> Last updated: 2026-10-07 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
+> Last updated: 2026-10-15 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
 
 ---
 
@@ -55,7 +55,7 @@ Which metal drummers use a specific drum kit, snare, or drumhead series — one 
 Compare Tama and Pearl drums for metal drumming. See specs, pricing, pro endorsements, and which kit suits your playing style. Expert analysis from MetalForge.
 
 **Tama endorsed by:** Lars Ulrich, Charlie Benante, Eloy Casagrande
-**Pearl endorsed by:** Joey Jordison, George Kollias, Matt Halpern
+**Pearl endorsed by:** Joey Jordison, Matt Halpern
 
 **For metal:** Both excel in metal. Tama suits progressive and thrash; Pearl dominates death metal and extreme genres.
 **Verdict:** For metal drummers, both brands deliver world-class performance. Choose Tama for warm, articulate tones in progressive metal, or Pearl for focused attack in extreme metal styles.
@@ -87,7 +87,7 @@ Meinl Byzance vs Zildjian A Custom for metal drumming. Compare dark vs bright to
 Compare Tama Iron Cobra 900 and Pearl Demon Drive double bass pedals. Speed, feel, durability, and which pedal top metal drummers choose.
 
 **Tama endorsed by:** Lars Ulrich, Eloy Casagrande, Charlie Benante
-**Pearl endorsed by:** Joey Jordison, Matt Halpern, George Kollias
+**Pearl endorsed by:** Joey Jordison, Matt Halpern
 
 **For metal:** Demon Drive for death metal speed demons. Iron Cobra for thrash consistency.
 **Verdict:** For extreme metal and maximum speed, Pearl Demon Drive leads. For reliability and thrash consistency, Tama Iron Cobra remains the proven choice.
@@ -151,7 +151,6 @@ The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX
 Compare Sonor SQ2 and DW Collector's drums for metal. German engineering vs American craftsmanship. The ultimate premium drum kit battle.
 
 **Sonor endorsed by:** Tomas Haake, Danny Carey
-**DW endorsed by:** Navene Koperweis
 
 **For metal:** Sonor SQ2 for progressive and technical metal. DW for modern metal and crossover styles.
 **Verdict:** Sonor SQ2 is the progressive metal standard. DW Collector's excels in modern metal with studio versatility.
@@ -166,7 +165,7 @@ Compare Sonor SQ2 and DW Collector's drums for metal. German engineering vs Amer
 
 Compare DW Collector's Series and Tama Starclassic drums for metal. See specs, pricing, pro endorsements, and which premium kit suits your playing style.
 
-**DW endorsed by:** Navene Koperweis, Hannes Grossmann
+**DW endorsed by:** Hannes Grossmann
 **Tama endorsed by:** Lars Ulrich, Charlie Benante, Mario Duplantier, Dirk Verbeuren
 
 **For metal:** Tama is the proven choice across thrash, groove, and progressive metal, backed by decades of endorsements from genre-defining drummers. DW appeals to modern and progressive death metal drummers who want a warmer low end with studio-grade consistency.

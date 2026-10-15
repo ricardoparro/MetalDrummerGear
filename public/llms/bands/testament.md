@@ -20,10 +20,10 @@ Testament, formed in 1983 in Berkeley, California, is one of the most enduring b
 - **Louie Clemente** — 1983-1992 (Original/founding drummer; played on the first five studio albums)
 - **Paul Bostaph** — 1992-1993 (Interim touring drummer for The Ritual tour before John Tempesta joined; no studio album from this stint)
 - **John Tempesta** — 1993-1994 (Recorded Low, then left to join White Zombie)
-- **Jon Dette** — 1994-1996 (Touring drummer after Tempesta's departure)
+- **Jon Dette** — 1994-1995 (Touring drummer after Tempesta's departure)
 - **Gene Hoglan** — 1996-1997 (First stint; recorded Demonic)
+- **Jon Dette** — 1997-1998 (Second touring stint, covering Demonic-era live dates after Hoglan's first stint ended)
 - **Dave Lombardo** — 1999-2000 (Recorded The Gathering)
-- **Jon Dette** — 1999-2001 (Second touring stint)
 - **Paul Bostaph** — 2004 (Touring only)
 - **Paul Bostaph** — 2007-2011 (Full-time stint; recorded The Formation of Damnation)
 - **Gene Hoglan** — 2011-2022 (Second, longer stint; recorded Dark Roots of Earth, Brotherhood of the Snake, and Titans of Creation)
@@ -45,7 +45,7 @@ Testament, formed in 1983 in Berkeley, California, is one of the most enduring b
 - **Louie Clemente** — drums — 1983-1992 (Original drummer; played on the band's first five studio albums)
 - **Paul Bostaph** — drums — 1992-1993, 2004 (touring), 2007-2011 (Interim touring drummer in 1992-1993 before Tempesta joined; later returned full-time and recorded The Formation of Damnation)
 - **John Tempesta** — drums — 1993-1994 (Former Exodus drummer; recorded Low (1994), then left to join White Zombie)
-- **Jon Dette** — drums — 1994-1996, 1999-2001 (Filled in for touring after Tempesta's departure; also toured with Slayer and Anthrax)
+- **Jon Dette** — drums — 1994-1995, 1997-1998 (Touring-only drummer in two stints: after Tempesta's departure, then again after Hoglan's first stint ended; also toured with Slayer and Anthrax)
 - **Gene Hoglan** — drums — 1996-1997, 2011-2022 (Known as 'The Atomic Clock'; recorded Demonic (1997) in his first stint, then Dark Roots of Earth, Brotherhood of the Snake, and Titans of Creation after rejoining in 2011)
 - **Dave Lombardo** — drums — 1999-2000, 2022-2023 (Recorded The Gathering (1999); rejoined briefly in 2022 before Chris Dovas took over in 2023)
 
@@ -103,4 +103,4 @@ A: Louie Clemente, the band's original drummer, played on The Legacy (1987), The
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

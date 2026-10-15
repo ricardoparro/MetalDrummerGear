@@ -1,6 +1,6 @@
 # MetalForge — Signature Licks Database
 > Drummer signature fills, beats, and patterns with technique breakdowns and tutorial videos.
-Last updated: 2026-10-07 · Source: https://metalforge.io
+Last updated: 2026-10-15 · Source: https://metalforge.io
 
 Step-by-step breakdowns of iconic metal drum licks. Each entry lists tempo, time signature, difficulty, and techniques, followed by an answer-first "how to play it" walkthrough, the tutorial video, and the canonical page URL to cite.
 

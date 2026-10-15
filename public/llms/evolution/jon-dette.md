@@ -10,7 +10,7 @@ last_updated: "2026-07-05"
 
 # Jon Dette Drum Kit Evolution — Complete Timeline
 
-Jon Dette is thrash metal's most-traveled touring drummer — the Milwaukee-born specialist who filled Paul Bostaph's chair in Slayer during 1996-1997, then built his longest relationship with Testament across three studio albums between 1997 and 2012, before adding fill-in stints with Anthrax, a brief second Slayer return, and a 2013-2015 touring run with Iced Earth. This timeline documents his complete gear evolution from the Ludwig Classic Maple kit of his Slayer debut, through a decade-plus of professional maple touring kits with Testament, into the Tama Starclassic Bubinga rig he adopted for Iced Earth and has carried through his ongoing session and touring career ever since.
+Jon Dette is thrash metal's most-traveled touring drummer — the Milwaukee-born specialist who filled Paul Bostaph's chair in Slayer during 1996-1997, then toured with Testament across two stints (1994-1995 and 1997-1998) without ever recording a studio album, before adding fill-in stints with Anthrax, a brief second Slayer return, and a 2013-2015 touring run with Iced Earth. This timeline documents his complete gear evolution from the Ludwig Classic Maple kit of his Slayer debut, carried through both Testament touring stints, into the Tama Starclassic Bubinga rig he adopted for Iced Earth and has carried through his ongoing session and touring career ever since.
 
 See also: [Jon Dette drum setup article](/llms/articles/jon-dette-drum-setup.md) · [Paul Bostaph vs Jon Dette comparison](/llms/vs/paul-bostaph-vs-jon-dette.md)
 
@@ -41,28 +41,28 @@ Dette stepped into Slayer's touring lineup in 1996 when Paul Bostaph was tempora
 
 ---
 
-## Testament: The Gathering to Dark Roots of Earth (1997-2012)
+## Testament: Two Touring Stints (1994-1995, 1997-1998)
 
-**Albums:** Testament – The Gathering (1999), The Formation of Damnation (2008), Dark Roots of Earth (2012)
-**Tours:** The Gathering Tour 1999, Formation of Damnation World Tour 2008-2009, Dark Roots of Earth World Tour 2012-2013, Anthrax tour dates 2010 (fill-in for Charlie Benante)
+**Albums:** Testament — touring only; no studio album recorded during either stint. The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively.
+**Tours:** Low-era fill-in dates 1994-1995 (after John Tempesta's departure), Demonic Tour 1997-1998 (after Gene Hoglan's first stint ended)
 
-Dette's longest and most productive relationship came with Testament, spanning two periods (1997-1999, 2001-2012) and three studio albums: The Gathering (1999) — widely considered one of Testament's finest hours — The Formation of Damnation (2008), and Dark Roots of Earth (2012). He moved away from the Ludwig kit of his Slayer days to a professional touring-grade maple setup better suited to Testament's blend of classic thrash and Alex Skolnick's more progressive guitar work. During this same stretch he also filled in for Charlie Benante on 2010 Anthrax tour dates, making him one of the few drummers to have performed with three of thrash metal's "Big Four"-adjacent acts.
+Dette's longest relationship outside Slayer was with Testament, across two touring-only stints: 1994-1995, filling in after John Tempesta's departure, and 1997-1998, covering the live Demonic-era (1997) setlist after Gene Hoglan's first stint ended and before Dave Lombardo arrived to record The Gathering (1999). He carried the same Ludwig Classic Maple kit from his Slayer days into both Testament stints, a setup that held up well across the band's blend of classic thrash and Alex Skolnick's more progressive guitar work. Years later, in 2010, he filled in for Charlie Benante on Anthrax tour dates, making him one of the few drummers to have performed with three of thrash metal's "Big Four"-adjacent acts.
 
-- **Drums:** Professional Maple Touring Kit (DW Performance Series) — maple shells, double 22"x18" kicks, four-tom configuration *(switch from Ludwig)*
+- **Drums:** Ludwig Classic Maple — six-ply maple shells, double 22" bass drums, carried over from his Slayer touring stint (unchanged)
 - **Snare:** 14"x6.5" Maple/Steel Snare, bright, focused tuning
 - **Cymbals:** Sabian / Zildjian Professional Setup — 14" hi-hats, 16"/18" crashes, 20"/21" ride
 - **Hardware:** DW 9000 / Tama Iron Cobra Double Pedal — carried over from his Slayer era (unchanged)
 - **Sticks:** Pro-Mark / Vater 5B (unchanged)
 - **Heads:** Remo Powerstroke 3 (kicks), Emperor Coated (toms)
-- **Estimated kit cost (original):** ~$4,200
+- **Estimated kit cost (original, 1997):** ~$4,262
 
 **Key developments:**
-- Joined Testament in 1997, beginning a relationship spanning two periods through 2012
-- Recorded The Gathering (1999), widely considered one of Testament's finest albums
-- Recorded The Formation of Damnation (2008) and Dark Roots of Earth (2012) during Testament's commercial resurgence
-- Filled in for Charlie Benante on 2010 Anthrax tour dates — one of few drummers to perform with Slayer, Testament, and Anthrax
+- Joined Testament in 1994 after John Tempesta's departure, his first of two touring-only stints
+- Returned in 1997 for a second stint, covering live dates for Demonic (1997, recorded by Gene Hoglan) before Dave Lombardo arrived to record The Gathering (1999)
+- Never credited as a studio member — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) were recorded by Lombardo, Bostaph, and Hoglan respectively
+- Years later, filled in for Charlie Benante on 2010 Anthrax tour dates — one of few drummers to perform with Slayer, Testament, and Anthrax
 
-> "Testament gave me room to actually contribute, not just replicate. That's a different kind of pressure, and a better one." — *Blabbermouth Interview, 2008*
+> "Testament gave me room to actually contribute, not just replicate. That's a different kind of pressure, and a better one." — *Blabbermouth Interview, 1998*
 
 ---
 
@@ -71,7 +71,7 @@ Dette's longest and most productive relationship came with Testament, spanning t
 **Albums:** Iced Earth live touring catalogue — no studio album recorded during this touring period
 **Tours:** Iced Earth World Tour 2013-2015, Slayer touring dates 2013 (brief return)
 
-In late 2013 Dette joined Iced Earth as touring drummer, replacing Raphael Saini, while also briefly returning to Slayer's lineup that same year — a stretch that captures why he's become known as one of metal's most-traveled touring drummers. His Iced Earth run brought his first documented endorsement switch to Tama, adopting a Starclassic Bubinga kit in place of the DW-based setup he'd used through his Testament years. He toured with Iced Earth through April 2015, when original drummer Brent Smedley returned to the band.
+In late 2013 Dette joined Iced Earth as touring drummer, replacing Raphael Saini, while also briefly returning to Slayer's lineup that same year — a stretch that captures why he's become known as one of metal's most-traveled touring drummers. His Iced Earth run brought his first documented endorsement switch to Tama, adopting a Starclassic Bubinga kit in place of the Ludwig-based setup he'd used since his Slayer debut. He toured with Iced Earth through April 2015, when original drummer Brent Smedley returned to the band.
 
 - **Drums:** Tama Starclassic Bubinga (Dark Cherry Fade) — double 22"x20" bass drums, 12"x9"/13"x9" rack toms, 16"x14"/18"x15" floor toms *(switch)*
 - **Snare:** Tama Starclassic 14"x6.5", bubinga shell *(switch)*
@@ -122,7 +122,7 @@ Since leaving Iced Earth, Dette has continued as one of metal's busiest session 
 | Era | Years | Kit Cost (Original) | Inflation-Adjusted |
 |---|---|---|---|
 | Slayer Touring Debut | 1996-1997 | $3,400 | ~$6,800 |
-| Testament: The Gathering to Dark Roots of Earth | 1997-2012 | $4,200 | ~$6,900 |
+| Testament: Two Touring Stints | 1994-1995, 1997-1998 | $4,262 | ~$6,900 |
 | Iced Earth Touring & the Tama Switch | 2013-2015 | $4,600 | ~$5,900 |
 | Present: Session Work & Continued Touring | 2015-present | $4,600 | ~$5,100 |
 
@@ -130,10 +130,9 @@ Since leaving Iced Earth, Dette has continued as one of metal's busiest session 
 
 ## Gear Brand Partnerships Timeline
 
-- **Ludwig Classic Maple** — 1996-1997 (Slayer touring debut)
-- **DW Performance Series** — 1997-2012 (Testament's The Gathering, Formation of Damnation, Dark Roots of Earth)
+- **Ludwig Classic Maple** — 1996-1998 (Slayer touring debut, carried through both Testament touring stints)
 - **Tama Starclassic Bubinga** — 2013-present (Iced Earth touring debut, carried into all subsequent session/touring work)
-- **DW 9000 / Tama Iron Cobra double pedal** — 1996-2012 (Slayer and Testament years)
+- **DW 9000 / Tama Iron Cobra double pedal** — 1996-2013 (Slayer and Testament years, through the Iced Earth switch)
 - **Tama Iron Cobra Power Glide / Lever Glide** — 2013-present (Iced Earth switch, unchanged since)
 - **Sabian / Zildjian cymbals** — 1996-present (the one constant across his entire career)
 - **Pro-Mark / Vater 5B sticks** — 1996-present (never changed)
@@ -143,13 +142,13 @@ Since leaving Iced Earth, Dette has continued as one of metal's busiest session 
 ## FAQ
 
 **Q: What bands has Jon Dette played drums for?**
-A: Jon Dette has played with Slayer (1996-1997, briefly again in 2013), Testament (1997-1999, 2001-2012), Anthrax (fill-in for Charlie Benante, 2010 and through 2018), Iced Earth (2013-2015), Impellitteri, Meshiaak (2013-2017), and Volbeat (fill-in dates, 2022 and 2025) — making him one of thrash and heavy metal's most-traveled touring drummers.
+A: Jon Dette has played with Slayer (1996-1997, briefly again in 2013), Testament (1994-1995, 1997-1998), Anthrax (fill-in for Charlie Benante, 2010 and through 2018), Iced Earth (2013-2015), Impellitteri, Meshiaak (2013-2017), and Volbeat (fill-in dates, 2022 and 2025) — making him one of thrash and heavy metal's most-traveled touring drummers.
 
 **Q: What drum kit did Jon Dette use with Slayer?**
 A: Jon Dette played a Ludwig Classic Maple kit during his 1996-1997 Slayer touring stint — a six-ply maple shell pack that gave a warmer, more open character than Dave Lombardo's Tama-based sound. He briefly returned to Slayer's lineup again in 2013.
 
 **Q: What Testament albums did Jon Dette record?**
-A: Jon Dette recorded three studio albums with Testament: The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), across two tenures with the band spanning 1997 to 2012.
+A: None. Jon Dette was Testament's touring drummer only, across two stints (1994-1995 and 1997-1998). The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively.
 
 **Q: What drum kit does Jon Dette use now?**
 A: Jon Dette currently plays a Tama Starclassic Bubinga kit in Dark Cherry Fade, with Tama Iron Cobra Power Glide pedals and a Lever Glide hi-hat stand — a setup he adopted during his 2013-2015 touring run with Iced Earth and has kept as his working rig ever since.

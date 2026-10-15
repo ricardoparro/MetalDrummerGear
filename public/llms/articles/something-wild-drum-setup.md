@@ -92,7 +92,7 @@ A: *Something Wild* (1997) and *Hatebreeder* (1999) represent the two ends of Co
 
 **Q: What cymbals did Jaska Raatikainen use on Something Wild?**
 
-A: On *Something Wild* (1997), Jaska Raatikainen used Zildjian A Series cymbals — a pre-endorsement selection that preceded the Paiste configurations documented on later CoB albums and the eventual Zildjian A Custom / K Custom pairing of his Pearl endorsement era. The A Series setup included 14" A hi-hats, A crashes (16" and 18"), a 20" A ride, and an 18" A China. The Zildjian A's B20 bronze alloy and traditional lathing delivered the natural brightness and cut that melodic death metal requires in keyboard-heavy arrangements.
+A: On *Something Wild* (1997), Jaska Raatikainen used Zildjian A Series cymbals — a pre-endorsement selection that continued through *Hatebreeder*, *Follow the Reaper*, and *Hate Crew Deathroll* before the eventual Zildjian A Custom / K Custom switch of his Pearl endorsement era in 2005. The A Series setup included 14" A hi-hats, A crashes (16" and 18"), a 20" A ride, and an 18" A China. The Zildjian A's B20 bronze alloy and traditional lathing delivered the natural brightness and cut that melodic death metal requires in keyboard-heavy arrangements.
 
 ## Related Articles
 
@@ -108,4 +108,4 @@ A: On *Something Wild* (1997), Jaska Raatikainen used Zildjian A Series cymbals 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

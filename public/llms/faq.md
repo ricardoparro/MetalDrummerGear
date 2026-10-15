@@ -1,5 +1,5 @@
 # MetalForge — Master FAQ
-> Last Updated: 2026-10-07 · Source: https://metalforge.io
+> Last Updated: 2026-10-15 · Source: https://metalforge.io
 
 Answer-first FAQ for the gear and techniques of the world's legendary metal drummers. Every answer links to a deeper source page on MetalForge.
 
@@ -60,7 +60,7 @@ Chris Adler plays Mapex Saturn in Satin Black Maple Burl. The Lamb of God drumme
 Matt Halpern plays Pearl Reference Series. The Periphery drummer rounds out the kit with a Pearl Reference 14x6.5" Brass snare and Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China) cymbals. [see /llms/drummers/matt-halpern.md]
 
 ### What drums does Inferno use?
-Inferno plays Pearl Masterworks. The Behemoth drummer rounds out the kit with a Pearl Reference 14x5" Steel snare and Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China) cymbals. [see /llms/drummers/inferno.md]
+Inferno plays Pearl Reference Series. The Behemoth drummer rounds out the kit with a Pearl Reference 14x5" Steel snare and Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China) cymbals. [see /llms/drummers/inferno.md]
 
 ### What drums does Hellhammer use?
 Hellhammer plays Sonor SQ2 Heavy Beech. The Mayhem drummer rounds out the kit with a Sonor SQ2 14x5.5" Maple snare and Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China) cymbals. [see /llms/drummers/hellhammer.md]
@@ -150,7 +150,7 @@ Gavin Harrison plays Sonor SQ2 Series. The Porcupine Tree / King Crimson drummer
 Abe Cunningham plays Tama Starclassic Bubinga (Egyptian Night Mist). The Deftones drummer rounds out the kit with a Tama Starclassic matching snare (no separate model documented) snare and Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China) cymbals. [see /llms/drummers/abe-cunningham.md]
 
 ### What drums does Richard Christy use?
-Richard Christy plays Pearl Masters Custom. The Death / Iced Earth drummer rounds out the kit with a Pearl Masters Custom 14x6.5" Maple snare and Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese) cymbals. [see /llms/drummers/richard-christy.md]
+Richard Christy plays Pearl Masters Custom. The Death / Iced Earth drummer rounds out the kit with a Pearl Masters Custom 14x6.5" Maple snare and Sabian AA/AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 18" AAX Chinese) cymbals. [see /llms/drummers/richard-christy.md]
 
 ### What drums does Aquiles Priester use?
 Aquiles Priester plays Mapex Saturn Evolution All Maple (signature kit). The Angra / W.A.S.P. drummer rounds out the kit with Paiste Custom red-coated set incl. 18" Psychoctopus Giga Bell Ride cymbals. [see /llms/drummers/aquiles-priester.md]
@@ -177,7 +177,7 @@ Hannes Grossmann plays DW Collectors Series. The Obscura / ex-Necrophagist / Alk
 Daray plays Tama Starclassic Performer B/B, Piano Black. The Dimmu Borgir / Vader drummer rounds out the kit with a Tama S.L.P. Black Brass LBR1465 snare and Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride) cymbals. [see /llms/drummers/daray.md]
 
 ### What drums does Jocke Wallgren use?
-Jocke Wallgren plays Pearl Reference Pure. The Amon Amarth drummer rounds out the kit with a Pearl Reference 14x6.5" Brass snare and Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride) cymbals. [see /llms/drummers/jocke-wallgren.md]
+Jocke Wallgren plays Pearl Reference Pure. The Amon Amarth drummer rounds out the kit with a Pearl Reference Pure 14x6.5" snare and Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride) cymbals. [see /llms/drummers/jocke-wallgren.md]
 
 ### What drums does Tim Yeung use?
 Tim Yeung plays Tama Starclassic Bubinga. The Morbid Angel / Hate Eternal / Vital Remains drummer rounds out the kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) cymbals. [see /llms/drummers/tim-yeung.md]
@@ -730,11 +730,11 @@ A: Jon Dette uses Remo Powerstroke 3 heads on his kick, Emperor Coated on his to
 
 **Q: What band is Jon Dette in?**
 
-A: Jon Dette was Slayer's touring drummer in 1996-1997, then Testament's touring drummer across two stints (1997-1999, 2001-2012), a run captured on the live album Live at the Fillmore (2005). Testament's studio albums released during those years — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) — were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively. He also filled in for Charlie Benante on a 2010 Anthrax tour.
+A: Jon Dette was Slayer's touring drummer in 1996-1997, then Testament's touring drummer across two stints (1994-1995, 1997-1998), never recording a studio album with the band. Testament's studio albums released in that era and afterward — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) — were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively. He also filled in for Charlie Benante on a 2010 Anthrax tour.
 
 **Q: How did Jon Dette join Slayer?**
 
-A: Jon Dette joined Slayer in 1996 as touring drummer, filling in when Paul Bostaph was temporarily unavailable, and left in 1997 when Bostaph returned to the band. He went on to become a longer-term member of Testament.
+A: Jon Dette joined Slayer in 1996 as touring drummer, filling in when Paul Bostaph was temporarily unavailable, and left in 1997 when Bostaph returned to the band. He went on to tour with Testament across two separate stints.
 
 ### Martin Axenrot
 
@@ -782,11 +782,11 @@ A: Shannon Larkin plays a ddrum Dios Series drum kit — a setup built for the r
 
 **Q: What drum set does Shannon Larkin use?**
 
-A: Shannon Larkin's drum set pairs his ddrum Dios Series shells and maple snare with Sabian AAX and HHX Series cymbals and a DW 9000 Series double pedal, the configuration anchoring Godsmack albums like Faceless, IV, and When Legends Rise.
+A: Shannon Larkin's drum set pairs his ddrum Dios Series shells and maple snare with Sabian AAX Series cymbals and a DW 9000 Series double pedal, the configuration anchoring Godsmack albums like Faceless, IV, and When Legends Rise.
 
 **Q: What cymbals does Shannon Larkin play?**
 
-A: Shannon Larkin plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal.
+A: Shannon Larkin plays Sabian AAX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" AAX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal.
 
 **Q: What hi-hats does Shannon Larkin use?**
 
@@ -858,11 +858,11 @@ A: Raymond Herrera uses ddrum and Roland electronic triggers throughout his kit,
 
 **Q: What drum kit does Morgan Ågren use?**
 
-A: Morgan Ågren plays a Sonor SQ2 Designer Series drum kit — a custom-configured setup reflecting the exacting standards behind his decades of polyrhythmic playing across the Mats/Morgan Band, Kaipa, and Devin Townsend Project. It's built around a Sonor Designer 14"x5.5" Maple snare.
+A: Morgan Ågren plays a Sonor SQ2 Beech drum kit — his setup since 2012, reflecting the exacting standards behind his polyrhythmic playing with Devin Townsend Project, Kaipa, and the Mats/Morgan Band.
 
 **Q: What drum set does Morgan Ågren use?**
 
-A: Morgan Ågren's drum set pairs his Sonor SQ2 shells and maple snare with a Sonor Giant Step double pedal, the configuration he has used since co-founding the Mats/Morgan Band with Mats Öberg in 1981.
+A: Morgan Ågren's drum set pairs his Sonor SQ2 Beech shells and snare with a Sonor Giant Step double pedal, the configuration he has used since 2012.
 
 **Q: What cymbals does Morgan Ågren play?**
 
@@ -870,7 +870,7 @@ A: Morgan Ågren plays Paiste Signature and 2002 Series cymbals: 14" Signature H
 
 **Q: What snare does Morgan Ågren use?**
 
-A: Morgan Ågren's snare is a Sonor Designer 14"x5.5" Maple, delivering a warm, articulate crack suited to both his jazz-fusion sensibility and his work with Devin Townsend Project.
+A: Morgan Ågren's snare is part of his Sonor SQ2 Beech kit, delivering a warm, articulate crack suited to both his jazz-fusion sensibility and his work with Devin Townsend Project.
 
 **Q: What sticks does Morgan Ågren use?**
 
@@ -1316,7 +1316,7 @@ A: Tim Yeung anchors his legendary speed and stamina with a Tama Speed Cobra 910
 
 **Q: What drumheads does Tim Yeung use?**
 
-A: Tim Yeung uses Evans drumheads across his Tama Starclassic Bubinga kit.
+A: Tim Yeung uses Remo Powerstroke 3 drumheads across his Tama Starclassic Bubinga kit.
 
 **Q: What band is Tim Yeung in?**
 
@@ -1330,7 +1330,7 @@ A: Tim Yeung uses trigger-assisted bass drums for clarity at the extreme tempos 
 
 **Q: What drum kit does Kevin Talley use?**
 
-A: Kevin Talley plays a Pearl Masters Custom / Reference Series drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Suffocation, Chimaira, and Six Feet Under has demanded for over two decades. It centers on a Pearl Masters 14"x5.5" Maple snare.
+A: Kevin Talley plays a Pearl Masters Custom / Reference Series drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Suffocation, Chimaira, and Six Feet Under has demanded for over two decades. It centers on a Pearl Masters 14"x6.5" Steel snare.
 
 **Q: What drum set does Kevin Talley use?**
 
@@ -1342,7 +1342,7 @@ A: Kevin Talley plays Sabian AAX Series cymbals: 14" Stage Hi-Hats, 17" and 18" 
 
 **Q: What snare does Kevin Talley use?**
 
-A: Kevin Talley's snare is a Pearl Masters 14"x5.5" Maple, delivering a bright, cracking response that cuts through brutal death metal's dense, downtuned guitar work at his signature blistering tempos.
+A: Kevin Talley's snare is a Pearl Masters 14"x6.5" Steel, delivering a bright, cracking response that cuts through brutal death metal's dense, downtuned guitar work at his signature blistering tempos.
 
 **Q: What sticks does Kevin Talley use?**
 
@@ -1646,7 +1646,7 @@ A: Gavin Harrison uses Remo Ambassador drumheads across his Sonor SQ2 Series dru
 
 **Q: What drum kit does Abe Cunningham use?**
 
-A: Abe Cunningham plays a Tama Starclassic Bubinga drum kit (Egyptian Night Mist finish) with Zildjian K Custom and A Custom cymbals — the setup that has anchored Deftones' atmospheric alt-metal sound through the Koi No Yokan, Gore, and Ohms era. The snare matches the Starclassic Bubinga shell pack; no separate snare model is publicly documented.
+A: Abe Cunningham plays a Tama Starclassic Bubinga drum kit (Egyptian Night Mist finish) with Zildjian K Custom and A Custom cymbals, his setup since 2022. He used Sabian HHX cymbals through Deftones' "Koi No Yokan" (2012), "Gore" (2016), and "Ohms" (2020) era before switching to Zildjian. The snare matches the Starclassic Bubinga shell pack; no separate snare model is publicly documented.
 
 **Q: What drum set does Abe Cunningham use?**
 
@@ -1692,7 +1692,7 @@ A: Richard Christy's drum set pairs a Pearl Masters Custom shell pack and his Pe
 
 **Q: What cymbals does Richard Christy play?**
 
-A: Richard Christy plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, and an 18" AAX Chinese.
+A: Richard Christy plays Sabian AA/AAX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, and an 18" AAX Chinese.
 
 **Q: What snare does Richard Christy use?**
 
@@ -1716,7 +1716,7 @@ A: Richard Christy recorded with Death from 1996-2001, played with Iced Earth fr
 
 **Q: What hi-hats does Richard Christy use?**
 
-A: Richard Christy plays 14" Sabian AAX Stage Hi-Hats, part of the AAX and HHX cymbal setup he used on Death's The Sound of Perseverance and with Iced Earth.
+A: Richard Christy plays 14" Sabian AAX Stage Hi-Hats, part of the AA/AAX cymbal setup he used on Death's The Sound of Perseverance and with Iced Earth.
 
 ### Aquiles Priester
 
@@ -1802,11 +1802,11 @@ A: Ray Luzier uses Evans drumheads across his Pearl Reference Series drum kit an
 
 **Q: What drum kit does John Otto use?**
 
-A: John Otto's drum kit is an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit — the transparent acrylic shells that defined his visual and sonic identity throughout Limp Bizkit's nu-metal peak. It centers on two signature OCDP snares (a 14"x6.5" 40-ply vented shell and a 10"x6" 20-ply piccolo), driven by Gibraltar G Class bass drum pedals and topped with Zildjian A Custom cymbals.
+A: John Otto's drum kit is an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit — the transparent acrylic shells that defined his visual and sonic identity throughout Limp Bizkit's nu-metal peak. It centers on two signature OCDP snares (a 14"x6.5" 40-ply vented shell and a 10"x6" 20-ply piccolo), driven by Gibraltar Professional Series bass drum pedals and topped with Zildjian A Custom cymbals.
 
 **Q: What drum set does John Otto use?**
 
-A: John Otto's drum set is an OCDP Custom Type 5 Acrylic configuration built around a 14"x6.5" 40-ply vented snare for primary work and a 10"x6" 20-ply piccolo snare for accents. The drum set carries Zildjian cymbals, a single Gibraltar G Class bass drum pedal, and Remo Emperor Coated heads throughout.
+A: John Otto's drum set is an OCDP Custom Type 5 Acrylic configuration built around a 14"x6.5" 40-ply vented snare for primary work and a 10"x6" 20-ply piccolo snare for accents. The drum set carries Zildjian cymbals, a single Gibraltar Professional Series bass drum pedal, and Remo Emperor Coated heads throughout.
 
 **Q: What cymbals does John Otto use?**
 
@@ -1818,7 +1818,7 @@ A: John Otto's primary snare is an OCDP 14"x6.5" 40-ply vented shell, paired wit
 
 **Q: What bass drum pedals does John Otto use?**
 
-A: John Otto uses Gibraltar G Class bass drum pedals in a single-pedal configuration, mounted on Gibraltar custom hardware racks, underpinning the straight-ahead funk and rock grooves on tracks like "Rollin'" and "Break Stuff."
+A: John Otto uses Gibraltar Professional Series bass drum pedals in a single-pedal configuration, mounted on Gibraltar custom hardware racks, underpinning the straight-ahead funk and rock grooves on tracks like "Rollin'" and "Break Stuff."
 
 **Q: What band is John Otto in?**
 
@@ -1834,7 +1834,7 @@ A: John Otto uses Remo Emperor Coated drumheads across his OCDP acrylic kit.
 
 **Q: What hardware does John Otto use?**
 
-A: John Otto uses Gibraltar hardware — including his custom racks and G Class bass drum pedal — to support his transparent OCDP acrylic drum kit and drum set on stage.
+A: John Otto uses Gibraltar hardware — including his custom racks and Professional Series bass drum pedal — to support his transparent OCDP acrylic drum kit and drum set on stage.
 
 ### Jay Weinberg
 
@@ -2076,11 +2076,11 @@ A: Matt Halpern integrates a Roland SPD-SX sample pad and additional triggers in
 
 **Q: What drum kit does Inferno use?**
 
-A: Inferno plays a Pearl Masterworks drum kit — the premium custom shell series anchoring Behemoth's apocalyptic live productions since he joined the band in 1997. It's built around a Pearl Reference 14"x5" Steel snare tuned for maximum cutting crack.
+A: Inferno plays a Pearl Reference Series drum kit — anchoring Behemoth's apocalyptic live productions since he joined the band in 1997. It's built around a Pearl Reference 14"x5" Steel snare tuned for maximum cutting crack.
 
 **Q: What drum set does Inferno use?**
 
-A: Inferno's drum set pairs his Pearl Masterworks shells and steel snare with a Czarcie Kopyto (Devil's Hoof) double pedal — a Polish-engineered direct-drive mechanism — giving him the speed and precision his relentless blast passages demand.
+A: Inferno's drum set pairs his Pearl Reference Series shells and steel snare with a Czarcie Kopyto (Devil's Hoof) double pedal — a Polish-engineered direct-drive mechanism — giving him the speed and precision his relentless blast passages demand.
 
 **Q: What cymbals does Inferno play?**
 
@@ -2100,7 +2100,7 @@ A: Inferno drives his double kick with a Czarcie Kopyto (Devil's Hoof) double pe
 
 **Q: What drumheads does Inferno use?**
 
-A: Inferno uses Remo drumheads across his Pearl Masterworks kit.
+A: Inferno uses Remo drumheads across his Pearl Reference Series kit.
 
 **Q: What band is Inferno in?**
 
@@ -2336,11 +2336,11 @@ A: Ryan Van Poederooyen uses Evans drumheads across his Pearl Reference kit.
 
 **Q: What band is Ryan Van Poederooyen in?**
 
-A: Ryan Van Poederooyen has been Devin Townsend's primary drummer since 1999, including the Devin Townsend Project era from 2009 to 2018.
+A: Ryan Van Poederooyen has been Devin Townsend's primary drummer since 2002, including the Devin Townsend Project era from 2009 to 2018.
 
 **Q: How long has Ryan Van Poederooyen played with Devin Townsend?**
 
-A: Ryan Van Poederooyen has been Devin Townsend's primary drummer for more than 25 years, appearing on nearly every solo and band album since 1999 — including "Terria" (2001), "Deconstruction" (2011), and "Lightwork" (2022) — after taking over from Gene Hoglan, Townsend's previous drummer in Strapping Young Lad.
+A: Ryan Van Poederooyen has been Devin Townsend's primary drummer for more than two decades, appearing on nearly every solo and band album since joining in 2002 — including "Accelerated Evolution" (2003), "Deconstruction" (2011), and "Lightwork" (2022) — after being recommended to Townsend by Gene Hoglan, Townsend's previous drummer in Strapping Young Lad.
 
 ### Nick Augusto
 
@@ -2358,7 +2358,7 @@ A: Nick Augusto's drum kit centers on a Pearl Reference Pure setup, the configur
 
 **Q: What drum set does Nick Augusto use?**
 
-A: Nick Augusto's drum set pairs his Pearl Reference Pure shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls"; the specific snare model has not been independently verified.
+A: Nick Augusto's drum set pairs his Pearl Reference Pure shells with a DW 9000 Series double pedal and Pearl D-2000 throne, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls"; the specific snare model has not been independently verified.
 
 **Q: What snare does Nick Augusto use?**
 
@@ -2370,7 +2370,7 @@ A: Nick Augusto's cymbal setup is Sabian AAX Series: 14" Stage Hi-Hats, 18" and 
 
 **Q: What bass drum pedal does Nick Augusto use?**
 
-A: Augusto drives his speed-focused double bass work with a Pearl Demon Drive Double Pedal, mounted alongside a Pearl D-2000 Throne.
+A: Augusto drives his speed-focused double bass work with a DW 9000 Series double pedal, mounted alongside a Pearl D-2000 Throne.
 
 **Q: What sticks does Nick Augusto use?**
 
@@ -2796,7 +2796,7 @@ A: Sean Reinert's Human/Focus-era drum set was a Tama Artstar II birch shell kit
 
 **Q: What cymbals did Sean Reinert use?**
 
-A: Sean Reinert used Zildjian A Series cymbals on Death's Human (1991), then switched to the darker Zildjian K Series for Cynic's Focus (1993), before upgrading to Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air.
+A: Sean Reinert used a Zildjian A/K Series cymbal blend on both Death's Human (1991) and Cynic's Focus (1993), then narrowed to Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air.
 
 **Q: What snare drum did Sean Reinert use?**
 

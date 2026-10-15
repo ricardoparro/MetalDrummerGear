@@ -34,4 +34,4 @@ A: Lars Ulrich plays the Tama LU1465 Lars Ulrich Signature — a signature snare
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

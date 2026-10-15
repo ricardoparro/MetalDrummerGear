@@ -22,8 +22,8 @@ This article covers Roddy's gear at the time of King of All Kings and his curren
 - **Drums:** Tama Tama Starclassic Maple (Various finishes across career periods finish)
 - **Snare:** Tama Tama Starclassic Maple Snare, 14" x 6.5"
 - **Cymbals:** Meinl — Meinl Byzance and Mb20 Heavy Series
-- **Hardware / Pedals:** Tama Speed Cobra Double Bass Pedal; Vater custom specification; Remo Powerstroke 3 (kick), Remo Ambassador Coated (toms/snare)
-- **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
+- **Hardware / Pedals:** Tama Speed Cobra Double Bass Pedal; Vater custom specification; Evans EMAD2 Clear (kick), Evans Genera HD Dry (toms/snare)
+- **Heads:** Evans Genera HD Dry (batter and resonant)
 - **Snare tuning:** Medium-bright for articulation in extreme death metal mix contexts
 
 ### Tama Starclassic Maple: Precision at Extreme Tempos
@@ -126,4 +126,4 @@ A: Derek Roddy has toured with Morbid Angel as a live drummer, filling the drum 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

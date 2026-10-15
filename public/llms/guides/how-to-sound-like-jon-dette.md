@@ -9,7 +9,7 @@
 
 Jon Dette occupies a rare spot in thrash metal history: one of only a handful of drummers to have performed with three of the genre's biggest acts — Slayer, Testament, and Anthrax. Born August 25, 1967, in Milwaukee, Wisconsin, Dette built his reputation as the reliable professional who could learn an entire demanding setlist on short notice and deliver it with metronomic accuracy from the first night of touring.
 
-Dette stepped in for Slayer in 1996–1997 while Paul Bostaph was unavailable, mastering the band's fastest and most technically demanding live catalogue under intense fan scrutiny. His longest tenure came with Testament across two periods (1997–1999, 2001–2012), recording three studio albums — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) — before filling in for Charlie Benante on Anthrax tour dates in 2010.
+Dette stepped in for Slayer in 1996–1997 while Paul Bostaph was unavailable, mastering the band's fastest and most technically demanding live catalogue under intense fan scrutiny. He also toured with Testament across two periods (1994–1995, 1997–1998) as the band's touring drummer — not a studio member; The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively — before filling in for Charlie Benante on Anthrax tour dates in 2010.
 
 ## Kit Setup
 
@@ -77,10 +77,10 @@ A: Dette played a Ludwig Classic Maple kit with a 14" x 6.5" metal or maple snar
 A: Tune the kick for punchy, defined attack rather than boom, keep the snare medium-bright with minimal muffling for cut, and build double-bass evenness at a reduced tempo before chasing speed. His sound comes from consistency at 180-220 BPM, not raw aggression.
 
 **Q: Which bands did Jon Dette play drums for?**  
-A: Jon Dette played with three major thrash metal acts: Slayer (touring, 1996-1997, filling in for Paul Bostaph), Testament (1997-1999 and 2001-2012, recording three studio albums), and Anthrax (touring fill-in for Charlie Benante in 2010).
+A: Jon Dette played with three major thrash metal acts: Slayer (touring, 1996-1997, filling in for Paul Bostaph), Testament (touring drummer, 1994-1995 and 1997-1998 — not a studio member), and Anthrax (touring fill-in for Charlie Benante in 2010).
 
 **Q: What Testament albums should I study for Jon Dette's drumming?**  
-A: The Gathering (1999) is his most acclaimed studio work — start with "D.N.R. (Do Not Resuscitate)" and "Down for Life." The Formation of Damnation (2008) shows his playing on "More Than Meets the Eye," and Dark Roots of Earth (2012) captures his late-career precision on "Native Blood."
+A: Dette was Testament's touring drummer, not a studio member — these are still useful records to study the drum chair's standard: The Gathering (1999) via "D.N.R. (Do Not Resuscitate)" and "Down for Life" (recorded by Dave Lombardo), The Formation of Damnation (2008) via "More Than Meets the Eye" (recorded by Paul Bostaph), and Dark Roots of Earth (2012) via "Native Blood" (recorded by Gene Hoglan).
 
 ---
 

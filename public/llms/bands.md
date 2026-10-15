@@ -3,7 +3,7 @@
 > Structured reference for metal bands, their drummer history, discography, and gear.
 > Optimised for AI crawlers answering "who drums for <band>" queries.
 >
-> Last updated: 2026-10-07 · 47 bands
+> Last updated: 2026-10-15 · 47 bands
 
 ---
 ## Amon Amarth
@@ -1118,10 +1118,10 @@ Testament, formed in 1983 in Berkeley, California, is one of the most enduring b
 - Louie Clemente — 1983-1992 (Original/founding drummer; played on the first five studio albums)
 - Paul Bostaph — 1992-1993 (Interim touring drummer for The Ritual tour before John Tempesta joined; no studio album from this stint)
 - John Tempesta — 1993-1994 (Recorded Low, then left to join White Zombie)
-- Jon Dette — 1994-1996 (Touring drummer after Tempesta's departure)
+- Jon Dette — 1994-1995 (Touring drummer after Tempesta's departure)
 - Gene Hoglan — 1996-1997 (First stint; recorded Demonic)
+- Jon Dette — 1997-1998 (Second touring stint, covering Demonic-era live dates after Hoglan's first stint ended)
 - Dave Lombardo — 1999-2000 (Recorded The Gathering)
-- Jon Dette — 1999-2001 (Second touring stint)
 - Paul Bostaph — 2004 (Touring only)
 - Paul Bostaph — 2007-2011 (Full-time stint; recorded The Formation of Damnation)
 - Gene Hoglan — 2011-2022 (Second, longer stint; recorded Dark Roots of Earth, Brotherhood of the Snake, and Titans of Creation)

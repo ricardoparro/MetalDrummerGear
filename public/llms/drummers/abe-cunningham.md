@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/abe-cunningham"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Abe Cunningham — Drum Kit & Gear Setup
@@ -121,7 +121,7 @@ Abe Cunningham's drumming style is immediately recognizable—unconventional pat
 
 **Q: What drum kit does Abe Cunningham use?**
 
-A: Abe Cunningham plays a Tama Starclassic Bubinga drum kit (Egyptian Night Mist finish) with Zildjian K Custom and A Custom cymbals — the setup that has anchored Deftones' atmospheric alt-metal sound through the Koi No Yokan, Gore, and Ohms era. The snare matches the Starclassic Bubinga shell pack; no separate snare model is publicly documented.
+A: Abe Cunningham plays a Tama Starclassic Bubinga drum kit (Egyptian Night Mist finish) with Zildjian K Custom and A Custom cymbals, his setup since 2022. He used Sabian HHX cymbals through Deftones' "Koi No Yokan" (2012), "Gore" (2016), and "Ohms" (2020) era before switching to Zildjian. The snare matches the Starclassic Bubinga shell pack; no separate snare model is publicly documented.
 
 **Q: What drum set does Abe Cunningham use?**
 
@@ -244,4 +244,4 @@ Dated brand-endorsement timeline: [Abe Cunningham's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Gibraltar Bass Drum Pedals for Metal
 
-> Gibraltar is a drum-hardware specialist now owned by DW, and its G Class pedal is verified on the roster through John Otto (Limp Bizkit).
+> Gibraltar is a drum-hardware specialist now owned by DW, and its Professional Series pedal is verified on the roster through John Otto (Limp Bizkit).
 
 ---
 
@@ -11,13 +11,13 @@
 
 ## Metal-Relevant Models
 
-- **G Class:** Gibraltar's bass drum pedal line, verified on the roster through John Otto (Limp Bizkit).
+- **Professional Series:** Gibraltar's bass drum pedal line, verified on the roster through John Otto (Limp Bizkit).
 
 ## Confirmed Metal Drummers (1)
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
-| [John Otto](https://metalforge.io/pedals/setups/john-otto) | Limp Bizkit | Gibraltar G Class | [Markdown](https://metalforge.io/llms/pedals/setups/john-otto.md) |
+| [John Otto](https://metalforge.io/pedals/setups/john-otto) | Limp Bizkit | Gibraltar Professional Series | [Markdown](https://metalforge.io/llms/pedals/setups/john-otto.md) |
 
 Source: [Gibraltar Hardware — Wikipedia](https://en.wikipedia.org/wiki/Gibraltar_Hardware).
 
@@ -35,4 +35,4 @@ Source: [Gibraltar Hardware — Wikipedia](https://en.wikipedia.org/wiki/Gibralt
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

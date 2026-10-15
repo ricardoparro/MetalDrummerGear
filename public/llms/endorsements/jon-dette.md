@@ -35,7 +35,7 @@ Jon Dette endorses DW / Tama for hardware / pedals. They play the DW / Tama 9000
 - **1996** (Hardware / Pedals): Signed with DW 9000 / Tama Iron Cobra Double Pedal — Used DW 9000 or Tama Iron Cobra double bass pedals to execute Slayer's sustained double-kick passages after learning the band's full live set on short notice in 1996
 - **1996** (Drumsticks): Signed with Promark / Vater — Played Promark / Vater 5B sticks through his 1996–1997 Slayer touring stint
 - **1996** (Drumheads): Signed with Remo — Ran Remo heads — Powerstroke 3 on the kick, Emperor Coated on toms, Coated Ambassador on snare — through his 1996–1997 Slayer touring stint
-- **1997** (Drums): Renewed Ludwig deal — Carried the same Ludwig Classic Maple setup into his first stint with Testament (1997–1999), recording "The Gathering" (1999) alongside guitarist Alex Skolnick's progressive arrangements
+- **1997** (Drums): Renewed Ludwig deal — Carried the same Ludwig Classic Maple setup into his second touring stint with Testament (1997–1998), covering Demonic-era live dates after Gene Hoglan's first stint ended, alongside guitarist Alex Skolnick's progressive arrangements
 
 ## FAQ
 
@@ -58,4 +58,4 @@ A: See the Endorsement History section above for a full timeline of Jon Dette's 
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

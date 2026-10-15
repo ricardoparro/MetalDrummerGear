@@ -11,7 +11,7 @@
 
 Paul Mazurkiewicz uses a Pearl Reference kit as Cannibal Corpse's drummer since 1988. His setup is optimized for extreme death metal blast beats at 180–250 BPM, and it has powered the best-selling death metal band of all time through more than two million album sales across three decades of brutal, technically uncompromising music.
 
-Mazurkiewicz (born September 8, 1970) co-founded Cannibal Corpse in Buffalo, New York in 1988 alongside guitarist Bob Rusay, bassist Alex Webster, and vocalist Chris Barnes. From the band's debut, Eaten Back to Life (1990), through Violence Unimagined (2021) and beyond, he has remained the rhythmic foundation of a band that has never slowed down, never softened, and never compromised on the density and ferocity of its death metal attack.
+Mazurkiewicz (born September 8, 1968) co-founded Cannibal Corpse in Buffalo, New York in 1988 alongside guitarist Bob Rusay, bassist Alex Webster, and vocalist Chris Barnes. From the band's debut, Eaten Back to Life (1990), through Violence Unimagined (2021) and beyond, he has remained the rhythmic foundation of a band that has never slowed down, never softened, and never compromised on the density and ferocity of its death metal attack.
 
 What distinguishes Mazurkiewicz's playing from other death metal drummers is his brutal consistency. In a genre populated by drummers who approach blast beats as a speed competition, Mazurkiewicz treats them as a compositional tool — the engine that drives songs forward with menacing weight rather than merely demonstrating how fast a foot can move. His double-bass technique has been described as "locomotive" — relentless, powerful, and absolutely locked to the grid.
 
@@ -124,4 +124,4 @@ A: Paul Mazurkiewicz has been Cannibal Corpse's drummer since the band's foundin
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

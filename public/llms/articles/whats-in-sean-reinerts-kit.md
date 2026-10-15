@@ -138,7 +138,7 @@ A: Sean Reinert used a Tama Artstar II birch shell kit throughout his tenure in 
 
 **Q: What cymbals did Sean Reinert use throughout his career?**
 
-A: Sean Reinert was closely associated with Zildjian cymbals throughout his career, drawing from the A, K, and K Custom lines. He used Zildjian A Series cymbals on Death's Human (1991), then switched to the darker Zildjian K Series for Cynic's Focus (1993), before upgrading to Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air. His setup typically featured 14 inch hi-hats, 16 and 18 inch crashes, a 20 to 22 inch ride, an 18 inch China, and an 8 or 10 inch splash. Zildjian's darker, more complex K Series tones complemented his jazz-influenced approach to death metal.
+A: Sean Reinert was closely associated with Zildjian cymbals throughout his career, drawing from the A, K, and K Custom lines. He used a Zildjian A/K Series blend on both Death's Human (1991) and Cynic's Focus (1993), then narrowed to Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air. His setup typically featured 14 inch hi-hats, 16 and 18 inch crashes, a 20 to 22 inch ride, an 18 inch China, and an 8 or 10 inch splash. Zildjian's darker, more complex K Series tones complemented his jazz-influenced approach to death metal.
 
 **Q: How much does Sean Reinert's signature kit cost?**
 
@@ -160,4 +160,4 @@ A: Because Sean Reinert's gear evolved across his career, assembling a represent
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

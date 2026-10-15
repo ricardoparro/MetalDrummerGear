@@ -31,11 +31,11 @@ This article breaks down every piece of gear behind Pantera's last studio statem
 
 ### White Marine Pearl: Vinnie's Final Pantera Kit
 
-For Pantera's final album, Vinnie Paul returned to the Pearl Reference line he'd used on "Far Beyond Driven," but in a strikingly different form: a white marine pearl finish that stood out against the darker, black-lacquer kits (ddrum, Pearl Masters Custom) he'd played through most of the 90s. The visual statement matched the record's back-to-basics approach — after the black-on-black aesthetic of "Trendkill," the bright, classic finish felt like a reset.
+For Pantera's final album, Vinnie Paul moved to the Pearl Reference line — a shift from the Pearl Masters Custom he'd played on "The Great Southern Trendkill" — in a strikingly different form: a white marine pearl finish that stood out against the darker, black-lacquer kits (ddrum, Pearl Masters Custom) he'd played through most of the 90s. The visual statement matched the record's back-to-basics approach — after the black-on-black aesthetic of "Trendkill," the bright, classic finish felt like a reset.
 
-The dual 22" x 18" bass drums carried over from "The Great Southern Trendkill," prioritizing articulation over the cavernous low end of the 24" kicks used on "Vulgar Display of Power" and "Far Beyond Driven." On tracks like "Hellbound" and "Death Rattle," the tighter kick response let Vinnie's double-bass patterns read clearly without smearing into the mix — important on a record mixed leaner and less trigger-dependent than its predecessors.
+The dual 22" x 18" bass drums carried over from "The Great Southern Trendkill," prioritizing articulation over the cavernous low end of the 24" kicks used on "Vulgar Display of Power" and "Far Beyond Driven" (both on Tama, before Vinnie's 1996 move to Pearl). On tracks like "Hellbound" and "Death Rattle," the tighter kick response let Vinnie's double-bass patterns read clearly without smearing into the mix — important on a record mixed leaner and less trigger-dependent than its predecessors.
 
-The three rack toms and two floor toms gave Vinnie his usual melodic range for fills, and the maple/mahogany hybrid shells produced the same warm-but-punchy fundamental that had defined his Reference-era sound since 1994. Sonically and visually, the kit was a deliberate bridge back to the classic Pantera sound after "Trendkill's" darker detour — fitting for an album explicitly conceived as "reinventing" the band's core steel.
+The three rack toms and two floor toms gave Vinnie his usual melodic range for fills, and the maple/mahogany hybrid shells produced the same warm-but-punchy fundamental that had defined his Pearl-era sound since 1996. Sonically and visually, the kit was a deliberate bridge back to the classic Pantera sound after "Trendkill's" darker detour — fitting for an album explicitly conceived as "reinventing" the band's core steel.
 
 ### Back to Basics Crack
 
@@ -70,7 +70,7 @@ For the complete Pantera arc, see the [Cowboys from Hell drum setup](/articles/c
 - First Pantera album since 1988's Power Metal not produced by Terry Date
 - Produced by Vinnie Paul and Dimebag Darrell with engineer Sterling Winfield
 - The last studio recordings of the classic Abbott/Anselmo/Brown lineup before the 2003 split
-- Return to the Pearl Reference line after the Pearl Masters Custom of The Great Southern Trendkill
+- Move to the Pearl Reference line after the Pearl Masters Custom of The Great Southern Trendkill
 - White marine pearl finish was a visual departure from the black kits of the mid-90s
 - 22" x 18" bass drums retained from Trendkill for tighter articulation
 - Maple/mahogany hybrid shells for a warm, punchy fundamental
@@ -81,7 +81,7 @@ For the complete Pantera arc, see the [Cowboys from Hell drum setup](/articles/c
 
 **Q: What drums did Vinnie Paul play on Reinventing the Steel?**
 
-A: Vinnie Paul recorded Reinventing the Steel in 2000 on a Pearl Reference kit finished in white marine pearl. The configuration included dual 22 inch by 18 inch bass drums, rack toms at 10, 12, and 13 inches, and floor toms at 16 and 18 inches, built from 6-ply maple/mahogany hybrid shells. It marked a return to the Pearl Reference line he'd used on Far Beyond Driven, but in a brighter finish that departed from the black kits he'd played through most of the 1990s.
+A: Vinnie Paul recorded Reinventing the Steel in 2000 on a Pearl Reference kit finished in white marine pearl. The configuration included dual 22 inch by 18 inch bass drums, rack toms at 10, 12, and 13 inches, and floor toms at 16 and 18 inches, built from 6-ply maple/mahogany hybrid shells. It marked a shift to the Pearl Reference line from the Pearl Masters Custom he'd used on The Great Southern Trendkill, in a brighter finish that departed from the black kits he'd played through most of the 1990s.
 
 **Q: Was Reinventing the Steel Pantera's last album?**
 
@@ -111,4 +111,4 @@ A: Reinventing the Steel was produced by Vinnie Paul and Dimebag Darrell alongsi
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

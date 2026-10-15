@@ -41,4 +41,4 @@ A: Mikkey Dee plays Paiste cymbals: 14" Signature Sound Edge Hi-Hats, 19" Signat
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

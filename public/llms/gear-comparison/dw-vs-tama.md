@@ -1,7 +1,7 @@
 # DW vs Tama Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of DW and Tama drums used by pro metal drummers.
-> Last updated: 2026-10-07
+> Last updated: 2026-10-15
 
 Compare DW Collector's Series and Tama Starclassic drums for metal. See specs, pricing, pro endorsements, and which premium kit suits your playing style.
 
@@ -9,7 +9,7 @@ Compare DW Collector's Series and Tama Starclassic drums for metal. See specs, p
 
 ## Which Metal Drummers Use DW?
 
-Pro metal drummers who endorse DW include: **Navene Koperweis, Hannes Grossmann**.
+Pro metal drummers who endorse DW include: **Hannes Grossmann**.
 
 DW is particularly well-suited for: Modern metal, progressive death metal, studio work.
 
@@ -81,7 +81,7 @@ Tama is particularly well-suited for: Thrash metal, groove metal, progressive me
 A: Tama is the proven choice across thrash, groove, and progressive metal, backed by decades of endorsements from genre-defining drummers. DW appeals to modern and progressive death metal drummers who want a warmer low end with studio-grade consistency.
 
 **Q: Which metal drummers endorse DW?**
-A: DW is endorsed by notable metal drummers including Navene Koperweis, Hannes Grossmann. The brand is especially popular for Modern metal, progressive death metal, studio work.
+A: DW is endorsed by notable metal drummers including Hannes Grossmann. The brand is especially popular for Modern metal, progressive death metal, studio work.
 
 **Q: Which metal drummers endorse Tama?**
 A: Tama is endorsed by notable metal drummers including Lars Ulrich, Charlie Benante, Mario Duplantier, Dirk Verbeuren. The brand is especially popular for Thrash metal, groove metal, progressive metal.
@@ -90,7 +90,7 @@ A: Tama is endorsed by notable metal drummers including Lars Ulrich, Charlie Ben
 A: DW (Collector's Series Maple) is priced at €4,500 - €6,500. Tama (Starclassic Maple) runs €3,200 - €4,300. Tama Starclassic offers a lower entry price for a comparable shell-craft tier, while DW commands a premium for its hand-selected shell matching and finish options. For drummers upgrading from an entry kit, Tama delivers more pro-tier tone per euro spent.
 
 **Q: Which drums brand is more popular among metal drummers?**
-A: Based on MetalForge's tracking data, DW is used by 2 documented metal drummers and Tama by 4 in this comparison dataset. Tama leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/dw-vs-tama](https://metalforge.io/compare/dw-vs-tama).
+A: Based on MetalForge's tracking data, DW is used by 1 documented metal drummers and Tama by 4 in this comparison dataset. Tama leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/dw-vs-tama](https://metalforge.io/compare/dw-vs-tama).
 
 ---
 

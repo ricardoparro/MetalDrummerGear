@@ -21,7 +21,7 @@ The question most drummers want answered is straightforward: what drum kit does 
 - **Snare:** Mapex Mapex Saturn Evolution Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Custom red-coated set
 - **Hardware / Pedals:** DW 9000 Series Double Pedal; DW 9000 Series Hi-Hat Stand; DW 9000 Series Heavy Duty Boom Stands; Roc-n-Soc Nitro Throne; ProMark Aquiles Priester Signature
-- **Heads:** Evans
+- **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high for live projection; medium for studio warmth
 
 ### The Mapex Saturn Evolution Signature Configuration
@@ -133,4 +133,4 @@ A: Priester tunes his kit for outdoor festival projection — the dominant live 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

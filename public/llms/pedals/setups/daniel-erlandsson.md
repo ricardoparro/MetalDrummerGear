@@ -6,18 +6,18 @@
 
 ## Direct Answer
 
-Daniel Erlandsson plays a Pearl Demon Drive double pedal (direct-drive).
+Daniel Erlandsson plays a Pearl Eliminator Double Bass Pedal double pedal (direct-drive).
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
 | Brand | Pearl |
-| Model | Demon Drive |
+| Model | Eliminator Double Bass Pedal |
 | Configuration | double |
 | Drive Type | direct |
 
-Verified roster hardware entry: "Pearl Demon Drive Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Pearl Eliminator Double Bass Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -27,7 +27,7 @@ Verified roster hardware entry: "Pearl Demon Drive Double Pedal." Source: roster
 ## FAQ
 
 **Q: What pedals does Daniel Erlandsson use?**
-A: Daniel Erlandsson plays a Pearl Demon Drive double pedal (direct-drive).
+A: Daniel Erlandsson plays a Pearl Eliminator Double Bass Pedal double pedal (direct-drive).
 
 ## More Resources
 
@@ -38,4 +38,4 @@ A: Daniel Erlandsson plays a Pearl Demon Drive double pedal (direct-drive).
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

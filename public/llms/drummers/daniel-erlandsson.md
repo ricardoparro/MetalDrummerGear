@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daniel-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Daniel Erlandsson — Drum Kit & Gear Setup
@@ -197,7 +197,7 @@ Full breakdown: [Daniel Erlandsson's cymbal setup](https://metalforge.io/cymbals
 
 ## Pedal
 
-Daniel Erlandsson plays a Pearl Demon Drive double pedal (direct-drive).
+Daniel Erlandsson plays a Pearl Eliminator Double Bass Pedal double pedal (direct-drive).
 
 Full breakdown: [Daniel Erlandsson's pedal setup](https://metalforge.io/pedals/setups/daniel-erlandsson).
 
@@ -231,4 +231,4 @@ Dated brand-endorsement timeline: [Daniel Erlandsson's endorsement history](http
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

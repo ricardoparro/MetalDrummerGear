@@ -67,4 +67,4 @@ A: Navene Koperweis left Animals as Leaders in 2012 after the "Weightless" touri
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

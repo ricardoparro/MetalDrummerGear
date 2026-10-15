@@ -26,4 +26,4 @@ A: Igor Cavalera plays Zildjian cymbals: Zildjian A Custom Series, adopted for t
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

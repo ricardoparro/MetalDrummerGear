@@ -74,4 +74,4 @@ A: Charlie Benante is widely credited as one of the earliest popularizers of the
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

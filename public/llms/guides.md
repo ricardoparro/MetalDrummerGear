@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-10-11 · Source: https://metalforge.io
+> Last updated: 2026-10-15 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -1992,10 +1992,10 @@ Mazurkiewicz plays traditional grip — rare in death metal — which gives his 
 
 ### Gear Setup
 
-- Drums: Pearl Pearl Masters Maple Complete (Maple shells)
-- Snare: Pearl Pearl Masters 14"x6.5" Maple
+- Drums: Pearl Pearl Reference (Maple shells)
+- Snare: Pearl Pearl Free-Floating
 - Cymbals: Meinl Meinl Classics Custom / Byzance Series
-- Pedals: Pearl Pearl Demon Drive Double Pedal
+- Pedals: Pearl Pearl Eliminator Double Bass Pedal
 
 ### Frequently Asked Questions
 
@@ -2258,7 +2258,7 @@ Wallgren plays matched grip with a powerful, relaxed stroke built for endurance 
 ### Gear Setup
 
 - Drums: Pearl Pearl Reference Pure (Pure maple/birch hybrid shells)
-- Snare: Pearl Pearl Reference Brass
+- Snare: Pearl Pearl Reference Pure
 - Cymbals: Zildjian Zildjian A Custom & K Custom Series
 - Pedals: Pearl Pearl Demon Drive Double Pedal
 
@@ -2268,7 +2268,7 @@ Wallgren plays matched grip with a powerful, relaxed stroke built for endurance 
 A: Wallgren's defining trait is groove-first support — his double-bass gallop and kick patterns track Amon Amarth's guitar riffs exactly rather than running as independent technical showcases. Combined with a huge, anthemic backbeat and genuine dynamic control between the band's quiet folk-tinged passages and explosive choruses, his playing makes the band's Viking-themed anthems hit with maximum physical weight.
 
 **Q: What drums and cymbals does Jocke Wallgren use?**
-A: Wallgren plays a Pearl Reference Pure kit with a Pearl Reference Brass snare for a bright, cutting backbeat. His cymbals are Zildjian A Custom & K Custom — bright A Custom crashes and hi-hats paired with a warmer K Custom ride. He uses a Pearl Demon Drive double pedal and heavier Vic Firth 5B sticks for arena-level power.
+A: Wallgren plays a Pearl Reference Pure kit, including the matching maple/birch hybrid Reference Pure snare, for a warm, full-bodied backbeat. His cymbals are Zildjian A Custom & K Custom — bright A Custom crashes and hi-hats paired with a warmer K Custom ride. He uses a Pearl Demon Drive double pedal and heavier Vic Firth 5B sticks for arena-level power.
 
 **Q: How do I get the Amon Amarth drum sound?**
 A: Tune the kick for punchy, defined attack rather than boom, keep the snare bright and minimally muffled for cut, and prioritize locking every kick pattern to the guitar riff before adding fills. The Viking gallop only works when it's rhythmically identical to the riff it's supporting — practice transcription before speed.
@@ -2677,7 +2677,7 @@ Otto's playing is built on pocket, not speed. His hands stay locked into a deep,
 - Drums: OCDP OCDP Custom Type 5 Acrylic (Acrylic shells)
 - Snare: OCDP OCDP 14" x 6.5" 40-ply Vented Snare
 - Cymbals: Zildjian Zildjian A Custom Series
-- Pedals: Gibraltar Gibraltar G Class Bass Drum Pedal
+- Pedals: Gibraltar Gibraltar Professional Series Bass Drum Pedal
 
 ### Frequently Asked Questions
 
@@ -2685,7 +2685,7 @@ Otto's playing is built on pocket, not speed. His hands stay locked into a deep,
 A: Otto studied jazz drumming at the Douglas Anderson School of the Arts before co-founding Limp Bizkit, and that formal training shows up as groove sophistication rather than raw power. Where most nu-metal drummers lean on aggression, Otto builds fat, hip-hop-informed backbeats and layers double-pedal accents underneath — a pocket-first approach that Modern Drummer described as "grounded in metal, jazz, and hip-hop."
 
 **Q: What gear should I use to sound like John Otto?**
-A: Otto plays an OCDP Custom Type 5 Acrylic kit with a 14" x 6.5" 40-ply vented OCDP snare, Zildjian A Custom cymbals (13" Mastersound hi-hats, 16"/17" Projection Crashes, 20" EFX, 20" Oriental Crash of Doom), a single Gibraltar G Class bass drum pedal, Zildjian Artist Series sticks, and Remo heads. A Pearl Export kit with Zildjian ZBT cymbals approximates the punchy, groove-forward character on a budget.
+A: Otto plays an OCDP Custom Type 5 Acrylic kit with a 14" x 6.5" 40-ply vented OCDP snare, Zildjian A Custom cymbals (13" Mastersound hi-hats, 16"/17" Projection Crashes, 20" EFX, 20" Oriental Crash of Doom), a single Gibraltar Professional Series bass drum pedal, Zildjian Artist Series sticks, and Remo heads. A Pearl Export kit with Zildjian ZBT cymbals approximates the punchy, groove-forward character on a budget.
 
 **Q: Does John Otto use a double bass pedal?**
 A: Otto plays a single-pedal setup rather than the double-kick configuration common among his nu-metal peers, and adds double-pedal bursts sparingly and musically under specific riff accents rather than as a continuous pattern — restraint is part of his sound.
@@ -2885,7 +2885,7 @@ Augusto plays matched grip with an aggressive, high-energy attack rooted in thra
 - Drums: Pearl Pearl Reference Pure ( shells)
 - Snare: Pearl Pearl Reference 14" x 6.5" Brass
 - Cymbals: Sabian Sabian AAX Series
-- Pedals: Pearl Pearl Demon Drive Double Bass Pedal
+- Pedals: DW DW 9000 Series Double Bass Drum Pedal
 
 ### Frequently Asked Questions
 
@@ -2893,7 +2893,7 @@ Augusto plays matched grip with an aggressive, high-energy attack rooted in thra
 A: Nick Augusto was Trivium's drummer from 2010 to 2014, recording two studio albums with the band: "In Waves" (2011) and "Vengeance Falls" (2013).
 
 **Q: What gear did Nick Augusto use with Trivium?**
-A: Augusto played a Pearl Reference Pure kit with a Pearl Reference 14" x 6.5" Brass snare, Sabian AAX Series cymbals, a Pearl Demon Drive double pedal, and Pro-Mark Nylon Tip 5B sticks.
+A: Augusto played a Pearl Reference Pure kit with a Pearl Reference 14" x 6.5" Brass snare, Sabian AAX Series cymbals, a DW 9000 Series double pedal, and Pro-Mark Nylon Tip 5B sticks.
 
 **Q: Why did Nick Augusto leave Trivium?**
 A: Augusto parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro, and Alex Bent later joined the band in 2017.
@@ -2927,10 +2927,10 @@ Dette plays matched grip with an economical, controlled stroke built for accurac
 
 ### Key Songs to Study
 
-- *D.N.R. (Do Not Resuscitate)* (The Gathering, 1999) — Testament's heaviest era — part of the live setlist Dette toured, studio drums by Dave Lombardo; study it for the metronomic double-bass drive Dette matched live
-- *Down for Life* (The Gathering, 1999) — Another Dave Lombardo studio performance from Dette's touring-era setlist — demonstrates the precision and endurance Dette had to replicate night after night
-- *More Than Meets the Eye* (The Formation of Damnation, 2008) — Testament's Nuclear Blast-era comeback single, recorded by Paul Bostaph — part of the live catalogue Dette toured during this Testament stint
-- *Native Blood* (Dark Roots of Earth, 2012) — Studio drums by Gene Hoglan — anchored one of Testament's most acclaimed tracks, which Dette performed live during this touring period
+- *D.N.R. (Do Not Resuscitate)* (The Gathering, 1999) — Testament's heaviest era, released the year after Dette's second touring stint ended — study it for the metronomic double-bass drive that defines his playing style; studio drums by Dave Lombardo
+- *Down for Life* (The Gathering, 1999) — Another Dave Lombardo studio performance — demonstrates the precision and endurance the Testament drum chair demands, the same standard Dette held to during his own touring stints
+- *More Than Meets the Eye* (The Formation of Damnation, 2008) — Testament's Nuclear Blast-era comeback single, recorded by Paul Bostaph a decade after Dette's Testament touring stints had ended
+- *Native Blood* (Dark Roots of Earth, 2012) — Studio drums by Gene Hoglan — anchors one of Testament's most acclaimed tracks, part of the catalogue long after Dette's own touring tenure
 
 ### Gear Setup
 
@@ -2951,10 +2951,10 @@ A: Dette played a Ludwig Classic Maple kit with a 14" x 6.5" metal or maple snar
 A: Tune the kick for punchy, defined attack rather than boom, keep the snare medium-bright with minimal muffling for cut, and build double-bass evenness at a reduced tempo before chasing speed. Dette's sound comes from consistency at 180-220 BPM, not raw aggression — every stroke needs to register as a distinct event.
 
 **Q: Which bands did Jon Dette play drums for?**
-A: Jon Dette played with three major thrash metal acts: Slayer (touring, 1996-1997, filling in for Paul Bostaph), Testament (touring drummer, 1997-1999 and 2001-2012 — not a studio member on the era's albums), and Anthrax (touring fill-in for Charlie Benante in 2010). This makes him one of only a handful of drummers to have performed with three of thrash's biggest bands.
+A: Jon Dette played with three major thrash metal acts: Slayer (touring, 1996-1997, filling in for Paul Bostaph), Testament (touring drummer, 1994-1995 and 1997-1998 — not a studio member on the era's albums), and Anthrax (touring fill-in for Charlie Benante in 2010). This makes him one of only a handful of drummers to have performed with three of thrash's biggest bands.
 
 **Q: What Testament albums should I study for Jon Dette's drumming?**
-A: Dette was Testament's touring drummer, not a studio member — the studio albums released across his tenure were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan. Still, these were the records that shaped his live sets: study The Gathering (1999) via 'D.N.R. (Do Not Resuscitate)' and 'Down for Life' for the metronomic double-bass drive he replicated on tour, The Formation of Damnation (2008) via 'More Than Meets the Eye' for the modern comeback era, and Dark Roots of Earth (2012) via 'Native Blood' for the late-career material he performed live.
+A: Dette was Testament's touring drummer across two stints (1994-1995, 1997-1998), not a studio member — the studio albums released in that era and afterward were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan. Still, these are useful records to study the drum chair's standard: The Gathering (1999) via 'D.N.R. (Do Not Resuscitate)' and 'Down for Life' for the metronomic double-bass drive, The Formation of Damnation (2008) via 'More Than Meets the Eye' for the band's comeback era, and Dark Roots of Earth (2012) via 'Native Blood' for its most acclaimed later material.
 
 ---
 
@@ -3120,7 +3120,7 @@ A: Start with the Riff-Lock Rebuild drill: take a single guitar riff, write a ki
 **Genre:** Symphonic Black Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-daray](https://metalforge.io/guides/how-to-sound-like-daray)
 
-Master Daray's orchestral-precision symphonic black metal style. Learn the Dimmu Borgir drummer's blast beat control, Pearl Reference Pure setup, and the technique needed to lock in with a live orchestra.
+Master Daray's orchestral-precision symphonic black metal style. Learn the Dimmu Borgir drummer's blast beat control, Tama Starclassic Performer B/B setup, and the technique needed to lock in with a live orchestra.
 
 ### Style Overview
 
@@ -3142,15 +3142,15 @@ Daray's technique is built around a single core demand: extreme metal intensity 
 
 ### Gear Setup
 
-- Drums: Pearl Pearl Reference Pure (Pure Maple/Birch hybrid shells)
-- Snare: Pearl Pearl Reference 14" x 5" Brass
+- Drums: Tama Tama Starclassic Performer B/B (Birch/Bubinga hybrid shells)
+- Snare: Tama Tama S.L.P. Black Brass LBR1465
 - Cymbals: Paiste Paiste RUDE / 2002 Series
 - Pedals: Pearl Pearl Demon Drive Double Pedal
 
 ### Frequently Asked Questions
 
 **Q: What drum kit does Daray play?**
-A: Daray plays a Pearl Reference Pure kit in a custom black finish, with a double 22" x 18" bass drum configuration and a 14" x 5" Pearl Reference brass snare. His cymbals are Paiste RUDE and 2002 series, and he uses a Pearl Demon Drive double pedal.
+A: Daray plays a Tama Starclassic Performer B/B kit in Piano Black finish, with a double 22" x 18" bass drum configuration and a 14" x 6.5" Tama S.L.P. Black Brass LBR1465 snare. His cymbals are Paiste RUDE and 2002 series, and he uses a Pearl Demon Drive double pedal.
 
 **Q: How does Daray play with a live orchestra?**
 A: Daray relies on strict tempo discipline and dynamic control rather than following the orchestra by ear. Since a live orchestra and choir can't adjust to a drummer who rushes or drags, he practices holding blast beats and fills to a fixed tempo so his parts stay locked to the fixed orchestral arrangement.
@@ -3191,14 +3191,14 @@ Bittner's technique is built on dynamic control across two distinct vocabularies
 ### Gear Setup
 
 - Drums: Mapex Mapex Saturn V (Maple/Walnut hybrid shells)
-- Snare: Mapex Mapex Saturn V Steel 14" x 6.5"
+- Snare: Mapex Mapex Black Panther Brass 14" x 6.5"
 - Cymbals: Zildjian Zildjian K and A Custom Series
 - Pedals: Mapex Mapex Falcon Double Pedal
 
 ### Frequently Asked Questions
 
 **Q: What drum kit does Jason Bittner play?**
-A: Jason Bittner plays a Mapex Saturn V kit with maple/walnut hybrid shells, a double 22" x 18" bass drum configuration, and a 14" x 6.5" Mapex Saturn V Steel snare. His cymbals are Zildjian K and A Custom series, and he uses a Mapex Falcon Double Pedal.
+A: Jason Bittner plays a Mapex Saturn V kit with maple/walnut hybrid shells, a double 22" x 18" bass drum configuration, and a 14" x 6.5" Mapex Black Panther Brass snare. His cymbals are Zildjian K and A Custom series, and he uses a Mapex Falcon Double Pedal.
 
 **Q: How does Jason Bittner combine NWOAHM groove with thrash drumming?**
 A: Bittner shifts between two vocabularies depending on the band: in Shadows Fall, he plays syncopated double-bass patterns with dynamic cymbal shaping that leaves room for melodic guitar lines; in Overkill, he plays sustained, even-stroke double bass at high velocity to drive straight thrash riffs. Both rely on the same technical foundation of precise kick-to-riff locking.
@@ -3268,7 +3268,7 @@ A: "White Pony" (2000) is the definitive showcase, featuring the Grammy-winning 
 **Genre:** Nu-Metal / Alternative Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-ray-luzier](https://metalforge.io/guides/how-to-sound-like-ray-luzier)
 
-Master Ray Luzier's groove-locked nu-metal power. Learn the Korn drummer's pocket-driven double bass, session-player precision, Pearl Masters Maple kit, and Sabian AAX cymbal setup behind Korn III through Requiem.
+Master Ray Luzier's groove-locked nu-metal power. Learn the Korn drummer's pocket-driven double bass, session-player precision, Pearl Reference Maple kit, and Sabian AAX cymbal setup behind Korn III through Requiem.
 
 ### Style Overview
 
@@ -3291,7 +3291,7 @@ Luzier's playing is built on a session musician's core discipline: serve the poc
 
 ### Gear Setup
 
-- Drums: Pearl Pearl Masters Maple Complete (All-Maple shells)
+- Drums: Pearl Pearl Reference Maple (All-Maple shells)
 - Snare: Pearl Pearl Reference 14" x 6.5" Brass
 - Cymbals: Sabian Sabian AAX Series
 - Pedals: DW DW 9000 Series Double Pedal
@@ -3302,7 +3302,7 @@ Luzier's playing is built on a session musician's core discipline: serve the poc
 A: Ray Luzier replaced David Silveria as Korn's drummer. A veteran session and touring player — previously with David Lee Roth's band and the supergroup Army of Anyone — Luzier joined Korn in 2007 and made his studio debut on Korn III: Remember Who You Are (2010), which debuted at #7 on the US Billboard 200.
 
 **Q: What drum kit does Ray Luzier play?**
-A: Ray Luzier plays a Pearl Masters Maple Complete kit with double 22" x 18" bass drums, a five-tom spread (10", 12", 13" racks and 16", 18" floor toms), and a Pearl Reference 14" x 6.5" brass snare. His cymbals are Sabian AAX — 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
+A: Ray Luzier plays a Pearl Reference Maple kit with double 22" x 18" bass drums, a five-tom spread (10", 12", 13" racks and 16", 18" floor toms), and a Pearl Reference 14" x 6.5" brass snare. His cymbals are Sabian AAX — 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
 
 **Q: What pedal and sticks does Ray Luzier use?**
 A: Luzier uses the DW 9000 Series direct-drive double pedal and his own signature Vic Firth Ray Luzier sticks, which feature a nylon tip for consistent cymbal articulation.

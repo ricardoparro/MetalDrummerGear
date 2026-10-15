@@ -41,4 +41,4 @@ A: Nick Menza plays Sabian cymbals: 14" AA Regular Hi-Hats, 16" AA Rock Crash, 1
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

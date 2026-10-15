@@ -41,4 +41,4 @@ A: MetalForge tracks all Promark series used by professional metal drummers. Vis
 
 ---
 
-*Source: [metalforge.io/gear/promark/5b/drummers-using](https://metalforge.io/gear/promark/5b/drummers-using) · Last updated: 2026-10-07*
+*Source: [metalforge.io/gear/promark/5b/drummers-using](https://metalforge.io/gear/promark/5b/drummers-using) · Last updated: 2026-10-15*

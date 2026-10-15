@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Orange"
 profile_url: "https://metalforge.io/drummer/john-otto"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # John Otto — Drum Kit & Gear Setup
@@ -119,11 +119,11 @@ John Otto's drumming style is a unique fusion of metal power, jazz sophisticatio
 
 **Q: What drum kit does John Otto use?**
 
-A: John Otto's drum kit is an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit — the transparent acrylic shells that defined his visual and sonic identity throughout Limp Bizkit's nu-metal peak. It centers on two signature OCDP snares (a 14"x6.5" 40-ply vented shell and a 10"x6" 20-ply piccolo), driven by Gibraltar G Class bass drum pedals and topped with Zildjian A Custom cymbals.
+A: John Otto's drum kit is an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit — the transparent acrylic shells that defined his visual and sonic identity throughout Limp Bizkit's nu-metal peak. It centers on two signature OCDP snares (a 14"x6.5" 40-ply vented shell and a 10"x6" 20-ply piccolo), driven by Gibraltar Professional Series bass drum pedals and topped with Zildjian A Custom cymbals.
 
 **Q: What drum set does John Otto use?**
 
-A: John Otto's drum set is an OCDP Custom Type 5 Acrylic configuration built around a 14"x6.5" 40-ply vented snare for primary work and a 10"x6" 20-ply piccolo snare for accents. The drum set carries Zildjian cymbals, a single Gibraltar G Class bass drum pedal, and Remo Emperor Coated heads throughout.
+A: John Otto's drum set is an OCDP Custom Type 5 Acrylic configuration built around a 14"x6.5" 40-ply vented snare for primary work and a 10"x6" 20-ply piccolo snare for accents. The drum set carries Zildjian cymbals, a single Gibraltar Professional Series bass drum pedal, and Remo Emperor Coated heads throughout.
 
 **Q: What cymbals does John Otto use?**
 
@@ -135,7 +135,7 @@ A: John Otto's primary snare is an OCDP 14"x6.5" 40-ply vented shell, paired wit
 
 **Q: What bass drum pedals does John Otto use?**
 
-A: John Otto uses Gibraltar G Class bass drum pedals in a single-pedal configuration, mounted on Gibraltar custom hardware racks, underpinning the straight-ahead funk and rock grooves on tracks like "Rollin'" and "Break Stuff."
+A: John Otto uses Gibraltar Professional Series bass drum pedals in a single-pedal configuration, mounted on Gibraltar custom hardware racks, underpinning the straight-ahead funk and rock grooves on tracks like "Rollin'" and "Break Stuff."
 
 **Q: What band is John Otto in?**
 
@@ -151,7 +151,7 @@ A: John Otto uses Remo Emperor Coated drumheads across his OCDP acrylic kit.
 
 **Q: What hardware does John Otto use?**
 
-A: John Otto uses Gibraltar hardware — including his custom racks and G Class bass drum pedal — to support his transparent OCDP acrylic drum kit and drum set on stage.
+A: John Otto uses Gibraltar hardware — including his custom racks and Professional Series bass drum pedal — to support his transparent OCDP acrylic drum kit and drum set on stage.
 
 ## Trivia
 
@@ -195,7 +195,7 @@ Full breakdown: [John Otto's cymbal setup](https://metalforge.io/cymbals/setups/
 
 ## Pedal
 
-John Otto plays a Gibraltar G Class pedal.
+John Otto plays a Gibraltar Professional Series pedal.
 
 Full breakdown: [John Otto's pedal setup](https://metalforge.io/pedals/setups/john-otto).
 
@@ -228,4 +228,4 @@ Dated brand-endorsement timeline: [John Otto's endorsement history](https://meta
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

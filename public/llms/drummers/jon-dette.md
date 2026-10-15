@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/jon-dette"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Jon Dette — Drum Kit & Gear Setup
@@ -33,24 +33,24 @@ Jon Dette's Slayer-era rig was built around a Ludwig Classic Maple kit — a gea
 
 Sabian and Zildjian cymbals rounded out the Jon Dette drum kit across his Slayer and Testament tenures: 14" hi-hats for the fast, articulate sixteenth-note pulse thrash metal's 180–220 BPM tempos demand, 16" and 18" crashes for structural accents, a 20" ride, and an 18" China for the aggressive punctuation Slayer's most intense passages require. A DW 9000 or Tama Iron Cobra double bass pedal drove his sustained double-kick work, giving Dette the pedal consistency needed to learn Slayer's entire live set on short notice in 1996 and execute it reliably from his first night on tour.
 
-Remo Powerstroke 3 heads on the kick, Emperor Coated heads on the toms, and Coated Ambassador on the snare completed the rig, chosen for the focused attack and two-ply durability thrash metal's high-impact playing demands across long tours. Promark or Vater 5B sticks — a heavier model favored for authority and durability — carried Dette through his longest tenure as Testament's touring drummer (1997–1999, 2001–2012), plus his 2010 fill-in stint for Charlie Benante on an Anthrax tour.
+Remo Powerstroke 3 heads on the kick, Emperor Coated heads on the toms, and Coated Ambassador on the snare completed the rig, chosen for the focused attack and two-ply durability thrash metal's high-impact playing demands across long tours. Promark or Vater 5B sticks — a heavier model favored for authority and durability — carried Dette through his two touring stints as Testament's touring drummer (1994–1995, 1997–1998), plus his 2010 fill-in stint for Charlie Benante on an Anthrax tour.
 
 ## Biography
 
-Jon Dette (born August 25, 1967, in Milwaukee, Wisconsin) is an American drummer best known as Slayer's touring drummer during 1996–1997, filling in for Paul Bostaph and learning the band's full live set on short notice. He went on to become Testament's touring drummer across two stints from 1997 to 2012, a tenure captured on the live album Live at the Fillmore (2005) — Testament's studio albums released during those years, The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively — and filled in for Charlie Benante on a 2010 Anthrax tour.
+Jon Dette (born August 25, 1967, in Milwaukee, Wisconsin) is an American drummer best known as Slayer's touring drummer during 1996–1997, filling in for Paul Bostaph and learning the band's full live set on short notice. He also toured with Testament across two stints, 1994–1995 and 1997–1998, never recording a studio album with the band — Testament's studio albums released in that era and afterward, The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively — and filled in for Charlie Benante on a 2010 Anthrax tour.
 
 Jon Dette (born August 25, 1967, in Milwaukee, Wisconsin) is an American drummer known for his work as a touring and session drummer with several major thrash metal bands, most notably Slayer and Testament.
 
-Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul Bostaph was temporarily unavailable. He later became Testament's touring drummer across two stints (1997-1999, 2001-2012), a tenure captured on the live album Live at the Fillmore. His versatility and professionalism have earned him respect throughout the metal community.
+Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul Bostaph was temporarily unavailable. He also toured with Testament across two stints (1994-1995 and 1997-1998) — the first after John Tempesta's departure, the second covering live dates after Gene Hoglan's first stint ended — never recording a studio album with the band. His versatility and professionalism have earned him respect throughout the metal community.
 
 ## Career Highlights
 
+- **1994** — Joined Testament as touring drummer after John Tempesta's departure
+- **1995** — Left Testament; Gene Hoglan joined for his first stint
 - **1996** — Joined Slayer as touring drummer, filling in for Paul Bostaph
-- **1997** — Left Slayer when Bostaph returned; joined Testament
-- **1999** — Touring drummer for Testament's "The Gathering" era (studio album recorded by Dave Lombardo)
-- **2008** — Testament's touring drummer during "The Formation of Damnation" era (studio album recorded by Paul Bostaph)
+- **1997** — Left Slayer when Bostaph returned; rejoined Testament as touring drummer after Hoglan's first stint ended
+- **1998** — Left Testament before Dave Lombardo arrived to record "The Gathering" (1999)
 - **2010** — Filled in for Charlie Benante on Anthrax tour dates
-- **2012** — Testament's touring drummer during "Dark Roots of Earth" era (studio album recorded by Gene Hoglan)
 
 ## Style & Influences
 
@@ -68,20 +68,17 @@ Jon Dette's drumming style is characterized by technical precision, adaptability
 
 ## Notable Recordings
 
-**Albums:**
-
-- **Testament - Live at the Fillmore** (2005, Nuclear Blast) — Live album capturing Dette's touring tenure
 
 **Tours:**
 
 - **Slayer World Tour** (1996-1997) — Fill-in drummer period
-- **Testament Tours** (1997-2012) — Multiple touring cycles
+- **Testament Tours** (1994-1995, 1997-1998) — Two touring-only stints; no studio album recorded
 - **Anthrax Tour** (2010) — Fill-in for Charlie Benante
 
 ## Band History
 
 - **Slayer** — 1996–1997
-- **Testament** — 1997–1999, 2001–2012
+- **Testament** — 1994–1995, 1997–1998
 - **Anthrax** — 2010
 
 ## Gear
@@ -136,18 +133,18 @@ A: Jon Dette uses Remo Powerstroke 3 heads on his kick, Emperor Coated on his to
 
 **Q: What band is Jon Dette in?**
 
-A: Jon Dette was Slayer's touring drummer in 1996-1997, then Testament's touring drummer across two stints (1997-1999, 2001-2012), a run captured on the live album Live at the Fillmore (2005). Testament's studio albums released during those years — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) — were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively. He also filled in for Charlie Benante on a 2010 Anthrax tour.
+A: Jon Dette was Slayer's touring drummer in 1996-1997, then Testament's touring drummer across two stints (1994-1995, 1997-1998), never recording a studio album with the band. Testament's studio albums released in that era and afterward — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) — were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively. He also filled in for Charlie Benante on a 2010 Anthrax tour.
 
 **Q: How did Jon Dette join Slayer?**
 
-A: Jon Dette joined Slayer in 1996 as touring drummer, filling in when Paul Bostaph was temporarily unavailable, and left in 1997 when Bostaph returned to the band. He went on to become a longer-term member of Testament.
+A: Jon Dette joined Slayer in 1996 as touring drummer, filling in when Paul Bostaph was temporarily unavailable, and left in 1997 when Bostaph returned to the band. He went on to tour with Testament across two separate stints.
 
 ## Trivia
 
 - Known as thrash metal's most reliable fill-in drummer
 - Learned entire Slayer setlists quickly when called to tour
 - One of few drummers to have played with three of the Big Four (Slayer, Anthrax)
-- The Gathering, released during his first Testament touring stint, is considered one of Testament's best albums — though its drums were recorded by Dave Lombardo
+- The Gathering (1999), released after Dette's second Testament touring stint had ended, is considered one of Testament's best albums — its drums were recorded by Dave Lombardo
 - Praised for professionalism and quick learning ability
 
 ## Signature Licks on MetalForge
@@ -210,4 +207,4 @@ Dated brand-endorsement timeline: [Jon Dette's endorsement history](https://meta
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

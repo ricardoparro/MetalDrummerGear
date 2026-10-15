@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/inferno"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Inferno — Drum Kit & Gear Setup
@@ -23,15 +23,15 @@ Inferno's drum kit and gear setup. Inferno is a professional metal drummer best 
 | Genre | Black/Death Metal |
 | Country | Poland |
 | Primary brand | Pearl |
-| Drum kit | Pearl Masterworks |
+| Drum kit | Pearl Reference Series |
 | Signature snare | Pearl Reference 14x5" Steel |
 | Sticks | Vic Firth 5B |
 
 ## Kit Overview
 
-Inferno plays a Pearl Masterworks drum kit — the premium custom shell series anchoring Behemoth's apocalyptic live productions since the drummer joined in 1997. The centerpiece of the Inferno drum set is a Pearl Reference 14×5" Steel snare, tuned for maximum cutting crack to penetrate the band's dense wall of down-tuned guitars during blast beats exceeding 200 BPM. A Czarcie Kopyto (Devil's Hoof) double pedal — Polish-engineered direct-drive mechanism — drives the double kick with the speed and precision Inferno's relentless blast passages demand.
+Inferno plays a Pearl Reference Series drum kit — anchoring Behemoth's apocalyptic live productions since the drummer joined in 1997. The centerpiece of the Inferno drum set is a Pearl Reference 14×5" Steel snare, tuned for maximum cutting crack to penetrate the band's dense wall of down-tuned guitars during blast beats exceeding 200 BPM. A Czarcie Kopyto (Devil's Hoof) double pedal — Polish-engineered direct-drive mechanism — drives the double kick with the speed and precision Inferno's relentless blast passages demand.
 
-Paiste RUDE Series cymbals define the sonic character of the Inferno drum kit: 14" Hi-Hats for rapid closed articulation; a 14" Blast China for immediate accent attacks; 18" and 19" Crashes for explosive dynamic punctuation; a 24" Mega Power Ride cutting through Behemoth's full stage volume; and an 18" China for riff-transition brutality. Vic Firth 5B sticks complete the rig. Inferno has been Behemoth's drummer since 1997, anchoring landmark albums including Demigod (2004), The Satanist (2014), and I Loved You at Your Darkest (2018). His Pearl Masterworks drum set is built for the precision and endurance extreme metal's most celebrated live act demands across world tours.
+Paiste RUDE Series cymbals define the sonic character of the Inferno drum kit: 14" Hi-Hats for rapid closed articulation; a 14" Blast China for immediate accent attacks; 18" and 19" Crashes for explosive dynamic punctuation; a 24" Mega Power Ride cutting through Behemoth's full stage volume; and an 18" China for riff-transition brutality. Vic Firth 5B sticks complete the rig. Inferno has been Behemoth's drummer since 1997, anchoring landmark albums including Demigod (2004), The Satanist (2014), and I Loved You at Your Darkest (2018). His Pearl Reference Series drum set is built for the precision and endurance extreme metal's most celebrated live act demands across world tours.
 
 ## Biography
 
@@ -97,7 +97,7 @@ Inferno's drumming is characterized by relentless intensity, metronomic precisio
 
 ## Gear
 
-- **Drums:** Pearl Masterworks
+- **Drums:** Pearl Reference Series
 - **Snare:** Pearl Reference 14x5" Steel
 - **Cymbals:** Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China)
 - **Hardware:** Czarcie Kopyto (Devil's Hoof) Double Pedal, Pearl D-2000 Throne
@@ -120,11 +120,11 @@ Inferno's drumming is characterized by relentless intensity, metronomic precisio
 
 **Q: What drum kit does Inferno use?**
 
-A: Inferno plays a Pearl Masterworks drum kit — the premium custom shell series anchoring Behemoth's apocalyptic live productions since he joined the band in 1997. It's built around a Pearl Reference 14"x5" Steel snare tuned for maximum cutting crack.
+A: Inferno plays a Pearl Reference Series drum kit — anchoring Behemoth's apocalyptic live productions since he joined the band in 1997. It's built around a Pearl Reference 14"x5" Steel snare tuned for maximum cutting crack.
 
 **Q: What drum set does Inferno use?**
 
-A: Inferno's drum set pairs his Pearl Masterworks shells and steel snare with a Czarcie Kopyto (Devil's Hoof) double pedal — a Polish-engineered direct-drive mechanism — giving him the speed and precision his relentless blast passages demand.
+A: Inferno's drum set pairs his Pearl Reference Series shells and steel snare with a Czarcie Kopyto (Devil's Hoof) double pedal — a Polish-engineered direct-drive mechanism — giving him the speed and precision his relentless blast passages demand.
 
 **Q: What cymbals does Inferno play?**
 
@@ -144,7 +144,7 @@ A: Inferno drives his double kick with a Czarcie Kopyto (Devil's Hoof) double pe
 
 **Q: What drumheads does Inferno use?**
 
-A: Inferno uses Remo drumheads across his Pearl Masterworks kit.
+A: Inferno uses Remo drumheads across his Pearl Reference Series kit.
 
 **Q: What band is Inferno in?**
 
@@ -242,4 +242,4 @@ Dated brand-endorsement timeline: [Inferno's endorsement history](https://metalf
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

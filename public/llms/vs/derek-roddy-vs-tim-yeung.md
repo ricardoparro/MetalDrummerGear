@@ -34,7 +34,7 @@ Roddy's blast beat technique, including his pioneering one-footed bass drum appr
 
 ## Key Differences
 
-Derek Roddy plays a Tama Starclassic Bubinga kit with a Tama SLP Black Brass 14x6.5" snare and Meinl Byzance & Mb20 Series cymbals (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China), driven by a Tama Speed Cobra 910 double pedal and Vater 5B sticks. Tim Yeung plays a Tama Starclassic Bubinga kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride), powered by a Tama Speed Cobra 910 double pedal and Vic Firth American Classic 5A sticks. Roddy's blast beat technique, including his pioneering one-footed bass drum approach, is studied by extreme metal drummers worldwide; his instructional material broke down the mechanics of sustaining extreme tempos with technical precision rather than pure brute force, making him as influential as an educator as he is as a performer. Yeung's technique favors relentless, sustained blast-beat velocity combined with meticulous double-bass control, allowing him to slot into demanding death metal lineups — Vital Remains, Morbid Angel, Hate Eternal — and deliver studio-perfect performances under tight recording schedules, a versatility that has made him one of the genre's most in-demand players.
+Derek Roddy plays a Tama Starclassic Bubinga kit with a Tama SLP Black Brass 14x6.5" snare and Meinl Byzance & Mb20 Series cymbals (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China), driven by a Tama Speed Cobra 910 double pedal and Vater 5B sticks. Tim Yeung plays a Tama Starclassic Bubinga kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride), powered by a Tama Speed Cobra 910 double pedal and Vic Firth 5B sticks. Roddy's blast beat technique, including his pioneering one-footed bass drum approach, is studied by extreme metal drummers worldwide; his instructional material broke down the mechanics of sustaining extreme tempos with technical precision rather than pure brute force, making him as influential as an educator as he is as a performer. Yeung's technique favors relentless, sustained blast-beat velocity combined with meticulous double-bass control, allowing him to slot into demanding death metal lineups — Vital Remains, Morbid Angel, Hate Eternal — and deliver studio-perfect performances under tight recording schedules, a versatility that has made him one of the genre's most in-demand players.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Derek Roddy has played with Hate Eternal (2000–2002, 2004–2005), Nile (20
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

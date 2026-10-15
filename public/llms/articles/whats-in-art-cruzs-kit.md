@@ -23,7 +23,7 @@ This is the gear that powers Lamb of God's current era.
 
 ## Gear Breakdown
 
-- **Drums:** Ludwig Ludwig Classic Maple (Custom finishes (varies by tour) finish)
+- **Drums:** Ludwig Ludwig kit anchored by the Black Beauty snare (Custom finishes (varies by tour) finish)
 - **Snare:** Ludwig Ludwig 14" x 6.5" Snare (varies), 14" x 6.5"
 - **Cymbals:** Zildjian — A Custom / K Series
 - **Hardware / Pedals:** Trick Pro 1-V Bigfoot Double Pedal; Gibraltar 9707ML-DP Hi-Hat Stand; Gibraltar 9709 Series; Roc-N-Soc Nitro Original; Vic Firth 5B or Power 5B
@@ -32,13 +32,13 @@ This is the gear that powers Lamb of God's current era.
 
 ### Art's Lamb of God Arsenal: The Ludwig Setup
 
-Art Cruz's kit setup for Lamb of God centers on Ludwig Classic Maple drums — a choice that provides the warm, punchy tone that complements Lamb of God's down-tuned groove metal sound. The Classic Maple series offers versatility across the band's diverse catalog, from crushing breakdowns to intricate ride patterns.
+Art Cruz's kit setup for Lamb of God centers on a Ludwig kit anchored by the Black Beauty snare he's played since joining the band in 2019 — a choice that provides the warm, punchy tone that complements Lamb of God's down-tuned groove metal sound.
 
 The 22" x 18" bass drum is the foundation of Cruz's sound. The deeper shell provides the low-end punch that Lamb of God's music demands while maintaining the articulation needed for Cruz's intricate double bass patterns. Unlike his predecessor Chris Adler, who used double bass drums, Cruz achieves his footwork on a single kick with a Trick double pedal.
 
 The four-tom configuration (10", 12", 14", 16") gives Cruz the melodic options he needs for Lamb of God's arrangement-heavy compositions. His fills are functional but creative — serving the songs rather than showing off, a philosophy that serves LOG's groove-oriented approach perfectly.
 
-The Classic Maple shells deliver warmth and projection — essential when competing with Mark Morton and Willie Adler's massive guitar tones. The kit cuts through without becoming harsh, a balance that's crucial for Lamb of God's dense, layered production style.
+The Black Beauty-anchored kit delivers warmth and projection — essential when competing with Mark Morton and Willie Adler's massive guitar tones. The kit cuts through without becoming harsh, a balance that's crucial for Lamb of God's dense, layered production style.
 
 ### The Groove Metal Crack
 
@@ -90,19 +90,19 @@ The torch has been passed. Art Cruz carries it with power, precision, and respec
 - First studio album with LOG: "Lamb of God" (2020)
 - Ludwig Drums and Zildjian Cymbals endorser
 - Trick Pro 1-V Bigfoot pedals for demanding double bass patterns
-- Ludwig Classic Maple for warm, punchy tone
+- Ludwig kit anchored by the Black Beauty snare for warm, punchy tone
 - Single bass drum with Trick double pedal
 - Four-tom configuration for melodic flexibility
-- Maple shells balance warmth and projection
+- Black Beauty-anchored kit balances warmth and projection
 - Setup respects LOG's established sound while adding Cruz's power
-- Estimated kit value: $4,000-6,000 (Ludwig Classic Maple configuration)
+- Estimated kit value: $4,000-6,000 (Ludwig kit configuration)
 - Estimated snare value: $400-700 (Ludwig professional snare)
 
 ## Frequently Asked Questions
 
 **Q: What drum kit does Art Cruz use with Lamb of God?**
 
-A: Art Cruz currently plays a Ludwig Classic Maple kit with Lamb of God. His setup centers on a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Classic Maple shells deliver a warm, resonant tone that holds up in both recording and high-volume live situations. Ludwig's Classic Maple is one of the brand's flagship professional lines, favored for its versatile sound across metal and rock.
+A: Art Cruz currently plays a Ludwig kit anchored by his 14" x 6.5" Black Beauty snare with Lamb of God. His setup centers on a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Black Beauty's brass shell delivers a bright, cutting crack that holds up in both recording and high-volume live situations. Ludwig's Black Beauty is one of the brand's most iconic snare drums, favored across metal and rock for its distinctive bite.
 
 **Q: What cymbals does Art Cruz use with Lamb of God?**
 
@@ -110,7 +110,7 @@ A: Art Cruz plays a Zildjian A Custom and K Series hybrid setup. His cymbal rig 
 
 **Q: How much does Art Cruz's Lamb of God kit cost?**
 
-A: A current Ludwig Classic Maple kit configured to Art Cruz's specifications runs approximately $4,000 to $6,000 for the shell pack alone. Adding hardware, a Ludwig snare at $400 to $700, and a full Zildjian A Custom and K cymbal setup can bring the total to $8,000 to $12,000 or more. Ludwig Classic Maple is a professional-tier investment but is widely available through authorized dealers.
+A: A Ludwig kit configured to Art Cruz's specifications runs approximately $4,000 to $6,000 for the shell pack alone. Adding hardware, his signature 14" x 6.5" Black Beauty snare at $400 to $700, and a full Zildjian A Custom and K cymbal setup can bring the total to $8,000 to $12,000 or more. Ludwig's Black Beauty is a professional-tier investment but is widely available through authorized dealers.
 
 ## Related Articles
 
@@ -129,4 +129,4 @@ A: A current Ludwig Classic Maple kit configured to Art Cruz's specifications ru
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

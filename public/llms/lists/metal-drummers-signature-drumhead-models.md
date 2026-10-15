@@ -1,16 +1,16 @@
-# Top 10 Metal Drummers' Signature & Notable Drumhead Models — Complete Ranked Guide
+# Top 9 Metal Drummers' Signature & Notable Drumhead Models — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumhead-models)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumhead-models)
 
 ---
 
 ## Overview
 
-MetalForge's signature drumstick and pedal lists already showed that the smallest pieces of a drummer's gear carry their own documented commercial history — this list applies the same lens to the piece even the sticks and pedal lists overlook: the drumhead itself. No metal drummer in MetalForge's database has a true co-designed signature drumhead model in the way George Kollias co-designed the Pearl Demon XR pedal, since drumhead manufacturing tolerances make bespoke artist models rarer than a signature snare or stick — but a documented slice of MetalForge's roster has a specific, named drumhead relationship worth ranking on its own. Mario Duplantier runs the most granular setup here, pairing Remo Emperor heads on his toms with Remo Powerstroke 3 heads on Gojira's dual bass drums, while Blake Richardson layers three different Evans models — Hybrid on snare, EMAD on kicks, EC2 SST on toms — across a single kit for Between the Buried and Me's technical death metal demands. Raymond Herrera is the one drummer on this list who skips Evans and Remo entirely for Attack Drumheads, a smaller specialist brand that helped shape Fear Factory's mechanical, industrial metal attack, while Nicko McBrain's Remo Emperor and Gavin Harrison's Remo Ambassador are two of the most recognizable named drumhead models in modern rock and metal drumming. Jay Weinberg's Evans Black Chrome and John Otto's Remo Emperor Coated round out the named-model entries, while George Kollias and Paul Mazurkiewicz close the list with Evans relationships documented at the brand level rather than a specific model, included because both drummers' extreme-tempo blast-beat and double-bass work makes head durability and consistency as central to their sound as any named model on this list.
+MetalForge's signature drumstick and pedal lists already showed that the smallest pieces of a drummer's gear carry their own documented commercial history — this list applies the same lens to the piece even the sticks and pedal lists overlook: the drumhead itself. No metal drummer in MetalForge's database has a true co-designed signature drumhead model in the way George Kollias co-designed the Pearl Demon XR pedal, since drumhead manufacturing tolerances make bespoke artist models rarer than a signature snare or stick — but a documented slice of MetalForge's roster has a specific, named drumhead relationship worth ranking on its own. Mario Duplantier runs the most granular setup here, pairing Remo Emperor heads on his toms with Remo Powerstroke 3 heads on Gojira's dual bass drums, while Blake Richardson layers three different Evans models — Hybrid on snare, EMAD on kicks, EC2 SST on toms — across a single kit for Between the Buried and Me's technical death metal demands. Raymond Herrera is the one drummer on this list who skips Evans and Remo entirely for Attack Drumheads, a smaller specialist brand that helped shape Fear Factory's mechanical, industrial metal attack, while Nicko McBrain's Remo Emperor and Gavin Harrison's Remo Ambassador are two of the most recognizable named drumhead models in modern rock and metal drumming. Jay Weinberg's Evans Black Chrome and John Otto's Remo Emperor Coated round out the named-model entries, while George Kollias's Evans relationship is documented at the brand level rather than a specific model, included because his extreme-tempo blast-beat work makes head durability and consistency as central to his sound as any named model on this list.
 
 **Keywords:** signature drumheads metal, metal drummer drumhead models, remo emperor metal drummers, evans drumheads metal, attack drumheads metal, best drumheads for metal
 
-The most notable signature and named drumhead models in metal, ranked. Mario Duplantier's Remo Emperor/Powerstroke 3 combo, Blake Richardson's three-model Evans setup, Raymond Herrera's Attack Drumheads, Nicko McBrain's Remo Emperor, Gavin Harrison's Remo Ambassador, Jay Weinberg, John Otto, George Kollias, and Paul Mazurkiewicz.
+The most notable signature and named drumhead models in metal, ranked. Mario Duplantier's Remo Emperor/Powerstroke 3 combo, Blake Richardson's three-model Evans setup, Raymond Herrera's Attack Drumheads, Nicko McBrain's Remo Emperor, Gavin Harrison's Remo Ambassador, Jay Weinberg, John Otto, and George Kollias.
 
 ---
 
@@ -108,16 +108,6 @@ Gene Hoglan (Death / Testament / Dethklok) earns rank #9 for: evans heads reinfo
 
 Full drummer profile: [Gene Hoglan on MetalForge](https://metalforge.io/drummer/gene-hoglan)
 
-### 10. Paul Mazurkiewicz
-
-**Band:** Cannibal Corpse
-**Highlight:** Evans heads under Cannibal Corpse's locomotive double-kick attack
-**Why ranked here:** Paul Mazurkiewicz runs Evans drumheads on his Pearl Eliminator-driven kit, paired with ddrum triggers to keep every stroke of Cannibal Corpse's 180-250 BPM double-kick patterns registering with equal clarity. Mazurkiewicz earns rank #10 for a documented, decades-long Evans relationship that has survived every one of Cannibal Corpse's studio albums since their 1990 debut.
-
-Paul Mazurkiewicz (Cannibal Corpse) earns rank #10 for: evans heads under cannibal corpse's locomotive double-kick attack. Paul Mazurkiewicz runs Evans drumheads on his Pearl Eliminator-driven kit, paired with ddrum triggers to keep every stroke of Cannibal Corpse's 180-250 BPM double-kick patterns registering with equal clarity. Mazurkiewicz earns rank #10 for a documented, decades-long Evans relationship that has survived every one of Cannibal Corpse's studio albums since their 1990 debut..
-
-Full drummer profile: [Paul Mazurkiewicz on MetalForge](https://metalforge.io/drummer/paul-mazurkiewicz)
-
 ---
 
 ## Frequently Asked Questions
@@ -132,7 +122,7 @@ A: Blake Richardson runs three separate Evans models across one kit — Hybrid o
 A: Both brands make double-ply and coated heads favored for metal's durability and dampening needs, but MetalForge's data shows some specific model differences: Remo Emperor (used by Nicko McBrain and, on toms, Mario Duplantier) is a classic double-ply model prized for fuller tone and durability, while Evans EMAD and Black Chrome (Jay Weinberg) build muffling or a darker finish directly into the head. Gavin Harrison's single-ply Remo Ambassador is the one head on this list built for open resonance over raw durability.
 
 **Q: Why do extreme metal drummers care about drumhead durability?**
-A: At blast-beat and 200+ BPM tempos, a head that loses tension or wears unevenly mid-set can change a kit's sound night to night. George Kollias's and Paul Mazurkiewicz's Evans relationships are both documented at the brand level specifically because consistent head tension under extreme, sustained speed matters more to their sound than any single named model — durability itself is the specification.
+A: At blast-beat and 200+ BPM tempos, a head that loses tension or wears unevenly mid-set can change a kit's sound night to night. George Kollias's Evans relationship is documented at the brand level specifically because consistent head tension under extreme, sustained speed matters more to his sound than any single named model — durability itself is the specification.
 
 
 ---
@@ -145,11 +135,11 @@ A: At blast-beat and 200+ BPM tempos, a head that loses tension or wears unevenl
 
 ## More Resources
 
-- [Top 10 Metal Drummers' Signature & Notable Drumhead Models — Full List](https://metalforge.io/lists/metal-drummers-signature-drumhead-models)
+- [Top 9 Metal Drummers' Signature & Notable Drumhead Models — Full List](https://metalforge.io/lists/metal-drummers-signature-drumhead-models)
 - [All MetalForge Top-10 Lists](https://metalforge.io/lists)
 - [Top-10 Lists Overview (LLM)](https://metalforge.io/llms/lists.md)
 - [All Metal Drummers](https://metalforge.io/drummers)
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

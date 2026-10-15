@@ -6,23 +6,23 @@
 
 ## Direct Answer
 
-John Otto plays a Gibraltar G Class pedal.
+John Otto plays a Gibraltar Professional Series pedal.
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
 | Brand | Gibraltar |
-| Model | G Class |
+| Model | Professional Series |
 | Configuration | unknown |
 | Drive Type | — |
 
-Verified roster hardware entry: "Gibraltar G Class Bass Drum Pedals." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Gibraltar Professional Series Bass Drum Pedals." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## FAQ
 
 **Q: What pedals does John Otto use?**
-A: John Otto plays a Gibraltar G Class pedal.
+A: John Otto plays a Gibraltar Professional Series pedal.
 
 ## More Resources
 
@@ -33,4 +33,4 @@ A: John Otto plays a Gibraltar G Class pedal.
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

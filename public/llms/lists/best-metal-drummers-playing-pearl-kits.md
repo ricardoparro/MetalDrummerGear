@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Pearl Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
 
 ---
 
@@ -115,7 +115,7 @@ A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Ange
 ## Related Lists
 
 - [Top 10 Metal Drummers Playing Tama Kits](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-tama-kits.md)
-- [Top 10 Metal Drummers Playing Sabian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-sabian-cymbals.md)
+- [Top 9 Metal Drummers Playing Sabian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-sabian-cymbals.md)
 - [Top 10 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
 
 ## More Resources
@@ -127,4 +127,4 @@ A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Ange
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

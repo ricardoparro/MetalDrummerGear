@@ -1,6 +1,6 @@
 # Top 10 Technical Thrash Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/technical-thrash-metal-drummers)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/technical-thrash-metal-drummers)
 
 ---
 
@@ -40,9 +40,9 @@ Full drummer profile: [Gene Hoglan on MetalForge](https://metalforge.io/drummer/
 
 **Band:** Fear Factory / Brujeria
 **Highlight:** Testament, Forbidden and Exodus — Bay Area technical thrash pedigree
-**Why ranked here:** Paul Bostaph built his technical reputation across Testament, Forbidden and Exodus before replacing Dave Lombardo in Slayer, bringing a mechanically exact, highly technical approach to "Divine Intervention" and "Christ Illusion" that differed from Lombardo's groove-first style without sacrificing any of thrash's technical demand
+**Why ranked here:** Paul Bostaph built his technical reputation across Testament, Forbidden and Exodus before replacing Dave Lombardo in Slayer, bringing a mechanically exact, highly technical approach to "Divine Intervention" and "Diabolus in Musica" that differed from Lombardo's groove-first style without sacrificing any of thrash's technical demand
 
-Raymond Herrera (Fear Factory / Brujeria) earns rank #3 for: testament, forbidden and exodus — bay area technical thrash pedigree. Paul Bostaph built his technical reputation across Testament, Forbidden and Exodus before replacing Dave Lombardo in Slayer, bringing a mechanically exact, highly technical approach to "Divine Intervention" and "Christ Illusion" that differed from Lombardo's groove-first style without sacrificing any of thrash's technical demand.
+Raymond Herrera (Fear Factory / Brujeria) earns rank #3 for: testament, forbidden and exodus — bay area technical thrash pedigree. Paul Bostaph built his technical reputation across Testament, Forbidden and Exodus before replacing Dave Lombardo in Slayer, bringing a mechanically exact, highly technical approach to "Divine Intervention" and "Diabolus in Musica" that differed from Lombardo's groove-first style without sacrificing any of thrash's technical demand.
 
 Full drummer profile: [Raymond Herrera on MetalForge](https://metalforge.io/drummer/raymond-herrera)
 
@@ -148,4 +148,4 @@ A: Technical thrash's demanding fill work and sustained double-bass precision fa
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

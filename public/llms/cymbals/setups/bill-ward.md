@@ -41,4 +41,4 @@ A: Bill Ward plays Zildjian cymbals: 15" Avedis Hi-Hats, 18" Avedis Crash, 20" A
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

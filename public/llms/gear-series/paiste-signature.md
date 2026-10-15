@@ -37,4 +37,4 @@ A: MetalForge tracks all Paiste series used by professional metal drummers. Visi
 
 ---
 
-*Source: [metalforge.io/gear/paiste/signature/drummers-using](https://metalforge.io/gear/paiste/signature/drummers-using) · Last updated: 2026-10-07*
+*Source: [metalforge.io/gear/paiste/signature/drummers-using](https://metalforge.io/gear/paiste/signature/drummers-using) · Last updated: 2026-10-15*

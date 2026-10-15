@@ -5,7 +5,7 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummer/alex-rudinger"
 evolution_url: "https://metalforge.io/drummers/alex-rudinger/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-08-23"
+last_updated: "2026-10-15"
 ---
 
 # Alex Rüdinger Drum Kit Evolution — Complete Timeline
@@ -21,7 +21,7 @@ See also: [Alex Rüdinger drummer profile](/llms/drummers/alex-rudinger.md)
 **Albums:** Threat Signal - Threat Signal (2011)
 **Tours:** Threat Signal touring lineup (2010–2011); The HAARP Machine touring lineup (2012–2013)
 
-Rüdinger began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in late 2011. He then joined The HAARP Machine (2012–2013) and technical death metal band The Faceless (2013–2014), building the reputation for high-precision, technical playing that would define his career. No fixed gear endorsement from this early stretch is publicly documented — his Tama, Evans, and Meinl relationships were established later in his career.
+Rüdinger began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in April 2012. He then joined The HAARP Machine (2012–2013) and technical death metal band The Faceless (2013–2014), building the reputation for high-precision, technical playing that would define his career. No fixed gear endorsement from this early stretch is publicly documented — his Tama, Evans, and Meinl relationships were established later in his career.
 
 - **Drums:** Various early-career kits (no single fixed brand documented) — touring and session-grade shell packs
 - **Snare:** Not publicly documented
@@ -31,7 +31,7 @@ Rüdinger began his professional career at 18, filling in for Threat Signal and 
 
 **Key developments:**
 - Began his professional career at 18, filling in for Threat Signal
-- Appeared on Threat Signal's self-titled album (2011) before departing in late 2011
+- Appeared on Threat Signal's self-titled album (2011) before departing in April 2012
 - Joined The HAARP Machine (2012–2013)
 - Joined The Faceless (2013–2014), his highest-profile technical death metal chair to that point
 

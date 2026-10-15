@@ -3267,14 +3267,14 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/kevin-talley.webp',
     bio: 'Kevin Talley (born May 21, 1979) is an American drummer renowned for his work with brutal death metal and grindcore bands including Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. His incredibly fast and precise drumming helped define the brutal death metal sound.',
-    kitOverview: 'Kevin Talley plays a Pearl Masters Premium Legend drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation has demanded for over two decades. The Kevin Talley drum set centers on a Pearl Masters 14x5.5" Maple snare, delivering a bright, cracking response that cuts through brutal death metal\'s dense, downtuned guitar work at his signature blistering tempos.\n\nSabian AAX Series cymbals round out the Kevin Talley drum kit: 14" Stage Hi-Hats for tight, controlled chops; 17" and 18" X-Plosion Crashes for fast-decaying accents; and a 20" Stage Ride for cutting rhythmic definition. A Pearl Eliminator double pedal drives Talley\'s renowned speed and endurance, powering the relentless blast beats and gravity-blast technique that helped define brutal death metal and grindcore across his work with Dying Fetus and Misery Index. Vic Firth American Classic 5B sticks and Remo drumheads complete a rig built to withstand the physical demands of some of extreme metal\'s fastest drumming.',
+    kitOverview: 'Kevin Talley plays a Pearl Masters Custom / Reference Series drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation has demanded for over two decades. The Kevin Talley drum set centers on a Pearl Masters 14"x6.5" steel snare, delivering a bright, cracking response that cuts through brutal death metal\'s dense, downtuned guitar work at his signature blistering tempos.\n\nSabian AAX Series cymbals round out the Kevin Talley drum kit: 14" Stage Hi-Hats for tight, controlled chops; 17" and 18" X-Plosion Crashes for fast-decaying accents; and a 20" Stage Ride for cutting rhythmic definition. A Pearl Eliminator double pedal drives Talley\'s renowned speed and endurance, powering the relentless blast beats and gravity-blast technique that helped define brutal death metal and grindcore across his work with Dying Fetus and Misery Index. Vic Firth American Classic 5B sticks and Remo drumheads complete a rig built to withstand the physical demands of some of extreme metal\'s fastest drumming.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Kevin_Talley',
       'https://www.discogs.com/artist/382628-Kevin-Talley'
     ],
     gear: {
-      drums: 'Pearl Masters Premium Legend',
-      snare: 'Pearl Masters 14x5.5" Maple',
+      drums: 'Pearl Masters Custom / Reference Series',
+      snare: 'Pearl Masters 14"x6.5" Steel',
       cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride)',
       hardware: 'Pearl Eliminator Double Pedal',
       sticks: 'Vic Firth American Classic 5B',

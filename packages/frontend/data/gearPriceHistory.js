@@ -5229,7 +5229,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Destroy the Opposition (2000)',
     profileImage: '/images/drummers/kevin-talley.webp',
 
-    summary: "Kevin Talley's 2000 setup behind Dying Fetus's Destroy the Opposition shows how a genuinely entry-level rig produced one of brutal death metal's most technically influential recordings. Talley's polyrhythmic double-kick patterns — shifting between straight and triplet groupings at 200+ BPM while the snare held a separate pulse — became a reference point for extreme metal drummers, and he built that reputation on a Pearl Export-tier shell pack, a basic steel snare, Sabian AAX cymbals, and a Pearl Eliminator double bass pedal. The complete rig cost approximately $2,846 in 2000 dollars, equivalent to roughly $5,414 in 2026 after CPI adjustment — a genuinely accessible price point for the technical ceiling it helped Talley reach.\n\nThat gap between gear cost and technical output is the throughline of Talley's career: rather than chasing boutique hardware, he carried the same Pearl/Sabian/Pearl Eliminator combination through Misery Index's Retaliate (2003) and Discordia (2006) and Dying Fetus's War of Attrition (2007) — refining touring reliability rather than upgrading tier. Talley's setup has since moved to Pearl Masters Premium Legend shells, still paired with Sabian AAX cymbals and the Pearl Eliminator double pedal, a step up in shell build quality but the same cymbal and pedal brands he's used since 2000. For drummers researching how far extreme technique can be pushed on a mid-tier budget, Talley's Destroy the Opposition rig remains one of the clearest documented cases: the blast-speed ceiling was set by technique, not equipment.",
+    summary: "Kevin Talley's 2000 setup behind Dying Fetus's Destroy the Opposition shows how a genuinely entry-level rig produced one of brutal death metal's most technically influential recordings. Talley's polyrhythmic double-kick patterns — shifting between straight and triplet groupings at 200+ BPM while the snare held a separate pulse — became a reference point for extreme metal drummers, and he built that reputation on a Pearl Export-tier shell pack, a basic steel snare, Sabian AAX cymbals, and a Pearl Eliminator double bass pedal. The complete rig cost approximately $2,846 in 2000 dollars, equivalent to roughly $5,414 in 2026 after CPI adjustment — a genuinely accessible price point for the technical ceiling it helped Talley reach.\n\nThat gap between gear cost and technical output is the throughline of Talley's career: rather than chasing boutique hardware, he carried the same Pearl/Sabian/Pearl Eliminator combination through Misery Index's Retaliate (2003) and Discordia (2006) and Dying Fetus's War of Attrition (2007) — refining touring reliability rather than upgrading tier. Talley's setup has since moved to Pearl Masters Custom / Reference Series shells, still paired with Sabian AAX cymbals and the Pearl Eliminator double pedal, a step up in shell build quality but the same cymbal and pedal brands he's used since 2000. For drummers researching how far extreme technique can be pushed on a mid-tier budget, Talley's Destroy the Opposition rig remains one of the clearest documented cases: the blast-speed ceiling was set by technique, not equipment.",
 
     setup: {
       drums: {
@@ -5242,7 +5242,7 @@ export const GEAR_PRICE_HISTORY = {
         notes: "An entry-level Pearl shell pack, chosen for durable double-kick performance rather than premium tone — the twin 22\" kicks generated the sub-bass mass behind Talley's polyrhythmic patterns on Destroy the Opposition.",
         vintageValue2026: 1900,
         modernEquivalent: {
-          item: 'Pearl Masters Premium Legend (current Talley kit)',
+          item: 'Pearl Masters Custom / Reference Series (current Talley kit)',
           price: 2800,
           link: 'pearl-masters-premium-legend',
         },
@@ -5257,7 +5257,7 @@ export const GEAR_PRICE_HISTORY = {
         notes: 'A bright, budget steel snare tuned for explosive crack — the discrete articulation required at 200+ BPM alternating kick-snare patterns.',
         vintageValue2026: 260,
         modernEquivalent: {
-          item: 'Pearl Masters 14"x5.5" Maple (current)',
+          item: 'Pearl Masters 14"x6.5" Steel (current)',
           price: 340,
           link: 'pearl-masters-maple-snare',
         },
@@ -5336,7 +5336,7 @@ export const GEAR_PRICE_HISTORY = {
       { year: 2000, price: 2846, label: 'Original Purchase', event: 'Destroy the Opposition recorded — landmark polyrhythmic blast beat brutal death metal album' },
       { year: 2003, price: 3400, label: 'Misery Index era', event: 'Retaliate recorded; same Pearl/Sabian/Pearl Eliminator rig carries into a grindcore-adjacent context' },
       { year: 2007, price: 4400, label: 'War of Attrition era', event: 'Dying Fetus return; most documented touring configuration of the Pearl Eliminator-pedal era' },
-      { year: 2018, price: 5600, label: 'Current rig era', event: 'Pearl Masters Premium Legend shell upgrade, still paired with Sabian AAX and Pearl Eliminator' },
+      { year: 2018, price: 5600, label: 'Current rig era', event: 'Pearl Masters Custom / Reference Series shell upgrade, still paired with Sabian AAX and Pearl Eliminator' },
       { year: 2026, price: 5414, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2000 setup' },
     ],
 

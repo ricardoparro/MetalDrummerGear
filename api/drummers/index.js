@@ -1480,7 +1480,7 @@ const drummers = [
       drums: 'Sonor SQ2 Heavy Beech',
       snare: 'Sonor SQ2 14x5.5" Maple',
       cymbals: 'Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)',
-      hardware: 'Axis Double Pedal, Sonor Drummer Throne, Roland Electronics',
+      hardware: 'Axis Double Pedal, Sonor Drummer Throne',
       sticks: 'Vic Firth American Classic 5B',
       verified: true,
       sources: ['https://www.hellhammerdrummer.com/gear-and-setup/', 'https://www.paiste.com/en/musicians']

@@ -11658,7 +11658,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'Is Hellhammer still in Dimmu Borgir?',
-        a: 'Yes. Hellhammer joined Dimmu Borgir in 1999 while remaining Mayhem\'s drummer, and he has maintained both roles simultaneously ever since — one of the only drummers in extreme metal to sustain dual membership in two major bands for over two decades.',
+        a: 'No. Hellhammer joined Dimmu Borgir in 1999 while remaining Mayhem\'s drummer, sustaining dual membership in both bands for over a decade until his Dimmu Borgir tenure ended in 2013. He has remained Mayhem\'s drummer throughout.',
       },
       {
         q: 'What album features Hellhammer\'s most famous drumming?',

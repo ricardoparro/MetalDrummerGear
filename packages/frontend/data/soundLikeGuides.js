@@ -9431,8 +9431,8 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
         { song: "Freezing Moon", album: "De Mysteriis Dom Sathanas", year: 1994, why: "The definitive black metal blast and dynamic structure" },
         { song: "Funeral Fog", album: "De Mysteriis Dom Sathanas", year: 1994, why: "Relentless hyper-blast under tremolo guitars" },
         { song: "From the Dark Past", album: "De Mysteriis Dom Sathanas", year: 1994, why: "Blast-to-groove transitions and controlled fury" },
-        { song: "Mourning Palace", album: "Enthrone Darkness Triumphant", year: 1997, why: "Symphonic black metal precision in his Dimmu Borgir era" },
-        { song: "Spellbound (By the Devil)", album: "Enthrone Darkness Triumphant", year: 1997, why: "Tight blast work within orchestral arrangements" }
+        { song: "The Sinister Awakening", album: "In Sorte Diaboli", year: 2007, why: "Symphonic black metal precision in his Dimmu Borgir era" },
+        { song: "The Conspiracy Unfolds", album: "In Sorte Diaboli", year: 2007, why: "Tight blast work within orchestral arrangements" }
       ]
     },
     gear: {
@@ -9577,7 +9577,7 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
     faq: [
       {
         question: "What albums did Hellhammer play on?",
-        answer: "Hellhammer is best known for Mayhem's De Mysteriis Dom Sathanas (1994), the defining black metal album. He also drummed for Dimmu Borgir during the Enthrone Darkness Triumphant era and recorded with numerous other bands including Arcturus and Covenant/The Kovenant."
+        answer: "Hellhammer is best known for Mayhem's De Mysteriis Dom Sathanas (1994), the defining black metal album. He also drummed for Dimmu Borgir in the studio starting with In Sorte Diaboli (2007) and recorded with numerous other bands including Arcturus and Covenant/The Kovenant."
       },
       {
         question: "How does Hellhammer's blast beat differ from death metal blasts?",
@@ -9593,7 +9593,7 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
       },
       {
         question: "Which Hellhammer songs should I study first?",
-        answer: "Start with 'Freezing Moon' for the definitive blast and dynamic structure, then 'Funeral Fog' for sustained hyper-blast technique. For his Dimmu Borgir era, study 'Mourning Palace' to hear his precision within orchestral arrangements."
+        answer: "Start with 'Freezing Moon' for the definitive blast and dynamic structure, then 'Funeral Fog' for sustained hyper-blast technique. For his Dimmu Borgir era, study 'The Sinister Awakening' to hear his precision within orchestral arrangements."
       }
     ],
     related: {

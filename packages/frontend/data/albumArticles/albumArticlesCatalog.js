@@ -6663,30 +6663,6 @@ export const ALBUM_ARTICLES_META = {
     "label": "Sumerian Records",
     "producer": "Misha Mansoor"
   },
-  "periphery-v-aliens-drum-setup": {
-    "moduleFile": "matt-halpern",
-    "slug": "periphery-v-aliens-drum-setup",
-    "albumTitle": "Periphery V: Aliens",
-    "artist": "Periphery",
-    "drummer": "Matt Halpern",
-    "drummerId": 18,
-    "relatedDrummerSlug": "matt-halpern",
-    "relatedDrummers": [
-      53,
-      5,
-      47
-    ],
-    "year": 2023,
-    "genre": "Djent / Progressive Metal",
-    "title": "Matt Halpern's Drum Setup on Periphery V: Aliens (2023)",
-    "description": "Complete breakdown of Matt Halpern's drum setup on Periphery V: Aliens (2023) — Periphery's most recent album. Pearl Reference Series, Meinl Byzance cymbals, and the performances that close the arc from the 2010 djent debut to the mature 2023 sound.",
-    "ogImage": "/images/albums/periphery-v-aliens-drums.webp",
-    "datePublished": "2026-06-28",
-    "dateModified": "2026-06-28",
-    "isAlbumArticle": true,
-    "label": "3DOT Recordings",
-    "producer": "Misha Mansoor"
-  },
   "whats-in-mike-manginis-kit": {
     "moduleFile": "mike-mangini",
     "slug": "whats-in-mike-manginis-kit",

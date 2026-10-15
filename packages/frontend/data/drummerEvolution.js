@@ -15137,7 +15137,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2011–2016',
         startYear: 2011,
         endYear: 2016,
-        description: 'Before Trivium, Alex Bent built his reputation entirely within the technical death metal underground — joining Arkaik in 2011, then Brain Drill, Dragonlord, and Battlecross in 2015, along with a high-profile stint filling in for Gene Hoglan on Testament tour dates. There was no major drum brand endorsement yet, but his Axis Percussion pedal partnership — the extreme-speed foundation of his footwork — was already established during this stretch.',
+        description: 'Before Trivium, Alex Bent built his reputation entirely within the technical death metal underground — joining Arkaik in 2011, then Brain Drill, Dragonlord, and Battlecross in 2015, along with a high-profile stint filling in for Gene Hoglan on Testament tour dates. There was no major drum brand endorsement yet — his Axis Percussion pedal partnership wouldn\'t come until 2021, four years into his Trivium run.',
         albums: ['Arkaik - Metamorphignition (2012)', 'Battlecross - Rise to Power (2015)'],
         tours: ['Testament fill-in dates for Gene Hoglan (2015)', 'Battlecross touring circuit'],
         image: null,
@@ -15162,9 +15162,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Axis A21 Longboard Double Pedal',
-            details: 'Direct-drive double pedal',
-            notes: 'Bent\'s Axis endorsement predates Trivium entirely — his extreme pedal speed was already developed in the technical death metal scene.',
+            item: 'Unbranded double pedal (pre-Axis, unconfirmed model)',
+            details: 'No fixed pedal endorsement',
+            notes: 'Bent\'s extreme pedal speed was developed in the technical death metal scene, but his Axis Percussion endorsement wasn\'t signed until 2021, on his third Trivium album.',
             change: null,
           },
           sticks: {
@@ -15189,7 +15189,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Joined technical death metal band Arkaik in 2011',
-          'Axis Percussion endorsement established well before any major-label gig',
+          'No drum brand endorsements yet — Axis Percussion deal was still a decade away',
           'Filled in for Gene Hoglan on Testament tour dates in 2015',
           'Joined Brain Drill, Dragonlord, and Battlecross — building a tech-death resume',
         ],
@@ -15221,7 +15221,7 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'TAMA Starclassic Maple 14"x6.5"',
+            item: 'TAMA Starclassic Maple 14"x5"',
             details: 'Maple shell',
             notes: 'Tuned medium-high for articulation at speed — inherited ghost-note vocabulary from his tech-death background.',
             change: CHANGE_TYPES.SWITCH,
@@ -15233,9 +15233,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'Axis A21 Longboard Double Pedal',
-            details: 'Direct drive for ultimate speed',
-            notes: 'Continued Axis partnership from the underground years — the one constant into the Trivium era.',
+            item: 'Unbranded double pedal (pre-Axis, unconfirmed model)',
+            details: 'No fixed pedal endorsement',
+            notes: 'Still four years out from the Axis Percussion deal, which wouldn\'t arrive until In the Court of the Dragon (2021).',
             change: null,
           },
           sticks: {
@@ -15292,7 +15292,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           snare: {
-            item: 'TAMA Starclassic Maple 14"x6.5"',
+            item: 'TAMA Starclassic Maple 14"x5"',
             details: 'Maple shell',
             notes: 'Same snare that defined the entire Trivium era.',
             change: null,
@@ -15305,9 +15305,9 @@ export const DRUMMER_EVOLUTION = {
           },
           hardware: {
             item: 'Axis A21 Longboard Double Pedal',
-            details: 'Unchanged direct drive',
-            notes: 'TAMA Roadpro hi-hat stand and Iron Cobra hardware rounded out the setup for extended tours.',
-            change: null,
+            details: 'Direct drive',
+            notes: 'Signed with Axis Percussion in 2021 to drive the rapid double-bass patterns on In the Court of the Dragon. TAMA Roadpro hi-hat stand and Iron Cobra hardware rounded out the setup for extended tours.',
+            change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
             item: 'Vic Firth 5B',
@@ -15363,7 +15363,7 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'TAMA Starclassic Maple 14"x6.5"',
+            item: 'TAMA Starclassic Maple 14"x5"',
             details: 'Unchanged from the Trivium years',
             notes: 'The snare that has followed Bent since 2017.',
             change: null,
@@ -15377,7 +15377,7 @@ export const DRUMMER_EVOLUTION = {
           hardware: {
             item: 'Axis A21 Longboard Double Pedal',
             details: 'Unchanged direct drive',
-            notes: 'The one piece of gear that has followed Bent from Arkaik through Trivium and back.',
+            notes: 'Carried over from his 2021 Axis Percussion signing in the back half of his Trivium tenure.',
             change: null,
           },
           sticks: {
@@ -15427,15 +15427,15 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What gear does Alex Bent use now?',
-        a: 'Since leaving Trivium, Alex Bent has continued playing a scaled-down TAMA Starclassic Maple kit with his TAMA Starclassic Maple 14"x6.5" snare, a compact Zildjian K Custom Hybrid cymbal setup, and his long-running Axis A21 Longboard double pedal — the same core partnerships that carried his entire Trivium tenure, now sized for underground touring with Arkaik and Dragonlord.',
+        a: 'Since leaving Trivium, Alex Bent has continued playing a scaled-down TAMA Starclassic Maple kit with his TAMA Starclassic Maple 14"x5" snare, a compact Zildjian K Custom Hybrid cymbal setup, and his Axis A21 Longboard double pedal, signed in 2021 — the same core partnerships that carried the back half of his Trivium tenure, now sized for underground touring with Arkaik and Dragonlord.',
       },
       {
         q: 'How did Alex Bent\'s drumming style evolve?',
-        a: 'Bent\'s style formed in the technical death metal underground with Arkaik and Brain Drill, built on extreme pedal speed via his Axis Percussion endorsement. Joining Trivium in 2017 required him to adapt that technicality to serve accessible, arena-ready songwriting — a balance he maintained across four albums before returning to the tech-death scene that shaped him.',
+        a: 'Bent\'s style formed in the technical death metal underground with Arkaik and Brain Drill, built on raw pedal speed well before any major drum brand endorsement. Joining Trivium in 2017 required him to adapt that technicality to serve accessible, arena-ready songwriting — a balance he maintained across four albums (and, from 2021, an Axis Percussion pedal endorsement) before returning to the tech-death scene that shaped him.',
       },
       {
         q: 'What drum kit did Alex Bent use with Trivium?',
-        a: 'Alex Bent played a matte-black TAMA Starclassic Maple kit throughout his Trivium tenure — a maple shell pack with double 22"x18" bass drums, 8"/10"/12" rack toms, and 16"/18" floor toms — paired with a TAMA Starclassic Maple 14"x6.5" snare and an expanding Zildjian K Custom Hybrid cymbal setup.',
+        a: 'Alex Bent played a matte-black TAMA Starclassic Maple kit throughout his Trivium tenure — a maple shell pack with double 22"x18" bass drums, 8"/10"/12" rack toms, and 16"/18" floor toms — paired with a TAMA Starclassic Maple 14"x5" snare and an expanding Zildjian K Custom Hybrid cymbal setup.',
       },
     ],
 

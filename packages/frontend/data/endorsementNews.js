@@ -175,11 +175,11 @@ export const ENDORSEMENT_NEWS = [
     featured: true,
   },
   {
-    id: 'alex-bent-trivium-2016',
+    id: 'alex-bent-trivium-2017',
     drummerSlug: 'alex-bent',
     drummerName: 'Alex Bent',
     band: 'Trivium',
-    date: '2016-07-15',
+    date: '2017-01-15',
     changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
     category: ENDORSEMENT_CATEGORIES.DRUMS,
     title: 'Alex Bent Joins Trivium',

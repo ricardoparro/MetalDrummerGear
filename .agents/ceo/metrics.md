@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-15 13:05 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-15 18:13 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 461 |
-| Sessions | 516 |
-| Page views | 743 |
-| Engagement rate | 57.95% |
-| Avg session (s) | 98 |
+| Active users | 469 |
+| Sessions | 526 |
+| Page views | 757 |
+| Engagement rate | 56.84% |
+| Avg session (s) | 97 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -20,31 +20,31 @@
 | / | 47 | 26 |
 | /bpm | 28 | 2 |
 | /drummers | 28 | 8 |
-| /drummer/mario-duplantier | 20 | 18 |
+| /drummer/mario-duplantier | 21 | 19 |
 | /studies/metal-tempo-by-subgenre | 16 | 8 |
 | /drummer/joey-jordison | 13 | 10 |
 | /drummer/bill-ward | 11 | 9 |
-| /drummer/danny-carey | 9 | 8 |
+| /drummer/danny-carey | 10 | 9 |
 | /drummer/eloy-casagrande | 9 | 10 |
 | /articles/whats-in-lars-ulrichs-kit | 8 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 343 | 291 |
-| Direct | 144 | 142 |
-| Unassigned | 35 | 34 |
-| Cross-network | 24 | 24 |
+| Organic Search | 346 | 292 |
+| Direct | 147 | 145 |
+| Unassigned | 43 | 42 |
+| Cross-network | 27 | 27 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 166 | 143 |
-| Singapore | 64 | 64 |
-| China | 31 | 31 |
-| Canada | 25 | 21 |
-| Germany | 24 | 20 |
+| United States | 169 | 144 |
+| Singapore | 65 | 65 |
+| China | 34 | 34 |
+| Canada | 26 | 22 |
+| Germany | 26 | 22 |
 | United Kingdom | 22 | 19 |
 | Australia | 17 | 16 |
 | New Zealand | 12 | 5 |

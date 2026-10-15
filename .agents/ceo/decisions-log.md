@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-15 00:27 UTC*
 
 ---
+## 2026-10-15 18:14 (mid-day pulse — 6/6 proposals verified+promoted, #9123-9128)
+
+### Context (≤3 lines)
+First-run-after-13:00 UTC pulse. Metrics 18:13 UTC (469u/526s/757v 7d; GSC 14,641 impr/228 clicks/1.56% CTR/pos 7.9). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 6 fresh untriaged `seo-proposal` (#9123-9128, filed 13:14-13:15 UTC), continuing the gear/bio-fact-fabrication sweep (api/drummers/index.js, extendedBios.js, soundLikeGuides.js, drummerEvolution.js, gearPriceHistory.js, drummerComparisons.js, top10Lists.js, pedals.js, albumArticles, public/llms mirrors) vs ground-truth cross-checks (endorsementNews.js, bands.js, birthdays.js, external WebSearch where needed).
+
+### Actions taken
+- **Live-verified all 6 via 6 parallel subagents** (read cited lines, cross-checked ground-truth files, git-blamed prior fix PRs, dupe-searched): #9123 (Alex Rüdinger — Threat Signal departure "late 2011" vs verified April 2012 across 8 locations, self-contradicts the same object's own `period:'2010–2012'` field) VERIFIED-WITH-NOTE — all 8 confirmed, flagged the 2 `public/llms/**.md` files as generator output (fix source, regenerate, don't hand-edit). #9124 (Navene Koperweis — api/drummers/index.js kitOverview "2012-2014" vs verified 2010-2012, PR #8255/#8241 never touched this file) VERIFIED-CLEAN — minor line drift (1647 not 1662) noted, found the generated .md mirror already self-contradicts itself (kitOverview vs its own FAQ section). #9125 (John Otto — gearPriceHistory.js 1999 `setup.hardware` fabricates "Pearl P-2002 Eliminator Pedal," verified Gibraltar since 1999; PR #9059 only fixed an adjacent `summary` string) VERIFIED-CLEAN, exact lines. #9126 (Aquiles Priester batch: W.A.S.P. join year "2006" vs verified 2017, Angra end-year "2012" vs verified 2008, albumArticles birthplace fabricated as São Paulo vs verified Outjo/Namibia) VERIFIED-WITH-NOTE — all 3 sub-claims confirmed, including that PR #5672/#5653 is the actual commit that regressed Angra's correct 2001-2008 to wrong 2000-2012; flagged the drummerEvolution.js "2012-wasp-pearl" era block (with an invented 2016 DRUM! Magazine quote) needs narrative restructuring, not a literal year swap. #9127 (Daray batch: Vader tenure 3-way contradiction — 2004-2008 ground truth vs "2006-2016" vs "2002–2005" — plus pedals.js Pearl Demon XR→Demon Drive misattribution, pedals.js never had a Daray-specific commit) VERIFIED-CLEAN, both sub-claims confirmed exactly. #9128 (Dirk Verbeuren — 2016 Megadeth era snare fabricated as "Tama S.L.P. G-Maple" in drummerEvolution.js + gearPriceHistory.js, verified no snare model documented before the 2022 Dynamic Bronze signature; G-Maple is legitimately used elsewhere for Lombardo/Turner) VERIFIED-CLEAN, scope-bounded. All 6 promoted to `ai-fix`; guidance comments posted on all 6 (3 with substantive scope notes: #9123, #9124, #9126).
+- **GSC content-gap**: `joey jordison drum set`/`john otto snare`/`john otto snare drum` re-matched to standing rulings (known-oscillator line 99/185/242; John Otto SERP-drop watch item line 258, no lever to pull). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: all 6 open `ai-fix` issues filed today (13:14-13:15 UTC) — nothing crosses the >3-day trigger.
+- **Starvation check**: post-triage backlog 6, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this batch at 13:14-13:15 UTC (~5h ago), next due in its ~6h cadence window, not yet elapsed.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 (GSC 08:36, indexation 09:49, LLM 08:09 UTC) — already fully closed-the-loop in the 10-12/10-14 runs, no new weekly refresh landed (due ~10-19). Not re-running the same analysis.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 6 (#9123-9128 promoted)
+- seo-proposal bank (excl. held #7981, umbrellas): 6 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 6/6 triaged, live-verified, all promoted (3 with correction/scope notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: rows already ruled. ✅ L1/L2/L3: not due yet (due ~10-19). ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9123-9128 pick up via Roadie; confirm #9123/#9124's generated-.md-regenerate-not-hand-edit guidance, and #9126's narrative-restructure (not literal swap) guidance on the drummerEvolution.js era block.
+2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, only 2 points above the 25-floor.
+3. #7981 (Derek Roddy snare) still held — no new external source found yet.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-15 12:17 (cheap pulse — 8/8 proposals verified+promoted, #9107-9114; +1 self-filed from verification spillover, #9122)
 
 ### Context (≤3 lines)

@@ -3349,7 +3349,7 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
 - **Drums:** Sonor SQ2 Heavy Beech
 - **Snare:** Sonor SQ2 14x5.5" Maple
 - **Cymbals:** Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)
-- **Hardware:** Axis Double Pedal, Sonor Drummer Throne, Roland Electronics
+- **Hardware:** Axis Double Pedal, Sonor Drummer Throne
 - **Sticks:** Vic Firth American Classic 5B
 
 ### Endorsements
@@ -4420,7 +4420,7 @@ The core of the Raymond Herrera drum kit is his Tama 14x6.5" Brass snare, delive
 ### Detailed Overview
 Raymond Herrera (born December 18, 1972, in Los Angeles, California) is an American drummer who co-founded influential industrial metal band Fear Factory in 1990. Known for his machine-like precision and pioneering use of drum triggers, Herrera helped define the sound of industrial metal drumming.
 
-His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obsolete" (1998) combined relentless double bass patterns with mechanical precision, creating the template for countless industrial and groove metal bands. Though he departed Fear Factory in 2009, his influence on modern metal drumming remains significant.
+His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obsolete" (1998) combined relentless double bass patterns with mechanical precision, creating the template for countless industrial and groove metal bands. Though he departed Fear Factory in 2006, his influence on modern metal drumming remains significant.
 
 ### Career Highlights
 - 1989: Joined Brujeria as one of founding members
@@ -4431,8 +4431,8 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 - 2001: Released "Digimortal," featuring hit "Linchpin"
 - 2004: Released "Archetype" after Fear Factory reunion
 - 2005: Released "Transgression" with Fear Factory
+- 2006: Officially departed Fear Factory
 - 2008: Formed Arkaea with Christian Olde Wolbers after Fear Factory split
-- 2009: Officially departed Fear Factory
 
 ### Current Gear
 - **Drums:** Tama Starclassic
@@ -4477,7 +4477,7 @@ Raymond Herrera's drumming style revolutionized industrial metal with its combin
 
 **Notable Tours**
 - Ozzfest (1997, 1999, 2001, 2006): Multiple appearances
-- Fear Factory World Tours (1992-2009): Extensive worldwide touring
+- Fear Factory World Tours (1992-2006): Extensive worldwide touring
 - Demanufacture Anniversary Tour (2005): Classic album tour
 
 ### Gear Highlights
@@ -4532,7 +4532,7 @@ A: Raymond Herrera drives his precise, stop-go double bass patterns with a DW 50
 A: Raymond Herrera uses Attack Drumheads across his Tama Starclassic kit.
 
 **Q: What band is Raymond Herrera in?**
-A: Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2009. He also drums for Brujeria and formed Arkaea after Fear Factory's split.
+A: Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2006. He also drums for Brujeria and formed Arkaea after Fear Factory's split.
 
 **Q: Does Raymond Herrera use electronic drum triggers?**
 A: Raymond Herrera uses ddrum and Roland electronic triggers throughout his kit, a technical setup central to the mechanically precise, processed drum sound he pioneered on Fear Factory albums like Demanufacture (1995) and Obsolete (1998).
@@ -5044,12 +5044,12 @@ A: Bill Ward played 14" Avedis Zildjian hi-hats from Master of Reality (1971) on
 - Trivium: 2010–2014
 
 ### Biography
-Nick Augusto (born August 4, 1986) is an American drummer best known for his tenure with Trivium from 2009 to 2014. Before joining Trivium, he was the drummer for the grindcore band Maruta and played in Metal Militia alongside future Trivium bassist Paolo Gregoletto. Augusto initially joined Trivium as their drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus. His powerful, speedy drumming style contributed to two studio albums: "In Waves" (2011) and "Vengeance Falls" (2013). Known for his aggressive playing and technical proficiency, Augusto brought a fresh energy to Trivium's live performances. After parting ways with Trivium, he formed the band Corrosion and has continued touring with bands like Light the Torch.
+Nick Augusto (born August 4, 1986) is an American drummer best known for his tenure with Trivium from 2010 to 2014. Before joining Trivium, he was the drummer for the grindcore band Maruta and played in Metal Militia alongside future Trivium bassist Paolo Gregoletto. Augusto initially joined Trivium as their drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus. His powerful, speedy drumming style contributed to two studio albums: "In Waves" (2011) and "Vengeance Falls" (2013). Known for his aggressive playing and technical proficiency, Augusto brought a fresh energy to Trivium's live performances. After parting ways with Trivium, he formed the band Corrosion and has continued touring with bands like Light the Torch.
 
 ### Complete Drum Kit Overview
-Nick Augusto's drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2009–2014 tenure as Trivium's drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is his Pearl Reference 14x6.5" Brass snare, delivering the sharp, cutting crack needed to punch through Trivium's dense thrash-metalcore guitar work, paired with a Pearl Demon Drive Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.
+Nick Augusto's drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2010–2014 tenure as Trivium's drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is his Pearl Reference 14x6.5" Brass snare, delivering the sharp, cutting crack needed to punch through Trivium's dense thrash-metalcore guitar work, paired with a DW 9000 Series Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.
 
-Sabian AAX Series cymbals round out the Nick Augusto drum set: 14" Stage Hi-Hats for tight articulation, 18" and 19" X-Plosion Crashes for explosive accents, a 21" Stage Ride for a driving rhythmic backbone, and an 18" AAXtreme China for aggressive punctuation on Trivium's heaviest passages. Pro-Mark Nylon Tip 5B sticks and Evans drumheads complete the rig. This configuration reflects Augusto's gear from his Trivium era (2009-2014).
+Sabian AAX Series cymbals round out the Nick Augusto drum set: 14" Stage Hi-Hats for tight articulation, 18" and 19" X-Plosion Crashes for explosive accents, a 21" Stage Ride for a driving rhythmic backbone, and an 18" AAXtreme China for aggressive punctuation on Trivium's heaviest passages. Pro-Mark Nylon Tip 5B sticks and Evans drumheads complete the rig. This configuration reflects Augusto's gear from his Trivium era (2010-2014).
 
 ### Detailed Overview
 Nick Augusto (born August 4, 1986, in Fort Lauderdale, Florida) is an American drummer best known for his tenure with thrash/metalcore band Trivium from 2010 to 2014. He joined the band following the departure of Travis Smith, bringing a more aggressive and technically demanding approach to Trivium's sound.
@@ -5069,7 +5069,7 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
 - **Drums:** Pearl Reference Pure
 - **Snare:** Pearl Reference 14x6.5" Brass
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
-- **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
+- **Hardware:** DW 9000 Series Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Pro-Mark Nylon Tip 5B
 - **Heads:** Evans
 
@@ -8058,11 +8058,11 @@ A: Richard Christy plays 14" Sabian AAX Stage Hi-Hats, part of the AA/AAX cymbal
 **Profile URL:** https://metalforge.io/drummer/aquiles-priester
 
 ### Band History
-- Angra: 2000–2012
-- W.A.S.P.: 2014–2021
+- Angra: 2001–2008
+- W.A.S.P.: 2017–present (current)
 
 ### Biography
-Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2000-2012, 2023-present), W.A.S.P. (2006-present), and his own project Hangar. Priester's double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.
+Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2001-2008, 2023-present), W.A.S.P. (2017-present), and his own project Hangar. Priester's double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.
 
 ### Complete Drum Kit Overview
 Aquiles Priester plays a Mapex Saturn Evolution All Maple signature kit — a dense maple shell pack chosen for the powerful low end and quick rebound that support his trademark blend of blistering speed and razor-sharp precision.
@@ -8072,21 +8072,18 @@ A Paiste custom red-coated cymbal set, including an 18" Psychoctopus Giga Bell R
 His ProMark Aquiles Priester Signature sticks, paired with Remo coated Ambassador / Powerstroke 3 heads, complete the Aquiles Priester drum set — a setup that has carried him through his work with Angra, W.A.S.P., and his own project, Hangar.
 
 ### Detailed Overview
-Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2000-2012, returning 2023), American heavy metal band W.A.S.P. (2006-present), and his own band Hangar.
+Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2001-2008, returning 2023), American heavy metal band W.A.S.P. (2017-present), and his own band Hangar.
 
 Priester is considered one of the greatest power metal drummers in the world. His double bass abilities, complex fills, and capacity to maintain blazing speeds for extended periods have earned him numerous awards from Brazilian and international music publications. His energetic live performances and precise studio work have influenced a generation of metal drummers.
 
 ### Career Highlights
 - 1996: Founded Hangar, Brazilian power metal band
-- 2000: Joined Angra, replacing Ricardo Confessori
+- 2001: Joined Angra, replacing Ricardo Confessori
 - 2001: Recorded "Rebirth" with Angra, a power metal landmark
 - 2004: Released "Temple of Shadows" with Angra, critically acclaimed
-- 2006: Joined W.A.S.P. as touring and studio drummer
-- 2007: Released "Aurora Consurgens" with Angra
-- 2009: Released "Babylon" with W.A.S.P.
-- 2010: Released "Aqua" with Angra
-- 2012: Left Angra; continued with W.A.S.P. and Hangar
-- 2015: Released "Golgotha" with W.A.S.P.
+- 2006: Released "Aurora Consurgens" with Angra
+- 2008: Left Angra; continued with Hangar
+- 2017: Joined W.A.S.P. as touring drummer
 - 2023: Returned to Angra for their latest album cycle
 
 ### Current Gear
@@ -8130,16 +8127,12 @@ Aquiles Priester's drumming style combines extreme speed with musicality and sho
 **Key Albums**
 - Angra - Rebirth (2001, Steamhammer): Power metal renaissance
 - Angra - Temple of Shadows (2004, Steamhammer): Concept album masterpiece
-- Angra - Aurora Consurgens (2006, Steamhammer): Continued excellence
-- Angra - Aqua (2010, Steamhammer): Final album before departure
-- W.A.S.P. - Dominator (2007, Demolition): First W.A.S.P. album
-- W.A.S.P. - Babylon (2009, Demolition): Concept album
-- W.A.S.P. - Golgotha (2015, Napalm): Critical acclaim
+- Angra - Aurora Consurgens (2006, Steamhammer): Final album before departure
 - Hangar - Various albums (1996-Present, Various): Founding band
 
 **Notable Tours**
-- Angra World Tours (2000-2012): Global touring with Angra
-- W.A.S.P. Tours (2006-Present): Ongoing with Blackie Lawless
+- Angra World Tours (2001-2008): Global touring with Angra
+- W.A.S.P. Tours (2017-Present): Ongoing with Blackie Lawless
 - South American Festival Circuit (Ongoing): Regular festival appearances
 - European Metal Festivals (Multiple years): Wacken, Masters of Rock, etc.
 
@@ -8189,7 +8182,7 @@ A: Aquiles Priester plays the snare from his Mapex Saturn Evolution All Maple si
 A: Aquiles Priester uses a DW 9000 Series double bass drum pedal, mounted alongside a DW 9000 Series hi-hat stand and Gibraltar racks, delivering the sustained, high-speed double-bass patterns his playing is known for.
 
 **Q: What band is Aquiles Priester in?**
-A: Aquiles Priester is best known for his work with Angra (2000-2012, 2023-present) and W.A.S.P. (2006-present), along with his own project Hangar.
+A: Aquiles Priester is best known for his work with Angra (2001-2008, 2023-present) and W.A.S.P. (2017-present), along with his own project Hangar.
 
 **Q: What drumsticks does Aquiles Priester use?**
 A: Aquiles Priester uses his own ProMark Aquiles Priester Signature drumsticks.
@@ -9612,7 +9605,7 @@ A: Tim Yeung uses trigger-assisted bass drums for clarity at the extreme tempos 
 Kevin Talley (born May 21, 1979) is an American drummer renowned for his work with brutal death metal and grindcore bands including Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. His incredibly fast and precise drumming helped define the brutal death metal sound.
 
 ### Complete Drum Kit Overview
-Kevin Talley plays a Pearl Masters Premium Legend drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation has demanded for over two decades. The Kevin Talley drum set centers on a Pearl Masters 14x5.5" Maple snare, delivering a bright, cracking response that cuts through brutal death metal's dense, downtuned guitar work at his signature blistering tempos.
+Kevin Talley plays a Pearl Masters Custom / Reference Series drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation has demanded for over two decades. The Kevin Talley drum set centers on a Pearl Masters 14"x6.5" steel snare, delivering a bright, cracking response that cuts through brutal death metal's dense, downtuned guitar work at his signature blistering tempos.
 
 Sabian AAX Series cymbals round out the Kevin Talley drum kit: 14" Stage Hi-Hats for tight, controlled chops; 17" and 18" X-Plosion Crashes for fast-decaying accents; and a 20" Stage Ride for cutting rhythmic definition. A Pearl Eliminator double pedal drives Talley's renowned speed and endurance, powering the relentless blast beats and gravity-blast technique that helped define brutal death metal and grindcore across his work with Dying Fetus and Misery Index. Vic Firth American Classic 5B sticks and Remo drumheads complete a rig built to withstand the physical demands of some of extreme metal's fastest drumming.
 
@@ -9634,8 +9627,8 @@ Talley's drumming combines the technical demands of brutal death metal with the 
 - 2017: Left Six Feet Under; continues session work
 
 ### Current Gear
-- **Drums:** Pearl Masters Premium Legend
-- **Snare:** Pearl Masters 14x5.5" Maple
+- **Drums:** Pearl Masters Custom / Reference Series
+- **Snare:** Pearl Masters 14"x6.5" Steel
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride)
 - **Hardware:** Pearl Eliminator Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
@@ -9907,7 +9900,7 @@ A: Isaac Lamb's pedal brand and model are not publicly documented. No verified s
 **Profile URL:** https://metalforge.io/drummer/martin-axenrot
 
 ### Band History
-- Opeth: 2006–present (current)
+- Opeth: 2006–2021
 - Bloodbath: 2008–present (current)
 - Witchery: 1997–2010
 

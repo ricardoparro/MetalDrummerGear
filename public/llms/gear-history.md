@@ -97,7 +97,7 @@ Adrian Erlandsson's 1995 setup behind At the Gates' Slaughter of the Soul — th
 
 **Active:** 2011–present | **Iconic era:** The Sin and the Sentence (2017)
 
-Alex Bent's 2017 arrival behind Trivium's kit on The Sin and the Sentence marked a pivot point for the band — and for technical death metal drummers seeking mainstream relevance. Bent spent nearly a decade in the underground with Arkaik, Brain Drill, and Battlecross, building the extreme speed and precision that made him an Axis Percussion endorser years before signing with a recognizable band name.
+Alex Bent's 2017 arrival behind Trivium's kit on The Sin and the Sentence marked a pivot point for the band — and for technical death metal drummers seeking mainstream relevance. Bent spent nearly a decade in the underground with Arkaik, Brain Drill, and Battlecross, building the extreme speed and precision that would later make him an Axis Percussion endorser in 2021, four years and two albums into his Trivium tenure.
 
 ### Pre-Trivium Tech Death Years (2011–2016)
 
@@ -1717,7 +1717,7 @@ Kevin Talley's 2000 setup behind Dying Fetus's Destroy the Opposition shows how 
 - 2000: $2,846 (Original Purchase) — Destroy the Opposition recorded — landmark polyrhythmic blast beat brutal death metal album
 - 2003: $3,400 (Misery Index era) — Retaliate recorded; same Pearl/Sabian/Pearl Eliminator rig carries into a grindcore-adjacent context
 - 2007: $4,400 (War of Attrition era) — Dying Fetus return; most documented touring configuration of the Pearl Eliminator-pedal era
-- 2018: $5,600 (Current rig era) — Pearl Masters Premium Legend shell upgrade, still paired with Sabian AAX and Pearl Eliminator
+- 2018: $5,600 (Current rig era) — Pearl Masters Custom / Reference Series shell upgrade, still paired with Sabian AAX and Pearl Eliminator
 - 2026: $5,414 (Current adjusted) — Inflation-adjusted value of original 2000 setup
 
 **Sources:**
@@ -2026,7 +2026,7 @@ Matt Halpern's 2016 setup behind Periphery III: Select Difficulty captures the m
 - 2016: $10,398 (Original Purchase) — Periphery III: Select Difficulty recording
 - 2017: $10,700 (Grammy nomination) — 'The Price Is Wrong' earns a Best Metal Performance nomination at the 59th Grammy Awards
 - 2019: $11,800 (Hail Stan era) — Continued Pearl Reference Series and Meinl Byzance setup for Periphery IV: Hail Stan
-- 2023: $13,200 (Aliens era) — Mature Pearl Reference Series configuration on Periphery V
+- 2023: $13,200 (Periphery V era) — Mature Pearl Reference Series configuration on Periphery V: Djent Is Not a Genre
 - 2025: $13,800 (Continued Pearl/Meinl endorsement) — Halpern remains one of djent's most influential gear tastemakers
 - 2026: $14,200 (Current adjusted) — Inflation-adjusted value
 
@@ -2559,7 +2559,7 @@ Pete Sandoval's 1989 setup for Morbid Angel's Altars of Madness — the album th
 
 **Active:** 2007–present | **Iconic era:** Korn III: Remember Who You Are (2010)
 
-Ray Luzier's 2010 DW Collector's Series setup from Korn III: Remember Who You Are — his first full studio album as Korn's permanent drummer after replacing Joey Jordison. Luzier combined a high-spec DW custom shell pack with Paiste 2002 cymbals and DW 9002 double pedals to deliver the massive, groove-driven sound Korn demanded.
+Ray Luzier's 2010 DW Collector's Series setup from Korn III: Remember Who You Are — his first full studio album as Korn's permanent drummer after replacing David Silveria. Luzier combined a high-spec DW custom shell pack with Paiste 2002 cymbals and DW 9002 double pedals to deliver the massive, groove-driven sound Korn demanded.
 
 ### Pre-Korn Session / KoRn Debut Era (2007–2009)
 

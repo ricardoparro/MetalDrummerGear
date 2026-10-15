@@ -48,7 +48,7 @@ Based on 69 drummers with verified hardware/pedal data (96% of roster).
 **Most popular hardware brand:** Tama (23/72 drummers, 32%)
 
 - **Tama:** 32% (23/72 drummers) ██████
-- **DW:** 31% (22/72 drummers) ██████
+- **DW:** 32% (23/72 drummers) ██████
 - **Pearl:** 24% (17/72 drummers) █████
 - **Axis:** 6% (4/72 drummers) █
 - **Gibraltar:** 4% (3/72 drummers) █

@@ -39,7 +39,7 @@ Raymond Herrera is an American drummer best known as the founding member and for
 
 Raymond Herrera (born December 18, 1972, in Los Angeles, California) is an American drummer who co-founded influential industrial metal band Fear Factory in 1990. Known for his machine-like precision and pioneering use of drum triggers, Herrera helped define the sound of industrial metal drumming.
 
-His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obsolete" (1998) combined relentless double bass patterns with mechanical precision, creating the template for countless industrial and groove metal bands. Though he departed Fear Factory in 2009, his influence on modern metal drumming remains significant.
+His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obsolete" (1998) combined relentless double bass patterns with mechanical precision, creating the template for countless industrial and groove metal bands. Though he departed Fear Factory in 2006, his influence on modern metal drumming remains significant.
 
 ## Career Highlights
 
@@ -51,8 +51,8 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 - **2001** — Released "Digimortal," featuring hit "Linchpin"
 - **2004** — Released "Archetype" after Fear Factory reunion
 - **2005** — Released "Transgression" with Fear Factory
+- **2006** — Officially departed Fear Factory
 - **2008** — Formed Arkaea with Christian Olde Wolbers after Fear Factory split
-- **2009** — Officially departed Fear Factory
 
 ## Style & Influences
 
@@ -86,7 +86,7 @@ Raymond Herrera's drumming style revolutionized industrial metal with its combin
 **Tours:**
 
 - **Ozzfest** (1997, 1999, 2001, 2006) — Multiple appearances
-- **Fear Factory World Tours** (1992-2009) — Extensive worldwide touring
+- **Fear Factory World Tours** (1992-2006) — Extensive worldwide touring
 - **Demanufacture Anniversary Tour** (2005) — Classic album tour
 
 ## Band History
@@ -149,7 +149,7 @@ A: Raymond Herrera uses Attack Drumheads across his Tama Starclassic kit.
 
 **Q: What band is Raymond Herrera in?**
 
-A: Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2009. He also drums for Brujeria and formed Arkaea after Fear Factory's split.
+A: Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2006. He also drums for Brujeria and formed Arkaea after Fear Factory's split.
 
 **Q: Does Raymond Herrera use electronic drum triggers?**
 

@@ -13,7 +13,7 @@ Mayhem's Hellhammer vs Motörhead/Scorpions' Mikkey Dee — cold Norwegian black
 - **Drums:** Sonor SQ2 Heavy Beech
 - **Cymbals:** Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)
 - **Snare:** Sonor SQ2 14x5.5" Maple
-- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne, Roland Electronics
+- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Mikkey Dee Setup
@@ -26,7 +26,7 @@ Mayhem's Hellhammer vs Motörhead/Scorpions' Mikkey Dee — cold Norwegian black
 
 ## Playing Style
 
-Hellhammer (born Jan Axel Blomberg, 1969, Oslo) joined Mayhem in 1988, replacing founding drummer Manheim, and his icy, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains Norwegian black metal's defining recording; he has run a parallel career with Dimmu Borgir since 1999. Mikkey Dee (born Micael Kiriakos Delaoglou, October 31, 1963, in Gothenburg, Sweden) built his early reputation with King Diamond on albums like "Abigail" (1987) before becoming Motörhead's longest-serving drummer, driving the band's uncompromising sound for 23 years from 1992 until Lemmy Kilmister's death in December 2015, then joining Scorpions in 2016.
+Hellhammer (born Jan Axel Blomberg, 1969, Trysil Municipality) joined Mayhem in 1988, replacing founding drummer Manheim, and his icy, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains Norwegian black metal's defining recording; he has run a parallel career with Dimmu Borgir since 1999. Mikkey Dee (born Micael Kiriakos Delaoglou, October 31, 1963, in Gothenburg, Sweden) built his early reputation with King Diamond on albums like "Abigail" (1987) before becoming Motörhead's longest-serving drummer, driving the band's uncompromising sound for 23 years from 1992 until Lemmy Kilmister's death in December 2015, then joining Scorpions in 2016.
 
 ## Technique
 

@@ -3268,7 +3268,7 @@ Full profile: https://metalforge.io/drummer/mike-portnoy
 ### Frequently Asked Questions
 
 **Q: Who is the best symphonic metal drummer?**
-A: Hellhammer is the most influential symphonic metal drummer, having contributed to both Mayhem's foundational black metal and Dimmu Borgir's full-orchestra symphonic black metal era — the two poles of the genre's extreme range. Daray is the current standard-bearer for technical symphonic black metal drumming as Dimmu Borgir's active drummer. Frost of Satyricon represents the genre's technical precision ceiling — combining blast beat speed with the controlled performance discipline that full orchestral arrangements demand.
+A: Hellhammer is the most influential symphonic metal drummer, having contributed to both Mayhem's foundational black metal and an earlier stint drumming for Dimmu Borgir. Daray is the current standard-bearer for technical symphonic black metal drumming, having powered Dimmu Borgir's full-orchestra symphonic black metal era as the band's active drummer. Frost of Satyricon represents the genre's technical precision ceiling — combining blast beat speed with the controlled performance discipline that full orchestral arrangements demand.
 
 **Q: What makes symphonic metal drumming different from other extreme metal drumming?**
 A: Symphonic metal drumming must serve two masters simultaneously: the extreme metal aggression of blast beats and double bass at high tempos, and the orchestral grandeur of full symphony arrangements that require dynamic sensitivity and precise timing relative to conducted ensembles. Where death or black metal drumming can operate with raw intensity, symphonic metal drumming requires awareness of the full orchestral texture — knowing when to pull back, when to add dynamics, and how to create space for choir and string arrangements while still delivering extreme metal's physical impact. This combination of extremity and orchestral sensitivity is what makes the best symphonic metal drummers unique.
@@ -5857,9 +5857,9 @@ Full profile: https://metalforge.io/drummer/tomas-haake
 
 **Band:** Periphery
 **Highlight:** Periphery's djent flagship
-**Why ranked here:** Matt Halpern has driven djent's most commercially successful band, Periphery, since 2005, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience
+**Why ranked here:** Matt Halpern has driven djent's most commercially successful band, Periphery, since 2009, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience
 
-Matt Halpern (Periphery) earns rank #2 for: periphery's djent flagship. Matt Halpern has driven djent's most commercially successful band, Periphery, since 2005, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience.
+Matt Halpern (Periphery) earns rank #2 for: periphery's djent flagship. Matt Halpern has driven djent's most commercially successful band, Periphery, since 2009, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience.
 
 Full profile: https://metalforge.io/drummer/matt-halpern
 
@@ -8143,9 +8143,9 @@ Full profile: https://metalforge.io/drummer/scott-travis
 
 **Band:** Angra / W.A.S.P.
 **Highlight:** Angra and W.A.S.P. — Brazilian power metal virtuosity
-**Why ranked here:** Aquiles Priester's blazing double bass, complex fills, and sustained extreme speed with Angra place him among actual power metal's most celebrated practitioners — Angra is one of South America's definitive power metal bands, and Priester's parallel work with shock-rock/glam-power hybrid W.A.S.P. since 2006 further demonstrates his range across the genre's theatrical wing. Aquiles Priester earns rank #2 as one of the few drummers in MetalForge's database with a direct power metal band credit.
+**Why ranked here:** Aquiles Priester's blazing double bass, complex fills, and sustained extreme speed with Angra place him among actual power metal's most celebrated practitioners — Angra is one of South America's definitive power metal bands, and Priester's parallel work with shock-rock/glam-power hybrid W.A.S.P. since 2017 further demonstrates his range across the genre's theatrical wing. Aquiles Priester earns rank #2 as one of the few drummers in MetalForge's database with a direct power metal band credit.
 
-Aquiles Priester (Angra / W.A.S.P.) earns rank #2 for: angra and w.a.s.p. — brazilian power metal virtuosity. Aquiles Priester's blazing double bass, complex fills, and sustained extreme speed with Angra place him among actual power metal's most celebrated practitioners — Angra is one of South America's definitive power metal bands, and Priester's parallel work with shock-rock/glam-power hybrid W.A.S.P. since 2006 further demonstrates his range across the genre's theatrical wing. Aquiles Priester earns rank #2 as one of the few drummers in MetalForge's database with a direct power metal band credit..
+Aquiles Priester (Angra / W.A.S.P.) earns rank #2 for: angra and w.a.s.p. — brazilian power metal virtuosity. Aquiles Priester's blazing double bass, complex fills, and sustained extreme speed with Angra place him among actual power metal's most celebrated practitioners — Angra is one of South America's definitive power metal bands, and Priester's parallel work with shock-rock/glam-power hybrid W.A.S.P. since 2017 further demonstrates his range across the genre's theatrical wing. Aquiles Priester earns rank #2 as one of the few drummers in MetalForge's database with a direct power metal band credit..
 
 Full profile: https://metalforge.io/drummer/aquiles-priester
 
@@ -8277,9 +8277,9 @@ Full profile: https://metalforge.io/drummer/mikkey-dee
 
 **Band:** Angra / W.A.S.P.
 **Highlight:** W.A.S.P. — shock rock's glam-adjacent theatrics
-**Why ranked here:** Aquiles Priester has powered W.A.S.P. since 2006, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands.
+**Why ranked here:** Aquiles Priester has powered W.A.S.P. since 2017, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands.
 
-Aquiles Priester (Angra / W.A.S.P.) earns rank #2 for: w.a.s.p. — shock rock's glam-adjacent theatrics. Aquiles Priester has powered W.A.S.P. since 2006, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands..
+Aquiles Priester (Angra / W.A.S.P.) earns rank #2 for: w.a.s.p. — shock rock's glam-adjacent theatrics. Aquiles Priester has powered W.A.S.P. since 2017, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands..
 
 Full profile: https://metalforge.io/drummer/aquiles-priester
 
@@ -9880,10 +9880,10 @@ Full profile: https://metalforge.io/drummer/blake-richardson
 ### 5. Matt Halpern
 
 **Band:** Periphery
-**Highlight:** Closing out the decade as a founding djent-metalcore architect
-**Why ranked here:** Matt Halpern co-founded Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for founding one of the decade's last — and most influential — metalcore-adjacent acts.
+**Highlight:** Closing out the decade as a djent-metalcore technical architect
+**Why ranked here:** Matt Halpern joined Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for joining one of the decade's last — and most influential — metalcore-adjacent acts.
 
-Matt Halpern (Periphery) earns rank #5 for: closing out the decade as a founding djent-metalcore architect. Matt Halpern co-founded Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for founding one of the decade's last — and most influential — metalcore-adjacent acts..
+Matt Halpern (Periphery) earns rank #5 for: closing out the decade as a djent-metalcore technical architect. Matt Halpern joined Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for joining one of the decade's last — and most influential — metalcore-adjacent acts..
 
 Full profile: https://metalforge.io/drummer/matt-halpern
 
@@ -9947,7 +9947,7 @@ A: 2000s metalcore emerged directly from the fusion of hardcore punk aggression 
 A: August Burns Red, Converge, Shadows Fall, Between the Buried and Me, Killswitch Engage, Trivium, and Darkest Hour are among the most frequently cited bands that defined metalcore's 2000s wave, alongside crossover-adjacent acts like Lamb of God and Fear Factory whose 2000s output shaped the surrounding scene. Periphery and Kublai Khan TX, both founded in 2009, mark the transition point between the decade's established metalcore sound and what came after.
 
 **Q: How did 2000s metalcore influence the genre's next decade?**
-A: Several drummers who built their reputations in the 2000s carried metalcore's technical, double-bass-driven vocabulary directly into the 2010s — Nick Augusto joined Trivium in 2010 after working as the band's drum technician during the decade's final years, and Matt Halpern co-founded Periphery in 2009, fusing 2000s metalcore technicality with djent's polymetric influence to help define the genre's next chapter.
+A: Several drummers who built their reputations in the 2000s carried metalcore's technical, double-bass-driven vocabulary directly into the 2010s — Nick Augusto joined Trivium in 2010 after working as the band's drum technician during the decade's final years, and Matt Halpern joined Periphery in 2009, fusing 2000s metalcore technicality with djent's polymetric influence to help define the genre's next chapter.
 
 ### Related Lists
 
@@ -10127,9 +10127,9 @@ Full profile: https://metalforge.io/drummer/mike-mangini
 
 **Band:** Periphery
 **Highlight:** Berklee training behind djent's technical foundation
-**Why ranked here:** Matt Halpern graduated from Berklee College of Music before co-founding Periphery, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style.
+**Why ranked here:** Matt Halpern graduated from Berklee College of Music before joining Periphery in 2009, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style.
 
-Matt Halpern (Periphery) earns rank #3 for: berklee training behind djent's technical foundation. Matt Halpern graduated from Berklee College of Music before co-founding Periphery, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style..
+Matt Halpern (Periphery) earns rank #3 for: berklee training behind djent's technical foundation. Matt Halpern graduated from Berklee College of Music before joining Periphery in 2009, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style..
 
 Full profile: https://metalforge.io/drummer/matt-halpern
 
@@ -10215,7 +10215,7 @@ A: Formal training builds a structured understanding of rhythm, subdivision, and
 A: No — many of metal's greatest drummers are entirely self-taught. But the drummers on this list demonstrate that formal training, where it exists, tends to show up as a specific kind of disciplined, architecturally structured playing rather than pure instinctive power. Tomas Haake's metronomic precision with Meshuggah is often compared to conservatory-level percussion discipline even without a documented formal credit, showing that the same rigor can emerge through intensive self-study.
 
 **Q: What is Berklee College of Music's connection to metal drumming?**
-A: Berklee College of Music, a leading American music school, has produced or employed several notable metal drummers: Mike Mangini taught there before joining Dream Theater, Matt Halpern graduated before co-founding Periphery, and Jason Bittner is an alumnus who later joined Shadows Fall and Overkill. Its emphasis on technical musicianship and music theory has made it a recurring credential among metal's most academically-trained technical players.
+A: Berklee College of Music, a leading American music school, has produced or employed several notable metal drummers: Mike Mangini taught there before joining Dream Theater, Matt Halpern graduated before joining Periphery in 2009, and Jason Bittner is an alumnus who later joined Shadows Fall and Overkill. Its emphasis on technical musicianship and music theory has made it a recurring credential among metal's most academically-trained technical players.
 
 ### Related Lists
 
@@ -11647,7 +11647,7 @@ Full list page: https://metalforge.io/lists/best-metal-drummers-playing-tama-kit
 
 ## Top 10 Metal Drummers Playing Pearl Kits
 
-Pearl is the second drum-kit brand in MetalForge's gear-angle ranking series, and its Reference Pure, Masterworks, and Export lines cover more documented ground across MetalForge's gear guides than any manufacturer besides Tama. Joey Jordison anchored Slipknot's sound on a Pearl Reference Series kit in custom purple/black finishes, with a Pearl Joey Jordison Signature 13"x6.5" snare built with a smaller diameter for a faster response than a standard 14". Gene Hoglan, "The Atomic Clock," has run Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades, while Ray Luzier's Pearl Reference Pure kit gives Korn's downtuned grooves the same clarity Jordison brought to Slipknot. Mike Mangini's Pearl Masterworks Maple rig, with its multiple Pearl Reference snares and Roland TD-50 triggers, powered Dream Theater's most technically demanding material from 2010 to 2023. George Kollias co-designed the Pearl Demon XR double pedal specifically for his 240+ BPM technical death metal tempos with Nile, Paul Mazurkiewicz has played Pearl since co-founding Cannibal Corpse in 1988, and Daniel Erlandsson's Pearl Reference Pure kit anchors Arch Enemy's melodic death metal attack. Jaska Raatikainen played Pearl kits for Children of Bodom's debut "Something Wild," then returned to Pearl in 2004 with a Masters Premium Maple kit built for endurance, carrying it through "Are You Dead Yet?" and the rest of the catalog up to "Hexed" (2019) and the band's dissolution that year. Ranked by how extensively and currently each drummer's Pearl relationship is documented in MetalForge's own gear data.
+Pearl is the second drum-kit brand in MetalForge's gear-angle ranking series, and its Reference Pure, Masterworks, and Export lines cover more documented ground across MetalForge's gear guides than any manufacturer besides Tama. Joey Jordison anchored Slipknot's sound on a Pearl Reference Series kit in custom purple/black finishes, with a Pearl Joey Jordison Signature 13"x6.5" snare built with a smaller diameter for a faster response than a standard 14". Gene Hoglan, "The Atomic Clock," has run Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades, while Ray Luzier's Pearl Reference Maple kit gives Korn's downtuned grooves the same clarity Jordison brought to Slipknot. Mike Mangini's Pearl Masterworks Maple rig, with its multiple Pearl Reference snares and Roland TD-50 triggers, powered Dream Theater's most technically demanding material from 2010 to 2023. George Kollias co-designed the Pearl Demon XR double pedal specifically for his 240+ BPM technical death metal tempos with Nile, Paul Mazurkiewicz has played Pearl since co-founding Cannibal Corpse in 1988, and Daniel Erlandsson's Pearl Reference Pure kit anchors Arch Enemy's melodic death metal attack. Jaska Raatikainen played Pearl kits for Children of Bodom's debut "Something Wild," then returned to Pearl in 2004 with a Masters Premium Maple kit built for endurance, carrying it through "Are You Dead Yet?" and the rest of the catalog up to "Hexed" (2019) and the band's dissolution that year. Ranked by how extensively and currently each drummer's Pearl relationship is documented in MetalForge's own gear data.
 
 ### Rankings
 
@@ -11674,10 +11674,10 @@ Full profile: https://metalforge.io/drummer/gene-hoglan
 ### 3. Ray Luzier
 
 **Band:** Korn
-**Highlight:** Pearl Reference Pure — Korn's versatile groove engine
-**Why ranked here:** Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Pure kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands.
+**Highlight:** Pearl Reference Maple — Korn's versatile groove engine
+**Why ranked here:** Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Maple kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands.
 
-Ray Luzier (Korn) earns rank #3 for: pearl reference pure — korn's versatile groove engine. Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Pure kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands..
+Ray Luzier (Korn) earns rank #3 for: pearl reference maple — korn's versatile groove engine. Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Maple kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands..
 
 Full profile: https://metalforge.io/drummer/ray-luzier
 
@@ -11737,7 +11737,7 @@ Full profile: https://metalforge.io/drummer/jaska-raatikainen
 A: Joey Jordison (Slipknot) ran a signature Pearl Reference Series kit, and Gene Hoglan has played Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades. Ray Luzier (Korn), Mike Mangini (Dream Theater), George Kollias (Nile), Paul Mazurkiewicz (Cannibal Corpse), Daniel Erlandsson (Arch Enemy), and Jaska Raatikainen (Children of Bodom) round out MetalForge's most extensively documented Pearl artists.
 
 **Q: What is Pearl Reference Pure?**
-A: Reference Pure is Pearl's flagship all-maple professional shell line, prized for a focused, articulate low end. Gene Hoglan, Ray Luzier, Paul Mazurkiewicz, and Daniel Erlandsson all run Reference Pure kits, while George Kollias and Mike Mangini use Pearl's Masterworks custom-order line for more elaborate, individually specified configurations.
+A: Reference Pure is Pearl's flagship all-maple professional shell line, prized for a focused, articulate low end. Gene Hoglan, Paul Mazurkiewicz, and Daniel Erlandsson all run Reference Pure kits, while Ray Luzier runs Pearl's related Reference Maple line, and George Kollias and Mike Mangini use Pearl's Masterworks custom-order line for more elaborate, individually specified configurations.
 
 **Q: Did any of these drummers play a different brand before switching to Pearl?**
 A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Angel and Death years before becoming a long-time Pearl Reference Pure endorser, and has also used DW kits at points across his four-decade career — though Pearl Reference Pure has been his primary setup for many years.

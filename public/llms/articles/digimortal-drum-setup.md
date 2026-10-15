@@ -1,6 +1,6 @@
 # Digimortal Drum Setup: Raymond Herrera's 2001 Fear Factory Kit Breakdown
 
-> Complete breakdown of Raymond Herrera's drum gear on Fear Factory's Digimortal (2001). The final Herrera studio album — Tama Starclassic triggered kit, heavier double-kick approach, and how 'Linchpin' and 'What Will Become?' were recorded.
+> Complete breakdown of Raymond Herrera's drum gear on Fear Factory's Digimortal (2001) — the closing album of the band's unbroken 1995-2001 run before the 2002 split and 2003 reunion — Tama Starclassic triggered kit, heavier double-kick approach, and how 'Linchpin' and 'What Will Become?' were recorded.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Raymond Herrera](/llms/drummers/raymond-herrera.md)
@@ -12,13 +12,13 @@
 
 ## Overview
 
-Released on May 22, 2001, Fear Factory's *Digimortal* is the final studio album Raymond Herrera recorded with the band before his departure in 2002 — and one of the more controversial entries in the Fear Factory catalog. Produced again by Rhys Fulber, *Digimortal* pushed the hybrid industrial metal formula of *Demanufacture* (1995) and *Obsolete* (1998) into new territory: shorter song structures, nu-metal-influenced passages, electronic programming woven more explicitly into the arrangements, and a collaboration with rapper B-Real of Cypress Hill on "Back the Fuck Up."
+Released on May 22, 2001, Fear Factory's *Digimortal* is the last studio album from the band's original unbroken run — Fear Factory split later in 2002 and reunited in 2003, with Herrera recording two further albums, *Archetype* (2004) and *Transgression* (2005), before his final departure in 2006 — and *Digimortal* remains one of the more controversial entries in the Fear Factory catalog. Produced again by Rhys Fulber, *Digimortal* pushed the hybrid industrial metal formula of *Demanufacture* (1995) and *Obsolete* (1998) into new territory: shorter song structures, nu-metal-influenced passages, electronic programming woven more explicitly into the arrangements, and a collaboration with rapper B-Real of Cypress Hill on "Back the Fuck Up."
 
 For drummers, *Digimortal* is a study in how a world-class industrial metal kit sounds when the music around it changes. Herrera's Tama Starclassic setup with full ddrum/Roland triggering remained consistent with his previous Fear Factory work, but the drum performances were shaped by the album's more varied compositional landscape: tighter, shorter patterns in the nu-metal influenced tracks; heavier double-kick density in the more aggressive passages like "Linchpin" and "What Will Become?"; more integration with programmed electronic elements throughout.
 
 Rhys Fulber, returning as producer, continued the direction he had established on *Obsolete* — treating the triggered drum signals as electronic production material to be shaped and integrated with the album's programmed layers. On *Digimortal*, this approach went further than on *Obsolete*, with the boundary between Herrera's performed drum parts and the electronic programming deliberately blurred in certain tracks.
 
-This article breaks down Herrera's complete drum setup for *Digimortal*, examines how the kit was deployed across the album's varied material, and explains why this final album in the classic Herrera era remains significant for understanding the full arc of Fear Factory's drum sound.
+This article breaks down Herrera's complete drum setup for *Digimortal*, examines how the kit was deployed across the album's varied material, and explains why this closing album of Herrera's unbroken 1995-2001 run remains significant for understanding the full arc of Fear Factory's drum sound.
 
 ## Gear Breakdown
 
@@ -37,7 +37,7 @@ The double kick configuration drove the album's most aggressive passages. "Linch
 
 On *Digimortal*'s nu-metal influenced tracks — shorter compositions with more direct, less complex rhythmic structures — the Tama Starclassic kit still provided its characteristic acoustic body. The triggered toms delivered emphatic, sample-enhanced attacks on fills and accents. The kit's tonal consistency across all drums was essential given Fulber's production approach, which required predictable trigger signals from every drum in the setup.
 
-The *Digimortal* sessions were among the last Herrera would record with Fear Factory. His departure in 2002, along with guitarist Christian Olde Wolbers, effectively ended the classic Fear Factory lineup that had defined the band's three-album peak from *Demanufacture* through *Obsolete* and *Digimortal*.
+The *Digimortal* sessions closed out the classic, unbroken 1995-2001 Fear Factory lineup that had defined the band's three-album peak from *Demanufacture* through *Obsolete* and *Digimortal*. Fear Factory split later in 2002, but reunited in 2003 with Herrera and Christian Olde Wolbers still behind the kit and guitar; Herrera recorded two further albums, *Archetype* (2004) and *Transgression* (2005), before his final departure in 2006.
 
 ### Snare: Tight Mechanical Authority on Herrera's Departure Album
 
@@ -79,7 +79,7 @@ For the complete Fear Factory drum cluster:
 
 ## Key Facts
 
-- Released May 22, 2001 — Raymond Herrera's final studio album with Fear Factory
+- Released May 22, 2001 — the last album before Fear Factory's 2002 split; Herrera returned for the band's 2003 reunion and recorded two more albums before departing in 2006
 - Produced by Rhys Fulber — building on the electronic production approach of Obsolete
 - Tama Starclassic with full ddrum/Roland triggering — same kit architecture across the Demanufacture through Digimortal arc
 - More nu-metal-influenced compositions with explicit electronic programming integrated into drum arrangements
@@ -88,7 +88,7 @@ For the complete Fear Factory drum cluster:
 - Same Tama Starclassic architecture across Demanufacture, Obsolete, and Digimortal — three-album continuity
 - Double 22" kick drums with ddrum triggers — heavier double-kick emphasis on Linchpin and What Will Become?
 - All toms triggered — Fulber's most extensive electronic integration of triggered signals to date
-- Final Fear Factory recording sessions for this lineup before Herrera's 2002 departure
+- Final recording sessions of this unbroken lineup before Fear Factory's 2002 split; Herrera returned for the band's 2003 reunion and recorded Archetype (2004) and Transgression (2005) before departing in 2006
 - Estimated kit value: $3,000–5,500 (Tama Starclassic shell pack)
 - Estimated snare value: $400–800
 
@@ -104,7 +104,7 @@ A: All three albums — *Demanufacture* (1995), *Obsolete* (1998), and *Digimort
 
 **Q: Why was Digimortal controversial and how did that affect the drum production?**
 
-A: *Digimortal* was controversial within the Fear Factory fanbase primarily for its incorporation of nu-metal influences — shorter song lengths, simpler structures in some tracks, and the collaboration with rapper B-Real of Cypress Hill on "Back the Fuck Up." For Herrera's drumming, this meant adapting his industrial metal hybrid approach to more varied compositional demands. The heavier tracks like "Linchpin" and "What Will Become?" kept the machine-gun double-kick patterns and complex rhythmic structures that defined *Demanufacture* and *Obsolete*. The nu-metal influenced tracks required tighter, more direct patterns within shorter forms. The drum production under Rhys Fulber integrated programmed electronic elements more explicitly than on previous records, which some listeners found at odds with the acoustic power of the hybrid kit on earlier albums. *Digimortal* remains significant as the end point of the classic Herrera era — his departure in 2002 closed the chapter on the three-album peak that this album completed.
+A: *Digimortal* was controversial within the Fear Factory fanbase primarily for its incorporation of nu-metal influences — shorter song lengths, simpler structures in some tracks, and the collaboration with rapper B-Real of Cypress Hill on "Back the Fuck Up." For Herrera's drumming, this meant adapting his industrial metal hybrid approach to more varied compositional demands. The heavier tracks like "Linchpin" and "What Will Become?" kept the machine-gun double-kick patterns and complex rhythmic structures that defined *Demanufacture* and *Obsolete*. The nu-metal influenced tracks required tighter, more direct patterns within shorter forms. The drum production under Rhys Fulber integrated programmed electronic elements more explicitly than on previous records, which some listeners found at odds with the acoustic power of the hybrid kit on earlier albums. *Digimortal* remains significant as the end point of the classic, unbroken 1995-2001 Herrera era — Fear Factory's 2002 split closed the chapter on the three-album peak that this album completed, though the band reunited in 2003 and Herrera recorded two more albums before his final departure in 2006.
 
 **Q: What are the key drum tracks on Digimortal?**
 
@@ -112,7 +112,7 @@ A: "Linchpin" is the standout Herrera performance on *Digimortal* — a driving 
 
 **Q: What happened to Raymond Herrera after Digimortal?**
 
-A: Raymond Herrera left Fear Factory in 2002, along with guitarist Christian Olde Wolbers. The departure effectively ended the classic Fear Factory lineup that had recorded *Demanufacture*, *Obsolete*, and *Digimortal*. Herrera and Olde Wolbers subsequently formed Arkaea, releasing one album (*Years in the Darkness*, 2009). Herrera continued drumming in various projects, applying his hybrid industrial metal technique — Tama Starclassic drums, trigger integration, DW 5000 Series double pedal — in contexts outside Fear Factory's thematic framework. Fear Factory continued and eventually reformed with different lineups, but the three-album Herrera era from 1995 to 2001 remains the definitive period of the band's drum sound. For Herrera's complete career profile: [Raymond Herrera at MetalForge](/drummer/raymond-herrera).
+A: Fear Factory split in 2002, ending the unbroken lineup that had recorded *Demanufacture*, *Obsolete*, and *Digimortal*. The band reunited in 2003, and Herrera recorded two further albums — *Archetype* (2004) and *Transgression* (2005) — before his final departure in 2006. Herrera then formed Arkaea with Christian Olde Wolbers, releasing one album (*Years in the Darkness*, 2009). Herrera continued drumming in various projects, applying his hybrid industrial metal technique — Tama Starclassic drums, trigger integration, DW 5000 Series double pedal — in contexts outside Fear Factory's thematic framework. The 1995-2001 Herrera era captured on *Demanufacture*, *Obsolete*, and *Digimortal* remains the definitive period of the band's drum sound. For Herrera's complete career profile: [Raymond Herrera at MetalForge](/drummer/raymond-herrera).
 
 ## Related Articles
 

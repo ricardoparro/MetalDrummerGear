@@ -53,7 +53,7 @@ A: Both are progressive-minded drummers who blend jazz-fusion technique into met
 A: Yes — Morgan Ågren was personally selected by Frank Zappa to tour with his band in 1988, a major milestone that established Ågren's reputation as a serious fusion virtuoso before he was even 21 years old.
 
 **Q: What bands have Aquiles Priester and Morgan Ågren played in?**
-A: Aquiles Priester has drummed for Angra (2000-2012, 2023-present), W.A.S.P., and Hangar. Morgan Ågren co-founded the Mats/Morgan Band in 1981, toured with Frank Zappa in 1988, played with Kaipa (2002-2005), and drummed for Devin Townsend Project from 2012 to 2016.
+A: Aquiles Priester has drummed for Angra (2001-2008, 2023-present), W.A.S.P., and Hangar. Morgan Ågren co-founded the Mats/Morgan Band in 1981, toured with Frank Zappa in 1988, played with Kaipa (2002-2005), and drummed for Devin Townsend Project from 2012 to 2016.
 
 **Q: What gear do Aquiles Priester and Morgan Ågren use?**
 A: Aquiles Priester plays his own Mapex Saturn Evolution All Maple signature kit with a custom red-coated Paiste cymbal set, driven by a DW 9000 Series double pedal and his own ProMark signature sticks. Morgan Ågren plays a Sonor SQ2 Beech kit with a Sonor Designer snare and Paiste Signature / 2002 Series cymbals, using Sonor hardware and a Sonor Giant Step Double Pedal.

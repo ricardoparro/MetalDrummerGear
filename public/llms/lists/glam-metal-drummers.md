@@ -30,9 +30,9 @@ Full drummer profile: [Mikkey Dee on MetalForge](https://metalforge.io/drummer/m
 
 **Band:** Angra / W.A.S.P.
 **Highlight:** W.A.S.P. — shock rock's glam-adjacent theatrics
-**Why ranked here:** Aquiles Priester has powered W.A.S.P. since 2006, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands.
+**Why ranked here:** Aquiles Priester has powered W.A.S.P. since 2017, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands.
 
-Aquiles Priester (Angra / W.A.S.P.) earns rank #2 for: w.a.s.p. — shock rock's glam-adjacent theatrics. Aquiles Priester has powered W.A.S.P. since 2006, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands..
+Aquiles Priester (Angra / W.A.S.P.) earns rank #2 for: w.a.s.p. — shock rock's glam-adjacent theatrics. Aquiles Priester has powered W.A.S.P. since 2017, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands..
 
 Full drummer profile: [Aquiles Priester on MetalForge](https://metalforge.io/drummer/aquiles-priester)
 

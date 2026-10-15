@@ -63,7 +63,7 @@ The Periphery drum setup on the 2010 self-titled debut is a study in intentional
 
 The debut's gear story is also the starting point for understanding the full Periphery drum evolution. From this DW/Sabian foundation, Halpern moved through the Periphery II transitional era into the Pearl Reference Series and Meinl Byzance configuration that defined his playing from Select Difficulty onward. The trajectory is one of refinement — each upgrade made in pursuit of the same qualities that the debut-era gear already approached: articulation, warmth, dynamic range, and groove.
 
-For the complete gear evolution, see [Periphery II Drum Setup](/articles/periphery-ii-drum-setup) for the transitional era, [Periphery III: Select Difficulty Drum Setup](/articles/periphery-iii-drum-setup) for the Grammy-era Pearl Reference Series configuration, and [Periphery V: Aliens Drum Setup](/articles/periphery-v-aliens-drum-setup) for where the arc arrived in 2023. For Matt Halpern's full kit breakdown and technique analysis, see his [drummer profile](/drummer/matt-halpern).
+For the complete gear evolution, see [Periphery II Drum Setup](/articles/periphery-ii-drum-setup) for the transitional era, [Periphery III: Select Difficulty Drum Setup](/articles/periphery-iii-drum-setup) for the Grammy-era Pearl Reference Series configuration, and [Periphery IV: Hail Stan Drum Setup](/articles/periphery-iv-drum-setup) for the album before the 2023 release of Periphery V: Djent Is Not a Genre. For Matt Halpern's full kit breakdown and technique analysis, see his [drummer profile](/drummer/matt-halpern).
 
 ## Key Facts
 
@@ -102,7 +102,6 @@ A: Matt Halpern's cymbal choice has changed across Periphery's career. On the 20
 ## Related Articles
 
 - [Matt Halpern's Drum Setup on Periphery II: This Time It's Personal (2012)](https://metalforge.io/articles/periphery-ii-drum-setup)
-- [Matt Halpern's Drum Setup on Periphery V: Aliens (2023)](https://metalforge.io/articles/periphery-v-aliens-drum-setup)
 - [What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-matt-halperns-kit)
 
 ## Related Drummers

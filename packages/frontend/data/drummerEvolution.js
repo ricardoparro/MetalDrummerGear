@@ -17132,7 +17132,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Angra',
     totalYearsActive: '1996-Present',
     profileImage: '/images/drummers/aquiles-priester.webp',
-    summary: 'Aquiles Priester is Brazil\'s most celebrated metal drummer — the neoclassical double-bass powerhouse who anchored Angra\'s most acclaimed era, joined American heavy metal band W.A.S.P. in 2006, and returned to Angra in 2023 for a triumphant second act. His gear evolution runs from founding Brazilian power metal band Hangar in 1996, through the Mapex Saturn/Sabian HHX setup that drove Angra classics like "Rebirth" and "Temple of Shadows," into a Pearl Reference Series/Meinl Byzance rig during his W.A.S.P. years, and finally to the Mapex Saturn Evolution signature kit and Paiste cymbal setup — paired with a DW 9000 double pedal — he plays on his current Angra return cycle.',
+    summary: 'Aquiles Priester is Brazil\'s most celebrated metal drummer — the neoclassical double-bass powerhouse who anchored Angra\'s most acclaimed era, joined American heavy metal band W.A.S.P. in 2017, and returned to Angra in 2023 for a triumphant second act. His gear evolution runs from founding Brazilian power metal band Hangar in 1996, through the Mapex Saturn/Sabian HHX setup that drove Angra classics like "Rebirth" and "Temple of Shadows," into a Pearl Reference Series/Meinl Byzance rig during his W.A.S.P. years, and finally to the Mapex Saturn Evolution signature kit and Paiste cymbal setup — paired with a DW 9000 double pedal — he plays on his current Angra return cycle.',
 
     eras: [
       {
@@ -17206,14 +17206,14 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'aquiles-priester-2000-angra-classic',
+        id: 'aquiles-priester-2001-angra-classic',
         era: 'Angra Classic Era',
-        years: '2000–2012',
-        startYear: 2000,
-        endYear: 2012,
-        description: 'Priester joined Angra in 2000, replacing Ricardo Confessori, and drove the Brazilian power metal band through its most celebrated creative era: "Rebirth" (2001), "Temple of Shadows" (2004), "Aurora Consurgens" (2006), and "Aqua" (2010). His Mapex Saturn Series kit and Sabian HHX cymbals delivered the sustained double-bass performances that defined tracks like "Spread Your Fire" and the shifting blast-beat-to-groove architecture of "Heroes of Sand." In 2006, he added a second major gig, joining American heavy metal band W.A.S.P. while continuing to record and tour with Angra, balancing both bands until leaving Angra in 2012.',
-        albums: ['Rebirth (2001)', 'Temple of Shadows (2004)', 'Aurora Consurgens (2006)', 'Aqua (2010)'],
-        tours: ['Angra World Tours 2000–2012', 'W.A.S.P. touring (joined 2006, overlapping with Angra)'],
+        years: '2001–2008',
+        startYear: 2001,
+        endYear: 2008,
+        description: 'Priester joined Angra in 2001, replacing Ricardo Confessori, and drove the Brazilian power metal band through its most celebrated creative era: "Rebirth" (2001), "Temple of Shadows" (2004), and "Aurora Consurgens" (2006). His Mapex Saturn Series kit and Sabian HHX cymbals delivered the sustained double-bass performances that defined tracks like "Spread Your Fire" and the shifting blast-beat-to-groove architecture of "Heroes of Sand." He departed Angra in 2008 to focus on his own band, Hangar, nine years before joining American heavy metal band W.A.S.P. in 2017.',
+        albums: ['Rebirth (2001)', 'Temple of Shadows (2004)', 'Aurora Consurgens (2006)'],
+        tours: ['Angra World Tours 2001–2008'],
         image: null,
 
         gear: {
@@ -17262,10 +17262,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined Angra in 2000, replacing Ricardo Confessori',
+          'Joined Angra in 2001, replacing Ricardo Confessori',
           'Recorded Rebirth (2001) and Temple of Shadows (2004), regarded as one of the greatest power metal albums ever',
-          'Joined W.A.S.P. in 2006 while continuing to record and tour with Angra',
-          'Left Angra in 2012 after twelve years, continuing with W.A.S.P. and Hangar',
+          'Recorded Aurora Consurgens (2006), extending Angra\'s acclaimed studio run',
+          'Left Angra in 2008 after seven years, departing to focus on Hangar',
         ],
 
         quote: {
@@ -17277,14 +17277,14 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'aquiles-priester-2012-wasp-pearl',
+        id: 'aquiles-priester-2017-wasp-pearl',
         era: 'W.A.S.P. Era & Pearl Reference',
-        years: '2012–2023',
-        startYear: 2012,
+        years: '2017–2023',
+        startYear: 2017,
         endYear: 2023,
-        description: 'After leaving Angra in 2012, Priester focused on W.A.S.P., recording "Golgotha" (2015) to critical acclaim, and continued running Hangar alongside his international work. His setup shifted to a Pearl Reference Series kit with Meinl Byzance cymbals and a Pearl Demon Chain Drive double pedal, still driven by his Vic Firth Aquiles Priester Signature sticks — a professional-grade, custom-finish rig built for W.A.S.P.\'s heavy metal stage shows and Blackie Lawless\'s demanding touring schedule.',
-        albums: ['W.A.S.P. - Golgotha (2015)', 'Hangar - ongoing releases'],
-        tours: ['W.A.S.P. Tours 2012–2023', 'South American Festival Circuit (ongoing)'],
+        description: 'Between his 2008 Angra departure and his 2017 W.A.S.P. recruitment, Priester continued running Hangar alongside his own projects. He joined American heavy metal band W.A.S.P. in 2017, and his setup shifted to a Pearl Reference Series kit with Meinl Byzance cymbals and a Pearl Demon Chain Drive double pedal, still driven by his Vic Firth Aquiles Priester Signature sticks — a professional-grade, custom-finish rig built for W.A.S.P.\'s heavy metal stage shows and Blackie Lawless\'s demanding touring schedule.',
+        albums: ['Hangar - ongoing releases'],
+        tours: ['W.A.S.P. Tours 2017–2023', 'South American Festival Circuit (ongoing)'],
         image: null,
 
         gear: {
@@ -17333,16 +17333,12 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Left Angra in 2012 to focus on W.A.S.P. and Hangar',
-          'Recorded Golgotha (2015) with W.A.S.P. to critical acclaim',
+          'Joined W.A.S.P. in 2017, nine years after departing Angra',
           'Switched to a Pearl Reference Series kit, Meinl Byzance cymbals, and Pearl Demon Chain Drive pedal',
           'Maintained an extensive practice regimen to balance W.A.S.P.\'s international touring with Hangar',
         ],
 
-        quote: {
-          text: "W.A.S.P. asked for a different kind of power than Angra — less orchestral, more raw. The Pearl Reference kit gave me the punch that music needed.",
-          source: 'DRUM! Magazine Interview, 2016',
-        },
+        quote: null,
 
         videos: [],
       },
@@ -17422,11 +17418,11 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'Who is the drummer of Angra?',
-        a: 'Aquiles Priester is Angra\'s drummer, having originally joined in 2000 (replacing Ricardo Confessori) and driven the band\'s most celebrated era through Rebirth, Temple of Shadows, Aurora Consurgens, and Aqua before leaving in 2012. He returned to Angra in 2023.',
+        a: 'Aquiles Priester is Angra\'s drummer, having originally joined in 2001 (replacing Ricardo Confessori) and driven the band\'s most celebrated era through Rebirth, Temple of Shadows, and Aurora Consurgens before leaving in 2008. He returned to Angra in 2023.',
       },
       {
         q: 'What bands has Aquiles Priester played in?',
-        a: 'Aquiles Priester founded Brazilian power metal band Hangar in 1996 and has remained its drummer ever since. He joined Angra in 2000 (through 2012, then again from 2023), and joined American heavy metal band W.A.S.P. in 2006, where he remains an active member.',
+        a: 'Aquiles Priester founded Brazilian power metal band Hangar in 1996 and has remained its drummer ever since. He joined Angra in 2001 (through 2008, then again from 2023), and joined American heavy metal band W.A.S.P. in 2017, where he remains an active member.',
       },
       {
         q: 'What drum kit does Aquiles Priester use now?',
@@ -17434,11 +17430,11 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'How does Aquiles Priester sustain double bass at 180+ BPM?',
-        a: 'Aquiles Priester\'s core technique is relaxation-based: he keeps his ankles completely loose and lets the beaters return freely on rebound after each stroke, eliminating the muscular tension that creates a speed ceiling for most drummers. He developed this approach during his early years founding Hangar in 1996, before joining Angra in 2000.',
+        a: 'Aquiles Priester\'s core technique is relaxation-based: he keeps his ankles completely loose and lets the beaters return freely on rebound after each stroke, eliminating the muscular tension that creates a speed ceiling for most drummers. He developed this approach during his early years founding Hangar in 1996, before joining Angra in 2001.',
       },
       {
         q: 'Did Aquiles Priester return to Angra?',
-        a: 'Yes — Aquiles Priester returned to Angra in 2023 after leaving the band in 2012, a reunion celebrated by the power metal community. He continues to balance the Angra return cycle with his ongoing commitments to W.A.S.P. and Hangar.',
+        a: 'Yes — Aquiles Priester returned to Angra in 2023 after leaving the band in 2008, a reunion celebrated by the power metal community. He continues to balance the Angra return cycle with his ongoing commitments to W.A.S.P. and Hangar.',
       },
     ],
 

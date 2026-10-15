@@ -9,7 +9,7 @@
 
 ## Overview
 
-Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Oslo, Norway) is the most consequential drummer in Norwegian black metal history. For more than three decades, his seat behind the kit with Mayhem has defined the sonic parameters of extreme black metal drumming — combining inhuman blast beat velocity with the razor precision that separates a musical performance from mere noise.
+Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) is the most consequential drummer in Norwegian black metal history. For more than three decades, his seat behind the kit with Mayhem has defined the sonic parameters of extreme black metal drumming — combining inhuman blast beat velocity with the razor precision that separates a musical performance from mere noise.
 
 He joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and immediately began shaping the band's sound toward the ferocity that would define "De Mysteriis Dom Sathanas" (1994). That album — Mayhem's debut full-length, recorded under circumstances that have become the stuff of black metal mythology — is now recognized as one of the defining documents of the genre. Hellhammer's drumming on it set a standard for black metal blast beats that remains the benchmark thirty years later.
 

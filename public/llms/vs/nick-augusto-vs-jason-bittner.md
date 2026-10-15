@@ -13,7 +13,7 @@ Trivium's Nick Augusto vs Overkill/Shadows Fall's Jason Bittner. Modern metalcor
 - **Drums:** Pearl Reference Pure
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Snare:** Pearl Reference 14x6.5" Brass
-- **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
+- **Pedals/Hardware:** DW 9000 Series Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Pro-Mark Nylon Tip 5B
 
 ## Jason Bittner Setup

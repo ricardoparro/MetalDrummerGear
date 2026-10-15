@@ -183,7 +183,7 @@ Jocke Wallgren plays Pearl Reference Pure. The Amon Amarth drummer rounds out th
 Tim Yeung plays Tama Starclassic Bubinga. The Morbid Angel / Hate Eternal / Vital Remains drummer rounds out the kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) cymbals. [see /llms/drummers/tim-yeung.md]
 
 ### What drums does Kevin Talley use?
-Kevin Talley plays Pearl Masters Premium Legend. The Dying Fetus / Misery Index / Six Feet Under drummer rounds out the kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride) cymbals. [see /llms/drummers/kevin-talley.md]
+Kevin Talley plays Pearl Masters Custom / Reference Series. The Dying Fetus / Misery Index / Six Feet Under drummer rounds out the kit with a Pearl Masters 14"x6.5" Steel snare and Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride) cymbals. [see /llms/drummers/kevin-talley.md]
 
 ### What drums does Isaac Lamb use?
 Isaac Lamb plays Not publicly documented. The Kublai Khan TX drummer rounds out the kit with a Not publicly documented snare and Not publicly documented cymbals. [see /llms/drummers/isaac-lamb.md]
@@ -848,7 +848,7 @@ A: Raymond Herrera uses Attack Drumheads across his Tama Starclassic kit.
 
 **Q: What band is Raymond Herrera in?**
 
-A: Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2009. He also drums for Brujeria and formed Arkaea after Fear Factory's split.
+A: Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2006. He also drums for Brujeria and formed Arkaea after Fear Factory's split.
 
 **Q: Does Raymond Herrera use electronic drum triggers?**
 
@@ -1746,7 +1746,7 @@ A: Aquiles Priester uses a DW 9000 Series double bass drum pedal, mounted alongs
 
 **Q: What band is Aquiles Priester in?**
 
-A: Aquiles Priester is best known for his work with Angra (2000-2012, 2023-present) and W.A.S.P. (2006-present), along with his own project Hangar.
+A: Aquiles Priester is best known for his work with Angra (2001-2008, 2023-present) and W.A.S.P. (2017-present), along with his own project Hangar.
 
 **Q: What drumsticks does Aquiles Priester use?**
 

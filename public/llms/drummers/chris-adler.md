@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/chris-adler"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Chris Adler — Drum Kit & Gear Setup
@@ -209,7 +209,7 @@ Full breakdown: [Chris Adler's cymbal setup](https://metalforge.io/cymbals/setup
 
 ## Pedal
 
-Chris Adler plays a Mapex Falcon double pedal.
+Chris Adler plays a Trick Pro 1-V double pedal (direct-drive).
 
 Full breakdown: [Chris Adler's pedal setup](https://metalforge.io/pedals/setups/chris-adler).
 
@@ -238,4 +238,4 @@ Dated brand-endorsement timeline: [Chris Adler's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

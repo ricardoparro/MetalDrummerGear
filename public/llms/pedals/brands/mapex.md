@@ -1,6 +1,6 @@
 # Mapex Bass Drum Pedals for Metal
 
-> Mapex is a Taiwanese drum manufacturer launched in 1989 by KHS as a dedicated drum brand, and its Falcon double pedal — a strap-drive design built for a lighter, more responsive feel — is verified on the roster through Chris Adler's decade-plus Lamb of God run and Jason Bittner (Overkill, Shadows Fall).
+> Mapex is a Taiwanese drum manufacturer launched in 1989 by KHS as a dedicated drum brand, and its Falcon double pedal — a strap-drive design built for a lighter, more responsive feel — is verified on the roster through Jason Bittner (Overkill, Shadows Fall).
 
 ---
 
@@ -11,13 +11,12 @@
 
 ## Metal-Relevant Models
 
-- **Falcon:** Mapex's flagship strap-drive double pedal, verified on the roster through Chris Adler (Lamb of God) and Jason Bittner (Overkill, Shadows Fall).
+- **Falcon:** Mapex's flagship strap-drive double pedal, verified on the roster through Jason Bittner (Overkill, Shadows Fall).
 
-## Confirmed Metal Drummers (2)
+## Confirmed Metal Drummers (1)
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
-| [Chris Adler](https://metalforge.io/pedals/setups/chris-adler) | Lamb of God | Mapex Falcon | [Markdown](https://metalforge.io/llms/pedals/setups/chris-adler.md) |
 | [Jason Bittner](https://metalforge.io/pedals/setups/jason-bittner) | Shadows Fall / Overkill / Category 7 | Mapex Falcon | [Markdown](https://metalforge.io/llms/pedals/setups/jason-bittner.md) |
 
 Source: [Mapex — History](https://www.mapexdrums.com/history).
@@ -37,4 +36,4 @@ Source: [Mapex — History](https://www.mapexdrums.com/history).
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

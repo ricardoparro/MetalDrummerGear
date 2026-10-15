@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/ryan-van-poederooyen"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Ryan Van Poederooyen — Drum Kit & Gear Setup
@@ -36,14 +36,13 @@ Sabian's HHX and AAX lines shape the kit's cymbal voice: 14" HHX Evolution Hi-Ha
 
 Ryan Van Poederooyen is a Canadian drummer best known for his longtime collaboration with Devin Townsend in the Devin Townsend Band and Devin Townsend Project. A Montreal native, Van Poederooyen's powerful yet dynamic drumming style has been central to Townsend's music since the early 2000s. His ability to navigate Townsend's complex, genre-defying compositions—from ambient passages to crushing metal sections—showcases his versatility. Key albums include "Accelerated Evolution," "Synchestra," "Addicted," "Deconstruction," and "Transcendence." Van Poederooyen combines heavy metal power with prog-rock finesse, featuring creative tom patterns, tasteful cymbal work, and thunderous double bass. He has also worked as a session drummer and drum teacher in the Montreal area.
 
-Ryan Van Poederooyen is a Canadian drummer who has been the primary drummer for Devin Townsend and his various projects since 1999. His 25+ year collaboration with Townsend makes him one of the most consistent drummer-artist partnerships in progressive metal history.
+Ryan Van Poederooyen is a Canadian drummer who has been the primary drummer for Devin Townsend and his various projects since 2002, when Townsend recruited him on the recommendation of longtime collaborator Gene Hoglan. His 20+ year collaboration with Townsend makes him one of the most consistent drummer-artist partnerships in progressive metal history.
 
-Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolving musical vision, from the crushing heaviness of "Terria" and "Deconstruction" to the ambient soundscapes of "Ghost" and "Casualties of Cool." His ability to serve Townsend's diverse musical styles while maintaining powerful, precise drumming has made him an integral part of the Devin Townsend sound.
+Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolving musical vision, from the crushing heaviness of "Accelerated Evolution" and "Deconstruction" to the ambient soundscapes of "Ghost" and "Casualties of Cool." His ability to serve Townsend's diverse musical styles while maintaining powerful, precise drumming has made him an integral part of the Devin Townsend sound.
 
 ## Career Highlights
 
-- **1999** — Began collaboration with Devin Townsend
-- **2001** — Recorded "Terria" with Devin Townsend, acclaimed solo album
+- **2002** — Recruited by Devin Townsend on Gene Hoglan's recommendation
 - **2003** — Recorded "Accelerated Evolution" with Devin Townsend Band
 - **2007** — Recorded "Ziltoid the Omniscient," cult favorite concept album
 - **2009** — Joined Devin Townsend Project for new era
@@ -75,8 +74,7 @@ Ryan Van Poederooyen's drumming style is characterized by power, precision, and 
 
 **Albums:**
 
-- **Devin Townsend - Terria** (2001, HevyDevy) — Ambient metal masterpiece
-- **Devin Townsend Band - Accelerated Evolution** (2003, HevyDevy) — Band format debut
+- **Devin Townsend Band - Accelerated Evolution** (2003, HevyDevy) — Recording debut with Townsend
 - **Devin Townsend - Ziltoid the Omniscient** (2007, HevyDevy) — Cult classic concept album
 - **Devin Townsend Project - Ki** (2009, HevyDevy) — DTP launch
 - **Devin Townsend Project - Deconstruction** (2011, HevyDevy) — Extreme metal opus
@@ -87,7 +85,7 @@ Ryan Van Poederooyen's drumming style is characterized by power, precision, and 
 
 **Tours:**
 
-- **Devin Townsend World Tours** (1999-Present) — Extensive global touring
+- **Devin Townsend World Tours** (2002-Present) — Extensive global touring
 - **Retinal Circus** (2012) — London spectacular concert
 - **Empath Tour** (2019-2020) — Pre-pandemic touring
 
@@ -149,16 +147,16 @@ A: Ryan Van Poederooyen uses Evans drumheads across his Pearl Reference kit.
 
 **Q: What band is Ryan Van Poederooyen in?**
 
-A: Ryan Van Poederooyen has been Devin Townsend's primary drummer since 1999, including the Devin Townsend Project era from 2009 to 2018.
+A: Ryan Van Poederooyen has been Devin Townsend's primary drummer since 2002, including the Devin Townsend Project era from 2009 to 2018.
 
 **Q: How long has Ryan Van Poederooyen played with Devin Townsend?**
 
-A: Ryan Van Poederooyen has been Devin Townsend's primary drummer for more than 25 years, appearing on nearly every solo and band album since 1999 — including "Terria" (2001), "Deconstruction" (2011), and "Lightwork" (2022) — after taking over from Gene Hoglan, Townsend's previous drummer in Strapping Young Lad.
+A: Ryan Van Poederooyen has been Devin Townsend's primary drummer for more than two decades, appearing on nearly every solo and band album since joining in 2002 — including "Accelerated Evolution" (2003), "Deconstruction" (2011), and "Lightwork" (2022) — after being recommended to Townsend by Gene Hoglan, Townsend's previous drummer in Strapping Young Lad.
 
 ## Trivia
 
-- One of the longest-running collaborations in progressive metal (25+ years)
-- Has played on nearly every Devin Townsend solo and band album since 1999
+- One of the longest-running collaborations in progressive metal (20+ years)
+- Has played on nearly every Devin Townsend solo and band album since joining in 2002
 - Gene Hoglan (Strapping Young Lad) was Townsend's previous drummer, setting a high bar
 - "Deconstruction" is considered one of the most demanding drum performances in prog metal
 - Known for his professionalism and consistency
@@ -245,4 +243,4 @@ Dated brand-endorsement timeline: [Ryan Van Poederooyen's endorsement history](h
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

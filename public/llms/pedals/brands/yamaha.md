@@ -32,4 +32,4 @@ Source: [Yamaha Drums — Wikipedia](https://en.wikipedia.org/wiki/Yamaha_Drums)
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

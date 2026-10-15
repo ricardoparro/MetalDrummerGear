@@ -127,4 +127,4 @@ A: On Senjutsu, Nicko McBrain used Paiste Signature series cymbals: 15" Sound Ed
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

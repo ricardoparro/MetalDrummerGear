@@ -1,14 +1,14 @@
 # Top 10 Metal Drummers Playing Tama Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits)
 
 ---
 
 ## Overview
 
-MetalForge's gear-angle lists have already ranked cymbal brands and signature snares — this one turns to the drum kit itself, starting with Tama, the manufacturer with the deepest documented roster across MetalForge's gear guides, price-history features, and biographies. Lars Ulrich anchors the list: a Tama endorser since the mid-1980s, his Tama Starclassic Maple kit and signature Tama LU1465 snare have defined Metallica's cymbal-cutting attack for over three decades. Dave Lombardo has run Tama Starclassic shells for most of his post-Slayer career, currently a Starclassic Walnut/Birch kit paired with a Tama S.L.P. G-Maple snare, while Mike Portnoy has run Tama kits continuously since Dream Theater's earliest years in 1985 — one of the longest-running Tama endorsements in metal — starting on a Tama Artstar II and carrying the same Tama Starclassic Maple/Birch setup through his 2023 return to the band after thirteen years away. Charlie Benante and Mario Duplantier both run Tama Starclassic kits, Benante paired with a Tama Speed Cobra double pedal, Eloy Casagrande brings Tama's Starclassic Bubinga into Slipknot's drum chair, and Gene Hoglan's formative decade on a Tama Superstar Classic kit with Dark Angel and Death predates the long Pearl chapter that made him "The Atomic Clock." Hannes Grossmann's Tama Starclassic Maple kit covered his own formative decade, including Obscura's 2009 breakthrough "Cosmogenesis," before he moved to DW for his current work, while Jay Weinberg and Vinnie Paul round out the list with fully documented but time-bounded Tama chapters — Weinberg's decade on a Tama STAR Classic Maple kit during his 2014-2023 Slipknot tenure before a move to SJC Custom Drums, and Vinnie Paul's brief but real Tama stint during Pantera's breakthrough "Cowboys from Hell" era before he moved on to Remo, Pearl, and finally ddrum. Ranked by how extensively and currently each drummer's Tama relationship is documented in MetalForge's own gear data.
+MetalForge's gear-angle lists have already ranked cymbal brands and signature snares — this one turns to the drum kit itself, starting with Tama, the manufacturer with the deepest documented roster across MetalForge's gear guides, price-history features, and biographies. Lars Ulrich anchors the list: a Tama endorser since the mid-1980s, his Tama Starclassic Maple kit and signature Tama LU1465 snare have defined Metallica's cymbal-cutting attack for over three decades. Dave Lombardo has run Tama Starclassic shells for most of his post-Slayer career, currently a Starclassic Walnut/Birch kit paired with a Tama S.L.P. G-Maple snare, while Mike Portnoy has run Tama kits continuously since Dream Theater's earliest years in 1985 — one of the longest-running Tama endorsements in metal — starting on a Tama Artstar II and carrying the same Tama Starclassic Maple/Birch setup through his 2023 return to the band after thirteen years away. Charlie Benante and Mario Duplantier both run Tama Starclassic kits, Benante paired with a Tama Speed Cobra double pedal, Eloy Casagrande brings Tama's Starclassic Bubinga into Slipknot's drum chair, and Gene Hoglan's formative decade on a Tama Superstar Classic kit with Dark Angel and Death predates the long Pearl chapter that made him "The Atomic Clock." Hannes Grossmann's Tama Starclassic Maple kit covered his own formative decade, including Obscura's 2009 breakthrough "Cosmogenesis," before he moved to DW for his current work, while Vinnie Paul rounds out the list with a fully documented but time-bounded Tama chapter — a brief but real Tama stint during Pantera's breakthrough "Cowboys from Hell" era before he moved on to Remo, Pearl, and finally ddrum. Ranked by how extensively and currently each drummer's Tama relationship is documented in MetalForge's own gear data.
 
-The metal drummers with verified Tama drum kit setups, ranked. Lars Ulrich's Starclassic Maple, Dave Lombardo, Mike Portnoy, Charlie Benante, Mario Duplantier, Eloy Casagrande, Gene Hoglan, Hannes Grossmann, Jay Weinberg, and Vinnie Paul — sourced from MetalForge's own gear guides, not guesswork.
+The metal drummers with verified Tama drum kit setups, ranked. Lars Ulrich's Starclassic Maple, Dave Lombardo, Mike Portnoy, Charlie Benante, Mario Duplantier, Eloy Casagrande, Gene Hoglan, Hannes Grossmann, and Vinnie Paul — sourced from MetalForge's own gear guides, not guesswork.
 
 ---
 
@@ -96,23 +96,13 @@ Hannes Grossmann (Obscura / Necrophagist) earns rank #8 for: tama starclassic ma
 
 Full drummer profile: [Hannes Grossmann on MetalForge](https://metalforge.io/drummer/hannes-grossmann)
 
-### 9. Jay Weinberg
-
-**Band:** Slipknot / Suicidal Tendencies
-**Highlight:** Tama STAR Classic Maple — a decade in Slipknot's drum chair
-**Why ranked here:** Jay Weinberg played a Tama STAR Classic Maple kit (22"x18" bass, 10"x8", 12"x9", 14"x12" toms) as an official Tama endorsee throughout his 2014-2023 tenure in Slipknot, before moving on to SJC Custom Drums after his departure from the band. Weinberg earns rank #9 for a fully documented, decade-long Tama chapter in one of metal's most visible drum chairs.
-
-Jay Weinberg (Slipknot / Suicidal Tendencies) earns rank #9 for: tama star classic maple — a decade in slipknot's drum chair. Jay Weinberg played a Tama STAR Classic Maple kit (22"x18" bass, 10"x8", 12"x9", 14"x12" toms) as an official Tama endorsee throughout his 2014-2023 tenure in Slipknot, before moving on to SJC Custom Drums after his departure from the band. Weinberg earns rank #9 for a fully documented, decade-long Tama chapter in one of metal's most visible drum chairs..
-
-Full drummer profile: [Jay Weinberg on MetalForge](https://metalforge.io/drummer/jay-weinberg)
-
-### 10. Vinnie Paul
+### 9. Vinnie Paul
 
 **Band:** Pantera / Damageplan / Hellyeah
 **Highlight:** A brief but real Tama chapter during Pantera's breakthrough
-**Why ranked here:** Vinnie Paul played Tama drums during Pantera's 1990-1992 "Cowboys from Hell" era, an early chapter in an equipment evolution that later moved through Remo and Pearl before he settled on ddrum for the rest of his career, including his own ddrum Vinnie Paul Signature Series. Paul earns rank #10 for a well-documented, time-bounded Tama stint at the start of groove metal's most influential band.
+**Why ranked here:** Vinnie Paul played Tama drums during Pantera's 1990-1992 "Cowboys from Hell" era, an early chapter in an equipment evolution that later moved through Remo and Pearl before he settled on ddrum for the rest of his career, including his own ddrum Vinnie Paul Signature Series. Paul earns rank #9 for a well-documented, time-bounded Tama stint at the start of groove metal's most influential band.
 
-Vinnie Paul (Pantera / Damageplan / Hellyeah) earns rank #10 for: a brief but real tama chapter during pantera's breakthrough. Vinnie Paul played Tama drums during Pantera's 1990-1992 "Cowboys from Hell" era, an early chapter in an equipment evolution that later moved through Remo and Pearl before he settled on ddrum for the rest of his career, including his own ddrum Vinnie Paul Signature Series. Paul earns rank #10 for a well-documented, time-bounded Tama stint at the start of groove metal's most influential band..
+Vinnie Paul (Pantera / Damageplan / Hellyeah) earns rank #9 for: a brief but real tama chapter during pantera's breakthrough. Vinnie Paul played Tama drums during Pantera's 1990-1992 "Cowboys from Hell" era, an early chapter in an equipment evolution that later moved through Remo and Pearl before he settled on ddrum for the rest of his career, including his own ddrum Vinnie Paul Signature Series. Paul earns rank #9 for a well-documented, time-bounded Tama stint at the start of groove metal's most influential band..
 
 Full drummer profile: [Vinnie Paul on MetalForge](https://metalforge.io/drummer/vinnie-paul)
 
@@ -121,7 +111,7 @@ Full drummer profile: [Vinnie Paul on MetalForge](https://metalforge.io/drummer/
 ## Frequently Asked Questions
 
 **Q: Which metal drummers play Tama drum kits?**
-A: Lars Ulrich (Metallica) has run Tama Starclassic kits since the mid-1980s, Dave Lombardo (Slayer) plays a Tama Starclassic Walnut/Birch kit, and Mike Portnoy (Dream Theater) has run Tama continuously since 1985, one of the longest-running Tama endorsements in metal. Charlie Benante (Anthrax), Mario Duplantier (Gojira), Eloy Casagrande (Slipknot), Gene Hoglan (a formative Tama chapter with Dark Angel and Death before Pearl), Hannes Grossmann (a Tama chapter through Obscura before his current DW kit), Jay Weinberg (former Slipknot), and Vinnie Paul (Pantera) round out MetalForge's most extensively documented Tama artists.
+A: Lars Ulrich (Metallica) has run Tama Starclassic kits since the mid-1980s, Dave Lombardo (Slayer) plays a Tama Starclassic Walnut/Birch kit, and Mike Portnoy (Dream Theater) has run Tama continuously since 1985, one of the longest-running Tama endorsements in metal. Charlie Benante (Anthrax), Mario Duplantier (Gojira), Eloy Casagrande (Slipknot), Gene Hoglan (a formative Tama chapter with Dark Angel and Death before Pearl), Hannes Grossmann (a Tama chapter through Obscura before his current DW kit), and Vinnie Paul (Pantera) round out MetalForge's most extensively documented Tama artists.
 
 **Q: What is the Tama Starclassic Series?**
 A: Starclassic is Tama's flagship professional drum line, produced in finishes like Maple, Bubinga, and Walnut/Birch that change the kit's tonal character. Lars Ulrich and Charlie Benante run Maple shells for a balanced, articulate attack, while Mario Duplantier and Eloy Casagrande run Bubinga for a darker, more focused low end suited to Gojira's and Slipknot's down-tuned material.
@@ -147,4 +137,4 @@ A: Hannes Grossmann is the clearest example: he built a Tama Starclassic Maple k
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

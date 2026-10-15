@@ -26,7 +26,7 @@ Jon Dette vs Dave Lombardo: the touring fill-in vs the founding architect of Sla
 
 ## Playing Style
 
-Dave Lombardo co-founded Slayer in 1981 alongside Kerry King, Jeff Hanneman, and Tom Araya, and his drumming across "Show No Mercy" (1983), "Hell Awaits" (1985), and especially "Reign in Blood" (1986) effectively invented the extreme-metal double-bass vocabulary that every subsequent thrash and death metal drummer studied. Jon Dette stepped into that same drum chair a decade later, joining Slayer as touring drummer in 1996-97 while Paul Bostaph recovered from injury — tasked not with writing new parts but with faithfully reproducing Lombardo's iconic, already-canonized performances night after night on the road. Dette went on to a much longer tenure in Testament (1997-2012), most notably recording "The Gathering" (1999).
+Dave Lombardo co-founded Slayer in 1981 alongside Kerry King, Jeff Hanneman, and Tom Araya, and his drumming across "Show No Mercy" (1983), "Hell Awaits" (1985), and especially "Reign in Blood" (1986) effectively invented the extreme-metal double-bass vocabulary that every subsequent thrash and death metal drummer studied. Jon Dette stepped into that same drum chair a decade later, joining Slayer as touring drummer in 1996-97 while Paul Bostaph recovered from injury — tasked not with writing new parts but with faithfully reproducing Lombardo's iconic, already-canonized performances night after night on the road. Dette went on to two touring-only stints in Testament (1994-1995, 1997-1998), holding down the live drum chair but never recording a studio album — "The Gathering" (1999) was recorded by Dave Lombardo.
 
 ## Technique
 
@@ -38,7 +38,7 @@ Dave Lombardo has been a longtime Tama endorser, playing a Tama Starclassic Waln
 
 ## Influence & Legacy
 
-Lombardo is routinely named among the greatest and most influential drummers in heavy metal history; "Reign in Blood" alone reshaped what extreme metal drumming could be, and his Latin-tinged approach continues to distinguish him from the drummers who followed his blueprint. Dette's influence is more modest but genuine — he proved that a reliable touring specialist could preserve a legendary drummer's legacy convincingly enough to keep Slayer's live shows credible during a transition period, a reputation that turned into a real 15-year career at Testament and cameo work with Anthrax.
+Lombardo is routinely named among the greatest and most influential drummers in heavy metal history; "Reign in Blood" alone reshaped what extreme metal drumming could be, and his Latin-tinged approach continues to distinguish him from the drummers who followed his blueprint. Dette's influence is more modest but genuine — he proved that a reliable touring specialist could preserve a legendary drummer's legacy convincingly enough to keep Slayer's live shows credible during a transition period, a reputation that carried into two touring stints with Testament and cameo work with Anthrax.
 
 ## Verdict
 
@@ -56,7 +56,7 @@ A: Dave Lombardo co-founded Slayer in 1981 and is best known for his drumming on
 A: Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with Paiste RUDE and 2002 cymbals, a Tama Iron Cobra 900 double pedal, and signature Promark 2Bx sticks. Jon Dette has played Ludwig Classic Maple drums since 1996 with Sabian or Zildjian cymbals and DW 9000 or Tama Iron Cobra double pedals.
 
 **Q: What did Jon Dette do after leaving Slayer?**
-A: After his 1996-97 Slayer touring stint, Jon Dette joined Testament in 1997, remaining with the band through 1999 and again from 2001-2012, recording "The Gathering" (1999). He also filled in for Charlie Benante on Anthrax tour dates in 2010.
+A: After his 1996-97 Slayer touring stint, Jon Dette returned to Testament for a second touring-only stint (1997-1998) — he had previously toured with Testament in 1994-1995, before Slayer, after John Tempesta's departure. He never recorded a Testament studio album. He also filled in for Charlie Benante on Anthrax tour dates in 2010.
 
 ---
 
@@ -67,4 +67,4 @@ A: After his 1996-97 Slayer touring stint, Jon Dette joined Testament in 1997, r
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

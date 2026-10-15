@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/morgan-agren"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Morgan Ågren — Drum Kit & Gear Setup
@@ -114,11 +114,11 @@ Morgan Ågren's drumming style blends jazz fusion complexity with rock intensity
 
 **Q: What drum kit does Morgan Ågren use?**
 
-A: Morgan Ågren plays a Sonor SQ2 Designer Series drum kit — a custom-configured setup reflecting the exacting standards behind his decades of polyrhythmic playing across the Mats/Morgan Band, Kaipa, and Devin Townsend Project. It's built around a Sonor Designer 14"x5.5" Maple snare.
+A: Morgan Ågren plays a Sonor SQ2 Beech drum kit — his setup since 2012, reflecting the exacting standards behind his polyrhythmic playing with Devin Townsend Project, Kaipa, and the Mats/Morgan Band.
 
 **Q: What drum set does Morgan Ågren use?**
 
-A: Morgan Ågren's drum set pairs his Sonor SQ2 shells and maple snare with a Sonor Giant Step double pedal, the configuration he has used since co-founding the Mats/Morgan Band with Mats Öberg in 1981.
+A: Morgan Ågren's drum set pairs his Sonor SQ2 Beech shells and snare with a Sonor Giant Step double pedal, the configuration he has used since 2012.
 
 **Q: What cymbals does Morgan Ågren play?**
 
@@ -126,7 +126,7 @@ A: Morgan Ågren plays Paiste Signature and 2002 Series cymbals: 14" Signature H
 
 **Q: What snare does Morgan Ågren use?**
 
-A: Morgan Ågren's snare is a Sonor Designer 14"x5.5" Maple, delivering a warm, articulate crack suited to both his jazz-fusion sensibility and his work with Devin Townsend Project.
+A: Morgan Ågren's snare is part of his Sonor SQ2 Beech kit, delivering a warm, articulate crack suited to both his jazz-fusion sensibility and his work with Devin Townsend Project.
 
 **Q: What sticks does Morgan Ågren use?**
 
@@ -224,4 +224,4 @@ Dated brand-endorsement timeline: [Morgan Ågren's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

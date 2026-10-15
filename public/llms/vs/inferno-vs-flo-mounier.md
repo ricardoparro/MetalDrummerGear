@@ -10,7 +10,7 @@ Inferno (Behemoth) vs Flo Mounier (Cryptopsy) — the two most technically deman
 
 ## Inferno Setup
 
-- **Drums:** Pearl Masterworks
+- **Drums:** Pearl Reference Series
 - **Cymbals:** Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China)
 - **Snare:** Pearl Reference 14x5" Steel
 - **Pedals/Hardware:** Czarcie Kopyto (Devil's Hoof) Double Pedal, Pearl D-2000 Throne
@@ -64,4 +64,4 @@ A: Flo Mounier has more jazz and groove crossover; Inferno excels in controlled 
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

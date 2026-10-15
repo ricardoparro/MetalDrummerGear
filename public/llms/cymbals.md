@@ -2,7 +2,7 @@
 
 This page indexes every verified cymbal setup catalogued in MetalForge's cymbals database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-10-07 · Source: https://metalforge.io
+> Last Updated: 2026-10-15 · Source: https://metalforge.io
 
 For types, alloys, and sizing/weight reference pages see the Reference Guides section below. For brand positioning and metal-relevant series see [https://metalforge.io/cymbals/brands](https://metalforge.io/cymbals/brands). For a buying guide by budget tier see [https://metalforge.io/cymbals/best-for-metal](https://metalforge.io/cymbals/best-for-metal).
 
@@ -74,7 +74,7 @@ A: The best setup depends on the sub-genre and how hard you hit, but a durable, 
 - Art Cruz — [Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell)](https://metalforge.io/llms/cymbals/setups/art-cruz.md) ([profile](https://metalforge.io/drummer/art-cruz))
 - Navene Koperweis — [Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash)](https://metalforge.io/llms/cymbals/setups/navene-koperweis.md) ([profile](https://metalforge.io/drummer/navene-koperweis))
 - Alex Bent — [Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China)](https://metalforge.io/llms/cymbals/setups/alex-bent.md) ([profile](https://metalforge.io/drummer/alex-bent))
-- Shannon Larkin — [Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)](https://metalforge.io/llms/cymbals/setups/shannon-larkin.md) ([profile](https://metalforge.io/drummer/shannon-larkin))
+- Shannon Larkin — [Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)](https://metalforge.io/llms/cymbals/setups/shannon-larkin.md) ([profile](https://metalforge.io/drummer/shannon-larkin))
 - Raymond Herrera — [Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China)](https://metalforge.io/llms/cymbals/setups/raymond-herrera.md) ([profile](https://metalforge.io/drummer/raymond-herrera))
 - morgan-agren — [Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China)](https://metalforge.io/llms/cymbals/setups/morgan-agren.md) ([profile](https://metalforge.io/drummer/morgan-agren))
 - Igor Cavalera — [Zildjian A Custom Series, adopted for the Cavalera Conspiracy era starting with "Inflikted"](https://metalforge.io/llms/cymbals/setups/igor-cavalera.md) ([profile](https://metalforge.io/drummer/igor-cavalera))
@@ -96,7 +96,7 @@ A: The best setup depends on the sub-genre and how hard you hit, but a durable, 
 - Frost — [Zildjian A Series (14" A New Beat Hi-Hats, 16", 17", 18" A Series Crashes, 22" A Series Ride, 18" A Series China)](https://metalforge.io/llms/cymbals/setups/frost.md) ([profile](https://metalforge.io/drummer/frost))
 - Gavin Harrison — [Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China)](https://metalforge.io/llms/cymbals/setups/gavin-harrison.md) ([profile](https://metalforge.io/drummer/gavin-harrison))
 - Abe Cunningham — [Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)](https://metalforge.io/llms/cymbals/setups/abe-cunningham.md) ([profile](https://metalforge.io/drummer/abe-cunningham))
-- Richard Christy — [Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)](https://metalforge.io/llms/cymbals/setups/richard-christy.md) ([profile](https://metalforge.io/drummer/richard-christy))
+- Richard Christy — [Sabian AA/AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 18" AAX Chinese)](https://metalforge.io/llms/cymbals/setups/richard-christy.md) ([profile](https://metalforge.io/drummer/richard-christy))
 - Aquiles Priester — [Paiste Custom red-coated set (18" Psychoctopus Giga Bell Ride)](https://metalforge.io/llms/cymbals/setups/aquiles-priester.md) ([profile](https://metalforge.io/drummer/aquiles-priester))
 - Paul Mazurkiewicz — [Meinl Classics Custom & Byzance Series (14" Classics Custom Dark Hi-Hats, 18" & 19" Classics Custom Dark Crashes, 21" Byzance Dark Ride, 18" Byzance Dark China)](https://metalforge.io/llms/cymbals/setups/paul-mazurkiewicz.md) ([profile](https://metalforge.io/drummer/paul-mazurkiewicz))
 - Mike Mangini — [Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)](https://metalforge.io/llms/cymbals/setups/mike-mangini.md) ([profile](https://metalforge.io/drummer/mike-mangini))

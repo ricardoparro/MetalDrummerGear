@@ -13,7 +13,7 @@ Jon Dette played Ludwig drums during his 1996–1997 Slayer tenure, delivering a
 
 Dette's Slayer period came when Paul Bostaph was temporarily unavailable in 1996. Tasked with learning Slayer's entire live set on short notice — a catalogue that includes some of the fastest and most complex thrash metal ever committed to record — Dette delivered night after night with the precision the fanbase demanded. His Ludwig kit during this period offered a sound character that differed from the Tama setups associated with Lombardo: warmer shell resonance, a different attack profile, and the vintage Ludwig reliability that has anchored countless professional drumming careers.
 
-Beyond Slayer, Dette's longest relationship was with Testament — spanning two touring stints from 1997 to 2012, a run captured on the live album Live at the Fillmore (2005). Dette was Testament's touring drummer rather than a studio member: the band's studio albums released during those years — The Gathering (1999), widely considered among the band's finest hours, The Formation of Damnation (2008), and Dark Roots of Earth (2012) — were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively, while Dette held down the touring drum chair.
+Beyond Slayer, Dette's longest relationship outside Slayer was with Testament — two touring-only stints, 1994-1995 (after John Tempesta's departure) and 1997-1998 (covering Demonic-era live dates after Gene Hoglan's first stint ended). Dette was never a studio member: The Gathering (1999), widely considered among the band's finest hours, was recorded by Dave Lombardo after Dette's second stint had already ended, while The Formation of Damnation (2008) and Dark Roots of Earth (2012) were recorded by Paul Bostaph and Gene Hoglan respectively, years after Dette had left the band.
 
 ## Gear Breakdown
 
@@ -26,7 +26,7 @@ Beyond Slayer, Dette's longest relationship was with Testament — spanning two 
 
 ### Ludwig Classic Maple: The Slayer-Era Kit
 
-Jon Dette's Ludwig Classic Maple setup during his Slayer tenure represents a gear choice that distinguished him from every other Slayer drummer. Dave Lombardo used Tama kits throughout his founding-era Slayer work; Paul Bostaph moved through several setups before settling on DW for the Final World Tour era. Dette brought Ludwig's American maple tradition to Slayer's stage — a different sonic character applied to the same devastating catalogue.
+Jon Dette's Ludwig Classic Maple setup during his Slayer tenure represents a gear choice that distinguished him from every other Slayer drummer. Dave Lombardo used Tama kits throughout his founding-era Slayer work; Paul Bostaph moved through several setups before settling on Pearl for the Final World Tour era. Dette brought Ludwig's American maple tradition to Slayer's stage — a different sonic character applied to the same devastating catalogue.
 
 Ludwig Classic Maple shells are built around a six-ply maple construction that delivers the brand's characteristic combination of focused attack, open resonance, and the warm midrange presence that has made Ludwig a professional standard since the 1960s. For thrash metal, the maple construction provides the crack on snare hits and the defined attack on kick drum strokes that the genre's fast tempos require — at 180–200 BPM, each individual stroke must articulate cleanly rather than bleeding into the surrounding sonic mass.
 
@@ -63,25 +63,25 @@ His gear through this career reflects a professional's pragmatism:
 - **DW 9000 or Tama Iron Cobra double pedals**: Reliable, consistent mechanisms for the sustained double-kick passages that define Slayer's and Testament's most intense material
 - **5B sticks (Promark/Vater)**: Weight and durability for thrash metal's high-impact playing demands
 
-Live at the Fillmore (2005) remains the definitive document of Dette's time with Testament — a live capture of the touring drummer role he held across two stints while the band's studio records, The Gathering, The Formation of Damnation, and Dark Roots of Earth, were made by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively.
+Dette's two Testament touring stints (1994-1995, 1997-1998) came before and between the band's own studio records — The Gathering, The Formation of Damnation, and Dark Roots of Earth — which were made by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively, all after Dette had left the touring lineup.
 
 For the complete Slayer drummer cluster — three different perspectives on the same foundational thrash catalogue:
 - **Dave Lombardo**: [Full profile and Tama setup](/drummers/dave-lombardo) — the founding Slayer drummer who defined the recorded classics
-- **Paul Bostaph**: [Full profile and DW setup](/drummers/paul-bostaph) — the longest-serving Slayer drummer across four studio albums and the Final World Tour
+- **Paul Bostaph**: [Full profile and Pearl setup](/drummers/paul-bostaph) — the longest-serving Slayer drummer across four studio albums and the Final World Tour
 - **Jon Dette**: This article — the touring specialist who applied Ludwig precision to Slayer's most demanding live setlists
 
 ## Key Facts
 
 - Slayer touring drummer 1996–1997 — filled in for Paul Bostaph on short notice with full-set precision
-- Ludwig Classic Maple kit during Slayer era — contrasting with Lombardo's Tama and Bostaph's DW setups
-- Testament touring drummer across two periods (1997–1999, 2001–2012) — captured on the live album Live at the Fillmore, not a studio member on The Gathering, The Formation of Damnation, or Dark Roots of Earth
+- Ludwig Classic Maple kit during Slayer era — contrasting with Lombardo's Tama and Bostaph's Pearl setups
+- Testament touring drummer across two periods (1994–1995, 1997–1998) — not a studio member on The Gathering, The Formation of Damnation, or Dark Roots of Earth
 - Fill-in for Charlie Benante of Anthrax in 2010 — one of few drummers to have played with three major thrash acts
 - Known for rapid adaptation to complex setlists and metronomic consistency across long touring cycles
 - DW 9000 or Tama Iron Cobra double bass pedals for sustained thrash metal double-kick
 - Ludwig Classic Maple — six-ply maple construction for focused attack and open resonance
 - Double 22" bass drums for Slayer's double-kick intensive catalogue
 - Different character from Lombardo's Tama setup — warmer shell resonance, distinct attack profile
-- Setup adapted across Slayer (1996–1997) and Testament (1997–1999, 2001–2012) periods
+- Setup adapted across Slayer (1996–1997) and Testament (1994–1995, 1997–1998) periods
 - Estimated kit value: $2,500–4,500 (Ludwig Classic Maple shell pack)
 - Estimated snare value: $300–600
 
@@ -89,7 +89,7 @@ For the complete Slayer drummer cluster — three different perspectives on the 
 
 **Q: What drums did Jon Dette use with Slayer?**
 
-A: Jon Dette used Ludwig Classic Maple drums during his 1996–1997 Slayer touring period. This setup distinguished him from both Dave Lombardo (who used Tama throughout his Slayer tenure) and Paul Bostaph (who later played DW for the Final World Tour era). The Ludwig Classic Maple's six-ply maple construction delivers a warm, open resonance with a focused attack — a different sonic character than Tama's tighter construction, but equally capable of handling Slayer's demanding catalogue at live touring volumes. His double bass configuration used two 22" kick drums for the sub-bass frequency mass that Slayer's double-kick intensive material requires.
+A: Jon Dette used Ludwig Classic Maple drums during his 1996–1997 Slayer touring period. This setup distinguished him from both Dave Lombardo (who used Tama throughout his Slayer tenure) and Paul Bostaph (who later played Pearl for the Final World Tour era). The Ludwig Classic Maple's six-ply maple construction delivers a warm, open resonance with a focused attack — a different sonic character than Tama's tighter construction, but equally capable of handling Slayer's demanding catalogue at live touring volumes. His double bass configuration used two 22" kick drums for the sub-bass frequency mass that Slayer's double-kick intensive material requires.
 
 **Q: What is Jon Dette's drum kit setup?**
 
@@ -97,11 +97,11 @@ A: Jon Dette's core setup centers on Ludwig Classic Maple drums (from his Slayer
 
 **Q: How does Jon Dette's style compare to Dave Lombardo's?**
 
-A: Jon Dette and Dave Lombardo represent different approaches to Slayer's material. Lombardo — who defined Slayer's drum sound on the foundational albums Reign in Blood, South of Heaven, and Seasons in the Abyss — brings a primal, slightly looser feel that is inseparable from the original recordings. His Tama setup and aggressive, slightly ahead-of-the-beat approach creates the specific energy those albums are known for. Dette's approach is more metronomic and precision-focused — closer in philosophy to Paul Bostaph's technically consistent style. Where Lombardo plays with controlled aggression and slight rhythmic freedom, Dette prioritizes accuracy and reliability. For the full Lombardo comparison, see [Dave Lombardo's drum setup](/drummers/dave-lombardo). For Paul Bostaph's DW-based setup, see [Paul Bostaph's drum setup](/drummers/paul-bostaph).
+A: Jon Dette and Dave Lombardo represent different approaches to Slayer's material. Lombardo — who defined Slayer's drum sound on the foundational albums Reign in Blood, South of Heaven, and Seasons in the Abyss — brings a primal, slightly looser feel that is inseparable from the original recordings. His Tama setup and aggressive, slightly ahead-of-the-beat approach creates the specific energy those albums are known for. Dette's approach is more metronomic and precision-focused — closer in philosophy to Paul Bostaph's technically consistent style. Where Lombardo plays with controlled aggression and slight rhythmic freedom, Dette prioritizes accuracy and reliability. For the full Lombardo comparison, see [Dave Lombardo's drum setup](/drummers/dave-lombardo). For Paul Bostaph's Pearl-based setup, see [Paul Bostaph's drum setup](/drummers/paul-bostaph).
 
 **Q: What Testament albums did Jon Dette record?**
 
-A: None. Jon Dette was Testament's touring drummer only, across two stints (1997–1999 and 2001–2012), a tenure documented on the live album Live at the Fillmore (2005). The band's studio albums released during those years were recorded by other drummers: The Gathering (1999) by Dave Lombardo, The Formation of Damnation (2008) by Paul Bostaph, and Dark Roots of Earth (2012) by Gene Hoglan. Dette toured extensively behind all three records without playing on them.
+A: None. Jon Dette was Testament's touring drummer only, across two stints (1994–1995 and 1997–1998). The band's studio albums released in that era and afterward were recorded by other drummers: The Gathering (1999) by Dave Lombardo, The Formation of Damnation (2008) by Paul Bostaph, and Dark Roots of Earth (2012) by Gene Hoglan.
 
 **Q: Did Jon Dette play with Anthrax?**
 
@@ -122,4 +122,4 @@ A: Yes. In 2010, Jon Dette filled in for Charlie Benante on Anthrax tour dates. 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

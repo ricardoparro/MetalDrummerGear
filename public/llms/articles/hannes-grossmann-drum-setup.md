@@ -11,7 +11,7 @@
 
 Hannes Grossmann is the drummer for Obscura and Alkaloid, co-founder of both bands, and one of the most technically precise drummers in extreme metal — his DW Collectors Series kit, Meinl Byzance cymbals, and DW 9000 double pedal are the mechanical foundation of two of progressive death metal's defining acts.
 
-Born September 8, 1982, in Freising, Germany, Grossmann represents a rare intersection of classical percussion training, jazz sensibility, and extreme metal execution. Where most technical death metal drummers prioritize speed as the primary metric, Grossmann builds arrangements — compositions where the drum part has melodic and harmonic function within the overall architecture of the music, not merely rhythmic support beneath it.
+Born September 8, 1982, in Bayreuth, Germany, Grossmann represents a rare intersection of classical percussion training, jazz sensibility, and extreme metal execution. Where most technical death metal drummers prioritize speed as the primary metric, Grossmann builds arrangements — compositions where the drum part has melodic and harmonic function within the overall architecture of the music, not merely rhythmic support beneath it.
 
 His path through extreme metal is unusually distinguished. After honing his classical and jazz technique through formal studies, he joined Necrophagist in 2001, recording the landmark album *Epitaph* (2004) — a record that remains among the most influential technical death metal releases ever made. In 2007 he co-founded Obscura with guitarist Steffen Kummerer, recording *Cosmogenesis* (2009) and *Omnivium* (2011): two albums that defined progressive technical death metal as a genre with ears beyond pure extremity. In 2014 he co-founded Alkaloid, a supergroup-calibre project exploring the outermost territory of avant-garde progressive death — and one of the most intellectually ambitious metal acts currently active.
 
@@ -126,4 +126,4 @@ A: Hannes Grossmann plays Meinl Byzance cymbals. His setup includes Meinl Byzanc
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

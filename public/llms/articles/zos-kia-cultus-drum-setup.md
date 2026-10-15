@@ -70,7 +70,7 @@ For the full picture of Inferno's gear evolution across Behemoth's catalog, see 
 - Hertz Studios recording — changed the kit's perceived attack and sonic character vs. earlier albums
 - Symphonic-death transition: black metal blast beats recontextualized within orchestrated arrangements
 - 'Horns ov Baphomet', 'As Above So Below', 'Here and Beyond' — primary blast beat showcases
-- Maple/birch hybrid Reference Pure construction — warmth and definition in the Hertz Studios environment
+- Maple/birch hybrid Reference Series construction — warmth and definition in the Hertz Studios environment
 - Double 22" kick drums — independent mechanical control at sustained double-bass tempos
 - Transitional configuration: expanded from Thelema.6 but leaner than later Evangelion setup
 - Hertz Studios production shaped kit attack differently vs. earlier raw Behemoth recordings
@@ -116,4 +116,4 @@ A: Zos Kia Cultus (2002) is significant in Inferno's gear history primarily beca
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

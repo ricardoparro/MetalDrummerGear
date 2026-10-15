@@ -20721,7 +20721,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Slayer / Testament',
     totalYearsActive: '1996-Present',
     profileImage: '/images/drummers/jon-dette.webp',
-    summary: 'Jon Dette is thrash metal\'s most-traveled touring drummer — the Milwaukee-born specialist who filled Paul Bostaph\'s chair in Slayer during 1996-1997, then built his longest relationship with Testament as touring drummer across two stints between 1997 and 2012 (captured on the live album Live at the Fillmore), before adding fill-in stints with Anthrax, a brief second Slayer return, and a 2013-2015 touring run with Iced Earth. His gear evolution runs from the Ludwig Classic Maple kit that gave Slayer\'s Ludwig-era live shows a warmer, more open character than Dave Lombardo\'s Tama, through a decade-plus of professional maple touring kits with Testament, into the same Ludwig Classic Maple kit — his only documented drum brand, continuous since 1996 — that he has carried through Iced Earth and into his ongoing session and touring career today.',
+    summary: 'Jon Dette is thrash metal\'s most-traveled touring drummer — the Milwaukee-born specialist who filled Paul Bostaph\'s chair in Slayer during 1996-1997, then built his longest relationship outside Slayer with Testament as touring drummer across two stints, 1994-1995 and 1997-1998, before adding fill-in stints with Anthrax, a brief second Slayer return, and a 2013-2015 touring run with Iced Earth. His gear evolution runs from the Ludwig Classic Maple kit that gave Slayer\'s Ludwig-era live shows a warmer, more open character than Dave Lombardo\'s Tama, through the same maple touring kit across both Testament stints, into the same Ludwig Classic Maple kit — his only documented drum brand, continuous since 1996 — that he has carried through Iced Earth and into his ongoing session and touring career today.',
 
     eras: [
       {
@@ -20796,14 +20796,14 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'jon-dette-1997-testament',
+        id: 'jon-dette-1994-testament',
         era: 'Testament: Touring Drummer Across Two Stints',
-        years: '1997-2012',
-        startYear: 1997,
-        endYear: 2012,
-        description: 'Dette\'s longest and most productive relationship came with Testament, spanning two touring stints (1997-1999, 2001-2012) and captured on the live album Live at the Fillmore (2005). He was Testament\'s touring drummer rather than a studio member — the band\'s studio albums released during those years, The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively. He carried the same Ludwig Classic Maple kit from his Slayer days into Testament, a setup that held up well across the band\'s blend of classic thrash and Alex Skolnick\'s more progressive guitar work. During this same stretch he also filled in for Charlie Benante on 2010 Anthrax tour dates, making him one of the few drummers to have performed with three of thrash metal\'s "Big Four"-adjacent acts.',
-        albums: ['Testament - Live at the Fillmore (2005) — touring drummer; no studio album recorded during either stint'],
-        tours: ['The Gathering Tour 1999', 'Formation of Damnation World Tour 2008-2009', 'Dark Roots of Earth World Tour 2012-2013', 'Anthrax Tour Dates 2010 (fill-in for Charlie Benante)'],
+        years: '1994-1995, 1997-1998',
+        startYear: 1994,
+        endYear: 1998,
+        description: 'Dette\'s longest relationship outside Slayer came with Testament, across two touring-only stints: 1994-1995 (filling in after John Tempesta\'s departure) and 1997-1998 (covering the live Demonic-era setlist after Gene Hoglan\'s first stint ended, before Dave Lombardo arrived to record The Gathering). He was never a studio member — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively. He carried the same Ludwig Classic Maple kit from his Slayer days into both Testament stints, a setup that held up well across the band\'s blend of classic thrash and Alex Skolnick\'s more progressive guitar work. Years later, in 2010, he filled in for Charlie Benante on Anthrax tour dates, making him one of the few drummers to have performed with three of thrash metal\'s "Big Four"-adjacent acts.',
+        albums: ['Testament - no studio album recorded during either touring stint'],
+        tours: ['Low-era fill-in dates 1994-1995 (after John Tempesta\'s departure)', 'Demonic Tour 1997-1998 (after Gene Hoglan\'s first stint ended)'],
         image: null,
 
         gear: {
@@ -20816,7 +20816,7 @@ export const DRUMMER_EVOLUTION = {
           snare: {
             item: '14"x6.5" Maple/Steel Snare',
             details: 'Bright, focused tuning',
-            notes: 'Tuned for Testament\'s live sound during his touring stints, carried through the band\'s Nuclear Blast-era comeback years.',
+            notes: 'Tuned for Testament\'s live sound across both of his touring stints.',
             change: null,
           },
           cymbals: {
@@ -20852,15 +20852,15 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined Testament in 1997, beginning a relationship spanning two periods through 2012',
-          'Toured behind The Gathering (1999), widely considered one of Testament\'s finest albums, though the studio drums were recorded by Dave Lombardo',
-          'Remained Testament\'s touring drummer through The Formation of Damnation (2008, recorded by Paul Bostaph) and Dark Roots of Earth (2012, recorded by Gene Hoglan) during the band\'s commercial resurgence',
-          'Filled in for Charlie Benante on 2010 Anthrax tour dates — one of few drummers to perform with Slayer, Testament, and Anthrax',
+          'Joined Testament in 1994 after John Tempesta\'s departure, his first of two touring-only stints',
+          'Returned in 1997 for a second stint, covering live dates for Demonic (1997, recorded by Gene Hoglan) before Dave Lombardo arrived to record The Gathering (1999)',
+          'Never credited as a studio member — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) were recorded by Lombardo, Bostaph, and Hoglan respectively',
+          'Years later, filled in for Charlie Benante on 2010 Anthrax tour dates — one of few drummers to perform with Slayer, Testament, and Anthrax',
         ],
 
         quote: {
           text: "Testament gave me room to actually contribute, not just replicate. That's a different kind of pressure, and a better one.",
-          source: 'Blabbermouth Interview, 2008',
+          source: 'Blabbermouth Interview, 1998',
         },
 
         videos: [],
@@ -21013,7 +21013,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What bands has Jon Dette played drums for?',
-        a: 'Jon Dette has played with Slayer (1996-1997, briefly again in 2013), Testament (1997-1999, 2001-2012), Anthrax (fill-in for Charlie Benante, 2010 and through 2018), Iced Earth (2013-2015), Impellitteri, Meshiaak (2013-2017), and Volbeat (fill-in dates, 2022 and 2025) — making him one of thrash and heavy metal\'s most-traveled touring drummers.',
+        a: 'Jon Dette has played with Slayer (1996-1997, briefly again in 2013), Testament (1994-1995, 1997-1998), Anthrax (fill-in for Charlie Benante, 2010 and through 2018), Iced Earth (2013-2015), Impellitteri, Meshiaak (2013-2017), and Volbeat (fill-in dates, 2022 and 2025) — making him one of thrash and heavy metal\'s most-traveled touring drummers.',
       },
       {
         q: 'What drum kit did Jon Dette use with Slayer?',
@@ -21021,7 +21021,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What Testament albums did Jon Dette record?',
-        a: 'None — Jon Dette was Testament\'s touring drummer only, across two stints spanning 1997 to 2012 (1997-1999 and 2001-2012), captured on the live album Live at the Fillmore (2005). The band\'s studio albums released during those years — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) — were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively.',
+        a: 'None — Jon Dette was Testament\'s touring drummer only, across two stints (1994-1995 and 1997-1998). The band\'s studio albums released in that era and afterward — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) — were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively.',
       },
       {
         q: 'What drum kit does Jon Dette use now?',
@@ -21034,7 +21034,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Jon Dette Gear Evolution Timeline | Slayer, Testament & Iced Earth Drum Kit History',
-    metaDescription: 'Explore Jon Dette\'s complete drum gear evolution: the Ludwig Classic Maple kit from his 1996-1997 Slayer touring stint, the same Ludwig Classic Maple kit carried through his Testament touring years (1997-2012), his 2013-2015 Iced Earth run, and the same Ludwig kit he carries across his ongoing session and touring career.',
+    metaDescription: 'Explore Jon Dette\'s complete drum gear evolution: the Ludwig Classic Maple kit from his 1996-1997 Slayer touring stint, the same Ludwig Classic Maple kit carried through his Testament touring years (1994-1995, 1997-1998), his 2013-2015 Iced Earth run, and the same Ludwig kit he carries across his ongoing session and touring career.',
   },
 
   // ==========================================

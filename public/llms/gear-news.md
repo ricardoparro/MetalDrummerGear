@@ -2,7 +2,7 @@
 
 Chronological feed of drummer gear updates. See full tracker at https://metalforge.io/gear-news
 
-> Last updated: 2026-10-07 · 19 total events · 8 gear change events
+> Last updated: 2026-10-15 · 19 total events · 8 gear change events
 
 ---
 
@@ -348,4 +348,4 @@ Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into 
 - [Endorsement News](https://metalforge.io/llms/endorsement-news.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

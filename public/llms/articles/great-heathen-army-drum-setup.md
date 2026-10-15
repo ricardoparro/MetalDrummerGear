@@ -23,7 +23,7 @@ For the album that precedes this one, see [berserker-drum-setup](/articles/berse
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Pure (Dark lacquer touring finish finish)
-- **Snare:** Pearl Pearl Reference 14" x 6.5" Brass, 14" x 6.5"
+- **Snare:** Pearl Pearl Reference Pure 14" x 6.5", 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Custom & K Custom Series
 - **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Vic Firth 5B; Evans EQ3; Evans G2 Coated
 - **Heads:** Evans Coated G1 (batter), Evans Hazy 300 Snare Side (resonant)
@@ -39,7 +39,7 @@ The four-tom configuration (10", 12" racks; 16", 18" floors) continues to carry 
 
 ### Snare: Precision Backbeat for a More Controlled Record
 
-The Great Heathen Army's pull toward composed groove over blast-beat extremity puts more weight on Wallgren's snare as a precision instrument rather than a high-speed endurance tool. His Pearl Reference brass snare — the same 14" x 6.5" configuration he has used since Jomsviking — delivers the bright, cutting backbeat that anchors tracks like "Get in the Ring" and "Oden Owns You All," where the snare's role is to lock precisely with the gallop rather than sustain rapid-fire patterns.
+The Great Heathen Army's pull toward composed groove over blast-beat extremity puts more weight on Wallgren's snare as a precision instrument rather than a high-speed endurance tool. His snare — the same 14" x 6.5" configuration he has used since Jomsviking, matching his Pearl Reference Pure kit — delivers the backbeat that anchors tracks like "Get in the Ring" and "Oden Owns You All," where the snare's role is to lock precisely with the gallop rather than sustain rapid-fire patterns. The specific snare model and shell material have not been independently verified.
 
 Andy Sneap's production, recorded at Backstage Productions in Derbyshire, favors a slightly more natural, less processed snare tone than Jay Ruston's Berserker mix — consistent with the album's overall step back toward the band's melodic death metal origins. The snare's ghost-note work is also more prominent on this record, filling the space between backbeats in the album's more restrained verse sections.
 
@@ -114,4 +114,4 @@ A: Where Berserker's title track pushed into extended blast-beat extremity, The 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

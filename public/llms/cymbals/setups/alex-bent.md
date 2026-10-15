@@ -41,4 +41,4 @@ A: Alex Bent plays Zildjian cymbals: 14" K Custom Hybrid Hi-Hats, 18" K Custom H
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

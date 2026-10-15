@@ -34,7 +34,7 @@ Reinert's jazz training gave him traditional-grip ghost notes, brush-like dynami
 
 ## Key Differences
 
-Sean played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks — a jazz-crossover setup built for dynamic range. Flo plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), driven by a Tama Speed Cobra 910 double pedal and Vic Firth American Classic 5A sticks. Reinert's jazz training gave him traditional-grip ghost notes, brush-like dynamic control, and polymetric phrasing that let him move between brutal intensity and jazz-informed delicacy within the same passage — a vocabulary almost unheard of in death metal at the time. Mounier's technique is built on raw speed and endurance — his gravity blasts and complex polyrhythmic patterns pushed blast-beat technique to new extremes, while his incorporation of jazz and fusion elements adds musicality without sacrificing Cryptopsy's trademark brutality.
+Sean played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks — a jazz-crossover setup built for dynamic range. Flo plays a Tama Starclassic Maple kit with a Tama Starclassic Maple 14x5.5" snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), driven by a Tama Speed Cobra 910 double pedal and Vic Firth American Classic 5A sticks. Reinert's jazz training gave him traditional-grip ghost notes, brush-like dynamic control, and polymetric phrasing that let him move between brutal intensity and jazz-informed delicacy within the same passage — a vocabulary almost unheard of in death metal at the time. Mounier's technique is built on raw speed and endurance — his gravity blasts and complex polyrhythmic patterns pushed blast-beat technique to new extremes, while his incorporation of jazz and fusion elements adds musicality without sacrificing Cryptopsy's trademark brutality.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Sean Reinert's signature is jazz-informed ghost notes and dynamic, polymetric
 A: Sean Reinert recorded Death's "Human" (1991) before becoming the founding drummer of Cynic, recording "Focus" (1993) and "Traced in Air" (2008). Flo Mounier has been Cryptopsy's only constant member since joining in 1992, appearing on every album from "Ungentle Exhumation" through "As Gomorrah Burns" (2023).
 
 **Q: What gear do Sean Reinert and Flo Mounier use?**
-A: Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks. Flo Mounier plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal.
+A: Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks. Flo Mounier plays a Tama Starclassic Maple kit with a Tama Starclassic Maple 14x5.5" snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom c
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

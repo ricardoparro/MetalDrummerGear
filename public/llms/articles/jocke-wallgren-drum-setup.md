@@ -18,7 +18,7 @@ His primary setup is built around a Pearl Reference Pure kit, Zildjian A Custom 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Pure (Various touring finishes — often dark lacquer or wrapped finish)
-- **Snare:** Pearl Pearl Reference 14" x 6.5" Brass, 14" x 6.5"
+- **Snare:** Pearl Pearl Reference Pure 14" x 6.5", 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Custom & K Custom Series
 - **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Vic Firth 5B; Evans EQ3; Evans G2 Coated
 - **Heads:** Evans Coated G1 (batter), Evans Hazy 300 Snare Side (resonant)
@@ -38,11 +38,9 @@ The four-tom arrangement (10", 12" rack toms; 16", 18" floor toms) covers the fu
 
 In the Amon Amarth context, the snare drum must fulfill two distinct functions: explosive, cutting backbeats on the downbeats of anthemic verse-chorus structures, and controlled, precise strokes in the intricate fills that connect structural sections of the band's epic-length compositions.
 
-Jocke Wallgren's snare is a Pearl Reference brass shell, chosen for the brightness and projection needed in a mix where Johan Söderberg and Olavi Mikkeli's guitars saturate the mid-low frequency range. A bright, assertive brass snare cuts through that environment without requiring the drum to be mixed overbearingly loud in relation to the rest of the kit — the metal's natural resonance provides presence through frequency separation rather than raw volume.
+Jocke Wallgren's snare matches his Pearl Reference Pure kit; the specific snare model and shell material have not been independently verified. Whatever the exact spec, the kit's documented endorsement profile and the size of the drum give the backbeat enough body to feel full and substantial in large rooms while articulating clearly over the bass-heavy foundation the double kick and guitars create. In the live Amon Amarth mix — particularly at the festival headline slots the band regularly occupies — the snare registers across every dynamic range from quiet verse passages to full-power chorus explosions.
 
-The 6.5" depth gives the snare sufficient body to feel full and substantial in large rooms, while the 14" diameter keeps the fundamental pitch high enough to articulate clearly over the bass-heavy foundation the double kick and guitars create. In the live Amon Amarth mix — particularly at the festival headline slots the band regularly occupies — this snare character ensures the backbeat registers across every dynamic range from quiet verse passages to full-power chorus explosions.
-
-The snare is also critical for Wallgren's ghost note work. Amon Amarth's arrangements often employ syncopated rhythmic patterns between the kick and snare that require the snare to produce audible ghost strokes at low dynamics — the brass shell responds to light touch with sufficient tone to register in the mix, supporting the polyrhythmic elements that appear in songs like "Destroyer of the Universe" and the groove-driven passages of Jomsviking.
+The snare is also critical for Wallgren's ghost note work. Amon Amarth's arrangements often employ syncopated rhythmic patterns between the kick and snare that require the snare to produce audible ghost strokes at low dynamics, supporting the polyrhythmic elements that appear in songs like "Destroyer of the Universe" and the groove-driven passages of Jomsviking.
 
 ### Zildjian A Custom & K Custom: Bright Attack, Dark Viking Metal Voice
 
@@ -127,4 +125,4 @@ A: Amon Amarth's drum style is built on the double-bass gallop — a three-note 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

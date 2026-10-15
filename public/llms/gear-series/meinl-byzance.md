@@ -48,4 +48,4 @@ A: MetalForge tracks all Meinl series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/meinl/byzance/drummers-using](https://metalforge.io/gear/meinl/byzance/drummers-using) · Last updated: 2026-10-07*
+*Source: [metalforge.io/gear/meinl/byzance/drummers-using](https://metalforge.io/gear/meinl/byzance/drummers-using) · Last updated: 2026-10-15*

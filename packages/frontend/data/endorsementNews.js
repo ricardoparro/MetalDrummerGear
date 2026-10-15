@@ -4174,7 +4174,7 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         brand: 'Ludwig',
-        notes: 'Carried the same Ludwig Classic Maple setup into his first stint with Testament (1997–1999), recording "The Gathering" (1999) alongside guitarist Alex Skolnick\'s progressive arrangements',
+        notes: 'Carried the same Ludwig Classic Maple setup into his second touring stint with Testament (1997–1998), covering Demonic-era live dates after Gene Hoglan\'s first stint ended, alongside guitarist Alex Skolnick\'s progressive arrangements',
       },
     ],
   },

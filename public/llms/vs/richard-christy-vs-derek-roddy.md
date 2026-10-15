@@ -11,7 +11,7 @@ Death's Richard Christy vs Hate Eternal/Nile's Derek Roddy — progressive techn
 ## Richard Christy Setup
 
 - **Drums:** Pearl Masters Custom
-- **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)
+- **Cymbals:** Sabian AA/AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 18" AAX Chinese)
 - **Snare:** Pearl Masters Custom 14x6.5" Maple
 - **Pedals/Hardware:** Axis A Longboard Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
@@ -34,7 +34,7 @@ Christy's playing balances intricate fills and shifting time signatures with bru
 
 ## Key Differences
 
-Richard plays a Pearl Masters Custom kit with a 14x6.5" Pearl Masters Maple snare, Sabian AAX & HHX cymbals, and an Axis A Longboard double pedal. Derek favors a heavier Tama Starclassic Bubinga kit with a punchier 14x6.5" Tama SLP Black Brass snare, Meinl Byzance & Mb20 cymbals, and a Tama Speed Cobra 910 double pedal tuned for his signature footwork. Christy's playing balances intricate fills and shifting time signatures with brutal intensity, serving Death's increasingly progressive songwriting rather than showcasing raw speed alone — a discipline he carried into his solo instructional work. Roddy pioneered one-footed bass drum blasting — sustaining extreme tempos without relying on a double pedal — to prove that speed was a matter of technique, not equipment, becoming a benchmark for extreme-metal endurance that he later broke down in his own instructional books and DVDs.
+Richard plays a Pearl Masters Custom kit with a 14x6.5" Pearl Masters Maple snare, Sabian AA/AAX cymbals, and an Axis A Longboard double pedal. Derek favors a heavier Tama Starclassic Bubinga kit with a punchier 14x6.5" Tama SLP Black Brass snare, Meinl Byzance & Mb20 cymbals, and a Tama Speed Cobra 910 double pedal tuned for his signature footwork. Christy's playing balances intricate fills and shifting time signatures with brutal intensity, serving Death's increasingly progressive songwriting rather than showcasing raw speed alone — a discipline he carried into his solo instructional work. Roddy pioneered one-footed bass drum blasting — sustaining extreme tempos without relying on a double pedal — to prove that speed was a matter of technique, not equipment, becoming a benchmark for extreme-metal endurance that he later broke down in his own instructional books and DVDs.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Richard Christy's signature is progressive, musical technicality serving comp
 A: Richard Christy played drums on Death's final album "The Sound of Perseverance" (1998) and briefly joined Iced Earth (2003–2004) before forming Charred Walls of the Damned. Derek Roddy has played with Malevolent Creation, Nile, Hate Eternal, Aurora Borealis, and Council of the Fallen.
 
 **Q: What gear do Richard Christy and Derek Roddy use?**
-A: Richard Christy plays a Pearl Masters Custom kit with a 14x6.5" Pearl Masters Maple snare and Sabian AAX & HHX cymbals. Derek Roddy plays a Tama Starclassic Bubinga kit with a 14x6.5" Tama SLP Black Brass snare and Meinl Byzance & Mb20 cymbals, driven by a Tama Speed Cobra 910 double pedal.
+A: Richard Christy plays a Pearl Masters Custom kit with a 14x6.5" Pearl Masters Maple snare and Sabian AA/AAX cymbals. Derek Roddy plays a Tama Starclassic Bubinga kit with a 14x6.5" Tama SLP Black Brass snare and Meinl Byzance & Mb20 cymbals, driven by a Tama Speed Cobra 910 double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Richard Christy plays a Pearl Masters Custom kit with a 14x6.5" Pearl Masters
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -37,4 +37,4 @@ A: Jaska Raatikainen plays a Pearl Eliminator double pedal.
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

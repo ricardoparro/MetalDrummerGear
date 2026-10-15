@@ -18,7 +18,7 @@ Mayhem's Hellhammer vs Behemoth's Inferno. Black metal blast beats, speed, and e
 
 ## Inferno Setup
 
-- **Drums:** Pearl Masterworks
+- **Drums:** Pearl Reference Series
 - **Cymbals:** Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China)
 - **Snare:** Pearl Reference 14x5" Steel
 - **Pedals/Hardware:** Czarcie Kopyto (Devil's Hoof) Double Pedal, Pearl D-2000 Throne
@@ -47,10 +47,10 @@ Hellhammer is the blueprint for black metal drumming. Inferno evolved it with de
 ## FAQ
 
 **Q: What are the main differences between Hellhammer's and Inferno's drum kits?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Inferno uses Pearl Masterworks with Paiste cymbals. Hellhammer plays Sonor drums with focus on power. Inferno uses Pearl with emphasis on speed and projection.
+A: Hellhammer plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Inferno uses Pearl Reference Series with Paiste cymbals. Hellhammer plays Sonor drums with focus on power. Inferno uses Pearl with emphasis on speed and projection.
 
 **Q: What drums does Hellhammer play vs Inferno?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech. Inferno plays Pearl Masterworks.
+A: Hellhammer plays Sonor SQ2 Heavy Beech. Inferno plays Pearl Reference Series.
 
 **Q: Who is the better extreme / death / black metal drummer, Hellhammer or Inferno?**
 A: Both are legends in their own right. Hellhammer is the blueprint for black metal drumming. See the full analysis at [metalforge.io/vs/hellhammer-vs-inferno](https://metalforge.io/vs/hellhammer-vs-inferno).
@@ -67,4 +67,4 @@ A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ri
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

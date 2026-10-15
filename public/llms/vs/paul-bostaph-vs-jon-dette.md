@@ -26,7 +26,7 @@ Paul Bostaph vs Jon Dette: the two drummers who replaced Dave Lombardo in Slayer
 
 ## Playing Style
 
-Paul Bostaph is Slayer's longest-serving drummer outside of Dave Lombardo — the Bay Area thrash veteran who joined in 1992 and recorded four studio albums across two tenures (1992–2001, 2013–2019), including being the drummer for Slayer's final show in Los Angeles in November 2019. His style combines machine-like double bass consistency with tight, controlled fills that honor Lombardo's template while adding his own metronomic precision. Jon Dette is thrash metal's most reliable fill-in specialist — the Milwaukee-born drummer who served as Slayer's touring replacement during 1996–97 (while Bostaph recovered from injury) and went on to long-term membership in Testament from 1997–2012, where he recorded three albums including "The Gathering" (1999), widely regarded as one of Testament's finest.
+Paul Bostaph is Slayer's longest-serving drummer outside of Dave Lombardo — the Bay Area thrash veteran who joined in 1992 and recorded four studio albums across two tenures (1992–2001, 2013–2019), including being the drummer for Slayer's final show in Los Angeles in November 2019. His style combines machine-like double bass consistency with tight, controlled fills that honor Lombardo's template while adding his own metronomic precision. Jon Dette is thrash metal's most reliable fill-in specialist — the Milwaukee-born drummer who served as Slayer's touring replacement during 1996–97 (while Bostaph recovered from injury) and went on to two touring-only stints with Testament (1994–1995, 1997–1998), never recording a studio album; "The Gathering" (1999), widely regarded as one of Testament's finest, was recorded by Dave Lombardo.
 
 ## Technique
 
@@ -38,7 +38,7 @@ Paul Bostaph's final Slayer setup used Pearl Masters Maple Complete (MCX) drums 
 
 ## Influence & Legacy
 
-Bostaph is one of the most underrated drummers in thrash metal history — despite recording Slayer's "Divine Intervention," "Undisputed Attitude," "Diabolus in Musica," and "Repentless," and being Slayer's longest-serving drummer by total years (12 years across two stints), he operates permanently in Lombardo's shadow. His consistency and professionalism kept one of metal's most demanding catalogs alive for decades. Dette's contribution to Testament's catalog — particularly "The Gathering," recorded with producer Billy Sherwood and featuring some of thrash metal's most intense drumming of the era — earns him his own place in thrash history beyond his Slayer tenure.
+Bostaph is one of the most underrated drummers in thrash metal history — despite recording Slayer's "Divine Intervention," "Undisputed Attitude," "Diabolus in Musica," and "Repentless," and being Slayer's longest-serving drummer by total years (12 years across two stints), he operates permanently in Lombardo's shadow. His consistency and professionalism kept one of metal's most demanding catalogs alive for decades. Dette's contribution was as Testament's touring drummer across two stints rather than as a recording member — he never appeared on a studio album — but his reliability on the road earns him his own place in thrash history beyond his Slayer tenure.
 
 ## Verdict
 
@@ -53,7 +53,7 @@ A: Two drummers replaced Dave Lombardo in Slayer: Paul Bostaph (1992–2001 and 
 A: Paul Bostaph recorded four studio albums with Slayer: "Divine Intervention" (1994), "Undisputed Attitude" (1996, punk covers), "Diabolus in Musica" (1998), and "Repentless" (2015). He also performed on Slayer's Final World Tour (2018–2019) and their last show ever at the Forum in Los Angeles on November 30, 2019.
 
 **Q: What is Jon Dette best known for besides Slayer?**
-A: Jon Dette is best known for his long-term membership in Testament (1997–1999, 2001–2012), where he recorded "The Gathering" (1999) — considered one of Testament's finest albums — as well as "The Formation of Damnation" (2008) and "Dark Roots of Earth" (2012). He also filled in for Charlie Benante on Anthrax tour dates in 2010.
+A: Jon Dette is best known for his two touring-only stints with Testament (1994–1995, 1997–1998) — he never recorded a Testament studio album; "The Gathering" (1999), "The Formation of Damnation" (2008), and "Dark Roots of Earth" (2012) were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively. He also filled in for Charlie Benante on Anthrax tour dates in 2010.
 
 **Q: What gear does Paul Bostaph use vs Jon Dette?**
 A: Paul Bostaph's final Slayer setup used Pearl Masters Maple Complete (MCX) drums, Sabian AAX Series cymbals, and Pearl Eliminator double pedal with Vater Power 5B sticks. Jon Dette has played Ludwig Classic Maple drums since 1996 with Sabian or Zildjian cymbals and DW 9000 or Tama Iron Cobra double pedals.
@@ -67,4 +67,4 @@ A: Paul Bostaph's final Slayer setup used Pearl Masters Maple Complete (MCX) dru
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

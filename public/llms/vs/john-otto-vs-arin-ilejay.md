@@ -67,4 +67,4 @@ A: Arin Ilejay joined Avenged Sevenfold in 2011 following the death of founding 
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

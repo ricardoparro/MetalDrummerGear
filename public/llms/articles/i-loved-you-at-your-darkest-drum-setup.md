@@ -1,6 +1,6 @@
 # Inferno's Drum Setup on Behemoth's I Loved You at Your Darkest (2018)
 
-> Complete breakdown of Inferno's drum setup for Behemoth's I Loved You at Your Darkest (2018). Discover the Pearl Reference Pure kit, Aquarian heads, Paiste cymbals, and Monolit Czarcie Kopyto pedals that powered the follow-up to The Satanist.
+> Complete breakdown of Inferno's drum setup for Behemoth's I Loved You at Your Darkest (2018). Discover the Pearl Reference Series kit, Aquarian heads, Paiste cymbals, and Monolit Czarcie Kopyto pedals that powered the follow-up to The Satanist.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Inferno](/llms/drummers/inferno.md)
@@ -22,18 +22,18 @@ This article breaks down every piece of Inferno's drum setup for the *I Loved Yo
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Pure (Custom (studio configuration) finish)
-- **Snare:** Pearl Pearl Masterworks Snare, 14" x 5.5" or 14" x 6.5"
+- **Drums:** Pearl Pearl Reference Series (Custom (studio configuration) finish)
+- **Snare:** Pearl Pearl Reference Series Snare, 14" x 5.5" or 14" x 6.5"
 - **Cymbals:** Paiste — Paiste Signature Dark Energy + Mb20
 - **Hardware / Pedals:** Monolit Czarcie Kopyto Double Pedals (one per bass drum); Pearl Demon Series Hi-Hat Stand; Pearl Roadster D-3500BR; Vic Firth American Classic 5B / Pro-Mark Hickory equivalents
 - **Heads:** Aquarian Hi-Energy (batter), Aquarian standard snare side (resonant)
 - **Snare tuning:** High tension for maximum clarity at blast beat tempos
 
-### Inferno's Pearl Reference Pure: The ILYAYD Configuration
+### Inferno's Pearl Reference Series: The ILYAYD Configuration
 
-For the *I Loved You at Your Darkest* sessions, Inferno worked with the same Pearl Reference Pure platform he relies on for Behemoth's live performances, continuing the approach established on *The Satanist*.
+For the *I Loved You at Your Darkest* sessions, Inferno worked with the same Pearl Reference Series platform he relies on for Behemoth's live performances, continuing the approach established on *The Satanist*.
 
-The Reference Pure's maple/birch hybrid shell construction delivered the low-end depth that suited the album's broadened sonic ambitions. *I Loved You at Your Darkest* introduced choral textures, orchestral arrangements, and atmospheric passages that needed a drum sound capable of grounding those expanded elements without competing with them. The shells provided exactly that — warm, full-bodied fundamentals that sit beneath the arrangement rather than fighting against it.
+The Reference Series's maple/birch hybrid shell construction delivered the low-end depth that suited the album's broadened sonic ambitions. *I Loved You at Your Darkest* introduced choral textures, orchestral arrangements, and atmospheric passages that needed a drum sound capable of grounding those expanded elements without competing with them. The shells provided exactly that — warm, full-bodied fundamentals that sit beneath the arrangement rather than fighting against it.
 
 The double 22" x 18" bass drum configuration remained Inferno's standard. Two independent kicks rather than a double pedal on a single drum is a non-negotiable for Behemoth's tempos. Across tracks like "Wolves ov Siberia," "God = Dog," and "Bartzabel," Inferno's independent bass drum work delivers the rhythmic propulsion that the album's most aggressive sections demand, with each foot speaking individually even during sustained blast sequences.
 
@@ -47,7 +47,7 @@ The choice of dimensions reflects a fundamental principle of high-tempo extreme 
 
 The snare batter head choice — Aquarian Hi-Energy — is critical. The Hi-Energy is built for high-tension, attack-focused applications precisely like extreme metal. Two plies with a reinforcing dot in the center, it delivers exceptional consistency stroke-to-stroke and resists the wear that would compromise tone across an album-length recording session. The high tuning approach — tightly tensioned with controlled snare wire response — ensures each stroke speaks with clarity in the dense mix Daniel Bergstrand crafted at Dugout Studios.
 
-The contrast with Inferno's *Satanist* sessions, where he used a Pearl Masterworks snare, reflects the album's evolution: *I Loved You at Your Darkest* operates with a slightly different tonal palette, and the Pearl snare's character matched the new direction.
+The contrast with Inferno's *Satanist* sessions, where he used a Pearl Reference Series snare, reflects the album's evolution: *I Loved You at Your Darkest* operates with a slightly different tonal palette, and the Pearl snare's character matched the new direction.
 
 ### Paiste Signature Dark Energy + Mb20: The ILYAYD Cymbal Palette
 
@@ -63,7 +63,7 @@ The 14" hi-hats remain central to Inferno's blast beat technique. The closed hi-
 
 *I Loved You at Your Darkest* faced the impossible task of following *The Satanist*, and Behemoth approached that challenge correctly: not by trying to replicate the previous album's exact formula, but by pushing the band's sound into new territory while preserving the core elements that define them. The choral textures, child-vocal samples, and orchestral arrangements introduced sonic dimensions that *The Satanist* had not explored. The collaboration with Daniel Bergstrand at Dugout Studios brought a different mix sensibility than the Wiesławski brothers' Hertz Studio production. The result is an album that stands on its own terms — distinctly different from its predecessor, but unmistakably Behemoth.
 
-Inferno's drumming across *I Loved You at Your Darkest* is the rhythmic foundation that makes all of those creative expansions work. The choice of a Pearl Reference Pure kit for the studio sessions reflected the album's broadened sonic ambitions: warm, full-bodied fundamentals that ground the choral and orchestral elements without competing with them. The Paiste Signature Dark Energy + Mb20 cymbal combination covered the full dynamic range from the atmospheric opener "Solve" through the most aggressive blast sections of "Wolves ov Siberia" and "God = Dog." The Monolit Czarcie Kopyto pedals delivered the foot speed and precision that Behemoth's tempos require.
+Inferno's drumming across *I Loved You at Your Darkest* is the rhythmic foundation that makes all of those creative expansions work. The choice of a Pearl Reference Series kit for the studio sessions reflected the album's broadened sonic ambitions: warm, full-bodied fundamentals that ground the choral and orchestral elements without competing with them. The Paiste Signature Dark Energy + Mb20 cymbal combination covered the full dynamic range from the atmospheric opener "Solve" through the most aggressive blast sections of "Wolves ov Siberia" and "God = Dog." The Monolit Czarcie Kopyto pedals delivered the foot speed and precision that Behemoth's tempos require.
 
 The Aquarian head selection — Hi-Energy on the snare batter, Force I on the kicks, Response on the toms — gave Inferno the consistent, high-output performance the recording demanded across hours of tracking. The Pearl snare in the 14" x 5.5" to 14" x 6.5" range provided the cutting articulation that anchors blast beats while sitting cleanly in Bergstrand's mix.
 
@@ -78,23 +78,23 @@ A worthy successor to *The Satanist*, and a record that proves Behemoth's creati
 
 - Recorded at Hertz Studios, Białystok, Poland (drums/tracking) and Dugout Studios, Sweden (mixing)
 - Produced by Daniel Bergstrand (Meshuggah, In Flames) with Behemoth
-- Pearl Reference Pure kit with double 22" x 18" bass drums
+- Pearl Reference Series kit with double 22" x 18" bass drums
 - Paiste Signature Dark Energy + Mb20 cymbal selection — Inferno is a Paiste signature artist
 - Monolit Czarcie Kopyto pedals — chosen for sustained blast beat speed and control
 - Aquarian heads throughout: Hi-Energy snare batter, Force I kick batter, Response toms
-- Pearl Reference Pure chosen for studio warmth and depth
+- Pearl Reference Series chosen for studio warmth and depth
 - Double 22" x 18" bass drums for independent control at extreme tempos
 - Focused four-tom configuration matching album's compositional priorities
 - Hertz Studios tracking + Dugout Studios mixing for dual-environment recording approach
 - Daniel Bergstrand production brought Meshuggah/In Flames-pedigree sonic sensibility
-- Estimated kit value: $4,000–6,500 (Pearl Reference Pure professional configuration)
+- Estimated kit value: $4,000–6,500 (Pearl Reference Series professional configuration)
 - Estimated snare value: $500–850 (Pearl professional snare)
 
 ## Frequently Asked Questions
 
 **Q: What drum kit did Inferno use to record I Loved You at Your Darkest?**
 
-A: For I Loved You at Your Darkest (2018) studio sessions at Hertz Studios in Białystok, Poland, Inferno used a Pearl Reference Pure configuration — distinct from the Pearl Reference Pure setup he uses for Behemoth's live performances. The studio choice continued the studio-versus-stage philosophy established on The Satanist: Pearl Reference Pure for recording, Pearl Reference Pure for live. He paired the kit with a Pearl snare, Paiste Signature Dark Energy and Mb20 cymbals, and Monolit Czarcie Kopyto pedals. For Inferno's current live touring gear, see the [What's In Inferno's Kit article](/articles/whats-in-infernos-kit).
+A: For I Loved You at Your Darkest (2018) studio sessions at Hertz Studios in Białystok, Poland, Inferno used a Pearl Reference Series configuration — distinct from the Pearl Reference Series setup he uses for Behemoth's live performances. The studio choice continued the studio-versus-stage philosophy established on The Satanist: Pearl Reference Series for recording, Pearl Reference Series for live. He paired the kit with a Pearl snare, Paiste Signature Dark Energy and Mb20 cymbals, and Monolit Czarcie Kopyto pedals. For Inferno's current live touring gear, see the [What's In Inferno's Kit article](/articles/whats-in-infernos-kit).
 
 **Q: Who produced I Loved You at Your Darkest?**
 
@@ -115,7 +115,7 @@ A: I Loved You at Your Darkest debuted at number one on the Polish OLiS chart �
 ## Related Articles
 
 - [The Satanist Drum Setup: Inferno's Studio Arsenal for Behemoth's AOTY 2014](https://metalforge.io/articles/the-satanist-drum-setup)
-- [Satanica Drum Setup: Inferno's Pearl Reference Pure Kit — Behemoth's 1999 Blackened Death Metal Origin](https://metalforge.io/articles/satanica-drum-setup)
+- [Satanica Drum Setup: Inferno's Pearl Reference Series Kit — Behemoth's 1999 Blackened Death Metal Origin](https://metalforge.io/articles/satanica-drum-setup)
 - [What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-infernos-kit)
 
 ## Related Drummers
@@ -128,4 +128,4 @@ A: I Loved You at Your Darkest debuted at number one on the Polish OLiS chart �
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

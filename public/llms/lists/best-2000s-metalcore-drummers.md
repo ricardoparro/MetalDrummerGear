@@ -1,6 +1,6 @@
 # Top 10 Best 2000s Metalcore Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-2000s-metalcore-drummers)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-2000s-metalcore-drummers)
 
 ---
 
@@ -40,9 +40,9 @@ Full drummer profile: [Ben Koller on MetalForge](https://metalforge.io/drummer/b
 
 **Band:** Shadows Fall / Overkill / Category 7
 **Highlight:** A Grammy-nominated decade with Shadows Fall
-**Why ranked here:** Jason Bittner joined Shadows Fall in 2001 and powered the band's commercial breakthrough through the decade, including the Grammy-nominated "The War Within" (2004) and its follow-up "The Art of Balance" — albums that helped push metalcore's NWOAHM-adjacent wing into the mainstream. His technical precision and raw power earned him multiple "Best Metal Drummer" awards from Modern Drummer during exactly this stretch. Bittner earns rank #3 for a decade-defining, award-winning run at metalcore's commercial peak.
+**Why ranked here:** Jason Bittner joined Shadows Fall in 1999 and powered the band's commercial breakthrough through the decade, including the Grammy-nominated "The War Within" (2004) and its follow-up "The Art of Balance" — albums that helped push metalcore's NWOAHM-adjacent wing into the mainstream. His technical precision and raw power earned him multiple "Best Metal Drummer" awards from Modern Drummer during exactly this stretch. Bittner earns rank #3 for a decade-defining, award-winning run at metalcore's commercial peak.
 
-Jason Bittner (Shadows Fall / Overkill / Category 7) earns rank #3 for: a grammy-nominated decade with shadows fall. Jason Bittner joined Shadows Fall in 2001 and powered the band's commercial breakthrough through the decade, including the Grammy-nominated "The War Within" (2004) and its follow-up "The Art of Balance" — albums that helped push metalcore's NWOAHM-adjacent wing into the mainstream. His technical precision and raw power earned him multiple "Best Metal Drummer" awards from Modern Drummer during exactly this stretch. Bittner earns rank #3 for a decade-defining, award-winning run at metalcore's commercial peak..
+Jason Bittner (Shadows Fall / Overkill / Category 7) earns rank #3 for: a grammy-nominated decade with shadows fall. Jason Bittner joined Shadows Fall in 1999 and powered the band's commercial breakthrough through the decade, including the Grammy-nominated "The War Within" (2004) and its follow-up "The Art of Balance" — albums that helped push metalcore's NWOAHM-adjacent wing into the mainstream. His technical precision and raw power earned him multiple "Best Metal Drummer" awards from Modern Drummer during exactly this stretch. Bittner earns rank #3 for a decade-defining, award-winning run at metalcore's commercial peak..
 
 Full drummer profile: [Jason Bittner on MetalForge](https://metalforge.io/drummer/jason-bittner)
 
@@ -148,4 +148,4 @@ A: Several drummers who built their reputations in the 2000s carried metalcore's
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

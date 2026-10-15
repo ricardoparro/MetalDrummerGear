@@ -67,4 +67,4 @@ A: Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

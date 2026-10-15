@@ -1,6 +1,6 @@
 # Blake Richardson's Drum Setup on Between the Buried and Me's Automata I (2018)
 
-> Blake Richardson's drum kit and gear on BTBAM's Automata I (Feb 2018): Tama Starclassic Bubinga drums, Sabian Dark/Extra Dry cymbals, Tama Iron Cobra Power Glide double pedal, and the concept album that launched BTBAM's most ambitious two-part arc on Sumerian Records.
+> Blake Richardson's drum kit and gear on BTBAM's Automata I (Feb 2018): Tama Starclassic Bubinga drums, Sabian Dark/Extra Dry cymbals, twin Tama Iron Cobra Power Glide single pedals, and the concept album that launched BTBAM's most ambitious two-part arc on Sumerian Records.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Blake Richardson](/llms/drummers/blake-richardson.md)
@@ -27,7 +27,7 @@ Jamie King's production at The Basement Studio on Automata I balances the band's
 - **Drums:** Tama Tama Starclassic Bubinga (Custom lacquer finish finish)
 - **Snare:** Tama Tama STARPHONIC Brass Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian Series (HHX Evolution, AAX, and HH)
-- **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Vic Firth American Classic 3A; Pearl Rack System; Remo Emperor Coated; Remo Powerstroke 3
+- **Hardware / Pedals:** Twin Tama Iron Cobra Power Glide Single Pedals; Vic Firth American Classic 3A; Pearl Rack System; Remo Emperor Coated; Remo Powerstroke 3
 - **Heads:** Evans G2 Coated (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium tension — warm, authoritative crack across Automata I's dynamic range from intense progressive metal to ambient passages
 
@@ -67,7 +67,7 @@ For how this Sabian setup evolved across the BTBAM catalog, see [Blake Richardso
 
 Automata I (2018) is the first installment of BTBAM's most ambitious two-part project — a concept album that demonstrates Blake Richardson's technique at its most completely internalized. The metric modulations, odd-time signatures, and compositional double-bass approach that had been developing since Alaska (2005) are present on Automata I not as technical demonstrations but as natural musical language.
 
-His Tama Starclassic Bubinga kit, Sabian Dark/Extra Dry setup, and Tama Iron Cobra Power Glide double pedal represent the mature configuration of a drummer who has refined his tools as carefully as his technique.
+His Tama Starclassic Bubinga kit, Sabian Dark/Extra Dry setup, and twin Tama Iron Cobra Power Glide single pedals represent the mature configuration of a drummer who has refined his tools as carefully as his technique.
 
 - **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)
 - **Previous album**: [Coma Ecliptic drum setup (2015)](/articles/coma-ecliptic-drum-setup)
@@ -118,4 +118,4 @@ A: Automata I (2018) was released on Sumerian Records — a significant label ch
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

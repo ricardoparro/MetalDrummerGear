@@ -92,7 +92,7 @@ For the albums that frame this one, see the [Demigod drum setup](/articles/demig
 
 **Q: What drum kit did Inferno use to record The Apostasy?**
 
-A: For The Apostasy (2007) sessions at Hertz Studio in Białystok, Poland, Inferno used a Pearl Masters BRX kit — the same maple/birch hybrid shell configuration central to his Demigod (2004) sessions. The Masters BRX construction combines maple outer and inner plies with a birch core for focused attack clarity at extreme blast beat tempos alongside the warmth appropriate to The Apostasy's grandiose production. He also incorporated orchestral tympani into key passages of the recording, enhancing the album's characteristic massive drum sound. The Apostasy sessions preceded the Pearl Reference Pure configuration Inferno would use for Evangelion (2009).
+A: For The Apostasy (2007) sessions at Hertz Studio in Białystok, Poland, Inferno used a Pearl Masters BRX kit — the same maple/birch hybrid shell configuration central to his Demigod (2004) sessions. The Masters BRX construction combines maple outer and inner plies with a birch core for focused attack clarity at extreme blast beat tempos alongside the warmth appropriate to The Apostasy's grandiose production. He also incorporated orchestral tympani into key passages of the recording, enhancing the album's characteristic massive drum sound. The Apostasy sessions preceded the Pearl Reference Series configuration Inferno would use for Evangelion (2009).
 
 **Q: What is special about The Apostasy drum sound?**
 
@@ -127,4 +127,4 @@ A: "At the Left Hand ov God" is the most-streamed Behemoth track from the blacke
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

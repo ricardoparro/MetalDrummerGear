@@ -67,4 +67,4 @@ A: At the Gates' "Slaughter of the Soul" (1995) is widely considered one of the 
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

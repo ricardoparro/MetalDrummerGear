@@ -47,4 +47,4 @@ A: MetalForge tracks all Pearl series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/pearl/reference-14x6-5-brass/drummers-using](https://metalforge.io/gear/pearl/reference-14x6-5-brass/drummers-using) · Last updated: 2026-10-07*
+*Source: [metalforge.io/gear/pearl/reference-14x6-5-brass/drummers-using](https://metalforge.io/gear/pearl/reference-14x6-5-brass/drummers-using) · Last updated: 2026-10-15*

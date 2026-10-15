@@ -1,7 +1,7 @@
 # Sonor vs DW Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Sonor and DW drums used by pro metal drummers.
-> Last updated: 2026-10-07
+> Last updated: 2026-10-15
 
 Compare Sonor SQ2 and DW Collector's drums for metal. German engineering vs American craftsmanship. The ultimate premium drum kit battle.
 
@@ -15,9 +15,7 @@ Sonor is particularly well-suited for: Progressive metal, studio work.
 
 ## Which Metal Drummers Use DW?
 
-Pro metal drummers who endorse DW include: **Navene Koperweis**.
-
-DW is particularly well-suited for: Modern metal, fusion, djent.
+DW is used by professional metal drummers across multiple sub-genres.
 
 ## Featured Models
 
@@ -80,13 +78,13 @@ A: Sonor SQ2 for progressive and technical metal. DW for modern metal and crosso
 A: Sonor is endorsed by notable metal drummers including Tomas Haake, Danny Carey. The brand is especially popular for Progressive metal, studio work.
 
 **Q: Which metal drummers endorse DW?**
-A: DW is endorsed by notable metal drummers including Navene Koperweis. The brand is especially popular for Modern metal, fusion, djent.
+A: DW is endorsed by numerous metal drummers worldwide.
 
 **Q: How do Sonor and DW price points compare?**
 A: Sonor (SQ2 Heavy Beech) is priced at €5,000 - €7,000. DW (Collector's Series Maple) runs €4,500 - €6,500. At this tier, both represent pinnacle craftsmanship. Sonor edges ahead for metal-specific features.
 
 **Q: Which drums brand is more popular among metal drummers?**
-A: Based on MetalForge's tracking data, Sonor is used by 2 documented metal drummers and DW by 1 in this comparison dataset. Sonor leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/sonor-vs-dw](https://metalforge.io/compare/sonor-vs-dw).
+A: Both Sonor and DW enjoy strong followings across the metal community. See the full endorsement breakdown at [metalforge.io/compare/sonor-vs-dw](https://metalforge.io/compare/sonor-vs-dw).
 
 ---
 

@@ -34,7 +34,7 @@ Harrison specializes in complex polyrhythms that feel natural — weaving 7/8, 1
 
 ## Key Differences
 
-Gavin Harrison plays Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China) — a dry, controlled sound ideal for his nuanced polyrhythmic work. He uses Sonor Gavin Harrison Signature snares (12"x5" and 14"x5.25") and Vic Firth Gavin Harrison Signature sticks. Mike Mangini plays Pearl Masterworks Maple with Sabian HHX Evolution and AAX X-Plosion cymbals, Pearl Eliminator Redline double pedal, and an extensive Roland TD-50 electronic integration — a massive, ergonomically optimized setup built for Dream Theater's complex sonic demands. Harrison specializes in complex polyrhythms that feel natural — weaving 7/8, 11/8, and 13/8 time signatures with such musicality that listeners absorb the complexity without effort. His ghost note work is masterful, his linear patterns are songs unto themselves, and his dynamic range from whisper to thunder is unmatched in progressive rock. Mangini brings a different kind of mastery: the Moeller technique refined to maximum efficiency, ambidextrous playing at world-record speeds, and a mathematical framework ("Rhythm Knowledge") for building complex polyrhythmic phrases from first principles. His Dream Theater work navigates the band's most demanding compositions while maintaining clarity and groove.
+Gavin Harrison plays Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China) — a dry, controlled sound ideal for his nuanced polyrhythmic work. He uses Sonor Gavin Harrison Signature snares (12"x5" and 14"x5.25") and Vic Firth Gavin Harrison Signature sticks. Mike Mangini plays Pearl Reference Pure with Sabian HHX Evolution and AAX X-Plosion cymbals, Pearl Eliminator Redline double pedal, and an extensive Roland TD-50 electronic integration — a massive, ergonomically optimized setup built for Dream Theater's complex sonic demands. Harrison specializes in complex polyrhythms that feel natural — weaving 7/8, 11/8, and 13/8 time signatures with such musicality that listeners absorb the complexity without effort. His ghost note work is masterful, his linear patterns are songs unto themselves, and his dynamic range from whisper to thunder is unmatched in progressive rock. Mangini brings a different kind of mastery: the Moeller technique refined to maximum efficiency, ambidextrous playing at world-record speeds, and a mathematical framework ("Rhythm Knowledge") for building complex polyrhythmic phrases from first principles. His Dream Theater work navigates the band's most demanding compositions while maintaining clarity and groove.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Gavin Harrison and Mike Mangini are two of the finest technical drummers alive, 
 A: Both are extraordinarily technical, but in different ways. Mike Mangini holds Guinness World Records for drumming speed and brings a scientific, mathematical approach to technique. Gavin Harrison's technical mastery lies in polyrhythmic complexity and compositional depth — navigating odd time signatures with musical grace that sounds effortless. Both are consistently cited among the world's best drummers.
 
 **Q: What drums does Gavin Harrison play vs Mike Mangini?**
-A: Gavin Harrison plays Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals and Vic Firth signature sticks. Mike Mangini plays Pearl Masterworks Maple with Sabian HHX/AAX cymbals, Pearl Eliminator Redline double pedals, and Roland TD-50 electronic integration.
+A: Gavin Harrison plays Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals and Vic Firth signature sticks. Mike Mangini plays Pearl Reference Pure with Sabian HHX/AAX cymbals, Pearl Eliminator Redline double pedals, and Roland TD-50 electronic integration.
 
 **Q: What Guinness World Records does Mike Mangini hold?**
 A: Mike Mangini holds multiple Guinness World Records for drumming speed, including 1,203 single strokes in 60 seconds. He set his first world record in 1986 and was a professor at Berklee College of Music before joining Dream Theater in 2010 after their publicized international audition.
@@ -67,4 +67,4 @@ A: Gavin Harrison is best known as the drummer for Porcupine Tree (2002–2010, 
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

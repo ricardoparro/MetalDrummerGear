@@ -14034,12 +14034,12 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       title: "Thrash Metal's Precision Specialist",
       content: `Jon Dette occupies a rare spot in thrash metal history: one of only a handful of drummers to have performed with three of the genre's biggest acts — Slayer, Testament, and Anthrax. Born August 25, 1967, in Milwaukee, Wisconsin, Dette built his reputation as the reliable professional who could learn an entire demanding setlist on short notice and deliver it with metronomic accuracy from the first night of touring.
 
-Dette stepped in for Slayer in 1996–1997 while Paul Bostaph was unavailable, mastering the band's fastest and most technically demanding live catalogue under intense fan scrutiny. His longest tenure came with Testament across two periods (1997–1999, 2001–2012) as the band's touring drummer — not a studio member; the studio albums released during that span, The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively — before filling in for Charlie Benante on Anthrax tour dates in 2010.
+Dette stepped in for Slayer in 1996–1997 while Paul Bostaph was unavailable, mastering the band's fastest and most technically demanding live catalogue under intense fan scrutiny. He also toured with Testament across two periods (1994–1995, 1997–1998) as the band's touring drummer — not a studio member; the studio albums released in that era and afterward, The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively — before filling in for Charlie Benante on Anthrax tour dates in 2010.
 
 This guide breaks down the technique, gear, and practice approach behind Dette's precision-focused thrash metal drumming — essential study for any drummer chasing accuracy and reliability at high tempo.`,
       keyPoints: [
         "Slayer touring drummer 1996–1997 — mastered the band's full live setlist on short notice",
-        "Testament touring drummer across two periods (1997–1999, 2001–2012) — not a studio member; The Gathering, The Formation of Damnation, and Dark Roots of Earth were recorded by Lombardo, Bostaph, and Hoglan",
+        "Testament touring drummer across two periods (1994–1995, 1997–1998) — not a studio member; The Gathering, The Formation of Damnation, and Dark Roots of Earth were recorded by Lombardo, Bostaph, and Hoglan",
         "Filled in for Charlie Benante on Anthrax tour dates in 2010 — three Big Four-adjacent acts in one career",
         "Known for metronomic consistency and rapid setlist adaptation rather than flash"
       ]
@@ -14080,10 +14080,10 @@ This guide breaks down the technique, gear, and practice approach behind Dette's
         }
       ],
       keySongs: [
-        { song: "D.N.R. (Do Not Resuscitate)", album: "The Gathering", year: 1999, why: "Testament's heaviest era — part of the live setlist Dette toured, studio drums by Dave Lombardo; study it for the metronomic double-bass drive Dette matched live" },
-        { song: "Down for Life", album: "The Gathering", year: 1999, why: "Another Dave Lombardo studio performance from Dette's touring-era setlist — demonstrates the precision and endurance Dette had to replicate night after night" },
-        { song: "More Than Meets the Eye", album: "The Formation of Damnation", year: 2008, why: "Testament's Nuclear Blast-era comeback single, recorded by Paul Bostaph — part of the live catalogue Dette toured during this Testament stint" },
-        { song: "Native Blood", album: "Dark Roots of Earth", year: 2012, why: "Studio drums by Gene Hoglan — anchored one of Testament's most acclaimed tracks, which Dette performed live during this touring period" }
+        { song: "D.N.R. (Do Not Resuscitate)", album: "The Gathering", year: 1999, why: "Testament's heaviest era, released the year after Dette's second touring stint ended — study it for the metronomic double-bass drive that defines his playing style; studio drums by Dave Lombardo" },
+        { song: "Down for Life", album: "The Gathering", year: 1999, why: "Another Dave Lombardo studio performance — demonstrates the precision and endurance the Testament drum chair demands, the same standard Dette held to during his own touring stints" },
+        { song: "More Than Meets the Eye", album: "The Formation of Damnation", year: 2008, why: "Testament's Nuclear Blast-era comeback single, recorded by Paul Bostaph a decade after Dette's Testament touring stints had ended" },
+        { song: "Native Blood", album: "Dark Roots of Earth", year: 2012, why: "Studio drums by Gene Hoglan — anchors one of Testament's most acclaimed tracks, part of the catalogue long after Dette's own touring tenure" }
       ]
     },
     gear: {
@@ -14240,11 +14240,11 @@ This guide breaks down the technique, gear, and practice approach behind Dette's
       },
       {
         question: "Which bands did Jon Dette play drums for?",
-        answer: "Jon Dette played with three major thrash metal acts: Slayer (touring, 1996-1997, filling in for Paul Bostaph), Testament (touring drummer, 1997-1999 and 2001-2012 — not a studio member on the era's albums), and Anthrax (touring fill-in for Charlie Benante in 2010). This makes him one of only a handful of drummers to have performed with three of thrash's biggest bands."
+        answer: "Jon Dette played with three major thrash metal acts: Slayer (touring, 1996-1997, filling in for Paul Bostaph), Testament (touring drummer, 1994-1995 and 1997-1998 — not a studio member on the era's albums), and Anthrax (touring fill-in for Charlie Benante in 2010). This makes him one of only a handful of drummers to have performed with three of thrash's biggest bands."
       },
       {
         question: "What Testament albums should I study for Jon Dette's drumming?",
-        answer: "Dette was Testament's touring drummer, not a studio member — the studio albums released across his tenure were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan. Still, these were the records that shaped his live sets: study The Gathering (1999) via 'D.N.R. (Do Not Resuscitate)' and 'Down for Life' for the metronomic double-bass drive he replicated on tour, The Formation of Damnation (2008) via 'More Than Meets the Eye' for the modern comeback era, and Dark Roots of Earth (2012) via 'Native Blood' for the late-career material he performed live."
+        answer: "Dette was Testament's touring drummer across two stints (1994-1995, 1997-1998), not a studio member — the studio albums released in that era and afterward were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan. Still, these are useful records to study the drum chair's standard: The Gathering (1999) via 'D.N.R. (Do Not Resuscitate)' and 'Down for Life' for the metronomic double-bass drive, The Formation of Damnation (2008) via 'More Than Meets the Eye' for the band's comeback era, and Dark Roots of Earth (2012) via 'Native Blood' for its most acclaimed later material."
       }
     ],
     related: {

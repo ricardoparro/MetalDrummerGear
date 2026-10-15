@@ -1,6 +1,6 @@
 # 10 Best Thrash Metal Drummers Ranked — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-thrash-metal-drummers)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-thrash-metal-drummers)
 
 ---
 
@@ -98,9 +98,9 @@ Full drummer profile: [Vinnie Paul on MetalForge](https://metalforge.io/drummer/
 
 **Band:** Unknown
 **Highlight:** Slayer's second era — maintaining the standard after Lombardo
-**Why ranked here:** Paul Bostaph faced one of heavy metal's most daunting challenges: replacing Dave Lombardo in Slayer and maintaining a standard that the metal community considered irreplaceable. His work on "Divine Intervention," "Undisputed Attitude," "Diabolus in Musica," and "Christ Illusion" demonstrated that Slayer's thrash drumming standard could survive a lineup change when the replacement was truly exceptional. His technically precise approach brought a different character to Slayer than Lombardo's Latin-influenced groove — more mechanically exact, less instinctive — but equally effective in context. His Grammy-nominated work on "Christ Illusion" with the song "Eyes of the Insane" earned institutional recognition for his contribution to one of thrash metal's most celebrated late-career records.
+**Why ranked here:** Paul Bostaph faced one of heavy metal's most daunting challenges: replacing Dave Lombardo in Slayer and maintaining a standard that the metal community considered irreplaceable. His work on "Divine Intervention," "Undisputed Attitude," and "Diabolus in Musica" demonstrated that Slayer's thrash drumming standard could survive a lineup change when the replacement was truly exceptional. His technically precise approach brought a different character to Slayer than Lombardo's Latin-influenced groove — more mechanically exact, less instinctive — but equally effective in context. He returned to the drum chair in 2013 and recorded Repentless (2015), closing out the band's final studio album on the same exacting standard he set two decades earlier.
 
-Drummer #63 (Unknown) earns rank #7 for: slayer's second era — maintaining the standard after lombardo. Paul Bostaph faced one of heavy metal's most daunting challenges: replacing Dave Lombardo in Slayer and maintaining a standard that the metal community considered irreplaceable. His work on "Divine Intervention," "Undisputed Attitude," "Diabolus in Musica," and "Christ Illusion" demonstrated that Slayer's thrash drumming standard could survive a lineup change when the replacement was truly exceptional. His technically precise approach brought a different character to Slayer than Lombardo's Latin-influenced groove — more mechanically exact, less instinctive — but equally effective in context. His Grammy-nominated work on "Christ Illusion" with the song "Eyes of the Insane" earned institutional recognition for his contribution to one of thrash metal's most celebrated late-career records..
+Drummer #63 (Unknown) earns rank #7 for: slayer's second era — maintaining the standard after lombardo. Paul Bostaph faced one of heavy metal's most daunting challenges: replacing Dave Lombardo in Slayer and maintaining a standard that the metal community considered irreplaceable. His work on "Divine Intervention," "Undisputed Attitude," and "Diabolus in Musica" demonstrated that Slayer's thrash drumming standard could survive a lineup change when the replacement was truly exceptional. His technically precise approach brought a different character to Slayer than Lombardo's Latin-influenced groove — more mechanically exact, less instinctive — but equally effective in context. He returned to the drum chair in 2013 and recorded Repentless (2015), closing out the band's final studio album on the same exacting standard he set two decades earlier..
 
 ### 8. Raymond Herrera
 
@@ -173,4 +173,4 @@ A: Classic-era thrash metal drummers gravitated toward Tama and Pearl kits for t
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

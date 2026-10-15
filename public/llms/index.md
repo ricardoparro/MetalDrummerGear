@@ -1,6 +1,6 @@
 # MetalForge - LLM Content Index
 
-> Last Updated: 2026-10-07  
+> Last Updated: 2026-10-15  
 > Source: https://metalforge.io
 
 ## About MetalForge
@@ -310,7 +310,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown | Inferno | [Markdown](https://metalforge.io/llms/articles/whats-in-infernos-kit.md) |
 | The Satanist Drum Setup: Inferno's Studio Arsenal for Behemoth's AOTY 2014 | Inferno | [Markdown](https://metalforge.io/llms/articles/the-satanist-drum-setup.md) |
 | Inferno's Drum Setup on Behemoth's I Loved You at Your Darkest (2018) | Inferno | [Markdown](https://metalforge.io/llms/articles/i-loved-you-at-your-darkest-drum-setup.md) |
-| Satanica Drum Setup: Inferno's Pearl Reference Pure Kit — Behemoth's 1999 Blackened Death Metal Origin | Inferno | [Markdown](https://metalforge.io/llms/articles/satanica-drum-setup.md) |
+| Satanica Drum Setup: Inferno's Pearl Reference Series Kit — Behemoth's 1999 Blackened Death Metal Origin | Inferno | [Markdown](https://metalforge.io/llms/articles/satanica-drum-setup.md) |
 | Thelema.6 Drum Setup: Inferno's Pearl Masters Kit — Behemoth's 2002 Death Metal Pivot | Inferno | [Markdown](https://metalforge.io/llms/articles/thelema-6-drum-setup.md) |
 | Evangelion — Behemoth Drum Setup (Inferno, 2009) | Inferno | [Markdown](https://metalforge.io/llms/articles/evangelion-drum-setup.md) |
 | Zos Kia Cultus — Behemoth Drum Setup (Inferno, 2002) | Inferno | [Markdown](https://metalforge.io/llms/articles/zos-kia-cultus-drum-setup.md) |

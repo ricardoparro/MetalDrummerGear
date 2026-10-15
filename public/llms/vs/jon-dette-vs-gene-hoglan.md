@@ -26,7 +26,7 @@ Jon Dette vs Gene Hoglan: two of extreme metal's most in-demand touring and sess
 
 ## Playing Style
 
-Jon Dette built his career as thrash metal's most reliable fill-in specialist — touring with Slayer in 1996-97, then anchoring Testament from 1997-2012 (most notably recording "The Gathering," 1999), and filling in for Charlie Benante on Anthrax tour dates in 2010. Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision, took a far broader path across more than 20 bands over four decades — Dark Angel (1984-present), Death ("Individual Thought Patterns," 1993; "Symbolic," 1995), Strapping Young Lad, Dethklok, and Testament, which he has anchored as primary drummer since 2007. Both men have spent time behind Testament's kit at different points in the band's history, but where Dette moved between bands as a versatile utility player, Hoglan became a genre-defining architect in his own right.
+Jon Dette built his career as thrash metal's most reliable fill-in specialist — touring with Slayer in 1996-97, then touring with Testament across two stints (1994-1995, 1997-1998) without ever recording a studio album, and filling in for Charlie Benante on Anthrax tour dates in 2010. Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision, took a far broader path across more than 20 bands over four decades — Dark Angel (1984-present), Death ("Individual Thought Patterns," 1993; "Symbolic," 1995), Strapping Young Lad, Dethklok, and Testament, which he has anchored as primary drummer since 2007. Both men have spent time behind Testament's kit at different points in the band's history, but where Dette moved between bands as a versatile utility player, Hoglan became a genre-defining architect in his own right.
 
 ## Technique
 
@@ -38,7 +38,7 @@ Jon Dette has played Ludwig Classic Maple drums since 1996 — with 14"x6.5" met
 
 ## Influence & Legacy
 
-Dette's influence is real but modest — he proved that a dependable touring professional could preserve legendary drummers' parts convincingly enough to keep a band's live shows credible, a reputation that became a genuine 15-year Testament career. Hoglan's influence is foundational to extreme metal: his gravity blast technique spread throughout death and thrash metal as the standard for sustainable extreme-speed playing, and his four-decade run across more than 20 bands makes him one of the most studied and referenced drummers in the genre's history.
+Dette's influence is real but modest — he proved that a dependable touring professional could preserve legendary drummers' parts convincingly enough to keep a band's live shows credible, a reputation that carried into two separate touring stints with Testament. Hoglan's influence is foundational to extreme metal: his gravity blast technique spread throughout death and thrash metal as the standard for sustainable extreme-speed playing, and his four-decade run across more than 20 bands makes him one of the most studied and referenced drummers in the genre's history.
 
 ## Verdict
 
@@ -47,7 +47,7 @@ Jon Dette and Gene Hoglan sit at opposite ends of the same profession — both b
 ## FAQ
 
 **Q: Have Jon Dette and Gene Hoglan both played in Testament?**
-A: Yes. Jon Dette drummed for Testament from 1997-1999 and 2001-2012, most notably recording "The Gathering" (1999). Gene Hoglan has been Testament's primary drummer since 2007, anchoring the band's modern era alongside his other 20-plus band credits.
+A: Yes. Jon Dette toured with Testament across two stints (1994-1995 and 1997-1998), never recording a studio album with the band. Gene Hoglan has been Testament's primary drummer since 2007, anchoring the band's modern era alongside his other 20-plus band credits.
 
 **Q: Why is Gene Hoglan called "The Atomic Clock"?**
 A: Gene Hoglan earned the nickname for his metronomic timing precision — an inhuman accuracy at extreme tempos that he sustained across Dark Angel, Death, Testament, Strapping Young Lad, and Dethklok over a four-decade career.
@@ -56,7 +56,7 @@ A: Gene Hoglan earned the nickname for his metronomic timing precision — an in
 A: Jon Dette has played Ludwig Classic Maple drums since 1996 with Sabian or Zildjian cymbals. Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference Brass snare and Sabian AAX cymbals, driven by a Pearl Demon Drive double pedal. Both use Promark 5B sticks.
 
 **Q: What is Jon Dette best known for besides Slayer?**
-A: Jon Dette is best known for his long-term membership in Testament (1997-1999, 2001-2012), where he recorded "The Gathering" (1999) — considered one of Testament's finest albums. He also filled in for Charlie Benante on Anthrax tour dates in 2010.
+A: Jon Dette is best known for his two touring-only stints with Testament (1994-1995, 1997-1998) — he never recorded a Testament studio album; "The Gathering" (1999), considered one of Testament's finest albums, was recorded by Dave Lombardo. He also filled in for Charlie Benante on Anthrax tour dates in 2010.
 
 ---
 
@@ -67,4 +67,4 @@ A: Jon Dette is best known for his long-term membership in Testament (1997-1999,
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

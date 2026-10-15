@@ -67,4 +67,4 @@ A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains t
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

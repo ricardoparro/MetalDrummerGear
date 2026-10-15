@@ -34,7 +34,7 @@ Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in
 
 ## Key Differences
 
-Shannon Larkin plays ddrum Dios Series drums with Sabian AAX & HHX Series cymbals and a ddrum Dios 14×6.5" Maple snare — a groove-oriented setup delivering the hard-hitting pocket Godsmack's arena rock demands. Jay Weinberg played SJC Custom Drums with Zildjian cymbals and DW hardware during his Slipknot tenure — a setup built for the theatrical demands of Slipknot's live production. Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in with Tony Rombola's guitars with muscular, hook-driven rhythms and dynamic control that made Godsmack's sound commercially unstoppable across the 2000s. Weinberg's technique is precision-meets-chaos — navigating Slipknot's multi-drummer live setup required exceptional timing, independence, and endurance night after night while delivering the chaotic energy the band demands.
+Shannon Larkin plays ddrum Dios Series drums with Sabian AAX Series cymbals and a ddrum Dios 14×6.5" Maple snare — a groove-oriented setup delivering the hard-hitting pocket Godsmack's arena rock demands. Jay Weinberg played SJC Custom Drums with Zildjian cymbals and DW hardware during his Slipknot tenure — a setup built for the theatrical demands of Slipknot's live production. Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in with Tony Rombola's guitars with muscular, hook-driven rhythms and dynamic control that made Godsmack's sound commercially unstoppable across the 2000s. Weinberg's technique is precision-meets-chaos — navigating Slipknot's multi-drummer live setup required exceptional timing, independence, and endurance night after night while delivering the chaotic energy the band demands.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Shannon Larkin and Jay Weinberg are two of modern arena metal's most prominent f
 A: Shannon Larkin has been Godsmack's drummer since 2002. Jay Weinberg was Slipknot's drummer from 2014 until November 2023; Slipknot has since continued with a different drummer.
 
 **Q: What gear does Shannon Larkin use?**
-A: Shannon Larkin plays ddrum Dios Series drums with Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) and a ddrum Dios 14×6.5" Maple snare.
+A: Shannon Larkin plays ddrum Dios Series drums with Sabian AAX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride) and a ddrum Dios 14×6.5" Maple snare.
 
 **Q: What gear did Jay Weinberg use with Slipknot?**
 A: Jay Weinberg played SJC Custom Drums with Zildjian cymbals and DW hardware during his Slipknot tenure.
@@ -67,4 +67,4 @@ A: Shannon Larkin played with Wrathchild America (1989–1991), Ugly Kid Joe (19
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -52,4 +52,4 @@ A: Belt drive is generally lighter and more responsive underfoot than chain driv
 - [Pedals Guide](https://metalforge.io/llms/pedals.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

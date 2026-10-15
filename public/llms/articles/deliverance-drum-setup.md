@@ -27,7 +27,7 @@ This article breaks down every piece of gear Martin Lopez used on Deliverance, e
 - **Drums:** Sonor Sonor Designer Series (Natural Maple finish)
 - **Snare:** Sonor Sonor Designer Maple Snare, 14" x 5.5"
 - **Cymbals:** Sabian — Sabian HH (Hand Hammered) & AAX Series
-- **Hardware / Pedals:** DW 5500 Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5B
+- **Hardware / Pedals:** DW 5500 Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5A
 - **Heads:** Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium-high for maximum cut and attack
 
@@ -135,4 +135,4 @@ A: Martin Lopez has described his approach as treating drums like architecture �
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

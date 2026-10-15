@@ -19,7 +19,7 @@
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
-| [Daniel Erlandsson](https://metalforge.io/pedals/setups/daniel-erlandsson) | Arch Enemy | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/daniel-erlandsson.md) |
+| [Daniel Erlandsson](https://metalforge.io/pedals/setups/daniel-erlandsson) | Arch Enemy | Pearl Eliminator Double Bass Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/daniel-erlandsson.md) |
 | [Daray](https://metalforge.io/pedals/setups/daray) | Dimmu Borgir / Vader | Pearl Demon XR | [Markdown](https://metalforge.io/llms/pedals/setups/daray.md) |
 | [Gene Hoglan](https://metalforge.io/pedals/setups/gene-hoglan) | Death / Testament / Dethklok | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/gene-hoglan.md) |
 | [George Kollias](https://metalforge.io/pedals/setups/george-kollias) | Nile | Pearl Demon XR | [Markdown](https://metalforge.io/llms/pedals/setups/george-kollias.md) |
@@ -49,4 +49,4 @@ Source: [Pearl Drums — Wikipedia (company history)](https://en.wikipedia.org/w
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -31,7 +31,7 @@ This article breaks down Inferno's studio setup for *Opvs Contra Natvram*: the P
 
 ### Inferno's Pearl Masters MCX: The Opvs Contra Natvram Configuration
 
-For *Opvs Contra Natvram*, Inferno moved to a Pearl Masters MCX kit finished in custom black — a shell choice that stands apart from the Pearl Reference Pure configurations documented on *The Satanist* (2014) and *I Loved You at Your Darkest* (2018). The Masters MCX line's maple/gumwood hybrid construction is built for exactly the kind of focused low end and controlled attack that blackened death metal at high tempo demands, and the all-black finish matches the album's stark, ritualistic visual identity.
+For *Opvs Contra Natvram*, Inferno moved to a Pearl Masters MCX kit finished in custom black — a shell choice that stands apart from the Pearl Reference Series configurations documented on *The Satanist* (2014) and *I Loved You at Your Darkest* (2018). The Masters MCX line's maple/gumwood hybrid construction is built for exactly the kind of focused low end and controlled attack that blackened death metal at high tempo demands, and the all-black finish matches the album's stark, ritualistic visual identity.
 
 The double 22" x 18" bass drum configuration remains Inferno's non-negotiable standard, unchanged across every album in the arc since *Satanica*. Two independent kicks rather than a linked double pedal on a single drum give each foot its own resonant chamber — a mechanical requirement at the tempos 'Malaria Vvlgata' and 'Off to War!' demand.
 
@@ -55,12 +55,12 @@ The 18" China cymbal continues to serve the same structural role it has held acr
 
 ## The Arc, Current as of 2022
 
-*Opvs Contra Natvram* closes the documented Behemoth drum-gear arc at its most recent point: from the raw Pearl Reference Pure of *Satanica* (1999), through the Pearl Masters BRX breakthrough of *Demigod* (2004), the Paiste Signature Dark Energy precision of *Evangelion* (2009), the Album of the Year Pearl/Paiste setup of *The Satanist* (2014), the Bergstrand-produced *I Loved You at Your Darkest* (2018), and now the Pearl Masters MCX, Pork Pie, and Paiste 2002 Black configuration of *Opvs Contra Natvram* (2022). Every gear decision across those six studio albums tracks a working drummer's evolving relationship with his instrument over more than two decades.
+*Opvs Contra Natvram* closes the documented Behemoth drum-gear arc at its most recent point: from the raw Pearl Reference Series of *Satanica* (1999), through the Pearl Masters BRX breakthrough of *Demigod* (2004), the Paiste Signature Dark Energy precision of *Evangelion* (2009), the Album of the Year Pearl/Paiste setup of *The Satanist* (2014), the Bergstrand-produced *I Loved You at Your Darkest* (2018), and now the Pearl Masters MCX, Pork Pie, and Paiste 2002 Black configuration of *Opvs Contra Natvram* (2022). Every gear decision across those six studio albums tracks a working drummer's evolving relationship with his instrument over more than two decades.
 
 What makes *Opvs Contra Natvram* distinct is how much changed at once. Where prior album cycles tended to shift one element at a time — a new snare here, a new cymbal series there — this record moved the kit, the snare, and the cymbals together, while also changing the studio, the engineer's mixing partner, and the mastering engineer. The result is a drum sound that is recognizably Inferno — the same double bass configuration, the same compact four-tom spread, the same relentless technical control — but voiced with a brighter, harder-edged character than anything documented earlier in the arc.
 
 **For Drummers Studying Opvs Contra Natvram:**
-The lesson is that gear evolution doesn't have to be gradual. When the production context changes — a new mixing engineer with a different sonic philosophy, in this case Joe Barresi's harder-rock sensibility — matching gear choices to that new context can mean overhauling a setup that had served for multiple albums. Inferno's move from the Signature Dark Energy series to Paiste 2002 Black, and from Pearl Reference Pure to Pearl Masters MCX, reflects exactly that kind of context-driven decision.
+The lesson is that gear evolution doesn't have to be gradual. When the production context changes — a new mixing engineer with a different sonic philosophy, in this case Joe Barresi's harder-rock sensibility — matching gear choices to that new context can mean overhauling a setup that had served for multiple albums. Inferno's move from the Signature Dark Energy series to Paiste 2002 Black, and from Pearl Reference Series to Pearl Masters MCX, reflects exactly that kind of context-driven decision.
 
 For the album that preceded this one in the documented arc, see [I Loved You at Your Darkest](/articles/i-loved-you-at-your-darkest-drum-setup) (2018). For the record most frequently compared against it, see [The Satanist drum setup](/articles/the-satanist-drum-setup) (2014). For Inferno's complete career and gear evolution, visit the [Inferno drummer profile](/drummer/inferno).
 
@@ -70,7 +70,7 @@ As of this writing, *Opvs Contra Natvram* is Behemoth's newest album — the cur
 
 - Behemoth's most recent studio album — closes the documented gear arc through 2022
 - Engineered by Daniel Bergstrand (Meshuggah, In Flames), mixed by Joe Barresi, mastered by Bob Ludwig
-- Pearl Masters MCX custom black kit — a new shell choice distinct from the Reference Pure era
+- Pearl Masters MCX custom black kit — a new shell choice distinct from the Reference Series era
 - Paiste 2002 Black series cymbals paired with a Pork Pie snare — a shift away from the Signature Dark Energy setups of The Satanist and I Loved You at Your Darkest
 - Ten tracks including 'Neo-Spartacvs' and closer 'Versvs Christvs'
 - Pearl Masters MCX custom black — new shell choice for the 2022 album cycle
@@ -84,11 +84,11 @@ As of this writing, *Opvs Contra Natvram* is Behemoth's newest album — the cur
 
 **Q: What is Behemoth's latest album, and what drums does Inferno use on it?**
 
-A: Behemoth's most recent studio album is Opvs Contra Natvram, released September 16, 2022 through Nuclear Blast. Inferno's drum setup for the album is a Pearl Masters MCX kit in a custom black finish, configured with double 22" x 18" bass drums, 10" and 12" rack toms, and 14" and 16" floor toms. This marks a shift from the Pearl Reference Pure kits documented on The Satanist (2014) and I Loved You at Your Darkest (2018). For the drummer's complete career and gear history, see the [Inferno drummer profile](/drummer/inferno).
+A: Behemoth's most recent studio album is Opvs Contra Natvram, released September 16, 2022 through Nuclear Blast. Inferno's drum setup for the album is a Pearl Masters MCX kit in a custom black finish, configured with double 22" x 18" bass drums, 10" and 12" rack toms, and 14" and 16" floor toms. This marks a shift from the Pearl Reference Series kits documented on The Satanist (2014) and I Loved You at Your Darkest (2018). For the drummer's complete career and gear history, see the [Inferno drummer profile](/drummer/inferno).
 
 **Q: How does Inferno's gear on Opvs Contra Natvram differ from The Satanist era?**
 
-A: The gear shifted on nearly every front. On The Satanist (2014), Inferno used a Pearl Reference Pure kit, a Pearl Masterworks snare, and Paiste Signature Dark Energy cymbals. On Opvs Contra Natvram (2022), he moved to a Pearl Masters MCX kit in custom black, a Pork Pie brass snare, and Paiste 2002 Black cymbals — a brighter, harder-edged cymbal voice replacing the darker, more blended Signature Dark Energy setup. The production also changed hands, from the Wiesławski brothers at Hertz Studio to a scattered multi-studio approach mixed by Joe Barresi. See the full comparison at the [The Satanist drum setup](/articles/the-satanist-drum-setup) article.
+A: The gear shifted on nearly every front. On The Satanist (2014), Inferno used a Pearl Reference Series kit, a Pearl Reference Series snare, and Paiste Signature Dark Energy cymbals. On Opvs Contra Natvram (2022), he moved to a Pearl Masters MCX kit in custom black, a Pork Pie brass snare, and Paiste 2002 Black cymbals — a brighter, harder-edged cymbal voice replacing the darker, more blended Signature Dark Energy setup. The production also changed hands, from the Wiesławski brothers at Hertz Studio to a scattered multi-studio approach mixed by Joe Barresi. See the full comparison at the [The Satanist drum setup](/articles/the-satanist-drum-setup) article.
 
 **Q: What is Inferno's tuning approach on Opvs Contra Natvram?**
 
@@ -113,4 +113,4 @@ A: Inferno uses the Paiste 2002 Black series on Opvs Contra Natvram — 14" hi-h
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/nick-augusto"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Nick Augusto — Drum Kit & Gear Setup
@@ -123,7 +123,7 @@ A: Nick Augusto's drum kit centers on a Pearl Reference Pure setup, the configur
 
 **Q: What drum set does Nick Augusto use?**
 
-A: Nick Augusto's drum set pairs his Pearl Reference Pure shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls"; the specific snare model has not been independently verified.
+A: Nick Augusto's drum set pairs his Pearl Reference Pure shells with a DW 9000 Series double pedal and Pearl D-2000 throne, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls"; the specific snare model has not been independently verified.
 
 **Q: What snare does Nick Augusto use?**
 
@@ -135,7 +135,7 @@ A: Nick Augusto's cymbal setup is Sabian AAX Series: 14" Stage Hi-Hats, 18" and 
 
 **Q: What bass drum pedal does Nick Augusto use?**
 
-A: Augusto drives his speed-focused double bass work with a Pearl Demon Drive Double Pedal, mounted alongside a Pearl D-2000 Throne.
+A: Augusto drives his speed-focused double bass work with a DW 9000 Series double pedal, mounted alongside a Pearl D-2000 Throne.
 
 **Q: What sticks does Nick Augusto use?**
 
@@ -195,4 +195,4 @@ Dated brand-endorsement timeline: [Nick Augusto's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

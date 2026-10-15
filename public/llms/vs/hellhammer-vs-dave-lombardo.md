@@ -67,4 +67,4 @@ A: Hellhammer favors relentless, atmosphere-first blast beats built for black me
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

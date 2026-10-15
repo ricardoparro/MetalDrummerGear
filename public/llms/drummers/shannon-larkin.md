@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/shannon-larkin"
 source: "https://metalforge.io"
-last_updated: "2026-10-07"
+last_updated: "2026-10-15"
 ---
 
 # Shannon Larkin — Drum Kit & Gear Setup
@@ -129,11 +129,11 @@ A: Shannon Larkin plays a ddrum Dios Series drum kit — a setup built for the r
 
 **Q: What drum set does Shannon Larkin use?**
 
-A: Shannon Larkin's drum set pairs his ddrum Dios Series shells and maple snare with Sabian AAX and HHX Series cymbals and a DW 9000 Series double pedal, the configuration anchoring Godsmack albums like Faceless, IV, and When Legends Rise.
+A: Shannon Larkin's drum set pairs his ddrum Dios Series shells and maple snare with Sabian AAX Series cymbals and a DW 9000 Series double pedal, the configuration anchoring Godsmack albums like Faceless, IV, and When Legends Rise.
 
 **Q: What cymbals does Shannon Larkin play?**
 
-A: Shannon Larkin plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal.
+A: Shannon Larkin plays Sabian AAX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" AAX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal.
 
 **Q: What hi-hats does Shannon Larkin use?**
 
@@ -193,14 +193,14 @@ Shannon Larkin's snare: ddrum Dios 14x6.5" Maple. See the [snares guide](https:/
 
 ## Cymbal Setup
 
-Shannon Larkin's cymbals: Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese).
+Shannon Larkin's cymbals: Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
 | hi-hat | 14" | AAX | Stage Hi-Hats |
 | crash | 18" | AAX | X-Plosion Crash |
 | crash | 19" | AAX | X-Plosion Crash |
-| ride | 21" | HHX | Raw Bell Dry Ride |
+| ride | 21" | AAX | Raw Bell Dry Ride |
 | splash | 10" | AAX | Splash |
 | china | 18" | AAX | Chinese |
 
@@ -242,4 +242,4 @@ Dated brand-endorsement timeline: [Shannon Larkin's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

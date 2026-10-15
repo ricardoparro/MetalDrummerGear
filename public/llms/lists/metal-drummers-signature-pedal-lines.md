@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers' Signature & Standout Pedal Lines — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-pedal-lines)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-pedal-lines)
 
 ---
 
@@ -41,10 +41,10 @@ Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/
 ### 3. Dave Lombardo
 
 **Band:** Slayer
-**Highlight:** Pearl Demon Drive — thrash's double-bass pioneer's modern direct-drive pedal
-**Why ranked here:** Dave Lombardo, the drummer most credited with popularizing double bass drumming in thrash metal, currently runs the Pearl Demon Drive, whose direct-drive action and NiNjA bearing system deliver the frictionless response needed to sustain the relentless kick patterns behind landmark Slayer recordings like "Reign in Blood." It is an endorsed catalog pedal rather than a bespoke signature model, but the choice carries the same double-bass legacy Lombardo built his entire career on. Lombardo earns rank #3 for an endorsed pedal choice that directly continues the double-bass tradition he pioneered.
+**Highlight:** Thrash's double-bass pioneer — no named signature pedal, but an undisputed legacy
+**Why ranked here:** Dave Lombardo is the drummer most credited with popularizing double bass drumming in thrash metal, powering the relentless kick patterns behind landmark Slayer recordings like "Reign in Blood." MetalForge's verified gear record does not document a specific current pedal model for him, so this entry rounds out the list on the strength of the double-bass tradition itself rather than a named product. Lombardo earns rank #3 for pioneering the technique that every other pedal story on this list ultimately serves.
 
-Dave Lombardo (Slayer) earns rank #3 for: pearl demon drive — thrash's double-bass pioneer's modern direct-drive pedal. Dave Lombardo, the drummer most credited with popularizing double bass drumming in thrash metal, currently runs the Pearl Demon Drive, whose direct-drive action and NiNjA bearing system deliver the frictionless response needed to sustain the relentless kick patterns behind landmark Slayer recordings like "Reign in Blood." It is an endorsed catalog pedal rather than a bespoke signature model, but the choice carries the same double-bass legacy Lombardo built his entire career on. Lombardo earns rank #3 for an endorsed pedal choice that directly continues the double-bass tradition he pioneered..
+Dave Lombardo (Slayer) earns rank #3 for: thrash's double-bass pioneer — no named signature pedal, but an undisputed legacy. Dave Lombardo is the drummer most credited with popularizing double bass drumming in thrash metal, powering the relentless kick patterns behind landmark Slayer recordings like "Reign in Blood." MetalForge's verified gear record does not document a specific current pedal model for him, so this entry rounds out the list on the strength of the double-bass tradition itself rather than a named product. Lombardo earns rank #3 for pioneering the technique that every other pedal story on this list ultimately serves..
 
 Full drummer profile: [Dave Lombardo on MetalForge](https://metalforge.io/drummer/dave-lombardo)
 
@@ -152,4 +152,4 @@ A: Derek Roddy pairs a standard Tama Speed Cobra 910 Double Pedal with his own i
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

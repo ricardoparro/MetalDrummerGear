@@ -1,6 +1,6 @@
 # Top 10 Most Expensive Metal Drum Setups — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-expensive-drum-setups)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-expensive-drum-setups)
 
 ---
 
@@ -94,7 +94,7 @@ Full drummer profile: [Mike Portnoy on MetalForge](https://metalforge.io/drummer
 
 **Band:** Behemoth
 **Highlight:** Est. €7,200+ setup
-**Why ranked here:** Pearl Masterworks + custom Czarcie Kopyto (Devil's Hoof) pedals + Paiste RUDE
+**Why ranked here:** Pearl Reference Series + custom Czarcie Kopyto (Devil's Hoof) pedals + Paiste RUDE
 **Estimated kit value:** €7,200+
 
 Full drummer profile: [Inferno on MetalForge](https://metalforge.io/drummer/inferno)
@@ -135,4 +135,4 @@ A: At that price point, you're paying for custom shell specifications, exotic wo
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

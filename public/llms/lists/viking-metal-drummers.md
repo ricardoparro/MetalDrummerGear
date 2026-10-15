@@ -1,6 +1,6 @@
 # Top 10 Viking Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/viking-metal-drummers)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/viking-metal-drummers)
 
 ---
 
@@ -130,7 +130,7 @@ A: Amon Amarth is Viking metal's biggest and most commercially successful band, 
 A: Viking metal drumming combines black metal's blast beats and raw aggression with melodic death metal's technical precision, deployed in service of anthemic, mid-tempo songwriting built for mass singalongs rather than pure extremity. Where black metal drumming sustains blast beat intensity as an end in itself, Viking metal drumming uses blast beats and double bass patterns to build scale and atmosphere behind Norse-mythology lyrics and folk-melodic hooks — epic grandeur over relentless speed.
 
 **Q: What gear do Viking metal drummers use?**
-A: Jocke Wallgren's Pearl Reference Pure kit with Zildjian A Custom and K Custom cymbals delivers the powerful low end and cutting attack Amon Amarth's Viking-themed anthems need at arena scale. Hellhammer's Pearl Masters Premium kit with dark-voiced Meinl Byzance cymbals gives Mayhem's black metal foundation its raw, atmospheric edge. Daniel Erlandsson's Pearl kit with Sabian AAX/HHX cymbals favors bright, cutting definition that keeps Arch Enemy's melodic riffing audible through dense, fast arrangements — a shared preference across the Scandinavian scene for gear that projects clearly at both blast beat speed and anthemic mid-tempo volume.
+A: Jocke Wallgren's Pearl Reference Pure kit with Zildjian A Custom and K Custom cymbals delivers the powerful low end and cutting attack Amon Amarth's Viking-themed anthems need at arena scale. Hellhammer's Sonor SQ2 Heavy Beech kit with Paiste RUDE cymbals gives Mayhem's black metal foundation its raw, atmospheric edge. Daniel Erlandsson's Pearl kit with Sabian AAX/HHX cymbals favors bright, cutting definition that keeps Arch Enemy's melodic riffing audible through dense, fast arrangements — a shared preference across the Scandinavian scene for gear that projects clearly at both blast beat speed and anthemic mid-tempo volume.
 
 
 ---
@@ -150,4 +150,4 @@ A: Jocke Wallgren's Pearl Reference Pure kit with Zildjian A Custom and K Custom
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

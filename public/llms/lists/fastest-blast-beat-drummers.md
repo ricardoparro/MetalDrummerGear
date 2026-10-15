@@ -1,6 +1,6 @@
 # Top 10 Fastest Blast Beat Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-blast-beat-drummers)
+> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-blast-beat-drummers)
 
 ---
 
@@ -22,9 +22,9 @@ Ranked by documented performance records, genre-defining influence, and technica
 
 **Band:** Morbid Angel
 **Highlight:** Pioneer and perfecter of the "hyper blast"
-**Why ranked here:** Pete Sandoval is credited with pioneering and perfecting the hyper blast, an even faster variant of the traditional blast beat, across Morbid Angel's "Altars of Madness" (1989), "Blessed Are the Sick" (1991), and "Covenant" (1993) — three albums MetalForge's own blast-beat technique guide cites as setting the standard for death metal drumming speed. His ddrum Dios Series all-metal-shell kit was built specifically to survive the extreme velocities his gravity blasts and blast beats demand across more than three decades of death metal drumming. Sandoval earns rank #1 as the technique's founding figure and the drummer every other name on this list builds from.
+**Why ranked here:** Pete Sandoval is credited with pioneering and perfecting the hyper blast, an even faster variant of the traditional blast beat, across Morbid Angel's "Altars of Madness" (1989), "Blessed Are the Sick" (1991), and "Covenant" (1993) — three albums MetalForge's own blast-beat technique guide cites as setting the standard for death metal drumming speed. His ddrum kit, model unconfirmed, was built to survive the extreme velocities his gravity blasts and blast beats demand across more than three decades of death metal drumming. Sandoval earns rank #1 as the technique's founding figure and the drummer every other name on this list builds from.
 
-Pete Sandoval (Morbid Angel) earns rank #1 for: pioneer and perfecter of the "hyper blast". Pete Sandoval is credited with pioneering and perfecting the hyper blast, an even faster variant of the traditional blast beat, across Morbid Angel's "Altars of Madness" (1989), "Blessed Are the Sick" (1991), and "Covenant" (1993) — three albums MetalForge's own blast-beat technique guide cites as setting the standard for death metal drumming speed. His ddrum Dios Series all-metal-shell kit was built specifically to survive the extreme velocities his gravity blasts and blast beats demand across more than three decades of death metal drumming. Sandoval earns rank #1 as the technique's founding figure and the drummer every other name on this list builds from..
+Pete Sandoval (Morbid Angel) earns rank #1 for: pioneer and perfecter of the "hyper blast". Pete Sandoval is credited with pioneering and perfecting the hyper blast, an even faster variant of the traditional blast beat, across Morbid Angel's "Altars of Madness" (1989), "Blessed Are the Sick" (1991), and "Covenant" (1993) — three albums MetalForge's own blast-beat technique guide cites as setting the standard for death metal drumming speed. His ddrum kit, model unconfirmed, was built to survive the extreme velocities his gravity blasts and blast beats demand across more than three decades of death metal drumming. Sandoval earns rank #1 as the technique's founding figure and the drummer every other name on this list builds from..
 
 Full drummer profile: [Pete Sandoval on MetalForge](https://metalforge.io/drummer/pete-sandoval)
 
@@ -152,4 +152,4 @@ A: Death metal (Pete Sandoval, George Kollias, Flo Mounier, Gene Hoglan, Kevin T
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

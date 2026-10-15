@@ -38,4 +38,4 @@ A: Abe Cunningham plays a Tama Iron Cobra 900 Rolling Glide double pedal (chain-
 
 ---
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

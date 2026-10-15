@@ -67,4 +67,4 @@ A: Kevin Talley plays a Pearl Masters Custom / Reference Series kit with a 14x6.
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

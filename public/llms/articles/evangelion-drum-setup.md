@@ -1,6 +1,6 @@
 # Evangelion — Behemoth Drum Setup (Inferno, 2009)
 
-> Inferno's most technically demanding pre-Satanist performance: Pearl Reference Pure, Paiste Signature Dark Energy cymbals, sub-200ms blast beats across Evangelion's suffocating blackened death arrangements.
+> Inferno's most technically demanding pre-Satanist performance: Pearl Reference Series, Paiste Signature Dark Energy cymbals, sub-200ms blast beats across Evangelion's suffocating blackened death arrangements.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Inferno](/llms/drummers/inferno.md)
@@ -16,21 +16,21 @@
 
 At the rhythmic center of *Evangelion*'s devastating engine is Inferno — Zbigniew Robert Promiński — delivering what many regard as his most technically demanding studio performance to that point in Behemoth's career. The album's tempos push consistently into 200–240 BPM territory, and Inferno's blast beat work across tracks like "Ov Fire and the Void" and "Shemhamforash" set a benchmark for sustained velocity without sacrificing musical coherence.
 
-The setup Inferno deployed on *Evangelion* is a compact configuration of the same Pearl Reference Pure platform he would use on *The Satanist* (2014), optimized here for blast beat velocity and percussive impact — a leaner approach than the broader tonal palette *The Satanist*'s groove-heavier arrangements would require five years later. The Paiste Signature Dark Energy cymbal series, chosen for its dry, controlled character, complemented his high-speed playing by delivering fast cymbal response without excessive wash that would obscure the kick-snare interplay during sustained blasts.
+The setup Inferno deployed on *Evangelion* is a compact configuration of the same Pearl Reference Series platform he would use on *The Satanist* (2014), optimized here for blast beat velocity and percussive impact — a leaner approach than the broader tonal palette *The Satanist*'s groove-heavier arrangements would require five years later. The Paiste Signature Dark Energy cymbal series, chosen for its dry, controlled character, complemented his high-speed playing by delivering fast cymbal response without excessive wash that would obscure the kick-snare interplay during sustained blasts.
 
 This article breaks down every piece of gear Inferno used on *Evangelion*, the techniques that defined this chapter of his career, and why this album stands as the essential document of his pre-*Satanist* drumming evolution.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Pure (Custom (studio configuration) finish)
+- **Drums:** Pearl Pearl Reference Series (Custom (studio configuration) finish)
 - **Snare:** Pearl Pearl Reference Steel Snare, 14" x 6"
 - **Cymbals:** Paiste — Paiste Signature Dark Energy
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for attack and fast decay at blast beat tempos
 
-### Inferno's Pearl Reference Pure: Evangelion Configuration
+### Inferno's Pearl Reference Series: Evangelion Configuration
 
-For *Evangelion*, Inferno's Pearl Reference Pure configuration was built around one primary requirement: maximum efficiency at extreme blast beat tempos. The all-maple shell construction delivers a warm, focused fundamental — essential in the studio environment at Hertz, where the Wiesławski brothers' recording approach rewards tonal definition over raw volume projection.
+For *Evangelion*, Inferno's Pearl Reference Series configuration was built around one primary requirement: maximum efficiency at extreme blast beat tempos. The all-maple shell construction delivers a warm, focused fundamental — essential in the studio environment at Hertz, where the Wiesławski brothers' recording approach rewards tonal definition over raw volume projection.
 
 The double 22" kick drum setup maintained the extreme metal standard. Two independent bass drums, rather than a double pedal on a single drum, gave Inferno full mechanical independence on each foot — critical at the 200–240 BPM passages that dominate *Evangelion*'s most intense sections. His double pedal setup's mechanical precision meant that even during extended blast sequences, each stroke's attack remained consistent and clearly articulated in the Hertz Studio environment.
 
@@ -58,7 +58,7 @@ The 14" Dark hi-hats were central to Inferno's blast beat technique on this albu
 
 The *Evangelion* album cycle would take a sobering turn in 2010 when Nergal was diagnosed with leukemia during the supporting tour. The diagnosis halted Behemoth's activities and placed the band's future in uncertainty. Nergal's recovery drove the creation of *The Satanist* — an album whose emotional gravity and compositional ambition reflect its extraordinary context. *Evangelion*, in retrospect, marks the boundary between two eras: the relentless forward assault of the pre-cancer Behemoth and the more considered, dynamically sophisticated work that followed.
 
-For drummers studying Inferno's career, the comparison between *Evangelion* and *The Satanist* is instructive beyond the gear differences. On *Evangelion*, the Pearl Reference Pure / Paiste Signature Dark Energy combination — paired with a double pedal setup — was optimized for a single primary objective: maximum velocity at maximum precision. On *The Satanist*, Inferno's approach broadened — the setup, the cymbal voicing, and the performance itself all reflect an artist deploying the full range of his musicianship, not just its most extreme technical edge.
+For drummers studying Inferno's career, the comparison between *Evangelion* and *The Satanist* is instructive beyond the gear differences. On *Evangelion*, the Pearl Reference Series / Paiste Signature Dark Energy combination — paired with a double pedal setup — was optimized for a single primary objective: maximum velocity at maximum precision. On *The Satanist*, Inferno's approach broadened — the setup, the cymbal voicing, and the performance itself all reflect an artist deploying the full range of his musicianship, not just its most extreme technical edge.
 
 Both approaches are valid. Both produce exceptional recordings. Understanding *Evangelion* — the Billboard 200 charting, the Hertz Studio sessions, the Wiesławski production, the blast beat architecture of "Ov Fire and the Void" and "Shemhamforash" — is prerequisite knowledge for any serious study of how Inferno's drumming evolved across Behemoth's career.
 
@@ -67,28 +67,28 @@ For the complete picture of Inferno's gear across Behemoth's career, visit the [
 ## Key Facts
 
 - Recorded at Hertz Studio, Białystok — Behemoth's long-time studio home with the Wiesławski brothers
-- Pearl Reference Pure — compact configuration optimized for blast beat velocity
+- Pearl Reference Series — compact configuration optimized for blast beat velocity
 - Paiste Signature Dark Energy cymbals — dry, controlled response at extreme tempos
 - A double pedal setup for mechanical precision at 200–240 BPM (specific brand unverified for this era)
 - Charted #153 on Billboard 200 — landmark crossover for extreme blackened death metal
 - Pivotal transitional album: Behemoth's first fully realized blackened death metal statement
-- Maple/birch hybrid Reference Pure construction for studio warmth and tonal definition
+- Maple/birch hybrid Reference Series construction for studio warmth and tonal definition
 - Double 22" kick drums for independent control at extreme blast tempos
 - Compact tom configuration matched to Evangelion's relentless forward momentum
 - Tighter setup than The Satanist configuration — optimized for velocity over tonal breadth
 - Engineered at Hertz Studio by Wojtek and Sławek Wiesławski
-- Estimated kit value: $3,000–5,000 (Pearl Reference Pure professional configuration)
+- Estimated kit value: $3,000–5,000 (Pearl Reference Series professional configuration)
 - Estimated snare value: $300–500 (Pearl steel snare)
 
 ## Frequently Asked Questions
 
 **Q: What drums does Inferno use on Evangelion?**
 
-A: Inferno used a Pearl Reference Pure kit on Evangelion (2009), configured with double 22" kick drums, a compact rack tom spread, and a 14" Pearl steel snare. The setup was optimized for blast beat velocity — a tighter, more focused configuration than the expanded kits often used in live performance contexts. The all-maple shell construction delivered warmth and tonal definition in the Hertz Studio recording environment. For Inferno's current live kit, see the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit).
+A: Inferno used a Pearl Reference Series kit on Evangelion (2009), configured with double 22" kick drums, a compact rack tom spread, and a 14" Pearl steel snare. The setup was optimized for blast beat velocity — a tighter, more focused configuration than the expanded kits often used in live performance contexts. The all-maple shell construction delivered warmth and tonal definition in the Hertz Studio recording environment. For Inferno's current live kit, see the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit).
 
 **Q: How is Inferno drum setup different on Evangelion vs The Satanist?**
 
-A: On Evangelion (2009), Inferno used a tighter Pearl Reference Pure configuration with Paiste Signature Dark Energy cymbals, optimized for the album's extreme blast beat velocity at 200–240 BPM. On The Satanist (2014), he retained the Pearl Reference Pure platform but paired it with a Pearl Masterworks snare and Paiste Signature Dark Energy cymbals, and the broader cymbal voicing matched the later album's more dynamic, groove-driven arrangements. The Satanist's drumming is less about raw blast speed and more about compositional power — a reflection of how Behemoth's songwriting evolved between the two records. See the full [The Satanist drum setup breakdown](/articles/the-satanist-drum-setup) for the detailed comparison.
+A: On Evangelion (2009), Inferno used a tighter Pearl Reference Series configuration with Paiste Signature Dark Energy cymbals, optimized for the album's extreme blast beat velocity at 200–240 BPM. On The Satanist (2014), he retained the Pearl Reference Series platform but paired it with a Pearl Reference Series snare and Paiste Signature Dark Energy cymbals, and the broader cymbal voicing matched the later album's more dynamic, groove-driven arrangements. The Satanist's drumming is less about raw blast speed and more about compositional power — a reflection of how Behemoth's songwriting evolved between the two records. See the full [The Satanist drum setup breakdown](/articles/the-satanist-drum-setup) for the detailed comparison.
 
 **Q: How fast does Inferno play blast beats on Evangelion?**
 
@@ -118,4 +118,4 @@ A: Inferno used a double pedal setup during the Evangelion era; the specific bra
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

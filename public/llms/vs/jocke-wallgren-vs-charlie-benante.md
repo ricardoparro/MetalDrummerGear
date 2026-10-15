@@ -34,7 +34,7 @@ Benante built his reputation on fast, syncopated skank beats fused with hardcore
 
 ## Key Differences
 
-Charlie Benante plays a Tama Starclassic kit with a Tama Charlie Benante Signature 14x6.5" snare and Paiste RUDE & 2002 Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China), driven by a Tama Speed Cobra double pedal with Roland electronics and Vic Firth Charlie Benante Signature sticks. Jocke Wallgren plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Benante built his reputation on fast, syncopated skank beats fused with hardcore punk energy, aggressive double bass, and a rhythmic vocabulary that helped define East Coast thrash and crossover thrash alongside bands like S.O.D. Wallgren's technique centers on locking a driving double bass pulse to Amon Amarth's riff-driven arrangements, delivering powerful snare backbeats and dynamic mid-section restraint that serve melodic death metal's anthemic, groove-first songwriting rather than thrash metal's stop-start aggression.
+Charlie Benante plays a Tama Starclassic kit with a Tama Charlie Benante Signature 14x6.5" snare and Paiste RUDE & 2002 Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China), driven by a Tama Speed Cobra double pedal with Roland electronics and Vic Firth Charlie Benante Signature sticks. Jocke Wallgren plays a Pearl Reference Pure kit (the specific snare model has not been independently verified) and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Benante built his reputation on fast, syncopated skank beats fused with hardcore punk energy, aggressive double bass, and a rhythmic vocabulary that helped define East Coast thrash and crossover thrash alongside bands like S.O.D. Wallgren's technique centers on locking a driving double bass pulse to Amon Amarth's riff-driven arrangements, delivering powerful snare backbeats and dynamic mid-section restraint that serve melodic death metal's anthemic, groove-first songwriting rather than thrash metal's stop-start aggression.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Jocke Wallgren and Charlie Benante embody two distinct heavy metal drumming trad
 A: They represent two different heavy metal drumming traditions. Charlie Benante is a founding thrash metal architect who helped popularize blast beats with Anthrax starting in 1983. Jocke Wallgren is a modern melodic death metal drummer who has anchored Amon Amarth's Viking metal groove since 2016. Benante's style is syncopated and aggressive; Wallgren's is anthemic and groove-driven.
 
 **Q: What gear does Charlie Benante use vs Jocke Wallgren?**
-A: Charlie Benante plays a Tama Starclassic kit with a Tama Charlie Benante Signature snare and Paiste RUDE & 2002 Series cymbals. Jocke Wallgren plays a Pearl Reference Pure kit with a Pearl Reference Brass snare and Zildjian A Custom & K Custom Series cymbals.
+A: Charlie Benante plays a Tama Starclassic kit with a Tama Charlie Benante Signature snare and Paiste RUDE & 2002 Series cymbals. Jocke Wallgren plays a Pearl Reference Pure kit (the specific snare model has not been independently verified) and Zildjian A Custom & K Custom Series cymbals.
 
 **Q: Did Amon Amarth's Jomsviking chart well on the Billboard 200?**
 A: Yes — "Jomsviking" (2016), Jocke Wallgren's first album as Amon Amarth's drummer, debuted at No. 19 on the Billboard 200, cracking the U.S. Top 20 and marking one of the band's strongest chart performances.
@@ -67,4 +67,4 @@ A: Beyond his drum work on all 11 Anthrax studio albums, Charlie Benante is Anth
 
 ---
 
-*Last updated: 2026-10-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*

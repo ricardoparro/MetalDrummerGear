@@ -9123,7 +9123,7 @@ This guide breaks down the technique, gear, and practice approach that built one
     readingTime: '11 min',
     intro: {
       title: "The Engine Behind Finland's Metal Champions",
-      content: `Jaska Raatikainen (born July 18, 1979, in Espoo, Finland) was the drummer and co-founder of Children of Bodom — one of the most technically accomplished melodic death metal bands in history. From the band's formation in 1993 through their dissolution in 2019, Raatikainen was the rhythmic backbone behind landmark albums like "Follow the Reaper," "Hate Crew Deathroll," and "Blooddrunk" that defined Finnish melodic death metal and influenced a generation of drummers worldwide.
+      content: `Jaska Raatikainen (born July 18, 1979, in Lappeenranta, Finland) was the drummer and co-founder of Children of Bodom — one of the most technically accomplished melodic death metal bands in history. From the band's formation in 1993 through their dissolution in 2019, Raatikainen was the rhythmic backbone behind landmark albums like "Follow the Reaper," "Hate Crew Deathroll," and "Blooddrunk" that defined Finnish melodic death metal and influenced a generation of drummers worldwide.
 
 What distinguishes Raatikainen from pure extreme metal drummers is his deep musicality within a demanding technical context. Children of Bodom's music required a drummer who could synchronize precisely with Alexi Laiho's neoclassical guitar runs, support complex keyboard harmonies, and execute death metal blast beats — all within compositions that demanded every element serve the overall musical picture rather than any individual part.
 

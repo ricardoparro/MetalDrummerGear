@@ -30,9 +30,9 @@ Full drummer profile: [Tomas Haake on MetalForge](https://metalforge.io/drummer/
 
 **Band:** Periphery
 **Highlight:** Periphery's djent flagship
-**Why ranked here:** Matt Halpern has driven djent's most commercially successful band, Periphery, since 2005, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience
+**Why ranked here:** Matt Halpern has driven djent's most commercially successful band, Periphery, since 2009, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience
 
-Matt Halpern (Periphery) earns rank #2 for: periphery's djent flagship. Matt Halpern has driven djent's most commercially successful band, Periphery, since 2005, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience.
+Matt Halpern (Periphery) earns rank #2 for: periphery's djent flagship. Matt Halpern has driven djent's most commercially successful band, Periphery, since 2009, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience.
 
 Full drummer profile: [Matt Halpern on MetalForge](https://metalforge.io/drummer/matt-halpern)
 

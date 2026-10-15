@@ -31,7 +31,7 @@
 
 - **2019** — [Lamb of God](https://metalforge.io/bands/lamb-of-god): Chris Adler → Art Cruz — Filled in on tour in 2018-2019 before becoming the permanent drummer in July 2019; drummer on the self-titled 2020 album and Omens (2022)
 - **2019** — [Hellyeah](https://metalforge.io/bands/hellyeah): Vinnie Paul → Roy Mayorga — Joined as touring/live drummer after Vinnie Paul's death; did not record studio drum tracks on any Hellyeah album; band went on hiatus circa 2021
-- **2018** — [Hate Eternal](https://metalforge.io/bands/hate-eternal): Hannes Grossmann → John Longstreth — Also of Origin; Wikipedia lists him as a touring/live member rather than an official member. No studio album has been recorded during his tenure; the band's current activity level is unconfirmed
+- **2018** — [Hate Eternal](https://metalforge.io/bands/hate-eternal): Hannes Grossmann → John Longstreth — Also of Origin; filled in on drums for Hate Eternal's November 2018 US tour, replacing Hannes Grossmann for that tour only. A one-off touring appearance, not an ongoing or official membership; no studio album was recorded
 - **2017** — [Morbid Angel](https://metalforge.io/bands/morbid-angel): Tim Yeung → Scott Fuller — Recorded Kingdoms Disdained
 - **2016** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): Thomas Pridgen → Dave Lombardo — Former Slayer drummer
 - **2016** — [Megadeth](https://metalforge.io/bands/megadeth): Chris Adler → Dirk Verbeuren — Former Soilwork drummer; took over touring duties in 2016 and was made permanent

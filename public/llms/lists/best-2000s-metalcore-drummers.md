@@ -59,10 +59,10 @@ Full drummer profile: [Blake Richardson on MetalForge](https://metalforge.io/dru
 ### 5. Matt Halpern
 
 **Band:** Periphery
-**Highlight:** Closing out the decade as a founding djent-metalcore architect
-**Why ranked here:** Matt Halpern co-founded Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for founding one of the decade's last — and most influential — metalcore-adjacent acts.
+**Highlight:** Closing out the decade as a djent-metalcore technical architect
+**Why ranked here:** Matt Halpern joined Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for joining one of the decade's last — and most influential — metalcore-adjacent acts.
 
-Matt Halpern (Periphery) earns rank #5 for: closing out the decade as a founding djent-metalcore architect. Matt Halpern co-founded Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for founding one of the decade's last — and most influential — metalcore-adjacent acts..
+Matt Halpern (Periphery) earns rank #5 for: closing out the decade as a djent-metalcore technical architect. Matt Halpern joined Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for joining one of the decade's last — and most influential — metalcore-adjacent acts..
 
 Full drummer profile: [Matt Halpern on MetalForge](https://metalforge.io/drummer/matt-halpern)
 
@@ -128,7 +128,7 @@ A: 2000s metalcore emerged directly from the fusion of hardcore punk aggression 
 A: August Burns Red, Converge, Shadows Fall, Between the Buried and Me, Killswitch Engage, Trivium, and Darkest Hour are among the most frequently cited bands that defined metalcore's 2000s wave, alongside crossover-adjacent acts like Lamb of God and Fear Factory whose 2000s output shaped the surrounding scene. Periphery and Kublai Khan TX, both founded in 2009, mark the transition point between the decade's established metalcore sound and what came after.
 
 **Q: How did 2000s metalcore influence the genre's next decade?**
-A: Several drummers who built their reputations in the 2000s carried metalcore's technical, double-bass-driven vocabulary directly into the 2010s — Nick Augusto joined Trivium in 2010 after working as the band's drum technician during the decade's final years, and Matt Halpern co-founded Periphery in 2009, fusing 2000s metalcore technicality with djent's polymetric influence to help define the genre's next chapter.
+A: Several drummers who built their reputations in the 2000s carried metalcore's technical, double-bass-driven vocabulary directly into the 2010s — Nick Augusto joined Trivium in 2010 after working as the band's drum technician during the decade's final years, and Matt Halpern joined Periphery in 2009, fusing 2000s metalcore technicality with djent's polymetric influence to help define the genre's next chapter.
 
 
 ---

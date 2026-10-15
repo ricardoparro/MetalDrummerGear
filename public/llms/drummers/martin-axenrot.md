@@ -84,7 +84,7 @@ Martin Axenrot's drumming style combines the technical, dynamic vocabulary Opeth
 
 ## Band History
 
-- **Opeth** — 2006–present (current)
+- **Opeth** — 2006–2021
 - **Bloodbath** — 2008–present (current)
 - **Witchery** — 1997–2010
 

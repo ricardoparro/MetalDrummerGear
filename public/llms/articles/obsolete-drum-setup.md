@@ -69,7 +69,7 @@ The gear remained consistent:
 - **Zildjian Z Custom**: Brightness projecting above the processed industrial guitar mix, china cymbal prominent in the album's most intense passages
 - **Pro-Mark 5A Oak Nylon Tip**: Dense oak shaft and bright nylon tip consistent across the *Obsolete* recording and touring cycle
 
-For drummers studying the Fear Factory catalog, *Obsolete* is the ideal entry point for understanding how a triggered hybrid kit sounds in a polished studio context. Compare it to *Demanufacture*'s rawer production to understand how the same gear sounds under two different production philosophies — and compare it to *Digimortal* to see where the setup evolved in Fear Factory's final Herrera album.
+For drummers studying the Fear Factory catalog, *Obsolete* is the ideal entry point for understanding how a triggered hybrid kit sounds in a polished studio context. Compare it to *Demanufacture*'s rawer production to understand how the same gear sounds under two different production philosophies — and compare it to *Digimortal* to see where the setup evolved in the closing album of Herrera's unbroken 1995-2001 Fear Factory run.
 
 For deeper exploration:
 - **Full drummer profile**: [Raymond Herrera at MetalForge](/drummer/raymond-herrera)

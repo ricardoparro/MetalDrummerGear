@@ -5,7 +5,7 @@
 
 ## Band Overview
 
-- **Drummer:** John Longstreth (2018-present)
+- **Drummer:** John Longstreth (2018 (touring fill-in))
 - **Genre:** Death Metal
 - **Status:** Hiatus
 - **Formed:** 1997
@@ -22,7 +22,7 @@ Hate Eternal, formed in 1997 in St. Petersburg, Florida, by guitarist/vocalist E
 - **Jade Simonetto** — 2007-2013 (Confirmed as permanent member July 2007; recorded Fury & Flames (2008) and Phoenix Amongst the Ashes (2011))
 - **Chason Westmoreland** — 2014-2015 (Recorded Infernus (2015), his only album with the band)
 - **Hannes Grossmann** — 2015-2018 (Ex-Obscura; initially recruited as a touring fill-in, stayed on to record Upon Desolate Sands (2018))
-- **John Longstreth** — 2018-present (Also of Origin; Wikipedia lists him as a touring/live member rather than an official member. No studio album has been recorded during his tenure; the band's current activity level is unconfirmed)
+- **John Longstreth** — 2018 (touring fill-in) (Also of Origin; filled in on drums for Hate Eternal's November 2018 US tour, replacing Hannes Grossmann for that tour only. A one-off touring appearance, not an ongoing or official membership; no studio album was recorded)
 
 [John Longstreth full profile →](https://metalforge.io/drummer/john-longstreth) · [LLM markdown](https://metalforge.io/llms/drummers/john-longstreth.md)
 
@@ -59,7 +59,7 @@ Hate Eternal, formed in 1997 in St. Petersburg, Florida, by guitarist/vocalist E
 ## FAQ
 
 **Q: Who is the drummer for Hate Eternal?**
-A: John Longstreth (also of Origin) has served as the band's touring/live drummer since 2018, but is not classified as an official member and no studio album has been recorded during his tenure.
+A: John Longstreth (also of Origin) filled in on drums for Hate Eternal's November 2018 US tour, replacing Hannes Grossmann; this was a one-off touring appearance, not an ongoing or official membership.
 
 **Q: Did Derek Roddy drum on Hate Eternal's debut album?**
 A: No, this is a common misconception. Conquering the Throne (1999) was recorded by founding drummer Tim Yeung. Roddy joined in 2000, after the album was already out, and only toured on that material before recording King of All Kings (2002) and I, Monarch (2005).

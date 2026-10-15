@@ -2850,13 +2850,13 @@ const drummers = [
     name: 'Aquiles Priester',
     band: 'Angra / W.A.S.P.',
     bands: [
-      { name: 'Angra', period: '2000–2012', current: false },
-      { name: 'W.A.S.P.', period: '2014–2021', current: false }
+      { name: 'Angra', period: '2001–2008', current: false },
+      { name: 'W.A.S.P.', period: '2017–present', current: true }
     ],
     genre: 'Power Metal / Heavy Metal',
     country: 'Brazil',
     image: '/images/drummers/aquiles-priester.webp',
-    bio: 'Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2000-2012, 2023-present), W.A.S.P. (2006-present), and his own project Hangar. Priester\'s double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.',
+    bio: 'Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2001-2008, 2023-present), W.A.S.P. (2017-present), and his own project Hangar. Priester\'s double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.',
     kitOverview: 'Aquiles Priester plays a Mapex Saturn Evolution All Maple signature kit — a dense maple shell pack chosen for the powerful low end and quick rebound that support his trademark blend of blistering speed and razor-sharp precision.\n\nA Paiste custom red-coated cymbal set, including an 18" Psychoctopus Giga Bell Ride, shapes the sound of the Aquiles Priester drum kit, giving his rapid single- and double-stroke fills a bright, cutting edge that stays audible through Angra\'s dense progressive power metal arrangements. A DW 9000 Series double pedal delivers the sustained, high-speed double-bass patterns that have made Priester one of the most celebrated technical drummers to emerge from Brazil\'s metal scene.\n\nHis ProMark Aquiles Priester Signature sticks, paired with Remo coated Ambassador / Powerstroke 3 heads, complete the Aquiles Priester drum set — a setup that has carried him through his work with Angra, W.A.S.P., and his own project, Hangar.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Aquiles_Priester',

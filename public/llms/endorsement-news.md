@@ -501,7 +501,7 @@ Charlie Benante steps in to fill the legendary drum throne left by the late Vinn
 **Source:** Pantera reunion announcement
 **Profile:** https://metalforge.io/drummer/charlie-benante
 
-### Alex Bent Joins Trivium — 2016-07-15 [medium impact]
+### Alex Bent Joins Trivium — 2017-01-15 [medium impact]
 
 After several drummer changes, Trivium finds stability with Alex Bent. He brings his Tama Starclassic Maple setup and Zildjian cymbals to the band.
 

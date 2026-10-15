@@ -36,24 +36,21 @@ His ProMark Aquiles Priester Signature sticks, paired with Remo coated Ambassado
 
 ## Biography
 
-Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2000-2012, 2023-present), W.A.S.P. (2006-present), and his own project Hangar. Priester's double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.
+Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2001-2008, 2023-present), W.A.S.P. (2017-present), and his own project Hangar. Priester's double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.
 
-Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2000-2012, returning 2023), American heavy metal band W.A.S.P. (2006-present), and his own band Hangar.
+Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2001-2008, returning 2023), American heavy metal band W.A.S.P. (2017-present), and his own band Hangar.
 
 Priester is considered one of the greatest power metal drummers in the world. His double bass abilities, complex fills, and capacity to maintain blazing speeds for extended periods have earned him numerous awards from Brazilian and international music publications. His energetic live performances and precise studio work have influenced a generation of metal drummers.
 
 ## Career Highlights
 
 - **1996** — Founded Hangar, Brazilian power metal band
-- **2000** — Joined Angra, replacing Ricardo Confessori
+- **2001** — Joined Angra, replacing Ricardo Confessori
 - **2001** — Recorded "Rebirth" with Angra, a power metal landmark
 - **2004** — Released "Temple of Shadows" with Angra, critically acclaimed
-- **2006** — Joined W.A.S.P. as touring and studio drummer
-- **2007** — Released "Aurora Consurgens" with Angra
-- **2009** — Released "Babylon" with W.A.S.P.
-- **2010** — Released "Aqua" with Angra
-- **2012** — Left Angra; continued with W.A.S.P. and Hangar
-- **2015** — Released "Golgotha" with W.A.S.P.
+- **2006** — Released "Aurora Consurgens" with Angra
+- **2008** — Left Angra; continued with Hangar
+- **2017** — Joined W.A.S.P. as touring drummer
 - **2023** — Returned to Angra for their latest album cycle
 
 ## Style & Influences
@@ -79,24 +76,20 @@ Aquiles Priester's drumming style combines extreme speed with musicality and sho
 
 - **Angra - Rebirth** (2001, Steamhammer) — Power metal renaissance
 - **Angra - Temple of Shadows** (2004, Steamhammer) — Concept album masterpiece
-- **Angra - Aurora Consurgens** (2006, Steamhammer) — Continued excellence
-- **Angra - Aqua** (2010, Steamhammer) — Final album before departure
-- **W.A.S.P. - Dominator** (2007, Demolition) — First W.A.S.P. album
-- **W.A.S.P. - Babylon** (2009, Demolition) — Concept album
-- **W.A.S.P. - Golgotha** (2015, Napalm) — Critical acclaim
+- **Angra - Aurora Consurgens** (2006, Steamhammer) — Final album before departure
 - **Hangar - Various albums** (1996-Present, Various) — Founding band
 
 **Tours:**
 
-- **Angra World Tours** (2000-2012) — Global touring with Angra
-- **W.A.S.P. Tours** (2006-Present) — Ongoing with Blackie Lawless
+- **Angra World Tours** (2001-2008) — Global touring with Angra
+- **W.A.S.P. Tours** (2017-Present) — Ongoing with Blackie Lawless
 - **South American Festival Circuit** (Ongoing) — Regular festival appearances
 - **European Metal Festivals** (Multiple years) — Wacken, Masters of Rock, etc.
 
 ## Band History
 
-- **Angra** — 2000–2012
-- **W.A.S.P.** — 2014–2021
+- **Angra** — 2001–2008
+- **W.A.S.P.** — 2017–present (current)
 
 ## Gear
 
@@ -147,7 +140,7 @@ A: Aquiles Priester uses a DW 9000 Series double bass drum pedal, mounted alongs
 
 **Q: What band is Aquiles Priester in?**
 
-A: Aquiles Priester is best known for his work with Angra (2000-2012, 2023-present) and W.A.S.P. (2006-present), along with his own project Hangar.
+A: Aquiles Priester is best known for his work with Angra (2001-2008, 2023-present) and W.A.S.P. (2017-present), along with his own project Hangar.
 
 **Q: What drumsticks does Aquiles Priester use?**
 

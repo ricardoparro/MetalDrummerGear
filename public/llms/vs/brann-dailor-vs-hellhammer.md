@@ -21,7 +21,7 @@ Mastodon's Brann Dailor vs Mayhem's Hellhammer. Melodic, songful progressive slu
 - **Drums:** Sonor SQ2 Heavy Beech
 - **Cymbals:** Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)
 - **Snare:** Sonor SQ2 14x5.5" Maple
-- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne, Roland Electronics
+- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Playing Style

@@ -9,7 +9,7 @@
 
 ## Overview
 
-Jaska Raatikainen is the drummer for Children of Bodom, whose kit endorsement traced a Pearl → Tama → Pearl arc across the band's career: an early Pearl relationship on "Something Wild" (1997), a switch to Tama Starclassic for "Hatebreeder" (1999) that carried through "Follow the Reaper" and "Hate Crew Deathroll," and a return to Pearl in 2004 on the Masters Premium Maple kit that remained his platform through the band's 2019 dissolution, paired throughout with Zildjian cymbals. Born July 18, 1979, in Espoo, Finland, Raatikainen co-founded the band alongside the late Alexi Laiho in 1993 — originally performing as Inearthed before adopting the Children of Bodom name in 1997. Together they created one of Finnish metal's most distinctive sounds: neoclassical melodies fused with aggressive death metal, built on a foundation of precise drumming that balanced explosive blast beats with compositionally aware melodic fills.
+Jaska Raatikainen is the drummer for Children of Bodom, whose kit endorsement traced a Pearl → Tama → Pearl arc across the band's career: an early Pearl relationship on "Something Wild" (1997), a switch to Tama Starclassic for "Hatebreeder" (1999) that carried through "Follow the Reaper" and "Hate Crew Deathroll," and a return to Pearl in 2004 on the Masters Premium Maple kit that remained his platform through the band's 2019 dissolution, paired throughout with Zildjian cymbals. Born July 18, 1979, in Lappeenranta, Finland, Raatikainen co-founded the band alongside the late Alexi Laiho in 1993 — originally performing as Inearthed before adopting the Children of Bodom name in 1997. Together they created one of Finnish metal's most distinctive sounds: neoclassical melodies fused with aggressive death metal, built on a foundation of precise drumming that balanced explosive blast beats with compositionally aware melodic fills.
 
 Children of Bodom became one of Finland's most successful metal exports, selling over 2 million albums worldwide across a 26-year career. Raatikainen's drumming was central to that success. His playing style combined the raw velocity of death metal — double bass patterns, blast beats, aggressive snare attacks — with a musical sensibility shaped by the neoclassical guitar and keyboard counterpoint that defined Alexi Laiho's compositional approach. The drums had to do more than provide a rhythmic foundation; they had to move with the melodic material in ways that pure death metal drumming rarely demands.
 
@@ -75,7 +75,7 @@ Children of Bodom's catalog stands as Finnish metal's defining contribution to t
 
 ## Key Facts
 
-- Co-founded Children of Bodom with Alexi Laiho at age 14 in Espoo, Finland
+- Co-founded Children of Bodom with Alexi Laiho at age 14
 - Pearl Masters Premium Maple kit — flagship Pearl production shells for touring endurance
 - Zildjian A Custom and K Custom cymbals — brightness and definition for melodic death metal
 - Pearl Eliminator double bass pedal throughout the band's peak touring years

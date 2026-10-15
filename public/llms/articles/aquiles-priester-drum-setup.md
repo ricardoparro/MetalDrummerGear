@@ -11,7 +11,7 @@
 
 Aquiles Priester's drum setup during Angra's most celebrated era — the albums Rebirth (2001), Temple of Shadows (2004), and Aurora Consurgens (2006) — is the configuration that established him as the defining voice of Brazilian power metal drumming. Built around a Mapex Saturn kit, Sabian HHX cymbals, and the Axis A double pedal he relied on for the blazing kick work that made tracks like "Spread Your Fire" and "Heroes of Sand" instantly recognizable, this rig defined an entire era of technical metal drumming.
 
-Aquiles Priester (born June 19, 1971, in São Paulo, Brazil) joined Angra in 2000, replacing Ricardo Confessori, and immediately raised the bar for what power metal drumming could demand from a player. His setup evolved through this period from pure Mapex/Sabian/Axis to incorporating Pearl Reference drums mid-era, but the Sabian HHX endorsement and the Axis pedal remained the constants that defined the sound on Angra's most important recordings.
+Aquiles Priester (born June 25, 1971, in Outjo, Namibia) joined Angra in 2000, replacing Ricardo Confessori, and immediately raised the bar for what power metal drumming could demand from a player. His setup evolved through this period from pure Mapex/Sabian/Axis to incorporating Pearl Reference drums mid-era, but the Sabian HHX endorsement and the Axis pedal remained the constants that defined the sound on Angra's most important recordings.
 
 This guide breaks down Priester's setup during the Angra classic era (2000–2012): the drums, cymbals, pedals, and technique philosophy that produced some of the most admired drumming in power metal history. For the current Mapex Saturn Evolution/Paiste/DW 9000 touring setup, see the full drum kit guide.
 

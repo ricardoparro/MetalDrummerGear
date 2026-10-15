@@ -8,7 +8,7 @@
 
 ## Overview
 
-When Korn needed a new drummer in 2007, they didn't just find a replacement for David Silveria — they found an upgrade. Ray Luzier (born Raymond Luzier on February 11, 1970, in Pittsburgh, Pennsylvania) brought a level of technical polish and session-player versatility that pushed Korn's rhythmic foundation to new heights without losing the raw, pounding groove that defines the band's identity.
+When Korn needed a new drummer in 2007, they didn't just find a replacement for David Silveria — they found an upgrade. Ray Luzier (born Raymond Luzier on June 14, 1970, in Pittsburgh, Pennsylvania) brought a level of technical polish and session-player versatility that pushed Korn's rhythmic foundation to new heights without losing the raw, pounding groove that defines the band's identity.
 
 Luzier's path to Korn was forged in the demanding world of professional session and touring drumming. Before joining Korn, he spent years as the drummer for David Lee Roth's solo band, played with rock supergroup Army of Anyone (alongside members of Filter and Stone Temple Pilots), and built a reputation as one of Los Angeles's most sought-after session players. This background — playing under extreme professional pressure, adapting quickly, delivering consistently — prepared him perfectly for one of nu-metal's most demanding roles.
 
@@ -16,26 +16,26 @@ His first full studio album with Korn, *Korn III: Remember Who You Are* (2010), 
 
 Live, Luzier is a force of nature. He plays with the controlled power of a session pro who knows every part cold, but brings the intensity of a performer who treats every show as if it's the only one. The Korn live experience — one of rock's most visceral — relies on his ability to anchor the band's aggression with metronomic groove.
 
-This article breaks down every major component of Ray Luzier's drum setup: his Pearl Masters Maple Complete kit, Pearl Reference brass snare, Sabian AAX cymbal selection, DW 9000 Series double bass pedal, and Vic Firth signature sticks.
+This article breaks down every major component of Ray Luzier's drum setup: his Pearl Reference Maple kit, Pearl Reference brass snare, Sabian AAX cymbal selection, DW 9000 Series double bass pedal, and Vic Firth signature sticks.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Masters Maple Complete (Various custom finishes for Korn touring configurations finish)
+- **Drums:** Pearl Pearl Reference Maple (Various custom finishes for Korn touring configurations finish)
 - **Snare:** Pearl Pearl Reference 14" x 6.5" Brass, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian AAX Series
 - **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vic Firth Ray Luzier Signature; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
 - **Heads:** Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-high tension for punch, cut, and projection
 
-### Pearl Masters Maple Complete: The Nu-Metal Foundation
+### Pearl Reference Maple: The Nu-Metal Foundation
 
-Ray Luzier's Pearl Masters Maple Complete is Pearl's benchmark production shell line: all-maple construction through every ply, precision bearing edges, and the consistent resonance that professional touring demands. For Luzier's role in Korn — playing 100+ show world tours night after night — the Masters Maple Complete's durability and tonal consistency are as important as its sonic character.
+Ray Luzier's Pearl Reference Maple is Pearl's benchmark production shell line: all-maple construction through every ply, precision bearing edges, and the consistent resonance that professional touring demands. For Luzier's role in Korn — playing 100+ show world tours night after night — the Reference Maple's durability and tonal consistency are as important as its sonic character.
 
 The all-maple shell construction delivers the focused attack and clear, balanced tone that Korn's dense, down-tuned production requires. Maple's inherently bright attack cuts through Korn's wall of seven-string guitars and Fieldy's deep bass, while the shell's natural warmth prevents the kit from sounding thin or clinical in the low-mid frequencies that define nu-metal's sonic signature.
 
 His double kick configuration — two 22" x 18" bass drums — is the rhythmic engine behind Korn's live machine. The size combination generates substantial sub-frequency presence (22" diameter) with added shell body (18" depth), producing a bass drum sound with both punch and resonance. Korn's music demands sustained double-kick patterns that underpin groove-oriented riffs at mid-tempos, and the 22" configuration delivers the full, authoritative sound these patterns need to sit correctly in the mix.
 
-The five-tom spread gives Luzier the range for the melodic, musical fills he brings to Korn's arrangements — fills that move through the kit in fluid arcs rather than simple single-tom accents. Pearl's Masters Maple Complete is available in a wide range of custom sizes and finishes, allowing Luzier to maintain consistent shell specifications while adapting the visual presentation to Korn's rotating stage designs.
+The five-tom spread gives Luzier the range for the melodic, musical fills he brings to Korn's arrangements — fills that move through the kit in fluid arcs rather than simple single-tom accents. Pearl's Reference Maple is available in a wide range of custom sizes and finishes, allowing Luzier to maintain consistent shell specifications while adapting the visual presentation to Korn's rotating stage designs.
 
 ### The Brass Crack Behind the Groove
 
@@ -63,11 +63,11 @@ The AAXtreme China is Luzier's accent exclamation point: a raw, aggressive instr
 
 Ray Luzier has now spent more time as Korn's drummer than David Silveria did. That fact alone tells you something about the fit: this isn't a temporary placeholder keeping a seat warm — Luzier IS Korn's drummer, as fully integrated into the band's identity as any founding member.
 
-His Pearl Masters Maple Complete kit, Sabian AAX cymbals, and DW 9000 Series double pedal represent gear choices built for one specific purpose: delivering Korn's music, night after night, in arenas around the world, with the groove and power that the band's audience demands.
+His Pearl Reference Maple kit, Sabian AAX cymbals, and DW 9000 Series double pedal represent gear choices built for one specific purpose: delivering Korn's music, night after night, in arenas around the world, with the groove and power that the band's audience demands.
 
 Every piece of the Luzier rig reflects that priority:
 
-- **Pearl Masters Maple Complete**: All-maple production shells built for touring consistency and tonal focus
+- **Pearl Reference Maple**: All-maple production shells built for touring consistency and tonal focus
 - **Sabian AAX**: Bright, fast, aggressive — cymbals that cut through Korn's wall of sound and recover quickly for the next stroke
 - **DW 9000 Series**: Direct-drive response for groove-feel double-kick — consistency over speed, carried over unchanged through every shell and cymbal switch
 - **Pearl Reference Brass Snare**: The crack that defines Korn's modern backbeat
@@ -86,23 +86,23 @@ For deeper exploration:
 
 - Korn's drummer since 2007 — first appeared on Korn III: Remember Who You Are (2010)
 - Former David Lee Roth touring drummer and Army of Anyone member
-- Pearl Drums endorsee — Pearl Masters Maple Complete kit
+- Pearl Drums endorsee — Pearl Reference Maple kit
 - Sabian AAX cymbal series for cutting, fast-responding projection
 - DW 9000 Series double bass pedal — carried over from his DW era, built for Korn's punishing live schedule
 - Vic Firth Ray Luzier Signature sticks
-- Pearl Masters Maple Complete — all-maple shells across every ply
+- Pearl Reference Maple — all-maple shells across every ply
 - Double 22" bass drums for Korn's sustained groove-driven double-kick
 - Five-tom spread (10", 12", 13", 16", 18") for musical fills
 - Pearl endorsement spanning the full Masters and Reference product lines
 - Consistent tolerances supporting "same feel, every night" touring demands
-- Estimated kit value: $3,000–5,500 (Pearl Masters Maple Complete shell pack)
+- Estimated kit value: $3,000–5,500 (Pearl Reference Maple shell pack)
 - Estimated snare value: $500–700 (Pearl Reference brass snare)
 
 ## Frequently Asked Questions
 
 **Q: What drums does Ray Luzier use?**
 
-A: Ray Luzier plays Pearl Masters Maple Complete drums with Korn. The Masters Maple Complete features all-maple shell construction across every ply, delivering the focused attack and balanced tone needed to cut through Korn's dense, seven-string guitar-driven mix. His kit is configured with double 22" bass drums and a five-tom spread, giving him the range for Korn's groove-heavy arrangements and melodic fills.
+A: Ray Luzier plays Pearl Reference Maple drums with Korn. The Reference Maple features all-maple shell construction across every ply, delivering the focused attack and balanced tone needed to cut through Korn's dense, seven-string guitar-driven mix. His kit is configured with double 22" bass drums and a five-tom spread, giving him the range for Korn's groove-heavy arrangements and melodic fills.
 
 **Q: What cymbals does Ray Luzier play?**
 

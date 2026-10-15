@@ -388,7 +388,6 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Matt Halpern's Drum Setup on Periphery III: Select Difficulty (2016) | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-iii-drum-setup.md) |
 | Matt Halpern's Drum Setup on Periphery IV: Hail Stan (2019) | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-iv-drum-setup.md) |
 | Periphery Drum Setup: Matt Halpern's Gear on the 2010 Debut | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-drum-setup.md) |
-| Matt Halpern's Drum Setup on Periphery V: Aliens (2023) | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-v-aliens-drum-setup.md) |
 | Matt Greiner Complete Drum Setup — August Burns Red Gear Guide | Matt Greiner | [Markdown](https://metalforge.io/llms/articles/matt-greiner-complete-drum-setup.md) |
 | Matt Greiner's Drum Setup on August Burns Red's Constellations (2009) | Matt Greiner | [Markdown](https://metalforge.io/llms/articles/constellations-drum-setup.md) |
 | Leveler Drum Setup: Matt Greiner's Gear on August Burns Red's 2011 Album | Matt Greiner | [Markdown](https://metalforge.io/llms/articles/leveler-drum-setup.md) |
@@ -551,6 +550,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Nick Augusto's Drum Setup — Trivium's In Waves & Vengeance Falls Era Kit Guide | Nick Augusto | [Markdown](https://metalforge.io/llms/articles/nick-augusto-drum-setup.md) |
 | Paul Mazurkiewicz Gear Evolution — Cannibal Corpse Drum Kit History | Paul Mazurkiewicz | [Markdown](https://metalforge.io/llms/articles/paul-mazurkiewicz-gear-evolution.md) |
 | Matt Halpern's Drum Setup on Periphery's Self-Titled Debut (2010) | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-self-titled-drum-setup.md) |
+| Matt Halpern's Drum Setup on Periphery V: Aliens (2023) | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-v-aliens-drum-setup.md) |
 | Pete Sandoval Gear Evolution — Morbid Angel Drum Kit History | Pete Sandoval | [Markdown](https://metalforge.io/llms/articles/pete-sandoval-evolution.md) |
 | Shogun Drum Setup: Nick Augusto's Progressive Thrash Masterpiece (Trivium, 2008) | Nick Augusto | [Markdown](https://metalforge.io/llms/articles/shogun-drum-setup.md) |
 | Sonor Tomas Haake Signature Snare: The Metallic Heartbeat of Djent | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/tomas-haake-signature-gear-guide.md) |

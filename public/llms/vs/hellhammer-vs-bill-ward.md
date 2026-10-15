@@ -13,7 +13,7 @@ Mayhem's Hellhammer vs Black Sabbath's Bill Ward — extreme black metal blast-b
 - **Drums:** Sonor SQ2 Heavy Beech
 - **Cymbals:** Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)
 - **Snare:** Sonor SQ2 14x5.5" Maple
-- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne, Roland Electronics
+- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Bill Ward Setup
@@ -26,7 +26,7 @@ Mayhem's Hellhammer vs Black Sabbath's Bill Ward — extreme black metal blast-b
 
 ## Playing Style
 
-Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Oslo, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured. He has run a parallel career with Dimmu Borgir since 1999, bringing black metal ferocity into symphonic arrangements. Bill Ward co-founded Black Sabbath in Birmingham, England, in 1968 alongside Tony Iommi, Geezer Butler, and Ozzy Osbourne, and his open, swinging feel on "Black Sabbath" (1970), "Paranoid" (1970), and "Master of Reality" (1971) effectively invented heavy metal's rhythmic vocabulary.
+Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured. He has run a parallel career with Dimmu Borgir since 1999, bringing black metal ferocity into symphonic arrangements. Bill Ward co-founded Black Sabbath in Birmingham, England, in 1968 alongside Tony Iommi, Geezer Butler, and Ozzy Osbourne, and his open, swinging feel on "Black Sabbath" (1970), "Paranoid" (1970), and "Master of Reality" (1971) effectively invented heavy metal's rhythmic vocabulary.
 
 ## Technique
 

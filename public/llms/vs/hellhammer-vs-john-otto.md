@@ -13,7 +13,7 @@ Mayhem's Hellhammer vs Limp Bizkit's John Otto. Cold, relentless second-wave bla
 - **Drums:** Sonor SQ2 Heavy Beech
 - **Cymbals:** Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)
 - **Snare:** Sonor SQ2 14x5.5" Maple
-- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne, Roland Electronics
+- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne
 - **Sticks:** Vic Firth American Classic 5B
 
 ## John Otto Setup
@@ -26,7 +26,7 @@ Mayhem's Hellhammer vs Limp Bizkit's John Otto. Cold, relentless second-wave bla
 
 ## Playing Style
 
-Hellhammer (born Jan Axel Blomberg, August 2, 1969, in Oslo, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — while running a parallel career with Dimmu Borgir since 1999 and co-founding Arcturus. John Otto has been Limp Bizkit's drummer and founding member since 1994, blending hip-hop-influenced grooves and funk-inspired beats that helped define the rap-metal sound on hits like "Rollin'" and "Break Stuff" — a disciplined, pocket-first approach that stands in total contrast to Hellhammer's cold extremity.
+Hellhammer (born Jan Axel Blomberg, August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — while running a parallel career with Dimmu Borgir since 1999 and co-founding Arcturus. John Otto has been Limp Bizkit's drummer and founding member since 1994, blending hip-hop-influenced grooves and funk-inspired beats that helped define the rap-metal sound on hits like "Rollin'" and "Break Stuff" — a disciplined, pocket-first approach that stands in total contrast to Hellhammer's cold extremity.
 
 ## Technique
 

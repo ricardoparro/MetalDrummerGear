@@ -26,7 +26,7 @@ Aquiles Priester (Angra) vs Blake Richardson (Between the Buried and Me): Brazil
 
 ## Playing Style
 
-Aquiles Priester is a Brazilian drummer best known for his work with neoclassical power metal band Angra (2000–2012, 2023–present) and W.A.S.P. (2006–present), renowned for blazing speed, precision, and energetic showmanship that made him one of the most celebrated power metal drummers in the world. Blake Richardson has been the drummer for American progressive metal band Between the Buried and Me since 2005, fusing death metal precision with jazz influences across landmark albums like "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2023), earning Grammy nominations for his complex, genre-spanning playing.
+Aquiles Priester is a Brazilian drummer best known for his work with neoclassical power metal band Angra (2001–2008, 2023–present) and W.A.S.P. (2017–present), renowned for blazing speed, precision, and energetic showmanship that made him one of the most celebrated power metal drummers in the world. Blake Richardson has been the drummer for American progressive metal band Between the Buried and Me since 2005, fusing death metal precision with jazz influences across landmark albums like "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2023), earning Grammy nominations for his complex, genre-spanning playing.
 
 ## Technique
 
@@ -50,7 +50,7 @@ Aquiles Priester and Blake Richardson represent two of extreme-technical metal d
 A: Aquiles Priester (Angra) is a Brazilian neoclassical power metal drummer renowned for blazing double bass speed and showmanship. Blake Richardson (Between the Buried and Me) is an American progressive metal drummer known for fusing death metal precision with jazz-influenced odd time signatures. Priester represents power metal's speed tradition; Richardson represents progressive metal's compositional complexity.
 
 **Q: What bands has Aquiles Priester played in?**
-A: Aquiles Priester is best known for his work with Angra (2000–2012, 2023–present) and W.A.S.P. (2006–present), as well as his own project Hangar. He is considered one of the most celebrated power metal drummers in the world.
+A: Aquiles Priester is best known for his work with Angra (2001–2008, 2023–present) and W.A.S.P. (2017–present), as well as his own project Hangar. He is considered one of the most celebrated power metal drummers in the world.
 
 **Q: What gear do Aquiles Priester and Blake Richardson use?**
 A: Aquiles Priester plays his own Mapex Saturn Evolution All Maple signature kit with a custom red-coated Paiste cymbal set and a DW 9000 Series double pedal. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals.

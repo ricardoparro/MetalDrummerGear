@@ -10523,22 +10523,22 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Sonor Force Series',
+            item: 'Sonor Designer Series',
             details: 'Beech/maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Continued with Sonor into the Opeth era, the durable beech/maple combination suiting both the band\'s crushing death metal sections and its delicate acoustic interludes.',
+            notes: 'Signed with Sonor and joined Opeth in 1997, the durable beech/maple combination suiting both the band\'s crushing death metal sections and its delicate acoustic interludes.',
             change: null,
           },
           snare: {
-            item: 'Sonor Force 14"x6" Maple',
+            item: 'Sonor Designer 14"x6" Maple',
             details: 'Upgraded maple shell, warmer tone',
             notes: 'A warmer maple snare than his earlier steel shell, better suited to Opeth\'s wide dynamic range between brutality and beauty.',
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Zildjian K Series',
-            details: '14" K hi-hats, 16"/18" K crashes, 20" K ride',
-            notes: 'Switched to the darker, more complex Zildjian K Series — a defining tonal shift that matched Opeth\'s progressive, jazz-tinged death metal identity.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Sabian HH / AAX',
+            details: '14" HH hi-hats, 16"/18" AAX crashes, 20" HH ride',
+            notes: 'Signed with Sabian alongside his 1997 Sonor kit, favoring the HH and AAX lines\' warmth and dynamic complexity for Opeth\'s progressive, jazz-tinged death metal identity.',
+            change: null,
           },
           hardware: {
             item: 'Double pedal, upgraded stands',
@@ -10571,7 +10571,7 @@ export const DRUMMER_EVOLUTION = {
           'My Arms, Your Hearse (1998) — first Opeth recording',
           'Still Life (1999) establishes his progressive death metal voice',
           'Blackwater Park (2001), recorded with Steven Wilson, becomes a genre masterpiece',
-          'Switched to Zildjian K Series for darker, more complex cymbal tone',
+          'Signed with Sabian (HH/AAX), a partnership that lasted his entire Opeth tenure',
         ],
 
         quote: {
@@ -10595,21 +10595,21 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Sonor Force Series (expanded)',
+            item: 'Sonor Designer Series (expanded)',
             details: 'Beech/maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
             notes: 'Expanded tom configuration for Deliverance\'s more complex arrangements, while the same kit was used with brushes and lighter tuning for the all-acoustic Damnation sessions.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Sonor Force 14"x6" Maple + piccolo snare',
+            item: 'Sonor Designer 14"x6" Maple + piccolo snare',
             details: 'Primary maple plus secondary piccolo for Damnation',
             notes: 'Added a piccolo snare specifically for Damnation\'s delicate, jazz-brushed passages — a clear sonic departure from Deliverance\'s heavier material.',
             change: CHANGE_TYPES.NEW,
           },
           cymbals: {
-            item: 'Zildjian K Series',
-            details: '14" K hi-hats, 16"/18" K crashes, 20" K ride',
-            notes: 'Continued K Series setup, equally suited to Deliverance\'s heaviness and Damnation\'s subdued, atmospheric character.',
+            item: 'Sabian HH / AAX',
+            details: '14" HH hi-hats, 16"/18" AAX crashes, 20" HH ride',
+            notes: 'Continued Sabian HH/AAX setup, equally suited to Deliverance\'s heaviness and Damnation\'s subdued, atmospheric character.',
             change: null,
           },
           hardware: {
@@ -10666,20 +10666,20 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Sonor Force Series (mature configuration)',
+            item: 'Sonor Designer Series (mature configuration)',
             details: 'Beech/maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
             notes: 'Final Opeth-era configuration of his long-running Sonor setup, refined across nearly a decade with the band.',
             change: null,
           },
           snare: {
-            item: 'Sonor Force 14"x6" Maple',
+            item: 'Sonor Designer 14"x6" Maple',
             details: 'Signature warm maple tone',
             notes: 'The snare sound that had defined his entire Opeth tenure, unchanged for Ghost Reveries.',
             change: null,
           },
           cymbals: {
-            item: 'Zildjian K Series (expanded)',
-            details: '14" K hi-hats, 16"/18"/19" K crashes, 20" K ride, 18" K China',
+            item: 'Sabian HH / AAX (expanded)',
+            details: '14" HH hi-hats, 16"/18"/19" AAX crashes, 20" HH ride, 18" AAX China',
             notes: 'Added a China cymbal for the more cinematic, textured arrangements on Ghost Reveries.',
             change: CHANGE_TYPES.NEW,
           },
@@ -10751,8 +10751,8 @@ export const DRUMMER_EVOLUTION = {
           cymbals: {
             item: 'Zildjian K Dark Series',
             details: '14" K Dark Thin hi-hats, 18"/20" K Dark Medium Thin crashes, 22" K Dark Light ride, 18" K China',
-            notes: 'Upgraded to the darker K Dark line for an even more complex, mature overtone structure suited to Soen\'s atmospheric progressive sound.',
-            change: CHANGE_TYPES.UPGRADE,
+            notes: 'Switched to Zildjian\'s A and K Dark lines after co-founding Soen in 2010, ending his Sabian HH/AAX endorsement from the Opeth years in favor of a darker, more complex overtone structure suited to Soen\'s atmospheric progressive sound.',
+            change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
             item: 'Axis Percussion Double Pedal, DW 9100 Throne',
@@ -10783,6 +10783,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Co-founded Soen (2010) with bassist Steve Di Giorgio after recovering from health issues',
           'Switched to Noble & Cooley — a boutique American kit reflecting his mature aesthetic',
+          'Switched to Zildjian K Series cymbals for a darker, more complex tone, ending his Sabian endorsement from the Opeth years',
           'Cognitive (2012) through Memorial (2024) showcase continued progressive evolution',
           'Maintains jazz-informed, song-first philosophy established during the Opeth years',
           'Recognized as one of progressive metal\'s most musically tasteful drummers',

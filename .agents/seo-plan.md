@@ -12710,3 +12710,56 @@ adrian-erlandsson and jocke-wallgren came back fully clean (both agent-verified 
 3. Dropped 3 subagent-reported findings after personal verification failed to confirm them (see Method section) — do not re-surface the Travis Orbin "Sky Harbor" destination-band claim or the Alex Bent Arkaik-join-year claim without an external source tiebreak first (same risk class as the Jon Dette incident).
 4. Content-gap: all 3 rows (joey jordison kit/set, john otto snare) re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-15 (run ~2 — lowest-issue-count roster sweep continued: 8 filed, #9107-9114)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): 200, all 8 AI crawlers explicitly allowed. ✅ unchanged.
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap (live curl `sitemap.xml`): 3,161 URLs — unchanged.
+- Bank check: 9 open `seo-proposal` at run start (held #7981; 3 standing umbrellas #2211/#3810/#3819) → true untriaged bank ~6. Well under the 45 floor → filed up to 8; filed 8 (verified-high-confidence pool did not run dry this run — all 8 candidates sampled survived personal verification). Bank at run end: 17.
+
+### Metrics readout
+- GSC 7d (07:08 UTC refresh): 11,492 impr / 195 clicks / 1.70% CTR / pos 7.7 (unchanged since last refresh). Content-gap rows (impr≥50, CTR<2%): `joey jordison drum kit` (62 impr), `joey jordison drum set` (68 impr), `john otto snare` (94 impr) — all already-ruled known-oscillator/no-lever per `learned-patterns.md`. No re-action.
+- GA4 7d: 442 active users / 496 sessions / 705 views. Organic 318/496 (64.1%). Top pages: `/`, `/bpm`, `/drummers`, `/drummer/mario-duplantier`, `/studies/metal-tempo-by-subgenre`, `/drummer/joey-jordison`, `/drummer/bill-ward`, `/drummer/danny-carey`.
+- Not Monday (Thursday) — drum-chair watch already logged this week (group 2, Monday 10-12, 0 candidates). Skipped.
+
+### Method — lowest-issue-count roster sweep, continued from prior run's flagged candidates
+Prior run (01:xx) flagged richard-christy/sean-reinert as "next, not yet hit by this specific method" but cross-referencing full issue history showed both already heavily covered this week via other methods (#8939/#8988/#8995) — running the lowest-count method on them would be low-yield. Instead re-ranked all 71 roster slugs by live `gh api search/issues` title-match count, excluded everyone already touched this week (~46 names across 10-12 through this morning's #9099-9103 batch), and sampled the 8 lowest-count untouched survivors in ascending order: john-longstreth (8 — tied lowest on the entire roster), martin-axenrot (71), raymond-herrera (79), jaska-raatikainen (109), jay-weinberg (115), ray-luzier (115), hellhammer (120), matt-halpern (129). (nick-barker, also tied at 8, was excluded — already hit this week via #9015.)
+
+Dispatched 4 parallel research agents, 2 drummers each, same standard protocol (ground truth = `endorsementNews.js`/`bands.js`, grep all 15 known fabrication-prone sibling files + albumArticles + 3 API files, `git log --all --grep`/`gh issue list --search` dedup check, explicit instruction to drop — not report — any tenure/membership claim that can't be externally verified beyond internal file disagreement, per the standing Jon Dette lesson).
+
+**All 8 candidates survived personal re-verification this run** — unusually high hit rate, likely because the lowest-issue-count slugs are exactly the ones least scrutinized by 4+ months of prior sweeps. Personally greped/sed'd every cited line in every ground-truth and target file before filing (never trusted a subagent verdict alone):
+- **John Longstreth** (#9107): `bands.js`'s Hate Eternal entry frames his involvement as ongoing ("2018-present"/"since 2018"), but the site's own `api/drummers/index.js` bio explicitly says it was a single November 2018 tour fill-in for Hannes Grossmann — a cross-file self-contradiction, not a gear fact. Lowest-ever issue-count drummer on the roster (8 total, tied with nick-barker).
+- **Martin Axenrot** (#9108): `extendedBios.js`/`api/drummers/index.js` still say Opeth "2006-present", but `bands.js` (ground truth) already correctly has the verified November 2021 departure + Waltteri Väyrynen succession — straightforward stale-sibling sync, not a cross-file-agreement risk (ground truth already correct and externally well-documented).
+- **Raymond Herrera** (#9109): `extendedBios.js`/`drummerEvolution.js` say he departed Fear Factory in 2009 (self-contradicting their own statement that his last album was 2005's Transgression); `bands.js` ground truth confirms 2006, with 2009 actually being when Gene Hoglan's separate stint began.
+- **Jaska Raatikainen** (#9110): birthplace "Espoo, Finland" survives in `soundLikeGuides.js` + `albumArticles/jaska-raatikainen.js` (including JSON-LD `Person.birthPlace` schema) — #8525 only fixed `extendedBios.js`/`birthdays.js` to the verified "Lappeenranta, Finland".
+- **Jay Weinberg** (#9111): `drummerEvolution.js` fabricates an entirely nonexistent replacement name "Eric Morotti" (3 locations) — verified correct is Eloy Casagrande per `bands.js`; same file also self-contradicts on the departure month (November vs December 2023), plus a 3rd "December 2023" instance in `gearPriceHistory.js`. Confirmed `bands.js`'s exact wording (FAQ line 65) before filing since this involved both a fabricated name and a date claim.
+- **Ray Luzier** (#9112, batch): 4 bundled fabrications — birthdate "February 11, 1970" (verified June 14, 1970 per `birthdays.js`) across 3 files; "Pearl Masters Maple Complete" kit (verified Reference Maple per `endorsementNews.js`) surviving in `albumArticles/ray-luzier.js` after #8930 only fixed `soundLikeGuides.js`; "Reference Pure" mislabel in `top10Lists.js` (likely cross-contaminated from Hoglan/Mazurkiewicz/Erlandsson entries in the same file); and a "replacing Joey Jordison" misattribution (verified: replaced David Silveria — Jordison was only ever a Korn touring fill-in, confirmed via `bands.js`'s own FAQ).
+- **Hellhammer** (#9113, batch): birthplace "Oslo, Norway" (verified Trysil Municipality per `extendedBios.js`, post-#8526) surviving in 7 locations; fabricated "Roland Electronics" hardware in 2 API files + 3 `genreGearGuides.js` sections beyond #7717's scope; plus 2 same-file self-contradictions (`drummerEvolution.js` era-block-vs-FAQ on Dimmu Borgir end year, `top10Lists.js`/`soundLikeGuides.js` crediting Hellhammer with eras/albums the site's own data assigns to Daray/Nicholas Barker).
+- **Matt Halpern** (#9114, batch): an entire fabricated album article section invents "Periphery V: Aliens" (fake release date, label, tracklist — ~15 locations in `albumArticles/matt-halpern.js` + `gearPriceHistory.js`) when the real 2023 album is "Periphery V: Djent Is Not a Genre" (confirmed via the same file's own correct discography line); #8420 touched this exact section for a stick-brand fix but left the fabricated title intact. Separately, `top10Lists.js` wrongly says Halpern "co-founded" Periphery / drove it "since 2005" (4 locations) — he joined in 2009, 4 years after the band's founding, per `bands.js`.
+
+### Proposals filed this run
+1. #9107 — John Longstreth: Hate Eternal tenure framing self-contradiction (bands.js "2018-present" vs api/drummers/index.js's own "one tour fill-in" bio)
+2. #9108 — Martin Axenrot: Opeth "2006-present" stale in 2 files, bands.js already has verified 2021 departure
+3. #9109 — Raymond Herrera: Fear Factory departure year wrong in 2 files (2009 vs verified 2006), self-contradicts own discography
+4. #9110 — Jaska Raatikainen: birthplace "Espoo" survives in 2 files incl. JSON-LD, #8525 only fixed 2 other files
+5. #9111 — Jay Weinberg: fabricated replacement name "Eric Morotti" (verified Eloy Casagrande) + Nov/Dec 2023 self-contradiction
+6. #9112 — Ray Luzier: 4 bundled fabrications (birthdate, kit model, Reference Pure mislabel, replacing-Jordison misattribution)
+7. #9113 — Hellhammer: birthplace (7 locations) + fabricated Roland Electronics hardware + 2 self-contradictions
+8. #9114 — Matt Halpern: fabricated "Periphery V: Aliens" album (~15 locations) + wrong co-founded/since-2005 claims (4 locations)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9099-9103 (prior run today, pending Roadie pickup per 06:19 CEO promotion)
+- #9107-9114 (this run, 8 fresh)
+- Bank at run end: 17 open `seo-proposal` (excl. the 3 standing umbrellas: 14).
+
+### Next run
+1. Watch #9107-9114 through CEO triage; flag #9113 (Hellhammer) and #9114 (Matt Halpern) as the two batch issues needing the most implementer care — Hellhammer's genreGearGuides.js line numbers are estimates in a frequently-edited file (re-grep before editing), and Halpern's "Aliens" section needs a real rewrite (not a find-replace) since none of the invented release-date/label/tracklist detail is real for the correct title either.
+2. Lowest-issue-count method remains highly productive (8/8 hit rate this run, highest yet) — continue ascending by issue count next time: raymond-herrera through matt-halpern are now done; next lowest untouched would need a fresh re-rank (richard-christy/sean-reinert/paul-bostaph cluster at 86 is already well-covered by other methods this week — likely low-yield, consider skipping to the next tier instead).
+3. Content-gap: all 3 rows (joey jordison kit/set, john otto snare) re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

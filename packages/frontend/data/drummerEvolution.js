@@ -10822,13 +10822,13 @@ export const DRUMMER_EVOLUTION = {
   },
 
   // ==========================================
-  // Raymond Herrera - Fear Factory (1990-2009)
+  // Raymond Herrera - Fear Factory (1990-2006)
   // ==========================================
   'raymond-herrera': {
     slug: 'raymond-herrera',
     name: 'Raymond Herrera',
     band: 'Fear Factory',
-    totalYearsActive: '1989-2009',
+    totalYearsActive: '1989-2006',
     profileImage: '/images/drummers/raymond-herrera.webp',
     summary: 'Raymond Herrera co-founded Fear Factory in Los Angeles in 1990 and, across nearly two decades, built the blueprint for industrial metal drumming — fusing hardcore punk aggression with electronic trigger precision to create the "machine-like" double-bass sound that defined Demanufacture and Obsolete.',
 
@@ -11057,12 +11057,12 @@ export const DRUMMER_EVOLUTION = {
       {
         id: 'raymond-herrera-2002-archetype-departure',
         era: 'Archetype / Transgression / Departure Era',
-        years: '2002–2009',
+        years: '2002–2006',
         startYear: 2002,
-        endYear: 2009,
-        description: 'After Fear Factory\'s 2002 split and 2003 reunion, Herrera continued refining the hybrid trigger system through Archetype (2004) and Transgression (2005), while also drumming for Brujeria and co-founding Arkaea with Christian Olde Wolbers in 2008. His departure from Fear Factory in 2009 closed out a nearly two-decade run as the architect of industrial metal\'s signature drum sound.',
+        endYear: 2006,
+        description: 'After Fear Factory\'s 2002 split and 2003 reunion, Herrera continued refining the hybrid trigger system through Archetype (2004) and Transgression (2005) before departing Fear Factory in 2006, closing out a nearly two-decade run as the architect of industrial metal\'s signature drum sound. He continued drumming for Brujeria and, in 2008, co-founded Arkaea with Christian Olde Wolbers.',
         albums: ['Archetype (2004)', 'Transgression (2005)', 'Arkaea: Years in the Darkness (2009)'],
-        tours: ['Archetype reunion tour 2004–2005', 'Demanufacture Anniversary Tour 2005', 'Final Fear Factory dates 2008–2009'],
+        tours: ['Archetype reunion tour 2004–2005', 'Demanufacture Anniversary Tour 2005', 'Final Fear Factory dates 2005–2006'],
         image: null,
 
         gear: {
@@ -11120,8 +11120,8 @@ export const DRUMMER_EVOLUTION = {
           'Fear Factory split (2002) and reunion (2003)',
           'Archetype (2004) — acclaimed return-to-form record',
           'Transgression (2005) — final studio album of this era',
+          'Departed Fear Factory officially in 2006, closing out his founding-member tenure',
           'Co-founded Arkaea with Christian Olde Wolbers (2008) following another Fear Factory split',
-          'Departed Fear Factory officially in 2009, closing out his founding-member tenure',
         ],
 
         quote: {
@@ -11148,11 +11148,11 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'When did Raymond Herrera leave Fear Factory?',
-        a: 'Raymond Herrera officially departed Fear Factory in 2009, after co-founding the band in 1990 and recording every studio album from Soul of a New Machine (1992) through Transgression (2005). He had also co-founded the side project Arkaea with former Fear Factory guitarist Christian Olde Wolbers in 2008.',
+        a: 'Raymond Herrera officially departed Fear Factory in 2006, after co-founding the band in 1990 and recording every studio album from Soul of a New Machine (1992) through Transgression (2005). He later co-founded the side project Arkaea with former Fear Factory guitarist Christian Olde Wolbers in 2008.',
       },
       {
         q: 'What other bands did Raymond Herrera play in?',
-        a: 'Before and during his time in Fear Factory, Herrera was a founding member of Brujeria (joined 1989). After leaving Fear Factory in 2009, he had already co-founded Arkaea (2008) with Christian Olde Wolbers, releasing the album Years in the Darkness (2009).',
+        a: 'Before and during his time in Fear Factory, Herrera was a founding member of Brujeria (joined 1989). After leaving Fear Factory in 2006, he co-founded Arkaea (2008) with Christian Olde Wolbers, releasing the album Years in the Darkness (2009).',
       },
     ],
 

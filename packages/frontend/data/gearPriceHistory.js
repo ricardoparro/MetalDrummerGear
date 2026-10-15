@@ -3876,7 +3876,7 @@ export const GEAR_PRICE_HISTORY = {
         originalPrice: 480,
         year: 2022,
         source: 'Tama Signature Series catalog 2022',
-        notes: "Verbeuren's first signature drum, built to his own specifications for a faster, more focused attack than his earlier S.L.P. G-Maple.",
+        notes: "Verbeuren's first signature drum, built to his own specifications for a faster, more focused attack.",
         vintageValue2026: 420,
         modernEquivalent: {
           item: 'Tama Signature Series Dirk Verbeuren Snare',

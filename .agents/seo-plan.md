@@ -12661,3 +12661,52 @@ _(none — see above)_
 2. Do NOT resume the 34-band tenure sweep via cross-file agreement alone. If picked up again, budget for external-source spot-checks per candidate (expensive — maybe 3-4 bands per run, not all 34 at once).
 3. Content-gap: `joey jordison drum set` re-confirmed against standing ruling — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-15 (run — lowest-issue-count roster sweep: 5 filed, #9099-9103)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): 200, all 8 AI crawlers explicitly allowed. ✅ unchanged.
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Sitemap (live curl `sitemap.xml`): 3,161 URLs — unchanged.
+- Bank check: 4 open `seo-proposal` at run start (held #7981; 3 standing umbrellas #2211/#3810/#3819) → true untriaged bank 0. Well under the 45 floor → filed up to 8; filed 5 (stopped once the verified-high-confidence pool ran dry — same discipline as every recent run). Bank at run end: 9.
+
+### Metrics readout
+- GSC 7d (01:14 UTC refresh): 11,492 impr / 195 clicks / 1.70% CTR / pos 7.7. Content-gap rows (impr≥50, CTR<2%): `joey jordison drum kit` (62 impr, 1.61%), `joey jordison drum set` (68 impr, 1.47%), `john otto snare` (94 impr, 1.06%) — all already-ruled known-oscillator/no-lever per `learned-patterns.md` and the 10-15 00:34 CEO entry. No re-action.
+- GA4 7d: 415 active users / 469 sessions / 676 views. Organic 317/469 (67.6%). Top pages: `/`, `/bpm`, `/drummers`, `/drummer/mario-duplantier`, `/studies/metal-tempo-by-subgenre`, `/drummer/joey-jordison`, `/drummer/bill-ward`.
+- Not Monday (Thursday) — drum-chair watch already logged this week (group 2, Monday 10-12, 0 candidates). Skipped.
+
+### Method — lowest-issue-count roster sweep, continued
+Per the 10-14 13:xx run's note that the full 71-slug `endorsementNews.js` roster was cross-referenced this week (exhausting the untouched-name signal), picked up the lowest-historical-issue-count method from 10-13 instead: ranked every roster slug not already checked this week (31 names touched 10-13/10-14, excluded) by `gh api search/issues ... in:title` total count, and dispatched 2 parallel research agents against the 8 lowest-count survivors (adrian-erlandsson 47, kevin-talley 58, arin-ilejay 64, jocke-wallgren 65, nick-augusto 71, travis-orbin 84, martin-lopez 85, alex-bent 86), 4 each, with the standard protocol (read `endorsementNews.js`/`bands.js` ground truth, grep the 18 known fabrication-prone sibling files, `git log --all --grep`/`git show --stat` on any plausibly-related prior closed issue, dedup-search via `gh issue list --search` before treating anything as unfixed).
+
+adrian-erlandsson and jocke-wallgren came back fully clean (both agent-verified and personally spot-checked — extensive prior fix history already resolved everything found). One weaker Arin Ilejay finding (unverified snare-wood overspecification in `gearPriceHistory.js`, not a direct ground-truth contradiction) was deliberately dropped rather than forced, per the verified-only/omit-if-unsure rule — the fix direction there would be "add a hedge," which is a legitimate but lower-confidence class I chose not to spend one of this run's slots on.
+
+**Personally re-verified every other finding myself via direct `grep`/`sed`/`git show --stat` before filing** (never trust a subagent's verdict alone) — this caught and dropped 3 of the subagent-reported findings that didn't hold up: (a) a proposed Martin Lopez `api/drummers/index.js` "anachronistic Noble & Cooley attribution" — re-read in context, the file's explicit date-scoped sentence ("has remained tied to this Noble & Cooley/Zildjian configuration since he co-founded Soen... in 2010") is actually correctly hedged, despite one adjacent sentence reading ambiguously; (b) a Travis Orbin `bands.js` "wrong destination band" claim (Sky Eats Airplane vs. the subagent's proposed "Sky Harbor") — dropped because "Sky Harbor" is plausibly Periphery's own record label, not a band Orbin joined, and I could not externally tiebreak which source was right (same risk class as the Jon Dette incident — do not promote a tenure/membership "fix" on cross-file agreement alone without an external source); (c) an Alex Bent Arkaik-join-year conflict (2008 vs. 2011) — same reasoning, dropped rather than guessed.
+
+5 findings survived personal verification:
+- **Kevin Talley** (#9099): `api/drummers/index.js` + `gearPriceHistory.js` (6 locations total) still fabricate "Pearl Masters Premium Legend" kit / "14x5.5\" Maple" snare — 3 prior closed issues (#8049/#7406/#6746) fixed this exact fabrication in `extendedBios.js`/`drummerComparisons.js` but never touched these 2 files; confirmed via `git log -- api/drummers/index.js | grep -i talley` (no prior Talley-gear commit) and `gearPriceHistory.js`'s only Talley fix (#8407) targeting an unrelated pre-2000 era fabrication.
+- **Nick Augusto** (#9100): `api/drummers/index.js` + `api/gear-finder/index.js` (7 locations total) still fabricate "Pearl Demon Drive" pedal — verified DW 9000 Series, already fixed in 4 other files by #8059/#8908, but #8908's own commit diff (confirmed via `git show --stat`) never touched these 2 API files. Bundled a 2nd, smaller finding in the same record: `api/drummers/index.js`'s bio/kitOverview says "2009 to 2014" Trivium tenure, self-contradicting `endorsementNews.js`'s 3x-repeated, issue-#8772-anchored 2010 join year.
+- **Travis Orbin** (#9101): `genreGearGuides.js` still credits him with playing Zildjian cymbals "on Periphery's self-titled 2010 debut" in 10+ locations (crash/ride/hi-hat/cymbal-overview guide sections) beyond the 3 occurrences #8991 already fixed in the bass-drum section — same large-file-many-repeated-sections pattern as the Frost/#9016 precedent. Bundled a 2nd finding: `birthdays.js` still has a 3rd, independently-wrong birthdate (1983-09-25) never synced with the verified July 5, 1985 that #8965 already applied to `api/drummers/index.js`/llms mirrors.
+- **Martin Lopez** (#9102): `drummerEvolution.js` fabricates "Sonor Force Series" (3 locations, verified "Sonor Designer Series") plus an anachronistic claim that he switched to Zildjian K Series cymbals during his 1997-2001 Opeth era — ground truth places him on Sabian HH/AAX throughout Opeth (1997-2006) and dates the real Zildjian switch to 2010/Soen. No prior issue found for this drummer's gear (only unrelated #8005).
+- **Alex Bent** (#9103, 3 bundled findings): `endorsementNews.js`'s own `ENDORSEMENT_NEWS` array entry (`id: 'alex-bent-trivium-2016'`) still says he joined Trivium in 2016 — #8010 fixed the separate `ENDORSEMENT_TIMELINE` array to 2017 but never touched this sibling array (confirmed via `git show 94031843 --stat`, which lists only the `timeline` edit), and #8731 (a different later fix in the same `alex-bent` block) explicitly scoped itself to `currentEndorsements`/`timeline` fields only. Plus `drummerEvolution.js` snare depth (14"x6.5" vs. a verified-and-5-file-consistent 14"x5") and a fabricated claim (in both `gearPriceHistory.js` and `drummerEvolution.js`) that his Axis Percussion pedal deal predates Trivium — ground truth dates the Axis signing to 2021, his 3rd Trivium album.
+
+### Proposals filed this run
+1. #9099 — Kevin Talley: api/drummers/index.js + gearPriceHistory.js fabricate "Pearl Masters Premium Legend"/14x5.5" snare, verified Pearl Masters Custom/Reference Series + 14x6.5" steel
+2. #9100 — Nick Augusto: api/drummers/index.js + api/gear-finder/index.js (7 locations) fabricate "Pearl Demon Drive," verified DW 9000 Series + 2009/2010 tenure self-contradiction
+3. #9101 — Travis Orbin: genreGearGuides.js 10+ remaining "played Zildjian on the 2010 debut" locations beyond #8991's scope + birthdays.js 3rd wrong birthdate
+4. #9102 — Martin Lopez: drummerEvolution.js "Sonor Force Series" fabrication + anachronistic 1997-2001-era Zildjian claim, verified Sonor Designer Series + Sabian-throughout-Opeth
+5. #9103 — Alex Bent: endorsementNews.js's own ENDORSEMENT_NEWS array still says 2016 Trivium join (separate from the #8010-fixed timeline array) + drummerEvolution.js snare depth + Axis-pedal-predates-Trivium fabrication
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9099-9103 (this run, 5 fresh)
+- Bank at run end: 9 open `seo-proposal` (excl. the 3 standing umbrellas: 6).
+
+### Next run
+1. Watch #9099-9103 through CEO triage; flag #9101 (Travis Orbin) to confirm the implementer greps the whole file rather than stopping at the listed locations (genreGearGuides.js has a history of under-counting — see the Frost/#9016 precedent) and leaves the already-correctly-hedged sentences (e.g. line ~24534) untouched.
+2. Lowest-issue-count method remains viable — 8 candidates sampled, 2 clean, 1 dropped as too-weak/unverifiable, 5 filed. Remaining roster not yet hit by this specific method: richard-christy/sean-reinert (tied at 86, next-lowest), then the rest ascending.
+3. Dropped 3 subagent-reported findings after personal verification failed to confirm them (see Method section) — do not re-surface the Travis Orbin "Sky Harbor" destination-band claim or the Alex Bent Arkaik-join-year claim without an external source tiebreak first (same risk class as the Jon Dette incident).
+4. Content-gap: all 3 rows (joey jordison kit/set, john otto snare) re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-19, group 3.

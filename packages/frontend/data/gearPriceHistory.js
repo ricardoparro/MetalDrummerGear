@@ -3711,7 +3711,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Significant Other (1999)',
     profileImage: '/images/drummers/john-otto.webp',
 
-    summary: "John Otto's 1999 setup powered Limp Bizkit's commercial breakthrough, \"Significant Other\" — debuting at #1 on the Billboard 200 and eventually certified 15x Platinum. A newly adopted Orange County Drum and Percussion (OCDP) custom kit gave Otto's jazz-and-hip-hop-informed groove the tonal balance to cut through Wes Borland's detuned guitars and DJ Lethal's turntable work, while Zildjian A Series cymbals supplied the bright, projecting attack the dense nu-metal mix demanded. The original rig — kit, snare, cymbals, Pearl P-2002 Eliminator pedal, and Zildjian sticks — cost roughly $4,876 in 1999. Adjusted for 2026 inflation, that's equivalent to approximately $9,590 today. Otto carried the same OCDP/Zildjian setup into 2000's \"Chocolate Starfish and the Hot Dog Flavored Water,\" which debuted with the largest first-week sales total in SoundScan history at the time. His gear has continued to evolve within that same OCDP/Zildjian foundation: his current rig remains built around Orange County Drum and Percussion (OCDP) with Zildjian cymbals and Gibraltar hardware, a brand he's endorsed since 1999 — a setup that still carries the same groove-first philosophy he brought to Limp Bizkit's biggest records.",
+    summary: "John Otto's 1999 setup powered Limp Bizkit's commercial breakthrough, \"Significant Other\" — debuting at #1 on the Billboard 200 and eventually certified 15x Platinum. A newly adopted Orange County Drum and Percussion (OCDP) custom kit gave Otto's jazz-and-hip-hop-informed groove the tonal balance to cut through Wes Borland's detuned guitars and DJ Lethal's turntable work, while Zildjian A Series cymbals supplied the bright, projecting attack the dense nu-metal mix demanded. The original rig — kit, snare, cymbals, Gibraltar hardware, and Zildjian sticks — cost roughly $4,876 in 1999. Adjusted for 2026 inflation, that's equivalent to approximately $9,590 today. Otto carried the same OCDP/Zildjian setup into 2000's \"Chocolate Starfish and the Hot Dog Flavored Water,\" which debuted with the largest first-week sales total in SoundScan history at the time. His gear has continued to evolve within that same OCDP/Zildjian foundation: his current rig remains built around Orange County Drum and Percussion (OCDP) with Zildjian cymbals and Gibraltar hardware, a brand he's endorsed since 1999 — a setup that still carries the same groove-first philosophy he brought to Limp Bizkit's biggest records.",
 
     setup: {
       drums: {
@@ -3760,12 +3760,12 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'Pearl P-2002 Eliminator Pedal + Pearl H-1000 Hi-Hat Stand',
-        model: 'Single pedal + stands',
+        item: 'Gibraltar Professional Series Hardware (specific pedal/stand models unconfirmed)',
+        model: 'Single pedal + stands, exact model unconfirmed',
         specs: 'Single bass drum pedal, hi-hat stand, 2 cymbal boom stands, Roc-N-Soc throne',
         originalPrice: 380,
         year: 1999,
-        source: 'Pearl hardware catalog 1999',
+        source: 'Gibraltar endorsement per endorsementNews.js verified record (since 1999); specific hardware model unconfirmed',
         notes: 'Single-kick setup reflecting Otto\'s hip-hop-informed groove approach rather than the double-kick norm of the era.',
         vintageValue2026: 250,
         modernEquivalent: {

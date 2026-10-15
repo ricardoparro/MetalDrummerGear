@@ -95484,9 +95484,9 @@ This guide breaks down what actually makes a pedal work for symphonic metal — 
       pedals: [
         {
           rank: 1,
-          name: "Pearl Demon XR",
+          name: "Pearl Demon Drive",
           brand: "Pearl",
-          model: "P3002B Demon XR",
+          model: "P3002D Demon Drive",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€450-550",
           tier: "pro",
@@ -95520,7 +95520,7 @@ Paired with his Tama S.L.P. Black Brass snare and Paiste RUDE cymbals, Daray's D
           ],
           verdict: "The symphonic metal pedal standard. Built for maximum reliability against the genre's most ambitious orchestral arrangements.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p3002b_demon_xr_double.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_p3002d_demon_drive_double.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -95699,7 +95699,7 @@ Raatikainen's run on this pedal design from "Are You Dead Yet?" through every su
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Demon XR",
+          pedal: "Pearl Demon Drive",
           reason: "Daray's Dimmu Borgir setup — maximum reliability against the genre's most ambitious full-orchestra arrangements."
         },
         {
@@ -107047,16 +107047,16 @@ This guide breaks down what actually makes a bass drum pedal work for symphonic 
       pedals: [
         {
           rank: 1,
-          name: "Pearl Demon XR",
+          name: "Pearl Demon Drive",
           brand: "Pearl",
-          model: "Demon XR Double Pedal",
+          model: "Demon Drive Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€450-600 per double set",
           tier: "pro",
           driveType: "Direct Drive",
           description: `Daray drives his Tama Starclassic Performer B/B kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands night after night. Its direct-drive precision keeps the double bass locked in beneath dense orchestral and choir arrangements without drifting.
 
-The Demon XR's refined mechanism holds its calibration across the extended, dynamically layered sets symphonic metal's orchestral ambitions require.`,
+The Demon Drive's refined mechanism holds its calibration across the extended, dynamically layered sets symphonic metal's orchestral ambitions require.`,
           pros: [
             "Daray's proven Dimmu Borgir setup",
             "Direct drive precision keeps double bass locked in beneath orchestral layers",
@@ -107222,7 +107222,7 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Demon XR",
+          pedal: "Pearl Demon Drive",
           reason: "Daray's proven setup — direct-drive precision that keeps double bass locked in beneath a dense orchestral arrangement."
         },
         {
@@ -107286,7 +107286,7 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
       title: "Build a Foundation the Orchestration Can Trust",
       content: `Symphonic metal's double bass work only succeeds if it's rock-solid and consistent underneath a full orchestral or choir arrangement — Daray's Pearl Demon Drive and Hellhammer's Axis Double Pedal both prove that reliable, direct-drive precision at mid-to-fast tempo matters more than chasing the fastest possible blast beat. Frost's Tama Iron Cobra Power Glide shows that dynamic control beneath orchestration is just as essential.
 
-For most symphonic metal drummers, the Pearl Demon XR is the clearest choice for locking double bass in beneath a dense arrangement. If you also need extreme blast-beat capability for a raw black metal side project, Hellhammer's Axis Double Pedal covers both ends. And Jaska Raatikainen's Pearl Eliminator proves a budget-friendly pedal can deliver dependable reliability across a 2004-2019 professional run.
+For most symphonic metal drummers, the Pearl Demon Drive is the clearest choice for locking double bass in beneath a dense arrangement. If you also need extreme blast-beat capability for a raw black metal side project, Hellhammer's Axis Double Pedal covers both ends. And Jaska Raatikainen's Pearl Eliminator proves a budget-friendly pedal can deliver dependable reliability across a 2004-2019 professional run.
 
 Whatever you choose: prioritize consistency first, then build speed and dynamics on top of it.
 

@@ -35,9 +35,9 @@ Paiste's RUDE and 2002 Series cymbals give the kit its aggressive edge: 14" RUDE
 
 ## Biography
 
-Dariusz "Daray" Brzozowski (born January 30, 1980) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2006-2016). His drumming combines extreme speed, technical precision, and theatrical flair.
+Dariusz "Daray" Brzozowski (born January 30, 1980) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2004-2008). His drumming combines extreme speed, technical precision, and theatrical flair.
 
-Dariusz "Daray" Brzozowski (born January 30, 1980, in Nowy Dwór Mazowiecki, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his 10-year tenure with Polish death metal legends Vader (2006-2016).
+Dariusz "Daray" Brzozowski (born January 30, 1980, in Nowy Dwór Mazowiecki, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his four-year tenure with Polish death metal legends Vader (2004-2008).
 
 Daray's drumming combines extreme speed and technical precision with theatrical flair, making him ideally suited for Dimmu Borgir's grandiose symphonic productions. His ability to perform complex, blistering patterns while maintaining the dynamics required for orchestral metal has established him as one of the premier drummers in extreme metal.
 
@@ -90,8 +90,8 @@ Daray's drumming style combines the extreme speed and brutality of death metal w
 
 ## Band History
 
-- **Dimmu Borgir** — 2007–present (current)
-- **Vader** — 2002–2005
+- **Dimmu Borgir** — 2008–present (current)
+- **Vader** — 2004–2008
 
 ## Gear
 
@@ -144,7 +144,7 @@ A: Daray uses Evans drumheads across his Tama Starclassic kit.
 
 **Q: What band is Daray in?**
 
-A: Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2006-2016) and Vesania (since 2003).
+A: Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2004-2008) and Vesania (since 2003).
 
 **Q: Does Daray use trigger-assisted drums?**
 
@@ -194,7 +194,7 @@ Full breakdown: [Daray's cymbal setup](https://metalforge.io/cymbals/setups/dara
 
 ## Pedal
 
-Daray plays a Pearl Demon XR double pedal.
+Daray plays a Pearl Demon Drive double pedal.
 
 Full breakdown: [Daray's pedal setup](https://metalforge.io/pedals/setups/daray).
 

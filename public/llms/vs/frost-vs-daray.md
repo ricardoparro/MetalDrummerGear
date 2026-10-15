@@ -26,7 +26,7 @@ Satyricon's Frost vs Vader/Dimmu Borgir's Daray. Norwegian black metal blast bea
 
 ## Playing Style
 
-Frost has driven Satyricon's black metal since 1993, building a reputation on hyperspeed, metronomically consistent blast beats across records like "Nemesis Divina" and "Deep calleth upon Deep." Daray (Dariusz Brzozowski) built his name in Poland's death metal scene with Vader (2006-2016) before joining Norwegian symphonic black metal titans Dimmu Borgir in 2008, combining extreme speed, technical precision, and theatrical flair across two demanding extreme metal chairs simultaneously.
+Frost has driven Satyricon's black metal since 1993, building a reputation on hyperspeed, metronomically consistent blast beats across records like "Nemesis Divina" and "Deep calleth upon Deep." Daray (Dariusz Brzozowski) built his name in Poland's death metal scene with Vader (2004-2008) before joining Norwegian symphonic black metal titans Dimmu Borgir in 2008, combining extreme speed, technical precision, and theatrical flair across two demanding extreme metal chairs simultaneously.
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Both are elite extreme metal drummers with different strengths. Frost (Satyri
 A: Frost plays a Tama Starclassic Bubinga Series kit with Zildjian A Custom & K Series cymbals and a Tama Iron Cobra Power Glide pedal. Daray plays a Tama Starclassic Performer B/B kit with Paiste RUDE & 2002 Series cymbals and a Pearl Demon Drive double pedal.
 
 **Q: What bands are Frost and Daray known for?**
-A: Frost is best known as the drummer for Satyricon, also playing in 1349. Daray is known for his work with Polish death metal legends Vader (2006-2016) and Norwegian symphonic black metal band Dimmu Borgir (since 2008).
+A: Frost is best known as the drummer for Satyricon, also playing in 1349. Daray is known for his work with Polish death metal legends Vader (2004-2008) and Norwegian symphonic black metal band Dimmu Borgir (since 2008).
 
 **Q: What is the main stylistic difference between Frost and Daray?**
 A: Frost drives Satyricon's black metal with surgical, metronomically consistent blast beats built for atmosphere and endurance. Daray combines Vader's high-speed technical death metal precision with the theatrical, large-scale demands of Dimmu Borgir's symphonic black metal.

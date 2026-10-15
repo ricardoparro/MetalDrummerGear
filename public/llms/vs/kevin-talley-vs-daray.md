@@ -10,9 +10,9 @@ Dying Fetus/Misery Index's Kevin Talley vs Vader/Dimmu Borgir's Daray — Americ
 
 ## Kevin Talley Setup
 
-- **Drums:** Pearl Masters Premium Legend
+- **Drums:** Pearl Masters Custom / Reference Series
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride)
-- **Snare:** Pearl Masters 14x5.5" Maple
+- **Snare:** Pearl Masters 14"x6.5" Steel
 - **Pedals/Hardware:** Pearl Eliminator Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 
@@ -26,7 +26,7 @@ Dying Fetus/Misery Index's Kevin Talley vs Vader/Dimmu Borgir's Daray — Americ
 
 ## Playing Style
 
-Kevin Talley built his reputation in brutal death metal and grindcore across Dying Fetus, Misery Index, and Six Feet Under, favoring relentless blast-beat barrages that prioritize raw ferocity over ornamentation. Daray (Dariusz Brzozowski) built his name in Poland's death metal scene with Vader (2006-2016) before joining Norwegian symphonic black metal titans Dimmu Borgir in 2008, combining extreme speed, technical precision, and theatrical flair across two demanding extreme metal chairs.
+Kevin Talley built his reputation in brutal death metal and grindcore across Dying Fetus, Misery Index, and Six Feet Under, favoring relentless blast-beat barrages that prioritize raw ferocity over ornamentation. Daray (Dariusz Brzozowski) built his name in Poland's death metal scene with Vader (2004-2008) before joining Norwegian symphonic black metal titans Dimmu Borgir in 2008, combining extreme speed, technical precision, and theatrical flair across two demanding extreme metal chairs.
 
 ## Technique
 

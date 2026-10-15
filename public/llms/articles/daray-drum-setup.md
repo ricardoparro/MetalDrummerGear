@@ -9,7 +9,7 @@
 
 ## Overview
 
-Dariusz "Daray" Brzozowski is one of extreme metal's most technically demanding drummers — the man who replaced Hellhammer in Dimmu Borgir in 2008 and has held that seat through studio albums Abrahadabra (2010) and Eonian (2018) and years of international touring. Before joining Dimmu Borgir he spent a decade with Polish death metal institution Vader (2006–2016), recording Welcome to the Morbid Reich (2011) and Tibi et Igni (2014), and continues his long-running involvement with Polish black metal band Vesania (2003–present).
+Dariusz "Daray" Brzozowski is one of extreme metal's most technically demanding drummers — the man who replaced Hellhammer in Dimmu Borgir in 2008 and has held that seat through studio albums Abrahadabra (2010) and Eonian (2018) and years of international touring. Before joining Dimmu Borgir he spent four years with Polish death metal institution Vader (2004–2008), recording The Beast (2004) and Impressions in Blood (2006), and continues his long-running involvement with Polish black metal band Vesania (2003–present).
 
 The demands of the Dimmu Borgir role are unusual in extreme metal: Daray must sustain blistering blast beats and machine-gun double-kick patterns at death metal tempos while simultaneously tracking against live symphony orchestra and choir performances. A drummer who cannot control dynamics and timing to within milliseconds cannot play with a 70-piece orchestra without derailing the entire production. Daray meets that requirement through a combination of extreme physical technique and a carefully engineered kit designed to perform with absolute consistency from intimate club shows to the massive outdoor festival stages where Dimmu Borgir headline.
 
@@ -51,7 +51,7 @@ The 2002 China completes the setup with a trash-attack accent piece for aggressi
 
 ## Daray: Orchestral Precision Meets Extreme Metal Speed
 
-Daray occupies a rare position in extreme metal drumming: a player whose technique is validated at both ends of the spectrum — pure death metal speed and brutality in Vader and Vesania, symphonic orchestral precision in Dimmu Borgir. The same physical toolkit that drove his work on Vader's Welcome to the Morbid Reich powers his performance on Dimmu Borgir's Abrahadabra alongside a full symphony orchestra and choir. That range is not accidental; it is the product of a technical foundation broad enough to handle whatever context demands.
+Daray occupies a rare position in extreme metal drumming: a player whose technique is validated at both ends of the spectrum — pure death metal speed and brutality in Vader and Vesania, symphonic orchestral precision in Dimmu Borgir. The same physical toolkit that drove his work on Vader's Impressions in Blood powers his performance on Dimmu Borgir's Abrahadabra alongside a full symphony orchestra and choir. That range is not accidental; it is the product of a technical foundation broad enough to handle whatever context demands.
 
 His current gear reflects this dual requirement at every component:
 
@@ -63,7 +63,7 @@ His current gear reflects this dual requirement at every component:
 
 For drummers studying the intersection of technical extreme metal and theatrical spectacle, Daray's approach is the clearest example of what that intersection requires: not just the speed to play blast beats at death metal tempos, but the dynamic control and precision timing to lock with fixed orchestral arrangements while doing it. The Tama Starclassic Performer B/B and Paiste cymbal combination provides the sonic foundation; the Demon Drive pedal provides the double-kick engine; the technique and timing is entirely Daray.
 
-Study Abrahadabra's "Gateways" for the orchestral integration context — recorded on his earlier Pearl kit before the 2014 switch to Tama. Study Vader's Welcome to the Morbid Reich for the pure death metal application of the same physical technique. Study both to understand how a player at Daray's level builds a single technical foundation capable of serving radically different musical contexts.
+Study Abrahadabra's "Gateways" for the orchestral integration context — recorded on his earlier Pearl kit before the 2014 switch to Tama. Study Vader's Impressions in Blood for the pure death metal application of the same physical technique. Study both to understand how a player at Daray's level builds a single technical foundation capable of serving radically different musical contexts.
 
 For deeper exploration:
 - **Full drummer profile**: [Daray at MetalForge](/drummer/daray)
@@ -78,7 +78,7 @@ For deeper exploration:
 - Paiste RUDE and 2002 cymbals — built for durability and projection in high-volume symphonic contexts
 - Pearl Demon Drive Double Bass Pedal — smooth chain-drive action for sustained extreme-tempo double-kick, in use since 2010
 - Trigger-assisted kit with in-ear monitoring — precision timing for live orchestra synchronization
-- Decade with Vader (2006–2016) plus ongoing Vesania work — extreme speed across multiple extreme metal contexts
+- Four years with Vader (2004–2008) plus ongoing Vesania work — extreme speed across multiple extreme metal contexts
 - Tama Starclassic Performer B/B — birch/bubinga hybrid construction for consistent response at extreme tempos, Daray's kit since 2014
 - Piano Black finish — integrated into Dimmu Borgir's theatrical live production aesthetic
 - Double kick configuration for sustained extreme-tempo patterns across symphonic black metal and death metal contexts
@@ -98,7 +98,7 @@ A: Daray plays Paiste cymbals, combining the RUDE and 2002 series. His setup inc
 
 **Q: How long has Daray been Dimmu Borgir's drummer?**
 
-A: Daray joined Dimmu Borgir in 2008, replacing legendary Norwegian drummer Hellhammer. He has been the band's drummer for over 15 years as of 2024, recording studio albums Abrahadabra (2010) and Eonian (2018) and the live orchestral release Forces of the Northern Night (2017). During his tenure he simultaneously served as Vader's drummer (2006–2016), recording Welcome to the Morbid Reich (2011) and Tibi et Igni (2014) with the Polish death metal band, and has maintained his long-running role in Vesania throughout.
+A: Daray joined Dimmu Borgir in 2008, replacing legendary Norwegian drummer Hellhammer. He has been the band's drummer for over 15 years as of 2024, recording studio albums Abrahadabra (2010) and Eonian (2018) and the live orchestral release Forces of the Northern Night (2017). Before joining Dimmu Borgir, he spent four years as Vader's drummer (2004–2008), recording The Beast (2004) and Impressions in Blood (2006) with the Polish death metal band, and has maintained his long-running role in Vesania throughout.
 
 ## Related Articles
 

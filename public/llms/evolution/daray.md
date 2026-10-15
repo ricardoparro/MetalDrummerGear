@@ -50,7 +50,7 @@ A: Just days after his final Vader show, Brzozowski auditioned for Dimmu Borgir 
 - **Drums:** Pearl Reference Pure — custom black finish, double 22" kick
 - **Snare:** Pearl Reference Series Snare
 - **Cymbals:** Paiste RUDE & 2002 Series — 14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride
-- **Hardware:** Pearl Demon XR Double Pedal
+- **Hardware:** Pearl Demon Drive Double Pedal
 - **Sticks:** Vic Firth American Classic Extreme 5B
 - **Heads:** Evans
 - **Estimated kit cost (original):** ~$8,200 (inflation-adjusted to 2026: ~$11,400)
@@ -74,7 +74,7 @@ A: Brzozowski recorded Dimmu Borgir's "Eonian" (2018) and, after an eight-year w
 - **Drums:** Pearl Reference Pure *(unchanged)*
 - **Snare:** Pearl Reference Series Snare *(unchanged)*
 - **Cymbals:** Paiste RUDE & 2002 Series *(unchanged)*
-- **Hardware:** Pearl Demon XR Double Pedal *(unchanged)*
+- **Hardware:** Pearl Demon Drive Double Pedal *(unchanged)*
 - **Sticks:** Vic Firth American Classic Extreme 5B *(unchanged)*
 - **Heads:** Evans
 - **Estimated kit cost (original):** ~$8,600 (inflation-adjusted to 2026: ~$9,700)
@@ -102,14 +102,14 @@ A: Brzozowski recorded Dimmu Borgir's "Eonian" (2018) and, after an eight-year w
 - **Pearl Reference Pure (drums)** — 2008–present (since joining Dimmu Borgir)
 - **Paiste RUDE & 2002 Series (cymbals)** — 2008–present
 - **Vic Firth American Classic Extreme 5B (sticks)** — 2008–present
-- **Pearl Demon XR Double Pedal (hardware)** — 2008–present
+- **Pearl Demon Drive Double Pedal (hardware)** — 2008–present
 
 ---
 
 ## FAQ
 
 **Q: What drum kit does Daray play?**
-A: Daray plays a Pearl Reference Pure kit (custom black finish, double 22" kick) with a Pearl Reference Series snare, Paiste RUDE & 2002 Series cymbals, and a Pearl Demon XR double pedal — a rig established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026).
+A: Daray plays a Pearl Reference Pure kit (custom black finish, double 22" kick) with a Pearl Reference Series snare, Paiste RUDE & 2002 Series cymbals, and a Pearl Demon Drive double pedal — a rig established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026).
 
 **Q: Was Daray in Vader before Dimmu Borgir?**
 A: Yes — Daray drummed for Vader from 2004 (permanent from March 2005) through August 2008, recording Impressions in Blood (2006) and the XXV compilation (2008) before crossing straight into Dimmu Borgir's audition room.

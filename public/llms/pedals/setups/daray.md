@@ -6,18 +6,18 @@
 
 ## Direct Answer
 
-Daray plays a Pearl Demon XR double pedal.
+Daray plays a Pearl Demon Drive double pedal.
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
 | Brand | Pearl |
-| Model | Demon XR |
+| Model | Demon Drive |
 | Configuration | double |
 | Drive Type | — |
 
-Verified roster hardware entry: "Pearl Demon XR Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Pearl Demon Drive Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -26,7 +26,7 @@ Verified roster hardware entry: "Pearl Demon XR Double Pedal." Source: roster ge
 ## FAQ
 
 **Q: What pedals does Daray use?**
-A: Daray plays a Pearl Demon XR double pedal.
+A: Daray plays a Pearl Demon Drive double pedal.
 
 ## More Resources
 

@@ -10,9 +10,9 @@ Dying Fetus/Misery Index's Kevin Talley vs Nile's George Kollias — brutal deat
 
 ## Kevin Talley Setup
 
-- **Drums:** Pearl Masters Premium Legend
+- **Drums:** Pearl Masters Custom / Reference Series
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride)
-- **Snare:** Pearl Masters 14x5.5" Maple
+- **Snare:** Pearl Masters 14"x6.5" Steel
 - **Pedals/Hardware:** Pearl Eliminator Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 

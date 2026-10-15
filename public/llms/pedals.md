@@ -76,7 +76,7 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 | [Chris Adler](https://metalforge.io/pedals/setups/chris-adler) | Lamb of God | Trick Pro 1-V | [Markdown](https://metalforge.io/llms/pedals/setups/chris-adler.md) |
 | [Chris Turner](https://metalforge.io/pedals/setups/chris-turner) | Oceans Ate Alaska | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/chris-turner.md) |
 | [Daniel Erlandsson](https://metalforge.io/pedals/setups/daniel-erlandsson) | Arch Enemy | Pearl Eliminator Double Bass Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/daniel-erlandsson.md) |
-| [Daray](https://metalforge.io/pedals/setups/daray) | Dimmu Borgir / Vader | Pearl Demon XR | [Markdown](https://metalforge.io/llms/pedals/setups/daray.md) |
+| [Daray](https://metalforge.io/pedals/setups/daray) | Dimmu Borgir / Vader | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/daray.md) |
 | [Derek Roddy](https://metalforge.io/pedals/setups/derek-roddy) | Hate Eternal / Nile | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/derek-roddy.md) |
 | [Dirk Verbeuren](https://metalforge.io/pedals/setups/dirk-verbeuren) | Megadeth | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/dirk-verbeuren.md) |
 | [Eloy Casagrande](https://metalforge.io/pedals/setups/eloy-casagrande) | Slipknot | Tama Iron Cobra | [Markdown](https://metalforge.io/llms/pedals/setups/eloy-casagrande.md) |

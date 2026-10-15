@@ -46,7 +46,7 @@ Where standard extreme metal drumming can operate at a single intensity througho
 
 ### 🦵 Kick Drum Configuration
 
-Twin 22"x18" kicks are standard across the genre's leading drummers, paired with a fast, reliable double pedal — Daray's Pearl Demon XR and Raatikainen's Pearl Eliminator both prioritize consistent response at extreme tempos.
+Twin 22"x18" kicks are standard across the genre's leading drummers, paired with a fast, reliable double pedal — Daray's Pearl Demon Drive and Raatikainen's Pearl Eliminator both prioritize consistent response at extreme tempos.
 
 **Recommendation:** Dual 22"x18" kicks with a direct drive double pedal for sustained extreme-tempo reliability
 
@@ -74,7 +74,7 @@ Several of symphonic metal's leading drummers juggle two demanding bands simulta
 **Material:** Custom Exotic Shells  
 **Rating:** 4.8/5
 
-Daray built the Pearl Masterworks Stadium Exotic / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising." Paired with a Pearl Reference 14"x5.5" Brass snare and Pearl Demon XR double pedal, the setup is engineered for maximum projection against arrangements that include full symphony orchestras and choir sections.
+Daray built the Pearl Masterworks Stadium Exotic / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising." Paired with a Pearl Reference 14"x5.5" Brass snare and Pearl Demon Drive double pedal, the setup is engineered for maximum projection against arrangements that include full symphony orchestras and choir sections.
 
 Pearl's Masterworks custom shell program lets Daray dial in exact specs for Dimmu Borgir's theatrical, orchestrally ambitious productions, while the brass snare's brightness ensures his backbeat stays cutting even beneath dense keyboard and string layering.
 
@@ -82,7 +82,7 @@ Pearl's Masterworks custom shell program lets Daray dial in exact specs for Dimm
 - Daray's Dimmu Borgir setup — unchanged and proven across three studio albums since 2010
 - Custom Masterworks shell specification for exact tonal control
 - Pearl Reference Brass snare cuts through full orchestral arrangements
-- Pearl Demon XR double pedal built for sustained extreme-tempo reliability
+- Pearl Demon Drive double pedal built for sustained extreme-tempo reliability
 - Proven across symphonic black metal's most globally successful era
 
 **Cons:**
@@ -273,7 +273,7 @@ Shell choice splits symphonic metal's leading drummers into two clear camps. Her
 ## FAQ
 
 **What drum kit does Daray from Dimmu Borgir use?**
-Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14"x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals, and a Pearl Demon XR double pedal — a rig established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026).
+Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14"x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals, and a Pearl Demon Drive double pedal — a rig established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026).
 
 **What drum kit does Hellhammer use?**
 Hellhammer plays a Pearl Reference Series kit — flagship maple shells he upgraded to during his dual Mayhem/Dimmu Borgir period beginning in 1999 — paired with Zildjian A Custom hi-hats and crashes, a Z Custom Dark Ride, and a Pearl Demon Drive double pedal.

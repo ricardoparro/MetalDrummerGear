@@ -26,7 +26,7 @@ Amon Amarth's Jocke Wallgren vs Vader/Dimmu Borgir's Daray — groove-driven Vik
 
 ## Playing Style
 
-Jocke Wallgren joined Amon Amarth in 2016, replacing Fredrik Andersson and bringing fresh energy to the band's Viking-themed melodic death metal through powerful double bass patterns and groove-oriented playing. Daray built his name in Poland's death metal scene with Vader (2006-2016) before joining Norwegian symphonic black metal titans Dimmu Borgir in 2008, combining extreme speed, technical precision, and theatrical flair.
+Jocke Wallgren joined Amon Amarth in 2016, replacing Fredrik Andersson and bringing fresh energy to the band's Viking-themed melodic death metal through powerful double bass patterns and groove-oriented playing. Daray built his name in Poland's death metal scene with Vader (2004-2008) before joining Norwegian symphonic black metal titans Dimmu Borgir in 2008, combining extreme speed, technical precision, and theatrical flair.
 
 ## Technique
 

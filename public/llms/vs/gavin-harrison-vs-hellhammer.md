@@ -21,12 +21,12 @@ Porcupine Tree/King Crimson's Gavin Harrison vs Mayhem's Hellhammer. Meticulous 
 - **Drums:** Sonor SQ2 Heavy Beech
 - **Cymbals:** Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)
 - **Snare:** Sonor SQ2 14x5.5" Maple
-- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne, Roland Electronics
+- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Playing Style
 
-Gavin Harrison built his reputation as an in-demand session and touring drummer for artists including Iggy Pop and Kevin Ayers before joining Porcupine Tree in 2002, where his polyrhythmic sophistication shaped "In Absentia" (2002), "Deadwing" (2005), and "Fear of a Blank Planet" (2007); he joined progressive rock institution King Crimson's three-drummer lineup in 2008 and has also drummed for The Pineapple Thief since 2016. Hellhammer (born Jan Axel Blomberg, August 2, 1969, in Oslo, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — while running a parallel career with Dimmu Borgir since 1999 and co-founding Arcturus.
+Gavin Harrison built his reputation as an in-demand session and touring drummer for artists including Iggy Pop and Kevin Ayers before joining Porcupine Tree in 2002, where his polyrhythmic sophistication shaped "In Absentia" (2002), "Deadwing" (2005), and "Fear of a Blank Planet" (2007); he joined progressive rock institution King Crimson's three-drummer lineup in 2008 and has also drummed for The Pineapple Thief since 2016. Hellhammer (born Jan Axel Blomberg, August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — while running a parallel career with Dimmu Borgir since 1999 and co-founding Arcturus.
 
 ## Technique
 

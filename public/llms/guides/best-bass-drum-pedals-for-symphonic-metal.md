@@ -11,14 +11,14 @@
 
 Symphonic metal's double bass work sits underneath full orchestral or choir arrangements, and its most important job isn't raw top-end speed — it's staying rock-solid and consistent at mid-to-fast tempo so the orchestration on top has a dependable foundation to sit against. A pedal that drifts or loses its feel mid-song throws off the entire arrangement, not just the drum part.
 
-Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon XR double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses a Pearl Demon Drive double pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its NiNjA bearing precision for consistent speed night after night. Frost of Satyricon and 1349 relies on a Sonor Perfect Balance pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades without missing a beat.
+Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses a Pearl Demon Drive double pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its NiNjA bearing precision for consistent speed night after night. Frost of Satyricon and 1349 relies on a Sonor Perfect Balance pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades without missing a beat.
 
 This guide breaks down what actually makes a bass drum pedal work for symphonic metal — mid-to-fast consistency, sustained reliability, and dynamic sensitivity beneath an orchestral mix — with specific pedal recommendations from budget-friendly starters through the professional rigs behind the genre's most orchestrally ambitious records.
 
 **Key Points:**
 
 - Symphonic metal rewards consistent, reliable mid-to-fast double bass over raw top-end speed — the orchestration on top depends on a dependable foundation
-- Daray's Pearl Demon XR is built for sustained reliability across Dimmu Borgir's full-orchestra material
+- Daray's Pearl Demon Drive is built for sustained reliability across Dimmu Borgir's full-orchestra material
 - Jaska Raatikainen's Pearl Eliminator proved reliable across 26 years of Children of Bodom's orchestrated material without missing a beat
 - A pedal that drifts or loses feel mid-song throws off the entire orchestral arrangement, not just the drum part
 
@@ -60,17 +60,17 @@ Hellhammer's NiNjA bearing Demon Drive delivers frictionless, consistent precisi
 
 ## Top Bass Drum Pedals for Symphonic Metal's Orchestral Consistency
 
-### 1. Pearl Demon XR — Pearl
+### 1. Pearl Demon Drive — Pearl
 
-**Model:** Demon XR Double Pedal  
+**Model:** Demon Drive Double Pedal  
 **Price range:** €450-600 per double set  
 **Tier:** pro  
 **Type:** Direct Drive  
 **Rating:** 4.7/5
 
-Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon XR double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands night after night. Its direct-drive precision keeps the double bass locked in beneath dense orchestral and choir arrangements without drifting.
+Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands night after night. Its direct-drive precision keeps the double bass locked in beneath dense orchestral and choir arrangements without drifting.
 
-The Demon XR's refined mechanism holds its calibration across the extended, dynamically layered sets symphonic metal's orchestral ambitions require.
+The Demon Drive's refined mechanism holds its calibration across the extended, dynamically layered sets symphonic metal's orchestral ambitions require.
 
 **Pros:**
 - Daray's proven Dimmu Borgir setup
@@ -175,7 +175,7 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
 
 ## Best Budget Bass Drum Pedals for Symphonic Metal
 
-You don't need a Demon XR or Demon Drive to start building symphonic metal's consistent, reliable double bass foundation. These options deliver genuine dependability at an accessible price.
+You don't need a Demon Drive to start building symphonic metal's consistent, reliable double bass foundation. These options deliver genuine dependability at an accessible price.
 
 ### Pearl Eliminator — Pearl
 
@@ -201,7 +201,7 @@ Jaska Raatikainen's proven Children of Bodom pedal — over two decades of relia
 
 ## Our Top Picks
 
-- **Best Overall:** Pearl Demon XR — Daray's proven setup — direct-drive precision that keeps double bass locked in beneath a dense orchestral arrangement.
+- **Best Overall:** Pearl Demon Drive — Daray's proven setup — direct-drive precision that keeps double bass locked in beneath a dense orchestral arrangement.
 - **Best for Extreme Tempo Range:** Pearl Demon Drive — Hellhammer's choice — reliable at both extreme blast-beat tempo and measured, orchestrally-layered passages.
 - **Best Budget:** Pearl Eliminator — Jaska Raatikainen's proven entry point — over two decades of reliable, dependable double bass without flagship pricing.
 
@@ -210,7 +210,7 @@ Jaska Raatikainen's proven Children of Bodom pedal — over two decades of relia
 ## FAQ
 
 **What bass drum pedal does Daray use?**
-Daray of Dimmu Borgir plays a Pearl Demon XR double pedal, built for the sustained reliability the band's full-orchestra symphonic black metal demands night after night.
+Daray of Dimmu Borgir plays a Pearl Demon Drive double pedal, built for the sustained reliability the band's full-orchestra symphonic black metal demands night after night.
 
 **Why does symphonic metal need consistent double bass more than raw speed?**
 Symphonic metal's double bass work sits underneath a full orchestral or choir arrangement, so its main job is staying rock-solid and consistent at mid-to-fast tempo rather than chasing the fastest possible blast beat — a pedal that drifts mid-song throws off the entire arrangement, not just the drum part.
@@ -228,9 +228,9 @@ The Pearl Eliminator (around €250-350) — the same pedal Jaska Raatikainen us
 
 ## Build a Foundation the Orchestration Can Trust
 
-Symphonic metal's double bass work only succeeds if it's rock-solid and consistent underneath a full orchestral or choir arrangement — Daray's Pearl Demon XR and Hellhammer's Pearl Demon Drive both prove that reliable, direct-drive precision at mid-to-fast tempo matters more than chasing the fastest possible blast beat. Frost's Sonor Perfect Balance shows that dynamic control beneath orchestration is just as essential.
+Symphonic metal's double bass work only succeeds if it's rock-solid and consistent underneath a full orchestral or choir arrangement — Daray's and Hellhammer's Pearl Demon Drive pedals both prove that reliable, direct-drive precision at mid-to-fast tempo matters more than chasing the fastest possible blast beat. Frost's Sonor Perfect Balance shows that dynamic control beneath orchestration is just as essential.
 
-For most symphonic metal drummers, the Pearl Demon XR is the clearest choice for locking double bass in beneath a dense arrangement. If you also need extreme blast-beat capability for a raw black metal side project, Hellhammer's Pearl Demon Drive covers both ends. And Jaska Raatikainen's Pearl Eliminator proves a budget-friendly pedal can deliver two decades of dependable, career-spanning reliability.
+For most symphonic metal drummers, the Pearl Demon Drive is the clearest choice for locking double bass in beneath a dense arrangement. If you also need extreme blast-beat capability for a raw black metal side project, Hellhammer's Pearl Demon Drive covers both ends. And Jaska Raatikainen's Pearl Eliminator proves a budget-friendly pedal can deliver two decades of dependable, career-spanning reliability.
 
 Whatever you choose: prioritize consistency first, then build speed and dynamics on top of it.
 
@@ -247,7 +247,7 @@ Whatever you choose: prioritize consistency first, then build speed and dynamics
 
 ## Related Drummers
 
-- [Daray](https://metalforge.io/drummer/daray) — Pearl Demon XR — sustained reliability beneath Dimmu Borgir's full-orchestra material
+- [Daray](https://metalforge.io/drummer/daray) — Pearl Demon Drive — sustained reliability beneath Dimmu Borgir's full-orchestra material
 - [Hellhammer](https://metalforge.io/drummer/hellhammer) — Pearl Demon Drive — NiNjA bearing precision across Mayhem and Dimmu Borgir
 - [Frost](https://metalforge.io/drummer/frost) — Sonor Perfect Balance — dynamic control between blast-beat storms and theatrical restraint
 - [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen) — Pearl Eliminator — over two decades of reliable Children of Bodom double bass

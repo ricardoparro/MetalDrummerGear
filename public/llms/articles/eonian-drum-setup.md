@@ -16,7 +16,7 @@
 
 The long gap between records raised the stakes on every performance decision, and Daray's drum tracking had to deliver the same orchestral-scale precision that had defined the band's studio catalog since *Death Cult Armageddon* (2003). *Eonian* continued Dimmu Borgir's pattern of pairing extreme metal drumming with large-scale orchestral and choral arrangements, requiring the same tempo discipline and dynamic control that had carried Daray through *Abrahadabra* eight years earlier.
 
-By *Eonian*, Daray's rig was a known quantity rather than a new hire's audition: the Pearl Masterworks Stadium Exotic kit, Paiste RUDE and 2002 cymbals, and Pearl Demon XR double pedal that had anchored his first Dimmu Borgir session in 2010 returned as the foundation for his second. This article breaks down that setup as it was applied to *Eonian*'s sessions at Fascination Street Studios, and why a decade-plus into his tenure, Daray's gear choices remained consistent even as the band's production context evolved around him.
+By *Eonian*, Daray's rig was a known quantity rather than a new hire's audition: the Pearl Masterworks Stadium Exotic kit, Paiste RUDE and 2002 cymbals, and Pearl Demon Drive double pedal that had anchored his first Dimmu Borgir session in 2010 returned as the foundation for his second. This article breaks down that setup as it was applied to *Eonian*'s sessions at Fascination Street Studios, and why a decade-plus into his tenure, Daray's gear choices remained consistent even as the band's production context evolved around him.
 
 ## Gear Breakdown
 
@@ -44,7 +44,7 @@ The 14" Sound Edge Hi-Hats' open, shimmering character continued to serve *Eonia
 
 ## Eonian: Continuity Across an Eight-Year Gap
 
-*Eonian* demonstrates something *Abrahadabra* alone couldn't: that Daray's gear and technique weren't a one-album fit for Dimmu Borgir's orchestral ambitions but a durable foundation. Eight years and a full touring cycle after his studio debut, the same Pearl Masterworks Stadium Exotic kit, Paiste RUDE/2002 cymbals, and Pearl Demon XR pedal anchored his performance at Fascination Street Studios under Jens Bogren's production — proof that the rig built for *Abrahadabra* was never provisional.
+*Eonian* demonstrates something *Abrahadabra* alone couldn't: that Daray's gear and technique weren't a one-album fit for Dimmu Borgir's orchestral ambitions but a durable foundation. Eight years and a full touring cycle after his studio debut, the same Pearl Masterworks Stadium Exotic kit, Paiste RUDE/2002 cymbals, and Pearl Demon Drive pedal anchored his performance at Fascination Street Studios under Jens Bogren's production — proof that the rig built for *Abrahadabra* was never provisional.
 
 For the complete picture of Daray's current gear, see the [Daray drum setup guide](/articles/daray-drum-setup) and the [Daray drummer profile](/drummer/daray). For the studio album that first proved this rig could meet Dimmu Borgir's orchestral demands, see the [Abrahadabra drum setup breakdown](/articles/abrahadabra-drum-setup).
 

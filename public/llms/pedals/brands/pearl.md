@@ -20,7 +20,7 @@
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
 | [Daniel Erlandsson](https://metalforge.io/pedals/setups/daniel-erlandsson) | Arch Enemy | Pearl Eliminator Double Bass Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/daniel-erlandsson.md) |
-| [Daray](https://metalforge.io/pedals/setups/daray) | Dimmu Borgir / Vader | Pearl Demon XR | [Markdown](https://metalforge.io/llms/pedals/setups/daray.md) |
+| [Daray](https://metalforge.io/pedals/setups/daray) | Dimmu Borgir / Vader | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/daray.md) |
 | [Gene Hoglan](https://metalforge.io/pedals/setups/gene-hoglan) | Death / Testament / Dethklok | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/gene-hoglan.md) |
 | [George Kollias](https://metalforge.io/pedals/setups/george-kollias) | Nile | Pearl Demon XR | [Markdown](https://metalforge.io/llms/pedals/setups/george-kollias.md) |
 | [Jaska Raatikainen](https://metalforge.io/pedals/setups/jaska-raatikainen) | Children of Bodom | Pearl Eliminator | [Markdown](https://metalforge.io/llms/pedals/setups/jaska-raatikainen.md) |

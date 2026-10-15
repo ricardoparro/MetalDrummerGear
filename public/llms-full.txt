@@ -3349,7 +3349,7 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
 - **Drums:** Sonor SQ2 Heavy Beech
 - **Snare:** Sonor SQ2 14x5.5" Maple
 - **Cymbals:** Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)
-- **Hardware:** Axis Double Pedal, Sonor Drummer Throne, Roland Electronics
+- **Hardware:** Axis Double Pedal, Sonor Drummer Throne
 - **Sticks:** Vic Firth American Classic 5B
 
 ### Endorsements
@@ -4420,7 +4420,7 @@ The core of the Raymond Herrera drum kit is his Tama 14x6.5" Brass snare, delive
 ### Detailed Overview
 Raymond Herrera (born December 18, 1972, in Los Angeles, California) is an American drummer who co-founded influential industrial metal band Fear Factory in 1990. Known for his machine-like precision and pioneering use of drum triggers, Herrera helped define the sound of industrial metal drumming.
 
-His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obsolete" (1998) combined relentless double bass patterns with mechanical precision, creating the template for countless industrial and groove metal bands. Though he departed Fear Factory in 2009, his influence on modern metal drumming remains significant.
+His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obsolete" (1998) combined relentless double bass patterns with mechanical precision, creating the template for countless industrial and groove metal bands. Though he departed Fear Factory in 2006, his influence on modern metal drumming remains significant.
 
 ### Career Highlights
 - 1989: Joined Brujeria as one of founding members
@@ -4431,8 +4431,8 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 - 2001: Released "Digimortal," featuring hit "Linchpin"
 - 2004: Released "Archetype" after Fear Factory reunion
 - 2005: Released "Transgression" with Fear Factory
+- 2006: Officially departed Fear Factory
 - 2008: Formed Arkaea with Christian Olde Wolbers after Fear Factory split
-- 2009: Officially departed Fear Factory
 
 ### Current Gear
 - **Drums:** Tama Starclassic
@@ -4477,7 +4477,7 @@ Raymond Herrera's drumming style revolutionized industrial metal with its combin
 
 **Notable Tours**
 - Ozzfest (1997, 1999, 2001, 2006): Multiple appearances
-- Fear Factory World Tours (1992-2009): Extensive worldwide touring
+- Fear Factory World Tours (1992-2006): Extensive worldwide touring
 - Demanufacture Anniversary Tour (2005): Classic album tour
 
 ### Gear Highlights
@@ -4532,7 +4532,7 @@ A: Raymond Herrera drives his precise, stop-go double bass patterns with a DW 50
 A: Raymond Herrera uses Attack Drumheads across his Tama Starclassic kit.
 
 **Q: What band is Raymond Herrera in?**
-A: Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2009. He also drums for Brujeria and formed Arkaea after Fear Factory's split.
+A: Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2006. He also drums for Brujeria and formed Arkaea after Fear Factory's split.
 
 **Q: Does Raymond Herrera use electronic drum triggers?**
 A: Raymond Herrera uses ddrum and Roland electronic triggers throughout his kit, a technical setup central to the mechanically precise, processed drum sound he pioneered on Fear Factory albums like Demanufacture (1995) and Obsolete (1998).
@@ -5044,12 +5044,12 @@ A: Bill Ward played 14" Avedis Zildjian hi-hats from Master of Reality (1971) on
 - Trivium: 2010–2014
 
 ### Biography
-Nick Augusto (born August 4, 1986) is an American drummer best known for his tenure with Trivium from 2009 to 2014. Before joining Trivium, he was the drummer for the grindcore band Maruta and played in Metal Militia alongside future Trivium bassist Paolo Gregoletto. Augusto initially joined Trivium as their drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus. His powerful, speedy drumming style contributed to two studio albums: "In Waves" (2011) and "Vengeance Falls" (2013). Known for his aggressive playing and technical proficiency, Augusto brought a fresh energy to Trivium's live performances. After parting ways with Trivium, he formed the band Corrosion and has continued touring with bands like Light the Torch.
+Nick Augusto (born August 4, 1986) is an American drummer best known for his tenure with Trivium from 2010 to 2014. Before joining Trivium, he was the drummer for the grindcore band Maruta and played in Metal Militia alongside future Trivium bassist Paolo Gregoletto. Augusto initially joined Trivium as their drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus. His powerful, speedy drumming style contributed to two studio albums: "In Waves" (2011) and "Vengeance Falls" (2013). Known for his aggressive playing and technical proficiency, Augusto brought a fresh energy to Trivium's live performances. After parting ways with Trivium, he formed the band Corrosion and has continued touring with bands like Light the Torch.
 
 ### Complete Drum Kit Overview
-Nick Augusto's drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2009–2014 tenure as Trivium's drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is his Pearl Reference 14x6.5" Brass snare, delivering the sharp, cutting crack needed to punch through Trivium's dense thrash-metalcore guitar work, paired with a Pearl Demon Drive Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.
+Nick Augusto's drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2010–2014 tenure as Trivium's drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is his Pearl Reference 14x6.5" Brass snare, delivering the sharp, cutting crack needed to punch through Trivium's dense thrash-metalcore guitar work, paired with a DW 9000 Series Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.
 
-Sabian AAX Series cymbals round out the Nick Augusto drum set: 14" Stage Hi-Hats for tight articulation, 18" and 19" X-Plosion Crashes for explosive accents, a 21" Stage Ride for a driving rhythmic backbone, and an 18" AAXtreme China for aggressive punctuation on Trivium's heaviest passages. Pro-Mark Nylon Tip 5B sticks and Evans drumheads complete the rig. This configuration reflects Augusto's gear from his Trivium era (2009-2014).
+Sabian AAX Series cymbals round out the Nick Augusto drum set: 14" Stage Hi-Hats for tight articulation, 18" and 19" X-Plosion Crashes for explosive accents, a 21" Stage Ride for a driving rhythmic backbone, and an 18" AAXtreme China for aggressive punctuation on Trivium's heaviest passages. Pro-Mark Nylon Tip 5B sticks and Evans drumheads complete the rig. This configuration reflects Augusto's gear from his Trivium era (2010-2014).
 
 ### Detailed Overview
 Nick Augusto (born August 4, 1986, in Fort Lauderdale, Florida) is an American drummer best known for his tenure with thrash/metalcore band Trivium from 2010 to 2014. He joined the band following the departure of Travis Smith, bringing a more aggressive and technically demanding approach to Trivium's sound.
@@ -5069,7 +5069,7 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
 - **Drums:** Pearl Reference Pure
 - **Snare:** Pearl Reference 14x6.5" Brass
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
-- **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
+- **Hardware:** DW 9000 Series Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Pro-Mark Nylon Tip 5B
 - **Heads:** Evans
 
@@ -9165,11 +9165,11 @@ A: Hannes Grossmann holds a degree in classical percussion and music theory, tra
 **Profile URL:** https://metalforge.io/drummer/daray
 
 ### Band History
-- Dimmu Borgir: 2007–present (current)
-- Vader: 2002–2005
+- Dimmu Borgir: 2008–present (current)
+- Vader: 2004–2008
 
 ### Biography
-Dariusz "Daray" Brzozowski (born January 30, 1980) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2006-2016). His drumming combines extreme speed, technical precision, and theatrical flair.
+Dariusz "Daray" Brzozowski (born January 30, 1980) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2004-2008). His drumming combines extreme speed, technical precision, and theatrical flair.
 
 ### Complete Drum Kit Overview
 Daray's kit is anchored by a Tama Starclassic Performer B/B shell pack in Piano Black, a setup built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements and Vader's blast-driven death metal assault. His Tama S.L.P. Black Brass LBR1465 snare supplies a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike, forming the backbone of the Daray drum kit.
@@ -9177,18 +9177,16 @@ Daray's kit is anchored by a Tama Starclassic Performer B/B shell pack in Piano 
 Paiste's RUDE and 2002 Series cymbals give the kit its aggressive edge: 14" RUDE Hi-Hats for raw, driving timekeeping; 17" and 18" RUDE Crashes for explosive accents; and a 22" RUDE Power Ride cutting through extreme-tempo passages. A Pearl Demon Drive double pedal provides the speed and control behind his rapid-fire double bass work, a defining element of his playing with both Dimmu Borgir and Vader. Vic Firth American Classic Extreme 5B sticks — a heavier stick variant built for extreme metal's demands — and Evans heads complete the setup, engineered to withstand the speed and theatrical intensity of his live performances.
 
 ### Detailed Overview
-Dariusz "Daray" Brzozowski (born January 30, 1980, in Nowy Dwór Mazowiecki, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his 10-year tenure with Polish death metal legends Vader (2006-2016).
+Dariusz "Daray" Brzozowski (born January 30, 1980, in Nowy Dwór Mazowiecki, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his four-year tenure with Polish death metal legends Vader (2004-2008).
 
 Daray's drumming combines extreme speed and technical precision with theatrical flair, making him ideally suited for Dimmu Borgir's grandiose symphonic productions. His ability to perform complex, blistering patterns while maintaining the dynamics required for orchestral metal has established him as one of the premier drummers in extreme metal.
 
 ### Career Highlights
 - 2003: Joined Polish black metal band Vesania
-- 2006: Joined Vader, Poland's most internationally recognized death metal band
-- 2008: Joined Dimmu Borgir, replacing Hellhammer
+- 2004: Joined Vader, Poland's most internationally recognized death metal band
+- 2008: Left Vader; joined Dimmu Borgir, replacing Hellhammer
 - 2010: Recorded "Abrahadabra" with Dimmu Borgir and full orchestra
-- 2011: Released "Welcome to the Morbid Reich" with Vader
 - 2014: Recorded "Forces of the Northern Night" live album with Dimmu Borgir
-- 2016: Left Vader to focus exclusively on Dimmu Borgir
 - 2018: Released "Eonian" with Dimmu Borgir
 - 2023: Performed at major European festivals with Dimmu Borgir
 
@@ -9225,10 +9223,8 @@ Daray's drumming style combines the extreme speed and brutality of death metal w
 
 **Key Albums**
 - Vesania - Distractive Killusions (2007, Napalm): Polish black metal
-- Vader - XXV (2008, Nuclear Blast): Anniversary album
+- Vader - XXV (2008, Nuclear Blast): Anniversary album; final Vader release with Daray
 - Dimmu Borgir - Abrahadabra (2010, Nuclear Blast): Full orchestra production
-- Vader - Welcome to the Morbid Reich (2011, Nuclear Blast): Thrash-influenced death metal
-- Vader - Tibi et Igni (2014, Nuclear Blast): Final album with Daray
 - Dimmu Borgir - Forces of the Northern Night (2017, Nuclear Blast): Live with orchestra
 - Dimmu Borgir - Eonian (2018, Nuclear Blast): Most recent studio album
 
@@ -9286,7 +9282,7 @@ A: Daray drives his rapid-fire double bass work with a Pearl Demon Drive double 
 A: Daray uses Evans drumheads across his Tama Starclassic kit.
 
 **Q: What band is Daray in?**
-A: Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2006-2016) and Vesania (since 2003).
+A: Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2004-2008) and Vesania (since 2003).
 
 **Q: Does Daray use trigger-assisted drums?**
 A: Daray uses trigger-assisted drums live to maintain consistency at the extreme tempos Dimmu Borgir's symphonic productions demand, and relies on in-ear monitoring to stay synchronized with orchestral arrangements during performances.
@@ -9612,7 +9608,7 @@ A: Tim Yeung uses trigger-assisted bass drums for clarity at the extreme tempos 
 Kevin Talley (born May 21, 1979) is an American drummer renowned for his work with brutal death metal and grindcore bands including Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. His incredibly fast and precise drumming helped define the brutal death metal sound.
 
 ### Complete Drum Kit Overview
-Kevin Talley plays a Pearl Masters Premium Legend drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation has demanded for over two decades. The Kevin Talley drum set centers on a Pearl Masters 14x5.5" Maple snare, delivering a bright, cracking response that cuts through brutal death metal's dense, downtuned guitar work at his signature blistering tempos.
+Kevin Talley plays a Pearl Masters Custom / Reference Series drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation has demanded for over two decades. The Kevin Talley drum set centers on a Pearl Masters 14"x6.5" steel snare, delivering a bright, cracking response that cuts through brutal death metal's dense, downtuned guitar work at his signature blistering tempos.
 
 Sabian AAX Series cymbals round out the Kevin Talley drum kit: 14" Stage Hi-Hats for tight, controlled chops; 17" and 18" X-Plosion Crashes for fast-decaying accents; and a 20" Stage Ride for cutting rhythmic definition. A Pearl Eliminator double pedal drives Talley's renowned speed and endurance, powering the relentless blast beats and gravity-blast technique that helped define brutal death metal and grindcore across his work with Dying Fetus and Misery Index. Vic Firth American Classic 5B sticks and Remo drumheads complete a rig built to withstand the physical demands of some of extreme metal's fastest drumming.
 
@@ -9634,8 +9630,8 @@ Talley's drumming combines the technical demands of brutal death metal with the 
 - 2017: Left Six Feet Under; continues session work
 
 ### Current Gear
-- **Drums:** Pearl Masters Premium Legend
-- **Snare:** Pearl Masters 14x5.5" Maple
+- **Drums:** Pearl Masters Custom / Reference Series
+- **Snare:** Pearl Masters 14"x6.5" Steel
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride)
 - **Hardware:** Pearl Eliminator Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
@@ -9907,7 +9903,7 @@ A: Isaac Lamb's pedal brand and model are not publicly documented. No verified s
 **Profile URL:** https://metalforge.io/drummer/martin-axenrot
 
 ### Band History
-- Opeth: 2006–present (current)
+- Opeth: 2006–2021
 - Bloodbath: 2008–present (current)
 - Witchery: 1997–2010
 
@@ -14695,7 +14691,7 @@ Full profile: https://metalforge.io/drummer/mike-portnoy
 ### Frequently Asked Questions
 
 **Q: Who is the best symphonic metal drummer?**
-A: Hellhammer is the most influential symphonic metal drummer, having contributed to both Mayhem's foundational black metal and Dimmu Borgir's full-orchestra symphonic black metal era — the two poles of the genre's extreme range. Daray is the current standard-bearer for technical symphonic black metal drumming as Dimmu Borgir's active drummer. Frost of Satyricon represents the genre's technical precision ceiling — combining blast beat speed with the controlled performance discipline that full orchestral arrangements demand.
+A: Hellhammer is the most influential symphonic metal drummer, having contributed to both Mayhem's foundational black metal and an earlier stint drumming for Dimmu Borgir. Daray is the current standard-bearer for technical symphonic black metal drumming, having powered Dimmu Borgir's full-orchestra symphonic black metal era as the band's active drummer. Frost of Satyricon represents the genre's technical precision ceiling — combining blast beat speed with the controlled performance discipline that full orchestral arrangements demand.
 
 **Q: What makes symphonic metal drumming different from other extreme metal drumming?**
 A: Symphonic metal drumming must serve two masters simultaneously: the extreme metal aggression of blast beats and double bass at high tempos, and the orchestral grandeur of full symphony arrangements that require dynamic sensitivity and precise timing relative to conducted ensembles. Where death or black metal drumming can operate with raw intensity, symphonic metal drumming requires awareness of the full orchestral texture — knowing when to pull back, when to add dynamics, and how to create space for choir and string arrangements while still delivering extreme metal's physical impact. This combination of extremity and orchestral sensitivity is what makes the best symphonic metal drummers unique.
@@ -17284,9 +17280,9 @@ Full profile: https://metalforge.io/drummer/tomas-haake
 
 **Band:** Periphery
 **Highlight:** Periphery's djent flagship
-**Why ranked here:** Matt Halpern has driven djent's most commercially successful band, Periphery, since 2005, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience
+**Why ranked here:** Matt Halpern has driven djent's most commercially successful band, Periphery, since 2009, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience
 
-Matt Halpern (Periphery) earns rank #2 for: periphery's djent flagship. Matt Halpern has driven djent's most commercially successful band, Periphery, since 2005, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience.
+Matt Halpern (Periphery) earns rank #2 for: periphery's djent flagship. Matt Halpern has driven djent's most commercially successful band, Periphery, since 2009, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience.
 
 Full profile: https://metalforge.io/drummer/matt-halpern
 
@@ -19916,9 +19912,9 @@ Drummer #61 (Unknown) earns rank #9 for: beatdown hardcore's breakdown-first gro
 
 **Band:** Dimmu Borgir / Vader
 **Highlight:** Vader's extreme speed and theatrical precision
-**Why ranked here:** Daray's 2002–2005 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style.
+**Why ranked here:** Daray's 2004-2008 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style.
 
-Daray (Dimmu Borgir / Vader) earns rank #10 for: vader's extreme speed and theatrical precision. Daray's 2002–2005 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style..
+Daray (Dimmu Borgir / Vader) earns rank #10 for: vader's extreme speed and theatrical precision. Daray's 2004-2008 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style..
 
 Full profile: https://metalforge.io/drummer/daray
 
@@ -21307,10 +21303,10 @@ Full profile: https://metalforge.io/drummer/blake-richardson
 ### 5. Matt Halpern
 
 **Band:** Periphery
-**Highlight:** Closing out the decade as a founding djent-metalcore architect
-**Why ranked here:** Matt Halpern co-founded Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for founding one of the decade's last — and most influential — metalcore-adjacent acts.
+**Highlight:** Closing out the decade as a djent-metalcore technical architect
+**Why ranked here:** Matt Halpern joined Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for joining one of the decade's last — and most influential — metalcore-adjacent acts.
 
-Matt Halpern (Periphery) earns rank #5 for: closing out the decade as a founding djent-metalcore architect. Matt Halpern co-founded Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for founding one of the decade's last — and most influential — metalcore-adjacent acts..
+Matt Halpern (Periphery) earns rank #5 for: closing out the decade as a djent-metalcore technical architect. Matt Halpern joined Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for joining one of the decade's last — and most influential — metalcore-adjacent acts..
 
 Full profile: https://metalforge.io/drummer/matt-halpern
 
@@ -21374,7 +21370,7 @@ A: 2000s metalcore emerged directly from the fusion of hardcore punk aggression 
 A: August Burns Red, Converge, Shadows Fall, Between the Buried and Me, Killswitch Engage, Trivium, and Darkest Hour are among the most frequently cited bands that defined metalcore's 2000s wave, alongside crossover-adjacent acts like Lamb of God and Fear Factory whose 2000s output shaped the surrounding scene. Periphery and Kublai Khan TX, both founded in 2009, mark the transition point between the decade's established metalcore sound and what came after.
 
 **Q: How did 2000s metalcore influence the genre's next decade?**
-A: Several drummers who built their reputations in the 2000s carried metalcore's technical, double-bass-driven vocabulary directly into the 2010s — Nick Augusto joined Trivium in 2010 after working as the band's drum technician during the decade's final years, and Matt Halpern co-founded Periphery in 2009, fusing 2000s metalcore technicality with djent's polymetric influence to help define the genre's next chapter.
+A: Several drummers who built their reputations in the 2000s carried metalcore's technical, double-bass-driven vocabulary directly into the 2010s — Nick Augusto joined Trivium in 2010 after working as the band's drum technician during the decade's final years, and Matt Halpern joined Periphery in 2009, fusing 2000s metalcore technicality with djent's polymetric influence to help define the genre's next chapter.
 
 ### Related Lists
 
@@ -21554,9 +21550,9 @@ Full profile: https://metalforge.io/drummer/mike-mangini
 
 **Band:** Periphery
 **Highlight:** Berklee training behind djent's technical foundation
-**Why ranked here:** Matt Halpern graduated from Berklee College of Music before co-founding Periphery, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style.
+**Why ranked here:** Matt Halpern graduated from Berklee College of Music before joining Periphery in 2009, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style.
 
-Matt Halpern (Periphery) earns rank #3 for: berklee training behind djent's technical foundation. Matt Halpern graduated from Berklee College of Music before co-founding Periphery, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style..
+Matt Halpern (Periphery) earns rank #3 for: berklee training behind djent's technical foundation. Matt Halpern graduated from Berklee College of Music before joining Periphery in 2009, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style..
 
 Full profile: https://metalforge.io/drummer/matt-halpern
 
@@ -21642,7 +21638,7 @@ A: Formal training builds a structured understanding of rhythm, subdivision, and
 A: No — many of metal's greatest drummers are entirely self-taught. But the drummers on this list demonstrate that formal training, where it exists, tends to show up as a specific kind of disciplined, architecturally structured playing rather than pure instinctive power. Tomas Haake's metronomic precision with Meshuggah is often compared to conservatory-level percussion discipline even without a documented formal credit, showing that the same rigor can emerge through intensive self-study.
 
 **Q: What is Berklee College of Music's connection to metal drumming?**
-A: Berklee College of Music, a leading American music school, has produced or employed several notable metal drummers: Mike Mangini taught there before joining Dream Theater, Matt Halpern graduated before co-founding Periphery, and Jason Bittner is an alumnus who later joined Shadows Fall and Overkill. Its emphasis on technical musicianship and music theory has made it a recurring credential among metal's most academically-trained technical players.
+A: Berklee College of Music, a leading American music school, has produced or employed several notable metal drummers: Mike Mangini taught there before joining Dream Theater, Matt Halpern graduated before joining Periphery in 2009, and Jason Bittner is an alumnus who later joined Shadows Fall and Overkill. Its emphasis on technical musicianship and music theory has made it a recurring credential among metal's most academically-trained technical players.
 
 ### Related Lists
 
@@ -23074,7 +23070,7 @@ Full list page: https://metalforge.io/lists/best-metal-drummers-playing-tama-kit
 
 ## Top 10 Metal Drummers Playing Pearl Kits
 
-Pearl is the second drum-kit brand in MetalForge's gear-angle ranking series, and its Reference Pure, Masterworks, and Export lines cover more documented ground across MetalForge's gear guides than any manufacturer besides Tama. Joey Jordison anchored Slipknot's sound on a Pearl Reference Series kit in custom purple/black finishes, with a Pearl Joey Jordison Signature 13"x6.5" snare built with a smaller diameter for a faster response than a standard 14". Gene Hoglan, "The Atomic Clock," has run Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades, while Ray Luzier's Pearl Reference Pure kit gives Korn's downtuned grooves the same clarity Jordison brought to Slipknot. Mike Mangini's Pearl Masterworks Maple rig, with its multiple Pearl Reference snares and Roland TD-50 triggers, powered Dream Theater's most technically demanding material from 2010 to 2023. George Kollias co-designed the Pearl Demon XR double pedal specifically for his 240+ BPM technical death metal tempos with Nile, Paul Mazurkiewicz has played Pearl since co-founding Cannibal Corpse in 1988, and Daniel Erlandsson's Pearl Reference Pure kit anchors Arch Enemy's melodic death metal attack. Jaska Raatikainen played Pearl kits for Children of Bodom's debut "Something Wild," then returned to Pearl in 2004 with a Masters Premium Maple kit built for endurance, carrying it through "Are You Dead Yet?" and the rest of the catalog up to "Hexed" (2019) and the band's dissolution that year. Ranked by how extensively and currently each drummer's Pearl relationship is documented in MetalForge's own gear data.
+Pearl is the second drum-kit brand in MetalForge's gear-angle ranking series, and its Reference Pure, Masterworks, and Export lines cover more documented ground across MetalForge's gear guides than any manufacturer besides Tama. Joey Jordison anchored Slipknot's sound on a Pearl Reference Series kit in custom purple/black finishes, with a Pearl Joey Jordison Signature 13"x6.5" snare built with a smaller diameter for a faster response than a standard 14". Gene Hoglan, "The Atomic Clock," has run Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades, while Ray Luzier's Pearl Reference Maple kit gives Korn's downtuned grooves the same clarity Jordison brought to Slipknot. Mike Mangini's Pearl Masterworks Maple rig, with its multiple Pearl Reference snares and Roland TD-50 triggers, powered Dream Theater's most technically demanding material from 2010 to 2023. George Kollias co-designed the Pearl Demon XR double pedal specifically for his 240+ BPM technical death metal tempos with Nile, Paul Mazurkiewicz has played Pearl since co-founding Cannibal Corpse in 1988, and Daniel Erlandsson's Pearl Reference Pure kit anchors Arch Enemy's melodic death metal attack. Jaska Raatikainen played Pearl kits for Children of Bodom's debut "Something Wild," then returned to Pearl in 2004 with a Masters Premium Maple kit built for endurance, carrying it through "Are You Dead Yet?" and the rest of the catalog up to "Hexed" (2019) and the band's dissolution that year. Ranked by how extensively and currently each drummer's Pearl relationship is documented in MetalForge's own gear data.
 
 ### Rankings
 
@@ -23101,10 +23097,10 @@ Full profile: https://metalforge.io/drummer/gene-hoglan
 ### 3. Ray Luzier
 
 **Band:** Korn
-**Highlight:** Pearl Reference Pure — Korn's versatile groove engine
-**Why ranked here:** Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Pure kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands.
+**Highlight:** Pearl Reference Maple — Korn's versatile groove engine
+**Why ranked here:** Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Maple kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands.
 
-Ray Luzier (Korn) earns rank #3 for: pearl reference pure — korn's versatile groove engine. Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Pure kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands..
+Ray Luzier (Korn) earns rank #3 for: pearl reference maple — korn's versatile groove engine. Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Maple kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands..
 
 Full profile: https://metalforge.io/drummer/ray-luzier
 
@@ -23164,7 +23160,7 @@ Full profile: https://metalforge.io/drummer/jaska-raatikainen
 A: Joey Jordison (Slipknot) ran a signature Pearl Reference Series kit, and Gene Hoglan has played Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades. Ray Luzier (Korn), Mike Mangini (Dream Theater), George Kollias (Nile), Paul Mazurkiewicz (Cannibal Corpse), Daniel Erlandsson (Arch Enemy), and Jaska Raatikainen (Children of Bodom) round out MetalForge's most extensively documented Pearl artists.
 
 **Q: What is Pearl Reference Pure?**
-A: Reference Pure is Pearl's flagship all-maple professional shell line, prized for a focused, articulate low end. Gene Hoglan, Ray Luzier, Paul Mazurkiewicz, and Daniel Erlandsson all run Reference Pure kits, while George Kollias and Mike Mangini use Pearl's Masterworks custom-order line for more elaborate, individually specified configurations.
+A: Reference Pure is Pearl's flagship all-maple professional shell line, prized for a focused, articulate low end. Gene Hoglan, Paul Mazurkiewicz, and Daniel Erlandsson all run Reference Pure kits, while Ray Luzier runs Pearl's related Reference Maple line, and George Kollias and Mike Mangini use Pearl's Masterworks custom-order line for more elaborate, individually specified configurations.
 
 **Q: Did any of these drummers play a different brand before switching to Pearl?**
 A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Angel and Death years before becoming a long-time Pearl Reference Pure endorser, and has also used DW kits at points across his four-decade career — though Pearl Reference Pure has been his primary setup for many years.

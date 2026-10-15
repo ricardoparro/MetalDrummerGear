@@ -7,7 +7,7 @@
 
 ## Overview
 
-Dariusz "Daray" Brzozowski stepped into one of extreme metal's most demanding drum seats in 2008, replacing Hellhammer in Norwegian symphonic black metal titans Dimmu Borgir. The job requires something rare: the raw speed and brutality of death metal — a skill he'd already proven across a decade with Polish death metal legends Vader (2006-2016) — combined with the split-second dynamic control needed to lock in with a live 70-piece orchestra and choir without derailing the arrangement.
+Dariusz "Daray" Brzozowski stepped into one of extreme metal's most demanding drum seats in 2008, replacing Hellhammer in Norwegian symphonic black metal titans Dimmu Borgir. The job requires something rare: the raw speed and brutality of death metal — a skill he'd already proven across roughly four years with Polish death metal legends Vader (2004-2008) — combined with the split-second dynamic control needed to lock in with a live 70-piece orchestra and choir without derailing the arrangement.
 
 What makes Daray's style distinct from most extreme metal drummers is that theatrical control. Blast beats and machine-gun double-kick runs are only half the job; the other half is playing with absolute consistency against fixed orchestral parts that can't adjust to a drummer who rushes or drags. Songs like "Progenies of the Great Apocalypse" and the orchestral sections of Abrahadabra (2010) and Eonian (2018) showcase a drummer who can go from blistering aggression to controlled, orchestral-tempo precision within the same song.
 
@@ -75,7 +75,7 @@ A: Daray plays a Pearl Reference Pure kit in a custom black finish, with a doubl
 A: Daray relies on strict tempo discipline and dynamic control rather than following the orchestra by ear. Since a live orchestra and choir can't adjust to a drummer who rushes or drags, he practices holding blast beats and fills to a fixed tempo so his parts stay locked to the arrangement.
 
 **Q: What bands has Daray played in?**  
-A: Daray has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008, replacing Hellhammer. Before that, he spent a decade with Polish death metal band Vader (2006-2016), and he continues to play with Polish black metal band Vesania.
+A: Daray has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008, replacing Hellhammer. Before that, he spent roughly four years with Polish death metal band Vader (2004-2008), and he continues to play with Polish black metal band Vesania.
 
 **Q: Is Daray's style good for beginners?**  
 A: Daray's blast beats and double-kick endurance are advanced techniques, but his tempo-discipline drills — practicing against a click without drifting — are valuable for drummers at any level who want tighter timing.

@@ -1,7 +1,7 @@
 # Daray Drum Kit Gear History — Vader / Dimmu Borgir
 
 **Drummer:** Daray (Dariusz Brzozowski)
-**Band:** Vader (2006–2016), Dimmu Borgir (2008–present), Vesania (2003–present)
+**Band:** Vader (2004–2008), Dimmu Borgir (2008–present), Vesania (2003–present)
 **Active:** 2003–present
 **URL:** https://metalforge.io/drummers/daray/gear-history
 
@@ -20,11 +20,11 @@
 - **Estimated cost (2003):** ~$1,200
 - **Notable:** Daray joined Polish black metal band Vesania, developing the extreme-speed technique that would define his later career.
 
-### Vader Era Begins (2006)
+### Vader Era Begins (2004)
 
 - **Drums:** Developing Pearl setup
-- **Estimated cost (2006):** ~$2,500
-- **Notable:** Joined Vader, Poland's most internationally recognized death metal band, beginning a decade-long tenure (2006–2016).
+- **Estimated cost (2004):** ~$2,500
+- **Notable:** Joined Vader, Poland's most internationally recognized death metal band, beginning a four-year tenure (2004–2008).
 
 ### Welcome to the Morbid Reich Era (2011)
 
@@ -43,14 +43,14 @@
 - **Drums:** Pearl Reference Pure (same core configuration)
 - **Cymbals:** Paiste RUDE / 2002 series
 - **Estimated cost (current):** ~$9,739
-- **Notable:** After leaving Vader in 2016, Daray carried the same Pearl / Paiste rig into his full-time Dimmu Borgir role, powering Eonian (2018) and years of festival headline slots requiring absolute consistency from club stages to pyrotechnic productions.
+- **Notable:** After leaving Vader in 2008, Daray carried the same Pearl / Paiste rig into his full-time Dimmu Borgir role, powering Eonian (2018) and years of festival headline slots requiring absolute consistency from club stages to pyrotechnic productions.
 
 ---
 
 ## Key Gear Changes
 
 - **2003:** Joins Vesania on entry-level gear
-- **2006:** Joins Vader, beginning a decade-long tenure alongside developing Pearl endorsement
+- **2004:** Joins Vader, beginning a four-year tenure alongside developing Pearl endorsement
 - **2011:** Welcome to the Morbid Reich recorded — definitive Pearl Reference Pure / Paiste RUDE setup established
 - **2018:** Same Pearl / Paiste core carried into full-time Dimmu Borgir role after leaving Vader
 - **Career constant:** Pearl Demon Drive double pedal and Promark 5B sticks maintained across both extreme death metal and symphonic black metal contexts
@@ -72,7 +72,7 @@ A: Daray uses a Paiste setup spanning the Sound Edge, RUDE, and 2002 lines — 1
 A: Daray is one of extreme metal's rare drummers validated at both ends of the spectrum — pure death metal speed and brutality in Vader and Vesania, and symphonic orchestral precision replacing Hellhammer in Dimmu Borgir since 2008. His technique combines extreme blast-beat velocity with the dynamic control needed to lock timing against live orchestra performances.
 
 **Q: Has Daray's gear changed since Welcome to the Morbid Reich?**
-A: No — Daray's Pearl Reference Pure / Paiste RUDE configuration established during his Vader tenure carried directly into his full-time Dimmu Borgir role after 2016 and remains his core setup today.
+A: No — Daray's Pearl Reference Pure / Paiste RUDE configuration established during his Vader tenure carried directly into his full-time Dimmu Borgir role after 2008 and remains his core setup today.
 
 ---
 

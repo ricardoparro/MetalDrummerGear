@@ -1506,7 +1506,7 @@ const drummers = [
     country: 'Poland',
     era: '2000s',
     image: 'https://upload.wikimedia.org/wikipedia/commons/4/49/Dariusz_Brzozowski.jpg',
-    bio: 'Dariusz "Daray" Brzozowski (born August 23, 1984) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2006-2016). His drumming combines extreme speed, technical precision, and theatrical flair.',
+    bio: 'Dariusz "Daray" Brzozowski (born August 23, 1984) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2004-2008). His drumming combines extreme speed, technical precision, and theatrical flair.',
     sameAs: [
       'https://www.discogs.com/artist/868449-Daray'
     ],
@@ -1514,7 +1514,7 @@ const drummers = [
       drums: 'Pearl Masterworks Stadium Exotic',
       snare: 'Pearl Reference 14x5.5" Brass',
       cymbals: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride)',
-      hardware: 'Pearl Demon XR Double Pedal',
+      hardware: 'Pearl Demon Drive Double Pedal',
       sticks: 'Vic Firth American Classic Extreme 5B'
     },
     photos: [

@@ -21,12 +21,12 @@ August Burns Red's Matt Greiner vs Mayhem's Hellhammer. Jazz-informed metalcore 
 - **Drums:** Sonor SQ2 Heavy Beech
 - **Cymbals:** Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)
 - **Snare:** Sonor SQ2 14x5.5" Maple
-- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne, Roland Electronics
+- **Pedals/Hardware:** Axis Double Pedal, Sonor Drummer Throne
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Playing Style
 
-Matt Greiner co-founded metalcore band August Burns Red in Lancaster, Pennsylvania, in 2003, and has driven the band's Grammy-nominated catalog for over two decades with jazz-influenced dynamics and compositional ambition across records including "Found in Far Away Places" (2015) and "Guardians" (2020). Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Oslo, Norway) joined Norwegian black metal band Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994), running a parallel career with Dimmu Borgir since 1999.
+Matt Greiner co-founded metalcore band August Burns Red in Lancaster, Pennsylvania, in 2003, and has driven the band's Grammy-nominated catalog for over two decades with jazz-influenced dynamics and compositional ambition across records including "Found in Far Away Places" (2015) and "Guardians" (2020). Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) joined Norwegian black metal band Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994), running a parallel career with Dimmu Borgir since 1999.
 
 ## Technique
 

@@ -451,7 +451,7 @@ const drummers = [
       drums: 'Pearl Reference Pure',
       snare: 'Pearl Reference 14x6.5" Brass',
       cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      hardware: 'DW 9000 Series Double Pedal, Pearl D-2000 Throne',
       sticks: 'Vic Firth American Classic 5B',
       heads: 'Evans'
     }

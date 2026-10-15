@@ -33,7 +33,7 @@ Navene Koperweis plays a DW Drums Performance Series kit — a workhorse acousti
 
 Meinl Byzance cymbals define the Navene Koperweis drum kit: 15" Dual Hi-Hats for tight, articulate patterns across Entheos's technical grooves, 18" and 19" Extra Dry Medium Crashes for quick-decay accents, a 21" Transition Ride, an 18" Extra Dry China for abrupt textural punctuation, and a 10" splash for ornamental fills. A DW 9000 Series double pedal drives his extreme single-stroke and blast-beat passages, with Vic Firth American Classic 5B sticks and a DW throne rounding out the rig.
 
-This DW/Meinl configuration has carried Koperweis from his Animals as Leaders tenure (2012-2014) through Entheos's ongoing catalog, reflecting a drummer whose acoustic gear stays consistent even as his broader musical output — spanning Fleshwrought, session dates for Machine Head and Job for a Cowboy, and his own electronic productions — ranges far beyond a standard metal drum kit.
+This DW/Meinl configuration has carried Koperweis from his Animals as Leaders tenure (2010-2012) through Entheos's ongoing catalog, reflecting a drummer whose acoustic gear stays consistent even as his broader musical output — spanning Fleshwrought, session dates for Machine Head and Job for a Cowboy, and his own electronic productions — ranges far beyond a standard metal drum kit.
 
 ## Biography
 

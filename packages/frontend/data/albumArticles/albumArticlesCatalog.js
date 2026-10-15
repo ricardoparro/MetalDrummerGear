@@ -18,7 +18,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/abe-cunningham.webp",
     "datePublished": "2026-05-03",
     "dateModified": "2026-05-03",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Deftones",
+    "bands": [
+      "Deftones"
+    ],
+    "country": "USA"
   },
   "white-pony-drum-setup": {
     "moduleFile": "abe-cunningham",
@@ -39,7 +45,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/white-pony-drums.webp",
     "datePublished": "2026-05-04",
     "dateModified": "2026-05-04",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Maverick Records",
+    "producer": "Terry Date"
   },
   "diamond-eyes-drum-setup": {
     "moduleFile": "abe-cunningham",
@@ -61,7 +69,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/diamond-eyes-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Reprise Records",
+    "producer": "Nick Raskulinecz"
   },
   "koi-no-yokan-drum-setup": {
     "moduleFile": "abe-cunningham",
@@ -83,7 +93,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/koi-no-yokan-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Reprise Records",
+    "producer": "Nick Raskulinecz"
   },
   "around-the-fur-drum-setup": {
     "moduleFile": "abe-cunningham",
@@ -105,7 +117,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/around-the-fur-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Maverick Records",
+    "producer": "Terry Date"
   },
   "saturday-night-wrist-drum-setup": {
     "moduleFile": "abe-cunningham",
@@ -127,7 +141,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/saturday-night-wrist-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Maverick Records",
+    "producer": "Terry Date, Bob Ezrin, Deftones"
   },
   "deftones-self-titled-drum-setup": {
     "moduleFile": "abe-cunningham",
@@ -149,7 +165,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/deftones-self-titled-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Deftones",
+    "label": "Maverick Records",
+    "producer": "Don Gilmore"
   },
   "ohms-drum-setup": {
     "moduleFile": "abe-cunningham",
@@ -171,7 +190,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/ohms-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Deftones",
+    "label": "Reprise Records",
+    "producer": "Terry Date"
   },
   "gore-drum-setup": {
     "moduleFile": "abe-cunningham",
@@ -193,7 +215,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/gore-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Deftones",
+    "label": "Reprise Records",
+    "producer": "Matt Hyde"
   },
   "slaughter-of-the-soul-drum-setup": {
     "moduleFile": "adrian-erlandsson",
@@ -209,7 +234,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/slaughter-of-the-soul-drums.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Earache Records",
+    "producer": "Fredrik Nordström"
   },
   "at-war-with-reality-drum-setup": {
     "moduleFile": "adrian-erlandsson",
@@ -225,7 +252,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/at-war-with-reality-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "At the Gates (self-produced); engineered by Fredrik Nordström and Henrik Udd; mixed and mastered by Jens Bogren at Fascination Street Studios"
   },
   "to-drink-from-the-night-itself-drum-setup": {
     "moduleFile": "adrian-erlandsson",
@@ -241,7 +270,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/to-drink-from-the-night-itself-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Jonas Björler, Russ Russell, and Tomas Lindberg Redant; recorded, mixed and mastered by Russ Russell"
   },
   "whats-in-alex-bents-kit": {
     "moduleFile": "alex-bent",
@@ -259,7 +290,17 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/alex-bent.webp",
     "datePublished": "2026-03-28",
     "dateModified": "2026-03-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Trivium",
+    "bands": [
+      "Trivium",
+      "Battlecross",
+      "Dragonlord",
+      "Arkaik",
+      "Brain Drill"
+    ],
+    "country": "USA"
   },
   "trivium-sin-and-the-sentence-drum-setup": {
     "moduleFile": "alex-bent",
@@ -281,7 +322,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/alex-bent.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Josh Wilbur"
   },
   "trivium-what-the-dead-men-say-drum-setup": {
     "moduleFile": "alex-bent",
@@ -303,7 +346,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/alex-bent.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Josh Wilbur"
   },
   "trivium-in-the-court-of-the-dragon-drum-setup": {
     "moduleFile": "alex-bent",
@@ -325,7 +370,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/alex-bent.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Josh Wilbur"
   },
   "aquiles-priester-drum-kit-guide": {
     "moduleFile": "aquiles-priester",
@@ -343,7 +390,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/aquiles-priester.webp",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Angra",
+    "bands": [
+      "Angra",
+      "W.A.S.P.",
+      "Hangar"
+    ],
+    "country": "Brazil"
   },
   "aquiles-priester-drum-setup": {
     "moduleFile": "aquiles-priester",
@@ -362,7 +417,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/aquiles-priester.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Angra",
+    "bands": [
+      "Angra",
+      "Hangar",
+      "W.A.S.P."
+    ],
+    "country": "Brazil"
   },
   "arin-ilejay-drum-setup": {
     "moduleFile": "arin-ilejay",
@@ -379,7 +442,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/arin-ilejay.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Avenged Sevenfold",
+    "bands": [
+      "Avenged Sevenfold",
+      "Confide"
+    ],
+    "country": "USA"
   },
   "hail-to-the-king-drum-setup": {
     "moduleFile": "arin-ilejay",
@@ -401,7 +471,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/hail-to-the-king-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Warner Bros. Records",
+    "producer": "Mike Elizondo"
   },
   "lamb-of-god-self-titled-drum-setup": {
     "moduleFile": "art-cruz",
@@ -424,7 +496,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/lamb-of-god-self-titled-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epic Records",
+    "producer": "Josh Wilbur"
   },
   "whats-in-art-cruzs-kit": {
     "moduleFile": "art-cruz",
@@ -442,7 +516,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/art-cruz.webp",
     "datePublished": "2026-05-02",
     "dateModified": "2026-05-02",
-    "isAlbumArticle": false
+    "isAlbumArticle": false,
+    "articleType": "drummer-kit",
+    "band": "Lamb of God",
+    "bands": [
+      "Lamb of God",
+      "Winds of Plague",
+      "Prong"
+    ],
+    "country": "USA"
   },
   "omens-drum-setup": {
     "moduleFile": "art-cruz",
@@ -462,7 +544,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/omens-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epic Records / Nuclear Blast",
+    "producer": "Josh Wilbur"
   },
   "ben-koller-drum-setup": {
     "moduleFile": "ben-koller",
@@ -480,7 +564,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/ben-koller.webp",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Converge",
+    "bands": [
+      "Converge",
+      "Mutoid Man",
+      "All Pigs Must Die",
+      "Killer Be Killed"
+    ],
+    "country": "USA"
   },
   "jane-doe-drum-setup": {
     "moduleFile": "ben-koller",
@@ -502,7 +595,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/jane-doe-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Equal Vision Records",
+    "producer": "Kurt Ballou"
   },
   "you-fail-me-drum-setup": {
     "moduleFile": "ben-koller",
@@ -524,7 +619,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/you-fail-me-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epitaph Records",
+    "producer": "Alan Douches, Kurt Ballou"
   },
   "no-heroes-drum-setup": {
     "moduleFile": "ben-koller",
@@ -546,7 +643,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/no-heroes-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epitaph Records",
+    "producer": "Kurt Ballou"
   },
   "all-we-love-we-leave-behind-drum-setup": {
     "moduleFile": "ben-koller",
@@ -568,7 +667,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/all-we-love-we-leave-behind-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epitaph Records",
+    "producer": "Kurt Ballou"
   },
   "the-dusk-in-us-drum-setup": {
     "moduleFile": "ben-koller",
@@ -590,7 +691,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-dusk-in-us-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epitaph Records",
+    "producer": "Kurt Ballou"
   },
   "axe-to-fall-drum-setup": {
     "moduleFile": "ben-koller",
@@ -612,7 +715,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/axe-to-fall-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epitaph Records",
+    "producer": "Kurt Ballou, Matt Bayles"
   },
   "bloodmoon-i-drum-setup": {
     "moduleFile": "ben-koller",
@@ -634,7 +739,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/bloodmoon-i-drums.webp",
     "datePublished": "2026-07-06",
     "dateModified": "2026-07-06",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epitaph Records / Deathwish Inc.",
+    "producer": "Kurt Ballou"
   },
   "master-of-reality-drum-setup": {
     "moduleFile": "bill-ward",
@@ -656,7 +763,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/master-of-reality-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Vertigo Records",
+    "producer": "Rodger Bain"
   },
   "vol-4-drum-setup": {
     "moduleFile": "bill-ward",
@@ -678,7 +787,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/vol-4-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Vertigo / Warner Bros.",
+    "producer": "Black Sabbath"
   },
   "sabbath-bloody-sabbath-drum-setup": {
     "moduleFile": "bill-ward",
@@ -700,7 +811,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/sabbath-bloody-sabbath-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Vertigo Records",
+    "producer": "Black Sabbath"
   },
   "sabotage-drum-setup": {
     "moduleFile": "bill-ward",
@@ -722,7 +835,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/sabotage-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Vertigo Records",
+    "producer": "Black Sabbath"
   },
   "technical-ecstasy-drum-setup": {
     "moduleFile": "bill-ward",
@@ -744,7 +859,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/technical-ecstasy-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Vertigo Records",
+    "producer": "Black Sabbath"
   },
   "never-say-die-drum-setup": {
     "moduleFile": "bill-ward",
@@ -766,7 +883,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/never-say-die-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Vertigo Records",
+    "producer": "Black Sabbath"
   },
   "whats-in-bill-wards-kit": {
     "moduleFile": "bill-ward",
@@ -785,7 +904,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/bill-ward.webp",
     "datePublished": "2026-03-20",
     "dateModified": "2026-03-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Black Sabbath",
+    "bands": [
+      "Black Sabbath"
+    ],
+    "country": "England"
   },
   "black-sabbath-drum-setup": {
     "moduleFile": "bill-ward",
@@ -807,7 +932,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/black-sabbath-debut-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Vertigo Records",
+    "producer": "Rodger Bain"
   },
   "paranoid-drum-setup": {
     "moduleFile": "bill-ward",
@@ -829,7 +956,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/paranoid-drums.webp",
     "datePublished": "2026-06-23",
     "dateModified": "2026-06-23",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Vertigo Records",
+    "producer": "Rodger Bain"
   },
   "alaska-drum-setup": {
     "moduleFile": "blake-richardson",
@@ -846,7 +975,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Victory Records",
+    "producer": "Jamie King"
   },
   "the-parallax-ii-future-sequence-drum-setup": {
     "moduleFile": "blake-richardson",
@@ -863,7 +994,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Blade Records",
+    "producer": "Jamie King"
   },
   "coma-ecliptic-drum-setup": {
     "moduleFile": "blake-richardson",
@@ -880,7 +1013,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Blade Records",
+    "producer": "Jamie King"
   },
   "colors-drum-setup": {
     "moduleFile": "blake-richardson",
@@ -897,7 +1032,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "datePublished": "2026-06-28",
     "dateModified": "2026-06-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Victory Records",
+    "producer": "Jamie King"
   },
   "great-misdirect-drum-setup": {
     "moduleFile": "blake-richardson",
@@ -914,7 +1051,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "datePublished": "2026-06-28",
     "dateModified": "2026-06-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Blade Records",
+    "producer": "Jamie King"
   },
   "automata-i-drum-setup": {
     "moduleFile": "blake-richardson",
@@ -931,7 +1070,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "datePublished": "2026-06-28",
     "dateModified": "2026-06-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Sumerian Records",
+    "producer": "Jamie King"
   },
   "automata-ii-drum-setup": {
     "moduleFile": "blake-richardson",
@@ -948,7 +1089,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "datePublished": "2026-06-28",
     "dateModified": "2026-06-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Sumerian Records",
+    "producer": "Jamie King"
   },
   "blake-richardson-drum-setup": {
     "moduleFile": "blake-richardson",
@@ -963,11 +1106,17 @@ export const ALBUM_ARTICLES_META = {
     ],
     "genre": "Progressive Metal / Technical Metal",
     "title": "Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal",
-    "description": "Blake Richardson's complete drum setup: Tama Starclassic Bubinga kit, Sabian cymbals, twin Tama Iron Cobra Power Glide single pedals, and the metric modulation technique that defines Between the Buried and Me's progressive metal sound.",
+    "description": "Blake Richardson's complete drum setup: Tama Starclassic Bubinga kit, Sabian cymbals, twin Tama single pedals, and the metric modulation technique that defines Between the Buried and Me's progressive metal sound.",
     "ogImage": "/images/drummers/blake-richardson.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Between the Buried and Me",
+    "bands": [
+      "Between the Buried and Me"
+    ],
+    "country": "USA"
   },
   "whats-in-brann-dailors-kit": {
     "moduleFile": "brann-dailor",
@@ -986,7 +1135,17 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/brann-dailor.webp",
     "datePublished": "2026-03-18",
     "dateModified": "2026-03-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Mastodon",
+    "bands": [
+      "Mastodon",
+      "Lethargy",
+      "Today Is the Day",
+      "Killer Be Killed",
+      "Arcadea"
+    ],
+    "country": "USA"
   },
   "brann-dailor-mastodon-drum-setup": {
     "moduleFile": "brann-dailor",
@@ -1005,7 +1164,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/brann-dailor.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Mastodon",
+    "bands": [
+      "Mastodon"
+    ],
+    "country": "USA"
   },
   "leviathan-drum-setup": {
     "moduleFile": "brann-dailor",
@@ -1027,7 +1192,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/leviathan-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Relapse Records",
+    "producer": "Matt Bayles"
   },
   "crack-the-skye-drum-setup": {
     "moduleFile": "brann-dailor",
@@ -1049,7 +1216,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/crack-the-skye-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Reprise Records",
+    "producer": "Brendan O'Brien"
   },
   "the-hunter-drum-setup": {
     "moduleFile": "brann-dailor",
@@ -1071,7 +1240,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/hunter-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Reprise Records",
+    "producer": "Mike Elizondo"
   },
   "once-more-round-the-sun-drum-setup": {
     "moduleFile": "brann-dailor",
@@ -1093,7 +1264,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/once-more-round-the-sun-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Reprise Records",
+    "producer": "Nick Raskulinecz"
   },
   "emperor-of-sand-drum-setup": {
     "moduleFile": "brann-dailor",
@@ -1115,7 +1288,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/emperor-of-sand-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Reprise Records",
+    "producer": "Brendan O'Brien"
   },
   "blood-mountain-drum-setup": {
     "moduleFile": "brann-dailor",
@@ -1135,7 +1310,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/blood-mountain-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Atlantic Records",
+    "producer": "Matt Bayles"
   },
   "remission-drum-setup": {
     "moduleFile": "brann-dailor",
@@ -1155,7 +1332,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/remission-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Relapse Records",
+    "producer": "Fredrik Nordström"
   },
   "hushed-and-grim-drum-setup": {
     "moduleFile": "brann-dailor",
@@ -1177,7 +1356,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/hushed-and-grim-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Reprise Records",
+    "producer": "David Bottrill"
   },
   "whats-in-charlie-benantes-kit": {
     "moduleFile": "charlie-benante",
@@ -1191,7 +1372,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/charlie-benante.webp",
     "datePublished": "2026-03-18",
     "dateModified": "2026-03-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Anthrax",
+    "bands": [
+      "Anthrax",
+      "Stormtroopers of Death",
+      "Pantera (touring)"
+    ],
+    "country": "USA"
   },
   "charlie-benante-among-the-living-drum-setup": {
     "moduleFile": "charlie-benante",
@@ -1213,7 +1402,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/among-the-living-drums.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Island Records / Megaforce Records",
+    "producer": "Eddie Kramer"
   },
   "sound-of-white-noise-drum-setup": {
     "moduleFile": "charlie-benante",
@@ -1235,7 +1426,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/sound-of-white-noise-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Elektra Records",
+    "producer": "Dave Jerden"
   },
   "spreading-the-disease-drum-setup": {
     "moduleFile": "charlie-benante",
@@ -1257,7 +1450,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/spreading-the-disease-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Megaforce Records",
+    "producer": "Carl Canedy"
   },
   "persistence-of-time-drum-setup": {
     "moduleFile": "charlie-benante",
@@ -1279,7 +1474,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/persistence-of-time-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Island Records",
+    "producer": "Mark Dodson, Anthrax"
   },
   "state-of-euphoria-drum-setup": {
     "moduleFile": "charlie-benante",
@@ -1301,7 +1498,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/state-of-euphoria-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Island Records",
+    "producer": "Mark Dodson, Anthrax"
   },
   "worship-music-drum-setup": {
     "moduleFile": "charlie-benante",
@@ -1323,7 +1522,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/worship-music-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Megaforce Records",
+    "producer": "Jay Ruston"
   },
   "for-all-kings-drum-setup": {
     "moduleFile": "charlie-benante",
@@ -1345,7 +1546,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/for-all-kings-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Megaforce Records",
+    "producer": "Jay Ruston"
   },
   "stomp-442-drum-setup": {
     "moduleFile": "charlie-benante",
@@ -1367,7 +1570,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/stomp-442-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Elektra Records",
+    "producer": "Anthrax and the Butcher Bros."
   },
   "volume-8-drum-setup": {
     "moduleFile": "charlie-benante",
@@ -1389,7 +1594,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/volume-8-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Ignition Records / Tommy Boy Records",
+    "producer": "Anthrax and Paul Crook"
   },
   "weve-come-for-you-all-drum-setup": {
     "moduleFile": "charlie-benante",
@@ -1411,7 +1618,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/weve-come-for-you-all-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Sanctuary Records (North America) / Nuclear Blast (Europe)",
+    "producer": "Anthrax and Scrap 60 Productions (Rob Caggiano, Eddie Wohl, Steve Regina)"
   },
   "whats-in-chris-adlers-kit": {
     "moduleFile": "chris-adler",
@@ -1425,7 +1634,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/chris-adler.webp",
     "datePublished": "2026-03-18",
     "dateModified": "2026-03-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Lamb of God",
+    "bands": [
+      "Lamb of God",
+      "Megadeth",
+      "Burn the Priest",
+      "Firstborne"
+    ],
+    "country": "USA"
   },
   "new-american-gospel-drum-setup": {
     "moduleFile": "chris-adler",
@@ -1447,7 +1665,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/new-american-gospel-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Prosthetic Records",
+    "producer": "Steve Austin"
   },
   "as-the-palaces-burn-drum-setup": {
     "moduleFile": "chris-adler",
@@ -1469,7 +1689,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/as-the-palaces-burn-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Blade Records",
+    "producer": "Machine (Mark Lewis)"
   },
   "ashes-of-the-wake-drum-setup": {
     "moduleFile": "chris-adler",
@@ -1491,7 +1713,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/ashes-of-the-wake-drums.webp",
     "datePublished": "2026-03-21",
     "dateModified": "2026-03-21",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epic Records",
+    "producer": "Machine (Mark Lewis)"
   },
   "sacrament-drum-setup": {
     "moduleFile": "chris-adler",
@@ -1514,7 +1738,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/sacrament-drums.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epic Records",
+    "producer": "Machine (Mark Lewis)"
   },
   "wrath-drum-setup": {
     "moduleFile": "chris-adler",
@@ -1537,7 +1763,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/wrath-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Machine (Mark Lewis)"
   },
   "resolution-drum-setup": {
     "moduleFile": "chris-adler",
@@ -1559,7 +1787,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/resolution-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epic Records",
+    "producer": "Josh Wilbur"
   },
   "vii-sturm-und-drang-drum-setup": {
     "moduleFile": "chris-adler",
@@ -1581,7 +1811,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/vii-sturm-und-drang-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epic Records",
+    "producer": "Josh Wilbur"
   },
   "dystopia-drum-setup": {
     "moduleFile": "chris-adler",
@@ -1603,7 +1835,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/dystopia-drums.webp",
     "datePublished": "2026-07-06",
     "dateModified": "2026-07-06",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Universal Music Enterprises",
+    "producer": "Dave Mustaine & Dann Huff"
   },
   "chris-turner-drum-setup": {
     "moduleFile": "chris-turner",
@@ -1622,7 +1856,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/chris-turner.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Oceans Ate Alaska",
+    "bands": [
+      "Oceans Ate Alaska"
+    ],
+    "country": "UK"
   },
   "chris-turner-hikari-2017": {
     "moduleFile": "chris-turner",
@@ -1644,7 +1884,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/hikari-drums.webp",
     "datePublished": "2026-07-05",
     "dateModified": "2026-07-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Oceans Ate Alaska",
+    "bands": [
+      "Oceans Ate Alaska"
+    ],
+    "country": "UK",
+    "label": "Fearless Records",
+    "producer": "Nick Sampson"
   },
   "daniel-erlandsson-drum-setup": {
     "moduleFile": "daniel-erlandsson",
@@ -1661,7 +1909,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/daniel-erlandsson.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Arch Enemy",
+    "bands": [
+      "Arch Enemy",
+      "Eucharist"
+    ],
+    "country": "Sweden"
   },
   "wages-of-sin-drum-setup": {
     "moduleFile": "daniel-erlandsson",
@@ -1681,7 +1936,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/wages-of-sin-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Andy Sneap, Arch Enemy"
   },
   "doomsday-machine-drum-setup": {
     "moduleFile": "daniel-erlandsson",
@@ -1703,7 +1960,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/doomsday-machine-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Andy Sneap"
   },
   "anthems-of-rebellion-drum-setup": {
     "moduleFile": "daniel-erlandsson",
@@ -1723,7 +1982,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/daniel-erlandsson.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Andy Sneap, Arch Enemy"
   },
   "rise-of-the-tyrant-drum-setup": {
     "moduleFile": "daniel-erlandsson",
@@ -1743,7 +2004,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/daniel-erlandsson.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Andy Sneap"
   },
   "khaos-legions-drum-setup": {
     "moduleFile": "daniel-erlandsson",
@@ -1763,7 +2026,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/daniel-erlandsson.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Andy Sneap"
   },
   "war-eternal-drum-setup": {
     "moduleFile": "daniel-erlandsson",
@@ -1783,7 +2048,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/war-eternal-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Jens Bogren, Michael Amott"
   },
   "will-to-power-drum-setup": {
     "moduleFile": "daniel-erlandsson",
@@ -1803,7 +2070,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/will-to-power-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Jens Bogren, Michael Amott"
   },
   "deceivers-drum-setup": {
     "moduleFile": "daniel-erlandsson",
@@ -1823,7 +2092,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/deceivers-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Jens Bogren, Michael Amott"
   },
   "whats-in-danny-careys-kit": {
     "moduleFile": "danny-carey",
@@ -1842,7 +2113,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/danny-carey.webp",
     "datePublished": "2026-03-13",
     "dateModified": "2026-03-13",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Tool",
+    "bands": [
+      "Tool",
+      "Volto!",
+      "Legend of the Seagullmen"
+    ],
+    "country": "USA"
   },
   "fear-inoculum-drum-setup": {
     "moduleFile": "danny-carey",
@@ -1864,7 +2143,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/fear-inoculum-drums.webp",
     "datePublished": "2026-03-16",
     "dateModified": "2026-03-16",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "RCA Records / Tool Dissectional",
+    "producer": "Tool"
   },
   "lateralus-drum-setup": {
     "moduleFile": "danny-carey",
@@ -1886,7 +2167,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/lateralus-drums.webp",
     "datePublished": "2026-03-16",
     "dateModified": "2026-03-16",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Volcano Entertainment",
+    "producer": "David Bottrill & Tool"
   },
   "10000-days-drum-setup": {
     "moduleFile": "danny-carey",
@@ -1908,7 +2191,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/10000-days-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Tool Dissectional / Volcano Records",
+    "producer": "Tool"
   },
   "undertow-drum-setup": {
     "moduleFile": "danny-carey",
@@ -1930,7 +2215,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/undertow-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Zoo Entertainment",
+    "producer": "Sylvia Massy with Tool"
   },
   "aenima-drum-setup": {
     "moduleFile": "danny-carey",
@@ -1952,7 +2239,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/aenima-drums.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Zoo Entertainment / Volcano Records",
+    "producer": "David Bottrill & Tool"
   },
   "daray-drum-setup": {
     "moduleFile": "daray",
@@ -1965,11 +2254,19 @@ export const ALBUM_ARTICLES_META = {
     ],
     "genre": "Symphonic Black Metal",
     "title": "Daray's Drum Setup — Dimmu Borgir's Drummer Complete Kit Guide",
-    "description": "Complete gear breakdown for Daray (Dariusz Brzozowski), drummer for Dimmu Borgir and Vader. Full Pearl Masterworks Stadium Exotic kit specs, Paiste cymbal setup, and how his extreme-speed technique drives symphonic black metal.",
+    "description": "Complete gear breakdown for Daray (Dariusz Brzozowski), drummer for Dimmu Borgir and Vader. Full Tama Starclassic Performer B/B kit specs, Paiste cymbal setup, and how his extreme-speed technique drives symphonic black metal.",
     "ogImage": "/images/drummers/daray.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Dimmu Borgir",
+    "bands": [
+      "Dimmu Borgir",
+      "Vader",
+      "Vesania"
+    ],
+    "country": "Poland"
   },
   "abrahadabra-drum-setup": {
     "moduleFile": "daray",
@@ -1990,7 +2287,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/abrahadabra-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Dimmu Borgir (mixed by Dimmu Borgir and Andy Sneap)"
   },
   "eonian-drum-setup": {
     "moduleFile": "daray",
@@ -2011,7 +2310,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/eonian-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Dimmu Borgir (mixed and mastered by Jens Bogren)"
   },
   "reign-in-blood-drum-setup": {
     "moduleFile": "dave-lombardo",
@@ -2033,7 +2334,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/reign-in-blood-drums.webp",
     "datePublished": "2026-03-08",
     "dateModified": "2026-03-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Def Jam Recordings",
+    "producer": "Rick Rubin"
   },
   "show-no-mercy-drum-setup": {
     "moduleFile": "dave-lombardo",
@@ -2051,11 +2354,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 1983,
     "genre": "Thrash Metal",
     "title": "Dave Lombardo's Drum Setup on Slayer's Show No Mercy (1983)",
-    "description": "Dave Lombardo's debut Slayer recording — a raw Pearl Maxwin 5-piece setup at 220+ BPM before endorsement deals changed everything. Complete gear breakdown of the kit that launched thrash metal.",
+    "description": "Dave Lombardo's debut Slayer recording — a raw Ludwig 5-piece setup at 220+ BPM before endorsement deals changed everything. Complete gear breakdown of the kit that launched thrash metal.",
     "ogImage": "/images/albums/show-no-mercy-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Blade Records",
+    "producer": "Slayer"
   },
   "hell-awaits-drum-setup": {
     "moduleFile": "dave-lombardo",
@@ -2073,11 +2378,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 1985,
     "genre": "Thrash Metal",
     "title": "Dave Lombardo's Drum Setup on Slayer's Hell Awaits (1985)",
-    "description": "Dave Lombardo's bridge album between Show No Mercy and Reign in Blood — Pearl Maxwin drums, Zildjian cymbals, and the proto-death metal drumming that shaped extreme metal. Complete gear breakdown of the 1985 setup behind 'Hell Awaits' and 'Crypts of Eternity.'",
+    "description": "Dave Lombardo's bridge album between Show No Mercy and Reign in Blood — Ludwig drums, Zildjian cymbals, and the proto-death metal drumming that shaped extreme metal. Complete gear breakdown of the 1985 setup behind 'Hell Awaits' and 'Crypts of Eternity.'",
     "ogImage": "/images/albums/hell-awaits-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Blade Records",
+    "producer": "Brian Slagel"
   },
   "south-of-heaven-drum-setup": {
     "moduleFile": "dave-lombardo",
@@ -2099,7 +2406,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/south-of-heaven-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Def Jam Recordings / Columbia",
+    "producer": "Rick Rubin"
   },
   "seasons-in-the-abyss-drum-setup": {
     "moduleFile": "dave-lombardo",
@@ -2121,7 +2430,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/seasons-in-the-abyss-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Def American / Columbia",
+    "producer": "Rick Rubin"
   },
   "christ-illusion-drum-setup": {
     "moduleFile": "dave-lombardo",
@@ -2143,7 +2454,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/christ-illusion-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "American Recordings",
+    "producer": "Josh Abraham"
   },
   "world-painted-blood-drum-setup": {
     "moduleFile": "dave-lombardo",
@@ -2165,7 +2478,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/world-painted-blood-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "American Recordings",
+    "producer": "Greg Fidelman"
   },
   "whats-in-dave-lombardos-kit": {
     "moduleFile": "dave-lombardo",
@@ -2184,7 +2499,17 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/dave-lombardo.webp",
     "datePublished": "2026-03-14",
     "dateModified": "2026-03-14",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Slayer",
+    "bands": [
+      "Slayer",
+      "Fantômas",
+      "Dead Cross",
+      "Mr. Bungle",
+      "Pantera (touring)"
+    ],
+    "country": "Cuba / USA"
   },
   "the-gathering-drum-setup": {
     "moduleFile": "dave-lombardo",
@@ -2205,7 +2530,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-gathering-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Spitfire Records",
+    "producer": "James Murphy"
   },
   "reign-in-blood-anniversary": {
     "moduleFile": "dave-lombardo",
@@ -2227,7 +2554,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/dave-lombardo.webp",
     "datePublished": "2026-08-05",
     "dateModified": "2026-08-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleSection": "Anniversary",
+    "label": "Def Jam Recordings"
   },
   "whats-in-derek-roddys-kit": {
     "moduleFile": "derek-roddy",
@@ -2246,7 +2575,17 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/derek-roddy.webp",
     "datePublished": "2026-03-27",
     "dateModified": "2026-03-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Hate Eternal",
+    "bands": [
+      "Hate Eternal",
+      "Nile",
+      "Aurora Borealis",
+      "Malevolent Creation",
+      "Serpents Rise"
+    ],
+    "country": "USA"
   },
   "king-of-all-kings-drum-setup": {
     "moduleFile": "derek-roddy",
@@ -2265,7 +2604,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/derek-roddy.webp",
     "datePublished": "2026-07-05",
     "dateModified": "2026-07-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Hate Eternal",
+    "bands": [
+      "Hate Eternal"
+    ],
+    "country": "USA"
   },
   "derek-roddy-hate-eternal-drum-setup": {
     "moduleFile": "derek-roddy",
@@ -2283,7 +2628,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/derek-roddy.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Hate Eternal",
+    "bands": [
+      "Hate Eternal",
+      "Morbid Angel",
+      "Aurora Borealis",
+      "Malevolent Creation"
+    ],
+    "country": "USA"
   },
   "whats-in-dirk-verbeurens-kit": {
     "moduleFile": "dirk-verbeuren",
@@ -2302,7 +2656,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/dirk-verbeuren.webp",
     "datePublished": "2026-04-05",
     "dateModified": "2026-04-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Megadeth",
+    "bands": [
+      "Megadeth",
+      "Soilwork",
+      "Scarve"
+    ],
+    "country": "Belgium"
   },
   "the-sick-the-dying-and-the-dead-drum-setup": {
     "moduleFile": "dirk-verbeuren",
@@ -2324,7 +2686,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-sick-the-dying-and-the-dead-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Tradecraft / Universal Music Enterprises",
+    "producer": "Dave Mustaine & Chris Rakestraw"
   },
   "stabbing-the-drama-drum-setup": {
     "moduleFile": "dirk-verbeuren",
@@ -2346,7 +2710,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/stabbing-the-drama-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Soilwork",
+    "label": "Nuclear Blast Records",
+    "producer": "Jens Bogren & Daniel Bergstrand"
   },
   "natural-born-chaos-drum-setup": {
     "moduleFile": "dirk-verbeuren",
@@ -2368,7 +2735,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/natural-born-chaos-drums.webp",
     "datePublished": "2026-07-06",
     "dateModified": "2026-07-06",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Soilwork",
+    "label": "Nuclear Blast Records",
+    "producer": "Fredrik Nordström"
   },
   "figure-number-five-drum-setup": {
     "moduleFile": "dirk-verbeuren",
@@ -2390,7 +2760,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/figure-number-five-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Soilwork",
+    "label": "Nuclear Blast Records",
+    "producer": "Self-produced by Soilwork; mixed by Fredrik Nordström & Patrik J. Sten"
   },
   "whats-in-eloy-casagrandes-kit": {
     "moduleFile": "eloy-casagrande",
@@ -2409,7 +2782,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/eloy-casagrande.webp",
     "datePublished": "2026-03-15",
     "dateModified": "2026-03-15",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Slipknot",
+    "bands": [
+      "Slipknot",
+      "Sepultura",
+      "Burning Witches (guest)"
+    ],
+    "country": "Brazil"
   },
   "machine-messiah-drum-setup": {
     "moduleFile": "eloy-casagrande",
@@ -2429,7 +2810,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/machine-messiah-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Jens Bogren"
   },
   "quadra-drum-setup": {
     "moduleFile": "eloy-casagrande",
@@ -2451,7 +2834,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/quadra-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2020-02-07",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Jens Bogren"
   },
   "the-mediator-between-head-and-hands-drum-setup": {
     "moduleFile": "eloy-casagrande",
@@ -2471,7 +2856,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-mediator-between-head-and-hands-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Ross Robinson (co-produced by Steve Evetts)"
   },
   "whats-in-flo-mouniers-kit": {
     "moduleFile": "flo-mounier",
@@ -2490,7 +2877,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/flo-mounier.webp",
     "datePublished": "2026-03-21",
     "dateModified": "2026-03-21",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Cryptopsy",
+    "bands": [
+      "Cryptopsy"
+    ],
+    "country": "Canada"
   },
   "none-so-vile-drum-setup": {
     "moduleFile": "flo-mounier",
@@ -2512,7 +2905,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/none-so-vile-drums.webp",
     "datePublished": "2026-03-25",
     "dateModified": "2026-03-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Wrong Again Records",
+    "producer": "Pierre Rémillard"
   },
   "whisper-supremacy-drum-setup": {
     "moduleFile": "flo-mounier",
@@ -2529,12 +2924,14 @@ export const ALBUM_ARTICLES_META = {
     ],
     "year": 1998,
     "genre": "Technical Death Metal",
-    "title": "Whisper Supremacy Drum Setup: Flo Mounier's Pearl MX Series Gear (1998)",
-    "description": "Discover the exact drum kit Flo Mounier used to record Cryptopsy's Whisper Supremacy (1998). Complete breakdown of the Pearl MX Series kit behind the pivotal transitional album between None So Vile and And Then You'll Beg.",
+    "title": "Whisper Supremacy Drum Setup: Flo Mounier's Pearl Masters BRX and Paiste Alpha Gear (1998)",
+    "description": "Discover the exact drum kit, cymbals, and gear Flo Mounier used to record Cryptopsy's Whisper Supremacy (1998). Complete breakdown of the Pearl Masters BRX, Paiste Alpha cymbals, and Pearl Eliminator pedals behind the pivotal transitional album between None So Vile and And Then You'll Beg.",
     "ogImage": "/images/albums/whisper-supremacy-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Pierre Rémillard"
   },
   "and-then-youll-beg-drum-setup": {
     "moduleFile": "flo-mounier",
@@ -2552,11 +2949,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2000,
     "genre": "Technical Death Metal",
     "title": "And Then You'll Beg Drum Setup: Flo Mounier's Most Complex Work",
-    "description": "Discover the exact drum kit Flo Mounier used to record Cryptopsy's And Then You'll Beg. Complete breakdown of the Pearl Masters BRX kit behind the most technically demanding blast-beat album of 2000.",
+    "description": "Discover the exact drum kit, cymbals, and gear Flo Mounier used to record Cryptopsy's And Then You'll Beg. Complete breakdown of the Pearl Masters BRX, Paiste Alpha cymbals, and DW 9000 pedals behind the most technically demanding blast-beat album of 2000.",
     "ogImage": "/images/albums/and-then-youll-beg-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Pierre Rémillard"
   },
   "once-was-not-drum-setup": {
     "moduleFile": "flo-mounier",
@@ -2574,11 +2973,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2005,
     "genre": "Technical Death Metal",
     "title": "Once Was Not Drum Setup: Flo Mounier's Fastest Recorded Performance",
-    "description": "Discover the exact drum kit and cymbals Flo Mounier used to record Cryptopsy's Once Was Not (2005). Complete breakdown of the Yamaha Recording Custom kit and Zildjian ZXT cymbals behind the most technically demanding album in Cryptopsy's catalog.",
+    "description": "Discover the exact drum kit, cymbals, and gear Flo Mounier used to record Cryptopsy's Once Was Not (2005). Complete breakdown of the Yamaha Recording Custom, Zildjian ZXT cymbals, and hardware setup behind the most technically demanding album in Cryptopsy's catalog.",
     "ogImage": "/images/albums/once-was-not-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Chris Donaldson"
   },
   "unspoken-king-drum-setup": {
     "moduleFile": "flo-mounier",
@@ -2600,7 +3001,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/unspoken-king-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Chris Donaldson"
   },
   "nemesis-divina-drum-setup": {
     "moduleFile": "frost",
@@ -2621,7 +3024,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/frost.webp",
     "datePublished": "2026-07-05",
     "dateModified": "2026-07-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "album-drum-setup",
+    "band": "Satyricon",
+    "bands": [
+      "Satyricon"
+    ],
+    "country": "Norway",
+    "label": "Moonfog Productions",
+    "producer": "Satyricon (self-produced)"
   },
   "frost-satyricon-drum-setup": {
     "moduleFile": "frost",
@@ -2640,7 +3051,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/frost.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Satyricon",
+    "bands": [
+      "Satyricon",
+      "1349"
+    ],
+    "country": "Norway"
   },
   "whats-in-gavin-harrisons-kit": {
     "moduleFile": "gavin-harrison",
@@ -2658,7 +3076,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/gavin-harrison.webp",
     "datePublished": "2026-05-04",
     "dateModified": "2026-05-04",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Porcupine Tree",
+    "bands": [
+      "Porcupine Tree",
+      "King Crimson",
+      "The Pineapple Thief"
+    ],
+    "country": "UK"
   },
   "fear-of-a-blank-planet-drum-setup": {
     "moduleFile": "gavin-harrison",
@@ -2675,7 +3101,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/gavin-harrison.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Steven Wilson"
   },
   "in-absentia-drum-setup": {
     "moduleFile": "gavin-harrison",
@@ -2692,7 +3120,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/gavin-harrison.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Porcupine Tree",
+    "bands": [
+      "Porcupine Tree",
+      "King Crimson",
+      "The Pineapple Thief"
+    ],
+    "label": "Lava / Atlantic",
+    "producer": "Steven Wilson"
   },
   "deadwing-drum-setup": {
     "moduleFile": "gavin-harrison",
@@ -2709,7 +3146,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/gavin-harrison.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Porcupine Tree",
+    "bands": [
+      "Porcupine Tree",
+      "King Crimson",
+      "The Pineapple Thief"
+    ],
+    "label": "Lava / Atlantic",
+    "producer": "Steven Wilson, Richard Barbieri and Gavin Harrison"
   },
   "the-incident-drum-setup": {
     "moduleFile": "gavin-harrison",
@@ -2726,7 +3172,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/gavin-harrison.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Porcupine Tree",
+    "bands": [
+      "Porcupine Tree",
+      "King Crimson",
+      "The Pineapple Thief"
+    ],
+    "label": "Roadrunner Records",
+    "producer": "Porcupine Tree (self-produced); mixed by Steven Wilson"
   },
   "closure-continuation-drum-setup": {
     "moduleFile": "gavin-harrison",
@@ -2743,7 +3198,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/gavin-harrison.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Porcupine Tree",
+    "bands": [
+      "Porcupine Tree",
+      "King Crimson",
+      "The Pineapple Thief"
+    ],
+    "label": "Music for Nations",
+    "producer": "Steven Wilson, Richard Barbieri, Gavin Harrison"
   },
   "your-wilderness-drum-setup": {
     "moduleFile": "gavin-harrison",
@@ -2760,7 +3224,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/gavin-harrison.webp",
     "datePublished": "2026-07-09",
     "dateModified": "2026-07-09",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "The Pineapple Thief",
+    "bands": [
+      "The Pineapple Thief",
+      "Porcupine Tree",
+      "King Crimson"
+    ],
+    "label": "Kscope",
+    "producer": "Bruce Soord"
   },
   "whats-in-gene-hoglans-kit": {
     "moduleFile": "gene-hoglan",
@@ -2779,7 +3252,18 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/gene-hoglan.webp",
     "datePublished": "2026-03-15",
     "dateModified": "2026-03-15",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Death / Testament",
+    "bands": [
+      "Dark Angel",
+      "Death",
+      "Testament",
+      "Strapping Young Lad",
+      "Dethklok",
+      "Fear Factory"
+    ],
+    "country": "USA"
   },
   "symbolic-drum-setup": {
     "moduleFile": "gene-hoglan",
@@ -2800,7 +3284,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/symbolic-drums.webp",
     "datePublished": "2026-03-20",
     "dateModified": "2026-03-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Jim Morris & Chuck Schuldiner"
   },
   "darkness-descends-drum-setup": {
     "moduleFile": "gene-hoglan",
@@ -2821,7 +3307,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/darkness-descends-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Combat Records",
+    "producer": "Bill Metoyer"
   },
   "individual-thought-patterns-drum-setup": {
     "moduleFile": "gene-hoglan",
@@ -2842,7 +3330,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/individual-thought-patterns-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Relativity Records",
+    "producer": "Scott Burns"
   },
   "brotherhood-of-the-snake-drum-setup": {
     "moduleFile": "gene-hoglan",
@@ -2859,11 +3349,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2016,
     "genre": "Thrash Metal",
     "title": "Brotherhood of the Snake Drum Setup: Gene Hoglan Returns to Testament (2016)",
-    "description": "Gene Hoglan's return to Testament after 22 years — Brotherhood of the Snake (2016) drum setup breakdown. Pearl Reference Series drums, Sabian AAX cymbals, Pearl Demon Drive pedals, and the Grammy-nominated comeback album that cemented The Atomic Clock's legacy.",
+    "description": "Gene Hoglan's return to Testament after 22 years — Brotherhood of the Snake (2016) drum setup breakdown. Tama drums, Sabian AAX cymbals, Tama Iron Cobra pedals, and the Grammy-nominated comeback album that cemented The Atomic Clock's legacy.",
     "ogImage": "/images/albums/brotherhood-of-the-snake-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Juan Urteaga"
   },
   "gene-hoglan-drum-setup": {
     "moduleFile": "gene-hoglan",
@@ -2882,7 +3374,18 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/gene-hoglan.webp",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Death",
+    "bands": [
+      "Dark Angel",
+      "Death",
+      "Testament",
+      "Strapping Young Lad",
+      "Dethklok",
+      "Fear Factory"
+    ],
+    "country": "USA"
   },
   "city-drum-setup": {
     "moduleFile": "gene-hoglan",
@@ -2904,7 +3407,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/city-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Devin Townsend"
   },
   "alien-drum-setup": {
     "moduleFile": "gene-hoglan",
@@ -2924,7 +3429,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/alien-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Devin Townsend"
   },
   "titans-of-creation-drum-setup": {
     "moduleFile": "gene-hoglan",
@@ -2945,7 +3452,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/titans-of-creation-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Juan Urteaga"
   },
   "leave-scars-drum-setup": {
     "moduleFile": "gene-hoglan",
@@ -2962,11 +3471,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 1989,
     "genre": "Thrash Metal",
     "title": "Leave Scars Drum Setup: Gene Hoglan's Groove-Within-Speed Mastery (Dark Angel, 1989)",
-    "description": "Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Leave Scars (1989) — the album where The Atomic Clock added groove to legendary speed. Tama Rockstar kit, Ludwig Acrolite snare, Paiste 2002 cymbals, and the techniques bridging Darkness Descends to Individual Thought Patterns.",
+    "description": "Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Leave Scars (1989) — the album where The Atomic Clock added groove to legendary speed. Tama Rockstar kit, Ludwig Acrolite snare, Zildjian A Series cymbals, and the techniques bridging Darkness Descends to Individual Thought Patterns.",
     "ogImage": "/images/albums/leave-scars-drums.webp",
     "datePublished": "2026-06-28",
     "dateModified": "2026-06-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Combat Records",
+    "producer": "Bill Metoyer"
   },
   "time-does-not-heal-drum-setup": {
     "moduleFile": "gene-hoglan",
@@ -2983,11 +3494,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 1991,
     "genre": "Thrash Metal",
     "title": "Time Does Not Heal Drum Setup: Gene Hoglan's Dark Angel Final Chapter (1991)",
-    "description": "Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Time Does Not Heal (1991) — the band's final album and Hoglan's most sophisticated extreme thrash performance before pivoting to death metal with Death. Tama Rockstar, Ludwig Acrolite snare, Paiste 2002 cymbals.",
+    "description": "Complete breakdown of Gene Hoglan's drum setup on Dark Angel's Time Does Not Heal (1991) — the band's final album and Hoglan's most sophisticated extreme thrash performance before pivoting to death metal with Death. Tama Rockstar, Ludwig Acrolite snare, Zildjian A Series cymbals.",
     "ogImage": "/images/albums/time-does-not-heal-drums.webp",
     "datePublished": "2026-06-28",
     "dateModified": "2026-06-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Combat Records",
+    "producer": "Bill Metoyer"
   },
   "whats-in-george-kollias-kit": {
     "moduleFile": "george-kollias",
@@ -3009,7 +3522,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/george-kollias.webp",
     "datePublished": "2026-03-22",
     "dateModified": "2026-03-22",
-    "isAlbumArticle": false
+    "isAlbumArticle": false,
+    "label": null,
+    "producer": null
   },
   "george-kollias-nile-annihilation-drum-setup": {
     "moduleFile": "george-kollias",
@@ -3031,7 +3546,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/george-kollias.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Relapse Records",
+    "producer": "Neil Kernon"
   },
   "those-whom-the-gods-detest-drum-setup": {
     "moduleFile": "george-kollias",
@@ -3049,11 +3566,12 @@ export const ALBUM_ARTICLES_META = {
     "year": 2009,
     "genre": "Technical Death Metal / Brutal Death Metal",
     "title": "George Kollias Drum Setup: Nile's 'Those Whom the Gods Detest' (2009) Gear Breakdown",
-    "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's best-selling album 'Those Whom the Gods Detest' (2009) — Pearl Reference Maple, Meinl Byzance, and the technical death metal speed king at his peak.",
+    "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's best-selling album 'Those Whom the Gods Detest' (2009) — Pearl Reference Maple, Meinl Byzance, and Pearl Demon Drive at their peak.",
     "ogImage": "/images/drummers/george-kollias.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast"
   },
   "at-the-gate-of-sethu-drum-setup": {
     "moduleFile": "george-kollias",
@@ -3075,7 +3593,8 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/george-kollias.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast"
   },
   "ithyphallic-drum-setup": {
     "moduleFile": "george-kollias",
@@ -3097,7 +3616,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/george-kollias.webp",
     "datePublished": "2026-07-05",
     "dateModified": "2026-07-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Neil Kernon"
   },
   "vile-nilotic-rites-drum-setup": {
     "moduleFile": "george-kollias",
@@ -3119,7 +3640,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/george-kollias.webp",
     "datePublished": "2026-07-05",
     "dateModified": "2026-07-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Karl Sanders"
   },
   "what-should-not-be-unearthed-drum-setup": {
     "moduleFile": "george-kollias",
@@ -3141,7 +3664,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/george-kollias.webp",
     "datePublished": "2026-07-07",
     "dateModified": "2026-07-07",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Nile (self-produced); mixed by Neil Kernon"
   },
   "hannes-grossmann-drum-setup": {
     "moduleFile": "hannes-grossmann",
@@ -3157,7 +3682,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/hannes-grossmann.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Obscura / Alkaloid / ex-Necrophagist",
+    "bands": [
+      "Obscura",
+      "Alkaloid",
+      "Necrophagist",
+      "Blotted Science"
+    ],
+    "country": "Germany"
   },
   "cosmogenesis-drum-setup": {
     "moduleFile": "hannes-grossmann",
@@ -3179,7 +3713,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/cosmogenesis-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Relapse Records",
+    "producer": "V. Santura"
   },
   "epitaph-drum-setup": {
     "moduleFile": "hannes-grossmann",
@@ -3201,7 +3737,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/epitaph-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Relapse Records",
+    "producer": "Necrophagist"
   },
   "hellhammer-drum-setup": {
     "moduleFile": "hellhammer",
@@ -3220,7 +3758,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/hellhammer.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Mayhem",
+    "bands": [
+      "Mayhem",
+      "Dimmu Borgir",
+      "Arcturus",
+      "Shining"
+    ],
+    "country": "Norway"
   },
   "de-mysteriis-dom-sathanas-drum-setup": {
     "moduleFile": "hellhammer",
@@ -3242,7 +3789,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/hellhammer.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "album-drum-setup",
+    "label": "Deathlike Silence Productions",
+    "producer": "Pytten (Eirik Hundvin)"
   },
   "in-sorte-diaboli-drum-setup": {
     "moduleFile": "hellhammer",
@@ -3263,7 +3813,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/in-sorte-diaboli-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast Records",
+    "producer": "Fredrik Nordström, Dimmu Borgir"
   },
   "chimera-drum-setup": {
     "moduleFile": "hellhammer",
@@ -3285,7 +3837,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/hellhammer.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "album-drum-setup",
+    "label": "Season of Mist",
+    "producer": "Blasphemer (Rune Eriksen), engineered by Børge Finstad"
   },
   "ordo-ad-chao-drum-setup": {
     "moduleFile": "hellhammer",
@@ -3307,7 +3862,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/hellhammer.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "album-drum-setup",
+    "label": "Season of Mist",
+    "producer": "Attila Csihar and Blasphemer (Rune Eriksen)"
   },
   "esoteric-warfare-drum-setup": {
     "moduleFile": "hellhammer",
@@ -3329,7 +3887,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/hellhammer.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "album-drum-setup",
+    "label": "Season of Mist",
+    "producer": "Attila Csihar and Teloch (Morten Bergeton Iversen)"
   },
   "daemon-drum-setup": {
     "moduleFile": "hellhammer",
@@ -3351,7 +3912,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/hellhammer.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "album-drum-setup",
+    "label": "Century Media Records",
+    "producer": "Teloch (Morten Bergeton Iversen) and Tore Stjerna"
   },
   "daemonic-rites-drum-setup": {
     "moduleFile": "hellhammer",
@@ -3373,7 +3937,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/hellhammer.webp",
     "datePublished": "2026-07-09",
     "dateModified": "2026-07-09",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "album-drum-setup",
+    "label": "Century Media Records",
+    "producer": "Mayhem"
   },
   "roots-drum-setup": {
     "moduleFile": "igor-cavalera",
@@ -3395,7 +3962,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/roots-drums.webp",
     "datePublished": "2026-03-25",
     "dateModified": "2026-03-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Ross Robinson"
   },
   "whats-in-igor-cavaleras-kit": {
     "moduleFile": "igor-cavalera",
@@ -3414,7 +3983,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/igor-cavalera.webp",
     "datePublished": "2026-03-26",
     "dateModified": "2026-03-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Sepultura / Cavalera Conspiracy",
+    "bands": [
+      "Sepultura",
+      "Cavalera Conspiracy",
+      "Mixhell",
+      "Go Ahead and Die"
+    ],
+    "country": "Brazil"
   },
   "schizophrenia-drum-setup": {
     "moduleFile": "igor-cavalera",
@@ -3436,7 +4014,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/schizophrenia-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Cogumelo Records",
+    "producer": "Sepultura"
   },
   "beneath-the-remains-drum-setup": {
     "moduleFile": "igor-cavalera",
@@ -3458,7 +4038,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/beneath-the-remains-drums.webp",
     "datePublished": "2026-03-26",
     "dateModified": "2026-03-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Scott Burns"
   },
   "arise-drum-setup": {
     "moduleFile": "igor-cavalera",
@@ -3480,7 +4062,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/arise-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Scott Burns"
   },
   "chaos-ad-drum-setup": {
     "moduleFile": "igor-cavalera",
@@ -3503,7 +4087,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/chaos-ad-drums.webp",
     "datePublished": "2026-03-26",
     "dateModified": "2026-03-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Andy Wallace"
   },
   "inflikted-drum-setup": {
     "moduleFile": "igor-cavalera",
@@ -3525,7 +4111,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/inflikted-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Logan Mader"
   },
   "blunt-force-trauma-drum-setup": {
     "moduleFile": "igor-cavalera",
@@ -3547,7 +4135,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/blunt-force-trauma-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Logan Mader"
   },
   "whats-in-infernos-kit": {
     "moduleFile": "inferno",
@@ -3566,7 +4156,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/inferno.webp",
     "datePublished": "2026-03-28",
     "dateModified": "2026-03-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Behemoth",
+    "bands": [
+      "Behemoth",
+      "Azarath"
+    ],
+    "country": "Poland"
   },
   "the-satanist-drum-setup": {
     "moduleFile": "inferno",
@@ -3588,7 +4185,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-satanist-drums.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Blade Records",
+    "producer": "Behemoth / Wojtek & Sławek Wiesławski"
   },
   "i-loved-you-at-your-darkest-drum-setup": {
     "moduleFile": "inferno",
@@ -3610,7 +4209,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/i-loved-you-at-your-darkest-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Blade Records",
+    "producer": "Daniel Bergstrand, Behemoth"
   },
   "satanica-drum-setup": {
     "moduleFile": "inferno",
@@ -3632,7 +4233,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/satanica-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Avantgarde Music",
+    "producer": "Nergal / Behemoth"
   },
   "thelema-6-drum-setup": {
     "moduleFile": "inferno",
@@ -3654,7 +4257,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/thelema-6-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Avantgarde Music / Metal Blade Records",
+    "producer": "Behemoth / Arkadiusz \"Malta\" Malczewski"
   },
   "evangelion-drum-setup": {
     "moduleFile": "inferno",
@@ -3676,7 +4281,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/evangelion-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Behemoth / Wojtek & Sławek Wiesławski"
   },
   "zos-kia-cultus-drum-setup": {
     "moduleFile": "inferno",
@@ -3698,7 +4305,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/zos-kia-cultus-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Avantgarde Music / Metal Blade Records",
+    "producer": "Behemoth"
   },
   "demigod-drum-setup": {
     "moduleFile": "inferno",
@@ -3720,7 +4329,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/demigod-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Avantgarde Music / Metal Blade Records",
+    "producer": "Behemoth"
   },
   "the-apostasy-drum-setup": {
     "moduleFile": "inferno",
@@ -3742,7 +4353,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-apostasy-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Blade Records / Regain Records",
+    "producer": "Behemoth / Wojtek & Sławek Wiesławski"
   },
   "opvs-contra-natvram-drum-setup": {
     "moduleFile": "inferno",
@@ -3764,7 +4377,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/opvs-contra-natvram-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Behemoth, engineered by Daniel Bergstrand, mixed by Joe Barresi, mastered by Bob Ludwig"
   },
   "isaac-lamb-drum-setup": {
     "moduleFile": "isaac-lamb",
@@ -3782,7 +4397,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/isaac-lamb.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-08-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Kublai Khan TX",
+    "bands": [
+      "Kublai Khan TX"
+    ],
+    "country": "USA"
   },
   "absolute-drum-setup": {
     "moduleFile": "isaac-lamb",
@@ -3803,7 +4424,11 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/absolute-drums.webp",
     "datePublished": "2026-07-09",
     "dateModified": "2026-08-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Kublai Khan TX",
+    "country": "USA",
+    "label": "Rise Records",
+    "producer": "Randy LeBoeuf"
   },
   "jaska-raatikainen-drum-setup": {
     "moduleFile": "jaska-raatikainen",
@@ -3822,7 +4447,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/jaska-raatikainen.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Children of Bodom",
+    "bands": [
+      "Children of Bodom",
+      "Warmen"
+    ],
+    "country": "Finland"
   },
   "something-wild-drum-setup": {
     "moduleFile": "jaska-raatikainen",
@@ -3842,7 +4474,8 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/something-wild-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Spinefarm Records"
   },
   "hatebreeder-drum-setup": {
     "moduleFile": "jaska-raatikainen",
@@ -3862,7 +4495,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/hatebreeder-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Spinefarm Records",
+    "producer": "Anssi Kippo"
   },
   "hate-crew-deathroll-drum-setup": {
     "moduleFile": "jaska-raatikainen",
@@ -3878,11 +4513,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2003,
     "genre": "Melodic Death Metal",
     "title": "Hate Crew Deathroll Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2003 Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hate Crew Deathroll (2003). Complete breakdown of the Tama Starclassic Maple kit, Paiste 2002 cymbals, and Iron Cobra double pedals behind CoB's commercial and critical peak.",
+    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hate Crew Deathroll (2003). Complete breakdown of the Tama Starclassic Maple kit, Zildjian A Series cymbals, and Iron Cobra double pedals behind CoB's commercial and critical peak.",
     "ogImage": "/images/albums/hate-crew-deathroll-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Mikko Karmila / Anssi Kippo"
   },
   "follow-the-reaper-drum-setup": {
     "moduleFile": "jaska-raatikainen",
@@ -3898,11 +4535,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2000,
     "genre": "Melodic Death Metal",
     "title": "Follow the Reaper Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2000 Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Follow the Reaper (2000). Complete breakdown of the Tama Starclassic Maple kit, Paiste 2002 cymbals, and Tama Iron Cobra double pedal behind CoB's most technically demanding album.",
+    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Follow the Reaper (2000). Complete breakdown of the Tama Starclassic Maple kit, Zildjian A Series cymbals, and Tama Iron Cobra double pedal behind CoB's most technically demanding album.",
     "ogImage": "/images/albums/follow-the-reaper-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Spinefarm Records",
+    "producer": "Anssi Kippo"
   },
   "are-you-dead-yet-drum-setup": {
     "moduleFile": "jaska-raatikainen",
@@ -3922,7 +4561,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/are-you-dead-yet-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Spinefarm Records",
+    "producer": "Anssi Kippo"
   },
   "blooddrunk-drum-setup": {
     "moduleFile": "jaska-raatikainen",
@@ -3942,7 +4583,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/blooddrunk-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Spinefarm Records",
+    "producer": "Anssi Kippo"
   },
   "relentless-reckless-forever-drum-setup": {
     "moduleFile": "jaska-raatikainen",
@@ -3962,7 +4605,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/relentless-reckless-forever-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Anssi Kippo"
   },
   "i-worship-chaos-drum-setup": {
     "moduleFile": "jaska-raatikainen",
@@ -3982,7 +4627,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/i-worship-chaos-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Mikko Karmila"
   },
   "halo-of-blood-drum-setup": {
     "moduleFile": "jaska-raatikainen",
@@ -4002,7 +4649,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/halo-of-blood-drums.webp",
     "datePublished": "2026-07-06",
     "dateModified": "2026-07-06",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Children of Bodom",
+    "bands": [
+      "Children of Bodom"
+    ],
+    "country": "Finland",
+    "label": "Nuclear Blast",
+    "producer": "Anssi Kippo"
   },
   "hexed-drum-setup": {
     "moduleFile": "jaska-raatikainen",
@@ -4022,7 +4676,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/hexed-drums.webp",
     "datePublished": "2026-07-06",
     "dateModified": "2026-07-06",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Children of Bodom",
+    "bands": [
+      "Children of Bodom"
+    ],
+    "country": "Finland",
+    "label": "Nuclear Blast",
+    "producer": "Mikko Karmila"
   },
   "jason-bittner-drum-setup": {
     "moduleFile": "jason-bittner",
@@ -4039,7 +4700,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/jason-bittner.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Shadows Fall",
+    "bands": [
+      "Shadows Fall",
+      "Overkill"
+    ],
+    "country": "USA"
   },
   "the-war-within-drum-setup": {
     "moduleFile": "jason-bittner",
@@ -4059,7 +4727,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/jason-bittner.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Peter Wichers"
   },
   "art-of-balance-drum-setup": {
     "moduleFile": "jason-bittner",
@@ -4079,7 +4749,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/jason-bittner.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Century Media Records",
+    "producer": "Chris \"Zeuss\" Harris"
   },
   "threads-of-life-drum-setup": {
     "moduleFile": "jason-bittner",
@@ -4099,7 +4771,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/jason-bittner.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Atlantic Records",
+    "producer": "Nick Raskulinecz"
   },
   "jay-weinberg-complete-drum-setup": {
     "moduleFile": "jay-weinberg",
@@ -4118,7 +4792,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/jay-weinberg.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Slipknot",
+    "bands": [
+      "Slipknot",
+      "Suicidal Tendencies",
+      "Against Me!",
+      "Madball"
+    ],
+    "country": "USA"
   },
   "the-gray-chapter-drum-setup": {
     "moduleFile": "jay-weinberg",
@@ -4140,7 +4823,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-gray-chapter-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Slipknot",
+    "label": "Roadrunner Records",
+    "producer": "Greg Fidelman"
   },
   "we-are-not-your-kind-drum-setup": {
     "moduleFile": "jay-weinberg",
@@ -4162,7 +4848,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/we-are-not-your-kind-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Slipknot",
+    "label": "Roadrunner Records",
+    "producer": "Greg Fidelman"
   },
   "the-end-so-far-drum-setup": {
     "moduleFile": "jay-weinberg",
@@ -4184,7 +4873,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-end-so-far-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2022-09-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Slipknot",
+    "label": "Roadrunner Records",
+    "producer": "Joe Barresi"
   },
   "jocke-wallgren-drum-setup": {
     "moduleFile": "jocke-wallgren",
@@ -4201,7 +4893,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/jocke-wallgren.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Amon Amarth",
+    "bands": [
+      "Amon Amarth",
+      "Evergrey",
+      "Rage"
+    ],
+    "country": "Sweden"
   },
   "berserker-drum-setup": {
     "moduleFile": "jocke-wallgren",
@@ -4220,7 +4920,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/berserker-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Amon Amarth",
+    "label": "Metal Blade Records",
+    "producer": "Jay Ruston"
   },
   "great-heathen-army-drum-setup": {
     "moduleFile": "jocke-wallgren",
@@ -4239,7 +4942,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/great-heathen-army-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Amon Amarth",
+    "label": "Metal Blade Records",
+    "producer": "Andy Sneap"
   },
   "slipknot-self-titled-drum-setup": {
     "moduleFile": "joey-jordison",
@@ -4261,7 +4967,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/slipknot-self-titled-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Ross Robinson"
   },
   "iowa-drum-setup": {
     "moduleFile": "joey-jordison",
@@ -4283,7 +4991,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/iowa-drums.webp",
     "datePublished": "2026-03-08",
     "dateModified": "2026-03-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Ross Robinson"
   },
   "vol-3-the-subliminal-verses-drum-setup": {
     "moduleFile": "joey-jordison",
@@ -4301,11 +5011,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2004,
     "genre": "Nu Metal / Alternative Metal",
     "title": "Vol. 3: The Subliminal Verses Drum Setup — Joey Jordison",
-    "description": "Complete breakdown of Joey Jordison's drum setup on Slipknot's Vol. 3: (The Subliminal Verses). Pearl Masters kit, Pearl Free-Floating brass snare, Paiste RUDE cymbals — the gear behind Slipknot's Grammy-winning, #1 album. Fills the Iowa → Vol. 3 → All Hope Is Gone arc.",
+    "description": "Complete breakdown of Joey Jordison's drum setup on Slipknot's Vol. 3: (The Subliminal Verses). Pearl Masters kit, Pearl Free-Floating brass snare, Paiste RUDE cymbals, Pearl Demon Drive pedals — the gear behind Slipknot's Grammy-winning, #1 album. Fills the Iowa → Vol. 3 → All Hope Is Gone arc.",
     "ogImage": "/images/albums/vol-3-subliminal-verses-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Rick Rubin, Slipknot"
   },
   "all-hope-is-gone-drum-setup": {
     "moduleFile": "joey-jordison",
@@ -4327,7 +5039,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/all-hope-is-gone-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Dave Fortman"
   },
   "whats-in-joey-jordisons-kit": {
     "moduleFile": "joey-jordison",
@@ -4346,7 +5060,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/joey-jordison.webp",
     "datePublished": "2026-03-12",
     "dateModified": "2026-03-12",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Slipknot",
+    "bands": [
+      "Slipknot",
+      "Murderdolls",
+      "Sinsaenum",
+      "Vimic"
+    ],
+    "country": "USA"
   },
   "joey-jordison-drum-setup": {
     "moduleFile": "joey-jordison",
@@ -4365,7 +5088,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/joey-jordison.webp",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Slipknot",
+    "bands": [
+      "Slipknot",
+      "Murderdolls",
+      "Scar the Martyr"
+    ],
+    "country": "USA"
   },
   "joey-jordison-signature-gear-guide": {
     "moduleFile": "joey-jordison",
@@ -4384,7 +5115,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/joey-jordison.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-07-13",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "gear-guide",
+    "band": "Slipknot",
+    "bands": [
+      "Slipknot",
+      "Murderdolls",
+      "Sinsaenum"
+    ],
+    "country": "USA"
   },
   "joey-jordison-legacy": {
     "moduleFile": "joey-jordison",
@@ -4403,7 +5142,8 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/joey-jordison.webp",
     "datePublished": "2026-07-12",
     "dateModified": "2026-07-12",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleSection": "Tribute"
   },
   "iowa-anniversary": {
     "moduleFile": "joey-jordison",
@@ -4424,7 +5164,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/joey-jordison.webp",
     "datePublished": "2026-07-13",
     "dateModified": "2026-07-13",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleSection": "Anniversary",
+    "label": "Roadrunner Records"
   },
   "john-otto-drum-setup": {
     "moduleFile": "john-otto",
@@ -4443,7 +5185,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/john-otto.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Limp Bizkit",
+    "bands": [
+      "Limp Bizkit"
+    ],
+    "country": "USA"
   },
   "significant-other-drum-setup": {
     "moduleFile": "john-otto",
@@ -4465,7 +5213,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/john-otto.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Flip Records / Interscope",
+    "producer": "Terry Date & Limp Bizkit"
   },
   "chocolate-starfish-drum-setup": {
     "moduleFile": "john-otto",
@@ -4487,7 +5237,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/john-otto.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Flip Records / Interscope",
+    "producer": "Terry Date & Limp Bizkit"
   },
   "three-dollar-bill-yall-drum-setup": {
     "moduleFile": "john-otto",
@@ -4509,7 +5261,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/john-otto.webp",
     "datePublished": "2026-07-05",
     "dateModified": "2026-07-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Limp Bizkit",
+    "label": "Flip Records / Interscope",
+    "producer": "Ross Robinson"
   },
   "results-may-vary-drum-setup": {
     "moduleFile": "john-otto",
@@ -4531,7 +5286,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/john-otto.webp",
     "datePublished": "2026-07-05",
     "dateModified": "2026-07-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Limp Bizkit",
+    "label": "Flip Records / Interscope",
+    "producer": "Fred Durst"
   },
   "gold-cobra-drum-setup": {
     "moduleFile": "john-otto",
@@ -4553,7 +5311,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/john-otto.webp",
     "datePublished": "2026-07-05",
     "dateModified": "2026-07-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Limp Bizkit",
+    "label": "Interscope Records",
+    "producer": "Fred Durst"
   },
   "still-sucks-drum-setup": {
     "moduleFile": "john-otto",
@@ -4575,7 +5336,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/john-otto.webp",
     "datePublished": "2026-07-06",
     "dateModified": "2026-07-06",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Limp Bizkit",
+    "label": "Suretone Records",
+    "producer": "Fred Durst, Zakk Cervini"
   },
   "jon-dette-drum-setup": {
     "moduleFile": "jon-dette",
@@ -4593,7 +5357,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/jon-dette.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Slayer",
+    "bands": [
+      "Slayer",
+      "Testament",
+      "Anthrax"
+    ],
+    "country": "USA"
   },
   "kevin-talley-drum-setup": {
     "moduleFile": "kevin-talley",
@@ -4609,7 +5381,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/kevin-talley.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Dying Fetus",
+    "bands": [
+      "Dying Fetus",
+      "Misery Index",
+      "Jungle Rot"
+    ],
+    "country": "USA"
   },
   "destroy-the-opposition-drum-setup": {
     "moduleFile": "kevin-talley",
@@ -4629,7 +5409,11 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/destroy-the-opposition-drums.webp",
     "datePublished": "2026-07-09",
     "dateModified": "2026-07-09",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Dying Fetus",
+    "country": "USA",
+    "label": "Relapse Records",
+    "producer": "Dying Fetus and Steve Carr"
   },
   "master-of-puppets-drum-setup": {
     "moduleFile": "lars-ulrich",
@@ -4651,7 +5435,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/master-of-puppets-drums.webp",
     "datePublished": "2026-03-08",
     "dateModified": "2026-03-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Elektra Records",
+    "producer": "Flemming Rasmussen"
   },
   "whats-in-lars-ulrichs-kit": {
     "moduleFile": "lars-ulrich",
@@ -4670,7 +5456,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/lars-ulrich.webp",
     "datePublished": "2026-03-19",
     "dateModified": "2026-03-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Metallica",
+    "bands": [
+      "Metallica"
+    ],
+    "country": "Denmark / USA"
   },
   "and-justice-for-all-drum-setup": {
     "moduleFile": "lars-ulrich",
@@ -4692,7 +5484,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/and-justice-for-all-drums.webp",
     "datePublished": "2026-05-02",
     "dateModified": "2026-05-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Elektra Records",
+    "producer": "Flemming Rasmussen & Metallica"
   },
   "black-album-drum-setup": {
     "moduleFile": "lars-ulrich",
@@ -4714,7 +5508,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/black-album-drums.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Elektra Records",
+    "producer": "Bob Rock & Metallica"
   },
   "load-drum-setup": {
     "moduleFile": "lars-ulrich",
@@ -4736,7 +5532,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/load-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Elektra Records",
+    "producer": "Bob Rock & Metallica"
   },
   "reload-drum-setup": {
     "moduleFile": "lars-ulrich",
@@ -4758,7 +5556,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/reload-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Vertigo / Elektra",
+    "producer": "Bob Rock & Metallica"
   },
   "st-anger-drum-setup": {
     "moduleFile": "lars-ulrich",
@@ -4780,7 +5580,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/st-anger-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Elektra Records",
+    "producer": "Bob Rock, Metallica"
   },
   "death-magnetic-drum-setup": {
     "moduleFile": "lars-ulrich",
@@ -4802,7 +5604,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/death-magnetic-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Warner Bros. Records",
+    "producer": "Rick Rubin"
   },
   "hardwired-drum-setup": {
     "moduleFile": "lars-ulrich",
@@ -4824,7 +5628,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/hardwired-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Blackened Recordings",
+    "producer": "Greg Fidelman, James Hetfield, Lars Ulrich"
   },
   "kill-em-all-drum-setup": {
     "moduleFile": "lars-ulrich",
@@ -4845,7 +5651,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/kill-em-all-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Megaforce Records",
+    "producer": "Paul Curcio"
   },
   "ride-the-lightning-drum-setup": {
     "moduleFile": "lars-ulrich",
@@ -4866,7 +5674,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/ride-the-lightning-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Megaforce Records / Elektra Records",
+    "producer": "Flemming Rasmussen"
   },
   "72-seasons-drum-setup": {
     "moduleFile": "lars-ulrich",
@@ -4887,7 +5697,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/72-seasons-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Blackened Recordings",
+    "producer": "Greg Fidelman with James Hetfield & Lars Ulrich"
   },
   "whats-in-mario-duplantiers-kit": {
     "moduleFile": "mario-duplantier",
@@ -4906,7 +5718,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/mario-duplantier.webp",
     "datePublished": "2026-03-17",
     "dateModified": "2026-03-17",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Gojira",
+    "bands": [
+      "Gojira"
+    ],
+    "country": "France"
   },
   "terra-incognita-drum-setup": {
     "moduleFile": "mario-duplantier",
@@ -4928,7 +5746,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/terra-incognita-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Gabriel Editions",
+    "producer": "Joe Duplantier, Mario Duplantier"
   },
   "from-mars-to-sirius-drum-setup": {
     "moduleFile": "mario-duplantier",
@@ -4950,7 +5770,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/from-mars-to-sirius-drums.webp",
     "datePublished": "2026-03-19",
     "dateModified": "2026-03-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Listenable Records",
+    "producer": "Gojira (self-produced)"
   },
   "the-way-of-all-flesh-drum-setup": {
     "moduleFile": "mario-duplantier",
@@ -4972,7 +5794,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-way-of-all-flesh-drums.webp",
     "datePublished": "2026-03-25",
     "dateModified": "2026-03-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Prosthetic Records",
+    "producer": "Joe Duplantier, Mario Duplantier"
   },
   "mario-duplantier-gear": {
     "moduleFile": "mario-duplantier",
@@ -4991,7 +5815,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/mario-duplantier.webp",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Gojira",
+    "bands": [
+      "Gojira"
+    ],
+    "country": "France"
   },
   "lenfant-sauvage-drum-setup": {
     "moduleFile": "mario-duplantier",
@@ -5013,7 +5843,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/lenfant-sauvage-drums.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Joe Duplantier"
   },
   "magma-drum-setup": {
     "moduleFile": "mario-duplantier",
@@ -5035,7 +5867,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/magma-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Joe Duplantier"
   },
   "the-link-drum-setup": {
     "moduleFile": "mario-duplantier",
@@ -5056,7 +5890,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-link-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Listenable Records",
+    "producer": "Gojira (self-produced)"
   },
   "fortitude-drum-setup": {
     "moduleFile": "mario-duplantier",
@@ -5078,7 +5914,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/fortitude-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records / Mercury KX",
+    "producer": "Joe Duplantier (mixed by Andy Wallace)"
   },
   "watershed-drum-setup": {
     "moduleFile": "martin-axenrot",
@@ -5100,7 +5938,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/watershed-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Jens Bogren, Mikael Åkerfeldt"
   },
   "heritage-drum-setup": {
     "moduleFile": "martin-axenrot",
@@ -5122,7 +5962,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/heritage-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Mikael Åkerfeldt"
   },
   "pale-communion-drum-setup": {
     "moduleFile": "martin-axenrot",
@@ -5144,7 +5986,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/pale-communion-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Mikael Åkerfeldt"
   },
   "sorceress-drum-setup": {
     "moduleFile": "martin-axenrot",
@@ -5166,7 +6010,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/sorceress-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Mikael Åkerfeldt"
   },
   "in-cauda-venenum-drum-setup": {
     "moduleFile": "martin-axenrot",
@@ -5188,7 +6034,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/in-cauda-venenum-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Moderbolaget Records / Nuclear Blast",
+    "producer": "Mikael Åkerfeldt (with Stefan Boman co-producing, engineering, and mixing)"
   },
   "my-arms-your-hearse-drum-setup": {
     "moduleFile": "martin-lopez",
@@ -5209,7 +6057,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/my-arms-your-hearse-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "1998-09-15",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Candlelight Records",
+    "producer": "Mikael Åkerfeldt & Opeth"
   },
   "still-life-drum-setup": {
     "moduleFile": "martin-lopez",
@@ -5230,7 +6080,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/still-life-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Peaceville Records",
+    "producer": "Mikael Åkerfeldt"
   },
   "blackwater-park-drum-setup": {
     "moduleFile": "martin-lopez",
@@ -5251,7 +6103,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/blackwater-park-drums.webp",
     "datePublished": "2026-04-05",
     "dateModified": "2026-04-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Music for Nations",
+    "producer": "Steven Wilson"
   },
   "deliverance-drum-setup": {
     "moduleFile": "martin-lopez",
@@ -5272,7 +6126,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/deliverance-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Music for Nations",
+    "producer": "Steven Wilson & Mikael Åkerfeldt"
   },
   "ghost-reveries-drum-setup": {
     "moduleFile": "martin-lopez",
@@ -5294,7 +6150,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/ghost-reveries-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Opeth (mixed by Jens Bogren)"
   },
   "martin-lopez-drum-setup": {
     "moduleFile": "martin-lopez",
@@ -5313,7 +6171,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/martin-lopez.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Soen",
+    "bands": [
+      "Opeth",
+      "Soen"
+    ],
+    "country": "Sweden"
   },
   "damnation-drum-setup": {
     "moduleFile": "martin-lopez",
@@ -5331,7 +6196,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/damnation-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Music for Nations",
+    "producer": "Steven Wilson"
   },
   "whats-in-matt-garstkas-kit": {
     "moduleFile": "matt-garstka",
@@ -5350,7 +6217,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/matt-garstka.webp",
     "datePublished": "2026-03-27",
     "dateModified": "2026-03-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Animals as Leaders",
+    "bands": [
+      "Animals as Leaders"
+    ],
+    "country": "USA"
   },
   "the-joy-of-motion-drum-setup": {
     "moduleFile": "matt-garstka",
@@ -5372,7 +6245,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/matt-garstka.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "album-drum-setup",
+    "label": "Sumerian Records",
+    "producer": "Misha Mansoor"
   },
   "the-madness-of-many-drum-setup": {
     "moduleFile": "matt-garstka",
@@ -5394,7 +6270,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/matt-garstka.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "album-drum-setup",
+    "label": "Sumerian Records"
   },
   "parrhesia-drum-setup": {
     "moduleFile": "matt-garstka",
@@ -5416,7 +6294,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/matt-garstka.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "album-drum-setup",
+    "label": "Sumerian Records"
   },
   "matt-greiner-complete-drum-setup": {
     "moduleFile": "matt-greiner",
@@ -5434,7 +6314,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/matt-greiner.webp",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "August Burns Red",
+    "bands": [
+      "August Burns Red"
+    ],
+    "country": "USA"
   },
   "constellations-drum-setup": {
     "moduleFile": "matt-greiner",
@@ -5454,7 +6340,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/constellations-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Solid State Records",
+    "producer": "Jason Suecof"
   },
   "leveler-drum-setup": {
     "moduleFile": "matt-greiner",
@@ -5474,7 +6362,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/leveler-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Blade Records",
+    "producer": "Jason Suecof"
   },
   "thrill-seeker-drum-setup": {
     "moduleFile": "matt-greiner",
@@ -5494,7 +6384,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/thrill-seeker-drums.webp",
     "datePublished": "2026-07-06",
     "dateModified": "2026-07-06",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Solid State Records",
+    "producer": "Adam Dutkiewicz"
   },
   "messengers-drum-setup": {
     "moduleFile": "matt-greiner",
@@ -5514,7 +6406,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/messengers-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Solid State Records",
+    "producer": "Jason Suecof"
   },
   "rescue-and-restore-drum-setup": {
     "moduleFile": "matt-greiner",
@@ -5530,11 +6424,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2014,
     "genre": "Metalcore",
     "title": "Rescue & Restore Drum Setup: Matt Greiner's Gear on August Burns Red's 2014 Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used to record August Burns Red's Rescue & Restore (2014). Complete breakdown of the Pearl Reference Pure kit, Meinl Byzance cymbals, and the modern, hometown-recorded sound of metalcore's most musical drummer.",
+    "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used to record August Burns Red's Rescue & Restore (2014). Complete breakdown of the Pearl Reference Pure kit, Meinl Byzance cymbals, Pearl Demon Drive pedals, and the modern, hometown-recorded sound of metalcore's most musical drummer.",
     "ogImage": "/images/albums/rescue-and-restore-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Solid State Records",
+    "producer": "Carson Slovak & Grant McFarland"
   },
   "abr-phantom-anthem-drum-setup": {
     "moduleFile": "matt-greiner",
@@ -5554,7 +6450,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/phantom-anthem-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Fearless Records",
+    "producer": "Carson Slovak and Grant McFarland"
   },
   "beacon-drum-setup": {
     "moduleFile": "matt-greiner",
@@ -5570,11 +6468,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2019,
     "genre": "Metalcore / Christian Metal",
     "title": "August Burns Red 'Beacon' Drum Setup (Matt Greiner, 2019)",
-    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Dove Award-winning Beacon (2019). Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal — and the Christian metal crossover that earned the Dove Award for Rock Contemporary Inspirational Album.",
+    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Dove Award-winning Beacon (2019). Mapex Black Panther Design Lab kit, Meinl Byzance Extra Dry cymbals, DW 9000 Series double pedal — and the Christian metal crossover that earned the Dove Award for Rock Contemporary Inspirational Album.",
     "ogImage": "/images/albums/beacon-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Fearless Records",
+    "producer": "Carson Slovak and Grant McFarland"
   },
   "guardians-drum-setup": {
     "moduleFile": "matt-greiner",
@@ -5590,11 +6490,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2020,
     "genre": "Metalcore",
     "title": "August Burns Red 'Guardians' Drum Setup (Matt Greiner, 2020)",
-    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Guardians (2020). Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal — the record that filled the gap between Phantom Anthem and Death Below in ABR's discography.",
+    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Guardians (2020). Mapex Black Panther Design Lab kit, Meinl Byzance Extra Dry cymbals, DW 9000 Series double pedal — the record that filled the gap between Phantom Anthem and Death Below in ABR's discography.",
     "ogImage": "/images/albums/guardians-drums.webp",
     "datePublished": "2026-07-06",
     "dateModified": "2026-07-06",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Fearless Records",
+    "producer": "Carson Slovak and Grant McFarland"
   },
   "death-below-drum-setup": {
     "moduleFile": "matt-greiner",
@@ -5614,7 +6516,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/death-below-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Fearless Records",
+    "producer": "Carson Slovak and Grant McFarland"
   },
   "found-in-far-away-places-drum-setup": {
     "moduleFile": "matt-greiner",
@@ -5630,11 +6534,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2015,
     "genre": "Metalcore",
     "title": "Found in Far Away Places Drum Setup: Matt Greiner's Pearl Reference Pure Kit (2015)",
-    "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Gold-certified Found in Far Away Places (2015). Complete breakdown of the Pearl Reference Pure kit, Meinl Byzance cymbals, and the polyrhythmic technique behind ABR's most commercially successful album.",
+    "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Gold-certified Found in Far Away Places (2015). Complete breakdown of the Pearl Reference Pure kit, Meinl Byzance cymbals, Pearl Demon Drive pedal, and the polyrhythmic technique behind ABR's most commercially successful album.",
     "ogImage": "/images/albums/found-in-far-away-places-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Fearless Records",
+    "producer": "Carson Slovak and Grant McFarland"
   },
   "whats-in-matt-halperns-kit": {
     "moduleFile": "matt-halpern",
@@ -5653,7 +6559,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/matt-halpern.webp",
     "datePublished": "2026-05-04",
     "dateModified": "2026-05-04",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Periphery",
+    "bands": [
+      "Periphery"
+    ],
+    "country": "USA"
   },
   "periphery-ii-drum-setup": {
     "moduleFile": "matt-halpern",
@@ -5675,7 +6587,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/periphery-ii-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Sumerian Records",
+    "producer": "Misha Mansoor"
   },
   "periphery-iii-drum-setup": {
     "moduleFile": "matt-halpern",
@@ -5697,7 +6611,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/periphery-iii-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Sumerian Records",
+    "producer": "Misha Mansoor"
   },
   "periphery-iv-drum-setup": {
     "moduleFile": "matt-halpern",
@@ -5715,11 +6631,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2019,
     "genre": "Djent / Progressive Metal",
     "title": "Matt Halpern's Drum Setup on Periphery IV: Hail Stan (2019)",
-    "description": "Complete breakdown of Matt Halpern's drum setup on Periphery IV: Hail Stan (2019). Mapex Saturn V MH Exotic, full Meinl Byzance arsenal, and the performances on the 16-minute 'Reptile' that anchored Periphery's #1 US Progressive chart concept album.",
+    "description": "Complete breakdown of Matt Halpern's drum setup on Periphery IV: Hail Stan (2019). Pearl Reference Series kit, full Meinl Byzance arsenal, and the performances on the 16-minute 'Reptile' that anchored Periphery's #1 US Progressive chart concept album.",
     "ogImage": "/images/albums/periphery-iv-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "3DOT Recordings",
+    "producer": "Misha Mansoor"
   },
   "periphery-drum-setup": {
     "moduleFile": "matt-halpern",
@@ -5741,7 +6659,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/periphery-self-titled-drums.webp",
     "datePublished": "2026-06-28",
     "dateModified": "2026-06-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Sumerian Records",
+    "producer": "Misha Mansoor"
   },
   "periphery-v-aliens-drum-setup": {
     "moduleFile": "matt-halpern",
@@ -5759,11 +6679,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2023,
     "genre": "Djent / Progressive Metal",
     "title": "Matt Halpern's Drum Setup on Periphery V: Aliens (2023)",
-    "description": "Complete breakdown of Matt Halpern's drum setup on Periphery V: Aliens (2023) — Periphery's most recent album. Mapex Saturn V MH Exotic, Meinl Byzance cymbals, and the performances that close the arc from the 2010 djent debut to the mature 2023 sound.",
+    "description": "Complete breakdown of Matt Halpern's drum setup on Periphery V: Aliens (2023) — Periphery's most recent album. Pearl Reference Series, Meinl Byzance cymbals, and the performances that close the arc from the 2010 djent debut to the mature 2023 sound.",
     "ogImage": "/images/albums/periphery-v-aliens-drums.webp",
     "datePublished": "2026-06-28",
     "dateModified": "2026-06-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "3DOT Recordings",
+    "producer": "Misha Mansoor"
   },
   "whats-in-mike-manginis-kit": {
     "moduleFile": "mike-mangini",
@@ -5785,7 +6707,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/mike-mangini.webp",
     "datePublished": "2026-03-24",
     "dateModified": "2026-03-24",
-    "isAlbumArticle": false
+    "isAlbumArticle": false,
+    "label": null,
+    "producer": null
   },
   "distance-over-time-drum-setup": {
     "moduleFile": "mike-mangini",
@@ -5805,7 +6729,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/distance-over-time-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Dream Theater",
+    "label": "InsideOut Music",
+    "producer": "John Petrucci"
   },
   "a-view-from-the-top-of-the-world-drum-setup": {
     "moduleFile": "mike-mangini",
@@ -5825,7 +6752,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/a-view-from-the-top-of-the-world-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Dream Theater",
+    "label": "InsideOut Music",
+    "producer": "Dream Theater"
   },
   "dream-theater-self-titled-drum-setup": {
     "moduleFile": "mike-mangini",
@@ -5845,7 +6775,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/dream-theater-self-titled-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Dream Theater",
+    "label": "Roadrunner Records",
+    "producer": "John Petrucci"
   },
   "the-astonishing-drum-setup": {
     "moduleFile": "mike-mangini",
@@ -5865,7 +6798,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-astonishing-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Dream Theater",
+    "label": "Roadrunner Records",
+    "producer": "John Petrucci"
   },
   "a-dramatic-turn-of-events-drum-setup": {
     "moduleFile": "mike-mangini",
@@ -5885,7 +6821,10 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/a-dramatic-turn-of-events-drums.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Dream Theater",
+    "label": "Roadrunner Records",
+    "producer": "John Petrucci & Mike Mangini"
   },
   "whats-in-mike-portnoys-kit": {
     "moduleFile": "mike-portnoy",
@@ -5904,7 +6843,17 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/mike-portnoy.webp",
     "datePublished": "2026-03-17",
     "dateModified": "2026-03-17",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Dream Theater",
+    "bands": [
+      "Dream Theater",
+      "The Winery Dogs",
+      "Sons of Apollo",
+      "Liquid Tension Experiment",
+      "Flying Colors"
+    ],
+    "country": "USA"
   },
   "images-and-words-drum-setup": {
     "moduleFile": "mike-portnoy",
@@ -5926,7 +6875,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/images-and-words-drums.webp",
     "datePublished": "2026-03-17",
     "dateModified": "2026-03-17",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Atco Records",
+    "producer": "David Prater"
   },
   "awake-drum-setup": {
     "moduleFile": "mike-portnoy",
@@ -5948,7 +6899,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/awake-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EastWest Records",
+    "producer": "Dream Theater, John Purdell, Duane Baron"
   },
   "scenes-from-a-memory-drum-setup": {
     "moduleFile": "mike-portnoy",
@@ -5970,7 +6923,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/scenes-from-a-memory-drums.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Elektra Records",
+    "producer": "David Prater"
   },
   "train-of-thought-drum-setup": {
     "moduleFile": "mike-portnoy",
@@ -5992,7 +6947,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/train-of-thought-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "John Petrucci & Mike Portnoy"
   },
   "six-degrees-drum-setup": {
     "moduleFile": "mike-portnoy",
@@ -6014,7 +6971,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/six-degrees-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Elektra Records",
+    "producer": "John Petrucci & Mike Portnoy"
   },
   "octavarium-drum-setup": {
     "moduleFile": "mike-portnoy",
@@ -6036,7 +6995,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/octavarium-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "John Petrucci & Mike Portnoy"
   },
   "systematic-chaos-drum-setup": {
     "moduleFile": "mike-portnoy",
@@ -6058,7 +7019,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/systematic-chaos-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "John Petrucci & Mike Portnoy"
   },
   "black-clouds-and-silver-linings-drum-setup": {
     "moduleFile": "mike-portnoy",
@@ -6080,7 +7043,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/black-clouds-and-silver-linings-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "John Petrucci & Mike Portnoy"
   },
   "falling-into-infinity-drum-setup": {
     "moduleFile": "mike-portnoy",
@@ -6101,7 +7066,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/falling-into-infinity-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Elektra Records",
+    "producer": "Kevin Shirley & John Petrucci"
   },
   "nightmare-drum-setup": {
     "moduleFile": "mike-portnoy",
@@ -6122,7 +7089,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/nightmare-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Warner Bros. Records",
+    "producer": "Mike Elizondo"
   },
   "whats-in-mikkey-dees-kit": {
     "moduleFile": "mikkey-dee",
@@ -6141,7 +7110,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/mikkey-dee.webp",
     "datePublished": "2026-05-03",
     "dateModified": "2026-05-03",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Scorpions / Motörhead",
+    "bands": [
+      "Scorpions",
+      "Motörhead",
+      "King Diamond",
+      "Don Dokken"
+    ],
+    "country": "Sweden"
   },
   "march-or-die-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6163,7 +7141,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/march-or-die-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "WTG Records / Epic Records",
+    "producer": "Peter Solley (album); Billy Sherwood and Phil Carson (\"Hellraiser\")"
   },
   "bastards-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6185,7 +7165,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/bastards-drums.webp",
     "datePublished": "2026-06-23",
     "dateModified": "2026-06-23",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "ZYX Music",
+    "producer": "Howard Benson"
   },
   "sacrifice-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6207,7 +7189,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/sacrifice-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "SPV/Steamhammer (CMC International in North America)",
+    "producer": "Howard Benson and Ryan Dorn, with Motörhead"
   },
   "overnight-sensation-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6229,7 +7213,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/overnight-sensation-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "SPV/Steamhammer (CMC International in North America)",
+    "producer": "Howard Benson and Duane Baron, with Ryan Dorn and Motörhead"
   },
   "snake-bite-love-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6251,7 +7237,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/snake-bite-love-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "SPV/Steamhammer (CMC International in North America)",
+    "producer": "Howard Benson, with Motörhead"
   },
   "we-are-motorhead-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6273,7 +7261,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/we-are-motorhead-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "SPV/Steamhammer (CMC International in North America)",
+    "producer": "Motörhead, with Bob Kulick, Bruce Bouillet, and Duane Baron"
   },
   "hammered-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6295,7 +7285,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/hammered-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "SPV/Steamhammer (Metal-Is/Sanctuary Records in North America)",
+    "producer": "Thom Panunzio, with Motörhead"
   },
   "bad-magic-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6317,7 +7309,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/bad-magic-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Motörhead Music / UDR",
+    "producer": "Cameron Webb"
   },
   "inferno-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6339,7 +7333,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/inferno-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Steamhammer/SPV (Sanctuary Records in North America)",
+    "producer": "Cameron Webb"
   },
   "kiss-of-death-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6357,11 +7353,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2006,
     "genre": "Heavy Metal / Speed Metal",
     "title": "Kiss of Death Drum Setup: Mikkey Dee's Gear on Motörhead's 2006 Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Kiss of Death (2006). Complete breakdown of the Sonor SQ2 kit, Paiste cymbals, and the band's highest German chart entry to date.",
+    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Kiss of Death (2006) — the album where he switched from Tama to Sonor SQ2 drums. Complete breakdown of the new Sonor SQ2 kit, Paiste cymbals, and the band's highest German chart entry to date.",
     "ogImage": "/images/albums/kiss-of-death-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Steamhammer/SPV (Sanctuary Records in North America)",
+    "producer": "Cameron Webb"
   },
   "motorizer-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6383,7 +7381,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/motorizer-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Steamhammer/SPV",
+    "producer": "Cameron Webb"
   },
   "the-world-is-yours-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6405,7 +7405,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-world-is-yours-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Motörhead Music / UDR GmbH (distributed by EMI Label Services)",
+    "producer": "Cameron Webb"
   },
   "aftershock-drum-setup": {
     "moduleFile": "mikkey-dee",
@@ -6427,7 +7429,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/aftershock-drums.webp",
     "datePublished": "2026-07-08",
     "dateModified": "2026-07-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Motörhead Music / UDR GmbH (distributed by ADA)",
+    "producer": "Cameron Webb"
   },
   "morgan-agren-drum-setup": {
     "moduleFile": "morgan-agren",
@@ -6444,7 +7448,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/morgan-agren.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Devin Townsend Project",
+    "bands": [
+      "Devin Townsend Project",
+      "Mats/Morgan Band",
+      "Frank Zappa (touring)"
+    ],
+    "country": "Sweden"
   },
   "empath-drum-setup": {
     "moduleFile": "morgan-agren",
@@ -6465,7 +7477,11 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/empath-drums.webp",
     "datePublished": "2026-07-09",
     "dateModified": "2026-07-09",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Devin Townsend",
+    "country": "Sweden",
+    "label": "HevyDevy Records",
+    "producer": "Devin Townsend"
   },
   "whats-in-navene-koperweiss-kit": {
     "moduleFile": "navene-koperweis",
@@ -6484,7 +7500,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/navene-koperweis.webp",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Entheos",
+    "bands": [
+      "Animosity",
+      "Animals as Leaders",
+      "Entheos",
+      "Fleshwrought"
+    ],
+    "country": "USA"
   },
   "navene-koperweis-weightless-2011": {
     "moduleFile": "navene-koperweis",
@@ -6506,7 +7531,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/weightless-drums.webp",
     "datePublished": "2026-07-05",
     "dateModified": "2026-07-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Animals as Leaders",
+    "bands": [
+      "Animals as Leaders"
+    ],
+    "country": "USA",
+    "label": "Prosthetic Records",
+    "producer": "Animals as Leaders"
   },
   "vengeance-falls-drum-setup": {
     "moduleFile": "nick-augusto",
@@ -6526,7 +7559,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nick-augusto.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "David Draiman (Disturbed)"
   },
   "in-waves-drum-setup": {
     "moduleFile": "nick-augusto",
@@ -6546,7 +7581,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/in-waves-drum-setup.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Jason Suecof & Mark Lewis"
   },
   "rust-in-peace-drum-setup": {
     "moduleFile": "nick-menza",
@@ -6567,7 +7604,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/rust-in-peace-drums.webp",
     "datePublished": "2026-05-02",
     "dateModified": "2026-05-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Capitol Records / Combat Records",
+    "producer": "Dave Mustaine & Mike Clink"
   },
   "countdown-to-extinction-drum-setup": {
     "moduleFile": "nick-menza",
@@ -6588,7 +7627,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/countdown-to-extinction-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Capitol Records",
+    "producer": "Max Norman, Dave Mustaine"
   },
   "nick-menza-drum-setup": {
     "moduleFile": "nick-menza",
@@ -6606,7 +7647,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nick-menza.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Megadeth",
+    "bands": [
+      "Megadeth",
+      "OHM"
+    ],
+    "country": "USA"
   },
   "cryptic-writings-drum-setup": {
     "moduleFile": "nick-menza",
@@ -6628,7 +7676,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/cryptic-writings-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Capitol Records",
+    "producer": "Dann Huff, Dave Mustaine"
   },
   "youthanasia-drum-setup": {
     "moduleFile": "nick-menza",
@@ -6650,7 +7700,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/youthanasia-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Capitol Records",
+    "producer": "Max Norman, Dave Mustaine"
   },
   "number-of-the-beast-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6671,7 +7723,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/number-of-beast-drums.webp",
     "datePublished": "2026-03-08",
     "dateModified": "2026-03-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI",
+    "producer": "Martin Birch"
   },
   "powerslave-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6693,7 +7747,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI",
+    "producer": "Martin Birch"
   },
   "somewhere-in-time-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6715,7 +7771,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI",
+    "producer": "Martin Birch"
   },
   "piece-of-mind-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6737,7 +7795,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-06-20",
     "dateModified": "2026-06-20",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI",
+    "producer": "Martin Birch"
   },
   "seventh-son-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6759,7 +7819,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI",
+    "producer": "Martin Birch"
   },
   "no-prayer-for-the-dying-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6781,7 +7843,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI",
+    "producer": "Martin Birch"
   },
   "fear-of-the-dark-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6803,7 +7867,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI / Epic",
+    "producer": "Martin Birch"
   },
   "whats-in-nicko-mcbrains-kit": {
     "moduleFile": "nicko-mcbrain",
@@ -6824,7 +7890,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-03-23",
     "dateModified": "2026-03-23",
-    "isAlbumArticle": false
+    "isAlbumArticle": false,
+    "label": null,
+    "producer": null
   },
   "brave-new-world-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6846,7 +7914,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI Records",
+    "producer": "Kevin Shirley / Steve Harris"
   },
   "final-frontier-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6868,7 +7938,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI Records",
+    "producer": "Kevin Shirley / Steve Harris"
   },
   "book-of-souls-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6890,7 +7962,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Parlophone / BMG",
+    "producer": "Kevin Shirley"
   },
   "virtual-xi-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6912,7 +7986,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI Records",
+    "producer": "Steve Harris / Nigel Green"
   },
   "senjutsu-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6934,7 +8010,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Parlophone / BMG",
+    "producer": "Kevin Shirley / Steve Harris"
   },
   "dance-of-death-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6956,7 +8034,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI Records",
+    "producer": "Kevin Shirley / Steve Harris"
   },
   "a-matter-of-life-and-death-drum-setup": {
     "moduleFile": "nicko-mcbrain",
@@ -6978,7 +8058,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EMI Records",
+    "producer": "Kevin Shirley / Steve Harris"
   },
   "divine-intervention-drum-setup": {
     "moduleFile": "paul-bostaph",
@@ -6999,7 +8081,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/divine-intervention-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "American Recordings",
+    "producer": "Toby Wright"
   },
   "diabolus-in-musica-drum-setup": {
     "moduleFile": "paul-bostaph",
@@ -7020,7 +8104,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/diabolus-in-musica-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "American Recordings",
+    "producer": "Toby Wright"
   },
   "god-hates-us-all-drum-setup": {
     "moduleFile": "paul-bostaph",
@@ -7042,7 +8128,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/god-hates-us-all-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "American Recordings",
+    "producer": "Matt Hyde"
   },
   "repentless-drum-setup": {
     "moduleFile": "paul-bostaph",
@@ -7063,7 +8151,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/repentless-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Terry Date"
   },
   "formation-of-damnation-drum-setup": {
     "moduleFile": "paul-bostaph",
@@ -7084,7 +8174,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/formation-of-damnation-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Eric Peterson and Chuck Billy"
   },
   "whats-in-paul-bostaphs-kit": {
     "moduleFile": "paul-bostaph",
@@ -7106,7 +8198,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/paul-bostaph.webp",
     "datePublished": "2026-03-23",
     "dateModified": "2026-03-23",
-    "isAlbumArticle": false
+    "isAlbumArticle": false,
+    "label": null,
+    "producer": null
   },
   "paul-mazurkiewicz-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7119,7 +8213,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/paul-mazurkiewicz.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA"
   },
   "eaten-back-to-life-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7139,7 +8239,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/eaten-back-to-life-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Scott Burns"
   },
   "butchered-at-birth-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7159,7 +8266,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/butchered-at-birth-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Scott Burns"
   },
   "the-bleeding-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7179,7 +8293,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-bleeding-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Scott Burns"
   },
   "vile-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7199,7 +8320,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/vile-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Scott Burns"
   },
   "bloodthirst-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7219,7 +8347,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/bloodthirst-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Colin Richardson"
   },
   "tomb-of-the-mutilated-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7240,7 +8375,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/tomb-of-the-mutilated-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Scott Burns"
   },
   "gallery-of-suicide-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7260,7 +8402,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/gallery-of-suicide-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Jim Morris"
   },
   "gore-obsessed-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7280,7 +8429,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/gore-obsessed-drums.webp",
     "datePublished": "2026-06-30",
     "dateModified": "2026-06-30",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Neil Kernon"
   },
   "the-wretched-spawn-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7300,7 +8456,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/the-wretched-spawn-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Neil Kernon"
   },
   "kill-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7320,7 +8483,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/kill-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Erik Rutan"
   },
   "evisceration-plague-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7340,7 +8510,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/evisceration-plague-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Erik Rutan"
   },
   "torture-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7360,7 +8537,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/torture-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Erik Rutan"
   },
   "skeletal-domain-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7380,7 +8564,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/skeletal-domain-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Mark Lewis"
   },
   "red-before-black-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7400,7 +8591,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/red-before-black-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Erik Rutan"
   },
   "violence-unimagined-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7420,7 +8618,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/violence-unimagined-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Erik Rutan"
   },
   "chaos-horrific-drum-setup": {
     "moduleFile": "paul-mazurkiewicz",
@@ -7440,7 +8645,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/chaos-horrific-drums.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Cannibal Corpse",
+    "bands": [
+      "Cannibal Corpse"
+    ],
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "producer": "Erik Rutan"
   },
   "whats-in-pete-sandovals-kit": {
     "moduleFile": "pete-sandoval",
@@ -7462,7 +8674,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/pete-sandoval.webp",
     "datePublished": "2026-03-22",
     "dateModified": "2026-03-22",
-    "isAlbumArticle": false
+    "isAlbumArticle": false,
+    "label": null,
+    "producer": null
   },
   "altars-of-madness-drum-setup": {
     "moduleFile": "pete-sandoval",
@@ -7484,7 +8698,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/altars-of-madness-drums.webp",
     "datePublished": "2026-03-22",
     "dateModified": "2026-03-22",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Earache Records",
+    "producer": "Tom Morris"
   },
   "blessed-are-the-sick-drum-setup": {
     "moduleFile": "pete-sandoval",
@@ -7506,7 +8722,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/altars-of-madness-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Earache Records",
+    "producer": "Tom Morris"
   },
   "covenant-drum-setup": {
     "moduleFile": "pete-sandoval",
@@ -7528,7 +8746,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/altars-of-madness-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Giant Records / Earache Records",
+    "producer": "Tom Morris"
   },
   "korn-iii-drum-setup": {
     "moduleFile": "ray-luzier",
@@ -7550,7 +8770,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/ray-luzier.webp",
     "datePublished": "2026-06-28",
     "dateModified": "2026-06-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Ross Robinson"
   },
   "path-of-totality-drum-setup": {
     "moduleFile": "ray-luzier",
@@ -7572,7 +8794,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/ray-luzier.webp",
     "datePublished": "2026-06-28",
     "dateModified": "2026-06-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Prospect Park",
+    "producer": "Skrillex, Excision, Feed Me, Noisia, Downlink, Kill the Noise, 12th Planet"
   },
   "the-paradigm-shift-drum-setup": {
     "moduleFile": "ray-luzier",
@@ -7594,7 +8818,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/ray-luzier.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Prospect Park Records",
+    "producer": "Don Gilmore"
   },
   "serenity-of-suffering-drum-setup": {
     "moduleFile": "ray-luzier",
@@ -7616,7 +8842,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/ray-luzier.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Nick Raskulinecz"
   },
   "the-nothing-drum-setup": {
     "moduleFile": "ray-luzier",
@@ -7638,7 +8866,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/ray-luzier.webp",
     "datePublished": "2026-07-02",
     "dateModified": "2026-07-02",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records / Elektra Records",
+    "producer": "Nick Raskulinecz"
   },
   "requiem-drum-setup": {
     "moduleFile": "ray-luzier",
@@ -7660,7 +8890,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/ray-luzier.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Loma Vista Recordings",
+    "producer": "Chris Collier"
   },
   "whats-in-ray-luziers-kit": {
     "moduleFile": "ray-luzier",
@@ -7682,7 +8914,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/ray-luzier.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": false
+    "isAlbumArticle": false,
+    "label": null,
+    "producer": null
   },
   "raymond-herrera-drum-setup": {
     "moduleFile": "raymond-herrera",
@@ -7699,7 +8933,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/raymond-herrera.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Fear Factory",
+    "bands": [
+      "Fear Factory",
+      "Brujeria",
+      "Arkaea"
+    ],
+    "country": "USA"
   },
   "demanufacture-drum-setup": {
     "moduleFile": "raymond-herrera",
@@ -7718,7 +8960,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/raymond-herrera.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Colin Richardson & Rhys Fulber (after aborted initial sessions with Ross Robinson)"
   },
   "obsolete-drum-setup": {
     "moduleFile": "raymond-herrera",
@@ -7737,7 +8981,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/raymond-herrera.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Rhys Fulber & Bill Gould"
   },
   "digimortal-drum-setup": {
     "moduleFile": "raymond-herrera",
@@ -7756,7 +9002,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/raymond-herrera.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Rhys Fulber"
   },
   "whats-in-richard-christys-kit": {
     "moduleFile": "richard-christy",
@@ -7778,7 +9026,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/richard-christy.webp",
     "datePublished": "2026-04-06",
     "dateModified": "2026-04-06",
-    "isAlbumArticle": false
+    "isAlbumArticle": false,
+    "label": null,
+    "producer": null
   },
   "sound-of-perseverance-drum-setup": {
     "moduleFile": "richard-christy",
@@ -7801,7 +9051,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/sound-of-perseverance-drums.webp",
     "datePublished": "2026-04-06",
     "dateModified": "2026-04-06",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Jim Morris & Chuck Schuldiner"
   },
   "ryan-van-poederooyen-drum-setup": {
     "moduleFile": "ryan-van-poederooyen",
@@ -7817,7 +9069,14 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/ryan-van-poederooyen.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Devin Townsend Project",
+    "bands": [
+      "Devin Townsend Project",
+      "Devin Townsend Band"
+    ],
+    "country": "Canada"
   },
   "ryan-van-poederooyen-deconstruction-2011": {
     "moduleFile": "ryan-van-poederooyen",
@@ -7837,7 +9096,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/deconstruction-drums.webp",
     "datePublished": "2026-07-05",
     "dateModified": "2026-07-05",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Devin Townsend Project",
+    "bands": [
+      "Devin Townsend Project"
+    ],
+    "country": "Canada",
+    "label": "HevyDevy Records / InsideOut Music",
+    "producer": "Devin Townsend"
   },
   "painkiller-drum-setup": {
     "moduleFile": "scott-travis",
@@ -7860,7 +9127,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/painkiller-drums.webp",
     "datePublished": "2026-03-15",
     "dateModified": "2026-03-15",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Columbia Records",
+    "producer": "Chris Tsangarides"
   },
   "jugulator-drum-setup": {
     "moduleFile": "scott-travis",
@@ -7880,7 +9149,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/jugulator-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "CMC International (US) / SPV (Europe)",
+    "producer": "Glenn Tipton, K.K. Downing, Sean Lynch"
   },
   "demolition-drum-setup": {
     "moduleFile": "scott-travis",
@@ -7900,7 +9171,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/demolition-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "SPV/Steamhammer (Europe) / Atlantic Records (North America)",
+    "producer": "Glenn Tipton, Sean Lynch"
   },
   "firepower-drum-setup": {
     "moduleFile": "scott-travis",
@@ -7923,7 +9196,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/firepower-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epic Records",
+    "producer": "Andy Sneap, Tom Allom"
   },
   "angel-of-retribution-drum-setup": {
     "moduleFile": "scott-travis",
@@ -7943,7 +9218,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/angel-of-retribution-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epic Records / Sony BMG",
+    "producer": "Roy Z, Judas Priest"
   },
   "nostradamus-drum-setup": {
     "moduleFile": "scott-travis",
@@ -7963,7 +9240,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/nostradamus-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epic Records / Sony BMG",
+    "producer": "Roy Z, Judas Priest"
   },
   "redeemer-of-souls-drum-setup": {
     "moduleFile": "scott-travis",
@@ -7983,7 +9262,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/redeemer-of-souls-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Epic Records",
+    "producer": "Andy Sneap, Judas Priest"
   },
   "invincible-shield-drum-setup": {
     "moduleFile": "scott-travis",
@@ -8003,7 +9284,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/invincible-shield-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Columbia Records (Japan) / Epic Records",
+    "producer": "Andy Sneap (Tom Allom co-produced \"Sons of Thunder\" and \"Giants in the Sky\")"
   },
   "whats-in-scott-travis-kit": {
     "moduleFile": "scott-travis",
@@ -8025,7 +9308,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/scott-travis.webp",
     "datePublished": "2026-04-06",
     "dateModified": "2026-04-06",
-    "isAlbumArticle": false
+    "isAlbumArticle": false,
+    "label": null,
+    "producer": null
   },
   "spiritual-healing-drum-setup": {
     "moduleFile": "sean-reinert",
@@ -8042,7 +9327,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/spiritual-healing-drums.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-08-21",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Combat Records",
+    "producer": "Scott Burns"
   },
   "human-drum-setup": {
     "moduleFile": "sean-reinert",
@@ -8063,7 +9350,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/human-drums.webp",
     "datePublished": "2026-03-28",
     "dateModified": "2026-03-28",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Relativity Records",
+    "producer": "Scott Burns"
   },
   "whats-in-sean-reinerts-kit": {
     "moduleFile": "sean-reinert",
@@ -8081,7 +9370,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/sean-reinert.webp",
     "datePublished": "2026-05-03",
     "dateModified": "2026-05-03",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Cynic / Death",
+    "bands": [
+      "Cynic",
+      "Death",
+      "Æon Spoke",
+      "Gordian Knot"
+    ],
+    "country": "USA"
   },
   "traced-in-air-drum-setup": {
     "moduleFile": "sean-reinert",
@@ -8102,7 +9400,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/traced-in-air-drums.webp",
     "datePublished": "2026-06-29",
     "dateModified": "2026-06-29",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Season of Mist",
+    "producer": "Sean Reinert and Paul Masvidal"
   },
   "focus-drum-setup": {
     "moduleFile": "sean-reinert",
@@ -8123,7 +9423,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/focus-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Roadrunner Records",
+    "producer": "Scott Burns"
   },
   "shannon-larkin-drum-setup": {
     "moduleFile": "shannon-larkin",
@@ -8142,7 +9444,16 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Godsmack",
+    "bands": [
+      "Godsmack",
+      "Ugly Kid Joe",
+      "Wrathchild America",
+      "Another Animal"
+    ],
+    "country": "USA"
   },
   "faceless-drum-setup": {
     "moduleFile": "shannon-larkin",
@@ -8164,7 +9475,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "datePublished": "2026-06-24",
     "dateModified": "2026-06-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Republic Records / Universal",
+    "producer": "Godsmack"
   },
   "godsmack-iv-drum-setup": {
     "moduleFile": "shannon-larkin",
@@ -8182,11 +9495,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2006,
     "genre": "Hard Rock / Heavy Metal",
     "title": "Godsmack IV Drum Setup: Shannon Larkin's ddrum Dios Series Gear on the #2 Billboard Album (2006)",
-    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's IV (2006) — the #2 Billboard 200 debut, certified Platinum. ddrum Dios Series drums, Sabian HH/HHX cymbals, Pearl Eliminator pedals, and the heavier direction that evolved from Faceless.",
+    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's IV (2006) — the #2 Billboard 200 debut, certified Platinum. ddrum Dios Series drums, Sabian HH/HHX cymbals, DW 9000 double pedal, and the heavier direction that evolved from Faceless.",
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Republic Records",
+    "producer": "Godsmack"
   },
   "when-legends-rise-drum-setup": {
     "moduleFile": "shannon-larkin",
@@ -8206,7 +9521,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "BMG",
+    "producer": "Erik Ron, Marilyn Manson (co-prod. \"Bulletproof\")"
   },
   "godsmack-1000hp-drum-setup": {
     "moduleFile": "shannon-larkin",
@@ -8228,7 +9545,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Republic Records",
+    "producer": "Rob Cavallo"
   },
   "the-oracle-drum-setup": {
     "moduleFile": "shannon-larkin",
@@ -8246,11 +9565,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2010,
     "genre": "Hard Rock / Alternative Metal",
     "title": "Shannon Larkin's Drum Setup on Godsmack's The Oracle (2010)",
-    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series drums, Sabian HH/HHX cymbals, DW 9000 Series double pedal, and the home-studio recording approach behind 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain.'",
+    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series drums, Sabian HH/HHX cymbals, DW 9000 double pedal, and the home-studio recording approach behind 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain.'",
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Universal Republic Records",
+    "producer": "Dave Fortman, Sully Erna"
   },
   "lighting-up-the-sky-drum-setup": {
     "moduleFile": "shannon-larkin",
@@ -8272,7 +9593,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "BMG",
+    "producer": "Godsmack"
   },
   "avenged-sevenfold-self-titled-drum-setup": {
     "moduleFile": "the-rev",
@@ -8290,7 +9613,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/avenged-sevenfold-self-titled-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Warner Bros. Records",
+    "producer": "Mudrock"
   },
   "city-of-evil-drum-setup": {
     "moduleFile": "the-rev",
@@ -8308,7 +9633,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/city-of-evil-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Warner Bros. Records",
+    "producer": "Mudrock"
   },
   "tim-yeung-drum-setup": {
     "moduleFile": "tim-yeung",
@@ -8325,7 +9652,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/tim-yeung.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Morbid Angel",
+    "bands": [
+      "Morbid Angel",
+      "Hate Eternal",
+      "Divine Heresy"
+    ],
+    "country": "USA"
   },
   "bleed-the-fifth-drum-setup": {
     "moduleFile": "tim-yeung",
@@ -8345,7 +9680,11 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/bleed-the-fifth-drums.webp",
     "datePublished": "2026-07-09",
     "dateModified": "2026-07-09",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "band": "Divine Heresy",
+    "country": "USA",
+    "label": "Century Media Records (North America) / Roadrunner Records (Europe)",
+    "producer": "Logan Mader"
   },
   "whats-in-tomas-haakes-kit": {
     "moduleFile": "tomas-haake",
@@ -8364,7 +9703,13 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/tomas-haake.webp",
     "datePublished": "2026-03-13",
     "dateModified": "2026-03-13",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Meshuggah",
+    "bands": [
+      "Meshuggah"
+    ],
+    "country": "Sweden"
   },
   "chaosphere-drum-setup": {
     "moduleFile": "tomas-haake",
@@ -8386,7 +9731,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/chaosphere-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Meshuggah"
   },
   "nothing-drum-setup": {
     "moduleFile": "tomas-haake",
@@ -8408,7 +9755,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/nothing-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Meshuggah"
   },
   "obzen-drum-setup": {
     "moduleFile": "tomas-haake",
@@ -8430,7 +9779,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/obzen-drums.webp",
     "datePublished": "2026-03-14",
     "dateModified": "2026-03-14",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Meshuggah & Daniel Bergstrand"
   },
   "koloss-drum-setup": {
     "moduleFile": "tomas-haake",
@@ -8452,7 +9803,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/koloss-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Meshuggah"
   },
   "violent-sleep-of-reason-drum-setup": {
     "moduleFile": "tomas-haake",
@@ -8474,7 +9827,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/violent-sleep-of-reason-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Meshuggah & Tue Madsen"
   },
   "immutable-drum-setup": {
     "moduleFile": "tomas-haake",
@@ -8496,7 +9851,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/immutable-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Atomic Fire Records",
+    "producer": "Meshuggah & Tue Madsen"
   },
   "contradictions-collapse-drum-setup": {
     "moduleFile": "tomas-haake",
@@ -8518,7 +9875,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/contradictions-collapse-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Meshuggah"
   },
   "destroy-erase-improve-drum-setup": {
     "moduleFile": "tomas-haake",
@@ -8540,7 +9899,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/destroy-erase-improve-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Meshuggah"
   },
   "catch-thirtythree-drum-setup": {
     "moduleFile": "tomas-haake",
@@ -8562,7 +9923,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/catch-thirtythree-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Nuclear Blast",
+    "producer": "Tomas Haake & Fredrik Thordendal"
   },
   "animals-as-leaders-drum-setup": {
     "moduleFile": "tosin-abasi-programmed",
@@ -8580,7 +9943,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/animals-as-leaders-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Prosthetic Records",
+    "producer": "Misha Mansoor + Tosin Abasi"
   },
   "travis-orbin-drum-setup": {
     "moduleFile": "travis-orbin",
@@ -8599,7 +9964,15 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/travis-orbin.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleType": "drummer-kit",
+    "band": "Periphery",
+    "bands": [
+      "Periphery",
+      "Sky Harbor",
+      "Darkest Hour"
+    ],
+    "country": "USA"
   },
   "how-to-play-blast-beats": {
     "moduleFile": "various",
@@ -8615,7 +9988,8 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/og/techniques-preview.png",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleSection": "HowTo"
   },
   "double-bass-drumming-for-metal": {
     "moduleFile": "various",
@@ -8631,7 +10005,8 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/og/techniques-preview.png",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleSection": "HowTo"
   },
   "how-to-tune-drums-for-metal": {
     "moduleFile": "various",
@@ -8647,7 +10022,8 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/og/techniques-preview.png",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleSection": "HowTo"
   },
   "how-to-play-polyrhythm-drums": {
     "moduleFile": "various",
@@ -8663,7 +10039,8 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/og/techniques-preview.png",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleSection": "HowTo"
   },
   "breakdown-beat-guide": {
     "moduleFile": "various",
@@ -8679,7 +10056,8 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/og/techniques-preview.png",
     "datePublished": "2026-06-18",
     "dateModified": "2026-06-18",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "articleSection": "HowTo"
   },
   "vulgar-display-of-power-drum-setup": {
     "moduleFile": "vinnie-paul",
@@ -8701,7 +10079,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/vulgar-display-drums.webp",
     "datePublished": "2026-03-08",
     "dateModified": "2026-03-08",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Atco Records",
+    "producer": "Terry Date & Vinnie Paul"
   },
   "whats-in-vinnie-pauls-kit": {
     "moduleFile": "vinnie-paul",
@@ -8723,7 +10103,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/drummers/vinnie-paul.webp",
     "datePublished": "2026-03-23",
     "dateModified": "2026-03-23",
-    "isAlbumArticle": false
+    "isAlbumArticle": false,
+    "label": null,
+    "producer": null
   },
   "cowboys-from-hell-drum-setup": {
     "moduleFile": "vinnie-paul",
@@ -8745,7 +10127,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/cowboys-from-hell-drums.webp",
     "datePublished": "2026-03-24",
     "dateModified": "2026-03-24",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Atco Records",
+    "producer": "Terry Date & Vinnie Paul"
   },
   "far-beyond-driven-drum-setup": {
     "moduleFile": "vinnie-paul",
@@ -8763,11 +10147,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 1994,
     "genre": "Groove Metal",
     "title": "Far Beyond Driven Drum Setup: Vinnie Paul's Heaviest Era Gear Breakdown",
-    "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's Far Beyond Driven. The Remo drum kit, Steel Cobra pedals, and Sabian AA/AAX cymbal setup behind the #1 Billboard 200 debut.",
+    "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's Far Beyond Driven. The Tama drum kit and Sabian AA/AAX cymbal setup behind the #1 Billboard 200 debut.",
     "ogImage": "/images/albums/far-beyond-driven-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EastWest Records / Elektra",
+    "producer": "Terry Date & Vinnie Paul"
   },
   "great-southern-trendkill-drum-setup": {
     "moduleFile": "vinnie-paul",
@@ -8789,7 +10175,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/great-southern-trendkill-drums.webp",
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EastWest Records America",
+    "producer": "Terry Date, Vinnie Paul, Dimebag Darrell"
   },
   "reinventing-the-steel-drum-setup": {
     "moduleFile": "vinnie-paul",
@@ -8807,11 +10195,13 @@ export const ALBUM_ARTICLES_META = {
     "year": 2000,
     "genre": "Groove Metal",
     "title": "Vinnie Paul's Drum Setup on Pantera's Reinventing the Steel (2000)",
-    "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and Pearl Eliminator P-3000E pedals behind the band's last record before their 2003 breakup.",
+    "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and double-kick pedal setup behind the band's last record before their 2003 breakup.",
     "ogImage": "/images/albums/reinventing-the-steel-drums.webp",
     "datePublished": "2026-07-01",
     "dateModified": "2026-07-01",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "EastWest Records America / Elektra",
+    "producer": "Vinnie Paul, Dimebag Darrell & Sterling Winfield"
   },
   "i-am-the-night-drum-setup": {
     "moduleFile": "vinnie-paul",
@@ -8833,7 +10223,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/i-am-the-night-drums.webp",
     "datePublished": "2026-07-06",
     "dateModified": "2026-07-06",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Magic Records",
+    "producer": "Jerry Abbott & Pantera"
   },
   "power-metal-drum-setup": {
     "moduleFile": "vinnie-paul",
@@ -8855,7 +10247,9 @@ export const ALBUM_ARTICLES_META = {
     "ogImage": "/images/albums/power-metal-drums.webp",
     "datePublished": "2026-07-06",
     "dateModified": "2026-07-06",
-    "isAlbumArticle": true
+    "isAlbumArticle": true,
+    "label": "Metal Magic Records",
+    "producer": "Jerry Abbott, Pantera & Marc Ferrari"
   }
 };
 

@@ -30,10 +30,17 @@ const OUT_FILE = path.join(ARTICLES_DIR, 'albumArticlesCatalog.js');
 // Only scalar/short fields — never the long-form body content (intro,
 // drumKit, cymbals, hardware, recordingTechniques, trackAnalysis, faq, etc.)
 // that makes the per-drummer modules heavy.
+//
+// articleType/articleSection/band/bands/country/label/producer (added for
+// issue #9106) are the fields TopListPage's album-article header needs to
+// pick the right badge layout — without them a catalog-only render would
+// mis-render non-album article types (drummer-kit/gear-guide/HowTo) as if
+// they were a plain album article.
 const LIGHT_FIELDS = [
   'slug', 'albumTitle', 'artist', 'drummer', 'drummerId', 'relatedDrummerSlug',
   'relatedDrummers', 'year', 'genre', 'title', 'description', 'ogImage',
   'datePublished', 'dateModified', 'isAlbumArticle',
+  'articleType', 'articleSection', 'band', 'bands', 'country', 'label', 'producer',
 ];
 
 const files = fs.readdirSync(ARTICLES_DIR)

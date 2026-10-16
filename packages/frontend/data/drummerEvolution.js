@@ -5841,23 +5841,23 @@ export const DRUMMER_EVOLUTION = {
         years: '2008–Present',
         startYear: 2008,
         endYear: 2026,
-        description: 'The controversial and then rehabilitative era. The Unspoken King (2008) divided Cryptopsy\'s fanbase, but the self-titled album (2012) and the Book of Suffering series (2015, 2018) re-established the band\'s brutal identity. Flo\'s setup has evolved into a refined, custom-optimized rig built around his specific physical needs and the demands of sustained technical performance over three decades.',
+        description: 'The controversial and then rehabilitative era. The Unspoken King (2008) divided Cryptopsy\'s fanbase, but the self-titled album (2012) and the Book of Suffering series (2015, 2018) re-established the band\'s brutal identity. Flo\'s setup shifted decisively in 2012, alongside the self-titled album, with a move to Tama Starclassic Maple — the kit and hardware he still plays today.',
         albums: ['The Unspoken King (2008)', 'Cryptopsy (2012)', 'Book of Suffering — Tome I (2015)', 'Book of Suffering — Tome II (2018)'],
         tours: ['Unspoken King Tour', 'North American death metal touring', 'European festival dates'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Pure / Custom configuration',
+            item: 'Tama Starclassic Maple',
             details: 'All-maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Evolved to an all-maple Reference Pure for a warmer, more resonant tone that suits the increased compositional complexity of the modern Cryptopsy material.',
-            change: CHANGE_TYPES.UPGRADE,
+            notes: 'Switched to Tama Starclassic Maple in 2012, alongside the self-titled Cryptopsy album — all-maple shells for a warmer, more resonant tone suited to the modern Cryptopsy material.',
+            change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Continued Free-Floating steel preference',
-            notes: 'Long-standing snare of choice — the Free-Floating design remains his go-to for attack and resonance.',
-            change: null,
+            item: 'Tama Starclassic Maple matching snare',
+            details: 'Switched along with the 2012 Tama kit move',
+            notes: 'Matching snare from the Tama Starclassic Maple kit, replacing the earlier Pearl Free-Floating steel snare.',
+            change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
             item: 'Sabian AAX / HHX Series',
@@ -5872,10 +5872,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vic Firth Flo Mounier Signature',
-            details: 'Custom hickory spec for extreme speed',
-            notes: 'Flo Mounier signature drumstick — custom weight and taper for his specific speed and control requirements.',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Vic Firth 5A American Classic',
+            details: 'Hickory 5A, consistent since 1992',
+            notes: 'Vic Firth 5A American Classic sticks — the same model Mounier has played since signing with Vic Firth in 1992, unaffected by the 2012 kit and hardware switch.',
+            change: null,
           },
           heads: {
             item: 'Evans EC Reverse Dot',
@@ -5898,7 +5898,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Signature Vic Firth Flo Mounier drumstick launched',
+          'Switched to a Tama Starclassic Maple kit in 2012, alongside the self-titled Cryptopsy album',
           'Tama Speed Cobra 910 direct drive double pedal adopted',
           'Sabian HHX hi-hats added for darker, modern tone',
           'Book of Suffering series re-establishes Cryptopsy\'s brutal identity',

@@ -15445,24 +15445,24 @@ export const DRUMMER_EVOLUTION = {
   },
 
   // ==========================================
-  // Jason Bittner - Shadows Fall / Overkill (1999-Present)
+  // Jason Bittner - Shadows Fall / Overkill (2001-Present)
   // ==========================================
   'jason-bittner': {
     slug: 'jason-bittner',
     name: 'Jason Bittner',
     band: 'Overkill / Shadows Fall',
-    totalYearsActive: '1999-Present',
+    totalYearsActive: '2001-Present',
     profileImage: '/images/drummers/jason-bittner.webp',
     summary: 'A Connecticut-born, Berklee-trained drummer whose career spans four major metal bands across three decades — from Shadows Fall\'s NWOAHM breakthrough, through a Flotsam and Jetsam interlude and session work (including Sanctuary\'s 2014 comeback), to becoming Overkill\'s full-time thrash engine. Jason Bittner has played a continuous Mapex/Zildjian rig since signing with both brands in 1997, the same setup that powered Shadows Fall\'s Grammy-nominated The War Within and has carried through his ongoing Overkill tenure.',
 
     eras: [
       {
-        id: 'jason-bittner-1999-early-shadows-fall',
+        id: 'jason-bittner-2001-early-shadows-fall',
         era: 'Early Shadows Fall Era',
-        years: '1999–2004',
-        startYear: 1999,
+        years: '2001–2004',
+        startYear: 2001,
         endYear: 2004,
-        description: 'Jason Bittner joined New England metalcore band Shadows Fall in 1999, helping develop the New Wave of American Heavy Metal (NWOAHM) sound — a fusion of metalcore groove and thrash-tempo double bass. He came into the band already endorsing Mapex drums and Zildjian cymbals, both signed in 1997, with the setup built out fully — including a 2002 Mapex Falcon double pedal endorsement — by the time of The Art of Balance (2002), the album that announced Shadows Fall as NWOAHM\'s technical benchmark.',
+        description: 'Jason Bittner joined New England metalcore band Shadows Fall in 2001, helping develop the New Wave of American Heavy Metal (NWOAHM) sound — a fusion of metalcore groove and thrash-tempo double bass. He came into the band already endorsing Mapex drums and Zildjian cymbals, both signed in 1997, with the setup built out fully — including a 2002 Mapex Falcon double pedal endorsement — by the time of The Art of Balance (2002), the album that announced Shadows Fall as NWOAHM\'s technical benchmark.',
         albums: ['Somber Eyes to the Sky (1997, session work)', 'The Art of Balance (2002)'],
         tours: ['New England Metal Fest appearances', 'The Art of Balance touring cycle'],
         image: null,
@@ -15513,7 +15513,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined Shadows Fall in 1999, helping pioneer the NWOAHM sound',
+          'Joined Shadows Fall in 2001, helping pioneer the NWOAHM sound',
           'Mapex and Zildjian endorsements already in place since 1997, predating Shadows Fall',
           'Mapex Falcon double pedal endorsement began in 2002',
           'The Art of Balance (2002) became NWOAHM\'s definitive technical benchmark',
@@ -15689,7 +15689,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           snare: {
-            item: 'Mapex Black Panther Sledgehammer 14"x6.5" Brass',
+            item: 'Mapex Black Panther 14"x6.5" Brass',
             details: 'Brass shell',
             notes: 'Steel-edged crack that cuts through Overkill\'s dense thrash riffing, carried over unchanged from his Shadows Fall years.',
             change: CHANGE_TYPES.UPGRADE,
@@ -15745,7 +15745,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What bands has Jason Bittner played in?',
-        a: 'Jason Bittner is best known for Shadows Fall (1999–2015), the NWOAHM pioneers he helped define with The Art of Balance (2002) and the Grammy-nominated The War Within (2004). During Shadows Fall\'s hiatus he joined Flotsam and Jetsam (2013–2017) and recorded session work for Sanctuary\'s 2014 comeback album The Year the Sun Died, before becoming Overkill\'s full-time drummer in 2017, replacing Ron Lipnicki.',
+        a: 'Jason Bittner is best known for Shadows Fall (2001–2015), the NWOAHM pioneers he helped define with The Art of Balance (2002) and the Grammy-nominated The War Within (2004). During Shadows Fall\'s hiatus he joined Flotsam and Jetsam (2013–2017) and recorded session work for Sanctuary\'s 2014 comeback album The Year the Sun Died, before becoming Overkill\'s full-time drummer in 2017, replacing Ron Lipnicki.',
       },
       {
         q: 'Who replaced Ron Lipnicki in Overkill?',
@@ -15753,7 +15753,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What gear does Jason Bittner use now?',
-        a: 'With Overkill, Jason Bittner plays a Mapex Saturn V all-maple kit centered on his Mapex Black Panther Sledgehammer 14"x6.5" brass snare, a Zildjian K & A Custom cymbal setup, a Mapex Falcon double pedal, and his own Promark Jason Bittner Signature 5BX sticks — the same Mapex/Zildjian rig he has endorsed since 1997, carried unchanged from his Shadows Fall years.',
+        a: 'With Overkill, Jason Bittner plays a Mapex Saturn V all-maple kit centered on his Mapex Black Panther 14"x6.5" Brass snare, a Zildjian K & A Custom cymbal setup, a Mapex Falcon double pedal, and his own Promark Jason Bittner Signature 5BX sticks — the same Mapex/Zildjian rig he has endorsed since 1997, carried unchanged from his Shadows Fall years.',
       },
       {
         q: 'How did Jason Bittner\'s playing evolve across his career?',

@@ -6387,7 +6387,7 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
     name: 'Jason Bittner',
     bands: [
       { slug: 'overkill', period: '2017-present', role: 'Drummer' },
-      { slug: 'shadows-fall', period: '1999-2015', role: 'Drummer' },
+      { slug: 'shadows-fall', period: '2001-2015', role: 'Drummer' },
       { slug: 'flotsam-and-jetsam', period: '2013-2017', role: 'Drummer' }
     ],
     metaTitle: 'Jason Bittner Drum Kit & Gear Setup — Overkill & Shadows Fall Drummer | MetalForge',
@@ -6403,7 +6403,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
       careerHighlights: {
         title: 'Career Highlights',
         items: [
-          { year: '1999', event: 'Joined Shadows Fall, New England metalcore band' },
+          { year: '2001', event: 'Joined Shadows Fall, New England metalcore band' },
           { year: '2002', event: 'Released "The Art of Balance" with Shadows Fall, commercial breakthrough' },
           { year: '2004', event: 'Released "The War Within," Grammy-nominated album' },
           { year: '2005', event: 'Headlined Ozzfest with Shadows Fall' },
@@ -6490,9 +6490,9 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
           { q: 'What cymbals does Jason Bittner play?', a: 'Jason Bittner plays Zildjian K and A Custom Series cymbals: 14" K Hi-Hats, 18" and 19" A Custom Crashes, a 21" K Custom Ride, and an 18" K China.' },
           { q: 'What snare does Jason Bittner use?', a: 'Jason Bittner\'s snare is a Mapex Black Panther 14"x6.5" Brass, delivering the steel-edged crack heard on The War Within (2004) and The Art of Balance (2002).' },
           { q: 'What sticks does Jason Bittner use?', a: 'Jason Bittner plays his own signature Promark Jason Bittner Signature 5BX drumsticks.' },
-          { q: 'What bass drum pedal does Jason Bittner use?', a: 'Jason Bittner drives his sustained double-kick passages with a Mapex Falcon double pedal, seated on a Mapex T865 throne.' },
+          { q: 'What bass drum pedal does Jason Bittner use?', a: 'Jason Bittner drives his sustained double-kick passages with a Mapex Falcon double pedal.' },
           { q: 'What drumheads does Jason Bittner use?', a: 'Jason Bittner uses Evans drumheads across his Mapex Saturn V kit.' },
-          { q: 'What band is Jason Bittner in?', a: 'Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (1999-2015) and Flotsam and Jetsam (2013-2017).' },
+          { q: 'What band is Jason Bittner in?', a: 'Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (2001-2015) and Flotsam and Jetsam (2013-2017).' },
           { q: 'What hi-hats does Jason Bittner use?', a: 'Jason Bittner plays 14" Zildjian K Hi-Hats, part of the K and A Custom cymbal setup he has used across Shadows Fall\'s The War Within and his ongoing tenure with Overkill.' }
         ]
       },

@@ -5003,9 +5003,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "Bittner adopted the Mapex Falcon double bass pedal for The Art of Balance (2002) sessions, giving him the control needed for the sustained double-kick passages that define Shadows Fall's thrash-metalcore hybrid sound.",
         vintageValue2026: 580,
         modernEquivalent: {
-          item: 'Mapex Falcon Double Pedal + T865 Throne (current)',
+          item: 'Mapex Falcon Double Pedal (current)',
           price: 650,
-          link: 'mapex-falcon-t865-throne',
+          link: 'mapex-falcon-double-pedal',
         },
       },
       sticks: {

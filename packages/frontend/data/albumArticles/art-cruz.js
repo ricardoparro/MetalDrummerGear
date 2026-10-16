@@ -410,7 +410,7 @@ export const articles = {
     "gearTimeline": [
       {
         "era": "Winds of Plague Era",
-        "years": "2008-2012, 2015-2021",
+        "years": "2010-2012",
         "albums": [
           "The Great Stone War",
           "Against the World",
@@ -426,7 +426,7 @@ export const articles = {
       },
       {
         "era": "Prong Era",
-        "years": "2012-2018",
+        "years": "2012-2019",
         "albums": [
           "Songs from the Black Hole",
           "X – No Absolutes",

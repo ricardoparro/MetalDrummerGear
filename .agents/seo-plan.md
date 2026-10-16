@@ -12896,3 +12896,46 @@ Prior run (01:2x UTC) left 3 deferred findings (Flo Mounier birthdate needing ex
 2. Continue #9157's remaining 20 candidates (abe-cunningham/alex-bent/igor-cavalera/matt-garstka/tomas-haake now done): arin-ilejay, aquiles-priester, daray, derek-roddy, eloy-casagrande, flo-mounier, jon-dette, martin-axenrot, matt-halpern, mike-portnoy, morgan-agren, nick-augusto, nicko-mcbrain, pete-sandoval, ray-luzier, raymond-herrera, scott-travis, shannon-larkin, travis-orbin — note 3 of these (arin-ilejay, nick-augusto, nicko-mcbrain) were flagged by #9157 itself as possibly legitimate stale-era gaps rather than fabrications, verify carefully before assuming the fabrication pattern applies.
 3. Content-gap: both rows (joey jordison drum set, john otto snare) re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-16 (run ~13:xx UTC) — llms/evolution sweep continued: 8 filed, #9184-9191
+
+### Audit summary
+- robots.txt (live curl): all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged. ✅
+- `public/llms/*.md` (top-level): 32 files; `public/llms/drummers/*.md`: 72 files — unchanged, no new-page work done (freeze in effect).
+- Bank check: 13 open `seo-proposal` at run start (well under the 45 floor) → filed up to 8.
+
+### Metrics readout
+- GSC 7d (13:04 UTC refresh): 12,432 impr / 183 clicks / 1.47% CTR / pos 7.9 — unchanged from the 07:xx run. Content-gap rows (`joey jordison drum set` 77/1.30%, `john otto snare` 102/0.98%) re-confirmed against standing rulings (known-oscillator / SERP-drop watch item) — no re-action.
+- GA4 7d: 445 users / 490 sessions / 705 views. Organic 341/490 (69.6%).
+- Not Monday (Friday) — drum-chair watch skipped, already logged this week.
+
+### Method — continued #9157's remaining-candidate list
+Picked up where the 07:08 UTC run left off. Of the 19 remaining #9157 candidates, selected the 10 flagged as clean fabrication candidates (skipped arin-ilejay/nick-augusto/nicko-mcbrain, which #9157 itself flagged as possibly-legitimate stale-era gaps needing different handling — not yet verified). Dispatched 10 parallel verification agents (aquiles-priester, daray, derek-roddy, eloy-casagrande, flo-mounier, jon-dette, martin-axenrot, matt-halpern, mike-portnoy, morgan-agren), each reading the `.md` file's final era against `endorsementNews.js`/`drummerEvolution.js`/`extendedBios.js` ground truth plus a dupe search. **All 10 came back confirmed FABRICATION** — the generic "Pearl/DW/Mapex + Zildjian/Meinl/Vic Firth" template pattern continues to hold with zero false positives in this batch. Filed the first 8 (aquiles-priester, daray, derek-roddy, eloy-casagrande, flo-mounier, jon-dette, martin-axenrot, matt-halpern) to land at the run cap.
+
+**Held back, already fully verified — ready to file next run without re-verification:**
+- **mike-portnoy**: `public/llms/evolution/mike-portnoy.md` lines 174-196, 219, 232-233 invents a "DW Collector's Series / DW Edge Maple / DW 9000 / Vic Firth" post-2011 "Winery Dogs" switch, plus Zildjian cymbals from era 1 onward. Verified ground truth: `endorsementNews.js:142-158,597-638` — continuous Tama drums, Sabian cymbals, Promark sticks, Remo heads since the 1980s, explicitly reaffirmed on his 2023 Dream Theater return ("same Tama setup"). `drummerEvolution.js:725-763` confirms Sabian (not Zildjian) from era 1. No real DW/Winery-Dogs gear switch exists anywhere on the site.
+- **morgan-agren**: `public/llms/evolution/morgan-agren.md` lines 49,51,63-64,104,123-138,164-169,182,185 fabricate a 1990 Sonor→DW and Paiste→Zildjian switch; final era claims "DW Collector's Series Custom" + "Zildjian K Custom/Constantinople/A Custom." Verified ground truth: `endorsementNews.js:2926-2934` — Sonor SQ2 Beech since 2012, Paiste Signature/2002 Series since 1988. `drummerEvolution.js` (lines 9753/9835) confirms Sonor/Paiste continuously, no DW/Zildjian era ever existed. Same pattern already fixed in 7+ other files for this drummer (#7984, #7218, #6942, #6507, #6575, #6195, #5785, #5326) — this `.md` was missed by all of them.
+
+### Proposals filed this run
+1. #9184 — Aquiles Priester: llms/evolution.md invents Trick Drums/Ufip/Vater (verified Mapex/Paiste/ProMark)
+2. #9185 — Daray: llms/evolution.md stale Pearl Reference Pure claim (verified Tama Starclassic Performer B/B since 2014)
+3. #9186 — Derek Roddy: llms/evolution.md invents DW/Vic Firth gear (verified Tama/Meinl/Vater/Evans)
+4. #9187 — Eloy Casagrande: llms/evolution.md invents Pearl/Meinl/Vic Firth gear (verified Tama/Paiste/Promark/Evans)
+5. #9188 — Flo Mounier: llms/evolution.md invents Pearl Reference Pure/Demon Drive (verified Tama/Sabian/Vic Firth/Evans since 2012)
+6. #9189 — Jon Dette: llms/evolution.md invents Tama Starclassic Bubinga switch (verified continuous Ludwig Classic Maple since 1996)
+7. #9190 — Martin Axenrot: llms/evolution.md invents Sonor/Pearl/Meinl/Vic Firth history (verified custom DW/Sabian/Pro-Mark/Evans since 2006)
+8. #9191 — Matt Halpern: llms/evolution.md invents continuous Mapex lineage (verified Pearl since 2015, Promark sticks, Evans heads)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9157 (tracking issue, intentionally left open — still has arin-ilejay/nick-augusto/nicko-mcbrain + 9 others unverified)
+- #9184-9191 (this run, 8 fresh)
+
+### Next run
+1. **File mike-portnoy and morgan-agren immediately** — both fully verified above, no re-verification needed, just write up and `gh issue create`.
+2. Remaining #9157 candidates still needing verification: arin-ilejay, nick-augusto, nicko-mcbrain (the 3 flagged as possibly-legitimate stale-era gaps, not confirmed fabrications — verify carefully, may need an additive-era-update framing instead of a fabrication-fix), pete-sandoval, ray-luzier, raymond-herrera, scott-travis, shannon-larkin, travis-orbin.
+3. Content-gap: both rows (joey jordison drum set, john otto snare) re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

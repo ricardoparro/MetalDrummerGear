@@ -2655,13 +2655,13 @@ const drummers = [
     band: 'Satyricon / 1349',
     bands: [
       { name: 'Satyricon', period: '1993–present', current: true },
-      { name: '1349', period: '1997–present', current: true }
+      { name: '1349', period: '2001–present', current: true }
     ],
     genre: 'Black Metal',
     country: 'Norway',
     image: '/images/drummers/frost.webp',
-    bio: 'Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and 1349 since 2001. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.',
-    kitOverview: 'Frost plays a Tama Starclassic Bubinga drum kit in Piano Black finish — a dense-shell platform selected for its focused, articulate attack at the extreme blast beat tempos that define Satyricon\'s Nordic black metal sound. As Satyricon\'s drummer since 1993 and a founding member of 1349 since 2001, Frost has built one of black metal\'s most distinctive drum sets around a Tama Starclassic Bubinga 14x5.5" snare that delivers the dry, cutting crack heard on albums like Nemesis Divina, Volcano, and Now, Diabolical.\n\nZildjian A Custom and K Series cymbals define the tonal character of the Frost drum kit: 14" A Custom Hi-Hats for fast, controlled hi-hat articulation during relentless blast beat passages; 16", 17", and 18" A Custom Crashes for explosive accents; a 22" K Custom Dark Ride for dark rhythmic definition; and an 18" K China for brutal black metal punctuation. Tama Iron Cobra Power Glide and Lever Glide hardware drives Frost\'s precise, powerful kick and hi-hat work. Vic Firth American Classic Extreme 5B sticks and Remo drumheads complete the Frost drum set — a configuration built for the sustained physical demands of Satyricon and 1349\'s uncompromising live performances.',
+    bio: 'Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and joined 1349 around 2000, becoming a full member by 2003. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.',
+    kitOverview: 'Frost plays a Tama Starclassic Bubinga drum kit in Piano Black finish — a dense-shell platform selected for its focused, articulate attack at the extreme blast beat tempos that define Satyricon\'s Nordic black metal sound. As Satyricon\'s drummer since 1993 and a member of 1349 since joining around 2000, Frost has built one of black metal\'s most distinctive drum sets around a Tama Starclassic Bubinga 14x5.5" snare that delivers the dry, cutting crack heard on albums like Nemesis Divina, Volcano, and Now, Diabolical.\n\nZildjian A Series cymbals define the tonal character of the Frost drum kit: 14" A Custom Hi-Hats for fast, controlled hi-hat articulation during relentless blast beat passages; 16", 17", and 18" A Custom Crashes for explosive accents; a 22" A Custom Ride for dark rhythmic definition; and an 18" A China for brutal black metal punctuation. Tama Iron Cobra Power Glide and Lever Glide hardware drives Frost\'s precise, powerful kick and hi-hat work. Vic Firth American Classic Extreme 5B sticks and Remo drumheads complete the Frost drum set — a configuration built for the sustained physical demands of Satyricon and 1349\'s uncompromising live performances.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Frost_(musician)',
       'https://www.discogs.com/artist/297893-Frost-6',
@@ -2670,7 +2670,7 @@ const drummers = [
     gear: {
       drums: 'Tama Starclassic Bubinga',
       snare: 'Tama Starclassic Bubinga 14x5.5"',
-      cymbals: 'Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)',
+      cymbals: 'Zildjian A Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" A Custom Ride, 18" A China)',
       hardware: 'Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand',
       sticks: 'Vic Firth American Classic Extreme 5B',
       heads: 'Remo',

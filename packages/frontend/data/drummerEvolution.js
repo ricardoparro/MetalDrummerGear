@@ -9941,7 +9941,7 @@ export const DRUMMER_EVOLUTION = {
         years: '1999-2006',
         startYear: 1999,
         endYear: 2006,
-        description: 'Satyricon\'s Rebel Extravaganza (1999) pushed black metal into industrial territory, and Frost\'s drumming grew more architectural — blast beats began carrying internal dynamic shape rather than functioning as pure texture. He co-founded 1349 in 2001 as a vehicle for unfiltered extremity, and Liberation (2003) and Hellfire (2005) showcased some of the fastest, most disciplined blast beat drumming the genre had produced. Trigger-augmented bass drum work entered his live setup during this period to guarantee consistent attack at extreme tempos.',
+        description: 'Satyricon\'s Rebel Extravaganza (1999) pushed black metal into industrial territory, and Frost\'s drumming grew more architectural — blast beats began carrying internal dynamic shape rather than functioning as pure texture. He joined 1349 around 2000 as a vehicle for unfiltered extremity, becoming a full member by Liberation (2003), and Liberation and Hellfire (2005) showcased some of the fastest, most disciplined blast beat drumming the genre had produced. Trigger-augmented bass drum work entered his live setup during this period to guarantee consistent attack at extreme tempos.',
         albums: ['Rebel Extravaganza (1999)', '1349: Liberation (2003)', '1349: Hellfire (2005)'],
         tours: ['Rebel Extravaganza Tour 1999-2000', '1349 Hellfire Tour 2005-2006'],
         image: null,
@@ -10154,7 +10154,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'Who is Frost from Satyricon?',
-        a: 'Frost (born Kjetil-Vidar Haraldstad, June 28, 1973, in Hammerfest, Norway) is a Norwegian drummer who has played for Satyricon since 1993 and co-founded 1349 in 2001. He is widely regarded as one of black metal\'s most technically disciplined and influential drummers, known for his blistering blast beats and metronomic precision.',
+        a: 'Frost (born Kjetil-Vidar Haraldstad, June 28, 1973, in Øyer, Norway) is a Norwegian drummer who has played for Satyricon since 1993 and joined 1349 as a drummer around 2000, becoming a full member by 2003. He is widely regarded as one of black metal\'s most technically disciplined and influential drummers, known for his blistering blast beats and metronomic precision.',
       },
       {
         q: 'How has Frost\'s drumming style evolved across Satyricon albums?',
@@ -10162,11 +10162,11 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit does Frost play?',
-        a: 'Frost plays a Tama Starclassic Bubinga kit — his setup since 2013 — paired with a matching Starclassic Bubinga snare, Zildjian A Custom and K Custom Dark cymbals, and a Tama Iron Cobra Power Glide pedal with Iron Cobra Lever Glide hi-hat stand. Earlier in his career, from 1996 through 2013, he played a Pearl Export kit with Paiste 2002 cymbals.',
+        a: 'Frost plays a Tama Starclassic Bubinga kit — his setup since 2013 — paired with a matching Starclassic Bubinga snare, Zildjian A Series cymbals, and a Tama Iron Cobra Power Glide pedal with Iron Cobra Lever Glide hi-hat stand. Earlier in his career, from 1996 through 2013, he played a Pearl Export kit with Paiste 2002 cymbals.',
       },
       {
         q: 'What is the difference between Frost\'s playing in Satyricon and 1349?',
-        a: 'In Satyricon, Frost\'s drumming has grown increasingly song-serving and atmospheric, especially from Now, Diabolical (2006) onward. In 1349, founded in 2001 as a pure extremity outlet, he plays with uncompromising blast beat speed and intensity, as showcased on Hellfire (2005) and The Infernal Pathway (2019). Balancing both styles across decades demonstrates his exceptional range.',
+        a: 'In Satyricon, Frost\'s drumming has grown increasingly song-serving and atmospheric, especially from Now, Diabolical (2006) onward. In 1349, which he joined as a pure extremity outlet around 2000, he plays with uncompromising blast beat speed and intensity, as showcased on Hellfire (2005) and The Infernal Pathway (2019). Balancing both styles across decades demonstrates his exceptional range.',
       },
     ],
 

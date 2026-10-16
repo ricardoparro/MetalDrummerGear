@@ -10,7 +10,7 @@ last_updated: "2026-07-04"
 
 # Daray Drum Kit Evolution — Complete Timeline
 
-Dariusz "Daray" Brzozowski stepped in for an injured Krzysztof "Doc" Raczkowski in Vader in 2004, then crossed straight from his final Vader show into Dimmu Borgir's audition room in August 2008, building the Pearl Reference Pure / Paiste RUDE rig that has carried the band's symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising."
+Dariusz "Daray" Brzozowski stepped in for an injured Krzysztof "Doc" Raczkowski in Vader in 2004, then crossed straight from his final Vader show into Dimmu Borgir's audition room in August 2008, building the Pearl Reference Pure / Paiste RUDE rig behind "Abrahadabra" (2010) before switching to a Tama Starclassic Performer B/B kit by 2014, the rig that has carried the band's symphonic black metal through 2026's "Grand Serpent Rising."
 
 See also: [Daray drummer profile](/llms/drummers/daray.md) · [Daray gear history](/llms/gear-history/daray.md)
 
@@ -69,10 +69,10 @@ A: Just days after his final Vader show, Brzozowski auditioned for Dimmu Borgir 
 **Tours:** Dimmu Borgir World Tours (2018–present)
 
 **Q: What is Daray's most recent album with Dimmu Borgir?**
-A: Brzozowski recorded Dimmu Borgir's "Eonian" (2018) and, after an eight-year wait, the band's tenth studio album "Grand Serpent Rising" (2026), tracked in Gothenburg with longtime collaborator Fredrik Nordström and released on Nuclear Blast Records. His Pearl Reference Pure / Paiste RUDE rig has remained unchanged across both albums, continuing to anchor Dimmu Borgir's orchestral, theatrical brand of symphonic black metal.
+A: Brzozowski recorded Dimmu Borgir's "Eonian" (2018) and, after an eight-year wait, the band's tenth studio album "Grand Serpent Rising" (2026), tracked in Gothenburg with longtime collaborator Fredrik Nordström and released on Nuclear Blast Records. By his July 5, 2014 appearance at the TAMA 40th Anniversary Drum Festival he had switched to a Tama Starclassic Performer B/B (Piano Black) kit with a Tama S.L.P. Black Brass snare, confirmed on TAMA's official artist page — the rig documented across both albums. His Paiste RUDE cymbal setup continued unchanged.
 
-- **Drums:** Pearl Reference Pure *(unchanged)*
-- **Snare:** Pearl Reference Series Snare *(unchanged)*
+- **Drums:** Tama Starclassic Performer B/B, Piano Black — switched from Pearl by his July 5, 2014 TAMA 40th Anniversary Drum Festival appearance
+- **Snare:** Tama S.L.P. Black Brass (LBR1465), 14"x6.5" Black Brass shell
 - **Cymbals:** Paiste RUDE & 2002 Series *(unchanged)*
 - **Hardware:** Pearl Demon XR Double Pedal *(unchanged)*
 - **Sticks:** Vic Firth American Classic Extreme 5B *(unchanged)*
@@ -83,7 +83,8 @@ A: Brzozowski recorded Dimmu Borgir's "Eonian" (2018) and, after an eight-year w
 - Recorded Eonian (2018)
 - Recorded Grand Serpent Rising (2026), Dimmu Borgir's tenth studio album, after an eight-year gap
 - Grand Serpent Rising tracked in Gothenburg with producer Fredrik Nordström
-- Pearl Reference Pure / Paiste RUDE rig unchanged since the Abrahadabra era
+- Switched from Pearl to Tama (Starclassic Performer B/B, S.L.P. Black Brass snare) by his July 5, 2014 TAMA 40th Anniversary Drum Festival appearance
+- Paiste RUDE cymbal setup unchanged since the Abrahadabra era
 
 ---
 
@@ -99,7 +100,8 @@ A: Brzozowski recorded Dimmu Borgir's "Eonian" (2018) and, after an eight-year w
 
 ## Gear Brand Partnerships Timeline
 
-- **Pearl Reference Pure (drums)** — 2008–present (since joining Dimmu Borgir)
+- **Pearl Reference Pure (drums)** — 2008–2014 (Abrahadabra era, replaced by Tama)
+- **Tama Starclassic Performer B/B, Piano Black (drums)** — 2014–present (since his July 5, 2014 TAMA 40th Anniversary Drum Festival appearance)
 - **Paiste RUDE & 2002 Series (cymbals)** — 2008–present
 - **Vic Firth American Classic Extreme 5B (sticks)** — 2008–present
 - **Pearl Demon XR Double Pedal (hardware)** — 2008–present
@@ -109,7 +111,7 @@ A: Brzozowski recorded Dimmu Borgir's "Eonian" (2018) and, after an eight-year w
 ## FAQ
 
 **Q: What drum kit does Daray play?**
-A: Daray plays a Pearl Reference Pure kit (custom black finish, double 22" kick) with a Pearl Reference Series snare, Paiste RUDE & 2002 Series cymbals, and a Pearl Demon XR double pedal — a rig established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026).
+A: Daray played a Pearl Reference Pure kit (custom black finish, double 22" kick) with a Pearl Reference Series snare during Dimmu Borgir's Abrahadabra era (2010), before switching to a Tama Starclassic Performer B/B (Piano Black) kit with a Tama S.L.P. Black Brass snare by his July 5, 2014 TAMA 40th Anniversary Drum Festival appearance — the Tama rig documented through Eonian (2018) and Grand Serpent Rising (2026). His Paiste RUDE & 2002 Series cymbals and Pearl Demon XR double pedal have remained constant.
 
 **Q: Was Daray in Vader before Dimmu Borgir?**
 A: Yes — Daray drummed for Vader from 2004 (permanent from March 2005) through August 2008, recording Impressions in Blood (2006) and the XXV compilation (2008) before crossing straight into Dimmu Borgir's audition room.

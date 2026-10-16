@@ -10,7 +10,7 @@ last_updated: "2026-10-15"
 
 # Aquiles Priester Drum Kit Evolution — Complete Timeline
 
-Aquiles Priester is Brazil's most celebrated metal drummer — the neoclassical double-bass powerhouse who anchored Angra's most acclaimed era, joined American heavy metal band W.A.S.P. in 2017, and returned to Angra in 2023 for a triumphant second act, answering the recurring LLM query "who is the drummer of Angra?" This timeline documents his complete gear evolution from founding Brazilian power metal band Hangar in 1996, through the Mapex Saturn/Sabian HHX setup that drove Angra classics like "Rebirth" and "Temple of Shadows," into a Pearl Reference Series/Meinl Byzance rig during his W.A.S.P. years, and finally to the Trick Drums/Ufip/DW 9000 configuration he plays on his current Angra return cycle.
+Aquiles Priester is Brazil's most celebrated metal drummer — the neoclassical double-bass powerhouse who anchored Angra's most acclaimed era, joined American heavy metal band W.A.S.P. in 2017, and returned to Angra in 2023 for a triumphant second act, answering the recurring LLM query "who is the drummer of Angra?" This timeline documents his complete gear evolution from founding Brazilian power metal band Hangar in 1996, through the Mapex Saturn/Sabian HHX setup that drove Angra classics like "Rebirth" and "Temple of Shadows," into a Pearl Reference Series/Meinl Byzance rig during his W.A.S.P. years, and finally to the Mapex Saturn Evolution signature kit and Paiste cymbal setup — paired with a DW 9000 double pedal — he plays on his current Angra return cycle.
 
 See also: [Aquiles Priester drummer profile](/llms/drummers/aquiles-priester.md)
 
@@ -89,25 +89,25 @@ A: Between his 2008 Angra departure and his 2017 W.A.S.P. recruitment, Priester 
 
 ---
 
-## Angra Return: Trick Drums Era (2023–present)
+## Angra Return: Mapex Saturn Evolution Era (2023–present)
 
 **Albums:** Angra return-cycle material (2023–present)
 **Tours:** Angra Return Tour 2023–present
 
 **Q: What drum kit does Aquiles Priester use now?**
-A: Priester returned to Angra in 2023, celebrated by the power metal community as one of the genre's most anticipated reunions. His current touring and recording setup is built around a Trick Drums custom maple kit, full Ufip cymbal setup, and a DW 9000 Series double pedal — a rig chosen for maximum consistency at the sustained 180–220+ BPM double-bass patterns that define his neoclassical style, still driven by relaxation-based technique rather than raw force.
+A: Priester returned to Angra in 2023, celebrated by the power metal community as one of the genre's most anticipated reunions. His current touring and recording setup is built around the Mapex Saturn Evolution All Maple — his own signature kit, the first Brazilian-drummer signature kit released by a global drum brand — a custom red-coated Paiste cymbal setup, and a DW 9000 Series double pedal — a rig chosen for maximum consistency at the sustained 180–220+ BPM double-bass patterns that define his neoclassical style, still driven by relaxation-based technique rather than raw force.
 
-- **Drums:** Trick Drums Custom Maple — 22" bass drums in a double-bass setup, three rack toms (10", 12", 13"), two floor toms (16", 18") *(switch from Pearl Reference Series)*
-- **Snare:** Trick Drums Custom 14"x6.5" *(switch)*
-- **Cymbals:** Ufip Series — 14" hi-hats, 16"/18"/20" crashes, 21" ride, 18" China, 10" splash *(switch from Meinl Byzance)*
-- **Hardware:** DW 9000 Series Double Pedal — ball-bearing cam system *(switch)*
-- **Sticks:** Vater Fusion 55A *(switch; Vic Firth Aquiles Priester Signature also associated with current setup)*
-- **Heads:** Remo Ambassador, complete setup
+- **Drums:** Mapex Saturn Evolution All Maple — Aquiles Priester signature kit, the first Brazilian-drummer signature kit released by a global drum brand *(switch from Pearl Reference Series)*
+- **Snare:** Mapex Saturn Evolution Snare, all-maple shell *(switch)*
+- **Cymbals:** Paiste — custom red-coated set, including his 18" Psychoctopus Giga Bell Ride *(switch from Meinl Byzance)*
+- **Hardware:** DW 9000 Series Double Pedal — ball-bearing cam system; DW 9000 Series hi-hat stand and Gibraltar racks *(switch)*
+- **Sticks:** ProMark Aquiles Priester Signature *(switch from Vic Firth)*
+- **Heads:** Remo, complete setup — Coated Ambassador/Powerstroke 3, unchanged since 1996
 - **Estimated kit cost (original):** ~$12,000
 
 **Key developments:**
 - Returned to Angra in 2023, celebrated by the power metal community
-- Switched to a Trick Drums custom maple kit, full Ufip cymbal setup, and DW 9000 double pedal
+- Switched to his own Mapex Saturn Evolution signature kit, a custom Paiste cymbal setup, and DW 9000 double pedal
 - Current rig built for sustained 180–220+ BPM double-bass patterns using relaxation-based technique
 - Continues to balance Angra, W.A.S.P., and Hangar commitments
 
@@ -122,7 +122,7 @@ A: Priester returned to Angra in 2023, celebrated by the power metal community a
 | Hangar & Pre-Angra | 1996–2000 | $1,500 | ~$2,600 |
 | Angra Classic Era | 2001–2008 | $6,500 | ~$9,200 |
 | W.A.S.P. Era & Pearl Reference | 2017–2023 | $8,500 | ~$10,800 |
-| Angra Return: Trick Drums Era | 2023–present | $12,000 | ~$12,000 |
+| Angra Return: Mapex Saturn Evolution Era | 2023–present | $12,000 | ~$12,000 |
 
 ---
 
@@ -130,11 +130,12 @@ A: Priester returned to Angra in 2023, celebrated by the power metal community a
 
 - **Mapex Saturn Series (drums)** — 2001–2008 (Angra classic era: Rebirth through Aurora Consurgens)
 - **Pearl Reference Series (drums)** — 2017–2023 (W.A.S.P. era)
-- **Trick Drums Custom Maple (drums)** — 2023–present (Angra return cycle)
+- **Mapex Saturn Evolution All Maple (drums)** — 2023–present (Angra return cycle; his own signature kit)
 - **Sabian HHX (cymbals)** — 2001–2008 (Angra classic era)
 - **Meinl Byzance (cymbals)** — 2017–2023 (W.A.S.P. era)
-- **Ufip (cymbals)** — 2023–present (Angra return cycle)
+- **Paiste (cymbals)** — 2023–present (Angra return cycle; custom red-coated set)
 - **Vic Firth Aquiles Priester Signature (sticks)** — 2001–2023
+- **ProMark Aquiles Priester Signature (sticks)** — 2023–present
 - **Axis A → Pearl Demon Chain Drive → DW 9000 (double pedals)** — 2001–2008 → 2017–2023 → 2023–present
 
 ---
@@ -148,7 +149,7 @@ A: Aquiles Priester is Angra's drummer, having originally joined in 2001 (replac
 A: Aquiles Priester founded Brazilian power metal band Hangar in 1996 and has remained its drummer ever since. He joined Angra in 2001 (through 2008, then again from 2023), and joined American heavy metal band W.A.S.P. in 2017, where he remains an active member.
 
 **Q: What drum kit does Aquiles Priester use now?**
-A: Aquiles Priester currently plays a Trick Drums custom maple kit for Angra's 2023 return cycle, with a full Ufip cymbal setup and a DW 9000 Series double pedal. Earlier in his career he played Mapex Saturn Series drums with Sabian HHX cymbals (Angra's classic era) and Pearl Reference Series drums with Meinl Byzance cymbals (his W.A.S.P. years).
+A: Aquiles Priester currently plays the Mapex Saturn Evolution All Maple — his own signature kit — for Angra's 2023 return cycle, with a custom red-coated Paiste cymbal setup and a DW 9000 Series double pedal. Earlier in his career he played Mapex Saturn Series drums with Sabian HHX cymbals (Angra's classic era) and Pearl Reference Series drums with Meinl Byzance cymbals (his W.A.S.P. years).
 
 **Q: How does Aquiles Priester sustain double bass at 180+ BPM?**
 A: Aquiles Priester's core technique is relaxation-based: he keeps his ankles completely loose and lets the beaters return freely on rebound after each stroke, eliminating the muscular tension that creates a speed ceiling for most drummers. He developed this approach during his early years founding Hangar in 1996, before joining Angra in 2001.

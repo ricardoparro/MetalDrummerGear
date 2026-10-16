@@ -11,7 +11,7 @@
 
 Ben Koller's drum setup is the visceral core of one of the most influential bands in modern hardcore. As Converge's drummer since 1999, Koller has spent over two decades refining a setup that can deliver the controlled chaos of "Jane Doe," the grinding intensity of "Axe to Fall," and the experimental heaviness of "Bloodmoon: I" — all while maintaining the raw energy that defines Converge's relentless live show.
 
-Born March 12, 1978, Koller joined Converge at age 20, replacing original drummer Damon Bellorado. What followed was an unbroken run of genre-defining records that established him as one of the most important drummers in heavy music. His work has influenced a generation of hardcore, metalcore, and extreme metal drummers who studied his approach to controlled aggression, creative cymbal work, and the ability to make chaos feel intentional.
+Born July 29, 1980, Koller joined Converge at age 20, replacing original drummer Damon Bellorado. What followed was an unbroken run of genre-defining records that established him as one of the most important drummers in heavy music. His work has influenced a generation of hardcore, metalcore, and extreme metal drummers who studied his approach to controlled aggression, creative cymbal work, and the ability to make chaos feel intentional.
 
 Koller's current setup centers on a Tama Starclassic Maple kit paired with Zildjian K Dark Series cymbals — a combination chosen for durability, cutting power in dense live mixes, and the response needed to execute his blend of blast beats, intricate fills, and full-kit chaos across Converge's demanding touring schedule. This article breaks down every piece of Ben Koller's drum setup and examines how each choice serves Converge's sound.
 
@@ -140,4 +140,4 @@ A: Ben Koller's current Converge drum setup is built around a Tama Starclassic M
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-16 · Source: [MetalForge.io](https://metalforge.io)*

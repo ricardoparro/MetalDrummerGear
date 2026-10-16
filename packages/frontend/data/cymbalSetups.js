@@ -398,12 +398,12 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'ben-koller',
-    summary: 'Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)',
+    summary: 'Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)',
     brands: ['Zildjian'],
     pieces: [
-      { type: 'hi-hat', sizeIn: 14, series: 'K Dark', model: 'Thin Hi-Hats' },
-      { type: 'crash', sizeIn: 18, series: 'K Dark', model: 'Medium Thin Crash' },
-      { type: 'crash', sizeIn: 19, series: 'K Dark', model: 'Medium Thin Crash' },
+      { type: 'hi-hat', sizeIn: 14, series: 'K Custom', model: 'Thin Hi-Hats' },
+      { type: 'crash', sizeIn: 18, series: 'K Custom', model: 'Medium Thin Crash' },
+      { type: 'crash', sizeIn: 19, series: 'K Custom', model: 'Medium Thin Crash' },
       { type: 'ride', sizeIn: 21, series: 'K Custom', model: 'Ride' },
       { type: 'china', sizeIn: 18, series: 'K', model: 'China' },
     ],

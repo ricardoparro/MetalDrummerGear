@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-16 08:21 UTC · Window: last 12h*
+*Generated 2026-10-16 19:12 UTC · Window: last 12h*
 
 ---
 
@@ -8,27 +8,27 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 13 |
+| Open `ai-fix` issues | **28** |
+| Open `seo-proposal` issues | 21 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **14** |
-| Issues closed in window | 14 |
-| Commits to `main` in window | 18 |
+| Open PRs | 2 |
+| PRs merged in window | **15** |
+| Issues closed in window | 15 |
+| Commits to `main` in window | 21 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
 | Active users | **445** |
-| Sessions | 488 |
-| Page views | 693 |
-| Engagement rate | 52.87% |
-| GSC impressions | 12,432 |
-| GSC clicks | 183 |
-| GSC CTR | 1.47% |
-| GSC avg position | 7.9 |
+| Sessions | 490 |
+| Page views | 705 |
+| Engagement rate | 63.27% |
+| GSC impressions | 15,645 |
+| GSC clicks | 233 |
+| GSC CTR | 1.49% |
+| GSC avg position | 8.0 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~2,970 |
-| Est. ad revenue / mo | **~€8.91** |
+| Est. pageviews / mo | ~3,021 |
+| Est. ad revenue / mo | **~€9.06** |
 | Progress to €1000/mo | 0.9% |
-| Pageviews/mo needed for €1000 | ~333,333 (112× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (110× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -72,34 +72,42 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 24 | 24 | 0 |
-| Check Sitemap Drift | 14 | 0 | 14 |
-| Verify YouTube Videos | 14 | 8 | 6 |
-| Verify Data Modules | 13 | 7 | 6 |
-| .github/workflows/check-vercel-rewrites.yml | 9 | 0 | 9 |
-| Check llms freshness | 7 | 0 | 7 |
-| Perf Budget Gate | 7 | 0 | 7 |
-| Verify API Modules | 4 | 2 | 2 |
-| Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
-| Loop Watchdog | 1 | 1 | 0 |
-| SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
-| CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| PR Merger | 49 | 49 | 0 |
+| .github/workflows/check-vercel-rewrites.yml | 10 | 0 | 10 |
+| Verify YouTube Videos | 6 | 3 | 3 |
+| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
+| Verify Data Modules | 5 | 2 | 3 |
+| Health Check | 4 | 4 | 0 |
+| Check Sitemap Drift | 4 | 0 | 4 |
+| Check llms freshness | 4 | 0 | 4 |
+| Daily Digest | 2 | 1 | 0 |
+| Loop Watchdog | 2 | 2 | 0 |
+| SEO Agent | 2 | 2 | 0 |
+| CEO Agent | 2 | 2 | 0 |
+| Perf Budget Gate | 2 | 0 | 2 |
+| Roadie Night Fleet | 1 | 0 | 0 |
+| X Agent | 1 | 1 | 0 |
+| Validate URLs | 1 | 0 | 1 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-10-16 12:17 (deep run — 8/8 proposals verified+promoted, #9169-9176)
 - 2026-10-16 06:19 (cheap pulse — 7/8 proposals verified+promoted, #9153-9156/9158-9160; #9157 held)
 - 2026-10-16 00:27 (cheap pulse — 7/7 proposals verified+promoted, #9142-9148)
 - 2026-10-15 18:14 (mid-day pulse — 6/6 proposals verified+promoted, #9123-9128)
 - 2026-10-15 12:17 (cheap pulse — 8/8 proposals verified+promoted, #9107-9114; +1 self-filed from verification spillover, 
 - 2026-10-15 06:19 (cheap pulse — 5/5 proposals verified+promoted, #9099-9103)
-- 2026-10-15 00:34 (evening-review catch-up for 10-14 — reverted a shipped data regression, #9097/#9098 filed)
 
-## 📦 Shipped to main (14)
+## 📦 Shipped to main (15)
 
+- #9199 fix: #9176 SEO batch: Blake Richardson �� drummerEvolution.js fabricates 5B stick upgrade + wrongly frames him as a founding/pre-2005 BTBAM member
+- #9198 fix: #9175 SEO: Tomas Haake llms/evolution.md invents entire false Pearl-to-DW gear narrative (verified: Sonor/Sabian/Wincent/Remo/Tama throughout)
+- #9197 fix: #9174 SEO: Matt Garstka llms/evolution.md falsely claims gear 'unchanged since 2014', hiding real 2021 DW/Tama switch (verified: DW + Tama since 2021)
+- #9196 fix: #9173 SEO: Igor Cavalera llms/evolution.md skips real Yamaha era, invents Pearl/Evans gear (verified: Yamaha + Tama hardware since 2018)
+- #9195 fix: #9172 SEO: Alex Bent llms/evolution.md invents Pearl drums + Meinl cymbals (verified: Tama Starclassic + Zildjian K Custom Hybrid)
+- #9194 fix: #9171 SEO: Abe Cunningham llms/evolution.md invents Pearl/Zildjian/Vater gear history (verified: Tama/Zildjian-Sabian/Pro-Mark/Remo)
+- #9193 fix: #9170 SEO: Flo Mounier — packages/backend/src/index.js fabricates Pearl drums/Vater sticks (verified: Tama Starclassic Maple + Vic Firth 5A)
+- #9192 fix: #9169 SEO batch: Flo Mounier birthdate/birthplace — both internal values wrong (May 6 vs Feb 4, 1974), verified June 29, 1974 in Tours, France
 - #9181 fix: #9158 SEO: Charlie Benante wrongly called an Anthrax 'founding member' (verified: joined September 1983, band formed 1981)
 - #9183 fix: #9160 SEO batch: Matt Greiner — extendedBios.js self-contradicts own 2003 founding claim with '2005-present'/'since 2005', + wrong birthdate (May 2) not fixed in 2 files despite closed #8536
 - #9182 fix: #9159 SEO: Paul Mazurkiewicz / Cannibal Corpse album count wrong — 'seventeen'/'15+' studio albums, verified count is sixteen
@@ -107,23 +115,16 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - #9179 fix: #9155 SEO: Hellhammer llms/evolution.md invents Pearl/Zildjian gear history (verified: Sonor/Paiste/Vic Firth/Remo/Axis)
 - #9178 fix: #9154 SEO batch: Mikkey Dee — llms/evolution.md invents Pearl/Zildjian/DW gear history (verified: Sonor/Paiste/Wincent/DW) + drummerEvolution.js King Diamond era wrong (1988→1985, missing Fatal Portrait/Abigail)
 - #9177 fix: #9153 SEO: Joey Jordison llms/evolution.md final era fabricates SJC Custom Drums + Ahead sticks (verified: Pearl Reference + Promark signature)
-- #9167 fix: #9147 SEO batch: Frost — birthplace fabrication + Zildjian K Custom Dark/K China leftovers (9 locations, 3 files) + 1349 founding-year misframing
-- #9166 fix: #9148 SEO batch: Daniel Erlandsson — fabricated co-founder 'brother Michael Erlandsson', stale gear FAQ block (9 locations), fabricated Brujeria membership, wrong 2005 join-year framing
-- #9165 fix: #9146 SEO batch: Ben Koller — birthdate fabrication + Converge join-year self-contradiction + 3 files not synced to #9046's Performer B/B correction
-- #9164 fix: #9145 SEO batch: Jason Bittner — revert bad #9031/PR#9051 fix (2001 correct, not 1999) + T865 throne cross-contamination + Sledgehammer snare fabrication
-- #9163 fix: #9144 SEO batch: Art Cruz — Ludwig Classic Maple fabrication (24 locations) + wrong Winds of Plague/Prong tenure years (3 files)
-- #9162 fix: #9142 SEO: Chris Turner's birthdate fabricated as October 4, 1993 (verified February 4, 1992)
-- #9161 fix: #9143 SEO: Hannes Grossmann's Alkaloid co-founding year self-contradicts in gearPriceHistory.js (2013 vs verified 2014)
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 1873h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 1969h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2146h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3231h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5661h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 1884h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 1980h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2157h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3242h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5672h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

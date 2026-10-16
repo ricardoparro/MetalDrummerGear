@@ -1276,7 +1276,7 @@ export const articles = {
       },
       {
         "question": "What was the first Anthrax album with Charlie Benante?",
-        "answer": "Charlie Benante has been a founding member of Anthrax since 1983 and played on every studio album. Fistful of Metal (1984) was his first recording, but Spreading the Disease (1985) is the first Anthrax album with the classic lineup featuring Joey Belladonna on vocals. It is widely considered the debut of the definitive Anthrax sound and is where Benante's technical innovations — double-bass patterns, blast beats, compositional fills — were first documented in their fully realised form."
+        "answer": "Charlie Benante has been Anthrax's drummer since joining in September 1983 and played on every studio album. Fistful of Metal (1984) was his first recording, but Spreading the Disease (1985) is the first Anthrax album with the classic lineup featuring Joey Belladonna on vocals. It is widely considered the debut of the definitive Anthrax sound and is where Benante's technical innovations — double-bass patterns, blast beats, compositional fills — were first documented in their fully realised form."
       },
       {
         "question": "What cymbals did Charlie Benante use on Spreading the Disease?",

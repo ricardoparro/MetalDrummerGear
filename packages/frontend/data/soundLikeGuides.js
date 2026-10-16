@@ -7273,7 +7273,7 @@ This guide breaks down the technique, gear, and practice approach behind Erlands
       },
       {
         question: "Is Adrian Erlandsson related to Daniel Erlandsson?",
-        answer: "Yes — Adrian and Daniel Erlandsson are brothers, both prominent drummers from the same Gothenburg, Sweden melodic death metal scene. Adrian plays with At the Gates (and previously The Haunted and Cradle of Filth), while Daniel has been Arch Enemy's drummer since 2005. The two brothers independently shaped Gothenburg's rhythmic vocabulary from different angles — Adrian's D-beat foundation, Daniel's blast-beat precision."
+        answer: "Yes — Adrian and Daniel Erlandsson are brothers, both prominent drummers from the same Gothenburg, Sweden melodic death metal scene. Adrian plays with At the Gates (and previously The Haunted and Cradle of Filth), while Daniel has been Arch Enemy's founding drummer since 1995. The two brothers independently shaped Gothenburg's rhythmic vocabulary from different angles — Adrian's D-beat foundation, Daniel's blast-beat precision."
       }
     ],
     related: {

@@ -72,21 +72,21 @@ Cryptopsy's most prolific creative period and Flo Mounier's technical apex. With
 **Albums:** The Unspoken King (2008), Cryptopsy (2012), Book of Suffering — Tome I (2015), Book of Suffering — Tome II (2018)
 **Tours:** Unspoken King Tour; North American death metal touring; European festival dates
 
-The controversial and then rehabilitative era. The Unspoken King (2008) divided Cryptopsy's fanbase with its deathcore elements, but the self-titled album (2012) and the Book of Suffering series (2015, 2018) re-established the band's brutal identity with renewed intensity. Flo's setup evolved into a custom-optimized rig reflecting 30 years of refinement — most notably with the arrival of his Vic Firth signature sticks and a switch to the Demon Drive direct drive pedal.
+The controversial and then rehabilitative era. The Unspoken King (2008) divided Cryptopsy's fanbase with its deathcore elements, but the self-titled album (2012) and the Book of Suffering series (2015, 2018) re-established the band's brutal identity with renewed intensity. Flo's setup evolved into a custom-optimized rig reflecting decades of refinement — most notably with his 2012 switch to a Tama Starclassic Maple kit and Tama Speed Cobra 910 hardware.
 
-- **Drums:** Pearl Reference Pure / custom configuration (all-maple shells) — 22" kick, 8"/10"/12"/14"/16" toms *(upgrade — all-maple for warmer, more resonant modern tone)*
-- **Snare:** Pearl Free-Floating Steel 14"×6.5" *(continued — long-standing snare of choice across entire Pearl era)*
-- **Cymbals:** Sabian AAX / HHX Series — 14" HHX hi-hats, 17"/18" AAX crashes, 21" AAX ride, 18" China *(upgrade — HHX hi-hats for darker, more sophisticated modern sound)*
-- **Hardware:** Pearl Demon Drive Double Pedal *(switch — direct drive for maximum precision at extreme blast beat tempos)*
-- **Sticks:** Vic Firth Flo Mounier Signature *(signature — custom hickory spec for extreme speed and control)*
-- **Heads:** Remo Emperor on toms, Powerstroke 3 on kick *(continued — proven 30-year configuration)*
+- **Drums:** Tama Starclassic Maple — 22" kick, 8"/10"/12"/14"/16" toms *(switch — moved to Tama Starclassic Maple in 2012)*
+- **Snare:** Tama Starclassic Maple 14"×5.5" *(switch — matching maple snare for a sharp, penetrating crack through Cryptopsy's dense arrangements)*
+- **Cymbals:** Sabian AAX / HHX Series — 14" HHX Stage hi-hats, 17"/18" AAX X-Plosion crashes, 21" HHX Raw Bell Dry ride, 18" AAXtreme China *(continued — Sabian AAX/HHX endorsement since 2012)*
+- **Hardware:** Tama Speed Cobra 910 Twin Pedal *(switch — chain-drive double pedal engineered for the fast rebound his gravity blast technique demands)*
+- **Sticks:** Vic Firth 5A American Classic *(continued — standard sticks since 1992)*
+- **Heads:** Evans EC Reverse Dot *(switch — Evans heads across the Tama Starclassic Maple kit since 2012)*
 - **Electronics:** Triggers on kick drums *(new — ensures bass drum patterns cut through at live volumes)*
 - **Estimated kit cost (original):** ~$16,000
 
 **Key developments:**
-- Vic Firth Flo Mounier signature sticks launched — custom weight and taper for extreme speed requirements
-- Pearl Demon Drive direct drive pedal adopted for maximum control precision
-- Sabian HHX hi-hats added for darker, more sophisticated modern tone
+- Switched to a Tama Starclassic Maple kit and Tama Speed Cobra 910 Twin Pedal in 2012
+- Sabian AAX/HHX cymbal setup continues, refined with HHX Stage hi-hats and a HHX Raw Bell Dry ride
+- Evans EC Reverse Dot heads adopted across the Tama kit in 2012
 - Book of Suffering series (2015, 2018) re-establishes Cryptopsy's brutal death metal credentials
 - Kick drum triggers integrated for consistent live bass drum impact
 
@@ -107,14 +107,15 @@ The controversial and then rehabilitative era. The Unspoken King (2008) divided 
 ## Gear Brand Partnerships Timeline
 
 - **Tama Starclassic Performer** — 1992–1998 (birch/bubinga, None So Vile era)
-- **Pearl Reference / Reference Pure** — 1998–present (professional endorsement, Whisper Supremacy to present)
+- **Pearl Reference / Reference Pure** — 1998–2012 (professional endorsement, Whisper Supremacy to Self-Titled era)
+- **Tama Starclassic Maple** — 2012–present (current kit, adopted alongside the move to Sabian AAX/HHX)
 - **Sabian AA** — 1992–late 1990s (early career cymbal)
 - **Sabian AAX** — late 1990s–2008 (Whisper Supremacy / And Then You'll Beg era)
-- **Sabian HHX** — 2008–present (modern era hi-hat upgrade)
+- **Sabian AAX / HHX** — 2012–present (current cymbal setup)
 - **Tama Iron Cobra** — 1992–1998 (Tama era double pedal)
-- **Pearl Eliminator / Demon Drive** — 1998–present (Pearl era pedals; Demon Drive current)
-- **Vic Firth 5B** — 1992–~2008 (pre-signature era)
-- **Vic Firth Flo Mounier Signature** — ~2008–present (custom extreme-speed model)
+- **Pearl Eliminator / Demon Drive** — 1998–2012 (Pearl era pedals)
+- **Tama Speed Cobra 910 Twin Pedal** — 2012–present (current double pedal)
+- **Vic Firth 5A American Classic** — 1992–present (standard sticks since co-founding Cryptopsy)
 
 ---
 
@@ -124,13 +125,13 @@ The controversial and then rehabilitative era. The Unspoken King (2008) divided 
 A: Flo Mounier recorded None So Vile (1996) — widely considered the greatest technical death metal album — with a Tama Starclassic Performer kit featuring birch/bubinga hybrid shells. The snare was a Tama Steel 14"×5.5", and cymbals were Sabian AA/HH series. The Iron Cobra double pedal provided the extreme double bass speeds essential to the album's relentless attack.
 
 **Q: What drum kit does Flo Mounier use today?**
-A: Flo Mounier currently plays a Pearl Reference Pure kit — all-maple shells with a custom configuration including a 22" kick and 8", 10", 12", 14", and 16" toms. His cymbal setup is Sabian (AAX crashes, HHX hi-hats, AAX ride), and he uses the Pearl Demon Drive direct drive double pedal for maximum precision at extreme tempos.
+A: Flo Mounier currently plays a Tama Starclassic Maple kit — including a 22" kick and 8", 10", 12", 14", and 16" toms, with a matching 14"×5.5" Starclassic Maple snare. His cymbal setup is Sabian (AAX crashes, HHX hi-hats, HHX ride), and he uses the Tama Speed Cobra 910 Twin Pedal for maximum precision at extreme tempos.
 
 **Q: What drumsticks does Flo Mounier use?**
-A: Flo Mounier plays Vic Firth Flo Mounier Signature drumsticks — a custom hickory model designed specifically for his extreme speed and control requirements at technical death metal tempos. He previously played standard Vic Firth 5B sticks before his signature model was developed.
+A: Flo Mounier plays Vic Firth 5A American Classic drumsticks — his standard stick since co-founding Cryptopsy in 1992, through None So Vile and into the modern Tama Starclassic Maple era.
 
-**Q: Why did Flo Mounier switch from Tama to Pearl?**
-A: Flo Mounier switched from Tama to Pearl around 1998 as Cryptopsy's international profile grew. The Pearl Reference Series maple/birch hybrid provided a brighter, more articulate tone suited to the increasingly complex arrangements on Whisper Supremacy and And Then You'll Beg, and the professional endorsement provided the reliability needed for sustained international touring.
+**Q: Why did Flo Mounier switch to Tama?**
+A: Flo Mounier switched to a Tama Starclassic Maple kit in 2012, moving away from his earlier Pearl Reference Series setup. The Tama kit paired with a refreshed Sabian AAX/HHX cymbal setup, Evans EC Reverse Dot heads, and the Tama Speed Cobra 910 Twin Pedal, giving him a modern, road-tested rig for the self-titled album (2012) and the Book of Suffering series.
 
 **Q: What is Flo Mounier's GSC CTR for drum kit searches?**
 A: According to Google Search Console data, 'flo mounier drum kit' has a 42.86% click-through rate — the highest CTR of any drummer-related search query in this dataset. This reflects strong intent from fans specifically researching his equipment.
@@ -139,7 +140,7 @@ A: According to Google Search Console data, 'flo mounier drum kit' has a 42.86% 
 A: Yes — Flo Mounier is the co-founder and drummer of Cryptopsy and remains actively recording and touring with the band. The Book of Suffering Tome I (2015) and Tome II (2018) established a renewed creative momentum, and Cryptopsy continues to perform and record extreme technical death metal as of 2026.
 
 **Q: What double bass pedal does Flo Mounier use?**
-A: Flo Mounier currently uses the Pearl Demon Drive direct drive double pedal — switched from the Pearl Eliminator during the modern era for maximum precision and response at extreme blast beat tempos. Earlier in his career, during the Tama era, he used the Tama Iron Cobra.
+A: Flo Mounier currently uses the Tama Speed Cobra 910 Twin Pedal — a chain-drive mechanism adopted in 2012 for the fast rebound his gravity blast technique demands. Earlier in his career, during the Pearl era, he used the Pearl Eliminator/Demon Drive double pedal.
 
 ---
 

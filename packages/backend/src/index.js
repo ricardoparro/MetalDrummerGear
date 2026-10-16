@@ -1204,7 +1204,7 @@ const drummers = [
     era: '90s',
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/89/Cryptopsy_Party.San_Metal_Open_Air_2017_10.jpg',
     bio: 'Flo Mounier is a Canadian drummer and the only constant member of technical death metal pioneers Cryptopsy since joining in 1992. His drumming on landmark albums like "None So Vile" and "Whisper Supremacy" set new standards for extreme metal drumming, featuring incredibly fast blast beats, complex patterns, and inhuman stamina. Mounier is widely regarded as one of the most technically proficient drummers in death metal.',
-    kitOverview: 'Flo Mounier plays a Pearl Reference Series drum kit — the platform behind Cryptopsy\'s technical death metal brutality and some of the most demanding drumming ever recorded. As the only constant member of Cryptopsy since 1992, Mounier\'s drum set has been his instrument for landmark albums like None So Vile and Whisper Supremacy, records that redefined the upper limits of extreme metal drumming with inhuman blast beat speed and complex polyrhythmic patterns.\n\nThe Flo Mounier drum kit centers on a Pearl Reference 14x5" Steel snare drum, chosen for its tight, cutting attack that slices through Cryptopsy\'s dense, churning arrangements. The Flo Mounier drum set features Sabian AAX Series cymbals throughout: 14" Stage Hi-Hats for precise articulation; 17" and 18" X-Plosion Crashes for explosive, rapid-decaying accents; a 21" Raw Bell Dry Ride for cutting rhythmic clarity; and an 18" AAXtreme China for aggressive punctuation. A Pearl Demon Drive Double Pedal powers the machine-gun double bass passages that define Cryptopsy\'s technical brutality. Vater Power 5B sticks complete the rig.',
+    kitOverview: 'Flo Mounier plays a Tama Starclassic Maple drum kit — the platform behind Cryptopsy\'s technical death metal brutality and some of the most demanding drumming ever recorded. As the only constant member of Cryptopsy since 1992, Mounier\'s drum set has been his instrument for landmark albums like None So Vile and Whisper Supremacy, records that redefined the upper limits of extreme metal drumming with inhuman blast beat speed and complex polyrhythmic patterns.\n\nThe Flo Mounier drum kit has carried Sabian AAX / HHX Series cymbals and Evans EC Reverse Dot heads since 2012, a combination chosen for the cutting articulation needed to slice through Cryptopsy\'s dense, churning arrangements. A Tama Speed Cobra 910 Twin Pedal powers the machine-gun double bass passages that define Cryptopsy\'s technical brutality. Vic Firth 5A American Classic sticks, which Mounier has played since 1992, complete the rig.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Cryptopsy',
       'https://www.instagram.com/flomounier/',
@@ -1212,19 +1212,18 @@ const drummers = [
       'https://www.allmusic.com/artist/flo-mounier-mn0001545138'
     ],
     gear: {
-      drums: 'Pearl Reference Series',
-      snare: 'Pearl Reference 14x5" Steel',
-      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'Vater Power 5B'
+      drums: 'Tama Starclassic Maple',
+      cymbals: 'Sabian AAX / HHX Series',
+      hardware: 'Tama Speed Cobra 910 Twin Pedal',
+      sticks: 'Vic Firth 5A American Classic'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/8/89/Cryptopsy_Party.San_Metal_Open_Air_2017_10.jpg'
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [

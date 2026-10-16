@@ -7468,20 +7468,20 @@ export const DRUMMER_EVOLUTION = {
     slug: 'mikkey-dee',
     name: 'Mikkey Dee',
     band: 'Motörhead',
-    totalYearsActive: '1988-Present',
+    totalYearsActive: '1985-Present',
     profileImage: '/images/drummers/mikkey-dee.webp',
     summary: 'Mikkey Dee holds one of the longest unbroken tenures in metal drumming history: 23 years as Motörhead\'s drummer, from Bastards in 1993 to Lemmy Kilmister\'s death in December 2015. His evolution spans a King Diamond apprenticeship, the full arc of Motörhead\'s later career as a relentless touring and recording machine, and a post-Motörhead chapter with Scorpions that continues today. His Paiste cymbal endorsement, in place since 1987 and overlapping his King Diamond tenure, and his Sonor Drums endorsement, established in 2012, together track nearly four decades of non-stop professional metal drumming.',
 
     eras: [
       {
-        id: 'mikkey-dee-1988-king-diamond',
+        id: 'mikkey-dee-1985-king-diamond',
         era: 'King Diamond Era',
-        years: '1988–1992',
-        startYear: 1988,
-        endYear: 1992,
-        description: 'Mikkey Dee joined King Diamond\'s band in 1988, appearing on four albums — Them (1988), Conspiracy (1989), The Eye (1990), and In Concert 1987: Abigail (live, 1991). The King Diamond years were his professional apprenticeship: technically demanding melodic metal with theatrical staging requirements, teaching Dee the discipline of consistent performance within complex arrangements. His Paiste endorsement, established during this period, was the foundation for the cymbal setup that followed; his Sonor Drums endorsement came later, in 2012.',
-        albums: ['Them (1988)', 'Conspiracy (1989)', 'The Eye (1990)'],
-        tours: ['King Diamond world tours 1988–1991', 'North American and European touring'],
+        years: '1985–1990',
+        startYear: 1985,
+        endYear: 1990,
+        description: 'Mikkey Dee joined King Diamond\'s band in 1985, recording Fatal Portrait (1986) and Abigail (1987) before the band\'s demanding theatrical touring schedule and lineup turmoil led him to leave in 1988 for a brief stint with Don Dokken\'s band. He returned to King Diamond as a session player on Conspiracy (1989) and The Eye (1990) before joining Motörhead in 1992. The King Diamond years were his professional apprenticeship: technically demanding melodic metal with theatrical staging requirements, teaching Dee the discipline of consistent performance within complex arrangements. His Paiste endorsement, established during this period, was the foundation for the cymbal setup that followed; his Sonor Drums endorsement came later, in 2012.',
+        albums: ['Fatal Portrait (1986)', 'Abigail (1987)', 'Them (1988)', 'Conspiracy (1989)', 'The Eye (1990)'],
+        tours: ['King Diamond world tours 1986–1990', 'North American and European touring'],
         image: null,
 
         gear: {
@@ -7530,10 +7530,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined King Diamond\'s band in 1988',
-          'Paiste Signature endorsement established',
-          'Them (1988) and Conspiracy (1989) — professional debut recordings',
-          'Learned discipline of consistent performance within complex theatrical arrangements',
+          'Joined King Diamond\'s band in 1985',
+          'Paiste Signature endorsement established (1987)',
+          'Fatal Portrait (1986) and Abigail (1987) — professional debut recordings',
+          'Left for a brief stint with Don Dokken in 1988, returned as a session player on Conspiracy (1989)',
           'Foundation laid for the non-stop touring career that would define the following three decades',
         ],
 

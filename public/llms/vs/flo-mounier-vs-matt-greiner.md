@@ -26,7 +26,7 @@ Cryptopsy's Flo Mounier vs August Burns Red's Matt Greiner — hyper-technical d
 
 ## Playing Style
 
-Flo Mounier (born February 4, 1974, in Montreal, Quebec) has been the only constant member of Canadian technical death metal pioneers Cryptopsy since joining in 1992, setting new standards for extreme metal drumming on landmark albums like "None So Vile" (1996) and "Whisper Supremacy" (1998) with sustained blast beats at 280+ BPM, complex polyrhythmic fills, and inhuman stamina. Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) co-founded metalcore band August Burns Red in 2003 and has been the rhythmic engine behind its Grammy-nominated catalog ever since, from the breakneck precision of "Composure" to the melodic sophistication of "Ghosts."
+Flo Mounier (born June 29, 1974, in Tours, France, and raised in Montreal, Quebec) has been the only constant member of Canadian technical death metal pioneers Cryptopsy since joining in 1992, setting new standards for extreme metal drumming on landmark albums like "None So Vile" (1996) and "Whisper Supremacy" (1998) with sustained blast beats at 280+ BPM, complex polyrhythmic fills, and inhuman stamina. Matt Greiner (born October 28, 1985, in Lancaster, Pennsylvania) co-founded metalcore band August Burns Red in 2003 and has been the rhythmic engine behind its Grammy-nominated catalog ever since, from the breakneck precision of "Composure" to the melodic sophistication of "Ghosts."
 
 ## Technique
 
@@ -64,4 +64,4 @@ A: Flo Mounier has been the drummer for Canadian technical death metal band Cryp
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-16 · Source: [MetalForge.io](https://metalforge.io)*

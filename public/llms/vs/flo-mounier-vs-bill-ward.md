@@ -26,7 +26,7 @@ Cryptopsy's Flo Mounier vs Black Sabbath's Bill Ward — hyper-technical blast-b
 
 ## Playing Style
 
-Flo Mounier (born February 4, 1974, in Montreal, Quebec) has been the only constant member of Canadian technical death metal pioneers Cryptopsy since joining in 1992, setting new standards for extreme metal drumming on landmark albums like "None So Vile" (1996) and "Whisper Supremacy" (1998) with sustained blast beats at 280+ BPM and complex polyrhythmic fills. Bill Ward co-founded Black Sabbath in Birmingham, England, in 1968 alongside Tony Iommi, Geezer Butler, and Ozzy Osbourne, and his open, swinging feel on "Black Sabbath" (1970), "Paranoid" (1970), and "Master of Reality" (1971) effectively invented heavy metal's rhythmic vocabulary.
+Flo Mounier (born June 29, 1974, in Tours, France, and raised in Montreal, Quebec) has been the only constant member of Canadian technical death metal pioneers Cryptopsy since joining in 1992, setting new standards for extreme metal drumming on landmark albums like "None So Vile" (1996) and "Whisper Supremacy" (1998) with sustained blast beats at 280+ BPM and complex polyrhythmic fills. Bill Ward co-founded Black Sabbath in Birmingham, England, in 1968 alongside Tony Iommi, Geezer Butler, and Ozzy Osbourne, and his open, swinging feel on "Black Sabbath" (1970), "Paranoid" (1970), and "Master of Reality" (1971) effectively invented heavy metal's rhythmic vocabulary.
 
 ## Technique
 
@@ -64,4 +64,4 @@ A: Flo Mounier has been the drummer for Canadian technical death metal band Cryp
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-16 · Source: [MetalForge.io](https://metalforge.io)*

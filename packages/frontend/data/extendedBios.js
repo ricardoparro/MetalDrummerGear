@@ -6268,7 +6268,7 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
     sections: {
       overview: {
         title: 'Overview',
-        content: `Flo Mounier (born February 4, 1974, in Montreal, Quebec, Canada) is a Canadian drummer and founding member of technical death metal pioneers Cryptopsy. Since forming the band in 1992, Mounier has been widely recognized as one of the most technically proficient and influential drummers in extreme metal history.
+        content: `Flo Mounier (born June 29, 1974, in Tours, France, and raised in Montreal, Quebec, Canada) is a Canadian drummer and founding member of technical death metal pioneers Cryptopsy. Since forming the band in 1992, Mounier has been widely recognized as one of the most technically proficient and influential drummers in extreme metal history.
 
 His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenced approach helped define the technical death metal genre. Albums like "None So Vile" (1996) showcased drumming that was ahead of its time, influencing countless extreme metal drummers. Beyond his work with Cryptopsy, Mounier is an accomplished drum educator, conducting clinics worldwide and releasing instructional content.`
       },

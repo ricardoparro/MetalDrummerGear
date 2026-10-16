@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/flo-mounier"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-16"
 ---
 
 # Flo Mounier — Drum Kit & Gear Setup
@@ -35,7 +35,7 @@ Sabian AAX and HHX Series cymbals complete the Flo Mounier drum kit: 14" HHX Sta
 
 Flo Mounier is a Canadian drummer and the only constant member of technical death metal pioneers Cryptopsy, which he joined in 1992. Born in Montreal, Quebec, Mounier is widely regarded as one of the fastest and most technically proficient drummers in extreme metal. His innovative blast beat techniques, gravity blasts, and complex polyrhythmic patterns have influenced countless death metal drummers. Albums like "None So Vile" (1996) and "Whisper Supremacy" (1998) showcase his legendary speed and precision. Beyond his raw power, Mounier incorporates jazz and fusion elements into his playing, adding musicality to Cryptopsy's brutality. He has been endorsed by Pearl, Sabian, and Vic Firth, and has released instructional DVDs sharing his techniques.
 
-Flo Mounier (born February 4, 1974, in Montreal, Quebec, Canada) is a Canadian drummer and founding member of technical death metal pioneers Cryptopsy. Since forming the band in 1992, Mounier has been widely recognized as one of the most technically proficient and influential drummers in extreme metal history.
+Flo Mounier (born June 29, 1974, in Tours, France, and raised in Montreal, Quebec, Canada) is a Canadian drummer and founding member of technical death metal pioneers Cryptopsy. Since forming the band in 1992, Mounier has been widely recognized as one of the most technically proficient and influential drummers in extreme metal history.
 
 His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenced approach helped define the technical death metal genre. Albums like "None So Vile" (1996) showcased drumming that was ahead of its time, influencing countless extreme metal drummers. Beyond his work with Cryptopsy, Mounier is an accomplished drum educator, conducting clinics worldwide and releasing instructional content.
 
@@ -241,4 +241,4 @@ Dated brand-endorsement timeline: [Flo Mounier's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-16 · Source: [MetalForge.io](https://metalforge.io)*

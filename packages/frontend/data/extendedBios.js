@@ -7134,14 +7134,14 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
     slug: 'matt-greiner',
     name: 'Matt Greiner',
     bands: [
-      { slug: 'august-burns-red', period: '2005-present', role: 'Drummer, founding member' }
+      { slug: 'august-burns-red', period: '2003-present', role: 'Drummer, founding member' }
     ],
     metaTitle: 'Matt Greiner Drum Kit & Gear Setup — August Burns Red Drummer | MetalForge',
     metaDescription: 'Complete biography of Matt Greiner, founding drummer of August Burns Red. Explore his innovative metalcore style, Grammy-nominated work, signature snare drum, and influence on modern metal drumming.',
     ogImage: '/images/drummers/matt-greiner.webp',
     keywords: ['august burns red', 'metalcore', 'christian metal', 'paiste cymbals', 'mapex drums', 'grammy nominated', 'lancaster pa', 'technical metalcore'],
     relatedDrummers: ['chris-turner', 'matt-halpern', 'chris-adler', 'brann-dailor'],
-    summary: 'Matt Greiner, founding drummer of August Burns Red since 2005. Grammy-nominated metalcore virtuoso known for innovative technique and signature snare drum.',
+    summary: 'Matt Greiner, founding drummer of August Burns Red since 2003. Grammy-nominated metalcore virtuoso known for innovative technique and signature snare drum.',
     lastUpdated: '2026-02-14',
     imageAlt: 'Matt Greiner performing with August Burns Red showcasing his powerful metalcore drumming',
     schemaType: 'Person',

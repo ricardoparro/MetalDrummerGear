@@ -10,7 +10,7 @@ last_updated: "2026-06-26"
 
 # Igor Cavalera Drum Kit Evolution — Complete Timeline
 
-Igor Cavalera is the rhythmic foundation of one of metal's most extraordinary origin stories — a teenage drummer in Belo Horizonte, Brazil who helped build Sepultura from a local underground band into a global extreme metal force. His evolution from no-name local kits to full Pearl and Zildjian endorsements mirrors Sepultura's own ascent. This timeline documents every major equipment era across his 40+ year career.
+Igor Cavalera is the rhythmic foundation of one of metal's most extraordinary origin stories — a teenage drummer in Belo Horizonte, Brazil who helped build Sepultura from a local underground band into a global extreme metal force. His evolution from no-name local kits to international Tama, Pearl, and Yamaha endorsements mirrors Sepultura's own ascent. This timeline documents every major equipment era across his 40+ year career.
 
 See also: [Igor Cavalera drummer profile](/llms/drummers/igor-cavalera.md)
 
@@ -98,21 +98,20 @@ Sepultura's commercial and artistic peak. Igor's switch from Tama to Pearl refle
 **Albums:** Inflikted (2008), Blunt Force Trauma (2011), Pandemonium (2014), Bestial Devastation (2023)
 **Tours:** Cavalera Conspiracy World Tours, Return to Roots Anniversary Tour
 
-After leaving Sepultura in 2006 following 22 years, Igor reunited with his brother Max to form Cavalera Conspiracy — recapturing the essence of early Sepultura with a polished modern setup. The Pearl Reference upgrade brought his gear to flagship level. The Return to Roots Anniversary Tour, where the brothers performed the entire *Roots* album live, became one of the most celebrated reunion events in extreme metal history.
+After leaving Sepultura in 2006 following 22 years, Igor reunited with his brother Max to form Cavalera Conspiracy, initially moving to a ddrum Hybrid Kit. In August 2018 he announced a new Yamaha Absolute Hybrid Maple endorsement, switching off the ddrum setup and adopting a Tama Iron Cobra double pedal alongside it — the setup he still plays today. The Return to Roots Anniversary Tour, where the brothers performed the entire *Roots* album live, became one of the most celebrated reunion events in extreme metal history.
 
-- **Drums:** Pearl Reference (multi-ply hybrid shells) — 22" kick, 8"/10"/12"/14"/16" toms *(upgrade — Pearl flagship, maple warmth with birch attack)*
-- **Snare:** Pearl Sensitone Premium 14"×6.5" steel *(upgrade — maximum sensitivity and dynamic range)*
+- **Drums:** Yamaha Absolute Hybrid Maple *(switch — moved from ddrum to Yamaha in August 2018)*
 - **Cymbals:** Zildjian A Custom / K Series mix — 14" hi-hats, 18"/19" crashes, 22" ride, 20" China *(upgrade — mix of brightness and warmth for versatility)*
-- **Hardware:** Pearl Eliminator double pedal *(switch — adjustable cam system for customized feel)*
+- **Hardware:** Tama Iron Cobra double pedal *(switch — adopted alongside the 2018 Yamaha kit switch)*
 - **Sticks:** Vic Firth 5A/5B hickory *(continued — Vic Firth loyalty maintained)*
-- **Heads:** Evans G2 / EMAD — G2 on toms, EMAD on kicks *(switch — Evans for focused, punchy modern sound)*
+- **Heads:** Remo *(continued — signed with Remo around the 2006 Cavalera Conspiracy formation)*
 - **Estimated kit cost (original):** ~$20,000
 
 **Key developments:**
 - Left Sepultura (2006) — end of a 22-year era
-- Formed Cavalera Conspiracy with Max Cavalera (2007)
-- Pearl Reference endorsement — career-peak gear upgrade
-- Evans heads for modern controlled sound
+- Formed Cavalera Conspiracy with Max Cavalera (2007), initially on a ddrum Hybrid Kit
+- Switched to Yamaha Absolute Hybrid Maple with Tama Iron Cobra hardware (August 2018)
+- Remo heads since 2006 for a controlled, modern sound
 - Return to Roots Anniversary Tour — performed entire *Roots* album live
 
 > "Playing with Max again is like going back to the source. Cavalera Conspiracy is what Sepultura was always meant to be." — *Metal Hammer Interview, 2008*
@@ -134,11 +133,14 @@ After leaving Sepultura in 2006 following 22 years, Igor reunited with his broth
 
 - **Local Brazilian kits** — 1984–1988 (pre-endorsement underground era)
 - **Tama Superstar** — 1989–1992 (breakthrough endorsement era)
-- **Pearl Masters Custom / Reference** — 1993–present (30+ year career-spanning Pearl partnership)
+- **Pearl Masters Custom** — 1993–1996 (Chaos A.D./Roots era)
+- **Tama Starclassic Maple** — 1996–2006 (returned to Tama ahead of the Cavalera Conspiracy era)
+- **ddrum Hybrid Kit** — 2006–2018 (Cavalera Conspiracy formation through 2018)
+- **Yamaha Absolute Hybrid Maple** — 2018–present (current kit)
 - **Zildjian A / K Custom / A Custom** — 1989–present (lifelong Zildjian partnership)
-- **DW 5000 Turbo / Pearl Eliminator** — progressive upgrade through career
+- **DW 5000 Turbo / Tama Iron Cobra** — progressive upgrade through career (Tama since 2018)
 - **Vic Firth 5A/5B** — 1989–present (consistent sticks throughout international career)
-- **Evans G2/EMAD** — 2007–present (modern era heads)
+- **Remo** — 2006–present (modern era heads)
 
 ---
 
@@ -151,7 +153,7 @@ A: On *Beneath the Remains* (1989), Igor Cavalera used a Tama Superstar with bir
 A: For *Roots* (1996), Igor played Pearl Masters Custom with maple shells — a 22" kick and a 6-piece tom configuration. His cymbals had evolved to Zildjian K Custom for a darker, earthier tone that matched the album's tribal and world music influences. Part of the album was recorded with the Xavante indigenous tribe of Brazil, incorporating traditional percussion alongside his kit.
 
 **Q: What is Igor Cavalera's current drum setup?**
-A: As of 2026, Igor Cavalera plays Pearl Reference (multi-ply hybrid shells) with a 22" kick drum. He uses Zildjian cymbals (A Custom and K Series mix), Evans G2 heads on toms and EMAD on kick drums, and Pearl Eliminator double bass pedals. He plays Vic Firth 5A/5B sticks.
+A: As of 2026, Igor Cavalera plays a Yamaha Absolute Hybrid Maple kit, having switched from his prior ddrum setup in August 2018. He uses Zildjian cymbals (A Custom and K Series mix), Remo drumheads, and a Tama Iron Cobra double pedal adopted alongside the 2018 Yamaha switch. He plays Vic Firth 5A/5B sticks.
 
 **Q: Why did Igor Cavalera leave Sepultura?**
 A: Igor Cavalera departed Sepultura in 2006, a decade after his brother Max left in 1996. The departure followed internal management disputes within the band. He subsequently reunited with Max to form Cavalera Conspiracy in 2007, widely seen as a return to Sepultura's original creative partnership.

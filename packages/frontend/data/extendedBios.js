@@ -7401,7 +7401,7 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
       { slug: 'killer-be-killed', period: '2011-present', role: 'Drums (studio)' }
     ],
     metaTitle: 'Ben Koller Drum Kit & Gear Setup — Converge Drummer | MetalForge',
-    metaDescription: 'Ben Koller (Converge) plays a Tama Starclassic Maple kit with Zildjian K Dark Series cymbals and a Tama S.L.P. 14"x6" Brass snare. Full gear breakdown, career timeline since 1999, and Jane Doe/Mutoid Man history.',
+    metaDescription: 'Ben Koller (Converge) plays a Tama Starclassic Performer B/B kit with Zildjian K Custom & A Custom Series cymbals and a Tama S.L.P. 14"x6" Brass snare. Full gear breakdown, career timeline since 1999, and Jane Doe/Mutoid Man history.',
     ogImage: '/images/drummers/ben-koller.webp',
     keywords: ['converge', 'hardcore punk', 'metalcore', 'jane doe', 'mutoid man', 'all pigs must die', 'boston hardcore', 'tama drums'],
     relatedDrummers: ['brann-dailor', 'dave-lombardo', 'joey-jordison', 'tomas-haake'],
@@ -7474,9 +7474,9 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
         content: `Ben Koller uses Tama Drums and Zildjian Cymbals, favoring a stripped-down setup that emphasizes power and response over complexity.
 
 **Current Setup:**
-- **Drums**: Tama Starclassic Maple
+- **Drums**: Tama Starclassic Performer B/B
 - **Snare**: Tama S.L.P. 14"x6" Brass
-- **Cymbals**: Zildjian K Dark Series (14" Thin Hi-Hats, 18" & 19" Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Cymbals**: Zildjian K Custom & A Custom Series
 - **Hardware**: Tama Iron Cobra double pedal
 - **Sticks**: Vic Firth or Promark 5B
 - **Heads**: Remo
@@ -7506,12 +7506,12 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
           { q: 'What band is Ben Koller most known for?', a: 'Ben Koller is best known as the drummer for Converge since 1999, particularly for his work on the landmark "Jane Doe" album.' },
           { q: 'What other bands is Ben Koller in?', a: 'Ben Koller also plays in Mutoid Man, All Pigs Must Die, and has recorded with Killer Be Killed.' },
           { q: 'When did Ben Koller join Converge?', a: 'Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorado.' },
-          { q: 'What drum kit does Ben Koller use?', a: 'Ben Koller plays a Tama Starclassic Maple drum kit, the streamlined, hard-hitting configuration that powers Converge\'s sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."' },
-          { q: 'What drum set does Ben Koller use?', a: 'Ben Koller\'s drum set pairs his Tama Starclassic Maple shells and S.L.P. 14"x6" Brass snare with a Tama Iron Cobra 900 double pedal, the stripped-down, hard-hitting configuration that powers Converge\'s sonic brutality.' },
+          { q: 'What drum kit does Ben Koller use?', a: 'Ben Koller plays a Tama Starclassic Performer B/B drum kit, the streamlined, hard-hitting configuration that powers Converge\'s sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."' },
+          { q: 'What drum set does Ben Koller use?', a: 'Ben Koller\'s drum set pairs his Tama Starclassic Performer B/B shells and S.L.P. 14"x6" Brass snare with a Tama Iron Cobra double pedal, the stripped-down, hard-hitting configuration that powers Converge\'s sonic brutality.' },
           { q: 'What snare does Ben Koller use?', a: 'Koller\'s snare is a Tama S.L.P. 14"x6" Brass, delivering the sharp, cutting crack that slices through Converge\'s dense guitar assault.' },
-          { q: 'What cymbals does Ben Koller play?', a: 'Ben Koller plays Zildjian K Dark Series cymbals: 14" K Dark Thin Hi-Hats, 18" and 19" K Dark Medium Thin Crashes, a 21" K Custom Ride, and an 18" K China.' },
+          { q: 'What cymbals does Ben Koller play?', a: 'Ben Koller plays Zildjian K Custom & A Custom Series cymbals.' },
           { q: 'What sticks does Ben Koller use?', a: 'Ben Koller plays Vic Firth American Classic 5B sticks, paired with Remo drumheads.' },
-          { q: 'What bass drum pedal does Ben Koller use?', a: 'Koller drives Converge\'s blistering tempos with a Tama Iron Cobra 900 double pedal.' }
+          { q: 'What bass drum pedal does Ben Koller use?', a: 'Koller drives Converge\'s blistering tempos with a Tama Iron Cobra double pedal.' }
         ]
       },
       sources: {

@@ -1,6 +1,6 @@
 # 10 Best Post-Hardcore Metal Drummers of All Time — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-post-hardcore-metal-drummers)
+> **Last updated:** 2026-10-16 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-post-hardcore-metal-drummers)
 
 ---
 
@@ -36,9 +36,9 @@ Ranked by documented performance records, genre-defining influence, and technica
 
 **Band:** Converge / Mutoid Man / Killer Be Killed
 **Highlight:** Mathcore's definitive controlled-chaos architect
-**Why ranked here:** Ben Koller joined Converge in 2001 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity.
+**Why ranked here:** Ben Koller joined Converge in 1999 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity.
 
-Ben Koller (Converge / Mutoid Man / Killer Be Killed) earns rank #1 for: mathcore's definitive controlled-chaos architect. Ben Koller joined Converge in 2001 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity..
+Ben Koller (Converge / Mutoid Man / Killer Be Killed) earns rank #1 for: mathcore's definitive controlled-chaos architect. Ben Koller joined Converge in 1999 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity..
 
 Full drummer profile: [Ben Koller on MetalForge](https://metalforge.io/drummer/ben-koller)
 
@@ -170,4 +170,4 @@ A: Post-hardcore metal drummers favor durable, road-tested kits built to withsta
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-16 · Source: [MetalForge.io](https://metalforge.io)*

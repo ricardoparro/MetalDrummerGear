@@ -2141,7 +2141,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/ben-koller.webp',
     bio: 'Ben Koller (born July 29, 1980) is an American drummer known for his work with Converge, Mutoid Man, Killer Be Killed, and All Pigs Must Die. Joining Converge in late 1999, Koller has been central to the band\'s legendary status, playing on landmark albums like "Jane Doe," "You Fail Me," and "The Dusk in Us." His drumming style combines blistering speed with creative dynamics, drawing from hardcore punk, grindcore, and experimental rock. Beyond Converge, he co-founded the heavy rock band Mutoid Man with Stephen Brodsky of Cave In, and joined the supergroup Killer Be Killed alongside members of Mastodon, The Dillinger Escape Plan, and Soulfly. Koller\'s versatility and intensity have made him one of the most respected drummers in extreme music.',
-    kitOverview: 'Ben Koller plays a Tama Starclassic Maple drum kit — the streamlined, hard-hitting configuration that powers Converge\'s unrelenting sonic brutality across two decades of hardcore and metalcore recordings. The Ben Koller drum set favors a raw, open approach: a Tama S.L.P. 14×6" Brass snare delivers the sharp, cutting crack that slices through Converge\'s dense guitar assault on Jane Doe, You Fail Me, and The Dusk in Us. A Tama Iron Cobra 900 double pedal anchors the kit — built for the sustained, blistering tempo Koller maintains through Converge\'s most demanding live sets.\n\nZildjian K Dark Series cymbals define the Ben Koller drum sound: 14" K Dark Thin Hi-Hats for a dry, trashy chick that sits low in the mix; 18" and 19" K Dark Medium Thin Crashes for explosive, rapid-decay accents; a 21" K Custom Ride for controlled rhythmic definition; and an 18" K China for brutal, cutting punctuation. Vic Firth American Classic 5B sticks and Remo drumheads complete the rig. Koller\'s approach prioritizes power and dynamics over trigger-augmented precision — his kit is built for the organic, visceral impact that has defined Converge\'s sound since 1999.',
+    kitOverview: 'Ben Koller plays a Tama Starclassic Performer B/B drum kit — the streamlined, hard-hitting configuration that powers Converge\'s unrelenting sonic brutality across two decades of hardcore and metalcore recordings. The Ben Koller drum set favors a raw, open approach: a Tama S.L.P. 14×6" Brass snare delivers the sharp, cutting crack that slices through Converge\'s dense guitar assault on Jane Doe, You Fail Me, and The Dusk in Us. A Tama Iron Cobra Double Pedal anchors the kit — built for the sustained, blistering tempo Koller maintains through Converge\'s most demanding live sets.\n\nZildjian K Custom & A Custom Series cymbals define the Ben Koller drum sound, delivering the dark, cutting tone that slices through Converge\'s dense guitar assault. Vic Firth American Classic 5B sticks and Remo drumheads complete the rig. Koller\'s approach prioritizes power and dynamics over trigger-augmented precision — his kit is built for the organic, visceral impact that has defined Converge\'s sound since 1999.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Ben_Koller',
       'https://www.instagram.com/ben_koller/',
@@ -2149,10 +2149,10 @@ const drummers = [
       'https://www.allmusic.com/artist/ben-koller-mn0001155282'
     ],
     gear: {
-      drums: 'Tama Starclassic Maple',
+      drums: 'Tama Starclassic Performer B/B',
       snare: 'Tama S.L.P. 14x6" Brass',
-      cymbals: 'Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)',
-      hardware: 'Tama Iron Cobra 900 Double Pedal, Tama Throne',
+      cymbals: 'Zildjian K Custom & A Custom Series',
+      hardware: 'Tama Iron Cobra Double Pedal',
       sticks: 'Vic Firth American Classic 5B',
       heads: 'Remo',
       verified: true,

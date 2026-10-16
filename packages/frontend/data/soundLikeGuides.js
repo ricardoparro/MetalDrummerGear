@@ -9626,13 +9626,13 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
     readingTime: '10 min',
     intro: {
       title: "The Brutal Backbone of Cannibal Corpse",
-      content: `Paul Mazurkiewicz (born September 8, 1968) has been the drummer and a founding member of Cannibal Corpse since 1988, making him one of the longest-serving and most consistent figures in death metal. Across fifteen-plus studio albums, from "Eaten Back to Life" through "Tomb of the Mutilated" and the modern classics, Mazurkiewicz has provided the relentless, groove-driven engine behind the best-selling death metal band of all time.
+      content: `Paul Mazurkiewicz (born September 8, 1968) has been the drummer and a founding member of Cannibal Corpse since 1988, making him one of the longest-serving and most consistent figures in death metal. Across sixteen studio albums, from "Eaten Back to Life" through "Tomb of the Mutilated" and the modern classics, Mazurkiewicz has provided the relentless, groove-driven engine behind the best-selling death metal band of all time.
 
 What defines Mazurkiewicz is not raw speed for its own sake but brutal, riff-locked precision. Famously, he plays blast beats and his fast single-stroke patterns using a traditional grip — an unusual choice in a genre dominated by matched grip — and he frequently uses single-stroke "skank" and hand-led blasts rather than relying on constant double bass. His drumming locks tightly to the guitar riffs of Cannibal Corpse, prioritizing the heaviness and groove of the song over technical flash. The result is some of the most identifiable, headbang-inducing death metal drumming ever recorded.
 
 This guide breaks down the technique, gear, and practice approach behind Mazurkiewicz's brutal, riff-driven style — the sound of three decades of Cannibal Corpse.`,
       keyPoints: [
-        "Founding Cannibal Corpse drummer since 1988 across 15+ albums",
+        "Founding Cannibal Corpse drummer since 1988 across 16 albums",
         "Plays blast beats and fast patterns using traditional grip",
         "Prioritizes riff-locked groove and heaviness over pure speed",
         "Defined the brutal, headbang-driven death metal drum template"

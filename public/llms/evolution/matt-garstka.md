@@ -5,12 +5,12 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummer/matt-garstka"
 evolution_url: "https://metalforge.io/drummers/matt-garstka/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-07-01"
+last_updated: "2026-10-16"
 ---
 
 # Matt Garstka Drum Kit Evolution — Complete Timeline
 
-Matt Garstka is a Berklee-educated jazz-fusion drummer who reshaped what progressive metal drumming could sound like after joining Animals as Leaders in 2012, replacing founding drummer Navene Koperweis. His playing blends jazz fusion, electronic music, and progressive metal — complex polyrhythms, intricate ghost-note patterns, and traditional grip in a genre dominated by matched grip players. This timeline documents his complete gear evolution from anonymous Berklee-era student kits through the compact, articulation-first Pearl Masterworks setup that defines his sound today.
+Matt Garstka is a Berklee-educated jazz-fusion drummer who reshaped what progressive metal drumming could sound like after joining Animals as Leaders in 2012, replacing founding drummer Navene Koperweis. His playing blends jazz fusion, electronic music, and progressive metal — complex polyrhythms, intricate ghost-note patterns, and traditional grip in a genre dominated by matched grip players. This timeline documents his complete gear evolution from anonymous Berklee-era student kits through the compact Pearl Masterworks era that defined his sound through 2021, to the DW/Tama setup he plays today.
 
 See also: [Matt Garstka drummer profile](/llms/drummers/matt-garstka.md)
 
@@ -103,23 +103,22 @@ His Drumeo lessons, clinics, and YouTube presence made him one of the most-watch
 **Tours:** Parrhesia World Tour 2022–2023, continued clinic and educational touring
 
 **Q: What is Matt Garstka's current drum setup?**
-A: Garstka's current touring rig keeps the same compact Pearl Masterworks Maple philosophy and Meinl Byzance voicing that have defined his sound since 2014, now paired consistently with his own Pearl signature snare and Vic Firth signature sticks. Parrhesia (2022) — Animals as Leaders' most compositionally dense record to date — shows a decade of refinement built on a remarkably stable core setup rather than wholesale gear changes.
+A: In September 2021, Garstka made the biggest gear change of his career — leaving Pearl after nearly a decade for a DW Collector's Series custom shop kit, driven by a Tama Speed Cobra 910 double pedal. His Meinl Byzance cymbals (since 2012) and Vic Firth Matt Garstka Signature sticks (since 2014) carried over unchanged, so Parrhesia (2022) — Animals as Leaders' most compositionally dense record to date — was recorded on the new DW/Tama setup with the same cymbal and stick voicing fans already knew.
 
-- **Drums:** Pearl Masterworks Maple — compact maple configuration, current touring spec (unchanged since 2014)
-- **Snare:** Pearl Matt Garstka Signature Snare — current standard snare
-- **Cymbals:** Meinl Byzance Series (current configuration) — adjusted per tour, retains dark hand-hammered voicing
-- **Hardware:** Pearl Demon Drive Double Pedal (unchanged)
-- **Sticks:** Vic Firth Matt Garstka Signature — current standard stick model
-- **Heads:** Remo Ambassador Coated / Evans EMAD (unchanged)
+- **Drums:** DW Collector's Series (custom shop) *(switch from Pearl — September 2021, mixed wood species and shell configurations)*
+- **Snare:** DW Collector's Series Purpleheart Snare *(switch from Pearl Matt Garstka Signature Snare — part of the September 2021 DW move)*
+- **Cymbals:** Meinl Byzance Series (current configuration) — adjusted per tour, retains dark hand-hammered voicing (unchanged since 2012)
+- **Hardware:** Tama Speed Cobra 910 Double Pedal *(switch from Pearl Demon Drive — September 2021, alongside the DW kit switch)*
+- **Sticks:** Vic Firth Matt Garstka Signature — current standard stick model (unchanged since 2014)
+- **Heads:** Remo Ambassador Coated (unchanged since 2012)
 - **Estimated kit cost (original):** ~$9,500
 
 **Key developments:**
-- Parrhesia (2022) — most compositionally dense Animals as Leaders record to date
-- Core Pearl Masterworks Maple / Meinl Byzance setup unchanged since 2014
-- Signature snare and sticks now the standing default across all touring
+- Switched from Pearl to a DW Collector's Series custom shop kit and DW Purpleheart snare (September 2021)
+- Moved double pedal from Pearl Demon Drive to Tama Speed Cobra 910 (September 2021)
+- Meinl Byzance cymbals and Vic Firth signature sticks carried over unchanged through the brand switch
+- Parrhesia (2022) — most compositionally dense Animals as Leaders record to date, first full album on the DW/Tama setup
 - Continued expansion of educational presence alongside touring
-
-> "My setup hasn't changed drastically since The Joy of Motion — because it already did what I needed. Parrhesia just asked me to say more with it." — *Modern Drummer Interview, 2022*
 
 ---
 
@@ -138,31 +137,32 @@ A: Garstka's current touring rig keeps the same compact Pearl Masterworks Maple 
 
 - **Ludwig (snares)** — 2007–2012 (Supraphonic, Berklee/session years, pre-endorsement)
 - **Zildjian K (cymbals)** — 2007–2012 (jazz-fusion years before joining AAL)
-- **Pearl (drums)** — 2012–present (Masterworks Maple compact configuration, unbroken since The Joy of Motion)
-- **Pearl (snares)** — 2012–present (Reference 14"×5" → Matt Garstka Signature Snare from 2016)
-- **Meinl Byzance (cymbals)** — 2012–present (switched from Zildjian K on joining Animals as Leaders)
-- **Pearl Demon Drive (hardware)** — 2012–present (unchanged double pedal platform)
-- **Vic Firth (sticks)** — 2012–present (5A → Matt Garstka Signature from 2016)
-- **Remo / Evans (heads)** — throughout AAL career (Ambassador Coated / EMAD)
+- **Pearl (drums/snares)** — 2012–2021 (Masterworks Maple → Matt Garstka Signature Snare from 2016; left Pearl in September 2021)
+- **DW (drums/snares)** — 2021–present (Collector's Series custom shop kit and Purpleheart snare, replacing Pearl)
+- **Meinl Byzance (cymbals)** — 2012–present (switched from Zildjian K on joining Animals as Leaders; unbroken since)
+- **Pearl Demon Drive (hardware)** — 2012–2021 (double pedal platform, retired alongside the Pearl drum kit)
+- **Tama Speed Cobra 910 (hardware)** — 2021–present (double pedal, switched alongside the DW kit)
+- **Vic Firth (sticks)** — 2012–present (5A → Matt Garstka Signature from 2016, unbroken since)
+- **Remo (heads)** — 2012–present (Ambassador Coated)
 
 ---
 
 ## FAQ
 
 **Q: What drum kit does Matt Garstka play?**
-A: Matt Garstka plays a Pearl Masterworks Maple kit in a compact 4-piece configuration: a 20"×16" bass drum, 10"×7" and 12"×8" rack toms, and a 14"×14" floor tom. The smaller-than-typical bass drum size is a deliberate choice for quick attack and articulation, a philosophy he established on The Joy of Motion (2014) and has maintained ever since.
+A: Matt Garstka currently plays a DW Collector's Series custom shop kit, a switch he made in September 2021 after nearly a decade on Pearl Masterworks Maple. From The Joy of Motion (2014) through the Madness of Many era, his compact 4-piece Pearl setup — a 20"×16" bass drum, 10"×7" and 12"×8" rack toms, and a 14"×14" floor tom — established the smaller-than-typical bass drum philosophy for quick attack and articulation that he has carried over onto the DW kit.
 
 **Q: What cymbals does Matt Garstka use?**
-A: Garstka uses Meinl Byzance cymbals, including 15" Dual Hi-Hats, Byzance crashes from 18" to 20", a 22" Byzance Sand Ride, and an 18" Vintage Trash Hat China. He switched to Byzance from Zildjian K when he joined Animals as Leaders in 2012, and the dark, hand-hammered voicing has defined his sound ever since.
+A: Garstka uses Meinl Byzance cymbals, including 15" Dual Hi-Hats, Byzance crashes from 18" to 20", a 22" Byzance Sand Ride, and an 18" Vintage Trash Hat China. He switched to Byzance from Zildjian K when he joined Animals as Leaders in 2012, and the dark, hand-hammered voicing has defined his sound ever since — unaffected by his 2021 drum and hardware brand switch.
 
 **Q: Does Matt Garstka have a signature snare?**
-A: Yes. Garstka has a Pearl Matt Garstka Signature Snare — a 14"×5" maple shell released around The Madness of Many era (2016) with a bearing edge designed for sensitivity and ghost-note articulation. He also has a Vic Firth Matt Garstka Signature stick with an elongated taper designed for traditional grip players.
+A: He had one — a Pearl Matt Garstka Signature Snare, a 14"×5" maple shell released around The Madness of Many era (2016) with a bearing edge designed for sensitivity and ghost-note articulation. When he left Pearl for DW in September 2021, he moved to a DW Collector's Series Purpleheart snare. He also has a Vic Firth Matt Garstka Signature stick with an elongated taper designed for traditional grip players, unaffected by the drum brand switch.
 
 **Q: What grip does Matt Garstka use?**
 A: Matt Garstka is one of the few prominent metal drummers who uses traditional grip rather than matched grip — a holdover from his jazz training at Berklee College of Music that shapes his touch, dynamics, and ghost-note vocabulary, and the basis for his signature Vic Firth stick model.
 
 **Q: How did Matt Garstka's gear change from The Joy of Motion to Parrhesia?**
-A: Garstka's core setup has been remarkably stable since joining Animals as Leaders — a compact Pearl Masterworks Maple kit paired with Meinl Byzance cymbals from The Joy of Motion (2014) onward. The main evolution has been personalization: his Pearl Matt Garstka Signature Snare and Vic Firth Matt Garstka Signature sticks, both released around 2016, replaced the pre-signature Pearl Reference snare and stock Vic Firth 5A sticks he used on his AAL debut.
+A: Garstka's cymbals and sticks have been stable since joining Animals as Leaders — Meinl Byzance from The Joy of Motion (2014) onward, and Vic Firth (5A, then his Matt Garstka Signature model from 2016) throughout. His drums and hardware tell a different story: he played Pearl Masterworks Maple and a Pearl Demon Drive double pedal from 2012 until September 2021, when he switched to a DW Collector's Series custom shop kit with a Purpleheart snare, driven by a Tama Speed Cobra 910 double pedal — the one major brand change of his career, and the setup he recorded Parrhesia (2022) on.
 
 ---
 
@@ -171,7 +171,7 @@ A: Garstka's core setup has been remarkably stable since joining Animals as Lead
 - [Matt Garstka Drummer Profile](/llms/drummers/matt-garstka.md)
 - [Matt Garstka Gear History](/llms/gear-history/matt-garstka.md)
 - [Animals as Leaders Band Profile](/llms/bands.md)
-- [Pearl Drums Brand Guide](/llms/brands/pearl.md)
+- [DW Drums Brand Guide](/llms/brands/dw.md)
 - [Meinl Byzance Cymbal Guide](/llms/brands/meinl.md)
 - [Matt Halpern Gear Evolution](/llms/evolution/matt-halpern.md)
 - [Metal Drumming Facts & Stats](/llms/facts.md)

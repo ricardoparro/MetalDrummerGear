@@ -10,18 +10,18 @@ last_updated: "2026-06-27"
 
 # Blake Richardson Drum Kit Evolution — Complete Timeline
 
-Blake Richardson is the founding drummer of Between the Buried and Me, one of progressive metal's most critically acclaimed and technically ambitious bands. Formed in Winston-Salem, North Carolina, in 1999, BTBAM has explored the intersection of metal, jazz, hardcore, prog rock, and classical music across an extraordinary catalog. Richardson's drumming is distinguished by its seamless genre vocabulary, dynamic intelligence, and rhythmic invention. This timeline documents his complete gear evolution from entry-level Tama kits to the premium Star Walnut configuration that defines his current sound.
+Blake Richardson joined Between the Buried and Me in 2005, replacing original drummer Will Goodyear, becoming the drummer for one of progressive metal's most critically acclaimed and technically ambitious bands. Formed in Winston-Salem, North Carolina, in 1999, BTBAM has explored the intersection of metal, jazz, hardcore, prog rock, and classical music across an extraordinary catalog. Richardson's drumming is distinguished by its seamless genre vocabulary, dynamic intelligence, and rhythmic invention. This timeline documents his complete gear evolution from entry-level Tama kits to the premium Star Walnut configuration that defines his current sound.
 
 See also: [Blake Richardson drummer profile](/llms/drummers/blake-richardson.md)
 
 ---
 
-## Self-Titled / Silent Circus / Alaska Era (1999–2006)
+## Joining BTBAM / Alaska Era (2005–2006)
 
-**Albums:** Between the Buried and Me (2002), The Silent Circus (2003), Alaska (2005)
-**Tours:** Early DIY touring, The Silent Circus Tour, Alaska Tour
+**Albums:** Alaska (2005)
+**Tours:** Alaska Tour
 
-Between the Buried and Me built their early reputation through relentless DIY touring across the US underground circuit. Blake Richardson's early setup was assembled on a limited budget — a Tama Rockstar kit and Sabian cymbals that could survive the demands of constant self-booked touring. Despite the modest gear, Richardson's playing on Alaska (2005) began to attract serious critical attention. The equipment was functional; the musicianship was already exceptional.
+Blake Richardson joined Between the Buried and Me in 2005, replacing original drummer Will Goodyear, in time to record Alaska. His early setup was assembled on a limited budget — a Tama Rockstar kit and Sabian cymbals that could survive the demands of constant self-booked touring. Richardson's playing on Alaska (2005) began to attract serious critical attention. The equipment was functional; the musicianship was already exceptional.
 
 - **Drums:** Tama Rockstar Series — poplar shells: 22" kick, 12"/13"/16" toms (entry-level Tama; reliable and affordable for heavy touring schedule)
 - **Snare:** Tama Steel 14"×5.5" (crisp, cutting steel snare for dense arrangements)
@@ -32,9 +32,8 @@ Between the Buried and Me built their early reputation through relentless DIY to
 - **Estimated kit cost (original):** ~$3,000
 
 **Key developments:**
-- BTBAM founded in Winston-Salem, NC (1999)
-- Self-titled debut (2002) establishes eclectic prog-metal identity
-- Alaska (2005) — first major critical breakthrough; widely praised for its dynamic range and genre fluency
+- Richardson joins BTBAM in 2005, replacing original drummer Will Goodyear
+- Alaska (2005) — first album with Richardson on drums; widely praised for its dynamic range and genre fluency
 - Built national underground following through relentless DIY touring
 
 > "We were playing every night. The gear just had to hold together. The music was always more important than what kit I was on." — *Revolver Interview, 2006*
@@ -128,7 +127,7 @@ The modern BTBAM era — Richardson's most mature and compositionally sophistica
 
 | Era | Years | Kit Cost (Original) | Inflation-Adjusted |
 |---|---|---|---|
-| Early / Alaska Era | 1999–2006 | $3,000 | ~$5,200 |
+| Early / Alaska Era | 2005–2006 | $3,000 | ~$5,200 |
 | Colors Era | 2007–2009 | $7,000 | ~$10,500 |
 | Great Misdirect / Parallax Era | 2009–2014 | $9,000 | ~$13,000 |
 | Modern / Star Walnut Era | 2015–present | $22,000 | ~$22,000 |
@@ -137,10 +136,10 @@ The modern BTBAM era — Richardson's most mature and compositionally sophistica
 
 ## Gear Brand Partnerships Timeline
 
-- **Tama (drums)** — 1999–present (Rockstar → Starclassic Walnut/Birch → Star Walnut)
-- **Sabian (cymbals)** — 1999–~2009 (B8 → AAX across early career)
+- **Tama (drums)** — 2005–present (Rockstar → Starclassic Walnut/Birch → Star Walnut)
+- **Sabian (cymbals)** — 2005–~2009 (B8 → AAX across early career)
 - **Meinl Byzance (cymbals)** — ~2009–present (progressive transition to darker, more complex Turkish tone)
-- **Tama Iron Cobra (hardware)** — 1999–~2015 (foundational double bass pedal)
+- **Tama Iron Cobra (hardware)** — 2005–~2015 (foundational double bass pedal)
 - **Tama Speed Cobra (hardware)** — ~2015–present (lighter, faster double pedal)
 - **Vic Firth (sticks)** — throughout career (5A → 5B → Blake Richardson Signature)
 - **Remo (heads)** — throughout career (Ambassador → Emperor / Powerstroke 3 / EMAD)
@@ -165,7 +164,7 @@ A: After Colors, the most significant change was the cymbal transition from Sabi
 A: Richardson is known for exceptional dynamic control and genre fluency — his ability to move between extreme metal, jazz, prog rock, and acoustic textures within a single performance. His cymbal choices (Sabian AAX, later Meinl Byzance Jazz and Dark) reflect a listening-based approach to tone rather than a standard metal palette. See also: [progressive metal drumming techniques](/techniques/progressive-metal).
 
 **Q: Is Blake Richardson a founding member of BTBAM?**
-A: Yes — Blake Richardson is a founding member of Between the Buried and Me, having been part of the band from its formation in Winston-Salem, NC in 1999. He has appeared on every BTBAM studio album from the self-titled debut (2002) through Colors II (2021).
+A: No — Between the Buried and Me formed in Winston-Salem, NC in 1999 with original drummer Will Goodyear. Richardson joined in 2005, replacing Goodyear, and has appeared on every BTBAM studio album from Alaska (2005) through Colors II (2021).
 
 **Q: What double bass pedal does Blake Richardson use?**
 A: Richardson switched from the Tama Iron Cobra HP900 (used through the Colors and Great Misdirect eras) to the Tama Speed Cobra HP910 around the Coma Ecliptic era (2015). The Speed Cobra's lighter, faster cam-driven action provided more responsive footwork for the nuanced polyrhythmic passages in the modern BTBAM material.

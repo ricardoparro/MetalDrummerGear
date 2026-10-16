@@ -6447,26 +6447,26 @@ export const DRUMMER_EVOLUTION = {
   },
 
   // ==========================================
-  // Blake Richardson - Between the Buried and Me (1999–Present)
+  // Blake Richardson - Between the Buried and Me (2005–Present)
   // ==========================================
   'blake-richardson': {
     slug: 'blake-richardson',
     name: 'Blake Richardson',
     band: 'Between the Buried and Me',
-    totalYearsActive: '1999-Present',
+    totalYearsActive: '2005-Present',
     profileImage: '/images/drummers/blake-richardson.webp',
-    summary: 'Founding drummer of Between the Buried and Me, Blake Richardson is among the most technically accomplished progressive metal drummers of his generation. Renowned for his seamless polyrhythmic playing and genre-fluid vocabulary — spanning metal, jazz, and prog — his gear evolution tracks from an entry-level Tama kit through a sustained Tama Star Walnut setup that defines modern BTBAM.',
+    summary: 'Blake Richardson joined Between the Buried and Me in 2005, replacing original drummer Will Goodyear, and is among the most technically accomplished progressive metal drummers of his generation. Renowned for his seamless polyrhythmic playing and genre-fluid vocabulary — spanning metal, jazz, and prog — his gear evolution tracks from an entry-level Tama kit through a sustained Tama Star Walnut setup that defines modern BTBAM.',
 
     eras: [
       {
         id: 'blake-richardson-2002-early',
-        era: 'Self-Titled / Silent Circus Era',
-        years: '1999–2006',
-        startYear: 1999,
+        era: 'Joining BTBAM / Alaska Era',
+        years: '2005–2006',
+        startYear: 2005,
         endYear: 2006,
-        description: 'Between the Buried and Me formed in Winston-Salem, North Carolina, in 1999. Blake Richardson\'s early setup was assembled on a limited budget as the band developed its uniquely eclectic identity — blending metal, prog, jazz, and hardcore on self-booked tours. The self-titled debut and The Silent Circus established the band\'s technical credentials.',
-        albums: ['Between the Buried and Me (2002)', 'The Silent Circus (2003)', 'Alaska (2005)'],
-        tours: ['Early DIY touring', 'The Silent Circus Tour', 'Alaska Tour'],
+        description: 'Blake Richardson joined Between the Buried and Me in 2005, replacing original drummer Will Goodyear, in time to record Alaska. His early setup was assembled on a limited budget as the band developed its uniquely eclectic identity — blending metal, prog, jazz, and hardcore on self-booked tours.',
+        albums: ['Alaska (2005)'],
+        tours: ['Alaska Tour'],
         image: null,
 
         gear: {
@@ -6515,9 +6515,8 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'BTBAM founded in Winston-Salem, NC (1999)',
-          'Self-Titled debut (2002) establishes eclectic prog-metal identity',
-          'Alaska (2005) — first major critical breakthrough',
+          'Richardson joins BTBAM in 2005, replacing original drummer Will Goodyear',
+          'Alaska (2005) — first album with Richardson on drums',
           'Relentless DIY touring builds national underground following',
         ],
 
@@ -6566,10 +6565,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5B',
-            details: 'Heavier hickory for projection',
-            notes: 'Upgraded to 5B for more power on larger venues during the Colors tour.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Vic Firth American Classic 3A',
+            details: 'Standard hickory',
+            notes: 'Continued on the Vic Firth American Classic 3A signed in 2006 — no stick change for Colors.',
+            change: null,
           },
           heads: {
             item: 'Remo Emperor',

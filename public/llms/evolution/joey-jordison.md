@@ -46,20 +46,19 @@ Slipknot had nothing in the beginning. Joey made a Pearl Export sound profession
 **Albums:** Iowa (2001)
 **Tours:** Iowa World Tour; Ozzfest
 
-The Iowa album pushed Joey to the absolute limits of human endurance. He secured a Pearl endorsement and his first signature stick deal with Ahead. ddrum triggers were integrated for the first time to ensure consistent kick drum sound at extreme speeds during live performances. Iowa is considered one of the most physically demanding drum performances ever recorded.
+The Iowa album pushed Joey to the absolute limits of human endurance. He secured a Pearl endorsement, while still relying on standard Vic Firth sticks ahead of his eventual signature stick deal later in the decade. ddrum triggers were integrated for the first time to ensure consistent kick drum sound at extreme speeds during live performances. Iowa is considered one of the most physically demanding drum performances ever recorded.
 
 - **Drums:** Pearl Reference Series (custom black) — 24" kick, 10"/12"/14"/16" toms *(switch — first professional endorsement kit)*
 - **Snare:** Pearl Reference 14"×5" (maple/birch hybrid) *(upgrade — snappy, cutting for blast beats)*
 - **Cymbals:** Paiste Signature Series — 14" Heavy hi-hats, 18"/19"/20" crashes, 22" ride, 20" China *(upgrade)*
 - **Hardware:** Pearl Eliminator Demon Drive direct drive double pedal *(upgrade — faster response for extreme speeds)*
-- **Sticks:** Ahead Joey Jordison Signature (aluminum alloy) *(signature — first signature stick deal)*
+- **Sticks:** Vic Firth 5A hickory (continued from self-titled era, pre-signature)
 - **Heads:** Evans EC2 (sound-shaping technology) *(upgrade — more controlled, focused tone)*
 - **Electronics:** ddrum triggers on kick and snare *(new — first electronic integration)*
 - **Estimated kit cost (original):** ~$12,000
 
 **Key developments:**
 - Pearl endorsement secured (2001)
-- Ahead signature sticks introduced — aluminum for durability during brutal touring
 - ddrum kick and snare triggers added for live sound consistency
 - Iowa (2001) recorded — widely regarded as one of the heaviest albums ever made
 
@@ -72,13 +71,13 @@ The Iowa album pushed Joey to the absolute limits of human endurance. He secured
 **Albums:** Vol. 3: (The Subliminal Verses) (2004), All Hope Is Gone (2008)
 **Tours:** The Subliminal Verses World Tour; All Hope Is Gone World Tour
 
-Vol. 3 marked Slipknot's sonic expansion — melody alongside brutality. Joey's setup reflected this: his first complete signature drum kit and signature snare gave him gear purpose-built around how he played. The rotating drum riser became a fully realized production element. The 13" signature snare (smaller than standard 14") gave him the fast, responsive attack his style demanded.
+Vol. 3 marked Slipknot's sonic expansion — melody alongside brutality. Joey's setup reflected this: his first complete signature drum kit and signature snare gave him gear purpose-built around how he played. The rotating drum riser became a fully realized production element. The 13" signature snare (smaller than standard 14") gave him the fast, responsive attack his style demanded. Near the end of this era, in 2008, he also signed his first signature stick deal, with Promark.
 
 - **Drums:** Pearl Joey Jordison Signature Kit — custom configuration: 22" kick, 8"/10"/12"/14"/16" toms *(signature — first complete signature drum kit)*
 - **Snare:** Pearl Joey Jordison Signature Snare 13"×6.5" Steel *(signature — smaller for faster response)*
 - **Cymbals:** Paiste Signature/RUDE mix — 14" Heavy hi-hats, various crashes, RUDE China cymbals
 - **Hardware:** Pearl Demon Drive direct drive double pedal (continued)
-- **Sticks:** Ahead Joey Jordison Signature (refined model, shorter taper)
+- **Sticks:** Promark TX515W Joey Jordison Signature (hickory) *(signature — first signature stick deal, 2008)*
 - **Heads:** Evans EMAD on kick, EC2 on toms *(upgrade — focused, punchy sound)*
 - **Electronics:** ddrum full trigger module setup *(upgrade — full hybrid acoustic/electronic)*
 - **Estimated kit cost (original):** ~$18,000
@@ -86,6 +85,7 @@ Vol. 3 marked Slipknot's sonic expansion — melody alongside brutality. Joey's 
 **Key developments:**
 - First signature drum kit released by Pearl — designed specifically around his playing style
 - 13" signature snare released — smaller diameter for faster attack than standard 14"
+- Promark signature stick deal signed (2008) — his first signature stick partnership
 - Rotating drum riser becomes a full production centerpiece
 - More dynamic and melodic playing on Vol. 3 showcases range beyond pure aggression
 
@@ -98,19 +98,19 @@ Vol. 3 marked Slipknot's sonic expansion — melody alongside brutality. Joey's 
 **Albums:** Sinsaenum albums; VIMIC
 **Tours:** Various touring with Sinsaenum and other projects
 
-Joey departed Slipknot in 2013. He moved to SJC Custom Drums and continued recording and touring with multiple projects despite being diagnosed with transverse myelitis, a neurological condition affecting spinal cord function. He adapted his setup to accommodate health challenges and continued playing until shortly before his passing in July 2021.
+Joey departed Slipknot in 2013. He continued playing his Pearl Reference Series kit, recording and touring with multiple projects despite being diagnosed with transverse myelitis, a neurological condition affecting spinal cord function. He adapted his setup to accommodate health challenges and continued playing until shortly before his passing in July 2021.
 
-- **Drums:** SJC Custom Drums (maple shells) *(switch — moved from Pearl after Slipknot exit)*
-- **Snare:** SJC Custom 14"×6" Maple *(switch — custom-built to his specifications)*
+- **Drums:** Pearl Reference Series (custom black) *(continued — no brand change documented after Slipknot exit)*
+- **Snare:** Pearl Joey Jordison Signature Snare 13"×6.5" Steel *(continued — no model switch documented)*
 - **Cymbals:** Paiste Signature/RUDE (continued Paiste partnership throughout career)
 - **Hardware:** Various, adapted to health requirements
-- **Sticks:** Ahead (continued partnership — aluminum shafts easier on hands during illness)
+- **Sticks:** Promark TX515W Joey Jordison Signature (continued partnership since 2008)
 - **Heads:** Evans EMAD and EC2 (consistent preference throughout career)
 - **Estimated kit cost (original):** ~$15,000
 
 **Key developments:**
 - Departed Slipknot (2013)
-- Moved to SJC Custom Drums from Pearl
+- Continued Pearl Reference Series and Promark signature partnerships (no brand changes)
 - Adapted playing style and hardware setup to manage transverse myelitis
 - Continued recording and live performance until 2021
 - Passed away July 26, 2021
@@ -133,11 +133,11 @@ Joey departed Slipknot in 2013. He moved to SJC Custom Drums and continued recor
 ## Gear Brand Partnerships Timeline
 
 - **Pearl Export** — 1995–2000 (budget/pre-endorsement era)
-- **Pearl Reference / Signature endorsement** — 2001–2013
-- **Pearl Joey Jordison Signature Kit** — 2004–2013
-- **SJC Custom Drums** — 2013–2021
+- **Pearl Reference / Signature endorsement** — 2001–2021 (continued through his final years, no brand change)
+- **Pearl Joey Jordison Signature Kit & Snare** — 2004–2021
 - **Paiste** — throughout entire career (2002 → Signature → RUDE series)
-- **Ahead Drumsticks** — 2001–2021 (signature model)
+- **Vic Firth 5A** — 1995–2008 (pre-signature era)
+- **Promark Drumsticks** — 2008–2021 (signature model, TX515W)
 - **ddrum triggers** — 2001–2013 (live integration)
 
 ---
@@ -160,7 +160,7 @@ A: Joey was loyal to Paiste throughout his entire career, starting with Paiste 2
 A: Joey Jordison was dismissed from Slipknot in December 2013. He later disclosed that he had been diagnosed with transverse myelitis, a neurological disorder affecting the spinal cord that caused him to temporarily lose the ability to walk. The condition had significantly impacted his playing ability at the time of his dismissal.
 
 **Q: What was Joey Jordison's last drum setup before he passed away?**
-A: In his final years (2013–2021), Joey played SJC Custom maple drums with continued Paiste Signature and RUDE cymbals, Ahead drumsticks, and Evans heads. His setup was adapted to accommodate the physical challenges of his illness while allowing him to continue recording and performing.
+A: In his final years (2013–2021), Joey continued playing his Pearl Reference Series kit with continued Paiste Signature and RUDE cymbals, Promark TX515W signature drumsticks, and Evans heads. His setup was adapted to accommodate the physical challenges of his illness while allowing him to continue recording and performing.
 
 **Q: What happened to Joey Jordison's rotating drum riser?**
 A: The iconic rotating drum riser became a central part of Slipknot's live production starting in the Vol. 3 era. The riser could rotate 360 degrees during performances, creating a theatrical element that became synonymous with the band's live show.

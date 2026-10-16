@@ -7025,7 +7025,7 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
     sections: {
       overview: {
         title: 'Overview',
-        content: `Chris Turner (born October 4, 1993, in Birmingham, United Kingdom) is a British drummer and founding member of progressive metalcore band Oceans Ate Alaska. He has gained widespread recognition as one of the most technically proficient drummers in modern metal, known for his jaw-dropping precision, lightning-fast footwork, and complex polyrhythmic patterns.
+        content: `Chris Turner (born February 4, 1992, in Birmingham, United Kingdom) is a British drummer and founding member of progressive metalcore band Oceans Ate Alaska. He has gained widespread recognition as one of the most technically proficient drummers in modern metal, known for his jaw-dropping precision, lightning-fast footwork, and complex polyrhythmic patterns.
 
 Turner's drumming videos have gone viral on social media, showcasing his ability to execute incredibly demanding patterns with apparent ease. His style blends djent rhythms, progressive metal complexity, and metalcore intensity, influencing a new generation of drummers in the heavy music scene.`
       },

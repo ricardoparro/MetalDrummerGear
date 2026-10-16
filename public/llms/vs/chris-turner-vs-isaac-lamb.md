@@ -26,7 +26,7 @@ Oceans Ate Alaska's Chris Turner vs Kublai Khan TX's Isaac Lamb — viral techni
 
 ## Playing Style
 
-Chris Turner (born October 4, 1993, in Birmingham, United Kingdom) co-founded progressive metalcore band Oceans Ate Alaska in 2010, becoming a viral social media sensation for his jaw-dropping precision and complex polyrhythmic patterns across albums including "Lost Isles" (2015), "Hikari" (2017), and "Disparity" (2022). Isaac Lamb co-founded beatdown hardcore band Kublai Khan TX in Sherman, Texas, in 2009 and remains its only drummer, driving crushing, breakdown-driven grooves across five studio albums including "Nomad" (2017), "Absolute" (2019), and "Exhibition of Prowess" (2024).
+Chris Turner (born February 4, 1992, in Birmingham, United Kingdom) co-founded progressive metalcore band Oceans Ate Alaska in 2010, becoming a viral social media sensation for his jaw-dropping precision and complex polyrhythmic patterns across albums including "Lost Isles" (2015), "Hikari" (2017), and "Disparity" (2022). Isaac Lamb co-founded beatdown hardcore band Kublai Khan TX in Sherman, Texas, in 2009 and remains its only drummer, driving crushing, breakdown-driven grooves across five studio albums including "Nomad" (2017), "Absolute" (2019), and "Exhibition of Prowess" (2024).
 
 ## Technique
 
@@ -67,4 +67,4 @@ A: Chris Turner's technical drumming videos, showcasing extreme-speed double bas
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-16 · Source: [MetalForge.io](https://metalforge.io)*

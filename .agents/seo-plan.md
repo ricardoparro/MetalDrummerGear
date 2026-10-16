@@ -12851,3 +12851,48 @@ Also confirmed, externally verified via WebSearch where needed: Mikkey Dee's Kin
 3. File the 3 deferred findings above (Flo Mounier birthdate needs WebSearch first; backend/src/index.js Pearl fabrication; Blake Richardson sticks+era) once bank has room.
 4. Content-gap: both rows (joey jordison drum set, john otto snare) re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-16 (run ~07:08 UTC) — deferred findings + llms/evolution sweep continued: 8 filed, #9169-9176
+
+### Audit summary
+- robots.txt (`api/robots.js` source read): all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged. ✅
+- Sitemap (live curl `sitemap.xml`): 3,161 URLs — unchanged.
+- `public/llms/**/*.md`: 2,024 files live — unchanged.
+- Bank check: 12 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819, 1 held #7981, 8 from the 01:2x UTC run #9153-9160 already triaged per the 06:19 CEO decision — 7 promoted, #9157 held) → true untriaged bank 0. Well under the 45 floor → filed up to 8; filed all 8. Bank at run end: 20.
+
+### Metrics readout
+- GSC 7d (07:07 UTC refresh): 12,432 impr / 183 clicks / 1.47% CTR / pos 7.9. Content-gap rows (impr≥50, CTR<2%): `joey jordison drum set` (77 impr, 1.30%), `john otto snare` (102 impr, 0.98%) — both re-confirmed against standing rulings (known-oscillator line 99/185/242; John Otto SERP-drop watch item line 258, no code lever). No re-action.
+- GA4 7d: 445 active users / 488 sessions / 693 views. Organic 297/488 (60.9%). Top pages: `/`, `/bpm`, `/drummers`, `/drummer/mario-duplantier`, `/studies/metal-tempo-by-subgenre`, `/drummer/matt-greiner`, `/drummer/bill-ward`, `/drummer/eloy-casagrande`, `/drummer/joey-jordison`, `/drummer/john-otto`.
+- Not Monday (Friday) — drum-chair watch already logged this week (per prior run notes). Skipped.
+
+### Method — cleared the "next run" punch list from the prior run, then continued the llms/evolution.md sweep from #9157's 25-candidate list
+Prior run (01:2x UTC) left 3 deferred findings (Flo Mounier birthdate needing external verification, `packages/backend/src/index.js` Flo Mounier Pearl fabrication, Blake Richardson sticks+era) plus the open invitation to continue #9157's 25-candidate verification sweep. Dispatched 6 parallel research agents: 3 for the deferred items, 3 covering 5 of #9157's candidates (abe-cunningham, alex-bent, igor-cavalera, matt-garstka, tomas-haake). All 6 threads returned confirmed, filing-worthy findings — 9 distinct issues' worth, one over the 8-budget, so folded Blake Richardson's two findings (sticks + founding-member framing) into a single batch issue to land exactly at 8.
+
+- **Flo Mounier birthdate** (#9169, batch): both internal values (May 6 and Feb 4, 1974) are wrong — personally ran 2 independent WebSearches (not just trusting the subagent's secondary-citation caveat) and corroborated June 29, 1974 / Tours, France via Drummerszone, Metal-Archives, and Wikidata, converging independently. 9 locations across `birthdays.js` (the usual ground-truth file, itself wrong here — same cross-file-agreement-≠-verification shape as the Jon Dette incident, just on a birthdate instead of a tenure), `extendedBios.js`, 2× `drummerComparisons.js`, `albumArticles/flo-mounier.js`, plus 4 generated `/llms/` mirrors (confirmed generators exist: `generate-llms-drummers.cjs`/`-articles.cjs`/`-vs.cjs` — scoped Roadie to regenerate, not hand-edit, those 4).
+- **Flo Mounier backend gear** (#9170): `packages/backend/src/index.js:1214-1220` (a standalone local-dev Express server, separate from the Vercel `api/` routes) fabricates Pearl drums/Vater sticks, verified Tama/Vic Firth — confirmed issue #8455 only fixed the sibling `api/drummers/index.js`, never this file.
+- **Abe Cunningham** (#9171), **Alex Bent** (#9172), **Igor Cavalera** (#9173), **Matt Garstka** (#9174), **Tomas Haake** (#9175) — 5 of #9157's 25 candidates, all confirmed genuine fabrications (not false positives or stale-but-true eras): the same generic "Pearl drums + Zildjian/Meinl cymbals" template invented for drummers whose real endorsements are Tama, Yamaha, DW, and Sonor respectively. Tomas Haake's case is the most severe — an entire fabricated "switched from Pearl to DW in 2008" narrative spanning 4 era blocks and a bogus FAQ, while `drummerEvolution.js`/`extendedBios.js` already have the correct Sonor/Sabian/Wincent record (confirming this file is a sole hand-authored outlier, exactly per #9157's hypothesis).
+- **Blake Richardson batch** (#9176): `drummerEvolution.js` fabricates a nonexistent Vic Firth 5B stick upgrade (verified: continuous 3A since 2006 — issue #8211 explicitly flagged-but-declined to fix this exact line previously) + wrongly frames him as a "founding drummer" active since 1999 (verified: joined 2005, replacing original drummer Will Goodyear per `bands.js`/`extendedBios.js`) — same error repeated in `public/llms/evolution/blake-richardson.md`'s FAQ.
+
+### Proposals filed this run
+1. #9169 — Flo Mounier birthdate/birthplace batch: both internal values wrong, verified June 29, 1974, Tours, France (9 locations)
+2. #9170 — Flo Mounier: packages/backend/src/index.js fabricates Pearl drums/Vater sticks (verified Tama/Vic Firth)
+3. #9171 — Abe Cunningham: llms/evolution.md invents Pearl/Zildjian/Vater gear (verified Tama/Zildjian-Sabian/Pro-Mark/Remo)
+4. #9172 — Alex Bent: llms/evolution.md invents Pearl drums + Meinl cymbals (verified Tama + Zildjian K Custom Hybrid)
+5. #9173 — Igor Cavalera: llms/evolution.md skips real Yamaha era, invents Pearl/Evans gear
+6. #9174 — Matt Garstka: llms/evolution.md falsely claims gear "unchanged since 2014," hides real 2021 DW/Tama switch
+7. #9175 — Tomas Haake: llms/evolution.md invents entire false Pearl-to-DW gear narrative
+8. #9176 — Blake Richardson batch: fabricated 5B stick upgrade + wrongly framed as founding/pre-2005 BTBAM member
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9169-9176 (this run, 8 fresh)
+- Bank at run end: 20 open `seo-proposal` (excl. the 3 standing umbrellas: 17; most of the rest already CEO-promoted to `ai-fix` and awaiting Roadie pickup, not truly untriaged).
+
+### Next run
+1. Watch #9169-9176 through CEO triage; flag #9169 (needs birthdays.js ground-truth correction + regenerate, not hand-edit, 4 llms mirrors) and #9175 (Tomas Haake needs a narrative rewrite of the whole file, not a find-replace) as needing the most implementer care.
+2. Continue #9157's remaining 20 candidates (abe-cunningham/alex-bent/igor-cavalera/matt-garstka/tomas-haake now done): arin-ilejay, aquiles-priester, daray, derek-roddy, eloy-casagrande, flo-mounier, jon-dette, martin-axenrot, matt-halpern, mike-portnoy, morgan-agren, nick-augusto, nicko-mcbrain, pete-sandoval, ray-luzier, raymond-herrera, scott-travis, shannon-larkin, travis-orbin — note 3 of these (arin-ilejay, nick-augusto, nicko-mcbrain) were flagged by #9157 itself as possibly legitimate stale-era gaps rather than fabrications, verify carefully before assuming the fabrication pattern applies.
+3. Content-gap: both rows (joey jordison drum set, john otto snare) re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-16 00:27 UTC*
 
 ---
+## 2026-10-16 06:19 (cheap pulse — 7/8 proposals verified+promoted, #9153-9156/9158-9160; #9157 held)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:18 UTC (445u/488s/693v 7d; GSC 12,432 impr/183 clicks/1.47% CTR/pos 7.9). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9153-9160, filed 01:23-01:25 UTC), continuing the gear-fact-fabrication sweep now focused on `public/llms/evolution/*.md` (hand-authored, never-regenerated mirror files) vs ground-truth `endorsementNews.js`/`bands.js`.
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents.** #9153 (Joey Jordison — llms/evolution.md fabricates SJC Custom Drums + mistags Ahead as the signature stick deal vs verified Pearl Reference since 2010 / Promark TX515W signature since 2008) VERIFIED-CLEAN, exact lines. #9154 (Mikkey Dee — llms/evolution.md Pearl/Zildjian/Demon Drive fabrication vs verified Sonor/Paiste/Wincent/DW; + drummerEvolution.js King Diamond era years wrong 1988→1985, missing Fatal Portrait/Abigail) VERIFIED-WITH-NOTE — gear fields in that same drummerEvolution.js block were already fixed by #5856, scoped Roadie to years/albums only so it doesn't re-touch already-correct gear. #9155 (Hellhammer — llms/evolution.md invents Pearl/Zildjian vs verified Sonor/Paiste/Vic Firth/Remo/Axis) VERIFIED-CLEAN, confirmed distinct from closed #9113 (different files entirely). #9156 (Brann Dailor — drummerEvolution.js Mastodon formation year 1999 vs verified 2000 [3 independent internal sources]; + llms/evolution.md fabricates Mapex/Gretsch/Zildjian/Vic Firth/Remo/DW incl. 7 fabricated attributed quotes) VERIFIED-CLEAN. #9158 (Charlie Benante — wrongly called Anthrax "founding member," verified joined Sept 1983, band formed 1981) VERIFIED-WITH-NOTE — both source-data locations confirmed complete, but flagged 3 additional GENERATED mirror files (public/llms/comparisons.md, vs/, articles/) carrying the same stale text; Roadie should re-run the llms generator, not just edit source. #9159 (Paul Mazurkiewicz/Cannibal Corpse — album count "seventeen"/"15+" vs independently-reverified 16 studio albums, Chaos Horrific 2023 is the most recent) VERIFIED-WITH-NOTE — issue undercounted 2 more wrong instances in the same comparison entry (drummerComparisons.js:1183/1236), expanded scope. #9160 (Matt Greiner — extendedBios.js self-contradicts its own correct "formation in 2003" prose with a stale `period:'2005-present'`/summary field; birthdate fix from closed #8536 never reached albumArticles/matt-greiner.js or drummerComparisons.js) VERIFIED-WITH-NOTE, same fix-didn't-propagate pattern as #9065. All 6 promoted to `ai-fix` with guidance/scope-correction comments.
+- **#9157 held, NOT promoted** — a detection/tracking meta-issue (25 candidate `llms/evolution/*.md` slugs flagged by a mechanical brand-mismatch scan, no single fix proposed). Spot-checked 4/25: mike-portnoy, abe-cunningham, igor-cavalera are genuine fabrications; nicko-mcbrain is a stale-but-true final era (he did play Sonor most of his career, file just predates the 2019 BDC switch) — confirms per-file verification is required before any fix, exactly as the issue itself says. Not atomic (25 distinct deliverables); posted a comment routing it back to the SEO Agent's normal cadence to produce atomic per-drummer proposals mirroring #9153-9156's shape, rather than forcing 25 unverified fixes into one Roadie PR.
+- **GSC content-gap**: `joey jordison drum set`/`john otto snare` re-matched to standing rulings (known-oscillator / SERP-drop watch item, `learned-patterns.md`). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: all 6 promoted `ai-fix` issues filed today (01:23-01:25 UTC) — nothing crosses the >3-day trigger.
+- **Starvation check**: post-triage backlog 6, bank 1 (held #9157, which doesn't count as eligible) — trips the trigger shape but confirmed non-event: this run's own triage just consumed the batch that existed pre-run, same recurring artifact as prior runs.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 — no new weekly refresh (due ~10-19). Not re-running the same analysis.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 6 (#9153-9156, #9158-9160 promoted)
+- seo-proposal bank (excl. held #7981/#9157, umbrellas): 8 fresh → 0 untriaged (1 held: #9157)
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, 6 promoted (5 with scope-correction notes), 1 held with reasoning. ✅ Founder ideas: inbox empty. ✅ GSC-gap: rows already ruled. ✅ L1/L2/L3: not due yet (due ~10-19). ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9153-9156/#9158-9160 pick up via Roadie; confirm #9154's years-only scope, #9158's llms-generator re-run, #9159's expanded line list, #9160's 2-file birthdate completion.
+2. #9157 routed back to SEO Agent for per-slug atomic re-filing — watch for those follow-ups, don't re-litigate the meta-issue itself.
+3. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, only 2 points above the 25-floor.
+4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
+
 ## 2026-10-16 00:27 (cheap pulse — 7/7 proposals verified+promoted, #9142-9148)
 
 ### Context (≤3 lines)

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-16 01:13 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-16 06:18 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,9 +10,9 @@
 | --- | --- |
 | Active users | 445 |
 | Sessions | 488 |
-| Page views | 691 |
+| Page views | 693 |
 | Engagement rate | 52.87% |
-| Avg session (s) | 99 |
+| Avg session (s) | 100 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -24,15 +24,15 @@
 | /studies/metal-tempo-by-subgenre | 15 | 8 |
 | /drummer/matt-greiner | 10 | 7 |
 | /drummer/bill-ward | 9 | 8 |
+| /drummer/eloy-casagrande | 9 | 10 |
 | /drummer/joey-jordison | 9 | 8 |
 | /drummer/john-otto | 9 | 9 |
-| /drummer/eloy-casagrande | 8 | 10 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 296 | 256 |
-| Direct | 139 | 137 |
+| Organic Search | 297 | 257 |
+| Direct | 140 | 138 |
 | Unassigned | 65 | 64 |
 | Cross-network | 41 | 41 |
 | Referral | 1 | 1 |

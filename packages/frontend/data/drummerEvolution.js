@@ -1853,13 +1853,13 @@ export const DRUMMER_EVOLUTION = {
   },
 
   // ==========================================
-  // Brann Dailor - Mastodon (1999–Present)
+  // Brann Dailor - Mastodon (2000–Present)
   // ==========================================
   'brann-dailor': {
     slug: 'brann-dailor',
     name: 'Brann Dailor',
     band: 'Mastodon',
-    totalYearsActive: '1999-Present',
+    totalYearsActive: '2000-Present',
     profileImage: '/images/drummers/brann-dailor.webp',
     summary: 'Brann Dailor\'s gear evolution mirrors Mastodon\'s rise from Atlanta\'s underground to progressive metal headliners — built on the Tama / Meinl / Vater rig he settled into during the Remission era and has carried, largely unchanged in brand, across two decades with the band.',
 
@@ -1867,8 +1867,8 @@ export const DRUMMER_EVOLUTION = {
       {
         id: 'dailor-2002-remission',
         era: 'Remission Era',
-        years: '1999–2003',
-        startYear: 1999,
+        years: '2000–2003',
+        startYear: 2000,
         endYear: 2003,
         description: 'Mastodon\'s ferocious debut. Dailor\'s jazz-informed, melodic drumming over sludge metal foundations was immediately distinctive, and this era marks his joining the Tama family.',
         albums: ['Lifesblood EP (2001)', 'Remission (2002)'],

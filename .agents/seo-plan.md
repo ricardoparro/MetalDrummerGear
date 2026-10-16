@@ -12939,3 +12939,49 @@ Picked up where the 07:08 UTC run left off. Of the 19 remaining #9157 candidates
 2. Remaining #9157 candidates still needing verification: arin-ilejay, nick-augusto, nicko-mcbrain (the 3 flagged as possibly-legitimate stale-era gaps, not confirmed fabrications — verify carefully, may need an additive-era-update framing instead of a fabrication-fix), pete-sandoval, ray-luzier, raymond-herrera, scott-travis, shannon-larkin, travis-orbin.
 3. Content-gap: both rows (joey jordison drum set, john otto snare) re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-16 (run ~19:xx UTC) — llms/evolution sweep continued: 8 filed, #9200-9207; #9157 down to 3 candidates left
+
+### Audit summary
+- robots.txt, `/llms/*.md` counts: unchanged, no new-page work (freeze in effect).
+- Bank check: 13 open `seo-proposal` at run start (well under the 45 floor) → filed up to 8.
+
+### Metrics readout
+- GSC 7d (19:03 UTC refresh): 15,645 impr / 233 clicks / 1.49% CTR / pos 8.0. Content-gap rows (`joey jordison drum set` 85/1.18%, `john otto snare` 110/0.91%, `john otto snare drum` 52/1.92%) re-confirmed against standing rulings (known-oscillator / SERP-drop watch item) — no re-action.
+- GA4 7d: 445 users / 490 sessions / 705 views. Organic 341/490 (69.6%).
+- Not Monday (Friday) — drum-chair watch skipped, already logged this week.
+
+### Method — continued #9157's remaining-candidate list
+Verified the last 11 unconfirmed #9157 candidates via 11 parallel subagents (mike-portnoy, morgan-agren, nick-augusto, nicko-mcbrain, pete-sandoval, ray-luzier, raymond-herrera, scott-travis, shannon-larkin, travis-orbin, arin-ilejay), each cross-checking the `.md` file's every era against `endorsementNews.js`/`drummerEvolution.js`/`extendedBios.js` ground truth. **All 11 confirmed genuine findings — zero false positives.** 10 are the familiar wholesale-fabrication pattern (fake alternate brand history repeated across every era + FAQ + brand-partnerships table). **nicko-mcbrain is a different class**: not a fabrication, but staleness — ground truth already has his real 2019 Sonor→British Drum Co. switch (`endorsementNews.js:1622,1661-1668`, `drummerEvolution.js:14301-14359`), the .md file just never picked it up. nick-augusto's finding is narrower than the others (2 wrong fields — Vic Firth sticks should be Pro-Mark, Pearl Demon Drive pedal should be DW 9000 — not a full brand-history fabrication).
+
+Filed the 8 highest-profile/highest-severity: mike-portnoy, nicko-mcbrain, scott-travis, ray-luzier, shannon-larkin, pete-sandoval, raymond-herrera, travis-orbin (travis-orbin's issue also folds in a false 2009-2012 Periphery recording-tenure narrative discovered alongside the gear fabrication — same file, co-dependent fix, not scope creep). travis-orbin note: this closes out the gear-fabrication side of #9157; the band-membership/roster question for any of these drummers was not touched (no new roster additions proposed, per the freeze).
+
+**Held back, already fully verified — ready to file next run without re-verification:**
+- **morgan-agren**: `public/llms/evolution/morgan-agren.md` — wholesale Sonor→DW Collector's + Paiste→Zildjian fabrication across 4 of 5 eras (lines 49-169), plus wrong snare heads (Diplomat vs. verified Remo Emperor Coated) and wrong hardware (DW 5000/9000 vs. verified Sonor Giant Step Double Pedal). Verified ground truth: `drummerEvolution.js:9532-9789`, `extendedBios.js:2061-2067` — Sonor Force→SQ2 Beech drums, Paiste 2002→Signature cymbals throughout.
+- **nick-augusto**: `public/llms/evolution/nick-augusto.md` — sticks fabricated as "Vic Firth American Classic 5B" (verified: Pro-Mark Nylon Tip 5B, `drummerEvolution.js:17560,17626`, `endorsementNews.js:3056,3080-3081`, `extendedBios.js:6963,6994`); pedal fabricated as "Pearl Demon Drive" (verified: DW 9000 Series — note `drummerEvolution.js`'s own era-gear objects at 17554-17557/17620-17623 disagree with its own FAQ at 17733 and with `extendedBios.js`, so flag this ground-truth self-inconsistency to the implementer, majority/more-detailed source wins). Both fields repeated in every era + brand-partnerships table + FAQ.
+- **arin-ilejay**: `public/llms/evolution/arin-ilejay.md` — Avenged Sevenfold era fabricates "Mapex Saturn Series" drums/snare/pedal and "Vic Firth American Classic 5A" sticks (verified: DW Collector's Series drums/snare, DW 9000 Series Double Pedal, Promark 5B sticks — `drummerEvolution.js:19284,19359-19360`, `endorsementNews.js:2347-2351`, `extendedBios.js:7884-7890`). Cymbals (Zildjian A Custom) and the pre-A7X/post-A7X "no fixed gear documented" eras are already correct — don't touch those.
+
+This closes out verification on all 25 of #9157's original candidate list (14 already fixed in prior batches + these 11). **#9157 itself should be closed once morgan-agren/nick-augusto/arin-ilejay are filed next run** — nothing will remain unverified.
+
+### Proposals filed this run
+1. #9200 — Mike Portnoy: llms/evolution.md invents Yamaha/DW/Zildjian/Vic Firth history (verified continuous Tama/Sabian/Promark since 1985)
+2. #9201 — Nicko McBrain: llms/evolution.md stale, missing 2019 British Drum Co. switch (ground truth already has it)
+3. #9202 — Scott Travis: llms/evolution.md fabricates Tama/Sabian/Vater current-era gear (verified ddrum/Paiste/Vic Firth since 2018)
+4. #9203 — Ray Luzier: llms/evolution.md fabricates lifelong DW/Paiste narrative (verified Pearl/Sabian/Vic Firth Signature switch in 2013)
+5. #9204 — Shannon Larkin: llms/evolution.md fabricates Tama/Vater Godsmack-era gear + invented bands (verified ddrum/Sabian/Vic Firth, real pre-Godsmack bands)
+6. #9205 — Pete Sandoval: llms/evolution.md invents complete Pearl/Zildjian/Vic Firth/Remo history (verified ddrum, specific models undocumented)
+7. #9206 — Raymond Herrera: llms/evolution.md swaps Tama for fabricated Pearl gear from 1995 onward (verified Tama/DW/Pro-Mark/Attack)
+8. #9207 — Travis Orbin: llms/evolution.md fabricates DW/Meinl gear + false 2009-2012 Periphery recording tenure (verified SJC/Zildjian, left Feb 2009 pre-debut)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9157 (tracking issue — down to 3 remaining candidates, all pre-verified, see above; close once filed)
+- #9200-9207 (this run, 8 fresh)
+
+### Next run
+1. **File morgan-agren, nick-augusto, and arin-ilejay** — all 3 fully verified above, no re-verification needed. This completes #9157's 25-candidate list; close #9157 once filed.
+2. Content-gap: all 3 rows (joey jordison drum set, john otto snare, john otto snare drum) re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

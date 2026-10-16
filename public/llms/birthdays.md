@@ -32,7 +32,6 @@ Source: https://metalforge.io/birthdays
 | Joey Jordison † | Slipknot | April 26, 1975 | Des Moines, Iowa, USA |
 | Nick Augusto | Trivium | May 3, 1987 | Orlando, Florida, USA |
 | Bill Ward | Black Sabbath | May 5, 1948 | Aston, Birmingham, UK |
-| Flo Mounier | Cryptopsy | May 6, 1974 | Montreal, Quebec, Canada |
 | Danny Carey | Tool | May 10, 1961 | Lawrence, Kansas, USA |
 | Gavin Harrison | Porcupine Tree / King Crimson | May 28, 1963 | Harrow, London, UK |
 | Martin Lopez | Opeth / Soen | June 1, 1978 | Oviedo, Spain |
@@ -42,6 +41,7 @@ Source: https://metalforge.io/birthdays
 | Ray Luzier | Korn | June 14, 1970 | Pittsburgh, Pennsylvania, USA |
 | Mario Duplantier | Gojira | June 19, 1981 | Ondres, France |
 | Frost | Satyricon / 1349 | June 28, 1973 | Oslo, Norway |
+| Flo Mounier | Cryptopsy | June 29, 1974 | Tours, France |
 | Tomas Haake | Meshuggah | July 13, 1971 | Örebro, Sweden |
 | Jaska Raatikainen | Children of Bodom | July 14, 1979 | Espoo, Finland |
 | Hannes Grossmann | Obscura / Alkaloid | July 25, 1982 | Regensburg, Germany |

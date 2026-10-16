@@ -11,7 +11,7 @@
 
 Since 1992, Flo Mounier has been pushing the boundaries of what's physically possible behind a drum kit. As the founding drummer and only constant member of Cryptopsy, he's spent three decades defining technical death metal drumming with a combination of jazz-influenced musicality and brutal extreme metal intensity.
 
-Born February 4, 1974, in Montreal, Quebec, Mounier's jazz background sets him apart from other extreme metal drummers. While most blast beat pioneers came from punk or thrash, Flo brought techniques from Buddy Rich and Dave Weckl into the death metal realm, creating something entirely new.
+Born June 29, 1974, in Tours, France, and raised in Montreal, Quebec, Mounier's jazz background sets him apart from other extreme metal drummers. While most blast beat pioneers came from punk or thrash, Flo brought techniques from Buddy Rich and Dave Weckl into the death metal realm, creating something entirely new.
 
 His work on "None So Vile" (1996) is still considered one of the greatest technical achievements in metal drumming. Songs like "Phobophile" and "Slit Your Guts" feature sustained blast beats at 280+ BPM, complex polyrhythmic fills, and a level of precision that seemed impossible. Nearly three decades later, drummers still study these performances.
 
@@ -130,4 +130,4 @@ A: Flo Mounier's Tama Starclassic Maple kit is estimated at $3,500 to $5,000 for
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-16 · Source: [MetalForge.io](https://metalforge.io)*

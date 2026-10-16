@@ -11167,7 +11167,7 @@ export const DRUMMER_EVOLUTION = {
     slug: 'art-cruz',
     name: 'Art Cruz',
     band: 'Lamb of God',
-    totalYearsActive: '2008-Present',
+    totalYearsActive: '2010-Present',
     profileImage: '/images/drummers/art-cruz.webp',
     summary: 'Art Cruz built his chops in the deathcore and industrial-groove underground with Winds of Plague and Prong before being handed one of metal\'s most demanding drum chairs — succeeding Chris Adler in Lamb of God. His gear evolution tracks that journey from developing-years budget kits to the Ludwig/Zildjian/Trick rig powering "Omens" and beyond.',
 
@@ -11175,12 +11175,12 @@ export const DRUMMER_EVOLUTION = {
       {
         id: 'art-cruz-2008-winds-of-plague-prong',
         era: 'Winds of Plague / Prong Era',
-        years: '2008–2018',
-        startYear: 2008,
-        endYear: 2018,
-        description: 'Before Lamb of God, Art Cruz spent a decade in the deathcore and industrial-metal trenches. He powered Winds of Plague\'s symphonic deathcore assault through The Great Stone War, Against the World, and Blood of My Enemy, building the touring stamina and aggressive double-bass stamina that would later define his groove metal approach. A parallel run with Tommy Victor\'s Prong (Songs from the Black Hole, X – No Absolutes, Zero Days) added industrial-metal precision and a different rhythmic vocabulary to his playing.',
+        years: '2010–2019',
+        startYear: 2010,
+        endYear: 2019,
+        description: 'Before Lamb of God, Art Cruz spent most of a decade in the deathcore and industrial-metal trenches. He powered Winds of Plague\'s symphonic deathcore assault through The Great Stone War, Against the World, and Blood of My Enemy, building the touring stamina and aggressive double-bass stamina that would later define his groove metal approach. A subsequent run with Tommy Victor\'s Prong (Songs from the Black Hole, X – No Absolutes, Zero Days) added industrial-metal precision and a different rhythmic vocabulary to his playing.',
         albums: ['The Great Stone War (2009)', 'Against the World (2011)', 'Zero Days (2017)'],
-        tours: ['Winds of Plague touring cycle 2008–2018', 'Prong club and festival dates 2012–2018'],
+        tours: ['Winds of Plague touring cycle 2010–2012', 'Prong club and festival dates 2012–2019'],
         image: null,
 
         gear: {
@@ -11229,9 +11229,9 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined Winds of Plague (2008) — symphonic deathcore touring stamina built here',
+          'Joined Winds of Plague (2010) — symphonic deathcore touring stamina built here',
           'The Great Stone War, Against the World, Blood of My Enemy — Winds of Plague catalog',
-          'Parallel run in Tommy Victor\'s Prong (2012–2018) — Songs from the Black Hole, X – No Absolutes, Zero Days',
+          'Subsequent run in Tommy Victor\'s Prong (2012–2019) — Songs from the Black Hole, X – No Absolutes, Zero Days',
           'No fixed gear endorsements yet — developing preferences across both bands',
         ],
 
@@ -11258,7 +11258,7 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Transitional Ludwig setup',
             details: 'Early Ludwig configuration ahead of permanent endorsement',
-            notes: 'Began moving toward the Ludwig Classic Maple platform he would adopt as a full member.',
+            notes: 'Began moving toward the Ludwig Black Beauty-anchored setup he would adopt as a full member.',
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
@@ -11320,21 +11320,21 @@ export const DRUMMER_EVOLUTION = {
         years: '2019–Present',
         startYear: 2019,
         endYear: 2026,
-        description: 'As Lamb of God\'s full-time drummer, Cruz anchored the band\'s 2020 self-titled album and 2022\'s "Omens" — proving himself a worthy successor to one of metal\'s most iconic drum seats. His settled rig centers on a Ludwig Classic Maple kit for warm, punchy tone, a full Zildjian A Custom cymbal setup for cutting articulation, and a Trick Pro 1-V Bigfoot double pedal driving a single bass drum through Adler\'s complex patterns and his own powerful footwork.',
+        description: 'As Lamb of God\'s full-time drummer, Cruz anchored the band\'s 2020 self-titled album and 2022\'s "Omens" — proving himself a worthy successor to one of metal\'s most iconic drum seats. His settled rig centers on a Ludwig kit anchored by the 14"×6.5" Black Beauty snare for cutting, authoritative crack, a full Zildjian A Custom cymbal setup for cutting articulation, and a Trick Pro 1-V Bigfoot double pedal driving a single bass drum through Adler\'s complex patterns and his own powerful footwork.',
         albums: ['Lamb of God (2020)', 'Omens (2022)'],
         tours: ['Lamb of God World Tour 2020–2022', 'Omens World Tour 2022–2023'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Ludwig Classic Maple',
+            item: 'Ludwig Kit',
             details: '22"×18" kick, 10"/12" rack toms, 14"/16" floor toms',
-            notes: 'Warm, punchy maple shells that complement Lamb of God\'s down-tuned groove metal sound while staying articulate for Cruz\'s functional, song-serving fills.',
+            notes: 'A kit built around the Black Beauty snare\'s cutting crack, suited to Lamb of God\'s down-tuned groove metal sound while staying articulate for Cruz\'s functional, song-serving fills.',
             change: CHANGE_TYPES.SIGNATURE,
           },
           snare: {
-            item: 'Ludwig 14"×6.5" (maple or brass)',
-            details: 'Medium-high tuning for punch and articulation',
+            item: 'Ludwig 14"×6.5" Black Beauty',
+            details: 'Brass shell, medium-high tuning for punch and articulation',
             notes: 'The crack that punctuates Lamb of God\'s syncopated riffs — present and authoritative without losing groove feel.',
             change: CHANGE_TYPES.UPGRADE,
           },
@@ -11374,7 +11374,7 @@ export const DRUMMER_EVOLUTION = {
           'Became Lamb of God\'s official drummer (2019), succeeding Chris Adler',
           'Lamb of God (2020) — first studio album as a full member',
           'Omens (2022) — proved full integration into the band\'s sound and identity',
-          'Settled on Ludwig Classic Maple, Zildjian A Custom, and Trick Pro 1-V Bigfoot as his signature rig',
+          'Settled on a Ludwig kit anchored by the Black Beauty snare, Zildjian A Custom, and Trick Pro 1-V Bigfoot as his signature rig',
         ],
 
         quote: {
@@ -11393,7 +11393,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit does Art Cruz play?',
-        a: 'Art Cruz plays a Ludwig Classic Maple kit — a 22"×18" bass drum with a 10"/12" rack tom and 14"/16" floor tom configuration. The warm maple shells suit Lamb of God\'s down-tuned groove metal sound while staying articulate for his arrangement-focused fills.',
+        a: 'Art Cruz plays a Ludwig kit anchored by the 14"×6.5" Black Beauty snare — a 22"×18" bass drum with a 10"/12" rack tom and 14"/16" floor tom configuration. The Black Beauty\'s cutting brass crack suits Lamb of God\'s down-tuned groove metal sound while staying articulate for his arrangement-focused fills.',
       },
       {
         q: 'What cymbals and pedals does Art Cruz use?',

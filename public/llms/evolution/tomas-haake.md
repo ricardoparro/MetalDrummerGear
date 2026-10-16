@@ -5,12 +5,12 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummers/tomas-haake"
 evolution_url: "https://metalforge.io/drummers/tomas-haake/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-06-25"
+last_updated: "2026-10-16"
 ---
 
 # Tomas Haake Drum Kit Evolution — Complete Timeline
 
-Tomas Haake joined Meshuggah in 1989 and has been the engine of the world's most technically demanding metal band ever since. His gear journey tracks the development of djent and extreme precision drumming — from a budget Sonor kit in Umeå, Sweden, to the DW/Paiste/ddrum hybrid rig that has defined modern metal drumming for two decades. Haake's approach to rhythm — playing in 4/4 over complex polymetric riffs — requires machine-like precision from both player and equipment.
+Tomas Haake joined Meshuggah in 1989 and has been the engine of the world's most technically demanding metal band ever since. His gear journey tracks the development of djent and extreme precision drumming — from a budget Sonor kit in Umeå, Sweden, through a run of Pearl kits, and into the Sonor SQ2 / Sabian / Wincent / Tama Speed Cobra rig he settled into from 2005 onward and has carried, largely unchanged, for two decades. Haake's approach to rhythm — playing in 4/4 over complex polymetric riffs — requires machine-like precision from both player and equipment.
 
 See also: [Tomas Haake drummer profile](/llms/drummers/tomas-haake.md)
 
@@ -119,19 +119,20 @@ Meshuggah's most experimental album — featuring 8-string guitars tuned to F#. 
 **Albums:** Catch Thirtythree (2005)
 **Tours:** Catch 33 Tour
 
-A 47-minute single composition. Haake's most metronomic performance demanded perfect gear reliability. IEM click track integration began during this period.
+A 47-minute single composition. Haake's most metronomic performance demanded perfect gear reliability — and this era marks the start of the Sonor/Sabian/Tama rig that defines his career to this day. He signed with Sonor in 2005 for the SQ2 series, moved to Sabian HHX & AAX cymbals, and switched to Tama's Speed Cobra — two independent single pedals rather than a double pedal, enabling fully independent-foot technique.
 
-- **Drums:** Pearl Reference Series (maple/birch hybrid) — 22" kick, 10"/12"/14"/16" toms *(upgrade)*
-- **Snare:** Pearl Free-Floating 14"×6.5" (continued)
-- **Cymbals:** Paiste Signature Dark Energy (full dark energy setup, continued)
-- **Hardware:** Pearl Demon Drive (continued)
-- **Sticks:** Vic Firth 5B (consistent through decade)
-- **Heads:** Remo Emperor (continued)
-- **Electronics:** ddrum Acoustic Pro + IEM click track system *(upgrade — full click track via IEMs)*
+- **Drums:** Sonor SQ2 (maple shells) — 22" kick, 10"/12"/14"/16" toms *(switch from Pearl — signed with Sonor in 2005)*
+- **Snare:** Sonor SQ2 Steel 14"×6.5" *(switch — his own signature snare model came later)*
+- **Cymbals:** Sabian HHX & AAX — 14" hi-hats, 18"/19" crashes, 22" ride, 20" China *(switch from Paiste)*
+- **Hardware:** Tama Speed Cobra — two independent single pedals, not a double pedal *(switch — enables independent-foot technique)*
+- **Sticks:** Vic Firth 5B (continued — no signature deal yet)
+- **Heads:** Remo Emperor double-ply (continued)
+- **Electronics:** ddrum Acoustic Pro triggers + full IEM click track system *(upgrade — click track via IEMs essential for Meshuggah's precision live approach)*
 - **Estimated kit cost (original):** ~$14,000
 
 **Key developments:**
-- Upgrade to Pearl Reference Series hybrid shells
+- Signed with Sonor for the SQ2 series drums in 2005
+- Switched to Sabian HHX & AAX cymbals and Tama Speed Cobra pedals — the long-term rig begins here
 - Full IEM click track system integrated for Haake's precision live approach
 - Catch 33 demonstrated the apex of Haake's metronomic control
 
@@ -144,31 +145,28 @@ A 47-minute single composition. Haake's most metronomic performance demanded per
 **Albums:** obZen (2008)
 **Tours:** obZen World Tour, Alive DVD
 
-The album that introduced Meshuggah to a new generation — and the era that produced Haake's most iconic gear configuration. He switched to DW Collector's Series and earned both his first signature snare and first signature drumstick.
+The album that introduced Meshuggah to a new generation — built on the Sonor and Sabian rig Haake settled into in 2005. obZen also marks the start of his relationship with Wincent, the brand that would produce his signature stick two years later.
 
-- **Drums:** DW Collector's Series (maple) — 22" kick, 8"/10"/12"/14"/16" toms *(brand switch — warmer maple tone)*
-- **Snare:** DW Edge Tomas Haake Signature 14"×6.5" Steel *(first signature snare)*
-- **Cymbals:** Paiste Signature Dark Energy (maintained through brand switch)
-- **Hardware:** DW 9000 double pedal *(switch — DW 9000 to match DW endorsement)*
-- **Sticks:** Vic Firth Tomas Haake Signature (hickory, medium taper, nylon tip) *(first signature sticks)*
-- **Heads:** Evans G2 / EMAD *(switch to Evans — better durability)*
-- **Electronics:** ddrum Acoustic Pro triggers (maintained through brand switch)
+- **Drums:** Sonor SQ2 (maple shells) — 22" kick, 10"/12"/14"/16" toms (continued)
+- **Snare:** Sonor Tomas Haake Signature 14"×6.5" Steel *(first signature snare, developed with Sonor)*
+- **Cymbals:** Sabian HHX & AAX — 14" hi-hats, 18"/19" crashes, 22" ride, 20" China (continued)
+- **Hardware:** Tama Speed Cobra — two independent single pedals, not a double pedal (continued)
+- **Sticks:** Wincent — hickory, medium taper, nylon tip *(switch — playing Wincent ahead of his 2010 signature deal, not yet a signature model)*
+- **Heads:** Remo Emperor double-ply (continued)
+- **Electronics:** ddrum Acoustic Pro triggers (continued)
 - **Estimated kit cost (original):** ~$20,000
 
 **Key developments:**
-- Brand switch to DW Collector's Series
-- First DW Tomas Haake signature snare
-- First Vic Firth Tomas Haake signature sticks
+- First Sonor Tomas Haake signature snare
+- Began playing Wincent sticks ahead of his 2010 signature deal
 - obZen became Meshuggah's breakthrough to mainstream metal audiences
 
 | Gear | Era Change |
 |---|---|
-| DW Collector's Series | Brand switch from Pearl |
-| DW Tomas Haake Signature Snare | First signature |
-| Vic Firth Tomas Haake Signature | First signature |
-| Evans G2 / EMAD | Brand switch from Remo |
+| Sonor Tomas Haake Signature Snare | First signature |
+| Wincent sticks | Switch, pre-signature |
 
-> "DW gave me the warmth I couldn't get from Pearl for this kind of music. The maple breathes more. obZen needed that." — *DW Drums Artist Profile, 2008*
+> "The patterns on obZen pushed me further than anything before — but the kit itself had been dialed in for years by that point." — *Modern Drummer, 2008*
 
 ---
 
@@ -177,19 +175,19 @@ The album that introduced Meshuggah to a new generation — and the era that pro
 **Albums:** Koloss (2012), The Violent Sleep of Reason (2016)
 **Tours:** Koloss World Tour, Violent Sleep of Reason Tour
 
-Meshuggah's most groove-oriented period. The Violent Sleep of Reason was famously recorded completely live as a band with no click track and no overdubs — the most demanding recording test of Haake's career.
+Meshuggah's most groove-oriented period. The Violent Sleep of Reason was famously recorded completely live as a band with no click track and no overdubs — the most demanding recording test of Haake's career. This era also produced Haake's first signature drumstick.
 
-- **Drums:** DW Collector's Series (refined, custom finish) — 22" kick, 8"/10"/12"/14"/16" toms
-- **Snare:** DW Tomas Haake Signature (updated) *(upgrade — refined model)*
-- **Cymbals:** Paiste Signature Tomas Haake Dark Energy configuration *(signature — Paiste curated setup for Haake)*
-- **Hardware:** DW 9000 double pedal (continued)
-- **Sticks:** Vic Firth Tomas Haake Signature (updated — longer shoulder) *(upgrade)*
-- **Heads:** Evans G2 / EMAD2 *(upgrade — EMAD2 for tighter low-end on live tracking)*
+- **Drums:** Sonor SQ2 (refined, custom finish) — 22" kick, 10"/12"/14"/16" toms
+- **Snare:** Sonor Tomas Haake Signature (updated) *(upgrade — refined model)*
+- **Cymbals:** Sabian HHX & AAX, curated configuration for Haake *(refined — continued Sabian partnership)*
+- **Hardware:** Tama Speed Cobra — two independent single pedals (continued)
+- **Sticks:** Wincent Tomas Haake Signature *(signature — signed with Wincent in 2010, his first signature drumstick)*
+- **Heads:** Remo Emperor double-ply (continued)
 - **Electronics:** ddrum Acoustic Pro + Roland SPD-SX *(upgrade — SPD-SX added for samples)*
 - **Estimated kit cost (original):** ~$22,000
 
 **Key developments:**
-- Paiste curated signature Dark Energy configuration
+- First Tomas Haake signature drumstick, signed with Wincent in 2010
 - Roland SPD-SX added for expanded sample triggering
 - The Violent Sleep of Reason — fully live recorded, most demanding album logistically
 
@@ -202,23 +200,23 @@ Meshuggah's most groove-oriented period. The Violent Sleep of Reason was famousl
 **Albums:** Immutable (2022)
 **Tours:** Immutable World Tour 2022–2023
 
-Haake's most refined setup — every element a long-term partnership, each piece proven across hundreds of shows. The DW 9000XF extended footboard is the key upgrade of this era.
+Haake's most refined setup — every element a long-term partnership, each piece proven across hundreds of shows. Sonor, Sabian, Wincent, Remo, and ddrum all continue relationships that in most cases run back to the mid-2000s.
 
-- **Drums:** DW Collector's Series Custom (maple, custom lacquer) — 22" kick, 8"/10"/12"/14"/16" toms
-- **Snare:** DW Tomas Haake Signature 14"×6.5" (current production model)
-- **Cymbals:** Paiste Signature Dark Energy Suite — 14" hi-hats, 18"/19" crashes, 22" ride, 20" China
-- **Hardware:** DW 9000XF double pedal (extended footboard) *(upgrade — XF accommodates heel-up technique)*
-- **Sticks:** Vic Firth Tomas Haake Signature (current model)
-- **Heads:** Evans G2 / EMAD2 (decade-long consistency)
+- **Drums:** Sonor SQ2 Heavy Beech (24"×18" kick) — 10"/12"/13"/16"/18" toms
+- **Snare:** Sonor Tomas Haake Signature 14"×6.5" (plus Artist Series Bronze) — current production model
+- **Cymbals:** Sabian HHX/AAX — 14" HHX Compression hi-hats, 19"/20"/21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China
+- **Hardware:** Two independent Tama Speed Cobra single pedals, not a double pedal *(Haake plays each foot independently rather than running a traditional double pedal)*
+- **Sticks:** Wincent Tomas Haake Signature (current model)
+- **Heads:** Remo Coated Emperor (decade-plus consistency)
 - **Electronics:** ddrum Acoustic Pro + Roland SPD-SX (refined hybrid system)
 - **Estimated kit cost:** ~$28,000
 
 **Key developments:**
-- DW 9000XF extended footboard for technique refinement
+- Two independent single pedals refined for technique
 - Most stable and refined career setup
-- Immutable world tour confirmed all long-term partnerships
+- Immutable world tour confirmed Sonor, Sabian, Wincent, and ddrum as long-term partnerships
 
-> "Everything in the setup has been field-tested over hundreds of shows. Nothing is accidental. Every piece is there for a reason." — *Vic Firth Artist Profile, 2022*
+> "Everything in the setup has been field-tested over hundreds of shows. Nothing is accidental. Every piece is there for a reason." — *Sonor Artist Profile, 2022*
 
 ---
 
@@ -240,34 +238,37 @@ Haake's most refined setup — every element a long-term partnership, each piece
 ## Gear Brand Partnerships Timeline
 
 - **Sonor Force 2001** — 1989–1993 (budget era)
-- **Pearl Export / Masters / Reference** — 1994–2007 (first major endorsements)
-- **DW Collector's Series** — 2008–present (current primary kit)
-- **Paiste** — throughout career (2002 → Signature → Dark Energy → signature configuration)
+- **Pearl Export / Masters Premium** — 1994–2004 (first major endorsements)
+- **Sonor SQ2** — 2005–present (signed 2005; current primary kit)
+- **Paiste** — 1989–2004 (early career, replaced by Sabian from 2005)
+- **Sabian HHX & AAX** — 2005–present (current cymbal partnership)
+- **Tama Speed Cobra** — 2005–present (two independent single pedals, not a double pedal)
 - **ddrum triggers** — 1998–present (consistent electronic integration)
-- **Vic Firth Tomas Haake Signature** — 2008–present
-- **Evans Heads** — 2008–present
+- **Vic Firth 5B** — 1989–2007 (replaced by Wincent from 2008)
+- **Wincent Tomas Haake Signature** — 2008–present (signature deal since 2010)
+- **Remo Heads** — 1989–present (Ambassador/Emperor, current Coated Emperor)
 
 ---
 
 ## FAQ
 
 **Q: What drum kit does Tomas Haake currently play?**
-A: Haake currently plays a DW Collector's Series custom kit with maple shells — 22" kick drum and 8", 10", 12", 14", and 16" toms. He uses ddrum Acoustic Pro triggers on the kick and snare, and a Roland SPD-SX sampling pad.
+A: Haake currently plays a Sonor SQ2 Heavy Beech kit — a 24"×18" kick drum and 10", 12", 13", 16", and 18" toms. He uses ddrum Acoustic Pro triggers on the kick and snare, and a Roland SPD-SX sampling pad.
 
 **Q: What snare drum does Tomas Haake play?**
-A: Haake plays the DW Tomas Haake Signature snare — a 14"×6.5" steel shell model. This was his first signature snare, developed with DW during the obZen era (2008).
+A: Haake plays the Sonor Tomas Haake Signature snare — a 14"×6.5" steel shell model, alongside a Sonor Artist Series Bronze snare for tonal variety. The signature snare was first developed with Sonor during the obZen era (2008).
 
 **Q: What cymbals does Tomas Haake use?**
-A: Haake plays Paiste Signature Dark Energy cymbals throughout — 14" Dark Energy hi-hats, 18" and 19" crashes, 22" ride, and 20" China. Paiste developed this specific Dark Energy configuration for Haake. He has played Paiste exclusively throughout his career.
+A: Haake plays Sabian HHX and AAX series cymbals — including his signature HHX Compression hi-hats, HHX Stage Crashes, a Legacy Ride, and an AAXtreme China. He has used Sabian since signing with the brand in 2005.
 
 **Q: Does Tomas Haake use triggers?**
 A: Yes — Haake has used ddrum Acoustic Pro triggers on his kick drum since the Chaosphere era (1998). This hybrid approach allows the acoustic drum tone to be reinforced or supplemented by a trigger sample for consistent live sound, especially in Meshuggah's dense low-end sonic environment.
 
-**Q: What double pedal does Tomas Haake play?**
-A: Haake currently uses the DW 9000XF double pedal. The XF ("extended footboard") version provides a longer footboard that accommodates his heel-up playing technique. He switched to DW 9000 during the obZen era (2008) when he moved from Pearl to DW.
+**Q: What pedals does Tomas Haake play?**
+A: Haake uses two separate Tama Speed Cobra single bass drum pedals — not a double pedal. He has played this setup since switching to Tama in 2005, and it gives him full independence between his feet to play different rhythmic patterns simultaneously.
 
-**Q: When did Tomas Haake switch from Pearl to DW?**
-A: Haake played Pearl drums from 1994 (Destroy Erase Improve) through approximately 2007 (Catch Thirtythree). He switched to DW Collector's Series for the obZen era (2008), citing DW maple's warmer, more resonant tone as the key factor.
+**Q: Did Tomas Haake ever switch drum brands?**
+A: Yes — Haake started on a budget Sonor Force 2001 kit (1989–1993), moved to Pearl for reliability and endorsement support (1994–2004), then signed with Sonor again in 2005 for the SQ2 series he has played ever since. Sabian cymbals and Tama Speed Cobra pedals were adopted the same year.
 
 ---
 
@@ -277,5 +278,5 @@ A: Haake played Pearl drums from 1994 (Destroy Erase Improve) through approximat
 - [obZen Album Article](/llms/articles/obzen.md)
 - [Destroy Erase Improve Album Article](/llms/articles/destroy-erase-improve.md)
 - [Meshuggah Band Profile](/llms/bands.md)
-- [DW Drums Brand Guide](/llms/brands/dw.md)
-- [Paiste Cymbals Brand Guide](/llms/brands/paiste.md)
+- [Sonor Drums Brand Guide](/llms/brands/sonor.md)
+- [Sabian Cymbals Brand Guide](/llms/brands/sabian.md)

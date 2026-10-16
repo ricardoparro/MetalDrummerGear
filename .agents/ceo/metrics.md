@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-16 08:21 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-16 12:16 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -9,38 +9,37 @@
 | Metric | Last 7d |
 | --- | --- |
 | Active users | 445 |
-| Sessions | 488 |
-| Page views | 693 |
-| Engagement rate | 52.87% |
+| Sessions | 490 |
+| Page views | 705 |
+| Engagement rate | 63.27% |
 | Avg session (s) | 100 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 45 | 25 |
+| / | 47 | 25 |
 | /bpm | 28 | 2 |
 | /drummers | 27 | 7 |
 | /drummer/mario-duplantier | 21 | 19 |
 | /studies/metal-tempo-by-subgenre | 15 | 8 |
+| /drummer/eloy-casagrande | 10 | 10 |
 | /drummer/matt-greiner | 10 | 7 |
 | /drummer/bill-ward | 9 | 8 |
-| /drummer/eloy-casagrande | 9 | 10 |
 | /drummer/joey-jordison | 9 | 8 |
 | /drummer/john-otto | 9 | 9 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 297 | 257 |
-| Direct | 140 | 138 |
-| Unassigned | 65 | 64 |
-| Cross-network | 41 | 41 |
+| Organic Search | 341 | 299 |
+| Direct | 146 | 144 |
+| Organic Social | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 152 | 133 |
+| United States | 153 | 133 |
 | Singapore | 66 | 66 |
 | China | 37 | 37 |
 | Canada | 27 | 24 |

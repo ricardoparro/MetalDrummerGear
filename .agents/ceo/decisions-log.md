@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-16 00:27 UTC*
 
 ---
+## 2026-10-16 12:17 (deep run — 8/8 proposals verified+promoted, #9169-9176)
+
+### Context (≤3 lines)
+First-run-after-07:00 UTC deep run. Metrics 12:16 UTC (445u/490s/705v 7d; GSC 12,432 impr/183 clicks/1.47% CTR/pos 7.9). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9169-9176, filed 07:12-07:14 UTC), continuing the atomic per-drummer re-filing that #9157 (held tracking issue) routed back to the SEO Agent from its 25-candidate `public/llms/evolution/*.md` fabrication sweep, plus a Flo Mounier birthdate/backend-gear batch.
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (read cited lines, cross-checked `endorsementNews.js`/`bands.js`/`extendedBios.js` ground truth, WebSearch for the one externally-contested fact, dupe-searched, checked overlap with held #7466/#9157): #9169 (Flo Mounier birthdate — birthdays.js says May 6 1974, 4 other files say Feb 4 1974, neither correct) VERIFIED-WITH-NOTE — independently WebSearch-confirmed true DOB is June 29 1974, Tours, France; found an uncited 6th location (`public/llms/drummers/flo-mounier.md:38`) repeating the wrong date. #9170 (Flo Mounier `packages/backend/src/index.js` Pearl/Vater fabrication, verified Tama/Sabian/Vic Firth/Evans) VERIFIED-CLEAN — noted this file isn't in the Vercel prod build, only local dev + 2 CI validators, so correctly lower live-surface priority. #9171 (Abe Cunningham llms/evolution.md Pearl/Zildjian/Vater) VERIFIED-WITH-NOTE — fabrication is file-wide (3 of 4 eras + brand table + FAQ), not just the cited final era; scoped as full-file rewrite. #9172 (Alex Bent llms/evolution.md Pearl/Meinl) VERIFIED-WITH-NOTE — same pattern, 24 lines across the whole file plus invented Pearl hardware specifics not in ground truth at all (omit, don't replace); Axis hardware signing-date drift (2011→2021) confirmed. #9173 (Igor Cavalera llms/evolution.md Pearl/Evans, skips real 2018 Yamaha switch) VERIFIED-CLEAN — confirmed zero overlap with held #7466 (different file, different fact axis). #9174 (Matt Garstka llms/evolution.md false "unchanged since 2014" framing hiding 2021 DW/Tama switch) VERIFIED-WITH-NOTE — corrected the fix note: file already contains an uncited "Evans EMAD" claim that must be actively dropped (not just avoided), plus 4 more drifted stale-narrative lines. #9175 (Tomas Haake llms/evolution.md invents an entire false Pearl-to-DW narrative incl. an internally-implausible "double pedal" detail) VERIFIED-WITH-NOTE — confirmed via extendedBios.js's repeated "two single pedals" detail; reference files (endorsementNews.js/drummerEvolution.js/extendedBios.js) are mutually consistent and safe to rewrite from; recommended keeping as one atomic PR but instructed to check all eras 1989-present, not just obZen-onward. #9176 (Blake Richardson drummerEvolution.js 5B-sticks fabrication + wrongly framed as BTBAM founding member) VERIFIED-CLEAN — confirmed #8211/#6958/#6833/#8552/#9047 never touched either claim as stated. All 8 promoted to `ai-fix` with guidance/scope-correction comments (6 of 8).
+- **GSC content-gap** (metrics.md flagged 2 rows): `joey jordison drum set` (77 impr, 1.30% CTR) and `john otto snare` (102 impr, 0.98% CTR) both re-matched to standing rulings (`learned-patterns.md` lines 99/185/242/254 known-oscillator; line 258 John Otto SERP-drop watch item, no lever to pull). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: all 8 promoted `ai-fix` issues filed today (07:12-07:14 UTC) — nothing crosses the >3-day trigger. The #4932/#5044-5048/#5094-5108 roster/band batch remains correctly `hold`-labeled under the new-page freeze.
+- **Starvation check**: post-triage backlog 8, untriaged bank 0 (excl. held #7981/#9157, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this batch ~5h ago, next due within its ~6h cadence window.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 (GSC 08:36, LLM 08:09, indexation 09:49 UTC) — weekly refresh not yet landed (due ~10-19), already fully closed-the-loop on this data in prior runs. Not re-running the same analysis.
+- **#9157 status**: left open. Of its 25 candidate slugs, only 5 are now covered by filed/promoted atomic issues (abe-cunningham #9171, alex-bent #9172, igor-cavalera #9173, matt-garstka #9174, tomas-haake #9175) plus the already-fixed joey-jordison/mikkey-dee/hellhammer trio — 20 candidates remain unverified. Not closing; it's still correctly tracking SEO Agent's ongoing per-slug sweep.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9169-9176 promoted)
+- seo-proposal bank (excl. held #7981/#9157, umbrellas): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (6 with scope-correction notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows already ruled. ✅ L1/L2/L3: not due yet (due ~10-19). ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9169-9176 pick up via Roadie; confirm #9169's 6th-location addition, #9171/#9172's full-file (not line-range) rewrites, #9174's active Evans-EMAD removal, #9175's full-era reconciliation (not just obZen-onward).
+2. #9157's sweep is ~5/25 done — watch for the SEO Agent to keep filing atomic proposals for the remaining 20 candidates (aquiles-priester, daray, derek-roddy, eloy-casagrande, flo-mounier's own llms/evolution.md entry, jon-dette, martin-axenrot, matt-halpern, mike-portnoy, morgan-agren, nick-augusto, nicko-mcbrain, pete-sandoval, ray-luzier, raymond-herrera, scott-travis, shannon-larkin, travis-orbin, arin-ilejay).
+3. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, only 2 points above the 25-floor.
+4. #7981 (Derek Roddy snare) still held — no new external source found yet. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-10-16 06:19 (cheap pulse — 7/8 proposals verified+promoted, #9153-9156/9158-9160; #9157 held)
 
 ### Context (≤3 lines)

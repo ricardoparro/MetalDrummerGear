@@ -88,7 +88,7 @@ export const articles = {
         "era": "Early Kublai Khan TX Formation",
         "years": "2009–2016",
         "albums": [
-          "Self-titled (2012)",
+          "Youth War EP (2010)",
           "Balancing Survival and Happiness (2014)",
           "Nomad (2017)"
         ],
@@ -137,7 +137,7 @@ export const articles = {
       },
       {
         "question": "What band is Isaac Lamb the drummer for?",
-        "answer": "Isaac Lamb is the founding and only drummer of Kublai Khan TX, a beatdown hardcore and metalcore band formed in Sherman, Texas in 2009. As the sole drummer in the band's history, Lamb has been the rhythmic identity of Kublai Khan TX across all of their releases: their self-titled debut (2012), Balancing Survival and Happiness (2014), Nomad (2017, their Rise Records debut), and Absolute (2019). His groove-first, power-through-restraint drumming philosophy defines the band's sound as fundamentally as any of their guitarists or vocalists. See [Isaac Lamb's full profile and career chronology at MetalForge](/drummer/isaac-lamb)."
+        "answer": "Isaac Lamb is the founding and only drummer of Kublai Khan TX, a beatdown hardcore and metalcore band formed in Sherman, Texas in 2009. As the sole drummer in the band's history, Lamb has been the rhythmic identity of Kublai Khan TX across all of their releases: their self-released Youth War EP (2010), their debut full-length Balancing Survival and Happiness (2014), Nomad (2017, their Rise Records debut), and Absolute (2019). His groove-first, power-through-restraint drumming philosophy defines the band's sound as fundamentally as any of their guitarists or vocalists. See [Isaac Lamb's full profile and career chronology at MetalForge](/drummer/isaac-lamb)."
       }
     ],
     "videos": [

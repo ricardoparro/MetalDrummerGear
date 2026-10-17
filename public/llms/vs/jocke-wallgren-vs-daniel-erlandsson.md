@@ -26,7 +26,7 @@ Amon Amarth's Jocke Wallgren vs Arch Enemy's Daniel Erlandsson — two Swedish m
 
 ## Playing Style
 
-Jocke Wallgren joined Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson, and has anchored the band's viking-metal identity across "Jomsviking" (2016), "Berserker" (2019), and the Grammis-nominated "The Great Heathen Army" (2022) — three albums built around anthemic, riff-locked arrangements and the driving double-bass "gallop" that defines the band's sound. Daniel Erlandsson co-founded Arch Enemy in 1995 and has held the drum chair across ten studio albums, from the raw "Black Earth" (1996) through "Deceivers" (2022), emerging from the same Gothenburg melodic death metal scene that produced At The Gates — where his brother Adrian Erlandsson famously drummed on "Slaughter of the Soul" (1995). Both drummers work within Swedish melodic death metal, but Wallgren serves epic, folk-inflected narrative songwriting while Erlandsson serves Michael Amott's guitar-forward, blast-beat-driven compositions.
+Jocke Wallgren joined Amon Amarth as touring drummer in 2016, replacing longtime drummer Fredrik Andersson, and has anchored the band's viking-metal identity across his studio albums "Berserker" (2019) and the Grammis-nominated "The Great Heathen Army" (2022) — two albums built around anthemic, riff-locked arrangements and the driving double-bass "gallop" that defines the band's sound. Daniel Erlandsson co-founded Arch Enemy in 1995 and has held the drum chair across ten studio albums, from the raw "Black Earth" (1996) through "Deceivers" (2022), emerging from the same Gothenburg melodic death metal scene that produced At The Gates — where his brother Adrian Erlandsson famously drummed on "Slaughter of the Soul" (1995). Both drummers work within Swedish melodic death metal, but Wallgren serves epic, folk-inflected narrative songwriting while Erlandsson serves Michael Amott's guitar-forward, blast-beat-driven compositions.
 
 ## Technique
 
@@ -56,7 +56,7 @@ A: Jocke Wallgren plays a Pearl Reference Pure kit (the specific snare model has
 A: Yes — Daniel and Adrian Erlandsson are brothers, both prominent Swedish melodic death metal drummers who developed their craft in the same Gothenburg-era scene of the early 1990s. Adrian drummed for At The Gates, including on the genre-defining "Slaughter of the Soul" (1995), while Daniel co-founded and has drummed for Arch Enemy since 1995.
 
 **Q: What is Amon Amarth's "gallop" drum pattern?**
-A: The gallop is Amon Amarth's signature double-bass rhythmic figure — two rapid kick drum strokes following a downbeat, creating a forward-rolling, triplet-like momentum. Jocke Wallgren sustains this pattern across full headline sets on tracks like "Twilight of the Thunder God" and "Jomsviking," using a Pearl Demon Drive pedal for the smooth, consistent action the gallop requires.
+A: The gallop is Amon Amarth's signature double-bass rhythmic figure — two rapid kick drum strokes following a downbeat, creating a forward-rolling, triplet-like momentum. Jocke Wallgren sustains this pattern across full headline sets on tracks like "Twilight of the Thunder God" and "Fafner's Gold," using a Pearl Demon Drive pedal for the smooth, consistent action the gallop requires.
 
 ---
 
@@ -67,4 +67,4 @@ A: The gallop is Amon Amarth's signature double-bass rhythmic figure — two rap
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-17 · Source: [MetalForge.io](https://metalforge.io)*

@@ -10861,13 +10861,13 @@ This guide breaks down the technique, gear, and practice approach behind Richard
     readingTime: '10 min',
     intro: {
       title: "The Gallop Behind the Viking Horde",
-      content: `Jocke Wallgren joined Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson and stepping into one of melodic death metal's most demanding drum chairs. Across Jomsviking, Berserker, and The Great Heathen Army, Wallgren has kept Amon Amarth's anthemic Viking-themed sound driving forward while adding his own dynamic sensibility to the band's established identity.
+      content: `Jocke Wallgren joined Amon Amarth as touring drummer in 2016, replacing longtime drummer Fredrik Andersson, and stepped into one of melodic death metal's most demanding drum chairs. Across his studio albums Berserker and The Great Heathen Army, Wallgren has kept Amon Amarth's anthemic Viking-themed sound driving forward while adding his own dynamic sensibility to the band's established identity.
 
 What defines Wallgren is groove-first support. Amon Amarth's songs live and die on the double-bass gallop locking tightly to the guitar riff — the drumming isn't there to show off, it's there to make the riff hit as hard as physically possible. His double bass is powerful and consistent rather than flashy, his backbeat is huge and anthemic, and his dynamic control lets the band's quieter, folk-tinged passages breathe before the choruses explode.
 
 This guide breaks down the technique, gear, and practice approach behind Wallgren's Viking metal drumming — the sound of one of melodic death metal's most reliable rhythmic engines.`,
       keyPoints: [
-        "Amon Amarth drummer since 2016, debuting on Jomsviking",
+        "Amon Amarth drummer since 2016, debuting on Berserker (2019)",
         "Groove-first approach: double bass gallop locked tightly to the riff",
         "Huge, anthemic backbeat built for arena and festival stages",
         "Dynamic control that makes quiet passages set up explosive choruses"
@@ -10909,8 +10909,8 @@ This guide breaks down the technique, gear, and practice approach behind Wallgre
         }
       ],
       keySongs: [
-        { song: "First Kill", album: "Jomsviking", year: 2016, why: "Wallgren's studio debut with the band — establishes the gallop-driven approach" },
-        { song: "Raise Your Horns", album: "Jomsviking", year: 2016, why: "Anthemic chorus built entirely on riff-locked double bass" },
+        { song: "Fafner's Gold", album: "Berserker", year: 2019, why: "Wallgren's studio debut with the band — establishes the gallop-driven approach" },
+        { song: "Shield Wall", album: "Berserker", year: 2019, why: "Anthemic chorus built entirely on riff-locked double bass" },
         { song: "Crack the Sky", album: "Berserker", year: 2019, why: "Shows the dynamic build-and-release structure at its most effective" },
         { song: "Get in the Ring", album: "The Great Heathen Army", year: 2022, why: "Modern Wallgren — huge backbeat and relentless gallop" },
         { song: "Saxons and Vikings", album: "The Great Heathen Army", year: 2022, why: "Demonstrates the groove-first philosophy across a mid-tempo epic" }
@@ -11069,11 +11069,11 @@ This guide breaks down the technique, gear, and practice approach behind Wallgre
       },
       {
         question: "When did Jocke Wallgren join Amon Amarth?",
-        answer: "Wallgren joined Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson, and made his studio debut on Jomsviking (2016). He has since recorded Berserker (2019) and The Great Heathen Army (2022) with the band."
+        answer: "Wallgren joined Amon Amarth as touring drummer in 2016, replacing longtime drummer Fredrik Andersson; session drummer Tobias Gustafsson recorded Jomsviking (2016) just before Wallgren joined. Wallgren made his studio debut on Berserker (2019) and has since recorded The Great Heathen Army (2022) with the band."
       },
       {
         question: "What Amon Amarth albums should I study for drumming?",
-        answer: "Jomsviking (2016) is Wallgren's debut and establishes his gallop-driven approach — start with 'First Kill' and 'Raise Your Horns.' Berserker (2019) shows his dynamic build-and-release structure on 'Crack the Sky.' The Great Heathen Army (2022) is the most refined version of his setup and technique, especially on 'Get in the Ring' and 'Saxons and Vikings.'"
+        answer: "Berserker (2019) is Wallgren's studio debut and establishes his gallop-driven approach — start with 'Fafner's Gold' and 'Shield Wall,' and check out the dynamic build-and-release structure on 'Crack the Sky.' The Great Heathen Army (2022) is the most refined version of his setup and technique, especially on 'Get in the Ring' and 'Saxons and Vikings.' (Jomsviking (2016) predates Wallgren — it was recorded by session drummer Tobias Gustafsson.)"
       }
     ],
     related: {

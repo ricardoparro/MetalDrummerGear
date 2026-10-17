@@ -3317,10 +3317,9 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
         items: [
           { year: '2000s', event: 'Began drumming career in Swedish underground metal scene' },
           { year: '2009', event: 'Joined Swedish Viking/folk metal band Valkyria' },
-          { year: '2016', event: 'Joined Amon Amarth, replacing Fredrik Andersson' },
-          { year: '2016', event: 'Released "Jomsviking" with Amon Amarth, his first album with the band' },
+          { year: '2016', event: 'Joined Amon Amarth as touring drummer for the Jomsviking cycle, replacing Fredrik Andersson; session drummer Tobias Gustafsson had recorded Jomsviking' },
           { year: '2017', event: 'Extensive world touring with Amon Amarth' },
-          { year: '2019', event: 'Released "Berserker" with Amon Amarth' },
+          { year: '2019', event: 'Released "Berserker" with Amon Amarth, his studio debut with the band' },
           { year: '2022', event: 'Released "The Great Heathen Army" with Amon Amarth' },
           { year: '2023', event: 'Continued international touring with Amon Amarth' }
         ]
@@ -3344,8 +3343,7 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
       notableRecordings: {
         title: 'Notable Recordings & Tours',
         albums: [
-          { name: 'Amon Amarth - Jomsviking', year: 2016, label: 'Metal Blade', note: 'First album with Amon Amarth' },
-          { name: 'Amon Amarth - Berserker', year: 2019, label: 'Metal Blade', note: 'Second album with band' },
+          { name: 'Amon Amarth - Berserker', year: 2019, label: 'Metal Blade', note: 'Studio debut with Amon Amarth' },
           { name: 'Amon Amarth - The Great Heathen Army', year: 2022, label: 'Metal Blade', note: 'Most recent studio album' }
         ],
         tours: [
@@ -3396,7 +3394,7 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
           { q: 'What band is Jocke Wallgren in?', a: 'Jocke Wallgren has been the drummer for melodic death metal band Amon Amarth since 2016, replacing Fredrik Andersson.' },
           { q: 'What drumsticks does Jocke Wallgren use?', a: 'Jocke Wallgren uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What drumheads does Jocke Wallgren use?', a: 'Jocke Wallgren uses Evans drumheads across his Pearl Reference Pure kit.' },
-          { q: 'Who did Jocke Wallgren replace in Amon Amarth?', a: 'Jocke Wallgren joined Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson, and made his studio debut on Jomsviking (2016) before recording Berserker (2019) and The Great Heathen Army (2022).' }
+          { q: 'Who did Jocke Wallgren replace in Amon Amarth?', a: 'Jocke Wallgren joined Amon Amarth in 2016 as touring drummer, replacing longtime drummer Fredrik Andersson; session drummer Tobias Gustafsson recorded Jomsviking (2016) before Wallgren made his studio debut on Berserker (2019), followed by The Great Heathen Army (2022).' }
         ]
       },
       sources: {

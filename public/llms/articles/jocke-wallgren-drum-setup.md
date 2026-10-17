@@ -9,9 +9,9 @@
 
 ## Overview
 
-Jocke Wallgren has been the drummer for Amon Amarth since 2016, joining the Swedish melodic death metal institution ahead of Jomsviking and delivering some of the band's most consistently powerful studio and live performances. A native of Sweden with roots in the Gothenburg metal scene, Wallgren brought technical precision and physical authority to a drum chair that demands both — Amon Amarth's anthemic, riff-driven arrangements run on the drummer's ability to lock the low-end double bass pulse to Johan Hegg's vocal delivery and Olavi Mikkeli and Johan Söderberg's interlocking guitar riffs.
+Jocke Wallgren has been the drummer for Amon Amarth since 2016, joining the Swedish melodic death metal institution as touring drummer ahead of the Jomsviking touring cycle and delivering some of the band's most consistently powerful studio and live performances. A native of Sweden with roots in the Gothenburg metal scene, Wallgren brought technical precision and physical authority to a drum chair that demands both — Amon Amarth's anthemic, riff-driven arrangements run on the drummer's ability to lock the low-end double bass pulse to Johan Hegg's vocal delivery and Olavi Mikkeli and Johan Söderberg's interlocking guitar riffs.
 
-His Amon Amarth tenure spans albums including Jomsviking (2016), Berserker (2019), and The Great Heathen Army (2022) — three records across which Wallgren established himself as a foundational part of the band's live and studio sound. The combination of driving double bass work, powerful snare backbeats, and dynamic mid-section restraint that characterized classic Amon Amarth drumming from the Twilight of the Thunder God era carries through each of those records in Wallgren's performances.
+His Amon Amarth studio discography spans Berserker (2019) and The Great Heathen Army (2022) — two records across which Wallgren established himself as a foundational part of the band's live and studio sound; session drummer Tobias Gustafsson had recorded Jomsviking (2016) just before Wallgren joined. The combination of driving double bass work, powerful snare backbeats, and dynamic mid-section restraint that characterized classic Amon Amarth drumming from the Twilight of the Thunder God era carries through each of those records in Wallgren's performances.
 
 His primary setup is built around a Pearl Reference Pure kit, Zildjian A Custom & K Custom cymbals, and a Pearl Demon Drive double bass pedal — a combination tuned for the melodic death metal context: power and presence without sacrificing the rhythmic clarity that Amon Amarth's anthemic arrangements require. This article covers every component of that setup and explains how the gear choices support the specific demands of viking metal drumming at elite touring level.
 
@@ -40,7 +40,7 @@ In the Amon Amarth context, the snare drum must fulfill two distinct functions: 
 
 Jocke Wallgren's snare matches his Pearl Reference Pure kit; the specific snare model and shell material have not been independently verified. Whatever the exact spec, the kit's documented endorsement profile and the size of the drum give the backbeat enough body to feel full and substantial in large rooms while articulating clearly over the bass-heavy foundation the double kick and guitars create. In the live Amon Amarth mix — particularly at the festival headline slots the band regularly occupies — the snare registers across every dynamic range from quiet verse passages to full-power chorus explosions.
 
-The snare is also critical for Wallgren's ghost note work. Amon Amarth's arrangements often employ syncopated rhythmic patterns between the kick and snare that require the snare to produce audible ghost strokes at low dynamics, supporting the polyrhythmic elements that appear in songs like "Destroyer of the Universe" and the groove-driven passages of Jomsviking.
+The snare is also critical for Wallgren's ghost note work. Amon Amarth's arrangements often employ syncopated rhythmic patterns between the kick and snare that require the snare to produce audible ghost strokes at low dynamics, supporting the polyrhythmic elements that appear in songs like "Destroyer of the Universe" and the groove-driven passages of Berserker.
 
 ### Zildjian A Custom & K Custom: Bright Attack, Dark Viking Metal Voice
 
@@ -66,7 +66,7 @@ Every element of the setup serves the dual demands of melodic death metal's iden
 
 For drummers studying Wallgren's approach, the lesson is balance: the melodic death metal context rewards dynamic intelligence as much as technical capability. The gallop is only as powerful as the quiet passage that preceded it; the climactic crash only as effective as the cymbal choice that makes it land with the right character.
 
-Study Jomsviking (2016) for Wallgren's debut and his establishment of the current Amon Amarth drum sound. Study Berserker (2019) for the fully evolved setup applied to the band's most commercially ambitious material. Study The Great Heathen Army (2022) for current-state execution across the full range of Amon Amarth's melodic, anthemic melodic death metal.
+Study Berserker (2019) for Wallgren's studio debut and the establishment of the current Amon Amarth drum sound in full flight (Jomsviking (2016), the record that preceded his joining, was recorded by session drummer Tobias Gustafsson). Study The Great Heathen Army (2022) for current-state execution across the full range of Amon Amarth's melodic, anthemic melodic death metal.
 
 For deeper exploration:
 - **Full drummer profile**: [Jocke Wallgren at MetalForge](/drummer/jocke-wallgren)
@@ -76,7 +76,7 @@ For deeper exploration:
 
 ## Key Facts
 
-- Amon Amarth drummer since 2016 — joined ahead of Jomsviking, now three studio albums in
+- Amon Amarth drummer since 2016 — joined ahead of the Jomsviking tour, two studio albums in (studio debut: Berserker, 2019)
 - Pearl Reference Pure kit — maple shell construction for attack, clarity, and power at arena volumes
 - Zildjian A Custom & K Custom cymbals throughout his Amon Amarth tenure — bright attack paired with dark, complex overtones for melodic death metal
 - Pearl Demon Drive double bass pedal — adjustable-cam chain-drive action for sustained gallop and blast patterns across full live sets
@@ -105,7 +105,7 @@ A: Jocke Wallgren's Amon Amarth drum sound results from three interlocking eleme
 
 **Q: When did Jocke Wallgren join Amon Amarth?**
 
-A: Jocke Wallgren joined Amon Amarth in 2016, replacing Fredrik Andersson who had been the band's drummer since the early 1990s. Wallgren made his recording debut with the band on Jomsviking (2016), the first album of the current lineup. His joining was smooth in terms of sonic continuity — the Amon Amarth drum sound built on driving double-bass and powerful backbeats carried through from the Andersson era into Wallgren's tenure. He has since recorded three full studio albums with the band and participated in their extensive global touring operations, establishing himself as a foundational element of Amon Amarth's current identity. Background: [Jocke Wallgren at MetalForge](/drummer/jocke-wallgren).
+A: Jocke Wallgren joined Amon Amarth as touring drummer in 2016, replacing Fredrik Andersson who had been the band's drummer since the early 1990s. Session drummer Tobias Gustafsson had just recorded Jomsviking (2016) before Wallgren joined; Wallgren made his own recording debut with the band on Berserker (2019). His joining was smooth in terms of sonic continuity — the Amon Amarth drum sound built on driving double-bass and powerful backbeats carried through from the Andersson era into Wallgren's tenure. He has since recorded two full studio albums with the band and participated in their extensive global touring operations, establishing himself as a foundational element of Amon Amarth's current identity. Background: [Jocke Wallgren at MetalForge](/drummer/jocke-wallgren).
 
 **Q: What makes Amon Amarth's drum style distinctive in melodic death metal?**
 
@@ -125,4 +125,4 @@ A: Amon Amarth's drum style is built on the double-bass gallop — a three-note 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-17 · Source: [MetalForge.io](https://metalforge.io)*

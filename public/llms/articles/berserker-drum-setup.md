@@ -12,7 +12,7 @@
 
 ## Overview
 
-Released May 3, 2019 on Metal Blade Records, "Berserker" is Amon Amarth's 11th studio album and the first Wallgren-era record built entirely around original material written with him already established as the band's full-time drummer — Jomsviking (2016) had introduced him and proven his range within a concept-album structure, but Berserker was the record where the band's writing leaned fully into what Wallgren's playing could do.
+Released May 3, 2019 on Metal Blade Records, "Berserker" is Amon Amarth's 11th studio album and Jocke Wallgren's studio debut with the band — he had joined as touring drummer during the Jomsviking (2016) cycle, a record session drummer Tobias Gustafsson recorded, but Berserker was the first time Wallgren was in the studio with Amon Amarth, and the record where the band's writing leaned fully into what his playing could do.
 
 Produced by Jay Ruston (Anthrax, Stone Sour) and tracked at Sphere Studios in North Hollywood, California, Berserker debuted at #1 on the German Albums Chart and reached #47 on the US Billboard 200 — among the band's strongest chart performances to that point. Ruston's approach favored recording songs in full takes rather than isolating instruments piece by piece, letting Wallgren's dynamic sense drive the performance rather than assembling it from edited fragments.
 
@@ -31,7 +31,7 @@ For his prior work establishing the current-era drum sound, see [jocke-wallgren-
 
 ### Pearl Reference Pure: Consistency for the Band's Most Ambitious Record to Date
 
-By Berserker, Wallgren's Pearl Reference Pure setup was fully settled — the same maple shell configuration he had used since Jomsviking, chosen for the sharp attack clarity and projection it provides over Amon Amarth's dense two-guitar arrangements while retaining enough warmth underneath. That consistency mattered on a record where Jay Ruston's production approach recorded songs in complete takes: a kit Wallgren already knew intimately let him focus on performance rather than adapting to new gear mid-session.
+By Berserker, Wallgren's Pearl Reference Pure setup was fully settled — the same maple shell configuration he had used on tour since joining the band in 2016, chosen for the sharp attack clarity and projection it provides over Amon Amarth's dense two-guitar arrangements while retaining enough warmth underneath. That consistency mattered on a record where Jay Ruston's production approach recorded songs in complete takes: a kit Wallgren already knew intimately let him focus on performance rather than adapting to new gear mid-session.
 
 The double 22" x 18" bass drum configuration carries the title track's blast-beat sections and the album's galloping mid-tempo material alike. Blast beats demand a kick that speaks instantly and consistently at high stroke rates; the gallop patterns on tracks like "Crack the Sky" and "Fafner's Gold" need the same drums to sit back into a looser, triplet-driven feel. The Reference Pure's shell depth gives Wallgren both — enough low-end mass for the gallop's physical weight, enough attack definition for the blast sections to stay articulate rather than blurring into noise.
 
@@ -51,11 +51,11 @@ The A Custom hi-hats carry that bright, articulate character into the album's fa
 
 ## Berserker: The Fully-Realized Wallgren-Era Amon Amarth Sound
 
-Berserker is the record where Jocke Wallgren's Amon Amarth tenure stopped being defined by continuity with his predecessor and became its own thing — a drummer three years and two albums into the chair, fully trusted by the band's writing to carry both the extreme-metal intensity of the title track's blast sections and the anthemic groove that has always been Amon Amarth's foundation.
+Berserker is the record where Jocke Wallgren stepped out of his predecessor's shadow and made the Amon Amarth drum chair his own — three years into the touring role, making his studio debut, and fully trusted by the band's writing to carry both the extreme-metal intensity of the title track's blast sections and the anthemic groove that has always been Amon Amarth's foundation.
 
 The gear reflects that maturity rather than reinventing it:
 
-- **Pearl Reference Pure**: The same maple shell configuration Wallgren has used since 2016, proven on his Jomsviking debut and fully adequate for Berserker's most extreme demands
+- **Pearl Reference Pure**: The same maple shell configuration Wallgren has used since joining the band in 2016, now proven in the studio on his Berserker debut and fully adequate for the album's most extreme demands
 - **Zildjian A Custom & K Custom**: The established hybrid cymbal setup carries through the record's heaviest blast-beat material, the A Custom bright attack balanced by the K Custom ride's darker atmosphere
 - **Pearl Demon Drive Double Pedal**: Unchanged across the blast-to-gallop range the title track demands — proof the pedal, not the drummer, was never the limiting factor
 
@@ -70,12 +70,12 @@ For deeper exploration:
 ## Key Facts
 
 - Amon Amarth's 11th studio album, released May 3, 2019 on Metal Blade Records
-- Jocke Wallgren's first fully-original AA studio record written with him as established full-time drummer
+- Jocke Wallgren's studio debut with Amon Amarth — his first fully-original AA studio record, written with him as established full-time touring drummer
 - Produced by Jay Ruston (Anthrax, Stone Sour) at Sphere Studios, North Hollywood
 - Debuted #1 in Germany; peaked #47 on the US Billboard 200
 - Title track alternates extended blast-beat sections with Amon Amarth's signature triplet-based Viking groove
 - Pearl Reference Pure kit and Zildjian A Custom & K Custom cymbals — Wallgren's established touring setup
-- Same Pearl Reference Pure configuration Wallgren has used since Jomsviking
+- Same Pearl Reference Pure configuration Wallgren has used since joining the band in 2016
 - Double 22" x 18" bass drums handle both extended blast sections and galloping mid-tempo grooves
 - Maple shell construction provides attack clarity for blast passages, warmth for Viking groove sections
 - Four-tom spread supports the long fill transitions between the title track's blast and groove sections
@@ -86,7 +86,7 @@ For deeper exploration:
 
 **Q: What drum kit did Jocke Wallgren use on Amon Amarth's Berserker?**
 
-A: Jocke Wallgren recorded Amon Amarth's Berserker (2019) on his established Pearl Reference Pure kit — a maple shell setup with double 22" x 18" bass drums, 10" and 12" rack toms, and 16" and 18" floor toms. The configuration is the same one he had used since Jomsviking (2016), chosen for the attack clarity and warmth needed to cut through Amon Amarth's dense two-guitar arrangements. See the full breakdown in [jocke-wallgren-drum-setup](/articles/jocke-wallgren-drum-setup).
+A: Jocke Wallgren recorded Amon Amarth's Berserker (2019) — his studio debut with the band — on his established Pearl Reference Pure kit — a maple shell setup with double 22" x 18" bass drums, 10" and 12" rack toms, and 16" and 18" floor toms. The configuration is the same one he had used on tour since joining the band in 2016, chosen for the attack clarity and warmth needed to cut through Amon Amarth's dense two-guitar arrangements. See the full breakdown in [jocke-wallgren-drum-setup](/articles/jocke-wallgren-drum-setup).
 
 **Q: What cymbals does Jocke Wallgren play on Berserker?**
 
@@ -113,4 +113,4 @@ A: Berserker was produced by Jay Ruston (Anthrax, Stone Sour) and tracked at Sph
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-17 · Source: [MetalForge.io](https://metalforge.io)*

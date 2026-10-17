@@ -1497,9 +1497,9 @@ Jimmy DeGrasso's 2001 setup behind Megadeth's The World Needs a Hero — recorde
 
 ## Jocke Wallgren — Amon Amarth
 
-**Active:** 2016–present (Amon Amarth); previously Rage, Evergrey | **Iconic era:** Jomsviking (2016)
+**Active:** 2016–present (Amon Amarth); previously Rage, Evergrey | **Iconic era:** Berserker (2019)
 
-Jocke Wallgren's 2016 setup behind Amon Amarth's Jomsviking — his first album after joining the Swedish melodic death metal institution, replacing longtime drummer Fredrik Andersson — captures the gear behind one of Viking metal's most consistently powerful touring drummers.
+Jocke Wallgren's 2016 setup from the year he joined Amon Amarth as touring drummer — replacing longtime drummer Fredrik Andersson — captures the gear behind one of Viking metal's most consistently powerful touring drummers.
 
 ### Evergrey / Rage Era (2009–2015)
 
@@ -1521,10 +1521,10 @@ Jocke Wallgren's 2016 setup behind Amon Amarth's Jomsviking — his first album 
 
 **Price Evolution:**
 - 2009: $2,000 (Evergrey / Rage Era) — Building European touring experience in power and progressive metal on an early Zildjian cymbals / Pearl double pedal setup (signed 2005)
-- 2016: $5,949 (Original Purchase) — Jomsviking recorded — joined Amon Amarth on the Pearl Reference Pure / Zildjian A Custom & K Custom setup established since 2016/2005
-- 2019: $7,000 (Berserker Era) — Same Pearl / Zildjian core carried into Berserker, Demon Drive pedal anchoring the title track's extended blast-beat sections
+- 2016: $5,949 (Original Purchase) — Joined Amon Amarth as touring drummer on the Pearl Reference Pure / Zildjian A Custom & K Custom setup established since 2016/2005 (session drummer Tobias Gustafsson recorded Jomsviking that year)
+- 2019: $7,000 (Berserker Era) — Same Pearl / Zildjian core carried into his studio debut Berserker, Demon Drive pedal anchoring the title track's extended blast-beat sections
 - 2022: $7,600 (The Great Heathen Army Era) — Fully evolved touring configuration for Amon Amarth's Grammis-nominated studio album
-- 2026: $8,120 (Current adjusted) — Inflation-adjusted value of the 2016 Jomsviking-era Pearl Reference Pure / Zildjian A Custom & K Custom setup
+- 2026: $8,120 (Current adjusted) — Inflation-adjusted value of the 2016 Pearl Reference Pure / Zildjian A Custom & K Custom setup established on joining the band
 
 **Sources:**
 - Pearl Reference Pure Catalog (2016)
@@ -3103,7 +3103,7 @@ Waltteri Väyrynen's setup around Opeth's The Last Will and Testament (2024) —
 | Jason Bittner | The War Within (2004) | $4,773 | ~$8,278 |
 | Jay Weinberg | .5: The Gray Chapter (2014) | $6,260 | ~$8,664 |
 | Jimmy DeGrasso | The World Needs a Hero (2001) | $4,671 | ~$8,640 |
-| Jocke Wallgren | Jomsviking (2016) | $5,949 | ~$8,120 |
+| Jocke Wallgren | Berserker (2019) | $5,949 | ~$8,120 |
 | Joey Jordison | Iowa (2001) | $10,885 | ~$20,135 |
 | John Longstreth | Chaosmos (2022) | $4,273 | ~$4,782 |
 | John Otto | Significant Other (1999) | $4,876 | ~$9,588 |

@@ -3324,11 +3324,7 @@ const drummers = [
     photos: [
       '/images/drummers/isaac-lamb.webp' // Original: /images/drummers/isaac-lamb.webp
     ],
-    endorsements: [
-      { name: 'SJC Custom Drums', url: 'https://www.sjcdrums.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
-    ],
+    endorsements: [],
     videos: [
       { title: 'Kublai Khan TX - Drum Cam', youtubeId: 'xBFS1A0zOq4', year: 2023 }
     ]

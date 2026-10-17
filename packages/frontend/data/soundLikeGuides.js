@@ -16739,12 +16739,11 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "SJC Custom Drums ($3,500+)",
-        cymbals: "Full Meinl Classics Custom Dark Selection ($1,600+)",
-        pedals: "DW 9000 Series Double Pedal ($500)",
+        kit: "SJC-tier custom boutique kit ($3,500+)",
+        cymbals: "Meinl Classics Custom Dark-tier cymbal set ($1,600+)",
+        pedals: "Any pro double pedal ($400-600)",
         sticks: "Vic Firth American Classic 2B ($10)",
-        heads: "Full Evans Hydraulic setup ($200)",
-        notes: "Matches the brands Lamb endorses (SJC, Meinl, Vic Firth) for maximum breakdown impact and consistent live reliability; his exact touring rig isn't publicly documented."
+        notes: "A budget-tier approximation for maximum breakdown impact and consistent live reliability, built around the brands Lamb endorses (SJC, Meinl, Vic Firth); his exact touring rig and specific models aren't publicly documented."
       }
     },
     faq: [

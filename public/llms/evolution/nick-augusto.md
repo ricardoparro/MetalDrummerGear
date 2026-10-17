@@ -27,7 +27,7 @@ Before Trivium, Nick Augusto built his playing style on the technical grindcore 
 - **Snare:** Standard steel snares, varied by session
 - **Cymbals:** Varied by session, no fixed brand documented
 - **Hardware:** Standard touring hardware, pedal setup varied by engagement
-- **Sticks:** Vic Firth American Classic (standard models, pre-Trivium era)
+- **Sticks:** Pro-Mark Nylon Tip 5B (standard models, pre-Trivium era)
 - **Heads:** Standard session heads, varied by engagement
 - **Estimated kit cost (original):** ~$2,200
 
@@ -50,8 +50,8 @@ A: Augusto's path into Trivium began unusually: he joined the band as its drum t
 - **Drums:** Pearl Reference Pure — double-bass 6-piece, maple/birch hybrid shells; 22"x18" bass drum (x2), 10"x8"/12"x9" rack toms, 16"x16"/18"x16" floor toms
 - **Snare:** Pearl Reference 14"x6.5" Brass
 - **Cymbals:** Sabian AAX Series — 14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China
-- **Hardware:** Pearl Demon Drive Double Pedal
-- **Sticks:** Vic Firth American Classic 5B
+- **Hardware:** DW 9000 Series Double Pedal
+- **Sticks:** Pro-Mark Nylon Tip 5B
 - **Heads:** Evans G2 Clear (toms), EMAD (kick), Genera HD Dry (snare)
 - **Estimated kit cost (original):** ~$9,654 (inflation-adjusted to 2026: ~$14,062)
 
@@ -74,8 +74,8 @@ A: Augusto carried the same Pearl Reference Pure / Sabian AAX / Evans configurat
 - **Drums:** Pearl Reference Pure *(unchanged from In Waves)*
 - **Snare:** Pearl Reference 14"x6.5" Brass *(unchanged)*
 - **Cymbals:** Sabian AAX Series *(unchanged)*
-- **Hardware:** Pearl Demon Drive Double Pedal *(unchanged)*
-- **Sticks:** Vic Firth American Classic 5B *(unchanged)*
+- **Hardware:** DW 9000 Series Double Pedal *(unchanged)*
+- **Sticks:** Pro-Mark Nylon Tip 5B *(unchanged)*
 - **Heads:** Evans (standard package)
 - **Estimated kit cost (original):** ~$10,200 (inflation-adjusted to 2026: ~$14,700)
 
@@ -99,7 +99,7 @@ A: After leaving Trivium in 2014, Augusto formed his own band Corrosion and has 
 - **Snare:** Varied by engagement, no fixed snare documented
 - **Cymbals:** Varied by engagement, no fixed brand documented
 - **Hardware:** Standard touring hardware, pedal setup varied by engagement
-- **Sticks:** Vic Firth American Classic 5B *(unchanged since Trivium)*
+- **Sticks:** Pro-Mark Nylon Tip 5B *(unchanged since Trivium)*
 - **Heads:** Standard session heads, varied by engagement
 - **Estimated kit cost (original):** ~$3,000
 
@@ -107,7 +107,7 @@ A: After leaving Trivium in 2014, Augusto formed his own band Corrosion and has 
 - Departed Trivium in 2014 and formed his own band, Corrosion
 - Continued touring with acts including Light the Torch
 - Moved from a single dedicated endorsement rig to varied session/touring gear
-- Vic Firth American Classic 5B sticks remain the one documented constant since his Trivium years
+- Pro-Mark Nylon Tip 5B sticks remain the one documented constant since his Trivium years
 
 ---
 
@@ -126,8 +126,8 @@ A: After leaving Trivium in 2014, Augusto formed his own band Corrosion and has 
 
 - **Pearl Reference Pure (drums)** — 2009–2014 (Trivium tenure)
 - **Sabian AAX Series (cymbals)** — 2009–2014 (Trivium tenure)
-- **Vic Firth American Classic 5B (sticks)** — 2005–present (career-long constant)
-- **Pearl Demon Drive Double Pedal (hardware)** — 2009–2014
+- **Pro-Mark Nylon Tip 5B (sticks)** — 2005–present (career-long constant)
+- **DW 9000 Series Double Pedal (hardware)** — 2009–2014
 
 ---
 
@@ -140,7 +140,7 @@ A: Nick Augusto was Trivium's drummer from 2009 to 2014. He initially joined as 
 A: Nick Augusto recorded two studio albums with Trivium: "In Waves" (2011), his studio debut, and "Vengeance Falls" (2013), produced by Gojira's Joe Duplantier, before departing the band in 2014.
 
 **Q: What drum kit did Nick Augusto use in Trivium?**
-A: Nick Augusto played a Pearl Reference Pure kit throughout his Trivium tenure, paired with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX cymbals, and a Pearl Demon Drive double pedal — a rig established for his 2011 studio debut In Waves and carried unchanged through Vengeance Falls (2013).
+A: Nick Augusto played a Pearl Reference Pure kit throughout his Trivium tenure, paired with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX cymbals, and a DW 9000 Series double pedal — a rig established for his 2011 studio debut In Waves and carried unchanged through Vengeance Falls (2013).
 
 **Q: Why did Nick Augusto leave Trivium?**
 A: Nick Augusto departed Trivium in 2014, citing creative differences. He was replaced by Mat Madiro and went on to form his own band, Corrosion, while continuing to tour with acts including Light the Torch.

@@ -20074,7 +20074,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2015–2019',
         startYear: 2015,
         endYear: 2019,
-        description: 'Oceans Ate Alaska released their Fearless Records debut full-length "Lost Isles" in 2015, followed by the critically acclaimed "Hikari" (2017), which blended djent-inspired metalcore with Japanese musical influences and established Turner as one of the most technically proficient drummers in modern metal. It was during this breakthrough stretch that Turner established his documented Tama Starclassic Maple/Birch kit and Meinl Byzance cymbal setup, and his viral technical drumming videos began circulating widely.',
+        description: 'Oceans Ate Alaska released their Fearless Records debut full-length "Lost Isles" in 2015, followed by the critically acclaimed "Hikari" (2017), which blended djent-inspired metalcore with Japanese musical influences and established Turner as one of the most technically proficient drummers in modern metal. It was during this breakthrough stretch that Turner established his documented Tama Starclassic Maple/Birch kit and Meinl Byzance cymbal setup, and released the viral single drum-playthroughs for "Escapist" and "Hansha" (both 2017, from "Hikari") that first brought his technical drumming to a wide audience.',
         albums: ['Oceans Ate Alaska: Lost Isles (2015)', 'Oceans Ate Alaska: Hikari (2017)'],
         tours: ['Hikari World Tour (2017–2019)'],
         image: null,
@@ -20128,7 +20128,7 @@ export const DRUMMER_EVOLUTION = {
           'Released Fearless Records debut Lost Isles (2015)',
           'Released breakthrough album Hikari (2017), blending djent and Japanese musical influences',
           'Established documented Tama Starclassic / Meinl Byzance endorsement during this era',
-          'Viral technical drumming videos began circulating widely',
+          'Released viral drum-playthroughs for Escapist (2017) and Hansha (2017), both from Hikari',
         ],
 
         videos: [],
@@ -20140,7 +20140,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2020–Present',
         startYear: 2020,
         endYear: 2026,
-        description: 'Turner recorded Oceans Ate Alaska\'s "Disparity" (2022), described as the band\'s technical masterwork, and released a run of viral single drum-playthroughs including "Escapist" (2021), "Hansha" (2022), and "Endless Hollow" (2023) that showcased his refined rig in full detail. His setup was upgraded to the Tama S.L.P. 14x5.5" G-Maple snare and a complete Meinl Byzance array, paired with a Tama Speed Cobra 910 Double Pedal for the fast, controlled double-bass response his polyrhythmic patterns demand — a configuration verified via Meinl\'s official artist roster and Turner\'s own channel.',
+        description: 'Turner recorded Oceans Ate Alaska\'s "Disparity" (2022), described as the band\'s technical masterwork, and released the viral single drum-playthrough for "Endless Hollow" (2024) that showcased his refined rig in full detail. His setup was upgraded to the Tama S.L.P. 14x5.5" G-Maple snare and a complete Meinl Byzance array, paired with a Tama Speed Cobra 910 Double Pedal for the fast, controlled double-bass response his polyrhythmic patterns demand — a configuration verified via Meinl\'s official artist roster and Turner\'s own channel.',
         albums: ['Oceans Ate Alaska: Disparity (2022)'],
         tours: ['Disparity World Tour (2022–present)'],
         image: null,
@@ -20192,7 +20192,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Recorded Disparity (2022), described as the band\'s technical masterwork',
-          'Released viral drum-playthroughs for Escapist (2021), Hansha (2022), and Endless Hollow (2023)',
+          'Released the viral drum-playthrough for Endless Hollow (2024)',
           'Upgraded to the Tama S.L.P. 14x5.5" G-Maple snare and a full Meinl Byzance cymbal array',
           'Added the Tama Speed Cobra 910 Double Pedal, his first documented hardware endorsement',
         ],
@@ -20220,7 +20220,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'Why is Chris Turner known for viral drumming videos?',
-        a: 'Turner\'s exceptionally technical, polyrhythmic playing on tracks like Escapist (2021), Hansha (2022), and Endless Hollow (2023) has gone viral for its precision and lightning-fast footwork.',
+        a: 'Turner\'s exceptionally technical, polyrhythmic playing on tracks like Escapist (2017), Hansha (2017), and Endless Hollow (2024) has gone viral for its precision and lightning-fast footwork.',
       },
     ],
 

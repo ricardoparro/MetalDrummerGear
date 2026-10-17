@@ -2519,7 +2519,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: 'Tama Starclassic (developing configuration)',
         to: 'Tama Starclassic Maple/Birch',
-        notes: 'Locked in the full touring Starclassic Maple/Birch kit and Tama S.L.P. G-Maple snare for Hikari, the album that made his playthrough videos go viral',
+        notes: 'Locked in the full touring Starclassic Maple/Birch kit for Hikari, the album that made his playthrough videos go viral',
       },
       {
         year: 2017,
@@ -2550,7 +2550,7 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         brand: 'Tama',
-        notes: 'Carried the same Starclassic Maple/Birch, Byzance Extra Dry, and Speed Cobra 910 setup into Disparity (2022)',
+        notes: 'Carried the same Starclassic Maple/Birch, Byzance Extra Dry, and Speed Cobra 910 setup into Disparity (2022), upgrading to a Tama S.L.P. 14x5.5" G-Maple snare for the album\'s denser polyrhythmic patterns',
       },
     ],
   },

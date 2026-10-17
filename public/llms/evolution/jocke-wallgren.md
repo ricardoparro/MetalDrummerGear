@@ -20,7 +20,7 @@ See also: [Jocke Wallgren drummer profile](/llms/drummers/jocke-wallgren.md) · 
 
 **Tours:** Valkyria regional Swedish shows (2009–2016)
 
-Wallgren (born April 1, 1986, in Karlstad, Sweden) began his drumming career in the Swedish underground metal scene in the 2000s, playing with Rage and Evergrey in the European power/prog metal scene, where he signed with Zildjian and Pearl hardware in 2005, before joining Viking/folk metal band Valkyria in 2009. He spent seven years developing the powerful, groove-oriented style that would later suit Amon Amarth's anthemic Viking metal, during a period for which no single fixed drum, snare, or stick endorsement is publicly documented.
+Wallgren (born June 10, 1985, in Chile, and raised in Stockholm, Sweden) began his drumming career in the Swedish underground metal scene in the 2000s, playing with Rage and Evergrey in the European power/prog metal scene, where he signed with Zildjian and Pearl hardware in 2005, before joining Viking/folk metal band Valkyria in 2009. He spent seven years developing the powerful, groove-oriented style that would later suit Amon Amarth's anthemic Viking metal, during a period for which no single fixed drum, snare, or stick endorsement is publicly documented.
 
 - **Drums:** Various regional kits — no single fixed brand documented
 - **Snare:** Standard steel snares, varied by gig

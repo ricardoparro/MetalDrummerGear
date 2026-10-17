@@ -20469,7 +20469,7 @@ export const DRUMMER_EVOLUTION = {
 
   // ==========================================
   // Jocke Wallgren - Amon Amarth (Drummer Evolution batch 25, Issue #3712)
-  // Swedish underground & Valkyria roots -> Jomsviking/Berserker era -> The Great Heathen Army & present
+  // Swedish underground & Valkyria roots -> joined 2016 (Jomsviking cycle, recorded by session drummer Tobias Gustafsson) -> Berserker studio debut -> The Great Heathen Army & present
   // ==========================================
   'jocke-wallgren': {
     slug: 'jocke-wallgren',
@@ -20477,7 +20477,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Amon Amarth',
     totalYearsActive: '2009-Present',
     profileImage: '/images/drummers/jocke-wallgren.webp',
-    summary: 'Jocke Wallgren rose through Sweden\'s underground metal scene and Viking/folk metal band Valkyria before joining Amon Amarth in 2016, replacing Fredrik Andersson and building the Pearl Reference Pure / Zildjian A Custom & K Custom rig that has powered the band\'s Viking metal assault from "Jomsviking" (2016) through 2022\'s "The Great Heathen Army."',
+    summary: 'Jocke Wallgren rose through Sweden\'s underground metal scene and Viking/folk metal band Valkyria before joining Amon Amarth as touring drummer in 2016, replacing Fredrik Andersson and building the Pearl Reference Pure / Zildjian A Custom & K Custom rig that has powered the band\'s Viking metal assault from his studio debut on "Berserker" (2019) through 2022\'s "The Great Heathen Army."',
 
     eras: [
       {
@@ -20549,12 +20549,12 @@ export const DRUMMER_EVOLUTION = {
 
       {
         id: 'jocke-wallgren-2016-jomsviking-berserker',
-        era: 'Joining Amon Amarth: Jomsviking & Berserker Era',
+        era: 'Joining Amon Amarth: Jomsviking Touring Cycle & Berserker Debut',
         years: '2016–2019',
         startYear: 2016,
         endYear: 2019,
-        description: 'Wallgren joined Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson, and recorded "Jomsviking" (2016), his first album with the band, before extensive world touring in 2017 and recording "Berserker" (2019). It was during this era that he established his documented Pearl Reference Pure kit and Zildjian A Custom & K Custom cymbal rig, giving him the driving power needed for Amon Amarth\'s arena and festival stages.',
-        albums: ['Amon Amarth: Jomsviking (2016)', 'Amon Amarth: Berserker (2019)'],
+        description: 'Wallgren joined Amon Amarth in 2016 as touring drummer, replacing longtime drummer Fredrik Andersson; session drummer Tobias Gustafsson had recorded "Jomsviking" (2016) before Wallgren joined. Wallgren toured extensively on the Jomsviking cycle in 2017 and made his studio debut on "Berserker" (2019). It was during this era that he established his documented Pearl Reference Pure kit and Zildjian A Custom & K Custom cymbal rig, giving him the driving power needed for Amon Amarth\'s arena and festival stages.',
+        albums: ['Amon Amarth: Berserker (2019)'],
         tours: ['Jomsviking World Tour (2016–2017)', 'Berserker World Tour (2019–2020)'],
         image: null,
 
@@ -20574,7 +20574,7 @@ export const DRUMMER_EVOLUTION = {
           cymbals: {
             item: 'Zildjian A Custom & K Custom Series',
             details: '14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride',
-            notes: 'First documented Zildjian relationship, established during the Jomsviking touring cycle.',
+            notes: 'First documented Zildjian relationship, established on joining Amon Amarth for the Jomsviking touring cycle.',
             change: CHANGE_TYPES.NEW,
           },
           hardware: {
@@ -20592,7 +20592,7 @@ export const DRUMMER_EVOLUTION = {
           heads: {
             item: 'Evans',
             details: 'Standard head package',
-            notes: 'Rounded out the Pearl/Zildjian rig documented across the Jomsviking/Berserker era.',
+            notes: 'Rounded out the Pearl/Zildjian rig documented since joining the band, first recorded on Berserker.',
             change: CHANGE_TYPES.NEW,
           },
         },
@@ -20604,10 +20604,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined Amon Amarth in 2016, replacing Fredrik Andersson',
-          'Recorded Jomsviking (2016), his first album with the band',
-          'Extensive world touring in 2017',
-          'Recorded Berserker (2019), establishing the Pearl Reference Pure / Zildjian rig',
+          'Joined Amon Amarth as touring drummer in 2016, replacing Fredrik Andersson',
+          'Session drummer Tobias Gustafsson recorded Jomsviking (2016) before Wallgren joined',
+          'Extensive world touring on the Jomsviking cycle in 2017',
+          'Made his studio debut on Berserker (2019), establishing the Pearl Reference Pure / Zildjian rig',
         ],
 
         videos: [],
@@ -20628,7 +20628,7 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Pearl Reference Pure',
             details: 'Unchanged hybrid-shell configuration',
-            notes: 'No change — the rig established during the Jomsviking/Berserker era remains his documented setup.',
+            notes: 'No change — the rig established on joining the band, first recorded on Berserker, remains his documented setup.',
             change: null,
           },
           snare: {
@@ -20672,7 +20672,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Recorded The Great Heathen Army (2022)',
           'Continued extensive international touring, including Wacken, Download, and Hellfest',
-          'Pearl Reference Pure / Zildjian rig unchanged since the Jomsviking/Berserker era',
+          'Pearl Reference Pure / Zildjian rig unchanged since joining the band, first recorded on Berserker',
           'Remains an integral part of Amon Amarth\'s live and studio work',
         ],
 
@@ -20691,11 +20691,11 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'When did Jocke Wallgren join Amon Amarth?',
-        a: 'Wallgren joined Amon Amarth in 2016, replacing Fredrik Andersson, and recorded Jomsviking (2016) as his first album with the band.',
+        a: 'Wallgren joined Amon Amarth as touring drummer in 2016, replacing Fredrik Andersson; session drummer Tobias Gustafsson had recorded Jomsviking (2016) just before Wallgren joined.',
       },
       {
         q: 'What albums has Jocke Wallgren recorded with Amon Amarth?',
-        a: 'Wallgren has recorded Jomsviking (2016), Berserker (2019), and The Great Heathen Army (2022) with Amon Amarth.',
+        a: 'Wallgren has recorded Berserker (2019) and The Great Heathen Army (2022) with Amon Amarth. Jomsviking (2016) was recorded by session drummer Tobias Gustafsson before Wallgren joined.',
       },
       {
         q: 'What cymbals does Jocke Wallgren use?',
@@ -20704,7 +20704,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Jocke Wallgren Gear Evolution Timeline | Amon Amarth Drum Kit History',
-    metaDescription: 'Explore Jocke Wallgren\'s complete drum gear evolution: from the undocumented Swedish underground and Valkyria years through the Pearl Reference Pure / Zildjian A Custom & K Custom rig behind Amon Amarth\'s Jomsviking (2016), Berserker (2019), and The Great Heathen Army (2022).',
+    metaDescription: 'Explore Jocke Wallgren\'s complete drum gear evolution: from the undocumented Swedish underground and Valkyria years through the Pearl Reference Pure / Zildjian A Custom & K Custom rig behind Amon Amarth\'s Berserker (2019) and The Great Heathen Army (2022).',
   },
 
   // ==========================================

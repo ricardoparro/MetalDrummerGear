@@ -26,7 +26,7 @@ Amon Amarth's Jocke Wallgren vs Anthrax's Charlie Benante: melodic death metal g
 
 ## Playing Style
 
-Charlie Benante joined Anthrax in 1983 and has appeared on all 11 of the band's studio albums, becoming one of thrash metal's founding architects and a pioneer of the blast beat technique on landmark records like "Among the Living" (1987) and "Spreading the Disease" (1985). Jocke Wallgren joined Swedish melodic death metal institution Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson, and has anchored the band's anthemic Viking metal sound on "Jomsviking" (2016) — which debuted at No. 19 on the Billboard 200, cracking the U.S. Top 20 — followed by "Berserker" (2019) and "The Great Heathen Army" (2022).
+Charlie Benante joined Anthrax in 1983 and has appeared on all 11 of the band's studio albums, becoming one of thrash metal's founding architects and a pioneer of the blast beat technique on landmark records like "Among the Living" (1987) and "Spreading the Disease" (1985). Jocke Wallgren joined Swedish melodic death metal institution Amon Amarth as touring drummer in 2016, replacing longtime drummer Fredrik Andersson, shortly after session drummer Tobias Gustafsson recorded "Jomsviking" (2016) — which debuted at No. 19 on the Billboard 200, cracking the U.S. Top 20 — and has anchored the band's anthemic Viking metal sound on his studio debut "Berserker" (2019) and "The Great Heathen Army" (2022).
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: They represent two different heavy metal drumming traditions. Charlie Benante
 A: Charlie Benante plays a Tama Starclassic kit with a Tama Charlie Benante Signature snare and Paiste RUDE & 2002 Series cymbals. Jocke Wallgren plays a Pearl Reference Pure kit (the specific snare model has not been independently verified) and Zildjian A Custom & K Custom Series cymbals.
 
 **Q: Did Amon Amarth's Jomsviking chart well on the Billboard 200?**
-A: Yes — "Jomsviking" (2016), Jocke Wallgren's first album as Amon Amarth's drummer, debuted at No. 19 on the Billboard 200, cracking the U.S. Top 20 and marking one of the band's strongest chart performances.
+A: Yes — "Jomsviking" (2016), recorded by session drummer Tobias Gustafsson just before Jocke Wallgren joined Amon Amarth as touring drummer, debuted at No. 19 on the Billboard 200, cracking the U.S. Top 20 and marking one of the band's strongest chart performances.
 
 **Q: What is Charlie Benante known for besides drumming?**
 A: Beyond his drum work on all 11 Anthrax studio albums, Charlie Benante is Anthrax's main composer, a graphic artist who designed many of the band's album covers and merchandise, and a guitarist who contributed lead guitar to S.O.D.'s "Speak English or Die." In 2022, he filled in on drums for the reunited Pantera.
@@ -67,4 +67,4 @@ A: Beyond his drum work on all 11 Anthrax studio albums, Charlie Benante is Anth
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-17 · Source: [MetalForge.io](https://metalforge.io)*

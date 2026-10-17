@@ -2851,7 +2851,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: null,
         to: 'Pearl',
-        notes: 'Signed with Pearl on joining Amon Amarth for Jomsviking (2016), settling on the Reference Pure single-species maple kit',
+        notes: 'Signed with Pearl on joining Amon Amarth as touring drummer in 2016 for the Jomsviking tour cycle, settling on the Reference Pure single-species maple kit',
       },
       {
         year: 2016,
@@ -2859,7 +2859,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.HEADS,
         from: null,
         to: 'Evans',
-        notes: 'Signed with Evans on joining Amon Amarth for Jomsviking (2016), aligning with the Pearl Reference Pure kit',
+        notes: 'Signed with Evans on joining Amon Amarth as touring drummer in 2016 for the Jomsviking tour cycle, aligning with the Pearl Reference Pure kit',
       },
       {
         year: 2016,

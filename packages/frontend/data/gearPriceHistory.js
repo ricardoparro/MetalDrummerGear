@@ -8373,7 +8373,7 @@ export const GEAR_PRICE_HISTORY = {
   },
 
   // ==========================================
-  // JOCKE WALLGREN - 2016 Jomsviking Era
+  // JOCKE WALLGREN - 2016 Joining Era (studio debut: Berserker, 2019)
   // Pearl Reference Pure / Zildjian A Custom & K Custom Setup
   // ==========================================
   'jocke-wallgren': {
@@ -8381,11 +8381,11 @@ export const GEAR_PRICE_HISTORY = {
     name: 'Jocke Wallgren',
     band: 'Amon Amarth',
     iconicYear: 2016,
-    era: 'Jomsviking Era',
-    albumReference: 'Jomsviking (2016)',
+    era: 'Joining Amon Amarth Era',
+    albumReference: 'Berserker (2019)',
     profileImage: '/images/drummers/jocke-wallgren.webp',
 
-    summary: "Jocke Wallgren's 2016 setup behind Amon Amarth's Jomsviking — his first album after joining the Swedish melodic death metal institution, replacing longtime drummer Fredrik Andersson — captures the gear behind one of Viking metal's most consistently powerful touring drummers. Coming from a background with European power and progressive metal bands Rage and Evergrey, Wallgren had already built the core of his rig years earlier: he signed with Zildjian cymbals and adopted a Pearl double bass pedal setup in 2005, then completed the picture by joining Pearl's drum roster in 2016 on entering Amon Amarth's chair, settling on the Reference Pure single-species maple kit and the Demon Drive double pedal that became his standard. By the time Jomsviking recorded in 2016, that Pearl Reference Pure / Zildjian A Custom & K Custom setup was freshly established. The complete rig cost approximately $5,949 in 2016 dollars, equivalent to roughly $8,120 today after inflation.\n\nEach choice served the specific demands of stepping into Amon Amarth's drum chair. The Reference Pure's multi-core maple/birch shells gave his galloping double-bass figures the sharp attack transient needed to articulate clearly against two guitarists and Johan Hegg's powerful baritone, while the shell's resonance kept the kit from sounding sterile at arena amplification. Zildjian's A Custom and K Custom blend paired the A Custom's bright, cutting projection with the K Custom line's darker, more complex wash, reinforcing Amon Amarth's melodic, epic identity rather than pushing toward harsh aggression — the same cymbal voice Wallgren had built over a decade earlier with Rage and Evergrey. The Demon Drive's smooth chain-drive action gave his relaxed, groove-focused foot technique the consistency to sustain the band's signature gallop across full headline sets.\n\nThat Pearl / Zildjian core proved foundational well beyond Jomsviking: it carried Wallgren through Berserker (2019), where the Demon Drive pedal continued to anchor both the album's extended blast-beat passages and the band's signature gallop, and reached its fully evolved touring form on The Great Heathen Army (2022), a Grammis-nominated record that Kerrang! described as a step back toward the band's melodic death metal origins. His current setup, built around the same Pearl Reference Pure / Zildjian A Custom & K Custom foundation established on signing with Amon Amarth, is valued at approximately $9,095 at current retail — the rig behind four studio albums of Amon Amarth's rhythmic backbone.",
+    summary: "Jocke Wallgren's 2016 setup from the year he joined Amon Amarth as touring drummer — replacing longtime drummer Fredrik Andersson — captures the gear behind one of Viking metal's most consistently powerful touring drummers. Coming from a background with European power and progressive metal bands Rage and Evergrey, Wallgren had already built the core of his rig years earlier: he signed with Zildjian cymbals and adopted a Pearl double bass pedal setup in 2005, then completed the picture by joining Pearl's drum roster in 2016 on entering Amon Amarth's chair, settling on the Reference Pure single-species maple kit and the Demon Drive double pedal that became his standard. Session drummer Tobias Gustafsson recorded Amon Amarth's Jomsviking (2016) just before Wallgren joined; by the time Wallgren made his studio debut on Berserker (2019), that Pearl Reference Pure / Zildjian A Custom & K Custom setup had already been his touring rig for three years. The complete rig cost approximately $5,949 in 2016 dollars, equivalent to roughly $8,120 today after inflation.\n\nEach choice served the specific demands of stepping into Amon Amarth's drum chair. The Reference Pure's multi-core maple/birch shells gave his galloping double-bass figures the sharp attack transient needed to articulate clearly against two guitarists and Johan Hegg's powerful baritone, while the shell's resonance kept the kit from sounding sterile at arena amplification. Zildjian's A Custom and K Custom blend paired the A Custom's bright, cutting projection with the K Custom line's darker, more complex wash, reinforcing Amon Amarth's melodic, epic identity rather than pushing toward harsh aggression — the same cymbal voice Wallgren had built over a decade earlier with Rage and Evergrey. The Demon Drive's smooth chain-drive action gave his relaxed, groove-focused foot technique the consistency to sustain the band's signature gallop across full headline sets.\n\nThat Pearl / Zildjian core, established on joining the band in 2016, proved foundational well beyond the touring years: it anchored his studio debut on Berserker (2019), where the Demon Drive pedal continued to anchor both the album's extended blast-beat passages and the band's signature gallop, and reached its fully evolved touring form on The Great Heathen Army (2022), a Grammis-nominated record that Kerrang! described as a step back toward the band's melodic death metal origins. His current setup, built around the same Pearl Reference Pure / Zildjian A Custom & K Custom foundation established on signing with Amon Amarth, is valued at approximately $9,095 at current retail — the rig behind two studio albums of Amon Amarth's rhythmic backbone.",
 
     setup: {
       drums: {
@@ -8488,10 +8488,10 @@ export const GEAR_PRICE_HISTORY = {
 
     priceEvolution: [
       { year: 2009, price: 2000, label: 'Evergrey / Rage Era', event: 'Building European touring experience in power and progressive metal on an early Zildjian cymbals / Pearl double pedal setup (signed 2005)' },
-      { year: 2016, price: 5949, label: 'Original Purchase', event: 'Jomsviking recorded — joined Amon Amarth on the Pearl Reference Pure / Zildjian A Custom & K Custom setup established since 2016/2005' },
-      { year: 2019, price: 7000, label: 'Berserker Era', event: "Same Pearl / Zildjian core carried into Berserker, Demon Drive pedal anchoring the title track's extended blast-beat sections" },
+      { year: 2016, price: 5949, label: 'Original Purchase', event: 'Joined Amon Amarth as touring drummer on the Pearl Reference Pure / Zildjian A Custom & K Custom setup established since 2016/2005 (session drummer Tobias Gustafsson recorded Jomsviking that year)' },
+      { year: 2019, price: 7000, label: 'Berserker Era', event: "Same Pearl / Zildjian core carried into his studio debut Berserker, Demon Drive pedal anchoring the title track's extended blast-beat sections" },
       { year: 2022, price: 7600, label: 'The Great Heathen Army Era', event: "Fully evolved touring configuration for Amon Amarth's Grammis-nominated studio album" },
-      { year: 2026, price: 8120, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2016 Jomsviking-era Pearl Reference Pure / Zildjian A Custom & K Custom setup' },
+      { year: 2026, price: 8120, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2016 Pearl Reference Pure / Zildjian A Custom & K Custom setup established on joining the band' },
     ],
 
     sources: [
@@ -8503,8 +8503,8 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Jocke Wallgren Drum Setup Cost | Amon Amarth Gear Price History",
-      description: "How much was Jocke Wallgren's Jomsviking-era Pearl Reference Pure drum kit worth? Original ~$5,949 in 2016, inflation-adjusted to ~$8,120 today. Complete gear breakdown from Amon Amarth's touring drummer.",
-      keywords: ['jocke wallgren drum setup cost', 'amon amarth drum kit price', 'pearl reference pure price', 'jocke wallgren gear cost today', 'jomsviking drum kit price', 'jocke wallgren drummer gear cost'],
+      description: "How much was Jocke Wallgren's Pearl Reference Pure drum kit worth? Established in 2016, the year he joined Amon Amarth. Original ~$5,949, inflation-adjusted to ~$8,120 today. Complete gear breakdown from Amon Amarth's touring drummer.",
+      keywords: ['jocke wallgren drum setup cost', 'amon amarth drum kit price', 'pearl reference pure price', 'jocke wallgren gear cost today', 'berserker drum kit price', 'jocke wallgren drummer gear cost'],
     },
   },
 

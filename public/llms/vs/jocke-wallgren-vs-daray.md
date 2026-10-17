@@ -26,7 +26,7 @@ Amon Amarth's Jocke Wallgren vs Vader/Dimmu Borgir's Daray — groove-driven Vik
 
 ## Playing Style
 
-Jocke Wallgren joined Amon Amarth in 2016, replacing Fredrik Andersson and bringing fresh energy to the band's Viking-themed melodic death metal through powerful double bass patterns and groove-oriented playing. Daray built his name in Poland's death metal scene with Vader (2006-2016) before joining Norwegian symphonic black metal titans Dimmu Borgir in 2008, combining extreme speed, technical precision, and theatrical flair.
+Jocke Wallgren joined Amon Amarth in 2016, replacing Fredrik Andersson and bringing fresh energy to the band's Viking-themed melodic death metal through powerful double bass patterns and groove-oriented playing. Daray built his name in Poland's death metal scene with Vader (2004-2008) before joining Norwegian symphonic black metal titans Dimmu Borgir in 2008, combining extreme speed, technical precision, and theatrical flair.
 
 ## Technique
 
@@ -38,7 +38,7 @@ Jocke plays a Pearl Reference Pure kit with a 14x6.5" brass Pearl Reference snar
 
 ## Influence & Legacy
 
-Wallgren has driven Amon Amarth's rise into one of melodic death metal's biggest global touring acts since 2016, carrying the band's Viking metal sound across "Jomsviking" and "Berserker." Daray proved a single drummer could hold down two of extreme metal's most demanding chairs at once, bringing Vader's technical death metal speed into Dimmu Borgir's symphonic black metal machine.
+Wallgren has driven Amon Amarth's rise into one of melodic death metal's biggest global touring acts since joining in 2016, carrying the band's Viking metal sound across his studio albums "Berserker" and "The Great Heathen Army." Daray proved a single drummer could hold down two of extreme metal's most demanding chairs at once, bringing Vader's technical death metal speed into Dimmu Borgir's symphonic black metal machine.
 
 ## Verdict
 
@@ -53,7 +53,7 @@ A: Both are accomplished drummers from different corners of extreme metal. Jocke
 A: Jocke Wallgren's signature is powerful, groove-oriented double bass patterns that drive Amon Amarth's galloping riffs. Daray's signature is rapid-fire blast-beat double bass work delivered through a Pearl Demon Drive double pedal, applied across both stripped-down death metal and orchestrated black metal.
 
 **Q: What bands have Jocke Wallgren and Daray played in?**
-A: Jocke Wallgren has drummed for Swedish melodic death metal band Amon Amarth since 2016, replacing Fredrik Andersson. Daray played in Polish death metal band Vader from 2006 to 2016 and has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008.
+A: Jocke Wallgren has drummed for Swedish melodic death metal band Amon Amarth since 2016, replacing Fredrik Andersson. Daray played in Polish death metal band Vader from 2004 to 2008 and has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008.
 
 **Q: What gear do Jocke Wallgren and Daray use?**
 A: Jocke Wallgren plays a Pearl Reference Pure kit (the specific snare model has not been independently verified) and Zildjian A Custom & K Custom Series cymbals, driven by a Pearl Demon Drive double pedal. Daray plays a Tama Starclassic Performer B/B kit with a S.L.P. Black Brass LBR1465 snare and Paiste RUDE & 2002 Series cymbals, driven by a Pearl Demon Drive double pedal.
@@ -67,4 +67,4 @@ A: Jocke Wallgren plays a Pearl Reference Pure kit (the specific snare model has
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-17 · Source: [MetalForge.io](https://metalforge.io)*

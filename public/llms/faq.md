@@ -1286,7 +1286,7 @@ A: Jocke Wallgren uses Evans drumheads across his Pearl Reference Pure kit.
 
 **Q: Who did Jocke Wallgren replace in Amon Amarth?**
 
-A: Jocke Wallgren joined Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson, and made his studio debut on Jomsviking (2016) before recording Berserker (2019) and The Great Heathen Army (2022).
+A: Jocke Wallgren joined Amon Amarth in 2016 as touring drummer, replacing longtime drummer Fredrik Andersson; session drummer Tobias Gustafsson recorded Jomsviking (2016) before Wallgren made his studio debut on Berserker (2019), followed by The Great Heathen Army (2022).
 
 ### Tim Yeung
 

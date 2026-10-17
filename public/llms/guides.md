@@ -2249,8 +2249,8 @@ Wallgren plays matched grip with a powerful, relaxed stroke built for endurance 
 
 ### Key Songs to Study
 
-- *First Kill* (Jomsviking, 2016) — Wallgren's studio debut with the band — establishes the gallop-driven approach
-- *Raise Your Horns* (Jomsviking, 2016) — Anthemic chorus built entirely on riff-locked double bass
+- *Fafner's Gold* (Berserker, 2019) — Wallgren's studio debut with the band — establishes the gallop-driven approach
+- *Shield Wall* (Berserker, 2019) — Anthemic chorus built entirely on riff-locked double bass
 - *Crack the Sky* (Berserker, 2019) — Shows the dynamic build-and-release structure at its most effective
 - *Get in the Ring* (The Great Heathen Army, 2022) — Modern Wallgren — huge backbeat and relentless gallop
 - *Saxons and Vikings* (The Great Heathen Army, 2022) — Demonstrates the groove-first philosophy across a mid-tempo epic
@@ -2274,10 +2274,10 @@ A: Wallgren plays a Pearl Reference Pure kit, including the matching maple/birch
 A: Tune the kick for punchy, defined attack rather than boom, keep the snare bright and minimally muffled for cut, and prioritize locking every kick pattern to the guitar riff before adding fills. The Viking gallop only works when it's rhythmically identical to the riff it's supporting — practice transcription before speed.
 
 **Q: When did Jocke Wallgren join Amon Amarth?**
-A: Wallgren joined Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson, and made his studio debut on Jomsviking (2016). He has since recorded Berserker (2019) and The Great Heathen Army (2022) with the band.
+A: Wallgren joined Amon Amarth as touring drummer in 2016, replacing longtime drummer Fredrik Andersson; session drummer Tobias Gustafsson recorded Jomsviking (2016) just before Wallgren joined. Wallgren made his studio debut on Berserker (2019) and has since recorded The Great Heathen Army (2022) with the band.
 
 **Q: What Amon Amarth albums should I study for drumming?**
-A: Jomsviking (2016) is Wallgren's debut and establishes his gallop-driven approach — start with 'First Kill' and 'Raise Your Horns.' Berserker (2019) shows his dynamic build-and-release structure on 'Crack the Sky.' The Great Heathen Army (2022) is the most refined version of his setup and technique, especially on 'Get in the Ring' and 'Saxons and Vikings.'
+A: Berserker (2019) is Wallgren's studio debut and establishes his gallop-driven approach — start with 'Fafner's Gold' and 'Shield Wall,' and check out the dynamic build-and-release structure on 'Crack the Sky.' The Great Heathen Army (2022) is the most refined version of his setup and technique, especially on 'Get in the Ring' and 'Saxons and Vikings.' (Jomsviking (2016) predates Wallgren — it was recorded by session drummer Tobias Gustafsson.)
 
 ---
 

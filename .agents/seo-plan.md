@@ -13073,3 +13073,44 @@ Dispatched 8 independent verification sub-agents (one per candidate), each re-re
 3. Chris Turner: unresolved possible `endorsementNews.js` vs `drummerEvolution.js` G-Maple adoption-year tension — needs its own verification pass before filing, not yet done.
 4. Content-gap: both rows (joey jordison drum set, john otto snare) re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+
+---
+
+## 2026-10-17 (run ~13:xx UTC) — carryover fixes filed + new roster-sweep round: 6 filed, #9242-9247
+
+### Audit summary
+- robots.txt (live curl): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/llms/*.md`: 32 top-level + 72 `/llms/drummers/*.md` + 72 `/llms/evolution/*.md` — unchanged, no new-page work (freeze in effect).
+- Bank check: 12 open `seo-proposal` at run start (well under 45 floor) → filed 6, ending at 18.
+- #9236 (Nick Augusto residual, filed by a concurrent process this morning) confirmed merged/closed already.
+
+### Metrics readout
+- GSC 7d (13:03 UTC refresh): 13,588 impr / 201 clicks / 1.48% CTR / pos 8.1. Content-gap rows (`joey jordison drum set` 67/1.49%, `john otto snare` 92/1.09%) re-confirmed against standing rulings (known-oscillator / SERP-drop watch item) — no re-action.
+- GA4 7d: 446 users / 494 sessions / 729 views. Organic 357/494 (72.3%).
+- Not Monday (Saturday) — drum-chair watch skipped, next due Monday 2026-10-19, group 3.
+
+### Method
+Picked up the prior run's (07:xx UTC) two fully-verified carryover candidates (adrian-erlandsson, tim-yeung/genreGearGuides.js) and independently re-verified both directly against current file state before filing — both still live, tim-yeung's fabrication turned out larger than previously scoped (7 locations across one "Best Bass Drums for Deathcore" guide, not just the ~2-line estimate). Also closed out the prior run's open Chris Turner thread (G-Maple adoption-year tension between `endorsementNews.js` and `drummerEvolution.js`): WebSearched the 3 playthrough singles drummerEvolution.js's Disparity-era block credits to 2021-2023 and found all 3 are externally wrong (Escapist/Hansha are 2017 Hikari-era tracks per Wikipedia/Bandcamp, Endless Hollow is Jan 2024 not 2023) — filed alongside the still-unresolved G-Maple year contradiction rather than guessing which file is right.
+
+Then ran a fresh lowest-issue-count roster-sweep round via subagent (skipping the 13 drummers already checked this week: alex-rudinger, jimmy-degrasso, waltteri-vayrynen, nick-barker, john-longstreth, isaac-lamb, ryan-van-poederooyen, adrian-erlandsson, kevin-talley, chris-turner, navene-koperweis, jocke-wallgren, tim-yeung). Surfaced jon-dette, morgan-agren, and richard-christy as the next lowest-audited tier with genuine findings; independently spot-checked every claim (file + line + ground truth) myself before filing rather than trusting the subagent report verbatim — one of its initial flags (Jon Dette 2013 Iced Earth claim) was a false positive the subagent itself caught and discarded during verification (externally confirmed via Wikipedia/Blabbermouth that the 2013 stint is real, `bands.js` is just incomplete there, not fabricated).
+
+### Proposals filed this run
+1. #9242 — Adrian Erlandsson api/drummers/index.js sticks field drops signature framing, contradicting own prose + endorsementNews.js (carryover from 07:xx run)
+2. #9243 — Tim Yeung genreGearGuides.js "Best Bass Drums for Deathcore" guide fabricates Pearl/Demon Drive rig, 7 locations (carryover from 07:xx run, scope expanded on re-verification)
+3. #9244 — Chris Turner drummerEvolution.js Disparity-era misdates 3 playthrough singles by 3-6 years + unresolved G-Maple year contradiction with endorsementNews.js
+4. #9245 — Jon Dette drummerComparisons.js fabricates "Bostaph recovered from injury" as the reason for his 1996-97 Slayer stint, 4 locations/2 comparison pairs (verified: Bostaph left for his side project Truth About Seafood)
+5. #9246 — Morgan Ågren batch: fabricated "Sonor Designer Series" in api/drummers/index.js, self-contradicting DW/Zildjian history in gear-history.md (contradicted by the same file's own price table), 3-way birthdate split
+6. #9247 — Richard Christy batch: 3-way birthdate split (albumArticles.js Feb 1 / soundLikeGuides.js June 1 vs verified April 1 1974) + wrong Iced Earth tenure end-year (2004 vs verified 2007) in a drummerComparisons.js FAQ
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9242-9247 (this run, 6 fresh)
+- Bank at run end: 18 open `seo-proposal` (excl. the 3 standing umbrellas: 15; most of the rest already CEO-promoted to `ai-fix` and awaiting Roadie pickup, not truly untriaged).
+
+### Next run
+1. Watch #9242-9247 pick up via Roadie; flag #9244 (Chris Turner) as needing implementer judgment on the G-Maple year — the issue intentionally doesn't prescribe which file is right, just that they must agree.
+2. Continue the lowest-issue-count roster sweep: next tier beyond jon-dette/morgan-agren/richard-christy not yet identified — run a fresh ranking pass next time rather than reusing this week's skip list verbatim (it's getting long).
+3. Content-gap: both rows (joey jordison drum set, john otto snare) re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

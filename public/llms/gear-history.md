@@ -2174,25 +2174,25 @@ Morgan Ågren's 2012 setup behind the Devin Townsend Project's Epicloud captures
 
 ### Zappa Tour / Early Mats/Morgan Era (1988–1998)
 
-- **Kit:** Early professional kit, developing toward DW configuration
+- **Kit:** Early professional kit, pre-Sonor configuration
 - **Snare:** Standard maple snare
-- **Cymbals:** Early Zildjian setup
-- **Notable:** Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 in Umeå, Sweden, and was personally selected by Frank Zappa to tour with his band in 1988 at just 20 years old — one of the most credible validation stamps available in technically demanding music. He began working with DW on custom shell specifications around 1990.
+- **Cymbals:** Developing Paiste setup
+- **Notable:** Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 in Umeå, Sweden, and was personally selected by Frank Zappa to tour with his band in 1988 at just 20 years old — one of the most credible validation stamps available in technically demanding music. The Paiste cymbal relationship, along with Vic Firth sticks and Remo heads, took hold around this same time.
 
 ### International Recognition Era (1998–2006)
 
-- **Kit:** DW Collector's Series (expanded) — 22" kick, 8"/10"/12"/14"/16" toms
-- **Snare:** DW Collector's 14"x6.5" Maple
-- **Cymbals:** Zildjian K Custom Series — 13" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China
+- **Kit:** Pre-Sonor professional kit, carried over from the Zappa Tour era
+- **Snare:** Standard maple snare
+- **Cymbals:** Paiste Signature Series — 14" hi-hats, 18"/20" crashes, 22" ride, 18" 2002 China
 - **Original setup cost (2001):** ~$11,448
 - **Inflation-adjusted to 2026:** ~$21,177
 
 ### Modern Hybrid Era (2015–present)
 
-- **Kit:** DW Collector's Series Custom (refined) — 22" kick, 8"/10"/12"/14"/16" toms
-- **Snare:** DW Collector's 14"x5" + secondary piccolo
-- **Cymbals:** Zildjian K Custom / Constantinople / A Custom mix
-- **Notable:** Devin Townsend specifically sought Ågren for the Devin Townsend Project in 2012, recognizing his ability to navigate odd-time signatures and metric modulations without losing feel. His setup has since evolved into a fully realized hybrid acoustic/electronic configuration with Roland SPD-SX sampling and an expanded trigger array, while remaining active with the Mats/Morgan Band.
+- **Kit:** Sonor SQ2 Beech custom shell configuration
+- **Snare:** Sonor SQ2 Beech 14"x5.5" Maple
+- **Cymbals:** Paiste Signature / 2002 Series mix — 14" Signature Heavy Hi-Hats, 18"/20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China
+- **Notable:** Devin Townsend specifically sought Ågren for the Devin Townsend Project in 2012, recognizing his ability to navigate odd-time signatures and metric modulations without losing feel. Signing to Sonor for the Epicloud (2012) sessions brought the SQ2 Beech kit and Giant Step double pedal alongside the existing Paiste cymbal setup, a configuration he has carried through Z² (2014) and beyond while remaining active with the Mats/Morgan Band.
 
 **Price Evolution:**
 - 1988: $1,500 (Zappa Tour Era) — Selected by Frank Zappa to tour at age 20, playing a modest professional kit

@@ -3423,7 +3423,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: null,
         to: 'Tama',
-        notes: 'Established his Tama Starclassic Bubinga kit with Erik Rutan\'s Hate Eternal on "I, Monarch" (2005), the setup he later carried unchanged into Divine Heresy and Morbid Angel',
+        notes: 'Established his Tama Starclassic Bubinga kit in 2005, the setup he later carried into Divine Heresy (2006) and Morbid Angel (2010-2015)',
       },
       {
         year: 2005,
@@ -3431,7 +3431,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.CYMBALS,
         from: null,
         to: 'Sabian',
-        notes: 'Paired the Tama kit with Sabian AAX/HHX cymbals starting on Hate Eternal\'s "I, Monarch" (2005), the same combination he used on Divine Heresy\'s "Bleed the Fifth" (2007) and Morbid Angel\'s "Illud Divinum Insanus" (2011)',
+        notes: 'Paired the Tama kit with Sabian AAX/HHX cymbals starting in 2005, the same combination he used on Divine Heresy\'s "Bleed the Fifth" (2007) and Morbid Angel\'s "Illud Divinum Insanus" (2011)',
       },
       {
         year: 2011,
@@ -3446,7 +3446,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.STICKS,
         from: null,
         to: 'Vic Firth',
-        notes: 'Adopted Vic Firth 5B sticks alongside his Tama/Sabian rig starting on Hate Eternal\'s "I, Monarch" (2005), the same pairing he carried into Divine Heresy and Morbid Angel',
+        notes: 'Adopted Vic Firth 5B sticks alongside his Tama/Sabian rig starting in 2005, the same pairing he carried into Divine Heresy and Morbid Angel',
       },
       {
         year: 2005,
@@ -3454,7 +3454,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.HEADS,
         from: null,
         to: 'Remo',
-        notes: 'Set up his Tama Starclassic Bubinga kit with Remo Powerstroke 3 heads starting on Hate Eternal\'s "I, Monarch" (2005), the same heads he used into Morbid Angel',
+        notes: 'Set up his Tama Starclassic Bubinga kit with Remo Powerstroke 3 heads starting in 2005, the same heads he used into Morbid Angel',
       },
       {
         year: 2005,
@@ -3462,7 +3462,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.HARDWARE,
         from: null,
         to: 'Tama',
-        notes: 'Drove his Tama Starclassic Bubinga kit with a Tama Speed Cobra 910 double pedal starting on Hate Eternal\'s "I, Monarch" (2005), the same pedal he carried into Morbid Angel',
+        notes: 'Drove his Tama Starclassic Bubinga kit with a Tama Speed Cobra 910 double pedal starting in 2005, the same pedal he carried into Morbid Angel',
       },
     ],
   },

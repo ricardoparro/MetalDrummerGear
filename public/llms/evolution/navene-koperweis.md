@@ -39,13 +39,13 @@ Koperweis started drumming at age 11 and cut his teeth professionally in the Bay
 
 ---
 
-## Animals as Leaders / Weightless Era (2010–2012)
+## Animals as Leaders / Weightless Era (2009–2012)
 
 **Albums:** Animals as Leaders: Weightless (2011)
 **Tours:** Animals as Leaders World Tour 2011–2012
 
 **Q: What was Navene Koperweis's role in Animals as Leaders?**
-A: Koperweis joined Animals as Leaders in 2010 and recorded "Weightless" (2011), a landmark record that helped define djent's drumming vocabulary. His performance on "Tooth and Claw" introduced the riff-locked double-bass approach — rewriting the kick pattern to match each guitar riff rather than applying a fixed template — that would become his signature. Meinl Cymbals, the one brand constant across his entire career, entered the picture during this era, while his drum and hardware setup remained undocumented tour-grade gear as he built his reputation on the progressive metal festival circuit.
+A: Koperweis joined Animals as Leaders in 2009 and recorded "Weightless" (2011), a landmark record that helped define djent's drumming vocabulary. His performance on "Tooth and Claw" introduced the riff-locked double-bass approach — rewriting the kick pattern to match each guitar riff rather than applying a fixed template — that would become his signature. Meinl Cymbals, the one brand constant across his entire career, entered the picture during this era, while his drum and hardware setup remained undocumented tour-grade gear as he built his reputation on the progressive metal festival circuit.
 
 - **Drums:** Various touring/session kits — no single fixed brand documented
 - **Snare:** Varied by engagement, no fixed snare documented
@@ -116,7 +116,7 @@ A: Koperweis carried the DW Performance / Meinl Byzance rig through Entheos's "D
 | Era | Years | Kit Cost (Original) | Inflation-Adjusted |
 |---|---|---|---|
 | Animosity & Early Grindcore Roots | 2003–2009 | $1,800 | ~$2,600 |
-| Animals as Leaders / Weightless Era | 2010–2012 | $3,200 | ~$4,300 |
+| Animals as Leaders / Weightless Era | 2009–2012 | $3,200 | ~$4,300 |
 | Founding Entheos / DW Performance Era | 2012–2016 | $8,900 | ~$11,800 |
 | Mature Entheos & Session Work | 2016–Present | $9,200 | ~$10,600 |
 
@@ -140,7 +140,7 @@ A: Navene Koperweis plays a DW Performance Series kit with a DW Performance 14"x
 A: Yes — Koperweis was Animals as Leaders' drummer from 2010 to 2012, recording the djent landmark "Weightless" (2011), including "Tooth and Claw," which introduced his riff-locked double-bass technique. He later returned to co-produce the band's "The Joy of Motion" (2014).
 
 **Q: What bands has Navene Koperweis played in?**
-A: Navene Koperweis has drummed for Animosity (2003–2008), Animals as Leaders (2010–2012), and Entheos (2015–present), which he founded with vocalist Chaney Crabb. He has also done session work for Whitechapel and Machine Head.
+A: Navene Koperweis has drummed for Animosity (2003–2008), Animals as Leaders (2009–2012), and Entheos (2015–present), which he founded with vocalist Chaney Crabb. He has also done session work for Whitechapel and Machine Head.
 
 **Q: What cymbals does Navene Koperweis use?**
 A: Koperweis has played Meinl Byzance cymbals since his Animals as Leaders tenure — the one gear relationship that has remained constant across every subsequent era of his career, including his current Entheos setup.

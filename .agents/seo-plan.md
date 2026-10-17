@@ -13021,3 +13021,55 @@ Last run (2026-10-16 ~19:xx UTC) left 3 fully-verified candidates ready to file 
 2. No new fabrication-sweep source queued — the `public/llms/evolution/*.md` sweep (#9157) is now fully closed out. Next SEO proposal source: re-scan GSC content-gap queries, or spot-check another `public/llms/**` file family for the same drift pattern if one hasn't been swept yet.
 3. Content-gap: both rows (joey jordison drum set, john otto snare) re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-17 (run ~07:xx UTC) — new source found: `public/llms/evolution/*.md` was a special case (no generator, hand-authored); `public/llms/**` generated families are CI-protected from drift (`check-llms-freshness.yml`), so pivoted to the lowest-issue-count roster-sweep method on the underlying JS data files directly — 8 filed, #9231-9235/9237-9239
+
+### Audit summary
+- robots.txt, `/llms/*.md` counts: unchanged from this morning's run (32 top-level + 72 evolution), no new-page work (freeze in effect).
+- Confirmed `public/llms/comparisons|bands|endorsements|gear-history|...` are all generator-backed (`scripts/generate-llms-*.cjs`) and gated by CI (`scripts/check-llms-freshness.cjs` in a workflow that fails on .md-vs-generator drift) — unlike `evolution/`, which has no generator at all. So those families can't silently drift from their own JS source; the residual risk is the JS source itself being wrong (same bug class the daily sweep has been hunting for weeks), not a second unswept mirror layer.
+- Bank check: 7 open `seo-proposal` at run start (well under 45 floor) → filed 8.
+
+### Metrics readout
+- GSC 7d (07:04 UTC refresh): 13,588 impr / 201 clicks / 1.48% CTR / pos 8.1. Content-gap rows (`joey jordison drum set` 67/1.49%, `john otto snare` 92/1.09%) re-confirmed against standing rulings (known-oscillator / SERP-drop watch item) — no re-action.
+- GA4 7d: 417 users / 464 sessions / 679 views. Organic 332/464 (71.6%).
+- Not Monday (Saturday) — drum-chair watch skipped, next due Monday 2026-10-19, group 3.
+
+### Method — lowest-issue-count roster sweep, applied directly to JS data files
+Ranked all 72 `extendedBios.js` roster slugs by live GitHub issue-mention count (ascending = least audited). Bottom 10: alex-rudinger(17), jimmy-degrasso(18), waltteri-vayrynen(18), nick-barker(19), john-longstreth(21), ryan-van-poederooyen(51), isaac-lamb(53), adrian-erlandsson(60), kevin-talley(60), chris-turner(62). Dispatched a research pass cross-checking each against `endorsementNews.js`/`bands.js`/`birthdays.js` ground truth across the standard fact files (extendedBios.js, drummerEvolution.js, drummerComparisons.js, soundLikeGuides.js, gearPriceHistory.js, top10Lists.js, genreGearGuides.js, api/drummers/index.js, api/gear-finder/index.js, albumArticles, birthdays.js). 5 of the bottom-10 came back clean (alex-rudinger, jimmy-degrasso, nick-barker, john-longstreth, waltteri-vayrynen) — extended into the next tier to reach 8 distinct drummers: isaac-lamb, ryan-van-poederooyen, adrian-erlandsson, kevin-talley, chris-turner, navene-koperweis(70), jocke-wallgren(75), tim-yeung(72-ish, exact count not re-checked).
+
+Dispatched 8 independent verification sub-agents (one per candidate), each re-reading current file state, cross-checking ground truth, WebSearching externally-contested facts, and dedup-searching issues before drafting. Results:
+- **chris-turner**: ALREADY-FIXED — the specific contradiction cited (albumArticles.js Hikari-era snare) was already resolved by #6098/PR #6119; the candidate mis-cited a second, non-contradictory article entry. Not filed. Flagged a possible *separate*, unverified residual tension between `endorsementNews.js` and `drummerEvolution.js` on the G-Maple adoption year — not yet confirmed, needs its own pass before filing.
+- **ryan-van-poederooyen**: candidate's framing was backwards — independent re-verification (Wikipedia, Metal Archives, Empath/Lightwork album credits) showed `drummerEvolution.js` is actually correct (2002 join, 2018 hiatus-end, no Empath/Lightwork) and the real bugs are in `endorsementNews.js`/`extendedBios.js`/`albumArticles.js`, which falsely extend his tenure through Empath (2019)/Lightwork (2022) and misattribute Gene Hoglan's "Physicist" (2000) as his debut. **This reverses a fact pattern issue #8412 relied on as settled** — flagged for extra scrutiny in the issue body, recommend CEO give it an extra look before promoting.
+- **isaac-lamb, navene-koperweis, kevin-talley, adrian-erlandsson**: all CONFIRMED as scoped (adrian-erlandsson trivial single-field, held back — see below).
+- **tim-yeung**: CONFIRMED, but 15+ locations spanning a ground-truth-file bug (`endorsementNews.js` itself misdates his Tama/Sabian signing to a Hate Eternal album — "I, Monarch" 2005 — recorded 5 years after he left the band) plus downstream `drummerComparisons.js` fabrications (fake "two stints," wrong birthplace, invented Hour of Penance membership) and a `genreGearGuides.js` Pearl/Demon Drive misattribution. Split into 3 atomic issues per convention; filed the ground-truth fix + drummerComparisons.js fix this run, held the genreGearGuides.js one back (see below).
+- **jocke-wallgren**: CONFIRMED — wholesale "recorded Jomsviking (2016)" fabrication across 9 files, contradicting the site's own `bands.js` (real Jomsviking drummer: session player Tobias Gustafsson; Wallgren's real debut is Berserker 2019). Split into the 9-file batch + a separate small birthdate fix (drummerEvolution.js still has "April 1986, Karlstad" vs. verified "June 1985, Chile," missed by #8525's 3-file batch).
+
+### Proposals filed this run
+1. #9231 — SEO batch: Jocke Wallgren wrongly credited with recording Amon Amarth's "Jomsviking" (2016) across 9 files
+2. #9232 — Jocke Wallgren drummerEvolution.js fabricates birthdate/birthplace (verified June 10 1985, Chile)
+3. #9233 — Tim Yeung endorsementNews.js ground truth misdates Tama/Sabian switch to Hate Eternal's "I, Monarch" (2005)
+4. #9234 — Tim Yeung tenure/birthplace/membership fabrications across 3 drummerComparisons.js entries
+5. #9235 — Isaac Lamb endorsements self-contradiction + fabricated "Self-titled (2012)" album + residual gear models
+6. #9237 — Navene Koperweis Animals as Leaders tenure wrong across 3 files (verified 2009-2012)
+7. #9238 — Kevin Talley soundLikeGuides.js/gearPriceHistory.js residual Pearl fabrications missed by #9099/#7553
+8. #9239 — Ryan Van Poederooyen Empath/Lightwork false credit + Physicist (2000) misattribution (reverses #8412's premise — flagged for extra CEO scrutiny)
+
+(#9236 — Nick Augusto drummerEvolution.js Pearl Demon Drive residual — filed concurrently by a separate automated process during this run, not by this pass; noted for awareness, not double-counted against this run's 8.)
+
+**Held back, already fully verified — ready to file next run without re-verification:**
+- **adrian-erlandsson**: `api/drummers/index.js:3525` sticks field says plain "Vic Firth American Classic Rock Nylon Tip (ROCKN)" contradicting its own prose 2 lines up ("his own official At the Gates signature model") and `endorsementNews.js`'s "Rock Nylon Tip (At the Gates Signature)". Single-field fix, trivial.
+- **tim-yeung genreGearGuides.js**: deathcore bass-drum guide (~line 66026, product block ~66205-66241) fabricates Pearl/Demon Drive for Yeung; verified Tama Starclassic Bubinga + Tama Speed Cobra 910.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9231-9235/#9237-9239 (this run, 8 fresh) + #9236 (concurrent, other process)
+
+### Next run
+1. **File adrian-erlandsson and tim-yeung/genreGearGuides.js immediately** — both fully verified above, no re-verification needed.
+2. Watch #9231-9239 pick up via Roadie; flag #9239 (Van Poederooyen) for the CEO's extra-scrutiny pass since it reverses #8412's premise, not just a routine promote.
+3. Chris Turner: unresolved possible `endorsementNews.js` vs `drummerEvolution.js` G-Maple adoption-year tension — needs its own verification pass before filing, not yet done.
+4. Content-gap: both rows (joey jordison drum set, john otto snare) re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-19, group 3.

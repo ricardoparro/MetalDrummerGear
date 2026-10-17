@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-17 06:16 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-17 07:04 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 408 |
-| Sessions | 455 |
-| Page views | 668 |
-| Engagement rate | 62.86% |
-| Avg session (s) | 106 |
+| Active users | 417 |
+| Sessions | 464 |
+| Page views | 679 |
+| Engagement rate | 62.50% |
+| Avg session (s) | 105 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -20,19 +20,19 @@
 | / | 46 | 23 |
 | /bpm | 28 | 2 |
 | /drummers | 26 | 6 |
-| /drummer/mario-duplantier | 19 | 17 |
-| /drummer/matt-greiner | 14 | 8 |
+| /drummer/mario-duplantier | 20 | 18 |
+| /drummer/matt-greiner | 15 | 9 |
 | /drummer/eloy-casagrande | 13 | 11 |
 | /studies/metal-tempo-by-subgenre | 13 | 7 |
-| /drummer/bill-ward | 8 | 7 |
+| /drummer/bill-ward | 9 | 8 |
 | /drummer/kevin-talley | 8 | 5 |
 | /guides/beginner-metal-drummer-setup | 8 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 324 | 282 |
-| Direct | 127 | 124 |
+| Organic Search | 332 | 290 |
+| Direct | 128 | 125 |
 | Organic Social | 1 | 1 |
 | Referral | 1 | 1 |
 | Unassigned | 1 | 1 |
@@ -40,15 +40,15 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 141 | 122 |
-| Singapore | 60 | 60 |
+| United States | 146 | 127 |
+| Singapore | 61 | 61 |
 | China | 34 | 34 |
 | Canada | 30 | 25 |
-| Germany | 23 | 19 |
+| Germany | 24 | 20 |
 | United Kingdom | 18 | 14 |
 | Australia | 15 | 14 |
+| France | 11 | 11 |
 | Brazil | 10 | 9 |
-| France | 10 | 10 |
 | New Zealand | 10 | 5 |
 
 ## Search Console — Search performance

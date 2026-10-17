@@ -9872,7 +9872,7 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
     readingTime: '10 min',
     intro: {
       title: "The Versatile Powerhouse of Technical Metal",
-      content: `Richard Christy (born June 1, 1974) is one of the most versatile and technically gifted drummers to come out of the American extreme metal scene. He earned his place in death metal history as the drummer on Death's final studio album, "The Sound of Perseverance" (1998), working alongside the legendary Chuck Schuldiner, before bringing his power and precision to power-metal giants Iced Earth, as well as Control Denied, Burning Inside, and Charred Walls of the Damned.
+      content: `Richard Christy (born April 1, 1974) is one of the most versatile and technically gifted drummers to come out of the American extreme metal scene. He earned his place in death metal history as the drummer on Death's final studio album, "The Sound of Perseverance" (1998), working alongside the legendary Chuck Schuldiner, before bringing his power and precision to power-metal giants Iced Earth, as well as Control Denied, Burning Inside, and Charred Walls of the Damned.
 
 What defines Christy is range. He can deliver blistering technical death metal — fluid double bass, fast blasts, and intricate, composed fills — and then shift to the driving, anthemic power-metal grooves of Iced Earth's "The Glorious Burden" without missing a beat. His double bass technique is famously smooth and even, his fills are musical rather than purely mechanical, and his sense of dynamics serves the song. He is a drummer's drummer: technically formidable but always musical.
 

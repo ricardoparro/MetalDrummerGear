@@ -5,12 +5,12 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummers/mike-portnoy"
 evolution_url: "https://metalforge.io/drummers/mike-portnoy/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-06-25"
+last_updated: "2026-10-17"
 ---
 
 # Mike Portnoy Drum Kit Evolution — Complete Timeline
 
-Mike Portnoy co-founded Dream Theater in 1985 and spent 25 years at the band's core before departing in 2010, then rejoined in 2023. His gear evolution tracks the arc of progressive metal itself — from a Tama Artstar inspired by Neil Peart to the DW Collector's Series he plays today with The Winery Dogs and Dream Theater. Along the way he accumulated one of the most elaborate kit configurations in metal history, earning signature deals from Tama, Zildjian, Pro-Mark, and Vic Firth.
+Mike Portnoy co-founded Dream Theater in 1985 and spent 25 years at the band's core before departing in 2010, then rejoined in 2023. His gear evolution tracks the arc of progressive metal itself — from a Tama Artstar II inspired by Neil Peart to the dual Tama Starclassic "Dream Monster" kit he plays today with The Winery Dogs and Dream Theater. Along the way he accumulated one of the most elaborate kit configurations in metal history, earning signature deals from Tama, Sabian, and Pro-Mark.
 
 See also: [Mike Portnoy drummer profile](/llms/drummers/mike-portnoy.md)
 
@@ -25,14 +25,15 @@ Portnoy built Dream Theater's early reputation on a Tama Artstar II — the same
 
 - **Drums:** Tama Artstar II (birch shells) — 22" kick, 10"/12"/13"/14"/16" toms
 - **Snare:** Tama Artstar II 14"×6.5" birch, die-cast hoops
-- **Cymbals:** Zildjian A Series — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China
+- **Cymbals:** Sabian AA — 14" New Beat hi-hats, 17"/18" crashes, 20" ride, 18" China
 - **Hardware:** Tama Iron Cobra single pedal (double bass added progressively)
-- **Sticks:** Vic Firth 5B hickory
+- **Sticks:** Vic Firth 5B hickory (off-the-shelf, pre-signature era)
 - **Heads:** Remo Ambassador — clear on toms, coated on snare
 - **Estimated kit cost (original):** ~$6,000
 
 **Key developments:**
 - First Tama endorsement deal
+- Signed with Sabian in 1985, before Images & Words
 - Large multi-tom Neil Peart-inspired configuration from day one
 - Single bass pedal era — double kick added later
 
@@ -49,7 +50,7 @@ Awake was Dream Theater's heaviest, darkest album. Portnoy expanded to a true do
 
 - **Drums:** Tama Artstar II (expanded) — 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms *(upgrade)*
 - **Snare:** Tama Bell Brass 14"×6.5" *(switch — more crack for heavier material)*
-- **Cymbals:** Zildjian A Custom — 14" hi-hats, 16"/17"/18"/19" crashes, 22" ride, 18"/20" Chinas *(upgrade)*
+- **Cymbals:** Sabian AAX — 14" hi-hats, 16"/17"/18"/19" crashes, 22" ride, 18"/20" Chinas *(upgrade — continuing Sabian endorsement)*
 - **Hardware:** Tama Iron Cobra HP900 double pedal *(upgrade — full twin-kick rig)*
 - **Sticks:** Pro-Mark Mike Portnoy Signature (hickory, custom taper) *(first signature deal)*
 - **Heads:** Remo Emperor double-ply *(upgrade — durability for heavier playing)*
@@ -64,27 +65,24 @@ Awake was Dream Theater's heaviest, darkest album. Portnoy expanded to a true do
 
 ---
 
-## Yamaha Era (1997–1998)
+## Falling into Infinity Era (1997–1998)
 
 **Albums:** Falling into Infinity (1997)
 **Tours:** Falling into Infinity Tour
 
-A brief but significant departure from Tama. Portnoy switched to Yamaha Recording Custom for the warmer studio tone it offered on a more melodic, label-pressured album.
+A turbulent, label-pressured creative period for Dream Theater, but Portnoy's rig stayed put — the same expanded Tama setup carried through recording and the tour.
 
-- **Drums:** Yamaha Recording Custom (birch/beech shells) — 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms *(brand switch)*
-- **Snare:** Yamaha Recording Custom 14"×6.5" birch *(switch — warmer, more musical tone)*
-- **Cymbals:** Zildjian A Custom — 14" hi-hats, crashes, 22" ride, Chinas (Zildjian maintained)
-- **Hardware:** Yamaha hardware with DW 5000 double pedal *(switch — Yamaha stands, DW pedals)*
+- **Drums:** Tama Artstar II (expanded) — 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms *(no change — same kit as Awake era)*
+- **Snare:** Tama Bell Brass 14"×6.5" *(no change)*
+- **Cymbals:** Sabian AAX — 14" hi-hats, 17"/18"/19" crashes, 22" ride, China cymbals *(no change)*
+- **Hardware:** Tama Iron Cobra HP900 double pedal *(no change)*
 - **Sticks:** Pro-Mark Mike Portnoy Signature (continued)
-- **Heads:** Remo Pinstripe *(switch — more controlled for studio work)*
+- **Heads:** Remo Emperor double-ply (continued)
 - **Estimated kit cost (original):** ~$14,000
 
 **Key developments:**
-- Brand switch to Yamaha Recording Custom
-- DW double pedal introduced alongside Yamaha hardware
-- More studio-oriented, melodic sound
-
-> "Yamaha gave me a warmth I hadn't found with Tama. For the studio, it was exactly what Falling into Infinity needed." — *Yamaha Artist Profile, 1997*
+- No gear changes — same Tama rig as the Awake era
+- More melodic, studio-oriented songwriting despite unchanged gear
 
 ---
 
@@ -93,19 +91,19 @@ A brief but significant departure from Tama. Portnoy switched to Yamaha Recordin
 **Albums:** Metropolis Pt. 2: Scenes from a Memory (1999)
 **Tours:** Metropolis 2000 Tour, Live Scenes from New York
 
-Return to Tama with the Starclassic Maple — and the most elaborate kit of the Dream Theater catalogue to that point. Roland electronics were added for live sample triggering on this 77-minute concept album.
+Portnoy upgraded within Tama to the Starclassic Maple — and assembled the most elaborate kit of the Dream Theater catalogue to that point. Roland electronics were added for live sample triggering on this 77-minute concept album.
 
-- **Drums:** Tama Starclassic Maple — 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms *(brand switch back to Tama)*
+- **Drums:** Tama Starclassic Maple — 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms *(upgrade within Tama)*
 - **Snare:** Tama Starclassic Maple 14"×6.5" *(switch — warm maple tone for concept album)*
-- **Cymbals:** Zildjian A Custom — hi-hats, crashes 16"–20", 22" ride, Chinas, splashes *(upgrade — expanded array)*
-- **Hardware:** Tama Iron Cobra HP900 *(switch back to Tama hardware)*
+- **Cymbals:** Sabian AAX — 14" hi-hats, multiple crashes 16"–20", 22" ride, 18"/20" Chinas, splash cymbals *(upgrade — expanded array)*
+- **Hardware:** Tama Iron Cobra HP900 *(continued on Tama hardware)*
 - **Sticks:** Pro-Mark Mike Portnoy Signature (continued)
 - **Heads:** Remo Emperor / Ambassador *(switch — punch and clarity combination)*
 - **Electronics:** Roland Octapad for live samples *(new — first major electronic integration)*
 - **Estimated kit cost (original):** ~$18,000
 
 **Key developments:**
-- Return to Tama with premium Starclassic Maple
+- Upgraded within Tama to the premium Starclassic Maple
 - Roland Octapad debuts for live sample triggering
 - Metropolis 2000 tour featured elaborate drum riser
 
@@ -118,11 +116,11 @@ Return to Tama with the Starclassic Maple — and the most elaborate kit of the 
 **Albums:** Six Degrees of Inner Turbulence (2002), Train of Thought (2003), Octavarium (2005)
 **Tours:** Six Degrees, Train of Thought, and Octavarium World Tours
 
-Dream Theater's heaviest period. Portnoy launched his Tama signature snare and Zildjian signature cymbal line, and the kit reached its maximum size including a 20" floor tom.
+Dream Theater's heaviest period. Portnoy launched his Tama signature snare and Sabian signature cymbal line, and the kit reached its maximum size including a 20" floor tom.
 
 - **Drums:** Tama Starclassic Maple (expanded) — 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18"/20" toms *(upgrade — 20" floor tom added)*
 - **Snare:** Tama Mike Portnoy Signature 14"×6.5" Maple *(first signature snare)*
-- **Cymbals:** Zildjian Mike Portnoy Signature suite — hi-hats, crashes, rides, Chinas *(first signature cymbal line)*
+- **Cymbals:** Sabian Mike Portnoy Signature suite — hi-hats, signature crashes and ride, Chinas *(first signature cymbal line)*
 - **Hardware:** Tama Iron Cobra HP900 (Power Glide cam, continued)
 - **Sticks:** Pro-Mark Mike Portnoy Signature (nylon tip option added)
 - **Heads:** Evans G2 on toms, EMAD on kicks *(switch to Evans for durability)*
@@ -131,7 +129,7 @@ Dream Theater's heaviest period. Portnoy launched his Tama signature snare and Z
 
 **Key developments:**
 - Tama Mike Portnoy signature snare released
-- Zildjian signature cymbal line launched
+- Sabian signature cymbal line launched
 - Switched from Remo to Evans heads
 - Largest kit configuration of career — 20" floor tom
 
@@ -139,7 +137,7 @@ Dream Theater's heaviest period. Portnoy launched his Tama signature snare and Z
 |---|---|---|
 | Drums | Tama Starclassic Maple (8-tom) | Upgrade |
 | Snare | Tama Mike Portnoy Signature | First signature |
-| Cymbals | Zildjian MP Signature | First signature |
+| Cymbals | Sabian MP Signature | First signature |
 | Heads | Evans G2 / EMAD | Brand switch |
 
 > "Train of Thought was us going full Pantera/Metallica. The kit had to match that aggression — it was the biggest setup I'd ever played." — *Drum! Magazine, 2003*
@@ -155,7 +153,7 @@ Portnoy's final era with Dream Theater. The Chaos in Motion drum cam footage bec
 
 - **Drums:** Tama Starclassic Maple — 22"/24" kicks, full tom array 8"–20"
 - **Snare:** Tama Mike Portnoy Signature 14"×6.5" (continued)
-- **Cymbals:** Zildjian Mike Portnoy Signature Suite (full signature development)
+- **Cymbals:** Sabian Mike Portnoy Signature Suite (full signature development)
 - **Hardware:** Tama Iron Cobra HP900 (Speed Cobra beaters)
 - **Sticks:** Pro-Mark Mike Portnoy Signature (continued)
 - **Heads:** Evans G2 / EMAD2 *(upgrade — EMAD2 for more focused kick attack)*
@@ -176,24 +174,21 @@ Portnoy's final era with Dream Theater. The Chaos in Motion drum cam footage bec
 **Albums:** The Winery Dogs (2013), Hot Streak (2015), Dream Theater Parasomnia (2025)
 **Tours:** Winery Dogs World Tour, Sons of Apollo Tour, Dream Theater 2024 Tour
 
-After leaving Dream Theater, Portnoy switched to DW Collector's Series and streamlined his kit for the power-trio context of The Winery Dogs. He also moved his signature stick deal from Pro-Mark to Vic Firth. He rejoined Dream Theater in 2023.
+After leaving Dream Theater, Portnoy streamlined his longtime Tama setup into the dual-shell "Dream Monster" kit for the power-trio context of The Winery Dogs, carrying it through Sons of Apollo and his 2023 return to Dream Theater. His Sabian cymbal and Pro-Mark stick endorsements continued unchanged throughout.
 
-- **Drums:** DW Collector's Series (maple) — 22" kick, 8"/10"/12"/14"/16" toms *(brand switch — streamlined)*
-- **Snare:** DW Edge Maple 14"×6.5" *(brand switch — warm, punchy DW maple tone)*
-- **Cymbals:** Zildjian A Custom / Mike Portnoy Signature (continued Zildjian)
-- **Hardware:** DW 9000 double pedal *(switch — DW pedals to match DW kit)*
-- **Sticks:** Vic Firth Mike Portnoy Signature *(switch — Pro-Mark → Vic Firth)*
+- **Drums:** Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) — dual side-by-side Starclassic shell kit *(no brand switch — longtime Tama endorser since the 1980s)*
+- **Snare:** Tama Mike Portnoy Signature Melody Master 14"×5.5" *(continued Tama signature snare)*
+- **Cymbals:** Sabian HHX MAX / AAX MAXX Series — 22" HHX MAX Ride, X-Plosion crashes, O-Zone crash, HHX/Paragon Chinas, AAX MAXX splashes, AA MAX chimes *(continued Sabian relationship)*
+- **Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW) *(continued Tama hardware)*
+- **Sticks:** Pro-Mark Mike Portnoy Signature TX420N *(continued — no brand change)*
 - **Heads:** Evans G2 / EMAD2 (continued)
 - **Electronics:** Roland SPD-SX *(switch — simplified for smaller venues)*
 - **Estimated kit cost:** ~$28,000
 
 **Key developments:**
-- Brand switch to DW Collector's Series
-- Vic Firth signature deal (moved from Pro-Mark)
-- Smaller, streamlined kit for Winery Dogs groove context
+- Streamlined "Dream Monster" dual Starclassic kit for power-trio context
+- Continued Tama/Sabian/Pro-Mark endorsements across all post-DT projects
 - Rejoined Dream Theater in 2023
-
-> "With the Winery Dogs I didn't need a 12-tom monster. The music called for feel and groove. DW gave me that without sacrificing power." — *Drum! Magazine, 2013*
 
 ---
 
@@ -203,7 +198,7 @@ After leaving Dream Theater, Portnoy switched to DW Collector's Series and strea
 |---|---|---|---|
 | Images & Words Era | 1988–1993 | $6,000 | ~$13,000 |
 | Awake Era | 1994–1996 | $12,000 | ~$25,000 |
-| Yamaha Era | 1997–1998 | $14,000 | ~$27,000 |
+| Falling into Infinity Era | 1997–1998 | $14,000 | ~$27,000 |
 | Metropolis Pt. 2 Era | 1999–2001 | $18,000 | ~$32,000 |
 | Train of Thought Era | 2002–2006 | $25,000 | ~$40,000 |
 | Systematic Chaos Era | 2007–2010 | $30,000 | ~$44,000 |
@@ -213,13 +208,10 @@ After leaving Dream Theater, Portnoy switched to DW Collector's Series and strea
 
 ## Gear Brand Partnerships Timeline
 
-- **Tama Artstar II** — 1988–1996 (first major endorsement)
-- **Yamaha Recording Custom** — 1997–1998 (brief switch)
-- **Tama Starclassic Maple** — 1999–2010 (Dream Theater peak era)
-- **DW Collector's Series** — 2011–present (post-DT and Winery Dogs era)
-- **Zildjian** — throughout career (A Series → A Custom → MP Signature)
-- **Pro-Mark Signature Sticks** — 1994–2011
-- **Vic Firth Signature Sticks** — 2011–present
+- **Tama** — 1985–present (continuous — Artstar II → Starclassic Maple → Starclassic Maple/Bubinga "Dream Monster" dual kit)
+- **Sabian** — 1985–present (continuous — AA → AAX → Mike Portnoy Signature → HHX MAX/AAX MAXX)
+- **Vic Firth 5B** — 1988–1993 (off-the-shelf sticks, pre-signature era)
+- **Pro-Mark Signature Sticks** — 1994–present (first signature stick deal, unchanged since)
 - **Evans Heads** — 2002–present
 
 ---
@@ -227,16 +219,16 @@ After leaving Dream Theater, Portnoy switched to DW Collector's Series and strea
 ## FAQ
 
 **Q: What drum kit did Mike Portnoy use on Images & Words?**
-A: Portnoy used a Tama Artstar II with birch shells — a large kit with five toms (10"/12"/13"/14"/16") and a 22" kick drum, paired with Zildjian A Series cymbals. This was his first professional Tama endorsement, inspired by his hero Neil Peart's similar setup.
+A: Portnoy used a Tama Artstar II with birch shells — a large kit with five toms (10"/12"/13"/14"/16") and a 22" kick drum, paired with Sabian AA cymbals. This was his first professional Tama endorsement, inspired by his hero Neil Peart's similar setup.
 
-**Q: When did Mike Portnoy switch to DW drums?**
-A: Portnoy switched to DW Collector's Series after leaving Dream Theater in 2010. The move to DW coincided with his work with The Winery Dogs (2011–2013), where a smaller, more groove-oriented setup made sense for the power-trio context.
+**Q: Did Mike Portnoy ever switch away from Tama drums?**
+A: No — Portnoy has played Tama continuously since 1985. He upgraded within the brand over the years (Artstar II → Starclassic Maple), and in 2011 streamlined into a dual Starclassic Maple/Bubinga "Dream Monster" kit for The Winery Dogs, but he never left Tama, including through Sons of Apollo and his 2023 Dream Theater return.
 
 **Q: What is Mike Portnoy's signature snare drum?**
-A: During the Dream Theater years (2002–2010), Portnoy had a Tama Mike Portnoy Signature snare — a 14"×6.5" maple shell model. Post-Dream Theater, he plays DW Edge maple snares.
+A: During the Dream Theater years (2002–2010), Portnoy had a Tama Mike Portnoy Signature snare — a 14"×6.5" maple shell model. Post-Dream Theater, he plays a Tama Mike Portnoy Signature Melody Master snare (14"×5.5").
 
 **Q: What cymbals does Mike Portnoy use?**
-A: Portnoy has played Zildjian throughout his career. During the Dream Theater era he developed a signature cymbal line with Zildjian. His current setup uses Zildjian A Custom and Mike Portnoy Signature cymbals.
+A: Portnoy has played Sabian throughout his career, signing with the brand in 1985. During the Dream Theater era he developed a signature cymbal line with Sabian. His current setup uses the Sabian HHX MAX / AAX MAXX Series.
 
 **Q: Did Mike Portnoy return to Dream Theater?**
 A: Yes — Portnoy rejoined Dream Theater in 2023, over 12 years after his departure in 2010. He toured with the band in 2024 and contributed to the Parasomnia album (2025).
@@ -250,5 +242,5 @@ A: Yes — Portnoy rejoined Dream Theater in 2023, over 12 years after his depar
 - [Metropolis Pt. 2 Album Article](/llms/articles/metropolis-pt-2.md)
 - [Dream Theater Band Profile](/llms/bands.md)
 - [Tama Drums Brand Guide](/llms/brands/tama.md)
-- [DW Drums Brand Guide](/llms/brands/dw.md)
-- [Zildjian Cymbals Brand Guide](/llms/brands/zildjian.md)
+- [Sabian Cymbals Brand Guide](/llms/brands/sabian.md)
+- [Pro-Mark Sticks Brand Guide](/llms/brands/pro-mark.md)

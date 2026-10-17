@@ -12985,3 +12985,39 @@ This closes out verification on all 25 of #9157's original candidate list (14 al
 1. **File morgan-agren, nick-augusto, and arin-ilejay** — all 3 fully verified above, no re-verification needed. This completes #9157's 25-candidate list; close #9157 once filed.
 2. Content-gap: all 3 rows (joey jordison drum set, john otto snare, john otto snare drum) re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+
+---
+
+## 2026-10-17 (run ~01:xx UTC) — #9157 sweep closed out: final 3 filed, #9218-9220
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed, no Disallow conflicts. ✅
+- `/llms/*.md` endpoints: 32 top-level + 72 `/llms/evolution/*.md` live.
+- Bank check: 13 open `seo-proposal` at run start (well under 45 floor) → filed 3 (all pre-verified carryover, no new verification needed this run).
+
+### Metrics readout
+- GSC 7d (01:14 UTC refresh): 13,588 impr / 201 clicks / 1.48% CTR / pos 8.1. Content-gap rows (`joey jordison drum set` 67/1.49%, `john otto snare` 92/1.09%) re-confirmed against standing rulings (known-oscillator line 99/185/242, John Otto SERP-drop watch item line 258) — no re-action.
+- GA4 7d: 386 users / 424 sessions / 624 views. Organic 302/424 (71.2%).
+- Not Monday (Saturday) — drum-chair watch skipped, next due Monday 2026-10-19, group 3.
+
+### Method
+Last run (2026-10-16 ~19:xx UTC) left 3 fully-verified candidates ready to file without re-verification: morgan-agren, nick-augusto, arin-ilejay — the last 3 of #9157's original 25-slug list. Before filing, independently spot-checked all 3 `.md` files plus their ground-truth sources (`drummerEvolution.js`, `endorsementNews.js`, `extendedBios.js`) directly rather than trusting the carryover note blindly — confirmed all 3 fabrications are still live and match the documented ground truth exactly. Dedup-searched all 3 names first; found only unrelated closed issues (other files, same drummers) — no overlap with the specific `public/llms/evolution/*.md` target.
+
+### Proposals filed this run
+1. #9218 — Morgan Ågren: llms/evolution.md invents Sonor→DW/Paiste→Zildjian switch (verified continuous Sonor/Paiste since career start)
+2. #9219 — Nick Augusto: llms/evolution.md fabricates Vic Firth sticks + Pearl Demon Drive pedal (verified Pro-Mark 5B / DW 9000 Series)
+3. #9220 — Arin Ilejay: llms/evolution.md invents Mapex Saturn Series rig (verified DW Collector's Series since 2011)
+
+**#9157 closed** — all 25 original candidate slugs now have filed/promoted/shipped fixes, nothing remains unverified.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9218-9220 (this run, 3 fresh)
+
+### Next run
+1. Watch #9218-9220 pick up via Roadie.
+2. No new fabrication-sweep source queued — the `public/llms/evolution/*.md` sweep (#9157) is now fully closed out. Next SEO proposal source: re-scan GSC content-gap queries, or spot-check another `public/llms/**` file family for the same drift pattern if one hasn't been swept yet.
+3. Content-gap: both rows (joey jordison drum set, john otto snare) re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

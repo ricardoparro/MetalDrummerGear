@@ -66023,7 +66023,7 @@ Budget shouldn't stop you either. A Pearl Export, Ludwig Acrolite, or Mapex Stor
       title: "What Bass Drum Setup Handles Deathcore's Blast-Into-Breakdown Structure?",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on a bass drum setup. A single song can alternate between extreme-speed blast beat verses and slower, syncopated breakdown sections built for moshing, meaning the kick has to deliver both rapid, high-headroom double bass response and punchy, controlled low-end thump within the same track.
 
-George Kollias of Nile — whose documented 240+ BPM blast beats and instructional materials set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Pearl Masterworks 22"x18" bass drum paired with his co-designed Pearl Demon XR double pedal for sustained, linear-action speed. Flo Mounier of Cryptopsy, whose technical death metal vocabulary fed directly into deathcore's development (Cryptopsy's own 2008 album "The Unspoken King" took an explicitly deathcore-leaning direction), runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra double pedal built for rapid, precise response. Derek Roddy, whose swivel technique pushed blast beat speed past 260 BPM, pairs a dense Tama Starclassic Bubinga bass drum with a Tama Speed Cobra 910 double pedal for maximum speed with minimal fatigue. Tim Yeung, who brought technical death metal speed directly into deathcore-leaning act Divine Heresy, runs a Pearl or Tama bass drum with a Pearl Demon Drive double pedal for trigger-assisted clarity at extreme tempos.
+George Kollias of Nile — whose documented 240+ BPM blast beats and instructional materials set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Pearl Masterworks 22"x18" bass drum paired with his co-designed Pearl Demon XR double pedal for sustained, linear-action speed. Flo Mounier of Cryptopsy, whose technical death metal vocabulary fed directly into deathcore's development (Cryptopsy's own 2008 album "The Unspoken King" took an explicitly deathcore-leaning direction), runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra double pedal built for rapid, precise response. Derek Roddy, whose swivel technique pushed blast beat speed past 260 BPM, pairs a dense Tama Starclassic Bubinga bass drum with a Tama Speed Cobra 910 double pedal for maximum speed with minimal fatigue. Tim Yeung, who brought technical death metal speed directly into deathcore-leaning act Divine Heresy, has run a Tama Starclassic Bubinga bass drum with a Tama Speed Cobra 910 Double Pedal continuously since 2005, leaning on trigger-assisted bass drums for clarity at extreme tempos.
 
 This guide breaks down shell size, head selection, and pedal choice for deathcore bass drums — comparing rapid, high-headroom setups across four drummers whose technical death metal and hardcore-adjacent lineages fed directly into the genre, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -66202,43 +66202,43 @@ Roddy has emphasized pedal setup and technique over gear choice throughout his c
         },
         {
           rank: 4,
-          name: "Pearl/Tama Reference + Pearl Demon Drive",
-          brand: "Pearl",
-          model: "Reference or Tama Starclassic 22\"x18\" + Demon Drive",
+          name: "Tama Starclassic Bubinga + Speed Cobra 910",
+          brand: "Tama",
+          model: "Starclassic Bubinga 22\"x18\" + Speed Cobra 910 Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€700-950",
           tier: "mid-pro",
-          material: "Maple, 22\"x18\" + double pedal",
+          material: "Bubinga (Starclassic), 22\"x18\" + double pedal",
 
-          description: `Tim Yeung has run Pearl and Tama shells across a resume that reads like a who's-who of extreme metal, including deathcore-leaning act Divine Heresy, paired with a Pearl Demon Drive or Tama Iron Cobra double pedal depending on the tour. His setup philosophy — trigger-assisted bass drums for clarity at extreme tempos, paired with bright, cutting cymbals that penetrate dense guitar tones — translates directly to deathcore's dual blast-and-breakdown demands.
+          description: `Tim Yeung has run a Tama Starclassic Bubinga bass drum and Tama Speed Cobra 910 Double Pedal continuously since 2005, across a resume that reads like a who's-who of extreme metal, including deathcore-leaning act Divine Heresy. His setup philosophy — trigger-assisted bass drums for clarity at extreme tempos, paired with bright, cutting cymbals that penetrate dense guitar tones — translates directly to deathcore's dual blast-and-breakdown demands.
 
-Yeung's versatility across Hate Eternal, Vital Remains, Morbid Angel, and Divine Heresy demonstrates that a reliable mid-pro setup, properly triggered and tuned, can deliver deathcore-caliber consistency without a fully custom shell program.`,
+Yeung's longevity across Hate Eternal, Vital Remains, Morbid Angel, and Divine Heresy on the same Starclassic Bubinga and Speed Cobra 910 setup demonstrates that a single dialed-in mid-pro rig, properly triggered and tuned, can deliver deathcore-caliber consistency without a rotating shell program.`,
 
           pros: [
-            "Tim Yeung's proven setup across multiple deathcore-adjacent extreme metal bands",
+            "Tim Yeung's proven setup across multiple deathcore-adjacent extreme metal bands since 2005",
             "Trigger-assisted consistency for clarity at extreme tempos",
             "22\"x18\" size matches the deathcore double bass standard",
-            "Pearl Demon Drive delivers durable, dependable double bass response",
+            "Speed Cobra 910 delivers rapid, durable double bass response",
             "More accessible pricing than fully custom Masterworks or Collector's builds"
           ],
           cons: [
             "Less exclusively deathcore-documented than Kollias's or Mounier's setups",
             "Relies on triggers for consistency at the most extreme tempos",
-            "Shell choice varies by tour, offering less of a single defining setup"
+            "Shares its core spec sheet with Derek Roddy's setup above, offering less of a distinct identity"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple (Reference/Starclassic)",
-            pedal: "Pearl Demon Drive or Tama Iron Cobra double pedal",
+            shell: "Bubinga (Starclassic)",
+            pedal: "Tama Speed Cobra 910 Double Pedal",
             headRecommendation: "Evans EMAD"
           },
           usedBy: [
-            { name: "Tim Yeung", band: "Divine Heresy", note: "22\"x18\" Pearl/Tama + Demon Drive — deathcore-leaning technical death metal speed" }
+            { name: "Tim Yeung", band: "Divine Heresy", note: "22\"x18\" Tama Starclassic Bubinga + Speed Cobra 910 — continuous since 2005, deathcore-leaning technical death metal speed" }
           ],
-          verdict: "Best value pro setup. Yeung's trigger-assisted rig delivers deathcore consistency without a fully custom build.",
+          verdict: "Best value pro setup. Yeung's Starclassic Bubinga and Speed Cobra 910 rig delivers deathcore consistency without a custom build.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/pearl_demon_drive_double_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_bubinga_speed_cobra.htm?partner_id=metalforge"
         }
       ]
     },
@@ -66345,7 +66345,7 @@ Yeung's versatility across Hate Eternal, Vital Remains, Morbid Angel, and Divine
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks + Demon XR — Nile\'s 240+ BPM blast-to-breakdown standard' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic + Speed Cobra — Cryptopsy\'s direct deathcore lineage' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga + Speed Cobra 910 — swivel-technique 260+ BPM platform' },
-      { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Pearl/Tama + Demon Drive — Divine Heresy\'s deathcore-leaning speed' }
+      { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Tama Starclassic Bubinga + Speed Cobra 910 — Divine Heresy\'s deathcore-leaning speed, continuous since 2005' }
     ],
 
     // Featured drummers (issue template)
@@ -66353,7 +66353,7 @@ Yeung's versatility across Hate Eternal, Vital Remains, Morbid Angel, and Divine
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks + Demon XR — Nile\'s 240+ BPM blast-to-breakdown standard' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic + Speed Cobra — Cryptopsy\'s direct deathcore lineage' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga + Speed Cobra 910 — swivel-technique 260+ BPM platform' },
-      { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Pearl/Tama + Demon Drive — Divine Heresy\'s deathcore-leaning speed' }
+      { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Tama Starclassic Bubinga + Speed Cobra 910 — Divine Heresy\'s deathcore-leaning speed, continuous since 2005' }
     ],
 
     // FAQ section for SEO
@@ -66383,7 +66383,7 @@ Yeung's versatility across Hate Eternal, Vital Remains, Morbid Angel, and Divine
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Bass Drum Setup",
-      content: `Deathcore bass drum choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. George Kollias's Pearl Masterworks and Demon XR double pedal defined the extreme-speed benchmark the genre's fastest sections measure themselves against. Flo Mounier's Tama Speed Cobra setup shows the direct line from technical death metal into deathcore, proven on Cryptopsy's own deathcore-leaning "The Unspoken King." Derek Roddy's Tama Speed Cobra 910 rig demonstrates how advanced footwork technique can push blast beat speed even further, while Tim Yeung's trigger-assisted Pearl/Tama setup proves a reliable mid-pro rig can still deliver deathcore-caliber consistency.
+      content: `Deathcore bass drum choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. George Kollias's Pearl Masterworks and Demon XR double pedal defined the extreme-speed benchmark the genre's fastest sections measure themselves against. Flo Mounier's Tama Speed Cobra setup shows the direct line from technical death metal into deathcore, proven on Cryptopsy's own deathcore-leaning "The Unspoken King." Derek Roddy's Tama Speed Cobra 910 rig demonstrates how advanced footwork technique can push blast beat speed even further, while Tim Yeung's Tama Starclassic Bubinga and Speed Cobra 910 setup, unchanged since 2005, proves a reliable mid-pro rig can still deliver deathcore-caliber consistency.
 
 None of these approaches is more "correct" — all four represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever pedal action matches your footwork technique, and don't be afraid to add triggers if live clarity becomes an issue.
 

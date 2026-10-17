@@ -43,10 +43,10 @@ Source: https://metalforge.io/birthdays
 | Frost | Satyricon / 1349 | June 28, 1973 | Oslo, Norway |
 | Flo Mounier | Cryptopsy | June 29, 1974 | Tours, France |
 | Tomas Haake | Meshuggah | July 13, 1971 | Örebro, Sweden |
+| Morgan Ågren | Mats/Morgan Band | July 13, 1967 | Umeå, Sweden |
 | Jaska Raatikainen | Children of Bodom | July 14, 1979 | Espoo, Finland |
 | Hannes Grossmann | Obscura / Alkaloid | July 25, 1982 | Regensburg, Germany |
 | Abe Cunningham | Deftones | July 27, 1973 | Sacramento, California, USA |
-| Morgan Ågren | Mats/Morgan Band | August 12, 1967 | Umeå, Sweden |
 | Jon Dette | Testament / Slayer | August 25, 1967 | Milwaukee, Wisconsin, USA |
 | Eloy Casagrande | Slipknot / Sepultura | August 25, 1991 | São Paulo, Brazil |
 | Ben Koller | Converge / Mutoid Man | August 27, 1977 | Massachusetts, USA |
@@ -81,7 +81,7 @@ A: Bill Ward (Black Sabbath), born May 5, 1948, is the oldest metal drummer on M
 A: Chris Turner (Oceans Ate Alaska), born February 4, 1992, is the youngest drummer in the MetalForge database.
 
 **Q: Which metal drummers were born in the same year?**
-A: Several drummers share birth years — 1967 is particularly notable, with Gene Hoglan (August 31), Mike Portnoy (April 20), Morgan Ågren (August 12), Jon Dette (August 25), and Shannon Larkin (April 24) all born that year. Dave Lombardo (1965) and Lars Ulrich (1963) represent the core thrash metal generation.
+A: Several drummers share birth years — 1967 is particularly notable, with Gene Hoglan (August 31), Mike Portnoy (April 20), Morgan Ågren (July 13), Jon Dette (August 25), and Shannon Larkin (April 24) all born that year. Dave Lombardo (1965) and Lars Ulrich (1963) represent the core thrash metal generation.
 
 **Q: Which month has the most metal drummer birthdays?**
 A: August and November each have the most entries, with six and five birthdays respectively.

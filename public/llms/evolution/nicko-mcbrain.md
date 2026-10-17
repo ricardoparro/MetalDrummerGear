@@ -5,12 +5,12 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummer/nicko-mcbrain"
 evolution_url: "https://metalforge.io/drummers/nicko-mcbrain/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-07-01"
+last_updated: "2026-10-17"
 ---
 
 # Nicko McBrain Drum Kit Evolution — Complete Timeline
 
-Nicko McBrain is the longest-serving drummer in Iron Maiden's history, powering the band's galloping rhythms since 1982 using a single bass drum and pedal — never a double kick — through more than four decades of arena touring. This timeline documents his complete gear evolution from the Ludwig kits of Piece of Mind and Powerslave, through a Premier Resonator interlude on Somewhere in Time, into a long Premier Artist/Signia era spanning Virtual XI through The Final Frontier, and finally into the Sonor SQ setup that has carried Senjutsu (2021) and his current touring rig.
+Nicko McBrain is the longest-serving drummer in Iron Maiden's history, powering the band's galloping rhythms since 1982 using a single bass drum and pedal — never a double kick — through more than four decades of arena touring. This timeline documents his complete gear evolution from the Ludwig kits of Piece of Mind and Powerslave, through a Premier Resonator interlude on Somewhere in Time, into a long Premier Artist/Signia era spanning Virtual XI through The Final Frontier, then the Sonor SQ setup that carried Senjutsu (2021), and finally his current British Drum Co. kit since 2019.
 
 See also: [Nicko McBrain drummer profile](/llms/drummers/nicko-mcbrain.md)
 
@@ -69,16 +69,16 @@ A: By Virtual XI (1998), McBrain had moved onto Premier's Artist series — birc
 
 ---
 
-## Sonor Era (2010–Present)
+## Sonor / British Drum Co. Era (2010–Present)
 
 **Albums:** Senjutsu (2021)
 **Tours:** Legacy of the Beast Tour 2018–2023, The Future Past Tour 2023–2025
 
 **Q: What is Nicko McBrain's current drum setup?**
-A: McBrain's most recent gear transition brought him onto Sonor, first the SQ1 series and now the SQ2, with North American maple shells that Kevin Shirley's Guillaume Tell recording sessions for Senjutsu (2021) captured with unusual naturalness. Senjutsu — Iron Maiden's first UK #1 album since A Matter of Life and Death, an 81-minute double album recorded when McBrain was 67 — represents the culmination of a gear evolution that ran from Ludwig through Premier into Sonor, with his three-rack-tom configuration giving him the melodic fill vocabulary the album's long-form tracks demand. His Paiste Signature cymbal voice and single bass drum pedal remain the two constants across every era of his career.
+A: McBrain's post-Premier gear transition began with Sonor, first the SQ1 series and then the SQ2, with North American maple shells that Kevin Shirley's Guillaume Tell recording sessions for Senjutsu (2021) captured with unusual naturalness. Senjutsu — Iron Maiden's first UK #1 album since A Matter of Life and Death, an 81-minute double album recorded when McBrain was 67 — represents the culmination of a gear evolution that ran from Ludwig through Premier into Sonor, with his three-rack-tom configuration giving him the melodic fill vocabulary the album's long-form tracks demand. In 2019, McBrain moved his drums to British Drum Co. — his current brand — while keeping the Sonor Nicko McBrain Signature snare and Paiste cymbals that have defined his sound for decades. His Paiste Signature cymbal voice and single bass drum pedal remain the two constants across every era of his career.
 
-- **Drums:** Sonor SQ1 / SQ2 — North American maple shells; single 22"x17" bass drum, three rack toms (10"x8", 12"x9", 13"x10"), two floor toms (16"x15", 18"x16") *(switch from Premier)*
-- **Snare:** Sonor Nicko McBrain Signature 14"x6.5" *(signature — new Sonor-built model)*
+- **Drums:** British Drum Co. — current kit since 2019; single bass drum, three rack toms, two floor toms in his standard touring configuration *(switch from Sonor SQ1/SQ2, which he used from 2010 through Senjutsu in 2021)*
+- **Snare:** Sonor Nicko McBrain Signature 14"x6.5" *(signature — new Sonor-built model, retained within the British Drum Co. kit)*
 - **Cymbals:** Paiste Signature Series (evolved) — 15" Sound Edge Hi-Hats, 16"/18"/19" Full Crashes, 22" Power Ride, 18" Thin China, 10" Splash *(upgrade — upsized from 14" hi-hats)*
 - **Hardware:** Sonor single bass drum pedal — one pedal, one bass drum, unchanged philosophy
 - **Sticks:** Vic Firth Nicko McBrain Signature SNM (continued)
@@ -86,10 +86,11 @@ A: McBrain's most recent gear transition brought him onto Sonor, first the SQ1 s
 - **Estimated kit cost (original):** ~$11,000
 
 **Key developments:**
-- Moved to Sonor SQ1/SQ2 custom drums, ending decades on Ludwig and Premier
+- Moved to Sonor SQ1/SQ2 custom drums in 2010, ending decades on Ludwig and Premier
 - Senjutsu (2021) — UK #1 album, 81-minute double album recorded at age 67
 - Grammy nomination for "The Writing on the Wall" (Best Rock Performance, 2022)
 - Upsized Paiste Signature hi-hats and crash stack for progressive-length arrangements
+- Became a British Drum Co. artist in 2019, his current drum brand, while keeping the Sonor signature snare
 - Single bass drum pedal remains unchanged — the defining constant of his entire career
 
 > "Forty years, three drum brands, one pedal. The gear around it has to earn its place — but that one foot on that one pedal, that's the whole philosophy." — *DRUM! Magazine Interview, 2021*
@@ -102,7 +103,7 @@ A: McBrain's most recent gear transition brought him onto Sonor, first the SQ1 s
 |---|---|---|---|
 | Ludwig / Premier Resonator Era | 1983–1988 | $3,200 | ~$10,100 |
 | Premier Artist / Signia Era | 1990s–2010 | $7,800 | ~$13,900 |
-| Sonor Era | 2010–Present | $11,000 | ~$12,000 |
+| Sonor / British Drum Co. Era | 2010–Present | $11,000 | ~$12,000 |
 
 ---
 
@@ -111,7 +112,8 @@ A: McBrain's most recent gear transition brought him onto Sonor, first the SQ1 s
 - **Ludwig Vistalite / Classic Maple (drums)** — 1983–1988
 - **Premier Resonator (drums)** — 1986 (Somewhere in Time only)
 - **Premier Artist (drums)** — 1990s–2010 (Virtual XI through The Final Frontier)
-- **Sonor SQ1 / SQ2 (drums)** — 2010–present (Senjutsu onward)
+- **Sonor SQ1 / SQ2 (drums)** — 2010–2019 (Senjutsu onward, until the British Drum Co. switch)
+- **British Drum Co. (drums)** — 2019–present (current brand)
 - **Paiste 2002 (cymbals)** — 1983–late 1990s
 - **Paiste Signature (cymbals)** — late 1990s–present
 - **Vic Firth Nicko McBrain Signature (sticks)** — 1998–present
@@ -122,7 +124,7 @@ A: McBrain's most recent gear transition brought him onto Sonor, first the SQ1 s
 ## FAQ
 
 **Q: What drum kit does Nicko McBrain use?**
-A: Nicko McBrain currently plays a Sonor SQ1/SQ2 kit with North American maple shells, a Sonor Nicko McBrain Signature 14"x6.5" snare, and Paiste Signature cymbals. This followed a long run on Premier drums and an earlier Ludwig era on Piece of Mind and Powerslave.
+A: Nicko McBrain currently plays a British Drum Co. kit (since 2019) with a Sonor Nicko McBrain Signature 14"x6.5" snare and Paiste Signature cymbals. He used a Sonor SQ1/SQ2 kit from 2010 through Senjutsu (2021) before switching his drum shells to British Drum Co. while keeping the Sonor signature snare. This followed a long run on Premier drums and an earlier Ludwig era on Piece of Mind and Powerslave.
 
 **Q: Does Nicko McBrain use a double bass drum pedal?**
 A: No — Nicko McBrain has used a single bass drum and single pedal throughout his entire 40-plus year career with Iron Maiden, from the Ludwig Speed King in 1983 to his current Sonor single pedal.
@@ -131,7 +133,7 @@ A: No — Nicko McBrain has used a single bass drum and single pedal throughout 
 A: For Powerslave (1984) and the Live After Death tour, Nicko McBrain played a Ludwig Classic Maple kit with a Ludwig Supraphonic LM400 14"x5" steel snare and Paiste 2002 cymbals.
 
 **Q: Why did Nicko McBrain switch drum kits over his career?**
-A: McBrain moved from Ludwig (1983–1988, with a one-album Premier Resonator switch for Somewhere in Time in 1986) to Premier's Artist series for over a decade (Virtual XI through The Final Frontier, 1998–2010), and finally to Sonor's SQ1/SQ2 custom program for Senjutsu (2021) — each move chasing a warmer, fuller tone while keeping his single-pedal technique unchanged.
+A: McBrain moved from Ludwig (1983–1988, with a one-album Premier Resonator switch for Somewhere in Time in 1986) to Premier's Artist series for over a decade (Virtual XI through The Final Frontier, 1998–2010), to Sonor's SQ1/SQ2 custom program from 2010 through Senjutsu (2021), and in 2019 switched his drum shells to British Drum Co. — his current brand — while retaining the Sonor signature snare, each move chasing a warmer, fuller tone while keeping his single-pedal technique unchanged.
 
 **Q: What cymbals does Nicko McBrain use?**
 A: McBrain has been a Paiste artist for his entire Iron Maiden career, starting with the Paiste 2002 series in the 1980s and moving to the Paiste Signature series from the late 1990s onward.

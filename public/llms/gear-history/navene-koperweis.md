@@ -1,7 +1,7 @@
 # Navene Koperweis Drum Kit Gear History — Animals as Leaders
 
 **Drummer:** Navene Koperweis
-**Band:** Animals as Leaders (2012–2014)
+**Band:** Animals as Leaders (2009-2012)
 **Active:** 2005–present (metal drumming career)
 **URL:** https://metalforge.io/drummers/navene-koperweis/gear-history
 
@@ -68,7 +68,7 @@ A: Koperweis used a DW Performance Series maple 5-piece shell pack — a 22"x18"
 A: Koperweis used a Meinl Byzance Extra Dry setup — 15" Dual Hi-Hats, 18" and 19" Extra Dry Medium Crashes, a 21" Transition Ride, an 18" Extra Dry China, and a 10" Splash — for dry, trashy tonality without piercing brightness.
 
 **Q: Did Navene Koperweis's gear change after leaving Animals as Leaders?**
-A: Koperweis's DW/Meinl configuration remained his defining setup through his 2012–2014 Animals as Leaders tenure. After departing, he formed Entheos and has continued to favor the same DW Performance / Meinl Byzance combination.
+A: Koperweis's DW/Meinl configuration remained his defining setup through his 2009-2012 Animals as Leaders tenure. After departing, he formed Entheos and has continued to favor the same DW Performance / Meinl Byzance combination.
 
 ---
 

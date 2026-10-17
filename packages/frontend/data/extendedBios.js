@@ -7909,7 +7909,7 @@ Ilejay's time with Avenged Sevenfold coincided with their transition to a more c
     name: 'Navene Koperweis',
     bands: [
       { slug: 'entheos', period: '2015-present', role: 'Drummer' },
-      { slug: 'animals-as-leaders', period: '2010-2012', role: 'Drummer' },
+      { slug: 'animals-as-leaders', period: '2009-2012', role: 'Drummer' },
       { slug: 'animosity', period: '2003-2008', role: 'Drummer' },
       { slug: 'the-faceless', period: '2006', role: 'Drummer (partial)' },
       { slug: 'machine-head', period: '2021-present', role: 'Session drummer' }
@@ -7975,7 +7975,7 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
           { name: 'Entheos - Time Will Take Us All', year: 2023, label: 'Metal Blade', note: 'Most ambitious album' }
         ],
         tours: [
-          { name: 'Animals as Leaders Tours', year: '2010-2012', note: 'Progressive metal circuit' },
+          { name: 'Animals as Leaders Tours', year: '2009-2012', note: 'Progressive metal circuit' },
           { name: 'Entheos Touring', year: '2015-present', note: 'Technical death metal scene' },
           { name: 'Job for a Cowboy', year: 'Various', note: 'Session/touring drummer' }
         ]
@@ -8022,7 +8022,7 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
           { q: 'What sticks does Navene Koperweis use?', a: 'Navene Koperweis uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Navene Koperweis use?', a: 'Navene Koperweis drives his extreme single-stroke and blast-beat passages with a DW 9000 Series double pedal.' },
           { q: 'What drumheads does Navene Koperweis use?', a: 'Navene Koperweis uses Evans drumheads across his DW Performance kit.' },
-          { q: 'What band is Navene Koperweis in?', a: 'Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2010-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.' },
+          { q: 'What band is Navene Koperweis in?', a: 'Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2009-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.' },
           { q: 'What other projects has Navene Koperweis worked on?', a: 'Beyond Entheos and Animals as Leaders, Navene Koperweis runs his own technical death metal project Fleshwrought, playing every instrument himself, produces electronic music under the name "Navene K," and has served as a session drummer for Machine Head since 2021.' }
         ]
       },

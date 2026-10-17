@@ -18502,12 +18502,12 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'navene-koperweis-2010-animals-as-leaders',
+        id: 'navene-koperweis-2009-animals-as-leaders',
         era: 'Animals as Leaders / Weightless Era',
-        years: '2010–2012',
-        startYear: 2010,
+        years: '2009–2012',
+        startYear: 2009,
         endYear: 2012,
-        description: 'Koperweis joined Animals as Leaders in 2010 and recorded "Weightless" (2011), a landmark record that helped define djent\'s drumming vocabulary. His performance on "Tooth and Claw" introduced the riff-locked double-bass approach — rewriting the kick pattern to match each guitar riff rather than applying a fixed template — that would become his signature. Meinl Cymbals, the one brand constant across his entire career, entered the picture during this era, while his drum and hardware setup remained undocumented tour-grade gear as he built his reputation on the progressive metal festival circuit.',
+        description: 'Koperweis joined Animals as Leaders in 2009 and recorded "Weightless" (2011), a landmark record that helped define djent\'s drumming vocabulary. His performance on "Tooth and Claw" introduced the riff-locked double-bass approach — rewriting the kick pattern to match each guitar riff rather than applying a fixed template — that would become his signature. Meinl Cymbals, the one brand constant across his entire career, entered the picture during this era, while his drum and hardware setup remained undocumented tour-grade gear as he built his reputation on the progressive metal festival circuit.',
         albums: ['Animals as Leaders: Weightless (2011)'],
         tours: ['Animals as Leaders World Tour 2011–2012'],
         image: null,

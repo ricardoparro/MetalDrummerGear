@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/navene-koperweis"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-17"
 ---
 
 # Navene Koperweis — Drum Kit & Gear Setup
@@ -33,7 +33,7 @@ Navene Koperweis plays a DW Drums Performance Series kit — a workhorse acousti
 
 Meinl Byzance cymbals define the Navene Koperweis drum kit: 15" Dual Hi-Hats for tight, articulate patterns across Entheos's technical grooves, 18" and 19" Extra Dry Medium Crashes for quick-decay accents, a 21" Transition Ride, an 18" Extra Dry China for abrupt textural punctuation, and a 10" splash for ornamental fills. A DW 9000 Series double pedal drives his extreme single-stroke and blast-beat passages, with Vic Firth American Classic 5B sticks and a DW throne rounding out the rig.
 
-This DW/Meinl configuration has carried Koperweis from his Animals as Leaders tenure (2010-2012) through Entheos's ongoing catalog, reflecting a drummer whose acoustic gear stays consistent even as his broader musical output — spanning Fleshwrought, session dates for Machine Head and Job for a Cowboy, and his own electronic productions — ranges far beyond a standard metal drum kit.
+This DW/Meinl configuration has carried Koperweis from his Animals as Leaders tenure (2009-2012) through Entheos's ongoing catalog, reflecting a drummer whose acoustic gear stays consistent even as his broader musical output — spanning Fleshwrought, session dates for Machine Head and Job for a Cowboy, and his own electronic productions — ranges far beyond a standard metal drum kit.
 
 ## Biography
 
@@ -94,14 +94,14 @@ Navene Koperweis's drumming style bridges extreme metal precision with electroni
 
 **Tours:**
 
-- **Animals as Leaders Tours** (2010-2012) — Progressive metal circuit
+- **Animals as Leaders Tours** (2009-2012) — Progressive metal circuit
 - **Entheos Touring** (2015-present) — Technical death metal scene
 - **Job for a Cowboy** (Various) — Session/touring drummer
 
 ## Band History
 
 - **Entheos** — 2015–present (current)
-- **Animals as Leaders** — 2012–2014
+- **Animals as Leaders** — 2009-2012
 
 ## Gear
 
@@ -157,7 +157,7 @@ A: Navene Koperweis uses Evans drumheads across his DW Performance kit.
 
 **Q: What band is Navene Koperweis in?**
 
-A: Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2010-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.
+A: Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2009-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.
 
 **Q: What other projects has Navene Koperweis worked on?**
 
@@ -241,4 +241,4 @@ Dated brand-endorsement timeline: [Navene Koperweis's endorsement history](https
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-17 · Source: [MetalForge.io](https://metalforge.io)*

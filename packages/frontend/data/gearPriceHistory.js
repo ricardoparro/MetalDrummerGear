@@ -5229,17 +5229,17 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Destroy the Opposition (2000)',
     profileImage: '/images/drummers/kevin-talley.webp',
 
-    summary: "Kevin Talley's 2000 setup behind Dying Fetus's Destroy the Opposition shows how a genuinely entry-level rig produced one of brutal death metal's most technically influential recordings. Talley's polyrhythmic double-kick patterns — shifting between straight and triplet groupings at 200+ BPM while the snare held a separate pulse — became a reference point for extreme metal drummers, and he built that reputation on a Pearl Export-tier shell pack, a basic steel snare, Sabian AAX cymbals, and a Pearl Eliminator double bass pedal. The complete rig cost approximately $2,846 in 2000 dollars, equivalent to roughly $5,414 in 2026 after CPI adjustment — a genuinely accessible price point for the technical ceiling it helped Talley reach.\n\nThat gap between gear cost and technical output is the throughline of Talley's career: rather than chasing boutique hardware, he carried the same Pearl/Sabian/Pearl Eliminator combination through Misery Index's Retaliate (2003) and Discordia (2006) and Dying Fetus's War of Attrition (2007) — refining touring reliability rather than upgrading tier. Talley's setup has since moved to Pearl Masters Custom / Reference Series shells, still paired with Sabian AAX cymbals and the Pearl Eliminator double pedal, a step up in shell build quality but the same cymbal and pedal brands he's used since 2000. For drummers researching how far extreme technique can be pushed on a mid-tier budget, Talley's Destroy the Opposition rig remains one of the clearest documented cases: the blast-speed ceiling was set by technique, not equipment.",
+    summary: "Kevin Talley's 2000 setup behind Dying Fetus's Destroy the Opposition shows how a genuinely entry-level rig produced one of brutal death metal's most technically influential recordings. Talley's polyrhythmic double-kick patterns — shifting between straight and triplet groupings at 200+ BPM while the snare held a separate pulse — became a reference point for extreme metal drummers, and he built that reputation on a Pearl Masters shell pack, a basic steel snare, Sabian AAX cymbals, and a Pearl Eliminator double bass pedal. The complete rig cost approximately $2,846 in 2000 dollars, equivalent to roughly $5,414 in 2026 after CPI adjustment — a genuinely accessible price point for the technical ceiling it helped Talley reach.\n\nThat gap between gear cost and technical output is the throughline of Talley's career: rather than chasing boutique hardware, he carried the same Pearl/Sabian/Pearl Eliminator combination through Misery Index's Retaliate (2003) and Discordia (2006) and Dying Fetus's War of Attrition (2007) — refining touring reliability rather than upgrading tier. Talley's setup has since moved to Pearl Masters Custom / Reference Series shells, still paired with Sabian AAX cymbals and the Pearl Eliminator double pedal, a step up in shell build quality but the same cymbal and pedal brands he's used since 2000. For drummers researching how far extreme technique can be pushed on a mid-tier budget, Talley's Destroy the Opposition rig remains one of the clearest documented cases: the blast-speed ceiling was set by technique, not equipment.",
 
     setup: {
       drums: {
-        item: 'Pearl Export Series',
+        item: 'Pearl Masters',
         model: '6-piece double-kick shell pack',
         specs: '22"x18" bass drum (x2, double kick), 10"x8"/12"x9" rack toms, 16"x14"/18"x16" floor toms',
         originalPrice: 1400,
         year: 2000,
-        source: 'Pearl Export Series catalog pricing 2000',
-        notes: "An entry-level Pearl shell pack, chosen for durable double-kick performance rather than premium tone — the twin 22\" kicks generated the sub-bass mass behind Talley's polyrhythmic patterns on Destroy the Opposition.",
+        source: 'Pearl Masters catalog pricing 2000',
+        notes: "Signed with Pearl in 2000 — chosen for durable double-kick performance, the twin 22\" kicks generated the sub-bass mass behind Talley's polyrhythmic patterns on Destroy the Opposition.",
         vintageValue2026: 1900,
         modernEquivalent: {
           item: 'Pearl Masters Custom / Reference Series (current Talley kit)',

@@ -16329,24 +16329,24 @@ This guide covers the blast beat and double bass technique behind Talley's sound
       title: "Talley's Gear Setup",
       drumKit: {
         brand: 'Pearl',
-        model: 'Pearl Masters Premium Legend',
+        model: 'Pearl Masters Custom / Reference Series',
         shells: 'Maple',
         finish: 'Various touring finishes',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 5.5" Pearl Masters Maple',
+          snare: '14" x 6.5" Pearl Steel',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "The Pearl Masters Premium Legend's all-maple shells give Talley the fast attack and note definition needed for blast beats to stay articulate at extreme tempo, without the muddiness that heavier, more resonant shells would introduce.",
+        description: "The Pearl Masters Custom / Reference Series' maple shells give Talley the fast attack and note definition needed for blast beats to stay articulate at extreme tempo, without the muddiness that heavier, more resonant shells would introduce.",
         affiliateNote: "Pearl Export or Masters Maple/Gum are solid budget-to-mid alternatives with similar attack characteristics."
       },
       snare: {
         brand: 'Pearl',
-        model: 'Pearl Masters Maple',
-        size: '14" x 5.5"',
-        shell: 'Maple',
-        description: "Talley's maple snare is tuned bright and cracking for maximum cut through dense, downtuned guitar riffs — essential for a snare that has to remain audible during 200+ BPM blast patterns.",
+        model: 'Pearl Steel',
+        size: '14" x 6.5"',
+        shell: 'Steel',
+        description: "Talley's steel snare is tuned bright and cracking for maximum cut through dense, downtuned guitar riffs — essential for a snare that has to remain audible during 200+ BPM blast patterns.",
         alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for a similarly bright, cutting alternative"
       },
       cymbals: {
@@ -16480,7 +16480,7 @@ This guide covers the blast beat and double bass technique behind Talley's sound
       pro: {
         price: "$5,000+",
         label: "Professional Setup",
-        kit: "Pearl Masters Premium Legend ($2,800+)",
+        kit: "Pearl Masters Custom / Reference Series ($2,800+)",
         cymbals: "Full Sabian AAX Selection ($1,500+)",
         pedals: "Pearl Eliminator Double Pedal ($400)",
         sticks: "Vic Firth American Classic 5B ($10)",
@@ -16495,7 +16495,7 @@ This guide covers the blast beat and double bass technique behind Talley's sound
       },
       {
         question: "What gear does Kevin Talley use?",
-        answer: "Talley plays a Pearl Masters Premium Legend kit with all-maple shells, a 14\" x 5.5\" Pearl Masters Maple snare, Sabian AAX cymbals, a Pearl Eliminator double pedal, and Vic Firth American Classic 5B sticks — a setup built for fast attack and articulation at extreme tempo."
+        answer: "Talley plays a Pearl Masters Custom / Reference Series kit with maple shells, a 14\" x 6.5\" Pearl steel snare, Sabian AAX cymbals, a Pearl Eliminator double pedal, and Vic Firth American Classic 5B sticks — a setup built for fast attack and articulation at extreme tempo."
       },
       {
         question: "How fast are Kevin Talley's blast beats?",

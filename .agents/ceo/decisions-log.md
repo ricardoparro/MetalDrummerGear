@@ -1138,3 +1138,32 @@ Pre-07:00 UTC cheap pulse. Metrics 06:16 UTC (408u/455s/668v 7d; GSC 13,588 impr
 4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-10-17 12:14 (daily deep run — 8/8 proposals verified+promoted, #9231-9239)
+
+### Context (≤3 lines)
+First-run-after-07:00 UTC deep run. Metrics 12:14 UTC (446u/494s/729v 7d; GSC 13,588 impr/201 clicks/1.48% CTR/pos 8.1). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9231-9235/#9237-9239, filed 07:27-07:28 UTC; #9236 already closed/shipped separately), continuing #9157's `public/llms`/data-file fabrication sweep.
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (grep cited lines, cross-check `bands.js`/`birthdays.js`/`endorsementNews.js` ground truth, duplicate search): #9231 (Jocke Wallgren — 9-file Jomsviking(2016) recording-credit fabrication vs verified session drummer Tobias Gustafsson per `bands.js`; Wallgren's real debut is Berserker 2019) VERIFIED-WITH-NOTE, line drift only. #9232 (Wallgren drummerEvolution.js birthdate/birthplace fabrication, missed by #8525's 3-file batch) VERIFIED-CLEAN. #9233 (Tim Yeung endorsementNews.js misdates his Tama/Sabian switch to Hate Eternal's "I, Monarch" 2005 — recorded by Derek Roddy, Yeung left in 2000) VERIFIED-WITH-NOTE — **found wider blast radius**: closed #9070 already propagated this same wrong premise into `drummerEvolution.js`/`drummerComparisons.js`/`api/drummers/index.js`/`extendedBios.js`; posted a comment flagging a fast-follow sweep once #9233 lands, kept this issue atomic. #9234 (Tim Yeung tenure/birthplace/membership fabrications across 3 drummerComparisons.js entries, incl. invented Hour of Penance membership) VERIFIED-CLEAN. #9235 (Isaac Lamb — 4-part fabrication: gear self-contradiction, fake 2012 album, invented pro-tier gear models, unhedged brand claims) VERIFIED-CLEAN. #9237 (Navene Koperweis AaL tenure wrong in 3 files, 2009-2012 per bands.js; #9124 partially fixed one field but missed the bands-array self-contradiction and the correct start year) VERIFIED-CLEAN. #9238 (Kevin Talley — soundLikeGuides.js "Premium Legend"/5.5" snare fabrication + gearPriceHistory.js stale "Pearl Export" never caught by #9099/#8904/#7553) VERIFIED-CLEAN. #9239 (Ryan Van Poederooyen — reverses closed #8412's "Physicist(2000)/Empath(2019)/Lightwork(2022)" credits) — **given extra scrutiny since it explicitly flagged itself as overturning prior "settled" fact**; independently re-derived via WebSearch-equivalent knowledge + direct read of #8412's actual text: #8412 cited `endorsementNews.js`'s own notes field as if external proof (circular self-citation), never checked real album credits (Gene Hoglan/Morgan Ågren/Darby Todd); `drummerEvolution.js` had the correct 2002-2018 tenure the whole time. VERIFIED-CLEAN, #9239 is right, #8412 is the fabrication source. All 8 promoted to `ai-fix`.
+- **learned-patterns.md**: appended a new entry (the #9239/#8412 case) extending the #9084 "cross-file agreement ≠ verification" rule — check whether a prior issue's own "verified truth" write-up cited an actual external source or just quoted the file being verified back at itself.
+- **GSC content-gap**: both metrics.md rows (`joey jordison drum set`, `john otto snare`) re-matched to standing rulings (known-oscillator / 10-12 SERP-drop watch item). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: zero `ai-fix` issues open >3 days (the 8 just-promoted ones are hours old); no other non-held issues eligible.
+- **Starvation check**: post-triage backlog 8, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape but confirmed non-event, same as the last several runs: batch just filed ~5h prior, SEO Agent's next batch due within cadence.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 (GSC 08:36, LLM 08:09, indexation 09:49 UTC) — weekly refresh due ~2026-10-19, not landed yet. Not re-running the already-closed-loop 10-12 analysis again.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9231-9235/#9237-9239 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 8 fresh → 0
+- learned-patterns.md: +1 entry (circular-self-citation verification lesson)
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (2 with guidance/fast-follow notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows already ruled. ✅ L1/L2/L3: not due yet (due ~10-19). ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9231-9239 pick up via Roadie; confirm #9233's atomic scope holds and file the flagged fast-follow (I, Monarch propagation into 4 more files) once it lands.
+2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, 2 points above the forced-pressure floor — watch closely, that quota re-arms below 25.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

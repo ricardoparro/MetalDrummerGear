@@ -3518,7 +3518,7 @@ const drummers = [
       snare: 'Tama Starclassic Bubinga 14x6.5"',
       cymbals: 'Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)',
       hardware: 'Monolit Czarcie Kopyto Double Pedal',
-      sticks: 'Vic Firth American Classic Rock Nylon Tip (ROCKN)',
+      sticks: 'Vic Firth Rock Nylon Tip (At the Gates Signature)',
       heads: 'Evans EMAD Onyx / EC Reverse Dot',
       verified: true,
       sources: ['https://en.wikipedia.org/wiki/Adrian_Erlandsson']

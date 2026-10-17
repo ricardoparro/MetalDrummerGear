@@ -27,7 +27,7 @@ Before co-founding Fear Factory, Raymond Herrera built his foundation in the Los
 - **Snare:** Steel shell 14"×5.5" (bright, cutting tone suited to hardcore punk's rhythmic attack)
 - **Cymbals:** Zildjian A Series — 14" hi-hats, 16"/18" crashes, 20" ride (reliable, affordable setup for an emerging underground player)
 - **Hardware:** Single bass pedal, mixed stands (all-acoustic, no triggering yet)
-- **Sticks:** Vater Power 5B hickory (heavy sticks that would remain a constant through his entire career)
+- **Sticks:** Vater Power 5B hickory (heavy sticks that would carry him through the Demanufacture/Obsolete era before the Pro-Mark switch in 2002)
 - **Heads:** Remo Ambassador — clear on toms, coated on snare
 - **Estimated kit cost (original):** ~$1,800
 
@@ -71,12 +71,12 @@ Fear Factory's 1992 debut Soul of a New Machine introduced Herrera's emerging in
 **Albums:** Demanufacture (1995), Obsolete (1998), Digimortal (2001)
 **Tours:** Demanufacture World Tour 1995–1996, Ozzfest 1997/1999/2001, Obsolete World Tour 1998–1999
 
-Demanufacture (1995) and Obsolete (1998) are the records that defined industrial metal drumming. Herrera moved to a Pearl Reference Series kit and built out a full ddrum/Roland trigger system across kick, snare, and toms — fusing acoustic shell resonance with electronically processed samples to create the "machine-like" precision that became Fear Factory's signature. Digimortal (2001) — featuring the hit single "Linchpin" — extended this hybrid approach into the band's commercial peak.
+Demanufacture (1995) and Obsolete (1998) are the records that defined industrial metal drumming. Herrera moved to a Tama Starclassic kit and built out a full ddrum/Roland trigger system across kick, snare, and toms — fusing acoustic shell resonance with electronically processed samples to create the "machine-like" precision that became Fear Factory's signature. Digimortal (2001) — featuring the hit single "Linchpin" — extended this hybrid approach into the band's commercial peak.
 
-- **Drums:** Pearl Reference Series — maple shells: dual 22" kicks, 10"/12"/14"/16" toms, fully triggered *(upgrade — consistent acoustic foundation needed for reliable trigger response)*
-- **Snare:** Pearl Custom 14"×6.5" steel, triggered *(upgrade — triggered snare let producers layer a processed, mechanical sample over the acoustic crack)*
+- **Drums:** Tama Starclassic — maple shells: dual 22" kicks, 10"/12"/14"/16" toms, fully triggered *(switch — consistent acoustic foundation needed for reliable trigger response)*
+- **Snare:** Tama 14"×6.5" Brass, triggered *(upgrade — triggered snare let producers layer a processed, mechanical sample over the acoustic crack)*
 - **Cymbals:** Zildjian Z Custom Series — 14" hi-hats, 16"/18" crashes, 20" ride *(switch — bright, machine-hammered cymbals for maximum cut and touring durability)*
-- **Hardware:** Pearl Eliminator Double Pedal, refined (continued — driving the machine-gun double-kick patterns at the heart of "Replica" and the Demanufacture title track)
+- **Hardware:** DW 5000 Series, refined (continued — driving the machine-gun double-kick patterns at the heart of "Replica" and the Demanufacture title track)
 - **Sticks:** Vater Power 5B (continued heavy hickory choice)
 - **Heads:** Remo Pinstripe (batter), Remo Ambassador Coated (snare) — trigger sensors fitted *(upgrade — optimized for clean, consistent trigger signal)*
 - **Electronics:** ddrum / Roland Trigger System — full-kit triggering across kick, snare, and toms *(new — the core innovation that defined industrial metal's "machine-like" drum sound)*
@@ -101,12 +101,12 @@ Demanufacture (1995) and Obsolete (1998) are the records that defined industrial
 
 After Fear Factory's 2002 split and 2003 reunion, Herrera continued refining the hybrid trigger system through Archetype (2004) and Transgression (2005), while also drumming for Brujeria and co-founding Arkaea with Christian Olde Wolbers in 2008. His departure from Fear Factory in 2009 closed out a nearly two-decade run as the architect of industrial metal's signature drum sound.
 
-- **Drums:** Pearl Reference Series (refined) — maple shells, dual kick, fully triggered (continued platform with refined trigger module integration)
-- **Snare:** Pearl Custom 14"×6.5", triggered (consistent triggered steel snare maintained since Demanufacture)
-- **Cymbals:** Zildjian Z Custom Series (continued) — 14" hi-hats, 16"/18" crashes, 20" ride
-- **Hardware:** Pearl Eliminator Double Pedal (continued) — same proven platform that drove his signature double-kick patterns for over a decade
-- **Sticks:** Vater Power 5B (continued — long-running endorsement maintained across his entire Fear Factory tenure)
-- **Heads:** Remo Pinstripe / Ambassador (continued — already optimized for clean trigger response)
+- **Drums:** Tama Starclassic — mechanically precise setup for the "stop-go" double bass technique (continued platform with trigger module integration for the band's post-reunion material)
+- **Snare:** Tama 14"×6.5" Brass, triggered — sharp, industrial crack cutting through the mechanized riffing (continued triggered Tama brass snare setup that had defined Fear Factory's sound since Demanufacture)
+- **Cymbals:** Zildjian A Custom & Z Custom Series (continued) — 14" A Custom Hi-Hats, 18"/19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China
+- **Hardware:** DW 5000 Series Double Pedal (continued) — same proven DW 5000 platform that drove his signature double-kick patterns for over a decade
+- **Sticks:** Pro-Mark 5A Oak Nylon Tip (switch — long-running Pro-Mark endorsement maintained across his entire Fear Factory tenure)
+- **Heads:** Attack Drumheads (switch — trigger-optimized head configuration, already suited to clean trigger response)
 - **Electronics:** ddrum / Roland Trigger System (refined) *(upgrade — continued refinement across Archetype and Transgression, plus side work with Brujeria and founding Arkaea)*
 - **Estimated kit cost (original):** ~$11,000
 
@@ -134,20 +134,24 @@ After Fear Factory's 2002 split and 2003 reunion, Herrera continued refining the
 
 ## Gear Brand Partnerships Timeline
 
-- **Pearl (drums)** — 1990–2009 (Export → Reference; the consistent backbone of the triggered hybrid kit)
+- **Pearl Export (drums)** — 1990–1994 (early-career shells before the Tama switch)
+- **Tama Starclassic (drums)** — 1995–2009 (dual-kick triggered platform; the consistent backbone of the hybrid kit from Demanufacture through Transgression)
 - **Zildjian A / A Custom (cymbals)** — 1989–~1995 (early career, pre-trigger era)
 - **Zildjian Z Custom (cymbals)** — ~1995–2009 (bright, durable; defined Demanufacture through Transgression)
-- **Pearl Eliminator (hardware)** — 1992–2009 (cam-driven double pedal throughout his Fear Factory tenure)
+- **Pearl Eliminator (hardware)** — 1992–1994 (cam-driven double pedal debut)
+- **DW 5000 Series (hardware)** — 1995–2009 (double pedal driving the machine-gun double-kick patterns throughout his Fear Factory tenure)
 - **ddrum / Roland Triggers (electronics)** — ~1995–2009 (full-kit triggering; the core of the industrial metal hybrid sound)
-- **Vater Power 5B (sticks)** — throughout career (consistent heavy hickory choice from Brujeria through departure)
-- **Remo (heads)** — throughout career (Ambassador → Pinstripe, optimized for trigger sensor response)
+- **Vater Power 5B (sticks)** — 1989–2001 (consistent heavy hickory choice from Brujeria through the Demanufacture/Obsolete era)
+- **Pro-Mark 5A Oak Nylon Tip (sticks)** — 2002–2009 (switched for the Archetype/Transgression era, maintained through departure)
+- **Remo (heads)** — 1989–2001 (Ambassador → Pinstripe, optimized for trigger sensor response)
+- **Attack Drumheads (heads)** — 2002–2009 (switched for trigger-optimized response through the Archetype/Transgression era and departure)
 
 ---
 
 ## FAQ
 
 **Q: What drum kit did Raymond Herrera use in Fear Factory?**
-A: Raymond Herrera played a Pearl Reference Series kit — maple shells configured with dual 22" kick drums and 10"/12"/14"/16" toms, every piece fitted with ddrum and Roland triggers. He moved to Pearl Reference for the Demanufacture era after starting on a Pearl Export Series kit during Soul of a New Machine.
+A: Raymond Herrera played a Tama Starclassic (with triggering) kit — maple shells configured with dual 22" kick drums and 10"/12"/14"/16" toms, every piece fitted with ddrum and Roland triggers. He moved to the Tama Starclassic for the Demanufacture era after starting on a Pearl Export Series kit during Soul of a New Machine.
 
 **Q: What cymbals did Raymond Herrera play?**
 A: Herrera played Zildjian Z Custom cymbals — bright, machine-hammered B20 bronze chosen for maximum cut through Fear Factory's heavily processed industrial guitar wall and for durability across extensive touring. He used Zildjian A and A Custom cymbals earlier in his career before switching to Z Custom around the Demanufacture era.
@@ -162,7 +166,7 @@ A: Raymond Herrera officially departed Fear Factory in 2009, after co-founding t
 A: Before and during his time in Fear Factory, Herrera was a founding member of Brujeria (joined 1989). After leaving Fear Factory in 2009, he had already co-founded Arkaea (2008) with Christian Olde Wolbers, releasing the album Years in the Darkness (2009).
 
 **Q: What drummer created Fear Factory's industrial sound?**
-A: Raymond Herrera, Fear Factory's founding drummer, created the band's signature industrial sound by pioneering the fusion of acoustic drumming with electronic drum triggers. His machine-gun double-bass patterns, built on a Pearl Reference kit with full ddrum/Roland triggering, became the template that countless industrial and groove metal drummers emulated.
+A: Raymond Herrera, Fear Factory's founding drummer, created the band's signature industrial sound by pioneering the fusion of acoustic drumming with electronic drum triggers. His machine-gun double-bass patterns, built on a Tama Starclassic kit with full ddrum/Roland triggering, became the template that countless industrial and groove metal drummers emulated.
 
 ---
 
@@ -171,7 +175,7 @@ A: Raymond Herrera, Fear Factory's founding drummer, created the band's signatur
 - [Raymond Herrera Drummer Profile](/llms/drummers/raymond-herrera.md)
 - [Raymond Herrera Drum Setup Breakdown](/llms/articles/raymond-herrera-drum-setup.md)
 - [Fear Factory Band Profile](/llms/bands.md)
-- [Pearl Drums Brand Guide](/llms/brands/pearl.md)
+- [Tama Drums Brand Guide](/llms/brands/tama.md)
 - [Zildjian Cymbal Guide](/llms/brands/zildjian.md)
 - [Industrial Metal Drumming Techniques](/techniques/industrial-metal)
 - [Metal Drumming Facts & Stats](/llms/facts.md)

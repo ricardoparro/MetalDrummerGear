@@ -1167,3 +1167,30 @@ First-run-after-07:00 UTC deep run. Metrics 12:14 UTC (446u/494s/729v 7d; GSC 13
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-10-17 18:11 (mid-day pulse — 6/6 proposals verified+promoted, #9242-9247)
+
+### Context (≤3 lines)
+First-run-after-13:00 UTC mid-day pulse. Metrics 18:11 UTC (452u/502s/739v 7d; GSC 13,588 impr/201 clicks/1.48% CTR/pos 8.1, unchanged vs 12:14 deep run). At run start: eligible `ai-fix` backlog **0** (Roadie fully drained all 3 earlier batches — #9200-9207/#9218-9220/#9231-9239 — confirmed via Roadie runs at 15:20/17:19 UTC and continuous PR Merger success through the afternoon, 0 open PRs remaining), 6 fresh untriaged `seo-proposal` (#9242-9247, filed 13:06-13:15 UTC), continuing the per-drummer fact-drift sweep across new files/guides not yet touched by prior fixes.
+
+### Actions taken
+- **Live-verified all 6 via 6 parallel subagents** (read cited lines, cross-checked `endorsementNews.js`/`birthdays.js`/`extendedBios.js` ground truth, checked line drift and overlap with closed issues): #9242 (Adrian Erlandsson `api/drummers/index.js` sticks field strips "(At the Gates Signature)" qualifier present in its own prose + endorsementNews.js) VERIFIED-CLEAN, line drift only (3525→3521). #9243 (Tim Yeung `genreGearGuides.js` deathcore bass-drum guide fabricates a Pearl/Demon Drive rig in 4 locations vs verified continuous Tama Starclassic Bubinga + Speed Cobra 910 since 2005; 6 prior sibling files already fixed, this guide missed) VERIFIED-WITH-NOTE — flagged a fabricated `pearl_demon_drive_double_pedal` affiliate link that also violates the empty-retailerUrls rule and must be dropped, not just re-branded. #9244 (Chris Turner `drummerEvolution.js` misdates 3 playthrough singles by 3-6 years + surfaces a real G-Maple-snare-year self-contradiction vs `endorsementNews.js`) VERIFIED-WITH-NOTE — confirmed no inline citation exists to resolve the G-Maple year; told implementer to ship the 3 safe song-year fixes regardless and resolve the ambiguity via commit history. #9245 (Jon Dette `drummerComparisons.js` fabricates "Bostaph recovered from injury" as the reason for Dette's 1996-97 Slayer stint, 4 locations/2 comparison pairs) VERIFIED-CLEAN, exact line matches, confirmed no other file in the repo repeats the injury claim. #9246 (Morgan Ågren 3-fix batch: fabricated "Designer Series" in `api/drummers/index.js`, self-contradicting DW/Zildjian narrative in `gear-history.md` vs the same file's own correct Price Evolution section, 3-way birthdate split) VERIFIED-WITH-NOTE — corrected sub-fix line numbers and caught a 2nd occurrence of the wrong birthdate in `birthdays.md` (line 84, not just 49) the issue missed. #9247 (Richard Christy 3-way birthdate split + wrong Iced Earth tenure end-year in a comparison FAQ) VERIFIED-CLEAN, all 4 cited locations exact. All 6 promoted to `ai-fix` (4 with guidance/correction comments).
+- **GSC content-gap** (metrics.md flagged 2 rows, unchanged from 12:14): `joey jordison drum set` (67 impr, 1.49% CTR) and `john otto snare` (92 impr, 1.09% CTR) both re-matched to standing rulings. No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: only >3-day-open `ai-fix` issues remain the #4932/#5044-5048/#5094-5108 roster/band batch, still correctly `hold`-labeled under the new-page freeze.
+- **Starvation check**: post-triage backlog 6, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trigger condition (backlog <15 AND bank ≤2) not met pre-triage (bank was 6), non-event.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 — weekly refresh due ~2026-10-19, not landed yet. Not re-running.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 6 (#9242-9247 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 6 fresh → 0
+
+### Quota check
+✅ SEO proposals: 6/6 triaged, live-verified, all promoted (4 with guidance/correction notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows already ruled. ✅ L1/L2/L3: not due yet (due ~10-19). ✅ Starvation: not triggered. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9242-9247 pick up via Roadie; confirm #9243's affiliate-link removal, #9244's 3 song-year fixes ship independent of the G-Maple resolution, #9246's corrected line numbers (1825/1832-1833, birthdays.md lines 49+84) get used.
+2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, 2 points above the forced-pressure floor.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

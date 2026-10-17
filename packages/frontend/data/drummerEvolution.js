@@ -17551,7 +17551,7 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
+            item: 'DW 9000 Series Double Pedal',
             details: 'Direct-drive twin bass drum pedal',
             notes: 'Gave Augusto the fast, direct-drive response his aggressive double-kick fills required.',
             change: CHANGE_TYPES.NEW,
@@ -17617,7 +17617,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
+            item: 'DW 9000 Series Double Pedal',
             details: 'Unchanged',
             notes: 'No change from the In Waves era.',
             change: null,

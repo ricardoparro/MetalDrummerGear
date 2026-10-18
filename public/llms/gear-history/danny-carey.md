@@ -64,7 +64,7 @@
 - **Pedal:** DW 9000 double pedal (upgraded from 5002 for improved spring-tension control)
 - **Electronics:** Roland SPD-SX Pro for sample triggering; custom MIDI percussion installations
 - **Sticks:** Vic Firth Danny Carey Signature
-- **Heads:** Evans G2 (toms), EMAD (kick), coated G1 (snare batter)
+- **Heads:** Remo (toms, kick, snare batter)
 - **Notable:** Fear Inoculum (2019) arrived 13 years after 10,000 Days, with the title track running 10+ minutes. Carey's drumming on the album displayed continued evolution — particularly the integration of electronic textures with acoustic performance in real time, an area he has developed further than any other drummer in rock music.
 
 ---
@@ -98,7 +98,7 @@ A: Danny Carey has used Zildjian A Custom cymbals as his core setup throughout h
 A: Several elements distinguish Carey's setup: (1) He has integrated hybrid acoustic/electronic percussion since Tool's debut, earlier and more consistently than any comparable mainstream heavy rock drummer. (2) He has kept a large Paiste gong as a permanent fixture for 30+ years. (3) His rhythmic approach draws on sacred geometry and polyrhythmic composition theory — the Fibonacci sequence, odd-meter cycles, and metric modulation applied to arrangements rather than used as abstract showcases. (4) He maintains an active jazz session practice alongside Tool, keeping his dynamic range unusually wide for a metal drummer.
 
 **Q: What is Danny Carey's current drum kit?**  
-A: As of Tool's Fear Inoculum era and ongoing touring, Danny Carey plays a Pearl Reference Pure in a large configuration, with a Pearl Masterworks 14"×6.5" snare, Zildjian A Custom cymbals, a Paiste gong, Roland SPD-SX Pro electronic pads, DW 9000 double pedals, Evans heads (G2 toms, EMAD kick), and Vic Firth Danny Carey Signature sticks.
+A: As of Tool's Fear Inoculum era and ongoing touring, Danny Carey plays a Pearl Reference Pure in a large configuration, with a Pearl Masterworks 14"×6.5" snare, Zildjian A Custom cymbals, a Paiste gong, Roland SPD-SX Pro electronic pads, DW 9000 double pedals, Remo heads, and Vic Firth Danny Carey Signature sticks.
 
 ---
 

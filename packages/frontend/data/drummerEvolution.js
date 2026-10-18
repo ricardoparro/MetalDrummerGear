@@ -5029,7 +5029,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 2B',
+            item: 'Vic Firth American Classic 5B',
             details: 'Heavy hickory — playing backwards',
             notes: 'Vinnie played sticks held backwards (tapered end), his signature technique for extra power and a unique feel.',
             change: null,
@@ -5100,7 +5100,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 2B (held backwards)',
+            item: 'Vic Firth American Classic 5B (held backwards)',
             details: 'Thick hickory, tapered end used as grip',
             notes: 'Vinnie\'s famous backward stick grip — holding the thick end, striking with the taper — for raw power. Immediately identifiable technique.',
             change: null,
@@ -5172,7 +5172,7 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           sticks: {
-            item: 'Vic Firth 2B (backwards)',
+            item: 'Vic Firth American Classic 5B (backwards)',
             details: 'Continued backward-held thick hickory',
             notes: 'Far Beyond Driven\'s demand for raw power made the backward stick technique more essential than ever.',
             change: null,
@@ -5250,7 +5250,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 2B (held backwards)',
+            item: 'Vic Firth American Classic 5B (held backwards)',
             details: 'Continued backward technique throughout career',
             notes: 'The backward stick technique never changed — a defining characteristic maintained for the entirety of Vinnie\'s career. Immediately identified him on sight.',
             change: null,
@@ -5321,7 +5321,7 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vic Firth 2B (held backwards)',
+            item: 'Vic Firth American Classic 5B (held backwards)',
             details: 'Continued backward technique throughout career',
             notes: 'The backward stick technique never changed — a defining characteristic maintained for the entirety of Vinnie\'s career. Immediately identified him on sight.',
             change: null,

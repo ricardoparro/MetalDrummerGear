@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-17 19:11 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-18 00:31 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,31 +8,31 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 452 |
-| Sessions | 502 |
-| Page views | 739 |
-| Engagement rate | 63.75% |
-| Avg session (s) | 193 |
+| Active users | 416 |
+| Sessions | 461 |
+| Page views | 682 |
+| Engagement rate | 63.99% |
+| Avg session (s) | 202 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 49 | 26 |
-| /drummers | 29 | 8 |
+| / | 46 | 25 |
 | /bpm | 28 | 2 |
-| /drummer/mario-duplantier | 20 | 18 |
+| /drummers | 26 | 7 |
+| /drummer/mario-duplantier | 21 | 19 |
 | /drummer/matt-greiner | 16 | 10 |
-| /drummer/eloy-casagrande | 13 | 11 |
-| /studies/metal-tempo-by-subgenre | 13 | 7 |
-| /drummer/bill-ward | 9 | 8 |
+| /drummer/eloy-casagrande | 12 | 10 |
+| /studies/metal-tempo-by-subgenre | 12 | 7 |
+| /drummer/bill-ward | 8 | 7 |
 | /drummer/kevin-talley | 8 | 5 |
 | /guides/beginner-metal-drummer-setup | 8 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 363 | 316 |
-| Direct | 136 | 133 |
+| Organic Search | 330 | 289 |
+| Direct | 127 | 124 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 | Referral | 1 | 1 |
@@ -40,58 +40,58 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 165 | 143 |
-| Singapore | 66 | 66 |
-| China | 35 | 35 |
-| Canada | 32 | 27 |
-| Germany | 25 | 21 |
-| United Kingdom | 18 | 15 |
-| Australia | 16 | 15 |
-| France | 12 | 12 |
+| United States | 149 | 130 |
+| Singapore | 62 | 62 |
+| China | 32 | 32 |
+| Canada | 31 | 26 |
+| Germany | 22 | 18 |
+| Australia | 15 | 14 |
+| United Kingdom | 14 | 11 |
 | Brazil | 11 | 10 |
-| New Zealand | 10 | 5 |
+| France | 11 | 11 |
+| Italy | 11 | 11 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 13,588 |
-| Clicks | 201 |
-| CTR | 1.48% |
-| Avg position | 8.1 |
+| Impressions | 14,340 |
+| Clicks | 214 |
+| CTR | 1.49% |
+| Avg position | 8.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier drum kit | 31 | 3 | 9.68% | 7.1 |
-| eloy casagrande slipknot drum kit | 5 | 2 | 40.00% | 4.4 |
-| joey jordison drum kit | 60 | 2 | 3.33% | 7.4 |
-| matt greiner cymbal setup | 8 | 2 | 25.00% | 6.4 |
-| best drum heads for metal | 20 | 1 | 5.00% | 10.2 |
-| fastest double kick drummer | 2 | 1 | 50.00% | 5.5 |
+| mario duplantier drum kit | 34 | 4 | 11.76% | 6.6 |
+| matt greiner cymbal setup | 14 | 3 | 21.43% | 6.9 |
+| eloy casagrande slipknot drum kit | 4 | 2 | 50.00% | 5.0 |
+| joey jordison drum kit | 56 | 2 | 3.57% | 7.6 |
+| eloy casagrande drum kit | 42 | 1 | 2.38% | 7.9 |
+| fastest double kick drummer | 3 | 1 | 33.33% | 5.3 |
 | frost drums | 2 | 1 | 50.00% | 4.5 |
+| gojira drum kit | 4 | 1 | 25.00% | 7.0 |
 | greatest metal drummers | 2 | 1 | 50.00% | 13.0 |
-| iggor cavalera drum kit | 3 | 1 | 33.33% | 5.7 |
-| joey jordison drum set | 67 | 1 | 1.49% | 9.2 |
+| iggor cavalera drum kit | 4 | 1 | 25.00% | 6.3 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,871 | 68 | 1.76% | 8.4 |
-| can | 483 | 14 | 2.90% | 7.3 |
-| deu | 345 | 12 | 3.48% | 7.2 |
-| gbr | 708 | 10 | 1.41% | 8.5 |
-| aus | 428 | 9 | 2.10% | 7.5 |
-| fra | 233 | 7 | 3.00% | 8.0 |
-| esp | 201 | 6 | 2.99% | 8.2 |
-| ita | 195 | 6 | 3.08% | 7.3 |
-| bra | 947 | 5 | 0.53% | 6.5 |
+| usa | 3,819 | 73 | 1.91% | 8.4 |
+| can | 511 | 17 | 3.33% | 7.4 |
+| deu | 366 | 14 | 3.83% | 7.2 |
+| aus | 418 | 12 | 2.87% | 7.4 |
+| fra | 265 | 8 | 3.02% | 8.2 |
+| ita | 216 | 8 | 3.70% | 7.3 |
+| gbr | 771 | 7 | 0.91% | 8.7 |
+| bra | 1,055 | 5 | 0.47% | 6.7 |
+| esp | 218 | 5 | 2.29% | 8.7 |
 | swe | 145 | 5 | 3.45% | 6.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum set | 67 | 1.49% | 9.2 | open issue to answer better |
-| john otto snare | 92 | 1.09% | 7.6 | open issue to answer better |
+| jaska raatikainen | 89 | 1.12% | 10.7 | open issue to answer better |
+| john otto snare | 68 | 1.47% | 7.1 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -7,7 +7,7 @@
 
 ## Overview
 
-George Kollias holds a Guinness World Record for the fastest blast beat — 1,007 beats per minute achieved in a controlled setting. But what makes Kollias genuinely exceptional isn't the record: it's that he can sustain near-record tempos for the duration of a full Nile performance without audible loss of control or power. As Nile's drummer since 2004, Kollias has been the engine behind some of technical death metal's most demanding music — albums like "Annihilation of the Wicked," "Ithyphallic," and "What Should Not Be Unearthed" that demand sustained blast beats at 200+ BPM for minutes at a time. He achieves this through systematic physical conditioning documented in his instructional series "Intense Metal Drumming." His Pearl signature snare and direct-drive pedal setup are engineered for maximum articulation at extreme speed.
+George Kollias is renowned for sustaining blast beats at 200-260+ BPM throughout full-length live performances with Nile — a feat of endurance and control that few drummers can match. What makes Kollias genuinely exceptional isn't a single burst of speed: it's that he can sustain near-elite tempos for the duration of a full Nile performance without audible loss of control or power. As Nile's drummer since 2004, Kollias has been the engine behind some of technical death metal's most demanding music — albums like "Annihilation of the Wicked," "Ithyphallic," and "What Should Not Be Unearthed" that demand sustained blast beats at 200+ BPM for minutes at a time. He achieves this through systematic physical conditioning documented in his instructional series "Intense Metal Drumming." His Pearl signature snare and direct-drive pedal setup are engineered for maximum articulation at extreme speed.
 
 ## Kit Setup
 
@@ -66,7 +66,7 @@ George uses **matched grip** with a highly refined wrist technique. His approach
 ## FAQ
 
 **Q: What is George Kollias's blast beat speed?**  
-A: George Kollias holds the Guinness World Record for the fastest blast beat at 1,007 BPM, achieved in a controlled setting. In live performance with Nile, he sustains blast beats at 200-260 BPM for extended passages.
+A: George Kollias is renowned for his endurance: in live performance with Nile, he sustains blast beats at 200-260 BPM for extended passages, a pace few drummers can maintain for a full set.
 
 **Q: How does George Kollias play so fast for so long?**  
 A: Through systematic physical conditioning and technique refinement. His ankle-isolation foot technique minimizes fatigue by keeping calf muscles out of the equation. He also trains cardiovascular endurance alongside drumming technique.

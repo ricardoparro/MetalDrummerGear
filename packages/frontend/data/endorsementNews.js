@@ -2254,7 +2254,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.ELECTRONICS,
         from: null,
         to: 'Roland',
-        notes: 'Integrated a Roland SPD-SX sampling pad and bass drum trigger system on the "Icarus" EP, building the hybrid acoustic/electronic rig that defined his sound',
+        notes: 'Integrated a Roland SPD-SX sampling pad and bass drum trigger system for his post-Periphery solo and session work, building the hybrid acoustic/electronic rig that defined his sound',
       },
       {
         year: 2016,

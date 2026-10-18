@@ -25,9 +25,9 @@ The pre-groove metal years. Young Vinnie and Dimebag played hard rock and glam m
 
 - **Drums:** Tama Imperialstar — standard 5-piece: 22" kick, 12"/13"/16" toms
 - **Snare:** Tama Steel 14"×5.5" (standard steel shell)
-- **Cymbals:** Zildjian A Series — 14" hi-hats, 16"/18" crashes, 20" ride
+- **Cymbals:** Sabian AA — 14" hi-hats, 16"/18" crashes, 20" ride
 - **Hardware:** Tama Iron Cobra double pedal
-- **Sticks:** Vic Firth 2B hickory (held backwards — signature technique begins early)
+- **Sticks:** Vic Firth American Classic 5B hickory (backward grip — signature technique begins early)
 - **Heads:** Remo Ambassador (clear on toms)
 - **Estimated kit cost (original):** ~$4,000
 
@@ -46,19 +46,19 @@ The pre-groove metal years. Young Vinnie and Dimebag played hard rock and glam m
 **Albums:** Cowboys from Hell (1990)
 **Tours:** Cowboys from Hell World Tour; support for Judas Priest, Skid Row
 
-The reinvention. *Cowboys from Hell* (1990) discarded everything from Pantera's glam era and launched groove metal as a genre. Vinnie's pocket drumming on "Cemetery Gates," "Domination," and the title track became the template for an entire decade of heavy music. The dual 24" kick configuration — and the switch to Sabian — were born in this era.
+The reinvention. *Cowboys from Hell* (1990) discarded everything from Pantera's glam era and launched groove metal as a genre. Vinnie's pocket drumming on "Cemetery Gates," "Domination," and the title track became the template for an entire decade of heavy music. The dual 24" kick configuration was born in this era.
 
 - **Drums:** Tama Artstar II — birch shells: dual 24" kicks, 10"/12"/13"/14"/16"/18" toms *(upgrade — larger, more powerful birch setup)*
 - **Snare:** Tama Artstar II 14"×6.5" birch, die-cast hoops *(upgrade — deeper shell for groove metal body)*
-- **Cymbals:** Sabian AAX — 14" hi-hats, 18"/19"/20" crashes, 22" ride, 20" China *(switch — lifelong Sabian partnership begins)*
+- **Cymbals:** Sabian AAX — 14" hi-hats, 18"/19"/20" crashes, 22" ride, 20" China *(upgrade — lifelong Sabian partnership continues)*
 - **Hardware:** Tama Iron Cobra double pedal + dual physical kick drums *(two independent bass drums, not a double pedal on one)*
-- **Sticks:** Vic Firth 2B held backwards (continued)
+- **Sticks:** Vic Firth American Classic 5B, backward grip (continued)
 - **Heads:** Remo Pinstripe on toms *(switch — controlled tone for Terry Date's studio recording)*
 - **Estimated kit cost (original):** ~$12,000
 
 **Key developments:**
 - Genre-defining groove metal sound established
-- Sabian AAX cymbal endorsement begins — Vinnie's lifelong cymbal partnership
+- Sabian AAX cymbal setup upgraded — continuing Vinnie's lifelong cymbal partnership
 - Dual 24" kick drums become Vinnie's visual and sonic signature
 - *Cowboys from Hell* (1990) — groove metal's founding document, released on Atco/EastWest Records
 
@@ -77,7 +77,7 @@ Pantera's commercial and artistic peak. *Vulgar Display of Power* defined aggres
 - **Snare:** Pearl Free-Floating 14"×8" steel — unusual 8" depth for maximum body *(switch — the defining Vinnie Paul snare sound; 8" depth unique in groove metal)*
 - **Cymbals:** Sabian AAX / HHX — 14" AAX Metal hi-hats, 18"/19"/20" crashes, 22" HHX ride, 20" China *(upgrade — added HHX models for drier, more defined articulation)*
 - **Hardware:** Pearl Eliminator Double Pedal + dual physical 24" kicks
-- **Sticks:** Vic Firth 2B held backwards (continued)
+- **Sticks:** Vic Firth American Classic 5B, backward grip (continued)
 - **Heads:** Remo Powerstroke 3 on kicks, Emperor on toms *(switch — Powerstroke 3 for controlled, punchy bass drum tone)*
 - **Electronics:** ddrum triggers on kicks *(new — arena-scale consistency for massive bass drum levels)*
 - **Estimated kit cost (original):** ~$18,000
@@ -104,7 +104,7 @@ The final chapters. *The Great Southern Trendkill* and *Reinventing the Steel* c
 - **Snare:** ddrum Vinnie Paul Signature Snare 14"×8" maple *(signature — maintained the 8" depth that defined his career sound)*
 - **Cymbals:** Sabian AAX / HHX — 14" AAX Metal hi-hats, 18"/19"/20" crashes, 22" HHX Raw Bell Dry Ride, 20" China *(continued — Sabian across entire career)*
 - **Hardware:** ddrum Heavy-Duty Hardware + ddrum Vinnie Paul Signature Throne *(switch — matched ddrum endorsement package)*
-- **Sticks:** Vic Firth 2B held backwards (continued for entire career — never changed)
+- **Sticks:** Vic Firth American Classic 5B, backward grip (continued for entire career — never changed)
 - **Heads:** Evans EC Reverse Dot on snare batter, Hazy 300 snare side *(switch — Evans for controlled attack and consistent snare crack)*
 - **Electronics:** ddrum full trigger system on kicks and snare *(upgrade — integrated with signature kit for live and studio use)*
 - **Estimated kit cost (original):** ~$20,000
@@ -137,8 +137,8 @@ The final chapters. *The Great Southern Trendkill* and *Reinventing the Steel* c
 - **Tama Artstar II** — 1990–1991 (Cowboys from Hell era — groove metal launch)
 - **Pearl Masters Custom** — 1992–~2008 (Vulgar Display era through early Hellyeah)
 - **ddrum Vinnie Paul Signature Series** — ~2008–2018 (definitive final kit)
-- **Sabian AAX/HHX** — 1990–2018 (entire professional career, Cowboys through Hellyeah)
-- **Vic Firth 2B (backwards)** — 1981–2018 (lifelong stick choice and technique)
+- **Sabian AA/AAX/HHX** — 1981–2018 (entire career, glam era through Hellyeah)
+- **Vic Firth American Classic 5B (backward grip)** — 1981–2018 (lifelong stick choice and technique)
 - **ddrum Triggers** — 1994–2018 (kick and snare triggering)
 
 ---
@@ -146,7 +146,7 @@ The final chapters. *The Great Southern Trendkill* and *Reinventing the Steel* c
 ## FAQ
 
 **Q: What drum kit did Vinnie Paul use on Cowboys from Hell?**
-A: For *Cowboys from Hell* (1990), Vinnie played a Tama Artstar II with birch shells — dual 24" kick drums, and toms in 10", 12", 13", 14", 16", and 18" sizes. Cymbals were Sabian AAX. This was the album where the Sabian partnership began and the dual 24" kick configuration became Vinnie's signature.
+A: For *Cowboys from Hell* (1990), Vinnie played a Tama Artstar II with birch shells — dual 24" kick drums, and toms in 10", 12", 13", 14", 16", and 18" sizes. Cymbals were Sabian AAX. This was the album where the dual 24" kick configuration became Vinnie's signature.
 
 **Q: What drum kit did Vinnie Paul use on Vulgar Display of Power?**
 A: *Vulgar Display of Power* (1992) was recorded with a Pearl Masters Custom — maple shells, dual 24" kicks — and the signature 14"×8" deep steel snare that defined Vinnie's sound. Cymbals were Sabian AAX/HHX. The ddrum triggers on the kick drums made their first appearance in this era.
@@ -158,7 +158,7 @@ A: Vinnie Paul's signature technique was holding his drumsticks backwards — gr
 A: Vinnie's most iconic snare was the 14"×8" deep steel snare — first Pearl Free-Floating in the Vulgar Display era, then the ddrum Vinnie Paul Signature Snare in his later years. The 8" depth — twice the standard snare depth — gave his snare the massive, chest-thumping crack that could cut through Dimebag's saturated guitar wall.
 
 **Q: What cymbals did Vinnie Paul use?**
-A: Vinnie was loyal to Sabian for his entire professional career, beginning with Cowboys from Hell in 1990. His primary cymbals were from the Sabian AAX series (bright and cutting for rock volumes) with HHX models added later. His setup consistently featured 14" AAX Metal hi-hats, large crashes (18"–20"), and a 20" China cymbal.
+A: Vinnie was loyal to Sabian for his entire career. His primary cymbals were from the Sabian AAX series (bright and cutting for rock volumes) with HHX models added later. His setup consistently featured 14" AAX Metal hi-hats, large crashes (18"–20"), and a 20" China cymbal.
 
 **Q: What happened to Vinnie Paul after Pantera ended?**
 A: After Dimebag Darrell was murdered on stage on December 8, 2004 — a tragedy Vinnie witnessed — Pantera effectively ended. Vinnie went through years of grief before forming Hellyeah in 2006 with members of Mudvayne and Nothingface. He continued recording and touring with Hellyeah until his death from dilated cardiomyopathy on June 22, 2018. He was 54 years old.

@@ -1644,7 +1644,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Cowboys from Hell (1990)',
     profileImage: '/images/drummers/vinnie-paul.webp',
 
-    summary: "Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pantera into the mainstream metal consciousness and defined the groove metal drum sound for the decade. Paul played a Tama drum kit — signed specifically for the Cowboys from Hell album cycle — with Sabian cymbals and a DW double pedal, delivering the thunderous, pocket-locked groove that underpinned Dimebag Darrell's guitar work. The setup cost approximately $2,728 in 1990 dollars — equivalent to about $6,840 in 2026. Paul remained on Tama through Far Beyond Driven (1994), then transitioned to a Pearl Custom Series configuration with expanded hardware in 1996, spanning The Great Southern Trendkill and Reinventing the Steel, and remaining on Pearl through the Damage Plan era. By 2008, forming Hellyeah, he had signed with ddrum, which developed his Vinnie Paul Signature Series kit. Each phase of this gear evolution represents both Paul's growing commercial success and clear inflationary trends in professional drum equipment across the decade. Vinnie Paul's playing has been cited by drummers including Dave Grohl and Chad Smith as a defining influence on power groove drumming — his combination of tight backbeats and explosive fills remains one of the most studied approaches in heavy metal.",
+    summary: "Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pantera into the mainstream metal consciousness and defined the groove metal drum sound for the decade. Paul played a Tama drum kit — signed specifically for the Cowboys from Hell album cycle — with Sabian cymbals, delivering the thunderous, pocket-locked groove that underpinned Dimebag Darrell's guitar work. The setup cost approximately $2,728 in 1990 dollars — equivalent to about $6,840 in 2026. Paul remained on Tama through Far Beyond Driven (1994), then transitioned to a Pearl Custom Series configuration with expanded hardware in 1996, spanning The Great Southern Trendkill and Reinventing the Steel, and remaining on Pearl through the Damageplan era. By 2008, forming Hellyeah, he had signed with ddrum, which developed his Vinnie Paul Signature Series kit. Each phase of this gear evolution represents both Paul's growing commercial success and clear inflationary trends in professional drum equipment across the decade. Vinnie Paul's playing has been cited by drummers including Dave Grohl and Chad Smith as a defining influence on power groove drumming — his combination of tight backbeats and explosive fills remains one of the most studied approaches in heavy metal.",
 
     setup: {
       drums: {
@@ -1693,18 +1693,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'DW 5002 Double Pedal + Tama Hardware',
-        model: 'DW 5002 chain drive + Tama stands',
-        specs: 'Chain drive double pedal, hi-hat stand, 4 boom cymbal stands, snare stand',
+        item: 'Tama Hardware + Double Pedal (brand undocumented)',
+        model: 'Tama stands; pedal brand not verified',
+        specs: 'Double bass pedal (brand undocumented), hi-hat stand, 4 boom cymbal stands, snare stand',
         originalPrice: 380,
         year: 1990,
-        source: 'DW hardware retail 1990, Tama hardware catalog',
-        notes: "DW 5002 chain drive double pedal for Paul's hard-hitting double bass work on Cowboys from Hell. Paul's double bass approach on tracks like 'Domination' and 'Primal Concrete Sledge' prioritised power and groove over sheer speed — the 5002's spring tension was well-matched to his style.",
+        source: 'Tama hardware catalog 1990',
+        notes: "Paul ran a single bass drum with a double pedal rather than true double-kick for tracks like 'Domination' and 'Primal Concrete Sledge' — no specific pedal brand is documented in verified sources for this era.",
         vintageValue2026: 450,
         modernEquivalent: {
-          item: 'DW 9002 Double Pedal + hardware pack',
+          item: 'Standard Double Bass Pedal (Current)',
           price: 900,
-          link: 'dw-9002-double-pedal',
+          link: 'standard-double-bass-pedal',
         },
       },
       sticks: {
@@ -1752,7 +1752,7 @@ export const GEAR_PRICE_HISTORY = {
       { year: 1994, price: 3200, label: 'Far Beyond Driven', event: 'Paul continues on Tama' },
       { year: 1996, price: 3800, label: 'The Great Southern Trendkill', event: 'Paul switches to Pearl Custom' },
       { year: 2000, price: 5200, label: 'Reinventing the Steel', event: 'Pantera final studio album' },
-      { year: 2004, price: 5800, label: 'Damage Plan era', event: 'Paul remains on Pearl' },
+      { year: 2004, price: 5800, label: 'Damageplan era', event: 'Paul remains on Pearl' },
       { year: 2018, price: 8500, label: 'Legacy premium', event: 'Vinnie Paul passes away; collector interest spikes' },
       { year: 2026, price: 6840, label: 'Current adjusted', event: 'Inflation-adjusted value' },
     ],

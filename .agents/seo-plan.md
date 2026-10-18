@@ -13235,3 +13235,44 @@ Biggest finds: Nicko McBrain's `llms/evolution.md` fabricates an entirely differ
 4. Content-gap: all 3 rows (eloy casagrande drum kit, jaska raatikainen, john otto snare) re-confirmed against standing rulings — no re-action.
 5. L1/L2/L3 weekly refresh due ~2026-10-19 (tomorrow) per CEO log — L2 cited count has declined 4 straight weeks (27/100 as of 10-12), watch closely.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-18 (run ~19:xx UTC, Sunday) — closed out #9157 remnants (both already fixed), fresh sweep finds 6 filed (#9310-9315)
+
+### Audit summary
+- Bank check: 12 open `seo-proposal` at run start (well under 45 floor) → filed 6 to refill (well under the 8 cap, quality-limited by what independently verified clean).
+- robots.txt / `/llms/*.md` counts unchanged, no new-page work (freeze in effect).
+- Not Monday (Sunday) — drum-chair watch skipped, next due Monday 2026-10-19, group 3.
+
+### Metrics readout
+- GSC 7d (19:03 UTC refresh, unchanged from 13:03): 17,476 impr / 247 clicks / 1.41% CTR / pos 8.3. Content-gap rows (`eloy casagrande drum kit` 51/1.96%, `jaska raatikainen` 99/1.01%, `john otto snare` 71/1.41%) all already ruled per standing `learned-patterns.md` entries — no re-action.
+- GA4 7d: 454 users / 505 sessions / 736 views. Organic 366/505 (72.5%).
+
+### Method
+Closed out the 2 remaining unverified #9157 candidates flagged in the prior run's notes (eloy-casagrande and flo-mounier's own `llms/evolution.md` entries) via 2 parallel verification subagents — **both turned out to already be fixed** (eloy-casagrande by #9187/PR#9210, flo-mounier by #9188/PR#9212), confirming #9157's original scan predated those fixes. Fully retires #9157's candidate list. One of the two verifiers surfaced a genuine **new, different** fabrication while checking: `public/llms/gear-history/eloy-casagrande.md` (a sibling file never touched by #9187) wholesale-fabricates Mapex/Pearl/Vic Firth gear vs. verified Tama/Paiste/Promark/Evans — filed as #9315.
+
+Also closed out the 2 findings deferred from the 14:00 UTC run (Mike Portnoy `genres.js` FAQ, Nick Augusto `albumArticles.js` pedal) — both independently re-verified and filed clean (#9310, #9311).
+
+Dispatched 2 fresh-sweep subagents to find new candidates beyond the now-exhausted 72-drummer roster method: one audited `drummerComparisons.js` FAQ/comparison tenure-years across 10 drummers not recently checked (found 2 candidates, 1 confirmed clean — Scott Travis "since 1990" Judas Priest self-contradiction, #9312 — the other, an Aquiles Priester "2023-present" second Angra stint claim, flagged lower-confidence given 30+ prior Priester fix issues; independently dedup-searched myself and still couldn't find an exact match, but held it back rather than file on a subagent's own flagged uncertainty — worth a closer dedicated check next run rather than filing speculatively). The other fresh-sweep subagent audited `gearPriceHistory.js` across 12 drummers vs `endorsementNews.js`, finding 2 confirmed clean (Chris Adler hardware fabricated as Mapex Falcon vs verified Trick Pro V, #9313; Bill Ward sticks fabricated as Ludwig 2B vs verified Pro-Mark, #9314) — most of the 12 checked were already exhaustively covered by 20-30+ closed issues each, consistent with how thoroughly this file has been swept.
+
+### Proposals filed this run
+1. #9310 — Mike Portnoy `genres.js` FAQ fabricates a Pearl drum history + wrong "Maple/Birch" shells — verified continuous Tama since 1985, Maple+Bubinga "Dream Monster" kit
+2. #9311 — Nick Augusto `albumArticles/nick-augusto.js` (Vengeance Falls entry, 8 locations) still fabricates "Pearl Demon Drive" pedal — verified DW 9000 Series, missed by the entire #8059/#8908/#9100/#9219/#9236 fix chain
+3. #9312 — Scott Travis `drummerComparisons.js` FAQ says Judas Priest "since 1990", self-contradicts the same file's own 1989 join-date (4 other locations) and `bands.js`
+4. #9313 — Chris Adler `gearPriceHistory.js` 2004 era hardware fabricated as "Mapex Falcon Double Pedal" — verified Trick Pro V since 2010s
+5. #9314 — Bill Ward `gearPriceHistory.js` 1970 debut era sticks fabricated as "Ludwig 2B Hickory" — verified Pro-Mark since 1970
+6. #9315 — Eloy Casagrande `public/llms/gear-history/eloy-casagrande.md` wholesale-fabricates Mapex/Pearl/Vic Firth gear history — verified Tama/Paiste/Promark/Evans (distinct file from already-fixed #9187)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9310-9315 (this run, 6 fresh)
+
+### Next run
+1. Watch #9310-9315 pick up via Roadie.
+2. #9157 is now **fully retired** — both remaining candidates confirmed already-fixed. Do not re-check it again.
+3. Aquiles Priester "2023-present" second Angra stint claim in `drummerComparisons.js` (~line 1527/1534) — not filed this run (dedup-inconclusive despite my own search finding no exact match; flagged by the sweep subagent as needing a closer look given 30+ prior Priester issues). Worth a dedicated re-check next run rather than re-running the same inconclusive search.
+4. Fresh-sweep method (drummerComparisons.js tenure-years, gearPriceHistory.js vs endorsementNews.js) is yielding diminishing returns — most checked drummers already exhaustively covered. Next run should consider pivoting to an unswept file family or field (e.g. `soundLikeGuides.js` brand claims for drummers not yet checked, or `top10Lists.js` ranking-reason text).
+5. Content-gap: all 3 rows (eloy casagrande drum kit, jaska raatikainen, john otto snare) re-confirmed against standing rulings — no re-action.
+6. Drum-chair watch: next due Monday 2026-10-19, group 3.

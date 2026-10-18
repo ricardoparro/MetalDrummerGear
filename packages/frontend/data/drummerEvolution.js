@@ -9458,24 +9458,24 @@ export const DRUMMER_EVOLUTION = {
   },
 
   // ==========================================
-  // Morgan Agren - Avant-Garde / Progressive (1983–Present)
+  // Morgan Agren - Avant-Garde / Progressive (1981–Present)
   // ==========================================
   'morgan-agren': {
     slug: 'morgan-agren',
     name: 'Morgan Ågren',
     band: 'Mats/Morgan Band',
-    totalYearsActive: '1983-Present',
+    totalYearsActive: '1981-Present',
     profileImage: '/images/drummers/morgan-agren.webp',
     summary: 'Morgan Ågren is one of the world\'s most technically advanced and musically inventive drummers — a Swedish self-taught prodigy who rose from the underground scene in Umeå to collaborations with Frank Zappa, John Zorn, and the global avant-garde. As the rhythmic engine of the Mats/Morgan Band alongside keyboardist Mats Öberg, he has spent four decades pushing the boundaries of rhythm, polyrhythm, and drumset possibility in ways that defy genre classification.',
 
     eras: [
       {
-        id: 'morgan-agren-1983-early',
+        id: 'morgan-agren-1981-early',
         era: 'Self-Taught Prodigy / Umeå Underground',
-        years: '1983–1989',
-        startYear: 1983,
-        endYear: 1989,
-        description: 'Morgan Ågren began playing drums as a young child in Umeå, Sweden — largely self-taught and developing at a staggering pace. By his early teens he was already demonstrating a command of complex polyrhythms and metric modulation that would define his career. He met keyboardist Mats Öberg as children — both had exceptional abilities and developed their unique musical language together from the beginning.',
+        years: '1981–1987',
+        startYear: 1981,
+        endYear: 1987,
+        description: 'Morgan Ågren began playing drums as a young child in Umeå, Sweden — largely self-taught and developing at a staggering pace. He met keyboardist Mats Öberg as children, and in 1981, at just 14 years old, the pair formed the Mats/Morgan Band — both already demonstrating a command of complex polyrhythms and metric modulation that would define Ågren\'s career.',
         albums: ['Early Mats/Morgan Band recordings', 'Swedish underground releases'],
         tours: ['Umeå local scene', 'Early Scandinavian dates'],
         image: null,
@@ -9503,7 +9503,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Self-taught drumming begins in Umeå, Sweden (early 1980s)',
-          'Met Mats Öberg as children — the founding Mats/Morgan musical partnership',
+          'Formed the Mats/Morgan Band with Mats Öberg in 1981 at just 14 years old',
           'No documented drum or cymbal brand endorsement during this self-taught period',
           'Polyrhythmic and metric modulation vocabulary developed through intensive self-study',
           'Early Scandinavian underground recognition',
@@ -9518,14 +9518,14 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'morgan-agren-1990-mats-morgan',
-        era: 'Mats/Morgan Band Formation / Zappa Connection',
-        years: '1990–1997',
-        startYear: 1990,
+        id: 'morgan-agren-1988-zappa-tour',
+        era: 'Zappa Tour / Mats/Morgan Band Growth',
+        years: '1988–1997',
+        startYear: 1988,
         endYear: 1997,
-        description: 'The Mats/Morgan Band took shape as a serious recording and touring project in the early 1990s. Critically, Frank Zappa discovered Ågren\'s playing and was stunned by his ability — reportedly calling him one of the greatest drummers he had ever encountered. Although Zappa\'s health prevented a full collaboration before his death in 1993, the connection brought Ågren international recognition and cemented his reputation in avant-garde circles.',
-        albums: ['Mats/Morgan Band: Glutenfri (1993)', 'Mats/Morgan Band: Present (1995)'],
-        tours: ['European avant-garde festival circuit', 'Scandinavian touring dates'],
+        description: 'In 1988, Frank Zappa personally hand-picked Ågren — then just 20 years old — to tour with his band, one of music\'s most demanding musicianship endorsements. The tour brought Ågren international recognition and cemented his reputation in avant-garde circles well before he was widely known outside Scandinavia. The Mats/Morgan Band intensified its own recording and touring activity through the rest of the decade, releasing its debut album in 1991.',
+        albums: ['Mats/Morgan Band debut album (1991)', 'Mats/Morgan Band: Glutenfri (1993)', 'Mats/Morgan Band: Present (1995)'],
+        tours: ['Frank Zappa Band Tour (1988)', 'European avant-garde festival circuit', 'Scandinavian touring dates'],
         image: null,
 
         gear: {
@@ -9574,9 +9574,9 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Mats/Morgan Band becomes serious recording and touring project',
-          'Frank Zappa discovers Ågren — calls him one of the greatest drummers he\'d heard',
-          'Zappa connection (1992–1993) — limited collaboration before Zappa\'s death in December 1993',
+          'Frank Zappa hand-picks 20-year-old Ågren to tour with his band (1988)',
+          'Mats/Morgan Band becomes a serious recording and touring project, releasing its debut album in 1991',
+          'Zappa dies in December 1993',
           'Sonor kit configuration expanded with an additional floor tom',
           'Continued with Paiste 2002 cymbals — jazz-oriented tone',
           'Double kick configuration added',
@@ -9597,9 +9597,9 @@ export const DRUMMER_EVOLUTION = {
         years: '1998–2006',
         startYear: 1998,
         endYear: 2006,
-        description: 'Ågren\'s international profile grew substantially through the late 1990s and early 2000s. Collaborations with John Zorn, recordings for avant-garde labels, and a growing reputation among the world\'s most discerning drummers placed him at the centre of progressive and avant-garde drumming globally. His Sonor setup was expanded during this period with additional toms and an extended cymbal arrangement.',
-        albums: ['Mats/Morgan Band: Thanks for the Swans (2001)', 'Mats/Morgan Band: Live at Glenn Miller Café (2003)', 'Various collaborative recordings'],
-        tours: ['European festival circuit', 'US avant-garde tour dates', 'Japan tours'],
+        description: 'Ågren\'s international profile grew substantially through the late 1990s and early 2000s. Collaborations with John Zorn, recordings for avant-garde labels, and a growing reputation among the world\'s most discerning drummers placed him at the centre of progressive and avant-garde drumming globally. In 2002 he also joined Swedish progressive rock band Kaipa, remaining a member through 2005 alongside his ongoing Mats/Morgan Band work. His Sonor setup was expanded during this period with additional toms and an extended cymbal arrangement.',
+        albums: ['Mats/Morgan Band: Thanks for the Swans (2001)', 'Mats/Morgan Band: Live at Glenn Miller Café (2003)', 'Kaipa recordings (2002–2005)', 'Various collaborative recordings'],
+        tours: ['European festival circuit', 'US avant-garde tour dates', 'Japan tours', 'Kaipa touring (2002–2005)'],
         image: null,
 
         gear: {
@@ -9650,6 +9650,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'International profile expands through avant-garde festival circuit',
           'Collaborations with John Zorn and other avant-garde figures',
+          'Joined Swedish progressive rock band Kaipa (2002–2005), alongside continued Mats/Morgan Band work',
           'Sonor kit expanded with additional toms',
           'Upgraded double pedal for more refined double bass response',
           'Paiste Signature cymbals added for a more refined tone',
@@ -9670,9 +9671,9 @@ export const DRUMMER_EVOLUTION = {
         years: '2007–2014',
         startYear: 2007,
         endYear: 2014,
-        description: 'Ågren\'s playing reached its most widely celebrated form during this era. A growing integration of electronic percussion alongside his acoustic Sonor kit expanded his sonic palette dramatically. His work during this period attracted broader international media coverage, with features in Modern Drummer, Rhythm, and Drumhead highlighting his unique technical and musical approach. The hybrid acoustic/electronic configuration became a signature of his live setup.',
-        albums: ['Mats/Morgan Band: In Rosenberg Ville (2007)', 'Mats/Morgan Band: Naked (2013)', 'Various collaborative projects'],
-        tours: ['European festival headlining dates', 'US and Japan avant-garde tours'],
+        description: 'Ågren\'s playing reached its most widely celebrated form during this era. A growing integration of electronic percussion alongside his acoustic Sonor kit expanded his sonic palette dramatically. His work during this period attracted broader international media coverage, with features in Modern Drummer, Rhythm, and Drumhead highlighting his unique technical and musical approach. From 2012 he also joined Devin Townsend Project, recording Epicloud (2012) and Z² (2014) and bringing his hybrid acoustic/electronic approach to Townsend\'s progressive metal productions. The hybrid acoustic/electronic configuration became a signature of his live setup.',
+        albums: ['Mats/Morgan Band: In Rosenberg Ville (2007)', 'Mats/Morgan Band: Naked (2013)', 'Devin Townsend Project: Epicloud (2012)', 'Devin Townsend Project: Z² (2014)', 'Various collaborative projects'],
+        tours: ['European festival headlining dates', 'US and Japan avant-garde tours', 'Devin Townsend Project touring (2012–2014)'],
         image: null,
 
         gear: {
@@ -9729,6 +9730,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Roland SPD-SX and V-Drums integration creates defining hybrid acoustic/electronic setup',
           'International features in Modern Drummer, Rhythm, and Drumhead',
+          'Joined Devin Townsend Project (2012), recording Epicloud and Z² alongside Mats/Morgan Band work',
           'Large Paiste Signature ride adopted for its complex overtone response',
           'In Rosenberg Ville (2007) — career high-water mark for Mats/Morgan Band',
           'Custom Sonor specification with optimized bearing edges',
@@ -9749,9 +9751,9 @@ export const DRUMMER_EVOLUTION = {
         years: '2015–Present',
         startYear: 2015,
         endYear: 2026,
-        description: 'Ågren\'s most recent era consolidates everything that came before — a mature, fully realized hybrid acoustic/electronic setup centered on his Sonor SQ2 kit, a continued Paiste cymbal arrangement, and sophisticated electronic trigger integration. He remains one of the most active and innovative drummers in progressive and avant-garde music globally, continuing to record and tour with the Mats/Morgan Band while taking on an increasing range of special collaborative projects.',
-        albums: ['Mats/Morgan Band: Mats/Morgan (2015)', 'Recent collaborative and solo projects'],
-        tours: ['Continued European and international touring', 'Avant-garde festival appearances'],
+        description: 'Ågren\'s most recent era consolidates everything that came before — a mature, fully realized hybrid acoustic/electronic setup centered on his Sonor SQ2 kit, a continued Paiste cymbal arrangement, and sophisticated electronic trigger integration. He closed out his Devin Townsend Project tenure with Transcendence (2016) before the group's hiatus, and remains one of the most active and innovative drummers in progressive and avant-garde music globally, continuing to record and tour with the Mats/Morgan Band while taking on an increasing range of special collaborative projects.',
+        albums: ['Mats/Morgan Band: Mats/Morgan (2015)', 'Devin Townsend Project: Transcendence (2016)', 'Recent collaborative and solo projects'],
+        tours: ['Devin Townsend Project touring (2015–2016)', 'Continued European and international touring', 'Avant-garde festival appearances'],
         image: null,
 
         gear: {
@@ -9807,6 +9809,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Full hybrid acoustic/electronic setup reaches definitive form',
+          'Recorded Transcendence (2016) with Devin Townsend Project before the group\'s hiatus',
           'Multi-implement approach — sticks, brushes, mallets across a single performance',
           'Two-snare configuration for maximum tonal contrast',
           'Moved to Sonor\'s SQ2 custom-order beech kit',
@@ -9827,7 +9830,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'Who is Morgan Ågren?',
-        a: 'Morgan Ågren (born 1967 in Umeå, Sweden) is one of the world\'s most technically advanced and musically inventive drummers. He is best known as the founding drummer of the Mats/Morgan Band alongside keyboardist Mats Öberg. He was discovered by Frank Zappa in the early 1990s, who reportedly called him one of the greatest drummers he had ever heard.',
+        a: 'Morgan Ågren (born 1967 in Umeå, Sweden) is one of the world\'s most technically advanced and musically inventive drummers. He co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 at just 14 years old, was hand-picked by Frank Zappa to tour with his band in 1988, joined Swedish progressive rock band Kaipa from 2002 to 2005, and drummed for Devin Townsend Project from 2012 to 2016.',
       },
       {
         q: 'What drum kit does Morgan Ågren use?',
@@ -9839,7 +9842,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'Did Morgan Ågren work with Frank Zappa?',
-        a: 'Yes — Frank Zappa discovered Morgan Ågren\'s playing in the early 1990s and was reportedly stunned by his ability, calling him one of the greatest drummers he had ever encountered. Although Zappa\'s illness limited the collaboration, the connection brought Ågren international recognition and cemented his reputation in avant-garde circles. Zappa died in December 1993.',
+        a: 'Yes — Frank Zappa personally hand-picked Morgan Ågren, then just 20 years old, to tour with his band in 1988. The tour brought Ågren international recognition and cemented his reputation in avant-garde circles well before he was widely known outside Scandinavia. Zappa died in December 1993.',
       },
       {
         q: 'What makes Morgan Ågren\'s drumming unique?',

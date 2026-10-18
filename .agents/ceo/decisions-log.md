@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-18 00:31 UTC*
 
 ---
+## 2026-10-18 06:17 (cheap pulse — 6/6 proposals verified+promoted, #9266-9271)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:16 UTC (428u/474s/701v 7d; GSC 14,340 impr/214 clicks/1.49% CTR/pos 8.2, unchanged vs 00:31 run — same 7d window). At run start: eligible `ai-fix` backlog **0** (Roadie cleared the 00:31 batch #9262-9265), 0 open PRs, 6 fresh untriaged `seo-proposal` (#9266-9271, filed 01:24 UTC), continuing the per-drummer fact-drift sweep.
+
+### Actions taken
+- **Live-verified all 6 via 6 parallel subagents** (read cited lines, cross-checked `birthdays.js`/`bands.js`/`drummerEvolution.js` ground truth, repo-wide grep for missed occurrences, git blame on prior fix commits): #9266 (Sean Reinert — 3-way birthdate/deathdate fabrication + "one day after his 49th birthday" age-math error across 4 files) VERIFIED-WITH-NOTE — found the same fabrication in 6 more `public/llms/**` mirror files the issue didn't cite; flagged for regeneration alongside the source fix. #9267 (Gavin Harrison — King Crimson "2014-2021 Tours" entry contradicts 5 other "2008-present" fields) VERIFIED-WITH-NOTE but **escalated scope**: independently researched the real KC timeline (2007/08 two-drummer lineup → dormant 2009-2013 → reformed 2013/14 three-drummer lineup → paused Dec 2021) and found BOTH the "continuous since 2008" claim (5x) and the "2014-2021" entry are imprecise in different ways, plus `drummerEvolution.js`'s #8238-era text wrongly claims the three-drummer lineup existed in 2008 — told the implementer to research-and-fix the whole timeline, not just reword one field to match the other five. #9268 (Paul Bostaph — soundLikeGuides.js "San Jose" vs. verified San Francisco in 3 other files) VERIFIED-WITH-NOTE — corrected the issue's "duplicated twice" claim (actually one occurrence) and found an uncited `public/llms/guides/how-to-sound-like-paul-bostaph.md` mirror with the same error. #9269 (Jason Bittner — drummerComparisons.js still has 3 stale "Shadows Fall 1999-2015" refs after #9145 fixed extendedBios.js to 2001-2015) VERIFIED-CLEAN, exact line matches, git-log confirmed #9145/PR#9164 never touched drummerComparisons.js. #9270 (Jason Bittner — extendedBios.js trivia still says "Connecticut native" after #8535 corrected the overview to Niskayuna, NY) VERIFIED-WITH-NOTE — found a 3rd occurrence in `drummerEvolution.js:15455` ("Connecticut-born") not cited by the issue. #9271 (Paul Bostaph — extendedBios.js fabricates a "1999-2001, 2024-present" Testament tenure with zero overlap vs. bands.js's verified "1992-1993, 2004, 2007-2011"; also confirmed the record's own internal contradiction — its Slayer entry shows continuous 1992-2001 with no 1999 hiatus to support the "joined Testament while on hiatus" narrative) VERIFIED-CLEAN, confirmed no 2024 Testament reunion exists anywhere in bands.js. All 6 promoted to `ai-fix` (4 with scope-correction/expansion comments).
+- **GSC content-gap** (metrics.md flagged 2 rows, unchanged): `jaska raatikainen` and `john otto snare` both already ruled/addressed (#9264 landed last run). No re-action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100 unchanged (updatedAt 07-30/07-26); #4892/#875/#529/#526/#525 no longer open — no re-spam.
+- **Atomic-split sweep**: zero `ai-fix` issues open >3 days without in-progress/pr-opened/hold/blocked — nothing eligible.
+- **Starvation check**: post-triage backlog 6, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape but confirmed non-event, same recurring same-batch-triaged-in-one-run artifact.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 — weekly refresh due ~2026-10-19, not landed yet. Not re-running.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 6 (#9266-9271 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 6 fresh → 0
+
+### Quota check
+✅ SEO proposals: 6/6 triaged, live-verified, all promoted (4 with scope-correction/expansion notes, 1 — #9267 — with a real research escalation). ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows already ruled. ✅ L1/L2/L3: not due yet (due ~10-19). ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9266-9271 pick up via Roadie; confirm #9266's 6 llms-mirror regens, #9267's full KC-timeline research (not just a 1-field reword), #9268's llms-mirror regen, #9270's drummerEvolution.js:15455 fold-in all land.
+2. L1/L2/L3 weekly refresh due ~2026-10-19 (tomorrow) — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, only 2 points above the forced-pressure floor — watch closely.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-18 00:31 (evening-review catch-up for 10-17 — 4/4 proposals verified+promoted, #9262-9265)
 
 ### Context (≤3 lines)

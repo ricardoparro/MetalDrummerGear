@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-18 01:17 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-18 06:16 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 419 |
-| Sessions | 464 |
-| Page views | 685 |
-| Engagement rate | 64.01% |
-| Avg session (s) | 201 |
+| Active users | 428 |
+| Sessions | 474 |
+| Page views | 701 |
+| Engagement rate | 64.14% |
+| Avg session (s) | 206 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -25,14 +25,14 @@
 | /drummer/eloy-casagrande | 12 | 10 |
 | /studies/metal-tempo-by-subgenre | 12 | 7 |
 | /drummer/bill-ward | 8 | 7 |
+| /drummer/danny-carey | 8 | 6 |
 | /drummer/kevin-talley | 8 | 5 |
-| /guides/beginner-metal-drummer-setup | 8 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 332 | 291 |
-| Direct | 128 | 125 |
+| Organic Search | 341 | 299 |
+| Direct | 129 | 126 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 | Referral | 1 | 1 |
@@ -40,13 +40,13 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 150 | 131 |
+| United States | 153 | 134 |
 | Singapore | 63 | 63 |
+| Canada | 32 | 27 |
 | China | 32 | 32 |
-| Canada | 31 | 26 |
 | Germany | 22 | 18 |
+| United Kingdom | 17 | 13 |
 | Australia | 15 | 14 |
-| United Kingdom | 15 | 12 |
 | Brazil | 11 | 10 |
 | France | 11 | 11 |
 | Italy | 11 | 11 |

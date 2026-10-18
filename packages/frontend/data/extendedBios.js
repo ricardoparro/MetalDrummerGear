@@ -3153,7 +3153,7 @@ Grossmann first gained international recognition as the drummer for Necrophagist
           { q: 'What sticks does Hannes Grossmann use?', a: 'Hannes Grossmann uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Hannes Grossmann use?', a: 'Hannes Grossmann drives his blast-beat and odd-subdivision bass drum patterns with a DW 9000 Series double pedal.' },
           { q: 'What drumheads does Hannes Grossmann use?', a: 'Hannes Grossmann uses Evans drumheads across his DW Collectors kit.' },
-          { q: 'What band is Hannes Grossmann in?', a: 'Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist and Blotted Science.' },
+          { q: 'What band is Hannes Grossmann in?', a: 'Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist, Blotted Science, and Hate Eternal (2015-2018, recording Upon Desolate Sands).' },
           { q: 'What is Hannes Grossmann\'s musical background?', a: 'Hannes Grossmann holds a degree in classical percussion and music theory, training that informs the jazz-influenced ghost notes and polyrhythmic precision he brings to technical death metal with Necrophagist, Obscura, and Alkaloid.' }
         ]
       },

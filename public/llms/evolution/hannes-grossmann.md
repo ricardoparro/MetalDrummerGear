@@ -140,7 +140,7 @@ A: Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors 14"x5.
 A: Grossmann plays open-handed for many patterns — left hand on the hi-hat or ride, right hand on the snare — eliminating hand-crossing. This gives him access to ride and hi-hat voicings that would require awkward crossing with traditional technique, and it's most audible on Obscura's Cosmogenesis (2009) and Omnivium (2011).
 
 **Q: What bands has Hannes Grossmann played in?**
-A: Hannes Grossmann drummed for Necrophagist (2004–2010), co-founded Obscura (2007–2014, rejoined 2020–present) and Blotted Science (2007–2011), and co-founded the progressive death metal supergroup Alkaloid in 2014, which he continues alongside Obscura.
+A: Hannes Grossmann drummed for Necrophagist (2004–2010), co-founded Obscura (2007–2014, rejoined 2020–present) and Blotted Science (2007–2011), co-founded the progressive death metal supergroup Alkaloid in 2014, which he continues alongside Obscura, and recorded Upon Desolate Sands (2018) with Hate Eternal (2015–2018).
 
 **Q: Did Hannes Grossmann play on Necrophagist's Epitaph?**
 A: Yes — Grossmann joined Necrophagist in 2004, replacing Steve Rowe, and recorded the drum tracks for "Epitaph," widely considered one of the most technically demanding recordings in death metal history.

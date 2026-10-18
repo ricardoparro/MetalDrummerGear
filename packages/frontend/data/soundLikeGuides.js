@@ -2812,7 +2812,7 @@ His 2017 Vic Firth Matt Greiner Signature stick cemented his status among the ge
     genre: 'Technical Death Metal / Death Metal',
     priority: 12,
     title: "How to Sound Like George Kollias: Complete Gear & Technique Guide",
-    description: "Master George Kollias's Guinness-certified blast beat technique. Learn his extreme double bass endurance, Pearl signature setup, and the precision behind Nile's ancient death metal onslaught.",
+    description: "Master George Kollias's elite blast beat technique. Learn his extreme double bass endurance, Pearl signature setup, and the precision behind Nile's ancient death metal onslaught.",
     seoKeywords: ['george kollias drumming', 'how to sound like george kollias', 'nile drums', 'george kollias blast beat', 'fastest blast beat', 'george kollias technique', 'george kollias gear'],
     ogImage: '/images/guides/george-kollias-guide.webp',
     datePublished: '2026-06-20',
@@ -2821,14 +2821,14 @@ His 2017 Vic Firth Matt Greiner Signature stick cemented his status among the ge
     wordCount: 2000,
     readingTime: '10 min',
     intro: {
-      title: "The Fastest Certified Blast Beat on Earth",
-      content: `George Kollias holds a Guinness World Record for the fastest blast beat — 1,007 beats per minute achieved in a controlled setting. But what makes Kollias genuinely exceptional isn't the record: it's that he can sustain near-record tempos for the duration of a full Nile performance without audible loss of control or power.
+      title: "One of the Fastest Blast Beats on Earth",
+      content: `George Kollias is renowned for sustaining blast beats at 200-260+ BPM throughout full-length live performances with Nile — a feat of endurance and control that few drummers can match. What makes Kollias genuinely exceptional isn't a single burst of speed: it's that he can sustain near-elite tempos for the duration of a full Nile performance without audible loss of control or power.
 
 As Nile's drummer since 2004, Kollias has been the engine behind some of technical death metal's most demanding music — albums like "Annihilation of the Wicked," "Ithyphallic," and "What Should Not Be Unearthed" that demand sustained blast beats at 200+ BPM for minutes at a time. He achieves this through systematic physical conditioning that he teaches through his instructional series "Intense Metal Drumming."
 
 This guide breaks down Kollias's technique, the endurance training behind his stamina, and the Pearl gear that keeps his sound cutting through Nile's densely layered Egyptian-themed death metal.`,
       keyPoints: [
-        "Guinness World Record holder for fastest blast beat (1,007 BPM)",
+        "Sustains blast beats at 200-260+ BPM throughout full live Nile performances",
         "Nile drummer since 2004, performing on some of death metal's most demanding albums",
         "Published educator — Intense Metal Drumming instructional series",
         "Pearl endorser with signature snare designed for extreme speed and endurance"
@@ -3029,7 +3029,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
     faq: [
       {
         question: "What is George Kollias's blast beat speed?",
-        answer: "George Kollias holds the Guinness World Record for the fastest blast beat at 1,007 BPM, achieved in a controlled setting. In live performance with Nile, he sustains blast beats at 200-260 BPM for extended passages."
+        answer: "George Kollias is renowned for his endurance: in live performance with Nile, he sustains blast beats at 200-260 BPM for extended passages, a pace few drummers can maintain for a full set."
       },
       {
         question: "How does George Kollias play so fast for so long?",

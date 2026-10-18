@@ -30,9 +30,9 @@ Full drummer profile: [Lars Ulrich on MetalForge](https://metalforge.io/drummer/
 
 **Band:** Slayer
 **Highlight:** Tama Starclassic Walnut/Birch — Slayer's founding drummer's modern rig
-**Why ranked here:** Dave Lombardo has been a Tama endorser for most of his career, running a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x6.5" G-Maple snare and Tama Iron Cobra 900 double pedal in his current work, including his time in Pantera's reunion lineup. Lombardo earns rank #2 as one of thrash metal's most influential drummers and a documented Tama artist across multiple bands and decades.
+**Why ranked here:** Dave Lombardo has been a Tama endorser for most of his career, running a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x6.5" G-Maple snare and Tama Iron Cobra 900 double pedal in his current work with Dead Cross and Mr. Bungle. Lombardo earns rank #2 as one of thrash metal's most influential drummers and a documented Tama artist across multiple bands and decades.
 
-Dave Lombardo (Slayer) earns rank #2 for: tama starclassic walnut/birch — slayer's founding drummer's modern rig. Dave Lombardo has been a Tama endorser for most of his career, running a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x6.5" G-Maple snare and Tama Iron Cobra 900 double pedal in his current work, including his time in Pantera's reunion lineup. Lombardo earns rank #2 as one of thrash metal's most influential drummers and a documented Tama artist across multiple bands and decades..
+Dave Lombardo (Slayer) earns rank #2 for: tama starclassic walnut/birch — slayer's founding drummer's modern rig. Dave Lombardo has been a Tama endorser for most of his career, running a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x6.5" G-Maple snare and Tama Iron Cobra 900 double pedal in his current work with Dead Cross and Mr. Bungle. Lombardo earns rank #2 as one of thrash metal's most influential drummers and a documented Tama artist across multiple bands and decades..
 
 Full drummer profile: [Dave Lombardo on MetalForge](https://metalforge.io/drummer/dave-lombardo)
 

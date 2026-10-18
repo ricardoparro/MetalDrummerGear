@@ -439,7 +439,7 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
         title: 'Overview',
         content: `Dave Lombardo (born February 16, 1965, in Havana, Cuba) is a Cuban-American drummer widely regarded as one of the greatest and most influential drummers in heavy metal history. As the original and primary drummer of Slayer, Lombardo pioneered the double bass drumming style that defined thrash metal in the 1980s.
 
-His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Seasons in the Abyss" established the template for extreme metal drumming. Beyond Slayer, Lombardo has explored diverse musical territories with Fantômas, Suicidal Tendencies, Dead Cross, Mr. Bungle, and the 2022 reunited Pantera as a touring member.`
+His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Seasons in the Abyss" established the template for extreme metal drumming. Beyond Slayer, Lombardo has explored diverse musical territories with Fantômas, Suicidal Tendencies, Dead Cross, and Mr. Bungle.`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -454,8 +454,7 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
           { year: '2006', event: 'Released "Christ Illusion" with Slayer, winning Grammy for Best Metal Performance' },
           { year: '2013', event: 'Second departure from Slayer' },
           { year: '2017', event: 'Formed Dead Cross with Mike Patton; joined Mr. Bungle reunion' },
-          { year: '2019', event: 'Recorded "The Raging Wrath of the Easter Bunny Demo" with Mr. Bungle' },
-          { year: '2022', event: 'Joined reunited Pantera as touring drummer, honoring Vinnie Paul\'s legacy' }
+          { year: '2019', event: 'Recorded "The Raging Wrath of the Easter Bunny Demo" with Mr. Bungle' }
         ]
       },
       styleAndInfluences: {
@@ -490,15 +489,14 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
         ],
         tours: [
           { name: 'Clash of the Titans', year: 1990, note: 'With Megadeth, Anthrax, Alice in Chains' },
-          { name: 'Slayer Farewell Tour', year: '2018-2019', note: 'Final Slayer world tour (Lombardo not participating)' },
-          { name: 'Pantera Reunion Tour', year: '2022-2023', note: 'Filling in for late Vinnie Paul' }
+          { name: 'Slayer Farewell Tour', year: '2018-2019', note: 'Final Slayer world tour (Lombardo not participating)' }
         ]
       },
       gearHighlights: {
         title: 'Gear Highlights',
         content: `Dave Lombardo has been a Tama endorser for most of his career, though he's used various brands throughout different projects. His signature 2Bx sticks from Promark are designed for power and speed.
 
-**Current Setup (Pantera Era):**
+**Current Setup (Dead Cross Era):**
 - **Drums**: Tama Starclassic Walnut/Birch
 - **Snare**: Tama S.L.P. 14"x6.5" G-Maple
 - **Cymbals**: Paiste RUDE and 2002 series (15" Sound Edge Hi-Hats, crashes, Reign Power Ride)
@@ -530,7 +528,7 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
         title: 'Frequently Asked Questions',
         items: [
           { q: 'What drums does Dave Lombardo play?', a: 'Dave Lombardo plays Tama Starclassic drums with Paiste RUDE and 2002 cymbals.' },
-          { q: 'Is Dave Lombardo still in Slayer?', a: 'No, Dave left Slayer in 2013 but tours with the reunited Pantera as of 2022.' },
+          { q: 'Is Dave Lombardo still in Slayer?', a: 'No, Dave left Slayer in 2013. He now plays with Dead Cross, Mr. Bungle, and other projects.' },
           { q: 'Where is Dave Lombardo from?', a: 'Dave was born in Havana, Cuba on February 16, 1965, and emigrated to the US as a child.' },
           { q: 'What album is Dave Lombardo most famous for?', a: "Dave is most famous for drumming on Slayer's \"Reign in Blood\" (1986), a thrash metal landmark." },
           { q: 'Did Dave Lombardo found Slayer?', a: 'Yes, Dave co-founded Slayer in 1981 with Kerry King, Jeff Hanneman, and Tom Araya.' },

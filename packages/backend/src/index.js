@@ -963,22 +963,19 @@ const drummers = [
     country: 'USA',
     era: '80s',
     image: 'https://upload.wikimedia.org/wikipedia/commons/2/2d/Pete_Sandoval_practising_the_drums.jpg',
-    bio: 'Pedro "Pete" Sandoval, born in 1960 in El Salvador, is a legendary death metal drummer best known for his work with Morbid Angel and Terrorizer. He is credited with pioneering and perfecting the gravity blast technique, which revolutionized extreme metal drumming. His work on classic Morbid Angel albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" set the standard for death metal drumming. Sandoval\'s combination of speed, precision, and endurance influenced countless drummers in the extreme metal genre.',
+    bio: 'Pedro "Pete" Sandoval, born May 21, 1964, in Santa Ana, El Salvador, is a legendary death metal drummer best known for his work with Morbid Angel and Terrorizer. He is credited with pioneering and perfecting the gravity blast technique, which revolutionized extreme metal drumming. His work on classic Morbid Angel albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" set the standard for death metal drumming. Sandoval\'s combination of speed, precision, and endurance influenced countless drummers in the extreme metal genre.',
     gear: {
-      drums: 'ddrum Dios Series',
-      snare: 'ddrum Dios 14x6.5" Maple',
-      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)',
-      hardware: 'ddrum Mercury Double Pedal, ddrum Throne',
-      sticks: 'Ahead Lars Ulrich Signature'
+      drums: 'ddrum (specific series unconfirmed)',
+      snare: 'ddrum (specific model unconfirmed)',
+      cymbals: 'Cymbal brand/model not publicly documented',
+      hardware: 'ddrum (specific pedal/hardware model unconfirmed)',
+      sticks: 'Pro-Mark (historical endorsement — current sticks unverified)'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/2/2d/Pete_Sandoval_practising_the_drums.jpg'
     ],
     endorsements: [
-      { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      { name: 'ddrum Drums', url: 'https://www.ddrum.com' }
     ],
     videos: [
     ]

@@ -50,7 +50,7 @@ Tool's commercial and artistic breakthrough. The Ænima setup saw Carey expand h
 - **Cymbals:** Paiste Signature Series — 14" Signature hi-hats, 16"/18"/20" crashes, 22" ride, 18"/20" Chinas, 10"/12" splashes *(upgrade — moved to Signature line with additional cymbals)*
 - **Hardware:** Brand unconfirmed — dual double-bass pedal configuration for twin kicks
 - **Sticks:** Vic Firth 5B hickory (standard — signature model not introduced until 2005)
-- **Heads:** Evans EC2 / EMAD *(switch to Evans for studio/live control)*
+- **Heads:** Remo — no earlier switch is documented; consistent with his later-documented 2000s Remo endorsement
 - **Electronics:** Roland Octapad SPD-8 *(new — first major electronics integration)*
 - **Estimated kit cost (original):** ~$14,000
 
@@ -78,7 +78,7 @@ Tool's progressive masterpiece era. The Fibonacci-sequence time signatures and s
 - **Cymbals:** Paiste Signature / 602 Series — 14" hi-hats, 16"/18"/20" crashes, 22" ride, 18"/20" Chinas, 10" splash, custom cymbals *(upgrade — 602 series added for darker palette)*
 - **Hardware:** Brand unconfirmed — twin-kick double bass pedal configuration
 - **Sticks:** Vic Firth Danny Carey Signature — long-taper hickory *(signature deal launched 2005, within this era)*
-- **Heads:** Evans G2 / EMAD *(upgrade — G2 double-ply on toms for heavier response)*
+- **Heads:** Remo — no earlier switch is documented; consistent with his later-documented 2000s Remo endorsement
 - **Electronics:** Roland SPD-S + Octapad *(upgrade — expanded multi-pad electronics)*
 - **Estimated kit cost (original):** ~$20,000
 
@@ -102,7 +102,7 @@ After a 13-year studio absence, Tool returned with their most ambitious album �
 - **Cymbals:** Paiste Signature / 602 / Custom + Gongs — multiple crashes 14"–22", rides, Chinas, splash cymbals, Turkish cymbals, 28"/32" gongs *(upgrade — full gong integration)*
 - **Hardware:** Sonor Giant Step Twin Effect Double Pedal, Mandala Drum electronic pads
 - **Sticks:** Vic Firth Danny Carey Signature (current production)
-- **Heads:** Evans G2 / EMAD2 *(upgrade — EMAD2 for tighter kick response)*
+- **Heads:** Remo — longtime Remo endorser since the 2000s, maintained through the Fear Inoculum era
 - **Electronics:** Roland SPD-SX + Multiple Octapads + Custom MIDI Trigger System *(upgrade — most elaborate electronics of career)*
 - **Estimated kit cost:** ~$45,000
 
@@ -137,7 +137,7 @@ After a 13-year studio absence, Tool returned with their most ambitious album �
 - **Sonor** — documented from the 2000s onward (SQ2 Heavy Beech kit, Danny Carey Signature snare); no drum brand is confirmed for Carey before that
 - **Paiste** — throughout career (2002 → Signature → 602 → custom configuration)
 - **Vic Firth Danny Carey Signature** — 2005–present
-- **Evans Heads** — 1994–present (EC2/G2 on toms, EMAD/EMAD2 on kick)
+- **Remo Heads** — documented since the 2000s; no earlier switch is documented
 - **Roland Electronics** — 1996–present (SPD-8 → SPD-S → SPD-SX + custom MIDI)
 
 ---

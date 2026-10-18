@@ -6070,7 +6070,7 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
 - **Cymbals**: Paiste RUDE series (14" RUDE Sound Edge Hi-Hats, RUDE crashes, RUDE Ride)
 - **Hardware**: Czarcie Kopyto (Devil's Hoof) Double Pedal (long boards)
 - **Throne**: Pearl D-2000
-- **Sticks**: Vic Firth American Classic 2B
+- **Sticks**: Vic Firth American Classic Extreme 5B
 - **Heads**: Remo
 
 **Unique Setup Elements:**
@@ -6100,7 +6100,7 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
           { q: 'What drum set does Inferno use?', a: 'Inferno\'s drum set pairs his Pearl Reference Series shells and steel snare with a Czarcie Kopyto (Devil\'s Hoof) double pedal — a Polish-engineered direct-drive mechanism — giving him the speed and precision his relentless blast passages demand.' },
           { q: 'What cymbals does Inferno play?', a: 'Inferno plays Paiste RUDE Series cymbals: 14" Hi-Hats, a 14" Blast China, 18" and 19" Crashes, a 24" Mega Power Ride, and an 18" China.' },
           { q: 'What snare does Inferno use?', a: 'Inferno\'s snare is a Pearl Reference 14"x5" Steel, tuned for maximum cutting crack to penetrate Behemoth\'s dense wall of down-tuned guitars during blast beats exceeding 200 BPM.' },
-          { q: 'What sticks does Inferno use?', a: 'Inferno uses Vic Firth American Classic 2B drumsticks.' },
+          { q: 'What sticks does Inferno use?', a: 'Inferno uses Vic Firth American Classic Extreme 5B drumsticks.' },
           { q: 'What bass drum pedal does Inferno use?', a: 'Inferno drives his double kick with a Czarcie Kopyto (Devil\'s Hoof) double pedal, seated on a Pearl D-2000 throne.' },
           { q: 'What drumheads does Inferno use?', a: 'Inferno uses Remo drumheads across his Pearl Reference Series kit.' },
           { q: 'What band is Inferno in?', a: 'Inferno has been the drummer for Polish extreme metal band Behemoth since 1997, and also drums for Azarath.' },

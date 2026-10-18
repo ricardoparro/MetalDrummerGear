@@ -7,14 +7,14 @@
 
 ## Overview
 
-Inferno is the drummer of Polish blackened death metal titans Behemoth and one of the most technically accomplished extreme metal drummers on the planet. Joining Behemoth in 1997, Inferno has been the rhythmic engine behind the band's transformation from raw black metal into the grandiose, orchestral extreme metal sound heard on landmark albums like "Demigod," "The Apostasy," and "The Satanist." What separates Inferno from other extreme metal drummers is not just his ability to sustain blast beats at 240+ BPM — it's the musical precision and clarity he maintains at those tempos. Every note in an Inferno blast beat is defined and intentional. His Pearl Masters Premium kit, Paiste Black Alpha cymbals, and Axis Longboard pedals are the tools behind one of metal's most commanding drum sounds.
+Inferno is the drummer of Polish blackened death metal titans Behemoth and one of the most technically accomplished extreme metal drummers on the planet. Joining Behemoth in 1997, Inferno has been the rhythmic engine behind the band's transformation from raw black metal into the grandiose, orchestral extreme metal sound heard on landmark albums like "Demigod," "The Apostasy," and "The Satanist." What separates Inferno from other extreme metal drummers is not just his ability to sustain blast beats at 240+ BPM — it's the musical precision and clarity he maintains at those tempos. Every note in an Inferno blast beat is defined and intentional. His Pearl Reference Series kit, Paiste Black Alpha cymbals, and Axis Longboard pedals are the tools behind one of metal's most commanding drum sounds.
 
 ## Kit Setup
 
-Inferno plays **Pearl Masters Premium** drums with a setup built for extreme power and definition:
+Inferno plays **Pearl Reference Series** drums with a setup built for extreme power and definition:
 
 - **Kick Drums:** 22" x 18" (x2) with Axis A Longboard Double Pedal
-- **Snare:** 14" x 6.5" Pearl Masters Premium Maple Snare
+- **Snare:** 14" x 5" Pearl Reference Steel Snare
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 14", 18" x 16"
 - **Cymbals:** Paiste Black Alpha Series — dark, controlled character with reduced overtones
@@ -27,7 +27,7 @@ Inferno plays **Pearl Masters Premium** drums with a setup built for extreme pow
 Inferno tunes for power and definition. At 240+ BPM double bass, each kick note has approximately 125ms before the next — any sustain beyond that creates blur rather than definition:
 
 - **Kick:** Medium-tight tension with heavy muffling — foam on batter head, pillow inside, port hole in resonant head. Zero sustained low-end; maximum attack transient.
-- **Snare:** Medium-high tension, one Moongel strip. Maple shell produces a darker, fatter crack than steel — warm but powerful.
+- **Snare:** Medium-high tension, one Moongel strip. Steel shell produces a bright, cutting crack that projects through the mix.
 - **Toms:** Medium tension, one Moongel per tom. Quick attack and fast decay for precise cascading fills. Tuned a minor third apart for pitch separation.
 
 ## Technique Tips
@@ -46,8 +46,8 @@ Inferno plays **matched grip** with controlled wrist motion. His blast beats are
 
 | Item | Inferno's Spec | Budget Alternative |
 |------|---------------|-------------------|
-| Drum Kit | Pearl Masters Premium | Pearl Export Series (~$650) |
-| Snare | Pearl Masters Premium 14" x 6.5" Maple | Pearl Free-Floating Maple |
+| Drum Kit | Pearl Reference Series | Pearl Export Series (~$650) |
+| Snare | Pearl Reference 14" x 5" Steel | Pearl Sensitone Steel |
 | Cymbals | Paiste Black Alpha Series | Paiste PST 7 Set (~$300) |
 | Pedal | Axis A Longboard Double | Pearl P930 Double (~$150) |
 | Sticks | Vic Firth 5B | Promark 5B |
@@ -66,7 +66,7 @@ Inferno plays **matched grip** with controlled wrist motion. His blast beats are
 ## FAQ
 
 **Q: What drum kit does Inferno use?**  
-A: Inferno plays Pearl Masters Premium drums with maple shells. His setup features double 22" x 18" bass drums, rack toms at 10" x 8" and 12" x 9", and floor toms at 16" x 14" and 18" x 16". The Pearl Masters Premium maple construction provides projection and attack for Behemoth's dense, layered sound at extreme tempos.
+A: Inferno plays Pearl Reference Series drums with maple/birch/mahogany hybrid shells. His setup features double 22" x 18" bass drums, rack toms at 10" x 8" and 12" x 9", and floor toms at 16" x 14" and 18" x 16". The Pearl Reference Series hybrid construction provides projection and attack for Behemoth's dense, layered sound at extreme tempos.
 
 **Q: What cymbals does Inferno use?**  
 A: Inferno uses Paiste Black Alpha cymbals — a series characterized by a special surface treatment that reduces overtones for a darker, more controlled sound than standard cymbals. His setup includes 14" Black Alpha hi-hats, 18" and 19" Black Alpha Power Crashes, a 20" Black Alpha Ride, and an 18" Black Alpha China. The Black Alpha series is the defining element of Behemoth's dark sonic character.

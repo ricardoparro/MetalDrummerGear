@@ -1725,16 +1725,16 @@ const drummers = [
   {
     id: 26,
     name: 'Shannon Larkin',
-    band: 'Godsmack / Ugly Kid Joe / Amen',
+    band: 'Godsmack / Ugly Kid Joe / Wrathchild America',
     bands: [
       { name: 'Godsmack', period: '2002–present', current: true },
       { name: 'Ugly Kid Joe', period: '1991–1997', current: false },
-      { name: 'Amen', period: '1999–2002', current: false }
+      { name: 'Wrathchild America', period: '1989–1991', current: false }
     ],
     genre: 'Hard Rock / Heavy Metal / Nu Metal',
     country: 'USA',
     image: '/images/drummers/shannon-larkin.webp',
-    bio: 'Shannon Larkin (born April 24, 1967) is an American drummer best known as the former drummer of Godsmack, a position he held from 2002 to 2024, making him the band\'s longest-serving drummer. His powerful, groove-oriented style was essential to Godsmack\'s signature heavy sound. Before Godsmack, Larkin played with Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen. He has been playing drums since age ten and briefly filled in for Black Sabbath on one show in 1997 when Mike Bordin was unavailable. Known for his hard-hitting style and versatility, Larkin has been a Sabian cymbal artist for decades.',
+    bio: 'Shannon Larkin (born April 24, 1967) is an American drummer best known as the former drummer of Godsmack, a position he held from 2002 to 2024, making him the band\'s longest-serving drummer. His powerful, groove-oriented style was essential to Godsmack\'s signature heavy sound. Before Godsmack, Larkin played with Wrathchild America and Ugly Kid Joe. He has been playing drums since age ten and briefly filled in for Black Sabbath on one show in 1997 when Mike Bordin was unavailable. Known for his hard-hitting style and versatility, Larkin has been a Sabian cymbal artist for decades.',
     kitOverview: 'Shannon Larkin plays a ddrum Dios Series drum kit — a setup built for the raw power and groove-centric approach he brought to Godsmack across two decades of multi-platinum hard rock. As one of rock\'s most hard-hitting drummers, Larkin built a drum set that balances heavy impact with musical sensitivity, perfectly matching Godsmack\'s powerful yet accessible sound.\n\nThe cornerstone of the Shannon Larkin drum kit is his ddrum Dios 14×6.5" Maple snare drum, delivering a warm yet cutting crack that anchors Godsmack\'s groove-driven rhythms on albums like Faceless, IV, and When Legends Rise. The Shannon Larkin drum set features Sabian AAX and HHX Series cymbals throughout: 14" AAX Stage Hi-Hats for crisp articulation; 18" and 19" AAX X-Plosion Crashes for explosive accents; a 21" HHX Raw Bell Dry Ride for dark, focused rhythmic clarity; a 10" AAX Splash for quick punctuation; and an 18" AAX Chinese cymbal for aggressive color. A DW 9000 Series double pedal powers the solid double kick foundation beneath Godsmack\'s heaviest arrangements. Vic Firth American Classic 5B sticks complete the rig.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Shannon_Larkin',

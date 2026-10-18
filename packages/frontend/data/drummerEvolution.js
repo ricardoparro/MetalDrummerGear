@@ -17451,15 +17451,15 @@ export const DRUMMER_EVOLUTION = {
     band: 'Trivium',
     totalYearsActive: '2005-Present',
     profileImage: '/images/drummers/nick-augusto.webp',
-    summary: 'Nick Augusto built his technical foundation on the grindcore and thrash underground with Maruta and Metal Militia before an unlikely path into Trivium\'s drum chair: joining the band as its drum technician in 2009, then stepping in as a fill-in drummer when Travis Smith went on hiatus mid-tour. That fill-in role became permanent, and Augusto\'s Pearl Reference Pure / Sabian AAX rig — first established for his 2011 studio debut "In Waves" — carried through "Vengeance Falls" (2013) before he departed Trivium in 2014 to form Corrosion and tour with Light the Torch.',
+    summary: 'Nick Augusto built his technical foundation on the grindcore and thrash underground with Maruta and Metal Militia before an unlikely path into Trivium\'s drum chair: joining the band as its drum technician in 2010, then stepping in as a fill-in drummer when Travis Smith went on hiatus mid-tour. That fill-in role became permanent, and Augusto\'s Pearl Reference Pure / Sabian AAX rig — first established for his 2011 studio debut "In Waves" — carried through "Vengeance Falls" (2013) before he departed Trivium in 2014 to form Corrosion and tour with Light the Torch.',
 
     eras: [
       {
         id: 'nick-augusto-2005-pre-trivium',
         era: 'Pre-Trivium: Maruta & Metal Militia Roots',
-        years: '2005–2009',
+        years: '2005–2010',
         startYear: 2005,
-        endYear: 2009,
+        endYear: 2010,
         description: 'Before Trivium, Nick Augusto built his playing style on the technical grindcore circuit as drummer for Maruta, and separately played in Metal Militia alongside future Trivium bassist Paolo Gregoletto — the connection that would eventually put him in Trivium\'s orbit. This period gave Augusto the speed and precision that later defined his fill-in audition for Trivium, though no single fixed gear endorsement from these years is publicly documented. Working the underground grindcore circuit meant relying on whatever session-grade hardware was available at a given venue or studio rather than a dedicated touring rig, a common reality for extreme metal drummers before landing a first major-label opportunity.',
         albums: ['Maruta and Metal Militia session/touring work prior to joining Trivium'],
         tours: ['Metal Militia touring lineup (alongside Paolo Gregoletto)', 'Maruta grindcore circuit dates'],
@@ -17521,12 +17521,12 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'nick-augusto-2009-joining-trivium',
+        id: 'nick-augusto-2010-joining-trivium',
         era: 'Joining Trivium & In Waves',
-        years: '2009–2012',
-        startYear: 2009,
+        years: '2010–2012',
+        startYear: 2010,
         endYear: 2012,
-        description: 'Augusto\'s path into Trivium began unusually: he joined the band as its drum technician in 2009, then stepped in as a fill-in drummer after founding drummer Travis Smith went on hiatus mid-tour. The fill-in role became permanent, and Augusto\'s studio debut came on "In Waves" (2011) — the album that established the Pearl Reference Pure / Sabian AAX rig that would define his tenure. His powerful, technically aggressive playing pushed Trivium\'s thrash-metalcore hybrid toward tighter, more precise execution than the band\'s earlier records, and "In Waves" expanded Trivium\'s international fanbase considerably.',
+        description: 'Augusto\'s path into Trivium began unusually: he joined the band as its drum technician in 2010, then stepped in as a fill-in drummer after founding drummer Travis Smith went on hiatus mid-tour. The fill-in role became permanent, and Augusto\'s studio debut came on "In Waves" (2011) — the album that established the Pearl Reference Pure / Sabian AAX rig that would define his tenure. His powerful, technically aggressive playing pushed Trivium\'s thrash-metalcore hybrid toward tighter, more precise execution than the band\'s earlier records, and "In Waves" expanded Trivium\'s international fanbase considerably.',
         albums: ['In Waves (2011)'],
         tours: ['In Waves World Tour 2011–2012'],
         image: null,
@@ -17577,7 +17577,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined Trivium as drum technician in 2009, then stepped in as fill-in drummer for Travis Smith mid-tour',
+          'Joined Trivium as drum technician in 2010, then stepped in as fill-in drummer for Travis Smith mid-tour',
           'Studio debut on In Waves (2011) — first full album as Trivium\'s frontline drummer',
           'Established the Pearl Reference Pure / Sabian AAX rig that defined his Trivium tenure',
           'In Waves expanded Trivium\'s international fanbase considerably',
@@ -17722,7 +17722,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'When was Nick Augusto in Trivium?',
-        a: 'Nick Augusto was Trivium\'s drummer from 2009 to 2014. He initially joined as the band\'s drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus mid-tour, and the role became permanent.',
+        a: 'Nick Augusto was Trivium\'s drummer from 2010 to 2014. He initially joined as the band\'s drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus mid-tour, and the role became permanent.',
       },
       {
         q: 'What albums did Nick Augusto record with Trivium?',

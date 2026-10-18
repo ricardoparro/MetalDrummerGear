@@ -799,7 +799,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/john-otto.webp',
     bio: 'John Otto, born in 1977, is the drummer and a founding member of Limp Bizkit. His hip-hop influenced drumming style, combining tight grooves with funk-inspired beats, was essential in defining the rap-metal sound of the late 90s and early 2000s. His ability to blend rock power with hip-hop feel made Limp Bizkit one of the biggest bands of the nu-metal era.',
-    kitOverview: 'John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic drum kit — the transparent acrylic shell set that defined his visual and sonic identity throughout Limp Bizkit\'s nu-metal peak. The John Otto drum set centers on two signature OCDP snares: a 14×6.5" 40-ply vented shell for primary work and a 10×6" 20-ply piccolo for accents. Gibraltar G Class bass drum pedals drive the kick — a single-pedal configuration underpinning the straight-ahead funk and rock grooves defining tracks like "Rollin\'" and "Break Stuff."\n\nZildjian cymbals complete the John Otto drum kit: 13" A Custom Mastersound Hi-Hats for tight groove patterns; 16" and 17" A Custom Projection Crashes for accent work; a 20" A Custom EFX for trashy edge; and a 20" FX Oriental Crash of Doom for explosive decay. Remo Emperor Coated drumheads are fitted throughout on a Gibraltar custom rack. Otto has been Limp Bizkit\'s drummer since 1994. His OCDP acrylic drum set carried the band through Significant Other (1999) and Chocolate Starfish and the Hot Dog Flavored Water (2000), the nu-metal era\'s best-selling record.',
+    kitOverview: 'John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic drum kit — the transparent acrylic shell set that defined his visual and sonic identity throughout Limp Bizkit\'s nu-metal peak. The John Otto drum set centers on two signature OCDP snares: a 14×6.5" 40-ply vented shell for primary work and a 10×6" 20-ply piccolo for accents. Gibraltar Professional Series bass drum pedals drive the kick — a single-pedal configuration underpinning the straight-ahead funk and rock grooves defining tracks like "Rollin\'" and "Break Stuff."\n\nZildjian cymbals complete the John Otto drum kit: 13" A Custom Mastersound Hi-Hats for tight groove patterns; 16" and 17" A Custom Projection Crashes for accent work; a 20" A Custom EFX for trashy edge; and a 20" FX Oriental Crash of Doom for explosive decay. Remo Emperor Coated drumheads are fitted throughout on a Gibraltar custom rack. Otto has been Limp Bizkit\'s drummer since 1994. His OCDP acrylic drum set carried the band through Significant Other (1999) and Chocolate Starfish and the Hot Dog Flavored Water (2000), the nu-metal era\'s best-selling record.',
     sameAs: [
       'https://en.wikipedia.org/wiki/John_Otto_(musician)',
       'https://www.instagram.com/johnotto/',
@@ -810,7 +810,7 @@ const drummers = [
       drums: 'Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic',
       snare: 'OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply',
       cymbals: 'Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom)',
-      hardware: 'Gibraltar G Class Bass Drum Pedals, Gibraltar Custom Racks',
+      hardware: 'Gibraltar Professional Series, Gibraltar Custom Racks',
       sticks: 'Zildjian Artist Series',
       heads: 'Remo Emperor Coated',
       verified: true,

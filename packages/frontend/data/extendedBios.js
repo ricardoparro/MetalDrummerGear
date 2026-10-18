@@ -4510,7 +4510,7 @@ Harrison's playing is characterized by intricate polyrhythmic patterns, masterfu
         ],
         tours: [
           { name: 'Porcupine Tree World Tours', year: '2002-2010', note: 'Extensive touring' },
-          { name: 'King Crimson Tours', year: '2014-2021', note: 'Part of three-drummer lineup' },
+          { name: 'King Crimson Three-Drummer-Lineup Tours', year: '2014-2021', note: 'Touring era with the three-drummer "05Ric" lineup, within his ongoing 2008-present King Crimson tenure' },
           { name: 'The Pineapple Thief Tours', year: '2016-Present', note: 'Ongoing touring' },
           { name: 'Porcupine Tree Reunion Tour', year: '2022-2023', note: 'Highly anticipated return' }
         ]

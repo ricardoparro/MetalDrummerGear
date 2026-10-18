@@ -1,7 +1,7 @@
 # Art Cruz Drum Kit Gear History — Lamb of God
 
 **Drummer:** Art Cruz
-**Band:** Lamb of God (2018–present)
+**Band:** Lamb of God (2019–present)
 **Active:** 2008–present
 **URL:** https://metalforge.io/drummers/art-cruz/gear-history
 
@@ -11,14 +11,14 @@
 
 ## Gear Timeline
 
-### Winds of Plague / Prong Era (2008–2018)
+### Winds of Plague (2008–2012, 2015–2021) / Prong (2012–2018) Era
 
 - **Drums:** Entry-level maple/birch kits — various developing-years setups, 22" kick
 - **Snare:** Steel shell 14"x6.5"
 - **Cymbals:** Various brands (pre-Zildjian)
 - **Pedal:** Standard double pedal, mixed stands
 - **Sticks:** Vic Firth 5B hickory
-- **Estimated cost (2008–2018):** ~$2,200
+- **Estimated cost (2008–2021):** ~$2,200
 - **Notable:** Cruz spent a decade in the deathcore and industrial-metal trenches, powering Winds of Plague's symphonic deathcore assault and running a parallel stint with Tommy Victor's Prong. No fixed gear endorsements yet — this era built the touring stamina and double-bass endurance behind his later groove metal approach.
 
 ### Lamb of God Fill-In Era (2018–2019)
@@ -33,15 +33,15 @@
 
 ### Lamb of God Era (2020–present)
 
-- **Drums:** Ludwig Classic Maple — 22"x18" kick, 10"/12" rack toms, 14"/16" floor toms
-- **Snare:** Ludwig 14"x6.5" (maple or brass)
+- **Drums:** Ludwig Kit — 22"x18" kick, 10"/12" rack toms, 14"/16" floor toms, built around the Black Beauty snare's cutting crack
+- **Snare:** Ludwig 14"x6.5" Black Beauty (brass shell)
 - **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China, 10" splash
 - **Pedal:** Trick Pro 1-V Bigfoot Double Pedal, Gibraltar stands and throne
 - **Sticks:** Vic Firth 5B / Power 5B
 - **Heads:** Evans G2 Coated / EMAD2
 - **Original setup cost (2020):** ~$7,500
 - **Inflation-adjusted to 2026:** ~$9,500
-- **Notable:** Cruz's studio debut with Lamb of God's self-titled album (2020) settled his rig into the Ludwig Classic Maple/Zildjian A Custom/Trick Pro 1-V Bigfoot configuration he carried into Omens (2022), expanding his cymbal setup along the way. His direct-drive single-kick pedal is a deliberate departure from Adler's double-kick configuration.
+- **Notable:** Cruz's studio debut with Lamb of God's self-titled album (2020) settled his rig into the Black Beauty-anchored Ludwig/Zildjian A Custom/Trick Pro 1-V Bigfoot configuration he carried into Omens (2022), expanding his cymbal setup along the way. His direct-drive single-kick pedal is a deliberate departure from Adler's double-kick configuration.
 
 ---
 
@@ -49,7 +49,7 @@
 
 - **2018:** Fills in for Chris Adler on Lamb of God's Slayer farewell support dates — Zildjian and Trick endorsements established
 - **2019:** Fill-in role becomes a permanent position
-- **2020:** Ludwig Classic Maple rig settles for the self-titled Lamb of God album
+- **2020:** Black Beauty-anchored Ludwig rig settles for the self-titled Lamb of God album
 - **2022:** Expanded Zildjian A Custom cymbal configuration for the Omens tour
 
 ---
@@ -57,10 +57,10 @@
 ## FAQ
 
 **Q: How much does Art Cruz's drum kit cost?**
-A: Art Cruz's 2020 Lamb of God-era Ludwig Classic Maple setup cost approximately $7,500, equivalent to roughly $9,500 today after inflation. His transitional 2018 fill-in rig, assembled while covering for Chris Adler, cost around $3,500.
+A: Art Cruz's 2020 Lamb of God-era Ludwig setup, anchored by the Black Beauty snare, cost approximately $7,500, equivalent to roughly $9,500 today after inflation. His transitional 2018 fill-in rig, assembled while covering for Chris Adler, cost around $3,500.
 
 **Q: What gear does Art Cruz use?**
-A: Art Cruz plays a Ludwig Classic Maple kit — a 22"x18" bass drum with 10"/12" rack toms and 14"/16" floor toms — paired with a full Zildjian A Custom cymbal setup and a Trick Pro 1-V Bigfoot direct-drive double pedal on a single bass drum.
+A: Art Cruz plays a Ludwig kit anchored by the 14"x6.5" Black Beauty snare — a 22"x18" bass drum with 10"/12" rack toms and 14"/16" floor toms — paired with a full Zildjian A Custom cymbal setup and a Trick Pro 1-V Bigfoot direct-drive double pedal on a single bass drum.
 
 **Q: What drums did Art Cruz use when he first joined Lamb of God?**
 A: When Cruz filled in for Chris Adler on Lamb of God's 2018 Slayer farewell support dates, he used a transitional Ludwig setup with early Zildjian A Custom cymbals and a Trick Pro 1-V Bigfoot pedal — the foundation of the rig that became permanent once he joined full-time in 2019.

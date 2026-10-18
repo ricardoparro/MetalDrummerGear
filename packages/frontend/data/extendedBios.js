@@ -1364,7 +1364,7 @@ Mario's drumming combines crushing power with technical precision, featuring com
     name: 'Paul Bostaph',
     bands: [
       { slug: 'slayer', period: '1992-2001, 2013-2019', role: 'Drummer' },
-      { slug: 'testament', period: '1999-2001, 2024-present', role: 'Drummer' },
+      { slug: 'testament', period: '1992-1993, 2004, 2007-2011', role: 'Drummer' },
       { slug: 'exodus', period: '2005-2007', role: 'Drummer' },
       { slug: 'forbidden', period: '1986-1991', role: 'Drummer' }
     ],
@@ -1383,11 +1383,11 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
         items: [
           { year: '1985', event: 'Began drumming career in San Francisco Bay Area thrash scene' },
           { year: '1986', event: 'Joined Forbidden (then Forbidden Evil), recorded debut album' },
-          { year: '1992', event: 'Joined Slayer following Dave Lombardo\'s departure' },
+          { year: '1992', event: 'Joined Slayer following Dave Lombardo\'s departure; also an interim touring drummer for Testament in 1992-1993' },
           { year: '1994', event: 'First Slayer studio album "Divine Intervention" released' },
-          { year: '1999', event: 'Joined Testament while on hiatus from Slayer' },
           { year: '2001', event: 'Left Slayer when Lombardo rejoined' },
           { year: '2005', event: 'Joined Exodus for "Shovel Headed Kill Machine"' },
+          { year: '2007', event: 'Rejoined Testament full-time, recording "The Formation of Damnation"' },
           { year: '2013', event: 'Rejoined Slayer following Lombardo\'s second departure' },
           { year: '2015', event: 'Recorded "Repentless," first Slayer album without Jeff Hanneman' },
           { year: '2019', event: 'Performed Slayer\'s final show at the Forum in Los Angeles' }
@@ -1415,8 +1415,8 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
           { name: 'Slayer - Divine Intervention', year: 1994, label: 'American', note: 'First Slayer album' },
           { name: 'Slayer - Undisputed Attitude', year: 1996, label: 'American', note: 'Punk covers album' },
           { name: 'Slayer - Diabolus in Musica', year: 1998, label: 'American', note: 'Groove metal era' },
-          { name: 'Testament - First Strike Still Deadly', year: 2001, label: 'Spitfire', note: 'Re-recorded classics' },
           { name: 'Exodus - Shovel Headed Kill Machine', year: 2005, label: 'Nuclear Blast', note: 'Thrash revival' },
+          { name: 'Testament - The Formation of Damnation', year: 2008, label: 'Nuclear Blast', note: 'Only studio album from his full-time 2007-2011 stint' },
           { name: 'Slayer - Repentless', year: 2015, label: 'Nuclear Blast', note: 'Final Slayer album' }
         ],
         tours: [
@@ -1458,7 +1458,7 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
           { q: 'What sticks does Paul Bostaph use?', a: 'Paul Bostaph uses Vater Power 5B drumsticks.' },
           { q: 'What bass drum pedal does Paul Bostaph use?', a: 'Paul Bostaph drives his double bass patterns with a Pearl Eliminator double pedal.' },
           { q: 'What drumheads does Paul Bostaph use?', a: 'Paul Bostaph uses Remo Powerstroke 3, Emperor Coated, and Ambassador drumheads.' },
-          { q: 'What band is Paul Bostaph in?', a: 'Paul Bostaph is Slayer\'s longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1999-2001, 2024-present), Exodus (2005-2007), and Forbidden (1986-1991).' },
+          { q: 'What band is Paul Bostaph in?', a: 'Paul Bostaph is Slayer\'s longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1992-1993, 2004, 2007-2011), Exodus (2005-2007), and Forbidden (1986-1991).' },
           { q: 'How long did Paul Bostaph play with Slayer?', a: 'Paul Bostaph is Slayer\'s longest-serving drummer, spanning 12 total years across two separate tenures — 1992-2001 and 2013-2019 — and appearing on four studio albums, including Repentless (2015) and the band\'s final show at the Forum in Los Angeles on November 30, 2019.' }
         ]
       },

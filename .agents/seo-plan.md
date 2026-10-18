@@ -13114,3 +13114,43 @@ Then ran a fresh lowest-issue-count roster-sweep round via subagent (skipping th
 2. Continue the lowest-issue-count roster sweep: next tier beyond jon-dette/morgan-agren/richard-christy not yet identified — run a fresh ranking pass next time rather than reusing this week's skip list verbatim (it's getting long).
 3. Content-gap: both rows (joey jordison drum set, john otto snare) re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-18 (run ~mid-day UTC, Sunday) — lowest-issue-count roster sweep round: 6 filed, #9266-9271
+
+### Audit summary
+- robots.txt (live curl): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed, plus Claude-Web. ✅
+- `/llms/*.md`: 32 top-level + 72 `/llms/evolution/*.md` + 72 `/llms/drummers/*.md` — unchanged, no new-page work (freeze in effect).
+- Bank check: 8 open `seo-proposal` at run start, but effectively 0 untriaged (the 4 fresh #9262-9265 had already been promoted to `ai-fix` by the 00:31 UTC evening-review catch-up; remainder is held #7981 + 3 standing umbrellas) → filed 6 to refill.
+
+### Metrics readout
+- GSC 7d (01:17 UTC refresh): 14,340 impr / 214 clicks / 1.49% CTR / pos 8.2. Content-gap rows (`jaska raatikainen` 89/1.12%, `john otto snare` 68/1.47%) both already ruled per the 00:31 catch-up entry (jaska: standing class-2 bare-name query, no lever; john otto: directly addressed by #9264, already promoted) — no re-action.
+- GA4 7d: 419 users / 464 sessions / 685 views. Organic 332/464 (71.6%).
+- Not Monday (Sunday) — drum-chair watch skipped, next due Monday 2026-10-19, group 3.
+
+### Method
+Continued the lowest-issue-count roster sweep (prior runs exhausted a long skip-list of ~61 already-checked slugs down to 11 remaining `extendedBios.js` roster members). Delegated the ranking + candidate scan to a research subagent, which counted GitHub issue mentions per remaining name and flagged jason-bittner (82), martin-lopez (82), sean-reinert (88), paul-bostaph (106), gavin-harrison (116) as the next-lowest tier, with file:line cross-file contradiction findings for each.
+
+Independently re-verified every candidate myself before filing (read the actual current file content at the cited lines, cross-checked ground truth, dedup-searched) rather than trusting the subagent report verbatim — this caught two false positives from the subagent's pass: (1) its claimed Paul Bostaph Slayer-tenure "3 stints flattened to 2" finding was wrong — `bands.js:341` already has the correct 3-stint `"1992-1996, 1997-2001, 2013-2019"` format, no fix needed; (2) its Martin Lopez cymbal-specificity flag ("K Dark Series" vs generic "K Series") was dropped as too risky given 30+ already-closed Martin Lopez issues already settled K Dark as the verified value in a prior fix (#7870) — would have needed much deeper re-verification than the run justified, not pursued.
+
+Confirmed 6 genuine, independently-verified, non-duplicate findings across 4 drummers and filed each as an atomic issue.
+
+### Proposals filed this run
+1. #9266 — Sean Reinert birthdate fabricated 2 different wrong ways (Jan 23 / Apr 4 vs verified May 27, 1971) + wrong death-date in soundLikeGuides.js + "one day after his 49th birthday" age-math error (he was 48) propagated into 2 otherwise-correct files
+2. #9267 — Gavin Harrison extendedBios.js discography entry says King Crimson "Tours" 2014-2021, contradicting the same record's own 2008-present framing in 4 other fields (distinct from #8238's already-fixed drummerEvolution.js era-block fact)
+3. #9268 — Paul Bostaph soundLikeGuides.js fabricates birthplace "San Jose, California" — verified San Francisco (extendedBios.js + api/drummers/index.js agree)
+4. #9269 — Jason Bittner drummerComparisons.js says Shadows Fall "(1999-2015)" in 3 FAQ entries — verified 2001-2015, the value #9145 explicitly settled after reverting a bad earlier "1999" fix
+5. #9270 — Jason Bittner extendedBios.js trivia calls him a "Connecticut native", contradicting the same file's own (already #8535-corrected) Niskayuna, New York birthplace
+6. #9271 — Paul Bostaph extendedBios.js fabricates Testament tenure as "1999-2001, 2024-present" — verified 1992-1993, 2004 (touring), 2007-2011 per bands.js (zero year overlap between the two versions, plus a secondary internal Slayer-hiatus self-contradiction)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9266-9271 (this run, 6 fresh)
+
+### Next run
+1. Watch #9266-9271 pick up via Roadie; #9267 and #9269/#9270/#9271 are small single-field fixes, #9266 touches 4 files and should land as one PR.
+2. Roster sweep: the 11-drummer remaining pool is now down to 6 unchecked (danny-carey, dave-lombardo, george-kollias, inferno, nick-menza, vinnie-paul) after this run's 5-drummer deep-check (jason-bittner, martin-lopez, sean-reinert, paul-bostaph, gavin-harrison all now checked). Next run: rank-check this final 6, then the sweep method will need a fresh source (re-rank the full 72 by current issue-count, or pivot to a different file family).
+3. Content-gap: both rows (jaska raatikainen, john otto snare) re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

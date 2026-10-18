@@ -6475,7 +6475,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
           'Has been a drum educator and clinician throughout his career',
           'Seamlessly transitioned from metalcore to classic thrash with Overkill',
           'Overkill has cited his work ethic and professionalism as reasons for hiring him',
-          'Connecticut native who has represented New England metal for decades',
+          'New York native who has represented New England metal for decades',
           'Continues to be active with educational content and clinics',
           'His powerful style has adapted well to Overkill\'s classic thrash sound'
         ]

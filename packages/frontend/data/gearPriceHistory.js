@@ -567,7 +567,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Images and Words (1992)',
     profileImage: '/images/drummers/mike-portnoy.webp',
 
-    summary: "Mike Portnoy's 1992 setup that defined progressive metal drumming on Images and Words. A technically ambitious multi-tom Tama Artstar II configuration built for the complex polyrhythms, odd-time signatures, and extended suite structures that established Dream Theater as prog-metal's premier act. This kit, paired with Sabian cymbals and a DW double pedal, produced one of the most technically demanding drum performances ever recorded in the genre. The 8-piece layout gave Portnoy the tonal range needed to move fluidly between the jazz-influenced passages and full-throttle metal sections that define the album — particularly on 'A Fortune in Lies,' 'Pull Me Under,' and the 23-minute opus 'A Change of Seasons' performed in that era. The original retail cost sat just over $5,000 in 1992 dollars — a serious professional investment that now inflates to nearly $12,000 in 2026 terms. Portnoy's approach to kit configuration was unusually systematic for the era: he mapped each tom to specific pitch zones in the songs, treating the drum kit as a melodic instrument rather than a purely rhythmic one. The Tama Artstar II's maple shells provided the warmth and sustain that this musical approach demanded, distinguishing his recorded sound from the harder, drier birch tones common in early-1990s metal production. Portnoy's long-running Sabian endorsement, dating back to 1985, offered the focused, bell-forward projection that cut through layered keyboards and twin-guitar arrangements without becoming strident — a critical balance for a band whose dynamic range spanned whisper-quiet passages and full-force metal climaxes within a single track.",
+    summary: "Mike Portnoy's 1992 setup that defined progressive metal drumming on Images and Words. A technically ambitious multi-tom Tama Artstar II configuration built for the complex polyrhythms, odd-time signatures, and extended suite structures that established Dream Theater as prog-metal's premier act. This kit, paired with Sabian cymbals and a Tama Iron Cobra single pedal, produced one of the most technically demanding drum performances ever recorded in the genre. The 8-piece layout gave Portnoy the tonal range needed to move fluidly between the jazz-influenced passages and full-throttle metal sections that define the album — particularly on 'A Fortune in Lies,' 'Pull Me Under,' and the 23-minute opus 'A Change of Seasons' performed in that era. The original retail cost sat just over $5,000 in 1992 dollars — a serious professional investment that now inflates to nearly $12,000 in 2026 terms. Portnoy's approach to kit configuration was unusually systematic for the era: he mapped each tom to specific pitch zones in the songs, treating the drum kit as a melodic instrument rather than a purely rhythmic one. The Tama Artstar II's birch shells provided the punchy, cutting tone that this musical approach demanded, distinguishing his recorded sound within the dense, layered arrangements of early-1990s progressive metal production. Portnoy's long-running Sabian endorsement, dating back to 1985, offered the focused, bell-forward projection that cut through layered keyboards and twin-guitar arrangements without becoming strident — a critical balance for a band whose dynamic range spanned whisper-quiet passages and full-force metal climaxes within a single track.",
 
     setup: {
       drums: {
@@ -577,7 +577,7 @@ export const GEAR_PRICE_HISTORY = {
         originalPrice: 2800,
         year: 1992,
         source: 'Tama Artstar II professional catalog MSRP 1992, Modern Drummer archive estimates',
-        notes: 'Multi-tom layout for Portnoy\'s complex fills and metric modulation patterns. Tama Artstar II was the flagship professional series with maple shells.',
+        notes: 'Multi-tom layout for Portnoy\'s complex fills and metric modulation patterns. Tama Artstar II was the flagship professional series with birch shells.',
         vintageValue2026: 3500,
         modernEquivalent: {
           item: 'Tama Starclassic Walnut/Birch',
@@ -586,13 +586,13 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       snare: {
-        item: 'Tama Artstar II Steel 14"x6.5"',
-        model: 'Steel shell snare',
-        specs: '14"x6.5" steel shell, 10-lug',
+        item: 'Tama Artstar II Birch 14"x6.5"',
+        model: 'Birch shell snare',
+        specs: '14"x6.5" birch shell, die-cast hoops',
         originalPrice: 350,
         year: 1992,
         source: 'Tama snare catalog 1992',
-        notes: 'Bright, cutting steel snare. Portnoy later developed multiple signature snare models across different eras.',
+        notes: 'Powerful, punchy birch snare that cut through dense prog arrangements. Portnoy later developed multiple signature snare models across different eras.',
         vintageValue2026: 450,
         modernEquivalent: {
           item: 'Tama S.L.P. Sonic Steel 14"x6.5"',
@@ -616,13 +616,13 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'DW 5002 Double Pedal + Tama Hardware',
-        model: 'DW 5002 chain drive + Tama stands',
-        specs: 'Chain drive double pedal, hi-hat stand, 6 boom cymbal stands, snare stand',
+        item: 'Tama Iron Cobra Single Pedal + Tama Hardware',
+        model: 'Tama Iron Cobra single pedal + Tama stands',
+        specs: 'Single pedal, hi-hat stand, 6 boom cymbal stands, snare stand',
         originalPrice: 650,
         year: 1992,
-        source: 'DW hardware retail 1992, Tama hardware catalog',
-        notes: 'DW 5002 was the double pedal of choice for prog and metal drummers in the early 90s. Multi-cymbal setup required additional boom stands.',
+        source: 'Tama hardware catalog 1992',
+        notes: 'Single-pedal setup for early touring; double bass was added progressively as the music demanded it. Multi-cymbal setup required additional boom stands.',
         vintageValue2026: 700,
         modernEquivalent: {
           item: 'Pearl Demon Drive + hardware pack',

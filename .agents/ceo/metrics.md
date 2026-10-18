@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-18 13:03 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-18 18:11 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 446 |
-| Sessions | 496 |
-| Page views | 725 |
-| Engagement rate | 63.51% |
-| Avg session (s) | 204 |
+| Active users | 454 |
+| Sessions | 505 |
+| Page views | 736 |
+| Engagement rate | 63.76% |
+| Avg session (s) | 201 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -24,15 +24,15 @@
 | /drummer/matt-greiner | 16 | 10 |
 | /drummer/eloy-casagrande | 12 | 10 |
 | /studies/metal-tempo-by-subgenre | 12 | 7 |
-| /articles/slipknot-self-titled-drum-setup | 8 | 7 |
+| /articles/slipknot-self-titled-drum-setup | 9 | 8 |
+| /drummer/john-otto | 9 | 8 |
 | /drummer/bill-ward | 8 | 7 |
-| /drummer/danny-carey | 8 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 360 | 314 |
-| Direct | 132 | 129 |
+| Organic Search | 366 | 318 |
+| Direct | 136 | 133 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 | Referral | 1 | 1 |
@@ -40,12 +40,12 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 159 | 139 |
-| Singapore | 65 | 65 |
+| United States | 162 | 142 |
+| Singapore | 68 | 68 |
+| Canada | 34 | 28 |
 | China | 33 | 33 |
-| Canada | 32 | 27 |
+| United Kingdom | 23 | 18 |
 | Germany | 22 | 18 |
-| United Kingdom | 22 | 17 |
 | Australia | 15 | 14 |
 | Brazil | 14 | 12 |
 | France | 13 | 12 |

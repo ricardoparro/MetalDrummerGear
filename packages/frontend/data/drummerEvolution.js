@@ -5533,9 +5533,9 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Reference Pure',
+            item: 'Pearl Masterworks Series',
             details: 'All-maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Upgraded to Reference Pure — all-maple construction delivers a warmer, more resonant tone across Nile\'s complex arrangements.',
+            notes: 'Upgraded to the Pearl Masterworks Series — all-maple construction delivers a warmer, more resonant tone across Nile\'s complex arrangements.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
@@ -5584,7 +5584,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Vic Firth George Kollias signature sticks launched',
-          'Upgraded to Pearl Reference Pure all-maple shells',
+          'Upgraded to Pearl Masterworks Series all-maple shells',
           'Solo album Invictus released (2009)',
           'ddrum triggers integrated for live double bass consistency',
         ],
@@ -5610,9 +5610,9 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Reference Pure',
+            item: 'Pearl Masterworks Series',
             details: 'All-maple: 22" kick, 8"/10"/12"/14"/16" toms, custom finish',
-            notes: 'Current primary kit — Pearl Reference Pure with custom specifications refined across 10+ years.',
+            notes: 'Current primary kit — Pearl Masterworks Series with custom specifications refined across 10+ years.',
             change: null,
           },
           snare: {

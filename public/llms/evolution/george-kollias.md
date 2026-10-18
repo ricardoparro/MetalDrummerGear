@@ -71,7 +71,7 @@ George Kollias joined Nile in 2004 and immediately delivered one of the most tec
 
 George Kollias's technical and artistic peak. Those Whom the Gods Detest and At the Gate of Sethu cemented his status as the most precise drummer in death metal, while his solo album Invictus (2009) proved he was also a sophisticated composer and arranger. His first signature Vic Firth drumsticks arrived during this era — designed for durability at elite blast beat speeds.
 
-- **Drums:** Pearl Reference Pure (all-maple shells) — 22" kick, 8"/10"/12"/14"/16" toms *(upgrade — warmer, more resonant tone for dense Nile arrangements)*
+- **Drums:** Pearl Masterworks Series (all-maple shells) — 22" kick, 8"/10"/12"/14"/16" toms *(upgrade — warmer, more resonant tone for dense Nile arrangements)*
 - **Snare:** Pearl Free-Floating Steel 14"×6.5" *(continued — consistent snare across multiple album cycles)*
 - **Cymbals:** Paiste Signature Series (full configuration) — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China
 - **Hardware:** Tama Iron Cobra HP900 Double Pedal *(continued — central to his blast beat precision)*
@@ -82,7 +82,7 @@ George Kollias's technical and artistic peak. Those Whom the Gods Detest and At 
 
 **Key developments:**
 - Vic Firth George Kollias signature sticks launched
-- Upgraded to Pearl Reference Pure all-maple shells for richer live tone
+- Upgraded to Pearl Masterworks Series all-maple shells for richer live tone
 - Solo album Invictus (2009) — demonstrates compositional range beyond pure speed
 - ddrum kick triggers integrated for live consistency across demanding international touring
 
@@ -97,11 +97,11 @@ George Kollias's technical and artistic peak. Those Whom the Gods Detest and At 
 
 In the modern era, Kollias has refined his setup to an elite standard that reflects 20+ years of incremental precision. What Should Not Be Unearthed (2015) and Vile Nilotic Rites (2019) represent his most mature Nile work, while his second solo album Labyrinth of Chaos (2018) expanded his compositional voice. His drum clinics worldwide have established him as the preeminent educator in extreme metal technique.
 
-- **Drums:** Pearl Reference Pure — 22" kick, 8"/10"/12"/14"/16" toms, custom finish *(refined — same platform, custom specs developed over 10+ years)*
+- **Drums:** Pearl Masterworks Series — 22" kick, 8"/10"/12"/14"/16" toms, custom finish *(current primary kit, custom specs developed over 10+ years)*
 - **Snare:** Pearl Free-Floating Steel 14"×6.5" *(consistent — decade-plus snare of choice)*
-- **Cymbals:** Paiste Signature Series (complete configuration)
-- **Hardware:** Tama Iron Cobra HP900 Double Pedal *(continued — unchanged across his entire Nile career)*
-- **Sticks:** Vic Firth George Kollias Signature (updated model — heavier rear end for control at top speeds) *(upgrade)*
+- **Cymbals:** Zildjian — 14" K Mastersound Hi-Hats, 17"/18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China *(current live and studio configuration)*
+- **Hardware:** Pearl Demon XR Double Pedal *(current pedal, co-designed with Pearl for extreme-speed applications)*
+- **Sticks:** Vic Firth (no specific signature model documented)
 - **Heads:** Remo Emperor on toms, Powerstroke 3 on kick
 - **Electronics:** ddrum Acoustic Pro Triggers on kick and snare *(upgrade — refined hybrid system)*
 - **Estimated kit cost (original):** ~$18,000
@@ -130,12 +130,13 @@ In the modern era, Kollias has refined his setup to an elite standard that refle
 ## Gear Brand Partnerships Timeline
 
 - **Tama (drums/hardware)** — 1995–2004 (Greek underground era, budget market)
-- **Pearl Reference / Reference Pure** — 2004–present (professional endorsement, entire Nile career)
+- **Pearl (drums)** — 2004–present (professional endorsement, entire Nile career; Reference Series 2005–2008, Masterworks Series 2009–present)
 - **Paiste 2002** — 1995–2004 (Greek underground standard)
-- **Paiste Signature Series** — 2005–present (professional line, 20+ year partnership)
-- **Tama Iron Cobra** — throughout entire career (pedal unchanged since the beginning)
-- **Vic Firth 5B** — 1995–~2009 (pre-signature era)
-- **Vic Firth George Kollias Signature** — ~2009–present (designed for extreme blast beat durability)
+- **Paiste Signature Series** — 2005–2015 (professional cymbal line, succeeded by Zildjian)
+- **Zildjian A Custom Series** — 2015–present (current cymbal partnership)
+- **Tama Iron Cobra** — 1995–2015 (foundational pedal, succeeded by the Pearl Demon XR)
+- **Pearl Demon XR** — 2015–present (co-designed signature double pedal)
+- **Vic Firth** — 1995–present (no specific signature model documented)
 - **ddrum Acoustic Pro Triggers** — 2009–present (live kick and snare consistency)
 
 ---
@@ -143,16 +144,16 @@ In the modern era, Kollias has refined his setup to an elite standard that refle
 ## FAQ
 
 **Q: What drum kit does George Kollias use?**
-A: George Kollias plays a Pearl Reference Pure kit — all-maple shells in a configuration that includes a 22" kick drum and 8", 10", 12", 14", and 16" toms. He has been a Pearl artist since joining Nile in 2004, progressing from the Pearl Reference Series to the Reference Pure as his preferred all-maple option.
+A: George Kollias plays a Pearl Masterworks Series kit. He has been a Pearl artist since joining Nile in 2004.
 
 **Q: What double bass pedal does George Kollias use?**
-A: Kollias uses the Tama Iron Cobra HP900 double pedal — and has used it throughout his entire career, across every era documented here. His blast beat technique was built around the Iron Cobra's specific feel and response, and he has never switched pedal brands despite changing drum endorsements.
+A: Kollias uses the Pearl Demon XR double pedal, a signature model he co-designed with Pearl for extreme-speed applications, giving him the linear, direct action his blast beat technique demands.
 
 **Q: What cymbals does George Kollias use?**
-A: George Kollias plays Paiste Signature Series cymbals, including 14" hi-hats, 17", 18", and 19" crashes, a 21" ride, and an 18" China. He began with Paiste 2002 in the Greek underground and has maintained a Paiste endorsement across his professional career.
+A: George Kollias plays Zildjian A Custom Series cymbals.
 
 **Q: What drumsticks does George Kollias use?**
-A: Kollias plays Vic Firth George Kollias Signature drumsticks — a custom hickory model designed specifically for his extreme speed requirements. He developed his signature stick during the Those Whom the Gods Detest era (around 2009) and has used it since.
+A: Kollias plays Vic Firth drumsticks; no specific signature model is publicly documented.
 
 **Q: How fast can George Kollias play blast beats?**
 A: George Kollias is documented as one of the fastest blast beat drummers ever recorded, capable of sustaining extreme blast beat speeds above 250 BPM with consistent note placement. His technique has been a subject of study at drum clinics worldwide, where he emphasizes precision and musicality alongside raw speed.
@@ -169,6 +170,6 @@ A: Yes — George Kollias has released two solo albums: Invictus (2009) and Laby
 
 - [George Kollias Drummer Profile](/llms/drummers/george-kollias.md)
 - [Nile Band Profile](/llms/bands.md)
-- [Paiste Cymbals Brand Guide](/llms/brands/paiste.md)
+- [Zildjian Cymbals Brand Guide](/llms/brands/zildjian.md)
 - [Pearl Drums Brand Guide](/llms/brands/pearl.md)
 - [Metal Drumming Facts & Stats](/llms/facts.md)

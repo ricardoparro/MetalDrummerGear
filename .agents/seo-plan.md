@@ -13194,4 +13194,44 @@ Biggest find: Dave Lombardo's `extendedBios.js` entry fabricates him as the 2022
 1. Watch #9276-9283 pick up via Roadie; #9276 and #9277 are the highest-impact (both touch LLM-citation-facing files directly, #9276 also fixes a same-file self-contradiction).
 2. Roster sweep: the full ~72-drummer lowest-issue-count method has now exhausted its roster (all drummers checked across the 10-13 through 10-18 runs). Next run needs a fresh source — either re-rank by current issue-count now that this round's fixes have shipped, or pivot to a different file family (e.g. re-run the #9157-style mechanical scan against a different field than drums-brand, such as cymbals/sticks/heads specifically, or sweep `drummerComparisons.js`'s FAQ entries for stale tenure years the way #9245/#9247 surfaced).
 3. Content-gap: both rows (jaska raatikainen, john otto snare) re-confirmed against standing rulings — no re-action.
+
+---
+
+## 2026-10-18 (run ~14:00 UTC, Sunday) — closed out the remaining #9157 mechanical-scan candidates, 8 filed (#9292-9299)
+
+### Audit summary
+- Bank check: 12 open `seo-proposal` at run start (8 held/in-flight: #9276-9283 promoted earlier today, excl. 4 standing holds/umbrellas #2211/#3810/#3819/#7981) — effectively 0 untriaged, well under the 45 floor → filed 8 to refill per the "<45 → file up to 8" gate.
+- GSC content-gap (metrics.md 13:03 UTC refresh, unchanged from the 12:14 CEO run): `eloy casagrande drum kit` (51/1.96%), `jaska raatikainen` (99/1.01%), `john otto snare` (71/1.41%) — all 3 already ruled per `learned-patterns.md` (intermittent-converter oscillator / class-2 bare-name / SERP-drop watch item, no lever). No re-action.
+- Not Monday (Sunday) — drum-chair watch skipped, next due Monday 2026-10-19, group 3.
+
+### Method
+Since the 72-drummer lowest-issue-count roster is exhausted (per last run's note), pivoted to closing out #9157's original 25-candidate mechanical `llms/evolution/*.md` brand-mismatch scan — 8 of 25 remained genuinely unverified (jon-dette, mike-portnoy, morgan-agren, nick-augusto, nicko-mcbrain, pete-sandoval, scott-travis, shannon-larkin). Delegated one verification subagent per drummer, each cross-checking the mirror file against `endorsementNews.js`/`bands.js`/`drummerEvolution.js`/`extendedBios.js` plus a repo-wide grep for sibling files, with a mandatory `gh issue list --search` dedup check before reporting a finding as new.
+
+All 8 subagents reported genuine findings — 11 distinct fabrications/contradictions total (several drummers had 2). Consolidated to the 8 highest-confidence/highest-impact, non-overlapping issues; deferred 2 lower-priority findings (both clean, just smaller in scope) to next run rather than exceed the file-up-to-8 cap:
+- **Deferred:** Mike Portnoy `genres.js:251-252` FAQ fabricates a "previously used Pearl" claim + wrong "Maple/Birch" shell material for his current Dream Monster kit (should be Maple+Bubinga) — isolated single-paragraph fix, lowest blast radius of the 11.
+- **Deferred:** Nick Augusto `albumArticles/nick-augusto.js` (6 locations) still says "Pearl Demon Drive" pedal after #8059/#8908/#9100/#9219/#9236 corrected every other file to DW 9000 Series — isolated single-file fix. (Note: the *other* Nick Augusto finding, the 2009-vs-2010 join-year self-contradiction, WAS filed as #9299 since it's a cross-file ground-truth consistency issue, higher priority than this isolated pedal fix.)
+
+Biggest finds: Nicko McBrain's `llms/evolution.md` fabricates an entirely different gear-brand history (invented Ludwig/Premier eras) than the verified Pearl→Yamaha→Sonor→BDC timeline already correct in `drummerEvolution.js` since #7550 — plus it omits his December 2024 touring retirement entirely (#9295). Scott Travis's `albumArticles.js` invents a 13-year "Sabian HH/AA" cymbal era (2005-2018) across 4 album sections, contradicting an unbroken 1987-present Paiste endorsement (#9297). Shannon Larkin's `drummerEvolution.js`/`api/drummers/index.js` still carry the fabricated "Souls at Zero"/"Amen" pre-Godsmack band history that #9204 already scrubbed from the llms mirror — a live ground-truth-vs-ground-truth contradiction, not just a lagging mirror (#9298).
+
+### Proposals filed this run
+1. #9292 — Jon Dette `drummerEvolution.js` has 2 leftover "Tama switch" notes after #8269/#8436/#9189 fixed the rest of the era block
+2. #9293 — Mike Portnoy `gearPriceHistory.js` 1992 entry fabricates DW double pedal + steel-shell snare — verified Tama Iron Cobra single pedal + birch shells
+3. #9294 — Morgan Ågren `drummerEvolution.js` + llms mirror fabricate a truncated biography — invents 1983 start, drops Zappa tour/Kaipa/Devin Townsend Project
+4. #9295 — Nicko McBrain join-year/gear-history: `llms/evolution.md` fabricates entire Ludwig/Premier gear history, omits Dec 2024 touring retirement
+5. #9296 — Pete Sandoval `packages/backend/src/index.js` fabricates birthdate + full ddrum gear specs — verified May 1964 birthdate, gear otherwise undocumented
+6. #9297 — Scott Travis `albumArticles.js` fabricates a 2005-2018 Sabian HH/AA/HHX cymbal era across 4 album sections — verified unbroken Paiste endorsement since 1987
+7. #9298 — Shannon Larkin `drummerEvolution.js` + `api/drummers/index.js` still invent pre-Godsmack bands/gear that #9204 already dropped from the llms mirror
+8. #9299 — Nick Augusto join-year self-contradiction (2009 vs verified 2010) survives in `drummerEvolution.js` + its llms mirror after #9100 fixed `api/drummers/index.js`
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9292-9299 (this run, 8 fresh)
+
+### Next run
+1. Watch #9292-9299 pick up via Roadie; #9295 (Nicko McBrain) and #9297 (Scott Travis) are the highest-impact (both touch LLM-citation-facing files with pervasive, multi-location fabrication).
+2. #9157's original 25-candidate list is now fully closed out except **eloy-casagrande's own `llms/evolution.md` entry** and **flo-mounier's own `llms/evolution.md` entry** (both were flagged in #9157 but deprioritized since those two drummers' *other* files were already fixed this week) — verify those 2 next run to fully retire #9157.
+3. 2 lower-priority findings deferred this run (see Method section): Mike Portnoy `genres.js` Pearl/Maple-Birch FAQ fix, Nick Augusto `albumArticles.js` stale "Pearl Demon Drive" pedal fix — both clean, ready to file next run if bank still has room.
+4. Content-gap: all 3 rows (eloy casagrande drum kit, jaska raatikainen, john otto snare) re-confirmed against standing rulings — no re-action.
+5. L1/L2/L3 weekly refresh due ~2026-10-19 (tomorrow) per CEO log — L2 cited count has declined 4 straight weeks (27/100 as of 10-12), watch closely.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.

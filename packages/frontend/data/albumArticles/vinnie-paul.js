@@ -147,7 +147,7 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 2B",
+          "model": "Vic Firth American Classic 5B",
           "notes": "Heavy sticks for power"
         }
       ],
@@ -791,7 +791,7 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 2B (played backwards)",
+          "model": "Vic Firth American Classic 5B (played backwards)",
           "notes": "Heavy sticks held at tapered end for maximum power"
         }
       ],
@@ -1097,7 +1097,7 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 2B (played backwards)",
+          "model": "Vic Firth American Classic 5B (played backwards)",
           "notes": "Heavy sticks held at tapered end for maximum power on snare"
         }
       ],
@@ -2401,7 +2401,7 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 2B (played backwards)",
+          "model": "Vic Firth American Classic 5B (played backwards)",
           "notes": "Vinnie's signature backwards grip was already in place by 1985"
         }
       ],
@@ -2591,7 +2591,7 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 2B (played backwards)",
+          "model": "Vic Firth American Classic 5B (played backwards)",
           "notes": "Signature backwards grip, unchanged since the band's earliest years"
         }
       ],

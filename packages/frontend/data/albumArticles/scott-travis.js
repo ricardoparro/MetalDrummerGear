@@ -252,7 +252,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Racer X to Metal God: Scott Travis's Journey",
-      "content": "Before joining Judas Priest, Scott Travis had already established himself as one of metal's most technically proficient drummers through his work with Racer X, the neoclassical metal band featuring guitarist Paul Gilbert. His speed metal credentials were impeccable — but Painkiller would take him to a new level.\n\n**The Racer X Foundation:**\nWith Racer X, Travis developed the double bass technique and speed that would define his Priest years. Albums like \"Street Lethal\" (1986) and \"Second Heat\" (1987) showcased his ability to play at extreme tempos while maintaining precision. But Racer X's profile was limited compared to what awaited.\n\n**Joining Judas Priest:**\nWhen Dave Holland departed Priest in 1989, the band needed someone who could reinvigorate their sound. Travis was the perfect choice — young, technically superior, and hungry to prove himself on a bigger stage. His audition reportedly left the band stunned.\n\n**The Painkiller Transformation:**\nTravis didn't just play the drums on Painkiller — he helped reshape Priest's entire sound. His thrash metal influences pushed the band faster and heavier than they'd ever been. Songs were written around his capabilities, and the result was a complete artistic reinvention.\n\n**Post-Painkiller Career:**\nTravis has remained with Judas Priest through their entire post-Painkiller career. While subsequent albums haven't matched Painkiller's extremity, his drumming continues to anchor the band. Albums like \"Angel of Retribution\" (2005) and \"Firepower\" (2018) showcase his enduring abilities.\n\n**A Gear Story in Three Chapters:**\nTravis's rig has changed twice since Painkiller. The Tama Artstar II birch kit and Paiste Signature/2002 cymbals heard on Painkiller and Jugulator gave way to a fifteen-year run on Pearl's Reference Series (with Sabian cymbals) from Angel of Retribution (2005) through Redeemer of Souls (2014), before Travis moved to his current ddrum Dominion Series kit and Paiste RUDE/2002 setup for Firepower (2018) and Invincible Shield (2024). One constant through every switch: he has always run two independently pedaled bass drums rather than a linked double pedal, from the Tama Iron Cobra HP900 heard on Painkiller through his current setup.\n\nHis approach to the kit itself — precision, power, and speed — has remained just as consistent as his gear has evolved.",
+      "content": "Before joining Judas Priest, Scott Travis had already established himself as one of metal's most technically proficient drummers through his work with Racer X, the neoclassical metal band featuring guitarist Paul Gilbert. His speed metal credentials were impeccable — but Painkiller would take him to a new level.\n\n**The Racer X Foundation:**\nWith Racer X, Travis developed the double bass technique and speed that would define his Priest years. Albums like \"Street Lethal\" (1986) and \"Second Heat\" (1987) showcased his ability to play at extreme tempos while maintaining precision. But Racer X's profile was limited compared to what awaited.\n\n**Joining Judas Priest:**\nWhen Dave Holland departed Priest in 1989, the band needed someone who could reinvigorate their sound. Travis was the perfect choice — young, technically superior, and hungry to prove himself on a bigger stage. His audition reportedly left the band stunned.\n\n**The Painkiller Transformation:**\nTravis didn't just play the drums on Painkiller — he helped reshape Priest's entire sound. His thrash metal influences pushed the band faster and heavier than they'd ever been. Songs were written around his capabilities, and the result was a complete artistic reinvention.\n\n**Post-Painkiller Career:**\nTravis has remained with Judas Priest through their entire post-Painkiller career. While subsequent albums haven't matched Painkiller's extremity, his drumming continues to anchor the band. Albums like \"Angel of Retribution\" (2005) and \"Firepower\" (2018) showcase his enduring abilities.\n\n**A Gear Story in Three Chapters:**\nTravis's rig has changed twice since Painkiller. The Tama Artstar II birch kit heard on Painkiller and Jugulator gave way to a fifteen-year run on Pearl's Reference Series from Angel of Retribution (2005) through Redeemer of Souls (2014), before Travis moved to his current ddrum Dominion Series kit for Firepower (2018) and Invincible Shield (2024). His Paiste cymbals — Signature/2002 on Painkiller, evolving to RUDE/2002 by the Pearl era and carrying through to today — are the one constant that never switched brands across any of it. One constant through every switch: he has always run two independently pedaled bass drums rather than a linked double pedal, from the Tama Iron Cobra HP900 heard on Painkiller through his current setup.\n\nHis approach to the kit itself — precision, power, and speed — has remained just as consistent as his gear has evolved.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1225,18 +1225,18 @@ export const articles = {
       "rob halford return judas priest",
       "scott travis pearl reference kit",
       "lochness eulogy drum sound",
-      "scott travis sabian cymbals",
+      "scott travis paiste cymbals",
       "judas priest reunion album drums"
     ],
     "ogImage": "/images/albums/angel-of-retribution-drums.webp",
     "intro": {
       "title": "The Reunion Heard Around Metal: Halford Returns, Travis Holds the Line",
-      "content": "When Rob Halford rejoined Judas Priest in 2003 after a 13-year departure that began in 1992, the metal world braced for what would either be a triumphant homecoming or an awkward nostalgia trip. \"Angel of Retribution,\" released on February 28, 2005 through Epic Records and Sony BMG, turned out to be the former — a deliberate, song-focused reunion record that hit #1 in Germany and #13 on the Billboard 200. For Scott Travis, the album represented something subtler but equally significant: his first studio album with the classic Halford-Tipton-Downing-Hill lineup that had been his original goal when he joined the band in 1989.\n\nRecorded at a series of California studios and co-produced by Roy Z alongside the band itself, Angel of Retribution sits in a unique place on the Judas Priest timeline. It closes the 15-year arc gap between 1990's blistering \"Painkiller\" and the orchestral concept work of 2008's \"Nostradamus,\" before the band's eventual return to brute-force metal on 2018's \"Firepower.\" Travis's drumming on the record — particularly on the 13-minute closing epic \"Eulogy/Lochness\" — is the connective tissue that holds those eras together.\n\nThe gear story on Angel of Retribution is one of transition. By 2005, Travis had moved off the Tama Artstar II kit and Paiste cymbals that carried him through Painkiller and Jugulator and onto Pearl's flagship Reference Series — a hybrid maple/birch/mahogany shell pack in Piano Black — paired with a new Sabian cymbal deal. Photographs and live footage from the 2004-2005 sessions and supporting tour consistently show him behind the Pearl kit, with a hand-hammered Sabian HH/AA hybrid setup and Vic Firth sticks. Tracks like the lead single \"Revolution,\" the anthemic \"Worth Fighting For,\" and the sprawling \"Eulogy/Lochness\" each showcase a different facet of that new mid-period rig.\n\nThis is the album where Travis stopped trying to repeat Painkiller and started playing for the song. The double-kick fury is still there when the material demands it, but Angel of Retribution leans on groove, dynamics, and patience — exactly what a reunion record needed to be taken seriously rather than dismissed as a victory lap.",
+      "content": "When Rob Halford rejoined Judas Priest in 2003 after a 13-year departure that began in 1992, the metal world braced for what would either be a triumphant homecoming or an awkward nostalgia trip. \"Angel of Retribution,\" released on February 28, 2005 through Epic Records and Sony BMG, turned out to be the former — a deliberate, song-focused reunion record that hit #1 in Germany and #13 on the Billboard 200. For Scott Travis, the album represented something subtler but equally significant: his first studio album with the classic Halford-Tipton-Downing-Hill lineup that had been his original goal when he joined the band in 1989.\n\nRecorded at a series of California studios and co-produced by Roy Z alongside the band itself, Angel of Retribution sits in a unique place on the Judas Priest timeline. It closes the 15-year arc gap between 1990's blistering \"Painkiller\" and the orchestral concept work of 2008's \"Nostradamus,\" before the band's eventual return to brute-force metal on 2018's \"Firepower.\" Travis's drumming on the record — particularly on the 13-minute closing epic \"Eulogy/Lochness\" — is the connective tissue that holds those eras together.\n\nThe gear story on Angel of Retribution is one of partial transition. By 2005, Travis had moved off the Tama Artstar II kit that carried him through Painkiller and Jugulator and onto Pearl's flagship Reference Series — a hybrid maple/birch/mahogany shell pack in Piano Black. Photographs and live footage from the 2004-2005 sessions and supporting tour consistently show him behind the new Pearl kit, still running his Paiste cymbals and Vic Firth sticks exactly as before. Tracks like the lead single \"Revolution,\" the anthemic \"Worth Fighting For,\" and the sprawling \"Eulogy/Lochness\" each showcase a different facet of that new mid-period rig.\n\nThis is the album where Travis stopped trying to repeat Painkiller and started playing for the song. The double-kick fury is still there when the material demands it, but Angel of Retribution leans on groove, dynamics, and patience — exactly what a reunion record needed to be taken seriously rather than dismissed as a victory lap.",
       "keyPoints": [
         "Rob Halford's first studio album back with Judas Priest after a 13-year departure (1992-2005)",
         "Closes the 15-year arc gap on the Priest timeline: Painkiller (1990) → Angel of Retribution (2005) → Nostradamus (2008) → Firepower (2018)",
         "Co-produced by Roy Z with Judas Priest at various California studios",
-        "Scott Travis moved to a Pearl Reference Series kit and Sabian cymbals, leaving behind the Tama/Paiste setup of his Painkiller era",
+        "Scott Travis moved to a Pearl Reference Series kit, leaving behind the Tama Artstar II of his Painkiller era, while his Paiste cymbal setup carried over unchanged",
         "Features the 13-minute 'Eulogy/Lochness' epic — one of the most ambitious Priest tracks of the modern era"
       ]
     },
@@ -1281,54 +1281,54 @@ export const articles = {
       "estimatedValue": "$550-700 (2005)"
     },
     "cymbals": {
-      "title": "Sabian HH/AA: A New Cymbal Deal",
-      "brand": "Sabian",
-      "series": "Sabian HH / AA Hybrid",
+      "title": "Paiste RUDE/2002: Unbroken Through the Pearl Switch",
+      "brand": "Paiste",
+      "series": "Paiste RUDE / 2002 Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian HH 14\" Hi-Hats",
+          "model": "Paiste RUDE 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Hand-hammered for warmth with bite"
+          "notes": "Heavy hi-hats for stability and cutting stick definition"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 16\" Medium Crash",
+          "model": "Paiste 2002 16\" Medium Crash",
           "position": "Left of rack toms",
           "notes": "Quick response for accent hits"
         },
         {
           "type": "Crash",
-          "model": "Sabian HH 18\" Crash",
+          "model": "Paiste RUDE 18\" Crash",
           "position": "Above left toms",
           "notes": "Primary left-side crash"
         },
         {
           "type": "Crash",
-          "model": "Sabian HH 19\" Crash",
+          "model": "Paiste RUDE 19\" Crash",
           "position": "Above right toms",
           "notes": "Darker crash for verses"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 20\" Medium Crash",
+          "model": "Paiste 2002 20\" Medium Crash",
           "position": "Right side",
           "notes": "Larger sustain for big moments"
         },
         {
           "type": "Ride",
-          "model": "Sabian HH 22\" Power Ride",
+          "model": "Paiste RUDE 22\" Power Ride",
           "position": "Far right",
           "notes": "Articulate stick definition with pronounced bell"
         },
         {
           "type": "China",
-          "model": "Sabian AA 18\" China",
+          "model": "Paiste RUDE 18\" China",
           "position": "Above floor tom",
           "notes": "Trashy accents on \"Hellrider\" and \"Lochness\""
         }
       ],
-      "description": "Scott Travis's Pearl deal came with a new cymbal endorsement, and Angel of Retribution captures him early into the Sabian relationship, having moved on from his long-running Paiste setup. The rig combines hand-hammered HH cymbals (built for warmth and complexity) with machine-hammered AA cymbals (brighter, faster response) — a hybrid approach that gives Travis tonal options without sacrificing the projection he needs to sit on top of K.K. Downing and Glenn Tipton's dual-guitar wall.\n\nThe 14\" HH Hi-Hats suit Angel of Retribution's groove-leaning material — particularly the verse of \"Revolution\" and the long instrumental passages of \"Lochness,\" where hi-hat color matters as much as articulation.\n\nThe crash array spans 16\" to 20\", giving Travis a range from quick AA Medium accents to larger sustaining HH hits. The 22\" HH Power Ride is the centerpiece of the right side — a heavy, articulate ride with a pronounced bell that drives the ride patterns on the verses of \"Deal With the Devil\" and the slow build of \"Eulogy.\" The 18\" AA China provides the trashy accent voice for the heavier moments on \"Hellrider\" and the climactic sections of \"Lochness.\"\n\nThis setup represents Travis's first year on his new cymbal platform: a hand-hammered HH/AA hybrid rig with a deliberate balance between cutting attack and musical sustain, replacing the Paiste setup he'd used since joining the band.",
+      "description": "Scott Travis's 2005 Pearl kit switch came with a new drum brand but the same cymbal endorsement — Angel of Retribution runs on the same Paiste rig that carried him through Painkiller and Jugulator. The RUDE line (heavy, aggressive, built for projection) pairs with the 2002 series (slightly brighter, faster response) for a combination that gives Travis tonal options without sacrificing the projection he needs to sit on top of K.K. Downing and Glenn Tipton's dual-guitar wall.\n\nThe 14\" RUDE Hi-Hats suit Angel of Retribution's groove-leaning material — particularly the verse of \"Revolution\" and the long instrumental passages of \"Lochness,\" where hi-hat color matters as much as articulation.\n\nThe crash array spans 16\" to 20\", giving Travis a range from quick 2002 Medium accents to larger sustaining RUDE hits. The 22\" RUDE Power Ride is the centerpiece of the right side — a heavy, articulate ride with a pronounced bell that drives the ride patterns on the verses of \"Deal With the Devil\" and the slow build of \"Eulogy.\" The 18\" RUDE China provides the trashy accent voice for the heavier moments on \"Hellrider\" and the climactic sections of \"Lochness.\"\n\nThis is the same Paiste cymbal platform Travis has run since joining the band in 1989 — the one piece of his rig the 2005 Pearl switch didn't touch.",
       "estimatedValue": "$2,800-3,500 total (2005)"
     },
     "hardware": {
@@ -1368,7 +1368,7 @@ export const articles = {
     },
     "technique": {
       "title": "Playing for the Song: Travis at the Halford Reunion",
-      "content": "What separates Travis's performance on Angel of Retribution from his Painkiller benchmark isn't a loss of technique — it's the choice of when to deploy it. With Rob Halford back in the band after a 13-year absence and the metal world watching to see whether the reunion would justify itself, Travis made a clear decision to play for the songs first and the highlight reel second.\n\n**Restraint as a Statement:**\n\"Worth Fighting For\" is the clearest example. Travis sits in a mid-tempo half-time groove for most of the track, leaning on tom fills only when the arrangement opens up. There's none of the constant double-kick activity that defined the Painkiller title track. It's a song-serving performance, and it's exactly what a reunion album of this scale needed to be taken seriously.\n\n**Double-Kick When It Counts:**\nThe fury is still there — it's just deployed surgically. \"Judas Rising,\" the opening track, kicks off with a sustained double-kick passage that immediately reassures listeners that this is the same Travis. \"Hellrider,\" deeper in the record, is the closest thing on the album to vintage Painkiller — galloping double-kick, snare-led verses, and a fill vocabulary that nods directly to his 1990 self.\n\n**The 'Eulogy/Lochness' Long Form:**\nThe 13-minute closer is Travis's most ambitious modern performance up to that point. \"Eulogy\" opens as a slow, brooding ballad — almost no kit at all for the first two minutes — before \"Lochness\" detonates into a doom-paced epic. Travis paces the build perfectly: a single floor-tom pulse at the transition, then china accents, then full kit, then the climactic double-kick section. It's drumming as long-form storytelling, and it points directly at the orchestral ambitions of Nostradamus three years later.\n\n**The Bridge to Firepower:**\nListened to in sequence — Painkiller, Angel of Retribution, Nostradamus, Firepower — Angel of Retribution is the album where Travis stops being only the speed-metal drummer of Painkiller and becomes the long-arc Priest drummer who can serve any kind of song the band brings him. The new Pearl Reference Series kit, the Sabian HH/AA setup, and the Evans-headed tuning all reflect that maturity.",
+      "content": "What separates Travis's performance on Angel of Retribution from his Painkiller benchmark isn't a loss of technique — it's the choice of when to deploy it. With Rob Halford back in the band after a 13-year absence and the metal world watching to see whether the reunion would justify itself, Travis made a clear decision to play for the songs first and the highlight reel second.\n\n**Restraint as a Statement:**\n\"Worth Fighting For\" is the clearest example. Travis sits in a mid-tempo half-time groove for most of the track, leaning on tom fills only when the arrangement opens up. There's none of the constant double-kick activity that defined the Painkiller title track. It's a song-serving performance, and it's exactly what a reunion album of this scale needed to be taken seriously.\n\n**Double-Kick When It Counts:**\nThe fury is still there — it's just deployed surgically. \"Judas Rising,\" the opening track, kicks off with a sustained double-kick passage that immediately reassures listeners that this is the same Travis. \"Hellrider,\" deeper in the record, is the closest thing on the album to vintage Painkiller — galloping double-kick, snare-led verses, and a fill vocabulary that nods directly to his 1990 self.\n\n**The 'Eulogy/Lochness' Long Form:**\nThe 13-minute closer is Travis's most ambitious modern performance up to that point. \"Eulogy\" opens as a slow, brooding ballad — almost no kit at all for the first two minutes — before \"Lochness\" detonates into a doom-paced epic. Travis paces the build perfectly: a single floor-tom pulse at the transition, then china accents, then full kit, then the climactic double-kick section. It's drumming as long-form storytelling, and it points directly at the orchestral ambitions of Nostradamus three years later.\n\n**The Bridge to Firepower:**\nListened to in sequence — Painkiller, Angel of Retribution, Nostradamus, Firepower — Angel of Retribution is the album where Travis stops being only the speed-metal drummer of Painkiller and becomes the long-arc Priest drummer who can serve any kind of song the band brings him. The new Pearl Reference Series kit and the Evans-headed tuning reflect that maturity, even as his Paiste cymbal voice stayed exactly where it had always been.",
       "keyTechniques": [
         "Mid-tempo half-time grooves anchor \"Worth Fighting For\" and \"Eulogy\"",
         "Surgical double-kick deployment on \"Judas Rising\" and \"Hellrider\"",
@@ -1393,15 +1393,15 @@ export const articles = {
       },
       {
         "question": "Did Scott Travis switch drum brands by 2005?",
-        "answer": "Yes — Travis switched from Tama drums and Paiste cymbals to Pearl's Reference Series and a new Sabian HH/AA hybrid cymbal setup around the time of the Halford reunion. The move gave him a warmer, more versatile hybrid shell pack better suited to Angel of Retribution's dynamic range, and it's the platform documented on the album alongside a Pearl Reference Brass snare, Pearl Demon Drive pedals, and Vic Firth sticks. Travis stayed on this Pearl/Sabian setup through Nostradamus (2008) and Redeemer of Souls (2014) before switching again for Firepower (2018)."
+        "answer": "Yes and no — Travis switched from Tama drums to Pearl's Reference Series around the time of the Halford reunion, but his cymbals stayed Paiste throughout. The move gave him a warmer, more versatile hybrid shell pack better suited to Angel of Retribution's dynamic range, and it's the platform documented on the album alongside a Pearl Reference Brass snare, Pearl Demon Drive pedals, his unchanged Paiste RUDE/2002 cymbals, and Vic Firth sticks. Travis stayed on this Pearl kit through Nostradamus (2008) and Redeemer of Souls (2014) before switching drum brands again for Firepower (2018) — his Paiste cymbals never moved."
       },
       {
         "question": "What cymbals did Scott Travis use on Angel of Retribution?",
-        "answer": "Travis had just moved to Sabian, and his 2005 setup combined the hand-hammered HH line with the machine-hammered AA line. The rig included 14 inch HH Hi-Hats, HH and AA crashes from 16 to 20 inches, a 22 inch HH Power Ride, and an 18 inch AA China for trashy accents on tracks like Hellrider and the Lochness section of the closing epic."
+        "answer": "Travis stayed on the same Paiste cymbals he'd played since joining the band, combining the heavier RUDE line with the brighter 2002 line. The rig included 14 inch RUDE Hi-Hats, RUDE and 2002 crashes from 16 to 20 inches, a 22 inch RUDE Power Ride, and an 18 inch RUDE China for trashy accents on tracks like Hellrider and the Lochness section of the closing epic."
       },
       {
         "question": "How does Angel of Retribution fit between Painkiller and Firepower in Scott Travis's career?",
-        "answer": "Angel of Retribution closes a 15-year arc gap on the Judas Priest timeline: Painkiller in 1990, Angel of Retribution in 2005, Nostradamus in 2008, and Firepower in 2018. For Travis specifically, it's the album where he stops being purely the speed-metal phenom of Painkiller and becomes the long-arc Priest drummer — and where he switched from his Painkiller-era Tama/Paiste setup to a new Pearl Reference Series kit and Sabian cymbals. That Pearl/Sabian platform, and a more restrained song-serving approach, both point toward the mature drumming he'd bring to the band's later work. It's also Rob Halford's first studio album back with Judas Priest after a 13-year departure, making it as much a comeback record for the band as a maturation point for Travis's playing."
+        "answer": "Angel of Retribution closes a 15-year arc gap on the Judas Priest timeline: Painkiller in 1990, Angel of Retribution in 2005, Nostradamus in 2008, and Firepower in 2018. For Travis specifically, it's the album where he stops being purely the speed-metal phenom of Painkiller and becomes the long-arc Priest drummer — and where he switched from his Painkiller-era Tama Artstar II to a new Pearl Reference Series kit, while his Paiste cymbals carried over unchanged. That new Pearl platform, and a more restrained song-serving approach, both point toward the mature drumming he'd bring to the band's later work. It's also Rob Halford's first studio album back with Judas Priest after a 13-year departure, making it as much a comeback record for the band as a maturation point for Travis's playing."
       },
       {
         "question": "What is significant about the 'Eulogy/Lochness' track for drum performance?",
@@ -1410,7 +1410,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Closing the Arc",
-      "content": "Angel of Retribution isn't the loudest, fastest, or most extreme Judas Priest album — and that's exactly what makes it important. It's the record where Rob Halford came home after 13 years, where the classic lineup proved it could still write together, and where Scott Travis made the quiet but decisive shift from being the drummer who reinvented Priest on Painkiller to being the long-arc drummer who could serve any version of the band that came next.\n\nThe new Pearl Reference Series kit, the Pearl Reference Brass snare, the Sabian HH/AA cymbal setup, the Pearl Demon Drive pedals, and the Vic Firth sticks all add up to a rebuilt rig doing a new job: a mid-2000s reunion record that needed to feel modern without abandoning the band's DNA. Tracks like \"Revolution,\" \"Worth Fighting For,\" and the sprawling \"Eulogy/Lochness\" each show a different side of that toolkit, and together they bridge the 15-year arc gap between Painkiller (1990) and Nostradamus (2008) before the eventual Firepower-era gear change in 2018.\n\nFor drummers studying Travis's career, Angel of Retribution is the missing middle chapter — the record that explains how the Painkiller phenom became the Firepower veteran, via a thirteen-year detour through Pearl and Sabian, without losing either identity along the way."
+      "content": "Angel of Retribution isn't the loudest, fastest, or most extreme Judas Priest album — and that's exactly what makes it important. It's the record where Rob Halford came home after 13 years, where the classic lineup proved it could still write together, and where Scott Travis made the quiet but decisive shift from being the drummer who reinvented Priest on Painkiller to being the long-arc drummer who could serve any version of the band that came next.\n\nThe new Pearl Reference Series kit, the Pearl Reference Brass snare, the Pearl Demon Drive pedals, the unchanged Paiste RUDE/2002 cymbal setup, and the Vic Firth sticks all add up to a rebuilt rig doing a new job: a mid-2000s reunion record that needed to feel modern without abandoning the band's DNA. Tracks like \"Revolution,\" \"Worth Fighting For,\" and the sprawling \"Eulogy/Lochness\" each show a different side of that toolkit, and together they bridge the 15-year arc gap between Painkiller (1990) and Nostradamus (2008) before the eventual Firepower-era gear change in 2018.\n\nFor drummers studying Travis's career, Angel of Retribution is the missing middle chapter — the record that explains how the Painkiller phenom became the Firepower veteran, via a thirteen-year detour through Pearl, with Paiste the one constant running underneath it all."
     }
   },
   "nostradamus-drum-setup": {
@@ -1444,7 +1444,7 @@ export const articles = {
     "ogImage": "/images/albums/nostradamus-drums.webp",
     "intro": {
       "title": "The Concept Album That Demanded a Drummer's Full Range",
-      "content": "Released on June 13, 2008 through Epic Records and Sony BMG, Judas Priest's seventeenth studio album *Nostradamus* stands as one of the most ambitious projects in the band's fifty-year history. A double concept album spanning over two hours of music across 23 tracks, *Nostradamus* tells the story of the 16th-century French prophet Michel de Nostredame through a combination of heavy metal, orchestral passages, synthesizers, and spoken-word interludes. It charted at #7 in the UK and #15 in the US — a credible chart performance for an album this unconventional.\n\nFor Scott Travis — who had anchored the band through the reunion record *Angel of Retribution* (2005) just three years prior — *Nostradamus* represented an entirely different kind of challenge. Where *Painkiller* (1990) demanded speed and *Angel of Retribution* demanded restraint, *Nostradamus* demanded range. The album moves from full-throttle metal to orchestral balladry to atmospheric interludes within single discs, and Travis's drumming had to service all of it.\n\nProduced once again by Roy Z alongside the band — the same production team behind *Angel of Retribution* — *Nostradamus* pushed Travis's dynamic palette further than any previous Priest record. Songs like \"Pestilence and Plague,\" \"Persecution,\" and \"Nostradamus\" itself feature full-power Travis double-kick fury. \"Alone,\" \"Lament,\" and \"Lost Love\" are quiet, orchestral pieces where the drums are sparse or absent altogether. The album's 23-track arc required Travis to read arrangements with a level of sophistication the band had never previously asked of him.\n\nThe gear story on *Nostradamus* is one of continuity within the Pearl era. By 2008 Travis was still on the Pearl Reference Series kit and Sabian HH/AA hybrid cymbals he'd moved to for *Angel of Retribution* three years earlier, running his Vic Firth sticks. The setup proved flexible enough to handle the album's extraordinary dynamic range.",
+      "content": "Released on June 13, 2008 through Epic Records and Sony BMG, Judas Priest's seventeenth studio album *Nostradamus* stands as one of the most ambitious projects in the band's fifty-year history. A double concept album spanning over two hours of music across 23 tracks, *Nostradamus* tells the story of the 16th-century French prophet Michel de Nostredame through a combination of heavy metal, orchestral passages, synthesizers, and spoken-word interludes. It charted at #7 in the UK and #15 in the US — a credible chart performance for an album this unconventional.\n\nFor Scott Travis — who had anchored the band through the reunion record *Angel of Retribution* (2005) just three years prior — *Nostradamus* represented an entirely different kind of challenge. Where *Painkiller* (1990) demanded speed and *Angel of Retribution* demanded restraint, *Nostradamus* demanded range. The album moves from full-throttle metal to orchestral balladry to atmospheric interludes within single discs, and Travis's drumming had to service all of it.\n\nProduced once again by Roy Z alongside the band — the same production team behind *Angel of Retribution* — *Nostradamus* pushed Travis's dynamic palette further than any previous Priest record. Songs like \"Pestilence and Plague,\" \"Persecution,\" and \"Nostradamus\" itself feature full-power Travis double-kick fury. \"Alone,\" \"Lament,\" and \"Lost Love\" are quiet, orchestral pieces where the drums are sparse or absent altogether. The album's 23-track arc required Travis to read arrangements with a level of sophistication the band had never previously asked of him.\n\nThe gear story on *Nostradamus* is one of continuity within the Pearl era. By 2008 Travis was still on the Pearl Reference Series kit he'd moved to for *Angel of Retribution* three years earlier, running his unchanged Paiste RUDE/2002 cymbals and Vic Firth sticks. The setup proved flexible enough to handle the album's extraordinary dynamic range.",
       "keyPoints": [
         "Double concept album spanning 23 tracks and over two hours — Judas Priest's most ambitious studio project",
         "UK #7, US #15 — credible chart performance for an unconventional concept double album",
@@ -1494,54 +1494,54 @@ export const articles = {
       "estimatedValue": "$550-700 (2008)"
     },
     "cymbals": {
-      "title": "Sabian HH/AA: Dynamic Range for a Concept Double Album",
-      "brand": "Sabian",
-      "series": "Sabian HH / AA Hybrid",
+      "title": "Paiste RUDE/2002: Dynamic Range for a Concept Double Album",
+      "brand": "Paiste",
+      "series": "Paiste RUDE / 2002 Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian HH 14\" Hi-Hats",
+          "model": "Paiste RUDE 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Warmth with bite — suits both delicate passages and full-power sections"
+          "notes": "Heavy and controllable — suits both delicate passages and full-power sections"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 16\" Medium Crash",
+          "model": "Paiste 2002 16\" Medium Crash",
           "position": "Left of rack toms",
           "notes": "Quick accent crash for sharp punctuation"
         },
         {
           "type": "Crash",
-          "model": "Sabian HH 18\" Crash",
+          "model": "Paiste RUDE 18\" Crash",
           "position": "Above left toms",
           "notes": "Primary left-side crash"
         },
         {
           "type": "Crash",
-          "model": "Sabian HH 19\" Crash",
+          "model": "Paiste RUDE 19\" Crash",
           "position": "Above right toms",
           "notes": "Darker crash for orchestral-adjacent sections"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 20\" Medium Crash",
+          "model": "Paiste 2002 20\" Medium Crash",
           "position": "Right side",
           "notes": "Large sustain for dramatic moments"
         },
         {
           "type": "Ride",
-          "model": "Sabian HH 22\" Power Ride",
+          "model": "Paiste RUDE 22\" Power Ride",
           "position": "Far right",
           "notes": "Dry, articulate ride for mid-tempo and groove-based passages"
         },
         {
           "type": "China",
-          "model": "Sabian AA 18\" China",
+          "model": "Paiste RUDE 18\" China",
           "position": "Above floor tom",
           "notes": "Trashy accents for the album's heaviest peaks"
         }
       ],
-      "description": "Scott Travis's Sabian HH/AA hybrid setup — the same configuration documented on *Angel of Retribution* (2005) — proved particularly well matched to *Nostradamus*'s unusual dynamic requirements. The hand-hammered HH line (built for warmth and complexity) and the machine-hammered AA line (brighter, faster response) give Travis two distinct tonal palettes without requiring a complete cymbal change between the album's contrasting sections.\n\nThe 14\" HH Hi-Hats are warm and controllable — they wash softly during quieter passages and speak decisively during the harder material. This is exactly what a concept album about a medieval prophet demands: cymbals that can be musical rather than merely aggressive.\n\nThe range of crashes — 16\" through 20\", mixing AA brightness with the HH 19\" Crash — gives Travis the dynamic vocabulary *Nostradamus* requires. The album's structure moves frequently between climactic peaks and reflective valleys, and a single crash size would flatten those transitions. The 22\" HH Power Ride provides the articulate, non-washy platform for the album's groove-based driving passages.\n\nFor a double concept album that required Travis to play with unprecedented restraint in some sections and full-force aggression in others, this Sabian hybrid setup was the right toolkit.",
+      "description": "Scott Travis's Paiste RUDE/2002 setup — the same configuration documented on *Angel of Retribution* (2005), and the same cymbal endorsement he's held since joining the band in 1989 — proved particularly well matched to *Nostradamus*'s unusual dynamic requirements. The heavier RUDE line (built for projection and cut) and the brighter 2002 line (faster response) give Travis two distinct tonal palettes without requiring a complete cymbal change between the album's contrasting sections.\n\nThe 14\" RUDE Hi-Hats are warm and controllable — they wash softly during quieter passages and speak decisively during the harder material. This is exactly what a concept album about a medieval prophet demands: cymbals that can be musical rather than merely aggressive.\n\nThe range of crashes — 16\" through 20\", mixing 2002 brightness with the RUDE 19\" Crash — gives Travis the dynamic vocabulary *Nostradamus* requires. The album's structure moves frequently between climactic peaks and reflective valleys, and a single crash size would flatten those transitions. The 22\" RUDE Power Ride provides the articulate, non-washy platform for the album's groove-based driving passages.\n\nFor a double concept album that required Travis to play with unprecedented restraint in some sections and full-force aggression in others, this same Paiste setup was the right toolkit — no new cymbal deal needed.",
       "estimatedValue": "$2,800-3,500 total (2008)"
     },
     "hardware": {
@@ -1601,7 +1601,7 @@ export const articles = {
           "Snare-led verses cut against string arrangements",
           "One of the album's clearest connections to classic Priest power"
         ],
-        "gearNotes": "The Pearl Reference Series kit handles the dynamic between orchestral strings and full metal sections. The Sabian HH 19\" Crash suits the darker harmonic environment."
+        "gearNotes": "The Pearl Reference Series kit handles the dynamic between orchestral strings and full metal sections. The Paiste RUDE 19\" Crash suits the darker harmonic environment."
       },
       {
         "track": "Pestilence and Plague",
@@ -1613,7 +1613,7 @@ export const articles = {
           "Crash accents punctuate the chorus peaks",
           "Clear connection to Painkiller-era Travis velocity"
         ],
-        "gearNotes": "Sabian AA 18\" and 20\" crashes deliver fast, decisive punctuation across the verse-chorus boundary. The Pearl Demon Drive pedal sustains the gallop cleanly."
+        "gearNotes": "Paiste RUDE 18\" and 2002 20\" crashes deliver fast, decisive punctuation across the verse-chorus boundary. The Pearl Demon Drive pedal sustains the gallop cleanly."
       },
       {
         "track": "Persecution",
@@ -1622,10 +1622,10 @@ export const articles = {
         "highlights": [
           "Driving mid-tempo groove — Travis in Angel of Retribution mode",
           "Tom fills mark the pre-chorus builds",
-          "Sabian AA China accent on the heaviest moments",
+          "Paiste RUDE China accent on the heaviest moments",
           "Restraint giving way to power across the arrangement"
         ],
-        "gearNotes": "The Sabian HH 22\" Power Ride drives the verse. The Sabian AA 18\" China provides the peak-moment accent without overwhelming the orchestral layers."
+        "gearNotes": "The Paiste RUDE 22\" Power Ride drives the verse. The Paiste RUDE 18\" China provides the peak-moment accent without overwhelming the orchestral layers."
       },
       {
         "track": "Death",
@@ -1637,7 +1637,7 @@ export const articles = {
           "Floor tom pulse marks the structural transitions",
           "Demonstrates Travis's ability to serve a mood rather than dominate"
         ],
-        "gearNotes": "16\" floor tom pulse at the transitions. Sabian HH Hi-Hats in a controlled, soft-wash voice during the verses."
+        "gearNotes": "16\" floor tom pulse at the transitions. Paiste RUDE Hi-Hats in a controlled, soft-wash voice during the verses."
       }
     ],
     "faq": [
@@ -1655,12 +1655,12 @@ export const articles = {
       },
       {
         "question": "What cymbals did Scott Travis use on Nostradamus?",
-        "answer": "Scott Travis used Sabian HH and AA series cymbals on Nostradamus — the same setup he had adopted on Angel of Retribution (2005) after switching from his earlier Paiste endorsement. The configuration included 14 inch Sabian HH Hi-Hats, AA and HH crashes from 16 to 20 inches for dynamic range, a 22 inch HH Power Ride for articulate groove passages, and an 18 inch AA China for trashy accents during the heaviest moments. That HH/AA hybrid combination gave Travis two distinct tonal characters without a full equipment change — important for an album that shifts between darkness and aggression across 23 tracks."
+        "answer": "Scott Travis used Paiste RUDE and 2002 series cymbals on Nostradamus — the same setup he had used on Angel of Retribution (2005) and the same cymbal endorsement he's held since joining the band in 1989. The configuration included 14 inch Paiste RUDE Hi-Hats, RUDE and 2002 crashes from 16 to 20 inches for dynamic range, a 22 inch RUDE Power Ride for articulate groove passages, and an 18 inch RUDE China for trashy accents during the heaviest moments. That RUDE/2002 combination gave Travis two distinct tonal characters without a full equipment change — important for an album that shifts between darkness and aggression across 23 tracks."
       }
     ],
     "conclusion": {
       "title": "Architecture Over Attack",
-      "content": "*Nostradamus* is the most unusual album in Judas Priest's catalogue — and Scott Travis's most unusual performance within the band's history. The speed is still present when the songs demand it, but *Nostradamus* asked Travis for something more sophisticated: the ability to think architecturally across a 23-track double concept album, to know when a floor-tom pulse serves the narrative better than a double-kick blast, to let orchestral arrangements breathe without the drums competing for space.\n\nThe Pearl Reference Series kit — the platform Travis had moved onto for Angel of Retribution three years earlier — was the right tool for this assignment. Its versatility across dynamic ranges made it capable of serving both the album's heaviest moments and its quietest without requiring a setup change. The Sabian HH/AA cymbal setup provided the tonal options that a 23-track arc demands.\n\nFor drummers studying Travis's career, *Nostradamus* is the evidence that there is more to his playing than the legendary Painkiller title track intro. It is the album that proves he could serve a story, not just a beat. The restraint documented here would inform the mature, song-focused drumming he'd bring to *Redeemer of Souls* (2014) and *Firepower* (2018) in the years that followed.\n\nThe concept album that asked heavy metal's most in-demand speed drummer to slow down — and proved he could."
+      "content": "*Nostradamus* is the most unusual album in Judas Priest's catalogue — and Scott Travis's most unusual performance within the band's history. The speed is still present when the songs demand it, but *Nostradamus* asked Travis for something more sophisticated: the ability to think architecturally across a 23-track double concept album, to know when a floor-tom pulse serves the narrative better than a double-kick blast, to let orchestral arrangements breathe without the drums competing for space.\n\nThe Pearl Reference Series kit — the platform Travis had moved onto for Angel of Retribution three years earlier — was the right tool for this assignment. Its versatility across dynamic ranges made it capable of serving both the album's heaviest moments and its quietest without requiring a setup change. The Paiste RUDE/2002 cymbal setup — unchanged since long before the Pearl switch — provided the tonal options that a 23-track arc demands.\n\nFor drummers studying Travis's career, *Nostradamus* is the evidence that there is more to his playing than the legendary Painkiller title track intro. It is the album that proves he could serve a story, not just a beat. The restraint documented here would inform the mature, song-focused drumming he'd bring to *Redeemer of Souls* (2014) and *Firepower* (2018) in the years that followed.\n\nThe concept album that asked heavy metal's most in-demand speed drummer to slow down — and proved he could."
     },
     "relatedAlbums": [
       "angel-of-retribution-drum-setup",
@@ -1757,54 +1757,54 @@ export const articles = {
       "estimatedValue": "$550-700 (2014)"
     },
     "cymbals": {
-      "title": "Sabian HH/AA: The Final Redeemer-Era Configuration",
-      "brand": "Sabian",
-      "series": "Sabian HH / AA Hybrid",
+      "title": "Paiste RUDE/2002: Still the Same Rig Nine Years On",
+      "brand": "Paiste",
+      "series": "Paiste RUDE / 2002 Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian HH 14\" Hi-Hats",
+          "model": "Paiste RUDE 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Bright and cutting — suits Sneap's dry, cutting production"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 16\" Medium Crash",
+          "model": "Paiste 2002 16\" Medium Crash",
           "position": "Left of rack toms",
           "notes": "Quick accent crash"
         },
         {
           "type": "Crash",
-          "model": "Sabian HH 18\" Crash",
+          "model": "Paiste RUDE 18\" Crash",
           "position": "Above left toms",
           "notes": "Primary crash — fast response, controlled decay"
         },
         {
           "type": "Crash",
-          "model": "Sabian HH 19\" Crash",
+          "model": "Paiste RUDE 19\" Crash",
           "position": "Above right toms",
           "notes": "Secondary crash for larger moments"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 20\" Medium Crash",
+          "model": "Paiste 2002 20\" Medium Crash",
           "position": "Right side",
           "notes": "Larger sustain crash for section endings"
         },
         {
           "type": "Ride",
-          "model": "Sabian HHX 22\" Power Ride",
+          "model": "Paiste RUDE 22\" Power Ride",
           "position": "Far right",
-          "notes": "Dry, defined ride with strong bell — the brighter HHX model Travis moved toward by this point in the era"
+          "notes": "Dry, defined ride with strong bell — unchanged from the Angel of Retribution and Nostradamus sessions"
         },
         {
           "type": "China",
-          "model": "Sabian AA 18\" China",
+          "model": "Paiste RUDE 18\" China",
           "position": "Above floor tom",
           "notes": "Trashy, controlled accent cymbal"
         }
       ],
-      "description": "By 2014, Scott Travis's Sabian setup had evolved from the HH/AA hybrid documented on *Angel of Retribution* and *Nostradamus* toward a fuller HHX configuration, the last stage of his cymbal voicing before switching to Paiste again for *Firepower* (2018). The AA crashes are engineered for fast attack and controlled decay, which suits Andy Sneap's tight, dry production philosophy well. Where a washy, sustaining crash would cloud *Redeemer of Souls*'s dense guitar arrangements, they speak immediately and clear out of the mix quickly. Travis uses them as rhythmic punctuation rather than ambient sound — a practical match for Sneap's engineering approach.\n\nThe brighter Sabian HHX Power Ride reflects that late-era transition: dry, defined, with a pronounced bell that cuts through the mix during ride passages. The 18\" AA China provides the trashy accent voice in the aggressive moments.",
+      "description": "By 2014, Scott Travis's cymbal setup was exactly what it had been on *Angel of Retribution* and *Nostradamus* — the same Paiste RUDE/2002 rig he's played since joining Judas Priest in 1989, through the Tama years and the entire Pearl era alike. The 2002 crashes are engineered for fast attack and controlled decay, which suits Andy Sneap's tight, dry production philosophy well. Where a washy, sustaining crash would cloud *Redeemer of Souls*'s dense guitar arrangements, they speak immediately and clear out of the mix quickly. Travis uses them as rhythmic punctuation rather than ambient sound — a practical match for Sneap's engineering approach.\n\nThe RUDE Power Ride is dry and defined, with a pronounced bell that cuts through the mix during ride passages. The 18\" RUDE China provides the trashy accent voice in the aggressive moments.",
       "estimatedValue": "$2,000-2,700 total (2014)"
     },
     "hardware": {
@@ -1873,10 +1873,10 @@ export const articles = {
         "highlights": [
           "Title track — direct statement of intent for the Faulkner era",
           "Strong backbeat emphasis establishes the album's no-nonsense tone",
-          "Sabian HH crashes punctuate the chorus peaks",
+          "Paiste RUDE crashes punctuate the chorus peaks",
           "Travis locks with Faulkner's riff on the verse pattern"
         ],
-        "gearNotes": "The Sabian HH 18\" Crash provides tight, fast punctuation on chorus accents. Consistent with Sneap's tight-decay production philosophy."
+        "gearNotes": "The Paiste RUDE 18\" Crash provides tight, fast punctuation on chorus accents. Consistent with Sneap's tight-decay production philosophy."
       },
       {
         "track": "Dragonfire",
@@ -1888,7 +1888,7 @@ export const articles = {
           "Snare-driven chorus with crash punctuation",
           "Demonstrates that 25 years in, the speed is undiminished"
         ],
-        "gearNotes": "The Pearl Demon Drive pedal's direct response is critical for the sustained high-tempo double-kick. Sabian HH 14\" Hi-Hats drive the verse with controlled shimmer."
+        "gearNotes": "The Pearl Demon Drive pedal's direct response is critical for the sustained high-tempo double-kick. Paiste RUDE 14\" Hi-Hats drive the verse with controlled shimmer."
       },
       {
         "track": "Battle Cry",
@@ -1896,11 +1896,11 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Mid-tempo anthem — Tom-led verse fills mark the pre-chorus builds",
-          "Sabian HHX 22\" Power Ride drives the verses",
+          "Paiste RUDE 22\" Power Ride drives the verses",
           "Floor-tom accents at section transitions",
           "Travis's groove vocabulary at its most song-focused"
         ],
-        "gearNotes": "The Sabian HHX 22\" Power Ride delivers the articulate verse pulse. 14\" and 16\" floor toms provide the section-transition weight the arrangement requires."
+        "gearNotes": "The Paiste RUDE 22\" Power Ride delivers the articulate verse pulse. 14\" and 16\" floor toms provide the section-transition weight the arrangement requires."
       }
     ],
     "faq": [
@@ -1918,7 +1918,7 @@ export const articles = {
       },
       {
         "question": "How does Scott Travis's Redeemer of Souls setup compare to Firepower?",
-        "answer": "Redeemer of Souls (2014) and Firepower (2018) are both Andy Sneap-produced Judas Priest albums, but Travis's gear changed between them: Redeemer of Souls was recorded on the Pearl Reference Series kit, the Pearl Reference Brass 14\"x6.5\" snare, the Pearl Demon Drive double pedal, and the Sabian HH/AA-to-HHX cymbal setup that had carried his sound since Angel of Retribution (2005), while Firepower marked a switch to an entirely different kit and cymbal brand. Redeemer of Souls is in many ways the proof-of-concept for Andy Sneap's production approach, with Sneap refining his engineering on the last album of Travis's Pearl era before the gear changed again."
+        "answer": "Redeemer of Souls (2014) and Firepower (2018) are both Andy Sneap-produced Judas Priest albums, but Travis's drum kit changed between them: Redeemer of Souls was recorded on the Pearl Reference Series kit, the Pearl Reference Brass 14\"x6.5\" snare, and the Pearl Demon Drive double pedal, while Firepower marked a switch to an entirely different drum brand (ddrum). His Paiste RUDE/2002 cymbal setup, however, carried across both albums unchanged — it's the one piece of gear that never switched. Redeemer of Souls is in many ways the proof-of-concept for Andy Sneap's production approach, with Sneap refining his engineering on the last album of Travis's Pearl era before the drum kit changed again."
       }
     ],
     "conclusion": {
@@ -2361,7 +2361,7 @@ export const articles = {
           "notes": "Aggressive accents on heavy riffs"
         }
       ],
-      "description": "Scott Travis's cymbal setup is built for arena-level projection. His combination of Paiste RUDE and 2002 cymbals delivers the brightness and cut that heavy metal demands while maintaining musical quality.\n\nThe 14\" RUDE Hi-Hats are the foundation. Heavier than standard hi-hats, they provide stability during aggressive playing and clear definition at all tempos. Travis's hi-hat work — often overlooked in favor of his double bass — is remarkably precise, providing the \"chick\" and \"splash\" sounds that drive Priest's rhythms.\n\nMultiple crashes allow dynamic variety. The RUDE series crashes are designed for heavy hitting — they project immediately, sustain appropriately, then get out of the way. The 18\", 19\", and 20\" sizing gives Travis options for different musical moments.\n\nThe 22\" RUDE Power Ride is essential for songs with extended ride work. Heavier than typical rides, it maintains stick definition even during aggressive playing. The bell is particularly prominent, cutting through for accents.\n\nThe RUDE China cymbal provides the trashy explosions that punctuate Priest's heaviest moments. Used sparingly but effectively, it adds aggression that standard crashes can't match.\n\nTravis played this Paiste RUDE/2002 combination from Painkiller through the mid-2000s, moved to Sabian HH/AA Hybrid cymbals during the Pearl-kit era (2005-2018), then returned to Paiste RUDE/2002 alongside the ddrum Dominion Series starting with 2018's Firepower — his current setup.",
+      "description": "Scott Travis's cymbal setup is built for arena-level projection. His combination of Paiste RUDE and 2002 cymbals delivers the brightness and cut that heavy metal demands while maintaining musical quality.\n\nThe 14\" RUDE Hi-Hats are the foundation. Heavier than standard hi-hats, they provide stability during aggressive playing and clear definition at all tempos. Travis's hi-hat work — often overlooked in favor of his double bass — is remarkably precise, providing the \"chick\" and \"splash\" sounds that drive Priest's rhythms.\n\nMultiple crashes allow dynamic variety. The RUDE series crashes are designed for heavy hitting — they project immediately, sustain appropriately, then get out of the way. The 18\", 19\", and 20\" sizing gives Travis options for different musical moments.\n\nThe 22\" RUDE Power Ride is essential for songs with extended ride work. Heavier than typical rides, it maintains stick definition even during aggressive playing. The bell is particularly prominent, cutting through for accents.\n\nThe RUDE China cymbal provides the trashy explosions that punctuate Priest's heaviest moments. Used sparingly but effectively, it adds aggression that standard crashes can't match.\n\nTravis has played this Paiste cymbal setup — evolving from Signature/2002 on Painkiller to the RUDE/2002 combination heard here — continuously since joining Judas Priest in 1989, straight through the Tama era, the Pearl-kit era (2005-2018), and into his current ddrum Dominion Series kit starting with 2018's Firepower. Drum brands have changed twice; the cymbals never have.",
       "notes": [
         "RUDE/2002 combination — projection and musicality",
         "Heavy hi-hats for stability at speed",
@@ -2412,7 +2412,7 @@ export const articles = {
     },
     "gearEvolution": {
       "title": "Judas Priest Era: Three Distinct Gear Chapters",
-      "content": "Scott Travis's gear across 35+ years with Judas Priest isn't one unbroken setup — it's three separate drum-brand eras, each with its own matching cymbal and pedal changes.\n\n**Tama Era (1990-2005):**\nTravis debuted with Priest on a Tama Artstar II birch shell pack and steel Artstar II snare for \"Painkiller\" (1990), carrying that rig through \"Jugulator\" (1997) and \"Demolition\" (2001). Cymbals were Paiste Signature/2002, and his bass drums ran on Tama Iron Cobra HP900 pedals.\n\n**Pearl Era (2005-2018):**\nFor the Halford reunion album \"Angel of Retribution\" (2005), Travis switched to Pearl's Reference Series hybrid shell pack and a Pearl Reference Brass snare — his first major gear change of the Priest tenure. He moved to Sabian HH/AA Hybrid cymbals and Pearl Demon Drive pedals for this stretch, which carried through \"Nostradamus\" (2008) and \"Redeemer of Souls\" (2014).\n\n**ddrum Era (2018-Present):**\nTravis switched again for \"Firepower\" (2018), moving to the ddrum Dominion Series shell pack and ddrum Scott Travis Signature snare he still plays today, pairing it with a return to Paiste — this time the RUDE/2002 combination — and a DW 9000 Series Double Pedal. That setup carried through \"Invincible Shield\" (2024) and remains his current rig.\n\n**Consistency Within Each Era:**\nWithin each of these three chapters, Travis has stuck with his gear rather than chasing trends — his Paiste cymbal relationship alone dates back to his pre-Priest Racer X days. But the full picture across his Priest tenure is two deliberate brand switches, not a single frozen rig.",
+      "content": "Scott Travis's gear across 35+ years with Judas Priest isn't one unbroken setup — it's three separate drum-brand eras, each with its own matching snare and pedal changes. One thing runs underneath all three unchanged: his Paiste cymbal endorsement, in place since May 1987, two years before he even joined Priest.\n\n**Tama Era (1990-2005):**\nTravis debuted with Priest on a Tama Artstar II birch shell pack and steel Artstar II snare for \"Painkiller\" (1990), carrying that rig through \"Jugulator\" (1997) and \"Demolition\" (2001). Cymbals were Paiste Signature/2002, and his bass drums ran on Tama Iron Cobra HP900 pedals.\n\n**Pearl Era (2005-2018):**\nFor the Halford reunion album \"Angel of Retribution\" (2005), Travis switched to Pearl's Reference Series hybrid shell pack and a Pearl Reference Brass snare — his first major gear change of the Priest tenure. He moved to Pearl Demon Drive pedals for this stretch, which carried through \"Nostradamus\" (2008) and \"Redeemer of Souls\" (2014), while his cymbals stayed Paiste throughout, by then voiced in the RUDE/2002 combination.\n\n**ddrum Era (2018-Present):**\nTravis switched again for \"Firepower\" (2018), moving to the ddrum Dominion Series shell pack and ddrum Scott Travis Signature snare he still plays today, pairing it with a DW 9000 Series Double Pedal. His Paiste RUDE/2002 cymbals carried over unchanged from the Pearl era. That setup carried through \"Invincible Shield\" (2024) and remains his current rig.\n\n**Consistency Within Each Era:**\nWithin each of these three chapters, Travis has stuck with his gear rather than chasing trends. But the cymbals are the real constant: his Paiste relationship dates back to his pre-Priest Racer X days and has never switched brands, even as the drum kit and snare changed twice across his Priest tenure.",
       "thenVsNow": [
         {
           "category": "Kit",

@@ -20901,13 +20901,13 @@ export const DRUMMER_EVOLUTION = {
           sticks: {
             item: 'Pro-Mark / Vater 5B',
             details: 'Hickory',
-            notes: 'Unchanged through the drum brand switch.',
+            notes: 'Unchanged since his 1996 Slayer debut — no brand switch ever occurred.',
             change: null,
           },
           heads: {
             item: 'Remo Powerstroke 3 / Emperor Coated',
             details: 'Powerstroke 3 on kicks, Emperor Coated on toms',
-            notes: 'Consistent Remo setup maintained through the Tama switch.',
+            notes: 'Consistent Remo setup maintained throughout his Ludwig Classic Maple era.',
             change: null,
           },
         },

@@ -19016,7 +19016,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What bands has Hannes Grossmann played in?',
-        a: 'Hannes Grossmann drummed for Necrophagist (2004–2010), co-founded Obscura (2007–2014, rejoined 2020–present) and Blotted Science (2007–2011), and co-founded the progressive death metal supergroup Alkaloid in 2014, which he continues alongside Obscura.',
+        a: 'Hannes Grossmann drummed for Necrophagist (2004–2010), co-founded Obscura (2007–2014, rejoined 2020–present) and Blotted Science (2007–2011), co-founded the progressive death metal supergroup Alkaloid in 2014, which he continues alongside Obscura, and recorded Upon Desolate Sands (2018) with Hate Eternal (2015–2018).',
       },
       {
         q: 'Did Hannes Grossmann play on Necrophagist\'s Epitaph?',

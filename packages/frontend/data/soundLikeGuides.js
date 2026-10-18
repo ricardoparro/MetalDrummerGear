@@ -8633,7 +8633,7 @@ This guide covers Travis's technique across both the extreme Painkiller era and 
 
 What separates Inferno from other extreme metal drummers is not just his ability to sustain blast beats at 240+ BPM — it's the musical precision and clarity he maintains at those tempos. Every note in an Inferno blast beat is defined and intentional. There is no blurring, no rushing, no accommodation. On albums like "O Father O Satan O Sun!" you hear blast beats that move like clockwork machinery — inhuman in speed, but never in feel.
 
-This guide breaks down exactly how Inferno achieves his signature sound: his Pearl Masters Premium kit, the powerful, cutting character of his Paiste RUDE Series cymbals, his Monolit Czarcie Kopyto pedals, and the technique system that drives one of metal's most demanding drum parts.`,
+This guide breaks down exactly how Inferno achieves his signature sound: his Pearl Reference Series kit, the powerful, cutting character of his Paiste RUDE Series cymbals, his Monolit Czarcie Kopyto pedals, and the technique system that drives one of metal's most demanding drum parts.`,
       keyPoints: [
         "Inferno sustains blast beats at 240+ BPM with clockwork precision",
         "Paiste RUDE Series cymbals give his sound a uniquely loud, cutting character",
@@ -8685,28 +8685,28 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
       ]
     },
     gear: {
-      title: "Inferno's Pearl Masters / Paiste RUDE Setup",
+      title: "Inferno's Pearl Reference / Paiste RUDE Setup",
       drumKit: {
         brand: 'Pearl',
-        model: 'Pearl Masters Premium',
-        shells: 'Maple',
+        model: 'Pearl Reference Series',
+        shells: 'Maple/Birch/Mahogany Hybrid',
         finish: 'Various dark configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Masters Premium Maple Snare',
+          snare: '14" x 5" Pearl Reference Steel Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Inferno plays Pearl Masters Premium maple shells — a professional configuration valued for its projection and attack. The maple construction provides warm fundamental tones that contrast with the aggressive playing style, giving Behemoth's drum sound depth beyond raw aggression. The large floor toms (16\" and 18\") are essential to the low-end power of his mid-tempo grooves.",
-        affiliateNote: "Pearl Masters Maple Complete or Reference series are the closest alternatives at comparable professional level."
+        description: "Inferno plays Pearl Reference Series hybrid shells — a professional configuration valued for its projection and attack. The maple/birch/mahogany construction balances warmth with cutting definition, giving Behemoth's drum sound depth beyond raw aggression. The large floor toms (16\" and 18\") are essential to the low-end power of his mid-tempo grooves.",
+        affiliateNote: "Pearl Decade Maple or Masters Maple Complete are the closest alternatives at comparable professional level."
       },
       snare: {
         brand: 'Pearl',
-        model: 'Pearl Masters Premium 14" x 6.5" Maple',
-        size: '14" x 6.5"',
-        shell: 'Maple',
-        description: "Inferno's snare needs to cut through 240 BPM blast beats and heavy bass guitar. The 6.5\" depth provides the volume and body to project at extreme tempos without disappearing into the mix. Maple's warmer crack sits differently in the mix than a steel snare — darker and fatter rather than bright and cutting.",
-        alternative: "Pearl Free-Floating Maple or DW Maple for comparable dark-toned snare character"
+        model: 'Pearl Reference 14" x 5" Steel',
+        size: '14" x 5"',
+        shell: 'Steel',
+        description: "Inferno's snare needs to cut through 240 BPM blast beats and heavy bass guitar. The steel shell provides a bright, cutting crack that projects at extreme tempos without disappearing into the mix — penetrating Behemoth's dense wall of down-tuned guitars rather than sitting warm and buried beneath it.",
+        alternative: "Pearl Sensitone Steel or DW Steel for comparable bright, cutting snare character"
       },
       cymbals: {
         brand: 'Paiste',
@@ -8824,18 +8824,18 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
       pro: {
         price: "$7,000+",
         label: "Professional Setup",
-        kit: "Pearl Masters Premium ($3,500+) — Inferno's touring configuration",
+        kit: "Pearl Reference Series ($3,500+) — Inferno's touring configuration",
         cymbals: "Full Paiste RUDE selection ($2,000+)",
         pedals: "Monolit Czarcie Kopyto Double ($600)",
         snare: "Pearl Free-Floating 14\" x 6.5\" ($400)",
         heads: "Full Remo Powerstroke / Emperor set ($200)",
-        notes: "Pearl Masters Premium with full Paiste RUDE selection recreates Inferno's complete tonal palette."
+        notes: "Pearl Reference Series with full Paiste RUDE selection recreates Inferno's complete tonal palette."
       }
     },
     faq: [
       {
         question: "What drum kit does Inferno use?",
-        answer: "Inferno plays Pearl Masters Premium drums with a maple shell configuration. His setup typically features double 22\" bass drums, two rack toms (10\" and 12\"), and two floor toms (16\" and 18\"). The Pearl Masters Premium maple shells provide the projection and attack needed for Behemoth's dense, layered sound at extreme tempos."
+        answer: "Inferno plays Pearl Reference Series drums with a maple/birch/mahogany hybrid shell configuration. His setup typically features double 22\" bass drums, two rack toms (10\" and 12\"), and two floor toms (16\" and 18\"). The Pearl Reference Series hybrid shells provide the projection and attack needed for Behemoth's dense, layered sound at extreme tempos."
       },
       {
         question: "What cymbals does Inferno use?",

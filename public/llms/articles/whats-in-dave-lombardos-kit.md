@@ -1,6 +1,6 @@
 # What's In Dave Lombardo's Kit in 2026: The Godfather of Double Bass
 
-> Discover the exact drums, cymbals, and gear behind Dave Lombardo's legendary sound in 2026. Complete breakdown of his Tama setup, Paiste RUDE cymbals, and the evolution of the godfather of thrash metal drumming from Slayer to Pantera.
+> Discover the exact drums, cymbals, and gear behind Dave Lombardo's legendary sound in 2026. Complete breakdown of his Tama setup, Paiste RUDE cymbals, and the evolution of the godfather of thrash metal drumming from Slayer to Dead Cross.
 
 **Type:** Kit Breakdown
 **Drummer(s):** [Dave Lombardo](/llms/drummers/dave-lombardo.md)
@@ -9,11 +9,11 @@
 
 ## Overview
 
-When thrash metal needed someone to define its rhythmic vocabulary, Dave Lombardo answered the call. From Slayer's blistering "Reign in Blood" to his current work with the reunited Pantera, Lombardo has spent four decades at the forefront of extreme drumming — and he's still going strong in 2026.
+When thrash metal needed someone to define its rhythmic vocabulary, Dave Lombardo answered the call. From Slayer's blistering "Reign in Blood" to his current work with Dead Cross and Mr. Bungle, Lombardo has spent four decades at the forefront of extreme drumming — and he's still going strong in 2026.
 
 Born February 16, 1965, in Havana, Cuba, Dave immigrated to the United States as a child, bringing with him a rhythmic sensibility that would forever distinguish his playing. That Cuban heritage — the clave, the Latin grooves, the sense of swing beneath the chaos — is what separates Lombardo from countless imitators. When he plays double bass at 200+ BPM, it still grooves.
 
-As a founding member of Slayer alongside Kerry King, Jeff Hanneman, and Tom Araya, Lombardo helped define thrash metal in the 1980s. His work on landmark albums like "Reign in Blood," "South of Heaven," and "Seasons in the Abyss" established the template for extreme metal drumming. But unlike some pioneers who rest on their legacy, Dave has constantly evolved — from Fantômas's avant-garde experiments to Mr. Bungle's thrash revival to his current role honoring Vinnie Paul's legacy with Pantera.
+As a founding member of Slayer alongside Kerry King, Jeff Hanneman, and Tom Araya, Lombardo helped define thrash metal in the 1980s. His work on landmark albums like "Reign in Blood," "South of Heaven," and "Seasons in the Abyss" established the template for extreme metal drumming. But unlike some pioneers who rest on their legacy, Dave has constantly evolved — from Fantômas's avant-garde experiments to Mr. Bungle's thrash revival to his current work fronting Dead Cross with Mike Patton.
 
 At nearly 61 years old in 2026, Dave Lombardo isn't just surviving — he's thriving. This article explores the gear he's using right now, how it's evolved over four decades, and why he remains the standard against which all thrash drummers are measured.
 
@@ -30,23 +30,21 @@ At nearly 61 years old in 2026, Dave Lombardo isn't just surviving — he's thri
 
 Dave Lombardo's current kit centers on Tama's Starclassic Walnut/Birch series — a departure from the pure birch Artstar II he used on classic Slayer records, but maintaining the punchy attack and focused low-end that defined his sound.
 
-The walnut/birch combination provides warmth and body (walnut) with projection and attack (birch). It's a mature sound that serves Dave's current projects — Pantera's groove-heavy material demands low-end authority that pure birch might not deliver.
+The walnut/birch combination provides warmth and body (walnut) with projection and attack (birch). It's a mature sound that serves Dave's current projects — Dead Cross's hardcore-punk intensity demands low-end authority that pure birch might not deliver.
 
-Dave continues to use double bass drums rather than a double pedal. At 24" x 16", his kick drums are substantial, providing the foundation for Pantera's massive riffs. Each drum is independently miked and can be processed separately, giving FOH engineers maximum control.
+Dave continues to use double bass drums rather than a double pedal. At 24" x 16", his kick drums are substantial, providing the foundation for Dead Cross's and Mr. Bungle's relentless material. Each drum is independently miked and can be processed separately, giving FOH engineers maximum control.
 
 The tom configuration is relatively modest by modern metal standards: two rack toms (10" and 12") and two floor toms (14" and 16"). This compact setup reflects Dave's playing philosophy — it's not about having the most drums; it's about maximizing what you have. His fills move fluidly around these four toms with melodic intent.
 
-For the Pantera touring rig, the kit must hold up to relentless touring while honoring Vinnie Paul's spirit. The Starclassic's professional build quality ensures consistency night after night, while the sound profile pays homage to Vinnie's own preference for powerful, groove-oriented tones.
+For his Dead Cross touring rig, the kit must hold up to relentless touring night after night. The Starclassic's professional build quality ensures consistency, while the sound profile suits the project's hardcore-punk-meets-thrash attack.
 
 ### The Signature Crack
 
-For his current work, Dave has been using Tama's S.L.P. G-Maple snare — a thick-shelled maple drum that delivers the crack and projection needed for Pantera's heavy material.
+For his current work, Dave has been using Tama's S.L.P. G-Maple snare — a thick-shelled maple drum that delivers the crack and projection needed for Dead Cross's and Mr. Bungle's heavy material.
 
 The S.L.P. (Sound Lab Project) series represents Tama's exploration of different shell materials and construction methods. The G-Maple features thick maple staves that produce a powerful, focused sound with excellent attack.
 
 At 14" x 6.5", it's a standard size that works across genres. Dave tunes it medium to medium-high, allowing the drum to cut through the guitars while maintaining body. The maple shell provides warmth that steel lacks, but with more attack than pure oak or mahogany.
-
-For Pantera specifically, the snare must honor Vinnie Paul's legendary sound while remaining distinctly Dave's. The S.L.P. G-Maple strikes this balance — it's not trying to replicate Vinnie's ddrum steel snare, but it delivers a similarly powerful backbeat with Dave's own touch.
 
 Depending on the project, Dave rotates between several snares. His earlier work with Slayer often featured steel snares for maximum cut, while Fantômas and Mr. Bungle have called for different textures. The S.L.P. G-Maple represents his current "main" choice for heavy touring.
 
@@ -66,7 +64,7 @@ The dual China setup (18" and 20") gives Dave options for different intensities.
 
 Four decades after co-founding Slayer, Dave Lombardo remains the standard for thrash metal drumming. Not because he was the first to play fast double bass (he essentially was), but because he combined that speed with feel, musicality, and constant evolution.
 
-The gear Dave uses today reflects his journey. The Starclassic Walnut/Birch is warmer and more versatile than the Artstar II of his Slayer youth — appropriate for a drummer who now spans Pantera grooves, Mr. Bungle chaos, and Dead Cross punk. The Paiste cymbals have evolved but maintain the aggressive, cutting sound he pioneered. The Iron Cobra pedals are refined versions of the prototypes he helped develop decades ago.
+The gear Dave uses today reflects his journey. The Starclassic Walnut/Birch is warmer and more versatile than the Artstar II of his Slayer youth — appropriate for a drummer who now spans Mr. Bungle's chaos and Dead Cross's hardcore punk. The Paiste cymbals have evolved but maintain the aggressive, cutting sound he pioneered. The Iron Cobra pedals are refined versions of the prototypes he helped develop decades ago.
 
 What hasn't changed is the approach. Dave Lombardo plays with intention, groove, and a Cuban-rooted swing that no amount of technique alone can replicate. He's proven that extreme metal drumming isn't just about speed — it's about making speed feel good.
 
@@ -74,9 +72,9 @@ For drummers studying Dave's work, the lessons extend beyond rudiments:
 - **Groove first**: Speed without feel is just noise
 - **Heritage matters**: Your musical background shapes your sound — embrace it
 - **Evolution continues**: The best drummers never stop growing
-- **Honor the music**: Whether playing Slayer or Pantera, serve the song
+- **Honor the music**: Whether playing Slayer, Dead Cross, or Mr. Bungle, serve the song
 
-At nearly 61, Dave Lombardo isn't resting on his legacy. He's touring with Pantera, recording with various projects, and continuing to influence new generations of drummers. The godfather of thrash metal drumming earned that title decades ago — but he's still earning it every night on stage.
+At nearly 61, Dave Lombardo isn't resting on his legacy. He's recording and touring with Dead Cross and Mr. Bungle, and continuing to influence new generations of drummers. The godfather of thrash metal drumming earned that title decades ago — but he's still earning it every night on stage.
 
 Long live the double bass. Long live Dave Lombardo. 🤘
 
@@ -84,7 +82,7 @@ Long live the double bass. Long live Dave Lombardo. 🤘
 
 - Co-founder and original drummer of Slayer (1981-1992, 2001-2013)
 - Cuban-American heritage brings unique rhythmic sensibility
-- Currently touring with reunited Pantera, honoring Vinnie Paul
+- Currently plays with Dead Cross and Mr. Bungle
 - Tama endorser with Paiste RUDE cymbals
 - Pioneered double bass drumming in thrash metal
 - Still performing at the highest level at nearly 61
@@ -115,16 +113,14 @@ A: Dave Lombardo's Tama Starclassic Walnut and Birch double bass setup currently
 - [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
 - [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
 - [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
-- [Vulgar Display of Power Drum Setup: Vinnie Paul's Gear Breakdown](https://metalforge.io/articles/vulgar-display-of-power-drum-setup)
 
 ## Related Drummers
 
 - [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
-- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul)
 
 **Source:** https://metalforge.io/articles/whats-in-dave-lombardos-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-18 · Source: [MetalForge.io](https://metalforge.io)*

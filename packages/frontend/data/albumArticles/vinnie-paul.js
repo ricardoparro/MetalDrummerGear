@@ -238,7 +238,7 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth 2B",
+          "then": "Vic Firth American Classic 5B",
           "now": "(Vinnie passed in 2018)"
         },
         {

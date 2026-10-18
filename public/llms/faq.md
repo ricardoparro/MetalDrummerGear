@@ -2788,7 +2788,7 @@ A: Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal i
 
 **Q: When did Sean Reinert die?**
 
-A: Sean Reinert passed away on January 24, 2020, one day after his 49th birthday.
+A: Sean Reinert passed away on January 24, 2020, at age 48, about four months before what would have been his 49th birthday.
 
 **Q: What drum set did Sean Reinert use?**
 

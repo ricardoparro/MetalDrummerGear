@@ -11,13 +11,13 @@
 
 Sean Reinert didn't just play death metal — he redefined what was possible within it. When he joined Chuck Schuldiner's Death for "Human" (1991), he brought something no one had heard in extreme metal before: jazz vocabulary, dynamic range, and a musical sophistication that transcended genre boundaries.
 
-Born January 23, 1971, in Los Angeles, Sean was classically trained before discovering metal. That foundation — the jazz independence, the compositional awareness, the touch sensitivity — gave him tools that pure metalheads simply didn't possess. When he applied those tools to the fastest, heaviest music on Earth, the result was revolutionary.
+Born May 27, 1971, in Los Angeles, Sean was classically trained before discovering metal. That foundation — the jazz independence, the compositional awareness, the touch sensitivity — gave him tools that pure metalheads simply didn't possess. When he applied those tools to the fastest, heaviest music on Earth, the result was revolutionary.
 
 His work on Death's "Human" announced a new era. Songs like "Lack of Comprehension" and "See Through Dreams" featured ghost notes, brush techniques, and polyrhythmic interplay that would have been at home in a jazz trio. But Sean played them over Chuck Schuldiner's progressive death metal compositions at extreme tempos. Nothing had sounded like this before.
 
 With Cynic, Sean went even further. "Focus" (1993) remains one of the most forward-thinking albums in metal history — a fusion of death metal, jazz, and electronic textures that still sounds futuristic today. Sean's drumming was the rhythmic heart of that vision, providing both the aggressive foundation and the jazz-inflected sophistication that made Cynic unique.
 
-Sean Reinert passed away on January 24, 2020, just one day after his 49th birthday. His influence lives on in every progressive metal drummer who understands that technique serves music, not ego.
+Sean Reinert passed away on January 24, 2020, at age 48. His influence lives on in every progressive metal drummer who understands that technique serves music, not ego.
 
 This article celebrates his gear and approach — a tribute to the man who proved death metal could swing.
 

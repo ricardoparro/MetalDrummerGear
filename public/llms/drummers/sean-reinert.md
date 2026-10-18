@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/sean-reinert"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-18"
 ---
 
 # Sean Reinert — Drum Kit & Gear Setup
@@ -33,15 +33,15 @@ Sean Reinert's final setup was a DW Collector's Series maple shell kit paired wi
 
 That rig succeeded the Tama Artstar II birch shell kit Reinert played on Death's Human (1991) — the album, recorded at Morrisound with producer Scott Burns when Reinert was just 20, that introduced jazz vocabulary and polyrhythmic complexity to death metal drumming. That earlier Sean Reinert drum set centered on a single 22x16" bass drum with a DW 5000 double pedal rather than the twin-kick setups favored by his death metal peers, paired with a 14x5.5" Tama birch snare tuned medium-high for the ghost-note sensitivity his playing required.
 
-Zildjian's A/K Series cymbals defined that earlier sound: 14" A Quick Beat Hi-Hats, 16" and 18" A Crashes, a 16" China, a 10" A Splash, and — central to his revolutionary approach — a 20" K Custom Dry Ride that he actually rode with sustained jazz-fusion patterns, unprecedented in death metal at the time. Vic Firth American Classic 5A sticks, a medium-weight model atypical for metal drummers of the era, gave Reinert the fast rebound and dynamic control his jazz-informed vocabulary demanded, a setup he carried into Cynic's Focus (1993), the landmark album he co-founded with Paul Masvidal, and continued using through his final recordings. Sean Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a drumming legacy that proved death metal could swing.
+Zildjian's A/K Series cymbals defined that earlier sound: 14" A Quick Beat Hi-Hats, 16" and 18" A Crashes, a 16" China, a 10" A Splash, and — central to his revolutionary approach — a 20" K Custom Dry Ride that he actually rode with sustained jazz-fusion patterns, unprecedented in death metal at the time. Vic Firth American Classic 5A sticks, a medium-weight model atypical for metal drummers of the era, gave Reinert the fast rebound and dynamic control his jazz-informed vocabulary demanded, a setup he carried into Cynic's Focus (1993), the landmark album he co-founded with Paul Masvidal, and continued using through his final recordings. Sean Reinert passed away on January 24, 2020, at age 48, leaving behind a drumming legacy that proved death metal could swing.
 
 ## Biography
 
 Sean Reinert (May 27, 1971 – January 24, 2020) was an American drummer who co-founded progressive death metal band Cynic in 1987 and recorded Death's genre-defining Human (1991) before returning full-time to Cynic for Focus (1993). His jazz-informed, polyrhythmic style is widely credited with pioneering progressive death metal drumming.
 
-Sean Reinert (January 23, 1971 – January 24, 2020) was an American drummer widely regarded as one of the most innovative and influential musicians in extreme metal history. He is best known for his drumming on Death's landmark 1991 album Human, recorded at Morrisound Recording with producer Scott Burns when Reinert was just 20 years old, and on Cynic's Focus (1993), the band he co-founded with guitarist/vocalist Paul Masvidal in Miami, Florida.
+Sean Reinert (May 27, 1971 – January 24, 2020) was an American drummer widely regarded as one of the most innovative and influential musicians in extreme metal history. He is best known for his drumming on Death's landmark 1991 album Human, recorded at Morrisound Recording with producer Scott Burns when Reinert was just 20 years old, and on Cynic's Focus (1993), the band he co-founded with guitarist/vocalist Paul Masvidal in Miami, Florida.
 
-Reinert brought a jazz-trained musical vocabulary into death metal at a moment when the genre was defined almost entirely by blast-beat velocity. His ghost notes, dynamic control, and polymetric phrasing on Human are widely credited as the birth of progressive death metal — proof that extreme metal drumming could be both punishing and genuinely musical. Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a body of work that remains a touchstone for technical and progressive death metal drummers.
+Reinert brought a jazz-trained musical vocabulary into death metal at a moment when the genre was defined almost entirely by blast-beat velocity. His ghost notes, dynamic control, and polymetric phrasing on Human are widely credited as the birth of progressive death metal — proof that extreme metal drumming could be both punishing and genuinely musical. Reinert passed away on January 24, 2020, at age 48, leaving behind a body of work that remains a touchstone for technical and progressive death metal drummers.
 
 ## Career Highlights
 
@@ -52,7 +52,7 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
 - **1999** — Contributed to Gordian Knot's Emergent alongside Sean Malone
 - **2006** — Reunited with Cynic after a 12-year hiatus
 - **2008** — Released Traced in Air with Cynic on a DW Collector's Series maple kit
-- **2020** — Passed away on January 24, 2020, one day after his 49th birthday
+- **2020** — Passed away on January 24, 2020, at age 48
 
 ## Style & Influences
 
@@ -129,7 +129,7 @@ A: Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal i
 
 **Q: When did Sean Reinert die?**
 
-A: Sean Reinert passed away on January 24, 2020, one day after his 49th birthday.
+A: Sean Reinert passed away on January 24, 2020, at age 48, about four months before what would have been his 49th birthday.
 
 **Q: What drum set did Sean Reinert use?**
 
@@ -222,4 +222,4 @@ Dated brand-endorsement timeline: [Sean Reinert's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-18 · Source: [MetalForge.io](https://metalforge.io)*

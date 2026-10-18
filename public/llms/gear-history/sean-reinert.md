@@ -51,7 +51,7 @@
 - **1993:** Same core carried into Cynic's Focus
 - **1999:** Contributed to Gordian Knot's Emergent during Cynic's hiatus
 - **2008:** Upgraded to DW Collector's Series maple and Zildjian K Custom for Cynic's reunion album, Traced in Air
-- **2020:** Sean Reinert passed away on January 24, 2020, one day after his 49th birthday
+- **2020:** Sean Reinert passed away on January 24, 2020, at age 48
 
 ---
 

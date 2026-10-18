@@ -8324,9 +8324,9 @@ Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Int
     sections: {
       overview: {
         title: 'Overview',
-        content: `Sean Reinert (January 23, 1971 – January 24, 2020) was an American drummer widely regarded as one of the most innovative and influential musicians in extreme metal history. He is best known for his drumming on Death's landmark 1991 album Human, recorded at Morrisound Recording with producer Scott Burns when Reinert was just 20 years old, and on Cynic's Focus (1993), the band he co-founded with guitarist/vocalist Paul Masvidal in Miami, Florida.
+        content: `Sean Reinert (May 27, 1971 – January 24, 2020) was an American drummer widely regarded as one of the most innovative and influential musicians in extreme metal history. He is best known for his drumming on Death's landmark 1991 album Human, recorded at Morrisound Recording with producer Scott Burns when Reinert was just 20 years old, and on Cynic's Focus (1993), the band he co-founded with guitarist/vocalist Paul Masvidal in Miami, Florida.
 
-Reinert brought a jazz-trained musical vocabulary into death metal at a moment when the genre was defined almost entirely by blast-beat velocity. His ghost notes, dynamic control, and polymetric phrasing on Human are widely credited as the birth of progressive death metal — proof that extreme metal drumming could be both punishing and genuinely musical. Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a body of work that remains a touchstone for technical and progressive death metal drummers.`
+Reinert brought a jazz-trained musical vocabulary into death metal at a moment when the genre was defined almost entirely by blast-beat velocity. His ghost notes, dynamic control, and polymetric phrasing on Human are widely credited as the birth of progressive death metal — proof that extreme metal drumming could be both punishing and genuinely musical. Reinert passed away on January 24, 2020, at age 48, leaving behind a body of work that remains a touchstone for technical and progressive death metal drummers.`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -8338,7 +8338,7 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
           { year: '1999', event: 'Contributed to Gordian Knot\'s Emergent alongside Sean Malone' },
           { year: '2006', event: 'Reunited with Cynic after a 12-year hiatus' },
           { year: '2008', event: 'Released Traced in Air with Cynic on a DW Collector\'s Series maple kit' },
-          { year: '2020', event: 'Passed away on January 24, 2020, one day after his 49th birthday' }
+          { year: '2020', event: 'Passed away on January 24, 2020, at age 48' }
         ]
       },
       styleAndInfluences: {
@@ -8407,7 +8407,7 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
           { q: 'What drum kit did Sean Reinert use on Human?', a: 'Sean Reinert played a Tama Artstar II birch shell kit with a 14"x5.5" birch snare, Zildjian A Series cymbals, and a DW 5000 double pedal on Death\'s Human.' },
           { q: 'Did Sean Reinert play jazz before death metal?', a: 'Yes. Reinert had classical and jazz training that directly shaped his ghost notes, dynamic control, and polyrhythmic phrasing, which he brought into Death and Cynic.' },
           { q: 'When did Sean Reinert co-found Cynic?', a: 'Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1990.' },
-          { q: 'When did Sean Reinert die?', a: 'Sean Reinert passed away on January 24, 2020, one day after his 49th birthday.' },
+          { q: 'When did Sean Reinert die?', a: 'Sean Reinert passed away on January 24, 2020, at age 48, about four months before what would have been his 49th birthday.' },
           { q: 'What drum set did Sean Reinert use?', a: 'Sean Reinert\'s Human/Focus-era drum set was a Tama Artstar II birch shell kit — a single 22"x16" kick and various toms — built around a Tama Artstar II 14"x5.5" birch snare. He upgraded to a DW Collector\'s maple shell pack and Zildjian K Custom cymbals for Cynic\'s 2008 reunion album, Traced in Air.' },
           { q: 'What cymbals did Sean Reinert use?', a: 'Sean Reinert used a Zildjian A/K Series cymbal blend on both Death\'s Human (1991) and Cynic\'s Focus (1993), then narrowed to Zildjian K Custom cymbals for Cynic\'s 2008 reunion album, Traced in Air.' },
           { q: 'What snare drum did Sean Reinert use?', a: 'Sean Reinert played a Tama Artstar II 14"x5.5" birch snare, tuned higher and more open for Cynic\'s Focus to suit the album\'s jazz-fusion textures.' },

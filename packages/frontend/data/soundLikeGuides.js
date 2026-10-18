@@ -6519,7 +6519,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
     readingTime: '11 min',
     intro: {
       title: "The Jazz-Death Architect of Human and Focus",
-      content: `Sean Reinert (April 4, 1971 – January 7, 2020) was the drummer on two of the most influential albums in technical death metal history: Death's Human (1991) and Cynic's Focus (1993). On both records, he brought a level of jazz-informed sophistication to extreme metal drumming that had rarely, if ever, been heard before — not just technical skill, but a genuine musical sensibility that made complexity serve the music rather than overwhelm it.
+      content: `Sean Reinert (May 27, 1971 – January 24, 2020) was the drummer on two of the most influential albums in technical death metal history: Death's Human (1991) and Cynic's Focus (1993). On both records, he brought a level of jazz-informed sophistication to extreme metal drumming that had rarely, if ever, been heard before — not just technical skill, but a genuine musical sensibility that made complexity serve the music rather than overwhelm it.
 
 Human (1991) redefined what death metal drumming could be. While the genre was producing blast-beat specialists, Reinert played with dynamic contrast, jazz-influenced ride patterns, and polymetric phrasing that made the album feel like it existed in a separate dimension from contemporaries. His interplay with Chuck Schuldiner's guitar lines and Steve DiGiorgio's fretless bass created a rhythmic sophistication unprecedented in the genre. Every note on Human is placed with intent — there is no filler drumming, no pattern-cycling, only drumming that serves each moment of each song.
 

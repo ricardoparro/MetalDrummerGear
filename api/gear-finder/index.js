@@ -133,7 +133,7 @@ const drummers = [
       drums: 'Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic',
       snare: 'OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply',
       cymbals: 'Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom)',
-      hardware: 'Gibraltar G Class Bass Drum Pedals, Gibraltar Custom Racks',
+      hardware: 'Gibraltar Professional Series, Gibraltar Custom Racks',
       sticks: 'Zildjian Artist Series',
       heads: 'Remo Emperor Coated'
     }

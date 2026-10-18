@@ -13154,3 +13154,44 @@ Confirmed 6 genuine, independently-verified, non-duplicate findings across 4 dru
 2. Roster sweep: the 11-drummer remaining pool is now down to 6 unchecked (danny-carey, dave-lombardo, george-kollias, inferno, nick-menza, vinnie-paul) after this run's 5-drummer deep-check (jason-bittner, martin-lopez, sean-reinert, paul-bostaph, gavin-harrison all now checked). Next run: rank-check this final 6, then the sweep method will need a fresh source (re-rank the full 72 by current issue-count, or pivot to a different file family).
 3. Content-gap: both rows (jaska raatikainen, john otto snare) re-confirmed against standing rulings — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+---
+
+## 2026-10-18 (run ~afternoon UTC, Sunday) — lowest-issue-count roster sweep CLOSED OUT: final 6 drummers checked, 8 filed (#9276-9283)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/llms/*.md`: unchanged, no new-page work (freeze in effect).
+- Bank check: 10 open `seo-proposal` at run start, effectively 0 untriaged (6 fresh #9266-9271 already promoted to `ai-fix` by the 06:17 UTC cheap-pulse; remainder held #7981 + 3 standing umbrellas) → filed 8 to refill, ending at 17 (9 of those already promoted/in-flight, not truly untriaged).
+
+### Metrics readout
+- GSC 7d (07:03 UTC refresh, unchanged from 01:17): 14,340 impr / 214 clicks / 1.49% CTR / pos 8.2. Content-gap rows (`jaska raatikainen` 89/1.12%, `john otto snare` 68/1.47%) both already ruled per the 06:17 cheap-pulse entry — no re-action.
+- Not Monday (Sunday) — drum-chair watch skipped, next due Monday 2026-10-19, group 3.
+
+### Method
+Closed out the lowest-issue-count roster sweep's final tier (danny-carey, dave-lombardo, george-kollias, inferno, nick-menza, vinnie-paul — the last 6 of the ~72-drummer roster per the 10-17/10-18 runs' tracking). Delegated per-drummer fact-verification research to 6 parallel subagents, each cross-checking gear/bio/tenure facts across extendedBios.js/drummerComparisons.js/drummerEvolution.js/gearPriceHistory.js/soundLikeGuides.js/api files/public/llms mirrors against ground truth (endorsementNews.js/bands.js/birthdays.js) for one drummer each.
+
+Independently re-verified every candidate myself (direct file reads at cited lines, cross-checked ground truth, re-ran dupe searches) before filing rather than trusting subagent reports verbatim — this surfaced 15 raw candidates across the 6 drummers; consolidated to 8 highest-confidence, non-overlapping atomic issues by merging same-root-cause findings for the same drummer (e.g. Vinnie Paul's 5-era stick-model drift is one issue, not five). One claim (George Kollias's "Guinness World Record, 1,007 BPM blast beat") needed external verification since no ground-truth file in the repo supports or refutes a world-record claim either way — WebSearched it and found no evidence such a record exists, confirming fabrication.
+
+Biggest find: Dave Lombardo's `extendedBios.js` entry fabricates him as the 2022 Pantera reunion touring drummer, self-contradicting the *same file's own* Charlie Benante entry which correctly names Benante as that person — plus the error is already mirrored into 2 LLM-citation files including an entire kit-breakdown article built around the false premise. Second-biggest: `public/llms/gear-history/vinnie-paul.md` is wholesale-fabricated — every drum/cymbal brand across all 5 eras disagrees with the 3 independently-agreeing ground-truth files, including an invented DW/"Damage Plan" endorsement that never existed (his real final/longest deal, ddrum 2008-2018, isn't mentioned at all).
+
+### Proposals filed this run
+1. #9276 — Dave Lombardo extendedBios.js + 2 llms mirrors fabricate him as 2022 Pantera reunion touring drummer (self-contradicts the same file's own Charlie Benante entry) — verified Charlie Benante
+2. #9277 — public/llms/gear-history/vinnie-paul.md entirely fabricates his gear history across all 5 eras, invented DW/"Damage Plan" endorsement
+3. #9278 — Vinnie Paul stick model fabricated as "Vic Firth 2B" across all 5 drummerEvolution.js eras + 3 albumArticles.js entries — verified American Classic 5B
+4. #9279 — George Kollias drummerEvolution.js current-era block + its llms mirror fabricate Pearl Reference Pure/Paiste/Tama Iron Cobra — verified Pearl Masterworks/Zildjian A Custom/Pearl Demon XR
+5. #9280 — George Kollias fabricated Guinness World Record claim (1,007 BPM blast beat) in soundLikeGuides.js — externally unverifiable, no such record found
+6. #9281 — Inferno sticks fabricated as "Vic Firth 2B" in extendedBios.js + kit misattributed as "Pearl Masters Premium" across soundLikeGuides.js/llms guide (a #6401 scoping gap) — verified Extreme 5B sticks + Pearl Reference Series kit
+7. #9282 — Nick Menza public/llms mirrors (evolution.md + gear-history.md) never regenerated after #9000/#7277/#8492/#7509 source fixes — stale era-timing + fabricated Premier/Sonor kits
+8. #9283 — Danny Carey public/llms/evolution/danny-carey.md still fabricates "Evans" heads for 3 eras after drummerEvolution.js was corrected to Remo by #8952
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9276-9283 (this run, 8 fresh)
+
+### Next run
+1. Watch #9276-9283 pick up via Roadie; #9276 and #9277 are the highest-impact (both touch LLM-citation-facing files directly, #9276 also fixes a same-file self-contradiction).
+2. Roster sweep: the full ~72-drummer lowest-issue-count method has now exhausted its roster (all drummers checked across the 10-13 through 10-18 runs). Next run needs a fresh source — either re-rank by current issue-count now that this round's fixes have shipped, or pivot to a different file family (e.g. re-run the #9157-style mechanical scan against a different field than drums-brand, such as cymbals/sticks/heads specifically, or sweep `drummerComparisons.js`'s FAQ entries for stale tenure years the way #9245/#9247 surfaced).
+3. Content-gap: both rows (jaska raatikainen, john otto snare) re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-19, group 3.

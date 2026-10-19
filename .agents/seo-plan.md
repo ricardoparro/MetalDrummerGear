@@ -13317,3 +13317,43 @@ Independently re-verified every finding myself (direct file reads at cited lines
 4. Drum-chair watch: group 3 clean this week, zero changes. Next due Monday 2026-10-26, group 0 (amon-amarth…cynic).
 
 ---
+
+## 2026-10-19 (run ~mid-day UTC, Monday) — soundLikeGuides.js file-family pivot, 5 filed (#9334-9338)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- Bank check: 7 open `seo-proposal` at run start (3 fresh #9325-9327 untriaged + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 5 (quality-limited, see Method).
+- Drum-chair watch: already logged this week (group 3, zero changes, see the 01:xx UTC run earlier today) — not re-run per the "once per Monday" rule.
+
+### Metrics readout
+- GSC 7d: 15,188 impr / 209 clicks / 1.38% CTR / pos 8.4. Content-gap rows unchanged: `jaska raatikainen` (83/1.20%) and `john otto snare` (58/1.72%) — both already-ruled standing items (`learned-patterns.md` lines 211/258), no re-action.
+- GA4 7d: 404u / 453s / 642v. Organic 339/453 (74.8%).
+
+### Method
+Per the 10-18 19:xx and 10-19 01:xx runs' notes, the 72-drummer roster method on `drummerEvolution.js`/`gearPriceHistory.js`/`top10Lists.js` is yielding diminishing returns. Pivoted to a fresh, previously-unswept file: `soundLikeGuides.js` (18k lines, 72 "how-to-sound-like" guides, hand-authored, independent of the generated llms mirrors). Dispatched 8 parallel verification subagents, each auditing one drummer's full entry against ground truth (`endorsementNews.js`/`bands.js`/`extendedBios.js`/`drummerEvolution.js`/`birthdays.js`), with a mandatory dedup search (`gh issue list --state all --search`) before reporting a finding as new. Sampled lower-profile names not near the top of prior sweep lists: daniel-erlandsson, adrian-erlandsson, richard-christy, ben-koller, jocke-wallgren, chris-turner, frost, martin-axenrot.
+
+Independently reviewed every subagent report before filing. 3 of 8 (adrian-erlandsson, jocke-wallgren, chris-turner) came back clean — each has an extensive prior fix history (10-20+ closed issues) and the current file state correctly reflects all of them. 5 of 8 surfaced genuine, non-duplicate findings, consolidated to 5 atomic issues (Frost's 2 distinct fabrications — snare depth + stick brand — combined into one issue since same drummer/same file/adjacent lines).
+
+Notable finds: Ben Koller's entire gear block is stale against **#9046** (2026-10-14), a correction that the follow-up #9146 explicitly scoped to only 3 files and did not include `soundLikeGuides.js` — confirms this file needs its own dedicated resync pass whenever ground truth changes, it isn't covered by existing fix-propagation sweeps. Daniel Erlandsson's "Pearl Demon Drive" pedal fabrication self-contradicts the *same entry's* own correct `intro.keyPoints` line 90 lines earlier — a within-file (not just cross-file) contradiction.
+
+### Proposals filed this run
+1. #9334 — Daniel Erlandsson soundLikeGuides.js fabricates "Pearl Demon Drive" pedal (7 locations incl. self-contradicting its own keyPoints) — verified Pearl Eliminator Double Bass Pedal
+2. #9335 — Richard Christy soundLikeGuides.js drumKit.model says "Pearl Masters Series" — verified Pearl Masters Custom (missed by #8439/#7650/#6919's other-file fixes)
+3. #9336 — Ben Koller soundLikeGuides.js still has pre-#9046 stale gear (Starclassic Maple/K Dark/Iron Cobra 900) — #9146 never included this file in its 3-file resync scope
+4. #9337 — Frost soundLikeGuides.js snare depth (6.5" should be 5.5") + sticks brand ("Vic Firth / Ahead" — Ahead is Lars Ulrich's brand, cross-contamination)
+5. #9338 — Martin Axenrot soundLikeGuides.js still implies current Opeth drummer (left 2021) — #9108 fixed extendedBios.js/api but never this file
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9325-9327 (prior run today, in-flight/triaged)
+- #9334-9338 (this run, 5 fresh)
+
+### Next run
+1. Watch #9334-9338 pick up via Roadie.
+2. `soundLikeGuides.js` sweep sampled only 8 of 72 drummer entries — strong candidate for continued sweeping next time the roster-sweep well runs dry (64 remaining, prioritize lower-profile/lower-issue-count names first per the established method).
+3. Worth flagging to CEO/founder: `soundLikeGuides.js` is not covered by any existing "re-sync after ground-truth change" propagation check (unlike the llms mirrors, which at least get checked when a generator exists) — #9046-class corrections may be silently missing from it across other drummers too, not just Ben Koller.
+4. Content-gap: both rows re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: already logged this week (group 3, zero changes). Next due Monday 2026-10-26, group 0.
+
+---

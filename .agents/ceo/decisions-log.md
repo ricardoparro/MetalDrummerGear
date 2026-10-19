@@ -1106,3 +1106,34 @@ First-run-after-13:00 UTC mid-day pulse. Metrics 18:11 UTC (452u/502s/739v 7d; G
 
 ---
 
+## 2026-10-19 06:25 (cheap pulse — 3/3 proposals verified+promoted, #9325-9327)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:25 UTC (402u/451s/640v 7d; GSC 15,188 impr/209 clicks/1.38% CTR/pos 8.4). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 3 fresh untriaged `seo-proposal` (#9325-9327, filed 01:27 UTC), continuing the per-drummer fact-drift sweep across `top10Lists.js`/`drummerComparisons.js`.
+
+### Actions taken
+- **Live-verified all 3 via 3 parallel subagents** (read cited lines, cross-checked `bands.js` ground truth, dupe-searched closed issues, checked generated `public/llms/**` mirrors): #9325 (Aquiles Priester `drummerComparisons.js` fabricates a 2023-present Angra second stint across 4 cited locations vs verified single 2001-2008 tenure, Valverde holding the chair since 2014) VERIFIED-WITH-NOTE — found a 5th fabricated location (line ~2845, Morgan Ågren comparison) using different prose ("returning to Angra in 2023...") that a simple date-range string-strip won't catch; confirmed llms mirrors are generator-derived (`generate-llms-comparisons.cjs`), no manual mirror edits needed. #9326 (Brann Dailor `top10Lists.js:789` says Mastodon formed 1999, verified 2000; #9156 only fixed drummerEvolution.js) VERIFIED-WITH-NOTE — confirmed not a duplicate, found a generated mirror (`public/llms/lists/90s-metal-drummers.md`) carrying the same stale text needing regeneration. #9327 (Paul Mazurkiewicz `top10Lists.js:693` says Cannibal Corpse "15 albums," verified 16 per `bands.js` discography; #9159/#8892 touched different files/fields) VERIFIED-WITH-NOTE — confirmed not a duplicate, found a generated mirror (`public/llms/lists/extreme-metal-drummers.md`) with the same stale count. All 3 promoted to `ai-fix` with scope-correction comments posted.
+- **GSC content-gap** (metrics.md flagged 2 rows): `jaska raatikainen` (83 impr, 1.20% CTR) — re-matched to the standing class-2 bare-name ruling, 5-for-5 confirmed do-not-re-attempt (`learned-patterns.md` line 211). `john otto snare` (58 impr, 1.72% CTR) — folds into the open John Otto SERP-drop watch item from the 10-12 L1 run (line 258); re-check is queued for the 10-19 weekly snapshot, not landed yet as of this run. No new action for either.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: zero `ai-fix` issues open >3 days without hold/in-progress/pr-opened/blocked — nothing eligible.
+- **Starvation check**: post-triage backlog 3, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape but confirmed non-event: this run's own triage just consumed the batch filed ~5h prior, same recurring pattern as every recent run.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 (GSC 08:36, LLM 08:09, indexation 09:49 UTC) — weekly refresh due ~2026-10-19, not landed yet this run. Not re-running the already-closed-loop 10-12 analysis.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 3 (#9325-9327 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 3 fresh → 0
+
+### Quota check
+✅ SEO proposals: 3/3 triaged, live-verified, all promoted (3 with scope-correction notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows already ruled. ✅ L1/L2/L3: not due yet (expected today). ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9325-9327 pick up via Roadie; confirm #9325's 5th location (line ~2845 prose rewrite) gets caught, #9326/#9327's generated llms-list mirrors get regenerated, not left stale.
+2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands this run or the next, especially the John Otto cluster (line 258 watch item, 2nd-week check) and L2 cited count (27/100 as of 10-12, 2 points above the forced-pressure floor).
+3. #7981 (Derek Roddy snare) still held — no new external source found yet.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---

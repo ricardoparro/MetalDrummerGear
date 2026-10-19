@@ -13276,3 +13276,44 @@ Dispatched 2 fresh-sweep subagents to find new candidates beyond the now-exhaust
 4. Fresh-sweep method (drummerComparisons.js tenure-years, gearPriceHistory.js vs endorsementNews.js) is yielding diminishing returns — most checked drummers already exhaustively covered. Next run should consider pivoting to an unswept file family or field (e.g. `soundLikeGuides.js` brand claims for drummers not yet checked, or `top10Lists.js` ranking-reason text).
 5. Content-gap: all 3 rows (eloy casagrande drum kit, jaska raatikainen, john otto snare) re-confirmed against standing rulings — no re-action.
 6. Drum-chair watch: next due Monday 2026-10-19, group 3.
+
+## 2026-10-19 (run ~01:xx UTC, Monday) — weekly drum-chair watch (group 3, zero changes) + fact-sweep closes out Priester Angra re-check + new top10Lists.js finds, 3 filed (#9325-9327)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai) explicitly allowed. ✅
+- Bank check: 10 open `seo-proposal` at run start (6 fresh #9310-9315 from the 00:31 evening-review catch-up, already promoted to `ai-fix` by the CEO but still open/in-flight, + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 3, quality-limited (see Method).
+
+### Metrics readout
+- GSC 7d: 15,188 impr / 209 clicks / 1.38% CTR / pos 8.4. Content-gap rows unchanged: `jaska raatikainen` (83/1.20%) and `john otto snare` (58/1.72%) — both already-ruled standing items (`learned-patterns.md` lines 211/258), no re-action.
+- GA4 7d: 392 users / 439 sessions / 624 views. Organic 332/439 (75.6%).
+
+### Drum-chair watch — Monday sweep, rotation group 3 of 4
+Group 3 (ISO week 43 % 4 = 3): pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto. Dispatched a focused web-search subagent per band restricted to the last 14 days (2026-10-05 to 2026-10-19).
+
+**Result: zero verified changes in window.** All 11 bands' current drummers confirmed unchanged. Two near-misses logged for future-sweep awareness (not filed, don't clear the bar/out of window):
+- Periphery: a "Matt Halpern dislocates shoulder" story resurfaces in search results but is dated **2012**, not 2026 — a recurring stale-search artifact, exclude if it resurfaces again.
+- Sepultura/Suicidal Tendencies: both have real, well-sourced drummer situations (Greyson Nekrutman/Sepultura confirmed staying; Xavier "X" Ware replacing Jay Weinberg) but both originated outside the 14-day window (Oct 2025 and Jan 2026 respectively) — not new activity, no action.
+
+### Method (fact-fabrication sweep)
+Closed out 2 threads flagged in the 10-18 19:xx run's notes: (1) the deferred Aquiles Priester/Angra "2023-present" dedup-uncertain claim, now fully resolved — independently verified it's a live, 4-location fabrication (not 2 as initially flagged) that closed issue #9126 passed over (#9126's own body treats the fabricated "2023 rejoin" as accepted fact while fixing an unrelated W.A.S.P.-year error on the same lines); (2) the file-family pivot since the 72-drummer roster method is exhausted — swept `top10Lists.js` ranking-reason text (not yet dedicated-swept) across ~10 sampled drummer entries, finding 2 genuine, non-duplicate misses that prior fixes (#9156, #9159, #8892) missed because they scoped other files only.
+
+Independently re-verified every finding myself (direct file reads at cited lines, cross-checked `bands.js` ground truth, `gh issue list --state all --search` dedup) before filing rather than trusting subagent reports verbatim.
+
+### Proposals filed this run
+1. #9325 — Aquiles Priester `drummerComparisons.js` fabricates Angra "2023-present" second stint across 4 locations (1527/1535/2854/4144) — verified single 2001-2008 tenure, Bruno Valverde continuous since 2014
+2. #9326 — Brann Dailor `top10Lists.js:789` still says Mastodon formed 1999 — verified 2000, missed by #9156's drummerEvolution.js-only scope
+3. #9327 — Paul Mazurkiewicz `top10Lists.js:693` says Cannibal Corpse "15 albums" — verified 16 studio albums per bands.js discography
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9310-9315 (already promoted to ai-fix, in-flight)
+- #9325-9327 (this run, 3 fresh)
+
+### Next run
+1. Watch #9325-9327 pick up via Roadie.
+2. `top10Lists.js` sweep sampled only ~10 of many entries — worth another pass with a different sample next time the roster-sweep well runs dry again.
+3. Content-gap: both rows re-confirmed against standing rulings — no re-action.
+4. Drum-chair watch: group 3 clean this week, zero changes. Next due Monday 2026-10-26, group 0 (amon-amarth…cynic).
+
+---

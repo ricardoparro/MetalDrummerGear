@@ -1631,11 +1631,11 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
       },
       snare: {
         brand: 'Pearl',
-        model: 'Pearl Reference Pure Snare',
-        size: '14" x 6.5"',
-        shell: 'Maple/Birch Hybrid',
-        description: "Gene's snare has massive projection and crack, matching the rest of his Reference Pure kit.",
-        alternative: "Pearl Reference or Ludwig Black Beauty"
+        model: 'Model not independently verified',
+        size: '14" x 6.5" (reported)',
+        shell: 'Not independently verified',
+        description: "Gene's snare has massive projection and crack, matching the rest of his Reference Pure kit. The specific model has not been independently verified.",
+        alternative: "Any high-end Pearl snare in the 14x6.5 range"
       },
       cymbals: {
         brand: 'Sabian',

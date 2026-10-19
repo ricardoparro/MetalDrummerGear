@@ -1956,9 +1956,9 @@ Full profile: https://metalforge.io/drummer/hellhammer
 
 **Band:** Cannibal Corpse
 **Highlight:** Death metal's most consistent extremist
-**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across 35+ years — his relentless consistency at extreme tempos across 15 albums makes him death metal's most enduring extreme drummer
+**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across 35+ years — his relentless consistency at extreme tempos across 16 albums makes him death metal's most enduring extreme drummer
 
-Paul Mazurkiewicz (Cannibal Corpse) earns rank #6 for: death metal's most consistent extremist. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across 35+ years — his relentless consistency at extreme tempos across 15 albums makes him death metal's most enduring extreme drummer.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #6 for: death metal's most consistent extremist. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across 35+ years — his relentless consistency at extreme tempos across 16 albums makes him death metal's most enduring extreme drummer.
 
 Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 

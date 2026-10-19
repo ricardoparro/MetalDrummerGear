@@ -12411,10 +12411,10 @@ This guide breaks down the technique, gear, and practice approach behind Lopez's
         description: "The HH and AAX series gave Lopez a warm, complex cymbal voice throughout his Opeth tenure that worked as well under a brushed acoustic passage as it did under a full-extremity blast section — dark, musical tone rather than bright cut."
       },
       pedals: {
-        brand: 'Axis',
-        model: 'Axis Percussion Double Pedal',
-        description: "A smooth, precise double pedal that supports both delicate, controlled single strokes during acoustic passages and full-speed double bass during blast sections — versatility across Lopez's full dynamic range.",
-        alternative: "DW 5000 Double or Tama Speed Cobra for similarly smooth, precise action."
+        brand: 'Not independently verified',
+        model: 'No pedal brand confirmed for the 1997-2006 Opeth era',
+        description: "No specific pedal brand has been independently verified for Lopez's Opeth tenure; his only verified hardware endorsement (Axis Percussion, since 2010) applies to his later Soen era.",
+        alternative: "Any smooth, precise double pedal"
       },
       sticks: {
         brand: 'Vic Firth',
@@ -12508,9 +12508,9 @@ This guide breaks down the technique, gear, and practice approach behind Lopez's
         label: "Professional Setup",
         kit: "Sonor Designer Series Maple ($3,800+)",
         cymbals: "Full Sabian HH/AAX selection ($1,900+)",
-        pedals: "Axis Percussion Double Pedal ($500)",
+        pedals: "DW 5000 Double Pedal ($500)",
         heads: "Full Remo setup ($400)",
-        notes: "Touring-ready setup matching Lopez's Opeth-era rig, built around warm, sensitive tone across the full dynamic range."
+        notes: "Touring-ready setup built around warm, sensitive tone across the full dynamic range; no pedal brand is verified for Lopez's Opeth era, so this uses a generic smooth, precise double pedal recommendation."
       }
     },
     faq: [

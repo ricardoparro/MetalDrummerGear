@@ -3621,6 +3621,16 @@ export function getMetaForPath(pathname) {
         ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
+        // Issue #9343: each lick's rich description + techniqueDetails already
+        // existed as structured data (used in JSON-LD/HowTo elsewhere) but were
+        // never rendered as visible body copy on this hub — bots only ever saw
+        // the 3-question FAQ shell below, despite the title promising
+        // "step-by-step breakdowns". Additive-only.
+        contentSections: allDrummerLicks.map(l => ({
+          heading: `${l.song}${l.album ? ` — ${l.album}` : ''}`,
+          content: l.description,
+          items: l.techniqueDetails && l.techniqueDetails.length > 0 ? l.techniqueDetails : undefined,
+        })),
         faqDisplayItems: drummerLicksFaqItems,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
@@ -3885,6 +3895,27 @@ export function getMetaForPath(pathname) {
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
         faqSchema,
+        // Issue #9343: priceHistory.summary + priceEvolution/setup notes already
+        // existed as structured data but were never rendered as visible body
+        // copy — bots only ever saw the 3-question FAQ shell above, despite the
+        // title promising an "era-by-era breakdown". Additive-only, reuses the
+        // contentSections/renderBioParagraphs hook #6070/#7138 established.
+        contentSections: priceHistory ? [
+          {
+            heading: `${drummer.name}'s ${priceHistory.era || 'Gear'} Story`,
+            content: priceHistory.summary,
+          },
+          ...(priceHistory.priceEvolution?.length ? [{
+            heading: 'Gear Price Timeline',
+            items: priceHistory.priceEvolution.map(e => ({ year: e.year, event: `${e.label} — ${e.event}` })),
+          }] : []),
+          ...(priceHistory.setup ? [{
+            heading: 'Component-by-Component Breakdown',
+            items: Object.values(priceHistory.setup)
+              .filter(c => c?.item && c?.notes)
+              .map(c => `${c.item}: ${c.notes}`),
+          }] : []),
+        ] : [],
       };
     }
   }

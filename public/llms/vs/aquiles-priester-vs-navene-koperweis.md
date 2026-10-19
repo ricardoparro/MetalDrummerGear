@@ -26,7 +26,7 @@ Angra's Aquiles Priester vs Entheos/ex-Animals as Leaders' Navene Koperweis: Bra
 
 ## Playing Style
 
-Aquiles Priester is a Brazilian drummer best known for his work with neoclassical power metal band Angra (2001–2008, 2023–present) and W.A.S.P. (2017–present), celebrated worldwide for blazing double bass speed, meticulous precision, and energetic showmanship built around Angra's soaring, melodic songwriting. Navene Koperweis (born 1985, San Jose, California) built his reputation in technical death metal with The Faceless and Animosity before joining instrumental djent pioneers Animals as Leaders in 2010 for the "Weightless" (2011) touring cycle, departing in 2012 — when Matt Garstka took over the drum chair — to found progressive metal outfit Entheos and build a parallel career as a producer and session drummer for Job for a Cowboy and Machine Head.
+Aquiles Priester is a Brazilian drummer best known for his work with neoclassical power metal band Angra (2001–2008) and W.A.S.P. (2017–present), celebrated worldwide for blazing double bass speed, meticulous precision, and energetic showmanship built around Angra's soaring, melodic songwriting. Navene Koperweis (born 1985, San Jose, California) built his reputation in technical death metal with The Faceless and Animosity before joining instrumental djent pioneers Animals as Leaders in 2010 for the "Weightless" (2011) touring cycle, departing in 2012 — when Matt Garstka took over the drum chair — to found progressive metal outfit Entheos and build a parallel career as a producer and session drummer for Job for a Cowboy and Machine Head.
 
 ## Technique
 

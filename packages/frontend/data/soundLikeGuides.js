@@ -16799,11 +16799,11 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
     readingTime: '10 min',
     intro: {
       title: "The Drummer Who Brought Extreme Metal Back to Opeth",
-      content: `Martin Axenrot stepped into one of progressive metal's most demanding drum chairs mid-tour in 2006, replacing Martin Lopez during the "Ghost Reveries" cycle after Lopez's health issues forced him to step away. It was an unenviable position — Lopez's nine years behind the kit had helped define Opeth's genre-blending sound — but Axenrot made the chair his own, delivering his studio debut on "Watershed" (2008) and remaining Opeth's drummer through "Heritage" (2011), "Pale Communion" (2014), "Sorceress" (2016), and "In Cauda Venenum" (2019).
+      content: `Martin Axenrot stepped into one of progressive metal's most demanding drum chairs mid-tour in 2006, replacing Martin Lopez during the "Ghost Reveries" cycle after Lopez's health issues forced him to step away. It was an unenviable position — Lopez's nine years behind the kit had helped define Opeth's genre-blending sound — but Axenrot made the chair his own, delivering his studio debut on "Watershed" (2008) and recording through "Heritage" (2011), "Pale Communion" (2014), "Sorceress" (2016), and "In Cauda Venenum" (2019) before departing Opeth in 2021.
 
 What Axenrot brought to Opeth was a background forged in extreme metal rather than progressive rock. As a member of death metal supergroup Bloodbath since 2008 and thrash/black metal band Witchery from 1997 to 2010, his instincts run heavier and more aggressive than his predecessor's jazz-informed finesse. That showed immediately on "Watershed," where his twin-bass-drum attack on his custom DW kit gave Opeth's death-metal-adjacent passages a forceful low end Lopez's single-kick rig never had. As the band's songwriting shifted toward progressive rock territory on "Heritage" and beyond, Axenrot adapted his attack to serve restraint and texture just as convincingly as he served aggression.
 
-This guide breaks down Axenrot's playing across both sides of that range — the extreme-metal power that announced his arrival and the dynamic control that has kept him in Opeth's drum chair for nearly two decades — along with his custom DW kit, SABIAN HHX/AAX cymbal setup, and the practice approach to developing the same versatility.`,
+This guide breaks down Axenrot's playing across both sides of that range — the extreme-metal power that announced his arrival and the dynamic control that defined his 15 years in Opeth's drum chair (2006-2021) — along with his custom DW kit, SABIAN HHX/AAX cymbal setup, and the practice approach to developing the same versatility.`,
       keyPoints: [
         "Replaced Martin Lopez mid-tour in 2006, debuting on Opeth's Watershed (2008)",
         "Brings an extreme metal background from Bloodbath and Witchery to Opeth's drum chair",
@@ -17025,7 +17025,7 @@ This guide breaks down Axenrot's playing across both sides of that range — the
       },
       {
         question: "How did Martin Axenrot join Opeth?",
-        answer: "Axenrot replaced Martin Lopez mid-tour in 2006 during Opeth's Ghost Reveries cycle after Lopez departed due to health issues. He made his studio debut with the band on Watershed (2008) and has remained Opeth's drummer ever since."
+        answer: "Axenrot replaced Martin Lopez mid-tour in 2006 during Opeth's Ghost Reveries cycle after Lopez departed due to health issues. He made his studio debut with the band on Watershed (2008) and remained Opeth's drummer until his 2021 departure."
       },
       {
         question: "What other bands has Martin Axenrot played in?",

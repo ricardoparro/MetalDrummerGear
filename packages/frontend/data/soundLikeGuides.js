@@ -14525,13 +14525,13 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
     readingTime: '9 min',
     intro: {
       title: "Djent's Riff-Locked Architect",
-      content: `Navene Koperweis occupies a unique corner of extreme metal: he's among the handful of drummers who helped invent djent's drumming language during his 2010–2012 run with Animals as Leaders, then kept developing it into something more compositionally sophisticated after founding Entheos in 2015 alongside vocalist Chaney Crabb. Across Entheos releases from the Primal EP (2015) through Time Will Take Us All (2023), Koperweis built a style that fuses technical death metal power with jazz-informed dynamics and math-metal precision.
+      content: `Navene Koperweis occupies a unique corner of extreme metal: he's among the handful of drummers who helped invent djent's drumming language during his 2009-2012 run with Animals as Leaders, then kept developing it into something more compositionally sophisticated after founding Entheos in 2015 alongside vocalist Chaney Crabb. Across Entheos releases from the Primal EP (2015) through Time Will Take Us All (2023), Koperweis built a style that fuses technical death metal power with jazz-informed dynamics and math-metal precision.
 
 What separates Koperweis from other technical drummers is how completely his drumming locks to the guitar riff rather than sitting on top of it. Where many djent drummers apply a fixed kick pattern under changing guitar parts, Koperweis rewrites the double-bass figure every time the riff changes — a compositional approach rooted in his background as an electronic producer under the name Navene K, where he thinks about drum parts as texture and arrangement rather than pure technical display.
 
 This guide breaks down the technique, gear, and practice approach behind Koperweis's riff-locked, polyrhythmic style — essential study for any drummer working at the intersection of progressive metal, djent, and technical death metal.`,
       keyPoints: [
-        "Animals as Leaders drummer (2010–2012) during the djent-defining Weightless era, then founded Entheos in 2015",
+        "Animals as Leaders drummer (2009-2012) during the djent-defining Weightless era, then founded Entheos in 2015",
         "Riff-locked double bass — rewrites the kick pattern to match each guitar riff rather than applying a fixed template",
         "Polyrhythmic precision layering multiple simultaneous rhythmic groupings while maintaining a clear rhythmic centre",
         "Electronic production background (Navene K) shapes a compositional approach to drum writing, including deliberate dynamic restraint"
@@ -14721,7 +14721,7 @@ This guide breaks down the technique, gear, and practice approach behind Koperwe
     faq: [
       {
         question: "What style does Navene Koperweis play?",
-        answer: "Koperweis plays at the intersection of djent, progressive metal, and technical death metal — riff-locked double bass developed during his 2010–2012 Animals as Leaders tenure, layered polyrhythmic precision, and a wide dynamic range refined across his own band Entheos, which he founded in 2015."
+        answer: "Koperweis plays at the intersection of djent, progressive metal, and technical death metal — riff-locked double bass developed during his 2009-2012 Animals as Leaders tenure, layered polyrhythmic precision, and a wide dynamic range refined across his own band Entheos, which he founded in 2015."
       },
       {
         question: "What drum kit does Navene Koperweis play?",

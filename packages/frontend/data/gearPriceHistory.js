@@ -2065,7 +2065,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Ashes of the Wake (2004)',
     profileImage: '/images/drummers/chris-adler.webp',
 
-    summary: "Chris Adler's 2004 Mapex Deep Forest setup from Lamb of God's Ashes of the Wake — the album that cemented LoG as leaders of the New Wave of American Heavy Metal. Adler debuted his new Mapex endorsement on this record, pairing an all-walnut Deep Forest shell pack with Meinl Byzance cymbals and a Mapex Falcon double pedal to produce the precise, powerful groove that defined modern American groove metal drumming. The Deep Forest's walnut shells delivered a focused mid-range punch with fast attack, ideal for the tight polyrhythmic patterns and explosive double-kick runs throughout the album. This setup's blend of premium hardware and pro-grade consistency helped Adler earn a reputation as one of the most technically precise groove metal drummers of his generation.",
+    summary: "Chris Adler's 2004 Mapex Deep Forest setup from Lamb of God's Ashes of the Wake — the album that cemented LoG as leaders of the New Wave of American Heavy Metal. Adler debuted his new Mapex endorsement on this record, pairing an all-walnut Deep Forest shell pack with Meinl Byzance cymbals and Mapex hardware to produce the precise, powerful groove that defined modern American groove metal drumming. The Deep Forest's walnut shells delivered a focused mid-range punch with fast attack, ideal for the tight polyrhythmic patterns and explosive double-kick runs throughout the album. This setup's blend of premium hardware and pro-grade consistency helped Adler earn a reputation as one of the most technically precise groove metal drummers of his generation.",
 
     setup: {
       drums: {
@@ -2114,18 +2114,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'Mapex Hardware + Mapex Falcon Double Pedal',
-        model: 'Mapex stands and Mapex Falcon double pedal',
-        specs: 'Mapex Falcon double pedal, Mapex hi-hat stand, 3× Mapex boom stands, Mapex snare stand',
+        item: 'Mapex Hardware Pack',
+        model: 'Mapex stands and hardware',
+        specs: 'Mapex hi-hat stand, 3× Mapex boom stands, Mapex snare stand',
         originalPrice: 1100,
         year: 2004,
-        source: 'Mapex hardware catalog 2004, Mapex Falcon MSRP 2004',
-        notes: "The Mapex Falcon's cam system gave Adler the fast rebound and consistent stroke needed for the intricate double-kick patterns across Ashes of the Wake. It became a mainstay of his Mapex-endorsed touring setup in the years that followed.",
+        source: 'Mapex hardware catalog 2004',
+        notes: "Mapex's hardware pack gave Adler a stable stand setup for the dual-kick configuration and dynamic cymbal work throughout Ashes of the Wake. Adler's verified pedal endorsement, the Trick Pro V, dates only to the 2010s, so no specific bass drum pedal brand is confirmed for this earlier era.",
         vintageValue2026: 1400,
         modernEquivalent: {
-          item: 'Mapex Falcon Double Pedal + Hardware Pack',
+          item: 'Trick Pro V Double Pedal + Mapex Hardware Pack',
           price: 1800,
-          link: 'mapex-falcon-double-pedal-adler',
+          link: 'trick-pro-v-double-pedal-adler',
         },
       },
       sticks: {

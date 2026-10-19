@@ -4061,7 +4061,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
         label: "Professional Setup",
         kit: "Pearl Reference Series Custom ($4,000+)",
         cymbals: "Sabian HHX Evolution / AAX X-Plosion Selection ($2,500+)",
-        pedals: "Pearl Demon Drive Double Pedal ($700)",
+        pedals: "Pearl Eliminator Redline Double Pedal ($700)",
         heads: "Full Remo setup ($200)",
         notes: "The actual Mike Mangini setup — studio and stage ready."
       }

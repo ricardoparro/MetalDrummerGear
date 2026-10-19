@@ -3594,13 +3594,13 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
     readingTime: '10 min',
     intro: {
       title: "Slipknot's High-Energy Powerhouse",
-      content: `Jay Weinberg joined Slipknot in 2014, taking one of the most scrutinized drum seats in metal history and making it his own. Son of legendary E Street Band drummer Max Weinberg, Jay brought a ferocious technical foundation and relentless stamina that has powered Slipknot through stadium tours, festival headliners, and their most recent studio records.
+      content: `Jay Weinberg joined Slipknot in 2014, taking one of the most scrutinized drum seats in metal history and making it his own. Son of legendary E Street Band drummer Max Weinberg, Jay brought a ferocious technical foundation and relentless stamina that powered Slipknot through stadium tours, festival headliners, and three studio records before his November 2023 departure.
 
-What defines Jay's approach is the combination of groove-lock and aggression. Where some nu-metal drummers sacrifice feel for raw power, Jay keeps Slipknot's rhythmic pocket impossibly tight while detonating the fills and double bass runs that the band's audience demands. His ghost note integration within heavy grooves adds a sophistication that rewards close listening on headphones even when it's barely perceptible through a festival PA.
+What defines Jay's approach is the combination of groove-lock and aggression. Where some nu-metal drummers sacrifice feel for raw power, Jay kept Slipknot's rhythmic pocket impossibly tight while detonating the fills and double bass runs that the band's audience demands. His ghost note integration within heavy grooves adds a sophistication that rewards close listening on headphones even when it's barely perceptible through a festival PA.
 
-This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and the practice approaches that will help you capture Slipknot's current live sound.`,
+This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and the practice approaches behind his 2014-2023 run as Slipknot's drummer.`,
       keyPoints: [
-        "Jay joined Slipknot in 2014 and has recorded two studio albums with the band",
+        "Jay played in Slipknot from 2014-2023, recording three studio albums before departing in November 2023",
         "Combines high-energy nu-metal attack with refined ghost note technique",
         "His double bass groove-lock is one of the tightest in modern metal",
         "Regular touring at arena and stadium scale demands both power and endurance"
@@ -3806,8 +3806,8 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
     },
     faq: [
       {
-        question: "What drum kit does Jay Weinberg use with Slipknot?",
-        answer: "Jay Weinberg uses SJC Custom Drums with custom Slipknot configurations. The maple shells offer maximum projection and articulation for arena-scale performances."
+        question: "What drum kit did Jay Weinberg use with Slipknot?",
+        answer: "Jay Weinberg used SJC Custom Drums with custom Slipknot configurations during his 2014-2023 tenure. The maple shells offer maximum projection and articulation for arena-scale performances."
       },
       {
         question: "How does Jay Weinberg's drumming differ from Joey Jordison's?",

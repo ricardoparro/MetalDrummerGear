@@ -3501,8 +3501,8 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       sticks: {
-        item: 'Ludwig 2B Hickory',
-        model: 'Heavy hickory sticks',
+        item: 'Pro-Mark Standard 5A/5B equivalent',
+        model: 'Hickory, wood tip',
         specs: 'Hickory, wood tip',
         originalPrice: 6,
         year: 1970,
@@ -3510,9 +3510,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: 'A heavier stick model that let Ward\'s jazz-trained hands generate real power on the proto-metal material.',
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Vic Firth American Classic 2B',
+          item: 'Pro-Mark Classic Forward 5B',
           price: 14,
-          link: 'vic-firth-2b',
+          link: null,
         },
       },
       heads: {

@@ -13398,3 +13398,47 @@ Notable finds: Jay Weinberg's entry still frames him as Slipknot's **current** d
 3. Alex Bent's soundLikeGuides.js pedal field (~line 13646/13742, "Axis Percussion Double Pedal") — flagged incidentally, needs independent ground-truth verification before filing.
 4. Content-gap: both rows re-confirmed against standing rulings — no re-action.
 5. Drum-chair watch: already logged this week (group 3, zero changes). Next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-19 (run ~continuing 13:1x UTC sweep) — soundLikeGuides.js sweep continues, 8 filed (#9356-9360,#9362,#9364,#9366)
+
+### Audit summary
+- robots.txt (live curl): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/llms/*.md`: 1,831 files across 26 subdirectories — unchanged, no new-page work (freeze in effect).
+- Bank check: 10 open `seo-proposal` at run start (6 fresh #9344-9349 already promoted to `ai-fix`, so untriaged bank effectively 0, excl. held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 8 (at the cap).
+- Drum-chair watch: already logged this week (group 3, zero changes, 01:xx UTC run) — not re-run per the "once per Monday" rule.
+
+### Metrics readout
+- GSC 7d: 18,749 impr / 245 clicks / 1.31% CTR / pos 8.5. Content-gap rows: `jaska raatikainen` (98/1.02%) and `john otto snare` (70/1.43%) — both already-ruled standing items (`learned-patterns.md` lines 211/258). No re-action.
+- GA4 7d: 426u / 480s / 670v. Organic 363/480 (75.6%).
+
+### Method
+Continued the `soundLikeGuides.js` file-family sweep from 16/72 to 24/72 checked. Dispatched 8 parallel verification subagents, each auditing one drummer's full entry against ground truth (`endorsementNews.js`/`bands.js`/`extendedBios.js`/`drummerEvolution.js`/`birthdays.js`/`snares.js`), with a mandatory `gh issue list --state all --search` dedup check before reporting a finding as new. Sampled: alex-bent (re-verifying a claim flagged-but-unverified by the prior run), abe-cunningham, bill-ward, brann-dailor, charlie-benante, danny-carey, eloy-casagrande, hannes-grossmann, mario-duplantier (9 names — one extra beyond the usual 8 since alex-bent was a quick re-verify, not a fresh audit).
+
+All 9 subagents returned genuine findings — unusually high hit rate (this file family is still far from dry). Independently re-verified every finding myself (direct file reads at cited lines via `grep`/entry-boundary mapping, cross-checked ground truth, re-ran dedup searches covering 150+ historical issues across the 9 drummers) before filing. Consolidated multi-finding-per-drummer reports into one atomic issue each (same file/same entry = one PR), capped at 8 per the bank-cap gate — **deferred Danny Carey's finding** (lowest severity/blast-radius of the 9: a single stale "Designer kit" cross-reference at `soundLikeGuides.js:504` in a budget-tier `notes` field, mixing up his gear with Martin Lopez/Morgan Ågren's Sonor Designer Series) to next run rather than exceed the cap.
+
+Notable finds: Eloy Casagrande's entire `soundLikeGuides.js` page is still written as if he's Sepultura's current drummer with zero mention of his 2024 Slipknot move (#9362) — the mirror-image of the already-open #9347 Jay Weinberg stale-framing bug in this same file. Mario Duplantier (a top-10 GA4 page this week) has 3 separate gear fabrications (kit shell wood, a fabricated "signature snare" product name, wrong pedal cam) that survived the #6404/#6633 cymbal/stick fixes (#9366). Alex Bent's flagged-but-unverified claim from the 10-19 mid-day run turned out to be correct on brand but wrong on model specificity and missing an era-scoping qualifier (#9356) — a more nuanced finding than the original flag suggested.
+
+### Proposals filed this run
+1. #9356 — Alex Bent soundLikeGuides.js pedal model imprecise ("Axis Percussion Double Pedal" vs verified "Axis A Longboard") + missing 2021 signing-date scope
+2. #9357 — Abe Cunningham soundLikeGuides.js stale album count (9→10, missing 2025's Private Music) + 4 gear-spec fields drifted (budget-tier Evans-heads leftover, stale pedal model, fabricated snare model, wrong cymbal sizes)
+3. #9358 — Bill Ward soundLikeGuides.js still says "Ludwig Super Classic/Classic Maple" kit (6 locations) — verified "Standard / Club Date Series", missed by the #8367/#8381/#8595 fix cycle
+4. #9359 — Brann Dailor soundLikeGuides.js budgetSetups.pro never got the #6355 gear fix (still DW/Remo/Meinl Byzance) + drumKit.shells says Maple vs verified Birch/Bubinga
+5. #9360 — Charlie Benante soundLikeGuides.js fabricates "Tama HP35 Camco" pedal history (2 locations, already fixed in 2 other files) + budget-tier Remo heads leftover (2 locations)
+6. #9362 — Eloy Casagrande soundLikeGuides.js entirely frozen in pre-2024 Sepultura framing, never updated for his Slipknot move
+7. #9364 — Hannes Grossmann soundLikeGuides.js "every recording" claim omits his Hate Eternal (2015-2018) tenure — same omission class as #9262, different file
+8. #9366 — Mario Duplantier soundLikeGuides.js fabricates kit shell wood (Walnut/Birch vs Bubinga), a nonexistent "signature snare" model, and pedal cam (Rolling Glide vs Power Glide) — high-traffic page
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9344-9349 (prior run today, already promoted/in-flight)
+- #9356-9360,#9362,#9364,#9366 (this run, 8 fresh)
+
+### Next run
+1. Watch #9356-9360/#9362/#9364/#9366 pick up via Roadie; #9362 (Eloy Casagrande) is the highest-impact (full page reframe, not just a field edit) — flag for implementer that it touches title/intro/FAQ/keywords together, likely one larger PR rather than a tiny diff.
+2. `soundLikeGuides.js` sweep now at 24/72 (danny-carey deferred, see Method) — continue next time the well runs dry, prioritizing: danny-carey (deferred finding ready to file), abe-cunningham/alex-bent/bill-ward/brann-dailor/charlie-benante/danny-carey/eloy-casagrande/hannes-grossmann/mario-duplantier now done; remaining ~48 unchecked (same pool noted in the prior run's entry, minus today's 9).
+3. Danny Carey `soundLikeGuides.js:504` "Designer kit" cross-reference (should say "SQ2 Heavy Beech") — deferred this run for the cap, ready to file next run if bank still has room.
+4. Content-gap: both rows re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: already logged this week (group 3, zero changes). Next due Monday 2026-10-26, group 0.

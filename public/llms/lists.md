@@ -2474,9 +2474,9 @@ Full profile: https://metalforge.io/drummer/inferno
 
 **Band:** Mastodon
 **Highlight:** Progressive sludge pioneer in early formation
-**Why ranked here:** Brann Dailor's late-90s bands including Blood Has Been Shed developed the jazz-influenced melodic drumming approach that he brought to Mastodon in 1999 — early groundwork for a career that would revolutionise progressive heavy music
+**Why ranked here:** Brann Dailor's late-90s bands including Blood Has Been Shed developed the jazz-influenced melodic drumming approach that he brought to Mastodon in 2000 — early groundwork for a career that would revolutionise progressive heavy music
 
-Brann Dailor (Mastodon) earns rank #10 for: progressive sludge pioneer in early formation. Brann Dailor's late-90s bands including Blood Has Been Shed developed the jazz-influenced melodic drumming approach that he brought to Mastodon in 1999 — early groundwork for a career that would revolutionise progressive heavy music.
+Brann Dailor (Mastodon) earns rank #10 for: progressive sludge pioneer in early formation. Brann Dailor's late-90s bands including Blood Has Been Shed developed the jazz-influenced melodic drumming approach that he brought to Mastodon in 2000 — early groundwork for a career that would revolutionise progressive heavy music.
 
 Full profile: https://metalforge.io/drummer/brann-dailor
 

@@ -6886,9 +6886,9 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
       },
       pedals: {
         brand: 'Pearl',
-        model: 'Pearl Demon Drive Double Pedal',
-        description: "Erlandsson uses Pearl Demon Drive double pedals — Pearl's direct-drive flagship known for its immediate, powerful response. The direct-drive system eliminates the slight delay of chain-drive pedals, giving his blast beats and 16th-note double-bass runs the tight, precise feel that defines his playing.",
-        alternative: "Pearl P3002D Demon Drive or Pearl P932 Double Pedal for more accessible direct-drive performance"
+        model: 'Pearl Eliminator Double Bass Pedal',
+        description: "Erlandsson uses Pearl Eliminator double pedals — Pearl's direct-drive flagship known for its immediate, powerful response. The direct-drive system eliminates the slight delay of chain-drive pedals, giving his blast beats and 16th-note double-bass runs the tight, precise feel that defines his playing.",
+        alternative: "Pearl P932 Double Pedal for more accessible direct-drive performance"
       },
       sticks: {
         brand: 'ProMark',
@@ -6981,7 +6981,7 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
         label: "Intermediate Setup",
         kit: "Pearl Session Studio Classic ($1,800)",
         cymbals: "Sabian AA/HH Selection ($1,200)",
-        pedals: "Pearl Demon Drive P3002 ($400)",
+        pedals: "Pearl Eliminator Double Bass Pedal ($400)",
         sticks: "ProMark 5B ($10)",
         heads: "Remo Emperor set ($150)",
         notes: "Pearl Session Studio Classic brings you directly into the Reference Pure's sonic territory. Sabian AA/HH cymbals are the right call for Erlandsson's bright, cutting projection requirements."
@@ -6991,10 +6991,10 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
         label: "Professional Setup",
         kit: "Pearl Reference Pure ($3,000+)",
         cymbals: "Sabian AAX/HHX Full Selection ($2,000+)",
-        pedals: "Pearl Demon Drive P3002D ($550)",
+        pedals: "Pearl Eliminator Double Bass Pedal ($550)",
         snare: "Pearl Daniel Erlandsson Signature ($300)",
         heads: "Full Remo setup ($200)",
-        notes: "Pearl Reference Pure is Erlandsson's current touring and recording kit. Pair with Sabian AAX/HHX cymbals and Demon Drive pedals for the complete setup."
+        notes: "Pearl Reference Pure is Erlandsson's current touring and recording kit. Pair with Sabian AAX/HHX cymbals and Eliminator pedals for the complete setup."
       }
     },
     faq: [
@@ -7016,7 +7016,7 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
       },
       {
         question: "What pedals does Daniel Erlandsson use?",
-        answer: "Daniel Erlandsson uses Pearl Demon Drive double pedals — Pearl's direct-drive flagship. The direct-drive mechanism provides an immediate, linear response without the slight delay of chain-drive pedals, which is critical for Arch Enemy's tight blast beats and continuous 16th-note double-bass sections. His Demon Drive setup is paired with Pearl's matching hardware for consistent response across the full kit."
+        answer: "Daniel Erlandsson uses a Pearl Eliminator Double Bass Pedal — Pearl's direct-drive flagship. The direct-drive mechanism provides an immediate, linear response without the slight delay of chain-drive pedals, which is critical for Arch Enemy's tight blast beats and continuous 16th-note double-bass sections. His Eliminator setup is paired with Pearl's matching hardware for consistent response across the full kit."
       }
     ],
     related: {

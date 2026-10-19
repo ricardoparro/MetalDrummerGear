@@ -22,7 +22,7 @@ Daniel plays **Pearl Reference Pure** drums with his co-designed signature snare
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 14", 16" x 16"
 - **Cymbals:** Paiste RUDE Series — 14" RUDE Hi-Hats, 18" & 19" RUDE Crash Rides, 22" RUDE Power Ride, 18" 2002 China
-- **Pedals:** Pearl Demon Drive Double Pedal (direct-drive for tight blast beat response)
+- **Pedals:** Pearl Eliminator Double Bass Pedal (direct-drive for tight blast beat response)
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Remo Powerstroke P3 Clear (kick), Remo Emperor X Coated (snare), Remo Emperor Clear (toms)
 
@@ -54,7 +54,7 @@ Erlandsson uses **matched grip** with an efficient, compact wrist technique. His
 | Drum Kit | Pearl Reference Pure (22" kicks) | Pearl Export (~$550) |
 | Snare | Pearl Erlandsson Signature 14" x 5.5" | Pearl Free-Floating Steel 14" x 5" |
 | Cymbals | Paiste RUDE Series | Paiste PST 8 or 900 Series (~$300) |
-| Double Pedal | Pearl Demon Drive P3002D | Pearl P932 Double Pedal (~$150) |
+| Double Pedal | Pearl Eliminator Double Bass Pedal | Pearl P932 Double Pedal (~$150) |
 | Sticks | Vic Firth 5B | Vater 5B |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EMAD2 |
 
@@ -84,7 +84,7 @@ A: Yes — Daniel and Adrian Erlandsson are brothers. Adrian plays with At The G
 A: Through strict metronome practice and a composition-first philosophy. He uses straight blast beats (alternating single strokes) rather than gravity blasts, always places blasts to intensify the melody rather than overpower it, and builds speed incrementally with a click track. His playing approach: controlled first, fast second.
 
 **Q: What pedals does Daniel Erlandsson use?**  
-A: Pearl Demon Drive double pedals — Pearl's direct-drive flagship. The direct-drive mechanism provides immediate, linear response without the slight delay of chain-drive pedals, which is critical for Arch Enemy's tight blast beats and continuous 16th-note double-bass sections.
+A: A Pearl Eliminator Double Bass Pedal — Pearl's direct-drive flagship. The direct-drive mechanism provides immediate, linear response without the slight delay of chain-drive pedals, which is critical for Arch Enemy's tight blast beats and continuous 16th-note double-bass sections.
 
 ---
 

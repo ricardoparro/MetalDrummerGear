@@ -3,7 +3,7 @@
 > Era-by-era breakdown of how legendary metal drummers' gear evolved. Includes original kit specs, endorsement changes, and inflation-adjusted prices.
 > Optimised for AI crawlers answering "what drums did [drummer] use in [era]" queries.
 >
-> Last updated: 2026-10-15 · 71 drummers covered
+> Last updated: 2026-10-19 · 71 drummers covered
 
 ---
 
@@ -259,7 +259,7 @@ Arin Ilejay's 2013 setup behind Avenged Sevenfold's Hail to the King — the ban
 
 Art Cruz's 2020 setup behind Lamb of God's self-titled album — his first studio recording as the band's full-time drummer, succeeding Chris Adler — marks the moment his gear settled into the Ludwig Black Beauty, Zildjian A Custom, and Trick Pro 1-V Bigfoot rig that has defined his tenure ever since.
 
-### Winds of Plague / Prong Era (2008–2018)
+### Winds of Plague (2008–2012, 2015–2021) / Prong (2012–2018) Era
 
 - **Kit:** Entry-level maple/birch kits — various developing-years setups, 22" kick
 - **Snare:** Steel shell 14"x6.5"
@@ -275,8 +275,8 @@ Art Cruz's 2020 setup behind Lamb of God's self-titled album — his first studi
 
 ### Lamb of God Era (2020–present)
 
-- **Kit:** Ludwig Classic Maple — 22"x18" kick, 10"/12" rack toms, 14"/16" floor toms
-- **Snare:** Ludwig 14"x6.5" (maple or brass)
+- **Kit:** Ludwig Kit — 22"x18" kick, 10"/12" rack toms, 14"/16" floor toms, built around the Black Beauty snare's cutting crack
+- **Snare:** Ludwig 14"x6.5" Black Beauty (brass shell)
 - **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China, 10" splash
 - **Original setup cost (2020):** ~$7,500
 - **Inflation-adjusted to 2026:** ~$9,500
@@ -711,7 +711,7 @@ Danny Carey's mid-1990s setup for Tool's defining Undertow and Aenima era — on
 
 **Active:** 2003–present | **Iconic era:** Welcome to the Morbid Reich (2011)
 
-Daray's 2011 setup behind Vader's Welcome to the Morbid Reich — recorded midway through his decade-long tenure (2006-2016) with Poland's most internationally recognized death metal band — documents the gear behind one of extreme metal's most technically demanding drummers.
+Daray's 2011 setup behind Vader's Welcome to the Morbid Reich — recorded years after his four-year tenure (2004-2008) with Poland's most internationally recognized death metal band — documents the gear behind one of extreme metal's most technically demanding drummers.
 
 ### Vesania Era (2003)
 
@@ -882,26 +882,29 @@ Dirk Verbeuren's 2022 setup recorded his actual Grammy-nominated studio debut wi
 
 Eloy Casagrande's 2017 Sepultura setup from Machine Messiah — the album that cemented his reputation as one of the most complete heavy metal drummers of his generation. His Tama Starclassic Bubinga configuration delivered the power, precision, and versatility needed to handle Sepultura's hybrid of thrash, groove metal, and progressive complexity.
 
-### Early Sepultura Era (2011–2016)
+### Sepultura Debut Era (2011–2016)
 
-- **Kit:** Mapex Meridian Maple — 6-piece; 22"×18" kick (×2), 10"×8" rack, 12"×9" rack, 14"×14" floor, 16"×16" floor
-- **Snare:** Mapex Black Panther 14"×6.5" — steel shell
-- **Cymbals:** Paiste PST 8 Series — 14" hi-hats, 16" and 18" crash, 20" ride, 18" china
-- **Notable:** Casagrande joined Sepultura in 2011 at age 17, replacing Jean Dolabella — one of the youngest high-profile recruitment decisions in Brazilian metal history. His Mapex Meridian Maple delivered the power and articulation needed for Sepultura's blend of thrash, groove, and progressive metal. The Kairos (2013) album demonstrated his ability to handle complex time signatures and groove-metal heaviness within the same performance context.
+- **Kit:** Tama Starclassic Bubinga — 22" kick, 10"/12"/14"/16" toms
+- **Snare:** Tama Bell Brass 14"×5.5" (BB146) — bright, cutting attack
+- **Cymbals:** Paiste — 14" hi-hats, 16"/18" crashes, 20" ride, 18" China
+- **Original setup cost (2011):** ~$8,000
+- **Inflation-adjusted to 2026:** ~$12,000
 
-### Quadra / SepulQuarta Era (2019–2022)
+### Machine Messiah / Quadra Era (2017–2022)
 
-- **Kit:** Mapex Armory Series — upgrade from Meridian; hybrid maple/walnut shells for warmer fundamental
-- **Snare:** Mapex Black Panther Design Lab snare 14"×6.5"
-- **Cymbals:** Paiste 2002 Series — full 2002 configuration (transition from PST 8 hybrid to all-2002)
-- **Notable:** Quadra (2020) and the acoustic SepulQuarta (2021) showcased Casagrande's dynamic range more explicitly than previous albums. The Mapex Armory's walnut content gave him a deeper, warmer shell fundamental suited to Quadra's more melodic and progressive passages. His full Paiste 2002 upgrade delivered a more cohesive cymbal voice across the entire kit.
+- **Kit:** Tama Starclassic Bubinga — expanded configuration; 22" kick, 8"/10"/12"/14"/16" toms
+- **Snare:** Tama Bell Brass 14"×5.5" (BB146) — consistent across the entire Sepultura tenure
+- **Cymbals:** Paiste — expanded setup; 14" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China
+- **Original setup cost (2017):** ~$14,000
+- **Inflation-adjusted to 2026:** ~$16,000
 
 ### Slipknot Era (2023–present)
 
-- **Kit:** Pearl Reference — Pearl's flagship series; large touring configuration with double kick; 22"×18" kick (×2), 10"×8" and 12"×9" racks, 14"×14" and 16"×16" floors; custom Slipknot livery
-- **Snare:** Pearl Free-Floating Steel 14"×6.5"
-- **Cymbals:** Paiste 2002 Series (consistent from Sepultura era)
-- **Notable:** Casagrande was announced as Slipknot's new drummer in 2023, replacing Jay Weinberg. The move from Mapex to Pearl Reference for the Slipknot touring rig represented a significant gear upgrade — the Pearl Reference series is built for stadium and arena-scale environments where volume, tuning stability, and visual presence all demand a flagship-tier kit. Casagrande's Brazilian groove sensibility and technical precision gave Slipknot's live performances a measurably different rhythmic character compared to previous lineup configurations.
+- **Kit:** Tama Starclassic Bubinga — dual bass drum configuration; 22"×16" and 24"×14" bass drums, 10", 12", 13" toms, 16" and 18" floor toms
+- **Snare:** Tama Bell Brass 14"×5.5" (BB146) — the snare that has followed Eloy from Sepultura to Slipknot
+- **Cymbals:** Paiste — expanded configuration; 15" Masters Dark hi-hats, 20" Masters Dark ride, dual 20" 602 crashes, 10" Rude splash, 20" Masters Dark crash, 20" 2002 Heavy ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong
+- **Original setup cost (2023):** ~$25,000
+- **Notable:** Casagrande was announced as Slipknot's new drummer in 2023, replacing Jay Weinberg. Rather than switching brands for the new chair, he maintained his existing Tama, Paiste, and Evans endorsements, now scaled for stadium and arena-level performance — his Tama Starclassic Bubinga expanded to a dual-kick configuration, and his Paiste setup grew to cover the full dynamic range of Slipknot's catalog.
 
 **Price Evolution:**
 - 2017: $4,124 (Original Purchase) — Machine Messiah recording
@@ -1177,7 +1180,7 @@ Hannes Grossmann's 2009 setup behind Obscura's Cosmogenesis documents the rig th
 - 2008: $7,800 (Co-founds Obscura) — Departs Necrophagist; establishes Tama Starclassic / Meinl Byzance rig with new band
 - 2009: $8,907 (Original Purchase) — Cosmogenesis recorded — full Tama Starclassic / Meinl Byzance rig documented
 - 2011: $9,315 (Omnivium era) — Same Tama / Meinl configuration carried into Obscura's second album
-- 2014: $9,315 (Departs Obscura) — Left the band; continues with Alkaloid, co-founded in 2013
+- 2014: $9,315 (Departs Obscura) — Left the band; continues with Alkaloid, co-founded in 2014
 - 2026: $13,606 (Current adjusted) — Inflation-adjusted value of the 2009 Cosmogenesis-era setup
 
 **Sources:**
@@ -2174,25 +2177,25 @@ Morgan Ågren's 2012 setup behind the Devin Townsend Project's Epicloud captures
 
 ### Zappa Tour / Early Mats/Morgan Era (1988–1998)
 
-- **Kit:** Early professional kit, pre-Sonor configuration
+- **Kit:** Early professional kit, developing toward DW configuration
 - **Snare:** Standard maple snare
-- **Cymbals:** Developing Paiste setup
-- **Notable:** Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 in Umeå, Sweden, and was personally selected by Frank Zappa to tour with his band in 1988 at just 20 years old — one of the most credible validation stamps available in technically demanding music. The Paiste cymbal relationship, along with Vic Firth sticks and Remo heads, took hold around this same time.
+- **Cymbals:** Early Zildjian setup
+- **Notable:** Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 in Umeå, Sweden, and was personally selected by Frank Zappa to tour with his band in 1988 at just 20 years old — one of the most credible validation stamps available in technically demanding music. He began working with DW on custom shell specifications around 1990.
 
 ### International Recognition Era (1998–2006)
 
-- **Kit:** Pre-Sonor professional kit, carried over from the Zappa Tour era
-- **Snare:** Standard maple snare
-- **Cymbals:** Paiste Signature Series — 14" hi-hats, 18"/20" crashes, 22" ride, 18" 2002 China
+- **Kit:** DW Collector's Series (expanded) — 22" kick, 8"/10"/12"/14"/16" toms
+- **Snare:** DW Collector's 14"x6.5" Maple
+- **Cymbals:** Zildjian K Custom Series — 13" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China
 - **Original setup cost (2001):** ~$11,448
 - **Inflation-adjusted to 2026:** ~$21,177
 
 ### Modern Hybrid Era (2015–present)
 
-- **Kit:** Sonor SQ2 Beech custom shell configuration
-- **Snare:** Sonor SQ2 Beech 14"x5.5" Maple
-- **Cymbals:** Paiste Signature / 2002 Series mix — 14" Signature Heavy Hi-Hats, 18"/20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China
-- **Notable:** Devin Townsend specifically sought Ågren for the Devin Townsend Project in 2012, recognizing his ability to navigate odd-time signatures and metric modulations without losing feel. Signing to Sonor for the Epicloud (2012) sessions brought the SQ2 Beech kit and Giant Step double pedal alongside the existing Paiste cymbal setup, a configuration he has carried through Z² (2014) and beyond while remaining active with the Mats/Morgan Band.
+- **Kit:** DW Collector's Series Custom (refined) — 22" kick, 8"/10"/12"/14"/16" toms
+- **Snare:** DW Collector's 14"x5" + secondary piccolo
+- **Cymbals:** Zildjian K Custom / Constantinople / A Custom mix
+- **Notable:** Devin Townsend specifically sought Ågren for the Devin Townsend Project in 2012, recognizing his ability to navigate odd-time signatures and metric modulations without losing feel. His setup has since evolved into a fully realized hybrid acoustic/electronic configuration with Roland SPD-SX sampling and an expanded trigger array, while remaining active with the Mats/Morgan Band.
 
 **Price Evolution:**
 - 1988: $1,500 (Zappa Tour Era) — Selected by Frank Zappa to tour at age 20, playing a modest professional kit
@@ -2326,31 +2329,28 @@ Nick Barker's 2003 setup behind Dimmu Borgir's Death Cult Armageddon — his fin
 
 ## Nick Menza — Megadeth
 
-**Active:** 1988–1998, 2004, 2015–2016 | **Iconic era:** Rust in Peace (1990)
+**Active:** 1989–1998, 2004–2016 | **Iconic era:** Rust in Peace (1990)
 
 Nick Menza's iconic Rust in Peace-era setup — the pro-tier thrash weapon behind Megadeth's technical masterpiece. Built around a Tama Artstar II in Midnight Blue finish with Zildjian A cymbals, Menza's kit matched the precision of his playing.
 
-### Rust in Peace Era (1990)
+### Rust in Peace Era (1990–1992)
 
-- **Kit:** Tama Swingstar — 5-piece; 22"x16" kick, 12"x10" and 13"x11" racks, 16"x16" floor
+- **Kit:** Tama Artstar II — 5-piece, Midnight Blue finish; 22"x16" kick, 12"x10" and 13"x11" racks, 16"x16" floor
 - **Snare:** Tama Steel 14"x5.5"
 - **Cymbals:** Zildjian A Series — 14" hi-hats, 16" crash, 18" crash, 20" ride
 - **Original setup cost (1990):** ~$1,898
 - **Inflation-adjusted to 2026:** ~$4,757
 
-### Youthanasia Era (1994)
+### Cryptic Writings Era (1996–1998)
 
-- **Kit:** Premier Signia — professional maple kit from UK manufacturer
-- **Snare:** Premier 14"x5.5" Steel or Birch
-- **Cymbals:** Zildjian A Series
-- **Notable:** The Premier Signia endorsement was a notable departure from Menza's Tama history. Premier's maple shells gave a warmer, more open tone that complemented Youthanasia's cleaner, more polished production. Menza's playing on tracks like 'À Tout le Monde' showed his melodic side emerging alongside his technical chops.
+- **Kit:** Pearl Reference Custom — Pearl's flagship tier; specific shell configuration not independently documented
+- **Cymbals:** Sabian AA / Signature Series — specific size configuration not independently documented
+- **Notable:** Menza's final full studio album with Megadeth, Cryptic Writings (1997), saw him upgrade to the flagship Pearl Reference Custom kit — moving on from the Pearl Masterworks he'd played since Youthanasia — and switch to Sabian AA / Signature Series cymbals; no Zildjian or Paiste cymbals are documented for this era. He was fired from Megadeth in 1998 following a knee injury.
 
-### Late Career / Reunion Era (2004, 2015–2016)
+### Post-Megadeth / OHM Era (2004–2016)
 
-- **Kit:** Sonor Force Series or Prolite — German engineering with warm maple tone
-- **Snare:** Sonor Designer Series steel snare
-- **Cymbals:** Zildjian A Custom and Z Custom Series
-- **Notable:** Menza's late-career setups reflected a broader, more refined approach. Sonor's German-engineered maple shells gave precision and warmth, while the DW 9000 upgrade provided smoother double-kick action. His final live performances with Megadeth in 2015–2016 used this type of rig before his passing in May 2016.
+- **Notable:** No independently verified gear information exists for Menza's post-Megadeth years, including his brief 2004 Megadeth reunion dates and his work with jazz-metal fusion group OHM. He passed away on May 21, 2016, collapsing on stage during an OHM performance in Woodland Hills, California.
+---
 
 **Price Evolution:**
 - 1990: $1,898 (Original Purchase) — Rust in Peace recording
@@ -2993,28 +2993,25 @@ Travis Orbin's 2017 setup behind Darkest Hour's Godless Prophets & the Migrant F
 
 **Active:** 1981–2018 | **Iconic era:** Cowboys from Hell (1990)
 
-Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pantera into the mainstream metal consciousness and defined the groove metal drum sound for the decade. Paul played a Tama drum kit — signed specifically for the Cowboys from Hell album cycle — with Sabian cymbals and a DW double pedal, delivering the thunderous, pocket-locked groove that underpinned Dimebag Darrell's guitar work.
+Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pantera into the mainstream metal consciousness and defined the groove metal drum sound for the decade. Paul played a Tama drum kit — signed specifically for the Cowboys from Hell album cycle — with Sabian cymbals, delivering the thunderous, pocket-locked groove that underpinned Dimebag Darrell's guitar work.
 
-### Cowboys from Hell Era (1990)
+### Cowboys from Hell / Vulgar Display of Power / Far Beyond Driven Era (1990–1996)
 
-- **Kit:** Premier Resonator Series — 5-piece; 22"×16" kick, 12"×10" rack, 13"×11" rack, 16"×16" floor
-- **Snare:** Premier steel snare 14"×5.5" (10-lug)
-- **Cymbals:** Zildjian A Series — 14" hi-hats, 16" Thin Crash, 18" Medium Crash, 20" Medium Ride, 18" China
-- **Original setup cost (1990):** ~$2,728
-- **Inflation-adjusted to 2026:** ~$6,840
+- **Kit:** Tama — signed with Tama during Pantera's major-label breakthrough on Cowboys from Hell
+- **Cymbals:** Sabian AA / AAX Series
+- **Notable:** Cowboys from Hell (Atco, 1990) discarded Pantera's earlier glam image and established groove metal as a genre — Vinnie Paul's locked-in pocket drumming on tracks like "Domination," "Cemetery Gates," and "Primal Concrete Sledge" set the template that an entire decade of heavy music would follow. He continued on Tama through Vulgar Display of Power (1992) and Far Beyond Driven (1994), which debuted at #1 on the Billboard 200 — the first album this extreme-leaning to do so.
 
-### The Great Southern Trendkill / Reinventing the Steel Era (1996–2000)
+### The Great Southern Trendkill / Reinventing the Steel / Damageplan Era (1996–2008)
 
-- **Kit:** Pearl Reference Series (partial transition — Masters Custom and Reference used across this period)
-- **Snare:** Pearl Free-Floating Steel 14"×6.5" (consistent across all Pantera years)
-- **Cymbals:** Zildjian A Custom (unchanged core; added 20" A Custom Ping Ride for Reinventing sessions)
-- **Notable:** Pantera's later output saw Paul shift between Pearl Masters Custom and Reference configurations depending on studio vs. live demands. The Free-Floating snare remained unchanged through all Pantera studio albums — consistent with Paul's focus on snare tone as the anchor of his groove-first playing philosophy.
+- **Kit:** Pearl — moved to Pearl drums, spanning The Great Southern Trendkill and Reinventing the Steel
+- **Cymbals:** Sabian AA / AAX Series (unchanged)
+- **Notable:** Vinnie Paul recorded Pantera's final two studio albums, The Great Southern Trendkill (1996) and Reinventing the Steel (2000), on Pearl drums. After Pantera's 2003 breakup, he and his brother Dimebag Darrell formed Damageplan, releasing New Found Power (2004) on the same Pearl setup before Dimebag was murdered on stage on December 8, 2004, ending the band.
 
-### Hellyeah / Final Years (2006–2018)
+### Hellyeah Era (2008–2018)
 
-- **Kit:** DW Collector's Series (various custom finishes for Hellyeah branding)
-- **Cymbals:** Zildjian A Custom (continuous endorsement)
-- **Notable:** Vinnie Paul continued with DW and Zildjian A Custom through the Hellyeah years until his passing in June 2018. His final live configurations included elaborate custom DW shell finishes reflecting Hellyeah's hard rock/groove metal aesthetic.
+- **Kit:** ddrum Vinnie Paul Signature Series — signed with ddrum, who developed his Signature Series kit and snare for Hellyeah; his final and longest-running endorsement
+- **Cymbals:** Sabian AA / AAX Series (unchanged)
+- **Notable:** Vinnie Paul formed Hellyeah in 2006 and signed with ddrum in 2008, who built his Vinnie Paul Signature Series kit — his definitive and final setup. He continued with ddrum, Evans, and Sabian through Hellyeah's run until his passing on June 22, 2018.
 
 **Price Evolution:**
 - 1990: $2,728 (Original Purchase) — Cowboys from Hell recording
@@ -3022,7 +3019,7 @@ Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pant
 - 1994: $3,200 (Far Beyond Driven) — Paul continues on Tama
 - 1996: $3,800 (The Great Southern Trendkill) — Paul switches to Pearl Custom
 - 2000: $5,200 (Reinventing the Steel) — Pantera final studio album
-- 2004: $5,800 (Damage Plan era) — Paul remains on Pearl
+- 2004: $5,800 (Damageplan era) — Paul remains on Pearl
 - 2018: $8,500 (Legacy premium) — Vinnie Paul passes away; collector interest spikes
 - 2026: $6,840 (Current adjusted) — Inflation-adjusted value
 

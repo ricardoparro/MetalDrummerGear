@@ -9931,7 +9931,7 @@ This guide breaks down the technique, gear, and practice approach behind Christy
       title: "Christy's Gear Setup",
       drumKit: {
         brand: 'Pearl',
-        model: 'Pearl Masters Series',
+        model: 'Pearl Masters Custom',
         shells: 'Maple',
         finish: 'Custom finish',
         config: {

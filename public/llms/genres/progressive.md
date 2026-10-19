@@ -8,7 +8,7 @@ Founded in the mid-1980s with influences from prog rock pioneers Rush and Yes, p
 ## Featured Progressive Metal Drummers
 | Drummer | Band | Signature Setup | Profile |
 |---|---|---|---|
-| Mike Portnoy | Dream Theater / Sons of Apollo | Tama Starclassic Maple/Birch + Meinl | [/drummer/mike-portnoy](/drummer/mike-portnoy) |
+| Mike Portnoy | Dream Theater / Sons of Apollo | Tama Starclassic Maple + Bubinga + Meinl | [/drummer/mike-portnoy](/drummer/mike-portnoy) |
 | Danny Carey | Tool | Pearl Reference Pure + Paiste Giant Beat Gongs | [/drummer/danny-carey](/drummer/danny-carey) |
 | Tomas Haake | Meshuggah | Pearl Reference + Meinl Byzance | [/drummer/tomas-haake](/drummer/tomas-haake) |
 | Mike Mangini | Dream Theater | Pearl Reference + Meinl | [/drummer/mike-mangini](/drummer/mike-mangini) |
@@ -33,7 +33,7 @@ Founded in the mid-1980s with influences from prog rock pioneers Rush and Yes, p
 - **Electronics**: Electronic pads and triggers common for additional sounds and samples; click tracks standard for tight synchronization with complex arrangements
 
 ## Gear Preferences by Drummer
-- **Mike Portnoy**: Tama Starclassic Maple/Birch, Meinl cymbals, enormous multi-snare setup; showmanship combined with musicality
+- **Mike Portnoy**: Tama Starclassic Maple + Bubinga, Meinl cymbals, enormous multi-snare setup; showmanship combined with musicality
 - **Danny Carey**: Pearl Reference Pure, Paiste Giant Beat Gongs, custom electronic triggers; tribal and jazz influences inform Tool's signature rhythmic approach
 - **Tomas Haake**: Pearl Reference, Meinl Byzance; mathematical precision for Meshuggah's polyrhythmic djent — widely considered one of drumming's most demanding recorded performances
 - **Mike Mangini**: Pearl Reference, Meinl; holds multiple Guinness World Records for speed; clinical execution for Dream Theater's post-Portnoy era
@@ -48,7 +48,7 @@ A: Progressive metal drummers need mastery of odd time signatures, polyrhythmic 
 A: This is highly subjective. Mike Portnoy (Dream Theater, Sons of Apollo) is frequently cited for his compositional drumming and showmanship. Danny Carey (Tool) brings extraordinary polyrhythmic complexity and tribal influences. Tomas Haake (Meshuggah) pioneered mathematical djent drumming. Mike Mangini holds world speed records. Each represents a different peak of progressive drumming.
 
 **Q: What drums does Mike Portnoy use?**
-A: Mike Portnoy endorses Tama drums, using a massive Starclassic Maple/Birch kit with multiple snare drums, an extensive tom setup, and Meinl Byzance cymbals. He previously used Pearl for many years during his Dream Theater prime. His kits are famous for their elaborate size — multiple rides, crashes, and stacks are standard in his setup.
+A: Mike Portnoy endorses Tama drums, using a dual Tama Starclassic Maple + Bubinga "Dream Monster" kit with multiple snare drums, an extensive tom setup, and Meinl Byzance cymbals. He's been a Tama endorser since 1985. His kits are famous for their elaborate size — multiple rides, crashes, and stacks are standard in his setup.
 
 **Q: What is djent drumming?**
 A: Djent drumming (associated with Meshuggah, Periphery, Animals as Leaders) features tight, syncopated patterns matching staccato, palm-muted guitar riffs. Tomas Haake pioneered the style with mathematically precise polyrhythmic patterns — his performance on "Bleed" playing 4/4 with his feet against a different meter with his hands is considered one of drumming's most technically demanding recorded performances.

@@ -249,7 +249,7 @@ Mike Portnoy's intricate compositions and showmanship helped define the genre. D
       },
       {
         question: "What drums does Mike Portnoy use?",
-        answer: "Mike Portnoy currently endorses Tama drums, using a massive Starclassic Maple/Birch kit. He previously used Pearl for many years. He's known for his elaborate setups with multiple snares, toms, and cymbals."
+        answer: "Mike Portnoy currently endorses Tama drums, using a dual Tama Starclassic Maple + Bubinga 'Dream Monster' kit. He's been a Tama endorser since 1985. He's known for his elaborate setups with multiple snares, toms, and cymbals."
       }
     ],
   },

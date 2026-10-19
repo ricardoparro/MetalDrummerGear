@@ -13357,3 +13357,44 @@ Notable finds: Ben Koller's entire gear block is stale against **#9046** (2026-1
 5. Drum-chair watch: already logged this week (group 3, zero changes). Next due Monday 2026-10-26, group 0.
 
 ---
+
+## 2026-10-19 (run ~13:1x UTC) — soundLikeGuides.js sweep continues, 6 filed (#9344-9349)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai) explicitly allowed. ✅
+- Bank check: 9 open `seo-proposal` at run start — all 5 fresh (#9334-9338) already promoted to `ai-fix` by the 12:18 CEO deep run, so untriaged bank was effectively 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — well under the 45 floor → filed 6 (quality-limited sweep yield, under the 8 cap).
+- Drum-chair watch: already logged this week (group 3, zero changes, 01:xx UTC run) — not re-run per the "once per Monday" rule.
+
+### Metrics readout
+- GSC 7d (refreshed 13:06 UTC): 18,749 impr / 245 clicks / 1.31% CTR / pos 8.5.
+- GA4 7d: 418u / 468s / 658v. Organic 351/468 (75%).
+- Content-gap rows: `jaska raatikainen` (98/1.02%) and `john otto snare` (70/1.43%) — both already-ruled standing items (`learned-patterns.md` lines 211/258; John Otto cluster resolved as cannibalization-not-regression in the 12:18 CEO run). No re-action.
+
+### Method
+Continued the `soundLikeGuides.js` file-family sweep (72 hand-authored "how-to-sound-like" guides, no resync/propagation coverage — see 10-19 mid-day run's note) from 8/72 checked to 16/72. Dispatched 14 parallel verification subagents across two rounds (8 then 6), each auditing one drummer's full entry against ground truth (`endorsementNews.js`/`bands.js`/`extendedBios.js`/`drummerEvolution.js`/`birthdays.js`), with a mandatory `gh issue list --state all --search` dedup check before reporting a finding as new. Sampled: isaac-lamb, kevin-talley, john-longstreth, nick-barker, tim-yeung, waltteri-vayrynen, navene-koperweis, dirk-verbeuren, arin-ilejay, gene-hoglan, jay-weinberg, jimmy-degrasso, martin-lopez, mike-mangini.
+
+8 of 14 came back CLEAN (several confirmed prior fixes — #9235, #9238, #9107, #8362, #7870's drums/cymbals-only scope — had already landed correctly). 6 of 14 surfaced genuine, independently re-verified, non-duplicate findings (I personally re-grepped every cited line and cross-checked the named ground-truth file before filing, not just trusting subagent reports). Hit rate (43%) is healthy — no sign yet of this file family running dry.
+
+Notable finds: Jay Weinberg's entry still frames him as Slipknot's **current** drummer despite his November 2023 departure (bands.js:269/308-310) — same stale-current-member pattern as the Jason Bittner/Martin Axenrot/Nicko McBrain findings from the last two sweeps, this time on a higher-traffic entity. Mike Mangini's `budgetSetups.pro.pedals` field is a self-contradiction *within the same file* — the main `gear.pedals` field was already correctly fixed by #8565 to "Pearl Eliminator Redline" but the budget-tier sibling field was missed, the same "fixed main field, missed budget/FAQ sibling" bug class recurring across many drummers. Martin Lopez's pedal fabrication attributes a 2010-onward endorsement (Axis Percussion) to his pre-2010 Opeth era — same pattern already fixed in 2 sibling files (#8355, #7666) but never propagated here.
+
+**Flagged, not filed** (needs independent verification next run): spotted a possible "Axis Percussion Double Pedal" fabrication on the `how-to-sound-like-alex-bent` entry (lines ~13646/13742) incidentally while grepping for the martin-lopez fix — not part of this round's audited set, not cross-checked against Alex Bent's ground truth. Noted in #9348's body; do not file on it without verification.
+
+### Proposals filed this run
+1. #9344 — Tim Yeung soundLikeGuides.js wrongly claims current Morbid Angel membership + falsely credits him with Kingdoms Disdained (2017, actually Scott Fuller)
+2. #9345 — Navene Koperweis soundLikeGuides.js wrong Animals as Leaders tenure "2010-2012" (verified 2009-2012 per bands.js), missed by #9237/#9124's other-file-only scope
+3. #9346 — Gene Hoglan soundLikeGuides.js fabricates a specific "Pearl Reference Pure Snare" model + unsourced "Ludwig Black Beauty" alternative — ground truth says model not independently verified
+4. #9347 — Jay Weinberg soundLikeGuides.js stale "current Slipknot member" framing + wrong album count (departed Nov 2023, 3 albums not 2)
+5. #9348 — Martin Lopez soundLikeGuides.js fabricates Axis Percussion pedal for his pre-2010 Opeth era (Axis only verified since 2010/Soen era)
+6. #9349 — Mike Mangini soundLikeGuides.js budgetSetups.pro.pedals still "Pearl Demon Drive" after #8565 fixed the main gear.pedals field to "Pearl Eliminator Redline"
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9344-9349 (this run, 6 fresh)
+
+### Next run
+1. Watch #9344-9349 pick up via Roadie.
+2. `soundLikeGuides.js` sweep now at 16/72 — continue next time the roster-sweep well runs dry, prioritizing lower-profile/lower-issue-count names (56 remaining: abe-cunningham, alex-bent[flagged above], alex-rudinger, aquiles-priester, art-cruz, bill-ward, blake-richardson, brann-dailor, charlie-benante, chris-adler, danny-carey, daray, dave-lombardo, derek-roddy, eloy-casagrande, flo-mounier, gavin-harrison, george-kollias, hannes-grossmann, hellhammer, igor-cavalera, inferno, jason-bittner, joey-jordison, jon-dette, lars-ulrich, mario-duplantier, matt-garstka, matt-greiner, matt-halpern, mike-portnoy, mikkey-dee, morgan-agren, nick-augusto, nick-menza, nicko-mcbrain, paul-bostaph, paul-mazurkiewicz, pete-sandoval, ray-luzier, raymond-herrera, richard-christy, ryan-van-poederooyen, scott-travis, sean-reinert, shannon-larkin, tomas-haake, travis-orbin, vinnie-paul — many of these already have fixes landed in *other* files for other fact axes, so soundLikeGuides.js specifically may still be unswept).
+3. Alex Bent's soundLikeGuides.js pedal field (~line 13646/13742, "Axis Percussion Double Pedal") — flagged incidentally, needs independent ground-truth verification before filing.
+4. Content-gap: both rows re-confirmed against standing rulings — no re-action.
+5. Drum-chair watch: already logged this week (group 3, zero changes). Next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

@@ -10178,7 +10178,7 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
       title: "Koller's Gear Setup",
       drumKit: {
         brand: 'Tama',
-        model: 'Tama Starclassic Maple',
+        model: 'Tama Starclassic Performer B/B',
         shells: 'Maple',
         finish: 'Custom finish',
         config: {
@@ -10187,7 +10187,7 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
-        description: "Koller favors Tama Starclassic Maple drums for their powerful attack and resonance. The setup is compact enough for Converge's intense live performance demands while delivering full, projecting tone.",
+        description: "Koller favors Tama Starclassic Performer B/B drums for their powerful attack and resonance. The setup is compact enough for Converge's intense live performance demands while delivering full, projecting tone.",
         affiliateNote: "Tama Imperialstar or Pearl Export provide similar maple attack at lower cost."
       },
       snare: {
@@ -10200,20 +10200,20 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
       },
       cymbals: {
         brand: 'Zildjian',
-        series: 'Zildjian K Dark Series',
+        series: 'Zildjian K Custom & A Custom Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" K Dark Thin Hi-Hats', notes: 'Dark, trashy response for fast patterns' },
-          { type: 'Crash', model: 'Zildjian 18" K Dark Medium Thin Crash', notes: 'Fast decay for quick accent work' },
-          { type: 'Crash', model: 'Zildjian 19" K Dark Medium Thin Crash', notes: 'Heavier accent crashes' },
+          { type: 'Hi-Hats', model: 'Zildjian 14" K Custom Thin Hi-Hats', notes: 'Fast, articulate response for fast patterns' },
+          { type: 'Crash', model: 'Zildjian 18" K Custom Medium Thin Crash', notes: 'Fast decay for quick accent work' },
+          { type: 'Crash', model: 'Zildjian 19" K Custom Medium Thin Crash', notes: 'Heavier accent crashes' },
           { type: 'Ride', model: 'Zildjian 21" K Custom Ride', notes: 'Clean bell for riding through dense sections' },
           { type: 'China', model: 'Zildjian 18" K China', notes: 'Trashy, aggressive accent' }
         ],
-        description: "Koller uses dark, trashy cymbals that respond quickly to his explosive attack and cut through Converge's dense, downtuned guitar sections."
+        description: "Koller uses responsive, articulate cymbals that cut through quickly on his explosive attack and project through Converge's dense, downtuned guitar sections."
       },
       pedals: {
         brand: 'Tama',
-        model: 'Tama Iron Cobra 900 Double Pedal',
-        description: "The Tama Iron Cobra 900 provides the power and reliability Koller needs for sustained double bass blasting through long, intense sets. The direct-drive feel suits his physical, heavy-foot approach.",
+        model: 'Tama Iron Cobra Double Pedal',
+        description: "The Tama Iron Cobra Double Pedal provides the power and reliability Koller needs for sustained double bass blasting through long, intense sets. The direct-drive feel suits his physical, heavy-foot approach.",
         alternative: "Tama Iron Cobra 200 or DW 5000 for similar power and reliability"
       },
       sticks: {
@@ -10298,7 +10298,7 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
         price: "$3,000",
         label: "Intermediate Setup",
         kit: "Tama Superstar Classic ($1,500)",
-        cymbals: "Zildjian K Dark Set ($900)",
+        cymbals: "Zildjian K Custom Set ($900)",
         pedals: "Tama Iron Cobra 200 Double ($350)",
         sticks: "Vic Firth 5B ($10)",
         notes: "Approaching Koller's tone. Tama's direct-drive feel suits his physical double bass approach."
@@ -10306,9 +10306,9 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "Tama Starclassic Maple ($3,000+)",
-        cymbals: "Full Zildjian K Dark selection ($1,800+)",
-        pedals: "Tama Iron Cobra 900 Double ($400)",
+        kit: "Tama Starclassic Performer B/B ($3,000+)",
+        cymbals: "Full Zildjian K Custom & A Custom selection ($1,800+)",
+        pedals: "Tama Iron Cobra Double ($400)",
         heads: "Full Remo setup ($150)",
         notes: "Recording and touring-ready setup matching Koller's Converge sound."
       }
@@ -10320,7 +10320,7 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
       },
       {
         question: "What drums and cymbals does Ben Koller use?",
-        answer: "Koller plays Tama Starclassic Maple drums with a compact setup suited to Converge's intense performances. He uses a brass snare for sharp, cutting crack and dark, trashy Zildjian K Dark cymbals that respond quickly to his explosive attack. He favors heavier sticks for maximum impact."
+        answer: "Koller plays Tama Starclassic Performer B/B drums with a compact setup suited to Converge's intense performances. He uses a brass snare for sharp, cutting crack and responsive Zildjian K Custom & A Custom cymbals that respond quickly to his explosive attack. He favors heavier sticks for maximum impact."
       },
       {
         question: "How do I get the Converge drum sound?",

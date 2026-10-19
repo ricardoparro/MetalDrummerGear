@@ -11414,7 +11414,7 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
         shells: 'Bubinga',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Tama Starclassic Bubinga Snare',
+          snare: '14" x 5.5" Tama Starclassic Bubinga Snare',
           toms: ['10" x 7" Rack Tom', '12" x 8" Rack Tom', '13" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
@@ -11424,9 +11424,9 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
       snare: {
         brand: 'Tama',
         model: 'Starclassic Bubinga Snare',
-        size: '14" x 6.5"',
+        size: '14" x 5.5"',
         shell: 'Bubinga',
-        description: "The 6.5\" bubinga shell adds low-end body to the crack, matching the tonal character of the rest of Frost's Starclassic kit — a snare built to defend a defined frequency window against a wall of guitar saturation.",
+        description: "The 5.5\" bubinga shell adds low-end body to the crack, matching the tonal character of the rest of Frost's Starclassic kit — a snare built to defend a defined frequency window against a wall of guitar saturation.",
         alternative: "Any coated-head steel or bubinga-shell snare tuned medium-bright will approximate the cut."
       },
       cymbals: {
@@ -11448,8 +11448,8 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
         alternative: "DW 5000 Double for similar smooth action at a lower price."
       },
       sticks: {
-        brand: 'Vic Firth / Ahead',
-        model: '5B / Metal Series',
+        brand: 'Vic Firth',
+        model: 'American Classic Extreme 5B',
         specs: 'Heavier weight for durability and power',
         description: "The 5B's added weight and durability suit extended extreme-tempo performances, driving through cymbals and heads with the authority black metal's density demands.",
         alternative: "Promark 5B or Vater Fatback for similar heavier-weight durability."
@@ -11551,7 +11551,7 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
       },
       {
         question: "What kit does Frost from Satyricon use?",
-        answer: "Frost plays a Tama Starclassic Bubinga kit, a setup he's used since 2013, with bubinga shell construction for immediate attack and focused mid-range projection. His setup centers on a double 22\" x 18\" bass drum configuration, a 14\" x 6.5\" Tama Starclassic Bubinga snare, and Zildjian A series cymbals including 14\" New Beat hi-hats and an 18\" China Boy."
+        answer: "Frost plays a Tama Starclassic Bubinga kit, a setup he's used since 2013, with bubinga shell construction for immediate attack and focused mid-range projection. His setup centers on a double 22\" x 18\" bass drum configuration, a 14\" x 5.5\" Tama Starclassic Bubinga snare, and Zildjian A series cymbals including 14\" New Beat hi-hats and an 18\" China Boy."
       },
       {
         question: "How do I get Frost's black metal drum sound?",

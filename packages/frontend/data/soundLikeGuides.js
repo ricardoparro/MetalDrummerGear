@@ -11839,13 +11839,13 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
     readingTime: '9 min',
     intro: {
       title: "Death Metal's Speed Engineer",
-      content: `Tim Yeung is one of death metal's most technically accomplished drummers, known for extreme blast beat tempos and precision double bass technique across Morbid Angel, Hate Eternal, and Divine Heresy. He joined Morbid Angel ahead of Illud Divinum Insanus (2011) and remains the band's drummer through Kingdoms Disdained (2017) and beyond — maintaining the legacy of a band that helped invent technical death metal.
+      content: `Tim Yeung is one of death metal's most technically accomplished drummers, known for extreme blast beat tempos and precision double bass technique across Morbid Angel, Hate Eternal, and Divine Heresy. He joined Morbid Angel in 2010 and recorded all drums on Illud Divinum Insanus (2011) before departing in 2015, helping sustain the legacy of a band that helped invent technical death metal.
 
 What makes Yeung's speed sustainable rather than just impressive is that it's built on relaxation and rebound efficiency, not muscular tension. At 250 BPM, 16th-note patterns arrive faster than muscle strength alone can sustain across a full set — the solution is letting the stick or beater return via its own momentum before applying the next stroke, a principle borrowed from rudiment-based technique training and scaled to extreme tempos.
 
 This guide breaks down the technique, gear, and practice approach behind Yeung's blast beat speed and double bass architecture — essential study for any drummer chasing extreme tempos without burning out mid-song.`,
       keyPoints: [
-        "Morbid Angel's drummer since the Illud Divinum Insanus era, following the band's founding legacy",
+        "Morbid Angel's drummer from 2010-2015, recording Illud Divinum Insanus (2011)",
         "Blast beats documented in the 200-280 BPM range — among the fastest in death metal",
         "Speed built on rebound efficiency and relaxation, not muscular power striking",
         "Also recorded with Hate Eternal and Divine Heresy across Erik Rutan's extreme metal universe"
@@ -11888,7 +11888,6 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
       ],
       keySongs: [
         { song: "Too Extreme!", album: "Illud Divinum Insanus (Morbid Angel)", year: 2011, why: "Debut Morbid Angel blast beat showcase" },
-        { song: "Kingdoms Disdained", album: "Kingdoms Disdained (Morbid Angel)", year: 2017, why: "Most complete Morbid Angel performance, balancing speed with groove" },
         { song: "I, Monarch", album: "I, Monarch (Hate Eternal)", year: 2005, why: "Technical death metal blast beat intensity under Erik Rutan" },
         { song: "Fury & Flames", album: "Fury & Flames (Hate Eternal)", year: 2008, why: "Cited by drummers studying extreme blast beat technique" }
       ]
@@ -12034,8 +12033,8 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
     },
     faq: [
       {
-        question: "Who is the current Morbid Angel drummer?",
-        answer: "Tim Yeung has drummed for Morbid Angel since the lead-up to Illud Divinum Insanus (2011) and remains the band's drummer through Kingdoms Disdained (2017) and beyond, maintaining the legacy of one of death metal's founding bands."
+        question: "When did Tim Yeung play for Morbid Angel?",
+        answer: "Tim Yeung drummed for Morbid Angel from 2010 to 2015, stepping in after Pete Sandoval's back surgery and recording all drums on Illud Divinum Insanus (2011). Scott Fuller recorded Kingdoms Disdained (2017) after Yeung's departure; Morbid Angel's current drummer is Charlie Koryn, who joined in 2023."
       },
       {
         question: "How fast does Tim Yeung play?",

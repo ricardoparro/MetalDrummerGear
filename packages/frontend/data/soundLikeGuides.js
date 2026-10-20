@@ -13642,8 +13642,8 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
       },
       pedals: {
         brand: 'Axis Percussion',
-        model: 'Axis Percussion Double Pedal',
-        description: "Axis pedals are favored by technical drummers for their extreme speed and precision — essential for Bent's clarity-focused blast beat approach.",
+        model: 'Axis A Longboard Double Pedal',
+        description: "Axis pedals are favored by technical drummers for their extreme speed and precision — essential for Bent's clarity-focused blast beat approach. His Axis endorsement dates to 2021; his earlier 2017-2021 Trivium years, including \"The Sin and the Sentence\" and \"What the Dead Men Say,\" predate this deal.",
         alternative: "Tama Speed Cobra or DW 5000 for similarly responsive double bass feel"
       },
       sticks: {
@@ -13738,7 +13738,7 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
         label: "Professional Setup",
         kit: "TAMA Starclassic Maple ($3,000+)",
         cymbals: "Full Zildjian K Custom Hybrid selection ($1,800+)",
-        pedals: "Axis Percussion Double Pedal ($600)",
+        pedals: "Axis A Longboard Double Pedal ($600)",
         heads: "Full Remo setup ($150)",
         notes: "Touring and recording-ready setup matching Bent's Trivium-era rig."
       }
@@ -13750,7 +13750,7 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
       },
       {
         question: "What gear does Alex Bent use?",
-        answer: "Bent plays a TAMA Starclassic Maple kit with a 14\" x 6.5\" maple snare, Zildjian K Custom Hybrid cymbals, an Axis Percussion double pedal, and Vic Firth 5B sticks."
+        answer: "Bent plays a TAMA Starclassic Maple kit with a 14\" x 6.5\" maple snare, Zildjian K Custom Hybrid cymbals, an Axis A Longboard double pedal (endorsed since 2021; his earlier 2017-2021 Trivium years predate this deal), and Vic Firth 5B sticks."
       },
       {
         question: "What was Alex Bent's background before Trivium?",

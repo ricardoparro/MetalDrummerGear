@@ -13486,3 +13486,46 @@ Notable finds: Aquiles Priester's entry fabricates an entire "returned to Angra 
 4. Content-gap: row re-confirmed against standing ruling — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth…cynic).
 5. Drum-chair watch: already logged this week (group 3, zero changes). Next due Monday 2026-10-26, group 0.
+
+---
+
+## 2026-10-20 (first-run-after-07:00 UTC deep run) — soundLikeGuides.js sweep continues, 7 filed (#9386-9392)
+
+### Audit summary
+- robots.txt: all 8 AI crawlers allowed (unchanged, re-confirmed via prior run's live curl, not re-tested this run).
+- `/llms/*.md`: 2,024 files on disk — unchanged, no new-page work (freeze in effect).
+- Bank check: 12 open `seo-proposal` at run start (8 fresh untriaged from the 01:18-01:23 UTC run — #9370-9377 — plus held #7981 and 3 standing umbrellas) — well under the 45 floor → filed 7 more (deliberately under the 8 cap since only 7 of 8 audited drummers returned genuine findings).
+- Drum-chair watch: today is Tuesday, not Monday — skipped per the once-per-Monday rule (last logged 2026-10-19, group 3, zero changes; next due Monday 2026-10-26, group 0).
+
+### Metrics readout
+- GSC 7d: 16,095 impr / 201 clicks / 1.25% CTR / pos 8.6 (metrics.md refreshed 07:09 UTC).
+- GA4 7d: 382u / 433s / 610v. Organic 324/433 (74.8%).
+- Content-gap row: `jaska raatikainen` (72 impr, 1.39% CTR) — standing class-2 bare-name ruling (`learned-patterns.md` line 211, reinforced line 246). No re-action.
+
+### Method
+Continued the `soundLikeGuides.js` file-family sweep exactly where the 01:18-01:23 UTC run left off (its own "Next run" note named the remaining ~39-drummer pool). Dispatched 8 parallel verification subagents on the next unchecked names: gavin-harrison (re-verifying a finding the prior run deferred as too weak), george-kollias, hellhammer, igor-cavalera, inferno, jason-bittner, joey-jordison, jon-dette. Each audited the drummer's full `soundLikeGuides.js` entry against ground truth (`endorsementNews.js`/`bands.js`/`extendedBios.js`/`drummerEvolution.js`/`cymbalSetups.js`/`pedals.js`/`albumArticles/*` as applicable), with a mandatory `gh issue list --state all --search` dedup check.
+
+7 of 8 returned genuine findings — jon-dette came back fully VERIFIED-CLEAN (no drift found after cross-checking the #9084/#9093/#9097 tenure-year saga and the #8044 album-credit fix, both confirmed still intact). Personally re-verified every finding's key file:line citations myself (not just trusting subagent reports) before filing, including live-checking Gavin Harrison's deferred shell-dimension finding against `drummerEvolution.js:13991` and confirming his King Crimson "tense" finding was NOT a bug (the repo's own ground truth uniformly frames King Crimson as present-tense active, so soundLikeGuides.js is consistent with in-repo truth even if that truth may itself be stale re: the band's real-world 2021 pause — out of scope to fix multiple ground-truth files on a tense nuance).
+
+Notable finds: Jason Bittner's entry conflates his 1997 gear-endorsement signing date with his actual 2001 Shadows Fall join date — the third distinct wrong year this exact fact has produced across different files (#9145 fought off a regression to 1999 in a different file; this file independently drifted to 1997). Hellhammer's entry had 4 independent fabrications (shell wood, snare shell material, stick model precision, and a cymbal line that actually belongs to a different drummer, Daray, in this dataset) that survived #9113's birthplace/brand fix because they're different fields. George Kollias's budgetSetups.pro tier and FAQ still said "Pearl Demon Drive" (wrong) even though the main gear field already correctly says "Pearl Demon XR" — same bug shape as closed #9349 (Mike Mangini), just never previously caught for his own guide.
+
+### Proposals filed this run
+1. #9386 — Gavin Harrison soundLikeGuides.js — fabricated kick/tom/floor-tom shell dimensions
+2. #9387 — George Kollias soundLikeGuides.js — budgetSetups.pro + FAQ still fabricate "Pearl Demon Drive" pedal
+3. #9388 — Hellhammer soundLikeGuides.js — fabricated shell material, snare shell, sticks model, cymbal line (4 drift points)
+4. #9389 — Igor Cavalera soundLikeGuides.js — stale Tama-era framing, leftover Evans tuning tip, pedal-era conflation
+5. #9390 — Inferno (Behemoth) soundLikeGuides.js — sticks model missing "Extreme" qualifier, 3 locations
+6. #9391 — Jason Bittner soundLikeGuides.js — Shadows Fall join year conflated with endorsement year, wrong cymbal sizes, fabricated shell material
+7. #9392 — Joey Jordison soundLikeGuides.js — cymbal model names fabricate a non-existent "Paiste Signature Series"
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9370-9377 (01:18-01:23 UTC run, 8 fresh, not yet triaged)
+- #9386-9392 (this run, 7 fresh)
+
+### Next run
+1. Watch #9370-9377 and #9386-9392 pick up via Roadie.
+2. `soundLikeGuides.js` sweep now at ~40/72 checked (jon-dette VERIFIED-CLEAN, no issue needed). Remaining unchecked pool (~32): lars-ulrich, matt-garstka, matt-greiner, matt-halpern, mike-portnoy, mikkey-dee, morgan-agren, nick-augusto, nick-menza, nicko-mcbrain, paul-bostaph, paul-mazurkiewicz, pete-sandoval, ray-luzier, raymond-herrera, richard-christy, ryan-van-poederooyen, scott-travis, sean-reinert, shannon-larkin, tomas-haake, travis-orbin, vinnie-paul (derek-roddy intentionally skipped — overlaps held #7981).
+3. Content-gap: row re-confirmed against standing ruling — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

@@ -106,16 +106,18 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
       },
       cymbals: {
         brand: 'Paiste',
-        series: 'Paiste Signature Series / RUDE Series',
+        series: 'RUDE & 2002 Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Paiste 14" Signature Heavy Hi-Hats', notes: 'Bright and cutting' },
-          { type: 'Crash', model: 'Paiste 18" RUDE Crash/Ride', notes: 'Aggressive and loud' },
-          { type: 'Crash', model: 'Paiste 19" Signature Power Crash', notes: 'Explosive accent cymbal' },
-          { type: 'Crash', model: 'Paiste 20" RUDE Crash/Ride', notes: 'Versatile and aggressive' },
-          { type: 'Ride', model: 'Paiste 22" Signature Power Ride', notes: 'Clear bell, great wash' },
-          { type: 'China', model: 'Paiste 18" RUDE China', notes: 'Trashy, essential for accents' }
+          { type: 'Hi-Hats', model: 'Paiste 14" Wild Hi-Hats', notes: 'Bright and cutting' },
+          { type: 'Crash', model: 'Paiste 16" Power Crash', notes: 'Aggressive and loud' },
+          { type: 'Crash', model: 'Paiste 17" Power Crash', notes: 'Aggressive and loud' },
+          { type: 'Crash', model: 'Paiste 18" Power Crash', notes: 'Versatile and aggressive' },
+          { type: 'Crash', model: 'Paiste 19" Power Crash', notes: 'Explosive accent cymbal' },
+          { type: 'China', model: 'Paiste 20" Wild China', notes: 'Trashy, essential for accents' },
+          { type: 'China', model: 'Paiste 22" Wild China', notes: 'Trashy, essential for accents' },
+          { type: 'Ride', model: 'Paiste 22" Power Ride', notes: 'Clear bell, great wash' }
         ],
-        description: "Joey favored bright, cutting cymbals that could be heard over Slipknot's massive sound. The RUDE series provided the aggression, while Signature series offered musicality."
+        description: "Joey favored bright, cutting cymbals that could be heard over Slipknot's massive sound. The RUDE & 2002 series provided both the aggression and musicality."
       },
       pedals: {
         brand: 'Pearl',

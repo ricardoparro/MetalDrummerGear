@@ -15013,13 +15013,13 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
     readingTime: '9 min',
     intro: {
       title: "Two Bands, One Unshakeable Groove",
-      content: `Jason Bittner has spent over two decades proving that thrash-tempo velocity and metalcore groove aren't opposing skills — they're the same skill applied to different arrangements. As the drummer behind New England's Shadows Fall since 1997, Bittner helped architect the New Wave of American Heavy Metal (NWOAHM), a style that fused melodic metalcore songwriting with thrash-level technical drumming. His breakout performance on "The Light That Blinds" from the Grammy-nominated The War Within (2004) remains a masterclass in dynamic groove control, locking dense double-bass patterns beneath syncopated riffs without ever losing the pocket.
+      content: `Jason Bittner has spent over two decades proving that thrash-tempo velocity and metalcore groove aren't opposing skills — they're the same skill applied to different arrangements. As the drummer behind New England's Shadows Fall since 2001, Bittner helped architect the New Wave of American Heavy Metal (NWOAHM), a style that fused melodic metalcore songwriting with thrash-level technical drumming. His breakout performance on "The Light That Blinds" from the Grammy-nominated The War Within (2004) remains a masterclass in dynamic groove control, locking dense double-bass patterns beneath syncopated riffs without ever losing the pocket.
 
 In 2017, Bittner took on a second full-time chair, joining New Jersey thrash legends Overkill — one of the genre's most demanding and consistent drum seats. Rather than diluting his sound, holding both roles simultaneously sharpened it: Overkill's straight-ahead thrash velocity and Shadows Fall's polyrhythmic NWOAHM textures pull from the same technical foundation, executed with different dynamic intent.
 
 This guide breaks down Bittner's technique, gear, and practice approach — essential study for any drummer who wants to combine metalcore groove sensibility with thrash-metal drive.`,
       keyPoints: [
-        "Shadows Fall drummer since 1997 — co-architect of the New Wave of American Heavy Metal (NWOAHM) sound",
+        "Shadows Fall drummer since 2001 — co-architect of the New Wave of American Heavy Metal (NWOAHM) sound",
         "Overkill's full-time drummer since 2017, one of thrash metal's most demanding drum chairs",
         "Signature performance on \"The Light That Blinds\" (The War Within, 2004) blends groove control with double-bass density",
         "Mapex Saturn V and Zildjian K and A Custom Series gear built to cut through dense, guitar-heavy mixes in both bands"
@@ -15071,7 +15071,7 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
       drumKit: {
         brand: 'Mapex',
         model: 'Mapex Saturn V',
-        shells: 'Maple/Walnut hybrid',
+        shells: 'All-maple',
         finish: 'Various touring finishes across Shadows Fall and Overkill eras',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
@@ -15079,7 +15079,7 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
           toms: ['10" Rack Tom', '12" Rack Tom'],
           floorToms: ['14" Floor Tom', '16" Floor Tom']
         },
-        description: "Bittner's Mapex Saturn V kit, played since 1997, uses maple/walnut hybrid shells: maple plies deliver focused attack while the walnut ply adds warmth and body, preventing the kit from sounding brittle against dense, distorted guitars in both Shadows Fall's NWOAHM arrangements and Overkill's thrash context.",
+        description: "Bittner's Mapex Saturn V kit, played since 1997, uses an all-maple shell pack that balances focused attack with tonal warmth, preventing the kit from sounding brittle against dense, distorted guitars in both Shadows Fall's NWOAHM arrangements and Overkill's thrash context.",
         affiliateNote: "Mapex Armory or Mapex Mars offer a similar attack-forward character for players building toward this setup."
       },
       snare: {
@@ -15094,11 +15094,11 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
         brand: 'Zildjian',
         series: 'Zildjian K and A Custom Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian A Custom 14" Hi-Hats', notes: 'Bright, cutting response for driving 16th-note patterns at thrash and NWOAHM tempos' },
-          { type: 'Crash', model: 'Zildjian A Custom 16" Crash', notes: 'Fast attack, quick decay for rapid accent work' },
-          { type: 'Crash', model: 'Zildjian A Custom 18" Crash', notes: 'Fuller crash for section boundaries and major accents' },
-          { type: 'Ride', model: 'Zildjian K Custom 20" Ride', notes: 'Defined bell for thrash ride patterns, open wash for NWOAHM passages' },
-          { type: 'China', model: 'Zildjian K Custom China', notes: 'Aggressive trash accent for breakdowns and maximum-intensity moments' }
+          { type: 'Hi-Hats', model: 'Zildjian K 14" Hi-Hats', notes: 'Bright, cutting response for driving 16th-note patterns at thrash and NWOAHM tempos' },
+          { type: 'Crash', model: 'Zildjian A Custom 18" Crash', notes: 'Fast attack, quick decay for rapid accent work' },
+          { type: 'Crash', model: 'Zildjian A Custom 19" Crash', notes: 'Fuller crash for section boundaries and major accents' },
+          { type: 'Ride', model: 'Zildjian K Custom 21" Ride', notes: 'Defined bell for thrash ride patterns, open wash for NWOAHM passages' },
+          { type: 'China', model: 'Zildjian K 18" China', notes: 'Aggressive trash accent for breakdowns and maximum-intensity moments' }
         ],
         description: "Zildjian's K and A Custom Series cymbals, played since 1997, project upper harmonics above both bands' guitar density, keeping the hi-hat pulse and ride bell audible even at maximum riff intensity."
       },
@@ -15208,7 +15208,7 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
     faq: [
       {
         question: "What drum kit does Jason Bittner play?",
-        answer: "Jason Bittner plays a Mapex Saturn V kit with maple/walnut hybrid shells, a double 22\" x 18\" bass drum configuration, and a 14\" x 6.5\" Mapex Black Panther Brass snare. His cymbals are Zildjian K and A Custom series, and he uses a Mapex Falcon Double Pedal."
+        answer: "Jason Bittner plays a Mapex Saturn V kit with all-maple shells, a double 22\" x 18\" bass drum configuration, and a 14\" x 6.5\" Mapex Black Panther Brass snare. His cymbals are Zildjian K and A Custom series, and he uses a Mapex Falcon Double Pedal."
       },
       {
         question: "How does Jason Bittner combine NWOAHM groove with thrash drumming?",
@@ -15216,7 +15216,7 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
       },
       {
         question: "What bands has Jason Bittner played in?",
-        answer: "Jason Bittner has drummed for Shadows Fall since 1997, helping define the New Wave of American Heavy Metal sound across albums like The Art of Balance and The War Within. He also played in Flotsam and Jetsam (2013-2017) before joining thrash legends Overkill full-time in 2017, where he remains the band's drummer today."
+        answer: "Jason Bittner has drummed for Shadows Fall since 2001, helping define the New Wave of American Heavy Metal sound across albums like The Art of Balance and The War Within. He also played in Flotsam and Jetsam (2013-2017) before joining thrash legends Overkill full-time in 2017, where he remains the band's drummer today."
       },
       {
         question: "Is Jason Bittner's style good for beginners?",

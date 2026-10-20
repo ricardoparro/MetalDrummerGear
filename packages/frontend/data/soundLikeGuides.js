@@ -13810,7 +13810,7 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
         "Trivium drummer from 2010 to 2014, recording \"In Waves\" and \"Vengeance Falls\"",
         "Brought thrash metal aggression to Trivium's evolving metalcore sound",
         "\"In Waves\" (2011) debuted #13 Billboard 200; \"Vengeance Falls\" (2013) reached #15",
-        "Endorsed Pearl Drums, Sabian Cymbals, and Vic Firth Sticks"
+        "Endorsed Pearl Drums, Sabian Cymbals, and Pro-Mark Sticks"
       ]
     },
     technique: {

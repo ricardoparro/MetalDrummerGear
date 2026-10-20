@@ -4190,10 +4190,10 @@ His dynamic contrast ranges from near-inaudible snare brush textures to enormous
         shells: 'Maple',
         finish: 'Various custom finishes',
         config: {
-          kick: '22" x 18" Bass Drum',
+          kick: '22" x 17" Bass Drum',
           snare: '12" x 5" or 14" x 5.25" Sonor Gavin Harrison Signature',
-          toms: ['8" x 7" Tom', '10" x 8" Tom', '12" x 9" Tom'],
-          floorToms: ['14" x 12" Floor Tom', '16" x 14" Floor Tom']
+          toms: ['10" x 8" Tom', '12" x 9" Tom'],
+          floorToms: ['14" x 13" Floor Tom', '16" x 15" Floor Tom']
         },
         description: "Gavin has been a longtime Sonor SQ2 endorser across different Porcupine Tree eras. The custom-finished maple shells provide the articulate tone his style demands — clear attack with enough warmth to support dynamic passages.",
         affiliateNote: "Sonor SQ2 or Sonor AQ2 are strong choices for capturing Gavin's tone."

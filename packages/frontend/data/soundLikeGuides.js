@@ -11664,7 +11664,7 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
         finish: 'Various custom configurations',
         config: {
           kick: '22" Bass Drum (single kick)',
-          snare: '14" x 5" or 14" x 6" Sonor Designer Snare',
+          snare: '14" x 5.5" Sonor Designer Maple Snare',
           toms: ['10" Rack Tom', '12" Rack Tom'],
           floorToms: ['14" Floor Tom', '16" Floor Tom']
         },
@@ -11673,10 +11673,10 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
       },
       snare: {
         brand: 'Sonor',
-        model: 'Sonor Designer Snare',
-        size: '14" x 5" or 14" x 6"',
-        shell: 'Maple or Beech',
-        description: "Ågren moves between a 5\" depth for jazz-fusion ghost-note sensitivity and a 6\" depth for more body in heavier Devin Townsend Project material — the same instrument reconfigured for different acoustic demands rather than two separate snares.",
+        model: 'Sonor Designer Maple',
+        size: '14" x 5.5"',
+        shell: 'Maple',
+        description: "Ågren's Sonor Designer snare is a 14\" x 5.5\" maple shell, balanced for both whisper-quiet ghost notes and full-force rimshots.",
         alternative: "Pearl Reference or DW Performance Series in a similar depth for comparable sensitivity and body."
       },
       cymbals: {
@@ -11797,7 +11797,7 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
     faq: [
       {
         question: "What kit does Morgan Ågren use?",
-        answer: "Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier fully customizable shell pack built in Germany to individual specification. His configuration typically runs 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a single 22\" bass drum, paired with a Sonor Designer snare in either 14\"x5\" or 14\"x6\" depending on the musical context."
+        answer: "Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier fully customizable shell pack built in Germany to individual specification. His configuration typically runs 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a single 22\" bass drum, paired with a Sonor Designer 14\"x5.5\" Maple snare."
       },
       {
         question: "How do I develop Morgan Ågren's polyrhythm independence?",

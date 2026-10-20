@@ -13441,4 +13441,48 @@ Notable finds: Eloy Casagrande's entire `soundLikeGuides.js` page is still writt
 2. `soundLikeGuides.js` sweep now at 24/72 (danny-carey deferred, see Method) — continue next time the well runs dry, prioritizing: danny-carey (deferred finding ready to file), abe-cunningham/alex-bent/bill-ward/brann-dailor/charlie-benante/danny-carey/eloy-casagrande/hannes-grossmann/mario-duplantier now done; remaining ~48 unchecked (same pool noted in the prior run's entry, minus today's 9).
 3. Danny Carey `soundLikeGuides.js:504` "Designer kit" cross-reference (should say "SQ2 Heavy Beech") — deferred this run for the cap, ready to file next run if bank still has room.
 4. Content-gap: both rows re-confirmed against standing rulings — no re-action.
+
+---
+
+## 2026-10-20 (run, Tuesday) — soundLikeGuides.js sweep continues, 8 filed (#9370-9377)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai) explicitly allowed. ✅
+- `/llms/*.md`: 2,024 files on disk — unchanged, no new-page work (freeze in effect).
+- Bank check: 12 open `seo-proposal` at run start (excl. held #7981, standing umbrellas) — well under the 45 floor → filed 8 (at the cap).
+- Drum-chair watch: today is Tuesday, not Monday — skipped per the once-per-Monday rule (last logged 2026-10-19, group 3, zero changes; next due Monday 2026-10-26, group 0).
+
+### Metrics readout
+- GSC 7d: 16,095 impr / 201 clicks / 1.25% CTR / pos 8.6.
+- GA4 7d: 371u / 420s / 596v. Organic 312/420 (74.3%).
+- Content-gap row: `jaska raatikainen` (72 impr, 1.39% CTR) — standing class-2 bare-name ruling (`learned-patterns.md` line 211, 5-for-5 confirmed do-not-re-attempt). No re-action.
+
+### Method
+Picked up the `soundLikeGuides.js` file-family sweep exactly where the 2026-10-19 13:1x run left off: filed the Danny Carey finding that run had deferred for the cap (verified: line 504's budget-tier note calls his kit the "Designer kit," which is actually Martin Lopez/Morgan Ågren's gear line, not Danny's own verified Sonor SQ2 Heavy Beech — #9370), then dispatched 8 parallel verification subagents on the next unchecked names from the prioritized remaining-pool list: alex-rudinger, aquiles-priester, art-cruz, blake-richardson, chris-adler, daray, flo-mounier, gavin-harrison. Each audited the drummer's full `soundLikeGuides.js` entry against ground truth (`endorsementNews.js`/`bands.js`/`extendedBios.js`/`drummerEvolution.js`/`birthdays.js`/`cymbalSetups.js`/`pedals.js` as applicable), with a mandatory `gh issue list --state all --search` dedup check before reporting.
+
+8 of 8 returned genuine findings — unusually high hit rate, no sign of this file family running dry (now ~32/72 checked). Personally re-verified every finding's key citations (file:line, ground-truth cross-reference) before filing rather than trusting subagent reports verbatim. Consolidated multi-finding-per-drummer reports into one atomic issue each. **Deferred Gavin Harrison's finding** (weakest of the 9: a tense-framing nuance about King Crimson's inactive-since-2021 status, not a clear fabrication, plus one only-PLAUSIBLE shell-dimension mismatch the subagent itself couldn't independently verify) to next run rather than exceed the 8-proposal cap.
+
+Notable finds: Aquiles Priester's entry fabricates an entire "returned to Angra in 2023" narrative plus misattributes the 2010 *Aqua* album (recorded by Ricardo Confessori, 2 years after Priester's actual 2008 departure) — a 3-claim fabrication cluster that the prior `drummerComparisons.js` fix (#9325) never touched since it's a different file. Art Cruz's entry has 4 independent gear fabrications (invented kit model name, invented 2nd kick drum, wrong floor tom sizes, wrong snare shell material) that survived 5 prior fix PRs because none of them included this file. Daray's entry fabricates "historical color" for a different drummer (Nick Barker's 2003 Dimmu Borgir era) with an invented gear brand that ground truth explicitly says is undocumented — a clear verified-only/omit-if-unsure violation (CLAUDE.md rule 2). Alex Rüdinger's entry misattributes Alex Bent's 2020 Trivium recording "Catastrophist" to Rüdinger, who didn't join the band until 2025.
+
+### Proposals filed this run
+1. #9370 — Danny Carey soundLikeGuides.js budget-tier note cross-contaminates with Martin Lopez/Morgan Ågren's "Designer" kit (deferred from 10-19)
+2. #9371 — Alex Rüdinger soundLikeGuides.js keySongs misattributes Trivium's "Catastrophist" (Alex Bent's track)
+3. #9372 — Aquiles Priester soundLikeGuides.js fabricates an Angra 2023 "return" + wrong join year + misattributed Aqua (2010) credit
+4. #9373 — Art Cruz soundLikeGuides.js — fabricated "Classic Maple/Oak" kit name, invented 2nd kick drum, wrong floor tom sizes, wrong snare shell material
+5. #9374 — Blake Richardson soundLikeGuides.js — fabricated Bubinga snare + budgetSetups/description still frozen pre-2018 DW/Meinl era
+6. #9375 — Chris Adler soundLikeGuides.js — fabricated Meinl Mb20 cymbals, steel snare shell (self-contradicting), budgetSetups Mapex Falcon pedal gap
+7. #9376 — Daray soundLikeGuides.js fabricates a wrong-drummer, wrong-gear "Death Cult Armageddon era" historical aside
+8. #9377 — Flo Mounier soundLikeGuides.js — wrong stick model, wrong snare size, fabricated cymbal lineup
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9370-9377 (this run, 8 fresh)
+
+### Next run
+1. Watch #9370-9377 pick up via Roadie.
+2. `soundLikeGuides.js` sweep now at ~32/72 checked. Gavin Harrison's deferred finding (King Crimson tense framing + PLAUSIBLE-only shell-dimension note) ready to file next run if bank still has room — re-verify the shell-dimension sub-finding against an external source before filing, since the subagent itself flagged it as unconfirmed.
+3. Remaining unchecked pool (~39): george-kollias, hellhammer, igor-cavalera, inferno, jason-bittner, joey-jordison, jon-dette, lars-ulrich, matt-garstka, matt-greiner, matt-halpern, mike-portnoy, mikkey-dee, morgan-agren, nick-augusto, nick-menza, nicko-mcbrain, paul-bostaph, paul-mazurkiewicz, pete-sandoval, ray-luzier, raymond-herrera, richard-christy, ryan-van-poederooyen, scott-travis, sean-reinert, shannon-larkin, tomas-haake, travis-orbin, vinnie-paul (derek-roddy intentionally skipped — overlaps the held #7981 snare dispute).
+4. Content-gap: row re-confirmed against standing ruling — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth…cynic).
 5. Drum-chair watch: already logged this week (group 3, zero changes). Next due Monday 2026-10-26, group 0.

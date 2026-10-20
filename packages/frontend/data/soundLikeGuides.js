@@ -1870,7 +1870,7 @@ This guide explores how to develop Brann's flowing style while maintaining the g
       drumKit: {
         brand: 'Tama',
         model: 'Tama Starclassic Performer B/B',
-        shells: 'Maple',
+        shells: 'Birch/Bubinga',
         finish: 'Custom finishes',
         config: {
           kick: '22" x 18" Bass Drum',
@@ -2009,10 +2009,10 @@ This guide explores how to develop Brann's flowing style while maintaining the g
       pro: {
         price: "$7,000+",
         label: "Professional Setup",
-        kit: "DW Collector's Series ($3,500+)",
-        cymbals: "Meinl Byzance Custom Selection ($2,000+)",
-        pedals: "DW 9000 Single ($300)",
-        heads: "Full Remo setup ($150)",
+        kit: "Tama Starclassic Performer B/B ($3,500+)",
+        cymbals: "Meinl Mb20 & Mb8 Series ($2,000+)",
+        pedals: "Tama Speed Cobra Single ($300)",
+        heads: "Full Evans setup ($150)",
         notes: "Brann's professional sound."
       }
     },

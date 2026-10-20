@@ -5436,13 +5436,13 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
     drummerSlug: 'eloy-casagrande',
     drummerId: 7,
     drummerName: 'Eloy Casagrande',
-    band: 'Sepultura',
+    band: 'Sepultura / Slipknot',
     name: 'Eloy Casagrande',
     genre: 'Thrash Metal / Groove Metal',
     priority: 21,
     title: "How to Sound Like Eloy Casagrande: Complete Gear & Technique Guide",
-    description: "Master Eloy Casagrande's explosive Sepultura drumming style. Learn his signature double-bass patterns, Brazilian-groove techniques, exact Tama/Paiste gear setup, and tuning tips to capture the modern Sepultura sound.",
-    seoKeywords: ['eloy casagrande drumming', 'how to sound like eloy casagrande', 'sepultura drums', 'eloy casagrande gear', 'eloy casagrande technique', 'eloy casagrande drum kit', 'sepultura drum sound', 'how to sound like sepultura drums'],
+    description: "Master Eloy Casagrande's explosive drumming style, from his 13-year Sepultura run to his 2024 move to Slipknot. Learn his signature double-bass patterns, Brazilian-groove techniques, exact Tama/Paiste gear setup, and tuning tips.",
+    seoKeywords: ['eloy casagrande drumming', 'how to sound like eloy casagrande', 'sepultura drums', 'slipknot drums eloy casagrande', 'eloy casagrande gear', 'eloy casagrande technique', 'eloy casagrande drum kit', 'sepultura drum sound', 'how to sound like sepultura drums'],
     ogImage: '/images/guides/eloy-casagrande-guide.webp',
     datePublished: '2026-06-24',
     dateModified: '2026-06-24',
@@ -5450,17 +5450,18 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
     wordCount: 2100,
     readingTime: '10 min',
     intro: {
-      title: "The Modern Force Behind Sepultura's Final Chapter",
-      content: `Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) joined Sepultura in 2011 at just 19 years old and spent 13 years driving one of thrash metal's most storied bands through its most technically ambitious era. Voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll, Casagrande is the bridge between Sepultura's legendary past and the explosive future of extreme metal drumming.
+      title: "From Sepultura's Final Chapter to Slipknot's New Era",
+      content: `Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) joined Sepultura in 2011 at just 19 years old and spent 13 years driving one of thrash metal's most storied bands through its most technically ambitious era. Voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll, Casagrande left Sepultura in February 2024 and was officially confirmed as Slipknot's new drummer on May 1, 2024, replacing Jay Weinberg in one of the most high-profile drum chairs in heavy music.
 
 What separates Eloy from his thrash contemporaries is the marriage of raw Brazilian aggression with surgical modern precision. On Quadra (2020), a double concept album of staggering ambition, he plays everything from tribal-groove passages to machine-gun blast beats — often within the same song. His viral drum-cam videos on tracks like "Means To An End" turned heads across the drumming world: this is controlled power at its finest, where every fast figure is played with even dynamics and immaculate timing.
 
-This guide covers Eloy's core technique — double-bass drive, dynamic control, explosive groove-metal pocket — his Tama Starclassic Bubinga and Paiste setup used throughout his Sepultura tenure, and how to practice both dimensions of his playing.`,
+This guide covers Eloy's core technique — double-bass drive, dynamic control, explosive groove-metal pocket — built during his 13-year Sepultura tenure and now carried into his current work with Slipknot, plus his Tama Starclassic Bubinga and Paiste setup and how to practice both dimensions of his playing.`,
       keyPoints: [
         "Eloy joined Sepultura at 19 and drove the band through its most technically ambitious era (2011-2024)",
         "Voted #1 metal drummer in Modern Drummer's 2024 Readers' Poll",
+        "Left Sepultura in February 2024 and joined Slipknot, officially confirmed May 1, 2024, replacing Jay Weinberg",
         "His style fuses Brazilian thrash aggression with modern technical precision and explosive dynamics",
-        "Quadra (2020) and Machine Messiah (2017) are the definitive records for studying his approach"
+        "Quadra (2020) and Machine Messiah (2017) are the definitive records for studying his Sepultura-era approach"
       ]
     },
     technique: {
@@ -5526,7 +5527,7 @@ This guide covers Eloy's core technique — double-bass drive, dynamic control, 
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '14" x 11" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Eloy used Tama Starclassic Bubinga throughout his Sepultura tenure. Bubinga shells are dense, with tight grain that delivers focused attack and less sustain than maple — giving each hit defined edges that suit the riff-locked kick patterns at the center of his style. He uses two independent bass drums rather than a double pedal, eliminating any slave-pedal delay for maximum precision at high speed.",
+        description: "Eloy used Tama Starclassic Bubinga throughout his 13-year Sepultura tenure, and he maintains the same Tama, Paiste, and Evans endorsements now that he's Slipknot's drummer — this is his current rig, not just a historical one. Bubinga shells are dense, with tight grain that delivers focused attack and less sustain than maple — giving each hit defined edges that suit the riff-locked kick patterns at the center of his style. He uses two independent bass drums rather than a double pedal, eliminating any slave-pedal delay for maximum precision at high speed.",
         affiliateNote: "Tama Superstar Classic or Starclassic Walnut/Birch are accessible alternatives with comparable attack and projection."
       },
       snare: {
@@ -5666,11 +5667,15 @@ This guide covers Eloy's core technique — double-bass drive, dynamic control, 
     faq: [
       {
         question: "What drum kit does Eloy Casagrande use?",
-        answer: "Eloy Casagrande plays Tama Starclassic Bubinga drums throughout his Sepultura tenure. The Bubinga series uses dense bubinga wood shells that deliver focused, high-attack sound with naturally controlled sustain — well-suited to the riff-locked double bass patterns at the center of his playing. He uses dual 22\" bass drums (independent, not a double pedal) for maximum precision at high speeds."
+        answer: "Eloy Casagrande plays Tama Starclassic Bubinga drums — the setup he built throughout his 13-year Sepultura tenure and still uses now as Slipknot's drummer. The Bubinga series uses dense bubinga wood shells that deliver focused, high-attack sound with naturally controlled sustain — well-suited to the riff-locked double bass patterns at the center of his playing. He uses dual 22\" bass drums (independent, not a double pedal) for maximum precision at high speeds."
       },
       {
-        question: "What cymbals does Eloy Casagrande use with Sepultura?",
-        answer: "Eloy Casagrande is a Paiste endorser. His Sepultura setup includes 15\" Masters Dark Hi-Hats, Paiste Formula 602 Modern Essentials and 2002 Wild crashes, a Masters Dark Crash, a 2002 Novo China, and a 2002 Power Ride. The Masters Dark series gives dark, controlled response for fast patterns, while the 2002 Wild Crash delivers the explosive impact his thrash passages demand."
+        question: "What cymbals does Eloy Casagrande use with Slipknot?",
+        answer: "Eloy Casagrande is a Paiste endorser and kept the same cymbal setup when he moved from Sepultura to Slipknot in 2024. His setup includes 15\" Masters Dark Hi-Hats, Paiste Formula 602 Modern Essentials and 2002 Wild crashes, a Masters Dark Crash, a 2002 Novo China, and a 2002 Power Ride. The Masters Dark series gives dark, controlled response for fast patterns, while the 2002 Wild Crash delivers the explosive impact his thrash passages demand."
+      },
+      {
+        question: "Did Eloy Casagrande really join Slipknot?",
+        answer: "Yes. Eloy Casagrande left Sepultura in February 2024 after 13 years and was officially confirmed as Slipknot's new drummer on May 1, 2024, taking over the drum chair from Jay Weinberg. He kept his existing Tama, Paiste, and Evans endorsements, so the gear and much of the technique covered in this guide carry directly into his current Slipknot work."
       },
       {
         question: "How does Eloy Casagrande get the Sepultura drum sound?",
@@ -5686,12 +5691,12 @@ This guide covers Eloy's core technique — double-bass drive, dynamic control, 
       },
       {
         question: "How did Eloy Casagrande develop his style?",
-        answer: "Eloy grew up in São Paulo, Brazil, and started drumming at age 7. His primary influences are Igor Cavalera (Sepultura's original drummer — whose tribal groove roots are in Eloy's DNA), Dave Lombardo (thrash precision), and Joey Jordison (extreme metal intensity). He joined Sepultura at 19, stepping directly into one of thrash metal's most demanding roles, and spent 13 years evolving his technique through increasingly ambitious material. The viral drum-cam videos he released during the Quadra cycle — showing his technique in real time — accelerated his international reputation significantly."
+        answer: "Eloy grew up in São Paulo, Brazil, and started drumming at age 7. His primary influences are Igor Cavalera (Sepultura's original drummer — whose tribal groove roots are in Eloy's DNA), Dave Lombardo (thrash precision), and Joey Jordison (extreme metal intensity). He joined Sepultura at 19, stepping directly into one of thrash metal's most demanding roles, and spent 13 years evolving his technique through increasingly ambitious material. The viral drum-cam videos he released during the Quadra cycle — showing his technique in real time — accelerated his international reputation significantly, and that reputation is a big part of why Slipknot recruited him as Jay Weinberg's replacement in 2024."
       }
     ],
     related: {
       drummerProfile: '/drummer/eloy-casagrande',
-      similarDrummers: ['Igor Cavalera', 'Dave Lombardo', 'Jay Weinberg'],
+      similarDrummers: ['Jay Weinberg', 'Igor Cavalera', 'Dave Lombardo'],
       relatedGuides: ['how-to-sound-like-igor-cavalera', 'how-to-sound-like-dave-lombardo', 'how-to-sound-like-jay-weinberg'],
       gearPages: ['/gear/pedals', '/brands/tama', '/brands/paiste']
     },

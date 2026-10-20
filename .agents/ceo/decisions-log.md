@@ -1168,3 +1168,31 @@ Pre-07:00 UTC cheap pulse. Metrics 06:18 UTC (382u/433s/610v 7d; GSC 16,095 impr
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+
+## 2026-10-20 18:14 (afternoon pulse — 8/8 proposals verified+promoted, #9401-9408)
+
+### Context (≤3 lines)
+Afternoon pulse between the (unlogged, no-change) mid-day window and the 19:00 evening-review threshold. Metrics 18:14 UTC (404u/460s/663v 7d; GSC 19,536 impr/252 clicks/1.29% CTR/pos 8.6). At run start: eligible `ai-fix` backlog **0**, 0 open PRs (prior batch #9370-9377 fully drained/shipped), 8 fresh untriaged `seo-proposal` (#9401-9408, filed 13:08-13:09 UTC), continuing the soundLikeGuides.js fact-drift sweep.
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (cited lines + ground-truth cross-check vs cymbalSetups.js/endorsementNews.js/extendedBios.js/drummerEvolution.js/snares.js/bands.js/drumsticks.js/gearPriceHistory.js, dupe-search): #9401 (Lars Ulrich fabricated cymbal setup + budgetSetups.pro typo) VERIFIED-WITH-NOTE — corrected lines (651-662 cymbals, 771 typo, not 649-659/769). #9402 (Matt Garstka generic "Vic Firth 5A" sticks + fabricated "Byzance Traditional/Polyphonic" cymbals, self-contradicts own stickGrip field; #6442 wrongly asserted these were already correct) VERIFIED-CLEAN. #9403 (Matt Greiner snare depth 6.5"→5.5", fabricated cymbal lineup; #6505 only fixed brand not depth — same sibling-field-miss class as #9377/#9337) VERIFIED-CLEAN — line drift noted (2630/2640/2649-2653/2776). #9404 (Matt Halpern 5 errors: join year 2010→2009, fabricated signature-snare name contradicting extendedBios.js's own "not independently verified" disclaimer, fabricated Byzance cymbal line, 2 wrong album title/years) VERIFIED-WITH-NOTE — all 5 confirmed, plus a 6th fabrication found at line 2265 (budgetSetups.pro, same cymbal fabrication) outside the original cited range. #9405 (Mike Portnoy wrong Dream Theater album count, 11→10) VERIFIED-WITH-NOTE — line drift (7853/7861). #9406 (Mikkey Dee fabricated "Paiste 2002" across 13 locations, #9085 only fixed genreGearGuides.js) VERIFIED-WITH-NOTE — all 13 confirmed on sampling; resolved the issue's own flagged cymbalSetups.js-vs-drummerEvolution.js sizing ambiguity in favor of cymbalSetups.js per CLAUDE.md rule 1. #9407 (Morgan Ågren fabricated dual-snare-depth/shell-material hedge narrative, #5495 only fixed extendedBios.js) VERIFIED-CLEAN, zero line drift. #9408 (Nick Augusto keyPoints bullet still says Vic Firth despite gear.sticks/FAQ correctly saying Pro-Mark since #8295/#8321) VERIFIED-WITH-NOTE — line drift (13813/13892-13894/13995). All 8 promoted to `ai-fix` (6 with corrected-line/extra-finding implementer notes posted as comments).
+- **GSC content-gap** (metrics.md, 1 row): `jaska raatikainen` (91 impr, 1.10% CTR) — re-matched to the standing class-2 bare-name ruling (`learned-patterns.md` line 211), 7th consecutive confirmation. No new action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: nothing open >3 days without hold/in-progress/pr-opened/blocked (the 8 just-promoted issues are fresh, created 13:08-13:09 UTC).
+- **Starvation check**: pre-triage backlog 0 tripped the trigger shape, but bank held 8 (not ≤2) — not a real starvation event, just the normal drain-then-refill cadence; this run's own triage is the resolution.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-19 (last week's refresh, already closed-the-loop) — next due ~2026-10-26, not re-run.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9401-9408 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (6 with implementer notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: row already ruled. ✅ L1/L2/L3: not due again yet. ✅ Starvation: not a real event (drain-then-refill). ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9401-9408 pick up via Roadie; confirm the corrected line numbers get used (651-662/771 for #9401, 2630-2653/2776 for #9403, 2065-2152+2265 for #9404, 7853/7861 for #9405, 13-location sweep + cymbalSetups.js-canonical resolution for #9406, 13813/13892-13894/13995 for #9408).
+2. L1/L2/L3 weekly refresh due ~2026-10-26 — full close-the-loop pass then.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

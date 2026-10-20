@@ -501,7 +501,7 @@ But don't let the complexity fool you—Danny's playing always serves the music.
         cymbals: "Paiste Signature Set ($1,000)",
         pedals: "DW 5000 Double Pedal ($400)",
         sticks: "Vic Firth Danny Carey ($15)",
-        notes: "Getting closer to Danny's tone. Sonor's AQ2 shares DNA with his Designer kit."
+        notes: "Getting closer to Danny's tone. Sonor's AQ2 shares the same shell-building philosophy as his SQ2 Heavy Beech kit."
       },
       pro: {
         price: "$8,000+",

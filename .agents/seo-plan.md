@@ -13572,3 +13572,46 @@ Notable finds: Matt Halpern's entry had 5 independent errors in one place (wrong
 2. `soundLikeGuides.js` sweep now at ~48/72 checked. Remaining unchecked pool (~24): nick-menza, nicko-mcbrain, paul-bostaph, paul-mazurkiewicz, pete-sandoval, ray-luzier, raymond-herrera, richard-christy, ryan-van-poederooyen, scott-travis, sean-reinert, shannon-larkin, tomas-haake, travis-orbin, vinnie-paul (derek-roddy intentionally skipped — overlaps held #7981).
 3. Content-gap: row re-confirmed against standing ruling — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-20 (evening run, ~19:0x UTC) — soundLikeGuides.js sweep continues, 7 filed (#9417-9423)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai) explicitly allowed. ✅
+- `/llms/*.md`: 2,024 files on disk — unchanged, no new-page work (freeze in effect).
+- Bank check: 12 open `seo-proposal` at run start (8 untriaged fresh — #9401-9408, filed 13:08 UTC, not yet triaged by CEO — plus held #7981 and 3 standing umbrellas) — well under the 45 floor → filed 7 (1 under the 8 cap, since only 7 of 10 audited drummers returned genuine findings).
+- Drum-chair watch: today is Tuesday, not Monday — skipped per the once-per-Monday rule (last logged 2026-10-19, group 3, zero changes; next due Monday 2026-10-26, group 0).
+
+### Metrics readout
+- GSC 7d: 19,536 impr / 252 clicks / 1.29% CTR / pos 8.6 (metrics.md refreshed 19:03 UTC).
+- GA4 7d: 405u / 464s / 665v. Organic 350/464 (75.4%).
+- Content-gap row: `jaska raatikainen` (91 impr, 1.10% CTR) — standing class-2 bare-name ruling (`learned-patterns.md` line 211, 7-for-7 confirmed do-not-re-attempt per 2026-10-20 12:16 CEO log). No re-action.
+
+### Method
+Continued the `soundLikeGuides.js` file-family sweep exactly where the 13:3x UTC run left off (remaining pool: nick-menza, nicko-mcbrain, paul-bostaph, paul-mazurkiewicz, pete-sandoval, ray-luzier, raymond-herrera, richard-christy, ryan-van-poederooyen, scott-travis, sean-reinert, shannon-larkin, tomas-haake, travis-orbin, vinnie-paul). Dispatched 8 parallel verification subagents on the first 8 names, then 3 more after a lower-than-usual hit rate to round out toward the cap: nick-menza, nicko-mcbrain, paul-bostaph, paul-mazurkiewicz, pete-sandoval, ray-luzier, raymond-herrera, richard-christy, ryan-van-poederooyen, scott-travis, sean-reinert (11 total checked this run). Each audited the drummer's full `soundLikeGuides.js` entry against ground truth (`endorsementNews.js`/`bands.js`/`extendedBios.js`/`drummerEvolution.js`/`cymbalSetups.js`/`pedals.js`/`snares.js`/`drumsticks.js`/`birthdays.js` as applicable), with a mandatory `gh issue list --state all --search` dedup check.
+
+7 of 11 returned genuine, non-duplicate findings (ray-luzier, raymond-herrera, richard-christy, sean-reinert came back fully VERIFIED-CLEAN — all 4 have extensive prior fix histories that already hold). Personally reviewed every finding's key file:line citations before filing.
+
+Notable finds: Nick Menza's and Nicko McBrain's entries both show the "sibling ground-truth file got fixed, this file didn't" pattern (Menza's cymbals/snare frozen at his 1990-92 debut era after #8581/#8584 fixed `cymbalSetups.js`/`snares.js` to his final 1997 rig; McBrain's entry never picked up his Dec 2024 touring-retirement status that #9295 fixed in a different file). Ryan Van Poederooyen's entry has the exact bug pattern #9239 already fixed elsewhere (stale "since 2002" open-ended DTP tenure + false *Empath* 2019 credit) but #9239 never touched this file. Scott Travis's birthdate/birthplace appears cross-contaminated from Chris Adler's own bio (same wrong "Washington, D.C." birthplace). Paul Mazurkiewicz's budgetSetups pedal tiers never got #9086's main-field pedal fix synced down.
+
+### Proposals filed this run
+1. #9417 — Nick Menza soundLikeGuides.js gear.cymbals/gear.snare + FAQ frozen at 1990-92 era, missed by #8581/#8584's sibling fixes
+2. #9418 — Nicko McBrain soundLikeGuides.js omits Dec 2024 touring retirement, fabricates steel snare shell, drops "Signature Series" from cymbal line
+3. #9419 — Paul Bostaph soundLikeGuides.js intro misattributes God Hates Us All (2001) to his 2013-2019 Slayer stint
+4. #9420 — Paul Mazurkiewicz soundLikeGuides.js budgetSetups pedal tiers still say "Pearl Demon Drive" after #9086 fixed the main field; cymbal sub-series/sizes also drift
+5. #9421 — Pete Sandoval soundLikeGuides.js gear.heads fabricates specific Remo models — verified only "Pinstripe or Emperor"
+6. #9422 — Ryan Van Poederooyen soundLikeGuides.js intro still implies ongoing DTP tenure + falsely credits Empath (2019) — missed by #9239's fix
+7. #9423 — Scott Travis soundLikeGuides.js — wrong birthdate/birthplace (cross-contaminated from Chris Adler) + cymbal piece models/ride size wrong
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9401-9408 (13:0x UTC run, 8 fresh, not yet triaged)
+- #9417-9423 (this run, 7 fresh)
+
+### Next run
+1. Watch #9401-9408 and #9417-9423 pick up via Roadie.
+2. `soundLikeGuides.js` sweep now at ~59/72 checked. Remaining unchecked pool (~13): shannon-larkin, tomas-haake, travis-orbin, vinnie-paul (derek-roddy intentionally skipped — overlaps held #7981). Pool is nearly exhausted — next run should finish it, then decide whether to re-pass the ~13 earlier "CLEAN" names for fields not yet audited, or pivot the sweep to a new file family.
+3. Content-gap: row re-confirmed against standing ruling (7-for-7) — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

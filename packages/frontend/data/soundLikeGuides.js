@@ -13364,14 +13364,14 @@ This guide breaks down the technique, gear, and practice approach behind Cruz's 
       title: "Cruz's Gear Setup",
       drumKit: {
         brand: 'Ludwig',
-        model: 'Ludwig Drums (Classic Maple/Oak)',
+        model: 'Ludwig Kit',
         shells: 'Maple/Oak',
         finish: 'Various finishes across album eras',
         config: {
-          kick: '22" x 18" Bass Drums (x2, double bass configuration)',
+          kick: '22" x 18" Bass Drum (single kick, driven by double pedal)',
           snare: 'Ludwig 14" x 6.5" Black Beauty Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
-          floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
+          floorToms: ['14" x 16" Floor Tom', '16" x 16" Floor Tom']
         },
         description: "Ludwig's shell construction delivers a full, powerful low end suited to groove metal's sustained heaviness, while staying responsive enough for Cruz's precise, syncopated riff-lock patterns.",
         affiliateNote: "Pearl Export or Tama Imperialstar offer a similar full, powerful attack at a lower price point."
@@ -13380,9 +13380,9 @@ This guide breaks down the technique, gear, and practice approach behind Cruz's 
         brand: 'Ludwig',
         model: 'Ludwig 14" x 6.5" Black Beauty',
         size: '14" x 6.5"',
-        shell: 'Bronze (Black Beauty)',
-        description: "The legendary Black Beauty's bronze shell delivers a full, cutting crack with rich overtones — powerful enough to anchor Lamb of God's heaviest sections while staying sensitive for ghost-note dynamics.",
-        alternative: "Any 14\" bronze or brass shell snare tuned medium-high will approximate the crack."
+        shell: 'Brass (Black Beauty)',
+        description: "The legendary Black Beauty's brass shell delivers a full, cutting crack with rich overtones — powerful enough to anchor Lamb of God's heaviest sections while staying sensitive for ghost-note dynamics.",
+        alternative: "Any 14\" brass or bronze shell snare tuned medium-high will approximate the crack."
       },
       cymbals: {
         brand: 'Zildjian',
@@ -13429,8 +13429,8 @@ This guide breaks down the technique, gear, and practice approach behind Cruz's 
       snare: {
         tension: "Medium-high",
         muffling: "Light",
-        description: "The Black Beauty's bronze shell cuts through Lamb of God's downtuned mix at a medium-high tension without losing its rich overtone character.",
-        tip: "Don't over-tighten past medium-high — the Black Beauty's tone comes from letting the bronze shell resonate, not choking it."
+        description: "The Black Beauty's brass shell cuts through Lamb of God's downtuned mix at a medium-high tension without losing its rich overtone character.",
+        tip: "Don't over-tighten past medium-high — the Black Beauty's tone comes from letting the brass shell resonate, not choking it."
       },
       toms: {
         tension: "Medium",
@@ -13493,7 +13493,7 @@ This guide breaks down the technique, gear, and practice approach behind Cruz's 
       pro: {
         price: "$5,800+",
         label: "Professional Setup",
-        kit: "Ludwig Classic Maple ($3,300+)",
+        kit: "Ludwig Kit ($3,300+)",
         cymbals: "Full Zildjian A Custom selection ($1,900+)",
         pedals: "Trick Pro 1-V Double Pedal ($600)",
         heads: "Full Evans setup ($350)",

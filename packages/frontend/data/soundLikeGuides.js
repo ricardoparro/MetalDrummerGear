@@ -15249,13 +15249,13 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
     readingTime: '9 min',
     intro: {
       title: "Alternative Metal's Master of Restraint",
-      content: `Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across more than three decades and nine studio albums, from 1995's "Adrenaline" through the Grammy-winning "White Pony" (2000) to 2020's "Ohms." In a genre that often rewards speed and technical showmanship, Cunningham built his reputation on the opposite: taste, space, and dynamic intelligence.
+      content: `Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across more than three decades and ten studio albums, from 1995's "Adrenaline" through the Grammy-winning "White Pony" (2000) to 2025's "Private Music." In a genre that often rewards speed and technical showmanship, Cunningham built his reputation on the opposite: taste, space, and dynamic intelligence.
 
 What separates Cunningham from most metal drummers is his willingness to underplay. His parts breathe with the emotional arc of a song rather than existing as a technical showcase — a whisper-quiet verse can explode into a crushing chorus without ever feeling like two different drummers playing. That ambient-heavy, texture-over-technique approach is a distinct niche from pure blast-beat metal, and it's exactly what makes Deftones' alt-metal/post-metal crossover sound so distinctive.
 
 This guide breaks down the technique, gear, and practice approach behind Cunningham's sound — from his Tama Starclassic Maple/Bubinga kit and Zildjian A Custom/K Custom hybrid cymbals to the unconventional snare placements and dynamic control that define alternative metal's most tasteful drummer.`,
       keyPoints: [
-        "Founding member and sole drummer of Deftones since 1988, spanning nine studio albums",
+        "Founding member and sole drummer of Deftones since 1988, spanning ten studio albums",
         "Prioritizes dynamic restraint and space over technical showmanship",
         "Ambient-heavy, texture-focused playing style distinct from pure metal blast approaches",
         "Grammy winner for \"Elite\" (White Pony, 2000, Best Metal Performance)"
@@ -15312,7 +15312,7 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
         finish: 'Custom finishes (varies by tour)',
         config: {
           kick: '22" x 18" Bass Drum',
-          snare: '14" x 8" Tama S.L.P. Big Black Steel',
+          snare: '14" x 6.5" Matching Tama Starclassic Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
@@ -15321,28 +15321,28 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
       },
       snare: {
         brand: 'Tama',
-        model: 'Tama S.L.P. Big Black Steel',
-        size: '14" x 8"',
-        shell: 'Steel',
-        description: "A deep steel shell delivers the crack and cut essential for Deftones' heavier moments, while the extra depth gives Cunningham room to tune for a satisfying fundamental note and sensitive ghost-note response.",
-        alternative: "Any deep (8\" or deeper) steel-shell snare tuned medium will approximate the crack and body."
+        model: 'Tama Starclassic (matching shell pack; no separate model documented)',
+        size: '14" x 6.5"',
+        shell: 'Maple/Bubinga',
+        description: "Cunningham's snare matches his Starclassic Maple/Bubinga shell pack rather than a separate signature model, delivering the crack and cut essential for Deftones' heavier moments while giving him room to tune for a satisfying fundamental note and sensitive ghost-note response.",
+        alternative: "Any matching Maple/Bubinga shell-pack snare tuned medium will approximate the crack and body."
       },
       cymbals: {
         brand: 'Zildjian',
         series: 'Zildjian A Custom / K Custom Hybrid',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" A New Beat Hi-Hats', notes: 'Versatile, articulate response across Deftones\' wide dynamic range' },
-          { type: 'Crash', model: 'Zildjian 16" A Custom Crash', notes: 'Quick attack for accents' },
-          { type: 'Crash', model: 'Zildjian 18" A Custom Crash', notes: 'Primary crash for heavier moments' },
-          { type: 'Ride', model: 'Zildjian 21" K Custom Ride', notes: 'Dark, complex wash for atmospheric sections' },
-          { type: 'China', model: 'Zildjian 18" A Custom China', notes: 'Trashy accents for the heaviest passages' }
+          { type: 'Hi-Hats', model: 'Zildjian 14" K Custom Hi-Hats', notes: 'Versatile, articulate response across Deftones\' wide dynamic range' },
+          { type: 'Crash', model: 'Zildjian 18" K Custom Crash', notes: 'Quick attack for accents' },
+          { type: 'Crash', model: 'Zildjian 20" K Custom Crash', notes: 'Primary crash for heavier moments' },
+          { type: 'Ride', model: 'Zildjian 22" K Custom Ride', notes: 'Dark, complex wash for atmospheric sections' },
+          { type: 'China', model: 'Zildjian 19" A Custom China', notes: 'Trashy accents for the heaviest passages' }
         ],
-        description: "The hybrid A Custom / K Custom approach reflects Deftones' musical duality: A Custom crashes deliver modern brightness for crushing moments, while the K Custom ride provides dark, complex wash that blends into the band's shimmering, atmospheric sections."
+        description: "The hybrid A Custom / K Custom approach reflects Deftones' musical duality: the K Custom hi-hats, crashes, and ride provide a dark, complex core voice, while the A Custom china punches through with modern brightness for the heaviest, trashiest accents."
       },
       pedals: {
         brand: 'Tama',
-        model: 'Tama Iron Cobra 900 Rolling Glide',
-        description: "A smooth, finesse-oriented pedal feel that suits Cunningham's dynamics-first approach to bass drum work over raw double-bass speed.",
+        model: 'Tama Iron Cobra Power Glide Twin Pedal (HP900PTW)',
+        description: "A smooth, finesse-oriented pedal feel that suits Cunningham's dynamics-first approach to bass drum work over raw double-bass speed. He pairs it with a Tama Iron Cobra Lever Glide Hi-Hat (HH905).",
         alternative: "DW 5000 or Pearl Eliminator for similarly smooth, controllable action."
       },
       sticks: {
@@ -15437,19 +15437,19 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
         label: "Professional Setup",
         kit: "Tama Starclassic Maple/Bubinga ($3,500+)",
         cymbals: "Full A Custom / K Custom hybrid selection ($1,800+)",
-        pedals: "Tama Iron Cobra 900 Rolling Glide ($300)",
-        heads: "Full Evans setup ($200)",
+        pedals: "Tama Iron Cobra Power Glide Twin Pedal ($300)",
+        heads: "Full Remo setup ($200)",
         notes: "Touring-ready setup matching Cunningham's current rig, built around warmth and dynamic sensitivity across the full range."
       }
     },
     faq: [
       {
         question: "Who is Abe Cunningham and why is his drumming influential?",
-        answer: "Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across nine studio albums, from \"Adrenaline\" (1995) through \"Ohms\" (2020). His dynamic, restraint-focused approach — prioritizing taste and emotional arc over technical showmanship — helped define alternative metal's atmospheric identity. \"Elite\" from White Pony won a Grammy for Best Metal Performance in 2001."
+        answer: "Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across ten studio albums, from \"Adrenaline\" (1995) through \"Private Music\" (2025). His dynamic, restraint-focused approach — prioritizing taste and emotional arc over technical showmanship — helped define alternative metal's atmospheric identity. \"Elite\" from White Pony won a Grammy for Best Metal Performance in 2001."
       },
       {
         question: "What gear should I use to sound like Abe Cunningham?",
-        answer: "Cunningham plays a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14\" x 8\" snare, a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra 900 Rolling Glide pedal, and Zildjian Abe Cunningham Artist Series signature sticks. A budget setup can approximate this with any warm-sounding kit, a deep steel or maple snare, and a mix of bright and dark cymbals."
+        answer: "Cunningham plays a Tama Starclassic Maple/Bubinga kit with a matching Tama Starclassic snare (no separate model documented), a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra Power Glide Twin Pedal, and Zildjian Abe Cunningham Artist Series signature sticks. A budget setup can approximate this with any warm-sounding kit, a deep steel or maple snare, and a mix of bright and dark cymbals."
       },
       {
         question: "What tempo should I practice at to sound like Abe Cunningham?",
@@ -15461,7 +15461,7 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
       },
       {
         question: "What Deftones albums showcase Abe Cunningham's playing best?",
-        answer: "\"White Pony\" (2000) is the definitive showcase, featuring the Grammy-winning \"Elite\" and the dynamic-build masterclass \"Digital Bath.\" \"Around the Fur\" (1997) shows his early unconventional snare placement, while \"Diamond Eyes\" (2010) and \"Ohms\" (2020) demonstrate how his restraint-focused approach matured across three decades."
+        answer: "\"White Pony\" (2000) is the definitive showcase, featuring the Grammy-winning \"Elite\" and the dynamic-build masterclass \"Digital Bath.\" \"Around the Fur\" (1997) shows his early unconventional snare placement, while \"Diamond Eyes\" (2010) and \"Private Music\" (2025) demonstrate how his restraint-focused approach matured across three decades."
       }
     ],
     related: {

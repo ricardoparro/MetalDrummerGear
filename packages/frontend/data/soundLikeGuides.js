@@ -2627,7 +2627,7 @@ His 2017 Vic Firth Matt Greiner Signature stick cemented his status among the ge
         finish: 'Custom ABR configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Mapex Black Panther Snare',
+          snare: '14" x 5.5" Mapex Black Panther Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
@@ -2637,7 +2637,7 @@ His 2017 Vic Firth Matt Greiner Signature stick cemented his status among the ge
       snare: {
         brand: 'Mapex',
         model: 'Mapex Black Panther Snare',
-        size: '14" x 6.5"',
+        size: '14" x 5.5"',
         shell: 'Maple',
         description: "Matt's Black Panther snare balances warmth and crack — bright enough to cut through metalcore mixes, with enough body for sensitive ghost-note passages. The maple shell adds depth without harshness.",
         alternative: "Mapex Armory or Ludwig Supraphonic for similar balance"
@@ -2647,10 +2647,12 @@ His 2017 Vic Firth Matt Greiner Signature stick cemented his status among the ge
         series: 'Paiste Formula 602',
         setup: [
           { type: 'Hi-Hats', model: 'Paiste 14" Formula 602 Hi-Hats', notes: 'Bright and cutting for fast metalcore patterns' },
-          { type: 'Crash', model: 'Paiste 17" Formula 602 Thin Crash', notes: 'Quick response for accented crashes' },
-          { type: 'Crash', model: 'Paiste 19" Formula 602 Crash', notes: 'Full-bodied with complex overtones' },
-          { type: 'Ride', model: 'Paiste 21" Formula 602 Ride', notes: 'Clear bell for textural ride work' },
-          { type: 'China', model: 'Paiste 18" Formula 602 China', notes: 'Aggressive accent for blast sections' }
+          { type: 'Crash', model: 'Paiste 16" Formula 602 Crash', notes: 'Quick response for accented crashes' },
+          { type: 'Crash', model: 'Paiste 17" Formula 602 Crash', notes: 'Balanced midpoint between the 16" and 18"' },
+          { type: 'Crash', model: 'Paiste 18" Formula 602 Crash', notes: 'Full-bodied with complex overtones' },
+          { type: 'Ride', model: 'Paiste 22" Formula 602 Ride', notes: 'Clear bell for textural ride work' },
+          { type: 'China', model: 'Paiste 18" Formula 602 China', notes: 'Aggressive accent for blast sections' },
+          { type: 'Splash', model: 'Paiste 10" Formula 602 Splash', notes: 'Quick accent for ghost-note transitions' }
         ],
         description: "Matt's Paiste Formula 602 setup prioritizes versatility — bright enough for metalcore aggression, complex enough for jazz-influenced passages. The Formula 602 line suits his dynamic range."
       },
@@ -2773,7 +2775,7 @@ His 2017 Vic Firth Matt Greiner Signature stick cemented his status among the ge
     faq: [
       {
         question: "What snare does Matt Greiner use?",
-        answer: "Matt Greiner uses a Mapex Black Panther Snare — a 14\" x 6.5\" maple shell snare from his Mapex Black Panther Design Lab kit, endorsed since 2016. The maple shell delivers warmth and crack suited to both metalcore aggression and ghost-note sensitivity."
+        answer: "Matt Greiner uses a Mapex Black Panther Snare — a 14\" x 5.5\" maple shell snare from his Mapex Black Panther Design Lab kit, endorsed since 2016. The maple shell delivers warmth and crack suited to both metalcore aggression and ghost-note sensitivity."
       },
       {
         question: "Does Matt Greiner use double bass?",

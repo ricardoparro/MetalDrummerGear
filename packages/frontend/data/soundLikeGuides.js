@@ -10607,7 +10607,7 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
     genre: 'Progressive Metal / Technical Metal',
     priority: 40,
     title: "How to Sound Like Blake Richardson: Complete Gear & Technique Guide",
-    description: "Master Blake Richardson's progressive metal drumming. Learn his hybrid blast and odd-time technique, BTBAM's polyrhythmic approach, DW setup, and the practice system behind one of prog metal's most innovative drummers.",
+    description: "Master Blake Richardson's progressive metal drumming. Learn his hybrid blast and odd-time technique, BTBAM's polyrhythmic approach, Tama/Sabian setup, and the practice system behind one of prog metal's most innovative drummers.",
     seoKeywords: ['blake richardson drums', 'how to sound like blake richardson', 'between the buried and me drummer', 'blake richardson technique', 'progressive metal drumming', 'blake richardson gear'],
     ogImage: '/images/guides/blake-richardson-guide.webp',
     datePublished: '2026-06-28',
@@ -10681,7 +10681,7 @@ This guide breaks down the technique, gear, and practice approach behind Richard
         finish: 'Custom finish',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Starclassic Bubinga Snare',
+          snare: '14" x 6" Tama STARPHONIC Brass Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
@@ -10690,11 +10690,11 @@ This guide breaks down the technique, gear, and practice approach behind Richard
       },
       snare: {
         brand: 'Tama',
-        model: 'Starclassic Bubinga Snare',
-        size: '14" x 6.5"',
-        shell: 'Bubinga',
-        description: "A bubinga snare provides warmth and body that suits both the brutal blast sections and the melodic prog passages of BTBAM's music. Richardson needs a snare that sounds natural and musical across extreme dynamic contexts.",
-        alternative: "Tama Starclassic Performer or Ludwig Classic Maple for similar warmth"
+        model: 'STARPHONIC 14"x6" Brass',
+        size: '14" x 6"',
+        shell: 'Brass',
+        description: "A brass STARPHONIC snare delivers the cutting crack that drives BTBAM's blast beats and odd-meter grooves, cutting through both the brutal blast sections and the melodic prog passages of BTBAM's music.",
+        alternative: "Tama STARPHONIC Steel or Ludwig Black Beauty for similar brass/metal crack"
       },
       cymbals: {
         brand: 'Sabian',
@@ -10740,8 +10740,8 @@ This guide breaks down the technique, gear, and practice approach behind Richard
       snare: {
         tension: "Medium",
         muffling: "Minimal",
-        description: "A maple snare at medium tension provides body and warmth with enough crack to cut through heavy sections. Richardson needs a versatile snare that doesn't sound clinical on quiet passages or lose definition during blasts.",
-        tip: "Let the maple shell breathe — minimal muffling allows the warmth to come through, which matters in BTBAM's melodic sections."
+        description: "A brass STARPHONIC snare at medium tension provides the cutting crack to drive the heavy blast sections while still speaking clearly in quieter passages. Richardson needs a versatile snare that doesn't sound clinical on quiet passages or lose definition during blasts.",
+        tip: "Keep muffling minimal — the brass shell's natural crack and overtones are what cut through BTBAM's dense mixes."
       },
       toms: {
         tension: "Medium",
@@ -10786,29 +10786,29 @@ This guide breaks down the technique, gear, and practice approach behind Richard
       budget: {
         price: "$1,200",
         label: "Starter Setup",
-        kit: "DW Design Series with 3 rack toms ($800)",
-        cymbals: "Meinl HCS Pack + extra crash ($300)",
-        pedals: "DW 5000 Double ($150)",
+        kit: "Tama Imperialstar with 3 rack toms ($700)",
+        cymbals: "Sabian SBR Series + extra crash ($300)",
+        pedals: "Tama Speed Cobra 250 ($150)",
         sticks: "Vic Firth 5A ($10)",
         notes: "Three rack toms are important — Richardson's melodic orchestrations need the pitch range."
       },
       mid: {
         price: "$3,200",
         label: "Intermediate Setup",
-        kit: "DW Performance Series with 3 rack toms ($1,800)",
-        cymbals: "Meinl Byzance Traditional Set ($900)",
-        pedals: "DW 9000 Double ($350)",
+        kit: "Tama Superstar Classic with 3 rack toms ($1,800)",
+        cymbals: "Sabian AAX Series Set ($900)",
+        pedals: "Tama Iron Cobra 900 Double ($350)",
         sticks: "Vic Firth 5A ($10)",
-        notes: "The Byzance cymbals make a significant difference — their complex overtones suit BTBAM's musical range."
+        notes: "The AAX cymbals get you much closer to Richardson's complex HHX/AAX overtones than entry-level cymbals."
       },
       pro: {
         price: "$5,800+",
         label: "Professional Setup",
-        kit: "DW Collector's Series with 3 rack toms ($3,500+)",
-        cymbals: "Full Meinl Byzance Traditional selection ($1,800+)",
-        pedals: "DW 9002 or 9000 ($400)",
-        heads: "Full Remo setup ($150)",
-        notes: "Recording and touring-ready setup matching Richardson's BTBAM sound."
+        kit: "Tama Starclassic Performer with 3 rack toms ($3,500+)",
+        cymbals: "Full Sabian HHX Evolution / AAX selection ($1,800+)",
+        pedals: "Twin Tama Iron Cobra Power Glide single pedals ($400)",
+        heads: "Full Evans setup ($150)",
+        notes: "Recording and touring-ready setup matching Richardson's current Tama/Sabian sound."
       }
     },
     faq: [
@@ -10837,7 +10837,7 @@ This guide breaks down the technique, gear, and practice approach behind Richard
       drummerProfile: '/drummer/blake-richardson',
       similarDrummers: ['Ben Koller', 'Matt Halpern', 'Brann Dailor'],
       relatedGuides: ['how-to-sound-like-ben-koller', 'how-to-sound-like-brann-dailor'],
-      gearPages: ['/gear/drums', '/brands/dw', '/brands/meinl']
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/sabian']
     },
     licksUrl: '/drummers/blake-richardson/licks',
     relatedArticles: [

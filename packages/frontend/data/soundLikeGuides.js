@@ -8732,7 +8732,7 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth 5B',
+        model: 'Vic Firth American Classic Extreme 5B',
         specs: '5B length and girth, wood tip',
         description: "Inferno uses heavy sticks for the power demands of Behemoth's stage volumes. The 5B provides extra mass for cymbal attack and snare projection without sacrificing the control needed for blast beat precision.",
         alternative: "Promark 5B or Vater 5B for comparable weight and balance"
@@ -8813,7 +8813,7 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
         kit: "Pearl Export Series ($650) — Pearl family, road-proven construction",
         cymbals: "Paiste PST 7 set ($300) — Paiste character at entry price",
         pedals: "Pearl P930 Double Pedal ($150)",
-        sticks: "Vic Firth 5B ($10)",
+        sticks: "Vic Firth American Classic Extreme 5B ($10)",
         notes: "Pearl Export gives you the Pearl maple feel at an accessible price. PST 7 introduces Paiste's sonic character before committing to RUDE."
       },
       mid: {
@@ -8822,7 +8822,7 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
         kit: "Pearl Masters Maple Complete ($2,000)",
         cymbals: "Paiste RUDE starter set ($900) — Inferno's actual cymbal line",
         pedals: "Monolit Czarcie Kopyto Double ($600) — Inferno's actual pedal",
-        sticks: "Vic Firth 5B ($10)",
+        sticks: "Vic Firth American Classic Extreme 5B ($10)",
         notes: "Monolit Czarcie Kopyto is Inferno's actual pedal choice — the direct-drive response is noticeably different from chain-drive pedals at extreme tempos."
       },
       pro: {

@@ -5824,7 +5824,7 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
       pedals: {
         brand: 'Tama',
         model: 'Tama Speed Cobra Double Pedal',
-        description: "Benante uses the Tama Speed Cobra double pedal, which replaced the vintage Tama HP35 Camco chain-drive pedals he ran from 1984 until Tama discontinued them in 2010. The Speed Cobra's direct-drive design provides the mechanical efficiency and precise response needed for his syncopated kick placement — important when the kick is following specific guitar riff accent points rather than running patterns.",
+        description: "Benante uses the Tama Speed Cobra double pedal. The Speed Cobra's direct-drive design provides the mechanical efficiency and precise response needed for his syncopated kick placement — important when the kick is following specific guitar riff accent points rather than running patterns.",
         alternative: "Tama Iron Cobra Power Glide or DW 5002 for comparable direct-drive performance and adjustability"
       },
       sticks: {
@@ -5859,7 +5859,7 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
       toms: {
         tension: "Medium — musical sustain with good attack",
         muffling: "None, or one small Moongel per tom for recording",
-        description: "Benante's toms ring musically — this isn't a dead, over-muffled thrash kit. The Emperor Clear heads provide a bright, punchy top with some ring that makes the tom fills sound like pitched notes in motion rather than muffled thuds. The ring is controlled enough to not sustain into the next hit at speed.",
+        description: "Benante's toms ring musically — this isn't a dead, over-muffled thrash kit. The Evans G2 Coated heads provide a bright, punchy top with some ring that makes the tom fills sound like pitched notes in motion rather than muffled thuds. The ring is controlled enough to not sustain into the next hit at speed.",
         tip: "If your toms ring too much for the studio, add one Moongel per tom starting at the edge. Don't center the gel — edge placement controls sympathetic ring without killing attack character."
       }
     },
@@ -5920,7 +5920,7 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
         cymbals: "Paiste 14\" RUDE Hi-Hats + RUDE Crashes ($900)",
         pedals: "Tama Speed Cobra Double Pedal ($350)",
         sticks: "Vic Firth 5B ($15)",
-        heads: "Remo Emperor Clear set ($120)",
+        heads: "Evans G2 Coated set ($120)",
         notes: "Tama Superstar delivers the maple warmth and projection needed for thrash at a fraction of the Starclassic price. The RUDE hi-hats are the most important single upgrade — they define Benante's open hi-hat character."
       },
       pro: {
@@ -5930,7 +5930,7 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
         cymbals: "Full Paiste RUDE / 2002 setup ($2,500+)",
         pedals: "Tama Speed Cobra Double Pedal ($350)",
         snare: "Tama Charlie Benante Signature 14\" x 6.5\" ($500)",
-        heads: "Full Remo Emperor/Ambassador set ($180)",
+        heads: "Full Evans setup ($180)",
         notes: "Tama Starclassic Maple is Benante's current main kit. Pair with Paiste RUDE hi-hats and crashes for the complete Anthrax thrash sound."
       }
     },
@@ -5949,7 +5949,7 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
       },
       {
         question: "What pedals does Charlie Benante use?",
-        answer: "Charlie Benante uses the Tama Speed Cobra double pedal, which replaced the vintage Tama HP35 Camco chain-drive pedals he ran from 1984 until Tama discontinued them in 2010. Benante's syncopated kick technique benefits from the precise, responsive feel the Speed Cobra provides."
+        answer: "Charlie Benante uses the Tama Speed Cobra double pedal. Benante's syncopated kick technique benefits from the precise, responsive feel the Speed Cobra provides."
       },
       {
         question: "What are the best Anthrax songs to learn Charlie Benante's style?",

@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-20 00:28 UTC*
 
 ---
+## 2026-10-20 12:16 (daily deep run — 7/7 proposals verified+promoted, #9386-9392)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 12:16 UTC (387u/440s/616v 7d; GSC 16,095 impr/201 clicks/1.25% CTR/pos 8.6). At run start: eligible `ai-fix` backlog **0** (Roadie cleared the 06:18 batch), 0 open PRs, 7 fresh untriaged `seo-proposal` (#9386-9392, filed 07:14-07:16 UTC), continuing the `soundLikeGuides.js` fact-drift sweep.
+
+### Actions taken
+- **Live-verified all 7 via 7 parallel subagents** (read cited lines, cross-checked `drummerEvolution.js`/`endorsementNews.js`/`cymbalSetups.js`/`albumArticles/*` ground truth, dupe-searched closed issues): #9386 (Gavin Harrison shell dimensions — fabricated 8"x7" tom + wrong kick/floor-tom sizes) VERIFIED-CLEAN, confirmed sole fabrication site in the file. #9387 (George Kollias budgetSetups.pro + FAQ still say "Pearl Demon Drive" vs. correct Demon XR, same bug class as closed #9349) VERIFIED-CLEAN. #9388 (Hellhammer — 4-point drift: shell material, snare shell, sticks model, Paiste 2002→RUDE mislabel) VERIFIED-WITH-NOTE — corrected line numbers (off by 1-2) and found 3 more unscoped "Paiste 2002" references in the same entry's `budgetSetups` block; posted a comment asking the implementer to fold those in. #9389 (Igor Cavalera — description misattributes Tama to his Pearl-era *Roots* album, leftover Evans tuning-tip after #8275 fixed the main heads field, pedal-era mismatch recommending Tama Iron Cobra for his pre-2018 DW-pedal years) VERIFIED-WITH-NOTE — corrected line numbers and found 2 more unscoped "Evans" head references in `budgetSetups.mid`/`.pro`; posted a comment. #9390 (Inferno/Behemoth sticks missing "American Classic Extreme" qualifier in 3 locations, gap left by closed #9281) VERIFIED-WITH-NOTE — trivial line drift only, confirmed pro-tier has no sticks field so nothing missed there. #9391 (Jason Bittner — Shadows Fall join-year conflated with 1997 gear-endorsement year in 3 spots, wrong cymbal sizes, fabricated "Maple/Walnut hybrid" shell) VERIFIED-WITH-NOTE — flagged a real ambiguity risk: the string "since 1997" also appears correctly 3x in gear-endorsement context, so a blind find-replace would corrupt those (same failure class as the #9031/#9051 regression); posted a comment spelling out the exact lines to touch vs. leave alone. #9392 (Joey Jordison cymbals fabricate a non-existent "Paiste Signature Series," correct canonical naming is "RUDE & 2002") VERIFIED-WITH-NOTE — trivial line drift only, proposed fix matches `cymbalSetups.js` exactly. All 7 promoted to `ai-fix` (4 with implementer notes posted as comments).
+- **GSC content-gap** (metrics.md flagged 1 row): `jaska raatikainen` (72 impr, 1.39% CTR) re-matched to the standing class-2 bare-name ruling (`learned-patterns.md` line 211), 7th consecutive week. No new action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: zero `ai-fix` issues open >3 days without `in-progress`/`pr-opened`/`hold`/`blocked` — nothing eligible.
+- **Starvation check**: post-triage backlog 7, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape but confirmed non-event, same recurring same-batch-triaged-in-one-run artifact as every prior occurrence this week.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-19 (last week's refresh, already closed-the-loop in the 10-19 12:18 deep run — 2 big-losses actioned, L2 cited count 27→32/100, #9343 filed for thin-template indexation finding). Next refresh due ~2026-10-26, not re-running the already-closed-loop analysis.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 7 (#9386-9392 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 7 fresh → 0
+
+### Quota check
+✅ SEO proposals: 7/7 triaged, live-verified, all promoted (4 with implementer notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: row already ruled. ✅ L1/L2/L3: not due yet (due ~10-26). ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9386-9392 pick up via Roadie; confirm #9388's extra budgetSetups "Paiste 2002" cleanup, #9389's extra Evans-head cleanup, and #9391's careful "since 1997" scoping (band-tenure only, not gear-endorsement lines) all get used.
+2. L1/L2/L3 weekly refresh due ~2026-10-26 — next full close-the-loop pass then.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
+
+---
+
 ## 2026-10-20 00:28 (cheap pulse — 8/8 proposals verified+promoted, #9356-9366)
 
 ### Context (≤3 lines)

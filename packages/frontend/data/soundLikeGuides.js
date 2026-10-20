@@ -12141,7 +12141,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
       title: "Ward's Gear Setup",
       drumKit: {
         brand: 'Ludwig',
-        model: 'Ludwig Super Classic (later Ludwig Classic Maple)',
+        model: 'Ludwig Standard / Club Date Series',
         shells: 'Maple',
         finish: 'Various vintage finishes',
         config: {
@@ -12151,7 +12151,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
         description: "Ward's Ludwig kit is built for warmth and dynamic range rather than raw output. A single 22\" x 14\" bass drum anchors the low end without the sub-bass mass of a modern double-kick setup, leaving room for his foot placement — not power — to define the groove.",
-        affiliateNote: "Ludwig Classic Maple or Pearl Session Studio Select offer similar warm, vintage-voiced shells at a range of price points."
+        affiliateNote: "Ludwig Standard / Club Date Series or Pearl Session Studio Select offer similar warm, vintage-voiced shells at a range of price points."
       },
       snare: {
         brand: 'Ludwig',
@@ -12184,7 +12184,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
         model: 'Standard hickory drumsticks, medium weight',
         specs: 'Wood tip, medium weight',
         description: "Ward's era predates modern signature stick endorsements — a standard medium-weight hickory stick with a wood tip suits both his swung cymbal work and his triplet-heavy fills.",
-        alternative: "Vic Firth American Classic 5A or 5B depending on desired weight and rebound."
+        alternative: "Pro-Mark Standard 5A or 5B depending on desired weight and rebound."
       },
       heads: {
         kick: 'Remo Ambassador Coated',
@@ -12260,16 +12260,16 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
       mid: {
         price: "$2,800",
         label: "Intermediate Setup",
-        kit: "Ludwig Classic Maple ($1,800)",
+        kit: "Ludwig Standard / Club Date Series ($1,800)",
         cymbals: "Zildjian Avedis partial setup ($800)",
         pedals: "Ludwig Speed King ($150)",
         sticks: "Vic Firth American Classic 5A ($10)",
-        notes: "The Ludwig Classic Maple shell and a genuine Speed King pedal are the two biggest steps toward Ward's actual vintage feel."
+        notes: "The Ludwig Standard / Club Date Series shell and a genuine Speed King pedal are the two biggest steps toward Ward's actual vintage feel."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "Ludwig Super Classic vintage or reissue ($3,000+)",
+        kit: "Ludwig Standard / Club Date Series vintage or reissue ($3,000+)",
         cymbals: "Full Zildjian Avedis Series setup ($1,800+)",
         pedals: "Ludwig Speed King ($150)",
         heads: "Full Remo Ambassador Coated setup ($300)",
@@ -12283,7 +12283,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
       },
       {
         question: "What gear should I use to sound like Bill Ward?",
-        answer: "Ward played a Ludwig Super Classic (later Ludwig Classic Maple) kit with a Ludwig Supraphonic 14\" x 6.5\" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. A budget setup can approximate this with any maple-shell kit, an aluminum-shell snare tuned loose and low, and warm, dark crash cymbals."
+        answer: "Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14\" x 6.5\" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. A budget setup can approximate this with any maple-shell kit, an aluminum-shell snare tuned loose and low, and warm, dark crash cymbals."
       },
       {
         question: "What tempo should I practice at to sound like Bill Ward?",

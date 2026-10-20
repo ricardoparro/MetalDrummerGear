@@ -3397,7 +3397,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
         finish: 'Custom Cryptopsy configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Tama Starclassic Maple Snare',
+          snare: '14" x 5.5" Tama Starclassic Maple Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
@@ -3407,7 +3407,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
       snare: {
         brand: 'Tama',
         model: 'Tama Starclassic Maple Snare',
-        size: '14" x 6.5"',
+        size: '14" x 5.5"',
         shell: 'Maple',
         description: "Flo's snare must perform at 220+ BPM with audible clarity. The Starclassic Maple shell provides the crack and projection needed to compete with technical death metal's extreme guitar and bass frequencies.",
         alternative: "Tama S.L.P. Big Black Steel or Ludwig Supraphonic for similar bright, cutting projection"
@@ -3416,11 +3416,11 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
         brand: 'Sabian',
         series: 'Sabian AAX / HH Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Sabian 14" AAX X-Plosion Hi-Hats', notes: 'Fast, cutting response for blast work' },
-          { type: 'Crash', model: 'Sabian 17" AAX Thin Crash', notes: 'Quick attack for accented crashes' },
-          { type: 'Crash', model: 'Sabian 19" AAX Crash', notes: 'Power crash for section punctuation' },
-          { type: 'Ride', model: 'Sabian 20" HH Duo Ride', notes: 'Defined stick articulation for technical ride patterns' },
-          { type: 'China', model: 'Sabian 18" AAX X-Plosion China', notes: 'Aggressive accent for brutal sections' }
+          { type: 'Hi-Hats', model: 'Sabian 14" HHX Stage Hi-Hats', notes: 'Fast, cutting response for blast work' },
+          { type: 'Crash', model: 'Sabian 17" AAX X-Plosion Crash', notes: 'Quick attack for accented crashes' },
+          { type: 'Crash', model: 'Sabian 18" AAX X-Plosion Crash', notes: 'Power crash for section punctuation' },
+          { type: 'Ride', model: 'Sabian 21" HHX Raw Bell Dry Ride', notes: 'Defined stick articulation for technical ride patterns' },
+          { type: 'China', model: 'Sabian 18" AAXtreme China', notes: 'Aggressive accent for brutal sections' }
         ],
         description: "Flo's Sabian setup prioritizes attack speed and clarity — essential when cymbals must speak distinctly within Cryptopsy's compressed, extreme sonic space."
       },
@@ -3432,10 +3432,10 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth 5B',
-        specs: 'Slightly heavier than 5A for death metal power',
-        description: "Flo uses heavier 5B sticks for the power required in sustained death metal performance. The additional weight adds impact without requiring additional arm force.",
-        alternative: "Pro-Mark 5B or Zildjian 5B"
+        model: 'Vic Firth American Classic 5A',
+        specs: 'Standard 5A weight for speed and response over power',
+        description: "Flo uses American Classic 5A sticks for the speed and response his gravity blast technique demands, prioritizing fast rebound over added weight.",
+        alternative: "Pro-Mark 5A or Zildjian 5A"
       },
       heads: {
         kick: 'Evans EQ4 Clear',
@@ -3517,7 +3517,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
         kit: "Tama Imperialstar Series ($700)",
         cymbals: "Sabian B8X Pack ($250)",
         pedals: "Tama Camco Double Pedal ($150)",
-        sticks: "Vic Firth 5B ($10)",
+        sticks: "Vic Firth American Classic 5A ($10)",
         notes: "Tama Imperialstar is a legitimate foundation for developing Mounier's technique. Invest in practice time before gear upgrades."
       },
       mid: {
@@ -3526,7 +3526,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
         kit: "Tama Superstar Classic ($1,800)",
         cymbals: "Sabian AAX Set ($900)",
         pedals: "Tama Speed Cobra 910 ($600)",
-        sticks: "Vic Firth 5B ($10)",
+        sticks: "Vic Firth American Classic 5A ($10)",
         notes: "Tama Superstar Classic plus Speed Cobra 910 moves you into Mounier's actual gear territory."
       },
       pro: {

@@ -13529,3 +13529,46 @@ Notable finds: Jason Bittner's entry conflates his 1997 gear-endorsement signing
 2. `soundLikeGuides.js` sweep now at ~40/72 checked (jon-dette VERIFIED-CLEAN, no issue needed). Remaining unchecked pool (~32): lars-ulrich, matt-garstka, matt-greiner, matt-halpern, mike-portnoy, mikkey-dee, morgan-agren, nick-augusto, nick-menza, nicko-mcbrain, paul-bostaph, paul-mazurkiewicz, pete-sandoval, ray-luzier, raymond-herrera, richard-christy, ryan-van-poederooyen, scott-travis, sean-reinert, shannon-larkin, tomas-haake, travis-orbin, vinnie-paul (derek-roddy intentionally skipped — overlaps held #7981).
 3. Content-gap: row re-confirmed against standing ruling — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-20 (afternoon run, ~13:3x UTC) — soundLikeGuides.js sweep continues, 8 filed (#9401-9408)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers allowed (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended). ✅
+- `/llms/*.md`: 2,024 files on disk — unchanged, no new-page work (freeze in effect).
+- Bank check: 11 open `seo-proposal` at run start (excl. held #7981, 3 standing umbrellas #2211/#3810/#3819) — the 7 fresh #9386-9392 were already triaged/promoted to `ai-fix` by the 12:16 UTC CEO run, so untriaged bank was effectively 0 → well under the 45 floor → filed 8 (at the cap).
+- Drum-chair watch: today is Tuesday, not Monday — skipped per the once-per-Monday rule (last logged 2026-10-19, group 3, zero changes; next due Monday 2026-10-26, group 0).
+
+### Metrics readout
+- GSC 7d: 16,095 impr / 201 clicks / 1.25% CTR / pos 8.6 (metrics.md refreshed 13:04 UTC).
+- GA4 7d: 387u / 440s / 616v. Organic 330/440 (75.0%).
+- Content-gap row: `jaska raatikainen` (72 impr, 1.39% CTR) — standing class-2 bare-name ruling (`learned-patterns.md` line 211). No re-action.
+
+### Method
+Continued the `soundLikeGuides.js` file-family sweep exactly where the 07:1x UTC run left off (remaining pool: lars-ulrich, matt-garstka, matt-greiner, matt-halpern, mike-portnoy, mikkey-dee, morgan-agren, nick-augusto, nick-menza, nicko-mcbrain, paul-bostaph, paul-mazurkiewicz, pete-sandoval, ray-luzier, raymond-herrera, richard-christy, ryan-van-poederooyen, scott-travis, sean-reinert, shannon-larkin, tomas-haake, travis-orbin, vinnie-paul). Dispatched 8 parallel verification subagents on the next 8 unchecked names: lars-ulrich, matt-garstka, matt-greiner, matt-halpern, mike-portnoy, mikkey-dee, morgan-agren, nick-augusto. Each audited the drummer's full `soundLikeGuides.js` entry against ground truth (`endorsementNews.js`/`bands.js`/`extendedBios.js`/`drummerEvolution.js`/`cymbalSetups.js`/`snares.js`/`pedals.js`/`drumsticks.js` as applicable), with a mandatory `gh issue list --state all --search` dedup check before reporting.
+
+8 of 8 returned genuine, non-duplicate findings — still no sign of this file family running dry (now ~48/72 checked). Personally reviewed every finding's key file:line citations before filing.
+
+Notable finds: Matt Halpern's entry had 5 independent errors in one place (wrong join year, a fabricated signature snare the site's own `extendedBios.js` explicitly flags as unverified, a fabricated cymbal line, and 2 wrong album years/titles) — consolidated into one atomic issue since it's the same file/entry. Mikkey Dee's "Paiste 2002" fabrication spans 13 lines across meta/intro/gear/budget tiers/FAQ — same bug class #9085 fixed in a different file (`genreGearGuides.js`) but never touched here. Three findings (Matt Greiner, Morgan Ågren, Nick Augusto) are the recurring "un-migrated sibling field" pattern — a prior fix corrected one field/file but left a depth/shell-material/keyPoints field untouched in this file, same class as #9377/#9337/#8878/#9238 for other drummers.
+
+### Proposals filed this run
+1. #9401 — Lars Ulrich soundLikeGuides.js fabricated cymbal setup (wrong hi-hat model, invented 20" crash, wrong china size/name)
+2. #9402 — Matt Garstka soundLikeGuides.js sticks missing signature model (SGAR), fabricated cymbal lineup
+3. #9403 — Matt Greiner soundLikeGuides.js snare depth wrong (6.5" vs verified 5.5"), fabricated cymbal lineup
+4. #9404 — Matt Halpern soundLikeGuides.js wrong join year, fabricated signature snare + cymbal line, 2 wrong album years
+5. #9405 — Mike Portnoy soundLikeGuides.js wrong Dream Theater album count (claims 11, verified 10)
+6. #9406 — Mikkey Dee soundLikeGuides.js fabricated "Paiste 2002" cymbal series (13 locations, verified Signature Series)
+7. #9407 — Morgan Ågren soundLikeGuides.js fabricated dual snare depth/shell-material narrative, verified single spec
+8. #9408 — Nick Augusto soundLikeGuides.js keyPoints bullet still says Vic Firth, contradicts verified Pro-Mark sticks
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9401-9408 (this run, 8 fresh)
+
+### Next run
+1. Watch #9401-9408 pick up via Roadie.
+2. `soundLikeGuides.js` sweep now at ~48/72 checked. Remaining unchecked pool (~24): nick-menza, nicko-mcbrain, paul-bostaph, paul-mazurkiewicz, pete-sandoval, ray-luzier, raymond-herrera, richard-christy, ryan-van-poederooyen, scott-travis, sean-reinert, shannon-larkin, tomas-haake, travis-orbin, vinnie-paul (derek-roddy intentionally skipped — overlaps held #7981).
+3. Content-gap: row re-confirmed against standing ruling — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

@@ -14840,7 +14840,7 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Daray's Tama Starclassic Performer B/B kit, played since 2014, is engineered for consistent resonance across both intimate studio sessions and Dimmu Borgir's large-scale festival productions — critical when the kit needs to sound identical whether tracking against a philharmonic orchestra or projecting through an arena PA. Earlier in the band's Death Cult Armageddon era (2003) the drum chair used a Tama Starclassic Performer kit for a similar orchestral-integration role.",
+        description: "Daray's Tama Starclassic Performer B/B kit, played since 2014, is engineered for consistent resonance across both intimate studio sessions and Dimmu Borgir's large-scale festival productions — critical when the kit needs to sound identical whether tracking against a philharmonic orchestra or projecting through an arena PA.",
         affiliateNote: "Tama Imperialstar or Tama Superstar offer a similar tonal character for players building toward this setup."
       },
       snare: {
@@ -14860,7 +14860,7 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
           { type: 'Crash', model: 'Paiste 18" RUDE Crash', notes: 'Full-bodied projection over orchestral swells' },
           { type: 'Ride', model: 'Paiste 22" RUDE Power Ride', notes: 'Clear bell definition, durable under heavy playing' }
         ],
-        description: "Daray's RUDE and 2002 series cymbals are built for durability and projection at extreme volume — able to cut through dense symphonic arrangements without adding harshness to the orchestral mix. Meinl Byzance cymbals were used during the band's earlier Death Cult Armageddon-era orchestral productions."
+        description: "Daray's RUDE and 2002 series cymbals are built for durability and projection at extreme volume — able to cut through dense symphonic arrangements without adding harshness to the orchestral mix."
       },
       pedals: {
         brand: 'Pearl',

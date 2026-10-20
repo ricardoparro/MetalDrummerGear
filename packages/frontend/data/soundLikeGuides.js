@@ -5177,13 +5177,13 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
     readingTime: '10 min',
     intro: {
       title: "Brazil's Neoclassical Double-Bass King",
-      content: `Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is one of the most influential power metal drummers on the planet. Since joining Angra in 2000, he has driven the band through its most celebrated era — Rebirth (2001), Temple of Shadows (2004), Aurora Consurgens (2006), and Aqua (2010) — with a combination of blazing double-bass endurance and the musical intelligence to make extreme speed serve the song. He returned to Angra in 2023, proving that precision and power only deepen with time.
+      content: `Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is one of the most influential power metal drummers on the planet. Since joining Angra in 2001, he drove the band through its most celebrated era — Rebirth (2001), Temple of Shadows (2004), and Aurora Consurgens (2006) — with a combination of blazing double-bass endurance and the musical intelligence to make extreme speed serve the song.
 
 What sets Aquiles apart from other fast drummers is his architecture-first mentality. On "Spread Your Fire" (~182 BPM), the double bass isn't a showpiece — it's the rhythmic foundation of the entire track, a wall of perfectly even 16th notes that drives the melodic content above it. On "Heroes of Sand," he navigates blast beats, lyrical grooves, and atmospheric sections within the same five-minute composition without ever losing the pocket. The result is extreme technique that sounds inevitable, not impressive.
 
-This guide covers Aquiles' core technique — neoclassical speed with relaxation-based endurance, power metal snare authority, progressive limb independence — his Mapex Saturn Evolution/Paiste/DW 9000 setup used on the current Angra return cycle, and how to practice both dimensions of his playing.`,
+This guide covers Aquiles' core technique — neoclassical speed with relaxation-based endurance, power metal snare authority, progressive limb independence — his Mapex Saturn Evolution/Paiste/DW 9000 setup, and how to practice both dimensions of his playing.`,
       keyPoints: [
-        "Born June 25, 1971, Outjo, Namibia — joined Angra in 2000, returned in 2023",
+        "Born June 25, 1971, Outjo, Namibia — joined Angra in 2001, departed in 2008",
         "Recorded the definitive power metal double-bass performances on Temple of Shadows and Rebirth",
         "Known for sustained even double-bass patterns at 180–220+ BPM built on a relaxation-first technique",
         "Current rig: Mapex Saturn Evolution All Maple signature kit, Paiste cymbals, DW 9000 double pedal"
@@ -5235,8 +5235,7 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
         { song: "Spread Your Fire", album: "Rebirth", year: 2001, why: "Definitive showcase of sustained even double bass at 182 BPM — the relaxation technique made audible" },
         { song: "Heroes of Sand", album: "Temple of Shadows", year: 2004, why: "Progressive feel transitions across blast beats, grooves, and atmospheric sections within one song" },
         { song: "The Shadow Hunter", album: "Temple of Shadows", year: 2004, why: "Double-bass density combined with snare authority — both elements at their peak" },
-        { song: "Morning Star", album: "Aurora Consurgens", year: 2006, why: "Demonstrates dynamic range — from delicate musical passages to explosive power metal peaks" },
-        { song: "Ashes", album: "Aqua", year: 2010, why: "Limb independence under complex neoclassical arrangements with tempo and time signature shifts" }
+        { song: "Morning Star", album: "Aurora Consurgens", year: 2006, why: "Demonstrates dynamic range — from delicate musical passages to explosive power metal peaks" }
       ]
     },
     gear: {
@@ -5391,11 +5390,11 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
     faq: [
       {
         question: "What drum kit does Aquiles Priester use?",
-        answer: "Aquiles Priester currently plays the Mapex Saturn Evolution All Maple — his own signature kit, the first Brazilian-drummer signature kit released by a global drum brand — for Angra touring and recording (from his 2023 return). His configuration includes 22\" bass drums in a double-bass setup, three rack toms (10\", 12\", 13\"), and two floor toms (16\" and 18\"). Earlier in his career he played Mapex Saturn Series drums (used on Rebirth and Temple of Shadows) and Pearl Reference Series kits during his W.A.S.P. years."
+        answer: "Aquiles Priester currently plays the Mapex Saturn Evolution All Maple — his own signature kit, the first Brazilian-drummer signature kit released by a global drum brand. His configuration includes 22\" bass drums in a double-bass setup, three rack toms (10\", 12\", 13\"), and two floor toms (16\" and 18\"). Earlier in his career he played Mapex Saturn Series drums (used on Rebirth and Temple of Shadows during his 2001-2008 Angra tenure) and Pearl Reference Series kits during his W.A.S.P. years."
       },
       {
         question: "What cymbals does Aquiles Priester use with Angra?",
-        answer: "Aquiles Priester currently plays Paiste cymbals — a custom red-coated set that includes his own 18\" Psychoctopus Giga Bell Ride. The hi-hats deliver the tight, articulate response needed for fast hi-hat patterns when the kick is running at 180+ BPM. In his classic Angra era (Rebirth through Aqua), he used Sabian HHX Series."
+        answer: "Aquiles Priester currently plays Paiste cymbals — a custom red-coated set that includes his own 18\" Psychoctopus Giga Bell Ride. The hi-hats deliver the tight, articulate response needed for fast hi-hat patterns when the kick is running at 180+ BPM. In his classic Angra era (Rebirth through Aurora Consurgens, 2001-2008), he used Sabian HHX Series."
       },
       {
         question: "What double pedal does Aquiles Priester use?",
@@ -5415,7 +5414,7 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
       },
       {
         question: "How did Aquiles Priester develop his neoclassical drumming style?",
-        answer: "Aquiles grew up in São Paulo, Brazil, and developed his technique through intensive double-bass practice built entirely around the relaxation principle — playing slower with complete freedom before chasing speed. His major influences include Nicko McBrain (Iron Maiden), Neil Peart (Rush), and Brazilian metal drummers who came before him. He joined Angra in 2000, stepping into a band whose compositions demanded both extreme physical endurance and the musical sensitivity to navigate complex neoclassical arrangements. His Inside My Drums lesson series documents his technique approach in his own words."
+        answer: "Aquiles grew up in São Paulo, Brazil, and developed his technique through intensive double-bass practice built entirely around the relaxation principle — playing slower with complete freedom before chasing speed. His major influences include Nicko McBrain (Iron Maiden), Neil Peart (Rush), and Brazilian metal drummers who came before him. He joined Angra in 2001, stepping into a band whose compositions demanded both extreme physical endurance and the musical sensitivity to navigate complex neoclassical arrangements. His Inside My Drums lesson series documents his technique approach in his own words."
       }
     ],
     related: {

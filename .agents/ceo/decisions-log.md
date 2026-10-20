@@ -1108,3 +1108,30 @@ Afternoon pulse between the 12:18 deep run and the 19:00 evening-review window. 
 
 ---
 
+
+## 2026-10-20 06:18 (cheap pulse — 8/8 proposals verified+promoted, #9370-9377)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:18 UTC (382u/433s/610v 7d; GSC 16,095 impr/201 clicks/1.25% CTR/pos 8.6). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9370-9377, filed 01:18-01:23 UTC), continuing the soundLikeGuides.js fact-drift sweep.
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (cited lines + ground-truth cross-check vs bands.js/extendedBios.js/drummerEvolution.js/endorsementNews.js/cymbalSetups.js/gearPriceHistory.js, dupe-search): #9370 (Danny Carey "Designer kit" cross-contamination from Martin Lopez/Morgan Ågren) VERIFIED-CLEAN. #9371 (Alex Rüdinger misattributed Alex Bent's "Catastrophist") VERIFIED-CLEAN — year field in data is literally 2026 as the issue itself cites, no new discrepancy. #9372 (Aquiles Priester fabricated 2023 Angra "return" + wrong join year + Aqua misattribution) VERIFIED-WITH-NOTE — found nuance: Priester did make a guest/touring appearance around the 2023 cycle per extendedBios.js:4846, but Valverde stayed the official chair; posted comment telling implementer not to overcorrect into erasing the 2023 connection entirely. #9373 (Art Cruz fabricated kit name/2nd kick/floor toms/shell material) VERIFIED-WITH-NOTE — corrected line numbers (13367/13371/13374/13383) and found an uncalled sibling inconsistency (pro-tier line 13496 has a differently-worded fabrication). #9374 (Blake Richardson stale pre-2018 DW/Meinl snare+budgetSetups+description) VERIFIED-WITH-NOTE — corrected line numbers (10692-10698/10787-10813/10611) and found an extra stale location (gearPages line 10841 still links /brands/dw + /brands/meinl). #9375 (Chris Adler fabricated Mb20 cymbals + self-contradicting steel snare + stale Mapex Falcon pedal) VERIFIED-CLEAN. #9376 (Daray fabricated wrong-drummer Dimmu Borgir 2003-era aside) VERIFIED-CLEAN. #9377 (Flo Mounier wrong stick/snare size/cymbal lineup, model-level gaps survived #8047/#8265's brand-only fixes) VERIFIED-CLEAN. All 8 promoted to `ai-fix`; 3 with implementer notes posted as comments (#9372, #9373, #9374).
+- **GSC content-gap** (metrics.md, 1 row): `jaska raatikainen` (72 impr, 1.39% CTR) — re-matched to the standing class-2 bare-name ruling (`learned-patterns.md` line 211), 6th consecutive confirmation. No new action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: nothing open >3 days without hold/in-progress/pr-opened/blocked (the 8 just-promoted issues are fresh).
+- **Starvation check**: pre-triage backlog 0 tripped the trigger shape but this run's own triage (the batch filed ~5h prior) is the resolution — post-triage backlog 8, same recurring refill pattern as every recent run, not a real starvation event.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-19 (yesterday's weekly refresh, already closed-the-loop) — not due again yet.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9370-9377 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (3 with implementer notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: row already ruled. ✅ L1/L2/L3: not due again yet. ✅ Starvation: resolved by this run's own triage. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9370-9377 pick up via Roadie; confirm #9373's corrected line numbers (13367/13371/13374/13383) and sibling fix (13496), #9374's corrected lines (10692-10698/10787-10813/10611) plus the extra gearPages sweep (10841), and #9372's "don't erase the 2023 connection entirely" nuance all get used.
+2. L1/L2/L3 weekly refresh due again ~2026-10-26 — full close-the-loop pass then.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

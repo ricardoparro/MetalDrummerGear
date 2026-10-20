@@ -4901,7 +4901,7 @@ This guide covers Nicko's core gallop technique, his British Drum Co. current se
     genre: 'Thrash Metal / Groove Metal',
     priority: 20,
     title: "How to Sound Like Igor Cavalera: Complete Gear & Technique Guide",
-    description: "Master Igor Cavalera's tribal groove drumming. Learn his Roots-era tribal beats, double-bass blast integration, 'Roots Bloody Roots' mid-tempo stomp, and the Tama gear setup behind Sepultura's most influential albums.",
+    description: "Master Igor Cavalera's tribal groove drumming. Learn his Roots-era tribal beats, double-bass blast integration, 'Roots Bloody Roots' mid-tempo stomp, and the Pearl-to-Tama-to-Yamaha gear evolution behind Sepultura's most influential albums.",
     seoKeywords: ['igor cavalera drumming', 'how to sound like igor cavalera', 'sepultura drums', 'igor cavalera gear', 'igor cavalera technique', 'igor cavalera drum kit', 'tribal groove drumming', 'roots bloody roots drums'],
     ogImage: '/images/guides/igor-cavalera-guide.webp',
     datePublished: '2026-06-24',
@@ -5041,7 +5041,7 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
         tension: "Medium-high",
         muffling: "One Moongel or small piece of tape",
         description: "The snare sits at medium-high tension for a warm crack. Igor's maple snare sounds fuller than a steel snare at similar tension — it has body that complements the tribal elements rather than cutting harshly over them.",
-        tip: "Evans G2 Coated head on a maple snare at medium-high tension gives you the warm crack central to Roots-era Sepultura."
+        tip: "Remo Ambassador Coated head on a maple snare at medium-high tension gives you the warm crack central to Roots-era Sepultura."
       },
       toms: {
         tension: "Medium with full sustain",
@@ -5115,10 +5115,10 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
         label: "Professional Setup",
         kit: "Tama Starclassic Maple ($3,000+)",
         cymbals: "Paiste RUDE Full Selection ($2,000+)",
-        pedals: "Tama Iron Cobra Power Glide Double Pedal ($500)",
+        pedals: "DW 9000 Series Double Pedal ($500)",
         snare: "Tama Starclassic Maple Snare ($300)",
         heads: "Full Evans setup ($200)",
-        notes: "Tama Starclassic Maple was Igor's stage kit from 1996-2006 during his Sepultura years; he then played a ddrum Hybrid Kit through 2018 for Cavalera Conspiracy, and now plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals. Pair Tama Starclassic with a full RUDE cymbal setup to recreate that mid-career Sepultura sound."
+        notes: "Tama Starclassic Maple and a DW double pedal were Igor's stage setup from 1996-2006 during his Sepultura years; he then played a ddrum Hybrid Kit through 2018 for Cavalera Conspiracy, and now plays a Yamaha Absolute Hybrid Maple kit with a Tama Iron Cobra pedal and Zildjian cymbals. Pair Tama Starclassic with a full RUDE cymbal setup and DW pedal to recreate that mid-career Sepultura sound."
       }
     },
     faq: [

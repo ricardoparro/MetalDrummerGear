@@ -1120,12 +1120,12 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
       title: "Mario's Precision Gear",
       drumKit: {
         brand: 'Tama',
-        model: 'Tama Starclassic Walnut/Birch',
-        shells: 'Walnut/Birch hybrid',
+        model: 'Tama Starclassic Bubinga',
+        shells: 'Bubinga',
         finish: 'Custom',
         config: {
           kick: '22" x 18" Bass Drum',
-          snare: '14" x 6.5" Mario Duplantier Signature Snare',
+          snare: '14" x 6.5" Tama S.L.P. G-Maple',
           toms: ['10" x 8" Tom', '12" x 9" Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
@@ -1134,10 +1134,10 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
       },
       snare: {
         brand: 'Tama',
-        model: 'Mario Duplantier Signature Snare',
+        model: 'Tama S.L.P. G-Maple',
         size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "Mario's signature snare has crack and body, cutting through Gojira's dense arrangements while providing depth for quieter passages.",
+        shell: 'G-Maple',
+        description: "Mario's S.L.P. G-Maple snare has crack and body, cutting through Gojira's dense arrangements while providing depth for quieter passages.",
         alternative: "Tama SLP Steel or Ludwig Supraphonic"
       },
       cymbals: {
@@ -1154,8 +1154,8 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
       },
       pedals: {
         brand: 'Tama',
-        model: 'Tama Iron Cobra 900 Rolling Glide Double Pedal',
-        description: "Mario uses Tama's flagship pedal for smooth, fast response. The Rolling Glide cam provides a consistent feel throughout the stroke.",
+        model: 'Tama Iron Cobra 900 Power Glide Double Pedal',
+        description: "Mario uses Tama's flagship pedal for smooth, fast response. The Power Glide cam provides a consistent feel throughout the stroke.",
         alternative: "Tama Speed Cobra or Iron Cobra 600"
       },
       sticks: {
@@ -1255,7 +1255,7 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
       pro: {
         price: "$6,000+",
         label: "Professional Setup",
-        kit: "Tama Starclassic Walnut/Birch ($2,800+)",
+        kit: "Tama Starclassic Bubinga ($2,800+)",
         cymbals: "Meinl Byzance Vintage/Extra Dry Custom ($2,000+)",
         pedals: "Tama Iron Cobra 900 Double ($500)",
         heads: "Full Remo setup ($150)",

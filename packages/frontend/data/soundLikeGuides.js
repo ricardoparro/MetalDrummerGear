@@ -9444,11 +9444,11 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
       drumKit: {
         brand: 'Sonor',
         model: 'Sonor (custom black metal configuration)',
-        shells: 'Birch/Maple',
+        shells: 'Heavy Beech',
         finish: 'Gloss Black',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 5.5" Steel Snare',
+          snare: '14" x 5.5" Maple Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
@@ -9457,20 +9457,20 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
       },
       snare: {
         brand: 'Sonor',
-        model: 'Steel Snare',
+        model: 'SQ2 Heavy Beech Snare',
         size: '14" x 5.5"',
-        shell: 'Steel',
-        description: "A bright, cracking steel snare tuned high for maximum cut. In black metal production the snare must penetrate a wall of tremolo guitars, so a sharp, high-frequency crack is essential.",
-        alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for similar cut"
+        shell: 'Maple',
+        description: "A warm-but-cutting maple snare, tuned medium-bright for projection. In black metal production the snare must penetrate a wall of tremolo guitars, so body and definition matter as much as raw volume.",
+        alternative: "Pearl Reference or Ludwig Supraphonic for similar warm cut"
       },
       cymbals: {
         brand: 'Paiste',
-        series: 'Paiste 2002 / Rude',
+        series: 'Paiste RUDE Series',
         setup: [
           { type: 'Hi-Hats', model: 'Paiste 14" Heavy Hi-Hats', notes: 'Bright, tight, blast-friendly' },
-          { type: 'Crash', model: 'Paiste 18" 2002 Crash', notes: 'Fast, explosive accents' },
+          { type: 'Crash', model: 'Paiste 18" Rude Crash', notes: 'Fast, explosive accents' },
           { type: 'Crash', model: 'Paiste 19" Rude Crash/Ride', notes: 'Aggressive and cutting' },
-          { type: 'Ride', model: 'Paiste 20" 2002 Ride', notes: 'Defined bell for blast riding' },
+          { type: 'Ride', model: 'Paiste 20" Rude Ride', notes: 'Defined bell for blast riding' },
           { type: 'China', model: 'Paiste 18" Rude China', notes: 'Trashy accent for transitions' }
         ],
         description: "Hellhammer rides his blasts as often on cymbal as on snare, so bright, articulate cymbals with a defined bell are essential. The setup is built to cut cleanly through dense black metal production."
@@ -9483,10 +9483,10 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth 5A / 5B',
+        model: 'Vic Firth American Classic 5B',
         specs: 'Standard hickory, medium taper',
         description: "Standard hickory sticks balance the speed needed for blasts with the durability to survive aggressive playing. Nothing exotic — control and consistency matter more than the stick.",
-        alternative: "Promark 5A or Vater Power 5A"
+        alternative: "Promark 5B or Vater Power 5B"
       },
       heads: {
         kick: 'Remo Powerstroke P3 Clear',
@@ -9563,16 +9563,16 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
         price: "$3,000",
         label: "Intermediate Setup",
         kit: "Sonor AQ2 ($1,800)",
-        cymbals: "Paiste 2002 Set ($900)",
+        cymbals: "Paiste RUDE Set ($900)",
         pedals: "Tama Speed Cobra Double ($300)",
         sticks: "Vic Firth 5A ($10)",
-        notes: "Closer to Hellhammer's tone. The 2002 cymbals provide the bright, cutting blast-riding character."
+        notes: "Closer to Hellhammer's tone. The RUDE cymbals provide the loud, cutting blast-riding character."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
         kit: "Sonor SQ2 or Pearl Reference ($3,000+)",
-        cymbals: "Full Paiste 2002 / Rude selection ($1,800+)",
+        cymbals: "Full Paiste RUDE selection ($1,800+)",
         pedals: "Axis Longboard Double ($500)",
         heads: "Full Remo setup ($150)",
         notes: "Recording and touring-ready setup matching Hellhammer's blast clarity."
@@ -9593,7 +9593,7 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
       },
       {
         question: "How do I get the De Mysteriis Dom Sathanas drum sound?",
-        answer: "Tune the kick for click and attack with heavy muffling, crank a steel snare high for a bright crack, and keep toms tuned high for fast rebound. The raw, cutting tone comes from prioritizing attack and clarity over warmth so every note reads through dense tremolo guitars."
+        answer: "Tune the kick for click and attack with heavy muffling, crank a maple snare medium-bright for a warm-but-cutting crack, and keep toms tuned high for fast rebound. The raw, cutting tone comes from prioritizing attack and clarity over warmth so every note reads through dense tremolo guitars."
       },
       {
         question: "Which Hellhammer songs should I study first?",

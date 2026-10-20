@@ -7850,7 +7850,7 @@ This guide covers Grossmann's technique in depth — classical influences, open-
     readingTime: '11 min',
     intro: {
       title: "The Architect of Progressive Metal Drumming",
-      content: `Mike Portnoy (born April 20, 1967, in Long Beach, New York) co-founded Dream Theater in 1985 and served as the band's primary drummer, lyricist, and creative force until his departure in September 2010. He rejoined in 2023. Over eleven studio albums — from When Dream and Day Unite (1989) through Black Clouds & Silver Linings (2009) — Portnoy built the definitive template for progressive metal drumming: orchestral dynamics within extreme technical complexity, odd-time meters that feel musical rather than academic, and the ability to participate in ensemble composition at the drum kit rather than simply keep time.
+      content: `Mike Portnoy (born April 20, 1967, in Long Beach, New York) co-founded Dream Theater in 1985 and served as the band's primary drummer, lyricist, and creative force until his departure in September 2010. He rejoined in 2023. Over ten studio albums — from When Dream and Day Unite (1989) through Black Clouds & Silver Linings (2009) — Portnoy built the definitive template for progressive metal drumming: orchestral dynamics within extreme technical complexity, odd-time meters that feel musical rather than academic, and the ability to participate in ensemble composition at the drum kit rather than simply keep time.
 
 What separates Portnoy from other technical metal drummers is his compositional mindset. Each section is arranged, not just performed — his parts are inseparable from the music's architecture. On Images and Words (1992), Awake (1994), and Scenes From a Memory (1999), he doesn't support the music from underneath; he participates in the harmonic and rhythmic structure from inside. His famous "A Change of Seasons" suite (1995) demonstrated what a prog metal drummer could achieve across 23 minutes: shifting dynamics from whisper to thunder, meter from 4/4 to 7/8 to 12/8, and emotional register from introspective to explosive.
 
@@ -7858,7 +7858,7 @@ Portnoy's technical foundation is enormous: he studied jazz and classical percus
 
 This guide covers Portnoy's core technique — odd-time navigation, orchestral dynamic range, fill vocabulary — and his Tama / Sabian / Promark setup from the peak Dream Theater era.`,
       keyPoints: [
-        "Co-founded Dream Theater in 1985; primary creative force behind 11 studio albums before leaving in 2010 (rejoined 2023)",
+        "Co-founded Dream Theater in 1985; primary creative force behind 10 studio albums before leaving in 2010 (rejoined 2023)",
         "Defined progressive metal drumming: drum parts built as compositional architecture, not just time-keeping support",
         "Odd-time mastery — 7/8, 11/8, 12/8, mixed meters — played with musical naturalism, never academic stiffness",
         "Tama drums, Sabian cymbals, and Promark sticks form the core of his signature sound"

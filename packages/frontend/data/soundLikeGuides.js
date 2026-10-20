@@ -17588,8 +17588,7 @@ This guide breaks down the technique and gear approach behind Rüdinger's sound 
       keySongs: [
         { song: "Cause For Concern", album: "Solo Drum Playthrough", year: 2013, why: "Early standalone playthrough that established the odd-meter precision behind his session reputation" },
         { song: "Cubensis", album: "Intronaut (session drums)", year: 2020, why: "Technical session work applying high-density linear fills within Intronaut's prog-sludge structures" },
-        { song: "Kin", album: "Whitechapel", year: 2021, why: "Studio session credit bringing technical precision to Whitechapel's melodic deathcore sound" },
-        { song: "Catastrophist", album: "Trivium (touring/session)", year: 2026, why: "His highest-profile gig to date, applying modern thrash precision at Trivium's scale and tempo" }
+        { song: "Kin", album: "Whitechapel", year: 2021, why: "Studio session credit bringing technical precision to Whitechapel's melodic deathcore sound" }
       ]
     },
     gear: {

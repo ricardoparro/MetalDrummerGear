@@ -2385,21 +2385,21 @@ This guide explores how to capture Chris's powerful groove metal style.`,
         brand: 'Mapex',
         model: 'Chris Adler Signature Snare',
         size: '14" x 5.5"',
-        shell: 'Steel',
-        description: "Chris's signature snare is designed for cutting power. The steel shell provides brightness that punches through LOG's dense arrangements.",
-        alternative: "Mapex Black Panther Steel or Tama SLP"
+        shell: 'Walnut/Maple',
+        description: "Chris's signature snare is designed for cutting power. The Walnut/Maple shell gives a shallow, articulate crack that punches through LOG's dense arrangements.",
+        alternative: "Mapex Black Panther Walnut/Maple or Mapex Armory"
       },
       cymbals: {
         brand: 'Meinl',
-        series: 'Meinl Mb20',
+        series: 'Meinl Byzance',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 14" Mb20 Heavy Hi-Hats', notes: 'Bright and powerful' },
-          { type: 'Crash', model: 'Meinl 18" Mb20 Heavy Crash', notes: 'Explosive attack' },
-          { type: 'Crash', model: 'Meinl 20" Mb20 Heavy Crash', notes: 'Full, powerful' },
-          { type: 'Ride', model: 'Meinl 22" Mb20 Heavy Bell Ride', notes: 'Defined bell for accents' },
-          { type: 'China', model: 'Meinl 18" Mb20 China', notes: 'Aggressive, cutting' }
+          { type: 'Hi-Hats', model: 'Meinl 14" Byzance Dark Hi-Hats', notes: 'Dark and nuanced' },
+          { type: 'Crash', model: 'Meinl 18" Byzance Dark Crash', notes: 'Explosive attack' },
+          { type: 'Crash', model: 'Meinl 19" Byzance Dark Crash', notes: 'Full, powerful' },
+          { type: 'Ride', model: 'Meinl 21" Byzance Transition Ride', notes: 'Defined bell for accents' },
+          { type: 'China', model: 'Meinl 18" Byzance Extra Dry China', notes: 'Aggressive, cutting' }
         ],
-        description: "Chris uses heavy cymbals that cut through Lamb of God's wall of guitars. The Mb20 series provides the brightness and projection needed."
+        description: "Chris uses dark, trashy cymbals that cut through Lamb of God's wall of guitars. The Byzance Dark series provides the complexity and projection needed."
       },
       pedals: {
         brand: 'Trick',
@@ -2434,7 +2434,7 @@ This guide explores how to capture Chris's powerful groove metal style.`,
         tension: "High",
         muffling: "Power Center dot controls overtones",
         description: "Crack and cut through the guitars. High tuning for maximum projection.",
-        tip: "Tune high for crack. The steel shell adds natural brightness."
+        tip: "Tune high for crack. The Walnut/Maple shell adds natural articulation."
       },
       toms: {
         tension: "Medium-high",
@@ -2493,7 +2493,7 @@ This guide explores how to capture Chris's powerful groove metal style.`,
         label: "Starter Setup",
         kit: "Mapex Armory ($700)",
         cymbals: "Meinl HCS Pack ($200)",
-        pedals: "Mapex Falcon Single/Double ($150)",
+        pedals: "Trick Pro V Single/Double ($150)",
         sticks: "Vic Firth 5B ($10)",
         notes: "Solid Mapex foundation for groove metal."
       },
@@ -2502,7 +2502,7 @@ This guide explores how to capture Chris's powerful groove metal style.`,
         label: "Intermediate Setup",
         kit: "Mapex Saturn V ($1,500)",
         cymbals: "Meinl Mb10 Set ($650)",
-        pedals: "Mapex Falcon Double ($350)",
+        pedals: "Trick Pro V Double ($350)",
         sticks: "Vic Firth Chris Adler ($15)",
         notes: "Getting into professional Mapex territory."
       },
@@ -2510,8 +2510,8 @@ This guide explores how to capture Chris's powerful groove metal style.`,
         price: "$5,000+",
         label: "Professional Setup",
         kit: "Mapex Saturn V or Black Panther ($2,500+)",
-        cymbals: "Meinl Mb20 Custom ($1,500+)",
-        pedals: "Mapex Falcon or Pearl Demon Drive ($500)",
+        cymbals: "Meinl Byzance Custom ($1,500+)",
+        pedals: "Trick Pro V or Pearl Demon Drive ($500)",
         heads: "Full Evans setup ($150)",
         notes: "Tour-ready Chris Adler sound."
       }

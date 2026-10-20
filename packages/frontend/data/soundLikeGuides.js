@@ -652,11 +652,12 @@ This guide focuses on capturing Lars's classic sound—the aggressive attack, th
         brand: 'Zildjian',
         series: 'Zildjian A Custom',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" A Custom Hi-Hats', notes: 'Bright and cutting' },
-          { type: 'Crash', model: 'Zildjian 18" A Custom Crash', notes: 'Explosive attack' },
-          { type: 'Crash', model: 'Zildjian 20" A Custom Crash', notes: 'Full-bodied crash' },
+          { type: 'Hi-Hats', model: 'Zildjian 14" A Custom "Dyno Beat" Hi-Hats', notes: 'Bright and cutting' },
+          { type: 'Crash', model: 'Zildjian 16" A Custom Rock Crash', notes: 'Explosive attack' },
+          { type: 'Crash', model: 'Zildjian 17" A Custom Rock Crash', notes: 'Explosive attack' },
+          { type: 'Crash', model: 'Zildjian 18" A Custom Rock Crash', notes: 'Full-bodied crash' },
           { type: 'Ride', model: 'Zildjian 22" A Custom Ride', notes: 'Defined stick articulation' },
-          { type: 'China', model: 'Zildjian 18" Oriental China', notes: 'Aggressive accent cymbal' }
+          { type: 'China', model: 'Zildjian 20" Z Custom China', notes: 'Aggressive accent cymbal' }
         ],
         description: "Lars uses bright, cutting cymbals that can be heard over Metallica's huge guitar sound. The A Custom series provides the projection he needs."
       },
@@ -768,7 +769,7 @@ This guide focuses on capturing Lars's classic sound—the aggressive attack, th
         price: "$5,000+",
         label: "Professional Setup",
         kit: "Tama Starclassic Maple ($2,500+)",
-        cymbals: "Zildjian A Custom Custom Selection ($1,500+)",
+        cymbals: "Zildjian A Custom Selection ($1,500+)",
         pedals: "DW 9000 Double Pedal ($700)",
         heads: "Full Remo setup ($150)",
         notes: "Recording and touring-ready Lars setup."

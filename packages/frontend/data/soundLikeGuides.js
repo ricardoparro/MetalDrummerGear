@@ -6250,7 +6250,7 @@ His signature approach involves treating each limb as an independent rhythmic vo
     genre: 'Heavy Metal / Hard Rock',
     priority: 24,
     title: "How to Sound Like Mikkey Dee: Complete Gear & Technique Guide",
-    description: "Master Mikkey Dee's powerful rock drumming style. Learn his floor tom fills, aggressive right-hand attack, the Sonor setup and Paiste 2002 cymbal choices that defined the final years of his Motörhead tenure (2012-2015), and now drive Scorpions.",
+    description: "Master Mikkey Dee's powerful rock drumming style. Learn his floor tom fills, aggressive right-hand attack, the Sonor setup and Paiste Signature cymbal choices that defined the final years of his Motörhead tenure (2012-2015), and now drive Scorpions.",
     seoKeywords: ['mikkey dee drumming', 'how to sound like mikkey dee', 'motörhead drummer technique', 'mikkey dee gear', 'mikkey dee technique', 'mikkey dee drum kit', 'motörhead drums', 'scorpions drummer'],
     ogImage: '/images/guides/mikkey-dee-guide.webp',
     datePublished: '2026-06-24',
@@ -6269,7 +6269,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
         "Mikkey Dee joined Motörhead in 1992 and recorded with them for 23 years before joining Scorpions in 2016",
         "His technique centers on powerful straight-ahead timing, floor tom fills, and aggressive right-hand attack",
         "Bastards (1993) and Inferno (2004) are essential study records from his Motörhead period",
-        "He plays Sonor drums with Paiste 2002 cymbals (Motörhead's final years, 2012-2015 — earlier Motörhead years were Tama with Paiste) and Sonor SQ2 with Paiste Signature cymbals (Scorpions era)"
+        "He plays Sonor drums with Paiste Signature cymbals (Motörhead's final years, 2012-2015 — earlier Motörhead years were Tama with Paiste) and Sonor SQ2 with Paiste Signature cymbals (Scorpions era)"
       ]
     },
     technique: {
@@ -6348,15 +6348,15 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
       },
       cymbals: {
         brand: 'Paiste',
-        series: 'Paiste 2002 Series (Motörhead era) / Paiste Signature (current)',
+        series: 'Paiste Signature Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Paiste 2002 15" Big Beats', notes: 'Heavy, loud hi-hats — projects over a loud rock mix with Dee\'s aggressive foot technique' },
-          { type: 'Crash', model: 'Paiste 2002 18" Medium Crash', notes: 'Loud, bright crash with fast attack — suited to arm-powered crash accents' },
-          { type: 'Crash', model: 'Paiste 2002 20" Heavy Crash', notes: 'Bigger crash for louder moments — heavy weight sustains under full-power ride playing' },
-          { type: 'China', model: 'Paiste 2002 18" China', notes: 'Aggressive china for accent punctuation in Motörhead-style sections' },
-          { type: 'Ride', model: 'Paiste 2002 22" Heavy Ride', notes: 'Loud, projecting ride that cuts through dense guitar — designed for Dee\'s powerful right-hand attack' }
+          { type: 'Hi-Hats', model: 'Paiste Signature 14" Sound Edge', notes: 'Heavy, loud hi-hats — projects over a loud rock mix with Dee\'s aggressive foot technique' },
+          { type: 'Crash', model: 'Paiste Signature 19" Power Crash', notes: 'Loud, bright crash with fast attack — suited to arm-powered crash accents' },
+          { type: 'Crash', model: 'Paiste Signature 20" Power Crash', notes: 'Bigger crash for louder moments — heavy weight sustains under full-power ride playing' },
+          { type: 'China', model: 'Paiste Signature 18" Heavy China', notes: 'Aggressive china for accent punctuation in Motörhead-style sections' },
+          { type: 'Ride', model: 'Paiste Signature 22" Power Ride', notes: 'Loud, projecting ride that cuts through dense guitar — designed for Dee\'s powerful right-hand attack' }
         ],
-        description: "Dee's Paiste 2002 setup is built for maximum projection in a loud rock context. The 2002 series — originally designed in the early 1970s and beloved in hard rock and metal — provides bright, loud, cutting sound with a distinctive presence character that projects over dense guitar. The heavy ride is particularly important: Dee's powerful right-hand attack needs a ride that responds to full-force strokes rather than giving way, which the 2002 Heavy provides."
+        description: "Dee's Paiste Signature setup is built for maximum projection in a loud rock context. The Signature series — Paiste's professional line since the 1980s and a mainstay in hard rock and metal — provides bright, loud, cutting sound with a distinctive presence character that projects over dense guitar. The Power Ride is particularly important: Dee's powerful right-hand attack needs a ride that responds to full-force strokes rather than giving way, which the Power Ride provides."
       },
       pedals: {
         brand: 'DW',
@@ -6445,7 +6445,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
         price: "$1,000",
         label: "Starter Dee-Inspired Setup",
         kit: "Sonor AQ1 ($550) or Mapex Storm ($500)",
-        cymbals: "Paiste PST 5 or 2002 Brass Pack ($200)",
+        cymbals: "Paiste PST 5 or 101 Brass Pack ($200)",
         pedals: "DW 2000 Series Double Pedal ($200)",
         sticks: "Vic Firth 5B ($10)",
         notes: "Sonor AQ1 shares Sonor's build quality and hardware compatibility. Paiste PST 5 cymbals share Paiste's bright projection character across the budget range."
@@ -6454,21 +6454,21 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
         price: "$3,000",
         label: "Intermediate Setup",
         kit: "Sonor AQ2 ($1,200)",
-        cymbals: "Paiste 2002 15\" Big Beats + 18\" Medium Crash ($900)",
+        cymbals: "Paiste Signature 14\" Sound Edge + 19\" Power Crash ($900)",
         pedals: "DW 5000 Series Double Pedal ($350)",
         sticks: "Vic Firth 5B ($10)",
         heads: "Remo Emperor Clear Tom Set + Powerstroke P3 Kick ($150)",
-        notes: "Sonor AQ2 delivers Sonor's build quality at a more accessible price than the SQ2 custom-build series. The Paiste 2002 15\" Big Beat hi-hats are the most important single upgrade — they define Dee's hi-hat character and cut through loud mixes."
+        notes: "Sonor AQ2 delivers Sonor's build quality at a more accessible price than the SQ2 custom-build series. The Paiste Signature 14\" Sound Edge hi-hats are the most important single upgrade — they define Dee's hi-hat character and cut through loud mixes."
       },
       pro: {
         price: "$6,500+",
         label: "Professional Setup",
         kit: "Sonor SQ2 Custom-Build ($3,500+)",
-        cymbals: "Full Paiste 2002 setup ($2,500+)",
+        cymbals: "Full Paiste Signature setup ($2,500+)",
         pedals: "DW 5000 Series Double Pedal ($350)",
         snare: "Sonor Mikkey Dee Signature 14\" x 7.25\" Birch ($500)",
         heads: "Full Remo Emperor/Powerstroke set ($200)",
-        notes: "Sonor SQ2 is Dee's current Scorpions custom-build kit, continuing the Sonor relationship he began in 2012 with his signature snare, late in his Motörhead tenure. Paiste 2002 cymbals throughout for the projecting, bright character that cuts through a loud rock mix."
+        notes: "Sonor SQ2 is Dee's current Scorpions custom-build kit, continuing the Sonor relationship he began in 2012 with his signature snare, late in his Motörhead tenure. Paiste Signature cymbals throughout for the projecting, bright character that cuts through a loud rock mix."
       }
     },
     faq: [
@@ -6478,7 +6478,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
       },
       {
         question: "What cymbals does Mikkey Dee use?",
-        answer: "Mikkey Dee played Paiste 2002 cymbals throughout his Motörhead years — a series known for bright, loud, projecting character suited to hard rock volumes. His Motörhead setup typically included 15\" 2002 Big Beat hi-hats, 2002 Medium and Heavy crashes, a 2002 China, and a 2002 Heavy Ride. He has also used Paiste Signature cymbals in later years with Scorpions."
+        answer: "Mikkey Dee has played Paiste Signature Series cymbals since his Motörhead years — a series known for bright, loud, projecting character suited to hard rock volumes. His setup typically includes 14\" Sound Edge hi-hats, 19\" and 20\" Power Crashes, an 18\" Heavy China, and a 22\" Power Ride. He continues to use Paiste Signature cymbals today with Scorpions."
       },
       {
         question: "What is Mikkey Dee's signature drumming technique?",

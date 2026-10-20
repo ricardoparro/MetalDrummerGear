@@ -6084,11 +6084,10 @@ His signature approach involves treating each limb as an independent rhythmic vo
         brand: 'Meinl',
         series: 'Meinl Byzance Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 14" Byzance Traditional Medium Hi-Hats', notes: 'Dark, complex wash — the dry quality supports displaced hi-hat accents without cluttering the mix' },
-          { type: 'Crash', model: 'Meinl 18" Byzance Traditional Medium Thin Crash', notes: 'Musical crash with complex overtones — fast response, longer sustain than bright cymbals' },
-          { type: 'Crash', model: 'Meinl 20" Byzance Traditional Medium Crash', notes: 'Full-size crash for bigger moments — darker character than AAX or A Series alternatives' },
-          { type: 'China', model: 'Meinl 18" Byzance China', notes: 'For aggressive accents and blast-adjacent sections' },
-          { type: 'Ride', model: 'Meinl 22" Byzance Traditional Polyphonic Ride', notes: 'Dark ride with complex overtones — supports the jazz-influenced phrasing approach' }
+          { type: 'Hi-Hats', model: 'Meinl 15" Byzance Dual Hi-Hats', notes: 'Dark, complex wash — the dry quality supports displaced hi-hat accents without cluttering the mix' },
+          { type: 'Crash', model: 'Meinl 18" Byzance Extra Dry Medium Crash', notes: 'Musical crash with complex overtones — fast response, longer sustain than bright cymbals' },
+          { type: 'Crash', model: 'Meinl 20" Byzance Extra Dry Medium Crash', notes: 'Full-size crash for bigger moments — darker character than AAX or A Series alternatives' },
+          { type: 'Ride', model: 'Meinl 22" Byzance Dual Ride', notes: 'Dark ride with complex overtones — supports the jazz-influenced phrasing approach' }
         ],
         description: "Garstka's Meinl Byzance setup is built for musical complexity rather than pure projection. The Byzance line's dark, complex character gives each cymbal voice — crashes have interesting tonal decay, the hi-hats have a dry, focused response suited to displaced accent patterns, and the ride's complex wash suits his jazz-influenced phrasing. This darker cymbal character contrasts with the bright, cutting AAX/A Series setups used by many metal drummers — it's a deliberate aesthetic choice that reflects the jazz influence in his playing."
       },
@@ -6100,10 +6099,10 @@ His signature approach involves treating each limb as an independent rhythmic vo
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth 5A',
-        specs: '5A weight, American Classic',
-        description: "Garstka uses 5A sticks — a mid-weight option that suits both the delicate jazz-influenced passages and the full-power technical sections. The 5A's lighter weight compared to 5B allows for faster rebound and less fatigue during extended technically demanding passages. His jazz training favors sticks that work with the drum's natural rebound rather than muscling through it.",
-        alternative: "Promark Classic 5A or Zildjian 5A Anti-Vibe for comparable weight and balance"
+        model: 'Vic Firth Matt Garstka Signature (SGAR)',
+        specs: 'Signature model, since 2014 — elongated taper, blended wood tip',
+        description: "Garstka plays his Vic Firth SGAR signature model, endorsed since 2014. The elongated taper is designed for traditional-grip players, giving the stick a different balance point than a standard matched-grip model while still suiting both the delicate jazz-influenced passages and the full-power technical sections.",
+        alternative: "Vic Firth American Classic 5A for a comparable weight and balance at a lower price before upgrading to the signature model"
       },
       heads: {
         kick: 'Remo Powerstroke 3 Clear',
@@ -6212,7 +6211,7 @@ His signature approach involves treating each limb as an independent rhythmic vo
       },
       {
         question: "What cymbals does Matt Garstka use?",
-        answer: "Matt Garstka plays Meinl Byzance cymbals throughout his setup. The Byzance Traditional series is his primary choice — dark, complex cymbals with interesting tonal decay and dry hi-hat response. His setup typically includes 14\" Byzance Traditional Medium Hi-Hats, multiple crashes (18\" and 20\"), and a 22\" Polyphonic Ride. The Byzance line's darker character reflects his jazz influence and contrasts with the brighter AAX/A Series setups common in metal."
+        answer: "Matt Garstka plays Meinl Byzance cymbals throughout his setup. His setup includes 15\" Byzance Dual Hi-Hats, 18\" and 20\" Byzance Extra Dry Medium Crashes, and a 22\" Byzance Dual Ride — dark, complex cymbals with interesting tonal decay and dry hi-hat response. The Byzance line's darker character reflects his jazz influence and contrasts with the brighter AAX/A Series setups common in metal."
       },
       {
         question: "What is Matt Garstka's signature drumming technique?",

@@ -3020,7 +3020,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         label: "Professional Setup",
         kit: "Pearl Reference Pure ($3,000+)",
         cymbals: "Meinl Byzance Custom ($1,800+)",
-        pedals: "Pearl Demon Drive ($600)",
+        pedals: "Pearl Demon XR ($600)",
         snare: "Pearl George Kollias Signature ($350)",
         heads: "Full Evans setup ($180)",
         notes: "Recording and touring-ready Kollias sound."
@@ -3037,7 +3037,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
       },
       {
         question: "What pedal does George Kollias use?",
-        answer: "George Kollias uses the Pearl Demon Drive double pedal. The direct-drive mechanism gives him the precise feedback and minimal lag he needs at extreme tempos."
+        answer: "George Kollias uses the Pearl Demon XR double pedal — a model he co-designed. The direct-drive mechanism gives him the precise feedback and minimal lag he needs at extreme tempos."
       },
       {
         question: "Is George Kollias self-taught?",

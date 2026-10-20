@@ -2063,7 +2063,7 @@ This guide explores how to develop Brann's flowing style while maintaining the g
     readingTime: '9 min',
     intro: {
       title: "The Groove-Focused Djent Pioneer",
-      content: `Matt Halpern helped define modern djent drumming. As Periphery's drummer since 2010, he's proven that technical metal can have deep pocket and feel. While djent is often associated with mathematical precision, Matt brings musicality and groove that makes Periphery's complex music accessible.
+      content: `Matt Halpern helped define modern djent drumming. As Periphery's drummer since 2009, he's proven that technical metal can have deep pocket and feel. While djent is often associated with mathematical precision, Matt brings musicality and groove that makes Periphery's complex music accessible.
 
 What sets Matt apart from other djent drummers is his emphasis on feel over flash. His ghost notes, dynamic control, and pocket create grooves that make you move, even in odd time signatures. He's also become one of metal's most influential drum educators, sharing his approach through clinics and online content.
 
@@ -2111,10 +2111,10 @@ This guide explores Matt's groove-first approach to modern progressive metal.`,
         }
       ],
       keySongs: [
-        { song: "Marigold", album: "Marigold", year: 2014, why: "Perfect blend of groove and technicality" },
+        { song: "Marigold", album: "Periphery III: Select Difficulty", year: 2016, why: "Perfect blend of groove and technicality" },
         { song: "Scarlet", album: "Periphery II", year: 2012, why: "Heavy with incredible pocket" },
         { song: "Lune", album: "Periphery II", year: 2012, why: "Dynamics and feel on display" },
-        { song: "Prayer Position", album: "Select Difficulty", year: 2015, why: "Modern Periphery complexity" },
+        { song: "Prayer Position", album: "Periphery III: Select Difficulty", year: 2016, why: "Modern Periphery complexity" },
         { song: "Reptile", album: "Periphery IV", year: 2019, why: "Epic 17-minute progressive journey" }
       ]
     },
@@ -2127,7 +2127,7 @@ This guide explores Matt's groove-first approach to modern progressive metal.`,
         finish: 'Custom',
         config: {
           kick: '22" x 18" Bass Drum',
-          snare: '14" x 5.5" Matt Halpern Signature Snare',
+          snare: 'Pearl Reference Series Snare (specific model not independently verified)',
           toms: ['10" x 8" Tom', '12" x 9" Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
@@ -2136,23 +2136,22 @@ This guide explores Matt's groove-first approach to modern progressive metal.`,
       },
       snare: {
         brand: 'Pearl',
-        model: 'Matt Halpern Signature Snare',
-        size: '14" x 5.5"',
-        shell: 'Birch/Kapur',
-        description: "Matt's signature snare is designed for dynamic response—equally good for ghost notes and powerful backbeats.",
+        model: 'Not independently verified',
+        description: "Matt's snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.",
         alternative: "Pearl Sensitone or Reference snares"
       },
       cymbals: {
         brand: 'Meinl',
-        series: 'Meinl Byzance Dual / Extra Dry',
+        series: 'Meinl Byzance Traditional / Artist Concept',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 15" Byzance Dual Hi-Hats', notes: 'Complex, versatile' },
-          { type: 'Crash', model: 'Meinl 18" Byzance Extra Dry Thin Crash', notes: 'Quick, dark' },
-          { type: 'Crash', model: 'Meinl 20" Byzance Dual Crash', notes: 'Complex, full' },
-          { type: 'Ride', model: 'Meinl 21" Byzance Extra Dry Transition Ride', notes: 'Unique dry response' },
-          { type: 'China', model: 'Meinl 18" Byzance Vintage China', notes: 'Controlled trash' }
+          { type: 'Hi-Hats', model: 'Meinl 14" Byzance Traditional Medium Hi-Hats', notes: 'Balanced, articulate' },
+          { type: 'Crash', model: 'Meinl 18" Byzance Traditional Extra Thin Hammered Crash', notes: 'Quick, dark' },
+          { type: 'Crash', model: 'Meinl 20" Byzance Traditional Extra Thin Hammered Crash', notes: 'Full, dark' },
+          { type: 'Crash/Ride', model: 'Meinl 22" Byzance Sand Crash-Ride', notes: 'Versatile, dry response' },
+          { type: 'Splash', model: 'Meinl 10" Byzance Traditional Splash', notes: 'Bright accent' },
+          { type: 'Signature Stack', model: 'Meinl Artist Concept "Double Down Stack" (17" crash + 18" china)', notes: 'Matt\'s co-developed signature stack' }
         ],
-        description: "Matt's Meinl cymbals have the complex, dark characteristics that suit modern progressive metal. The Dual series offers versatility."
+        description: "Matt's Meinl Byzance Traditional cymbals have the dark, complex characteristics that suit modern progressive metal, paired with his signature Artist Concept \"Double Down Stack.\""
       },
       pedals: {
         brand: 'Pearl',

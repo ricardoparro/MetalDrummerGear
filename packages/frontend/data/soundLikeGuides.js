@@ -9716,11 +9716,11 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
         brand: 'Meinl',
         series: 'Meinl Classics Custom / Byzance Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 14" Classics Custom Hi-Hats', notes: 'Bright and cutting' },
-          { type: 'Crash', model: 'Meinl 18" Classics Custom Extreme Metal Crash', notes: 'Fast, explosive attack' },
-          { type: 'Crash', model: 'Meinl 19" Classics Custom Extreme Metal Crash', notes: 'Aggressive accents' },
-          { type: 'Ride', model: 'Meinl 20" Byzance Ride', notes: 'Defined bell for riding patterns' },
-          { type: 'China', model: 'Meinl 18" Classics Custom China', notes: 'Trashy accent for transitions' }
+          { type: 'Hi-Hats', model: 'Meinl 14" Classics Custom Dark Hi-Hats', notes: 'Bright and cutting' },
+          { type: 'Crash', model: 'Meinl 18" Classics Custom Dark Crash', notes: 'Fast, explosive attack' },
+          { type: 'Crash', model: 'Meinl 19" Classics Custom Dark Crash', notes: 'Aggressive accents' },
+          { type: 'Ride', model: 'Meinl 21" Byzance Dark Ride', notes: 'Defined bell for riding patterns' },
+          { type: 'China', model: 'Meinl 18" Byzance Dark China', notes: 'Trashy accent for transitions' }
         ],
         description: "Mazurkiewicz uses bright, cutting Meinl cymbals that punch through Cannibal Corpse's dense, downtuned guitars. Fast, explosive crashes suit the relentless accents of brutal death metal."
       },
@@ -9813,7 +9813,7 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
         label: "Intermediate Setup",
         kit: "Pearl Export Series ($900)",
         cymbals: "Sabian AAX Set ($900)",
-        pedals: "Pearl Demon Drive ($600)",
+        pedals: "Pearl Eliminator Double Bass Pedal ($600)",
         sticks: "Vic Firth 5B ($10)",
         notes: "Getting close to Mazurkiewicz's tone. AAX cymbals cut cleanly through downtuned guitars."
       },
@@ -9822,7 +9822,7 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
         label: "Professional Setup",
         kit: "Pearl Masters Maple Complete ($3,000+)",
         cymbals: "Full Sabian AAX selection ($1,800+)",
-        pedals: "Pearl Demon Drive Double Pedal ($600)",
+        pedals: "Pearl Eliminator Double Bass Pedal ($600)",
         heads: "Full Evans setup ($150)",
         notes: "Recording and touring-ready setup matching Cannibal Corpse's brutal sound."
       }

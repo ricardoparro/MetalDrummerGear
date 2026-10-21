@@ -816,7 +816,7 @@ export const ENDORSEMENT_TIMELINE = {
     band: 'Periphery',
     currentEndorsements: {
       drums: { brand: 'Pearl', since: '2015', signature: true },
-      cymbals: { brand: 'Meinl', model: 'Artist Concept', since: '2010s', signature: true },
+      cymbals: { brand: 'Meinl', model: 'Byzance Traditional / Byzance Dark / Artist Concept', since: '2010s', signature: true },
       sticks: { brand: 'Promark', since: '2015', signature: true },
       heads: { brand: 'Evans', since: '2010s' },
     },

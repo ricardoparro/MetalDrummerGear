@@ -1379,7 +1379,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/matt-halpern.webp',
     bio: 'Matt Halpern, born in 1983, is the drummer for progressive metal band Periphery and one of the most influential figures in the djent movement. His drumming combines polyrhythmic complexity with electronic elements and modern production techniques. Halpern\'s ability to navigate complex time signatures while maintaining groove has made him a role model for a new generation of progressive metal drummers. He is also an accomplished drum educator, sharing his knowledge through clinics and online platforms.',
-    kitOverview: 'Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range and articulate response across Periphery\'s complex polyrhythmic arrangements. As one of the key architects of the djent movement and a Berklee College of Music graduate, Halpern has built one of progressive metal\'s most studied drum sets, balancing technical precision with an organic, groove-focused feel.\n\nThe centerpiece of the Matt Halpern drum kit is his Pearl Reference 14×6.5" Brass snare drum, delivering cutting, focused crack that sits precisely within Periphery\'s dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan. The Matt Halpern drum set features Meinl Byzance Series cymbals throughout: 15" Dark Hi-Hats for a dry, controlled feel on odd-time grooves; 18" and 20" Extra Dry Medium Crashes for quick-decaying accents; a 22" Transition Ride for clear articulation in complex patterns; and an 18" Extra Dry China for aggressive punctuation. A Pearl Demon Drive double pedal drives the precise double bass lines beneath djent\'s syncopated rhythms. Promark Matt Halpern Signature sticks complete the rig.',
+    kitOverview: 'Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range and articulate response across Periphery\'s complex polyrhythmic arrangements. As one of the key architects of the djent movement and a Berklee College of Music graduate, Halpern has built one of progressive metal\'s most studied drum sets, balancing technical precision with an organic, groove-focused feel.\n\nThe centerpiece of the Matt Halpern drum kit is his own Pearl Matt Halpern Signature snare drum (MH1460/B) — a 14x6" 1.5mm brass shell with a black powder-coat finish, delivering cutting, focused crack that sits precisely within Periphery\'s dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan. The Matt Halpern drum set features Meinl Byzance Series cymbals throughout: 14" Traditional Medium Hi-Hats for balanced articulation on odd-time grooves; 18" and 20" Traditional Extra Thin Hammered Crashes for quick-decaying accents; a 21" Byzance Dark Double Down Crash-Ride (his signature model) for clear articulation in complex patterns; and his co-developed Artist Concept "Double Down Stack" for aggressive punctuation. A Pearl Demon Drive double pedal drives the precise double bass lines beneath djent\'s syncopated rhythms. Promark Matt Halpern Signature sticks complete the rig.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Matt_Halpern',
       'https://www.instagram.com/matthalpernofficial/',
@@ -1388,15 +1388,17 @@ const drummers = [
     ],
     gear: {
       drums: 'Pearl Reference Series',
-      snare: 'Pearl Reference 14x6.5" Brass',
-      cymbals: 'Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China)',
+      snare: 'Pearl Matt Halpern Signature 14x6" Brass (MH1460/B)',
+      cymbals: 'Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack")',
       hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
       sticks: 'Promark Matt Halpern Signature',
       verified: true,
-      verifiedAt: '2026-08-08',
+      verifiedAt: '2026-10-21',
       sources: [
         'https://pearldrum.com/en/artist/matt-halpern',
-        'https://meinlcymbals.com/en/artists/matt-halpern-a1523.html'
+        'https://meinlcymbals.com/en/artists/matt-halpern-a1523.html',
+        'https://www.sweetwater.com/store/detail/MH1460B--pearl-matt-halpern-signature-snare-drum-14-by-6-inch',
+        'https://www.drum-tec.com/meinl-byzance-matt-halpern-artist-s-choice-cymbal-set-a-cs2'
       ]
     },
     photos: [

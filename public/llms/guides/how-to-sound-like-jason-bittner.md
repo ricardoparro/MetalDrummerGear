@@ -7,31 +7,31 @@
 
 ## Overview
 
-Jason Bittner has spent over two decades proving that thrash-tempo velocity and metalcore groove aren't opposing skills — they're the same skill applied to different arrangements. As the drummer behind New England's Shadows Fall since 1997, Bittner helped architect the New Wave of American Heavy Metal (NWOAHM), a style that fused melodic metalcore songwriting with thrash-level technical drumming. His breakout performance on "The Light That Blinds" from the Grammy-nominated The War Within (2004) remains a masterclass in dynamic groove control, locking dense double-bass patterns beneath syncopated riffs without ever losing the pocket.
+Jason Bittner has spent over two decades proving that thrash-tempo velocity and metalcore groove aren't opposing skills — they're the same skill applied to different arrangements. As the drummer behind New England's Shadows Fall since 2001, Bittner helped architect the New Wave of American Heavy Metal (NWOAHM), a style that fused melodic metalcore songwriting with thrash-level technical drumming. His breakout performance on "The Light That Blinds" from the Grammy-nominated The War Within (2004) remains a masterclass in dynamic groove control, locking dense double-bass patterns beneath syncopated riffs without ever losing the pocket.
 
-In 2012, Bittner took on a second full-time chair, joining New Jersey thrash legends Overkill — one of the genre's most demanding and consistent drum seats. Rather than diluting his sound, holding both roles simultaneously sharpened it: Overkill's straight-ahead thrash velocity and Shadows Fall's polyrhythmic NWOAHM textures pull from the same technical foundation, executed with different dynamic intent.
+In 2017, Bittner took on a second full-time chair, joining New Jersey thrash legends Overkill — one of the genre's most demanding and consistent drum seats. Rather than diluting his sound, holding both roles simultaneously sharpened it: Overkill's straight-ahead thrash velocity and Shadows Fall's polyrhythmic NWOAHM textures pull from the same technical foundation, executed with different dynamic intent.
 
 ## Kit Setup
 
-Jason Bittner plays a **Tama Starclassic Performer B/B** kit with birch/bubinga hybrid shells:
+Jason Bittner plays a **Mapex Saturn V** kit with all-maple shells:
 
 - **Kick Drums:** 22" x 18" Bass Drums (x2)
-- **Snare:** 14" x 6.5" Tama Starphonic Steel
+- **Snare:** 14" x 6.5" Mapex Black Panther Brass
 - **Rack Toms:** 10", 12"
 - **Floor Toms:** 14", 16"
-- **Cymbals:** Sabian HHX / HH Series — 14" HHX Hi-Hats, 16" and 18" HHX Crashes, 20" HH Ride, HHX China
-- **Pedals:** DW 9002 Double Bass Pedal
-- **Sticks:** Vic Firth 5B
-- **Heads:** Remo Powerstroke 3 (kick), Remo Ambassador Coated (snare batter, tom batter), Remo Diplomat Snare Side (snare resonant)
+- **Cymbals:** Zildjian K and A Custom Series — Zildjian K 14" Hi-Hats, Zildjian A Custom 18" Crash, Zildjian A Custom 19" Crash, Zildjian K Custom 21" Ride, Zildjian K 18" China
+- **Pedals:** Mapex Falcon Double Pedal
+- **Sticks:** ProMark Jason Bittner Signature 5BX
+- **Heads:** Evans EMAD (kick batter), Evans G2 Coated (kick resonant, snare batter, toms), Evans Snare Side (snare resonant), Evans G1 Clear (resonant)
 
-Birch plies deliver focused attack while the bubinga ply adds warmth and body, keeping the kit from sounding brittle against dense, distorted guitars in both Shadows Fall's NWOAHM arrangements and Overkill's thrash context.
+The all-maple shell pack delivers focused attack while adding tonal warmth, keeping the kit from sounding brittle against dense, distorted guitars in both Shadows Fall's NWOAHM arrangements and Overkill's thrash context.
 
 ## Tuning & Setup
 
 Bittner tunes for attack and projection that stays articulate against dense, downtuned guitars in both NWOAHM and straight thrash contexts:
 
-- **Kick:** Medium-tight tension with Powerstroke 3 heads front and back for built-in muffling. A focused, punchy tone keeps sustained double-bass patterns articulate rather than blurring into a boomy wash.
-- **Snare:** Medium-high tension, minimal muffling. The steel shell stays articulate for fast backbeats and ghost notes while retaining body for accented rimshots.
+- **Kick:** Medium-tight tension with Evans EMAD front and back for built-in muffling. A focused, punchy tone keeps sustained double-bass patterns articulate rather than blurring into a boomy wash.
+- **Snare:** Medium-high tension, minimal muffling. The brass shell stays articulate for fast backbeats and ghost notes while retaining warm body for accented rimshots.
 - **Toms:** Medium tension, light muffling. Balances articulate attack with enough sustain to support melodic transitions in NWOAHM arrangements.
 
 ## Technique Tips
@@ -44,19 +44,19 @@ Bittner's technique is built on dynamic control across two distinct vocabularies
 - **Thrash Even-Stroke Double Bass (180–210 BPM, Advanced):** Sustained, even 16th-note double bass at high velocity, providing continuous rhythmic momentum under Overkill's thrash riff cycles rather than punctuating accents.
 - **Dynamic Cymbal Shaping (Variable, Intermediate):** Pulling back cymbal density and snare volume during melodic passages, then driving at full velocity through breakdowns and choruses.
 
-**Key songs to study:** *The Light That Blinds* (The War Within, 2004) · *What Drives the Weak* (The War Within, 2004) · *Electric Rattlesnake* (The Electric Age, 2012)
+**Key songs to study:** *The Light That Blinds* (The War Within, 2004) · *What Drives the Weak* (The War Within, 2004) · *The Wings of War* (The Wings of War, 2019)
 
 ## Gear Shopping List
 
 | Item | Bittner's Spec | Budget Alternative |
 |------|-----------------|---------------------|
-| Drum Kit | Tama Starclassic Performer B/B | Tama Imperialstar (~$600) |
-| Snare | Tama Starphonic Steel 14" x 6.5" | Pearl Sensitone Steel or Ludwig Supraphonic |
-| Cymbals | Sabian HHX / HH Series | Sabian SBR or B8 Pack (~$200) |
-| Pedal | DW 9002 Double Bass Pedal | Tama Speed Cobra Double (~$150) |
-| Sticks | Vic Firth 5B | Promark 5B |
+| Drum Kit | Mapex Saturn V | Mapex Tornado (~$600) |
+| Snare | Mapex Black Panther Brass 14" x 6.5" | Pearl Sensitone Brass or Tama Bell Brass |
+| Cymbals | Zildjian K and A Custom Series | Zildjian ZBT Pack (~$200) |
+| Pedal | Mapex Falcon Double Pedal | Mapex P400 Double (~$150) |
+| Sticks | ProMark Jason Bittner Signature 5BX | ProMark 5B |
 
-**Starter budget path (~$900):** Tama Imperialstar + Sabian SBR or B8 pack + Tama Speed Cobra double pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/sabian](https://metalforge.io/brands/sabian).
+**Starter budget path (~$900):** Mapex Tornado + Zildjian ZBT pack + Mapex P400 double pedal. See [/brands/mapex](https://metalforge.io/brands/mapex) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
 
 ## Practice Routine
 
@@ -69,13 +69,13 @@ Bittner's technique is built on dynamic control across two distinct vocabularies
 ## FAQ
 
 **Q: What drum kit does Jason Bittner play?**  
-A: Jason Bittner plays a Tama Starclassic Performer B/B kit with birch/bubinga hybrid shells, a double 22" x 18" bass drum configuration, and a 14" x 6.5" Tama Starphonic Steel snare. His cymbals are Sabian HHX and HH series, and he uses a DW 9002 double bass pedal.
+A: Jason Bittner plays a Mapex Saturn V kit with all-maple shells, a double 22" x 18" bass drum configuration, and a 14" x 6.5" Mapex Black Panther Brass snare. His cymbals are Zildjian K and A Custom series, and he uses a Mapex Falcon Double Pedal.
 
 **Q: How does Jason Bittner combine NWOAHM groove with thrash drumming?**  
 A: Bittner shifts between two vocabularies depending on the band: in Shadows Fall, he plays syncopated double-bass patterns with dynamic cymbal shaping that leaves room for melodic guitar lines; in Overkill, he plays sustained, even-stroke double bass at high velocity to drive straight thrash riffs. Both rely on the same technical foundation of precise kick-to-riff locking.
 
 **Q: What bands has Jason Bittner played in?**  
-A: Jason Bittner has drummed for Shadows Fall since 1997, helping define the New Wave of American Heavy Metal sound across albums like The Art of Balance and The War Within. He also played in Flotsam and Jetsam (2013-2017) before joining thrash legends Overkill full-time in 2012, where he remains the band's drummer today.
+A: Jason Bittner has drummed for Shadows Fall since 2001, helping define the New Wave of American Heavy Metal sound across albums like The Art of Balance and The War Within. He also played in Flotsam and Jetsam (2013-2017) before joining thrash legends Overkill full-time in 2017, where he remains the band's drummer today.
 
 **Q: Is Jason Bittner's style good for beginners?**  
 A: Bittner's sustained double-bass endurance work and dynamic-shaping drills are approachable for intermediate players, while his syncopated NWOAHM riff-lock patterns and thrash-velocity double bass are advanced techniques worth building toward gradually.

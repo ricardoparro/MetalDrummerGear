@@ -1127,7 +1127,7 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
         shells: 'Bubinga',
         finish: 'Custom',
         config: {
-          kick: '22" x 18" Bass Drum',
+          kick: '22" x 18" Bass Drums (x2)',
           snare: '14" x 6.5" Tama S.L.P. G-Maple',
           toms: ['10" x 8" Tom', '12" x 9" Tom'],
           floorToms: ['16" x 16" Floor Tom']
@@ -1147,19 +1147,22 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
         brand: 'Zildjian',
         series: 'K Custom / A Custom / Z Custom',
         setup: [
+          { type: 'Hi-Hats', model: 'Zildjian 14" K Sweet Hi-Hats', notes: 'Warm, controlled chick' },
           { type: 'Hi-Hats', model: 'Zildjian 14" A Custom Hi-Hats', notes: 'Bright, cutting response' },
-          { type: 'Crash', model: 'Zildjian 18" K Custom Dark Crash', notes: 'Warm, controlled crash' },
-          { type: 'Crash', model: 'Zildjian 19" K Custom Dark Crash', notes: 'Fuller crash for heavier hits' },
+          { type: 'Crash', model: 'Zildjian 18" K Custom Hybrid Crash', notes: 'Fast, cutting crash' },
+          { type: 'Crash', model: 'Zildjian 19" A Custom Crash', notes: 'Bright, projecting crash' },
+          { type: 'Crash', model: 'Zildjian 20" K Sweet Crash', notes: 'Fuller crash for heavier hits' },
           { type: 'Ride', model: 'Zildjian 21" Z Custom Mega Bell Ride', notes: 'Cutting bell for accents' },
-          { type: 'China', model: 'Zildjian 18" A Custom China', notes: 'Controlled trash' }
+          { type: 'China', model: 'Zildjian 18" China', notes: 'Controlled trash' },
+          { type: 'China', model: 'Zildjian 20" China', notes: 'Fuller trash for tribal punctuation' }
         ],
         description: "Mario's Zildjian cymbals provide the bright, cutting tones that suit Gojira's atmospheric heaviness."
       },
       pedals: {
         brand: 'Tama',
-        model: 'Tama Iron Cobra 900 Power Glide Double Pedal',
-        description: "Mario uses Tama's flagship pedal for smooth, fast response. The Power Glide cam provides a consistent feel throughout the stroke.",
-        alternative: "Tama Speed Cobra or Iron Cobra 600"
+        model: 'Single Pedal (x2 — one per bass drum)',
+        description: "Mario forgoes a double pedal entirely, instead running a single Tama pedal on each of his two bass drums for a more organic, powerful feel.",
+        alternative: "Tama Iron Cobra or Speed Cobra single pedal"
       },
       sticks: {
         brand: 'Tama',
@@ -1242,7 +1245,7 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
         label: "Starter Setup",
         kit: "Tama Imperialstar ($600)",
         cymbals: "Meinl HCS Set ($200)",
-        pedals: "Tama Iron Cobra 200 Double ($200)",
+        pedals: "Tama Iron Cobra 200 Single Pedal (x2) ($200)",
         sticks: "Vic Firth 5A ($10)",
         notes: "Focus on dynamics and groove development at this level."
       },
@@ -1251,7 +1254,7 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
         label: "Intermediate Setup",
         kit: "Tama Starclassic Performer ($1,800)",
         cymbals: "Meinl Byzance Traditional Set ($850)",
-        pedals: "Tama Iron Cobra 600 Double ($350)",
+        pedals: "Tama Iron Cobra 600 Single Pedal (x2) ($350)",
         sticks: "Vic Firth 5A ($10)",
         notes: "Getting into professional territory with quality Meinl cymbals."
       },
@@ -1260,7 +1263,7 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
         label: "Professional Setup",
         kit: "Tama Starclassic Bubinga ($2,800+)",
         cymbals: "Meinl Byzance Vintage/Extra Dry Custom ($2,000+)",
-        pedals: "Tama Iron Cobra 900 Double ($500)",
+        pedals: "Tama Iron Cobra 900 Power Glide Single Pedal (x2) ($500)",
         heads: "Full Remo setup ($150)",
         notes: "Gojira-ready setup matching Mario's tone."
       }

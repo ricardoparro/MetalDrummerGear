@@ -1128,3 +1128,30 @@ Pre-07:00 UTC cheap pulse. Metrics 06:18 UTC (392u/443s/619v 7d; GSC 16,387 impr
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-10-21 12:16 (mid-day pulse — 8/8 proposals verified+promoted, #9449-9456)
+
+### Context (≤3 lines)
+Pre-13:00 UTC pulse. Metrics 12:16 UTC (445u/505s/683v 7d; GSC 16,387 impr/219 clicks/1.34% CTR/pos 8.6). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9449-9456, filed 07:15-07:16 UTC), continuing the llms-mirror fact-drift sweep — this batch targets `public/llms/guides/*.md` hand-authored mirrors that never got regenerated after their `soundLikeGuides.js` source was fixed.
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (cited lines + ground-truth cross-check vs soundLikeGuides.js/bands.js/extendedBios.js, dupe-search): #9449 (Matt Greiner fabricated Pearl/Sabian/mixed-head lineup vs verified Mapex/Paiste/Evans G2; #1 GA4 page this week) VERIFIED-WITH-NOTE — extra Pearl fabrication at line 10 outside the cited ranges, root-caused to #6505/PR#6538 fixing the source but never regenerating this static mirror (same class as #8682). #9450 (Scott Travis cross-contaminated birthdate/birthplace from Chris Adler + wrong cymbal brand) VERIFIED-CLEAN — corrected line numbers, flagged the contamination as garbled multi-source not clean copy-paste. #9451 (Paul Mazurkiewicz fabricated cymbal/pedal brand) VERIFIED-WITH-NOTE — found an extra unreported Tama-kit fabrication (ground truth is Pearl Reference) in the same file. #9452 (Nick Menza invented Sonor/Zildjian/Evans rig vs verified Pearl/Sabian/Remo final-era) VERIFIED-CLEAN. #9453 (Nicko McBrain omits Dec 2024 retirement) VERIFIED-WITH-NOTE — found the Gear section itself is also stale (Sonor SQ2 vs verified British Drum Co. since 2019), beyond the issue's retirement-framing scope. #9454 (Ryan Van Poederooyen wrong tenure + fabricated Empath credit) VERIFIED-CLEAN — found an extra Empath reference at line 45 not explicitly cited. #9455 (Pete Sandoval fabricates specific Remo head models vs a genuine hedge in source) VERIFIED-WITH-NOTE — told implementer to preserve the hedge, not swap in different-but-still-specific models. #9456 (Paul Bostaph wrong birthplace + fabricated 2024 Testament reunion, both already disproven in closed #9268/#9271) VERIFIED-WITH-NOTE — confirmed against bands.js real Testament dates (1992-93/2004/2007-11) and flagged the accompanying unverified Exodus credit for removal per verified-only rule. All 8 promoted to `ai-fix`; 6 with implementer-note comments (#9449/#9450/#9451/#9453/#9454/#9455/#9456 — all but #9452).
+- **GSC content-gap** (metrics.md, 1 row): `jaska raatikainen` (unchanged volume) re-matched to the standing class-2 bare-name ruling (`learned-patterns.md` line 211), 9th consecutive confirmation. No new action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: nothing open >3 days without hold/in-progress/pr-opened/blocked (the 8 just-promoted issues are fresh, created 07:15-07:16 UTC).
+- **Starvation check**: pre-triage backlog 0 tripped the trigger shape, but bank held 8 (not ≤2) — not a real starvation event, same drain-then-refill cadence as every recent run; this run's own triage is the resolution.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-19 — next weekly refresh due ~2026-10-26, not re-run.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9449-9456 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (6 with implementer notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: row already ruled. ✅ L1/L2/L3: not due again yet. ✅ Starvation: not a real event (drain-then-refill). ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9449-9456 pick up via Roadie; confirm the extra findings get used (Greiner line-10 Pearl ref, Mazurkiewicz Tama-kit/brand-link fix, McBrain Sonor→BDC gear fix, Van Poederooyen line-45 Empath ref, Sandoval hedge preservation, Bostaph Exodus-credit removal).
+2. L1/L2/L3 weekly refresh due ~2026-10-26 — full close-the-loop pass then.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

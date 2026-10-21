@@ -8370,7 +8370,7 @@ This guide covers Larkin's groove-focused technique, his physical approach to ha
     readingTime: '10 min',
     intro: {
       title: "Painkiller and Beyond: Judas Priest's Most Precise Drummer",
-      content: `Scott Travis (born September 8, 1961, in Washington, D.C.) joined Judas Priest in 1989 from Racer X, the neoclassical metal band featuring guitarist Paul Gilbert. His debut with Priest was Painkiller (1990) — widely regarded as one of heavy metal's greatest albums and one of the most demanding drum performances ever recorded. The combination of Travis's American thrash-influenced aggression and Priest's British heavy metal tradition created something new: speed metal precision fused with NWOBHM songwriting.
+      content: `Scott Travis (born September 6, 1961, in Norfolk, Virginia) joined Judas Priest in 1989 from Racer X, the neoclassical metal band featuring guitarist Paul Gilbert. His debut with Priest was Painkiller (1990) — widely regarded as one of heavy metal's greatest albums and one of the most demanding drum performances ever recorded. The combination of Travis's American thrash-influenced aggression and Priest's British heavy metal tradition created something new: speed metal precision fused with NWOBHM songwriting.
 
 Painkiller transformed Judas Priest. After the commercial experimentation of Ram It Down (1988), the band returned with music written around Travis's capabilities — faster, more aggressive, more technically demanding than anything they had recorded with previous drummers. The title track, "Metal Meltdown," and "Rapid Fire" showcase Travis maintaining 200+ BPM double-bass patterns with machine-like consistency while the songs still groove and breathe as heavy metal compositions rather than just technical exercises.
 
@@ -8462,10 +8462,10 @@ This guide covers Travis's technique across both the extreme Painkiller era and 
         brand: 'Paiste',
         series: 'Paiste RUDE / 2002 Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Paiste 14" 2002 Sound Edge Hi-Hats', notes: 'Bright, cutting hi-hat for fast metal patterns' },
-          { type: 'Crash', model: 'Paiste 18" RUDE Crash/Ride', notes: 'Fast, explosive crash for accent moments' },
-          { type: 'Crash', model: 'Paiste 19" 2002 Crash', notes: 'Heavier crash for section climaxes' },
-          { type: 'Ride', model: 'Paiste 21" 2002 Ride', notes: 'Defined bell and controlled wash for ride-driven sections' },
+          { type: 'Hi-Hats', model: 'Paiste 14" RUDE Hi-Hats', notes: 'Bright, cutting hi-hat for fast metal patterns' },
+          { type: 'Crash', model: 'Paiste 18" RUDE Crash', notes: 'Fast, explosive crash for accent moments' },
+          { type: 'Crash', model: 'Paiste 19" RUDE Crash', notes: 'Heavier crash for section climaxes' },
+          { type: 'Ride', model: 'Paiste 22" RUDE Power Ride', notes: 'Defined bell and controlled wash for ride-driven sections' },
           { type: 'China', model: 'Paiste 18" RUDE China', notes: 'Trashy China for aggressive accent punctuation' }
         ],
         description: "Travis has played Paiste cymbals continuously since 1987, an endorsement he established during his Racer X years before joining Judas Priest — the one piece of his rig that has never switched brands. His setup draws from the RUDE and 2002 series: bright, cutting character suited to speed metal's aggressive frequency range, with fast-responding crashes for rapid accent changes and a defined ride bell for groove sections."
@@ -8598,7 +8598,7 @@ This guide covers Travis's technique across both the extreme Painkiller era and 
       },
       {
         question: "What cymbals does Scott Travis use?",
-        answer: "Scott Travis uses Paiste cymbals, drawing from the RUDE and 2002 series — an endorsement he's held continuously since 1987, before he even joined Judas Priest, and the one part of his rig that has never switched brands. His setup typically includes 14\" hi-hats for fast, cutting hi-hat patterns; 18\" and 19\" crashes for explosive accent work; a 21\" ride for groove-driven sections; and an 18\" China for aggressive accent moments. Paiste's bright, articulate character suits speed metal's demanding frequency requirements."
+        answer: "Scott Travis uses Paiste cymbals, drawing from the RUDE and 2002 series — an endorsement he's held continuously since 1987, before he even joined Judas Priest, and the one part of his rig that has never switched brands. His setup typically includes 14\" hi-hats for fast, cutting hi-hat patterns; 18\" and 19\" crashes for explosive accent work; a 22\" Power Ride for groove-driven sections; and an 18\" China for aggressive accent moments. Paiste's bright, articulate character suits speed metal's demanding frequency requirements."
       },
       {
         question: "What Judas Priest songs should I learn to play like Scott Travis?",

@@ -1,13 +1,13 @@
 # How to Sound Like Paul Bostaph — Slayer / Groove-Thrash Drum Guide
 
 **Drummer:** Paul Bostaph  
-**Band:** Slayer / Testament / Forbidden  
+**Band:** Slayer / Forbidden  
 **Genre:** Thrash Metal  
 **Guide URL:** https://metalforge.io/guides/how-to-sound-like-paul-bostaph
 
 ## Overview
 
-Paul Bostaph (born March 4, 1964, in San Jose, California) stepped into one of the most scrutinized seats in metal history when he joined Slayer in 1992 following Dave Lombardo's departure. Rather than imitate Lombardo's frenetic aggression, Bostaph brought something different: a tighter, more groove-based approach to thrash that gave Divine Intervention (1994) and Diabolus in Musica (1998) a distinct character from the Lombardo era. He returned to Slayer in 2013 and remained until the band's final show in 2019.
+Paul Bostaph (born March 4, 1964, in San Francisco, California) stepped into one of the most scrutinized seats in metal history when he joined Slayer in 1992 following Dave Lombardo's departure. Rather than imitate Lombardo's frenetic aggression, Bostaph brought something different: a tighter, more groove-based approach to thrash that gave Divine Intervention (1994) and Diabolus in Musica (1998) a distinct character from the Lombardo era. He returned to Slayer in 2013 and remained until the band's final show in 2019.
 
 The key distinction between Bostaph and Lombardo is feel. Lombardo's aggression is pure attack — every hit is an assault. Bostaph's playing has groove at its core: his double-bass runs have a pocket, his blasts are locked into the guitar riff, and his fills land with a sense of inevitability rather than chaos. This doesn't make him "less" than Lombardo — it makes him a different drummer who served Slayer's songwriting in a different era.
 
@@ -84,7 +84,7 @@ A: Yes. Bostaph played on God Hates Us All (2001), which won the Grammy Award fo
 A: Bostaph uses Zildjian A Custom cymbals. His setup includes 14" A Custom hi-hats, 18" and 19" A Custom crashes, a 21" A Custom ride, and an 18" A Custom China. The A Custom series' brilliant finish and bright, cutting tone projects cleanly through Slayer's dense guitar arrangements.
 
 **Q: What bands did Paul Bostaph play with before Slayer?**  
-A: Before joining Slayer in 1992, Bostaph established his reputation in the San Francisco Bay Area thrash scene with Forbidden (1987-1992), recording the albums Forbidden Evil (1988) and Twisted Into Form (1990). He also played with Testament during a period between his two Slayer tenures (1999-2001, 2024-present) and Exodus (2005-2007).
+A: Before joining Slayer in 1992, Bostaph established his reputation in the San Francisco Bay Area thrash scene with Forbidden (1987-1992), recording the albums Forbidden Evil (1988) and Twisted Into Form (1990).
 
 ---
 

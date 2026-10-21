@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-21 08:21 UTC · Window: last 12h*
+*Generated 2026-10-21 19:13 UTC · Window: last 12h*
 
 ---
 
@@ -8,27 +8,27 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
+| Open `ai-fix` issues | **28** |
 | Open `seo-proposal` issues | 12 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **15** |
+| Open PRs | 3 |
+| PRs merged in window | **16** |
 | Issues closed in window | 16 |
-| Commits to `main` in window | 19 |
+| Commits to `main` in window | 21 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **404** |
-| Sessions | 457 |
-| Page views | 630 |
-| Engagement rate | 61.49% |
-| GSC impressions | 16,387 |
-| GSC clicks | 219 |
-| GSC CTR | 1.34% |
-| GSC avg position | 8.6 |
+| Active users | **464** |
+| Sessions | 525 |
+| Page views | 711 |
+| Engagement rate | 60.38% |
+| GSC impressions | 20,184 |
+| GSC clicks | 253 |
+| GSC CTR | 1.25% |
+| GSC avg position | 8.7 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~2,700 |
-| Est. ad revenue / mo | **~€8.10** |
-| Progress to €1000/mo | 0.8% |
-| Pageviews/mo needed for €1000 | ~333,333 (123× current) |
+| Est. pageviews / mo | ~3,047 |
+| Est. ad revenue / mo | **~€9.14** |
+| Progress to €1000/mo | 0.9% |
+| Pageviews/mo needed for €1000 | ~333,333 (109× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -74,22 +74,22 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| Verify YouTube Videos | 17 | 9 | 8 |
-| PR Merger | 16 | 16 | 0 |
-| Verify Data Modules | 16 | 8 | 8 |
-| Check Sitemap Drift | 16 | 0 | 16 |
-| Check llms freshness | 9 | 0 | 9 |
-| Perf Budget Gate | 8 | 0 | 8 |
-| .github/workflows/check-vercel-rewrites.yml | 8 | 0 | 8 |
+| PR Merger | 53 | 52 | 0 |
+| .github/workflows/check-vercel-rewrites.yml | 14 | 0 | 14 |
+| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
+| Health Check | 4 | 4 | 0 |
+| Verify YouTube Videos | 3 | 1 | 2 |
+| Verify Data Modules | 3 | 1 | 2 |
+| Daily Digest | 2 | 1 | 0 |
+| Loop Watchdog | 2 | 2 | 0 |
+| SEO Agent | 2 | 1 | 0 |
+| CEO Agent | 2 | 2 | 0 |
 | Verify API Modules | 2 | 1 | 1 |
-| Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
-| Loop Watchdog | 1 | 1 | 0 |
-| SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
-| CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| Check llms freshness | 2 | 0 | 2 |
+| Perf Budget Gate | 2 | 0 | 2 |
+| Check Sitemap Drift | 2 | 0 | 2 |
+| Roadie Night Fleet | 1 | 0 | 0 |
+| X Agent | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
@@ -100,8 +100,16 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - 2026-10-20 18:14 (afternoon pulse — 8/8 proposals verified+promoted, #9401-9408)
 - 2026-10-21 06:18 (cheap pulse — 8/8 proposals verified+promoted, #9433-9441)
 
-## 📦 Shipped to main (15)
+## 📦 Shipped to main (16)
 
+- #9482 fix: #9456 SEO: Paul Bostaph llms mirror public/llms/guides/how-to-sound-like-paul-bostaph.md has wrong birthplace + fabricates a 2024 Testament reunion already disproven in #9271
+- #9481 fix: #9455 SEO: Pete Sandoval llms mirror public/llms/guides/how-to-sound-like-pete-sandoval.md fabricates specific Remo head models — verified only 'Pinstripe or Emperor' hedge
+- #9480 fix: #9454 SEO: Ryan Van Poederooyen llms mirror public/llms/guides/how-to-sound-like-ryan-van-poederooyen.md says tenure 'since 1999' + credits him on Empath (2019) — verified 2002-2018, no Empath
+- #9479 fix: #9453 SEO: Nicko McBrain llms mirror public/llms/guides/how-to-sound-like-nicko-mcbrain.md omits Dec 2024 touring retirement, implies he's still active
+- #9477 fix: #9452 SEO: Nick Menza llms mirror public/llms/guides/how-to-sound-like-nick-menza.md invents a Sonor/Zildjian/Evans rig — verified final-era Pearl Reference Custom/Sabian/Remo
+- #9476 fix: #9451 SEO: Paul Mazurkiewicz llms mirror public/llms/guides/how-to-sound-like-paul-mazurkiewicz.md fabricates cymbal brand (Sabian vs Meinl) + pedal (Tama vs Pearl Eliminator)
+- #9475 fix: #9450 SEO: Scott Travis llms mirror public/llms/guides/how-to-sound-like-scott-travis.md has cross-contaminated birthdate/birthplace + wrong cymbal brand
+- #9473 fix: #9449 SEO: Matt Greiner llms mirror public/llms/guides/how-to-sound-like-matt-greiner.md fabricates entire gear brand lineup (#1 GA4 page this week)
 - #9464 fix: #9441 SEO: Matt Halpern cymbal/snare 'verified' fields in api/drummers/index.js contradict prior sourced investigations (#6377/#7716) + extendedBios.js's own unverified-snare hedge
 - #9463 fix: #9440 SEO: Travis Orbin soundLikeGuides.js — snare shell material contradicts verified Maple (says Steel)
 - #9462 fix: #9439 SEO: Dave Lombardo soundLikeGuides.js — fabricated signature snare model/shell + wrong ride cymbal size/model
@@ -109,24 +117,17 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - #9460 fix: #9436 SEO: Jay Weinberg soundLikeGuides.js — stale current-Slipknot framing (post-Suicidal Tendencies departure) + 3 fabricated gear fields
 - #9459 fix: #9435 SEO: Mike Mangini soundLikeGuides.js — entire guide frozen pre-2023 Dream Theater departure + 4 fabricated gear specs
 - #9458 fix: #9434 SEO: Matt Greiner soundLikeGuides.js — wrong stick tip shape + mislabeled pedal drive type (high-traffic page)
-- #9457 fix: #9433 SEO: Mario Duplantier soundLikeGuides.js — single-kick field self-contradicts dual-kick fact + double-pedal contradiction + cymbal drift (high-traffic page)
-- #9448 fix: #9423 SEO: Scott Travis soundLikeGuides.js — wrong birthdate/birthplace (cross-contaminated from Chris Adler) + cymbal piece models/ride size wrong
-- #9446 fix: #9420 SEO: Paul Mazurkiewicz soundLikeGuides.js budgetSetups pedal tiers still say 'Pearl Demon Drive' after #9086 fixed the main field to Eliminator; cymbal sub-series/sizes also drift
-- #9447 fix: #9422 SEO: Ryan Van Poederooyen soundLikeGuides.js intro still implies ongoing DTP tenure + falsely credits Empath (2019) — missed by #9239's fix
-- #9445 fix: #9421 SEO: Pete Sandoval soundLikeGuides.js gear.heads fabricates specific Remo models (Powerstroke P3/Ambassador X/Emperor Clear) — verified only 'Pinstripe or Emperor'
-- #9444 fix: #9419 SEO: Paul Bostaph soundLikeGuides.js intro misattributes God Hates Us All (2001) to his 2013-2019 Slayer stint
-- #9443 fix: #9417 SEO: Nick Menza soundLikeGuides.js gear.cymbals/gear.snare + FAQ frozen at 1990-92 era, missed by #8581/#8584's sibling fixes
-- #9442 fix: #9418 SEO: Nicko McBrain soundLikeGuides.js omits Dec 2024 touring retirement, fabricates steel snare shell, drops 'Signature Series' from cymbal line
+- _+1 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 1993h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2089h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2266h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3351h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5781h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2004h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2100h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2277h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3362h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5792h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

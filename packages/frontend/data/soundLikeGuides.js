@@ -8977,12 +8977,7 @@ This guide breaks down the technique, gear, and practice approach that built one
         description: "Sandoval uses heavier 5B/2B sticks — suited to the raw power and stamina his technique demands for sustained 300+ BPM blast beat passages, where extra stick mass helps drive volume and rebound through extended alternating double bass work.",
         alternative: "Promark 5B/2B or Vater 5B/2B for comparable weight and feel"
       },
-      heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Ambassador X Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
-      }
+      heads: 'Remo — reportedly Pinstripe or Emperor (specific per-position models not publicly confirmed)'
     },
     tuning: {
       title: "Tuning for the Morbid Angel Sound",

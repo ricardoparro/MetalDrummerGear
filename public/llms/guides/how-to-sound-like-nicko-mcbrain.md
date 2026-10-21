@@ -7,7 +7,7 @@
 
 ## Overview
 
-Nicko McBrain (born 1952) has been Iron Maiden's drummer since 1982 — over four decades of continuous service that has made him one of the most beloved and imitated drummers in heavy metal history. His galloping triplet ride bell pattern, explosive "Where Eagles Dare" tom intro, and single-bass-drum technique are studied by drummers worldwide. The remarkable fact is that everything Nicko achieves — including tempos that would demand double bass from most players — is accomplished on a single bass drum pedal. That commitment shapes his entire approach: extraordinary single-foot speed, independence, and endurance in service of Iron Maiden's rhythmic identity.
+Nicko McBrain (born 1952) was Iron Maiden's drummer from 1982 until his December 2024 touring retirement, following a 2023 stroke — one of the longest continuous tenures of any drummer in heavy metal history. He remains an official/studio member of the band, with Simon Dawson now handling touring duties. His galloping triplet ride bell pattern, explosive "Where Eagles Dare" tom intro, and single-bass-drum technique are studied by drummers worldwide. The remarkable fact is that everything Nicko achieves — including tempos that would demand double bass from most players — is accomplished on a single bass drum pedal. That commitment shapes his entire approach: extraordinary single-foot speed, independence, and endurance in service of Iron Maiden's rhythmic identity.
 
 ## Key Techniques
 
@@ -27,11 +27,11 @@ Nicko McBrain plays **Sonor SQ2** kits — Sonor's fully custom, hand-built top-
 - **Snare:** Sonor Nicko McBrain Signature 14" x 6.5" — medium-high tension
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 14", 18" x 16"
-- **Cymbals:** Paiste 2002 Series — 14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China
+- **Cymbals:** Paiste 2002 & Signature Series — 14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China
 - **Sticks:** Vic Firth Nicko McBrain Signature (5B weight, slightly longer than standard)
 - **Heads:** Remo Emperor Clear (toms), Remo Coated Ambassador (snare), Remo Powerstroke 3 Clear (kick)
 
-**Historical note:** Nicko used Ludwig Vistalite (clear acrylic) kits on Piece of Mind (1983) and Premier Signia before transitioning to Sonor. Paiste 2002 cymbals have been constant throughout his entire career.
+**Historical note:** Nicko used Ludwig Vistalite (clear acrylic) kits on Piece of Mind (1983) and Premier Signia before transitioning to Sonor. His Paiste 2002 & Signature Series cymbal setup has been a constant throughout his career.
 
 ## Tuning
 
@@ -63,11 +63,11 @@ Nicko tunes for warmth and power — Iron Maiden's classic albums favor full, re
 **Q: Does Nicko McBrain use a double bass pedal?**  
 A: No. Nicko McBrain has used a single bass drum pedal his entire career — an intentional artistic commitment. He achieves remarkable speed and independence entirely through single-foot technique. This is one of the most studied aspects of his playing.
 
-**Q: What drum kit does Nicko McBrain use currently?**  
-A: Sonor SQ2 — Sonor's fully custom, hand-built top-of-the-line series. He used Ludwig Vistalite (Piece of Mind era, 1983) and Premier Signia before settling with Sonor.
+**Q: Is Nicko McBrain still Iron Maiden's touring drummer?**  
+A: No. Nicko retired from touring in December 2024, following a 2023 stroke. He remains an official/studio member of Iron Maiden, with Simon Dawson now handling touring duties. His drum kit was Sonor SQ2 — Sonor's fully custom, hand-built top-of-the-line series. He used Ludwig Vistalite (Piece of Mind era, 1983) and Premier Signia before settling with Sonor.
 
 **Q: What cymbals does Nicko McBrain use?**  
-A: Paiste 2002 Series throughout his entire career — 14" Sound Edge hi-hats, 16" & 18" Power Crashes, 22" Power Ride (essential for the gallop bell), 20" China. One of the longest brand loyalties in professional metal drumming.
+A: Paiste 2002 & Signature Series throughout his entire career — 14" Sound Edge hi-hats, 16" & 18" Power Crashes, 22" Power Ride (essential for the gallop bell), 20" China. One of the longest brand loyalties in professional metal drumming.
 
 **Q: How do I learn the Iron Maiden gallop drum pattern?**  
 A: Start with the ride bell pattern alone at 100 BPM. Add bass drum figure. Add snare on 2 and 4. Each element added only once the prior is automatic. The Trooper is the best musical context to learn in.

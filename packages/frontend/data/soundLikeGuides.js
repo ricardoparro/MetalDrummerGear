@@ -4449,41 +4449,40 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
       ]
     },
     gear: {
-      title: "Nick's Tama Artstar II & Pearl Masters Setup",
+      title: "Nick's Tama-to-Pearl Reference Custom Evolution",
       drumKit: {
         brand: 'Tama / Pearl',
-        model: 'Tama Artstar II (1990) → Pearl Masters (1992)',
-        shells: 'Birch (Tama Artstar II) / Maple (Pearl Masters)',
+        model: 'Tama Artstar II (1990) → Pearl Masters (1992) → Pearl Masterworks (1994) → Pearl Reference Custom (1997)',
+        shells: 'Birch (Tama Artstar II) / Maple (Pearl Masters, Masterworks, Reference Custom)',
         finish: 'Tama Artstar II in Midnight Blue',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Snare',
+          snare: '14" x 5.5" Snare',
           toms: ['10" x 9" Rack Tom', '12" x 10" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Nick Menza debuted on \"Rust in Peace\" (1990) with a Tama Artstar II kit in Midnight Blue finish — birch shells chosen for the focused attack needed to cut through Dave Mustaine and Marty Friedman's dense guitar arrangements. He switched to Pearl Masters for \"Countdown to Extinction\" (1992), seeking a more resonant, powerful sound than the Rust in Peace-era Tama kit.",
-        affiliateNote: "Tama Starclassic is the modern equivalent of the Artstar II's birch-shell attack; Pearl Masters Maple Complete carries forward the Countdown to Extinction-era Pearl Masters sound."
+        description: "Nick Menza debuted on \"Rust in Peace\" (1990) with a Tama Artstar II kit in Midnight Blue finish — birch shells chosen for the focused attack needed to cut through Dave Mustaine and Marty Friedman's dense guitar arrangements. He switched to Pearl Masters for \"Countdown to Extinction\" (1992), then moved up to Pearl Masterworks — the most premium kit of his career — for \"Youthanasia\" (1994), before settling on Pearl Reference Custom, his flagship professional tier, for \"Cryptic Writings\" (1997), his final full studio album with Megadeth.",
+        affiliateNote: "Tama Starclassic is the modern equivalent of the Artstar II's birch-shell attack; Pearl Reference Custom carries forward the Cryptic Writings-era final Pearl setup."
       },
       snare: {
-        brand: 'Tama / Pearl',
-        model: '14" x 6.5" Snare',
-        size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "Nick's steel snare delivered the sharp, high-pitched crack central to Megadeth's thrash sound. Tuned tight with rimshot technique, it cut through Dave Mustaine's heavily-amplified guitar wall with authority.",
-        alternative: "Ludwig Supraphonic or Pearl Sensitone Steel for similar steel snare crack"
+        brand: 'Pearl',
+        model: 'Reference Custom',
+        size: '14" x 5.5"',
+        shell: 'Maple',
+        description: "Nick's final-era Pearl Reference Custom snare delivered the sharp, high-pitched crack central to Megadeth's thrash sound. Tuned tight with rimshot technique, it cut through Dave Mustaine's heavily-amplified guitar wall with authority.",
+        alternative: "Pearl Sensitone Steel or Pearl Session Studio Select for a similar crack and projection"
       },
       cymbals: {
-        brand: 'Zildjian / Paiste',
-        series: 'Zildjian A Series (1990) → Paiste 2002 / Signature (1992)',
+        brand: 'Sabian',
+        series: 'Sabian AA / Signature Series (since 1997)',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" A New Beat Hi-Hats', notes: 'Rust in Peace (1990) — classic, defined chick with fast response for thrash tempos' },
-          { type: 'Crash', model: 'Zildjian 18" A Medium Crash', notes: 'Rust in Peace (1990) — fast response, explosive attack for song transitions' },
-          { type: 'Crash', model: 'Zildjian 16" A Medium Crash', notes: 'Rust in Peace (1990) — smaller crash for fills and accent punctuation' },
-          { type: 'Ride', model: 'Zildjian 20" A Ride', notes: 'Rust in Peace (1990) — defined bell for high-tempo ride patterns' },
-          { type: 'China', model: 'Zildjian 18" A China Boy High', notes: 'Rust in Peace (1990) — aggressive accent for thrash energy bursts' },
-          { type: 'Crash/Ride', model: 'Paiste 2002 / Signature series', notes: 'Countdown to Extinction (1992) — melodic, arena-rock-oriented production without losing thrash-level cut' }
+          { type: 'Hi-Hats', model: 'Sabian 14" AA Regular Hi-Hats', notes: 'Cryptic Writings (1997) — defined chick with fast response for thrash tempos' },
+          { type: 'Crash', model: 'Sabian 16" AA Rock Crash', notes: 'Cryptic Writings (1997) — fast response, explosive attack for song transitions' },
+          { type: 'Crash', model: 'Sabian 18" Signature Crash', notes: 'Cryptic Writings (1997) — brighter, more focused voice for the Nashville-produced record' },
+          { type: 'Ride', model: 'Sabian 20" AA Medium Ride', notes: 'Cryptic Writings (1997) — defined bell for high-tempo ride patterns' },
+          { type: 'China', model: 'Sabian 18" AA China', notes: 'Cryptic Writings (1997) — aggressive accent for thrash energy bursts' }
         ],
-        description: "Nick ran a Zildjian A / A Custom setup on \"Rust in Peace\" (1990) — the bright, cutting tone that became a signature of the album's thrash attack. For \"Countdown to Extinction\" (1992) he switched to Paiste 2002 and Signature cymbals, matching the album's more melodic, arena-rock-oriented production."
+        description: "Nick ran a Zildjian A / A Custom setup on \"Rust in Peace\" (1990), then Paiste 2002 and Signature cymbals on \"Countdown to Extinction\" (1992). He made his final switch to a Sabian AA and Signature Series setup for \"Cryptic Writings\" (1997) — a brighter, more focused voice paired with Dann Huff's contemporary Nashville production on his last full studio album with Megadeth."
       },
       pedals: {
         brand: 'Tama',
@@ -4590,22 +4589,22 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
       pro: {
         price: "$6,000+",
         label: "Professional Setup",
-        kit: "Tama Starclassic Walnut/Birch ($3,500+) or Pearl Masters Custom ($3,500+)",
-        cymbals: "Paiste 2002 / Signature Custom Selection ($1,500+)",
-        pedals: "DW 9000 Double Pedal ($700)",
-        snare: "Ludwig Supraphonic or Pearl Sensitone Steel ($200-400)",
+        kit: "Tama Starclassic Walnut/Birch ($3,500+) or Pearl Reference Custom ($3,500+)",
+        cymbals: "Sabian AA / Signature Custom Selection ($1,500+)",
+        pedals: "Tama Iron Cobra Double Pedal ($400+)",
+        snare: "Pearl Reference Custom, 14\" x 5.5\" ($300-500)",
         heads: "Full Evans setup ($200)",
-        notes: "Period-accurate birch/maple shells matching either the Rust in Peace-era Tama Artstar II or the Countdown to Extinction-era Pearl Masters, depending on which sound you're chasing."
+        notes: "Period-accurate birch/maple shells matching either the Rust in Peace-era Tama Artstar II or Nick's final Cryptic Writings-era Pearl Reference Custom / Sabian AA-Signature setup, depending on which sound you're chasing."
       }
     },
     faq: [
       {
         question: "What drum kit did Nick Menza use on Rust in Peace?",
-        answer: "Nick Menza used a Tama Artstar II kit in Midnight Blue finish on \"Rust in Peace\" (1990) — birch shells chosen for the focused attack needed to cut through Megadeth's dense guitar arrangements. He switched to a Pearl Masters kit for \"Countdown to Extinction\" (1992), seeking a more resonant, powerful sound. Modern alternatives include the Tama Starclassic for the Artstar II-era attack and the Pearl Masters Maple Complete for the Countdown-era tone."
+        answer: "Nick Menza used a Tama Artstar II kit in Midnight Blue finish on \"Rust in Peace\" (1990) — birch shells chosen for the focused attack needed to cut through Megadeth's dense guitar arrangements. He then moved through Pearl Masters for \"Countdown to Extinction\" (1992) and Pearl Masterworks for \"Youthanasia\" (1994), before settling on Pearl Reference Custom — his flagship professional tier — for \"Cryptic Writings\" (1997), his final full studio album with Megadeth. Modern alternatives include the Tama Starclassic for the Artstar II-era attack and the Pearl Reference Custom for his final-era tone."
       },
       {
         question: "How do I get Nick Menza's snare crack?",
-        answer: "Nick's snare sound came from two things: tight tuning and consistent rimshots. Tune your snare head several turns past finger-tight — much tighter than you'd tune for a rock sound. Then angle your stick slightly so it strikes both the rim and the head simultaneously on every backbeat. A steel shell snare like the Ludwig Supraphonic or Pearl Sensitone will get you closest to that sharp, high crack."
+        answer: "Nick's snare sound came from two things: tight tuning and consistent rimshots. Tune your snare head several turns past finger-tight — much tighter than you'd tune for a rock sound. Then angle your stick slightly so it strikes both the rim and the head simultaneously on every backbeat. His final-era snare was a Pearl Reference Custom, 14\" x 5.5\" — that model, or a comparably tight-tunable maple snare, will get you closest to that sharp, high crack."
       },
       {
         question: "How fast was Nick Menza's double bass?",
@@ -4613,7 +4612,7 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
       },
       {
         question: "What cymbals did Nick Menza use?",
-        answer: "Nick Menza ran a Zildjian A / A Custom setup on \"Rust in Peace\" (1990) — 14\" A New Beat hi-hats, A Medium crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China Boy High. He switched to Paiste 2002 and Signature cymbals for \"Countdown to Extinction\" (1992), matching that album's more melodic, arena-rock-oriented production without losing thrash-level cut."
+        answer: "Nick Menza ran a Zildjian A / A Custom setup on \"Rust in Peace\" (1990) — 14\" A New Beat hi-hats, A Medium crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China Boy High. He switched to Paiste 2002 and Signature cymbals for \"Countdown to Extinction\" (1992), then made his final switch to a Sabian AA and Signature Series setup for \"Cryptic Writings\" (1997) — 14\" AA hi-hats, a 16\" AA crash, an 18\" Signature crash, a 20\" AA ride, and an 18\" AA China — a brighter, more focused voice for the album's contemporary Nashville production."
       },
       {
         question: "Can a beginner learn Nick Menza's style?",

@@ -13,12 +13,12 @@ Paul Mazurkiewicz has been the drummer and a founding member of Cannibal Corpse 
 
 Mazurkiewicz favors punchy, articulate Tama kits built for attack and projection:
 
-- **Kick Drums:** 22" x 18" (x2) with Tama Iron Cobra Double Pedal
+- **Kick Drums:** 22" x 18" (x2) with Pearl Eliminator Double Bass Pedal
 - **Snare:** 14" x 6.5" Steel — deep, powerful, cutting
 - **Rack Toms:** 10" x 8", 12" x 9", 13" x 10"
 - **Floor Toms:** 16" x 16", 18" x 16"
-- **Cymbals:** Sabian AAX / B8 Pro — bright, cutting, fast crashes
-- **Pedals:** Tama Iron Cobra Double Pedal (powerful, reliable)
+- **Cymbals:** Meinl Classics Custom Dark / Byzance Dark — bright, cutting, fast crashes
+- **Pedals:** Pearl Eliminator Double Bass Pedal (powerful, reliable)
 - **Sticks:** Vic Firth 5B / Extreme 5B (heavier for power)
 - **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
 
@@ -48,12 +48,12 @@ Mazurkiewicz plays **traditional grip** in the left hand — rare in death metal
 |------|---------------------|--------------------|
 | Drum Kit | Tama Starclassic | Tama Imperialstar (~$600) |
 | Snare | Steel 14" x 6.5" | Tama SLP Steel |
-| Cymbals | Sabian AAX / B8 Pro | Sabian B8X Pack (~$250) |
-| Pedal | Tama Iron Cobra Double | Tama Iron Cobra 200 (~$150) |
+| Cymbals | Meinl Classics Custom Dark / Byzance Dark | Meinl HCS Pack (~$250) |
+| Pedal | Pearl Eliminator Double Bass Pedal | Pearl Eliminator Redline (~$150) |
 | Sticks | Vic Firth 5B / Extreme 5B | Promark 5B |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EMAD Clear |
 
-**Starter budget path (~$1,000):** Tama Imperialstar + Sabian B8X + Iron Cobra 200. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/sabian](https://metalforge.io/brands/sabian).
+**Starter budget path (~$1,000):** Tama Imperialstar + Meinl HCS Pack + Pearl Eliminator Redline. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/meinl](https://metalforge.io/brands/meinl).
 
 ## Practice Routine
 
@@ -72,7 +72,7 @@ A: Yes. He is well known for using traditional grip even on fast blasts and sing
 A: Not as much. Mazurkiewicz relies heavily on hand-led single-stroke "skank" beats and riff-locked patterns rather than constant double-kick barrages, prioritizing groove and riff-lock.
 
 **Q: What drums and cymbals does he use?**  
-A: He has long played punchy, articulate Tama drums paired with bright Sabian cymbals that cut through downtuned guitars, plus heavier sticks for power and a solid pedal feel suited to his hand-led approach.
+A: He has long played punchy, articulate Tama drums paired with bright Meinl cymbals that cut through downtuned guitars, plus heavier sticks for power and a solid pedal feel suited to his hand-led approach.
 
 **Q: How do I get the Cannibal Corpse drum sound?**  
 A: Tune the kick for a clicky attack with heavy muffling, use a deep steel snare for a powerful crack with body, keep toms punchy — and lock every pattern tightly to the guitar riff. The brutality comes from the drum/guitar unison.

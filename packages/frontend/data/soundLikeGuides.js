@@ -4651,16 +4651,16 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
     readingTime: '10 min',
     intro: {
       title: "The Galloping Thunder Behind the Beast",
-      content: `Nicko McBrain (born 1952) has been Iron Maiden's drummer since 1982 — one of the longest continuous tenures of any drummer in heavy metal. In that time, he has defined what heavy metal drumming sounds and feels like for millions of fans worldwide. His galloping triplet pattern on the ride bell, his thunderous single-bass-drum technique, and his explosive "Where Eagles Dare" style tom fills are among the most imitated and studied patterns in the genre.
+      content: `Nicko McBrain (born 1952) was Iron Maiden's drummer from 1982 until his December 2024 touring retirement, following a 2023 stroke — one of the longest continuous tenures of any drummer in heavy metal. He remains an official/studio member of the band, with Simon Dawson now handling touring duties. In his decades behind the kit, he defined what heavy metal drumming sounds and feels like for millions of fans worldwide. His galloping triplet pattern on the ride bell, his thunderous single-bass-drum technique, and his explosive "Where Eagles Dare" style tom fills are among the most imitated and studied patterns in the genre.
 
 What makes Nicko's story remarkable is that everything he achieves — including tempos that would demand double bass from most players — is done on a single bass drum pedal. This commitment to single-pedal technique has shaped his entire approach: he developed extraordinary single-foot speed and independence to compensate, creating a style that is immediately recognizable regardless of the song or era.
 
 This guide covers Nicko's core gallop technique, his British Drum Co. current setup (since 2019, after a decade with Sonor SQ2), and the practice methods that will help you capture Iron Maiden's rhythmic heartbeat.`,
       keyPoints: [
-        "Nicko McBrain has played with Iron Maiden since 1982 — over four decades of continuous service",
+        "Nicko McBrain played with Iron Maiden from 1982 until his December 2024 touring retirement; he remains an official band member, with Simon Dawson now handling touring duties",
         "His iconic gallop pattern is achieved entirely on a single bass drum pedal",
         "The 'Where Eagles Dare' tom intro remains one of the most studied drum parts in heavy metal",
-        "His Paiste 2002 cymbal setup has been a constant throughout his career — tone and brand loyalty defining his sound"
+        "His Paiste 2002 & Signature Series cymbal setup has been a constant throughout his career — tone and brand loyalty defining his sound"
       ]
     },
     technique: {
@@ -4733,21 +4733,21 @@ This guide covers Nicko's core gallop technique, his British Drum Co. current se
         brand: 'Sonor',
         model: 'Sonor Nicko McBrain Signature',
         size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "Nicko's signature Sonor snare is tuned to medium-high tension for a full crack without the thinness of extreme tuning, and it remains part of his current British Drum Co. kit even after his 2019 brand switch. It provides the warm power that suits Iron Maiden's classic recording aesthetic.",
+        shell: 'Unconfirmed',
+        description: "Nicko's signature Sonor snare is tuned to medium-high tension for a full crack without the thinness of extreme tuning, and it remains part of his current British Drum Co. kit even after his 2019 brand switch. It provides the warm power that suits Iron Maiden's classic recording aesthetic. (Shell material is not publicly confirmed.)",
         alternative: "Sonor Kompressor or Pearl Free-Floating Steel for similar attack profile"
       },
       cymbals: {
         brand: 'Paiste',
-        series: 'Paiste 2002 Series',
+        series: 'Paiste 2002 & Signature Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Paiste 14" 2002 Sound Edge Hi-Hats', notes: 'Classic NWOBHM chick — defined and cutting' },
-          { type: 'Crash', model: 'Paiste 16" 2002 Power Crash', notes: 'Fast attack, bright decay for transitions' },
-          { type: 'Crash', model: 'Paiste 18" 2002 Power Crash', notes: 'Heavier crash for full-band climax moments' },
-          { type: 'Ride', model: 'Paiste 22" 2002 Power Ride', notes: 'Defined bell for gallop pattern — essential to Nicko\'s sound' },
-          { type: 'China', model: 'Paiste 20" 2002 China', notes: 'Aggressive accent for song transitions' }
+          { type: 'Hi-Hats', model: 'Paiste 14" 2002 & Signature Sound Edge Hi-Hats', notes: 'Classic NWOBHM chick — defined and cutting' },
+          { type: 'Crash', model: 'Paiste 16" 2002 & Signature Power Crash', notes: 'Fast attack, bright decay for transitions' },
+          { type: 'Crash', model: 'Paiste 18" 2002 & Signature Power Crash', notes: 'Heavier crash for full-band climax moments' },
+          { type: 'Ride', model: 'Paiste 22" 2002 & Signature Power Ride', notes: 'Defined bell for gallop pattern — essential to Nicko\'s sound' },
+          { type: 'China', model: 'Paiste 20" 2002 & Signature China', notes: 'Aggressive accent for song transitions' }
         ],
-        description: "Nicko has used Paiste 2002 cymbals throughout his Iron Maiden career — one of the longest brand loyalties in professional drumming. The 2002 series provides bright, penetrating attack that projects over Iron Maiden's powerful guitar and bass assault."
+        description: "Nicko has used Paiste 2002 cymbals since 1983, adding the Signature Series in 1998 — one of the longest brand loyalties in professional drumming. The combined 2002 & Signature Series lines provide bright, penetrating attack that projects over Iron Maiden's powerful guitar and bass assault."
       },
       pedals: {
         brand: 'unconfirmed',
@@ -4868,11 +4868,11 @@ This guide covers Nicko's core gallop technique, his British Drum Co. current se
       },
       {
         question: "What drum kit does Nicko McBrain use currently?",
-        answer: "Nicko McBrain currently plays British Drum Co., an endorsement he took up in 2019. He still uses his Sonor Nicko McBrain Signature snare within that kit. Before British Drum Co., he played Sonor SQ2 kits from 2010-2019."
+        answer: "Nicko McBrain played British Drum Co., an endorsement he took up in 2019, through his December 2024 touring retirement; he remains an official/studio member of Iron Maiden, with Simon Dawson now handling touring duties. He still uses his Sonor Nicko McBrain Signature snare within that kit. Before British Drum Co., he played Sonor SQ2 kits from 2010-2019."
       },
       {
         question: "What cymbals does Nicko McBrain use?",
-        answer: "Nicko McBrain has used Paiste 2002 cymbals throughout his career — one of the longest brand loyalties in professional metal drumming. His setup includes 14\" Sound Edge hi-hats, 16\" and 18\" Power Crashes, a 22\" Power Ride (essential for the gallop bell pattern), and a 20\" China. The 2002's brightness and projection perfectly suit Iron Maiden's live sound."
+        answer: "Nicko McBrain has used Paiste 2002 cymbals since 1983 and added the Signature Series in 1998, playing a combined Paiste 2002 & Signature Series setup ever since — one of the longest brand loyalties in professional metal drumming. His setup includes 14\" Sound Edge hi-hats, 16\" and 18\" Power Crashes, a 22\" Power Ride (essential for the gallop bell pattern), and a 20\" China. The brightness and projection of these Paiste lines perfectly suit Iron Maiden's live sound."
       },
       {
         question: "How do I learn the Iron Maiden gallop drum pattern?",

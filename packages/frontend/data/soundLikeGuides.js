@@ -883,7 +883,7 @@ What makes Dave exceptional isn't just speed—it's musicality. His playing brea
         finish: 'Custom Dave Lombardo configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Dave Lombardo Signature Snare',
+          snare: '14" x 6.5" Tama S.L.P. G-Maple',
           toms: ['10" x 8" Tom', '12" x 9" Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
@@ -892,20 +892,20 @@ What makes Dave exceptional isn't just speed—it's musicality. His playing brea
       },
       snare: {
         brand: 'Tama',
-        model: 'Dave Lombardo Signature Snare',
+        model: 'Tama S.L.P. G-Maple',
         size: '14" x 6.5"',
-        shell: 'Aluminum',
-        description: "Dave's signature snare cuts through any mix. The aluminum shell provides brightness and attack, essential for extreme metal.",
-        alternative: "Tama SLP Aluminum or Ludwig Supraphonic"
+        shell: 'Maple',
+        description: "Dave's S.L.P. G-Maple snare cuts through any mix. The maple shell provides warmth and attack, essential for extreme metal.",
+        alternative: "Ludwig Supraphonic"
       },
       cymbals: {
         brand: 'Paiste',
         series: 'Paiste RUDE Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Paiste 14" RUDE Hi-Hats', notes: 'Bright and aggressive' },
+          { type: 'Hi-Hats', model: 'Paiste 15" Sound Edge Hi-Hats', notes: 'Bright and aggressive' },
           { type: 'Crash', model: 'Paiste 18" RUDE Crash', notes: 'Explosive, loud' },
           { type: 'Crash', model: 'Paiste 19" RUDE Crash/Ride', notes: 'Versatile and powerful' },
-          { type: 'Ride', model: 'Paiste 20" RUDE Ride', notes: 'Cutting and defined' },
+          { type: 'Ride', model: 'Paiste 22" Reign Power Ride', notes: 'Cutting and defined' },
           { type: 'China', model: 'Paiste 18" RUDE China', notes: 'Essential thrash accent' }
         ],
         description: "Dave's RUDE cymbals match his aggressive approach. These are designed to be heard over extreme metal."

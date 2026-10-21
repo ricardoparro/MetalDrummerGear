@@ -13,12 +13,12 @@ George Kollias is renowned for sustaining blast beats at 200-260+ BPM throughout
 
 George plays **Pearl Reference Pure** drums with a setup optimized for sustained extreme performance:
 
-- **Kick Drums:** 22" x 18" (x2) with Pearl Demon Drive Double Pedal
+- **Kick Drums:** 22" x 18" (x2) with Pearl Demon XR Pedals
 - **Snare:** 14" x 6.5" Pearl George Kollias Signature Snare
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Tom:** 16" x 16"
-- **Cymbals:** Meinl Classics Custom Dark / Byzance Series — clarity and fast attack response
-- **Pedals:** Pearl Demon Drive Double Pedal (direct drive for zero-lag precision)
+- **Cymbals:** Zildjian A Custom Series — clarity and fast attack response
+- **Pedals:** Pearl Demon XR Pedals (direct drive for zero-lag precision)
 - **Sticks:** Vic Firth George Kollias Signature
 - **Heads:** Remo Powerstroke P4 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
 
@@ -48,8 +48,8 @@ George uses **matched grip** with a highly refined wrist technique. His approach
 |------|---------------|-------------------|
 | Drum Kit | Pearl Reference Pure | Pearl Export Series (~$700) |
 | Snare | Pearl George Kollias Signature 14" x 6.5" | Pearl Free-Floating Steel or Ludwig Supraphonic |
-| Cymbals | Meinl Byzance / Classics Custom Dark | Meinl HCS Set (~$250) |
-| Pedal | Pearl Demon Drive Double | Pearl P930 Double (~$150) |
+| Cymbals | Zildjian A Custom Series | Meinl HCS Set (~$250) |
+| Pedal | Pearl Demon XR ($600) | Pearl P930 Double (~$150) |
 | Sticks | Vic Firth George Kollias Signature | Vic Firth 5B |
 | Kick Head | Remo Powerstroke P4 Clear | Evans EMAD Clear |
 
@@ -72,7 +72,7 @@ A: George Kollias is renowned for his endurance: in live performance with Nile, 
 A: Through systematic physical conditioning and technique refinement. His ankle-isolation foot technique minimizes fatigue by keeping calf muscles out of the equation. He also trains cardiovascular endurance alongside drumming technique.
 
 **Q: What pedal does George Kollias use?**  
-A: George Kollias uses the Pearl Demon Drive double pedal. The direct-drive mechanism gives him the precise feedback and minimal lag he needs at extreme tempos.
+A: George Kollias uses the Pearl Demon XR double pedal — a model he co-designed. The direct-drive mechanism gives him the precise feedback and minimal lag he needs at extreme tempos.
 
 **Q: Is George Kollias self-taught?**  
 A: Kollias is largely self-taught but has extensively studied drumming technique and has become an educator himself through his "Intense Metal Drumming" instructional series.

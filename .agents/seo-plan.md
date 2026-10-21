@@ -13655,3 +13655,45 @@ Shifted the ongoing `soundLikeGuides.js` fact-drift sweep to prioritize this wee
 2. `soundLikeGuides.js` sweep: this run deliberately re-prioritized by current GA4 traffic rather than continuing the alphabetical/file-order pool — remaining pool from the 10-20 evening run (shannon-larkin, tomas-haake, vinnie-paul, + others not yet re-tallied) still open; next run should either resume that pool or repeat the traffic-priority approach with next week's top pages.
 3. Content-gap: row re-confirmed against standing ruling (8-for-8) — no re-action.
 4. Drum-chair watch: today is Wednesday, not Monday — skipped. Next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-21 (run, ~07:1x UTC) — new sweep: public/llms/guides/how-to-sound-like-*.md mirror drift, 8 filed (#9449-9456)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/llms/*.md`: 2,024 files on disk — unchanged, no new-page work (freeze in effect).
+- `how-to-sound-like-*.md` mirrors: 67 on disk (matches 67-drummer roster coverage).
+- Bank check: 12 open `seo-proposal` at run start (8 fresh untriaged from the 01:2x run, #9433-9441, not yet triaged; + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 8.
+
+### Metrics readout
+- GSC 7d: 16,387 impr / 219 clicks / 1.34% CTR / pos 8.6 (metrics.md refreshed 07:10 UTC, unchanged since 01:17 UTC).
+- GA4 7d: 396u / 447s / 623v. Top pages: `/drummer/matt-greiner` (19v, #1), `/drummer/mario-duplantier` (16v, #2), `/drummer/eloy-casagrande` (12v, #3).
+- Content-gap row: `jaska raatikainen` (73 impr, 1.37% CTR) — standing class-2 bare-name ruling (`learned-patterns.md` line 211), 9th consecutive week. No re-action.
+
+### Method
+The `soundLikeGuides.js` source-file sweep (running since 2026-10-16) has produced ~40 merged fixes (`git log -- packages/frontend/data/soundLikeGuides.js`, confirmed every merge touched exactly 1 file). None of those PRs touched `public/llms/guides/how-to-sound-like-<slug>.md` — a hand-authored mirror family with no generator (`grep -rl "how-to-sound-like-" scripts/*.cjs` finds zero per-file writers; confirmed distinct from `generate-llms-guides.cjs`, which only builds the `guides.md` hub index). Same bug class as the `public/llms/evolution/*.md` / `gear-history/*.md` sibling-mirror drift already documented for #9157/#9277/#9282. Spot-checked the Pete Sandoval mirror first against #9421 (just-merged) — confirmed stale fabrication survived. Pivoted the whole run to this file family: cross-referenced 8 of the ~40 merged soundLikeGuides.js fix commit messages against their corresponding mirror file content (grep + direct read of both the current post-fix `soundLikeGuides.js` entry and the untouched mirror), prioritizing (a) this week's top GA4 traffic page (Matt Greiner, #1) and (b) the most recently-merged source fixes (Scott Travis, Mazurkiewicz, Ryan Van Poederooyen, Pete Sandoval, Nick Menza, Nicko McBrain, Paul Bostaph — all merged today). 8 of 8 checked returned genuine, confirmed drift — personally read every cited mirror line and the corresponding current `soundLikeGuides.js` ground truth myself (not delegated) before filing, plus a `gh issue list --state all --search` dedup pass on each (title pattern `llms/guides how-to-sound-like` / `soundLikeGuides mirror` / `how-to-sound-like`) confirming no prior issue covers mirror-sync for this file family.
+
+Notable finds: Matt Greiner's mirror (highest-traffic page) fabricates an entire wrong-brand gear lineup — Pearl snare/Sabian cymbals/mixed Evans-Remo heads vs. verified Mapex/Paiste Formula 602/all-Evans-G2 — the largest single-entry drift found in either mirror family to date. Paul Bostaph's mirror independently re-invents the exact "Testament 1999-2001, 2024-present" fabrication that #9271 already root-caused and disproved in a *different* file (`extendedBios.js`) back on 2026-10-18 — same false fact, third file, never connected until this run. Nick Menza's mirror invents a "Sonor" snare brand that doesn't appear anywhere in his verified gear history at all (ground truth is Tama→Pearl evolution, final era Pearl Reference Custom).
+
+### Proposals filed this run
+1. #9449 — Matt Greiner llms mirror — fabricates entire gear brand lineup (Pearl/Sabian/mixed-heads vs. verified Mapex/Paiste/Evans G2); #1 GA4 page this week
+2. #9450 — Scott Travis llms mirror — cross-contaminated birthdate/birthplace (from Chris Adler) + wrong cymbal brand (Sabian vs Paiste)
+3. #9451 — Paul Mazurkiewicz llms mirror — wrong cymbal brand (Sabian vs Meinl) + wrong pedal (Tama vs Pearl Eliminator)
+4. #9452 — Nick Menza llms mirror — invents Sonor/all-Zildjian/Evans rig vs. verified final-era Pearl Reference Custom/Sabian/Remo
+5. #9453 — Nicko McBrain llms mirror — omits Dec 2024 touring retirement, implies current/active; drops "Signature Series" from cymbal line
+6. #9454 — Ryan Van Poederooyen llms mirror — tenure "since 1999" + false Empath (2019) credit, verified 2002-2018
+7. #9455 — Pete Sandoval llms mirror — fabricates 3 specific Remo head models vs. verified hedge; wrong sticks model (5A vs 5B/2B)
+8. #9456 — Paul Bostaph llms mirror — wrong birthplace (San Jose vs San Francisco) + re-fabricates the already-disproven 2024 Testament reunion (#9271)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9433-9437/#9439-9441 (01:2x UTC run, 8 fresh, not yet triaged)
+- #9449-9456 (this run, 8 fresh)
+
+### Next run
+1. Watch #9449-9456 pick up via Roadie.
+2. New file family opened: `public/llms/guides/how-to-sound-like-*.md` mirror drift. Only 8 of ~40 merged `soundLikeGuides.js` fixes cross-referenced so far — remaining ~32 merged fixes (Gavin Harrison, George Kollias, Hellhammer, Igor Cavalera, Inferno, Jason Bittner, Joey Jordison, Lars Ulrich, Matt Garstka, Matt Halpern, Mike Portnoy, Mikkey Dee, Mike Mangini, Jay Weinberg, Morgan Ågren, Nick Augusto, Flo Mounier, Daray, Chris Adler, Blake Richardson, Aquiles Priester, Alex Rüdinger, Danny Carey, Eloy Casagrande, Mario Duplantier, Hannes Grossmann, Charlie Benante, Abe Cunningham, Brann Dailor, Bill Ward, Alex Bent — plus the still-open #9433-9441 batch once those merge) are untouched — continue this sweep next run before resuming or re-pivoting.
+3. Content-gap: row re-confirmed against standing ruling (9-for-9) — no re-action.
+4. Drum-chair watch: today is Wednesday, not Monday — skipped. Next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

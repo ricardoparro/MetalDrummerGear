@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-20 19:13 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-21 00:27 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,31 +8,31 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 406 |
-| Sessions | 466 |
-| Page views | 667 |
-| Engagement rate | 63.09% |
-| Avg session (s) | 242 |
+| Active users | 365 |
+| Sessions | 413 |
+| Page views | 569 |
+| Engagement rate | 61.74% |
+| Avg session (s) | 254 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 46 | 22 |
-| /drummer/mario-duplantier | 20 | 19 |
-| /drummers | 20 | 6 |
+| / | 37 | 20 |
 | /drummer/matt-greiner | 19 | 11 |
+| /drummer/mario-duplantier | 16 | 15 |
 | /drummer/eloy-casagrande | 12 | 10 |
-| /drummer/kevin-talley | 10 | 5 |
-| /drummer/john-otto | 9 | 8 |
+| /drummers | 11 | 5 |
 | /articles/slipknot-self-titled-drum-setup | 8 | 7 |
-| /drummer/bill-ward | 8 | 7 |
 | /drummers/kevin-talley/evolution | 8 | 2 |
+| /drummer/john-otto | 7 | 6 |
+| /drummer/frost | 6 | 3 |
+| /drummer/kevin-talley | 6 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 351 | 293 |
-| Direct | 111 | 110 |
+| Organic Search | 305 | 259 |
+| Direct | 104 | 103 |
 | Unassigned | 2 | 2 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
@@ -41,57 +41,57 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 149 | 127 |
-| Singapore | 54 | 54 |
-| Canada | 33 | 26 |
+| United States | 130 | 113 |
+| Singapore | 47 | 47 |
 | China | 30 | 30 |
-| United Kingdom | 28 | 20 |
-| Germany | 17 | 15 |
-| Australia | 14 | 12 |
+| United Kingdom | 27 | 19 |
+| Canada | 24 | 19 |
+| Germany | 15 | 14 |
 | Brazil | 13 | 11 |
-| France | 12 | 11 |
-| Italy | 11 | 11 |
+| Australia | 12 | 10 |
+| France | 10 | 9 |
+| Italy | 9 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 19,536 |
-| Clicks | 252 |
-| CTR | 1.29% |
+| Impressions | 16,387 |
+| Clicks | 219 |
+| CTR | 1.34% |
 | Avg position | 8.6 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier drum kit | 49 | 5 | 10.20% | 5.4 |
-| joey jordison drum kit | 63 | 3 | 4.76% | 8.4 |
+| mario duplantier drum kit | 39 | 4 | 10.26% | 4.7 |
 | bill ward drum kit | 12 | 2 | 16.67% | 6.3 |
-| eloy casagrande slipknot drum kit | 5 | 2 | 40.00% | 4.8 |
-| jaska raatikainen drum set | 6 | 2 | 33.33% | 1.3 |
-| matt greiner drum setup | 24 | 2 | 8.33% | 7.5 |
-| best cymbals for metal | 15 | 1 | 6.67% | 11.9 |
-| best metal drummers | 20 | 1 | 5.00% | 12.8 |
-| brann dailor kit | 7 | 1 | 14.29% | 3.7 |
-| eloy casagrande drum kit | 43 | 1 | 2.33% | 7.8 |
+| jaska raatikainen drum set | 5 | 2 | 40.00% | 1.4 |
+| joey jordison drum kit | 49 | 2 | 4.08% | 8.3 |
+| matt greiner drum setup | 23 | 2 | 8.70% | 7.4 |
+| best cymbals for metal | 14 | 1 | 7.14% | 11.5 |
+| best metal drummers | 16 | 1 | 6.25% | 13.2 |
+| brann dailor kit | 6 | 1 | 16.67% | 3.5 |
+| eloy casagrande drum kit | 38 | 1 | 2.63% | 7.6 |
+| eloy casagrande slipknot drum kit | 4 | 1 | 25.00% | 4.8 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,277 | 100 | 2.34% | 8.3 |
-| can | 676 | 17 | 2.51% | 7.9 |
-| gbr | 1,042 | 14 | 1.34% | 8.5 |
-| aus | 547 | 11 | 2.01% | 8.0 |
-| ita | 300 | 11 | 3.67% | 7.2 |
-| deu | 428 | 9 | 2.10% | 7.2 |
-| fra | 415 | 8 | 1.93% | 8.2 |
-| bra | 1,807 | 7 | 0.39% | 7.4 |
-| nld | 215 | 5 | 2.33% | 8.1 |
-| bgr | 88 | 4 | 4.55% | 9.0 |
+| usa | 3,466 | 85 | 2.45% | 8.0 |
+| can | 559 | 14 | 2.50% | 7.9 |
+| gbr | 863 | 14 | 1.62% | 8.5 |
+| aus | 453 | 10 | 2.21% | 8.2 |
+| ita | 257 | 10 | 3.89% | 7.1 |
+| deu | 357 | 8 | 2.24% | 7.2 |
+| bra | 1,567 | 6 | 0.38% | 7.5 |
+| fra | 340 | 6 | 1.76% | 8.1 |
+| fin | 152 | 4 | 2.63% | 6.9 |
+| nld | 194 | 4 | 2.06% | 8.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| jaska raatikainen | 91 | 1.10% | 11.1 | open issue to answer better |
+| jaska raatikainen | 73 | 1.37% | 11.0 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

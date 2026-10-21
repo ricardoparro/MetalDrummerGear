@@ -14,12 +14,13 @@ Hellhammer (Jan Axel Blomberg) is the most influential drummer in black metal hi
 Hellhammer plays articulate, fast-responding kits engineered to cut through dense tremolo guitars:
 
 - **Kick Drums:** 22" x 18" (x2) with a fast double pedal (Axis Longboard or similar)
-- **Snare:** 14" x 5.5" Steel — bright, cracking, tuned high
+- **Snare:** 14" x 5.5" Maple (Sonor SQ2 Heavy Beech Snare) — warm-but-cutting, tuned medium-bright
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 16", 18" x 16"
-- **Cymbals:** Paiste 2002 / Rude — bright, articulate, defined bell for blast riding
+- **Shells:** Heavy Beech
+- **Cymbals:** Paiste RUDE Series — bright, articulate, defined bell for blast riding
 - **Pedals:** Axis Longboard Double Pedal (fast, light, direct)
-- **Sticks:** Vic Firth 5A / 5B
+- **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
 
 ## Tuning & Setup
@@ -27,7 +28,7 @@ Hellhammer plays articulate, fast-responding kits engineered to cut through dens
 Hellhammer tunes for speed and clarity — at blast tempos every drum must speak instantly and decay quickly:
 
 - **Kick:** Medium-tight with a foam pad on the batter and a port hole in the resonant head. Tuned for click and attack, not boom — at 260 BPM any sustain blurs the pattern.
-- **Snare:** High tension, minimal muffling. Cranked high for a bright crack that penetrates tremolo guitars; the steel shell adds brightness.
+- **Snare:** Medium-bright tension, minimal muffling. Tuned medium-bright for a warm-but-cutting crack that penetrates tremolo guitars; the maple shell adds body.
 - **Toms:** Medium-high, one Moongel each. Tuned close together for fast cascading fills with controlled sustain.
 
 ## Technique Tips
@@ -47,10 +48,10 @@ Hellhammer plays **matched grip** with a relaxed, rebound-driven approach optimi
 | Item | Hellhammer's Spec | Budget Alternative |
 |------|-------------------|--------------------|
 | Drum Kit | Sonor (custom config) | Pearl Export Series (~$700) |
-| Snare | Steel 14" x 5.5" | Pearl Sensitone Steel |
-| Cymbals | Paiste 2002 / Rude | Paiste PST 5 / Sabian B8X (~$250) |
+| Snare | Maple 14" x 5.5" (Sonor SQ2 Heavy Beech) | Pearl Reference or Ludwig Supraphonic |
+| Cymbals | Paiste RUDE Series | Paiste PST 5 / Sabian B8X (~$250) |
 | Pedal | Axis Longboard Double | Pearl P930 Double (~$130) |
-| Sticks | Vic Firth 5A | Promark 5A |
+| Sticks | Vic Firth American Classic 5B | Promark 5B or Vater Power 5B |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EMAD Clear |
 
 **Starter budget path (~$1,000):** Pearl Export + Paiste PST 5 + Pearl P930. See [/brands/sonor](https://metalforge.io/brands/sonor) and [/brands/paiste](https://metalforge.io/brands/paiste).
@@ -75,7 +76,7 @@ A: Hellhammer's blasts emphasize a bright, cymbal-riding texture and serve atmos
 A: He favored fast, light double pedals such as Axis longboards to sustain extreme single-stroke double bass with minimal fatigue.
 
 **Q: How do I get the De Mysteriis Dom Sathanas drum sound?**  
-A: Tune the kick for click with heavy muffling, crank a steel snare high for a bright crack, and keep toms high for fast rebound — prioritize attack and clarity over warmth so every note reads through dense guitars.
+A: Tune the kick for click with heavy muffling, crank a maple snare medium-bright for a warm-but-cutting crack, and keep toms high for fast rebound — prioritize attack and clarity over warmth so every note reads through dense guitars.
 
 **Q: Which Hellhammer songs should I study first?**  
 A: Start with 'Freezing Moon' for the definitive blast and dynamics, then 'Funeral Fog' for sustained hyper-blast technique, and 'Mourning Palace' for his Dimmu Borgir precision.

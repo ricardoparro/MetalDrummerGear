@@ -13615,3 +13615,43 @@ Notable finds: Nick Menza's and Nicko McBrain's entries both show the "sibling g
 2. `soundLikeGuides.js` sweep now at ~59/72 checked. Remaining unchecked pool (~13): shannon-larkin, tomas-haake, travis-orbin, vinnie-paul (derek-roddy intentionally skipped — overlaps held #7981). Pool is nearly exhausted — next run should finish it, then decide whether to re-pass the ~13 earlier "CLEAN" names for fields not yet audited, or pivot the sweep to a new file family.
 3. Content-gap: row re-confirmed against standing ruling (7-for-7) — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-21 (run, ~mid-day) — soundLikeGuides.js sweep, high-traffic-page focus, 7 filed (#9433-9437/#9439-9440), 1 filed-then-retracted (#9438→#9441)
+
+### Audit summary
+- robots.txt (live curl): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/llms/*.md`: 2,024 files on disk — unchanged, no new-page work (freeze in effect).
+- Bank check: 11 open `seo-proposal` at run start — well under the 45 floor → filed up to 8.
+
+### Metrics readout
+- GSC 7d: 16,387 impr / 219 clicks / 1.34% CTR / pos 8.6 (metrics.md refreshed 01:17 UTC).
+- GA4 7d: 384u / 435s / 606v. Top pages: `/drummer/matt-greiner` (19v, #1), `/drummer/mario-duplantier` (16v, #2), `/drummer/eloy-casagrande` (12v).
+- Content-gap row: `jaska raatikainen` (73 impr, 1.37% CTR) — standing class-2 bare-name ruling (`learned-patterns.md` line 211), 8th consecutive week. No re-action.
+
+### Method
+Shifted the ongoing `soundLikeGuides.js` fact-drift sweep to prioritize this week's actual top-traffic GA4 pages instead of continuing wherever the prior run left off: Danny Carey, Lars Ulrich, Dave Lombardo, Mario Duplantier, Brann Dailor, Matt Halpern, Chris Adler, Matt Greiner, Travis Orbin, Flo Mounier, Jay Weinberg, Mike Mangini (12 checked via 4 parallel subagents). Danny Carey/Lars Ulrich/Flo Mounier came back CLEAN. 9 had genuine findings; filed 8 (dropped Chris Adler's single minor stick-tip finding to respect the cap), re-verified every cited line against the current live file before filing (not just subagent output) given 3 of the 9 candidates had same-day-closed sibling issues.
+
+**Caught and retracted one bad proposal before it could regress a shipped fix:** the Matt Halpern draft (cymbal/snare) was built on `api/drummers/index.js`'s `verified: true` roster fields, which — on re-check — directly contradict 2 prior sourced investigations (#6377/#7716) and the already-shipped #9404 fix. Closed #9438 with a retraction comment and filed #9441 instead, flagging the 3-way cross-file contradiction (`api/drummers/index.js` vs `endorsementNews.js` vs `soundLikeGuides.js`) for proper re-research rather than guessing which "verified" field to trust.
+
+### Proposals filed this run
+1. #9433 — Mario Duplantier soundLikeGuides.js single-kick self-contradiction + double-pedal contradiction + cymbal drift (#2 GA4 page)
+2. #9434 — Matt Greiner soundLikeGuides.js wrong stick tip shape + mislabeled pedal drive type (#1 GA4 page)
+3. #9435 — Mike Mangini soundLikeGuides.js entire guide frozen pre-2023 DT departure + 4 fabricated gear specs
+4. #9436 — Jay Weinberg soundLikeGuides.js stale current-Slipknot framing (post-Suicidal Tendencies departure) + 3 fabricated gear fields
+5. #9437 — Brann Dailor soundLikeGuides.js fabricated Meinl Mb20/Mb8 cymbal series (verified Byzance) + wrong snare model
+6. #9439 — Dave Lombardo soundLikeGuides.js fabricated signature snare model/shell + wrong ride cymbal
+7. #9440 — Travis Orbin soundLikeGuides.js snare shell material contradicts verified Maple
+8. #9441 — Matt Halpern api/drummers/index.js 'verified' cymbal/snare fields contradict #6377/#7716/#9404 — cross-file contradiction flagged for re-research (replaces retracted #9438)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9433-9437, #9439-9441 (this run, 8 fresh)
+
+### Next run
+1. Watch #9433-9437/#9439-9441 pick up via Roadie; #9441 is research-first, not a direct fix — confirm the implementer actually re-sources before editing, doesn't just pick a side.
+2. `soundLikeGuides.js` sweep: this run deliberately re-prioritized by current GA4 traffic rather than continuing the alphabetical/file-order pool — remaining pool from the 10-20 evening run (shannon-larkin, tomas-haake, vinnie-paul, + others not yet re-tallied) still open; next run should either resume that pool or repeat the traffic-priority approach with next week's top pages.
+3. Content-gap: row re-confirmed against standing ruling (8-for-8) — no re-action.
+4. Drum-chair watch: today is Wednesday, not Monday — skipped. Next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

@@ -3153,10 +3153,10 @@ Orbin left Periphery in February 2009, replaced by Matt Halpern, who has recorde
       },
       snare: {
         brand: 'SJC',
-        model: 'SJC Custom Steel Snare',
+        model: 'SJC Custom Maple Snare',
         size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "Travis's snare cuts through dense djent arrangements with bright, projecting attack. Steel shells provide the brightness needed when competing with 7-string and 8-string guitars tuned to drop A.",
+        shell: 'Maple',
+        description: "Travis's snare cuts through dense djent arrangements with a warm, projecting attack. The maple shell holds its own against 7-string and 8-string guitars tuned to drop A without sounding harsh.",
         alternative: "Pearl Free-Floating Steel or Ludwig Supraphonic"
       },
       cymbals: {

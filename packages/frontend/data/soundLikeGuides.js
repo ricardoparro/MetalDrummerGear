@@ -2662,14 +2662,14 @@ His 2017 Vic Firth Matt Greiner Signature stick cemented his status among the ge
       pedals: {
         brand: 'DW',
         model: 'DW 9000 Series Double Pedal',
-        description: "The DW 9000's direct-drive system gives Matt the responsive, consistent feel needed for his intricate kick patterns. Speed and sensitivity in equal measure.",
-        alternative: "DW 5000 Series or Tama Speed Cobra for similar direct feel"
+        description: "The DW 9000's dual-chain drive system gives Matt the responsive, consistent feel needed for his intricate kick patterns. Speed and sensitivity in equal measure.",
+        alternative: "DW 5000 Series or Tama Speed Cobra for similar chain-drive feel"
       },
       sticks: {
         brand: 'Vic Firth',
         model: 'Vic Firth Matt Greiner Signature',
-        specs: '16" length, acorn tip',
-        description: "Matt's signature Vic Firth stick, released in 2017, is built around his dynamic playing — from delicate ghost notes to full-force metalcore attacks. The acorn tip gives clear cymbal definition for his textural playing.",
+        specs: '16" length, Taj Mahal tip',
+        description: "Matt's signature Vic Firth stick, released in 2017, is built around his dynamic playing — from delicate ghost notes to full-force metalcore attacks. The Taj Mahal tip gives clear cymbal definition for his textural playing.",
         alternative: "Vic Firth American Classic 5A for a similar feel"
       },
       heads: {

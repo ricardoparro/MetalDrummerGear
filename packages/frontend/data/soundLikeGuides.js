@@ -2139,22 +2139,22 @@ This guide explores Matt's groove-first approach to modern progressive metal.`,
       },
       snare: {
         brand: 'Pearl',
-        model: 'Not independently verified',
-        description: "Matt's snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.",
-        alternative: "Pearl Sensitone or Reference snares"
+        model: 'Pearl Matt Halpern Signature (MH1460/B)',
+        specs: '14"x6", 1.5mm brass shell, black powder-coat finish',
+        description: "Matt's signature Pearl snare is a 14x6\" brass shell built to his own specs, delivering the cutting, dry crack that sits within Periphery's dense guitar layers.",
+        alternative: "Pearl Sensitone or Reference brass snares"
       },
       cymbals: {
         brand: 'Meinl',
-        series: 'Meinl Byzance Traditional / Artist Concept',
+        series: 'Meinl Byzance Traditional / Byzance Dark / Artist Concept',
         setup: [
           { type: 'Hi-Hats', model: 'Meinl 14" Byzance Traditional Medium Hi-Hats', notes: 'Balanced, articulate' },
           { type: 'Crash', model: 'Meinl 18" Byzance Traditional Extra Thin Hammered Crash', notes: 'Quick, dark' },
           { type: 'Crash', model: 'Meinl 20" Byzance Traditional Extra Thin Hammered Crash', notes: 'Full, dark' },
-          { type: 'Crash/Ride', model: 'Meinl 22" Byzance Sand Crash-Ride', notes: 'Versatile, dry response' },
-          { type: 'Splash', model: 'Meinl 10" Byzance Traditional Splash', notes: 'Bright accent' },
+          { type: 'Crash/Ride', model: 'Meinl 21" Byzance Dark Double Down Crash-Ride', notes: "Matt's signature crash-ride, versatile dry response" },
           { type: 'Signature Stack', model: 'Meinl Artist Concept "Double Down Stack" (17" crash + 18" china)', notes: 'Matt\'s co-developed signature stack' }
         ],
-        description: "Matt's Meinl Byzance Traditional cymbals have the dark, complex characteristics that suit modern progressive metal, paired with his signature Artist Concept \"Double Down Stack.\""
+        description: "Matt's Meinl Byzance Traditional cymbals have the dark, complex characteristics that suit modern progressive metal, paired with his signature Byzance Dark Double Down Crash-Ride and Artist Concept \"Double Down Stack.\""
       },
       pedals: {
         brand: 'Pearl',

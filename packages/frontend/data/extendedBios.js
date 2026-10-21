@@ -5939,8 +5939,8 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
 
 **Current Setup:**
 - **Drums**: Pearl Reference Series
-- **Snare**: A Pearl snare; the specific model has not been independently verified
-- **Cymbals**: Meinl Byzance series (14" Byzance Traditional Medium Hi-Hats, 18" & 20" Byzance Traditional Extra Thin Hammered Crashes, 22" Byzance Sand Crash-Ride, 10" Byzance Traditional Splash, plus his signature Artist Concept "Double Down Stack")
+- **Snare**: Pearl Matt Halpern Signature Snare (MH1460/B), 14"x6" brass shell
+- **Cymbals**: Meinl Byzance series (14" Byzance Traditional Medium Hi-Hats, 18" & 20" Byzance Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus his signature Artist Concept "Double Down Stack")
 - **Hardware**: Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Electronics**: Roland SPD-SX, various triggers
 - **Sticks**: ProMark TXMHW signature model (2B weight, plays like 5B)
@@ -5968,10 +5968,10 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Matt Halpern use?', a: 'Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery\'s complex polyrhythmic arrangements; the specific snare model has not been independently verified.' },
-          { q: 'What drum set does Matt Halpern use?', a: 'Matt Halpern\'s drum set pairs Pearl Reference Series shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent\'s syncopated rhythms; the specific snare model has not been independently verified.' },
-          { q: 'What cymbals does Matt Halpern play?', a: 'Matt Halpern plays Meinl Byzance Series cymbals: 14" Byzance Traditional Medium Hi-Hats, 18" and 20" Byzance Traditional Extra Thin Hammered Crashes, a 22" Byzance Sand Crash-Ride, and a 10" Byzance Traditional Splash, plus his signature Meinl Artist Concept "Double Down Stack".' },
-          { q: 'What snare does Matt Halpern use?', a: 'Matt Halpern\'s snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.' },
+          { q: 'What drum kit does Matt Halpern use?', a: 'Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery\'s complex polyrhythmic arrangements, built around his Pearl Matt Halpern Signature snare.' },
+          { q: 'What drum set does Matt Halpern use?', a: 'Matt Halpern\'s drum set pairs Pearl Reference Series shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent\'s syncopated rhythms.' },
+          { q: 'What cymbals does Matt Halpern play?', a: 'Matt Halpern plays Meinl Byzance Series cymbals: 14" Byzance Traditional Medium Hi-Hats, 18" and 20" Byzance Traditional Extra Thin Hammered Crashes, and a 21" Byzance Dark Double Down Crash-Ride, plus his signature Meinl Artist Concept "Double Down Stack".' },
+          { q: 'What snare does Matt Halpern use?', a: 'Matt Halpern plays his own signature Pearl Matt Halpern Signature Snare (MH1460/B), a 14"x6" 1.5mm brass shell with a black powder-coat finish.' },
           { q: 'What sticks does Matt Halpern use?', a: 'Matt Halpern uses Promark Matt Halpern Signature drumsticks.' },
           { q: 'What bass drum pedal does Matt Halpern use?', a: 'Matt Halpern uses a Pearl Demon Drive double pedal.' },
           { q: 'What drumheads does Matt Halpern use?', a: 'Matt Halpern uses Evans drumheads.' },
@@ -5984,6 +5984,8 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
         items: [
           { name: 'Pearl Drums', url: 'https://pearldrum.com' },
           { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-halpern-a1523.html' },
+          { name: 'Sweetwater: Pearl Matt Halpern Signature Snare Drum (MH1460/B)', url: 'https://www.sweetwater.com/store/detail/MH1460B--pearl-matt-halpern-signature-snare-drum-14-by-6-inch' },
+          { name: 'Drum-Tec: Meinl Byzance Matt Halpern Artist\'s Choice Cymbal Set', url: 'https://www.drum-tec.com/meinl-byzance-matt-halpern-artist-s-choice-cymbal-set-a-cs2' },
           { name: 'Drumeo', url: 'https://www.drumeo.com' },
           { name: 'Wikipedia: Matt Halpern', url: 'https://en.wikipedia.org/wiki/Matt_Halpern' }
         ]

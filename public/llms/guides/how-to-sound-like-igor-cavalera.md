@@ -23,15 +23,13 @@ The result was a style that felt both ancient and aggressive simultaneously. The
 
 ## Gear
 
-Igor Cavalera is a long-time **Tama** endorser. During the Roots era, he used **Tama Artstar** kits — a professional maple series. He currently plays **Tama Starclassic Maple**:
+Igor Cavalera's gear has gone through a Pearl-to-Tama-to-Yamaha evolution. During the Roots era (1993-96), he played **Pearl Masters Custom** maple-shell kits. From 2006-2018 (Cavalera Conspiracy years, after his Paiste endorsement ended) he played a **ddrum Hybrid Kit**. He currently plays **Yamaha Absolute Hybrid Maple**, an endorsement announced in August 2018:
 
-- **Kick Drums:** 22" x 18" (x2) with Tama Iron Cobra Power Glide Double Pedal
-- **Snare:** Tama S.L.P. G-Maple 14" x 6.5" — warm maple crack
-- **Rack Toms:** 10" x 8", 12" x 9"
-- **Floor Toms:** 16" x 14", 18" x 16"
-- **Cymbals:** Paiste RUDE Series — 14" RUDE Hi-Hats, 18" & 19" RUDE Crash Rides, 22" RUDE Power Ride, 18" 2002 China
+- **Kick Drums:** 20" Bass Drums (x2) with Tama Iron Cobra Double Pedal
+- **Snare:** Yamaha Absolute Hybrid Maple 14" — warm maple crack
+- **Cymbals:** Zildjian — 14" Hi-Hats, 18" & 19" Crashes, 18" China, 20" Ride, Zbell (Zildjian artist since 2006; Paiste RUDE Series was his Sepultura-era setup)
 - **Sticks:** Vic Firth American Classic 5B — heavier than 5A for tribal stomp impact
-- **Heads:** Evans G2 Coated (toms and snare), Evans EQ3 Clear (kick)
+- **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador Coated (toms and snare)
 
 ## Tuning
 
@@ -61,13 +59,13 @@ Igor tunes for warmth and physical impact — the tribal groove approach demands
 ## FAQ
 
 **Q: What drum kit did Igor Cavalera use on Roots?**  
-A: Igor used Tama Artstar kits — Tama's professional maple series at the time — during Roots (1996) recording and touring. He currently plays Tama Starclassic Maple.
+A: Igor used Pearl Masters Custom maple-shell kits during the Roots (1996) recording and touring period. From 2006-2018 he played a ddrum Hybrid Kit during his Cavalera Conspiracy years; he currently plays a Yamaha Absolute Hybrid Maple kit, an endorsement announced in August 2018.
 
 **Q: How did Igor Cavalera create the tribal drum sound on Roots?**  
 A: From two sources: incorporation of Brazilian rhythmic concepts into metal drumming, and actual recording sessions with the Xavante indigenous tribe in Brazil. The key is playing mid-tempo patterns with deliberate, heavy intent — weight of each hit matters more than its velocity.
 
 **Q: What cymbals does Igor Cavalera use?**  
-A: Paiste RUDE Series — Paiste's loudest and most aggressive line. 14" RUDE hi-hats, 18" & 19" RUDE Crash Rides, 22" RUDE Power Ride, Paiste 2002 China. The RUDE line's projection suits both tribal stomps and high-tempo blast beats.
+A: Igor is a current Zildjian artist, a setup he's played since 2006: 14" hi-hats, 18" & 19" crashes, an 18" China, a 20" ride, and a Zbell. Before that, during his Sepultura years, he used Paiste RUDE Series — Paiste's loudest and most aggressive line — including 14" RUDE hi-hats, 18" & 19" RUDE Crash Rides, a 22" RUDE Power Ride, and a Paiste 2002 China.
 
 **Q: Does Igor Cavalera use double bass?**  
 A: Yes — Tama Iron Cobra double pedals. Unlike Nicko McBrain's single-pedal commitment, Igor uses double bass for thrash and blast-beat contexts, and also to reinforce tribal accent points in hybrid patterns.

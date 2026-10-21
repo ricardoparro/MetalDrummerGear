@@ -3584,11 +3584,11 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
     slug: 'how-to-sound-like-jay-weinberg',
     drummerId: 50,
     drummerName: 'Jay Weinberg',
-    band: 'Slipknot',
+    band: 'Former Slipknot / Former Suicidal Tendencies',
     genre: 'Nu-Metal / Alternative Metal',
     priority: 15,
     title: "How to Sound Like Jay Weinberg: Complete Gear & Technique Guide",
-    description: "Master Jay Weinberg's powerful Slipknot drumming style. Learn his double bass groove-lock, ghost note integration, syncopated kick patterns, and the exact gear setup behind one of metal's most energetic live performances.",
+    description: "Master Jay Weinberg's powerful drumming style, forged across his 2014-2023 Slipknot run and his 2024-2026 stint in Suicidal Tendencies. Learn his double bass groove-lock, ghost note integration, syncopated kick patterns, and the exact gear setup behind one of metal's most energetic live performances.",
     seoKeywords: ['jay weinberg drumming', 'how to sound like jay weinberg', 'slipknot drums jay weinberg', 'jay weinberg gear', 'jay weinberg technique', 'jay weinberg drum kit'],
     ogImage: '/images/guides/jay-weinberg-guide.webp',
     datePublished: '2026-06-24',
@@ -3597,14 +3597,15 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
     wordCount: 2000,
     readingTime: '10 min',
     intro: {
-      title: "Slipknot's High-Energy Powerhouse",
-      content: `Jay Weinberg joined Slipknot in 2014, taking one of the most scrutinized drum seats in metal history and making it his own. Son of legendary E Street Band drummer Max Weinberg, Jay brought a ferocious technical foundation and relentless stamina that powered Slipknot through stadium tours, festival headliners, and three studio records before his November 2023 departure.
+      title: "A High-Energy Powerhouse, Post-Slipknot",
+      content: `Jay Weinberg joined Slipknot in 2014, taking one of the most scrutinized drum seats in metal history and making it his own. Son of legendary E Street Band drummer Max Weinberg, Jay brought a ferocious technical foundation and relentless stamina that powered Slipknot through stadium tours, festival headliners, and three studio records before his November 2023 departure. He joined Suicidal Tendencies in 2024, then exited that band in January 2026 citing the birth of his first child and other music projects.
 
 What defines Jay's approach is the combination of groove-lock and aggression. Where some nu-metal drummers sacrifice feel for raw power, Jay kept Slipknot's rhythmic pocket impossibly tight while detonating the fills and double bass runs that the band's audience demands. His ghost note integration within heavy grooves adds a sophistication that rewards close listening on headphones even when it's barely perceptible through a festival PA.
 
 This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and the practice approaches behind his 2014-2023 run as Slipknot's drummer.`,
       keyPoints: [
         "Jay played in Slipknot from 2014-2023, recording three studio albums before departing in November 2023",
+        "Drummed for Suicidal Tendencies from 2024 until departing in January 2026",
         "Combines high-energy nu-metal attack with refined ghost note technique",
         "His double bass groove-lock is one of the tightest in modern metal",
         "Regular touring at arena and stadium scale demands both power and endurance"
@@ -3669,7 +3670,7 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
         finish: 'Custom Slipknot configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" SJC Custom Steel',
+          snare: '14" x 6.5" SJC "The Crucible" 48-ply Brass',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
@@ -3678,23 +3679,24 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
       },
       snare: {
         brand: 'SJC',
-        model: 'SJC Custom Steel',
+        model: 'Jay Weinberg "The Crucible" 48-ply Brass',
         size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "Jay's steel SJC Custom snare delivers the sharp crack Slipknot's aggressive style demands. The custom-built shell provides resonance and even tension distribution.",
-        alternative: "Tama Starclassic Steel or Ludwig Supraphonic for similar steel snare character"
+        shell: 'Brass',
+        description: "Jay's signature SJC \"The Crucible\" is a 48-ply brass shell that delivers the sharp crack his aggressive style demands. The 48-ply construction provides resonance and even tension distribution.",
+        alternative: "Tama Starclassic Steel or Ludwig Supraphonic for similar bright, cutting snare character"
       },
       cymbals: {
         brand: 'Zildjian',
-        series: 'Zildjian K Custom / A Custom Series',
+        series: 'Zildjian A New Beat / A Custom / K Custom Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" K Custom Hi-Hats', notes: 'Bright, crisp, cuts through dense arrangements' },
+          { type: 'Hi-Hats', model: 'Zildjian 14" A New Beat Hi-Hats', notes: 'Sharp, articulate response for groove patterns' },
           { type: 'Crash', model: 'Zildjian 18" A Custom Crash', notes: 'Fast response, cutting attack' },
-          { type: 'Crash', model: 'Zildjian 19" K Custom Crash', notes: 'Complex overtones for musical accents' },
+          { type: 'Crash', model: 'Zildjian 19" A Custom Crash', notes: 'Fuller wash for explosive accents' },
           { type: 'Ride', model: 'Zildjian 21" K Custom Ride', notes: 'Defined stick sound with wash for dynamic sections' },
-          { type: 'China', model: 'Zildjian 18" A Custom Chinese', notes: 'Aggressive accent for nu-metal energy bursts' }
+          { type: 'China', model: 'Zildjian 19" K China', notes: 'Aggressive accent for nu-metal energy bursts' },
+          { type: 'Effects', model: 'Zildjian 7" FX Break Bell', notes: 'Compact textural accent' }
         ],
-        description: "Jay works with Zildjian cymbals that deliver brightness and projection. The K and A Custom series give him the cutting attack needed to be heard over Slipknot's enormous stage volume."
+        description: "Jay works with Zildjian cymbals that deliver brightness and projection. The A New Beat hats and A/K Custom series give him the cutting attack needed to be heard over the band's enormous stage volume."
       },
       pedals: {
         brand: 'DW',
@@ -3704,9 +3706,9 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
       },
       sticks: {
         brand: 'Vater',
-        model: 'Vater 5B',
-        specs: '5B length, .595" diameter, wood tip',
-        description: "Jay plays Vater 5B sticks, built for endurance at high-energy shows — the 5B diameter gives him power without sacrificing speed.",
+        model: 'Vater 908 (Jay Weinberg Signature)',
+        specs: 'Signature size blending 5A/5B, .585" diameter, 16.25" length, wood barrel tip',
+        description: "Jay plays his signature Vater 908 sticks, built for endurance at high-energy shows — the 5A/5B-blend diameter gives him power without sacrificing speed.",
         alternative: "Vic Firth 5B or 2B for similar weight and diameter"
       },
       heads: {
@@ -3728,7 +3730,7 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
       snare: {
         tension: "High",
         muffling: "One Moongel for studio; minimal for live",
-        description: "The snare cracks high and bright. Jay's free-floating steel shell needs high tuning to achieve the clean attack that cuts through dense, amplified arrangements.",
+        description: "The snare cracks high and bright. Jay's 48-ply brass shell needs high tuning to achieve the clean attack that cuts through dense, amplified arrangements.",
         tip: "Tune batter head 2-3 turns past finger-tight. Bottom head slightly higher than top for sensitivity."
       },
       toms: {
@@ -3794,16 +3796,16 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
         kit: "Pearl Masters Maple/Gum ($1,800)",
         cymbals: "Zildjian A Custom Set ($800)",
         pedals: "DW 5000 Double Pedal ($350)",
-        sticks: "Vater 5B ($10)",
+        sticks: "Vater 908 ($10)",
         notes: "Closer to Jay's actual tone. Maple shells deliver the punch and warmth his style needs."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
         kit: "SJC Custom Drums ($2,800+)",
-        cymbals: "Zildjian K/A Custom Selection ($1,500+)",
+        cymbals: "Zildjian A Custom/K Custom Selection ($1,500+)",
         pedals: "DW 9000 Double Pedal ($700)",
-        snare: "SJC Custom Steel ($400)",
+        snare: "SJC \"The Crucible\" 48-ply Brass ($400)",
         heads: "Full Remo setup ($150)",
         notes: "Recording and touring-ready setup matching Jay's live configuration."
       }
@@ -3815,7 +3817,7 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
       },
       {
         question: "How does Jay Weinberg's drumming differ from Joey Jordison's?",
-        answer: "Jay brings a more refined technical foundation with stronger ghost note integration and cleaner groove-lock. Joey was known for raw aggression and charismatic showmanship. Both serve Slipknot's music brilliantly but from different stylistic angles — Jay's approach is arguably more precise while Joey's was more visceral."
+        answer: "Jay brings a more refined technical foundation with stronger ghost note integration and cleaner groove-lock. Joey was known for raw aggression and charismatic showmanship. Both served Slipknot's music brilliantly but from different stylistic angles — Jay's approach is arguably more precise while Joey's was more visceral."
       },
       {
         question: "What double bass pedals does Jay Weinberg use?",
@@ -3823,7 +3825,7 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
       },
       {
         question: "How do I get Jay Weinberg's snare sound?",
-        answer: "Jay uses an SJC Custom Steel snare tuned high for crack and cut. Tune your batter head tight — 2-3 turns past finger-tight — and use minimal muffling. A steel shell snare like the Tama Starclassic Steel or Ludwig Supraphonic will get you into similar territory."
+        answer: "Jay uses his signature SJC \"The Crucible\" 14\"x6.5\" 48-ply brass snare, tuned high for crack and cut. Tune your batter head tight — 2-3 turns past finger-tight — and use minimal muffling. A bright brass shell snare will get you into similar territory."
       },
       {
         question: "Can a beginner learn Jay Weinberg's drumming style?",

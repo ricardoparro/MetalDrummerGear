@@ -1155,3 +1155,31 @@ Pre-13:00 UTC pulse. Metrics 12:16 UTC (445u/505s/683v 7d; GSC 16,387 impr/219 c
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-10-21 18:14 (afternoon pulse — 8/8 proposals verified+promoted, #9465-9472)
+
+### Context (≤3 lines)
+Afternoon pulse between the 12:16 mid-day run and the 19:00 evening-review window. Metrics 18:14 UTC (461u/522s/708v 7d; GSC 20,184 impr/253 clicks/1.25% CTR/pos 8.7). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9465-9472, filed 13:08-13:10 UTC), continuing the llms-mirror sync sweep (public/llms/guides/*.md never regenerated after their soundLikeGuides.js source was fixed).
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (mirror file vs `soundLikeGuides.js`/`cymbalSetups.js`/`endorsementNews.js`/`extendedBios.js`/`bands.js` ground truth, dupe-search): #9465 (Gavin Harrison, 9-point gear fabrication) VERIFIED-WITH-NOTE — point 8 (sticks) mischaracterized: `soundLikeGuides.js` itself still says generic "Vic Firth 5A or 7A", contradicting `endorsementNews.js`'s signature-stick fact; told implementer to fix `soundLikeGuides.js` too, not just the mirror; also found an extra stale article-link path. #9466 (George Kollias, Demon Drive→Demon XR pedal + Meinl→Zildjian cymbals) VERIFIED-WITH-NOTE, trivial FAQ-wording nuance only. #9467 (Hellhammer, steel→maple snare + 2002→pure RUDE cymbals + 5A/5B→American Classic 5B) VERIFIED-WITH-NOTE — found `soundLikeGuides.js:9512` itself has a leftover "steel shell" line from PR #9413, flagged as a separate follow-up not blocking this fix. #9468 (Igor Cavalera, frozen pre-2018 Tama narrative) VERIFIED-WITH-NOTE — **material correction**: the issue's proposed 3-era timeline is wrong, skips a real 1996-2006 Tama Starclassic era confirmed by 4 ground-truth files; posted the correct 4-era sequence (Pearl→Tama Starclassic→ddrum→Yamaha) so the implementer doesn't erase a genuine era while fixing the current-gear fabrication. #9469 (Inferno/Behemoth, Paiste Black Alpha→RUDE + Axis→Monolit pedal + imprecise sticks) VERIFIED-WITH-NOTE, all 14 cited line numbers confirmed, trivial phrasing-normalization nuance only. #9470 (Jason Bittner, full gear-brand fabrication + Shadows Fall/Overkill join years) VERIFIED-CLEAN — cross-checked the join-year claims specifically against the #9145/#9031 flip-flop history, confirmed 2001/2017 are the current settled values, not a reversion. #9471 (Joey Jordison, snare size/heads/cymbals/sticks) VERIFIED-WITH-NOTE — found an extra FAQ occurrence (line 73) of the same cymbal fabrication beyond the cited lines. #9472 (Lars Ulrich, bronze→steel snare + DW→Tama Iron Cobra pedal + under-itemized cymbals) VERIFIED-WITH-NOTE, confirmed Z Custom vs A Custom China distinction, no corrections needed beyond the issue's own scope. All 8 promoted to `ai-fix`; 6 with implementer-note comments (all but #9466/#9470, which got lighter/no notes).
+- **Dupe-search**: confirmed none of the 8 target mirror files were touched by any prior closed issue (`gh issue list --state all --search "<drummer>"` per entity) — each is a genuinely new gap in the ongoing systemic mirror-sync sweep (same class as #8682's root-cause finding).
+- **GSC content-gap** (metrics.md, 1 row): `jaska raatikainen` (91 impr, 1.10% CTR, pos 10.9) — re-matched to the standing class-2 bare-name ruling (`learned-patterns.md` line 211), 10th consecutive confirmation. No new action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: nothing open >3 days without hold/in-progress/pr-opened/blocked (the 8 just-promoted issues are fresh, created 13:08-13:10 UTC).
+- **Starvation check**: pre-triage backlog 0 tripped the trigger shape, but bank held 8 (not ≤2) and this run's own triage is the resolution (post-triage backlog 8) — same recurring drain-then-refill cadence as every recent run this week, not a real starvation event.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-19 (last week's refresh, already closed-the-loop) — next due ~2026-10-26, not re-run.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9465-9472 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (6 with implementer notes, 1 material timeline correction on #9468). ✅ Founder ideas: inbox empty. ✅ GSC-gap: row already ruled. ✅ L1/L2/L3: not due again yet. ✅ Starvation: not a real event (drain-then-refill). ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9465-9472 pick up via Roadie; confirm #9468's corrected 4-era timeline gets used (not the issue's own compressed 3-era version), #9465's soundLikeGuides.js-sticks-field note, and the other extra-occurrence findings (#9467 line 9512 follow-up, #9471 line 73).
+2. L1/L2/L3 weekly refresh due ~2026-10-26 — full close-the-loop pass then.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

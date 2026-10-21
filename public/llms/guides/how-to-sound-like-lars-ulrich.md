@@ -13,12 +13,12 @@ Lars Ulrich co-invented thrash metal. As Metallica's co-founder, primary songwri
 
 Lars has used multiple kits across his career. Classic albums (Kill 'Em All through ...And Justice for All) featured **Camco** and **Ludwig** drums. His current setup uses **Tama Starclassic** with maple/bubinga shells:
 
-- **Kick Drums:** 22" x 18" (x2) with DW 5000 Series Double Pedal
-- **Snare:** 14" x 6.5" Lars Ulrich Signature Snare (hammered bronze shell)
+- **Kick Drums:** 22" x 18" (x2) with Tama Iron Cobra 900 Double Pedal
+- **Snare:** 14" x 6.5" Lars Ulrich Signature Snare (steel shell)
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 14", 16" x 16"
-- **Cymbals:** Zildjian A Custom Series — bright and cutting to be heard over Metallica's guitars
-- **Pedals:** DW 5000 Series Double Pedal
+- **Cymbals:** Zildjian A Custom Series — 14" A Custom "Dyno Beat" Hi-Hats, 16"/17"/18" A Custom Rock Crashes, 22" A Custom Ride, 20" Z Custom China — bright and cutting to be heard over Metallica's guitars
+- **Pedals:** Tama Iron Cobra 900
 - **Sticks:** Ahead Lars Ulrich Signature (aluminum core for durability)
 - **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
 
@@ -47,9 +47,9 @@ Lars uses **matched grip** with a powerful, arm-based stroke for crashes and a w
 | Item | Lars's Spec | Budget Alternative |
 |------|-------------|-------------------|
 | Drum Kit | Tama Starclassic Maple/Bubinga | Tama Imperialstar (~$600) |
-| Snare | Lars Ulrich Signature Snare 14" x 6.5" (Hammered Bronze) | Tama SLP or Ludwig Supraphonic |
+| Snare | Lars Ulrich Signature Snare 14" x 6.5" (Steel Shell) | Tama SLP or Ludwig Supraphonic |
 | Cymbals | Zildjian A Custom Series | Zildjian S Series Pack (~$300) |
-| Double Pedal | DW 5000 Series | DW 3000 Double Pedal (~$200) |
+| Double Pedal | Tama Iron Cobra 900 | DW 3000 Double Pedal (~$200) |
 | Sticks | Ahead Lars Ulrich Signature | Vic Firth 5B |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EMAD |
 
@@ -86,4 +86,4 @@ A: The thrash gallop is eighth notes on the bass drum with snare accents on beat
 **Drummer profile:** [https://metalforge.io/drummer/lars-ulrich](https://metalforge.io/drummer/lars-ulrich)  
 **Related guides:** [Dave Lombardo](https://metalforge.io/llms/guides/how-to-sound-like-dave-lombardo.md) · [Joey Jordison](https://metalforge.io/llms/guides/how-to-sound-like-joey-jordison.md)
 
-*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-06-19*
+*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-10-21*

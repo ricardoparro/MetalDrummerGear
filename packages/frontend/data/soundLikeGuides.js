@@ -15999,13 +15999,13 @@ This guide breaks down the technique, gear, and practice approach behind Ilejay'
     readingTime: '10 min',
     intro: {
       title: "The Versatile Engine Behind Devin Townsend's Musical Universe",
-      content: `Ryan Van Poederooyen has been Devin Townsend's drummer since 2002, when Townsend recruited him on Gene Hoglan's recommendation — over two decades of collaboration that makes it one of the longest, most consistent drummer-artist partnerships in progressive metal. Across a catalogue that swings from the crushing extreme metal of "Deconstruction" to the near-ambient stillness of "Ghost," and from the orchestral prog sprawl of "Empath" to the accessible heavy rock of "Epicloud," Van Poederooyen has been the rhythmic constant that lets Townsend's restless creativity go anywhere it wants.
+      content: `Ryan Van Poederooyen drummed for Devin Townsend from 2002 to 2018 (Devin Townsend Band 2002-2007, Devin Townsend Project 2009-2018), after Townsend recruited him on Gene Hoglan's recommendation — a 16-year run that stands as one of the longest, most consistent drummer-artist partnerships in progressive metal. Across a catalogue that swings from the crushing extreme metal of "Deconstruction" to the near-ambient stillness of "Ghost," and from the orchestral sprawl of "Z²: Dark Matters / Sky Blue" to the accessible heavy rock of "Epicloud," Van Poederooyen was the rhythmic constant that let Townsend's restless creativity go anywhere it wanted.
 
 What sets Van Poederooyen apart isn't a single signature lick or a blistering top speed — it's range. He can sit in a whisper-quiet ambient passage on "Casualties of Cool" one moment and drive a full-intensity double-kick assault on "Deconstruction" the next, often within the same album cycle. That dynamic control, paired with powerful, precise double bass and tasteful, arrangement-serving fills, is what defines his sound.
 
 This guide breaks down exactly how to capture Van Poederooyen's playing — from his dynamic range and double bass approach to his Pearl Reference kit and Sabian cymbal setup. Whether you're building a prog-metal vocabulary from scratch or trying to nail the specific feel of a Devin Townsend record, this guide covers the technique and gear that get you there.`,
       keyPoints: [
-        "Devin Townsend's drummer since 2002 — one of prog-metal's longest-running partnerships",
+        "Devin Townsend's drummer from 2002 to 2018 — one of prog-metal's longest-running partnerships",
         "Defined by dynamic range, from whisper-quiet ambient passages to full-intensity double bass",
         "Powerful, groove-driven double bass rather than pure speed",
         "Also works as a session drummer and drum teacher in Montreal"

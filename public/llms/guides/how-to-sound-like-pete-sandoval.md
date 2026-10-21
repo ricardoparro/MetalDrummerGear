@@ -19,8 +19,8 @@ Pete Sandoval plays **Pearl Reference / Pearl Masters** drums with a setup engin
 - **Floor Toms:** 14" x 14", 16" x 16"
 - **Cymbals:** Zildjian A Series — bright, cutting, articulate
 - **Pedals:** Tama Speed Cobra HP910LW Double Pedal
-- **Sticks:** Vic Firth 5A
-- **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
+- **Sticks:** Vic Firth 5B/2B
+- **Heads:** Remo — reportedly Pinstripe or Emperor (specific per-position models not publicly confirmed)
 
 ## Tuning & Setup
 
@@ -50,8 +50,8 @@ Sandoval plays **matched grip** with a technique focused on wrist-driven efficie
 | Snare | Pearl Sensitone Steel 14" x 5" | Ludwig Supraphonic 14" x 5" |
 | Cymbals | Zildjian A Series | Zildjian ZHT / Planet Z Set (~$250) |
 | Pedal | Tama Speed Cobra HP910LW | Tama Iron Cobra 200 (~$120) |
-| Sticks | Vic Firth 5A | Promark 5A |
-| Kick Head | Remo Powerstroke P3 Clear | Evans EMAD Clear |
+| Sticks | Vic Firth 5B/2B | Promark 5B/2B |
+| Heads | Remo Pinstripe or Emperor (specific per-position models unconfirmed) | Evans G2 Clear |
 
 **Starter budget path (~$900):** Pearl Export + Zildjian ZHT + Tama Iron Cobra 200. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
 

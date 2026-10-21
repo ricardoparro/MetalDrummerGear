@@ -7,7 +7,7 @@
 
 ## Overview
 
-Ryan Van Poederooyen has been Devin Townsend's drummer since 1999 — over 25 years of collaboration that makes it one of the longest, most consistent drummer-artist partnerships in progressive metal. Across a catalogue that swings from the crushing extreme metal of "Deconstruction" to the near-ambient stillness of "Ghost," and from the orchestral prog sprawl of "Empath" to the accessible heavy rock of "Epicloud," Van Poederooyen has been the rhythmic constant that lets Townsend's restless creativity go anywhere it wants.
+Ryan Van Poederooyen drummed for Devin Townsend from 2002 to 2018 (Devin Townsend Band 2002-2007, Devin Townsend Project 2009-2018) — a 16-year run that stands as one of the longest, most consistent drummer-artist partnerships in progressive metal. Across a catalogue that swings from the crushing extreme metal of "Deconstruction" to the near-ambient stillness of "Ghost," and from the orchestral sprawl of "Z²: Dark Matters / Sky Blue" to the accessible heavy rock of "Epicloud," Van Poederooyen was the rhythmic constant that let Townsend's restless creativity go anywhere it wanted.
 
 What sets Van Poederooyen apart isn't a single signature lick or a blistering top speed — it's range. He can sit in a whisper-quiet ambient passage on "Casualties of Cool" one moment and drive a full-intensity double-kick assault on "Deconstruction" the next, often within the same album cycle. That dynamic control, paired with powerful, precise double bass and tasteful, arrangement-serving fills, is what defines his sound.
 
@@ -42,9 +42,9 @@ Van Poederooyen's technique is built around serving the song across an unusually
 
 - **Drive-Over-Speed Double Bass (140–170 BPM, Intermediate-Advanced):** Van Poederooyen's double bass on tracks like "Kingdom" and "Truth" prioritizes forward momentum and lock with the guitar riff over raw tempo. Play the guitar riff's rhythm on the kick drum first at a slow tempo, then add the hands, keeping the whole pattern locked to the riff rather than treating the kick as an independent line.
 - **Whisper-to-Wall Dynamic Shift (Variable, Advanced):** A hallmark of the Deconstruction/Ghost era — shifting within a single arrangement from near-silent brushed or rim-click textures to full-intensity blast-driven sections without losing time or feel. Practice a simple groove at four dynamic levels (pp, mp, f, ff) in succession without a click, then with one, focusing on the transition points.
-- **Orchestral Prog Fills (Variable, Intermediate):** On sprawling, arrangement-heavy tracks like those on "Empath," Van Poederooyen uses cascading tom fills and cymbal swells that follow the orchestration rather than filling every bar. Learn a dense, multi-section song by ear and mark exactly where the arrangement calls for a fill versus where it needs the drums to lay out.
+- **Orchestral Prog Fills (Variable, Intermediate):** On sprawling, arrangement-heavy tracks like those on "Z²: Dark Matters / Sky Blue," Van Poederooyen uses cascading tom fills and cymbal swells that follow the orchestration rather than filling every bar. Learn a dense, multi-section song by ear and mark exactly where the arrangement calls for a fill versus where it needs the drums to lay out.
 
-**Key songs to study:** *Kingdom* (Addicted, 2009) · *Deconstruction* (Deconstruction, 2011) · *Ghost* (Ghost, 2011) · *Truth* (Epicloud, 2012) · *Genesis* (Empath, 2019)
+**Key songs to study:** *Kingdom* (Addicted, 2009) · *Deconstruction* (Deconstruction, 2011) · *Ghost* (Ghost, 2011) · *Truth* (Epicloud, 2012) · *Ziltoid Goes Home* (Z², 2014)
 
 ## Gear Shopping List
 

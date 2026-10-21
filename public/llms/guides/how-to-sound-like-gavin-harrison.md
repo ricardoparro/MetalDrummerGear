@@ -23,15 +23,15 @@ What distinguishes Gavin is his "grid" approach to polyrhythms. Rather than trea
 
 ## Gear
 
-Gavin Harrison uses **DW Performance Series** and **Pearl Reference** kits across different recording and touring configurations:
+Gavin Harrison plays a **Sonor SQ2 Series** kit, a longtime endorsement spanning his entire Porcupine Tree tenure:
 
-- **Kick Drum:** 22" x 18" (single bass drum primary setup)
-- **Snare:** DW Collector's Maple or Brass 14" x 5.5" (varies by project — maple for warmth, brass for brighter cut)
-- **Rack Toms:** 8" x 7", 10" x 8", 12" x 9"
-- **Floor Toms:** 14" x 12", 16" x 14"
-- **Cymbals:** Zildjian K Custom Dark Series — complex, warm overtones with controlled decay; each cymbal has a distinct musical voice
-- **Pedals:** DW 9000 Series (single primarily, double when compositionally required)
-- **Sticks:** Vic Firth 5A or 7A — lighter sticks reflecting his economy-of-motion philosophy
+- **Kick Drum:** 22" x 17" (single bass drum primary setup)
+- **Snare:** Sonor Gavin Harrison Signature, 12" x 5" or 14" x 5.25" (brass shell, plus a 12" Protean option)
+- **Rack Toms:** 10" x 8", 12" x 9"
+- **Floor Toms:** 14" x 13", 16" x 15"
+- **Cymbals:** Zildjian K Custom Special Dry Series — complex, dry overtones with controlled decay; each cymbal has a distinct musical voice
+- **Pedals:** Sonor Perfect Balance Pedal (single primarily, double when compositionally required)
+- **Sticks:** Vic Firth Gavin Harrison Signature (since 2007) — reflects his economy-of-motion philosophy
 - **Heads:** Remo Powerstroke P4 Clear (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
 
 ## Tuning
@@ -65,7 +65,7 @@ Gavin tunes for musicality and dynamic response — his drums must whisper as we
 A: Gavin's grid system involves placing a repeating N-beat accent pattern against a 4/4 time signature. The pattern cycles back to its starting point every N×4 beats. A 5-note pattern resolves every 20 beats, a 7-note pattern every 28 beats. He maps these cycles and practices until they feel like natural grooves rather than math problems.
 
 **Q: What cymbals does Gavin Harrison use?**  
-A: Gavin primarily uses Zildjian K Custom Dark cymbals — hi-hats, crashes, and ride — for their complex, warm overtones. He selects cymbals with distinct musical voices rather than simply volume, which suits Porcupine Tree's dynamic progressive arrangements.
+A: Gavin primarily uses Zildjian K Custom Special Dry cymbals — hi-hats, crashes, and ride — for their complex, dry overtones. He selects cymbals with distinct musical voices rather than simply volume, which suits Porcupine Tree's dynamic progressive arrangements.
 
 **Q: How does Gavin Harrison play against the band in a different meter?**  
 A: Gavin often plays in a rhythmically related but distinct meter to Porcupine Tree — for example, 5-beat phrases against the band's 4/4. Because the meters are mathematically related (both divisible by common denominators), they align at predictable resolution points. Steven Wilson has built this metric tension into their compositions as a structural device.
@@ -80,7 +80,8 @@ A: Start with Sound of Muzak (In Absentia) and the simpler Porcupine Tree perfor
 
 **Full interactive guide:** [https://metalforge.io/guides/how-to-sound-like-gavin-harrison](https://metalforge.io/guides/how-to-sound-like-gavin-harrison)  
 **Drummer profile:** [https://metalforge.io/drummer/gavin-harrison](https://metalforge.io/drummer/gavin-harrison)  
-**Related guides:** [Danny Carey](https://metalforge.io/llms/guides/how-to-sound-like-danny-carey.md) · [Mike Mangini](https://metalforge.io/llms/guides/how-to-sound-like-mike-mangini.md)  
-**Related articles:** [What's In Gavin Harrison's Kit?](https://metalforge.io/gear/whats-in-gavin-harrisons-kit) · [Gavin Harrison — Porcupine Tree Drum Setup](https://metalforge.io/gear/gavin-harrison-porcupine-tree-drum-setup)
+**Related guides:** [Danny Carey](https://metalforge.io/llms/guides/how-to-sound-like-danny-carey.md) · [Mike Mangini](https://metalforge.io/llms/guides/how-to-sound-like-mike-mangini.md) · [Matt Halpern](https://metalforge.io/llms/guides/how-to-sound-like-matt-halpern.md)  
+**Gear pages:** [Drums](https://metalforge.io/gear/drums) · [Sonor](https://metalforge.io/brands/sonor) · [Zildjian](https://metalforge.io/brands/zildjian)  
+**Related articles:** [What's In Gavin Harrison's Kit?](https://metalforge.io/gear/whats-in-gavin-harrisons-kit) · [Fear of a Blank Planet Drum Setup](https://metalforge.io/gear/fear-of-a-blank-planet-drum-setup)
 
-*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-06-24*
+*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-10-21*

@@ -725,7 +725,7 @@ export const ENDORSEMENT_TIMELINE = {
     band: 'Mastodon',
     currentEndorsements: {
       drums: { brand: 'Tama', model: 'Starclassic Performer B/B', since: '2000s' },
-      cymbals: { brand: 'Meinl', model: 'Mb20 & Mb8 Series', since: '2000s' },
+      cymbals: { brand: 'Meinl', model: 'Byzance Series', since: '2000s' },
       sticks: { brand: 'Vater', model: '5B', since: '2000s' },
       heads: { brand: 'Evans', model: 'G2 Clear', since: '2000s' },
       hardware: { brand: 'Tama', model: 'Speed Cobra', since: '2010s' },

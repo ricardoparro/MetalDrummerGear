@@ -1880,7 +1880,7 @@ This guide explores how to develop Brann's flowing style while maintaining the g
         finish: 'Custom finishes',
         config: {
           kick: '22" x 18" Bass Drum',
-          snare: '14" x 6.5" Tama Snare',
+          snare: '14" x 6.5" Tama S.L.P. G-Maple Snare',
           toms: ['10" x 8" Tom', '12" x 9" Tom', '13" x 10" Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
@@ -1889,7 +1889,7 @@ This guide explores how to develop Brann's flowing style while maintaining the g
       },
       snare: {
         brand: 'Tama',
-        model: 'Tama Starclassic Snare',
+        model: 'Tama S.L.P. G-Maple',
         size: '14" x 6.5"',
         shell: 'Maple',
         description: "Brann's snare has crack and body, cutting through while maintaining warmth for quieter passages.",
@@ -1897,15 +1897,15 @@ This guide explores how to develop Brann's flowing style while maintaining the g
       },
       cymbals: {
         brand: 'Meinl',
-        series: 'Meinl Mb20 & Mb8 Series',
+        series: 'Meinl Byzance Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 14" Mb20 Hi-Hats', notes: 'Complex, musical tone' },
-          { type: 'Crash', model: 'Meinl 18" Mb8 Crash', notes: 'Quick, musical response' },
-          { type: 'Crash', model: 'Meinl 20" Mb20 Crash', notes: 'Full, complex sound' },
-          { type: 'Ride', model: 'Meinl 22" Mb20 Ride', notes: 'Versatile with great wash' },
-          { type: 'China', model: 'Meinl 18" Mb8 China', notes: 'Musical trash' }
+          { type: 'Hi-Hats', model: '14" Dark Hi-Hats', notes: 'Dry, focused chick' },
+          { type: 'Crash', model: '18" Brilliant Heavy Hammered Crash', notes: 'Explosive accents' },
+          { type: 'Crash', model: '19" Brilliant Heavy Hammered Crash', notes: 'Explosive accents' },
+          { type: 'Ride', model: '21" Ghost Ride', notes: 'Shimmering rhythmic undertones' },
+          { type: 'China', model: '18" Extra Dry China', notes: 'Aggressive, cutting punctuation' }
         ],
-        description: "Brann's Meinl Mb20 & Mb8 cymbals have complex overtones that suit his musical approach. They respond well to his dynamic playing."
+        description: "Brann's Meinl Byzance cymbals have complex overtones that suit his musical approach. They respond well to his dynamic playing."
       },
       pedals: {
         brand: 'Tama',

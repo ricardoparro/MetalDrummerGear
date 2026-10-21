@@ -21,15 +21,15 @@ Nick Menza (1964-2016) powered Megadeth through their commercial and critical pe
 
 ## Gear
 
-Nick Menza played **Sonor Performer** kits — Sonor's professional beech-shell line — through the Rust in Peace and Countdown to Extinction recording and touring periods:
+Nick Menza's kit evolved across his Megadeth tenure — Tama Artstar II (Rust in Peace, 1990) → Pearl Masters (Countdown to Extinction, 1992) → Pearl Masterworks (Youthanasia, 1994) → **Pearl Reference Custom** (Cryptic Writings, 1997, his final full studio album):
 
-- **Kick Drums:** 22" x 18" (x2) with DW 5000 Series Double Pedal
-- **Snare:** Sonor Phonic Plus Steel 14" x 6.5" — tuned tight for sharp crack
+- **Kick Drums:** 22" x 18" (x2) with Tama Iron Cobra Double Pedal (by 1997; DW 5000 Series on Rust in Peace)
+- **Snare (final era):** Pearl Reference Custom 14" x 5.5", Maple shell — tuned tight for sharp crack
 - **Rack Toms:** 10" x 9", 12" x 10"
 - **Floor Toms:** 16" x 14", 18" x 16"
-- **Cymbals:** Zildjian A Series — 14" A New Beat Hi-Hats, 16" & 18" A Medium Crashes, 20" A Ride, 18" A China
-- **Sticks:** Vic Firth 5A — versatile for speed and rimshot power
-- **Heads:** Evans G2 Coated (toms), Evans G1 Coated (snare batter), Evans EQ3 Clear (kick)
+- **Cymbals (final era, Sabian AA / Signature Series since 1997):** 14" AA Regular Hi-Hats, 16" AA Rock Crash, 18" Signature Crash, 20" AA Medium Ride, 18" AA China — preceded by Zildjian A / A Custom on Rust in Peace (1990) and Paiste 2002 / Signature on Countdown to Extinction (1992)
+- **Sticks:** Vater Nick Menza Signature
+- **Heads:** Remo Powerstroke P4 Coated (kick), Remo Ambassador Coated (snare), Remo Emperor Coated (toms)
 
 ## Tuning
 
@@ -59,16 +59,16 @@ Nick tuned for punch and cut — the thrash metal imperative:
 ## FAQ
 
 **Q: What drum kit did Nick Menza use on Rust in Peace?**  
-A: Nick Menza used Sonor Performer kits — Sonor's professional beech-shell series — through the Rust in Peace and Countdown to Extinction periods. Modern alternatives with similar beech-shell character: Sonor AQ2 and SQ1.
+A: Nick Menza used a Tama Artstar II kit (birch shells, Midnight Blue finish) on Rust in Peace (1990). He later moved through Pearl Masters (1992), Pearl Masterworks (1994), and finally Pearl Reference Custom for Cryptic Writings (1997), his last full studio album with Megadeth.
 
 **Q: How do I get Nick Menza's snare crack?**  
-A: Tight tuning (several turns past finger-tight) plus consistent rimshots. A steel shell snare like the Ludwig Supraphonic or Pearl Sensitone Steel gets you closest to that sharp crack.
+A: Tight tuning (several turns past finger-tight) plus consistent rimshots. Nick's final-era snare was a Pearl Reference Custom 14" x 5.5" maple shell; Pearl Sensitone Steel or Pearl Session Studio Select get you closest to that sharp crack.
 
 **Q: How fast was Nick Menza's double bass?**  
 A: Nick comfortably played double-bass at 180-200 BPM. What distinguished him was articulation — each kick hit remained clean and even rather than blurring into undifferentiated speed.
 
 **Q: What cymbals did Nick Menza use?**  
-A: Zildjian A Series — 14" A New Beat hi-hats, A Medium crashes (16" and 18"), 20" A ride, 18" A China. The A Series provides excellent definition at thrash tempos.
+A: His cymbals evolved with his kit: Zildjian A / A Custom on Rust in Peace (1990), then Paiste 2002 / Signature on Countdown to Extinction (1992), before settling on Sabian AA / Signature Series from Cryptic Writings (1997) onward — 14" AA hi-hats, 16" AA Rock crash, 18" Signature crash, 20" AA Medium ride, 18" AA china.
 
 ---
 

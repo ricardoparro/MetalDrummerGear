@@ -7,7 +7,7 @@
 
 ## Overview
 
-Scott Travis (born September 8, 1961, in Washington, D.C.) joined Judas Priest in 1989 from Racer X, the neoclassical metal band featuring guitarist Paul Gilbert. His debut with Priest was Painkiller (1990) — widely regarded as one of heavy metal's greatest albums and one of the most demanding drum performances ever recorded. The combination of Travis's American thrash-influenced aggression and Priest's British heavy metal tradition created something new: speed metal precision fused with NWOBHM songwriting.
+Scott Travis (born September 6, 1961, in Norfolk, Virginia) joined Judas Priest in 1989 from Racer X, the neoclassical metal band featuring guitarist Paul Gilbert. His debut with Priest was Painkiller (1990) — widely regarded as one of heavy metal's greatest albums and one of the most demanding drum performances ever recorded. The combination of Travis's American thrash-influenced aggression and Priest's British heavy metal tradition created something new: speed metal precision fused with NWOBHM songwriting.
 
 Painkiller transformed Judas Priest. After the commercial experimentation of Ram It Down (1988), the band returned with music written around Travis's capabilities — faster, more technically demanding than anything recorded with previous drummers. The title track, "Metal Meltdown," and "One Shot at Glory" showcase Travis maintaining 200+ BPM double-bass patterns with machine-like consistency while the songs still groove and breathe as heavy metal compositions, not just technical exercises.
 
@@ -21,7 +21,7 @@ Travis plays **Tama Starclassic Walnut/Birch** (current) — he used Tama Artsta
 - **Snare:** 14" x 6.5" Tama Starclassic Steel or Maple
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 14", 16" x 16"
-- **Cymbals:** Sabian AAX/HHX Series — bright, articulate character for speed metal clarity
+- **Cymbals:** Paiste RUDE / 2002 Series — bright, articulate character for speed metal clarity
 - **Pedals:** Tama Iron Cobra 900 Double Pedal (Power Glide cam, smooth acceleration)
 - **Sticks:** Vic Firth 5B (heavier weight for arena volumes)
 - **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
@@ -53,12 +53,12 @@ Travis uses **matched grip** with precise, efficient technique that prioritizes 
 |------|-------------|-------------------|
 | Drum Kit | Tama Starclassic Walnut/Birch | Tama Imperialstar (~$500) |
 | Snare | Tama S.L.P. 14" x 6.5" | Tama S.L.P. Big Black Steel |
-| Cymbals | Sabian AAX/HHX selection | Sabian SBR or B8X (~$250) |
+| Cymbals | Paiste RUDE/2002 selection | Paiste PST series (~$250) |
 | Double Pedal | Tama Iron Cobra 900 (~$400) | Tama Iron Cobra 200 Double (~$150) |
 | Sticks | Vic Firth 5B | Promark 5B or Vater 5B |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EQ3 Clear |
 
-**Starter budget path (~$900):** Tama Imperialstar + Sabian SBR + Tama Iron Cobra 200. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/sabian](https://metalforge.io/brands/sabian).
+**Starter budget path (~$900):** Tama Imperialstar + Paiste PST series + Tama Iron Cobra 200. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/paiste](https://metalforge.io/brands/paiste).
 
 ## Practice Routine
 
@@ -81,7 +81,7 @@ A: Scott Travis has been a long-time Tama Iron Cobra advocate, using the Iron Co
 A: The key is precision before speed. Start at 140 BPM with a metronome. Every note must be equal in volume, timing, and tone. Record yourself — most players have a dominant foot; identify and train the weaker one to match. Increase 5 BPM per week, never before playing evenly at the current tempo. At 170-180 BPM, begin endurance training: sustained patterns for 2+ minutes. Speed emerges from technique consistency, not from trying to go fast.
 
 **Q: What cymbals does Scott Travis use?**  
-A: Scott Travis uses Sabian cymbals, primarily from the AAX and HHX series. His setup typically includes 14" AAX hi-hats for fast, cutting patterns; 18" and 19" crashes for explosive accent work; a 21" ride for groove-driven sections; and an 18" China for aggressive moments. Sabian's bright, articulate character suits speed metal's demanding frequency requirements.
+A: Scott Travis uses Paiste cymbals, drawing from the RUDE and 2002 series — an endorsement he's held continuously since 1987, before he even joined Judas Priest, and the one part of his rig that has never switched brands. His setup typically includes 14" hi-hats for fast, cutting patterns; 18" and 19" crashes for explosive accent work; a 22" Power Ride for groove-driven sections; and an 18" China for aggressive moments. Paiste's bright, articulate character suits speed metal's demanding frequency requirements.
 
 **Q: What Judas Priest songs should I learn to play like Scott Travis?**  
 A: Start with 'Night Crawler' from Painkiller (1990) — it demonstrates Travis's groove-oriented approach before tackling extreme speed. Then learn 'Painkiller' itself for the definitive speed metal double-bass challenge. For his evolved style, study 'Firepower' from the 2018 album — it shows his dynamic, mature approach 28 years into his Priest career. These three cover both ends of his stylistic range.

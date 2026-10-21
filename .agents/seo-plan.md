@@ -13697,3 +13697,47 @@ Notable finds: Matt Greiner's mirror (highest-traffic page) fabricates an entire
 2. New file family opened: `public/llms/guides/how-to-sound-like-*.md` mirror drift. Only 8 of ~40 merged `soundLikeGuides.js` fixes cross-referenced so far — remaining ~32 merged fixes (Gavin Harrison, George Kollias, Hellhammer, Igor Cavalera, Inferno, Jason Bittner, Joey Jordison, Lars Ulrich, Matt Garstka, Matt Halpern, Mike Portnoy, Mikkey Dee, Mike Mangini, Jay Weinberg, Morgan Ågren, Nick Augusto, Flo Mounier, Daray, Chris Adler, Blake Richardson, Aquiles Priester, Alex Rüdinger, Danny Carey, Eloy Casagrande, Mario Duplantier, Hannes Grossmann, Charlie Benante, Abe Cunningham, Brann Dailor, Bill Ward, Alex Bent — plus the still-open #9433-9441 batch once those merge) are untouched — continue this sweep next run before resuming or re-pivoting.
 3. Content-gap: row re-confirmed against standing ruling (9-for-9) — no re-action.
 4. Drum-chair watch: today is Wednesday, not Monday — skipped. Next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-21 (run, ~13:0x UTC) — `how-to-sound-like-*.md` mirror drift sweep continues, 8 filed (#9465-9472)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `public/llms/guides/how-to-sound-like-*.md`: 67 on disk — unchanged, no new-page work (freeze in effect).
+- Bank check: 12 open `seo-proposal` at run start (8 fresh untriaged from the 07:1x run, #9449-9456, not yet triaged; + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 8.
+- Drum-chair watch: today is Wednesday, not Monday — skipped per the once-per-Monday rule.
+
+### Metrics readout
+- GSC 7d: 16,387 impr / 219 clicks / 1.34% CTR / pos 8.6 (metrics.md refreshed 13:06 UTC, unchanged since 01:17 UTC).
+- GA4 7d: 445u / 505s / 683v. Top pages: `/` (40v), `/drummer/matt-greiner` (19v, #1 non-home), `/drummer/mario-duplantier` (18v), `/drummer/eloy-casagrande` (12v).
+- Content-gap row: `jaska raatikainen` (73 impr, 1.37% CTR) — standing class-2 bare-name ruling (`learned-patterns.md` line 211), 10th consecutive mention. No re-action.
+
+### Method
+Continued the `public/llms/guides/how-to-sound-like-*.md` mirror-drift sweep opened in the 07:1x run (cross-referencing merged `soundLikeGuides.js` fact-drift fixes against their never-regenerated `.md` mirrors — no generator script writes this file family). Verified `git log -- packages/frontend/data/soundLikeGuides.js` to confirm merge status, then dispatched 8 parallel verification subagents on the next unchecked names from the queued pool: Gavin Harrison, George Kollias, Hellhammer, Igor Cavalera, Inferno, Jason Bittner, Joey Jordison, Lars Ulrich. Each read the full `.md` mirror, the current (post-fix) `soundLikeGuides.js` entry, cross-checked sibling ground truth (`endorsementNews.js`/`bands.js`/`extendedBios.js`/`cymbalSetups.js`/`drummerEvolution.js`), and ran a `gh issue list --state all --search` dedup pass.
+
+8 of 8 returned genuine, non-duplicate drift — personally reviewed every finding's key file:line citations before filing. Hit rate on this file family remains 100% across 16 names checked so far (8 this run + 8 in the 07:1x run) — confirms this is a systemic "mirror never regenerated after source fix" gap, not isolated incidents, consistent with #8682's finding that the `generate:llms` chain was silently broken for 40+ days.
+
+Notable finds: Gavin Harrison's and Jason Bittner's mirrors each fabricate an *entire wrong gear brand family* (DW/Pearl instead of Sonor; Tama/Sabian/DW instead of Mapex/Zildjian) — the largest-scope single-entry drifts in this sweep so far. Igor Cavalera's mirror is frozen pre-Aug-2018, missing an entire brand-switch era (Tama→Yamaha) that `soundLikeGuides.js` now documents in full. Lars Ulrich's mirror (top-priority LLM-citation entity) has a pedal fabrication (DW vs. verified Tama Iron Cobra 900) that was already fixed in the `.js` source by closed #6484 but never propagated here — same gap class as several other names this sweep has surfaced.
+
+### Proposals filed this run
+1. #9465 — Gavin Harrison llms mirror — fabricates entire gear brand (DW/Pearl/Sabian-cymbal vs verified Sonor/Zildjian)
+2. #9466 — George Kollias llms mirror — fabricated "Pearl Demon Drive" pedal + Meinl cymbals (verified Demon XR / Zildjian)
+3. #9467 — Hellhammer llms mirror — fabricated steel snare/2002-cymbals/5A sticks (verified Maple/RUDE/American Classic 5B)
+4. #9468 — Igor Cavalera llms mirror — frozen pre-2018 Tama/Paiste narrative (verified current Yamaha/Zildjian/Remo)
+5. #9469 — Inferno (Behemoth) llms mirror — fabricated Paiste Black Alpha/Axis pedal (verified RUDE/Monolit Czarcie Kopyto)
+6. #9470 — Jason Bittner llms mirror — entire gear brand fabrication + wrong Shadows Fall/Overkill join years (verified Mapex/2001/2017)
+7. #9471 — Joey Jordison llms mirror — fabricated Pearl snare size/Remo heads/Paiste "Signature Series" (verified Pearl 13x6.5/Evans/RUDE+2002)
+8. #9472 — Lars Ulrich llms mirror — fabricated bronze snare shell + DW pedal (verified steel shell / Tama Iron Cobra 900), stale cymbal lineup
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9449-9456 (07:1x UTC run, 8 fresh, not yet triaged)
+- #9465-9472 (this run, 8 fresh)
+
+### Next run
+1. Watch #9449-9456 and #9465-9472 pick up via Roadie.
+2. `how-to-sound-like-*.md` mirror-drift sweep: 16 of the ~40 merged `soundLikeGuides.js` fixes cross-referenced so far (8 in 07:1x run, 8 this run). Remaining ~24 untouched: Matt Garstka, Matt Halpern, Mike Portnoy, Mikkey Dee, Mike Mangini, Jay Weinberg, Morgan Ågren, Nick Augusto, Flo Mounier, Daray, Chris Adler, Blake Richardson, Aquiles Priester, Alex Rüdinger, Danny Carey, Eloy Casagrande, Mario Duplantier, Hannes Grossmann, Charlie Benante, Abe Cunningham, Brann Dailor, Bill Ward, Alex Bent, plus Dave Lombardo/Travis Orbin (merged 2026-10-21 morning). Continue this sweep next run — 16/16 hit rate so far strongly suggests the remaining pool will also yield genuine findings.
+3. Content-gap: row re-confirmed against standing ruling (10th mention) — no re-action.
+4. Drum-chair watch: today is Wednesday, not Monday — skipped. Next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

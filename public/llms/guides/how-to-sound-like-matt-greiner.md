@@ -7,27 +7,27 @@
 
 ## Overview
 
-Matt Greiner is the rhythmic architect behind August Burns Red, one of metalcore's most technically accomplished and Grammy-nominated bands. Since co-founding ABR in 2003, Greiner has redefined what metalcore drumming can be — bringing jazz-influenced dynamics, sophisticated cymbal work, and intricate kick patterns to a genre often defined by aggression alone. What separates Greiner from the metalcore pack is restraint. He knows when to lock into a brutal groove and when to let the music breathe. His playing on albums like "Constellations," "Leveler," and "Rescue & Restore" demonstrates a drummer who serves the composition first, layering complexity where it supports rather than overwhelms. His 2017 Pearl Signature Snare cemented his status among the gear community, but it's the technique that earns his reputation.
+Matt Greiner is the rhythmic architect behind August Burns Red, one of metalcore's most technically accomplished and Grammy-nominated bands. Since co-founding ABR in 2003, Greiner has redefined what metalcore drumming can be — bringing jazz-influenced dynamics, sophisticated cymbal work, and intricate kick patterns to a genre often defined by aggression alone. What separates Greiner from the metalcore pack is restraint. He knows when to lock into a brutal groove and when to let the music breathe. His playing on albums like "Constellations," "Leveler," and "Rescue & Restore" demonstrates a drummer who serves the composition first, layering complexity where it supports rather than overwhelms. His 2017 Vic Firth Signature stick cemented his status among the gear community, but it's the technique that earns his reputation.
 
 ## Kit Setup
 
-Matt plays **Pearl Masters Maple Reserve** drums — chosen for warm attack and resonance that suits ABR's dynamic range:
+Matt plays a **Mapex Black Panther Design Lab** kit with Maple shells — chosen for warm attack and resonance that suits ABR's dynamic range:
 
-- **Kick Drums:** 22" x 18" (x2) with Pearl Demon Drive Double Pedal
-- **Snare:** 14" x 6.5" Pearl Matt Greiner Signature Snare (Brass shell)
+- **Kick Drums:** 22" x 18" (x2) with DW 9000 Series Double Pedal
+- **Snare:** 14" x 5.5" Mapex Black Panther Snare (Maple shell)
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Tom:** 16" x 16"
-- **Cymbals:** Sabian AAX / HHX Evolution Series — bright with complex overtones
-- **Pedals:** Pearl Demon Drive Double Pedal (direct drive for precise kick patterns)
-- **Sticks:** Vic Firth 5A (standard — technique creates the sound)
-- **Heads:** Evans EMAD2 Clear (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
+- **Cymbals:** Paiste Formula 602 — 14" hi-hats, 16"/17"/18" crashes, 22" ride, 18" china, 10" splash
+- **Pedals:** DW 9000 Series Double Pedal (dual-chain drive for precise kick patterns)
+- **Sticks:** Vic Firth Matt Greiner Signature, 16" length, Taj Mahal tip
+- **Heads:** Evans EMAD2 Clear (kick), Evans G2 Coated (snare), Evans G2 Clear (toms)
 
 ## Tuning & Setup
 
 Greiner tunes for versatility — drums that respond sensitively at low volumes and punch hard when pushed:
 
 - **Kick:** Medium tension with Evans EMAD system. The EMAD's interchangeable foam rings allow precise sustain control — narrower ring for tighter attack in studio settings. Punchy without booming.
-- **Snare:** Medium-high tension on batter and resonant heads. Brass shell rewards moderate tension — bright enough for crack, with enough body for ghost-note sensitivity. Minimal muffling (one Moongel for recording).
+- **Snare:** Medium-high tension on batter and resonant heads. Maple shell rewards moderate tension — bright enough for crack, with enough body for ghost-note sensitivity. Minimal muffling (one Moongel for recording).
 - **Toms:** Medium tension with no muffling or one small Moongel. Body and sustain for melodic passages without sacrificing punch for fills. Tune resonant heads slightly lower than batter.
 
 ## Technique Tips
@@ -46,14 +46,14 @@ Matt uses **matched grip** with a relaxed, musical approach unusual in heavy met
 
 | Item | Greiner's Spec | Budget Alternative |
 |------|---------------|-------------------|
-| Drum Kit | Pearl Masters Maple Reserve | Pearl Export Series (~$700) |
-| Snare | Pearl Matt Greiner Signature 14" x 6.5" (Brass) | Pearl Free-Floating Brass or Ludwig Supraphonic |
-| Cymbals | Sabian HHX Evolution Series | Sabian B8X Pack (~$200) |
-| Pedal | Pearl Demon Drive Double | Pearl P930 Double (~$150) |
-| Sticks | Vic Firth 5A | Any quality 5A |
+| Drum Kit | Mapex Black Panther Design Lab (Maple) | Mapex Saturn Evolution or Armory |
+| Snare | Mapex Black Panther Snare 14" x 5.5" (Maple) | Mapex Armory or Ludwig Supraphonic |
+| Cymbals | Paiste Formula 602 | Paiste Formula 602 |
+| Pedal | DW 9000 Series Double Pedal | DW 5000 Series or Tama Speed Cobra |
+| Sticks | Vic Firth Matt Greiner Signature | Vic Firth American Classic 5A |
 | Kick Head | Evans EMAD2 Clear | Remo Powerstroke P3 Clear |
 
-**Starter budget path (~$1,000):** Pearl Export + Sabian B8X Pack + Pearl P930 Double. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/sabian](https://metalforge.io/brands/sabian).
+**Starter budget path (~$1,000):** Mapex Saturn Evolution + Paiste Formula 602 + Tama Speed Cobra Double. See [/brands/mapex](https://metalforge.io/brands/mapex) and [/brands/paiste](https://metalforge.io/brands/paiste).
 
 ## Practice Routine
 
@@ -66,16 +66,16 @@ Matt uses **matched grip** with a relaxed, musical approach unusual in heavy met
 ## FAQ
 
 **Q: What snare does Matt Greiner use?**  
-A: Matt Greiner uses the Pearl Matt Greiner Signature Snare — a 14" x 6.5" brass shell snare released in 2017. The brass shell delivers warmth and crack suited to both metalcore aggression and ghost-note sensitivity.
+A: Matt Greiner uses the Mapex Black Panther Snare — a 14" x 5.5" maple shell snare. The maple shell delivers warmth and crack suited to both metalcore aggression and ghost-note sensitivity.
 
 **Q: Does Matt Greiner use double bass?**  
-A: Yes. Matt uses a Pearl Demon Drive double pedal for intricate kick patterns throughout August Burns Red's catalog. His kick patterns often lock with guitar riffs rather than running continuous 16ths.
+A: Yes. Matt uses a DW 9000 Series double pedal for intricate kick patterns throughout August Burns Red's catalog. His kick patterns often lock with guitar riffs rather than running continuous 16ths.
 
 **Q: How does Matt Greiner incorporate jazz into metalcore?**  
 A: Primarily through ghost notes, dynamic control, and cymbal voicing. He layers left-hand ghost notes beneath metalcore grooves and uses the ride cymbal for texture rather than just keeping time — both techniques borrowed from jazz vocabulary.
 
 **Q: What cymbals does Matt Greiner use?**  
-A: Matt Greiner plays Sabian cymbals, primarily from the AAX and HHX Evolution series. These provide the brightness needed to cut through heavy guitar while offering the overtone complexity his dynamic playing demands.
+A: Matt Greiner plays Paiste Formula 602 cymbals. These provide the brightness needed to cut through heavy guitar while offering the overtone complexity his dynamic playing demands.
 
 **Q: Is Matt Greiner self-taught?**  
 A: Matt started playing young and is largely self-taught, though he cites jazz drummers as major influences on his approach to dynamics and texture. His formal music education background informs his compositional approach to drum parts.

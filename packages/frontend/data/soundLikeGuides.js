@@ -3850,11 +3850,11 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
     slug: 'how-to-sound-like-mike-mangini',
     drummerId: 51,
     drummerName: 'Mike Mangini',
-    band: 'Dream Theater',
+    band: 'Dream Theater (2010-2023) / Godsmack (touring, 2026-present)',
     genre: 'Progressive Metal / Prog Rock',
     priority: 16,
     title: "How to Sound Like Mike Mangini: Complete Gear & Technique Guide",
-    description: "Master Mike Mangini's progressive metal drumming. Learn his subdivisions mastery, metric modulation, polyrhythmic independence, and the Pearl Reference Series setup behind Dream Theater's most technical recordings.",
+    description: "Master Mike Mangini's progressive metal drumming. Learn his subdivisions mastery, metric modulation, polyrhythmic independence, and the Pearl Reference Series setup behind Dream Theater's most technical recordings from his 2010-2023 tenure.",
     seoKeywords: ['mike mangini drumming', 'how to sound like mike mangini', 'dream theater drums', 'mike mangini gear', 'mike mangini technique', 'mike mangini subdivisions'],
     ogImage: '/images/guides/mike-mangini-guide.webp',
     datePublished: '2026-06-24',
@@ -3931,36 +3931,36 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
       drumKit: {
         brand: 'Pearl',
         model: "Pearl Reference Series",
-        shells: 'Maple/Spruce hybrid',
+        shells: 'Maple',
         finish: 'Custom configurations',
         config: {
           kick: '22" x 18" Bass Drum (single, with occasional double)',
-          snare: '14" x 6.5" Pearl Reference',
+          snare: '14"x5" & 14"x6.5" Pearl Reference Brass (dual snare setup)',
           toms: ['8" x 7" Tom', '10" x 8" Tom', '12" x 9" Tom', '13" x 11" Tom'],
           floorToms: ['14" x 12" Floor Tom', '16" x 14" Floor Tom']
         },
-        description: "Mike's Pearl Reference Series kit is custom-configured to his specifications. The maple/spruce hybrid shells provide warmth with excellent attack, and his extended tom array supports the wide melodic range his progressive style demands.",
+        description: "Mike's Pearl Reference Series kit is custom-configured to his specifications. The maple shells provide warmth with excellent attack, and his extended tom array supports the wide melodic range his progressive style demands.",
         affiliateNote: "Pearl Reference or Pearl Masters series offer the Pearl sound at more accessible price points."
       },
       snare: {
         brand: 'Pearl',
         model: "Pearl Reference",
-        size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "Mike's snare delivers clear, cutting attack across a wide dynamic range. The steel shell provides brightness without harshness, important for passages that shift from delicate ghost notes to full backbeats.",
-        alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for similar character"
+        size: '14"x5" & 14"x6.5" (dual snare setup)',
+        shell: 'Brass',
+        description: "Mike runs two Pearl Reference brass snares — a 14\"x5\" and a 14\"x6.5\" — switching between them for different sonic needs. The brass shells deliver clear, cutting attack across a wide dynamic range, important for passages that shift from delicate ghost notes to full backbeats.",
+        alternative: "Pearl Sensitone Brass or Ludwig Supraphonic for similar character"
       },
       cymbals: {
         brand: 'Sabian',
-        series: 'Sabian HHX Evolution / AAX X-Plosion',
+        series: 'Sabian HHX Evolution',
         setup: [
           { type: 'Hi-Hats', model: 'Sabian 14" HHX Evolution Hi-Hats', notes: 'Clear stick definition, musical response' },
-          { type: 'Crash', model: 'Sabian 18" AAX X-Plosion Crash', notes: 'Complex overtones for musical accents' },
-          { type: 'Crash', model: 'Sabian 20" AAX X-Plosion Crash', notes: 'Fast response with dry decay' },
-          { type: 'Ride', model: 'Sabian 22" HHX Evolution Ride', notes: 'Defined stick, controllable wash for atmospheric passages' },
-          { type: 'China', model: 'Sabian 18" HHX China', notes: 'Controlled trash accent' }
+          { type: 'Crash', model: 'Sabian 17" HHX Evolution Crash', notes: 'Fast, bright accent' },
+          { type: 'Crash', model: 'Sabian 18" HHX Evolution Crash', notes: 'Complex overtones for musical accents' },
+          { type: 'Crash', model: 'Sabian 19" HHX Evolution Crash', notes: 'Fuller wash for bigger accents' },
+          { type: 'Ride', model: 'Sabian 21" HHX Raw Bell Dry Ride', notes: 'Defined stick, controllable wash for atmospheric passages' }
         ],
-        description: "Mike's Sabian cymbals match Dream Theater's dynamic range requirements — musical and complex without being harsh, supporting everything from quiet brush-level passages to explosive ensemble accents."
+        description: "Mike's Sabian HHX Evolution cymbals match Dream Theater's dynamic range requirements — musical and complex without being harsh, supporting everything from quiet brush-level passages to explosive ensemble accents."
       },
       pedals: {
         brand: 'Pearl',
@@ -4067,7 +4067,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
         price: "$8,000+",
         label: "Professional Setup",
         kit: "Pearl Reference Series Custom ($4,000+)",
-        cymbals: "Sabian HHX Evolution / AAX X-Plosion Selection ($2,500+)",
+        cymbals: "Sabian HHX Evolution Selection ($2,500+)",
         pedals: "Pearl Eliminator Redline Double Pedal ($700)",
         heads: "Full Remo setup ($200)",
         notes: "The actual Mike Mangini setup — studio and stage ready."
@@ -4080,7 +4080,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
       },
       {
         question: "How is Mike Mangini different from Mike Portnoy in Dream Theater?",
-        answer: "Mike Portnoy's style was more visceral and groove-oriented with a rock sensibility. Mike Mangini brings more academic precision — his subdivision control and polyrhythmic independence are more systematic. Both are exceptional but have distinct characters. Dream Theater's recent albums are more technically intricate at the compositional level."
+        answer: "Mike Portnoy's style was more visceral and groove-oriented with a rock sensibility. Mike Mangini brought more academic precision — his subdivision control and polyrhythmic independence were more systematic. Both are exceptional but have distinct characters. Mangini drummed for Dream Theater from 2010 to 2023, when Portnoy rejoined the band; Mangini has been Godsmack's touring drummer since June 2026."
       },
       {
         question: "What is metric modulation and how does Mike Mangini use it?",
@@ -4092,7 +4092,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
       },
       {
         question: "Can beginners learn to play Mike Mangini's style?",
-        answer: "Beginners can absolutely start the journey toward Mike's style by focusing on foundational subdivision practice and four-way limb independence. His playing is extremely demanding, but the path there is well-defined: master rudiments, study subdivisions systematically, and build independence one limb pair at a time. Dream Theater's more accessible songs like The Enemy Inside and Untethered Angel are good starting points."
+        answer: "Beginners can absolutely start the journey toward Mike's style by focusing on foundational subdivision practice and four-way limb independence. His playing is extremely demanding, but the path there is well-defined: master rudiments, study subdivisions systematically, and build independence one limb pair at a time. Dream Theater songs from his 2010-2023 tenure, like The Enemy Inside and Untethered Angel, are good starting points."
       }
     ],
     related: {

@@ -7,16 +7,16 @@
 
 ## Overview
 
-Dariusz "Daray" Brzozowski stepped into one of extreme metal's most demanding drum seats in 2008, replacing Hellhammer in Norwegian symphonic black metal titans Dimmu Borgir. The job requires something rare: the raw speed and brutality of death metal — a skill he'd already proven across a decade with Polish death metal legends Vader (2006-2016) — combined with the split-second dynamic control needed to lock in with a live 70-piece orchestra and choir without derailing the arrangement.
+Dariusz "Daray" Brzozowski stepped into one of extreme metal's most demanding drum seats in 2008, replacing Hellhammer in Norwegian symphonic black metal titans Dimmu Borgir. The job requires something rare: the raw speed and brutality of death metal — a skill he'd already proven across roughly four years with Polish death metal legends Vader (2004-2008) — combined with the split-second dynamic control needed to lock in with a live 70-piece orchestra and choir without derailing the arrangement.
 
 What makes Daray's style distinct from most extreme metal drummers is that theatrical control. Blast beats and machine-gun double-kick runs are only half the job; the other half is playing with absolute consistency against fixed orchestral parts that can't adjust to a drummer who rushes or drags. Songs like "Progenies of the Great Apocalypse" and the orchestral sections of Abrahadabra (2010) and Eonian (2018) showcase a drummer who can go from blistering aggression to controlled, orchestral-tempo precision within the same song.
 
 ## Kit Setup
 
-Daray currently plays a **Pearl Reference Pure** kit in a custom black finish with a Pure Maple/Birch hybrid shell:
+Daray currently plays a **Tama Starclassic Performer B/B** kit in Piano Black finish with a Birch/Bubinga hybrid shell, played since 2014:
 
 - **Kick Drums:** 22" x 18" Bass Drums (x2)
-- **Snare:** 14" x 5" Pearl Reference Brass Snare
+- **Snare:** 14" x 6.5" Tama S.L.P. Black Brass LBR1465 Snare
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 14", 18" x 16"
 - **Cymbals:** Paiste RUDE / 2002 Series — 14" RUDE Sound Edge Hi-Hats, 17" and 18" RUDE Crashes, 22" RUDE Power Ride
@@ -24,7 +24,7 @@ Daray currently plays a **Pearl Reference Pure** kit in a custom black finish wi
 - **Sticks:** Promark 5B
 - **Heads:** Remo Emperor Clear (kick/toms), Remo Ambassador Coated (snare batter), Remo Ambassador Clear (resonant)
 
-Earlier in the band's Death Cult Armageddon era (2003), the drum chair used a Tama Starclassic Performer kit with Meinl Byzance cymbals for a similar orchestral-integration role.
+From 2008 to 2013, Daray played a Pearl Reference Pure kit in a custom black finish with a Pure Maple/Birch hybrid shell and a 14" x 5" Pearl Reference Brass Snare, before switching to the Tama Starclassic Performer B/B in 2014. Earlier still, in the band's Death Cult Armageddon era (2003), the drum chair used a Tama Starclassic Performer kit with Meinl Byzance cymbals for a similar orchestral-integration role.
 
 ## Tuning & Setup
 
@@ -50,8 +50,8 @@ Daray's technique is built around a single core demand: extreme metal intensity 
 
 | Item | Daray's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Pearl Reference Pure | Pearl Export Series (~$700) |
-| Snare | Pearl Reference 14" x 5" Brass | Pearl Sensitone Brass or Ludwig Supraphonic |
+| Drum Kit | Tama Starclassic Performer B/B | Pearl Export Series (~$700) |
+| Snare | Tama S.L.P. Black Brass LBR1465 14" x 6.5" | Pearl Sensitone Brass or Ludwig Supraphonic |
 | Cymbals | Paiste RUDE / 2002 Series | Paiste PST 5 or Sabian B8X Pack (~$200-300) |
 | Pedal | Pearl Demon Drive Double Pedal | Tama Speed Cobra Double (~$150) |
 | Sticks | Promark 5B | Vic Firth American Classic 5B |
@@ -69,13 +69,13 @@ Daray's technique is built around a single core demand: extreme metal intensity 
 ## FAQ
 
 **Q: What drum kit does Daray play?**  
-A: Daray plays a Pearl Reference Pure kit in a custom black finish, with a double 22" x 18" bass drum configuration and a 14" x 5" Pearl Reference brass snare. His cymbals are Paiste RUDE and 2002 series, and he uses a Pearl Demon Drive double pedal.
+A: Daray plays a Tama Starclassic Performer B/B kit in Piano Black finish, with a double 22" x 18" bass drum configuration and a 14" x 6.5" Tama S.L.P. Black Brass LBR1465 snare. His cymbals are Paiste RUDE and 2002 series, and he uses a Pearl Demon Drive double pedal.
 
 **Q: How does Daray play with a live orchestra?**  
 A: Daray relies on strict tempo discipline and dynamic control rather than following the orchestra by ear. Since a live orchestra and choir can't adjust to a drummer who rushes or drags, he practices holding blast beats and fills to a fixed tempo so his parts stay locked to the arrangement.
 
 **Q: What bands has Daray played in?**  
-A: Daray has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008, replacing Hellhammer. Before that, he spent a decade with Polish death metal band Vader (2006-2016), and he continues to play with Polish black metal band Vesania.
+A: Daray has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008, replacing Hellhammer. Before that, he spent roughly four years with Polish death metal band Vader (2004-2008), and he continues to play with Polish black metal band Vesania.
 
 **Q: Is Daray's style good for beginners?**  
 A: Daray's blast beats and double-kick endurance are advanced techniques, but his tempo-discipline drills — practicing against a click without drifting — are valuable for drummers at any level who want tighter timing.

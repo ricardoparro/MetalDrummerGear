@@ -4833,7 +4833,7 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
     drummerId: 50,
     name: 'Aquiles Priester',
     bands: [
-      { slug: 'angra', period: '2001-2008, 2023-present', role: 'Drummer' },
+      { slug: 'angra', period: '2001-2008', role: 'Drummer' },
       { slug: 'wasp', period: '2017-present', role: 'Drummer' },
       { slug: 'hangar', period: '1996-present', role: 'Drummer, founding member' }
     ],
@@ -4843,7 +4843,7 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
     sections: {
       overview: {
         title: 'Overview',
-        content: `Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2001-2008, returning 2023), American heavy metal band W.A.S.P. (2017-present), and his own band Hangar.
+        content: `Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2001-2008), American heavy metal band W.A.S.P. (2017-present), and his own band Hangar.
 
 Priester is considered one of the greatest power metal drummers in the world. His double bass abilities, complex fills, and capacity to maintain blazing speeds for extended periods have earned him numerous awards from Brazilian and international music publications. His energetic live performances and precise studio work have influenced a generation of metal drummers.`
       },
@@ -4857,7 +4857,7 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
           { year: '2006', event: 'Released "Aurora Consurgens" with Angra' },
           { year: '2008', event: 'Left Angra; continued with Hangar' },
           { year: '2017', event: 'Joined W.A.S.P. as touring drummer' },
-          { year: '2023', event: 'Returned to Angra for their latest album cycle' }
+          { year: '2023', event: 'Launched the Mapex Saturn Evolution signature kit' }
         ]
       },
       styleAndInfluences: {
@@ -4915,8 +4915,8 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
           '"Temple of Shadows" is considered one of the greatest power metal albums ever',
           'Known for his warm personality and fan interaction',
           'Has released instructional DVDs and online lessons',
-          'Balances work with multiple bands simultaneously (W.A.S.P., Hangar, Angra)',
-          'His return to Angra in 2023 was celebrated by the power metal community',
+          'Balances work with multiple bands simultaneously (W.A.S.P., Hangar)',
+          'The Mapex Saturn Evolution was the first Brazilian-drummer signature kit released by a global drum brand',
           'Often cited as the greatest Brazilian metal drummer',
           'Has been praised by Blackie Lawless (W.A.S.P.) for his professionalism',
           'Maintains an extensive practice regimen to keep up with demanding schedules'
@@ -4931,7 +4931,7 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
           { q: 'What hi-hats does Aquiles Priester use?', a: 'Aquiles Priester plays Paiste hi-hats from his custom red-coated set, delivering the bright, articulate chick sound that keeps pace with his rapid single- and double-stroke fills.' },
           { q: 'What snare drum does Aquiles Priester play?', a: 'Aquiles Priester plays the snare from his Mapex Saturn Evolution All Maple signature kit, prized for a bright, cutting crack that keeps his rapid single- and double-stroke fills audible through dense progressive power metal arrangements.' },
           { q: 'What bass drum pedals does Aquiles Priester use?', a: 'Aquiles Priester uses a DW 9000 Series double bass drum pedal, mounted alongside a DW 9000 Series hi-hat stand and Gibraltar racks, delivering the sustained, high-speed double-bass patterns his playing is known for.' },
-          { q: 'What band is Aquiles Priester in?', a: 'Aquiles Priester is best known for his work with Angra (2001-2008, 2023-present) and W.A.S.P. (2017-present), along with his own project Hangar.' },
+          { q: 'What band is Aquiles Priester in?', a: 'Aquiles Priester is best known for his work with Angra (2001-2008) and W.A.S.P. (2017-present), along with his own project Hangar.' },
           { q: 'What drumsticks does Aquiles Priester use?', a: 'Aquiles Priester uses his own ProMark Aquiles Priester Signature drumsticks.' },
           { q: 'What drumheads does Aquiles Priester use?', a: 'Aquiles Priester uses Remo Coated Ambassador / Powerstroke 3 drumheads across his Mapex Saturn Evolution All Maple kit.' },
           { q: 'What hardware does Aquiles Priester use?', a: 'Aquiles Priester mounts his DW 9000 Series double pedal and DW 9000 Series hi-hat stand on Gibraltar racks, supporting his Mapex Saturn Evolution kit on world tours.' }

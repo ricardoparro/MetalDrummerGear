@@ -7,20 +7,20 @@
 
 ## Overview
 
-Travis Orbin didn't just play drums for Periphery — he helped invent the rhythmic language that defined an entire subgenre. As Periphery's founding drummer from 2005 to 2012, Orbin performed on the self-titled debut and early EPs that established djent as a distinct style. His ability to navigate Misha Mansoor's complex extended-range guitar compositions while maintaining groove is the template that an entire generation of djent drummers has studied. What makes Orbin exceptional is that he makes complexity serve the music. His patterns in songs like "Icarus Lives!" and "Zyglrox" aren't technically demanding for its own sake — they're the exact right pattern for an unusually complex musical idea. He's gone on to establish a substantial solo career with YouTube playthroughs showcasing technical mastery that has made him one of the most-studied drummers in progressive metal.
+Travis Orbin played drums in Periphery from around 2006 to February 2009 — the band's early, pre-recording years. He left before Periphery wrote or recorded its self-titled debut, released in 2010 with new drummer Matt Halpern, and does not perform on that record or any subsequent Periphery release. What makes Orbin a reference point for technical drummers anyway is a career built almost entirely outside a studio discography: extraordinarily detailed polyrhythmic playing, ghost-note density, and independent two-footed bass drum work, documented extensively in his own solo and cover videos. He's built a substantial solo career on the strength of that playthrough catalog, which has made him one of the most-studied drummers in progressive metal despite never appearing on a Periphery album.
 
 ## Kit Setup
 
-Travis plays **DW Collector's Series** maple drums — chosen for warm attack with upper-mid projection that djent arrangements require:
+Travis plays **SJC Custom Drums** in maple — chosen for warm attack with upper-mid projection that djent arrangements require:
 
 - **Kick Drums:** 22" x 18" (x2) with DW 9000 Series Double Pedal
-- **Snare:** 14" x 6.5" DW Collector's Series Steel Snare
+- **Snare:** 14" x 6.5" SJC Custom Maple Snare
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Tom:** 16" x 16"
-- **Cymbals:** Meinl Byzance / Classics Custom Series — clarity and complexity for dense arrangements
+- **Cymbals:** Zildjian K Custom Dark / A Custom Hybrid — clarity and complexity for dense arrangements
 - **Pedals:** DW 9000 Series Double Pedal
-- **Sticks:** Vic Firth 5A (standard — creativity comes from technique)
-- **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
+- **Sticks:** Vic Firth American Classic 5B (technique creates the sound rather than exotic equipment)
+- **Heads:** Evans EMAD Clear (kick), Evans G2 Coated (snare), Evans G2 Clear (toms), Evans G1 Clear (resonant)
 
 ## Tuning & Setup
 
@@ -40,20 +40,20 @@ Travis uses **matched grip** with exceptional four-way independence. His djent a
 - **Displaced Backbeat Patterns (130–170 BPM, Advanced):** Snare backbeat placed on the 'and' of beats or odd subdivisions. Subdivide at the 16th note level and count out loud. Identify where the displaced beat falls before adding it to the full kit.
 - **Progressive Metric Modulation (Variable, Expert):** Periphery modulates between time signatures. Find common subdivisions bridging departing and arriving meters. Practice 4/4 to 7/8, 5/4 to 6/8 in pairs.
 
-**Key songs to study:** *Icarus Lives!* (Periphery, 2010) · *Zyglrox* (Periphery, 2010) · *Jetpacks Was Yes!* (Periphery, 2010) · *Buttersnips* (Periphery, 2010) · *The Walk* (Periphery, 2010)
+**Study material:** *Juggernaut: Icarus Lives!* playalong (a Periphery cover, not a studio credit — Orbin left before the band's 2010 debut) · Orbin's solo drum videos, where his technical vocabulary is documented through playthroughs and session work rather than a Periphery discography.
 
 ## Gear Shopping List
 
 | Item | Orbin's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | DW Collector's Series Maple | PDP Concept Maple (~$700) |
-| Snare | DW Collector's Steel 14" x 6.5" | Pearl Free-Floating Steel or Ludwig Supraphonic |
-| Cymbals | Meinl Byzance / Classics Custom Dark | Meinl HCS Pack (~$200) |
+| Drum Kit | SJC Custom Drums (Maple) | PDP Concept Maple (~$700) |
+| Snare | SJC Custom Maple 14" x 6.5" | Pearl Free-Floating Steel or Ludwig Supraphonic |
+| Cymbals | Zildjian K Custom Dark / A Custom Hybrid | Zildjian ZBT Pack (~$200) |
 | Pedal | DW 9000 Double | DW 3000 Double (~$200) |
-| Sticks | Vic Firth 5A | Any quality 5A |
-| Kick Head | Remo Powerstroke P3 Clear | Evans EMAD Clear |
+| Sticks | Vic Firth American Classic 5B | Any quality 5B |
+| Kick Head | Evans EMAD Clear | Evans EMAD 2 |
 
-**Starter budget path (~$1,000):** PDP Concept Maple + Meinl HCS + DW 3000 Double. See [/brands/dw](https://metalforge.io/brands/dw) and [/brands/meinl](https://metalforge.io/brands/meinl).
+**Starter budget path (~$1,000):** PDP Concept Maple + Zildjian ZBT Pack + DW 3000 Double Pedal. See [/brands/zildjian](https://metalforge.io/brands/zildjian) and [/brands/dw](https://metalforge.io/brands/dw).
 
 ## Practice Routine
 
@@ -66,7 +66,7 @@ Travis uses **matched grip** with exceptional four-way independence. His djent a
 ## FAQ
 
 **Q: Why did Travis Orbin leave Periphery?**  
-A: Travis Orbin left Periphery in 2012 to pursue his solo career and other musical projects. The departure was amicable. He was replaced by Matt Halpern, who has been with the band since.
+A: Travis Orbin left Periphery in February 2009, before the band wrote or recorded its self-titled debut album. He was replaced by Matt Halpern, who has recorded every Periphery album since.
 
 **Q: What makes Travis Orbin's djent drumming unique?**  
 A: Orbin's approach combines the polyrhythmic complexity of djent with a deeply musical sensibility. He translates guitar riffs directly to kick patterns, creating a tight rhythmic lock between instruments that is central to djent's sound.

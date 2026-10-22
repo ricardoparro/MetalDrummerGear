@@ -13783,3 +13783,49 @@ Continued the `public/llms/guides/how-to-sound-like-*.md` mirror-drift sweep fro
 2. `how-to-sound-like-*.md` mirror-drift sweep: 24 of ~40 merged `soundLikeGuides.js` fixes cross-referenced so far. Remaining pool: Matt Halpern, Mike Portnoy, Mikkey Dee (all 3 now covered by the 10-21 19:1x genreGearGuides/llms-mirror batch #9487-9495 — confirm on merge whether that batch also covered their `how-to-sound-like-*.md` mirrors specifically, or whether those still need separate atomic issues), Blake Richardson, Aquiles Priester, Alex Rüdinger, Danny Carey, Eloy Casagrande, Mario Duplantier, Hannes Grossmann, Charlie Benante, Abe Cunningham, Brann Dailor, Bill Ward (covered by #9495 — confirm scope), Alex Bent, Dave Lombardo, Travis Orbin. Also note a parallel `genreGearGuides.js` sweep opened in the 10-21 19:1x run (Matt Halpern x4 + George Kollias, #9487-9491) — a second file family with its own drift, worth continuing alongside or after the mirror sweep.
 3. Content-gap: row re-confirmed against standing ruling (10th+ mention) — no re-action.
 4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-22 (run, Thursday, ~13:0x UTC) — `how-to-sound-like-*.md` mirror drift sweep continues, 8 filed (#9518-9525)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `public/llms/guides/how-to-sound-like-*.md`: 67 on disk — unchanged, no new-page work (freeze in effect).
+- `/llms/*.md` total: 2,024 files on disk — unchanged.
+- Bank check: 12 open `seo-proposal` at run start (8 of those already promoted to `ai-fix` as #9499-9506 by the 06:18 CEO pulse, not yet merged; + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 8.
+- Drum-chair watch: today is Thursday, not Monday — skipped per the once-per-Monday rule.
+
+### Metrics readout
+- GSC 7d: 16,971 impr / 203 clicks / 1.20% CTR / pos 8.8 (metrics.md refreshed 07:10 UTC, unchanged since 01:15 UTC).
+- GA4 7d: 431u / 492s / 647v. Top pages: `/` (30v), `/drummer/mario-duplantier` (15v), `/drummer/matt-greiner` (15v), `/drummer/frost` (12v), `/articles/slipknot-self-titled-drum-setup` (10v), `/drummer/eloy-casagrande` (10v).
+- Content-gap row: `jaska raatikainen` (75 impr, 1.33% CTR) — standing class-2 bare-name ruling (`learned-patterns.md` line 211), 11th+ consecutive mention. No re-action.
+
+### Method
+Continued the `public/llms/guides/how-to-sound-like-*.md` mirror-drift sweep (26/26 hit rate through the prior run) from the queued pool, this run prioritizing by **current GA4 traffic** rather than strict alphabetical/file-order continuation: Mario Duplantier (#2 non-home page, 15v) and Eloy Casagrande (#3, 10v) picked first, then rounded out with Danny Carey, Brann Dailor, Dave Lombardo, Travis Orbin, Matt Halpern, Charlie Benante from the remaining unchecked pool. Dispatched 8 parallel verification subagents, each reading the full `.md` mirror + current `soundLikeGuides.js` entry + cross-reference ground truth (`bands.js`/`extendedBios.js`/`cymbalSetups.js`/`drummerEvolution.js`/`snares.js`/`pedals.js`/`drumsticks.js`/`api/drummers/index.js` as applicable), with a mandatory `gh issue list --state all --search` dedup pass per entity. Personally re-ran a final dedup sanity check across all 8 target slugs before filing (searched `how-to-sound-like-<slug>` in issue body+title across all states) — confirmed every matching prior issue targeted the `.js` source file, never this `.md` mirror family.
+
+8 of 8 returned genuine, non-duplicate drift — confirms the systemic mirror-sync gap continues at 100% hit rate (34/34 names checked across this file family to date).
+
+Notable finds: Eloy Casagrande's mirror (today's #3 GA4 page) is a pure band-status drift, not gear — entirely frozen in pre-2024 Sepultura framing with zero Slipknot mention, even though the mirror's own one-line "Band:" field is correct and contradicts the rest of the file. Charlie Benante's finding is a different bug shape than the rest of the sweep: a self-contradicting FAQ sentence ("independent, not a double pedal") that traces to **cross-contaminated text lifted from Eloy Casagrande's own mirror** (`soundLikeGuides.js:5677` has that exact phrase for Casagrande, not Benante) rather than stale pre-fix data. Travis Orbin's mirror has the largest scope in this sweep — a factual tenure error (implies he played on Periphery's 2010 debut; he left Feb 2009, before it was written) stacked on a near-total gear-brand fabrication (DW/Meinl/Remo vs. verified SJC/Zildjian/Evans).
+
+### Proposals filed this run
+1. #9518 — Mario Duplantier llms mirror — fabricated kit wood/snare/cymbal brand/sticks + stale single-kick framing (#2 GA4 page)
+2. #9519 — Eloy Casagrande llms mirror — entirely frozen in pre-2024 Sepultura framing, no Slipknot mention (#3 GA4 page)
+3. #9520 — Danny Carey llms mirror — fabricated snare shell/depth, wrong cymbal line name, wrong pedal brand
+4. #9521 — Brann Dailor llms mirror — fabricated DW/Vic Firth/Remo rig (verified Tama/Vater/Evans)
+5. #9522 — Dave Lombardo llms mirror — fabricated signature snare/shell, wrong ride and hi-hat models
+6. #9523 — Travis Orbin llms mirror — fabricates Periphery album tenure + entire wrong gear rig
+7. #9524 — Matt Halpern llms mirror — wrong join year, fabricated snare/sticks/cymbal names, wrong song-album years
+8. #9525 — Charlie Benante llms mirror — self-contradicting double-pedal FAQ (cross-contaminated from Eloy Casagrande's text)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9499-9506 (06:18 UTC pulse, already promoted to `ai-fix`, awaiting Roadie pickup)
+- #9518-9525 (this run, 8 fresh, not yet triaged)
+
+### Next run
+1. Watch #9518-9525 pick up via CEO triage then Roadie.
+2. `how-to-sound-like-*.md` mirror-drift sweep: 34 of ~40 merged `soundLikeGuides.js` fixes cross-referenced so far. Remaining untouched pool: Blake Richardson, Aquiles Priester, Alex Bent, Hannes Grossmann, Abe Cunningham. (Mike Portnoy/Mikkey Dee/Bill Ward mirrors already covered by #9492/#9494/#9495, now closed/merged.)
+3. **New minor finding, not yet filed (deferred to respect the 8-cap)**: `soundLikeGuides.js` has 3 `relatedGuides` entries pointing to `how-to-sound-like-alex-rudinger` (lines 3061, 7827, 14751) but no such mirror file exists on disk (confirmed via `ls public/llms/guides/`, and Alex Rüdinger has no `how-to-sound-like-*` entry in `soundLikeGuides.js` at all despite having `birthdays.js`/`endorsementNews.js`/`gearPriceHistory.js`/`drummerEvolution.js`/`gearIndex.js` roster entries) — these are broken internal links on 3 live pages. Next run: file as a scoped fix to the 3 `relatedGuides` arrays (remove the dead reference or point elsewhere), NOT a request to create a new mirror file/page (freeze still in effect — this is a link-rot fix on existing pages, not a new-page proposal).
+4. Content-gap: row re-confirmed against standing ruling (11th+ mention) — no re-action.
+5. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

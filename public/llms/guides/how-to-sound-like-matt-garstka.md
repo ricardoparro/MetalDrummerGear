@@ -13,24 +13,24 @@ What distinguishes Garstka from other technical metal drummers is his jazz backg
 
 ## Kit Setup
 
-Matt plays **Tama Starclassic Performer** drums — birch/bubinga hybrid shells combining bright attack with warm sustain:
+Matt plays a **DW Collector's Series (custom shop)** kit — endorsed since September 2021, known for refined shell craftsmanship and broad tonal range:
 
-- **Kick Drum:** 22" x 18" with Tama Speed Cobra 310 Double Pedal
-- **Snare:** 14" x 6.5" Tama Starphonic Steel
+- **Kick Drum:** 22" x 18" Bass Drum with Tama Speed Cobra 910 Double Pedal
+- **Snare:** 14" x 6.5" DW Collector's Series (Purpleheart)
 - **Rack Toms:** 8" x 7", 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 14", 16" x 16"
-- **Cymbals:** Meinl Byzance Traditional Series — dark, complex character
-- **Pedals:** Tama Speed Cobra 310 Double Pedal (Rolling Glide design)
-- **Sticks:** Vic Firth 5A (lighter weight for rebound and dynamic nuance)
-- **Heads:** Evans EMAD2 Clear (kick), Remo Ambassador Coated (snare), Evans EC2S Clear (toms)
+- **Cymbals:** Meinl Byzance Series — 15" Byzance Dual Hi-Hats, 18" and 20" Byzance Extra Dry Medium Crashes, 22" Byzance Dual Ride
+- **Pedals:** Tama Speed Cobra 910 Double Pedal (Rolling Glide design)
+- **Sticks:** Vic Firth Matt Garstka Signature (SGAR) — elongated taper for traditional-grip players, since 2014
+- **Heads:** Remo Powerstroke 3 Clear (kick), Remo Ambassador Coated (snare & toms), Remo Ambassador Clear (resonant)
 
 ## Tuning & Setup
 
 Garstka tunes for balance between attack definition and tonal complexity — the djent context needs punchy kick attack, while progressive passages need toms with enough sustain to carry pitch:
 
-- **Kick:** Medium tension with Evans EMAD ring muffling. Defined attack transient that punches through down-tuned guitars while maintaining body. Tune until you hear a clear 'thump' with an audible attack edge.
-- **Snare:** Medium-high tension. The Starphonic Steel delivers focused crack at this tension. Thin tape strip at edge for recording; one Moongel or nothing for live. Ghost note sensitivity preserved by the free-mounting design.
-- **Toms:** Medium tension, EC2S heads with built-in control ring. Musical sustain with good attack — not dead, over-muffled drums. Tune each tom to a musical interval; Garstka's tom patterns often function melodically.
+- **Kick:** Medium tension with internal ring muffling (or similar) and minimal pillow stuffing. Defined attack transient that punches through down-tuned guitars while maintaining body. Tune until you hear a clear 'thump' with an audible attack edge.
+- **Snare:** Medium-high tension — focused crack with sensitivity for ghost notes. Thin tape strip or single Moongel at the edge for recording; clean for live. The DW Collector's Series construction preserves ghost-note sensitivity at this tension.
+- **Toms:** Medium tension for musical sustain; the Ambassador Coated heads provide built-in control with minimal additional muffling. Tune each tom to a musical interval; Garstka's tom patterns often function melodically.
 
 ## Technique Tips
 
@@ -49,12 +49,12 @@ Garstka plays **matched grip** with a relaxed, jazz-informed technique. His defi
 
 | Item | Garstka's Spec | Budget Alternative |
 |------|---------------|-------------------|
-| Drum Kit | Tama Starclassic Performer | Tama Imperialstar (~$500) |
-| Snare | Tama Starphonic Steel 14" x 6.5" | Pearl Free-Floating Steel |
-| Cymbals | Meinl Byzance Traditional Series | Meinl HCS Bronze or Byzance Value Pack |
-| Pedal | Tama Speed Cobra 310 Double | Tama Iron Cobra 200 Double (~$200) |
-| Sticks | Vic Firth 5A | Promark Classic 5A |
-| Kick Head | Evans EMAD2 Clear | Remo Powerstroke P3 Clear |
+| Drum Kit | DW Collector's Series (custom shop) | Tama Imperialstar (~$500) or Mapex Armory (~$600) |
+| Snare | DW Collector's Series 14" x 6.5" (Purpleheart) | Pearl Free-Floating Steel or Ludwig Supraphonic 6.5" |
+| Cymbals | Meinl Byzance Series (Dual Hi-Hats/Ride, Extra Dry Crashes) | Meinl HCS Bronze or Byzance Value Pack |
+| Pedal | Tama Speed Cobra 910 Double | Tama Iron Cobra 200 Double (~$200) |
+| Sticks | Vic Firth Matt Garstka Signature (SGAR) | Vic Firth American Classic 5A |
+| Kick Head | Remo Powerstroke 3 Clear | Remo Powerstroke P3 Clear |
 
 **Starter budget path (~$1,200):** Tama Imperialstar + Meinl HCS Bronze + Tama Iron Cobra 200. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/meinl](https://metalforge.io/brands/meinl).
 
@@ -69,16 +69,16 @@ Garstka plays **matched grip** with a relaxed, jazz-informed technique. His defi
 ## FAQ
 
 **Q: What drum kit does Matt Garstka use?**  
-A: Matt Garstka plays Tama Starclassic Performer drums — a birch/bubinga hybrid shell kit. The Starclassic Performer combines birch's bright attack with bubinga's warm, resonant sustain. His configuration runs a 22" kick, three rack toms (8", 10", 12"), and two floor toms (14", 16").
+A: Matt Garstka plays a DW Collector's Series (custom shop) kit, his setup since 2021. The Collector's Series gives Garstka a kit with excellent projection and tonal depth. He typically runs a 22" kick, three rack toms (8", 10", 12"), and two floor toms (14", 16") — a moderately sized configuration for a technically complex style.
 
 **Q: What cymbals does Matt Garstka use?**  
-A: Matt Garstka plays Meinl Byzance cymbals throughout his setup, primarily from the Traditional series. His setup typically includes 14" Byzance Traditional Medium Hi-Hats, multiple crashes (18" and 20" Medium Thin Crash), and a 22" Polyphonic Ride. The Byzance line's darker character reflects his jazz influence.
+A: Matt Garstka plays Meinl Byzance cymbals throughout his setup. His setup includes 15" Byzance Dual Hi-Hats, 18" and 20" Byzance Extra Dry Medium Crashes, and a 22" Byzance Dual Ride — dark, complex cymbals with interesting tonal decay and dry hi-hat response. The Byzance line's darker character reflects his jazz influence and contrasts with the brighter AAX/A Series setups common in metal.
 
 **Q: What is Matt Garstka's signature drumming technique?**  
 A: Garstka's defining technique is four-way limb independence — running each limb as a separate rhythmic voice combining to create polyrhythmic composite patterns. He also deploys metric modulation and displaced hi-hat accent patterns informed by jazz ride technique. His Berklee training gives his playing a dynamic range rare in technical metal.
 
 **Q: What pedals does Matt Garstka use?**  
-A: Matt Garstka uses Tama Speed Cobra 310 double pedals. The Speed Cobra's 'Rolling Glide' design positions the footboard hinge at the rear, creating an ergonomic feel suited to the precise placement of individual kick notes within complex polyrhythmic patterns.
+A: Matt Garstka uses a Tama Speed Cobra 910 double pedal. The Speed Cobra's 'Rolling Glide' design positions the footboard hinge at the rear, creating an ergonomic feel suited to the precise placement of individual kick notes within complex polyrhythmic patterns.
 
 **Q: How long does it take to develop Matt Garstka's polyrhythmic style?**  
 A: Developing genuine four-way limb independence takes months to years of daily focused practice. The mental component — holding separate rhythmic streams in independent cognitive tracks — often takes longer than the physical execution. Garstka studied jazz drumming extensively before developing his metal application of these techniques. Practice each limb combination separately before attempting the full combination.

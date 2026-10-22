@@ -12172,7 +12172,7 @@ Start with a single pedal or a chain-drive double pedal if you're building found
     // SEO metadata
     title: "Best Bass Drum Pedals for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drum Pedals for Metalcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best bass drum pedals for metalcore's hybrid speed-and-breakdown demands. Built around Nick Augusto's DW 9000 Series, Art Cruz's Trick Pro 1-V, and Matt Halpern's Pearl Eliminator, plus a hybrid-feel Tama Speed Cobra 910 option.",
+    description: "Discover the best bass drum pedals for metalcore's hybrid speed-and-breakdown demands. Built around Nick Augusto's DW 9000 Series, Art Cruz's Trick Pro 1-V, and Matt Halpern's Pearl Demon Drive, plus a hybrid-feel Tama Speed Cobra 910 option.",
     seoKeywords: [
       'best bass drum pedals for metalcore',
       'metalcore bass drum pedal',
@@ -12208,7 +12208,7 @@ Start with a single pedal or a chain-drive double pedal if you're building found
       title: "Why Metalcore Demands Dual-Pedal Versatility",
       content: `Metalcore asks a bass drum pedal to switch gears constantly — locking into a chugging, weighted breakdown groove one bar and firing off a rapid double-bass fill or blast-adjacent burst the next. That hybrid speed-and-breakdown demand means a metalcore drummer's double pedal has to feel equally at home landing a single, heavy hit and sustaining a fast sixteenth-note run underneath a technical riff, often within the same eight bars.
 
-Nick Augusto brought the power and stability of a DW 9000 Series double pedal to Trivium's "In Waves" and "Vengeance Falls" era, giving the band's technical riffing a reliable, chain-driven response. Art Cruz pairs a Trick Pro 1-V double pedal with Lamb of God's breakdown-heavy riffing for consistent, weighted punch. Matt Halpern rounds out the lineup with a Pearl Eliminator double pedal, delivering the crisp, controlled response Periphery's dense, palm-muted arrangements demand.
+Nick Augusto brought the power and stability of a DW 9000 Series double pedal to Trivium's "In Waves" and "Vengeance Falls" era, giving the band's technical riffing a reliable, chain-driven response. Art Cruz pairs a Trick Pro 1-V double pedal with Lamb of God's breakdown-heavy riffing for consistent, weighted punch. Matt Halpern rounds out the lineup with a Pearl Demon Drive double pedal, delivering the crisp, controlled response Periphery's dense, palm-muted arrangements demand.
 
 This guide breaks down drive systems, footboard design, and dual-pedal versatility for a metalcore bass drum pedal — comparing the drummers whose setups define the genre's mix of breakdown weight and technical speed, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -12232,7 +12232,7 @@ This guide breaks down drive systems, footboard design, and dual-pedal versatili
         {
           name: "Dual-Pedal Versatility for Speed Bursts",
           icon: "⚙️",
-          description: "Nick Augusto's chain-driven DW 9000 Series delivers dependable power for the rapid double-bass runs that punctuate technical metalcore riffing. Chain drive pedals like Matt Halpern's Pearl Eliminator offer that same reliable feel with a slightly more elastic response for the switch back into a breakdown.",
+          description: "Nick Augusto's chain-driven DW 9000 Series delivers dependable power for the rapid double-bass runs that punctuate technical metalcore riffing. Direct drive pedals like Matt Halpern's Pearl Demon Drive offer instant, linear speed for those same double-bass runs, trading some of that chain-drive elasticity for raw response.",
           recommendation: "Direct drive for maximum linear speed, chain drive for a more elastic, powerful breakdown feel"
         },
         {
@@ -12375,40 +12375,40 @@ For metalcore drummers chasing genre-shaping "djent" precision, the Speed Cobra'
         },
         {
           rank: 4,
-          name: "Pearl Eliminator Redline",
+          name: "Pearl Demon Drive",
           brand: "Pearl",
-          model: "P2052C Eliminator Redline",
+          model: "Demon Drive Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€350-400",
+          priceRange: "€500-600",
           tier: "pro",
-          driveType: "Chain with Interchangeable Cams",
-          description: `Matt Halpern rounds out Periphery's rhythm section with a Pearl Eliminator double pedal, delivering the crisp, controlled response the band's dense, palm-muted arrangements demand across constantly shifting time signatures. The interchangeable cam system lets him balance breakdown weight with technical speed song to song.
+          driveType: "Direct Drive",
+          description: `Matt Halpern rounds out Periphery's rhythm section with a Pearl Demon Drive double pedal, delivering the crisp, controlled response the band's dense, palm-muted arrangements demand across constantly shifting time signatures. The direct drive action and interchangeable cam system let him balance breakdown weight with technical speed song to song.
 
-For metalcore drummers who need dual-pedal versatility without a direct-drive learning curve, the Eliminator Redline's NiNjA bearing smoothness delivers pro-level feel at a more approachable price.`,
+For metalcore drummers chasing maximum precision at the genre's technical ceiling, the Demon Drive's NiNjA bearing smoothness delivers pro-level feel without the elastic give of a chain-driven pedal.`,
           pros: [
             "Matt Halpern's Periphery setup — crisp, controlled response for dense arrangements",
+            "Direct drive action for instant, linear response",
             "Interchangeable cams balance breakdown weight with technical speed",
-            "NiNjA bearing system shared with Pearl's flagship double pedal",
-            "Proven across Periphery's most technically demanding recordings",
-            "More accessible pricing than pure direct-drive flagship pedals"
+            "NiNjA bearing system for frictionless, sustained action",
+            "Proven across Periphery's most technically demanding recordings"
           ],
           cons: [
-            "Chain drive caps ultimate top-end speed versus direct drive",
-            "Heavier feel takes adjustment if coming from a lighter pedal",
-            "Not as refined as premium flagship pedals at extreme speeds"
+            "Direct drive feel takes adjustment if coming from a chain-drive pedal",
+            "Premium pricing versus chain-drive alternatives",
+            "Heavier feel takes adjustment if coming from a lighter pedal"
           ],
           specs: {
-            drive: "Chain with Interchangeable Cams",
+            drive: "Direct Drive (interchangeable cams)",
             bearings: "NiNjA Bearings",
-            footboard: "Standard",
-            beater: "Eliminator Beater (reversible)"
+            footboard: "PowerShifter Longboard",
+            beater: "Demon Beater (reversible)"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "Pearl Eliminator — crisp, controlled response for dense, palm-muted arrangements" }
+            { name: "Matt Halpern", band: "Periphery", note: "Pearl Demon Drive — crisp, controlled response for dense, palm-muted arrangements" }
           ],
-          verdict: "Best dual-pedal versatility at an accessible pro price. Handles breakdowns and speed with equal confidence.",
+          verdict: "Best precision at metalcore's technical ceiling. Direct drive response handles breakdowns and speed with equal confidence.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_redline.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_p3002d_demon_drive_double.htm?partner_id=metalforge"
         }
       ]
     },
@@ -12529,12 +12529,12 @@ For metalcore drummers who need dual-pedal versatility without a direct-drive le
     relatedDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'DW 9000 Series — Trivium\'s dependable technical power' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — breakdown-heavy weighted punch' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator — Periphery\'s crisp, controlled dense arrangements' }
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Demon Drive — Periphery\'s crisp, controlled dense arrangements' }
     ],
 
     featuredDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'DW 9000 Series — Trivium\'s dependable technical power' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator — Periphery\'s dense, palm-muted precision' }
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Demon Drive — Periphery\'s dense, palm-muted precision' }
     ],
 
     // FAQ section for SEO
@@ -12545,7 +12545,7 @@ For metalcore drummers who need dual-pedal versatility without a direct-drive le
       },
       {
         question: "Direct drive or chain drive — which is better for metalcore?",
-        answer: "Direct drive (Art Cruz's Trick Pro 1-V) offers instant, linear response — the Pro 1-V's adjustable V-Cam curves let Cruz dial in weighted breakdown punch despite being direct drive. Chain drive (Nick Augusto's DW 9000 Series, Matt Halpern's Pearl Eliminator) delivers a more elastic, weighted feel that many drummers prefer for landing breakdown hits with authority, plus DW's dual-chain stability for technical riffing. Most metalcore drummers choose based on whether their material leans more toward speed or breakdown weight."
+        answer: "Direct drive (Art Cruz's Trick Pro 1-V, Matt Halpern's Pearl Demon Drive) offers instant, linear response — the Pro 1-V's adjustable V-Cam curves and the Demon Drive's interchangeable cams both let their players dial in weighted breakdown punch despite being direct drive. Chain drive (Nick Augusto's DW 9000 Series) delivers a more elastic, weighted feel that many drummers prefer for landing breakdown hits with authority, plus DW's dual-chain stability for technical riffing. Most metalcore drummers choose based on whether their material leans more toward speed or breakdown weight."
       },
       {
         question: "What's the best budget double bass pedal for metalcore?",
@@ -12560,7 +12560,7 @@ For metalcore drummers who need dual-pedal versatility without a direct-drive le
     // Conclusion
     conclusion: {
       title: "Find Your Metalcore Bass Drum Pedal Setup",
-      content: `Metalcore's pedal choice comes down to how well your setup handles the constant switch between weighted breakdowns and technical speed bursts. Nick Augusto's DW 9000 Series shows what dependable chain-drive power looks like for rapid double-bass fills. Art Cruz's Trick Pro 1-V proves that consistent, weighted breakdown punch matters just as much as top-end speed. The Tama Speed Cobra 910 offers a genre-shaping hybrid feel that blends both worlds, and Matt Halpern's Pearl Eliminator shows how that same versatility scales across Periphery's dense, constantly shifting arrangements.
+      content: `Metalcore's pedal choice comes down to how well your setup handles the constant switch between weighted breakdowns and technical speed bursts. Nick Augusto's DW 9000 Series shows what dependable chain-drive power looks like for rapid double-bass fills. Art Cruz's Trick Pro 1-V proves that consistent, weighted breakdown punch matters just as much as top-end speed. The Tama Speed Cobra 910 offers a genre-shaping hybrid feel that blends both worlds, and Matt Halpern's Pearl Demon Drive shows how that same versatility scales across Periphery's dense, constantly shifting arrangements.
 
 None of these approaches is more "correct" — all represent metalcore's core identity as a genre built on contrast. Start with whichever drive type matches whether your material leans toward speed or breakdown weight, and don't be afraid to prioritize dual-pedal versatility over chasing a single specialty.
 
@@ -83178,7 +83178,7 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
     // SEO metadata
     title: "Best Drum Pedals for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Djent 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for djent's palm-muted, polyrhythmic riffing: what Tomas Haake (dual Tama Speed Cobra single pedals) and Matt Halpern (Pearl Eliminator Redline) actually play, plus a Tama Speed Cobra 910 double-pedal option — ranked budget to pro.",
+    description: "Best drum pedals for djent's palm-muted, polyrhythmic riffing: what Tomas Haake (dual Tama Speed Cobra single pedals) and Matt Halpern (Pearl Demon Drive) actually play, plus a Tama Speed Cobra 910 double-pedal option — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for djent',
       'djent bass drum pedal',
@@ -83214,12 +83214,12 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
       title: "Why Djent Rewards Precise, Independent Footwork Over Raw Speed",
       content: `Djent's palm-muted kick patterns are foundational to the genre's sound — tight, punchy, and locked precisely to the guitar's rhythmic accents rather than simply fast. That changes the pedal brief from extreme metal's pursuit of maximum sustained speed toward something closer to precision engineering: a pedal that delivers exactly the same response whether it's landing a straightforward beat or an odd-grouping accent buried mid-riff.
 
-Tomas Haake of Meshuggah, djent's founding drummer, doesn't play a double pedal at all — he uses two separate single Tama Speed Cobra pedals, one per foot, giving him full independence to play different rhythmic patterns with each leg rather than the linked motion a shared double-pedal chassis would impose. Matt Halpern of Periphery plays a Pearl Eliminator Redline double pedal, its interchangeable cam system letting him balance power and speed for Periphery's dense, palm-muted arrangements.
+Tomas Haake of Meshuggah, djent's founding drummer, doesn't play a double pedal at all — he uses two separate single Tama Speed Cobra pedals, one per foot, giving him full independence to play different rhythmic patterns with each leg rather than the linked motion a shared double-pedal chassis would impose. Matt Halpern of Periphery plays a Pearl Demon Drive double pedal, its interchangeable cam system letting him balance power and speed for Periphery's dense, palm-muted arrangements.
 
 This guide breaks down drive systems, footboard design, and single-vs-double pedal setups for djent — comparing drummers whose polyrhythmic, palm-muted lineages define the genre's foot-technique demands, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Tomas Haake doesn't use a double pedal at all — two independent single Tama Speed Cobra pedals give him full rhythmic independence between feet",
-        "Matt Halpern's Pearl Eliminator Redline balances power and speed for Periphery's dense, palm-muted arrangements",
+        "Matt Halpern's Pearl Demon Drive balances power and speed for Periphery's dense, palm-muted arrangements",
         "The Tama Speed Cobra 910's Speedo-Ring hybrid drive suits djent's genre-shaping, trigger-augmented technical setups",
         "Precision and consistency matter more than raw top-end speed for djent's foundational, riff-locked kick patterns"
       ]
@@ -83238,14 +83238,14 @@ This guide breaks down drive systems, footboard design, and single-vs-double ped
         {
           name: "Precision Over Raw Top-End Speed",
           icon: "🎯",
-          description: "Djent's kick patterns are foundational and riff-locked rather than built for sustained blast-beat speed. A pedal that delivers identical response on every single hit, like Matt Halpern's Pearl Eliminator Redline, matters more than chasing extreme-metal top-end numbers.",
+          description: "Djent's kick patterns are foundational and riff-locked rather than built for sustained blast-beat speed. A pedal that delivers identical response on every single hit, like Matt Halpern's Pearl Demon Drive, matters more than chasing extreme-metal top-end numbers.",
           recommendation: "Prioritize consistent, precise response over maximum top-end speed"
         },
         {
           name: "Drive System",
           icon: "⚙️",
-          description: "Chain drive pedals with interchangeable cams, like Halpern's Eliminator, let djent drummers dial in exactly how much power versus speed a given passage needs. Direct drive works too if your material leans toward faster, more extreme-metal-adjacent sections.",
-          recommendation: "Chain drive with interchangeable cams for tunable power-to-speed balance"
+          description: "Direct drive pedals with interchangeable cams, like Halpern's Demon Drive, let djent drummers dial in exactly how much power versus speed a given passage needs. Chain drive works too if you prefer its slightly more elastic feel.",
+          recommendation: "Direct drive with interchangeable cams for tunable power-to-speed balance; chain drive for a more elastic feel"
         },
         {
           name: "Extended Footboard for Rolling Patterns",
@@ -83314,43 +83314,43 @@ The Speed Cobra's Speedo-Ring sprocket gives each single pedal a near direct-dri
         },
         {
           rank: 2,
-          name: "Pearl Eliminator Redline",
+          name: "Pearl Demon Drive",
           brand: "Pearl",
-          model: "P2052C Eliminator Redline",
+          model: "Demon Drive Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€350-400",
+          priceRange: "€500-600",
           tier: "pro",
-          driveType: "Chain with Interchangeable Cams",
+          driveType: "Direct Drive",
 
-          description: `Matt Halpern pairs a Pearl Eliminator Redline double pedal with his Meinl cymbal setup, giving Periphery's dense, palm-muted prog-djent arrangements crisp, controlled response. The interchangeable cam system lets him balance power for heavier passages with speed for the band's technical, rapid-fire sections.
+          description: `Matt Halpern pairs a Pearl Demon Drive double pedal with his Meinl cymbal setup, giving Periphery's dense, palm-muted prog-djent arrangements crisp, controlled response. The direct drive action and interchangeable cam system let him balance power for heavier passages with speed for the band's technical, rapid-fire sections.
 
-Halpern's setup shows how the same reliable Eliminator platform that anchors extreme and technical metal drumming translates directly into djent's foundational, riff-locked kick vocabulary.`,
+Halpern's setup shows how the same direct-drive platform that anchors extreme and technical metal drumming translates directly into djent's foundational, riff-locked kick vocabulary.`,
 
           pros: [
             "Matt Halpern's Periphery setup — crisp, controlled response for dense, palm-muted arrangements",
+            "Direct drive action for instant, linear response",
             "Interchangeable cams balance riff-locked power with technical speed",
-            "NiNjA bearing system shared with Pearl's flagship pedal",
-            "Proven across Periphery's most acclaimed prog-djent recordings",
-            "More accessible pricing than the Demon Drive flagship"
+            "NiNjA bearing system for frictionless, sustained action",
+            "Proven across Periphery's most acclaimed prog-djent recordings"
           ],
           cons: [
-            "Chain drive caps ultimate top-end speed versus direct drive",
-            "Not as refined as the Demon Drive flagship",
+            "Premium pricing versus chain-drive alternatives",
+            "Direct drive feel takes adjustment if coming from chain drive",
             "Heavier feel takes adjustment if coming from a lighter pedal"
           ],
           specs: {
-            drive: "Chain with Interchangeable Cams",
+            drive: "Direct Drive (interchangeable cams)",
             bearings: "NiNjA Bearings",
-            footboard: "Standard",
-            beater: "Eliminator Beater (reversible)",
-            weight: "4.2 kg (pair)"
+            footboard: "PowerShifter Longboard",
+            beater: "Demon Beater (reversible)",
+            weight: "4.5 kg (pair)"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "Pearl Eliminator Redline — crisp, controlled response for dense prog-djent" }
+            { name: "Matt Halpern", band: "Periphery", note: "Pearl Demon Drive — crisp, controlled response for dense prog-djent" }
           ],
           verdict: "Best for dense, palm-muted prog-djent arrangements. Halpern's setup balances power and technical speed.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_redline_djent.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_p3002d_demon_drive_double.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -83477,7 +83477,7 @@ This is a genuinely capable option for developing djent drummers building precis
 - Requires learning genuinely independent foot technique
 - Best for polyrhythmic, mathematically complex djent in the Meshuggah tradition
 
-**Double Pedal (Matt Halpern - Pearl Eliminator, Tama Speed Cobra 910):**
+**Double Pedal (Matt Halpern - Pearl Demon Drive, Tama Speed Cobra 910):**
 - Standard linked motion, easier to learn and more common
 - Interchangeable cams and extended footboards add power and speed options
 - Best for dense, palm-muted prog-djent and technical, trigger-augmented recording
@@ -83502,7 +83502,7 @@ This is a genuinely capable option for developing djent drummers building precis
         },
         {
           category: "Best for Dense Prog-Djent",
-          pedal: "Pearl Eliminator Redline",
+          pedal: "Pearl Demon Drive",
           reason: "Matt Halpern's Periphery setup — crisp, controlled response for palm-muted arrangements."
         },
         {
@@ -83526,13 +83526,13 @@ This is a genuinely capable option for developing djent drummers building precis
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Two independent single Tama Speed Cobra pedals — djent\'s founding foot independence' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline — Periphery prog-djent crisp precision' }
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Demon Drive — Periphery prog-djent crisp precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Two independent single Tama Speed Cobra pedals — djent\'s founding foot independence' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline — Periphery prog-djent crisp precision' }
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Demon Drive — Periphery prog-djent crisp precision' }
     ],
 
     // FAQ section for SEO
@@ -83543,7 +83543,7 @@ This is a genuinely capable option for developing djent drummers building precis
       },
       {
         question: "What pedal does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery plays a Pearl Eliminator Redline double pedal. Its interchangeable cam system lets him balance power for heavier riff-locked passages with speed for Periphery's technical, rapid-fire sections."
+        answer: "Matt Halpern of Periphery plays a Pearl Demon Drive double pedal. Its interchangeable cam system lets him balance power for heavier riff-locked passages with speed for Periphery's technical, rapid-fire sections."
       },
       {
         question: "Do djent drummers need a double bass pedal?",
@@ -83558,11 +83558,11 @@ This is a genuinely capable option for developing djent drummers building precis
     // Conclusion
     conclusion: {
       title: "Build Your Djent Pedal Setup",
-      content: `Djent pedal choice comes down to how much independence and precision your foot technique demands — not how many notes per second you can squeeze out of a footboard. Tomas Haake's dual independent single Tama Speed Cobra pedals defined djent's founding foot-independence template, letting each leg play a genuinely different pattern. Matt Halpern's Pearl Eliminator Redline proved that a standard double pedal, tuned for precision over raw speed, can carry Periphery's densest palm-muted arrangements. The Tama Speed Cobra 910 shows how a technical double-pedal setup integrates with triggers and samples for djent's studio recordings.
+      content: `Djent pedal choice comes down to how much independence and precision your foot technique demands — not how many notes per second you can squeeze out of a footboard. Tomas Haake's dual independent single Tama Speed Cobra pedals defined djent's founding foot-independence template, letting each leg play a genuinely different pattern. Matt Halpern's Pearl Demon Drive proved that a standard double pedal, tuned for precision over raw speed, can carry Periphery's densest palm-muted arrangements. The Tama Speed Cobra 910 shows how a technical double-pedal setup integrates with triggers and samples for djent's studio recordings.
 
 None of these approaches is more "correct" — all represent djent's foundational commitment to precise, riff-locked kick patterns over raw top-end speed. Start with whichever setup matches your material's technical demands, and don't be afraid to prioritize consistency and independence over chasing extreme-metal speed numbers.
 
-Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal will teach real precision and survive demanding practice while you save toward the Speed Cobra and Eliminator setups that defined this lineage's greatest records.
+Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal will teach real precision and survive demanding practice while you save toward the Speed Cobra and Demon Drive setups that defined this lineage's greatest records.
 
 🤘 **Now go lock in that riff.**`
     }
@@ -105303,40 +105303,40 @@ That same consistency and control make the Speed Cobra 910 an excellent choice a
         },
         {
           rank: 2,
-          name: "Pearl Eliminator Redline",
+          name: "Pearl Demon Drive",
           brand: "Pearl",
-          model: "Eliminator Redline Double Pedal",
+          model: "Demon Drive Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€350-480 per double set",
+          priceRange: "€500-600 per double set",
           tier: "pro",
-          driveType: "Interchangeable Cam Drive",
-          description: `The Eliminator Redline's interchangeable cam system lets a djent drummer balance power and precision to match a specific record's kick patterns — round cams for the most linear, predictable response, or offset cams for extra punch on accented hits within a polyrhythmic passage.
+          driveType: "Direct Drive",
+          description: `The Pearl Demon Drive's direct drive action and interchangeable cam system let a djent drummer balance power and precision to match a specific record's kick patterns — round cams for the most linear, predictable response, or offset cams for extra punch on accented hits within a polyrhythmic passage.
 
-Matt Halpern of Periphery relies on the Eliminator Redline to balance power and speed for the band's dense, palm-muted arrangements, where kick patterns need to stay locked precisely to the riff's rhythmic accents without losing the impact that makes those accents land.`,
+Matt Halpern of Periphery relies on the Demon Drive to balance power and speed for the band's dense, palm-muted arrangements, where kick patterns need to stay locked precisely to the riff's rhythmic accents without losing the impact that makes those accents land.`,
           pros: [
+            "Direct drive action for instant, linear response",
             "Interchangeable cams let you tune between linear precision and accent punch",
             "Balances power and speed for dense, palm-muted arrangements",
-            "Proven in djent's studio-first production style",
             "Trusted by Matt Halpern for Periphery's demanding kick patterns"
           ],
           cons: [
+            "Premium pricing versus chain-drive alternatives",
             "Cam swapping requires extra setup time to dial in per-song",
-            "Heavier footboard than the Speed Cobra's low-mass design",
-            "Mid-pro price point"
+            "Direct drive feel takes adjustment if coming from chain drive"
           ],
           specs: {
-            drive: "Interchangeable cam",
+            drive: "Direct drive (interchangeable cams)",
             cam: "Round or offset (swappable)",
-            frame: "Steel/aluminum hybrid",
+            frame: "Aircraft-grade aluminum",
             footboard: "Standard length",
             spring: "Adjustable coil spring"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "Eliminator Redline for balanced power and precision in dense arrangements" }
+            { name: "Matt Halpern", band: "Periphery", note: "Pearl Demon Drive for balanced power and precision in dense arrangements" }
           ],
-          verdict: "The most tunable option here — dial in exactly the balance of precision and punch your riffs need.",
+          verdict: "The most precise option here — direct drive and interchangeable cams dial in exactly the balance your riffs need.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/pearl_eliminator_redline_double_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_p3002d_demon_drive_double.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -105481,7 +105481,7 @@ Its lighter overall weight and simplified mechanism make it easy to transport fo
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Two independent single Speed Cobra pedals — the foundational djent kick technique' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline for Periphery\'s dense, palm-muted arrangements' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Demon Drive for Periphery\'s dense, palm-muted arrangements' },
       { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Precision-focused technique for Animals as Leaders\' polyrhythmic material' }
     ],
 

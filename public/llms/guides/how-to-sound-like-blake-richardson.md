@@ -13,16 +13,16 @@ What makes Richardson exceptional is his hybrid approach. He blasts at full deat
 
 ## Kit Setup
 
-Richardson plays **DW Collector's Series** maple drums with three rack toms for full melodic range:
+Richardson plays **Tama Starclassic Bubinga** drums (since 2018) with three rack toms for full melodic range:
 
-- **Kick Drum:** 22" x 18" Bass Drums (double kick)
-- **Snare:** 14" x 6.5" DW Collector's Maple Snare
+- **Kick Drum:** 22" x 18" Bass Drums (x2)
+- **Snare:** 14" x 6" Tama STARPHONIC Brass Snare
 - **Rack Toms:** 10" x 8", 12" x 9", 13" x 10" (three rack toms for melodic orchestrations)
 - **Floor Toms:** 16" x 16", 18" x 16"
-- **Cymbals:** Meinl Byzance Traditional Series — complex overtones that suit BTBAM's wide dynamic range
-- **Pedals:** DW 9000 Double Pedal
-- **Sticks:** Vic Firth 5A (versatility for extreme dynamic range)
-- **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
+- **Cymbals:** Sabian HHX Evolution / AAX / HH — complex overtones that suit BTBAM's wide dynamic range
+- **Pedals:** Twin Tama Iron Cobra Power Glide single pedals
+- **Sticks:** Vic Firth American Classic 3A (versatility for extreme dynamic range)
+- **Heads:** Evans G2 Coated (kick, snare, toms), Evans Hazy 300 (resonant)
 
 ## Tuning & Setup
 
@@ -48,14 +48,14 @@ Richardson plays **matched grip** with exceptional control across all dynamics. 
 
 | Item | Richardson's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | DW Collector's Series Maple (3 rack toms) | DW Design Series or PDP Concept Maple with added rack tom (~$800) |
-| Snare | DW Collector's Maple 14" x 6.5" | DW Performance Maple or Ludwig Classic Maple |
-| Cymbals | Meinl Byzance Traditional Series | Meinl HCS Pack + extra crash (~$300) |
-| Pedal | DW 9000 Double | DW 5000 Double (~$150) |
-| Sticks | Vic Firth 5A | Promark 5A or Vater 5A |
-| Kick Head | Remo Powerstroke P3 Clear | Evans EMAD Coated |
+| Drum Kit | Tama Starclassic Bubinga (3 rack toms) | Tama Starclassic Performer or Superstar Hyper-Drive with an added rack tom |
+| Snare | Tama STARPHONIC 14" x 6" Brass | Tama STARPHONIC Steel or Ludwig Black Beauty |
+| Cymbals | Sabian HHX Evolution / AAX / HH | Sabian SBR pack + extra crash (~$300) |
+| Pedal | Twin Tama Iron Cobra Power Glide | Pearl Eliminator |
+| Sticks | Vic Firth American Classic 3A | Promark 5A or Vater 5A |
+| Kick Head | Evans G2 Coated | Evans EMAD Coated |
 
-**Starter budget path (~$1,200):** DW Design Series (with 3 rack toms — critical) + Meinl HCS pack + DW 5000 double pedal. Three rack toms are important — Richardson's melodic orchestrations need the pitch range. See [/brands/dw](https://metalforge.io/brands/dw) and [/brands/meinl](https://metalforge.io/brands/meinl).
+**Starter budget path (~$1,200):** Tama Starclassic Performer (with 3 rack toms — critical) + Sabian SBR pack + Pearl Eliminator single pedals. Three rack toms are important — Richardson's melodic orchestrations need the pitch range. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/sabian](https://metalforge.io/brands/sabian).
 
 ## Practice Routine
 
@@ -74,7 +74,7 @@ A: Richardson fuses death metal blast beats with progressive odd-time structures
 A: Richardson internalizes odd signatures by feeling their natural pulse groupings rather than counting beats. In 7/8 he feels a 4+3 grouping; in 5/4 a 3+2. He practices singing the grouping while playing, building the feel in his body rather than his head. This is why his odd-time work sounds musical and physical, not academic.
 
 **Q: What drums and cymbals does Blake Richardson use?**  
-A: Richardson plays DW Collector's Series maple drums with three rack toms for melodic range, DW 9000 double pedals, and Meinl Byzance cymbals. The Byzance series is particularly important — its complex, musical overtones suit both BTBAM's brutal and delicate passages. He uses Vic Firth 5A sticks for versatility across extreme dynamics.
+A: Richardson plays a Tama Starclassic Bubinga kit with three rack toms for melodic range, twin Tama Iron Cobra Power Glide single pedals, and Sabian HHX Evolution/AAX/HH cymbals. The Sabian mix is particularly important — its complex, musical overtones suit both BTBAM's brutal and delicate passages. He uses Vic Firth American Classic 3A sticks for versatility across extreme dynamics.
 
 **Q: Which BTBAM albums should I study for drumming?**  
 A: Alaska (2005) establishes his hybrid style — especially Selkies: The Endless Obsession. Colors (2007) is the band's masterwork and shows his odd-time mastery at its peak. The Parallax II demonstrates full compositional range. Coma Ecliptic shows his theatrical restraint. Start with Selkies and Ants of the Sky.
@@ -89,4 +89,4 @@ A: Build the context around the blast. Practice placing blasts after quiet passa
 **Related album articles:** [Alaska Drum Setup](https://metalforge.io/guides/alaska-drum-setup) · [The Parallax II Drum Setup](https://metalforge.io/guides/the-parallax-ii-future-sequence-drum-setup)  
 **Related guides:** [Ben Koller](https://metalforge.io/llms/guides/how-to-sound-like-ben-koller.md) · [Brann Dailor](https://metalforge.io/llms/guides/how-to-sound-like-brann-dailor.md)
 
-*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-06-28*
+*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-10-22*

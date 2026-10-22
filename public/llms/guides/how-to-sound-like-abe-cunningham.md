@@ -7,7 +7,7 @@
 
 ## Overview
 
-Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across more than three decades and nine studio albums, from 1995's "Adrenaline" through the Grammy-winning "White Pony" (2000) to 2020's "Ohms." In a genre that often rewards speed and technical showmanship, Cunningham built his reputation on the opposite: taste, space, and dynamic intelligence.
+Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across more than three decades and ten studio albums, from 1995's "Adrenaline" through the Grammy-winning "White Pony" (2000) to 2025's "Private Music." In a genre that often rewards speed and technical showmanship, Cunningham built his reputation on the opposite: taste, space, and dynamic intelligence.
 
 What separates Cunningham from most metal drummers is his willingness to underplay. His parts breathe with the emotional arc of a song rather than existing as a technical showcase — a whisper-quiet verse can explode into a crushing chorus without ever feeling like two different drummers playing. That ambient-heavy, texture-over-technique approach is a distinct niche from pure blast-beat metal, and it's exactly what makes Deftones' alt-metal/post-metal crossover sound so distinctive.
 
@@ -16,13 +16,13 @@ What separates Cunningham from most metal drummers is his willingness to underpl
 Cunningham plays a **Tama Starclassic Maple/Bubinga** kit:
 
 - **Kick Drum:** 22" x 18" Bass Drum
-- **Snare:** 14" x 8" Tama S.L.P. Big Black Steel
+- **Snare:** 14" x 6.5" matching Tama Starclassic snare (no separate model publicly documented)
 - **Rack Toms:** 10", 12"
 - **Floor Toms:** 14", 16"
-- **Cymbals:** Zildjian A Custom / K Custom Hybrid — 14" A New Beat hi-hats, 16"/18" A Custom crashes, 21" K Custom ride, 18" A Custom China
-- **Pedal:** Tama Iron Cobra 900 Rolling Glide
+- **Cymbals:** Zildjian A Custom / K Custom Hybrid — 14" K Custom hi-hats, 18"/20" K Custom crashes, 22" K Custom ride, 19" A Custom China
+- **Pedal:** Tama Iron Cobra Power Glide Twin Pedal (HP900PTW)
 - **Sticks:** Zildjian Abe Cunningham Artist Series
-- **Heads:** Evans EMAD (kick), Evans G2 Coated (snare/toms)
+- **Heads:** Remo Powerstroke P3 (kick), Remo Ambassador (snare/resonant), Remo Pinstripe (toms)
 
 ## Tuning & Setup
 
@@ -49,11 +49,11 @@ Cunningham's technique centers on unconventional snare and accent placement comb
 | Item | Cunningham's Spec | Budget Alternative |
 |------|-------------------|---------------------|
 | Drum Kit | Tama Starclassic Maple/Bubinga | Pearl Export (~$650) |
-| Snare | Tama S.L.P. Big Black Steel 14" x 8" | Any deep steel-shell snare, medium-tuned |
+| Snare | Matching Tama Starclassic snare, 14" x 6.5" (no separate model documented) | Any matching maple/bubinga shell-pack snare, medium-tuned |
 | Cymbals | Zildjian A Custom / K Custom Hybrid | Zildjian Planet Z hi-hats + crash (~$150) |
-| Pedal | Tama Iron Cobra 900 Rolling Glide | Tama Speed Cobra HP310LW (~$100) |
+| Pedal | Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) | Tama Speed Cobra HP310LW (~$100) |
 | Sticks | Zildjian Abe Cunningham Artist Series | Vic Firth American Classic 5A |
-| Heads | Evans EMAD / G2 Coated | Same specs |
+| Heads | Remo Powerstroke P3 / Ambassador / Pinstripe | Same specs |
 
 **Starter budget path (~$900):** Pearl Export + Zildjian Planet Z + Tama Speed Cobra pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
 
@@ -68,10 +68,10 @@ Cunningham's technique centers on unconventional snare and accent placement comb
 ## FAQ
 
 **Q: Who is Abe Cunningham and why is his drumming influential?**  
-A: Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across nine studio albums, from "Adrenaline" (1995) through "Ohms" (2020). His dynamic, restraint-focused approach — prioritizing taste and emotional arc over technical showmanship — helped define alternative metal's atmospheric identity. "Elite" from White Pony won a Grammy for Best Metal Performance in 2001.
+A: Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across ten studio albums, from "Adrenaline" (1995) through "Private Music" (2025). His dynamic, restraint-focused approach — prioritizing taste and emotional arc over technical showmanship — helped define alternative metal's atmospheric identity. "Elite" from White Pony won a Grammy for Best Metal Performance in 2001.
 
 **Q: What gear should I use to sound like Abe Cunningham?**  
-A: Cunningham plays a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14" x 8" snare, a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra 900 Rolling Glide pedal, and Zildjian Abe Cunningham Artist Series signature sticks.
+A: Cunningham plays a Tama Starclassic Maple/Bubinga kit with a matching Tama Starclassic snare (no separate model publicly documented), a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), and Zildjian Abe Cunningham Artist Series signature sticks.
 
 **Q: What tempo should I practice at to sound like Abe Cunningham?**  
 A: Practice in the 60–120 BPM range that covers most of Deftones' catalog, from ambient, texture-focused passages around 60–90 BPM up to driving grooves near 120 BPM — the key isn't raw speed, it's building dynamic control between whisper-quiet and full-weight intensity within a single song.
@@ -80,7 +80,7 @@ A: Practice in the 60–120 BPM range that covers most of Deftones' catalog, fro
 A: Gradual whisper-to-explosion dynamic builds across a song; unconventional snare placement that creates tension and release instead of a standard backbeat; and ambient, texture-focused playing that treats the kit as mood rather than pure rhythm.
 
 **Q: What Deftones albums showcase Abe Cunningham's playing best?**  
-A: "White Pony" (2000) is the definitive showcase, featuring the Grammy-winning "Elite" and the dynamic-build masterclass "Digital Bath." "Around the Fur" (1997) shows his early unconventional snare placement, while "Diamond Eyes" (2010) and "Ohms" (2020) demonstrate how his restraint-focused approach matured across three decades.
+A: "White Pony" (2000) is the definitive showcase, featuring the Grammy-winning "Elite" and the dynamic-build masterclass "Digital Bath." "Around the Fur" (1997) shows his early unconventional snare placement, while "Diamond Eyes" (2010) and "Private Music" (2025) demonstrate how his restraint-focused approach matured across three decades.
 
 ---
 

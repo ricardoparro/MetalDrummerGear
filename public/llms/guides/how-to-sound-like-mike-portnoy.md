@@ -7,7 +7,7 @@
 
 ## Overview
 
-Mike Portnoy (born April 20, 1967, in Long Beach, New York) co-founded Dream Theater in 1985 and served as the band's primary drummer, lyricist, and creative force until his departure in September 2010. He rejoined in 2023. Over eleven studio albums — from When Dream and Day Unite (1989) through Black Clouds & Silver Linings (2009) — Portnoy built the definitive template for progressive metal drumming: orchestral dynamics within extreme technical complexity, odd-time meters that feel musical rather than academic, and the ability to participate in ensemble composition at the drum kit rather than simply keep time.
+Mike Portnoy (born April 20, 1967, in Long Beach, New York) co-founded Dream Theater in 1985 and served as the band's primary drummer, lyricist, and creative force until his departure in September 2010. He rejoined in 2023. Over ten studio albums — from When Dream and Day Unite (1989) through Black Clouds & Silver Linings (2009) — Portnoy built the definitive template for progressive metal drumming: orchestral dynamics within extreme technical complexity, odd-time meters that feel musical rather than academic, and the ability to participate in ensemble composition at the drum kit rather than simply keep time.
 
 What separates Portnoy from other technical metal drummers is his compositional mindset. Each section is arranged, not just performed. On Images and Words (1992), Awake (1994), and Scenes From a Memory (1999), he participates in the harmonic and rhythmic architecture from inside rather than supporting from beneath. His "A Change of Seasons" suite (1995) demonstrated what a prog metal drummer could achieve across 23 minutes: shifting dynamics, shifting meters, and shifting emotional registers from introspective to explosive.
 
@@ -15,16 +15,15 @@ Portnoy studied jazz and classical percussion alongside metal — his command of
 
 ## Kit Setup
 
-Portnoy plays **Pearl Reference Pure** (all-maple professional line) with a large multi-tom configuration:
+Portnoy plays **Tama Starclassic** (Maple/Bubinga shells, custom configurations vary per era) with a large multi-tom configuration:
 
-- **Kick Drums:** 22" x 18" (x2) with Axis A21 Double Pedal
-- **Snare:** 14" x 6.5" Pearl Free-Floating (maple or steel)
+- **Kick Drums:** 22" x 18" (x2)
+- **Snare:** 14" x 5.5" Tama Signature Melody Master (maple shell)
 - **Rack Toms:** 8" x 7", 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 14", 16" x 16", 18" x 16"
-- **Cymbals:** Meinl Byzance Traditional Series — warm, complex character for prog dynamics
-- **Pedals:** Axis A21 Double Pedal (direct-drive, exceptional speed and consistency)
-- **Sticks:** Vater Mike Portnoy Signature (slightly heavier than 5A, oval tip)
-- **Heads:** Evans EQ4 Clear (kick), Evans G2 Coated (snare), Evans G2 Clear (toms)
+- **Cymbals:** Sabian HHX MAX / AAX MAXX Series — warm, musical character for prog dynamics
+- **Sticks:** Promark TXMP420XW-AG (Mike Portnoy ActiveGrip 420X) — oversized 5A, oval tip
+- **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador Coated (snare, toms), Remo Ambassador Clear (resonant)
 
 ## Tuning & Setup
 
@@ -51,14 +50,14 @@ Portnoy uses **matched grip** with fluid transitions between wrist-led precision
 
 | Item | Portnoy's Spec | Budget Alternative |
 |------|---------------|-------------------|
-| Drum Kit | Pearl Reference Pure | Pearl Export Select (~$700) |
-| Snare | Pearl Free-Floating 14" x 6.5" | Pearl Sensitone Heritage Alloy |
-| Cymbals | Meinl Byzance Traditional selection | Meinl Byzance Foundry Reserve (~$400) |
-| Double Pedal | Axis A21 (~$500) | Tama Iron Cobra 200 Double (~$150) |
-| Sticks | Vater Mike Portnoy Signature | Vater 5A or Vic Firth 5A |
-| Kick Head | Evans EQ4 Clear | Remo Powerstroke P3 Clear |
+| Drum Kit | Tama Starclassic | Tama Imperialstar with extra tom (~$550) |
+| Snare | Tama Signature Melody Master 14" x 5.5" | Tama Starclassic Maple 14" x 5.5" or Ludwig Supraphonic |
+| Cymbals | Sabian HHX MAX / AAX MAXX selection | Sabian SBR selection (~$400) |
+| Double Pedal | Not independently verified | Tama Iron Cobra 200 Double (~$150) |
+| Sticks | Promark TXMP420XW-AG (Mike Portnoy Signature) | Promark TX5AW or Vic Firth 5A |
+| Kick Head | Remo Powerstroke P3 Clear | Remo Powerstroke P3 Clear (already accessible) |
 
-**Starter budget path (~$1,200):** Pearl Export Select + Meinl Byzance Foundry Reserve + Tama Iron Cobra 200. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/meinl](https://metalforge.io/brands/meinl).
+**Starter budget path (~$1,200):** Tama Imperialstar with extra tom + Sabian SBR selection + Tama Iron Cobra 200 Double pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/sabian](https://metalforge.io/brands/sabian).
 
 ## Practice Routine
 
@@ -72,13 +71,10 @@ Portnoy uses **matched grip** with fluid transitions between wrist-led precision
 ## FAQ
 
 **Q: What drum kit does Mike Portnoy use?**  
-A: Mike Portnoy primarily plays Pearl Reference Pure — Pearl's flagship all-maple professional line. His large multi-tom configuration includes three rack toms (8", 10", 12") and three floor toms (14", 16", 18"), plus double 22" bass drums. He has been a Pearl endorser for most of his career and continues that relationship after rejoining Dream Theater in 2023.
+A: Mike Portnoy has played Tama drums throughout his Dream Theater career — one of the longest-running Tama endorsements in metal, dating back to the 1980s. His setup features a large multi-tom configuration built around the Starclassic series, typically three rack toms (8", 10", 12") and three floor toms (14", 16", 18"), plus double 22" bass drums. He renewed his Tama endorsement after rejoining Dream Theater in 2023.
 
 **Q: What cymbals does Mike Portnoy play?**  
-A: Portnoy has been associated with Meinl Byzance cymbals, primarily the Traditional series. His setup includes 14" Byzance Traditional Medium hi-hats, 18" and 20" crashes, a 22" ride, an 18" China, and splash cymbals. The Byzance Traditional's warm, complex overtones give prog metal arrangements the orchestral quality Portnoy seeks.
-
-**Q: What pedals does Mike Portnoy use?**  
-A: Portnoy has been a long-time Axis pedal advocate, using the Axis A21 double pedal. The A21's direct-drive mechanism provides exceptional speed and response with virtually no lag — critical for prog metal's demanding double-bass passages. The consistent feel at all tempos helps maintain groove pocket during fast 16th-note double-bass runs.
+A: Mike Portnoy has been a long-term Sabian artist since the 1980s, with his own signature cymbals in the line. His setup draws from Sabian's HHX MAX and AAX MAXX series, providing warm, complex overtones that give prog metal arrangements the orchestral quality Portnoy seeks.
 
 **Q: How do I start learning prog metal drumming like Mike Portnoy?**  
 A: Start with 'Pull Me Under' from Images and Words (1992) — the most accessible Dream Theater song demonstrating Portnoy's core techniques. Learn it from start to finish, not just the fills. Then study the 7/8 groove in 'The Mirror/Lie' from Awake (1994). Key skill: internalize odd meters so they feel natural rather than counted.
@@ -93,4 +89,4 @@ A: Portnoy's style synthesizes progressive rock composition, jazz dynamics, and 
 **Licks & patterns:** [https://metalforge.io/drummers/mike-portnoy/licks](https://metalforge.io/drummers/mike-portnoy/licks)  
 **Related guides:** [Danny Carey](https://metalforge.io/llms/guides/how-to-sound-like-danny-carey.md) · [Gavin Harrison](https://metalforge.io/llms/guides/how-to-sound-like-gavin-harrison.md) · [Matt Garstka](https://metalforge.io/llms/guides/how-to-sound-like-matt-garstka.md)
 
-*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-06-25*
+*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-10-22*

@@ -11,15 +11,15 @@ Mario Duplantier represents the modern evolution of metal drumming. As the rhyth
 
 ## Kit Setup
 
-Mario uses **Tama Starclassic Walnut/Birch** drums — chosen for the combination of warmth (walnut) and attack (birch) that suits Gojira's dynamic range:
+Mario uses **Tama Starclassic Bubinga** drums — bubinga shells chosen for the punch and warmth Gojira's heavy sound needs while staying articulate for technical passages:
 
-- **Kick Drum:** 22" x 18" with Tama Iron Cobra 900 Rolling Glide Double Pedal
-- **Snare:** 14" x 6.5" Mario Duplantier Signature Snare (steel shell)
+- **Kick Drums:** Dual 22" x 18" bass drums (x2), each driven by its own single Tama pedal — no double pedal
+- **Snare:** 14" x 6.5" Tama S.L.P. G-Maple
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 16"
-- **Cymbals:** Meinl Byzance Vintage and Extra Dry Series — dark, complex tones for atmospheric heaviness
-- **Pedals:** Tama Iron Cobra 900 Rolling Glide Double Pedal (smooth, fast response)
-- **Sticks:** Vic Firth 5A (standard sticks — Mario proves technique matters more than special equipment)
+- **Cymbals:** Zildjian K Sweet, A Custom, K Custom Hybrid, and Z Custom series — bright, cutting tones that suit Gojira's atmospheric heaviness
+- **Pedals:** Tama Single Pedal (x2 — one per bass drum); Mario forgoes a double pedal for a more organic, powerful feel
+- **Sticks:** Tama Mario Duplantier Signature
 - **Heads:** Remo Powerstroke P4 Clear (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
 
 ## Tuning & Setup
@@ -46,14 +46,14 @@ Mario uses **matched grip** with a relaxed hold that allows dynamic control. He 
 
 | Item | Mario's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Tama Starclassic Walnut/Birch | Tama Imperialstar (~$600) |
-| Snare | Mario Duplantier Signature Snare 14" x 6.5" (Steel) | Tama SLP Steel or Ludwig Supraphonic |
-| Cymbals | Meinl Byzance Vintage/Extra Dry | Meinl HCS Set (~$200) |
-| Double Pedal | Tama Iron Cobra 900 Rolling Glide | Tama Iron Cobra 200 Double (~$200) |
-| Sticks | Vic Firth 5A | Any quality 5A |
+| Drum Kit | Tama Starclassic Bubinga | Tama Imperialstar (~$600) |
+| Snare | Tama S.L.P. G-Maple 14" x 6.5" | Tama SLP Steel or Ludwig Supraphonic |
+| Cymbals | Zildjian K Sweet / A Custom / K Custom Hybrid / Z Custom | Meinl HCS Set (~$200) |
+| Pedals | Tama Single Pedal (x2 — one per bass drum) | Tama Iron Cobra 200 Single Pedal (x2) (~$200) |
+| Sticks | Tama Mario Duplantier Signature | Any quality 5A or 5B |
 | Kick Head | Remo Powerstroke P4 Clear | Evans EMAD |
 
-**Starter budget path (~$1,100):** Tama Imperialstar + Meinl HCS + Iron Cobra 200. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/meinl](https://metalforge.io/brands/meinl).
+**Starter budget path (~$1,100):** Tama Imperialstar + Meinl HCS + Tama Iron Cobra 200 Single Pedal (x2). See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/meinl](https://metalforge.io/brands/meinl).
 
 ## Practice Routine
 
@@ -66,10 +66,13 @@ Mario uses **matched grip** with a relaxed hold that allows dynamic control. He 
 ## FAQ
 
 **Q: What drums does Mario Duplantier use?**  
-A: Mario Duplantier plays Tama Starclassic Walnut/Birch drums, which provide the combination of warmth and attack needed for Gojira's dynamic range. He uses a Mario Duplantier Signature Snare in steel and Meinl Byzance Vintage and Extra Dry cymbals.
+A: Mario Duplantier plays a Tama Starclassic Bubinga kit, which provides the punch and warmth needed for Gojira's heavy sound. He uses a Tama S.L.P. G-Maple snare and a Zildjian cymbal setup (K Sweet, A Custom, K Custom Hybrid, and Z Custom series).
 
 **Q: How do I get the Mario Duplantier drum sound?**  
-A: Focus on dynamics and depth. Mario's sound is characterized by dark Meinl Byzance cymbals, moderately muffled kick with punch and depth, and toms allowed to ring for atmospheric passages. The key technique is dynamic contrast — from barely audible tribal patterns to crushing heaviness.
+A: Focus on dynamics and depth. Mario's sound is characterized by bright, cutting Zildjian cymbals, a moderately muffled kick with punch and depth, and toms allowed to ring for atmospheric passages. The key technique is dynamic contrast — from barely audible tribal patterns to crushing heaviness.
+
+**Q: Does Mario Duplantier use a double bass pedal?**  
+A: No. Mario runs two separate bass drums (22" x 18" x2), each fitted with its own single Tama pedal, rather than one bass drum with a double pedal. This dual-kick setup gives him a more organic, powerful feel.
 
 **Q: How does Mario play such long songs without losing energy?**  
 A: Mario paces himself strategically, using dynamics to conserve energy during quieter passages so he can explode when needed. His approach is almost meditative during repetitive groove sections — sustaining focus over long periods is as much a mental skill as a physical one.
@@ -77,8 +80,8 @@ A: Mario paces himself strategically, using dynamics to conserve energy during q
 **Q: Does Mario Duplantier use triggers?**  
 A: Mario uses minimal triggering, preferring the organic sound of acoustic drums. This matches Gojira's environmental ethos and contributes to the natural, breathing quality of their drum sound.
 
-**Q: What Meinl cymbals does Mario Duplantier use?**  
-A: Mario primarily uses Meinl Byzance Extra Dry Hi-Hats (15"), Byzance Vintage Crashes (18" and 20"), and a Meinl 22" Byzance Big Apple Ride. The Extra Dry and Vintage series provide dark, complex tones without harshness — perfect for Gojira's atmospheric approach.
+**Q: What cymbals does Mario Duplantier use?**  
+A: Mario uses a Zildjian setup: 14" K Sweet and 14" A Custom Hi-Hats, an 18" K Custom Hybrid Crash, a 19" A Custom Crash, a 20" K Sweet Crash, a 21" Z Custom Mega Bell Ride, and 18" and 20" Chinas. The mix of K and A Custom series gives both warm control and bright cut, suited to Gojira's atmospheric heaviness.
 
 ---
 

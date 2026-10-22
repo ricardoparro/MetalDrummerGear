@@ -13,16 +13,16 @@ Nick Augusto joined Trivium in 2010 following the departure of Travis Smith, ste
 
 ## Kit Setup
 
-Augusto played a **Tama Starclassic Performer B/B** kit with birch/bubinga shells:
+Augusto played a **Pearl Reference Pure** kit, paired with a DW 9000 Series double pedal for the punchy, attack-focused tone behind his driving double bass work:
 
 - **Kick Drum:** 22" x 18" Bass Drums (double kick)
-- **Snare:** Tama S.L.P. 14" x 6.5" or Starclassic Snare
+- **Snare:** Pearl Reference 14" x 6.5" Brass
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 16"
-- **Cymbals:** Meinl MB20 and Classics Custom Series — 14" Dark Hi-Hats, 16"/18" Heavy Crashes, 21" Heavy Ride, 18" China
-- **Pedals:** Tama Iron Cobra Double Pedal
-- **Sticks:** Promark 5B
-- **Heads:** Evans EQ3 Clear (kick), Evans Coated (snare), Evans G2 Coated (toms)
+- **Cymbals:** Sabian AAX Series — 14" AAX Stage Hi-Hats, 18"/19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China
+- **Pedals:** DW 9000 Series Double Bass Drum Pedal
+- **Sticks:** Pro-Mark Nylon Tip 5B
+- **Heads:** Evans Genera Dry (kick/toms), Evans 300 Snare Side (snare)
 
 ## Tuning & Setup
 
@@ -48,14 +48,14 @@ Augusto plays **matched grip** with an aggressive, high-energy attack rooted in 
 
 | Item | Augusto's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Tama Starclassic Performer B/B | Tama Imperialstar or Tama Superstar (~$650) |
-| Snare | Tama S.L.P. 14" x 6.5" | Pearl Sensitone Steel or Ludwig Supraphonic |
-| Cymbals | Meinl MB20 / Classics Custom | Meinl HCS Pack (~$200) |
-| Pedal | Tama Iron Cobra Double | Tama Speed Cobra or DW 5000 |
-| Sticks | Promark 5B | Vic Firth 5B or Vater Power 5B |
-| Kick Head | Evans EQ3 Clear | Remo Powerstroke P3 Clear |
+| Drum Kit | Pearl Reference Pure | Pearl Export or Pearl Decade Maple (~$650) |
+| Snare | Pearl Reference 14" x 6.5" Brass | Pearl Sensitone Steel or Ludwig Supraphonic |
+| Cymbals | Sabian AAX Series | Sabian B8X Pack (~$250) |
+| Pedal | DW 9000 Series Double | Pearl Eliminator or DW 5000 |
+| Sticks | Pro-Mark Nylon Tip 5B | Vater Power 5B or Regal Tip 5B |
+| Kick Head | Evans Genera Dry | Remo Powerstroke P3 Clear |
 
-**Starter budget path (~$950):** Tama Imperialstar + Meinl HCS pack + Tama Speed Cobra single pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/meinl](https://metalforge.io/brands/meinl).
+**Starter budget path (~$1,100):** Pearl Export + Sabian B8X pack + Pearl Eliminator single pedal. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/sabian](https://metalforge.io/brands/sabian).
 
 ## Practice Routine
 
@@ -71,7 +71,7 @@ Augusto plays **matched grip** with an aggressive, high-energy attack rooted in 
 A: Nick Augusto was Trivium's drummer from 2010 to 2014, recording two studio albums: "In Waves" (2011) and "Vengeance Falls" (2013).
 
 **Q: What gear did Nick Augusto use with Trivium?**  
-A: Augusto played a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14" x 6.5" snare, Meinl MB20 and Classics Custom cymbals, a Tama Iron Cobra double pedal, and Promark 5B sticks.
+A: Augusto played a Pearl Reference Pure kit with a Pearl Reference 14" x 6.5" Brass snare, Sabian AAX Series cymbals, a DW 9000 Series double pedal, and Pro-Mark Nylon Tip 5B sticks.
 
 **Q: Why did Nick Augusto leave Trivium?**  
 A: Augusto parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro, and Alex Bent later joined the band in 2017.

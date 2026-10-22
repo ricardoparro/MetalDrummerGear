@@ -13741,3 +13741,45 @@ Notable finds: Gavin Harrison's and Jason Bittner's mirrors each fabricate an *e
 2. `how-to-sound-like-*.md` mirror-drift sweep: 16 of the ~40 merged `soundLikeGuides.js` fixes cross-referenced so far (8 in 07:1x run, 8 this run). Remaining ~24 untouched: Matt Garstka, Matt Halpern, Mike Portnoy, Mikkey Dee, Mike Mangini, Jay Weinberg, Morgan Ågren, Nick Augusto, Flo Mounier, Daray, Chris Adler, Blake Richardson, Aquiles Priester, Alex Rüdinger, Danny Carey, Eloy Casagrande, Mario Duplantier, Hannes Grossmann, Charlie Benante, Abe Cunningham, Brann Dailor, Bill Ward, Alex Bent, plus Dave Lombardo/Travis Orbin (merged 2026-10-21 morning). Continue this sweep next run — 16/16 hit rate so far strongly suggests the remaining pool will also yield genuine findings.
 3. Content-gap: row re-confirmed against standing ruling (10th mention) — no re-action.
 4. Drum-chair watch: today is Wednesday, not Monday — skipped. Next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-22 (run, Thursday) — `how-to-sound-like-*.md` mirror drift sweep continues, 8 filed (#9499-9506)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `public/llms/guides/how-to-sound-like-*.md`: 67 on disk — unchanged, no new-page work (freeze in effect).
+- Bank check: 12 open `seo-proposal` at run start (8 fresh untriaged from the 10-21 19:1x run, #9487-9495, not yet triaged; + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 8.
+- Drum-chair watch: today is Thursday, not Monday — skipped per the once-per-Monday rule.
+
+### Metrics readout
+- GSC 7d: 16,971 impr / 203 clicks / 1.20% CTR / pos 8.8 (metrics.md refreshed 01:15 UTC).
+- GA4 7d: 420u / 479s / 632v. Top pages: `/` (30v), `/drummer/mario-duplantier` (15v), `/drummer/matt-greiner` (15v), `/drummer/frost` (12v), `/articles/slipknot-self-titled-drum-setup` (10v).
+- Content-gap row: `jaska raatikainen` (75 impr, 1.33% CTR) — standing class-2 bare-name ruling (`learned-patterns.md` line 211), 10th+ consecutive mention. No re-action.
+
+### Method
+Continued the `public/llms/guides/how-to-sound-like-*.md` mirror-drift sweep from the queued pool (last touched in the 10-21 13:0x run at 16/~40 checked). Dispatched 8 parallel verification subagents on: Matt Garstka, Mike Mangini, Jay Weinberg, Morgan Ågren, Nick Augusto, Flo Mounier, Daray, Chris Adler. Each read the full `.md` mirror, the current `soundLikeGuides.js` entry, cross-checked sibling ground truth (`bands.js`/`endorsementNews.js`/`extendedBios.js`/`drummerEvolution.js`/`birthdays.js`), and ran a `gh issue list --state all --search` dedup pass. Personally spot-verified 3 of 8 (Matt Garstka, Jay Weinberg, Daray) by reading the cited mirror lines and ground-truth lines directly before filing, plus independently confirmed the Mike Mangini→Godsmack claim (surprising fact) against `bands.js:2659,2678,2689-2691` (3 press URLs) and the Nick Augusto DW 9000 pedal spec.
+
+8 of 8 returned genuine, non-duplicate drift — hit rate now 24/24 across this file family. Notable finds: Jay Weinberg's mirror frames him as a *current* Slipknot member with no departure mentioned, when ground truth is former-Slipknot (2014-2023)/former-Suicidal-Tendencies (2024-2026) — a band-status drift, not just gear. Mike Mangini's mirror similarly omits his 2023 Dream Theater exit and June-2026 Godsmack touring role entirely. Daray's finding is a genuine gap left by a *closed* issue (#9127 explicitly listed this mirror file as in-scope, but the merged fix PR never touched it) — filed as a scoped follow-up rather than reopening, per that sub-agent's own recommendation, since the fix content itself (2004-2008 tenure + kit-chronology swap) is new work, not a re-litigation of #9127's already-settled facts.
+
+### Proposals filed this run
+1. #9499 — Matt Garstka llms mirror — entire gear rig fabricated (Tama/Meinl/plain-5A vs verified DW Collector's Series/Byzance Dual/signature SGAR)
+2. #9500 — Mike Mangini llms mirror — fabricated Pearl→DW/Meinl/Vic Firth gear + omits 2023 DT exit/Godsmack move
+3. #9501 — Jay Weinberg llms mirror — frames him as current Slipknot member + fabricated Pearl/Sabian/Remo gear
+4. #9502 — Morgan Ågren llms mirror — fabricated Meinl/DW cymbals+pedal + wrong snare depth (already fixed in source by #6575/#9407, never synced)
+5. #9503 — Nick Augusto llms mirror — entire gear rig fabricated as Tama/Meinl/Promark (already fixed in source by #6605, never synced)
+6. #9504 — Flo Mounier llms mirror — fabricated Pearl/Remo rig (already fixed in source by #8047/#8265, never synced)
+7. #9505 — Daray llms mirror — Vader tenure still "2006-2016" + kit chronology backwards; gap #9127 flagged but its fix PR never touched this file
+8. #9506 — Chris Adler llms mirror — fabricated Vic Firth sticks/Meinl Mb20/Mapex pedal (verified Promark TX5AXW signature/Byzance Dark-Transition/Trick Pro V)
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9487-9495 (10-21 19:1x run, 8 fresh — genreGearGuides.js + llms mirror fixes for Matt Halpern/George Kollias/Mike Portnoy/Mikkey Dee/Bill Ward)
+- #9499-9506 (this run, 8 fresh)
+
+### Next run
+1. Watch #9487-9495 and #9499-9506 pick up via Roadie.
+2. `how-to-sound-like-*.md` mirror-drift sweep: 24 of ~40 merged `soundLikeGuides.js` fixes cross-referenced so far. Remaining pool: Matt Halpern, Mike Portnoy, Mikkey Dee (all 3 now covered by the 10-21 19:1x genreGearGuides/llms-mirror batch #9487-9495 — confirm on merge whether that batch also covered their `how-to-sound-like-*.md` mirrors specifically, or whether those still need separate atomic issues), Blake Richardson, Aquiles Priester, Alex Rüdinger, Danny Carey, Eloy Casagrande, Mario Duplantier, Hannes Grossmann, Charlie Benante, Abe Cunningham, Brann Dailor, Bill Ward (covered by #9495 — confirm scope), Alex Bent, Dave Lombardo, Travis Orbin. Also note a parallel `genreGearGuides.js` sweep opened in the 10-21 19:1x run (Matt Halpern x4 + George Kollias, #9487-9491) — a second file family with its own drift, worth continuing alongside or after the mirror sweep.
+3. Content-gap: row re-confirmed against standing ruling (10th+ mention) — no re-action.
+4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

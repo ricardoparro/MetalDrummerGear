@@ -11,14 +11,14 @@ Danny Carey is the rare drummer who makes music nerds and headbangers equally ec
 
 ## Kit Setup
 
-Danny uses **Sonor Designer Series** drums with beech shells — German craftsmanship chosen for warmth, projection, and exceptional tonal consistency:
+Danny uses a **Sonor SQ2 Heavy Beech** kit in a custom Danny Carey configuration — German craftsmanship chosen for warmth, projection, and exceptional tonal consistency:
 
 - **Kick Drum:** 24" x 17" — larger size for low-end power Tool's music demands
-- **Snare:** 14" x 6.5" Sonor SQ2 Heavy Beech
+- **Snare:** 14" x 8" Sonor Danny Carey Signature Bronze Snare
 - **Rack Toms:** 10" x 8", 12" x 9", 14" x 11"
 - **Floor Toms:** 16" x 14", 18" x 16"
-- **Cymbals:** Paiste Signature Dark Energy Series (Danny was instrumental in developing this line) — complex overtones, musical quality
-- **Pedals:** DW 9000 Series Double Pedal (adjustable cam for fine-tuning response)
+- **Cymbals:** Paiste Signature Series — Sound Edge Hi-Hats, Power Crash, Dry Heavy Ride, China — complex overtones, musical quality
+- **Pedals:** Sonor Giant Step Twin Effect Double Pedal (adjustable cam for fine-tuning response)
 - **Sticks:** Vic Firth Danny Carey Signature (16.25" length, .595" diameter, elongated tip for consistent cymbal tone)
 - **Heads:** Remo Powerstroke 4 Clear (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
 
@@ -46,10 +46,10 @@ Danny uses **hybrid grip** — traditional grip on left hand (from his jazz back
 
 | Item | Danny's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Sonor Designer Series (Beech) | Mapex Armory Series (~$800) |
-| Snare | Sonor SQ2 Heavy Beech 14" x 6.5" | Sonor SQ1 or Tama SLP |
-| Cymbals | Paiste Signature Dark Energy Series | Paiste PST 7 Set (~$300) |
-| Double Pedal | DW 9000 Series | DW 5000 Double Pedal (~$400) |
+| Drum Kit | Sonor SQ2 Heavy Beech (Custom) | Mapex Armory Series (~$800) |
+| Snare | Sonor Danny Carey Signature 14" x 8" Bronze | Sonor SQ1 or Tama SLP |
+| Cymbals | Paiste Signature Series | Paiste PST 7 Set (~$300) |
+| Double Pedal | Sonor Giant Step Twin Effect | DW 5000 Double Pedal (~$400) |
 | Sticks | Vic Firth Danny Carey Signature | Vic Firth 5B |
 | Kick Head | Remo Powerstroke 4 Clear | Evans EMAD |
 
@@ -67,10 +67,10 @@ Danny uses **hybrid grip** — traditional grip on left hand (from his jazz back
 ## FAQ
 
 **Q: What drums does Danny Carey use?**  
-A: Danny Carey uses Sonor Designer Series drums with beech shells, made in Germany. His kit centers on a large 24" bass drum that provides the low-end power Tool's music demands. He's been a Sonor and Paiste endorser for decades and co-developed the Paiste Signature Dark Energy cymbal line.
+A: Danny Carey uses a Sonor SQ2 Heavy Beech kit with beech shells, made in Germany. His kit centers on a large 24" bass drum that provides the low-end power Tool's music demands. He's been a Sonor and Paiste endorser for decades, playing the Paiste Signature cymbal line.
 
 **Q: How do I sound like Danny Carey?**  
-A: Focus on polyrhythmic independence, odd time feel, and dynamic control. Danny's sound comes from his musical intelligence more than his gear. Study odd time signatures until they feel natural, develop your hi-hat independence, and learn to make technical patterns groove. Sonor beech shells and Paiste Dark Energy cymbals will get you closer tonally.
+A: Focus on polyrhythmic independence, odd time feel, and dynamic control. Danny's sound comes from his musical intelligence more than his gear. Study odd time signatures until they feel natural, develop your hi-hat independence, and learn to make technical patterns groove. Sonor beech shells and Paiste Signature cymbals will get you closer tonally.
 
 **Q: Why does Danny Carey use traditional grip?**  
 A: Danny's jazz background led him to traditional grip in his left hand. It gives him extra control for ghost notes and subtle dynamics, particularly useful for Tool's nuanced music where quiet passages are as important as loud ones.

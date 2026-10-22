@@ -13,23 +13,23 @@ Dee's drumming is built on three pillars: enormous physical power delivered with
 
 ## Kit Setup
 
-Mikkey plays **Pearl Reference** (Motörhead era) / **Pearl Masters Premium** (Scorpions era) — all-maple professional kits:
+Mikkey plays **Sonor** — Tama from 1992-2012, then Sonor from 2012 to the present (Motörhead's final years, 2012-2015, and now Scorpions on a Sonor SQ2 custom-build):
 
-- **Kick Drums:** 22" x 18" (x2, independent) with Pearl Demon Drive Double Pedal
-- **Snare:** 14" x 6.5" Pearl Free-Floating Brass or Steel
+- **Kick Drums:** 22" x 18" (x2, independent) with DW 5000 Series Double Pedal
+- **Snare:** 14" x 7.25" Sonor Mikkey Dee Signature, Birch
 - **Rack Toms:** 10" x 9", 12" x 10"
 - **Floor Toms:** 14" x 14", 16" x 16" (emphasized configuration reflecting his fill vocabulary)
-- **Cymbals:** Paiste 2002 Series (Motörhead era) / Paiste Signature (current) — bright, loud, projecting
-- **Pedals:** Pearl Demon Drive Double Pedal (direct-drive mechanical link)
-- **Sticks:** Vic Firth 5B or 2B (heavier sticks suited to arm-powered playing)
-- **Heads:** Remo Powerstroke P3 Clear or Evans EMAD2 (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
+- **Cymbals:** Paiste Signature Series (since 2012) — bright, loud, projecting
+- **Pedals:** DW 5000 Series Double Pedal (responsive, mechanically efficient feel)
+- **Sticks:** Wincent Mikkey Dee Signature (heavier weight and taper suited to arm-powered playing)
+- **Heads:** Evans EMAD2 Clear (kick), Evans G2 Coated (snare, toms), Evans G1 Clear (resonant)
 
 ## Tuning & Setup
 
 Dee tunes for maximum projection and attack — Motörhead's dense guitar sound requires drums that cut through at volume:
 
 - **Kick:** Medium tension with internal muffling pillow touching both batter and resonant heads. Punchy, controlled thump with a defined attack transient that locks with guitar riffs. Ported resonant head common for faster decay and mid-range punch.
-- **Snare:** Medium-high tension for cutting crack at rock volumes. Small tape strip at edge or one Moongel for live. The Free-Floating brass/steel snare projects over loud guitar — backbeats must be heard clearly in large venues.
+- **Snare:** Medium-high tension for cutting crack at rock volumes. Small tape strip at edge or one Moongel for live. The Sonor Mikkey Dee Signature birch snare projects over loud guitar — backbeats must be heard clearly in large venues.
 - **Toms:** Medium-high tension, attack focused with moderate sustain. Emperor Clear heads project well at medium-high tension. Tune the 14" floor noticeably lower than the 12" rack for pitch separation that gives fills their weight progression.
 
 ## Technique Tips
@@ -49,14 +49,14 @@ Dee plays **matched grip** with a physical, arm-led technique that generates sig
 
 | Item | Dee's Spec | Budget Alternative |
 |------|-----------|-------------------|
-| Drum Kit | Pearl Reference / Masters Premium | Pearl Export Series (~$550) |
-| Snare | Pearl Free-Floating Brass 14" x 6.5" | Ludwig 6.5" Bronze or Pearl Sensitone |
-| Cymbals | Paiste 2002 Series | Paiste PST 5 Series |
-| Pedal | Pearl Demon Drive Double | Pearl P-2002C Eliminator (~$200) |
-| Sticks | Vic Firth 5B or 2B | Promark 5B hickory |
-| Kick Head | Remo Powerstroke P3 Clear | Evans EMAD2 Clear |
+| Drum Kit | Sonor / Sonor SQ2 Custom-Build | Sonor AQ2 or Force Series |
+| Snare | Sonor Mikkey Dee Signature 14" x 7.25" Birch | Sonor AQ2 Birch or Ludwig 6.5" Bronze |
+| Cymbals | Paiste Signature Series | Paiste PST 5 Series |
+| Pedal | DW 5000 Series Double Pedal | DW 3000 Series or Tama Speed Cobra |
+| Sticks | Wincent Mikkey Dee Signature | Vic Firth 5B or 2B |
+| Kick Head | Evans EMAD2 Clear | Evans EMAD2 Clear |
 
-**Starter budget path (~$1,000):** Pearl Export + Paiste PST 5 Pack + Pearl Eliminator Double. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/paiste](https://metalforge.io/brands/paiste).
+**Starter budget path (~$1,000):** Sonor AQ2 + Paiste PST 5 Pack + DW 3000 Series Double. See [/brands/sonor](https://metalforge.io/brands/sonor) and [/brands/paiste](https://metalforge.io/brands/paiste).
 
 ## Practice Routine
 
@@ -69,10 +69,10 @@ Dee plays **matched grip** with a physical, arm-led technique that generates sig
 ## FAQ
 
 **Q: What drum kit does Mikkey Dee use?**  
-A: Mikkey Dee played Pearl Reference drums throughout his Motörhead years, with dual 22" bass drums and an emphasis on floor toms (14" and 16") in his configuration. Since joining Scorpions in 2016, he has transitioned to Pearl Masters Premium drums. Both setups use all-maple shells. He is a long-term Pearl endorser.
+A: Mikkey Dee played Tama drums from 1992 to 2012, then switched to Sonor for Motörhead's final years (2012-2015), with dual 22" bass drums and an emphasis on floor toms (14" and 16") in his configuration. Since joining Scorpions in 2016, he has played a Sonor SQ2 custom-build. His Sonor relationship began in 2012 with the release of his signature snare.
 
 **Q: What cymbals does Mikkey Dee use?**  
-A: Mikkey Dee played Paiste 2002 cymbals throughout his Motörhead years — a series known for bright, loud, projecting character. His setup typically included 15" 2002 Big Beat hi-hats, 2002 Medium and Heavy crashes, a 2002 China, and a 2002 Heavy Ride. He has also used Paiste Signature cymbals with Scorpions.
+A: Mikkey Dee has played Paiste Signature cymbals since 2012 — a series known for bright, loud, projecting character suited to a loud rock mix. His setup typically includes Signature 14" Sound Edge hi-hats, 19" and 20" Power Crashes, an 18" Heavy China, and a 22" Power Ride. Earlier in his Motörhead tenure (1992-2012), he played Paiste with his Tama kit.
 
 **Q: What is Mikkey Dee's signature drumming technique?**  
 A: Dee's signature is powerful straight-ahead rock timing combined with floor tom-dominant fills and an aggressive right-hand ride attack. His playing prioritizes physical authority and precise rhythmic placement over technical complexity. One powerful floor tom hit delivered with conviction characterizes his fill approach more than multi-surface cascade runs.

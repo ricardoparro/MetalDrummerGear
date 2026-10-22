@@ -11,16 +11,16 @@ Flo Mounier's blast beats on "Who Was Called?" — Cryptopsy's closing track on 
 
 ## Kit Setup
 
-Flo plays **Pearl Reference Pure** drums with a setup engineered for sustained extreme performance:
+Flo plays **Tama Starclassic Maple** drums with a setup engineered for sustained extreme performance:
 
-- **Kick Drums:** 22" x 18" (x2) with Pearl Demon Drive Double Pedal
-- **Snare:** 14" x 6.5" Pearl Free-Floating Steel Snare
+- **Kick Drums:** 22" x 18" (x2) with Tama Speed Cobra 910 Twin Pedal
+- **Snare:** 14" x 5.5" Tama Starclassic Maple Snare
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Tom:** 16" x 16"
 - **Cymbals:** Sabian AAX / HH Series — fast attack and cutting projection
-- **Pedals:** Pearl Demon Drive Double Pedal (direct drive for zero-lag precision at extreme tempos)
-- **Sticks:** Vic Firth 5B (heavier weight for death metal power)
-- **Heads:** Remo Powerstroke P4 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
+- **Pedals:** Tama Speed Cobra 910 Twin Pedal (direct drive for zero-lag precision at extreme tempos)
+- **Sticks:** Vic Firth American Classic 5A (speed and response over added weight)
+- **Heads:** Evans EQ4 Clear (kick), Evans G2 Coated (snare), Evans EC Reverse Dot Clear (toms), Evans G1 Clear (resonant)
 
 ## Tuning & Setup
 
@@ -46,14 +46,14 @@ Flo uses **matched grip** with a wrist-dominant technique for sustained blast wo
 
 | Item | Mounier's Spec | Budget Alternative |
 |------|---------------|-------------------|
-| Drum Kit | Pearl Reference Pure | Pearl Export Series (~$700) |
-| Snare | Pearl Free-Floating Steel 14" x 6.5" | Pearl Sensitone or Ludwig Supraphonic |
+| Drum Kit | Tama Starclassic Maple | Tama Imperialstar or Superstar Classic |
+| Snare | Tama Starclassic Maple 14" x 5.5" | Tama S.L.P. Big Black Steel or Ludwig Supraphonic |
 | Cymbals | Sabian AAX / HH Series | Sabian B8X Pack (~$250) |
-| Pedal | Pearl Demon Drive Double | Pearl P930 Double (~$150) |
-| Sticks | Vic Firth 5B | Pro-Mark 5B or Zildjian 5B |
-| Kick Head | Remo Powerstroke P4 Clear | Evans EMAD Clear |
+| Pedal | Tama Speed Cobra 910 Twin | Axis Longboard or DW 9000 |
+| Sticks | Vic Firth American Classic 5A | Pro-Mark 5A or Zildjian 5A |
+| Kick Head | Evans EQ4 Clear | Evans EMAD Clear |
 
-**Starter budget path (~$1,100):** Pearl Export + Sabian B8X + Pearl P930 Double. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/sabian](https://metalforge.io/brands/sabian).
+**Starter budget path (~$1,100):** Tama Imperialstar + Sabian B8X + budget double pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/sabian](https://metalforge.io/brands/sabian).
 
 ## Practice Routine
 

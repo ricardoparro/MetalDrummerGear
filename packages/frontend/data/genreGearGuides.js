@@ -10070,33 +10070,33 @@ The SQ2's adjustable bearing edge system (which can be reconfigured even after p
         },
         {
           rank: 2,
-          name: "Pearl Reference Pure",
+          name: "Pearl Reference Series",
           brand: "Pearl",
-          model: "Reference Pure Series",
+          model: "Reference Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€2,500-4,500 (shell pack)",
           tier: "pro",
-          material: "6-ply Maple (No Reinforcement Rings)",
+          material: "Maple/Mahogany",
 
-          description: `The Pearl Reference Pure is the choice of Matt Halpern of Periphery — one of djent's most versatile and musically sophisticated drummers. The 6-ply maple construction with no reinforcement rings (the "Pure" distinction) gives the shell more freedom to vibrate, producing exceptional sensitivity and a wider dynamic range than reinforced alternatives.
+          description: `The Pearl Reference Series is the choice of Matt Halpern of Periphery — one of djent's most versatile and musically sophisticated drummers. The maple/mahogany shell blend gives it the punch and warmth Halpern relies on for Periphery's dense, processed production, while staying versatile enough for the band's varied material.
 
-Halpern's jazz-school background translates directly to how he uses the Reference Pure — as an instrument capable of responding to the full range of touch, from whisper-quiet ghost notes to thunderous full-force attacks within the same Periphery composition. The Reference Pure's sensitivity makes it the best djent kit for players who approach the genre from a musical rather than purely mechanical perspective.`,
+Halpern's jazz-school background translates directly to how he uses the Reference Series — as an instrument capable of responding to the full range of touch, from whisper-quiet ghost notes to thunderous full-force attacks within the same Periphery composition. The Reference Series's balance of punch and warmth makes it the best djent kit for players who approach the genre from a musical rather than purely mechanical perspective.`,
 
           pros: [
             "Matt Halpern's Periphery kit — djent/prog metal authority",
-            "Exceptional sensitivity across full dynamic range",
-            "No reinforcement rings for maximum shell resonance",
+            "Maple/mahogany shells deliver punch and warmth across registers",
+            "Versatile tone suits Periphery's varied, dynamic material",
             "Pearl quality engineering and hardware",
             "Best djent kit for musical, expressive playing"
           ],
           cons: [
             "Premium pricing comparable to Sonor SQ2",
-            "Maple's warmer tone may need more processing for tight djent mix",
-            "Sensitivity means any tuning imprecision is immediately audible"
+            "Warmer tone may need more processing for tight djent mix",
+            "Less direct djent pedigree than Sonor SQ2's Haake lineage"
           ],
           specs: {
-            shell: "6-ply Maple (No Reinforcement Rings)",
-            mount: "ADP (Absolute Double-Sided Positive) Mounting",
+            shell: "Maple/Mahogany",
+            mount: "Standard suspended tom mounting",
             finish: "Multiple finishes available",
             kickSize: "22\" x 18\" standard",
             tomSizes: "10\", 12\", 16\" standard"
@@ -10104,7 +10104,7 @@ Halpern's jazz-school background translates directly to how he uses the Referenc
           usedBy: [
             { name: "Matt Halpern", band: "Periphery", note: "Pearl endorser; jazz-school precision applied to djent/prog" }
           ],
-          verdict: "Best djent kit for musical players. Matt Halpern's Periphery setup — sensitivity and dynamic range for expressive djent.",
+          verdict: "Best djent kit for musical players. Matt Halpern's Periphery setup — punch and warmth for expressive djent.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/pearl_reference_pure.htm?partner_id=metalforge"
         },
@@ -10257,10 +10257,10 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
           priceRange: "€600-900 (shell pack)",
           tier: "budget",
           material: "Poplar/Birch Hybrid",
-          description: "The Pearl Export's poplar/birch hybrid gives it a tonal edge over pure poplar budget alternatives. Pearl's hardware engineering quality, even at entry-level, is above the budget market standard. For djent drummers who prefer the Pearl upgrade path (toward Reference Pure like Halpern), the Export is the correct starting point.",
-          pros: ["Pearl quality control; poplar/birch hybrid tone", "Natural upgrade path to Reference Pure", "Best build quality in the budget bracket"],
+          description: "The Pearl Export's poplar/birch hybrid gives it a tonal edge over pure poplar budget alternatives. Pearl's hardware engineering quality, even at entry-level, is above the budget market standard. For djent drummers who prefer the Pearl upgrade path (toward Reference Series like Halpern), the Export is the correct starting point.",
+          pros: ["Pearl quality control; poplar/birch hybrid tone", "Natural upgrade path to Reference Series", "Best build quality in the budget bracket"],
           cons: ["Needs immediate head replacement to sound professional", "Hardware less robust than professional Pearl models"],
-          verdict: "Best budget Pearl djent kit. Upgrade heads immediately — start the path toward Halpern's Reference Pure.",
+          verdict: "Best budget Pearl djent kit. Upgrade heads immediately — start the path toward Halpern's Reference Series.",
           rating: 4.1,
           affiliateLink: "https://www.thomann.de/intl/pearl_export_series.htm?partner_id=metalforge"
         }
@@ -10269,8 +10269,8 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
 
     // Sonor vs Pearl comparison for djent
     comparison: {
-      title: "Sonor SQ2 vs Pearl Reference Pure for Djent",
-      content: `The central djent kit decision: Sonor SQ2 (Tomas Haake) or Pearl Reference Pure (Matt Halpern)? Both are outstanding — the choice comes down to your djent approach:
+      title: "Sonor SQ2 vs Pearl Reference Series for Djent",
+      content: `The central djent kit decision: Sonor SQ2 (Tomas Haake) or Pearl Reference Series (Matt Halpern)? Both are outstanding — the choice comes down to your djent approach:
 
 **Sonor SQ2 (Haake's choice):**
 - Custom shell selection: focused attack with configurable tonal complexity
@@ -10278,15 +10278,15 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
 - Sonor's custom-configured hardware precision for sustained polyrhythmic patterns
 - Best for: Classic djent, Meshuggah-influenced playing, tight rhythmic precision
 
-**Pearl Reference Pure (Halpern's choice):**
-- Pure 6-ply maple with maximum shell resonance
-- Exceptional sensitivity for expressive, dynamic playing
+**Pearl Reference Series (Halpern's choice):**
+- Maple/mahogany shell blend for punch and warmth
+- Versatile, musical character for expressive, dynamic playing
 - More versatile across musical contexts — suits prog-adjacent djent
 - Best for: Djent/prog hybrid, musical djent with dynamic expression
 
-**The Truth:** Both are excellent at the highest level. Sonor SQ2 is more appropriate for traditional Meshuggah-style djent. Pearl Reference Pure is better for the djent/prog crossover that Periphery represents. Neither is wrong.
+**The Truth:** Both are excellent at the highest level. Sonor SQ2 is more appropriate for traditional Meshuggah-style djent. Pearl Reference Series is better for the djent/prog crossover that Periphery represents. Neither is wrong.
 
-**Our Recommendation:** Meshuggah-influenced djent → Sonor SQ2. Periphery-influenced djent → Pearl Reference Pure.`,
+**Our Recommendation:** Meshuggah-influenced djent → Sonor SQ2. Periphery-influenced djent → Pearl Reference Series.`,
       comparisonTable: [
         { feature: "Tight Control", sonor: "⭐⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐" },
         { feature: "Sensitivity/Dynamics", sonor: "⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐⭐" },
@@ -10307,8 +10307,8 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
         },
         {
           category: "Best for Djent/Prog",
-          pedal: "Pearl Reference Pure",
-          reason: "Matt Halpern's Periphery setup. Sensitivity and dynamic range for musical djent-influenced prog."
+          pedal: "Pearl Reference Series",
+          reason: "Matt Halpern's Periphery setup. Punch and warmth for musical djent-influenced prog."
         },
         {
           category: "Best Production-Ready Pro Kit",
@@ -10331,14 +10331,14 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 — the founding djent drummer\'s instrument since 2005' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — Periphery djent/prog precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Series — Periphery djent/prog precision' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'BTBAM djent/prog — expressive kit for complex music' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 — djent\'s founding kit since 2005' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — djent/prog musical precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Series — djent/prog musical precision' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'BTBAM kit — prog metal djent expressiveness' }
     ],
 
@@ -10350,11 +10350,11 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
       },
       {
         question: "What drum kit does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery is a Pearl endorser using Pearl Reference Pure drums. The 6-ply maple shells with no reinforcement rings give the Reference Pure exceptional sensitivity and dynamic range, allowing Halpern's jazz-school technique to translate to Periphery's djent-influenced prog metal with maximum expression."
+        answer: "Matt Halpern of Periphery is a Pearl endorser using Pearl Reference Series drums. The maple/mahogany shells give the Reference Series the punch and warmth that allow Halpern's jazz-school technique to translate to Periphery's djent-influenced prog metal with maximum expression."
       },
       {
         question: "What is the best drum kit for djent?",
-        answer: "The Sonor SQ2 is the benchmark djent drum kit — Tomas Haake of Meshuggah has played it since 2005, and it defines the genre's drumming standard. Its custom shell configuration delivers controlled, focused attack that sits well under djent's heavily processed guitar layers. For djent/prog crossover styles, the Pearl Reference Pure (Matt Halpern's setup) provides superior dynamic sensitivity."
+        answer: "The Sonor SQ2 is the benchmark djent drum kit — Tomas Haake of Meshuggah has played it since 2005, and it defines the genre's drumming standard. Its custom shell configuration delivers controlled, focused attack that sits well under djent's heavily processed guitar layers. For djent/prog crossover styles, the Pearl Reference Series (Matt Halpern's setup) provides punch and warmth with a more versatile character."
       },
       {
         question: "Do I need triggers for djent drumming?",
@@ -10375,7 +10375,7 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
       title: "Build Your Djent Machine",
       content: `Djent rewards drum kit investment more than almost any other metal subgenre because the genre's precision and production standards make every tonal and consistency detail audible. Tomas Haake didn't choose the Sonor SQ2 by accident — the kit's tonal character is integral to how Meshuggah sounds.
 
-That said, your technique matters more than your kit. Haake's polyrhythmic mastery started on far more modest equipment. Build your technique on whatever kit you can afford — TAMA Imperialstar, Pearl Export, or anything in between. Upgrade toward the Sonor SQ2 or Reference Pure when your playing genuinely demands more from your instrument.
+That said, your technique matters more than your kit. Haake's polyrhythmic mastery started on far more modest equipment. Build your technique on whatever kit you can afford — TAMA Imperialstar, Pearl Export, or anything in between. Upgrade toward the Sonor SQ2 or Reference Series when your playing genuinely demands more from your instrument.
 
 One critical investment regardless of kit level: head selection and tuning. Evans EC2 heads and careful tuning will transform any budget kit into something that records and sounds professional. Spend on heads before spending on a new kit.
 
@@ -21702,7 +21702,7 @@ Start with a 22"x18" maple or birch/bubinga shell and a reinforced head like the
     // SEO metadata
     title: "Best Bass Drums for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Djent in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for djent's tight, controlled low end. What Tomas Haake (Sonor SQ2) and Matt Halpern (Pearl Reference Pure) actually play — triggered, reinforced setups for polyrhythmic clarity, from budget to pro.",
+    description: "Best bass drums for djent's tight, controlled low end. What Tomas Haake (Sonor SQ2) and Matt Halpern (Pearl Reference Series) actually play — triggered, reinforced setups for polyrhythmic clarity, from budget to pro.",
     seoKeywords: [
       'best bass drums for djent',
       'djent bass drum setup',
@@ -21739,7 +21739,7 @@ Start with a 22"x18" maple or birch/bubinga shell and a reinforced head like the
       title: "What Bass Drum Setup Do Djent Drummers Actually Use?",
       content: `Djent's signature "chug" is as much about the bass drum as it is the guitar tone underneath it. Where death metal wants raw low-end weight and black metal wants open resonance, djent needs a kick that's tight, controlled, and utterly consistent stroke to stroke — every hit has to lock precisely with palm-muted polyrhythmic guitar patterns, or the whole illusion of mechanical precision falls apart.
 
-Tomas Haake of Meshuggah, djent's founding drummer, plays a Sonor SQ2 Heavy Beech bass drum — a single, oversized 24"x18" shell he's run since 2005, custom-specified for the low-end weight his mechanically precise, polyrhythmic riffing demands. Matt Halpern of Periphery runs a Pearl Reference Pure bass drum, its sensitive, unreinforced maple shell tuned for controlled articulation across Periphery's dense, dynamic djent-prog arrangements. Both drummers pair their acoustic kicks with reinforced or triggered heads to guarantee the same tight, consistent attack on every single stroke, night after night.
+Tomas Haake of Meshuggah, djent's founding drummer, plays a Sonor SQ2 Heavy Beech bass drum — a single, oversized 24"x18" shell he's run since 2005, custom-specified for the low-end weight his mechanically precise, polyrhythmic riffing demands. Matt Halpern of Periphery runs a Pearl Reference Series bass drum, its maple/mahogany shell tuned for controlled articulation across Periphery's dense, dynamic djent-prog arrangements. Both drummers pair their acoustic kicks with reinforced or triggered heads to guarantee the same tight, consistent attack on every single stroke, night after night.
 
 This guide breaks down exactly what makes a bass drum work for djent — shell depth, head selection, and triggering — and which specific shells the genre's defining drummers actually play.`,
       keyPoints: [
@@ -21775,8 +21775,8 @@ This guide breaks down exactly what makes a bass drum work for djent — shell d
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Heavy beech shells (Haake's Sonor SQ2) add mass for maximum low-end weight under heavy processing. Thin, unreinforced maple (Halpern's Pearl Reference Pure) offers exceptional sensitivity for more dynamic, musical djent-prog playing.",
-          recommendation: "Heavy beech for maximum low-end weight; thin maple for dynamic sensitivity"
+          description: "Heavy beech shells (Haake's Sonor SQ2) add mass for maximum low-end weight under heavy processing. Maple/mahogany (Halpern's Pearl Reference Series) offers punch and warmth for more dynamic, musical djent-prog playing.",
+          recommendation: "Heavy beech for maximum low-end weight; maple/mahogany for punch and warmth"
         },
         {
           name: "Isolation Mounting",
@@ -21839,39 +21839,39 @@ Sonor's SQ2 custom program lets drummers dial in exact shell specs, and Haake's 
         },
         {
           rank: 2,
-          name: "Pearl Reference Pure Bass Drum",
+          name: "Pearl Reference Series Bass Drum",
           brand: "Pearl",
-          model: "Reference Pure 22\"x18\"",
+          model: "Reference Series 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€650-850",
           tier: "pro",
-          material: "6-ply Maple (No Reinforcement Ring), 22\"x18\"",
+          material: "Maple/Mahogany, 22\"x18\"",
 
-          description: `The Pearl Reference Pure is Matt Halpern of Periphery's bass drum of choice — one of djent's most versatile and musically sophisticated drummers. The thin 6-ply maple shell with no reinforcement ring gives it more freedom to vibrate, producing exceptional sensitivity and a wider dynamic range than a more heavily reinforced shell.
+          description: `The Pearl Reference Series is Matt Halpern of Periphery's bass drum of choice — one of djent's most versatile and musically sophisticated drummers. The maple/mahogany shell blend gives it the punch and warmth Halpern needs for Periphery's dense, layered production, while remaining versatile across the band's varied material.
 
-Halpern's jazz-school background comes through in how he uses the Reference Pure — an instrument that responds to the full range of touch, from quiet dynamic passages to thunderous full-force djent chugs within the same Periphery composition.`,
+Halpern's jazz-school background comes through in how he uses the Reference Series — an instrument that responds to the full range of touch, from quiet dynamic passages to thunderous full-force djent chugs within the same Periphery composition.`,
 
           pros: [
             "Matt Halpern's Periphery bass drum — djent/prog metal authority",
-            "Exceptional sensitivity across a full dynamic range",
-            "No reinforcement ring for maximum shell resonance",
+            "Maple/mahogany shell delivers punch and warmth across a full dynamic range",
+            "Versatile tone suits Periphery's varied, dynamic material",
             "Pearl quality engineering and hardware",
             "Best djent bass drum for musical, dynamic playing"
           ],
           cons: [
             "Premium pricing comparable to TAMA Starclassic",
             "Standard 18\" depth trades a little control for extra low-end body",
-            "Sensitivity means any tuning imprecision is immediately audible"
+            "Warmer tone may need more processing for a tight djent mix"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "6-ply Maple (No Reinforcement Ring)",
+            shell: "Maple/Mahogany",
             headRecommendation: "Remo Powerstroke 3",
             configuration: "Single, trigger-compatible"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "Pearl Reference Pure — dynamic, sensitive djent-prog low end" }
+            { name: "Matt Halpern", band: "Periphery", note: "Pearl Reference Series — punchy, versatile djent-prog low end" }
           ],
           verdict: "Best djent bass drum for players who approach the genre from a musical, dynamic perspective.",
           rating: 4.8,
@@ -21922,7 +21922,7 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
     // Budget options section
     budgetOptions: {
       title: "Best Budget Bass Drums for Djent",
-      description: "You don't need a Starclassic or Reference Pure shell to nail djent's tight, controlled low end. These bass drums deliver genuine consistency at an accessible price.",
+      description: "You don't need a Starclassic or Reference Series shell to nail djent's tight, controlled low end. These bass drums deliver genuine consistency at an accessible price.",
       pedals: [
         {
           name: "Pearl Export Bass Drum",
@@ -21962,7 +21962,7 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
 
 **22\" Diameter (Matt Halpern):**
 - Standard sizing pairs cleanly with a double pedal and stays easy to transport
-- Sensitive, unreinforced maple shell adds dynamic range without extra low-end weight
+- Maple/mahogany shell adds punch and warmth without extra low-end weight
 - Faster response for rapid, polyrhythmic kick patterns
 
 **24\" Diameter (Tomas Haake):**
@@ -21970,7 +21970,7 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
 - Custom Sonor SQ2 heavy beech construction keeps the extra size controlled rather than boomy
 - Slightly slower response and a larger footprint than a standard 22" shell
 
-**Verdict:** Start with a standard 22"x18" shell and a reinforced, trigger-compatible head like the Evans EMAD2 for Halpern's dynamic, easy-to-transport setup. Go oversized with a custom 24"x18" shell like Haake's Sonor SQ2 if your material specifically calls for maximum low-end weight.`,
+**Verdict:** Start with a standard 22"x18" shell and a reinforced, trigger-compatible head like the Evans EMAD2 for Halpern's punchy, easy-to-transport setup. Go oversized with a custom 24"x18" shell like Haake's Sonor SQ2 if your material specifically calls for maximum low-end weight.`,
       comparisonTable: [
         { feature: "Response Speed", standard: "⭐⭐⭐⭐⭐", oversized: "⭐⭐⭐⭐" },
         { feature: "Dynamic Range", standard: "⭐⭐⭐⭐⭐", oversized: "⭐⭐⭐" },
@@ -21991,8 +21991,8 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
         },
         {
           category: "Best for Dynamic Playing",
-          pedal: "Pearl Reference Pure Bass Drum",
-          reason: "Matt Halpern's sensitive, musical low end for Periphery's djent-prog arrangements."
+          pedal: "Pearl Reference Series Bass Drum",
+          reason: "Matt Halpern's punchy, musical low end for Periphery's djent-prog arrangements."
         },
         {
           category: "Best Mid-Tier",
@@ -22016,20 +22016,20 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: '24"x18" Sonor SQ2 Heavy Beech — djent\'s founding bass drum tone' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — sensitive, dynamic djent-prog low end' }
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Series — punchy, versatile djent-prog low end' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech — oversized low end for djent' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — dynamic sensitivity for Periphery' }
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Series — punch and warmth for Periphery' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What bass drums do djent drummers use?",
-        answer: "Tomas Haake of Meshuggah has played a single, oversized 24\"x18\" Sonor SQ2 Heavy Beech bass drum since 2005, custom-specified for maximum low-end weight beneath his polyrhythmic riffing. Matt Halpern of Periphery plays a Pearl Reference Pure at the more standard 22\"x18\" size, valued for its dynamic sensitivity."
+        answer: "Tomas Haake of Meshuggah has played a single, oversized 24\"x18\" Sonor SQ2 Heavy Beech bass drum since 2005, custom-specified for maximum low-end weight beneath his polyrhythmic riffing. Matt Halpern of Periphery plays a Pearl Reference Series at the more standard 22\"x18\" size, valued for its punch and warmth."
       },
       {
         question: "Why do djent drummers use a shallower bass drum than death metal drummers?",
@@ -22045,14 +22045,14 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
       },
       {
         question: "22\" or 24\" bass drum diameter for djent?",
-        answer: "22\" (Matt Halpern's Pearl Reference Pure) is the standard size — easy to transport and pairs cleanly with a double pedal. 24\" (Tomas Haake's custom Sonor SQ2 Heavy Beech) trades a little response speed for significantly more low-end weight beneath heavily downtuned riffing."
+        answer: "22\" (Matt Halpern's Pearl Reference Series) is the standard size — easy to transport and pairs cleanly with a double pedal. 24\" (Tomas Haake's custom Sonor SQ2 Heavy Beech) trades a little response speed for significantly more low-end weight beneath heavily downtuned riffing."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build the Tight, Controlled Low End Djent Demands",
-      content: `Djent's bass drum requirements are about precision above all else — every kick stroke has to lock with palm-muted, polyrhythmic guitar patterns with mechanical consistency. Tomas Haake's oversized 24"x18" Sonor SQ2 Heavy Beech shows exactly how that controlled, processed-friendly low end is built when your material demands maximum weight, while Matt Halpern's standard-sized Pearl Reference Pure proves a 22" shell can stay just as controlled while adding more natural dynamic range.
+      content: `Djent's bass drum requirements are about precision above all else — every kick stroke has to lock with palm-muted, polyrhythmic guitar patterns with mechanical consistency. Tomas Haake's oversized 24"x18" Sonor SQ2 Heavy Beech shows exactly how that controlled, processed-friendly low end is built when your material demands maximum weight, while Matt Halpern's standard-sized Pearl Reference Series proves a 22" shell can stay just as controlled while adding more natural punch and warmth.
 
 Whichever depth you choose, pair it with a reinforced, trigger-compatible head like the Evans EMAD2 or Remo Powerstroke 3 — consistency, not raw power, is what separates a great djent bass drum from a merely adequate one.
 

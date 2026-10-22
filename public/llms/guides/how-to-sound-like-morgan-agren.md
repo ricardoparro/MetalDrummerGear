@@ -16,11 +16,11 @@ What makes him a benchmark rather than just a technician is that his complexity 
 Ågren plays a **Sonor SQ2 Beech** kit — Sonor's top-tier custom shell pack, built to individual specification:
 
 - **Kick Drum:** 22" Bass Drum (single kick)
-- **Snare:** 14" x 5" or 14" x 6" Sonor Designer Snare
+- **Snare:** 14" x 5.5" Sonor Designer Maple Snare
 - **Rack Toms:** 10", 12"
 - **Floor Toms:** 14", 16"
-- **Cymbals:** Meinl Byzance Series — 14" Sand Hi-Hats, various crashes, 22" Byzance Traditional Ride
-- **Pedals:** DW Double Bass Pedal
+- **Cymbals:** Paiste Signature & 2002 Series — 14" Signature Heavy Hi-Hats, Signature Fast Crash 18"/20", Signature Dry Heavy Ride 22", 2002 China 18"
+- **Pedals:** Sonor Giant Step Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Remo Powerstroke 3 (kick), Remo Ambassador Coated (snare and toms)
 
@@ -49,13 +49,13 @@ What makes him a benchmark rather than just a technician is that his complexity 
 | Item | Ågren's Spec | Budget Alternative |
 |------|-------------|-------------------|
 | Drum Kit | Sonor SQ2 Beech | Pearl Export or Mapex Mars (~$700) |
-| Snare | Sonor Designer 14" x 5"/6" | Pearl Reference or DW Performance |
-| Cymbals | Meinl Byzance Series | Meinl HCS Pack (~$200) |
-| Pedal | DW Double Bass Pedal | DW 3000 Single Pedal (~$100) |
+| Snare | Sonor Designer Maple 14" x 5.5" | Pearl Reference or DW Performance |
+| Cymbals | Paiste Signature & 2002 Series | Paiste PST 5 Pack (~$200) |
+| Pedal | Sonor Giant Step Double Pedal | DW 3000 Single Pedal (~$100) |
 | Sticks | Vic Firth American Classic 5A | Vater Fusion or Promark 5A |
 | Kick Head | Remo Powerstroke 3 | Same, standard configuration |
 
-**Starter budget path (~$1,000):** Pearl Export/Mapex Mars + Meinl HCS pack + DW 3000 single pedal. See [/brands/sonor](https://metalforge.io/brands/sonor) and [/brands/meinl](https://metalforge.io/brands/meinl).
+**Starter budget path (~$1,000):** Pearl Export/Mapex Mars + Paiste PST 5 pack + DW 3000 single pedal. See [/brands/sonor](https://metalforge.io/brands/sonor) and [/brands/paiste](https://metalforge.io/brands/paiste).
 
 ## Practice Routine
 
@@ -68,13 +68,13 @@ What makes him a benchmark rather than just a technician is that his complexity 
 ## FAQ
 
 **Q: What kit does Morgan Ågren use?**  
-A: Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier custom shell pack. His configuration typically runs 10" and 12" rack toms, 14" and 16" floor toms, and a single 22" bass drum, with a Sonor Designer snare in 14"x5" or 14"x6" depending on the context.
+A: Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier custom shell pack. His configuration typically runs 10" and 12" rack toms, 14" and 16" floor toms, and a single 22" bass drum, with a 14"x5.5" Sonor Designer Maple snare.
 
 **Q: How do I develop Morgan Ågren's polyrhythm independence?**  
 A: Start with his four-over-three foundation: hands playing four evenly spaced strokes while feet play three, looped slowly until neither limb drifts. Only add melodic tom variation once the base polyrhythm is completely stable.
 
 **Q: What cymbals and gear does Morgan Ågren use?**  
-A: Ågren's cymbals are Meinl Byzance — 14" Sand Hi-Hats, various crashes, and a 22" Byzance Traditional Ride. He plays a DW double bass pedal and Vic Firth American Classic 5A sticks.
+A: Ågren's cymbals are Paiste Signature & 2002 Series — 14" Signature Heavy Hi-Hats, Signature Fast Crash 18"/20", Signature Dry Heavy Ride 22", and a 2002 China 18". He plays a Sonor Giant Step double pedal and Vic Firth American Classic 5A sticks.
 
 **Q: What should I practice first to sound like Morgan Ågren?**  
 A: Build the dynamic range that underlies everything he plays first: a smooth, controlled crescendo from near-inaudible ghost notes to full-force rimshots within a single phrase.
@@ -86,7 +86,7 @@ A: Zappa personally selected Ågren to tour in 1988 when Ågren was just 20 — 
 
 **Full interactive guide:** [https://metalforge.io/guides/how-to-sound-like-morgan-agren](https://metalforge.io/guides/how-to-sound-like-morgan-agren)  
 **Drummer profile:** [https://metalforge.io/drummer/morgan-agren](https://metalforge.io/drummer/morgan-agren)  
-**Related album article:** [Morgan Ågren's Drum Setup — Sonor SQ2 & Meinl Byzance](https://metalforge.io/articles/morgan-agren-drum-setup)  
+**Related album article:** [Morgan Ågren's Drum Setup — Sonor SQ2 & Paiste Signature](https://metalforge.io/articles/morgan-agren-drum-setup)  
 **Related guides:** [Mike Portnoy](https://metalforge.io/llms/guides/how-to-sound-like-mike-portnoy.md) · [Matt Garstka](https://metalforge.io/llms/guides/how-to-sound-like-matt-garstka.md)
 
 *Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-07-01*

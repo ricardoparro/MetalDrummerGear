@@ -13,13 +13,13 @@ Chris Adler built Lamb of God's sound from the ground up. From 1994 to 2019, his
 
 Chris used **Mapex Black Panther / Saturn V** drums with maple/walnut shells — chosen for the punch and attack needed for Lamb of God's heavy grooves:
 
-- **Kick Drums:** 22" x 18" (x2) with Mapex Falcon Double Pedal
+- **Kick Drums:** 22" x 18" (x2) with Trick Pro V Double Pedal
 - **Snare:** 14" x 5.5" Chris Adler Signature Snare (steel shell for cutting power)
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 14", 16" x 16"
-- **Cymbals:** Meinl Mb20 Heavy Series — bright and powerful, designed to cut through LOG's wall of guitars
-- **Pedals:** Mapex Falcon Double Pedal (direct-drive action for powerful playing)
-- **Sticks:** Vic Firth Chris Adler Signature (medium taper with barrel tip for power and cymbal definition)
+- **Cymbals:** Meinl Byzance Dark/Transition Series — dark and trashy, designed to cut through LOG's wall of guitars
+- **Pedals:** Trick Pro V Double Pedal (direct-drive action for powerful playing)
+- **Sticks:** Promark TX5AXW Chris Adler Signature (medium taper with barrel tip for power and cymbal definition)
 - **Heads:** Evans EMAD Clear (kick), Evans Power Center Reverse Dot (snare), Evans EC2 Clear (toms)
 
 ## Tuning & Setup
@@ -48,12 +48,12 @@ Chris uses **matched grip** with strong wrist technique. He emphasizes syncopati
 |------|-------------|-------------------|
 | Drum Kit | Mapex Black Panther / Saturn V (Maple/Walnut) | Mapex Armory (~$700) |
 | Snare | Chris Adler Signature Snare 14" x 5.5" (Steel) | Mapex Black Panther Steel or Tama SLP |
-| Cymbals | Meinl Mb20 Heavy Series | Meinl HCS Pack (~$200) |
-| Double Pedal | Mapex Falcon Double Pedal | Mapex Falcon Single/Double (~$150) |
-| Sticks | Vic Firth Chris Adler Signature | Vic Firth 5B |
+| Cymbals | Meinl Byzance Dark/Transition Series | Meinl HCS Pack (~$200) |
+| Double Pedal | Trick Pro V | Trick Pro V Single/Double (~$150) |
+| Sticks | Promark TX5AXW Chris Adler Signature | Promark 5A or Rock |
 | Kick Head | Evans EMAD Clear | Evans EMAD 2 |
 
-**Starter budget path (~$1,000):** Mapex Armory + Meinl HCS + Mapex Falcon pedal. See [/brands/mapex](https://metalforge.io/brands/mapex) and [/brands/meinl](https://metalforge.io/brands/meinl) for alternatives.
+**Starter budget path (~$1,000):** Mapex Armory + Meinl HCS + Trick Pro V pedal. See [/brands/mapex](https://metalforge.io/brands/mapex) and [/brands/meinl](https://metalforge.io/brands/meinl) for alternatives.
 
 ## Practice Routine
 
@@ -66,10 +66,10 @@ Chris uses **matched grip** with strong wrist technique. He emphasizes syncopati
 ## FAQ
 
 **Q: What drums does Chris Adler use?**  
-A: Chris Adler played Mapex Black Panther and Saturn V drums with maple/walnut shells during his time with Lamb of God. He used a Chris Adler Signature Snare (steel shell), Meinl Mb20 Heavy cymbals, and Mapex Falcon double pedals — all chosen for the punch and aggression needed for groove metal.
+A: Chris Adler played Mapex Black Panther and Saturn V drums with maple/walnut shells during his time with Lamb of God. He used a Chris Adler Signature Snare (steel shell), Meinl Byzance Dark/Transition cymbals, and Trick Pro V double pedals — all chosen for the punch and aggression needed for groove metal.
 
 **Q: How do I get the Lamb of God drum sound?**  
-A: Tight, punchy tuning with Evans EMAD heads on kick and Power Center on snare. Meinl Mb20 Heavy cymbals for bright, cutting attack. The technique is equally important — develop riff-locked double bass by learning the guitar parts and playing them on your kick drums.
+A: Tight, punchy tuning with Evans EMAD heads on kick and Power Center on snare. Meinl Byzance Dark cymbals for dark, cutting attack. The technique is equally important — develop riff-locked double bass by learning the guitar parts and playing them on your kick drums.
 
 **Q: How does Chris Adler create that Lamb of God groove?**  
 A: Syncopation — Chris plays slightly before or after where you expect, creating a push/pull effect. This micro-timing is subtle but essential to LOG's signature bounce. It's not just about playing the right notes; it's about placing them with intentional micro-rhythmic tension.

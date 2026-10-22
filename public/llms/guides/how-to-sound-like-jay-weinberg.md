@@ -1,13 +1,13 @@
 # How to Sound Like Jay Weinberg — Slipknot Drum Sound Guide
 
 **Drummer:** Jay Weinberg  
-**Band:** Slipknot  
+**Band:** Former Slipknot / Former Suicidal Tendencies  
 **Genre:** Nu-Metal / Alternative Metal  
 **Guide URL:** https://metalforge.io/guides/how-to-sound-like-jay-weinberg
 
 ## Overview
 
-Jay Weinberg joined Slipknot in 2014, stepping into one of the most watched drum seats in metal history and making it his own. Son of Max Weinberg (E Street Band), Jay brought a ferocious technical foundation and relentless stamina that has powered Slipknot through arena tours, festival headliners, and two studio albums — We Are Not Your Kind (2019) and The End, So Far (2022). His defining quality is the combination of groove-lock and aggression: tight rhythmic precision that locks with Slipknot's down-tuned guitars while delivering the explosive fills and double bass runs the band demands. His ghost note integration within heavy grooves adds sophistication that rewards close listening even when barely perceptible at festival volume.
+Jay Weinberg joined Slipknot in 2014, taking one of the most scrutinized drum seats in metal history and making it his own. Son of legendary E Street Band drummer Max Weinberg, Jay brought a ferocious technical foundation and relentless stamina that powered Slipknot through stadium tours, festival headliners, and three studio records before his November 2023 departure. He joined Suicidal Tendencies in 2024, then exited that band in January 2026 citing the birth of his first child and other music projects. His defining quality is the combination of groove-lock and aggression: tight rhythmic precision that locks with Slipknot's down-tuned guitars while delivering the explosive fills and double bass runs the band demands. His ghost note integration within heavy grooves adds sophistication that rewards close listening even when barely perceptible at festival volume.
 
 ## Key Techniques
 
@@ -21,15 +21,15 @@ Jay Weinberg joined Slipknot in 2014, stepping into one of the most watched drum
 
 ## Gear
 
-Jay Weinberg uses a **Pearl Reference Pure** kit with custom Slipknot configurations — Pearl's flagship maple series for maximum projection and articulation at arena scale:
+Jay Weinberg uses **SJC Custom Drums** with custom Slipknot configurations — maple shells built to his specifications for maximum projection and articulation at arena scale:
 
 - **Kick Drums:** 22" x 18" (x2) with DW 9000 Series Double Pedal
-- **Snare:** Pearl Free-Floating Steel 14" x 6.5" — high tuning for crack and cut
+- **Snare:** SJC "The Crucible" 48-ply Brass, 14" x 6.5" — sharp crack for his aggressive style
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 14", 18" x 16"
-- **Cymbals:** Sabian HHX Evolution and AAX Series — bright, cutting, projects over loud stage volume
-- **Sticks:** Vic Firth Jay Weinberg Signature (5B weight) — built for endurance at high-energy shows
-- **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
+- **Cymbals:** Zildjian A New Beat hi-hats, A Custom crashes, K Custom ride, K China, FX Break Bell — bright, cutting, projects over loud stage volume
+- **Sticks:** Vater 908 (Jay Weinberg Signature) — .585" diameter, 16.25" length, blending 5A/5B weight for endurance at high-energy shows
+- **Heads:** Evans EQ3 Clear (kick), Evans G2 Coated (snare), Evans G2 Clear (toms), Evans G1 Clear (resonant)
 
 ## Tuning
 
@@ -59,7 +59,7 @@ Jay tunes for punch and definition — every hit must cut cleanly at arena volum
 ## FAQ
 
 **Q: What drum kit does Jay Weinberg use?**  
-A: Jay uses Pearl Reference Pure kits — Pearl's flagship maple series. The Reference Pure provides maximum projection and articulation for Slipknot's arena-scale performances. Pearl Masters and Pearl Reference are strong alternatives with similar maple tone.
+A: Jay plays SJC Custom Drums kits with maple shells, built to his specifications. The maple shells provide warmth with excellent attack definition, crucial for cutting through Slipknot's layered guitar assault. SJC Custom kits in various maple configurations offer similar tone character.
 
 **Q: How does Jay Weinberg differ from Joey Jordison?**  
 A: Jay brings more refined technical precision with stronger ghost note integration and cleaner groove-lock. Joey was known for raw visceral aggression and showmanship. Both serve Slipknot's music brilliantly — Jay's approach is arguably more precise while Joey's was more chaotic and instinctive.
@@ -68,7 +68,7 @@ A: Jay brings more refined technical precision with stronger ghost note integrat
 A: Jay uses DW 9000 Series double pedals. Their adjustability and direct-drive option give him the fast, consistent response his syncopated kick patterns require.
 
 **Q: How do I get Jay Weinberg's snare sound?**  
-A: Jay uses a Pearl Free-Floating Steel snare tuned high. Tune tight (2-3 turns past finger-tight) and use minimal muffling. A steel shell snare like the Pearl Sensitone Steel or Ludwig Supraphonic will get you into similar territory.
+A: Jay uses his signature SJC "The Crucible" 48-ply brass snare tuned high. Tune tight (2-3 turns past finger-tight) and use minimal muffling. A bright, cutting snare like the Tama Starclassic Steel or Ludwig Supraphonic will get you into similar territory.
 
 **Q: Can a beginner learn Jay Weinberg's style?**  
 A: Yes. Start with basic Slipknot grooves at slow tempo — Duality and Before I Forget have accessible drum parts that teach the guitar-locking principle. Add ghost notes and double bass complexity once the fundamental groove is solid.

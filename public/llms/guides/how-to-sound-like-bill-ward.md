@@ -13,13 +13,13 @@ What makes Ward's drumming so distinct is that he never abandoned the jazz vocab
 
 ## Kit Setup
 
-Ward plays a **Ludwig Super Classic** (later **Ludwig Classic Maple**) kit with maple shells:
+Ward plays a **Ludwig Standard / Club Date Series** kit with maple shells:
 
 - **Kick Drum:** 22" x 14" Bass Drum (single, no double kick)
 - **Snare:** 14" x 6.5" Ludwig Supraphonic LM402 (aluminum shell)
 - **Rack Toms:** 12", 13"
 - **Floor Toms:** 16", 18"
-- **Cymbals:** Paiste 2002 & Giant Beat Series — 15" Giant Beat hi-hats, 18"/20" 2002 crashes, 24" 2002 ride, 18" 2002 china
+- **Cymbals:** Zildjian Avedis Series (played since 1971) — 14" Avedis hi-hats, 16"/18" Avedis crashes, 20" Avedis ride, 18" Avedis china
 - **Pedal:** Ludwig Speed King (single, no double bass)
 - **Sticks:** Standard hickory drumsticks, medium weight
 - **Heads:** Ludwig Weather King throughout
@@ -48,14 +48,14 @@ Ward's groove comes from placement and feel rather than power or speed. He plays
 
 | Item | Ward's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Ludwig Super Classic / Classic Maple | Pearl Roadshow (~$550) |
+| Drum Kit | Ludwig Standard / Club Date Series | Pearl Roadshow (~$550) |
 | Snare | Ludwig Supraphonic 14" x 6.5" LM402 | Any aluminum-shell snare tuned loose and low |
-| Cymbals | Paiste 2002 & Giant Beat Series | Paiste 101 hi-hats + crash (~$200) |
+| Cymbals | Zildjian Avedis Series | Zildjian Planet Z Pack (~$200) |
 | Pedal | Ludwig Speed King (single) | Any direct-drive single pedal |
 | Sticks | Standard hickory, medium weight | Vic Firth American Classic 5A |
 | Heads | Ludwig Weather King | Same, coated |
 
-**Starter budget path (~$900):** Pearl Roadshow + Paiste 101 pack + basic single pedal. See [/brands/ludwig](https://metalforge.io/brands/ludwig) and [/brands/paiste](https://metalforge.io/brands/paiste).
+**Starter budget path (~$900):** Pearl Roadshow + Zildjian Planet Z pack + basic single pedal. See [/brands/ludwig](https://metalforge.io/brands/ludwig) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
 
 ## Practice Routine
 
@@ -71,7 +71,7 @@ Ward's groove comes from placement and feel rather than power or speed. He plays
 A: Bill Ward co-founded Black Sabbath in 1968 and is widely credited as one of the true originators of heavy metal drumming. His jazz-influenced swing-and-power approach on albums like "Black Sabbath" (1970) and "Paranoid" (1970) created the genre's foundational rhythmic vocabulary.
 
 **Q: What gear should I use to sound like Bill Ward?**  
-A: Ward played a Ludwig Super Classic (later Ludwig Classic Maple) kit with a Ludwig Supraphonic 14" x 6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals, driven by a single Ludwig Speed King pedal — no double bass.
+A: Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14" x 6.5" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass.
 
 **Q: What tempo should I practice at to sound like Bill Ward?**  
 A: Practice in the 70–110 BPM range that defines Black Sabbath's classic doom tempos. Start slow — the behind-the-beat drag that defines Ward's feel is much easier to hear and control at 70–80 BPM.

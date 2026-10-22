@@ -69,7 +69,7 @@ Benante plays **matched grip** with an upright, wrist-driven technique. His defi
 ## FAQ
 
 **Q: What drum kit does Charlie Benante use?**  
-A: Charlie Benante plays a Tama Starclassic Maple kit with an all-maple shell configuration. He has been a Tama endorser for decades. His setup uses dual 22" bass drums (independent, not a double pedal) and a two-up, two-down tom configuration for his polyrhythmic fills.
+A: Charlie Benante plays a Tama Starclassic Maple kit with an all-maple shell configuration. He has been a Tama endorser for decades. His setup uses dual 22" bass drums with a Tama Speed Cobra double pedal and a two-up, two-down tom configuration for his polyrhythmic fills.
 
 **Q: What is Charlie Benante's signature drumming technique?**  
 A: His most recognizable technique is the open hi-hat thrash drive — the hi-hat opens slightly on every eighth-note upbeat while the snare plays on 2 and 4. Paired with syncopated kick patterns that follow guitar riff accent points, this creates a churning, musical quality that distinguishes Anthrax's thrash from purely speed-driven approaches.

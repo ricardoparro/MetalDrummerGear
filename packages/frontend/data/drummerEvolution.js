@@ -17135,7 +17135,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Angra',
     totalYearsActive: '1996-Present',
     profileImage: '/images/drummers/aquiles-priester.webp',
-    summary: 'Aquiles Priester is Brazil\'s most celebrated metal drummer — the neoclassical double-bass powerhouse who anchored Angra\'s most acclaimed era, joined American heavy metal band W.A.S.P. in 2017, and returned to Angra in 2023 for a triumphant second act. His gear evolution runs from founding Brazilian power metal band Hangar in 1996, through the Mapex Saturn/Sabian HHX setup that drove Angra classics like "Rebirth" and "Temple of Shadows," into a Pearl Reference Series/Meinl Byzance rig during his W.A.S.P. years, and finally to the Mapex Saturn Evolution signature kit and Paiste cymbal setup — paired with a DW 9000 double pedal — he plays on his current Angra return cycle.',
+    summary: 'Aquiles Priester is Brazil\'s most celebrated metal drummer — the neoclassical double-bass powerhouse who anchored Angra\'s most acclaimed era from 2001-2008 and has driven American heavy metal band W.A.S.P. since 2017. His gear evolution runs from founding Brazilian power metal band Hangar in 1996, through the Mapex Saturn/Sabian HHX setup that drove Angra classics like "Rebirth" and "Temple of Shadows," into a Pearl Reference Series/Meinl Byzance rig during his early W.A.S.P. years, and finally to his own Mapex Saturn Evolution signature kit and Paiste cymbal setup — paired with a DW 9000 double pedal — launched in 2023 and still his current touring rig.',
 
     eras: [
       {
@@ -17347,21 +17347,21 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'aquiles-priester-2023-angra-return',
-        era: 'Angra Return: Mapex Saturn Evolution Era',
+        id: 'aquiles-priester-2023-signature-kit',
+        era: 'W.A.S.P. Era: Mapex Saturn Evolution Signature Kit',
         years: '2023–present',
         startYear: 2023,
         endYear: 2026,
-        description: 'Priester returned to Angra in 2023, celebrated by the power metal community as one of the genre\'s most anticipated reunions. His current touring and recording setup is built around the Mapex Saturn Evolution All Maple — his own signature kit, the first Brazilian-drummer signature kit released by a global drum brand — a custom red-coated Paiste cymbal setup, and a DW 9000 Series double pedal — a rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style, still driven by relaxation-based technique rather than raw force.',
-        albums: ['Angra return-cycle material (2023–present)'],
-        tours: ['Angra Return Tour 2023–present'],
+        description: 'In 2023, Priester launched his own Mapex Saturn Evolution All Maple signature kit — the first Brazilian-drummer signature kit released by a global drum brand — pairing it with a custom red-coated Paiste cymbal setup and a DW 9000 Series double pedal. The switch is unrelated to any band change: Priester remains W.A.S.P.\'s drummer throughout this era, with the new rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style, still driven by relaxation-based technique rather than raw force.',
+        albums: ['Hangar - ongoing releases'],
+        tours: ['W.A.S.P. Tours 2023–present', 'South American Festival Circuit (ongoing)'],
         image: null,
 
         gear: {
           drums: {
             item: 'Mapex Saturn Evolution All Maple',
             details: 'Aquiles Priester signature kit — the first Brazilian-drummer signature kit released by a global drum brand',
-            notes: 'Switched from Pearl Reference Series to his own Mapex Saturn Evolution signature kit for his 2023 Angra return.',
+            notes: 'Switched from Pearl Reference Series to his own Mapex Saturn Evolution signature kit following its 2023 launch.',
             change: CHANGE_TYPES.SIGNATURE,
           },
           snare: {
@@ -17391,7 +17391,7 @@ export const DRUMMER_EVOLUTION = {
           heads: {
             item: 'Remo',
             details: 'Complete setup',
-            notes: 'Coated Ambassador/Powerstroke 3 setup, unchanged since 1996, for the current Angra touring rig.',
+            notes: 'Coated Ambassador/Powerstroke 3 setup, unchanged since 1996, for the current W.A.S.P. touring rig.',
             change: null,
           },
         },
@@ -17403,16 +17403,13 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Returned to Angra in 2023, celebrated by the power metal community',
-          'Switched to his own Mapex Saturn Evolution signature kit, a custom Paiste cymbal setup, and DW 9000 double pedal',
+          'Launched his own Mapex Saturn Evolution signature kit in 2023',
+          'Switched to the signature kit, a custom Paiste cymbal setup, and DW 9000 double pedal',
           'Current rig built for sustained 180–220+ BPM double-bass patterns using relaxation-based technique',
-          'Continues to balance Angra, W.A.S.P., and Hangar commitments',
+          'Continues to balance W.A.S.P. and Hangar commitments',
         ],
 
-        quote: {
-          text: "Coming back to Angra felt like coming home, but I didn't want to just replay the old records. The new setup, the new songs — I wanted to prove the technique still gets faster, not slower.",
-          source: 'Interview, 2023',
-        },
+        quote: null,
 
         videos: [],
       },
@@ -17421,15 +17418,15 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'Who is the drummer of Angra?',
-        a: 'Aquiles Priester is Angra\'s drummer, having originally joined in 2001 (replacing Ricardo Confessori) and driven the band\'s most celebrated era through Rebirth, Temple of Shadows, and Aurora Consurgens before leaving in 2008. He returned to Angra in 2023.',
+        a: 'Aquiles Priester was Angra\'s drummer from 2001 to 2008 (replacing Ricardo Confessori), driving the band\'s most celebrated era through Rebirth, Temple of Shadows, and Aurora Consurgens. Angra\'s drum chair has been held by Bruno Valverde since 2014.',
       },
       {
         q: 'What bands has Aquiles Priester played in?',
-        a: 'Aquiles Priester founded Brazilian power metal band Hangar in 1996 and has remained its drummer ever since. He joined Angra in 2001 (through 2008, then again from 2023), and joined American heavy metal band W.A.S.P. in 2017, where he remains an active member.',
+        a: 'Aquiles Priester founded Brazilian power metal band Hangar in 1996 and has remained its drummer ever since. He joined Angra in 2001 and left in 2008, and joined American heavy metal band W.A.S.P. in 2017, where he remains an active member.',
       },
       {
         q: 'What drum kit does Aquiles Priester use now?',
-        a: 'Aquiles Priester currently plays the Mapex Saturn Evolution All Maple — his own signature kit — for Angra\'s 2023 return cycle, with a custom red-coated Paiste cymbal setup and a DW 9000 Series double pedal. Earlier in his career he played Mapex Saturn Series drums with Sabian HHX cymbals (Angra\'s classic era) and Pearl Reference Series drums with Meinl Byzance cymbals (his W.A.S.P. years).',
+        a: 'Aquiles Priester currently plays the Mapex Saturn Evolution All Maple — his own signature kit, launched in 2023 for his ongoing W.A.S.P. tenure — with a custom red-coated Paiste cymbal setup and a DW 9000 Series double pedal. Earlier in his career he played Mapex Saturn Series drums with Sabian HHX cymbals (Angra\'s classic era) and Pearl Reference Series drums with Meinl Byzance cymbals (his early W.A.S.P. years).',
       },
       {
         q: 'How does Aquiles Priester sustain double bass at 180+ BPM?',
@@ -17437,12 +17434,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'Did Aquiles Priester return to Angra?',
-        a: 'Yes — Aquiles Priester returned to Angra in 2023 after leaving the band in 2008, a reunion celebrated by the power metal community. He continues to balance the Angra return cycle with his ongoing commitments to W.A.S.P. and Hangar.',
+        a: 'No — Aquiles Priester played drums for Angra from 2001 to 2008 and has not rejoined. Angra\'s drum chair has been held continuously by Bruno Valverde since 2014. Priester has been W.A.S.P.\'s drummer since 2017, alongside his ongoing commitment to Hangar.',
       },
     ],
 
-    metaTitle: 'Aquiles Priester Gear Evolution Timeline | Angra Drum Kit History',
-    metaDescription: 'Explore Aquiles Priester\'s complete drum gear evolution: founding Hangar in 1996, the Mapex Saturn/Sabian HHX setup behind Angra classics Rebirth and Temple of Shadows, the Pearl Reference/Meinl Byzance rig from his W.A.S.P. years, and the Mapex Saturn Evolution/Paiste/DW 9000 setup he plays on his current Angra return.',
+    metaTitle: 'Aquiles Priester Gear Evolution Timeline | W.A.S.P. & Angra Drum Kit History',
+    metaDescription: 'Explore Aquiles Priester\'s complete drum gear evolution: founding Hangar in 1996, the Mapex Saturn/Sabian HHX setup behind Angra classics Rebirth and Temple of Shadows (2001-2008), the Pearl Reference/Meinl Byzance rig from his early W.A.S.P. years, and the Mapex Saturn Evolution/Paiste/DW 9000 signature setup he has played since 2023.',
   },
 
   // ==========================================

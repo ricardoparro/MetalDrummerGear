@@ -1,4 +1,4 @@
-# How to Sound Like Eloy Casagrande — Sepultura Drum Sound Guide
+# How to Sound Like Eloy Casagrande — Sepultura & Slipknot Drum Sound Guide
 
 **Drummer:** Eloy Casagrande  
 **Band:** Sepultura (2011–2024) / Slipknot (2024–present)  
@@ -7,7 +7,7 @@
 
 ## Overview
 
-Eloy Casagrande (born August 25, 1991, São Paulo, Brazil) joined Sepultura in 2011 at 19 and spent 13 years driving the band through its most technically ambitious era. Named the #1 metal drummer in Modern Drummer's 2024 Readers' Poll, he bridges Sepultura's Brazilian thrash legacy with the explosive precision of modern extreme metal. His viral drum-cam videos on Quadra (2020) tracks like "Means To An End" cemented his global reputation: controlled power, where every fast figure is played with even dynamics and immaculate timing. The result sounds heavier than uncontrolled speed, which is the central lesson of his playing.
+Eloy Casagrande (born August 25, 1991, São Paulo, Brazil) joined Sepultura in 2011 at 19 and spent 13 years driving the band through its most technically ambitious era. Voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll, Casagrande left Sepultura in February 2024 and was officially confirmed as Slipknot's new drummer on May 1, 2024, replacing Jay Weinberg in one of the most high-profile drum chairs in heavy music. His viral drum-cam videos on Quadra (2020) tracks like "Means To An End" cemented his global reputation: controlled power, where every fast figure is played with even dynamics and immaculate timing. The result sounds heavier than uncontrolled speed, which is the central lesson of his playing — a lesson built during his 13-year Sepultura tenure and now carried directly into his current work with Slipknot.
 
 ## Kit Setup
 
@@ -66,11 +66,14 @@ Eloy uses **matched grip** with a powerful, upright technique that balances spee
 
 ## FAQ
 
-**Q: What drum kit does Eloy Casagrande use with Sepultura?**  
-A: Eloy Casagrande plays Tama Starclassic Bubinga throughout his Sepultura tenure. Bubinga shells deliver focused attack with naturally controlled sustain — ideal for riff-locked double bass patterns. He uses two independent 22" bass drums rather than a double pedal for maximum precision at speed.
+**Q: What drum kit does Eloy Casagrande use?**  
+A: Eloy Casagrande plays Tama Starclassic Bubinga — the setup he built throughout his 13-year Sepultura tenure and still uses now as Slipknot's drummer. Bubinga shells deliver focused attack with naturally controlled sustain — ideal for riff-locked double bass patterns. He uses two independent 22" bass drums rather than a double pedal for maximum precision at speed.
 
-**Q: What cymbals does Eloy Casagrande use?**  
-A: Eloy is a Paiste endorser. His Sepultura setup includes 15" Masters Dark Hi-Hats, Paiste Formula 602 and 2002 series crashes, a Masters Dark Crash, a 2002 Novo China, and a 2002 Power Ride. The Masters Dark hi-hats define the dark, controlled high-end of his sound, while the 2002 Wild Crash delivers explosive impact for thrash passages.
+**Q: What cymbals does Eloy Casagrande use with Slipknot?**  
+A: Eloy is a Paiste endorser and kept the same cymbal setup when he moved from Sepultura to Slipknot in 2024. His setup includes 15" Masters Dark Hi-Hats, Paiste Formula 602 and 2002 series crashes, a Masters Dark Crash, a 2002 Novo China, and a 2002 Power Ride. The Masters Dark hi-hats define the dark, controlled high-end of his sound, while the 2002 Wild Crash delivers explosive impact for thrash passages.
+
+**Q: Did Eloy Casagrande really join Slipknot?**  
+A: Yes. Eloy Casagrande left Sepultura in February 2024 after 13 years and was officially confirmed as Slipknot's new drummer on May 1, 2024, taking over the drum chair from Jay Weinberg. He kept his existing Tama, Paiste, and Evans endorsements, so the gear and much of the technique covered in this guide carry directly into his current Slipknot work.
 
 **Q: How does Eloy Casagrande get the Sepultura drum sound?**  
 A: Three elements combine: Tama Bubinga shells (focused attack, controlled sustain), Paiste Masters Dark cymbals (dark but cutting), and the technique of locking the kick tightly to the guitar riff's accent points. For recording, medium-high snare tension and a kick with a defined attack transient (not excessive muffling) are the key choices.

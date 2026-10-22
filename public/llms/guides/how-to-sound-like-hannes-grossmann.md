@@ -7,7 +7,7 @@
 
 ## Overview
 
-Hannes Grossmann (born September 8, 1982, in Freising, Germany) represents a different kind of extreme metal drummer: one whose primary influence isn't other metal drummers but classical percussion and jazz. This background is audible on every recording he has made with Necrophagist, Obscura, Alkaloid, and Blotted Science — his playing is compositionally structured, harmonically aware, and rhythmically sophisticated in ways that go beyond technical metal's typical focus on speed and endurance.
+Hannes Grossmann (born September 8, 1982, in Bayreuth, Germany) represents a different kind of extreme metal drummer: one whose primary influence isn't other metal drummers but classical percussion and jazz. This background is audible on every recording he has made with Necrophagist, Obscura, Hate Eternal, Alkaloid, and Blotted Science — his playing is compositionally structured, harmonically aware, and rhythmically sophisticated in ways that go beyond technical metal's typical focus on speed and endurance.
 
 Grossmann first gained international attention as the drummer for Necrophagist on Epitaph (2004), widely considered one of the most technically demanding recordings in death metal. His ability to maintain perfect timing through complex polyrhythmic passages at extreme tempos while contributing musical architecture to the arrangements established him as technically elite. But it was with Obscura — particularly Cosmogenesis (2009) and Omnivium (2011) — that his full range emerged: incorporating jazz phrasing, classical counterpoint thinking, and progressive rock dynamics into technical death metal.
 
@@ -15,14 +15,14 @@ What sets Grossmann apart from other technical drummers is his open-handed techn
 
 ## Kit Setup
 
-Hannes plays **DW Collectors Series** drums with Meinl Byzance cymbals:
+For this Necrophagist/Obscura era, Hannes played a **Tama Starclassic Maple** kit with Meinl Byzance cymbals:
 
 - **Kick Drums:** 22" x 18" (x2) — double kick for symmetrical two-footed patterns
-- **Snare:** 14" x 5.5" DW Collectors Maple (bright, articulate crack)
+- **Snare:** 14" x 6" Tama S.L.P. G-Maple (bright, articulate crack)
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 14", 16" x 16"
 - **Cymbals:** Meinl Byzance Series — 14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride, 10" Byzance Splash
-- **Pedals:** DW 9000 Series Double Pedal (adjustable cam for precise feel tuning)
+- **Pedals:** Tama Iron Cobra Double Pedal (chain-drive, smooth consistent response)
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans EQ3 Clear (kick), Remo Emperor Coated (snare), Evans G2 Clear (toms), Evans G1 Clear (resonant)
 
@@ -51,10 +51,10 @@ Grossmann uses **open-handed matched grip** as his primary technique — left ha
 
 | Item | Hannes' Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | DW Collectors Series (22" kicks) | DW Performance Series (~$1,800) |
-| Snare | DW Collectors 14" x 5.5" Maple | DW Performance Maple 14" x 5.5" |
+| Drum Kit | Tama Starclassic Maple (22" kicks) | Tama Superstar Classic (~$1,800) |
+| Snare | Tama S.L.P. G-Maple 14" x 6" | Tama Starclassic Maple 14" x 5.5" |
 | Cymbals | Meinl Byzance Series | Meinl HCS Bronze or Classics Custom (~$300) |
-| Double Pedal | DW 9000 Series Double Pedal | DW 5002 Double Pedal (~$200) |
+| Double Pedal | Tama Iron Cobra Double Pedal | Tama Iron Cobra 900 (~$200) |
 | Sticks | Vic Firth 5B | Vater 5B |
 | Kick Head | Evans EQ3 Clear | Evans EMAD2 |
 
@@ -72,7 +72,7 @@ Grossmann uses **open-handed matched grip** as his primary technique — left ha
 ## FAQ
 
 **Q: What drum kit does Hannes Grossmann play?**  
-A: Hannes Grossmann plays DW Collectors Series — DW's flagship production shell line with custom-built North American maple shells. His configuration uses double 22" x 18" kick drums, 10" and 12" rack toms, 14" and 16" floor toms, and a DW Collectors 14" x 5.5" maple snare. The Collectors' precision construction provides the articulate attack his complex polyrhythmic arrangements require.
+A: During the Necrophagist/Obscura era, Hannes Grossmann played a Tama Starclassic Maple — an all-maple shell pack built for precise attack and controlled sustain. His configuration used double 22" x 18" kick drums, 10" and 12" rack toms, 14" and 16" floor toms, and a Tama S.L.P. G-Maple 14" x 6" snare. The Starclassic's articulate response suited the dense arrangements of Epitaph, Cosmogenesis, and Omnivium. He switched to a DW kit in 2014 while co-founding Alkaloid.
 
 **Q: What cymbals does Hannes Grossmann play?**  
 A: Grossmann plays Meinl Byzance Series cymbals. His setup includes 14" Byzance Traditional Hi-Hats, 18" and 19" Byzance Brilliant Crashes, a 21" Byzance Traditional Ride, and a 10" Byzance Splash. The Byzance series' hand-hammered B20 bronze produces warm, harmonically complex sound that integrates naturally in Obscura's and Alkaloid's dense progressive arrangements.

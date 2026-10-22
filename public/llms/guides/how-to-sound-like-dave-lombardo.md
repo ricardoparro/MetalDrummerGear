@@ -14,7 +14,7 @@ Dave Lombardo didn't just play drums for Slayer — he rewrote the rules of meta
 Dave uses **Tama Starclassic Walnut/Birch** drums with a custom hybrid shell configuration chosen for attack and projection:
 
 - **Kick Drums:** 22" x 18" (x2) with DW 9000 Series Double Pedal
-- **Snare:** 14" x 6.5" Dave Lombardo Signature Snare (aluminum shell for brightness)
+- **Snare:** 14" x 6.5" Tama S.L.P. G-Maple (maple shell for warmth and attack)
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 14", 16" x 16"
 - **Cymbals:** Paiste RUDE Series — designed to be heard over extreme metal, loud and aggressive
@@ -27,7 +27,7 @@ Dave uses **Tama Starclassic Walnut/Birch** drums with a custom hybrid shell con
 Dave tunes for attack and definition — every note in his double bass patterns must be heard:
 
 - **Kick:** Medium-tight tension with moderate muffling (pillow or felt strip). Punchy attack with defined note for double bass clarity. Not boomy — every note of fast double bass patterns needs to register.
-- **Snare:** High tension for maximum crack and cut. Aluminum shell adds natural brightness. Minimal muffling — one Moongel maximum. High tuning for projection and articulation.
+- **Snare:** High tension for maximum crack and cut. Maple shell adds warmth and attack. Minimal muffling — one Moongel maximum. High tuning for projection and articulation.
 - **Toms:** Medium-high tension with one Moongel each. Attack and controlled sustain — tuned in intervals for melodic tom work. Quick decay helps fills stay defined.
 
 ## Technique Tips
@@ -47,7 +47,7 @@ Dave uses **matched grip** with emphasis on wrist control for his legendary spee
 | Item | Dave's Spec | Budget Alternative |
 |------|-------------|-------------------|
 | Drum Kit | Tama Starclassic Walnut/Birch | Tama Imperialstar (~$600) |
-| Snare | Dave Lombardo Signature Snare 14" x 6.5" (Aluminum) | Tama SLP Aluminum or Ludwig Supraphonic |
+| Snare | Tama S.L.P. G-Maple 14" x 6.5" (Maple) | Tama SLP Aluminum or Ludwig Supraphonic |
 | Cymbals | Paiste RUDE Series | Paiste PST 5 Pack (~$250) |
 | Double Pedal | DW 9000 Series | Tama Iron Cobra 200 Double (~$150) |
 | Sticks | Zildjian Dave Lombardo Signature | Vic Firth 5A |
@@ -78,7 +78,7 @@ A: Dave isn't necessarily the fastest, but he pioneered double bass in thrash me
 A: Dave primarily uses heel-up technique with ankle motion for speed, allowing quick recovery and consistent power. The ankle motion (rather than leg motion) gives him the fast, controlled response needed for sustained double bass patterns at thrash tempos.
 
 **Q: What Paiste cymbals does Dave Lombardo use?**  
-A: Dave uses Paiste RUDE Series cymbals throughout his setup — 14" RUDE Hi-Hats, 18" and 19" RUDE Crash/Ride, and 18" RUDE China. The RUDE series is designed for loud, aggressive playing and provides the cutting, trashy sound essential to Slayer's sonic identity.
+A: Dave uses a 22" Paiste Reign Power Ride, 15" Sound Edge Hi-Hats, 18" and 19" RUDE Crash cymbals, and an 18" RUDE China. The RUDE series is designed for loud, aggressive playing and provides the cutting, trashy sound essential to Slayer's sonic identity.
 
 ---
 

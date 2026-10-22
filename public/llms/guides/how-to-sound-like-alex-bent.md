@@ -13,14 +13,14 @@ What separates Bent from a pure technical death metal drummer is restraint. He c
 
 ## Kit Setup
 
-Bent plays a **Pearl Reference Series** kit with a maple/birch hybrid shell in matte black:
+Bent plays a **TAMA Starclassic Maple** kit in matte black:
 
 - **Kick Drum:** 22" x 18" Bass Drums (double kick)
-- **Snare:** 14" x 6.5" Pearl Reference Maple/Birch
-- **Rack Toms:** 10" x 8", 12" x 9"
-- **Floor Toms:** 16" x 16"
-- **Cymbals:** Meinl Byzance Brilliant Series — 14" Medium Hi-Hats, 16"/18"/19" Medium Thin Crashes, 21" Medium Ride, 18" China
-- **Pedals:** Axis Percussion Double Pedal
+- **Snare:** 14" x 6.5" TAMA Starclassic Maple Snare
+- **Rack Toms:** 8" x 7", 10" x 8", 12" x 9"
+- **Floor Toms:** 16" x 16", 18" x 16"
+- **Cymbals:** Zildjian K Custom Hybrid — 14" Hi-Hats, 16"/18"/19" Crashes, 21" Ride, 18" China
+- **Pedals:** Axis A Longboard Double Pedal (Axis endorsement since 2021)
 - **Sticks:** Vic Firth 5B
 - **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
 
@@ -29,7 +29,7 @@ Bent plays a **Pearl Reference Series** kit with a maple/birch hybrid shell in m
 Bent tunes for clarity and articulation so every note in his fast, technical passages stays audible:
 
 - **Kick:** Medium-tight tension with foam pad and port hole for a clicky, defined attack that stays articulate during blast beats.
-- **Snare:** Medium-high tension, light muffling. The hybrid shell delivers a full, cutting crack without choking its natural resonance.
+- **Snare:** Medium-high tension, light muffling. The maple shell delivers a full, cutting crack without choking its natural resonance.
 - **Toms:** Medium-high tension, one Moongel per tom, tuned roughly a third apart for quick, focused decay on fast fills.
 
 ## Technique Tips
@@ -48,14 +48,14 @@ Bent plays **matched grip** with a compact, controlled stroke honed in technical
 
 | Item | Bent's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Pearl Reference Series Maple/Birch | Pearl Export or Pearl Decade Maple (~$700) |
-| Snare | Pearl Reference 14" x 6.5" | Pearl Masters Maple/Birch or Tama Starclassic Bubinga |
-| Cymbals | Meinl Byzance Brilliant Series | Meinl HCS Pack (~$200) |
-| Pedal | Axis Percussion Double | Tama Speed Cobra or DW 5000 |
+| Drum Kit | TAMA Starclassic Maple | TAMA Imperialstar (~$700) |
+| Snare | TAMA Starclassic Maple 14" x 6.5" | TAMA Superstar Maple or Tama Starclassic Bubinga |
+| Cymbals | Zildjian K Custom Hybrid | Zildjian ZBT Pack (~$200) |
+| Pedal | Axis A Longboard Double Pedal | Tama Speed Cobra or DW 5000 |
 | Sticks | Vic Firth 5B | Promark 5B or Vater Fusion |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EMAD Coated |
 
-**Starter budget path (~$1,000):** Pearl Export + Meinl HCS pack + Pearl P930 double pedal. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/meinl](https://metalforge.io/brands/meinl).
+**Starter budget path (~$1,000):** TAMA Imperialstar + Zildjian ZBT Pack + TAMA Speed Cobra double pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
 
 ## Practice Routine
 
@@ -71,7 +71,7 @@ Bent plays **matched grip** with a compact, controlled stroke honed in technical
 A: Alex Bent was Trivium's drummer from 2017 to 2025, recording four studio albums: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), "In the Court of the Dragon" (2021), and "Struck Dead" (2025).
 
 **Q: What gear does Alex Bent use?**  
-A: Bent plays a Pearl Reference Series kit with a 14" x 6.5" maple/birch snare, Meinl Byzance Brilliant Series cymbals, an Axis Percussion double pedal, and Vic Firth 5B sticks.
+A: Bent plays a TAMA Starclassic Maple kit with a 14" x 6.5" maple snare, Zildjian K Custom Hybrid cymbals, an Axis A Longboard double pedal (endorsed since 2021; his earlier 2017-2021 Trivium years predate this deal), and Vic Firth 5B sticks.
 
 **Q: What was Alex Bent's background before Trivium?**  
 A: Bent built his reputation in technical death metal with Brain Drill, Arkaik, and Battlecross, and filled in for Gene Hoglan on Testament tour dates. Producer Mark Lewis recommended him to Trivium in 2017.

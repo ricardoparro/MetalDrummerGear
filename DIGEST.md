@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-21 19:13 UTC · Window: last 12h*
+*Generated 2026-10-22 08:21 UTC · Window: last 12h*
 
 ---
 
@@ -8,27 +8,27 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **28** |
+| Open `ai-fix` issues | **20** |
 | Open `seo-proposal` issues | 12 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 3 |
+| Open PRs | 0 |
 | PRs merged in window | **16** |
 | Issues closed in window | 16 |
-| Commits to `main` in window | 21 |
+| Commits to `main` in window | 20 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **464** |
-| Sessions | 525 |
-| Page views | 711 |
-| Engagement rate | 60.38% |
-| GSC impressions | 20,184 |
-| GSC clicks | 253 |
-| GSC CTR | 1.25% |
-| GSC avg position | 8.7 |
+| Active users | **432** |
+| Sessions | 493 |
+| Page views | 649 |
+| Engagement rate | 58.82% |
+| GSC impressions | 16,971 |
+| GSC clicks | 203 |
+| GSC CTR | 1.20% |
+| GSC avg position | 8.8 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~3,047 |
-| Est. ad revenue / mo | **~€9.14** |
-| Progress to €1000/mo | 0.9% |
-| Pageviews/mo needed for €1000 | ~333,333 (109× current) |
+| Est. pageviews / mo | ~2,781 |
+| Est. ad revenue / mo | **~€8.34** |
+| Progress to €1000/mo | 0.8% |
+| Pageviews/mo needed for €1000 | ~333,333 (120× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -65,69 +65,68 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Mikkey Dee — 63º aniversário | 10d | _awaiting scanner run_ |
-| Chris Adler — 54º aniversário | 33d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 37d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 66d | _awaiting scanner run_ |
+| Mikkey Dee — 63º aniversário | 9d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 32d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 36d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 65d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 53 | 52 | 0 |
-| .github/workflows/check-vercel-rewrites.yml | 14 | 0 | 14 |
-| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
-| Health Check | 4 | 4 | 0 |
-| Verify YouTube Videos | 3 | 1 | 2 |
-| Verify Data Modules | 3 | 1 | 2 |
-| Daily Digest | 2 | 1 | 0 |
-| Loop Watchdog | 2 | 2 | 0 |
-| SEO Agent | 2 | 1 | 0 |
-| CEO Agent | 2 | 2 | 0 |
-| Verify API Modules | 2 | 1 | 1 |
-| Check llms freshness | 2 | 0 | 2 |
-| Perf Budget Gate | 2 | 0 | 2 |
-| Check Sitemap Drift | 2 | 0 | 2 |
-| Roadie Night Fleet | 1 | 0 | 0 |
-| X Agent | 1 | 1 | 0 |
+| PR Merger | 33 | 33 | 0 |
+| .github/workflows/check-vercel-rewrites.yml | 19 | 0 | 19 |
+| Verify YouTube Videos | 11 | 7 | 4 |
+| Verify Data Modules | 10 | 6 | 4 |
+| Check Sitemap Drift | 10 | 0 | 10 |
+| Check llms freshness | 5 | 0 | 5 |
+| Perf Budget Gate | 4 | 0 | 4 |
+| Daily Digest | 1 | 0 | 0 |
+| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
+| Loop Watchdog | 1 | 1 | 0 |
+| SEO Agent | 1 | 1 | 0 |
+| Prune Proposals | 1 | 1 | 0 |
+| Health Check | 1 | 1 | 0 |
+| CEO Agent | 1 | 1 | 0 |
+| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-10-22 00:33 (cheap pulse — 8/8 proposals verified+promoted, #9487-9492/9494-9495)
 - 2026-10-21 00:27 (cheap pulse — 7/7 proposals verified+promoted, #9417-9423)
-- 2026-10-20 12:16 (daily deep run — 7/7 proposals verified+promoted, #9386-9392)
-- 2026-10-20 00:28 (cheap pulse — 8/8 proposals verified+promoted, #9356-9366)
-- 2026-10-20 06:18 (cheap pulse — 8/8 proposals verified+promoted, #9370-9377)
-- 2026-10-20 18:14 (afternoon pulse — 8/8 proposals verified+promoted, #9401-9408)
 - 2026-10-21 06:18 (cheap pulse — 8/8 proposals verified+promoted, #9433-9441)
+- 2026-10-21 12:16 (mid-day pulse — 8/8 proposals verified+promoted, #9449-9456)
+- 2026-10-21 18:14 (afternoon pulse — 8/8 proposals verified+promoted, #9465-9472)
+- 2026-10-22 06:18 (early pulse — 8/8 proposals verified+promoted, #9499-9506)
 
 ## 📦 Shipped to main (16)
 
-- #9482 fix: #9456 SEO: Paul Bostaph llms mirror public/llms/guides/how-to-sound-like-paul-bostaph.md has wrong birthplace + fabricates a 2024 Testament reunion already disproven in #9271
-- #9481 fix: #9455 SEO: Pete Sandoval llms mirror public/llms/guides/how-to-sound-like-pete-sandoval.md fabricates specific Remo head models — verified only 'Pinstripe or Emperor' hedge
-- #9480 fix: #9454 SEO: Ryan Van Poederooyen llms mirror public/llms/guides/how-to-sound-like-ryan-van-poederooyen.md says tenure 'since 1999' + credits him on Empath (2019) — verified 2002-2018, no Empath
-- #9479 fix: #9453 SEO: Nicko McBrain llms mirror public/llms/guides/how-to-sound-like-nicko-mcbrain.md omits Dec 2024 touring retirement, implies he's still active
-- #9477 fix: #9452 SEO: Nick Menza llms mirror public/llms/guides/how-to-sound-like-nick-menza.md invents a Sonor/Zildjian/Evans rig — verified final-era Pearl Reference Custom/Sabian/Remo
-- #9476 fix: #9451 SEO: Paul Mazurkiewicz llms mirror public/llms/guides/how-to-sound-like-paul-mazurkiewicz.md fabricates cymbal brand (Sabian vs Meinl) + pedal (Tama vs Pearl Eliminator)
-- #9475 fix: #9450 SEO: Scott Travis llms mirror public/llms/guides/how-to-sound-like-scott-travis.md has cross-contaminated birthdate/birthplace + wrong cymbal brand
-- #9473 fix: #9449 SEO: Matt Greiner llms mirror public/llms/guides/how-to-sound-like-matt-greiner.md fabricates entire gear brand lineup (#1 GA4 page this week)
-- #9464 fix: #9441 SEO: Matt Halpern cymbal/snare 'verified' fields in api/drummers/index.js contradict prior sourced investigations (#6377/#7716) + extendedBios.js's own unverified-snare hedge
-- #9463 fix: #9440 SEO: Travis Orbin soundLikeGuides.js — snare shell material contradicts verified Maple (says Steel)
-- #9462 fix: #9439 SEO: Dave Lombardo soundLikeGuides.js — fabricated signature snare model/shell + wrong ride cymbal size/model
-- #9461 fix: #9437 SEO: Brann Dailor soundLikeGuides.js — fabricated Meinl Mb20/Mb8 cymbal series (verified Byzance) + wrong snare model
-- #9460 fix: #9436 SEO: Jay Weinberg soundLikeGuides.js — stale current-Slipknot framing (post-Suicidal Tendencies departure) + 3 fabricated gear fields
-- #9459 fix: #9435 SEO: Mike Mangini soundLikeGuides.js — entire guide frozen pre-2023 Dream Theater departure + 4 fabricated gear specs
-- #9458 fix: #9434 SEO: Matt Greiner soundLikeGuides.js — wrong stick tip shape + mislabeled pedal drive type (high-traffic page)
+- #9534 fix: #9506 SEO: Chris Adler llms mirror — fabricated Vic Firth sticks/Meinl Mb20/Mapex pedal (verified Promark TX5AXW signature/Byzance Dark-Transition/Trick Pro V)
+- #9533 fix: #9505 SEO: Daray llms mirror — Vader tenure still '2006-2016' + kit chronology backwards, gap #9127 explicitly flagged but its fix PR never touched this file
+- #9532 fix: #9503 SEO: Nick Augusto llms mirror — entire gear rig fabricated as Tama/Meinl/Promark, already fixed in soundLikeGuides.js by #6605 but never synced
+- #9531 fix: #9504 SEO: Flo Mounier llms mirror — fabricated Pearl/Remo rig, already fixed in soundLikeGuides.js by #8047/#8265 but never synced
+- #9529 fix: #9502 SEO: Morgan Ågren llms mirror — fabricated Meinl/DW cymbals+pedal + wrong snare depth, both already fixed in soundLikeGuides.js (#6575, #9407) but never synced
+- #9528 fix: #9501 SEO: Jay Weinberg llms mirror — frames him as current Slipknot member + fabricated Pearl/Sabian/Remo gear (verified Former Slipknot/Former Suicidal Tendencies, SJC/Zildjian/Vater/Evans)
+- #9527 fix: #9500 SEO: Mike Mangini llms mirror — fabricated Pearl→DW/Meinl/Vic Firth gear + omits 2023 DT exit/Godsmack move (verified Pearl/Sabian/Vater, tenure 2010-2023 + Godsmack 2026-present)
+- #9526 fix: #9499 SEO: Matt Garstka llms mirror — entire gear rig fabricated as Tama/Meinl/Vic Firth-5A (verified DW Collector's Series/Byzance Dual/signature SGAR sticks)
+- #9517 fix: #9491 SEO: George Kollias genreGearGuides.js — fabricated kit/cymbal/pedal brand across 13+ guide families (verified Pearl Masterworks / Zildjian A Custom / Pearl Demon XR)
+- #9514 fix: #9495 SEO: Bill Ward llms mirror — fabricated Ludwig kit model + wrong cymbal brand (verified Ludwig Standard/Club Date + Zildjian Avedis, not Paiste)
+- #9513 fix: #9494 SEO: Mikkey Dee llms mirror — fabricated Pearl/Paiste2002/DW/VicFirth gear (verified Sonor/Paiste Signature/DW5000/Wincent)
+- #9511 fix: #9492 SEO: Mike Portnoy llms mirror — fabricated Pearl/Meinl/Vater gear + wrong album count (verified Tama/Sabian/Promark, ten albums)
+- #9510 fix: #9490 SEO: Matt Halpern genreGearGuides.js — fabricated 'Pearl Eliminator' pedal across metalcore + djent pedal guides (verified Pearl Demon Drive)
+- #9509 fix: #9489 SEO: Matt Halpern genreGearGuides.js — fabricated 'Pearl Reference Pure' kit model across djent kit + bass-drum guides (verified Pearl Reference Series)
+- #9508 fix: #9488 SEO: Matt Halpern genreGearGuides.js — fabricated snare model/size across djent + metalcore snare guides (verified Pearl MH1460/B 14x6" brass)
 - _+1 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2004h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2100h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2277h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3362h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5792h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2017h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2113h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2290h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3375h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5805h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

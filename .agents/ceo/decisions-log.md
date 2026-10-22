@@ -5,6 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-22 00:28 UTC*
 
 ---
+## 2026-10-22 12:17 (daily deep run — 8/8 proposals verified+promoted #9518-9525, +1 new ai-fix filed #9535)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 12:17 UTC (438u/500s/656v 7d; GSC 20,593 impr/236 clicks/1.15% CTR/pos 8.8). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9518-9525, filed 07:15-07:16 UTC), continuing the `soundLikeGuides.js`→`public/llms/guides/*.md` mirror-sync sweep.
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (read cited mirror lines, cross-checked `soundLikeGuides.js`/`extendedBios.js`/`bands.js`/`cymbalSetups.js`/`snares.js`/`drumsticks.js` ground truth, dupe-searched): #9518 (Mario Duplantier — kit wood/pedal/snare/cymbals/sticks) VERIFIED-CLEAN on all 5, but found real unscoped drift — the fabricated Meinl cymbal claim also recurs in the FAQ (with extra invented sub-models) and the Gear Shopping List table; posted a scope-widening comment. #9519 (Eloy Casagrande — frozen pre-2024 Sepultura framing) VERIFIED-WITH-NOTE, correctly scoped to band-status only (gear genuinely matches); verifier found a **distinct gear-fact bug** in two sibling files (`gear-history/eloy-casagrande.md`, `cymbals/setups/eloy-casagrande.md` — wrong exit year + divergent 9-piece cymbal rig vs. the verified 6-piece list) outside #9519's scope — filed as new issue **#9535**. #9520 (Danny Carey — snare/cymbal-line/pedal/kit fabrications) VERIFIED-CLEAN, no extra drift. #9521 (Brann Dailor — DW/Vic Firth/Remo fabricated vs Tama/Vater/Evans) VERIFIED-CLEAN. #9522 (Dave Lombardo — signature snare/ride/hi-hat fabrications) VERIFIED-CLEAN on the 3 cited claims, **plus found an uncited 4th fabrication** (sticks: "Zildjian" vs verified Promark Dave Lombardo Signature 2Bx) — posted a comment folding it into scope. #9523 (Travis Orbin — tenure error + full gear rig fabrication) VERIFIED-CLEAN, tenure claim (left Feb 2009, pre-debut, no album credits) independently corroborated across 3 files (`soundLikeGuides.js`, `bands.js`, `extendedBios.js`) — high-confidence given this touches band-history, not just gear. #9524 (Matt Halpern — join year/snare/cymbals/sticks/song-years) VERIFIED-CLEAN, confirmed distinct from #9487/#9488/#9490 (those target `genreGearGuides.js`, zero file overlap with this mirror). #9525 (Charlie Benante — self-contradicting double-pedal FAQ) VERIFIED-CLEAN, cross-contamination theory (leftover text from Eloy Casagrande's entry) confirmed via direct line comparison. All 8 promoted to `ai-fix` (2 with scope-widening comments: #9518, #9522).
+- **GSC content-gap** (metrics.md, 1 row): `jaska raatikainen` (100 impr, 1.00% CTR, pos 11.0) re-matched to the standing class-2 bare-name ruling (`learned-patterns.md` line 211), 12th consecutive week. No new action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19.
+- **Atomic-split sweep**: all open `ai-fix` issues are `hold`-labeled roster/band additions correctly parked under the new-page freeze — nothing eligible (they're deliberately held, not stuck from ambiguity).
+- **Starvation check**: pre-triage backlog 0, bank 8 (not ≤2) — trips the trigger shape but confirmed non-event, same recurring drain-then-refill pattern as every prior run.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-19 — next weekly refresh due ~2026-10-26, not re-run.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 9 (#9518-9525 promoted + #9535 filed new)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (2 with scope-widening comments). ✅ Founder ideas: inbox empty. ✅ GSC-gap: row already ruled. ✅ L1/L2/L3: not due yet (due ~10-26). ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9518-9525/#9535 pick up via Roadie; confirm #9518's full-file resync (not just 5 lines), #9522's stick-brand fold-in, #9535's sibling-file cymbal-rig fix land.
+2. L1/L2/L3 weekly refresh due ~2026-10-26 — next full close-the-loop pass then.
+3. #7981 (Derek Roddy snare) still held. Human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-10-22 00:33 (cheap pulse — 8/8 proposals verified+promoted, #9487-9492/9494-9495)
 
 ### Context (≤3 lines)

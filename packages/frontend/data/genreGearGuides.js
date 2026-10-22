@@ -64735,7 +64735,7 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
     // SEO metadata
     title: "Best Snare Drums for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Djent 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for djent drumming: what Tomas Haake (Sonor Tomas Haake Signature), Matt Halpern (Pearl Reference Pure), Matt Garstka (DW Collector's Series), and Blake Richardson (BTBAM kit snare) actually play. Crisp, cutting articulation for djent's palm-muted, polyrhythmic riffing — ranked budget to pro.",
+    description: "Best snare drums for djent drumming: what Tomas Haake (Sonor Tomas Haake Signature), Matt Halpern (Pearl Matt Halpern Signature, MH1460/B), Matt Garstka (DW Collector's Series), and Blake Richardson (BTBAM kit snare) actually play. Crisp, cutting articulation for djent's palm-muted, polyrhythmic riffing — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for djent',
       'djent snare drum',
@@ -64772,12 +64772,12 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
       title: "Why Djent Needs a Snare That Cuts Through Palm-Muted, Polyrhythmic Riffing",
       content: `Djent's signature palm-muted, chugging guitar tone — the genre's namesake onomatopoeia — creates a dense, mid-heavy wall of sound that swallows anything that isn't voiced to cut through it. Combined with the genre's love of odd-time polyrhythms and precisely placed accents, that means djent drummers need a snare built for crisp, immediate articulation rather than the deep, sustained tone other metal subgenres favor.
 
-Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, plays a Sonor Tomas Haake Signature 14x6.5" snare whose dry, cutting crack anchors the band's precision-locked, mathematically complex riffing on albums like "Nothing" and "obZen." Matt Halpern of Periphery plays a Pearl Reference Pure 14x5" snare, delivering the crisp, high-pitched articulation that slices through the band's dense, palm-muted prog-djent arrangements. Matt Garstka of Animals as Leaders brings that same cutting precision to instrumental djent, where the snare has to substitute for a vocalist's rhythmic emphasis. Blake Richardson of Between the Buried and Me rounds out the lineup with an expressive, articulate snare voice built for prog-djent's constantly shifting time signatures and dynamics.
+Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, plays a Sonor Tomas Haake Signature 14x6.5" snare whose dry, cutting crack anchors the band's precision-locked, mathematically complex riffing on albums like "Nothing" and "obZen." Matt Halpern of Periphery plays a Pearl Matt Halpern Signature snare (MH1460/B), 14x6" brass, delivering the cutting, focused articulation that slices through the band's dense, palm-muted prog-djent arrangements. Matt Garstka of Animals as Leaders brings that same cutting precision to instrumental djent, where the snare has to substitute for a vocalist's rhythmic emphasis. Blake Richardson of Between the Buried and Me rounds out the lineup with an expressive, articulate snare voice built for prog-djent's constantly shifting time signatures and dynamics.
 
 This guide breaks down shell depth, material, and tuning for djent snares — comparing crisp, cutting tone across four drummers whose lineages define the genre's polyrhythmic, palm-muted foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Tomas Haake's Sonor Tomas Haake Signature 14x6.5\" snare defines djent's founding, dry, cutting articulation with Meshuggah",
-        "Matt Halpern's Pearl Reference Pure 14x5\" snare slices through Periphery's dense, palm-muted arrangements",
+        "Matt Halpern's Pearl Matt Halpern Signature snare (MH1460/B), 14x6\" brass, slices through Periphery's dense, palm-muted arrangements",
         "Shallower shell depths (5\"-5.5\") dominate djent, favoring crisp attack over deep body",
         "Crisp, high-pitched articulation is essential for cutting through djent's palm-muted, mid-heavy guitar tone"
       ]
@@ -64790,7 +64790,7 @@ This guide breaks down shell depth, material, and tuning for djent snares — co
         {
           name: "Shallow Shell for Crisp Attack",
           icon: "📏",
-          description: "Matt Halpern's 14x5\" Pearl Reference Pure and similarly shallow shells favored across djent prioritize crisp, high-pitched attack over the deep body that doom or groove metal snares favor — essential for cutting through palm-muted riffing.",
+          description: "Matt Halpern's Pearl Matt Halpern Signature snare (MH1460/B), 14x6\" brass, and similarly shallow-to-mid-depth shells favored across djent prioritize crisp, cutting attack over the deep body that doom or groove metal snares favor — essential for cutting through palm-muted riffing.",
           recommendation: "14x5\"-5.5\" shallow shells for crisp, cutting attack over deep body"
         },
         {
@@ -64877,9 +64877,9 @@ The 14x6.5" dimensions give Haake enough crispness to cut through Meshuggah's do
           tier: "premium",
           material: "Maple (14x5\")",
 
-          description: `Matt Halpern's Pearl Reference Pure 14"x5" snare gives Periphery's dense, palm-muted prog-djent arrangements their crisp, high-pitched crack. The shallow 5" depth prioritizes immediate attack over sustained body — exactly what's needed to cut through the genre's heavy, mid-focused guitar tone.
+          description: `Matt Halpern's Pearl Matt Halpern Signature snare (MH1460/B), 14"x6" brass, gives Periphery's dense, palm-muted prog-djent arrangements their cutting, focused crack. The brass shell prioritizes focused attack and body — exactly what's needed to cut through the genre's heavy, mid-focused guitar tone.
 
-Halpern's setup proves that a shallow, precisely tuned maple shell can deliver enough cutting power for djent's densest arrangements without sacrificing the musicality Periphery's prog-leaning material demands.`,
+Halpern's setup proves that a precisely tuned brass shell can deliver enough cutting power for djent's densest arrangements without sacrificing the musicality Periphery's prog-leaning material demands.`,
 
           pros: [
             "Matt Halpern's Periphery setup — crisp, cutting articulation for dense prog-djent arrangements",
@@ -64901,7 +64901,7 @@ Halpern's setup proves that a shallow, precisely tuned maple shell can deliver e
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "14x5\" Pearl Reference Pure — prog-djent crisp, cutting precision" }
+            { name: "Matt Halpern", band: "Periphery", note: "Pearl Matt Halpern Signature snare (MH1460/B), 14x6\" brass — prog-djent cutting precision" }
           ],
           verdict: "Best for dense, palm-muted prog-djent arrangements. Halpern's shallow, crisp snare cuts through anything.",
           rating: 4.7,
@@ -65000,7 +65000,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
           priceRange: "€80-130",
           tier: "budget",
           material: "Maple",
-          description: "The Pearl Export maple snare carries the same crisp maple DNA as Halpern's professional Pearl Reference Pure snare at a fraction of the price. Tune it high and tight to get closer to djent's cutting, articulate sound.",
+          description: "The Pearl Export maple snare offers an affordable way to develop djent's crisp, cutting technique — the same discipline behind pro setups like Matt Halpern's Pearl Matt Halpern Signature snare (MH1460/B, brass) — at a fraction of the price. Tune it high and tight to get closer to djent's cutting, articulate sound.",
           pros: ["Same Pearl maple DNA as pro djent snares", "Affordable, widely available entry point", "Responsive enough to develop crisp tuning technique"],
           cons: ["Less refined projection than Reference-series shells", "Basic hardware compared to signature models"],
           verdict: "Best budget entry into djent's crisp, cutting Pearl maple sound.",
@@ -65107,7 +65107,7 @@ Matt Garstka's current setup is DW Collector's Series custom shop drums (since 2
     faq: [
       {
         question: "Who are the best djent drummers and what snares do they use?",
-        answer: "Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, plays a Sonor Tomas Haake Signature 14x6.5\" snare. Matt Halpern of Periphery plays a Pearl Reference Pure 14x5\" snare, and Matt Garstka of Animals as Leaders has played a DW Collector's Series custom shop kit since 2021 (no standalone snare spec is publicly documented for it)."
+        answer: "Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, plays a Sonor Tomas Haake Signature 14x6.5\" snare. Matt Halpern of Periphery plays a Pearl Matt Halpern Signature snare (MH1460/B), 14x6\" brass, and Matt Garstka of Animals as Leaders has played a DW Collector's Series custom shop kit since 2021 (no standalone snare spec is publicly documented for it)."
       },
       {
         question: "What snare drum does Tomas Haake use?",
@@ -65115,7 +65115,7 @@ Matt Garstka's current setup is DW Collector's Series custom shop drums (since 2
       },
       {
         question: "What snare depth is best for djent?",
-        answer: "5\"-5.5\" shallow shells are the djent standard — Matt Halpern's Pearl Reference Pure sits at 14x5\" for maximum crisp attack, while Blake Richardson uses 14x5.5\" for a touch more body alongside the genre's essential cutting articulation. Tomas Haake's Sonor Tomas Haake Signature runs slightly deeper at 14x6.5\", proving depth alone doesn't dictate djent's crisp cut. (Matt Garstka's current DW Collector's Series kit doesn't have a publicly documented snare depth.)"
+        answer: "Djent drummers run a range of snare depths — Matt Halpern's Pearl Matt Halpern Signature snare (MH1460/B) sits at 14x6\" brass for cutting, focused attack, while Blake Richardson uses a shallower 14x5.5\" for a touch more crispness alongside the genre's essential cutting articulation. Tomas Haake's Sonor Tomas Haake Signature runs deepest at 14x6.5\", proving depth alone doesn't dictate djent's crisp cut. (Matt Garstka's current DW Collector's Series kit doesn't have a publicly documented snare depth.)"
       },
       {
         question: "Why does djent need a crisper snare than other metal genres?",
@@ -65130,7 +65130,7 @@ Matt Garstka's current setup is DW Collector's Series custom shop drums (since 2
     // Conclusion
     conclusion: {
       title: "Find Your Djent Snare Voice",
-      content: `Djent snare choice comes down to how crisp and immediate you need your articulation to cut through palm-muted riffing. Tomas Haake's dry, Sonor signature snare defined the genre's founding polyrhythmic template with Meshuggah. Matt Halpern's ultra-shallow Pearl Reference Pure proved that maximum crisp cut can carry Periphery's densest prog-djent arrangements. Matt Garstka's current DW Collector's Series kit shows how a djent snare can carry an entire band's rhythmic phrasing without a vocalist, while Blake Richardson's setup demonstrates the dynamic flexibility needed for prog-djent's genre-blending ambition.
+      content: `Djent snare choice comes down to how crisp and immediate you need your articulation to cut through palm-muted riffing. Tomas Haake's dry, Sonor signature snare defined the genre's founding polyrhythmic template with Meshuggah. Matt Halpern's Pearl Matt Halpern Signature brass snare (MH1460/B) proved that cutting, focused tone can carry Periphery's densest prog-djent arrangements. Matt Garstka's current DW Collector's Series kit shows how a djent snare can carry an entire band's rhythmic phrasing without a vocalist, while Blake Richardson's setup demonstrates the dynamic flexibility needed for prog-djent's genre-blending ambition.
 
 None of these approaches is more "correct" — all four represent djent's foundational commitment to crisp, cutting articulation that carves through palm-muted, mid-heavy guitar tone. Start with whichever depth and material matches your material's density, and don't be afraid to tune tighter and higher than other metal subgenres would suggest.
 
@@ -77683,7 +77683,7 @@ Start with one splash matched to whichever side of deathcore's structure your ma
     // SEO metadata
     title: "Best Snare Drums for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Metalcore 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for metalcore drumming: what Matt Greiner (Pearl Signature Steel, 2011-2016 era), Matt Halpern (Pearl Reference Brass), and Alex Bent (Tama Starclassic Maple) played. Cutting attack for breakdowns and syncopated riffing — ranked budget to pro.",
+    description: "Best snare drums for metalcore drumming: what Matt Greiner (Pearl Signature Steel, 2011-2016 era), Matt Halpern (Pearl Matt Halpern Signature, MH1460/B), and Alex Bent (Tama Starclassic Maple) played. Cutting attack for breakdowns and syncopated riffing — ranked budget to pro.",
     seoKeywords: [
       'best snare drum for metalcore',
       'metalcore snare drum',
@@ -77719,7 +77719,7 @@ Start with one splash matched to whichever side of deathcore's structure your ma
       title: "Why Metalcore Needs a Cutting, Articulate Snare",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's snare choice has to serve both at once. A snare that's too dark or damp gets swallowed by palm-muted breakdown chugs, while a snare that's too thin loses the punch needed to land a crushing half-time hit. Metalcore drummers instead reach for bright, cutting shells that stay articulate through complex time signature changes and still deliver real crack when the breakdown hits.
 
-Matt Greiner of August Burns Red played a Pearl signature steel snare during his 2011-2016 Pearl Reference Pure era, its steel shell giving the sharp, cutting attack behind the band's Grammy-nominated, jazz-influenced technical metalcore; Greiner's current kit is a Mapex Black Panther Design Lab setup (since 2016). Matt Halpern of Periphery drives the djent-metalcore hybrid on a Pearl Reference 14x6.5" Brass snare, chosen for cutting, focused crack that sits precisely within downtuned guitar layers. Alex Bent, who brought technical death metal precision to Trivium's thrash-meets-metalcore sound, plays a Tama Starclassic Maple 14x5" snare, its maple shell giving a warm, full-bodied crack at a shallower depth built for speed.
+Matt Greiner of August Burns Red played a Pearl signature steel snare during his 2011-2016 Pearl Reference Pure era, its steel shell giving the sharp, cutting attack behind the band's Grammy-nominated, jazz-influenced technical metalcore; Greiner's current kit is a Mapex Black Panther Design Lab setup (since 2016). Matt Halpern of Periphery drives the djent-metalcore hybrid on a Pearl Matt Halpern Signature snare (MH1460/B), 14x6" brass, chosen for cutting, focused crack that sits precisely within downtuned guitar layers. Alex Bent, who brought technical death metal precision to Trivium's thrash-meets-metalcore sound, plays a Tama Starclassic Maple 14x5" snare, its maple shell giving a warm, full-bodied crack at a shallower depth built for speed.
 
 This guide breaks down shell material, depth, and tuning for metalcore snares — comparing three drummers whose setups define the genre's cutting, articulate standard, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -77827,9 +77827,9 @@ Greiner switched his drum endorsement to Mapex in 2016, and his current kit is a
           tier: "pro",
           material: "Brass (14x6.5\")",
 
-          description: `Matt Halpern's Pearl Reference Brass snare delivers the cutting, focused crack that sits precisely within Periphery's dense, downtuned guitar layers on albums like "Periphery II," "Juggernaut," and "Hail Stan." As one of djent-metalcore's key architects, Halpern's deep 6.5" shell adds real body for the genre's breakdown-heavy sections.
+          description: `Matt Halpern's Pearl Matt Halpern Signature snare (MH1460/B), 14x6" brass, delivers the cutting, focused crack that sits precisely within Periphery's dense, downtuned guitar layers on albums like "Periphery II," "Juggernaut," and "Hail Stan." As one of djent-metalcore's key architects, Halpern's brass shell adds real body for the genre's breakdown-heavy sections.
 
-The Reference Series brass shell balances warmth and cut, giving Halpern's odd-time grooves and polyrhythmic fills the clarity they need without sacrificing the punch metalcore's breakdowns demand.`,
+The brass shell balances warmth and cut, giving Halpern's odd-time grooves and polyrhythmic fills the clarity they need without sacrificing the punch metalcore's breakdowns demand.`,
 
           pros: [
             "Matt Halpern's Periphery setup — a djent-metalcore architect's proven snare",
@@ -77851,7 +77851,7 @@ The Reference Series brass shell balances warmth and cut, giving Halpern's odd-t
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "14x6.5\" Pearl Reference Brass — djent-metalcore's cutting, articulate standard" }
+            { name: "Matt Halpern", band: "Periphery", note: "Pearl Matt Halpern Signature snare (MH1460/B), 14x6\" brass — djent-metalcore's cutting, articulate standard" }
           ],
           verdict: "Best for technical, polyrhythmic metalcore. Halpern's deep brass shell balances crack and articulation.",
           rating: 4.6,
@@ -77976,7 +77976,7 @@ For metalcore drummers who prioritize speed and technical precision over maximum
         },
         {
           category: "Best for Djent-Metalcore",
-          pedal: "Pearl Reference Brass (14x6.5\")",
+          pedal: "Pearl Matt Halpern Signature (MH1460/B), 14x6\" Brass",
           reason: "Matt Halpern's Periphery setup — balanced crack and polyrhythmic articulation."
         },
         {
@@ -77995,14 +77995,14 @@ For metalcore drummers who prioritize speed and technical precision over maximum
     ],
     relatedDrummers: [
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl Signature Steel (2011-2016 era); current kit is Mapex Black Panther Design Lab — August Burns Red\'s cutting, technical metalcore standard' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Brass — Periphery\'s djent-metalcore articulation' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Matt Halpern Signature (MH1460/B) — Periphery\'s djent-metalcore articulation' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Tama Starclassic Maple — Trivium\'s fast, technical metalcore attack' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl Signature Steel (2011-2016 era); current kit is Mapex Black Panther Design Lab — August Burns Red\'s cutting, technical metalcore standard' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Brass — Periphery\'s djent-metalcore articulation' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Matt Halpern Signature (MH1460/B) — Periphery\'s djent-metalcore articulation' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Tama Starclassic Maple — Trivium\'s fast, technical metalcore attack' }
     ],
 
@@ -78010,7 +78010,7 @@ For metalcore drummers who prioritize speed and technical precision over maximum
     faq: [
       {
         question: "Who are the best metalcore drummers and what snares do they use?",
-        answer: "Matt Greiner of August Burns Red currently plays a Mapex Black Panther Design Lab kit (since 2016); Pearl previously released a Matt Greiner signature steel snare during his 2011-2016 Pearl Reference Pure era. Matt Halpern of Periphery plays a Pearl Reference 14x6.5\" Brass snare, and Alex Bent of Trivium plays a Tama Starclassic Maple 14x5\" snare."
+        answer: "Matt Greiner of August Burns Red currently plays a Mapex Black Panther Design Lab kit (since 2016); Pearl previously released a Matt Greiner signature steel snare during his 2011-2016 Pearl Reference Pure era. Matt Halpern of Periphery plays a Pearl Matt Halpern Signature snare (MH1460/B), 14x6\" brass, and Alex Bent of Trivium plays a Tama Starclassic Maple 14x5\" snare."
       },
       {
         question: "What snare drum does Matt Greiner use?",
@@ -78033,7 +78033,7 @@ For metalcore drummers who prioritize speed and technical precision over maximum
     // Conclusion
     conclusion: {
       title: "Find Your Metalcore Snare Voice",
-      content: `Metalcore snare choice comes down to how much crack and brightness your riffs and breakdowns demand. Matt Greiner's Pearl signature steel snare defined the genre's cutting, technical standard during his 2011-2016 Pearl era, anchoring August Burns Red's Grammy-nominated catalog — his current kit is Mapex Black Panther Design Lab. Matt Halpern's Pearl Reference Brass shows how djent-metalcore's polyrhythmic complexity demands both body and articulation, while Alex Bent's shallower Tama Starclassic Maple demonstrates how technical death metal precision can sharpen metalcore's speed.
+      content: `Metalcore snare choice comes down to how much crack and brightness your riffs and breakdowns demand. Matt Greiner's Pearl signature steel snare defined the genre's cutting, technical standard during his 2011-2016 Pearl era, anchoring August Burns Red's Grammy-nominated catalog — his current kit is Mapex Black Panther Design Lab. Matt Halpern's Pearl Matt Halpern Signature brass snare (MH1460/B) shows how djent-metalcore's polyrhythmic complexity demands both body and articulation, while Alex Bent's shallower Tama Starclassic Maple demonstrates how technical death metal precision can sharpen metalcore's speed.
 
 None of these approaches is more "correct" — all three represent metalcore's founding commitment to cutting through dense, downtuned arrangements while staying articulate through syncopation. Start with whichever shell material and depth matches your material's balance of speed versus breakdown weight.
 

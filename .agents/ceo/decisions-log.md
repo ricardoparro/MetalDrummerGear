@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-22 00:28 UTC*
 
 ---
+## 2026-10-22 18:14 (cheap pulse — 6/6 proposals verified+promoted #9536-9541, +1 companion ai-fix filed #9551)
+
+### Context (≤3 lines)
+Cheap pulse between mid-day (12:17 deep run) and the 19:00 UTC evening-review window. Metrics 18:13 UTC (447u/509s/668v 7d; GSC 20,593 impr/236 clicks/1.15% CTR/pos 8.8). At run start: eligible `ai-fix` backlog **0** (Roadie cleared #9518-9525/#9535 already), 0 open PRs, 6 fresh untriaged `seo-proposal` (#9536-9541, filed 13:10-13:12 UTC), continuing the `soundLikeGuides.js`→`public/llms/guides/*.md` mirror-sync sweep plus one "missing mirror file" proposal.
+
+### Actions taken
+- **Live-verified all 6 via 6 parallel subagents** (cited lines vs `soundLikeGuides.js`/`bands.js`/`extendedBios.js`/`drummerEvolution.js`/`endorsementNews.js`/etc. ground truth, dupe-search): #9536 (Blake Richardson — stale pre-2018 DW/Meinl rig vs verified Tama/Sabian since 2018) VERIFIED-CLEAN. #9537 (Aquiles Priester — fabricated 2023 Angra return + wrong birthdate + misattributed *Aqua* 2010 credit) VERIFIED-WITH-NOTE — confirmed accurate, but verifier found the **same 2023-Angra-return fabrication independently present** in `extendedBios.js` and `drummerEvolution.js` (outside #9537's scope, which only covers the `.md` mirror) — filed as new issue **#9551**. #9538 (Alex Bent — fabricated Pearl/Meinl rig vs verified Tama/Zildjian/Axis A Longboard) VERIFIED-WITH-NOTE — flagged a pre-existing snare-dimension conflict between `soundLikeGuides.js` (14"x6.5") and `snares.js` (14"x5"); told implementer to match `soundLikeGuides.js`'s own value since that's the direct mirror source. #9539 (Hannes Grossmann — post-2014 DW/Meinl gear wrongly shown for his pre-2014 Necrophagist/Obscura-era guide) VERIFIED-CLEAN, confirmed the era-scoping diagnosis and that cymbals/sticks/heads genuinely don't need changes. #9540 (Abe Cunningham — stale album count + fabricated snare/cymbal/pedal/heads, `.js` fixed by #9357 but mirror never synced) VERIFIED-WITH-NOTE — confirmed the nuance that the real snare fact is "no separate model publicly documented," not a swap to a different specific model. #9541 (5 `how-to-sound-like-*.md` mirror files never generated for existing roster drummers — 3rd attempt after #4644/#4990/#5061 all failed to actually create the files) VERIFIED-CLEAN + explicit **FREEZE-EXEMPT** ruling — these are existing roster drummers with existing live `.js` content; creating the missing static mirror is a sync fix, not new-page creation, with direct precedent in #4644. All 6 promoted to `ai-fix` (3 with implementer-note comments: #9537, #9538, #9540).
+- **Companion issue filed**: #9551 (`ai-fix`) — Priester's fabricated "2023 Angra return" persists in `extendedBios.js` (5 locations) and `drummerEvolution.js` (an entire fabricated 4th timeline era, `id: 'aquiles-priester-2023-angra-return'`, with invented albums/tours), contradicting `bands.js`'s authoritative record that Bruno Valverde has held Angra's drum chair continuously since 2014. Confirmed no prior closed issue (#9372/#9325/#9045) touched these two files for this specific fabrication.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: nothing open >3 days without hold/in-progress/pr-opened/blocked (promoted issues are same-day; the 20 open `hold`-labeled roster/band issues remain deliberately parked under the new-page freeze).
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-19 — next weekly refresh due ~2026-10-26, not re-run.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 7 (#9536-9541 promoted + #9551 filed new)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 6 fresh → 0
+
+### Quota check
+✅ SEO proposals: 6/6 triaged, live-verified, all promoted (3 with implementer notes, 1 companion issue filed). ✅ Founder ideas: inbox empty. ✅ GSC-gap: not re-checked this pulse (ruled at 12:17). ✅ L1/L2/L3: not due yet. ✅ Starvation: n/a, backlog healthy. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9536-9541/#9551 pick up via Roadie; confirm #9538's 14"x6.5" snare note, #9540's "no documented model" framing, and #9551's full-scope fix (extendedBios.js 5 locations + drummerEvolution.js era deletion/rescope) all land correctly.
+2. First run after 19:00 UTC is the evening review — review what shipped today, queue tomorrow's quotas.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-10-22 12:17 (daily deep run — 8/8 proposals verified+promoted #9518-9525, +1 new ai-fix filed #9535)
 
 ### Context (≤3 lines)

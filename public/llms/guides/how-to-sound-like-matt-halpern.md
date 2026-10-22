@@ -7,19 +7,19 @@
 
 ## Overview
 
-Matt Halpern helped define modern djent drumming. As Periphery's drummer since 2010, he's proven that technical metal can have deep pocket and genuine feel. While djent is often associated with mathematical precision, Matt brings musicality and groove that makes Periphery's complex music accessible and physical. His ghost notes, dynamic control, and pocket create grooves that make you move even in odd time signatures. Matt has also become one of metal's most influential drum educators, sharing his approach through clinics, online content, and his Drumeo partnerships. What separates Matt from other technical drummers is his prioritization of feel over flash — precision in service of groove, never the other way around.
+Matt Halpern helped define modern djent drumming. As Periphery's drummer since 2009, he's proven that technical metal can have deep pocket and genuine feel. While djent is often associated with mathematical precision, Matt brings musicality and groove that makes Periphery's complex music accessible and physical. His ghost notes, dynamic control, and pocket create grooves that make you move even in odd time signatures. Matt has also become one of metal's most influential drum educators, sharing his approach through clinics, online content, and his Drumeo partnerships. What separates Matt from other technical drummers is his prioritization of feel over flash — precision in service of groove, never the other way around.
 
 ## Kit Setup
 
 Matt uses **Pearl Reference Series** drums with maple/mahogany shells — chosen for punch, warmth, and versatility across Periphery's varied styles:
 
 - **Kick Drum:** 22" x 18" with Pearl Demon Drive Double Pedal
-- **Snare:** 14" x 5.5" Matt Halpern Signature Snare (birch/kapur shell designed for dynamic response)
+- **Snare:** Pearl Matt Halpern Signature (MH1460/B), 14" x 6", 1.5mm brass shell, black powder-coat finish
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 16"
-- **Cymbals:** Meinl Byzance Dual and Extra Dry Series — complex, dark characteristics suited to modern progressive metal
+- **Cymbals:** Meinl Byzance Traditional 14" Medium Hi-Hats, 18"/20" Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride (signature), Artist Concept "Double Down Stack" — complex, dark characteristics suited to modern progressive metal
 - **Pedals:** Pearl Demon Drive Double Pedal (direct-drive for precision and feel)
-- **Sticks:** Vic Firth Matt Halpern Signature (slightly longer with teardrop tip)
+- **Sticks:** Promark TXMHW Matt Halpern Signature (2B weight that plays like a 5B, hickory, wood tip)
 - **Heads:** Evans EMAD Onyx (kick), Evans HD Dry (snare), Evans EC2 Clear (toms), Evans G1 Clear (resonant)
 
 ## Tuning & Setup
@@ -40,17 +40,17 @@ Matt uses **matched grip** with emphasis on wrist control and finesse. He modifi
 - **Djent-Pocket Fusion (100–160 BPM, Advanced):** Matt's djent grooves have actual pocket — they make you want to move despite complexity. Practice the feel, not just the notes. Record yourself and listen for groove rather than just accuracy.
 - **Linear Patterns (Variable, Intermediate):** Matt often uses linear (no simultaneous hits) patterns creating sophisticated textures. Practice standard paradiddles applied to kit: R=crash, L=snare, feet=kick. Create variations.
 
-**Key songs to study:** *Marigold* (Marigold, 2014) · *Scarlet* (Periphery II, 2012) · *Lune* (Periphery II, 2012) · *Prayer Position* (Select Difficulty, 2015) · *Reptile* (Periphery IV, 2019)
+**Key songs to study:** *Marigold* (Periphery III: Select Difficulty, 2016) · *Scarlet* (Periphery II, 2012) · *Lune* (Periphery II, 2012) · *Prayer Position* (Periphery III: Select Difficulty, 2016) · *Reptile* (Periphery IV, 2019)
 
 ## Gear Shopping List
 
 | Item | Matt's Spec | Budget Alternative |
 |------|-------------|-------------------|
 | Drum Kit | Pearl Reference Series (Maple/Mahogany) | Pearl Export (~$650) |
-| Snare | Matt Halpern Signature Snare 14" x 5.5" (Birch/Kapur) | Pearl Sensitone or Reference snares |
-| Cymbals | Meinl Byzance Dual/Extra Dry | Meinl Classics Custom (~$250) |
+| Snare | Pearl Matt Halpern Signature (MH1460/B) 14" x 6" (1.5mm Brass) | Pearl Sensitone or Reference snares |
+| Cymbals | Meinl Byzance Traditional + Byzance Dark Double Down Crash-Ride | Meinl Classics Custom (~$250) |
 | Double Pedal | Pearl Demon Drive | Pearl P930 Double Pedal (~$130) |
-| Sticks | Vic Firth Matt Halpern Signature | Vic Firth 5A |
+| Sticks | Promark TXMHW Matt Halpern Signature | Promark FBH5AW Forward 5A |
 | Kick Head | Evans EMAD Onyx | Evans EMAD Clear |
 
 **Starter budget path (~$1,000):** Pearl Export + Meinl Classics Custom + Pearl double pedal. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/meinl](https://metalforge.io/brands/meinl).
@@ -66,7 +66,7 @@ Matt uses **matched grip** with emphasis on wrist control and finesse. He modifi
 ## FAQ
 
 **Q: What drums does Matt Halpern use?**  
-A: Matt Halpern plays Pearl Reference Series drums with maple/mahogany shells, featuring a Matt Halpern Signature Snare in birch/kapur. He uses Meinl Byzance Dual and Extra Dry cymbals and Pearl Demon Drive double pedals. Evans heads throughout — EMAD Onyx on kick, HD Dry on snare.
+A: Matt Halpern plays Pearl Reference Series drums with maple/mahogany shells, featuring his Pearl Matt Halpern Signature snare (MH1460/B, 14"x6" brass). He uses Meinl Byzance Traditional cymbals with his signature 21" Byzance Dark Double Down Crash-Ride and Pearl Demon Drive double pedals. Evans heads throughout — EMAD Onyx on kick, HD Dry on snare.
 
 **Q: How do I sound like Matt Halpern?**  
 A: Develop extreme dynamic contrast between ghost notes and accents — Matt's ghost notes can be 70-80% quieter than his backbeats. This dynamic range is the heart of his groove. Use a Pearl Reference or similar kit tuned medium-tight, dark Meinl cymbals, and focus on making technical patterns feel good before making them faster.

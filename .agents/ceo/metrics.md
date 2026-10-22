@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-22 18:13 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-22 19:12 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 447 |
-| Sessions | 509 |
-| Page views | 668 |
-| Engagement rate | 57.96% |
+| Active users | 448 |
+| Sessions | 511 |
+| Page views | 670 |
+| Engagement rate | 58.12% |
 | Avg session (s) | 311 |
 
 ### Top pages (by page views, last 7d)
@@ -25,14 +25,14 @@
 | /drummer/eloy-casagrande | 10 | 8 |
 | /drummer/joey-jordison | 9 | 7 |
 | /drummers/mike-portnoy/evolution | 9 | 3 |
+| /guides/best-in-ear-monitors-for-metal-drummers | 9 | 7 |
 | /drummer/bill-ward | 8 | 8 |
-| /drummer/john-otto | 8 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 377 | 316 |
-| Direct | 127 | 126 |
+| Organic Search | 379 | 317 |
+| Direct | 128 | 127 |
 | Unassigned | 5 | 5 |
 | Organic Social | 2 | 2 |
 | AI Assistant | 1 | 1 |
@@ -41,9 +41,9 @@
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 166 | 143 |
-| Singapore | 54 | 54 |
+| Singapore | 55 | 55 |
 | China | 44 | 44 |
-| United Kingdom | 35 | 22 |
+| United Kingdom | 36 | 22 |
 | Canada | 24 | 20 |
 | Germany | 17 | 15 |
 | Australia | 16 | 13 |

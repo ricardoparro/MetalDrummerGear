@@ -1,7 +1,7 @@
 # How to Sound Like Mike Mangini — Dream Theater Drum Sound Guide
 
 **Drummer:** Mike Mangini  
-**Band:** Dream Theater  
+**Band:** Dream Theater (2010-2023) / Godsmack (touring, 2026-present)  
 **Genre:** Progressive Metal / Prog Rock  
 **Guide URL:** https://metalforge.io/guides/how-to-sound-like-mike-mangini
 
@@ -9,7 +9,7 @@
 
 Mike Mangini holds multiple Guinness World Records for drum speed — but that's almost beside the point. What makes him one of the most compelling drummers in modern progressive metal is how he applies near-superhuman technical ability in service of Dream Theater's intricate compositional frameworks. He joined the band in 2010 after an internationally publicized audition process, replacing founding member Mike Portnoy and immediately recording A Dramatic Turn of Events (2011).
 
-Mike's background is unusually deep: professor of drumming, touring credits with Steve Vai, Annihilator, and Extreme, and a systematic study of rhythm that draws on academic music theory. His use of subdivisions, metric modulation, and polyrhythmic independence is deliberate and architectural rather than intuitive. What sets him apart from other technical drummers is his orchestral dynamic range — from whisper to explosion in a single measure, with every transition controlled. He has recorded five studio albums with Dream Theater, including Distance Over Time (2019) and A View from the Top of the World (2021).
+Mike's background is unusually deep: professor of drumming, touring credits with Steve Vai, Annihilator, and Extreme, and a systematic study of rhythm that draws on academic music theory. His use of subdivisions, metric modulation, and polyrhythmic independence is deliberate and architectural rather than intuitive. What sets him apart from other technical drummers is his orchestral dynamic range — from whisper to explosion in a single measure, with every transition controlled. He recorded five studio albums with Dream Theater during his 2010-2023 tenure, including Distance Over Time (2019) and A View from the Top of the World (2021), before departing when founding drummer Mike Portnoy rejoined the band. Mangini has been Godsmack's touring drummer since June 2026.
 
 ## Key Techniques
 
@@ -23,24 +23,24 @@ Mike's background is unusually deep: professor of drumming, touring credits with
 
 ## Gear
 
-Mike Mangini uses a custom **DW Collector's Series** kit built to his specifications:
+Mike Mangini uses a custom **Pearl Reference Series** kit built to his specifications:
 
-- **Kick Drum:** 22" x 18" DW Collector's Series (single, with occasional double)
-- **Snare:** 14" x 6.5" DW Collector's Series Steel
+- **Kick Drum:** 22" x 18" Pearl Reference Series (single, with occasional double)
+- **Snare:** 14"x5" & 14"x6.5" Pearl Reference Brass (dual snare setup)
 - **Rack Toms:** 8" x 7", 10" x 8", 12" x 9", 13" x 11" (extended array for melodic tom work)
 - **Floor Toms:** 14" x 12", 16" x 14"
-- **Cymbals:** Meinl Byzance Traditional and Extra Dry Series — musical, complex overtones with controlled decay
-- **Pedals:** DW 9000 Series Double Pedal — adjustable cam for precise kick technique
-- **Sticks:** Vic Firth 5A (standard sticks — emphasizing technique over specialty gear)
-- **Heads:** Aquarian Super-Kick (kick), Aquarian Classic Clear Coated (snare), Aquarian Studio X Clear (toms)
+- **Cymbals:** Sabian HHX Evolution series — 14" Hi-Hats, 17"/18"/19" Crashes, 21" Raw Bell Dry Ride — musical, complex overtones with controlled decay
+- **Pedals:** Pearl Eliminator Redline Double Pedal — direct drive for precise kick technique
+- **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP) — signature model, since 2011
+- **Heads:** Remo Powerstroke 3 (kick), Remo Emperor Coated (snare and toms), Remo Ambassador (resonant)
 
 ## Tuning
 
 Mike tunes for dynamic clarity rather than pure aggression — his drums must speak at low volumes as effectively as at full force:
 
-- **Kick:** Medium tension. Aquarian Super-Kick head provides built-in muffling ring. Port the resonant head for consistent tone.
+- **Kick:** Medium tension. Remo Powerstroke 3 head provides built-in muffling ring. Port the resonant head for consistent tone.
 - **Snare:** Medium-high tension. Tune for sensitivity at low dynamics first — ghost notes must speak, then the drum should still project under hard hits.
-- **Toms:** Medium tension. Minimal muffling (Aquarian Studio X provides natural tone control). Tune in musical fourths or fifths between toms.
+- **Toms:** Medium tension. Minimal muffling (Remo Emperor Coated provides natural tone control). Tune in musical fourths or fifths between toms.
 
 ## Practice Tips
 
@@ -68,10 +68,10 @@ A: Mike Mangini holds multiple Guinness World Records for drumming speed, includ
 A: Metric modulation is when a rhythmic subdivision becomes the new pulse, creating a seamless tempo shift. Playing in 4/4 and beginning to treat triplets as quarter notes shifts you to 150% of the original tempo. Dream Theater's compositions are built around these transitions; Mike executes them flawlessly.
 
 **Q: How is Mike Mangini different from Mike Portnoy?**  
-A: Mike Portnoy's style was more visceral and groove-oriented with a rock sensibility. Mike Mangini brings more academic precision — his subdivision control and polyrhythmic independence are more systematic and architectural. Both are exceptional but have distinct stylistic characters.
+A: Mike Portnoy's style was more visceral and groove-oriented with a rock sensibility. Mike Mangini brought more academic precision — his subdivision control and polyrhythmic independence were more systematic and architectural. Both are exceptional but have distinct stylistic characters. Mangini drummed for Dream Theater from 2010 to 2023, when Portnoy rejoined the band; Mangini has been Godsmack's touring drummer since June 2026.
 
 **Q: What drum heads does Mike Mangini use?**  
-A: Mike Mangini uses Aquarian drum heads — Super-Kick for kick drums and Studio X Clear for toms. Aquarian heads offer durability and dynamic response suited to his wide-range playing style.
+A: Mike Mangini uses Remo drum heads — Powerstroke 3 for kick drums and Emperor Coated for snare and toms. Remo heads offer durability and dynamic response suited to his wide-range playing style.
 
 **Q: Can beginners approach Mike Mangini's style?**  
 A: Yes, with patience. Start with foundational subdivision practice and two-way limb independence. His playing is extremely demanding but the path is well-defined: master rudiments, study subdivisions systematically, build independence one limb pair at a time. Untethered Angel and The Enemy Inside are accessible starting points.

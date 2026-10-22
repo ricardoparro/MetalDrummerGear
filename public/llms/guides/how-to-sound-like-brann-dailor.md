@@ -11,16 +11,16 @@ Brann Dailor doesn't play drums — he weaves tapestries of rhythm. As Mastodon'
 
 ## Kit Setup
 
-Brann uses **DW Collector's Series** drums with maple shells — chosen for warmth and projection suited to his melodic approach:
+Brann uses a **Tama Starclassic Performer B/B** kit with Birch/Bubinga shells — chosen for warmth and projection suited to his melodic approach:
 
-- **Kick Drum:** 22" x 18" with DW 9000 Single Pedal
-- **Snare:** 14" x 6.5" DW Collector's Metal (aluminum shell)
+- **Kick Drum:** 22" x 18" with Tama Speed Cobra Single Pedal
+- **Snare:** 14" x 6.5" Tama S.L.P. G-Maple (maple shell)
 - **Rack Toms:** 10" x 8", 12" x 9", 13" x 10" (three rack toms for melodic patterns)
 - **Floor Toms:** 16" x 16"
 - **Cymbals:** Meinl Byzance Series — complex overtones that respond well to his dynamic playing
-- **Pedals:** DW 9000 Single Pedal (Brann primarily uses a single pedal, relying on creative patterns)
-- **Sticks:** Vic Firth 5A (standard sticks — creativity comes from technique, not equipment)
-- **Heads:** Remo Powerstroke P4 Coated (kick), Remo Ambassador Coated (snare), Remo Emperor Coated (toms)
+- **Pedals:** Tama Speed Cobra (Brann primarily uses a single pedal, relying on creative patterns)
+- **Sticks:** Vater 5B (standard sticks — creativity comes from technique, not equipment)
+- **Heads:** Evans EQ4 Coated (kick), Evans G2 Coated (snare and toms), Evans G2 Clear (resonant)
 
 ## Tuning & Setup
 
@@ -46,14 +46,14 @@ Brann uses **matched grip** with exceptional fluidity. His technique emphasizes 
 
 | Item | Brann's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | DW Collector's Series Maple (3 rack toms) | PDP Concept Maple (~$800) |
-| Snare | DW Collector's Metal 14" x 6.5" (Aluminum) | DW Design Series or Ludwig Acrolite |
+| Drum Kit | Tama Starclassic Performer B/B (3 rack toms) | PDP Concept Maple (~$800) |
+| Snare | Tama S.L.P. G-Maple 14" x 6.5" (Maple) | Tama Starclassic Performer or Ludwig Acrolite |
 | Cymbals | Meinl Byzance Traditional Series | Meinl HCS or Classics Custom (~$250) |
-| Pedal | DW 9000 Single Pedal | DW 3000 Single (~$100) |
-| Sticks | Vic Firth 5A | Any quality 5A |
-| Kick Head | Remo Powerstroke P4 Coated | Evans EMAD Coated |
+| Pedal | Tama Speed Cobra | Tama Speed Cobra (entry single, ~$150) |
+| Sticks | Vater 5B | Any quality 5B |
+| Kick Head | Evans EQ4 Coated | Evans EMAD Coated |
 
-**Starter budget path (~$1,200):** PDP Concept Maple + Meinl HCS + DW 3000 single pedal. See [/brands/dw](https://metalforge.io/brands/dw) and [/brands/meinl](https://metalforge.io/brands/meinl).
+**Starter budget path (~$1,200):** PDP Concept Maple + Meinl HCS + Tama Speed Cobra single pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/meinl](https://metalforge.io/brands/meinl).
 
 ## Practice Routine
 
@@ -66,7 +66,7 @@ Brann uses **matched grip** with exceptional fluidity. His technique emphasizes 
 ## FAQ
 
 **Q: What drums does Brann Dailor use?**  
-A: Brann Dailor plays DW Collector's Series maple drums, featuring three rack toms (10", 12", 13") and one 16" floor tom — the extra rack tom gives him more melodic options. He uses DW Collector's Metal snare (aluminum shell) and Meinl Byzance cymbals.
+A: Brann Dailor plays a Tama Starclassic Performer B/B kit with Birch/Bubinga shells, featuring three rack toms (10", 12", 13") and one 16" floor tom — the extra rack tom gives him more melodic options. He uses a Tama S.L.P. G-Maple snare (maple shell) and Meinl Byzance cymbals.
 
 **Q: How does Brann Dailor sing while playing such complex parts?**  
 A: Years of practice building independence between voice and hands. Brann started with simple vocals and gradually increased complexity. Eventually the drumming becomes automatic — deeply internalized — which frees his conscious attention for singing. It requires the kind of practice where patterns become truly reflexive.

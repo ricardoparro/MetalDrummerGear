@@ -6706,7 +6706,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
     // Conclusion
     conclusion: {
       title: "Choose Your Death Metal Weapon",
-      content: `Death metal cymbal selection comes down to one question: do you want darkness and control (Zildjian K Custom Dark) or power and drama (Sabian AAX/HHX)? Both approaches are proven at the highest levels of the genre — George Kollias and Flo Mounier represent different but equally valid philosophies.
+      content: `Death metal cymbal selection comes down to one question: do you want darkness and control (Zildjian A Custom Series) or power and drama (Sabian AAX/HHX)? Both approaches are proven at the highest levels of the genre — George Kollias and Flo Mounier represent different but equally valid philosophies.
 
 Either way, invest in B20 bronze. The difference between B20 and budget alloys is dramatic under the extreme conditions of death metal playing. A quality set of K Custom Dark crashes and hi-hats will outlast and outperform three generations of cheap cymbals while sounding dramatically better in every context.
 
@@ -11341,7 +11341,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
     faq: [
       {
         question: "What bass drum pedal do metal drummers use?",
-        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. George Kollias of Nile has used Iron Cobra pedals, while Tomas Haake of Meshuggah builds his polyrhythmic technique around two Tama Speed Cobra single pedals. The Pearl Demon XR, George Kollias's own co-designed signature model, is popular with extreme metal drummers for its direct drive speed. Gene Hoglan plays a Pearl Demon Drive. The Iron Cobra is the safe default choice for any metal style."
+        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. Tomas Haake of Meshuggah builds his polyrhythmic technique around two Tama Speed Cobra single pedals, while George Kollias of Nile uses the Pearl Demon XR, his own co-designed signature model, popular with extreme metal drummers for its direct drive speed. Gene Hoglan plays a Pearl Demon Drive. The Iron Cobra is the safe default choice for any metal style."
       },
       {
         question: "What is the difference between chain drive and direct drive bass drum pedals?",
@@ -13100,44 +13100,44 @@ This guide covers what actually matters in a death metal drum kit, which specifi
       pedals: [
         {
           rank: 1,
-          name: "Pearl Reference Pure",
+          name: "Pearl Masterworks Series",
           brand: "Pearl",
-          model: "Reference Pure Series",
+          model: "Masterworks Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€2500-4500 (shell pack)",
           tier: "pro",
-          material: "6-ply Maple",
+          material: "Premium Maple",
 
-          description: `The Pearl Reference Pure is George Kollias's kit of choice — and when the world's fastest drummer stakes his reputation on a set of drums, that's the strongest possible endorsement. The Reference Pure's thin 6-ply maple shells deliver exceptional sensitivity and resonance, critical for the nuanced dynamics that separate world-class death metal drumming from mere speed.
+          description: `The Pearl Masterworks Series is George Kollias's kit of choice — and when the world's fastest drummer stakes his reputation on a built-to-order custom shop kit, that's the strongest possible endorsement. Masterworks's vault-grade tonewoods and configurable shell recipes deliver exceptional sensitivity and resonance, critical for the nuanced dynamics that separate world-class death metal drumming from mere speed.
 
-Pearl's SST (Superior Shell Technology) construction with no reinforcement rings lets the maple vibrate freely for a richer fundamental — Kollias needs toms that speak clearly even during passages where his kick drum is firing at 280 BPM. The Reference Pure's mounting system minimizes shell contact to preserve natural resonance. For death metal that demands both technical precision and tonal clarity, this is the standard.`,
+Pearl's SST (Superior Shell Technology) molding process bonds the plies under high pressure with AcoustiGlue for a richer, more resonant fundamental — Kollias needs toms that speak clearly even during passages where his kick drum is firing at 280 BPM. For death metal that demands both technical precision and tonal clarity, this is the standard.`,
 
           pros: [
             "George Kollias's kit — the fastest drummer's choice",
-            "Thin 6-ply maple for exceptional sensitivity and resonance",
-            "SST construction without reinforcement ring coloration",
+            "Built-to-order premium tonewoods for exceptional sensitivity and resonance",
+            "SST molding construction for a richer, more resonant fundamental",
             "Excellent tonal projection in dense death metal mixes",
             "Pearl hardware quality and reliability"
           ],
           cons: [
             "Premium pricing",
-            "Thin shells require careful handling",
+            "Long custom-order lead times",
             "Less aggressive attack than birch-shell alternatives"
           ],
           specs: {
-            shell: "6-ply Maple (SST)",
-            mount: "ADP mount (minimal contact)",
-            finish: "Multiple lacquer options",
+            shell: "Custom Maple (SST)",
+            mount: "Low-mass suspension mount",
+            finish: "Multiple lacquer and veneer options",
             kickSize: "22\" x 18\" standard",
             tomSizes: "10\", 12\" (rack) / 16\" (floor)"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "World's fastest recorded drummer — Pearl Reference is his primary live and studio kit" },
+            { name: "George Kollias", band: "Nile", note: "World's fastest recorded drummer — Pearl Masterworks is his primary live and studio kit" },
             { name: "Paul Mazurkiewicz", band: "Cannibal Corpse", note: "Pearl endorser — three decades of death metal brutality" }
           ],
-          verdict: "The death metal standard. George Kollias built his legendary speed on Pearl Reference. Enough said.",
+          verdict: "The death metal standard. George Kollias built his legendary speed on Pearl Masterworks. Enough said.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_pure_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_masterworks_series.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -13340,10 +13340,10 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
       content: `Two brands dominate the death metal kit conversation. Here's the honest breakdown:
 
 **Pearl (George Kollias / Paul Mazurkiewicz):**
-- Reference Pure: exceptional sensitivity and resonance for technical playing
+- Masterworks Series: exceptional sensitivity and resonance for technical playing
 - Pearl Free-Floating mounts minimize shell dampening for natural tone
 - Preferred for: technical death metal, speed-focused playing
-- Best kits: Reference Pure, Masters Maple Reserve
+- Best kits: Masterworks Series, Masters Maple Reserve
 
 **Tama (Flo Mounier / Gene Hoglan):**
 - Starclassic Maple: sensitive, controlled projection for technical playing since 2012
@@ -13368,7 +13368,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Reference Pure",
+          pedal: "Pearl Masterworks Series",
           reason: "George Kollias plays this kit at 280 BPM. No further justification needed."
         },
         {
@@ -13397,7 +13397,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
       'best-drum-hardware-for-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Reference Pure — fastest recorded drummer\'s kit choice' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Series — fastest recorded drummer\'s kit choice' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — Cryptopsy technical death metal precision since 2012' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama — The Atomic Clock\'s death metal foundation' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum — hyper-blast Morbid Angel drumming' },
@@ -13406,7 +13406,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Reference Pure — the world\'s fastest drummer\'s kit' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Series — the world\'s fastest drummer\'s kit' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — Cryptopsy technical death metal since 2012' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama — The Atomic Clock\'s precision foundation' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum — hyper-blast drumming pioneer with Morbid Angel' },
@@ -13417,7 +13417,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
     faq: [
       {
         question: "What drum kit does George Kollias use?",
-        answer: "George Kollias uses Pearl Reference Pure drums as his primary kit for Nile. The thin 6-ply maple shells deliver exceptional sensitivity and resonance — critical for a drummer who sustains 280 BPM 16th-note patterns while maintaining tonal clarity. Pearl hardware rounds out his setup."
+        answer: "George Kollias uses Pearl Masterworks Series drums as his primary kit for Nile. The built-to-order premium maple shells deliver exceptional sensitivity and resonance — critical for a drummer who sustains 280 BPM 16th-note patterns while maintaining tonal clarity. Pearl hardware rounds out his setup."
       },
       {
         question: "What drum kit does Flo Mounier use?",
@@ -13429,7 +13429,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
       },
       {
         question: "Are birch or maple drums better for death metal?",
-        answer: "Most professional death metal drummers choose maple (George Kollias's Pearl Reference Pure, Flo Mounier's Tama Starclassic Maple). Maple's warmer, more controlled tone prevents toms from becoming harsh in dense, downtuned death metal mixes. Birch (Gene Hoglan's Tama Starclassic Birch/Bubinga) offers more focused, punchy attack — better for aggressive death/thrash crossover styles. Both work; maple is the current professional standard."
+        answer: "Most professional death metal drummers choose maple (George Kollias's Pearl Masterworks Series, Flo Mounier's Tama Starclassic Maple). Maple's warmer, more controlled tone prevents toms from becoming harsh in dense, downtuned death metal mixes. Birch (Gene Hoglan's Tama Starclassic Birch/Bubinga) offers more focused, punchy attack — better for aggressive death/thrash crossover styles. Both work; maple is the current professional standard."
       },
       {
         question: "Do I need twin kick drums for death metal?",
@@ -13444,9 +13444,9 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
     // Conclusion
     conclusion: {
       title: "Choose Your Death Metal Weapon",
-      content: `George Kollias didn't become the world's fastest recorded drummer by hoping his gear would hold up — the Pearl Reference Pure's thin maple shells and precision mounting system gave him the reliable, responsive foundation to push double bass into previously uncharted territory. Flo Mounier didn't develop Cryptopsy's technical brutality in spite of his gear, but with it — the Tama Starclassic Maple provides the tonal consistency that lets his patterns speak clearly in one of death metal's densest sonic environments.
+      content: `George Kollias didn't become the world's fastest recorded drummer by hoping his gear would hold up — the Pearl Masterworks Series's premium maple shells and precision mounting system gave him the reliable, responsive foundation to push double bass into previously uncharted territory. Flo Mounier didn't develop Cryptopsy's technical brutality in spite of his gear, but with it — the Tama Starclassic Maple provides the tonal consistency that lets his patterns speak clearly in one of death metal's densest sonic environments.
 
-For most death metal drummers, the Pearl Reference Pure is the aspirational target — Kollias's endorsement and the kit's proven performance at the genre's extreme limits make it the obvious choice for serious players. At mid-range, the Tama Superstar Classic delivers the brand's death metal pedigree (Gene Hoglan lineage) at accessible pricing. Budget players should start with the Pearl Export and invest heavily in quality drum heads — head selection transforms any solid kit.
+For most death metal drummers, the Pearl Masterworks Series is the aspirational target — Kollias's endorsement and the kit's proven performance at the genre's extreme limits make it the obvious choice for serious players. At mid-range, the Tama Superstar Classic delivers the brand's death metal pedigree (Gene Hoglan lineage) at accessible pricing. Budget players should start with the Pearl Export and invest heavily in quality drum heads — head selection transforms any solid kit.
 
 Whatever you choose: tune it properly, replace heads regularly, and lock down the hardware before every session. Death metal will find every weakness in your setup.
 
@@ -28518,7 +28518,7 @@ Start with an 18" for maximum versatility, and add a 20" once your material dema
       title: "Why Extreme Metal Drummers Push China Cymbals to the Limit",
       content: `Extreme metal — the blast-beat-driven world of death metal, black metal, and their most brutal offshoots — pushes a china cymbal harder than any other subgenre. At 240+ BPM, a china isn't a rare punctuation mark; it's a recurring accent hammered relentlessly, and it needs to survive that abuse night after night while still cutting through a wall of blast beats and downtuned guitars.
 
-George Kollias's Zildjian K Custom Dark setup with Nile has been battle-tested across 240+ BPM blast beat passages that would destroy a less durable cymbal. Derek Roddy's Meinl Byzance Brilliant Heavy Hammered setup reflects his one-footed blast beat technique's unique durability demands, and Gene Hoglan — "The Atomic Clock" — has relied on Sabian AAX chinas across Death, Testament, and Dethklok for precision punch that holds up across decades of extreme playing.
+George Kollias's Zildjian A Custom Series setup with Nile has been battle-tested across 240+ BPM blast beat passages that would destroy a less durable cymbal. Derek Roddy's Meinl Byzance Brilliant Heavy Hammered setup reflects his one-footed blast beat technique's unique durability demands, and Gene Hoglan — "The Atomic Clock" — has relied on Sabian AAX chinas across Death, Testament, and Dethklok for precision punch that holds up across decades of extreme playing.
 
 This guide covers what actually matters for an extreme metal china: durability, cut, and response at extreme tempos, along with specific model recommendations across every budget.`,
       keyPoints: [
@@ -28578,18 +28578,18 @@ This guide covers what actually matters for an extreme metal china: durability, 
       pedals: [
         {
           rank: 1,
-          name: "Zildjian K Custom Dark China",
+          name: "Zildjian A Custom China",
           brand: "Zildjian",
-          model: "20\" K Custom Dark China",
+          model: "20\" A Custom China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€270-320",
           tier: "pro",
-          driveType: "B20 Bronze, Dark",
-          description: `The K Custom Dark China combines a dark, complex trash with a reinforced build that holds up under the most relentless blast beat abuse extreme metal can throw at it, all while retaining enough cut to punch through a dense, downtuned mix.
+          driveType: "B20 Bronze, Brilliant",
+          description: `The A Custom China combines a bright, cutting trash with a reinforced build that holds up under the most relentless blast beat abuse extreme metal can throw at it, all while retaining enough cut to punch through a dense, downtuned mix.
 
-George Kollias's Zildjian K Custom Dark setup with Nile has been battle-tested across 240+ BPM blast beat passages, a stress test few cymbals survive without losing tonal quality or structural integrity.`,
+George Kollias's Zildjian A Custom Series setup with Nile has been battle-tested across 240+ BPM blast beat passages, a stress test few cymbals survive without losing tonal quality or structural integrity.`,
           pros: [
-            "Dark, complex trash that cuts through dense extreme metal mixes",
+            "Bright, cutting trash that punches through dense extreme metal mixes",
             "Battle-tested durability at 240+ BPM blast beat tempos",
             "20\" size delivers real low-end weight and projection",
             "Proven across two decades of technical death metal touring"
@@ -28597,21 +28597,21 @@ George Kollias's Zildjian K Custom Dark setup with Nile has been battle-tested a
           cons: [
             "Premium price point",
             "20\" size can be heavy for smaller cymbal stands",
-            "Darker voice less versatile for brighter, faster black metal styles"
+            "Brighter voice less versatile for darker, dry-focused death metal styles"
           ],
           specs: {
             size: "20\"",
             alloy: "B20 Bronze",
-            finish: "Dark",
+            finish: "Brilliant",
             weight: "Medium-Heavy",
             mounting: "Inverted"
           },
           usedBy: [
             { name: "George Kollias", band: "Nile", note: "Battle-tested across 240+ BPM blast beat passages" }
           ],
-          verdict: "The extreme-tempo durability benchmark — dark, cutting, and built to survive relentless abuse.",
+          verdict: "The extreme-tempo durability benchmark — bright, cutting, and built to survive relentless abuse.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_dark_china_20.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_a_custom_china_20.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -28826,8 +28826,8 @@ Derek Roddy's setup reflects the unique durability demands of his one-footed bla
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian K Custom Dark China",
-          reason: "Dark, cutting trash battle-tested across 240+ BPM blast beat passages."
+          pedal: "Zildjian A Custom China",
+          reason: "Bright, cutting trash battle-tested across 240+ BPM blast beat passages."
         },
         {
           category: "Most Versatile",
@@ -28854,7 +28854,7 @@ Derek Roddy's setup reflects the unique durability demands of his one-footed bla
       'best-crash-cymbals-for-extreme-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark China — Nile\'s 240+ BPM blast beat endurance' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Series — Nile\'s 240+ BPM blast beat endurance' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered China — one-footed blast durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX China — precision punch across 20+ bands' }
     ],
@@ -28864,7 +28864,7 @@ Derek Roddy's setup reflects the unique durability demands of his one-footed bla
     faq: [
       {
         question: "What china cymbal does George Kollias use?",
-        answer: "George Kollias (Nile) plays a Zildjian K Custom Dark China, a setup battle-tested across the 240+ BPM blast beat passages that define his technical death metal drumming."
+        answer: "George Kollias (Nile) plays Zildjian A Custom Series cymbals, a setup battle-tested across the 240+ BPM blast beat passages that define his technical death metal drumming."
       },
       {
         question: "What size china cymbal is best for extreme metal?",
@@ -28887,7 +28887,7 @@ Derek Roddy's setup reflects the unique durability demands of his one-footed bla
     // Conclusion
     conclusion: {
       title: "Built to Survive the Blast",
-      content: `Extreme metal pushes a china cymbal harder than any other subgenre — a recurring accent hammered relentlessly at blast-beat tempos that would destroy a less durable cymbal. Whether you choose the battle-tested Zildjian K Custom Dark that's survived George Kollias's 240+ BPM passages, the explosive versatility of Sabian's AAX X-Plosion, or a budget-friendly ZBT to start building blast beat stamina, the right china needs to be as relentless as the drumming itself.
+      content: `Extreme metal pushes a china cymbal harder than any other subgenre — a recurring accent hammered relentlessly at blast-beat tempos that would destroy a less durable cymbal. Whether you choose the battle-tested Zildjian A Custom Series that's survived George Kollias's 240+ BPM passages, the explosive versatility of Sabian's AAX X-Plosion, or a budget-friendly ZBT to start building blast beat stamina, the right china needs to be as relentless as the drumming itself.
 
 Start with a durable 20" in whatever alloy fits your budget, mount it inverted for maximum trash and durability, and add an 18" once your tempos push toward the genre's absolute extreme.
 
@@ -102983,7 +102983,7 @@ For death metal drummers who want the natural give of chain drive combined with 
       },
       {
         question: "What bass drum pedal does George Kollias use?",
-        answer: "George Kollias of Nile has built his career sustaining 240+ BPM blast beats on Tama hardware, relying on the Iron Cobra's wide, reliably lockable tension range and Rolling Glide cam system to keep buried-beater strokes consistent at extreme tempo across full album sessions and tours."
+        answer: "George Kollias of Nile has built his career sustaining 240+ BPM blast beats on his co-designed signature Pearl Demon XR, relying on its direct-drive design and adjustable cam to keep buried-beater strokes consistent at extreme tempo across full album sessions and tours."
       },
       {
         question: "Do I need a hard plastic beater for death metal?",
@@ -103002,7 +103002,7 @@ For death metal drummers who want the natural give of chain drive combined with 
     // Conclusion
     conclusion: {
       title: "Build Your Buried-Beater Foundation",
-      content: `Death metal's low end lives or dies on buried-beater technique, and the right bass drum pedal makes that technique repeatable instead of exhausting. George Kollias didn't reach 240+ BPM by accident — the Iron Cobra's wide, lockable tension range gave him a platform to develop buried strokes that stay consistent across an entire album cycle. Gene Hoglan's decades of technically precise drumming prove the same principle: a dependable, predictable pedal is what lets dynamic control become second nature.
+      content: `Death metal's low end lives or dies on buried-beater technique, and the right bass drum pedal makes that technique repeatable instead of exhausting. George Kollias didn't reach 240+ BPM by accident — his Pearl Demon XR's direct-drive design gave him a platform to develop buried strokes that stay consistent across an entire album cycle. Gene Hoglan's decades of technically precise drumming prove the same principle: a dependable, predictable pedal is what lets dynamic control become second nature.
 
 For most death metal drummers, the Tama Iron Cobra 900 remains the safest, most versatile choice. Once your buried-beater technique is fully developed, the Pearl Demon Drive's direct drive response is hard to match — it's been Gene Hoglan's platform since 2008.
 
@@ -113560,7 +113560,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
     faq: [
       {
         question: "What's the best drum pedal for metal drumming overall?",
-        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. George Kollias of Nile has used Iron Cobra pedals, while Tomas Haake of Meshuggah instead builds his polyrhythmic technique around two Tama Speed Cobra single pedals. The Iron Cobra remains the safe default choice for any metal subgenre, whether you end up playing thrash, death metal, or progressive metal."
+        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. George Kollias of Nile instead uses his own co-designed Pearl Demon XR, while Tomas Haake of Meshuggah builds his polyrhythmic technique around two Tama Speed Cobra single pedals. The Iron Cobra remains the safe default choice for any metal subgenre, whether you end up playing thrash, death metal, or progressive metal."
       },
       {
         question: "Should I choose chain drive or direct drive for metal?",

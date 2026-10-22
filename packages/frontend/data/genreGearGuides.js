@@ -60294,7 +60294,7 @@ This guide compares Meinl Artist Concept, Zildjian K Custom Hybrid, and Zildjian
         "Meinl Artist Concept defines the dry, controlled metalcore cymbal standard — Matt Halpern uses it",
         "China cymbals are essential for punctuating breakdowns — all three featured drummers include an 18\"-19\" china",
         "Dry voicing dominates modern metalcore, but Jay Weinberg's brighter Zildjian setup shows the more explosive alternative",
-        "15\" hi-hats (Halpern) are common in metalcore for extra control on tightly muted riff patterns"
+        "14\" Byzance Traditional Medium Hi-Hats (Halpern) are the metalcore standard for controlled, articulate attack"
       ]
     },
 
@@ -60317,13 +60317,13 @@ This guide compares Meinl Artist Concept, Zildjian K Custom Hybrid, and Zildjian
         {
           name: "Hi-Hat Control for Palm-Muted Riffing",
           icon: "🎩",
-          description: "15\" hi-hats — used by Halpern — give extra surface area and control compared to the more common 14\" size, useful for the tightly muted, syncopated riff patterns that define much of metalcore's rhythmic vocabulary.",
-          recommendation: "14\"-15\" hi-hats, dry/dark voicing for tight, controlled closed patterns"
+          description: "14\" hi-hats — the size Halpern, Bent, and Weinberg all play — give focused, controlled response for the tightly muted, syncopated riff patterns that define much of metalcore's rhythmic vocabulary.",
+          recommendation: "14\" hi-hats, dry/dark voicing for tight, controlled closed patterns"
         },
         {
           name: "Ride Clarity for Syncopated Patterns",
           icon: "🔔",
-          description: "Metalcore's complex time signature shifts and syncopated riff-locking demand a ride that stays clearly articulate rather than washing into a blur. Halpern's Artist Concept Ride and Medium/K Custom rides (Bent, Weinberg) all prioritize definition over pure volume.",
+          description: "Metalcore's complex time signature shifts and syncopated riff-locking demand a ride that stays clearly articulate rather than washing into a blur. Halpern's Byzance Dark Double Down Crash-Ride and Medium/K Custom rides (Bent, Weinberg) all prioritize definition over pure volume.",
           recommendation: "Dry or medium-weight rides for clear articulation through complex patterns"
         },
         {
@@ -60355,15 +60355,15 @@ This guide compares Meinl Artist Concept, Zildjian K Custom Hybrid, and Zildjian
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `The Meinl Artist Concept is metalcore's defining cymbal sound, anchoring one of the genre's most technically respected setups. Matt Halpern of Periphery built his kit around 15" Dark Hi-Hats, 18" & 20" Crashes, a 22" Ride, and an 18" China — a setup engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
+          description: `The Meinl Artist Concept is metalcore's defining cymbal sound, anchoring one of the genre's most technically respected setups. Matt Halpern of Periphery built his kit around 14" Byzance Traditional Medium Hi-Hats, 18"/20" Byzance Traditional Extra Thin Hammered Crashes, a 21" Byzance Dark Double Down Crash-Ride, and his co-developed Artist Concept "Double Down Stack" (17" crash + 18" china) — a setup engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
 
-Halpern relies on the Artist Concept line's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements.`,
+Halpern relies on this combination's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements.`,
 
           pros: [
             "Matt Halpern, one of metalcore's most technically respected drummers, built his sound around this line",
-            "Extra Dry voicing stays controlled through breakdown-heavy, palm-muted riffing",
-            "15\" hi-hat option gives extra control versus standard 14\"",
-            "Wide range across hi-hats, crashes, rides, and china",
+            "Traditional/Dark voicing stays controlled through breakdown-heavy, palm-muted riffing",
+            "Double Down Stack gives a distinctive, co-developed accent texture",
+            "Wide range across hi-hats, crashes, crash-ride, and signature stack",
             "Proven across Periphery's full studio catalog"
           ],
           cons: [
@@ -60373,12 +60373,12 @@ Halpern relies on the Artist Concept line's minimal-sustain voicing to stay cont
           ],
           specs: {
             alloy: "B20 Bronze",
-            finish: "Dark/Extra Dry",
+            finish: "Byzance Traditional / Byzance Dark",
             priceRange: "€200–€420 per cymbal",
             bestFor: "Technical, breakdown-heavy, and djent-influenced metalcore"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "15\" Dark Hi-Hats, 18\"&20\" Crashes, 22\" Ride, 18\" China" }
+            { name: "Matt Halpern", band: "Periphery", note: "14\" Byzance Traditional Medium Hi-Hats, 18\"/20\" Byzance Traditional Extra Thin Hammered Crashes, 21\" Byzance Dark Double Down Crash-Ride, Artist Concept Double Down Stack" }
           ],
           verdict: "The metalcore cymbal standard. If you want the dry, controlled voice that defines the genre's technical wing, this is it.",
           rating: 4.8,
@@ -60619,7 +60619,7 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
     faq: [
       {
         question: "What cymbals does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery uses Meinl Artist Concept cymbals — 15\" Dark Hi-Hats, 18\" & 20\" Crashes, a 22\" Ride, and an 18\" China. This dry, controlled setup is engineered for Periphery's polyrhythmic djent-metalcore precision."
+        answer: "Matt Halpern of Periphery plays 14\" Meinl Byzance Traditional Medium Hi-Hats, 18\"/20\" Byzance Traditional Extra Thin Hammered Crashes, a 21\" Byzance Dark Double Down Crash-Ride, and his co-developed Meinl Artist Concept \"Double Down Stack\" (17\" crash + 18\" china). This dry, controlled setup is engineered for Periphery's polyrhythmic djent-metalcore precision."
       },
       {
         question: "Meinl Artist Concept vs Zildjian A Custom — which is better for metalcore?",
@@ -84419,7 +84419,7 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
     // SEO metadata
     title: "Best Hi-Hats for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Metalcore 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in metalcore? Discover what Matt Halpern, Alex Bent, and Jay Weinberg actually play — Meinl Artist Concept, Zildjian K Custom Hybrid, and Zildjian A/K Custom — from budget to pro, built for breakdown control.",
+    description: "What hi-hats are used in metalcore? Discover what Matt Halpern, Alex Bent, and Jay Weinberg actually play — Meinl Byzance Traditional, Zildjian K Custom Hybrid, and Zildjian A/K Custom — from budget to pro, built for breakdown control.",
     seoKeywords: [
       'best hi-hats for metalcore',
       'metalcore hi-hats',
@@ -84455,12 +84455,12 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
       title: "What Hi-Hats Are Used in Metalcore?",
       content: `Hi-hats do more rhythmic work in metalcore than almost any other cymbal in the kit. Palm-muted breakdown riffing, tightly syncopated chugs, and constant tempo and dynamic shifts all live or die on whether the hi-hat stays controlled and articulate — a washy, uncontrolled hi-hat turns a precise breakdown into mud, while a dry, well-chosen pair locks the whole riff into place.
 
-Matt Halpern of Periphery builds his setup around 15" Dark Hi-Hats from the Meinl Artist Concept line, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, low-sustain foundation across "Periphery II," "Juggernaut," and "Hail Stan." Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium, plays 14" Medium Hi-Hats from the brighter Zildjian K Custom Hybrid Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
+Matt Halpern of Periphery builds his setup around 14" Byzance Traditional Medium Hi-Hats from Meinl, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, articulate foundation across "Periphery II," "Juggernaut," and "Hail Stan." Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium, plays 14" Medium Hi-Hats from the brighter Zildjian K Custom Hybrid Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
 
 This guide breaks down exactly what makes a great metalcore hi-hat — diameter, voicing, and control — and which specific models these three influential drummers play, from budget starter pairs to the professional setups heard on the genre's most technically respected records.`,
       keyPoints: [
-        "Meinl Artist Concept defines metalcore's dry, controlled hi-hat standard — Matt Halpern builds around it",
-        "15\" hi-hats (Halpern) give extra surface area and control for tightly muted, syncopated breakdown riffing",
+        "Meinl Byzance Traditional defines metalcore's dry, controlled hi-hat standard — Matt Halpern builds around it",
+        "14\" Byzance Traditional Medium Hi-Hats (Halpern) give focused, controlled response for tightly muted, syncopated breakdown riffing",
         "Zildjian K Custom Hybrid gives Alex Bent a faster, brighter attack suited to Trivium's more melodic modern metal",
         "Zildjian A Custom & K Custom gives Jay Weinberg a brighter, more explosive voice for Slipknot's aggressive hybrid sound"
       ]
@@ -84473,14 +84473,14 @@ This guide breaks down exactly what makes a great metalcore hi-hat — diameter,
         {
           name: "Dry vs Bright Voicing",
           icon: "🌫️",
-          description: "Metalcore's breakdown-driven riffing needs hi-hats that don't wash into a wall of sustain. Matt Halpern's Meinl Artist Concept hi-hats are voiced with minimal ring, staying controlled through syncopated, palm-muted passages. Alex Bent and Jay Weinberg instead favor brighter voicing for a faster, more cutting attack on more melodic or aggressive material.",
-          recommendation: "Extra Dry or dark voicing for breakdown-heavy technical metalcore; brighter K Custom Hybrid or A Custom voicing for melodic or aggressive metalcore"
+          description: "Metalcore's breakdown-driven riffing needs hi-hats that don't wash into a wall of sustain. Matt Halpern's Meinl Byzance Traditional hi-hats are voiced with minimal ring, staying controlled through syncopated, palm-muted passages. Alex Bent and Jay Weinberg instead favor brighter voicing for a faster, more cutting attack on more melodic or aggressive material.",
+          recommendation: "Traditional or dark voicing for breakdown-heavy technical metalcore; brighter K Custom Hybrid or A Custom voicing for melodic or aggressive metalcore"
         },
         {
           name: "Diameter",
           icon: "📏",
-          description: "15\" hi-hats — used by Halpern — give extra surface area and control compared to the more common 14\" size, useful for the tightly muted, syncopated riff patterns that define much of metalcore's rhythmic vocabulary. Bent and Weinberg both use the more standard 14\" size.",
-          recommendation: "14\" for standard response and versatility; 15\" for extra control on tightly muted riffing"
+          description: "14\" is metalcore's standard hi-hat diameter — Halpern, Bent, and Weinberg all play the same 14\" size, prioritizing focused, controlled response for the tightly muted, syncopated riff patterns that define much of metalcore's rhythmic vocabulary.",
+          recommendation: "14\" hi-hats for standard response and versatility across the genre's leading setups"
         },
         {
           name: "Chick Response for Breakdowns",
@@ -84509,22 +84509,22 @@ This guide breaks down exactly what makes a great metalcore hi-hat — diameter,
       pedals: [
         {
           rank: 1,
-          name: "Meinl Artist Concept Hi-Hats",
+          name: "Meinl Byzance Traditional Medium Hi-Hats",
           brand: "Meinl",
-          model: "Artist Concept Hi-Hats 15\"",
+          model: "Byzance Traditional Medium Hi-Hats 14\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Toms%2C_hi-hat%2C_snare.jpg",
-          priceRange: "€330-430 per pair",
+          priceRange: "€320-420 per pair",
           tier: "pro",
-          material: "B20 Bronze, Extra Dry Finish",
+          material: "B20 Bronze, Traditional Finish",
 
-          description: `The Meinl Artist Concept Hi-Hats are metalcore's defining hi-hat sound, anchoring Matt Halpern's Periphery setup. Halpern runs 15" Dark Hi-Hats within his broader Extra Dry rig, engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
+          description: `The Meinl Byzance Traditional Medium Hi-Hats are metalcore's defining hi-hat sound, anchoring Matt Halpern's Periphery setup. Halpern runs this 14" pair within his broader Meinl rig, engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
 
-Halpern relies on the Artist Concept line's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements — exactly the kind of tightly muted riffing that defines metalcore's technical wing. The larger 15" diameter Halpern favors adds extra surface area and control versus the more common 14" pair.`,
+Halpern relies on the Byzance Traditional line's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements — exactly the kind of tightly muted riffing that defines metalcore's technical wing.`,
 
           pros: [
             "Matt Halpern's setup — metalcore's most technically respected hi-hat sound",
-            "Extra Dry voicing stays controlled through breakdown-heavy, palm-muted riffing",
-            "15\" diameter gives extra control versus standard 14\" pairs",
+            "Traditional voicing stays controlled through breakdown-heavy, palm-muted riffing",
+            "Standard 14\" diameter for versatile response",
             "Proven across Periphery's full studio catalog",
             "Premium B20 bronze construction"
           ],
@@ -84535,17 +84535,17 @@ Halpern relies on the Artist Concept line's minimal-sustain voicing to stay cont
           ],
           specs: {
             material: "B20 bronze",
-            finish: "Extra Dry",
-            weight: "Medium-heavy",
-            diameter: "15\"",
-            series: "Artist Concept"
+            finish: "Traditional",
+            weight: "Medium",
+            diameter: "14\"",
+            series: "Byzance Traditional"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "15\" Dark Hi-Hats — polyrhythmic djent-metalcore precision" }
+            { name: "Matt Halpern", band: "Periphery", note: "14\" Byzance Traditional Medium Hi-Hats — polyrhythmic djent-metalcore precision" }
           ],
           verdict: "The metalcore hi-hat standard. If you want the dry, controlled voice that defines the genre's technical wing, this is it.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_hi_hats.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_traditional_medium_hi_hats.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -84607,7 +84607,7 @@ The A Custom line's brilliant finish gives fast, cutting response ideal for Slip
             "Consistent Zildjian quality"
           ],
           cons: [
-            "Brighter voicing less suited to breakdown-heavy technical metalcore than Meinl Artist Concept",
+            "Brighter voicing less suited to breakdown-heavy technical metalcore than Meinl Byzance Traditional",
             "Higher price point",
             "Less dry control than the genre's more technical setups"
           ],
@@ -84641,13 +84641,13 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
 
           pros: [
             "Bright, cutting B20 tone comparable to the brighter metalcore setups",
-            "More accessible pricing than Meinl Artist Concept or Zildjian signature lines",
+            "More accessible pricing than Meinl Byzance Traditional or Zildjian signature lines",
             "Reliable and widely available worldwide",
             "Good stepping stone toward flagship pro pairs"
           ],
           cons: [
             "Not tied to a specific metalcore legend's setup",
-            "Less distinctive character than Meinl Artist Concept"
+            "Less distinctive character than Meinl Byzance Traditional"
           ],
           specs: {
             material: "B20 bronze",
@@ -84669,7 +84669,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
     // Budget options section
     budgetOptions: {
       title: "Best Budget Hi-Hats for Metalcore",
-      description: "You don't need Artist Concept or A Custom pricing to start chasing metalcore's controlled, breakdown-ready hi-hat sound. These pairs deliver real performance at accessible prices.",
+      description: "You don't need Byzance Traditional or A Custom pricing to start chasing metalcore's controlled, breakdown-ready hi-hat sound. These pairs deliver real performance at accessible prices.",
       pedals: [
         {
           name: "Sabian AAX Stage Hi-Hats",
@@ -84692,8 +84692,8 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
           priceRange: "€150-220 per pair",
           tier: "budget",
           material: "B8/B20 Bronze",
-          description: "An affordable entry point for drummers chasing the dry, controlled character of Matt Halpern's Meinl Artist Concept setup, before upgrading to the full Artist Concept line.",
-          pros: ["Dark, controlled tone similar to Extra Dry character", "Accessible pricing", "Clear upgrade path to Artist Concept"],
+          description: "An affordable entry point for drummers chasing the dry, controlled character of Matt Halpern's Meinl Byzance Traditional setup, before upgrading to the full Byzance Traditional line.",
+          pros: ["Dark, controlled tone similar to Traditional character", "Accessible pricing", "Clear upgrade path to Byzance Traditional"],
           cons: ["B8 models lack B20 depth"],
           verdict: "Best entry point for dry, controlled metalcore hi-hats.",
           rating: 4.0,
@@ -84707,10 +84707,10 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       title: "Dry vs Bright Hi-Hats for Metalcore",
       content: `Metalcore's hi-hat choices split into two clear camps, defined by the genre's most influential drummers:
 
-**Dry (Meinl Artist Concept — Matt Halpern's choice):**
+**Dry (Meinl Byzance Traditional — Matt Halpern's choice):**
 - Controlled, low-sustain voicing
 - Suits breakdown-heavy, palm-muted, syncopated arrangements
-- 15" diameter common for extra control
+- Standard 14" diameter
 - The genre's technical benchmark
 
 **Bright (Zildjian K Custom Hybrid — Alex Bent's choice; Zildjian A Custom — Jay Weinberg's choice):**
@@ -84719,7 +84719,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
 - Standard 14" diameter
 - The contemporary alternative for genre-crossing bands
 
-**Metalcore Verdict:** Choose dry (Meinl Artist Concept) if you play breakdown-heavy, technical metalcore in the Periphery tradition. Choose bright (Zildjian K Custom Hybrid or Zildjian A Custom) if you play melodic or aggressive metalcore in the Trivium or Slipknot tradition.`,
+**Metalcore Verdict:** Choose dry (Meinl Byzance Traditional) if you play breakdown-heavy, technical metalcore in the Periphery tradition. Choose bright (Zildjian K Custom Hybrid or Zildjian A Custom) if you play melodic or aggressive metalcore in the Trivium or Slipknot tradition.`,
       comparisonTable: [
         { feature: "Breakdown Control", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Cutting Articulation", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -84735,7 +84735,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       picks: [
         {
           category: "Best Overall",
-          pedal: "Meinl Artist Concept Hi-Hats",
+          pedal: "Meinl Byzance Traditional Medium Hi-Hats",
           reason: "Matt Halpern's setup — the genre's most technically respected hi-hat sound."
         },
         {
@@ -84751,7 +84751,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
         {
           category: "Best Budget",
           pedal: "Meinl Classics Custom Dark Hi-Hats",
-          reason: "Real dry, controlled character without the flagship Artist Concept price."
+          reason: "Real dry, controlled character without the flagship Byzance Traditional price."
         }
       ]
     },
@@ -84763,14 +84763,14 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       'best-snare-drums-for-metalcore'
     ],
     relatedDrummers: [
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept 15" Hi-Hats — Periphery djent-metalcore precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Traditional Medium 14" Hi-Hats — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid 14" Hi-Hats — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom 14" Hi-Hats — Slipknot explosive hybrid sound' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Hi-Hats — Periphery djent-metalcore precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Traditional Medium Hi-Hats — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Hi-Hats — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Hi-Hats — Slipknot\'s explosive hybrid attack' },
     ],
@@ -84779,23 +84779,23 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
     faq: [
       {
         question: "What hi-hats are used in metalcore?",
-        answer: "Matt Halpern of Periphery uses 15\" Meinl Artist Concept Hi-Hats for controlled, low-sustain response. Alex Bent of Trivium uses 14\" Zildjian K Custom Hybrid Hi-Hats for a brighter, faster attack. Jay Weinberg of Slipknot uses 14\" Zildjian A Custom Hi-Hats for explosive projection."
+        answer: "Matt Halpern of Periphery uses 14\" Meinl Byzance Traditional Medium Hi-Hats for controlled, low-sustain response. Alex Bent of Trivium uses 14\" Zildjian K Custom Hybrid Hi-Hats for a brighter, faster attack. Jay Weinberg of Slipknot uses 14\" Zildjian A Custom Hi-Hats for explosive projection."
       },
       {
         question: "What hi-hats does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery uses 15\" Dark Hi-Hats from his signature Meinl Artist Concept line, part of his broader Artist Concept cymbal setup that also includes 18\" and 20\" crashes, a 22\" ride, and an 18\" china."
+        answer: "Matt Halpern of Periphery plays 14\" Meinl Byzance Traditional Medium Hi-Hats, part of a broader Meinl setup that also includes 18\"/20\" Byzance Traditional Extra Thin Hammered crashes, a 21\" Byzance Dark Double Down crash-ride, and his co-developed Artist Concept \"Double Down Stack\" (17\" crash + 18\" china)."
       },
       {
         question: "What size hi-hats for metalcore?",
-        answer: "14\" is the standard metalcore hi-hat size, used by Alex Bent and Jay Weinberg. Matt Halpern prefers 15\" for extra surface area and control on tightly muted, syncopated breakdown riffing."
+        answer: "14\" is the standard metalcore hi-hat size, used by Halpern, Bent, and Weinberg alike for focused, controlled response on tightly muted, syncopated breakdown riffing."
       },
       {
         question: "Best hi-hats for breakdowns?",
-        answer: "Dry, controlled hi-hats with a defined chick handle breakdown patterns best. Meinl Artist Concept (Matt Halpern) is the genre's technical benchmark. Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) offer brighter alternatives for more melodic or aggressive breakdown-adjacent material."
+        answer: "Dry, controlled hi-hats with a defined chick handle breakdown patterns best. Meinl Byzance Traditional (Matt Halpern) is the genre's technical benchmark. Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) offer brighter alternatives for more melodic or aggressive breakdown-adjacent material."
       },
       {
         question: "Dry or bright hi-hats for metalcore?",
-        answer: "Both work at the highest level. Dry hi-hats (Meinl Artist Concept, Halpern's choice) suit breakdown-heavy, technical metalcore. Bright hi-hats (Zildjian K Custom Hybrid, Bent's choice; Zildjian A Custom, Weinberg's choice) suit melodic or aggressive, nu-metal-influenced metalcore. Choose based on which subgenre and production style you're chasing."
+        answer: "Both work at the highest level. Dry hi-hats (Meinl Byzance Traditional, Halpern's choice) suit breakdown-heavy, technical metalcore. Bright hi-hats (Zildjian K Custom Hybrid, Bent's choice; Zildjian A Custom, Weinberg's choice) suit melodic or aggressive, nu-metal-influenced metalcore. Choose based on which subgenre and production style you're chasing."
       }
     ],
 
@@ -84804,7 +84804,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       title: "Find Your Metalcore Hi-Hat Voice",
       content: `Metalcore hi-hats split into two proven traditions: the dry, controlled character that Matt Halpern builds his setup around, and the brighter, more articulate sound that Alex Bent and Jay Weinberg favor for melodic or aggressive, genre-crossing material.
 
-If you play breakdown-heavy, technical metalcore, start with a 15" Meinl Artist Concept pair or the budget Classics Custom Dark — both stay controlled through syncopated, palm-muted riffing. If you play melodic or aggressive metalcore, Zildjian K Custom Hybrid or Zildjian A Custom will give you the cutting articulation or explosive projection your playing demands.
+If you play breakdown-heavy, technical metalcore, start with a 14" Meinl Byzance Traditional pair or the budget Classics Custom Dark — both stay controlled through syncopated, palm-muted riffing. If you play melodic or aggressive metalcore, Zildjian K Custom Hybrid or Zildjian A Custom will give you the cutting articulation or explosive projection your playing demands.
 
 Whatever you choose, prioritize consistent chick response and dynamic range over flashy features — the hi-hat is the most-used cymbal in metalcore drumming, and it needs to lock in every breakdown and syncopated riff with total precision.
 

@@ -163,7 +163,7 @@ Countless death metal drummers trust the Demon Drive for their most demanding pe
           
           description: `The Tama Speed Cobra takes the chain drive concept and optimizes it for speed. The unique Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive. The extended footboard design is specifically engineered for fast, rolling patterns.
 
-Tomas Haake (Meshuggah), Eloy Casagrande (Slipknot), and many modern metal drummers choose the Speed Cobra for its blend of speed and feel. If direct drive feels too "stiff" but you still need extreme speed, this is your pedal.`,
+Tomas Haake (Meshuggah) and many modern metal drummers choose the Speed Cobra for its blend of speed and feel. (Eloy Casagrande of Slipknot actually plays a Tama Iron Cobra double pedal, not the Speed Cobra.) If direct drive feels too "stiff" but you still need extreme speed, this is your pedal.`,
           
           pros: [
             "Speedo-Ring gives chain drive pedals direct-drive smoothness",
@@ -187,7 +187,7 @@ Tomas Haake (Meshuggah), Eloy Casagrande (Slipknot), and many modern metal drumm
           usedBy: [
             { name: "Derek Roddy", band: "Nile/Hate Eternal", note: "Speed legend" },
             { name: "Tomas Haake", band: "Meshuggah", note: "Polyrhythmic precision" },
-            { name: "Eloy Casagrande", band: "Slipknot", note: "Current Slipknot drummer" },
+            { name: "Eloy Casagrande", band: "Slipknot", note: "Actually plays a Tama Iron Cobra double pedal, not the Speed Cobra" },
             { name: "Matt Garstka", band: "Animals as Leaders", note: "Progressive metal virtuoso" }
           ],
           verdict: "Best chain-drive option for death metal. Ideal for drummers who want speed but prefer chain feel.",
@@ -61658,21 +61658,21 @@ The genre's galloping tempo feel traces its lineage straight back to McBrain's N
         },
         {
           rank: 4,
-          name: "Paiste 2002 Series",
+          name: "Paiste Masters Dark / 602 / 2002 Mixed Setup",
           brand: "Paiste",
-          model: "2002 Series",
+          model: "Masters Dark / Formula 602 / 2002 Mixed Setup",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€160-360 per cymbal",
           tier: "pro",
           material: "CuSn8 Bronze",
 
-          description: `Eloy Casagrande became a Paiste artist at age 17 in 2005 — the youngest drummer ever signed to the brand — and has built his setup around Paiste 2002 cymbals through his Sepultura years and into his current tenure with Slipknot. The 2002 series' CuSn8 bronze formula produces a bright, powerful, immediate sound built for heavy touring schedules.
+          description: `Eloy Casagrande became a Paiste artist at age 17 in 2005 — the youngest drummer ever signed to the brand — and has built his setup around a mixed Paiste rig through his Sepultura years and into his current tenure with Slipknot: 15" Masters Dark Hi-Hats, Formula 602 Modern Essentials and 2002 Wild crashes, a Masters Dark Crash, a 2002 Novo China, and a 2002 Power Ride. The CuSn8 bronze formula shared across these lines produces a bright, powerful, immediate sound built for heavy touring schedules.
 
-While Casagrande's background sits in groove and thrash rather than power metal's fantasy-themed wing, his Paiste 2002 setup's cutting power and durability represent the touring stamina power metal's biggest festival-headlining bands demand night after night.`,
+While Casagrande's background sits in groove and thrash rather than power metal's fantasy-themed wing, his mixed Paiste setup's cutting power and durability represent the touring stamina power metal's biggest festival-headlining bands demand night after night.`,
 
           pros: [
             "Eloy Casagrande's setup — a Paiste artist since age 17, the youngest ever signed to the brand",
-            "Paiste 2002's cutting power and projection suited to loud arena and festival settings",
+            "The Masters Dark / 602 / 2002 mix's cutting power and projection suited to loud arena and festival settings",
             "Proven across Sepultura's festival circuit and Slipknot's arena touring",
             "Excellent durability for relentless touring schedules",
             "A more affordable entry into the Paiste family than the Signature Series"
@@ -61689,9 +61689,9 @@ While Casagrande's background sits in groove and thrash rather than power metal'
             bestFor: "High-stamina touring power metal and power-metal-adjacent heavy metal"
           },
           usedBy: [
-            { name: "Eloy Casagrande", band: "Slipknot / Sepultura", note: "Paiste 2002 Series — Paiste artist since age 17" }
+            { name: "Eloy Casagrande", band: "Slipknot / Sepultura", note: "Paiste Masters Dark / 602 / 2002 mixed setup — Paiste artist since age 17" }
           ],
-          verdict: "Best for touring stamina. Casagrande's setup brings arena-level power and durability to power metal's biggest stages.",
+          verdict: "Best for touring stamina. Casagrande's mixed Paiste setup brings arena-level power and durability to power metal's biggest stages.",
           rating: 4.4,
           affiliateLink: "https://www.thomann.de/intl/paiste_2002_series.htm?partner_id=metalforge"
         }

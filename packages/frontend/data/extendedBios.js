@@ -8496,14 +8496,14 @@ Menza's playing was distinguished by surgical double-bass precision at 180-200 B
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Nick Menza's Rust in Peace-era rig centered on a Tama Artstar II 5-piece kit in Midnight Blue finish — Tama's pro-tier kit of the era, matching the technical precision of his playing — paired with Zildjian A Series cymbals and a DW 5000 double pedal. Its birch shells delivered the tight, dry sound that became a benchmark for thrash drum production.
+        content: `Nick Menza's Rust in Peace-era rig centered on a Tama Artstar II 5-piece kit in Midnight Blue finish — Tama's pro-tier kit of the era, matching the technical precision of his playing — paired with Zildjian A Series cymbals and an unconfirmed bass drum pedal. Its birch shells delivered the tight, dry sound that became a benchmark for thrash drum production.
 
 **Rust in Peace-Era Setup (1990):**
 - **Drums**: Tama Artstar II 5-piece, birch shells, Midnight Blue finish (22"x16" kick, 12"x10"/13"x11" racks, 16"x16" floor)
 - **Snare**: Tama Steel 14"x5.5", 8-lug
 - **Cymbals**: Zildjian A Series (14" hi-hats, 16"/18" crashes, 20" ride)
-- **Hardware**: DW 5000 double pedal
-- **Sticks**: Vic Firth American Classic 5B
+- **Hardware**: Double bass drum pedal (brand not publicly documented for this era)
+- **Sticks**: Brand not publicly documented for this era
 - **Heads**: Remo Ambassador (clear toms), Powerstroke 3 (kick batter)
 
 **Notable Gear Evolution:**
@@ -8530,7 +8530,7 @@ Menza's playing was distinguished by surgical double-bass precision at 180-200 B
         items: [
           { q: 'Who was Nick Menza?', a: 'Nick Menza (July 23, 1964 – May 21, 2016) was an American drummer best known as Megadeth\'s drummer from 1989 to 1998, and again briefly in 2004. He recorded Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997) with the band. After leaving Megadeth, he drummed for the jazz-metal fusion group OHM from 2004 until his death in 2016, when he collapsed on stage during a performance.' },
           { q: 'What albums did Nick Menza play drums on with Megadeth?', a: 'Nick Menza recorded Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997) with Megadeth.' },
-          { q: 'What drum kit did Nick Menza use on Rust in Peace?', a: 'Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish with birch shells, Zildjian A Series cymbals, and a DW 5000 double pedal on Rust in Peace.' },
+          { q: 'What drum kit did Nick Menza use on Rust in Peace?', a: 'Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish with birch shells and Zildjian A Series cymbals on Rust in Peace; his bass drum pedal brand for this era is not publicly documented.' },
           { q: 'Why did Nick Menza leave Megadeth?', a: 'Nick Menza was fired from Megadeth in 1998 following a knee injury; he briefly rejoined the band in 2004 before departing again.' },
           { q: 'How did Nick Menza die?', a: 'Nick Menza collapsed on stage and passed away on May 21, 2016, at age 51, during a performance with the jazz-metal fusion group OHM.' },
           { q: 'When did Nick Menza join Megadeth?', a: 'Nick Menza joined Megadeth in 1989, initially working as a drum technician before becoming the band\'s full-time drummer.' },
@@ -8538,7 +8538,7 @@ Menza's playing was distinguished by surgical double-bass precision at 180-200 B
           { q: 'What drum set did Nick Menza use?', a: 'Nick Menza\'s Rust in Peace-era drum set was a Tama Artstar II 5-piece kit in Midnight Blue finish with birch shells (22"x16" kick, 12"x10"/13"x11" racks, 16"x16" floor) and a Tama Steel 14"x5.5" 8-lug snare — a professional-tier kit matching the technical precision of his playing. He upgraded to Pearl Masters for Countdown to Extinction (1992), Pearl Masterworks for Youthanasia (1994), and Pearl Reference Custom for Cryptic Writings (1997).' },
           { q: 'What cymbals did Nick Menza use?', a: 'Nick Menza used Zildjian A Series cymbals on Rust in Peace: 14" hi-hats, 16" and 18" crashes, and a 20" ride.' },
           { q: 'What snare drum did Nick Menza use?', a: 'Nick Menza played a Tama Steel 14"x5.5" 8-lug snare during the Rust in Peace era, tuned tight for the sharp, high-pitched rimshot crack that punched through Megadeth\'s layered guitar attack.' },
-          { q: 'What bass drum pedal did Nick Menza use?', a: 'Nick Menza drove his surgical double-bass patterns with a DW 5000 double pedal, maintaining clean, articulate kick work at 180-200 BPM.' }
+          { q: 'What bass drum pedal did Nick Menza use?', a: 'Nick Menza drove his surgical double-bass patterns with a double bass drum pedal, maintaining clean, articulate kick work at 180-200 BPM; the specific pedal brand for this era is not publicly documented.' }
         ]
       },
       sources: {

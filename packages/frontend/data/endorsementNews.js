@@ -3905,10 +3905,9 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'His Vater signature stick model was in regular use by the "Cryptic Writings" (1997) sessions — the closing chapter of his nine-year run behind Megadeth\'s kit',
       },
       {
-        // NOTE: extendedBios.js's Rust in Peace-era gear (1990) lists Hardware as
-        // "DW 5000 double pedal", not Tama Camco — the exact 1990-1997 hardware
-        // lineage (when/if he moved from DW to Tama Camco) is not documented in
-        // extendedBios.js. Not resolving this gap here; flagging rather than guessing.
+        // extendedBios.js's Rust in Peace-era gear (1990) hedges Hardware/Sticks as
+        // "not publicly documented" rather than asserting a brand (fixed per #9585),
+        // so it no longer conflicts with this Tama Camco -> Iron Cobra switch entry.
         year: 1997,
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.HARDWARE,

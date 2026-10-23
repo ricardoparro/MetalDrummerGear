@@ -867,9 +867,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Matt Halpern Signature",
-          "notes": "Halpern's established signature stick — consistent across every Periphery recording and tour"
+          "brand": "Promark",
+          "model": "Promark Matt Halpern Signature",
+          "notes": "Halpern's established signature stick — consistent across every Periphery recording and tour since the 2015 gear overhaul"
         }
       ],
       "heads": {

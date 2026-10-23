@@ -1618,7 +1618,7 @@ Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath
 - **Classic progressive rock drummers**: Informing his approach to Heritage-era material
 
 **Signature Techniques:**
-- Twin-bass-drum setup enabling extended double-bass passages
+- Extended double-bass passages on Opeth's heaviest material
 - Fluid transitions between extreme metal intensity and progressive rock restraint
 - Dynamic control across Opeth's shifting acoustic and heavy sections`
       },

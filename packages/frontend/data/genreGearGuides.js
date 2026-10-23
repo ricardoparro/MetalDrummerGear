@@ -20462,13 +20462,13 @@ Whatever you choose, remember the module serves the kit — not the other way ar
       title: "What Bass Drum Setup Do Extreme Metal Drummers Actually Use?",
       content: `In extreme metal, the bass drum isn't just another shell in the kit — it's the engine driving blast beats, sustained double bass, and the low-end weight that separates a heavy mix from a thin one. Shell size, wood, head selection, and even whether you run one kick or two all change how a bass drum responds at 200+ BPM.
 
-Mario Duplantier (Gojira) runs dual 22"x18" Tama Starclassic Bubinga bass drums — forgoing a double pedal entirely for the more organic, powerful feel that dual kicks provide on Gojira's progressive death metal records. Tomas Haake (Meshuggah) goes the opposite direction with a single, massive 24"x18" Sonor SQ2 bass drum for maximum low-end weight beneath Meshuggah's polyrhythmic riffing. Martin Axenrot (Opeth) also runs twin 22"x18" DW Custom bass drums, while George Kollias (Nile) drives a 22" Pearl Masterworks shell with a co-designed Pearl Demon XR double pedal to sustain blast beats past 240 BPM.
+Mario Duplantier (Gojira) runs dual 22"x18" Tama Starclassic Bubinga bass drums — forgoing a double pedal entirely for the more organic, powerful feel that dual kicks provide on Gojira's progressive death metal records. Tomas Haake (Meshuggah) goes the opposite direction with a single, massive 24"x18" Sonor SQ2 bass drum for maximum low-end weight beneath Meshuggah's polyrhythmic riffing. Martin Axenrot (Opeth) plays a custom DW kit, while George Kollias (Nile) drives a 22" Pearl Masterworks shell with a co-designed Pearl Demon XR double pedal to sustain blast beats past 240 BPM.
 
 This guide breaks down exactly what makes a bass drum work for extreme metal — size, shell material, head selection, and single vs. dual kick setups — and which specific shells the genre's most demanding drummers actually play.`,
       keyPoints: [
         "22\"x18\" is the extreme metal standard — Joey Jordison, George Kollias, and Gene Hoglan all use this size for speed and projection",
         "24\" and larger shells (Tomas Haake) trade some speed for significantly more low-end weight",
-        "Dual bass drums (Mario Duplantier, Martin Axenrot) deliver a more organic feel than a double pedal, at the cost of kit width",
+        "Dual bass drums (Mario Duplantier) deliver a more organic feel than a double pedal, at the cost of kit width",
         "Reinforced heads (Evans EMAD, Remo Powerstroke 3) and port holes are essential for consistent tone under sustained blast beat abuse"
       ]
     },
@@ -20504,7 +20504,7 @@ This guide breaks down exactly what makes a bass drum work for extreme metal —
         {
           name: "Single Kick vs Double Pedal vs Dual Bass Drums",
           icon: "🥁",
-          description: "A single bass drum with a double pedal (George Kollias, Gene Hoglan) is the most compact and portable setup. Dual bass drums (Mario Duplantier, Martin Axenrot) trade portability for a more organic, independently-tunable low-end from each kick.",
+          description: "A single bass drum with a double pedal (George Kollias, Gene Hoglan) is the most compact and portable setup. Dual bass drums (Mario Duplantier) trade portability for a more organic, independently-tunable low-end from each kick.",
           recommendation: "Double pedal for portability and consistency; dual kicks for maximum organic low-end and independent tuning"
         },
         {
@@ -20771,7 +20771,7 @@ The maple shell's full-bodied projection gives a faster, punchier response — w
 - Slightly slower response than 22\" at the fastest blast beat tempos
 - Larger footprint and harder to transport
 
-**Dual Bass Drums (Mario Duplantier, Martin Axenrot):**
+**Dual Bass Drums (Mario Duplantier):**
 - The most organic, independently-tunable low-end — no double pedal compromises
 - Requires significantly more floor space and heavier transport
 - Favored by technical/progressive death metal drummers for feel over pure economy
@@ -20837,7 +20837,7 @@ The maple shell's full-bodied projection gives a faster, punchier response — w
     faq: [
       {
         question: "What bass drums do extreme metal drummers use?",
-        answer: "22\"x18\" is the extreme metal standard — George Kollias plays a Pearl Masterworks, Gene Hoglan plays a Pearl Reference Pure, and Joey Jordison played a Pearl Reference Series, all at this size. Tomas Haake (Meshuggah) uses an oversized 24\"x18\" Sonor SQ2 for maximum low-end weight, while Mario Duplantier (Gojira) and Martin Axenrot (Opeth) both run dual 22\"x18\" bass drums instead of a double pedal."
+        answer: "22\"x18\" is the extreme metal standard — George Kollias plays a Pearl Masterworks, Gene Hoglan plays a Pearl Reference Pure, and Joey Jordison played a Pearl Reference Series, all at this size. Tomas Haake (Meshuggah) uses an oversized 24\"x18\" Sonor SQ2 for maximum low-end weight, while Mario Duplantier (Gojira) runs dual 22\"x18\" bass drums instead of a double pedal."
       },
       {
         question: "What size bass drum is best for blast beats?",
@@ -20849,7 +20849,7 @@ The maple shell's full-bodied projection gives a faster, punchier response — w
       },
       {
         question: "Should I use a double pedal or dual bass drums?",
-        answer: "A double pedal on a single 22\" bass drum (George Kollias, Gene Hoglan) is more compact, portable, and the standard for most touring extreme metal drummers. Dual bass drums (Mario Duplantier, Martin Axenrot) trade portability and floor space for a more organic, independently-tunable low-end from each kick."
+        answer: "A double pedal on a single 22\" bass drum (George Kollias, Gene Hoglan) is more compact, portable, and the standard for most touring extreme metal drummers. Dual bass drums (Mario Duplantier) trade portability and floor space for a more organic, independently-tunable low-end from each kick."
       },
       {
         question: "What bass drum head is best for extreme metal?",
@@ -20860,7 +20860,7 @@ The maple shell's full-bodied projection gives a faster, punchier response — w
     // Conclusion
     conclusion: {
       title: "Build the Low-End Your Playing Demands",
-      content: `The right bass drum setup for extreme metal comes down to what your playing actually needs: George Kollias and Gene Hoglan prove that a well-built 22"x18" single kick with a quality double pedal handles anything from thrash to 240+ BPM technical death metal. Tomas Haake proves that going bigger — 24"x18" — pays off when low-end weight matters more than raw speed. Mario Duplantier and Martin Axenrot prove that skipping the double pedal for dual bass drums delivers a feel a single kick simply can't replicate.
+      content: `The right bass drum setup for extreme metal comes down to what your playing actually needs: George Kollias and Gene Hoglan prove that a well-built 22"x18" single kick with a quality double pedal handles anything from thrash to 240+ BPM technical death metal. Tomas Haake proves that going bigger — 24"x18" — pays off when low-end weight matters more than raw speed. Mario Duplantier proves that skipping the double pedal for dual bass drums delivers a feel a single kick simply can't replicate.
 
 Start with a 22"x18" shell and a reinforced head like the Evans EMAD or Remo Powerstroke 3 — it's the proven foundation across the genre's fastest and most demanding drummers. Upgrade toward an oversized or dual-kick setup once you know exactly what your playing is asking for.
 

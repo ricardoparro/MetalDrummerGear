@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-22 19:12 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-23 00:29 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,89 +8,87 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 448 |
-| Sessions | 511 |
-| Page views | 670 |
-| Engagement rate | 58.12% |
-| Avg session (s) | 311 |
+| Active users | 380 |
+| Sessions | 440 |
+| Page views | 588 |
+| Engagement rate | 58.86% |
+| Avg session (s) | 345 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 30 | 21 |
-| /drummer/mario-duplantier | 15 | 14 |
-| /drummer/matt-greiner | 15 | 10 |
-| /drummer/frost | 13 | 5 |
-| /articles/slipknot-self-titled-drum-setup | 10 | 9 |
-| /drummer/eloy-casagrande | 10 | 8 |
+| / | 23 | 15 |
+| /drummer/frost | 14 | 6 |
+| /drummer/matt-greiner | 11 | 7 |
+| /drummer/mario-duplantier | 10 | 9 |
 | /drummer/joey-jordison | 9 | 7 |
 | /drummers/mike-portnoy/evolution | 9 | 3 |
 | /guides/best-in-ear-monitors-for-metal-drummers | 9 | 7 |
-| /drummer/bill-ward | 8 | 8 |
+| /articles/slipknot-self-titled-drum-setup | 8 | 7 |
+| /drummer/john-otto | 8 | 7 |
+| /drummer/bill-ward | 7 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 379 | 317 |
-| Direct | 128 | 127 |
-| Unassigned | 5 | 5 |
-| Organic Social | 2 | 2 |
+| Organic Search | 344 | 286 |
+| Direct | 92 | 91 |
+| Unassigned | 9 | 9 |
 | AI Assistant | 1 | 1 |
+| Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 166 | 143 |
-| Singapore | 55 | 55 |
-| China | 44 | 44 |
+| United States | 151 | 130 |
+| Singapore | 40 | 40 |
 | United Kingdom | 36 | 22 |
-| Canada | 24 | 20 |
-| Germany | 17 | 15 |
-| Australia | 16 | 13 |
+| China | 29 | 29 |
+| Canada | 18 | 14 |
 | Brazil | 13 | 11 |
-| France | 11 | 10 |
-| Italy | 9 | 9 |
+| Germany | 13 | 12 |
+| Australia | 11 | 8 |
+| France | 9 | 8 |
+| Poland | 8 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 20,593 |
-| Clicks | 236 |
-| CTR | 1.15% |
+| Impressions | 17,557 |
+| Clicks | 187 |
+| CTR | 1.07% |
 | Avg position | 8.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| bill ward drum kit | 9 | 2 | 22.22% | 6.0 |
+| bill ward drum kit | 8 | 2 | 25.00% | 6.0 |
 | jaska raatikainen drum set | 6 | 2 | 33.33% | 1.3 |
-| joey jordison drum kit | 60 | 2 | 3.33% | 9.3 |
-| mario duplantier drum kit | 51 | 2 | 3.92% | 5.4 |
+| joey jordison drum kit | 56 | 2 | 3.57% | 9.3 |
 | matt greiner cymbals | 10 | 2 | 20.00% | 8.1 |
-| matt greiner drum setup | 20 | 2 | 10.00% | 7.1 |
+| matt greiner drum setup | 15 | 2 | 13.33% | 7.1 |
 | best cymbals for metal | 11 | 1 | 9.09% | 11.5 |
-| best metal drummers | 15 | 1 | 6.67% | 12.5 |
+| best metal drummers | 12 | 1 | 8.33% | 13.4 |
 | bill ward cymbals | 3 | 1 | 33.33% | 7.7 |
-| brann dailor kit | 7 | 1 | 14.29% | 4.0 |
+| brann dailor kit | 6 | 1 | 16.67% | 4.0 |
+| can you show me some images | 1 | 1 | 100.00% | 9.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,954 | 91 | 2.30% | 8.1 |
-| gbr | 1,111 | 15 | 1.35% | 8.7 |
-| can | 692 | 12 | 1.73% | 8.0 |
-| deu | 428 | 9 | 2.10% | 7.2 |
-| aus | 611 | 8 | 1.31% | 8.8 |
-| fra | 450 | 8 | 1.78% | 8.4 |
-| ita | 296 | 8 | 2.70% | 7.6 |
-| bra | 2,185 | 6 | 0.27% | 7.8 |
-| fin | 190 | 6 | 3.16% | 6.7 |
-| rus | 262 | 5 | 1.91% | 7.9 |
+| usa | 3,260 | 74 | 2.27% | 8.2 |
+| gbr | 920 | 14 | 1.52% | 8.7 |
+| can | 572 | 7 | 1.22% | 8.1 |
+| fra | 390 | 6 | 1.54% | 8.3 |
+| ita | 252 | 6 | 2.38% | 7.8 |
+| aus | 535 | 5 | 0.93% | 8.9 |
+| deu | 351 | 5 | 1.42% | 7.2 |
+| fin | 160 | 5 | 3.13% | 6.6 |
+| bra | 1,953 | 4 | 0.20% | 7.8 |
+| nor | 94 | 4 | 4.26% | 7.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-| Query | Impr | CTR | Pos | Action |
-| --- | --- | --- | --- | --- |
-| jaska raatikainen | 100 | 1.00% | 11.0 | open issue to answer better |
+_no significant gaps detected — all queries with traction have decent CTR_
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

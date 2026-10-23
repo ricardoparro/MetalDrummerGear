@@ -2,7 +2,7 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-22 00:28 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-23 00:29 UTC*
 
 ---
 ## 2026-10-22 18:14 (cheap pulse — 6/6 proposals verified+promoted #9536-9541, +1 companion ai-fix filed #9551)
@@ -30,6 +30,9 @@ Cheap pulse between mid-day (12:17 deep run) and the 19:00 UTC evening-review wi
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+---
+
 ## 2026-10-22 12:17 (daily deep run — 8/8 proposals verified+promoted #9518-9525, +1 new ai-fix filed #9535)
 
 ### Context (≤3 lines)
@@ -56,6 +59,9 @@ First run after 07:00 UTC (daily deep run). Metrics 12:17 UTC (438u/500s/656v 7d
 3. #7981 (Derek Roddy snare) still held. Human-founder blockers unchanged — no re-spam.
 
 ---
+
+---
+
 ## 2026-10-22 00:33 (cheap pulse — 8/8 proposals verified+promoted, #9487-9492/9494-9495)
 
 ### Context (≤3 lines)
@@ -80,6 +86,8 @@ Pre-07:00 UTC cheap pulse. Metrics 00:28 UTC (417u/475s/629v 7d; GSC 16,971 impr
 1. Watch #9487-9492/9494-9495 pick up via Roadie; confirm #9490's djent-guide 16-line scope expansion lands (hard gap, not just a nice-to-have), #9492's Gear Shopping List + FAQ + heads-field fold-in, #9495's 4 extra recurrence lines + the unclaimed heads drift.
 2. L1/L2/L3 weekly refresh due ~2026-10-26 — next full close-the-loop pass then.
 3. #7981 (Derek Roddy snare) still held. #5141/#5100 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -118,6 +126,8 @@ Pre-07:00 UTC cheap pulse. Metrics 00:27 UTC (365u/413s/569v 7d; GSC 16,387 impr
 
 ---
 
+---
+
 ## 2026-10-20 12:16 (daily deep run — 7/7 proposals verified+promoted, #9386-9392)
 
 ### Context (≤3 lines)
@@ -142,6 +152,8 @@ First run after 07:00 UTC (daily deep run). Metrics 12:16 UTC (387u/440s/616v 7d
 1. Watch #9386-9392 pick up via Roadie; confirm #9388's extra budgetSetups "Paiste 2002" cleanup, #9389's extra Evans-head cleanup, and #9391's careful "since 1997" scoping (band-tenure only, not gear-endorsement lines) all get used.
 2. L1/L2/L3 weekly refresh due ~2026-10-26 — next full close-the-loop pass then.
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -192,6 +204,8 @@ Pre-07:00 UTC cheap pulse. Metrics 00:28 UTC (366u/412s/575v 7d; GSC 16,095 impr
 
 ---
 
+---
+
 ## 2026-10-19 00:31 (evening-review catch-up for 10-18 — 6/6 proposals verified+promoted, #9310-9315)
 
 ### Context (≤3 lines)
@@ -229,6 +243,8 @@ First-run-after-19:00 UTC evening review for 10-18, landed just past midnight (s
 
 ---
 
+---
+
 ## 2026-10-18 18:11 (mid-day pulse — 8/8 proposals verified+promoted, #9292-9299)
 
 ### Context (≤3 lines)
@@ -253,6 +269,8 @@ First run after 13:00 UTC (late-arriving mid-day pulse). Metrics 18:11 UTC (454u
 1. Watch #9292-9299 pick up via Roadie; confirm #9295's both-mirrors touring-status fix (not just evolution.md) and #9299's corrected 7+11 line list land.
 2. **L1/L2/L3 weekly refresh due ~2026-10-19 (tomorrow) — full close-the-loop pass once it lands.** L2 cited count was 27/100 as of 10-12, only 2 points above the forced-pressure floor — if it drops again, the forced L2 minimum-pressure quota re-arms.
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -304,6 +322,8 @@ First-run-after-07:00 UTC deep run. Metrics 12:14 UTC (443u/492s/722v 7d; GSC 17
 
 ---
 
+---
+
 ## 2026-10-18 06:17 (cheap pulse — 6/6 proposals verified+promoted, #9266-9271)
 
 ### Context (≤3 lines)
@@ -341,6 +361,8 @@ Pre-07:00 UTC cheap pulse. Metrics 06:16 UTC (428u/474s/701v 7d; GSC 14,340 impr
 
 ---
 
+---
+
 ## 2026-10-18 00:31 (evening-review catch-up for 10-17 — 4/4 proposals verified+promoted, #9262-9265)
 
 ### Context (≤3 lines)
@@ -365,6 +387,8 @@ First-run-after-19:00 UTC evening review for 10-17, landed past midnight (same l
 1. Watch #9262-9265 pick up via Roadie; confirm #9263's implementer checks whether `generate-llms-gear-history.cjs` covers the 2 stale mirrors before hand-editing.
 2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, only 2 points above the forced-pressure floor — watch closely.
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -419,6 +443,8 @@ First-run-after-07:00 UTC deep run. Metrics 12:16 UTC (445u/490s/705v 7d; GSC 12
 
 ---
 
+---
+
 ## 2026-10-16 06:19 (cheap pulse — 7/8 proposals verified+promoted, #9153-9156/9158-9160; #9157 held)
 
 ### Context (≤3 lines)
@@ -445,6 +471,8 @@ Pre-07:00 UTC cheap pulse. Metrics 06:18 UTC (445u/488s/693v 7d; GSC 12,432 impr
 2. #9157 routed back to SEO Agent for per-slug atomic re-filing — watch for those follow-ups, don't re-litigate the meta-issue itself.
 3. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, only 2 points above the 25-floor.
 4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -508,184 +536,6 @@ Pre-07:00 UTC cheap pulse. Metrics 00:27 UTC (445u/488s/690v 7d; GSC 12,432 impr
 
 ---
 
-## 2026-10-15 18:14 (mid-day pulse — 6/6 proposals verified+promoted, #9123-9128)
-
-### Context (≤3 lines)
-First-run-after-13:00 UTC pulse. Metrics 18:13 UTC (469u/526s/757v 7d; GSC 14,641 impr/228 clicks/1.56% CTR/pos 7.9). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 6 fresh untriaged `seo-proposal` (#9123-9128, filed 13:14-13:15 UTC), continuing the gear/bio-fact-fabrication sweep (api/drummers/index.js, extendedBios.js, soundLikeGuides.js, drummerEvolution.js, gearPriceHistory.js, drummerComparisons.js, top10Lists.js, pedals.js, albumArticles, public/llms mirrors) vs ground-truth cross-checks (endorsementNews.js, bands.js, birthdays.js, external WebSearch where needed).
-
-### Actions taken
-- **Live-verified all 6 via 6 parallel subagents** (read cited lines, cross-checked ground-truth files, git-blamed prior fix PRs, dupe-searched): #9123 (Alex Rüdinger — Threat Signal departure "late 2011" vs verified April 2012 across 8 locations, self-contradicts the same object's own `period:'2010–2012'` field) VERIFIED-WITH-NOTE — all 8 confirmed, flagged the 2 `public/llms/**.md` files as generator output (fix source, regenerate, don't hand-edit). #9124 (Navene Koperweis — api/drummers/index.js kitOverview "2012-2014" vs verified 2010-2012, PR #8255/#8241 never touched this file) VERIFIED-CLEAN — minor line drift (1647 not 1662) noted, found the generated .md mirror already self-contradicts itself (kitOverview vs its own FAQ section). #9125 (John Otto — gearPriceHistory.js 1999 `setup.hardware` fabricates "Pearl P-2002 Eliminator Pedal," verified Gibraltar since 1999; PR #9059 only fixed an adjacent `summary` string) VERIFIED-CLEAN, exact lines. #9126 (Aquiles Priester batch: W.A.S.P. join year "2006" vs verified 2017, Angra end-year "2012" vs verified 2008, albumArticles birthplace fabricated as São Paulo vs verified Outjo/Namibia) VERIFIED-WITH-NOTE — all 3 sub-claims confirmed, including that PR #5672/#5653 is the actual commit that regressed Angra's correct 2001-2008 to wrong 2000-2012; flagged the drummerEvolution.js "2012-wasp-pearl" era block (with an invented 2016 DRUM! Magazine quote) needs narrative restructuring, not a literal year swap. #9127 (Daray batch: Vader tenure 3-way contradiction — 2004-2008 ground truth vs "2006-2016" vs "2002–2005" — plus pedals.js Pearl Demon XR→Demon Drive misattribution, pedals.js never had a Daray-specific commit) VERIFIED-CLEAN, both sub-claims confirmed exactly. #9128 (Dirk Verbeuren — 2016 Megadeth era snare fabricated as "Tama S.L.P. G-Maple" in drummerEvolution.js + gearPriceHistory.js, verified no snare model documented before the 2022 Dynamic Bronze signature; G-Maple is legitimately used elsewhere for Lombardo/Turner) VERIFIED-CLEAN, scope-bounded. All 6 promoted to `ai-fix`; guidance comments posted on all 6 (3 with substantive scope notes: #9123, #9124, #9126).
-- **GSC content-gap**: `joey jordison drum set`/`john otto snare`/`john otto snare drum` re-matched to standing rulings (known-oscillator line 99/185/242; John Otto SERP-drop watch item line 258, no lever to pull). No re-action.
-- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
-- **Atomic-split sweep**: all 6 open `ai-fix` issues filed today (13:14-13:15 UTC) — nothing crosses the >3-day trigger.
-- **Starvation check**: post-triage backlog 6, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this batch at 13:14-13:15 UTC (~5h ago), next due in its ~6h cadence window, not yet elapsed.
-- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 (GSC 08:36, indexation 09:49, LLM 08:09 UTC) — already fully closed-the-loop in the 10-12/10-14 runs, no new weekly refresh landed (due ~10-19). Not re-running the same analysis.
-
-### State delta
-- ai-fix backlog (eligible): 0 → 6 (#9123-9128 promoted)
-- seo-proposal bank (excl. held #7981, umbrellas): 6 fresh → 0 untriaged
-
-### Quota check
-✅ SEO proposals: 6/6 triaged, live-verified, all promoted (3 with correction/scope notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: rows already ruled. ✅ L1/L2/L3: not due yet (due ~10-19). ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
-
-### Next Run
-1. Watch #9123-9128 pick up via Roadie; confirm #9123/#9124's generated-.md-regenerate-not-hand-edit guidance, and #9126's narrative-restructure (not literal swap) guidance on the drummerEvolution.js era block.
-2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, only 2 points above the 25-floor.
-3. #7981 (Derek Roddy snare) still held — no new external source found yet.
-4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-10-15 12:17 (cheap pulse — 8/8 proposals verified+promoted, #9107-9114; +1 self-filed from verification spillover, #9122)
-
-### Context (≤3 lines)
-Cheap pulse (not first-after-07:00/13:00). Metrics 12:17 UTC (460u/515s/741v 7d; GSC 14,641 impr/228 clicks/1.56% CTR/pos 7.9). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9107-9114, filed 07:21-07:23 UTC), continuing the gear/bio-fact-fabrication sweep (bands.js/extendedBios.js/drummerEvolution.js/soundLikeGuides.js/albumArticles/top10Lists.js/genreGearGuides.js/api files) vs ground-truth cross-checks (bands.js, endorsementNews.js, api/drummers/index.js, external WebSearch where needed).
-
-### Actions taken
-- **Live-verified all 8 via 8 parallel subagents** (read cited lines, cross-checked ground-truth files, dupe-searched, WebSearched where a fact needed external confirmation): #9107 (John Longstreth Hate Eternal "2018-present" vs verified one-off Nov 2018 fill-in) VERIFIED-WITH-NOTE — exact lines, flagged a sibling already-correct entry to leave alone. #9108 (Martin Axenrot Opeth "2006-present" vs verified 2021 departure) VERIFIED-WITH-NOTE — exact lines, found an uncited present-tense leak in drummerComparisons.js, flagged as fast-follow. #9109 (Raymond Herrera Fear Factory "2009" vs verified 2006) VERIFIED-WITH-NOTE — exact lines; found a separate uncited bug (albumArticles/raymond-herrera.js frames the 2002 split as permanent, contradicting bands.js's 2003-2006 reunion) — **filed as its own issue, #9122** (ai-fix), rather than scope-creeping #9109. #9110 (Jaska Raatikainen "Espoo" vs verified Lappeenranta, 3 locations incl. JSON-LD) VERIFIED-WITH-NOTE — confirmed PR #8538 never touched these files; flagged adjacent correct "Espoo" band-founding mentions to leave alone. #9111 (Jay Weinberg fabricated replacement "Eric Morotti," verified Eloy Casagrande, + Nov/Dec self-contradiction) VERIFIED-WITH-NOTE — confirmed Morotti is fully fabricated, found the same errors mirrored in public/llms/evolution/jay-weinberg.md (uncited), folded into the same fix. #9112 (Ray Luzier batch: birthdate + 2 kit-name errors + "replacing Joey Jordison" vs verified David Silveria) VERIFIED-WITH-NOTE — all 4 claims confirmed, found the issue undercounted 2 of the 4 fixes by one line each (ray-luzier.js:1615, top10Lists.js:3342/3343). #9113 (Hellhammer/Jan Axel Blomberg batch: birthplace Oslo vs verified Trysil across 7 locations + fabricated "Roland Electronics" hardware + 2 self-contradictions) VERIFIED-CLEAN, no corrections needed. #9114 (Matt Halpern fabricated "Periphery V: Aliens" album, ~15 locations, + wrong Periphery founding-year claims) VERIFIED-WITH-NOTE — WebSearch confirmed the real album is "Periphery V: Djent Is Not a Genre" (Mar 2023, 3DOT Recordings), recommended deleting the fabricated section per the issue's own fallback rather than inventing new gear detail. All 8 promoted to `ai-fix`; guidance comments posted on all 8.
-- **New finding from verification, filed separately**: **#9122** (`albumArticles/raymond-herrera.js` 2002-permanent-split fabrication, 4 lines) — surfaced as a side-effect of verifying #9109, out of that issue's scope, so filed as its own atomic `ai-fix` rather than expanding #9109.
-- **GSC content-gap**: `joey jordison drum set` / `john otto snare` / `john otto snare drum` re-matched to standing rulings (known-oscillator line 99/185/242; John Otto SERP-drop watch item line 258, no lever to pull, not re-filed). No re-action.
-- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt`/comment change, no re-spam.
-- **Atomic-split sweep**: zero `ai-fix` issues open >3 days (query empty) — nothing eligible.
-- **Starvation check**: post-triage backlog 9, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this batch at 07:21-07:23 UTC (~5h ago), next due in its ~6h cadence window.
-- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 (GSC 08:36, indexation 09:49, LLM 08:09 UTC) — already fully closed-the-loop in the 10-12 and 10-14 deep/pulse runs, no new refresh landed (due ~10-19). Not re-running the same analysis.
-
-### State delta
-- ai-fix backlog (eligible): 0 → 9 (#9107-9114 promoted, #9122 self-filed)
-- seo-proposal bank (excl. held #7981, umbrellas): 8 fresh → 0 untriaged
-
-### Quota check
-✅ SEO proposals: 8/8 triaged, live-verified, all promoted (7 with correction/scope notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: rows already ruled. ✅ L1/L2/L3: not due yet (due ~10-19). ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
-
-### Next Run
-1. Watch #9107-9114 + #9122 pick up via Roadie; confirm the scope-expansion notes get applied (esp. #9111's llms.md mirror, #9112's undercounted lines, #9114's delete-vs-rewrite call).
-2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, only 2 points above the 25-floor.
-3. #7981 (Derek Roddy snare) still held — no new external source found yet. #9108's drummerComparisons.js present-tense leak and #9110's adjacent "Espoo" mentions — minor, left as notes not separate issues.
-4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-10-15 06:19 (cheap pulse — 5/5 proposals verified+promoted, #9099-9103)
-
-### Context (≤3 lines)
-Pre-07:00 UTC cheap pulse. Metrics 06:19 UTC (432u/486s/695v 7d; GSC 11,492 impr/195 clicks/1.70% CTR/pos 7.7). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 5 fresh untriaged `seo-proposal` (#9099-9103, filed 01:27-01:28 UTC), continuing the gear-fabrication sweep (api/drummers/index.js, gearPriceHistory.js, api/gear-finder/index.js, genreGearGuides.js, birthdays.js, drummerEvolution.js, endorsementNews.js) vs ground truth.
-
-### Actions taken
-- **Live-verified all 5 via 5 parallel subagents** (read cited lines, cross-checked `endorsementNews.js`, git-logged prior fix scope, dupe-searched): #9099 (Kevin Talley "Pearl Masters Premium Legend"/14x5.5" in api/drummers/index.js + gearPriceHistory.js, verified Pearl Masters Custom/Reference 14x6.5" steel) VERIFIED-WITH-NOTE — same fabrication also found, un-listed, in `packages/backend/src/index.js`, `soundLikeGuides.js` (x4), `top10Lists.js` (x2), `studies/mostUsedGearBrands.js`; told Roadie to fix all in one PR. #9100 (Nick Augusto "Pearl Demon Drive" pedal + 2009 vs 2010 tenure) VERIFIED-WITH-NOTE — title's "6 locations" in api/gear-finder/index.js is wrong, only line 454 is actually Augusto's record (the other 5 belong to Joey Jordison/Gene Hoglan/Matt Halpern/Flo Mounier/unattributed generic string); scoped Roadie down to the correct 2 files/5 lines only. #9101 (Travis Orbin Zildjian-on-2010-debut fabrication across genreGearGuides.js + 3rd wrong birthdate) VERIFIED-WITH-NOTE — actual count is 25+ locations, not the ~13 listed; flagged 5 correctly-hedged template lines (24534/24684/24793/24827/59034) that must survive a blanket fix. #9102 (Martin Lopez "Sonor Force Series" + anachronistic Opeth-era Zildjian, verified Designer Series + Sabian-through-2006) VERIFIED-WITH-NOTE — era-1 fix confirmed but eras 2 and 3 (lines ~10610-10613, ~10680-10684) carry the identical Zildjian fabrication, not named in the issue; expanded scope to all 3 era blocks. #9103 (Alex Bent — endorsementNews.js's own ENDORSEMENT_NEWS array self-contradicts its already-fixed ENDORSEMENT_TIMELINE on the 2016 vs 2017 Trivium join; plus snare-depth and Axis-pedal-predates-Trivium errors in drummerEvolution.js/gearPriceHistory.js) VERIFIED-CLEAN — added a safety comment since the fix touches the ground-truth file itself, scoping it to the NEWS array only. All 5 promoted to `ai-fix` with guidance comments.
-- **GSC content-gap**: `joey jordison drum kit/drum set`, `john otto snare` — all already-ruled (known-oscillator / John Otto SERP-drop watch item, `learned-patterns.md` line 195/242/258). No re-action.
-- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
-- **Atomic-split sweep**: zero `ai-fix` issues open >3 days without `hold` — nothing eligible.
-- **Starvation check**: post-triage backlog 5, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this batch ~5h ago (01:27-01:28 UTC), next due within its ~6h cadence window.
-- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-12 — no new weekly refresh since the last full close-the-loop pass; next due ~2026-10-19.
-- Confirmed #9097 (Jon Dette Testament tenure revert) and #9098 (SEO Agent hold-label fix) from the prior evening-review both merged (`135fff72`, `a46f7846`) — the live wrong-fact incident from the 00:34 entry is now resolved on main.
-
-### State delta
-- ai-fix backlog (eligible): 0 → 5 (#9099-9103 promoted)
-- seo-proposal bank (excl. held #7981, umbrellas): 5 fresh → 0 untriaged
-- #9097/#9098 confirmed merged — Jon Dette Testament tenure regression fully resolved
-
-### Quota check
-✅ SEO proposals: 5/5 triaged, live-verified, all promoted (4 with scope-correction notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: rows already ruled. ✅ L1/L2/L3: not due until ~10-19. ✅ Starvation: trigger shape met but confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
-
-### Next Run
-1. Watch #9099-9103 pick up via Roadie; confirm #9100 respects the gear-finder scope correction (only line 454, not all 6) and #9103 touches only the ENDORSEMENT_NEWS array.
-2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, only 2 points above the 25-floor.
-3. #7981 (Derek Roddy snare) still held — no new external source found yet.
-4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-10-15 00:34 (evening-review catch-up for 10-14 — reverted a shipped data regression, #9097/#9098 filed)
-
-### Context (≤3 lines)
-First-run-after-19:00 UTC evening review for 10-14, landed past midnight. Metrics 00:27 UTC (410u/464s/669v 7d; GSC 11,492 impr/195 clicks/1.70% CTR/pos 7.7). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 0 untriaged `seo-proposal` (excl. held #7981, umbrellas #2211/#3810/#3819) — genuine queue-starvation shape, but investigation found something more urgent first.
-
-### Actions taken
-- **Found and fixed a shipped data regression.** The SEO Agent's 19:02 UTC run (0 proposals filed) explained why in its summary: it re-verified #9084 (promoted by the prior 18:14 run) and found the "6 sibling files agree" claim was backwards, posting a hold comment with Wikipedia sources recommending against promotion — but #9084 was already `ai-fix`, and Roadie claimed+merged it (PR #9093, 19:19 UTC, 10 min after the warning) because the hold comment carried no label. Independently re-verified via direct Wikipedia fetch (List of Testament members + Jon Dette page, two sources agreeing): Jon Dette's real Testament tenure is two touring-only stints, **1994-1995 and 1997-1998**, not the shipped **1997-1999, 2001-2012** — which is self-contradictory on its face (2001-2012 overlaps Paul Bostaph's 2007-2011 and Gene Hoglan's 2011-2022 in the same `bands.js` drum chair). Dispatched a sub-agent to find every file carrying the same wrong value: 6 sibling files, 18 locations (`drummerEvolution.js`, `drummerComparisons.js`, `extendedBios.js`, `gearPriceHistory.js`, `soundLikeGuides.js`, `api/drummers/index.js`), confirming #9084's original "6 files agree" claim was literally one fabrication copy-pasted 6 times. Tried to fix `bands.js` directly via my own PR (#9096) — CI checks got stuck at `action_required` and my session's GITHUB_TOKEN can't approve them (403, same limitation CLAUDE.md documents for workflow dispatch); closed that PR and routed the verified fix through the normal pipeline instead.
-- **Filed #9097** (P0 ai-fix: revert `bands.js` + fix the same wrong value across the 6 sibling files, with exact line numbers and the verified-correct dates) and **#9098** (ai-fix: SEO Agent's hold comments need to add the `hold` label, not just comment — `.roadie/drain.sh` already excludes that label from eligibility, so this is a prompt-completeness fix, not a drain.sh change).
-- **Logged the incident in `learned-patterns.md`**: cross-file agreement ≠ verification for tenure/date facts (same shape as the #8390 gear lesson, now extended to band history); always check for an internal date-overlap impossibility before promoting a tenure change; hold comments must carry the `hold` label to have any effect on Roadie.
-- **Starvation check**: post-fix backlog is 2 (#9097/#9098), still trips the trigger shape, but SEO Agent's 0-output run was correct caution (not underperformance — it caught its own error), and the next run is due within the hour (pattern: 01:15/07:07/13:02/19:02 UTC). Not escalating — not the SEO Agent's fault, and new surface is still frozen.
-- **GSC content-gap**: `joey jordison drum kit/drum set`, `john otto snare` — all already-ruled (known-oscillator / John Otto SERP-drop watch item, no lever). **Founder ideas**: inbox empty. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam. **Atomic-split**: nothing open >3 days without `hold`.
-
-### State delta
-- ai-fix backlog (eligible): 0 → 2 (#9097 P0 revert, #9098 process fix)
-- `bands.js` Jon Dette/Testament tenure: confirmed still wrong in main (my fix lives only in #9097's description, not merged) — **do not treat as fixed until #9097 lands**
-- learned-patterns.md: +1 entry (hold-comment-needs-label lesson)
-
-### Quota check
-✅ SEO proposals: none pending (0 untriaged). ✅ Founder ideas: inbox empty. ✅ GSC-gap: rows already ruled. ✅ Regression response: root-caused + filed P0 fix same run. ✅ Starvation: trigger shape met, confirmed non-event (SEO Agent's 0-output was justified caution, not starvation). ✅ Atomic split: nothing eligible. ✅ Decisions logged.
-
-### Next Run
-1. **Confirm #9097 merges and actually fixes all 7 files** — this is a live wrong-fact bug until then; don't let it sit.
-2. Confirm #9098 lands (SEO Agent PROMPT.md hold-label fix) — re-check next time the agent posts a "Hold —" comment that it also adds the label.
-3. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands.
-4. #7981 (Derek Roddy snare) still held — no new external source found yet.
-5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ---
 
 ## 2026-10-16 18:13 (mid-day pulse — 8/8 proposals verified+promoted, #9184-9191)
@@ -714,6 +564,8 @@ First-run-after-13:00 UTC pulse. Metrics 18:13 UTC (445u/490s/705v 7d; GSC 15,64
 3. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands, especially the John Otto cluster (line 258) and L2 cited count (27/100 as of 10-12, 2 points above the 25-floor).
 4. #7981 (Derek Roddy snare) still held — no new external source found yet.
 5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -767,6 +619,8 @@ Pre-07:00 UTC cheap pulse. Metrics 00:27 UTC (386u/424s/624v 7d; GSC 13,588 impr
 
 ---
 
+---
+
 ## 2026-10-17 06:16 (cheap pulse — 3/3 proposals verified+promoted, #9218-9220)
 
 ### Context (≤3 lines)
@@ -792,6 +646,8 @@ Pre-07:00 UTC cheap pulse. Metrics 06:16 UTC (408u/455s/668v 7d; GSC 13,588 impr
 2. #9157 sweep: remaining candidates still being worked through by SEO Agent (check tracking issue for current count).
 3. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12.
 4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -844,6 +700,8 @@ First-run-after-07:00 UTC deep run. Metrics 12:14 UTC (446u/494s/729v 7d; GSC 13
 
 ---
 
+---
+
 ## 2026-10-17 18:11 (mid-day pulse — 6/6 proposals verified+promoted, #9242-9247)
 
 ### Context (≤3 lines)
@@ -868,6 +726,8 @@ First-run-after-13:00 UTC mid-day pulse. Metrics 18:11 UTC (452u/502s/739v 7d; G
 1. Watch #9242-9247 pick up via Roadie; confirm #9243's affiliate-link removal, #9244's 3 song-year fixes ship independent of the G-Maple resolution, #9246's corrected line numbers (1825/1832-1833, birthdays.md lines 49+84) get used.
 2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands; L2 cited count was 27/100 as of 10-12, 2 points above the forced-pressure floor.
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -925,6 +785,8 @@ First run after 07:00 UTC, and first run after today's weekly L1/L2/L3 refresh l
 
 ---
 
+---
+
 ## 2026-10-19 06:25 (cheap pulse — 3/3 proposals verified+promoted, #9325-9327)
 
 ### Context (≤3 lines)
@@ -950,6 +812,8 @@ Pre-07:00 UTC cheap pulse. Metrics 06:25 UTC (402u/451s/640v 7d; GSC 15,188 impr
 2. L1/L2/L3 weekly refresh due ~2026-10-19 — full close-the-loop pass once it lands this run or the next, especially the John Otto cluster (line 258 watch item, 2nd-week check) and L2 cited count (27/100 as of 10-12, 2 points above the forced-pressure floor).
 3. #7981 (Derek Roddy snare) still held — no new external source found yet.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -1000,6 +864,8 @@ Afternoon pulse between the 12:18 deep run and the 19:00 evening-review window. 
 
 ---
 
+---
+
 ## 2026-10-20 06:18 (cheap pulse — 8/8 proposals verified+promoted, #9370-9377)
 
 ### Context (≤3 lines)
@@ -1024,6 +890,8 @@ Pre-07:00 UTC cheap pulse. Metrics 06:18 UTC (382u/433s/610v 7d; GSC 16,095 impr
 1. Watch #9370-9377 pick up via Roadie; confirm #9373's corrected line numbers (13367/13371/13374/13383) and sibling fix (13496), #9374's corrected lines (10692-10698/10787-10813/10611) plus the extra gearPages sweep (10841), and #9372's "don't erase the 2023 connection entirely" nuance all get used.
 2. L1/L2/L3 weekly refresh due again ~2026-10-26 — full close-the-loop pass then.
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -1062,6 +930,8 @@ Afternoon pulse between the (unlogged, no-change) mid-day window and the 19:00 e
 
 ---
 
+---
+
 ## 2026-10-21 06:18 (cheap pulse — 8/8 proposals verified+promoted, #9433-9441)
 
 ### Context (≤3 lines)
@@ -1091,6 +961,8 @@ Pre-07:00 UTC cheap pulse. Metrics 06:18 UTC (392u/443s/619v 7d; GSC 16,387 impr
 
 ---
 
+---
+
 ## 2026-10-21 12:16 (mid-day pulse — 8/8 proposals verified+promoted, #9449-9456)
 
 ### Context (≤3 lines)
@@ -1115,6 +987,8 @@ Pre-13:00 UTC pulse. Metrics 12:16 UTC (445u/505s/683v 7d; GSC 16,387 impr/219 c
 1. Watch #9449-9456 pick up via Roadie; confirm the extra findings get used (Greiner line-10 Pearl ref, Mazurkiewicz Tama-kit/brand-link fix, McBrain Sonor→BDC gear fix, Van Poederooyen line-45 Empath ref, Sandoval hedge preservation, Bostaph Exodus-credit removal).
 2. L1/L2/L3 weekly refresh due ~2026-10-26 — full close-the-loop pass then.
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -1150,6 +1024,7 @@ Afternoon pulse between the 12:16 mid-day run and the 19:00 evening-review windo
 
 ---
 
+---
 
 ## 2026-10-22 06:18 (early pulse — 8/8 proposals verified+promoted, #9499-9506)
 
@@ -1177,3 +1052,33 @@ Pre-07:00 UTC pulse (deep run not yet triggered). Metrics 06:18 UTC (431u/492s/6
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-10-23 00:29 (cheap pulse — 8/8 proposals verified+promoted, #9554-9562 excl. #9558)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 00:29 UTC (380u/440s/588v 7d; GSC 17,557 impr/187 clicks/1.07% CTR/pos 8.8, no content-gap rows this week). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9554-9557/9559-9562, filed 19:10-19:12 UTC 10-22), continuing the genreGearGuides.js gear-fabrication sweep (sibling-guide-family gaps: china/ride/hi-hat/pedal/snare cross-contradictions, plus two "relapsed after prior closed fixes" cases) vs ground truth in soundLikeGuides.js/extendedBios.js/bands.js.
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (read cited lines, cross-checked ground-truth files, git/issue-history checked prior fixes, dupe-searched): #9554 (Aquiles Priester — fabricated "2023 Angra return" across 29 lines/8 guide families, 3rd un-remediated location after #9551/#9537) VERIFIED-WITH-NOTE, zero line drift, flagged a milder echo in `endorsementNews.js:2335`. #9555 (Hannes Grossmann — snare guide backdates DW Collector's to pre-2014 Obscura era, verified Tama S.L.P. G-Maple) VERIFIED-WITH-NOTE, found 8 additional unlisted drift lines (68627-68786 range) in the same bug class, scope-expanded for Roadie. #9556 (Abe Cunningham — china guide fabricates 18" K Custom vs verified 19" A Custom, contradicts file's own general guide) VERIFIED-CLEAN, trivial field-line offset only. #9557 (Danny Carey — doom-metal guide family **relapsed** after 9 prior closed fixes: Custom Maple/dual-kick/Paiste RUDE/Tama Iron Cobra all regrew) VERIFIED-CLEAN, confirmed all 9 cited prior issues closed, flagged for broad-grep fix per the issue's own instruction since narrow patches haven't held. #9559 (Brann Dailor — post-metal guide says double pedal, doom/sludge guides correctly say single) VERIFIED-CLEAN, zero drift. #9560 (Mario Duplantier — ride guide still fabricates "Paiste Twenty Custom Full Ride" vs verified Zildjian, sibling gap left by #8387/#8416 which only fixed tag pairs) VERIFIED-WITH-NOTE, found 7 additional unlisted drift lines, confirmed genuine sibling-gap not a dupe. #9561 (Dave Lombardo — hi-hat guide fabricates 14" Paiste RUDE vs verified 15" Sound Edge, ride FAQ wrong size) VERIFIED-CLEAN, Benante cross-contamination check passed (his own 14"/20" RUDE figures are independently correct and must not be touched). #9562 (Travis Orbin — guides still credit him with playing on Periphery's 2010 debut despite Feb 2009 departure, verified via #9523/PR #9547) VERIFIED-WITH-NOTE, found additional unlisted drift in the same guide families, confirmed the bands.js 2008-2009 vs 2006-2009 tenure-start conflict is pre-existing/out-of-scope and doesn't block the core fix. All 8 promoted to `ai-fix`; guidance comments posted on all 8 (4 with scope-expansion notes: #9555, #9557, #9560, #9562).
+- **GSC content-gap**: this week's refresh shows **no rows** meeting the impr≥50/CTR<2% threshold — first clean week in a while. No action needed.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: zero `ai-fix` issues open >3 days without hold/in-progress/pr-opened/blocked — nothing eligible.
+- **Starvation check**: post-triage backlog 8, untriaged bank 0 (excl. held #7981, umbrellas #2211/#3810/#3819) — trips the trigger shape (backlog<15, bank≤2) but confirmed non-event: SEO Agent filed this batch at 19:10-19:12 UTC (~5h before this run), drain-then-refill pattern, not starvation.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-19 (already closed-the-loop that day) — next weekly refresh due ~2026-10-26, not re-run. Noted L2 cited count is now 32/100 (up from 27/100 on 10-12), above the 25-floor.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9554-9557/9559-9562 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (4 with scope-expansion notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: no rows this week. ✅ L1/L2/L3: not due again yet (L2 cited count 32/100, healthy above floor). ✅ Starvation: trigger shape met but confirmed non-event (drain-then-refill). ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9554-9557/9559-9562 pick up via Roadie; confirm the 4 scope-expansion notes get applied (#9555's extra 68627-68786 lines, #9557's broad-grep instruction, #9560's extra FAQ/summary lines, #9562's extra drum-triggers/kit-FAQ lines).
+2. First run after 07:00 UTC is the daily deep run — full metrics/GSC-gap/L1-L2-L3 close-the-loop pass then (L1/L2/L3 weekly refresh also due ~2026-10-26).
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+

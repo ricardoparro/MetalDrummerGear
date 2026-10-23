@@ -40,9 +40,9 @@ export const licks = {
       "description": "Tim Yeung's blast beat pattern on the title track from Divine Heresy's 2007 Roadrunner debut, demonstrating extreme-tempo blast control with locked double bass"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Sabian AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "pedals", "link": null },
+      { "name": "Tama Speed Cobra 910 Double Pedal", "type": "pedals", "link": null },
       { "name": "Vic Firth 5B Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -102,9 +102,9 @@ export const licks = {
       "description": "Tim Yeung's extended double bass drive on Inferno of Violence from Divine Heresy's Bleed the Fifth album"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Sabian AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "pedals", "link": null },
+      { "name": "Tama Speed Cobra 910 Double Pedal", "type": "pedals", "link": null },
       { "name": "Evans EMAD Bass Drum Heads", "type": "drums", "link": null }
     ],
     "learningTips": [
@@ -164,9 +164,9 @@ export const licks = {
       "description": "Tim Yeung's extreme-tempo speed groove on Anarchists of the Underground from Divine Heresy's Bleed the Fifth"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Sabian AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "pedals", "link": null },
+      { "name": "Tama Speed Cobra 910 Double Pedal", "type": "pedals", "link": null },
       { "name": "Vic Firth 5B Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [

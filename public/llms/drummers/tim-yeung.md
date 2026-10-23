@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/tim-yeung"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-23"
 ---
 
 # Tim Yeung — Drum Kit & Gear Setup
@@ -44,11 +44,11 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
 ## Career Highlights
 
 - **1990s** — Began drumming career in the underground death metal scene
-- **2001** — Joined Erik Rutan's Hate Eternal
-- **2002** — Recorded "King of All Kings" with Hate Eternal
+- **1997** — Joined Erik Rutan's Hate Eternal as founding drummer
+- **1999** — Recorded "Conquering the Throne" with Hate Eternal
 - **2003** — Joined Vital Remains, recorded "Dechristianize"
-- **2004** — Joined Morbid Angel following Pete Sandoval's health issues
 - **2006** — Co-founded Divine Heresy with Dino Cazares
+- **2010** — Joined Morbid Angel following Pete Sandoval's back surgery
 - **2011** — Recorded "Illud Divinum Insanus" with Morbid Angel
 - **2012** — Filled in for George Kollias on Nile European dates
 - **2015** — Left Morbid Angel
@@ -75,7 +75,7 @@ Tim Yeung's drumming style is defined by extreme speed, unwavering consistency, 
 
 **Albums:**
 
-- **Hate Eternal - King of All Kings** (2002, Earache) — Brutal technical death metal
+- **Hate Eternal - Conquering the Throne** (1999, Wicked World) — Brutal technical death metal debut
 - **Vital Remains - Dechristianize** (2003, Olympic) — Death metal classic with Glen Benton
 - **Vital Remains - Icons of Evil** (2007, Century Media) — Continued brutality
 - **Divine Heresy - Bleed the Fifth** (2007, Roadrunner) — Fear Factory-influenced
@@ -84,16 +84,16 @@ Tim Yeung's drumming style is defined by extreme speed, unwavering consistency, 
 
 **Tours:**
 
-- **Morbid Angel World Tours** (2004-2015) — Extensive touring with death metal legends
+- **Morbid Angel World Tours** (2010-2015) — Extensive touring with death metal legends
 - **Vital Remains Tours** (2003-2007) — Supporting Dechristianize and Icons of Evil
 - **Nile Fill-In Dates** (2012) — European dates for George Kollias
 - **Summer Slaughter** (Multiple years) — US extreme metal festival tour
 
 ## Band History
 
-- **Hate Eternal** — 2004–2007, 2015–present (current)
-- **Morbid Angel** — 2013–2015
-- **Vital Remains** — 2001–2007
+- **Hate Eternal** — 1997–2000
+- **Morbid Angel** — 2010–2015
+- **Vital Remains** — 2003–2007
 
 ## Gear
 
@@ -229,4 +229,4 @@ Dated brand-endorsement timeline: [Tim Yeung's endorsement history](https://meta
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-23 · Source: [MetalForge.io](https://metalforge.io)*

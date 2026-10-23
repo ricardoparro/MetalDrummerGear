@@ -3412,9 +3412,9 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
     drummerId: 59,
     name: 'Tim Yeung',
     bands: [
-      { slug: 'morbid-angel', period: '2004-2015', role: 'Drummer' },
+      { slug: 'morbid-angel', period: '2010-2015', role: 'Drummer' },
       { slug: 'vital-remains', period: '2003-2007', role: 'Drummer' },
-      { slug: 'hate-eternal', period: '2001-2004', role: 'Drummer' },
+      { slug: 'hate-eternal', period: '1997-2000', role: 'Drummer' },
       { slug: 'divine-heresy', period: '2006-2011', role: 'Drummer' },
       { slug: 'nile', period: '2012', role: 'Fill-in drummer' }
     ],
@@ -3432,11 +3432,11 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
         title: 'Career Highlights',
         items: [
           { year: '1990s', event: 'Began drumming career in the underground death metal scene' },
-          { year: '2001', event: 'Joined Erik Rutan\'s Hate Eternal' },
-          { year: '2002', event: 'Recorded "King of All Kings" with Hate Eternal' },
+          { year: '1997', event: 'Joined Erik Rutan\'s Hate Eternal as founding drummer' },
+          { year: '1999', event: 'Recorded "Conquering the Throne" with Hate Eternal' },
           { year: '2003', event: 'Joined Vital Remains, recorded "Dechristianize"' },
-          { year: '2004', event: 'Joined Morbid Angel following Pete Sandoval\'s health issues' },
           { year: '2006', event: 'Co-founded Divine Heresy with Dino Cazares' },
+          { year: '2010', event: 'Joined Morbid Angel following Pete Sandoval\'s back surgery' },
           { year: '2011', event: 'Recorded "Illud Divinum Insanus" with Morbid Angel' },
           { year: '2012', event: 'Filled in for George Kollias on Nile European dates' },
           { year: '2015', event: 'Left Morbid Angel' },
@@ -3463,7 +3463,7 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
       notableRecordings: {
         title: 'Notable Recordings & Tours',
         albums: [
-          { name: 'Hate Eternal - King of All Kings', year: 2002, label: 'Earache', note: 'Brutal technical death metal' },
+          { name: 'Hate Eternal - Conquering the Throne', year: 1999, label: 'Wicked World', note: 'Brutal technical death metal debut' },
           { name: 'Vital Remains - Dechristianize', year: 2003, label: 'Olympic', note: 'Death metal classic with Glen Benton' },
           { name: 'Vital Remains - Icons of Evil', year: 2007, label: 'Century Media', note: 'Continued brutality' },
           { name: 'Divine Heresy - Bleed the Fifth', year: 2007, label: 'Roadrunner', note: 'Fear Factory-influenced' },
@@ -3471,7 +3471,7 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
           { name: 'Divine Heresy - Bringer of Plagues', year: 2009, label: 'Century Media', note: 'Second Divine Heresy album' }
         ],
         tours: [
-          { name: 'Morbid Angel World Tours', year: '2004-2015', note: 'Extensive touring with death metal legends' },
+          { name: 'Morbid Angel World Tours', year: '2010-2015', note: 'Extensive touring with death metal legends' },
           { name: 'Vital Remains Tours', year: '2003-2007', note: 'Supporting Dechristianize and Icons of Evil' },
           { name: 'Nile Fill-In Dates', year: '2012', note: 'European dates for George Kollias' },
           { name: 'Summer Slaughter', year: 'Multiple years', note: 'US extreme metal festival tour' }

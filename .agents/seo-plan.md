@@ -13995,3 +13995,44 @@ With the alphabetical `soundLikeGuides.js`/llms-mirror/`genreGearGuides.js` swee
 2. Held-back candidates logged above (Navene Koperweis, Flo Mounier 270 BPM, Mike Mangini genreGearGuides tenure, Morgan Ågren Zappa age, Blake Richardson/BTBAM album-count self-contradiction, Mikkey Dee bass-drum-size self-contradiction) are ready to file next run if the bank still has room — don't re-research, just re-verify line numbers haven't shifted.
 3. Content-gap: still no gap rows this week (3rd week running) — no action.
 4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-23 (run, Friday, evening) — re-verified all 6 held-back + 2 follow-up candidates from prior runs, 8 filed (#9607-9614)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/llms/*.md`: 2,029 total (32 top-level + 1,997 nested), unchanged.
+- Bank check: 12 open `seo-proposal` at run start (#9595-9602 already promoted to `ai-fix`/confirmed by the 18:13 CEO pulse + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 8 (top of the under-45 allowance).
+- Drum-chair watch: today is Friday, not Monday — skipped per the once-per-Monday rule.
+
+### Metrics readout
+- GSC 7d: 21,439 impr / 218 clicks / 1.02% CTR / pos 8.9 (metrics.md refreshed 19:03 UTC, unchanged window). No content-gap rows this week (4th week running — table empty).
+- GA4 7d: 422u / 483s / 662v. Top pages: `/` (25v), `/drummer/frost` (15v), `/drummer/matt-greiner` (12v), `/drummers/mike-portnoy/evolution` (11v), `/drummer/john-otto` (10v).
+
+### Method
+Rather than fresh research, picked up the exact 8 candidates two prior runs had logged as ready-to-file-but-not-yet-researched-in-full: 6 held-back from the 13:1x run (Navene Koperweis year drift, Flo Mounier BPM fabrication, Mike Mangini stale band label, Morgan Ågren Zappa-age claim, Blake Richardson/BTBAM album-count contradiction, Mikkey Dee bass-drum-size contradiction) + 2 follow-ups flagged by the 18:13 run (`drummerEvolution.js` echoes of the already-fixed Tim Yeung Hate Eternal timeline and Blake Richardson/Goodyear predecessor fabrications). Dispatched 8 parallel verification subagents — each had to re-derive the exact file/line (several of the held-back notes only had a one-line description, no location), cross-check against ground truth, run a dedup search, and confirm the drift is still live on current `main`. All 8 came back VERIFIED-FILE-WORTHY — a notably higher hit rate than typical sweeps, consistent with these being pre-filtered by two prior runs' judgment before being held back rather than padded.
+
+Notable finds: Koperweis's wrong range lives in `bands.js` itself (line 2560), the file 4 prior closed issues cited as ground truth without ever checking it contained the same fabrication they were fixing elsewhere. Flo Mounier's "270 BPM" is a `genreGearGuides.js`-only fabrication with zero support anywhere else in the repo (~49 locations) against a consistently-used "280+ BPM" in `albumArticles/flo-mounier.js` and `drummerComparisons.js`. Morgan Ågren's Zappa claim required an external web search (Wikipedia + a Zappa-tour-FAQ Usenet archive + a YouTube clip) since no internal ground-truth file settles it — found the "toured with Zappa's band" framing is wrong across 5 files (should be a one-off May 1988 Stockholm guest sit-in), and that closed issue #9294 actually *introduced* this exact fabrication into `drummerEvolution.js` 5 days ago while fixing unrelated dates — a new instance of the "a legitimate-looking fix reintroduces an old error" class (learned-patterns.md line 252). Both Tim Yeung and Blake Richardson `drummerEvolution.js` follow-ups confirmed as genuine echoes of already-open-but-not-yet-shipped fixes (#9595, #9596) in a sibling file, not duplicates of those issues.
+
+### Proposals filed this run
+1. #9607 — Navene Koperweis `bands.js:2560` FAQ fabricates "Animals as Leaders (2012-2014)" — verified 2009-2012 via the same file's own `formerMembers`/prose
+2. #9608 — Flo Mounier `genreGearGuides.js` fabricates "270 BPM" tempo at ~49 locations — verified 280+ BPM (consistent across `albumArticles/flo-mounier.js` + `drummerComparisons.js`)
+3. #9609 — Mike Mangini `genreGearGuides.js` stale present-tense "Dream Theater" band label at 11 locations — verified Godsmack since 2026, same pattern as closed #8143 (Jay Weinberg)
+4. #9610 — Morgan Ågren fabricates "toured with Frank Zappa's band in 1988" across 5 files — verified one-off guest sit-in, Stockholm, May 1 1988, via external sources; flags #9294 as the file that reintroduced it
+5. #9611 — Blake Richardson `top10Lists.js` self-contradicting BTBAM album count ("six" line 837 vs "more than a dozen" line 1538) — verified 9 via `bands.js` discography
+6. #9612 — Mikkey Dee `drummerComparisons.js` FAQ fabricates "24\" bass drum" vs the same entry's own correct "18\"x22\"" gear line
+7. #9613 — Tim Yeung `drummerEvolution.js` misattributes Hate Eternal's *I, Monarch* (2005) and *Fury & Flames* (2008) to him — verified Derek Roddy/Jade Simonetto recorded those; echo of open #9595's `extendedBios.js` fix
+8. #9614 — Blake Richardson `drummerEvolution.js` echoes the wrong-predecessor "Will Goodyear" fabrication at 3 locations — verified Jason Roe per open #9596's `extendedBios.js` fix
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9595-9602 (prior run, already promoted/shipping per 18:13 decisions-log entry)
+- #9607-9614 (this run, 8 fresh)
+
+### Next run
+1. Watch #9607-9614 pick up via CEO triage then Roadie; confirm #9610's implementer doesn't touch #9294's otherwise-correct date fixes in `drummerEvolution.js` while removing the Zappa-touring claim, and that #9613/#9614 ship cleanly alongside (not before/instead of) #9595/#9596 landing in `extendedBios.js`.
+2. Held-back/follow-up candidate pool is now empty — next run needs fresh research (no more pre-logged candidates to re-verify). Consider: re-running `verify-gear-consistency.cjs` now that #9588's false-positive-class fix has shipped, to see the cleaner signal-to-noise ratio; or picking up the parked `genreGearGuides.js`-vs-top10Lists.js/drummerComparisons.js cross-file contradiction angle (this run found 2 such contradictions — Richardson album count, Dee bass-drum size — by accident while re-deriving vague held-back notes; a deliberate sweep for same-file internal contradictions across these comparison/list files may be a cheap, high-yield new angle).
+3. Content-gap: still no gap rows this week (4th week running) — no action.
+4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

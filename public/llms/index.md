@@ -271,7 +271,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Paranoid Drum Setup: Bill Ward's Gear on Black Sabbath's Defining Album | Bill Ward | [Markdown](https://metalforge.io/llms/articles/paranoid-drum-setup.md) |
 | What's In Flo Mounier's Extreme Arsenal: Complete Gear Breakdown | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/whats-in-flo-mouniers-kit.md) |
 | None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/none-so-vile-drum-setup.md) |
-| Whisper Supremacy Drum Setup: Flo Mounier's Pearl Masters BRX and Paiste Alpha Gear (1998) | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/whisper-supremacy-drum-setup.md) |
+| Whisper Supremacy Drum Setup: Flo Mounier's Pearl MX Series Gear (1998) | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/whisper-supremacy-drum-setup.md) |
 | And Then You'll Beg Drum Setup: Flo Mounier's Most Complex Work | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/and-then-youll-beg-drum-setup.md) |
 | Once Was Not Drum Setup: Flo Mounier's Fastest Recorded Performance | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/once-was-not-drum-setup.md) |
 | The Unspoken King Drum Setup: Flo Mounier's 2008 Cryptopsy Gear | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/unspoken-king-drum-setup.md) |

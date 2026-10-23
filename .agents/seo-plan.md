@@ -13957,3 +13957,41 @@ This run prioritized verification rigor over volume: 4 filed from 21 raw signals
 2. **Never-audited genreGearGuides.js sweep is now confirmed exhausted** (grep-verified this run) — do not re-open. Next systemic angle: re-run `verify-gear-consistency.cjs` after #9588 ships to see the clean signal-to-noise ratio, and/or pick up the parked "re-check high-churn names for regressions" idea from the 01:2x run.
 3. Content-gap: still no gap rows this week (2nd week running `jaska raatikainen` is absent from the table) — no action, just watching for durability.
 4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-23 (run, Friday, ~13:1x UTC) — 4 parallel subagent sweeps across new file pairs, 8 filed (#9595-9602)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/llms/*.md`: 32 top-level + 1,997 nested = 2,029 total, unchanged from the prior run.
+- Bank check: 8 open `seo-proposal` at run start (4 fresh untriaged #9585-9588 from the prior run + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 8 (top of the under-45 allowance).
+- Drum-chair watch: today is Friday, not Monday — skipped per the once-per-Monday rule.
+
+### Metrics readout
+- GSC 7d: 21,439 impr / 218 clicks / 1.02% CTR / pos 8.9 (metrics.md refreshed 13:04 UTC). No content-gap rows this week (3rd week running — table empty).
+- GA4 7d: 407u / 468s / 633v. Top pages: `/` (25v), `/drummer/frost` (15v), `/drummer/matt-greiner` (12v), `/drummers/mike-portnoy/evolution` (11v), `/drummer/john-otto` (10v).
+
+### Method
+With the alphabetical `soundLikeGuides.js`/llms-mirror/`genreGearGuides.js` sweeps largely exhausted for the already-covered roster, pivoted to 4 parallel research subagents each hunting a different under-swept file pair, explicitly told to skip every drummer already covered by issues filed in the last ~10 days (passed each agent the skip-list): (A) `extendedBios.js` vs `bands.js`/`endorsementNews.js`, (B) `albumArticles/*.js` + `licks.js` vs `endorsementNews.js`, (C) `genreGearGuides.js` for roster names not yet covered by the alphabetical sweep, (D) `top10Lists.js`/`drummerComparisons.js` vs `bands.js`/web search. Got 14 candidates back (4+2+4+4); personally spot-verified all 8 filed by reading the actual cited lines in both the source and ground-truth files before filing (not just trusting the subagent reports) — all 8 confirmed accurate on direct read. Picked the 8 strongest/most-diverse across the 4 buckets; held back 6 weaker/overlapping candidates (Navene Koperweis 1-field year drift, Flo Mounier fabricated 270 BPM tempo in genreGearGuides.js, Mike Mangini stale DT tenure in genreGearGuides.js, Morgan Ågren Zappa-age fabrication relying on an external interview source, Blake Richardson/BTBAM self-contradicting album count in top10Lists.js, Mikkey Dee 24"-vs-18"x22" bass drum self-contradiction in drummerComparisons.js) rather than pad past the 8 target — logged here so a future run can pick them up without re-researching.
+
+### Proposals filed this run
+1. #9595 — Tim Yeung extendedBios.js fabricates Hate Eternal (2001-2004, wrongly credited with Derek Roddy's "King of All Kings") + Morbid Angel (wrong 2004 start) tenure — verified Hate Eternal 1997-2000 founding, Morbid Angel 2010-2015
+2. #9596 — Blake Richardson extendedBios.js names wrong BTBAM predecessor (Will Goodyear, the founding drummer from 2000) — verified he replaced Jason Roe (2004-2005)
+3. #9597 — Sean Reinert extendedBios.js wrong Death tenure (1990-1992 vs verified 1991-1992) + wrong Cynic 2nd-stint end year (2017 vs verified 2015)
+4. #9598 — Flo Mounier albumArticles/flo-mounier.js "Whisper Supremacy" (1998) fabricates Pearl Masters BRX + invented "Paiste Alpha" cymbals — verified Pearl MX Series, no cymbal-brand endorsement before 2005; distinct from #8546 which only scoped `albumArticlesCatalog.js`
+5. #9599 — Joey Jordison licks.js credits "Pearl Export Series Kit" on 2 songs from the 1999 debut — verified pre-endorsement ddrum era per `albumArticles/joey-jordison.js`'s own framing
+6. #9600 — Blake Richardson genreGearGuides.js djent snare guide fabricates Pearl Masters Maple Reserve 14x5.5" — verified Tama STARPHONIC Brass 14x6" (file's own mathcore section already has it correct)
+7. #9601 — Nicko McBrain genreGearGuides.js power-metal cymbal guide drops "2002" from his Paiste line, implying Signature-only — verified combined Paiste 2002 & Signature Series since 1998
+8. #9602 — drummerComparisons.js nicko-mcbrain-vs-vinnie-paul entry anachronistically credits ddrum (2008+ era) for the 1990-1992 Cowboys From Hell/Vulgar Display of Power era — verified Tama 1990-1996, same pattern already fixed elsewhere by #8597
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9595-9602 (this run, 8 fresh)
+
+### Next run
+1. Watch #9595-9602 pick up via CEO triage then Roadie.
+2. Held-back candidates logged above (Navene Koperweis, Flo Mounier 270 BPM, Mike Mangini genreGearGuides tenure, Morgan Ågren Zappa age, Blake Richardson/BTBAM album-count self-contradiction, Mikkey Dee bass-drum-size self-contradiction) are ready to file next run if the bank still has room — don't re-research, just re-verify line numbers haven't shifted.
+3. Content-gap: still no gap rows this week (3rd week running) — no action.
+4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

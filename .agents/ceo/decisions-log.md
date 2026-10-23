@@ -1134,3 +1134,30 @@ Mid-day pulse (actual cron cadence is every ~6h: 00/06/12/18 UTC, not hourly as 
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-10-23 18:13 (afternoon pulse — 8/8 proposals verified+promoted, #9595-9602)
+
+### Context (≤3 lines)
+Afternoon pulse between the 12:15 mid-day run and the 19:00 evening-review window. Metrics 18:13 UTC (419u/480s/659v 7d; GSC 21,439 impr/218 clicks/1.02% CTR/pos 8.9, no content-gap rows). Confirmed #9585-9588 (promoted at 12:15) all shipped/merged (PRs #9603-9606). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9595-9602, filed 13:14-13:15 UTC), continuing the tenure-year/gear-fabrication sweep across extendedBios.js, albumArticles, licks, genreGearGuides.js, and drummerComparisons.js.
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (cited lines vs `bands.js`/`endorsementNews.js`/`snares.js`/`soundLikeGuides.js` ground truth, dupe-search): #9595 (Tim Yeung, Hate Eternal tenure 2001-04→1997-00 + wrong King of All Kings album credit + Morbid Angel start 2004→2010) VERIFIED-WITH-NOTE — found extra occurrence at `extendedBios.js:3466` (notableRecordings), flagged a larger out-of-scope `drummerEvolution.js` cluster for a future proposal. #9596 (Blake Richardson, wrongly credited as replacing founding drummer Will Goodyear instead of Jason Roe) VERIFIED-WITH-NOTE — same fabrication echoes uncorrected in `drummerEvolution.js:6458/6467/6518`, recommended follow-up. #9597 (Sean Reinert, Death tenure 1990-92→1991-92 + Cynic 2nd-stint end 2017→2015) VERIFIED-CLEAN, confirmed no sibling files repeat the error; noted `public/llms/drummers/sean-reinert.md` mirror will self-correct. #9598 (Flo Mounier, 1998 Whisper Supremacy fabricates Pearl Masters BRX+Paiste Alpha vs verified Pearl MX Series, confirmed #8546 explicitly excluded this prose file) VERIFIED-CLEAN — fabrication is more pervasive than cited (title/description/keyPoints/drumKit/snare/cymbals/FAQ all affected), flagged full scope. #9599 (Joey Jordison, 1999 licks fabricate Pearl Export kit vs verified ddrum pre-endorsement) VERIFIED-WITH-NOTE — **material scope expansion**: the cymbals field ("Paiste 2002") is also wrong for 1999, should be Zildjian A Custom per the same post-debut endorsement window; told implementer to fix both fields. #9600 (Blake Richardson, djent snare guide fabricates Pearl Masters Maple Reserve vs verified Tama STARPHONIC Brass) VERIFIED-WITH-NOTE — fabrication wider than cited (specs.shell/depth/throwOff, 2 prose mentions, pros, usedBy note, verdict, plus a fabricated Thomann affiliateLink needing removal per the no-fabricated-retailer-URL rule). #9601 (Nicko McBrain, power-metal cymbal guide drops "2002" from "Paiste 2002 & Signature Series") VERIFIED-WITH-NOTE — grep-expanded from 1 cited line to **50 lines across 6 guide sections**; comment lists all for batch-fix per #9085 precedent. #9602 (Vinnie Paul, drummerComparisons.js anachronistically applies ddrum to the 1990-92 Pantera era vs verified Tama) VERIFIED-CLEAN — found a 4th ddrum occurrence (technique field) beyond the issue's cited 3; confirmed Sabian/Vic Firth entries correctly span the era, leave unchanged. All 8 promoted to `ai-fix`; all 8 with implementer-note comments (6 scope-expansions, 2 clean confirmations).
+- **GSC content-gap**: no rows this week (4th consecutive clean week). **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 8 just-promoted (created 13:14-13:15 UTC, not >3 days) — nothing eligible.
+- **Starvation check**: pre-triage backlog 0 tripped the trigger shape, but bank held 8 (not ≤2) — same drain-then-refill cadence as every recent run this week; this run's own triage is the resolution.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-19 — next weekly refresh due ~2026-10-26, not re-run.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9595-9602 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (6 with scope-expansion notes, 2 clean). ✅ Founder ideas: inbox empty. ✅ GSC-gap: no rows. ✅ L1/L2/L3: not due yet. ✅ Starvation: not a real event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9595-9602 pick up via Roadie; confirm scope-expansions land (Yeung's extra notableRecordings line, Richardson's wider snare-guide fields + affiliateLink removal, Jordison's cymbals fix, McBrain's 50-line batch fix, Vinnie Paul's 4th technique-field occurrence).
+2. Two new follow-up candidates flagged for a future seo-proposal: `drummerEvolution.js` Tim Yeung cluster (I Monarch/Fury & Flames misattributed to Yeung) and `drummerEvolution.js` Blake Richardson "replacing Goodyear" echo (lines 6458/6467/6518).
+3. L1/L2/L3 weekly refresh due ~2026-10-26 — full close-the-loop pass then.
+4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

@@ -22481,7 +22481,7 @@ Start with a 22"x18" maple shell and a reinforced head like the Evans EMAD or Re
     // SEO metadata
     title: "Best Bass Drums for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Doom Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for doom metal's oversized, weight-first low end. What Danny Carey (Sonor Custom), Brann Dailor (Tama Starclassic Performer B/B), Mario Duplantier (Tama Starclassic Bubinga), and Igor Cavalera (Yamaha Absolute Hybrid Maple) actually play — from budget to pro.",
+    description: "Best bass drums for doom metal's oversized, weight-first low end. What Danny Carey (Sonor SQ2 Heavy Beech), Brann Dailor (Tama Starclassic Performer B/B), Mario Duplantier (Tama Starclassic Bubinga), and Igor Cavalera (Yamaha Absolute Hybrid Maple) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for doom metal',
       'doom metal bass drum setup',
@@ -22518,12 +22518,12 @@ Start with a 22"x18" maple shell and a reinforced head like the Evans EMAD or Re
       title: "What Bass Drum Setup Do Doom Metal Drummers Actually Use?",
       content: `Doom metal's bass drum has to do the opposite of what most extreme metal subgenres ask for. Instead of surviving blast beats at 240+ BPM, a doom kick locks into riffs at half or a quarter the tempo, letting every single stroke ring out and carry maximum tonnage before the next one lands. That flips the gear brief: rather than a dry, tightly muffled shell built for rapid-fire endurance, doom rewards oversized 24"+ shells with deep bodies that can sustain real low-end weight through slow, riff-locked repetition.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight. Danny Carey's Sonor Custom bass drum runs a dual 22"/24" kick configuration, one of the largest touring setups in rock, purpose-built for deliberate, patient low end. Brann Dailor's Tama Starclassic Performer B/B bass drum anchors Mastodon's progressive sludge-doom catalog with warm, musical sustain. Mario Duplantier's dual 22"x18" Tama Starclassic Bubinga bass drums give Gojira's crushing, down-tuned passages tectonic body through mass rather than a single oversized shell. Igor Cavalera's Yamaha Absolute Hybrid Maple bass drum carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight. Danny Carey's Sonor SQ2 Heavy Beech bass drum runs a single 24"x17" kick, part of one of the largest touring kits in rock, purpose-built for deliberate, patient low end. Brann Dailor's Tama Starclassic Performer B/B bass drum anchors Mastodon's progressive sludge-doom catalog with warm, musical sustain. Mario Duplantier's dual 22"x18" Tama Starclassic Bubinga bass drums give Gojira's crushing, down-tuned passages tectonic body through mass rather than a single oversized shell. Igor Cavalera's Yamaha Absolute Hybrid Maple bass drum carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
 
 This guide breaks down exactly what makes a bass drum work for doom metal — oversized shell diameter, depth, and tuning philosophy — and which specific shells the genre's closest analogues actually play, from budget to professional touring rigs.`,
       keyPoints: [
         "Doom metal rewards oversized 24\"+ shells that ring out and carry real low-end weight, the opposite of blast-beat genres' dry, choked kicks",
-        "Danny Carey's dual 22\"/24\" Sonor Custom configuration shows how deliberate deceleration itself becomes doom's defining atmospheric device",
+        "Danny Carey's single 24\"x17\" Sonor SQ2 Heavy Beech kick shows how deliberate deceleration itself becomes doom's defining atmospheric device",
         "Brann Dailor's Tama Starclassic Performer B/B proves a warm, resonant shell suits doom's slow, riff-locked tempo, while Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks show mass can deliver the same tectonic weight",
         "Open, moderately-tuned heads let each deliberate hit build tension and sustain before the next lands"
       ]
@@ -22536,7 +22536,7 @@ This guide breaks down exactly what makes a bass drum work for doom metal — ov
         {
           name: "Oversized Shell Diameter",
           icon: "⭕",
-          description: "Where blast-beat genres standardize on 22\"x18\" for speed, doom rewards going bigger. Danny Carey's dual-kick Sonor Custom runs 22\"/24\", and Igor Cavalera's Yamaha Absolute Hybrid Maple favors the extra headroom a 24\" shell gives for sub-bass weight over raw response.",
+          description: "Where blast-beat genres standardize on 22\"x18\" for speed, doom rewards going bigger. Danny Carey's Sonor SQ2 Heavy Beech runs a single 24\"x17\" shell, and Igor Cavalera's Yamaha Absolute Hybrid Maple favors the extra headroom a 24\" shell gives for sub-bass weight over raw response.",
           recommendation: "24\" (or larger) diameter for maximum low-end weight when tempo isn't a constraint"
         },
         {
@@ -22578,43 +22578,43 @@ This guide breaks down exactly what makes a bass drum work for doom metal — ov
       pedals: [
         {
           rank: 1,
-          name: "Sonor Custom Bass Drum (Dual Kick)",
+          name: "Sonor SQ2 Heavy Beech Bass Drum",
           brand: "Sonor",
-          model: "Custom 22\"/24\"x18\"",
+          model: "SQ2 Heavy Beech 24\"x17\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€1600-2200 (pair)",
+          priceRange: "€1000-1400",
           tier: "premium",
-          material: "Maple, 22\"/24\"x18\"",
+          material: "Heavy Beech, 24\"x17\"",
 
-          description: `Danny Carey's Sonor Custom kit runs a dual 22"/24" bass drum configuration, one of the largest touring setups in rock. The oversized 24" shell gives Tool's slowly evolving, dynamically varied compositions the patient, atmospheric low end that doom-adjacent material demands — proof that deliberate deceleration itself can become the defining device.
+          description: `Danny Carey's Sonor SQ2 Heavy Beech bass drum runs a single 24"x17" shell, part of one of the largest touring kits in rock. The oversized shell gives Tool's slowly evolving, dynamically varied compositions the patient, atmospheric low end that doom-adjacent material demands — proof that deliberate deceleration itself can become the defining device.
 
-Sonor's TuneSafe tensioning ensures precise, repeatable tuning across two mismatched shell sizes under heavy touring use, letting the oversized 24" kick ring out with full sustain while the 22" stays tighter for contrast.`,
+Sonor's fully modular SQ2 program and TuneSafe tensioning ensure precise, repeatable tuning under heavy touring use, while beech's density gives the shell real low-end body without sacrificing the sensitivity Carey's dynamically complex compositions require.`,
 
           pros: [
             "Danny Carey's exact Tool touring configuration — proven oversized doom-adjacent low end",
-            "Dual 22\"/24\" sizing gives tonal contrast between tight and oversized shells",
+            "Heavy beech shell delivers real low-end body with retained sensitivity",
             "TuneSafe tensioning for precise, repeatable tuning under heavy use",
             "Exceptional Sonor hardware refinement and build quality",
             "24\" shell delivers real sub-bass weight most standard kicks can't match"
           ],
           cons: [
-            "Premium custom pricing for a matched dual-kick pair",
+            "Fully custom SQ2 pricing sits at the premium end",
             "24\" shell's slower response isn't suited to blast-beat genres",
             "Larger footprint requires more stage and studio space"
           ],
           specs: {
-            diameter: "22\"/24\"",
-            depth: "18\"",
-            shell: "Maple (TuneSafe tensioning)",
+            diameter: "24\"",
+            depth: "17\"",
+            shell: "Heavy Beech (TuneSafe tensioning)",
             headRecommendation: "Remo Powerstroke 3",
-            configuration: "Dual, independently pedaled"
+            configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "Dual 22\"/24\" Sonor Custom — patient, atmospheric doom-adjacent weight" }
+            { name: "Danny Carey", band: "Tool", note: "Single 24\"x17\" Sonor SQ2 Heavy Beech — patient, atmospheric doom-adjacent weight" }
           ],
           verdict: "The definitive oversized doom-adjacent bass drum setup for drummers chasing maximum atmospheric weight.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/sonor_custom_dual_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_sq2_heavy_beech_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -22741,7 +22741,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
     // Budget options section
     budgetOptions: {
       title: "Best Budget Bass Drums for Doom Metal",
-      description: "You don't need a custom dual-kick Sonor rig to build a real doom low end. These bass drums deliver genuine oversized weight at an accessible price.",
+      description: "You don't need a custom Sonor SQ2 rig to build a real doom low end. These bass drums deliver genuine oversized weight at an accessible price.",
       pedals: [
         {
           name: "Pearl Export Bass Drum",
@@ -22788,7 +22788,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
 - Duplantier skips the double pedal entirely for two independently-tuned kicks; Dailor runs a single dense birch/bubinga shell
 - Faster individual response than an oversized shell, without sacrificing overall low-end weight
 
-**Verdict:** Start with a 24\" shell like Igor Cavalera's Yamaha Absolute Hybrid Maple if you want maximum sustained low end from raw size. Brann Dailor's Tama Starclassic Performer B/B proves a dense 22\" hybrid shell can carry the same warm, sustained tone at standard sizing. Consider a dual-kick configuration like Danny Carey's or Mario Duplantier's if maximum tonal contrast and reserve low-end mass matter as much to you as raw shell size.`,
+**Verdict:** Start with a 24\" shell like Danny Carey's Sonor SQ2 Heavy Beech or Igor Cavalera's Yamaha Absolute Hybrid Maple if you want maximum sustained low end from raw size. Brann Dailor's Tama Starclassic Performer B/B proves a dense 22\" hybrid shell can carry the same warm, sustained tone at standard sizing. Consider a dual-kick configuration like Mario Duplantier's if maximum reserve low-end mass matters as much to you as raw shell size.`,
       comparisonTable: [
         { feature: "Low-End Weight", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Sustain and Ring-Out", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
@@ -22804,8 +22804,8 @@ Pearl's Reference program balances projection and warmth in a way that's transla
       picks: [
         {
           category: "Best Overall",
-          pedal: "Sonor Custom Bass Drum (Dual Kick)",
-          reason: "Danny Carey's oversized 22\"/24\" dual-kick standard — maximum atmospheric weight and tonal contrast."
+          pedal: "Sonor SQ2 Heavy Beech Bass Drum",
+          reason: "Danny Carey's oversized single 24\"x17\" standard — maximum atmospheric weight and sustain."
         },
         {
           category: "Best for Warm, Musical Sustain",
@@ -22834,7 +22834,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
       'best-drum-heads-for-doom-metal'
     ],
     relatedDrummers: [
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Dual 22\"/24\" Sonor Custom — patient, atmospheric doom-adjacent weight' },
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Single 24\"x17\" Sonor SQ2 Heavy Beech — patient, atmospheric doom-adjacent weight' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: '22\"x18\" Tama Starclassic Performer B/B carrying progressive sludge-doom\'s warmest low end' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22\"x18\" Tama Starclassic Bubinga — crushing, tectonic weight' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: '24\"x18\" Yamaha Absolute Hybrid Maple — tribal, down-tuned doom-adjacent weight' }
@@ -22842,7 +22842,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Dual-kick Sonor Custom — the oversized doom-adjacent standard' },
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Single 24\"x17\" Sonor SQ2 Heavy Beech — the oversized doom-adjacent standard' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — closest analogue to doom\'s founding template' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22\"x18\" Tama Starclassic Bubinga — maximum low-end mass' }
     ],
@@ -22851,11 +22851,11 @@ Pearl's Reference program balances projection and warmth in a way that's transla
     faq: [
       {
         question: "What bass drums do doom metal drummers use?",
-        answer: "Bill Ward, who invented doom metal's template with Black Sabbath, doesn't have a dedicated MetalForge gear profile, so this guide draws on the genre's closest analogues. Danny Carey of Tool runs a dual 22\"/24\" Sonor Custom, Brann Dailor of Mastodon plays a 22\"x18\" Tama Starclassic Performer B/B, Mario Duplantier of Gojira runs dual 22\"x18\" Tama Starclassic Bubinga kicks, and Igor Cavalera plays a 24\"x18\" Yamaha Absolute Hybrid Maple."
+        answer: "Bill Ward, who invented doom metal's template with Black Sabbath, doesn't have a dedicated MetalForge gear profile, so this guide draws on the genre's closest analogues. Danny Carey of Tool runs a single 24\"x17\" Sonor SQ2 Heavy Beech, Brann Dailor of Mastodon plays a 22\"x18\" Tama Starclassic Performer B/B, Mario Duplantier of Gojira runs dual 22\"x18\" Tama Starclassic Bubinga kicks, and Igor Cavalera plays a 24\"x18\" Yamaha Absolute Hybrid Maple."
       },
       {
         question: "What size bass drum is best for doom metal?",
-        answer: "24\" or larger is the doom standard for a single shell — bigger than the 22\" most other metal subgenres use. Brann Dailor and Igor Cavalera both run 24\"+ diameters for the low-end weight and sustain doom's slow, riff-locked tempo rewards, while Danny Carey and Mario Duplantier get comparable weight from dual kicks instead of one oversized shell."
+        answer: "24\" or larger is the doom standard for a single shell — bigger than the 22\" most other metal subgenres use. Brann Dailor and Igor Cavalera both run 24\"+ diameters for the low-end weight and sustain doom's slow, riff-locked tempo rewards, while Danny Carey gets the same oversized weight from a single 24\" shell and Mario Duplantier gets comparable weight from dual kicks instead of one oversized shell."
       },
       {
         question: "What makes a bass drum good for doom metal specifically, versus other metal genres?",
@@ -22867,14 +22867,14 @@ Pearl's Reference program balances projection and warmth in a way that's transla
       },
       {
         question: "Single kick or dual kick for doom metal?",
-        answer: "Either works — Danny Carey's dual 22\"/24\" Sonor Custom gives tonal contrast between a tighter and an oversized shell, and Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks deliver similar reserve mass, while Brann Dailor and Igor Cavalera get comparable weight from a single oversized 24\" kick paired with a double pedal."
+        answer: "Either works — Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks deliver maximum reserve mass, while Danny Carey, Brann Dailor, and Igor Cavalera all get comparable weight from a single oversized 24\" kick paired with a double pedal."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build the Oversized, Sustained Low End Doom Demands",
-      content: `Doom metal's bass drum requirements run opposite to almost everything else in extreme metal — instead of surviving blast beats, a doom kick needs to sustain real tonnage through slow, riff-locked repetition. Danny Carey's dual 22\"/24\" Sonor Custom proves oversized, resonant shells are one proven foundation, while Brann Dailor's 22\"x18\" Tama Starclassic Performer B/B and Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks show how standard-sized shells — single or in pairs — can extend low-end mass just as far.
+      content: `Doom metal's bass drum requirements run opposite to almost everything else in extreme metal — instead of surviving blast beats, a doom kick needs to sustain real tonnage through slow, riff-locked repetition. Danny Carey's single 24\"x17\" Sonor SQ2 Heavy Beech proves oversized, resonant shells are one proven foundation, while Brann Dailor's 22\"x18\" Tama Starclassic Performer B/B and Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks show how standard-sized shells — single or in pairs — can extend low-end mass just as far.
 
 If you're building toward doom's tonnage-first low end, Igor Cavalera's 24\"x18\" Yamaha Absolute Hybrid Maple proves a more accessible shell can still deliver the tribal, down-tuned weight the genre demands.
 
@@ -30988,7 +30988,7 @@ Start with a Meinl HCS Dark or Zildjian ZBT china to build technique across both
       title: "Why Doom Metal Chinas Favor Size and Slow Decay Over Speed",
       content: `Doom metal inverts the usual china cymbal logic. Where thrash and death metal drummers reach for a fast-decaying china to punctuate a blast beat transition, doom drummers want the opposite: a large, dark-toned china that opens up slowly and sustains through a riff that might not resolve for another sixteen bars. The instrument becomes less an accent and more a texture — a wash of controlled trash that reinforces the crushing weight of a down-tuned, half-time riff rather than cutting cleanly through it.
 
-Bill Ward built the template on Black Sabbath's Sabotage (1975) and Technical Ecstasy (1976), pairing an 18" Zildjian Avedis China with the rest of his Avedis ride, crashes, and hi-hats — the first documented china in doom metal's cymbal vocabulary, used sparingly for maximum weight rather than constant accenting. Brann Dailor carries that lineage forward on Mastodon's Leviathan and Crack the Skye, running an 18" Meinl Byzance Extra Dry China within a Byzance setup built for aggressive, cutting punctuation across the band's progressive sludge-doom material. Danny Carey's Tool rig features 20" and 22" Paiste Signature Chinas alongside Rude crashes, giving Tool's patient, doom-adjacent build-ups room to breathe before the explosive payoff. Mario Duplantier runs dual 18" and 20" Zildjian Chinas within Gojira's tectonic, down-tuned attack — proof that a larger china pairs naturally with doom's crushing low end even outside strict genre lines.
+Bill Ward built the template on Black Sabbath's Sabotage (1975) and Technical Ecstasy (1976), pairing an 18" Zildjian Avedis China with the rest of his Avedis ride, crashes, and hi-hats — the first documented china in doom metal's cymbal vocabulary, used sparingly for maximum weight rather than constant accenting. Brann Dailor carries that lineage forward on Mastodon's Leviathan and Crack the Skye, running an 18" Meinl Byzance Extra Dry China within a Byzance setup built for aggressive, cutting punctuation across the band's progressive sludge-doom material. Danny Carey's Tool rig features 20" and 22" Paiste Signature Chinas alongside Signature Power Crashes, giving Tool's patient, doom-adjacent build-ups room to breathe before the explosive payoff. Mario Duplantier runs dual 18" and 20" Zildjian Chinas within Gojira's tectonic, down-tuned attack — proof that a larger china pairs naturally with doom's crushing low end even outside strict genre lines.
 
 This guide covers what actually separates a doom-ready china from a standard metal china — size, decay time, and dark voicing — along with specific model recommendations across every budget.`,
       keyPoints: [
@@ -31129,7 +31129,7 @@ The Extra Dry finish strips away shimmer and long sustain in favor of a dark, co
           priceRange: "€280-350",
           tier: "pro",
           driveType: "CuSn8 Bronze, Signature",
-          description: `Danny Carey runs 20" and 22" Paiste Signature Chinas alongside Rude crashes within Tool's larger Signature Series rig, expanded further for the cinematic, ambient passages of Fear Inoculum (2019).
+          description: `Danny Carey runs 20" and 22" Paiste Signature Chinas alongside Signature Power Crashes within Tool's larger Signature Series rig, expanded further for the cinematic, ambient passages of Fear Inoculum (2019).
 
 The sheer size delivers massive low-end weight and extended sustain, letting Tool's patient, doom-adjacent build-ups accumulate tension before their explosive payoffs — a philosophy that translates directly to doom metal's own slow-burn structure.`,
           pros: [
@@ -45421,13 +45421,13 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
       title: "Why Doom Metal Crashes Need to Bloom, Not Explode",
       content: `Doom metal's crash demands sit at the opposite end of the spectrum from blast-beat-driven extreme metal. Where a death or black metal crash needs to detonate instantly and get out of the way before the next accent, doom's slow, riff-locked tempos give every crash strike room to fully develop — rewarding dark, complex, low-tuned wash over raw, bright cut. A crash voiced for speed sounds thin and disconnected against doom's tonnage-first grooves.
 
-Brann Dailor of Mastodon anchors the closest working analogue to doom's crushing, atmospheric template with 18" and 19" Meinl Byzance Brilliant Heavy Hammered Crashes, chosen for the slow, complex wash they build across Mastodon's progressive sludge-doom catalog. Danny Carey of Tool pairs Paiste RUDE and Power crashes with his Signature-series ride to add explosive accents when Tool's patient, doom-adjacent compositions build toward a climax on records like "Fear Inoculum." Mario Duplantier of Gojira runs 18" and 20" Paiste 602 Crashes for tectonic low-end body on crushing, down-tuned material, while Igor Cavalera of Sepultura plays 18"-19" Paiste RUDE Crashes for a harsher, tribal-adjacent edge that still favors slow decay over bright cut.
+Brann Dailor of Mastodon anchors the closest working analogue to doom's crushing, atmospheric template with 18" and 19" Meinl Byzance Brilliant Heavy Hammered Crashes, chosen for the slow, complex wash they build across Mastodon's progressive sludge-doom catalog. Danny Carey of Tool pairs Paiste Signature Power Crashes with his Signature-series ride to add explosive accents when Tool's patient, doom-adjacent compositions build toward a climax on records like "Fear Inoculum." Mario Duplantier of Gojira runs 18" and 20" Paiste 602 Crashes for tectonic low-end body on crushing, down-tuned material, while Igor Cavalera of Sepultura plays 18"-19" Paiste RUDE Crashes for a harsher, tribal-adjacent edge that still favors slow decay over bright cut.
 
 This guide breaks down what actually makes a crash work for doom metal — darkness, weight, and sustained wash over instant attack — and recommends specific models across every budget, from a first dark-toned crash to the exact cymbals doom metal's closest working analogues play.`,
       keyPoints: [
         "Doom metal crashes need to bloom into a slow, dark wash rather than detonate and decay instantly",
         "Brann Dailor's Meinl Byzance Brilliant Heavy Hammered Crashes anchor Mastodon's progressive sludge-doom atmosphere",
-        "Danny Carey's Paiste RUDE/Power crashes and Mario Duplantier's Paiste 602 Crashes show how weight can vary within doom's dark-crash template",
+        "Danny Carey's Paiste Signature Power Crashes and Mario Duplantier's Paiste 602 Crashes show how weight can vary within doom's dark-crash template",
         "18\"-20\" heavy crashes with slow decay are the doom standard, favoring sustained wash over quick attack"
       ]
     },
@@ -45457,8 +45457,8 @@ This guide breaks down what actually makes a crash work for doom metal — darkn
         {
           name: "Explosive Contrast for Climaxes",
           icon: "⚡",
-          description: "Danny Carey's Paiste RUDE and Power crashes provide explosive contrast against Tool's patient, doom-adjacent build-ups, giving a composition a payoff moment without abandoning the genre's dark-toned foundation.",
-          recommendation: "A brighter RUDE or Power crash alongside your dark crash for climactic contrast"
+          description: "Danny Carey's Paiste Signature Power Crashes provide explosive contrast against Tool's patient, doom-adjacent build-ups, giving a composition a payoff moment without abandoning the genre's dark-toned foundation.",
+          recommendation: "A brighter Power Crash alongside your dark crash for climactic contrast"
         },
         {
           name: "Alloy",
@@ -45518,16 +45518,16 @@ As the closest working analogue to doom metal's crushing, atmospheric template, 
         },
         {
           rank: 2,
-          name: "Paiste RUDE / Power Crash",
+          name: "Paiste Signature Power Crash",
           brand: "Paiste",
-          model: "18\" & 19\" RUDE/Power Crash",
+          model: "18\" & 19\" Signature Power Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
           priceRange: "€180-260",
           tier: "pro",
           driveType: "CuSn8 Bronze",
-          description: `Danny Carey of Tool pairs 18" and 19" Paiste RUDE and Power crashes alongside his Signature Dry Heavy Ride, giving Tool's slow-building, doom-adjacent compositions an explosive accent option for climactic moments on records like "Fear Inoculum" (2019). Where the Dry Heavy Ride anchors weight, these crashes supply the payoff.
+          description: `Danny Carey of Tool pairs 18" and 19" Paiste Signature Power Crashes alongside his Signature Dry Heavy Ride, giving Tool's slow-building, doom-adjacent compositions an explosive, full-bodied accent option for climactic moments on records like "Fear Inoculum" (2019). Where the Dry Heavy Ride anchors weight, these crashes supply the payoff.
 
-Carey's setup proves that even within doom-adjacent atmosphere, a brighter crash voicing has a role — as contrast against the dark foundation, not a replacement for it.`,
+Carey's setup proves that even within doom-adjacent atmosphere, a full-bodied, powerful crash voicing has a role — as contrast against the dark foundation, not a replacement for it.`,
           pros: [
             "Danny Carey's proven Tool setup — explosive contrast for patient, doom-adjacent build-ups",
             "Pairs naturally with a darker ride or crash for tonal range",
@@ -45535,23 +45535,23 @@ Carey's setup proves that even within doom-adjacent atmosphere, a brighter crash
             "Versatile beyond pure doom into progressive and sludge-adjacent material"
           ],
           cons: [
-            "Brighter than pure doom purists may want as a sole crash voicing",
-            "Premium Paiste pricing",
+            "Full-bodied voicing than pure doom purists may want as a sole crash",
+            "Premium Paiste Signature pricing",
             "Best used alongside a darker complementary crash rather than alone"
           ],
           specs: {
             size: "18\" & 19\"",
             alloy: "CuSn8 Bronze",
-            finish: "Raw/Lathed",
+            finish: "Signature",
             weight: "Medium-Heavy",
             decay: "Explosive, controlled"
           },
           usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "18\" & 19\" RUDE/Power Crashes for climactic, doom-adjacent contrast" }
+            { name: "Danny Carey", band: "Tool", note: "18\" & 19\" Signature Power Crashes for climactic, doom-adjacent contrast" }
           ],
           verdict: "Best for explosive contrast against dark, patient doom-adjacent atmosphere.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/paiste_rude_power_crash_18_carey.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_signature_power_crash_18_carey.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -45695,12 +45695,12 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 - More technical, note-clear voicing under heavy distortion
 - Best for crushing, down-tuned progressive death/doom hybrids
 
-**Paiste RUDE (Danny Carey, Igor Cavalera):**
-- Carey's pairing adds explosive contrast against dark, patient atmosphere
-- Cavalera's raw, unlathed voicing brings a harsher tribal edge
+**Paiste Signature Power Crash (Danny Carey) / Paiste RUDE (Igor Cavalera):**
+- Carey's full-bodied Signature pairing adds explosive contrast against dark, patient atmosphere
+- Cavalera's raw, unlathed RUDE voicing brings a harsher tribal edge
 - Best for doom hybrids blending climactic dynamics or tribal groove elements
 
-**Our Recommendation:** Start with a Zildjian S Family Dark or Sabian XSR Monarch crash if you're building doom metal technique on a budget. Choose Meinl Byzance Brilliant Heavy Hammered for the classic dark, atmospheric wash, Paiste 602 if your material needs larger, crushing low-end weight, or Paiste RUDE if you want explosive contrast or a harsher tribal edge.`,
+**Our Recommendation:** Start with a Zildjian S Family Dark or Sabian XSR Monarch crash if you're building doom metal technique on a budget. Choose Meinl Byzance Brilliant Heavy Hammered for the classic dark, atmospheric wash, Paiste 602 if your material needs larger, crushing low-end weight, Paiste Signature Power Crash for explosive contrast, or Paiste RUDE for a harsher tribal edge.`,
       comparisonTable: [
         { feature: "Darkness/Atmosphere", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
         { feature: "Low-End Weight", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -45720,7 +45720,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
         },
         {
           category: "Best for Climactic Contrast",
-          pedal: "Paiste RUDE / Power Crash",
+          pedal: "Paiste Signature Power Crash",
           reason: "Danny Carey's Tool setup — explosive accents against patient, doom-adjacent build-ups."
         },
         {
@@ -45745,14 +45745,14 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     ],
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — Mastodon\'s progressive sludge-doom atmosphere' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste RUDE/Power Crash — Tool\'s climactic, doom-adjacent contrast' },
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Power Crash — Tool\'s climactic, doom-adjacent contrast' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Dark Crash — Gojira\'s tectonic, crushing low-end tonnage' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — Mastodon\'s progressive sludge-doom atmosphere' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste RUDE/Power Crash — Tool\'s climactic, doom-adjacent contrast' },
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Power Crash — Tool\'s climactic, doom-adjacent contrast' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Dark Crash — Gojira\'s tectonic, crushing low-end tonnage' }
     ],
     relatedComparisons: [],
@@ -45765,7 +45765,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       },
       {
         question: "What crash cymbal does Danny Carey use?",
-        answer: "Danny Carey of Tool pairs 18\" and 19\" Paiste RUDE and Power crashes alongside his Signature Dry Heavy Ride, giving Tool's patient, doom-adjacent compositions an explosive accent option for climactic moments on records like \"Fear Inoculum.\""
+        answer: "Danny Carey of Tool pairs 18\" and 19\" Paiste Signature Power Crashes alongside his Signature Dry Heavy Ride, giving Tool's patient, doom-adjacent compositions an explosive accent option for climactic moments on records like \"Fear Inoculum.\""
       },
       {
         question: "What crash cymbal does Mario Duplantier use?",
@@ -45784,9 +45784,9 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     // Conclusion
     conclusion: {
       title: "Build Your Doom Metal Crash Sound Around Weight, Not Speed",
-      content: `Doom metal's crash philosophy comes down to one core idea: let it bloom. Whether you build around Brann Dailor's dark, atmospheric Meinl Byzance Brilliant Heavy Hammered wash, Mario Duplantier's tectonic Paiste 602 weight, or Danny Carey's explosive RUDE/Power contrast, the right doom metal crash should sound like it's filling the entire space between riffs, not fighting to escape it.
+      content: `Doom metal's crash philosophy comes down to one core idea: let it bloom. Whether you build around Brann Dailor's dark, atmospheric Meinl Byzance Brilliant Heavy Hammered wash, Mario Duplantier's tectonic Paiste 602 weight, or Danny Carey's explosive Signature Power Crash contrast, the right doom metal crash should sound like it's filling the entire space between riffs, not fighting to escape it.
 
-Start with one dark, heavy crash in the 18"-19" range, and add a second voicing — whether that's a larger 602 for more weight or a RUDE crash for climactic contrast — once you know where your doom leans on the sludge-to-progressive spectrum.
+Start with one dark, heavy crash in the 18"-19" range, and add a second voicing — whether that's a larger 602 for more weight or a Signature Power Crash for climactic contrast — once you know where your doom leans on the sludge-to-progressive spectrum.
 
 🤘 **Stay heavy, stay patient.**`
     }
@@ -63064,7 +63064,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
     // SEO metadata
     title: "Best Drum Kits for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Doom Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for doom metal drumming: what Brann Dailor (Tama Starclassic Performer B/B), Mario Duplantier (Tama Starclassic Bubinga), Danny Carey (Sonor Custom), and Igor Cavalera (Yamaha Absolute Hybrid Maple) actually play. Deep, resonant shells built for doom's slow, crushing tempos — ranked budget to pro.",
+    description: "Best drum kits for doom metal drumming: what Brann Dailor (Tama Starclassic Performer B/B), Mario Duplantier (Tama Starclassic Bubinga), Danny Carey (Sonor SQ2), and Igor Cavalera (Yamaha Absolute Hybrid Maple) actually play. Deep, resonant shells built for doom's slow, crushing tempos — ranked budget to pro.",
     seoKeywords: [
       'best drum kits for doom metal',
       'doom metal drum kit',
@@ -63101,13 +63101,13 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       title: "What Drum Kit Should I Use for Doom Metal?",
       content: `Doom metal asks a drum kit to do the opposite of almost everything extreme metal usually rewards. Instead of surviving blast beats and rapid double bass, doom locks into riffs at half or a quarter the tempo most metal subgenres demand, letting every hit ring out with maximum tonnage before the next one lands. That changes the gear brief entirely: rather than a dry, choked kit built for endurance at 200+ BPM, doom rewards deep, resonant shells and large-format toms that can carry real weight through slow, riff-locked repetition.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight and riff-driven power. Brann Dailor's Tama Starclassic Performer B/B kit anchors Mastodon's progressive sludge-doom catalog with a warm, musical resonance across its deep tom spread. Mario Duplantier's Tama Starclassic Bubinga kit gives Gojira's crushing, down-tuned passages their tectonic body on dual 22"x18" kicks. Danny Carey's Sonor Custom kit — one of the largest touring configurations in rock, with eight toms and dual kicks — shows how deliberate deceleration itself can become doom's defining atmospheric device. Igor Cavalera's Yamaha Absolute Hybrid Maple kit carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight and riff-driven power. Brann Dailor's Tama Starclassic Performer B/B kit anchors Mastodon's progressive sludge-doom catalog with a warm, musical resonance across its deep tom spread. Mario Duplantier's Tama Starclassic Bubinga kit gives Gojira's crushing, down-tuned passages their tectonic body on dual 22"x18" kicks. Danny Carey's Sonor SQ2 Heavy Beech kit — one of the largest touring configurations in rock, with five toms around a single 24"x17" kick — shows how deliberate deceleration itself can become doom's defining atmospheric device. Igor Cavalera's Yamaha Absolute Hybrid Maple kit carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
 
-This guide breaks down maple, custom hybrid, and large-format kit configurations for doom metal — comparing shell depth, tom spread, and tuning approach across four drummers whose lineages run closest to doom's crushing rhythmic foundation, with recommendations from budget to professional touring rigs.`,
+This guide breaks down beech, bubinga hybrid, and large-format kit configurations for doom metal — comparing shell depth, tom spread, and tuning approach across four drummers whose lineages run closest to doom's crushing rhythmic foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Brann Dailor's Tama Starclassic Performer B/B kit anchors Mastodon's progressive sludge-doom catalog with warm, musical resonance",
         "Mario Duplantier's Tama Starclassic Bubinga kit on dual 22\"x18\" kicks delivers the tectonic body Gojira's crushing riffs demand",
-        "Danny Carey's 8-tom, dual-kick Sonor Custom kit shows how deliberate deceleration itself can become doom's defining atmospheric device",
+        "Danny Carey's 5-tom Sonor SQ2 Heavy Beech kit around a single 24\"x17\" kick shows how deliberate deceleration itself can become doom's defining atmospheric device",
         "Deep, large-format toms and reinforced hardware matter more than raw speed hardware in doom-adjacent kit configurations"
       ]
     },
@@ -63125,8 +63125,8 @@ This guide breaks down maple, custom hybrid, and large-format kit configurations
         {
           name: "Large-Format Tom Spread",
           icon: "🥁",
-          details: "Danny Carey's touring configuration runs eight toms across dual 22\"/24\" kicks, one of the largest setups in rock — built specifically for the slowly evolving, dynamically varied compositions doom-adjacent progressive material demands.",
-          description: "Danny Carey's touring configuration runs eight toms across dual 22\"/24\" kicks, one of the largest setups in rock — built specifically for the slowly evolving, dynamically varied compositions doom-adjacent progressive material demands.",
+          details: "Danny Carey's touring configuration runs five toms around a single 24\"x17\" kick, one of the larger setups in rock — built specifically for the slowly evolving, dynamically varied compositions doom-adjacent progressive material demands.",
+          description: "Danny Carey's touring configuration runs five toms around a single 24\"x17\" kick, one of the larger setups in rock — built specifically for the slowly evolving, dynamically varied compositions doom-adjacent progressive material demands.",
           recommendation: "A generous tom spread for drummers whose material shifts tonal color across long, patient arrangements"
         },
         {
@@ -63242,22 +63242,22 @@ Bubinga is roughly 53% harder than maple, and 100% bubinga shells push that low-
         },
         {
           rank: 3,
-          name: "Sonor Custom",
+          name: "Sonor SQ2 Heavy Beech",
           brand: "Sonor",
-          model: "Custom",
+          model: "SQ2 Heavy Beech",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€6000-9500 (custom shell pack)",
           tier: "premium",
-          material: "Custom Maple",
+          material: "Heavy Beech",
 
-          description: `Danny Carey's Fear Inoculum-era rig is a Sonor Custom kit — custom maple shells across dual 22"/24" kicks and eight toms (8"/10"/12"/13"/14"/16"/18"/20"), one of the largest touring configurations in rock. That scale lets him shift tonal color across Tool's long, slowly evolving compositions, where deceleration itself becomes the emotional device — the same patient philosophy that defines doom metal.
+          description: `Danny Carey's Fear Inoculum-era rig is a Sonor SQ2 Heavy Beech kit — beech shells around a single 24"x17" kick and five toms (10"/12"/14" rack, 16"/18" floor), one of the larger touring configurations in rock. That scale lets him shift tonal color across Tool's long, slowly evolving compositions, where deceleration itself becomes the emotional device — the same patient philosophy that defines doom metal.
 
-The massive tom spread is driven by a custom hardware cage built to hold the configuration stable on tour, paired with a dual-snare setup and Tama Iron Cobra pedals for consistent response across such an enormous rig.`,
+The tom spread is driven by a custom hardware cage built to hold the configuration stable on tour, paired with a Sonor Danny Carey Signature bronze snare and a Sonor Giant Step Twin Effect double pedal for consistent response across the rig.`,
 
           pros: [
             "Danny Carey's Fear Inoculum-era Tool setup — deceleration-as-atmosphere philosophy shared with doom metal",
-            "Eight-tom, dual-kick configuration for maximum tonal color across long compositions",
-            "Fully custom maple specification for exact tonal control",
+            "Five-tom configuration around a single 24\" kick for maximum tonal color across long compositions",
+            "Fully custom beech specification for exact tonal control",
             "Custom hardware cage built for large-format touring stability",
             "Built for long, patient, slowly-evolving compositions"
           ],
@@ -63267,18 +63267,18 @@ The massive tom spread is driven by a custom hardware cage built to hold the con
             "Requires significant stage and studio space"
           ],
           specs: {
-            shell: "Custom Maple",
+            shell: "Heavy Beech",
             mount: "Sonor TMS Suspension",
             finish: "Custom lacquer",
-            kickSize: "22\" / 24\" (dual)",
-            tomSizes: "8\", 10\", 12\", 13\", 14\", 16\", 18\", 20\""
+            kickSize: "24\" x 17\" (single)",
+            tomSizes: "10\", 12\", 14\" rack / 16\", 18\" floor"
           },
           usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "Sonor Custom — patient, atmospheric doom-adjacent weight" }
+            { name: "Danny Carey", band: "Tool", note: "Sonor SQ2 Heavy Beech — patient, atmospheric doom-adjacent weight" }
           ],
           verdict: "Best for atmospheric, slow-building doom-adjacent material. Carey's massive custom kit adds tonal contrast to patient compositions.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/sonor_custom_kit.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_sq2_heavy_beech_kit.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -63375,11 +63375,11 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 - Best for technical, crushing doom-death hybrids
 
 **Large-Format Custom (Danny Carey - Sonor):**
-- Eight-tom, dual-kick configuration for maximum tonal contrast
+- Five-tom configuration around a single 24" kick for maximum tonal contrast
 - Suited to long, slowly evolving, dynamically varied compositions
 - Best for atmospheric, patient doom-adjacent progressive material
 
-**Our Recommendation:** Start with a pro shell pack (Tama Starclassic Performer B/B or budget Pearl Export) if your material leans toward straightforward, crushing doom weight. Choose a custom dual-kick setup (Tama Starclassic Bubinga) if you need maximum low-end power for technical doom-death material. Consider a large-format custom rig (Sonor Custom) only if your compositions demand tonal contrast across long, patient arrangements.`,
+**Our Recommendation:** Start with a pro shell pack (Tama Starclassic Performer B/B or budget Pearl Export) if your material leans toward straightforward, crushing doom weight. Choose a custom dual-kick setup (Tama Starclassic Bubinga) if you need maximum low-end power for technical doom-death material. Consider a large-format custom rig (Sonor SQ2 Heavy Beech) only if your compositions demand tonal contrast across long, patient arrangements.`,
       comparisonTable: [
         { feature: "Low-End Weight", signature: "⭐⭐⭐⭐", custom: "⭐⭐⭐⭐⭐", largeFormat: "⭐⭐⭐⭐⭐" },
         { feature: "Tonal Flexibility", signature: "⭐⭐⭐", custom: "⭐⭐⭐⭐", largeFormat: "⭐⭐⭐⭐⭐" },
@@ -63404,7 +63404,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
         },
         {
           category: "Best for Atmospheric Material",
-          pedal: "Sonor Custom",
+          pedal: "Sonor SQ2 Heavy Beech",
           reason: "Danny Carey's massive Tool setup. Tonal contrast for long, patient, slowly-evolving compositions."
         },
         {
@@ -63424,7 +63424,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon progressive sludge-doom warmth' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22"x18" Tama Starclassic Bubinga — Gojira crushing, tectonic weight' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom — Tool atmospheric patience' },
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — Tool atmospheric patience' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Yamaha Absolute Hybrid Maple — Sepultura tribal, down-tuned heaviness' }
     ],
 
@@ -63432,7 +63432,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon progressive sludge-doom warmth' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22"x18" Tama Starclassic Bubinga — Gojira crushing, tectonic weight' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom — Tool atmospheric patience' },
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — Tool atmospheric patience' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Yamaha Absolute Hybrid Maple — Sepultura tribal, down-tuned heaviness' }
     ],
 
@@ -63448,11 +63448,11 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       },
       {
         question: "Do doom metal drummers need a large tom spread?",
-        answer: "Not necessarily. Brann Dailor's Tama Starclassic Performer B/B kit proves a compact configuration can carry doom's full weight. Danny Carey's 8-tom Sonor Custom setup is the exception, built specifically for Tool's long, dynamically varied compositions rather than doom metal's more straightforward riff-locked structure."
+        answer: "Not necessarily. Brann Dailor's Tama Starclassic Performer B/B kit proves a compact configuration can carry doom's full weight. Danny Carey's 5-tom Sonor SQ2 Heavy Beech setup is the exception, built specifically for Tool's long, dynamically varied compositions rather than doom metal's more straightforward riff-locked structure."
       },
       {
         question: "Single or dual kick — which is better for doom metal?",
-        answer: "A single kick (Brann Dailor, Igor Cavalera) is standard for straightforward, riff-locked doom, since the genre rarely calls for rapid double bass. Mario Duplantier and Danny Carey both run dual kicks, but for low-end weight and tonal flexibility across complex, doom-adjacent progressive material rather than raw speed."
+        answer: "A single kick (Brann Dailor, Igor Cavalera, Danny Carey) is standard for straightforward, riff-locked doom, since the genre rarely calls for rapid double bass. Mario Duplantier runs dual kicks instead, for low-end weight and tonal flexibility across complex, doom-adjacent progressive material rather than raw speed."
       },
       {
         question: "Do I need a signature kit to play doom metal?",
@@ -63463,7 +63463,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     // Conclusion
     conclusion: {
       title: "Build Your Doom Metal Arsenal",
-      content: `Doom metal drum kit choice comes down to how much weight and resonance your riffs demand. Brann Dailor's warm Tama Starclassic Performer B/B kit defined the closest working analogue to doom's founding tonnage-first template. Mario Duplantier's dual-kick Tama Starclassic Bubinga kit proved that technical, down-tuned crushing weight can carry the same philosophy into progressive death metal. Danny Carey's massive Sonor Custom rig shows how tonal contrast can serve doom-adjacent material's most patient, atmospheric compositions, while Igor Cavalera's Yamaha Absolute Hybrid Maple kit carries the same tonnage-first restraint into tribal groove metal.
+      content: `Doom metal drum kit choice comes down to how much weight and resonance your riffs demand. Brann Dailor's warm Tama Starclassic Performer B/B kit defined the closest working analogue to doom's founding tonnage-first template. Mario Duplantier's dual-kick Tama Starclassic Bubinga kit proved that technical, down-tuned crushing weight can carry the same philosophy into progressive death metal. Danny Carey's massive Sonor SQ2 Heavy Beech rig shows how tonal contrast can serve doom-adjacent material's most patient, atmospheric compositions, while Igor Cavalera's Yamaha Absolute Hybrid Maple kit carries the same tonnage-first restraint into tribal groove metal.
 
 None of these approaches is more "correct" — all four represent doom metal's foundational commitment to weight and riff-driven power in the absence of dedicated doom metal drummer profiles in MetalForge's database. Start with whichever configuration matches your riff style, and don't be afraid to let your toms ring out longer than extreme metal convention would suggest.
 
@@ -63519,7 +63519,7 @@ Budget shouldn't stop you either. A Pearl Export or Sonor AQ2 shell pack will te
       title: "Why Doom Metal Cymbals Need Dark, Low-Tuned Wash Over Cutting Brightness",
       content: `Doom metal cymbal selection runs opposite to most extreme metal subgenres. Where blast-beat styles demand bright, explosive cymbals that punch through a wall of rapid-fire distortion, doom's slow, riff-locked tempos give every cymbal strike room to breathe — and that space rewards dark, complex, low-tuned voicings over raw cutting power. A crash or ride that sounds harsh and immediate in a thrash mix can sound thin and disconnected against doom's tonnage-first, half-tempo grooves.
 
-Bill Ward and Candlemass's founding drummers, who invented and defined doom metal's tempo-and-tonnage template, don't currently have dedicated MetalForge gear profiles — so this guide draws on the closest working analogues from progressive sludge, groove-death, and crushing extreme metal lineages that share doom's foundational commitment to weight and space. Brann Dailor's Meinl Mb20 & Mb8 Series setup anchors Mastodon's progressive sludge-doom catalog with complex, musical hi-hats and crashes built for atmosphere over aggression. Danny Carey's Paiste Signature rig gives Tool's slow-building, doom-adjacent passages a dry, dark ride and Rude crashes that carry weight without washing out. Mario Duplantier's Zildjian setup adds tectonic low-end presence to Gojira's crushing, down-tuned passages, while Igor Cavalera's Paiste RUDE cymbals bring a harsher, tribal-adjacent edge that still favors slow-decay darkness over bright cut.
+Bill Ward and Candlemass's founding drummers, who invented and defined doom metal's tempo-and-tonnage template, don't currently have dedicated MetalForge gear profiles — so this guide draws on the closest working analogues from progressive sludge, groove-death, and crushing extreme metal lineages that share doom's foundational commitment to weight and space. Brann Dailor's Meinl Mb20 & Mb8 Series setup anchors Mastodon's progressive sludge-doom catalog with complex, musical hi-hats and crashes built for atmosphere over aggression. Danny Carey's Paiste Signature rig gives Tool's slow-building, doom-adjacent passages a dry, dark ride and Power Crashes that carry weight without washing out. Mario Duplantier's Zildjian setup adds tectonic low-end presence to Gojira's crushing, down-tuned passages, while Igor Cavalera's Paiste RUDE cymbals bring a harsher, tribal-adjacent edge that still favors slow-decay darkness over bright cut.
 
 This guide breaks down dark hi-hats, low-pitched crash washes, and dry rides for doom metal — comparing voicing, size, and finish across four drummers whose lineages run closest to doom's crushing rhythmic foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -63628,13 +63628,13 @@ The 22" Mb20 Ride adds versatile wash and rhythmic undertone rather than aggress
 
           description: `Danny Carey's Paiste Signature setup gives Tool's slow-building, doom-adjacent material a dark, controlled ride voice that anchors weight without dissolving into wash. The 22" Dry Heavy Ride delivers focused, dark articulation — ideal for riff-locked patterns that need to feel crushing rather than merely loud.
 
-Rounding out the rig, 15" Sound Edge Hi-Hats add an open, washy feel for odd-time grooves, while Rude crashes and Chinas supply explosive accents when Tool's compositions build toward doom-adjacent climaxes on records like "Fear Inoculum" (2019).`,
+Rounding out the rig, Sound Edge Hi-Hats add an open, washy feel for odd-time grooves, while Power Crashes and a Signature China supply explosive accents when Tool's compositions build toward doom-adjacent climaxes on records like "Fear Inoculum" (2019).`,
 
           pros: [
             "Danny Carey's Fear Inoculum-era Tool setup — dark, controlled weight for patient, atmospheric material",
             "Dry Heavy Ride anchors slow riffs without washing into overtone chaos",
             "Sound Edge Hi-Hats add controlled openness for dynamic passages",
-            "Rude crashes and Chinas provide contrast for climactic accents",
+            "Power Crashes and Signature China provide contrast for climactic accents",
             "Proven across decades of doom-adjacent progressive metal"
           ],
           cons: [
@@ -63643,10 +63643,10 @@ Rounding out the rig, 15" Sound Edge Hi-Hats add an open, washy feel for odd-tim
             "Full setup (ride + hats + crashes + china) is a significant investment"
           ],
           specs: {
-            hiHats: "15\" Sound Edge",
+            hiHats: "Sound Edge",
             ride: "22\" Dry Heavy Ride",
-            crashes: "18\" & 19\" Power / Rude",
-            china: "20\" & 22\" China"
+            crashes: "Signature Power Crash",
+            china: "Signature China"
           },
           usedBy: [
             { name: "Danny Carey", band: "Tool", note: "22\" Paiste Dry Heavy Ride — dark, controlled doom-adjacent weight" }
@@ -74867,7 +74867,7 @@ Start with a single 10" splash in whichever voicing suits how consistently techn
     // Introduction
     intro: {
       title: "The Least Common — But Still Useful — Voice in a Doom Setup",
-      content: `Doom metal is built on extreme tempo restraint: slow, riff-locked repetition where every crash and ride hit is given room to fully bloom before the next one lands. That patient, weight-first approach is exactly why a splash cymbal — a bright, near-instant-decay accent typically 8" to 12" in diameter — is one of the least common voices in a doom cymbal setup. Most doom drummers build their sound around crash and ride weight instead: Brann Dailor's Meinl Byzance Brilliant Heavy Hammered Crash gives Mastodon's progressive sludge-doom its dark, atmospheric wash, Mario Duplantier's Paiste 602 Crash delivers tectonic low-end tonnage across Gojira's crushing, down-tuned passages, and Danny Carey's Paiste RUDE and Power crashes give Tool's doom-adjacent compositions an explosive accent option for climactic moments.
+      content: `Doom metal is built on extreme tempo restraint: slow, riff-locked repetition where every crash and ride hit is given room to fully bloom before the next one lands. That patient, weight-first approach is exactly why a splash cymbal — a bright, near-instant-decay accent typically 8" to 12" in diameter — is one of the least common voices in a doom cymbal setup. Most doom drummers build their sound around crash and ride weight instead: Brann Dailor's Meinl Byzance Brilliant Heavy Hammered Crash gives Mastodon's progressive sludge-doom its dark, atmospheric wash, Mario Duplantier's Paiste 602 Crash delivers tectonic low-end tonnage across Gojira's crushing, down-tuned passages, and Danny Carey's Paiste Signature Power Crashes give Tool's doom-adjacent compositions an explosive accent option for climactic moments.
 
 That doesn't mean a splash has no place in doom — it just means its role is sparser and more deliberate than in faster, more arrangement-dense genres. Where a progressive or technical metal drummer might reach for a splash several times a song to punctuate constantly shifting accents, a doom drummer typically reserves it for a single, isolated moment — the transition out of an extended riff, or a brief accent against the space between two crushing hits — precisely because doom's whole aesthetic depends on not cluttering that space. A splash used sparingly can genuinely sharpen a transition; used often, it works against everything doom is trying to do.
 
@@ -75196,7 +75196,7 @@ That rougher character suits doom's heavier, less refined edges better than a po
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash-based setup — the dark, atmospheric doom-adjacent voicing a matching splash should complement' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Dark Crash-based setup — Gojira\'s tectonic, crushing low-end tonnage a sparing splash accent can punctuate' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste RUDE/Power Crash-based setup — Tool\'s climactic, doom-adjacent contrast' }
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Power Crash-based setup — Tool\'s climactic, doom-adjacent contrast' }
     ],
     relatedComparisons: [],
 
@@ -78868,7 +78868,7 @@ This guide breaks down drive systems, spring tension, and footboard weight for d
       keyPoints: [
         "Mario Duplantier drives Gojira's dual 22\"x18\" kicks with two independent Tama Iron Cobra 900 Power Glide pedals, not a single double pedal",
         "Igor Cavalera's Tama Iron Cobra double pedal delivers reliable, controlled response for Sepultura's down-tuned tribal heaviness",
-        "Danny Carey's Sonor Giant Step Twin Effect double pedal holds consistent response across Tool's massive, dual-kick touring rig",
+        "Danny Carey's Sonor Giant Step Twin Effect double pedal holds consistent response across Tool's massive, large-format touring rig",
         "Doom rewards weighted, deliberate response over pure top-end speed — a heavier spring and beater setup often outperforms a lightweight speed pedal"
       ]
     },
@@ -79010,7 +79010,7 @@ For doom-adjacent drummers who want a genuinely capable double pedal without cha
           tier: "premium",
           driveType: "Chain Drive",
 
-          description: `Danny Carey drives Tool's massive, dual-kick, eight-tom Fear Inoculum-era rig on a Sonor Giant Step Twin Effect double pedal — part of the same architecturally complex SQ2 platform behind his kit. It has to hold a deliberate, weighted feel through long, slowly evolving compositions where deceleration itself becomes the emotional device — the same patient philosophy that defines doom metal.
+          description: `Danny Carey drives Tool's massive, five-tom Fear Inoculum-era rig on a Sonor Giant Step Twin Effect double pedal — part of the same architecturally complex SQ2 platform behind his kit. It has to hold a deliberate, weighted feel through long, slowly evolving compositions where deceleration itself becomes the emotional device — the same patient philosophy that defines doom metal.
 
 Paired with a large-format kit, the Giant Step Twin Effect proves that a pedal doesn't need extreme-speed specs to anchor a demanding touring rig — it needs to be dependable, night after night, at whatever tempo the material calls for.`,
 
@@ -103193,7 +103193,7 @@ The Rolling Glide bearings keep the action smooth even at heavier spring tension
           priceRange: "€500-650",
           tier: "premium",
           driveType: "Chain Drive",
-          description: `Danny Carey runs a Sonor Giant Step Twin Effect double pedal across Tool's massive, dual-kick, eight-tom touring rig, where dependable, weighted response matters far more than raw top speed. Part of the same architecturally complex SQ2 platform behind his kit, it holds a patient, deliberate feel through long, slowly evolving compositions where restraint itself is the emotional device — the same discipline doom metal's best drummers apply.
+          description: `Danny Carey runs a Sonor Giant Step Twin Effect double pedal across Tool's massive, five-tom touring rig, where dependable, weighted response matters far more than raw top speed. Part of the same architecturally complex SQ2 platform behind his kit, it holds a patient, deliberate feel through long, slowly evolving compositions where restraint itself is the emotional device — the same discipline doom metal's best drummers apply.
 
 A pedal doesn't need extreme-speed specs to anchor a demanding rig; it needs to feel exactly the same on the last song of a two-hour set as it did on the first.`,
           pros: [

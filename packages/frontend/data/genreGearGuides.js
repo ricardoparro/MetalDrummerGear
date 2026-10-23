@@ -30220,7 +30220,7 @@ Start with a budget china from the family that matches your target sound, and up
       title: "Why Post-Metal Chinas Need to Whisper and Explode",
       content: `Post-metal's defining structure — a long, near-silent textural build erupting into a crushing, cathartic peak — puts an unusual demand on china choice. The china has to stay nearly silent during the quiet section, then land with real weight the instant the song detonates, often within the same ten-minute track. A china voiced purely for speed or purely for aggression rarely serves both ends of that range.
 
-No roster drummer currently records under a literal "post-metal" tag, so this guide features the genre's closest working analogues by shared dynamic and atmospheric DNA. Brann Dailor of Mastodon plays a Meinl Byzance Brilliant Heavy Hammered China, warm and musical enough to anchor both restraint and crushing weight. Danny Carey of Tool plays a Paiste Signature China as part of a sprawling setup built for the widest possible dynamic range. Mario Duplantier of Gojira plays a Zildjian A Custom China for tectonic, textured body beneath Gojira's atmospheric, environmentally-themed passages. Abe Cunningham of Deftones plays a Zildjian K Custom China, chosen specifically to serve the band's stated blend of "heavy and ambient music."
+No roster drummer currently records under a literal "post-metal" tag, so this guide features the genre's closest working analogues by shared dynamic and atmospheric DNA. Brann Dailor of Mastodon plays a Meinl Byzance Brilliant Heavy Hammered China, warm and musical enough to anchor both restraint and crushing weight. Danny Carey of Tool plays a Paiste Signature China as part of a sprawling setup built for the widest possible dynamic range. Mario Duplantier of Gojira plays a Zildjian A Custom China for tectonic, textured body beneath Gojira's atmospheric, environmentally-themed passages. Abe Cunningham of Deftones plays a 19" Zildjian A Custom China, chosen specifically to serve the band's stated blend of "heavy and ambient music."
 
 This guide breaks down what actually makes a china work for post-metal's dynamic extremes — warmth, response range, and touring durability — and which specific models these four drummers rely on, from budget-friendly starters to the professional setups behind some of modern metal's most atmospheric records.`,
       keyPoints: [
@@ -30244,7 +30244,7 @@ This guide breaks down what actually makes a china work for post-metal's dynamic
         {
           name: "Wide Dynamic Range",
           icon: "🎭",
-          description: "A post-metal china has to respond convincingly at a whisper and still deliver real weight once the material erupts. Abe Cunningham's K Custom China holds up across Deftones' full crushing-to-ambient shift without needing a second setup.",
+          description: "A post-metal china has to respond convincingly at a whisper and still deliver real weight once the material erupts. Abe Cunningham's A Custom China holds up across Deftones' full crushing-to-ambient shift without needing a second setup.",
           recommendation: "Chinas voiced to stay musical at low volume without losing control at full weight"
         },
         {
@@ -30391,40 +30391,40 @@ The bright A Custom cut reflects post-metal's compositional ambition — a tonal
         },
         {
           rank: 4,
-          name: "Zildjian K Custom China",
+          name: "Zildjian A Custom China",
           brand: "Zildjian",
-          model: "18\" K Custom China",
+          model: "19\" A Custom China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€230-300",
+          priceRange: "€200-260",
           tier: "pro",
           driveType: "B20 Bronze",
-          description: `Abe Cunningham's 18" Zildjian K Custom China was chosen specifically to serve Deftones' self-described blend of "heavy and ambient music" — full-bodied accents that shift between crushing and delicate without changing gear.
+          description: `Abe Cunningham's 19" Zildjian A Custom China was chosen specifically to serve Deftones' self-described blend of "heavy and ambient music" — full-bodied accents that shift between crushing and delicate without changing gear.
 
 The setup has anchored Deftones' peak commercial era across "White Pony," "Diamond Eyes," and "Koi No Yokan" — records defined by exactly the crushing-to-ambient shift post-metal songwriting depends on.`,
           pros: [
             "Abe Cunningham's proven Deftones configuration",
-            "K Custom voicing purpose-built for a crushing/ambient sonic identity",
+            "A Custom voicing purpose-built for a crushing/ambient sonic identity",
             "Proven across Deftones' most acclaimed, atmospheric records",
             "Wide dealer support and easy sourcing"
           ],
           cons: [
-            "K Custom finish requires more careful cleaning to maintain its look",
+            "A Custom finish requires more careful cleaning to maintain its look",
             "Premium pricing across a full setup",
-            "Darker voicing may need a harder touch to project in very loud rooms"
+            "Brighter voicing may need a harder touch to blend in very dark-voiced setups"
           ],
           specs: {
-            size: "18\"",
+            size: "19\"",
             alloy: "B20 Bronze",
-            finish: "K Custom",
+            finish: "A Custom",
             weight: "Medium",
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Abe Cunningham", band: "Deftones", note: "18\" K Custom China for Deftones' \"heavy and ambient\" identity" }
+            { name: "Abe Cunningham", band: "Deftones", note: "19\" A Custom China for Deftones' \"heavy and ambient\" identity" }
           ],
-          verdict: "A dark, controlled china purpose-built for the crushing-to-ambient dynamic shift post-metal depends on.",
+          verdict: "A versatile china purpose-built for the crushing-to-ambient dynamic shift post-metal depends on.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_china_18_cunningham.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_a_custom_china_19_cunningham.htm?partner_id=metalforge"
         }
       ]
     },
@@ -30494,12 +30494,12 @@ The setup has anchored Deftones' peak commercial era across "White Pony," "Diamo
 - Best for: Drummers who want the most dynamic extremes from a single china
 
 **Zildjian (Mario Duplantier, Abe Cunningham):**
-- Ranges from Duplantier's brighter A Custom cut to Cunningham's darker, purpose-voiced K Custom
-- Best for: Either compositional brightness (Duplantier) or a tightly dialed-in crushing/ambient shift (Cunningham)
+- Both Duplantier and Cunningham rely on the same bright, versatile 19" A Custom cut
+- Best for: Compositional brightness (Duplantier) and a tightly dialed-in crushing/ambient shift (Cunningham) alike
 
-**The Truth:** All three brands prove viable for post-metal's core demand — real dynamic range. Dailor's Byzance and Carey's Signature both favor atmosphere with crescendo punch, while Duplantier's and Cunningham's Zildjian choices show the brand's range from bright compositional cut to a tightly dialed-in dual identity.
+**The Truth:** All three brands prove viable for post-metal's core demand — real dynamic range. Dailor's Byzance and Carey's Signature both favor atmosphere with crescendo punch, while Duplantier's and Cunningham's shared Zildjian A Custom choice shows the same bright cut serving both a compositional and a crushing/ambient role.
 
-**Our Recommendation:** Start with a budget HCS Dark or Planet Z china to build dynamic control, then invest in a full Byzance, Signature, or K Custom china once your material demands the extra atmospheric range.`,
+**Our Recommendation:** Start with a budget HCS Dark or Planet Z china to build dynamic control, then invest in a full Byzance, Signature, or A Custom china once your material demands the extra atmospheric range.`,
       comparisonTable: [
         { feature: "Dynamic Range", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Atmospheric Warmth", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
@@ -30529,8 +30529,8 @@ The setup has anchored Deftones' peak commercial era across "White Pony," "Diamo
         },
         {
           category: "Best for Crushing/Ambient Shift",
-          pedal: "Zildjian K Custom China",
-          reason: "Abe Cunningham's dark, controlled china, purpose-chosen for Deftones' heavy-and-ambient identity."
+          pedal: "Zildjian A Custom China",
+          reason: "Abe Cunningham's versatile china, purpose-chosen for Deftones' heavy-and-ambient identity."
         }
       ]
     },
@@ -30545,7 +30545,7 @@ The setup has anchored Deftones' peak commercial era across "White Pony," "Diamo
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered China — warm resonance across restraint and crushing weight' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature China — cinematic range from whisper to full volume' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian A Custom China — Gojira\'s atmospheric compositional depth' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Zildjian K Custom China — Deftones\' "heavy and ambient" identity' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Zildjian A Custom China — Deftones\' "heavy and ambient" identity' }
     ],
     relatedComparisons: [],
 
@@ -30561,7 +30561,7 @@ The setup has anchored Deftones' peak commercial era across "White Pony," "Diamo
       },
       {
         question: "Are dark or bright chinas better for post-metal?",
-        answer: "Dark, warm-leaning chinas generally suit post-metal better because they add atmosphere during quiet build-up sections without cutting harshly, while still holding together once the material reaches full crescendo. Brann Dailor's Byzance Brilliant setup and Abe Cunningham's K Custom China both exemplify this approach."
+        answer: "Dark, warm-leaning chinas generally suit post-metal better because they add atmosphere during quiet build-up sections without cutting harshly, while still holding together once the material reaches full crescendo. Brann Dailor's Byzance Brilliant setup exemplifies this approach, while Abe Cunningham's brighter A Custom China shows a bright-voiced china can still serve the same crushing-to-ambient shift."
       },
       {
         question: "What's the best budget china cymbal for post-metal?",
@@ -30576,7 +30576,7 @@ The setup has anchored Deftones' peak commercial era across "White Pony," "Diamo
     // Conclusion
     conclusion: {
       title: "Choose a China That Can Breathe and Explode",
-      content: `Post-metal china choice comes down to genuine dynamic range — a cymbal that adds atmosphere during a slow build and still delivers real weight once the crescendo arrives. Brann Dailor's Meinl Byzance Brilliant Heavy Hammered China and Danny Carey's Paiste Signature China both prove that warm, complex voicing can serve the genre's widest extremes, while Mario Duplantier's brighter A Custom cut and Abe Cunningham's K Custom show the range from compositional brightness to a tightly dialed-in crushing/ambient identity.
+      content: `Post-metal china choice comes down to genuine dynamic range — a cymbal that adds atmosphere during a slow build and still delivers real weight once the crescendo arrives. Brann Dailor's Meinl Byzance Brilliant Heavy Hammered China and Danny Carey's Paiste Signature China both prove that warm, complex voicing can serve the genre's widest extremes, while Mario Duplantier's and Abe Cunningham's shared A Custom cut shows the same bright voicing serving both compositional brightness and a tightly dialed-in crushing/ambient identity.
 
 Start with a budget HCS Dark or Planet Z china to build your sense of dynamics, and invest in a full pro-tier china once your material has outgrown what a starter set can deliver.
 

@@ -25383,7 +25383,7 @@ The Dominion Series shell pack's projection cuts cleanly through Judas Priest's 
           tier: "premium",
           material: "All Maple, 22\"x18\"",
 
-          description: `Aquiles Priester plays the twin 22" bass drums from his Mapex Saturn Evolution All Maple signature kit — the first Brazilian-drummer signature kit released by a global drum brand — on his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Twin shells give him the reliable, tuning-consistent low end his technically demanding patterns require night after night.
+          description: `Aquiles Priester plays the twin 22" bass drums from his Mapex Saturn Evolution All Maple signature kit — the first Brazilian-drummer signature kit released by a global drum brand — launched in 2023, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Twin shells give him the reliable, tuning-consistent low end his technically demanding patterns require night after night.
 
 The all-maple shell construction projects cleanly at extreme tempo without losing definition — critical when Priester's double-bass patterns need to stay articulate beneath Angra's dense, orchestrated neoclassical arrangements.`,
 
@@ -29045,11 +29045,11 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
           priceRange: "€220-290",
           tier: "pro",
           driveType: "CuSn8 Bronze",
-          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, and his current setup runs a china from his custom red-coated Paiste cymbal set alongside his crash lineup, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
+          description: `Aquiles Priester's current Angra setup runs a china from his custom red-coated Paiste cymbal set — launched alongside his 2023 Mapex signature kit — alongside his crash lineup, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
 
 The distinctive red-coated finish gives Priester's setup a signature visual and sonic identity, delivering the bright, direct attack South American festival stages demand while standing apart from the genre's standard-finish Sabian and Paiste lineups.`,
           pros: [
-            "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
+            "Aquiles Priester's current Angra setup, built around his 2023 Mapex/Paiste signature gear — Brazilian power metal's most celebrated drummer",
             "Bright, direct CuSn8 bronze voicing suited to sustained high-tempo playing",
             "Built for sustained consistency at extreme neoclassical double-bass tempos",
             "Distinctive red-coated finish gives Priester's setup a signature visual identity"
@@ -29067,7 +29067,7 @@ The distinctive red-coated finish gives Priester's setup a signature visual and 
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "Custom red-coated Paiste China — current Angra return cycle" }
+            { name: "Aquiles Priester", band: "Angra", note: "Custom red-coated Paiste China — 2023 signature cymbal setup" }
           ],
           verdict: "Best for neoclassical double-bass power metal. Priester's setup proves a distinctive custom finish can match the genre's brightest standards at speed.",
           rating: 4.6,
@@ -29300,7 +29300,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       },
       {
         question: "What china cymbal does Aquiles Priester use?",
-        answer: "Aquiles Priester of Angra runs an 18\"-20\" china from his custom red-coated Paiste cymbal set as part of his current Angra return-era setup, chosen for maximum consistency at sustained 180-220+ BPM neoclassical double-bass patterns."
+        answer: "Aquiles Priester of Angra runs an 18\"-20\" china from his custom red-coated Paiste cymbal set as part of his current setup, built around his 2023 signature gear, chosen for maximum consistency at sustained 180-220+ BPM neoclassical double-bass patterns."
       },
       {
         question: "What china cymbal does Nicko McBrain use?",
@@ -39524,7 +39524,7 @@ Budget shouldn't stop you either. A Zildjian ZBT or Paiste PST 8 ride will teach
       title: "Why Power Metal Rides Need to Cut, Not Wash",
       content: `Power metal's galloping, triplet-based rhythmic vocabulary and theatrical, keyboard-orchestrated arrangements demand a ride that stays bright and clearly articulate rather than blurring into sustain. A ride that washes out under a galloping pattern buries the very rhythmic feel power metal's European scene was built on.
 
-Scott Travis currently rides a 22" Paiste RUDE Power Ride with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester rides a 22" ride from his custom red-coated Paiste set on his current Angra return cycle, chosen for the consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's 22" Paiste Signature Precision Ride has powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's 22" Paiste Signature Series Ride brings European hard rock cutting power and touring endurance across Motörhead and Scorpions.
+Scott Travis currently rides a 22" Paiste RUDE Power Ride with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester rides a 22" ride from his custom red-coated Paiste set, part of his 2023 signature cymbal setup, chosen for the consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's 22" Paiste Signature Precision Ride has powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's 22" Paiste Signature Series Ride brings European hard rock cutting power and touring endurance across Motörhead and Scorpions.
 
 This guide compares Paiste RUDE, Custom Red-Coated, and Paiste Signature rides for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
@@ -39628,11 +39628,11 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
           priceRange: "€230-290",
           tier: "pro",
           driveType: "CuSn8 Bronze",
-          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, riding a 22" ride from his custom red-coated Paiste set as part of a rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
+          description: `Aquiles Priester rides a 22" ride from his custom red-coated Paiste set — part of the signature cymbal setup he launched alongside his Mapex kit in 2023 — chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
 
 The distinctive red-coated finish gives Priester's ride a signature visual and sonic identity, still driven by relaxation-based technique rather than raw force — a distinctive choice within power metal's largely standard-finish Paiste landscape.`,
           pros: [
-            "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
+            "Aquiles Priester's current Angra setup, built around his 2023 Mapex/Paiste signature gear — Brazilian power metal's most celebrated drummer",
             "Bright, direct CuSn8 bronze voicing suited to sustained high-tempo playing",
             "Built for sustained consistency at extreme neoclassical double-bass tempos",
             "Distinctive red-coated finish gives Priester's setup a signature visual identity"
@@ -39650,7 +39650,7 @@ The distinctive red-coated finish gives Priester's ride a signature visual and s
             weight: "Medium-Heavy"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "22\" Custom Red-Coated Paiste Ride — current Angra return cycle" }
+            { name: "Aquiles Priester", band: "Angra", note: "22\" Custom Red-Coated Paiste Ride — 2023 signature cymbal setup" }
           ],
           verdict: "Best for neoclassical double-bass power metal. Priester's ride proves a distinctive custom finish can match brighter alternatives at speed.",
           rating: 4.6,
@@ -47487,7 +47487,7 @@ Start with a budget crash from the family that matches your target sound, and up
       title: "Why Power Metal Crashes Need to Cut Through Keyboards and Choirs",
       content: `Power metal's theatrical, fantasy-themed songwriting layers galloping double bass, soaring clean vocals, and keyboard orchestration into a dense, larger-than-life arrangement — and a crash that washes out or disappears into that mix does the genre no favors. Power metal crashes need to be bright and articulate enough to punch through a full orchestral arrangement without abandoning the theatrical dynamic range the genre depends on.
 
-Scott Travis currently plays Paiste RUDE crashes with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before he even recorded "Painkiller" (1990), the record that became a direct blueprint for the European power metal movement. Aquiles Priester runs a full crash setup from his custom red-coated Paiste set on his current Angra return cycle, chosen for consistency at sustained 180-220+ BPM double-bass tempos. Nicko McBrain's Paiste Signature crashes have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste Signature Series crashes bring European hard rock brightness and touring endurance across Motörhead and Scorpions.
+Scott Travis currently plays Paiste RUDE crashes with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before he even recorded "Painkiller" (1990), the record that became a direct blueprint for the European power metal movement. Aquiles Priester runs a full crash setup from his custom red-coated Paiste set, part of his 2023 signature cymbal setup, chosen for consistency at sustained 180-220+ BPM double-bass tempos. Nicko McBrain's Paiste Signature crashes have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste Signature Series crashes bring European hard rock brightness and touring endurance across Motörhead and Scorpions.
 
 This guide breaks down what actually makes a crash work for power metal — brightness, cutting power, and theatrical dynamic range — and recommends specific models across every budget, from a first bright crash to the exact cymbals power metal's most influential drummers play.`,
       keyPoints: [
@@ -47591,11 +47591,11 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
           priceRange: "€210-290",
           tier: "pro",
           driveType: "CuSn8 Bronze",
-          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, and his current setup runs a full custom red-coated Paiste crash lineup chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
+          description: `Aquiles Priester's current setup runs a full custom red-coated Paiste crash lineup — part of the signature cymbal setup he launched alongside his Mapex kit in 2023 — chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
 
 The distinctive red-coated finish gives Priester's crash lineup a signature visual and sonic identity — a distinctive choice within power metal's largely standard-finish Paiste landscape, proving the genre's crash requirements have room for a different visual character at the highest level.`,
           pros: [
-            "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
+            "Aquiles Priester's current Angra setup, built around his 2023 Mapex/Paiste signature gear — Brazilian power metal's most celebrated drummer",
             "Bright, direct CuSn8 bronze voicing suited to sustained high-tempo playing",
             "Built for sustained consistency at extreme neoclassical double-bass tempos",
             "Distinctive red-coated finish gives Priester's setup a signature visual identity"
@@ -47613,7 +47613,7 @@ The distinctive red-coated finish gives Priester's crash lineup a signature visu
             decay: "Bright, focused"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "17\" & 18\" Custom Red-Coated Paiste Crashes — current Angra return cycle" }
+            { name: "Aquiles Priester", band: "Angra", note: "17\" & 18\" Custom Red-Coated Paiste Crashes — 2023 signature cymbal setup" }
           ],
           verdict: "Best for neoclassical double-bass power metal. Priester's setup proves a distinctive custom finish can match brighter alternatives at speed.",
           rating: 4.6,
@@ -47834,7 +47834,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       },
       {
         question: "What crash cymbal does Aquiles Priester use?",
-        answer: "Aquiles Priester of Angra runs 17\" and 18\" crashes from his custom red-coated Paiste set as part of his current Angra return-era setup, chosen for maximum consistency at sustained 180-220+ BPM neoclassical double-bass patterns."
+        answer: "Aquiles Priester of Angra runs 17\" and 18\" crashes from his custom red-coated Paiste set as part of his current setup, built around his 2023 signature gear, chosen for maximum consistency at sustained 180-220+ BPM neoclassical double-bass patterns."
       },
       {
         question: "What crash cymbal does Nicko McBrain use?",
@@ -61476,7 +61476,7 @@ Start where your budget allows — even a Pearl Export or Tama Imperialstar will
       title: "Why Power Metal Cymbals Need Brightness and Stamina in Equal Measure",
       content: `Power metal drumming demands sustained, precise double bass at speed-metal tempos combined with the theatrical, larger-than-life dynamic range the genre's keyboard-orchestrated, fantasy-themed songwriting requires. That combination pushes cymbal choice toward bright, cutting voicing that can punch through galloping rhythms and soaring clean vocals without disappearing into a wash of sustain during 160-200+ BPM sections.
 
-Scott Travis currently plays Paiste RUDE & 2002 Series cymbals with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs a full cymbal setup from his custom red-coated Paiste set on his current Angra return cycle, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style. Nicko McBrain's Paiste Signature cymbals have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon. Mikkey Dee's Paiste Signature Series cymbals bring European hard rock power and touring endurance across Motörhead and Scorpions.
+Scott Travis currently plays Paiste RUDE & 2002 Series cymbals with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs a full cymbal setup from his custom red-coated Paiste set, part of his 2023 signature cymbal setup, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style. Nicko McBrain's Paiste Signature cymbals have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon. Mikkey Dee's Paiste Signature Series cymbals bring European hard rock power and touring endurance across Motörhead and Scorpions.
 
 This guide compares Paiste RUDE, Custom Red-Coated, and Paiste Signature/2002 for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
@@ -61583,12 +61583,12 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
           tier: "pro",
           material: "CuSn8 Bronze",
 
-          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, and his current setup is built around a Mapex Saturn Evolution All Maple signature kit with a full custom red-coated Paiste cymbal setup and a DW 9000 Series double pedal — a rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
+          description: `Aquiles Priester's current setup is built around a Mapex Saturn Evolution All Maple signature kit with a full custom red-coated Paiste cymbal setup and a DW 9000 Series double pedal — launched together in 2023 — a rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
 
 The distinctive red-coated finish gives Priester's setup a signature visual and sonic identity, still driven by relaxation-based technique rather than raw force. It's a distinctive choice within power metal's largely standard-finish Paiste landscape, proving the genre's cymbal requirements have room for a different visual character at the highest level.`,
 
           pros: [
-            "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
+            "Aquiles Priester's current Angra setup, built around his 2023 Mapex/Paiste signature gear — Brazilian power metal's most celebrated drummer",
             "Bright, direct CuSn8 bronze voicing suited to sustained high-tempo playing",
             "Built for sustained consistency at extreme neoclassical double-bass tempos",
             "Distinctive red-coated finish gives Priester's setup a signature visual identity",
@@ -61606,7 +61606,7 @@ The distinctive red-coated finish gives Priester's setup a signature visual and 
             bestFor: "Neoclassical, sustained double-bass power metal"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "Full custom red-coated Paiste setup — current Angra return cycle, paired with Mapex Saturn Evolution and DW 9000 double pedal" }
+            { name: "Aquiles Priester", band: "Angra", note: "Full custom red-coated Paiste setup — 2023 signature setup, paired with Mapex Saturn Evolution and DW 9000 double pedal" }
           ],
           verdict: "Best for neoclassical double-bass power metal. Priester's setup proves a distinctive custom finish can match brighter alternatives at speed.",
           rating: 4.6,
@@ -61817,7 +61817,7 @@ While Casagrande's background sits in groove and thrash rather than power metal'
       },
       {
         question: "What cymbals does Aquiles Priester use?",
-        answer: "Aquiles Priester currently plays a full custom red-coated Paiste cymbal setup on his 2023 Angra return cycle, paired with a Mapex Saturn Evolution All Maple signature kit and a DW 9000 Series double pedal — a rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands."
+        answer: "Aquiles Priester currently plays a full custom red-coated Paiste cymbal setup, launched as part of his 2023 signature gear, paired with a Mapex Saturn Evolution All Maple signature kit and a DW 9000 Series double pedal — a rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands."
       },
       {
         question: "Paiste RUDE vs Custom Red-Coated — which is better for power metal?",
@@ -61892,7 +61892,7 @@ Budget shouldn't stop you either. A Sabian SBr or Paiste PST 5 setup will teach 
       title: "What Drum Kit Should I Use for Power Metal?",
       content: `Power metal drumming lives at the opposite end of the tonal spectrum from doom or black metal. Instead of cavernous, down-tuned low end, the genre's galloping rhythms, soaring clean vocals, and fantasy-themed theatrics demand a kit voiced for brightness, articulation, and stamina at sustained 160-220+ BPM tempos — a kit that stays crisp and present rather than washing out under keyboard-orchestrated arrangements.
 
-Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018) after roughly a decade and a half on Pearl, and his current ddrum Dominion Series kit — driven by a DW 9000 Series double pedal, preserving the foot power he's played with since the 1980s — carries "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Aquiles Priester plays a Mapex Saturn Evolution All Maple signature kit for his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's British Drum Co. kit — still driven by a single bass drum pedal for every Iron Maiden gallop, never a double — proves the genre's most influential rhythmic vocabulary doesn't require twin kicks at all. Mikkey Dee's Sonor SQ2 kit has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's biggest festival-circuit bands depend on.
+Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018) after roughly a decade and a half on Pearl, and his current ddrum Dominion Series kit — driven by a DW 9000 Series double pedal, preserving the foot power he's played with since the 1980s — carries "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Aquiles Priester plays a Mapex Saturn Evolution All Maple signature kit, launched in 2023, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's British Drum Co. kit — still driven by a single bass drum pedal for every Iron Maiden gallop, never a double — proves the genre's most influential rhythmic vocabulary doesn't require twin kicks at all. Mikkey Dee's Sonor SQ2 kit has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's biggest festival-circuit bands depend on.
 
 This guide breaks down what actually makes a kit work for power metal — brightness, articulation, and reliability at sustained high tempo — and which specific kits these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most theatrical, speed-driven records.`,
       keyPoints: [
@@ -62002,12 +62002,12 @@ Paired with a ddrum Scott Travis Signature 14"x6.5" snare and Paiste RUDE & 2002
           tier: "premium",
           material: "All Maple",
 
-          description: `Aquiles Priester plays a Mapex Saturn Evolution All Maple signature kit for his celebrated 2023 return to Angra — the first Brazilian-drummer signature kit released by a global drum brand — pairing twin 22" bass drums with a three rack tom / two floor tom spread built specifically around his relaxation-based, sustained double-bass technique. The all-maple shell construction lets Priester dial in projection and articulation for neoclassical patterns sustained at 180-220+ BPM.
+          description: `Aquiles Priester plays a Mapex Saturn Evolution All Maple signature kit, launched in 2023 — the first Brazilian-drummer signature kit released by a global drum brand — pairing twin 22" bass drums with a three rack tom / two floor tom spread built specifically around his relaxation-based, sustained double-bass technique. The all-maple shell construction lets Priester dial in projection and articulation for neoclassical patterns sustained at 180-220+ BPM.
 
 Driven by a DW 9000 Series double pedal and a full custom red-coated Paiste cymbal setup, the rig is a genuinely distinctive choice within power metal's largely Tama/Sonor/Pearl landscape — proof that a signature partnership can match the genre's biggest names at the highest level.`,
 
           pros: [
-            "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
+            "Aquiles Priester's current Angra setup, built around his 2023 Mapex/Paiste signature gear — Brazilian power metal's most celebrated drummer",
             "All-maple shell construction for projection and articulate tonal control",
             "Built for sustained consistency at extreme neoclassical double-bass tempos",
             "Distinctive signature-kit choice within power metal's largely off-the-shelf landscape",
@@ -62026,7 +62026,7 @@ Driven by a DW 9000 Series double pedal and a full custom red-coated Paiste cymb
             tomSizes: "10\", 12\", 13\" rack / 16\", 18\" floor"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "Mapex Saturn Evolution All Maple — current Angra return-era rig" }
+            { name: "Aquiles Priester", band: "Angra", note: "Mapex Saturn Evolution All Maple — 2023 signature kit launch" }
           ],
           verdict: "Best for neoclassical double-bass power metal. Priester's setup proves a signature-kit partnership can match the biggest names.",
           rating: 4.6,
@@ -62235,7 +62235,7 @@ Paired with a Sonor Mikkey Dee Signature snare and a DW 5000 Series double pedal
       },
       {
         question: "What drum kit does Aquiles Priester use?",
-        answer: "Aquiles Priester currently plays a Mapex Saturn Evolution All Maple signature kit on his 2023 Angra return cycle, paired with a matching Mapex Saturn Evolution 14\"x6.5\" snare, a full custom red-coated Paiste cymbal setup, and a DW 9000 Series double pedal — a rig built for sustained consistency at his 180-220+ BPM neoclassical double-bass tempos."
+        answer: "Aquiles Priester currently plays a Mapex Saturn Evolution All Maple signature kit, launched in 2023, paired with a matching Mapex Saturn Evolution 14\"x6.5\" snare, a full custom red-coated Paiste cymbal setup, and a DW 9000 Series double pedal — a rig built for sustained consistency at his 180-220+ BPM neoclassical double-bass tempos."
       },
       {
         question: "Does Nicko McBrain use a double pedal?",
@@ -62309,7 +62309,7 @@ Start where your budget allows — even a Tama Imperialstar or Sonor AQ2 will ge
       title: "Why Power Metal Pedal Choice Splits Between Speed and Foot Independence",
       content: `Power metal's galloping, triplet-based rhythms and sustained neoclassical double-bass runs put very different demands on a pedal depending on which tradition a drummer follows. One of the genre's most influential names never touches a double pedal at all, relying on foot independence and a precise single pedal, while others need a fast, reliable double pedal to sustain 180-220+ BPM 16th-note patterns across an entire set.
 
-Scott Travis currently drives Judas Priest's twin 22"x18" bass drums with a DW 9000 Series double pedal mounted on a Gibraltar rack, part of the ddrum-era setup he's used since "Firepower" (2018), carrying "Painkiller" (1990)'s foundational blueprint forward. Aquiles Priester relies on the same DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique on Angra's current return-era rig. Nicko McBrain has never used a double pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary runs through a single DW pedal, proof that raw double-bass speed isn't required to anchor a genre-defining sound. Mikkey Dee's DW 5000 Series double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule.
+Scott Travis currently drives Judas Priest's twin 22"x18" bass drums with a DW 9000 Series double pedal mounted on a Gibraltar rack, part of the ddrum-era setup he's used since "Firepower" (2018), carrying "Painkiller" (1990)'s foundational blueprint forward. Aquiles Priester relies on the same DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique in his current Angra rig, part of the signature gear he launched in 2023. Nicko McBrain has never used a double pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary runs through a single DW pedal, proof that raw double-bass speed isn't required to anchor a genre-defining sound. Mikkey Dee's DW 5000 Series double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule.
 
 This guide breaks down single-pedal foot independence versus double-pedal sustained speed for power metal — comparing what these four influential drummers actually play and why, with recommendations across every budget.`,
       keyPoints: [
@@ -62371,7 +62371,7 @@ This guide breaks down single-pedal foot independence versus double-pedal sustai
           tier: "pro",
           driveType: "Dual Chain",
 
-          description: `Scott Travis switched to a DW 9000 Series double pedal for Judas Priest's "Firepower" (2018), mounted on a Gibraltar rack to drive his twin 22"x18" ddrum Dominion Series bass drums through "Invincible Shield" (2024) and carrying "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Aquiles Priester's 2023 Angra return-era rig runs on the same DW 9000 Series double pedal, chosen for the sustained consistency his relaxation-based, 180-220+ BPM neoclassical double-bass technique demands.
+          description: `Scott Travis switched to a DW 9000 Series double pedal for Judas Priest's "Firepower" (2018), mounted on a Gibraltar rack to drive his twin 22"x18" ddrum Dominion Series bass drums through "Invincible Shield" (2024) and carrying "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Aquiles Priester's current Angra rig, launched alongside his signature gear in 2023, runs on the same DW 9000 Series double pedal, chosen for the sustained consistency his relaxation-based, 180-220+ BPM neoclassical double-bass technique demands.
 
 The free-floating rotor design and infinitely adjustable spring tension let both drummers dial in exactly the response their technique requires without the tension buildup that creates a speed ceiling for less refined pedals.`,
 
@@ -62396,7 +62396,7 @@ The free-floating rotor design and infinitely adjustable spring tension let both
           },
           usedBy: [
             { name: "Scott Travis", band: "Judas Priest", note: "DW 9000 Series Double Pedal — current setup since \"Firepower\" (2018)" },
-            { name: "Aquiles Priester", band: "Angra", note: "DW 9000 Series Double Pedal — current Angra return-era rig" }
+            { name: "Aquiles Priester", band: "Angra", note: "DW 9000 Series Double Pedal — part of his 2023 signature rig" }
           ],
           verdict: "The power metal pedal standard for sustained double-bass speed. Travis's and Priester's shared setup proves infinite adjustability pays off at extreme tempo.",
           rating: 4.7,
@@ -62610,7 +62610,7 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
       },
       {
         question: "What pedal does Aquiles Priester use?",
-        answer: "Aquiles Priester currently plays a DW 9000 Series double pedal on his 2023 Angra return-era rig, chosen for the sustained consistency his relaxation-based, 180-220+ BPM neoclassical double-bass technique demands."
+        answer: "Aquiles Priester currently plays a DW 9000 Series double pedal, part of the signature rig he launched in 2023, chosen for the sustained consistency his relaxation-based, 180-220+ BPM neoclassical double-bass technique demands."
       },
       {
         question: "Do I need an expensive double pedal to play power metal?",
@@ -80243,7 +80243,7 @@ Dee's decades-long Sonor partnership shows how a signature birch platform can de
           tier: "premium",
           material: "All Maple Signature (14x6.5\")",
 
-          description: `Aquiles Priester's Mapex Saturn Evolution All Maple 14"x6.5" snare gives Angra's neoclassical, high-tempo material its cutting attack, staying articulate through the band's sustained 180-220+ BPM double-bass passages. Priester paired this signature snare with his Mapex Saturn Evolution kit and custom red-coated Paiste cymbals since his 2023 return to Angra, giving the band's most technically demanding material consistent, high-speed projection.
+          description: `Aquiles Priester's Mapex Saturn Evolution All Maple 14"x6.5" snare gives Angra's neoclassical, high-tempo material its cutting attack, staying articulate through the band's sustained 180-220+ BPM double-bass passages. Priester paired this signature snare with his Mapex Saturn Evolution kit and custom red-coated Paiste cymbals, all launched together in 2023, giving the band's most technically demanding material consistent, high-speed projection.
 
 The all-maple signature construction is built specifically for drummers who need a snare that won't lose definition even at power metal's most extreme sustained tempos.`,
 
@@ -86478,7 +86478,7 @@ Whatever you choose, prioritize consistent chick response and dynamic range over
       title: "What Hi-Hats Are Used in Power Metal?",
       content: `Power metal's galloping, triplet-based rhythmic vocabulary and theatrical, keyboard-orchestrated arrangements demand a hi-hat that stays bright and clearly articulate rather than blurring into wash. A hi-hat that washes out under a galloping pattern buries the very rhythmic feel power metal's European scene was built on.
 
-Scott Travis currently plays Paiste RUDE Hi-Hats with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs hi-hats from his custom red-coated Paiste set on his current Angra return cycle, chosen for the consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's Paiste Signature Hi-Hats have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste Signature Series Hi-Hats bring European hard rock cutting power and touring endurance across Motörhead and Scorpions.
+Scott Travis currently plays Paiste RUDE Hi-Hats with Judas Priest, part of a Paiste cymbal endorsement dating back to 1987 — three years before his galvanizing "Painkiller" (1990) performance, the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs hi-hats from his custom red-coated Paiste set, part of his 2023 signature cymbal setup, chosen for the consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's Paiste Signature Hi-Hats have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste Signature Series Hi-Hats bring European hard rock cutting power and touring endurance across Motörhead and Scorpions.
 
 This guide compares Paiste RUDE, Custom Red-Coated, and Paiste Signature/2002 hi-hats for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
@@ -86585,7 +86585,7 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
           tier: "pro",
           material: "CuSn8 Bronze, Custom Red-Coated",
 
-          description: `Aquiles Priester runs hi-hats from his custom red-coated Paiste set on his current Angra return cycle, chosen for the consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. The distinctive red-coated finish gives a signature visual and sonic identity compared to the standard-finish Paiste alternatives more common across the genre.
+          description: `Aquiles Priester runs hi-hats from his custom red-coated Paiste set, part of his 2023 signature cymbal setup, chosen for the consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. The distinctive red-coated finish gives a signature visual and sonic identity compared to the standard-finish Paiste alternatives more common across the genre.
 
 Priester's choice proves power metal's hi-hat requirements have room for a distinctive signature finish alongside the genre's more common bright, cutting standard.`,
 
@@ -93946,7 +93946,7 @@ Priester's choice reflects power metal's neoclassical lineage — a signature st
             "Balanced diameter and consistent rebound for rapid, technical patterns",
             "American hickory for durability across demanding touring schedules",
             "Well-suited to genre-defining, technically dense material",
-            "Signature since 2023, tied to his celebrated Angra return"
+            "Signature deal since 2023, alongside his Mapex/Paiste signature gear launch"
           ],
           cons: [
             "Less widely stocked than a mainline standard 5A",

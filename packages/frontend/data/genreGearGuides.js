@@ -68519,12 +68519,12 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Sensitone snare wil
       title: "Why Technical Death Metal Needs a Snare That Never Loses the Thread",
       content: `Technical death metal layers blast beats, odd-meter shifts, and dense ghost-note fills on top of each other, often within the same bar. A snare that can't respond instantly and consistently at every dynamic level doesn't just sound flat — it makes the genre's calculated rhythmic complexity unreadable, burying intricate patterns under an undifferentiated wall of noise.
 
-George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model — free-floating brass snares, prized for the cutting articulation that keeps every accent legible whether locked into a straight blast beat or threading a technical fill, are what many extreme-tempo Pearl endorsers gravitate toward past 240 BPM. Hannes Grossmann of Obscura plays a DW Collectors 14"x5.5" maple snare, a shallower shell chosen for the fast, precise response his classically-influenced odd-meter compositions demand. Flo Mounier of Cryptopsy plays a Tama Starclassic Maple 14"x5.5" snare, its focused, articulate attack built to keep Cryptopsy's dense, churning technical arrangements legible at machine-gun tempo. Derek Roddy of Hate Eternal plays a Tama Starclassic Bubinga 14"x6.5" snare, the same reliable setup that let him record entire drum tracks in a single take and earn the nickname "One Take."
+George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model — free-floating brass snares, prized for the cutting articulation that keeps every accent legible whether locked into a straight blast beat or threading a technical fill, are what many extreme-tempo Pearl endorsers gravitate toward past 240 BPM. Hannes Grossmann played a Tama S.L.P. G-Maple 14"x6" snare throughout Necrophagist and the Obscura years before switching to a DW Collectors 14"x5.5" maple snare in 2014 when he joined Alkaloid, a shallower shell chosen for the fast, precise response his classically-influenced odd-meter compositions demand. Flo Mounier of Cryptopsy plays a Tama Starclassic Maple 14"x5.5" snare, its focused, articulate attack built to keep Cryptopsy's dense, churning technical arrangements legible at machine-gun tempo. Derek Roddy of Hate Eternal plays a Tama Starclassic Bubinga 14"x6.5" snare, the same reliable setup that let him record entire drum tracks in a single take and earn the nickname "One Take."
 
 This guide breaks down what actually makes a snare work for technical death metal's precision demands — instant response, ghost-note sensitivity, and consistency across odd-meter complexity — and recommends specific models across every budget, from a first precision-capable snare to the exact drums the genre's most demanding drummers play.`,
       keyPoints: [
         "Technical death metal demands instant, legible response for both blast beats and dense, ghost-note-heavy fills within the same bar",
-        "Hannes Grossmann's and Flo Mounier's shallower 14x5.5\" maple snares both trade depth for faster, more precise response",
+        "Hannes Grossmann's DW Collectors 14x5.5\" maple snare (since 2014, joining Alkaloid) and Flo Mounier's matching Tama Starclassic Maple both trade depth for faster, more precise response — a switch from the deeper 14x6\" Tama S.L.P. G-Maple Grossmann played through Necrophagist and Obscura",
         "Free-floating brass snares and Derek Roddy's bubinga snare show that deeper, warmer shells can still deliver technical precision",
         "13\"-14\" diameters with 5.5\"-6.5\" depths dominate technical death metal, favoring speed and articulation over maximum body"
       ]
@@ -68624,12 +68624,12 @@ George Kollias, a longtime Pearl drums endorser (Pearl Masterworks Series), is o
           tier: "pro",
           material: "Maple",
 
-          description: `Hannes Grossmann's DW Collectors 14"x5.5" maple snare gives Obscura's classically-influenced, odd-meter compositions the fast, precise response his technique requires. The shallower 5.5" depth and maple shell prioritize quick articulation over maximum body — ideal for Grossmann's dense, rapid-fire technical fills.
+          description: `Hannes Grossmann has played a DW Collectors 14"x5.5" maple snare since joining Alkaloid in 2014, chosen for the fast, precise response his classically-influenced, odd-meter compositions demand — a switch from the deeper Tama S.L.P. G-Maple 14"x6" snare he played throughout Necrophagist and the Obscura years. The shallower 5.5" depth and maple shell prioritize quick articulation over maximum body — ideal for Grossmann's dense, rapid-fire technical fills.
 
-Grossmann, widely regarded as one of the most technically proficient drummers in death metal, needs a snare that responds instantly to the light ghost notes and rapid subdivisions that define Obscura's compositionally rigorous style.`,
+Grossmann, widely regarded as one of the most technically proficient drummers in death metal, needs a snare that responds instantly to the light ghost notes and rapid subdivisions that define his compositionally rigorous style.`,
 
           pros: [
-            "Hannes Grossmann's proven Obscura setup — classically-influenced technical precision",
+            "Hannes Grossmann's proven Alkaloid setup — classically-influenced technical precision",
             "Shallower 14x5.5\" maple shell for fast, precise response",
             "Excellent ghost-note sensitivity for dense, rapid-fire fills",
             "Warm maple tone distinct from brighter brass or steel alternatives",
@@ -68648,7 +68648,7 @@ Grossmann, widely regarded as one of the most technically proficient drummers in
             bestFor: "Fast, precise response for classically-influenced odd-meter technicality"
           },
           usedBy: [
-            { name: "Hannes Grossmann", band: "Obscura", note: "DW Collectors 14\"x5.5\" Maple — current setup" }
+            { name: "Hannes Grossmann", band: "Alkaloid", note: "DW Collectors 14\"x5.5\" Maple since 2014; Tama S.L.P. G-Maple 14\"x6\" during the Necrophagist/Obscura era" }
           ],
           verdict: "Best for classically-influenced precision. Grossmann's shallower maple snare responds instantly to dense, rapid-fire fills.",
           rating: 4.6,
@@ -68814,7 +68814,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
         {
           category: "Best for Ghost-Note Precision",
           pedal: "DW Collectors Maple",
-          reason: "Hannes Grossmann's Obscura setup — fast, precise response for classically-influenced odd-meter fills."
+          reason: "Hannes Grossmann's Alkaloid setup — fast, precise response for classically-influenced odd-meter fills."
         },
         {
           category: "Best for Maximum Speed",
@@ -68838,7 +68838,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Series endorser — Nile\'s technical speed-and-precision standard' },
-      { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple — Obscura\'s classically-influenced odd-meter precision' },
+      { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple since 2014 (Alkaloid) — classically-influenced odd-meter precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple 14x5.5\" — Cryptopsy\'s machine-gun blast beat speed' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording consistency' }
     ],
@@ -68846,7 +68846,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Series endorser — Nile\'s technical speed-and-precision standard' },
-      { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple — Obscura\'s classically-influenced odd-meter precision' },
+      { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple since 2014 (Alkaloid) — classically-influenced odd-meter precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple 14x5.5\" — Cryptopsy\'s machine-gun blast beat speed' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording consistency' }
     ],
@@ -68859,7 +68859,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
       },
       {
         question: "What snare does Hannes Grossmann use?",
-        answer: "Hannes Grossmann of Obscura plays a DW Collectors 14\"x5.5\" maple snare, a shallower shell chosen for the fast, precise response his classically-influenced, odd-meter compositions demand."
+        answer: "Hannes Grossmann played a Tama S.L.P. G-Maple 14\"x6\" snare throughout Necrophagist and Obscura before switching to a DW Collectors 14\"x5.5\" maple snare in 2014 when he joined Alkaloid, a shallower shell chosen for the fast, precise response his classically-influenced, odd-meter compositions demand."
       },
       {
         question: "What snare is best for fast, technical blast beats?",

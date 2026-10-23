@@ -64952,21 +64952,21 @@ Garstka's setup is built for a band with no vocals to carry rhythmic phrasing, m
         {
           rank: 4,
           name: "BTBAM Kit Snare (Richardson Setup)",
-          brand: "Pearl",
-          model: "Masters Maple Reserve 14\"x5.5\"",
+          brand: "Tama",
+          model: "STARPHONIC Brass 14\"x6\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€350-480",
-          tier: "mid-pro",
-          material: "Maple (14x5.5\")",
+          priceRange: "€400-500",
+          tier: "pro",
+          material: "Brass (14x6\")",
 
-          description: `Blake Richardson's expressive snare setup with Between the Buried and Me needs to handle prog-djent's constantly shifting time signatures and dynamics — from delicate, jazz-influenced passages to full-throttle palm-muted breakdowns within the same track. The 14x5.5" maple shell provides the crisp cut djent demands while retaining enough dynamic range for BTBAM's genre-blending ambition.
+          description: `Blake Richardson's expressive snare setup with Between the Buried and Me needs to handle prog-djent's constantly shifting time signatures and dynamics — from delicate, jazz-influenced passages to full-throttle palm-muted breakdowns within the same track. The 14x6" brass shell provides the crisp cut djent demands while retaining enough dynamic range for BTBAM's genre-blending ambition.
 
-For djent-adjacent drummers whose material blends technical death metal, progressive rock, and djent's palm-muted riffing, Richardson's setup proves a crisp, moderately shallow maple snare can flex across that entire dynamic range.`,
+For djent-adjacent drummers whose material blends technical death metal, progressive rock, and djent's palm-muted riffing, Richardson's setup proves a bright, cutting brass snare can flex across that entire dynamic range.`,
 
           pros: [
             "Blake Richardson's Between the Buried and Me setup — dynamic range across genre-blending prog-djent material",
-            "5.5\" depth balances crisp cut with dynamic flexibility",
-            "Maple shell delivers musical tone across both quiet and aggressive passages",
+            "6\" depth balances crisp cut with dynamic flexibility",
+            "Brass shell delivers a bright, cutting crack across both quiet and aggressive passages",
             "Proven across BTBAM's technically ambitious, constantly shifting compositions",
             "More accessible pricing than signature-tier alternatives"
           ],
@@ -64976,18 +64976,17 @@ For djent-adjacent drummers whose material blends technical death metal, progres
             "Fewer signature-specific hardware options"
           ],
           specs: {
-            shell: "Maple (Masters Maple Reserve)",
+            shell: "Brass (STARPHONIC)",
             diameter: "14\"",
-            depth: "5.5\"",
-            throwOff: "Pearl SR-1030",
+            depth: "6\"",
+            throwOff: "Tama Starphonic tube lugs",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "14x5.5\" maple — prog-djent dynamic range and crisp cut" }
+            { name: "Blake Richardson", band: "Between the Buried and Me", note: "14x6\" brass — prog-djent dynamic range and crisp cut" }
           ],
           verdict: "Best for dynamic, genre-blending prog-djent. Richardson's setup flexes from delicate to aggressive without losing cut.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/pearl_masters_maple_reserve_snare.htm?partner_id=metalforge"
+          rating: 4.5
         }
       ]
     },

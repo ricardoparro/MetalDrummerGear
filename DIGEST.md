@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-23 08:21 UTC · Window: last 12h*
+*Generated 2026-10-23 19:13 UTC · Window: last 12h*
 
 ---
 
@@ -8,23 +8,23 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **21** |
-| Open `seo-proposal` issues | 9 |
+| Open `ai-fix` issues | **28** |
+| Open `seo-proposal` issues | 20 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
 | Open PRs | 1 |
-| PRs merged in window | **13** |
-| Issues closed in window | 13 |
-| Commits to `main` in window | 17 |
+| PRs merged in window | **10** |
+| Issues closed in window | 10 |
+| Commits to `main` in window | 16 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **396** |
-| Sessions | 457 |
-| Page views | 613 |
-| Engagement rate | 59.30% |
+| Active users | **422** |
+| Sessions | 483 |
+| Page views | 662 |
+| Engagement rate | 59.83% |
 | GSC impressions | 21,439 |
 | GSC clicks | 218 |
 | GSC CTR | 1.02% |
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~2,627 |
-| Est. ad revenue / mo | **~€7.88** |
-| Progress to €1000/mo | 0.8% |
-| Pageviews/mo needed for €1000 | ~333,333 (127× current) |
+| Est. pageviews / mo | ~2,837 |
+| Est. ad revenue / mo | **~€8.51** |
+| Progress to €1000/mo | 0.9% |
+| Pageviews/mo needed for €1000 | ~333,333 (117× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -74,21 +74,22 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 23 | 23 | 0 |
-| Verify YouTube Videos | 16 | 9 | 6 |
-| Verify Data Modules | 15 | 8 | 6 |
-| Check Sitemap Drift | 15 | 0 | 14 |
-| Check llms freshness | 8 | 0 | 7 |
-| .github/workflows/check-vercel-rewrites.yml | 8 | 0 | 8 |
-| Perf Budget Gate | 7 | 0 | 6 |
+| PR Merger | 43 | 43 | 0 |
+| Verify YouTube Videos | 8 | 4 | 3 |
+| Check Sitemap Drift | 8 | 0 | 7 |
+| Verify Data Modules | 8 | 4 | 3 |
+| .github/workflows/check-vercel-rewrites.yml | 5 | 0 | 5 |
+| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
+| Check llms freshness | 4 | 0 | 3 |
+| Perf Budget Gate | 4 | 0 | 3 |
+| Health Check | 4 | 4 | 0 |
+| Loop Watchdog | 2 | 2 | 0 |
+| SEO Agent | 2 | 2 | 0 |
+| CEO Agent | 2 | 2 | 0 |
+| Check Video SEO | 2 | 0 | 2 |
 | Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
-| Loop Watchdog | 1 | 1 | 0 |
-| SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
-| CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| Roadie Night Fleet | 1 | 0 | 0 |
+| X Agent | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
@@ -99,31 +100,28 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - 2026-10-23 00:29 (cheap pulse — 8/8 proposals verified+promoted, #9554-9562 excl. #9558)
 - 2026-10-23 06:19 (cheap pulse — 6/6 proposals verified+promoted, #9567-9572)
 
-## 📦 Shipped to main (13)
+## 📦 Shipped to main (10)
 
+- #9606 fix: #9588 SEO: verify-gear-consistency.cjs has 2 more false-positive classes (multi-item clause cross-contamination, brand-hyphenation mismatch)
+- #9605 fix: #9587 SEO: Matt Halpern albumArticles.js Periphery IV (2019) section fabricates 'Vic Firth' signature stick — verified Promark since 2015
+- #9604 fix: #9586 SEO: Tim Yeung licks.js + albumArticles.js 'Bleed the Fifth' entries fabricate Pearl kit/pedal — verified continuous Tama/Speed Cobra since 2005
+- #9603 fix: #9585 SEO: Nick Menza extendedBios.js gearHighlights asserts unverified DW 5000 pedal + Vic Firth sticks for Rust in Peace era
+- #9594 fix: #9572 SEO: Martin Axenrot genreGearGuides.js fabricates 'dual/twin bass drum' setup — verified single kick, cross-contaminated from Mario Duplantier
 - #9593 fix: #9571 SEO: Eloy Casagrande genreGearGuides.js fabricates Speed Cobra pedal + oversimplified 'Paiste 2002' cymbal setup
 - #9592 fix: #9570 SEO: Bill Ward genreGearGuides.js falsely claims he has no MetalForge gear profile (10 lines, 5 doom-metal guides)
 - #9591 fix: #9569 SEO: Alex Bent genreGearGuides.js presents him as current Trivium member — he departed Oct 2025
 - #9590 fix: #9567 SEO batch: Ben Koller genreGearGuides.js cymbal + kit fabrications (62 lines, 6 guide families)
 - #9589 fix: #9568 SEO: Scott Travis genreGearGuides.js power-metal drumsticks guide fabricates Vic Firth 5A — verified 5B
-- #9583 fix: #9561 SEO: Dave Lombardo genreGearGuides.js thrash hi-hat guide fabricates 14" Paiste RUDE/2002 hi-hats — verified 15" Sound Edge; ride FAQ says wrong 20" size
-- #9581 fix: #9562 SEO: Travis Orbin genreGearGuides.js drum-triggers/kit guides still claim he played on Periphery's 2010 self-titled debut — he left Feb 2009, pre-recording
-- #9579 fix: #9560 SEO: Mario Duplantier genreGearGuides.js ride-cymbal guide still fabricates 'Paiste Twenty Custom Full Ride' — sibling gap left by #8387/#8416
-- #9578 fix: #9559 SEO: Brann Dailor genreGearGuides.js post-metal pedal guide contradicts doom/sludge guides — single vs double Tama Speed Cobra
-- #9577 fix: #9557 SEO: Danny Carey genreGearGuides.js doom-metal guide family relapsed — Custom Maple/dual-kick/Paiste RUDE/Tama Iron Cobra fabrications regrew after 6 prior closed fixes
-- #9576 fix: #9556 SEO: Abe Cunningham genreGearGuides.js china guide fabricates 18" Zildjian K Custom China — verified 19" Zildjian A Custom China
-- #9575 fix: #9554 SEO: Aquiles Priester genreGearGuides.js — fabricated '2023 Angra return' persists across 8 guide families (29 lines), missed by #9551/#9537
-- #9573 fix: #9555 SEO: Hannes Grossmann genreGearGuides.js snare guide backdates DW Collector's snare to the pre-2014 Necrophagist/Obscura era — verified Tama S.L.P. G-Maple
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2041h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2137h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2314h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3399h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5829h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2052h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2148h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2325h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3410h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5840h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

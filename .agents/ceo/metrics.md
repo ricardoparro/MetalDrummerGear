@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-23 08:21 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-23 12:15 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,22 +8,22 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 396 |
-| Sessions | 457 |
-| Page views | 613 |
-| Engagement rate | 59.30% |
-| Avg session (s) | 334 |
+| Active users | 405 |
+| Sessions | 466 |
+| Page views | 631 |
+| Engagement rate | 59.66% |
+| Avg session (s) | 330 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 24 | 16 |
-| /drummer/frost | 14 | 6 |
+| / | 25 | 17 |
+| /drummer/frost | 15 | 7 |
 | /drummer/matt-greiner | 12 | 8 |
 | /drummers/mike-portnoy/evolution | 11 | 4 |
+| /drummer/john-otto | 10 | 9 |
 | /drummer/mario-duplantier | 10 | 9 |
 | /drummer/joey-jordison | 9 | 7 |
-| /drummer/john-otto | 9 | 8 |
 | /guides/best-in-ear-monitors-for-metal-drummers | 9 | 7 |
 | /articles/slipknot-self-titled-drum-setup | 8 | 7 |
 | /drummer/bill-ward | 7 | 7 |
@@ -31,25 +31,25 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 356 | 297 |
-| Direct | 97 | 96 |
-| Unassigned | 14 | 13 |
+| Organic Search | 360 | 301 |
+| Direct | 103 | 102 |
+| Unassigned | 3 | 2 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 157 | 135 |
-| Singapore | 45 | 45 |
+| United States | 159 | 137 |
+| Singapore | 47 | 47 |
 | United Kingdom | 36 | 22 |
-| China | 29 | 29 |
+| China | 30 | 30 |
 | Canada | 18 | 14 |
-| Australia | 13 | 10 |
+| Australia | 14 | 11 |
 | Brazil | 13 | 11 |
 | Germany | 13 | 12 |
 | France | 9 | 8 |
-| Poland | 8 | 6 |
+| Norway | 8 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

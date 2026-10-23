@@ -36574,13 +36574,13 @@ Start with a 21"-22" pro ride built for durability and projection, and choose yo
       title: "Why Doom Metal Rides Need to Bloom, Not Ping",
       content: `Doom metal's crawling tempos flip the usual ride cymbal brief on its head. Where faster metal styles need a ride that decays quickly to stay out of the way of the next stroke, doom's slow, riff-locked grooves give every ride stroke room to fully develop — rewarding dark, complex, wash-heavy voicing over the tight, articulate ping favored in technical or blast-beat-driven genres. A ride voiced for speed sounds thin and disconnected against doom's tonnage-first crawl.
 
-Brann Dailor of Mastodon anchors the closest working analogue to doom's crushing, atmospheric template with a 22" Meinl Byzance Vintage Pure Ride, chosen for the slow-building, complex wash it builds across Mastodon's progressive sludge-doom catalog. Danny Carey of Tool rides a 22" Paiste Signature Dry Heavy Ride, a dry-yet-weighty voice that anchors Tool's patient, doom-adjacent compositions on records like "Fear Inoculum." Mario Duplantier of Gojira runs a 22" Paiste Twenty Custom Full Ride for tectonic low-end body on crushing, down-tuned material, while Igor Cavalera of Sepultura plays a 22" Paiste RUDE Ride for a harsher, tribal-adjacent edge that still favors slow decay over bright cut.
+Brann Dailor of Mastodon anchors the closest working analogue to doom's crushing, atmospheric template with a 22" Meinl Byzance Vintage Pure Ride, chosen for the slow-building, complex wash it builds across Mastodon's progressive sludge-doom catalog. Danny Carey of Tool rides a 22" Paiste Signature Dry Heavy Ride, a dry-yet-weighty voice that anchors Tool's patient, doom-adjacent compositions on records like "Fear Inoculum." Mario Duplantier of Gojira runs a 21" Zildjian Z Custom Mega Bell Ride for tectonic low-end body and a cutting bell on crushing, down-tuned material, while Igor Cavalera of Sepultura plays a 22" Paiste RUDE Ride for a harsher, tribal-adjacent edge that still favors slow decay over bright cut.
 
 This guide breaks down what actually makes a ride work for doom metal — darkness, weight, and sustained wash over instant attack — and recommends specific models across every budget, from a first dark-toned ride to the exact cymbals doom metal's closest working analogues ride night after night.`,
       keyPoints: [
         "Doom metal rides need to bloom into a slow, dark wash rather than ping and decay instantly",
         "Brann Dailor's Meinl Byzance Vintage Pure Ride anchors Mastodon's progressive sludge-doom atmosphere",
-        "Danny Carey's Paiste Signature Dry Heavy Ride and Mario Duplantier's Paiste Twenty Custom Full Ride show how weight can vary within doom's dark-ride template",
+        "Danny Carey's Paiste Signature Dry Heavy Ride and Mario Duplantier's Zildjian Z Custom Mega Bell Ride show how weight can vary within doom's dark-ride template",
         "22\" heavy rides with slow decay are the doom standard, favoring sustained wash over quick attack"
       ]
     },
@@ -36604,7 +36604,7 @@ This guide breaks down what actually makes a ride work for doom metal — darkne
         {
           name: "Weight for Tonnage",
           icon: "🏋️",
-          description: "Mario Duplantier's 22\" Paiste Twenty Custom Full Ride delivers tectonic low-end body that matches Gojira's crushing, down-tuned tonnage — proof that a heavier ride reinforces doom's weight rather than fighting it.",
+          description: "Mario Duplantier's 21\" Zildjian Z Custom Mega Bell Ride delivers tectonic low-end body that matches Gojira's crushing, down-tuned tonnage — proof that a heavier ride reinforces doom's weight rather than fighting it.",
           recommendation: "22\" heavy rides for maximum tonnage and low-end body"
         },
         {
@@ -36616,7 +36616,7 @@ This guide breaks down what actually makes a ride work for doom metal — darkne
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Meinl Byzance, Paiste Signature/Twenty Custom) delivers the dark complexity doom demands. Budget B8 or brass lines are simpler but a genuinely usable starting point for developing the same low-tuned aesthetic.",
+          description: "B20 bronze (Meinl Byzance, Paiste Signature, Zildjian Z Custom) delivers the dark complexity doom demands. Budget B8 or brass lines are simpler but a genuinely usable starting point for developing the same low-tuned aesthetic.",
           recommendation: "B20 bronze for pro-level darkness and complexity, B8/brass for a real budget entry"
         },
         {
@@ -36708,40 +36708,40 @@ Carey's setup proves that within doom-adjacent atmosphere, a dry ride still has 
         },
         {
           rank: 3,
-          name: "Paiste Twenty Custom Full Ride",
-          brand: "Paiste",
-          model: "22\" Twenty Custom Full Ride",
+          name: "Zildjian Z Custom Mega Bell Ride",
+          brand: "Zildjian",
+          model: "21\" Z Custom Mega Bell Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
-          priceRange: "€230-290",
-          tier: "premium",
-          driveType: "CuSn8 Bronze, Lathed",
-          description: `Mario Duplantier of Gojira runs a 22" Paiste Twenty Custom Full Ride for tectonic low-end body across Gojira's crushing, down-tuned passages on records like "From Mars to Sirius" and "Magma." The full, weighty wash carries doom-adjacent tonnage without abandoning stick definition entirely.
+          priceRange: "€300-360",
+          tier: "pro",
+          driveType: "B20 Bronze, Brilliant",
+          description: `Mario Duplantier of Gojira runs a 21" Zildjian Z Custom Mega Bell Ride for tectonic low-end body across Gojira's crushing, down-tuned passages on records like "From Mars to Sirius" and "Magma." The oversized bell carries doom-adjacent tonnage while still cutting through for accents without abandoning stick definition entirely.
 
-For doom-adjacent drummers chasing a heavier, more technical edge, Duplantier's ride bridges traditional dark voicing with progressive death metal's need for note-to-note clarity under heavy distortion.`,
+For doom-adjacent drummers chasing a heavier, more technical edge, Duplantier's ride bridges dark, weighty voicing with progressive death metal's need for note-to-note clarity under heavy distortion.`,
           pros: [
             "Mario Duplantier's proven Gojira setup — tectonic low-end presence on crushing material",
-            "Full, weighty wash without losing all stick definition",
-            "Classic lathed construction for complex overtone development",
+            "Oversized Mega Bell cuts through for accents without losing stick definition",
+            "B20 bronze construction for complex overtone development",
             "Versatile across doom, sludge, and progressive death hybrids"
           ],
           cons: [
-            "Leans brighter than pure doom purists may want",
-            "Premium Paiste pricing",
-            "22\" size requires a stand rated for heavier cymbals"
+            "Darker, heavier voice than lighter doom purists may want",
+            "Premium Zildjian pricing",
+            "21\" size requires a stand rated for heavier cymbals"
           ],
           specs: {
-            size: "22\"",
-            alloy: "CuSn8 Bronze",
-            finish: "Traditional Lathed",
-            bell: "Standard",
+            size: "21\"",
+            alloy: "B20 Bronze",
+            finish: "Brilliant",
+            bell: "Oversized (Mega Bell)",
             weight: "Medium-Heavy"
           },
           usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "22\" Twenty Custom Full Ride for tectonic, dark-leaning tonnage" }
+            { name: "Mario Duplantier", band: "Gojira", note: "21\" Z Custom Mega Bell Ride for tectonic, dark-leaning tonnage" }
           ],
           verdict: "Best for crushing, technical weight that bridges dark doom voicing with progressive clarity.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/paiste_twenty_custom_full_ride_22_duplantier.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_z_custom_mega_bell_ride_21_duplantier.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -36843,21 +36843,26 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 - The closest working analogue to doom's crushing, atmospheric founding template
 - Best for straightforward doom, sludge, and progressive-doom hybrids
 
-**Paiste Signature Dry Heavy / Twenty Custom Full (Danny Carey, Mario Duplantier):**
+**Paiste Signature Dry Heavy (Danny Carey):**
 - Dry, controlled weight that stays defined through patient build-ups
-- Tectonic low-end body at larger 22" sizes
+- Tectonic low-end body at a larger 22" size
 - Best for crushing, down-tuned progressive death/doom hybrids
+
+**Zildjian Z Custom Mega Bell Ride (Mario Duplantier):**
+- Oversized bell cuts through for accents without losing stick definition
+- Tectonic low-end body at a 21" size
+- Best for crushing, down-tuned progressive death/doom hybrids needing accent clarity
 
 **Paiste RUDE (Igor Cavalera):**
 - Raw, unlathed voicing brings a harsher tribal edge
 - Best for doom hybrids blending tribal groove elements or tonnage-first riffing
 
-**Our Recommendation:** Start with a Zildjian S Family Dark or Sabian XSR Monarch ride if you're building doom metal technique on a budget. Choose Meinl Byzance Vintage Pure for the classic dark, atmospheric wash, Paiste Signature Dry Heavy or Twenty Custom Full if your material needs larger, crushing low-end weight with more control, or Paiste RUDE if you want a harsher tribal edge.`,
+**Our Recommendation:** Start with a Zildjian S Family Dark or Sabian XSR Monarch ride if you're building doom metal technique on a budget. Choose Meinl Byzance Vintage Pure for the classic dark, atmospheric wash, Paiste Signature Dry Heavy for controlled weight or the Zildjian Z Custom Mega Bell Ride if your material needs crushing low-end weight with a cutting bell, or Paiste RUDE if you want a harsher tribal edge.`,
       comparisonTable: [
         { feature: "Darkness/Atmosphere", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
         { feature: "Low-End Weight", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Doom Metal Tradition", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
-        { feature: "Price Range", directDrive: "€100-360", chainDrive: "€220-340" }
+        { feature: "Price Range", directDrive: "€100-360", chainDrive: "€220-360" }
       ]
     },
 
@@ -36877,8 +36882,8 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
         },
         {
           category: "Best for Crushing, Technical Weight",
-          pedal: "Paiste Twenty Custom Full Ride",
-          reason: "Mario Duplantier's Gojira setup — tectonic low-end body at larger ride sizes."
+          pedal: "Zildjian Z Custom Mega Bell Ride",
+          reason: "Mario Duplantier's Gojira setup — tectonic low-end body and a cutting bell for crushing, down-tuned tonnage."
         },
         {
           category: "Best Budget",
@@ -36921,7 +36926,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       },
       {
         question: "What ride cymbal does Mario Duplantier use?",
-        answer: "Mario Duplantier of Gojira runs a 22\" Paiste Twenty Custom Full Ride, delivering tectonic low-end body across Gojira's crushing, down-tuned passages."
+        answer: "Mario Duplantier of Gojira runs a 21\" Zildjian Z Custom Mega Bell Ride, delivering tectonic low-end body and a cutting bell across Gojira's crushing, down-tuned passages."
       },
       {
         question: "Why do doom metal drummers favor dark, slow-decay ride cymbals?",
@@ -36929,14 +36934,14 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       },
       {
         question: "What size ride cymbal is best for doom metal?",
-        answer: "22\" heavy rides are the doom metal standard. Brann Dailor, Danny Carey, and Mario Duplantier all run 22\" rides, favoring maximum low-end tonnage over the smaller, faster-decaying rides common in blast-beat-driven genres."
+        answer: "21\"-22\" heavy rides are the doom metal standard. Brann Dailor and Danny Carey run 22\" rides, while Mario Duplantier runs a 21\" ride, favoring maximum low-end tonnage over the smaller, faster-decaying rides common in blast-beat-driven genres."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Doom Metal Ride Sound Around Weight, Not Speed",
-      content: `Doom metal's ride philosophy comes down to one core idea: let it bloom. Whether you build around Brann Dailor's dark, atmospheric Meinl Byzance Vintage Pure wash, Mario Duplantier's tectonic Paiste Twenty Custom Full weight, or Danny Carey's controlled Paiste Signature Dry Heavy tone, the right doom metal ride should sound like it's filling the entire space between riffs, not fighting to escape it.
+      content: `Doom metal's ride philosophy comes down to one core idea: let it bloom. Whether you build around Brann Dailor's dark, atmospheric Meinl Byzance Vintage Pure wash, Mario Duplantier's tectonic Zildjian Z Custom Mega Bell weight, or Danny Carey's controlled Paiste Signature Dry Heavy tone, the right doom metal ride should sound like it's filling the entire space between riffs, not fighting to escape it.
 
 Start with one dark, heavy ride in the 22" range, and add a second voicing — whether that's a drier Signature-style ride for more control or a RUDE ride for a harsher tribal edge — once you know where your doom leans on the sludge-to-progressive spectrum.
 

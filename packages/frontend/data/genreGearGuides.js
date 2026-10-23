@@ -14512,7 +14512,7 @@ Lars built one of metal's most recognizable cymbal sounds on the A Custom's comb
 
           description: `Dave Lombardo of Slayer and Charlie Benante of Anthrax both rely on Paiste's RUDE Series for thrash metal's most explosive, aggressive cymbal sound. The RUDE's distinctive unlathed top surface produces a raw, trashy character with massive projection — built for drummers who need their cymbals to sound as violent as their playing.
 
-Both Lombardo and Benante pair RUDE crashes with the related 2002 Series for ride and hi-hat duties, giving them a setup that ranges from controlled and articulate to completely explosive depending on the demands of the riff. For thrash drummers who want maximum aggression and stage presence, RUDE is the choice.`,
+Benante pairs RUDE crashes with the related 2002 Series for ride and hi-hat duties, while Lombardo pairs his RUDE crashes with a 22" Paiste Reign Power Ride and 15" Sound Edge hi-hats, giving thrash drummers a range of Paiste options from controlled and articulate to completely explosive depending on the demands of the riff. For thrash drummers who want maximum aggression and stage presence, RUDE is the choice.`,
 
           pros: [
             "Dave Lombardo and Charlie Benante's shared cymbal foundation",
@@ -14552,12 +14552,12 @@ Both Lombardo and Benante pair RUDE crashes with the related 2002 Series for rid
           tier: "pro",
           material: "CuSn8 Bronze (Paiste Proprietary)",
 
-          description: `The Paiste 2002 Series is the lathed companion to the RUDE line, and both Dave Lombardo and Charlie Benante use it for ride, hi-hat, and China duties. The 2002's CuSn8 alloy gives crashes more body and projection than B20 alternatives at comparable weights — full-bodied power that speaks with authority over thrash metal's dense rhythm guitar walls.
+          description: `The Paiste 2002 Series is the lathed companion to the RUDE line, and Charlie Benante uses it for ride, hi-hat, and China duties. The 2002's CuSn8 alloy gives crashes more body and projection than B20 alternatives at comparable weights — full-bodied power that speaks with authority over thrash metal's dense rhythm guitar walls.
 
 For drummers who want the powerful Paiste character without the raw, unlathed RUDE finish, the 2002 Series delivers a more controlled, traditionally lathed alternative with the same explosive projection.`,
 
           pros: [
-            "Shared setup with RUDE for Lombardo and Benante",
+            "Part of Charlie Benante's RUDE/2002 setup",
             "Full-bodied, powerful crash character",
             "More controlled than RUDE's unlathed finish",
             "Excellent projection at live volumes",
@@ -14577,7 +14577,6 @@ For drummers who want the powerful Paiste character without the raw, unlathed RU
             rideRange: "20\" - 22\""
           },
           usedBy: [
-            { name: "Dave Lombardo", band: "Slayer", reason: "Power Ride and hi-hats for relentless thrash precision" },
             { name: "Charlie Benante", band: "Anthrax", reason: "Power Ride and crashes for Anthrax's thrash attack" }
           ],
           verdict: "The power option for thrash metal. Big, full crashes that speak with authority.",
@@ -14783,11 +14782,11 @@ For players not yet ready to invest in A Custom or RUDE pricing, ZBT provides Zi
       },
       {
         question: "What cymbals does Dave Lombardo use?",
-        answer: "Dave Lombardo of Slayer uses Paiste RUDE and 2002 Series cymbals — 14\" hi-hats, 18\" and 19\" crashes, a 20\" Power Ride, and an 18\" China. The CuSn8 bronze delivers explosive, aggressive projection suited to Slayer's most violent thrash compositions."
+        answer: "Dave Lombardo of Slayer uses Paiste cymbals — a 15\" Sound Edge hi-hat pair, 18\" and 19\" RUDE crashes, a 22\" Reign Power Ride, and an 18\" RUDE China. The CuSn8 bronze delivers explosive, aggressive projection suited to Slayer's most violent thrash compositions."
       },
       {
         question: "What cymbals does Charlie Benante use?",
-        answer: "Charlie Benante of Anthrax uses the same Paiste RUDE and 2002 Series setup as Dave Lombardo — 14\" hi-hats, 18\" and 19\" crashes, a 20\" Power Ride, and an 18\" China. The full-bodied CuSn8 bronze projects powerfully through Anthrax's thrash riffing."
+        answer: "Charlie Benante of Anthrax uses Paiste RUDE and 2002 Series cymbals — 14\" hi-hats, 18\" and 19\" crashes, a 20\" Power Ride, and an 18\" China. The full-bodied CuSn8 bronze projects powerfully through Anthrax's thrash riffing."
       },
       {
         question: "Best Zildjian cymbals for thrash metal?",
@@ -84863,13 +84862,13 @@ Whatever you choose, prioritize consistent chick response and dynamic range over
       title: "What Hi-Hats Does Lars Ulrich Use?",
       content: `Hi-hats carry thrash metal's relentless rhythm guitar work more than any other cymbal in the kit. Sixteenth-note downpicking, rapid-fire gallop rhythms, and constant tempo surges all demand a hi-hat that responds instantly and stays articulate under the genre's dense, aggressive riffing — a sluggish or washy pair simply can't keep pace with 200+ BPM thrash.
 
-Lars Ulrich of Metallica has used 14" Dyno Beat Hi-Hats from the Zildjian A Custom Series throughout the band's career, giving Metallica's dense guitar walls a tight, cutting chick sound that has defined the classic thrash metal hi-hat tone since the "Load" sessions. Dave Lombardo of Slayer relies on Paiste's RUDE and 2002 Series for a raw, explosive hi-hat character that punctuates Slayer's most violent passages. Charlie Benante of Anthrax also favors the same Paiste RUDE and 2002 combination, giving his thrash riffing the same powerful, full-bodied projection.
+Lars Ulrich of Metallica has used 14" Dyno Beat Hi-Hats from the Zildjian A Custom Series throughout the band's career, giving Metallica's dense guitar walls a tight, cutting chick sound that has defined the classic thrash metal hi-hat tone since the "Load" sessions. Dave Lombardo of Slayer plays a Paiste 15" Sound Edge pair for a bright, aggressive hi-hat character that punctuates Slayer's most violent passages. Charlie Benante of Anthrax favors the Paiste RUDE and 2002 combination, giving his thrash riffing a powerful, full-bodied projection.
 
 This guide covers exactly what makes a great thrash metal hi-hat — weight, finish, and response — and which specific models the genre's Big Four-era legends play, from budget starter pairs to the professional setups heard on classic and modern thrash records.`,
       keyPoints: [
         "Zildjian A Custom (14\" Dyno Beat) defines Lars Ulrich's tight, cutting thrash metal hi-hat chick",
-        "Paiste RUDE & 2002 gives Dave Lombardo and Charlie Benante raw, explosive hi-hat aggression",
-        "14\" is the thrash metal hi-hat standard across all three featured drummers",
+        "Paiste 15\" Sound Edge gives Dave Lombardo a bright, aggressive hi-hat character; Paiste RUDE & 2002 power Charlie Benante's raw, explosive aggression",
+        "14\" is the thrash metal hi-hat standard for Lars Ulrich and Charlie Benante; Dave Lombardo favors a 15\" Sound Edge pair",
         "Fast response at 200+ BPM separates a great thrash hi-hat from one that washes out under pressure"
       ]
     },
@@ -84893,13 +84892,13 @@ This guide covers exactly what makes a great thrash metal hi-hat — weight, fin
         {
           name: "Projection at Live Volume",
           icon: "🔊",
-          description: "Dave Lombardo and Charlie Benante both favor Paiste's CuSn8 bronze RUDE and 2002 lines for their exceptional projection — important for cutting through arena and festival PA systems where stage volume is extreme.",
-          recommendation: "CuSn8 bronze (Paiste 2002/RUDE) for maximum live projection"
+          description: "Charlie Benante favors Paiste's CuSn8 bronze RUDE and 2002 lines for their exceptional projection — important for cutting through arena and festival PA systems where stage volume is extreme. Dave Lombardo gets similar live-volume projection from his Paiste 15\" Sound Edge pair.",
+          recommendation: "CuSn8 bronze (Paiste 2002/RUDE/Sound Edge) for maximum live projection"
         },
         {
           name: "Diameter",
           icon: "📏",
-          description: "14\" is the standard thrash metal hi-hat size — Lars Ulrich, Dave Lombardo, and Charlie Benante all use 14\" pairs. This size balances projection with the fast response the genre's rapid-fire riffing demands.",
+          description: "14\" is the standard thrash metal hi-hat size — Lars Ulrich and Charlie Benante both use 14\" pairs. Dave Lombardo favors a slightly larger 15\" Sound Edge pair for added wash.",
           recommendation: "14\" for standard thrash metal projection and response"
         },
         {
@@ -84965,12 +84964,12 @@ Lars built one of metal's most recognizable hi-hat sounds on the Dyno Beat's com
           tier: "pro",
           material: "CuSn8 Bronze, Unlathed Top",
 
-          description: `Dave Lombardo of Slayer and Charlie Benante of Anthrax both rely on Paiste's RUDE Series 14" Hi-Hats for thrash metal's most explosive, aggressive hi-hat sound. The RUDE's distinctive unlathed top surface produces a raw, trashy character with massive projection — built for drummers who need their hi-hats to sound as violent as their playing.
+          description: `Charlie Benante of Anthrax relies on Paiste's RUDE Series 14" Hi-Hats for thrash metal's most explosive, aggressive hi-hat sound. The RUDE's distinctive unlathed top surface produces a raw, trashy character with massive projection — built for drummers who need their hi-hats to sound as violent as their playing.
 
-Both Lombardo and Benante pair their RUDE hi-hats with the related 2002 Series for ride and crash duties, giving them a setup that ranges from tight and articulate to completely explosive depending on the demands of the riff. For thrash drummers who want maximum aggression and stage presence, RUDE is the choice.`,
+Benante pairs his RUDE hi-hats with the related 2002 Series for ride and crash duties, giving him a setup that ranges from tight and articulate to completely explosive depending on the demands of the riff. For thrash drummers who want maximum aggression and stage presence, RUDE is the choice.`,
 
           pros: [
-            "Dave Lombardo and Charlie Benante's shared hi-hat foundation",
+            "Charlie Benante's proven hi-hat foundation",
             "Raw, unlathed top surface for explosive aggression",
             "Exceptional projection at extreme stage volumes",
             "CuSn8 bronze for bright, powerful sound",
@@ -84989,10 +84988,9 @@ Both Lombardo and Benante pair their RUDE hi-hats with the related 2002 Series f
             series: "RUDE"
           },
           usedBy: [
-            { name: "Dave Lombardo", band: "Slayer", note: "RUDE Hi-Hats — explosive crash character for Slayer's violent thrash assault" },
             { name: "Charlie Benante", band: "Anthrax", note: "RUDE Hi-Hats — powerful, full-bodied projection for Anthrax's thrash riffing" }
           ],
-          verdict: "The aggressive thrash hi-hat. Two genre legends trust RUDE for maximum violence and projection.",
+          verdict: "The aggressive thrash hi-hat. Charlie Benante trusts RUDE for maximum violence and projection.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/paiste_rude_hi_hats.htm?partner_id=metalforge"
         },
@@ -85006,12 +85004,12 @@ Both Lombardo and Benante pair their RUDE hi-hats with the related 2002 Series f
           tier: "pro",
           material: "CuSn8 Bronze",
 
-          description: `The Paiste 2002 Hi-Hats are the lathed companion to the RUDE line, and both Dave Lombardo and Charlie Benante use them for tighter, more controlled hi-hat work alongside their RUDE crashes and rides. The 2002's CuSn8 alloy gives more body and projection than B20 alternatives at comparable weights — full-bodied power that speaks with authority over thrash metal's dense rhythm guitar walls.
+          description: `The Paiste 2002 Hi-Hats are the lathed companion to the RUDE line, and Charlie Benante uses them for tighter, more controlled hi-hat work alongside his RUDE crashes and rides. The 2002's CuSn8 alloy gives more body and projection than B20 alternatives at comparable weights — full-bodied power that speaks with authority over thrash metal's dense rhythm guitar walls.
 
 For drummers who want the powerful Paiste character without the raw, unlathed RUDE finish, the 2002 Series delivers a more controlled, traditionally lathed alternative with the same explosive projection.`,
 
           pros: [
-            "Shared setup with RUDE for Lombardo and Benante",
+            "Part of Charlie Benante's RUDE/2002 setup",
             "Full-bodied, powerful chick and closed sound",
             "More controlled than RUDE's unlathed finish",
             "Excellent projection at live volumes"
@@ -85029,7 +85027,6 @@ For drummers who want the powerful Paiste character without the raw, unlathed RU
             series: "2002"
           },
           usedBy: [
-            { name: "Dave Lombardo", band: "Slayer", note: "2002 Hi-Hats for relentless thrash precision" },
             { name: "Charlie Benante", band: "Anthrax", note: "2002 Hi-Hats for Anthrax's thrash attack" }
           ],
           verdict: "The power option for thrash metal. Big, full hi-hats that speak with authority.",
@@ -85115,19 +85112,19 @@ While no major thrash legend is specifically associated with AAX, the series has
     // Comparison
     comparison: {
       title: "Zildjian A Custom vs Paiste RUDE & 2002 for Thrash Metal",
-      content: `The choice between Zildjian A Custom and Paiste RUDE/2002 is the defining decision for thrash metal hi-hats — and it's the same choice that separates Lars Ulrich's sound from Dave Lombardo and Charlie Benante's:
+      content: `The choice between Zildjian A Custom and Paiste RUDE/2002 is the defining decision for thrash metal hi-hats — and it's the same choice that separates Lars Ulrich's sound from Charlie Benante's:
 
 **Zildjian A Custom (Lars Ulrich's choice):**
 - Bright, cutting B20 bronze with brilliant finish
 - Tight, articulate chick — precise rather than chaotic
 - The classic, most widely recognized thrash metal hi-hat sound
 
-**Paiste RUDE & 2002 (Dave Lombardo and Charlie Benante's choice):**
+**Paiste RUDE & 2002 (Charlie Benante's choice):**
 - Raw, explosive CuSn8 bronze character
 - Maximum projection and aggression — built for sheer violence
 - Slightly less refined but more powerful at extreme volumes
 
-**Thrash Recommendation:** Start with Zildjian A Custom if you want the most versatile, widely recognized thrash hi-hat sound. Choose Paiste RUDE/2002 if you specifically want the raw, explosive character that drives Slayer and Anthrax's most violent recordings. Both are proven at the highest level of thrash metal.`,
+**Thrash Recommendation:** Start with Zildjian A Custom if you want the most versatile, widely recognized thrash hi-hat sound. Choose Paiste RUDE/2002 if you specifically want the raw, explosive character that drives Anthrax's most violent recordings. Both are proven at the highest level of thrash metal.`,
       comparisonTable: [
         { feature: "Cutting Articulation", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Raw Aggression", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -85149,7 +85146,7 @@ While no major thrash legend is specifically associated with AAX, the series has
         {
           category: "Best for Aggression",
           pedal: "Paiste RUDE Hi-Hats",
-          reason: "Dave Lombardo and Charlie Benante's shared choice. Raw, explosive power for the most violent thrash."
+          reason: "Charlie Benante's choice. Raw, explosive power for the most violent thrash."
         },
         {
           category: "Best Mid-Range",
@@ -85172,14 +85169,14 @@ While no major thrash legend is specifically associated with AAX, the series has
     ],
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom Dyno Beat — defining thrash metal hi-hat sound' },
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Paiste RUDE — Slayer\'s explosive hi-hat attack' },
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Paiste 15" Sound Edge — Slayer\'s bright, aggressive hi-hat attack' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Paiste RUDE & 2002 — Anthrax\'s powerful thrash projection' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom Dyno Beat — the definitive thrash metal hi-hat sound' },
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Paiste RUDE — Slayer\'s violent, explosive hi-hat attack' },
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Paiste 15" Sound Edge — Slayer\'s bright, aggressive hi-hat attack' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Paiste RUDE & 2002 — Anthrax\'s powerful thrash riffing projection' },
     ],
 
@@ -85191,26 +85188,26 @@ While no major thrash legend is specifically associated with AAX, the series has
       },
       {
         question: "What hi-hats does Dave Lombardo use?",
-        answer: "Dave Lombardo of Slayer uses 14\" hi-hats from Paiste's RUDE Series, paired with the related 2002 Series for tighter, more controlled hi-hat work. The raw, unlathed CuSn8 bronze delivers explosive, aggressive projection suited to Slayer's most violent thrash compositions."
+        answer: "Dave Lombardo of Slayer plays a Paiste 15\" Sound Edge pair. The bright, aggressive CuSn8 bronze delivers explosive projection suited to Slayer's most violent thrash compositions."
       },
       {
         question: "What hi-hats does Charlie Benante use?",
-        answer: "Charlie Benante of Anthrax uses the same Paiste RUDE and 2002 hi-hat setup as Dave Lombardo — 14\" pairs delivering full-bodied CuSn8 bronze projection through Anthrax's thrash riffing."
+        answer: "Charlie Benante of Anthrax uses a Paiste RUDE and 2002 hi-hat setup — 14\" pairs delivering full-bodied CuSn8 bronze projection through Anthrax's thrash riffing."
       },
       {
         question: "What size hi-hats for thrash metal?",
-        answer: "14\" is the standard thrash metal hi-hat size, used by Lars Ulrich, Dave Lombardo, and Charlie Benante alike. It balances projection with the fast response needed for the genre's rapid-fire 16th-note riffing."
+        answer: "14\" is the standard thrash metal hi-hat size, used by Lars Ulrich and Charlie Benante. Dave Lombardo favors a slightly larger 15\" pair. It balances projection with the fast response needed for the genre's rapid-fire 16th-note riffing."
       },
       {
         question: "Are Zildjian or Paiste hi-hats better for thrash metal?",
-        answer: "Both are proven at the highest level — Lars Ulrich (Zildjian A Custom) and Dave Lombardo/Charlie Benante (Paiste RUDE & 2002) prove this. Zildjian A Custom offers brighter, more articulate cutting power. Paiste RUDE & 2002 delivers raw, explosive aggression with maximum projection. Choose Zildjian for versatile clarity; choose Paiste for maximum violence and stage presence."
+        answer: "Both are proven at the highest level — Lars Ulrich (Zildjian A Custom) and Charlie Benante (Paiste RUDE & 2002) prove this. Zildjian A Custom offers brighter, more articulate cutting power. Paiste RUDE & 2002 delivers raw, explosive aggression with maximum projection. Choose Zildjian for versatile clarity; choose Paiste for maximum violence and stage presence."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Thrash Metal Hi-Hat Voice",
-      content: `Thrash metal hi-hats come down to a simple choice between two proven philosophies: Zildjian A Custom's bright, articulate cutting power (Lars Ulrich's sound since 1996) or Paiste RUDE & 2002's raw, explosive aggression (Dave Lombardo and Charlie Benante's sound). Both have driven some of the most influential thrash metal recordings ever made.
+      content: `Thrash metal hi-hats come down to a simple choice between two proven philosophies: Zildjian A Custom's bright, articulate cutting power (Lars Ulrich's sound since 1996) or Paiste RUDE & 2002's raw, explosive aggression (Charlie Benante's sound). Both have driven some of the most influential thrash metal recordings ever made.
 
 Start with whichever character matches your playing style and the production you're chasing. If you want maximum versatility and the most widely recognized thrash hi-hat sound, Zildjian A Custom is the safer first investment. If you want your hi-hats to sound as violent as your riffs, Paiste RUDE delivers unmatched aggression.
 

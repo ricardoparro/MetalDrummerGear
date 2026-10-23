@@ -55237,7 +55237,7 @@ For symphonic metal drummers who need the deepest possible control over trigger 
     faq: [
       {
         question: "What drum triggers do symphonic metal drummers use?",
-        answer: "Daray runs trigger-assisted drums live, reinforcing kick and snare attack across Dimmu Borgir's full-orchestra symphonic black metal era for a live sound that cuts through dense orchestration. Roland's RT-30 series is an accessible way to build a similar reinforcement chain.
+        answer: "Daray runs trigger-assisted drums live, reinforcing kick and snare attack across Dimmu Borgir's full-orchestra symphonic black metal era for a live sound that cuts through dense orchestration. Roland's RT-30 series is an accessible way to build a similar reinforcement chain."
       },
       {
         question: "Why do symphonic metal drummers need triggers more than other metal subgenres?",
@@ -55245,7 +55245,7 @@ For symphonic metal drummers who need the deepest possible control over trigger 
       },
       {
         question: "Do symphonic metal drummers use triggers live, in the studio, or both?",
-        answer: "Both. Daray's trigger-assisted setup reinforces his acoustic drums for a live sound that matches studio consistency night after night — the same signal-cutting logic applies whether the orchestration is coming from a live keyboard rig or a fully produced studio mix.
+        answer: "Both. Daray's trigger-assisted setup reinforces his acoustic drums for a live sound that matches studio consistency night after night — the same signal-cutting logic applies whether the orchestration is coming from a live keyboard rig or a fully produced studio mix."
       },
       {
         question: "What's the difference between a drum trigger and a drum module?",

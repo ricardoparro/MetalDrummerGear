@@ -46,7 +46,7 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
 ## Career Highlights
 
 - **1987** — Co-founded Cynic in Miami, Florida, with guitarist/vocalist Paul Masvidal
-- **1990** — Joined Death, Chuck Schuldiner's pioneering death metal band
+- **1991** — Joined Death, Chuck Schuldiner's pioneering death metal band
 - **1991** — Recorded Human at Morrisound Recording, widely considered the birth of progressive death metal
 - **1993** — Released Focus with Cynic, fusing death metal intensity with jazz-fusion complexity
 - **1999** — Contributed to Gordian Knot's Emergent alongside Sean Malone
@@ -82,7 +82,7 @@ Sean Reinert's drumming style fused jazz-informed technique with death metal pow
 
 - **Human Tour** (1991) — Limited touring dates supporting Death's Human
 - **Focus Tour** (1993) — Supporting Death on select dates
-- **Cynic Reunion Touring** (2006-2017) — Global touring following Cynic's reformation
+- **Cynic Reunion Touring** (2006-2015) — Global touring following Cynic's reformation
 
 ## Band History
 
@@ -125,7 +125,7 @@ A: Yes. Reinert had classical and jazz training that directly shaped his ghost n
 
 **Q: When did Sean Reinert co-found Cynic?**
 
-A: Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1990.
+A: Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1991.
 
 **Q: When did Sean Reinert die?**
 

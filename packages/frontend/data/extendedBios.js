@@ -8308,8 +8308,8 @@ Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Int
     drummerId: 59,
     name: 'Sean Reinert',
     bands: [
-      { slug: 'death', period: '1990-1992', role: 'Drummer' },
-      { slug: 'cynic', period: '1987-1994, 2006-2017', role: 'Drummer, co-founder' },
+      { slug: 'death', period: '1991-1992', role: 'Drummer' },
+      { slug: 'cynic', period: '1987-1994, 2006-2015', role: 'Drummer, co-founder' },
       { slug: 'aghora', period: '2000-2005', role: 'Drummer' }
     ],
     metaTitle: 'Sean Reinert Drum Kit & Gear Setup — Death & Cynic Drummer | MetalForge',
@@ -8332,7 +8332,7 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
         title: 'Career Highlights',
         items: [
           { year: '1987', event: 'Co-founded Cynic in Miami, Florida, with guitarist/vocalist Paul Masvidal' },
-          { year: '1990', event: 'Joined Death, Chuck Schuldiner\'s pioneering death metal band' },
+          { year: '1991', event: 'Joined Death, Chuck Schuldiner\'s pioneering death metal band' },
           { year: '1991', event: 'Recorded Human at Morrisound Recording, widely considered the birth of progressive death metal' },
           { year: '1993', event: 'Released Focus with Cynic, fusing death metal intensity with jazz-fusion complexity' },
           { year: '1999', event: 'Contributed to Gordian Knot\'s Emergent alongside Sean Malone' },
@@ -8367,7 +8367,7 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
         tours: [
           { name: 'Human Tour', year: '1991', note: 'Limited touring dates supporting Death\'s Human' },
           { name: 'Focus Tour', year: '1993', note: 'Supporting Death on select dates' },
-          { name: 'Cynic Reunion Touring', year: '2006-2017', note: 'Global touring following Cynic\'s reformation' }
+          { name: 'Cynic Reunion Touring', year: '2006-2015', note: 'Global touring following Cynic\'s reformation' }
         ]
       },
       gearHighlights: {
@@ -8406,7 +8406,7 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
           { q: 'What albums did Sean Reinert play drums on?', a: 'Sean Reinert\'s best-known recordings are Death\'s Human (1991) and Cynic\'s Focus (1993), plus Gordian Knot\'s Emergent (1999) and Cynic\'s reunion album Traced in Air (2008).' },
           { q: 'What drum kit did Sean Reinert use on Human?', a: 'Sean Reinert played a Tama Artstar II birch shell kit with a 14"x5.5" birch snare, Zildjian A Series cymbals, and a DW 5000 double pedal on Death\'s Human.' },
           { q: 'Did Sean Reinert play jazz before death metal?', a: 'Yes. Reinert had classical and jazz training that directly shaped his ghost notes, dynamic control, and polyrhythmic phrasing, which he brought into Death and Cynic.' },
-          { q: 'When did Sean Reinert co-found Cynic?', a: 'Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1990.' },
+          { q: 'When did Sean Reinert co-found Cynic?', a: 'Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1991.' },
           { q: 'When did Sean Reinert die?', a: 'Sean Reinert passed away on January 24, 2020, at age 48, about four months before what would have been his 49th birthday.' },
           { q: 'What drum set did Sean Reinert use?', a: 'Sean Reinert\'s Human/Focus-era drum set was a Tama Artstar II birch shell kit — a single 22"x16" kick and various toms — built around a Tama Artstar II 14"x5.5" birch snare. He upgraded to a DW Collector\'s maple shell pack and Zildjian K Custom cymbals for Cynic\'s 2008 reunion album, Traced in Air.' },
           { q: 'What cymbals did Sean Reinert use?', a: 'Sean Reinert used a Zildjian A/K Series cymbal blend on both Death\'s Human (1991) and Cynic\'s Focus (1993), then narrowed to Zildjian K Custom cymbals for Cynic\'s 2008 reunion album, Traced in Air.' },

@@ -26,7 +26,7 @@ Obscura/Necrophagist's Hannes Grossmann vs Morbid Angel/Hate Eternal's Tim Yeung
 
 ## Playing Style
 
-Hannes Grossmann (born 1982, Germany) built his reputation on classically trained, mathematically architected drumming that helped define modern technical death metal on Necrophagist's "Epitaph" (2004) and Obscura's "Cosmogenesis" (2009) and "Omnivium" (2011), later extending his compositional approach into the progressive death metal supergroup Alkaloid. Tim Yeung (born 1978, Pennsylvania) took a different route through extreme metal's premier chairs, drumming for Hate Eternal's "King of All Kings" (2002), Vital Remains' "Dechristianize" (2003), and Morbid Angel from 2004 to 2015, becoming one of the most in-demand session drummers in death metal for his machine-like speed and reliability.
+Hannes Grossmann (born 1982, Germany) built his reputation on classically trained, mathematically architected drumming that helped define modern technical death metal on Necrophagist's "Epitaph" (2004) and Obscura's "Cosmogenesis" (2009) and "Omnivium" (2011), later extending his compositional approach into the progressive death metal supergroup Alkaloid. Tim Yeung (born 1978, Rochester, New York) took a different route through extreme metal's premier chairs, drumming as a founding member of Hate Eternal from 1997 to 2000, recording "Conquering the Throne" (1999), with stints including Vital Remains' "Dechristianize" (2003), and Morbid Angel from 2010 to 2015, becoming one of the most in-demand session drummers in death metal for his machine-like speed and reliability.
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Both are elite technical death metal drummers with different strengths. Hanne
 A: Hannes Grossmann's signature is open-handed playing combined with classically informed polyrhythmic composition, most audible on Obscura's "Cosmogenesis" (2009). Tim Yeung's signature is sustained, gravity-blast-influenced double bass and blast beats delivered with unwavering consistency across grueling tour schedules.
 
 **Q: What bands have Hannes Grossmann and Tim Yeung played in?**
-A: Hannes Grossmann drummed for Necrophagist (2004-2010) and has drummed for Obscura (2007-2014, 2020-present), and co-founded Alkaloid and Blotted Science. Tim Yeung drummed for Hate Eternal (2001-2004), Vital Remains (2003-2007), Morbid Angel (2004-2015), Divine Heresy (2006-2011), and filled in for Nile in 2012.
+A: Hannes Grossmann drummed for Necrophagist (2004-2010) and has drummed for Obscura (2007-2014, 2020-present), and co-founded Alkaloid and Blotted Science. Tim Yeung was a founding member of Hate Eternal (1997-2000), drummed for Morbid Angel (2010-2015), had stints with Vital Remains and Divine Heresy, and filled in for Nile in 2012.
 
 **Q: What gear do Hannes Grossmann and Tim Yeung use?**
 A: Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal. Tim Yeung plays a Tama Starclassic Bubinga kit with a metal snare and Sabian AAX/HHX cymbals, driven by a Tama Speed Cobra 910 double pedal.
@@ -67,4 +67,4 @@ A: Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors maple 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-23 · Source: [MetalForge.io](https://metalforge.io)*

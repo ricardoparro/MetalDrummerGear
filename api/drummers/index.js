@@ -3218,9 +3218,9 @@ const drummers = [
     name: 'Tim Yeung',
     band: 'Morbid Angel / Hate Eternal / Vital Remains',
     bands: [
-      { name: 'Hate Eternal', period: '2004–2007, 2015–present', current: true },
-      { name: 'Morbid Angel', period: '2013–2015', current: false },
-      { name: 'Vital Remains', period: '2001–2007', current: false }
+      { name: 'Hate Eternal', period: '1997–2000', current: false },
+      { name: 'Morbid Angel', period: '2010–2015', current: false },
+      { name: 'Vital Remains', period: '2003–2007', current: false }
     ],
     genre: 'Death Metal / Technical Death Metal',
     country: 'USA',

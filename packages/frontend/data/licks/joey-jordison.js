@@ -105,12 +105,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Export Series Kit",
+        "name": "ddrum kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Paiste 2002 14\" Hi-Hats",
+        "name": "Zildjian A Custom 14\" Hi-Hats",
         "type": "cymbals",
         "link": null
       }
@@ -295,12 +295,12 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Pearl Export Series Kit",
+        "name": "ddrum kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Paiste 2002 Cymbals",
+        "name": "Zildjian A Custom Cymbals",
         "type": "cymbals",
         "link": null
       }

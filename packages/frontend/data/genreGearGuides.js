@@ -24567,7 +24567,7 @@ This guide breaks down exactly what makes a bass drum work for metalcore - shell
         {
           name: "Trigger Integration",
           icon: "🎛️",
-          description: "Travis Orbin's SJC Custom setup on Periphery's self-titled debut helped define the trigger-augmented, polyrhythmic template many modern metalcore and djent-adjacent bands now use for consistent, sample-layered kick tone in the studio and live.",
+          description: "Travis Orbin's SJC Custom setup during his pre-recording-era run in Periphery (through Feb 2009) helped define the trigger-augmented, polyrhythmic template many modern metalcore and djent-adjacent bands now use for consistent, sample-layered kick tone in the studio and live.",
           recommendation: "Consider a bass drum setup that leaves room for triggers if your material uses layered samples"
         },
         {
@@ -24684,7 +24684,7 @@ The same Ludwig setup is anchored by Cruz's signature 14x6.5" Black Beauty snare
 Orbin carried that same low end into his solo and session work after Matt Halpern took over and recorded Periphery's 2010 self-titled debut — a bass drum tone precise enough to sit cleanly alongside layered samples and triggers while still delivering real acoustic punch underneath.`,
 
           pros: [
-            "Travis Orbin's Periphery debut bass drum - genre-defining djent-adjacent metalcore",
+            "Travis Orbin's pre-recording-era Periphery bass drum - genre-defining djent-adjacent metalcore low end",
             "Fully custom shell specs and finish",
             "Sits cleanly alongside triggers and layered samples",
             "Precise, articulate low end for polyrhythmic material",
@@ -24790,7 +24790,7 @@ Orbin carried that same low end into his solo and session work after Matt Halper
         {
           category: "Best for Trigger-Augmented Setups",
           pedal: "SJC Custom Bass Drum",
-          reason: "Travis Orbin's genre-defining Periphery debut low end."
+          reason: "Travis Orbin's genre-defining, pre-recording-era Periphery low end."
         },
         {
           category: "Best Budget",
@@ -52119,7 +52119,7 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
     // SEO metadata
     title: "Best Drum Triggers for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Drum Triggers for Djent in 2026 | MetalForge Expert Guide",
-    description: "Discover the best drum triggers for djent drumming. Expert recommendations on acoustic trigger reinforcement and hybrid sample layering for polyrhythmic precision, featuring Tomas Haake's triggered kick setup, Matt Halpern's Roland electronic pads, and the trigger-augmented template Travis Orbin built on Periphery's debut.",
+    description: "Discover the best drum triggers for djent drumming. Expert recommendations on acoustic trigger reinforcement and hybrid sample layering for polyrhythmic precision, featuring Tomas Haake's triggered kick setup, Matt Halpern's Roland electronic pads, and the trigger-augmented template Travis Orbin ran during his pre-recording-era run in Periphery.",
     seoKeywords: [
       'best drum triggers for djent',
       'djent drum trigger',
@@ -52156,14 +52156,14 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       title: "Why Djent Drummers Layer Triggers Into the Mix",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Djent leans on this technology more directly than most metal subgenres: the style's polyrhythmic, palm-muted riffing is built around mechanical precision, and drummers routinely layer a triggered signal underneath the acoustic kit rather than treating it as a last-resort fix.
 
-Tomas Haake uses triggered bass drums to layer acoustic and electronic kick sounds in Meshuggah's productions, giving the low end the mechanical, robotic weight that anchors the band's polyrhythmic riffing. Matt Halpern of Periphery runs Roland electronic pads in his live setup, blending triggered and sampled elements into an otherwise acoustic kit. Travis Orbin, who built the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut with an SJC Custom kit and a Roland SPD-SX sampling pad, set the template that shaped djent's studio-first relationship with triggers.
+Tomas Haake uses triggered bass drums to layer acoustic and electronic kick sounds in Meshuggah's productions, giving the low end the mechanical, robotic weight that anchors the band's polyrhythmic riffing. Matt Halpern of Periphery runs Roland electronic pads in his live setup, blending triggered and sampled elements into an otherwise acoustic kit. Travis Orbin ran an SJC Custom kit and a Roland SPD-SX sampling pad during his pre-recording-era run in Periphery (through Feb 2009), building the trigger-augmented, polyrhythmic template that helped shape djent-adjacent metalcore before Matt Halpern recorded the band's 2010 self-titled debut.
 
 This guide covers what actually matters when choosing drum triggers for djent — mounting type, dual-zone sensing, and crosstalk rejection during dense polyrhythmic fills — with specific recommendations across every budget, from a first single kick trigger to a full hybrid sample-layering rig.`,
       keyPoints: [
         "Djent drummers layer triggers into the mix as a genuine production choice, not just a live-reinforcement fallback",
         "Tomas Haake uses triggered bass drums to layer acoustic and electronic kick sounds in Meshuggah's productions",
         "Matt Halpern runs Roland electronic pads in his live Periphery setup",
-        "Travis Orbin built djent's genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut with a Roland SPD-SX"
+        "Travis Orbin ran a Roland SPD-SX during his pre-recording-era run in Periphery, building a trigger-augmented template before Matt Halpern recorded the band's 2010 self-titled debut"
       ]
     },
 
@@ -52295,11 +52295,11 @@ Because the RT-30 is Roland's own platform, it pairs cleanly with the same Rolan
           priceRange: "€700-800",
           tier: "pro",
           driveType: "Sampling pad / trigger module",
-          description: `Matt Halpern runs Roland electronic pads in his live Periphery setup, and Travis Orbin built djent's genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut with a Roland SPD-SX alongside his acoustic kit. The SPD-SX takes triggered signals — from acoustic triggers or its own nine velocity-sensitive pads — and turns them into layered samples, textures, or backing elements without replacing a single acoustic drum.
+          description: `Matt Halpern runs Roland electronic pads in his live Periphery setup, and Travis Orbin ran a Roland SPD-SX alongside his acoustic kit during his pre-recording-era run in Periphery (through Feb 2009), building a trigger-augmented template before Matt Halpern recorded the band's 2010 self-titled debut. The SPD-SX takes triggered signals — from acoustic triggers or its own nine velocity-sensitive pads — and turns them into layered samples, textures, or backing elements without replacing a single acoustic drum.
 
 For djent drummers who want to go beyond simple kick reinforcement into genuine sample layering, the SPD-SX is the unit that defined how the genre's biggest names actually do it.`,
           pros: [
-            "The unit Travis Orbin used to build djent's genre-defining trigger-augmented sound",
+            "The unit Travis Orbin ran during his pre-recording-era run in Periphery",
             "Matt Halpern's proven live hybrid setup component",
             "Nine velocity-sensitive trigger pads plus acoustic trigger inputs",
             "Deep on-board sample editing for layered textures",
@@ -52319,7 +52319,7 @@ For djent drummers who want to go beyond simple kick reinforcement into genuine 
           },
           usedBy: [
             { name: "Matt Halpern", band: "Periphery", note: "Roland electronic pads in his live setup" },
-            { name: "Travis Orbin", band: "Periphery", note: "Trigger-augmented template on Periphery's self-titled debut" }
+            { name: "Travis Orbin", band: "Periphery", note: "Trigger-augmented template during his pre-recording-era run, before the band's self-titled debut" }
           ],
           verdict: "The genre-defining choice for djent drummers layering samples and textures under an acoustic kit.",
           rating: 4.7,
@@ -52450,7 +52450,7 @@ For djent drummers who've already invested in triggers from multiple brands, or 
 - Individually adjustable zones with per-instrument MIDI output for detailed multitrack DAW editing
 - Higher upfront cost but far more flexibility for building djent's signature mechanical low end
 
-**The Truth:** Most djent drummers start with a single kick trigger reinforcing their acoustic kit, then step up to a sampling pad like the SPD-SX once they want to genuinely layer electronic textures the way Travis Orbin did on Periphery's debut.
+**The Truth:** Most djent drummers start with a single kick trigger reinforcing their acoustic kit, then step up to a sampling pad like the SPD-SX once they want to genuinely layer electronic textures the way Travis Orbin did during his pre-recording-era run in Periphery.
 
 **Our Recommendation:** Start with a single ddrum Chrome Elite or Roland RT-30 on your kick drum. Step up to a Roland SPD-SX once you're ready to layer samples and textures rather than just reinforce your acoustic attack.`,
       comparisonTable: [
@@ -52474,7 +52474,7 @@ For djent drummers who've already invested in triggers from multiple brands, or 
         {
           category: "Best for Hybrid Layering",
           pedal: "Roland SPD-SX Sampling Pad",
-          reason: "The unit Travis Orbin used to build djent's genre-defining trigger-augmented sound."
+          reason: "The unit Travis Orbin ran during his pre-recording-era run in Periphery."
         },
         {
           category: "Best Budget",
@@ -52498,7 +52498,7 @@ For djent drummers who've already invested in triggers from multiple brands, or 
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Triggered bass drums layering acoustic and electronic kick sounds in Meshuggah\'s productions' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Roland electronic pads in his live Periphery setup' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Built djent\'s genre-defining, trigger-augmented sound on Periphery\'s self-titled debut' }
+      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Trigger-augmented template during his pre-recording-era run in Periphery' }
     ],
     relatedComparisons: [],
 
@@ -52506,7 +52506,7 @@ For djent drummers who've already invested in triggers from multiple brands, or 
     faq: [
       {
         question: "What drum triggers do djent drummers use?",
-        answer: "Tomas Haake of Meshuggah uses triggered bass drums to layer acoustic and electronic kick sounds. Matt Halpern of Periphery runs Roland electronic pads in his live setup. Travis Orbin built djent's genre-defining, trigger-augmented sound on Periphery's self-titled debut with a Roland SPD-SX sampling pad alongside his acoustic kit."
+        answer: "Tomas Haake of Meshuggah uses triggered bass drums to layer acoustic and electronic kick sounds. Matt Halpern of Periphery runs Roland electronic pads in his live setup. Travis Orbin ran a Roland SPD-SX sampling pad alongside his acoustic kit during his pre-recording-era run in Periphery (through Feb 2009), before Matt Halpern recorded the band's self-titled debut."
         },
       {
         question: "Do djent drummers use triggers to fix mistakes or as part of the actual sound?",
@@ -52522,14 +52522,14 @@ For djent drummers who've already invested in triggers from multiple brands, or 
       },
       {
         question: "Do I need a Roland SPD-SX to sound like a djent drummer?",
-        answer: "No. A single kick trigger paired with a lean interface reinforces your acoustic attack for a tighter, more consistent sound and is where most djent drummers start. The SPD-SX becomes worthwhile once you're ready to layer genuine electronic textures and samples the way Travis Orbin did on Periphery's debut, rather than just clean up your kick signal."
+        answer: "No. A single kick trigger paired with a lean interface reinforces your acoustic attack for a tighter, more consistent sound and is where most djent drummers start. The SPD-SX becomes worthwhile once you're ready to layer genuine electronic textures and samples the way Travis Orbin did during his pre-recording-era run in Periphery, rather than just clean up your kick signal."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Layer the Low End, Don't Just Reinforce It",
-      content: `Djent's relationship with triggers goes deeper than most metal subgenres — Tomas Haake layers triggered electronic kick sounds directly into Meshuggah's mechanical low end, and Travis Orbin built the genre's founding trigger-augmented studio template on Periphery's self-titled debut. Matt Halpern's ongoing use of Roland electronic pads live shows this isn't a one-off studio trick; it's part of how djent's biggest names actually play.
+      content: `Djent's relationship with triggers goes deeper than most metal subgenres — Tomas Haake layers triggered electronic kick sounds directly into Meshuggah's mechanical low end, and Travis Orbin built the genre's founding trigger-augmented studio template during his pre-recording-era run in Periphery, before Matt Halpern recorded the band's self-titled debut. Matt Halpern's ongoing use of Roland electronic pads live shows this isn't a one-off studio trick; it's part of how djent's biggest names actually play.
 
 Start lean: a single kick trigger and a basic interface will reinforce your loudest, most tempo-critical drum without touching how your acoustic kit feels. Step up to a Roland SPD-SX once you're ready to genuinely layer samples and textures rather than just clean up your attack.
 
@@ -52583,13 +52583,13 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       title: "Why Metalcore Drummers Reach for Triggers",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Most modern metalcore and djent drummers use bass drum triggers, and sometimes snare triggers, for exactly this kind of consistent sound, with electronic samples and hybrid kits now common across the genre.
 
-Jay Weinberg has run Roland electronics across his touring rigs, keeping breakdown-heavy kick and snare attack studio-consistent from the first show of a tour to the last. Travis Orbin built the trigger-augmented, polyrhythmic template on Periphery's self-titled 2010 debut that helped shape djent-adjacent metalcore's studio sound, running a Roland SPD-SX sampling pad alongside his acoustic kit. Matt Halpern of Periphery runs Roland electronic pads in his own live setup, reflecting how routinely modern metalcore drummers reach for trigger reinforcement.
+Jay Weinberg has run Roland electronics across his touring rigs, keeping breakdown-heavy kick and snare attack studio-consistent from the first show of a tour to the last. Travis Orbin built the trigger-augmented, polyrhythmic template that helped shape djent-adjacent metalcore's studio sound during his pre-recording-era run in Periphery (through Feb 2009), running a Roland SPD-SX sampling pad alongside his acoustic kit before Matt Halpern recorded the band's 2010 self-titled debut. Matt Halpern of Periphery runs Roland electronic pads in his own live setup, reflecting how routinely modern metalcore drummers reach for trigger reinforcement.
 
 This guide covers what actually matters when choosing drum triggers for metalcore — mounting type, dual-zone sensing, and crosstalk rejection through fast tempo-to-breakdown transitions — with specific recommendations across every budget, from a first single kick trigger to a full acoustic reinforcement rig.`,
       keyPoints: [
         "Most modern metalcore and djent drummers use bass drum triggers, and sometimes snare triggers, for consistent sound",
         "Jay Weinberg has run Roland electronics across his touring rigs for consistent kick/snare attack night after night",
-        "Travis Orbin's trigger-augmented, polyrhythmic template on Periphery's debut helped shape djent-adjacent metalcore's studio sound",
+        "Travis Orbin's trigger-augmented, polyrhythmic template during his pre-recording-era run in Periphery helped shape djent-adjacent metalcore's studio sound",
         "Matt Halpern runs Roland electronic pads in his live Periphery setup"
       ]
     },
@@ -52726,7 +52726,7 @@ Jay Weinberg has run Roland electronics across his touring rigs for exactly this
           driveType: "Kick + Snare + Tom Trigger Set",
           description: `The Acoustic Pro set bundles ddrum's kick, snare, and tom triggers into a single purchase, giving a metalcore drummer full-kit reinforcement without buying each piece individually — a practical way to move from a single kick trigger to reinforcing an entire acoustic kit before a full tour or album session.
 
-For drummers building the same kind of hybrid, trigger-augmented setup Travis Orbin pioneered on Periphery's genre-defining debut, this set covers the whole kit in one order.`,
+For drummers building the same kind of hybrid, trigger-augmented setup Travis Orbin ran during his pre-recording-era run in Periphery, this set covers the whole kit in one order.`,
           pros: [
             "Full kit coverage (kick, snare, toms) in one purchase",
             "Consistent ddrum sensing across every drum for album-length tracking",
@@ -52931,7 +52931,7 @@ For metalcore drummers who've already invested in triggers from multiple brands,
     faq: [
       {
         question: "What drum triggers do metalcore drummers use?",
-        answer: "Jay Weinberg has run Roland electronics across his touring rigs for consistent kick and snare attack. Roland's RT-30 series is a common clip-on choice among metalcore drummers reinforcing kick and snare, and Travis Orbin's trigger-augmented Roland SPD-SX setup on Periphery's debut helped shape djent-adjacent metalcore's studio approach."
+        answer: "Jay Weinberg has run Roland electronics across his touring rigs for consistent kick and snare attack. Roland's RT-30 series is a common clip-on choice among metalcore drummers reinforcing kick and snare, and Travis Orbin's trigger-augmented Roland SPD-SX setup during his pre-recording-era run in Periphery helped shape djent-adjacent metalcore's studio approach."
       },
       {
         question: "Do metalcore drummers use triggers?",
@@ -52954,7 +52954,7 @@ For metalcore drummers who've already invested in triggers from multiple brands,
     // Conclusion
     conclusion: {
       title: "Reinforce the Breakdown, Not Just the Take",
-      content: `A drum trigger's job in metalcore is to make sure breakdown weight and fast, syncopated verses sound just as tight on the last show of a tour as they did on the first. Jay Weinberg's Roland electronics keep his touring kit consistent night after night, while Travis Orbin's trigger-augmented Roland SPD-SX setup on Periphery's debut shows exactly how deep that reinforcement can go in the studio.
+      content: `A drum trigger's job in metalcore is to make sure breakdown weight and fast, syncopated verses sound just as tight on the last show of a tour as they did on the first. Jay Weinberg's Roland electronics keep his touring kit consistent night after night, while Travis Orbin's trigger-augmented Roland SPD-SX setup during his pre-recording-era run in Periphery shows exactly how deep that reinforcement can go in the studio.
 
 Start lean: a single kick trigger and a basic interface will reinforce your loudest, most breakdown-critical drum without touching how your acoustic kit feels. Expand to a full trigger set or a cross-brand module like the ATV aD5 once you're touring regularly or tracking a full album.
 
@@ -59127,7 +59127,7 @@ Pearl's SST (Superior Shell Technology) construction and minimal-contact mountin
           tier: "premium",
           material: "5-ply North American Maple",
 
-          description: `Travis Orbin built the genre-defining, trigger-augmented sound of Periphery's self-titled debut on SJC Custom Drums, a kit he's carried into Darkest Hour and his prolific session work. SJC's proprietary M5 shell — five alternating vertical and horizontal plies of North American maple — is engineered for enhanced resonance, wide tonal range, and easy tuning across playing situations.
+          description: `Travis Orbin ran SJC Custom Drums during his pre-recording-era run in Periphery (through Feb 2009), building the trigger-augmented, polyrhythmic low end that helped shape djent-adjacent metalcore before Matt Halpern recorded the band's 2010 self-titled debut — a kit he's carried into Darkest Hour and his prolific session work. SJC's proprietary M5 shell — five alternating vertical and horizontal plies of North American maple — is engineered for enhanced resonance, wide tonal range, and easy tuning across playing situations.
 
 The kit's custom-build flexibility lets technical, djent-adjacent metalcore drummers dial in exact specs, while a Roland SPD-SX sampling pad integrates seamlessly for the electronic textures that define modern polyrhythmic metalcore.`,
 
@@ -59404,7 +59404,7 @@ For developing metalcore drummers building their first rig, the Imperialstar's i
       },
       {
         question: "What drum kit does Travis Orbin use?",
-        answer: "Travis Orbin built Periphery's genre-defining self-titled debut (2010) on SJC Custom Drums, using the brand's M5 maple shell construction. He's carried the same custom-built approach into Darkest Hour and his prolific session and playthrough work, integrating a Roland SPD-SX sampling pad for electronic textures."
+        answer: "Travis Orbin ran SJC Custom Drums during his pre-recording-era run in Periphery (through Feb 2009), using the brand's M5 maple shell construction, before Matt Halpern recorded the band's 2010 self-titled debut. He's carried the same custom-built approach into Darkest Hour and his prolific session and playthrough work, integrating a Roland SPD-SX sampling pad for electronic textures."
       },
       {
         question: "Do metalcore drummers need thin or thick shells?",
@@ -74463,7 +74463,7 @@ Start with a single 9"-10" splash in whichever voicing contrasts with (or matche
 
 Blake Richardson runs a 10" Sabian HH Duo Splash within his broader Sabian rig for Between the Buried and Me, where the band's genre-hopping, mathcore-adjacent technicality rewards a cymbal built purely for accenting a single moment inside a constantly shifting meter.
 
-That same appetite for tonal precision inside irregular meters runs through mathcore-adjacent playing more broadly — the polyrhythmic vocabulary Morgan Ågren built as a Zappa alumnus and co-founder of the Mats/Morgan Band, and the exacting, trigger-augmented linear patterns Travis Orbin plays on Periphery's self-titled debut, both reflect the same underlying demand: odd-meter, math-driven material needs more tonal options than a standard hi-hat, crash, and ride setup provides. A splash is one of the cheapest ways to add that extra option, yet it's still one of the last cymbals a developing mathcore drummer adds to their setup — usually only once every accent inside an odd-time fill starts sounding tonally identical. This guide covers what actually matters when choosing a splash cymbal for mathcore — size, alloy, and mounting — with specific recommendations across every budget.`,
+That same appetite for tonal precision inside irregular meters runs through mathcore-adjacent playing more broadly — the polyrhythmic vocabulary Morgan Ågren built as a Zappa alumnus and co-founder of the Mats/Morgan Band, and the exacting, trigger-augmented linear patterns Travis Orbin plays in his post-Periphery solo and session work, both reflect the same underlying demand: odd-meter, math-driven material needs more tonal options than a standard hi-hat, crash, and ride setup provides. A splash is one of the cheapest ways to add that extra option, yet it's still one of the last cymbals a developing mathcore drummer adds to their setup — usually only once every accent inside an odd-time fill starts sounding tonally identical. This guide covers what actually matters when choosing a splash cymbal for mathcore — size, alloy, and mounting — with specific recommendations across every budget.`,
       keyPoints: [
         "A splash's fast decay gives mathcore's irregular meters a distinct accent voice a full-size crash can't replicate",
         "Blake Richardson's 10\" Sabian HH Duo Splash punctuates Between the Buried and Me's genre-hopping technicality",

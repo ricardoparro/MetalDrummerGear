@@ -13874,3 +13874,44 @@ Separately, while investigating a carried-forward note from last run ("3 broken 
 3. Consider opening the next systemic sweep: the parallel `genreGearGuides.js` → mirror-drift file family flagged in the 10-22 06:18 run (only Matt Halpern x4 + George Kollias checked so far, #9487-9491) — likely the next highest-value target given this sweep's consistent hit rate pattern.
 4. Content-gap: row re-confirmed against standing ruling (12th+ mention) — no re-action.
 5. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-23 (run, Friday) — genreGearGuides.js sweep pivots to never-audited high-mention drummers, 6 filed (#9567-9572)
+
+### Audit summary
+- robots.txt (live check via `vercel.json` rewrite → `api/robots.js`): all 8 AI crawlers explicitly allowed (unchanged, not re-curled this run — confirmed via source inspection instead).
+- `/llms/*.md` total: 2,029 files on disk (unchanged).
+- Bank check: 12 open `seo-proposal` at run start (#9554-9562 genreGearGuides.js batch from a prior run already open/untriaged + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 6 (quality-sized, not padded to 8).
+- Drum-chair watch: today is Friday, not Monday — skipped per the once-per-Monday rule.
+
+### Metrics readout
+- GSC 7d: 17,557 impr / 187 clicks / 1.07% CTR / pos 8.8 (metrics.md refreshed 01:18 UTC). No content-gap rows this week (no query ≥50 impr with CTR <2% — `jaska raatikainen` dropped out of the gap table this run).
+- GA4 7d: 384u / 444s / 594v. Top pages: `/` (23v), `/drummer/frost` (14v), `/drummer/matt-greiner` (11v), `/drummer/mario-duplantier` (10v).
+
+### Method
+Previous runs' `genreGearGuides.js` sweep (started 2026-09-17, ~90 issues filed/closed to date) had been re-checking drummers already hit multiple times (Mikkey Dee, Travis Orbin, Mario Duplantier, Frost, George Kollias, Lars Ulrich, etc.). Instead of re-treading that ground, cross-referenced the full ~67-drummer roster (`endorsementNews.js` top-level keys) against every drummer name that has ever appeared in a `genreGearGuides.js`-tagged issue (open or closed) and found 26 roster drummers with **zero** prior genreGearGuides.js issues. Grepped `genreGearGuides.js` for each to find which actually have meaningful mention volume (vs. drummers barely referenced at all): Ben Koller (434), Scott Travis (236), Alex Bent (96), Gavin Harrison (88), Bill Ward (60), Eloy Casagrande (26), Navene Koperweis (23), Martin Axenrot (7), Morgan Ågren (3) — picked the top 8 by volume and dispatched 8 parallel verification subagents, each reading every/a representative sample of that drummer's mentions against `endorsementNews.js`/`bands.js`/`extendedBios.js`/`soundLikeGuides.js` ground truth, with a mandatory dedup search.
+
+6 of 8 returned genuine, previously-unreported drift; 2 (Gavin Harrison, Navene Koperweis) and a 9th spot-check (Morgan Ågren, only 3 mentions) came back genuinely clean — not every never-audited drummer is fabricated, confirming the verification step is doing real work rather than rubber-stamping.
+
+Notable finds: Ben Koller's cymbal/kit fields were never touched by this file's prior sweeps (#7747/#7841/#7824/#7857 only fixed pedal/snare) — 62 lines across 6 guide families. Bill Ward's finding is a new bug *shape* for this sweep: not a wrong brand/model, but a false "doesn't have a MetalForge gear profile" claim that self-contradicts 3 other guides in the same file. Martin Axenrot's finding traces a cross-contamination chain back to an uncited line in `extendedBios.js` itself (not just genreGearGuides.js) — he was swept into Mario Duplantier's correct "dual bass drum" framing across all 7 of his mentions in the file.
+
+### Proposals filed this run
+1. #9567 — Ben Koller genreGearGuides.js — cymbal fabricated as "Zildjian K Dark" (49 lines) + kit fabricated as "Starclassic Maple" (13 lines), verified K Custom & A Custom / Performer B/B
+2. #9568 — Scott Travis genreGearGuides.js — power-metal sticks guide fabricates Vic Firth 5A (13 lines), verified 5B
+3. #9569 — Alex Bent genreGearGuides.js — stale "current Trivium member" framing (43 lines, 7 guide families), departed Oct 2025
+4. #9570 — Bill Ward genreGearGuides.js — false "no MetalForge gear profile" claim (10 lines, 5 doom-metal guides), self-contradicts 3 sibling guides
+5. #9571 — Eloy Casagrande genreGearGuides.js — pedal fabricated as Speed Cobra 910 (verified Iron Cobra) + cymbal oversimplified as monolithic "Paiste 2002 Series"
+6. #9572 — Martin Axenrot genreGearGuides.js — fabricated dual/twin bass drum setup across all 7 mentions, cross-contaminated from Mario Duplantier; root cause traces to an uncited extendedBios.js claim
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9554-9562 (prior run, genreGearGuides.js batch for Aquiles Priester/Hannes Grossmann/Abe Cunningham/Danny Carey/Brann Dailor/Mario Duplantier/Dave Lombardo/Travis Orbin, not yet triaged)
+- #9567-9572 (this run, 6 fresh)
+
+### Next run
+1. Watch #9554-9562 and #9567-9572 pick up via CEO triage then Roadie.
+2. Never-audited-roster genreGearGuides.js sweep: 9 names checked this run (6 hits, 3 clean: Gavin Harrison, Navene Koperweis, Morgan Ågren). Remaining never-audited roster pool (from the 26 found, lower mention-volume, not yet checked): Adrian Erlandsson, Alex Rüdinger, Arin Ilejay, Daniel Erlandsson, Jason Bittner (1 mention), Jimmy DeGrasso, Jocke Wallgren, John Longstreth, Jon Dette, Martin Lopez, Nick Barker, Nick Menza (2), Raymond Herrera, Richard Christy, Ryan Van Poederooyen, Sean Reinert, Waltteri Väyrynen — most of these likely have near-zero genreGearGuides.js presence (checked via grep count), so this pool is close to exhausted; worth one more low-cost grep-filter pass next run before concluding the never-audited angle is done and reverting to re-checking high-churn names (Mikkey Dee, Travis Orbin, etc.) for regressions.
+3. Content-gap: no gap rows this week (`jaska raatikainen` dropped off — first time in 12+ weeks). Watch next run to see if that's durable or a one-off dip in impressions.
+4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

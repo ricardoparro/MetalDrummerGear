@@ -52,13 +52,28 @@ function escapeRegex(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
+// Brand names that are the same company spelled with/without a hyphen
+// across files — endorsementNews.js spells this one "Promark" in some
+// entries while consumer files use the brand's official "Pro-Mark" spelling
+// (also used as the verified spelling in the closed #8524 Nick Augusto
+// finding) — literal substring matching never sees these as equal. Keyed by
+// lowercase brand; each list includes every spelling that should count as a
+// match for any member.
+const BRAND_SPELLING_ALIASES = {
+  promark: ['promark', 'pro-mark'],
+  'pro-mark': ['promark', 'pro-mark'],
+};
+
 // Word-boundary containment check that works even when `brand` starts/ends
 // with a non-word character (e.g. "British Drum Co."), where a plain `\b`
 // anchor would fail to match at all.
 function containsBrand(text, brand) {
   if (!text || !brand) return false;
-  const re = new RegExp(`(?<![A-Za-z0-9])${escapeRegex(brand)}(?![A-Za-z0-9])`, 'i');
-  return re.test(text);
+  const variants = BRAND_SPELLING_ALIASES[brand.toLowerCase()] || [brand];
+  return variants.some((variant) => {
+    const re = new RegExp(`(?<![A-Za-z0-9])${escapeRegex(variant)}(?![A-Za-z0-9])`, 'i');
+    return re.test(text);
+  });
 }
 
 // Multi-word brand names are routinely abbreviated to their first word in
@@ -363,6 +378,44 @@ const CATEGORY_KEYWORDS = {
   hardware: /\b(pedals?|hardware)\b/i,
 };
 
+// Split free-text on top-level commas only (commas nested inside parens/
+// brackets, e.g. a cymbal spec list like "(14" Hi-Hats, 18" Crashes)", stay
+// attached to their enclosing segment rather than fragmenting it).
+function splitTopLevelSegments(text) {
+  const segments = [];
+  let depth = 0;
+  let last = 0;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (c === '(' || c === '[') depth++;
+    else if (c === ')' || c === ']') depth = Math.max(0, depth - 1);
+    else if (c === ',' && depth === 0) {
+      segments.push(text.slice(last, i));
+      last = i + 1;
+    }
+  }
+  segments.push(text.slice(last));
+  return segments;
+}
+
+// A sentence/answer routinely names a drummer's gear for 2+ categories side
+// by side (e.g. "...plays a Pearl kit... and a Czarcie Kopyto double
+// pedal."). Checking a category against the WHOLE clause risks picking up
+// another category's brand name that happens to also be valid ground truth
+// for this category for some OTHER drummer (e.g. "Pearl" is a legitimate
+// hardware brand elsewhere, so it wrongly trips the hardware check on a
+// clause whose actual pedal brand is unrelated and just never named in
+// prose). Narrow the checked text to just the comma-delimited sub-clause(s)
+// that contain the category's own keyword, so a neighboring item's brand
+// name can't cross-contaminate this category's check.
+function narrowToCategoryClause(text, cat) {
+  const keywordRe = CATEGORY_KEYWORDS[cat];
+  if (!keywordRe || !keywordRe.test(text)) return text;
+  const segments = splitTopLevelSegments(text);
+  const matching = segments.filter((s) => keywordRe.test(s));
+  return matching.length ? matching.join(' ') : text;
+}
+
 function processDrummerComparisons(groundTruth, globalBrands, mismatches) {
   const relFile = 'packages/frontend/data/drummerComparisons.js';
   const content = fs.readFileSync(path.join(DATA_DIR, 'drummerComparisons.js'), 'utf8');
@@ -403,7 +456,8 @@ function processDrummerComparisons(groundTruth, globalBrands, mismatches) {
       if (!target || !groundTruth[target]) continue;
       for (const cat of CHECKED_CATEGORIES) {
         if (!CATEGORY_KEYWORDS[cat].test(clause)) continue;
-        checkAndRecord(mismatches, clause, target, cat, relFile, lineNo, groundTruth, globalBrands);
+        const narrowed = narrowToCategoryClause(clause, cat);
+        checkAndRecord(mismatches, narrowed, target, cat, relFile, lineNo, groundTruth, globalBrands);
       }
       // clause names both or neither drummer: ambiguous, skip.
     }
@@ -509,7 +563,8 @@ function processExtendedBios(groundTruth, globalBrands, mismatches) {
       const cat = FAQ_KEYWORD_TO_CATEGORY[qm[1].toLowerCase()];
       if (!cat) continue;
       const idx = start + fm.indices[2][0];
-      checkAndRecord(mismatches, answer, slug, cat, relFile, lineOf(idx), groundTruth, globalBrands);
+      const narrowedAnswer = narrowToCategoryClause(answer, cat);
+      checkAndRecord(mismatches, narrowedAnswer, slug, cat, relFile, lineOf(idx), groundTruth, globalBrands);
     }
   }
 }

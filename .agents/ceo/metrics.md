@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-23 06:18 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-23 07:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | Organic Search | 353 | 295 |
 | Direct | 95 | 94 |
-| Unassigned | 11 | 11 |
+| Unassigned | 13 | 13 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 

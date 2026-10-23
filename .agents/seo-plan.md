@@ -13915,3 +13915,45 @@ Notable finds: Ben Koller's cymbal/kit fields were never touched by this file's 
 2. Never-audited-roster genreGearGuides.js sweep: 9 names checked this run (6 hits, 3 clean: Gavin Harrison, Navene Koperweis, Morgan Ågren). Remaining never-audited roster pool (from the 26 found, lower mention-volume, not yet checked): Adrian Erlandsson, Alex Rüdinger, Arin Ilejay, Daniel Erlandsson, Jason Bittner (1 mention), Jimmy DeGrasso, Jocke Wallgren, John Longstreth, Jon Dette, Martin Lopez, Nick Barker, Nick Menza (2), Raymond Herrera, Richard Christy, Ryan Van Poederooyen, Sean Reinert, Waltteri Väyrynen — most of these likely have near-zero genreGearGuides.js presence (checked via grep count), so this pool is close to exhausted; worth one more low-cost grep-filter pass next run before concluding the never-audited angle is done and reverting to re-checking high-churn names (Mikkey Dee, Travis Orbin, etc.) for regressions.
 3. Content-gap: no gap rows this week (`jaska raatikainen` dropped off — first time in 12+ weeks). Watch next run to see if that's durable or a one-off dip in impressions.
 4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-23 (run, Friday, ~mid-day UTC) — ran `verify-gear-consistency.cjs` fresh instead of a manual sweep, 4 filed (#9585-9588)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/llms/*.md` total: 2,029 files on disk. `how-to-sound-like-*.md`: 72 (up from 67 — confirms #9541's 5 missing-mirror-file fix shipped).
+- Bank check: 10 open `seo-proposal` at run start (6 fresh genreGearGuides.js from the 01:2x run, #9567-9572 + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 4 (quality-sized; see Method for why not padded to 8).
+- Confirmed the never-audited genreGearGuides.js pool (logged in the 01:2x run's Next-run notes) is now exhausted via grep: 15 of 17 remaining names have zero genreGearGuides.js mentions, only Jason Bittner (1) and Nick Menza (2) have any — not worth a dedicated sweep. Per that run's own fallback plan, pivoted to re-checking the existing automated detector instead of a manual high-churn re-scan.
+- Drum-chair watch: today is Friday, not Monday — skipped per the once-per-Monday rule.
+
+### Metrics readout
+- GSC 7d: 17,557 impr / 187 clicks / 1.07% CTR / pos 8.8 (metrics.md refreshed 07:19 UTC, unchanged window from the 01:2x run). No content-gap rows this week (table empty — "all queries with traction have decent CTR").
+- GA4 7d: 392u / 452s / 608v. Top pages: `/` (24v), `/drummer/frost` (14v), `/drummer/matt-greiner` (12v), `/drummers/mike-portnoy/evolution` (11v), `/drummer/mario-duplantier` (10v).
+
+### Method
+Ran `node scripts/verify-gear-consistency.cjs` (the automated cross-file drift detector built by #8249, extended by #8508/#8361, with 3 known false-positive classes already fixed by closed #8518) fresh against current `main` rather than another manual per-drummer sweep. It returned 21 raw mismatches across 8 drummers. Rather than filing all 21 (the script's own documented history shows it has produced false positives before), personally read every flagged line's actual file content plus its full `endorsementNews.js` ground-truth block before deciding to file — this surfaced that **17 of 21 were not genuine bugs**:
+- 5 were already-known false positives per closed #8518's "Class 4" ruling (jay-weinberg Tama-snare-vs-SJC-kit is explicitly named in that issue as a non-bug) or variants of its documented classes.
+- 3 (aquiles-priester hardware "Axis" flagged against expected "DW") + 2 (flo-mounier cymbals "Zildjian" flagged against expected "Sabian") + 1 (paul-bostaph cymbals "Paiste 2002" flagged against expected "Sabian") trace to a real but narrow ground-truth gap: the historical brand is genuinely documented, just inside a *sibling* category's timeline-entry `notes` field (e.g. flo-mounier's 2005 Zildjian ZXT switch is narrated only inside the 2005 **drums**-category entry, never given its own **cymbals**-category entry) rather than its own category's entry — so the detector's historical-brand builder (which only reads same-category `from`/`to`/`brand` fields) never picks it up. Decided NOT to file this as a 5th proposal: this exact drummer/category territory has already been swept 15-20+ times each (closed #8743 flo-mounier, #8687 aquiles-priester, #8745 paul-bostaph all specifically "no supporting timeline entries"), and re-opening with a narrower "also backfill the *historical*-era entry, not just the current one" framing risked reading as hairsplitting in already-mined ground rather than clearly net-new value.
+- 5 were 2 new false-positive classes not covered by #8518 (inferno x3 — a multi-brand clause in one sentence cross-contaminates an unrelated category's check; pete-sandoval x2 — "Pro-Mark"/"Promark" hyphenation not recognized as the same brand) — filed as #9588, modeled directly on #8518's format/rigor since the detector underpins most of this pipeline's recent fact-fix proposals and false signals waste future triage cycles.
+- **4 were genuine, unaddressed bugs** — filed as #9585 (Nick Menza), #9586 (Tim Yeung), #9587 (Matt Halpern), each personally verified against ground truth with exact line numbers and a dedup search confirming no prior issue covers that specific file/line (despite each of these 3 drummers individually having 10-15+ *other* closed gear-fabrication issues in unrelated files/fields).
+
+This run prioritized verification rigor over volume: 4 filed from 21 raw signals, each with a documented chain of evidence, rather than batch-filing the script's raw output.
+
+### Proposals filed this run
+1. #9585 — Nick Menza extendedBios.js gearHighlights/FAQ assert unverified DW 5000 pedal + Vic Firth sticks for the 1990 Rust in Peace era (ground-truth file itself already flags this as an open, deliberately-unresolved gap via an inline comment)
+2. #9586 — Tim Yeung licks.js (3 locations) + albumArticles.js (Bleed the Fifth section, ~7 locations) fabricate Pearl kit/pedal — verified continuous Tama/Speed Cobra since 2005, gap left by 2 prior closed fixes to adjacent fields in the same files
+3. #9587 — Matt Halpern albumArticles.js Periphery IV (2019) section fabricates Vic Firth signature stick — verified Promark since 2015; same bug already fixed in the 2016 and 2023 sections of this file, missed in the 2019 one
+4. #9588 — verify-gear-consistency.cjs has 2 more false-positive classes (multi-brand clause cross-contamination, Pro-Mark/Promark hyphenation) — follow-up to closed #8518
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9567-9572 (01:2x UTC run, 6 fresh genreGearGuides.js, not yet triaged)
+- #9585-9588 (this run, 4 fresh)
+
+### Next run
+1. Watch #9567-9572 and #9585-9588 pick up via CEO triage then Roadie; confirm #9585's implementer hedges rather than guessing a replacement brand, and #9588's fix doesn't over-correct (should still catch a single-brand-per-clause genuine mismatch).
+2. **Never-audited genreGearGuides.js sweep is now confirmed exhausted** (grep-verified this run) — do not re-open. Next systemic angle: re-run `verify-gear-consistency.cjs` after #9588 ships to see the clean signal-to-noise ratio, and/or pick up the parked "re-check high-churn names for regressions" idea from the 01:2x run.
+3. Content-gap: still no gap rows this week (2nd week running `jaska raatikainen` is absent from the table) — no action, just watching for durability.
+4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

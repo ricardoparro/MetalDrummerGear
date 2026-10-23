@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-23 07:19 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-23 08:21 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 392 |
-| Sessions | 452 |
-| Page views | 608 |
-| Engagement rate | 59.07% |
-| Avg session (s) | 337 |
+| Active users | 396 |
+| Sessions | 457 |
+| Page views | 613 |
+| Engagement rate | 59.30% |
+| Avg session (s) | 334 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -23,25 +23,25 @@
 | /drummers/mike-portnoy/evolution | 11 | 4 |
 | /drummer/mario-duplantier | 10 | 9 |
 | /drummer/joey-jordison | 9 | 7 |
+| /drummer/john-otto | 9 | 8 |
 | /guides/best-in-ear-monitors-for-metal-drummers | 9 | 7 |
 | /articles/slipknot-self-titled-drum-setup | 8 | 7 |
-| /drummer/john-otto | 8 | 7 |
 | /drummer/bill-ward | 7 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 353 | 295 |
-| Direct | 95 | 94 |
-| Unassigned | 13 | 13 |
+| Organic Search | 356 | 297 |
+| Direct | 97 | 96 |
+| Unassigned | 14 | 13 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 155 | 134 |
-| Singapore | 43 | 43 |
+| United States | 157 | 135 |
+| Singapore | 45 | 45 |
 | United Kingdom | 36 | 22 |
 | China | 29 | 29 |
 | Canada | 18 | 14 |
@@ -54,21 +54,21 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 17,557 |
-| Clicks | 187 |
-| CTR | 1.07% |
-| Avg position | 8.8 |
+| Impressions | 21,439 |
+| Clicks | 218 |
+| CTR | 1.02% |
+| Avg position | 8.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| bill ward drum kit | 8 | 2 | 25.00% | 6.0 |
-| jaska raatikainen drum set | 6 | 2 | 33.33% | 1.3 |
-| joey jordison drum kit | 56 | 2 | 3.57% | 9.3 |
+| bill ward drum kit | 12 | 2 | 16.67% | 5.8 |
+| jaska raatikainen drum set | 8 | 2 | 25.00% | 3.6 |
+| joey jordison drum kit | 67 | 2 | 2.99% | 9.4 |
 | matt greiner cymbals | 10 | 2 | 20.00% | 8.1 |
-| matt greiner drum setup | 15 | 2 | 13.33% | 7.1 |
-| best cymbals for metal | 11 | 1 | 9.09% | 11.5 |
-| best metal drummers | 12 | 1 | 8.33% | 13.4 |
+| matt greiner drum setup | 17 | 2 | 11.76% | 7.3 |
+| best cymbals for metal | 15 | 1 | 6.67% | 11.6 |
+| best metal drummers | 14 | 1 | 7.14% | 12.3 |
 | bill ward cymbals | 3 | 1 | 33.33% | 7.7 |
 | brann dailor kit | 6 | 1 | 16.67% | 4.0 |
 | can you show me some images | 1 | 1 | 100.00% | 9.0 |
@@ -76,16 +76,16 @@
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,260 | 74 | 2.27% | 8.2 |
-| gbr | 920 | 14 | 1.52% | 8.7 |
-| can | 572 | 7 | 1.22% | 8.1 |
-| fra | 390 | 6 | 1.54% | 8.3 |
-| ita | 252 | 6 | 2.38% | 7.8 |
-| aus | 535 | 5 | 0.93% | 8.9 |
-| deu | 351 | 5 | 1.42% | 7.2 |
-| fin | 160 | 5 | 3.13% | 6.6 |
-| bra | 1,953 | 4 | 0.20% | 7.8 |
-| nor | 94 | 4 | 4.26% | 7.2 |
+| usa | 3,955 | 82 | 2.07% | 8.1 |
+| gbr | 1,168 | 15 | 1.28% | 8.8 |
+| aus | 676 | 8 | 1.18% | 8.8 |
+| can | 711 | 8 | 1.13% | 8.2 |
+| ita | 323 | 8 | 2.48% | 7.7 |
+| fra | 469 | 7 | 1.49% | 8.4 |
+| deu | 431 | 6 | 1.39% | 7.4 |
+| bra | 2,370 | 5 | 0.21% | 7.8 |
+| fin | 189 | 5 | 2.65% | 6.8 |
+| nor | 109 | 5 | 4.59% | 7.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

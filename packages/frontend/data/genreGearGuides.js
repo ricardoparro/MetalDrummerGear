@@ -22867,7 +22867,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
       },
       {
         question: "Single kick or dual kick for doom metal?",
-        answer: "Either works — Danny Carey's dual 22\"/24\" Sonor Custom gives tonal contrast between a tighter and an oversized shell, and Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks deliver similar reserve mass, while Brann Dailor and Igor Cavalera get comparable weight from a single oversized 24\" kick paired with a double pedal."
+        answer: "Either works — Danny Carey's dual 22\"/24\" Sonor Custom gives tonal contrast between a tighter and an oversized shell, and Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks deliver similar reserve mass, while Brann Dailor and Igor Cavalera get comparable weight from a single oversized 24\" kick — Cavalera usually pairs his with a double pedal, Dailor with a single."
       }
     ],
 
@@ -78862,7 +78862,7 @@ Budget shouldn't stop you either. A Meinl HCS or Sabian SBR set will teach real 
       title: "Why Doom Metal Needs a Weighted, Deliberate Pedal — Not a Speed Machine",
       content: `Doom metal inverts almost everything extreme metal usually asks of a bass drum pedal. Instead of chasing 250+ BPM blast beats, doom locks into riffs at a fraction of that tempo, and every kick hit has to land with deliberate, weighted authority rather than rapid-fire precision. That changes the pedal brief entirely: rather than the lightest, fastest-returning cam and footboard combination you can find, doom rewards a pedal that delivers consistent, heavy impact on a single, massive downbeat — with speed reserved for the rare double-kick accent rather than sustained sixteenth notes.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight over speed. Mario Duplantier drives Gojira's dual 22"x18" kicks with a pair of Tama Iron Cobra 900 Power Glide pedals rather than a single double pedal, giving each kick independent, crushing control. Igor Cavalera relies on a Tama Iron Cobra double pedal to cut through Sepultura's tribal, down-tuned heaviness. Danny Carey's massive Tool rig runs a Sonor Giant Step Twin Effect double pedal for consistent response across one of the largest touring kits in rock, and Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra double pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight over speed. Mario Duplantier drives Gojira's dual 22"x18" kicks with a pair of Tama Iron Cobra 900 Power Glide pedals rather than a single double pedal, giving each kick independent, crushing control. Igor Cavalera relies on a Tama Iron Cobra double pedal to cut through Sepultura's tribal, down-tuned heaviness. Danny Carey's massive Tool rig runs a Sonor Giant Step Twin Effect double pedal for consistent response across one of the largest touring kits in rock, and Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a single Tama Speed Cobra pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves.
 
 This guide breaks down drive systems, spring tension, and footboard weight for doom-adjacent pedals — comparing single and dual-kick setups across four drummers whose lineages run closest to doom's crushing rhythmic foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -79042,43 +79042,43 @@ Paired with a large-format kit, the Giant Step Twin Effect proves that a pedal d
         },
         {
           rank: 4,
-          name: "Tama Speed Cobra",
+          name: "Tama Speed Cobra Single Pedal",
           brand: "Tama",
-          model: "Speed Cobra Double Pedal",
+          model: "Speed Cobra Single Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€400-500",
-          tier: "pro",
+          priceRange: "€200-260 (single)",
+          tier: "mid",
           driveType: "Chain Drive (Speedo-Ring)",
 
-          description: `Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra double pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive, giving him controlled, musical response without needing an exotic setup.
+          description: `Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a single Tama Speed Cobra pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive, giving him controlled, musical response without needing a double pedal at all.
 
-For doom-adjacent drummers whose material rarely calls for rapid double bass, the Speed Cobra still delivers everything the genre actually needs, with speed in reserve for the rare fill.`,
+For doom-adjacent drummers whose material rarely calls for rapid double bass, a well-built single pedal like the Speed Cobra still delivers everything the genre actually needs, at a fraction of a double pedal's cost.`,
 
           pros: [
             "Brann Dailor's Mastodon setup — straightforward, riff-locked doom-sludge weight",
-            "Speedo-Ring gives chain drive pedals a smooth, direct-drive-like feel",
-            "LiteSprocket reduces weight for faster response",
-            "Excellent value for pro-level performance",
+            "Speedo-Ring gives chain drive a smooth, direct-drive-like feel",
+            "Tama build quality at a genuinely accessible single-pedal price",
+            "Ideal for doom material that rarely needs rapid double bass",
             "Easy to pair with any kick drum brand"
           ],
           cons: [
-            "Not as linear as true direct drive for maximum sustained speed",
-            "Takes time to adjust to the Speedo-Ring feel",
-            "Pricier than a basic single pedal"
+            "Single pedal only — not built for double-kick accents",
+            "Chain drive rather than true direct drive",
+            "Basic bearings compared to premium double-pedal options"
           ],
           specs: {
             drive: "Chain with Speedo-Ring",
             bearings: "Oiles Bearings",
-            footboard: "Extra-Long Cobra Design",
+            footboard: "Standard",
             beater: "Cobra Beater (dual surface)",
-            weight: "3.8 kg (pair)"
+            weight: "1.9 kg (single unit)"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Tama Speed Cobra — straightforward, riff-locked doom-sludge weight" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Tama Speed Cobra single pedal — straightforward, riff-locked doom-sludge weight" }
           ],
-          verdict: "Best pro pick for straightforward doom that occasionally wants speed in reserve.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_double.htm?partner_id=metalforge"
+          verdict: "Best single-pedal pick for straightforward doom that rarely needs rapid double bass.",
+          rating: 4.4,
+          affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_single.htm?partner_id=metalforge"
         }
       ]
     },
@@ -79124,7 +79124,12 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
       title: "Single vs Double vs Dual Independent Pedals for Doom Metal",
       content: `Kick setup splits doom metal's closest working analogues into distinct camps. Here's how they compare:
 
-**Double Pedal (Igor Cavalera - Tama, Danny Carey - Sonor, Brann Dailor - Tama):**
+**Single Pedal (Brann Dailor - Tama):**
+- One pedal handles straightforward, riff-locked doom-sludge grooves without any double-kick hardware
+- Simplest setup, full control over a single downbeat
+- Best for doom material that rarely calls for double-kick accents
+
+**Double Pedal (Igor Cavalera - Tama, Danny Carey - Sonor):**
 - Handles the vast majority of doom material, from straightforward riff-locked grooves to occasional double-kick accents
 - Reliable, controlled response matters more than top-end speed
 - Best for most doom, sludge, and doom-adjacent progressive material
@@ -79134,7 +79139,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
 - Maximizes independent tonal and timing control per kick
 - Best for technical, crushing doom-death hybrids chasing tectonic weight
 
-**Our Recommendation:** Start with an affordable single pedal (budget DW 3000 or Tama Iron Cobra 600) if you're still building technique on one kick. Step up to a double pedal (Tama Iron Cobra, Sonor Giant Step, or Tama Speed Cobra) once you need reliable double-kick accents. Only move to dual independent pedals if you're also running dual kick drums for maximum crushing weight.`,
+**Our Recommendation:** Start with an affordable single pedal (budget DW 3000 or Tama Iron Cobra 600) if you're still building technique on one kick — it's all Brann Dailor needs for Mastodon's riff-locked grooves. Step up to a double pedal (Tama Iron Cobra or Sonor Giant Step) once you need reliable double-kick accents. Only move to dual independent pedals if you're also running dual kick drums for maximum crushing weight.`,
       comparisonTable: [
         { feature: "Weighted Impact", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Setup Simplicity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -79203,7 +79208,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
       },
       {
         question: "Do doom metal drummers need double bass pedals?",
-        answer: "Not always, but most of doom's closest working analogues do. Danny Carey, Brann Dailor, and Igor Cavalera all use double pedals for reliable, controlled double-kick accents, mainly for occasional fills rather than sustained double-bass speed, since doom rarely calls for blast-beat tempos. Mario Duplantier prefers two independent single pedals for full per-kick control instead. A single pedal is still a fine starting point if your material is straightforward, riff-locked doom that doesn't need double-kick accents."
+        answer: "Not always, but most of doom's closest working analogues do. Danny Carey and Igor Cavalera both use double pedals for reliable, controlled double-kick accents, mainly for occasional fills rather than sustained double-bass speed, since doom rarely calls for blast-beat tempos. Brann Dailor and Mario Duplantier both prefer single pedals instead — Dailor for Mastodon's straightforward, riff-locked grooves, Duplantier for full independent control per kick on his dual-kick setup. A single pedal is still a fine starting point if your material is straightforward, riff-locked doom that doesn't need double-kick accents."
       },
       {
         question: "What pedal does Igor Cavalera use?",
@@ -79218,7 +79223,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
     // Conclusion
     conclusion: {
       title: "Build Your Doom Metal Pedal Arsenal",
-      content: `Doom metal pedal choice comes down to how much weighted, deliberate impact your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals defined the closest working analogue to doom's founding tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Tama Iron Cobra double pedal proved that reliable, controlled power can carry the same philosophy into tribal groove metal, while Danny Carey's Sonor Giant Step Twin Effect double pedal shows how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's Tama Speed Cobra double pedal rounds things out, giving Mastodon's more straightforward, riff-locked doom-sludge grooves fluid, controlled response.
+      content: `Doom metal pedal choice comes down to how much weighted, deliberate impact your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals defined the closest working analogue to doom's founding tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Tama Iron Cobra double pedal proved that reliable, controlled power can carry the same philosophy into tribal groove metal, while Danny Carey's Sonor Giant Step Twin Effect double pedal shows how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's single Tama Speed Cobra pedal rounds things out, giving Mastodon's more straightforward, riff-locked doom-sludge grooves fluid, controlled response without needing a double pedal at all.
 
 None of these approaches is more "correct" — all four represent doom metal's foundational commitment to weight and riff-driven power in the absence of dedicated doom metal drummer profiles in MetalForge's database. Start with whichever setup matches your kick configuration, and don't be afraid to prioritize a heavier spring and beater over raw top-end speed.
 
@@ -99322,7 +99327,7 @@ Start with a budget HCS Dark or Planet Z set to build your sense of dynamics, an
       title: "Why Pedal Control Matters More Than Speed in Post-Metal",
       content: `Post-metal doesn't reward pure pedal speed the way death or black metal does — it rewards control. A song can spend five minutes on a single, near-silent kick pulse before erupting into a crushing, cathartic peak, and the pedal has to deliver both ends convincingly: a soft, controlled touch during the build, and real power once the crescendo lands.
 
-Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal. Danny Carey powers Tool's shifts between delicate restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal. Mario Duplantier — who forgoes a double pedal entirely for dual bass drums — drives Gojira's tectonic low end with twin Tama Iron Cobra 900 Power Glide single pedals. Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a Tama Iron Cobra 900 Rolling Glide double pedal.
+Brann Dailor drives Mastodon's fluid, musical bass drum patterns beneath its polyrhythmic guitar layers on a single Tama Speed Cobra pedal. Danny Carey powers Tool's shifts between delicate restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal. Mario Duplantier — who forgoes a double pedal entirely for dual bass drums — drives Gojira's tectonic low end with twin Tama Iron Cobra 900 Power Glide single pedals. Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a Tama Iron Cobra 900 Rolling Glide double pedal.
 
 This guide breaks down what actually makes a pedal work for post-metal — control at low volume, power at the peak, and consistency across a long, dynamically shifting set — along with these four drummers' specific pedal choices, from budget-friendly options through the professional rigs behind some of modern metal's most dynamically ambitious records.`,
       keyPoints: [
@@ -99382,43 +99387,43 @@ This guide breaks down what actually makes a pedal work for post-metal — contr
       pedals: [
         {
           rank: 1,
-          name: "Tama Speed Cobra",
+          name: "Tama Speed Cobra Single Pedal",
           brand: "Tama",
-          model: "Speed Cobra Double Pedal",
+          model: "Speed Cobra Single Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€400-500",
-          tier: "pro",
+          priceRange: "€200-260 (single)",
+          tier: "mid",
           driveType: "Chain Drive (Speedo-Ring)",
 
-          description: `Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive — exactly the kind of controlled, musical response Dailor needs when he's treating the kit as a lead instrument rather than pure timekeeping.
+          description: `Brann Dailor drives Mastodon's fluid, musical bass drum patterns beneath its polyrhythmic guitar layers on a single Tama Speed Cobra pedal. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive — exactly the kind of controlled, musical response Dailor needs when he's treating the kit as a lead instrument rather than pure timekeeping.
 
-The pedal's balance of speed and feel serves both Mastodon's dense, riff-driven passages and its more delicate, jazz-influenced sections without needing a separate setup for either.`,
+The pedal's balance of speed and feel serves both Mastodon's dense, riff-driven passages and its more delicate, jazz-influenced sections without needing a double pedal for either.`,
 
           pros: [
             "Brann Dailor's proven Mastodon setup",
             "Speedo-Ring gives chain drive pedals a smooth, direct-drive-like feel",
             "Fluid, controlled response across both delicate and dense passages",
             "LiteSprocket reduces weight for faster response",
-            "Excellent value for pro-level performance"
+            "Genuinely accessible single-pedal price"
           ],
           cons: [
             "Not as linear as true direct drive for maximum sustained speed",
             "Takes time to adjust to the Speedo-Ring feel",
-            "Single pedal — a double pedal version needed for two-footed patterns"
+            "Single pedal only — not built for double-kick accents"
           ],
           specs: {
             drive: "Chain with Speedo-Ring",
             bearings: "Oiles Bearings",
-            footboard: "Extra-Long Cobra Design",
+            footboard: "Standard",
             beater: "Cobra Beater (dual surface)",
-            weight: "3.8 kg (pair)"
+            weight: "1.9 kg (single unit)"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Fluid double bass patterns beneath polyrhythmic guitar layers" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Fluid, musical bass drum patterns beneath polyrhythmic guitar layers" }
           ],
           verdict: "The closest working analogue to post-metal's need for fluid, musical bass drum control.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_double.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_single.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -99579,22 +99584,27 @@ The free-floating rotor design keeps the beater's action consistent across the p
 
     // Drive system comparison
     comparison: {
-      title: "Single Kick vs Double Pedal for Post-Metal",
-      content: `Post-metal's dynamic extremes make the single-kick-with-double-pedal-versus-dual-kick decision matter more than in most other metal subgenres. Here's the breakdown:
+      title: "Single Pedal vs Double Pedal vs Dual Kick for Post-Metal",
+      content: `Post-metal's dynamic extremes make pedal choice matter more than in most other metal subgenres. Here's the breakdown:
 
-**Double Pedal (Dailor's Speed Cobra, Carey's Giant Step, Cunningham's Iron Cobra 900 Rolling Glide):**
+**Single Pedal (Dailor's Speed Cobra):**
+- One pedal, one beater — the simplest setup, with full control over a single kick's dynamic range
+- Proves post-metal's dynamic extremes don't require two beaters
+- Preferred by: Brann Dailor
+
+**Double Pedal (Carey's Giant Step, Cunningham's Iron Cobra 900 Rolling Glide):**
 - One kick drum driven by two beaters — more common, easier to transport
 - Consistent tone between both feet since they strike the same head
-- Preferred by: Brann Dailor, Danny Carey, Abe Cunningham
+- Preferred by: Danny Carey, Abe Cunningham
 
 **Dual Single Pedals on Dual Kicks (Duplantier's Iron Cobra 900 x2):**
 - Two independent kick drums — a more organic, powerful low end
 - Each foot can be voiced slightly differently for tonal variety
 - Preferred by: Mario Duplantier
 
-**The Truth:** Most post-metal-adjacent drummers use a standard double pedal, prioritizing the fluid, controlled response it offers across extreme dynamic shifts. Duplantier's dual-kick approach is the exception, chosen specifically for the more organic, powerful low end it gives Gojira's heaviest passages — proof both approaches serve post-metal's crushing peaks well.
+**The Truth:** Post-metal-adjacent drummers split across all three approaches depending on how much tonal and dynamic control they need. Dailor's single pedal proves the genre's extreme dynamic range doesn't require extra hardware, Carey's and Cunningham's double pedals offer reliable two-footed convenience, and Duplantier's dual-kick approach trades convenience for fully independent per-kick control.
 
-**Our Recommendation:** Start with a standard double pedal like the Tama Iron Cobra 600 or Speed Cobra for the most flexible setup. Only move toward a dual-kick, dual-single-pedal configuration once you have a specific tonal reason — like Duplantier's — to want independent control over each foot.`,
+**Our Recommendation:** Start with a single pedal like the Tama Speed Cobra or Iron Cobra 600 — plenty of post-metal-adjacent drummers, Dailor included, build an entire dynamic range around one. Move to a double pedal once you need reliable two-footed accents, and only step up to a dual-kick, dual-single-pedal configuration once you have a specific tonal reason — like Duplantier's — to want independent control over each foot.`,
       comparisonTable: [
         { feature: "Control at Low Volume", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Power at Peak", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -99610,7 +99620,7 @@ The free-floating rotor design keeps the beater's action consistent across the p
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Speed Cobra",
+          pedal: "Tama Speed Cobra Single Pedal",
           reason: "Brann Dailor's fluid, controlled choice — the closest working analogue to post-metal's dynamic needs."
         },
         {
@@ -99638,13 +99648,13 @@ The free-floating rotor design keeps the beater's action consistent across the p
       'best-drum-pedals-for-doom-metal'
     ],
     relatedDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid double bass beneath polyrhythmic guitar layers' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid, musical bass drum patterns beneath polyrhythmic guitar layers' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — consistency across dynamic extremes' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Twin Tama Iron Cobra 900 — organic, tectonic dual-kick weight' },
       { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra 900 Rolling Glide — adjustable response for the crushing/ambient shift' }
     ],
     featuredDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid double bass beneath polyrhythmic guitar layers' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid, musical bass drum patterns beneath polyrhythmic guitar layers' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — consistency across dynamic extremes' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Twin Tama Iron Cobra 900 — organic, tectonic dual-kick weight' },
       { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra 900 Rolling Glide — adjustable response for the crushing/ambient shift' }
@@ -99655,7 +99665,7 @@ The free-floating rotor design keeps the beater's action consistent across the p
     faq: [
       {
         question: "What pedal does Brann Dailor use?",
-        answer: "Brann Dailor of Mastodon plays a Tama Speed Cobra double pedal, chosen for its Speedo-Ring sprocket that blends direct-drive smoothness with chain-drive feel — well suited to his fluid, musical approach to double bass."
+        answer: "Brann Dailor of Mastodon plays a single Tama Speed Cobra pedal, chosen for its Speedo-Ring sprocket that blends direct-drive smoothness with chain-drive feel — well suited to his fluid, musical approach to the kit."
       },
       {
         question: "Does Mario Duplantier use a double pedal?",
@@ -105937,7 +105947,7 @@ Whatever you choose: build heel-toe technique gradually, invest in a longboard f
       title: "Why Post-Metal Needs Control Over Raw Double Bass Speed",
       content: `Post-metal's double bass demands look nothing like death or black metal's endurance test. A song can spend five minutes on a near-silent, barely-there kick pulse before erupting into a crushing, cathartic peak, and the bass drum pedal has to serve both ends of that arc convincingly — a soft, controlled touch through the build, then real, weighted power once the crescendo finally lands.
 
-Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal, prizing its smooth, direct-drive-like feel for passages that shift from delicate to dense within a single song. Danny Carey powers Tool's swings between whisper-quiet restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal — part of the same architecturally deep SQ2 platform behind the rest of his kit. Mario Duplantier skips a double pedal entirely, driving Gojira's tectonic low end with twin independent Tama Iron Cobra 900 Power Glide single pedals for full, organic control over each kick. Abe Cunningham anchors Deftones' shift between ambient restraint and crushing heaviness on a Tama Iron Cobra 900 Rolling Glide double pedal built for exactly that kind of dynamic range.
+Brann Dailor drives Mastodon's fluid, musical bass drum patterns beneath its polyrhythmic guitar layers on a single Tama Speed Cobra pedal, prizing its smooth, direct-drive-like feel for passages that shift from delicate to dense within a single song. Danny Carey powers Tool's swings between whisper-quiet restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal — part of the same architecturally deep SQ2 platform behind the rest of his kit. Mario Duplantier skips a double pedal entirely, driving Gojira's tectonic low end with twin independent Tama Iron Cobra 900 Power Glide single pedals for full, organic control over each kick. Abe Cunningham anchors Deftones' shift between ambient restraint and crushing heaviness on a Tama Iron Cobra 900 Rolling Glide double pedal built for exactly that kind of dynamic range.
 
 This guide breaks down what actually matters in a bass drum pedal for post-metal's slow-build, dynamic-swell songwriting — smooth low-volume control, weighted power at the peak, and consistency across an unusually long set — with specific pedal recommendations from budget-friendly starters through the professional rigs behind some of modern metal's most patient, dynamically ambitious records.`,
       keyPoints: [
@@ -105973,7 +105983,7 @@ This guide breaks down what actually matters in a bass drum pedal for post-metal
         {
           name: "Drive System Feel",
           icon: "⚙️",
-          description: "Abe Cunningham's Iron Cobra 900 Rolling Glide chain system delivers power and stability for Deftones' shift between crushing and delicate, while Speedo-Ring-equipped pedals like Dailor's Speed Cobra offer a smoother, more linear feel for fluid, musical double bass patterns.",
+          description: "Abe Cunningham's Iron Cobra 900 Rolling Glide chain system delivers power and stability for Deftones' shift between crushing and delicate, while Speedo-Ring-equipped pedals like Dailor's Speed Cobra offer a smoother, more linear feel for fluid, musical bass drum patterns.",
           recommendation: "Chain drive with a smooth sprocket system for musical, linear response across dynamic extremes"
         },
         {
@@ -105991,40 +106001,41 @@ This guide breaks down what actually matters in a bass drum pedal for post-metal
       pedals: [
         {
           rank: 1,
-          name: "Tama Speed Cobra",
+          name: "Tama Speed Cobra Single Pedal",
           brand: "Tama",
-          model: "Speed Cobra Double Pedal",
+          model: "Speed Cobra Single Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€400-500 per double set",
-          tier: "pro",
+          priceRange: "€200-260 (single)",
+          tier: "mid",
           driveType: "Chain Drive (Speedo-Ring)",
-          description: `Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive — exactly the kind of controlled, musical response post-metal's shifts between delicate build and dense peak demand.
+          description: `Brann Dailor drives Mastodon's fluid, musical bass drum patterns beneath its polyrhythmic guitar layers on a single Tama Speed Cobra pedal. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive — exactly the kind of controlled, musical response post-metal's shifts between delicate build and dense peak demand.
 
-The pedal's balance of speed and feel serves both a quiet, atmospheric passage and a crushing crescendo without needing a separate setup for either.`,
+The pedal's balance of speed and feel serves both a quiet, atmospheric passage and a crushing crescendo without needing a double pedal for either.`,
           pros: [
             "Brann Dailor's proven Mastodon setup",
             "Speedo-Ring gives chain drive a smooth, direct-drive-like feel",
             "Fluid, controlled response across both delicate and dense passages",
-            "LiteSprocket reduces weight for faster response"
+            "LiteSprocket reduces weight for faster response",
+            "Genuinely accessible single-pedal price"
           ],
           cons: [
             "Not as linear as true direct drive for maximum sustained speed",
             "Takes time to adjust to the Speedo-Ring feel",
-            "Premium price tier"
+            "Single pedal only — not built for double-kick accents"
           ],
           specs: {
             drive: "Chain with Speedo-Ring",
             cam: "LiteSprocket",
             frame: "Aluminum",
             beater: "Cobra Beater (dual surface)",
-            footboard: "Extra-Long Cobra Design"
+            footboard: "Standard"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Fluid double bass patterns beneath polyrhythmic guitar layers" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Fluid, musical bass drum patterns beneath polyrhythmic guitar layers" }
           ],
           verdict: "The closest working pedal to post-metal's need for fluid, musical bass drum control.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_double.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_single.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -106188,7 +106199,7 @@ The 9000's adjustable everything — cam, spring tension, footboard angle — le
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Speed Cobra",
+          pedal: "Tama Speed Cobra Single Pedal",
           reason: "Brann Dailor's proven setup — the closest working pedal to post-metal's need for fluid, musical bass drum control across dynamic extremes."
         },
         {
@@ -106212,14 +106223,14 @@ The 9000's adjustable everything — cam, spring tension, footboard angle — le
       'best-cymbals-for-post-metal'
     ],
     relatedDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid double bass patterns beneath Mastodon\'s polyrhythmic layers' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid, musical bass drum patterns beneath Mastodon\'s polyrhythmic layers' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — consistent response across Tool\'s dynamic extremes' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual independent Tama Iron Cobra 900 pedals for Gojira\'s tectonic low end' },
       { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra 900 Rolling Glide power and stability for Deftones' }
     ],
 
     featuredDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Fluid double bass patterns beneath Mastodon\'s polyrhythmic guitar layers' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Fluid, musical bass drum patterns beneath Mastodon\'s polyrhythmic guitar layers' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Tool\'s shifts between delicate restraint and crushing weight' }
     ],
 
@@ -106227,7 +106238,7 @@ The 9000's adjustable everything — cam, spring tension, footboard angle — le
     faq: [
       {
         question: "What bass drum pedal does Brann Dailor use?",
-        answer: "Brann Dailor of Mastodon plays a Tama Speed Cobra double pedal, valuing the Speedo-Ring sprocket's smooth, direct-drive-like feel for fluid double bass patterns beneath the band's polyrhythmic guitar layers."
+        answer: "Brann Dailor of Mastodon plays a single Tama Speed Cobra pedal, valuing the Speedo-Ring sprocket's smooth, direct-drive-like feel for fluid, musical bass drum patterns beneath the band's polyrhythmic guitar layers."
       },
       {
         question: "Why does post-metal need a different bass drum pedal than death or black metal?",

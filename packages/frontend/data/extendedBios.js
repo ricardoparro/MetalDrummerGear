@@ -7280,7 +7280,7 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
       careerHighlights: {
         title: 'Career Highlights',
         items: [
-          { year: '2005', event: 'Joined Between the Buried and Me, replacing original drummer Will Goodyear' },
+          { year: '2005', event: 'Joined Between the Buried and Me, replacing Jason Roe' },
           { year: '2006', event: 'Recorded "Alaska," first album with BTBAM' },
           { year: '2007', event: 'Released "Colors," considered one of the greatest progressive metal albums' },
           { year: '2009', event: 'Released "The Great Misdirect," featuring "Swim to the Moon"' },

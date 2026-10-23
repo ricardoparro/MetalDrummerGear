@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/blake-richardson"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-23"
 ---
 
 # Blake Richardson — Drum Kit & Gear Setup
@@ -42,7 +42,7 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
 
 ## Career Highlights
 
-- **2005** — Joined Between the Buried and Me, replacing original drummer Will Goodyear
+- **2005** — Joined Between the Buried and Me, replacing Jason Roe
 - **2006** — Recorded "Alaska," first album with BTBAM
 - **2007** — Released "Colors," considered one of the greatest progressive metal albums
 - **2009** — Released "The Great Misdirect," featuring "Swim to the Moon"
@@ -240,4 +240,4 @@ Dated brand-endorsement timeline: [Blake Richardson's endorsement history](https
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-23 · Source: [MetalForge.io](https://metalforge.io)*

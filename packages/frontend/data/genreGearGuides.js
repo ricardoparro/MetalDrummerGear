@@ -30628,7 +30628,7 @@ Start with a budget HCS Dark or Planet Z china to build your sense of dynamics, 
       title: "Why Deathcore Chinas Need Both Brutal Weight and Blast-Beat Speed",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on china choice. A single song can alternate between extreme-speed blast beat verses, where a china needs to stay controlled at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where a dry, aggressive china needs to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on a Meinl Byzance Extra Dry China, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on a Zildjian K Dark China, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Zildjian K Custom Dark China.
+Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on a Meinl Byzance Extra Dry China, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on a Zildjian K Custom & A Custom China, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Zildjian K Custom Dark China.
 
 This guide breaks down what actually makes a china work for deathcore — dry control for breakdowns, brutal aggressive attack, or extreme-speed clarity — and recommends specific models across every budget, from a first dark china to the exact cymbals deathcore's closest lineage plays.`,
       keyPoints: [
@@ -30651,19 +30651,19 @@ This guide breaks down what actually makes a china work for deathcore — dry co
         {
           name: "Brutal, Aggressive Attack",
           icon: "💀",
-          description: "A deathcore breakdown china needs to land like a hit, not a wash. Ben Koller's dark-voiced Zildjian K Dark China delivers crushing, moshable weight without excess brightness — exactly what a beatdown-hardcore-descended breakdown demands.",
+          description: "A deathcore breakdown china needs to land like a hit, not a wash. Ben Koller's dark-voiced Zildjian K Custom & A Custom China delivers crushing, moshable weight without excess brightness — exactly what a beatdown-hardcore-descended breakdown demands.",
           recommendation: "Explosive, dark-toned chinas that land with maximum brutal weight on breakdown accents"
         },
         {
           name: "Extreme-Speed Clarity for Blast Beats",
           icon: "⚡",
-          description: "A deathcore china has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's K Custom Dark China) or a slow, riff-locked breakdown groove (Ben Koller's K Dark China).",
+          description: "A deathcore china has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's K Custom Dark China) or a slow, riff-locked breakdown groove (Ben Koller's K Custom & A Custom China).",
           recommendation: "A rapid-decay china for clear definition at extreme blast-beat tempo"
         },
         {
           name: "Brightness vs. Darkness Tradeoff",
           icon: "⚖️",
-          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K Custom Dark lean brighter for cutting projection at speed, while Ben Koller's Zildjian K Dark leans darker for a trashier, more crushing breakdown voice.",
+          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K Custom Dark lean brighter for cutting projection at speed, while Ben Koller's Zildjian K Custom & A Custom leans darker for a trashier, more crushing breakdown voice.",
           recommendation: "Brighter voicing for blast-beat cut; darker voicing for maximum breakdown weight"
         },
         {
@@ -30675,7 +30675,7 @@ This guide breaks down what actually makes a china work for deathcore — dry co
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Meinl Byzance, Zildjian K Dark/K Custom Dark) delivers deathcore's dark complexity, while B10 bronze (Meinl Classics Custom Dark) offers a more accessible route to the same dark-toned philosophy.",
+          description: "B20 bronze (Meinl Byzance, Zildjian K Custom & A Custom/K Custom Dark) delivers deathcore's dark complexity, while B10 bronze (Meinl Classics Custom Dark) offers a more accessible route to the same dark-toned philosophy.",
           recommendation: "B20 bronze for pro-level darkness and durability, B10 for a real mid-tier entry"
         }
       ]
@@ -30724,14 +30724,14 @@ Turner's progressive metalcore precision translates directly to deathcore's blas
         },
         {
           rank: 2,
-          name: "Zildjian K Dark China",
+          name: "Zildjian K Custom & A Custom China",
           brand: "Zildjian",
-          model: "18\" K Dark China",
+          model: "18\" K Custom & A Custom China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€210-270",
           tier: "pro",
           driveType: "B20 Bronze",
-          description: `Ben Koller of Converge, Mutoid Man, and Killer Be Killed brings hardcore punk and mathcore's blistering speed and creative dynamics to an 18" Zildjian K Dark China, delivering explosive, rapid-decay accents.
+          description: `Ben Koller of Converge, Mutoid Man, and Killer Be Killed brings hardcore punk and mathcore's blistering speed and creative dynamics to an 18" Zildjian K Custom & A Custom China, delivering explosive, rapid-decay accents.
 
 Koller's approach prioritizes power and organic dynamics over trigger-augmented precision, translating directly to deathcore drummers who need a china that delivers both extreme speed and crushing breakdown weight from a single, versatile B20 setup.`,
           pros: [
@@ -30753,11 +30753,11 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Ben Koller", band: "Converge / Mutoid Man", note: "18\" K Dark China — hardcore/mathcore intensity feeding deathcore's breakdown vocabulary" }
+            { name: "Ben Koller", band: "Converge / Mutoid Man", note: "18\" K Custom & A Custom China — hardcore/mathcore intensity feeding deathcore's breakdown vocabulary" }
           ],
           verdict: "Best for organic power and dynamics. Koller's dark, versatile china handles both speed and breakdown weight.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/zildjian_k_dark_china_18_koller.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_a_custom_china_18_koller.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -30832,14 +30832,14 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           priceRange: "€70-90",
           tier: "budget",
           driveType: "B8 Bronze",
-          description: "A budget entry point into the K Dark/K Custom Dark family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing deathcore drummers still building blast-to-breakdown technique.",
+          description: "A budget entry point into the K Custom & A Custom/K Custom Dark family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing deathcore drummers still building blast-to-breakdown technique.",
           pros: [
-            "Budget entry into Zildjian's K Dark family sound",
+            "Budget entry into Zildjian's K Custom & A Custom family sound",
             "B8 bronze gives cutting, present tone",
             "Widely available and affordable"
           ],
           cons: [
-            "Less complex and durable than K Dark or K Custom Dark",
+            "Less complex and durable than K Custom & A Custom or K Custom Dark",
             "Lacks the refined articulation of the professional setups"
           ],
           verdict: "Best budget path toward the technical, Zildjian side of deathcore china tone.",
@@ -30851,14 +30851,14 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 
     // Comparison
     comparison: {
-      title: "Meinl Byzance vs Zildjian K Dark/K Custom Dark for Deathcore",
+      title: "Meinl Byzance vs Zildjian K Custom & A Custom/K Custom Dark for Deathcore",
       content: `Deathcore's blast-into-breakdown split shows up clearly across its closest lineage's china choices:
 
 **Meinl Byzance Extra Dry (Chris Turner):**
 - Controlled, dry accents that stay defined at blast-beat speed
 - Best for: Technical, blast-beat-driven deathcore
 
-**Zildjian K Dark (Ben Koller):**
+**Zildjian K Custom & A Custom (Ben Koller):**
 - Rapid-decay, dark, versatile across both speed and breakdown weight
 - Best for: Organic, dynamically varied deathcore
 
@@ -30866,7 +30866,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 - Explosive, extreme-speed clarity at 240+ BPM
 - Best for: Deathcore's fastest, most blast-beat-driven sections
 
-**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT china if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry for technical blast-and-breakdown balance, Zildjian K Dark for organic breakdown weight, or Zildjian K Custom Dark if your material is blast-beat-dominant.`,
+**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT china if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry for technical blast-and-breakdown balance, Zildjian K Custom & A Custom for organic breakdown weight, or Zildjian K Custom Dark if your material is blast-beat-dominant.`,
       comparisonTable: [
         { feature: "Breakdown Weight/Darkness", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Extreme-Speed Clarity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -30905,7 +30905,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     ],
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Extra Dry China — Oceans Ate Alaska\'s blast-beat-driven precision' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark China — Converge\'s hardcore/mathcore intensity' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom & A Custom China — Converge\'s hardcore/mathcore intensity' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark China — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
     relatedComparisons: [],
@@ -30926,14 +30926,14 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
       },
       {
         question: "What's the best budget china cymbal for deathcore?",
-        answer: "The Meinl HCS Dark China (€50-70) carries the same dark-voiced philosophy as the genre's pro-tier dark china setups at a fraction of the price. The Zildjian ZBT China (€70-90) offers a budget path into the K Dark/K Custom Dark family sound."
+        answer: "The Meinl HCS Dark China (€50-70) carries the same dark-voiced philosophy as the genre's pro-tier dark china setups at a fraction of the price. The Zildjian ZBT China (€70-90) offers a budget path into the K Custom & A Custom/K Custom Dark family sound."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build a China That Handles Both Extremes",
-      content: `Deathcore china choice comes down to serving two opposing demands from the same cymbal: extreme-speed clarity for blast beat verses and crushing, dry weight for breakdown sections. Chris Turner's Meinl Byzance Extra Dry China and George Kollias's Zildjian K Custom Dark China both prove a bright, controlled voice can handle blast-beat velocity, while Ben Koller's Zildjian K Dark shows how a darker, more crushing voice serves the genre's breakdown-first lineage.
+      content: `Deathcore china choice comes down to serving two opposing demands from the same cymbal: extreme-speed clarity for blast beat verses and crushing, dry weight for breakdown sections. Chris Turner's Meinl Byzance Extra Dry China and George Kollias's Zildjian K Custom Dark China both prove a bright, controlled voice can handle blast-beat velocity, while Ben Koller's Zildjian K Custom & A Custom shows how a darker, more crushing voice serves the genre's breakdown-first lineage.
 
 Start with a Meinl HCS Dark or Zildjian ZBT china to build technique across both extremes, and upgrade to a full pro-tier china once your material demands the extra control.
 
@@ -48332,7 +48332,7 @@ Start with one dark, heavy crash in the 18"-19" range, and add a second voicing 
       title: "Why Deathcore Crashes Need Both Brutal Weight and Blast-Beat Speed",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on crash choice. A single song can alternate between extreme-speed blast beat verses, where a crash needs to stay controlled at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where a dry, aggressive crash needs to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on 18" & 20" Meinl Byzance Extra Dry Medium Crashes, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on 18" & 19" Zildjian K Dark Medium Thin Crashes, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays 17" & 18" Zildjian K Custom Dark Crashes.
+Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on 18" & 20" Meinl Byzance Extra Dry Medium Crashes, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on 18" & 19" Zildjian K Custom & A Custom Medium Thin Crashes, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays 17" & 18" Zildjian K Custom Dark Crashes.
 
 This guide breaks down what actually makes a crash work for deathcore — dry control for breakdowns, brutal aggressive attack, or extreme-speed clarity — and recommends specific models across every budget, from a first dark crash to the exact cymbals deathcore's closest lineage plays.`,
       keyPoints: [
@@ -48355,25 +48355,25 @@ This guide breaks down what actually makes a crash work for deathcore — dry co
         {
           name: "Brutal, Aggressive Attack",
           icon: "💀",
-          description: "A deathcore breakdown crash needs to land like a hit, not a wash. Ben Koller's dark-voiced Zildjian K Dark Medium Thin Crashes deliver crushing, moshable weight without excess brightness — exactly what a beatdown-hardcore-descended breakdown demands.",
+          description: "A deathcore breakdown crash needs to land like a hit, not a wash. Ben Koller's dark-voiced Zildjian K Custom & A Custom Medium Thin Crashes deliver crushing, moshable weight without excess brightness — exactly what a beatdown-hardcore-descended breakdown demands.",
           recommendation: "Explosive, dark-toned crashes that land with maximum brutal weight on breakdown accents"
         },
         {
           name: "Extreme-Speed Clarity for Blast Beats",
           icon: "⚡",
-          description: "A deathcore crash has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's K Custom Dark Crashes) or a slow, riff-locked breakdown groove (Ben Koller's K Dark Medium Thin Crashes).",
+          description: "A deathcore crash has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's K Custom Dark Crashes) or a slow, riff-locked breakdown groove (Ben Koller's K Custom & A Custom Medium Thin Crashes).",
           recommendation: "A rapid-decay crash for clear definition at extreme blast-beat tempo"
         },
         {
           name: "Brightness vs. Darkness Tradeoff",
           icon: "⚖️",
-          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K Custom Dark lean brighter for cutting projection at speed, while Ben Koller's Zildjian K Dark leans darker for a trashier, more crushing breakdown voice.",
+          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K Custom Dark lean brighter for cutting projection at speed, while Ben Koller's Zildjian K Custom & A Custom leans darker for a trashier, more crushing breakdown voice.",
           recommendation: "Brighter voicing for blast-beat cut; darker voicing for maximum breakdown weight"
         },
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Meinl Byzance, Zildjian K Dark/K Custom Dark) delivers deathcore's dark complexity, while B10 bronze (Meinl Classics Custom Dark) offers a more accessible route to the same dark-toned philosophy.",
+          description: "B20 bronze (Meinl Byzance, Zildjian K Custom & A Custom/K Custom Dark) delivers deathcore's dark complexity, while B10 bronze (Meinl Classics Custom Dark) offers a more accessible route to the same dark-toned philosophy.",
           recommendation: "B20 bronze for pro-level darkness and durability, B10 for a real mid-tier entry"
         },
         {
@@ -48428,14 +48428,14 @@ Turner's progressive metalcore precision translates directly to deathcore's blas
         },
         {
           rank: 2,
-          name: "Zildjian K Dark Medium Thin Crash",
+          name: "Zildjian K Custom & A Custom Medium Thin Crash",
           brand: "Zildjian",
-          model: "18\" & 19\" K Dark Medium Thin Crash",
+          model: "18\" & 19\" K Custom & A Custom Medium Thin Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG",
           priceRange: "€220-290",
           tier: "pro",
           driveType: "B20 Bronze",
-          description: `Ben Koller of Converge, Mutoid Man, and Killer Be Killed brings hardcore punk and mathcore's blistering speed and creative dynamics to his 18" and 19" Zildjian K Dark Medium Thin Crashes, delivering explosive, rapid-decay accents.
+          description: `Ben Koller of Converge, Mutoid Man, and Killer Be Killed brings hardcore punk and mathcore's blistering speed and creative dynamics to his 18" and 19" Zildjian K Custom & A Custom Medium Thin Crashes, delivering explosive, rapid-decay accents.
 
 Koller's approach prioritizes power and organic dynamics over trigger-augmented precision, translating directly to deathcore drummers who need a crash that delivers both extreme speed and crushing breakdown weight from a single, versatile B20 setup.`,
           pros: [
@@ -48457,11 +48457,11 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
             decay: "Fast, rapid-decay"
           },
           usedBy: [
-            { name: "Ben Koller", band: "Converge / Mutoid Man", note: "18\" & 19\" K Dark Medium Thin Crashes — hardcore/mathcore intensity feeding deathcore's breakdown vocabulary" }
+            { name: "Ben Koller", band: "Converge / Mutoid Man", note: "18\" & 19\" K Custom & A Custom Medium Thin Crashes — hardcore/mathcore intensity feeding deathcore's breakdown vocabulary" }
           ],
           verdict: "Best for organic power and dynamics. Koller's dark, versatile crash handles both speed and breakdown weight.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/zildjian_k_dark_medium_thin_crash_18_koller.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_a_custom_crash_18_koller.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -48536,14 +48536,14 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           priceRange: "€60-90",
           tier: "budget",
           driveType: "B8 Bronze",
-          description: "A budget entry point into the K Dark/K Custom Dark family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing deathcore drummers still building blast-to-breakdown technique.",
+          description: "A budget entry point into the K Custom & A Custom/K Custom Dark family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing deathcore drummers still building blast-to-breakdown technique.",
           pros: [
-            "Budget entry into Zildjian's K Dark family sound",
+            "Budget entry into Zildjian's K Custom & A Custom family sound",
             "B8 bronze gives cutting, present tone",
             "Widely available and affordable"
           ],
           cons: [
-            "Less complex and durable than K Dark or K Custom Dark",
+            "Less complex and durable than K Custom & A Custom or K Custom Dark",
             "Lacks the refined articulation of the professional setups"
           ],
           verdict: "Best budget path toward the technical, Zildjian side of deathcore crash tone.",
@@ -48555,14 +48555,14 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 
     // Comparison
     comparison: {
-      title: "Meinl Byzance vs Zildjian K Dark/K Custom Dark for Deathcore",
+      title: "Meinl Byzance vs Zildjian K Custom & A Custom/K Custom Dark for Deathcore",
       content: `Deathcore's blast-into-breakdown split shows up clearly across its closest lineage's crash choices:
 
 **Meinl Byzance Extra Dry Medium (Chris Turner):**
 - Controlled, dry accents that stay defined at blast-beat speed
 - Best for: Technical, blast-beat-driven deathcore
 
-**Zildjian K Dark (Ben Koller):**
+**Zildjian K Custom & A Custom (Ben Koller):**
 - Rapid-decay, dark, versatile across both speed and breakdown weight
 - Best for: Organic, dynamically varied deathcore
 
@@ -48570,7 +48570,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 - Explosive, extreme-speed clarity at 240+ BPM
 - Best for: Deathcore's fastest, most blast-beat-driven sections
 
-**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT crash if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry Medium for technical blast-and-breakdown balance, Zildjian K Dark for organic breakdown weight, or Zildjian K Custom Dark if your material is blast-beat-dominant.`,
+**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT crash if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry Medium for technical blast-and-breakdown balance, Zildjian K Custom & A Custom for organic breakdown weight, or Zildjian K Custom Dark if your material is blast-beat-dominant.`,
       comparisonTable: [
         { feature: "Breakdown Weight/Darkness", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Extreme-Speed Clarity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -48611,7 +48611,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     ],
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Extra Dry Medium Crash — Oceans Ate Alaska\'s blast-beat-driven precision' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark Medium Thin Crash — Converge\'s hardcore/mathcore intensity' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom & A Custom Medium Thin Crash — Converge\'s hardcore/mathcore intensity' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
 
@@ -48634,7 +48634,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
       },
       {
         question: "What crash cymbal is best for deathcore breakdowns specifically?",
-        answer: "Ben Koller's Zildjian K Dark Medium Thin Crash is a strong breakdown-first pick, voiced with a dark, rapid-decay character that also handles fast, technical passages."
+        answer: "Ben Koller's Zildjian K Custom & A Custom Medium Thin Crash is a strong breakdown-first pick, voiced with a dark, rapid-decay character that also handles fast, technical passages."
       },
       {
         question: "What size crash cymbal is best for deathcore?",
@@ -48645,7 +48645,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     // Conclusion
     conclusion: {
       title: "Build Your Deathcore Crash Sound Around the Blast-to-Breakdown Split",
-      content: `Deathcore's crash philosophy comes down to one core tension: extreme-speed clarity versus crushing breakdown weight. Whether you build around Chris Turner's controlled, technical Meinl Byzance Extra Dry Medium Crash, Ben Koller's dark, versatile Zildjian K Dark Medium Thin Crash, or George Kollias's extreme-speed Zildjian K Custom Dark, the right deathcore crash should handle both halves of the genre's split identity.
+      content: `Deathcore's crash philosophy comes down to one core tension: extreme-speed clarity versus crushing breakdown weight. Whether you build around Chris Turner's controlled, technical Meinl Byzance Extra Dry Medium Crash, Ben Koller's dark, versatile Zildjian K Custom & A Custom Medium Thin Crash, or George Kollias's extreme-speed Zildjian K Custom Dark, the right deathcore crash should handle both halves of the genre's split identity.
 
 Start with one dry, controlled crash in the 18"-20" range, and add a second, brighter or faster-decaying voicing once you know whether your deathcore leans more blast-beat-technical or breakdown-first.
 
@@ -66812,7 +66812,7 @@ Budget shouldn't stop you either. A Zildjian A series or Meinl HCS set will teac
     // SEO metadata
     title: "Best Drum Kits for Mathcore: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Mathcore in 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for mathcore's dissonant, odd-time aggression: what Ben Koller (Tama Starclassic Maple, Converge), Matt Greiner (Mapex Black Panther Design Lab, August Burns Red), Blake Richardson (Tama Starclassic Bubinga, BTBAM), and Danny Carey (Sonor SQ2 Heavy Beech, Tool) actually play. Ranked budget to pro.",
+    description: "Best drum kits for mathcore's dissonant, odd-time aggression: what Ben Koller (Tama Starclassic Performer B/B, Converge), Matt Greiner (Mapex Black Panther Design Lab, August Burns Red), Blake Richardson (Tama Starclassic Bubinga, BTBAM), and Danny Carey (Sonor SQ2 Heavy Beech, Tool) actually play. Ranked budget to pro.",
     seoKeywords: [
       'best drum kits for mathcore',
       'mathcore drum kit',
@@ -66849,11 +66849,11 @@ Budget shouldn't stop you either. A Zildjian A series or Meinl HCS set will teac
       title: "What Drum Kit Should I Use for Mathcore?",
       content: `Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters, asymmetrical riffing, and constantly shifting rhythmic cells. That combination demands a kit that can deliver both immediate, punishing attack for hardcore-rooted breakdowns and enough tonal clarity to keep complex, irregular fills legible rather than muddy.
 
-Ben Koller's Tama Starclassic Maple kit has anchored Converge's landmark "Jane Doe" (2001) and every record since, its warm, projecting shells built for touring durability across 25-plus years of relentless hardcore shows. Matt Greiner of August Burns Red plays a Mapex Black Panther Design Lab kit, a maple/walnut hybrid shell pack he switched to in 2016, carrying math metal's rhythmic complexity into mathcore-adjacent metalcore. Blake Richardson of Between the Buried and Me runs a Tama Starclassic Bubinga in a custom finish, chosen for the dense, punchy low end BTBAM's genre-hopping technicality needs. Danny Carey of Tool plays a Sonor SQ2 Heavy Beech kit, whose weighty, controlled tone anchors Tool's Fibonacci-structured polyrhythms — a compositional rigor that directly informed math metal and mathcore's own rhythmic ambitions.
+Ben Koller's Tama Starclassic Performer B/B kit has anchored Converge since 2017, its birch/bubinga hybrid shells built for touring durability across his hardcore-rooted, van-touring setup. Matt Greiner of August Burns Red plays a Mapex Black Panther Design Lab kit, a maple/walnut hybrid shell pack he switched to in 2016, carrying math metal's rhythmic complexity into mathcore-adjacent metalcore. Blake Richardson of Between the Buried and Me runs a Tama Starclassic Bubinga in a custom finish, chosen for the dense, punchy low end BTBAM's genre-hopping technicality needs. Danny Carey of Tool plays a Sonor SQ2 Heavy Beech kit, whose weighty, controlled tone anchors Tool's Fibonacci-structured polyrhythms — a compositional rigor that directly informed math metal and mathcore's own rhythmic ambitions.
 
 This guide breaks down what actually makes a kit work for mathcore — durability, tonal clarity, and shell character across constantly shifting meters — and which specific kits these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most rhythmically unpredictable records.`,
       keyPoints: [
-        "Ben Koller's Tama Starclassic Maple has anchored Converge's mathcore-founding sound since \"Jane Doe\" (2001)",
+        "Ben Koller's Tama Starclassic Performer B/B kit has anchored Converge's mathcore-founding sound since 2017",
         "Matt Greiner's Mapex Black Panther Design Lab kit carries math metal complexity into mathcore-adjacent metalcore",
         "Blake Richardson's Tama Starclassic Bubinga suits BTBAM's genre-hopping, dynamically extreme technicality",
         "Danny Carey's Sonor SQ2 Heavy Beech anchors the Fibonacci-structured rigor that informed mathcore's rhythmic ambitions"
@@ -66867,7 +66867,7 @@ This guide breaks down what actually makes a kit work for mathcore — durabilit
         {
           name: "Durability for Hardcore-Rooted Touring",
           icon: "🛡️",
-          description: "Ben Koller's Tama Starclassic Maple has survived over 25 years of Converge's relentless touring schedule. Mathcore's hardcore-punk roots demand a kit that holds tuning and structural integrity through aggressive, high-frequency live shows.",
+          description: "Ben Koller's Tama Starclassic Performer B/B has survived years of Converge's relentless touring schedule. Mathcore's hardcore-punk roots demand a kit that holds tuning and structural integrity through aggressive, high-frequency live shows.",
           recommendation: "Reinforced hardware and quality bearing edges built for demanding, frequent touring"
         },
         {
@@ -66909,43 +66909,43 @@ This guide breaks down what actually makes a kit work for mathcore — durabilit
       pedals: [
         {
           rank: 1,
-          name: "Tama Starclassic Maple",
+          name: "Tama Starclassic Performer B/B",
           brand: "Tama",
-          model: "Starclassic Maple",
+          model: "Starclassic Performer B/B",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€2800-4200 (shell pack)",
+          priceRange: "€1,800-2,800 (shell pack)",
           tier: "pro",
-          material: "6-Ply Maple",
+          material: "Birch/Bubinga Hybrid",
 
-          description: `Ben Koller's Tama Starclassic Maple kit has anchored every Converge record since "Jane Doe" (2001), an album where his fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression. The 6-ply maple shells give warm, projecting tone that has survived 25-plus years of relentless touring without a platform change.
+          description: `Ben Koller's Tama Starclassic Performer B/B kit has anchored Converge since 2017, a birch/bubinga hybrid shell pack whose punchy, direct attack suits his fluid control within apparent rhythmic chaos that turned mathcore's unpredictability into genuine musical expression.
 
 Paired with Zildjian K and A Custom cymbals, Koller's compact, single-kick setup reflects hardcore punk's van-touring practicality — nothing unnecessary, everything purposeful.`,
 
           pros: [
             "Ben Koller's Converge setup — mathcore's founding, most directly documented kit",
-            "6-ply maple shells give warm, projecting tone across dense hardcore mixes",
+            "Birch/bubinga hybrid shells give punchy, direct attack across dense hardcore mixes",
             "Compact single-kick configuration built for van-touring practicality",
-            "Proven across 25-plus years of relentless touring without a platform change",
+            "More accessible pricing than the flagship Walnut/Birch Starclassic",
             "Widely available and well-supported worldwide"
           ],
           cons: [
-            "Premium Starclassic pricing for the full maple shell pack",
-            "Warmer maple voicing may need brighter cymbals for cutting attack",
+            "Less tonal complexity than the flagship Walnut/Birch Starclassic",
+            "Birch/bubinga runs brighter, needing more muffling for maximum low-end weight",
             "Compact configuration limits melodic fill range versus larger multi-tom rigs"
           ],
           specs: {
-            shell: "6-Ply Maple",
+            shell: "Birch/Bubinga Hybrid",
             mount: "Tama Star-Cast",
-            finish: "Multiple lacquer options",
+            finish: "Multiple finishes available",
             kickSize: "22\" x 18\" (single)",
-            tomSizes: "10\"x8\", 12\"x9\" rack / 14\"x14\", 16\"x16\" floor"
+            tomSizes: "10\", 12\", 16\" standard"
           },
           usedBy: [
-            { name: "Ben Koller", band: "Converge", note: "Tama Starclassic Maple — current setup since \"Jane Doe\" (2001)" }
+            { name: "Ben Koller", band: "Converge", note: "Tama Starclassic Performer B/B — current setup since 2017" }
           ],
           verdict: "The mathcore founding standard. Koller's setup defines the genre's hardcore-rooted, tourable kit voice.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_bb_koller.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -67084,7 +67084,7 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
           material: "Poplar/Okoume Hybrid",
           description: "The Tama Imperialstar carries the same Tama family DNA as Ben Koller's and Blake Richardson's professional Starclassic kits at a fraction of the price. It won't match the Starclassic's projection, but it teaches proper odd-time technique on a genuinely durable, Tama-built shell pack.",
           pros: ["Same Tama family DNA as Koller's and Richardson's professional setups", "Durable enough for aggressive hardcore-rooted practice", "Worldwide availability and support"],
-          cons: ["Poplar/okoume shells lack the projection of Starclassic maple or bubinga", "Will need head and cymbal upgrades to sound professional"],
+          cons: ["Poplar/okoume shells lack the projection of the flagship Starclassic shell packs above", "Will need head and cymbal upgrades to sound professional"],
           verdict: "Best budget entry into the Tama mathcore sound.",
           rating: 4.1,
           affiliateLink: "https://www.thomann.de/intl/tama_imperialstar.htm?partner_id=metalforge"
@@ -67140,7 +67140,7 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Starclassic Maple",
+          pedal: "Tama Starclassic Performer B/B",
           reason: "Ben Koller's Converge setup — mathcore's founding, most directly documented kit."
         },
         {
@@ -67169,7 +67169,7 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
       'best-bass-drums-for-mathcore'
     ],
     relatedDrummers: [
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Maple — Converge mathcore\'s founding kit' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B — Converge mathcore\'s founding kit' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Mapex Black Panther Design Lab — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Tama Starclassic Bubinga — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — Tool\'s Fibonacci-structured rigor' }
@@ -67177,7 +67177,7 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Maple — Converge mathcore\'s founding kit' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B — Converge mathcore\'s founding kit' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Mapex Black Panther Design Lab — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Tama Starclassic Bubinga — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — Tool\'s Fibonacci-structured rigor' }
@@ -67187,7 +67187,7 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
     faq: [
       {
         question: "What drum kit does Ben Koller use?",
-        answer: "Ben Koller of Converge plays a Tama Starclassic Maple kit that has anchored every Converge record since \"Jane Doe\" (2001), paired with Zildjian K and A Custom cymbals in a compact, single-kick configuration built for van-touring practicality."
+        answer: "Ben Koller of Converge plays a Tama Starclassic Performer B/B kit that has anchored Converge since 2017, paired with Zildjian K and A Custom cymbals in a compact, single-kick configuration built for van-touring practicality."
       },
       {
         question: "What drum kit does Danny Carey use?",
@@ -67203,14 +67203,14 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
       },
       {
         question: "Do I need an expensive custom kit to play mathcore?",
-        answer: "No — a Tama Imperialstar or Sonor AQ2 shell pack will teach real mathcore technique at a fraction of the price of Ben Koller's Starclassic or Matt Greiner's Design Lab kit. Upgrade once your technique and budget allow for a professional-tier or fully configurable kit."
+        answer: "No — a Tama Imperialstar or Sonor AQ2 shell pack will teach real mathcore technique at a fraction of the price of Ben Koller's Starclassic Performer B/B or Matt Greiner's Design Lab kit. Upgrade once your technique and budget allow for a professional-tier or fully configurable kit."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Mathcore Arsenal",
-      content: `Mathcore drum kits have one job above all others: stay durable and legible under both hardcore-rooted breakdown attack and constantly shifting odd-time fills. Ben Koller's Tama Starclassic Maple, Matt Greiner's Mapex Black Panther Design Lab, Blake Richardson's Tama Starclassic Bubinga, and Danny Carey's Sonor SQ2 Heavy Beech each solve that challenge with a different balance of durability, customization, and tonal weight.
+      content: `Mathcore drum kits have one job above all others: stay durable and legible under both hardcore-rooted breakdown attack and constantly shifting odd-time fills. Ben Koller's Tama Starclassic Performer B/B, Matt Greiner's Mapex Black Panther Design Lab, Blake Richardson's Tama Starclassic Bubinga, and Danny Carey's Sonor SQ2 Heavy Beech each solve that challenge with a different balance of durability, customization, and tonal weight.
 
 Whether you choose a flagship production kit for proven reliability or a configurable shell program for extra tonal control, remember that mathcore's most influential drummers built their sound around fluid control within apparent rhythmic chaos — not gear alone.
 
@@ -74792,7 +74792,7 @@ Blake Richardson runs the HH Duo Splash within his broader Sabian setup for Betw
     ],
     relatedDrummers: [
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: '10" Sabian HH Duo Splash — BTBAM\'s genre-hopping, mathcore-adjacent technicality' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark Series rig — Converge\'s founding mathcore cymbal attack' }
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom & A Custom Series rig — Converge\'s founding mathcore cymbal attack' }
     ],
     relatedComparisons: [],
 
@@ -77351,7 +77351,7 @@ Start with one durable, fast-decaying splash in the 8"-10" range, matched to whi
       title: "Punctuating the Turn From Blast to Breakdown",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket, and that split identity gives a splash cymbal a genuinely useful, specific job: marking the exact pivot point where an extreme-speed blast section drops into a slower, syncopated breakdown. A splash's bright, near-instant decay — typically from an 8" to 12" cymbal — punctuates that transition more precisely than a full-size crash, which tends to ring on into the breakdown's first hits rather than cleanly announcing the change.
 
-None of deathcore's core drummers have a widely documented signature splash rig, so this guide extends what's already established about their crash choices. Chris Turner of Oceans Ate Alaska plays a dry Meinl Byzance Extra Dry Medium Crash built for blast-beat-driven precision. Ben Koller of Converge plays a Zildjian K Dark Medium Thin Crash that carries his hardcore and mathcore intensity. George Kollias of Nile, deathcore's clearest blast-beat benchmark, runs over-hammered Zildjian K Custom Dark Crashes built for 240+ BPM endurance.
+None of deathcore's core drummers have a widely documented signature splash rig, so this guide extends what's already established about their crash choices. Chris Turner of Oceans Ate Alaska plays a dry Meinl Byzance Extra Dry Medium Crash built for blast-beat-driven precision. Ben Koller of Converge plays a Zildjian K Custom & A Custom Medium Thin Crash that carries his hardcore and mathcore intensity. George Kollias of Nile, deathcore's clearest blast-beat benchmark, runs over-hammered Zildjian K Custom Dark Crashes built for 240+ BPM endurance.
 
 This guide covers what actually matters when adding a splash to a deathcore setup — dry control for breakdown weight, fast decay for blast sections, and durability under sustained abuse — with specific recommendations across every budget.`,
       keyPoints: [
@@ -77375,7 +77375,7 @@ This guide covers what actually matters when adding a splash to a deathcore setu
         {
           name: "Dry, Controlled Voicing for Breakdowns",
           icon: "🌑",
-          description: "A dry, controlled splash won't wash out a breakdown's syncopated, moshing-focused hits the way a bright, ringing one might — echoing the same dry control behind Chris Turner's Meinl Byzance Extra Dry Crash and Ben Koller's Zildjian K Dark Medium Thin Crash.",
+          description: "A dry, controlled splash won't wash out a breakdown's syncopated, moshing-focused hits the way a bright, ringing one might — echoing the same dry control behind Chris Turner's Meinl Byzance Extra Dry Crash and Ben Koller's Zildjian K Custom & A Custom Medium Thin Crash.",
           recommendation: "A dry or dark-finish splash for a controlled accent that doesn't wash over breakdown weight"
         },
         {
@@ -77445,16 +77445,16 @@ That dryness matters specifically at the pivot point deathcore's structure depen
         },
         {
           rank: 2,
-          name: "Zildjian K Dark Splash",
+          name: "Zildjian K Custom & A Custom Splash",
           brand: "Zildjian",
-          model: "K Dark Splash 10\"",
+          model: "K Custom & A Custom Splash 10\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€120-150",
           tier: "pro",
           driveType: "B20 Bronze, Dark/Traditional Finish",
-          description: `This splash carries the same dark, controlled intensity behind Ben Koller's Zildjian K Dark Medium Thin Crash across Converge and Mutoid Man, a voicing built for hardcore and mathcore's unpredictable, high-intensity structure — a natural fit for deathcore's own genre-hopping demands.`,
+          description: `This splash carries the same dark, controlled intensity behind Ben Koller's Zildjian K Custom & A Custom Medium Thin Crash across Converge and Mutoid Man, a voicing built for hardcore and mathcore's unpredictable, high-intensity structure — a natural fit for deathcore's own genre-hopping demands.`,
           pros: [
-            "Matches Ben Koller's dark, hardcore/mathcore-intensity K Dark crash voicing",
+            "Matches Ben Koller's hardcore/mathcore-intensity K Custom & A Custom crash voicing",
             "Complex B20 overtones suit deathcore's technical, genre-hopping structure",
             "Controlled decay works well for precise transition accents",
             "Reliable, professional Zildjian build quality"
@@ -77473,7 +77473,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
           usedBy: [],
           verdict: "The best pick for drummers whose deathcore playing leans into hardcore and mathcore intensity.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/zildjian_k_dark_splash_10.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_a_custom_splash_10_koller.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -77586,7 +77586,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
       title: "Dry/Dark vs Fast/Blast-Ready Splash Voicing",
       content: `Splash cymbals for deathcore generally split into two tonal camps, mirroring the genre's own blast-into-breakdown structure:
 
-**Dry/Dark Splashes (Meinl Byzance Extra Dry, Meinl Classics Custom Dark, Zildjian K Dark):**
+**Dry/Dark Splashes (Meinl Byzance Extra Dry, Meinl Classics Custom Dark, Zildjian K Custom & A Custom):**
 - Controlled, non-washy decay that suits breakdown-weighted material and precise transition punctuation
 - The natural extension of Chris Turner's and Ben Koller's dry/dark crash setups
 - Best when your deathcore leans toward crushing breakdowns and controlled precision
@@ -77638,7 +77638,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
     ],
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Extra Dry Medium Crash — Oceans Ate Alaska\'s blast-beat-driven precision, this guide\'s top splash pick' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark Medium Thin Crash — Converge\'s hardcore/mathcore intensity' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom & A Custom Medium Thin Crash — Converge\'s hardcore/mathcore intensity' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
     relatedComparisons: [],
@@ -77655,7 +77655,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
       },
       {
         question: "Dry/dark or fast/bright splash cymbal — which is better for deathcore?",
-        answer: "It depends which side of deathcore's blast-into-breakdown structure your material leans toward. A dry or dark splash (Meinl Byzance Extra Dry, Zildjian K Dark) suits breakdown-heavy writing, in the mold of Chris Turner and Ben Koller. A fast, over-hammered splash (Zildjian K Custom Dark) suits blast-heavy writing, in the mold of George Kollias."
+        answer: "It depends which side of deathcore's blast-into-breakdown structure your material leans toward. A dry or dark splash (Meinl Byzance Extra Dry, Zildjian K Custom & A Custom) suits breakdown-heavy writing, in the mold of Chris Turner and Ben Koller. A fast, over-hammered splash (Zildjian K Custom Dark) suits blast-heavy writing, in the mold of George Kollias."
       },
       {
         question: "What size splash cymbal is best for deathcore?",
@@ -78056,7 +78056,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Stagestar steel snare w
     // SEO metadata
     title: "Best Cymbals for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Deathcore 2026 | MetalForge Expert Guide",
-    description: "Best cymbal picks for deathcore's blast-into-breakdown structure: what Chris Turner (Meinl Byzance), Ben Koller (Zildjian K Dark), and George Kollias (Zildjian K/A Custom) actually play — ranked budget to pro.",
+    description: "Best cymbal picks for deathcore's blast-into-breakdown structure: what Chris Turner (Meinl Byzance), Ben Koller (Zildjian K Custom & A Custom), and George Kollias (Zildjian K/A Custom) actually play — ranked budget to pro.",
     seoKeywords: [
       'best cymbals for deathcore',
       'deathcore cymbals',
@@ -78092,7 +78092,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Stagestar steel snare w
       title: "What Cymbal Setup Handles Deathcore's Blast-Into-Breakdown Structure?",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on a cymbal setup. A single song can alternate between extreme-speed blast beat verses, where hi-hats and rides need to stay articulate at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where dry, controlled crashes and a heavy china need to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on Meinl Byzance Series cymbals — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, a 22" Dual Ride, and an 18" Extra Dry China — engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range on Zildjian K Dark Series cymbals. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on Zildjian K Mastersound, K Custom Dark, and A Custom cymbals.
+Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on Meinl Byzance Series cymbals — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, a 22" Dual Ride, and an 18" Extra Dry China — engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range on Zildjian K Custom & A Custom Series cymbals. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on Zildjian K Mastersound, K Custom Dark, and A Custom cymbals.
 
 This guide breaks down hi-hat, crash, ride, and china choices for deathcore — comparing three drummers whose metalcore, hardcore, and technical death metal lineages fed directly into the genre, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -78133,7 +78133,7 @@ This guide breaks down hi-hat, crash, ride, and china choices for deathcore — 
         {
           name: "Brightness vs. Darkness Tradeoff",
           icon: "⚖️",
-          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K/A Custom lean brighter for cutting projection, while Ben Koller's Zildjian K Dark leans darker for a trashier, more crushing breakdown voice.",
+          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K/A Custom lean brighter for cutting projection, while Ben Koller's Zildjian K Custom & A Custom leans darker for a trashier, more crushing breakdown voice.",
           recommendation: "Brighter voicing for blast-beat cut; darker voicing for maximum breakdown weight"
         },
         {
@@ -78190,15 +78190,15 @@ Turner's progressive metalcore precision translates directly to deathcore's blas
         },
         {
           rank: 2,
-          name: "Zildjian K Dark Series",
+          name: "Zildjian K Custom & A Custom Series",
           brand: "Zildjian",
-          model: "K Dark Series (14\" Hi-Hats, 18\"&19\" Crashes, 21\" Ride, 18\" China)",
+          model: "K Custom & A Custom Series (14\" Hi-Hats, 18\"&19\" Crashes, 21\" Ride, 18\" China)",
           image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
           priceRange: "€220-450 per cymbal",
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `Ben Koller of Converge, Mutoid Man, and Killer Be Killed brings hardcore punk and mathcore's blistering speed and creative dynamics to his Zildjian K Dark Series setup — 14" K Dark Thin Hi-Hats for a dry, trashy chick, 18" & 19" K Dark Medium Thin Crashes for explosive, rapid-decay accents, a 21" K Custom Ride for controlled rhythmic definition, and an 18" K China for brutal, cutting punctuation.
+          description: `Ben Koller of Converge, Mutoid Man, and Killer Be Killed brings hardcore punk and mathcore's blistering speed and creative dynamics to his Zildjian K Custom & A Custom Series setup — 14" K Custom & A Custom Thin Hi-Hats for a dry, trashy chick, 18" & 19" K Custom & A Custom Medium Thin Crashes for explosive, rapid-decay accents, a 21" K Custom Ride for controlled rhythmic definition, and an 18" K China for brutal, cutting punctuation.
 
 Koller's approach prioritizes power and organic dynamics over trigger-augmented precision, an approach that translates directly to deathcore drummers who need cymbals to deliver both extreme speed and crushing breakdown weight from a single, versatile B20 setup.`,
 
@@ -78215,17 +78215,17 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
             "Thinner crashes may wear faster under maximum-force breakdown hits"
           ],
           specs: {
-            hiHats: "14\" Zildjian K Dark Thin",
-            crashes: "18\" & 19\" Zildjian K Dark Medium Thin",
+            hiHats: "14\" Zildjian K Custom & A Custom Thin",
+            crashes: "18\" & 19\" Zildjian K Custom & A Custom Medium Thin",
             ride: "21\" Zildjian K Custom",
             china: "18\" Zildjian K"
           },
           usedBy: [
-            { name: "Ben Koller", band: "Converge / Mutoid Man", note: "Zildjian K Dark Series — hardcore/mathcore intensity feeding deathcore's breakdown vocabulary" }
+            { name: "Ben Koller", band: "Converge / Mutoid Man", note: "Zildjian K Custom & A Custom Series — hardcore/mathcore intensity feeding deathcore's breakdown vocabulary" }
           ],
           verdict: "Best for organic power and dynamics. Koller's dark, versatile setup handles both speed and breakdown weight.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/zildjian_k_dark_ben_koller_setup.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_a_custom_ben_koller_setup.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -78307,7 +78307,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 
     // Comparison
     comparison: {
-      title: "Meinl Byzance vs Zildjian K Dark/K/A Custom for Deathcore",
+      title: "Meinl Byzance vs Zildjian K Custom & A Custom/K/A Custom for Deathcore",
       content: `China cymbals and B20 bronze construction stay consistent across deathcore's closest lineage, but voicing and brand choice split these drummers into distinct camps. Here's how they compare:
 
 **Meinl Byzance (Chris Turner):**
@@ -78315,9 +78315,9 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 - Extra Dry voicing stays controlled through syncopated breakdown accents
 - Best for technical, blast-beat-driven deathcore
 
-**Zildjian K Dark / K/A Custom (Ben Koller, George Kollias):**
+**Zildjian K Custom & A Custom / K/A Custom (Ben Koller, George Kollias):**
 - Versatile B20 bronze setups spanning organic dynamics to extreme-speed clarity
-- K Dark favors dynamic range; K/A Custom favors blast-beat definition
+- K Custom & A Custom favors dynamic range; K/A Custom favors blast-beat definition
 - Best for drummers who need both extreme speed and crushing breakdown weight
 
 **Our Recommendation:** Start with a Meinl HCS or Zildjian ZBT set if you're building deathcore technique on a budget. Choose Chris Turner's Meinl Byzance setup for technical blast-and-breakdown balance. Go with George Kollias's Zildjian K/A Custom setup if you need to sustain deathcore's absolute fastest blast sections.`,
@@ -78359,14 +78359,14 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     ],
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance — Oceans Ate Alaska\'s blast-beat-driven deathcore-adjacent precision' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark — Converge\'s hardcore/mathcore intensity' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom & A Custom — Converge\'s hardcore/mathcore intensity' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K/A Custom — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance — Oceans Ate Alaska\'s blast-beat-driven deathcore-adjacent precision' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark — Converge\'s hardcore/mathcore intensity' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom & A Custom — Converge\'s hardcore/mathcore intensity' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K/A Custom — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
 
@@ -78374,7 +78374,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     faq: [
       {
         question: "What cymbals do deathcore-adjacent drummers use?",
-        answer: "Chris Turner of Oceans Ate Alaska plays Meinl Byzance Series cymbals. Ben Koller of Converge plays Zildjian K Dark Series, and George Kollias of Nile plays a Zildjian K Mastersound/K Custom Dark/A Custom setup."
+        answer: "Chris Turner of Oceans Ate Alaska plays Meinl Byzance Series cymbals. Ben Koller of Converge plays Zildjian K Custom & A Custom Series, and George Kollias of Nile plays a Zildjian K Mastersound/K Custom Dark/A Custom setup."
       },
       {
         question: "What china cymbal size is best for deathcore breakdowns?",
@@ -78382,7 +78382,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
       },
       {
         question: "Should deathcore cymbals be bright or dark?",
-        answer: "It depends on which half of the song you're prioritizing. Bright cymbals (Chris Turner's Meinl Byzance, George Kollias's Zildjian K/A Custom) cut through blast-beat sections with clear articulation. Dark cymbals (Ben Koller's Zildjian K Dark) add crushing weight to breakdown sections. Many deathcore drummers mix both voicings in one setup."
+        answer: "It depends on which half of the song you're prioritizing. Bright cymbals (Chris Turner's Meinl Byzance, George Kollias's Zildjian K/A Custom) cut through blast-beat sections with clear articulation. Dark cymbals (Ben Koller's Zildjian K Custom & A Custom) add crushing weight to breakdown sections. Many deathcore drummers mix both voicings in one setup."
       },
       {
         question: "Why does deathcore need a different cymbal setup than straightforward metalcore?",
@@ -78397,7 +78397,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Cymbal Setup",
-      content: `Deathcore cymbal choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Meinl Byzance setup shows how progressive metalcore precision translates directly into deathcore-adjacent territory. Ben Koller's Zildjian K Dark setup demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary, while George Kollias's Zildjian K/A Custom setup defined the extreme-speed benchmark the genre's fastest sections measure themselves against.
+      content: `Deathcore cymbal choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Meinl Byzance setup shows how progressive metalcore precision translates directly into deathcore-adjacent territory. Ben Koller's Zildjian K Custom & A Custom setup demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary, while George Kollias's Zildjian K/A Custom setup defined the extreme-speed benchmark the genre's fastest sections measure themselves against.
 
 None of these approaches is more "correct" — all three represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever voicing matches your material's balance of blast beats versus breakdowns, and don't be afraid to mix bright and dark cymbals in the same setup.
 
@@ -96558,7 +96558,7 @@ Whatever you choose, prioritize choked decay and chick precision over natural wa
     // SEO metadata
     title: "Best Hi-Hats for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Deathcore 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in deathcore? Discover what Chris Turner (Meinl Byzance Dual), Ben Koller (Zildjian K Dark), and George Kollias (Zildjian K Mastersound) actually play — blast-beat-durable hi-hats built for deathcore's blast-into-breakdown structure, from budget to pro.",
+    description: "What hi-hats are used in deathcore? Discover what Chris Turner (Meinl Byzance Dual), Ben Koller (Zildjian K Custom & A Custom), and George Kollias (Zildjian K Mastersound) actually play — blast-beat-durable hi-hats built for deathcore's blast-into-breakdown structure, from budget to pro.",
     seoKeywords: [
       'best hi-hats for deathcore',
       'deathcore hi-hats',
@@ -96594,7 +96594,7 @@ Whatever you choose, prioritize choked decay and chick precision over natural wa
       title: "What Hi-Hats Are Used in Deathcore?",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on a hi-hat. A single song can alternate between extreme-speed blast-beat verses, where the hi-hat needs to stay articulate and durable at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where a dry, controlled chick needs to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on 15" Dual Hi-Hats from the Meinl Byzance Series, part of a broader setup engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range on Zildjian K Dark hi-hats. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on 14" Zildjian K Mastersound Hi-Hats, voiced specifically for dry, cutting articulation at sustained high-speed patterns.
+Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on 15" Dual Hi-Hats from the Meinl Byzance Series, part of a broader setup engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range on Zildjian K Custom & A Custom hi-hats. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on 14" Zildjian K Mastersound Hi-Hats, voiced specifically for dry, cutting articulation at sustained high-speed patterns.
 
 This guide breaks down what makes a great deathcore hi-hat — blast-beat durability, breakdown weight, and dynamic range — and which specific models these three influential drummers rely on, from budget starter pairs to the professional setups behind deathcore's most punishing records.`,
       keyPoints: [
@@ -96629,7 +96629,7 @@ This guide breaks down what makes a great deathcore hi-hat — blast-beat durabi
         {
           name: "Dynamic Range Across Blast-to-Breakdown Shifts",
           icon: "⚖️",
-          description: "A single deathcore song can swing from a 240+ BPM blast beat straight into a half-time breakdown within seconds. Ben Koller's Zildjian K Dark hi-hats stay articulate at extreme speed while still delivering the dynamic range and weight breakdown sections demand.",
+          description: "A single deathcore song can swing from a 240+ BPM blast beat straight into a half-time breakdown within seconds. Ben Koller's Zildjian K Custom & A Custom hi-hats stay articulate at extreme speed while still delivering the dynamic range and weight breakdown sections demand.",
           recommendation: "Medium weight hi-hats that respond cleanly across both blast-beat and breakdown extremes"
         },
         {
@@ -96726,21 +96726,21 @@ The Dual Hi-Hats' blended bright-and-dark voicing gives Turner the technical, bl
         },
         {
           rank: 3,
-          name: "Zildjian K Dark Hi-Hats",
+          name: "Zildjian K Custom & A Custom Hi-Hats",
           brand: "Zildjian",
-          model: "K Dark Hi-Hats 14\"",
+          model: "K Custom & A Custom Hi-Hats 14\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€280-380 per pair",
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range to his Zildjian K Dark Hi-Hats setup. The K Dark's warm, complex overtones stay articulate through Converge's rapid tempo shifts and dynamic extremes, from blast-adjacent speed to sparse, atmospheric breakdowns.
+          description: `Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range to his Zildjian K Custom & A Custom Hi-Hats setup. The pairing's warm, complex overtones stay articulate through Converge's rapid tempo shifts and dynamic extremes, from blast-adjacent speed to sparse, atmospheric breakdowns.
 
 Koller's setup shows deathcore's hardcore and mathcore lineage in action — a hi-hat voice built for dynamic range and durability across genuinely unpredictable, tempo-shifting material rather than a single fixed tempo.`,
 
           pros: [
             "Ben Koller's Converge/Mutoid Man setup — hardcore and mathcore's dynamic range and speed",
-            "Warm K Dark overtones stay articulate across rapid tempo shifts",
+            "Warm K Custom & A Custom overtones stay articulate across rapid tempo shifts",
             "Durable enough for Converge's relentless touring schedule",
             "Proven across decades of hardcore and mathcore-adjacent extremity"
           ],
@@ -96751,17 +96751,17 @@ Koller's setup shows deathcore's hardcore and mathcore lineage in action — a h
           ],
           specs: {
             material: "B20 bronze",
-            finish: "K Dark",
+            finish: "K Custom & A Custom",
             weight: "Medium",
             diameter: "14\"",
-            series: "K Dark"
+            series: "K Custom & A Custom Series"
           },
           usedBy: [
-            { name: "Ben Koller", band: "Converge", note: "14\" K Dark Hi-Hats — hardcore and mathcore dynamic range" }
+            { name: "Ben Koller", band: "Converge", note: "14\" K Custom & A Custom Hi-Hats — hardcore and mathcore dynamic range" }
           ],
           verdict: "Best for dynamically unpredictable, tempo-shifting deathcore. Koller's setup handles it all.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/zildjian_k_dark_hi_hats.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_a_custom_hi_hats_koller.htm?partner_id=metalforge"
         },
       ]
     },
@@ -96798,12 +96798,12 @@ Koller's setup shows deathcore's hardcore and mathcore lineage in action — a h
 - Suits technical, blast-beat-driven verses and fills
 - The extreme-speed benchmark deathcore's fastest sections measure against
 
-**Breakdown-Weighted (Zildjian K Dark — Ben Koller's choice):**
+**Breakdown-Weighted (Zildjian K Custom & A Custom — Ben Koller's choice):**
 - Dark, controlled voicing built for crushing, moshable weight
 - Suits hardcore-leaning, breakdown-first deathcore
 - Warmer overtones with more dynamic range across tempo shifts
 
-**Deathcore Verdict:** Choose blast-beat articulate (K Mastersound or Byzance Dual) if your material leans into Nile-style technical extremity. Choose breakdown-weighted (K Dark) if your material leans into Converge-style hardcore weight and dynamic range.`,
+**Deathcore Verdict:** Choose blast-beat articulate (K Mastersound or Byzance Dual) if your material leans into Nile-style technical extremity. Choose breakdown-weighted (K Custom & A Custom) if your material leans into Converge-style hardcore weight and dynamic range.`,
       comparisonTable: [
         { feature: "Blast-Beat Articulation", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Breakdown Weight", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -96829,7 +96829,7 @@ Koller's setup shows deathcore's hardcore and mathcore lineage in action — a h
         },
         {
           category: "Best for Dynamic Range",
-          pedal: "Zildjian K Dark Hi-Hats",
+          pedal: "Zildjian K Custom & A Custom Hi-Hats",
           reason: "Ben Koller's setup handles Converge's unpredictable, tempo-shifting material."
         }
       ]
@@ -96844,14 +96844,14 @@ Koller's setup shows deathcore's hardcore and mathcore lineage in action — a h
     ],
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Dual 15" Hi-Hats — Oceans Ate Alaska technical blast-beat precision' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark Hi-Hats — Converge hardcore and mathcore dynamic range' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom & A Custom Hi-Hats — Converge hardcore and mathcore dynamic range' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Mastersound 14" Hi-Hats — Nile extreme-speed blast-beat benchmark' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Dual Hi-Hats — Oceans Ate Alaska technical blast-beat precision' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark Hi-Hats — Converge hardcore and mathcore dynamic range' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom & A Custom Hi-Hats — Converge hardcore and mathcore dynamic range' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Mastersound Hi-Hats — Nile\'s extreme-speed blast-beat benchmark' },
     ],
 
@@ -96859,7 +96859,7 @@ Koller's setup shows deathcore's hardcore and mathcore lineage in action — a h
     faq: [
       {
         question: "What hi-hats are used in deathcore?",
-        answer: "George Kollias of Nile uses 14\" Zildjian K Mastersound Hi-Hats for extreme-speed blast-beat articulation. Chris Turner of Oceans Ate Alaska uses 15\" Meinl Byzance Dual Hi-Hats. Ben Koller of Converge uses Zildjian K Dark Hi-Hats for dynamic range."
+        answer: "George Kollias of Nile uses 14\" Zildjian K Mastersound Hi-Hats for extreme-speed blast-beat articulation. Chris Turner of Oceans Ate Alaska uses 15\" Meinl Byzance Dual Hi-Hats. Ben Koller of Converge uses Zildjian K Custom & A Custom Hi-Hats for dynamic range."
       },
       {
         question: "What hi-hats does George Kollias use?",
@@ -96871,20 +96871,20 @@ Koller's setup shows deathcore's hardcore and mathcore lineage in action — a h
       },
       {
         question: "Best hi-hats for blast beats and breakdowns in the same song?",
-        answer: "Ben Koller's Zildjian K Dark Hi-Hats and Chris Turner's Meinl Byzance Dual Hi-Hats both offer strong dynamic range across deathcore's blast-into-breakdown structure. For maximum blast-beat articulation specifically, George Kollias's Zildjian K Mastersound is the extreme-speed benchmark; for maximum breakdown weight, Ben Koller's Zildjian K Dark leads."
+        answer: "Ben Koller's Zildjian K Custom & A Custom Hi-Hats and Chris Turner's Meinl Byzance Dual Hi-Hats both offer strong dynamic range across deathcore's blast-into-breakdown structure. For maximum blast-beat articulation specifically, George Kollias's Zildjian K Mastersound is the extreme-speed benchmark; for maximum breakdown weight, Ben Koller's Zildjian K Custom & A Custom leads."
       },
       {
         question: "Blast-beat or breakdown hi-hats for deathcore?",
-        answer: "Both matter, but which you prioritize depends on your material. Blast-beat articulate hi-hats (Zildjian K Mastersound, Kollias's choice; Meinl Byzance Dual, Turner's choice) suit technical, Nile-style extremity. Breakdown-weighted hi-hats (Zildjian K Dark, Koller's choice) suit hardcore-leaning, moshable material."
+        answer: "Both matter, but which you prioritize depends on your material. Blast-beat articulate hi-hats (Zildjian K Mastersound, Kollias's choice; Meinl Byzance Dual, Turner's choice) suit technical, Nile-style extremity. Breakdown-weighted hi-hats (Zildjian K Custom & A Custom, Koller's choice) suit hardcore-leaning, moshable material."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Hi-Hat Voice",
-      content: `Deathcore hi-hats split according to the genre's own blast-into-breakdown structure: George Kollias's Zildjian K Mastersound and Chris Turner's Meinl Byzance Dual both prioritize extreme-speed blast-beat articulation, while Ben Koller's Zildjian K Dark prioritizes crushing breakdown weight and dynamic range.
+      content: `Deathcore hi-hats split according to the genre's own blast-into-breakdown structure: George Kollias's Zildjian K Mastersound and Chris Turner's Meinl Byzance Dual both prioritize extreme-speed blast-beat articulation, while Ben Koller's Zildjian K Custom & A Custom prioritizes crushing breakdown weight and dynamic range.
 
-If you play technical, blast-beat-heavy deathcore, start with a 14" Zildjian K Mastersound pair or the budget Sabian AAX Stage — both stay articulate at extreme tempo. If you play breakdown-first, hardcore-leaning deathcore, Zildjian K Dark will give you the crushing, moshable weight your playing demands.
+If you play technical, blast-beat-heavy deathcore, start with a 14" Zildjian K Mastersound pair or the budget Sabian AAX Stage — both stay articulate at extreme tempo. If you play breakdown-first, hardcore-leaning deathcore, Zildjian K Custom & A Custom will give you the crushing, moshable weight your playing demands.
 
 Whatever you choose, prioritize durability above almost everything else — deathcore's blast-into-breakdown structure punishes hi-hats over a full set like few other subgenres, and a durable, well-chosen pair needs to survive both extremes.
 

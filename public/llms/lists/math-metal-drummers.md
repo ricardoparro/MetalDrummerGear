@@ -20,9 +20,9 @@ Ranked by documented performance records, genre-defining influence, and technica
 
 **Band:** Meshuggah
 **Highlight:** Meshuggah's polymetric founding father
-**Why ranked here:** Tomas Haake's polyrhythmic drumming style with Meshuggah since 1989, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop.
+**Why ranked here:** Tomas Haake's polyrhythmic drumming style with Meshuggah since 1990, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop.
 
-Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's polyrhythmic drumming style with Meshuggah since 1989, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop..
+Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's polyrhythmic drumming style with Meshuggah since 1990, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop..
 
 Full drummer profile: [Tomas Haake on MetalForge](https://metalforge.io/drummer/tomas-haake)
 
@@ -119,7 +119,7 @@ Drummer #62 (Unknown) earns rank #10 for: august burns red's jazz-informed techn
 ## Frequently Asked Questions
 
 **Q: Who is the best math metal drummer?**
-A: Tomas Haake of Meshuggah is the definitive answer, his polyrhythmic, mathematically precise drumming since the late 1980s establishing the rhythmic template math metal and djent both grew from. Between the Buried and Me's Blake Richardson and Dillinger Escape Plan's drumming lineage — the genre's mathcore-founding acts — don't yet have dedicated MetalForge profiles. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, and Hannes Grossmann of Obscura follows closely for classically-informed rhythmic precision.
+A: Tomas Haake of Meshuggah is the definitive answer, his polyrhythmic, mathematically precise drumming since 1990 establishing the rhythmic template math metal and djent both grew from. Between the Buried and Me's Blake Richardson and Dillinger Escape Plan's drumming lineage — the genre's mathcore-founding acts — don't yet have dedicated MetalForge profiles. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, and Hannes Grossmann of Obscura follows closely for classically-informed rhythmic precision.
 
 **Q: What is math metal?**
 A: Math metal fuses death metal and hardcore's aggression with mathcore and progressive rock's obsession with odd meters and asymmetrical riffing. Dillinger Escape Plan and Botch built the genre's chaotic mathcore foundation in the late 1990s, Meshuggah's polymetric precision gave rise to the closely related djent movement, and Between the Buried and Me and Animals as Leaders pushed the genre's rhythmic ambition into progressive and jazz-fusion-informed territory through the 2000s and 2010s.

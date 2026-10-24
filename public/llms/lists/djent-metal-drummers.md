@@ -20,9 +20,9 @@ Ranked by documented performance records, genre-defining influence, and technica
 
 **Band:** Meshuggah
 **Highlight:** Meshuggah's polymetric founding father
-**Why ranked here:** Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1989 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove
+**Why ranked here:** Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1990 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove
 
-Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1989 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove.
+Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1990 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove.
 
 Full drummer profile: [Tomas Haake on MetalForge](https://metalforge.io/drummer/tomas-haake)
 
@@ -117,7 +117,7 @@ Full drummer profile: [Danny Carey on MetalForge](https://metalforge.io/drummer/
 ## Frequently Asked Questions
 
 **Q: Who is the best djent drummer?**
-A: Tomas Haake of Meshuggah is the definitive djent drummer — his metronomic, polymetric drumming since the late 1980s built the rhythmic template the entire genre grew from. Matt Halpern of Periphery is the answer for djent's commercial breakthrough, bringing polyrhythmic complexity and electronic production sensibility to djent's most successful band. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, pushing djent's rhythmic vocabulary into jazz-fusion territory.
+A: Tomas Haake of Meshuggah is the definitive djent drummer — his metronomic, polymetric drumming since 1990 built the rhythmic template the entire genre grew from. Matt Halpern of Periphery is the answer for djent's commercial breakthrough, bringing polyrhythmic complexity and electronic production sensibility to djent's most successful band. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, pushing djent's rhythmic vocabulary into jazz-fusion territory.
 
 **Q: What is djent drumming?**
 A: Djent drumming is built around tight, syncopated interplay with palm-muted, polymetric guitar riffs — the drummer locks into interlocking, often odd-grouped rhythmic cells (like 5s and 7s layered over a steady pulse) rather than playing straightforward backbeats. Where most metal drumming drives the song's energy independently, djent drumming is inseparable from the guitar riff it accompanies, requiring the drummer to internalize complex polymeters while still keeping the groove danceable and heavy.

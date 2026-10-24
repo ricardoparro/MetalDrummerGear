@@ -50,9 +50,9 @@ Full drummer profile: [Flo Mounier on MetalForge](https://metalforge.io/drummer/
 
 **Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse — 35+ years of brutal technical death metal consistency
-**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal technical death metal standard for over 35 years across 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in technical death metal history
+**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal technical death metal standard for over 35 years across 16 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in technical death metal history
 
-Paul Mazurkiewicz (Cannibal Corpse) earns rank #4 for: cannibal corpse — 35+ years of brutal technical death metal consistency. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal technical death metal standard for over 35 years across 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in technical death metal history.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #4 for: cannibal corpse — 35+ years of brutal technical death metal consistency. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal technical death metal standard for over 35 years across 16 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in technical death metal history.
 
 Full drummer profile: [Paul Mazurkiewicz on MetalForge](https://metalforge.io/drummer/paul-mazurkiewicz)
 

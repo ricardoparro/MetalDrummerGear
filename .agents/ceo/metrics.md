@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-24 07:05 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-24 08:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 399 |
-| Sessions | 458 |
-| Page views | 619 |
-| Engagement rate | 59.83% |
-| Avg session (s) | 255 |
+| Active users | 401 |
+| Sessions | 460 |
+| Page views | 621 |
+| Engagement rate | 59.78% |
+| Avg session (s) | 254 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 356 | 298 |
+| Organic Search | 358 | 300 |
 | Direct | 99 | 99 |
 | Unassigned | 10 | 9 |
 | AI Assistant | 1 | 1 |
@@ -54,38 +54,38 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 18,303 |
-| Clicks | 185 |
-| CTR | 1.01% |
+| Impressions | 21,706 |
+| Clicks | 218 |
+| CTR | 1.00% |
 | Avg position | 8.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 53 | 2 | 3.77% | 9.6 |
-| matt greiner drum setup | 12 | 2 | 16.67% | 7.2 |
-| best metal drummers | 12 | 1 | 8.33% | 12.9 |
+| joey jordison drum kit | 64 | 2 | 3.13% | 9.7 |
+| matt greiner drum setup | 13 | 2 | 15.38% | 7.1 |
+| best metal drummers | 15 | 1 | 6.67% | 12.4 |
 | bill ward cymbals | 3 | 1 | 33.33% | 7.7 |
-| bill ward drum kit | 10 | 1 | 10.00% | 5.8 |
+| bill ward drum kit | 13 | 1 | 7.69% | 4.9 |
 | brann dailor kit | 6 | 1 | 16.67% | 4.0 |
 | can you show me some images | 1 | 1 | 100.00% | 9.0 |
+| death metal drum kit | 4 | 1 | 25.00% | 4.3 |
+| frost drums | 2 | 1 | 50.00% | 3.5 |
 | gojira drum set | 2 | 1 | 50.00% | 4.0 |
-| igor cavalera drum kit | 3 | 1 | 33.33% | 4.3 |
-| jaska raatikainen drum set | 7 | 1 | 14.29% | 4.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,299 | 67 | 2.03% | 8.2 |
-| gbr | 1,016 | 13 | 1.28% | 8.9 |
-| aus | 585 | 8 | 1.37% | 8.6 |
-| ita | 272 | 8 | 2.94% | 7.7 |
-| can | 635 | 7 | 1.10% | 8.2 |
-| bra | 2,040 | 5 | 0.25% | 7.8 |
-| fra | 398 | 5 | 1.26% | 8.5 |
-| tur | 114 | 5 | 4.39% | 8.5 |
-| deu | 358 | 4 | 1.12% | 7.5 |
-| pol | 251 | 4 | 1.59% | 7.9 |
+| usa | 3,982 | 77 | 1.93% | 8.1 |
+| gbr | 1,186 | 16 | 1.35% | 9.0 |
+| aus | 701 | 10 | 1.43% | 8.6 |
+| can | 761 | 8 | 1.05% | 8.3 |
+| ita | 321 | 8 | 2.49% | 7.9 |
+| swe | 215 | 6 | 2.79% | 7.1 |
+| tur | 128 | 6 | 4.69% | 8.1 |
+| bra | 2,408 | 5 | 0.21% | 8.0 |
+| deu | 411 | 5 | 1.22% | 7.6 |
+| fra | 467 | 5 | 1.07% | 8.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

@@ -1527,6 +1527,14 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Vic Firth 5A American Classic sticks, established alongside his original Pearl endorsement',
       },
       {
+        year: 2005,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.CYMBALS,
+        from: null,
+        to: 'Zildjian',
+        notes: 'Zildjian ZXT cymbals, adopted alongside the switch to a Yamaha Recording Custom kit for "Once Was Not"',
+      },
+      {
         year: 2012,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.CYMBALS,

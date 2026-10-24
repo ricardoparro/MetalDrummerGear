@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-23 19:13 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-24 00:27 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,84 +8,84 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 422 |
-| Sessions | 483 |
-| Page views | 662 |
-| Engagement rate | 59.83% |
-| Avg session (s) | 323 |
+| Active users | 383 |
+| Sessions | 438 |
+| Page views | 595 |
+| Engagement rate | 59.36% |
+| Avg session (s) | 253 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 25 | 17 |
-| /drummer/frost | 15 | 7 |
-| /drummer/matt-greiner | 12 | 8 |
-| /drummers/mike-portnoy/evolution | 11 | 4 |
+| / | 21 | 15 |
+| /drummer/frost | 13 | 5 |
 | /drummer/john-otto | 10 | 9 |
-| /drummer/mario-duplantier | 10 | 9 |
 | /drummer/joey-jordison | 9 | 7 |
 | /guides/best-in-ear-monitors-for-metal-drummers | 9 | 7 |
 | /articles/slipknot-self-titled-drum-setup | 8 | 7 |
-| /drummer/bill-ward | 7 | 7 |
+| /drummer/mario-duplantier | 8 | 7 |
+| /drummer/bill-ward | 6 | 6 |
+| /drummer/hellhammer | 6 | 5 |
+| /drummer/matt-greiner | 6 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 376 | 316 |
-| Direct | 105 | 104 |
-| Unassigned | 5 | 4 |
+| Organic Search | 341 | 287 |
+| Direct | 94 | 94 |
+| Unassigned | 9 | 8 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 161 | 139 |
-| Singapore | 49 | 49 |
-| United Kingdom | 37 | 23 |
+| United States | 143 | 122 |
+| Singapore | 41 | 41 |
+| United Kingdom | 34 | 20 |
 | China | 30 | 30 |
-| Canada | 19 | 15 |
-| Australia | 15 | 12 |
-| Brazil | 13 | 11 |
-| Germany | 13 | 12 |
-| France | 10 | 9 |
-| Poland | 10 | 8 |
+| Australia | 15 | 11 |
+| Canada | 14 | 11 |
+| Germany | 12 | 11 |
+| Brazil | 10 | 9 |
+| France | 9 | 8 |
+| Netherlands | 9 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 21,439 |
-| Clicks | 218 |
-| CTR | 1.02% |
+| Impressions | 18,303 |
+| Clicks | 185 |
+| CTR | 1.01% |
 | Avg position | 8.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| bill ward drum kit | 12 | 2 | 16.67% | 5.8 |
-| jaska raatikainen drum set | 8 | 2 | 25.00% | 3.6 |
-| joey jordison drum kit | 67 | 2 | 2.99% | 9.4 |
-| matt greiner cymbals | 10 | 2 | 20.00% | 8.1 |
-| matt greiner drum setup | 17 | 2 | 11.76% | 7.3 |
-| best cymbals for metal | 15 | 1 | 6.67% | 11.6 |
-| best metal drummers | 14 | 1 | 7.14% | 12.3 |
+| joey jordison drum kit | 53 | 2 | 3.77% | 9.6 |
+| matt greiner drum setup | 12 | 2 | 16.67% | 7.2 |
+| best metal drummers | 12 | 1 | 8.33% | 12.9 |
 | bill ward cymbals | 3 | 1 | 33.33% | 7.7 |
+| bill ward drum kit | 10 | 1 | 10.00% | 5.8 |
 | brann dailor kit | 6 | 1 | 16.67% | 4.0 |
 | can you show me some images | 1 | 1 | 100.00% | 9.0 |
+| gojira drum set | 2 | 1 | 50.00% | 4.0 |
+| igor cavalera drum kit | 3 | 1 | 33.33% | 4.3 |
+| jaska raatikainen drum set | 7 | 1 | 14.29% | 4.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,955 | 82 | 2.07% | 8.1 |
-| gbr | 1,168 | 15 | 1.28% | 8.8 |
-| aus | 676 | 8 | 1.18% | 8.8 |
-| can | 711 | 8 | 1.13% | 8.2 |
-| ita | 323 | 8 | 2.48% | 7.7 |
-| fra | 469 | 7 | 1.49% | 8.4 |
-| deu | 431 | 6 | 1.39% | 7.4 |
-| bra | 2,370 | 5 | 0.21% | 7.8 |
-| fin | 189 | 5 | 2.65% | 6.8 |
-| nor | 109 | 5 | 4.59% | 7.5 |
+| usa | 3,299 | 67 | 2.03% | 8.2 |
+| gbr | 1,016 | 13 | 1.28% | 8.9 |
+| aus | 585 | 8 | 1.37% | 8.6 |
+| ita | 272 | 8 | 2.94% | 7.7 |
+| can | 635 | 7 | 1.10% | 8.2 |
+| bra | 2,040 | 5 | 0.25% | 7.8 |
+| fra | 398 | 5 | 1.26% | 8.5 |
+| tur | 114 | 5 | 4.39% | 8.5 |
+| deu | 358 | 4 | 1.12% | 7.5 |
+| pol | 251 | 4 | 1.59% | 7.9 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

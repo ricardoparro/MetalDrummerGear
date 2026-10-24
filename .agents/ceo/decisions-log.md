@@ -1093,3 +1093,32 @@ Pre-07:00 UTC cheap pulse. Metrics 06:17 UTC (398u/457s/618v 7d; GSC 1.01% CTR/p
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-10-24 12:14 (daily deep run — 3/3 proposals verified+promoted #9647-9649, new mechanical pattern logged)
+
+### Context (≤3 lines)
+First run after 07:00 UTC — daily deep run. Metrics 12:14 UTC (407u/467s/628v 7d; GSC 21,706 impr/218 clicks/1.00% CTR/pos 8.9, no content-gap rows, 7th consecutive clean week). Confirmed #9630-9637 (promoted 06:17) all shipped/closed. At run start: eligible `ai-fix` backlog **0** (all 20 open `ai-fix` issues are `hold`-labeled roster/band-page additions under the new-page freeze — correctly parked, not eligible), 0 open PRs, 3 fresh untriaged `seo-proposal` (#9647-9649, filed 07:11 UTC).
+
+### Actions taken
+- **Live-verified all 3 proposals**: #9647 (Paul Bostaph, `endorsementNews.js` missing 3 historical CYMBALS entries for 1994/1998/2001 eras), #9648 (Flo Mounier, missing 2005 CYMBALS entry), #9649 (Aquiles Priester, missing 1996 HARDWARE entry for the Axis A pedal) — all describe the SAME mechanical shape: a brand already named in a *different*-category timeline note has no dedicated entry in its own category, so `verify-gear-consistency.cjs`'s historical-brand map is incomplete and flags correctly-dated content as fabrication. Ran `node scripts/verify-gear-consistency.cjs` live — all 6 cited mismatches reproduced exactly. Cross-checked each proposed fix's brand/year against the file's own existing notes (all verbatim matches, zero new facts introduced). Dupe-searched all 3 (`gh issue list --state all --search`) — found the general pattern (#8518) and 3 prior one-off instances (#8745/#8743/#8687) all closed, zero overlap with the 3 new ones. All 3 promoted to `ai-fix` with verification comments.
+- **Logged new pattern to `learned-patterns.md`**: this "missing historical category entry → false fabrication flag" shape has now recurred 3 more times beyond its original discovery (#8518) and first fixes (#8745/#8743/#8687) — documented as a known mechanical pattern with a fast-promote rule, and flagged as a candidate for a dedicated cross-drummer sweep (check every category's historical-brand map against every OTHER category's prose notes) rather than waiting for one-at-a-time surfacing.
+- **GSC content-gap**: no rows this week (7th consecutive clean week). **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **L1/L2/L3**: snapshots confirmed still dated 2026-10-19 (`Generated:` timestamps inside the files, not just mtime) — weekly refresh due ~2026-10-26, not re-run this run.
+- **Starvation check**: pre-triage backlog 0 tripped the trigger shape, but bank held 3 (not ≤2) — not a real starvation event; this run's own triage is the resolution.
+- **Atomic-split sweep**: the only non-hold `ai-fix` issues are the 3 just-promoted (same-run) — nothing eligible. The 20 held roster/band issues remain correctly excluded (freeze, not size/ambiguity).
+- **Research tasks (competitor analysis etc.)**: skipped this run — `competitors.md` last touched 2026-01-31, but the research playbook's content-gap/new-entity angles are blocked by the new-page freeze anyway; cycles better spent on the verification work above. Flagging for the founder decision if the freeze ever lifts, not re-prioritizing unilaterally now.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 3 (#9647-9649 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas #3819/#3810/#2211): 3 fresh → 0
+
+### Quota check
+✅ SEO proposals: 3/3 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: no rows. ✅ L1/L2/L3: not due yet (due ~10-26). ✅ Starvation: not a real event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9647-9649 pick up via Roadie; confirm purely-additive edits land with no collateral changes to other entries.
+2. Consider proposing (via SEO Agent, not CEO directly per the backlog-cap-bypass-via-own-ideas rule) a dedicated sweep issue for the "missing historical category entry" pattern across all 67 drummers, now that it's recurred 3x beyond the original discovery.
+3. L1/L2/L3 weekly refresh due ~2026-10-26 — full close-the-loop pass then; L2 cited count was 32/100 as of 10-19 (7 points above the 25-floor, watch trend).
+4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

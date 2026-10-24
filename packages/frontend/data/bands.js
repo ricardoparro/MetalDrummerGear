@@ -2557,7 +2557,7 @@ export const bands = {
       { q: "Who is the drummer for Entheos?", a: "Navene Koperweis, the band's founding member and only drummer since 2015. He also took on guitar and bass writing/recording duties after the band contracted to a two-piece core in the late 2010s." },
       { q: "Where is Entheos from?", a: "Santa Cruz, California, USA, where the band formed in 2015." },
       { q: "Is Entheos still active?", a: "Yes. The band released Time Will Take Us All in 2023 and continues to tour and record." },
-      { q: "What other bands is Navene Koperweis known for?", a: "Before Entheos, he drummed for Animals as Leaders (2012-2014) and Animosity, and has served as a session/touring drummer for Job for a Cowboy and Machine Head." }
+      { q: "What other bands is Navene Koperweis known for?", a: "Before Entheos, he drummed for Animals as Leaders (2009-2012) and Animosity, and has served as a session/touring drummer for Job for a Cowboy and Machine Head." }
     ],
     sources: [
       "https://en.wikipedia.org/wiki/Entheos",

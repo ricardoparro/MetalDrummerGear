@@ -1743,6 +1743,14 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Debut Slayer studio album "Divine Intervention" recorded on a Tama Artstar II kit with Paiste RUDE cymbals',
       },
       {
+        year: 1994,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.CYMBALS,
+        from: null,
+        to: 'Paiste',
+        notes: 'Paiste RUDE cymbals, paired with his debut Tama Artstar II kit for Slayer\'s "Divine Intervention"',
+      },
+      {
         year: 1998,
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
@@ -1751,12 +1759,28 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Moved to a DW Collector\'s Series Maple kit and Zildjian A Custom cymbals for "Diabolus in Musica"',
       },
       {
+        year: 1998,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.CYMBALS,
+        from: 'Paiste',
+        to: 'Zildjian',
+        notes: 'Zildjian A Custom cymbals, adopted alongside the move to a DW Collector\'s Series Maple kit for "Diabolus in Musica"',
+      },
+      {
         year: 2001,
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: 'DW',
         to: 'Tama',
         notes: 'Returned to Tama with a Starclassic Maple kit and Paiste 2002 cymbals for "God Hates Us All"',
+      },
+      {
+        year: 2001,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.CYMBALS,
+        from: 'Zildjian',
+        to: 'Paiste',
+        notes: 'Paiste 2002 Series cymbals, adopted alongside the return to a Tama Starclassic Maple kit for "God Hates Us All"',
       },
       {
         year: 2015,

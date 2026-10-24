@@ -21,7 +21,7 @@ See also: [Morgan Ågren drummer profile](/llms/drummers/morgan-agren.md)
 **Albums:** Early Mats/Morgan Band recordings, Swedish underground releases
 **Tours:** Umeå local scene, early Scandinavian dates
 
-Morgan Ågren began playing drums as a young child in Umeå, Sweden — largely self-taught and developing at a staggering pace. He met keyboardist Mats Öberg as children — both had exceptional abilities and developed their unique musical language together from the beginning, formally forming the Mats/Morgan Band in 1981 at just 14 years old. In 1988, at age 20, Ågren was hand-picked by Frank Zappa to tour with his band — a major milestone that brought him international recognition well before he was widely known outside Scandinavia. His early Sonor kit was the natural starting point for a young Scandinavian musician.
+Morgan Ågren began playing drums as a young child in Umeå, Sweden — largely self-taught and developing at a staggering pace. He met keyboardist Mats Öberg as children — both had exceptional abilities and developed their unique musical language together from the beginning, formally forming the Mats/Morgan Band in 1981 at just 14 years old. In 1988, at age 20, Ågren was hand-picked by Frank Zappa to sit in with his band for one Stockholm concert — a major milestone that brought him international recognition well before he was widely known outside Scandinavia. His early Sonor kit was the natural starting point for a young Scandinavian musician.
 
 - **Drums:** Sonor Force Series — beech/maple shells: 20" kick, 10"/12"/14" toms (durable, musical German-built shells with strong European distribution; natural choice for a young Scandinavian drummer)
 - **Snare:** Sonor 14"×5" Beech (warm, open beech snare suited to diverse tonal demands)
@@ -35,7 +35,7 @@ Morgan Ågren began playing drums as a young child in Umeå, Sweden — largely 
 - Self-taught drumming begins in Umeå, Sweden (early 1980s)
 - Met Mats Öberg as children — the founding Mats/Morgan musical partnership begins
 - Formed the Mats/Morgan Band with Mats Öberg in 1981, at age 14
-- Hand-picked by Frank Zappa to tour with his band in 1988, at age 20
+- Hand-picked by Frank Zappa to sit in with his band for one Stockholm concert in 1988, at age 20
 - Polyrhythmic and metric modulation vocabulary developed through intensive self-study
 - Sonor Force established as early career foundation
 
@@ -47,7 +47,7 @@ Morgan Ågren began playing drums as a young child in Umeå, Sweden — largely 
 **Tours:** European avant-garde festival circuit, Scandinavian touring dates
 
 **Q: How did Morgan Ågren connect with Frank Zappa?**
-A: Morgan Ågren was personally hand-picked by Frank Zappa to tour with his band in 1988, at age 20, and Zappa reportedly called him one of the greatest drummers he had ever encountered. Zappa's subsequent illness (he was diagnosed with prostate cancer in 1990) prevented a further collaboration before his death in December 1993, but the 1988 tour had already brought Ågren international recognition and cemented his reputation in avant-garde circles. This era saw his Sonor kit expand to keep pace with the Mats/Morgan Band's growing recording and touring activity.
+A: Morgan Ågren was personally hand-picked by Frank Zappa to sit in with his band for one Stockholm concert in 1988, at age 20, and Zappa reportedly called him one of the greatest drummers he had ever encountered. Zappa's subsequent illness (he was diagnosed with prostate cancer in 1990) prevented a further collaboration before his death in December 1993, but the 1988 guest appearance had already brought Ågren international recognition and cemented his reputation in avant-garde circles. This era saw his Sonor kit expand to keep pace with the Mats/Morgan Band's growing recording and performing activity.
 
 - **Drums:** Sonor Force Series (expanded) — beech/maple shells: 22" kick, 10"/12"/14"/16" toms *(upgrade — additional floor tom for Mats/Morgan Band's textural genre-blending music)*
 - **Snare:** Sonor 14"×5.5" Beech *(upgrade — warm, versatile beech snare for Mats/Morgan's wide stylistic range)*
@@ -59,7 +59,7 @@ A: Morgan Ågren was personally hand-picked by Frank Zappa to tour with his band
 
 **Key developments:**
 - Mats/Morgan Band becomes serious recording and touring project
-- Zappa reputedly calls Ågren one of the greatest drummers he'd heard, following their 1988 tour
+- Zappa reputedly calls Ågren one of the greatest drummers he'd heard, following their 1988 Stockholm guest appearance
 - Zappa's declining health (diagnosed with prostate cancer in 1990) prevents further collaboration before his death, December 1993
 - Sonor kit configuration expanded with an additional floor tom
 - Continued with Paiste 2002 cymbals — jazz-oriented tone
@@ -178,7 +178,7 @@ A: In the modern era, Morgan Ågren plays a fully realized hybrid acoustic/elect
 ## FAQ
 
 **Q: Who is Morgan Ågren?**
-A: Morgan Ågren (born 1967 in Umeå, Sweden) is one of the world's most technically advanced and musically inventive drummers. He is best known as the founding drummer of the Mats/Morgan Band, which he formed with keyboardist Mats Öberg in 1981 at age 14 — a group that has produced some of the most original music at the intersection of jazz, progressive rock, metal, and avant-garde. He was hand-picked by Frank Zappa to tour with his band in 1988, who reportedly called him one of the greatest drummers he had ever heard. He later joined Kaipa (2002–2005) and Devin Townsend Project (2012–2016).
+A: Morgan Ågren (born 1967 in Umeå, Sweden) is one of the world's most technically advanced and musically inventive drummers. He is best known as the founding drummer of the Mats/Morgan Band, which he formed with keyboardist Mats Öberg in 1981 at age 14 — a group that has produced some of the most original music at the intersection of jazz, progressive rock, metal, and avant-garde. He was hand-picked by Frank Zappa to sit in with his band for one Stockholm concert in 1988, who reportedly called him one of the greatest drummers he had ever heard. He later joined Kaipa (2002–2005) and Devin Townsend Project (2012–2016).
 
 **Q: What drum kit does Morgan Ågren use?**
 A: Morgan Ågren plays a Sonor SQ2 Beech drum kit — beech shells configured with a 22" kick and 8", 10", 12", 14", and 16" toms. He has used Sonor continuously since the start of his career in the early 1980s, moving to the SQ2 custom-order line in 2012. His setup is augmented with an extensive Roland electronic trigger array, making it one of the most sophisticated hybrid acoustic/electronic configurations in progressive drumming.
@@ -190,7 +190,7 @@ A: Ågren plays a multi-series Paiste cymbal arrangement in the modern era, comb
 A: Ågren's playing is unique in its combination of extraordinary technical command with deep musical intelligence. His polyrhythmic vocabulary, metric modulation, and ghost note sensitivity operate at a level rarely encountered even among the world's most accomplished drummers. He plays with a light touch (5A sticks, open Ambassador/Emperor Coated heads) that gives him extraordinary dynamic range. His hybrid acoustic/electronic setup extends the acoustic kit's tonal palette into orchestral and electronic territory. See also: [progressive metal drumming techniques](/techniques/progressive-metal).
 
 **Q: Did Morgan Ågren work with Frank Zappa?**
-A: Yes — Morgan Ågren was personally hand-picked by Frank Zappa to tour with his band in 1988, at age 20, and Zappa reportedly called him one of the greatest drummers he had ever encountered. Zappa's subsequent illness (he was diagnosed with prostate cancer in 1990) limited any further collaboration, but the 1988 tour had already brought Ågren international recognition and cemented his reputation in avant-garde circles well before he was widely known outside Scandinavia. Zappa died in December 1993.
+A: Yes, but not as a touring member — Morgan Ågren was personally hand-picked by Frank Zappa to sit in with his band for one Stockholm concert in 1988, at age 20, and Zappa reportedly called him one of the greatest drummers he had ever encountered. Zappa's subsequent illness (he was diagnosed with prostate cancer in 1990) limited any further collaboration, but the 1988 guest appearance had already brought Ågren international recognition and cemented his reputation in avant-garde circles well before he was widely known outside Scandinavia. Zappa died in December 1993.
 
 **Q: What is the Mats/Morgan Band?**
 A: The Mats/Morgan Band is the primary duo of Morgan Ågren (drums) and Mats Öberg (keyboards). The two have played together since childhood in Umeå, Sweden, formally forming the band in 1981, and developing a unique musical language that blends jazz, progressive rock, metal, and avant-garde music. Active since 1981, the duo has released numerous albums and toured internationally. Their music is among the most original in contemporary progressive music.

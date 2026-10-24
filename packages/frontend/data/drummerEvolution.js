@@ -9475,7 +9475,7 @@ export const DRUMMER_EVOLUTION = {
         years: '1981–1989',
         startYear: 1981,
         endYear: 1989,
-        description: 'Morgan Ågren began playing drums as a young child in Umeå, Sweden — largely self-taught and developing at a staggering pace. He met keyboardist Mats Öberg as children — both had exceptional abilities and developed their unique musical language together from the beginning, formally forming the Mats/Morgan Band in 1981 at just 14 years old. In 1988, at age 20, Ågren was hand-picked by Frank Zappa to tour with his band — a major milestone that brought him international recognition well before he was widely known outside Scandinavia.',
+        description: 'Morgan Ågren began playing drums as a young child in Umeå, Sweden — largely self-taught and developing at a staggering pace. He met keyboardist Mats Öberg as children — both had exceptional abilities and developed their unique musical language together from the beginning, formally forming the Mats/Morgan Band in 1981 at just 14 years old. In 1988, at age 20, Ågren was hand-picked by Frank Zappa to sit in with his band for one Stockholm concert — a major milestone that brought him international recognition well before he was widely known outside Scandinavia.',
         albums: ['Early Mats/Morgan Band recordings', 'Swedish underground releases'],
         tours: ['Umeå local scene', 'Early Scandinavian dates'],
         image: null,
@@ -9505,7 +9505,7 @@ export const DRUMMER_EVOLUTION = {
           'Self-taught drumming begins in Umeå, Sweden (early 1980s)',
           'Met Mats Öberg as children — the founding Mats/Morgan musical partnership',
           'Formed the Mats/Morgan Band with Mats Öberg in 1981, at age 14',
-          'Hand-picked by Frank Zappa to tour with his band in 1988, at age 20',
+          'Hand-picked by Frank Zappa to sit in with his band for one Stockholm concert in 1988, at age 20',
           'No documented drum or cymbal brand endorsement during this self-taught period',
           'Polyrhythmic and metric modulation vocabulary developed through intensive self-study',
         ],
@@ -9524,7 +9524,7 @@ export const DRUMMER_EVOLUTION = {
         years: '1990–1997',
         startYear: 1990,
         endYear: 1997,
-        description: 'With the international recognition from the 1988 Zappa tour behind him, the Mats/Morgan Band took shape as a serious recording and touring project through the 1990s. Zappa reportedly called Ågren one of the greatest drummers he had ever encountered. Zappa\'s health, following a 1990 prostate cancer diagnosis, prevented a further collaboration before his death in 1993, but the earlier tour had already cemented Ågren\'s reputation in avant-garde circles.',
+        description: 'With the international recognition from the 1988 Zappa guest appearance behind him, the Mats/Morgan Band took shape as a serious recording and live act through the 1990s. Zappa reportedly called Ågren one of the greatest drummers he had ever encountered. Zappa\'s health, following a 1990 prostate cancer diagnosis, prevented a further collaboration before his death in 1993, but the earlier sit-in had already cemented Ågren\'s reputation in avant-garde circles.',
         albums: ['Mats/Morgan Band: Glutenfri (1993)', 'Mats/Morgan Band: Present (1995)'],
         tours: ['European avant-garde festival circuit', 'Scandinavian touring dates'],
         image: null,
@@ -9576,7 +9576,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Mats/Morgan Band becomes serious recording and touring project',
-          'Zappa reputedly calls Ågren one of the greatest drummers he\'d heard, following their 1988 tour',
+          'Zappa reputedly calls Ågren one of the greatest drummers he\'d heard, following their 1988 Stockholm guest appearance',
           'Zappa\'s declining health (diagnosed with prostate cancer in 1990) prevents further collaboration before his death in December 1993',
           'Sonor kit configuration expanded with an additional floor tom',
           'Continued with Paiste 2002 cymbals — jazz-oriented tone',
@@ -9831,7 +9831,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'Who is Morgan Ågren?',
-        a: 'Morgan Ågren (born 1967 in Umeå, Sweden) is one of the world\'s most technically advanced and musically inventive drummers. He is best known as the founding drummer of the Mats/Morgan Band, which he formed with keyboardist Mats Öberg in 1981 at age 14. He was hand-picked by Frank Zappa to tour with his band in 1988, who reportedly called him one of the greatest drummers he had ever heard.',
+        a: 'Morgan Ågren (born 1967 in Umeå, Sweden) is one of the world\'s most technically advanced and musically inventive drummers. He is best known as the founding drummer of the Mats/Morgan Band, which he formed with keyboardist Mats Öberg in 1981 at age 14. He was hand-picked by Frank Zappa to sit in with his band for one Stockholm concert in 1988, who reportedly called him one of the greatest drummers he had ever heard.',
       },
       {
         q: 'What drum kit does Morgan Ågren use?',
@@ -9843,7 +9843,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'Did Morgan Ågren work with Frank Zappa?',
-        a: 'Yes — Morgan Ågren was personally hand-picked by Frank Zappa to tour with his band in 1988, at age 20, and Zappa reportedly called him one of the greatest drummers he had ever encountered. Zappa\'s subsequent illness (diagnosed with prostate cancer in 1990) limited any further collaboration, but the 1988 tour had already brought Ågren international recognition and cemented his reputation in avant-garde circles. Zappa died in December 1993.',
+        a: 'Yes, but not as a touring member — Morgan Ågren was personally hand-picked by Frank Zappa to sit in with his band for one Stockholm concert in 1988, at age 20, and Zappa reportedly called him one of the greatest drummers he had ever encountered. Zappa\'s subsequent illness (diagnosed with prostate cancer in 1990) limited any further collaboration, but the 1988 guest appearance had already brought Ågren international recognition and cemented his reputation in avant-garde circles. Zappa died in December 1993.',
       },
       {
         q: 'What makes Morgan Ågren\'s drumming unique?',

@@ -7420,7 +7420,7 @@ export const ALBUM_ARTICLES_META = {
     ],
     "genre": "Avant-Garde / Jazz-Metal / Progressive Metal",
     "title": "Morgan Ågren Drum Setup — The Avant-Garde Architect Behind Zappa and Devin Townsend",
-    "description": "Morgan Ågren uses a Sonor SQ2 Beech kit built for avant-garde metal and jazz-fusion. Explore the complete gear setup of Zappa's touring drummer and Devin Townsend Project's rhythmic architect.",
+    "description": "Morgan Ågren uses a Sonor SQ2 Beech kit built for avant-garde metal and jazz-fusion. Explore the complete gear setup of the drummer Zappa hand-picked for a one-off Stockholm guest appearance and Devin Townsend Project's rhythmic architect.",
     "ogImage": "/images/drummers/morgan-agren.webp",
     "datePublished": "2026-06-19",
     "dateModified": "2026-06-19",
@@ -7430,7 +7430,7 @@ export const ALBUM_ARTICLES_META = {
     "bands": [
       "Devin Townsend Project",
       "Mats/Morgan Band",
-      "Frank Zappa (touring)"
+      "Frank Zappa (guest appearance)"
     ],
     "country": "Sweden"
   },

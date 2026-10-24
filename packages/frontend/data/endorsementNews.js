@@ -2295,6 +2295,14 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Paired his Mapex kit with Sabian HH/HHX cymbals and an Axis A double pedal prized for its light, fast action',
       },
       {
+        year: 1996,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'Axis',
+        notes: 'Axis A double pedal, prized for its light, fast action during his Angra classic era (Rebirth, Temple of Shadows)',
+      },
+      {
         year: 2004,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
         category: ENDORSEMENT_CATEGORIES.STICKS,

@@ -694,7 +694,7 @@ Nicko McBrain of Iron Maiden has used Remo heads throughout his career, contribu
             { name: "Bill Ward", band: "Black Sabbath", note: "The original heavy metal drum tone" },
             { name: "Dave Lombardo", band: "Slayer", note: "Used Ambassador-style heads in early career" },
             { name: "Charlie Benante", band: "Anthrax", note: "Traditional thrash tone foundation" },
-            { name: "Mike Mangini", band: "Dream Theater", note: "Remo endorser for complex dynamics" }
+            { name: "Mike Mangini", band: "Godsmack", note: "Remo endorser for complex dynamics" }
           ],
           verdict: "The classic choice for traditional heavy metal and doom. Unmatched warmth and musicality for open styles.",
           rating: 4.6,
@@ -2114,7 +2114,7 @@ It's also simply a durable, dependable choice for a genre that demands drummers 
             sizes: "6\" to 26\""
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Remo-family heads across his Pearl Reference Series kit" }
+            { name: "Mike Mangini", band: "Godsmack", note: "Remo-family heads across his Pearl Reference Series kit" }
           ],
           verdict: "The best choice for progressive drummers who want a consistent, controlled double-ply tone.",
           rating: 4.5,
@@ -25776,7 +25776,7 @@ That sensitivity gives Mangini the tonal precision to voice everything from rest
             configuration: "Single"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Reference Series bass drum for Dream Theater's modern material" }
+            { name: "Mike Mangini", band: "Godsmack", note: "Pearl Reference Series bass drum for demanding technical material" }
           ],
           verdict: "Best for drummers who want the most sensitive acoustic foundation for wide-ranging dynamics.",
           rating: 4.8,
@@ -50185,7 +50185,7 @@ Multiple Reference snare options (14x5" and 14x6.5" brass) let him switch crack 
             tomSizes: "Various configurations"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Reference Series kit for exceptional dynamic sensitivity" }
+            { name: "Mike Mangini", band: "Godsmack", note: "Pearl Reference Series kit for exceptional dynamic sensitivity" }
           ],
           verdict: "Best for dynamic sensitivity. Mangini's thin-shell maple kit for independent limb technique.",
           rating: 4.8,
@@ -70353,7 +70353,7 @@ Mike Mangini's Dream Theater cymbal setup blends Sabian HHX and AAX series cymba
             weight: "Thin"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "10\" splash within Sabian HHX/AAX touring rig" }
+            { name: "Mike Mangini", band: "Godsmack", note: "10\" splash within Sabian HHX/AAX touring rig" }
           ],
           verdict: "The most dynamically responsive splash here, ideal for progressive metal's varied accent work.",
           rating: 4.6,
@@ -80567,7 +80567,7 @@ Mangini's rotation strategy, paired with his Pearl Reference kit and Roland SPD-
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "14x6.5\" Pearl Reference Brass — one of several depth options in rotation" }
+            { name: "Mike Mangini", band: "Godsmack", note: "14x6.5\" Pearl Reference Brass — one of several depth options in rotation" }
           ],
           verdict: "The progressive metal standard for tonal versatility. Mangini's rotation strategy maximizes per-passage control.",
           rating: 4.7,
@@ -91069,9 +91069,9 @@ The front-weighted taper and acorn tip keep rebound fast and predictable, whethe
             grip: "Lacquered"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Vater signature — precision for constantly-shifting technical arrangements" }
+            { name: "Mike Mangini", band: "Godsmack", note: "Vater signature — precision for constantly-shifting technical arrangements" }
           ],
-          verdict: "The progressive metal precision standard. Mike Mangini's signature stick handles Dream Theater's most technically demanding material without losing control.",
+          verdict: "The progressive metal precision standard. Mike Mangini's signature stick handles the most technically demanding material without losing control.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/vater_mike_mangini_wicked_piston.htm?partner_id=metalforge"
         },
@@ -94336,7 +94336,7 @@ The Eliminator Redline's NiNjA bearing system — also used in Pearl's flagship 
             construction: "Aircraft-grade aluminum"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Eliminator Redline — independent limb technique precision" }
+            { name: "Mike Mangini", band: "Godsmack", note: "Pearl Eliminator Redline — independent limb technique precision" }
           ],
           verdict: "The progressive metal standard for technical precision. If Mangini's independent-limb technique demands it, it'll handle anything you throw at it.",
           rating: 4.8,
@@ -94733,7 +94733,7 @@ Paired with Mangini's Pearl Reference kit and Roland SPD-SX hybrid setup, and wi
             series: "HHX Evolution"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Sabian endorser since 2011 — progressive metal polyrhythmic complexity" },
+            { name: "Mike Mangini", band: "Godsmack", note: "Sabian endorser since 2011 — progressive metal polyrhythmic complexity" },
             { name: "Blake Richardson", band: "Between the Buried and Me", note: "Sabian endorser since 2018 — BTBAM's genre-hopping technical extremity" }
           ],
           verdict: "The progressive metal hi-hat standard. Bright, articulate, and responsive to both Mangini's and Richardson's independent-limb technique.",
@@ -106389,7 +106389,7 @@ The Eliminator Redline's NiNjA bearing system — also used in Pearl's flagship 
             footboard: "PowerShifter (3-position)"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Eliminator Redline — independent limb technique precision through odd meters" }
+            { name: "Mike Mangini", band: "Godsmack", note: "Pearl Eliminator Redline — independent limb technique precision through odd meters" }
           ],
           verdict: "The progressive metal standard for technical precision through odd-meter footwork.",
           rating: 4.8,
@@ -109164,7 +109164,7 @@ The lightweight aluminum/steel hybrid frame carries a large multi-tom, multi-cym
             weight: "Medium-heavy"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl hardware integrating a Roland SPD-SX sampling pad" }
+            { name: "Mike Mangini", band: "Godsmack", note: "Pearl hardware integrating a Roland SPD-SX sampling pad" }
           ],
           verdict: "Best choice for hybrid acoustic-electronic progressive metal rigs.",
           rating: 4.6,

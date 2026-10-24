@@ -6337,13 +6337,13 @@ Start with what you can afford, learn to tune it properly, and practice until yo
       title: "Why Death Metal Has Its Own Cymbal Demands",
       content: `Death metal places extreme demands on cymbals that most other genres simply don't. At 220–280 BPM blast beats, cymbals must respond instantly and cut through a dense, down-tuned guitar wall without washing out into a shapeless roar. They must withstand relentless physical punishment—death metal drummers hit hard and fast, often for hours of daily practice.
 
-George Kollias (Nile) has made his Zildjian A Custom Series cymbals as recognizable as his inhuman blast beat speed—the dark, controlled wash sits perfectly under technical death metal complexity. Flo Mounier (Cryptopsy) uses Sabian AAX/HHX Series cymbals that deliver controlled chaos even at his insane 270 BPM tempos.
+George Kollias (Nile) has made his Zildjian A Custom Series cymbals as recognizable as his inhuman blast beat speed—the dark, controlled wash sits perfectly under technical death metal complexity. Flo Mounier (Cryptopsy) uses Sabian AAX/HHX Series cymbals that deliver controlled chaos even at his insane 280+ BPM tempos.
 
 The wrong cymbals for death metal don't just sound bad—they actively fight your playing. This guide breaks down what actually works, why, and which specific models give you the most extreme metal performance across all budgets.`,
       keyPoints: [
         "Dark, controlled wash beats bright shimmer at death metal speeds",
         "Zildjian K Custom Dark is the most common death metal cymbal line",
-        "Sabian AAX/HHX crashes offer precise attack even at 270+ BPM",
+        "Sabian AAX/HHX crashes offer precise attack even at 280+ BPM",
         "Heavy hi-hats control wash at extreme blast beat tempos"
       ]
     },
@@ -6446,14 +6446,14 @@ George Kollias built his reputation for the fastest feet in death metal while us
           tier: "pro",
           material: "B20 Bronze (AAX/HHX Series)",
 
-          description: `Flo Mounier of Cryptopsy has used Sabian AAX/HHX Series cymbals since 2012 — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 270+ BPM, his Sabian crashes deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
+          description: `Flo Mounier of Cryptopsy has used Sabian AAX/HHX Series cymbals since 2012 — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 280+ BPM, his Sabian crashes deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
 
 The AAX/HHX B20 alloy gives crashes bright, cutting projection with plenty of body at comparable weights. In death metal, this translates to cymbal accents that speak with authority even when the kit is being pushed to its limits. The AAX/HHX character is more powerful and full-bodied than the K Custom Dark — a different tool for a different approach to extreme metal.`,
 
           pros: [
             "Full-bodied, powerful crash character at extreme speeds",
             "Sabian B20 alloy — proven in the most intense death metal contexts",
-            "Flo Mounier endorsement since 2012 — 270 BPM proof of concept",
+            "Flo Mounier endorsement since 2012 — 280+ BPM proof of concept",
             "More projection than K Custom Dark — cuts louder",
             "Iconic sound that engineers recognize and respect"
           ],
@@ -6471,7 +6471,7 @@ The AAX/HHX B20 alloy gives crashes bright, cutting projection with plenty of bo
             rideRange: "20\" - 22\""
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", reason: "Controlled chaos at 270 BPM — Sabian AAX/HHX since 2012" }
+            { name: "Flo Mounier", band: "Cryptopsy", reason: "Controlled chaos at 280+ BPM — Sabian AAX/HHX since 2012" }
           ],
           verdict: "The power option for death metal. If you want big, full crashes that speak with authority, Sabian AAX/HHX delivers.",
           rating: 4.7,
@@ -6643,7 +6643,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
         {
           category: "Best for Power/Brutality",
           pedal: "Sabian AAX/HHX",
-          reason: "Flo Mounier's choice since 2012 — full-bodied crashes with authority, proven at 270 BPM."
+          reason: "Flo Mounier's choice since 2012 — full-bodied crashes with authority, proven at 280+ BPM."
         },
         {
           category: "Best Mid-Range",
@@ -6666,13 +6666,13 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Series — fastest feet in death metal' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' }
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 280+ BPM' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Series for extreme cutting power at 280 BPM' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 280+ BPM' },
     ],
 
     // FAQ section for SEO
@@ -6683,7 +6683,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
       },
       {
         question: "What cymbals does Flo Mounier use?",
-        answer: "Flo Mounier of Cryptopsy uses Sabian AAX/HHX Series cymbals, an endorsement since 2012. Their full-bodied, powerful crash character delivers controlled chaos even at Mounier's extreme 270 BPM tempos, providing the dramatic accent impact that defines Cryptopsy's brutal technical death metal sound."
+        answer: "Flo Mounier of Cryptopsy uses Sabian AAX/HHX Series cymbals, an endorsement since 2012. Their full-bodied, powerful crash character delivers controlled chaos even at Mounier's extreme 280+ BPM tempos, providing the dramatic accent impact that defines Cryptopsy's brutal technical death metal sound."
       },
       {
         question: "Are dark cymbals better for death metal?",
@@ -13151,7 +13151,7 @@ Pearl's SST (Superior Shell Technology) molding process bonds the plies under hi
 
           description: `The Tama Starclassic Maple is Flo Mounier's kit of choice for Cryptopsy's technically demanding death metal, an endorsement he's held since 2012. All-maple shells deliver the sensitivity and projection Mounier's playing — some of the most technically advanced death metal drumming ever recorded — demands to handle sustained extreme tempos without losing tonal integrity.
 
-Tama's Star-Cast mounting system minimizes shell dampening, letting the shells resonate freely under heavy use — essential when you're sustaining 270 BPM patterns for extended passages. The warmth of maple gives Flo's toms a controlled, musical character in Cryptopsy's dense arrangements.`,
+Tama's Star-Cast mounting system minimizes shell dampening, letting the shells resonate freely under heavy use — essential when you're sustaining 280+ BPM patterns for extended passages. The warmth of maple gives Flo's toms a controlled, musical character in Cryptopsy's dense arrangements.`,
 
           pros: [
             "Flo Mounier's kit since 2012 — Cryptopsy's technical death metal precision",
@@ -13172,7 +13172,7 @@ Tama's Star-Cast mounting system minimizes shell dampening, letting the shells r
             tomSizes: "10\", 12\" (rack) / 16\" (floor)"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "Tama Starclassic Maple — technical death metal at 270 BPM, since 2012" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "Tama Starclassic Maple — technical death metal at 280+ BPM, since 2012" }
           ],
           verdict: "The premium death metal kit. Flo Mounier's choice for Cryptopsy's most demanding performances.",
           rating: 4.8,
@@ -13860,7 +13860,7 @@ The Acrolite's character — light, fast, sensitive — suits technical death me
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl snare endorser — world record blast beat snare speed' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Technical death metal snare sensitivity — Cryptopsy\'s 270 BPM precision' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Technical death metal snare sensitivity — Cryptopsy\'s 280+ BPM precision' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Precisely tuned Pearl snare — The Atomic Clock\'s precision instrument' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum — Morbid Angel hyper-blast death metal pioneer' }
     ],
@@ -21324,7 +21324,7 @@ Start with a 22"x18" shell, keep the muffling light, and let the drum breathe �
       title: "What Bass Drum Setup Do Death Metal Drummers Actually Use?",
       content: `Death metal's bass drum has one job above all others: deliver deep, punchy low-end weight that anchors the genre's downtuned guitars without losing definition at 200+ BPM. Unlike black metal's raw, resonant approach, death metal wants a controlled, tightly muffled attack — every kick stroke needs to articulate clearly even buried inside dense, layered mixes.
 
-George Kollias — widely regarded as the fastest drummer on record — plays a Pearl Masterworks 22"x18" bass drum, its thin 6-ply maple shell delivering exceptional sensitivity for Nile's densely layered technical death metal. Flo Mounier of Cryptopsy runs a Tama Starclassic Maple bass drum, delivering the sensitivity and projection his technical patterns demand at sustained 270 BPM. Gene Hoglan — "The Atomic Clock" — built his precision-first low end on Tama's Starclassic Birch/Bubinga across his work with Death, Testament, and Dark Angel.
+George Kollias — widely regarded as the fastest drummer on record — plays a Pearl Masterworks 22"x18" bass drum, its thin 6-ply maple shell delivering exceptional sensitivity for Nile's densely layered technical death metal. Flo Mounier of Cryptopsy runs a Tama Starclassic Maple bass drum, delivering the sensitivity and projection his technical patterns demand at sustained 280+ BPM. Gene Hoglan — "The Atomic Clock" — built his precision-first low end on Tama's Starclassic Birch/Bubinga across his work with Death, Testament, and Dark Angel.
 
 Pete Sandoval of Morbid Angel has been a ddrum endorser since 1989, adding to the brand's foundational death metal pedigree.
 
@@ -21434,12 +21434,12 @@ That sensitivity matters when Kollias is firing 280 BPM patterns beneath Nile's 
           tier: "pro",
           material: "Maple, 22\"x18\"",
 
-          description: `The Tama Starclassic Maple is Flo Mounier's bass drum of choice for Cryptopsy's technically demanding death metal, an endorsement he's held since 2012. The all-maple shell is built to handle sustained 270 BPM double bass patterns without losing tonal integrity.
+          description: `The Tama Starclassic Maple is Flo Mounier's bass drum of choice for Cryptopsy's technically demanding death metal, an endorsement he's held since 2012. The all-maple shell is built to handle sustained 280+ BPM double bass patterns without losing tonal integrity.
 
 Tama's Star-Cast mounting system ensures the shell resonates freely under heavy use, and the shell's controlled projection lets Mounier's technical patterns cut through Cryptopsy's dense arrangements.`,
 
           pros: [
-            "Flo Mounier's Cryptopsy bass drum since 2012 — technical death metal at 270 BPM",
+            "Flo Mounier's Cryptopsy bass drum since 2012 — technical death metal at 280+ BPM",
             "All-maple shell for controlled, articulate projection",
             "Star-Cast mounting for consistent tone under heavy use",
             "Exceptional build quality for extreme touring conditions"
@@ -21456,7 +21456,7 @@ Tama's Star-Cast mounting system ensures the shell resonates freely under heavy 
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "Tama Starclassic Maple — technical death metal at 270 BPM, since 2012" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "Tama Starclassic Maple — technical death metal at 280+ BPM, since 2012" }
           ],
           verdict: "The premium technical death metal pick — Flo Mounier's choice for Cryptopsy's most demanding work.",
           rating: 4.8,
@@ -21617,7 +21617,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
         {
           category: "Best for Technical Death Metal",
           pedal: "Tama Starclassic Maple Bass Drum",
-          reason: "Flo Mounier's Cryptopsy pick since 2012 — sensitive maple precision at 270 BPM."
+          reason: "Flo Mounier's Cryptopsy pick since 2012 — sensitive maple precision at 280+ BPM."
         },
         {
           category: "Best for Maximum Punch",
@@ -21641,7 +21641,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks bass drum sustaining 280 BPM double bass' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — technical death metal precision at 270 BPM, since 2012' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — technical death metal precision at 280+ BPM, since 2012' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Starclassic Birch/Bubinga — deep low end across four decades' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum bass drums driving Morbid Angel\'s extreme low end' }
     ],
@@ -38659,7 +38659,7 @@ Start with a 20"-22" raw-toned pro ride, and step up to an oversized Mega Power 
       title: "Why Death Metal Rides Need Control at Extreme Speed",
       content: `Death metal places extreme demands on a ride cymbal that most other genres simply don't. At 220-280 BPM blast beats, a ride has to respond instantly and stay articulate against a dense, downtuned guitar wall without washing into a shapeless blur — and via its bell, cut through that same wall the instant a fill or transition needs extra punch.
 
-George Kollias (Nile) rides a 21" Zildjian A Custom Mega Bell Ride, relying on its oversized bell for the piercing accents that cut through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Flo Mounier (Cryptopsy) and other technical death metal drummers favor the 21" Sabian HHX Raw Bell Dry Ride for its dry, controlled stick definition — critical at Mounier's extreme 270 BPM tempos where clarity can't be sacrificed for wash. Gene Hoglan — "The Atomic Clock" — has ridden a 22" Sabian AAX Ride across Death, Testament, and Dethklok for over two decades, proving a single versatile ride can cover technical death metal, thrash, and satirical extremity alike.
+George Kollias (Nile) rides a 21" Zildjian A Custom Mega Bell Ride, relying on its oversized bell for the piercing accents that cut through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Flo Mounier (Cryptopsy) and other technical death metal drummers favor the 21" Sabian HHX Raw Bell Dry Ride for its dry, controlled stick definition — critical at Mounier's extreme 280+ BPM tempos where clarity can't be sacrificed for wash. Gene Hoglan — "The Atomic Clock" — has ridden a 22" Sabian AAX Ride across Death, Testament, and Dethklok for over two decades, proving a single versatile ride can cover technical death metal, thrash, and satirical extremity alike.
 
 This guide breaks down what actually makes a ride work for death metal — bell size, dry control, and durability under extreme blast beat abuse — and recommends specific models across every budget, from a first upgrade off a stock cymbal pack to the exact cymbals death metal's most demanding drummers ride night after night.`,
       keyPoints: [
@@ -38683,7 +38683,7 @@ This guide breaks down what actually makes a ride work for death metal — bell 
         {
           name: "Dry Control at Extreme Tempo",
           icon: "🎯",
-          description: "Flo Mounier's Sabian HHX Raw Bell Dry Ride keeps stick definition tight and articulate even at 270+ BPM — a dry, controlled voice that stays legible where a washier ride would blur into a shapeless roar.",
+          description: "Flo Mounier's Sabian HHX Raw Bell Dry Ride keeps stick definition tight and articulate even at 280+ BPM — a dry, controlled voice that stays legible where a washier ride would blur into a shapeless roar.",
           recommendation: "Dry, controlled rides for technical death metal where clarity at extreme speed matters most"
         },
         {
@@ -38763,11 +38763,11 @@ The Mega Bell design pairs A Custom's bright, cutting tone with an oversized bel
           priceRange: "€260-320",
           tier: "pro",
           driveType: "B20 Bronze, Raw Bell",
-          description: `Flo Mounier (Cryptopsy) and several technical death metal drummers rely on the 21" HHX Raw Bell Dry Ride for exactly the clarity extreme tempo demands — a dry, controlled body paired with an unlathed raw bell for a distinctly clear, articulate ping that survives Mounier's insane 270 BPM tempos without washing out.
+          description: `Flo Mounier (Cryptopsy) and several technical death metal drummers rely on the 21" HHX Raw Bell Dry Ride for exactly the clarity extreme tempo demands — a dry, controlled body paired with an unlathed raw bell for a distinctly clear, articulate ping that survives Mounier's insane 280+ BPM tempos without washing out.
 
 The dry, controlled voicing stays legible through dense, fast technical death metal patterns where a washier ride would blur into a shapeless roar.`,
           pros: [
-            "Dry, controlled tone that stays articulate at 270+ BPM",
+            "Dry, controlled tone that stays articulate at 280+ BPM",
             "Raw unlathed bell for a distinctly clear accent ping",
             "Flo Mounier's proven technical death metal standard",
             "Excellent stick definition for complex, fast patterns"
@@ -38784,7 +38784,7 @@ The dry, controlled voicing stays legible through dense, fast technical death me
             weight: "Medium"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "21\" HHX Raw Bell Dry Ride for technical death metal clarity at 270 BPM" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "21\" HHX Raw Bell Dry Ride for technical death metal clarity at 280+ BPM" }
           ],
           verdict: "The clearest, most controlled ride for technical death metal drummers.",
           rating: 4.7,
@@ -38976,7 +38976,7 @@ The K Custom Dark Ride's traditional dark finish sits well under distorted guita
         {
           category: "Best for Extreme Tempo Clarity",
           pedal: "Sabian HHX Raw Bell Dry Ride",
-          reason: "Flo Mounier's dry, controlled standard, proven at 270 BPM."
+          reason: "Flo Mounier's dry, controlled standard, proven at 280+ BPM."
         },
         {
           category: "Best Budget",
@@ -38999,7 +38999,7 @@ The K Custom Dark Ride's traditional dark finish sits well under distorted guita
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: '21" Zildjian A Custom Mega Bell Ride for technical death metal' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: '21" Sabian HHX Raw Bell Dry Ride for Cryptopsy at 270 BPM' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: '21" Sabian HHX Raw Bell Dry Ride for Cryptopsy at 280+ BPM' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: '22" Sabian AAX Ride across 20+ bands' }
     ],
 
@@ -39019,7 +39019,7 @@ The K Custom Dark Ride's traditional dark finish sits well under distorted guita
       },
       {
         question: "What ride cymbal does Flo Mounier use?",
-        answer: "Flo Mounier (Cryptopsy) rides a 21\" Sabian HHX Raw Bell Dry Ride, valued for its dry, controlled stick definition that stays articulate even at his extreme 270 BPM tempos."
+        answer: "Flo Mounier (Cryptopsy) rides a 21\" Sabian HHX Raw Bell Dry Ride, valued for its dry, controlled stick definition that stays articulate even at his extreme 280+ BPM tempos."
       },
       {
         question: "What size ride cymbal is best for death metal?",
@@ -44556,7 +44556,7 @@ Start with one raw, trashy crash in the 17"-19" range, and layer a second voicin
       title: "Why Death Metal Crashes Need Weight, Darkness, and Speed",
       content: `Death metal places extreme demands on a crash cymbal that few other genres match. At 220-280 BPM blast beats, a crash has to respond instantly, carry enough dark, heavy tone to cut through down-tuned, distorted guitar walls, and decay fast enough to stay out of the way of the next accent — all while surviving hours of daily punishing practice.
 
-George Kollias of Nile has made his 17" and 18" Zildjian K Custom Dark crashes as recognizable as his inhuman blast beat speed — dark, controlled wash that sits perfectly under Nile's technical death metal complexity while cutting cleanly through dense, layered arrangements. Flo Mounier of Cryptopsy uses Sabian AAX/HHX crashes that deliver full-bodied, controlled chaos even at his insane 270 BPM tempos.
+George Kollias of Nile has made his 17" and 18" Zildjian K Custom Dark crashes as recognizable as his inhuman blast beat speed — dark, controlled wash that sits perfectly under Nile's technical death metal complexity while cutting cleanly through dense, layered arrangements. Flo Mounier of Cryptopsy uses Sabian AAX/HHX crashes that deliver full-bodied, controlled chaos even at his insane 280+ BPM tempos.
 
 This guide breaks down what actually makes a crash work for death metal — darkness, weight, and speed — and recommends specific models across every budget, from a first dark-toned crash to the exact cymbals death metal's most demanding drummers play.`,
       keyPoints: [
@@ -44586,7 +44586,7 @@ This guide breaks down what actually makes a crash work for death metal — dark
         {
           name: "Power and Projection",
           icon: "💥",
-          description: "Flo Mounier's Sabian AAX/HHX crashes deliver full-bodied power and projection at 270+ BPM — proof that a heavier, more full-bodied crash can still stay controlled at death metal's most extreme tempos.",
+          description: "Flo Mounier's Sabian AAX/HHX crashes deliver full-bodied power and projection at 280+ BPM — proof that a heavier, more full-bodied crash can still stay controlled at death metal's most extreme tempos.",
           recommendation: "B20 bronze crashes for full-bodied power that projects at extreme volume"
         },
         {
@@ -44660,11 +44660,11 @@ George Kollias built his reputation for the fastest feet in death metal while re
           priceRange: "€200-250",
           tier: "pro",
           driveType: "B20 Bronze",
-          description: `Flo Mounier of Cryptopsy has used 16" and 18" Sabian AAX/HHX crashes since 2012 — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 270+ BPM, his Sabian crashes deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
+          description: `Flo Mounier of Cryptopsy has used 16" and 18" Sabian AAX/HHX crashes since 2012 — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 280+ BPM, his Sabian crashes deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
 
 The AAX/HHX B20 alloy gives crashes bright, cutting body and projection at comparable weights. In death metal, this translates to cymbal accents that speak with authority even when the kit is being pushed to its limits.`,
           pros: [
-            "Flo Mounier's proven Cryptopsy setup since 2012 — 270 BPM proof of concept",
+            "Flo Mounier's proven Cryptopsy setup since 2012 — 280+ BPM proof of concept",
             "Full-bodied, powerful crash character at extreme speeds",
             "More projection than K Custom Dark — cuts louder in dense mixes",
             "B20 bronze built for the most intense death metal contexts"
@@ -44682,7 +44682,7 @@ The AAX/HHX B20 alloy gives crashes bright, cutting body and projection at compa
             decay: "Controlled, powerful"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "16\" & 18\" AAX/HHX Crashes — controlled chaos at 270 BPM" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "16\" & 18\" AAX/HHX Crashes — controlled chaos at 280+ BPM" }
           ],
           verdict: "The power option for death metal. Big, full crashes that speak with authority at extreme tempos.",
           rating: 4.7,
@@ -44876,7 +44876,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
         {
           category: "Best for Power/Brutality",
           pedal: "Sabian AAX/HHX Crash",
-          reason: "Flo Mounier's choice since 2012 — full-bodied crashes with authority, proven at 270 BPM."
+          reason: "Flo Mounier's choice since 2012 — full-bodied crashes with authority, proven at 280+ BPM."
         },
         {
           category: "Best for Articulation",
@@ -44900,13 +44900,13 @@ For death metal specifically, the dark finish and complex overtones sit well und
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — fastest feet in death metal' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 270 BPM' }
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 280+ BPM' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash for extreme cutting power at 280 BPM' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 270 BPM' }
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 280+ BPM' }
     ],
     relatedComparisons: [],
 
@@ -44918,7 +44918,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
       },
       {
         question: "What crash cymbal does Flo Mounier use?",
-        answer: "Flo Mounier of Cryptopsy uses 16\" and 18\" Sabian AAX/HHX Crashes, an endorsement since 2012. The full-bodied, powerful crash character delivers controlled chaos even at Mounier's extreme 270 BPM tempos, providing the dramatic accent impact that defines Cryptopsy's brutal technical death metal sound."
+        answer: "Flo Mounier of Cryptopsy uses 16\" and 18\" Sabian AAX/HHX Crashes, an endorsement since 2012. The full-bodied, powerful crash character delivers controlled chaos even at Mounier's extreme 280+ BPM tempos, providing the dramatic accent impact that defines Cryptopsy's brutal technical death metal sound."
       },
       {
         question: "Are dark crash cymbals better for death metal?",
@@ -69680,7 +69680,7 @@ It won't replace a full 12" pad for serious rebound-focused sessions, but for sq
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Defined death metal\'s hyper-precise blast-beat template through isolated repetition' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Fastest feet in death metal, built through slow, isolated practice' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Gravity blast technique built through isolated pad and pedal drills' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Controlled chaos at 270 BPM, built one isolated rep at a time' }
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Controlled chaos at 280+ BPM, built one isolated rep at a time' }
     ],
     relatedComparisons: [],
 
@@ -72363,7 +72363,7 @@ Start with a single 10" splash mounted close to your snare, and consider a secon
       title: "A Small Cymbal for Death Metal's Biggest Moments of Contrast",
       content: `Death metal's cymbal setups are built around survival first — thick, dark-toned crashes and rides that can take thousands of blast-beat strikes a set without keyholing. A splash cymbal solves a different problem entirely: at 8" to 12", it decays almost instantly rather than sustaining, giving a drummer a sharp, isolated accent for the rare moment a blast-beat-driven arrangement drops into a tempo change, a breakdown, or a single punctuated stab that a full-size crash would simply wash over.
 
-George Kollias of Nile pairs his 17" and 18" Zildjian K Custom Dark crashes with a matching splash within the same K Custom family, giving Nile's technical, blast-beat-dense arrangements a controlled, dark-toned accent for the rare open space in his otherwise relentless playing. Flo Mounier of Cryptopsy runs a Sabian AAX/HHX splash alongside his full-bodied AAX/HHX crash setup, using the same bright, cutting B20 bronze voicing at accent scale that lets his 270 BPM material punch through.
+George Kollias of Nile pairs his 17" and 18" Zildjian K Custom Dark crashes with a matching splash within the same K Custom family, giving Nile's technical, blast-beat-dense arrangements a controlled, dark-toned accent for the rare open space in his otherwise relentless playing. Flo Mounier of Cryptopsy runs a Sabian AAX/HHX splash alongside his full-bodied AAX/HHX crash setup, using the same bright, cutting B20 bronze voicing at accent scale that lets his 280+ BPM material punch through.
 
 Splash cymbals remain rare in death metal precisely because the genre's relentless tempo leaves little room for a cymbal whose entire purpose is a single isolated hit — most developing death metal drummers build out a crash, ride, and china setup long before considering a splash. But for the tempo breaks, groove sections, and technical fills that do open up space, a splash gives a death metal drummer a tonal option nothing else in a standard setup provides. This guide covers what actually matters when choosing a splash cymbal for death metal — darkness, size, and durability under extreme technique — with specific recommendations across every budget.`,
       keyPoints: [
@@ -72467,7 +72467,7 @@ Nile's technical, blast-beat-dense arrangements leave little room for a splash, 
           driveType: "B20 Bronze, Brilliant Finish",
           description: `Sabian AAX/HHX's bright, full-bodied B20 bronze voicing delivers an accent that punches through even at extreme tempos, the same character that defines Flo Mounier's crash setup for Cryptopsy since 2012.
 
-Flo Mounier's AAX/HHX splash extends the same explosive, cutting attack behind his crash and ride down to accent scale, giving his 270 BPM material a matching punctuation cymbal rather than a tonally mismatched alternative.`,
+Flo Mounier's AAX/HHX splash extends the same explosive, cutting attack behind his crash and ride down to accent scale, giving his 280+ BPM material a matching punctuation cymbal rather than a tonally mismatched alternative.`,
           pros: [
             "Bright, explosive B20 bronze consistent with Sabian AAX/HHX crashes",
             "Proven to cut through extreme tempo material without disappearing",
@@ -72673,7 +72673,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
         {
           category: "Most Explosive",
           pedal: "Sabian AAX/HHX Splash",
-          reason: "The same bright, cutting B20 bronze voicing behind Flo Mounier's 270 BPM crash setup, scaled to accent size."
+          reason: "The same bright, cutting B20 bronze voicing behind Flo Mounier's 280+ BPM crash setup, scaled to accent size."
         },
         {
           category: "Best Budget",
@@ -72696,7 +72696,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'K Custom Dark-family splash alongside 17"/18" K Custom Dark crashes — Nile\'s technical blast-beat arrangements' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX splash — Cryptopsy\'s explosive 270 BPM material' }
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX splash — Cryptopsy\'s explosive 280+ BPM material' }
     ],
     relatedComparisons: [],
 
@@ -86892,12 +86892,12 @@ Whatever you choose, prioritize clean articulation and dynamic range over flashy
       title: "Why Death Metal Hi-Hats Need to Control Chaos at 280 BPM",
       content: `Death metal places extreme demands on hi-hats that most other genres simply don't. At 220–280 BPM blast beats, a hi-hat must respond instantly and stay tight and controlled without opening uncontrollably — a light top on a 14" hi-hat will wash out completely under sustained extreme metal blast beat work.
 
-George Kollias of Nile has made his Zildjian K Custom Dark hi-hats as recognizable as his inhuman blast beat speed — the dark, controlled wash sits perfectly under technical death metal complexity across a 13"-15" range. Flo Mounier of Cryptopsy uses Sabian AAX/HHX hi-hats that deliver controlled chaos even at his insane 270 BPM tempos.
+George Kollias of Nile has made his Zildjian K Custom Dark hi-hats as recognizable as his inhuman blast beat speed — the dark, controlled wash sits perfectly under technical death metal complexity across a 13"-15" range. Flo Mounier of Cryptopsy uses Sabian AAX/HHX hi-hats that deliver controlled chaos even at his insane 280+ BPM tempos.
 
 The wrong hi-hats for death metal don't just sound bad — they actively fight your playing. This guide breaks down what actually works, why, and which specific models give you the most extreme metal hi-hat performance across all budgets.`,
       keyPoints: [
         "Zildjian K Custom Dark is George Kollias's primary death metal hi-hat sound — dark, controlled wash at 280 BPM",
-        "Sabian AAX/HHX gives Flo Mounier controlled chaos at 270+ BPM tempos",
+        "Sabian AAX/HHX gives Flo Mounier controlled chaos at 280+ BPM tempos",
         "Medium-heavy tops dominate death metal hi-hats — enough weight to control wash at extreme blast beat speeds"
       ]
     },
@@ -86993,14 +86993,14 @@ George Kollias built his reputation for the fastest feet in death metal while us
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `Flo Mounier of Cryptopsy has used Sabian AAX/HHX hi-hats since 2012 — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 270+ BPM, his Sabian hi-hats deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
+          description: `Flo Mounier of Cryptopsy has used Sabian AAX/HHX hi-hats since 2012 — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 280+ BPM, his Sabian hi-hats deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
 
 The AAX/HHX B20 alloy gives bright, cutting body and projection at comparable weights. In death metal, this translates to a hi-hat chick that speaks with authority even when the kit is being pushed to its limits — a different tool for a different approach to extreme metal than Kollias's darker K Custom.`,
 
           pros: [
             "Full-bodied, powerful hi-hat character at extreme speeds",
             "Sabian B20 alloy — proven in the most intense death metal contexts",
-            "Flo Mounier endorsement since 2012 — 270 BPM proof of concept",
+            "Flo Mounier endorsement since 2012 — 280+ BPM proof of concept",
             "More projection than K Custom Dark — cuts louder"
           ],
           cons: [
@@ -87016,7 +87016,7 @@ The AAX/HHX B20 alloy gives bright, cutting body and projection at comparable we
             series: "AAX/HHX"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "Controlled chaos at 270 BPM — Sabian AAX/HHX since 2012" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "Controlled chaos at 280+ BPM — Sabian AAX/HHX since 2012" }
           ],
           verdict: "The power option for death metal. If you want big, full hi-hats that speak with authority, Sabian AAX/HHX delivers.",
           rating: 4.7,
@@ -87173,7 +87173,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
         {
           category: "Best for Power/Brutality",
           pedal: "Sabian AAX/HHX Hi-Hats",
-          reason: "Flo Mounier's choice since 2012 — full-bodied chick with authority, proven at 270 BPM."
+          reason: "Flo Mounier's choice since 2012 — full-bodied chick with authority, proven at 280+ BPM."
         },
         {
           category: "Best for Raw Articulation",
@@ -87196,13 +87196,13 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark — fastest feet in death metal' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' }
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 280+ BPM' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark for extreme cutting power at 280 BPM' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 280+ BPM' },
     ],
 
     // FAQ section for SEO

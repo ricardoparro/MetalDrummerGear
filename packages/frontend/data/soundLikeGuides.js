@@ -11894,8 +11894,8 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
       ],
       keySongs: [
         { song: "Too Extreme!", album: "Illud Divinum Insanus (Morbid Angel)", year: 2011, why: "Debut Morbid Angel blast beat showcase" },
-        { song: "I, Monarch", album: "I, Monarch (Hate Eternal)", year: 2005, why: "Technical death metal blast beat intensity under Erik Rutan" },
-        { song: "Fury & Flames", album: "Fury & Flames (Hate Eternal)", year: 2008, why: "Cited by drummers studying extreme blast beat technique" }
+        { song: "Conquering the Throne", album: "Conquering the Throne (Hate Eternal)", year: 1999, why: "Technical death metal blast beat intensity on Yeung's actual Hate Eternal recording, under Erik Rutan" },
+        { song: "Bleed the Fifth", album: "Bleed the Fifth (Divine Heresy)", year: 2007, why: "Cited by drummers studying extreme blast beat technique" }
       ]
     },
     gear: {

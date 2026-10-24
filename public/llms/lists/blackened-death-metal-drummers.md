@@ -40,9 +40,9 @@ Full drummer profile: [Pete Sandoval on MetalForge](https://metalforge.io/drumme
 
 **Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse consistency — brutal death metal's 35-year standard
-**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal blackened death metal standard for 35+ years and 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in the genre's history
+**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal blackened death metal standard for 35+ years and 16 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in the genre's history
 
-Paul Mazurkiewicz (Cannibal Corpse) earns rank #3 for: cannibal corpse consistency — brutal death metal's 35-year standard. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal blackened death metal standard for 35+ years and 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in the genre's history.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #3 for: cannibal corpse consistency — brutal death metal's 35-year standard. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal blackened death metal standard for 35+ years and 16 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in the genre's history.
 
 Full drummer profile: [Paul Mazurkiewicz on MetalForge](https://metalforge.io/drummer/paul-mazurkiewicz)
 

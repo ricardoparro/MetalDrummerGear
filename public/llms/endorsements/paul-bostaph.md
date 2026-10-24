@@ -31,8 +31,11 @@ Paul Bostaph endorses Pearl for hardware / pedals. They play the Pearl Eliminato
 ## Endorsement History
 
 - **1994** (Drums): Signed with Tama — Debut Slayer studio album "Divine Intervention" recorded on a Tama Artstar II kit with Paiste RUDE cymbals
+- **1994** (Cymbals): Signed with Paiste — Paiste RUDE cymbals, paired with his debut Tama Artstar II kit for Slayer's "Divine Intervention"
 - **1998** (Drums): Switched from Tama to DW — Moved to a DW Collector's Series Maple kit and Zildjian A Custom cymbals for "Diabolus in Musica"
+- **1998** (Cymbals): Switched from Paiste to Zildjian — Zildjian A Custom cymbals, adopted alongside the move to a DW Collector's Series Maple kit for "Diabolus in Musica"
 - **2001** (Drums): Switched from DW to Tama — Returned to Tama with a Starclassic Maple kit and Paiste 2002 cymbals for "God Hates Us All"
+- **2001** (Cymbals): Switched from Zildjian to Paiste — Paiste 2002 Series cymbals, adopted alongside the return to a Tama Starclassic Maple kit for "God Hates Us All"
 - **2015** (Drums): Switched from Tama to Pearl — Producer Terry Date moved him to a Pearl Masters Maple Complete kit and Sabian AAX cymbals for "Repentless"
 - **2015** (Cymbals): Switched from null to Sabian — Sabian AAX Series cymbals, adopted alongside the move to Pearl Masters Maple Complete for "Repentless"
 - **2015** (Drumsticks): Switched from null to Vater — Vater Power 5B sticks, adopted alongside the 2015 Pearl/Sabian setup
@@ -60,4 +63,4 @@ A: See the Endorsement History section above for a full timeline of Paul Bostaph
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-24 · Source: [MetalForge.io](https://metalforge.io)*

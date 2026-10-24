@@ -81361,26 +81361,26 @@ Paired with his Pearl Reference Series kit and signature Pearl snare, the Demon 
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€450-550",
           tier: "pro",
-          driveType: "Chain Drive",
+          driveType: "Direct Drive",
 
-          description: `Ray Luzier has driven Korn's powerful, syncopated kick patterns on a DW 9002 double bass pedal, delivering the massive, groove-driven low end that anchors the band's dense, down-tuned, processed productions. The 9002's smooth chain drive action gives Luzier precise control over Korn's off-beat, syncopated kick figures.
+          description: `Ray Luzier has driven Korn's powerful, syncopated kick patterns on a DW 9002 double bass pedal, delivering the massive, groove-driven low end that anchors the band's dense, down-tuned, processed productions. The 9002's smooth direct-drive action gives Luzier precise control over Korn's off-beat, syncopated kick figures.
 
 The DW 9002's proven touring reliability has carried Luzier through his entire Korn tenure since 2010, from "Korn III: Remember Who You Are" through "The Paradigm Shift" and beyond.`,
 
           pros: [
             "Ray Luzier's Korn setup — driving the band's dense, syncopated grooves",
-            "Smooth chain drive for precise control on off-beat kick patterns",
+            "Smooth direct-drive action for precise control on off-beat kick patterns",
             "Proven touring reliability across Luzier's entire Korn tenure",
             "Excellent for groove-focused, syncopated double-bass work",
             "DW's flagship build quality and adjustability"
           ],
           cons: [
-            "Chain drive has a slightly lower speed ceiling than direct drive alternatives",
+            "Direct drive feel takes some adjustment for drummers used to chain-drive pedals",
             "Premium DW pricing",
             "Heavier than some direct drive competitors"
           ],
           specs: {
-            drive: "Chain Drive (Turbo)",
+            drive: "Direct Drive",
             bearings: "Sealed Bearings",
             footboard: "DW Standard",
             beater: "DW Solid Felt (interchangeable)",
@@ -81606,7 +81606,7 @@ While not tied to one of nu-metal's featured signature setups, the Speed Cobra a
       },
       {
         question: "Direct drive or chain drive for nu-metal?",
-        answer: "Both work at the highest level — Joey Jordison's Pearl Demon Drive uses direct drive for maximum speed, while Ray Luzier's DW 9002 uses chain drive for smooth, precise control on syncopated patterns. Direct drive suits extreme speed and theatrical extremity; chain drive suits groove-focused precision."
+        answer: "Both work at the highest level — Joey Jordison's Pearl Demon Drive uses direct drive for maximum speed, while Ray Luzier's DW 9002 also uses direct drive for smooth, precise control on syncopated patterns. Direct drive suits both extreme speed and groove-focused precision, depending on setup and tuning."
       }
     ],
 
@@ -104205,14 +104205,14 @@ This guide covers what actually makes a pedal work for nu-metal's groove-first d
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€650-750",
           tier: "pro",
-          driveType: "Dual Chain",
+          driveType: "Direct Drive",
           description: `Ray Luzier has driven Korn's powerful, syncopated kick patterns on a DW 9002 double bass pedal since becoming the band's permanent drummer in 2010, delivering the precise, off-beat control Korn's dense, processed productions demand. Unlike a pedal chasing pure double-bass velocity, the 9002's value here is locking exactly to syncopated grooves rather than straight-time speed.
 
-The free-floating rotor design and dual chain give reliable, repeatable response night after night across a heavy touring schedule.`,
+The free-floating rotor design gives reliable, repeatable direct-drive response night after night across a heavy touring schedule.`,
           pros: [
             "Ray Luzier's Korn setup — precise control on off-beat, syncopated kick patterns",
             "Infinitely adjustable — customize spring tension, cam, and footboard angle",
-            "Dual chain provides power and stability without chasing extreme speed",
+            "Direct-drive response provides power and stability without chasing extreme speed",
             "Exceptional build quality for demanding touring schedules"
           ],
           cons: [
@@ -104221,7 +104221,7 @@ The free-floating rotor design and dual chain give reliable, repeatable response
             "Overkill if your material doesn't use syncopated double-kick patterns"
           ],
           specs: {
-            drive: "Dual Chain",
+            drive: "Direct Drive",
             cam: "Free-floating rotor",
             frame: "Machined aluminum",
             beater: "DW SM101 (reversible)",

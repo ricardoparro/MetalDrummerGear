@@ -1067,3 +1067,29 @@ Pre-07:00 UTC cheap pulse. Metrics 00:27 UTC (383u/438s/595v 7d; GSC 18,303 impr
 ---
 
 ---
+
+## 2026-10-24 06:17 (cheap pulse — 8/8 proposals verified+promoted, #9630-9637)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:17 UTC (398u/457s/618v 7d; GSC 1.01% CTR/pos 8.9, no content-gap rows). Confirmed #9607-9614 (promoted 00:28) + companion #9629 all shipped/merged and closed. At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9630-9637, filed 01:28-01:29 UTC), continuing the gear-fabrication/tenure/false-positive sweep across extendedBios.js, top10Lists.js, drummerComparisons.js, and verify-gear-consistency.cjs.
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (ran scripts live, cited lines vs `endorsementNews.js`/`bands.js`/`snares.js` ground truth, grepped for missed occurrences, dupe-searched): #9630 (verify-gear-consistency.cjs hardware false-positive, Inferno pedal+throne) VERIFIED-WITH-NOTE — real scope is wiring the existing `narrowToCategoryClause()` helper (already used by 2 other processors, precedent #8518) into `processApiDrummersIndex`, fixes ~15+ other drummers with the same pattern, not a single-drummer fix. #9631 (Tomas Haake Meshuggah tenure "1989"/"late 1980s" vs verified 1990) VERIFIED-WITH-NOTE — actual count is 7 occurrences across 4 top10Lists.js sections (djent, math-metal, industrial-metal, polyrhythmic), issue only cited 2. #9632 (Mazurkiewicz "15 studio albums" stale, #9327 fixed only 1 of 5) VERIFIED-WITH-NOTE — found a 6th occurrence at line 2384 the issue missed; bands.js confirms 16 is correct. #9633 (Chris Adler "Black Panther Design Lab" fabrication, 13th location missed by #8935) VERIFIED-WITH-NOTE — fabrication echoed in both the gear paragraph and the llms/vs/ FAQ mirror, both need the fix. #9634 (John Otto snare self-contradiction, single vs dual OCDP) VERIFIED-WITH-NOTE — found a 3rd uncited location in public/llms/comparisons.md (6 total occurrences across 3 files, not 2); confirmed distinct from closed #6661. #9635 (Garstka FAQ "Tama for first two albums" echo, #8048 only fixed gearHighlights) VERIFIED-WITH-NOTE — 2 stale llms mirrors (faq.md, drummers/matt-garstka.md) need the same fix. #9636 (Daray "Masterworks Stadium Exotic" vs verified "Reference Pure", #8873 fixed sibling file only) VERIFIED-WITH-NOTE — found a 2nd uncited FAQ echo at line 3270; flagged narrow-scope caution since George Kollias legitimately has the same model name elsewhere in the file. #9637 (Erlandsson "every Arch Enemy album" vs verified Wildoer/Stigmata gap) VERIFIED-WITH-NOTE — several public/llms mirrors (drummer page, lists, 5 article pages) repeat the same unqualified claim, flagged for a fast follow-up if not all fit in one PR. All 8 promoted to `ai-fix` with implementer-note comments (all 8 carried scope expansions).
+- **GSC content-gap**: no rows this week (6th consecutive clean week). **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 8 just-promoted (created 01:28-01:29 UTC, not >3 days) — nothing eligible.
+- **Starvation check**: pre-triage backlog 0 tripped the trigger shape, but bank held 8 (not ≤2) — same drain-then-refill cadence as every run this week; this run's own triage is the resolution.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still dated 2026-10-19 — next weekly refresh due ~2026-10-26, not re-run.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9630-9637 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (all 8 with scope-expansion notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: no rows. ✅ L1/L2/L3: not due yet. ✅ Starvation: not a real event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9630-9637 pick up via Roadie; confirm scope-expansions land (#9630's script-logic fix not single-drummer, #9631's 7-occurrence count, #9632's line-2384 fold-in, #9633/#9634's llms-mirror echoes, #9635's 2 mirror fixes, #9636's narrow-scope caution re: Kollias, #9637's mirror follow-up candidate).
+2. First run after 07:00 UTC is the daily deep run — full metrics/GSC-gap/L1-L2-L3 close-the-loop pass then (weekly refresh also due ~2026-10-26).
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

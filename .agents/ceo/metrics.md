@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-24 01:17 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-24 06:17 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 384 |
-| Sessions | 439 |
-| Page views | 597 |
-| Engagement rate | 59.45% |
+| Active users | 398 |
+| Sessions | 457 |
+| Page views | 618 |
+| Engagement rate | 59.96% |
 | Avg session (s) | 255 |
 
 ### Top pages (by page views, last 7d)
@@ -19,8 +19,8 @@
 | --- | --- | --- |
 | / | 21 | 15 |
 | /drummer/frost | 13 | 5 |
-| /drummer/john-otto | 10 | 9 |
-| /drummer/joey-jordison | 9 | 7 |
+| /drummer/john-otto | 12 | 9 |
+| /drummer/joey-jordison | 11 | 8 |
 | /guides/best-in-ear-monitors-for-metal-drummers | 9 | 7 |
 | /articles/slipknot-self-titled-drum-setup | 8 | 7 |
 | /drummer/mario-duplantier | 8 | 7 |
@@ -31,21 +31,21 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 342 | 288 |
-| Direct | 94 | 94 |
-| Unassigned | 9 | 8 |
+| Organic Search | 356 | 298 |
+| Direct | 98 | 98 |
+| Unassigned | 10 | 9 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 143 | 122 |
-| Singapore | 41 | 41 |
-| United Kingdom | 34 | 20 |
+| United States | 150 | 127 |
+| Singapore | 44 | 44 |
+| United Kingdom | 35 | 21 |
 | China | 30 | 30 |
 | Australia | 15 | 11 |
-| Canada | 14 | 11 |
+| Canada | 15 | 12 |
 | Germany | 13 | 12 |
 | Brazil | 10 | 9 |
 | France | 9 | 8 |

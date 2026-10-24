@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-24 18:11 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-24 19:10 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 413 |
-| Sessions | 475 |
-| Page views | 639 |
-| Engagement rate | 60.00% |
+| Active users | 415 |
+| Sessions | 477 |
+| Page views | 643 |
+| Engagement rate | 60.17% |
 | Avg session (s) | 250 |
 
 ### Top pages (by page views, last 7d)
@@ -24,14 +24,14 @@
 | /guides/best-in-ear-monitors-for-metal-drummers | 9 | 7 |
 | /articles/slipknot-self-titled-drum-setup | 8 | 7 |
 | /drummer/mario-duplantier | 8 | 7 |
+| /songs/fastest-metal-songs | 7 | 5 |
 | /drummer/bill-ward | 6 | 6 |
 | /drummer/hellhammer | 6 | 5 |
-| /drummer/matt-greiner | 6 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 368 | 306 |
+| Organic Search | 370 | 308 |
 | Direct | 105 | 105 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
@@ -40,7 +40,7 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 150 | 127 |
+| United States | 151 | 128 |
 | Singapore | 49 | 49 |
 | United Kingdom | 37 | 22 |
 | China | 31 | 31 |

@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-24 08:19 UTC · Window: last 12h*
+*Generated 2026-10-24 19:10 UTC · Window: last 12h*
 
 ---
 
@@ -8,23 +8,23 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 7 |
+| Open `ai-fix` issues | **28** |
+| Open `seo-proposal` issues | 12 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **18** |
-| Issues closed in window | 17 |
-| Commits to `main` in window | 22 |
+| Open PRs | 2 |
+| PRs merged in window | **12** |
+| Issues closed in window | 11 |
+| Commits to `main` in window | 17 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **401** |
-| Sessions | 460 |
-| Page views | 621 |
-| Engagement rate | 59.78% |
+| Active users | **415** |
+| Sessions | 477 |
+| Page views | 643 |
+| Engagement rate | 60.17% |
 | GSC impressions | 21,706 |
 | GSC clicks | 218 |
 | GSC CTR | 1.00% |
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~2,661 |
-| Est. ad revenue / mo | **~€7.98** |
+| Est. pageviews / mo | ~2,756 |
+| Est. ad revenue / mo | **~€8.27** |
 | Progress to €1000/mo | 0.8% |
-| Pageviews/mo needed for €1000 | ~333,333 (125× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (121× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -74,21 +74,21 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 17 | 17 | 0 |
-| Verify YouTube Videos | 17 | 9 | 8 |
-| Verify Data Modules | 16 | 8 | 8 |
-| Check Sitemap Drift | 16 | 8 | 8 |
-| Check llms freshness | 9 | 0 | 9 |
-| .github/workflows/check-vercel-rewrites.yml | 9 | 0 | 9 |
-| Perf Budget Gate | 8 | 0 | 8 |
+| PR Merger | 39 | 39 | 0 |
+| Verify YouTube Videos | 10 | 5 | 3 |
+| Verify Data Modules | 10 | 5 | 3 |
+| Check Sitemap Drift | 10 | 5 | 3 |
+| Check llms freshness | 5 | 0 | 3 |
+| Perf Budget Gate | 5 | 0 | 3 |
+| .github/workflows/check-vercel-rewrites.yml | 5 | 0 | 5 |
+| Roadie (Watcher + Implementer) | 4 | 4 | 0 |
+| Health Check | 3 | 3 | 0 |
+| Loop Watchdog | 2 | 2 | 0 |
+| SEO Agent | 2 | 1 | 0 |
+| CEO Agent | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
-| Loop Watchdog | 1 | 1 | 0 |
-| SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
-| CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| Roadie Night Fleet | 1 | 0 | 0 |
+| X Agent | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
@@ -99,8 +99,11 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - 2026-10-24 00:28 (cheap pulse — 8/8 proposals verified+promoted #9607-9614, +1 companion ai-fix filed #9629)
 - 2026-10-24 06:17 (cheap pulse — 8/8 proposals verified+promoted, #9630-9637)
 
-## 📦 Shipped to main (18)
+## 📦 Shipped to main (12)
 
+- #9669 fix: #9649 SEO: Aquiles Priester endorsementNews.js missing historical HARDWARE entry (Axis A double pedal era) — false 'fabrication' flag on correctly-dated content
+- #9668 fix: #9648 SEO: Flo Mounier endorsementNews.js missing historical CYMBALS entry (2005-2012 Zildjian era) — false 'fabrication' flag on correctly-dated content
+- #9667 fix: #9647 SEO: Paul Bostaph endorsementNews.js missing 3 historical CYMBALS timeline entries — causes false 'fabrication' flags on correctly-dated content
 - #9658 fix: #9637 SEO: Daniel Erlandsson extendedBios.js falsely claims 'every Arch Enemy studio album' — contradicts bands.js's own Peter Wildoer / Stigmata (1998) record
 - #9657 fix: #9636 SEO: Daray extendedBios.js 2008-2013 era kit still wrong model 'Pearl Masterworks Stadium Exotic' — verified 'Pearl Reference Pure', survived #8023's Tama-switch fix
 - #9656 fix: #9635 SEO: Matt Garstka extendedBios.js FAQ still says he 'played Tama for his first two' AAL albums — #8048's fix only touched the gearHighlights prose, missed this FAQ echo
@@ -110,23 +113,16 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - #9652 fix: #9632 SEO: Paul Mazurkiewicz album count still "15 studio albums" at 4 more top10Lists.js locations — #9327's fix only touched 1 of 5 occurrences
 - #9651 fix: #9631 SEO: Tomas Haake Meshuggah tenure start fabricated as 1989/"late 1980s" in top10Lists.js, contradicts same file's own 1990 entries
 - #9650 fix: #9630 SEO: verify-gear-consistency.cjs hardware category false-positives on legitimate 2nd hardware item (e.g. throne) in a different brand
-- #9646 fix: #9629 SEO: Tim Yeung albumArticles.js + soundLikeGuides.js also misattribute I, Monarch (2005) & Fury & Flames (2008) — same fabrication as #9613
-- #9645 fix: #9613 SEO: Tim Yeung drummerEvolution.js misattributes I, Monarch (2005) & Fury & Flames (2008) to him — verified Roddy/Simonetto
-- #9644 fix: #9614 SEO: Blake Richardson drummerEvolution.js echoes wrong BTBAM predecessor 'Will Goodyear' (3 locations) — verified Jason Roe
-- #9643 fix: #9611 SEO: Blake Richardson top10Lists.js self-contradicts BTBAM album count ('six' vs 'more than a dozen') — verified 9
-- #9642 fix: #9612 SEO: Mikkey Dee drummerComparisons.js FAQ fabricates 24" bass drum vs verified 18"x22" in same entry
-- #9641 fix: #9610 SEO: Morgan Ågren fabricates 'toured with Zappa's band in 1988' across 5 files — verified one-off guest sit-in
-- _+3 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2065h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2161h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2338h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3423h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5853h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2076h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2172h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2349h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3434h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5864h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

@@ -2788,7 +2788,7 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
         title: 'Overview',
         content: `Daniel Erlandsson (born May 22, 1976, in Malmö, Sweden) is a Swedish drummer and founding member of melodic death metal band Arch Enemy, formed in 1995 by Michael Amott and Daniel Erlandsson. His drumming combines Scandinavian death metal intensity with technical precision and musicality, helping define the melodic death metal genre.
 
-Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the Gothenburg melodic death metal sound. His career spans over three decades, during which he has performed on every Arch Enemy album and established himself as one of the most consistent drummers in extreme metal. His ability to blend blast beats with groove and dynamics has made Arch Enemy accessible while maintaining their metal credibility.`
+Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the Gothenburg melodic death metal sound. His career spans over three decades, during which he has recorded nearly every Arch Enemy album—stepping aside only for Stigmata (1998), recorded by Peter Wildoer during a documented absence—and established himself as one of the most consistent drummers in extreme metal. His ability to blend blast beats with groove and dynamics has made Arch Enemy accessible while maintaining their metal credibility.`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -2868,7 +2868,7 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
         title: 'Trivia & Notes',
         items: [
           'Co-founded Arch Enemy in 1995 with guitarist Michael Amott',
-          'Has performed on every Arch Enemy studio album since 1996',
+          'Has recorded nearly every Arch Enemy studio album since 1996, with Stigmata (1998) recorded by Peter Wildoer during his absence',
           'Was part of Eucharist, one of the earliest Gothenburg melodic death metal bands',
           'Toured with Carcass as live drummer during their reunion period',
           'Known for his professional, workmanlike approach to touring',

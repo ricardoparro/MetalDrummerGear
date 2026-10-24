@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daniel-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-24"
 ---
 
 # Daniel Erlandsson — Drum Kit & Gear Setup
@@ -19,7 +19,6 @@ Daniel Erlandsson's drum kit and gear setup. Daniel Erlandsson is a professional
 |---|---|
 | Name | Daniel Erlandsson |
 | Band | Arch Enemy |
-| All bands | Arch Enemy, Brujeria |
 | Genre | Melodic Death Metal |
 | Country | Sweden |
 | Primary brand | Pearl |
@@ -33,20 +32,20 @@ Daniel Erlandsson plays a Pearl Reference Pure drum kit — a versatile hybrid s
 
 Sabian's AAX / HHX Series cymbals shape the Daniel Erlandsson drum kit, built to punch through Arch Enemy's dense, dual-guitar attack. A Pearl Eliminator Double Bass Pedal drives his rapid, precise double-bass patterns, giving Erlandsson the speed and control heard across decades of Arch Enemy recordings and tours.
 
-ProMark 5B sticks and Remo heads round out the rig, favored for durability under his hard-hitting, high-tempo playing. The Daniel Erlandsson drum set has remained tied to this Pearl/Sabian configuration throughout his work with Arch Enemy and his side project Brujeria, alongside earlier stints with Eucharist and live work with Carcass and In Flames.
+ProMark 5B sticks and Remo heads round out the rig, favored for durability under his hard-hitting, high-tempo playing. The Daniel Erlandsson drum set has remained tied to this Pearl/Sabian configuration throughout his work with Arch Enemy, alongside earlier stints with Eucharist and live work with Carcass and In Flames.
 
 ## Biography
 
 Daniel Erlandsson (born May 22, 1976) is a Swedish drummer and founding member of melodic death metal band Arch Enemy, formed in 1995. His drumming combines Scandinavian death metal intensity with technical precision and musicality. He has also played with Eucharist, Carcass (live), and In Flames.
 
-Daniel Erlandsson (born May 22, 1976, in Malmö, Sweden) is a Swedish drummer and founding member of melodic death metal band Arch Enemy, formed in 1995 by his brother Michael Erlandsson (later replaced by Christopher Amott) and guitarist Michael Amott. His drumming combines Scandinavian death metal intensity with technical precision and musicality, helping define the melodic death metal genre.
+Daniel Erlandsson (born May 22, 1976, in Malmö, Sweden) is a Swedish drummer and founding member of melodic death metal band Arch Enemy, formed in 1995 by Michael Amott and Daniel Erlandsson. His drumming combines Scandinavian death metal intensity with technical precision and musicality, helping define the melodic death metal genre.
 
-Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the Gothenburg melodic death metal sound. His career spans over three decades, during which he has performed on every Arch Enemy album and established himself as one of the most consistent drummers in extreme metal. His ability to blend blast beats with groove and dynamics has made Arch Enemy accessible while maintaining their metal credibility.
+Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the Gothenburg melodic death metal sound. His career spans over three decades, during which he has recorded nearly every Arch Enemy album—stepping aside only for Stigmata (1998), recorded by Peter Wildoer during a documented absence—and established himself as one of the most consistent drummers in extreme metal. His ability to blend blast beats with groove and dynamics has made Arch Enemy accessible while maintaining their metal credibility.
 
 ## Career Highlights
 
 - **1989** — Joined Eucharist, pioneering Gothenburg melodic death metal
-- **1995** — Helped found Arch Enemy with brother Michael and guitarist Michael Amott
+- **1995** — Helped found Arch Enemy with guitarist Michael Amott
 - **1996** — Released Arch Enemy debut "Black Earth"
 - **1998** — Released "Stigmata," establishing Arch Enemy's signature sound
 - **2001** — Angela Gossow joined as vocalist; band gained international attention
@@ -100,7 +99,6 @@ Daniel Erlandsson's drumming embodies the Swedish melodic death metal approach�
 ## Band History
 
 - **Arch Enemy** — 1998–present (current)
-- **Brujeria** — 2000–present (current)
 
 ## Gear
 
@@ -125,19 +123,19 @@ Daniel Erlandsson's drumming embodies the Swedish melodic death metal approach�
 
 **Q: What drum kit does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson's drum kit is a Pearl Reference Pure kit, a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy. It centers on his Pearl Daniel Erlandsson Signature 14"x5.5" snare and is topped with Paiste RUDE and 2002 Series cymbals, driven by a Pearl Demon Drive double pedal.
+A: Daniel Erlandsson's drum kit is a Pearl Reference Pure kit, a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy. It centers on his Pearl Daniel Erlandsson Signature 14"x5.5" snare and is topped with Sabian AAX/HHX Series cymbals, driven by a Pearl Eliminator Double Bass Pedal.
 
 **Q: What drum set does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson's drum set is a Pearl Reference Pure configuration built around his signature Pearl Daniel Erlandsson 14"x5.5" thin-shell snare for a fast, cracking response. The drum set carries Paiste RUDE and 2002 Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks.
+A: Daniel Erlandsson's drum set is a Pearl Reference Pure configuration built around his signature Pearl Daniel Erlandsson 14"x5.5" thin-shell snare for a fast, cracking response. The drum set carries Sabian AAX/HHX Series cymbals, a Pearl Eliminator Double Bass Pedal, and ProMark 5B sticks.
 
 **Q: What cymbals does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson uses Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats for aggressive, cutting chick sounds, 18" and 19" RUDE Crashes for explosive accents, and a 22" RUDE Power Ride built to punch through Arch Enemy's dense, dual-guitar attack.
+A: Daniel Erlandsson uses Sabian AAX/HHX Series cymbals: 14" HHX Hi-Hats for aggressive, cutting chick sounds, 18" and 19" AAX Crashes for explosive accents, and a 22" AAX Power Ride built to punch through Arch Enemy's dense, dual-guitar attack.
 
 **Q: What hi-hats does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson plays 14" Paiste RUDE Hi-Hats, delivering the aggressive, cutting chick sound that drives Arch Enemy's melodic death metal rhythms.
+A: Daniel Erlandsson plays 14" Sabian HHX Hi-Hats, delivering the aggressive, cutting chick sound that drives Arch Enemy's melodic death metal rhythms.
 
 **Q: What snare drum does Daniel Erlandsson play?**
 
@@ -145,7 +143,7 @@ A: Daniel Erlandsson plays his signature Pearl Daniel Erlandsson 14"x5.5" snare,
 
 **Q: What bass drum pedals does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson uses a Pearl Demon Drive double bass drum pedal, driving his rapid, precise double-bass patterns across decades of Arch Enemy recordings and tours.
+A: Daniel Erlandsson uses a Pearl Eliminator Double Bass Pedal, driving his rapid, precise double-bass patterns across decades of Arch Enemy recordings and tours.
 
 **Q: What band is Daniel Erlandsson in?**
 
@@ -153,20 +151,20 @@ A: Daniel Erlandsson is a founding member and drummer of melodic death metal ban
 
 **Q: What drumsticks does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson uses Vic Firth American Classic 5B drumsticks.
+A: Daniel Erlandsson uses ProMark 5B drumsticks.
 
 **Q: What drumheads does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson uses Evans drumheads across his Pearl Reference Pure kit.
+A: Daniel Erlandsson uses Remo drumheads across his Pearl Reference Pure kit.
 
 **Q: What hi-hats does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson uses 14" Paiste RUDE Hi-Hats for aggressive, cutting chick sounds, mounted on his Pearl Reference Pure drum kit and drum set.
+A: Daniel Erlandsson uses 14" Sabian HHX Hi-Hats for aggressive, cutting chick sounds, mounted on his Pearl Reference Pure drum kit and drum set.
 
 ## Trivia
 
-- Co-founded Arch Enemy with his brother Michael (original rhythm guitarist)
-- Has performed on every Arch Enemy studio album since 1996
+- Co-founded Arch Enemy in 1995 with guitarist Michael Amott
+- Has recorded nearly every Arch Enemy studio album since 1996, with Stigmata (1998) recorded by Peter Wildoer during his absence
 - Was part of Eucharist, one of the earliest Gothenburg melodic death metal bands
 - Toured with Carcass as live drummer during their reunion period
 - Known for his professional, workmanlike approach to touring
@@ -231,4 +229,4 @@ Dated brand-endorsement timeline: [Daniel Erlandsson's endorsement history](http
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-24 · Source: [MetalForge.io](https://metalforge.io)*

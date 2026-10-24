@@ -17031,7 +17031,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2019–2021',
         startYear: 2019,
         endYear: 2021,
-        description: 'In Cauda Venenum (2019) — Opeth\'s thirteenth studio album, released simultaneously in Swedish and English — was Axenrot\'s final studio record with the band, closing out a thirteen-year tenure that began with Watershed\'s twin-kick aggression and ended amid Dave Stewart\'s orchestral string arrangements. His custom DW kit and SABIAN HHX/AAX cymbals, unchanged since Watershed, had to move fluidly between passages where the drums carried the arrangement and passages where they receded behind strings and mellotron. Axenrot departed Opeth in 2021, and Waltteri Väyrynen (formerly of Paradise Lost) took over the drum chair in September 2022.',
+        description: 'In Cauda Venenum (2019) — Opeth\'s thirteenth studio album, released simultaneously in Swedish and English — was Axenrot\'s final studio record with the band, closing out a fifteen-year tenure that began with Watershed\'s twin-kick aggression and ended amid Dave Stewart\'s orchestral string arrangements. His custom DW kit and SABIAN HHX/AAX cymbals, unchanged since Watershed, had to move fluidly between passages where the drums carried the arrangement and passages where they receded behind strings and mellotron. Axenrot departed Opeth in 2021, and Waltteri Väyrynen (formerly of Paradise Lost) took over the drum chair in September 2022.',
         albums: ['In Cauda Venenum (2019)'],
         tours: ['In Cauda Venenum Tour 2019–2020'],
         image: null,
@@ -17052,7 +17052,7 @@ export const DRUMMER_EVOLUTION = {
           cymbals: {
             item: 'SABIAN HHX / AAX Series',
             details: 'Unchanged from the Watershed-era setup',
-            notes: 'The one constant across all thirteen years of Axenrot\'s Opeth tenure, per SABIAN\'s own artist page.',
+            notes: 'The one constant across all fifteen years of Axenrot\'s Opeth tenure, per SABIAN\'s own artist page.',
             change: null,
           },
           hardware: {
@@ -17083,7 +17083,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'In Cauda Venenum (2019) — Opeth\'s 13th studio album, released simultaneously in Swedish and English',
-          'Final studio album of Axenrot\'s thirteen-year Opeth tenure',
+          'Final studio album of Axenrot\'s fifteen-year Opeth tenure',
           'Kit shared sonic space with Dave Stewart\'s orchestral string arrangements on multiple tracks',
           'Departed Opeth in 2021; Waltteri Väyrynen took over the drum chair in September 2022',
         ],
@@ -17108,7 +17108,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit did Martin Axenrot use in Opeth?',
-        a: 'Martin Axenrot plays a custom hand-made DW twin-kick kit with maple/gum shells, as he described in a 2016 MusicRadar interview, unchanged from his 2008 studio debut Watershed through his final album, In Cauda Venenum (2019). His SABIAN HHX/AAX cymbal setup, confirmed via SABIAN\'s own artist page, stayed constant across his entire thirteen-year Opeth tenure.',
+        a: 'Martin Axenrot plays a custom hand-made DW twin-kick kit with maple/gum shells, as he described in a 2016 MusicRadar interview, unchanged from his 2008 studio debut Watershed through his final album, In Cauda Venenum (2019). His SABIAN HHX/AAX cymbal setup, confirmed via SABIAN\'s own artist page, stayed constant across his entire fifteen-year Opeth tenure.',
       },
       {
         q: 'When did Martin Axenrot leave Opeth?',

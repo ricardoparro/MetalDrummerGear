@@ -7527,7 +7527,7 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
     drummerId: 18,
     name: 'Pete Sandoval',
     bands: [
-      { slug: 'morbid-angel', period: '1988-2013', role: 'Drummer' },
+      { slug: 'morbid-angel', period: '1988-2010', role: 'Drummer' },
       { slug: 'terrorizer', period: '1986-1989, 2005-present', role: 'Drummer, co-founder' },
       { slug: 'i-am-morbid', period: '2022-present', role: 'Drummer' }
     ],
@@ -7552,8 +7552,7 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
           { year: '1993', event: 'Released "Covenant" with Morbid Angel, reaching Billboard Top 100' },
           { year: '2000', event: 'Released "Gateways to Annihilation" with Morbid Angel' },
           { year: '2006', event: 'Terrorizer reunited; released "Darker Days Ahead"' },
-          { year: '2010', event: 'Underwent spinal disc surgery, temporarily leaving Morbid Angel' },
-          { year: '2013', event: 'Left Morbid Angel permanently' },
+          { year: '2010', event: 'Underwent spinal disc surgery, sidelining him from Morbid Angel permanently' },
           { year: '2018', event: 'Released "Caustic Attack" with Terrorizer' },
           { year: '2022', event: 'Reunited with David Vincent in I Am Morbid' }
         ]
@@ -7629,7 +7628,7 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What band does Pete Sandoval play drums for?', a: 'Pete Sandoval drummed for Morbid Angel from 1988-2013 and co-founded Terrorizer. He reunited with former Morbid Angel vocalist David Vincent in 2022 to drum for I Am Morbid.' },
+          { q: 'What band does Pete Sandoval play drums for?', a: 'Pete Sandoval drummed for Morbid Angel from 1988-2010 and co-founded Terrorizer. He reunited with former Morbid Angel vocalist David Vincent in 2022 to drum for I Am Morbid.' },
           { q: 'What drums does Pete Sandoval play?', a: 'Pete Sandoval has been a ddrum artist for much of his career, but the specific drum series he plays is not named on ddrum\'s own artist page.' },
           { q: 'What drum kit does Pete Sandoval play?', a: 'Pete Sandoval\'s drum kit is built on ddrum shells, though the specific series and snare model are not publicly documented.' },
           { q: 'What drum set does Pete Sandoval play?', a: 'Pete Sandoval\'s drum set is built on ddrum shells with a ddrum-brand double pedal; the specific series, snare model, and cymbal brand are not publicly documented.' },

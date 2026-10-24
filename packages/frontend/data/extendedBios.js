@@ -1960,7 +1960,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
     name: 'Morgan Ågren',
     bands: [
       { slug: 'devin-townsend-project', period: '2012-2016', role: 'Drummer' },
-      { slug: 'frank-zappa', period: '1988', role: 'Touring drummer' },
+      { slug: 'frank-zappa', period: '1988', role: 'One-off guest sit-in (Stockholm, May 1, 1988)' },
       { slug: 'mats-morgan-band', period: '1981-present', role: 'Drummer, co-founder' },
       { slug: 'kaipa', period: '2002-2005', role: 'Drummer' }
     ],
@@ -1970,7 +1970,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
     sections: {
       overview: {
         title: 'Overview',
-        content: `Morgan Ågren (born July 13, 1967, in Umeå, Sweden) is a Swedish drummer and multi-instrumentalist renowned for his extraordinary technical ability and musical versatility. A child prodigy who was performing professionally by age 13, Ågren gained international recognition for his work with Frank Zappa's band in 1988 and later with Devin Townsend Project.
+        content: `Morgan Ågren (born July 13, 1967, in Umeå, Sweden) is a Swedish drummer and multi-instrumentalist renowned for his extraordinary technical ability and musical versatility. A child prodigy who was performing professionally by age 13, Ågren gained international recognition after sitting in with Frank Zappa's band for one Stockholm concert in 1988 and later with Devin Townsend Project.
 
 Ågren's drumming combines jazz fusion sophistication with rock power, making him one of the most technically accomplished drummers in progressive music. His work with the Mats/Morgan Band alongside keyboardist Mats Öberg showcases his incredible improvisational abilities and compositional skills.`
       },
@@ -1978,7 +1978,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
         title: 'Career Highlights',
         items: [
           { year: '1981', event: 'Formed Mats/Morgan Band with Mats Öberg at age 14' },
-          { year: '1988', event: 'Toured with Frank Zappa\'s band, hand-picked by Zappa himself' },
+          { year: '1988', event: 'Sat in with Frank Zappa\'s band for one Stockholm concert, hand-picked by Zappa himself' },
           { year: '1991', event: 'Released first Mats/Morgan Band album' },
           { year: '2002', event: 'Joined Swedish progressive band Kaipa' },
           { year: '2005', event: 'Released solo album "Morgan Ågren\'s Conundrum"' },
@@ -2016,7 +2016,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
           { name: 'Kaipa - Keyholder', year: 2003, label: 'Inside Out', note: 'Swedish prog' }
         ],
         tours: [
-          { name: 'Frank Zappa Tour', year: '1988', note: 'Touring with Zappa\'s band' },
+          { name: 'Frank Zappa Guest Appearance', year: '1988', note: 'One-off guest sit-in with Zappa\'s band, Stockholm, May 1, 1988' },
           { name: 'Devin Townsend Project Tours', year: '2012-2016', note: 'Multiple world tours' },
           { name: 'Mats/Morgan European Tours', year: '1991-present', note: 'Ongoing performances' }
         ]
@@ -2042,7 +2042,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
       trivia: {
         title: 'Trivia & Notes',
         items: [
-          'Was personally selected by Frank Zappa to tour with his band in 1988',
+          'Was personally selected by Frank Zappa to sit in with his band for one Stockholm concert in 1988',
           'Started playing professionally at age 13, a genuine prodigy',
           'Has collaborated with Mats Öberg for over 40 years in Mats/Morgan Band',
           'Devin Townsend specifically sought him out for his complex compositions',
@@ -2063,8 +2063,8 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
           { q: 'What sticks does Morgan Ågren use?', a: 'Morgan Ågren uses Vic Firth American Classic 5A drumsticks.' },
           { q: 'What bass drum pedal does Morgan Ågren use?', a: 'Morgan Ågren plays a Sonor Giant Step double pedal, seated on a Sonor throne.' },
           { q: 'What drumheads does Morgan Ågren use?', a: 'Morgan Ågren uses Remo drumheads across his Sonor SQ2 kit.' },
-          { q: 'What band is Morgan Ågren in?', a: 'Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 and has drummed for Devin Townsend Project (2012-2016), Kaipa (2002-2005), and toured with Frank Zappa\'s band in 1988.' },
-          { q: 'How did Morgan Ågren start working with Frank Zappa?', a: 'Morgan Ågren was personally selected by Frank Zappa to tour with his band in 1988, a milestone that introduced his virtuosic playing to a global audience alongside his ongoing work co-founding and drumming for the Mats/Morgan Band since 1981.' }
+          { q: 'What band is Morgan Ågren in?', a: 'Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 and has drummed for Devin Townsend Project (2012-2016), Kaipa (2002-2005), and sat in with Frank Zappa\'s band for one Stockholm concert in 1988.' },
+          { q: 'How did Morgan Ågren start working with Frank Zappa?', a: 'Morgan Ågren was personally selected by Frank Zappa to sit in with his band for one Stockholm concert in 1988, a milestone that introduced his virtuosic playing to a global audience alongside his ongoing work co-founding and drumming for the Mats/Morgan Band since 1981.' }
         ]
       },
       sources: {

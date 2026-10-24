@@ -2941,7 +2941,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.CYMBALS,
         from: null,
         to: 'Paiste',
-        notes: 'Developing Paiste relationship in place around the time Frank Zappa personally selected the then-20-year-old Ågren for his touring band',
+        notes: 'Developing Paiste relationship in place around the time Frank Zappa personally selected the then-20-year-old Ågren to sit in with his band for one Stockholm concert',
       },
       {
         year: 1988,

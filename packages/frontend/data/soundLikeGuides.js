@@ -11591,7 +11591,7 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
     genre: 'Progressive Rock / Jazz Fusion / Progressive Metal',
     priority: 44,
     title: "How to Sound Like Morgan Ågren: Complete Gear & Technique Guide",
-    description: "Master Morgan Ågren's four-over-three polyrhythms and extreme dynamic range. Learn the technique behind Frank Zappa's touring drummer and Devin Townsend Project's rhythmic architect, plus his Sonor kit and Paiste Signature cymbal setup.",
+    description: "Master Morgan Ågren's four-over-three polyrhythms and extreme dynamic range. Learn the technique behind the drummer Frank Zappa invited on stage for a one-off Stockholm guest appearance and Devin Townsend Project's rhythmic architect, plus his Sonor kit and Paiste Signature cymbal setup.",
     seoKeywords: ['morgan agren drumming style', 'how to sound like morgan agren', 'morgan agren technique', 'morgan agren gear', 'morgan agren polyrhythm', 'devin townsend drummer'],
     ogImage: '/images/guides/morgan-agren-guide.webp',
     datePublished: '2026-07-01',
@@ -11601,13 +11601,13 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
     readingTime: '9 min',
     intro: {
       title: "The Polyrhythm Architect",
-      content: `Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981, was personally selected by Frank Zappa to tour in 1988 at just 20 years old, and anchored three Devin Townsend Project albums (Epicloud, Z², Transcendence) that count among progressive metal's most technically ambitious studio records. Few drummers move as fluently between jazz-fusion, avant-garde composition, and heavy music as Ågren.
+      content: `Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981, was personally selected by Frank Zappa to sit in with his band for one Stockholm concert in 1988 at just 20 years old, and anchored three Devin Townsend Project albums (Epicloud, Z², Transcendence) that count among progressive metal's most technically ambitious studio records. Few drummers move as fluently between jazz-fusion, avant-garde composition, and heavy music as Ågren.
 
 What makes him a benchmark rather than just a technician is that his complexity always serves dynamic contrast. His signature four-over-three polyrhythm — hands playing four evenly spaced strokes against three in the feet — requires complete four-limb independence, and he improvises melodic tom content over it while maintaining the underlying structure. He can drop to near-inaudible ghost notes and explode to full-force rimshots within a single phrase, a range rooted directly in jazz vocabulary.
 
 This guide breaks down the technique, gear, and practice approach behind Ågren's polyrhythmic, dynamically extreme style — essential study for any drummer working the jazz-fusion-to-progressive-metal crossover.`,
       keyPoints: [
-        "Personally selected by Frank Zappa to tour in 1988 — one of music's most demanding musicianship endorsements",
+        "Personally selected by Frank Zappa to sit in with his band for one Stockholm concert in 1988 — one of music's most demanding musicianship endorsements",
         "Signature four-over-three polyrhythm with improvised melodic overlay, requiring full four-limb independence",
         "Extreme dynamic range — from near-inaudible ghost notes to full-force rimshots in one phrase",
         "Devin Townsend Project drummer 2012-2016; Mats/Morgan Band since 1981"
@@ -11813,7 +11813,7 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
       },
       {
         question: "Why was Morgan Ågren chosen by Frank Zappa?",
-        answer: "Zappa personally selected Ågren to tour in 1988 when Ågren was just 20 — Zappa was known for rigorously auditioning musicians and valued dramatic dynamic contrast in his arrangements, which matched exactly what Ågren's jazz-fusion-rooted technique offered. That endorsement remains one of the most credible musicianship validations in progressive music."
+        answer: "Zappa personally selected Ågren to sit in with his band for one Stockholm concert in 1988 when Ågren was just 20 — Zappa was known for rigorously auditioning musicians and valued dramatic dynamic contrast in his arrangements, which matched exactly what Ågren's jazz-fusion-rooted technique offered. That endorsement remains one of the most credible musicianship validations in progressive music."
       }
     ],
     related: {

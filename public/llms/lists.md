@@ -5847,9 +5847,9 @@ The rhythmic architects of metal's most polyrhythmic, guitar-tone-driven subgenr
 
 **Band:** Meshuggah
 **Highlight:** Meshuggah's polymetric founding father
-**Why ranked here:** Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1989 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove
+**Why ranked here:** Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1990 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove
 
-Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1989 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove.
+Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1990 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove.
 
 Full profile: https://metalforge.io/drummer/tomas-haake
 
@@ -5942,7 +5942,7 @@ Full profile: https://metalforge.io/drummer/danny-carey
 ### Frequently Asked Questions
 
 **Q: Who is the best djent drummer?**
-A: Tomas Haake of Meshuggah is the definitive djent drummer — his metronomic, polymetric drumming since the late 1980s built the rhythmic template the entire genre grew from. Matt Halpern of Periphery is the answer for djent's commercial breakthrough, bringing polyrhythmic complexity and electronic production sensibility to djent's most successful band. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, pushing djent's rhythmic vocabulary into jazz-fusion territory.
+A: Tomas Haake of Meshuggah is the definitive djent drummer — his metronomic, polymetric drumming since 1990 built the rhythmic template the entire genre grew from. Matt Halpern of Periphery is the answer for djent's commercial breakthrough, bringing polyrhythmic complexity and electronic production sensibility to djent's most successful band. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, pushing djent's rhythmic vocabulary into jazz-fusion territory.
 
 **Q: What is djent drumming?**
 A: Djent drumming is built around tight, syncopated interplay with palm-muted, polymetric guitar riffs — the drummer locks into interlocking, often odd-grouped rhythmic cells (like 5s and 7s layered over a steady pulse) rather than playing straightforward backbeats. Where most metal drumming drives the song's energy independently, djent drumming is inseparable from the guitar riff it accompanies, requiring the drummer to internalize complex polymeters while still keeping the groove danceable and heavy.
@@ -7599,9 +7599,9 @@ The percussionists behind metal's most mathematically complex, time-signature-de
 
 **Band:** Meshuggah
 **Highlight:** Meshuggah's polymetric founding father
-**Why ranked here:** Tomas Haake's polyrhythmic drumming style with Meshuggah since 1989, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop.
+**Why ranked here:** Tomas Haake's polyrhythmic drumming style with Meshuggah since 1990, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop.
 
-Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's polyrhythmic drumming style with Meshuggah since 1989, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop..
+Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's polyrhythmic drumming style with Meshuggah since 1990, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop..
 
 Full profile: https://metalforge.io/drummer/tomas-haake
 
@@ -7696,7 +7696,7 @@ Drummer #62 (Unknown) earns rank #10 for: august burns red's jazz-informed techn
 ### Frequently Asked Questions
 
 **Q: Who is the best math metal drummer?**
-A: Tomas Haake of Meshuggah is the definitive answer, his polyrhythmic, mathematically precise drumming since the late 1980s establishing the rhythmic template math metal and djent both grew from. Between the Buried and Me's Blake Richardson and Dillinger Escape Plan's drumming lineage — the genre's mathcore-founding acts — don't yet have dedicated MetalForge profiles. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, and Hannes Grossmann of Obscura follows closely for classically-informed rhythmic precision.
+A: Tomas Haake of Meshuggah is the definitive answer, his polyrhythmic, mathematically precise drumming since 1990 establishing the rhythmic template math metal and djent both grew from. Between the Buried and Me's Blake Richardson and Dillinger Escape Plan's drumming lineage — the genre's mathcore-founding acts — don't yet have dedicated MetalForge profiles. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, and Hannes Grossmann of Obscura follows closely for classically-informed rhythmic precision.
 
 **Q: What is math metal?**
 A: Math metal fuses death metal and hardcore's aggression with mathcore and progressive rock's obsession with odd meters and asymmetrical riffing. Dillinger Escape Plan and Botch built the genre's chaotic mathcore foundation in the late 1990s, Meshuggah's polymetric precision gave rise to the closely related djent movement, and Between the Buried and Me and Animals as Leaders pushed the genre's rhythmic ambition into progressive and jazz-fusion-informed territory through the 2000s and 2010s.
@@ -7875,9 +7875,9 @@ Full profile: https://metalforge.io/drummer/arin-ilejay
 
 **Band:** Meshuggah
 **Highlight:** Meshuggah's machine-like polymetric precision
-**Why ranked here:** Tomas Haake's polyrhythmic drumming with Meshuggah since 1989 is built on complex, mathematically precise patterns executed with a mechanical consistency that shares industrial metal's core aesthetic — "Nothing" (2002) and "obZen" (2008) feature tempo-locked, almost programmed-feeling grooves despite being performed entirely acoustically. Tomas Haake earns rank #2 for a level of metronomic precision that approaches industrial metal's machine-inspired ideal from an entirely different, djent-founding direction.
+**Why ranked here:** Tomas Haake's polyrhythmic drumming with Meshuggah since 1990 is built on complex, mathematically precise patterns executed with a mechanical consistency that shares industrial metal's core aesthetic — "Nothing" (2002) and "obZen" (2008) feature tempo-locked, almost programmed-feeling grooves despite being performed entirely acoustically. Tomas Haake earns rank #2 for a level of metronomic precision that approaches industrial metal's machine-inspired ideal from an entirely different, djent-founding direction.
 
-Tomas Haake (Meshuggah) earns rank #2 for: meshuggah's machine-like polymetric precision. Tomas Haake's polyrhythmic drumming with Meshuggah since 1989 is built on complex, mathematically precise patterns executed with a mechanical consistency that shares industrial metal's core aesthetic — "Nothing" (2002) and "obZen" (2008) feature tempo-locked, almost programmed-feeling grooves despite being performed entirely acoustically. Tomas Haake earns rank #2 for a level of metronomic precision that approaches industrial metal's machine-inspired ideal from an entirely different, djent-founding direction..
+Tomas Haake (Meshuggah) earns rank #2 for: meshuggah's machine-like polymetric precision. Tomas Haake's polyrhythmic drumming with Meshuggah since 1990 is built on complex, mathematically precise patterns executed with a mechanical consistency that shares industrial metal's core aesthetic — "Nothing" (2002) and "obZen" (2008) feature tempo-locked, almost programmed-feeling grooves despite being performed entirely acoustically. Tomas Haake earns rank #2 for a level of metronomic precision that approaches industrial metal's machine-inspired ideal from an entirely different, djent-founding direction..
 
 Full profile: https://metalforge.io/drummer/tomas-haake
 
@@ -12560,9 +12560,9 @@ Polyrhythmic metal is a technique-defined lens rather than a genre label — it 
 
 **Band:** Meshuggah
 **Highlight:** Meshuggah's polymetric founding father
-**Why ranked here:** Tomas Haake's polyrhythmic drumming style with Meshuggah since 1989 is built on simultaneous, conflicting time signatures played against a steady pulse rather than single-meter complexity — the mechanically precise polymetric approach that both defined djent and gave polyrhythmic metal its most influential reference point. His work on "Nothing" (2002) and "obZen" (2008) remains the technique's benchmark. Haake earns rank #1 as polyrhythmic metal's most influential and directly imitated practitioner.
+**Why ranked here:** Tomas Haake's polyrhythmic drumming style with Meshuggah since 1990 is built on simultaneous, conflicting time signatures played against a steady pulse rather than single-meter complexity — the mechanically precise polymetric approach that both defined djent and gave polyrhythmic metal its most influential reference point. His work on "Nothing" (2002) and "obZen" (2008) remains the technique's benchmark. Haake earns rank #1 as polyrhythmic metal's most influential and directly imitated practitioner.
 
-Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's polyrhythmic drumming style with Meshuggah since 1989 is built on simultaneous, conflicting time signatures played against a steady pulse rather than single-meter complexity — the mechanically precise polymetric approach that both defined djent and gave polyrhythmic metal its most influential reference point. His work on "Nothing" (2002) and "obZen" (2008) remains the technique's benchmark. Haake earns rank #1 as polyrhythmic metal's most influential and directly imitated practitioner..
+Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's polyrhythmic drumming style with Meshuggah since 1990 is built on simultaneous, conflicting time signatures played against a steady pulse rather than single-meter complexity — the mechanically precise polymetric approach that both defined djent and gave polyrhythmic metal its most influential reference point. His work on "Nothing" (2002) and "obZen" (2008) remains the technique's benchmark. Haake earns rank #1 as polyrhythmic metal's most influential and directly imitated practitioner..
 
 Full profile: https://metalforge.io/drummer/tomas-haake
 
@@ -12642,7 +12642,7 @@ Full profile: https://metalforge.io/drummer/travis-orbin
 A: Polyrhythmic metal is a technique-defined lens rather than a genre — it describes drummers who build songs around simultaneous, conflicting rhythmic subdivisions (like 3-against-4 or 5-against-7 groupings) instead of a single time signature. Tomas Haake's Meshuggah patterns, Mario Duplantier's Gojira grooves, and Danny Carey's Fibonacci-sequenced Tool fills are its three most frequently cited reference points, and the technique spans djent, progressive metal, and progressive death metal rather than sitting inside one genre.
 
 **Q: Who is the best polyrhythmic metal drummer?**
-A: Tomas Haake of Meshuggah is the most influential answer — his polymetric, mathematically precise drumming since the late 1980s directly birthed the djent movement and remains the technique's most imitated reference point. Mario Duplantier of Gojira and Danny Carey of Tool are the strongest alternative answers, each applying polyrhythm through a distinct musical tradition (tribal groove and jazz/world music, respectively) rather than Haake's mechanical precision.
+A: Tomas Haake of Meshuggah is the most influential answer — his polymetric, mathematically precise drumming since 1990 directly birthed the djent movement and remains the technique's most imitated reference point. Mario Duplantier of Gojira and Danny Carey of Tool are the strongest alternative answers, each applying polyrhythm through a distinct musical tradition (tribal groove and jazz/world music, respectively) rather than Haake's mechanical precision.
 
 **Q: What is the difference between polyrhythmic metal and djent?**
 A: Djent is a specific genre built on Meshuggah's palm-muted, polymetric guitar tone and rhythmic vocabulary. Polyrhythmic metal is broader — it describes the underlying rhythmic technique (simultaneous conflicting subdivisions) wherever it appears, including in bands that predate or sit outside djent entirely, like Tool and Gojira. Every djent drummer on this list (Matt Garstka, Matt Halpern, Travis Orbin) is polyrhythmic, but not every polyrhythmic drummer plays djent.

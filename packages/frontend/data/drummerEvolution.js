@@ -6455,7 +6455,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Between the Buried and Me',
     totalYearsActive: '2005-Present',
     profileImage: '/images/drummers/blake-richardson.webp',
-    summary: 'Blake Richardson joined Between the Buried and Me in 2005, replacing original drummer Will Goodyear, and is among the most technically accomplished progressive metal drummers of his generation. Renowned for his seamless polyrhythmic playing and genre-fluid vocabulary — spanning metal, jazz, and prog — his gear evolution tracks from an entry-level Tama kit through a sustained Tama Star Walnut setup that defines modern BTBAM.',
+    summary: 'Blake Richardson joined Between the Buried and Me in 2005, replacing Jason Roe, and is among the most technically accomplished progressive metal drummers of his generation. Renowned for his seamless polyrhythmic playing and genre-fluid vocabulary — spanning metal, jazz, and prog — his gear evolution tracks from an entry-level Tama kit through a sustained Tama Star Walnut setup that defines modern BTBAM.',
 
     eras: [
       {
@@ -6464,7 +6464,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2005–2006',
         startYear: 2005,
         endYear: 2006,
-        description: 'Blake Richardson joined Between the Buried and Me in 2005, replacing original drummer Will Goodyear, in time to record Alaska. His early setup was assembled on a limited budget as the band developed its uniquely eclectic identity — blending metal, prog, jazz, and hardcore on self-booked tours.',
+        description: 'Blake Richardson joined Between the Buried and Me in 2005, replacing Jason Roe, in time to record Alaska. His early setup was assembled on a limited budget as the band developed its uniquely eclectic identity — blending metal, prog, jazz, and hardcore on self-booked tours.',
         albums: ['Alaska (2005)'],
         tours: ['Alaska Tour'],
         image: null,
@@ -6515,7 +6515,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Richardson joins BTBAM in 2005, replacing original drummer Will Goodyear',
+          'Richardson joins BTBAM in 2005, replacing Jason Roe',
           'Alaska (2005) — first album with Richardson on drums',
           'Relentless DIY touring builds national underground following',
         ],

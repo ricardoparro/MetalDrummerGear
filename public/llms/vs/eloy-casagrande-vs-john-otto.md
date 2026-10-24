@@ -21,7 +21,7 @@ Sepultura/Slipknot's Eloy Casagrande vs Limp Bizkit's John Otto — modern groov
 - **Drums:** Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic
 - **Cymbals:** Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom)
 - **Snare:** OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply
-- **Pedals/Hardware:** Gibraltar G Class Bass Drum Pedals, Gibraltar Custom Racks
+- **Pedals/Hardware:** Gibraltar Professional Series, Gibraltar Custom Racks
 - **Sticks:** Zildjian Artist Series
 
 ## Playing Style
@@ -34,7 +34,7 @@ Casagrande's technique is built for modern extreme dynamics — explosive double
 
 ## Key Differences
 
-Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride), driven by a Tama Iron Cobra double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom kit with an OCDP 14x7" Maple/Ash snare and Zildjian A & A Custom Series cymbals, powered by Gibraltar Professional Series hardware and Zildjian drumsticks. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's thrash-groove foundation and Slipknot's maximalist nine-member live show without losing precision. Otto's technique centers on pocket and feel rather than speed — tight, syncopated grooves and funk-inspired ghost notes that fuse hip-hop's rhythmic sensibility with hard rock power, giving Limp Bizkit's biggest singles their head-nodding, danceable heaviness.
+Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride), driven by a Tama Iron Cobra double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom kit with dual OCDP snares (a 14x6.5" 40-ply vented shell and a 10x6" 20-ply piccolo) and Zildjian A & A Custom Series cymbals, powered by Gibraltar Professional Series hardware and Zildjian drumsticks. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's thrash-groove foundation and Slipknot's maximalist nine-member live show without losing precision. Otto's technique centers on pocket and feel rather than speed — tight, syncopated grooves and funk-inspired ghost notes that fuse hip-hop's rhythmic sensibility with hard rock power, giving Limp Bizkit's biggest singles their head-nodding, danceable heaviness.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Eloy Casagrande and John Otto represent two very different definitions of drummi
 A: Eloy Casagrande built his reputation on explosive technical speed across 13 years with Sepultura and, since 2024, Slipknot, earning Modern Drummer's No. 1 metal drummer honor in 2024. John Otto built his reputation on groove and pocket, fusing hip-hop-influenced rhythms with hard rock power as Limp Bizkit's founding drummer since 1994.
 
 **Q: What gear do Eloy Casagrande and John Otto use?**
-A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals, driven by a Tama Iron Cobra double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom kit with an OCDP 14x7" Maple/Ash snare and Zildjian A & A Custom Series cymbals, powered by Gibraltar Professional Series hardware.
+A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals, driven by a Tama Iron Cobra double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom kit with dual OCDP snares (a 14x6.5" 40-ply vented shell and a 10x6" 20-ply piccolo) and Zildjian A & A Custom Series cymbals, powered by Gibraltar Professional Series hardware.
 
 **Q: What bands are Eloy Casagrande and John Otto known for?**
 A: Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot in 2024. John Otto co-founded Limp Bizkit in Jacksonville, Florida, in 1994 and remains the band's drummer.
@@ -67,4 +67,4 @@ A: Yes — Eloy Casagrande was named the No. 1 metal drummer in Modern Drummer m
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-24 · Source: [MetalForge.io](https://metalforge.io)*

@@ -14092,3 +14092,44 @@ This PR-diffing step mattered: all 4 looked like probable duplicates from title/
 3. **New standing lesson this run**: when a `gh issue search` on a drummer/fact returns many closed issues, don't treat that density alone as "already mined, skip" — diff the actual merged PR(s) to see which lines they touched before concluding a live, currently-reproducible bug is a duplicate. All 4 of this run's continuation-fixes would have looked like re-filing already-fixed ground from title search alone.
 4. Content-gap: still no gap rows this week (5th week running) — no action.
 5. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-24 (run, Saturday, ~2nd run) — reversed prior "do not file" ruling on the sibling-category ground-truth gap class, 3 filed (#9647-9649)
+
+### Audit summary
+- robots.txt (live curl pattern, `api/robots.js` read): all 8 AI crawlers explicitly allowed. ✅
+- `/llms/*.md`: 2,029 total on disk, unchanged.
+- Bank check: 12 open `seo-proposal` at run start (#9630-9637 fresh-promoted + held #7981 + 3 standing umbrellas) — well under 45 → filed 3 (quality-sized, see Method for why not padded higher).
+- Content-gap: still no gap rows this week (table empty, 5th+ week running). No action.
+- Drum-chair watch: today is Saturday, not Monday — skipped per the once-per-Monday rule.
+
+### Metrics readout
+- GSC 7d: 18,303 impr / 185 clicks / 1.01% CTR / pos 8.9 (metrics.md refreshed 07:05 UTC, same window as the 01:2x run). No content-gap rows.
+- GA4 7d: 399u / 458s / 619v. Top pages: `/` (21v), `/drummer/frost` (13v), `/drummer/john-otto` (12v), `/drummer/joey-jordison` (11v), `/guides/best-in-ear-monitors-for-metal-drummers` (9v).
+
+### Method
+Ran `node scripts/verify-gear-consistency.cjs` fresh — same 8 raw mismatches as the 01:2x run today (expected: nothing shipped against this file since then). Rather than defaulting to the prior "deliberately not re-filed" ruling from the 10-23 mid-day run (carried forward unexamined by the 01:2x run), re-applied the **"diff the merged PR, don't trust issue-density" lesson that the 01:2x run itself logged as a new standing rule** — but pointed it at the non-filing decision instead of a filing decision. Read the full closed bodies of #8687 (aquiles-priester), #8743 (flo-mounier), #8745 (paul-bostaph): all three only ever added the timeline entry supporting the **current**-state brand/since-year. None touched the **historical** eras (aquiles-priester's pre-2023 Axis pedal era, flo-mounier's 2005-2012 Zildjian era, paul-bostaph's 1994/1998/2001 Paiste-RUDE/Zildjian/Paiste-2002 eras) — each of which is already narrated, in full, inside a *sibling*-category timeline entry's own `notes` field in the same file.
+
+**Reversing the prior ruling, explicitly, for the record:** the 10-23 run's stated reason for not filing was that it "risked reading as hairsplitting in already-mined ground." Two things changed my assessment: (1) this exact 3-drummer/5-location signal has now been independently re-derived and manually re-verified by three separate runs in 48h (10-23 mid-day, 10-24 01:2x, this run) — that's concrete, measured proof the non-fix is a standing cost, not a one-off; (2) the fix shape is **not** hairsplitting, it's structurally identical to the already-shipped, closed, accepted #8687/#8743/#8745 pattern (same file, same mechanism, same "purely additive, already-stated-in-prose" justification) — the only difference is which era it backfills. Filed 3 atomic issues (#9647 paul-bostaph, #9648 flo-mounier, #9649 aquiles-priester), each citing the exact closed issue it extends and the exact live mismatch it silences, so the next run doesn't have to re-derive this a 4th time regardless of which way the call falls.
+
+The other 3 of the 8 raw mismatches were not re-litigated: inferno hardware (duplicate of open #9630, already promoted `ai-fix`) and jay-weinberg drums/snare (standing #8518 Class-4 non-bug, explicitly flagged there as "not asking for a fix").
+
+Flagging for the founder/next run: this is a judgment-call reversal of a twice-made prior decision, not a unanimous call — if #9647-9649 read as low-value on CEO triage, the right response is to close them with a note making the "don't re-litigate this again" ruling durable (e.g. promote to `.agents/seo/learned-patterns.md`) rather than silently declining and leaving a 4th run to re-discover the same question.
+
+### Proposals filed this run
+1. #9647 — Paul Bostaph endorsementNews.js missing 3 historical CYMBALS timeline entries (Paiste RUDE 1994, Zildjian A Custom 1998, Paiste 2002 2001) — extends closed #8745
+2. #9648 — Flo Mounier endorsementNews.js missing historical CYMBALS entry (Zildjian ZXT, 2005-2012 Yamaha era) — extends closed #8743
+3. #9649 — Aquiles Priester endorsementNews.js missing historical HARDWARE entry (Axis A double pedal, Angra classic era) — extends closed #8687
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9630-9637 (01:2x run, 8 fresh, not yet confirmed shipped)
+- #9647-9649 (this run, 3 fresh)
+
+### Next run
+1. Watch #9647-9649 pick up via CEO triage — if rejected/closed as not-worth-it, promote that ruling into `.agents/seo/learned-patterns.md` so a 4th run doesn't re-derive the same analysis again; if promoted and shipped, re-run `verify-gear-consistency.cjs` to confirm all 5 of those lines drop out clean.
+2. Watch #9630-9637 pick up via Roadie (same as 01:2x run's note).
+3. Content-gap: still no gap rows (5th+ week) — no action, just watching for durability.
+4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

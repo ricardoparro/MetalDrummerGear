@@ -116,7 +116,7 @@ Daray's drumming style combines the extreme speed and brutality of death metal w
 
 **Q: What drum kit does Daray use?**
 
-A: Since switching to Tama in 2014, Daray's kit has been anchored by a Starclassic Performer B/B shell pack in Piano Black, built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements. It centers on a Tama S.L.P. Black Brass snare. He played a Pearl Masterworks Stadium Exotic kit from 2008-2013, tracked on "Abrahadabra."
+A: Since switching to Tama in 2014, Daray's kit has been anchored by a Starclassic Performer B/B shell pack in Piano Black, built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements. It centers on a Tama S.L.P. Black Brass snare. He played a Pearl Reference Pure kit from 2008-2013, tracked on "Abrahadabra."
 
 **Q: What drum set does Daray use?**
 
@@ -163,7 +163,7 @@ A: Daray uses trigger-assisted drums live to maintain consistency at the extreme
 
 ## Gear Evolution Timeline
 
-Daray's complete drum gear evolution — from the undocumented Vader years (2004–2008) through the Pearl Masterworks Stadium Exotic / Paiste RUDE rig behind Dimmu Borgir's "Abrahadabra" (2010), "Eonian" (2018), and 2026's "Grand Serpent Rising" — is tracked era-by-era: [Daray Gear Evolution Timeline](https://metalforge.io/drummers/daray/evolution) ([markdown version](/llms/evolution/daray.md)).
+Daray's complete drum gear evolution — from the undocumented Vader years (2004–2008) through the Pearl Reference Pure / Paiste RUDE rig behind Dimmu Borgir's "Abrahadabra" (2010), "Eonian" (2018), and 2026's "Grand Serpent Rising" — is tracked era-by-era: [Daray Gear Evolution Timeline](https://metalforge.io/drummers/daray/evolution) ([markdown version](/llms/evolution/daray.md)).
 
 ## Signature Licks on MetalForge
 

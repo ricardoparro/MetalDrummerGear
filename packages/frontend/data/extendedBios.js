@@ -3236,7 +3236,7 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Daray played a Pearl Masterworks Stadium Exotic kit from 2008 through 2013, tracked on Dimmu Borgir's "Abrahadabra" (2010). He switched to Tama in 2014, debuting the brand with a Starclassic Performer B/B kit at the TAMA 40th Anniversary Drum Festival (July 5, 2014), and has used Tama for studio recording and live performances with Dimmu Borgir since.
+        content: `Daray played a Pearl Reference Pure kit from 2008 through 2013, tracked on Dimmu Borgir's "Abrahadabra" (2010). He switched to Tama in 2014, debuting the brand with a Starclassic Performer B/B kit at the TAMA 40th Anniversary Drum Festival (July 5, 2014), and has used Tama for studio recording and live performances with Dimmu Borgir since.
 
 **Current Setup (2014-present):**
 - **Drums**: Tama Starclassic Performer B/B, Piano Black (PBK)
@@ -3267,7 +3267,7 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Daray use?', a: 'Since switching to Tama in 2014, Daray\'s kit has been anchored by a Starclassic Performer B/B shell pack in Piano Black, built for the volume and low-end depth needed to carry Dimmu Borgir\'s grandiose symphonic arrangements. It centers on a Tama S.L.P. Black Brass snare. He played a Pearl Masterworks Stadium Exotic kit from 2008-2013, tracked on "Abrahadabra."' },
+          { q: 'What drum kit does Daray use?', a: 'Since switching to Tama in 2014, Daray\'s kit has been anchored by a Starclassic Performer B/B shell pack in Piano Black, built for the volume and low-end depth needed to carry Dimmu Borgir\'s grandiose symphonic arrangements. It centers on a Tama S.L.P. Black Brass snare. He played a Pearl Reference Pure kit from 2008-2013, tracked on "Abrahadabra."' },
           { q: 'What drum set does Daray use?', a: 'Daray\'s drum set pairs his Tama Starclassic Performer B/B shells and S.L.P. Black Brass snare with a Pearl Demon Drive double pedal, giving him the speed and control behind his rapid-fire double bass work with Dimmu Borgir.' },
           { q: 'What cymbals does Daray play?', a: 'Daray plays Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats, 17" and 18" RUDE Crashes, and a 22" RUDE Power Ride cutting through extreme-tempo passages.' },
           { q: 'What snare does Daray use?', a: 'Daray\'s snare is a Tama S.L.P. Black Brass (LBR1465), supplying a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike.' },

@@ -16156,39 +16156,39 @@ export const DRUMMER_EVOLUTION = {
   },
 
   // ==========================================
-  // Tim Yeung - Morbid Angel / Hate Eternal (2004-Present)
+  // Tim Yeung - Morbid Angel / Divine Heresy (2006-Present)
   // ==========================================
   'tim-yeung': {
     slug: 'tim-yeung',
     name: 'Tim Yeung',
-    band: 'Morbid Angel / Hate Eternal',
-    totalYearsActive: '2004-Present',
+    band: 'Morbid Angel / Divine Heresy',
+    totalYearsActive: '2006-Present',
     profileImage: '/images/drummers/tim-yeung.webp',
-    summary: 'One of death metal\'s fastest and most technically consistent drummers, Tim Yeung built his reputation in Erik Rutan\'s Hate Eternal before joining death metal originators Morbid Angel in 2011. His gear has been remarkably stable — a Tama Starclassic Bubinga kit, Sabian AAX/HHX cymbals, Vic Firth 5B sticks, Remo Powerstroke 3 heads, and a Tama Speed Cobra double pedal, all signed in 2005 and carried unchanged through Hate Eternal, Divine Heresy, and two decades of Morbid Angel.',
+    summary: 'One of death metal\'s fastest and most technically consistent drummers, Tim Yeung built his reputation in Dino Cazares\' Divine Heresy before joining death metal originators Morbid Angel in 2011. His gear has been remarkably stable — a Tama Starclassic Bubinga kit, Sabian AAX/HHX cymbals, Vic Firth 5B sticks, Remo Powerstroke 3 heads, and a Tama Speed Cobra double pedal, all signed during his Divine Heresy years and carried unchanged through two decades of Morbid Angel.',
 
     eras: [
       {
-        id: 'tim-yeung-2004-hate-eternal',
-        era: 'Divine Heresy & Hate Eternal Era',
-        years: '2004-2010',
-        startYear: 2004,
+        id: 'tim-yeung-2006-divine-heresy',
+        era: 'Divine Heresy Era',
+        years: '2006-2010',
+        startYear: 2006,
         endYear: 2010,
-        description: 'Yeung established his extreme blast beat speed and double bass consistency inside Erik Rutan\'s Hate Eternal, signing with Tama, Sabian, Vic Firth, and Remo on I, Monarch (2005) and carrying that rig through Fury & Flames (2008) and Divine Heresy\'s Bringer of Plagues (2009). This period set the gear template — Tama drums, Sabian cymbals, Tama double pedal — that carried unchanged into his Morbid Angel years.',
-        albums: ['Hate Eternal - I, Monarch (2005)', 'Hate Eternal - Fury & Flames (2008)', 'Divine Heresy - Bringer of Plagues (2009)'],
-        tours: ['Hate Eternal European Tour 2008', 'Divine Heresy World Tour 2009-2010'],
+        description: 'Yeung established his extreme blast beat speed and double bass consistency in Dino Cazares\' Divine Heresy, signing with Tama, Sabian, Vic Firth, and Remo for Bringer of Plagues (2009). This period set the gear template — Tama drums, Sabian cymbals, Tama double pedal — that carried unchanged into his Morbid Angel years.',
+        albums: ['Divine Heresy - Bringer of Plagues (2009)'],
+        tours: ['Divine Heresy World Tour 2009-2010'],
         image: null,
 
         gear: {
           drums: {
             item: 'Tama Starclassic Bubinga',
             details: 'Bubinga shells, dual 22"x18" kicks, compact 4-piece tom configuration',
-            notes: 'Signed with Tama on Hate Eternal\'s I, Monarch (2005), the setup he carried unchanged into Divine Heresy and Morbid Angel.',
+            notes: 'Signed with Tama on Divine Heresy\'s Bringer of Plagues (2009), the setup he carried unchanged into Morbid Angel.',
             change: CHANGE_TYPES.NEW,
           },
           snare: {
             item: 'Tama Starclassic Bubinga 14"x6.5"',
             details: 'Bright, aggressive tuning',
-            notes: 'Tuned to cut through Erik Rutan\'s dense, down-tuned guitar production on Fury & Flames.',
+            notes: 'Tuned to cut through Dino Cazares\' dense, down-tuned guitar production on Bringer of Plagues.',
             change: CHANGE_TYPES.NEW,
           },
           cymbals: {
@@ -16206,7 +16206,7 @@ export const DRUMMER_EVOLUTION = {
           sticks: {
             item: 'Vic Firth 5B',
             details: 'Hickory, heavier than 5A',
-            notes: 'Weight suited to driving through cymbals and heads in Hate Eternal\'s dense mix.',
+            notes: 'Weight suited to driving through cymbals and heads in Divine Heresy\'s dense mix.',
             change: CHANGE_TYPES.NEW,
           },
           heads: {
@@ -16224,8 +16224,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Recorded Hate Eternal\'s I, Monarch (2005) and Fury & Flames (2008), widely cited among technical death metal blast beat benchmarks',
-          'Added Divine Heresy\'s Bringer of Plagues (2009)',
+          'Co-founded Divine Heresy with Dino Cazares and recorded Bringer of Plagues (2009)',
           'Established the Tama/Sabian/Vic Firth/Remo gear template carried unchanged into Morbid Angel',
         ],
 
@@ -16243,7 +16242,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2011-2013',
         startYear: 2011,
         endYear: 2013,
-        description: 'Yeung joined Morbid Angel, one of death metal\'s founding bands, for the divisive Illud Divinum Insanus (2011). While the album split the fanbase with its industrial detours, Yeung\'s drumming was universally praised, recorded on the same Tama Starclassic Bubinga kit he\'d used since Hate Eternal.',
+        description: 'Yeung joined Morbid Angel, one of death metal\'s founding bands, for the divisive Illud Divinum Insanus (2011). While the album split the fanbase with its industrial detours, Yeung\'s drumming was universally praised, recorded on the same Tama Starclassic Bubinga kit he\'d used since Divine Heresy.',
         albums: ['Morbid Angel - Illud Divinum Insanus (2011)'],
         tours: ['Illud Divinum Insanus World Tour 2011-2012'],
         image: null,
@@ -16252,13 +16251,13 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Tama Starclassic Bubinga',
             details: 'Bubinga shells, dual 22"x18" kicks, 10"/12" racks, 16"/18" floors',
-            notes: 'Same Tama Starclassic Bubinga kit carried over from the Hate Eternal years, maintained for his debut Morbid Angel album.',
+            notes: 'Same Tama Starclassic Bubinga kit carried over from the Divine Heresy years, maintained for his debut Morbid Angel album.',
             change: null,
           },
           snare: {
             item: 'Tama Starclassic Bubinga 14"x6.5"',
             details: 'Tuned bright for cut',
-            notes: 'Unchanged from the Hate Eternal setup.',
+            notes: 'Unchanged from the Divine Heresy setup.',
             change: null,
           },
           cymbals: {
@@ -16270,19 +16269,19 @@ export const DRUMMER_EVOLUTION = {
           hardware: {
             item: 'Tama Speed Cobra 910 Double Pedal',
             details: 'Direct-drive, smooth cam action',
-            notes: 'Same Speed Cobra 910 pedal from the Hate Eternal years, engineered for the relaxed, rebound-efficient technique his 200-280 BPM blasts require.',
+            notes: 'Same Speed Cobra 910 pedal from the Divine Heresy years, engineered for the relaxed, rebound-efficient technique his 200-280 BPM blasts require.',
             change: null,
           },
           sticks: {
             item: 'Vic Firth 5B',
             details: 'Hickory',
-            notes: 'Unchanged from the Hate Eternal years.',
+            notes: 'Unchanged from the Divine Heresy years.',
             change: null,
           },
           heads: {
             item: 'Remo Powerstroke 3 / Emperor Coated',
             details: 'Powerstroke 3 batter and ported resonant on kicks',
-            notes: 'Consistent Remo setup carried over from Hate Eternal.',
+            notes: 'Consistent Remo setup carried over from Divine Heresy.',
             change: null,
           },
         },
@@ -16295,7 +16294,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Joined Morbid Angel, one of death metal\'s founding bands, for Illud Divinum Insanus (2011)',
-          'Carried the same Tama Starclassic Bubinga kit from the Hate Eternal years',
+          'Carried the same Tama Starclassic Bubinga kit from the Divine Heresy years',
           'Refined the Sabian AAX/HHX cymbal setup with an added HHX ride',
         ],
 
@@ -16383,7 +16382,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2021-Present',
         startYear: 2021,
         endYear: 2026,
-        description: 'Alongside continued Morbid Angel touring, Yeung has built a reputation as one of extreme metal\'s most in-demand session and touring drummers. His rig remains the same Tama Starclassic Bubinga kit, Sabian AAX/HHX cymbals, and Tama Speed Cobra pedal he\'s used since 2005.',
+        description: 'Alongside continued Morbid Angel touring, Yeung has built a reputation as one of extreme metal\'s most in-demand session and touring drummers. His rig remains the same Tama Starclassic Bubinga kit, Sabian AAX/HHX cymbals, and Tama Speed Cobra pedal he\'s used since Divine Heresy.',
         albums: [],
         tours: ['Morbid Angel Touring 2021-Present', 'Session & Guest Drumming Dates'],
         image: null,
@@ -16392,7 +16391,7 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Tama Starclassic Bubinga',
             details: 'Bubinga shells for focused low-end and projection',
-            notes: 'Same Tama Starclassic Bubinga kit carried unchanged since signing in 2005.',
+            notes: 'Same Tama Starclassic Bubinga kit carried unchanged since signing with Tama during his Divine Heresy years.',
             change: null,
           },
           snare: {
@@ -16434,7 +16433,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Continued touring with Morbid Angel on the same Tama/Sabian rig used since 2005',
+          'Continued touring with Morbid Angel on the same Tama/Sabian rig used since Divine Heresy',
           'Built a reputation as one of extreme metal\'s most in-demand session and touring drummers',
           'Remarkably stable gear setup across two decades of recording and touring',
         ],
@@ -16455,11 +16454,11 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What bands has Tim Yeung played with?',
-        a: 'Tim Yeung has recorded and toured with Hate Eternal (I, Monarch, Fury & Flames), Divine Heresy (Bringer of Plagues), and Morbid Angel (Illud Divinum Insanus, Kingdoms Disdained), and has built a career as an in-demand session and touring drummer across extreme metal.',
+        a: 'Tim Yeung has recorded and toured with Hate Eternal (Conquering the Throne), Divine Heresy (Bringer of Plagues), and Morbid Angel (Illud Divinum Insanus, Kingdoms Disdained), and has built a career as an in-demand session and touring drummer across extreme metal.',
       },
       {
         q: 'What drum kit does Tim Yeung currently play?',
-        a: 'Tim Yeung\'s current touring and session setup is built around the same Tama Starclassic Bubinga kit he\'s played since signing with Tama in 2005, paired with Sabian AAX & HHX cymbals, Vic Firth 5B sticks, Remo Powerstroke 3 heads, and a Tama Speed Cobra 910 double pedal — a rig he has carried unchanged through Hate Eternal, Divine Heresy, and Morbid Angel.',
+        a: 'Tim Yeung\'s current touring and session setup is built around the same Tama Starclassic Bubinga kit he\'s played since signing with Tama during his Divine Heresy years, paired with Sabian AAX & HHX cymbals, Vic Firth 5B sticks, Remo Powerstroke 3 heads, and a Tama Speed Cobra 910 double pedal — a rig he has carried unchanged through Divine Heresy and Morbid Angel.',
       },
       {
         q: 'When did Tim Yeung join Morbid Angel?',
@@ -16467,12 +16466,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What pedal does Tim Yeung use for his double bass technique?',
-        a: 'Tim Yeung uses the Tama Speed Cobra 910 double bass pedal, prized for its smooth, direct-drive cam action that supports his relaxed, rebound-efficient technique at 200-280 BPM. He has used the same pedal since signing with Tama in 2005 on Hate Eternal\'s I, Monarch.',
+        a: 'Tim Yeung uses the Tama Speed Cobra 910 double bass pedal, prized for its smooth, direct-drive cam action that supports his relaxed, rebound-efficient technique at 200-280 BPM. He has used the same pedal since signing with Tama on Divine Heresy\'s Bringer of Plagues (2009).',
       },
     ],
 
     metaTitle: 'Tim Yeung Gear Evolution Timeline | Death Metal Drum Kit History',
-    metaDescription: 'Explore Tim Yeung\'s complete drum gear evolution: a Tama Starclassic Bubinga kit, Sabian AAX/HHX cymbals, Vic Firth 5B sticks, Remo Powerstroke 3 heads, and a Tama Speed Cobra 910 pedal, signed in 2005 and carried unchanged through Hate Eternal, Divine Heresy, and Morbid Angel.',
+    metaDescription: 'Explore Tim Yeung\'s complete drum gear evolution: a Tama Starclassic Bubinga kit, Sabian AAX/HHX cymbals, Vic Firth 5B sticks, Remo Powerstroke 3 heads, and a Tama Speed Cobra 910 pedal, signed during his Divine Heresy years and carried unchanged through Morbid Angel.',
   },
 
   // ==========================================

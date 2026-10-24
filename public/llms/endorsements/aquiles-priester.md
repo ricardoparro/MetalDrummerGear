@@ -36,11 +36,12 @@ Aquiles Priester endorses DW for hardware / pedals. They play the DW 9000 Series
 
 - **1996** (Drums): Signed with Mapex — Built his early Mapex Saturn Series kit during his formative Hangar years, before joining Angra in 2000
 - **1996** (Cymbals): Signed with Sabian — Paired his Mapex kit with Sabian HH/HHX cymbals and an Axis A double pedal prized for its light, fast action
+- **1996** (Hardware / Pedals): Signed with Axis — Axis A double pedal, prized for its light, fast action during his Angra classic era (Rebirth, Temple of Shadows)
 - **2004** (Drumsticks): Signature product: Vic Firth Aquiles Priester Signature — Developed a Vic Firth signature stick during the Angra classic era (Rebirth, Temple of Shadows), balancing power and ghost-note control at high tempos
 - **2012** (Drums): Switched from Mapex Saturn Series to Pearl Reference Series — Moved to a Pearl Reference Series kit and Meinl Byzance cymbals during his post-Angra W.A.S.P./Hangar-focused years
-- **2023** (Drums): Switched from Pearl Reference Series to Mapex — Adopted the Mapex Saturn Evolution All Maple signature kit upon returning to Angra for their 2023 album cycle
-- **2023** (Cymbals): Switched from Meinl Byzance to Paiste — Adopted a custom red-coated Paiste cymbal set and DW 9000 hardware for the Angra reunion touring and recording setup
-- **2023** (Drumsticks): Switched from Vic Firth to ProMark — Adopted a ProMark Aquiles Priester Signature stick alongside the Mapex/Paiste gear overhaul upon returning to Angra for their 2023 album cycle
+- **2023** (Drums): Switched from Pearl Reference Series to Mapex — Adopted the Mapex Saturn Evolution All Maple signature kit as part of his 2023 gear overhaul
+- **2023** (Cymbals): Switched from Meinl Byzance to Paiste — Adopted a custom red-coated Paiste cymbal set and DW 9000 hardware as part of his 2023 gear overhaul
+- **2023** (Drumsticks): Switched from Vic Firth to ProMark — Adopted a ProMark Aquiles Priester Signature stick alongside the Mapex/Paiste gear overhaul in 2023
 
 ## FAQ
 
@@ -63,4 +64,4 @@ A: See the Endorsement History section above for a full timeline of Aquiles Prie
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-24 · Source: [MetalForge.io](https://metalforge.io)*

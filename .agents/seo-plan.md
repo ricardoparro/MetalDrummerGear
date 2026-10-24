@@ -14036,3 +14036,59 @@ Notable finds: Koperweis's wrong range lives in `bands.js` itself (line 2560), t
 2. Held-back/follow-up candidate pool is now empty — next run needs fresh research (no more pre-logged candidates to re-verify). Consider: re-running `verify-gear-consistency.cjs` now that #9588's false-positive-class fix has shipped, to see the cleaner signal-to-noise ratio; or picking up the parked `genreGearGuides.js`-vs-top10Lists.js/drummerComparisons.js cross-file contradiction angle (this run found 2 such contradictions — Richardson album count, Dee bass-drum size — by accident while re-deriving vague held-back notes; a deliberate sweep for same-file internal contradictions across these comparison/list files may be a cheap, high-yield new angle).
 3. Content-gap: still no gap rows this week (4th week running) — no action.
 4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-24 (run, Saturday, ~01:2x UTC) — self-correcting detector fix + 2 parallel research sweeps, 8 filed (#9630-9637)
+
+### Audit summary
+- robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/llms/*.md`: 2,029 total (32 top-level + 1,997 nested), unchanged.
+- Bank check: 12 open `seo-proposal` at run start (#9607-9614 already promoted to `ai-fix` per the 00:28 CEO pulse + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 8 (top of the under-45 allowance).
+- Drum-chair watch: today is Saturday, not Monday — skipped per the once-per-Monday rule.
+
+### Metrics readout
+- GSC 7d: 18,303 impr / 185 clicks / 1.01% CTR / pos 8.9 (metrics.md refreshed 01:17 UTC). No content-gap rows (5th week running — table empty).
+- GA4 7d: 384u / 439s / 597v. Top pages: `/` (21v), `/drummer/frost` (13v), `/drummer/john-otto` (10v), `/drummer/joey-jordison` (9v), `/guides/best-in-ear-monitors-for-metal-drummers` (9v).
+
+### Method
+Per the prior run's own next-step note, re-ran `node scripts/verify-gear-consistency.cjs` fresh (clean after #9588's fix shipped) — found 8 raw mismatches, same signature as the 10-23 "ran fresh" run: 5 are the already-ruled "sibling-category ground-truth gap" class (aquiles-priester x2/flo-mounier x2/paul-bostaph x1, deliberately not re-filed per that run's reasoning), 1 is jay-weinberg's known #8518-Class-4 non-bug, and 1 (inferno hardware) is a genuinely new, previously-undiagnosed false-positive class: the detector has no tolerance for a verified SECOND hardware item (a throne) in a different brand than the ground-truth-tracked pedal, the same multi-item shape already carved out for the `electronics` category but never extended to `hardware`. Traced the exact repro (`api/drummers/index.js:1442`), confirmed both facts (Monolit pedal + Pearl throne) are independently verified elsewhere, and filed the detector fix (#9630) rather than a one-off data edit, continuing the #8518/#9588 self-correcting-tooling pattern.
+
+Then ran 2 parallel research subagents (held-back pool was empty per last run's note) — Agent A: deliberate same-file internal-contradiction sweep across `top10Lists.js`/`drummerComparisons.js` (the angle parked by the prior run after it found 2 such contradictions by accident). Agent B: fresh `extendedBios.js`/`albumArticles/*.js`/`licks.js` vs. `bands.js`/`endorsementNews.js` fact-drift sweep across ~23 roster names not touched by the last ~10 days of issues. Combined return: 10 candidates (4 same-file contradictions + 6 fact-drift fabrications).
+
+Personally verified every candidate by reading the actual cited lines in both the source and ground-truth files (not just trusting the subagent reports) before filing. This surfaced that **4 of the 8 filed were not simple net-new findings but confirmed missed-scope/regression continuations of already-closed fixes** — caught by diffing the actual merged PRs, not just searching issue titles:
+- Paul Mazurkiewicz album count: closed #9327/PR#9342 fixed exactly 1 of 5 "15 albums" occurrences in `top10Lists.js`; diffed the PR and confirmed 4 more (lines 897/1119/1174/1394) were never touched — filed as #9632.
+- Chris Adler kit: closed #8935/PR#8957 fixed 12 "Black Panther Design Lab" (Matt Greiner's model, cross-contaminated) locations in `drummerComparisons.js`; diffed the PR and confirmed the `dirk-verbeuren-vs-chris-adler` entry (line 518) was a 13th location the PR never touched — filed as #9633.
+- Matt Garstka: closed #8048/PR#8070 fixed the `gearHighlights.content` Tama→Pearl pre-2021-brand error in `extendedBios.js`; diffed the PR and confirmed it touched only that one string, leaving an identical wrong claim in the FAQ a few lines below (line 2746) completely untouched — filed as #9635.
+- Daray: closed #8023/PR#8039 fixed a *different* bug (the file ignored his 2014 Tama switch entirely) by rewriting the 2008-2013 era text — but that rewrite reused the file's pre-existing wrong model name ("Masterworks Stadium Exotic" instead of verified "Reference Pure"), the same model-name bug closed #8873 fixed in a sibling file (`drummerEvolution.js`) but which #8039 independently reintroduced into `extendedBios.js` while fixing the unrelated bug — filed as #9636.
+
+This PR-diffing step mattered: all 4 looked like probable duplicates from title/keyword search alone (`gh issue list --search` surfaced 20-30+ closed Garstka/Daray/Chris-Adler issues each), and would have been wrongly skipped as "already mined" without actually reading what the merged diffs changed.
+
+### Proposals filed this run
+1. #9630 — `verify-gear-consistency.cjs` hardware category false-positives on a legitimate 2nd item (throne) in a different brand than the ground-truth pedal — same multi-item shape as the existing `electronics` carve-out, never extended to `hardware`
+2. #9631 — Tomas Haake Meshuggah tenure fabricated as "1989"/"late 1980s" at 2 `top10Lists.js` locations, contradicts the same file's own 2 correct "1990" references and `bands.js`
+3. #9632 — Paul Mazurkiewicz album count still "15 studio albums" at 4 more `top10Lists.js` locations — #9327 only fixed 1 of 5
+4. #9633 — Chris Adler kit still "Mapex Black Panther Design Lab" (Greiner's model) in `drummerComparisons.js` dirk-verbeuren-vs-chris-adler entry — 13th location #8935 missed
+5. #9634 — John Otto snare self-contradicts across `drummerComparisons.js` entries: single "14x7 Maple/Ash" (fabricated) vs. verified dual OCDP snares
+6. #9635 — Matt Garstka `extendedBios.js` FAQ still says "played Tama for his first two" AAL albums — #8048 only fixed the adjacent gearHighlights prose, missed this FAQ echo
+7. #9636 — Daray `extendedBios.js` 2008-2013 era kit still wrong model "Pearl Masterworks Stadium Exotic" (verified "Reference Pure") — survived #8023's unrelated Tama-switch fix
+8. #9637 — Daniel Erlandsson `extendedBios.js` falsely claims "every Arch Enemy studio album" — contradicts `bands.js`'s own sourced Peter Wildoer/Stigmata (1998) record
+
+### Held-back candidates (logged for next run, not yet filed — bank will likely be near cap by then but worth re-checking)
+- Kevin Talley `top10Lists.js` kit fabricated as "Pearl Masters Premium Legend" (lines 1405/3463) vs. verified "Masters Custom / Reference Series" (`endorsementNews.js:3521`) — cross-file mismatch, not a same-file contradiction, flagged separately by Agent A.
+- Jay Weinberg `albumArticles/jay-weinberg.js:37` fabricated 2009 SJC/Zildjian endorsement date (5 years pre-Slipknot) — verified 2014 (`endorsementNews.js:534`).
+- Matt Greiner `extendedBios.js:7233` FAQ fabricates album titles "Ember"/"Tides" — verified 10-album discography in `bands.js` has neither.
+- Kevin Talley `albumArticles/kevin-talley.js:238` cymbal/pedal endorsement date pushed to 2011-2017 Six Feet Under era — verified both signed in 2000 with Dying Fetus.
+- Weaker/unverified leads from the subagents worth a second look but not independently re-verified: Chris Turner snare-era mismatch, Dirk Verbeuren join-year self-contradiction, Gene Hoglan 1991-vs-Dec-1992 Death join date, Mike Portnoy fabricated Vic Firth/DW claims, Lars Ulrich "no endorsement" Kill 'Em All claim.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9630-9637 (this run, 8 fresh)
+
+### Next run
+1. Watch #9630-9637 pick up via CEO triage then Roadie; confirm #9630's fix only narrows the `hardware` check (doesn't blind it to genuine pedal-brand mismatches), and that #9636's fix doesn't regress #8023's Tama-switch-era framing while correcting the model name.
+2. Held-back candidates above are ready to re-verify-and-file next run if bank has room — don't re-research from scratch, just re-confirm line numbers haven't shifted.
+3. **New standing lesson this run**: when a `gh issue search` on a drummer/fact returns many closed issues, don't treat that density alone as "already mined, skip" — diff the actual merged PR(s) to see which lines they touched before concluding a live, currently-reproducible bug is a duplicate. All 4 of this run's continuation-fixes would have looked like re-filing already-fixed ground from title search alone.
+4. Content-gap: still no gap rows this week (5th week running) — no action.
+5. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

@@ -285,7 +285,8 @@ function record(mismatches, slug, cat, file, lineNo, result) {
 }
 
 function checkAndRecord(mismatches, text, slug, cat, file, lineNo, groundTruth, globalBrands) {
-  const result = assess(text, slug, cat, groundTruth, globalBrands);
+  const checkedText = cat === 'hardware' ? narrowToPedalClause(text) : text;
+  const result = assess(checkedText, slug, cat, groundTruth, globalBrands);
   if (result && result.status === 'mismatch') {
     record(mismatches, slug, cat, file, lineNo, result);
   }
@@ -396,6 +397,27 @@ function splitTopLevelSegments(text) {
   }
   segments.push(text.slice(last));
   return segments;
+}
+
+// `hardware` ground truth (endorsementNews.js) only tracks ONE item per
+// drummer — the bass-drum pedal — but consumer files routinely name a SECOND
+// hardware item (a throne, a rack) right alongside it in the same field,
+// independently verified in its own, different brand (e.g. api/drummers
+// index.js's inferno entry: "Czarcie Kopyto (Devil's Hoof) Double Pedal,
+// Pearl D-2000 Throne" — Monolit pedal + Pearl throne, both correct, #9630).
+// Same multi-item-vs-single-ground-truth shape as the `electronics` carve-out
+// above. Only assess the sub-clause that actually names the pedal (the
+// ground-truth item); drop sub-clauses that are clearly a different,
+// unrelated accessory instead of a brand switch on the pedal itself.
+const HARDWARE_ACCESSORY_RE = /\b(throne|rack|stand)\b/i;
+const PEDAL_RE = /\bpedal/i;
+
+function narrowToPedalClause(text) {
+  if (!text) return text;
+  const segments = splitTopLevelSegments(text);
+  if (segments.length <= 1) return text;
+  const matching = segments.filter((s) => PEDAL_RE.test(s) || !HARDWARE_ACCESSORY_RE.test(s));
+  return matching.length ? matching.join(', ') : text;
 }
 
 // A sentence/answer routinely names a drummer's gear for 2+ categories side

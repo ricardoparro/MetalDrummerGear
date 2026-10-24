@@ -14133,3 +14133,54 @@ Flagging for the founder/next run: this is a judgment-call reversal of a twice-m
 2. Watch #9630-9637 pick up via Roadie (same as 01:2x run's note).
 3. Content-gap: still no gap rows (5th+ week) — no action, just watching for durability.
 4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-24 (run, Saturday, ~13:0x UTC) — fresh fact-drift sweep across 20 untouched roster drummers, 8 filed (#9659-9666)
+
+### Audit summary
+- robots.txt (`api/robots.js`, grep for 8 AI crawler UAs): all 8 explicitly allowed. ✅
+- `/llms/*.md`: 2,029 files on disk, unchanged.
+- Bank check: 7 open `seo-proposal` at run start — held #7981 + 3 standing umbrellas (#2211/#3810/#3819) + #9647-9649 (already promoted to `ai-fix` by the 12:17-ish CEO pulse per git log "ceo: daily deep run — promote #9647-9649") — effectively 0 fresh untriaged, well under the 45 floor → filed 8 (top of the under-45 allowance).
+- Content-gap: still no gap rows this week (metrics.md table empty, 6th+ week running). No action.
+- Drum-chair watch: today is Saturday, not Monday — skipped per the once-per-Monday rule.
+
+### Metrics readout
+- GSC 7d: 21,706 impr / 218 clicks / 1.00% CTR / pos 8.9 (metrics.md refreshed 13:03 UTC).
+- GA4 7d: 407u / 467s / 628v. Top pages: `/` (21v), `/drummer/frost` (13v), `/drummer/john-otto` (12v), `/drummer/joey-jordison` (11v), `/guides/best-in-ear-monitors-for-metal-drummers` (9v).
+
+### Method
+Per `.agents/seo/learned-patterns.md` line 274's explicit suggestion, dispatched 2 parallel research agents: Agent A re-ran the "missing historical category timeline entry" mechanical sweep in `endorsementNews.js` that produced #9647-9649 earlier today, looking for more instances across the full roster. Agent B ran a fresh fact-drift sweep (fabricated gear, wrong tenures, self-contradictions, stale mirrors) across 20 roster drummers not touched by the last ~10 days of issues.
+
+**Agent A came back mostly empty** — ran `verify-gear-consistency.cjs` fresh (same 7 raw mismatches, all already accounted for), then simulated the detector with era-scoping removed to find dormant gaps. Found only 2 structurally-real candidates (Matt Greiner missing historical CYMBALS/Meinl entry, Gene Hoglan missing HARDWARE category entirely) and concluded the grep-all-drummers sweep this pattern called for has likely been exhausted by #9647-9649 — both candidates are "preventive" (not currently causing a live false-fabrication flag) rather than active bugs, so held back rather than filed this run (logged below for next run's consideration).
+
+**Agent B found 10 solid candidates**, all independently dupe-checked (including diffing merged PRs, not just title-searching closed issues, per the 10-24 01:2x run's "diff the PR" standing lesson). I personally re-verified 8 of the strongest by reading the actual cited file lines directly (not just trusting the subagent report) before filing — this caught one subagent line-citation error (a "direct-drive" line I spot-checked at drummerEvolution.js:3877 turned out to be Matt Greiner's entry, not Ray Luzier's; the correct Luzier citation was ~13358-13361, which I verified and used instead).
+
+### Proposals filed this run
+1. #9659 — Ben Koller `drummerComparisons.js` fabricates entire gear rig (kit/snare/cymbals/pedal) vs verified `endorsementNews.js` currentEndorsements — only sticks brand/model happened to match
+2. #9660 — Arin Ilejay misattributed to Avenged Sevenfold's "Nightmare" (2010) album cycle in `top10Lists.js` — verified drummer on that album was Mike Portnoy (fill-in), Ilejay joined 2011
+3. #9661 — Pete Sandoval Morbid Angel tenure wrongly extended to 2013 in `extendedBios.js` — `bands.js` (3 independent fields) verifies 1988-2010, Tim Yeung 2010-2015
+4. #9662 — Martin Axenrot's Opeth tenure called "thirteen-year" at 4 `drummerEvolution.js` locations — verified fifteen years (2006-2021) per `bands.js` and closed #9338 (which only fixed `soundLikeGuides.js`)
+5. #9663 — Jaska Raatikainen snare depth wrong in `top10Lists.js` (14x6.5" vs verified 14x5.5" per `snares.js`) — #5495 only fixed `extendedBios.js`
+6. #9664 — Ryan Van Poederooyen fabricated specific snare model persists in `drummerComparisons.js` — #8594 hedged this exact claim in `extendedBios.js` only, 6 other closed VP issues never touched this file
+7. #9665 — Ray Luzier pedal drive-type self-contradicts: `genreGearGuides.js` says "chain drive," `drummerEvolution.js` says "direct-drive" (9002D variant) for the same DW 9002 pedal — 8+ prior closed Luzier issues never addressed this mechanism contradiction
+8. #9666 — Raymond Herrera fabricated "A Custom" cymbal addition in `top10Lists.js` (verified Z Custom only) — #6834 fixed the identical fabrication in `drummerComparisons.js` only
+
+### Held-back candidates (logged for next run, not filed — lower urgency/preventive)
+- Matt Greiner `endorsementNews.js` missing historical CYMBALS entry (Meinl, c. 2003-2016) — dormant, not currently causing a live flag; purely preventive per Agent A's analysis.
+- Gene Hoglan `endorsementNews.js` missing HARDWARE category entirely (Pearl Demon Drive, 2018) — same dormant/preventive shape; closed #8725 explicitly deferred this exact fact pending date verification.
+- Jocke Wallgren "Rage and Evergrey" band-affiliation claim baked into `endorsementNews.js` itself (the normal ground-truth file) with no corroboration in `extendedBios.js` or externally — flagged by Agent B as HIGH confidence but held back because it inverts the usual ground-truth hierarchy (alleges the ground-truth file itself is wrong) and needs external web verification before filing, not just internal cross-referencing.
+- Richard Christy Death join-year conflict: `bands.js` says 1997, `extendedBios.js` + 2 closed issues (#5609/#8847) treat 1996 as correct — also inverts the normal hierarchy; needs a human/founder call on which year is externally verified.
+- Derek Roddy `drummerComparisons.js` fabricates a two-stint Hate Eternal tenure + unsupported Malevolent Creation membership; also a stale `public/llms/evolution/derek-roddy.md` mirror — not filed this run, confidence on the "two stints" framing needs a closer read of `bands.js`'s hate-eternal entity notes first.
+- Daniel Erlandsson `drummerComparisons.js` (4 lines) + a stale `public/llms/vs/daniel-erlandsson-vs-adrian-erlandsson.md` mirror (fabricated "since 2005" join + "ten studio albums" overcount) — distinct file/lines from the #9658 fix that shipped today, not yet independently re-verified.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9659-9666 (this run, 8 fresh)
+
+### Next run
+1. Watch #9659-9666 pick up via CEO triage then Roadie.
+2. Held-back candidates above are mixed priority: Greiner/Hoglan (preventive, low urgency, file anytime bank has room) vs Wallgren/Christy (need external verification or a founder call before filing, not just re-confirming line numbers) vs Roddy/Erlandsson (need one more verification pass).
+3. Content-gap: still no gap rows (6th+ week) — no action.
+4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).

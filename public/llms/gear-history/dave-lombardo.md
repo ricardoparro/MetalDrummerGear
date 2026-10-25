@@ -1,7 +1,7 @@
 # Dave Lombardo Drum Kit Gear History — Slayer / Suicidal Tendencies
 
 **Drummer:** Dave Lombardo  
-**Band:** Slayer (1981–1992, 2001–2013), Suicidal Tendencies (2016–present)  
+**Band:** Slayer (1981–1992, 2001–2013), Suicidal Tendencies (2016–2021)  
 **Active:** 1981–present  
 **URL:** https://metalforge.io/drummers/dave-lombardo/gear-history
 
@@ -71,7 +71,7 @@
 - **Pedal:** DW 9000 double pedal — upgraded from 5002 series for improved spring tension adjustability
 - **Notable:** Final studio album with Dave before his second departure in 2013.
 
-### Second Departure and Suicidal Tendencies (2013–present)
+### Second Departure and Suicidal Tendencies (2013–2021)
 
 - **Context:** Dave left Slayer again in 2013 amid disputes over drummer pay; joined Suicidal Tendencies in 2016
 - **Drums:** Tama Starclassic Maple (custom finish for Suicidal Tendencies)
@@ -113,7 +113,7 @@ A: Dave Lombardo has used Paiste RUDE Series cymbals since approximately 1985 �
 A: Dave Lombardo has always used two separate bass drums (true double-kick), not a double pedal on a single drum. Each bass drum has its own DW pedal. This configuration — which requires more physical setup and tuning effort — gives each kick slightly different resonance and was foundational to his 220+ BPM capability on Reign in Blood.
 
 **Q: When did Dave Lombardo switch from Pearl to Tama?**  
-A: Dave began using Tama Starclassic Maple shells during his post-Slayer projects in the 1990s (notably Grip Inc.). When he returned to Slayer in 2001, he continued with Tama as his primary endorsement through both his second Slayer tenure and his current work with Suicidal Tendencies.
+A: Dave began using Tama Starclassic Maple shells during his post-Slayer projects in the 1990s (notably Grip Inc.). When he returned to Slayer in 2001, he continued with Tama as his primary endorsement through both his second Slayer tenure and his work with Suicidal Tendencies (2016–2021).
 
 **Q: What snare did Dave Lombardo use on Reign in Blood?**  
 A: Dave's snare on Reign in Blood was a Pearl Free-Floating Steel 14"×6.5". The free-floating lug design (where the shell and lug assembly are isolated) provides greater resonance and sustain — important for cutting through the dense, fast guitar work on that album. He later had a Dave Lombardo Signature model released through Pearl.

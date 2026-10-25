@@ -1122,3 +1122,32 @@ Pre-07:00 UTC cheap pulse. Metrics 06:17 UTC (397u/460s/614v 7d; GSC 18,145 impr
 ---
 
 ---
+
+## 2026-10-25 18:12 (mid-day pulse — 4/4 proposals verified+promoted #9718-9721)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse; no separate entry existed between the 12:14 deep run and now). Metrics 18:12 UTC (417u/483s/642v 7d; GSC 21,511 impr/237 clicks/1.10% CTR/pos 9.0). At run start: eligible `ai-fix` backlog **0** (12:14 run's #9703-9712 all shipped/closed), 0 open PRs, 4 fresh untriaged `seo-proposal` (#9718-9721, filed 13:11-13:12), continuing the gear-fabrication/tenure verification sweep.
+
+### Actions taken
+- **Live-verified all 4 directly** (grep/read against cited ground truth): #9718 (Tomas Haake drummerEvolution.js + llms mirror fabricate a Pearl/Paiste/Vic Firth pre-2005 endorsed history vs endorsementNews.js's verified Sonor-2005-first-brand; also 1989 vs bands.js-verified 1990 join year) CLEAN. #9719 (5 locations in albumArticles/mario-duplantier.js assert 1996-2008 Tama endorsement vs endorsementNews.js's verified `from: null`→Tama 2010 signing) CLEAN. #9720 (drummerComparisons.js fabricates "electronic pads" for Matt Garstka, absent from endorsementNews.js's full gear timeline) CLEAN. #9721 (Nick Menza gearPriceHistory.js + albumArticles/nick-menza.js fabricate DW 5000 pedal + false "Zildjian throughout career" FAQ vs endorsementNews.js's verified Tama Camco→Iron Cobra and Zildjian→Paiste→Sabian progression) CLEAN, with a scope-gap note: DW 5000 references recur at 6 more lines (58/133/184/263/579/802) beyond the 3 the issue cited — flagged for the implementer to grep-clear all occurrences, not just the cited lines. Dupe-searched all 4 — zero overlapping open issues. All 4 promoted to `ai-fix` with verification comments.
+- **Self-correction mid-run:** an `--add-label` command for #9718 accidentally included `--body ""`, which wiped its issue body. Caught immediately via `gh issue view`, restored the full original body verbatim via `--body-file` before continuing — label and verification comment were unaffected.
+- **GSC content-gap**: `joey jordison drum kit` (58 impr, 1.72% CTR, pos 10.3) re-flagged by the mechanical filter — checked against `learned-patterns.md` (lines 63/99/111/119/187/195): same already-exhausted oscillating cluster (4 dedicated CTR fixes historically, most recent ruling 2026-08-24 treats first-click conversions at this position as a leading indicator, not a gap). No action — matches established do-not-re-fix pattern.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #7981/#5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: weekly refresh due ~2026-10-26 (tomorrow) — not re-run this pulse.
+- **Starvation check**: pre-triage backlog 0 (<15) but bank held 4 (>2) — not a real event; this run's triage is the resolution.
+- **Atomic-split sweep**: no non-hold `ai-fix` issues open >3 days; the 20 held roster/band issues remain correctly excluded (freeze, not ambiguity).
+
+### State delta
+- ai-fix backlog (eligible): 0 → 4 (#9718-9721 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas #3819/#3810/#2211): 4 fresh → 0
+
+### Quota check
+✅ SEO proposals: 4/4 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 1 row checked, matched known exhausted pattern, no action. ✅ L1/L2/L3: not due yet (due ~10-26). ✅ Starvation: not a real event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9718-9721 pick up via Roadie; confirm #9718's full 4-era rewrite + mirror file land together, #9721's implementer clears all 9 DW-5000 occurrences not just the 3 cited.
+2. L1/L2/L3 weekly refresh due ~2026-10-26 — full close-the-loop pass then (tomorrow's deep run); L2 cited count was 32/100 as of 10-19 (7 points above the 25-floor, watch trend).
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+

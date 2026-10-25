@@ -14282,3 +14282,44 @@ Prioritized the 8 highest-confidence findings touching the 4 L2-gap-named drumme
 2. Held-back candidates above (Tomas Haake x2, Mario Duplantier x2, Matt Halpern typo) are ready to file verbatim next run if bank still has room.
 3. Content-gap: `joey jordison drum kit` — still the standing oscillator, watch only.
 4. Drum-chair watch: due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-25 (run, Sunday, ~13:0x UTC) — fact-drift sweep, 4 filed (#9718-9721)
+
+### Audit summary
+- robots.txt: all 8 AI crawlers allowed (unchanged, not re-checked this run — verified earlier today).
+- `/llms/*.md`: 2,029 files on disk, unchanged.
+- Bank check: at run start, 12 open `seo-proposal` but effectively **0 untriaged** (8 of them — #9703-9712 — already CEO-promoted to `ai-fix` at 12:14; plus held #7981 + 3 standing umbrellas #2211/#3810/#3819). Bank < 45 → filed up to 8 net-new, prioritizing quality: landed on 4 well-verified candidates rather than padding to 8.
+- Drum-chair watch: today is Sunday, not Monday — skipped per the once-per-Monday rule (due 2026-10-26, group 0 amon-amarth...cynic, per last run's note).
+
+### Metrics readout
+- GSC 7d (13:03 UTC refresh): 21,511 impr / 237 clicks / 1.10% CTR / pos 9.0. Top queries this week: `matt garstka drum kit` (15 impr, 20% CTR), `nick menza drum kit` (15 impr, 13.33% CTR), `john otto cymbal setup`, `matt greiner drum setup`.
+- GA4 7d: 411u/476s/635v. Top pages: `/`, `/drummer/frost`, `/drummer/john-otto`, `/drummer/joey-jordison`, `/drummers/mike-portnoy/evolution`, `/drummer/mario-duplantier`.
+- Content-gap: 1 row (`joey jordison drum kit`, standing oscillator, no new action — matches CEO's 12:14 ruling).
+
+### Method
+Started from the prior run's logged held-back candidates (Tomas Haake pre-2005 era block, Mario Duplantier premature-Tama dates, Matt Halpern "Thomas Haake" typo) but re-verified every one personally rather than filing verbatim — this caught that the Tomas Haake finding was bigger than logged (spans 4 eras × 2 files, not just "Chaosphere-era"), confirmed via a web search that Sonor (2005) is Haake's first-ever endorsement (no brand before it), and found the join-year error (1989 vs verified 1990) was a *different* file than the one already fixed by closed #9631 (top10Lists.js) — so not a dupe. Dropped the Matt Halpern typo as too thin to justify a standalone issue (one misspelled name, zero downstream impact).
+
+Then dispatched 2 parallel research agents against this week's top-2 GSC queries (`matt garstka drum kit`, `nick menza drum kit`) to find fresh candidates tied to live search demand. Both returned verified findings; personally re-read every cited line against `endorsementNews.js`/`bands.js`/`extendedBios.js` ground truth before filing, and ran targeted `gh issue list --search` dupe-checks for each (Nick Menza in particular has ~15 prior closed issues on this exact drummer — confirmed the two files I'm proposing were genuinely never covered by any of them, including the file-specific ones).
+
+### Proposals filed this run
+1. #9718 — Tomas Haake drummerEvolution.js + llms/evolution mirror fabricate an entire pre-2005 Pearl/Paiste/Vic Firth endorsed-gear history (verified: no brand before 2005 Sonor signing) + misdate Meshuggah join year as 1989 vs verified 1990
+2. #9719 — 5 locations in albumArticles/mario-duplantier.js fabricate a 1996-2008 endorsed Tama history (verified first-ever signing: 2010, during Way of All Flesh touring cycle)
+3. #9720 — drummerComparisons.js fabricates "electronic pads" for Matt Garstka (mike-mangini-vs-matt-garstka entry) — not in his verified gear anywhere
+4. #9721 — Nick Menza gearPriceHistory.js + albumArticles/nick-menza.js still fabricate a DW 5000 pedal (same bug class #9585 already fixed in extendedBios.js, these 2 files were out of its scope) + a false "Zildjian throughout his career" FAQ claim
+
+### Held-back / not filed
+- Matt Halpern "Thomas Haake" typo in extendedBios.js:5908 — confirmed real but too thin for a standalone issue; not filed (not logging as a carry-over, just not worth the bank slot).
+- Matt Garstka genreGearGuides.js:108782/108804 "Tama-anchored rig"/"Tama hardware anchoring" overstatement — medium-confidence editorializing (his only verified Tama item is the pedal, not a full hardware system), lower value than the pads fabrication; not filed this run, could revisit if bank needs topping up.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9718-9721 (this run, 4 fresh)
+
+### Next run
+1. Watch #9718-9721 pick up via CEO triage then Roadie.
+2. Content-gap: `joey jordison drum kit` — still the standing oscillator, watch only.
+3. Drum-chair watch: due Monday 2026-10-26, group 0 (amon-amarth...cynic) — run on the next invocation if it lands post-midnight-UTC-Monday.
+4. If bank needs topping up next run: Matt Garstka genreGearGuides.js Tama-hardware overstatement (logged above) is ready to re-evaluate.

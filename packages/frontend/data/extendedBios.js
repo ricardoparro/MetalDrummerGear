@@ -4705,7 +4705,7 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
     drummerId: 49,
     name: 'Richard Christy',
     bands: [
-      { slug: 'death', period: '1996-2001', role: 'Drummer' },
+      { slug: 'death', period: '1997-2001', role: 'Drummer' },
       { slug: 'iced-earth', period: '2003-2007', role: 'Drummer' },
       { slug: 'control-denied', period: '1996-2001', role: 'Drummer' },
       { slug: 'burning-inside', period: '1997-2002', role: 'Drummer' },
@@ -4717,7 +4717,7 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
     sections: {
       overview: {
         title: 'Overview',
-        content: `Richard Christy (born April 1, 1974, in Fort Scott, Kansas) is an American drummer, comedian, and radio personality. In the metal world, he is renowned for his work with Death (1996-2001), Chuck Schuldiner's Control Denied, and Iced Earth (2003-2007). He is considered one of the most technically proficient death metal drummers of his generation.
+        content: `Richard Christy (born April 1, 1974, in Fort Scott, Kansas) is an American drummer, comedian, and radio personality. In the metal world, he is renowned for his work with Death (1997-2001), Chuck Schuldiner's Control Denied, and Iced Earth (2003-2007). He is considered one of the most technically proficient death metal drummers of his generation.
 
 Christy's drumming on Death's final two albums—"The Sound of Perseverance" and the posthumously released Control Denied's "The Fragile Art of Existence"—showcased his incredible speed, precision, and musicality. He later transitioned to entertainment, becoming a prominent member of The Howard Stern Show, but his legacy in metal drumming remains influential.`
       },
@@ -4725,7 +4725,7 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
         title: 'Career Highlights',
         items: [
           { year: '1993', event: 'Moved to Florida to pursue career in death metal drumming' },
-          { year: '1996', event: 'Joined Death and Control Denied, handpicked by Chuck Schuldiner' },
+          { year: '1997', event: 'Joined Death and Control Denied, handpicked by Chuck Schuldiner' },
           { year: '1998', event: 'Recorded "The Sound of Perseverance" with Death—final Death studio album' },
           { year: '1999', event: 'Recorded "The Fragile Art of Existence" with Control Denied' },
           { year: '2001', event: 'Death disbanded following Chuck Schuldiner\'s passing' },
@@ -4764,7 +4764,7 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
           { name: 'Leash Law - Dogface', year: 2003, label: 'Metal Blade', note: 'Side project' }
         ],
         tours: [
-          { name: 'Death Tours', year: '1996-2001', note: 'Final era of Death touring' },
+          { name: 'Death Tours', year: '1997-2001', note: 'Final era of Death touring' },
           { name: 'Iced Earth World Tours', year: '2003-2007', note: 'Global touring' },
           { name: 'Death To All Tours', year: '2012-2013', note: 'Chuck Schuldiner tribute' }
         ]
@@ -4810,7 +4810,7 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
           { q: 'What sticks does Richard Christy use?', a: 'Richard Christy uses Vic Firth American Classic 5A drumsticks, a comparatively lightweight, classic-diameter stick that favors finesse and articulation.' },
           { q: 'What bass drum pedal does Richard Christy use?', a: 'Richard Christy uses an Axis A Longboard double pedal.' },
           { q: 'What drumheads does Richard Christy use?', a: 'Richard Christy uses Evans drumheads.' },
-          { q: 'What band is Richard Christy in?', a: 'Richard Christy recorded with Death from 1996-2001, played with Iced Earth from 2003-2007, and has drummed for his own band, Charred Walls of the Damned, since 2009.' },
+          { q: 'What band is Richard Christy in?', a: 'Richard Christy recorded with Death from 1997-2001, played with Iced Earth from 2003-2007, and has drummed for his own band, Charred Walls of the Damned, since 2009.' },
           { q: 'What hi-hats does Richard Christy use?', a: 'Richard Christy plays 14" Sabian AAX Stage Hi-Hats, part of the AA/AAX cymbal setup he used on Death\'s The Sound of Perseverance and with Iced Earth.' }
         ]
       },

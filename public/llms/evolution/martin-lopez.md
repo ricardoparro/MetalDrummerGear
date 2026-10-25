@@ -33,7 +33,7 @@ A: Martin Lopez trained in jazz and classical music before entering death metal,
 **Albums:** My Arms, Your Hearse (1998), Still Life (1999), Blackwater Park (2001)
 **Style:** Dynamic, jazz-informed playing bridging brutal extremity and delicate acoustic passages within single songs
 
-Lopez joined Opeth in 1997, replacing original drummer Anders Nordin, and immediately stamped the band's progressive death metal sound with his dynamic, jazz-informed approach. My Arms, Your Hearse (1998) introduced his playing to the catalog, but Still Life (1999) and especially Blackwater Park (2001) — recorded with Porcupine Tree's Steven Wilson — established him as one of the genre's most musically sophisticated drummers, seamlessly bridging brutal extremity and delicate beauty within single songs. He switched to darker Zildjian K Series cymbals during this period, a defining tonal shift matching Opeth's progressive identity.
+Lopez joined Opeth in 1997, replacing original drummer Anders Nordin, and immediately stamped the band's progressive death metal sound with his dynamic, jazz-informed approach. My Arms, Your Hearse (1998) introduced his playing to the catalog, but Still Life (1999) and especially Blackwater Park (2001) — recorded with Porcupine Tree's Steven Wilson — established him as one of the genre's most musically sophisticated drummers, seamlessly bridging brutal extremity and delicate beauty within single songs. He played a Sonor Designer Series maple kit with Sabian HH and AAX cymbals throughout this period, a pairing that defined Opeth's progressive-era tone.
 
 **Q: Who was Opeth's original drummer?**
 A: Opeth's original drummer was Anders Nordin, who played on the band's debut album Orchid (1995). Martin Lopez joined in 1997, replacing Nordin, and went on to record My Arms, Your Hearse (1998) through Ghost Reveries (2005) — the run of albums most associated with Opeth's classic progressive death metal sound.
@@ -80,10 +80,10 @@ A: After several years away from recording, Martin Lopez returned in 2010 to co-
 
 | Era | Years | Drums | Cymbals |
 |---|---|---|---|
-| Pre-Opeth Foundation | 1996–1997 | Sonor Force Series | Zildjian A Series |
-| Opeth Formative Era | 1997–2001 | Sonor Force Series | Zildjian K Series |
-| Peak Versatility | 2002–2003 | Sonor Force Series (expanded) | Zildjian K Series |
-| Ghost Reveries / Departure | 2004–2006 | Sonor Force Series (mature) | Zildjian K Series (expanded) |
+| Pre-Opeth Foundation | 1996–1997 | Sonor Designer Series | Sabian HH/AAX |
+| Opeth Formative Era | 1997–2001 | Sonor Designer Series | Sabian HH/AAX |
+| Peak Versatility | 2002–2003 | Sonor Designer Series (expanded) | Sabian HH/AAX |
+| Ghost Reveries / Departure | 2004–2006 | Sonor Designer Series (mature) | Sabian HH/AAX (expanded) |
 | Soen Era | 2010–Present | Noble & Cooley Walnut | Zildjian K Dark Series |
 
 ---
@@ -97,7 +97,7 @@ A: Opeth's original drummer was Anders Nordin (Orchid, 1995). Martin Lopez repla
 A: Martin Lopez brought a jazz- and classically-trained sensibility to Opeth, emphasizing dynamics, ghost notes, and seamless transitions between extreme death metal heaviness and delicate acoustic passages. His playing on Still Life (1999), Blackwater Park (2001), Deliverance/Damnation (2002–2003), and Ghost Reveries (2005) helped define the dynamic, genre-blending identity that made Opeth one of progressive metal's most influential bands.
 
 **Q: What drum kit does Martin Lopez play?**
-A: With Soen, Martin Lopez plays a Noble & Cooley Walnut kit with a Noble & Cooley Solid Shell 14"x6" maple snare and Zildjian K Dark Series cymbals. During his Opeth years he played Sonor Force Series kits with Zildjian K Series cymbals.
+A: With Soen, Martin Lopez plays a Noble & Cooley Walnut kit with a Noble & Cooley Solid Shell 14"x6" maple snare and Zildjian K Dark Series cymbals. During his Opeth years he played Sonor Designer Series kits with Sabian HH/AAX cymbals.
 
 **Q: How is Martin Lopez connected to Opeth's later drummers?**
 A: Martin Lopez's 2006 departure from Opeth, driven by health issues, directly led to the hiring of Martin Axenrot, who has drummed for Opeth ever since. Lopez's progressive death metal foundation on albums like Blackwater Park (2001) and Ghost Reveries (2005) set the stylistic bar that Axenrot inherited.

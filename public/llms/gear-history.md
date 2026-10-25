@@ -1789,16 +1789,16 @@ Mario Duplantier's 2001 setup behind Gojira's (then Godzilla) debut Terra Incogn
 
 ### L'Enfant Sauvage Era (2009–2015)
 
-- **Kit:** Gretsch USA Custom (expanded) — added 8" rack tom for atmospheric range
-- **Snare:** Gretsch USA Custom 14"x6.5" (continued)
-- **Cymbals:** Meinl Byzance — switch from Paiste 2002; 14" Traditional hi-hats, 17"/18"/19" crashes, 21" ride, 18" China
-- **Notable:** L'Enfant Sauvage (2012) is widely considered Gojira's finest album, requiring Mario's most dynamic performance — from blast beats to delicate atmospheric passages. The switch to Meinl Byzance cymbals gave a darker, more complex tonal palette to match.
+- **Kit:** Tama Starclassic Bubinga — bubinga shells, dual 22"x18" kicks, 8"/10"/12"/13"/16"/18" toms (added 8" rack tom for atmospheric range)
+- **Snare:** Tama Starclassic Bubinga 14"x6.5"
+- **Cymbals:** Zildjian K Custom / A Custom / Z Custom — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China
+- **Notable:** L'Enfant Sauvage (2012) is widely considered Gojira's finest album, requiring Mario's most dynamic performance — from blast beats to delicate atmospheric passages. The Tama rig, signed in 2010, was expanded and refined, with the Zildjian K/A/Z Custom mix giving a more nuanced sonic palette to match.
 
 ### Magma / Fortitude Era (2016–present)
 
 - **Kit:** Tama Starclassic Bubinga — bubinga shells, dual 22"x18" kicks, 10"/12"/13"/16"/18" toms
 - **Snare:** Tama S.L.P. 14"x6.5" G-Maple
-- **Cymbals:** Meinl Byzance (continued) — 14" Traditional hi-hats, 17"/18"/19" crashes, 21" Vintage ride, 18" China
+- **Cymbals:** Zildjian K Custom / A Custom / Z Custom (continued) — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China
 - **Notable:** Gojira reached global headliner status in this era — headlining Download Festival, supporting Metallica at stadiums on the M72 World Tour, and performing at the Paris Olympics 2024 opening ceremony. Fortitude (2021) earned a Grammy nomination. The Starclassic Bubinga is Mario's most personal and refined kit to date.
 
 **Price Evolution:**

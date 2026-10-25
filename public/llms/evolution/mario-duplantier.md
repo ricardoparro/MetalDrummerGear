@@ -5,7 +5,7 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummers/mario-duplantier"
 evolution_url: "https://metalforge.io/drummers/mario-duplantier/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-09-22"
+last_updated: "2026-10-25"
 ---
 
 # Mario Duplantier Drum Kit Evolution — Complete Timeline
@@ -46,23 +46,20 @@ The formative years. Mario and Joe built Gojira from nothing in the French Basqu
 **Albums:** From Mars to Sirius (2005), The Way of All Flesh (2008)
 **Tours:** From Mars to Sirius European Tour; The Way of All Flesh World Tour
 
-The breakthrough. *From Mars to Sirius* put Gojira on the global metal map and brought Mario his first major endorsement deal. The Gretsch USA Custom's warm maple resonance shaped what became one of the decade's most celebrated heavy metal drum sounds — especially the mountainous tom fills on "Flying Whales."
+The breakthrough. *From Mars to Sirius* put Gojira on the global metal map, but Mario remained unendorsed through this period — the same Pearl Export and Paiste 2002 setup from the Terra Incognita years carried the mountainous tom fills on "Flying Whales."
 
-- **Drums:** Gretsch USA Custom — maple shells: dual 22"×18" kicks, 10"/12"/13"/16"/18" toms *(switch — first major endorsement)*
-- **Snare:** Gretsch USA Custom 14"×6.5" maple, die-cast hoops *(switch — warmer, more resonant)*
-- **Cymbals:** Paiste 2002 — 14" Heavy hi-hats, 18"/19" crashes, 22" ride, 20" China *(continued)*
-- **Hardware:** DW 5000 Turbo Double Pedal *(switch — more responsive for increasing complexity)*
+- **Drums:** Pearl Export Series — poplar shells: dual 22" kicks, 10"/12"/13"/16" toms *(continued — no drum endorsement yet)*
+- **Snare:** Pearl Sensitone Steel 14"×5.5" *(continued)*
+- **Cymbals:** Paiste 2002 — 14" hi-hats, 16"/18" crashes, 20" ride, 18" China *(continued — cutting power and projection suited Gojira's dense mix)*
+- **Hardware:** Pearl P-2002C Eliminator Double Pedal *(continued)*
 - **Sticks:** Vic Firth 5B hickory (continued)
-- **Heads:** Remo Emperor double-ply on toms, Powerstroke 3 on kicks *(upgrade — durability for touring)*
-- **Estimated kit cost (original):** ~$9,000
+- **Heads:** Remo Ambassador, clear on toms *(continued)*
+- **Estimated kit cost (original):** ~$3,000
 
 **Key developments:**
-- First major Gretsch USA Custom endorsement begins
-- Dual kick expanded with larger 18" floor tom for deeper tonal range
+- No drum endorsement yet — continued on the Terra Incognita-era Pearl/Paiste setup
 - *From Mars to Sirius* (2005) — Gojira achieve international breakthrough
 - *The Way of All Flesh* (2008) — Grammy nomination raises global profile
-
-> "The Gretsch gave me something warmer, more musical. I could still hit hard, but now there was depth behind each stroke." — *Modern Drummer Feature, 2006*
 
 ---
 
@@ -82,7 +79,7 @@ Widely considered Gojira's masterpiece, *L'Enfant Sauvage* required Mario's most
 - **Estimated kit cost (original):** ~$12,000
 
 **Key developments:**
-- Kit expanded with 8" rack tom for atmospheric register
+- Signed with Tama in 2010; kit expanded with 8" rack tom for atmospheric register
 - Evans heads adopted for improved kick attack definition
 - *L'Enfant Sauvage* (2012) — widely considered Gojira's finest album
 
@@ -97,17 +94,16 @@ Gojira reached global headliner status — opening for Metallica at stadiums, he
 
 - **Drums:** Tama Starclassic Bubinga — bubinga shells: dual 22"×18" kicks, 10"/12"/13"/16"/18" toms *(switch — exotic bubinga shells, maximum projection for stadiums)*
 - **Snare:** Tama S.L.P. 14"×6.5" G-Maple *(switch — matched to the Starclassic Bubinga kit, consistent tonal character)*
-- **Cymbals:** Meinl Byzance — 14" Traditional hi-hats, 17"/18"/19" crashes, 21" Vintage ride, 18" China *(continued — long-term Meinl partnership)*
+- **Cymbals:** Zildjian K Custom / A Custom / Z Custom — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China *(continued — dark, complex tones suit Gojira's dynamic range)*
 - **Hardware:** Tama Iron Cobra 900 Power Glide (dual pedals) *(switch — Power Glide cam for fluid dual bass control)*
 - **Sticks:** Tama Mario Duplantier Signature *(signature — first signature stick, custom specs for tribal patterns)*
 - **Heads:** Ahead drumheads (batter surfaces) *(switch — durability for marathon festival and arena sets)*
-- **Electronics:** Full IEM click track integration *(new — arena touring requirement)*
+- **Electronics:** Tama 1st Chair Throne + full IEM system *(new — arena touring requirement)*
 - **Estimated kit cost (original):** ~$18,000
 
 **Key developments:**
-- Switch to Tama Starclassic Bubinga — exotic bubinga shell kit
+- Switch to Tama S.L.P. G-Maple snare and Tama Iron Cobra 900 Power Glide pedal
 - Tama Mario Duplantier Signature sticks launched
-- Tama Iron Cobra 900 Power Glide replaces DW pedals
 - *Fortitude* (2021) — Grammy nomination; global stadium touring
 - 2024 Paris Olympics opening ceremony performance — largest audience in Gojira history
 
@@ -118,7 +114,7 @@ Gojira reached global headliner status — opening for Metallica at stadiums, he
 | Era | Years | Kit Cost (Original) | Inflation-Adjusted |
 |---|---|---|---|
 | Terra Incognita Era | 1996–2004 | $3,000 | ~$5,500 |
-| From Mars to Sirius Era | 2005–2008 | $9,000 | ~$15,000 |
+| From Mars to Sirius Era | 2005–2008 | $3,000 | ~$5,500 |
 | L'Enfant Sauvage Era | 2009–2015 | $12,000 | ~$17,000 |
 | Magma / Fortitude Era | 2016–present | $18,000 | ~$18,000 |
 
@@ -126,13 +122,11 @@ Gojira reached global headliner status — opening for Metallica at stadiums, he
 
 ## Gear Brand Partnerships Timeline
 
-- **Pearl Export** — 1996–2004 (formative era)
-- **Gretsch USA Custom** — 2005–2008 (international breakthrough endorsement)
+- **Pearl Export** — 1996–2008 (formative era, no endorsement)
 - **Tama Starclassic Bubinga** — 2009–present (signed 2010, current flagship kit)
 - **Paiste 2002** — 1996–2008 (founding cymbal partnership)
-- **Zildjian K Custom / A Custom / Z Custom** — 2009–2015 (L'Enfant Sauvage era)
-- **Meinl Byzance** — 2016–present (current cymbal partnership)
-- **DW 5000/9000** — 2005–2008 (pedal partnership)
+- **Zildjian K Custom / A Custom / Z Custom** — 2009–present (current cymbal partnership)
+- **Pearl Eliminator** — 1996–2008 (pedal partnership)
 - **Tama Iron Cobra** — 2009–present (current pedal)
 - **Tama Mario Duplantier Signature Sticks** — 2016–present
 
@@ -141,16 +135,16 @@ Gojira reached global headliner status — opening for Metallica at stadiums, he
 ## FAQ
 
 **Q: What drum kit did Mario Duplantier use on Magma?**
-A: Mario recorded *Magma* (2016) with his Tama Starclassic Bubinga kit — bubinga shells with dual 22"×18" kick drums, and toms in 10", 12", 13", 16", and 18" sizes. Cymbals were Meinl Byzance series. Hardware was Tama Iron Cobra 900 Power Glide double pedals.
+A: Mario recorded *Magma* (2016) with his Tama Starclassic Bubinga kit — bubinga shells with dual 22"×18" kick drums, and toms in 10", 12", 13", 16", and 18" sizes. Cymbals were Zildjian K Custom / A Custom / Z Custom. Hardware was Tama Iron Cobra 900 Power Glide double pedals.
 
 **Q: What cymbals does Mario Duplantier use?**
-A: Mario played Paiste 2002 for the first decade of Gojira's career, switched to Zildjian K Custom / A Custom / Z Custom for the L'Enfant Sauvage era (2009–2015), and has used Meinl Byzance since the Magma/Fortitude era (2016–present) — his current Byzance setup includes 14" Traditional hi-hats, 17"/18"/19" crashes, a 21" Vintage ride, and an 18" China.
+A: Mario played Paiste 2002 for the first decade of Gojira's career and switched to Zildjian K Custom / A Custom / Z Custom for the L'Enfant Sauvage era (2009–present) — his current setup includes 14" hi-hats, 17"/18"/19" crashes, a 21" ride, and an 18" China.
 
 **Q: What drum kit did Mario use on From Mars to Sirius?**
-A: *From Mars to Sirius* (2005) was recorded with Mario's first major endorsement kit — the Gretsch USA Custom in maple shells, with dual 22"×18" kick drums. Cymbals were Paiste 2002, and hardware included the DW 5000 Turbo double pedal.
+A: *From Mars to Sirius* (2005) was recorded on Mario's existing Pearl Export kit — he had no drum endorsement yet. Dual 22" kick drums, Paiste 2002 cymbals, and a Pearl P-2002C Eliminator double pedal carried the record.
 
 **Q: What is Mario Duplantier's current drum kit?**
-A: Mario's current kit is the Tama Starclassic Bubinga, with dual 22"×18" kicks and a Tama S.L.P. 14"×6.5" G-Maple snare. His cymbals are Meinl Byzance, pedals are Tama Iron Cobra 900 Power Glide, and sticks are his Tama Mario Duplantier Signature model.
+A: Mario's current kit is the Tama Starclassic Bubinga, with dual 22"×18" kicks and a Tama S.L.P. 14"×6.5" G-Maple snare. His cymbals are Zildjian K Custom / A Custom / Z Custom, pedals are Tama Iron Cobra 900 Power Glide, and sticks are his Tama Mario Duplantier Signature model.
 
 **Q: Why does Mario Duplantier use dual bass drums?**
 A: Mario has used two physical kick drums — not a double pedal on a single drum — since Gojira's earliest days. The dual configuration gives independent resonance from each shell, creates the visual impact central to Gojira's stage design, and allows subtle groove variations between feet that a single-drum double-pedal setup can't replicate.

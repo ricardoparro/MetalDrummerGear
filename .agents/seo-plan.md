@@ -14230,3 +14230,55 @@ One candidate was deliberately **not filed**: Agent B flagged a possible conflic
 2. Resolve the Martin Lopez Amon Amarth date-conflict question (re-read #8005's original verification vs `bands.js:2172`'s 1996-1998 Amon Amarth tenure) before filing or dismissing.
 3. Content-gap: `joey jordison drum kit` — still the standing oscillator, watch only.
 4. Drum-chair watch: due Monday 2026-10-26, group 0 (amon-amarth...cynic) — run on the next invocation if it lands post-midnight-UTC-Monday.
+
+---
+
+## 2026-10-25 (run, Sunday, ~07:0x UTC) — high-TAM fact-drift sweep (L2-gap drummers), 8 filed (#9703-9712)
+
+### Audit summary
+- robots.txt (`api/robots.js`, grep for 8 AI crawler UAs): all 8 explicitly allowed. ✅
+- `/llms/*.md`: 2,029 files on disk, unchanged.
+- Bank check: 11 open `seo-proposal` at run start (#9687-9692 from the 01:2x run, all 6 already promoted to `ai-fix` + held #7981 + 3 standing umbrellas) — effectively 0 fresh untriaged, well under the 45 floor → filed 8 (top of the under-45 allowance).
+- Drum-chair watch: today is Sunday, not Monday — skipped per the once-per-Monday rule (next due 2026-10-26).
+
+### Metrics readout
+- GSC 7d: 21,511 impr / 237 clicks / 1.10% CTR / pos 9.0 (metrics.md refreshed 07:05 UTC).
+- GA4 7d: 398u / 461s / 615v. Top pages: `/` (20v), `/drummer/frost` (14v), `/drummer/john-otto` (11v), `/drummer/joey-jordison` (10v).
+- Content-gap: 1 row (`joey jordison drum kit`, 58 impr, 1.72% CTR) — standing oscillator per 00:31 CEO pulse (4 prior CTR fixes, documented). No new action.
+
+### Method
+First resolved the carried-over Martin Lopez question from the last run (closer read of closed #8005 vs `bands.js:2172`): confirmed `bands.js`'s Amon Amarth entry genuinely documents a real 1996-1998 Martin Lopez tenure (debut album *Once Sent from the Golden Hall*), so #8005 was correct to strip the *fabricated* specifics (invented gear, fake 1999 magazine quote, wrong 1996-1997 date range) from `drummerEvolution.js`. Re-adding the bare true affiliation isn't worth a proposal — no gear/quote data exists to backfill under the verified-only rule, and nothing currently contradicts it. Closed out, no issue filed.
+
+Then dispatched 2 parallel research agents targeting roster names confirmed (via 18-day `git log --grep` scan) to have zero recent fix-commit mentions despite being high-TAM/GA4-top-page or explicitly named in `learned-patterns.md`'s L2-citation-gap list (lars-ulrich/mike-portnoy/danny-carey/dave-lombardo/gene-hoglan "NOT cited despite full gear inventory"): Agent A covered Danny Carey, Dave Lombardo, Mario Duplantier; Agent B covered Mike Portnoy, Tomas Haake, Lars Ulrich. Combined, they returned 18 candidates (9 each) across `drummerEvolution.js`, `albumArticles/*.js`, `drummerComparisons.js`, and `public/llms/**` mirrors, all dupe-checked against closed issues by the agents.
+
+I personally re-verified every candidate before filing by reading the actual cited + ground-truth (`endorsementNews.js`/`bands.js`) lines directly — this caught one bad citation (Agent B's Lars Ulrich finding initially cited fabricated line numbers that didn't match the file; re-grepped and found the real Kill 'Em All section at different lines, confirming the underlying claim was still correct) and one scope question (Dave Lombardo's `drummerComparisons.js` FAQ line 2809 also contains an unverified "was on Pearl during Reign in Blood era" claim — left untouched, flagged as needing external verification rather than assumed fabricated, since it doesn't contradict any ground-truth file).
+
+Prioritized the 8 highest-confidence findings touching the 4 L2-gap-named drummers (Lombardo/Portnoy/Ulrich/Carey) plus Mario Duplantier (current top-10 GA4 page, and the mirror fabrication there has a direct, already-shipped fix precedent in the `.js` sources per #6028/#7290/#7921). This directly serves this week's LLM-citation-first priority: these are exactly the high-TAM pages documented as uncited by Perplexity despite full gear data — fact-drift on them is the most load-bearing kind to fix.
+
+### Proposals filed this run
+1. #9703 — Danny Carey gear-history llms mirror fabricates entire Pearl/Zildjian/DW rig (verified: Sonor/Paiste/Vic Firth)
+2. #9704 — Dave Lombardo albumArticles.js repeatedly misattributes Diabolus in Musica + God Hates Us All to Lombardo (both are Paul Bostaph's)
+3. #9712 — Dave Lombardo llms mirrors still collapse his 3 Slayer stints into 2 + wrongly credit him with God Hates Us All
+4. #9705 — drummerComparisons.js self-contradicts Dave Lombardo's kit wood — "Starclassic Maple" in 8 spots vs verified "Walnut/Birch"
+5. #9706 — Mike Portnoy drummerEvolution.js wording + gear-history llms mirror fabricate wrong Tama/cymbal history (verified: Tama since 1985, Sabian not Zildjian)
+6. #9708 — albumArticles/mike-portnoy.js self-contradicts stick brand — 8 blocks say "Vic Firth" (incl. a different drummer's signature model), verified brand is Promark
+7. #9709 — Lars Ulrich "Kill 'Em All" article + llms mirror fabricate a pre-1984 "Tama Imperial Star" kit (verified: Camco until the 1984 Tama switch)
+8. #9711 — 3 Mario Duplantier llms mirrors never synced after #6028/#7290/#7921 fixed the Gretsch/Meinl/Sonor SQ2 fabrication in drummerEvolution.js
+
+(Note: #9703/#9704 filed first with sequential numbers; a 502 from the GitHub API mid-batch dropped the 3rd create silently — retried successfully as #9712, landing out of sequence. No duplicate created.)
+
+### Held-back / not filed
+- Martin Lopez pre-Opeth Amon Amarth affiliation — resolved as "no fix needed" (see Method above), not a drift bug.
+- 10 of the 18 research-agent candidates not filed this run (bank-cap discipline, quality over volume): Mario Duplantier 2x premature-Tama-date fabrications in `albumArticles.js` (lower-value than the 3-mirror-file fix filed as #9711); Tomas Haake drummerEvolution.js Chaosphere-era block + evolution.md mirror (Pearl/Paiste/Vic Firth fabrication vs verified Sonor/Sabian/Wincent); Tomas Haake 1989-vs-1990 Meshuggah join-year error in drummerEvolution.js (partially fixed in `top10Lists.js` yesterday by #9631, this file untouched); Matt Halpern "Thomas Haake" name typo in extendedBios.js (low-value spelling fix). Logged here so next run doesn't have to re-derive the sweep — these are ready to file as-is if the bank has room.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9687-9692 (01:2x run, already promoted to ai-fix per labels)
+- #9703-9712 (this run, 8 fresh, minus #9710/#9707 which were never allocated — API gap, not missing issues)
+
+### Next run
+1. Watch #9703-9706/#9708/#9709/#9711/#9712 pick up via CEO triage then Roadie.
+2. Held-back candidates above (Tomas Haake x2, Mario Duplantier x2, Matt Halpern typo) are ready to file verbatim next run if bank still has room.
+3. Content-gap: `joey jordison drum kit` — still the standing oscillator, watch only.
+4. Drum-chair watch: due Monday 2026-10-26, group 0 (amon-amarth...cynic).

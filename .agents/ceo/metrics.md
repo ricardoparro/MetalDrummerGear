@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-25 06:17 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-25 07:05 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 397 |
-| Sessions | 460 |
-| Page views | 614 |
-| Engagement rate | 57.83% |
-| Avg session (s) | 231 |
+| Active users | 398 |
+| Sessions | 461 |
+| Page views | 615 |
+| Engagement rate | 57.92% |
+| Avg session (s) | 230 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 353 | 291 |
+| Organic Search | 354 | 292 |
 | Direct | 105 | 105 |
 | Unassigned | 10 | 9 |
 | Organic Social | 1 | 1 |
@@ -39,7 +39,7 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 148 | 122 |
+| United States | 149 | 123 |
 | Singapore | 46 | 46 |
 | China | 32 | 32 |
 | United Kingdom | 31 | 17 |
@@ -53,43 +53,43 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 18,145 |
-| Clicks | 182 |
-| CTR | 1.00% |
+| Impressions | 21,511 |
+| Clicks | 237 |
+| CTR | 1.10% |
 | Avg position | 9.0 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| matt greiner drum setup | 8 | 2 | 25.00% | 6.9 |
-| best metal drummers | 12 | 1 | 8.33% | 11.5 |
-| bill ward cymbals | 3 | 1 | 33.33% | 7.7 |
+| john otto cymbal setup | 11 | 3 | 27.27% | 6.4 |
+| matt garstka drum kit | 15 | 3 | 20.00% | 7.6 |
+| matt greiner drum setup | 11 | 2 | 18.18% | 7.0 |
+| nick menza drum kit | 15 | 2 | 13.33% | 5.0 |
+| best death metal drummers of all time | 4 | 1 | 25.00% | 2.8 |
+| best metal drummers | 15 | 1 | 6.67% | 12.7 |
+| bill ward cymbals | 4 | 1 | 25.00% | 8.3 |
 | brann dailor kit | 3 | 1 | 33.33% | 6.0 |
 | can you show me some images | 1 | 1 | 100.00% | 9.0 |
-| death metal drum kit | 4 | 1 | 25.00% | 4.3 |
-| frost drums | 2 | 1 | 50.00% | 3.5 |
-| gojira drum set | 2 | 1 | 50.00% | 4.0 |
-| hellhammer drum setup | 3 | 1 | 33.33% | 3.3 |
-| igor cavalera drum kit | 2 | 1 | 50.00% | 5.0 |
+| death metal drum kit | 6 | 1 | 16.67% | 5.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,342 | 64 | 1.92% | 8.1 |
-| aus | 595 | 10 | 1.68% | 8.7 |
-| gbr | 993 | 10 | 1.01% | 9.0 |
-| can | 644 | 6 | 0.93% | 8.3 |
-| tur | 89 | 6 | 6.74% | 7.3 |
-| deu | 338 | 5 | 1.48% | 7.6 |
-| pol | 240 | 5 | 2.08% | 7.8 |
-| swe | 175 | 5 | 2.86% | 7.3 |
-| fra | 390 | 4 | 1.03% | 8.9 |
-| ita | 268 | 4 | 1.49% | 8.1 |
+| usa | 4,022 | 72 | 1.79% | 8.1 |
+| gbr | 1,187 | 13 | 1.10% | 9.0 |
+| aus | 687 | 12 | 1.75% | 8.7 |
+| can | 788 | 8 | 1.02% | 8.3 |
+| deu | 419 | 8 | 1.91% | 7.5 |
+| nld | 268 | 8 | 2.99% | 7.1 |
+| swe | 218 | 8 | 3.67% | 7.0 |
+| pol | 283 | 7 | 2.47% | 7.9 |
+| tur | 111 | 6 | 5.41% | 7.8 |
+| bel | 116 | 5 | 4.31% | 7.4 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 53 | 1.89% | 10.0 | open issue to answer better |
+| joey jordison drum kit | 58 | 1.72% | 10.3 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -5647,7 +5647,7 @@ export const ALBUM_ARTICLES_META = {
     "year": 1983,
     "genre": "Thrash Metal",
     "title": "Kill 'Em All Drum Setup: Lars Ulrich's 1983 Kit That Launched Thrash Metal",
-    "description": "Discover the bare-bones Tama Imperial Star kit and mixed cymbals Lars Ulrich used to record Metallica's 1983 debut Kill 'Em All — the album that birthed thrash metal. Complete gear breakdown with recording context.",
+    "description": "Discover the bare-bones Camco kit and Zildjian A Series cymbals Lars Ulrich used to record Metallica's 1983 debut Kill 'Em All — the album that birthed thrash metal. Complete gear breakdown with recording context.",
     "ogImage": "/images/albums/kill-em-all-drums.webp",
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",

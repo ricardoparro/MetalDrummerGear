@@ -33,7 +33,7 @@ Dave Lombardo plays a Tama Starclassic Walnut/Birch drum kit — the shell confi
 
 Paiste cymbals define the sonic character of Dave Lombardo's drum kit: 15" Sound Edge Hi-Hats from the RUDE series provide aggressive open-edge response; 18" and 19" Paiste crashes deliver explosive attack for thrash metal's dynamic accents; a 22" Reign Power Ride cuts through dense guitar arrangements; and an 18" China adds brutal punctuation central to tracks like "Angel of Death." A Tama Iron Cobra 900 double pedal drives Lombardo's legendary double kick — the technique that redefined extreme metal drumming.
 
-The Dave Lombardo drum set draws on his work across Slayer (1981–2013) and subsequent projects with Dead Cross, Mr. Bungle, and Suicidal Tendencies (2016–2021). His Promark Dave Lombardo Signature 2Bx drumsticks are heavier than standard, matched to the power required for Slayer's extreme thrash tempos — a legacy that makes his Reign in Blood drum parts among the most studied in metal history.
+The Dave Lombardo drum set draws on his work across Slayer (1981–1986, 1987–1992, 2001–2013) and subsequent projects with Dead Cross, Mr. Bungle, and Suicidal Tendencies (2016–2021). His Promark Dave Lombardo Signature 2Bx drumsticks are heavier than standard, matched to the power required for Slayer's extreme thrash tempos — a legacy that makes his Reign in Blood drum parts among the most studied in metal history.
 
 ## Biography
 
@@ -51,8 +51,8 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
 - **1988** — Released "South of Heaven," showcasing dynamic range beyond speed
 - **1992** — First departure from Slayer due to financial disputes
 - **1998** — Joined Mike Patton's Fantômas, exploring avant-garde metal
-- **2001** — Rejoined Slayer for "God Hates Us All" album
-- **2006** — Released "Christ Illusion" with Slayer, winning Grammy for Best Metal Performance
+- **2001** — Rejoined Slayer
+- **2006** — Released "Christ Illusion" with Slayer, his first studio album since rejoining, winning Grammy for Best Metal Performance
 - **2013** — Second departure from Slayer
 - **2017** — Formed Dead Cross with Mike Patton; joined Mr. Bungle reunion
 - **2019** — Recorded "The Raging Wrath of the Easter Bunny Demo" with Mr. Bungle
@@ -95,7 +95,7 @@ Dave Lombardo's drumming style is characterized by incredible speed, precise dou
 
 ## Band History
 
-- **Slayer** — 1981–1992, 2001–2013
+- **Slayer** — 1981–1986, 1987–1992, 2001–2013
 - **Suicidal Tendencies** — 2016–2021
 - **Dead Cross** — 2017–present (current)
 - **Mr. Bungle** — 2019–present (current)

@@ -20,19 +20,19 @@ See also: [Jocke Wallgren drummer profile](/llms/drummers/jocke-wallgren.md) · 
 
 **Tours:** Valkyria regional Swedish shows (2009–2016)
 
-Wallgren (born June 10, 1985, in Chile, and raised in Stockholm, Sweden) began his drumming career in the Swedish underground metal scene in the 2000s, playing with Rage and Evergrey in the European power/prog metal scene, where he signed with Zildjian and Pearl hardware in 2005, before joining Viking/folk metal band Valkyria in 2009. He spent seven years developing the powerful, groove-oriented style that would later suit Amon Amarth's anthemic Viking metal, during a period for which no single fixed drum, snare, or stick endorsement is publicly documented.
+Wallgren (born June 10, 1985, in Chile, and raised in Stockholm, Sweden) began his drumming career in the Swedish underground metal scene in the 2000s, where he signed with Zildjian and Pearl hardware in 2005, before joining Viking/folk metal band Valkyria in 2009. He spent seven years developing the powerful, groove-oriented style that would later suit Amon Amarth's anthemic Viking metal, during a period for which no single fixed drum, snare, or stick endorsement is publicly documented.
 
 - **Drums:** Various regional kits — no single fixed brand documented
 - **Snare:** Standard steel snares, varied by gig
-- **Cymbals:** Zildjian A Custom & K Custom Series, signed in 2005 during his Rage and Evergrey years
-- **Hardware:** Pearl double bass pedal, signed in 2005 during his Rage and Evergrey years
+- **Cymbals:** Zildjian A Custom & K Custom Series, signed in 2005 during his years in the Swedish underground metal scene
+- **Hardware:** Pearl double bass pedal, signed in 2005 during his years in the Swedish underground metal scene
 - **Sticks:** Standard hickory sticks, varied by gig (pre-Vic Firth era)
 - **Heads:** Standard regional-scene heads, varied by gig
 - **Estimated kit cost (original):** ~$1,400 (inflation-adjusted to 2026: ~$2,000)
 
 **Key developments:**
 - Began drumming in the Swedish underground metal scene in the 2000s
-- Signed with Zildjian cymbals and Pearl hardware in 2005 during his Rage and Evergrey years
+- Signed with Zildjian cymbals and Pearl hardware in 2005 during his years in the Swedish underground metal scene
 - Joined Viking/folk metal band Valkyria in 2009
 - Developed the powerful, groove-oriented style later heard in Amon Amarth
 - No fixed drum, snare, or stick endorsement documented for the Valkyria years

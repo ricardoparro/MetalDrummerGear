@@ -7,9 +7,7 @@ export const articles = {
     "relatedDrummerSlug": "jocke-wallgren",
     "band": "Amon Amarth",
     "bands": [
-      "Amon Amarth",
-      "Evergrey",
-      "Rage"
+      "Amon Amarth"
     ],
     "genre": "Melodic Death Metal",
     "country": "Sweden",
@@ -48,7 +46,7 @@ export const articles = {
         "Zildjian A Custom & K Custom cymbals throughout his Amon Amarth tenure — bright attack paired with dark, complex overtones for melodic death metal",
         "Pearl Demon Drive double bass pedal — adjustable-cam chain-drive action for sustained gallop and blast patterns across full live sets",
         "Driving double bass foundation — the rhythmic engine behind anthems like \"Twilight of the Thunder God\" and \"Deceiver of the Gods\"",
-        "Previously with Evergrey and Rage — broad European power/prog metal background before joining Amon Amarth"
+        "Rose through the Swedish underground metal scene before joining Amon Amarth"
       ]
     },
     "drumKit": {
@@ -171,19 +169,16 @@ export const articles = {
     },
     "gearTimeline": [
       {
-        "era": "Rage and Evergrey — European Power and Prog Metal",
-        "years": "2005–2012",
-        "albums": [
-          "Rage — various",
-          "Evergrey — various"
-        ],
-        "description": "Building European touring experience in power and progressive metal before joining Amon Amarth.",
+        "era": "Swedish Underground Metal Scene",
+        "years": "2005–2016",
+        "albums": [],
+        "description": "Building up technical and dynamic drumming experience in Sweden's underground metal scene before joining Amon Amarth.",
         "gear": {
           "drums": "Pearl kit (developing configuration)",
           "cymbals": "Zildjian cymbals — early A Custom usage",
           "pedals": "Pearl double bass pedal configuration"
         },
-        "notes": "Wallgren's time with Rage and Evergrey grounded him in the technical and dynamic demands of European power/prog metal — a context that shares melodic death metal's emphasis on dynamic contrast and compositional complexity while adding the technical precision that power metal arrangements require. This background informed his ability to navigate Amon Amarth's dual identity as a death metal band with melodic and anthemic qualities."
+        "notes": "Wallgren's years in the Swedish underground metal scene grounded him in the technical and dynamic demands that would later suit Amon Amarth's melodic death metal — a period for which no single fixed drum, snare, or stick endorsement is publicly documented."
       },
       {
         "era": "Amon Amarth — Joining the Band: Jomsviking Cycle and Berserker Debut",

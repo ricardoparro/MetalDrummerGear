@@ -2875,7 +2875,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.CYMBALS,
         from: null,
         to: 'Zildjian',
-        notes: 'Began playing Zildjian A Custom & K Custom cymbals during his time with Rage and Evergrey in the European power/prog metal scene',
+        notes: 'Began playing Zildjian A Custom & K Custom cymbals during his early years in the Swedish underground metal scene',
       },
       {
         year: 2005,
@@ -2883,7 +2883,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.HARDWARE,
         from: null,
         to: 'Pearl',
-        notes: 'Adopted a Pearl double bass pedal configuration during his Rage and Evergrey years, ahead of the Demon Drive model becoming his standard',
+        notes: 'Adopted a Pearl double bass pedal configuration during his early years in the Swedish underground metal scene, ahead of the Demon Drive model becoming his standard',
       },
       {
         year: 2016,

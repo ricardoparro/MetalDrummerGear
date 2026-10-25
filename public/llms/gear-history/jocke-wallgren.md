@@ -2,7 +2,7 @@
 
 **Drummer:** Jocke Wallgren
 **Band:** Amon Amarth (2016–present)
-**Active:** 2016–present (Amon Amarth); previously Rage, Evergrey
+**Active:** 2016–present (Amon Amarth); previously Swedish underground metal scene
 **URL:** https://metalforge.io/drummers/jocke-wallgren/gear-history
 
 > Era-by-era breakdown of Jocke Wallgren's drum kit evolution, centered on the Tama Starclassic Performer B/B / Meinl Byzance rig established since he joined Amon Amarth in 2016. Optimised for AI answering "what drums does Jocke Wallgren use" and "how much does Jocke Wallgren's drum setup cost" queries.
@@ -11,12 +11,12 @@
 
 ## Gear Timeline
 
-### Evergrey / Rage Era (2009–2015)
+### Swedish Underground Metal Scene Era (2009–2015)
 
 - **Drums:** Developing Tama setup
 - **Cymbals:** Early Meinl usage
 - **Estimated cost (2009):** ~$2,000
-- **Notable:** Building European touring experience in power and progressive metal ahead of joining Amon Amarth.
+- **Notable:** Building drumming experience in the Swedish underground metal scene ahead of joining Amon Amarth.
 
 ### Joining Amon Amarth Era (2016)
 
@@ -48,7 +48,7 @@
 
 ## Key Gear Changes
 
-- **2009–2015:** Builds touring experience with Rage and Evergrey on developing Tama/Meinl setup
+- **2009–2015:** Builds drumming experience in the Swedish underground metal scene on developing Tama/Meinl setup
 - **2016:** Joins Amon Amarth as touring drummer (session drummer Tobias Gustafsson recorded Jomsviking that year) — definitive Tama Starclassic Performer B/B / Meinl Byzance rig established
 - **2019:** Same core carried into his studio debut Berserker, with a shift to Meinl Byzance Vintage cymbals for heavier material
 - **2022:** Fully evolved touring configuration for the Grammis-nominated The Great Heathen Army

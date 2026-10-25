@@ -1500,15 +1500,15 @@ Jimmy DeGrasso's 2001 setup behind Megadeth's The World Needs a Hero — recorde
 
 ## Jocke Wallgren — Amon Amarth
 
-**Active:** 2016–present (Amon Amarth); previously Rage, Evergrey | **Iconic era:** Berserker (2019)
+**Active:** 2016–present (Amon Amarth); previously Swedish underground metal scene | **Iconic era:** Berserker (2019)
 
 Jocke Wallgren's 2016 setup from the year he joined Amon Amarth as touring drummer — replacing longtime drummer Fredrik Andersson — captures the gear behind one of Viking metal's most consistently powerful touring drummers.
 
-### Evergrey / Rage Era (2009–2015)
+### Swedish Underground Metal Scene Era (2009–2015)
 
 - **Kit:** Developing Tama setup
 - **Cymbals:** Early Meinl usage
-- **Notable:** Building European touring experience in power and progressive metal ahead of joining Amon Amarth.
+- **Notable:** Building drumming experience in the Swedish underground metal scene ahead of joining Amon Amarth.
 
 ### Berserker Era (2019)
 
@@ -1523,7 +1523,7 @@ Jocke Wallgren's 2016 setup from the year he joined Amon Amarth as touring drumm
 - **Notable:** The Great Heathen Army, nominated for a 2023 Grammis Award, represents Wallgren's most refined performance — a step back toward Amon Amarth's melodic death metal origins built on the same gear foundation since 2016.
 
 **Price Evolution:**
-- 2009: $2,000 (Evergrey / Rage Era) — Building European touring experience in power and progressive metal on an early Zildjian cymbals / Pearl double pedal setup (signed 2005)
+- 2009: $2,000 (Swedish Underground Metal Scene Era) — Building drumming experience in the Swedish underground metal scene on an early Zildjian cymbals / Pearl double pedal setup (signed 2005)
 - 2016: $5,949 (Original Purchase) — Joined Amon Amarth as touring drummer on the Pearl Reference Pure / Zildjian A Custom & K Custom setup established since 2016/2005 (session drummer Tobias Gustafsson recorded Jomsviking that year)
 - 2019: $7,000 (Berserker Era) — Same Pearl / Zildjian core carried into his studio debut Berserker, Demon Drive pedal anchoring the title track's extended blast-beat sections
 - 2022: $7,600 (The Great Heathen Army Era) — Fully evolved touring configuration for Amon Amarth's Grammis-nominated studio album

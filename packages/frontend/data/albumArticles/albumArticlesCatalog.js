@@ -4897,9 +4897,7 @@ export const ALBUM_ARTICLES_META = {
     "articleType": "drummer-kit",
     "band": "Amon Amarth",
     "bands": [
-      "Amon Amarth",
-      "Evergrey",
-      "Rage"
+      "Amon Amarth"
     ],
     "country": "Sweden"
   },

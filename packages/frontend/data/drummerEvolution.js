@@ -1181,7 +1181,7 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit)',
             details: 'Dual side-by-side Starclassic shell kit',
-            notes: 'Longtime Tama endorser since the 1990s; the Starclassic dual kit remains his rig across Winery Dogs, Sons of Apollo, and Dream Theater.',
+            notes: 'Longtime Tama endorser since 1985; the Starclassic dual kit remains his rig across Winery Dogs, Sons of Apollo, and Dream Theater.',
             change: null,
           },
           snare: {

@@ -1,7 +1,7 @@
 # Dave Lombardo Drum Kit Gear History — Slayer / Suicidal Tendencies
 
 **Drummer:** Dave Lombardo  
-**Band:** Slayer (1981–1992, 2001–2013), Suicidal Tendencies (2016–2021)  
+**Band:** Slayer (1981–1986, 1987–1992, 2001–2013), Suicidal Tendencies (2016–2021)  
 **Active:** 1981–present  
 **URL:** https://metalforge.io/drummers/dave-lombardo/gear-history
 

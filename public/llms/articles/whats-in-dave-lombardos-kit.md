@@ -80,7 +80,7 @@ Long live the double bass. Long live Dave Lombardo. 🤘
 
 ## Key Facts
 
-- Co-founder and original drummer of Slayer (1981-1992, 2001-2013)
+- Co-founder and original drummer of Slayer (1981-1986, 1987-1992, 2001-2013)
 - Cuban-American heritage brings unique rhythmic sensibility
 - Currently plays with Dead Cross and Mr. Bungle
 - Tama endorser with Paiste RUDE cymbals

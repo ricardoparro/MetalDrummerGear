@@ -53,7 +53,7 @@ A: Both are foundational thrash metal drummers, but their skill sets diverge. Ig
 A: Igor Cavalera's signature is tribal groove metal drumming that layers Brazilian percussion instruments like atabaques and surdos over thrash foundations, most audible on "Roots" (1996). Dave Lombardo's signature is rapid-fire double bass drumming delivered with surgical precision, epitomized by "Angel of Death" (1986).
 
 **Q: What bands have Igor Cavalera and Dave Lombardo played in?**
-A: Igor Cavalera co-founded Sepultura in 1984 and played with the band until 2006, later forming Cavalera Conspiracy with his brother Max and briefly joining Soulwax. Dave Lombardo was Slayer's original drummer (1981-1992, 2001-2013) and has since played with Suicidal Tendencies, Dead Cross, Mr. Bungle, and Fantômas.
+A: Igor Cavalera co-founded Sepultura in 1984 and played with the band until 2006, later forming Cavalera Conspiracy with his brother Max and briefly joining Soulwax. Dave Lombardo was Slayer's original drummer (1981-1986, 1987-1992, 2001-2013) and has since played with Suicidal Tendencies, Dead Cross, Mr. Bungle, and Fantômas.
 
 **Q: What gear do Igor Cavalera and Dave Lombardo use?**
 A: The two converged on remarkably similar rigs from 2007-2018: Igor Cavalera used a Tama Starclassic Maple kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals (during Sepultura's 1993-1996 Chaos A.D./Roots era he played Pearl Masters Custom drums). Igor has since switched to a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018). Dave Lombardo still plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals, though with his own signature Promark 2Bx sticks.

@@ -420,7 +420,7 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
     drummerId: 4,
     name: 'Dave Lombardo',
     bands: [
-      { slug: 'slayer', period: '1981-1992, 2001-2013', role: 'Drummer, founding member' },
+      { slug: 'slayer', period: '1981-1986, 1987-1992, 2001-2013', role: 'Drummer, founding member' },
       { slug: 'fantomas', period: '1998-present', role: 'Drummer' },
       { slug: 'dead-cross', period: '2017-present', role: 'Drummer' },
       { slug: 'mr-bungle', period: '2019-present', role: 'Drummer' }

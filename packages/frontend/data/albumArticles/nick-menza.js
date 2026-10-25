@@ -53,9 +53,9 @@ export const articles = {
         ],
         "shells": "Birch shells"
       },
-      "description": "For Rust in Peace, Nick Menza used a Tama Artstar II 5-piece kit in Midnight Blue finish — Tama's pro-tier kit of the era, matching the technical precision of his playing. Its birch shells delivered the tight, dry sound that became a benchmark for thrash drum production.\n\nA single 22\" x 16\" bass drum, driven by a DW 5000 double pedal, handled the sustained double-bass passages on tracks like \"Holy Wars\" and \"Take No Prisoners.\" The double pedal gave Menza the surgical, clean double-bass precision he was known for, without the added weight and setup time of a second physical bass drum.\n\nMenza's tom setup was compact but versatile: two rack toms and a single floor tom gave him enough range for his melodic fills. Unlike purely aggressive thrash drummers, Nick often incorporated tom patterns that were almost jazz-like in their melodicism — a direct result of his training background.\n\nThe birch shells of the Artstar II were crucial to cutting through Megadeth's dense guitar arrangements. Dave Mustaine and Marty Friedman's interweaving guitar parts required drums that could punch through without muddying the mix. The tight, focused birch tone delivered exactly that, from a pro-tier kit that matched the technical demands of the record.",
+      "description": "For Rust in Peace, Nick Menza used a Tama Artstar II 5-piece kit in Midnight Blue finish — Tama's pro-tier kit of the era, matching the technical precision of his playing. Its birch shells delivered the tight, dry sound that became a benchmark for thrash drum production.\n\nA single 22\" x 16\" bass drum, driven by a double pedal (the brand isn't publicly documented for this era), handled the sustained double-bass passages on tracks like \"Holy Wars\" and \"Take No Prisoners.\" The double pedal gave Menza the surgical, clean double-bass precision he was known for, without the added weight and setup time of a second physical bass drum.\n\nMenza's tom setup was compact but versatile: two rack toms and a single floor tom gave him enough range for his melodic fills. Unlike purely aggressive thrash drummers, Nick often incorporated tom patterns that were almost jazz-like in their melodicism — a direct result of his training background.\n\nThe birch shells of the Artstar II were crucial to cutting through Megadeth's dense guitar arrangements. Dave Mustaine and Marty Friedman's interweaving guitar parts required drums that could punch through without muddying the mix. The tight, focused birch tone delivered exactly that, from a pro-tier kit that matched the technical demands of the record.",
       "notes": [
-        "DW 5000 double pedal drove Megadeth's demanding double-bass patterns on a single 22\" kick",
+        "Double pedal (brand not publicly documented) drove Megadeth's demanding double-bass patterns on a single 22\" kick",
         "Two rack toms and a floor tom enabled melodic, jazz-influenced fills",
         "Birch shells delivered a tight, focused attack",
         "Tama's pro-tier kit of 1990, reflecting the technical precision of Menza's playing"
@@ -129,10 +129,10 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 5000 Double Pedal",
+          "brand": "Not publicly documented",
+          "model": "Double pedal, brand unconfirmed for this era",
           "notes": "Double pedal on a single bass drum for surgical double-bass precision",
-          "description": "Menza used a DW 5000 double pedal on his single 22\" bass drum, allowing for the sustained double-bass passages that define tracks like \"Holy Wars\" and \"Take No Prisoners.\" The pedal delivered the clean, articulate double-kick response — at tempos of 180-200 BPM — that defined his precise technique."
+          "description": "Menza used a double pedal on his single 22\" bass drum, allowing for the sustained double-bass passages that define tracks like \"Holy Wars\" and \"Take No Prisoners.\" The pedal delivered the clean, articulate double-kick response — at tempos of 180-200 BPM — that defined his precise technique, though the pedal's brand isn't publicly documented for the Rust in Peace era."
         },
         {
           "type": "Hi-Hat Stand",
@@ -148,9 +148,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
-          "notes": "Balance between speed and power for technical playing"
+          "brand": "Not publicly documented",
+          "model": "unconfirmed for this era",
+          "notes": "No stick brand is publicly documented prior to Menza's 1997 Vater signature deal"
         }
       ],
       "heads": {
@@ -181,7 +181,7 @@ export const articles = {
           "Requires sustained stamina and technical precision",
           "Middle section's groove contrasts with thrash bookends"
         ],
-        "gearNotes": "DW 5000 double pedal speed essential for opening barrage. Snare cut crucial for complex fills. Dynamic control showcased throughout."
+        "gearNotes": "Double pedal speed essential for opening barrage. Snare cut crucial for complex fills. Dynamic control showcased throughout."
       },
       {
         "track": "Hangar 18",
@@ -255,12 +255,12 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth 5B",
-          "now": "VF 5B still industry standard"
+          "then": "Brand not publicly documented",
+          "now": "5B remains an industry-standard size"
         },
         {
           "category": "Pedals",
-          "then": "DW 5000 double pedal",
+          "then": "Brand not publicly documented",
           "now": "Iron Cobra/Speed Cobra dominate"
         }
       ]
@@ -290,7 +290,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Nick Menza use on Rust in Peace?",
-        "answer": "Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish on Rust in Peace, recorded in 1990 — Tama's pro-tier kit of the period. The setup featured a 22x16 inch bass drum driven by a DW 5000 double pedal, 12x10 and 13x11 inch rack toms, and a 16x16 inch floor tom. All shells were birch, giving the kit a tight, focused attack that cut through Megadeth's aggressive riff-driven arrangements on that album."
+        "answer": "Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish on Rust in Peace, recorded in 1990 — Tama's pro-tier kit of the period. The setup featured a 22x16 inch bass drum driven by a double pedal (brand not publicly documented for this era), 12x10 and 13x11 inch rack toms, and a 16x16 inch floor tom. All shells were birch, giving the kit a tight, focused attack that cut through Megadeth's aggressive riff-driven arrangements on that album."
       },
       {
         "question": "What cymbals did Nick Menza use on Rust in Peace?",
@@ -576,7 +576,7 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "DW 5000 double pedal",
+          "then": "Brand not publicly documented",
           "now": "Tama Camco singles (x2) — pre-Iron Cobra era"
         },
         {
@@ -799,7 +799,7 @@ export const articles = {
           "drums": "Tama Artstar II 5-piece — birch shells for focused attack",
           "snare": "Tama Steel 14\"x5.5\", 8-lug — razor-sharp crack",
           "cymbals": "Zildjian A Custom (launched 1989) — brilliant finish, fast response",
-          "hardware": "DW 5000 double pedal"
+          "hardware": "Double pedal (brand not publicly documented)"
         },
         "notes": "Birch shells + Tama Steel snare + A Custom cymbals = the Rust in Peace sound — Tama's pro-tier kit of the era. Menza joined as drum tech and transitioned to drummer for this recording."
       },
@@ -904,11 +904,11 @@ export const articles = {
       },
       {
         "question": "What cymbals did Nick Menza endorse?",
-        "answer": "Nick Menza was a Zildjian endorsee throughout his Megadeth career. His setup centered on the Zildjian A series: 14\" New Beat Hi-Hats, 17\" and 19\" A Medium Crashes, a 20\" A Medium Ride, and an 18\" A China Boy High. On Rust in Peace, he also used the then-new Zildjian A Custom series, which featured a brilliant finish and fast, bright response."
+        "answer": "Nick Menza's cymbal endorsements moved from Zildjian (1990, Rust in Peace) to Paiste (1992) to Sabian (1997, his final Megadeth-era endorsement). On Rust in Peace, his setup centered on the Zildjian A series: 14\" New Beat Hi-Hats, 17\" and 19\" A Medium Crashes, a 20\" A Medium Ride, and an 18\" A China Boy High, along with the then-new Zildjian A Custom series, which featured a brilliant finish and fast, bright response."
       },
       {
         "question": "What double bass pedal did Nick Menza use?",
-        "answer": "Nick Menza used the Tama Iron Cobra double bass drum pedal through much of his Megadeth career, particularly from the Countdown to Extinction era onward. The Iron Cobra's rolling glide cam system provided consistent feel and reliable performance across extensive world tours. For Rust in Peace, he used a DW 5000 double pedal before transitioning to Tama pedals."
+        "answer": "Nick Menza used the Tama Iron Cobra double bass drum pedal through much of his Megadeth career, particularly from the Countdown to Extinction era onward. The Iron Cobra's rolling glide cam system provided consistent feel and reliable performance across extensive world tours. His pedal brand for the earlier Rust in Peace era is not publicly documented."
       },
       {
         "question": "What made Nick Menza different from other thrash metal drummers?",

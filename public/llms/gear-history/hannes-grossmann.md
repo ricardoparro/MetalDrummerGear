@@ -52,7 +52,7 @@
 - **2008:** Co-founds Obscura after departing Necrophagist, establishing a DW Collector's / Meinl Byzance rig
 - **2009:** Cosmogenesis recorded — full DW Collector's / Meinl Byzance setup documented in detail
 - **2011:** Same rig carries into Omnivium
-- **2014:** Departs Obscura; continues with Alkaloid, co-founded in 2013
+- **2014:** Departs Obscura; continues with Alkaloid, co-founded in 2014
 
 ---
 
@@ -68,7 +68,7 @@ A: Grossmann used an all-maple DW Collector's Series 5-piece shell pack — a 22
 A: Grossmann used a Meinl Byzance setup — 14" Byzance Traditional Hi-Hats, 18" and 19" Byzance Brilliant Crashes, and a 21" Byzance Traditional Ride — for dark, complex overtones without piercing harshness at blast-beat tempos.
 
 **Q: Did Hannes Grossmann's gear change after leaving Obscura?**
-A: Grossmann's DW Collector's / Meinl Byzance configuration remained his defining setup through his 2008–2014 Obscura tenure. After departing, he continued with Alkaloid, the progressive death metal band he co-founded in 2013.
+A: Grossmann's DW Collector's / Meinl Byzance configuration remained his defining setup through his 2008–2014 Obscura tenure. After departing, he continued with Alkaloid, the progressive death metal band he co-founded in 2014.
 
 ---
 

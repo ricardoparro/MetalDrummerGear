@@ -66,17 +66,12 @@ Adrian Erlandsson's 1995 setup behind At the Gates' Slaughter of the Soul — th
 - **Original setup cost (1995):** ~$1,506
 - **Inflation-adjusted to 2026:** ~$3,230
 
-### The Haunted & Cradle of Filth Era (1998)
+### At the Gates Reunion Era (2014)
 
-- **Kit:** Tama Starclassic — switched from Pearl to Tama, beginning a career-long brand relationship
-- **Estimated cost (1998):** ~$3,200
-- **Notable:** Founded The Haunted in 1996, then joined Cradle of Filth in 1999. The move to Tama Starclassic marked the end of the underground budget-gear era and the start of a long-term endorsement arc.
-
-### Paradise Lost Era (2011)
-
-- **Kit:** Tama Starclassic Bubinga — flagship bubinga shell pack
-- **Cymbals:** Sabian AAX / HHX Series
-- **Notable:** Joined Paradise Lost in 2009 and recorded Draconian Times MMXI, upgrading to the Tama Starclassic Bubinga / Sabian AAX-HHX / Monolit Czarcie Kopyto configuration he carries into At the Gates' ongoing reunion-era work today.
+- **Kit:** Tama Starclassic Bubinga — flagship bubinga shell pack, switched from Pearl Export
+- **Cymbals:** Sabian AAX / HHX Series, switched from Zildjian A-Series
+- **Estimated cost (2014):** ~$5,800
+- **Notable:** Returned to Studio Fredman for At the Gates' reunion album "At War with Reality" (2014) and switched his entire rig in one move — Pearl Export/Zildjian A-Series since 1995, swapped for Tama Starclassic Bubinga / Sabian AAX-HHX / Monolit Czarcie Kopyto, the configuration he carries into At the Gates' ongoing reunion-era work today. He stayed on the original Pearl/Zildjian gear throughout The Haunted, Cradle of Filth, and his 2009-2016 Paradise Lost run.
 
 **Price Evolution:**
 - 1995: $1,506 (Slaughter of the Soul Era) — Original Purchase — Pearl Export/Studio House budget kit used for At the Gates' genre-defining Slaughter of the Soul, recorded at Studio Fredman with Fredrik Nordström

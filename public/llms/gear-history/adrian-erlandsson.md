@@ -23,27 +23,22 @@
 - **Inflation-adjusted to 2026:** ~$3,230
 - **Notable:** Recorded at Studio Fredman with producer Fredrik Nordström, this budget underground rig backed a record that codified the Gothenburg melodic death metal template. The true double-22" bass drum configuration (two separate kick drums, not a double pedal on one) gave tracks like "Blinded by Fear" and "Suicide Nation" their full physical impact, while the high-tension snare and Zildjian A-Series hi-hats and 18" China cut cleanly through the album's dense tremolo-guitar wall.
 
-### The Haunted & Cradle of Filth Era (1998)
+### At the Gates Reunion Era (2014)
 
-- **Drums:** Tama Starclassic — switched from Pearl to Tama, beginning a career-long brand relationship
-- **Estimated cost (1998):** ~$3,200
-- **Notable:** Founded The Haunted in 1996, then joined Cradle of Filth in 1999. The move to Tama Starclassic marked the end of the underground budget-gear era and the start of a long-term endorsement arc.
-
-### Paradise Lost Era (2011)
-
-- **Drums:** Tama Starclassic Bubinga — flagship bubinga shell pack
-- **Cymbals:** Sabian AAX / HHX Series
-- **Pedal:** Monolit Czarcie Kopyto double pedal
-- **Estimated cost (2011):** ~$5,800
-- **Notable:** Joined Paradise Lost in 2009 and recorded Draconian Times MMXI, upgrading to the Tama Starclassic Bubinga / Sabian AAX-HHX / Monolit Czarcie Kopyto configuration he carries into At the Gates' ongoing reunion-era work today.
+- **Drums:** Tama Starclassic Bubinga — flagship bubinga shell pack, switched from Pearl Export
+- **Cymbals:** Sabian AAX / HHX Series, switched from Zildjian A-Series
+- **Pedal:** Monolit Czarcie Kopyto double pedal, newly signed
+- **Heads:** Evans EMAD Onyx (kick) / EC Reverse Dot (snare/toms), switched from Remo
+- **Sticks:** Vic Firth Rock Nylon Tip, formalized into an official At the Gates signature model
+- **Estimated cost (2014):** ~$5,800
+- **Notable:** Returned to Studio Fredman for At the Gates' reunion album "At War with Reality" (2014) and overhauled his entire rig in one move — the Pearl Export / Zildjian A-Series setup he'd played since 1995 switched to Tama Starclassic Bubinga / Sabian AAX-HHX / Monolit Czarcie Kopyto, the configuration he still plays today. He stayed on the original Pearl/Zildjian gear throughout The Haunted, Cradle of Filth, and his 2009-2016 Paradise Lost run — there was no intermediate gear era.
 
 ---
 
 ## Key Gear Changes
 
-- **1995 → 1998:** Pearl Export/Studio House budget kit to Tama Starclassic — endorsement shift coinciding with the founding of The Haunted and joining Cradle of Filth
-- **1998 → 2011:** Tama Starclassic to Tama Starclassic Bubinga, with Sabian AAX/HHX cymbals and a Monolit Czarcie Kopyto double pedal — upgrade for Paradise Lost's Draconian Times MMXI
-- **2007-present:** At the Gates reunion era runs concurrently with the Paradise Lost-era Tama/Sabian rig
+- **1995 → 2014:** Pearl Export/Studio House budget kit to Tama Starclassic Bubinga, with Sabian AAX/HHX cymbals and a Monolit Czarcie Kopyto double pedal — a single, all-at-once switch for At the Gates' reunion album "At War with Reality" (2014), not a gradual evolution through The Haunted, Cradle of Filth, or Paradise Lost
+- **2014-present:** Tama Starclassic Bubinga / Sabian AAX-HHX / Monolit Czarcie Kopyto rig carried unchanged into At the Gates' ongoing reunion-era work
 
 ---
 
@@ -53,7 +48,7 @@
 A: Adrian Erlandsson used a Pearl Export or Studio Fredman house kit — birch/birch-poplar shells with a true double 22" bass drum configuration — paired with a 14"x6" steel/birch snare and Zildjian A-Series cymbals. The setup cost approximately $1,506 in 1995, equivalent to about $3,230 adjusted for 2026 inflation.
 
 **Q: What drums does Adrian Erlandsson play now?**
-A: Erlandsson currently plays a Tama Starclassic Bubinga kit paired with Sabian AAX/HHX cymbals and a Monolit Czarcie Kopyto double pedal — the configuration he adopted during his 2009-2016 run with Paradise Lost and carries into At the Gates' reunion-era work today.
+A: Erlandsson currently plays a Tama Starclassic Bubinga kit paired with Sabian AAX/HHX cymbals and a Monolit Czarcie Kopyto double pedal — the configuration he switched to in 2014 for At the Gates' reunion album "At War with Reality" and carries into At the Gates' reunion-era work today.
 
 **Q: How much does Adrian Erlandsson's drum kit cost?**
 A: Erlandsson's 1995 Pearl Export budget setup cost approximately $1,506 new. His current Tama Starclassic Bubinga configuration would cost around $5,870 new, including Sabian cymbals and hardware.
@@ -62,7 +57,7 @@ A: Erlandsson's 1995 Pearl Export budget setup cost approximately $1,506 new. Hi
 A: At the Gates had no budget for premium gear in 1994, and producer Fredrik Nordström's dry, close-miked, aggressively gated production at Studio Fredman did as much sonic work as the instruments themselves — a budget rig that helped define an entire genre's rhythmic vocabulary.
 
 **Q: Did Adrian Erlandsson's gear change after Slaughter of the Soul?**
-A: Yes. After founding The Haunted in 1996 and joining Cradle of Filth in 1999, he switched from Pearl to Tama Starclassic. That relationship matured into the Tama Starclassic Bubinga / Sabian AAX-HHX / Monolit Czarcie Kopyto rig he adopted during his 2009-2016 tenure with Paradise Lost.
+A: Not for a long time. He stayed on the same Pearl Export / Zildjian A-Series setup through The Haunted, Cradle of Filth, and most of his 2009-2016 Paradise Lost tenure. The switch to Tama Starclassic Bubinga / Sabian AAX-HHX / Monolit Czarcie Kopyto came all at once in 2014, for At the Gates' reunion album "At War with Reality."
 
 ---
 

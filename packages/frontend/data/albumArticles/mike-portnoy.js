@@ -1321,9 +1321,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Horacio Hernandez SD2 Bolero",
-          "notes": "Mike's signature stick model of this era — slightly heavier than a standard 5B"
+          "brand": "Promark",
+          "model": "Promark 5B Hickory",
+          "notes": "Standard 5B hickory, before developing his Promark signature stick model in the 2000s"
         }
       ],
       "heads": {
@@ -1493,8 +1493,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth Horacio Hernandez SD2 Bolero",
-          "now": "Vic Firth Mike Portnoy Signature"
+          "then": "Promark 5B Hickory",
+          "now": "Promark Mike Portnoy TX420N Signature"
         }
       ]
     },
@@ -1688,8 +1688,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Mike Portnoy Signature",
+          "brand": "Promark",
+          "model": "Promark Mike Portnoy TX420N Signature",
           "notes": "Portnoy's signature stick — heavier spec for increased power on the heaviest DT album"
         }
       ],
@@ -1839,8 +1839,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth Mike Portnoy Signature",
-          "now": "Vic Firth Mike Portnoy Signature"
+          "then": "Promark Mike Portnoy TX420N Signature",
+          "now": "Promark Mike Portnoy TX420N Signature"
         }
       ]
     },
@@ -2040,8 +2040,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Mike Portnoy Signature",
+          "brand": "Promark",
+          "model": "Promark Mike Portnoy TX420N Signature",
           "notes": "Portnoy's signature stick — balanced spec for the full dynamic range the album demands"
         }
       ],
@@ -2212,8 +2212,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth Mike Portnoy Signature",
-          "now": "Vic Firth Mike Portnoy Signature"
+          "then": "Promark Mike Portnoy TX420N Signature",
+          "now": "Promark Mike Portnoy TX420N Signature"
         }
       ]
     },
@@ -2403,8 +2403,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Mike Portnoy Signature",
+          "brand": "Promark",
+          "model": "Promark Mike Portnoy TX420N Signature",
           "notes": "Portnoy's signature stick — consistent from the Train of Thought era"
         }
       ],
@@ -2531,8 +2531,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth Mike Portnoy Signature",
-          "now": "Vic Firth Mike Portnoy Signature"
+          "then": "Promark Mike Portnoy TX420N Signature",
+          "now": "Promark Mike Portnoy TX420N Signature"
         },
         {
           "category": "Studio",
@@ -2720,8 +2720,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Mike Portnoy Signature",
+          "brand": "Promark",
+          "model": "Promark Mike Portnoy TX420N Signature",
           "notes": "Portnoy's signature stick — heavier spec matched to the bubinga shells' sharper response"
         }
       ],
@@ -2875,8 +2875,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth Mike Portnoy Signature",
-          "now": "Vic Firth Mike Portnoy Signature"
+          "then": "Promark Mike Portnoy TX420N Signature",
+          "now": "Promark Mike Portnoy TX420N Signature"
         }
       ]
     },
@@ -3208,8 +3208,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Mike Portnoy Signature",
+          "brand": "Promark",
+          "model": "Promark Mike Portnoy TX420N Signature",
           "notes": "Portnoy's signature stick — consistent throughout the final Dream Theater era"
         }
       ],
@@ -3306,7 +3306,7 @@ export const articles = {
     "faq": [
       {
         "question": "What gear did Mike Portnoy use on Black Clouds & Silver Linings?",
-        "answer": "Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit — the same proven platform as Systematic Chaos (2007), seasoned over two years of touring. The configuration maintained approximately 13 drums: double 22\"x18\" bass drums, five rack toms (8\", 10\", 12\", 13\", 14\"), and three floor toms (14\", 16\", 18\"). Cymbals were Sabian HHX Evolution — hand-hammered, darker-toned, and capable of serving both the album's heaviest and most atmospheric passages. Sticks were his Vic Firth Mike Portnoy Signature model. For his full career profile, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
+        "answer": "Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit — the same proven platform as Systematic Chaos (2007), seasoned over two years of touring. The configuration maintained approximately 13 drums: double 22\"x18\" bass drums, five rack toms (8\", 10\", 12\", 13\", 14\"), and three floor toms (14\", 16\", 18\"). Cymbals were Sabian HHX Evolution — hand-hammered, darker-toned, and capable of serving both the album's heaviest and most atmospheric passages. Sticks were his Promark Mike Portnoy TX420N Signature model. For his full career profile, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
       },
       {
         "question": "Why did Mike Portnoy leave Dream Theater after this album?",
@@ -3363,8 +3363,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth Mike Portnoy Signature",
-          "now": "Vic Firth Mike Portnoy Signature"
+          "then": "Promark Mike Portnoy TX420N Signature",
+          "now": "Promark Mike Portnoy TX420N Signature"
         }
       ]
     },
@@ -3483,7 +3483,7 @@ export const articles = {
               "name": "What gear did Mike Portnoy use on Black Clouds & Silver Linings?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit with ~13 drums: double 22\"x18\" bass drums, five rack toms (8\", 10\", 12\", 13\", 14\"), and three floor toms (14\", 16\", 18\"). Cymbals were Sabian HHX Evolution. Sticks were Vic Firth Mike Portnoy Signature."
+                "text": "Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit with ~13 drums: double 22\"x18\" bass drums, five rack toms (8\", 10\", 12\", 13\", 14\"), and three floor toms (14\", 16\", 18\"). Cymbals were Sabian HHX Evolution. Sticks were Promark Mike Portnoy TX420N Signature."
               }
             },
             {
@@ -3693,9 +3693,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth SD2 Bolero",
-          "notes": "Portnoy's stick choice through this era — slightly larger bead than a 5B, suited to his powerful stroke"
+          "brand": "Promark",
+          "model": "Promark 5B Hickory",
+          "notes": "Standard 5B hickory, before developing his Promark signature stick model in the 2000s"
         }
       ],
       "heads": {
@@ -3848,8 +3848,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth SD2 Bolero",
-          "now": "Vic Firth SD2 Bolero (same)"
+          "then": "Promark 5B Hickory",
+          "now": "Promark 5B Hickory (same)"
         }
       ]
     },
@@ -4104,8 +4104,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Mike Portnoy Signature",
+          "brand": "Promark",
+          "model": "Promark Mike Portnoy TX420N Signature",
           "notes": "Portnoy's personal signature stick — heavier spec matched to his high-velocity playing demands"
         }
       ],
@@ -4197,8 +4197,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth Mike Portnoy Signature",
-          "now": "Vic Firth (continued)"
+          "then": "Promark Mike Portnoy TX420N Signature",
+          "now": "Promark (continued)"
         }
       ]
     },
@@ -4232,7 +4232,7 @@ export const articles = {
       },
       {
         "question": "What drums did Mike Portnoy use on the Nightmare album?",
-        "answer": "Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions — his 2010 touring configuration featuring double 22\"x18\" bass drums, five rack toms (8\" through 14\"), and three floor toms (14\", 16\", 18\"). His cymbal rig was Sabian HHX Evolution, carried over from the Black Clouds & Silver Linings touring setup — crashes, ride, chinese, and splash. He played his Vic Firth Mike Portnoy Signature sticks throughout the sessions. For the full Mike Portnoy gear story, see the [Mike Portnoy kit guide](/articles/whats-in-mike-portnoys-kit)."
+        "answer": "Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions — his 2010 touring configuration featuring double 22\"x18\" bass drums, five rack toms (8\" through 14\"), and three floor toms (14\", 16\", 18\"). His cymbal rig was Sabian HHX Evolution, carried over from the Black Clouds & Silver Linings touring setup — crashes, ride, chinese, and splash. He played his Promark Mike Portnoy TX420N Signature sticks throughout the sessions. For the full Mike Portnoy gear story, see the [Mike Portnoy kit guide](/articles/whats-in-mike-portnoys-kit)."
       },
       {
         "question": "Was Avenged Sevenfold's Nightmare Grammy-nominated?",
@@ -4358,7 +4358,7 @@ export const articles = {
             "name": "What drums did Mike Portnoy use on Nightmare?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions, with double 22\"x18\" bass drums, five rack toms, and three floor toms. His cymbal rig was Sabian HHX Evolution. He played Vic Firth Mike Portnoy Signature sticks."
+              "text": "Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions, with double 22\"x18\" bass drums, five rack toms, and three floor toms. His cymbal rig was Sabian HHX Evolution. He played Promark Mike Portnoy TX420N Signature sticks."
             }
           }
         ]

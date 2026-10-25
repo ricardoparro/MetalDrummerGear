@@ -52,7 +52,7 @@
 - **2008:** Co-founds Obscura after departing Necrophagist, carrying forward the Tama Starclassic Maple / Meinl Byzance rig
 - **2009:** Cosmogenesis recorded — full Tama Starclassic / Meinl Byzance setup documented in detail
 - **2011:** Same rig carries into Omnivium
-- **2014:** Departs Obscura; switches to a DW Collector's Series kit while co-founding Alkaloid (co-founded in 2013)
+- **2014:** Departs Obscura; switches to a DW Collector's Series kit while co-founding Alkaloid (co-founded in 2014)
 
 ---
 
@@ -68,7 +68,7 @@ A: Grossmann used an all-maple Tama Starclassic Maple 5-piece shell pack — a 2
 A: Grossmann used a Meinl Byzance setup — 14" Byzance Traditional Hi-Hats, 18" and 19" Byzance Brilliant Crashes, and a 21" Byzance Traditional Ride — for dark, complex overtones without piercing harshness at blast-beat tempos.
 
 **Q: Did Hannes Grossmann's gear change after leaving Obscura?**
-A: Grossmann's Tama Starclassic Maple / Meinl Byzance configuration remained his defining setup through his 2008–2014 Obscura tenure. After departing, he switched to a DW Collector's Series kit while co-founding Alkaloid, the progressive death metal band he co-founded in 2013, keeping his Meinl Byzance cymbals unchanged.
+A: Grossmann's Tama Starclassic Maple / Meinl Byzance configuration remained his defining setup through his 2008–2014 Obscura tenure. After departing, he switched to a DW Collector's Series kit while co-founding Alkaloid, the progressive death metal band he co-founded in 2014, keeping his Meinl Byzance cymbals unchanged.
 
 ---
 

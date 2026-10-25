@@ -707,7 +707,7 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
         title: 'Overview',
         content: `George Kollias (born August 30, 1977, in Korinth, Greece) is a Greek drummer best known as the drummer for American technical death metal band Nile since 2004. He is widely regarded as one of the most technically proficient drummers in extreme metal, known for his incredible speed, stamina, and precision.
 
-Beyond his work with Nile, Kollias is an accomplished drum educator, having released instructional DVDs and teaching at clinics worldwide. His signature products with Pearl Drums and Vic Firth reflect his status as an influential figure in modern extreme metal drumming.
+Beyond his work with Nile, Kollias is an accomplished drum educator, having released instructional DVDs and teaching at clinics worldwide. His signature snare with Pearl Drums and endorsement with Vic Firth reflect his status as an influential figure in modern extreme metal drumming.
 
 **August 30, 2026** marks George Kollias's 49th birthday. Fans continue to mark the anniversary by revisiting his blast-beat clinics and his run of albums with Nile — a body of work that remains a benchmark for technical death metal drumming.`
       },
@@ -720,7 +720,6 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
           { year: '2007', event: 'Released "Ithyphallic" with Nile; began educational clinic tours' },
           { year: '2009', event: 'Released "Those Whom the Gods Detest" to critical acclaim' },
           { year: '2010', event: 'Released first instructional DVD: "Intense Metal Drumming"' },
-          { year: '2012', event: 'Received Vic Firth signature drumstick' },
           { year: '2015', event: 'Co-designed Pearl Demon XR double pedal' },
           { year: '2017', event: 'Released second instructional DVD: "Intense Metal Drumming II"' },
           { year: '2019', event: 'Released "Vile Nilotic Rites" with Nile' },

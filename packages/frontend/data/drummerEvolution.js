@@ -1243,63 +1243,63 @@ export const DRUMMER_EVOLUTION = {
   },
 
   // ==========================================
-  // Tomas Haake - Meshuggah (1989–Present)
+  // Tomas Haake - Meshuggah (1990–Present)
   // ==========================================
   'tomas-haake': {
     slug: 'tomas-haake',
     name: 'Tomas Haake',
     band: 'Meshuggah',
-    totalYearsActive: '1989-Present',
+    totalYearsActive: '1990-Present',
     profileImage: '/images/drummers/tomas-haake.webp',
-    summary: 'Tomas Haake\'s gear evolution tracks the development of djent and extreme precision drumming — from a budget kit in Umeå basements to the Sonor SQ2 kit paired with Tama Speed Cobra pedals and ddrum electronic triggers that has defined modern metal drumming for two decades.',
+    summary: 'Tomas Haake\'s gear evolution tracks the development of djent and extreme precision drumming — from an undocumented, unendorsed kit in Umeå through over a decade without a drum or cymbal deal, to the Sonor SQ2 kit paired with Tama Speed Cobra pedals and ddrum electronic triggers that has defined modern metal drumming for two decades.',
 
     eras: [
       {
         id: 'haake-1991-contradictions',
         era: 'Contradictions Collapse Era',
-        years: '1989–1993',
-        startYear: 1989,
+        years: '1990–1993',
+        startYear: 1990,
         endYear: 1993,
-        description: 'Meshuggah\'s debut records. Haake was still developing his signature polyrhythmic approach on whatever gear the band could source in Umeå, Sweden.',
+        description: 'Meshuggah\'s debut records. Haake joined the band in 1990, replacing founding drummer Niklas Lundgren, and was still developing his signature polyrhythmic approach. No endorsed-gear brand from this period is publicly documented.',
         albums: ['Contradictions Collapse (1991)', 'None (1994 EP)'],
         tours: ['Early Swedish club dates'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Sonor Force 2001',
-            details: 'Basic 5-piece: 22" kick, 12"/13"/16" toms',
-            notes: 'Budget Swedish-sourced kit; available and affordable in early 1990s Scandinavia.',
+            item: 'Brand not publicly documented',
+            details: 'No verified endorsement or equipment source for this period',
+            notes: 'Haake had no drum endorsement deal at this stage; his first documented drum brand is Sonor, signed in 2005.',
             change: null,
           },
           snare: {
-            item: 'Sonor Steel 14"×5.5"',
-            details: 'Standard steel snare',
-            notes: 'Basic steel snare — the polyrhythmic patterns were more important than gear quality at this stage.',
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'Unendorsed, pre-deal era.',
             change: null,
           },
           cymbals: {
-            item: 'Paiste 2002',
-            details: '14" hi-hats, 16"/18" crashes, 20" ride',
-            notes: 'Paiste was the dominant Swedish cymbal brand of choice.',
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'Haake\'s first documented cymbal brand is Sabian, signed in the 2000s; no earlier brand is confirmed.',
             change: null,
           },
           hardware: {
-            item: 'Sonor hardware with budget double pedal',
-            details: 'Single pedal moving to double bass during this period',
-            notes: 'Double kick emerging as Haake developed his extreme metal approach.',
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No endorsement deal at this stage.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5B',
-            details: 'Standard hickory',
-            notes: 'Standard sticks — technique mattered more than equipment.',
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No signature or endorsement deal at this stage.',
             change: null,
           },
           heads: {
-            item: 'Remo Ambassador',
-            details: 'Clear on toms',
-            notes: 'Standard configuration.',
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No endorsement deal at this stage.',
             change: null,
           },
         },
@@ -1311,15 +1311,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
+          'Joined Meshuggah in 1990, replacing founding drummer Niklas Lundgren',
           'Developed polyrhythmic drumming vocabulary',
-          'Transition from single to double bass',
           'Founding of the Meshuggah rhythmic identity',
         ],
-
-        quote: {
-          text: "We had absolutely nothing. Whatever we could get hold of in Umeå. The gear was secondary — the patterns were everything.",
-          source: 'Modern Drummer, 2005',
-        },
 
         videos: [],
       },
@@ -1330,47 +1325,47 @@ export const DRUMMER_EVOLUTION = {
         years: '1994–1997',
         startYear: 1994,
         endYear: 1997,
-        description: 'The album that put Meshuggah on the extreme metal map. Haake\'s technical precision demanded better gear, and first endorsement conversations began.',
+        description: 'The album that put Meshuggah on the extreme metal map. Haake remained an unendorsed drummer through this period — no drum, cymbal, or stick brand is publicly documented until the 2005 Sonor deal.',
         albums: ['Destroy Erase Improve (1995)'],
         tours: ['DEI European Tour'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Export Series',
-            details: '22" kick, 10"/12"/13"/16" toms',
-            notes: 'Upgraded to Pearl for better projection and reliability on tour.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Brand not publicly documented',
+            details: 'No verified endorsement or equipment source for this period',
+            notes: 'No drum endorsement deal yet; first documented brand is Sonor, signed in 2005.',
+            change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×5"',
-            details: 'Steel shell, thin hoops',
-            notes: 'Tight, explosive snare crack needed for the complex syncopated patterns.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'Unendorsed, pre-deal era.',
+            change: null,
           },
           cymbals: {
-            item: 'Paiste 2002 / Alpha',
-            details: '14" hi-hats, 17"/18" crashes, 20" ride, 18" China',
-            notes: 'Mix of Paiste lines — volume and cut for the dense guitar wall.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No cymbal endorsement deal yet; first documented brand is Sabian, signed in the 2000s.',
+            change: null,
           },
           hardware: {
-            item: 'Pearl P-2002C Eliminator Double Pedal',
-            details: 'Cam-driven double pedal',
-            notes: 'Pearl Eliminator for fast, consistent double bass work.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No endorsement deal at this stage.',
+            change: null,
           },
           sticks: {
-            item: 'Vic Firth 5B',
-            details: 'Standard hickory',
-            notes: 'No signature deal yet.',
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No signature or endorsement deal yet.',
             change: null,
           },
           heads: {
-            item: 'Remo Emperor',
-            details: 'Double-ply on toms',
-            notes: 'Durability for the aggressive approach.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No endorsement deal at this stage.',
+            change: null,
           },
         },
 
@@ -1381,15 +1376,9 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Switch to Pearl for better reliability',
           'Double bass fully integrated into style',
           'Destroy Erase Improve — Haake becomes a household name in extreme metal',
         ],
-
-        quote: {
-          text: "DEI was the record where the rhythmic concept clicked. The drummer has to be almost machine-like, yet organic. That paradox defines what I do.",
-          source: 'Terrorizer Magazine, 1996',
-        },
 
         videos: [],
       },
@@ -1400,47 +1389,47 @@ export const DRUMMER_EVOLUTION = {
         years: '1998–2001',
         startYear: 1998,
         endYear: 2001,
-        description: 'Meshuggah\'s most extreme album. Haake secured his first major Pearl endorsement and the Chaosphere kit became his first truly professional rig.',
+        description: 'Meshuggah\'s most extreme album, and the band\'s breakthrough US tour via Ozzfest 1999. Haake was still an unendorsed drummer through this period — his first documented drum and cymbal brands (Sonor and Sabian) came in 2005.',
         albums: ['Chaosphere (1998)'],
         tours: ['Chaosphere World Tour', 'Ozzfest 1999'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Masters Premium',
-            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'First major endorsement kit — Pearl Masters Premium maple shells for warm, focused tone.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Brand not publicly documented',
+            details: 'No verified endorsement or equipment source for this period',
+            notes: 'No drum endorsement deal yet; first documented brand is Sonor, signed in 2005.',
+            change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Deeper shell for more crack',
-            notes: 'Increased depth for more projection through the dense Chaosphere mix.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'Unendorsed, pre-deal era.',
+            change: null,
           },
           cymbals: {
-            item: 'Paiste Signature / RUDE',
-            details: '14" Heavy hi-hats, 18"/19" crashes, 22" ride, 20" China',
-            notes: 'Moved up to Paiste Signature and RUDE for volume and durability.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No cymbal endorsement deal yet; first documented brand is Sabian, signed in the 2000s.',
+            change: null,
           },
           hardware: {
-            item: 'Pearl Eliminator / Demon Drive',
-            details: 'Fast double pedal for extreme tempos',
-            notes: 'Pearl\'s fastest pedal for Chaosphere\'s relentless tempos.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No endorsement deal at this stage.',
+            change: null,
           },
           sticks: {
-            item: 'Vic Firth 5B Nylon',
-            details: 'Nylon tip for bright attack',
-            notes: 'Nylon tip helps cut through in dense mix.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No signature or endorsement deal yet.',
+            change: null,
           },
           heads: {
-            item: 'Remo Emperor / Powerstroke 3',
-            details: 'Emperor on toms, Powerstroke 3 on kick',
-            notes: 'Powerstroke 3 on kick for punchy, focused attack.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No endorsement deal at this stage.',
+            change: null,
           },
           electronics: {
             item: 'ddrum Triggers',
@@ -1457,16 +1446,9 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Pearl Masters Premium endorsement begins',
           'ddrum triggers introduced for live kick consistency',
-          'Paiste Signature cymbal upgrade',
           'Ozzfest 1999 brought Meshuggah to US audiences',
         ],
-
-        quote: {
-          text: "Pearl gave me gear that could actually survive the tour. Chaosphere was 180+ BPM every night. The equipment had to be bulletproof.",
-          source: 'Modern Drummer, 1999',
-        },
 
         videos: [],
       },
@@ -1477,46 +1459,46 @@ export const DRUMMER_EVOLUTION = {
         years: '2002–2004',
         startYear: 2002,
         endYear: 2004,
-        description: 'Meshuggah\'s most experimental record, featuring an 8-string guitar tuned to F#. Haake\'s kit adapted to the lower, drone-like sonic palette.',
+        description: 'Meshuggah\'s most experimental record, featuring an 8-string guitar tuned to F#. Haake remained unendorsed through 2004 — his first documented gear partnerships (Sonor drums, Sabian cymbals) began the following year.',
         albums: ['Nothing (2002)'],
         tours: ['Nothing World Tour'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Masters Premium Custom',
-            details: 'Maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Added smaller 8" tom for higher melodic range against the very low guitars.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Brand not publicly documented',
+            details: 'No verified endorsement or equipment source for this period',
+            notes: 'No drum endorsement deal yet; first documented brand is Sonor, signed in 2005.',
+            change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating 14"×6.5"',
-            details: 'Steel — continued',
-            notes: 'Consistent snare sound through multiple album cycles.',
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'Unendorsed, pre-deal era.',
             change: null,
           },
           cymbals: {
-            item: 'Paiste Signature Dark Energy',
-            details: '14" hi-hats, 18"/20" crashes, 22" ride, 20" China',
-            notes: 'Switched to darker Paiste sound to complement low-tuned 8-string guitars.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No cymbal endorsement deal yet; first documented brand is Sabian, signed in the 2000s.',
+            change: null,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
-            details: 'Direct drive for maximum control',
-            notes: 'Direct drive gives more precision for Nothing\'s complex rhythmic patterns.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No endorsement deal at this stage.',
+            change: null,
           },
           sticks: {
-            item: 'Vic Firth 5B',
-            details: 'Continued hickory',
-            notes: 'No major stick change.',
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No signature or endorsement deal yet.',
             change: null,
           },
           heads: {
-            item: 'Remo Emperor / Powerstroke 3',
-            details: 'Consistent heads setup',
-            notes: 'Reliable configuration maintained.',
+            item: 'Brand not publicly documented',
+            details: 'No verified source for this period',
+            notes: 'No endorsement deal at this stage.',
             change: null,
           },
           electronics: {
@@ -1534,15 +1516,9 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Added 8" tom for textural range',
-          'Darker Paiste cymbal palette for low-tuned context',
-          'Direct drive double pedal for maximum control',
+          'Continued without a drum or cymbal endorsement deal',
+          'More sophisticated ddrum trigger setup for studio and live use',
         ],
-
-        quote: {
-          text: "Nothing was about space and drone as much as aggression. The rhythmic displacement was more extreme than ever.",
-          source: 'Revolver, 2002',
-        },
 
         videos: [],
       },
@@ -1849,7 +1825,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Tomas Haake Gear Evolution Timeline | Meshuggah Drum Kit History',
-    metaDescription: 'Explore Tomas Haake\'s complete drum gear evolution from Meshuggah\'s debut to Immutable. Sonor, Pearl, and Sabian — every kit and era documented.',
+    metaDescription: 'Explore Tomas Haake\'s complete drum gear evolution from Meshuggah\'s debut to Immutable. Sonor and Sabian — every kit and era documented.',
   },
 
   // ==========================================

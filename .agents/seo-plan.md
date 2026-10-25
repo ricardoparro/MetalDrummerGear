@@ -14184,3 +14184,49 @@ Per `.agents/seo/learned-patterns.md` line 274's explicit suggestion, dispatched
 2. Held-back candidates above are mixed priority: Greiner/Hoglan (preventive, low urgency, file anytime bank has room) vs Wallgren/Christy (need external verification or a founder call before filing, not just re-confirming line numbers) vs Roddy/Erlandsson (need one more verification pass).
 3. Content-gap: still no gap rows (6th+ week) — no action.
 4. Drum-chair watch: next due Monday 2026-10-26, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-10-25 (run, Sunday, ~2nd-pass UTC) — llms-mirror fact-drift sweep on under-mined roster names, 6 filed (#9687-9692)
+
+### Audit summary
+- robots.txt (`api/robots.js`, grep for 8 AI crawler UAs): all 8 explicitly allowed. ✅
+- `/llms/*.md`: 2,029 files on disk, unchanged.
+- Bank check: 13 open `seo-proposal` at run start (#9675/9677-9684 already promoted to `ai-fix` per the 00:31 CEO pulse + held #7981 + 3 standing umbrellas) — well under the 45 floor → filed 6 (quality-sized, see Method).
+- Drum-chair watch: today is Sunday, not Monday — skipped per the once-per-Monday rule (next due 2026-10-26).
+
+### Metrics readout
+- GSC 7d: 18,145 impr / 182 clicks / 1.00% CTR / pos 9.0 (metrics.md refreshed 01:18 UTC).
+- GA4 7d: 387u / 450s / 603v. Top pages: `/` (19v), `/drummer/frost` (14v), `/drummer/joey-jordison` (10v), `/drummer/john-otto` (10v).
+- Content-gap: 1 row (`joey jordison drum kit`, 53 impr, 1.89% CTR) — already ruled a known oscillator by the 00:31 CEO pulse (4 prior CTR fixes, documented standing oscillator). No new action.
+
+### Method
+Ran `node scripts/verify-gear-consistency.cjs` fresh — only 1 raw mismatch (jay-weinberg hardware, the standing #8518 Class-4 non-bug) — confirms the mechanical "missing historical category entry" vein (line 274 of learned-patterns.md) is now exhausted; checked the 2 remaining held-back candidates from that vein directly: Matt Greiner's historical Meinl-cymbals gap has no live fabrication anywhere citing Meinl for his pre-2016 era (checked repo-wide) — still purely preventive, not filed. Gene Hoglan's hardware-category gap is actually **resolved** — re-read `endorsementNews.js:1880-1886`, the 2018 DRUMS timeline entry's `notes` field already states the Pearl Demon Drive pedal explicitly (shipped by closed #8725); the detector no longer flags it. Both held-backs closed out with no further action needed.
+
+Dispatched 2 parallel research agents targeting roster names confirmed (via `git log --since="20 days ago" --grep`) to be under-mined: Agent A covered jimmy-degrasso/john-longstreth/waltteri-vayrynen (0 hits each in 20-day git log); Agent B covered nick-barker/adrian-erlandsson/martin-lopez (2 hits each). jimmy-degrasso and john-longstreth came back clean (no drift found — all gear/tenure facts consistent). The other 4 drummers yielded 6 verified candidates, all personally re-verified by reading the actual cited lines in both the leaf file and `endorsementNews.js`/`bands.js` ground truth before filing (not just trusting the subagent reports) — same discipline as every prior run.
+
+One candidate was deliberately **not filed**: Agent B flagged a possible conflict where closed #8005 calls Martin Lopez's "Pre-Opeth / Amon Amarth Foundation (1996-1997)" section in `evolution/martin-lopez.md` fabricated, but `bands.js:2172` actually documents a real Amon Amarth tenure (1996-1998, recording "Once Sent from the Golden Hall"). This isn't simple drift — it's a potential conflict between a closed issue's reasoning and `bands.js`'s own (possibly date-overlapping — Amon Amarth 1996-1998 vs Opeth 1997-2006) internal record. Needs a closer read of #8005's original verification before touching, not a mechanical re-file. Logged for next run.
+
+### Proposals filed this run
+1. #9687 — Waltteri Väyrynen licks entry + llms mirror wrongly call *The Last Will and Testament* his "second" Opeth album (verified: his first)
+2. #9688 — top10Lists.js death-doom entry stale-claims Väyrynen has "no dedicated profile" (true when list was created in #3220, stale since #4748 added his roster profile)
+3. #9689 — Nick Barker gear-history llms mirror fabricates a detailed Pearl Masterworks/Paiste rig + a fake "2009 Sick Drummer Magazine" citation, never synced after closed #8144/#9015 fixed the `.js` sources
+4. #9690 — Martin Lopez gear-history llms mirror fabricates Noble & Cooley/Zildjian K Dark (his Soen-era gear) for his entire 1997-2006 Opeth era (verified: Sonor Designer Series/Sabian)
+5. #9691 — Adrian Erlandsson evolution + gear-history llms mirrors mis-date his Tama/Sabian/Monolit switch across a fabricated 1996-2011 multi-stage story (verified: single 2014 event, At the Gates reunion)
+6. #9692 — Martin Lopez evolution llms mirror summary table says "Sonor Force Series" + Zildjian for his Opeth years (verified: "Designer Series" + Sabian; sibling file to #9690, different fix)
+
+### Held-back / not filed
+- Matt Greiner historical Meinl-cymbals `endorsementNews.js` gap — confirmed still dormant/preventive (no live fabrication found referencing it), not filed.
+- Gene Hoglan hardware-category gap — confirmed resolved by closed #8725, no longer a live issue.
+- Martin Lopez pre-Opeth Amon Amarth date conflict (closed #8005 vs `bands.js:2172`) — needs a closer read before any action, not filed.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9687-9692 (this run, 6 fresh)
+
+### Next run
+1. Watch #9687-9692 pick up via CEO triage then Roadie.
+2. Resolve the Martin Lopez Amon Amarth date-conflict question (re-read #8005's original verification vs `bands.js:2172`'s 1996-1998 Amon Amarth tenure) before filing or dismissing.
+3. Content-gap: `joey jordison drum kit` — still the standing oscillator, watch only.
+4. Drum-chair watch: due Monday 2026-10-26, group 0 (amon-amarth...cynic) — run on the next invocation if it lands post-midnight-UTC-Monday.

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-25 00:30 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-25 01:18 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 385 |
-| Sessions | 447 |
-| Page views | 601 |
-| Engagement rate | 59.06% |
-| Avg session (s) | 237 |
+| Active users | 387 |
+| Sessions | 450 |
+| Page views | 603 |
+| Engagement rate | 58.89% |
+| Avg session (s) | 236 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 19 | 13 |
-| /drummer/frost | 13 | 5 |
+| /drummer/frost | 14 | 5 |
 | /drummer/joey-jordison | 10 | 7 |
 | /drummer/john-otto | 10 | 7 |
 | /guides/best-in-ear-monitors-for-metal-drummers | 9 | 7 |
@@ -31,18 +31,18 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 346 | 285 |
+| Organic Search | 348 | 286 |
 | Direct | 99 | 99 |
+| Unassigned | 3 | 2 |
 | Organic Social | 1 | 1 |
-| Unassigned | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 145 | 119 |
+| United States | 146 | 120 |
 | Singapore | 44 | 44 |
 | China | 30 | 30 |
-| United Kingdom | 29 | 16 |
+| United Kingdom | 30 | 16 |
 | Australia | 15 | 11 |
 | Canada | 14 | 11 |
 | Germany | 13 | 12 |

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-25 01:18 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-25 06:17 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,46 +8,46 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 387 |
-| Sessions | 450 |
-| Page views | 603 |
-| Engagement rate | 58.89% |
-| Avg session (s) | 236 |
+| Active users | 397 |
+| Sessions | 460 |
+| Page views | 614 |
+| Engagement rate | 57.83% |
+| Avg session (s) | 231 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 19 | 13 |
+| / | 20 | 14 |
 | /drummer/frost | 14 | 5 |
+| /drummer/john-otto | 11 | 8 |
 | /drummer/joey-jordison | 10 | 7 |
-| /drummer/john-otto | 10 | 7 |
 | /guides/best-in-ear-monitors-for-metal-drummers | 9 | 7 |
 | /drummer/mario-duplantier | 7 | 6 |
 | /songs/fastest-metal-songs | 7 | 5 |
+| /articles/john-otto-drum-setup | 6 | 5 |
 | /drummer/bill-ward | 6 | 6 |
 | /drummer/matt-greiner | 6 | 4 |
-| /drummer/nick-menza/snare | 6 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 348 | 286 |
-| Direct | 99 | 99 |
-| Unassigned | 3 | 2 |
+| Organic Search | 353 | 291 |
+| Direct | 105 | 105 |
+| Unassigned | 10 | 9 |
 | Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 146 | 120 |
-| Singapore | 44 | 44 |
-| China | 30 | 30 |
-| United Kingdom | 30 | 16 |
+| United States | 148 | 122 |
+| Singapore | 46 | 46 |
+| China | 32 | 32 |
+| United Kingdom | 31 | 17 |
 | Australia | 15 | 11 |
 | Canada | 14 | 11 |
 | Germany | 13 | 12 |
+| Netherlands | 10 | 8 |
 | France | 9 | 8 |
-| Netherlands | 9 | 7 |
 | Poland | 8 | 7 |
 
 ## Search Console — Search performance

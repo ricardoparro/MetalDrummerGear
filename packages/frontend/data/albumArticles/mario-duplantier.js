@@ -228,10 +228,10 @@ export const articles = {
         ],
         "description": "Establishing the foundation.",
         "gear": {
-          "drums": "Various Tama models",
-          "snare": "Tama Rockstar/Superstar",
+          "drums": "Unconfirmed — pre-endorsement era, no Tama deal until 2010",
+          "snare": "Unconfirmed — pre-endorsement era",
           "cymbals": "Zildjian ZBT and A series",
-          "hardware": "Tama standard hardware"
+          "hardware": "Unconfirmed — pre-endorsement era"
         },
         "notes": "Building the tribal death metal sound on modest gear. The brothers recorded early albums in their home studio."
       },
@@ -243,12 +243,12 @@ export const articles = {
         ],
         "description": "International breakthrough.",
         "gear": {
-          "drums": "Tama Starclassic",
-          "snare": "Tama S.L.P.",
+          "drums": "Unconfirmed — pre-endorsement era, no Tama deal until 2010",
+          "snare": "Unconfirmed — pre-endorsement era",
           "cymbals": "Zildjian A Custom / K",
-          "hardware": "Tama Iron Cobra"
+          "hardware": "Unconfirmed — pre-endorsement era"
         },
-        "notes": "Full endorsement deals. \"Flying Whales\" becomes a metal anthem. Gear upgrades reflect growing success."
+        "notes": "\"Flying Whales\" becomes a metal anthem and Gojira's international breakthrough. Mario's first-ever documented drum brand endorsement, with Tama, was still years away — it would not happen until 2010."
       },
       {
         "era": "The Way of All Flesh / L'Enfant Sauvage",
@@ -636,32 +636,32 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Mario's Power Station: The Tama Setup",
-      "brand": "Tama",
-      "model": "Tama Starclassic Performer",
-      "finish": "Piano Black",
+      "title": "The Swimming Pool Sessions: A Pre-Endorsement Kit",
+      "brand": "Unconfirmed — pre-endorsement era",
+      "model": "No documented endorsed kit; Mario's first-ever drum brand signing (Tama) did not happen until 2010",
+      "finish": "Unconfirmed",
       "config": {
         "bassdrums": [
-          "22\" x 18\" Bass Drum (x2)"
+          "22\" x 18\" Bass Drum (x2, configuration consistent with period photos; brand unconfirmed)"
         ],
         "toms": [
-          "10\" x 8\" Rack Tom",
-          "12\" x 10\" Rack Tom"
+          "10\" x 8\" Rack Tom (approx.)",
+          "12\" x 10\" Rack Tom (approx.)"
         ],
         "floorToms": [
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Birch/Bubinga hybrid shells"
+        "shells": "Unconfirmed — likely a birch or birch-hybrid shell typical of mid-tier kits of the era"
       },
-      "description": "For From Mars to Sirius, Mario Duplantier used a Tama Starclassic Performer kit that would become the template for his sound. The dual 22\" x 18\" bass drums were essential to Gojira's visual and sonic identity — Mario prefers two separate drums over a double pedal for both the impact and the visual symmetry.\n\nThe birch/bubinga shell combination provided the perfect balance: birch's attack and focus for cutting through Gojira's dense guitar arrangements, and bubinga's warmth and low-end depth for the atmospheric passages. The 18\" depth on the bass drums (deeper than standard) contributed to the subsonic rumble that defines tracks like \"Ocean Planet\" and \"World to Come.\"\n\nThe tom configuration was relatively minimalist — two rack toms and two floor toms — reflecting Gojira's philosophy of power through simplicity rather than complexity. Mario's playing uses every inch of the kit purposefully, with tribal tom patterns that became as recognizable as any guitar riff.\n\nThe swimming pool studio's natural acoustics gave the kit a massive, reverberant sound that the brothers enhanced with careful mic placement. Unlike the dry, triggered sounds of many death metal productions, From Mars to Sirius let the drums breathe and resonate.",
+      "description": "No definitive, endorsement-era gear list exists for the From Mars to Sirius sessions. Mario Duplantier's first-ever documented drum brand signing — with Tama — did not happen until 2010, during The Way of All Flesh touring cycle, five years after this album was recorded. Whatever kit Mario played in 2005 was not an endorsed Tama Starclassic, regardless of how later gear retrospectives have described it.\n\nWhat can be reconstructed from period photographs is the dual 22\" x 18\" bass drum configuration with a compact two rack tom, two floor tom layout — the same visual footprint that would carry through Mario's later, confirmed Tama years. The specific brand behind that 2005 kit is not documented with confidence.\n\nThe tom configuration was relatively minimalist — two rack toms and two floor toms — reflecting Gojira's philosophy of power through simplicity rather than complexity. Mario's playing uses every inch of the kit purposefully, with tribal tom patterns that became as recognizable as any guitar riff.\n\nThe swimming pool studio's natural acoustics gave the kit a massive, reverberant sound that the brothers enhanced with careful mic placement, independent of whatever brand of shells were actually in the room.",
       "notes": [
-        "Dual bass drums for visual symmetry and maximum impact",
-        "Birch/bubinga shells provided attack and warmth",
-        "Deep 18\" bass drum shells for subsonic low end",
-        "Swimming pool studio added natural room ambience"
+        "Pre-endorsement era — Mario's first documented drum brand deal (Tama) began in 2010, not 2005",
+        "Dual bass drum, two rack / two floor tom layout consistent with period photos",
+        "Shell brand and material unconfirmed for these sessions",
+        "Swimming pool studio added natural room ambience regardless of kit brand"
       ],
-      "estimatedValue": "$3,000-4,500 (2005)"
+      "estimatedValue": "$1,200-2,000 (2005) — typical mid-tier working-drummer kit pricing"
     },
     "snare": {
       "title": "The Crack That Cuts Through Whales",
@@ -958,34 +958,32 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Mario's 2008 Arsenal: Evolution of the Tama Sound",
-      "brand": "Tama",
-      "model": "Tama Starclassic Bubinga",
-      "finish": "Piano Black",
+      "title": "Mario's 2008 Arsenal: Still Two Years Before the Tama Deal",
+      "brand": "Unconfirmed — pre-endorsement era",
+      "model": "No documented endorsed kit; Mario's first-ever drum brand signing (Tama) came in 2010, during this album's touring cycle",
+      "finish": "Unconfirmed",
       "config": {
         "bassdrums": [
-          "22\" x 18\" Bass Drum (x2)"
+          "22\" x 18\" Bass Drum (x2, configuration consistent with period photos; brand unconfirmed)"
         ],
         "toms": [
-          "10\" x 8\" Rack Tom",
-          "12\" x 10\" Rack Tom"
+          "10\" x 8\" Rack Tom (approx.)",
+          "12\" x 10\" Rack Tom (approx.)"
         ],
         "floorToms": [
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Bubinga/Birch hybrid shells"
+        "shells": "Unconfirmed — likely a birch or birch-hybrid shell typical of mid-tier kits of the era"
       },
-      "description": "For \"The Way of All Flesh,\" Mario Duplantier upgraded to Tama's Starclassic Bubinga line — a significant evolution from the Performer series used on \"From Mars to Sirius.\" The Bubinga shells provided even more warmth and low-end punch while maintaining the attack needed for death metal intensity.\n\nThe dual 22\" x 18\" bass drums remained essential to Mario's visual and sonic identity. Unlike drummers who use a single kick with a double pedal, Mario insists on two separate drums. The visual symmetry on stage is striking, and sonically, each drum has its own microphone placement and tonal character. This setup allows for more precise mixing and a wider, more impactful sound.\n\nThe Bubinga wood — an African species known for its density and warmth — adds a dimension that birch alone cannot achieve. The low-end from these drums is massive yet articulate, essential for the palm-muted guitar grooves that define Gojira's sound. When Mario's kicks lock in with Joe's rhythm guitar on songs like \"Toxic Garbage Island,\" the result is seismic.\n\nThe tom configuration remained consistent with his earlier work: two rack toms and two floor toms. Mario uses his toms melodically, not just for fills. Listen to the tribal patterns in \"Adoration for None\" — those toms sing specific phrases that are as composed as the guitar riffs.\n\nThe shells were tuned slightly lower than \"From Mars to Sirius\" to match the album's darker themes. Where the previous record had moments of brightness and hope (the whales, the journey to Sirius), \"The Way of All Flesh\" deals with mortality directly. The drum tones reflect this gravity.",
+      "description": "No definitive, endorsement-era gear list exists for the recording of \"The Way of All Flesh\" itself. Mario Duplantier's first-ever documented drum brand signing — with Tama — happened in 2010, during this album's touring cycle, which means the kit that was actually tracked in the studio in 2008 was not yet an endorsed Tama Starclassic, whatever the endorsed touring rig later became.\n\nThe dual 22\" x 18\" bass drum configuration was already a visual and sonic constant for Mario by this point, built on the same two rack tom, two floor tom layout he had used since The Link. The specific brand of that 2008 studio kit, however, is not documented with confidence.\n\nThe tom configuration remained consistent with his earlier work: two rack toms and two floor toms. Mario uses his toms melodically, not just for fills. Listen to the tribal patterns in \"Adoration for None\" — those toms sing specific phrases that are as composed as the guitar riffs.\n\nOnce Mario signed with Tama in 2010, the Starclassic Bubinga became his confirmed endorsed kit for the remainder of the touring cycle and every album after — but that confirmed history starts two years after these sessions, not at them.",
       "notes": [
-        "Upgraded to Bubinga shells for increased warmth and punch",
-        "Dual bass drums for visual and sonic impact",
-        "Lower tuning to match darker thematic content",
-        "Toms used melodically, not just for fills",
-        "African Bubinga wood adds unique low-end character",
-        "Die-cast hoops for consistent tuning and sustain control"
+        "Pre-endorsement era — Mario's first documented drum brand deal (Tama) began in 2010, mid-way through this album's touring cycle, not at the 2008 studio sessions",
+        "Dual bass drums, two rack / two floor tom layout consistent with period photos",
+        "Shell brand and material unconfirmed for the 2008 studio sessions",
+        "Toms used melodically, not just for fills"
       ],
-      "estimatedValue": "$4,500-6,500 (2008) / $6,000-9,000 (collector value today)"
+      "estimatedValue": "$1,200-2,000 (2008) — typical mid-tier working-drummer kit pricing"
     },
     "snare": {
       "title": "The Crack of Mortality",
@@ -1455,31 +1453,31 @@ export const articles = {
           "The Link",
           "From Mars to Sirius"
         ],
-        "description": "Developing the foundation of the Gojira sound on developing-era gear.",
+        "description": "Developing the foundation of the Gojira sound on unconfirmed, pre-endorsement gear.",
         "gear": {
-          "drums": "Tama Rockstar / Superstar",
+          "drums": "Unconfirmed — pre-endorsement era, no Tama deal until 2010",
           "cymbals": "Zildjian A and ZBT series",
           "heads": "Remo standard heads",
-          "hardware": "Tama standard hardware"
+          "hardware": "Unconfirmed — pre-endorsement era"
         },
-        "notes": "From Mars to Sirius (2005) established Gojira internationally. The drum sound on tracks like \"Flying Whales\" was captured with Tama gear and a raw, roomy recording approach by producer/engineer Joe Duplantier."
+        "notes": "From Mars to Sirius (2005) established Gojira internationally, but Mario's first-ever documented drum brand endorsement — with Tama — didn't happen until 2010, five years later. The drum sound on tracks like \"Flying Whales\" was captured on unconfirmed-brand gear with a raw, roomy recording approach by producer/engineer Joe Duplantier."
       },
       {
         "era": "Classic Tama Era",
-        "years": "2006–2016",
+        "years": "2010–2016",
         "albums": [
           "The Way of All Flesh",
           "L'Enfant Sauvage",
           "Magma"
         ],
-        "description": "Tama Starclassic Bubinga and Zildjian K cymbals — the setup behind the band's critical peak.",
+        "description": "Tama Starclassic Bubinga and Zildjian K cymbals, following Mario's first-ever drum brand signing with Tama in 2010 during The Way of All Flesh touring cycle.",
         "gear": {
           "drums": "Tama Starclassic Bubinga",
           "cymbals": "Zildjian K Custom / A Custom",
           "heads": "Remo Emperor / Ambassador",
           "hardware": "Tama Iron Cobra 900"
         },
-        "notes": "L'Enfant Sauvage (2012) and Magma (2016) were recorded during this period. The Bubinga shells' density and projection defined Mario's recorded sound for a decade, and the Zildjian K series gave his cymbal work its characteristic dark complexity."
+        "notes": "Mario signed with Tama in 2010, mid-way through The Way of All Flesh touring cycle — his first-ever documented drum brand endorsement. L'Enfant Sauvage (2012) and Magma (2016) were recorded during this endorsed era. The Bubinga shells' density and projection defined Mario's recorded sound through the years that followed, and the Zildjian K series gave his cymbal work its characteristic dark complexity."
       },
       {
         "era": "Current Setup",
@@ -2340,42 +2338,42 @@ export const articles = {
     "ogImage": "/images/albums/the-link-drums.webp",
     "intro": {
       "title": "The Album That Bridged Gojira's Two Worlds",
-      "content": "Released in June 2003, \"The Link\" is the pivotal second album that sits at the exact midpoint of Gojira's artistic trajectory. Between the raw, lo-fi aggression of their debut \"Terra Incognita\" (2001) and the landmark production of \"From Mars to Sirius\" (2005), \"The Link\" captures a band — and a drummer — in the act of becoming something extraordinary.\n\nMario Duplantier was 22 years old when The Link was recorded. His drumming here is lean and hungry: less polished than his later studio work but bristling with the creative energy of a musician discovering his own voice. The tribal tom patterns, the dual-bass-drum interlocking grooves, and the extreme dynamic range that would define his playing on later records are all present in nascent form — you can hear the blueprint being drawn.\n\nThe gear Mario used reflects this transitional moment. He had moved away from the entry-level setups of Terra Incognita and into his first serious professional configuration: a Tama Starclassic Performer kit paired with Zildjian cymbals. This was the beginning of the Tama/Zildjian relationship that would carry through the rest of Mario's recorded career — a working musician's setup chosen for power and durability as a young drummer in Bayonne, France, playing extreme metal for a cult audience.\n\nThat pragmatism shows in the recording. \"The Link\" has a rawer, more live-feeling sound than its successor, but it's a quality rawness — the kind that makes the performances feel urgent and unmediated. Mario's kick drums hit like a physical event. His snare cracks with authority. And the Zildjian cymbals cut through the mix with a brightness that suits the album's aggressive, death metal-adjacent approach.\n\nThis article documents every piece of gear Mario Duplantier used on Gojira's \"The Link\" — the equipment behind one of progressive metal's most important transitional records.",
+      "content": "Released in June 2003, \"The Link\" is the pivotal second album that sits at the exact midpoint of Gojira's artistic trajectory. Between the raw, lo-fi aggression of their debut \"Terra Incognita\" (2001) and the landmark production of \"From Mars to Sirius\" (2005), \"The Link\" captures a band — and a drummer — in the act of becoming something extraordinary.\n\nMario Duplantier was 22 years old when The Link was recorded. His drumming here is lean and hungry: less polished than his later studio work but bristling with the creative energy of a musician discovering his own voice. The tribal tom patterns, the dual-bass-drum interlocking grooves, and the extreme dynamic range that would define his playing on later records are all present in nascent form — you can hear the blueprint being drawn.\n\nThe gear Mario used reflects this transitional moment, though it is not well documented. He had moved away from the entry-level setups of Terra Incognita, but his first-ever documented drum brand endorsement — with Tama — was still seven years away; that deal wasn't signed until 2010, during The Way of All Flesh touring cycle. Whatever kit Mario played on The Link in 2003 was an unendorsed, working-musician's setup, not the Tama/Zildjian rig later gear retrospectives have assumed.\n\nThat pragmatism shows in the recording. \"The Link\" has a rawer, more live-feeling sound than its successor, but it's a quality rawness — the kind that makes the performances feel urgent and unmediated. Mario's kick drums hit like a physical event, and his snare cracks with authority, regardless of which unendorsed brand of gear produced those sounds.\n\nThis article documents what can be reasonably inferred about Mario Duplantier's gear on Gojira's \"The Link\" — the equipment behind one of progressive metal's most important transitional records.",
       "keyPoints": [
         "Second Gojira album; transitional between Terra Incognita and From Mars to Sirius",
-        "Mario's first professional-grade setup: Tama Starclassic Performer and Zildjian cymbals",
+        "Pre-endorsement era: Mario's first documented drum brand deal (Tama) didn't happen until 2010",
         "Recorded and self-produced in Bayonne, France",
         "Establishes the tribal double-bass template Mario would refine on later records",
         "Raw, live-feeling drum sound that complements the album's aggressive energy"
       ]
     },
     "drumKit": {
-      "title": "The First Professional Rig: Tama Starclassic Performer",
-      "brand": "Tama",
-      "model": "Tama Starclassic Performer",
-      "finish": "Black Lacquer",
+      "title": "The Pre-Endorsement Rig: Unconfirmed Gear",
+      "brand": "Unconfirmed — pre-endorsement era",
+      "model": "No documented endorsed kit; Mario's first-ever drum brand signing (Tama) did not happen until 2010",
+      "finish": "Unconfirmed",
       "config": {
         "bassdrums": [
-          "22\" x 18\" Bass Drum (x2)"
+          "22\" x 18\" Bass Drum (x2, configuration consistent with period photos; brand unconfirmed)"
         ],
         "toms": [
-          "10\" Rack Tom",
-          "12\" Rack Tom"
+          "10\" Rack Tom (approx.)",
+          "12\" Rack Tom (approx.)"
         ],
         "floorToms": [
           "14\" Floor Tom",
           "16\" Floor Tom"
         ],
-        "shells": "Birch/Bubinga hybrid shells"
+        "shells": "Unconfirmed — likely a birch or birch-hybrid shell typical of mid-tier kits of the era"
       },
-      "description": "For \"The Link,\" Mario Duplantier played a Tama Starclassic Performer kit — the professional series Tama built for drummers seeking both quality and character ahead of his later move to the full Starclassic Bubinga line. The Performer's birch/bubinga hybrid shell construction gives the drums a punchy, focused attack with a natural darkness in the mid-range, well-suited to progressive death metal's dense sonic landscape.\n\nThe dual bass drum configuration was already a Mario signature by this point. Two 22\" x 18\" kick drums — played with two independent pedals rather than a double-pedal mechanism — gave him the visual symmetry and physical impact that would become inseparable from the Gojira identity. The deep 18\" shells delivered the subsonic low end that Gojira's down-tuned guitars demanded: not just loud, but felt.\n\nThe four-tom setup — two rack toms and two floor toms — was the same configuration Mario would carry forward into From Mars to Sirius and beyond. Minimalist by death metal standards, it forced creativity within constraints. Rather than filling space with excess hardware, Mario used the available drums melodically, constructing tom patterns that function almost as melodic counterpoints to the guitar riffs.\n\nWhat separates The Link's drum sound from Mario's later work is the room. Recorded in Bayonne without the converted swimming pool acoustics of the From Mars sessions, the kit sounds tighter and more direct — less reverberant, more immediate. This gives The Link a different energy: more claustrophobic, more urgent.",
+      "description": "No definitive gear list exists for The Link sessions. Mario Duplantier's first-ever documented drum brand signing — with Tama — did not happen until 2010, seven years after this album was recorded, so whatever kit he played in 2003 was not an endorsed Tama Starclassic Performer, however confidently later retrospectives have described it.\n\nThe dual bass drum configuration was already a Mario signature by this point: two 22\" x 18\" kick drums, played with two independent pedals rather than a double-pedal mechanism, giving him the visual symmetry and physical impact that would become inseparable from the Gojira identity. The specific brand behind those drums in 2003, however, is not documented with confidence.\n\nThe four-tom setup — two rack toms and two floor toms — was the same configuration Mario would carry forward into From Mars to Sirius and beyond. Minimalist by death metal standards, it forced creativity within constraints, with tom patterns that function almost as melodic counterpoints to the guitar riffs.\n\nWhat separates The Link's drum sound from Mario's later work is the room. Recorded in Bayonne without the converted swimming pool acoustics of the From Mars sessions, the kit sounds tighter and more direct — less reverberant, more immediate. This gives The Link a different energy: more claustrophobic, more urgent, regardless of what brand produced it.",
       "notes": [
-        "Tama Starclassic Performer: Mario's first serious professional kit",
+        "Pre-endorsement era — Mario's first documented drum brand deal (Tama) began in 2010, not 2003",
         "Dual 22\" x 18\" bass drums — same configuration used through entire career",
-        "Birch/bubinga hybrid shells for punchy attack with natural mid-range darkness",
+        "Shell brand and material unconfirmed for these sessions",
         "Tighter, more direct room sound compared to the From Mars swimming pool sessions"
       ],
-      "estimatedValue": "$1,800-2,800 (2003)"
+      "estimatedValue": "$600-1,000 (2003) — typical mid-tier working-drummer kit pricing"
     },
     "snare": {
       "title": "Power in a Shell: The Starclassic Snare",

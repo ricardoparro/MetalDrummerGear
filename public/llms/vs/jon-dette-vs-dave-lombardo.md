@@ -47,7 +47,7 @@ Dave Lombardo and Jon Dette represent the two poles of Slayer's drum chair: the 
 ## FAQ
 
 **Q: Did Jon Dette replace Dave Lombardo in Slayer?**
-A: Not directly. Jon Dette joined Slayer as a touring drummer in 1996-97 while Paul Bostaph — who had replaced Dave Lombardo in 1992 — recovered from an injury. Dette never recorded a studio album with Slayer; Lombardo (1981-1992, 2001-2013) and Bostaph (1992-2001, 2013-2019) hold that distinction.
+A: Not directly. Jon Dette joined Slayer as a touring drummer in 1996-97 while Paul Bostaph — who had replaced Dave Lombardo in 1992 — recovered from an injury. Dette never recorded a studio album with Slayer; Lombardo (1981-1986, 1987-1992, 2001-2013) and Bostaph (1992-2001, 2013-2019) hold that distinction.
 
 **Q: What is Dave Lombardo best known for?**
 A: Dave Lombardo co-founded Slayer in 1981 and is best known for his drumming on "Reign in Blood" (1986), widely considered the most influential thrash metal album ever recorded. His pioneering double bass technique and Latin-influenced groove defined extreme metal drumming.

@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-25 00:30 UTC*
 
 ---
+## 2026-10-25 12:14 (daily deep run — 8/8 proposals verified+promoted #9703-9712, 3 with scope-gap notes)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 12:14 UTC (408u/473s/628v 7d; GSC 21,511 impr/237 clicks/1.10% CTR/pos 9.0). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9703/9704/9705/9706/9708/9709/9711/9712, filed 07:26-07:28 UTC), continuing the cross-file gear/band-history fact-drift sweep (Danny Carey, Dave Lombardo ×3, Mike Portnoy ×2, Lars Ulrich, Mario Duplantier).
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (cited lines vs `endorsementNews.js`/`bands.js`/`drummerEvolution.js` ground truth, dupe-search, grep for unscoped drift): #9703 (Danny Carey gear-history llms mirror — fabricated Pearl/Zildjian/DW rig vs verified Sonor/Paiste/Vic Firth) VERIFIED-CLEAN, confirmed sibling mirror already correct, no unscoped drift found. #9704 (Dave Lombardo albumArticles.js — Diabolus in Musica + God Hates Us All misattributed, both are Paul Bostaph's) VERIFIED-WITH-NOTE, all 5 cited lines confirmed, line 1842 confirmed already-correct as claimed. #9705 (drummerComparisons.js — Lombardo kit wood "Maple" vs verified "Walnut/Birch", 8 cited spots) VERIFIED-WITH-NOTE, **real scope gap** — grep found 3 more unscoped occurrences (lines 2691, 2699, 2802) that would survive the issue's own verify-grep; posted correction comment before promoting. #9706 (Mike Portnoy drummerEvolution.js wording + gear-history mirror — Tama "1990s" should be 1985, Zildjian should be Sabian) VERIFIED-CLEAN, all 14 mirror line numbers matched exactly. #9708 (albumArticles/mike-portnoy.js — Vic Firth vs verified Promark sticks, incl. a cross-drummer fabrication "Vic Firth Horacio Hernandez SD2 Bolero") VERIFIED-WITH-NOTE, **scope gap** — actual file has 36 "Vic Firth" hits vs ~15 cited (2 extra inline-prose occurrences found); posted full-sweep note. #9709 (Lars Ulrich Kill 'Em All article + llms mirror — fabricated pre-1984 "Tama Imperial Star"/Paiste kit, a year before his verified 1984 Camco→Tama switch) VERIFIED-CLEAN, confirmed self-contradiction against the file's own line ~480 and zero Paiste anywhere in his verified record. #9711 (3 Mario Duplantier llms mirrors never synced after #6028/#7290/#7921 fixed Gretsch/Meinl/Sonor SQ2 in drummerEvolution.js) VERIFIED-CLEAN, confirmed #6028 explicitly asked for mirror regeneration that evidently never happened. #9712 (Dave Lombardo llms mirrors still collapse 3 Slayer stints into 2 + wrongly credit God Hates Us All) VERIFIED-WITH-NOTE, confirmed NOT already fixed by today's earlier commit f31a9191/#9681/#9699 (different files); found one bonus drive-by line (`evolution/dave-lombardo.md:144`), noted as optional. All 8 promoted to `ai-fix` (3 with implementer-note comments: #9705, #9708, #9712).
+- **GSC content-gap** (metrics.md, 1 row): `joey jordison drum kit` (58 impr, 1.72% CTR, pos 9.0) — pulled `gsc-history/*.json` across the last 5 weekly snapshots (09-21 through 10-19): clicks 0,1,2,1,3 — actively converting. Matches the long-documented known-oscillator ruling (`learned-patterns.md` lines 195/246/254); this exact query already absorbed 4 dedicated CTR fixes historically. Held, no issue filed.
+- **Founder ideas**: `.agents/ceo/founder-ideas.md` inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked — zero `updatedAt` change, no re-spam.
+- **L1/L2/L3**: snapshots still git-dated 2026-10-19 (workspace mtimes read as 10-25 were a checkout artifact, not a new refresh) — weekly refresh due ~2026-10-26, not re-run this run.
+- **Starvation check**: pre-triage backlog 0 tripped the trigger shape, but bank held 8 (not ≤2) — not a real event, same recurring drain-then-refill pattern as every prior run; this run's triage is the resolution.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues are the 8 just-promoted (same-run, same-day) — nothing eligible. 20 held roster/band issues remain correctly excluded (freeze, not ambiguity).
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9703/9704/9705/9706/9708/9709/9711/9712 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas #3819/#3810/#2211): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (3 with implementer notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: 1 row addressed (held, documented oscillator, 5-snapshot history checked). ✅ L1/L2/L3: not due yet (due ~10-26). ✅ Starvation: not a real event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9703-9712 pick up via Roadie; confirm #9705's 3 extra lines (2691/2699/2802), #9708's full 36-hit sweep, and #9712's drive-by `evolution/dave-lombardo.md:144` all land correctly.
+2. L1/L2/L3 weekly refresh due ~2026-10-26 — full close-the-loop pass then; L2 cited count was 32/100 as of 10-19 (watch trend, floor is 25/84-equivalent).
+3. `joey jordison drum kit` — watch next snapshot; only re-open as a gap if it reverts to 0 clicks at flat/growing impressions.
+4. #7981 (Derek Roddy snare) still held (needs external verification). #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-25 00:31 (cheap pulse — 9/9 proposals verified+promoted #9675/9677-9684, GSC-gap held as known oscillator)
 
 ### Context (≤3 lines)

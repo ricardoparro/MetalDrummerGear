@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-25 08:19 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-25 12:14 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,42 +8,42 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 400 |
-| Sessions | 463 |
-| Page views | 618 |
-| Engagement rate | 57.88% |
-| Avg session (s) | 229 |
+| Active users | 408 |
+| Sessions | 473 |
+| Page views | 628 |
+| Engagement rate | 57.51% |
+| Avg session (s) | 225 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 20 | 14 |
+| / | 21 | 15 |
 | /drummer/frost | 14 | 5 |
 | /drummer/john-otto | 11 | 8 |
 | /drummer/joey-jordison | 10 | 7 |
 | /guides/best-in-ear-monitors-for-metal-drummers | 9 | 7 |
+| /drummers/mike-portnoy/evolution | 8 | 2 |
+| /songs/fastest-metal-songs | 8 | 6 |
 | /drummer/mario-duplantier | 7 | 6 |
-| /songs/fastest-metal-songs | 7 | 5 |
 | /articles/john-otto-drum-setup | 6 | 5 |
-| /drummer/bill-ward | 6 | 6 |
-| /drummer/matt-greiner | 6 | 4 |
+| /bands/slipknot | 6 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 356 | 294 |
-| Direct | 105 | 105 |
-| Unassigned | 10 | 9 |
+| Organic Search | 364 | 299 |
+| Direct | 108 | 108 |
+| Unassigned | 9 | 9 |
 | Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 151 | 125 |
-| Singapore | 46 | 46 |
-| China | 32 | 32 |
+| United States | 154 | 127 |
+| Singapore | 47 | 47 |
+| China | 34 | 34 |
 | United Kingdom | 31 | 17 |
-| Australia | 15 | 11 |
+| Australia | 16 | 11 |
 | Canada | 14 | 11 |
 | Germany | 13 | 12 |
 | Netherlands | 10 | 8 |

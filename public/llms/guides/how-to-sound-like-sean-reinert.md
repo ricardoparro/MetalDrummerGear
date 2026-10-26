@@ -13,14 +13,14 @@ Human (1991) redefined what death metal drumming could be. While the genre was p
 
 ## Kit Setup
 
-Sean played **Pearl Reference** drums during the Human and Focus recording periods — all-maple professional shells:
+Sean played a **Tama Artstar II** birch shell kit during the Human and Focus recording periods, replacing the Pearl Export series kit he'd used on Death's 1990 debut, Spiritual Healing:
 
-- **Kick Drum:** 22" x 18" (single or dual) with Tama Iron Cobra Double Pedal
-- **Snare:** 14" x 5.5" Pearl Sensitone Steel or Brass
+- **Kick Drum:** 22" x 18" (single) or 22" x 18" x2 with DW 5000 Double Pedal
+- **Snare:** 14" x 5.5" Tama Artstar II birch snare
 - **Rack Toms:** 8" x 8", 10" x 9", 12" x 10"
 - **Floor Toms:** 14" x 14", 16" x 16"
 - **Cymbals:** Zildjian A Series — jazz-heritage character with articulate bell and responsive wash
-- **Pedals:** Tama Iron Cobra Double Pedal (Power Glide cam, progressive feel)
+- **Pedals:** DW 5000 Double Pedal (precise, direct feel)
 - **Sticks:** Vic Firth 5A (lighter weight for ghost note sensitivity and dynamic nuance)
 - **Heads:** Remo Powerstroke P3 or Evans EMAD (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
 
@@ -49,14 +49,14 @@ Reinert used **traditional grip on the left hand / matched grip on the right** �
 
 | Item | Reinert's Spec | Budget Alternative |
 |------|---------------|-------------------|
-| Drum Kit | Pearl Reference | Pearl Export Series (~$550) |
-| Snare | Pearl Sensitone Steel 14" x 5.5" | Ludwig Acrolite or Pearl Free-Floating Steel |
+| Drum Kit | Tama Artstar II (Birch) | Tama Imperialstar (~$700) |
+| Snare | Tama Artstar II birch snare 14" x 5.5" | Tama Starclassic Steel or Ludwig Acrolite |
 | Cymbals | Zildjian A Series | Zildjian A Custom or A Pack (~$300) |
-| Pedal | Tama Iron Cobra Power Glide Double | Tama Iron Cobra 200 Double (~$200) |
+| Pedal | DW 5000 Double Pedal | DW 5000 reissue or Tama Speed Cobra (~$300) |
 | Sticks | Vic Firth 5A | Promark Classic 5A |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EMAD2 Clear |
 
-**Starter budget path (~$1,100):** Pearl Export + Zildjian A Pack + Tama Iron Cobra 200. Zildjian A cymbals are particularly important at this level — the A Series jazz heritage suits Reinert's approach better than B8-level alternatives. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
+**Starter budget path (~$1,100):** Tama Imperialstar + Zildjian A Pack + DW 5000 Double Pedal. Zildjian A cymbals are particularly important at this level — the A Series jazz heritage suits Reinert's approach better than B8-level alternatives. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
 
 ## Practice Routine
 
@@ -70,7 +70,7 @@ Reinert used **traditional grip on the left hand / matched grip on the right** �
 ## FAQ
 
 **Q: What drum kit did Sean Reinert use on Death's Human?**  
-A: Sean Reinert played Pearl Reference drums during the Human (1991) recording period — an all-maple professional kit. The Pearl Reference's full, warm maple tone is audible on Human's production, contributing to the organic warmth that distinguishes the album from drier contemporary death metal recordings.
+A: Sean Reinert played a Tama Artstar II birch shell kit during the Human (1991) recording period, recorded at Morrisound Recording with Scott Burns — replacing the Pearl Export series kit he'd used on Death's 1990 debut, Spiritual Healing. The Artstar II's warm, open birch tone is audible on Human's production, contributing to the organic warmth that distinguishes the album from drier contemporary death metal recordings. He ran a relatively conventional configuration — the musical complexity came from his technique and composition, not from an unusual setup.
 
 **Q: What cymbals did Sean Reinert use on Human?**  
 A: Sean Reinert played Zildjian A Series cymbals, including 14" A New Beat Hi-Hats and A Medium Ride and Crash cymbals. The Zildjian A Series traces its heritage to jazz drumming — this lineage is audible in Reinert's ride work on Human, where the A Medium Ride provides articulate bell and responsive wash suited to jazz ride phrasing at death metal tempos.

@@ -14323,3 +14323,52 @@ Then dispatched 2 parallel research agents against this week's top-2 GSC queries
 2. Content-gap: `joey jordison drum kit` — still the standing oscillator, watch only.
 3. Drum-chair watch: due Monday 2026-10-26, group 0 (amon-amarth...cynic) — run on the next invocation if it lands post-midnight-UTC-Monday.
 4. If bank needs topping up next run: Matt Garstka genreGearGuides.js Tama-hardware overstatement (logged above) is ready to re-evaluate.
+
+---
+
+## 2026-10-26 (run, Monday) — drum-chair watch group 0 (zero changes) + fresh fact-drift sweep, 8 filed (#9744-9751)
+
+### Audit summary
+- robots.txt (`api/robots.js`, grep for 8 AI crawler UAs): all 8 explicitly allowed. ✅
+- `/llms/*.md`: 2,029 files on disk, unchanged.
+- Bank check: 9 open `seo-proposal` at run start (#9731-9735 already promoted to `ai-fix` by the 00:30 CEO pulse + held #7981 + 3 standing umbrellas #2211/#3810/#3819) — effectively 0 fresh untriaged, well under the 45 floor → filed 8 (top of the under-45 allowance).
+- Content-gap: still no gap rows this week (metrics.md table empty).
+- Drum-chair watch: due today (Monday), group 0 — ran it.
+
+### Metrics readout
+- GSC 7d: 18,070 impr / 186 clicks / 1.03% CTR / pos 9.1 (metrics.md refreshed 01:20 UTC).
+- GA4 7d: 383u/437s/598v. Top pages: `/` (22v), `/drummer/frost` (13v), `/drummer/joey-jordison` (10v), `/drummer/john-otto` (9v).
+
+### Drum-chair watch — group 0 (amon-amarth, angra, animals-as-leaders, anthrax, arch-enemy, at-the-gates, august-burns-red, behemoth, between-the-buried-and-me, cannibal-corpse, cavalera-conspiracy, cynic)
+Dispatched 1 research agent (web search, 14-21 day window). **Zero verified lineup changes** — no candidate cleared the 2-source bar. Two temporary illness fill-ins surfaced and were correctly log-and-skipped as non-changes (well-sourced as temporary by the band/press in both cases): Anthrax (Mike Heller Sept 29/Oct 2, Darby Todd Jun-Jul, both covering for Charlie Benante), Arch Enemy (Hank Lin, Oct 6, covering for an ill Daniel Erlandsson, expected back Oct 8). One unconfirmed rumor logged for next cycle: Behemoth/Jon Rice possibly filling in for the Oct 2026 Dimmu Borgir/Dark Funeral tour — no dated press confirmation found, recheck next time Behemoth comes up. Two stale-data flags (NOT lineup-change filings, just noted for a future accuracy check outside this watch's scope): Cynic's drummer-of-record may need updating (Michel Bélanger since May 2025 per Blabbermouth, outside this week's window); Angra's Priester-vs-Valverde current-drummer framing may need a second look (Priester's 2026 appearances look like one-off "Rebirth" reunion shows, not a lineup change).
+
+### Method (fact-drift sweep)
+Built a list of under-mined roster drummers by diffing the 71-name `endorsementNews.js` roster against 25-day `git log --grep` hit counts; picked 5 names with 0-1 hits (alex-rudinger, sean-reinert, chris-turner, morgan-agren, shannon-larkin, navene-koperweis — note sean-reinert/chris-turner turned out to have more recent activity than the git-log heuristic suggested, confirmed by the agent; swept them anyway since real drift was still found). Dispatched 2 parallel research agents (3 drummers each); both came back with substantive, non-dupe findings for every single drummer — no one came back clean this round. I personally re-verified the 8 highest-confidence/highest-value candidates by reading the actual cited lines against `endorsementNews.js`/`extendedBios.js`/`bands.js` ground truth myself before filing (not just trusting the subagent reports), confirming: the alex-rudinger PureSound fabrication, both sean-reinert findings, the #9244 commit-diff proving chris-turner's mirrors were out of scope, morgan-agren's drummerEvolution.js backdating + Roland fabrication, the navene-koperweis drummerComparisons.js 2010-vs-2009 lines directly, and shannon-larkin's wrong birthplace + Sabian-only cymbals.
+
+Prioritized for filing: highest-severity / most load-bearing findings, one per distinct file/pattern. Folded a tightly-coupled regression (morgan-agren's gear-history.md hub reverting after an unrelated PR re-ran the regenerator against the still-broken per-drummer source) into the per-drummer mirror fix rather than filing separately, since fixing one requires re-running the generator for the other anyway.
+
+### Proposals filed this run
+1. #9744 — Alex Rüdinger fabricated "PureSound Super 30" snare wires (soundLikeGuides.js + llms/drummers mirror), verified Evans-only heads
+2. #9745 — how-to-sound-like-sean-reinert.md wholesale fabricates Pearl/Tama gear, verified Tama Artstar II/Zildjian/DW 5000 never synced to this standalone guide
+3. #9746 — Sean Reinert llms mirror "Band History" section still says Death 1989-1991 (verified 1991-1992), leftover scope missed by closed #9597
+4. #9747 — Chris Turner: 4 llms mirror files never synced after #9244 fixed drummerEvolution.js/endorsementNews.js playthrough years + G-Maple snare date
+5. #9748 — Morgan Ågren drummerEvolution.js backdates Sonor to 1990 (verified 2012) + fabricates Roland SPD-SX/V-Drums electronics with zero endorsement support
+6. #9749 — Morgan Ågren gear-history.md mirror wholesale fabricates DW/Zildjian/Roland rig (verified Sonor/Paiste/no-electronics) + fixes the #9246→#9333 hub regression
+7. #9750 — Shannon Larkin albumArticles.js fabricates Sabian HHX + a fake signature snare across most album entries, plus wrong birthplace (Baltimore → Chicago)
+8. #9751 — Navene Koperweis drummerComparisons.js says joined Animals as Leaders "in 2010" (5 locations, verified 2009) + 3 downstream vs-mirror propagations
+
+### Held-back / not filed (ready next run if bank has room)
+- Shannon Larkin `evolution.md` still says "21" HHX ride" in 3 era blocks + FAQ (should be AAX) — same root fabrication family as #9750, different file.
+- Shannon Larkin hub mirrors still carrying "Amen"/HHX across 6 files (`public/llms/drummers/shannon-larkin.md`, `index.md`, `pedals.md`, `faq.md`, `gear-insights.md` + one more) — larger sync batch, same root as #9750.
+- Morgan Ågren `drummerComparisons.js` — wrong "Sonor SQ2 Designer Series" model name (should be "Beech") at line ~2554/2567, plus the `vs/morgan-agren-vs-mike-mangini.md` mirror repeating it and separately misattributing a Roland SPD-SX to Ågren (it's Mangini's).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9744-9751 (this run, 8 fresh)
+
+### Next run
+1. Watch #9744-9751 pick up via CEO triage then Roadie; confirm #9749's hub-regenerator re-run actually lands (not just the per-drummer file), and #9750's HHX/birthplace/signature-snare fix covers every cited line (not just a few).
+2. Held-back candidates above (Shannon Larkin HHX evolution.md + 6-file hub sync, Morgan Ågren drummerComparisons.js model-name fix) are ready to file verbatim next run if bank has room.
+3. Content-gap: still no gap rows — no action.
+4. Drum-chair watch: zero changes this week; next due Monday 2026-11-02, group 1 (damageplan...hellyeah, next alphabetical ~12).

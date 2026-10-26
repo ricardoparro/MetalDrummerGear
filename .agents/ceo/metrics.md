@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-26 00:29 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-26 01:20 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 378 |
-| Sessions | 432 |
-| Page views | 592 |
-| Engagement rate | 57.64% |
-| Avg session (s) | 200 |
+| Active users | 383 |
+| Sessions | 437 |
+| Page views | 598 |
+| Engagement rate | 57.21% |
+| Avg session (s) | 198 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -23,16 +23,16 @@
 | /drummer/john-otto | 9 | 7 |
 | /guides/best-in-ear-monitors-for-metal-drummers | 9 | 7 |
 | /drummers/mike-portnoy/evolution | 8 | 2 |
+| /drummer/mario-duplantier | 7 | 6 |
 | /bands/slipknot | 6 | 4 |
-| /drummer/mario-duplantier | 6 | 5 |
+| /drummer/igor-cavalera | 6 | 3 |
 | /drummer/nick-menza/snare | 6 | 1 |
-| /drummer/shannon-larkin | 6 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 335 | 282 |
-| Direct | 94 | 94 |
+| Organic Search | 338 | 285 |
+| Direct | 96 | 96 |
 | Unassigned | 11 | 11 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
@@ -40,9 +40,9 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 144 | 117 |
+| United States | 145 | 118 |
 | Singapore | 40 | 40 |
-| China | 32 | 32 |
+| China | 34 | 34 |
 | United Kingdom | 25 | 14 |
 | Australia | 12 | 9 |
 | Germany | 12 | 11 |

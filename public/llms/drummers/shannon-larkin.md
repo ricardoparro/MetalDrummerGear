@@ -31,7 +31,7 @@ Shannon Larkin's drum kit and gear setup. Shannon Larkin is a professional metal
 
 Shannon Larkin plays a ddrum Dios Series drum kit — a setup built for the raw power and groove-centric approach he brought to Godsmack across two decades of multi-platinum hard rock. As one of rock's most hard-hitting drummers, Larkin built a drum set that balances heavy impact with musical sensitivity, perfectly matching Godsmack's powerful yet accessible sound.
 
-The cornerstone of the Shannon Larkin drum kit is his ddrum Dios 14×6.5" Maple snare drum, delivering a warm yet cutting crack that anchors Godsmack's groove-driven rhythms on albums like Faceless, IV, and When Legends Rise. The Shannon Larkin drum set features Sabian AAX and HHX Series cymbals throughout: 14" AAX Stage Hi-Hats for crisp articulation; 18" and 19" AAX X-Plosion Crashes for explosive accents; a 21" HHX Raw Bell Dry Ride for dark, focused rhythmic clarity; a 10" AAX Splash for quick punctuation; and an 18" AAX Chinese cymbal for aggressive color. A DW 9000 Series double pedal powers the solid double kick foundation beneath Godsmack's heaviest arrangements. Vic Firth American Classic 5B sticks complete the rig.
+The cornerstone of the Shannon Larkin drum kit is his ddrum Dios 14×6.5" Maple snare drum, delivering a warm yet cutting crack that anchors Godsmack's groove-driven rhythms on albums like Faceless, IV, and When Legends Rise. The Shannon Larkin drum set features Sabian AAX Series cymbals throughout: 14" AAX Stage Hi-Hats for crisp articulation; 18" and 19" AAX X-Plosion Crashes for explosive accents; a 21" AAX Raw Bell Dry Ride for dark, focused rhythmic clarity; a 10" AAX Splash for quick punctuation; and an 18" AAX Chinese cymbal for aggressive color. A DW 9000 Series double pedal powers the solid double kick foundation beneath Godsmack's heaviest arrangements. Vic Firth American Classic 5B sticks complete the rig.
 
 ## Biography
 
@@ -102,7 +102,7 @@ Shannon Larkin's drumming style is characterized by powerful grooves, dynamic co
 
 - **Drums:** ddrum Dios Series
 - **Snare:** ddrum Dios 14x6.5" Maple
-- **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
+- **Cymbals:** Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
 - **Hardware:** DW 9000 Series Double Pedal, ddrum Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans

@@ -11,32 +11,32 @@ Isaac Lamb is the founding and only drummer in the history of Kublai Khan TX, th
 
 What makes Lamb's drumming distinctive isn't technical flash — it's power through deliberate restraint. He leaves space in verses and choruses specifically so that when the breakdown arrives, it lands as a genuine event rather than just a slower, heavier section. That compositional patience, combined with kick-snare patterns locked tightly to the guitar riff, is the core of beatdown hardcore drumming, and Lamb is one of its clearest living examples.
 
-This guide breaks down the groove architecture and breakdown timing behind Lamb's sound, his SJC Custom kit and Meinl cymbal setup, and the practice approach to building the same power-through-restraint technique.
+This guide breaks down the groove architecture and breakdown timing behind Lamb's sound and the practice approach to building the same power-through-restraint technique. No gear endorsement of any kind is publicly documented for Lamb, so the kit specifics below are generic recommendations for the sound rather than his own confirmed equipment.
 
 ## Kit Setup
 
-SJC's hand-built American maple shells give Lamb articulate attack and midrange warmth with enough low-end body for breakdowns to register as physical events — boutique-quality construction built to Lamb's own specification:
+No drum, cymbal, hardware, or stick brand is publicly documented for Lamb. The following is a generic setup suited to beatdown hardcore's demands, not a confirmed specification of his own kit:
 
 - **Kick Drum:** 22" Bass Drum (double pedal configuration)
-- **Snare:** 14" x 6.5" SJC Custom Snare (American maple)
+- **Snare:** 14" x 6.5" steel or maple snare
 - **Rack Toms:** 10", 12"
 - **Floor Toms:** 14", 16"
-- **Cymbals:** Meinl Classics Custom Dark Series — 14" Hi-Hats, 18" & 20" Crash, 21" Ride, 18" China
-- **Pedals:** DW 9000 Series Double Pedal (chain-drive, floating-rotor design)
-- **Sticks:** Vic Firth American Classic 2B
-- **Heads:** Evans Hydraulic batter heads (kick, snare, toms), Evans clear resonant
+- **Cymbals:** Dark-toned crash/ride/hi-hat set suited to dense, high-gain mixes
+- **Pedals:** Double bass drum pedal
+- **Sticks:** Heavy stick profile (5B/2B weight)
+- **Heads:** Coated batter heads (kick, snare, toms), clear resonant
 
 ## Tuning & Setup
 
-Lamb tunes for dead, focused attack rather than resonance — every stroke needs to register as pure impact in a dense, high-gain mix:
+Beatdown hardcore generally calls for dead, focused attack rather than resonance — every stroke needs to register as pure impact in a dense, high-gain mix. Lamb's own tuning choices are not publicly documented; the following is a generic approach suited to the genre:
 
-- **Kick:** Medium tension with heavy muffling — produces a dead, punchy kick attack that reads as impact rather than tone, critical for breakdowns to feel physically heavy. Evans Hydraulic heads do much of this work on their own; keep additional muffling light to avoid over-deadening the tone.
+- **Kick:** Medium tension with heavy muffling — produces a dead, punchy kick attack that reads as impact rather than tone, critical for breakdowns to feel physically heavy.
 - **Snare:** Medium-high tension with light muffling — a snappy, medium-high tuned snare provides crack and backbeat authority through dense hardcore mixes without ringing long enough to muddy the groove. Tune for a tight, immediate crack rather than a long, ringing decay.
-- **Toms:** Medium tension with moderate muffling — Evans Hydraulic heads combined with moderate additional muffling keep tom hits focused and punchy for breakdown accents. Prioritize a dead, controlled tone over natural resonance.
+- **Toms:** Medium tension with moderate muffling — keeps tom hits focused and punchy for breakdown accents. Prioritize a dead, controlled tone over natural resonance.
 
 ## Technique Tips
 
-Lamb's technique is built on compositional patience: locking kick and snare to the riff during verses and choruses, deliberately leaving space, and then delivering breakdowns with full physical commitment from the very first hit. His blast beats stay in the same metric pocket as his grooves rather than pushing ahead of the beat for excitement. He plays a firm matched grip built for maximum impact on breakdown strokes, favoring Vic Firth's heavier 2B stick profile over lighter options to add mass to every hit without sacrificing control on faster groove and blast passages.
+Lamb's technique is built on compositional patience: locking kick and snare to the riff during verses and choruses, deliberately leaving space, and then delivering breakdowns with full physical commitment from the very first hit. His blast beats stay in the same metric pocket as his grooves rather than pushing ahead of the beat for excitement. He plays a firm matched grip built for maximum impact on breakdown strokes, favoring a heavier stick profile over lighter options to add mass to every hit without sacrificing control on faster groove and blast passages.
 
 **Signature patterns:**
 
@@ -48,16 +48,18 @@ Lamb's technique is built on compositional patience: locking kick and snare to t
 
 ## Gear Shopping List
 
-| Item | Isaac's Spec | Budget Alternative |
-|------|-------------|-------------------|
-| Drum Kit | SJC Custom Drums (American Maple) | Pearl Export Series (~$650) |
-| Snare | SJC Custom Snare 14" x 6.5" | Any 14" x 6.5" maple snare, medium-high tuned |
-| Cymbals | Meinl Classics Custom Dark Series | Meinl HCS Pack (~$180) |
-| Double Pedal | DW 9000 Series | Tama Speed Cobra HP310LW (~$100) |
-| Sticks | Vic Firth American Classic 2B | Vic Firth American Classic 2B |
-| Kick Head | Evans Hydraulic | Evans Hydraulic |
+Lamb's own gear is not publicly documented, so there is no confirmed spec to match. The following is a budget-friendly setup suited to beatdown hardcore's demands:
 
-**Starter budget path (~$850):** Pearl Export Series + Meinl HCS pack + Tama Speed Cobra HP310LW double pedal. See [/gear/cymbals](https://metalforge.io/gear/cymbals) and [/brands/meinl](https://metalforge.io/brands/meinl).
+| Item | Budget Option |
+|------|-------------------|
+| Drum Kit | Pearl Export Series (~$650) |
+| Snare | Any 14" x 6.5" maple snare, medium-high tuned |
+| Cymbals | Dark-toned budget cymbal pack (~$180) |
+| Double Pedal | Tama Speed Cobra HP310LW (~$100) |
+| Sticks | Heavy 5B/2B-weight hickory stick |
+| Kick Head | Coated or hydraulic-style kick head |
+
+**Starter budget path (~$850):** Pearl Export Series + a dark-toned budget cymbal pack + Tama Speed Cobra HP310LW double pedal. See [/gear/cymbals](https://metalforge.io/gear/cymbals).
 
 ## Practice Routine
 
@@ -74,13 +76,13 @@ Lamb's technique is built on compositional patience: locking kick and snare to t
 A: It means deliberately underplaying verses and choruses — locking a simple, disciplined groove — so that when the breakdown arrives, it registers as a genuine event rather than just a slower, heavier section. The restraint isn't about playing quietly; it's about preserving contrast so the heavy parts hit harder.
 
 **Q: What gear does Isaac Lamb use?**  
-A: Lamb plays a SJC Custom Drums kit with American maple shells, a 14" x 6.5" SJC Custom snare, Meinl Classics Custom Dark cymbals, a DW 9000 Series double pedal, and Vic Firth American Classic 2B sticks — a setup built for dead, focused attack and maximum breakdown impact.
+A: Lamb's drum kit, cymbal, pedal, and stick brands are not publicly documented. No official artist page, interview, or gear feature naming his equipment could be found.
 
 **Q: How do I make my breakdowns hit as hard as Isaac Lamb's?**  
 A: End the preceding section on a clean, decisive final stroke, then commit fully to the breakdown's first note at full force with no ramp-up. The preparation in the verse and chorus — deliberate restraint — is what makes the breakdown land; the entry itself needs full physical commitment from the very first hit.
 
-**Q: Why does Isaac Lamb use thicker 2B sticks?**  
-A: The 2B's extra mass and diameter add impact to every breakdown stroke compared to a standard 5A, which matters when every hit in a beatdown hardcore breakdown needs to register as a physical event. The tradeoff is slightly less finesse, which fits Lamb's power-first approach.
+**Q: Why do heavier sticks suit beatdown hardcore breakdowns?**  
+A: A thicker stick's extra mass and diameter add impact to every breakdown stroke compared to a standard 5A, which matters when every hit in a beatdown hardcore breakdown needs to register as a physical event. The tradeoff is slightly less finesse, which fits a power-first approach. Lamb's own stick choice is not publicly documented.
 
 **Q: Can I get Isaac Lamb's sound on a budget kit?**  
 A: Yes. Tune for dead, controlled attack with heavy muffling rather than natural resonance, and focus on the compositional discipline of leaving space in verses so breakdowns have somewhere to go — the restraint and timing matter more than boutique gear.
@@ -92,4 +94,4 @@ A: Yes. Tune for dead, controlled attack with heavy muffling rather than natural
 **Related album article:** [Isaac Lamb Drum Kit & Gear Setup — Kublai Khan TX Beatdown Breakdown](https://metalforge.io/articles/isaac-lamb-drum-setup)  
 **Related guides:** [Ben Koller](https://metalforge.io/llms/guides/how-to-sound-like-ben-koller.md) · [Matt Halpern](https://metalforge.io/llms/guides/how-to-sound-like-matt-halpern.md)
 
-*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-07-15*
+*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-10-26*

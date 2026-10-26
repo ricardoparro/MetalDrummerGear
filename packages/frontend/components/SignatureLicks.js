@@ -1395,6 +1395,7 @@ export function LickDetailPage({ theme, onBack, lickSlug, drummers }) {
       )}
 
       {/* Gear Used */}
+      {lick.gearUsed.length > 0 && (
       <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <Text style={[styles.sectionTitle, { color: theme.text }]}>🥁 Gear Used</Text>
         <View style={styles.gearList}>
@@ -1427,6 +1428,7 @@ export function LickDetailPage({ theme, onBack, lickSlug, drummers }) {
           ))}
         </View>
       </View>
+      )}
 
       {/* Related Licks */}
       {relatedLicks.length > 0 && (

@@ -20198,7 +20198,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Kublai Khan TX',
     totalYearsActive: '2009-Present',
     profileImage: '/images/drummers/isaac-lamb.webp',
-    summary: 'Isaac Lamb co-founded Kublai Khan TX in Sherman, Texas in 2009, self-releasing the "Youth War" EP and carrying the band through its Artery Recordings breakthrough and into its Rise Records releases through 2024\'s "Exhibition of Prowess." His only publicly documented gear ties are brand-level endorsements — SJC Custom Drums, Meinl Cymbals, and Vic Firth Sticks — with no specific models, sizes, or start dates confirmed.',
+    summary: 'Isaac Lamb co-founded Kublai Khan TX in Sherman, Texas in 2009, self-releasing the "Youth War" EP and carrying the band through its Artery Recordings breakthrough and into its Rise Records releases through 2024\'s "Exhibition of Prowess." No gear endorsement of any kind is publicly documented for him — no official artist page, interview, or gear feature naming his equipment or brand relationships could be found.',
 
     eras: [
       {
@@ -20240,7 +20240,7 @@ export const DRUMMER_EVOLUTION = {
           sticks: {
             item: 'Standard hickory sticks (varied by gig)',
             details: 'No fixed model documented',
-            notes: 'Predates his documented Vic Firth relationship.',
+            notes: 'No stick brand or model documented for the Youth War years.',
             change: null,
           },
           heads: {
@@ -20273,16 +20273,16 @@ export const DRUMMER_EVOLUTION = {
         years: '2014–2017',
         startYear: 2014,
         endYear: 2017,
-        description: 'Kublai Khan TX signed to Artery Recordings and released their debut full-length "Balancing Survival and Happiness" (2014), landing on Alternative Press\'s "Best Albums" list, followed by the sophomore breakthrough "New Strength" (2015) and an Impericon Festival appearance in Europe. No specific kit, snare, cymbal, hardware, or stick configuration is publicly documented for this stretch — only Lamb\'s brand-level SJC Custom Drums endorsement is known, with no confirmed start date.',
+        description: 'Kublai Khan TX signed to Artery Recordings and released their debut full-length "Balancing Survival and Happiness" (2014), landing on Alternative Press\'s "Best Albums" list, followed by the sophomore breakthrough "New Strength" (2015) and an Impericon Festival appearance in Europe. No kit, snare, cymbal, hardware, or stick brand is publicly documented for this stretch.',
         albums: ['Kublai Khan TX: Balancing Survival and Happiness (2014)', 'Kublai Khan TX: New Strength (2015)'],
         tours: ['Impericon Festival (2015)', 'US Hardcore Tours'],
         image: null,
 
         gear: {
           drums: {
-            item: 'SJC Custom Drums',
-            details: 'Brand-level endorsement; specific kit configuration not publicly documented',
-            notes: 'Only the endorsement itself is confirmed — no source documents when it began or what shell pack he plays.',
+            item: 'Not publicly documented',
+            details: 'No fixed brand confirmed',
+            notes: 'No drum brand documented for this era.',
             change: null,
           },
           snare: {
@@ -20304,9 +20304,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth Sticks',
-            details: 'Brand-level endorsement; specific model not publicly documented',
-            notes: 'Only the endorsement itself is confirmed — no source documents when it began or which model he plays.',
+            item: 'Not publicly documented',
+            details: 'No fixed stick brand confirmed',
+            notes: 'No stick brand or model documented for this era.',
             change: null,
           },
           heads: {
@@ -20327,7 +20327,7 @@ export const DRUMMER_EVOLUTION = {
           'Signed to Artery Recordings',
           'Released debut full-length Balancing Survival and Happiness (2014), an Alternative Press "Best Albums" pick',
           'Released sophomore breakthrough New Strength (2015)',
-          'SJC Custom Drums and Vic Firth endorsements documented, though not tied to a confirmed start date',
+          'No gear endorsement documented for this era',
         ],
 
         videos: [],
@@ -20339,16 +20339,16 @@ export const DRUMMER_EVOLUTION = {
         years: '2017–Present',
         startYear: 2017,
         endYear: 2026,
-        description: 'Kublai Khan TX signed to Rise Records and released "Nomad" (2017) and "Absolute" (2019), then the "Lowest Form of Animal" EP (2022) featuring Terror\'s Scott Vogel, and 2024\'s "Exhibition of Prowess," their most ambitious release to date — the same year the band appeared on Lamb of God\'s "Another Nail for Your Coffin." Lamb\'s gear brand ties through this era remain the same SJC Custom Drums, Meinl Cymbals, and Vic Firth Sticks endorsements — no specific kit, snare, cymbal setup, hardware, or head model is publicly documented.',
+        description: 'Kublai Khan TX signed to Rise Records and released "Nomad" (2017) and "Absolute" (2019), then the "Lowest Form of Animal" EP (2022) featuring Terror\'s Scott Vogel, and 2024\'s "Exhibition of Prowess," their most ambitious release to date — the same year the band appeared on Lamb of God\'s "Another Nail for Your Coffin." No kit, snare, cymbal, hardware, or stick brand is publicly documented for this era.',
         albums: ['Kublai Khan TX: Nomad (2017)', 'Kublai Khan TX: Absolute (2019)', 'Kublai Khan TX: Lowest Form of Animal EP (2022)', 'Kublai Khan TX: Exhibition of Prowess (2024)'],
         tours: ['North American Tour (2024–2025)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'SJC Custom Drums',
-            details: 'Brand-level endorsement; specific kit configuration not publicly documented',
-            notes: 'No change from the previous era — endorsement confirmed, kit specifics are not.',
+            item: 'Not publicly documented',
+            details: 'No fixed brand confirmed',
+            notes: 'No drum brand documented for this era.',
             change: null,
           },
           snare: {
@@ -20358,9 +20358,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Meinl Cymbals',
-            details: 'Brand-level endorsement; specific series and sizes not publicly documented',
-            notes: 'Only the endorsement itself is confirmed — no source documents a series name or configuration.',
+            item: 'Not publicly documented',
+            details: 'No fixed brand confirmed',
+            notes: 'No cymbal brand documented for this era.',
             change: null,
           },
           hardware: {
@@ -20370,9 +20370,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth Sticks',
-            details: 'Brand-level endorsement; specific model not publicly documented',
-            notes: 'No change from the previous era — endorsement confirmed, model unspecified.',
+            item: 'Not publicly documented',
+            details: 'No fixed stick brand confirmed',
+            notes: 'No stick brand or model documented for this era.',
             change: null,
           },
           heads: {
@@ -20393,7 +20393,7 @@ export const DRUMMER_EVOLUTION = {
           'Signed to Rise Records, releasing Nomad (2017) and Absolute (2019)',
           'Released Lowest Form of Animal EP (2022) featuring Terror\'s Scott Vogel',
           'Released Exhibition of Prowess (2024), the band\'s most ambitious release, and appeared on Lamb of God\'s Another Nail for Your Coffin',
-          'Rig remains SJC Custom Drums / Meinl Cymbals / Vic Firth Sticks at the brand level — no specific models publicly documented',
+          'No gear endorsement documented for this era',
         ],
 
         videos: [],
@@ -20403,15 +20403,15 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Isaac Lamb play?',
-        a: 'Isaac Lamb\'s specific drum kit, snare, cymbal, and hardware models are not publicly documented. He carries brand-level endorsements from SJC Custom Drums, Meinl Cymbals, and Vic Firth Sticks, with no confirmed models or sizes.',
+        a: 'Isaac Lamb\'s drum kit, snare, cymbal, and hardware brands are not publicly documented. No official artist page, interview, or gear feature naming his equipment or any brand relationship could be found.',
       },
       {
         q: 'What band is Isaac Lamb in?',
         a: 'Isaac Lamb is the founding drummer of Kublai Khan TX, a beatdown hardcore/metalcore band from Sherman, Texas he co-founded with vocalist Matt Honeycutt in 2009.',
       },
       {
-        q: 'When did Isaac Lamb start using SJC Custom Drums?',
-        a: 'No publicly documented source confirms when Lamb\'s SJC Custom Drums endorsement began — only the endorsement itself, not a start date, is confirmed.',
+        q: 'Does Isaac Lamb have any gear endorsements?',
+        a: 'No gear endorsement of any kind is publicly documented for Isaac Lamb.',
       },
       {
         q: 'What albums has Isaac Lamb recorded with Kublai Khan TX?',
@@ -20424,7 +20424,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Isaac Lamb Gear Evolution Timeline | Kublai Khan TX Drum Kit History',
-    metaDescription: 'Explore Isaac Lamb\'s career with Kublai Khan TX: from the undocumented Sherman, Texas DIY years through the band\'s Artery Recordings breakthrough and Rise Records releases through 2024\'s Exhibition of Prowess. His SJC Custom Drums, Meinl Cymbals, and Vic Firth Sticks endorsements are brand-level only — no specific models are publicly documented.',
+    metaDescription: 'Explore Isaac Lamb\'s career with Kublai Khan TX: from the undocumented Sherman, Texas DIY years through the band\'s Artery Recordings breakthrough and Rise Records releases through 2024\'s Exhibition of Prowess. No gear endorsement of any kind is publicly documented for him.',
   },
 
   // ==========================================

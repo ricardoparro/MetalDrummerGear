@@ -6342,7 +6342,7 @@ George Kollias (Nile) has made his Zildjian A Custom Series cymbals as recogniza
 The wrong cymbals for death metal don't just sound bad—they actively fight your playing. This guide breaks down what actually works, why, and which specific models give you the most extreme metal performance across all budgets.`,
       keyPoints: [
         "Dark, controlled wash beats bright shimmer at death metal speeds",
-        "Zildjian K Custom Dark is the most common death metal cymbal line",
+        "Zildjian A Custom is the most common death metal cymbal line",
         "Sabian AAX/HHX crashes offer precise attack even at 280+ BPM",
         "Heavy hi-hats control wash at extreme blast beat tempos"
       ]
@@ -6362,7 +6362,7 @@ The wrong cymbals for death metal don't just sound bad—they actively fight you
           name: "Darkness vs. Brightness",
           icon: "🌑",
           description: "Bright cymbals can sound harsh and fatiguing at extreme volumes and speeds. Darker cymbals blend better with the guitar's distorted texture while still cutting. Most death metal pros choose darker lines over brilliant-finish options.",
-          recommendation: "K Custom Dark, Sabian AAX/HHX, or Meinl Classics Custom Dark for the right balance"
+          recommendation: "A Custom, Sabian AAX/HHX, or Meinl Classics Custom Dark for the right balance"
         },
         {
           name: "Hi-Hat Weight",
@@ -6397,15 +6397,15 @@ The wrong cymbals for death metal don't just sound bad—they actively fight you
       pedals: [
         {
           rank: 1,
-          name: "Zildjian K Custom Dark",
+          name: "Zildjian A Custom",
           brand: "Zildjian",
-          model: "K Custom Dark Series",
+          model: "A Custom Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€200-500 per cymbal",
           tier: "pro",
           material: "B20 Bronze (Traditional Dark Finish)",
 
-          description: `The Zildjian A Custom Series is the quintessential death metal cymbal line, used by George Kollias as his primary setup throughout his Nile career. The thin, dark B20 bronze construction delivers a complex, controlled wash that sits perfectly under extreme technical death metal without washing out at high speeds. The lack of brilliant finish means these cymbals have more raw, musical character than their A Custom siblings.
+          description: `The Zildjian A Custom Series is the quintessential death metal cymbal line, used by George Kollias as his primary setup throughout his Nile career. The thin, dark B20 bronze construction delivers a complex, controlled wash that sits perfectly under extreme technical death metal without washing out at high speeds.
 
 George Kollias built his reputation for the fastest feet in death metal while using A Custom Series cymbals — a testament to how well they handle the demands of extreme blast beat drumming. The crashes respond instantly even at 280 BPM and decay quickly, allowing tight, articulate accent placement within dense double-bass patterns.`,
 
@@ -6448,13 +6448,13 @@ George Kollias built his reputation for the fastest feet in death metal while us
 
           description: `Flo Mounier of Cryptopsy has used Sabian AAX/HHX Series cymbals since 2012 — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 280+ BPM, his Sabian crashes deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
 
-The AAX/HHX B20 alloy gives crashes bright, cutting projection with plenty of body at comparable weights. In death metal, this translates to cymbal accents that speak with authority even when the kit is being pushed to its limits. The AAX/HHX character is more powerful and full-bodied than the K Custom Dark — a different tool for a different approach to extreme metal.`,
+The AAX/HHX B20 alloy gives crashes bright, cutting projection with plenty of body at comparable weights. In death metal, this translates to cymbal accents that speak with authority even when the kit is being pushed to its limits. The AAX/HHX character is more powerful and full-bodied than the A Custom — a different tool for a different approach to extreme metal.`,
 
           pros: [
             "Full-bodied, powerful crash character at extreme speeds",
             "Sabian B20 alloy — proven in the most intense death metal contexts",
             "Flo Mounier endorsement since 2012 — 280+ BPM proof of concept",
-            "More projection than K Custom Dark — cuts louder",
+            "More projection than A Custom — cuts louder",
             "Iconic sound that engineers recognize and respect"
           ],
           cons: [
@@ -6498,7 +6498,7 @@ For death metal specifically, the dark finish and complex overtones of the Class
             "Wide range of sizes and models"
           ],
           cons: [
-            "Not as refined as Byzance or K Custom Dark",
+            "Not as refined as Byzance or A Custom",
             "B8 models in line lack B20 depth"
           ],
           specs: {
@@ -6526,7 +6526,7 @@ For death metal specifically, the dark finish and complex overtones of the Class
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `The Sabian HHX Evolution takes a different approach to extreme metal — bright, cutting, and aggressive rather than dark and controlled. For death metal drummers who want their crashes to slice through rather than blend, the Evolution's bright B20 character provides a distinctive alternative to the K Custom Dark/AAX-HHX approach.
+          description: `The Sabian HHX Evolution takes a different approach to extreme metal — bright, cutting, and aggressive rather than dark and controlled. For death metal drummers who want their crashes to slice through rather than blend, the Evolution's bright B20 character provides a distinctive alternative to the A Custom/AAX-HHX approach.
 
 Several modern death metal drummers have incorporated HHX cymbals for their cutting attack and distinctive character. The Evolution crashes are particularly noted for their fast, defined response — useful for the precise accent work required in technical death metal.`,
 
@@ -6572,11 +6572,11 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
           material: "B20 Bronze",
           description: "The standard K series (not K Custom) offers genuine dark B20 character at lower prices. Crashes and hi-hats from the K line work excellently for death metal and give you genuine Zildjian quality without K Custom prices.",
           pros: [
-            "Dark B20 character similar to K Custom Dark",
+            "Dark B20 character similar to A Custom",
             "More accessible pricing than K Custom",
             "Proven lineage — the original dark Zildjian"
           ],
-          cons: ["Less refined than K Custom Dark"],
+          cons: ["Less refined than A Custom"],
           verdict: "Best dark budget option. Real Zildjian B20 at significantly lower cost.",
           rating: 4.3,
           affiliateLink: "https://www.thomann.de/intl/zildjian_k_series.htm?partner_id=metalforge"
@@ -6604,10 +6604,10 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
 
     // Comparison
     comparison: {
-      title: "Zildjian K Custom Dark vs Sabian AAX/HHX for Death Metal",
+      title: "Zildjian A Custom vs Sabian AAX/HHX for Death Metal",
       content: `The two dominant cymbal lines in death metal represent fundamentally different approaches:
 
-**Zildjian K Custom Dark:**
+**Zildjian A Custom:**
 - Darker, more controlled wash
 - Quick decay — crashes don't bleed into each other
 - Complex, musical overtones under technical patterns
@@ -6621,7 +6621,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
 - Preferred by: Flo Mounier (Cryptopsy), since 2012
 - Best for: Brutal/old-school death metal, studio recordings
 
-**The Verdict:** Both work excellently for death metal. Choose K Custom Dark if you play highly technical patterns where you need cymbal clarity within dense arrangements. Choose Sabian AAX/HHX if you want powerful, dramatic crashes that define each accent in the music.`,
+**The Verdict:** Both work excellently for death metal. Choose A Custom if you play highly technical patterns where you need cymbal clarity within dense arrangements. Choose Sabian AAX/HHX if you want powerful, dramatic crashes that define each accent in the music.`,
       comparisonTable: [
         { feature: "Darkness", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
         { feature: "Crash Power", zildjianK: "⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐⭐" },
@@ -6637,7 +6637,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian K Custom Dark",
+          pedal: "Zildjian A Custom",
           reason: "George Kollias's choice — the gold standard for death metal cymbal work at any speed."
         },
         {
@@ -6687,7 +6687,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
       },
       {
         question: "Are dark cymbals better for death metal?",
-        answer: "Generally yes. Dark cymbals with controlled wash (like Zildjian K Custom Dark or Paiste 2002) sit better under down-tuned guitars and complex rhythmic patterns at extreme speeds. Bright, brilliant-finish cymbals can sound harsh and washy in dense death metal mixes. Darker cymbals let technical patterns speak clearly."
+        answer: "Generally yes. Dark cymbals with controlled wash (like Zildjian A Custom or Paiste 2002) sit better under down-tuned guitars and complex rhythmic patterns at extreme speeds. Bright, brilliant-finish cymbals can sound harsh and washy in dense death metal mixes. Darker cymbals let technical patterns speak clearly."
       },
       {
         question: "What size crashes are best for death metal?",
@@ -6708,7 +6708,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
       title: "Choose Your Death Metal Weapon",
       content: `Death metal cymbal selection comes down to one question: do you want darkness and control (Zildjian A Custom Series) or power and drama (Sabian AAX/HHX)? Both approaches are proven at the highest levels of the genre — George Kollias and Flo Mounier represent different but equally valid philosophies.
 
-Either way, invest in B20 bronze. The difference between B20 and budget alloys is dramatic under the extreme conditions of death metal playing. A quality set of K Custom Dark crashes and hi-hats will outlast and outperform three generations of cheap cymbals while sounding dramatically better in every context.
+Either way, invest in B20 bronze. The difference between B20 and budget alloys is dramatic under the extreme conditions of death metal playing. A quality set of A Custom crashes and hi-hats will outlast and outperform three generations of cheap cymbals while sounding dramatically better in every context.
 
 Start with a 16\" crash, 18\" crash, and 14\" hi-hats. Add a China cymbal when budget allows. Then practice until your blast beats sound like Kollias.
 
@@ -13003,14 +13003,14 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator
     // SEO metadata
     title: "Best Drum Kits for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Death Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for death metal drumming. What George Kollias (Pearl Reference), Flo Mounier (Tama Starclassic), and Gene Hoglan (Tama) actually use — from budget to pro, with real endorsement data.",
+    description: "Best drum kits for death metal drumming. What George Kollias (Pearl Masterworks Series), Flo Mounier (Tama Starclassic), and Gene Hoglan (Tama) actually use — from budget to pro, with real endorsement data.",
     seoKeywords: [
       'best drum kits for death metal',
       'death metal drum kit',
       'george kollias drum kit',
       'flo mounier drum kit',
       'gene hoglan drum kit',
-      'pearl reference death metal',
+      'pearl masterworks death metal',
       'tama starclassic death metal',
       'best beginner drum kit death metal',
       'maple drum kits extreme metal',
@@ -13040,12 +13040,12 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator
       title: "The Death Metal Drum Kit: Speed, Durability, and Projection",
       content: `Death metal places the most demanding physical requirements on a drum kit of any genre. Sustained double bass at 200–280 BPM, constant blast beat snare hits, and tom fills executed at extreme tempos mean your kit must combine structural integrity with tonal projection and precise response across every component.
 
-George Kollias — widely regarded as the fastest drummer on record — plays Pearl Reference drums. His kit must survive nights of continuous 280 BPM 16th-note bass drum patterns while still projecting clearly in dense, downtuned Nile recordings. Flo Mounier (Cryptopsy) uses Tama Starclassic Maple for the sensitivity and projection that lets his technical death metal patterns cut through one of the genre's densest sonic environments. Gene Hoglan, "The Atomic Clock," built his precision-first approach on Tama equipment throughout his Death and Dark Angel years, later moving to Pearl — kits engineered for consistency under punishing conditions.
+George Kollias — widely regarded as the fastest drummer on record — plays Pearl Masterworks Series drums. His kit must survive nights of continuous 280 BPM 16th-note bass drum patterns while still projecting clearly in dense, downtuned Nile recordings. Flo Mounier (Cryptopsy) uses Tama Starclassic Maple for the sensitivity and projection that lets his technical death metal patterns cut through one of the genre's densest sonic environments. Gene Hoglan, "The Atomic Clock," built his precision-first approach on Tama equipment throughout his Death and Dark Angel years, later moving to Pearl — kits engineered for consistency under punishing conditions.
 
 This guide covers what actually matters in a death metal drum kit, which specific models these legends use, and how to build your own death metal setup at any budget.`,
       keyPoints: [
         "Death metal demands kits that withstand sustained 200–280 BPM playing without hardware failure",
-        "George Kollias trusts Pearl Reference for durability and projection under extreme conditions",
+        "George Kollias trusts Pearl Masterworks Series for durability and projection under extreme conditions",
         "Flo Mounier's Tama Starclassic Maple provides the sensitivity for technical death metal patterns",
         "Standard setup: 22\" kick, 10\"/12\" rack toms, 16\" floor tom — efficiency over excess"
       ]
@@ -30628,13 +30628,13 @@ Start with a budget HCS Dark or Planet Z china to build your sense of dynamics, 
       title: "Why Deathcore Chinas Need Both Brutal Weight and Blast-Beat Speed",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on china choice. A single song can alternate between extreme-speed blast beat verses, where a china needs to stay controlled at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where a dry, aggressive china needs to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on a Meinl Byzance Extra Dry China, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on a Zildjian K Custom & A Custom China, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Zildjian K Custom Dark China.
+Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on a Meinl Byzance Extra Dry China, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on a Zildjian K Custom & A Custom China, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Zildjian A Custom China.
 
 This guide breaks down what actually makes a china work for deathcore — dry control for breakdowns, brutal aggressive attack, or extreme-speed clarity — and recommends specific models across every budget, from a first dark china to the exact cymbals deathcore's closest lineage plays.`,
       keyPoints: [
         "Deathcore chinas must handle both extreme-speed blast beat verses and crushing, syncopated breakdown sections",
         "Chris Turner's Meinl Byzance Extra Dry China brings progressive metalcore precision to deathcore-adjacent blast-beat fills",
-        "George Kollias's Zildjian K Custom Dark China sets the extreme-speed benchmark deathcore's fastest blast sections measure themselves against"
+        "George Kollias's Zildjian A Custom China sets the extreme-speed benchmark deathcore's fastest blast sections measure themselves against"
       ]
     },
 
@@ -30657,13 +30657,13 @@ This guide breaks down what actually makes a china work for deathcore — dry co
         {
           name: "Extreme-Speed Clarity for Blast Beats",
           icon: "⚡",
-          description: "A deathcore china has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's K Custom Dark China) or a slow, riff-locked breakdown groove (Ben Koller's K Custom & A Custom China).",
+          description: "A deathcore china has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's A Custom China) or a slow, riff-locked breakdown groove (Ben Koller's K Custom & A Custom China).",
           recommendation: "A rapid-decay china for clear definition at extreme blast-beat tempo"
         },
         {
           name: "Brightness vs. Darkness Tradeoff",
           icon: "⚖️",
-          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K Custom Dark lean brighter for cutting projection at speed, while Ben Koller's Zildjian K Custom & A Custom leans darker for a trashier, more crushing breakdown voice.",
+          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian A Custom lean brighter for cutting projection at speed, while Ben Koller's Zildjian K Custom & A Custom leans darker for a trashier, more crushing breakdown voice.",
           recommendation: "Brighter voicing for blast-beat cut; darker voicing for maximum breakdown weight"
         },
         {
@@ -30675,7 +30675,7 @@ This guide breaks down what actually makes a china work for deathcore — dry co
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Meinl Byzance, Zildjian K Custom & A Custom/K Custom Dark) delivers deathcore's dark complexity, while B10 bronze (Meinl Classics Custom Dark) offers a more accessible route to the same dark-toned philosophy.",
+          description: "B20 bronze (Meinl Byzance, Zildjian K Custom & A Custom/A Custom) delivers deathcore's dark complexity, while B10 bronze (Meinl Classics Custom Dark) offers a more accessible route to the same dark-toned philosophy.",
           recommendation: "B20 bronze for pro-level darkness and durability, B10 for a real mid-tier entry"
         }
       ]
@@ -30761,14 +30761,14 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
         },
         {
           rank: 3,
-          name: "Zildjian K Custom Dark China",
+          name: "Zildjian A Custom China",
           brand: "Zildjian",
-          model: "18\" K Custom Dark China",
+          model: "18\" A Custom China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€220-290",
           tier: "pro",
           driveType: "B20 Bronze",
-          description: `George Kollias of Nile — sustaining blast beats past 240 BPM — plays an 18" Zildjian K Custom Dark China for explosive accent layering built for extreme-speed clarity.
+          description: `George Kollias of Nile — sustaining blast beats past 240 BPM — plays an 18" Zildjian A Custom China for explosive accent layering built for extreme-speed clarity.
 
 This setup sets the extreme-speed benchmark deathcore's fastest blast sections measure themselves against, before the track drops into a breakdown. Kollias's instructional materials on blast beat technique make his china choice a reliable reference point for deathcore drummers building their own extreme-speed setup.`,
           pros: [
@@ -30779,7 +30779,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           ],
           cons: [
             "Voiced for extreme speed rather than maximum breakdown darkness",
-            "Premium K Custom Dark pricing",
+            "Premium A Custom pricing",
             "Less immediately suited to slow, riff-locked breakdown sections without a darker cymbal added"
           ],
           specs: {
@@ -30790,7 +30790,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "18\" K Custom Dark China — the 240+ BPM blast-beat benchmark deathcore measures itself against" }
+            { name: "George Kollias", band: "Nile", note: "18\" A Custom China — the 240+ BPM blast-beat benchmark deathcore measures itself against" }
           ],
           verdict: "Best for deathcore's fastest, most blast-driven sections. Kollias's china sets the extreme-speed standard.",
           rating: 4.7,
@@ -30832,14 +30832,14 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           priceRange: "€70-90",
           tier: "budget",
           driveType: "B8 Bronze",
-          description: "A budget entry point into the K Custom & A Custom/K Custom Dark family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing deathcore drummers still building blast-to-breakdown technique.",
+          description: "A budget entry point into the K Custom & A Custom/A Custom family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing deathcore drummers still building blast-to-breakdown technique.",
           pros: [
             "Budget entry into Zildjian's K Custom & A Custom family sound",
             "B8 bronze gives cutting, present tone",
             "Widely available and affordable"
           ],
           cons: [
-            "Less complex and durable than K Custom & A Custom or K Custom Dark",
+            "Less complex and durable than K Custom & A Custom or A Custom",
             "Lacks the refined articulation of the professional setups"
           ],
           verdict: "Best budget path toward the technical, Zildjian side of deathcore china tone.",
@@ -30851,7 +30851,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 
     // Comparison
     comparison: {
-      title: "Meinl Byzance vs Zildjian K Custom & A Custom/K Custom Dark for Deathcore",
+      title: "Meinl Byzance vs Zildjian K Custom & A Custom/A Custom for Deathcore",
       content: `Deathcore's blast-into-breakdown split shows up clearly across its closest lineage's china choices:
 
 **Meinl Byzance Extra Dry (Chris Turner):**
@@ -30862,11 +30862,11 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 - Rapid-decay, dark, versatile across both speed and breakdown weight
 - Best for: Organic, dynamically varied deathcore
 
-**Zildjian K Custom Dark (George Kollias):**
+**Zildjian A Custom (George Kollias):**
 - Explosive, extreme-speed clarity at 240+ BPM
 - Best for: Deathcore's fastest, most blast-beat-driven sections
 
-**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT china if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry for technical blast-and-breakdown balance, Zildjian K Custom & A Custom for organic breakdown weight, or Zildjian K Custom Dark if your material is blast-beat-dominant.`,
+**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT china if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry for technical blast-and-breakdown balance, Zildjian K Custom & A Custom for organic breakdown weight, or Zildjian A Custom if your material is blast-beat-dominant.`,
       comparisonTable: [
         { feature: "Breakdown Weight/Darkness", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Extreme-Speed Clarity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -30886,7 +30886,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
         },
         {
           category: "Best for Extreme-Speed Blast Beats",
-          pedal: "Zildjian K Custom Dark China",
+          pedal: "Zildjian A Custom China",
           reason: "George Kollias's Nile setup — the 240+ BPM benchmark deathcore's blast sections measure themselves against."
         },
         {
@@ -30906,7 +30906,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Extra Dry China — Oceans Ate Alaska\'s blast-beat-driven precision' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom & A Custom China — Converge\'s hardcore/mathcore intensity' },
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark China — Nile\'s 240+ BPM blast-beat benchmark' }
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom China — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
     relatedComparisons: [],
 
@@ -30918,7 +30918,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
       },
       {
         question: "What china cymbal does George Kollias use?",
-        answer: "George Kollias of Nile plays an 18\" Zildjian K Custom Dark China as part of a setup built for extreme-speed clarity, sustaining blast beats past 240 BPM — the benchmark deathcore's fastest blast sections measure themselves against."
+        answer: "George Kollias of Nile plays an 18\" Zildjian A Custom China as part of a setup built for extreme-speed clarity, sustaining blast beats past 240 BPM — the benchmark deathcore's fastest blast sections measure themselves against."
       },
       {
         question: "What size china cymbal is best for deathcore?",
@@ -30926,14 +30926,14 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
       },
       {
         question: "What's the best budget china cymbal for deathcore?",
-        answer: "The Meinl HCS Dark China (€50-70) carries the same dark-voiced philosophy as the genre's pro-tier dark china setups at a fraction of the price. The Zildjian ZBT China (€70-90) offers a budget path into the K Custom & A Custom/K Custom Dark family sound."
+        answer: "The Meinl HCS Dark China (€50-70) carries the same dark-voiced philosophy as the genre's pro-tier dark china setups at a fraction of the price. The Zildjian ZBT China (€70-90) offers a budget path into the K Custom & A Custom/A Custom family sound."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build a China That Handles Both Extremes",
-      content: `Deathcore china choice comes down to serving two opposing demands from the same cymbal: extreme-speed clarity for blast beat verses and crushing, dry weight for breakdown sections. Chris Turner's Meinl Byzance Extra Dry China and George Kollias's Zildjian K Custom Dark China both prove a bright, controlled voice can handle blast-beat velocity, while Ben Koller's Zildjian K Custom & A Custom shows how a darker, more crushing voice serves the genre's breakdown-first lineage.
+      content: `Deathcore china choice comes down to serving two opposing demands from the same cymbal: extreme-speed clarity for blast beat verses and crushing, dry weight for breakdown sections. Chris Turner's Meinl Byzance Extra Dry China and George Kollias's Zildjian A Custom China both prove a bright, controlled voice can handle blast-beat velocity, while Ben Koller's Zildjian K Custom & A Custom shows how a darker, more crushing voice serves the genre's breakdown-first lineage.
 
 Start with a Meinl HCS Dark or Zildjian ZBT china to build technique across both extremes, and upgrade to a full pro-tier china once your material demands the extra control.
 
@@ -32276,7 +32276,7 @@ Start with an 18" in a bright voicing — the choice every drummer in this guide
       title: "Why Technical Death Metal Chinas Demand Speed and Precision",
       content: `Technical death metal asks more of a china cymbal than almost any other metal subgenre. Odd-meter riffing, rapid tempo shifts, and blast beats sustained well past 240 BPM leave no room for a china that opens slowly or washes out — every accent has to stay clearly defined against some of the fastest, most complex drumming in metal.
 
-George Kollias's Zildjian rig, including an 18" China alongside his K Mastersound hi-hats and K Custom Dark Crashes, is built for the extreme technical death metal precision documented across Nile's catalog, where his sustained 240+ BPM blast beats set the genre's speed benchmark. Derek Roddy's Meinl Byzance and Mb20 Heavy setup includes an 18" Byzance China for abrupt punctuation, engineered to cut through relentless double-kick runs at extreme tempos. Flo Mounier's Sabian AAX & HHX rig features an 18" AAXtreme China for brutal punctuation, anchoring Cryptopsy's technical death metal attack since 1992. Hannes Grossmann's Meinl Byzance Series setup — 14" hi-hats, 18"/19" crashes, and a 21" ride — provides the crisp, controlled foundation his odd-meter work with Obscura and Alkaloid is built on.
+George Kollias's Zildjian rig, including an 18" China alongside his K Mastersound hi-hats and A Custom Crashes, is built for the extreme technical death metal precision documented across Nile's catalog, where his sustained 240+ BPM blast beats set the genre's speed benchmark. Derek Roddy's Meinl Byzance and Mb20 Heavy setup includes an 18" Byzance China for abrupt punctuation, engineered to cut through relentless double-kick runs at extreme tempos. Flo Mounier's Sabian AAX & HHX rig features an 18" AAXtreme China for brutal punctuation, anchoring Cryptopsy's technical death metal attack since 1992. Hannes Grossmann's Meinl Byzance Series setup — 14" hi-hats, 18"/19" crashes, and a 21" ride — provides the crisp, controlled foundation his odd-meter work with Obscura and Alkaloid is built on.
 
 This guide breaks down what actually makes a china work at technical death metal's extreme tempos and odd-meter complexity, along with specific model recommendations across every budget.`,
       keyPoints: [
@@ -32312,7 +32312,7 @@ This guide breaks down what actually makes a china work at technical death metal
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Zildjian K Custom Dark, Meinl Byzance) delivers complex, controlled tone that cuts cleanly. B20/B8 blends (Sabian AAX/AAXtreme) offer a brighter, still fast-responding alternative.",
+          description: "B20 bronze (Zildjian A Custom, Meinl Byzance) delivers complex, controlled tone that cuts cleanly. B20/B8 blends (Sabian AAX/AAXtreme) offer a brighter, still fast-responding alternative.",
           recommendation: "B20 for maximum precision and durability under extreme playing demands"
         },
         {
@@ -32336,14 +32336,14 @@ This guide breaks down what actually makes a china work at technical death metal
       pedals: [
         {
           rank: 1,
-          name: "Zildjian K Custom Dark China",
+          name: "Zildjian A Custom China",
           brand: "Zildjian",
           model: "18\" China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€250-300",
           tier: "pro",
           driveType: "B20 Bronze, Dark",
-          description: `George Kollias's Zildjian rig includes an 18" China alongside his K Mastersound hi-hats, K Custom Dark Crashes, and A Custom Mega Bell Ride — a setup built for the extreme technical precision documented across Nile's catalog.
+          description: `George Kollias's Zildjian rig includes an 18" China alongside his K Mastersound hi-hats, A Custom Crashes, and A Custom Mega Bell Ride — a setup built for the extreme technical precision documented across Nile's catalog.
 
 Kollias's sustained 240+ BPM blast beats set the speed benchmark technical death metal drumming measures itself against, and his china stays defined through the fastest, most demanding passages in the genre.`,
           pros: [
@@ -32353,7 +32353,7 @@ Kollias's sustained 240+ BPM blast beats set the speed benchmark technical death
             "B20 bronze durability for relentless touring and recording demands"
           ],
           cons: [
-            "Premium K Custom Dark pricing",
+            "Premium A Custom pricing",
             "Darker voicing than a bright A Custom alternative",
             "18\" size caps low-end weight versus a larger china"
           ],
@@ -32465,7 +32465,7 @@ Grossmann's reputation for precise, technically demanding drumming makes his bro
           ],
           cons: [
             "Not a documented china specifically confirmed for Grossmann",
-            "Less raw/aggressive than an AAXtreme or K Custom Dark alternative",
+            "Less raw/aggressive than an AAXtreme or A Custom alternative",
             "Premium price point"
           ],
           specs: {
@@ -32495,14 +32495,14 @@ Grossmann's reputation for precise, technically demanding drumming makes his bro
           priceRange: "€70-90",
           tier: "budget",
           driveType: "B8 Bronze",
-          description: "Shares brand DNA with George Kollias's Zildjian setup at a fraction of the price. Not as fast-decaying as K Custom Dark, but real Zildjian quality for developing extreme-tempo technique.",
+          description: "Shares brand DNA with George Kollias's Zildjian setup at a fraction of the price. Not as fast-decaying as A Custom, but real Zildjian quality for developing extreme-tempo technique.",
           pros: [
             "Genuine bright, cutting sound at a budget price",
             "Same brand family as George Kollias's Nile setup",
             "Great starting point for developing extreme-tempo drummers"
           ],
           cons: [
-            "B8 alloy lacks the fast-decay precision of K Custom Dark",
+            "B8 alloy lacks the fast-decay precision of A Custom",
             "Less durable under sustained extreme-tempo abuse",
             "Basic build quality at this price point"
           ],
@@ -32560,7 +32560,7 @@ Grossmann's reputation for precise, technically demanding drumming makes his bro
       title: "Fast-Decay vs Controlled-Decay China for Technical Death Metal",
       content: `Decay character is the single biggest factor in whether a china keeps up with technical death metal's extreme tempo and odd-meter demands:
 
-**Fast-Decay China (Zildjian K Custom Dark, Sabian AAXtreme):**
+**Fast-Decay China (Zildjian A Custom, Sabian AAXtreme):**
 - Clears out almost instantly, leaving room for the next accent even at 240+ BPM
 - George Kollias's and Flo Mounier's documented choice for sustained extreme-tempo blast beats
 - Best for pure speed-focused, blast-beat-driven material
@@ -32572,7 +32572,7 @@ Grossmann's reputation for precise, technically demanding drumming makes his bro
 
 **The Truth:** At technical death metal's tempos, both camps prioritize precision over sustain — the real difference is how quickly the china gets out of the way. George Kollias's and Flo Mounier's fast-decay chinas are built for pure velocity, while Derek Roddy's Byzance China trades a small amount of speed for slightly more defined punctuation on complex, odd-meter fills.
 
-**Our Recommendation:** If your material is blast-beat-first and speed-focused, start with a fast-decay china like the K Custom Dark or AAXtreme. If your material leans more toward complex, odd-meter phrasing at slightly more moderate tempo, a Byzance-family china gives you a touch more definition per hit.`,
+**Our Recommendation:** If your material is blast-beat-first and speed-focused, start with a fast-decay china like the A Custom or AAXtreme. If your material leans more toward complex, odd-meter phrasing at slightly more moderate tempo, a Byzance-family china gives you a touch more definition per hit.`,
       comparisonTable: [
         { feature: "Decay Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Definition at Extreme Tempo", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -32588,7 +32588,7 @@ Grossmann's reputation for precise, technically demanding drumming makes his bro
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian K Custom Dark China",
+          pedal: "Zildjian A Custom China",
           reason: "George Kollias's benchmark setup, proven at Nile's sustained 240+ BPM blast beats."
         },
         {
@@ -32616,7 +32616,7 @@ Grossmann's reputation for precise, technically demanding drumming makes his bro
       'best-crash-cymbals-for-technical-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark China proven at Nile\'s 240+ BPM blast beats' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom China proven at Nile\'s 240+ BPM blast beats' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'Meinl Byzance Series rig — precision foundation for Obscura\'s odd-meter work' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance China engineered for extreme-tempo double-kick runs' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAXtreme China — three decades of Cryptopsy precision' }
@@ -32704,7 +32704,7 @@ Start with an 18" fast-decay china in whatever alloy fits your budget, and don't
       title: "Why Death Metal Drummers Reach for a China",
       content: `Death metal buries its cymbal work under downtuned guitars, blast beats, and vocals scraped from the bottom of the throat — which means an accent cymbal has to be genuinely trashy to register at all. A china delivers exactly that: a short, dirty, explosive attack that punches through the mix for a fill-ending crash or a breakdown hit, then gets out of the way before the next blast beat run buries it again.
 
-Gene Hoglan has carried a 20" Sabian AAX China across four decades of work in Death, Testament, and Dethklok, using it as a reliable punctuation mark regardless of which brutal project he's tracking for. George Kollias pairs an 18" Zildjian China with his K Custom Dark crashes to punctuate Nile's blast-beat-heavy, Egyptian-tinged death metal, while Derek Roddy's 18" Meinl Byzance China rounds out the picture, giving his work in Hate Eternal and Nile a darker, heavier trash tone.
+Gene Hoglan has carried a 20" Sabian AAX China across four decades of work in Death, Testament, and Dethklok, using it as a reliable punctuation mark regardless of which brutal project he's tracking for. George Kollias pairs an 18" Zildjian China with his A Custom crashes to punctuate Nile's blast-beat-heavy, Egyptian-tinged death metal, while Derek Roddy's 18" Meinl Byzance China rounds out the picture, giving his work in Hate Eternal and Nile a darker, heavier trash tone.
 
 This guide covers everything you need to pick the right china for death metal: size, alloy, and mounting orientation, along with specific model recommendations across every budget for blast-beat-driven, technically demanding death metal drumming.`,
       keyPoints: [
@@ -32838,20 +32838,20 @@ Flo Mounier relies on the same china for Cryptopsy's technical, blast-beat-satur
         },
         {
           rank: 3,
-          name: "Zildjian K Custom Dark China",
+          name: "Zildjian A Custom China",
           brand: "Zildjian",
-          model: "18\" K Custom Dark China",
+          model: "18\" A Custom China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€230-280",
           tier: "pro",
           driveType: "B20 Bronze, Dark",
-          description: `The K Custom Dark China pairs a controlled, dark trash with sharp definition, giving technical death metal drummers a china that stays readable even at extreme tempo.
+          description: `The A Custom China pairs a controlled, dark trash with sharp definition, giving technical death metal drummers a china that stays readable even at extreme tempo.
 
-George Kollias pairs an 18" Zildjian China with his K Custom Dark crashes to punctuate Nile's blast-beat-heavy, Egyptian-tinged death metal — a setup built for clarity under pressure.`,
+George Kollias pairs an 18" Zildjian China with his A Custom crashes to punctuate Nile's blast-beat-heavy, Egyptian-tinged death metal — a setup built for clarity under pressure.`,
           pros: [
             "Dark, controlled trash with sharp definition",
             "Stays readable at extreme blast-beat tempo",
-            "Pairs cleanly with K Custom Dark crash/ride setups",
+            "Pairs cleanly with A Custom crash/ride setups",
             "Proven on Nile's technical, high-speed material"
           ],
           cons: [
@@ -33034,7 +33034,7 @@ Derek Roddy's 18" Meinl Byzance China rounds out his Mb20-based setup across Hat
         },
         {
           category: "Best for Technical Death Metal",
-          pedal: "Zildjian K Custom Dark China",
+          pedal: "Zildjian A Custom China",
           reason: "Sharp, controlled definition that stays readable at extreme tempo."
         }
       ]
@@ -42002,7 +42002,7 @@ This guide breaks down what actually makes a ride work for technical death metal
           priceRange: "€280-330",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant",
-          description: `George Kollias's 21" Zildjian A Custom Mega Bell Ride is part of a sprawling setup purpose-built for Nile's extreme technical death metal demands, delivering powerful rhythmic definition alongside his K Mastersound Hi-Hats and K Custom Dark Crashes. The oversized bell keeps every stroke legible at the 240+ BPM blast beats defining tracks like "Annihilation of the Wicked."
+          description: `George Kollias's 21" Zildjian A Custom Mega Bell Ride is part of a sprawling setup purpose-built for Nile's extreme technical death metal demands, delivering powerful rhythmic definition alongside his K Mastersound Hi-Hats and A Custom Crashes. The oversized bell keeps every stroke legible at the 240+ BPM blast beats defining tracks like "Annihilation of the Wicked."
 
 The Mega Bell Ride's cutting projection proves a dry, controlled Zildjian setup can cut through even the densest technical death metal arrangements without ever blurring together.`,
           pros: [
@@ -44526,7 +44526,7 @@ Start with one raw, trashy crash in the 17"-19" range, and layer a second voicin
       'crash cymbal for death metal drumming',
       'george kollias crash cymbal',
       'flo mounier crash cymbal',
-      'zildjian k custom dark crash death metal',
+      'zildjian a custom crash death metal',
       'sabian aax hhx crash death metal',
       'dark crash cymbal for blast beats',
       'death metal drummer crash setup',
@@ -44556,12 +44556,12 @@ Start with one raw, trashy crash in the 17"-19" range, and layer a second voicin
       title: "Why Death Metal Crashes Need Weight, Darkness, and Speed",
       content: `Death metal places extreme demands on a crash cymbal that few other genres match. At 220-280 BPM blast beats, a crash has to respond instantly, carry enough dark, heavy tone to cut through down-tuned, distorted guitar walls, and decay fast enough to stay out of the way of the next accent — all while surviving hours of daily punishing practice.
 
-George Kollias of Nile has made his 17" and 18" Zildjian K Custom Dark crashes as recognizable as his inhuman blast beat speed — dark, controlled wash that sits perfectly under Nile's technical death metal complexity while cutting cleanly through dense, layered arrangements. Flo Mounier of Cryptopsy uses Sabian AAX/HHX crashes that deliver full-bodied, controlled chaos even at his insane 280+ BPM tempos.
+George Kollias of Nile has made his 17" and 18" Zildjian A Custom crashes as recognizable as his inhuman blast beat speed — dark, controlled wash that sits perfectly under Nile's technical death metal complexity while cutting cleanly through dense, layered arrangements. Flo Mounier of Cryptopsy uses Sabian AAX/HHX crashes that deliver full-bodied, controlled chaos even at his insane 280+ BPM tempos.
 
 This guide breaks down what actually makes a crash work for death metal — darkness, weight, and speed — and recommends specific models across every budget, from a first dark-toned crash to the exact cymbals death metal's most demanding drummers play.`,
       keyPoints: [
         "Death metal crashes need dark, heavy tone to cut through down-tuned guitar walls without sounding harsh",
-        "George Kollias's Zildjian K Custom Dark and Flo Mounier's Sabian AAX/HHX crashes span the genre's dark-crash spectrum",
+        "George Kollias's Zildjian A Custom and Flo Mounier's Sabian AAX/HHX crashes span the genre's dark-crash spectrum",
         "16\"-18\" is the death metal crash sweet spot, prioritizing fast decay over maximum projection",
         "Crashes must survive hours of daily blast-beat practice without losing their dark, controlled voicing"
       ]
@@ -44574,8 +44574,8 @@ This guide breaks down what actually makes a crash work for death metal — dark
         {
           name: "Dark, Controlled Wash",
           icon: "🌑",
-          description: "Death metal's down-tuned, distorted guitar walls swallow bright, harsh crashes. George Kollias's Zildjian K Custom Dark crashes are voiced with a dark, complex tone that sits under the mix rather than fighting it.",
-          recommendation: "Dark-voiced crashes (K Custom Dark, Sabian AAX/HHX) over bright, brilliant-finish alternatives"
+          description: "Death metal's down-tuned, distorted guitar walls swallow bright, harsh crashes. George Kollias's Zildjian A Custom crashes are voiced with a dark, complex tone that sits under the mix rather than fighting it.",
+          recommendation: "Dark-voiced crashes (A Custom, Sabian AAX/HHX) over bright, brilliant-finish alternatives"
         },
         {
           name: "Fast Decay at Extreme Speed",
@@ -44598,7 +44598,7 @@ This guide breaks down what actually makes a crash work for death metal — dark
         {
           name: "Alloy and Durability",
           icon: "⚙️",
-          description: "Death metal practice and touring is physically brutal on cymbals. Thick B20 bronze (Zildjian K Custom Dark, Sabian AAX/HHX) handles repeated heavy hits without stress fractures, unlike thinner budget alloys.",
+          description: "Death metal practice and touring is physically brutal on cymbals. Thick B20 bronze (Zildjian A Custom, Sabian AAX/HHX) handles repeated heavy hits without stress fractures, unlike thinner budget alloys.",
           recommendation: "B20 bronze minimum for sustained death metal use"
         },
         {
@@ -44616,16 +44616,16 @@ This guide breaks down what actually makes a crash work for death metal — dark
       pedals: [
         {
           rank: 1,
-          name: "Zildjian K Custom Dark Crash",
+          name: "Zildjian A Custom Crash",
           brand: "Zildjian",
-          model: "17\" & 18\" K Custom Dark Crash",
+          model: "17\" & 18\" A Custom Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€200-250",
           tier: "pro",
           driveType: "B20 Bronze, Traditional Dark",
-          description: `George Kollias of Nile runs 17" and 18" Zildjian K Custom Dark Crashes as part of his broader K Custom Dark setup, layered for explosive accent work within Nile's densely arranged, technically demanding death metal. The dark, hand-hammered B20 bronze delivers a complex, controlled wash that sits perfectly under extreme technical death metal without washing out at high speeds.
+          description: `George Kollias of Nile runs 17" and 18" Zildjian A Custom Crashes as part of his broader A Custom setup, layered for explosive accent work within Nile's densely arranged, technically demanding death metal. The dark, hand-hammered B20 bronze delivers a complex, controlled wash that sits perfectly under extreme technical death metal without washing out at high speeds.
 
-George Kollias built his reputation for the fastest feet in death metal while relying on K Custom Dark crashes — proof they respond instantly even at 280 BPM and decay quickly, allowing tight, articulate accent placement within dense double-bass patterns.`,
+George Kollias built his reputation for the fastest feet in death metal while relying on A Custom crashes — proof they respond instantly even at 280 BPM and decay quickly, allowing tight, articulate accent placement within dense double-bass patterns.`,
           pros: [
             "George Kollias's proven Nile setup — the death metal crash gold standard",
             "Dark, controlled wash that cuts without harshness under distorted guitars",
@@ -44645,7 +44645,7 @@ George Kollias built his reputation for the fastest feet in death metal while re
             decay: "Fast, controlled"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "17\" & 18\" K Custom Dark Crashes — the fastest feet in death metal" }
+            { name: "George Kollias", band: "Nile", note: "17\" & 18\" A Custom Crashes — the fastest feet in death metal" }
           ],
           verdict: "The death metal crash standard. If George Kollias trusts these at 280 BPM, they'll handle anything you throw at them.",
           rating: 4.9,
@@ -44666,11 +44666,11 @@ The AAX/HHX B20 alloy gives crashes bright, cutting body and projection at compa
           pros: [
             "Flo Mounier's proven Cryptopsy setup since 2012 — 280+ BPM proof of concept",
             "Full-bodied, powerful crash character at extreme speeds",
-            "More projection than K Custom Dark — cuts louder in dense mixes",
+            "More projection than A Custom — cuts louder in dense mixes",
             "B20 bronze built for the most intense death metal contexts"
           ],
           cons: [
-            "Heavier feel than K Custom Dark — more physical effort at extreme tempos",
+            "Heavier feel than A Custom — more physical effort at extreme tempos",
             "Character is specific — less versatile than dark-toned lines",
             "Premium Sabian pricing"
           ],
@@ -44697,7 +44697,7 @@ The AAX/HHX B20 alloy gives crashes bright, cutting body and projection at compa
           priceRange: "€190-240",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant",
-          description: `The Zildjian A Custom Crash runs 17" and 18" sizes for a brighter, more cutting attack than the K Custom Dark/Sabian AAX-HHX approach favors. The brilliant finish gives fast, defined response essential for precise technical accent work.
+          description: `The Zildjian A Custom Crash runs 17" and 18" sizes for a brighter, more cutting attack than the A Custom/Sabian AAX-HHX approach favors. The brilliant finish gives fast, defined response essential for precise technical accent work.
 
 This crash proves that death metal's dark-crash tradition isn't the only viable path — a brighter, more articulate voice cuts through just as effectively when speed and precision matter more than pure darkness.`,
           pros: [
@@ -44708,7 +44708,7 @@ This crash proves that death metal's dark-crash tradition isn't the only viable 
           cons: [
             "Brighter voice less suited to drummers wanting maximum darkness",
             "Premium Zildjian pricing",
-            "Less common in modern death metal setups than K Custom Dark"
+            "Less common in modern death metal setups than A Custom"
           ],
           specs: {
             size: "17\" & 18\"",
@@ -44741,7 +44741,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
             "Wide range of sizes and models"
           ],
           cons: [
-            "Not as refined as the flagship K Custom Dark or AAX/HHX lines",
+            "Not as refined as the flagship A Custom or AAX/HHX lines",
             "Not tied to a specific death metal legend's setup"
           ],
           specs: {
@@ -44775,12 +44775,12 @@ For death metal specifically, the dark finish and complex overtones sit well und
           driveType: "B20 Bronze",
           description: "The standard K series (not K Custom) offers genuine dark B20 character at a lower price. Crashes from the K line work excellently for death metal and give you real Zildjian dark quality without K Custom prices.",
           pros: [
-            "Dark B20 character similar to K Custom Dark",
+            "Dark B20 character similar to A Custom",
             "More accessible pricing than K Custom",
             "Proven lineage — the original dark Zildjian sound"
           ],
           cons: [
-            "Less refined than K Custom Dark",
+            "Less refined than A Custom",
             "Fewer size options than the flagship line"
           ],
           verdict: "Best dark budget option. Real Zildjian B20 at significantly lower cost.",
@@ -44822,7 +44822,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
             "Excellent value-to-quality ratio"
           ],
           cons: [
-            "Not as dark/controlled as full K Custom Dark or 2002 pro lines",
+            "Not as dark/controlled as full A Custom or 2002 pro lines",
             "Fewer size options than flagship lines"
           ],
           verdict: "Best value pick for a real B20 death metal crash without the pro-tier price.",
@@ -44834,10 +44834,10 @@ For death metal specifically, the dark finish and complex overtones sit well und
 
     // Zildjian vs Paiste comparison
     comparison: {
-      title: "Zildjian K Custom Dark vs Sabian AAX/HHX vs Zildjian A Custom for Death Metal",
+      title: "Zildjian A Custom vs Sabian AAX/HHX vs Zildjian A Custom for Death Metal",
       content: `The dominant crash choices in death metal represent fundamentally different approaches:
 
-**Zildjian K Custom Dark (George Kollias):**
+**Zildjian A Custom (George Kollias):**
 - Darker, more controlled wash
 - Quick decay — crashes don't bleed into each other
 - Complex, musical overtones under technical patterns
@@ -44854,7 +44854,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
 - Fast, defined response for precision accent work
 - Best for: Drummers prioritizing articulation over darkness
 
-**The Verdict:** All three work excellently for death metal. Choose K Custom Dark if you play highly technical patterns needing cymbal clarity within dense arrangements. Choose Sabian AAX/HHX if you want powerful, dramatic crashes that define each accent. Choose A Custom if brightness and articulation matter more to you than darkness.`,
+**The Verdict:** All three work excellently for death metal. Choose A Custom if you play highly technical patterns needing cymbal clarity within dense arrangements. Choose Sabian AAX/HHX if you want powerful, dramatic crashes that define each accent. Choose A Custom if brightness and articulation matter more to you than darkness.`,
       comparisonTable: [
         { feature: "Darkness", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
         { feature: "Crash Power", zildjianK: "⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐⭐" },
@@ -44870,7 +44870,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian K Custom Dark Crash",
+          pedal: "Zildjian A Custom Crash",
           reason: "George Kollias's choice — the gold standard for death metal crash work at any speed."
         },
         {
@@ -44899,13 +44899,13 @@ For death metal specifically, the dark finish and complex overtones sit well und
       'best-hi-hats-for-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — fastest feet in death metal' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Crash — fastest feet in death metal' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 280+ BPM' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash for extreme cutting power at 280 BPM' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Crash for extreme cutting power at 280 BPM' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 280+ BPM' }
     ],
     relatedComparisons: [],
@@ -44914,7 +44914,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
     faq: [
       {
         question: "What crash cymbal does George Kollias use?",
-        answer: "George Kollias of Nile plays 17\" and 18\" Zildjian K Custom Dark Crashes. The dark, controlled wash sits perfectly under Nile's technical death metal complexity, and the fast decay allows precise accent placement within blast beat patterns at 280+ BPM."
+        answer: "George Kollias of Nile plays 17\" and 18\" Zildjian A Custom Crashes. The dark, controlled wash sits perfectly under Nile's technical death metal complexity, and the fast decay allows precise accent placement within blast beat patterns at 280+ BPM."
       },
       {
         question: "What crash cymbal does Flo Mounier use?",
@@ -44922,7 +44922,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
       },
       {
         question: "Are dark crash cymbals better for death metal?",
-        answer: "Generally yes. Dark crashes with controlled wash — like George Kollias's Zildjian K Custom Dark or Flo Mounier's Sabian AAX/HHX — sit better under down-tuned guitars and complex rhythmic patterns at extreme speeds. Bright, brilliant-finish crashes like the Zildjian A Custom work too, but require prioritizing articulation over pure darkness."
+        answer: "Generally yes. Dark crashes with controlled wash — like George Kollias's Zildjian A Custom or Flo Mounier's Sabian AAX/HHX — sit better under down-tuned guitars and complex rhythmic patterns at extreme speeds."
       },
       {
         question: "What size crash is best for death metal?",
@@ -44933,7 +44933,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
     // Conclusion
     conclusion: {
       title: "Choose Your Death Metal Crash Weapon",
-      content: `Death metal crash selection comes down to one question: do you want darkness and control (Zildjian K Custom Dark), power and drama (Sabian AAX/HHX), or brightness and articulation (Zildjian A Custom)? All three approaches are proven at the highest levels of the genre — George Kollias and Flo Mounier represent different but equally valid philosophies.
+      content: `Death metal crash selection comes down to one question: do you want darkness and control (Zildjian A Custom) or power and drama (Sabian AAX/HHX)? Both approaches are proven at the highest levels of the genre — George Kollias and Flo Mounier represent different but equally valid philosophies.
 
 Either way, invest in B20 or CuSn8 bronze. The difference between pro-grade bronze and budget alloys is dramatic under the extreme conditions of death metal playing. A quality dark crash will outlast and outperform generations of cheap cymbals while sounding dramatically better in every context.
 
@@ -45812,7 +45812,7 @@ Start with one dark, heavy crash in the 18"-19" range, and add a second voicing 
       'george kollias crash cymbal',
       'derek roddy crash cymbal',
       'gene hoglan crash cymbal',
-      'zildjian k custom dark crash extreme metal',
+      'zildjian a custom crash extreme metal',
       'sabian aax crash blast beats',
       'durable crash cymbal extreme metal',
       'extreme metal drummer crash setup'
@@ -45841,12 +45841,12 @@ Start with one dark, heavy crash in the 18"-19" range, and add a second voicing 
       title: "Why Extreme Metal Crashes Have to Survive Before They Have to Sound Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality that surrounds them — places durability demands on a crash cymbal that few other genres match. At 200-280 BPM sustained blast beats, a crash gets struck thousands of times a set, night after touring night, and has to keep responding accurately and sounding consistent long after ordinary cymbals would develop keyholing or lose their voice.
 
-George Kollias of Nile runs Zildjian K Custom Dark Crashes in the 17"-19" range, over-hammered for a quick, bright attack and extra-fast decay that keeps pace with blast beats past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Crashes, a long-time Meinl loyalist since the mid-90s whose hand-hammered surface gives his one-footed blast technique a surface built to hold up over time. Gene Hoglan of Death and Testament runs an 18" Sabian AAX X-Plosion Crash, prized for the explosive, immediate punch it delivers under his metronomic "Atomic Clock" precision.
+George Kollias of Nile runs Zildjian A Custom Crashes in the 17"-19" range, over-hammered for a quick, bright attack and extra-fast decay that keeps pace with blast beats past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Crashes, a long-time Meinl loyalist since the mid-90s whose hand-hammered surface gives his one-footed blast technique a surface built to hold up over time. Gene Hoglan of Death and Testament runs an 18" Sabian AAX X-Plosion Crash, prized for the explosive, immediate punch it delivers under his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a crash survive extreme metal's demands — durability, fast attack, and consistent response under sustained abuse — and recommends specific models across every budget, from a first touring-durable crash to the exact cymbals extreme metal's most demanding drummers play.`,
       keyPoints: [
         "Extreme metal's sustained blast beats destroy crashes that work fine in slower metal styles — durability is not optional",
-        "George Kollias's Zildjian K Custom Dark and Gene Hoglan's Sabian AAX X-Plosion Crash both prioritize fast attack and fast decay",
+        "George Kollias's Zildjian A Custom and Gene Hoglan's Sabian AAX X-Plosion Crash both prioritize fast attack and fast decay",
         "Derek Roddy's move to Meinl Byzance Brilliant Heavy Hammered shows how touring durability drives crash choice at the highest level",
         "16\"-19\" crashes dominate extreme metal, favoring quick response over maximum projection"
       ]
@@ -45865,7 +45865,7 @@ This guide breaks down what actually makes a crash survive extreme metal's deman
         {
           name: "Fast Attack, Fast Decay",
           icon: "⚡",
-          description: "At 200-280 BPM, a crash that rings too long buries the next accent. George Kollias's over-hammered Zildjian K Custom Dark Crashes and Gene Hoglan's Sabian AAX X-Plosion Crash both respond instantly and decay quickly to keep pace with sustained blast patterns.",
+          description: "At 200-280 BPM, a crash that rings too long buries the next accent. George Kollias's over-hammered Zildjian A Custom Crashes and Gene Hoglan's Sabian AAX X-Plosion Crash both respond instantly and decay quickly to keep pace with sustained blast patterns.",
           recommendation: "Medium-thin, fast-decaying crashes over slow-building, sustained wash"
         },
         {
@@ -45901,14 +45901,14 @@ This guide breaks down what actually makes a crash survive extreme metal's deman
       pedals: [
         {
           rank: 1,
-          name: "Zildjian K Custom Dark Crash",
+          name: "Zildjian A Custom Crash",
           brand: "Zildjian",
-          model: "17\" & 19\" K Custom Dark Crash",
+          model: "17\" & 19\" A Custom Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€220-290",
           tier: "pro",
           driveType: "B20 Bronze, Over-Hammered",
-          description: `George Kollias of Nile plays 17" and 19" Zildjian K Custom Dark Crashes, using the line's special over-hammering technique for a quick, bright attack and extra-fast decay that lets a heavier crash respond like a thinner one — without sacrificing volume. That combination is exactly what Kollias needs to sustain blast beats past 240 BPM for entire songs.
+          description: `George Kollias of Nile plays 17" and 19" Zildjian A Custom Crashes, using the line's special over-hammering technique for a quick, bright attack and extra-fast decay that lets a heavier crash respond like a thinner one — without sacrificing volume. That combination is exactly what Kollias needs to sustain blast beats past 240 BPM for entire songs.
 
 Kollias's crash choice proves that durability and speed aren't mutually exclusive — the right construction delivers both at once.`,
           pros: [
@@ -45930,7 +45930,7 @@ Kollias's crash choice proves that durability and speed aren't mutually exclusiv
             decay: "Fast, controlled"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "17\" & 19\" K Custom Dark Crashes for 240+ BPM blast beat endurance" }
+            { name: "George Kollias", band: "Nile", note: "17\" & 19\" A Custom Crashes for 240+ BPM blast beat endurance" }
           ],
           verdict: "The extreme metal crash standard for technical death metal. Fast, dark, and durable at the highest tempos.",
           rating: 4.8,
@@ -45954,7 +45954,7 @@ Sabian AAX's B20 construction is built to survive the repeated, high-force strik
             "Strong mid-range value relative to signature-tier alternatives"
           ],
           cons: [
-            "Less dark/complex overtone development than K Custom Dark",
+            "Less dark/complex overtone development than A Custom",
             "Smaller sizes mean less body/projection than an 18\"-19\" crash",
             "Requires a larger complementary crash for fuller-bodied accents"
           ],
@@ -46026,7 +46026,7 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
             "Strong value relative to signature-tier hand-hammered alternatives"
           ],
           cons: [
-            "Less dark/complex than K Custom Dark or Byzance Brilliant Heavy Hammered",
+            "Less dark/complex than A Custom or Byzance Brilliant Heavy Hammered",
             "Single 18\" size lacks the range of a multi-crash setup",
             "Best paired with a second crash for tonal variety"
           ],
@@ -46080,14 +46080,14 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
           priceRange: "€70-95",
           tier: "budget",
           driveType: "B8 Bronze",
-          description: "A budget entry point into the brighter, more articulate K Custom Dark family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing extreme metal drummers still building blast-beat endurance.",
+          description: "A budget entry point into the brighter, more articulate A Custom family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing extreme metal drummers still building blast-beat endurance.",
           pros: [
             "Budget entry into Zildjian's cymbal family",
             "B8 bronze gives cutting, present tone",
             "Widely available and affordable"
           ],
           cons: [
-            "Less durable and complex than K Custom Dark",
+            "Less durable and complex than A Custom",
             "Lacks the refined attack of the professional over-hammered line"
           ],
           verdict: "Best budget path toward the Zildjian side of extreme metal crash tone.",
@@ -46099,10 +46099,10 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
 
     // Comparison
     comparison: {
-      title: "Zildjian K Custom Dark vs Sabian AAX vs Meinl Byzance for Extreme Metal",
+      title: "Zildjian A Custom vs Sabian AAX vs Meinl Byzance for Extreme Metal",
       content: `Durability under sustained blast-beat abuse stays the through-line across extreme metal's crash choices, but weight and brand split the genre's most demanding drummers into distinct camps:
 
-**Zildjian K Custom Dark (George Kollias):**
+**Zildjian A Custom (George Kollias):**
 - Over-hammered for fast attack with heavyweight volume potential
 - Dark, controlled voicing for technical death metal's dense arrangements
 - Best for: Sustained 240+ BPM blast beats in technical death metal
@@ -46117,7 +46117,7 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
 - Complex, dark overtones cut through dense, technical mixes
 - Best for: Drummers who've cycled through other brands and prioritize durability above all
 
-**Our Recommendation:** Start with a Sabian SBR or Zildjian ZBT crash if you're building extreme metal technique on a budget. Choose George Kollias's K Custom Dark for maximum speed at the highest tempos, Gene Hoglan's Sabian AAX for proven mid-range durability, or Derek Roddy's Meinl Byzance Brilliant Heavy Hammered if long-term touring durability is your top priority.`,
+**Our Recommendation:** Start with a Sabian SBR or Zildjian ZBT crash if you're building extreme metal technique on a budget. Choose George Kollias's A Custom for maximum speed at the highest tempos, Gene Hoglan's Sabian AAX for proven mid-range durability, or Derek Roddy's Meinl Byzance Brilliant Heavy Hammered if long-term touring durability is your top priority.`,
       comparisonTable: [
         { feature: "Attack Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Touring Durability", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -46132,7 +46132,7 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian K Custom Dark Crash",
+          pedal: "Zildjian A Custom Crash",
           reason: "George Kollias's Nile setup — fast, dark, and durable enough for 240+ BPM blast beats."
         },
         {
@@ -46161,14 +46161,14 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
       'best-crash-cymbals-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast beat endurance' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Crash — Nile\'s 240+ BPM blast beat endurance' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — one-footed blast durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX X-Plosion Crash — The Atomic Clock\'s precision punch' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast beat endurance' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Crash — Nile\'s 240+ BPM blast beat endurance' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — one-footed blast durability' }
     ],
     relatedComparisons: [],
@@ -46177,7 +46177,7 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
     faq: [
       {
         question: "What crash cymbal does George Kollias use?",
-        answer: "George Kollias of Nile plays 17\" and 19\" Zildjian K Custom Dark Crashes, using the line's over-hammering technique for a quick, bright attack and extra-fast decay that sustains blast beats past 240 BPM."
+        answer: "George Kollias of Nile plays 17\" and 19\" Zildjian A Custom Crashes, using the line's over-hammering technique for a quick, bright attack and extra-fast decay that sustains blast beats past 240 BPM."
       },
       {
         question: "What crash cymbal does Derek Roddy use?",
@@ -46196,7 +46196,7 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
     // Conclusion
     conclusion: {
       title: "Build a Crash Setup That Survives the Blast Beat",
-      content: `Extreme metal's crash philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's fast, over-hammered K Custom Dark or Derek Roddy's hand-hammered Meinl Byzance Brilliant Heavy Hammered, the right extreme metal crash needs to sound the same on the last blast beat of a set as it did on the first.
+      content: `Extreme metal's crash philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's fast, over-hammered A Custom or Derek Roddy's hand-hammered Meinl Byzance Brilliant Heavy Hammered, the right extreme metal crash needs to sound the same on the last blast beat of a set as it did on the first.
 
 Start with one durable, fast-attack crash in the 16"-19" range, and prioritize construction quality over tonal complexity until you know your kit can survive a full extreme metal set night after night.
 
@@ -48332,13 +48332,13 @@ Start with one dark, heavy crash in the 18"-19" range, and add a second voicing 
       title: "Why Deathcore Crashes Need Both Brutal Weight and Blast-Beat Speed",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on crash choice. A single song can alternate between extreme-speed blast beat verses, where a crash needs to stay controlled at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where a dry, aggressive crash needs to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on 18" & 20" Meinl Byzance Extra Dry Medium Crashes, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on 18" & 19" Zildjian K Custom & A Custom Medium Thin Crashes, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays 17" & 18" Zildjian K Custom Dark Crashes.
+Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on 18" & 20" Meinl Byzance Extra Dry Medium Crashes, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on 18" & 19" Zildjian K Custom & A Custom Medium Thin Crashes, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays 17" & 18" Zildjian A Custom Crashes.
 
 This guide breaks down what actually makes a crash work for deathcore — dry control for breakdowns, brutal aggressive attack, or extreme-speed clarity — and recommends specific models across every budget, from a first dark crash to the exact cymbals deathcore's closest lineage plays.`,
       keyPoints: [
         "Deathcore crashes must handle both extreme-speed blast beat verses and crushing, syncopated breakdown sections",
         "Chris Turner's Meinl Byzance Extra Dry Medium Crashes bring progressive metalcore precision to deathcore-adjacent blast-beat fills",
-        "George Kollias's Zildjian K Custom Dark Crashes set the extreme-speed benchmark deathcore's fastest blast sections measure themselves against"
+        "George Kollias's Zildjian A Custom Crashes set the extreme-speed benchmark deathcore's fastest blast sections measure themselves against"
       ]
     },
 
@@ -48361,19 +48361,19 @@ This guide breaks down what actually makes a crash work for deathcore — dry co
         {
           name: "Extreme-Speed Clarity for Blast Beats",
           icon: "⚡",
-          description: "A deathcore crash has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's K Custom Dark Crashes) or a slow, riff-locked breakdown groove (Ben Koller's K Custom & A Custom Medium Thin Crashes).",
+          description: "A deathcore crash has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's A Custom Crashes) or a slow, riff-locked breakdown groove (Ben Koller's K Custom & A Custom Medium Thin Crashes).",
           recommendation: "A rapid-decay crash for clear definition at extreme blast-beat tempo"
         },
         {
           name: "Brightness vs. Darkness Tradeoff",
           icon: "⚖️",
-          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K Custom Dark lean brighter for cutting projection at speed, while Ben Koller's Zildjian K Custom & A Custom leans darker for a trashier, more crushing breakdown voice.",
+          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian A Custom lean brighter for cutting projection at speed, while Ben Koller's Zildjian K Custom & A Custom leans darker for a trashier, more crushing breakdown voice.",
           recommendation: "Brighter voicing for blast-beat cut; darker voicing for maximum breakdown weight"
         },
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Meinl Byzance, Zildjian K Custom & A Custom/K Custom Dark) delivers deathcore's dark complexity, while B10 bronze (Meinl Classics Custom Dark) offers a more accessible route to the same dark-toned philosophy.",
+          description: "B20 bronze (Meinl Byzance, Zildjian K Custom & A Custom/A Custom) delivers deathcore's dark complexity, while B10 bronze (Meinl Classics Custom Dark) offers a more accessible route to the same dark-toned philosophy.",
           recommendation: "B20 bronze for pro-level darkness and durability, B10 for a real mid-tier entry"
         },
         {
@@ -48465,14 +48465,14 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
         },
         {
           rank: 3,
-          name: "Zildjian K Custom Dark Crash",
+          name: "Zildjian A Custom Crash",
           brand: "Zildjian",
-          model: "17\" & 18\" K Custom Dark Crash",
+          model: "17\" & 18\" A Custom Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg",
           priceRange: "€230-300",
           tier: "pro",
           driveType: "B20 Bronze",
-          description: `George Kollias of Nile — sustaining blast beats past 240 BPM — plays 17" and 18" Zildjian K Custom Dark Crashes for explosive accent layering built for extreme-speed clarity.
+          description: `George Kollias of Nile — sustaining blast beats past 240 BPM — plays 17" and 18" Zildjian A Custom Crashes for explosive accent layering built for extreme-speed clarity.
 
 This setup sets the extreme-speed benchmark deathcore's fastest blast sections measure themselves against, before the track drops into a breakdown. Kollias's instructional materials on blast beat technique make his crash choice a reliable reference point for deathcore drummers building their own extreme-speed setup.`,
           pros: [
@@ -48483,7 +48483,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           ],
           cons: [
             "Voiced for extreme speed rather than maximum breakdown darkness",
-            "Premium K Custom Dark pricing",
+            "Premium A Custom pricing",
             "Less immediately suited to slow, riff-locked breakdown sections without a darker crash added"
           ],
           specs: {
@@ -48494,7 +48494,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
             decay: "Fast, explosive"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "17\" & 18\" K Custom Dark Crashes — the 240+ BPM blast-beat benchmark deathcore measures itself against" }
+            { name: "George Kollias", band: "Nile", note: "17\" & 18\" A Custom Crashes — the 240+ BPM blast-beat benchmark deathcore measures itself against" }
           ],
           verdict: "Best for deathcore's fastest, most blast-driven sections. Kollias's crash sets the extreme-speed standard.",
           rating: 4.7,
@@ -48536,14 +48536,14 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           priceRange: "€60-90",
           tier: "budget",
           driveType: "B8 Bronze",
-          description: "A budget entry point into the K Custom & A Custom/K Custom Dark family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing deathcore drummers still building blast-to-breakdown technique.",
+          description: "A budget entry point into the K Custom & A Custom/A Custom family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing deathcore drummers still building blast-to-breakdown technique.",
           pros: [
             "Budget entry into Zildjian's K Custom & A Custom family sound",
             "B8 bronze gives cutting, present tone",
             "Widely available and affordable"
           ],
           cons: [
-            "Less complex and durable than K Custom & A Custom or K Custom Dark",
+            "Less complex and durable than K Custom & A Custom or A Custom",
             "Lacks the refined articulation of the professional setups"
           ],
           verdict: "Best budget path toward the technical, Zildjian side of deathcore crash tone.",
@@ -48555,7 +48555,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 
     // Comparison
     comparison: {
-      title: "Meinl Byzance vs Zildjian K Custom & A Custom/K Custom Dark for Deathcore",
+      title: "Meinl Byzance vs Zildjian K Custom & A Custom/A Custom for Deathcore",
       content: `Deathcore's blast-into-breakdown split shows up clearly across its closest lineage's crash choices:
 
 **Meinl Byzance Extra Dry Medium (Chris Turner):**
@@ -48566,11 +48566,11 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 - Rapid-decay, dark, versatile across both speed and breakdown weight
 - Best for: Organic, dynamically varied deathcore
 
-**Zildjian K Custom Dark (George Kollias):**
+**Zildjian A Custom (George Kollias):**
 - Explosive, extreme-speed clarity at 240+ BPM
 - Best for: Deathcore's fastest, most blast-beat-driven sections
 
-**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT crash if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry Medium for technical blast-and-breakdown balance, Zildjian K Custom & A Custom for organic breakdown weight, or Zildjian K Custom Dark if your material is blast-beat-dominant.`,
+**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT crash if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry Medium for technical blast-and-breakdown balance, Zildjian K Custom & A Custom for organic breakdown weight, or Zildjian A Custom if your material is blast-beat-dominant.`,
       comparisonTable: [
         { feature: "Breakdown Weight/Darkness", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Extreme-Speed Clarity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -48590,7 +48590,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
         },
         {
           category: "Best for Extreme-Speed Blast Beats",
-          pedal: "Zildjian K Custom Dark Crash",
+          pedal: "Zildjian A Custom Crash",
           reason: "George Kollias's Nile setup — the 240+ BPM benchmark deathcore's blast sections measure themselves against."
         },
         {
@@ -48612,13 +48612,13 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Extra Dry Medium Crash — Oceans Ate Alaska\'s blast-beat-driven precision' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom & A Custom Medium Thin Crash — Converge\'s hardcore/mathcore intensity' },
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast-beat benchmark' }
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Crash — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Extra Dry Medium Crash — Oceans Ate Alaska\'s blast-beat-driven precision' },
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast-beat benchmark' }
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Crash — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
     relatedComparisons: [],
 
@@ -48630,7 +48630,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
       },
       {
         question: "What crash cymbal does George Kollias use?",
-        answer: "George Kollias of Nile plays 17\" and 18\" Zildjian K Custom Dark Crashes as part of a setup built for extreme-speed clarity, sustaining blast beats past 240 BPM — the benchmark deathcore's fastest blast sections measure themselves against."
+        answer: "George Kollias of Nile plays 17\" and 18\" Zildjian A Custom Crashes as part of a setup built for extreme-speed clarity, sustaining blast beats past 240 BPM — the benchmark deathcore's fastest blast sections measure themselves against."
       },
       {
         question: "What crash cymbal is best for deathcore breakdowns specifically?",
@@ -48645,7 +48645,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     // Conclusion
     conclusion: {
       title: "Build Your Deathcore Crash Sound Around the Blast-to-Breakdown Split",
-      content: `Deathcore's crash philosophy comes down to one core tension: extreme-speed clarity versus crushing breakdown weight. Whether you build around Chris Turner's controlled, technical Meinl Byzance Extra Dry Medium Crash, Ben Koller's dark, versatile Zildjian K Custom & A Custom Medium Thin Crash, or George Kollias's extreme-speed Zildjian K Custom Dark, the right deathcore crash should handle both halves of the genre's split identity.
+      content: `Deathcore's crash philosophy comes down to one core tension: extreme-speed clarity versus crushing breakdown weight. Whether you build around Chris Turner's controlled, technical Meinl Byzance Extra Dry Medium Crash, Ben Koller's dark, versatile Zildjian K Custom & A Custom Medium Thin Crash, or George Kollias's extreme-speed Zildjian A Custom, the right deathcore crash should handle both halves of the genre's split identity.
 
 Start with one dry, controlled crash in the 18"-20" range, and add a second, brighter or faster-decaying voicing once you know whether your deathcore leans more blast-beat-technical or breakdown-first.
 
@@ -72333,7 +72333,7 @@ Start with a single 10" splash mounted close to your snare, and consider a secon
       'splash cymbal for death metal drumming',
       'george kollias splash cymbal',
       'flo mounier splash cymbal',
-      'zildjian k custom dark splash',
+      'zildjian a custom splash',
       'sabian aax hhx splash death metal',
       'splash cymbal for blast beats',
       'best splash cymbal 2026',
@@ -72363,12 +72363,12 @@ Start with a single 10" splash mounted close to your snare, and consider a secon
       title: "A Small Cymbal for Death Metal's Biggest Moments of Contrast",
       content: `Death metal's cymbal setups are built around survival first — thick, dark-toned crashes and rides that can take thousands of blast-beat strikes a set without keyholing. A splash cymbal solves a different problem entirely: at 8" to 12", it decays almost instantly rather than sustaining, giving a drummer a sharp, isolated accent for the rare moment a blast-beat-driven arrangement drops into a tempo change, a breakdown, or a single punctuated stab that a full-size crash would simply wash over.
 
-George Kollias of Nile pairs his 17" and 18" Zildjian K Custom Dark crashes with a matching splash within the same K Custom family, giving Nile's technical, blast-beat-dense arrangements a controlled, dark-toned accent for the rare open space in his otherwise relentless playing. Flo Mounier of Cryptopsy runs a Sabian AAX/HHX splash alongside his full-bodied AAX/HHX crash setup, using the same bright, cutting B20 bronze voicing at accent scale that lets his 280+ BPM material punch through.
+George Kollias of Nile pairs his 17" and 18" Zildjian A Custom crashes with a matching splash within the same K Custom family, giving Nile's technical, blast-beat-dense arrangements a controlled, dark-toned accent for the rare open space in his otherwise relentless playing. Flo Mounier of Cryptopsy runs a Sabian AAX/HHX splash alongside his full-bodied AAX/HHX crash setup, using the same bright, cutting B20 bronze voicing at accent scale that lets his 280+ BPM material punch through.
 
 Splash cymbals remain rare in death metal precisely because the genre's relentless tempo leaves little room for a cymbal whose entire purpose is a single isolated hit — most developing death metal drummers build out a crash, ride, and china setup long before considering a splash. But for the tempo breaks, groove sections, and technical fills that do open up space, a splash gives a death metal drummer a tonal option nothing else in a standard setup provides. This guide covers what actually matters when choosing a splash cymbal for death metal — darkness, size, and durability under extreme technique — with specific recommendations across every budget.`,
       keyPoints: [
         "A splash's near-instant decay gives death metal drummers a controlled accent for the rare tempo break or open passage a blast-beat arrangement allows",
-        "George Kollias runs a Zildjian K Custom Dark-family splash alongside his 17\"/18\" K Custom Dark crashes for Nile's technical material",
+        "George Kollias runs a Zildjian A Custom-family splash alongside his 17\"/18\" A Custom crashes for Nile's technical material",
         "Flo Mounier's Sabian AAX/HHX splash extends the same bright, cutting voicing behind his crash setup down to accent scale"
       ]
     },
@@ -72380,7 +72380,7 @@ Splash cymbals remain rare in death metal precisely because the genre's relentle
         {
           name: "Dark, Controlled Voicing",
           icon: "🌑",
-          description: "Death metal's down-tuned, distorted mix rewards a splash with dark, controlled overtones rather than a thin, glassy stab. Zildjian K Custom Dark and Meinl Byzance Dark both deliver a splash voice that matches the genre's heavier crash and ride tone.",
+          description: "Death metal's down-tuned, distorted mix rewards a splash with dark, controlled overtones rather than a thin, glassy stab. Zildjian A Custom and Meinl Byzance Dark both deliver a splash voice that matches the genre's heavier crash and ride tone.",
           recommendation: "Dark-voiced splashes that match the tonal character of your existing crashes and rides"
         },
         {
@@ -72429,11 +72429,11 @@ Splash cymbals remain rare in death metal precisely because the genre's relentle
           priceRange: "€130-160",
           tier: "pro",
           driveType: "B20 Bronze, Traditional/Brilliant Hybrid Finish",
-          description: `The K Custom Hybrid splash pairs a dark, controlled overtone structure with enough brightness to cut through a dense, down-tuned mix — a natural accent-scale extension of the K Custom Dark voicing behind George Kollias's crash setup.
+          description: `The K Custom Hybrid splash pairs a dark, controlled overtone structure with enough brightness to cut through a dense, down-tuned mix — a natural accent-scale extension of the A Custom voicing behind George Kollias's crash setup.
 
 Nile's technical, blast-beat-dense arrangements leave little room for a splash, but where they do, this is the same tonal family George Kollias already runs for crashes and hi-hats, giving his setup a consistent, dark-toned voice down to the accent level.`,
           pros: [
-            "Dark, complex overtone structure consistent with K Custom Dark crashes and hi-hats",
+            "Dark, complex overtone structure consistent with A Custom crashes and hi-hats",
             "Cuts clearly through a dense, down-tuned death metal mix",
             "Heavy-gauge B20 bronze built for sustained blast-beat abuse",
             "Fast decay ideal for isolated accent hits between blast sections"
@@ -72450,7 +72450,7 @@ Nile's technical, blast-beat-dense arrangements leave little room for a splash, 
             weight: "Medium-Thin"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "K Custom Dark-family splash alongside 17\"/18\" K Custom Dark crashes" }
+            { name: "George Kollias", band: "Nile", note: "A Custom-family splash alongside 17\"/18\" A Custom crashes" }
           ],
           verdict: "The best all-around pick for death metal, matching George Kollias's dark, controlled accent voice.",
           rating: 4.7,
@@ -72668,7 +72668,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
         {
           category: "Best Overall",
           pedal: "Zildjian K Custom Hybrid Splash",
-          reason: "The dark, controlled accent voice that matches George Kollias's K Custom Dark crash setup for Nile."
+          reason: "The dark, controlled accent voice that matches George Kollias's A Custom crash setup for Nile."
         },
         {
           category: "Most Explosive",
@@ -72695,7 +72695,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
       'best-ride-cymbals-for-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'K Custom Dark-family splash alongside 17"/18" K Custom Dark crashes — Nile\'s technical blast-beat arrangements' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'A Custom-family splash alongside 17"/18" A Custom crashes — Nile\'s technical blast-beat arrangements' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX splash — Cryptopsy\'s explosive 280+ BPM material' }
     ],
     relatedComparisons: [],
@@ -76936,12 +76936,12 @@ Start with one splash matched to how quiet your quietest sections actually get, 
       title: "Why an Extreme Metal Splash Needs to Survive Before It Needs to Sound Good",
       content: `Extreme metal's sustained, 200-280 BPM blast beats put the same durability demands on a splash cymbal that they put on a crash — even though a splash gets struck far less often. A splash's bright, near-instant decay, typically from an 8" to 12" cymbal, can punctuate a fill or mark a tempo shift between blast sections, but only if it's built from the same durable, professional-tier construction that lets extreme metal's crashes survive a full set night after night.
 
-None of extreme metal's most demanding drummers have a widely documented signature splash rig, so this guide extends what's already established about their crash choices. George Kollias of Nile runs over-hammered Zildjian K Custom Dark Crashes for fast attack and extra-fast decay at 240+ BPM — the exact response profile a splash should match. Derek Roddy of Hate Eternal and Nile plays hand-hammered Meinl Byzance Brilliant Heavy Hammered Crashes, chosen specifically for long-term touring durability. Gene Hoglan of Death and Testament runs an explosive Sabian AAX X-Plosion Crash that's carried "The Atomic Clock" through four decades of professional touring.
+None of extreme metal's most demanding drummers have a widely documented signature splash rig, so this guide extends what's already established about their crash choices. George Kollias of Nile runs over-hammered Zildjian A Custom Crashes for fast attack and extra-fast decay at 240+ BPM — the exact response profile a splash should match. Derek Roddy of Hate Eternal and Nile plays hand-hammered Meinl Byzance Brilliant Heavy Hammered Crashes, chosen specifically for long-term touring durability. Gene Hoglan of Death and Testament runs an explosive Sabian AAX X-Plosion Crash that's carried "The Atomic Clock" through four decades of professional touring.
 
 This guide covers what actually matters when adding a splash to an extreme metal setup — durability, fast attack, and fast decay — with specific recommendations across every budget.`,
       keyPoints: [
         "No extreme metal drummer has a widely documented signature splash rig — this guide extends what's known about their proven, durable crash choices instead",
-        "George Kollias's over-hammered Zildjian K Custom Dark Crash sets the fast-attack, fast-decay standard a splash should match",
+        "George Kollias's over-hammered Zildjian A Custom Crash sets the fast-attack, fast-decay standard a splash should match",
         "Derek Roddy's career-long move to Meinl Byzance Brilliant Heavy Hammered Crashes shows how touring durability drives gear choice at every level of an extreme metal setup",
         "A splash used at a tempo transition or fill accent still needs B20 bronze durability, even though it's struck far less often than a crash"
       ]
@@ -76960,7 +76960,7 @@ This guide covers what actually matters when adding a splash to an extreme metal
         {
           name: "Fast Attack, Fast Decay",
           icon: "⚡",
-          description: "At 200-280 BPM, a splash that rings too long buries the next accent just as badly as an over-ringing crash would. George Kollias's over-hammered Zildjian K Custom Dark Crashes model exactly the instant response a splash needs to keep pace.",
+          description: "At 200-280 BPM, a splash that rings too long buries the next accent just as badly as an over-ringing crash would. George Kollias's over-hammered Zildjian A Custom Crashes model exactly the instant response a splash needs to keep pace.",
           recommendation: "Thin, fast-decaying splashes that respond instantly at extreme metal's fastest tempos"
         },
         {
@@ -76972,7 +76972,7 @@ This guide covers what actually matters when adding a splash to an extreme metal
         {
           name: "Metal Alloy",
           icon: "🔥",
-          description: "B20 bronze (Zildjian K Custom Dark, Sabian AAX, Meinl Byzance) is the professional standard, delivering the durability and tonal complexity extreme metal's sustained abuse demands. A budget alloy simply won't hold up as long under the same playing intensity.",
+          description: "B20 bronze (Zildjian A Custom, Sabian AAX, Meinl Byzance) is the professional standard, delivering the durability and tonal complexity extreme metal's sustained abuse demands. A budget alloy simply won't hold up as long under the same playing intensity.",
           recommendation: "B20 bronze minimum for any extreme metal splash used in regular touring or recording"
         },
         {
@@ -76996,18 +76996,18 @@ This guide covers what actually matters when adding a splash to an extreme metal
       pedals: [
         {
           rank: 1,
-          name: "Zildjian K Custom Dark Splash",
+          name: "Zildjian A Custom Splash",
           brand: "Zildjian",
-          model: "K Custom Dark Splash 10\"",
+          model: "A Custom Splash 10\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€130-160",
           tier: "pro",
           driveType: "B20 Bronze, Over-Hammered Dark Finish",
-          description: `This splash carries the same over-hammered construction behind George Kollias's Zildjian K Custom Dark Crash setup for Nile, giving a fast, dark accent that keeps pace with blast beats past 240 BPM without demanding a slow build-up.
+          description: `This splash carries the same over-hammered construction behind George Kollias's Zildjian A Custom Crash setup for Nile, giving a fast, dark accent that keeps pace with blast beats past 240 BPM without demanding a slow build-up.
 
 Its dark, controlled voicing cuts through Nile's dense, technical arrangements the same way Kollias's crash does, making it a natural extension rather than an unrelated tonal addition.`,
           pros: [
-            "Matches George Kollias's proven over-hammered K Custom Dark crash voicing",
+            "Matches George Kollias's proven over-hammered A Custom crash voicing",
             "Fast attack and extra-fast decay keeps pace with 240+ BPM blast beats",
             "Dark, controlled tone cuts through dense, technical arrangements",
             "Zildjian's professional-tier build quality for demanding touring schedules"
@@ -77047,7 +77047,7 @@ Its bright, explosive attack matches the same immediate punch that's carried Hog
             "Reliable, professional build quality for demanding touring schedules"
           ],
           cons: [
-            "Less dark/complex overtone development than K Custom Dark",
+            "Less dark/complex overtone development than A Custom",
             "Requires a larger complementary crash for fuller-bodied accents",
             "Sold individually, adding to overall cymbal setup cost"
           ],
@@ -77115,7 +77115,7 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
             "Strong value relative to signature-tier hand-hammered alternatives"
           ],
           cons: [
-            "Less dark/complex than K Custom Dark or Byzance Brilliant Heavy Hammered",
+            "Less dark/complex than A Custom or Byzance Brilliant Heavy Hammered",
             "Best paired with a matching crash for full tonal consistency",
             "Sold individually, adding to overall cymbal setup cost"
           ],
@@ -77166,14 +77166,14 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
           priceRange: "€35-50",
           tier: "budget",
           driveType: "B8 Bronze",
-          description: "A budget entry point into the brighter, more articulate K Custom Dark family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing extreme metal drummers still building blast-beat endurance.",
+          description: "A budget entry point into the brighter, more articulate A Custom family sound. B8 bronze construction gives a cutting, if less complex, voice well-suited to developing extreme metal drummers still building blast-beat endurance.",
           pros: [
             "Budget entry into Zildjian's cymbal family",
             "B8 bronze gives cutting, present tone",
             "Widely available and affordable"
           ],
           cons: [
-            "Less durable and complex than K Custom Dark",
+            "Less durable and complex than A Custom",
             "Lacks the refined attack of the professional over-hammered line"
           ],
           verdict: "Best budget path toward the Zildjian side of extreme metal splash tone.",
@@ -77206,10 +77206,10 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
 
     // Comparison
     comparison: {
-      title: "Zildjian K Custom Dark vs Sabian AAX vs Meinl Byzance Splash for Extreme Metal",
+      title: "Zildjian A Custom vs Sabian AAX vs Meinl Byzance Splash for Extreme Metal",
       content: `Durability under sustained blast-beat abuse stays the through-line across extreme metal's splash choices, mirroring the same split that defines the genre's crash cymbals:
 
-**Zildjian K Custom Dark (in the spirit of George Kollias):**
+**Zildjian A Custom (in the spirit of George Kollias):**
 - Over-hammered for fast attack with a dark, controlled decay
 - Best for: Sustained 240+ BPM blast beats in technical death metal
 
@@ -77221,7 +77221,7 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
 - Hand-hammered B20 bronze refined for maximum long-term touring durability
 - Best for: Drummers who've cycled through other brands and prioritize durability above all
 
-**Our Recommendation:** Start with a Sabian SBR or Zildjian Planet Z splash if you're building extreme metal technique on a budget. Choose the K Custom Dark family for maximum speed at the highest tempos, Sabian AAX for proven mid-range durability, or Meinl Byzance Brilliant Heavy Hammered if long-term touring durability is your top priority — matching whichever crash family you already run.`,
+**Our Recommendation:** Start with a Sabian SBR or Zildjian Planet Z splash if you're building extreme metal technique on a budget. Choose the A Custom family for maximum speed at the highest tempos, Sabian AAX for proven mid-range durability, or Meinl Byzance Brilliant Heavy Hammered if long-term touring durability is your top priority — matching whichever crash family you already run.`,
       comparisonTable: [
         { feature: "Attack Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Touring Durability", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -77236,7 +77236,7 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian K Custom Dark Splash",
+          pedal: "Zildjian A Custom Splash",
           reason: "Extends George Kollias's Nile-proven crash voicing — fast, dark, and durable enough for 240+ BPM blast beats."
         },
         {
@@ -77264,7 +77264,7 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
       'best-cymbals-for-extreme-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast beat endurance, the standard this guide\'s top splash pick extends' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Crash — Nile\'s 240+ BPM blast beat endurance, the standard this guide\'s top splash pick extends' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — one-footed blast durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX X-Plosion Crash — The Atomic Clock\'s precision punch' }
     ],
@@ -77278,7 +77278,7 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
       },
       {
         question: "What splash cymbal fits George Kollias's crash setup?",
-        answer: "A Zildjian K Custom Dark Splash extends the same over-hammered construction behind Kollias's 17\" and 19\" K Custom Dark Crashes for Nile, giving a fast, dark accent that keeps pace with blast beats past 240 BPM."
+        answer: "A Zildjian A Custom Splash extends the same over-hammered construction behind Kollias's 17\" and 19\" A Custom Crashes for Nile, giving a fast, dark accent that keeps pace with blast beats past 240 BPM."
       },
       {
         question: "Why do extreme metal splashes need the same durability as crashes?",
@@ -77290,14 +77290,14 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
       },
       {
         question: "What's the best budget splash cymbal for extreme metal?",
-        answer: "The Sabian SBR Splash (€30-45) carries the same brand lineage as Gene Hoglan's professional AAX setup at a fraction of the price, while the Zildjian Planet Z Splash (€35-50) offers a budget path into K Custom Dark-style tone."
+        answer: "The Sabian SBR Splash (€30-45) carries the same brand lineage as Gene Hoglan's professional AAX setup at a fraction of the price, while the Zildjian Planet Z Splash (€35-50) offers a budget path into A Custom-style tone."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build a Splash That Survives the Blast Beat Too",
-      content: `Extreme metal's splash philosophy comes down to the same core idea that governs its crash choices: durability comes first, tone second. Whether you extend George Kollias's fast, over-hammered K Custom Dark, Gene Hoglan's proven, durable Sabian AAX, or Derek Roddy's hand-hammered Meinl Byzance Brilliant Heavy Hammered into a matching splash, the right accent needs to sound the same on the last blast beat of a set as it did on the first.
+      content: `Extreme metal's splash philosophy comes down to the same core idea that governs its crash choices: durability comes first, tone second. Whether you extend George Kollias's fast, over-hammered A Custom, Gene Hoglan's proven, durable Sabian AAX, or Derek Roddy's hand-hammered Meinl Byzance Brilliant Heavy Hammered into a matching splash, the right accent needs to sound the same on the last blast beat of a set as it did on the first.
 
 Start with one durable, fast-decaying splash in the 8"-10" range, matched to whichever crash family you already run, and prioritize construction quality over tonal complexity until you know your kit can survive a full extreme metal set night after night.
 
@@ -77350,7 +77350,7 @@ Start with one durable, fast-decaying splash in the 8"-10" range, matched to whi
       title: "Punctuating the Turn From Blast to Breakdown",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket, and that split identity gives a splash cymbal a genuinely useful, specific job: marking the exact pivot point where an extreme-speed blast section drops into a slower, syncopated breakdown. A splash's bright, near-instant decay — typically from an 8" to 12" cymbal — punctuates that transition more precisely than a full-size crash, which tends to ring on into the breakdown's first hits rather than cleanly announcing the change.
 
-None of deathcore's core drummers have a widely documented signature splash rig, so this guide extends what's already established about their crash choices. Chris Turner of Oceans Ate Alaska plays a dry Meinl Byzance Extra Dry Medium Crash built for blast-beat-driven precision. Ben Koller of Converge plays a Zildjian K Custom & A Custom Medium Thin Crash that carries his hardcore and mathcore intensity. George Kollias of Nile, deathcore's clearest blast-beat benchmark, runs over-hammered Zildjian K Custom Dark Crashes built for 240+ BPM endurance.
+None of deathcore's core drummers have a widely documented signature splash rig, so this guide extends what's already established about their crash choices. Chris Turner of Oceans Ate Alaska plays a dry Meinl Byzance Extra Dry Medium Crash built for blast-beat-driven precision. Ben Koller of Converge plays a Zildjian K Custom & A Custom Medium Thin Crash that carries his hardcore and mathcore intensity. George Kollias of Nile, deathcore's clearest blast-beat benchmark, runs over-hammered Zildjian A Custom Crashes built for 240+ BPM endurance.
 
 This guide covers what actually matters when adding a splash to a deathcore setup — dry control for breakdown weight, fast decay for blast sections, and durability under sustained abuse — with specific recommendations across every budget.`,
       keyPoints: [
@@ -77380,7 +77380,7 @@ This guide covers what actually matters when adding a splash to a deathcore setu
         {
           name: "Fast Attack, Fast Decay for Blast Sections",
           icon: "⚡",
-          description: "Deathcore's blast sections run at the same extreme tempos as straight extreme metal. George Kollias's over-hammered Zildjian K Custom Dark Crash models the fast attack and extra-fast decay a splash needs to keep pace before the breakdown hits.",
+          description: "Deathcore's blast sections run at the same extreme tempos as straight extreme metal. George Kollias's over-hammered Zildjian A Custom Crash models the fast attack and extra-fast decay a splash needs to keep pace before the breakdown hits.",
           recommendation: "Thin, fast-decaying splashes that respond instantly at blast-section tempos"
         },
         {
@@ -77476,16 +77476,16 @@ That dryness matters specifically at the pivot point deathcore's structure depen
         },
         {
           rank: 3,
-          name: "Zildjian K Custom Dark Splash",
+          name: "Zildjian A Custom Splash",
           brand: "Zildjian",
-          model: "K Custom Dark Splash 10\"",
+          model: "A Custom Splash 10\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€130-160",
           tier: "pro",
           driveType: "B20 Bronze, Over-Hammered Dark Finish",
-          description: `The K Custom Dark Splash extends George Kollias's over-hammered Zildjian K Custom Dark Crash setup for Nile — deathcore's clearest blast-beat benchmark — for drummers whose deathcore material leans heavily into extreme-speed blast sections.`,
+          description: `The A Custom Splash extends George Kollias's over-hammered Zildjian A Custom Crash setup for Nile — deathcore's clearest blast-beat benchmark — for drummers whose deathcore material leans heavily into extreme-speed blast sections.`,
           pros: [
-            "Matches George Kollias's proven, 240+ BPM-capable K Custom Dark crash voicing",
+            "Matches George Kollias's proven, 240+ BPM-capable A Custom crash voicing",
             "Fast attack and extra-fast decay keeps pace with the fastest blast sections",
             "Dark, controlled tone cuts through dense, technical arrangements",
             "Zildjian's professional-tier build quality for demanding touring schedules"
@@ -77521,7 +77521,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
           priceRange: "€35-50",
           tier: "budget",
           driveType: "B8 Bronze",
-          description: "A budget B8 bronze splash from Zildjian's entry-level Planet Z line, offering a usable transition accent at a fraction of the K Custom Dark Splash's price — a genuine starting point for learning blast-to-breakdown punctuation.",
+          description: "A budget B8 bronze splash from Zildjian's entry-level Planet Z line, offering a usable transition accent at a fraction of the A Custom Splash's price — a genuine starting point for learning blast-to-breakdown punctuation.",
           pros: [
             "Very affordable entry point from a trusted major brand",
             "Usable, clearly audible transition accent",
@@ -77590,7 +77590,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
 - The natural extension of Chris Turner's and Ben Koller's dry/dark crash setups
 - Best when your deathcore leans toward crushing breakdowns and controlled precision
 
-**Fast/Blast-Ready Splashes (Zildjian K Custom Dark, over-hammered):**
+**Fast/Blast-Ready Splashes (Zildjian A Custom, over-hammered):**
 - Extra-fast attack and decay built to keep pace with 240+ BPM blast sections
 - The natural extension of George Kollias's over-hammered crash voicing
 - Best when your deathcore leans heavily into extreme-speed blast sections
@@ -77623,7 +77623,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
         },
         {
           category: "Best for Blast-Heavy Material",
-          pedal: "Zildjian K Custom Dark Splash",
+          pedal: "Zildjian A Custom Splash",
           reason: "Matches George Kollias's 240+ BPM-capable crash voicing for deathcore's fastest sections."
         }
       ]
@@ -77638,7 +77638,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Extra Dry Medium Crash — Oceans Ate Alaska\'s blast-beat-driven precision, this guide\'s top splash pick' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom & A Custom Medium Thin Crash — Converge\'s hardcore/mathcore intensity' },
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast-beat benchmark' }
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Crash — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
     relatedComparisons: [],
 
@@ -77654,7 +77654,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
       },
       {
         question: "Dry/dark or fast/bright splash cymbal — which is better for deathcore?",
-        answer: "It depends which side of deathcore's blast-into-breakdown structure your material leans toward. A dry or dark splash (Meinl Byzance Extra Dry, Zildjian K Custom & A Custom) suits breakdown-heavy writing, in the mold of Chris Turner and Ben Koller. A fast, over-hammered splash (Zildjian K Custom Dark) suits blast-heavy writing, in the mold of George Kollias."
+        answer: "It depends which side of deathcore's blast-into-breakdown structure your material leans toward. A dry or dark splash (Meinl Byzance Extra Dry, Zildjian K Custom & A Custom) suits breakdown-heavy writing, in the mold of Chris Turner and Ben Koller. A fast, over-hammered splash (Zildjian A Custom) suits blast-heavy writing, in the mold of George Kollias."
       },
       {
         question: "What size splash cymbal is best for deathcore?",
@@ -78091,7 +78091,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Stagestar steel snare w
       title: "What Cymbal Setup Handles Deathcore's Blast-Into-Breakdown Structure?",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on a cymbal setup. A single song can alternate between extreme-speed blast beat verses, where hi-hats and rides need to stay articulate at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where dry, controlled crashes and a heavy china need to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on Meinl Byzance Series cymbals — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, a 22" Dual Ride, and an 18" Extra Dry China — engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range on Zildjian K Custom & A Custom Series cymbals. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on Zildjian K Mastersound, K Custom Dark, and A Custom cymbals.
+Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on Meinl Byzance Series cymbals — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, a 22" Dual Ride, and an 18" Extra Dry China — engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range on Zildjian K Custom & A Custom Series cymbals. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on Zildjian K Mastersound and A Custom cymbals.
 
 This guide breaks down hi-hat, crash, ride, and china choices for deathcore — comparing three drummers whose metalcore, hardcore, and technical death metal lineages fed directly into the genre, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -78230,13 +78230,13 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
           rank: 3,
           name: "Zildjian K/A Custom Series",
           brand: "Zildjian",
-          model: "K Mastersound / K Custom Dark / A Custom (14\" Hi-Hats, 17\"&18\" Crashes, 21\" Ride, 18\" China)",
+          model: "K Mastersound / A Custom / A Custom (14\" Hi-Hats, 17\"&18\" Crashes, 21\" Ride, 18\" China)",
           image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg",
           priceRange: "€230-480 per cymbal",
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `George Kollias of Nile — sustaining blast beats past 240 BPM — plays a Zildjian setup built for extreme-speed clarity: 14" K Mastersound Hi-Hats for dry, defined articulation, 17" & 18" K Custom Dark Crashes for explosive accent layering, a 21" A Custom Mega Bell Ride for powerful rhythmic definition, and an 18" China for aggressive punctuation.
+          description: `George Kollias of Nile — sustaining blast beats past 240 BPM — plays a Zildjian setup built for extreme-speed clarity: 14" K Mastersound Hi-Hats for dry, defined articulation, 17" & 18" A Custom Crashes for explosive accent layering, a 21" A Custom Mega Bell Ride for powerful rhythmic definition, and an 18" China for aggressive punctuation.
 
 This setup sets the extreme-speed benchmark deathcore's fastest blast sections measure themselves against, before the track drops into a breakdown. Kollias's instructional materials on blast beat technique make his cymbal choices a reliable reference point for deathcore drummers building their own extreme-speed setup.`,
 
@@ -78254,7 +78254,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           ],
           specs: {
             hiHats: "14\" Zildjian K Mastersound",
-            crashes: "17\" & 18\" Zildjian K Custom Dark",
+            crashes: "17\" & 18\" Zildjian A Custom",
             ride: "21\" Zildjian A Custom Mega Bell",
             china: "18\" Zildjian"
           },
@@ -78373,7 +78373,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     faq: [
       {
         question: "What cymbals do deathcore-adjacent drummers use?",
-        answer: "Chris Turner of Oceans Ate Alaska plays Meinl Byzance Series cymbals. Ben Koller of Converge plays Zildjian K Custom & A Custom Series, and George Kollias of Nile plays a Zildjian K Mastersound/K Custom Dark/A Custom setup."
+        answer: "Chris Turner of Oceans Ate Alaska plays Meinl Byzance Series cymbals. Ben Koller of Converge plays Zildjian K Custom & A Custom Series, and George Kollias of Nile plays a Zildjian K Mastersound/A Custom setup."
       },
       {
         question: "What china cymbal size is best for deathcore breakdowns?",
@@ -85225,14 +85225,14 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
     // SEO metadata
     title: "Best Hi-Hats for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Extreme Metal 2026 | MetalForge Expert Guide",
-    description: "What hi-hats survive extreme metal's blast beats? Discover what George Kollias, Derek Roddy, and Gene Hoglan actually play — Zildjian K Custom Dark, Sabian AAX, and Meinl Byzance Brilliant Heavy Hammered — from budget to pro, built for 240+ BPM abuse.",
+    description: "What hi-hats survive extreme metal's blast beats? Discover what George Kollias, Derek Roddy, and Gene Hoglan actually play — Zildjian A Custom, Sabian AAX, and Meinl Byzance Brilliant Heavy Hammered — from budget to pro, built for 240+ BPM abuse.",
     seoKeywords: [
       'best hi-hats for extreme metal',
       'extreme metal hi-hats',
       'george kollias hi-hats nile',
       'derek roddy hi-hats hate eternal',
       'gene hoglan hi-hats',
-      'zildjian k custom dark hi-hats extreme metal',
+      'zildjian a custom hi-hats extreme metal',
       'hi-hats for blast beats',
       'sabian aax hi-hats extreme metal',
       'durable hi-hats extreme metal'
@@ -85261,11 +85261,11 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
       title: "What Hi-Hats Survive Extreme Metal's Blast Beats?",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality surrounding them — puts more sustained abuse on a hi-hat's foot-chick mechanism than almost any other style of drumming. At 200-280 BPM blast beats, the hi-hat gets slammed shut thousands of times a set, and a pair that loses its chick definition or develops keyholing mid-song turns a tight blast pattern into an audible mess.
 
-George Kollias of Nile runs 14" Zildjian K Custom Dark Hi-Hats, chosen for their dark, controlled voicing and quick foot-chick response that keeps pace with his sustained 240+ BPM blast beats. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Hi-Hats, matching the hand-hammered crash surface he switched to for maximum long-term touring durability under his one-footed blast technique. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion Hi-Hats, prized for the explosive, immediate chick that matches his metronomic "Atomic Clock" precision.
+George Kollias of Nile runs 14" Zildjian A Custom Hi-Hats, chosen for their dark, controlled voicing and quick foot-chick response that keeps pace with his sustained 240+ BPM blast beats. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Hi-Hats, matching the hand-hammered crash surface he switched to for maximum long-term touring durability under his one-footed blast technique. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion Hi-Hats, prized for the explosive, immediate chick that matches his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a hi-hat survive extreme metal's demands — foot-chick durability, fast response, and consistent voicing under sustained abuse — and recommends specific models across every budget, from a first touring-durable pair to the exact hi-hats these four drummers play.`,
       keyPoints: [
-        "George Kollias's Zildjian K Custom Dark Hi-Hats deliver the dark, controlled voicing and quick chick response his 240+ BPM blasts demand",
+        "George Kollias's Zildjian A Custom Hi-Hats deliver the dark, controlled voicing and quick chick response his 240+ BPM blasts demand",
         "Durability comes first — Gene Hoglan builds around Sabian AAX for its ability to survive sustained blast beat abuse",
         "Derek Roddy's Meinl Byzance Brilliant Heavy Hammered Hi-Hats show the hand-hammered alternative built for one-footed blast longevity",
         "14\" is the extreme metal standard, prioritizing fast foot-chick response over the extra surface area of larger diameters"
@@ -85285,13 +85285,13 @@ This guide breaks down what actually makes a hi-hat survive extreme metal's dema
         {
           name: "Fast Foot-Chick Response",
           icon: "🦶",
-          description: "A blast beat lives or dies on a tight, immediate foot-chick closure. Zildjian K Custom Dark and Sabian AAX both deliver the fast, defined chick extreme metal drummers rely on to keep their blasts locked in at extreme tempos.",
+          description: "A blast beat lives or dies on a tight, immediate foot-chick closure. Zildjian A Custom and Sabian AAX both deliver the fast, defined chick extreme metal drummers rely on to keep their blasts locked in at extreme tempos.",
           recommendation: "Medium-heavy bottom cymbal for a crisp, immediate chick at high tempo"
         },
         {
           name: "Dark, Controlled Voicing",
           icon: "🌫️",
-          description: "George Kollias's Zildjian K Custom Dark Hi-Hats stay controlled and low-sustain even under his most punishing blast passages, avoiding the washy build-up that a brighter pair can develop at extreme speed.",
+          description: "George Kollias's Zildjian A Custom Hi-Hats stay controlled and low-sustain even under his most punishing blast passages, avoiding the washy build-up that a brighter pair can develop at extreme speed.",
           recommendation: "Dark-voiced hi-hats for controlled response through sustained blast work"
         },
         {
@@ -85321,17 +85321,17 @@ This guide breaks down what actually makes a hi-hat survive extreme metal's dema
       pedals: [
         {
           rank: 1,
-          name: "Zildjian K Custom Dark Hi-Hats",
+          name: "Zildjian A Custom Hi-Hats",
           brand: "Zildjian",
-          model: "K Custom Dark Hi-Hats 14\"",
+          model: "A Custom Hi-Hats 14\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Toms%2C_hi-hat%2C_snare.jpg",
           priceRange: "€300-380 per pair",
           tier: "pro",
           material: "B20 Bronze, Dark Finish",
 
-          description: `George Kollias of Nile runs 14" Zildjian K Custom Dark Hi-Hats, the same over-hammered dark series that anchors his crash setup at 17"-19". The dark, low-sustain voicing gives Kollias exactly the controlled foot-chick definition he needs to keep his sustained 240+ BPM blast beats locked in without washing into an indistinct blur.
+          description: `George Kollias of Nile runs 14" Zildjian A Custom Hi-Hats, the same over-hammered dark series that anchors his crash setup at 17"-19". The dark, low-sustain voicing gives Kollias exactly the controlled foot-chick definition he needs to keep his sustained 240+ BPM blast beats locked in without washing into an indistinct blur.
 
-Kollias's setup proves that dark, complex voicing and extreme-tempo reliability aren't mutually exclusive — the K Custom Dark line delivers both across Nile's entire technical death metal catalog.`,
+Kollias's setup proves that dark, complex voicing and extreme-tempo reliability aren't mutually exclusive — the A Custom line delivers both across Nile's entire technical death metal catalog.`,
 
           pros: [
             "George Kollias's proven Nile setup — extreme metal's most technically demanding blast beat benchmark",
@@ -85349,10 +85349,10 @@ Kollias's setup proves that dark, complex voicing and extreme-tempo reliability 
             finish: "Dark",
             weight: "Medium-heavy",
             diameter: "14\"",
-            series: "K Custom Dark"
+            series: "A Custom"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "14\" K Custom Dark Hi-Hats — 240+ BPM blast beat precision" }
+            { name: "George Kollias", band: "Nile", note: "14\" A Custom Hi-Hats — 240+ BPM blast beat precision" }
           ],
           verdict: "The extreme metal blast beat standard. If you want the dark, controlled foot-chick response that survives 240+ BPM, this is it.",
           rating: 4.8,
@@ -85378,7 +85378,7 @@ This pair reflects a philosophy shared across extreme metal's founding drummers:
             "More accessible pricing than premium Zildjian K Custom"
           ],
           cons: [
-            "Brighter voicing less controlled than K Custom Dark for pure technical precision",
+            "Brighter voicing less controlled than A Custom for pure technical precision",
             "Less hand-hammered complexity than Meinl Byzance",
             "Standard 14\" only — no larger diameter option in this line"
           ],
@@ -85454,7 +85454,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
             "Reliable B20 bronze construction"
           ],
           cons: [
-            "Brighter, more explosive voicing less controlled than K Custom Dark",
+            "Brighter, more explosive voicing less controlled than A Custom",
             "Less hand-hammered complexity than Meinl Byzance",
             "Mid-tier pricing sits between budget and ultra-premium"
           ],
@@ -85489,7 +85489,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
           material: "B20 Bronze",
           description: "See above. This proven, durable choice remains one of the most accessible ways into extreme metal's blast-tested hi-hat sound.",
           pros: ["Proven durability under punishing foot technique", "Bright, cutting B20 tone", "More accessible than premium K Custom or Byzance lines"],
-          cons: ["Less controlled voicing than K Custom Dark"],
+          cons: ["Less controlled voicing than A Custom"],
           verdict: "Top budget pick for durable, blast-ready extreme metal hi-hats.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/sabian_aax_stage_hi_hats.htm?partner_id=metalforge"
@@ -85501,8 +85501,8 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
           priceRange: "€150-220 per pair",
           tier: "budget",
           material: "B20 Bronze",
-          description: "An affordable entry point into Zildjian's family sound for drummers chasing George Kollias's K Custom Dark voicing, before upgrading to the full K Custom line.",
-          pros: ["Genuine Zildjian B20 character at a lower price", "Accessible pricing", "Clear upgrade path to K Custom Dark"],
+          description: "An affordable entry point into Zildjian's family sound for drummers chasing George Kollias's A Custom voicing, before upgrading to the full K Custom line.",
+          pros: ["Genuine Zildjian B20 character at a lower price", "Accessible pricing", "Clear upgrade path to A Custom"],
           cons: ["Less dark, controlled voicing than K Custom"],
           verdict: "Best entry point for drummers building toward extreme metal's dark, blast-ready hi-hat standard.",
           rating: 4.0,
@@ -85516,7 +85516,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       title: "Dark vs Bright Hi-Hats for Extreme Metal",
       content: `Extreme metal's hi-hat choices split into two proven camps, defined by the genre's most influential drummers:
 
-**Dark & Hand-Hammered (Zildjian K Custom Dark — George Kollias; Meinl Byzance Brilliant Heavy Hammered — Derek Roddy):**
+**Dark & Hand-Hammered (Zildjian A Custom — George Kollias; Meinl Byzance Brilliant Heavy Hammered — Derek Roddy):**
 - Controlled, low-sustain voicing built for extreme-tempo precision
 - Hand-hammered construction distributes stress for long-term durability
 - The technical death metal benchmark
@@ -85526,7 +85526,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
 - Proven durability across decades of touring abuse
 - More accessible pricing than premium hand-hammered lines
 
-**Extreme Metal Verdict:** Choose dark and hand-hammered (Zildjian K Custom Dark or Meinl Byzance Brilliant Heavy Hammered) if you play technical, precision-focused extreme metal in the Nile or Hate Eternal tradition. Choose bright Sabian AAX if you prioritize proven durability under sustained, punishing blast technique.`,
+**Extreme Metal Verdict:** Choose dark and hand-hammered (Zildjian A Custom or Meinl Byzance Brilliant Heavy Hammered) if you play technical, precision-focused extreme metal in the Nile or Hate Eternal tradition. Choose bright Sabian AAX if you prioritize proven durability under sustained, punishing blast technique.`,
       comparisonTable: [
         { feature: "Blast Beat Durability", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
         { feature: "Controlled Precision", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
@@ -85541,7 +85541,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian K Custom Dark Hi-Hats",
+          pedal: "Zildjian A Custom Hi-Hats",
           reason: "George Kollias's Nile setup — the genre's most technically demanding 240+ BPM blast beat benchmark."
         },
         {
@@ -85570,14 +85570,14 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       'best-hi-hats-for-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Hi-Hats — Nile\'s 240+ BPM blast beat precision' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Hi-Hats — Nile\'s 240+ BPM blast beat precision' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered Hi-Hats — one-footed blast durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX X-Plosion Hi-Hats — The Atomic Clock\'s precision punch' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Hi-Hats — Nile\'s 240+ BPM blast beat precision' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Hi-Hats — Nile\'s 240+ BPM blast beat precision' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered Hi-Hats — one-footed blast durability' }
     ],
     relatedComparisons: [],
@@ -85586,11 +85586,11 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
     faq: [
       {
         question: "What hi-hats are used in extreme metal?",
-        answer: "George Kollias of Nile plays 14\" Zildjian K Custom Dark Hi-Hats for controlled, low-sustain response at 240+ BPM. Gene Hoglan of Death/Testament plays Sabian AAX X-Plosion for durable, cutting response. Derek Roddy of Hate Eternal/Nile plays Meinl Byzance Brilliant Heavy Hammered Hi-Hats."
+        answer: "George Kollias of Nile plays 14\" Zildjian A Custom Hi-Hats for controlled, low-sustain response at 240+ BPM. Gene Hoglan of Death/Testament plays Sabian AAX X-Plosion for durable, cutting response. Derek Roddy of Hate Eternal/Nile plays Meinl Byzance Brilliant Heavy Hammered Hi-Hats."
       },
       {
         question: "What hi-hats does George Kollias use?",
-        answer: "George Kollias of Nile plays 14\" Zildjian K Custom Dark Hi-Hats, part of his broader K Custom Dark cymbal setup, chosen for the dark, controlled voicing and fast foot-chick response his sustained 240+ BPM blast beats demand."
+        answer: "George Kollias of Nile plays 14\" Zildjian A Custom Hi-Hats, part of his broader A Custom cymbal setup, chosen for the dark, controlled voicing and fast foot-chick response his sustained 240+ BPM blast beats demand."
       },
       {
         question: "What size hi-hats for extreme metal?",
@@ -85602,14 +85602,14 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       },
       {
         question: "Dark or bright hi-hats for extreme metal?",
-        answer: "Both work at the highest level. Dark hi-hats (Zildjian K Custom Dark, Kollias's choice; Meinl Byzance Brilliant Heavy Hammered, Roddy's choice) suit technical, precision-focused extreme metal. Bright hi-hats (Sabian AAX Stage; Sabian AAX X-Plosion, Hoglan's choice) prioritize proven durability under punishing foot technique."
+        answer: "Both work at the highest level. Dark hi-hats (Zildjian A Custom, Kollias's choice; Meinl Byzance Brilliant Heavy Hammered, Roddy's choice) suit technical, precision-focused extreme metal. Bright hi-hats (Sabian AAX Stage; Sabian AAX X-Plosion, Hoglan's choice) prioritize proven durability under punishing foot technique."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build a Hi-Hat Setup That Survives the Blast",
-      content: `Extreme metal's hi-hat philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's dark, controlled K Custom Dark, the proven, durable Sabian AAX, or Derek Roddy's hand-hammered Meinl Byzance Brilliant, the right extreme metal hi-hat needs to sound the same on the last blast beat of a set as it did on the first.
+      content: `Extreme metal's hi-hat philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's dark, controlled A Custom, the proven, durable Sabian AAX, or Derek Roddy's hand-hammered Meinl Byzance Brilliant, the right extreme metal hi-hat needs to sound the same on the last blast beat of a set as it did on the first.
 
 Start with whichever character matches your playing style, and don't overlook the budget tier — Zildjian A Series and Sabian AAX Stage both provide genuine upgrade paths toward the pro-level sound without requiring a full investment up front.
 
@@ -86856,13 +86856,13 @@ Whatever you choose, prioritize clean articulation and dynamic range over flashy
     // SEO metadata
     title: "Best Hi-Hats for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Death Metal 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in death metal? Discover what George Kollias and Flo Mounier actually play — Zildjian K Custom Dark vs Sabian AAX/HHX — from budget to pro, built for 280 BPM blast beat control.",
+    description: "What hi-hats are used in death metal? Discover what George Kollias and Flo Mounier actually play — Zildjian A Custom vs Sabian AAX/HHX — from budget to pro, built for 280 BPM blast beat control.",
     seoKeywords: [
       'best hi-hats for death metal',
       'death metal hi-hats',
       'george kollias hi-hats nile',
       'flo mounier hi-hats cryptopsy',
-      'zildjian k custom dark hi-hats death metal',
+      'zildjian a custom hi-hats death metal',
       'sabian aax hhx hi-hats death metal',
       'hi-hats for blast beats',
       'extreme metal hi-hats',
@@ -86892,11 +86892,11 @@ Whatever you choose, prioritize clean articulation and dynamic range over flashy
       title: "Why Death Metal Hi-Hats Need to Control Chaos at 280 BPM",
       content: `Death metal places extreme demands on hi-hats that most other genres simply don't. At 220–280 BPM blast beats, a hi-hat must respond instantly and stay tight and controlled without opening uncontrollably — a light top on a 14" hi-hat will wash out completely under sustained extreme metal blast beat work.
 
-George Kollias of Nile has made his Zildjian K Custom Dark hi-hats as recognizable as his inhuman blast beat speed — the dark, controlled wash sits perfectly under technical death metal complexity across a 13"-15" range. Flo Mounier of Cryptopsy uses Sabian AAX/HHX hi-hats that deliver controlled chaos even at his insane 280+ BPM tempos.
+George Kollias of Nile has made his Zildjian A Custom hi-hats as recognizable as his inhuman blast beat speed — the dark, controlled wash sits perfectly under technical death metal complexity across a 13"-15" range. Flo Mounier of Cryptopsy uses Sabian AAX/HHX hi-hats that deliver controlled chaos even at his insane 280+ BPM tempos.
 
 The wrong hi-hats for death metal don't just sound bad — they actively fight your playing. This guide breaks down what actually works, why, and which specific models give you the most extreme metal hi-hat performance across all budgets.`,
       keyPoints: [
-        "Zildjian K Custom Dark is George Kollias's primary death metal hi-hat sound — dark, controlled wash at 280 BPM",
+        "Zildjian A Custom is George Kollias's primary death metal hi-hat sound — dark, controlled wash at 280 BPM",
         "Sabian AAX/HHX gives Flo Mounier controlled chaos at 280+ BPM tempos",
         "Medium-heavy tops dominate death metal hi-hats — enough weight to control wash at extreme blast beat speeds"
       ]
@@ -86915,8 +86915,8 @@ The wrong hi-hats for death metal don't just sound bad — they actively fight y
         {
           name: "Darkness vs. Brightness",
           icon: "🌑",
-          description: "Bright hi-hats can sound harsh and fatiguing at extreme volumes and speeds. Darker hi-hats blend better with the guitar's distorted texture while still cutting. George Kollias's K Custom Dark and Flo Mounier's Sabian AAX/HHX both choose darker lines over brilliant-finish options.",
-          recommendation: "K Custom Dark or Sabian AAX/HHX for the right dark, controlled balance"
+          description: "Bright hi-hats can sound harsh and fatiguing at extreme volumes and speeds. Darker hi-hats blend better with the guitar's distorted texture while still cutting. George Kollias's A Custom and Flo Mounier's Sabian AAX/HHX both choose darker lines over brilliant-finish options.",
+          recommendation: "A Custom or Sabian AAX/HHX for the right dark, controlled balance"
         },
         {
           name: "Blast Beat Endurance",
@@ -86927,7 +86927,7 @@ The wrong hi-hats for death metal don't just sound bad — they actively fight y
         {
           name: "Diameter",
           icon: "📏",
-          description: "George Kollias's K Custom Dark hi-hats span a 13\"-15\" range, giving room to choose between the fastest possible response (13\") and fuller projection (15\"). 14\" remains the most common middle-ground choice among death metal drummers.",
+          description: "George Kollias's A Custom hi-hats span a 13\"-15\" range, giving room to choose between the fastest possible response (13\") and fuller projection (15\"). 14\" remains the most common middle-ground choice among death metal drummers.",
           recommendation: "13\" for maximum blast beat speed; 14\"-15\" for fuller projection and versatility"
         },
         {
@@ -86945,17 +86945,17 @@ The wrong hi-hats for death metal don't just sound bad — they actively fight y
       pedals: [
         {
           rank: 1,
-          name: "Zildjian K Custom Dark Hi-Hats",
+          name: "Zildjian A Custom Hi-Hats",
           brand: "Zildjian",
-          model: "K Custom Dark Hi-Hats 14\"",
+          model: "A Custom Hi-Hats 14\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€260-420 per pair",
           tier: "pro",
           material: "B20 Bronze, Traditional Dark Finish",
 
-          description: `The Zildjian K Custom Dark Hi-Hats are the quintessential death metal hi-hat, used by George Kollias as his primary setup throughout his Nile career, spanning a 13"-15" range. The thin, dark B20 bronze construction delivers a complex, controlled wash that sits perfectly under extreme technical death metal without washing out at high speeds.
+          description: `The Zildjian A Custom Hi-Hats are the quintessential death metal hi-hat, used by George Kollias as his primary setup throughout his Nile career, spanning a 13"-15" range. The thin, dark B20 bronze construction delivers a complex, controlled wash that sits perfectly under extreme technical death metal without washing out at high speeds.
 
-George Kollias built his reputation for the fastest feet in death metal while using K Custom Dark hi-hats — a testament to how well they handle the demands of extreme blast beat drumming at up to 280 BPM. The lack of brilliant finish gives these hi-hats more raw, musical character than their A Custom siblings.`,
+George Kollias built his reputation for the fastest feet in death metal while using A Custom hi-hats — a testament to how well they handle the demands of extreme blast beat drumming at up to 280 BPM.`,
 
           pros: [
             "George Kollias's primary hi-hat setup — proven at 280 BPM",
@@ -86974,7 +86974,7 @@ George Kollias built his reputation for the fastest feet in death metal while us
             finish: "Traditional Dark (no brilliant)",
             weight: "Medium-heavy",
             diameter: "13\" - 15\" (14\" standard)",
-            series: "K Custom Dark"
+            series: "A Custom"
           },
           usedBy: [
             { name: "George Kollias", band: "Nile", note: "Primary hi-hat setup — fastest feet in death metal" }
@@ -86995,13 +86995,13 @@ George Kollias built his reputation for the fastest feet in death metal while us
 
           description: `Flo Mounier of Cryptopsy has used Sabian AAX/HHX hi-hats since 2012 — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 280+ BPM, his Sabian hi-hats deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
 
-The AAX/HHX B20 alloy gives bright, cutting body and projection at comparable weights. In death metal, this translates to a hi-hat chick that speaks with authority even when the kit is being pushed to its limits — a different tool for a different approach to extreme metal than Kollias's darker K Custom.`,
+The AAX/HHX B20 alloy gives bright, cutting body and projection at comparable weights. In death metal, this translates to a hi-hat chick that speaks with authority even when the kit is being pushed to its limits — a different tool for a different approach to extreme metal than Kollias's darker A Custom.`,
 
           pros: [
             "Full-bodied, powerful hi-hat character at extreme speeds",
             "Sabian B20 alloy — proven in the most intense death metal contexts",
             "Flo Mounier endorsement since 2012 — 280+ BPM proof of concept",
-            "More projection than K Custom Dark — cuts louder"
+            "More projection than A Custom — cuts louder"
           ],
           cons: [
             "Heavier feel than K Custom — more physical effort",
@@ -87043,7 +87043,7 @@ For death metal drummers who want a brighter, more cutting alternative to the da
           ],
           cons: [
             "Brighter than most modern death metal drummers prefer",
-            "Less dark/controlled character than K Custom Dark or Sabian AAX/HHX",
+            "Less dark/controlled character than A Custom or Sabian AAX/HHX",
             "Premium pricing"
           ],
           specs: {
@@ -87068,18 +87068,18 @@ For death metal drummers who want a brighter, more cutting alternative to the da
           tier: "mid",
           material: "B8/B20 Bronze",
 
-          description: `The Meinl Classics Custom Dark Hi-Hats bring dark, controlled character similar to George Kollias's K Custom Dark setup to a more accessible price point. They're a sensible mid-tier choice for death metal drummers who want the genre's signature dark hi-hat sound without the full K Custom investment.
+          description: `The Meinl Classics Custom Dark Hi-Hats bring dark, controlled character similar to George Kollias's A Custom setup to a more accessible price point. They're a sensible mid-tier choice for death metal drummers who want the genre's signature dark hi-hat sound without the full K Custom investment.
 
 The dark finish and complex overtones sit well under dense, down-tuned guitar walls, giving developing players a taste of the controlled character that defines the genre's classic hi-hat sound.`,
 
           pros: [
-            "Dark, controlled tone similar to K Custom Dark character",
+            "Dark, controlled tone similar to A Custom character",
             "More accessible pricing than flagship Zildjian K Custom",
             "Good for dense, down-tuned death metal production",
             "Solid durability for the price"
           ],
           cons: [
-            "Not as refined as full K Custom Dark line",
+            "Not as refined as full A Custom line",
             "B8 models lack B20 depth"
           ],
           specs: {
@@ -87102,7 +87102,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
     // Budget options section
     budgetOptions: {
       title: "Best Budget Hi-Hats for Death Metal",
-      description: "Getting started in death metal doesn't require a flagship K Custom Dark investment. These options deliver real extreme metal performance at accessible prices.",
+      description: "Getting started in death metal doesn't require a flagship A Custom investment. These options deliver real extreme metal performance at accessible prices.",
       pedals: [
         {
           name: "Meinl Classics Custom Dark Hi-Hats",
@@ -87111,9 +87111,9 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
           priceRange: "€150-220 per pair",
           tier: "mid",
           material: "B8/B20 Bronze",
-          description: "See above. The most accessible route to a dark, controlled death metal hi-hat sound similar to George Kollias's K Custom Dark setup.",
+          description: "See above. The most accessible route to a dark, controlled death metal hi-hat sound similar to George Kollias's A Custom setup.",
           pros: ["Dark, controlled character", "Accessible pricing", "Solid durability"],
-          cons: ["Not as refined as full K Custom Dark line"],
+          cons: ["Not as refined as full A Custom line"],
           verdict: "Top budget pick for controlled, dark death metal hi-hats.",
           rating: 4.3,
           affiliateLink: "https://www.thomann.de/intl/meinl_classics_custom_dark_hi_hats.htm?partner_id=metalforge"
@@ -87125,9 +87125,9 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
           priceRange: "€120-200 per pair",
           tier: "budget-mid",
           material: "B20 Bronze",
-          description: "The standard K series (not K Custom) offers genuine dark B20 character at lower prices — a clear upgrade path toward George Kollias's K Custom Dark setup.",
-          pros: ["Dark B20 character similar to K Custom Dark", "More accessible pricing than K Custom", "Proven lineage — the original dark Zildjian"],
-          cons: ["Less refined than K Custom Dark"],
+          description: "The standard K series (not K Custom) offers genuine dark B20 character at lower prices — a clear upgrade path toward George Kollias's A Custom setup.",
+          pros: ["Dark B20 character similar to A Custom", "More accessible pricing than K Custom", "Proven lineage — the original dark Zildjian"],
+          cons: ["Less refined than A Custom"],
           verdict: "Best dark budget option. Real Zildjian B20 at significantly lower cost.",
           rating: 4.2,
           affiliateLink: "https://www.thomann.de/intl/zildjian_k_series_hi_hats.htm?partner_id=metalforge"
@@ -87137,10 +87137,10 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
 
     // Comparison
     comparison: {
-      title: "Zildjian K Custom Dark vs Sabian AAX/HHX Hi-Hats for Death Metal",
+      title: "Zildjian A Custom vs Sabian AAX/HHX Hi-Hats for Death Metal",
       content: `The two dominant hi-hat choices in death metal represent fundamentally different approaches, defined by the genre's most influential drummers:
 
-**Zildjian K Custom Dark (George Kollias's choice):**
+**Zildjian A Custom (George Kollias's choice):**
 - Darker, more controlled wash
 - Quick recovery — stays tight through sustained blast beats
 - Complex, musical overtones under technical patterns
@@ -87151,7 +87151,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
 - Full-bodied character that commands attention
 - Best for: Brutal/old-school death metal, studio recordings
 
-**The Verdict:** Both work excellently for death metal. Choose K Custom Dark if you play highly technical patterns where you need hi-hat clarity within dense arrangements. Choose Sabian AAX/HHX if you want a powerful, dramatic chick that defines each accent in the music. Zildjian's A Custom line shows a brighter third path for drummers who prioritize raw articulation over darkness.`,
+**The Verdict:** Both work excellently for death metal. Choose A Custom if you play highly technical patterns where you need hi-hat clarity within dense arrangements. Choose Sabian AAX/HHX if you want a powerful, dramatic chick that defines each accent in the music. Zildjian's A Custom line shows a brighter third path for drummers who prioritize raw articulation over darkness.`,
       comparisonTable: [
         { feature: "Darkness", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
         { feature: "Chick Power", zildjianK: "⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐⭐" },
@@ -87167,7 +87167,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian K Custom Dark Hi-Hats",
+          pedal: "Zildjian A Custom Hi-Hats",
           reason: "George Kollias's choice — the gold standard for death metal hi-hat work at any speed."
         },
         {
@@ -87195,13 +87195,13 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
       'best-drum-pedals-for-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark — fastest feet in death metal' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom — fastest feet in death metal' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 280+ BPM' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark for extreme cutting power at 280 BPM' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom for extreme cutting power at 280 BPM' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 280+ BPM' },
     ],
 
@@ -87209,23 +87209,23 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
     faq: [
       {
         question: "What hi-hats are used in death metal?",
-        answer: "George Kollias of Nile uses Zildjian K Custom Dark Hi-Hats (13\"-15\" range) for a dark, controlled character. Flo Mounier of Cryptopsy uses Sabian AAX/HHX Hi-Hats, an endorsement since 2012, for powerful, full-bodied chick response."
+        answer: "George Kollias of Nile uses Zildjian A Custom Hi-Hats (13\"-15\" range) for a dark, controlled character. Flo Mounier of Cryptopsy uses Sabian AAX/HHX Hi-Hats, an endorsement since 2012, for powerful, full-bodied chick response."
       },
       {
         question: "What hi-hats does George Kollias use?",
-        answer: "George Kollias of Nile uses Zildjian K Custom Dark Hi-Hats, part of his primary K Custom Dark cymbal setup that spans a 13\"-15\" range. The dark, controlled wash lets him play blast beats up to 280 BPM without losing chick response."
+        answer: "George Kollias of Nile uses Zildjian A Custom Hi-Hats, part of his primary A Custom cymbal setup that spans a 13\"-15\" range. The dark, controlled wash lets him play blast beats up to 280 BPM without losing chick response."
       },
       {
         question: "Best hi-hats for blast beats?",
-        answer: "Medium-heavy weight hi-hats with consistent, fast recovery handle sustained blast beat endurance best. Zildjian K Custom Dark and Sabian AAX/HHX both perform well at extreme tempos — choose based on whether you want dark, controlled wash (Zildjian) or powerful, body-forward chick (Sabian)."
+        answer: "Medium-heavy weight hi-hats with consistent, fast recovery handle sustained blast beat endurance best. Zildjian A Custom and Sabian AAX/HHX both perform well at extreme tempos — choose based on whether you want dark, controlled wash (Zildjian) or powerful, body-forward chick (Sabian)."
       },
       {
         question: "What size hi-hats for death metal?",
-        answer: "14\" is the most common death metal hi-hat size. George Kollias uses a 13\"-15\" range from his K Custom Dark line — 13\" for maximum blast beat speed, 15\" for fuller projection. Most death metal drummers land on 14\" as the versatile middle ground."
+        answer: "14\" is the most common death metal hi-hat size. George Kollias uses a 13\"-15\" range from his A Custom line — 13\" for maximum blast beat speed, 15\" for fuller projection. Most death metal drummers land on 14\" as the versatile middle ground."
       },
       {
         question: "Dark or bright hi-hats for death metal?",
-        answer: "Both work at the highest level. Dark hi-hats (Zildjian K Custom Dark, George Kollias's choice; Sabian AAX/HHX, Flo Mounier's choice since 2012) suit technical and brutal death metal alike. Bright hi-hats (Zildjian A Custom) suit drummers who prioritize raw articulation over darkness. Choose based on which subgenre and production style you're chasing."
+        answer: "Both work at the highest level. Dark hi-hats (Zildjian A Custom, George Kollias's choice; Sabian AAX/HHX, Flo Mounier's choice since 2012) suit technical and brutal death metal alike. Choose based on which subgenre and production style you're chasing."
       }
     ],
 
@@ -87234,7 +87234,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
       title: "Find Your Death Metal Hi-Hat Voice",
       content: `Death metal hi-hats split into two proven traditions: the dark, controlled character that George Kollias has made synonymous with technical blast beat precision, and the powerful, body-forward chick that Flo Mounier favors for brutal, dramatic impact.
 
-If you play technical, blast-beat-heavy death metal, start with a Zildjian K Custom Dark pair or the budget Classics Custom Dark — both stay controlled at extreme tempos. If you play brutal, old-school death metal, Sabian AAX/HHX will give you the full-bodied power your playing demands. If raw articulation over darkness is your priority, the brighter Zildjian A Custom remains a proven third path.
+If you play technical, blast-beat-heavy death metal, start with a Zildjian A Custom pair or the budget Classics Custom Dark — both stay controlled at extreme tempos. If you play brutal, old-school death metal, Sabian AAX/HHX will give you the full-bodied power your playing demands. If raw articulation over darkness is your priority, the brighter Zildjian A Custom remains a proven third path.
 
 Whatever you choose, prioritize consistency under sustained blast beat use over flashy features — the hi-hat is the most-used cymbal in death metal drumming, and it needs to perform reliably through entire songs of relentless rhythmic work.
 
@@ -96654,7 +96654,7 @@ This guide breaks down what makes a great deathcore hi-hat — blast-beat durabi
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `George Kollias of Nile plays 14" K Mastersound Hi-Hats from Zildjian, part of a broader setup that includes K Custom Dark and A Custom cymbals. Kollias's documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's fastest blast sections measure themselves against, and the K Mastersound's dry, focused voicing is engineered specifically to stay articulate at that tempo.
+          description: `George Kollias of Nile plays 14" K Mastersound Hi-Hats from Zildjian, part of a broader setup that includes A Custom cymbals. Kollias's documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's fastest blast sections measure themselves against, and the K Mastersound's dry, focused voicing is engineered specifically to stay articulate at that tempo.
 
 Where a washier hi-hat would blur into noise at sustained blast-beat speed, the K Mastersound's tight, cutting response keeps every stroke defined — exactly the durability and clarity deathcore's blast-verse sections demand.`,
 
@@ -96862,7 +96862,7 @@ Koller's setup shows deathcore's hardcore and mathcore lineage in action — a h
       },
       {
         question: "What hi-hats does George Kollias use?",
-        answer: "George Kollias of Nile plays 14\" K Mastersound Hi-Hats from Zildjian, part of a broader setup that includes K Custom Dark and A Custom cymbals — chosen for their dry, cutting articulation at his documented 240+ BPM blast-beat tempos."
+        answer: "George Kollias of Nile plays 14\" K Mastersound Hi-Hats from Zildjian, part of a broader setup that includes A Custom cymbals — chosen for their dry, cutting articulation at his documented 240+ BPM blast-beat tempos."
       },
       {
         question: "What size hi-hats for deathcore?",
@@ -97710,7 +97710,7 @@ Start with an accessible maple-leaning kit like the Pearl Export or Tama Imperia
       title: "Why Technical Death Metal Needs Cutting, Controlled Cymbals",
       content: `Technical death metal cymbal setups have to solve a problem most metal drummers never face: staying dry and articulate through 240+ BPM blast beats while still clearly separating fast, odd-meter fills from the wall of downtuned guitars underneath. A cymbal that washes out or blurs together at speed makes complex, rhythmically dense writing unreadable — which is exactly why the genre's leading drummers gravitate toward dry, controlled, cutting setups over wide-open, washy ones.
 
-George Kollias of Nile plays a sprawling Zildjian setup — 14" K Mastersound Hi-Hats, 17" and 18" K Custom Dark Crashes, a 21" A Custom Mega Bell Ride, and an 18" China — built for dry articulation at his 240+ BPM ceiling. Hannes Grossmann of Obscura, ex-Necrophagist, and Alkaloid plays Meinl's Byzance Traditional and Brilliant Series, chosen for crisp attack through his classically-informed, odd-subdivision writing. Flo Mounier of Cryptopsy relies on Sabian's AAX and HHX Series for rapid hi-hat response and dark, articulate ride definition, while Derek Roddy pairs Meinl's Byzance and Mb20 Heavy lines for tight, controlled chops at extreme tempo.
+George Kollias of Nile plays a sprawling Zildjian setup — 14" K Mastersound Hi-Hats, 17" and 18" A Custom Crashes, a 21" A Custom Mega Bell Ride, and an 18" China — built for dry articulation at his 240+ BPM ceiling. Hannes Grossmann of Obscura, ex-Necrophagist, and Alkaloid plays Meinl's Byzance Traditional and Brilliant Series, chosen for crisp attack through his classically-informed, odd-subdivision writing. Flo Mounier of Cryptopsy relies on Sabian's AAX and HHX Series for rapid hi-hat response and dark, articulate ride definition, while Derek Roddy pairs Meinl's Byzance and Mb20 Heavy lines for tight, controlled chops at extreme tempo.
 
 This guide breaks down hi-hat, crash, ride, and china choices for technical death metal — comparing four proven setups across budget to professional touring rigs.`,
       keyPoints: [
@@ -97758,7 +97758,7 @@ This guide breaks down hi-hat, crash, ride, and china choices for technical deat
         {
           name: "Crash Response for Rapid Fills",
           icon: "💥",
-          description: "Mounier's fast-response AAX X-Plosion Crashes and Kollias's K Custom Dark Crashes both open quickly enough to punctuate rapid, complex fills without lagging behind the pattern.",
+          description: "Mounier's fast-response AAX X-Plosion Crashes and Kollias's A Custom Crashes both open quickly enough to punctuate rapid, complex fills without lagging behind the pattern.",
           recommendation: "Thinner, faster-responding crashes for rapid-fire accent work"
         }
       ]
@@ -97772,13 +97772,13 @@ This guide breaks down hi-hat, crash, ride, and china choices for technical deat
           rank: 1,
           name: "Zildjian K & A Custom Series",
           brand: "Zildjian",
-          model: "K Mastersound Hi-Hats, A Custom Mega Bell Ride, K Custom Dark Crashes",
+          model: "K Mastersound Hi-Hats, A Custom Mega Bell Ride, A Custom Crashes",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€250-480 per cymbal",
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `George Kollias's Zildjian setup is purpose-built for Nile's extreme technical death metal demands: 14" K Mastersound Hi-Hats for dry, defined articulation; 17" and 18" K Custom Dark Crashes for explosive accent layering; a 21" A Custom Mega Bell Ride for powerful rhythmic definition; and an 18" China for aggressive punctuation.
+          description: `George Kollias's Zildjian setup is purpose-built for Nile's extreme technical death metal demands: 14" K Mastersound Hi-Hats for dry, defined articulation; 17" and 18" A Custom Crashes for explosive accent layering; a 21" A Custom Mega Bell Ride for powerful rhythmic definition; and an 18" China for aggressive punctuation.
 
 The combination keeps every stroke legible at the 240+ BPM blast beats defining tracks like "Annihilation of the Wicked" — proof that a dry, controlled Zildjian setup can cut through even the densest technical death metal arrangements.`,
 
@@ -97792,11 +97792,11 @@ The combination keeps every stroke legible at the 240+ BPM blast beats defining 
           cons: [
             "Premium price across a full four-piece setup",
             "Dry voicing may feel restrained to drummers used to washier cymbals",
-            "K Custom Dark finish shows wear faster than standard finishes"
+            "A Custom finish shows wear faster than standard finishes"
           ],
           specs: {
             material: "B20 bronze",
-            finish: "K Custom Dark / A Custom",
+            finish: "A Custom / A Custom",
             weight: "Medium",
             diameter: "14\"-21\"",
             series: "K & A Custom"
@@ -98049,7 +98049,7 @@ Built to stay controlled under his signature one-footed blast technique, the set
     faq: [
       {
         question: "What cymbals does George Kollias use?",
-        answer: "George Kollias of Nile plays a Zildjian setup: 14\" K Mastersound Hi-Hats, 17\" and 18\" K Custom Dark Crashes, a 21\" A Custom Mega Bell Ride, and an 18\" China — chosen for dry, defined articulation at his 240+ BPM blast-beat ceiling."
+        answer: "George Kollias of Nile plays a Zildjian setup: 14\" K Mastersound Hi-Hats, 17\" and 18\" A Custom Crashes, a 21\" A Custom Mega Bell Ride, and an 18\" China — chosen for dry, defined articulation at his 240+ BPM blast-beat ceiling."
       },
       {
         question: "What cymbals does Hannes Grossmann use?",
@@ -100537,7 +100537,7 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
       'hannes grossmann crash cymbal',
       'flo mounier crash cymbal',
       'derek roddy crash cymbal',
-      'zildjian k custom dark crash tech death',
+      'zildjian a custom crash tech death',
       'meinl byzance crash technical death metal',
       'tech death drummer crash setup',
       'best crash cymbal for blast beats'
@@ -100566,12 +100566,12 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
       title: "Why Technical Death Metal Needs Dry, Fast-Responding Crashes",
       content: `Technical death metal crash setups have to solve a problem most metal drummers never face: staying dry and articulate through 240+ BPM blast beats while still clearly punctuating fast, odd-meter fills against a wall of downtuned guitars. A crash that washes out or lags behind the pattern makes complex, rhythmically dense writing unreadable — which is exactly why the genre's leading drummers gravitate toward dry, fast-responding crashes over wide-open, washy ones.
 
-George Kollias of Nile plays 17" and 18" Zildjian K Custom Dark Crashes, built for explosive accent layering at his 240+ BPM ceiling. Hannes Grossmann of Obscura, ex-Necrophagist, and Alkaloid plays 18" and 19" Meinl Byzance Brilliant Crashes, chosen for bright, cutting accents through his classically-informed, odd-subdivision writing. Flo Mounier of Cryptopsy relies on 17" and 18" Sabian AAX X-Plosion Crashes for fast-response accent work during gravity-blast passages, while Derek Roddy pairs 18" and 19" Meinl Mb20 Heavy Crashes for explosive accents that stay controlled under his one-footed blast technique.
+George Kollias of Nile plays 17" and 18" Zildjian A Custom Crashes, built for explosive accent layering at his 240+ BPM ceiling. Hannes Grossmann of Obscura, ex-Necrophagist, and Alkaloid plays 18" and 19" Meinl Byzance Brilliant Crashes, chosen for bright, cutting accents through his classically-informed, odd-subdivision writing. Flo Mounier of Cryptopsy relies on 17" and 18" Sabian AAX X-Plosion Crashes for fast-response accent work during gravity-blast passages, while Derek Roddy pairs 18" and 19" Meinl Mb20 Heavy Crashes for explosive accents that stay controlled under his one-footed blast technique.
 
 This guide breaks down what actually makes a crash work for technical death metal — dry voicing, fast response, and touring durability — and which specific models these four drummers rely on, from budget-friendly starters to the professional setups behind some of the genre's most demanding recordings.`,
       keyPoints: [
         "Dry, controlled voicing dominates technical death metal — crashes need to stay articulate through 240+ BPM blast beats",
-        "George Kollias's Zildjian K Custom Dark Crashes deliver explosive accent layering at his 240+ BPM ceiling",
+        "George Kollias's Zildjian A Custom Crashes deliver explosive accent layering at his 240+ BPM ceiling",
         "Hannes Grossmann's Meinl Byzance Brilliant Crashes favor bright, cutting accents for classically-informed, odd-meter phrasing",
         "17\"-19\" is the technical death metal crash standard, favoring fast response over sheer size"
       ]
@@ -100584,13 +100584,13 @@ This guide breaks down what actually makes a crash work for technical death meta
         {
           name: "Dry, Controlled Voicing",
           icon: "🎯",
-          description: "George Kollias's K Custom Dark Crashes stay dry and defined rather than washing out at extreme blast-beat speed — essential for keeping complex fills legible under Nile's dense arrangements.",
+          description: "George Kollias's A Custom Crashes stay dry and defined rather than washing out at extreme blast-beat speed — essential for keeping complex fills legible under Nile's dense arrangements.",
           recommendation: "Dry or dark-leaning crashes for maximum articulation under sustained speed"
         },
         {
           name: "Fast Response for Rapid Fills",
           icon: "⏱️",
-          description: "Flo Mounier's fast-response Sabian AAX X-Plosion Crashes and Kollias's K Custom Dark Crashes both open quickly enough to punctuate rapid, complex fills without lagging behind the pattern.",
+          description: "Flo Mounier's fast-response Sabian AAX X-Plosion Crashes and Kollias's A Custom Crashes both open quickly enough to punctuate rapid, complex fills without lagging behind the pattern.",
           recommendation: "Thinner, faster-responding crashes for rapid-fire accent work"
         },
         {
@@ -100614,7 +100614,7 @@ This guide breaks down what actually makes a crash work for technical death meta
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Zildjian K Custom Dark, Meinl Byzance, Sabian AAX, Meinl Mb20) dominates technical death metal's pro-level crashes, delivering the complexity and durability the genre's fastest, most demanding tempos require.",
+          description: "B20 bronze (Zildjian A Custom, Meinl Byzance, Sabian AAX, Meinl Mb20) dominates technical death metal's pro-level crashes, delivering the complexity and durability the genre's fastest, most demanding tempos require.",
           recommendation: "B20 bronze for pro-level articulation and durability at extreme speed"
         }
       ]
@@ -100626,26 +100626,26 @@ This guide breaks down what actually makes a crash work for technical death meta
       pedals: [
         {
           rank: 1,
-          name: "Zildjian K Custom Dark Crash",
+          name: "Zildjian A Custom Crash",
           brand: "Zildjian",
-          model: "17\" & 18\" K Custom Dark Crash",
+          model: "17\" & 18\" A Custom Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€230-300",
           tier: "pro",
           driveType: "B20 Bronze, Dark",
-          description: `George Kollias's Zildjian setup is purpose-built for Nile's extreme technical death metal demands: 17" and 18" K Custom Dark Crashes for explosive accent layering, part of a broader K Mastersound Hi-Hat and A Custom Mega Bell Ride setup.
+          description: `George Kollias's Zildjian setup is purpose-built for Nile's extreme technical death metal demands: 17" and 18" A Custom Crashes for explosive accent layering, part of a broader K Mastersound Hi-Hat and A Custom Mega Bell Ride setup.
 
 The combination keeps every stroke legible at the 240+ BPM blast beats defining tracks like "Annihilation of the Wicked" — proof that a dry, controlled Zildjian crash can cut through even the densest technical death metal arrangements.`,
           pros: [
             "George Kollias's exact touring and studio setup",
-            "K Custom Dark Crashes built for explosive accent layering at extreme speed",
+            "A Custom Crashes built for explosive accent layering at extreme speed",
             "Proven across two decades of Nile's most technical recordings",
             "Wide dealer support and easy replacement sourcing"
           ],
           cons: [
             "Premium price across a full pair",
             "Dry voicing may feel restrained to drummers used to washier crashes",
-            "K Custom Dark finish shows wear faster than standard finishes"
+            "A Custom finish shows wear faster than standard finishes"
           ],
           specs: {
             size: "17\" & 18\"",
@@ -100655,7 +100655,7 @@ The combination keeps every stroke legible at the 240+ BPM blast beats defining 
             decay: "Fast, explosive"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "17\" & 18\" K Custom Dark Crashes at 240+ BPM blast-beat tempo" }
+            { name: "George Kollias", band: "Nile", note: "17\" & 18\" A Custom Crashes at 240+ BPM blast-beat tempo" }
           ],
           verdict: "The technical death metal standard for dry, cutting articulation at the fastest tempos in metal.",
           rating: 4.9,
@@ -100778,7 +100778,7 @@ Built to survive relentless touring abuse, the setup has anchored Roddy's work w
     // Budget options section
     budgetOptions: {
       title: "Best Budget Crash Cymbals for Technical Death Metal",
-      description: "You don't need a full K Custom Dark or Byzance setup to start playing technical death metal. These budget lines deliver dry, controlled response for developing players.",
+      description: "You don't need a full A Custom or Byzance setup to start playing technical death metal. These budget lines deliver dry, controlled response for developing players.",
       pedals: [
         {
           name: "Zildjian ZBT Crash",
@@ -100787,7 +100787,7 @@ Built to survive relentless touring abuse, the setup has anchored Roddy's work w
           priceRange: "€80-110",
           tier: "budget",
           driveType: "B8 Bronze",
-          description: "A budget entry point into the Zildjian voicing behind George Kollias's K Custom Dark setup. B8 bronze delivers a brighter, simpler cut that still holds up at fast, blast-beat tempo for developing players.",
+          description: "A budget entry point into the Zildjian voicing behind George Kollias's A Custom setup. B8 bronze delivers a brighter, simpler cut that still holds up at fast, blast-beat tempo for developing players.",
           pros: [
             "Same brand family as Kollias's pro setup",
             "Bright, cutting B8 tone at extreme tempo",
@@ -100830,7 +100830,7 @@ Built to survive relentless touring abuse, the setup has anchored Roddy's work w
       title: "Zildjian vs Meinl vs Sabian Crashes for Technical Death Metal",
       content: `Brand choice shapes how a technical death metal crash setup handles the genre's demand for both speed and clarity. Here's how the three main options compare:
 
-**Zildjian K Custom Dark (George Kollias):**
+**Zildjian A Custom (George Kollias):**
 - Dry, defined crash articulation with explosive accent layering
 - Proven at the absolute fastest blast-beat tempos
 - Best for: Maximum dry articulation and cutting power
@@ -100847,7 +100847,7 @@ Built to survive relentless touring abuse, the setup has anchored Roddy's work w
 
 **The Truth:** All three brands prove viable at technical death metal's highest level. Kollias's Zildjian setup and Mounier's Sabian setup both favor fast response for blast-beat clarity, while Grossmann's and Roddy's shared Meinl choice shows the platform's range from classical precision to heavy-duty touring durability.
 
-**Our Recommendation:** Start with a budget ZBT or SBR crash to build technique, then invest in a full K Custom Dark, Byzance, or AAX crash once your playing demands the extra articulation technical death metal's fastest tempos require.`,
+**Our Recommendation:** Start with a budget ZBT or SBR crash to build technique, then invest in a full A Custom, Byzance, or AAX crash once your playing demands the extra articulation technical death metal's fastest tempos require.`,
       comparisonTable: [
         { feature: "Dry Articulation", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Touring Durability", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -100862,7 +100862,7 @@ Built to survive relentless touring abuse, the setup has anchored Roddy's work w
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian K Custom Dark Crash",
+          pedal: "Zildjian A Custom Crash",
           reason: "George Kollias's exact Nile setup — dry, cutting articulation at 240+ BPM."
         },
         {
@@ -100891,7 +100891,7 @@ Built to survive relentless touring abuse, the setup has anchored Roddy's work w
       'best-crash-cymbals-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — dry articulation at 240+ BPM' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Crash — dry articulation at 240+ BPM' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'Meinl Byzance Brilliant Crash — classically-informed precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX X-Plosion Crash — fast response for gravity-blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Mb20 Heavy Crash — one-footed blast technique' }
@@ -100899,7 +100899,7 @@ Built to survive relentless touring abuse, the setup has anchored Roddy's work w
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — dry articulation at 240+ BPM' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Crash — dry articulation at 240+ BPM' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'Meinl Byzance Brilliant Crash — classically-informed precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX X-Plosion Crash — fast response for gravity-blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Mb20 Heavy Crash — one-footed blast technique' }
@@ -100910,7 +100910,7 @@ Built to survive relentless touring abuse, the setup has anchored Roddy's work w
     faq: [
       {
         question: "What crash cymbal does George Kollias use?",
-        answer: "George Kollias of Nile plays 17\" and 18\" Zildjian K Custom Dark Crashes, part of a broader Zildjian K & A Custom setup chosen for dry, defined articulation at his 240+ BPM blast-beat ceiling."
+        answer: "George Kollias of Nile plays 17\" and 18\" Zildjian A Custom Crashes, part of a broader Zildjian K & A Custom setup chosen for dry, defined articulation at his 240+ BPM blast-beat ceiling."
       },
       {
         question: "What crash cymbal does Hannes Grossmann use?",
@@ -100918,7 +100918,7 @@ Built to survive relentless touring abuse, the setup has anchored Roddy's work w
       },
       {
         question: "Are dry or washy crash cymbals better for technical death metal?",
-        answer: "Dry, controlled crash cymbals are generally preferred in technical death metal because they stay articulate at 200+ BPM blast beats, keeping fast, complex fills legible instead of blurring into a wash. George Kollias's K Custom Dark Crashes and Flo Mounier's AAX X-Plosion Crashes both exemplify this dry, fast-responding approach."
+        answer: "Dry, controlled crash cymbals are generally preferred in technical death metal because they stay articulate at 200+ BPM blast beats, keeping fast, complex fills legible instead of blurring into a wash. George Kollias's A Custom Crashes and Flo Mounier's AAX X-Plosion Crashes both exemplify this dry, fast-responding approach."
       },
       {
         question: "What's the best budget crash cymbal for technical death metal?",
@@ -100933,7 +100933,7 @@ Built to survive relentless touring abuse, the setup has anchored Roddy's work w
     // Conclusion
     conclusion: {
       title: "Choose a Crash That Stays Legible at Speed",
-      content: `Technical death metal crash choice comes down to one core requirement: staying articulate no matter how fast or rhythmically dense the material gets. George Kollias's Zildjian K Custom Dark Crash and Flo Mounier's Sabian AAX X-Plosion Crash both prove that dry, fast-responding voicing wins at the genre's most extreme tempos. Hannes Grossmann's and Derek Roddy's shared Meinl choice shows the platform's range, from classically-informed precision to heavy-duty touring reliability.
+      content: `Technical death metal crash choice comes down to one core requirement: staying articulate no matter how fast or rhythmically dense the material gets. George Kollias's Zildjian A Custom Crash and Flo Mounier's Sabian AAX X-Plosion Crash both prove that dry, fast-responding voicing wins at the genre's most extreme tempos. Hannes Grossmann's and Derek Roddy's shared Meinl choice shows the platform's range, from classically-informed precision to heavy-duty touring reliability.
 
 Start with a budget ZBT or SBR crash to build your technique, and invest in a full pro-tier crash once your playing has outgrown what a starter set can deliver.
 
@@ -107810,7 +107810,7 @@ This guide breaks down what makes a great technical death metal hi-hat — dry v
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `George Kollias's 14" K Mastersound Hi-Hats are purpose-built for Nile's extreme technical death metal demands, part of a broader Zildjian setup that also includes 17" and 18" K Custom Dark Crashes, a 21" A Custom Mega Bell Ride, and an 18" China. The K Mastersound's dry, defined chick keeps every stroke legible at the 240+ BPM blast beats defining tracks like "Annihilation of the Wicked."
+          description: `George Kollias's 14" K Mastersound Hi-Hats are purpose-built for Nile's extreme technical death metal demands, part of a broader Zildjian setup that also includes 17" and 18" A Custom Crashes, a 21" A Custom Mega Bell Ride, and an 18" China. The K Mastersound's dry, defined chick keeps every stroke legible at the 240+ BPM blast beats defining tracks like "Annihilation of the Wicked."
 
 Where washier, more open hi-hats blur together at extreme speed, Kollias's K Mastersound pair proves a dry, controlled Zildjian voice can cut through even the densest technical death metal arrangements.`,
 
@@ -112055,14 +112055,14 @@ Whatever you land on, don't overlook wood quality and weight-matching — a pair
     // SEO metadata
     title: "Best Cymbals for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Extreme Metal 2026 | MetalForge Expert Guide",
-    description: "Top cymbal setups for extreme metal: what George Kollias, Derek Roddy, and Gene Hoglan actually play across hi-hats, crashes, and rides. Zildjian K Custom Dark vs Sabian AAX vs Meinl Byzance for death, black, and grind-adjacent extreme metal.",
+    description: "Top cymbal setups for extreme metal: what George Kollias, Derek Roddy, and Gene Hoglan actually play across hi-hats, crashes, and rides. Zildjian A Custom vs Sabian AAX vs Meinl Byzance for death, black, and grind-adjacent extreme metal.",
     seoKeywords: [
       'best cymbals for extreme metal',
       'extreme metal cymbals',
       'george kollias cymbals nile',
       'derek roddy cymbals hate eternal',
       'gene hoglan cymbals',
-      'zildjian k custom dark extreme metal',
+      'zildjian a custom extreme metal',
       'sabian aax extreme metal cymbals',
       'meinl byzance extreme metal',
       'durable cymbals blast beats'
@@ -112091,11 +112091,11 @@ Whatever you land on, don't overlook wood quality and weight-matching — a pair
       title: "What Cymbals Survive Extreme Metal's Blast Beats?",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality surrounding both — puts more sustained abuse on a full cymbal setup than almost any other style of drumming. At 200-280 BPM blast beats, hi-hats, crashes, and rides all get struck thousands of times a set, night after touring night, and have to keep responding accurately long after ordinary cymbals would develop keyholing or lose their voice entirely.
 
-George Kollias of Nile runs a full Zildjian K Custom Dark setup — 14" hi-hats and 17"/19" crashes — paired with a 21" Zildjian A Custom Mega Bell Ride, giving his technical death metal drumming a dark, controlled voicing that stays articulate past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes with a 22" Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surfaces are built specifically for long-term touring durability. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion hi-hats and crash with a 22" AAX Ride, prized for the explosive, reliable punch that matches his metronomic "Atomic Clock" precision.
+George Kollias of Nile runs a full Zildjian A Custom setup — 14" hi-hats and 17"/19" crashes — paired with a 21" Zildjian A Custom Mega Bell Ride, giving his technical death metal drumming a dark, controlled voicing that stays articulate past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes with a 22" Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surfaces are built specifically for long-term touring durability. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion hi-hats and crash with a 22" AAX Ride, prized for the explosive, reliable punch that matches his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a cymbal setup survive extreme metal's demands — durability, fast attack, and consistent response under sustained abuse — and recommends specific setups across every budget, from a first touring-durable pack to the exact cymbals extreme metal's most demanding drummers play.`,
       keyPoints: [
-        "Zildjian K Custom Dark defines George Kollias's dark, controlled voicing for 240+ BPM technical death metal",
+        "Zildjian A Custom defines George Kollias's dark, controlled voicing for 240+ BPM technical death metal",
         "Sabian AAX powers Gene Hoglan's explosive Atomic Clock precision",
         "Derek Roddy's move to Meinl Byzance Brilliant Heavy Hammered shows how touring durability drives cymbal choice at the highest level",
         "14\" hi-hats and 21\"-22\" rides dominate extreme metal, favoring fast response and a prominent bell over maximum wash"
@@ -112115,7 +112115,7 @@ This guide breaks down what actually makes a cymbal setup survive extreme metal'
         {
           name: "Fast Attack, Controlled Decay",
           icon: "⚡",
-          description: "At 200-280 BPM, cymbals that ring or wash too long bury the next accent. George Kollias's K Custom Dark setup and Gene Hoglan's AAX X-Plosion crash both respond instantly and stay controlled to keep pace with sustained blast patterns.",
+          description: "At 200-280 BPM, cymbals that ring or wash too long bury the next accent. George Kollias's A Custom setup and Gene Hoglan's AAX X-Plosion crash both respond instantly and stay controlled to keep pace with sustained blast patterns.",
           recommendation: "Medium-thin, fast-decaying crashes and dry-voiced rides over slow-building, sustained wash"
         },
         {
@@ -112151,15 +112151,15 @@ This guide breaks down what actually makes a cymbal setup survive extreme metal'
       pedals: [
         {
           rank: 1,
-          name: "Zildjian K Custom Dark + A Custom Mega Bell",
+          name: "Zildjian A Custom + A Custom Mega Bell",
           brand: "Zildjian",
-          model: "K Custom Dark Series / A Custom Mega Bell Ride",
+          model: "A Custom Series / A Custom Mega Bell Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€300-550 per cymbal",
           tier: "pro",
           material: "B20 Bronze (Dark / Brilliant Finish)",
 
-          description: `George Kollias of Nile runs a full Zildjian K Custom Dark setup — 14" hi-hats and 17"/19" crashes — paired with a 21" A Custom Mega Bell Ride. The dark, low-sustain voicing across the hi-hats and crashes gives Kollias the controlled, technical precision his 240+ BPM blast beats demand, while the Mega Bell Ride's oversized bell delivers the piercing accents needed to cut through Nile's densely layered arrangements.
+          description: `George Kollias of Nile runs a full Zildjian A Custom setup — 14" hi-hats and 17"/19" crashes — paired with a 21" A Custom Mega Bell Ride. The dark, low-sustain voicing across the hi-hats and crashes gives Kollias the controlled, technical precision his 240+ BPM blast beats demand, while the Mega Bell Ride's oversized bell delivers the piercing accents needed to cut through Nile's densely layered arrangements.
 
 Kollias's setup proves that dark, complex voicing and extreme-tempo reliability aren't mutually exclusive — this combination covers Nile's entire technical death metal catalog.`,
 
@@ -112183,7 +112183,7 @@ Kollias's setup proves that dark, complex voicing and extreme-tempo reliability 
             rideRange: "21\""
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", reason: "K Custom Dark hi-hats/crashes + A Custom Mega Bell Ride — 240+ BPM technical precision" }
+            { name: "George Kollias", band: "Nile", reason: "A Custom hi-hats/crashes + A Custom Mega Bell Ride — 240+ BPM technical precision" }
           ],
           verdict: "The extreme metal technical benchmark. If you want the dark, controlled precision that survives 240+ BPM, this is it.",
           rating: 4.9,
@@ -112209,7 +112209,7 @@ This setup reflects a philosophy shared across extreme metal's founding drummers
             "More accessible pricing than premium Zildjian or Meinl lines"
           ],
           cons: [
-            "Brighter voicing less controlled than K Custom Dark for pure technical precision",
+            "Brighter voicing less controlled than A Custom for pure technical precision",
             "Less hand-hammered complexity than Meinl Byzance",
             "Standard sizing only — limited larger-diameter options in this line"
           ],
@@ -112287,7 +112287,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
             "Reliable B20 bronze construction at mid-pro pricing"
           ],
           cons: [
-            "Brighter, more explosive voicing less controlled than K Custom Dark",
+            "Brighter, more explosive voicing less controlled than A Custom",
             "Less hand-hammered complexity than Meinl Byzance",
             "Mid-tier pricing sits between budget and ultra-premium"
           ],
@@ -112323,7 +112323,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
           material: "B20 Bronze",
           description: "See main recommendation above. This proven, durable choice remains one of the most accessible ways into extreme metal's blast-tested cymbal sound.",
           pros: ["Proven durability under punishing technique", "Bright, cutting B20 tone", "More accessible than premium K Custom or Byzance lines"],
-          cons: ["Less controlled voicing than K Custom Dark"],
+          cons: ["Less controlled voicing than A Custom"],
           verdict: "Top budget pick for a durable, blast-ready extreme metal setup.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/sabian_aax_stage_series.htm?partner_id=metalforge"
@@ -112335,8 +112335,8 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
           priceRange: "€150-280 per cymbal",
           tier: "budget",
           material: "B20 Bronze",
-          description: "An affordable entry point into Zildjian's family sound for drummers chasing George Kollias's K Custom Dark voicing, before upgrading to the full K Custom line.",
-          pros: ["Genuine Zildjian B20 character at a lower price", "Accessible pricing across a full setup", "Clear upgrade path to K Custom Dark"],
+          description: "An affordable entry point into Zildjian's family sound for drummers chasing George Kollias's A Custom voicing, before upgrading to the full K Custom line.",
+          pros: ["Genuine Zildjian B20 character at a lower price", "Accessible pricing across a full setup", "Clear upgrade path to A Custom"],
           cons: ["Less dark, controlled voicing than K Custom"],
           verdict: "Best entry point for drummers building toward extreme metal's dark, blast-ready standard.",
           rating: 4.1,
@@ -112347,10 +112347,10 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
 
     // Brand comparison
     comparison: {
-      title: "Zildjian K Custom Dark vs Sabian AAX vs Meinl Byzance for Extreme Metal",
+      title: "Zildjian A Custom vs Sabian AAX vs Meinl Byzance for Extreme Metal",
       content: `Extreme metal's cymbal choices split into proven camps, defined by the genre's most influential drummers:
 
-**Zildjian K Custom Dark (George Kollias):**
+**Zildjian A Custom (George Kollias):**
 - Dark, controlled, low-sustain voicing built for extreme-tempo technical precision
 - Paired with the A Custom Mega Bell Ride for piercing accent work
 - The technical death metal benchmark
@@ -112365,7 +112365,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
 - Brilliant finish for faster attack than fully dark alternatives
 - The choice for drummers prioritizing career-long touring longevity
 
-**Extreme Metal Recommendation:** Choose Zildjian K Custom Dark if you play technical, precision-focused extreme metal in the Nile tradition. Choose Sabian AAX if you want proven durability at accessible pricing. Choose Meinl Byzance Brilliant Heavy Hammered if long-term touring durability is your top priority.`,
+**Extreme Metal Recommendation:** Choose Zildjian A Custom if you play technical, precision-focused extreme metal in the Nile tradition. Choose Sabian AAX if you want proven durability at accessible pricing. Choose Meinl Byzance Brilliant Heavy Hammered if long-term touring durability is your top priority.`,
       comparisonTable: [
         { feature: "Controlled Precision", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Blast-Beat Durability", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -112381,7 +112381,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian K Custom Dark + A Custom Mega Bell",
+          pedal: "Zildjian A Custom + A Custom Mega Bell",
           reason: "George Kollias's Nile setup — the genre's most technically demanding 240+ BPM blast-beat benchmark."
         },
         {
@@ -112410,14 +112410,14 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       'best-drum-kits-for-extreme-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark + A Custom Mega Bell — Nile\'s 240+ BPM technical precision' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom + A Custom Mega Bell — Nile\'s 240+ BPM technical precision' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered — Hate Eternal/Nile\'s touring longevity' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX X-Plosion — Death/Testament\'s Atomic Clock precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark + A Custom Mega Bell Ride — Nile\'s technical death metal precision' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom + A Custom Mega Bell Ride — Nile\'s technical death metal precision' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered — Hate Eternal/Nile\'s blast-beat longevity' },
     ],
 
@@ -112425,7 +112425,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
     faq: [
       {
         question: "What cymbals does George Kollias use?",
-        answer: "George Kollias of Nile runs a full Zildjian K Custom Dark setup — 14\" hi-hats and 17\"/19\" crashes — paired with a 21\" Zildjian A Custom Mega Bell Ride. The dark, over-hammered voicing keeps his blast beats controlled and articulate past 240 BPM."
+        answer: "George Kollias of Nile runs a full Zildjian A Custom setup — 14\" hi-hats and 17\"/19\" crashes — paired with a 21\" Zildjian A Custom Mega Bell Ride. The dark, over-hammered voicing keeps his blast beats controlled and articulate past 240 BPM."
       },
       {
         question: "What cymbals does Derek Roddy use?",
@@ -112441,16 +112441,16 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       },
       {
         question: "Are Zildjian or Sabian cymbals better for extreme metal?",
-        answer: "Both are proven at the highest level — George Kollias (Zildjian K Custom Dark) and Gene Hoglan (Sabian AAX) prove this. Zildjian K Custom Dark offers darker, more controlled precision for technical death metal. Sabian AAX delivers brighter, more accessible durability. Choose Zildjian for controlled technicality; choose Sabian for proven, accessible toughness."
+        answer: "Both are proven at the highest level — George Kollias (Zildjian A Custom) and Gene Hoglan (Sabian AAX) prove this. Zildjian A Custom offers darker, more controlled precision for technical death metal. Sabian AAX delivers brighter, more accessible durability. Choose Zildjian for controlled technicality; choose Sabian for proven, accessible toughness."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Extreme Metal Cymbal Setup",
-      content: `Extreme metal cymbals come down to a genuine choice between three proven philosophies: Zildjian K Custom Dark's controlled, technical precision (George Kollias's sound), Sabian AAX's bright, accessible durability (Gene Hoglan's foundation), or Meinl Byzance Brilliant Heavy Hammered's hand-hammered, long-term touring durability (Derek Roddy's career-long choice).
+      content: `Extreme metal cymbals come down to a genuine choice between three proven philosophies: Zildjian A Custom's controlled, technical precision (George Kollias's sound), Sabian AAX's bright, accessible durability (Gene Hoglan's foundation), or Meinl Byzance Brilliant Heavy Hammered's hand-hammered, long-term touring durability (Derek Roddy's career-long choice).
 
-Start with whichever character matches your playing style and touring demands. If you want the most technically controlled, precision-focused sound, Zildjian K Custom Dark is the benchmark. If you want proven, accessible durability under punishing technique, Sabian AAX is the safer investment. If you're chasing maximum long-term durability above all else, look at Meinl Byzance Brilliant Heavy Hammered.
+Start with whichever character matches your playing style and touring demands. If you want the most technically controlled, precision-focused sound, Zildjian A Custom is the benchmark. If you want proven, accessible durability under punishing technique, Sabian AAX is the safer investment. If you're chasing maximum long-term durability above all else, look at Meinl Byzance Brilliant Heavy Hammered.
 
 Don't overlook the budget tier — Zildjian A Series and Sabian AAX Stage both provide genuine upgrade paths toward the pro-level sound without requiring a full investment up front. Whatever you choose, prioritize B20 bronze construction; extreme metal's sustained blast beats will find every weakness in a lesser alloy.
 

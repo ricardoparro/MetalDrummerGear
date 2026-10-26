@@ -1676,9 +1676,9 @@ export const articles = {
         "description": "The underground years, building Slipknot's chaotic sound.",
         "gear": {
           "drums": "ddrum Custom Kit",
-          "snare": "Pearl Free Floating 14x6.5\" Steel",
-          "cymbals": "Paiste 2002 Series",
-          "hardware": "DW 5000 Double Pedal"
+          "snare": "Not publicly documented",
+          "cymbals": "Zildjian A Custom Series",
+          "hardware": "Tama Iron Cobra Double Pedal"
         },
         "notes": "Joey's early setup was more basic, focused on durability for the aggressive underground scene."
       },

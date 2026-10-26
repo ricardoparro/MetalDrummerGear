@@ -1,6 +1,6 @@
 # Shannon Larkin's Drum Setup on Godsmack's The Oracle (2010)
 
-> Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series drums, Sabian HH/HHX cymbals, DW 9000 double pedal, and the home-studio recording approach behind 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain.'
+> Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series drums, Sabian AAX cymbals, DW 9000 double pedal, and the home-studio recording approach behind 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain.'
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Shannon Larkin](/llms/drummers/shannon-larkin.md)
@@ -14,19 +14,19 @@
 
 Released on May 4, 2010, on Universal Republic Records, *The Oracle* is Godsmack's fifth studio album — and the third consecutive Godsmack studio release to debut at #1 on the Billboard 200, following *Faceless* (2003) and *IV* (2006). That achievement placed Godsmack alongside a small group of American hard rock acts whose commercial dominance in the 2000s was, in retrospect, remarkable for the format. By 2010, the rock landscape had shifted decisively toward streaming-era economics, and a #1 debut for a hard rock band on a major label was no longer routine — yet *The Oracle* delivered exactly that, anchored by the singles "Cryin' Like a Bitch" and "Love-Hate-Sex-Pain."
 
-For Shannon Larkin, *The Oracle* sessions represented his third studio album with Godsmack since joining in 2002. His ddrum Dios Series kit and Sabian HH/HHX cymbal voice — established since *Faceless* and refined through *IV* — remained his platform, with double 22" bass drums and the four-tom spread that has been his consistent Godsmack configuration. His ddrum Dios maple snare remained his consistent choice, and his Sabian cymbal selection deepened around the HH/HHX dual-series voice that had become his signature ride and crash palette.
+For Shannon Larkin, *The Oracle* sessions represented his third studio album with Godsmack since joining in 2002. His ddrum Dios Series kit and Sabian AAX cymbal voice — unchanged since *Faceless* — remained his platform, with double 22" bass drums and the four-tom spread that has been his consistent Godsmack configuration. His ddrum Dios maple snare remained his consistent choice, and his Sabian AAX cymbal selection stayed the same bright, machine-hammered voice that had anchored his crash and ride work since joining the band.
 
 The most significant production context for *The Oracle* was that it was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman (Evanescence, Slipknot, Mudvayne) co-producing alongside Erna. That home-studio environment gave the band the time and isolation to track drums with the kind of focused attention that arena-tier studios with hourly meters don't always allow. Larkin had room to dial in head selections, microphone placement, and tuning across the full kit — an approach that suited the album's deliberate, song-first arrangements.
 
 By 2010, Larkin's stick choice remained the Vic Firth American Classic 5B, the same hickory 5B he had played since joining Godsmack. Combined with his unchanged DW 9000 double bass pedal, the gear picture on *The Oracle* is one of a drummer who has settled into a refined, mature setup and is using it to serve the music rather than to chase new equipment.
 
-This article documents the ddrum Dios Series kit, ddrum Dios maple snare, Sabian HH/HHX cymbal configuration, DW 9000 double pedal, and Vic Firth American Classic 5B sticks that powered Shannon Larkin's *The Oracle* studio performance — the rig behind Godsmack's third consecutive #1 Billboard 200 debut.
+This article documents the ddrum Dios Series kit, ddrum Dios maple snare, Sabian AAX cymbal configuration, DW 9000 double pedal, and Vic Firth American Classic 5B sticks that powered Shannon Larkin's *The Oracle* studio performance — the rig behind Godsmack's third consecutive #1 Billboard 200 debut.
 
 ## Gear Breakdown
 
 - **Drums:** ddrum ddrum Dios Series (Custom finishes finish)
 - **Snare:** ddrum ddrum Dios 14"x6.5" Maple, 14" x 6.5"
-- **Cymbals:** Sabian — Sabian HH / HHX Series
+- **Cymbals:** Sabian — Sabian AAX Series
 - **Hardware / Pedals:** DW 9000 Series Double Pedal; Vic Firth American Classic 5B; Evans G2 Coated; Evans EMAD
 - **Heads:** Evans or Remo coated batter (rotating across sessions), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension — preserving cutting attack while allowing maple shell character to express
@@ -49,27 +49,27 @@ The maple shell produces a warm fundamental with sharp transient attack, complex
 
 Larkin tuned the snare at medium-high tension across *The Oracle* sessions, maintaining the cutting attack his hard rock playing requires while preserving the maple shell's tonal character. The home-studio environment allowed extended time to dial in head selection and mic placement — a degree of attention that distinguishes settled professional setups from rushed studio dates.
 
-### Sabian HH / HHX: The Settled Cymbal Voice
+### Sabian AAX: The Settled Cymbal Voice
 
-By *The Oracle* sessions in 2010, Shannon Larkin's Sabian setup had settled into the HH/HHX dual-series configuration he had developed across the *IV* (2006) sessions and the touring that followed. As a long-time Sabian artist, Larkin's cymbal voice is identifiable precisely because he has refined it across multiple albums rather than swapping series with each release: hand-hammered HH for hi-hats and china, HHX for crashes and his signature Raw Bell Dry Ride.
+By *The Oracle* sessions in 2010, Shannon Larkin's Sabian setup remained exactly what it had been since *Faceless* (2003): a single-series AAX configuration across hi-hats, crashes, ride, splash, and china. As a long-time Sabian artist, Larkin's cymbal voice is identifiable precisely because he has stuck with one line across his entire Godsmack catalog rather than switching series between albums.
 
-The Sabian HH series (Hand-Hammered) is Sabian's flagship hand-made line, with each cymbal individually hammered by craftspeople in Meductic, New Brunswick. The result is a darker, more complex cymbal voice with unique tonal variations that machine-hammering cannot replicate. The HH 14" Medium Hi-Hats provide a darker closed sound and a more textured open wash than the AAX line that Larkin used earlier in his Godsmack tenure, suited to *The Oracle*'s arrangement-conscious approach.
+The AAX 14" Stage Hi-Hats provide the same bright, fast-responding closed sound and open wash that anchored Larkin's playing since his Godsmack debut, well-suited to *The Oracle*'s arrangement-conscious approach.
 
-The HHX Evolution Crashes (17" and 19") sit at the center of *The Oracle*'s crash voice. Both speak quickly and sustain with complex harmonic content, providing the dynamic punctuation the album's dynamically-varied arrangements depend on. Their tonal character — bright enough to project, complex enough to add musical interest — is a hallmark of Larkin's mid-2000s-and-onward Sabian configuration.
+The 18" and 19" AAX X-Plosion Crashes sit at the center of *The Oracle*'s crash voice. Both speak quickly and project clearly, providing the dynamic punctuation the album's dynamically-varied arrangements depend on. Their bright, fast-lathed character is a hallmark of Larkin's Sabian configuration across every Godsmack album.
 
-The HHX 21" Raw Bell Dry Ride is the cymbal most associated with Larkin's settled Godsmack sound. Its dry, contained body wash and sharply defined bell deliver the time-keeping complexity his playing requires across the album's mid-tempo passages. On *The Oracle*, this ride voice is the consistent thread across the record's quieter ride-driven sections.
+The 21" AAX Raw Bell Dry Ride is the cymbal most associated with Larkin's settled Godsmack sound. Its dry, contained body wash and sharply defined bell deliver the time-keeping clarity his playing requires across the album's mid-tempo passages. On *The Oracle*, this ride voice is the consistent thread across the record's quieter ride-driven sections.
 
-The Sabian setup on *The Oracle* demonstrates Larkin's approach to cymbal selection: pick a voice you trust, develop it across albums, refine the model selection but keep the philosophy. By 2010 the HH/HHX configuration was no longer a transition — it was who Shannon Larkin sounded like.
+The Sabian setup on *The Oracle* demonstrates Larkin's approach to cymbal selection: pick a voice you trust and stay with it. By 2010 the AAX configuration wasn't a settled destination after some earlier transition — it was the same voice Larkin had always played.
 
 ## The Settled Era: The Oracle and the Third #1
 
-*The Oracle* (2010) is Shannon Larkin's settled-era studio performance with Godsmack — an album recorded at Sully Erna's Massachusetts home studio with the kind of time and attention that commercial sessions don't always allow. The ddrum Dios Series kit and maple snare, Sabian HH/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks collectively represent a drummer who has refined his rig across two prior Godsmack studio albums and arrived at *The Oracle* with very specific ideas about the sounds he wanted to make.
+*The Oracle* (2010) is Shannon Larkin's settled-era studio performance with Godsmack — an album recorded at Sully Erna's Massachusetts home studio with the kind of time and attention that commercial sessions don't always allow. The ddrum Dios Series kit and maple snare, Sabian AAX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks collectively represent a drummer who has refined his rig across two prior Godsmack studio albums and arrived at *The Oracle* with very specific ideas about the sounds he wanted to make.
 
 **For Drummers Studying The Oracle:**
-Start with "Cryin' Like a Bitch" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's cutting voice for radio-driving authority. Then work through "Love-Hate-Sex-Pain" for the maple snare's complex backbeat and the HHX Raw Bell Dry Ride's verse-driving voice. The title track demonstrates the architectural ambition Larkin can deliver when the arrangement demands it — extended dynamic arcs across a single track without losing pocket.
+Start with "Cryin' Like a Bitch" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's cutting voice for radio-driving authority. Then work through "Love-Hate-Sex-Pain" for the maple snare's complex backbeat and the AAX Raw Bell Dry Ride's verse-driving voice. The title track demonstrates the architectural ambition Larkin can deliver when the arrangement demands it — extended dynamic arcs across a single track without losing pocket.
 
 **The Gear Legacy:**
-By 2010, Shannon Larkin's ddrum Dios Series + Sabian HH/HHX + DW 9000 + Vic Firth American Classic 5B setup represented a settled professional rig that he carried across multiple albums and touring cycles. A player approaching *The Oracle*'s drum sound can replicate the gear philosophy — durable shells, hand-hammered cymbals with body and complexity, chain-drive double pedal, standard-weight stick — at multiple price points.
+By 2010, Shannon Larkin's ddrum Dios Series + Sabian AAX + DW 9000 + Vic Firth American Classic 5B setup represented a settled professional rig that he carried across multiple albums and touring cycles. A player approaching *The Oracle*'s drum sound can replicate the gear philosophy — durable shells, bright machine-hammered cymbals, chain-drive double pedal, standard-weight stick — at multiple price points.
 
 For the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue through [IV (2006)](/articles/godsmack-iv-drum-setup), and follow with *The Oracle* (2010) for the settled era documented here. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit.
 
@@ -115,7 +115,7 @@ A: By *The Oracle* (2010), Shannon Larkin's stick choice remained the Vic Firth 
 
 **Q: What cymbals does Shannon Larkin use on The Oracle?**
 
-A: Shannon Larkin is a long-time Sabian artist. On *The Oracle* (2010), he used a Sabian HH / HHX dual-series configuration — continuing the cymbal voice he had developed across the *IV* (2006) sessions and the touring that followed. His setup included Sabian HH 14" Medium Hi-Hats, HHX 17" and 19" Evolution Crashes, an HHX 21" Raw Bell Dry Ride, an HH 18" Chinese cymbal, and an AAX 10" Splash. The HHX Raw Bell Dry Ride in particular is the cymbal most associated with Larkin's settled Godsmack sound — its dry, contained body wash and sharply defined bell deliver the time-keeping complexity his playing requires.
+A: Shannon Larkin is a long-time Sabian artist. On *The Oracle* (2010), he used the same Sabian AAX Series configuration he has played across his entire Godsmack career. His setup included AAX 14" Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" AAX Raw Bell Dry Ride, an 18" AAX Chinese cymbal, and a 10" AAX Splash. The AAX Raw Bell Dry Ride in particular is the cymbal most associated with Larkin's settled Godsmack sound — its dry, contained body wash and sharply defined bell deliver the time-keeping clarity his playing requires.
 
 ## Related Articles
 

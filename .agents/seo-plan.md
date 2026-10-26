@@ -14372,3 +14372,49 @@ Prioritized for filing: highest-severity / most load-bearing findings, one per d
 2. Held-back candidates above (Shannon Larkin HHX evolution.md + 6-file hub sync, Morgan Ågren drummerComparisons.js model-name fix) are ready to file verbatim next run if bank has room.
 3. Content-gap: still no gap rows — no action.
 4. Drum-chair watch: zero changes this week; next due Monday 2026-11-02, group 1 (damageplan...hellyeah, next alphabetical ~12).
+
+---
+
+## 2026-10-26 (run, Monday, ~07:2x UTC) — genreGearGuides.js cross-drummer fact-drift sweep, 5 filed (#9759-9763)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed. ✅
+- `/llms/*.md`: 2,029 files on disk, unchanged.
+- Bank check: 12 open `seo-proposal` at run start — all 8 from the 01:29 run (#9744-9751) already promoted to `ai-fix`, plus held #7981 + 3 standing umbrellas (#3819/#3810/#2211) — effectively 0 fresh untriaged, well under the 45 floor → filed 5 (quality-first, not padded to 8).
+- Content-gap: no rows this week (metrics.md table empty).
+- Drum-chair watch: already ran this week (Monday group 0, logged in the prior entry) — not re-run.
+
+### Metrics readout
+- GSC 7d: 21,250 impr / 208 clicks / 0.98% CTR / pos 9.0 (metrics.md refreshed 07:22 UTC).
+- GA4 7d: 393u/447s/608v. Top pages: `/` (22v), `/drummer/frost` (13v), `/drummer/joey-jordison` (10v), `/drummer/john-otto` (9v).
+
+### Method
+Dispatched 4 parallel research agents: Agent 1 ran the dedicated "missing historical category entry" sweep that prior runs' notes flagged as worth doing (see `.agents/seo/learned-patterns.md` 2026-10-24 entry) — came back **clean** (6 prior fixes had already closed every instance; logged this result to learned-patterns.md so it isn't re-attempted). Agent 2 scoped the previously-flagged `genreGearGuides.js` Matt Halpern residual cleanup (also from learned-patterns.md) and, per its own initiative, spot-checked 3 other frequently-cross-referenced drummers in the same file — this single agent surfaced the bulk of this run's findings. Agents 3 and 4 ran the standard under-mined-roster-drummer sweep (git-log-frequency heuristic); both came back mostly clean (Jimmy DeGrasso, John Longstreth, Waltteri Väyrynen all confirmed clean — these 3 turned out to be recently-closed-sweep drummers, not unexamined ones, per Agent 4's own note) except for one genuine Isaac Lamb finding.
+
+I personally re-verified every finding before filing by reading the cited lines directly against `endorsementNews.js`/`api/drummers/index.js`/`extendedBios.js` ground truth (not trusting subagent line numbers blindly) — this included re-reading the full body of closed issue #9559 after Agent 2 made a striking claim about it (that it asserted Brann Dailor's cymbals were "verified-correct" 2 days after a different closed issue had already proven that fact fabricated); the claim held up exactly as reported, confirming closed issues' incidental asides can go stale fast. Also independently grepped 4 additional Isaac Lamb llms mirror files beyond what the subagent found, confirming the fabrication is wider than one file.
+
+### Proposals filed this run
+1. #9759 — SEO batch: genreGearGuides.js Matt Halpern residual fabrication cleanup (~8 guide blocks: stale hi-hat/crash/ride/china sizes + 2 self-contradicting snare product cards)
+2. #9760 — George Kollias genreGearGuides.js fabricates stale "Pearl Reference" kit + wrong "Zildjian K Custom Dark" cymbal line (verified Masterworks/A Custom)
+3. #9761 — SEO batch: Brann Dailor genreGearGuides.js still fabricates "Meinl Mb20 & Mb8" cymbals across 4 guide families, post-#9437 Byzance correction — includes a note that closed #9559's "verified-correct, do not touch" aside about this exact fact is now stale
+4. #9762 — Chris Adler genreGearGuides.js still fabricates "Mapex Black Panther" kit in 2 guides (verified Saturn Satin Black Maple Burl)
+5. #9763 — SEO batch: Isaac Lamb drummerEvolution.js (13 lines) + 5 llms mirrors still assert fabricated SJC/Meinl/Vic Firth endorsements, contradicting #9235's zero-endorsements correction
+
+### Held-back / not filed
+- Nothing substantive held back — the 2 under-mined-drummer-sweep agents came back clean for 5 of their 6 chosen names (only Isaac Lamb yielded a finding, filed as #9763).
+
+### Learned-patterns.md updates
+- Logged the clean "missing historical category entry" sweep result (pattern is now closed, don't re-sweep speculatively).
+- Logged `genreGearGuides.js` as a confirmed, still-active, multi-drummer fact-drift vein (not Halpern-specific) — any `endorsementNews.js` fact change should trigger a separate grep of this file.
+- Logged the #9559 stale-aside lesson (closed issues' incidental "already correct" notes are only as fresh as their write date).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9759-9763 (this run, 5 fresh)
+
+### Next run
+1. Watch #9759-9763 pick up via CEO triage then Roadie; confirm #9759/#9761/#9763's multi-location batch fixes land in full (implementers were told to grep live, not trust static line lists, since `genreGearGuides.js` is 100k+ lines and may drift).
+2. Content-gap: still no gap rows — no action.
+3. Drum-chair watch: done for this week (group 0, zero changes); next due Monday 2026-11-02, group 1.
+4. The under-mined-roster-drummer heuristic (lowest git-log-grep hit count) is starting to surface recently-closed-sweep drummers rather than genuinely unexamined ones (per this run's Agent 4) — next sweep should consider targeting mid-hit-count drummers or re-running the `genreGearGuides.js`-specific angle (proven more productive this run) on other high-TAM names instead.

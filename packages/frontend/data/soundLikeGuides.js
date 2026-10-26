@@ -17640,7 +17640,7 @@ This guide breaks down the technique and gear approach behind Rüdinger's sound 
       },
       heads: {
         kick: 'Evans UV EQ4 Coated (batter)',
-        snare: 'Evans HD Dry (batter), Evans Snare Side 300 with PureSound Super 30 wires',
+        snare: 'Evans HD Dry (batter), Evans Snare Side 300',
         toms: 'Evans G2 Clear (batter)',
         resonant: 'Evans G1 Clear / EQ3-NP Black (bass reso)'
       }

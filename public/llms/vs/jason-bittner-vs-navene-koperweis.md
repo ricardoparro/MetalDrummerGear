@@ -26,7 +26,7 @@ Overkill/ex-Shadows Fall's Jason Bittner vs Entheos/ex-Animals as Leaders' Naven
 
 ## Playing Style
 
-Jason Bittner built his career as one of NWOAHM's most reliable engines — nearly a decade and a half with Shadows Fall through metalcore's early-2000s commercial peak, including the Grammy-nominated "The War Within" (2004), before a run in Flotsam and Jetsam and joining thrash veterans Overkill in 2017, recording "The Wings of War" (2019) and "Scorched" (2023). Navene Koperweis (born 1985, San Jose, California) cut his teeth in technical death metal with The Faceless and Animosity before joining instrumental djent pioneers Animals as Leaders in 2010 for the "Weightless" (2011) touring cycle, departing in 2012 to found progressive metal outfit Entheos while building a parallel career as a producer and session drummer for acts including Job for a Cowboy and Machine Head.
+Jason Bittner built his career as one of NWOAHM's most reliable engines — nearly a decade and a half with Shadows Fall through metalcore's early-2000s commercial peak, including the Grammy-nominated "The War Within" (2004), before a run in Flotsam and Jetsam and joining thrash veterans Overkill in 2017, recording "The Wings of War" (2019) and "Scorched" (2023). Navene Koperweis (born 1985, San Jose, California) cut his teeth in technical death metal with The Faceless and Animosity before joining instrumental djent pioneers Animals as Leaders in 2009 for the "Weightless" (2011) touring cycle, departing in 2012 to found progressive metal outfit Entheos while building a parallel career as a producer and session drummer for acts including Job for a Cowboy and Machine Head.
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Jason Bittner spent nearly fifteen years with Shadows Fall before joining thr
 A: Jason Bittner plays a Mapex Saturn V kit with Zildjian K and A Custom Series cymbals, driven by a Mapex Falcon double pedal. Navene Koperweis plays a DW Performance Series kit with a DW Performance steel snare and Meinl Byzance Extra Dry cymbals.
 
 **Q: What bands have Jason Bittner and Navene Koperweis played in?**
-A: Jason Bittner played in Shadows Fall (1999-2015) and Flotsam and Jetsam (2013-2017), and has drummed for Overkill since 2017. Navene Koperweis played in The Faceless and Animosity before joining Animals as Leaders (2010-2012) and founding Entheos.
+A: Jason Bittner played in Shadows Fall (1999-2015) and Flotsam and Jetsam (2013-2017), and has drummed for Overkill since 2017. Navene Koperweis played in The Faceless and Animosity before joining Animals as Leaders (2009-2012) and founding Entheos.
 
 **Q: Why did Navene Koperweis leave Animals as Leaders?**
 A: Navene Koperweis left Animals as Leaders in 2012 after the "Weightless" touring cycle and was replaced by Matt Garstka. He went on to found the progressive metal band Entheos and has continued working as a producer and session drummer for acts including Job for a Cowboy and Machine Head.

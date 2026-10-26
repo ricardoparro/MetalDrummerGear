@@ -417,15 +417,15 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl P-2002 Eliminator",
+          "brand": "Gibraltar",
+          "model": "Gibraltar Professional Series",
           "notes": "Single pedal — single kick setup suited to Otto's hip-hop groove approach",
-          "description": "During the \"Significant Other\" era, John Otto was associated with Pearl hardware — the extendedBios notes his long Pearl hardware endorsement before transitioning to OCDP. The Pearl Eliminator's adjustable cam and spring tension system gave Otto the response curve his groove-first approach required: enough resistance to feel the rebound and control subtle kick placements, without the stiffness that hampers nuanced ghost-note-adjacent kick work.\n\nOtto's single-kick setup on \"Significant Other\" speaks to his jazz and hip-hop foundations. Where most nu-metal contemporaries deployed double kick for aggression, Otto's kick patterns are placed with rhythmic intention — locking with DJ Lethal's turntable hits, reinforcing Sam Rivers's bass groove, and creating the hip-hop pocket that gave Limp Bizkit their commercial edge."
+          "description": "John Otto's move to a custom OCDP kit during the \"Significant Other\" commercial peak (1999) came paired with Gibraltar hardware across the setup, including bass drum pedal infrastructure. Gibraltar's professional-grade pedal hardware gave Otto the response curve his groove-first approach required: enough resistance to feel the rebound and control subtle kick placements, without the stiffness that hampers nuanced ghost-note-adjacent kick work.\n\nOtto's single-kick setup on \"Significant Other\" speaks to his jazz and hip-hop foundations. Where most nu-metal contemporaries deployed double kick for aggression, Otto's kick patterns are placed with rhythmic intention — locking with DJ Lethal's turntable hits, reinforcing Sam Rivers's bass groove, and creating the hip-hop pocket that gave Limp Bizkit their commercial edge."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-1000 Hi-Hat Stand",
+          "brand": "Gibraltar",
+          "model": "Gibraltar Professional Series",
           "notes": "Solid, road-worthy stand for the demanding 1999 touring cycle"
         },
         {
@@ -676,16 +676,16 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl P-2002 Eliminator",
+          "brand": "Gibraltar",
+          "model": "Gibraltar Professional Series",
           "notes": "Single pedal — groove-first, hip-hop influenced kick approach",
-          "description": "Otto's single-pedal approach on \"Chocolate Starfish\" is most evident on \"Rollin'\" — the album's signature track and one of nu-metal's defining drum grooves. The kick pattern on \"Rollin'\" is sparse and hip-hop informed: each placement is deliberate, groove-positive, and locked to the track's DJ-influenced arrangement rather than adding metal density.\n\nThe Pearl Eliminator's adjustable cam and spring tension allowed Otto the precise response control that subtle kick placement requires. At the same time, on the album's heavier passages — \"My Way,\" \"Full Nelson,\" \"Hot Dog\" — the same pedal delivered the single-kick authority that those tracks demanded. Versatility within a single-kick constraint was the key requirement, and the Eliminator delivered it."
+          "description": "Otto's single-pedal approach on \"Chocolate Starfish\" is most evident on \"Rollin'\" — the album's signature track and one of nu-metal's defining drum grooves. The kick pattern on \"Rollin'\" is sparse and hip-hop informed: each placement is deliberate, groove-positive, and locked to the track's DJ-influenced arrangement rather than adding metal density.\n\nGibraltar's professional-grade pedal hardware — part of the full Gibraltar hardware setup Otto adopted alongside his OCDP kit — allowed Otto the precise response control that subtle kick placement requires. At the same time, on the album's heavier passages — \"My Way,\" \"Full Nelson,\" \"Hot Dog\" — the same pedal delivered the single-kick authority that those tracks demanded. Versatility within a single-kick constraint was the key requirement, and the Gibraltar pedal delivered it."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-1000 Hi-Hat Stand",
-          "notes": "Reliable Pearl hardware through the peak LB era"
+          "brand": "Gibraltar",
+          "model": "Gibraltar Professional Series",
+          "notes": "Reliable Gibraltar hardware through the peak LB era"
         },
         {
           "type": "Throne",

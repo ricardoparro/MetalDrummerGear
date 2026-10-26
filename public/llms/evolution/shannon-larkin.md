@@ -49,7 +49,7 @@ Larkin joined Godsmack in 2002, replacing Tommy Stewart, and immediately recorde
 
 - **Drums:** ddrum Dios Series — 22" kick, 10"/12"/14"/16" toms *(new — brought into Godsmack when he joined in 2002)*
 - **Snare:** ddrum Dios 14"×6.5" Maple *(new)*
-- **Cymbals:** Sabian AAX Series — 14" hi-hats, 18"/19" crashes, 21" HHX ride, 10" splash, 18" china *(new — signed with Sabian upon joining Godsmack)*
+- **Cymbals:** Sabian AAX Series — 14" hi-hats, 18"/19" crashes, 21" AAX ride, 10" splash, 18" china *(new — signed with Sabian upon joining Godsmack)*
 - **Hardware:** DW 9000 Series Double Pedal *(new — signed with DW upon joining Godsmack)*
 - **Sticks:** Vic Firth American Classic 5B *(new — non-signature hickory, signed upon joining Godsmack)*
 - **Heads:** Evans G2 / EMAD *(new)*
@@ -84,7 +84,7 @@ Godsmack's commercial peak. *The Oracle* was the band's most ambitious album to 
 
 - **Drums:** ddrum Dios Series — 22" kick, 10"/12"/14"/16" toms, custom finish *(unchanged from Faceless era)*
 - **Snare:** ddrum Dios 14"×6.5" Maple *(unchanged)*
-- **Cymbals:** Sabian AAX Series — 14" hi-hats, 18"/19" crashes, 21" HHX ride, 10" splash, 18" china *(unchanged)*
+- **Cymbals:** Sabian AAX Series — 14" hi-hats, 18"/19" crashes, 21" AAX ride, 10" splash, 18" china *(unchanged)*
 - **Hardware:** DW 9000 Series Double Pedal *(unchanged)*
 - **Sticks:** Vic Firth American Classic 5B *(unchanged)*
 - **Heads:** Evans G2 / EMAD2 *(upgrade — EMAD2 for tighter kick response)*
@@ -109,7 +109,7 @@ Larkin's most refined and critically praised era. His ddrum Dios Series kit and 
 
 - **Drums:** ddrum Dios Series — 22" kick, 10"/12"/14"/16" toms, custom finishes *(unchanged)*
 - **Snare:** ddrum Dios 14"×6.5" Maple *(unchanged)*
-- **Cymbals:** Sabian AAX Series — 14" hi-hats, 18"/19" crashes, 21" HHX ride, 10" splash, 18" china *(unchanged)*
+- **Cymbals:** Sabian AAX Series — 14" hi-hats, 18"/19" crashes, 21" AAX ride, 10" splash, 18" china *(unchanged)*
 - **Hardware:** DW 9000 Series Double Pedal *(unchanged)*
 - **Sticks:** Vic Firth American Classic 5B (current, non-signature)
 - **Heads:** Evans G2 / EMAD2 (decade-long consistent configuration)
@@ -156,7 +156,7 @@ Larkin's most refined and critically praised era. His ddrum Dios Series kit and 
 A: Larkin plays a ddrum Dios Series kit with custom finishes — 22" kick drum and 10", 12", 14", 16" toms. He has played this same kit since joining Godsmack in 2002.
 
 **Q: What cymbals does Shannon Larkin use?**
-A: Larkin plays Sabian AAX Series cymbals — 14" hi-hats, 18" and 19" crashes, a 21" HHX ride, a 10" splash, and an 18" china. He has played Sabian since joining Godsmack in 2002.
+A: Larkin plays Sabian AAX Series cymbals — 14" hi-hats, 18" and 19" crashes, a 21" AAX ride, a 10" splash, and an 18" china. He has played Sabian since joining Godsmack in 2002.
 
 **Q: What double pedal does Shannon Larkin use?**
 A: Larkin plays a DW 9000 Series double pedal, which he has used since joining Godsmack in 2002 — he has never switched pedal brands.

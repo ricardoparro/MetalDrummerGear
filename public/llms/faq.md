@@ -81,7 +81,7 @@ Navene Koperweis plays DW Drums Performance Series. The Entheos / ex-Animals as 
 Alex Bent plays Tama Starclassic Maple. The ex-Trivium / Arkaik / Dragonlord drummer rounds out the kit with a Tama Starclassic Maple 14x5" snare and Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China) cymbals. [see /llms/drummers/alex-bent.md]
 
 ### What drums does Shannon Larkin use?
-Shannon Larkin plays ddrum Dios Series. The Godsmack / Ugly Kid Joe / Amen drummer rounds out the kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese) cymbals. [see /llms/drummers/shannon-larkin.md]
+Shannon Larkin plays ddrum Dios Series. The Godsmack / Ugly Kid Joe / Amen drummer rounds out the kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese) cymbals. [see /llms/drummers/shannon-larkin.md]
 
 ### What drums does Raymond Herrera use?
 Raymond Herrera plays Tama Starclassic. The Fear Factory / Arkaea / Brujeria drummer rounds out the kit with a Tama 14x6.5" Brass snare and Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China) cymbals. [see /llms/drummers/raymond-herrera.md]

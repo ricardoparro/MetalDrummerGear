@@ -25,33 +25,33 @@
 ### Hikari Era (2017)
 
 - **Drums:** Tama Starclassic Maple/Birch — 22" bass drum, 10"/12" rack toms, 16" floor tom
-- **Snare:** Tama S.L.P. G-Maple 14"x5.5"
+- **Snare:** Tama Starclassic matching snare — stock Starclassic snare, bright attack
 - **Cymbals:** Meinl Byzance — 15" Dual Hi-Hats, 18"/20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China
 - **Pedal:** Tama Speed Cobra 910 double pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Evans G2 Clear (toms), Genera HD Dry (snare), EMAD (kick)
 - **Original setup cost (2017):** ~$5,042
 - **Inflation-adjusted to 2026:** ~$6,739
-- **Notable:** Hikari (2017) brought Turner's technically sophisticated, compositional drumming to a global audience through viral playthrough videos of tracks like "Hansha." The Starclassic Maple/Birch's hybrid shell construction and the Byzance Extra Dry cymbals' short, focused decay gave his polyrhythmic patterns and precise accent placement the clarity progressive metalcore demanded.
+- **Notable:** Hikari (2017) brought Turner's technically sophisticated, compositional drumming to a global audience through viral playthrough videos of tracks like "Escapist" and "Hansha." The Starclassic Maple/Birch's hybrid shell construction and the Byzance Extra Dry cymbals' short, focused decay gave his polyrhythmic patterns and precise accent placement the clarity progressive metalcore demanded.
 
 ### Disparity Era (2022–present)
 
 - **Drums:** Tama Starclassic Maple/Birch (same configuration)
-- **Snare:** Tama S.L.P. G-Maple 14"x5.5"
+- **Snare:** Tama S.L.P. 14x5.5" G-Maple *(upgraded from the stock Starclassic snare)*
 - **Cymbals:** Meinl Byzance Extra Dry / Dual Series (same configuration)
 - **Pedal:** Tama Speed Cobra 910 double pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Evans
 - **Estimated cost (current):** ~$6,834
-- **Notable:** Oceans Ate Alaska's most ambitious record, Disparity (2022), integrated mathcore odd-time signatures into the band's progressive metalcore framework, and Turner carried the same Starclassic / Byzance / Speed Cobra core through the album's more demanding rhythmic writing.
+- **Notable:** Oceans Ate Alaska's most ambitious record, Disparity (2022), integrated mathcore odd-time signatures into the band's progressive metalcore framework. Turner carried the same Starclassic / Byzance / Speed Cobra core through the album's more demanding rhythmic writing but upgraded to a Tama S.L.P. 14x5.5" G-Maple snare, and released the viral drum-playthrough for "Endless Hollow" (2024) on this rig.
 
 ---
 
 ## Key Gear Changes
 
 - **2010:** Founds Oceans Ate Alaska on entry-level gear as a teenager in Birmingham
-- **2017:** Hikari recorded and viral playthrough breakthrough — definitive Tama Starclassic Maple/Birch / Meinl Byzance rig documented
-- **2022:** Same core configuration carried into the mathcore-inflected Disparity
+- **2017:** Hikari recorded and viral playthrough breakthrough — definitive Tama Starclassic Maple/Birch / Meinl Byzance rig documented, with the Escapist and Hansha drum-playthroughs going viral
+- **2022:** Upgraded to a Tama S.L.P. 14x5.5" G-Maple snare for the mathcore-inflected Disparity, carrying the rest of the Starclassic / Byzance / Speed Cobra core forward
 - **Career constant:** Vic Firth American Classic 5A sticks and Tama Speed Cobra 910 double pedal maintained throughout
 
 ---
@@ -71,7 +71,7 @@ A: Turner uses a Meinl Byzance setup — 15" Dual Hi-Hats, 18"/20" Extra Dry Med
 A: Turner's approach is fundamentally compositional — his kick patterns superimpose independent polyrhythmic layers over the backbeat, and his blast beats enter and exit at deliberate phrase boundaries rather than sustaining as pure texture. His viral drum playthrough videos of tracks like "Hansha" and "Escapist" have brought this technical, musically disciplined approach to a wide audience.
 
 **Q: Has Chris Turner's gear changed since Hikari?**
-A: No — Turner's Tama Starclassic Maple/Birch / Meinl Byzance / Speed Cobra 910 configuration has remained consistent from Hikari (2017) through Oceans Ate Alaska's more rhythmically demanding Disparity (2022).
+A: Mostly not — Turner's Tama Starclassic Maple/Birch / Meinl Byzance / Speed Cobra 910 configuration has carried over from Hikari (2017) through Oceans Ate Alaska's more rhythmically demanding Disparity (2022), with one upgrade: the snare moved from a stock Starclassic to a Tama S.L.P. 14x5.5" G-Maple for Disparity.
 
 ---
 

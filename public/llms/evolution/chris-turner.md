@@ -5,7 +5,7 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummer/chris-turner"
 evolution_url: "https://metalforge.io/drummers/chris-turner/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-07-05"
+last_updated: "2026-10-26"
 ---
 
 # Chris Turner Drum Kit Evolution — Complete Timeline
@@ -45,7 +45,7 @@ Turner co-founded progressive metalcore band Oceans Ate Alaska in Birmingham, UK
 **Tours:** Hikari World Tour (2017–2019)
 
 **Q: When did Chris Turner establish his Tama endorsement?**
-A: Oceans Ate Alaska released their Fearless Records debut full-length "Lost Isles" in 2015, followed by the critically acclaimed "Hikari" (2017), which blended djent-inspired metalcore with Japanese musical influences and established Turner as one of the most technically proficient drummers in modern metal. It was during this breakthrough stretch that Turner established his documented Tama Starclassic Maple/Birch kit and Meinl Byzance cymbal setup, and his viral technical drumming videos began circulating widely.
+A: Oceans Ate Alaska released their Fearless Records debut full-length "Lost Isles" in 2015, followed by the critically acclaimed "Hikari" (2017), which blended djent-inspired metalcore with Japanese musical influences and established Turner as one of the most technically proficient drummers in modern metal. It was during this breakthrough stretch that Turner established his documented Tama Starclassic Maple/Birch kit and Meinl Byzance cymbal setup, and released the viral single drum-playthroughs for "Escapist" and "Hansha" (both 2017, from "Hikari") that first brought his technical drumming to a wide audience.
 
 - **Drums:** Tama Starclassic Maple/Birch — maple/birch hybrid shell pack
 - **Snare:** Tama Starclassic matching snare — stock Starclassic snare, bright attack
@@ -59,6 +59,7 @@ A: Oceans Ate Alaska released their Fearless Records debut full-length "Lost Isl
 - Released Fearless Records debut Lost Isles (2015)
 - Released breakthrough album Hikari (2017), blending djent and Japanese musical influences
 - Established documented Tama Starclassic / Meinl Byzance endorsement during this era
+- Released viral drum-playthroughs for Escapist (2017) and Hansha (2017), both from Hikari
 - Viral technical drumming videos began circulating widely
 
 ---
@@ -69,7 +70,7 @@ A: Oceans Ate Alaska released their Fearless Records debut full-length "Lost Isl
 **Tours:** Disparity World Tour (2022–present)
 
 **Q: What gear does Chris Turner use for Disparity?**
-A: Turner recorded Oceans Ate Alaska's "Disparity" (2022), described as the band's technical masterwork, and released a run of viral single drum-playthroughs including "Escapist" (2021), "Hansha" (2022), and "Endless Hollow" (2023) that showcased his refined rig in full detail. His setup was upgraded to the Tama S.L.P. 14x5.5" G-Maple snare and a complete Meinl Byzance array, paired with a Tama Speed Cobra 910 Double Pedal for the fast, controlled double-bass response his polyrhythmic patterns demand — a configuration verified via Meinl's official artist roster and Turner's own channel.
+A: Turner recorded Oceans Ate Alaska's "Disparity" (2022), described as the band's technical masterwork, and released the viral single drum-playthrough for "Endless Hollow" (2024) that showcased his refined rig in full detail. His setup was upgraded to the Tama S.L.P. 14x5.5" G-Maple snare and a complete Meinl Byzance array, paired with a Tama Speed Cobra 910 Double Pedal for the fast, controlled double-bass response his polyrhythmic patterns demand — a configuration verified via Meinl's official artist roster and Turner's own channel.
 
 - **Drums:** Tama Starclassic Maple/Birch *(unchanged)*
 - **Snare:** Tama S.L.P. 14x5.5" G-Maple *(upgraded)*
@@ -81,7 +82,7 @@ A: Turner recorded Oceans Ate Alaska's "Disparity" (2022), described as the band
 
 **Key developments:**
 - Recorded Disparity (2022), described as the band's technical masterwork
-- Released viral drum-playthroughs for Escapist (2021), Hansha (2022), and Endless Hollow (2023)
+- Released the viral drum-playthrough for Endless Hollow (2024)
 - Upgraded to the Tama S.L.P. 14x5.5" G-Maple snare and a full Meinl Byzance cymbal array
 - Added the Tama Speed Cobra 910 Double Pedal, his first documented hardware endorsement
 
@@ -121,7 +122,7 @@ A: Turner's documented Tama Starclassic endorsement was established during Ocean
 A: Turner has recorded the Into the Deep EP (2012), Lost Isles (2015), Hikari (2017), and Disparity (2022) with Oceans Ate Alaska.
 
 **Q: Why is Chris Turner known for viral drumming videos?**
-A: Turner's exceptionally technical, polyrhythmic playing on tracks like Escapist (2021), Hansha (2022), and Endless Hollow (2023) has gone viral for its precision and lightning-fast footwork.
+A: Turner's exceptionally technical, polyrhythmic playing on tracks like Escapist (2017), Hansha (2017), and Endless Hollow (2024) has gone viral for its precision and lightning-fast footwork.
 
 ---
 

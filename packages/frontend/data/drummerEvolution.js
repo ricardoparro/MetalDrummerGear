@@ -9507,15 +9507,15 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Sonor Force Series',
-            details: 'Beech/maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Continued with Sonor as the Mats/Morgan Band\'s recording and touring activity intensified, expanding the configuration with an additional floor tom for the band\'s textural, genre-blending music.',
+            item: 'Pre-Sonor kit (brand not publicly documented)',
+            details: '22" kick, 10"/12"/14"/16" toms',
+            notes: 'Expanded the configuration with an additional floor tom for the band\'s textural, genre-blending music; the specific drum brand used before his 2012 Sonor signing is not publicly documented.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Sonor 14"×5.5" Beech',
-            details: 'Beech shell, warm and versatile',
-            notes: 'Sonor beech snare for a warm, versatile sound that served the Mats/Morgan Band\'s wide stylistic range from jazz to prog-metal to avant-garde.',
+            item: 'Pre-Sonor snare (brand not publicly documented)',
+            details: '14"×5.5", warm and versatile',
+            notes: 'Snare used for a warm, versatile sound that served the Mats/Morgan Band\'s wide stylistic range from jazz to prog-metal to avant-garde; the specific brand is not publicly documented.',
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
@@ -9525,9 +9525,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Sonor Double Pedal',
+            item: 'Double pedal (brand not publicly documented)',
             details: 'Double kick for expanded rhythmic vocabulary',
-            notes: 'Added double kick configuration — the expanded rhythmic vocabulary of double bass became essential to Ågren\'s increasingly complex compositional ideas.',
+            notes: 'Added double kick configuration — the expanded rhythmic vocabulary of double bass became essential to Ågren\'s increasingly complex compositional ideas; the specific pedal brand is not publicly documented.',
             change: CHANGE_TYPES.NEW,
           },
           sticks: {
@@ -9554,7 +9554,7 @@ export const DRUMMER_EVOLUTION = {
           'Mats/Morgan Band becomes serious recording and touring project',
           'Zappa reputedly calls Ågren one of the greatest drummers he\'d heard, following their 1988 Stockholm guest appearance',
           'Zappa\'s declining health (diagnosed with prostate cancer in 1990) prevents further collaboration before his death in December 1993',
-          'Sonor kit configuration expanded with an additional floor tom',
+          'Drum kit configuration expanded with an additional floor tom (brand not publicly documented pre-2012)',
           'Continued with Paiste 2002 cymbals — jazz-oriented tone',
           'Double kick configuration added',
           'International avant-garde recognition begins',
@@ -9574,22 +9574,22 @@ export const DRUMMER_EVOLUTION = {
         years: '1998–2006',
         startYear: 1998,
         endYear: 2006,
-        description: 'Ågren\'s international profile grew substantially through the late 1990s and early 2000s. Collaborations with John Zorn, recordings for avant-garde labels, and a growing reputation among the world\'s most discerning drummers placed him at the centre of progressive and avant-garde drumming globally. In 2002 he joined Swedish progressive rock band Kaipa, a tenure that ran through 2005 alongside his continuing Mats/Morgan Band work. His Sonor setup was expanded during this period with additional toms and an extended cymbal arrangement.',
+        description: 'Ågren\'s international profile grew substantially through the late 1990s and early 2000s. Collaborations with John Zorn, recordings for avant-garde labels, and a growing reputation among the world\'s most discerning drummers placed him at the centre of progressive and avant-garde drumming globally. In 2002 he joined Swedish progressive rock band Kaipa, a tenure that ran through 2005 alongside his continuing Mats/Morgan Band work. His drum setup (brand not publicly documented pre-2012) was expanded during this period with additional toms and an extended cymbal arrangement.',
         albums: ['Mats/Morgan Band: Thanks for the Swans (2001)', 'Mats/Morgan Band: Live at Glenn Miller Café (2003)', 'Various collaborative recordings'],
         tours: ['European festival circuit', 'US avant-garde tour dates', 'Japan tours'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Sonor Force Series (expanded)',
-            details: 'Beech/maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Expanded Sonor configuration with an 8" tom for additional upper range in the increasingly complex Mats/Morgan Band arrangements.',
+            item: 'Pre-Sonor kit (brand not publicly documented)',
+            details: '22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Expanded configuration with an 8" tom for additional upper range in the increasingly complex Mats/Morgan Band arrangements; the specific drum brand used before his 2012 Sonor signing is not publicly documented.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Sonor 14"×6.5" Beech',
-            details: 'Deeper beech snare for more projection',
-            notes: 'Deeper snare shell for more volume and crack in festival and concert hall contexts.',
+            item: 'Pre-Sonor snare (brand not publicly documented)',
+            details: '14"×6.5", deeper shell for more projection',
+            notes: 'Deeper snare shell for more volume and crack in festival and concert hall contexts; the specific brand is not publicly documented.',
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
@@ -9599,9 +9599,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Sonor Double Pedal (upgraded)',
+            item: 'Double pedal (upgraded, brand not publicly documented)',
             details: 'Spring-loaded double pedal, smooth action',
-            notes: 'Upgraded pedal for more refined feel and response for the nuanced double bass vocabulary of the Mats/Morgan Band\'s advanced compositions.',
+            notes: 'Upgraded pedal for more refined feel and response for the nuanced double bass vocabulary of the Mats/Morgan Band\'s advanced compositions; the specific brand is not publicly documented.',
             change: CHANGE_TYPES.UPGRADE,
           },
           sticks: {
@@ -9628,7 +9628,7 @@ export const DRUMMER_EVOLUTION = {
           'International profile expands through avant-garde festival circuit',
           'Collaborations with John Zorn and other avant-garde figures',
           'Joined Swedish progressive rock band Kaipa in 2002, a tenure running through 2005',
-          'Sonor kit expanded with additional toms',
+          'Drum kit expanded with additional toms (brand not publicly documented pre-2012)',
           'Upgraded double pedal for more refined double bass response',
           'Paiste Signature cymbals added for a more refined tone',
           'Recognition among world\'s top drummers grows significantly',
@@ -9644,27 +9644,27 @@ export const DRUMMER_EVOLUTION = {
 
       {
         id: 'morgan-agren-2007-hybrid',
-        era: 'Avant-Garde Peak / Electronic Integration',
+        era: 'Avant-Garde Peak / Sonor Signing',
         years: '2007–2014',
         startYear: 2007,
         endYear: 2014,
-        description: 'Ågren\'s playing reached its most widely celebrated form during this era. A growing integration of electronic percussion alongside his acoustic Sonor kit expanded his sonic palette dramatically. His work during this period attracted broader international media coverage, with features in Modern Drummer, Rhythm, and Drumhead highlighting his unique technical and musical approach. In 2012 he joined Devin Townsend Project, recording "Epicloud," and continued with the band through "Z²" (2014). The hybrid acoustic/electronic configuration became a signature of his live setup.',
+        description: 'Ågren\'s playing reached its most widely celebrated form during this era. His work during this period attracted broader international media coverage, with features in Modern Drummer, Rhythm, and Drumhead highlighting his unique technical and musical approach. In 2012 he joined Devin Townsend Project, recording "Epicloud," and continued with the band through "Z²" (2014) — around the same time he signed with Sonor, settling into the SQ2 custom-order beech configuration that has defined his kit ever since.',
         albums: ['Mats/Morgan Band: In Rosenberg Ville (2007)', 'Mats/Morgan Band: Naked (2013)', 'Various collaborative projects'],
         tours: ['European festival headlining dates', 'US and Japan avant-garde tours'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Sonor Force Series Custom',
-            details: 'Beech/maple shells with custom configuration: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Custom Sonor configuration — tuning and bearing edges refined for his specific playing style and the Mats/Morgan Band\'s sound.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Sonor SQ2 Beech',
+            details: 'Beech shells: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Signed with Sonor in 2012, settling into the SQ2 custom-order beech configuration around the time Devin Townsend recruited him for the Devin Townsend Project\'s "Epicloud" (2012); the kit used during 2007–2011 is not publicly documented.',
+            change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'Sonor 14"×5" Beech (sensitized)',
+            item: 'Sonor SQ2 Beech 14"×5" (sensitized)',
             details: 'Shallow beech snare, extremely responsive',
-            notes: 'Shallower snare for maximum sensitivity — ghost notes, brush-level dynamics, and extreme dynamic range were central to Ågren\'s approach during this era.',
-            change: CHANGE_TYPES.UPGRADE,
+            notes: 'Shallow Sonor SQ2 beech snare for maximum sensitivity, adopted as part of the 2012 Sonor signing — ghost notes, brush-level dynamics, and extreme dynamic range were central to Ågren\'s approach during this era; the snare used during 2007–2011 is not publicly documented.',
+            change: CHANGE_TYPES.NEW,
           },
           cymbals: {
             item: 'Paiste Signature Dark / 2002 mix',
@@ -9673,15 +9673,15 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Sonor Double Pedal (continued)',
-            details: 'Consistent pedal platform',
-            notes: 'Maintained the same pedal platform for its consistent, adjustable response across diverse musical contexts.',
-            change: null,
+            item: 'Sonor Giant Step Double Pedal',
+            details: 'Double pedal platform',
+            notes: 'Sonor Giant Step Double Pedal adopted as part of the 2012 Sonor kit deal; the pedal used during 2007–2011 is not publicly documented.',
+            change: CHANGE_TYPES.NEW,
           },
           sticks: {
             item: 'Vic Firth 5A (continued)',
             details: 'Consistent light stick preference',
-            notes: 'Long-running Vic Firth 5A preference maintained through the electronic hybrid era.',
+            notes: 'Long-running Vic Firth 5A preference maintained throughout this era.',
             change: null,
           },
           heads: {
@@ -9689,12 +9689,6 @@ export const DRUMMER_EVOLUTION = {
             details: 'Open, sensitive configuration',
             notes: 'Open head configuration for maximum sensitivity — essential for the dynamic range spanning whisper to full-power within single compositions.',
             change: null,
-          },
-          electronics: {
-            item: 'Roland SPD-SX + Roland V-Drums module',
-            details: 'Sampling pad and electronic trigger integration',
-            notes: 'Integrated Roland SPD-SX sampling pad and V-Drums electronic triggers for extended tonal palette — accessing orchestral, electronic, and experimental sounds not possible on acoustic kit alone.',
-            change: CHANGE_TYPES.NEW,
           },
         },
 
@@ -9705,30 +9699,27 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Roland SPD-SX and V-Drums integration creates defining hybrid acoustic/electronic setup',
+          'Signed with Sonor in 2012, settling into the SQ2 custom-order beech configuration',
           'International features in Modern Drummer, Rhythm, and Drumhead',
           'Joined Devin Townsend Project in 2012, recording "Epicloud" and later "Z²" (2014)',
           'Large Paiste Signature ride adopted for its complex overtone response',
           'In Rosenberg Ville (2007) — career high-water mark for Mats/Morgan Band',
-          'Custom Sonor specification with optimized bearing edges',
+          'Drum/snare brand used during 2007–2011, before the 2012 Sonor signing, is not publicly documented',
           'Ghost note and dynamic sensitivity approach reaches peak refinement',
         ],
 
-        quote: {
-          text: "Adding electronics wasn\'t about replacing the acoustic kit. It was about giving me more colors. The acoustic drums are the foundation — the electronics are the atmosphere around them.",
-          source: 'Modern Drummer Interview, 2009',
-        },
+        quote: null,
 
         videos: [],
       },
 
       {
         id: 'morgan-agren-2015-modern',
-        era: 'Modern Hybrid Era',
+        era: 'Modern Era',
         years: '2015–Present',
         startYear: 2015,
         endYear: 2026,
-        description: 'Ågren\'s most recent era consolidates everything that came before — a mature, fully realized hybrid acoustic/electronic setup centered on his Sonor SQ2 kit, a continued Paiste cymbal arrangement, and sophisticated electronic trigger integration. He closed out his Devin Townsend Project tenure with "Transcendence" (2016), bringing that four-year run (2012–2016) to an end. He remains one of the most active and innovative drummers in progressive and avant-garde music globally, continuing to record and tour with the Mats/Morgan Band while taking on an increasing range of special collaborative projects.',
+        description: 'Ågren\'s most recent era consolidates everything that came before — a mature setup centered on his Sonor SQ2 kit (signed in 2012) and a continued Paiste cymbal arrangement dating back to 1988. He closed out his Devin Townsend Project tenure with "Transcendence" (2016), bringing that four-year run (2012–2016) to an end. He remains one of the most active and innovative drummers in progressive and avant-garde music globally, continuing to record and tour with the Mats/Morgan Band while taking on an increasing range of special collaborative projects.',
         albums: ['Mats/Morgan Band: Mats/Morgan (2015)', 'Recent collaborative and solo projects'],
         tours: ['Continued European and international touring', 'Avant-garde festival appearances'],
         image: null,
@@ -9737,7 +9728,7 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Sonor SQ2 Beech',
             details: 'Beech shells, customized hardware: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Moved to Sonor\'s SQ2 custom-order line in beech, continuing the Sonor relationship established at the start of his career with a modern, fully customizable shell platform.',
+            notes: 'Moved to Sonor\'s SQ2 custom-order line in beech, continuing the Sonor relationship established with his 2012 signing, with a modern, fully customizable shell platform.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
@@ -9770,12 +9761,6 @@ export const DRUMMER_EVOLUTION = {
             notes: 'Lifelong open head preference maintained — Ambassador/Emperor Coated configuration consistent across the entire career.',
             change: null,
           },
-          electronics: {
-            item: 'Roland SPD-SX + expanded trigger array',
-            details: 'Full hybrid electronic integration',
-            notes: 'Expanded Roland electronic integration — SPD-SX sampling, cymbal triggers, and tom triggers for maximum acoustic/electronic hybrid flexibility. The fully realized version of the hybrid approach introduced in the previous era.',
-            change: CHANGE_TYPES.UPGRADE,
-          },
         },
 
         estimatedCost: {
@@ -9785,7 +9770,6 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Full hybrid acoustic/electronic setup reaches definitive form',
           'Closed out Devin Townsend Project tenure with "Transcendence" (2016), a four-year run (2012–2016)',
           'Multi-implement approach — sticks, brushes, mallets across a single performance',
           'Two-snare configuration for maximum tonal contrast',
@@ -9811,7 +9795,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit does Morgan Ågren use?',
-        a: 'Morgan Ågren plays a Sonor SQ2 Beech kit — beech shells with a 22" kick and 8", 10", 12", 14", and 16" toms. He has used Sonor since 2012, having played Sonor kits earlier in his career as well. His setup is augmented with an extensive Roland electronic trigger array, making it one of the most sophisticated hybrid acoustic/electronic configurations in progressive drumming.',
+        a: 'Morgan Ågren plays a Sonor SQ2 Beech kit — beech shells with a 22" kick and 8", 10", 12", 14", and 16" toms. He has used Sonor since signing with the brand in 2012, around the time he joined Devin Townsend Project; the drum brand he used earlier in his career is not publicly documented.',
       },
       {
         q: 'What cymbals does Morgan Ågren use?',
@@ -9823,12 +9807,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What makes Morgan Ågren\'s drumming unique?',
-        a: 'Ågren\'s playing combines extraordinary technical command with deep musical intelligence. His polyrhythmic vocabulary, metric modulation, and ghost note sensitivity operate at a level rarely encountered even among the world\'s most accomplished drummers. He plays with a light touch (5A sticks, open Ambassador/Emperor Coated heads) for extraordinary dynamic range, and his hybrid acoustic/electronic setup extends the kit\'s palette into orchestral territory.',
+        a: 'Ågren\'s playing combines extraordinary technical command with deep musical intelligence. His polyrhythmic vocabulary, metric modulation, and ghost note sensitivity operate at a level rarely encountered even among the world\'s most accomplished drummers. He plays with a light touch (5A sticks, open Ambassador/Emperor Coated heads) for extraordinary dynamic range.',
       },
     ],
 
     metaTitle: 'Morgan Ågren Gear Evolution Timeline | Avant-Garde Drum Kit History',
-    metaDescription: 'Explore Morgan Ågren\'s complete drum gear evolution: Sonor Force beginnings → Zappa connection → Sonor SQ2 hybrid acoustic/electronic setup, with Paiste cymbals throughout since 1988. Sweden\'s most innovative drummer documented era by era.',
+    metaDescription: 'Explore Morgan Ågren\'s complete drum gear evolution: early underground years → Zappa connection → Sonor SQ2 kit since 2012, with Paiste cymbals throughout since 1988. Sweden\'s most innovative drummer documented era by era.',
   },
 
   // ==========================================

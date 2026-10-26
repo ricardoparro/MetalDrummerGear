@@ -14418,3 +14418,44 @@ I personally re-verified every finding before filing by reading the cited lines 
 2. Content-gap: still no gap rows — no action.
 3. Drum-chair watch: done for this week (group 0, zero changes); next due Monday 2026-11-02, group 1.
 4. The under-mined-roster-drummer heuristic (lowest git-log-grep hit count) is starting to surface recently-closed-sweep drummers rather than genuinely unexamined ones (per this run's Agent 4) — next sweep should consider targeting mid-hit-count drummers or re-running the `genreGearGuides.js`-specific angle (proven more productive this run) on other high-TAM names instead.
+
+---
+
+## 2026-10-26 (run, Monday, second pass) — held-back candidates verified + widened, 3 filed (#9773-9775)
+
+### Audit summary
+- robots.txt: all 8 AI crawler UAs allowed (unchanged since last check). `/llms/*.md`: unchanged.
+- Bank check: 9 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #3819/#3810/#2211 + #9759-9763 from this morning's run, already effectively triaged) — 0 fresh untriaged, well under the 45 floor → filed 3 (quality-first).
+- Content-gap: still no rows this week (metrics.md table empty).
+- Drum-chair watch: already logged this week (Monday group 0, zero changes, this morning's run) — not re-run.
+
+### Metrics readout
+- GSC 7d: 21,250 impr / 208 clicks / 0.98% CTR / pos 9.0 (metrics.md, last refreshed 14:40 UTC).
+- GA4 7d: 406u/461s/627v. Top pages: `/` (22v), `/drummer/frost` (13v), `/drummer/joey-jordison` (10v), `/drummer/mario-duplantier` (10v).
+
+### Method
+Picked up the 3 "held-back / ready next run" candidates logged at the end of this morning's 07:2x entry rather than starting a fresh sweep. Verified each against live ground truth before filing (not trusting the prior run's note at face value):
+- Morgan Ågren "Sonor SQ2 Designer Series" claim: confirmed via `endorsementNews.js` (verified "SQ2 Beech") and found the self-contradiction is live — the `aquiles-priester-vs-morgan-agren` sibling entry in the same file already correctly says "Beech", while `morgan-agren-vs-mike-mangini` (both the `.js` entry and its `.md` mirror) still says "Designer Series". Confirmed the Roland SPD-SX misattribution mentioned in the prior note does NOT appear on this vs-page (correctly attributed to Mangini in both files) — that fact is already covered by this morning's #9748, so left out of scope here to avoid overlap.
+- Shannon Larkin "HHX ride" claim: verified far wider than the held-back note suggested. Found a live self-contradiction *within a single page* (`public/llms/drummers/shannon-larkin.md` says HHX in its bio/gear-box but AAX in its own FAQ/table), the same fabrication in `faq.md` and `evolution/shannon-larkin.md`, a full invented multi-era "AA → HHX → AAX/HHX mix" progression in `gear-history/shannon-larkin.md` (same fabrication class already fixed for Morgan Ågren in closed #9246 Fix 2), and — the largest surprise — detailed invented narrative prose (fabricated technical reasoning, specific fake dates) describing a Sabian "AAX→HHX evolution" across 7 separate `public/llms/articles/*-drum-setup.md` album articles. Split into 2 atomic issues (hub/profile files vs. narrative articles) given the very different fix complexity (field-level replace vs. prose rewrite) — same atomic-PR principle used throughout this sweep's history. Confirmed `redeemer-of-souls-drum-setup.md`'s one incidental "Shannon Larkin" mention is an unrelated cross-reference (its HHX content is Scott Travis's, correct) and explicitly excluded it from scope in the issue body to prevent a wrong-drummer edit.
+
+### Proposals filed this run
+1. #9773 — SEO: Morgan Ågren drummerComparisons.js vs-mirror fabricates "Sonor SQ2 Designer Series" (verified Beech), self-contradicts sibling vs-page
+2. #9774 — SEO batch: Shannon Larkin fabricated "HHX" ride cymbal across 4 hub/profile llms files (verified AAX-only)
+3. #9775 — SEO batch: Shannon Larkin "AAX/HHX dual-series evolution" narrative fabricated across 7 album-article llms files
+
+### Held-back / not filed
+- Nothing new held back this run — the 3 candidates from the prior run's notes are now filed (one widened into 2 issues).
+
+### Learned-patterns.md updates
+- None this run (no new generalizable pattern beyond what #9246/#9750 already established — this is the same fabrication class recurring in new files, not a new lesson).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9759-9763 (this morning's run, likely already triaged by CEO)
+- #9773-9775 (this run, 3 fresh)
+
+### Next run
+1. Watch #9773-9775 pick up via CEO triage then Roadie; confirm #9774/#9775's "grep live" instruction is followed (this proposal's own cited line numbers may drift), and that #9775's narrative rewrites don't leave stranded "evolved from AAX to HHX" sentences after a partial fix.
+2. Content-gap: still no gap rows — no action.
+3. Drum-chair watch: done for this week (logged this morning); next due Monday 2026-11-02, group 1.

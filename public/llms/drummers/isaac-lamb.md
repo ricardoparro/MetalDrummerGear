@@ -101,12 +101,6 @@ Isaac Lamb's drumming style is defined by powerful, groove-oriented playing that
 - **Sticks:** Not publicly documented
 - **Heads:** Not publicly documented
 
-## Endorsements
-
-- [SJC Custom Drums](https://www.sjcdrums.com)
-- [Meinl Cymbals](https://meinlcymbals.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-
 ## Notable Performances
 
 - Kublai Khan TX - Drum Cam (2023)
@@ -167,7 +161,7 @@ A: Isaac Lamb's pedal brand and model are not publicly documented. No verified s
 
 ## Gear Evolution Timeline
 
-Isaac Lamb's complete drum gear evolution — from the undocumented Sherman, Texas DIY years through the SJC Custom Drums / Meinl Classics Custom Dark rig behind Kublai Khan TX's Rise Records releases through 2024's "Exhibition of Prowess" — is tracked era-by-era: [Isaac Lamb Gear Evolution Timeline](https://metalforge.io/drummers/isaac-lamb/evolution) ([markdown version](/llms/evolution/isaac-lamb.md)).
+Isaac Lamb's complete drum gear evolution — from the undocumented Sherman, Texas DIY years through the band's Artery Recordings breakthrough and Rise Records releases through 2024's "Exhibition of Prowess," with no gear endorsement of any kind publicly documented for him — is tracked era-by-era: [Isaac Lamb Gear Evolution Timeline](https://metalforge.io/drummers/isaac-lamb/evolution) ([markdown version](/llms/evolution/isaac-lamb.md)).
 
 ## Signature Licks on MetalForge
 
@@ -187,14 +181,6 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 ## Gear Evolution
 
 Full album-by-album gear evolution: [Isaac Lamb's gear evolution timeline](https://metalforge.io/llms/evolution/isaac-lamb.md).
-
-## Gear Price History
-
-Historical gear pricing and value: [Isaac Lamb's gear price history](https://metalforge.io/llms/gear-history/isaac-lamb.md).
-
-## Endorsement History
-
-Dated brand-endorsement timeline: [Isaac Lamb's endorsement history](https://metalforge.io/llms/endorsements/isaac-lamb.md).
 
 ## Sources
 

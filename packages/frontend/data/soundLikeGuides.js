@@ -16535,7 +16535,7 @@ This guide covers the blast beat and double bass technique behind Talley's sound
     genre: 'Metalcore / Beatdown Hardcore',
     priority: 64,
     title: "How to Sound Like Isaac Lamb: Complete Gear & Technique Guide",
-    description: "Master Isaac Lamb's beatdown hardcore groove and devastating breakdown timing from Kublai Khan TX. Learn his power-through-restraint technique and SJC/Meinl endorsements.",
+    description: "Master Isaac Lamb's beatdown hardcore groove and devastating breakdown timing from Kublai Khan TX. Learn his power-through-restraint technique.",
     seoKeywords: ['isaac lamb drumming', 'how to sound like isaac lamb', 'kublai khan tx drums', 'isaac lamb gear', 'isaac lamb technique', 'isaac lamb drum kit', 'beatdown hardcore breakdown technique'],
     ogImage: '/images/guides/isaac-lamb-guide.webp',
     datePublished: '2026-07-02',
@@ -16549,7 +16549,7 @@ This guide covers the blast beat and double bass technique behind Talley's sound
 
 What makes Lamb's drumming distinctive isn't technical flash — it's power through deliberate restraint. He leaves space in verses and choruses specifically so that when the breakdown arrives, it lands as a genuine event rather than just a slower, heavier section. That compositional patience, combined with kick-snare patterns locked tightly to the guitar riff, is the core of beatdown hardcore drumming, and Lamb is one of its clearest living examples.
 
-This guide breaks down the groove architecture and breakdown timing behind Lamb's sound, his SJC Custom Drums and Meinl Cymbals endorsements, and the practice approach to building the same power-through-restraint technique.`,
+This guide breaks down the groove architecture and breakdown timing behind Lamb's sound and the practice approach to building the same power-through-restraint technique. No gear endorsement of any kind is publicly documented for Lamb.`,
       keyPoints: [
         "Founding and only drummer of Kublai Khan TX since 2009",
         "Built on power through restraint — space in verses makes breakdowns hit harder",
@@ -16562,7 +16562,7 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
       overview: `Lamb's technique is built on compositional patience: locking kick and snare to the riff during verses and choruses, deliberately leaving space, and then delivering breakdowns with full physical commitment from the very first hit. His blast beats stay in the same metric pocket as his grooves rather than pushing ahead of the beat for excitement.`,
       stickGrip: {
         type: 'Matched Grip (power-focused)',
-        description: "Lamb plays a firm matched grip built for maximum impact on breakdown strokes, favoring Vic Firth's heavier 2B stick profile over lighter options to add mass to every hit without sacrificing control on faster groove and blast passages.",
+        description: "Lamb plays a firm matched grip built for maximum impact on breakdown strokes, favoring a heavier stick profile over lighter options to add mass to every hit without sacrificing control on faster groove and blast passages.",
         tips: [
           "Commit fully to breakdown strokes — hesitation is audible as reduced impact",
           "Keep groove-section dynamics restrained so the breakdown has somewhere to go",
@@ -16601,8 +16601,8 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
     gear: {
       title: "Lamb's Gear Setup",
       drumKit: {
-        brand: 'SJC',
-        model: 'SJC (specific series not publicly documented)',
+        brand: 'Not publicly documented',
+        model: 'Not publicly documented',
         shells: 'Not publicly documented',
         finish: 'Not publicly documented',
         config: {
@@ -16611,30 +16611,30 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
           toms: ['Configuration not publicly documented'],
           floorToms: ['Configuration not publicly documented']
         },
-        description: "Lamb's SJC Custom Drums endorsement is confirmed, but no official artist page or gear-focused interview naming his specific kit series or configuration has been found, so this guide omits guessed specifics rather than inventing them.",
+        description: "No gear endorsement of any kind is publicly documented for Lamb — no official artist page or gear-focused interview naming his equipment has been found, so this guide omits guessed specifics rather than inventing them.",
         affiliateNote: "Any American maple shell pack with tight bearing edges gives a similarly articulate, breakdown-ready attack."
       },
       snare: {
-        brand: 'SJC',
+        brand: 'Not publicly documented',
         model: 'Not publicly documented',
         size: 'Not publicly documented',
         shell: 'Not publicly documented',
-        description: "Lamb's snare is presumably part of his broader SJC Custom Drums endorsement, but no specific model or size has been independently documented.",
+        description: "No snare brand or model has been independently documented for Lamb.",
         alternative: "A 14\" maple snare tuned medium-high will suit beatdown hardcore's backbeat and breakdown accents"
       },
       cymbals: {
-        brand: 'Meinl',
-        series: 'Meinl (specific series not publicly documented)',
+        brand: 'Not publicly documented',
+        series: 'Not publicly documented',
         setup: [
-          { type: 'General Setup', model: 'Meinl cymbals (exact models not publicly documented)', notes: "Lamb's Meinl Cymbals endorsement is confirmed via the band's own gear credits, but a piece-by-piece breakdown isn't published, so this is a genre-appropriate suggestion rather than a confirmed spec." }
+          { type: 'General Setup', model: 'Not publicly documented', notes: "No cymbal brand or model is publicly documented for Lamb, so this is a genre-appropriate suggestion rather than a confirmed spec." }
         ],
-        description: "Meinl's darker-voiced lines sit naturally within high-gain guitar frequencies, making them a reasonable genre-consistent starting point for approximating Lamb's tone."
+        description: "Dark-voiced cymbal lines sit naturally within high-gain guitar frequencies, making them a reasonable genre-consistent starting point for approximating Lamb's tone."
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth (specific model not publicly documented)',
+        brand: 'Not publicly documented',
+        model: 'Not publicly documented',
         specs: 'Not publicly documented',
-        description: "Lamb's Vic Firth endorsement is confirmed, though the exact model isn't publicly documented.",
+        description: "No stick brand or model has been independently documented for Lamb.",
         alternative: "A heavier 2B or standard 5A hickory stick will suit beatdown hardcore's power-first playing"
       },
       heads: {
@@ -16727,28 +16727,28 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
         price: "$850",
         label: "Starter Setup",
         kit: "Pearl Export Series ($650)",
-        cymbals: "Meinl HCS Pack ($180)",
+        cymbals: "Dark-toned budget cymbal pack ($180)",
         pedals: "Tama Speed Cobra HP310LW double pedal ($100)",
-        sticks: "Vic Firth American Classic 2B ($10)",
+        sticks: "Heavy 2B-weight hickory stick ($10)",
         notes: "A maple entry kit tuned dead and punchy with heavy muffling approximates Lamb's focused, impact-first tone."
       },
       mid: {
         price: "$2,600",
         label: "Intermediate Setup",
-        kit: "DW Design Series or SJC Tour Series ($1,600)",
-        cymbals: "Meinl Classics Custom Dark partial setup ($800)",
+        kit: "Mid-tier custom boutique kit ($1,600)",
+        cymbals: "Dark-toned partial cymbal setup ($800)",
         pedals: "DW 5000 Double Pedal ($250)",
-        sticks: "Vic Firth American Classic 2B ($10)",
-        notes: "Meinl's Dark series cymbals capture the controlled, high-gain-friendly tone that matches Lamb's Meinl Cymbals endorsement."
+        sticks: "Heavy 2B-weight hickory stick ($10)",
+        notes: "Dark-voiced cymbal lines capture the controlled, high-gain-friendly tone that suits Lamb's sound; no cymbal brand is confirmed for him."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "SJC-tier custom boutique kit ($3,500+)",
-        cymbals: "Meinl Classics Custom Dark-tier cymbal set ($1,600+)",
+        kit: "Custom boutique kit ($3,500+)",
+        cymbals: "Dark-toned pro cymbal set ($1,600+)",
         pedals: "Any pro double pedal ($400-600)",
-        sticks: "Vic Firth American Classic 2B ($10)",
-        notes: "A budget-tier approximation for maximum breakdown impact and consistent live reliability, built around the brands Lamb endorses (SJC, Meinl, Vic Firth); his exact touring rig and specific models aren't publicly documented."
+        sticks: "Heavy 2B-weight hickory stick ($10)",
+        notes: "A budget-tier approximation for maximum breakdown impact and consistent live reliability; no gear endorsement of any kind is publicly documented for Lamb, and his exact touring rig and specific models aren't known."
       }
     },
     faq: [
@@ -16758,7 +16758,7 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
       },
       {
         question: "What gear does Isaac Lamb use?",
-        answer: "Lamb endorses SJC Custom Drums, Meinl Cymbals, and Vic Firth sticks, but his specific kit, cymbal, and stick models aren't publicly documented — no official artist page or gear-focused interview naming the exact equipment has been found."
+        answer: "No gear endorsement of any kind is publicly documented for Lamb — no official artist page or gear-focused interview naming his equipment has been found."
       },
       {
         question: "How do I make my breakdowns hit as hard as Isaac Lamb's?",
@@ -16777,7 +16777,7 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
       drummerProfile: '/drummer/isaac-lamb',
       similarDrummers: ['Ben Koller', 'Matt Halpern', 'Jay Weinberg'],
       relatedGuides: ['how-to-sound-like-ben-koller', 'how-to-sound-like-matt-halpern'],
-      gearPages: ['/gear/cymbals', '/brands/meinl', '/gear/pedals']
+      gearPages: ['/gear/cymbals', '/gear/pedals']
     },
     licksUrl: '/drummers/isaac-lamb/licks',
     relatedArticles: [

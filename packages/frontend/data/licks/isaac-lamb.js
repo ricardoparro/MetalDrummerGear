@@ -39,11 +39,7 @@ export const licks = {
       "title": "Kublai Khan - B.C. (Official Music Video)",
       "description": "Kublai Khan TX's official music video for B.C. from the Nomad album, showcasing Isaac Lamb's beatdown groove architecture and breakdown technique"
     },
-    "gearUsed": [
-      { "name": "SJC Custom Drums", "type": "drums", "link": null },
-      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
-      { "name": "Vic Firth Sticks", "type": "sticks", "link": null }
-    ],
+    "gearUsed": [],
     "learningTips": [
       "Practise the verse groove without fills until it locks at tempo — the feel of the groove before any fills is the entire technique",
       "Record yourself and listen for how much space exists between the kit and the riff — if the kit sounds full, you are filling too much",
@@ -99,11 +95,7 @@ export const licks = {
       "title": "Kublai Khan - True Fear (Official Music Video)",
       "description": "Kublai Khan TX's official music video for True Fear from the Nomad album, showcasing Isaac Lamb's blast beat technique, groove orientation through speed escalation, and breakdown power"
     },
-    "gearUsed": [
-      { "name": "SJC Custom Drums", "type": "drums", "link": null },
-      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
-      { "name": "Vic Firth Sticks", "type": "sticks", "link": null }
-    ],
+    "gearUsed": [],
     "learningTips": [
       "Practise the blast at moderate tempo (160 BPM) while deliberately maintaining the same pocket feel as your groove — record and listen for the difference",
       "Drill the groove-to-blast transition as a specific exercise: play four bars of groove, execute a precise single-stroke transition, then play four bars of blast",
@@ -159,11 +151,7 @@ export const licks = {
       "title": "Kublai Khan TX - Boomslang (Official Music Video)",
       "description": "Kublai Khan TX's official music video for Boomslang from the Absolute album, showcasing Isaac Lamb's evolved groove architecture and power delivery"
     },
-    "gearUsed": [
-      { "name": "SJC Custom Drums", "type": "drums", "link": null },
-      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
-      { "name": "Vic Firth Sticks", "type": "sticks", "link": null }
-    ],
+    "gearUsed": [],
     "learningTips": [
       "Record the groove and listen for any fills or embellishments not specifically justified by the arrangement — remove them",
       "Check that your snare hits have identical impact across the groove — any variation in weight should be intentional, not habitual",

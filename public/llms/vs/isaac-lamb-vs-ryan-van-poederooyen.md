@@ -34,7 +34,7 @@ Lamb prioritizes devastating breakdown timing over flash, delivering consistent,
 
 ## Key Differences
 
-Isaac endorses SJC Custom Drums and Meinl Cymbals; his specific kit and cymbal models are not publicly documented. Ryan plays a Pearl Reference Series kit with a 14x6.5" brass Pearl Reference snare, Sabian HHX & AAX cymbals (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China), and a Pearl Demon Drive double pedal. Lamb prioritizes devastating breakdown timing over flash, delivering consistent, direct-drive kick response at every tempo the band throws at him. Van Poederooyen's creative tom patterns and tasteful cymbal work give Devin Townsend's shifting dynamics room to breathe, backed by thunderous double bass through a Pearl Demon Drive pedal when the material demands it.
+No gear endorsement of any kind is publicly documented for Isaac. Ryan plays a Pearl Reference Series kit with a Pearl snare (the specific model has not been independently verified), Sabian HHX & AAX cymbals (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China), and a Pearl Demon Drive double pedal. Lamb prioritizes devastating breakdown timing over flash, delivering consistent, direct-drive kick response at every tempo the band throws at him. Van Poederooyen's creative tom patterns and tasteful cymbal work give Devin Townsend's shifting dynamics room to breathe, backed by thunderous double bass through a Pearl Demon Drive pedal when the material demands it.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Isaac Lamb's signature is crushing, breakdown-driven grooves delivered with d
 A: Isaac Lamb is the founding and sole drummer of Kublai Khan TX since the band formed in Sherman, Texas in 2009. Ryan Van Poederooyen played with the Devin Townsend Band and Devin Townsend Project from 2009 to 2018.
 
 **Q: What gear do Isaac Lamb and Ryan Van Poederooyen use?**
-A: Isaac Lamb endorses SJC Custom Drums and Meinl Cymbals, but his specific kit and cymbal models are not publicly documented. Ryan Van Poederooyen plays a Pearl Reference Series kit with a 14x6.5" brass Pearl Reference snare and Sabian HHX & AAX cymbals, driven by a Pearl Demon Drive double pedal.
+A: No gear endorsement of any kind is publicly documented for Isaac Lamb. Ryan Van Poederooyen plays a Pearl Reference Series kit with a Pearl snare (the specific model has not been independently verified) and Sabian HHX & AAX cymbals, driven by a Pearl Demon Drive double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Isaac Lamb endorses SJC Custom Drums and Meinl Cymbals, but his specific kit 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-26 · Source: [MetalForge.io](https://metalforge.io)*

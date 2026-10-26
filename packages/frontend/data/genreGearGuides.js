@@ -9508,13 +9508,13 @@ The snare is your musical signature. Choose wisely.
 
 Blake Richardson of Between the Buried and Me — one of prog metal's most inventive drummers — trusts Sabian HHX Evolution / AAX cymbals for their complex, musical tone that handles BTBAM's dramatic range from acoustic-adjacent passages to full technical death metal density.
 
-Brann Dailor (Mastodon) plays Meinl's Mb20 & Mb8 Series cymbals for a sound that anchors Mastodon's sludge-prog heaviness while allowing his jazz-influenced tom and cymbal work to breathe. Matt Halpern (Periphery) relies on his own Meinl Artist Concept signature line for the precise, controlled response that Periphery's djent-influenced prog demands.
+Brann Dailor (Mastodon) plays Meinl's Byzance Series cymbals for a sound that anchors Mastodon's sludge-prog heaviness while allowing his jazz-influenced tom and cymbal work to breathe. Matt Halpern (Periphery) relies on his own Meinl Artist Concept signature line for the precise, controlled response that Periphery's djent-influenced prog demands.
 
 This guide breaks down the best cymbal choices for progressive metal, including which specific lines these three players use and why, with recommendations across all budgets.`,
       keyPoints: [
         "Prog metal demands dynamic range — cymbals must handle both soft and heavy playing",
         "Dark, complex cymbal tones suit prog metal's layered, dense arrangements",
-        "Sabian HHX Evolution, Meinl Artist Concept, and Meinl Mb20 & Mb8 are the leading prog metal cymbal families",
+        "Sabian HHX Evolution, Meinl Artist Concept, and Meinl Byzance are the leading prog metal cymbal families",
         "Wider crash sizes (17\"–18\") give more tonal complexity for dynamic passages"
       ]
     },
@@ -9606,42 +9606,42 @@ Meinl's hand-hammering process uses genuine B20 bronze (80% copper, 20% tin) wit
         },
         {
           rank: 2,
-          name: "Meinl Mb20 & Mb8 Series",
+          name: "Meinl Byzance Series",
           brand: "Meinl",
-          model: "Mb20 & Mb8 Series",
+          model: "Byzance Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
-          priceRange: "€120-350 per cymbal",
+          priceRange: "€200-550 per cymbal",
           tier: "pro",
-          material: "Bronze alloy (Mb20/Mb8 finish)",
+          material: "B20 Bronze (Hand-Hammered)",
 
-          description: `The Meinl Mb20 & Mb8 Series is the cymbal foundation for Brann Dailor of Mastodon — one of progressive metal's most celebrated drummers. Dailor's jazz-influenced, melodic approach to metal drumming requires cymbals that can handle both Mastodon's crushing sludge-metal density and his intricate tom and cymbal melodic patterns.
+          description: `The Meinl Byzance Series is the cymbal foundation for Brann Dailor of Mastodon — one of progressive metal's most celebrated drummers. Dailor's jazz-influenced, melodic approach to metal drumming requires cymbals that can handle both Mastodon's crushing sludge-metal density and his intricate tom and cymbal melodic patterns.
 
-The Mb20 and Mb8 lines mix a dark, controlled wash with enough complexity to sit under Mastodon's dense, layered arrangements without turning muddy. Dailor's GRAMMY-winning drumming on albums like "Crack the Skye" and "The Hunter" showcases exactly what this Meinl setup can achieve in progressive metal contexts.`,
+Byzance's dark, hand-hammered B20 bronze mixes a controlled wash with enough complexity to sit under Mastodon's dense, layered arrangements without turning muddy. Dailor's GRAMMY-winning drumming on albums like "Crack the Skye" and "The Hunter" showcases exactly what this Meinl setup can achieve in progressive metal contexts.`,
 
           pros: [
             "Brann Dailor's primary cymbal setup — Mastodon's prog metal authority",
             "Dark, controlled wash for dense prog arrangements",
-            "Mixed Mb20/Mb8 lineup covers hi-hats, crashes, ride, and china",
+            "Hand-hammered B20 bronze covers hi-hats, crashes, ride, and china",
             "Controlled wash prevents muddiness in complex patterns",
-            "More accessible pricing than flagship Byzance lines"
+            "Meinl's flagship pro-tier cymbal line"
           ],
           cons: [
             "Darker character may not suit brighter prog metal styles",
-            "Mixed Mb20/Mb8 lineup means matching finishes takes care",
+            "Premium pricing across the full Byzance range",
             "Less aggressive attack than K Custom Dark for extreme metal"
           ],
           specs: {
-            alloy: "Bronze alloy (Mb20/Mb8 finish)",
-            finish: "Dark",
-            priceRange: "€120–€350 per cymbal",
+            alloy: "B20 Bronze",
+            finish: "Dark, Hand-Hammered",
+            priceRange: "€200–€550 per cymbal",
             bestFor: "Progressive metal, sludge-prog, melodic metal"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Meinl Mb20 & Mb8 Series — GRAMMY-winning prog metal drumming" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Meinl Byzance Series — GRAMMY-winning prog metal drumming" }
           ],
-          verdict: "Best Meinl choice for sludge-prog. Dailor's Mb20 & Mb8 setup anchors Mastodon's prog complexity beautifully.",
+          verdict: "Best Meinl choice for sludge-prog. Dailor's Byzance setup anchors Mastodon's prog complexity beautifully.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/meinl_mb20_mb8_set.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_series.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -9692,7 +9692,7 @@ Progressive metal drummers who incorporate jazz, fusion, or world music influenc
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `The Sabian HHX Complex series delivers dark, complex tones that compete directly with Meinl's Artist Concept and Mb20 & Mb8 lines in the prog metal space. The irregular hammering creates unique surfaces on each cymbal, producing instruments with distinct individual voices that reward careful selection.
+          description: `The Sabian HHX Complex series delivers dark, complex tones that compete directly with Meinl's Artist Concept and Byzance lines in the prog metal space. The irregular hammering creates unique surfaces on each cymbal, producing instruments with distinct individual voices that reward careful selection.
 
 For progressive metal drummers seeking alternatives to the dominant Meinl choices, the HHX Complex offers genuine B20 quality with a slightly warmer character that works well in studio recording contexts. The Complex ride is particularly well-regarded for its nuanced bow and bell response.`,
 
@@ -9704,7 +9704,7 @@ For progressive metal drummers seeking alternatives to the dominant Meinl choice
             "Wide dynamic range across crashes, rides, and hi-hats"
           ],
           cons: [
-            "Less established in the prog metal community than Artist Concept/Mb20 & Mb8",
+            "Less established in the prog metal community than Artist Concept/Byzance",
             "Consistency varies more between individual cymbals",
             "Less range of available models than Meinl"
           ],
@@ -9775,8 +9775,8 @@ For prog metal drummers developing their sound or working within tighter budgets
           priceRange: "€120-300 per cymbal",
           tier: "budget",
           material: "B20 Bronze",
-          description: "The standard Zildjian K series (not K Custom or K Dark) provides genuine dark B20 character at lower prices, carrying a similar dark-voiced philosophy to Brann Dailor's Meinl Mb20 & Mb8 setup without sharing its lineage. Real Zildjian quality that still works in progressive metal contexts. The K 20\" ride is an exceptional value for prog applications.",
-          pros: ["Genuine B20 dark character at lower price", "Comparable dark-voiced philosophy to Dailor's Meinl Mb20/Mb8 setup", "K 20\" ride is exceptional value"],
+          description: "The standard Zildjian K series (not K Custom or K Dark) provides genuine dark B20 character at lower prices, carrying a similar dark-voiced philosophy to Brann Dailor's Meinl Byzance setup without sharing its lineage. Real Zildjian quality that still works in progressive metal contexts. The K 20\" ride is an exceptional value for prog applications.",
+          pros: ["Genuine B20 dark character at lower price", "Comparable dark-voiced philosophy to Dailor's Meinl Byzance setup", "K 20\" ride is exceptional value"],
           cons: ["Less dark/complex than Zildjian's own K Custom Dark — simpler character", "Less nuance at soft dynamics"],
           verdict: "Best budget path to genuine Zildjian dark B20 tone. Real quality at accessible prices.",
           rating: 4.3,
@@ -9799,10 +9799,10 @@ For prog metal drummers developing their sound or working within tighter budgets
       ]
     },
 
-    // Meinl Artist Concept vs Meinl Mb20 & Mb8 comparison
+    // Meinl Artist Concept vs Meinl Byzance comparison
     comparison: {
-      title: "Meinl Artist Concept vs Meinl Mb20 & Mb8 for Prog Metal",
-      content: `The central prog metal cymbal choice: Meinl Artist Concept (Matt Halpern) or Meinl Mb20 & Mb8 (Brann Dailor)? Here's the honest breakdown:
+      title: "Meinl Artist Concept vs Meinl Byzance for Prog Metal",
+      content: `The central prog metal cymbal choice: Meinl Artist Concept (Matt Halpern) or Meinl Byzance (Brann Dailor)? Here's the honest breakdown:
 
 **Meinl Artist Concept:**
 - Darker, drier character — more overtones suppressed
@@ -9811,24 +9811,24 @@ For prog metal drummers developing their sound or working within tighter budgets
 - Preferred by: Matt Halpern (Periphery)
 - Best for: Technical prog metal, djent-influenced prog, extreme dynamic passages
 
-**Meinl Mb20 & Mb8:**
+**Meinl Byzance:**
 - Slightly warmer than Artist Concept — more sustain and wash
 - More musical in melodic and jazz-influenced passages
-- More accessible pricing than flagship Byzance/Artist Concept lines
+- Meinl's flagship hand-hammered B20 pro line
 - Preferred by: Brann Dailor (Mastodon)
 - Best for: Sludge-prog, melodic prog metal, jazz-metal crossover
 
-**The Truth:** Both are genuinely excellent Meinl lines built for different ends of prog metal. Artist Concept is more common among technical/djent-adjacent prog players. Mb20 & Mb8 dominates in sludge-prog and melodic prog metal. Play both before deciding — individual cymbal variation is significant in hand-hammered B20 lines.
+**The Truth:** Both are genuinely excellent Meinl lines built for different ends of prog metal. Artist Concept is more common among technical/djent-adjacent prog players. Byzance dominates in sludge-prog and melodic prog metal. Play both before deciding — individual cymbal variation is significant in hand-hammered B20 lines.
 
-Note that not every top prog metal drummer fits neatly into this Artist Concept-or-Mb20/Mb8 split — BTBAM's own Sabian HHX Evolution / AAX setup takes a third path entirely.
+Note that not every top prog metal drummer fits neatly into this Artist Concept-or-Byzance split — BTBAM's own Sabian HHX Evolution / AAX setup takes a third path entirely.
 
-**Our Recommendation:** If you play Periphery-style prog, go Meinl Artist Concept. If you play Mastodon/Tool-style prog, go Meinl Mb20 & Mb8. If you play BTBAM-style genre-hopping prog, go Sabian HHX Evolution.`,
+**Our Recommendation:** If you play Periphery-style prog, go Meinl Artist Concept. If you play Mastodon/Tool-style prog, go Meinl Byzance. If you play BTBAM-style genre-hopping prog, go Sabian HHX Evolution.`,
       comparisonTable: [
         { feature: "Darkness/Dryness", meinl: "⭐⭐⭐⭐⭐", meinlMb: "⭐⭐⭐⭐" },
         { feature: "Warmth/Sustain", meinl: "⭐⭐⭐", meinlMb: "⭐⭐⭐⭐⭐" },
         { feature: "Technical Metal Fit", meinl: "⭐⭐⭐⭐⭐", meinlMb: "⭐⭐⭐⭐" },
         { feature: "Melodic/Jazz Passages", meinl: "⭐⭐⭐⭐", meinlMb: "⭐⭐⭐⭐⭐" },
-        { feature: "Price (entry)", meinl: "€200+", meinlMb: "€120+" }
+        { feature: "Price (entry)", meinl: "€200+", meinlMb: "€200+" }
       ]
     },
 
@@ -9843,7 +9843,7 @@ Note that not every top prog metal drummer fits neatly into this Artist Concept-
         },
         {
           category: "Best for Sludge-Prog",
-          pedal: "Meinl Mb20 & Mb8 Series",
+          pedal: "Meinl Byzance Series",
           reason: "Brann Dailor's Mastodon cymbal setup. Warm, controlled character for melodic prog and sludge-metal passages."
         },
         {
@@ -9869,14 +9869,14 @@ Note that not every top prog metal drummer fits neatly into this Artist Concept-
     ],
     relatedDrummers: [
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HHX Evolution — BTBAM progressive metal authority' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Mb20 & Mb8 Series — Mastodon\'s GRAMMY-winning prog metal sound' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Series — Mastodon\'s GRAMMY-winning prog metal sound' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl endorser — Periphery djent/prog precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HHX Evolution — BTBAM prog metal cymbal standard' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Mb20 & Mb8 Series — Mastodon sludge-prog excellence' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Series — Mastodon sludge-prog excellence' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery djent precision' }
     ],
 
@@ -9888,15 +9888,15 @@ Note that not every top prog metal drummer fits neatly into this Artist Concept-
       },
       {
         question: "What cymbals does Brann Dailor use?",
-        answer: "Brann Dailor of Mastodon uses Meinl's Mb20 & Mb8 Series cymbals. Their dark, controlled tone anchors Mastodon's sludge-prog heaviness while giving Dailor's jazz-influenced melodic playing room to breathe. His GRAMMY-winning drumming on 'Crack the Skye' and 'The Hunter' demonstrates the setup's versatility in progressive metal contexts."
+        answer: "Brann Dailor of Mastodon uses Meinl's Byzance Series cymbals. Their dark, controlled tone anchors Mastodon's sludge-prog heaviness while giving Dailor's jazz-influenced melodic playing room to breathe. His GRAMMY-winning drumming on 'Crack the Skye' and 'The Hunter' demonstrates the setup's versatility in progressive metal contexts."
       },
       {
         question: "What cymbals does Matt Halpern use?",
         answer: "Matt Halpern of Periphery is a Meinl endorser who plays his signature Artist Concept cymbal line. Halpern's djent-influenced prog metal requires precisely controlled cymbal response — the Artist Concept's fast attack and controlled decay work well within Periphery's technically demanding arrangements."
       },
       {
-        question: "Which Meinl cymbal line is better for progressive metal: Artist Concept or Mb20 & Mb8?",
-        answer: "Both are excellent Meinl lines — the choice comes down to subgenre and preference. Meinl Artist Concept (Matt Halpern) suits technical prog metal and djent-influenced prog: darker, drier, faster attack. Meinl Mb20 & Mb8 (Brann Dailor) suits melodic prog and sludge-prog: slightly warmer with more sustain. BTBAM's own drummer instead runs Sabian HHX Evolution / AAX for a similarly complex, musical character. Play multiple lines before deciding — individual cymbal variation is significant in hand-hammered B20 lines."
+        question: "Which Meinl cymbal line is better for progressive metal: Artist Concept or Byzance?",
+        answer: "Both are excellent Meinl lines — the choice comes down to subgenre and preference. Meinl Artist Concept (Matt Halpern) suits technical prog metal and djent-influenced prog: darker, drier, faster attack. Meinl Byzance (Brann Dailor) suits melodic prog and sludge-prog: slightly warmer with more sustain. BTBAM's own drummer instead runs Sabian HHX Evolution / AAX for a similarly complex, musical character. Play multiple lines before deciding — individual cymbal variation is significant in hand-hammered B20 lines."
       },
       {
         question: "What size cymbals for progressive metal?",
@@ -9913,7 +9913,7 @@ Note that not every top prog metal drummer fits neatly into this Artist Concept-
       title: "Build Your Progressive Metal Cymbal Voice",
       content: `Progressive metal rewards cymbal investment more than any other metal subgenre. The genre's dynamic extremes — from whisper-quiet to crushing heaviness — demand cymbals that can perform beautifully across the entire spectrum. Blake Richardson, Brann Dailor, and Matt Halpern all chose dark, complex B20 cymbals because they work in both extremes.
 
-Start with a dark crash pair and versatile hi-hats. Add a complex ride that gives you both bow and bell options. Build outward from there as your playing and budget develop. The Sabian HHX Evolution, Meinl Artist Concept, or Meinl Mb20 & Mb8 families are the obvious starting points — all three are proven at the highest levels of progressive metal.
+Start with a dark crash pair and versatile hi-hats. Add a complex ride that gives you both bow and bell options. Build outward from there as your playing and budget develop. The Sabian HHX Evolution, Meinl Artist Concept, or Meinl Byzance families are the obvious starting points — all three are proven at the highest levels of progressive metal.
 
 Avoid the mistake of buying bright cymbals because they sound impressive in a shop. In a prog metal band context, brightness quickly becomes harshness. Dark, complex tones create space for the music's architecture to breathe.
 
@@ -28091,7 +28091,7 @@ Start with an 18" in a dry, fast-decaying voice, and size down to 16" if your ma
       title: "Why Progressive Metal Demands a Versatile China",
       content: `Progressive metal asks more of a china cymbal than almost any other subgenre. A single song might move from a delicate, atmospheric passage to a crushing odd-meter climax, and the china needs to work as both a subtle textural color and an explosive structural accent — sometimes within the same eight bars.
 
-Mario Duplantier's graduated Zildjian setup with Gojira uses china accents as part of a broader dynamic and textural palette, one piece in an arsenal built for the band's shifts between atmospheric passages and crushing heaviness. Danny Carey's Paiste Signature setup with Tool treats cymbal choices — china included — as compositional tools suited to the band's famously complex, Fibonacci-influenced time signatures, while Brann Dailor's Meinl Mb20 & Mb8 Series setup with Mastodon has carried a GRAMMY-winning progressive metal sound across records built on constant structural surprise.
+Mario Duplantier's graduated Zildjian setup with Gojira uses china accents as part of a broader dynamic and textural palette, one piece in an arsenal built for the band's shifts between atmospheric passages and crushing heaviness. Danny Carey's Paiste Signature setup with Tool treats cymbal choices — china included — as compositional tools suited to the band's famously complex, Fibonacci-influenced time signatures, while Brann Dailor's Meinl Byzance Series setup with Mastodon has carried a GRAMMY-winning progressive metal sound across records built on constant structural surprise.
 
 This guide covers what makes a china work across progressive metal's demanding range: tonal versatility, dynamic control, and musicality, along with specific model recommendations across every budget.`,
       keyPoints: [
@@ -28151,16 +28151,16 @@ This guide covers what makes a china work across progressive metal's demanding r
       pedals: [
         {
           rank: 1,
-          name: "Meinl Mb8 China",
+          name: "Meinl Byzance Extra Dry China",
           brand: "Meinl",
-          model: "18\" Mb8 China",
+          model: "18\" Byzance Extra Dry China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€120-160",
+          priceRange: "€200-250",
           tier: "pro",
-          driveType: "Bronze alloy (Mb8 finish), Dark",
-          description: `The Mb8 China delivers a complex, musical trash with real overtone depth, letting it function as both an atmospheric texture and a full explosive accent — exactly the range progressive metal demands from a single cymbal.
+          driveType: "B20 Bronze, Dark/Dry",
+          description: `The Byzance Extra Dry China delivers a complex, musical trash with real overtone depth, letting it function as both an atmospheric texture and a full explosive accent — exactly the range progressive metal demands from a single cymbal.
 
-Brann Dailor's Meinl Mb20 & Mb8 Series setup with Mastodon has carried the band's GRAMMY-winning progressive metal sound across records built on constant structural surprise, where a china needs to work in service of the composition rather than just adding noise.`,
+Brann Dailor's Meinl Byzance Series setup with Mastodon has carried the band's GRAMMY-winning progressive metal sound across records built on constant structural surprise, where a china needs to work in service of the composition rather than just adding noise.`,
           pros: [
             "Complex, musical overtones work in both quiet and loud contexts",
             "Wide dynamic range from soft texture to full accent",
@@ -28169,13 +28169,13 @@ Brann Dailor's Meinl Mb20 & Mb8 Series setup with Mastodon has carried the band'
           ],
           cons: [
             "20\" alternatives offer even more low-end weight for the biggest climactic sections",
-            "Mixed Mb20/Mb8 lineup means matching finishes takes care",
+            "Premium Meinl Byzance pricing",
             "Complex overtones less suited to drummers wanting a simple, dry accent"
           ],
           specs: {
             size: "18\"",
-            alloy: "Bronze alloy (Mb8 finish)",
-            finish: "Dark",
+            alloy: "B20 Bronze",
+            finish: "Extra Dry",
             weight: "Medium-Heavy",
             mounting: "Standard or Inverted"
           },
@@ -28184,7 +28184,7 @@ Brann Dailor's Meinl Mb20 & Mb8 Series setup with Mastodon has carried the band'
           ],
           verdict: "The most musically versatile china on this list — equally at home as texture or explosive accent.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/meinl_mb8_china_18.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_china_18.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -28377,7 +28377,7 @@ Mario Duplantier's graduated Zildjian setup with Gojira uses a bright, cutting c
 **18\" China:**
 - Faster response for intricate, odd-meter passages
 - Easier to fit into a large, multi-cymbal progressive setup
-- Preferred for atmospheric or technical textural work: Paiste Signature, Meinl Byzance Dark, Meinl Mb8
+- Preferred for atmospheric or technical textural work: Paiste Signature, Meinl Byzance Dark, Meinl Byzance Extra Dry
 
 **20\" China:**
 - More low-end weight and sustain for climactic, heavy sections
@@ -28402,7 +28402,7 @@ Mario Duplantier's graduated Zildjian setup with Gojira uses a bright, cutting c
       picks: [
         {
           category: "Best Overall",
-          pedal: "Meinl Mb8 China",
+          pedal: "Meinl Byzance Extra Dry China",
           reason: "The most musically versatile china here — works as atmospheric texture and explosive accent alike."
         },
         {
@@ -28430,7 +28430,7 @@ Mario Duplantier's graduated Zildjian setup with Gojira uses a bright, cutting c
       'best-ride-cymbals-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Mb8 China — Mastodon\'s GRAMMY-winning prog metal sound' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Extra Dry China — Mastodon\'s GRAMMY-winning prog metal sound' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Full China — Tool\'s Fibonacci-influenced complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian AAX Holy China — BTBAM\'s dynamic extremity since the 2018 Automata switch' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian A Custom China within a graduated cymbal palette' }
@@ -28449,7 +28449,7 @@ Mario Duplantier's graduated Zildjian setup with Gojira uses a bright, cutting c
       },
       {
         question: "Can a china cymbal work as a quiet, atmospheric texture?",
-        answer: "Yes — a china with rich, complex overtones (like Meinl Mb8 or Meinl Byzance Dark) can function as a subtle textural color at low volume, not just an explosive accent. This dual role is especially valuable in progressive metal's wide dynamic range."
+        answer: "Yes — a china with rich, complex overtones (like Meinl Byzance Extra Dry or Meinl Byzance Dark) can function as a subtle textural color at low volume, not just an explosive accent. This dual role is especially valuable in progressive metal's wide dynamic range."
       },
       {
         question: "What's the best budget china cymbal for progressive metal?",
@@ -28464,7 +28464,7 @@ Mario Duplantier's graduated Zildjian setup with Gojira uses a bright, cutting c
     // Conclusion
     conclusion: {
       title: "One Cymbal, Every Mood",
-      content: `Progressive metal asks a china cymbal to do more than almost any other genre — function as a delicate atmospheric color one moment and an explosive structural accent the next. Whether you choose the musically complex Meinl Mb8 that carries Mastodon's GRAMMY-winning sound, the compositional precision of Danny Carey's Paiste Signature, or a budget-friendly XSR to start exploring dynamic range, the right china becomes a genuine musical tool rather than just a loud accessory.
+      content: `Progressive metal asks a china cymbal to do more than almost any other genre — function as a delicate atmospheric color one moment and an explosive structural accent the next. Whether you choose the musically complex Meinl Byzance Extra Dry that carries Mastodon's GRAMMY-winning sound, the compositional precision of Danny Carey's Paiste Signature, or a budget-friendly XSR to start exploring dynamic range, the right china becomes a genuine musical tool rather than just a loud accessory.
 
 Start with an 18" for maximum versatility, and add a 20" once your material demands a bigger, more sustained climactic wash.
 
@@ -42817,13 +42817,13 @@ Start with one medium-weight crash in the 17"-18" range, and add a second at a d
       title: "Why Progressive Metal Crashes Need to Be Musical, Not Just Loud",
       content: `Progressive metal asks more of a crash cymbal than almost any other subgenre. A death metal crash just needs to explode and get out of the way; a progressive metal crash has to do that at 240 BPM during a blast-beat section and then, two bars later, swell musically under a clean, dynamics-driven passage that barely rises above a whisper. The genre's odd-time signatures and constantly shifting arrangements mean a crash gets asked to punctuate a downbeat, color a transition, and sustain through a build — sometimes all within the same song.
 
-Mario Duplantier of Gojira layers three different Zildjian crashes — an 18" K Custom Hybrid, a 19" A Custom, and a 20" K Sweet — specifically so he has a graduated palette of tonal weights to draw from across Gojira's progressive death metal arrangements, rather than relying on a single crash to do every job. Danny Carey of Tool builds his cymbal voice around Paiste's Signature series, prized for the complex, singing overtones that suit Tool's Fibonacci-influenced, dynamics-driven compositions. Blake Richardson of Between the Buried and Me trusts Meinl Byzance Dark crashes for the dark, hand-hammered complexity that carries BTBAM's whiplash shifts between acoustic-adjacent passages and full technical extremity, and Brann Dailor of Mastodon plays Meinl Mb20 & Mb8 Series crashes that anchor Mastodon's sludge-prog heaviness while still leaving room for his melodic, jazz-influenced fills to breathe.
+Mario Duplantier of Gojira layers three different Zildjian crashes — an 18" K Custom Hybrid, a 19" A Custom, and a 20" K Sweet — specifically so he has a graduated palette of tonal weights to draw from across Gojira's progressive death metal arrangements, rather than relying on a single crash to do every job. Danny Carey of Tool builds his cymbal voice around Paiste's Signature series, prized for the complex, singing overtones that suit Tool's Fibonacci-influenced, dynamics-driven compositions. Blake Richardson of Between the Buried and Me trusts Meinl Byzance Dark crashes for the dark, hand-hammered complexity that carries BTBAM's whiplash shifts between acoustic-adjacent passages and full technical extremity, and Brann Dailor of Mastodon plays 18" and 19" Meinl Byzance Brilliant Heavy Hammered Crashes that anchor Mastodon's sludge-prog heaviness while still leaving room for his melodic, jazz-influenced fills to breathe.
 
 This guide breaks down what actually makes a crash work for progressive metal — dynamic range, tonal complexity, and graduated sizing — and recommends specific models across every budget, from a first musical crash to the exact cymbals prog metal's most celebrated drummers play.`,
       keyPoints: [
         "Progressive metal crashes must perform across extreme dynamic range — from whisper-soft swells to explosive full-band hits",
         "Layered, graduated crash setups (Mario Duplantier's three-crash Zildjian rig) outperform single-crash setups for arrangement-heavy music",
-        "Dark, complex B20/Mb alloys (Meinl Byzance Dark, Meinl Mb20 & Mb8) suit prog metal's dense, layered arrangements better than bright, simple tones",
+        "Dark, complex B20 alloys (Meinl Byzance Dark, Meinl Byzance Brilliant Heavy Hammered) suit prog metal's dense, layered arrangements better than bright, simple tones",
         "17\"-20\" is the prog metal crash sweet spot, prioritizing tonal complexity and sustain control over pure speed"
       ]
     },
@@ -42841,7 +42841,7 @@ This guide breaks down what actually makes a crash work for progressive metal �
         {
           name: "Tonal Complexity",
           icon: "🌊",
-          description: "Simple, bright, one-dimensional crashes sound flat under prog metal's dense, layered arrangements. Dark cymbals like Meinl Byzance Dark (Blake Richardson) or the Meinl Mb20 & Mb8 Series (Brann Dailor) carry multiple frequency layers that add depth rather than just volume.",
+          description: "Simple, bright, one-dimensional crashes sound flat under prog metal's dense, layered arrangements. Dark cymbals like Meinl Byzance Dark (Blake Richardson) or the Meinl Byzance Brilliant Heavy Hammered Series (Brann Dailor) carry multiple frequency layers that add depth rather than just volume.",
           recommendation: "Hand-hammered B20 bronze for complex, layered overtones"
         },
         {
@@ -42859,7 +42859,7 @@ This guide breaks down what actually makes a crash work for progressive metal �
         {
           name: "Alloy and Finish",
           icon: "⚙️",
-          description: "B20 bronze (Zildjian K Custom, A Custom; Meinl Byzance Dark and Mb20/Mb8; Paiste Signature) delivers the complex, musical voice prog metal demands. Dark or traditional finishes generally suit the genre better than brilliant finishes, which can sound harsh under dynamically extreme material.",
+          description: "B20 bronze (Zildjian K Custom, A Custom; Meinl Byzance Dark and Brilliant Heavy Hammered; Paiste Signature) delivers the complex, musical voice prog metal demands. Dark or traditional finishes generally suit the genre better than brilliant finishes, which can sound harsh under dynamically extreme material.",
           recommendation: "B20 bronze with a dark or traditional finish for musicality over pure brightness"
         },
         {
@@ -42948,40 +42948,40 @@ This is the clearest example in progressive metal of building a crash setup arou
         },
         {
           rank: 3,
-          name: "Meinl Mb8 Crash",
+          name: "Meinl Byzance Brilliant Heavy Hammered Crash",
           brand: "Meinl",
-          model: "18\" Mb8 Crash",
+          model: "18\" & 19\" Byzance Brilliant Heavy Hammered Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
-          priceRange: "€90-130",
+          priceRange: "€280-340",
           tier: "pro",
-          driveType: "Bronze alloy (Mb8 finish), Dark",
-          description: `Brann Dailor of Mastodon builds his crash voice around the Meinl Mb20 & Mb8 Series — a dark cymbal lineup with a dry character and controlled wash that anchors Mastodon's sludge-prog heaviness while giving his melodic, jazz-influenced tom and cymbal work room to breathe.
+          driveType: "B20 Bronze, Hand Hammered",
+          description: `Brann Dailor of Mastodon builds his crash voice around 18" and 19" Meinl Byzance Brilliant Heavy Hammered Crashes — a dark cymbal lineup with a complex, controlled wash that anchors Mastodon's sludge-prog heaviness while giving his melodic, jazz-influenced tom and cymbal work room to breathe.
 
-Dailor's GRAMMY-winning drumming on albums like "Crack the Skye" and "The Hunter" showcases exactly the kind of musical restraint the Mb8 rewards — a crash that adds color without overwhelming a complex arrangement.`,
+Dailor's GRAMMY-winning drumming on albums like "Crack the Skye" and "The Hunter" showcases exactly the kind of musical restraint this Byzance pairing rewards — crashes that add color without overwhelming a complex arrangement.`,
           pros: [
             "Brann Dailor's proven crash — GRAMMY-winning prog metal pedigree",
-            "Dark, controlled wash tone",
-            "More accessible pricing than flagship Byzance lines",
-            "Same Mb20/Mb8 family as Dailor's rides and hi-hats for a matched setup"
+            "Dark, hand-hammered B20 bronze for complex, controlled wash",
+            "Heavy weight sustains wash across dense, layered arrangements",
+            "Matched 18\"/19\" pairing for a cohesive dark setup"
           ],
           cons: [
             "Darker character may not suit brighter, more aggressive prog styles",
-            "Mixed Mb20/Mb8 lineup means matching finishes takes care",
+            "Premium Byzance pricing",
             "Less explosive than Rock/Power-voiced crashes for pure impact"
           ],
           specs: {
-            size: "18\"",
-            alloy: "Bronze alloy (Mb8 finish)",
-            finish: "Dark",
-            weight: "Medium",
-            decay: "Controlled, dry"
+            size: "18\" & 19\"",
+            alloy: "B20 Bronze",
+            finish: "Brilliant, Hand Hammered",
+            weight: "Heavy",
+            decay: "Slow, sustained wash"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Meinl Mb20 & Mb8 Series — GRAMMY-winning prog metal drumming" }
+            { name: "Brann Dailor", band: "Mastodon", note: "18\" & 19\" Byzance Brilliant Heavy Hammered Crashes — GRAMMY-winning prog metal drumming" }
           ],
           verdict: "Best Meinl choice for melodic, sludge-influenced progressive metal.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/meinl_mb8_crash_18.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_brilliant_heavy_hammered_crash_18_dailor.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -43035,10 +43035,10 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
           priceRange: "€140-180",
           tier: "mid",
           driveType: "B20 Bronze",
-          description: "The standard K series brings genuine B20 dark character at a more accessible price than the full K Custom line, carrying a similar dark-voiced philosophy to Brann Dailor's Meinl Mb20 & Mb8 setup without sharing its lineage.",
+          description: "The standard K series brings genuine B20 dark character at a more accessible price than the full K Custom line, carrying a similar dark-voiced philosophy to Brann Dailor's Meinl Byzance setup without sharing its lineage.",
           pros: [
             "Genuine B20 dark character at a mid-range price",
-            "Comparable dark-voiced philosophy to Dailor's Meinl Mb20/Mb8 setup",
+            "Comparable dark-voiced philosophy to Dailor's Meinl Byzance setup",
             "Good dynamic range for the price tier"
           ],
           cons: [
@@ -43111,7 +43111,7 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
 
 **The Truth:** Both approaches produce world-class results. Blake Richardson and Brann Dailor prove a single, well-chosen dark crash can carry an entire dynamically extreme catalog. Mario Duplantier proves a deliberate three-crash trio unlocks a level of arrangement-specific color a single crash can't match.
 
-**Our Recommendation:** Start with one excellent dark crash (Meinl Byzance Dark or Meinl Mb8) and learn its full dynamic range before expanding into a graduated multi-crash setup.`,
+**Our Recommendation:** Start with one excellent dark crash (Meinl Byzance Dark or Meinl Byzance Brilliant Heavy Hammered) and learn its full dynamic range before expanding into a graduated multi-crash setup.`,
       comparisonTable: [
         { feature: "Tonal Variety", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Setup Simplicity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -43136,7 +43136,7 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
         },
         {
           category: "Best for Melodic/Sludge-Prog",
-          pedal: "Meinl Mb8 Crash",
+          pedal: "Meinl Byzance Brilliant Heavy Hammered Crash",
           reason: "Brann Dailor's GRAMMY-winning choice for Mastodon's melodic, jazz-influenced prog metal."
         },
         {
@@ -43157,7 +43157,7 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Three-crash graduated Zildjian setup for Gojira' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Full Crash for Tool\'s Fibonacci-influenced complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Dark — BTBAM\'s dynamic extremity' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Mb8 Crash — Mastodon\'s GRAMMY-winning prog metal sound' }
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — Mastodon\'s GRAMMY-winning prog metal sound' }
     ],
 
     // Featured drummers (issue template)
@@ -43188,7 +43188,7 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
       },
       {
         question: "What's the best budget crash cymbal for progressive metal?",
-        answer: "The Zildjian K Series Dark Crash (€140-180) shares real B20 dark DNA with Zildjian's pro-tier lines at a fraction of the price. The Meinl Classics Custom Dark Crash (€110-150) offers a similarly accessible path toward the Byzance Dark sound, while the Meinl Mb8 Crash offers direct access to Brann Dailor's own setup."
+        answer: "The Zildjian K Series Dark Crash (€140-180) shares real B20 dark DNA with Zildjian's pro-tier lines at a fraction of the price. The Meinl Classics Custom Dark Crash (€110-150) offers a similarly accessible path toward the Byzance Dark sound, while the Meinl Byzance Brilliant Heavy Hammered Crash offers direct access to Brann Dailor's own setup."
       }
     ],
 
@@ -63486,14 +63486,14 @@ Budget shouldn't stop you either. A Pearl Export or Sonor AQ2 shell pack will te
     // SEO metadata
     title: "Best Cymbals for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Doom Metal 2026 | MetalForge Expert Guide",
-    description: "Best cymbals for doom metal drumming: what Brann Dailor (Meinl Mb20 & Mb8), Danny Carey (Paiste Signature), Mario Duplantier (Zildjian), and Igor Cavalera (Paiste RUDE) actually play. Dark, low-tuned washes for doom's slow, crushing tempos — ranked budget to pro.",
+    description: "Best cymbals for doom metal drumming: what Brann Dailor (Meinl Byzance), Danny Carey (Paiste Signature), Mario Duplantier (Zildjian), and Igor Cavalera (Paiste RUDE) actually play. Dark, low-tuned washes for doom's slow, crushing tempos — ranked budget to pro.",
     seoKeywords: [
       'best cymbals for doom metal',
       'doom metal cymbals',
       'dark cymbals for doom',
       'brann dailor cymbals mastodon',
       'danny carey cymbals tool',
-      'meinl mb20 mb8 doom metal',
+      'meinl byzance doom metal',
       'paiste signature dry heavy ride',
       'low tuned cymbals metal',
       'best ride cymbal doom metal',
@@ -63523,12 +63523,12 @@ Budget shouldn't stop you either. A Pearl Export or Sonor AQ2 shell pack will te
       title: "Why Doom Metal Cymbals Need Dark, Low-Tuned Wash Over Cutting Brightness",
       content: `Doom metal cymbal selection runs opposite to most extreme metal subgenres. Where blast-beat styles demand bright, explosive cymbals that punch through a wall of rapid-fire distortion, doom's slow, riff-locked tempos give every cymbal strike room to breathe — and that space rewards dark, complex, low-tuned voicings over raw cutting power. A crash or ride that sounds harsh and immediate in a thrash mix can sound thin and disconnected against doom's tonnage-first, half-tempo grooves.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, has played Zildjian's Avedis Series cymbals since 1971 — the original dark, low-tuned voicing that set doom's cymbal template. Candlemass's founding drummers, who helped define the genre a decade later, don't currently have dedicated MetalForge gear profiles, so this guide also draws on the closest working analogues from progressive sludge, groove-death, and crushing extreme metal lineages that share doom's foundational commitment to weight and space. Brann Dailor's Meinl Mb20 & Mb8 Series setup anchors Mastodon's progressive sludge-doom catalog with complex, musical hi-hats and crashes built for atmosphere over aggression. Danny Carey's Paiste Signature rig gives Tool's slow-building, doom-adjacent passages a dry, dark ride and Power Crashes that carry weight without washing out. Mario Duplantier's Zildjian setup adds tectonic low-end presence to Gojira's crushing, down-tuned passages, while Igor Cavalera's Paiste RUDE cymbals bring a harsher, tribal-adjacent edge that still favors slow-decay darkness over bright cut.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, has played Zildjian's Avedis Series cymbals since 1971 — the original dark, low-tuned voicing that set doom's cymbal template. Candlemass's founding drummers, who helped define the genre a decade later, don't currently have dedicated MetalForge gear profiles, so this guide also draws on the closest working analogues from progressive sludge, groove-death, and crushing extreme metal lineages that share doom's foundational commitment to weight and space. Brann Dailor's Meinl Byzance Series setup anchors Mastodon's progressive sludge-doom catalog with complex, musical hi-hats and crashes built for atmosphere over aggression. Danny Carey's Paiste Signature rig gives Tool's slow-building, doom-adjacent passages a dry, dark ride and Power Crashes that carry weight without washing out. Mario Duplantier's Zildjian setup adds tectonic low-end presence to Gojira's crushing, down-tuned passages, while Igor Cavalera's Paiste RUDE cymbals bring a harsher, tribal-adjacent edge that still favors slow-decay darkness over bright cut.
 
 This guide breaks down dark hi-hats, low-pitched crash washes, and dry rides for doom metal — comparing voicing, size, and finish across four drummers whose lineages run closest to doom's crushing rhythmic foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Doom metal rewards dark, complex, low-tuned cymbal voicings over the bright cut favored by faster metal subgenres",
-        "Brann Dailor's Meinl Mb20 & Mb8 Series hi-hats and crashes anchor Mastodon's progressive sludge-doom atmosphere",
+        "Brann Dailor's Meinl Byzance Series hi-hats and crashes anchor Mastodon's progressive sludge-doom atmosphere",
         "Danny Carey's Paiste Dry Heavy Ride shows how a dark, controlled ride can carry doom-adjacent weight without washing out",
         "18\"-19\" crashes with slow decay are the doom standard, favoring sustained wash over instant, choked attack"
       ]
@@ -63541,13 +63541,13 @@ This guide breaks down dark hi-hats, low-pitched crash washes, and dry rides for
         {
           name: "Dark, Complex Overtones",
           icon: "🌑",
-          description: "Unlike black or thrash metal, which favor bright, cutting cymbals to survive harsh or rapid-fire mixes, doom metal's slow tempos give dark, complex voicings room to fully develop. Meinl's Mb20 & Mb8 Series and Paiste's Dry/Signature lines (Dailor, Carey) both prioritize overtone-rich darkness over aggressive brightness.",
+          description: "Unlike black or thrash metal, which favor bright, cutting cymbals to survive harsh or rapid-fire mixes, doom metal's slow tempos give dark, complex voicings room to fully develop. Meinl's Byzance Series and Paiste's Dry/Signature lines (Dailor, Carey) both prioritize overtone-rich darkness over aggressive brightness.",
           recommendation: "Dark-voiced crashes and rides over bright, cutting alternatives"
         },
         {
           name: "Low-Tuned Crash Wash",
           icon: "💨",
-          description: "Brann Dailor's 18\" Meinl Mb8 Crash and 20\" Mb20 Crash and Igor Cavalera's 18\"-19\" RUDE Crashes are voiced for slow-decay wash rather than instant explosion — letting each accent bloom fully across doom's tempo-crawling riff structures.",
+          description: "Brann Dailor's 18\" and 19\" Meinl Byzance Brilliant Heavy Hammered Crashes and Igor Cavalera's 18\"-19\" RUDE Crashes are voiced for slow-decay wash rather than instant explosion — letting each accent bloom fully across doom's tempo-crawling riff structures.",
           recommendation: "18\"-19\" heavy crashes with slow decay for sustained wash over quick attack"
         },
         {
@@ -63571,7 +63571,7 @@ This guide breaks down dark hi-hats, low-pitched crash washes, and dry rides for
         {
           name: "Weight and Build for Sustained Low Tunings",
           icon: "🛡️",
-          description: "Doom's slow, heavy playing style still requires durable construction — Paiste RUDE and Meinl's Mb20 & Mb8 Series profiles hold up to deliberate, weighted strikes without losing their dark character over time.",
+          description: "Doom's slow, heavy playing style still requires durable construction — Paiste RUDE and Meinl's Byzance Series profiles hold up to deliberate, weighted strikes without losing their dark character over time.",
           recommendation: "Thick, hand-hammered cymbals built to hold dark tone under heavy, deliberate strikes"
         }
       ]
@@ -63583,42 +63583,42 @@ This guide breaks down dark hi-hats, low-pitched crash washes, and dry rides for
       pedals: [
         {
           rank: 1,
-          name: "Meinl Mb20 & Mb8 Series",
+          name: "Meinl Byzance Series",
           brand: "Meinl",
-          model: "Mb20 & Mb8 Series",
+          model: "Byzance Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
-          priceRange: "€150-350 per cymbal",
+          priceRange: "€200-550 per cymbal",
           tier: "pro",
-          material: "Bronze alloy (Mb20/Mb8 finish)",
+          material: "B20 Bronze (Hand-Hammered)",
 
-          description: `Brann Dailor's Meinl Mb20 & Mb8 Series setup is the doom-adjacent cymbal standard, anchoring Mastodon's progressive sludge-doom catalog with complex, musical tone. His 14" Mb20 Hi-Hats deliver a focused chick, while 18" Mb8 and 20" Mb20 Crashes bloom into slow, complex washes that suit doom's tempo-crawling grooves far better than a bright, instant crash would.
+          description: `Brann Dailor's Meinl Byzance Series setup is the doom-adjacent cymbal standard, anchoring Mastodon's progressive sludge-doom catalog with complex, musical tone. His 14" Dark Hi-Hats deliver a focused chick, while 18" and 19" Brilliant Heavy Hammered Crashes bloom into slow, complex washes that suit doom's tempo-crawling grooves far better than a bright, instant crash would.
 
-The 22" Mb20 Ride adds versatile wash and rhythmic undertone rather than aggressive cut — exactly the atmosphere doom metal's patient, riff-locked structures call for. An 18" Mb8 China rounds out the setup for cutting, low-decay punctuation when the material needs an edge.`,
+A 21" Ghost Ride adds versatile wash and rhythmic undertone rather than aggressive cut — exactly the atmosphere doom metal's patient, riff-locked structures call for. An 18" Extra Dry China rounds out the setup for cutting, low-decay punctuation when the material needs an edge.`,
 
           pros: [
             "Brann Dailor's current Mastodon setup — the closest working analogue to doom metal's atmospheric, dark-toned template",
             "Complex, musical overtones suited to slow, riff-locked grooves",
-            "Mb20 Ride offers versatile wash without aggressive brightness",
+            "Ghost Ride offers versatile wash without aggressive brightness",
             "Proven across Mastodon's most acclaimed sludge-doom recordings",
-            "Durable construction holds tone under heavy, deliberate strikes"
+            "Hand-hammered B20 bronze holds tone under heavy, deliberate strikes"
           ],
           cons: [
             "Premium pricing across a full cymbal set",
             "Complex voicing can get buried without careful mix EQ",
-            "Mixed Mb20/Mb8 lineup means matching finishes takes care"
+            "Hand-hammered pieces vary individually — try before buying if possible"
           ],
           specs: {
-            hiHats: "14\" Mb20 Hi-Hats",
-            crashes: "18\" Mb8 & 20\" Mb20 Crash",
-            ride: "22\" Mb20 Ride",
-            china: "18\" Mb8 China"
+            hiHats: "14\" Dark Hi-Hats",
+            crashes: "18\" & 19\" Brilliant Heavy Hammered Crash",
+            ride: "21\" Ghost Ride",
+            china: "18\" Extra Dry China"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Meinl Mb20 & Mb8 Series — progressive sludge-doom's darkest, most atmospheric wash" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Meinl Byzance Series — progressive sludge-doom's darkest, most atmospheric wash" }
           ],
-          verdict: "The doom-adjacent cymbal standard. Dailor's complex, musical Mb20 & Mb8 setup defines the genre's closest working analogue.",
+          verdict: "The doom-adjacent cymbal standard. Dailor's complex, musical Byzance setup defines the genre's closest working analogue.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/meinl_mb20_mb8_set.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_series.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -63681,7 +63681,7 @@ For doom-adjacent drummers chasing a heavier, more technical edge, this combinat
             "Proven across Gojira's most celebrated crushing recordings"
           ],
           cons: [
-            "Less specifically 'doom' voiced than Mb20/Mb8 or Signature Dry lines",
+            "Less specifically 'doom' voiced than Byzance or Signature Dry lines",
             "A Custom pieces lean brighter than pure doom purists may want",
             "Premium pricing across a full set"
           ],
@@ -63778,12 +63778,12 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 
     // Comparison
     comparison: {
-      title: "Meinl Mb20 & Mb8 vs Paiste Signature vs Paiste RUDE for Doom Metal",
+      title: "Meinl Byzance vs Paiste Signature vs Paiste RUDE for Doom Metal",
       content: `Cymbal voicing splits doom metal's closest working analogues into distinct camps. Here's how they compare:
 
-**Meinl Mb20 & Mb8 Series (Brann Dailor):**
+**Meinl Byzance Series (Brann Dailor):**
 - Complex, musical overtones suited to slow, riff-locked grooves
-- Mb20 Ride offers versatile wash over aggressive cut
+- Ghost Ride offers versatile wash over aggressive cut
 - Best for straightforward doom, sludge, and progressive-doom hybrids
 
 **Paiste Signature Dry (Danny Carey):**
@@ -63796,7 +63796,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 - More accessible pricing than signature-tier alternatives
 - Best for doom hybrids blending tribal or groove metal elements
 
-**Our Recommendation:** Start with Meinl Mb20 & Mb8 (or budget Zildjian S Family Dark) if your material leans toward straightforward, atmospheric doom weight. Choose Paiste Signature if you need a controlled, dark ride to anchor patient, dynamically varied material. Consider Paiste RUDE if your doom leans toward tribal or groove metal hybrids.`,
+**Our Recommendation:** Start with Meinl Byzance (or budget Zildjian S Family Dark) if your material leans toward straightforward, atmospheric doom weight. Choose Paiste Signature if you need a controlled, dark ride to anchor patient, dynamically varied material. Consider Paiste RUDE if your doom leans toward tribal or groove metal hybrids.`,
       comparisonTable: [
         { feature: "Darkness/Atmosphere", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐" },
         { feature: "Ride Control", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐" },
@@ -63811,7 +63811,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       picks: [
         {
           category: "Best Overall",
-          pedal: "Meinl Mb20 & Mb8 Series",
+          pedal: "Meinl Byzance Series",
           reason: "Brann Dailor's Mastodon setup — the closest working analogue to doom metal's dark, atmospheric founding template."
         },
         {
@@ -63839,7 +63839,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       'best-cymbals-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Mb20 & Mb8 Series — Mastodon progressive sludge-doom darkness' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Series — Mastodon progressive sludge-doom darkness' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Dry Heavy Ride — Tool atmospheric weight' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K/A/Z Custom — Gojira crushing, tectonic weight' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Paiste RUDE Series — Sepultura tribal, down-tuned heaviness' }
@@ -63847,7 +63847,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Mb20 & Mb8 Series — Mastodon progressive sludge-doom darkness' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Series — Mastodon progressive sludge-doom darkness' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Dry Heavy Ride — Tool atmospheric weight' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K/A/Z Custom — Gojira crushing, tectonic weight' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Paiste RUDE Series — Sepultura tribal, down-tuned heaviness' }
@@ -63857,15 +63857,15 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     faq: [
       {
         question: "Who are the best doom metal drummers and what cymbals do they use?",
-        answer: "Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, has played Zildjian's Avedis Series cymbals since 1971. Brann Dailor of Mastodon plays a Meinl Mb20 & Mb8 Series setup with complex, musical hi-hats and crashes on the band's progressive sludge-doom catalog. Danny Carey of Tool plays Paiste Signature cymbals, including a 22\" Dry Heavy Ride, for dark, controlled weight."
+        answer: "Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, has played Zildjian's Avedis Series cymbals since 1971. Brann Dailor of Mastodon plays a Meinl Byzance Series setup with complex, musical hi-hats and crashes on the band's progressive sludge-doom catalog. Danny Carey of Tool plays Paiste Signature cymbals, including a 22\" Dry Heavy Ride, for dark, controlled weight."
       },
       {
         question: "What cymbals does Brann Dailor use?",
-        answer: "Brann Dailor of Mastodon plays Meinl Mb20 & Mb8 Series cymbals: 14\" Mb20 Hi-Hats, an 18\" Mb8 Crash and 20\" Mb20 Crash, a 22\" Mb20 Ride, and an 18\" Mb8 China — a complex, musical setup that defines Mastodon's progressive sludge-doom sound."
+        answer: "Brann Dailor of Mastodon plays Meinl Byzance Series cymbals: 14\" Dark Hi-Hats, 18\" and 19\" Brilliant Heavy Hammered Crashes, a 21\" Ghost Ride, and an 18\" Extra Dry China — a complex, musical setup that defines Mastodon's progressive sludge-doom sound."
       },
       {
         question: "Should doom metal cymbals be dark or bright?",
-        answer: "Dark. Doom metal's slow, riff-locked tempos give dark, complex cymbal voicings room to fully develop, unlike faster metal subgenres that need bright, cutting cymbals to survive rapid-fire mixes. Brann Dailor, Danny Carey, and Mario Duplantier all favor dark-voiced Meinl Mb20/Mb8 or Paiste lines over bright alternatives."
+        answer: "Dark. Doom metal's slow, riff-locked tempos give dark, complex cymbal voicings room to fully develop, unlike faster metal subgenres that need bright, cutting cymbals to survive rapid-fire mixes. Brann Dailor, Danny Carey, and Mario Duplantier all favor dark-voiced Meinl Byzance or Paiste lines over bright alternatives."
       },
       {
         question: "What size crash cymbals work best for doom metal?",
@@ -63873,14 +63873,14 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       },
       {
         question: "Do I need signature cymbals to play doom metal?",
-        answer: "No — a Zildjian S Family Dark or Sabian XSR Monarch set will teach real doom metal cymbal restraint at a fraction of the price of the genre's closest analogues' signature setups. Upgrade to Meinl Mb20/Mb8 or Paiste Signature once your technique and budget allow."
+        answer: "No — a Zildjian S Family Dark or Sabian XSR Monarch set will teach real doom metal cymbal restraint at a fraction of the price of the genre's closest analogues' signature setups. Upgrade to Meinl Byzance or Paiste Signature once your technique and budget allow."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Doom Metal Cymbal Voice",
-      content: `Doom metal cymbal choice comes down to how much darkness and atmosphere your riffs demand. Brann Dailor's Meinl Mb20 & Mb8 setup defined the closest working analogue to doom's founding atmospheric template. Danny Carey's Paiste Signature Dry Heavy Ride proved that a dark, controlled ride can anchor doom-adjacent material's most patient, dynamically varied compositions. Mario Duplantier's Zildjian K/A/Z Custom combination shows how technical, down-tuned crushing weight can carry the same dark philosophy into progressive death metal, while Igor Cavalera's Paiste RUDE cymbals bring tonnage-first restraint to tribal groove metal.
+      content: `Doom metal cymbal choice comes down to how much darkness and atmosphere your riffs demand. Brann Dailor's Meinl Byzance setup defined the closest working analogue to doom's founding atmospheric template. Danny Carey's Paiste Signature Dry Heavy Ride proved that a dark, controlled ride can anchor doom-adjacent material's most patient, dynamically varied compositions. Mario Duplantier's Zildjian K/A/Z Custom combination shows how technical, down-tuned crushing weight can carry the same dark philosophy into progressive death metal, while Igor Cavalera's Paiste RUDE cymbals bring tonnage-first restraint to tribal groove metal.
 
 None of these approaches is more "correct" — all four represent doom metal's foundational commitment to darkness and weight in the absence of dedicated doom metal drummer profiles in MetalForge's database. Start with whichever voicing matches your riff style, and don't be afraid to let your cymbals ring out longer and darker than extreme metal convention would suggest.
 

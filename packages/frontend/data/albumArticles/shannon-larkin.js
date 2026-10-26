@@ -20,7 +20,7 @@ export const articles = {
     "dateModified": "2026-06-19",
     "author": "MetalForge Editorial",
     "title": "Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide",
-    "description": "Shannon Larkin's complete drum setup: ddrum Dios Series kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks — the full rig behind Godsmack's hard rock power.",
+    "description": "Shannon Larkin's complete drum setup: ddrum Dios Series kit, Sabian AAX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks — the full rig behind Godsmack's hard rock power.",
     "seoKeywords": [
       "shannon larkin drum setup",
       "godsmack drummer gear",
@@ -36,12 +36,12 @@ export const articles = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
       "title": "Shannon Larkin: Godsmack's Hard Rock Powerhouse",
-      "content": "Shannon Larkin has been the drummer for Godsmack since 2002 — one of the most commercially successful hard rock bands in American music, with multi-platinum albums and headline slots at some of the largest rock festivals in the world. His setup blends hard rock power with heavy metal precision, a combination that has defined Godsmack's rhythmic identity across seven studio albums.\n\nBorn on April 24, 1967, in Baltimore, Maryland, Larkin built his professional foundation with Wrathchild America (thrash metal, 1989) and Ugly Kid Joe (whose \"Everything About You\" became a worldwide hit in 1992), arriving in the Godsmack lineup with more than a decade of professional experience already behind him. That experience shows in his playing: disciplined, punishing where the music demands it, and always locked into the groove that makes Godsmack's brand of heavy rock so immediately identifiable.\n\nHis setup centers on ddrum Dios Series drums with a Ddrum Shannon Larkin Signature snare, Sabian AAX and HHX cymbals, DW 9000 double bass pedals, and Vic Firth American Classic 5B sticks. Every element is selected for durability and performance under the demands of a global touring schedule — Godsmack has never been a studio-only band, and Larkin's kit reflects that road-first philosophy.\n\nThis article breaks down every major component of Shannon Larkin's drum setup: the Ddrum shell configuration, the Sabian cymbal selection, the DW 9000 foot hardware, and the evolution of his gear across Godsmack's catalog from *Faceless* (2003) through *Lighting Up the Sky* (2023).",
+      "content": "Shannon Larkin has been the drummer for Godsmack since 2002 — one of the most commercially successful hard rock bands in American music, with multi-platinum albums and headline slots at some of the largest rock festivals in the world. His setup blends hard rock power with heavy metal precision, a combination that has defined Godsmack's rhythmic identity across seven studio albums.\n\nBorn on April 24, 1967, in Chicago, Illinois, Larkin built his professional foundation with Wrathchild America (thrash metal, 1989) and Ugly Kid Joe (whose \"Everything About You\" became a worldwide hit in 1992), arriving in the Godsmack lineup with more than a decade of professional experience already behind him. That experience shows in his playing: disciplined, punishing where the music demands it, and always locked into the groove that makes Godsmack's brand of heavy rock so immediately identifiable.\n\nHis setup centers on ddrum Dios Series drums with a ddrum Dios Maple snare, Sabian AAX cymbals, DW 9000 double bass pedals, and Vic Firth American Classic 5B sticks. Every element is selected for durability and performance under the demands of a global touring schedule — Godsmack has never been a studio-only band, and Larkin's kit reflects that road-first philosophy.\n\nThis article breaks down every major component of Shannon Larkin's drum setup: the Ddrum shell configuration, the Sabian cymbal selection, the DW 9000 foot hardware, and the consistency of his gear across Godsmack's catalog from *Faceless* (2003) through *Lighting Up the Sky* (2023).",
       "keyPoints": [
         "Godsmack's drummer since 2002 — first album: Faceless (2003)",
         "ddrum Dios Series kit — Ddrum signature artist since the mid-2000s",
-        "Ddrum Shannon Larkin Signature snare, 14\" x 6.5\"",
-        "Sabian AAX and HHX series cymbals — 14\" Stage Hi-Hats, X-Plosion Crashes, HHX Raw Bell Dry Ride",
+        "ddrum Dios 14\" x 6.5\" Maple snare",
+        "Sabian AAX series cymbals — 14\" Stage Hi-Hats, X-Plosion Crashes, AAX Stage Ride",
         "DW 9000 Series double bass pedal for Godsmack's driving hard rock rhythms",
         "Vic Firth American Classic 5B sticks",
         "Former member of Ugly Kid Joe and Wrathchild America"
@@ -77,20 +77,20 @@ export const articles = {
       "estimatedValue": "$1,500–3,000 (ddrum Dios Series shell pack)"
     },
     "snare": {
-      "title": "The Ddrum Shannon Larkin Signature Snare",
-      "brand": "Ddrum",
-      "model": "Ddrum Shannon Larkin Signature",
+      "title": "The ddrum Dios Maple Snare",
+      "brand": "ddrum",
+      "model": "ddrum Dios 14\" x 6.5\" Maple",
       "size": "14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "Shannon Larkin's snare is one of the most distinctive aspects of his setup: a Ddrum Shannon Larkin Signature model developed in collaboration with Ddrum to match his specific tonal requirements. The 14\" x 6.5\" steel shell produces the loud, cutting crack that anchors Godsmack's backbeat — a sound that has to project through dense wall-of-guitar production both in the studio and in 20,000-seat arenas.\n\nThe 6.5\" depth provides additional body and sustain compared to shallower snare designs, giving each stroke a full, authoritative character that works whether the song is a heavy groove-fest like \"Keep Away\" or a more dynamic arrangement like \"Running Blind.\" The steel shell construction — Ddrum's default for Larkin's signature — delivers the bright, projecting attack associated with metal snare work, with enough warmth in the midrange to avoid sounding clinical in Godsmack's hard rock context.\n\nLarkin typically tunes the snare at medium-high tension, prioritizing cut and projection without losing the body that defines his backbeat character. Evans G2 Coated batter heads provide the attack and two-ply controlled sustain his style requires, with a standard Ambassador-weight resonant side allowing full snare wire sensitivity.\n\nThe signature collaboration with Ddrum made this snare one of the more visible products in Ddrum's artist endorsement portfolio — a model that reflected the commercial reach of Godsmack's audience during the band's commercial peak in the mid-to-late 2000s.",
+      "shell": "Maple",
+      "description": "Shannon Larkin's snare voice is one of the most distinctive aspects of his setup: a ddrum Dios 14\" x 6.5\" maple snare that has anchored Godsmack's backbeat since *Faceless* (2003). The maple shell produces a warm yet cutting crack that projects through dense wall-of-guitar production both in the studio and in 20,000-seat arenas.\n\nThe 6.5\" depth provides additional body and sustain compared to shallower snare designs, giving each stroke a full, authoritative character that works whether the song is a heavy groove-fest like \"Keep Away\" or a more dynamic arrangement like \"Running Blind.\" The maple shell construction delivers a warm fundamental with a sharp, cutting attack, giving the snare enough character in the midrange to avoid sounding clinical in Godsmack's hard rock context.\n\nLarkin typically tunes the snare at medium-high tension, prioritizing cut and projection without losing the body that defines his backbeat character. Evans G2 Coated batter heads provide the attack and two-ply controlled sustain his style requires, with a standard Ambassador-weight resonant side allowing full snare wire sensitivity.\n\nThe ddrum Dios maple snare has remained a constant throughout Larkin's Godsmack tenure — the same dependable, road-tested model that reflects his preference for gear that works over gear that chases trends, carried across every studio album from the band's commercial peak through to its final record.",
       "tuningSetting": "Medium-high for cut and projection through Godsmack's dense guitar mix",
       "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
-      "estimatedValue": "$300–500 (Ddrum Shannon Larkin Signature snare)"
+      "estimatedValue": "$300–500 (ddrum Dios maple snare)"
     },
     "cymbals": {
-      "title": "Sabian AAX and HHX: Power and Complexity",
+      "title": "Sabian AAX: Bright and Explosive Power",
       "brand": "Sabian",
-      "series": "Sabian AAX and HHX Series",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
@@ -112,9 +112,9 @@ export const articles = {
         },
         {
           "type": "Ride",
-          "model": "Sabian HHX 21\" Raw Bell Dry Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
           "position": "Far right",
-          "notes": "Complex, dark ride voice with projecting bell — versatile for rock and metal contexts"
+          "notes": "Bright, projecting ride voice with a clear bell — versatile for rock and metal contexts"
         },
         {
           "type": "Splash",
@@ -129,8 +129,8 @@ export const articles = {
           "notes": "Aggressive trashy accent for Godsmack's most intense moments"
         }
       ],
-      "description": "Shannon Larkin's Sabian setup is a classic dual-series configuration: the aggressive, bright character of the AAX line for hi-hats, crashes, and effects, paired with the more complex, traditional voice of the HHX series for his primary ride. This combination gives him a setup that speaks with cutting aggression in heavy passages while retaining tonal complexity for the more dynamic, sonically varied arrangements in Godsmack's catalog.\n\nThe 14\" AAX Stage Hi-Hats are the rhythmic engine of Larkin's playing. AAX cymbals are machine-hammered for consistency and feature a bright, focused, fast-responding character — ideal for the driving eighth-note and quarter-note hi-hat patterns that push Godsmack's rock grooves forward. The Stage Hat's heavier bottom cymbal ensures stability during aggressive foot and stick work, and the bright attack cuts through the band's down-tuned guitar frequencies without any difficulty.\n\nHis crash configuration — 18\" and 19\" AAX X-Plosion Crashes — provides two distinct accent voices. The 18\" speaks fast and cleanly for punctuating transitions and fills; the 19\" provides a larger, more resonant crash for section-ending explosions and dynamic peaks. Both cymbals' aggressive X-Plosion construction (extra-wide bow, lathing for faster response) makes them well-suited to hard rock environments where crash cymbals need to speak instantly and clearly.\n\nThe Sabian HHX 21\" Raw Bell Dry Ride brings a contrasting voice: hand-hammered and dark, the HHX series produces a more complex, nuanced tone with lower fundamental and more overtone complexity than the AAX line. The \"Raw Bell Dry\" configuration — untreated bell, dry, controlled wash — gives Larkin a ride cymbal that can serve as either a clean riding surface or a large crash when driven hard.\n\nThe 10\" AAX Splash and 18\" AAX Chinese round out the setup: the splash for quick, precise accents within fills; the China for the aggressive, upward-projecting trashy attack that punctuates Godsmack's heaviest transitions.",
-      "estimatedValue": "$1,800–3,000 (full Sabian AAX/HHX setup)"
+      "description": "Shannon Larkin's Sabian setup is built on a consistent AAX configuration: the aggressive, bright character of the AAX line powers hi-hats, crashes, ride, and effects alike. This gives him a setup that speaks with cutting aggression in heavy passages while retaining enough tonal range for the more dynamic, sonically varied arrangements in Godsmack's catalog.\n\nThe 14\" AAX Stage Hi-Hats are the rhythmic engine of Larkin's playing. AAX cymbals are machine-hammered for consistency and feature a bright, focused, fast-responding character — ideal for the driving eighth-note and quarter-note hi-hat patterns that push Godsmack's rock grooves forward. The Stage Hat's heavier bottom cymbal ensures stability during aggressive foot and stick work, and the bright attack cuts through the band's down-tuned guitar frequencies without any difficulty.\n\nHis crash configuration — 18\" and 19\" AAX X-Plosion Crashes — provides two distinct accent voices. The 18\" speaks fast and cleanly for punctuating transitions and fills; the 19\" provides a larger, more resonant crash for section-ending explosions and dynamic peaks. Both cymbals' aggressive X-Plosion construction (extra-wide bow, lathing for faster response) makes them well-suited to hard rock environments where crash cymbals need to speak instantly and clearly.\n\nThe Sabian AAX 21\" Stage Ride rounds out the time-keeping voice: a bright, projecting surface with a clear bell, giving Larkin a ride cymbal that cuts through Godsmack's dense mix whether he's riding steady patterns or driving the bell for emphasis.\n\nThe 10\" AAX Splash and 18\" AAX Chinese complete the setup: the splash for quick, precise accents within fills; the China for the aggressive, upward-projecting trashy attack that punctuates Godsmack's heaviest transitions.",
+      "estimatedValue": "$1,800–3,000 (full Sabian AAX setup)"
     },
     "hardware": {
       "title": "DW 9000 and Vic Firth: Foot Power and Stick Control",
@@ -185,8 +185,8 @@ export const articles = {
         "description": "Hard rock power at its peak — the kit that took Godsmack to arenas.",
         "gear": {
           "drums": "ddrum Dios Series (early configuration)",
-          "snare": "Ddrum Shannon Larkin Signature (14\" x 6.5\" steel)",
-          "cymbals": "Sabian AAX and HHX stage setup",
+          "snare": "ddrum Dios 14\" x 6.5\" Maple",
+          "cymbals": "Sabian AAX stage setup",
           "hardware": "DW 9000 double bass pedal, Vic Firth American Classic 5B sticks"
         },
         "notes": "Faceless debuted at #1 on the Billboard 200, establishing Godsmack as one of American hard rock's biggest draws. Larkin's pounding groove was central to the commercial breakthrough."
@@ -201,8 +201,8 @@ export const articles = {
         "description": "Refined touring machine — same core gear, tightened for sustained professional touring.",
         "gear": {
           "drums": "ddrum Dios Series (mature configuration)",
-          "snare": "Ddrum Shannon Larkin Signature",
-          "cymbals": "Full Sabian AAX/HHX setup — stable and fully dialed in",
+          "snare": "ddrum Dios 14\" x 6.5\" Maple",
+          "cymbals": "Full Sabian AAX setup — stable and fully dialed in",
           "hardware": "DW 9000 double pedal continued; Evans drumheads standard across kit"
         },
         "notes": "The Oracle debuted at #1 on the Billboard 200. By this period, Larkin's rig was thoroughly optimized for consistent global touring performance."
@@ -217,8 +217,8 @@ export const articles = {
         "description": "Godsmack's evolved sound — more melodic arrangements, same powerful rhythmic foundation.",
         "gear": {
           "drums": "ddrum Dios Series (final touring configuration)",
-          "snare": "Ddrum Shannon Larkin Signature",
-          "cymbals": "Sabian AAX/HHX full complement — expanded splash and china options",
+          "snare": "ddrum Dios 14\" x 6.5\" Maple",
+          "cymbals": "Sabian AAX full complement — expanded splash and china options",
           "hardware": "DW 9000 double pedal, Pork Pie Big Boy throne, Vic Firth American Classic 5B sticks"
         },
         "notes": "When Legends Rise represented Godsmack's most melodically accessible album. Larkin's playing adapted to the more dynamic arrangements while maintaining the power-first philosophy. Lighting Up the Sky (2023) was announced as Godsmack's final album."
@@ -249,7 +249,7 @@ export const articles = {
     ],
     "buyingGuide": {
       "title": "Getting the Larkin Sound: A Buyer's Guide",
-      "content": "Shannon Larkin's Godsmack rig is built on Ddrum and Sabian — two brands with accessible entry points at every budget level.\n\n**Budget Approach ($600–1,200):**\n- Ddrum Journeyman Series or any budget basswood/poplar shell kit in matching finish\n- Sabian B8X or SBr 14\" hi-hats + 18\" crash — Sabian's entry-level with similar bright voicing\n- Any quality chain-drive double pedal (Pearl P-2000 or DW 3000 series)\n- Vic Firth American Classic 5B sticks (the same sticks Larkin plays)\n\n**Mid-Range Approach ($1,500–3,500):**\n- ddrum Dios Series or comparable mid-range kit (Tama Imperialstar, Pearl Export EXX)\n- Sabian AAX 14\" Stage Hi-Hats + 18\" and 19\" X-Plosion Crashes individually\n- DW 5000 series double bass pedal (excellent chain-drive at mid-range price)\n- Evans EC2 Coated heads for toms, Evans EMAD for kick\n\n**Professional Approach ($3,500+):**\n- ddrum Dios Series shell pack (the actual Larkin kit)\n- Full Sabian AAX/HHX setup: 14\" Stage Hi-Hats, X-Plosion Crashes, HHX 21\" Raw Bell Dry Ride, AAX China and Splash\n- DW 9000 double bass pedal (the Larkin pedal — worth the investment for feel and durability)\n- Ddrum Shannon Larkin Signature snare (14\" x 6.5\" steel)\n- Vic Firth American Classic 5B sticks",
+      "content": "Shannon Larkin's Godsmack rig is built on Ddrum and Sabian — two brands with accessible entry points at every budget level.\n\n**Budget Approach ($600–1,200):**\n- Ddrum Journeyman Series or any budget basswood/poplar shell kit in matching finish\n- Sabian B8X or SBr 14\" hi-hats + 18\" crash — Sabian's entry-level with similar bright voicing\n- Any quality chain-drive double pedal (Pearl P-2000 or DW 3000 series)\n- Vic Firth American Classic 5B sticks (the same sticks Larkin plays)\n\n**Mid-Range Approach ($1,500–3,500):**\n- ddrum Dios Series or comparable mid-range kit (Tama Imperialstar, Pearl Export EXX)\n- Sabian AAX 14\" Stage Hi-Hats + 18\" and 19\" X-Plosion Crashes individually\n- DW 5000 series double bass pedal (excellent chain-drive at mid-range price)\n- Evans EC2 Coated heads for toms, Evans EMAD for kick\n\n**Professional Approach ($3,500+):**\n- ddrum Dios Series shell pack (the actual Larkin kit)\n- Full Sabian AAX setup: 14\" Stage Hi-Hats, X-Plosion Crashes, AAX 21\" Stage Ride, AAX China and Splash\n- DW 9000 double bass pedal (the Larkin pedal — worth the investment for feel and durability)\n- ddrum Dios 14\" x 6.5\" Maple snare\n- Vic Firth American Classic 5B sticks",
       "budgetTiers": [
         {
           "tier": "Budget",
@@ -264,7 +264,7 @@ export const articles = {
         {
           "tier": "Professional",
           "range": "$3,500+",
-          "notes": "ddrum Dios Series + full Sabian AAX/HHX + DW 9000 + Ddrum Larkin Signature snare"
+          "notes": "ddrum Dios Series + full Sabian AAX + DW 9000 + ddrum Dios Maple snare"
         }
       ]
     },
@@ -275,11 +275,11 @@ export const articles = {
       },
       {
         "question": "What cymbals does Shannon Larkin play?",
-        "answer": "Shannon Larkin plays Sabian AAX and HHX series cymbals. His setup includes Sabian AAX 14\" Stage Hi-Hats, 18\" and 19\" AAX X-Plosion Crashes, a Sabian HHX 21\" Raw Bell Dry Ride, a 10\" AAX Splash, and an 18\" AAX Chinese cymbal. The dual-series configuration combines the bright, fast-responding aggressive character of the AAX line for hi-hats and crashes with the more complex, dark voice of the HHX series for his ride cymbal — providing full tonal coverage for Godsmack's dynamic hard rock arrangements."
+        "answer": "Shannon Larkin plays Sabian AAX series cymbals. His setup includes Sabian AAX 14\" Stage Hi-Hats, 18\" and 19\" AAX X-Plosion Crashes, a Sabian AAX 21\" Stage Ride, a 10\" AAX Splash, and an 18\" AAX Chinese cymbal. The bright, fast-responding, machine-hammered AAX line gives Larkin a consistent, cutting cymbal voice across hi-hats, crashes, ride, and effects — providing full tonal coverage for Godsmack's dynamic hard rock arrangements."
       },
       {
         "question": "How does Shannon Larkin tune his drums for the Godsmack sound?",
-        "answer": "Shannon Larkin tunes his kit for maximum impact and projection in hard rock arena environments. His snare (Ddrum Shannon Larkin Signature, 14\" x 6.5\" steel) runs at medium-high tension for the cutting crack that defines Godsmack's backbeat. Tom heads (Evans G2 Coated or EC2) are tuned for a focused, controlled tone without excess sustain — essential for a dense live mix with heavy guitars and bass. The bass drums use Evans EMAD batter heads for controlled attack and damped overtones, keeping the double-kick punchy and defined rather than boomy. Ported resonant bass drum heads complete the setup, allowing the kick to project cleanly in outdoor festival and arena acoustics."
+        "answer": "Shannon Larkin tunes his kit for maximum impact and projection in hard rock arena environments. His snare (ddrum Dios 14\" x 6.5\" Maple) runs at medium-high tension for the cutting crack that defines Godsmack's backbeat. Tom heads (Evans G2 Coated or EC2) are tuned for a focused, controlled tone without excess sustain — essential for a dense live mix with heavy guitars and bass. The bass drums use Evans EMAD batter heads for controlled attack and damped overtones, keeping the double-kick punchy and defined rather than boomy. Ported resonant bass drum heads complete the setup, allowing the kick to project cleanly in outdoor festival and arena acoustics."
       },
       {
         "question": "What sticks does Shannon Larkin use?",
@@ -308,7 +308,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Two Decades of Hard Rock Power",
-      "content": "Shannon Larkin has spent more than twenty years as Godsmack's drummer — a tenure that spans seven studio albums, multi-platinum commercial success, and some of the largest stages in American hard rock. That longevity is itself a statement about what his gear and approach deliver: consistent, reliable, powerful drumming that serves the band's music exactly as well in arena 200 as it did in 2003.\n\nHis ddrum Dios Series kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks are not flashy or trend-chasing choices. They are road-tested selections from an experienced professional who understands that gear exists to serve performance — and that the best gear for a global touring drummer is gear that sounds great and never lets you down.\n\nEvery piece of the Shannon Larkin rig reflects that priority:\n\n- **ddrum Dios Series**: Road-grade shells with focused, punchy tone for hard rock arena environments\n- **Ddrum Shannon Larkin Signature Snare**: Custom 14\" x 6.5\" steel snare for the crack that defines Godsmack's backbeat\n- **Sabian AAX/HHX**: Bright, fast, dynamic — cymbals that project in 20,000-seat venues without compromising tonal complexity\n- **DW 9000 Double Pedal**: Industry-standard chain-drive precision for Godsmack's groove-first double-kick approach\n- **Vic Firth American Classic 5B**: Balanced mass and control for hard rock power across extended touring sets\n\nFor context on the drummers who influenced Larkin's generation and those who occupy similar crossover spaces in hard rock and metal:\n\n- **Full drummer profile**: [Shannon Larkin at MetalForge](/drummer/shannon-larkin)\n- **Cowboys from Hell drum breakdown**: [Vinnie Paul's Godsmack-era predecessor gear guide](/articles/cowboys-from-hell-drum-setup) — the heavy groove blueprint that influenced Godsmack's sound\n- **Ray Luzier profile**: [Korn's groove machine](/drummer/ray-luzier) — a comparable hard rock/nu-metal crossover drummer with a similar gear philosophy\n\nShannon Larkin arrived at Godsmack with a resume built on professional gigs across thrash, alternative rock, and hard rock. He leaves a catalog that includes some of the most commercially successful hard rock drumming of the 2000s — proof that power, pocket, and consistency are their own form of mastery.\n\n🥁 *Hard rock power, night after night.* 🤘"
+      "content": "Shannon Larkin has spent more than twenty years as Godsmack's drummer — a tenure that spans seven studio albums, multi-platinum commercial success, and some of the largest stages in American hard rock. That longevity is itself a statement about what his gear and approach deliver: consistent, reliable, powerful drumming that serves the band's music exactly as well in arena 200 as it did in 2003.\n\nHis ddrum Dios Series kit, Sabian AAX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks are not flashy or trend-chasing choices. They are road-tested selections from an experienced professional who understands that gear exists to serve performance — and that the best gear for a global touring drummer is gear that sounds great and never lets you down.\n\nEvery piece of the Shannon Larkin rig reflects that priority:\n\n- **ddrum Dios Series**: Road-grade shells with focused, punchy tone for hard rock arena environments\n- **ddrum Dios Maple Snare**: 14\" x 6.5\" maple snare for the crack that defines Godsmack's backbeat\n- **Sabian AAX**: Bright, fast, dynamic — cymbals that project in 20,000-seat venues with consistent, cutting character\n- **DW 9000 Double Pedal**: Industry-standard chain-drive precision for Godsmack's groove-first double-kick approach\n- **Vic Firth American Classic 5B**: Balanced mass and control for hard rock power across extended touring sets\n\nFor context on the drummers who influenced Larkin's generation and those who occupy similar crossover spaces in hard rock and metal:\n\n- **Full drummer profile**: [Shannon Larkin at MetalForge](/drummer/shannon-larkin)\n- **Cowboys from Hell drum breakdown**: [Vinnie Paul's Godsmack-era predecessor gear guide](/articles/cowboys-from-hell-drum-setup) — the heavy groove blueprint that influenced Godsmack's sound\n- **Ray Luzier profile**: [Korn's groove machine](/drummer/ray-luzier) — a comparable hard rock/nu-metal crossover drummer with a similar gear philosophy\n\nShannon Larkin arrived at Godsmack with a resume built on professional gigs across thrash, alternative rock, and hard rock. He leaves a catalog that includes some of the most commercially successful hard rock drumming of the 2000s — proof that power, pocket, and consistency are their own form of mastery.\n\n🥁 *Hard rock power, night after night.* 🤘"
     }
   },
   "faceless-drum-setup": {
@@ -430,7 +430,7 @@ export const articles = {
           "notes": "Aggressive trashy accent for Godsmack's heaviest section punctuations"
         }
       ],
-      "description": "Shannon Larkin's Sabian AAX setup on *Faceless* was chosen for its aggressive, bright character — a cymbal voice that cuts through dense hard rock production without disappearing into the guitar wall. The AAX series, machine-hammered from brilliant brass, delivers a fast-speaking, high-frequency profile ideally suited to Godsmack's sonic environment.\n\nThe 14\" AAX Stage Hi-Hats are the rhythmic engine of Larkin's playing throughout *Faceless*. Driving eighth-note patterns on \"I Stand Alone,\" the relentless pulse of \"Straight Out of Line,\" and the more nuanced quarter-note work on \"Changes\" all share the same bright, assertive hi-hat voice that anchors Godsmack's grooves. The AAX's machine-hammered construction ensures consistency across playing dynamics — from soft verse passages to full-force chorus hits — and the Stage Hi-Hat's heavier bottom cymbal provides stability under aggressive foot and stick work.\n\nHis crash configuration — 18\" and 19\" AAX X-Plosion Crashes — provides two distinct accent voices suited to *Faceless*'s dynamic range. The 18\" speaks fast and precisely for transitional fills; the 19\" delivers a larger, more resonant crash for the album's biggest moments. The X-Plosion series' wider bow and fast-lathing make both cymbals respond immediately even at moderate volume, essential in a studio environment where every crash must be intentional.\n\nThe 21\" AAX Stage Ride provides a bright, projecting time-keeping surface with a clear bell — appropriate for the passages in *Faceless* where Larkin needed a defined, cutting ride voice rather than a wash. The 18\" AAX Chinese rounds out the setup with its upward-projecting trash accent, heard to maximum effect on the album's heavier sections.\n\nThis Sabian AAX configuration evolved over Larkin's Godsmack career into the dual AAX/HHX setup documented in later years, but on *Faceless* — his debut Godsmack album — the pure AAX setup delivered exactly the bright, explosive cymbal voice the recording required.",
+      "description": "Shannon Larkin's Sabian AAX setup on *Faceless* was chosen for its aggressive, bright character — a cymbal voice that cuts through dense hard rock production without disappearing into the guitar wall. The AAX series, machine-hammered from brilliant brass, delivers a fast-speaking, high-frequency profile ideally suited to Godsmack's sonic environment.\n\nThe 14\" AAX Stage Hi-Hats are the rhythmic engine of Larkin's playing throughout *Faceless*. Driving eighth-note patterns on \"I Stand Alone,\" the relentless pulse of \"Straight Out of Line,\" and the more nuanced quarter-note work on \"Changes\" all share the same bright, assertive hi-hat voice that anchors Godsmack's grooves. The AAX's machine-hammered construction ensures consistency across playing dynamics — from soft verse passages to full-force chorus hits — and the Stage Hi-Hat's heavier bottom cymbal provides stability under aggressive foot and stick work.\n\nHis crash configuration — 18\" and 19\" AAX X-Plosion Crashes — provides two distinct accent voices suited to *Faceless*'s dynamic range. The 18\" speaks fast and precisely for transitional fills; the 19\" delivers a larger, more resonant crash for the album's biggest moments. The X-Plosion series' wider bow and fast-lathing make both cymbals respond immediately even at moderate volume, essential in a studio environment where every crash must be intentional.\n\nThe 21\" AAX Stage Ride provides a bright, projecting time-keeping surface with a clear bell — appropriate for the passages in *Faceless* where Larkin needed a defined, cutting ride voice rather than a wash. The 18\" AAX Chinese rounds out the setup with its upward-projecting trash accent, heard to maximum effect on the album's heavier sections.\n\nThis Sabian AAX configuration has remained the foundation of Larkin's cymbal setup throughout his entire Godsmack career — the same bright, explosive voice heard on *Faceless*, his debut Godsmack album, carried forward unchanged through every studio album that followed.",
       "estimatedValue": "$1,200–2,200 (full Sabian AAX setup, 2003 era)"
     },
     "hardware": {
@@ -537,7 +537,7 @@ export const articles = {
       },
       {
         "question": "What cymbals does Shannon Larkin use?",
-        "answer": "Shannon Larkin is a Sabian endorsee. On *Faceless* (2003), he used the Sabian AAX series — a machine-hammered, bright-voiced line known for its fast-speaking, aggressive character suited to hard rock production. His Faceless-era AAX setup included 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" Chinese cymbal. In later Godsmack albums and current touring, Larkin expanded to a dual AAX/HHX setup, adding the darker, more complex HHX Raw Bell Dry Ride for tonal contrast. The AAX series remains his primary hi-hat and crash choice across his entire Godsmack career. See the [Shannon Larkin drum setup](/articles/shannon-larkin-drum-setup) for his complete current cymbal configuration."
+        "answer": "Shannon Larkin is a Sabian endorsee. On *Faceless* (2003), he used the Sabian AAX series — a machine-hammered, bright-voiced line known for its fast-speaking, aggressive character suited to hard rock production. His Faceless-era AAX setup included 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" Chinese cymbal. Larkin has kept this same Sabian AAX configuration across his entire Godsmack career and current touring, with the AAX series remaining his consistent hi-hat, crash, and ride choice. See the [Shannon Larkin drum setup](/articles/shannon-larkin-drum-setup) for his complete current cymbal configuration."
       },
       {
         "question": "Why did Faceless debut at #1 on the Billboard 200?",
@@ -550,7 +550,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Faceless to Lighting Up the Sky: Shannon Larkin's Gear Through the Godsmack Years",
-      "content": "*Faceless* (2003) was the starting point of Shannon Larkin's Godsmack tenure — and in commercial terms, its peak. The album established the rhythmic template that would define Godsmack's sound for the next two decades, and it also documents the gear foundation that has remained remarkably consistent ever since: Larkin has been a ddrum endorser for his entire run with the band.\n\n**A Consistent Foundation (2003–present):**\nLarkin entered Godsmack with his ddrum Dios Series kit and Sabian AAX cymbal voice, and both have anchored every studio album that followed. *Faceless* is the primary document of the earliest era — the Dios shells and Sabian AAX cymbal voice define the album's drum sound with natural warmth and brightness. Across subsequent albums, his cymbal setup expanded from pure AAX to the dual AAX/HHX configuration that became his signature, while the ddrum kit and maple snare have never changed.\n\n**The Current Era:**\nLarkin's current setup — ddrum Dios Series, ddrum Dios 14\" x 6.5\" maple snare, Sabian AAX/HHX full complement, DW 9000 double pedal, Vic Firth American Classic 5B sticks — is fully documented in the [Shannon Larkin drum setup guide](/articles/shannon-larkin-drum-setup). The fundamental priorities have not changed since *Faceless*: power, pocket, and consistency for hard rock's biggest stages.",
+      "content": "*Faceless* (2003) was the starting point of Shannon Larkin's Godsmack tenure — and in commercial terms, its peak. The album established the rhythmic template that would define Godsmack's sound for the next two decades, and it also documents the gear foundation that has remained remarkably consistent ever since: Larkin has been a ddrum endorser for his entire run with the band.\n\n**A Consistent Foundation (2003–present):**\nLarkin entered Godsmack with his ddrum Dios Series kit and Sabian AAX cymbal voice, and both have anchored every studio album that followed. *Faceless* is the primary document of the earliest era — the Dios shells and Sabian AAX cymbal voice define the album's drum sound with natural warmth and brightness. Across subsequent albums, his cymbal setup, ddrum kit, and maple snare have never changed.\n\n**The Current Era:**\nLarkin's current setup — ddrum Dios Series, ddrum Dios 14\" x 6.5\" maple snare, Sabian AAX full complement, DW 9000 double pedal, Vic Firth American Classic 5B sticks — is fully documented in the [Shannon Larkin drum setup guide](/articles/shannon-larkin-drum-setup). The fundamental priorities have not changed since *Faceless*: power, pocket, and consistency for hard rock's biggest stages.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -564,8 +564,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Sabian AAX series (pure AAX setup)",
-          "now": "Sabian AAX + HHX dual-series setup"
+          "then": "Sabian AAX series",
+          "now": "Sabian AAX series (unchanged)"
         },
         {
           "category": "Pedals",
@@ -741,7 +741,7 @@ export const articles = {
               "name": "What cymbals does Shannon Larkin use?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Shannon Larkin is a Sabian endorsee. On Faceless (2003) he used the Sabian AAX series — 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, 21\" Stage Ride, and 18\" Chinese. His current setup uses a dual AAX/HHX configuration with the HHX Raw Bell Dry Ride added for tonal complexity."
+                "text": "Shannon Larkin is a Sabian endorsee. On Faceless (2003) he used the Sabian AAX series — 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, 21\" Stage Ride, and 18\" Chinese. He has kept this same Sabian AAX configuration across his entire Godsmack career."
               }
             }
           ]
@@ -770,13 +770,13 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Godsmack IV Drum Setup: Shannon Larkin's ddrum Dios Series Gear on the #2 Billboard Album (2006)",
-    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's IV (2006) — the #2 Billboard 200 debut, certified Platinum. ddrum Dios Series drums, Sabian HH/HHX cymbals, DW 9000 double pedal, and the heavier direction that evolved from Faceless.",
+    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's IV (2006) — the #2 Billboard 200 debut, certified Platinum. ddrum Dios Series drums, Sabian AAX cymbals, DW 9000 double pedal, and the heavier direction that followed Faceless.",
     "seoKeywords": [
       "shannon larkin drum setup",
       "godsmack iv drums",
       "godsmack drummer kit 2006",
       "shannon larkin ddrum dios",
-      "shannon larkin sabian hh",
+      "shannon larkin sabian aax",
       "godsmack iv drum setup",
       "shannon larkin 2006",
       "godsmack iv drummer",
@@ -786,12 +786,12 @@ export const articles = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
       "title": "Shannon Larkin's ddrum Dios Series on Godsmack IV",
-      "content": "Released on April 25, 2006, *IV* is Godsmack's fourth studio album and the direct follow-up to the #1 Billboard 200 breakthrough *Faceless* (2003). Where *Faceless* had been Larkin's introduction to the band and its commercial apex, *IV* arrived as a statement of intent: a heavier, more aggressive album from a band that had nothing left to prove commercially and everything to gain artistically. It debuted at #2 on the Billboard 200 and certified Platinum in the United States — a remarkable achievement for a hard rock album in 2006, a year when the format was facing increasing commercial headwinds.\n\nBetween *Faceless* and *IV*, Shannon Larkin's core kit stayed the same: the ddrum Dios Series that anchored his Godsmack debut remained his platform for *IV*, delivering the durable, punchy attack that suited the album's heavier, more direct direction. His cymbal setup evolved from pure Sabian AAX to a dual-series HH/HHX configuration that added darker tonal complexity to the bright, aggressive character that had defined *Faceless*, while his DW 9000 double bass pedal and Vic Firth American Classic 5B sticks carried over unchanged from *Faceless*.\n\nThis article documents the ddrum Dios Series kit, Sabian HH/HHX cymbal configuration, DW 9000 double pedal, and Vic Firth American Classic 5B sticks that powered Shannon Larkin's *IV* studio performance — the gear behind Godsmack's heaviest, most aggressive album to that point.",
+      "content": "Released on April 25, 2006, *IV* is Godsmack's fourth studio album and the direct follow-up to the #1 Billboard 200 breakthrough *Faceless* (2003). Where *Faceless* had been Larkin's introduction to the band and its commercial apex, *IV* arrived as a statement of intent: a heavier, more aggressive album from a band that had nothing left to prove commercially and everything to gain artistically. It debuted at #2 on the Billboard 200 and certified Platinum in the United States — a remarkable achievement for a hard rock album in 2006, a year when the format was facing increasing commercial headwinds.\n\nBetween *Faceless* and *IV*, Shannon Larkin's gear stayed the same: the ddrum Dios Series that anchored his Godsmack debut remained his platform for *IV*, delivering the durable, punchy attack that suited the album's heavier, more direct direction. His Sabian AAX cymbal setup, DW 9000 double bass pedal, and Vic Firth American Classic 5B sticks all carried over unchanged from *Faceless*.\n\nThis article documents the ddrum Dios Series kit, Sabian AAX cymbal configuration, DW 9000 double pedal, and Vic Firth American Classic 5B sticks that powered Shannon Larkin's *IV* studio performance — the gear behind Godsmack's heaviest, most aggressive album to that point.",
       "keyPoints": [
         "Godsmack IV debuted #2 on Billboard 200 (April 2006) and certified Platinum in the US",
         "ddrum Dios Series — Shannon Larkin's kit since Faceless, unchanged for IV",
         "ddrum Dios 14\"x6.5\" maple snare — the warm, cutting crack central to Larkin's sound",
-        "Sabian HH / HHX dual-series cymbals — expanded tonal range over Faceless-era pure AAX",
+        "Sabian AAX series cymbals — unchanged bright, machine-hammered voice carried over from Faceless",
         "DW 9000 Series double bass pedal — unchanged from Faceless, driving IV's harder-hitting grooves",
         "Vic Firth American Classic 5B sticks — unchanged from the Faceless era"
       ]
@@ -837,43 +837,43 @@ export const articles = {
       "estimatedValue": "$300–500 (ddrum Dios maple snare, 2006 era)"
     },
     "cymbals": {
-      "title": "Sabian HH / HHX: Tonal Depth for a Heavier Record",
+      "title": "Sabian AAX: Bright Power Carried Over for a Heavier Record",
       "brand": "Sabian",
-      "series": "Sabian HH / HHX Series",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian HH 14\" Medium Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
-          "notes": "Hand-hammered, darker voice than AAX — richer rhythmic texture for IV's heavier arrangements"
+          "notes": "Bright, machine-hammered voice — unchanged from Faceless, cutting through IV's heavier arrangements"
         },
         {
           "type": "Crash",
-          "model": "Sabian HHX 17\" Evolution Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
-          "notes": "Fast response with complex dark overtones — evolved crash voice over Faceless AAX X-Plosions"
+          "notes": "Fast, explosive attack — same crash voice as the Faceless sessions"
         },
         {
           "type": "Crash",
-          "model": "Sabian HHX 19\" Evolution Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
-          "notes": "Full-bodied accent crash with dark sustain for IV's largest musical moments"
+          "notes": "Full-bodied accent crash for IV's largest musical moments"
         },
         {
           "type": "Ride",
-          "model": "Sabian HHX 21\" Raw Bell Dry Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
           "position": "Far right",
-          "notes": "Dry, defined bell with complex body wash — Larkin's signature ride voice into his later Godsmack years"
+          "notes": "Bright, defined bell — Larkin's consistent ride voice across his Godsmack years"
         },
         {
           "type": "China",
-          "model": "Sabian HH 18\" Chinese",
+          "model": "Sabian AAX 18\" Chinese",
           "position": "Over rack toms",
-          "notes": "Hand-hammered dark trash accent — more complex overtones than AAX Chinese for IV's aggressive sections"
+          "notes": "Aggressive trash accent for IV's heaviest sections"
         }
       ],
-      "description": "Shannon Larkin's Sabian cymbal evolution from *Faceless* to *IV* represents a meaningful tonal shift. Where the *Faceless*-era Sabian AAX setup prioritized bright, machine-hammered aggression — fast-speaking cymbals designed for maximum projection — the *IV* configuration moved toward the hand-hammered complexity of the HH and HHX series, adding tonal depth to the inherent brightness of his playing style.\n\nThe Sabian HH series (Hand-Hammered) is Sabian's professional hand-made line: each cymbal individually hammered by craftspeople in Meductic, New Brunswick, creating unique tonal variations that machine-hammering cannot replicate. The result is a darker, warmer cymbal voice with more complex overtones and a slightly less immediate attack than the AAX line — characteristics that serve a heavier, more arrangement-driven album like *IV* more effectively than pure AAX brightness.\n\nThe HH 14\" Medium Hi-Hats at the center of Larkin's *IV* groove are the defining upgrade. Where the *Faceless* AAX Stage Hi-Hats projected with maximum brightness, the HH Medium Hi-Hats provide a chikier, darker closed sound and a more complex open wash. On *IV* tracks like \"No Rest for the Wicked\" and \"Speak,\" the hi-hat's richer character adds texture to Larkin's driving eighth-note patterns without sacrificing projection.\n\nThe HHX Evolution Crashes — available from late 2005, precisely timed for the *IV* sessions — brought a newer, more complex crash voice than the earlier X-Plosion models. The 17\" and 19\" Evolution Crashes speak quickly but sustain with more harmonic complexity, an evolution that suited the album's more nuanced arrangements.\n\nThe HHX 21\" Raw Bell Dry Ride is the cymbal most associated with Larkin's later Godsmack sound: its dry, contained body wash and sharply defined bell provided the time-keeping complexity his evolving playing required. This cymbal choice — replacing the brighter AAX Stage Ride of the *Faceless* era — marks the clearest single-cymbal evolution in Larkin's setup between the two albums.",
-      "estimatedValue": "$2,000–3,500 (full Sabian HH/HHX setup, 2006 era)"
+      "description": "Shannon Larkin's Sabian cymbal setup carried straight over from *Faceless* to *IV* without change. The bright, machine-hammered aggression of the AAX line — fast-speaking cymbals designed for maximum projection — suited *IV*'s heavier, more direct material just as effectively as it had suited *Faceless*'s groove-first songs.\n\nThe Sabian AAX series is machine-hammered from brilliant brass for consistency across playing dynamics, delivering a bright, focused, fast-responding character built for cutting through dense hard rock production. The 14\" AAX Stage Hi-Hats at the center of Larkin's *IV* groove provide the same projecting chick heard on *Faceless*. On *IV* tracks like \"No Rest for the Wicked\" and \"Speak,\" the hi-hat's bright character drives Larkin's eighth-note patterns forward with the same cutting consistency.\n\nThe 18\" and 19\" AAX X-Plosion Crashes carried over unchanged, speaking fast and clean for *IV*'s dynamic range — the 17\"/19\" pairing giving Larkin two distinct accent voices for the album's more nuanced arrangements.\n\nThe Sabian AAX 21\" Stage Ride is the cymbal Larkin has used for time-keeping throughout his Godsmack career: its bright, projecting voice with a clear bell provided the defined ride surface *IV*'s harder-hitting material required. This same AAX configuration — hi-hats, crashes, ride, and the 18\" Chinese — would remain Larkin's cymbal setup across every subsequent Godsmack album.",
+      "estimatedValue": "$1,800–3,000 (full Sabian AAX setup, 2006 era)"
     },
     "hardware": {
       "title": "DW 9000 and Vic Firth: Continued Foot Power for a Heavier Record",
@@ -913,11 +913,11 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording IV: Going Heavier After the Commercial Peak",
-      "content": "Recording *IV* presented a different challenge than *Faceless*. In 2003, Godsmack had been chasing commercial success and hit the summit — #1 Billboard 200, 4× Platinum. By 2006, the pressure was reversed: how do you follow up your biggest album without retreating into imitation? Godsmack's answer was to go heavier and more direct, stripping away some of the groove-forward accessibility of *Faceless* in favor of a harder-hitting, more aggressive sound.\n\n**ddrum Dios Recording Philosophy:**\nThe ddrum Dios Series' durable, punchy shells contributed directly to this approach. The kit's attack-forward character — particularly in the kick drums and toms — translates to an immediate, punishing drum sound in the mix. The shells were close-miked for attack definition, providing the edge that made *IV*'s drums feel more aggressive than *Faceless* without requiring additional processing.\n\n**Snare Definition:**\nThe ddrum Dios maple snare's warm, articulate character sits with authority in the *IV* mix. The shell's warmer fundamental with sharp transient attack provided a three-dimensional snare voice: immediate enough to drive the groove, complex enough to add musical character to arrangements beyond pure percussion.\n\n**Cymbal Darkness:**\nThe shift from Sabian AAX to HH/HHX brought a measurable tonal difference to *IV*'s drum sound. The hand-hammered cymbal surfaces created less uniform frequency response — each cymbal with its own character — resulting in a more organic, less processed cymbal sound in the production. This suited the album's heavier, less commercially polished direction.\n\n**Foot Work Precision:**\nThe DW 9000's chain-drive consistency allowed Larkin to dial in the exact pedal feel required for *IV*'s more aggressive bass drum patterns. Tracks like \"No Rest for the Wicked\" demanded consistent double-kick power at driving tempos — the 9000's reliable spring tension and drive-chain mechanism made that consistency achievable without physical fatigue across a full recording session.",
+      "content": "Recording *IV* presented a different challenge than *Faceless*. In 2003, Godsmack had been chasing commercial success and hit the summit — #1 Billboard 200, 4× Platinum. By 2006, the pressure was reversed: how do you follow up your biggest album without retreating into imitation? Godsmack's answer was to go heavier and more direct, stripping away some of the groove-forward accessibility of *Faceless* in favor of a harder-hitting, more aggressive sound.\n\n**ddrum Dios Recording Philosophy:**\nThe ddrum Dios Series' durable, punchy shells contributed directly to this approach. The kit's attack-forward character — particularly in the kick drums and toms — translates to an immediate, punishing drum sound in the mix. The shells were close-miked for attack definition, providing the edge that made *IV*'s drums feel more aggressive than *Faceless* without requiring additional processing.\n\n**Snare Definition:**\nThe ddrum Dios maple snare's warm, articulate character sits with authority in the *IV* mix. The shell's warmer fundamental with sharp transient attack provided a three-dimensional snare voice: immediate enough to drive the groove, complex enough to add musical character to arrangements beyond pure percussion.\n\n**Cymbal Consistency:**\nLarkin's Sabian AAX cymbals, unchanged from *Faceless*, gave *IV*'s drum sound the same bright, machine-hammered consistency across playing dynamics. The AAX line's fast-speaking, high-frequency profile cut through *IV*'s heavier guitar tones without requiring additional processing, maintaining the same cymbal character across both albums.\n\n**Foot Work Precision:**\nThe DW 9000's chain-drive consistency allowed Larkin to dial in the exact pedal feel required for *IV*'s more aggressive bass drum patterns. Tracks like \"No Rest for the Wicked\" demanded consistent double-kick power at driving tempos — the 9000's reliable spring tension and drive-chain mechanism made that consistency achievable without physical fatigue across a full recording session.",
       "keyTechniques": [
         "ddrum Dios Series shells — attack-forward character for heavier, more aggressive drum sound",
         "ddrum Dios maple snare — complex three-dimensional backbeat with warm, cutting attack",
-        "Sabian HH/HHX hand-hammered cymbals — organic, less uniform frequency response than AAX",
+        "Sabian AAX cymbals — unchanged from Faceless, bright machine-hammered consistency",
         "DW 9000 chain-drive consistency — tuned for direct feel and power on aggressive double-kick patterns"
       ]
     },
@@ -943,7 +943,7 @@ export const articles = {
           "One of IV's heaviest tracks — driving tempo with aggressive double-kick foundation",
           "DW 9000 double pedal precision is audible: consistent kick timing at driving tempo without feel degradation",
           "Demonstrates the heavier direction Godsmack pursued on IV vs Faceless — tighter, more aggressive, less groove-forward",
-          "Sabian HHX Evolution Crash accents are placed with maximum deliberateness",
+          "Sabian AAX X-Plosion Crash accents are placed with maximum deliberateness",
           "Shows Larkin's ability to maintain hard rock pocket feel at higher BPM without sacrificing authority"
         ],
         "gearNotes": "The DW 9000's chain-drive consistency dialed for direct feel is the mechanical foundation for this track's driving double-kick consistency."
@@ -955,11 +955,11 @@ export const articles = {
         "highlights": [
           "IV's more melodic single — demonstrates Larkin's dynamic range on the album's most accessible track",
           "Restrained verse drumming with controlled hi-hat work, then full-force chorus escalation",
-          "HH 14\" Medium Hi-Hats provide richer rhythmic texture in verses than pure AAX brightness would deliver",
+          "AAX 14\" Stage Hi-Hats provide the same bright, consistent rhythmic texture in verses as on Faceless",
           "A track that demonstrates IV is not a one-dimensional heavy record — it has dynamic range",
           "Larkin plays with restraint where the arrangement demands it, power where it earns it"
         ],
-        "gearNotes": "The Sabian HH Medium Hi-Hats' darker, chikier voice is best heard in Shine Down's verse sections — the hand-hammered character adds texture pure AAX can't deliver."
+        "gearNotes": "The Sabian AAX Stage Hi-Hats' bright, consistent voice is best heard in Shine Down's verse sections — the same cutting character that anchors Larkin's playing across the Godsmack catalog."
       }
     ],
     "faq": [
@@ -969,11 +969,11 @@ export const articles = {
       },
       {
         "question": "How does Shannon Larkin's kit compare between Faceless and IV?",
-        "answer": "Between *Faceless* (2003) and *IV* (2006), Shannon Larkin's kit and snare stayed the same: the ddrum Dios Series shells and ddrum Dios 14\"x6.5\" maple snare that anchored *Faceless* carried over unchanged for *IV*. What did evolve was his cymbal setup, which moved from pure Sabian AAX (bright, machine-hammered) to a Sabian HH/HHX dual-series configuration (hand-hammered, darker, more complex). His DW 9000 double bass pedal and Vic Firth American Classic 5B sticks stayed the same. See the full [Faceless drum setup](/articles/faceless-drum-setup) for a direct comparison."
+        "answer": "Between *Faceless* (2003) and *IV* (2006), Shannon Larkin's entire setup stayed the same: the ddrum Dios Series shells, ddrum Dios 14\"x6.5\" maple snare, Sabian AAX cymbals, DW 9000 double bass pedal, and Vic Firth American Classic 5B sticks that anchored *Faceless* all carried over unchanged for *IV*. See the full [Faceless drum setup](/articles/faceless-drum-setup) for a direct comparison."
       },
       {
         "question": "What cymbals does Shannon Larkin use?",
-        "answer": "Shannon Larkin is a Sabian endorsee. On *IV* (2006), he used a Sabian HH / HHX dual-series configuration — an evolution from the pure AAX setup on *Faceless*. His *IV* cymbal setup included Sabian HH 14\" Medium Hi-Hats, HHX 17\" and 19\" Evolution Crashes, an HHX 21\" Raw Bell Dry Ride, and an HH 18\" Chinese cymbal. The shift from AAX to HH/HHX brought hand-hammered complexity and darker tonal character, suited to *IV*'s heavier arrangements. The HHX Raw Bell Dry Ride in particular became a defining element of his setup in subsequent Godsmack years. See the [Shannon Larkin drum setup](/articles/shannon-larkin-drum-setup) for his complete current cymbal configuration."
+        "answer": "Shannon Larkin is a Sabian endorsee. On *IV* (2006), he used the same Sabian AAX configuration as *Faceless*: AAX 14\" Stage Hi-Hats, 18\" and 19\" AAX X-Plosion Crashes, an AAX 21\" Stage Ride, and an AAX 18\" Chinese cymbal. The bright, machine-hammered AAX voice suited *IV*'s heavier arrangements just as effectively as it had *Faceless*'s groove-first material. See the [Shannon Larkin drum setup](/articles/shannon-larkin-drum-setup) for his complete current cymbal configuration."
       },
       {
         "question": "What pedals does Shannon Larkin use?",
@@ -981,12 +981,12 @@ export const articles = {
       },
       {
         "question": "What is the chart position of Godsmack IV?",
-        "answer": "Godsmack's *IV* (released April 25, 2006, on Republic Records) debuted at #2 on the Billboard 200 — one position below the #1 peak of its predecessor *Faceless* (2003). The album was certified Platinum in the United States, demonstrating that Godsmack maintained their large commercial following even with a heavier, less accessible direction. The #2 debut made *IV* one of the strongest-charting hard rock releases of 2006, a year when the format was facing commercial contraction. Shannon Larkin's drumming on *IV* — driving the album's harder-hitting arrangements with the ddrum Dios Series kit and Sabian HH/HHX cymbals — was central to the album's ability to satisfy both the band's existing audience and the harder rock direction they pursued."
+        "answer": "Godsmack's *IV* (released April 25, 2006, on Republic Records) debuted at #2 on the Billboard 200 — one position below the #1 peak of its predecessor *Faceless* (2003). The album was certified Platinum in the United States, demonstrating that Godsmack maintained their large commercial following even with a heavier, less accessible direction. The #2 debut made *IV* one of the strongest-charting hard rock releases of 2006, a year when the format was facing commercial contraction. Shannon Larkin's drumming on *IV* — driving the album's harder-hitting arrangements with the ddrum Dios Series kit and Sabian AAX cymbals — was central to the album's ability to satisfy both the band's existing audience and the harder rock direction they pursued."
       }
     ],
     "evolution": {
-      "title": "From Faceless to IV: What Changed (and What Didn't) for Shannon Larkin",
-      "content": "The gear picture between *Faceless* (2003) and *IV* (2006) is one of continuity at the core, with refinement around the edges. The kit, snare, pedal, and sticks stayed the same; only the cymbals evolved.\n\n**The Kit — Unchanged:**\nLarkin's ddrum Dios Series kit, with its durable, punchy shells, carried over from *Faceless* to *IV* without change. The kit's attack-forward character suited *IV*'s harder-hitting arrangements just as it had suited *Faceless*'s groove-first material.\n\n**The Snare — Unchanged:**\nThe ddrum Dios 14\"x6.5\" maple snare that defined *Faceless*'s backbeat carried over to *IV* as well — the same warm, cutting crack anchoring both albums.\n\n**Cymbal Depth — AAX to HH/HHX:**\nThe shift from Sabian AAX (machine-hammered, bright) to Sabian HH/HHX (hand-hammered, darker, more complex) added tonal dimension to Larkin's playing. The HHX Raw Bell Dry Ride in particular became a defining element of his sound from this point forward — a cymbal with a unique dry body and articulate bell that his *Faceless*-era AAX Stage Ride could not replicate.\n\n**Pedal and Sticks — Unchanged:**\nThe DW 9000's chain-drive consistency carried over from *Faceless* to *IV* without change, giving Larkin the same reliable feel characteristics across both albums. Larkin's Vic Firth American Classic 5B sticks carried over unchanged from the *Faceless* era as well.\n\n**The Complete Gear Picture:**\nSee the [Faceless drum setup](/articles/faceless-drum-setup) for the starting point of this gear arc. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit and maple snare.",
+      "title": "From Faceless to IV: A Consistent Gear Foundation",
+      "content": "The gear picture between *Faceless* (2003) and *IV* (2006) is one of total continuity. The kit, snare, cymbals, pedal, and sticks all stayed the same.\n\n**The Kit — Unchanged:**\nLarkin's ddrum Dios Series kit, with its durable, punchy shells, carried over from *Faceless* to *IV* without change. The kit's attack-forward character suited *IV*'s harder-hitting arrangements just as it had suited *Faceless*'s groove-first material.\n\n**The Snare — Unchanged:**\nThe ddrum Dios 14\"x6.5\" maple snare that defined *Faceless*'s backbeat carried over to *IV* as well — the same warm, cutting crack anchoring both albums.\n\n**The Cymbals — Unchanged:**\nLarkin's Sabian AAX configuration — bright, machine-hammered hi-hats, crashes, ride, and china — carried over from *Faceless* to *IV* without change. The AAX 21\" Stage Ride, in particular, has remained a defining element of his sound across his entire Godsmack tenure.\n\n**Pedal and Sticks — Unchanged:**\nThe DW 9000's chain-drive consistency carried over from *Faceless* to *IV* without change, giving Larkin the same reliable feel characteristics across both albums. Larkin's Vic Firth American Classic 5B sticks carried over unchanged from the *Faceless* era as well.\n\n**The Complete Gear Picture:**\nSee the [Faceless drum setup](/articles/faceless-drum-setup) for the starting point of this gear arc. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit, maple snare, and Sabian AAX cymbals.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1000,8 +1000,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Sabian AAX (pure series)",
-          "now": "Sabian HH / HHX dual-series"
+          "then": "Sabian AAX series",
+          "now": "Sabian AAX series (unchanged)"
         },
         {
           "category": "Pedals",
@@ -1156,7 +1156,7 @@ export const articles = {
               "name": "How does Shannon Larkin's kit compare between Faceless and IV?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Between Faceless (2003) and IV (2006), Shannon Larkin's ddrum Dios Series kit, ddrum Dios maple snare, DW 9000 double bass pedal, and Vic Firth American Classic 5B sticks all stayed the same. His cymbals evolved from Sabian AAX to HH/HHX."
+                "text": "Between Faceless (2003) and IV (2006), Shannon Larkin's ddrum Dios Series kit, ddrum Dios maple snare, Sabian AAX cymbals, DW 9000 double bass pedal, and Vic Firth American Classic 5B sticks all stayed the same."
               }
             },
             {
@@ -1164,7 +1164,7 @@ export const articles = {
               "name": "What cymbals does Shannon Larkin use?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Godsmack IV (2006), Shannon Larkin used Sabian HH / HHX cymbals — HH 14\" Medium Hi-Hats, HHX 17\" and 19\" Evolution Crashes, HHX 21\" Raw Bell Dry Ride, and HH 18\" Chinese. This dual-series HH/HHX setup replaced the pure AAX configuration from Faceless, adding darker, hand-hammered complexity to his playing."
+                "text": "On Godsmack IV (2006), Shannon Larkin used the same Sabian AAX cymbals as Faceless — AAX 14\" Stage Hi-Hats, 18\" and 19\" AAX X-Plosion Crashes, an AAX 21\" Stage Ride, and an AAX 18\" Chinese. This AAX configuration remained unchanged across his entire Godsmack career."
               }
             }
           ]
@@ -1173,7 +1173,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Heavier Direction: IV and the ddrum Dios Series",
-      "content": "*IV* (2006) is Shannon Larkin's most aggressive documented studio performance with Godsmack to that point — a heavier, more direct album than *Faceless*, achieved on the same ddrum Dios Series kit, maple snare, and DW 9000 double pedal while his cymbal choice evolved. The ddrum Dios kit, maple snare, Sabian HH/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks collectively represent a drummer who had refined his approach based on three years of touring behind one of American hard rock's biggest albums and arrived at the *IV* sessions with very specific ideas about the sound he wanted to make.\n\n**For Drummers Studying IV:**\nStart with \"Speak\" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's complex crack. Then work through \"No Rest for the Wicked\" for the DW 9000's double-kick consistency at driving tempo. \"Shine Down\" demonstrates the dynamic restraint that makes *IV* more than a one-dimensional heavy record — the same dynamic intelligence Larkin brought to \"Changes\" on *Faceless*, now filtered through a heavier arrangement.\n\n**The Gear Legacy:**\nddrum's Dios Series remains a durable, road-tested choice for professional touring drummers — a kit built for reliability across hundreds of shows. The Sabian HHX Raw Bell Dry Ride that appears in this setup has become one of the most distinctive ride cymbals in contemporary drumming, recognizable for its dry body and articulate bell. A player approaching the *IV* drum sound can replicate the gear philosophy — durable shells, warm complex snare, hand-hammered cymbals — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue here with *IV* (2006), and follow through to the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documenting the same ddrum setup that has anchored his entire Godsmack career. The [Shannon Larkin drummer profile](/drummer/shannon-larkin) documents the complete career context across all Godsmack albums and touring setups.\n\nFor additional drumming context in the same hard rock tradition, explore the [drummers index](/drummers) — Shannon Larkin's approach to groove-first hard rock drumming with maximum power sits within a tradition that includes the genre's defining players.\n\n🥁 *#2 Billboard 200. Platinum certified. The ddrum Dios Series era.* 🤘"
+      "content": "*IV* (2006) is Shannon Larkin's most aggressive documented studio performance with Godsmack to that point — a heavier, more direct album than *Faceless*, achieved on the exact same ddrum Dios Series kit, maple snare, Sabian AAX cymbals, and DW 9000 double pedal. The ddrum Dios kit, maple snare, Sabian AAX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks collectively represent a drummer who had refined his approach based on three years of touring behind one of American hard rock's biggest albums and arrived at the *IV* sessions with very specific ideas about the sound he wanted to make.\n\n**For Drummers Studying IV:**\nStart with \"Speak\" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's complex crack. Then work through \"No Rest for the Wicked\" for the DW 9000's double-kick consistency at driving tempo. \"Shine Down\" demonstrates the dynamic restraint that makes *IV* more than a one-dimensional heavy record — the same dynamic intelligence Larkin brought to \"Changes\" on *Faceless*, now filtered through a heavier arrangement.\n\n**The Gear Legacy:**\nddrum's Dios Series remains a durable, road-tested choice for professional touring drummers — a kit built for reliability across hundreds of shows. The Sabian AAX 21\" Stage Ride that appears in this setup has remained one of Larkin's most consistent cymbal choices, recognizable for its bright, projecting voice and clear bell. A player approaching the *IV* drum sound can replicate the gear philosophy — durable shells, warm complex snare, bright machine-hammered cymbals — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue here with *IV* (2006), and follow through to the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documenting the same ddrum setup that has anchored his entire Godsmack career. The [Shannon Larkin drummer profile](/drummer/shannon-larkin) documents the complete career context across all Godsmack albums and touring setups.\n\nFor additional drumming context in the same hard rock tradition, explore the [drummers index](/drummers) — Shannon Larkin's approach to groove-first hard rock drumming with maximum power sits within a tradition that includes the genre's defining players.\n\n🥁 *#2 Billboard 200. Platinum certified. The ddrum Dios Series era.* 🤘"
     }
   },
   "when-legends-rise-drum-setup": {
@@ -1193,13 +1193,13 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "When Legends Rise Drum Setup: Shannon Larkin's ddrum Dios Series Gear on Godsmack's #1 Rock Album (2018)",
-    "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's When Legends Rise (2018) — #4 Billboard 200, #1 Mainstream Rock chart. ddrum Dios Series drums, Sabian HHX cymbals, DW 9000 pedals, and the most polished studio performance of Larkin's career.",
+    "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's When Legends Rise (2018) — #4 Billboard 200, #1 Mainstream Rock chart. ddrum Dios Series drums, Sabian AAX cymbals, DW 9000 pedals, and the most polished studio performance of Larkin's career.",
     "seoKeywords": [
       "shannon larkin drum setup",
       "when legends rise drums",
       "godsmack 2018 drum setup",
       "shannon larkin ddrum dios",
-      "shannon larkin sabian hhx",
+      "shannon larkin sabian aax",
       "shannon larkin dw 9000",
       "godsmack drummer 2018",
       "when legends rise drummer",
@@ -1209,12 +1209,12 @@ export const articles = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
       "title": "Shannon Larkin's ddrum Dios Series on When Legends Rise",
-      "content": "Released on April 27, 2018, *When Legends Rise* is Godsmack's seventh studio album and their most commercially polished release to date. It debuted at #4 on the Billboard 200 and hit #1 on the Billboard Top Rock Albums chart — and the title track \"When Legends Rise\" spent seven weeks at #1 on the Mainstream Rock chart, the longest chart-topping run of the band's career. For Shannon Larkin, the album represents the peak of his studio production work with Godsmack: a performance in which every element of his kit was selected for maximum sonic clarity and commercial impact.\n\nBy 2018, Larkin's core kit remained what it had always been: the ddrum Dios Series that anchored his sound since *Faceless* (2003). His cymbal configuration, long anchored in Sabian HHX, received a refined hi-hat update: Sabian AAX hi-hats replaced his previous configuration, providing a brighter, more cutting chick character suited to the album's polished, radio-ready production. His pedal setup returned to the DW 9000 double bass pedal — consistent with the Oracle era, prioritizing the DW's reliable spring-loaded precision for the album's more measured, groove-driven material.\n\n*When Legends Rise* closes the arc of Godsmack's post-2000 studio catalog: *Faceless* (2003) established Larkin's signature with the band, *IV* (2006) drove toward heavier territory, *The Oracle* (2010) refined the approach, and *When Legends Rise* represents the fully realized, production-polished destination — all built on the same ddrum Dios Series foundation. This article documents the ddrum Dios Series kit, Sabian HHX/AAX cymbal configuration, and DW 9000 pedals that powered Shannon Larkin's most produced studio performance.",
+      "content": "Released on April 27, 2018, *When Legends Rise* is Godsmack's seventh studio album and their most commercially polished release to date. It debuted at #4 on the Billboard 200 and hit #1 on the Billboard Top Rock Albums chart — and the title track \"When Legends Rise\" spent seven weeks at #1 on the Mainstream Rock chart, the longest chart-topping run of the band's career. For Shannon Larkin, the album represents the peak of his studio production work with Godsmack: a performance in which every element of his kit was selected for maximum sonic clarity and commercial impact.\n\nBy 2018, Larkin's core kit remained what it had always been: the ddrum Dios Series that anchored his sound since *Faceless* (2003). His cymbal configuration also remained consistent: the same Sabian AAX setup — bright, machine-hammered hi-hats, crashes, ride, and china — that has anchored his sound since *Faceless*, providing the cutting chick character suited to the album's polished, radio-ready production. His pedal setup returned to the DW 9000 double bass pedal — consistent with the Oracle era, prioritizing the DW's reliable spring-loaded precision for the album's more measured, groove-driven material.\n\n*When Legends Rise* closes the arc of Godsmack's post-2000 studio catalog: *Faceless* (2003) established Larkin's signature with the band, *IV* (2006) drove toward heavier territory, *The Oracle* (2010) refined the approach, and *When Legends Rise* represents the fully realized, production-polished destination — all built on the same ddrum Dios Series foundation. This article documents the ddrum Dios Series kit, Sabian AAX cymbal configuration, and DW 9000 pedals that powered Shannon Larkin's most produced studio performance.",
       "keyPoints": [
         "When Legends Rise debuted #4 on Billboard 200 (April 2018) and #1 on Billboard Top Rock Albums",
         "\"When Legends Rise\" spent 7 weeks at #1 on Mainstream Rock — longest chart-topping run of Godsmack's career",
         "ddrum Dios Series — the same kit Larkin has used since Faceless (2003)",
-        "Sabian HHX cymbals with AAX hi-hats — refined configuration for polished studio production",
+        "Sabian AAX cymbals — the same configuration Larkin has used since Faceless",
         "DW 9000 Double Bass Pedal — reliable spring-loaded precision for groove-forward material",
         "Most commercially polished Godsmack album and Larkin's most produced studio performance"
       ]
@@ -1260,9 +1260,9 @@ export const articles = {
       "estimatedValue": "$300–500 (ddrum Dios maple snare)"
     },
     "cymbals": {
-      "title": "Sabian HHX / AAX: Refined Configuration for Radio-Ready Production",
+      "title": "Sabian AAX: The Consistent Configuration for Radio-Ready Production",
       "brand": "Sabian",
-      "series": "Sabian HHX / AAX Series",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
@@ -1272,31 +1272,31 @@ export const articles = {
         },
         {
           "type": "Crash",
-          "model": "Sabian HHX 17\" Evolution Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
-          "notes": "Fast, dark response — accent voice for WLR's harder-hitting passages"
+          "notes": "Fast, explosive response — accent voice for WLR's harder-hitting passages"
         },
         {
           "type": "Crash",
-          "model": "Sabian HHX 19\" Evolution Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
-          "notes": "Full-bodied dark accent for album's largest musical moments"
+          "notes": "Full-bodied accent for album's largest musical moments"
         },
         {
           "type": "Ride",
-          "model": "Sabian HHX 21\" Raw Bell Dry Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
           "position": "Far right",
-          "notes": "Dry, contained body with defined bell — Larkin's signature ride voice through the Godsmack catalog"
+          "notes": "Bright, projecting voice with defined bell — Larkin's consistent ride voice through the Godsmack catalog"
         },
         {
           "type": "China",
-          "model": "Sabian HHX 18\" Chinese",
+          "model": "Sabian AAX 18\" Chinese",
           "position": "Over rack toms",
-          "notes": "Dark trash accent for aggressive fills and accents"
+          "notes": "Trash accent for aggressive fills and accents"
         }
       ],
-      "description": "Shannon Larkin's cymbal configuration on *When Legends Rise* reflects a deliberate refinement of the HHX setup he developed through the Oracle era. The key update: Sabian AAX hi-hats replace his previous configuration, providing a brighter, more cutting chick that suits *WLR*'s polished, radio-ready production. The AAX line's machine-hammered consistency delivers maximum projection — essential for an album designed to perform in both studio and arena contexts simultaneously.\n\nThe crash and ride configuration remains anchored in HHX: the Evolution Crashes' fast, dark response and the HHX 21\" Raw Bell Dry Ride's dry, defined bell — developed as a signature element of Larkin's sound across the Godsmack catalog — continue as the primary accent and time-keeping voices. The HHX 18\" Chinese provides the dark trash accent for *WLR*'s more aggressive passages, including the heavier sections of \"Bulletproof\" and \"Say My Name.\"\n\nThis hybrid AAX/HHX configuration represents the most refined version of Larkin's Sabian approach in the Godsmack studio catalog: the clarity of machine-hammered hi-hats for the most-heard element of his groove, paired with the complex hand-hammered character of HHX for the accent and time-keeping voices that add musical depth to the arrangements.",
-      "estimatedValue": "$2,200–3,800 (full Sabian HHX/AAX setup, 2018 era)"
+      "description": "Shannon Larkin's cymbal configuration on *When Legends Rise* continues the same Sabian AAX setup he has played since *Faceless*. The AAX 14\" Stage Hi-Hats provide the bright, cutting chick that suits *WLR*'s polished, radio-ready production. The AAX line's machine-hammered consistency delivers maximum projection — essential for an album designed to perform in both studio and arena contexts simultaneously.\n\nThe crash and ride configuration remains anchored in AAX: the X-Plosion Crashes' fast, explosive response and the AAX 21\" Stage Ride's bright, defined bell — a consistent element of Larkin's sound across the Godsmack catalog — continue as the primary accent and time-keeping voices. The AAX 18\" Chinese provides the trash accent for *WLR*'s more aggressive passages, including the heavier sections of \"Bulletproof\" and \"Say My Name.\"\n\nThis consistent AAX configuration represents the settled, dependable version of Larkin's Sabian approach in the Godsmack studio catalog: the same bright, machine-hammered character across hi-hats, crashes, ride, and china that has defined his sound since his first Godsmack album.",
+      "estimatedValue": "$1,800–3,000 (full Sabian AAX setup, 2018 era)"
     },
     "hardware": {
       "title": "DW 9000: Flagship Pedals for a Groove-Forward Album",
@@ -1459,7 +1459,7 @@ export const articles = {
               "name": "What cymbals does Shannon Larkin play on When Legends Rise?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On When Legends Rise (2018), Shannon Larkin used a hybrid Sabian setup: AAX 14\" Stage Hi-Hats for bright, cutting groove definition, and Sabian HHX Evolution Crashes (17\" and 19\"), HHX 21\" Raw Bell Dry Ride, and HHX 18\" Chinese for the accent and time-keeping voices. The AAX hi-hat update distinguishes this configuration from his earlier Oracle-era all-HHX setup."
+                "text": "On When Legends Rise (2018), Shannon Larkin used the same Sabian AAX setup he has played since Faceless: AAX 14\" Stage Hi-Hats for bright, cutting groove definition, and Sabian AAX 18\" and 19\" X-Plosion Crashes, AAX 21\" Stage Ride, and AAX 18\" Chinese for the accent and time-keeping voices."
               }
             },
             {
@@ -1475,7 +1475,7 @@ export const articles = {
               "name": "How does When Legends Rise compare to Godsmack IV for drumming?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "When Legends Rise (2018) reflects a more polished, production-focused performance than IV (2006), though the kit, snare, and pedal are unchanged: the same ddrum Dios Series shells, ddrum Dios maple snare, and DW 9000 double bass pedal anchor both albums. The hi-hats shifted from HH to AAX for brighter projection. Both albums use the same fundamental kit configuration (double 22\" kicks, four toms), but WLR's sound is warmer and more radio-ready where IV was harder-hitting."
+                "text": "When Legends Rise (2018) reflects a more polished, production-focused performance than IV (2006), though the kit, snare, cymbals, and pedal are all unchanged: the same ddrum Dios Series shells, ddrum Dios maple snare, Sabian AAX cymbals, and DW 9000 double bass pedal anchor both albums. Both albums use the same fundamental kit configuration (double 22\" kicks, four toms), but WLR's sound is warmer and more radio-ready where IV was harder-hitting."
               }
             }
           ]
@@ -1484,7 +1484,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Completed Arc: When Legends Rise and the Godsmack Drum Legacy",
-      "content": "*When Legends Rise* (2018) is the fully realized destination of a Godsmack sound built on the same ddrum Dios Series kit and maple snare Shannon Larkin has played since joining the band in 2002. From *Faceless* (2003) through the harder direction of *IV* (2006) and the Oracle refinements, the kit itself never changed — what evolved is the surrounding configuration: the DW 9000 pedals, the AAX/HHX cymbal hybrid. These refinements are the result of 16 years of Godsmack studio and touring experience distilled into a single configuration.\n\n**For Drummers Studying When Legends Rise:**\nBegin with \"When Legends Rise\" itself — the title track's groove is the clearest statement of Larkin's approach: powerful, measured, pocket-first. The ddrum Dios Series' warm sustain under that groove is immediately audible. Then move to \"Under Your Scars\" for the dynamic contrast that demonstrates Larkin's range: a ballad performance that still anchors the rhythm with authority. \"Bulletproof\" offers the album's hardest-hitting moments, where the DW 9000's double-kick precision is most on display.\n\n**The Gear Legacy:**\nddrum's Dios Series has been Larkin's constant since *Faceless* — a durable, road-tested kit built for reliability across two decades of touring. The Sabian HHX/AAX hybrid configuration Larkin arrived at for WLR is a practical, sonically-intelligent approach: use machine-hammered hi-hats for the element of the kit heard most often, use hand-hammered HHX for the accents that add musical depth.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series origin — continue through [IV (2006)](/articles/godsmack-iv-drum-setup), and arrive here with *When Legends Rise*. The [Shannon Larkin drummer profile](/drummer/shannon-larkin) documents the complete career context. For the broader Godsmack drumming tradition, explore the [drummers index](/drummers).\n\n🥁 *#4 Billboard 200. #1 Mainstream Rock. Seven weeks at the top. The ddrum Dios Series era at its peak.* 🤘"
+      "content": "*When Legends Rise* (2018) is the fully realized destination of a Godsmack sound built on the same ddrum Dios Series kit, maple snare, and Sabian AAX cymbals Shannon Larkin has played since joining the band in 2002. From *Faceless* (2003) through the harder direction of *IV* (2006) and the Oracle refinements, the core setup never changed — what sharpened is the production around it. These refinements are the result of 16 years of Godsmack studio and touring experience distilled into a single, settled configuration.\n\n**For Drummers Studying When Legends Rise:**\nBegin with \"When Legends Rise\" itself — the title track's groove is the clearest statement of Larkin's approach: powerful, measured, pocket-first. The ddrum Dios Series' warm sustain under that groove is immediately audible. Then move to \"Under Your Scars\" for the dynamic contrast that demonstrates Larkin's range: a ballad performance that still anchors the rhythm with authority. \"Bulletproof\" offers the album's hardest-hitting moments, where the DW 9000's double-kick precision is most on display.\n\n**The Gear Legacy:**\nddrum's Dios Series has been Larkin's constant since *Faceless* — a durable, road-tested kit built for reliability across two decades of touring. The Sabian AAX configuration Larkin has used for WLR and every album before it is a practical, sonically-intelligent approach: bright, machine-hammered consistency across hi-hats, crashes, ride, and china that cuts through Godsmack's dense production without fail.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series origin — continue through [IV (2006)](/articles/godsmack-iv-drum-setup), and arrive here with *When Legends Rise*. The [Shannon Larkin drummer profile](/drummer/shannon-larkin) documents the complete career context. For the broader Godsmack drumming tradition, explore the [drummers index](/drummers).\n\n🥁 *#4 Billboard 200. #1 Mainstream Rock. Seven weeks at the top. The ddrum Dios Series era at its peak.* 🤘"
     }
   },
   "godsmack-1000hp-drum-setup": {
@@ -1521,14 +1521,14 @@ export const articles = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
       "title": "Shannon Larkin's ddrum Dios Series on Godsmack's 1000hp",
-      "content": "Released on August 5, 2014, on Republic Records, *1000hp* is Godsmack's sixth studio album — and by almost any measure, its heaviest. Produced by Rob Cavallo (Green Day, My Chemical Romance, Dave Matthews Band), the album debuted at #3 on the Billboard 200 and announced a band willing to push harder and louder than the polished hard rock of *The Oracle* (2010). The title track, \"1000hp,\" stands as one of the most aggressive compositions in Godsmack's catalog, with Shannon Larkin's drumming at the center of its relentless, pounding energy.\n\nFor the *1000hp* sessions, Shannon Larkin's kit stayed the same: the ddrum Dios Series drums that had anchored his playing since *Faceless* (2003) remained his platform through *IV* (2006), *The Oracle* (2010), and now *1000hp*. The Dios Series' durable, punchy shell construction delivered the defined attack suited to the heaviest Godsmack material to that point. His Sabian cymbal configuration continued the HH/HHX dual-series voice he had developed since *IV*, while the DW 9000 remained his double pedal of choice.\n\nThe Rob Cavallo production context matters for understanding the drum sound on *1000hp*. Cavallo's discography spans Green Day's *American Idiot* (2004) — a production known for its powerful, room-filling drum sound — to heavier hard rock contexts, and his approach to *1000hp* emphasized drum presence and attack. The ddrum Dios Series' punchy shell construction sat directly in that production philosophy: defined, powerful, and able to carry the heaviest tracks Godsmack had written.\n\n*1000hp* occupies the crucial middle point of the Shannon Larkin/Godsmack arc: following *The Oracle*'s commercial summit and preceding *When Legends Rise*'s (2018) radio-polished direction, it represents the moment Godsmack leaned hardest into pure heavy rock — and Larkin's ddrum Dios Series setup was built to match that ambition. This article documents the ddrum kit, Sabian cymbal configuration, and hardware that powered *1000hp*'s studio performance.",
+      "content": "Released on August 5, 2014, on Republic Records, *1000hp* is Godsmack's sixth studio album — and by almost any measure, its heaviest. Produced by Rob Cavallo (Green Day, My Chemical Romance, Dave Matthews Band), the album debuted at #3 on the Billboard 200 and announced a band willing to push harder and louder than the polished hard rock of *The Oracle* (2010). The title track, \"1000hp,\" stands as one of the most aggressive compositions in Godsmack's catalog, with Shannon Larkin's drumming at the center of its relentless, pounding energy.\n\nFor the *1000hp* sessions, Shannon Larkin's kit stayed the same: the ddrum Dios Series drums that had anchored his playing since *Faceless* (2003) remained his platform through *IV* (2006), *The Oracle* (2010), and now *1000hp*. The Dios Series' durable, punchy shell construction delivered the defined attack suited to the heaviest Godsmack material to that point. His Sabian AAX cymbal configuration, unchanged since *Faceless*, continued as his cymbal voice, while the DW 9000 remained his double pedal of choice.\n\nThe Rob Cavallo production context matters for understanding the drum sound on *1000hp*. Cavallo's discography spans Green Day's *American Idiot* (2004) — a production known for its powerful, room-filling drum sound — to heavier hard rock contexts, and his approach to *1000hp* emphasized drum presence and attack. The ddrum Dios Series' punchy shell construction sat directly in that production philosophy: defined, powerful, and able to carry the heaviest tracks Godsmack had written.\n\n*1000hp* occupies the crucial middle point of the Shannon Larkin/Godsmack arc: following *The Oracle*'s commercial summit and preceding *When Legends Rise*'s (2018) radio-polished direction, it represents the moment Godsmack leaned hardest into pure heavy rock — and Larkin's ddrum Dios Series setup was built to match that ambition. This article documents the ddrum kit, Sabian cymbal configuration, and hardware that powered *1000hp*'s studio performance.",
       "keyPoints": [
         "1000hp debuted #3 on the Billboard 200 (August 2014) on Republic Records",
         "ddrum Dios Series — the same kit Larkin has used since Faceless (2003)",
         "Produced by Rob Cavallo (Green Day, My Chemical Romance) — his first Godsmack production",
         "Title track '1000hp' is one of the heaviest and most aggressive songs in the Godsmack catalog",
         "ddrum Dios 14\"x6.5\" maple snare — Larkin's consistent snare choice",
-        "Sabian HH/HHX cymbal configuration continued from The Oracle era",
+        "Sabian AAX cymbal configuration unchanged since Faceless",
         "DW 9000 double bass pedal — consistent with both Oracle and When Legends Rise eras"
       ]
     },
@@ -1573,39 +1573,39 @@ export const articles = {
       "estimatedValue": "$300–500 (ddrum Dios maple snare, 2014 era)"
     },
     "cymbals": {
-      "title": "Sabian HH / HHX: Continued Tonal Complexity for a Heavier Record",
+      "title": "Sabian AAX: Continued Bright Power for a Heavier Record",
       "brand": "Sabian",
-      "series": "Sabian HH / HHX Series",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian HH 14\" Medium Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
-          "notes": "Hand-hammered darker voice — continuing the HH/HHX configuration developed since IV (2006)"
+          "notes": "Bright, machine-hammered voice — unchanged configuration since Faceless (2003)"
         },
         {
           "type": "Crash",
-          "model": "Sabian HHX 17\" Evolution Crash",
+          "model": "Sabian AAX 17\" X-Plosion Crash",
           "position": "Left crash",
-          "notes": "Fast response with complex dark overtones — established crash voice across the 1000hp sessions"
+          "notes": "Fast, explosive response — established crash voice across the 1000hp sessions"
         },
         {
           "type": "Crash",
-          "model": "Sabian HHX 19\" Evolution Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Full-bodied accent crash for 1000hp's largest and most aggressive musical moments"
         },
         {
           "type": "Ride",
-          "model": "Sabian HHX 21\" Raw Bell Dry Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
           "position": "Far right",
-          "notes": "Dry, defined bell with complex wash — Larkin's signature ride voice across the Godsmack catalog"
+          "notes": "Bright, defined bell — Larkin's consistent ride voice across the Godsmack catalog"
         },
         {
           "type": "China",
-          "model": "Sabian HH 18\" Chinese",
+          "model": "Sabian AAX 18\" Chinese",
           "position": "Over rack toms",
-          "notes": "Hand-hammered dark trash accent — critical for 1000hp's most aggressive section punctuations"
+          "notes": "Aggressive trash accent — critical for 1000hp's most aggressive section punctuations"
         },
         {
           "type": "Splash",
@@ -1614,8 +1614,8 @@ export const articles = {
           "notes": "Fast-response accent decoration for fills and transitions"
         }
       ],
-      "description": "Shannon Larkin's Sabian configuration on *1000hp* continued the HH/HHX dual-series voice he had developed across the *IV* (2006) and *The Oracle* (2010) sessions, now deployed against the heaviest Godsmack material to date. The hand-hammered character of the HH and HHX lines — each cymbal individually crafted at Sabian's Meductic, New Brunswick facility — remained the right tonal palette for the album's dense, heavy production environment.\n\nThe Sabian HH 14\" Medium Hi-Hats anchor Larkin's groove throughout *1000hp* with their darker, chikier closed sound and more complex open wash compared to machine-hammered alternatives. In an album where the guitar tone is deliberately heavy and dense, the HH hi-hat's hand-hammered complexity allows it to occupy its own sonic space without competing with or disappearing into the guitar frequencies. The HHX Evolution Crashes — fast-responding with complex dark overtones — provide the accent voice for *1000hp*'s explosive section transitions, including the title track's most aggressive passages.\n\nThe HHX 21\" Raw Bell Dry Ride is, as across Larkin's post-*IV* Godsmack work, the cymbal voice most associated with his playing. Its dry, contained body wash and sharply defined bell deliver the precise time-keeping the album's groove-driven passages demand, while its understated character suits Rob Cavallo's production approach — a producer who builds drum tracks as rhythmic foundations rather than sonic spectacles. The HH 18\" Chinese punctuates the album's most aggressive fills and transitions with the upward-projecting trash accent that has been a constant of Larkin's hard rock toolkit.\n\nThe Sabian configuration on *1000hp* demonstrates the stability of Larkin's cymbal philosophy: once he arrived at the HH/HHX dual-series voice following *Faceless*, he refined it across albums rather than replacing it. By 2014, the setup had been through the *IV* sessions, the *Oracle* home-studio environment, and multiple touring cycles — it was deeply dialed in and served the music precisely as designed.",
-      "estimatedValue": "$2,000–3,500 (full Sabian HH/HHX setup, 2014 era)"
+      "description": "Shannon Larkin's Sabian configuration on *1000hp* continued the same AAX setup he had played across the *IV* (2006) and *The Oracle* (2010) sessions, now deployed against the heaviest Godsmack material to date. The bright, machine-hammered character of the AAX line remained the right tonal palette for the album's dense, heavy production environment.\n\nThe Sabian AAX 14\" Stage Hi-Hats anchor Larkin's groove throughout *1000hp* with the same bright, cutting closed sound that has defined his setup since *Faceless*. In an album where the guitar tone is deliberately heavy and dense, the AAX hi-hat's projecting consistency allows it to occupy its own sonic space without disappearing into the guitar frequencies. The AAX X-Plosion Crashes — fast-responding with explosive attack — provide the accent voice for *1000hp*'s explosive section transitions, including the title track's most aggressive passages.\n\nThe AAX 21\" Stage Ride is, as across Larkin's entire Godsmack work, the cymbal voice most associated with his playing. Its bright, projecting body and sharply defined bell deliver the precise time-keeping the album's groove-driven passages demand, suiting Rob Cavallo's production approach — a producer who builds drum tracks as rhythmic foundations rather than sonic spectacles. The AAX 18\" Chinese punctuates the album's most aggressive fills and transitions with the upward-projecting trash accent that has been a constant of Larkin's hard rock toolkit.\n\nThe Sabian configuration on *1000hp* demonstrates the stability of Larkin's cymbal philosophy: the same AAX voice he arrived at on *Faceless* has been refined and maintained across every album rather than replaced. By 2014, the setup had been through the *IV* sessions, the *Oracle* home-studio environment, and multiple touring cycles — it was deeply dialed in and served the music precisely as designed.",
+      "estimatedValue": "$1,800–3,200 (full Sabian AAX setup, 2014 era)"
     },
     "hardware": {
       "title": "DW 9000 and Vic Firth: The 1000hp Hardware Foundation",
@@ -1661,11 +1661,11 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording 1000hp: Rob Cavallo and the Heaviest Godsmack Sound",
-      "content": "Rob Cavallo's production history — *Dookie* (1994), *American Idiot* (2004), *The Black Parade* (2006), and extensive hard rock and alternative work — brought a production philosophy to *1000hp* that emphasized powerful, room-filling drum sound with clear low-end definition and cutting high-frequency attack. Larkin's ddrum Dios Series kit, with its defined, attack-forward shell character, was the right instrument for that approach.\n\n**ddrum Shell Recording Character:**\nThe ddrum Dios Series' shell construction translates to a controlled, defined studio drum sound. Cavallo's production for *1000hp* leveraged this directly: close-miked Dios shells delivered tight, precise transients that give the album its punching, aggressive drum presence. The kick drum attack on tracks like \"1000hp\" and \"Locked and Loaded\" is immediate and forceful — the shells' characteristic focus delivering maximum impact.\n\n**Snare Definition:**\nThe ddrum Dios maple snare's warm, cutting character required minimal processing in Cavallo's *1000hp* production. In an album mix as dense as *1000hp* — heavy guitar tones, prominent bass, aggressive vocals — a snare that naturally projects into its own frequency space without competing with the guitar frequencies is essential. The maple shell delivers that self-sufficiency; the Cavallo production captured it with authority.\n\n**Cymbal Approach:**\nThe Sabian HH/HHX setup's hand-hammered complexity suited Cavallo's production style. His approach on Green Day's work showed a preference for cymbal sounds with body and decay — not pure, processed brightness — and the HH/HHX configuration provided exactly that character. The HHX Raw Bell Dry Ride's dry, controlled wash sits in the *1000hp* mix without spilling into the guitar frequencies, maintaining rhythmic clarity in a dense sonic environment.\n\n**Double-Kick Clarity:**\nWith Evans EMAD batter heads providing external damping on the kick drums, the double-kick patterns throughout *1000hp* maintain definition at the aggressive tempos the material demands. Cavallo's production captured the kick's focused attack — front-of-mic transient with controlled resonance — giving the album's rhythmic foundation the punch needed to support its heaviest arrangements.",
+      "content": "Rob Cavallo's production history — *Dookie* (1994), *American Idiot* (2004), *The Black Parade* (2006), and extensive hard rock and alternative work — brought a production philosophy to *1000hp* that emphasized powerful, room-filling drum sound with clear low-end definition and cutting high-frequency attack. Larkin's ddrum Dios Series kit, with its defined, attack-forward shell character, was the right instrument for that approach.\n\n**ddrum Shell Recording Character:**\nThe ddrum Dios Series' shell construction translates to a controlled, defined studio drum sound. Cavallo's production for *1000hp* leveraged this directly: close-miked Dios shells delivered tight, precise transients that give the album its punching, aggressive drum presence. The kick drum attack on tracks like \"1000hp\" and \"Locked and Loaded\" is immediate and forceful — the shells' characteristic focus delivering maximum impact.\n\n**Snare Definition:**\nThe ddrum Dios maple snare's warm, cutting character required minimal processing in Cavallo's *1000hp* production. In an album mix as dense as *1000hp* — heavy guitar tones, prominent bass, aggressive vocals — a snare that naturally projects into its own frequency space without competing with the guitar frequencies is essential. The maple shell delivers that self-sufficiency; the Cavallo production captured it with authority.\n\n**Cymbal Approach:**\nThe Sabian AAX setup's bright, machine-hammered consistency suited Cavallo's production style, delivering a cymbal voice with clear, cutting attack across every dynamic. The AAX 21\" Stage Ride's bright, projecting voice sits in the *1000hp* mix without spilling into the guitar frequencies, maintaining rhythmic clarity in a dense sonic environment.\n\n**Double-Kick Clarity:**\nWith Evans EMAD batter heads providing external damping on the kick drums, the double-kick patterns throughout *1000hp* maintain definition at the aggressive tempos the material demands. Cavallo's production captured the kick's focused attack — front-of-mic transient with controlled resonance — giving the album's rhythmic foundation the punch needed to support its heaviest arrangements.",
       "keyTechniques": [
         "ddrum Dios Series shells — attack-forward, defined transients for Rob Cavallo's heavy production approach",
         "ddrum Dios maple snare — natural warm projection, minimal processing required in dense mix",
-        "Sabian HH/HHX hand-hammered cymbals — body and decay character suited to Cavallo's production philosophy",
+        "Sabian AAX cymbals — bright, machine-hammered consistency suited to Cavallo's production philosophy",
         "Evans EMAD kick heads — controlled double-kick clarity at aggressive tempos across 1000hp material"
       ]
     },
@@ -1690,11 +1690,11 @@ export const articles = {
         "highlights": [
           "A dynamic showcase within 1000hp's heavy context — groove-driven, restrained verses against full-impact choruses",
           "DW 9000 double bass pedal provides the feel-consistent double-kick foundation for the groove-forward verse sections",
-          "Sabian HHX Raw Bell Dry Ride carries the verse passages with dry, controlled time-keeping",
+          "Sabian AAX Stage Ride carries the verse passages with bright, controlled time-keeping",
           "Hi-hat work demonstrates Larkin's pocket-first philosophy: every stroke serves the groove, not the display",
           "Chorus transitions show Larkin's dynamic authority — from controlled restraint to full-kit attack without losing pocket"
         ],
-        "gearNotes": "The DW 9000's consistent feel and the HHX Raw Bell Dry Ride's dry verse character are the defining gear elements in this track's dynamic architecture."
+        "gearNotes": "The DW 9000's consistent feel and the AAX Stage Ride's bright verse character are the defining gear elements in this track's dynamic architecture."
       },
       {
         "track": "Locked and Loaded",
@@ -1704,7 +1704,7 @@ export const articles = {
           "One of 1000hp's most driving tracks — Larkin's tempo-authoritative approach at near-maximum hard rock tempo",
           "ddrum Dios Series kicks demonstrate their clarity under repeated rapid-fire patterns at 144 BPM",
           "Snare placement is deliberate and powerful: each backbeat lands with the authority the track's aggression requires",
-          "Sabian HHX Evolution Crashes punctuate section changes with fast, dark accent character",
+          "Sabian AAX X-Plosion Crashes punctuate section changes with fast, explosive accent character",
           "A demonstration of how the Dios Series' attack-forward shell character translates directly to a more aggressive album performance"
         ],
         "gearNotes": "The ddrum Dios Series' defined shell transients and the DW 9000's consistent pedal feel are both audible in this track's demanding tempo and double-kick density."
@@ -1717,7 +1717,7 @@ export const articles = {
       },
       {
         "question": "What cymbals does Shannon Larkin use on 1000hp?",
-        "answer": "On *1000hp* (2014), Shannon Larkin continued his established Sabian HH / HHX dual-series cymbal configuration: Sabian HH 14\" Medium Hi-Hats, HHX 17\" and 19\" Evolution Crashes, HHX 21\" Raw Bell Dry Ride, HH 18\" Chinese, and an AAX 10\" Splash. This hand-hammered HH/HHX setup had been Larkin's primary Sabian voice since the *IV* (2006) sessions — by 2014 it was fully settled as his signature cymbal voice across the Godsmack catalog. See the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for his current cymbal setup."
+        "answer": "On *1000hp* (2014), Shannon Larkin continued his established Sabian AAX cymbal configuration: Sabian AAX 14\" Stage Hi-Hats, AAX 17\" and 19\" X-Plosion Crashes, AAX 21\" Stage Ride, AAX 18\" Chinese, and an AAX 10\" Splash. This bright, machine-hammered AAX setup has been Larkin's Sabian voice since *Faceless* (2003) — by 2014 it was fully settled as his signature cymbal voice across the Godsmack catalog. See the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for his current cymbal setup."
       },
       {
         "question": "Who produced Godsmack's 1000hp?",
@@ -1729,7 +1729,7 @@ export const articles = {
       },
       {
         "question": "How does 1000hp fit in the Shannon Larkin/Godsmack drum gear arc?",
-        "answer": "Shannon Larkin's *1000hp* (2014) setup — ddrum Dios Series kit, Sabian HH/HHX cymbals, DW 9000 double pedal — sits between *The Oracle* (2010) and *When Legends Rise* (2018), and the kit itself never changed across any of these albums. *1000hp* marked the heaviest point in his Godsmack discography: where *When Legends Rise* moved toward polished radio-ready production, *1000hp* went harder and more aggressive, with the same ddrum Dios shells suiting both directions. See [The Oracle drum setup](/articles/the-oracle-drum-setup) for context on what preceded it, and [When Legends Rise drum setup](/articles/when-legends-rise-drum-setup) for the arc's next chapter."
+        "answer": "Shannon Larkin's *1000hp* (2014) setup — ddrum Dios Series kit, Sabian AAX cymbals, DW 9000 double pedal — sits between *The Oracle* (2010) and *When Legends Rise* (2018), and the kit itself never changed across any of these albums. *1000hp* marked the heaviest point in his Godsmack discography: where *When Legends Rise* moved toward polished radio-ready production, *1000hp* went harder and more aggressive, with the same ddrum Dios shells suiting both directions. See [The Oracle drum setup](/articles/the-oracle-drum-setup) for context on what preceded it, and [When Legends Rise drum setup](/articles/when-legends-rise-drum-setup) for the arc's next chapter."
       }
     ],
     "videos": [],
@@ -1789,7 +1789,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "What Drums Did Shannon Larkin Use on 1000hp?",
-          "description": "Shannon Larkin's drum setup on Godsmack's 1000hp (2014) — ddrum Dios Series drums, Sabian HH/HHX cymbals, DW 9000 pedals, and Rob Cavallo production on the heaviest Godsmack album.",
+          "description": "Shannon Larkin's drum setup on Godsmack's 1000hp (2014) — ddrum Dios Series drums, Sabian AAX cymbals, DW 9000 pedals, and Rob Cavallo production on the heaviest Godsmack album.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1882,7 +1882,7 @@ export const articles = {
               "name": "What cymbals does Shannon Larkin play on 1000hp?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On 1000hp (2014), Shannon Larkin used his established Sabian HH / HHX dual-series configuration: HH 14\" Medium Hi-Hats, HHX 17\" and 19\" Evolution Crashes, HHX 21\" Raw Bell Dry Ride, HH 18\" Chinese, and an AAX 10\" Splash. The hand-hammered HH/HHX setup had been his primary Sabian voice since the IV (2006) sessions."
+                "text": "On 1000hp (2014), Shannon Larkin used his established Sabian AAX configuration: AAX 14\" Stage Hi-Hats, AAX 17\" and 19\" X-Plosion Crashes, AAX 21\" Stage Ride, AAX 18\" Chinese, and an AAX 10\" Splash. This bright, machine-hammered AAX setup had been his primary Sabian voice since the Faceless (2003) sessions."
               }
             },
             {
@@ -1899,7 +1899,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Heaviest Chapter: 1000hp and the ddrum Dios Series",
-      "content": "*1000hp* (2014) occupies a distinctive position in Shannon Larkin's Godsmack discography: the moment the band leaned hardest into pure heavy rock — harder than *IV* (2006), harder than *The Oracle* (2010), more aggressive than anything in the catalog to that point — and Larkin's ddrum Dios Series setup was the right instrument for that direction, just as it had been for every prior album. The album's #3 Billboard 200 debut confirmed that the approach resonated commercially as well as artistically.\n\nThe consistency of Larkin's ddrum Dios Series kit reflects the logic of a drummer who had spent twelve years building and refining his professional rig around a durable, road-tested foundation rather than chasing new equipment. The attack-forward character of the Dios shells served Rob Cavallo's production philosophy for the album precisely, and the result is a drum sound that is more defined and punishing than anything Larkin recorded on earlier Godsmack albums.\n\nThe Sabian HH/HHX configuration — hand-hammered, complex, settled — provided the cymbal voice that had been Larkin's signature since *IV*. By 2014, this wasn't a transition-era choice; it was who Shannon Larkin sounded like, and Cavallo's production captured it with authority.\n\nFor drummers studying *1000hp*:\n- Begin with \"1000hp\" itself — the title track's relentless groove is the most direct statement of Larkin's approach on this record\n- Work through \"Something Different\" for the dynamic contrast: controlled verse restraint against full-impact chorus\n- \"Locked and Loaded\" demonstrates the ddrum Dios Series' attack character at near-maximum hard rock tempo\n\nFor the complete Shannon Larkin/Godsmack gear arc:\n\n- [Shannon Larkin drummer profile](/drummer/shannon-larkin)\n- [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup)\n- [The Oracle drum setup (2010)](/articles/the-oracle-drum-setup) — same ddrum Dios Series kit that preceded 1000hp\n- [When Legends Rise drum setup (2018)](/articles/when-legends-rise-drum-setup) — same ddrum Dios Series kit that followed\n- [Godsmack IV drum setup (2006)](/articles/godsmack-iv-drum-setup) — the same ddrum Dios Series kit at the start of the post-Faceless gear arc\n\n🥁 *#3 Billboard 200. The heaviest Godsmack record. The ddrum Dios Series at full force.* 🤘"
+      "content": "*1000hp* (2014) occupies a distinctive position in Shannon Larkin's Godsmack discography: the moment the band leaned hardest into pure heavy rock — harder than *IV* (2006), harder than *The Oracle* (2010), more aggressive than anything in the catalog to that point — and Larkin's ddrum Dios Series setup was the right instrument for that direction, just as it had been for every prior album. The album's #3 Billboard 200 debut confirmed that the approach resonated commercially as well as artistically.\n\nThe consistency of Larkin's ddrum Dios Series kit reflects the logic of a drummer who had spent twelve years building and refining his professional rig around a durable, road-tested foundation rather than chasing new equipment. The attack-forward character of the Dios shells served Rob Cavallo's production philosophy for the album precisely, and the result is a drum sound that is more defined and punishing than anything Larkin recorded on earlier Godsmack albums.\n\nThe Sabian AAX configuration — bright, machine-hammered, settled — provided the cymbal voice that had been Larkin's signature since *Faceless*. By 2014, this was a deeply dialed-in choice; it was who Shannon Larkin sounded like, and Cavallo's production captured it with authority.\n\nFor drummers studying *1000hp*:\n- Begin with \"1000hp\" itself — the title track's relentless groove is the most direct statement of Larkin's approach on this record\n- Work through \"Something Different\" for the dynamic contrast: controlled verse restraint against full-impact chorus\n- \"Locked and Loaded\" demonstrates the ddrum Dios Series' attack character at near-maximum hard rock tempo\n\nFor the complete Shannon Larkin/Godsmack gear arc:\n\n- [Shannon Larkin drummer profile](/drummer/shannon-larkin)\n- [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup)\n- [The Oracle drum setup (2010)](/articles/the-oracle-drum-setup) — same ddrum Dios Series kit that preceded 1000hp\n- [When Legends Rise drum setup (2018)](/articles/when-legends-rise-drum-setup) — same ddrum Dios Series kit that followed\n- [Godsmack IV drum setup (2006)](/articles/godsmack-iv-drum-setup) — the same ddrum Dios Series kit at the start of the post-Faceless gear arc\n\n🥁 *#3 Billboard 200. The heaviest Godsmack record. The ddrum Dios Series at full force.* 🤘"
     }
   },
   "the-oracle-drum-setup": {
@@ -1919,7 +1919,7 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Shannon Larkin's Drum Setup on Godsmack's The Oracle (2010)",
-    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series drums, Sabian HH/HHX cymbals, DW 9000 double pedal, and the home-studio recording approach behind 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain.'",
+    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series drums, Sabian AAX cymbals, DW 9000 double pedal, and the home-studio recording approach behind 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain.'",
     "seoKeywords": [
       "shannon larkin drum setup",
       "the oracle drums",
@@ -1935,7 +1935,7 @@ export const articles = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
       "title": "Shannon Larkin's Drum Setup on Godsmack's The Oracle: ddrum Dios Series and the Third Consecutive #1",
-      "content": "Released on May 4, 2010, on Universal Republic Records, *The Oracle* is Godsmack's fifth studio album — and the third consecutive Godsmack studio release to debut at #1 on the Billboard 200, following *Faceless* (2003) and *IV* (2006). That achievement placed Godsmack alongside a small group of American hard rock acts whose commercial dominance in the 2000s was, in retrospect, remarkable for the format. By 2010, the rock landscape had shifted decisively toward streaming-era economics, and a #1 debut for a hard rock band on a major label was no longer routine — yet *The Oracle* delivered exactly that, anchored by the singles \"Cryin' Like a Bitch\" and \"Love-Hate-Sex-Pain.\"\n\nFor Shannon Larkin, *The Oracle* sessions represented his third studio album with Godsmack since joining in 2002. His ddrum Dios Series kit and Sabian HH/HHX cymbal voice — established since *Faceless* and refined through *IV* — remained his platform, with double 22\" bass drums and the four-tom spread that has been his consistent Godsmack configuration. His ddrum Dios maple snare remained his consistent choice, and his Sabian cymbal selection deepened around the HH/HHX dual-series voice that had become his signature ride and crash palette.\n\nThe most significant production context for *The Oracle* was that it was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman (Evanescence, Slipknot, Mudvayne) co-producing alongside Erna. That home-studio environment gave the band the time and isolation to track drums with the kind of focused attention that arena-tier studios with hourly meters don't always allow. Larkin had room to dial in head selections, microphone placement, and tuning across the full kit — an approach that suited the album's deliberate, song-first arrangements.\n\nBy 2010, Larkin's stick choice remained the Vic Firth American Classic 5B, the same hickory 5B he had played since joining Godsmack. Combined with his unchanged DW 9000 double bass pedal, the gear picture on *The Oracle* is one of a drummer who has settled into a refined, mature setup and is using it to serve the music rather than to chase new equipment.\n\nThis article documents the ddrum Dios Series kit, ddrum Dios maple snare, Sabian HH/HHX cymbal configuration, DW 9000 double pedal, and Vic Firth American Classic 5B sticks that powered Shannon Larkin's *The Oracle* studio performance — the rig behind Godsmack's third consecutive #1 Billboard 200 debut.",
+      "content": "Released on May 4, 2010, on Universal Republic Records, *The Oracle* is Godsmack's fifth studio album — and the third consecutive Godsmack studio release to debut at #1 on the Billboard 200, following *Faceless* (2003) and *IV* (2006). That achievement placed Godsmack alongside a small group of American hard rock acts whose commercial dominance in the 2000s was, in retrospect, remarkable for the format. By 2010, the rock landscape had shifted decisively toward streaming-era economics, and a #1 debut for a hard rock band on a major label was no longer routine — yet *The Oracle* delivered exactly that, anchored by the singles \"Cryin' Like a Bitch\" and \"Love-Hate-Sex-Pain.\"\n\nFor Shannon Larkin, *The Oracle* sessions represented his third studio album with Godsmack since joining in 2002. His ddrum Dios Series kit and Sabian AAX cymbal voice — established since *Faceless* and carried unchanged through *IV* — remained his platform, with double 22\" bass drums and the four-tom spread that has been his consistent Godsmack configuration. His ddrum Dios maple snare remained his consistent choice, and his Sabian AAX cymbal selection remained the same bright, machine-hammered configuration that anchored his sound from the start.\n\nThe most significant production context for *The Oracle* was that it was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman (Evanescence, Slipknot, Mudvayne) co-producing alongside Erna. That home-studio environment gave the band the time and isolation to track drums with the kind of focused attention that arena-tier studios with hourly meters don't always allow. Larkin had room to dial in head selections, microphone placement, and tuning across the full kit — an approach that suited the album's deliberate, song-first arrangements.\n\nBy 2010, Larkin's stick choice remained the Vic Firth American Classic 5B, the same hickory 5B he had played since joining Godsmack. Combined with his unchanged DW 9000 double bass pedal, the gear picture on *The Oracle* is one of a drummer who has settled into a refined, mature setup and is using it to serve the music rather than to chase new equipment.\n\nThis article documents the ddrum Dios Series kit, ddrum Dios maple snare, Sabian AAX cymbal configuration, DW 9000 double pedal, and Vic Firth American Classic 5B sticks that powered Shannon Larkin's *The Oracle* studio performance — the rig behind Godsmack's third consecutive #1 Billboard 200 debut.",
       "keyPoints": [
         "The Oracle debuted at #1 on the Billboard 200 (May 2010) — Godsmack's third consecutive #1 studio album",
         "Recorded at Sully Erna's home studio in Massachusetts; produced by Dave Fortman and Sully Erna",
@@ -1986,39 +1986,39 @@ export const articles = {
       "estimatedValue": "$300–500 (ddrum Dios maple snare, 2010 era)"
     },
     "cymbals": {
-      "title": "Sabian HH / HHX: The Settled Cymbal Voice",
+      "title": "Sabian AAX: The Settled Cymbal Voice",
       "brand": "Sabian",
-      "series": "Sabian HH / HHX Series",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian HH 14\" Medium Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
-          "notes": "Hand-hammered, darker voice — continuing from IV's HH/HHX configuration"
+          "notes": "Bright, machine-hammered voice — continuing the same configuration since Faceless"
         },
         {
           "type": "Crash",
-          "model": "Sabian HHX 17\" Evolution Crash",
+          "model": "Sabian AAX 17\" X-Plosion Crash",
           "position": "Left crash",
-          "notes": "Fast response with complex dark overtones — established crash voice across The Oracle"
+          "notes": "Fast response with explosive attack — established crash voice across The Oracle"
         },
         {
           "type": "Crash",
-          "model": "Sabian HHX 19\" Evolution Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
-          "notes": "Full-bodied accent crash with dark sustain for The Oracle's largest dynamic moments"
+          "notes": "Full-bodied accent crash for The Oracle's largest dynamic moments"
         },
         {
           "type": "Ride",
-          "model": "Sabian HHX 21\" Raw Bell Dry Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
           "position": "Far right",
-          "notes": "Dry, defined bell with complex body wash — the signature Larkin ride voice that defines his post-Faceless sound"
+          "notes": "Bright, defined bell — the consistent Larkin ride voice that defines his post-Faceless sound"
         },
         {
           "type": "China",
-          "model": "Sabian HH 18\" Chinese",
+          "model": "Sabian AAX 18\" Chinese",
           "position": "Over rack toms",
-          "notes": "Hand-hammered dark trash accent — punctuating The Oracle's heavier moments"
+          "notes": "Aggressive trash accent — punctuating The Oracle's heavier moments"
         },
         {
           "type": "Splash",
@@ -2027,8 +2027,8 @@ export const articles = {
           "notes": "Fast-response splash for accent decoration in dynamic passages"
         }
       ],
-      "description": "By *The Oracle* sessions in 2010, Shannon Larkin's Sabian setup had settled into the HH/HHX dual-series configuration he had developed across the *IV* (2006) sessions and the touring that followed. As a long-time Sabian artist, Larkin's cymbal voice is identifiable precisely because he has refined it across multiple albums rather than swapping series with each release: hand-hammered HH for hi-hats and china, HHX for crashes and his signature Raw Bell Dry Ride.\n\nThe Sabian HH series (Hand-Hammered) is Sabian's flagship hand-made line, with each cymbal individually hammered by craftspeople in Meductic, New Brunswick. The result is a darker, more complex cymbal voice with unique tonal variations that machine-hammering cannot replicate. The HH 14\" Medium Hi-Hats provide a darker closed sound and a more textured open wash than the AAX line that Larkin used earlier in his Godsmack tenure, suited to *The Oracle*'s arrangement-conscious approach.\n\nThe HHX Evolution Crashes (17\" and 19\") sit at the center of *The Oracle*'s crash voice. Both speak quickly and sustain with complex harmonic content, providing the dynamic punctuation the album's dynamically-varied arrangements depend on. Their tonal character — bright enough to project, complex enough to add musical interest — is a hallmark of Larkin's mid-2000s-and-onward Sabian configuration.\n\nThe HHX 21\" Raw Bell Dry Ride is the cymbal most associated with Larkin's settled Godsmack sound. Its dry, contained body wash and sharply defined bell deliver the time-keeping complexity his playing requires across the album's mid-tempo passages. On *The Oracle*, this ride voice is the consistent thread across the record's quieter ride-driven sections.\n\nThe Sabian setup on *The Oracle* demonstrates Larkin's approach to cymbal selection: pick a voice you trust, develop it across albums, refine the model selection but keep the philosophy. By 2010 the HH/HHX configuration was no longer a transition — it was who Shannon Larkin sounded like.",
-      "estimatedValue": "$2,000–3,500 (full Sabian HH/HHX setup, 2010 era)"
+      "description": "By *The Oracle* sessions in 2010, Shannon Larkin's Sabian setup had settled into the same AAX configuration he had played since *Faceless* (2003) and carried through the *IV* (2006) sessions and the touring that followed. As a long-time Sabian artist, Larkin's cymbal voice is identifiable precisely because he has kept it consistent across multiple albums rather than swapping series with each release: bright, machine-hammered AAX for hi-hats, crashes, china, and his ride.\n\nThe Sabian AAX series is machine-hammered from brilliant brass for consistency across playing dynamics. The AAX 14\" Stage Hi-Hats provide the same bright, cutting closed sound and projecting open wash that Larkin has used throughout his Godsmack tenure, suited to *The Oracle*'s arrangement-conscious approach.\n\nThe AAX X-Plosion Crashes (17\" and 19\") sit at the center of *The Oracle*'s crash voice. Both speak quickly with explosive attack, providing the dynamic punctuation the album's dynamically-varied arrangements depend on. Their bright, fast-speaking character is a hallmark of Larkin's Sabian configuration across every Godsmack album.\n\nThe AAX 21\" Stage Ride is the cymbal most associated with Larkin's settled Godsmack sound. Its bright, projecting body and sharply defined bell deliver the time-keeping complexity his playing requires across the album's mid-tempo passages. On *The Oracle*, this ride voice is the consistent thread across the record's quieter ride-driven sections.\n\nThe Sabian setup on *The Oracle* demonstrates Larkin's approach to cymbal selection: pick a voice you trust, and keep it across albums rather than chasing new configurations. By 2010 the AAX configuration was fully settled — it was who Shannon Larkin sounded like.",
+      "estimatedValue": "$1,800–3,200 (full Sabian AAX setup, 2010 era)"
     },
     "hardware": {
       "title": "DW 9000 and Vic Firth: The 2010 Hardware Picture",
@@ -2068,12 +2068,12 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording The Oracle at Sully Erna's Home Studio",
-      "content": "*The Oracle* was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman co-producing alongside Erna. That home-studio context shaped the album's drum production in ways that arena-tier commercial facilities — with their hourly billing and shared scheduling — rarely permit.\n\n**Time for Sound Selection:**\nThe home-studio environment gave Larkin extended time to dial in his kit's voice. Head selections could be rotated and evaluated for specific arrangements. Microphone positions could be moved and re-moved until the engineer and producers had exactly the sound the song demanded. The result on *The Oracle* is a drum sound that is settled and considered rather than rushed — every kit choice serves the arrangement it sits inside.\n\n**ddrum Dios Series Tracking Approach:**\nThe ddrum Dios Series' shells were close-miked for attack definition, providing the edge that sits in *The Oracle*'s mix without requiring excessive processing. The double 22\" kicks — Larkin's constant configuration — were tracked for tight, focused low-end that supports the album's rhythm-section-forward arrangements.\n\n**Snare Character:**\nThe ddrum Dios maple snare's warm, cutting character gave the album rhythmic consistency. Tracks like \"Love-Hate-Sex-Pain\" benefit from the snare's three-dimensional character, while the heavier \"Cryin' Like a Bitch\" takes advantage of the same snare's cutting attack. The home studio allowed extended time to dial in head selection and mic placement without the pressure of a billed session.\n\n**Cymbal Recording with HH/HHX:**\nThe Sabian HH/HHX cymbal selection — settled by 2010 into Larkin's signature voice — was tracked with overhead miking that captures the hand-hammered character of each cymbal. Dave Fortman's production approach favored cymbal sounds with body and complexity over pure brightness, and Larkin's HH Medium Hi-Hats and HHX Raw Bell Dry Ride fit that production philosophy precisely.\n\n**Foot Technique with the DW 9000:**\nThe DW 9000's chain-drive mechanism provided the consistent feel Larkin needed for the album's double-kick passages, the same reliable power transfer he had relied on since *Faceless*. By 2010 Larkin had refined his foot technique around that consistent platform to the point where the 9000's familiar response was a settled asset rather than a variable to manage.",
+      "content": "*The Oracle* was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman co-producing alongside Erna. That home-studio context shaped the album's drum production in ways that arena-tier commercial facilities — with their hourly billing and shared scheduling — rarely permit.\n\n**Time for Sound Selection:**\nThe home-studio environment gave Larkin extended time to dial in his kit's voice. Head selections could be rotated and evaluated for specific arrangements. Microphone positions could be moved and re-moved until the engineer and producers had exactly the sound the song demanded. The result on *The Oracle* is a drum sound that is settled and considered rather than rushed — every kit choice serves the arrangement it sits inside.\n\n**ddrum Dios Series Tracking Approach:**\nThe ddrum Dios Series' shells were close-miked for attack definition, providing the edge that sits in *The Oracle*'s mix without requiring excessive processing. The double 22\" kicks — Larkin's constant configuration — were tracked for tight, focused low-end that supports the album's rhythm-section-forward arrangements.\n\n**Snare Character:**\nThe ddrum Dios maple snare's warm, cutting character gave the album rhythmic consistency. Tracks like \"Love-Hate-Sex-Pain\" benefit from the snare's three-dimensional character, while the heavier \"Cryin' Like a Bitch\" takes advantage of the same snare's cutting attack. The home studio allowed extended time to dial in head selection and mic placement without the pressure of a billed session.\n\n**Cymbal Recording with AAX:**\nThe Sabian AAX cymbal selection — settled by 2010 into Larkin's signature voice — was tracked with overhead miking that captures the bright, machine-hammered consistency of each cymbal. Dave Fortman's production approach captured the AAX line's cutting attack with clarity, and Larkin's AAX Stage Hi-Hats and AAX Stage Ride fit that production philosophy precisely.\n\n**Foot Technique with the DW 9000:**\nThe DW 9000's chain-drive mechanism provided the consistent feel Larkin needed for the album's double-kick passages, the same reliable power transfer he had relied on since *Faceless*. By 2010 Larkin had refined his foot technique around that consistent platform to the point where the 9000's familiar response was a settled asset rather than a variable to manage.",
       "keyTechniques": [
         "Home-studio environment at Sully Erna's facility allowed extended kit-tuning and head-testing",
         "ddrum Dios Series shells — close-miked for attack-forward presence in the mix",
         "ddrum Dios maple snare — warm, cutting backbeat consistent across the album",
-        "Sabian HH/HHX cymbals tracked for hand-hammered complexity, suited to Fortman production",
+        "Sabian AAX cymbals tracked for bright, machine-hammered consistency, suited to Fortman production",
         "DW 9000 chain-drive pedal — refined, settled foot-technique foundation"
       ]
     },
@@ -2098,11 +2098,11 @@ export const articles = {
         "highlights": [
           "The Oracle's mid-tempo dynamic showcase — restrained verse work building to full-force choruses",
           "ddrum Dios maple snare's three-dimensional voice gives the song its rhythmic complexity",
-          "HHX 21\" Raw Bell Dry Ride carries the verses with dry, contained body wash",
+          "AAX 21\" Stage Ride carries the verses with bright, contained time-keeping",
           "Demonstrates Larkin's ability to play with restraint where the arrangement demands it",
           "The drumming serves the dynamic arc — quiet to loud, sparse to full — across the song"
         ],
-        "gearNotes": "The ddrum Dios maple snare's complex backbeat and the HHX Raw Bell Dry Ride's verse-driving voice are the central gear story on this track."
+        "gearNotes": "The ddrum Dios maple snare's complex backbeat and the AAX Stage Ride's verse-driving voice are the central gear story on this track."
       },
       {
         "track": "The Oracle",
@@ -2112,10 +2112,10 @@ export const articles = {
           "The album's title track and final song — extended dynamic arc with multiple movements",
           "Larkin shifts dynamics across the track without losing pocket — restrained intro, building groove, full payoff",
           "DW 9000 double pedal's chain-drive response is audible in the heavier double-kick passages",
-          "Sabian HHX Evolution Crashes punctuate the song's structural transitions",
+          "Sabian AAX X-Plosion Crashes punctuate the song's structural transitions",
           "A track that demonstrates The Oracle is more than singles-and-filler — it has architectural ambition"
         ],
-        "gearNotes": "The full ddrum Dios Series + Sabian HH/HHX + DW 9000 setup is showcased across this track's dynamic range."
+        "gearNotes": "The full ddrum Dios Series + Sabian AAX + DW 9000 setup is showcased across this track's dynamic range."
       }
     ],
     "faq": [
@@ -2141,7 +2141,7 @@ export const articles = {
       },
       {
         "question": "What cymbals does Shannon Larkin use on The Oracle?",
-        "answer": "Shannon Larkin is a long-time Sabian artist. On *The Oracle* (2010), he used a Sabian HH / HHX dual-series configuration — continuing the cymbal voice he had developed across the *IV* (2006) sessions and the touring that followed. His setup included Sabian HH 14\" Medium Hi-Hats, HHX 17\" and 19\" Evolution Crashes, an HHX 21\" Raw Bell Dry Ride, an HH 18\" Chinese cymbal, and an AAX 10\" Splash. The HHX Raw Bell Dry Ride in particular is the cymbal most associated with Larkin's settled Godsmack sound — its dry, contained body wash and sharply defined bell deliver the time-keeping complexity his playing requires."
+        "answer": "Shannon Larkin is a long-time Sabian artist. On *The Oracle* (2010), he used the same Sabian AAX configuration he has played since *Faceless* (2003) and carried through the *IV* (2006) sessions and the touring that followed. His setup included Sabian AAX 14\" Stage Hi-Hats, AAX 17\" and 19\" X-Plosion Crashes, an AAX 21\" Stage Ride, an AAX 18\" Chinese cymbal, and an AAX 10\" Splash. The AAX 21\" Stage Ride in particular is the cymbal most associated with Larkin's settled Godsmack sound — its bright, projecting body and sharply defined bell deliver the time-keeping complexity his playing requires."
       }
     ],
     "relatedAlbums": [
@@ -2196,7 +2196,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Shannon Larkin's Drum Setup on Godsmack's The Oracle (2010)",
-          "description": "Shannon Larkin's drum setup on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series, Sabian HH/HHX, DW 9000 double pedal, Vic Firth American Classic 5B sticks.",
+          "description": "Shannon Larkin's drum setup on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series, Sabian AAX cymbals, DW 9000 double pedal, Vic Firth American Classic 5B sticks.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -2282,7 +2282,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Settled Era: The Oracle and the Third #1",
-      "content": "*The Oracle* (2010) is Shannon Larkin's settled-era studio performance with Godsmack — an album recorded at Sully Erna's Massachusetts home studio with the kind of time and attention that commercial sessions don't always allow. The ddrum Dios Series kit and maple snare, Sabian HH/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks collectively represent a drummer who has refined his rig across two prior Godsmack studio albums and arrived at *The Oracle* with very specific ideas about the sounds he wanted to make.\n\n**For Drummers Studying The Oracle:**\nStart with \"Cryin' Like a Bitch\" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's cutting voice for radio-driving authority. Then work through \"Love-Hate-Sex-Pain\" for the maple snare's complex backbeat and the HHX Raw Bell Dry Ride's verse-driving voice. The title track demonstrates the architectural ambition Larkin can deliver when the arrangement demands it — extended dynamic arcs across a single track without losing pocket.\n\n**The Gear Legacy:**\nBy 2010, Shannon Larkin's ddrum Dios Series + Sabian HH/HHX + DW 9000 + Vic Firth American Classic 5B setup represented a settled professional rig that he carried across multiple albums and touring cycles. A player approaching *The Oracle*'s drum sound can replicate the gear philosophy — durable shells, hand-hammered cymbals with body and complexity, chain-drive double pedal, standard-weight stick — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue through [IV (2006)](/articles/godsmack-iv-drum-setup), and follow with *The Oracle* (2010) for the settled era documented here. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit.\n\n🥁 *#1 Billboard 200. Third consecutive #1. The settled ddrum Dios Series era at peak.* 🤘"
+      "content": "*The Oracle* (2010) is Shannon Larkin's settled-era studio performance with Godsmack — an album recorded at Sully Erna's Massachusetts home studio with the kind of time and attention that commercial sessions don't always allow. The ddrum Dios Series kit and maple snare, Sabian AAX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks collectively represent a drummer who has refined his rig across two prior Godsmack studio albums and arrived at *The Oracle* with very specific ideas about the sounds he wanted to make.\n\n**For Drummers Studying The Oracle:**\nStart with \"Cryin' Like a Bitch\" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's cutting voice for radio-driving authority. Then work through \"Love-Hate-Sex-Pain\" for the maple snare's complex backbeat and the AAX Stage Ride's verse-driving voice. The title track demonstrates the architectural ambition Larkin can deliver when the arrangement demands it — extended dynamic arcs across a single track without losing pocket.\n\n**The Gear Legacy:**\nBy 2010, Shannon Larkin's ddrum Dios Series + Sabian AAX + DW 9000 + Vic Firth American Classic 5B setup represented a settled professional rig that he carried across multiple albums and touring cycles. A player approaching *The Oracle*'s drum sound can replicate the gear philosophy — durable shells, bright machine-hammered cymbals, chain-drive double pedal, standard-weight stick — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue through [IV (2006)](/articles/godsmack-iv-drum-setup), and follow with *The Oracle* (2010) for the settled era documented here. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit.\n\n🥁 *#1 Billboard 200. Third consecutive #1. The settled ddrum Dios Series era at peak.* 🤘"
     }
   },
   "lighting-up-the-sky-drum-setup": {
@@ -2302,7 +2302,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Lighting Up the Sky Drum Setup: Shannon Larkin's ddrum Dios Series Kit on Godsmack's Final Album (2023)",
-    "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's Lighting Up the Sky (2023) — the band's announced final studio album. ddrum Dios Series drums, Sabian HHX/AAX cymbals, DW 9000 pedals, and the gear behind Godsmack's farewell record and Shannon's most recent kit.",
+    "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's Lighting Up the Sky (2023) — the band's announced final studio album. ddrum Dios Series drums, Sabian AAX cymbals, DW 9000 pedals, and the gear behind Godsmack's farewell record and Shannon's most recent kit.",
     "seoKeywords": [
       "shannon larkin drum setup 2023",
       "godsmack lighting up the sky drums",
@@ -2318,12 +2318,12 @@ export const articles = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
       "title": "Shannon Larkin's ddrum Dios Series on Godsmack's Final Album",
-      "content": "Released on February 24, 2023, *Lighting Up the Sky* is Godsmack's eighth and final studio album — the band announced it as their farewell record, closing a studio career that spans *Godsmack* (1998) to this conclusive statement. For Shannon Larkin, it represents the final chapter of his two-decade tenure as Godsmack's drummer, and the album arrived with the same ddrum Dios Series kit that has anchored his sound since *Faceless* (2003) — the same drums, the same maple snare, carried through to the very end of the band's studio catalog.\n\nThe ddrum Dios Series is built for exactly the kind of durability a two-decade touring and recording career demands. For Larkin, a drummer who has cited John Bonham as a defining influence throughout his career, the consistency of his setup for *Lighting Up the Sky* is itself a statement: the gear that got him here is the gear that closed it out.\n\nHis Sabian cymbal relationship, long established across the entire Godsmack studio catalog, continued for the *Lighting Up the Sky* cycle with the refined HHX/AAX configuration he developed through the *When Legends Rise* period. The DW 9000 double bass pedal — Larkin's most consistent choice across the post-2010 Godsmack period — returned as the foot hardware foundation. Vic Firth American Classic 5B sticks completed the setup.\n\nThis article documents the ddrum Dios Series configuration, Sabian cymbal setup, and the full gear picture of Shannon Larkin's final Godsmack studio kit.",
+      "content": "Released on February 24, 2023, *Lighting Up the Sky* is Godsmack's eighth and final studio album — the band announced it as their farewell record, closing a studio career that spans *Godsmack* (1998) to this conclusive statement. For Shannon Larkin, it represents the final chapter of his two-decade tenure as Godsmack's drummer, and the album arrived with the same ddrum Dios Series kit that has anchored his sound since *Faceless* (2003) — the same drums, the same maple snare, carried through to the very end of the band's studio catalog.\n\nThe ddrum Dios Series is built for exactly the kind of durability a two-decade touring and recording career demands. For Larkin, a drummer who has cited John Bonham as a defining influence throughout his career, the consistency of his setup for *Lighting Up the Sky* is itself a statement: the gear that got him here is the gear that closed it out.\n\nHis Sabian cymbal relationship, long established across the entire Godsmack studio catalog, continued for the *Lighting Up the Sky* cycle with the same Sabian AAX configuration he has played since *Faceless*. The DW 9000 double bass pedal — Larkin's most consistent choice across the post-2010 Godsmack period — returned as the foot hardware foundation. Vic Firth American Classic 5B sticks completed the setup.\n\nThis article documents the ddrum Dios Series configuration, Sabian cymbal setup, and the full gear picture of Shannon Larkin's final Godsmack studio kit.",
       "keyPoints": [
         "Lighting Up the Sky (2023) — Godsmack's announced eighth and final studio album",
         "ddrum Dios Series drums — the same kit Larkin has used since Faceless (2003), unchanged for the farewell record",
         "Double 22\" bass drums: Larkin's constant configuration across the entire Godsmack catalog since 2003",
-        "Sabian HHX/AAX cymbals — long-running Sabian endorsement maintained through the final album",
+        "Sabian AAX cymbals — long-running Sabian endorsement maintained through the final album",
         "DW 9000 Double Bass Pedal — Larkin's consistent post-2010 pedal choice",
         "#1 US rock radio album cycle: 'Surrender' and the title track led the chart run"
       ]
@@ -2369,9 +2369,9 @@ export const articles = {
       "estimatedValue": "$300–500 (ddrum Dios maple snare)"
     },
     "cymbals": {
-      "title": "Sabian HHX / AAX: The Continuing Configuration for Hard Rock's Biggest Stages",
+      "title": "Sabian AAX: The Continuing Configuration for Hard Rock's Biggest Stages",
       "brand": "Sabian",
-      "series": "Sabian HHX / AAX Series",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
@@ -2381,27 +2381,27 @@ export const articles = {
         },
         {
           "type": "Crash",
-          "model": "Sabian HHX 17\" Evolution Crash",
+          "model": "Sabian AAX 17\" X-Plosion Crash",
           "position": "Left crash",
-          "notes": "Fast, dark response — accent voice for Lighting Up the Sky's harder-hitting passages"
+          "notes": "Fast, explosive response — accent voice for Lighting Up the Sky's harder-hitting passages"
         },
         {
           "type": "Crash",
-          "model": "Sabian HHX 19\" Evolution Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
-          "notes": "Full-bodied accent crash with dark sustain for the album's largest musical moments"
+          "notes": "Full-bodied accent crash for the album's largest musical moments"
         },
         {
           "type": "Ride",
-          "model": "Sabian HHX 21\" Raw Bell Dry Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
           "position": "Far right",
-          "notes": "Dry, defined bell with complex body wash — Larkin's signature ride voice across the post-2006 Godsmack era"
+          "notes": "Bright, defined bell — Larkin's consistent ride voice across his entire Godsmack era"
         },
         {
           "type": "China",
-          "model": "Sabian HHX 18\" Chinese",
+          "model": "Sabian AAX 18\" Chinese",
           "position": "Over rack toms",
-          "notes": "Dark, complex trash accent for the album's heaviest transitions and punctuations"
+          "notes": "Aggressive trash accent for the album's heaviest transitions and punctuations"
         },
         {
           "type": "Splash",
@@ -2410,8 +2410,8 @@ export const articles = {
           "notes": "Quick accent tool for fills and transitions — bright AAX character for fast response"
         }
       ],
-      "description": "Shannon Larkin's Sabian cymbal setup for *Lighting Up the Sky* continues the HHX/AAX dual-series configuration he developed through the *When Legends Rise* (2018) period — a refined pairing that represents the peak of his Sabian cymbal evolution across two decades of Godsmack studio and touring work.\n\nThe Sabian AAX 14\" Stage Hi-Hats anchor the rhythmic foundation of every track on the album. The AAX series' machine-hammered construction delivers the bright, fast-responding chick that drives Godsmack's rock grooves forward — cutting through the dense arrangement of guitars, bass, and vocal to place the rhythmic pulse with maximum clarity. On *Lighting Up the Sky*, this hi-hat voice pairs effectively with the ddrum Dios Series kit's punchy character: both elements of the setup speak with immediate, cutting authority.\n\nThe HHX Evolution Crashes — 17\" and 19\" — provide the accent voices for the album's dynamic moments. Hand-hammered and dark, the HHX Evolution series responds quickly but sustains with complex harmonic depth that a brighter cymbal cannot deliver. The 17\" provides fast, precise accents for transitional fills; the 19\" gives Larkin the full-bodied crash for Godsmack's biggest moments.\n\nThe HHX 21\" Raw Bell Dry Ride is the cymbal most closely associated with Larkin's evolved Godsmack sound since the *IV* (2006) era — its dry body wash and sharply defined bell have been his time-keeping voice across multiple albums and touring cycles. On *Lighting Up the Sky*, this cymbal's dark, complex character contrasts with the ddrum Dios Series' bright projection to create a full-range sonic picture: cutting transients from the drums, musical depth from the cymbals.\n\nThe HHX Chinese and AAX Splash complete the configuration with trash-accent and quick-effect voices that have remained consistent across the *When Legends Rise* and *Lighting Up the Sky* eras — proof that Larkin's cymbal philosophy has settled into a fully optimized setup.",
-      "estimatedValue": "$2,000–3,500 (full Sabian HHX/AAX setup)"
+      "description": "Shannon Larkin's Sabian cymbal setup for *Lighting Up the Sky* continues the same AAX configuration he has played since *Faceless* (2003) and carried through the *When Legends Rise* (2018) period — a settled, consistent voice across two decades of Godsmack studio and touring work.\n\nThe Sabian AAX 14\" Stage Hi-Hats anchor the rhythmic foundation of every track on the album. The AAX series' machine-hammered construction delivers the bright, fast-responding chick that drives Godsmack's rock grooves forward — cutting through the dense arrangement of guitars, bass, and vocal to place the rhythmic pulse with maximum clarity. On *Lighting Up the Sky*, this hi-hat voice pairs effectively with the ddrum Dios Series kit's punchy character: both elements of the setup speak with immediate, cutting authority.\n\nThe AAX X-Plosion Crashes — 17\" and 19\" — provide the accent voices for the album's dynamic moments. Bright and fast-speaking, the X-Plosion series responds immediately with explosive attack. The 17\" provides fast, precise accents for transitional fills; the 19\" gives Larkin the full-bodied crash for Godsmack's biggest moments.\n\nThe AAX 21\" Stage Ride is the cymbal most closely associated with Larkin's Godsmack sound across his entire tenure — its bright body and sharply defined bell have been his time-keeping voice across every album and touring cycle. On *Lighting Up the Sky*, this cymbal's bright, cutting character pairs with the ddrum Dios Series' punchy projection to create a cohesive, unified sonic picture across drums and cymbals alike.\n\nThe AAX Chinese and AAX Splash complete the configuration with trash-accent and quick-effect voices that have remained consistent across the *When Legends Rise* and *Lighting Up the Sky* eras — proof that Larkin's cymbal philosophy has stayed settled on one dependable setup from his first Godsmack album to his last.",
+      "estimatedValue": "$1,800–3,200 (full Sabian AAX setup)"
     },
     "hardware": {
       "title": "DW 9000 and Vic Firth: The Consistent Foundation for Godsmack's Final Chapter",
@@ -2503,7 +2503,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Lighting Up the Sky Drum Setup: Shannon Larkin's ddrum Dios Series Kit on Godsmack's Final Album (2023)",
-          "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's Lighting Up the Sky (2023) — the band's announced final studio album. ddrum Dios Series drums, Sabian HHX/AAX cymbals, DW 9000 pedals.",
+          "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's Lighting Up the Sky (2023) — the band's announced final studio album. ddrum Dios Series drums, Sabian AAX cymbals, DW 9000 pedals.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -2563,7 +2563,7 @@ export const articles = {
           "@type": "Person",
           "name": "Shannon Larkin",
           "birthDate": "1967-04-24",
-          "birthPlace": "Baltimore, Maryland",
+          "birthPlace": "Chicago, Illinois",
           "memberOf": {
             "@type": "MusicGroup",
             "name": "Godsmack"
@@ -2586,7 +2586,7 @@ export const articles = {
               "name": "What cymbals did Godsmack use in 2023?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Shannon Larkin used Sabian HHX and AAX series cymbals on Godsmack's Lighting Up the Sky (2023). The setup includes Sabian AAX 14\" Stage Hi-Hats for bright, cutting rhythmic drive, Sabian HHX 17\" and 19\" Evolution Crashes for accent voices, the Sabian HHX 21\" Raw Bell Dry Ride for time-keeping, an HHX 18\" Chinese for trash accents, and an AAX 10\" Splash for quick effects. This HHX/AAX dual-series configuration continues the cymbal setup Larkin developed through the When Legends Rise (2018) period. Shannon Larkin has been a Sabian endorsee throughout his entire Godsmack career."
+                "text": "Shannon Larkin used Sabian AAX series cymbals on Godsmack's Lighting Up the Sky (2023). The setup includes Sabian AAX 14\" Stage Hi-Hats for bright, cutting rhythmic drive, Sabian AAX 17\" and 19\" X-Plosion Crashes for accent voices, the Sabian AAX 21\" Stage Ride for time-keeping, an AAX 18\" Chinese for trash accents, and an AAX 10\" Splash for quick effects. This AAX configuration continues the same cymbal setup Larkin has played since Faceless (2003). Shannon Larkin has been a Sabian endorsee throughout his entire Godsmack career."
               }
             },
             {
@@ -2602,7 +2602,7 @@ export const articles = {
               "name": "How does Shannon Larkin's kit on Lighting Up the Sky compare to When Legends Rise?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Shannon Larkin's kit did not change between When Legends Rise (2018) and Lighting Up the Sky (2023) — both albums use the same ddrum Dios Series drums and ddrum Dios maple snare that have anchored his sound since Faceless (2003). The Sabian HHX/AAX cymbal configuration, DW 9000 double bass pedal, and Vic Firth American Classic 5B sticks also remain consistent between the two eras, maintaining the same core sonic identity across both records."
+                "text": "Shannon Larkin's kit did not change between When Legends Rise (2018) and Lighting Up the Sky (2023) — both albums use the same ddrum Dios Series drums and ddrum Dios maple snare that have anchored his sound since Faceless (2003). The Sabian AAX cymbal configuration, DW 9000 double bass pedal, and Vic Firth American Classic 5B sticks also remain consistent between the two eras, maintaining the same core sonic identity across both records."
               }
             }
           ]
@@ -2616,7 +2616,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Shannon Larkin use on Lighting Up the Sky?",
-        "answer": "Shannon Larkin used Sabian HHX and AAX series cymbals on Godsmack's Lighting Up the Sky (2023): Sabian AAX 14\" Stage Hi-Hats, Sabian HHX 17\" and 19\" Evolution Crashes, Sabian HHX 21\" Raw Bell Dry Ride, Sabian HHX 18\" Chinese, and Sabian AAX 10\" Splash. This HHX/AAX dual-series configuration is the refined setup he developed through the When Legends Rise (2018) period. See the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for his full Sabian setup."
+        "answer": "Shannon Larkin used Sabian AAX series cymbals on Godsmack's Lighting Up the Sky (2023): Sabian AAX 14\" Stage Hi-Hats, Sabian AAX 17\" and 19\" X-Plosion Crashes, Sabian AAX 21\" Stage Ride, Sabian AAX 18\" Chinese, and Sabian AAX 10\" Splash. This is the same AAX configuration he has played since Faceless (2003), carried through the When Legends Rise (2018) period and into the final album. See the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for his full Sabian setup."
       },
       {
         "question": "When was Godsmack's last album released?",

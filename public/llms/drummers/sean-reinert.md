@@ -87,7 +87,7 @@ Sean Reinert's drumming style fused jazz-informed technique with death metal pow
 ## Band History
 
 - **Cynic** — 1987–1994, 2006–2015
-- **Death** — 1989–1991
+- **Death** — 1991–1992
 
 ## Gear
 

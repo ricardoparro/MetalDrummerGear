@@ -5450,10 +5450,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Paiste Signature Series',
-            details: '14" hi-hats, 17"/18" crashes, 20" ride, 18" China',
-            notes: 'Upgraded to Paiste Signature line for professional touring brightness and cut.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Zildjian A Custom Series',
+            details: '14" A Custom hi-hats, 17"/18" A Custom crashes, 20" A Custom ride, 18" A Custom China',
+            notes: 'First and only cymbal brand since joining Nile — Zildjian A Custom provided the brightness and cut needed for professional touring.',
+            change: null,
           },
           hardware: {
             item: 'Tama Iron Cobra HP900 Double Pedal',
@@ -5521,9 +5521,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Paiste Signature Series',
-            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
-            notes: 'Full Paiste Signature configuration — bright, cutting response for Nile\'s extreme live volumes.',
+            item: 'Zildjian A Custom Series',
+            details: '14" A Custom hi-hats, 17"/18"/19" A Custom crashes, 21" A Custom ride, 18" A Custom China',
+            notes: 'Continued Zildjian A Custom configuration — bright, cutting response for Nile\'s extreme live volumes.',
             change: null,
           },
           hardware: {
@@ -5601,7 +5601,7 @@ export const DRUMMER_EVOLUTION = {
             item: 'Zildjian',
             details: '14" K Mastersound Hi-Hats, 17"/18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China',
             notes: 'Zildjian partnership — K Mastersound, K Custom Dark and A Custom Mega Bell Ride form his current live and studio configuration.',
-            change: CHANGE_TYPES.SWITCH,
+            change: null,
           },
           hardware: {
             item: 'Pearl Demon XR Double Pedal',

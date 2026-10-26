@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-26 01:20 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-26 06:25 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 383 |
-| Sessions | 437 |
-| Page views | 598 |
-| Engagement rate | 57.21% |
-| Avg session (s) | 198 |
+| Active users | 392 |
+| Sessions | 446 |
+| Page views | 607 |
+| Engagement rate | 57.40% |
+| Avg session (s) | 195 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,22 +31,22 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 338 | 285 |
-| Direct | 96 | 96 |
-| Unassigned | 11 | 11 |
+| Organic Search | 346 | 293 |
+| Direct | 97 | 97 |
+| Unassigned | 13 | 13 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 145 | 118 |
-| Singapore | 40 | 40 |
+| United States | 146 | 119 |
+| Singapore | 41 | 41 |
 | China | 34 | 34 |
 | United Kingdom | 25 | 14 |
-| Australia | 12 | 9 |
+| Australia | 13 | 10 |
+| Canada | 13 | 12 |
 | Germany | 12 | 11 |
-| Canada | 10 | 9 |
 | Netherlands | 10 | 8 |
 | France | 8 | 8 |
 | Poland | 8 | 7 |
@@ -54,38 +54,38 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 18,070 |
-| Clicks | 186 |
-| CTR | 1.03% |
-| Avg position | 9.1 |
+| Impressions | 21,250 |
+| Clicks | 208 |
+| CTR | 0.98% |
+| Avg position | 9.0 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| john otto cymbal setup | 11 | 3 | 27.27% | 6.4 |
-| matt garstka drum kit | 13 | 3 | 23.08% | 7.3 |
+| john otto cymbal setup | 12 | 3 | 25.00% | 6.6 |
+| matt garstka drum kit | 19 | 3 | 15.79% | 6.8 |
+| death metal drum kit | 6 | 2 | 33.33% | 5.0 |
+| joey jordison cymbals | 6 | 2 | 33.33% | 7.0 |
 | best death metal drummers of all time | 3 | 1 | 33.33% | 3.3 |
-| bill ward cymbals | 4 | 1 | 25.00% | 8.3 |
+| bill ward cymbals | 6 | 1 | 16.67% | 8.2 |
 | can you show me some images | 1 | 1 | 100.00% | 9.0 |
-| death metal drum kit | 5 | 1 | 20.00% | 5.2 |
+| fastest double bass drummer | 9 | 1 | 11.11% | 5.1 |
 | fastest double kick drummer | 5 | 1 | 20.00% | 5.4 |
 | frost drums | 2 | 1 | 50.00% | 3.5 |
-| gojira drum set | 2 | 1 | 50.00% | 4.0 |
-| hellhammer drum setup | 3 | 1 | 33.33% | 3.3 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,421 | 48 | 1.40% | 8.1 |
-| aus | 595 | 10 | 1.68% | 8.8 |
-| gbr | 1,021 | 10 | 0.98% | 9.2 |
-| deu | 354 | 8 | 2.26% | 7.6 |
-| can | 650 | 6 | 0.92% | 8.4 |
-| nld | 218 | 6 | 2.75% | 7.0 |
-| swe | 184 | 6 | 3.26% | 7.2 |
-| ita | 265 | 5 | 1.89% | 8.2 |
-| pol | 244 | 5 | 2.05% | 8.0 |
-| tha | 248 | 5 | 2.02% | 9.9 |
+| usa | 4,087 | 52 | 1.27% | 8.0 |
+| gbr | 1,197 | 12 | 1.00% | 9.1 |
+| aus | 683 | 10 | 1.46% | 8.7 |
+| deu | 442 | 9 | 2.04% | 7.7 |
+| can | 790 | 7 | 0.89% | 8.4 |
+| ita | 316 | 6 | 1.90% | 8.3 |
+| nld | 255 | 6 | 2.35% | 7.2 |
+| swe | 215 | 6 | 2.79% | 7.4 |
+| idn | 635 | 5 | 0.79% | 9.1 |
+| phl | 311 | 5 | 1.61% | 9.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

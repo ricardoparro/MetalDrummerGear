@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-26 00:29 UTC*
 
 ---
+## 2026-10-26 06:30 (cheap pulse — 8/8 proposals verified+promoted #9744-9751, 4 with scope-expansion notes)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:25 UTC (392u/446s/607v 7d; GSC 21,250 impr/208 clicks/0.98% CTR/pos 9.0, no content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9744-9751, filed 01:29-01:30 UTC), continuing the cross-file gear/fact-drift verification sweep (Alex Rüdinger, Sean Reinert ×2, Chris Turner, Morgan Ågren ×2, Shannon Larkin, Navene Koperweis).
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (cited lines vs `extendedBios.js`/`endorsementNews.js`/`bands.js`/`soundLikeGuides.js`/`drummerEvolution.js` ground truth, dupe-search, grep for unscoped drift): #9744 (Alex Rüdinger fabricated "PureSound Super 30" snare wires vs verified Evans-only heads) VERIFIED-WITH-NOTE — **scope gap**, found 2 more occurrences beyond the 2 cited (`how-to-sound-like-alex-rudinger.md:28`, `api/drummers/index.js:3675`). #9745 (Sean Reinert how-to-sound-like mirror fabricates Pearl/Tama Iron Cobra gear vs verified Tama Artstar II/Zildjian/DW 5000) VERIFIED-WITH-NOTE — **scope gap**, same fabrication recurs in the FAQ section (lines 72-73), not just Kit Setup/Gear Shopping List. #9746 (Sean Reinert llms mirror Band History section still says Death 1989-1991, self-contradicting the same file's Biography/Career Highlights, leftover scope from #9597) VERIFIED-CLEAN. #9747 (Chris Turner — 4 mirror files never synced after #9244 fixed playthrough years/G-Maple snare date) VERIFIED-CLEAN, confirmed how-to-sound-like mirror correctly excluded (already clean) and no additional stale files found. #9748 (Morgan Ågren drummerEvolution.js backdates Sonor to 1990 + fabricates Roland SPD-SX/V-Drums electronics, zero support) VERIFIED-CLEAN. #9749 (Morgan Ågren gear-history.md mirror wholesale fabricates DW/Zildjian/Roland rig, also fixes a hub-regenerator regression where PR #9333 silently reverted #9246's hub fix by re-folding the still-broken per-drummer file) VERIFIED-CLEAN, regression mechanism independently confirmed via git history (`c8f69c3e` fixed hub → `ec1661b2` reverted it). #9750 (Shannon Larkin albumArticles.js fabricates Sabian HHX + signature snare + wrong birthplace across most album entries) VERIFIED-WITH-NOTE — **scope gap**, file also fabricates plain "Sabian HH" (non-X) in ~51 more locations describing an invented "HH/HHX dual-series" era, not mentioned in the issue. #9751 (Navene Koperweis drummerComparisons.js says joined Animals as Leaders "in 2010" at 5 locations + 3 vs-mirror propagations, verified 2009) VERIFIED-CLEAN (one minor issue-body inaccuracy noted: claimed "mislabeled slug" doesn't actually exist, flagged in comment so implementer doesn't chase a non-issue). Posted scope-correction comments on #9744/#9745/#9750/#9751, all 8 promoted to `ai-fix`.
+- **GSC content-gap**: none this week (metrics.md confirms). **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: all 3 snapshots/umbrellas still content-dated 2026-10-19 (file mtimes read as 10-26 are a checkout artifact, not a new refresh, per the same pattern noted in prior runs) — weekly refresh due today, not landed yet at run time; full close-the-loop pass deferred to today's deep run once it lands.
+- **Starvation check**: pre-triage backlog 0 (<15) but bank held 8 (>2) — not a real event; this run's triage is the resolution.
+- **Atomic-split sweep**: no non-hold `ai-fix` issues open >3 days; the 8 just-promoted are same-run/same-day.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9744-9751 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas #3819/#3810/#2211): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted (4 with scope-expansion notes). ✅ Founder ideas: inbox empty. ✅ GSC-gap: no rows. ✅ L1/L2/L3: due today, not landed at run time. ✅ Starvation: not a real event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9744-9751 pick up via Roadie; confirm #9744 covers all 4 PureSound occurrences (not just 2), #9745 fixes the FAQ block too, #9749's per-drummer + hub fix lands together (to avoid repeating the #9333-style regression), and #9750 strips both "HH" and "HHX".
+2. **L1/L2/L3 weekly refresh due ~2026-10-26 (today) — full close-the-loop pass on today's deep run once it lands.** L2 cited count was 32/100 as of 10-19, 7 points above the 25-floor — watch trend.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-10-26 00:30 (cheap pulse — 5/5 proposals verified+promoted #9731-9735, +2 companion ai-fix filed #9742-9743)
 
 ### Context (≤3 lines)

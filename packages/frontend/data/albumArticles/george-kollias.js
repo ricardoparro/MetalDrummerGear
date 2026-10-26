@@ -581,10 +581,10 @@ export const articles = {
     "ogImage": "/images/drummers/george-kollias.webp",
     "intro": {
       "title": "Nile's Best-Selling Album — and a New Era for Kollias's Kit",
-      "content": "Released on October 30, 2009, on Nuclear Blast Records, Nile's sixth studio album \"Those Whom the Gods Detest\" is the band's best-charting and most commercially successful record. It entered the German charts at No. 54, the Swiss charts, and the US Billboard Heatseekers chart — remarkable reach for uncompromising technical death metal. Allmusic awarded it 4 out of 5 stars; Metal Music Archives rates it 9/10.\n\nFor George Kollias, \"Those Whom the Gods Detest\" marks a pivotal gear transition: by this album, he had moved from his earlier Tama/DW configuration to a Pearl Reference Maple kit paired with Pearl Demon Drive pedals — the platform that would define his career-peak performances. The shift to Pearl was not simply a sponsorship move; the Reference Maple's construction and the Demon Drive's engineering suited the specific demands of Kollias's heel-toe technique at 240–280 BPM in ways his prior gear could not fully match.\n\nTracks like \"Those Whom the Gods Detest,\" \"Kafir!,\" \"The Eye of Ra,\" and \"Permitting the Noble Dead to Descend to the Underworld\" showcase the full range of what Kollias can do — from the opening barrage of gravity blasts to measured, melodically aware passages where the kit's tonal character comes forward. The Meinl Byzance cymbal setup, now well into its transition-era configuration, provided the articulation and musical complexity the album's Egyptian-themed compositions demanded.\n\nThis article examines every piece of gear George Kollias used on \"Those Whom the Gods Detest,\" the techniques that made the album's drum performances exceptional, and why this record anchors the Nile discography for a new generation of extreme metal drummers.",
+      "content": "Released on October 30, 2009, on Nuclear Blast Records, Nile's sixth studio album \"Those Whom the Gods Detest\" is the band's best-charting and most commercially successful record. It entered the German charts at No. 54, the Swiss charts, and the US Billboard Heatseekers chart — remarkable reach for uncompromising technical death metal. Allmusic awarded it 4 out of 5 stars; Metal Music Archives rates it 9/10.\n\nFor George Kollias, \"Those Whom the Gods Detest\" marks a significant gear upgrade: by this album, he had moved from the Pearl Reference Series / Tama Iron Cobra HP900 setup he'd played since his 2005 Nile debut to a Pearl Reference Maple kit paired with Pearl Demon Drive pedals — the platform that would define his career-peak performances. The upgrade was not simply a cosmetic refresh; the Reference Maple's construction and the Demon Drive's engineering suited the specific demands of Kollias's heel-toe technique at 240–280 BPM in ways his prior gear could not fully match.\n\nTracks like \"Those Whom the Gods Detest,\" \"Kafir!,\" \"The Eye of Ra,\" and \"Permitting the Noble Dead to Descend to the Underworld\" showcase the full range of what Kollias can do — from the opening barrage of gravity blasts to measured, melodically aware passages where the kit's tonal character comes forward. The Meinl Byzance cymbal setup, now well into its transition-era configuration, provided the articulation and musical complexity the album's Egyptian-themed compositions demanded.\n\nThis article examines every piece of gear George Kollias used on \"Those Whom the Gods Detest,\" the techniques that made the album's drum performances exceptional, and why this record anchors the Nile discography for a new generation of extreme metal drummers.",
       "keyPoints": [
         "Nile's best-selling and best-charting album worldwide (Nuclear Blast, 2009)",
-        "George Kollias transitions to Pearl Reference Maple — departure from earlier Tama/DW era",
+        "George Kollias upgrades to Pearl Reference Maple — departure from his earlier Pearl Reference Series era",
         "Pearl Demon Drive pedals enter the picture — co-developed speed and endurance engineering",
         "Meinl Byzance cymbals in their mature Kollias configuration",
         "Key tracks: \"Those Whom the Gods Detest,\" \"Kafir!,\" \"The Eye of Ra,\" \"Permitting the Noble Dead\"",
@@ -610,13 +610,13 @@ export const articles = {
         ],
         "shells": "Pearl Reference Maple — SST (Superior Shell Technology) multi-ply maple construction"
       },
-      "description": "By the \"Those Whom the Gods Detest\" sessions in 2009, George Kollias had transitioned to the Pearl Reference Maple — a significant upgrade from his earlier Tama Starclassic configuration. The Pearl Reference Maple uses Pearl's SST (Superior Shell Technology) construction: a multi-ply maple shell with alternating grain angles that maximizes resonance efficiency while maintaining the focused attack required for death metal at extreme tempos.\n\nThe Reference Maple's character sits between the warmth of a pure-maple kit and the projection of harder-shell alternatives. For Kollias's playing — where the kit must deliver both controlled, clear blast beat articulation and musically resonant tom passages — the Reference Maple's tonal balance is near-ideal. The shell responds quickly enough to articulate individual strokes at 240+ BPM while retaining enough body to sound authoritative in Nile's dense guitar environment.\n\nThe double 22\" kick drum setup remained non-negotiable. Two independent bass drums give Kollias the per-foot control and independent resonance that no double pedal on a single drum can replicate. At 270+ BPM sustained kick runs — which appear on \"Kafir!\" and \"Those Whom the Gods Detest\" — the physical independence of two drums prevents the resonance bleed that can collapse rhythmic definition on a single-bass-drum double-pedal configuration.\n\nPearl's OptiMount tom suspension system allowed the rack toms to resonate freely, preserving the sustain and pitch definition that Nile's Egyptian-tinged melodic passages demand. The compact configuration — 10\", 12\", 14\" rack toms plus 16\" floor tom — keeps travel distances manageable at maximum playing speed while providing enough range for the kit's expressive demands.",
+      "description": "By the \"Those Whom the Gods Detest\" sessions in 2009, George Kollias had upgraded to the Pearl Reference Maple — a significant step up from the Pearl Reference Series kit he'd played since his 2005 Nile debut. The Pearl Reference Maple uses Pearl's SST (Superior Shell Technology) construction: a multi-ply maple shell with alternating grain angles that maximizes resonance efficiency while maintaining the focused attack required for death metal at extreme tempos.\n\nThe Reference Maple's character sits between the warmth of a pure-maple kit and the projection of harder-shell alternatives. For Kollias's playing — where the kit must deliver both controlled, clear blast beat articulation and musically resonant tom passages — the Reference Maple's tonal balance is near-ideal. The shell responds quickly enough to articulate individual strokes at 240+ BPM while retaining enough body to sound authoritative in Nile's dense guitar environment.\n\nThe double 22\" kick drum setup remained non-negotiable. Two independent bass drums give Kollias the per-foot control and independent resonance that no double pedal on a single drum can replicate. At 270+ BPM sustained kick runs — which appear on \"Kafir!\" and \"Those Whom the Gods Detest\" — the physical independence of two drums prevents the resonance bleed that can collapse rhythmic definition on a single-bass-drum double-pedal configuration.\n\nPearl's OptiMount tom suspension system allowed the rack toms to resonate freely, preserving the sustain and pitch definition that Nile's Egyptian-tinged melodic passages demand. The compact configuration — 10\", 12\", 14\" rack toms plus 16\" floor tom — keeps travel distances manageable at maximum playing speed while providing enough range for the kit's expressive demands.",
       "notes": [
         "Pearl Reference Maple — SST multi-ply construction for resonance efficiency and attack clarity",
         "Double 22\" kick drums — independent per-foot control at 270+ BPM",
         "OptiMount suspension — free-resonating toms for pitch definition in melodic passages",
         "Compact tom configuration (10/12/14/16\") for reach efficiency at extreme speeds",
-        "Significant upgrade from earlier Tama Starclassic Maple era"
+        "Significant upgrade from the earlier Pearl Reference Series era"
       ],
       "estimatedValue": "$4,500–7,000 (Pearl Reference Maple shell pack, 2009 era)"
     },
@@ -684,7 +684,7 @@ export const articles = {
           "brand": "Pearl",
           "model": "Pearl Demon Drive Double Bass Drum Pedal",
           "notes": "Kollias's signature Pearl endorsement pedal — engineered for extreme-speed sustained performance",
-          "description": "By the \"Those Whom the Gods Detest\" sessions, George Kollias was performing on Pearl Demon Drive pedals — a major step in his bass drum pedal evolution from the DW 9002 he used on \"Annihilation of the Wicked.\" The Demon Drive's engineering addresses the specific demands of sustained 240–280 BPM heel-toe technique in ways the DW 9002's architecture could not fully accommodate.\n\nThe Demon Drive's key innovations for Kollias's technique: an adjustable direct-drive mechanism (no chain, no belt) that eliminates the slight mechanical slack that chain-drive introduces between foot motion and beater contact. At 270 BPM, fractions of milliseconds matter — direct drive provides the instant mechanical response that heel-toe technique requires to sound even and controlled rather than slightly inconsistent.\n\nThe pedal's adjustable cam system and spring tension controls allow Kollias to dial the exact response curve that his heel-toe motion demands — a setup that remains consistent across hours of practice, recording sessions, and live performance. This adjustability, combined with the direct-drive action, is why the Demon Drive became the platform for Kollias's later Pearl Demon XR co-design collaboration."
+          "description": "By the \"Those Whom the Gods Detest\" sessions, George Kollias was performing on Pearl Demon Drive pedals — a major step in his bass drum pedal evolution from the Tama Iron Cobra HP900 he used on \"Annihilation of the Wicked.\" The Demon Drive's engineering addresses the specific demands of sustained 240–280 BPM heel-toe technique in ways the Iron Cobra's cam-drive architecture could not fully accommodate.\n\nThe Demon Drive's key innovations for Kollias's technique: an adjustable direct-drive mechanism (no chain, no belt) that eliminates the slight mechanical slack that chain-drive introduces between foot motion and beater contact. At 270 BPM, fractions of milliseconds matter — direct drive provides the instant mechanical response that heel-toe technique requires to sound even and controlled rather than slightly inconsistent.\n\nThe pedal's adjustable cam system and spring tension controls allow Kollias to dial the exact response curve that his heel-toe motion demands — a setup that remains consistent across hours of practice, recording sessions, and live performance. This adjustability, combined with the direct-drive action, is why the Demon Drive became the platform for Kollias's later Pearl Demon XR co-design collaboration."
         },
         {
           "type": "Hi-Hat Stand",
@@ -776,11 +776,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does George Kollias use on Those Whom the Gods Detest?",
-        "answer": "On Nile's 'Those Whom the Gods Detest' (2009, Nuclear Blast), George Kollias played a Pearl Reference Maple kit — a significant shift from the Tama Starclassic Maple he used on 'Annihilation of the Wicked' (2005). The Reference Maple configuration featured a double 22\" kick drum setup, 10/12/14\" rack toms, and a 16\" floor tom. The kit is paired with a Pearl Free-Floating 14\" x 6.5\" snare. For full kit history and current setup, see: [George Kollias complete gear breakdown](/articles/whats-in-george-kollias-kit). For the earlier Nile album comparison: [Annihilation of the Wicked drum setup](/articles/george-kollias-nile-annihilation-drum-setup)."
+        "answer": "On Nile's 'Those Whom the Gods Detest' (2009, Nuclear Blast), George Kollias played a Pearl Reference Maple kit — an upgrade from the Pearl Reference Series he'd played since 'Annihilation of the Wicked' (2005). The Reference Maple configuration featured a double 22\" kick drum setup, 10/12/14\" rack toms, and a 16\" floor tom. The kit is paired with a Pearl Free-Floating 14\" x 6.5\" snare. For full kit history and current setup, see: [George Kollias complete gear breakdown](/articles/whats-in-george-kollias-kit). For the earlier Nile album comparison: [Annihilation of the Wicked drum setup](/articles/george-kollias-nile-annihilation-drum-setup)."
       },
       {
         "question": "How fast is George Kollias on Those Whom the Gods Detest?",
-        "answer": "George Kollias sustains blast beats at 240–270 BPM on 'Those Whom the Gods Detest,' with 'Kafir!' representing one of the album's most demanding sustained-tempo passages at approximately 260–270 BPM. Kollias is Guinness World Record-certified for sustaining 280 BPM single strokes — by the 2009 album his technique and equipment (Pearl Demon Drive direct-drive pedals) had matured to deliver more consistent, even-dynamics kick performance at these extremes than his earlier DW 9002 era. What distinguishes his speed is not peak BPM but sustained clarity across entire tracks — see [George Kollias at MetalForge](/drummer/george-kollias) for full technique breakdown."
+        "answer": "George Kollias sustains blast beats at 240–270 BPM on 'Those Whom the Gods Detest,' with 'Kafir!' representing one of the album's most demanding sustained-tempo passages at approximately 260–270 BPM. Kollias is Guinness World Record-certified for sustaining 280 BPM single strokes — by the 2009 album his technique and equipment (Pearl Demon Drive direct-drive pedals) had matured to deliver more consistent, even-dynamics kick performance at these extremes than his earlier Tama Iron Cobra HP900 era. What distinguishes his speed is not peak BPM but sustained clarity across entire tracks — see [George Kollias at MetalForge](/drummer/george-kollias) for full technique breakdown."
       },
       {
         "question": "What cymbals does George Kollias use on Those Whom the Gods Detest?",
@@ -788,7 +788,7 @@ export const articles = {
       },
       {
         "question": "What pedals does George Kollias use on Those Whom the Gods Detest?",
-        "answer": "By the 'Those Whom the Gods Detest' (2009) sessions, George Kollias was performing on Pearl Demon Drive double bass drum pedals — transitioning from the DW 9002 he used on 'Annihilation of the Wicked' (2005). The Demon Drive's direct-drive mechanism eliminates the mechanical slack of chain-drive systems, providing instant foot-to-beater response at 260–270 BPM. This engineering directly informed Kollias's later Pearl Demon XR co-design collaboration. The Demon Drive era represents the platform on which his technique fully matured."
+        "answer": "By the 'Those Whom the Gods Detest' (2009) sessions, George Kollias was performing on Pearl Demon Drive double bass drum pedals — transitioning from the Tama Iron Cobra HP900 he used on 'Annihilation of the Wicked' (2005). The Demon Drive's direct-drive mechanism eliminates the mechanical slack of chain-drive systems, providing instant foot-to-beater response at 260–270 BPM. This engineering directly informed Kollias's later Pearl Demon XR co-design collaboration. The Demon Drive era represents the platform on which his technique fully matured."
       },
       {
         "question": "Why is Those Whom the Gods Detest significant for death metal drumming?",
@@ -811,7 +811,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Nile's Peak — and Kollias's Gear at Its Most Refined",
-      "content": "\"Those Whom the Gods Detest\" sits at the intersection of two peaks: Nile's commercial and critical zenith, and George Kollias's mid-career gear maturation. The album's drum performances are not the raw debut energy of \"Annihilation of the Wicked\" — they are the refined, calibrated expression of a drummer who has fully mastered his technique and found equipment that matches it.\n\nThe Pearl Reference Maple's tonal character, the Demon Drive's direct-drive precision, the Meinl Byzance's articulation at extreme speeds, and the Free-Floating snare's consistent response — every element of the 2009 rig serves Nile's music and Kollias's technique more specifically than the 2005 configuration it replaced.\n\nKey takeaways for drummers studying this album:\n\n- **The Pearl transition matters**: Reference Maple vs. Tama Starclassic Maple is not just a sponsorship change — the shell character affects tone and dynamic range throughout\n- **Direct drive at extreme BPM**: The Demon Drive's mechanical advantage over chain-drive becomes audible at 260–270 BPM kick runs; the consistency is qualitatively different\n- **Gravity blast as texture, not just speed**: \"The Eye of Ra\" demonstrates how varying blast technique creates rhythmic variety within tracks\n- **Free-Floating snare response**: At 240+ BPM blast beats, snare response consistency matters — each stroke must crack identically\n\nInternal links for the complete George Kollias picture:\n- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)\n- **Earlier Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)\n- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)\n- **Blast beat technique**: [Blast beats — drummers who mastered the technique](/technique/blast-beats/drummers)\n\n\"Those Whom the Gods Detest\" is where Nile's ambition and Kollias's mastery fully aligned. The gear is part of that story — and now you know it."
+      "content": "\"Those Whom the Gods Detest\" sits at the intersection of two peaks: Nile's commercial and critical zenith, and George Kollias's mid-career gear maturation. The album's drum performances are not the raw debut energy of \"Annihilation of the Wicked\" — they are the refined, calibrated expression of a drummer who has fully mastered his technique and found equipment that matches it.\n\nThe Pearl Reference Maple's tonal character, the Demon Drive's direct-drive precision, the Meinl Byzance's articulation at extreme speeds, and the Free-Floating snare's consistent response — every element of the 2009 rig serves Nile's music and Kollias's technique more specifically than the 2005 configuration it replaced.\n\nKey takeaways for drummers studying this album:\n\n- **The Reference Maple upgrade matters**: Reference Maple vs. Reference Series is not just a cosmetic change — the shell character affects tone and dynamic range throughout\n- **Direct drive at extreme BPM**: The Demon Drive's mechanical advantage over chain-drive becomes audible at 260–270 BPM kick runs; the consistency is qualitatively different\n- **Gravity blast as texture, not just speed**: \"The Eye of Ra\" demonstrates how varying blast technique creates rhythmic variety within tracks\n- **Free-Floating snare response**: At 240+ BPM blast beats, snare response consistency matters — each stroke must crack identically\n\nInternal links for the complete George Kollias picture:\n- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)\n- **Earlier Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)\n- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)\n- **Blast beat technique**: [Blast beats — drummers who mastered the technique](/technique/blast-beats/drummers)\n\n\"Those Whom the Gods Detest\" is where Nile's ambition and Kollias's mastery fully aligned. The gear is part of that story — and now you know it."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -919,7 +919,7 @@ export const articles = {
               "name": "What drum kit does George Kollias use on Those Whom the Gods Detest?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "George Kollias used a Pearl Reference Maple kit on Nile's 'Those Whom the Gods Detest' (2009) — double 22\" bass drums, 10/12/14\" rack toms, and a 16\" floor tom. This marked a significant shift from the Tama Starclassic Maple he used on 'Annihilation of the Wicked' (2005). The snare was a Pearl Free-Floating 14\" x 6.5\"."
+                "text": "George Kollias used a Pearl Reference Maple kit on Nile's 'Those Whom the Gods Detest' (2009) — double 22\" bass drums, 10/12/14\" rack toms, and a 16\" floor tom. This marked an upgrade from the Pearl Reference Series he used on 'Annihilation of the Wicked' (2005). The snare was a Pearl Free-Floating 14\" x 6.5\"."
               }
             },
             {
@@ -927,7 +927,7 @@ export const articles = {
               "name": "How fast is George Kollias on Those Whom the Gods Detest?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "George Kollias sustains blast beats at 240–270 BPM on 'Those Whom the Gods Detest,' with 'Kafir!' representing one of the album's most demanding passages. He is Guinness World Record-certified for sustaining 280 BPM single strokes. The Pearl Demon Drive's direct-drive mechanism provides more consistent kick dynamics at these extremes than the DW 9002 chain-drive used on 'Annihilation of the Wicked.'"
+                "text": "George Kollias sustains blast beats at 240–270 BPM on 'Those Whom the Gods Detest,' with 'Kafir!' representing one of the album's most demanding passages. He is Guinness World Record-certified for sustaining 280 BPM single strokes. The Pearl Demon Drive's direct-drive mechanism provides more consistent kick dynamics at these extremes than the Tama Iron Cobra HP900 cam-drive used on 'Annihilation of the Wicked.'"
               }
             },
             {
@@ -1355,34 +1355,34 @@ export const articles = {
     "dateModified": "2026-07-05",
     "author": "MetalForge Editorial",
     "title": "George Kollias Drum Setup: Nile's 'Ithyphallic' (2007) Gear Breakdown",
-    "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's 'Ithyphallic' (2007) — the band's Nuclear Blast debut and the final chapter of his original Tama Starclassic rig.",
+    "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's 'Ithyphallic' (2007) — the band's Nuclear Blast debut and the final chapter of his original Pearl Reference Series rig.",
     "seoKeywords": [
       "george kollias drum kit",
       "ithyphallic drum setup",
       "nile drummer gear 2007",
-      "george kollias tama starclassic",
+      "george kollias pearl reference series",
       "nile nuclear blast debut",
-      "george kollias meinl byzance",
+      "george kollias zildjian",
       "fastest death metal drummer",
       "george kollias blast beats"
     ],
     "ogImage": "/images/drummers/george-kollias.webp",
     "intro": {
       "title": "Nile's Nuclear Blast Debut — and the Last Album on Kollias's Original Rig",
-      "content": "Released in July 2007, \"Ithyphallic\" is Nile's fifth studio album and the band's first release for Nuclear Blast Records, following their departure from Relapse Records after \"Annihilation of the Wicked.\" Neil Kernon returned to produce, tracking the album at The Sound Lab in Columbia, South Carolina and mixing at Rax Trax Recording in Chicago — the same production partnership that had defined George Kollias's explosive 2005 debut with the band.\n\nFor Kollias, \"Ithyphallic\" occupies a specific place in his gear timeline: it is the last Nile studio album performed in full on the Tama Starclassic Maple / DW 9002 configuration he introduced on \"Annihilation of the Wicked.\" By the time Nile returned to the studio for \"Those Whom the Gods Detest\" in 2009, Kollias had transitioned to Pearl Reference Maple shells and Pearl Demon Drive pedals — a shift that makes \"Ithyphallic\" the closing statement of his earliest Nile-era equipment.\n\nTracks like the title cut \"Ithyphallic,\" the relentless \"As He Creates So He Destroys,\" and the punishing \"Eat of the Dead\" show a drummer refining rather than reinventing — the same blast beat vocabulary and heel-toe foundation from the debut, now delivered with two additional years of touring seasoning behind it. \"Papyrus Containing the Spell to Preserve Its Possessor Against Attacks from He Who Is in the Water\" remains one of the most technically discussed Nile drum tracks of the era for its rhythmic density.\n\nThis article breaks down every piece of gear George Kollias used during the \"Ithyphallic\" sessions, the techniques that carried over and evolved from his debut, and why this overlooked bridge album matters for understanding the complete arc of his equipment history with Nile.",
+      "content": "Released in July 2007, \"Ithyphallic\" is Nile's fifth studio album and the band's first release for Nuclear Blast Records, following their departure from Relapse Records after \"Annihilation of the Wicked.\" Neil Kernon returned to produce, tracking the album at The Sound Lab in Columbia, South Carolina and mixing at Rax Trax Recording in Chicago — the same production partnership that had defined George Kollias's explosive 2005 debut with the band.\n\nFor Kollias, \"Ithyphallic\" occupies a specific place in his gear timeline: it is the last Nile studio album performed in full on the Pearl Reference Series / Tama Iron Cobra HP900 configuration he debuted on \"Annihilation of the Wicked.\" By the time Nile returned to the studio for \"Those Whom the Gods Detest\" in 2009, Kollias had upgraded to Pearl Reference Maple shells and Pearl Demon Drive pedals — a shift that makes \"Ithyphallic\" the closing statement of his earliest Nile-era equipment.\n\nTracks like the title cut \"Ithyphallic,\" the relentless \"As He Creates So He Destroys,\" and the punishing \"Eat of the Dead\" show a drummer refining rather than reinventing — the same blast beat vocabulary and heel-toe foundation from the debut, now delivered with two additional years of touring seasoning behind it. \"Papyrus Containing the Spell to Preserve Its Possessor Against Attacks from He Who Is in the Water\" remains one of the most technically discussed Nile drum tracks of the era for its rhythmic density.\n\nThis article breaks down every piece of gear George Kollias used during the \"Ithyphallic\" sessions, the techniques that carried over and evolved from his debut, and why this overlooked bridge album matters for understanding the complete arc of his equipment history with Nile.",
       "keyPoints": [
         "Nile's fifth studio album, released July 2007 — the band's first for Nuclear Blast Records",
         "Neil Kernon returns to produce, tracking at The Sound Lab in Columbia, South Carolina",
-        "The final full Nile album on Kollias's original Tama Starclassic Maple / DW 9002 rig",
+        "The final full Nile album on Kollias's original Pearl Reference Series / Tama Iron Cobra HP900 rig",
         "Key tracks: \"Ithyphallic,\" \"As He Creates So He Destroys,\" \"Eat of the Dead\"",
         "Bridges the technical vocabulary of \"Annihilation of the Wicked\" into the Pearl-era sound of \"Those Whom the Gods Detest\""
       ]
     },
     "drumKit": {
-      "title": "George's 2007 Kit: Tama Starclassic Maple, One Last Time",
-      "brand": "Tama",
-      "model": "Tama Starclassic Maple",
-      "finish": "Midnight Black",
+      "title": "George's 2007 Kit: Pearl Reference Series, One Last Time",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
+      "finish": "Maple/Birch Hybrid Shell Pack",
       "config": {
         "bassdrums": [
           "22\" x 16\" Bass Drum (x2 — double kick)"
@@ -1395,83 +1395,77 @@ export const articles = {
           "14\" x 12\" Floor Tom",
           "16\" x 14\" Floor Tom"
         ],
-        "shells": "Select maple shells — Star-Cast mounting system"
+        "shells": "Maple/birch hybrid shells — free-floating tom mounts"
       },
-      "description": "George Kollias carried the same Tama Starclassic Maple kit from \"Annihilation of the Wicked\" into the \"Ithyphallic\" sessions two years later. By 2007, the kit was thoroughly road-tested — two years of touring the debut album had let Kollias settle on tuning and head choices with a confidence that a brand-new kit simply can't offer on its first outing.\n\nThe double 22\" bass drum configuration remained unchanged, still delivering the independent per-foot control that Kollias's heel-toe technique depends on. Neil Kernon's returning production team knew exactly how to mic this kit from the first album, which meant the \"Ithyphallic\" sessions could focus on performance rather than re-learning the instrument's recorded character from scratch.\n\nThe compact tom configuration — 10\", 12\", 14\", 16\" — again prioritized reach efficiency over tonal range, a deliberate choice for a drummer whose value proposition is sustained extreme speed rather than expansive melodic tom work. Star-Cast suspension kept the toms resonating freely, an important detail on tracks like \"Papyrus Containing the Spell to Preserve Its Possessor Against Attacks from He Who Is in the Water,\" where tom fills punctuate otherwise relentless blast sections.\n\nWithin two years of \"Ithyphallic,\" this exact kit configuration would be retired in favor of Pearl Reference Maple — making this album the final complete studio document of Kollias's original Nile-era rig.",
+      "description": "George Kollias carried the same Pearl Reference Series kit from \"Annihilation of the Wicked\" into the \"Ithyphallic\" sessions two years later. By 2007, the kit was thoroughly road-tested — two years of touring the debut album had let Kollias settle on tuning and head choices with a confidence that a brand-new kit simply can't offer on its first outing.\n\nThe double 22\" bass drum configuration remained unchanged, still delivering the independent per-foot control that Kollias's heel-toe technique depends on. Neil Kernon's returning production team knew exactly how to mic this kit from the first album, which meant the \"Ithyphallic\" sessions could focus on performance rather than re-learning the instrument's recorded character from scratch.\n\nThe compact tom configuration — 10\", 12\", 14\", 16\" — again prioritized reach efficiency over tonal range, a deliberate choice for a drummer whose value proposition is sustained extreme speed rather than expansive melodic tom work. The free-floating tom mounts kept the toms resonating freely, an important detail on tracks like \"Papyrus Containing the Spell to Preserve Its Possessor Against Attacks from He Who Is in the Water,\" where tom fills punctuate otherwise relentless blast sections.\n\nWithin two years of \"Ithyphallic,\" this kit would be retired in favor of Pearl Reference Maple — making this album the final complete studio document of Kollias's original Nile-era Pearl Reference Series rig.",
       "notes": [
-        "Same Tama Starclassic Maple kit as \"Annihilation of the Wicked\" — now fully road-tested",
+        "Same Pearl Reference Series kit as \"Annihilation of the Wicked\" — now fully road-tested",
         "Double 22\" kick drums unchanged — independent per-foot control",
-        "Star-Cast suspension for free-resonating toms on tom-fill-heavy tracks",
-        "Final studio album on this configuration before the 2009 Pearl Reference Maple transition",
+        "Free-floating tom mounts for free-resonating toms on tom-fill-heavy tracks",
+        "Final studio album on this configuration before the 2009 Pearl Reference Maple upgrade",
         "Neil Kernon's returning production familiarity streamlined the recording process"
       ],
-      "estimatedValue": "$3,500–5,000 (Starclassic Maple shell pack, 2007 era)"
+      "estimatedValue": "$4,000–5,500 (Reference Series shell pack, 2007 era)"
     },
     "snare": {
       "title": "The Snare: Steel, Unchanged from the Debut",
-      "brand": "Tama",
-      "model": "Tama Starphonic Steel",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating Steel",
       "size": "14\" x 6.5\"",
       "shell": "Steel",
-      "description": "George Kollias's snare choice on \"Ithyphallic\" carried directly over from \"Annihilation of the Wicked\": a 14\" x 6.5\" steel-shelled drum chosen for the bright, cutting attack that steel delivers over wood at extreme blast beat tempos. Two years of live performance had let Kollias fine-tune the exact tension that balances crack against body, and that refinement is audible across \"Ithyphallic\"'s densest sections.\n\nThe medium-high tuning approach from the debut persisted — enough tension for immediate articulation on every stroke, not so much that the drum's fundamental pitch thins out. Neil Kernon's engineering team again used a dual-mic approach (batter-side SM57 plus an underside mic for snare wire detail) to capture the drum's full character, a technique proven on the first album and simply repeated here with the confidence of prior success.\n\nWhile this steel snare would soon give way to the Pearl Free-Floating model Kollias adopted for \"Those Whom the Gods Detest,\" \"Ithyphallic\" represents its final studio appearance — the last Nile record where the crack heard on \"Eat of the Dead\" and \"Laying Fire Upon Apep\" comes from this specific drum.",
+      "description": "George Kollias's snare choice on \"Ithyphallic\" carried directly over from \"Annihilation of the Wicked\": a 14\" x 6.5\" free-floating steel-shelled drum chosen for the bright, cutting attack that steel delivers over wood at extreme blast beat tempos. Two years of live performance had let Kollias fine-tune the exact tension that balances crack against body, and that refinement is audible across \"Ithyphallic\"'s densest sections.\n\nThe medium-high tuning approach from the debut persisted — enough tension for immediate articulation on every stroke, not so much that the drum's fundamental pitch thins out. Neil Kernon's engineering team again used a dual-mic approach (batter-side SM57 plus an underside mic for snare wire detail) to capture the drum's full character, a technique proven on the first album and simply repeated here with the confidence of prior success.\n\nThis same Pearl Free-Floating Steel snare, carried over unchanged since \"Annihilation of the Wicked,\" continued into \"Those Whom the Gods Detest\" as well — the crack heard on \"Eat of the Dead\" and \"Laying Fire Upon Apep\" comes from this consistent 14\" x 6.5\" free-floating steel drum.",
       "tuningSetting": "Medium-high tension, carried over unchanged from the 2005 debut sessions",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$300–450 (steel snare, 2007 era)"
     },
     "cymbals": {
-      "title": "The Meinl Cymbal Arsenal: Still the Original Voice",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Series",
+      "title": "The Zildjian Cymbal Arsenal: Still the Original Voice",
+      "brand": "Zildjian",
+      "series": "Zildjian A Custom Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Byzance Medium Hi-Hats",
+          "model": "Zildjian 14\" A Custom Hi-Hats",
           "position": "Left side",
           "notes": "Clear chick and closed articulation for blast beats, unchanged from the debut"
         },
         {
           "type": "Crash",
-          "model": "Meinl 17\" Byzance Medium Thin Crash",
+          "model": "Zildjian 17\" A Custom Crash",
           "position": "Left of hi-hats",
           "notes": "Fast response, musical decay for accent work"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Byzance Medium Crash",
+          "model": "Zildjian 18\" A Custom Crash",
           "position": "Over rack toms",
           "notes": "Primary crash for section accents"
         },
         {
-          "type": "Crash",
-          "model": "Meinl 19\" Byzance Medium Heavy Crash",
-          "position": "Right of toms",
-          "notes": "Full crash for major section endings"
-        },
-        {
           "type": "Ride",
-          "model": "Meinl 20\" Byzance Medium Ride",
+          "model": "Zildjian 20\" A Custom Ride",
           "position": "Far right",
           "notes": "Clear stick definition for ride patterns"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" Byzance China",
+          "model": "Zildjian 18\" A Custom China",
           "position": "Above floor tom",
           "notes": "Aggressive trashy accents between blast sections"
         }
       ],
-      "description": "\"Ithyphallic\" finds George Kollias playing the same Meinl Byzance configuration established on \"Annihilation of the Wicked\" — a cymbal voice that would remain his exclusive setup for years to come, well past this album and into the Pearl-kit era that followed.\n\nThe Byzance hi-hats continued to provide the articulation Kollias's blast beats demand: clear, defined strokes even as tempos push past 240 BPM. On \"As He Creates So He Destroys,\" the hi-hat work stays legible through sections that would smear on a lesser-quality pair.\n\nThe crash spread — 17\" through 19\" — gave Kollias the same dynamic range he'd relied on since his debut, providing quick accents and full-weight section endings across \"Ithyphallic\"'s dense arrangement. The 20\" Byzance ride handled the album's more measured, hypnotic passages, particularly on the title track where Nile's Egyptological atmosphere calls for controlled restraint between blast sections.\n\nThe 18\" Byzance China punctuated the album's most aggressive transitions, an unchanged texture in Kollias's sonic vocabulary that would persist through his entire Meinl era.",
-      "estimatedValue": "$1,800–2,500 total (Byzance setup, 2007 era)"
+      "description": "\"Ithyphallic\" finds George Kollias playing the same Zildjian A Custom configuration he's used since \"Annihilation of the Wicked\" — a cymbal voice that would remain his setup for years to come, well past this album.\n\nThe A Custom hi-hats continued to provide the articulation Kollias's blast beats demand: clear, defined strokes even as tempos push past 240 BPM. On \"As He Creates So He Destroys,\" the hi-hat work stays legible through sections that would smear on a lesser-quality pair.\n\nThe crash spread — 17\" and 18\" — gave Kollias the same dynamic range he'd relied on since his debut, providing quick accents and full-weight section endings across \"Ithyphallic\"'s dense arrangement. The 20\" A Custom ride handled the album's more measured, hypnotic passages, particularly on the title track where Nile's Egyptological atmosphere calls for controlled restraint between blast sections.\n\nThe 18\" A Custom China punctuated the album's most aggressive transitions, an unchanged texture in Kollias's sonic vocabulary.",
+      "estimatedValue": "$2,600–3,400 total (A Custom setup, 2007 era)"
     },
     "hardware": {
-      "title": "The DW 9002, Still Powering the Attack",
+      "title": "The Tama Iron Cobra HP900, Still Powering the Attack",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 9002 Double Bass Drum Pedal",
-          "notes": "Same chain-drive pedal from the debut — now dialed in after two years of touring",
-          "description": "George Kollias continued performing on the DW 9002 double bass pedal for \"Ithyphallic,\" the same chain-drive system he introduced on \"Annihilation of the Wicked.\" Two additional years of touring had let him settle on exact spring tension and beater angle settings that suited his heel-toe technique at its most refined pre-Pearl stage. This is the final Nile studio album on the DW 9002 before Kollias transitioned to Pearl Demon Drive pedals for \"Those Whom the Gods Detest\" — a shift driven by his growing demand for direct-drive response at the extreme tempos his technique was reaching."
+          "brand": "Tama",
+          "model": "Tama Iron Cobra HP900 Double Bass Drum Pedal",
+          "notes": "Same Power Glide cam-drive pedal from the debut — now dialed in after two years of touring",
+          "description": "George Kollias continued performing on the Tama Iron Cobra HP900 double bass pedal for \"Ithyphallic,\" the same Power Glide cam-drive system he used on \"Annihilation of the Wicked.\" Two additional years of touring had let him settle on exact spring tension and beater angle settings that suited his heel-toe technique at its most refined pre-Demon-Drive stage. This is the final Nile studio album on the Iron Cobra HP900 before Kollias transitioned to Pearl Demon Drive pedals for \"Those Whom the Gods Detest\" — a shift driven by his growing demand for direct-drive response at the extreme tempos his technique was reaching."
         },
         {
           "type": "Hi-Hat Stand",
@@ -1516,11 +1510,11 @@ export const articles = {
         "signature": "4/4 with Egyptian-influenced rhythmic figures",
         "highlights": [
           "Title track opens with a controlled, hypnotic groove before shifting into full blast intensity",
-          "Byzance ride cymbal carries the track's more measured, atmospheric sections",
+          "Zildjian A Custom ride cymbal carries the track's more measured, atmospheric sections",
           "Demonstrates dynamic range between restraint and full-speed blast beats",
-          "Tama Starclassic Maple tone anchors the track's heavier passages"
+          "Pearl Reference Series tone anchors the track's heavier passages"
         ],
-        "gearNotes": "Meinl Byzance ride definition supports the title track's atmospheric mid-tempo sections. DW 9002 double bass consistency drives the transition into blast intensity."
+        "gearNotes": "Zildjian A Custom ride definition supports the title track's atmospheric mid-tempo sections. Tama Iron Cobra HP900 double bass consistency drives the transition into blast intensity."
       },
       {
         "track": "As He Creates So He Destroys",
@@ -1532,7 +1526,7 @@ export const articles = {
           "Heel-toe double bass shows two years of touring refinement over the debut",
           "Steel snare crack cuts cleanly through dense guitar layering"
         ],
-        "gearNotes": "Steel snare's fast decay is critical at this tempo. DW 9002 chain-drive action, fully dialed in after two years on the road, delivers consistent stroke dynamics."
+        "gearNotes": "Steel snare's fast decay is critical at this tempo. Tama Iron Cobra HP900 cam-drive action, fully dialed in after two years on the road, delivers consistent stroke dynamics."
       },
       {
         "track": "Eat of the Dead",
@@ -1540,11 +1534,11 @@ export const articles = {
         "signature": "4/4 with tom-driven transitions",
         "highlights": [
           "Tom fills punctuate transitions between the track's riff sections",
-          "Star-Cast tom suspension preserves sustain during melodic fill passages",
+          "Free-floating tom mounts preserve sustain during melodic fill passages",
           "Gravity blast technique appears in the track's most extreme sections",
           "Demonstrates Kollias's continued command of dynamic contrast"
         ],
-        "gearNotes": "Star-Cast suspension keeps the Starclassic toms resonating freely during fills. Byzance crash spread punctuates section transitions."
+        "gearNotes": "Free-floating tom mounts keep the Reference Series toms resonating freely during fills. Zildjian A Custom crash spread punctuates section transitions."
       },
       {
         "track": "Papyrus Containing the Spell to Preserve Its Possessor Against Attacks from He Who Is in the Water",
@@ -1554,15 +1548,15 @@ export const articles = {
           "Widely cited as one of the most rhythmically dense tracks of Kollias's early Nile catalog",
           "Polyrhythmic hand patterns layered over sustained double-bass foundations",
           "Longest sustained technical passage on the album",
-          "A reference track for drummers studying Kollias's pre-Pearl technical vocabulary"
+          "A reference track for drummers studying Kollias's early-Nile technical vocabulary"
         ],
-        "gearNotes": "The Tama Starclassic Maple's projection carries the track's dense arrangement. DW 9002 endurance is tested across the track's extended technical passages."
+        "gearNotes": "The Pearl Reference Series's projection carries the track's dense arrangement. Tama Iron Cobra HP900 endurance is tested across the track's extended technical passages."
       }
     ],
     "faq": [
       {
         "question": "What drum kit does George Kollias use on Ithyphallic?",
-        "answer": "On Nile's 'Ithyphallic' (2007, Nuclear Blast), George Kollias played the same Tama Starclassic Maple kit he introduced on 'Annihilation of the Wicked' (2005) — a double 22\" kick drum setup with 10/12\" rack toms and 14/16\" floor toms. This is the final Nile studio album on this configuration before Kollias transitioned to Pearl Reference Maple shells on 'Those Whom the Gods Detest' (2009). See the earlier album's breakdown: [Annihilation of the Wicked drum setup](/articles/george-kollias-nile-annihilation-drum-setup)."
+        "answer": "On Nile's 'Ithyphallic' (2007, Nuclear Blast), George Kollias played the same Pearl Reference Series kit he used on 'Annihilation of the Wicked' (2005) — a double 22\" kick drum setup with 10/12\" rack toms and 14/16\" floor toms. This is the final Nile studio album on this configuration before Kollias upgraded to Pearl Reference Maple shells on 'Those Whom the Gods Detest' (2009). See the earlier album's breakdown: [Annihilation of the Wicked drum setup](/articles/george-kollias-nile-annihilation-drum-setup)."
       },
       {
         "question": "How fast does George Kollias play on Ithyphallic?",
@@ -1570,11 +1564,11 @@ export const articles = {
       },
       {
         "question": "What cymbals and pedals does George Kollias use on Ithyphallic?",
-        "answer": "George Kollias played Meinl Byzance cymbals on 'Ithyphallic' (2007) — 14\" Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Medium ride, and an 18\" China, identical to his debut-album setup. His bass drum pedal was the DW 9002 double pedal, also carried over from 'Annihilation of the Wicked.' Both would be replaced during the transition to Pearl gear captured on 'Those Whom the Gods Detest' (2009)."
+        "answer": "George Kollias played Zildjian A Custom cymbals on 'Ithyphallic' (2007) — 14\" hi-hats, a 17\"/18\" crash pair, a 20\" ride, and an 18\" China, identical to his debut-album setup. His bass drum pedal was the Tama Iron Cobra HP900 double pedal, also carried over from 'Annihilation of the Wicked.' The pedal would be replaced during the transition to Pearl Demon Drive gear captured on 'Those Whom the Gods Detest' (2009)."
       },
       {
         "question": "Why is Ithyphallic significant in George Kollias's gear history?",
-        "answer": "'Ithyphallic' (2007) is the final Nile studio album performed in full on George Kollias's original Tama Starclassic Maple / DW 9002 rig — the equipment that launched his career on 'Annihilation of the Wicked' (2005). It closes out his earliest Nile-era gear chapter before the Pearl Reference Maple and Demon Drive transition documented on 'Those Whom the Gods Detest' (2009). For the full gear evolution, see: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)."
+        "answer": "'Ithyphallic' (2007) is the final Nile studio album performed in full on George Kollias's original Pearl Reference Series / Tama Iron Cobra HP900 rig — the equipment that launched his career on 'Annihilation of the Wicked' (2005). It closes out his earliest Nile-era gear chapter before the Pearl Reference Maple and Demon Drive transition documented on 'Those Whom the Gods Detest' (2009). For the full gear evolution, see: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)."
       },
       {
         "question": "What is Nile's Ithyphallic and why does it matter?",
@@ -1598,7 +1592,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Quiet Bridge Album",
-      "content": "\"Ithyphallic\" rarely leads discussions of Nile's essential albums, but for anyone tracing George Kollias's gear and technique history, it fills an essential gap. It is the last complete studio document of the rig that launched his career — the Tama Starclassic Maple, the DW 9002, the Meinl Byzance cymbal voice, the standard Vic Firth 5B — before every one of those pieces began giving way to the Pearl-era equipment that would define the rest of his Nile tenure.\n\nKey takeaways for drummers studying this album:\n\n- **Consolidation matters**: \"Ithyphallic\" shows that refining an existing technique over a full album cycle is as valuable as introducing a new one\n- **Gear continuity has a cost and a benefit**: keeping the same rig from the debut let Kollias focus entirely on performance, but the eventual Pearl transition suggests real limits were being reached\n- **\"Papyrus...\"** remains a benchmark polyrhythmic track worth close study for drummers working on hand-foot independence\n- **The DW 9002's final chapter**: this album is the last place to hear Kollias's original pedal platform before the Demon Drive era began\n\nInternal links for the complete George Kollias picture:\n- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)\n- **Debut Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)\n- **Next chapter — the Pearl transition**: [Those Whom the Gods Detest drum setup (2009)](/articles/those-whom-the-gods-detest-drum-setup)\n- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)\n\nThe legend wasn't only built on the loudest albums. Sometimes it was built on the quiet ones that consolidated the gains."
+      "content": "\"Ithyphallic\" rarely leads discussions of Nile's essential albums, but for anyone tracing George Kollias's gear and technique history, it fills an essential gap. It is the last complete studio document of the rig that launched his career — the Pearl Reference Series, the Tama Iron Cobra HP900, the Zildjian A Custom cymbal voice, the standard Vic Firth 5B — before the pedal and kit began giving way to the Pearl Demon Drive/Reference Maple equipment that would define the rest of his Nile tenure.\n\nKey takeaways for drummers studying this album:\n\n- **Consolidation matters**: \"Ithyphallic\" shows that refining an existing technique over a full album cycle is as valuable as introducing a new one\n- **Gear continuity has a cost and a benefit**: keeping the same rig from the debut let Kollias focus entirely on performance, but the eventual Pearl transition suggests real limits were being reached\n- **\"Papyrus...\"** remains a benchmark polyrhythmic track worth close study for drummers working on hand-foot independence\n- **The Tama Iron Cobra HP900's final chapter**: this album is the last place to hear Kollias's original pedal platform before the Demon Drive era began\n\nInternal links for the complete George Kollias picture:\n- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)\n- **Debut Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)\n- **Next chapter — the Pearl transition**: [Those Whom the Gods Detest drum setup (2009)](/articles/those-whom-the-gods-detest-drum-setup)\n- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)\n\nThe legend wasn't only built on the loudest albums. Sometimes it was built on the quiet ones that consolidated the gains."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -1606,7 +1600,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "George Kollias Drum Setup: Nile's 'Ithyphallic' (2007) Gear Breakdown",
-          "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's 'Ithyphallic' (2007) — the band's Nuclear Blast debut and the final chapter of his original Tama Starclassic rig.",
+          "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's 'Ithyphallic' (2007) — the band's Nuclear Blast debut and the final chapter of his original Pearl Reference Series rig.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1710,7 +1704,7 @@ export const articles = {
               "name": "What drum kit does George Kollias use on Ithyphallic?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "George Kollias played the same Tama Starclassic Maple kit on 'Ithyphallic' (2007) that he introduced on 'Annihilation of the Wicked' (2005) — double 22\" bass drums, 10/12\" rack toms, and 14/16\" floor toms. This is the final Nile album on this configuration before his Pearl Reference Maple transition."
+                "text": "George Kollias played the same Pearl Reference Series kit on 'Ithyphallic' (2007) that he used on 'Annihilation of the Wicked' (2005) — double 22\" bass drums, 10/12\" rack toms, and 14/16\" floor toms. This is the final Nile album on this configuration before his Pearl Reference Maple upgrade."
               }
             },
             {
@@ -1726,7 +1720,7 @@ export const articles = {
               "name": "What cymbals and pedals does George Kollias use on Ithyphallic?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "George Kollias used Meinl Byzance cymbals — 14\" Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Medium ride, and an 18\" China — and a DW 9002 double bass drum pedal, both carried over unchanged from 'Annihilation of the Wicked' (2005)."
+                "text": "George Kollias used Zildjian A Custom cymbals — 14\" hi-hats, a 17\"/18\" crash pair, a 20\" ride, and an 18\" China — and a Tama Iron Cobra HP900 double bass drum pedal, both carried over unchanged from 'Annihilation of the Wicked' (2005)."
               }
             },
             {
@@ -1734,7 +1728,7 @@ export const articles = {
               "name": "Why is Ithyphallic significant in George Kollias's gear history?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "'Ithyphallic' (2007) is the final Nile studio album on George Kollias's original Tama Starclassic Maple / DW 9002 rig, closing out his earliest Nile-era equipment chapter before the Pearl Reference Maple transition captured on 'Those Whom the Gods Detest' (2009)."
+                "text": "'Ithyphallic' (2007) is the final Nile studio album on George Kollias's original Pearl Reference Series / Tama Iron Cobra HP900 rig, closing out his earliest Nile-era equipment chapter before the Pearl Reference Maple transition captured on 'Those Whom the Gods Detest' (2009)."
               }
             },
             {

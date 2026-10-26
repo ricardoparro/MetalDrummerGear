@@ -10,7 +10,7 @@ Zappa-adjacent fusion drummer Morgan Ågren vs Dream Theater's Mike Mangini. Two
 
 ## Morgan Ågren Setup
 
-- **Drums:** Sonor SQ2 Designer Series
+- **Drums:** Sonor SQ2 Beech
 - **Cymbals:** Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China)
 - **Snare:** Sonor Designer 14x5.5" Maple
 - **Pedals/Hardware:** Sonor Giant Step Double Pedal, Sonor Throne
@@ -34,7 +34,7 @@ Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 19
 
 ## Key Differences
 
-Morgan Ågren plays a Sonor SQ2 Designer Series kit with a Sonor Designer 14x5.5" maple snare and Paiste Signature & 2002 Series cymbals (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China), powered by a Sonor Giant Step double pedal and Vic Firth American Classic 5A sticks. Mike Mangini plays a Pearl Reference Series kit with 14x5" and 14x6.5" Pearl Reference brass snares and Sabian HHX & AAX Series cymbals (14" HHX Evolution Hi-Hats, 17", 18", and 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride), integrating a Roland SPD-SX sampling pad and Pearl Eliminator Redline double pedals, with his own Vater Mike Mangini Wicked Piston (VHMMWP) sticks. Ågren's technique centers on extreme four-limb independence, most famously his four-over-three polyrhythm — four evenly spaced strokes in the hands against three in the feet — layered with a jazz-fusion foundation that prioritizes dynamic range and odd-time-signature fluency over sheer velocity. Mangini's technique is built around documented speed, holding multiple world records for drumming velocity, and applying that speed to Dream Theater's dense odd time signatures, complex polyrhythms, and hybrid acoustic-electronic setups incorporating sampling and triggered percussion.
+Morgan Ågren plays a Sonor SQ2 Beech kit with a Sonor Designer 14x5.5" maple snare and Paiste Signature & 2002 Series cymbals (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China), powered by a Sonor Giant Step double pedal and Vic Firth American Classic 5A sticks. Mike Mangini plays a Pearl Reference Series kit with 14x5" and 14x6.5" Pearl Reference brass snares and Sabian HHX & AAX Series cymbals (14" HHX Evolution Hi-Hats, 17", 18", and 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride), integrating a Roland SPD-SX sampling pad and Pearl Eliminator Redline double pedals, with his own Vater Mike Mangini Wicked Piston (VHMMWP) sticks. Ågren's technique centers on extreme four-limb independence, most famously his four-over-three polyrhythm — four evenly spaced strokes in the hands against three in the feet — layered with a jazz-fusion foundation that prioritizes dynamic range and odd-time-signature fluency over sheer velocity. Mangini's technique is built around documented speed, holding multiple world records for drumming velocity, and applying that speed to Dream Theater's dense odd time signatures, complex polyrhythms, and hybrid acoustic-electronic setups incorporating sampling and triggered percussion.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Morgan Ågren and Mike Mangini both sit at the technical extreme of progressive 
 A: Both are benchmark technical drummers but in different disciplines. Morgan Ågren is known for extreme four-limb independence and polyrhythmic complexity built through decades of jazz-fusion and Frank Zappa-tradition performance. Mike Mangini holds multiple world records for drumming speed and applies that velocity to Dream Theater's dense progressive metal compositions. Discipline preference determines the winner.
 
 **Q: What gear do Morgan Ågren and Mike Mangini use?**
-A: Morgan Ågren plays a Sonor SQ2 Designer Series kit with a Sonor Designer maple snare and Paiste Signature & 2002 Series cymbals. Mike Mangini plays a Pearl Reference Series kit with Pearl Reference brass snares and Sabian HHX & AAX Series cymbals, integrating a Roland SPD-SX sampling pad.
+A: Morgan Ågren plays a Sonor SQ2 Beech kit with a Sonor Designer maple snare and Paiste Signature & 2002 Series cymbals. Mike Mangini plays a Pearl Reference Series kit with Pearl Reference brass snares and Sabian HHX & AAX Series cymbals, integrating a Roland SPD-SX sampling pad.
 
 **Q: What bands are Morgan Ågren and Mike Mangini known for?**
 A: Morgan Ågren co-founded the Mats/Morgan Band in 1981 and has played with Kaipa since 2002, also collaborating with Frank Zappa's family and Meshuggah's Fredrik Thordendal. Mike Mangini drummed for Dream Theater from 2010 to 2023, and previously played with Steve Vai, Extreme, and Annihilator.

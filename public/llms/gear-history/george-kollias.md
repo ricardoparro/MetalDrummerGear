@@ -15,7 +15,7 @@
 
 - **Drums:** Tama Rockstar / Starclassic — basic 5-piece, 22" kick, 12"/13"/16" toms
 - **Snare:** Tama Steel 14"x5.5"
-- **Cymbals:** Paiste 2002 — 14" hi-hats, 16"/18" crashes, 20" ride
+- **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 16"/18" crashes, 20" ride
 - **Pedal:** Tama Iron Cobra double pedal
 - **Sticks:** Vic Firth 5B
 - **Estimated cost (1995–2004):** ~$2,500
@@ -25,7 +25,7 @@
 
 - **Drums:** Pearl Reference Series — maple/birch hybrid shells, 22" kick, 10"/12"/14"/16" toms
 - **Snare:** Pearl Free-Floating Steel 14"x6.5"
-- **Cymbals:** Paiste Signature Series — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China
+- **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China
 - **Pedal:** Tama Iron Cobra HP900 double pedal
 - **Sticks:** Vic Firth 5B (pre-signature)
 - **Heads:** Remo Emperor (toms), Powerstroke 3 (kick)
@@ -37,7 +37,7 @@
 
 - **Drums:** Pearl Reference Pure — all-maple shells, 22" kick, 8"/10"/12"/14"/16" toms
 - **Snare:** Pearl Free-Floating Steel 14"x6.5" (continued)
-- **Cymbals:** Paiste Signature Series — expanded to 14"/17"/18"/19"/21" configuration
+- **Cymbals:** Zildjian A Custom Series — expanded to 14"/17"/18"/19"/21" configuration
 - **Pedal:** Tama Iron Cobra HP900 double pedal (continued)
 - **Sticks:** Vic Firth George Kollias Signature (launched)
 - **Electronics:** ddrum kick triggers (added)
@@ -48,7 +48,7 @@
 
 - **Drums:** Pearl Reference Pure — all-maple, custom finish, refined across 10+ years
 - **Snare:** Pearl Free-Floating Steel 14"x6.5" (unchanged)
-- **Cymbals:** Paiste Signature Series — full current configuration
+- **Cymbals:** Zildjian A Custom Series — full current configuration
 - **Pedal:** Tama Iron Cobra HP900 double pedal (unchanged since his underground years)
 - **Sticks:** Vic Firth George Kollias Signature (updated taper)
 - **Electronics:** ddrum Acoustic Pro Triggers (kick and snare)
@@ -70,7 +70,7 @@
 ## FAQ
 
 **Q: What is George Kollias's drum setup worth?**
-A: George Kollias's original 2005 Pearl Reference setup — the rig behind Nile's Annihilation of the Wicked — cost approximately $9,000. Adjusted for 2026 inflation, that's equivalent to roughly $15,100. His current Pearl Reference Pure setup with Paiste Signature cymbals and ddrum triggers is valued at approximately $18,000 at current retail.
+A: George Kollias's original 2005 Pearl Reference setup — the rig behind Nile's Annihilation of the Wicked — cost approximately $9,000. Adjusted for 2026 inflation, that's equivalent to roughly $15,100. His current Pearl Reference Pure setup with Zildjian A Custom cymbals and ddrum triggers is valued at approximately $18,000 at current retail.
 
 **Q: What drums does George Kollias play?**
 A: George Kollias has played Pearl drums since joining Nile in 2004 — starting with the Reference Series on Annihilation of the Wicked (2005), then upgrading to the all-maple Pearl Reference Pure shells from Those Whom the Gods Detest (2009) onward, which remains his current kit.
@@ -79,7 +79,7 @@ A: George Kollias has played Pearl drums since joining Nile in 2004 — starting
 A: George Kollias is widely regarded as one of extreme metal's fastest drummers, capable of sustaining blast beats at 240+ BPM while maintaining note-for-note clarity — a skill he built over two decades starting in the Greek metal underground and refined across Nile's technically demanding catalog.
 
 **Q: What cymbals does George Kollias use?**
-A: Kollias has used Paiste cymbals throughout his career — Paiste 2002 during his pre-Nile underground years, then the professional Paiste Signature Series (14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China) since joining Nile in 2004.
+A: Kollias has played Zildjian A Custom Series cymbals throughout his career — a continuous partnership with no brand switch, configured as 14" hi-hats, 17"/18"/19" crashes, 21" ride, and 18" China in his current full setup.
 
 **Q: What pedal does George Kollias use?**
 A: George Kollias has used a Tama Iron Cobra double pedal since developing his blast-beat technique in the Greek underground in the 1990s — currently the HP900 Power Glide model — making it the single most consistent piece of gear across his entire career.

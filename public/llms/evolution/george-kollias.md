@@ -25,7 +25,7 @@ Before joining Nile, George Kollias honed his extreme technique in the Athens me
 
 - **Drums:** Tama Rockstar / Starclassic — basic 5-piece: 22" kick, 12"/13"/16" toms
 - **Snare:** Tama Steel 14"×5.5" (crisp, cutting tone suited to extreme tempos)
-- **Cymbals:** Paiste 2002 — 14" hi-hats, 16"/18" crashes, 20" ride
+- **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 16"/18" crashes, 20" ride
 - **Hardware:** Tama Iron Cobra Double Pedal (the foundational speed pedal built into his muscle memory)
 - **Sticks:** Vic Firth 5B hickory (off-the-shelf, pre-endorsement)
 - **Heads:** Remo Ambassador clear on toms
@@ -49,7 +49,7 @@ George Kollias joined Nile in 2004 and immediately delivered one of the most tec
 
 - **Drums:** Pearl Reference Series (maple/birch hybrid) — 22" kick, 10"/12"/14"/16" toms *(switch — Pearl endorsement begins)*
 - **Snare:** Pearl Free-Floating Steel 14"×6.5" *(switch — explosive attack for ultra-fast snare work)*
-- **Cymbals:** Paiste Signature Series — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China *(upgrade — professional line for touring brightness)*
+- **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China *(continued — consistent cymbal partnership since the Greek underground years)*
 - **Hardware:** Tama Iron Cobra HP900 Double Pedal *(continued — unchanged through the brand switch)*
 - **Sticks:** Vic Firth 5B hickory (pre-signature era)
 - **Heads:** Remo Emperor on toms, Powerstroke 3 on kick *(upgrade — double-ply durability and focused kick punch)*
@@ -73,7 +73,7 @@ George Kollias's technical and artistic peak. Those Whom the Gods Detest and At 
 
 - **Drums:** Pearl Masterworks Series (all-maple shells) — 22" kick, 8"/10"/12"/14"/16" toms *(upgrade — warmer, more resonant tone for dense Nile arrangements)*
 - **Snare:** Pearl Free-Floating Steel 14"×6.5" *(continued — consistent snare across multiple album cycles)*
-- **Cymbals:** Paiste Signature Series (full configuration) — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China
+- **Cymbals:** Zildjian A Custom Series (full configuration) — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China
 - **Hardware:** Tama Iron Cobra HP900 Double Pedal *(continued — central to his blast beat precision)*
 - **Sticks:** Vic Firth George Kollias Signature *(signature — first GK signature, engineered for extreme blast beat speeds)*
 - **Heads:** Remo Emperor on toms, Powerstroke 3 on kick
@@ -131,9 +131,7 @@ In the modern era, Kollias has refined his setup to an elite standard that refle
 
 - **Tama (drums/hardware)** — 1995–2004 (Greek underground era, budget market)
 - **Pearl (drums)** — 2004–present (professional endorsement, entire Nile career; Reference Series 2005–2008, Masterworks Series 2009–present)
-- **Paiste 2002** — 1995–2004 (Greek underground standard)
-- **Paiste Signature Series** — 2005–2015 (professional cymbal line, succeeded by Zildjian)
-- **Zildjian A Custom Series** — 2015–present (current cymbal partnership)
+- **Zildjian A Custom Series** — since 2005 (continuous cymbal partnership, no brand switch)
 - **Tama Iron Cobra** — 1995–2015 (foundational pedal, succeeded by the Pearl Demon XR)
 - **Pearl Demon XR** — 2015–present (co-designed signature double pedal)
 - **Vic Firth** — 1995–present (no specific signature model documented)

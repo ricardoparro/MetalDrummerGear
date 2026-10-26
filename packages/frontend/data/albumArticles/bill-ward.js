@@ -1096,9 +1096,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Ludwig",
-          "model": "Ludwig 2B Hickory",
-          "notes": "Heavier stick than the Pro-Mark 5A/5B equivalents used on earlier albums, suited to the more aggressive material"
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark Standard (5A or 5B equivalent)",
+          "notes": "Same stick choice as the earlier albums — no change for Sabotage"
         }
       ],
       "heads": {
@@ -1420,8 +1420,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Ludwig",
-          "model": "Ludwig 2B Hickory",
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark Standard (5A or 5B equivalent)",
           "notes": "Same stick choice carried over from Sabotage"
         }
       ],
@@ -1744,8 +1744,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Ludwig",
-          "model": "Ludwig 2B Hickory",
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark Standard (5A or 5B equivalent)",
           "notes": "Same stick choice carried over from Technical Ecstasy and Sabotage"
         }
       ],
@@ -2077,10 +2077,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Various",
-          "model": "2B or similar heavy sticks",
-          "notes": "Heavier sticks for power",
-          "description": "Bill favored heavier sticks in the 2B range, necessary for driving the loud volumes and large cymbals. The extra mass helped him project in an era before in-ear monitors and carefully calibrated PA systems."
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark Standard (5A or 5B equivalent)",
+          "notes": "Pro-Mark endorsement from 1970 onward, no documented switch",
+          "description": "Bill played Pro-Mark sticks in a Standard 5A/5B equivalent model from the debut album onward, with no documented switch to another brand or model across his Black Sabbath career."
         }
       ],
       "heads": {
@@ -2404,9 +2404,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Ludwig",
-          "model": "Ludwig 2B Hickory",
-          "notes": "Heavier stick choice — 2B provides more mass for driving heavy riffs without sacrificing articulation"
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark Standard (5A or 5B equivalent)",
+          "notes": "Pro-Mark endorsement in place from the debut sessions onward"
         },
         {
           "type": "Throne",
@@ -2485,7 +2485,7 @@ export const articles = {
     "faq": [
       {
         "question": "What was Bill Ward's drum kit on Black Sabbath (1970)?",
-        "answer": "Bill Ward recorded Black Sabbath's debut album on a Ludwig Super Classic kit — a compact professional setup consisting of a 20\" bass drum, 12\" and 13\" rack toms, and a 16\" floor tom. The shells were three-ply maple with internal reinforcement rings, typical of late-1960s Ludwig construction. For the snare, Ward used a Ludwig Supra Phonic 14\" aluminum-shell drum, one of the most recorded snare drums in rock history. His cymbals were Super Zyn — his first cymbal setup — including 15\" hi-hats, 18\" and 20\" crashes, and a 22\" ride. The Ludwig Speed King single pedal and Ludwig 2B hickory sticks completed the setup. For a full overview of Ward's career gear across all eras, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit)."
+        "answer": "Bill Ward recorded Black Sabbath's debut album on a Ludwig Super Classic kit — a compact professional setup consisting of a 20\" bass drum, 12\" and 13\" rack toms, and a 16\" floor tom. The shells were three-ply maple with internal reinforcement rings, typical of late-1960s Ludwig construction. For the snare, Ward used a Ludwig Supra Phonic 14\" aluminum-shell drum, one of the most recorded snare drums in rock history. His cymbals were Super Zyn — his first cymbal setup — including 15\" hi-hats, 18\" and 20\" crashes, and a 22\" ride. The Ludwig Speed King single pedal and Pro-Mark Standard (5A or 5B equivalent) sticks completed the setup. For a full overview of Ward's career gear across all eras, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit)."
       },
       {
         "question": "How long did it take to record Black Sabbath?",
@@ -2530,8 +2530,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Ludwig 2B Hickory",
-          "now": "Vic Firth 2B or Promark 2B — same spec, current production"
+          "then": "Pro-Mark Standard (5A or 5B equivalent)",
+          "now": "Pro-Mark Classic 5A Wood Tip"
         }
       ]
     },
@@ -2661,7 +2661,7 @@ export const articles = {
               "name": "What was Bill Ward's drum kit on Black Sabbath (1970)?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Bill Ward recorded Black Sabbath's debut album on a Ludwig Super Classic kit — a 20\" bass drum, 12\" and 13\" rack toms, and a 16\" floor tom — with a Ludwig Supra Phonic snare and Super Zyn cymbals (15\" hi-hats, 18\" and 20\" crashes, 22\" ride). He used a Ludwig Speed King single pedal and Ludwig 2B hickory sticks."
+                "text": "Bill Ward recorded Black Sabbath's debut album on a Ludwig Super Classic kit — a 20\" bass drum, 12\" and 13\" rack toms, and a 16\" floor tom — with a Ludwig Supra Phonic snare and Super Zyn cymbals (15\" hi-hats, 18\" and 20\" crashes, 22\" ride). He used a Ludwig Speed King single pedal and Pro-Mark Standard (5A or 5B equivalent) sticks."
               }
             },
             {

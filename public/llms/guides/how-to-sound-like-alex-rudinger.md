@@ -25,7 +25,7 @@ Rüdinger's Tama Starclassic Performer B/B setup is fully documented on Tama's o
 - **Cymbals:** Meinl Byzance and MB20 Series (specific pieces not itemized on Meinl's artist page)
 - **Pedals:** Tama Speed Cobra (bass drum pedal and hi-hat stand)
 - **Sticks:** Not publicly documented
-- **Heads:** Evans UV EQ4 Coated (kick batter), Evans HD Dry batter / Snare Side 300 with PureSound Super 30 wires (snare), Evans G2 Clear (tom batter), Evans G1 Clear / EQ3-NP Black (resonant)
+- **Heads:** Evans UV EQ4 Coated (kick batter), Evans HD Dry batter / Snare Side 300 (snare), Evans G2 Clear (tom batter), Evans G1 Clear / EQ3-NP Black (resonant)
 
 ## Tuning & Setup
 

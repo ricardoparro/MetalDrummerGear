@@ -1,6 +1,6 @@
 # Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide
 
-> Shannon Larkin's complete drum setup: ddrum Dios Series kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks — the full rig behind Godsmack's hard rock power.
+> Shannon Larkin's complete drum setup: ddrum Dios Series kit, Sabian AAX Series cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks — the full rig behind Godsmack's hard rock power.
 
 **Type:** Kit Breakdown
 **Drummer(s):** [Shannon Larkin](/llms/drummers/shannon-larkin.md)
@@ -13,15 +13,15 @@ Shannon Larkin has been the drummer for Godsmack since 2002 — one of the most 
 
 Born on April 24, 1967, in Baltimore, Maryland, Larkin built his professional foundation with Wrathchild America (thrash metal, 1989) and Ugly Kid Joe (whose "Everything About You" became a worldwide hit in 1992), arriving in the Godsmack lineup with more than a decade of professional experience already behind him. That experience shows in his playing: disciplined, punishing where the music demands it, and always locked into the groove that makes Godsmack's brand of heavy rock so immediately identifiable.
 
-His setup centers on ddrum Dios Series drums with a Ddrum Shannon Larkin Signature snare, Sabian AAX and HHX cymbals, DW 9000 double bass pedals, and Vic Firth American Classic 5B sticks. Every element is selected for durability and performance under the demands of a global touring schedule — Godsmack has never been a studio-only band, and Larkin's kit reflects that road-first philosophy.
+His setup centers on ddrum Dios Series drums with a Ddrum Shannon Larkin Signature snare, Sabian AAX Series cymbals, DW 9000 double bass pedals, and Vic Firth American Classic 5B sticks. Every element is selected for durability and performance under the demands of a global touring schedule — Godsmack has never been a studio-only band, and Larkin's kit reflects that road-first philosophy.
 
-This article breaks down every major component of Shannon Larkin's drum setup: the Ddrum shell configuration, the Sabian cymbal selection, the DW 9000 foot hardware, and the evolution of his gear across Godsmack's catalog from *Faceless* (2003) through *Lighting Up the Sky* (2023).
+This article breaks down every major component of Shannon Larkin's drum setup: the Ddrum shell configuration, the Sabian cymbal selection, and the DW 9000 foot hardware that have remained consistent across Godsmack's catalog from *Faceless* (2003) through *Lighting Up the Sky* (2023).
 
 ## Gear Breakdown
 
 - **Drums:** Ddrum ddrum Dios Series (Custom finishes for touring configurations finish)
 - **Snare:** Ddrum Ddrum Shannon Larkin Signature, 14" x 6.5"
-- **Cymbals:** Sabian — Sabian AAX and HHX Series
+- **Cymbals:** Sabian — Sabian AAX Series
 - **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vic Firth American Classic 5B; Pork Pie Big Boy; Evans G2 Coated / EC2; Evans EMAD
 - **Heads:** Evans G2 Coated (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium-high for cut and projection through Godsmack's dense guitar mix
@@ -46,15 +46,15 @@ Larkin typically tunes the snare at medium-high tension, prioritizing cut and pr
 
 The signature collaboration with Ddrum made this snare one of the more visible products in Ddrum's artist endorsement portfolio — a model that reflected the commercial reach of Godsmack's audience during the band's commercial peak in the mid-to-late 2000s.
 
-### Sabian AAX and HHX: Power and Complexity
+### Sabian AAX: One Series, Full Tonal Range
 
-Shannon Larkin's Sabian setup is a classic dual-series configuration: the aggressive, bright character of the AAX line for hi-hats, crashes, and effects, paired with the more complex, traditional voice of the HHX series for his primary ride. This combination gives him a setup that speaks with cutting aggression in heavy passages while retaining tonal complexity for the more dynamic, sonically varied arrangements in Godsmack's catalog.
+Shannon Larkin's Sabian setup is built entirely on the AAX line — a single-series configuration that covers hi-hats, crashes, ride, splash, and china without reaching for a second cymbal family. The AAX series' machine-hammered consistency delivers the bright, fast-speaking character that cuts through Godsmack's dense, down-tuned guitar mix across every section of the band's live and studio sets.
 
 The 14" AAX Stage Hi-Hats are the rhythmic engine of Larkin's playing. AAX cymbals are machine-hammered for consistency and feature a bright, focused, fast-responding character — ideal for the driving eighth-note and quarter-note hi-hat patterns that push Godsmack's rock grooves forward. The Stage Hat's heavier bottom cymbal ensures stability during aggressive foot and stick work, and the bright attack cuts through the band's down-tuned guitar frequencies without any difficulty.
 
 His crash configuration — 18" and 19" AAX X-Plosion Crashes — provides two distinct accent voices. The 18" speaks fast and cleanly for punctuating transitions and fills; the 19" provides a larger, more resonant crash for section-ending explosions and dynamic peaks. Both cymbals' aggressive X-Plosion construction (extra-wide bow, lathing for faster response) makes them well-suited to hard rock environments where crash cymbals need to speak instantly and clearly.
 
-The Sabian HHX 21" Raw Bell Dry Ride brings a contrasting voice: hand-hammered and dark, the HHX series produces a more complex, nuanced tone with lower fundamental and more overtone complexity than the AAX line. The "Raw Bell Dry" configuration — untreated bell, dry, controlled wash — gives Larkin a ride cymbal that can serve as either a clean riding surface or a large crash when driven hard.
+The 21" AAX Raw Bell Dry Ride anchors his time-keeping: an untreated bell and dry, controlled wash give Larkin a ride cymbal that can serve as either a clean riding surface or a large crash when driven hard, without departing from the AAX line's bright, machine-hammered voice.
 
 The 10" AAX Splash and 18" AAX Chinese round out the setup: the splash for quick, precise accents within fills; the China for the aggressive, upward-projecting trashy attack that punctuates Godsmack's heaviest transitions.
 
@@ -62,13 +62,13 @@ The 10" AAX Splash and 18" AAX Chinese round out the setup: the splash for quick
 
 Shannon Larkin has spent more than twenty years as Godsmack's drummer — a tenure that spans seven studio albums, multi-platinum commercial success, and some of the largest stages in American hard rock. That longevity is itself a statement about what his gear and approach deliver: consistent, reliable, powerful drumming that serves the band's music exactly as well in arena 200 as it did in 2003.
 
-His ddrum Dios Series kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks are not flashy or trend-chasing choices. They are road-tested selections from an experienced professional who understands that gear exists to serve performance — and that the best gear for a global touring drummer is gear that sounds great and never lets you down.
+His ddrum Dios Series kit, Sabian AAX Series cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks are not flashy or trend-chasing choices. They are road-tested selections from an experienced professional who understands that gear exists to serve performance — and that the best gear for a global touring drummer is gear that sounds great and never lets you down.
 
 Every piece of the Shannon Larkin rig reflects that priority:
 
 - **ddrum Dios Series**: Road-grade shells with focused, punchy tone for hard rock arena environments
 - **Ddrum Shannon Larkin Signature Snare**: Custom 14" x 6.5" steel snare for the crack that defines Godsmack's backbeat
-- **Sabian AAX/HHX**: Bright, fast, dynamic — cymbals that project in 20,000-seat venues without compromising tonal complexity
+- **Sabian AAX Series**: Bright, fast, dynamic — cymbals that project in 20,000-seat venues without compromising tonal complexity
 - **DW 9000 Double Pedal**: Industry-standard chain-drive precision for Godsmack's groove-first double-kick approach
 - **Vic Firth American Classic 5B**: Balanced mass and control for hard rock power across extended touring sets
 
@@ -87,7 +87,7 @@ Shannon Larkin arrived at Godsmack with a resume built on professional gigs acro
 - Godsmack's drummer since 2002 — first album: Faceless (2003)
 - ddrum Dios Series kit — Ddrum signature artist since the mid-2000s
 - Ddrum Shannon Larkin Signature snare, 14" x 6.5"
-- Sabian AAX and HHX series cymbals — 14" Stage Hi-Hats, X-Plosion Crashes, HHX Raw Bell Dry Ride
+- Sabian AAX Series cymbals — 14" Stage Hi-Hats, X-Plosion Crashes, Raw Bell Dry Ride
 - DW 9000 Series double bass pedal for Godsmack's driving hard rock rhythms
 - Vic Firth American Classic 5B sticks
 - Former member of Ugly Kid Joe and Wrathchild America
@@ -107,7 +107,7 @@ A: Shannon Larkin plays ddrum Dios Series drums as his primary touring kit with 
 
 **Q: What cymbals does Shannon Larkin play?**
 
-A: Shannon Larkin plays Sabian AAX and HHX series cymbals. His setup includes Sabian AAX 14" Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a Sabian HHX 21" Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal. The dual-series configuration combines the bright, fast-responding aggressive character of the AAX line for hi-hats and crashes with the more complex, dark voice of the HHX series for his ride cymbal — providing full tonal coverage for Godsmack's dynamic hard rock arrangements.
+A: Shannon Larkin plays Sabian AAX Series cymbals exclusively. His setup includes a 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" AAX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal. The single-series configuration delivers the bright, fast-responding, machine-hammered character of the AAX line across hi-hats, crashes, ride, splash, and china — providing full tonal coverage for Godsmack's dynamic hard rock arrangements.
 
 **Q: How does Shannon Larkin tune his drums for the Godsmack sound?**
 

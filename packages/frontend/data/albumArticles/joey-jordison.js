@@ -1722,8 +1722,8 @@ export const articles = {
         ],
         "description": "After leaving Slipknot, Joey focused on new projects while battling health issues.",
         "gear": {
-          "drums": "SJC Custom Drums",
-          "snare": "SJC Custom 14x6.5\"",
+          "drums": "Pearl Reference Series",
+          "snare": "Pearl Joey Jordison Signature 13x6.5\"",
           "cymbals": "Paiste RUDE Series",
           "hardware": "Pearl Demon Drive Pedals"
         },

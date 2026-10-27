@@ -170,7 +170,7 @@ A: Charlie Benante uses Evans drumheads across his Tama Starclassic drum kit and
 - Creates Anthrax's album artwork and T-shirt designs
 - Massive collector of Jaws (1975 film) merchandise; featured in "The Shark Is Still Working" documentary
 - Bassist Frank Bello is his nephew (Benante's mother was Bello's grandmother)
-- Used same Tama Camco pedals from 1984 until their discontinuation in 2010
+- Used same Tama Camco pedals from 1984 until their discontinuation in 2013
 - Joined Pantera reunion in 2022 to honor close friend Vinnie Paul
 - Released solo album "Silver Linings" during COVID lockdowns
 - Born and raised in The Bronx, New York

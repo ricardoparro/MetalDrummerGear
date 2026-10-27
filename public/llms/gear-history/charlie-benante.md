@@ -47,12 +47,12 @@
 - **Inflation-adjusted to 2026:** ~$10,500
 - **Notable:** Sound of White Noise (1993), Stomp 442 (1995), and Volume 8 (1998) were all recorded on the same Tama and Paiste setup as the rest of Benante's career — there was no DW or Sabian switch during the John Bush groove-metal years.
 
-### Tama Starclassic Era (2003–2010)
+### Tama Starclassic Era (2003–2013)
 
 - **Drums:** Tama Starclassic Maple — all-maple, Star-Cast mounting, dual 22"x18" kicks, 10"/12"/13" racks, 14"/16" floors
 - **Snare:** Tama Starclassic Steel 14"x6.5"
 - **Cymbals:** Paiste 2002 / RUDE Series — 14" hi-hats, 16"/18" crashes, 19" crash-ride, 22" ride, 18" China
-- **Pedal:** Tama HP35 Camco double pedal — same 1984 pedal, unchanged until 2010
+- **Pedal:** Tama HP35 Camco double pedal — same 1984 pedal, unchanged until 2013
 - **Sticks:** Vic Firth 2B
 - **Heads:** Evans EQ3 Clear / G2 Coated / G1 Coated — switched to Evans in the 2000s
 - **Original setup cost (2003):** ~$7,500
@@ -64,7 +64,7 @@
 - **Drums:** Tama Starclassic Maple — all-maple, dual 22"x18" kicks, three rack toms, two floor toms
 - **Snare:** Tama Charlie Benante Signature 14"x6.5" — his first true signature snare
 - **Cymbals:** Paiste 2002 / Signature / RUDE Series
-- **Pedal:** Tama Speed Cobra HP910LN double pedal — retired the 1984 Camco pedal in 2010
+- **Pedal:** Tama Speed Cobra HP910LN double pedal — retired the 1984 Camco pedal in 2013
 - **Sticks:** Vic Firth Charlie Benante Signature / 2B
 - **Heads:** Evans EQ3 Clear / G2 Coated / G1 Coated
 - **Original setup cost (2011):** ~$9,500
@@ -75,10 +75,10 @@
 
 ## Key Gear Changes
 
-- **1984:** Adopted the Tama HP35 Camco double pedal — used continuously for 26 years
+- **1984:** Adopted the Tama HP35 Camco double pedal — used continuously for 29 years
 - **2003:** Upgraded from Tama Artstar Custom to Tama Starclassic Maple (We've Come for You All) — an upgrade within the same Tama endorsement, not a brand switch
-- **2010:** Retired the Tama HP35 Camco pedal for a Tama Speed Cobra
 - **2011:** First signature gear — Tama Charlie Benante Signature snare and Vic Firth signature sticks
+- **2013:** Retired the Tama HP35 Camco pedal for a Tama Speed Cobra
 - **1983–present:** Tama drums and Paiste cymbals, continuously — Benante has never had a Pearl, Sabian, or DW endorsement
 
 ---
@@ -95,7 +95,7 @@ A: Charlie Benante currently plays a Tama Starclassic Maple kit, paired with his
 A: No. Benante has been a continuous Tama drums / Paiste cymbals endorser since joining Anthrax in 1983, renewed in 2022 for the Pantera reunion tour. He has never had a Pearl, Sabian, or DW endorsement — his kit has upgraded within the Tama line (Artstar → Artstar II → Artstar Custom → Starclassic Maple) rather than switching brands.
 
 **Q: What double bass pedal does Charlie Benante use?**  
-A: Benante played a Tama HP35 Camco chain-drive double pedal continuously from 1984 through 2010, before switching to the modern Tama Speed Cobra when Tama phased out the Camco model.
+A: Benante played a Tama HP35 Camco chain-drive double pedal continuously from 1984 through 2013, before switching to the modern Tama Speed Cobra when Tama phased out the Camco model.
 
 ---
 

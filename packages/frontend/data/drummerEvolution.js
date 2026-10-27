@@ -15955,10 +15955,10 @@ export const DRUMMER_EVOLUTION = {
       {
         id: 'charlie-benante-2003-return-to-tama',
         era: 'Tama Starclassic Era',
-        years: '2003-2010',
+        years: '2003-2013',
         startYear: 2003,
-        endYear: 2010,
-        description: 'We\'ve Come for You All (2003) marked Benante\'s upgrade to the Tama Starclassic Maple line, staying on the Tama and Paiste setup he\'d used his entire career, and was recorded in the shadow of 9/11 with guest spots from Roger Daltrey and Dimebag Darrell. Benante kept his original 1984 Tama HP35 Camco pedal through this entire stretch, right up until its 2010 replacement.',
+        endYear: 2013,
+        description: 'We\'ve Come for You All (2003) marked Benante\'s upgrade to the Tama Starclassic Maple line, staying on the Tama and Paiste setup he\'d used his entire career, and was recorded in the shadow of 9/11 with guest spots from Roger Daltrey and Dimebag Darrell. Benante kept his original 1984 Tama HP35 Camco pedal through this entire stretch, right up until its 2013 replacement.',
         albums: ['We\'ve Come for You All (2003)'],
         tours: ['We\'ve Come for You All Tour 2003-2004'],
         image: null,
@@ -15985,7 +15985,7 @@ export const DRUMMER_EVOLUTION = {
           hardware: {
             item: 'Tama HP35 Camco Double Pedal',
             details: 'Same 1984 chain-drive pedal, unchanged',
-            notes: 'Seven years before the 2010 Speed Cobra switch, still the same pedal he adopted for Spreading the Disease.',
+            notes: 'Ten years before the 2013 Speed Cobra switch, still the same pedal he adopted for Spreading the Disease.',
             change: null,
           },
           sticks: {
@@ -16025,7 +16025,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2011-Present',
         startYear: 2011,
         endYear: 2026,
-        description: 'Worship Music (2011) reunited Anthrax\'s classic lineup with John Bush\'s successor Joey Belladonna, followed by For All Kings (2016) and Benante\'s solo pandemic album Silver Linings (2021). After finally retiring his 1984 Camco pedal for a Tama Speed Cobra in 2010, Benante rounded out a modern signature-model rig — and in 2022 began touring with the reunited Pantera, filling in for his late friend Vinnie Paul.',
+        description: 'Worship Music (2011) reunited Anthrax\'s classic lineup with John Bush\'s successor Joey Belladonna, followed by For All Kings (2016) and Benante\'s solo pandemic album Silver Linings (2021). After finally retiring his 1984 Camco pedal for a Tama Speed Cobra in 2013, Benante rounded out a modern signature-model rig — and in 2022 began touring with the reunited Pantera, filling in for his late friend Vinnie Paul.',
         albums: ['Worship Music (2011)', 'For All Kings (2016)', 'Silver Linings (2021, solo)'],
         tours: ['Big Four Tours 2010-2011', 'For All Kings World Tour 2016-2017', 'Pantera Reunion Tour 2022-Present'],
         image: null,
@@ -16052,7 +16052,7 @@ export const DRUMMER_EVOLUTION = {
           hardware: {
             item: 'Tama Speed Cobra HP910LN Double Pedal',
             details: 'Two single pedals, direct-drive',
-            notes: 'Finally retired the 1984 HP35 Camco pedal in 2010 after Tama phased it out, switching to the modern Speed Cobra.',
+            notes: 'Finally retired the 1984 HP35 Camco pedal in 2013 after Tama phased it out, switching to the modern Speed Cobra.',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
@@ -16077,7 +16077,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Worship Music (2011) reunites Anthrax\'s classic lineup with Joey Belladonna',
-          'Retired the 1984 Tama HP35 Camco pedal for a Tama Speed Cobra in 2010',
+          'Retired the 1984 Tama HP35 Camco pedal for a Tama Speed Cobra in 2013',
           'First signature gear: Tama Charlie Benante snare and Vic Firth signature sticks',
           'Joined the reunited Pantera as touring drummer in 2022, honoring Vinnie Paul',
           'Released solo album Silver Linings (2021) during the pandemic',
@@ -16099,7 +16099,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What pedal did Charlie Benante use for over two decades?',
-        a: 'Charlie Benante played a vintage Tama HP35 Camco chain-drive double pedal continuously from 1984 through 2010, before Tama phased out the Camco model and he switched to the modern Tama Speed Cobra.',
+        a: 'Charlie Benante played a vintage Tama HP35 Camco chain-drive double pedal continuously from 1984 through 2013, before Tama phased out the Camco model and he switched to the modern Tama Speed Cobra.',
       },
       {
         q: 'What is Charlie Benante\'s current drum setup?',
@@ -16112,7 +16112,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Charlie Benante Gear Evolution Timeline | Anthrax Drum Kit History',
-    metaDescription: 'Explore Charlie Benante\'s complete drum gear evolution: Tama Artstar → Tama Artstar II on Among the Living (1987) → continued Tama/Paiste through the 90s groove-metal era → the modern Tama/Paiste signature rig. Includes the 1984-2010 Camco pedal and his 2022 Pantera reunion tour.',
+    metaDescription: 'Explore Charlie Benante\'s complete drum gear evolution: Tama Artstar → Tama Artstar II on Among the Living (1987) → continued Tama/Paiste through the 90s groove-metal era → the modern Tama/Paiste signature rig. Includes the 1984-2013 Camco pedal and his 2022 Pantera reunion tour.',
   },
 
   // ==========================================

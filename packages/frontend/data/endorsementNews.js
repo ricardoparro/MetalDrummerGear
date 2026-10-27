@@ -1887,6 +1887,14 @@ export const ENDORSEMENT_TIMELINE = {
       {
         year: 2018,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: null,
+        to: 'Pearl',
+        notes: 'Adopted Pearl\'s Demon Drive Double Pedal as part of the same hardware changeover that brought the Pearl Reference Pure kit',
+      },
+      {
+        year: 2018,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.STICKS,
         from: null,
         to: 'ProMark',

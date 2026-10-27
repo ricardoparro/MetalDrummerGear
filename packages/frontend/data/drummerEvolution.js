@@ -8122,18 +8122,18 @@ export const DRUMMER_EVOLUTION = {
     slug: 'daniel-erlandsson',
     name: 'Daniel Erlandsson',
     band: 'Arch Enemy',
-    totalYearsActive: '1996-Present',
+    totalYearsActive: '1995-Present',
     profileImage: '/images/drummers/daniel-erlandsson.webp',
-    summary: 'Daniel Erlandsson joined Arch Enemy in 1996 and has been the rhythmic backbone of Gothenburg melodic death metal ever since — evolving from budget touring kits to Pearl Reference Pure endorsement setups across a 30-year career. Brother of Adrian Erlandsson (At the Gates).',
+    summary: 'Daniel Erlandsson joined Arch Enemy in 1995 and has been the rhythmic backbone of Gothenburg melodic death metal ever since — evolving from budget touring kits to Pearl Reference Pure endorsement setups across a 30-year career. Brother of Adrian Erlandsson (At the Gates).',
 
     eras: [
       {
         id: 'daniel-erlandsson-2001-wages',
         era: 'Wages of Sin / Anthems Era',
-        years: '1996-2004',
-        startYear: 1996,
+        years: '1995-2004',
+        startYear: 1995,
         endYear: 2004,
-        description: 'Daniel joined Arch Enemy in 1996 as drummer; Wages of Sin (2001) marked the band\'s breakthrough into the international melodic death metal scene. Early touring kits reflected a working-band budget — functional, road-ready, and suited to the high-speed Gothenburg sound.',
+        description: 'Daniel joined Arch Enemy in 1995 as a founding drummer; Wages of Sin (2001) marked the band\'s breakthrough into the international melodic death metal scene. Early touring kits reflected a working-band budget — functional, road-ready, and suited to the high-speed Gothenburg sound.',
         albums: ['Wages of Sin (2001)', 'Anthems of Rebellion (2003)'],
         tours: ['Wages of Sin European Tour 2001', 'Anthems of Rebellion World Tour 2003-2004'],
         image: null,

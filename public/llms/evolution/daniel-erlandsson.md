@@ -10,13 +10,13 @@ last_updated: "2026-06-29"
 
 # Daniel Erlandsson Drum Kit Evolution — Complete Timeline
 
-Daniel Erlandsson joined Arch Enemy in 1999 and has been the rhythmic backbone of Gothenburg melodic death metal ever since. Brother of Adrian Erlandsson (At the Gates), Daniel evolved from budget touring kits to a Pearl Reference Pure signature setup across a 25-year career spanning six studio albums and multiple world tours. This timeline documents every major equipment era, era by era.
+Daniel Erlandsson joined Arch Enemy in 1995 and has been the rhythmic backbone of Gothenburg melodic death metal ever since. Brother of Adrian Erlandsson (At the Gates), Daniel evolved from budget touring kits to a Pearl Reference Pure signature setup across a 30-year career spanning six studio albums and multiple world tours. This timeline documents every major equipment era, era by era.
 
 See also: [Daniel Erlandsson drummer profile](/llms/drummers/daniel-erlandsson.md)
 
 ---
 
-## Wages of Sin / Anthems of Rebellion Era (1999–2004)
+## Wages of Sin / Anthems of Rebellion Era (1995–2004)
 
 **Albums:** Wages of Sin (2001), Anthems of Rebellion (2003)
 **Tours:** Wages of Sin European Tour 2001, Anthems of Rebellion World Tour 2003–2004
@@ -95,7 +95,7 @@ The Pearl Reference Pure era. Daniel secured a full Pearl endorsement built arou
 
 | Era | Years | Kit Cost (Original) | Inflation-Adjusted |
 |---|---|---|---|
-| Wages of Sin / Anthems Era | 1999–2004 | $3,500 | ~$6,500 |
+| Wages of Sin / Anthems Era | 1995–2004 | $3,500 | ~$6,500 |
 | Doomsday Machine / Rise of the Tyrant | 2005–2009 | $8,000 | ~$13,000 |
 | Khaos Legions / War Eternal Era | 2010–present | $14,000 | ~$18,000 |
 
@@ -103,10 +103,10 @@ The Pearl Reference Pure era. Daniel secured a full Pearl endorsement built arou
 
 ## Gear Brand Partnerships Timeline
 
-- **Pearl Export / Session** — 1999–2004 (founding era, road survival)
+- **Pearl Export / Session** — 1995–2004 (founding era, road survival)
 - **Zildjian A Custom** — 2005–present (career-long cymbal constant)
 - **Pearl Session Studio Select** — 2005–2009 (first professional endorsement)
-- **Pearl Eliminator / Eliminator Redline** — 1999–present (pedal constant throughout career)
+- **Pearl Eliminator / Eliminator Redline** — 1995–present (pedal constant throughout career)
 - **Pearl Reference Pure** — 2010–present (definitive endorsement)
 
 ---

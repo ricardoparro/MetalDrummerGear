@@ -71,49 +71,47 @@ The reinvention. *Cowboys from Hell* (1990) discarded everything from Pantera's 
 **Albums:** Vulgar Display of Power (1992), Far Beyond Driven (1994)
 **Tours:** Vulgar Display World Tour; Far Beyond Driven World Tour — headlining arenas worldwide
 
-Pantera's commercial and artistic peak. *Vulgar Display of Power* defined aggressive groove metal for a generation. *Far Beyond Driven* debuted at #1 on the Billboard 200 — unprecedented for music of this heaviness. Vinnie's drumming on these records remains the definitive template for groove metal — particularly the signature deep snare crack that cut through Dimebag's saturated guitar tone.
+Pantera's commercial and artistic peak. *Vulgar Display of Power* defined aggressive groove metal for a generation. *Far Beyond Driven* debuted at #1 on the Billboard 200 — unprecedented for music of this heaviness. Vinnie's drumming on these records remains the definitive template for groove metal — still on the Tama kit he'd played since *Cowboys from Hell*.
 
-- **Drums:** Pearl Masters Custom — maple shells: dual 24" kicks, 10"/12"/14"/16"/18" toms *(switch — warmer maple tone for Terry Date's arena production)*
-- **Snare:** Pearl Free-Floating 14"×8" steel — unusual 8" depth for maximum body *(switch — the defining Vinnie Paul snare sound; 8" depth unique in groove metal)*
+- **Drums:** Tama Artstar II — birch shells: dual 24" kicks, 10"/12"/13"/14"/16"/18" toms *(continued)*
+- **Snare:** Tama Artstar II 14"×6.5" birch, die-cast hoops *(continued)*
 - **Cymbals:** Sabian AAX / HHX — 14" AAX Metal hi-hats, 18"/19"/20" crashes, 22" HHX ride, 20" China *(upgrade — added HHX models for drier, more defined articulation)*
-- **Hardware:** Pearl Eliminator Double Pedal + dual physical 24" kicks
+- **Hardware:** Tama Iron Cobra double pedal + dual physical 24" kicks
 - **Sticks:** Vic Firth American Classic 5B, backward grip (continued)
 - **Heads:** Remo Powerstroke 3 on kicks, Emperor on toms *(switch — Powerstroke 3 for controlled, punchy bass drum tone)*
 - **Electronics:** ddrum triggers on kicks *(new — arena-scale consistency for massive bass drum levels)*
-- **Estimated kit cost (original):** ~$18,000
+- **Estimated kit cost (original):** ~$14,000
 
 **Key developments:**
-- Brand switch to Pearl Masters Custom — maple warmth + attack combination
-- Signature 14"×8" deep steel snare — the most recognizable snare sound in groove metal
+- Continued on Tama Artstar II through Pantera's two biggest-selling albums
 - *Far Beyond Driven* (1994) — #1 Billboard debut, unprecedented for heavy metal
 - ddrum kick triggers added for arena-scale live sound
-- Pearl Eliminator replaces Tama Iron Cobra for double bass work
-
-> "Walk, 5 Minutes Alone, Fucking Hostile — that snare had to cut through Dime's guitar like a whip. The 8" depth gave me everything I needed. People heard that crack and knew it was us." — *Modern Drummer Interview, 1994*
 
 ---
 
-## Later Pantera / Hellyeah Era (1996–2018)
+## Great Southern Trendkill / Pearl Era (1996–2018)
 
 **Albums:** The Great Southern Trendkill (1996), Reinventing the Steel (2000), Hellyeah (2008), Band of Brothers (2012), Blood for Blood (2014), Hell of a Time (2016)
 **Tours:** Great Southern Trendkill Tour; Reinventing the Steel Tour; Hellyeah multiple world tours
 
-The final chapters. *The Great Southern Trendkill* and *Reinventing the Steel* completed the Pantera catalog. After Dimebag's murder on stage December 8, 2004 — witnessed by Vinnie — he eventually returned to music with Hellyeah in 2006. The ddrum Vinnie Paul Signature Series was his final, definitive setup until his passing on June 22, 2018. An irreplaceable figure in heavy metal.
+The final chapters. Vinnie moved from Tama to Pearl drums starting with *The Great Southern Trendkill*, a setup that carried through *Reinventing the Steel* and into the early Hellyeah years before his move to ddrum. After Dimebag's murder on stage December 8, 2004 — witnessed by Vinnie — he eventually returned to music with Hellyeah in 2006. The ddrum Vinnie Paul Signature Series was his final, definitive setup until his passing on June 22, 2018. An irreplaceable figure in heavy metal.
 
-- **Drums:** ddrum Vinnie Paul Signature Series — Custom Black Lacquer: dual 24" kicks, 10"/12"/14"/16"/18" toms *(signature — definitive kit of the final era; custom-built for his specifications)*
-- **Snare:** ddrum Vinnie Paul Signature Snare 14"×8" maple *(signature — maintained the 8" depth that defined his career sound)*
+- **Drums:** Pearl Masters Custom — maple shells: dual 24" kicks, 10"/12"/14"/16"/18" toms *(switch — warmer maple tone, 1996)*; later **ddrum Vinnie Paul Signature Series** — Custom Black Lacquer *(signature — definitive kit of the final era; custom-built for his specifications)*
+- **Snare:** Pearl Free-Floating 14"×8" steel — unusual 8" depth for maximum body *(switch — the defining Vinnie Paul snare sound; 8" depth unique in groove metal)*; later **ddrum Vinnie Paul Signature Snare** 14"×8" maple *(signature — maintained the 8" depth)*
 - **Cymbals:** Sabian AAX / HHX — 14" AAX Metal hi-hats, 18"/19"/20" crashes, 22" HHX Raw Bell Dry Ride, 20" China *(continued — Sabian across entire career)*
-- **Hardware:** ddrum Heavy-Duty Hardware + ddrum Vinnie Paul Signature Throne *(switch — matched ddrum endorsement package)*
+- **Hardware:** Pearl Eliminator Double Pedal + dual physical 24" kicks; later **ddrum Heavy-Duty Hardware + ddrum Vinnie Paul Signature Throne** *(switch — matched ddrum endorsement package)*
 - **Sticks:** Vic Firth American Classic 5B, backward grip (continued for entire career — never changed)
-- **Heads:** Evans EC Reverse Dot on snare batter, Hazy 300 snare side *(switch — Evans for controlled attack and consistent snare crack)*
+- **Heads:** Remo Powerstroke 3 on kicks, Emperor on toms, then Evans EC Reverse Dot on snare batter, Hazy 300 snare side *(switch — Evans for controlled attack and consistent snare crack)*
 - **Electronics:** ddrum full trigger system on kicks and snare *(upgrade — integrated with signature kit for live and studio use)*
 - **Estimated kit cost (original):** ~$20,000
 
 **Key developments:**
-- ddrum Vinnie Paul Signature Series — the definitive Vinnie Paul kit
+- Brand switch to Pearl Masters Custom in 1996 — maple warmth + attack combination, debuting on *The Great Southern Trendkill*
+- Signature 14"×8" deep steel snare — the most recognizable snare sound in groove metal
+- Pearl Eliminator replaces Tama Iron Cobra for double bass work
+- ddrum Vinnie Paul Signature Series — the definitive Vinnie Paul kit from ~2008
 - Dimebag Darrell murdered on stage, December 8, 2004 — Vinnie witnessed it; Pantera effectively ended
 - Hellyeah formed 2006 — Vinnie returns to performing after unimaginable loss
-- Full ddrum hardware, triggers, and signature snare integration
 - Vinnie Paul passes away June 22, 2018, aged 54 — reunited with Dimebag and their mother in Arlington, Texas
 
 > "Every night I play, I play for Dime. That's never going to change. The music goes on because that's what he would have wanted." — *Hellyeah Interview, Metal Hammer, 2008*
@@ -126,16 +124,16 @@ The final chapters. *The Great Southern Trendkill* and *Reinventing the Steel* c
 |---|---|---|---|
 | Glam / Early Pantera Era | 1981–1989 | $4,000 | ~$9,000 |
 | Cowboys from Hell Era | 1990–1991 | $12,000 | ~$27,000 |
-| Vulgar Display / Far Beyond Driven Era | 1992–1995 | $18,000 | ~$37,000 |
-| Later Pantera / Hellyeah Era | 1996–2018 | $20,000 | ~$25,000 |
+| Vulgar Display / Far Beyond Driven Era | 1992–1995 | $14,000 | ~$29,000 |
+| Great Southern Trendkill / Pearl Era | 1996–2018 | $20,000 | ~$25,000 |
 
 ---
 
 ## Gear Brand Partnerships Timeline
 
 - **Tama Imperialstar** — 1981–1989 (founding glam era)
-- **Tama Artstar II** — 1990–1991 (Cowboys from Hell era — groove metal launch)
-- **Pearl Masters Custom** — 1992–~2008 (Vulgar Display era through early Hellyeah)
+- **Tama Artstar II** — 1990–1996 (Cowboys from Hell through Vulgar Display and Far Beyond Driven)
+- **Pearl Masters Custom** — 1996–~2008 (The Great Southern Trendkill through early Hellyeah)
 - **ddrum Vinnie Paul Signature Series** — ~2008–2018 (definitive final kit)
 - **Sabian AA/AAX/HHX** — 1981–2018 (entire career, glam era through Hellyeah)
 - **Vic Firth American Classic 5B (backward grip)** — 1981–2018 (lifelong stick choice and technique)
@@ -149,13 +147,13 @@ The final chapters. *The Great Southern Trendkill* and *Reinventing the Steel* c
 A: For *Cowboys from Hell* (1990), Vinnie played a Tama Artstar II with birch shells — dual 24" kick drums, and toms in 10", 12", 13", 14", 16", and 18" sizes. Cymbals were Sabian AAX. This was the album where the dual 24" kick configuration became Vinnie's signature.
 
 **Q: What drum kit did Vinnie Paul use on Vulgar Display of Power?**
-A: *Vulgar Display of Power* (1992) was recorded with a Pearl Masters Custom — maple shells, dual 24" kicks — and the signature 14"×8" deep steel snare that defined Vinnie's sound. Cymbals were Sabian AAX/HHX. The ddrum triggers on the kick drums made their first appearance in this era.
+A: *Vulgar Display of Power* (1992) was recorded on the same Tama Artstar II kit Vinnie debuted on *Cowboys from Hell* — birch shells, dual 24" kicks. Cymbals were Sabian AAX/HHX. The ddrum triggers on the kick drums made their first appearance in this era. Vinnie didn't move to Pearl until 1996, with *The Great Southern Trendkill*.
 
 **Q: Why did Vinnie Paul play sticks backwards?**
 A: Vinnie Paul's signature technique was holding his drumsticks backwards — grip end where most drummers hold the taper — to deliver maximum power and a uniquely weighted feel. This approach was his from the very beginning of his career and never changed. The heavier end of the stick hitting the drum surface produced his characteristically massive, authoritative stroke.
 
 **Q: What was Vinnie Paul's snare drum?**
-A: Vinnie's most iconic snare was the 14"×8" deep steel snare — first Pearl Free-Floating in the Vulgar Display era, then the ddrum Vinnie Paul Signature Snare in his later years. The 8" depth — twice the standard snare depth — gave his snare the massive, chest-thumping crack that could cut through Dimebag's saturated guitar wall.
+A: Vinnie's most iconic snare was the 14"×8" deep steel snare — first Pearl Free-Floating starting in 1996, then the ddrum Vinnie Paul Signature Snare in his later years. The 8" depth — twice the standard snare depth — gave his snare the massive, chest-thumping crack that could cut through Dimebag's saturated guitar wall.
 
 **Q: What cymbals did Vinnie Paul use?**
 A: Vinnie was loyal to Sabian for his entire career. His primary cymbals were from the Sabian AAX series (bright and cutting for rock volumes) with HHX models added later. His setup consistently featured 14" AAX Metal hi-hats, large crashes (18"–20"), and a 20" China cymbal.

@@ -5130,10 +5130,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating 14"×8"',
-            details: 'Deep steel shell — 8" depth for maximum body',
-            notes: 'The unusually deep 8" snare — significantly deeper than standard — gave Vinnie the massive, chest-thumping snare crack that sat perfectly in Dimebag\'s massive guitar wall. No snare in groove metal sounded like it.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Artstar II 14"×6.5"',
+            details: 'Birch shell, die-cast hoops',
+            notes: 'Carried over from Cowboys from Hell — the deep birch shell gave Vinnie the body that sat perfectly in Dimebag\'s massive guitar wall. The signature 8" Pearl snare didn\'t arrive until the 1996 brand switch.',
+            change: null,
           },
           cymbals: {
             item: 'Sabian AAX / HHX',
@@ -5142,10 +5142,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Pearl Eliminator Double Pedal + dual kick',
+            item: 'Tama Iron Cobra Double Pedal + dual kick',
             details: 'Both physical kicks AND double pedal option available',
             notes: 'Maintained dual physical kick drums for live shows. The visual and sonic impact of two 24" bass drums was non-negotiable for Pantera\'s arena productions.',
-            change: CHANGE_TYPES.UPGRADE,
+            change: null,
           },
           sticks: {
             item: 'Vic Firth American Classic 5B (backwards)',
@@ -5175,16 +5175,10 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Tama kit carried over from Cowboys from Hell — Pearl switch still years away',
-          'Signature 14"×8" deep steel snare — no snare sounded like it',
           'Far Beyond Driven (1994) debuts at #1 on Billboard',
           'ddrum triggers added for arena-scale live sound',
           'Groove metal drum vocabulary fully established — copied by thousands',
         ],
-
-        quote: {
-          text: "Walk, 5 Minutes Alone, Fucking Hostile — that snare had to cut through Dime\'s guitar like a whip. The 8\" depth gave me everything I needed. People heard that crack and knew it was us.",
-          source: 'Modern Drummer Interview, 1994',
-        },
 
         videos: [],
       },

@@ -75,7 +75,7 @@
 
 ## Key Gear Changes
 
-- **1984:** Adopted the Tama HP35 Camco double pedal — used continuously for 26 years
+- **1984:** Adopted the Tama HP35 Camco double pedal — used continuously for 29 years
 - **2003:** Upgraded from Tama Artstar Custom to Tama Starclassic Maple (We've Come for You All) — an upgrade within the same Tama endorsement, not a brand switch
 - **2011:** First signature gear — Tama Charlie Benante Signature snare and Vic Firth signature sticks
 - **2013:** Retired the Tama HP35 Camco pedal for a Tama Speed Cobra

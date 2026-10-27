@@ -5359,11 +5359,11 @@ export const GEAR_PRICE_HISTORY = {
     name: 'Tim Yeung',
     band: 'Hate Eternal',
     iconicYear: 2005,
-    era: 'I, Monarch Era',
-    albumReference: 'Hate Eternal - I, Monarch (2005)',
+    era: 'Tama/Sabian Signing Era',
+    albumReference: 'Hate Eternal - signed with Tama/Sabian (2005)',
     profileImage: '/images/drummers/tim-yeung.webp',
 
-    summary: "Tim Yeung's 2005 setup behind Hate Eternal's I, Monarch documents one of technical death metal's fastest and most cited drum performances — a Tama Starclassic Bubinga kit, Sabian AAX cymbals, and a Tama Speed Cobra double bass pedal assembled to sustain 200-280 BPM blast beats without the technique degrading over a full album. Recorded under Erik Rutan at the height of Hate Eternal's technical peak, I, Monarch and its 2008 follow-up Fury & Flames established Yeung as one of the genre's most technically studied drummers. The complete rig cost approximately $4,377 in 2005 dollars, equivalent to roughly $7,342 in 2026 after CPI adjustment — a professional-tier extreme metal setup rather than a boutique custom build.\n\nYeung's technique — relaxed, rebound-based footwork rather than tension-based power striking — is the reason his gear history reads as a study in speed-per-dollar rather than raw investment: the Tama Speed Cobra pedal's smooth, lightweight double-pedal action mattered more to his output than shell tier or custom finishes. That same Tama/Sabian combination, established from day one on I, Monarch, carried unchanged through his 2011 arrival in Morbid Angel for Illud Divinum Insanus and into 2017's Kingdoms Disdained — a rig locked in at the start of his recorded career and never revisited, in service of some of the fastest documented BPMs in recorded death metal.",
+    summary: "Tim Yeung's 2005 setup, assembled after signing with Tama and Sabian, documents one of technical death metal's fastest and most cited drum rigs — a Tama Starclassic Bubinga kit, Sabian AAX cymbals, and a Tama Speed Cobra double bass pedal assembled to sustain 200-280 BPM blast beats without the technique degrading over a full set. Established at the height of Yeung's run as one of the genre's most technically studied drummers, the complete rig cost approximately $4,377 in 2005 dollars, equivalent to roughly $7,342 in 2026 after CPI adjustment — a professional-tier extreme metal setup rather than a boutique custom build.\n\nYeung's technique — relaxed, rebound-based footwork rather than tension-based power striking — is the reason his gear history reads as a study in speed-per-dollar rather than raw investment: the Tama Speed Cobra pedal's smooth, lightweight double-pedal action mattered more to his output than shell tier or custom finishes. That same Tama/Sabian combination, established in 2005, carried unchanged through his 2011 arrival in Morbid Angel for Illud Divinum Insanus and into 2017's Kingdoms Disdained — a rig locked in at the start of his recorded career and never revisited, in service of some of the fastest documented BPMs in recorded death metal.",
 
     setup: {
       drums: {
@@ -5467,7 +5467,7 @@ export const GEAR_PRICE_HISTORY = {
 
     priceEvolution: [
       { year: 1999, price: 3200, label: 'Conquering the Throne era', event: "Hate Eternal debut — Yeung's recording debut and technical death metal breakout" },
-      { year: 2005, price: 4377, label: 'Original Purchase', event: 'I, Monarch recorded — extreme double bass speed establishes the Tama/Sabian rig' },
+      { year: 2005, price: 4377, label: 'Original Purchase', event: 'Signs with Tama/Sabian — extreme double bass speed establishes the rig' },
       { year: 2008, price: 5100, label: 'Fury & Flames era', event: 'Technical death metal peak; widely cited blast beat benchmark recording' },
       { year: 2011, price: 5900, label: 'Morbid Angel era', event: 'Joins Morbid Angel for Illud Divinum Insanus, carrying the same Tama/Sabian rig' },
       { year: 2017, price: 6900, label: 'Kingdoms Disdained era', event: 'Same Tama Starclassic Bubinga + Speed Cobra 910 rig established in 2005 still in use' },
@@ -5482,9 +5482,9 @@ export const GEAR_PRICE_HISTORY = {
     ],
 
     meta: {
-      title: "Tim Yeung 2005 Hate Eternal Drum Setup Cost | I, Monarch Era Gear Prices",
-      description: "How much did Tim Yeung's 2005 Hate Eternal drum kit cost? Original Tama/Sabian extreme death metal rig ~$4,377, inflation-adjusted to ~$7,342 today. Complete I, Monarch-era gear breakdown.",
-      keywords: ['tim yeung fastest drummer gear', 'hate eternal drummer setup', 'tim yeung drum kit cost', 'i monarch drums', 'tim yeung 2005 setup'],
+      title: "Tim Yeung 2005 Hate Eternal Drum Setup Cost | Tama/Sabian Era Gear Prices",
+      description: "How much did Tim Yeung's 2005 Hate Eternal drum kit cost? Original Tama/Sabian extreme death metal rig ~$4,377, inflation-adjusted to ~$7,342 today. Complete Tama/Sabian-era gear breakdown.",
+      keywords: ['tim yeung fastest drummer gear', 'hate eternal drummer setup', 'tim yeung drum kit cost', 'tim yeung tama sabian', 'tim yeung 2005 setup'],
     },
   },
 

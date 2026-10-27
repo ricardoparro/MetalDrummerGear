@@ -5540,19 +5540,19 @@ Beyond his drumming, Benante is Anthrax's main composer and a talented graphic a
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Charlie Benante endorses Tama drums and hardware, Paiste cymbals, Vic Firth sticks, Evans drumheads, and Roland electronics. He was one of few drummers to use Tama's vintage HP35 Camco pedals until switching to Speed Cobra in 2010.
+        content: `Charlie Benante endorses Tama drums and hardware, Paiste cymbals, Vic Firth sticks, Evans drumheads, and Roland electronics. He was one of few drummers to use Tama's vintage HP35 Camco pedals until switching to Speed Cobra in 2013.
 
 **Current Setup:**
 - **Drums**: Tama Starclassic Maple
 - **Snare**: Tama Charlie Benante Signature
 - **Cymbals**: Paiste (2002, Signature, and RUDE series)
-- **Hardware**: Tama Speed Cobra double pedal (replaced Camco HP35 in 2010)
+- **Hardware**: Tama Speed Cobra double pedal (replaced Camco HP35 in 2013)
 - **Sticks**: Vic Firth Charlie Benante Signature
 - **Heads**: Evans
 - **Electronics**: Roland for triggers
 
 **Historical Note:**
-- Used Tama HP35 Camco chain-drive pedals from 1984-2010
+- Used Tama HP35 Camco chain-drive pedals from 1984-2013
 - Known for vintage pedal preference until Tama discontinued them`
       },
       trivia: {
@@ -5563,7 +5563,7 @@ Beyond his drumming, Benante is Anthrax's main composer and a talented graphic a
           'Creates Anthrax\'s album artwork and T-shirt designs',
           'Massive collector of Jaws (1975 film) merchandise; featured in "The Shark Is Still Working" documentary',
           'Bassist Frank Bello is his nephew (Benante\'s mother was Bello\'s grandmother)',
-          'Used same Tama Camco pedals from 1984 until their discontinuation in 2010',
+          'Used same Tama Camco pedals from 1984 until their discontinuation in 2013',
           'Joined Pantera reunion in 2022 to honor close friend Vinnie Paul',
           'Released solo album "Silver Linings" during COVID lockdowns',
           'Born and raised in The Bronx, New York',

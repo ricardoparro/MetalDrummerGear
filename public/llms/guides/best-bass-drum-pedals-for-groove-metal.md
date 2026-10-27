@@ -11,7 +11,7 @@
 
 Groove metal inverts death metal's usual bass drum pedal priorities. Instead of chasing 250+ BPM blast beats, groove metal locks into syncopated, riff-tight patterns where the kick has to land exactly on the pocket — a fraction of a beat early or late and the entire riff falls apart. Vinnie Paul built the genre's founding template largely around single, deliberately-placed kick hits rather than nonstop double bass, reserving the double pedal for accents and section-ending bursts on Pantera classics like "Vulgar Display of Power" and "Far Beyond Driven." That restraint — feel over flash — is exactly what a groove metal bass drum pedal needs to deliver.
 
-Chris Adler's Mapex Falcon double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." and "Roots," proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
+Chris Adler's Mapex Falcon double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal has driven Sepultura and Cavalera Conspiracy's tribal groove metal attack since 2018, proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
 
 This guide breaks down drive systems, footboard feel, and response tuning for a groove metal bass drum pedal — comparing four drummers whose setups defined the genre's syncopated, riff-locking foundation, with recommendations from budget to professional touring rigs.
 
@@ -161,12 +161,12 @@ For groove metal drummers who want the genre's founding feel — weight and plac
 **Type:** Chain (Power Glide)  
 **Rating:** 4.5/5
 
-Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." and "Roots," proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone. The Power Glide cam adds authority at impact without sacrificing the control needed for tribal-influenced, riff-locked patterns.
+Igor Cavalera's Tama Iron Cobra double pedal has driven Sepultura and Cavalera Conspiracy's tribal groove metal attack since 2018, proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone. The Power Glide cam adds authority at impact without sacrificing the control needed for tribal-influenced, riff-locked patterns.
 
 For groove metal drummers who want the smooth, adjustable feel of a proven flagship pedal without a boutique price tag, the Iron Cobra 900 remains a dependable standard.
 
 **Pros:**
-- Igor Cavalera's Sepultura setup — driving the genre's tribal groove transformation
+- Igor Cavalera's Sepultura/Cavalera Conspiracy setup since 2018 — driving the genre's tribal groove pocket
 - Power Glide cam adds impact authority without sacrificing pocket control
 - Extensive adjustability for dialing in exact syncopated feel
 - Die-cast aluminum construction built for demanding touring
@@ -178,7 +178,7 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
 - Less specialized for pocket feel than the Vinnie Paul signature template
 
 **Who uses it:**
-- Igor Cavalera (Sepultura) — Tama Iron Cobra — tribal groove metal's syncopated pocket precision
+- Igor Cavalera (Sepultura / Cavalera Conspiracy) — Tama Iron Cobra since 2018 — tribal groove metal's syncopated pocket precision
 
 **Verdict:** A dependable, adjustable standard for groove metal's tribal-influenced syncopated pocket.
 

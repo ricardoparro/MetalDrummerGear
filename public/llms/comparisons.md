@@ -514,7 +514,7 @@ Converge's Ben Koller vs Mastodon's Brann Dailor. Raw, unpredictable mathcore in
 
 **Technique:** Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex, constantly moving patterns while simultaneously handling lead and co-lead vocal duties on many songs — a rare combination among metal drummers.
 
-**Gear:** Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks — both drummers favor Tama shells, but Koller's Zildjian K Dark array is built for raw cut while Dailor's Meinl Mb20 & Mb8 Series setup is chosen for warmth and melodic sustain.
+**Gear:** Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks — both drummers favor Tama shells, but Koller's Zildjian K Dark array is built for raw cut while Dailor's Meinl Byzance Series setup is chosen for warmth and melodic sustain.
 
 **Influence:** Koller is widely regarded as one of the most respected drummers in extreme and hardcore music, and Converge's "Jane Doe" is routinely cited as a genre-defining mathcore record that reshaped how hardcore and metal drummers approach unpredictability and dynamics. Dailor helped define the progressive sludge sound and proved a metal drummer could also front a band as co-vocalist, influencing a generation of prog-sludge acts and earning Mastodon a Grammy Award for Best Metal Performance in 2018.
 
@@ -524,7 +524,7 @@ Converge's Ben Koller vs Mastodon's Brann Dailor. Raw, unpredictable mathcore in
 A: Both are considered among the most demanding drummers in modern heavy music, but in different ways. Ben Koller (Converge) is demanding because of his loose, explosive, unpredictable attack — he thrives on sudden tempo shifts and dynamic swings that make Converge's mathcore feel dangerous. Brann Dailor (Mastodon) is demanding because he weaves flowing, syncopated fills through complex song structures while simultaneously singing lead or co-lead vocals. Koller's difficulty is visceral; Dailor's is compositional and multitasking-heavy.
 
 **Q: What gear do Ben Koller and Brann Dailor use?**
-A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal.
+A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal.
 
 **Q: What bands are Ben Koller and Brann Dailor known for?**
 A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Brann Dailor co-founded Mastodon in 2000 and remains the band's drummer and co-vocalist.
@@ -799,7 +799,7 @@ Black Sabbath's Bill Ward vs Mastodon's Brann Dailor — the jazz-swing originat
 
 **Technique:** Ward's jazz training under the influence of Gene Krupa and Buddy Rich gave early Sabbath riffs a loose, swinging feel — he played open-handed on a right-handed kit, crossing his right hand over to the hi-hat, and prioritized dynamics and space over constant volume. Dailor's technique is similarly unconventional for heavy music: he composes flowing, ever-changing tom melodies that function as countermelodies to Mastodon's riffs, all while singing complex vocal harmonies simultaneously — a combination virtually unmatched in metal.
 
-**Gear:** Ward played a Ludwig Standard/Club Date Series kit (24"x14" bass drum, single rack tom, one or two floor toms — no double bass throughout his career) with a Ludwig Supraphonic 400/LM402 aluminum snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China), driven by a Ludwig Speed King single pedal. Dailor plays a Tama Starclassic Performer B/B maple kit (single 22"x18" bass drum, three rack toms, one floor tom) with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals (18"-20" Traditional/Brilliant crashes, 22" Traditional Medium Ride), using a single Tama Speed Cobra pedal and Vater 5B sticks rather than any specialized double-bass setup.
+**Gear:** Ward played a Ludwig Standard/Club Date Series kit (24"x14" bass drum, single rack tom, one or two floor toms — no double bass throughout his career) with a Ludwig Supraphonic 400/LM402 aluminum snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China), driven by a Ludwig Speed King single pedal. Dailor plays a Tama Starclassic Performer B/B maple kit (single 22"x18" bass drum, three rack toms, one floor tom) with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals (18"-20" Traditional/Brilliant crashes, 22" Traditional Medium Ride), using a single Tama Speed Cobra pedal and Vater 5B sticks rather than any specialized double-bass setup.
 
 **Influence:** Ward's swing-based, jazz-informed approach on Black Sabbath's first six albums remains the foundational reference point for every metal drummer who followed, earning him a 2006 Rock and Roll Hall of Fame induction. Dailor has carried that same feel-first, single-bass-drum philosophy into the 21st century, earning four Grammy nominations with Mastodon while proving melodic, compositional drumming has a place in progressive sludge metal.
 
@@ -1117,7 +1117,7 @@ Mastodon's Brann Dailor vs Between the Buried and Me's Blake Richardson. Jazzy s
 
 **Technique:** Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, plus double-duty as lead vocalist while maintaining complex patterns. Richardson navigates BTBAM's rapid tempo and meter changes with explosive blast beat transitions, ghost-note-rich grooves, and twin single-pedal independence that keeps the double kick locked to shifting time signatures.
 
-**Gear:** Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian HHX/AAX cymbals, powered by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns.
+**Gear:** Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian HHX/AAX cymbals, powered by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns.
 
 **Influence:** Dailor helped define the progressive sludge sound and proved a metal drummer could also front a band as co-vocalist, influencing a generation of prog-sludge acts. Richardson has been BTBAM's sole drummer since 2005, shaping how progressive metalcore drummers treat odd time signatures and blast beats as natural vocabulary rather than technical showcases.
 
@@ -1138,7 +1138,7 @@ Mastodon's Brann Dailor vs Slipknot's Eloy Casagrande (ex-Sepultura). Progressiv
 
 **Technique:** Dailor's constant motion style treats fills as melodic lines — his snare and toms carry melody through flowing, jazz-vocabulary fills that blur the line between drumming and composition. Casagrande's technique is defined by groove-first double bass work and the ability to adapt across Slipknot's percussive, multi-drummer catalog — a range requiring extraordinary musical versatility.
 
-**Gear:** Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals and Vater 5B sticks — a warm, musical setup suited to Mastodon's progressive sludge sound. Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound.
+**Gear:** Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance Series cymbals and Vater 5B sticks — a warm, musical setup suited to Mastodon's progressive sludge sound. Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound.
 
 **Influence:** Brann Dailor helped define progressive sludge metal and influenced a generation of drummers who treat fills as melodic statements — his Mastodon work from *Remission* through *Emperor of Sand* represents one of the most compositionally distinctive drumming catalogs in modern metal. Eloy Casagrande became the most-watched metal drummer globally when his Slipknot appointment was announced in 2024, carrying the technical precision built at Sepultura into one of metal's most scrutinized drum chairs.
 
@@ -1148,7 +1148,7 @@ Mastodon's Brann Dailor vs Slipknot's Eloy Casagrande (ex-Sepultura). Progressiv
 A: Brann Dailor plays with constant motion and jazz-influenced melodic fills — his drumming is compositionally complex and integral to Mastodon's identity. Eloy Casagrande plays with groove-first thrash authority and powerful double bass — his drumming is defined by locked-in precision and the versatility to adapt across styles and tempos.
 
 **Q: What gear does Brann Dailor use vs Eloy Casagrande?**
-A: Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals and Vater 5B sticks. Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals and Tama Iron Cobra double pedals.
+A: Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance Series cymbals and Vater 5B sticks. Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals and Tama Iron Cobra double pedals.
 
 **Q: Why did Eloy Casagrande join Slipknot?**
 A: Eloy Casagrande joined Slipknot in 2024 after departing Sepultura. His thrash metal roots, technical precision, and ability to handle a vast and demanding catalog made him the natural choice for one of the most scrutinized drum chairs in metal history.
@@ -1168,20 +1168,20 @@ Mastodon's Brann Dailor vs Porcupine Tree's Gavin Harrison. Prog-vs-Prog: Mastod
 
 **Technique:** Brann treats the entire kit as a melodic instrument, using his snare and toms to carry melody lines through constant motion fills that define Mastodon's sound. Gavin weaves intricate polyrhythmic patterns through odd time signatures with economy and sophistication, prioritizing musical feel over spectacle.
 
-**Gear:** Brann plays Tama Starclassic Performer B/B with Meinl Mb20 & Mb8 Series cymbals and Vater 5B sticks. Gavin uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals and Vic Firth signature sticks.
+**Gear:** Brann plays Tama Starclassic Performer B/B with Meinl Byzance Series cymbals and Vater 5B sticks. Gavin uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals and Vic Firth signature sticks.
 
 **Influence:** Brann helped define progressive sludge metal with Mastodon, influencing a generation to treat drum fills as melodic statements. Gavin elevated Porcupine Tree, King Crimson, and The Pineapple Thief — earning multiple Modern Drummer awards and a reputation as the prog drummer's drummer.
 
 **Verdict:** Brann Dailor is jazz chaos personified — his fills are the melody and his kit is a second lead instrument. Gavin Harrison is refined polyrhythmic mastery — subtle, sophisticated, and deeply musical. The contrast between Mastodon's dense oddity and Porcupine Tree's intellectual complexity makes this the ultimate Prog-vs-Prog drumming debate.
 
 **Q: What are the main differences between Brann Dailor's and Gavin Harrison's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl Mb20 & Mb8 Series cymbals, while Gavin Harrison uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals. Brann favors a warm, musical tone for melodic fills; Gavin prefers a dry, controlled sound for polyrhythmic precision.
+A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl Byzance Series cymbals, while Gavin Harrison uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals. Brann favors a warm, musical tone for melodic fills; Gavin prefers a dry, controlled sound for polyrhythmic precision.
 
 **Q: Who is the better progressive metal drummer, Brann Dailor or Gavin Harrison?**
 A: Both are legends in their own right. Brann Dailor is jazz chaos incarnate in progressive sludge metal; Gavin Harrison is polyrhythmic sophistication personified in progressive rock. The answer depends on whether you value constant motion and melodic chaos or restrained, mathematical groove.
 
 **Q: What cymbals do Brann Dailor and Gavin Harrison use?**
-A: Brann Dailor uses Meinl Mb20 & Mb8 Series (14" Dark Hi-Hats, 18" & 19" Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
+A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
 
 **Q: What bands are Brann Dailor and Gavin Harrison known for?**
 A: Brann Dailor is the drummer and vocalist for Mastodon. Gavin Harrison is best known for Porcupine Tree and King Crimson, and also plays with The Pineapple Thief.
@@ -1201,7 +1201,7 @@ Mastodon's Brann Dailor vs Mayhem's Hellhammer. Melodic, songful progressive slu
 
 **Technique:** Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex, constantly moving patterns while simultaneously handling lead and co-lead vocal duties on many songs. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that prioritizes icy atmosphere over melodic expression.
 
-**Gear:** Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — Dailor's Meinl Mb20 & Mb8 Series array is chosen for warmth and melodic sustain, while Hellhammer's Paiste RUDE setup is built for cutting, high-speed articulation.
+**Gear:** Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — Dailor's Meinl Byzance Series array is chosen for warmth and melodic sustain, while Hellhammer's Paiste RUDE setup is built for cutting, high-speed articulation.
 
 **Influence:** Dailor helped define the progressive sludge sound and proved a metal drummer could also front a band as co-vocalist, influencing a generation of prog-sludge acts and earning Mastodon a Grammy Award for Best Metal Performance in 2018. Hellhammer defined the sound and speed vocabulary of second-wave black metal, and his three-decade-plus dual career with Mayhem and Dimmu Borgir has made him the genre's most in-demand extreme drummer for both raw and symphonic contexts.
 
@@ -1211,7 +1211,7 @@ Mastodon's Brann Dailor vs Mayhem's Hellhammer. Melodic, songful progressive slu
 A: Brann Dailor drives Mastodon's progressive sludge with flowing, syncopated fills that treat the kit as a lead voice, while also handling co-lead vocal duties on many songs. Hellhammer built his reputation on cold, relentless blast beats delivered with one-foot precision, defining Mayhem's second-wave black metal sound.
 
 **Q: What gear do Brann Dailor and Hellhammer use?**
-A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Mb20 & Mb8 Series cymbals, and a Tama Speed Cobra double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare, Paiste RUDE Series cymbals, and an Axis Double Pedal.
+A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance Series cymbals, and a Tama Speed Cobra double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare, Paiste RUDE Series cymbals, and an Axis Double Pedal.
 
 **Q: Does Brann Dailor sing while drumming for Mastodon?**
 A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing lead or co-lead vocals while simultaneously executing Mastodon's complex, flowing drum patterns, a rare combination among metal drummers. Hellhammer does not sing while drumming for Mayhem.
@@ -1234,7 +1234,7 @@ Mastodon's Brann Dailor vs Limp Bizkit's John Otto. Melodic, songful progressive
 
 **Technique:** Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex, constantly moving patterns while simultaneously handling lead and co-lead vocal duties on many songs — a rare combination among metal drummers. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket, prioritizing restraint and feel over the constant motion that defines Dailor's playing.
 
-**Gear:** Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals — Otto has never needed a double pedal, relying instead on jazz-honed foot control for Limp Bizkit's groove-driven single-kick patterns.
+**Gear:** Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals — Otto has never needed a double pedal, relying instead on jazz-honed foot control for Limp Bizkit's groove-driven single-kick patterns.
 
 **Influence:** Dailor helped define the progressive sludge sound and proved a metal drummer could also front a band as co-vocalist, influencing a generation of prog-sludge acts and earning Mastodon a Grammy Award for Best Metal Performance in 2018. Otto's jazz-meets-hip-hop grooves gave Limp Bizkit's sound instant recognizability, helping drive one of the best-selling records of the nu-metal era in "Chocolate Starfish and the Hot Dog Flavored Water."
 
@@ -1244,7 +1244,7 @@ Mastodon's Brann Dailor vs Limp Bizkit's John Otto. Melodic, songful progressive
 A: Brann Dailor drives Mastodon's progressive sludge with flowing, constantly moving fills that treat the kit as a lead voice, while also handling co-lead vocal duties on many songs. John Otto anchors Limp Bizkit with disciplined, jazz-and-funk-informed grooves built around syncopated ghost notes and a tight single-pedal pocket, prioritizing restraint over Dailor's compositional density.
 
 **Q: What gear do Brann Dailor and John Otto use?**
-A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Mb20 & Mb8 Series cymbals, and a Tama Speed Cobra double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar Professional Series pedals.
+A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance Series cymbals, and a Tama Speed Cobra double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar Professional Series pedals.
 
 **Q: What bands are Brann Dailor and John Otto known for?**
 A: Brann Dailor co-founded Mastodon in 2000 and remains the band's drummer and co-vocalist. John Otto has been Limp Bizkit's drummer and founding member since 1994.
@@ -1267,7 +1267,7 @@ Mastodon's Brann Dailor vs Gojira's Mario Duplantier. Sludge, progressive metal,
 
 **Technique:** Brann uses constant motion with signature flowing fills. Mario delivers raw power with explosive accents.
 
-**Gear:** Brann plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals. Mario uses Tama drums with a Zildjian A Custom/K Custom cymbal array for dark tones.
+**Gear:** Brann plays Tama Starclassic Performer B/B drums with Meinl Byzance Series cymbals. Mario uses Tama drums with a Zildjian A Custom/K Custom cymbal array for dark tones.
 
 **Influence:** Brann helped define the progressive sludge sound. Mario influenced environmental metal and modern prog death.
 
@@ -1288,7 +1288,7 @@ Mastodon's Brann Dailor vs Dream Theater's Mike Portnoy. Two iconic American pro
 
 **Technique:** Brann's constant motion style treats fills as melodic lines, blending jazz vocabulary with heavy metal energy. Mike masters rapid-fire transitions, complex time signatures, and endurance across marathon compositions on his massive multi-bass drum kit.
 
-**Gear:** Brann plays Tama Starclassic Performer B/B with Meinl Mb20 & Mb8 Series cymbals and Vater 5B sticks. Mike uses Tama Starclassic Maple/Birch with Sabian HHX cymbals on his iconic multi-bass-drum signature setup.
+**Gear:** Brann plays Tama Starclassic Performer B/B with Meinl Byzance Series cymbals and Vater 5B sticks. Mike uses Tama Starclassic Maple/Birch with Sabian HHX cymbals on his iconic multi-bass-drum signature setup.
 
 **Influence:** Brann helped define progressive sludge metal and influenced a generation of drummers who treat fills as melodic statements rather than technical showcases. Mike co-founded Dream Theater and shaped 1990s progressive metal through instructional DVDs and YouTube presence.
 
@@ -1309,7 +1309,7 @@ Mastodon's Brann Dailor vs Death/Cynic's Sean Reinert. Progressive death metal's
 
 **Technique:** Dailor's constant-motion style treats fills as melody: his snare and toms carry musical statements through flowing, non-repetitive patterns that blur the line between drumming and composition, all while singing lead and backing vocals over the same parts. Reinert's technique was rooted in formal jazz training — traditional grip, ghost-note vocabulary, and dynamic sensitivity let him navigate between brutal death metal intensity and delicate, swing-informed passages within the same song, a combination virtually unheard of in extreme metal before Cynic's "Focus."
 
-**Gear:** Brann Dailor plays a Tama Starclassic Performer B/B (birch/bubinga) drum kit with his Tama S.L.P. G-Maple 14x6.5" snare, Meinl Mb20 & Mb8 Series cymbals (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China), a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks — a jazz-crossover setup chosen for dynamic range over raw power.
+**Gear:** Brann Dailor plays a Tama Starclassic Performer B/B (birch/bubinga) drum kit with his Tama S.L.P. G-Maple 14x6.5" snare, Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China), a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks — a jazz-crossover setup chosen for dynamic range over raw power.
 
 **Influence:** Brann Dailor helped define progressive sludge metal and influenced a generation of drummers who treat fills as melodic statements, with Mastodon's catalog from "Remission" through "Emperor of Sand" standing as one of modern metal's most compositionally distinctive drumming bodies of work. Sean Reinert's work on "Human" and "Focus" essentially invented technical death metal's creative possibility space, proving jazz vocabulary and extreme intensity were not mutually exclusive — a foundation that Cynic, Atheist, Necrophagist, and three subsequent decades of progressive death metal built upon. His death in January 2020 prompted an outpouring from the metal community underscoring how foundational his contribution was.
 
@@ -1319,7 +1319,7 @@ Mastodon's Brann Dailor vs Death/Cynic's Sean Reinert. Progressive death metal's
 A: Both are routinely cited in "most musically creative metal drummer" discussions. Brann Dailor (Mastodon) built a career-spanning catalog of melodic, jazz-informed fills across "Leviathan," "Blood Mountain," and "Crack the Skye" while also serving as co-vocalist. Sean Reinert (Death, Cynic) pioneered jazz-fusion vocabulary in death metal a decade earlier on "Human" (1991) and "Focus" (1993), works still considered genre-defining.
 
 **Q: What gear does Brann Dailor use vs Sean Reinert?**
-A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Mb20 & Mb8 Series cymbals, a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, a DW 9000 Double Pedal, and Vic Firth American Classic 5A sticks.
+A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance Series cymbals, a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, a DW 9000 Double Pedal, and Vic Firth American Classic 5A sticks.
 
 **Q: What albums are Brann Dailor and Sean Reinert best known for?**
 A: Brann Dailor is best known for Mastodon's "Leviathan" (2004), "Blood Mountain" (2006), and "Crack the Skye" (2009). Sean Reinert is best known for Death's "Human" (1991) and Cynic's "Focus" (1993) — two albums widely credited with founding technical death metal's jazz-fusion wing.
@@ -1339,7 +1339,7 @@ Mastodon's Brann Dailor vs Meshuggah's Tomas Haake. Two of metal's most innovati
 
 **Technique:** Brann treats the entire kit as a melodic instrument, using his snare and toms to carry melody lines and signature fills that are as recognizable as guitar riffs. Tomas dissects rhythm into pure mathematics — his kick and snare patterns cycle across groupings that create hypnotic polyrhythms independent of the guitar riff, inventing the djent rhythmic vocabulary.
 
-**Gear:** Brann plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals for a warm, musical tone that suits his melodic approach. Tomas uses Sonor SQ2 drums with Sabian HHX & AAX Series cymbals, chosen for focused attack and projection that cut through Meshuggah's dense tuning.
+**Gear:** Brann plays Tama Starclassic Performer B/B drums with Meinl Byzance Series cymbals for a warm, musical tone that suits his melodic approach. Tomas uses Sonor SQ2 drums with Sabian HHX & AAX Series cymbals, chosen for focused attack and projection that cut through Meshuggah's dense tuning.
 
 **Influence:** Brann co-defined the progressive sludge metal drumming approach with Mastodon from "Remission" (2002) through "Emperor of Sand," influencing a generation of rock and metal drummers to treat fills as compositional elements rather than transitions. Tomas invented djent drumming with Meshuggah from "Destroy Erase Improve" (1995) onward — every djent drummer from Periphery to Animals as Leaders traces their rhythmic DNA back to Haake.
 
@@ -1699,7 +1699,7 @@ Tool's Danny Carey vs Mastodon's Brann Dailor. Two progressive metal drumming vi
 
 **Technique:** Danny masters polyrhythmic patterns with electronic integration and Fibonacci-based compositions. Brann uses constant flowing fills with signature tom work.
 
-**Gear:** Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Brann uses Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals.
+**Gear:** Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Brann uses Tama Starclassic Performer B/B drums with Meinl Byzance Series cymbals.
 
 **Influence:** Danny defined Tool's unique sound and influenced a generation of prog drummers. Brann helped define the progressive sludge sound.
 
@@ -3609,7 +3609,7 @@ Children of Bodom's Jaska Raatikainen vs Mastodon's Brann Dailor. Finnish melodi
 
 **Technique:** Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom's dense arrangements anchored with surgical consistency at extreme tempos. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex patterns while simultaneously handling lead and co-lead vocal duties on many songs.
 
-**Gear:** Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing.
+**Gear:** Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing.
 
 **Influence:** Raatikainen gave Finnish melodic death metal its rhythmic identity, helping Children of Bodom become one of the genre's most globally successful acts and influencing a generation of Scandinavian metal drummers. Dailor helped define the progressive sludge sound and proved a metal drummer could also front a band as co-vocalist, influencing a generation of prog-sludge acts and earning Mastodon a Grammy Award for Best Metal Performance in 2018.
 
@@ -3619,7 +3619,7 @@ Children of Bodom's Jaska Raatikainen vs Mastodon's Brann Dailor. Finnish melodi
 A: Jaska Raatikainen builds his style around clean, locked-in double bass and blast beats within Children of Bodom's neoclassical melodic death metal. Brann Dailor drives Mastodon's progressive sludge with flowing, syncopated fills that treat the kit as a lead voice, while also handling co-lead vocal duties on many songs.
 
 **Q: What gear do Jaska Raatikainen and Brann Dailor use?**
-A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Mb20 & Mb8 Series cymbals, and a Tama Speed Cobra double pedal.
+A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance Series cymbals, and a Tama Speed Cobra double pedal.
 
 **Q: Does Brann Dailor sing while drumming for Mastodon?**
 A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing lead or co-lead vocals while simultaneously executing Mastodon's complex, flowing drum patterns, a rare combination among metal drummers.
@@ -4875,7 +4875,7 @@ August Burns Red's Matt Greiner vs Mastodon's Brann Dailor. Grammy-nominated met
 
 **Technique:** Greiner weaves odd time signatures seamlessly into song structures rather than showcasing them as a display, incorporating creative stacked-cymbal work and rapid-fire double bass into metalcore's heavy foundation. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he pulls off complex patterns while simultaneously handling lead and co-lead vocal duties on many songs.
 
-**Gear:** Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing.
+**Gear:** Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing.
 
 **Influence:** Greiner earned two Grammy nominations for Best Metal Performance with August Burns Red and has influenced a generation of metalcore drummers through his signature Pearl snare, Vic Firth stick line, and worldwide clinics. Dailor helped define the progressive sludge sound and proved a metal drummer could also front a band as co-vocalist, influencing a generation of prog-sludge acts and earning Mastodon a Grammy Award for Best Metal Performance in 2018.
 
@@ -4885,7 +4885,7 @@ August Burns Red's Matt Greiner vs Mastodon's Brann Dailor. Grammy-nominated met
 A: Matt Greiner weaves odd time signatures seamlessly into August Burns Red's metalcore song structures, favoring integrated complexity over overt technical display. Brann Dailor drives Mastodon's progressive sludge with flowing, syncopated fills that treat the kit as a lead voice, while also handling co-lead vocal duties on many songs.
 
 **Q: What gear do Matt Greiner and Brann Dailor use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare, Paiste Formula 602 Series cymbals, and a DW 9000 Series double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Mb20 & Mb8 Series cymbals, and a Tama Speed Cobra double pedal.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare, Paiste Formula 602 Series cymbals, and a DW 9000 Series double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance Series cymbals, and a Tama Speed Cobra double pedal.
 
 **Q: Does Brann Dailor sing while drumming for Mastodon?**
 A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing lead or co-lead vocals while simultaneously executing Mastodon's complex, flowing drum patterns, a rare combination among metal drummers.

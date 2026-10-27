@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-27 06:19 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-27 07:12 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 395 |
-| Sessions | 439 |
-| Page views | 609 |
-| Engagement rate | 57.18% |
+| Active users | 396 |
+| Sessions | 440 |
+| Page views | 610 |
+| Engagement rate | 57.27% |
 | Avg session (s) | 100 |
 
 ### Top pages (by page views, last 7d)
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 335 | 292 |
+| Organic Search | 336 | 293 |
 | Direct | 101 | 101 |
-| Unassigned | 14 | 14 |
+| Unassigned | 15 | 15 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 
@@ -54,41 +54,43 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 17,453 |
-| Clicks | 174 |
-| CTR | 1.00% |
-| Avg position | 9.0 |
+| Impressions | 20,661 |
+| Clicks | 211 |
+| CTR | 1.02% |
+| Avg position | 9.1 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
+| death metal drum kit | 9 | 4 | 44.44% | 4.6 |
 | john otto cymbal setup | 10 | 3 | 30.00% | 5.9 |
-| matt garstka drum kit | 19 | 3 | 15.79% | 6.8 |
-| death metal drum kit | 6 | 2 | 33.33% | 5.0 |
-| joey jordison cymbals | 6 | 2 | 33.33% | 7.0 |
+| matt garstka drum kit | 22 | 3 | 13.64% | 6.9 |
+| joey jordison cymbals | 7 | 2 | 28.57% | 7.6 |
+| matt greiner drum kit | 3 | 2 | 66.67% | 4.7 |
 | best death metal drummers of all time | 2 | 1 | 50.00% | 4.5 |
 | can you show me some images | 1 | 1 | 100.00% | 9.0 |
-| fastest double bass drummer | 5 | 1 | 20.00% | 5.4 |
+| fastest double bass drummer | 6 | 1 | 16.67% | 5.5 |
 | fastest double kick drummer | 4 | 1 | 25.00% | 5.3 |
-| frost drums | 2 | 1 | 50.00% | 3.5 |
-| gojira drum set | 3 | 1 | 33.33% | 6.0 |
+| frost drums | 3 | 1 | 33.33% | 5.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,434 | 39 | 1.14% | 7.9 |
-| gbr | 998 | 11 | 1.10% | 9.2 |
-| aus | 581 | 8 | 1.38% | 8.7 |
-| deu | 368 | 7 | 1.90% | 7.6 |
-| can | 671 | 6 | 0.89% | 8.3 |
-| nld | 225 | 6 | 2.67% | 7.0 |
-| swe | 185 | 6 | 3.24% | 7.2 |
-| ita | 273 | 5 | 1.83% | 8.2 |
-| phl | 271 | 5 | 1.85% | 9.7 |
-| rou | 98 | 5 | 5.10% | 8.8 |
+| usa | 4,008 | 51 | 1.27% | 7.9 |
+| gbr | 1,149 | 13 | 1.13% | 9.2 |
+| aus | 667 | 10 | 1.50% | 8.7 |
+| can | 796 | 8 | 1.01% | 8.4 |
+| nld | 266 | 8 | 3.01% | 7.1 |
+| deu | 445 | 7 | 1.57% | 7.7 |
+| swe | 213 | 7 | 3.29% | 7.2 |
+| tha | 261 | 6 | 2.30% | 9.8 |
+| bel | 121 | 5 | 4.13% | 7.1 |
+| grc | 130 | 5 | 3.85% | 8.3 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-_no significant gaps detected — all queries with traction have decent CTR_
+| Query | Impr | CTR | Pos | Action |
+| --- | --- | --- | --- | --- |
+| joey jordison drum set | 51 | 1.96% | 9.9 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

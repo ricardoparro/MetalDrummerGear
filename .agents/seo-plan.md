@@ -14513,3 +14513,50 @@ sean-reinert (gap found — not "no gap", see above), lars-ulrich, joey-jordison
 2. Content-gap: still no gap rows — no action.
 3. Drum-chair watch: not due this run (Tuesday); next due Monday 2026-11-02, group 1.
 4. Follow-up candidate held back: Chris Turner 2013 HARDWARE historical-entry gap — low-priority re-check next historical-category sweep.
+
+---
+
+## 2026-10-27 (run, Tuesday, second pass) — gearPriceHistory.js under-swept-drummer sweep, 8 filed (#9808-9815)
+
+### Audit summary
+- robots.txt: all 8 AI crawler UAs explicitly allowed (unchanged).
+- `/llms/*.md`: 2,027 files total, 72 under `public/llms/drummers/` — unchanged.
+- Bank check: 11 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #3819/#3810/#2211 + #9792-9798 from this morning's 01:2x run, not yet CEO-triaged) — well under the 45 floor → filed up to the cap (8).
+- Content-gap: 1 row (`joey jordison drum set`, 51 impr, 1.96% CTR, pos 9.9) — re-matched to the long-standing gear-qualified known-oscillator class (learned-patterns.md lines 99/185/242/254/268/278), already absorbed 4+ dedicated CTR fixes historically. No new action.
+- Drum-chair watch: today is Tuesday — not the Monday trigger day, section skipped per instructions.
+
+### Metrics readout
+- GSC 7d: 20,661 impr / 211 clicks / 1.02% CTR / pos 9.1 (metrics.md, refreshed 07:12 UTC).
+- GA4 7d: 396u/440s/610v. Top pages: `/drummer/frost` (13v), `/` (11v), `/drummer/joey-jordison` (10v), `/drummer/mario-duplantier` (9v), `/drummer/john-otto` (8v).
+
+### Method
+Noticed `gearPriceHistory.js` (9,852 lines, 69 drummer entries) had only ever been fact-checked for 23 of its 69 drummers across 30 prior closed issues — a large, never-swept surface using the exact same proven methodology (cross-check `setup.<component>` brand/model/year against `endorsementNews.js`). Split the 46 unchecked drummers across 4 parallel research agents (~12 each), each instructed to cross-reference against `endorsementNews.js`/`bands.js`, dedup-search before reporting, trace full fabrication scope (other files/mirrors), and cap at 3 high-confidence findings. All 4 agents returned clean, well-evidenced findings; I independently re-verified every cited line in `gearPriceHistory.js` directly before filing (not trusting agent line numbers blindly).
+
+### Proposals filed this run
+1. #9808 — Eloy Casagrande gearPriceHistory.js sticks fabricated as Vic Firth — verified Promark signature (missed by #7292/#5783, which only touched drums)
+2. #9809 — Dirk Verbeuren gearPriceHistory.js snare fabricated as steel shell — verified bronze (same "Big Black Steel" fabrication class as the #8064-8089/#9128/#5887/#5541/#6025 sweep, never reached this file)
+3. #9810 — SEO batch: Tim Yeung gearPriceHistory.js + 2 llms mirrors — entire entry misattributes Hate Eternal's *I, Monarch* (2005) to him; it's Derek Roddy's album per bands.js's own FAQ. #8865 fixed brands here but left the album framing
+4. #9811 — Brann Dailor gearPriceHistory.js still fabricates "Meinl Mb20 & Mb8" cymbals (4 locations) — verified Byzance, fixed in ~15 other files/issues but never this one
+5. #9812 — Nick Augusto gearPriceHistory.js entire 2011 rig fabricated as Tama/Meinl/Vic Firth — verified Pearl/Sabian/Pro-Mark; the file's own header comment (Pearl/Sabian) contradicts its own body
+6. #9813 — Aquiles Priester gearPriceHistory.js fabricates 2012 Angra departure (verified 2008, 7 years not 6) + an entirely invented "rejoined Angra for 2023 album cycle" narrative sentence
+7. #9814 — Chris Turner gearPriceHistory.js G-Maple snare dated to the 2017 Hikari era — verified a 2022 Disparity-era upgrade (#9244/#9747 fixed this everywhere else, missed this file)
+8. #9815 — SEO batch: Ryan Van Poederooyen gearPriceHistory.js + 2 llms mirrors — tenure "since 1999" (verified 2002) plus fabricated Empath (2019)/Lightwork (2022) album credits he never played on (#9239/#9422/#9454 fixed sibling files, missed these 3)
+
+### Held-back / not filed
+- Travis Orbin: gearPriceHistory.js says "Departs Periphery" in 2012 + "founding member," contradicted by endorsementNews.js's verified 2009 departure — confirmed genuine by the batch-3 agent but dropped to respect that agent's own 3-finding sub-cap. Ready to file verbatim next run if bank has room.
+
+### Learned-patterns.md updates
+- None this run — all 8 findings are instances of already-documented fabrication classes (brand/model drift, tenure-date drift, wrong-album misattribution, mirror-never-synced) recurring in a file (`gearPriceHistory.js`) that simply hadn't been swept for these 46 drummers yet, not a new generalizable lesson.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9792-9798 (this morning's run, likely already triaged by CEO)
+- #9808-9815 (this run, 8 fresh)
+
+### Next run
+1. Watch #9808-9815 pick up via CEO triage then Roadie; confirm #9810/#9815's multi-file (gearPriceHistory.js + llms mirrors) batches land in full, and #9812's fix doesn't leave the file's own "Pearl Reference Pure + Sabian AAX" header comment newly contradicted.
+2. Content-gap: `joey jordison drum set` re-confirmed known oscillator — no action.
+3. Drum-chair watch: not due this run (Tuesday); next due Monday 2026-11-02, group 1.
+4. Held-back candidate ready to file: Travis Orbin gearPriceHistory.js tenure-date fabrication (2012 Periphery "departure"/"founding member" vs verified 2009).
+5. `gearPriceHistory.js` still has ~38 never-checked-in-this-file drummers remaining after this run's 46-minus-8-found pass (the 38 that came back clean) — most were genuinely clean (extensively pre-swept via other files), so this vein is likely close to exhausted; next sweep should pick a different angle rather than re-running this exact file again.

@@ -4,7 +4,7 @@
 
 ## Who This Guide Is For
 
-Metal drummers who want to know which snare drums actually deliver the crack, projection, and authority the genre demands — and what Lars Ulrich (Ludwig Black Beauty), Joey Jordison (Pearl Free-Floating), Gene Hoglan (DW Collector's), and Tomas Haake (Pearl Free-Floating) actually play. Covers shell materials, depths, and clear recommendations from budget to pro.
+Metal drummers who want to know which snare drums actually deliver the crack, projection, and authority the genre demands — and what Lars Ulrich (Tama LU1465 Signature Snare), Joey Jordison (Pearl Free-Floating), Gene Hoglan (DW Collector's), and Tomas Haake (Pearl Free-Floating) actually play. Covers shell materials, depths, and clear recommendations from budget to pro.
 
 ---
 
@@ -12,25 +12,25 @@ Metal drummers who want to know which snare drums actually deliver the crack, pr
 
 The snare drum is the backbone of every metal performance. It cuts through the mix on the backbeat, drives the energy of your fills, and — in metal — must crack with enough authority to slice through dense guitar walls and high-gain amplification. A weak snare sounds buried; a great metal snare sounds like a gunshot.
 
-Metal's most recognizable snare sounds are inseparable from the drummers who created them. Lars Ulrich's cracking Ludwig snare on "Master of Puppets" defined thrash metal's punch. Joey Jordison's Pearl Free-Floating snare was central to Slipknot's aggressive nu-metal attack. Tomas Haake uses a Pearl Free-Floating snare to anchor Meshuggah's polyrhythmic djent patterns with uncompromising clarity. Gene Hoglan — "The Atomic Clock" — trusts DW Collector's Series for the precision his metronomic playing demands.
+Metal's most recognizable snare sounds are inseparable from the drummers who created them. Lars Ulrich's cracking Tama snare on "Master of Puppets" defined thrash metal's punch. Joey Jordison's Pearl Free-Floating snare was central to Slipknot's aggressive nu-metal attack. Tomas Haake uses a Pearl Free-Floating snare to anchor Meshuggah's polyrhythmic djent patterns with uncompromising clarity. Gene Hoglan — "The Atomic Clock" — trusts DW Collector's Series for the precision his metronomic playing demands.
 
 ---
 
 ## Recommended Snare Drums for Metal
 
-### 1. Ludwig Black Beauty — Best Overall
+### 1. Tama LU1465 Signature Snare — Best Overall
 
-- **Shell material:** Seamless Brass (Black Nickel over Brass)
-- **Price range:** €400–€600
+- **Shell material:** Steel (1.2mm)
+- **Price range:** €400–€500
 - **Best for:** Thrash metal; classic heavy metal; the Lars Ulrich sound
 
 **Who uses it:**
-- **Lars Ulrich** ([/drummer/lars-ulrich](https://metalforge.io/drummer/lars-ulrich)) — Ludwig Black Beauty snare across Metallica's peak recordings including "Master of Puppets" and "...And Justice for All"; the defining thrash metal snare crack
+- **Lars Ulrich** ([/drummer/lars-ulrich](https://metalforge.io/drummer/lars-ulrich)) — Tama LU1465 Signature Snare across Metallica's peak recordings including "Master of Puppets" and "...And Justice for All"; the defining thrash metal snare crack
 - **Gene Hoglan** ([/drummer/gene-hoglan](https://metalforge.io/drummer/gene-hoglan)) — Ludwig snares for precision metal drumming across Death, Testament, and Dark Angel
 
-The Ludwig Black Beauty is the most iconic metal snare drum in history. Its seamless brass shell with black nickel plating delivers a warm yet powerful crack that defines the thrash metal backbeat. The seamless construction allows the entire drum to vibrate as a single unit, producing the complex, musical crack that resonates through dense guitar arrangements.
+The Tama LU1465 is Lars Ulrich's actual signature snare drum — formalized in 2000 after he switched to Tama in the mid-1980s. Its 1.2mm steel shell delivers a bright, hard-edged crack that cuts through Metallica's dense guitar arrangements, while the 6.5" depth keeps enough body for full-range playing.
 
-The Imperial Lug design and P85 throw-off are battle-tested at professional levels. Equally at home at high tunings for bright crack or lower tunings for fat backbeats, the Black Beauty is the starting point for any discussion of metal snare drums.
+The Linear Drive strainer has proven reliable across three decades of stadium touring. It's the starting point for any discussion of modern metal snare drums.
 
 ---
 
@@ -100,12 +100,12 @@ The 13" Pearl Sensitone Steel offers faster response than 14" alternatives — s
 
 ## Shell Material Guide for Metal Snares
 
-**Steel (Pearl Free-Floating — Jordison, Haake choice):**
+**Steel (Pearl Free-Floating, Tama LU1465 — Jordison, Haake, Ulrich choice):**
 - Bright, cutting, aggressive attack
 - Less warmth than brass but more projection
 - Best for: Technical metal, djent, nu-metal, extreme metal
 
-**Brass (Ludwig Black Beauty — Lars Ulrich choice):**
+**Brass:**
 - Warm yet powerful crack with complex overtones
 - More musical character than pure steel
 - Best for: Thrash metal, classic heavy metal, rock crossover
@@ -115,14 +115,14 @@ The 13" Pearl Sensitone Steel offers faster response than 14" alternatives — s
 - Less body than steel or brass
 - Best for: Recording, mixed genres, budget applications
 
-**Recommendation:** Start with steel (Pearl Sensitone Elite or Ludwig Acrolite) for versatility. Upgrade to Black Beauty when you're chasing that brass thunder, or to Pearl Free-Floating for ultimate steel precision.
+**Recommendation:** Start with steel (Pearl Sensitone Elite or Ludwig Acrolite) for versatility. Upgrade to the Tama LU1465 when you're chasing Ulrich's steel crack, or to Pearl Free-Floating for ultimate steel precision.
 
 ---
 
 ## FAQ
 
 **What snare drum does Lars Ulrich use?**
-Lars Ulrich uses Ludwig Black Beauty snare drums — the iconic brass-shell snare with black nickel finish that defined Metallica's thrash metal sound across "Master of Puppets," "...And Justice for All," and subsequent recordings. The Black Beauty's seamless brass shell delivers the warm, powerful crack that cuts through Metallica's dense guitar arrangements.
+Lars Ulrich uses the Tama LU1465 Signature Snare — his actual signature snare drum, a 14"x6.5" steel shell formalized in 2000 after his switch to Tama in the mid-1980s. The steel shell delivers the sharp, cutting crack that defined Metallica's thrash metal sound across "Master of Puppets," "...And Justice for All," and subsequent recordings.
 
 **What snare drum does Tomas Haake use?**
 Tomas Haake of Meshuggah uses Pearl Free-Floating snare drums. The free-floating design suspends the shell from its own flanges, eliminating lug dampening and maximizing resonance and sensitivity — critical for the precise, consistent response that Haake's polyrhythmic djent patterns demand.
@@ -131,7 +131,7 @@ Tomas Haake of Meshuggah uses Pearl Free-Floating snare drums. The free-floating
 Joey Jordison used Pearl snares throughout his Slipknot career, primarily the Pearl Free-Floating Steel design. The pure steel shell delivered the cutting brightness that defined Slipknot's aggressive snare crack, and the free-floating design gave him the ghost note sensitivity his technical drumming required.
 
 **Is steel or brass better for metal snare drums?**
-Both work at the highest levels. Lars Ulrich (brass Ludwig Black Beauty) and Tomas Haake (steel Pearl Free-Floating) prove this. Steel gives brighter, more cutting attack — preferred in technical metal, djent, and extreme metal. Brass delivers warmer, more complex crack — the classic thrash metal tradition. Steel is more common in modern extreme metal.
+Both work at the highest levels, though steel dominates among modern metal's top players. Lars Ulrich (steel Tama LU1465) and Tomas Haake (steel Pearl Free-Floating) show how far steel's cutting attack can go. Brass delivers a warmer, more complex crack favored in classic rock-adjacent and vintage-toned recordings. Steel is more common in modern extreme metal.
 
 **What is a free-floating snare drum?**
 A free-floating snare drum suspends the shell from its own flanges rather than attaching metal lugs directly to the shell. This eliminates the shell dampening caused by traditional lug mounts, allowing better resonance, more sustain, and improved ghost note sensitivity. Used by Pearl, Ludwig Keystone, and others — popular with technical and djent metal drummers.

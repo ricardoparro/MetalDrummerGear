@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-27 13:08 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-27 18:10 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 409 |
-| Sessions | 456 |
-| Page views | 663 |
-| Engagement rate | 57.46% |
+| Active users | 419 |
+| Sessions | 468 |
+| Page views | 674 |
+| Engagement rate | 58.55% |
 | Avg session (s) | 101 |
 
 ### Top pages (by page views, last 7d)
@@ -22,32 +22,32 @@
 | /drummer/joey-jordison | 13 | 8 |
 | /drummers/mike-portnoy/evolution | 10 | 3 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
+| /drummer/john-otto | 9 | 7 |
 | /drummer/mario-duplantier | 9 | 6 |
 | /drummers | 9 | 3 |
-| /drummer/john-otto | 8 | 6 |
+| /songs/fastest-metal-songs | 8 | 6 |
 | /drummer/bill-ward | 7 | 7 |
-| /drummer/igor-cavalera | 7 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 349 | 303 |
-| Direct | 104 | 104 |
-| Unassigned | 17 | 17 |
+| Organic Search | 359 | 311 |
+| Direct | 106 | 106 |
+| Unassigned | 4 | 4 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 141 | 122 |
+| United States | 143 | 124 |
 | Singapore | 44 | 44 |
 | China | 37 | 37 |
 | United Kingdom | 28 | 15 |
-| Australia | 16 | 12 |
+| Australia | 17 | 13 |
 | Canada | 12 | 12 |
+| Germany | 12 | 12 |
 | Netherlands | 12 | 11 |
-| Germany | 11 | 11 |
 | France | 7 | 7 |
 | Italy | 7 | 7 |
 

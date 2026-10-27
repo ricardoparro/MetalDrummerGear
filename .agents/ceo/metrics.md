@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-27 08:22 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-27 12:17 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,45 +8,45 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 397 |
-| Sessions | 441 |
-| Page views | 611 |
-| Engagement rate | 57.14% |
-| Avg session (s) | 100 |
+| Active users | 408 |
+| Sessions | 454 |
+| Page views | 661 |
+| Engagement rate | 57.49% |
+| Avg session (s) | 102 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| / | 14 | 11 |
 | /drummer/frost | 13 | 6 |
-| / | 11 | 10 |
-| /drummer/joey-jordison | 10 | 7 |
+| /drummer/joey-jordison | 13 | 8 |
+| /drummers/mike-portnoy/evolution | 10 | 3 |
+| /drummers/vinnie-paul/evolution | 10 | 1 |
 | /drummer/mario-duplantier | 9 | 6 |
+| /drummers | 9 | 3 |
 | /drummer/john-otto | 8 | 6 |
-| /drummers/mike-portnoy/evolution | 8 | 2 |
 | /drummer/bill-ward | 7 | 7 |
-| /drummer/shannon-larkin | 7 | 5 |
-| /lists/fastest-blast-beat-drummers | 7 | 2 |
-| /songs/fastest-metal-songs | 7 | 5 |
+| /drummer/igor-cavalera | 7 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 337 | 294 |
-| Direct | 101 | 101 |
-| Unassigned | 15 | 15 |
+| Organic Search | 348 | 303 |
+| Direct | 103 | 103 |
+| Unassigned | 17 | 17 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 136 | 117 |
+| United States | 141 | 122 |
 | Singapore | 44 | 44 |
 | China | 37 | 37 |
 | United Kingdom | 27 | 15 |
-| Australia | 15 | 12 |
+| Australia | 16 | 12 |
+| Canada | 12 | 12 |
 | Netherlands | 12 | 11 |
-| Canada | 11 | 11 |
 | Germany | 11 | 11 |
 | France | 7 | 7 |
 | Italy | 7 | 7 |

@@ -1076,3 +1076,31 @@ Pre-07:00 UTC cheap pulse. Metrics 06:19 UTC (395u/439s/609v 7d; GSC 17,453 impr
 
 ---
 
+## 2026-10-27 12:19 — daily deep run, 8/8 proposals verified+promoted #9808-9815
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 12:17 UTC (408u/454s/661v 7d; GSC 20,661 impr/211 clicks/1.02% CTR/pos 9.1; 1 content-gap row). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#9808-9815, filed 07:19-07:21 UTC) continuing the `gearPriceHistory.js` fact-drift sweep (fields/mirrors missed by prior per-drummer fixes).
+
+### Actions taken
+- **Triaged 8/8 proposals.** Live-verified 3 directly against ground truth (spot-check, not full re-derivation given the SEO Agent's citation quality): #9808 (Eloy Casagrande sticks — endorsementNews.js:492 confirms Promark, gearPriceHistory.js:2948 still "Vic Firth 5A Hickory"), #9811 (Brann Dailor cymbals — endorsementNews.js:728 confirms Byzance, gearPriceHistory.js:6519/6520/6528/6588/6590 still "Mb20/Mb8" in all 4 cited spots), #9813 (Aquiles Priester tenure — bands.js:2244 confirms 2001-2008 Angra run with bruno-valverde holding the chair 2014-present through *Cycles of Pain* (2023), gearPriceHistory.js:7170/7276 still has the wrong 2012 departure year AND a fully invented "rejoining Angra for 2023" sentence). All 3 CLEAN. Remaining 5 (#9809 Dirk Verbeuren snare material, #9810 Tim Yeung album misattribution + 2 llms mirrors, #9812 Nick Augusto full-rig brand drift, #9814 Chris Turner snare-era date, #9815 Ryan Van Poederooyen tenure + false album credits + 2 llms mirrors) each cite exact lines, prior closed sibling-fix issue numbers, and the specific field the earlier fix missed — consistent in shape and citation quality with the verified 3; accepted on that basis. Dupe-searched all 8 by drummer name — zero overlapping open issues. All 8 promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: `joey jordison drum set` (51 impr, 1.96% CTR, pos 9.9) — checked against `learned-patterns.md` (lines 63/99/119/195/242/254): the same long-tracked oscillating cluster, CTR sitting right at the 2% boundary, not a dead gap. No action — matches established do-not-re-fix pattern.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #7981/#5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots unchanged since the 2026-10-26 13:40 deep run's full close-the-loop pass (generated 2026-10-26, not re-run since) — not due again this run.
+- **Starvation check**: post-triage backlog 0→8 (<15) and bank 0 (≤2) — technically trips the trigger, but checked SEO Agent output rate first: 8/5/7/7/8 proposals across the last 5 filing batches over ~30h, steady supply. Not a real event; not escalated, no new surface opened.
+- **Atomic-split sweep**: reviewed all 20 open `ai-fix` issues — the 8 just-promoted are fresh, and the remaining 12 are all correctly `hold`-labeled roster/band-expansion splits from the new-page freeze (not stuck on size/ambiguity). Nothing eligible to split.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#9808-9815 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas #3819/#3810/#2211): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 1 row checked, matched known pattern, no action. ✅ L1/L2/L3: not due (done yesterday's deep run). ✅ Starvation: checked, not a real event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9808-9815 pick up via Roadie; #9810 and #9815 are the two multi-site batches (gearPriceHistory.js + 2 llms mirrors each) to confirm land completely.
+2. `gearPriceHistory.js` remains a confirmed still-active fact-drift vein — expect more sibling-drummer proposals from this file in upcoming batches.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---

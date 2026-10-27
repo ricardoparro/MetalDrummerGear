@@ -25,7 +25,7 @@ A: Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14"x6" Maple snare, drive
 A: Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14"x5.5" Brass snare, driven by a Pearl Demon XR double pedal, Vic Firth American Classic Extreme 5B sticks, and Evans heads.
 
 **Q: What cymbals do Frost and Daray use?**
-A: Frost uses Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 16"/17"/18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China). Daray uses Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17"/18" RUDE Crashes, 22" RUDE Power Ride).
+A: Frost uses Zildjian A Series cymbals. Daray uses Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17"/18" RUDE Crashes, 22" RUDE Power Ride).
 
 **Q: What bands are Frost and Daray known for?**
 A: Frost is best known as the drummer for Satyricon, also playing in 1349. Daray is known for his work with Polish death metal legends Vader (2006–2016) and Norwegian symphonic black metal band Dimmu Borgir (since 2008).

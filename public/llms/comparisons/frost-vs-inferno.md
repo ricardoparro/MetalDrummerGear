@@ -25,7 +25,7 @@ A: Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14"x6" Maple snare, drive
 A: Inferno plays a Pearl Masterworks kit with a Pearl Reference 14"x5" Steel snare, driven by a Czarcie Kopyto (Devil's Hoof) double pedal and Vic Firth 5B sticks.
 
 **Q: What cymbals do Frost and Inferno use?**
-A: Frost uses Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 16"/17"/18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China). Inferno uses Paiste RUDE Series cymbals (14" Hi-Hats, 14" Blast China, 18"/19" Crashes, 24" Mega Power Ride, 18" China).
+A: Frost uses Zildjian A Series cymbals. Inferno uses Paiste RUDE Series cymbals (14" Hi-Hats, 14" Blast China, 18"/19" Crashes, 24" Mega Power Ride, 18" China).
 
 **Q: What bands are Frost and Inferno known for?**
 A: Frost is best known as the drummer for Satyricon, also playing in 1349. Inferno is best known as the drummer for Behemoth, which he joined in 1997.

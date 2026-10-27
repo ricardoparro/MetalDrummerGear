@@ -25,7 +25,7 @@ A: Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14"x6" Maple snare, drive
 A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14"x5.5" Maple snare, driven by an Axis double pedal and Vic Firth American Classic 5B sticks.
 
 **Q: What cymbals do Frost and Hellhammer use?**
-A: Frost uses Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 16"/17"/18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China). Hellhammer uses Paiste cymbals (14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China).
+A: Frost uses Zildjian A Series cymbals. Hellhammer uses Paiste cymbals (14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China).
 
 **Q: What bands are Frost and Hellhammer known for?**
 A: Frost is best known as the drummer for Satyricon, also playing in 1349. Hellhammer is best known as the drummer for Mayhem and has contributed to hundreds of recordings, including Arcturus, Dimmu Borgir, and Shining.

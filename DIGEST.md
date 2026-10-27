@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-27 08:22 UTC · Window: last 12h*
+*Generated 2026-10-27 19:10 UTC · Window: last 12h*
 
 ---
 
@@ -8,23 +8,23 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 12 |
+| Open `ai-fix` issues | **24** |
+| Open `seo-proposal` issues | 13 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **16** |
+| Open PRs | 1 |
+| PRs merged in window | **15** |
 | Issues closed in window | 15 |
-| Commits to `main` in window | 20 |
+| Commits to `main` in window | 21 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **397** |
-| Sessions | 441 |
-| Page views | 611 |
-| Engagement rate | 57.14% |
+| Active users | **420** |
+| Sessions | 469 |
+| Page views | 675 |
+| Engagement rate | 58.42% |
 | GSC impressions | 20,661 |
 | GSC clicks | 211 |
 | GSC CTR | 1.02% |
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~2,619 |
-| Est. ad revenue / mo | **~€7.86** |
-| Progress to €1000/mo | 0.8% |
-| Pageviews/mo needed for €1000 | ~333,333 (127× current) |
+| Est. pageviews / mo | ~2,893 |
+| Est. ad revenue / mo | **~€8.68** |
+| Progress to €1000/mo | 0.9% |
+| Pageviews/mo needed for €1000 | ~333,333 (115× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -74,22 +74,21 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 23 | 23 | 0 |
-| Verify YouTube Videos | 15 | 8 | 7 |
-| Check Sitemap Drift | 14 | 7 | 7 |
-| Verify Data Modules | 14 | 7 | 7 |
-| .github/workflows/check-vercel-rewrites.yml | 9 | 0 | 9 |
-| Check llms freshness | 8 | 0 | 8 |
-| Perf Budget Gate | 7 | 0 | 7 |
-| Verify API Modules | 2 | 1 | 1 |
+| PR Merger | 27 | 27 | 0 |
+| Check Sitemap Drift | 14 | 7 | 6 |
+| Verify YouTube Videos | 14 | 7 | 6 |
+| Verify Data Modules | 14 | 7 | 6 |
+| Check llms freshness | 7 | 0 | 6 |
+| Perf Budget Gate | 7 | 0 | 6 |
+| .github/workflows/check-vercel-rewrites.yml | 7 | 0 | 7 |
+| Health Check | 2 | 2 | 0 |
+| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
+| Roadie Night Fleet | 1 | 0 | 0 |
 | SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
 | CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| X Agent | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
@@ -100,8 +99,16 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - 2026-10-26 18:17 — cheap pulse, 3/3 proposals verified+promoted #9773-9775
 - 2026-10-27 06:19 — cheap pulse (pre-deep-run), 7/7 proposals verified+promoted #9792-9798
 
-## 📦 Shipped to main (16)
+## 📦 Shipped to main (15)
 
+- #9836 fix: #9815 SEO batch: Ryan Van Poederooyen gearPriceHistory.js + 2 llms mirrors — tenure since 1999 (verified 2002) + false Empath/Lightwork credits
+- #9835 fix: #9814 SEO: Chris Turner gearPriceHistory.js G-Maple snare dated 2017 — verified 2022 (Disparity) upgrade
+- #9834 fix: #9813 SEO: Aquiles Priester gearPriceHistory.js fabricates 2012 Angra departure (verified 2008) + invented 2023 return narrative
+- #9833 fix: #9812 SEO: Nick Augusto gearPriceHistory.js entire 2011 rig fabricated as Tama/Meinl/Vic Firth — verified Pearl/Sabian/Pro-Mark
+- #9832 fix: #9811 SEO: Brann Dailor gearPriceHistory.js still fabricates 'Meinl Mb20 & Mb8' cymbals — verified Byzance
+- #9831 fix: #9810 SEO batch: Tim Yeung gearPriceHistory.js + 2 llms mirrors — 'I, Monarch Era' misattributed (Derek Roddy recorded it)
+- #9830 fix: #9809 SEO: Dirk Verbeuren gearPriceHistory.js snare fabricated as steel shell — verified bronze
+- #9828 fix: #9808 SEO: Eloy Casagrande gearPriceHistory.js sticks fabricated as Vic Firth — verified Promark signature
 - #9823 fix: #9798 SEO: Matt Greiner missing historical CYMBALS entries for Meinl (2003/2011 era, pre-Paiste)
 - #9822 fix: #9796 SEO: Sean Reinert endorsementNews.js still fabricates Death 'Spiritual Healing' (1990) recording debut — #5949 never synced this file
 - #9821 fix: #9797 SEO: Gene Hoglan missing historical HARDWARE entry for Pearl Demon Drive Double Pedal (2018)
@@ -109,25 +116,16 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - #9818 fix: #9794 SEO: Matt Garstka llms/gear-history/matt-garstka.md still shows Pearl kit/Pearl Demon Drive pedal as current gear — denies verified Sept 2021 DW/Tama switch
 - #9817 fix: #9793 SEO batch: Frost cymbals still fabricated as 'Zildjian A Custom & K Series' in drummerComparisons.js frost-vs-inferno + 4 stale llms /vs//comparisons mirrors
 - #9816 fix: #9792 SEO: Matt Garstka fabricated as 'Tama Titan Series Hardware' user in genreGearGuides.js djent hardware guide — verified only Tama Speed Cobra 910 pedal
-- #9807 fix: #9791 SEO: Dave Lombardo Yamaha/DW fabrication cluster (~10 locations) in best-bass-drums-for-thrash-metal.md llms mirror
-- #9806 fix: #9786 SEO batch: Charlie Benante Speed Cobra switch misdated as 2010 vs verified 2013 across 5 files
-- #9805 fix: #9789 SEO: Vinnie Paul evolution.md mirror fabricates a 1992-1995 'Pearl Masters Custom' era + fake Modern Drummer quote — verified Tama through 1996
-- #9804 fix: #9788 SEO batch: Mikkey Dee gear-history.md + articles/mikkey-dee-evolution.md wholesale fabricate a Pearl/Premier/Zildjian gear history
-- #9803 fix: #9787 SEO: Daniel Erlandsson Arch Enemy join year wrong as 1996 (drummerEvolution.js) / 1999 (llms evolution mirror) — verified founding drummer since 1995
-- #9802 fix: #9786 SEO batch: Charlie Benante Speed Cobra switch misdated as 2010 vs verified 2013 across 5 files
-- #9801 fix: #9784 SEO batch: Lars Ulrich fabricated Ludwig Black Beauty snare + Evans heads across 2 public/llms/guides/ roundup mirrors
-- #9800 fix: #9785 SEO batch: Lars Ulrich public/llms/gear-history/lars-ulrich.md wholesale fabricates a multi-era pre-2008 gear history
-- _+1 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2137h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2233h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2411h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3495h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5925h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2148h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2244h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2421h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3506h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5936h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

@@ -5,7 +5,7 @@
 **Active:** 2007–present  
 **URL:** https://metalforge.io/drummers/matt-garstka/gear-history
 
-> Era-by-era breakdown of Matt Garstka's drum kit evolution, from his Berklee jazz-fusion roots to his signature Pearl and Vic Firth products with Animals as Leaders. Optimised for AI answering "what drum kit does Matt Garstka play" queries.
+> Era-by-era breakdown of Matt Garstka's drum kit evolution, from his Berklee jazz-fusion roots through his Pearl signature era (2016–2021) to his current DW Collector's Series setup with Animals as Leaders. Optimised for AI answering "what drum kit does Matt Garstka play" queries.
 
 ---
 
@@ -30,21 +30,23 @@
 - **Inflation-adjusted to 2026:** ~$11,000
 - **Notable:** Garstka's first album with Animals as Leaders, replacing Navene Koperweis. His compact, smaller-than-typical kit prioritized articulation and dynamics over raw power — a deliberate jazz-influenced philosophy that became his signature approach.
 
-### Peak / Signature Era (2016–2022)
+### Peak / Signature Era (2016–September 2021)
 
 - **Drums:** Pearl Masterworks Maple (refined setup)
 - **Snare:** Pearl Matt Garstka Signature Snare 14"×5"
 - **Cymbals:** Meinl Byzance (expanded setup)
 - **Pedal:** Pearl Demon Drive, Vic Firth Matt Garstka Signature sticks
-- **Notable:** Garstka's signature snare and sticks released, coinciding with "The Madness of Many" (2016) and continuing through "Parrhesia" (2022). His Drumeo and clinic work made him one of the most-watched drummers online during this period.
+- **Notable:** Garstka's signature snare and sticks released, coinciding with "The Madness of Many" (2016). His Drumeo and clinic work made him one of the most-watched drummers online during this period.
 
-### Current Era (2023–present)
+### DW / Current Era (September 2021–present)
 
-- **Drums:** Pearl Masterworks Maple
-- **Snare:** Pearl Matt Garstka Signature Snare
-- **Cymbals:** Meinl Byzance (various configurations per tour)
-- **Pedal:** Pearl Demon Drive, Vic Firth Matt Garstka Signature sticks
-- **Notable:** Garstka continues touring "Parrhesia" while maintaining the core philosophy established a decade earlier: dynamics and musicality over raw power.
+- **Drums:** DW Collector's Series (custom shop) — mixed wood species and shell configurations
+- **Snare:** DW Collector's Series Purpleheart snare
+- **Cymbals:** Meinl Byzance (various configurations per tour, unchanged)
+- **Pedal:** Tama Speed Cobra 910 Double Pedal
+- **Sticks:** Vic Firth Matt Garstka Signature (unchanged)
+- **Heads:** Remo Ambassador Coated (unchanged)
+- **Notable:** Garstka switched from Pearl to a DW Collector's Series custom shop kit and from a Pearl Demon Drive to a Tama Speed Cobra 910 double pedal in September 2021, ahead of "Parrhesia" (2022). He continues touring "Parrhesia" on this setup while maintaining the core philosophy established a decade earlier: dynamics and musicality over raw power.
 
 ---
 
@@ -53,20 +55,21 @@
 - **2012:** Joins Animals as Leaders, transitioning from jazz studies to progressive metal
 - **2014:** "The Joy of Motion" establishes the Pearl Masterworks Maple + Meinl Byzance combination
 - **2016:** Pearl Matt Garstka Signature Snare and Vic Firth Matt Garstka Signature sticks released — the moment his gear became personalized
-- **Pearl/Meinl consistency:** Garstka has used Pearl drums and Meinl Byzance cymbals continuously since joining AAL in 2012, with hardware and signature products evolving but the core brand relationships unchanged
+- **September 2021:** Switched from Pearl to a DW Collector's Series custom shop kit (with a DW Collector's Series Purpleheart snare) and from a Pearl Demon Drive to a Tama Speed Cobra 910 double pedal, ahead of "Parrhesia" (2022)
+- **Meinl/Vic Firth/Remo consistency:** Garstka has used Meinl Byzance cymbals, Vic Firth sticks, and Remo drumheads continuously since joining AAL in 2012, unaffected by the 2021 drum kit and pedal brand switch
 
 ---
 
 ## FAQ
 
 **Q: What drum kit does Matt Garstka play?**  
-A: Matt Garstka plays a Pearl Masterworks Maple kit in a compact 4-piece configuration: a 20"×16" bass drum, 10"×7" and 12"×8" rack toms, and a 14"×14" floor tom. The smaller-than-typical bass drum size is a deliberate choice for quick attack and articulation, reflecting his jazz-influenced approach to Animals as Leaders' technical material.
+A: Matt Garstka currently plays a DW Collector's Series (custom shop) kit, which he switched to in September 2021 after years on a Pearl Masterworks Maple compact 4-piece setup (2012–2021). His historical Pearl kit used a 20"×16" bass drum, 10"×7" and 12"×8" rack toms, and a 14"×14" floor tom — a smaller-than-typical bass drum size chosen for quick attack and articulation, reflecting his jazz-influenced approach to Animals as Leaders' technical material.
 
 **Q: How much does Matt Garstka's drum kit cost?**  
-A: Matt Garstka's 2014 "The Joy of Motion" setup cost approximately $7,949, equivalent to roughly $11,000 in 2026 after inflation. His current Pearl Masterworks Maple shell pack runs $4,000–$6,000, his Pearl Matt Garstka Signature Snare adds $400–$500, and his full Meinl Byzance cymbal setup can exceed $3,500–$4,500.
+A: Matt Garstka's 2014 "The Joy of Motion" setup cost approximately $7,949, equivalent to roughly $11,000 in 2026 after inflation. Pricing for his current DW Collector's Series custom shop kit and DW Collector's Series Purpleheart snare has not been independently verified — custom shop builds are quoted per configuration. His earlier Pearl Masterworks Maple shell pack (played through 2021) ran approximately $4,000–$6,000 new, with his Pearl Matt Garstka Signature Snare adding around $400–$500. His Meinl Byzance cymbal setup, unchanged through the DW switch, can exceed $3,500–$4,500.
 
 **Q: Does Matt Garstka have a signature snare?**  
-A: Yes. Garstka has a Pearl Matt Garstka Signature Snare — a 14"×5" maple shell with a unique bearing edge designed for sensitivity and ghost-note articulation, released around 2016. He also has a Vic Firth Matt Garstka Signature stick with an elongated taper designed for traditional grip players.
+A: Yes. Garstka released a Pearl Matt Garstka Signature Snare — a 14"×5" maple shell with a unique bearing edge designed for sensitivity and ghost-note articulation — around 2016, which he used through 2021. Since switching to DW in September 2021, his touring snare has been a DW Collector's Series Purpleheart snare. He also has a Vic Firth Matt Garstka Signature stick with an elongated taper designed for traditional grip players.
 
 **Q: What cymbals does Matt Garstka use?**  
 A: Matt Garstka uses Meinl Byzance cymbals across multiple lines, including 15" Dual Hi-Hats, Byzance crashes from 18" to 20", a 22" Byzance Sand Ride, an 18" Vintage Trash Hat China, and various stack effects. The dark, hand-hammered Byzance character suits his preference for musicality over raw aggression.

@@ -14459,3 +14459,57 @@ Picked up the 3 "held-back / ready next run" candidates logged at the end of thi
 1. Watch #9773-9775 pick up via CEO triage then Roadie; confirm #9774/#9775's "grep live" instruction is followed (this proposal's own cited line numbers may drift), and that #9775's narrative rewrites don't leave stranded "evolved from AAX to HHX" sentences after a partial fix.
 2. Content-gap: still no gap rows — no action.
 3. Drum-chair watch: done for this week (logged this morning); next due Monday 2026-11-02, group 1.
+
+
+---
+
+## 2026-10-27 (run, Tuesday, ~01:2x UTC) — fresh-angle fact-drift sweep, 7 filed (#9792-9798)
+
+### Audit summary
+- robots.txt: all 8 AI crawler UAs explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) ✅. Unchanged since last check.
+- `/llms/*.md`: 2,027 markdown files total, 72 under `public/llms/drummers/` (covers the full roster + index/faq/gear-guide). Healthy, unchanged.
+- Bank check: 11 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #3819/#3810/#2211 + #9783-9789, which the 00:30 UTC CEO cheap-pulse had already verified+promoted to `ai-fix` minutes before this run) — effectively **0 fresh untriaged**, well under the 45 floor → filed up to the cap.
+- Content-gap: no rows this week (metrics.md table empty, "all queries with traction have decent CTR").
+- Drum-chair watch: today is Tuesday — not the Monday trigger day, section skipped per instructions.
+
+### Metrics readout
+- GSC 7d: 17,453 impr / 174 clicks / 1.00% CTR / pos 9.0 (metrics.md, refreshed 01:20 UTC).
+- GA4 7d: 379u/421s/577v. Top pages: `/drummer/frost` (13v), `/` (11v), `/drummer/joey-jordison` (10v), `/drummer/mario-duplantier` (9v), `/drummer/john-otto` (8v).
+
+### Method
+With the untriaged bank at effectively zero and no fresh content-gap rows, continued the standing cross-file gear/fact-drift accuracy sweep (LLM-first mode Rule 2/3: depth + citable-fact fixes on existing pages). Picked genuinely fresh ground rather than re-scanning already-heavily-swept drummers:
+- Ran the **"missing historical category" sweep** explicitly flagged as worth doing in `learned-patterns.md` (cross-reference each drummer's `endorsementNews.js` prose notes against every OTHER category's historical-brand map) across ~69 drummers. Found 2 clean missing-entry gaps (Gene Hoglan HARDWARE, Matt Greiner CYMBALS) and, as a bonus, a genuinely new **live fabrication** in the ground-truth file itself: Sean Reinert's `endorsementNews.js` entry still credits him with Death's "Spiritual Healing" (1990) — the exact wrong-album fabrication #5949 already fixed everywhere else, but never synced to this file.
+- Targeted **Frost** (this week's #1 GA4 page, never covered by any `genreGearGuides.js`-era sweep) — found cymbals still fabricated as "Zildjian A Custom & K Series" in `drummerComparisons.js`'s `frost-vs-inferno` entry plus 4 stale `/vs/`+`/comparisons/` llms mirrors, despite 8 prior closed issues (#9016/#9026/#9027/#7718/#7913/#8058/#7753/#9147) having swept this fabrication class everywhere else — confirmed via `git show --stat` that none of those commits ever touched this file.
+- Targeted **Matt Garstka** (top GSC query this week, never covered by `genreGearGuides.js` sweep) — found a fabricated "Tama Titan Series Hardware" (rack/stands) endorsement in the djent hardware guide (ground truth only verifies Tama as his pedal brand) and found `public/llms/gear-history/matt-garstka.md` still presents his pre-Sept-2021 Pearl kit/pedal as "current," fully denying the verified DW/Tama switch — never touched by any of the ~30 prior Garstka fix commits.
+- Targeted **Igor Cavalera** (top-10 GA4 page; prior fixes #9389/#8275 only touched `soundLikeGuides.js`, never `genreGearGuides.js`) — found an era-conflation bug prior brand-focused sweeps missed: the (correctly-named) Tama Iron Cobra pedal is narrated as driving his 1993/1996 Chaos A.D./Roots-era "tribal groove" transformation, but ground truth is unambiguous that this endorsement started in 2018 — the 1993-96 era used Pearl hardware/DW 5000 Turbo. Issue #7691 had explicitly told future agents "do NOT touch" these lines, believing them already brand-accurate without checking the era narrative.
+
+### Proposals filed this run
+1. #9792 — SEO: Matt Garstka fabricated as "Tama Titan Series Hardware" user in genreGearGuides.js djent hardware guide
+2. #9793 — SEO batch: Frost cymbals still fabricated as "Zildjian A Custom & K Series" in drummerComparisons.js frost-vs-inferno + 4 stale llms /vs//comparisons mirrors
+3. #9794 — SEO: Matt Garstka llms/gear-history/matt-garstka.md still shows Pearl kit/pedal as current gear — denies verified Sept 2021 DW/Tama switch
+4. #9795 — SEO: Igor Cavalera's Tama Iron Cobra pedal fabricated as driving 1993/1996 Chaos A.D./Roots era (genreGearGuides.js)
+5. #9796 — SEO: Sean Reinert endorsementNews.js still fabricates Death "Spiritual Healing" (1990) recording debut — #5949 never synced this file
+6. #9797 — SEO: Gene Hoglan missing historical HARDWARE entry for Pearl Demon Drive Double Pedal (2018)
+7. #9798 — SEO: Matt Greiner missing historical CYMBALS entries for Meinl (2003/2011 era, pre-Paiste)
+
+All filed with `seo-proposal,seo` labels only (no `ai-fix`), self-contained bodies with exact file:line citations on both the wrong claim and the ground-truth source, a `## Verify` section, and a `## Done` line. Each was dedup-checked against open+closed issues and git history before filing.
+
+### Held-back / not filed
+- Chris Turner's 2013 "initial Tama Speed Cobra pedal" prose mention (no matching HARDWARE entry) — lower confidence than the other 3 historical-category gaps (prior fix #8790 already added a 2017 HARDWARE entry for the same drummer; the 2013 wording reads more tentative). Dropped to stay inside the agent's 3-issue sub-cap; worth a quick re-check next time this pattern is swept.
+
+### Drummers checked with no gap found this run
+sean-reinert (gap found — not "no gap", see above), lars-ulrich, joey-jordison, tomas-haake, dave-lombardo, george-kollias, eloy-casagrande, jay-weinberg, mike-portnoy, danny-carey, mario-duplantier, brann-dailor, chris-adler, matt-halpern, inferno, charlie-benante, jaska-raatikainen, bill-ward, john-otto, ben-koller, mikkey-dee, gavin-harrison, hellhammer, scott-travis, nicko-mcbrain, vinnie-paul, shannon-larkin, igor-cavalera (historical-category angle only — genreGearGuides.js era-bug found separately, see above), dirk-verbeuren, frost (historical-category angle only — drummerComparisons.js bug found separately, see above), abe-cunningham, travis-orbin, arin-ilejay, blake-richardson, daniel-erlandsson, derek-roddy, hannes-grossmann, jason-bittner, jocke-wallgren, mike-mangini, morgan-agren, navene-koperweis, nick-augusto, paul-mazurkiewicz, pete-sandoval, ray-luzier, raymond-herrera, richard-christy, ryan-van-poederooyen, tim-yeung, daray, kevin-talley, martin-axenrot, martin-lopez, matt-garstka (historical-category angle only), nick-menza, art-cruz, alex-bent, adrian-erlandsson, jon-dette, jimmy-degrasso, nick-barker, alex-rudinger, john-longstreth, waltteri-vayrynen.
+
+### Learned-patterns.md updates
+- None this run — all findings are instances of already-documented fabrication classes (cross-category historical-entry gaps, era-conflation, mirror-never-synced) recurring in new files/drummers, not a new generalizable lesson.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9792-9798 (this run, 7 fresh)
+
+### Next run
+1. Watch #9792-9798 pick up via CEO triage then Roadie; confirm #9796's `endorsementNews.js` edit removes both the fabricated 1990 Pearl entry AND the 1991 entry's `from: 'Pearl Export Series'` residue (not just the album-name fix), and that #9793's 4 llms mirror files get regenerated alongside the 1-line `drummerComparisons.js` fix.
+2. Content-gap: still no gap rows — no action.
+3. Drum-chair watch: not due this run (Tuesday); next due Monday 2026-11-02, group 1.
+4. Follow-up candidate held back: Chris Turner 2013 HARDWARE historical-entry gap — low-priority re-check next historical-category sweep.

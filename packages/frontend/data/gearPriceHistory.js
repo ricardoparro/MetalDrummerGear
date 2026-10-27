@@ -7684,7 +7684,7 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     priceEvolution: [
-      { year: 2012, price: 6800, label: 'Departs Periphery', event: 'Left the band after his run as a founding member; continued as a session and solo artist' },
+      { year: 2009, price: 6800, label: 'Departs Periphery', event: 'Left the band after replacing founding drummer Jason Berlin; continued as a session and solo artist' },
       { year: 2017, price: 7783, label: 'Original Purchase', event: 'Joins Darkest Hour — full SJC Custom / Zildjian K Custom rig documented on Godless Prophets & the Migrant Flora' },
       { year: 2019, price: 8100, label: 'Continued Darkest Hour tenure', event: 'Same SJC / Zildjian configuration carried through subsequent touring cycles' },
       { year: 2026, price: 10403, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2017 Godless Prophets-era setup' },

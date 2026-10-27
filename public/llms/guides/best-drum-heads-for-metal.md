@@ -24,7 +24,7 @@ Metal places specific demands on heads: they need focused attack that cuts throu
 - **Price range:** $25–$45 per head
 - **Best for:** All metal styles — thrash, death, black, modern, progressive
 
-The Evans G2 Coated is the single most common drum head on MetalForge's entire pro roster. Lars Ulrich ([/drummer/lars-ulrich](https://metalforge.io/drummer/lars-ulrich)) has used Evans throughout Metallica's career. Gene Hoglan ([/drummer/gene-hoglan](https://metalforge.io/drummer/gene-hoglan)) relies on the G2 for the focused, powerful tone his precision requires. Tomas Haake ([/drummer/tomas-haake](https://metalforge.io/drummer/tomas-haake)) uses Evans for attack and control in Meshuggah's mechanical precision.
+The Evans G2 Coated is the single most common drum head on MetalForge's entire pro roster. Gene Hoglan ([/drummer/gene-hoglan](https://metalforge.io/drummer/gene-hoglan)) relies on the G2 for the focused, powerful tone his precision requires. Tomas Haake ([/drummer/tomas-haake](https://metalforge.io/drummer/tomas-haake)) uses Evans for attack and control in Meshuggah's mechanical precision.
 
 The double-ply coated construction delivers everything metal needs: warm, focused attack that sits in dense mixes, natural sustain control without deadening the drum, and durability that holds up under aggressive playing. Evans' Level 360 collar technology ensures these heads seat evenly and tune across a wide range without wrinkling.
 
@@ -52,7 +52,7 @@ Tomas Haake ([/drummer/tomas-haake](https://metalforge.io/drummer/tomas-haake)) 
 
 The Remo Coated Ambassador is the most recorded drum head in history. Single-ply 10mil coated construction delivers warm, open attack with natural sustain — different from the controlled punch of double-ply heads, but musical and distinctive.
 
-Nicko McBrain ([/drummer/nicko-mcbrain](https://metalforge.io/drummer/nicko-mcbrain)) of Iron Maiden is a long-time Remo endorser, and the warm, musical drum tones on Maiden's classic records reflect the Ambassador's character. Bill Ward of Black Sabbath's early recordings feature Ambassador-style heads, establishing the organic, natural drum voice that influenced every metal band that followed.
+Lars Ulrich ([/drummer/lars-ulrich](https://metalforge.io/drummer/lars-ulrich)) has used Remo heads throughout Metallica's career, signing with the brand around the same time he switched to Tama drums in the mid-1980s. Nicko McBrain ([/drummer/nicko-mcbrain](https://metalforge.io/drummer/nicko-mcbrain)) of Iron Maiden is a long-time Remo endorser, and the warm, musical drum tones on Maiden's classic records reflect the Ambassador's character. Bill Ward of Black Sabbath's early recordings feature Ambassador-style heads, establishing the organic, natural drum voice that influenced every metal band that followed.
 
 For traditional heavy metal, doom, or any style where you want warmth over aggression, the Ambassador Coated is the benchmark.
 
@@ -87,7 +87,7 @@ Gene Hoglan ([/drummer/gene-hoglan](https://metalforge.io/drummer/gene-hoglan)) 
 
 ## Key Drummers Who Use These Heads
 
-- **Lars Ulrich** ([/drummer/lars-ulrich](https://metalforge.io/drummer/lars-ulrich)) — Evans G2 Coated throughout Metallica's career; defines the modern pro metal head standard
+- **Lars Ulrich** ([/drummer/lars-ulrich](https://metalforge.io/drummer/lars-ulrich)) — Remo endorser since the mid-1980s; defining metal head tone across Metallica's catalog
 - **Gene Hoglan** ([/drummer/gene-hoglan](https://metalforge.io/drummer/gene-hoglan)) — Evans endorser; precision head control for Death, Testament, and beyond
 - **Tomas Haake** ([/drummer/tomas-haake](https://metalforge.io/drummer/tomas-haake)) — Evans G2 and EC2 for Meshuggah's ultra-controlled attack
 - **Nicko McBrain** ([/drummer/nicko-mcbrain](https://metalforge.io/drummer/nicko-mcbrain)) — Remo endorser; warm, musical tone across Iron Maiden's classic catalog
@@ -138,7 +138,7 @@ Don't wait until they break. A head that's lost its tone is robbing you of sound
 ## FAQ
 
 **What drum heads do metal drummers use?**
-Most professional metal drummers use double-ply coated heads, primarily Evans G2 Coated or Remo Emperor Coated for toms and snare. Lars Ulrich, Gene Hoglan, and Tomas Haake use Evans. Nicko McBrain and Mike Mangini use Remo. The double-ply construction provides the attack, durability, and natural sustain control that metal demands.
+Most professional metal drummers use double-ply coated heads, primarily Evans G2 Coated or Remo Emperor Coated for toms and snare. Gene Hoglan and Tomas Haake use Evans. Lars Ulrich, Nicko McBrain, and Mike Mangini use Remo. The double-ply construction provides the attack, durability, and natural sustain control that metal demands.
 
 **Should I use coated or clear heads for metal?**
 Coated heads are generally better for metal. The coating adds warmth and attack focus, reducing the brightness that can clash with heavy guitars. Clear heads are used as resonant heads. Most pros use coated batters.

@@ -3871,8 +3871,8 @@ export const GEAR_PRICE_HISTORY = {
       },
       snare: {
         item: 'Tama Signature Series Dirk Verbeuren Snare',
-        model: '14"x5.5" steel shell',
-        specs: '14"x5.5" steel, medium-high tension',
+        model: '14"x5.5" bronze shell (1.5mm)',
+        specs: '14"x5.5" bronze, 1.5mm shell, medium-high tension',
         originalPrice: 480,
         year: 2022,
         source: 'Tama Signature Series catalog 2022',

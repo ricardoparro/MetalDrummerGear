@@ -11,11 +11,11 @@
 
 ## Gear Timeline
 
-### Departs Periphery (2012)
+### Departs Periphery (2009)
 
 - **Drums:** Developing rig, transitioning between endorsements
-- **Estimated cost (2012):** ~$6,800
-- **Notable:** Left Periphery after his run as a founding member, continuing as a session and solo artist while building his technical, electronics-augmented playing style.
+- **Estimated cost (2009):** ~$6,800
+- **Notable:** Left Periphery after replacing founding drummer Jason Berlin, continuing as a session and solo artist while building his technical, electronics-augmented playing style.
 
 ### Godless Prophets & the Migrant Flora Era (2017)
 
@@ -44,7 +44,7 @@
 
 ## Key Gear Changes
 
-- **2012:** Departs Periphery after his founding-member run; continues as a session and solo artist
+- **2009:** Departs Periphery after replacing founding drummer Jason Berlin; continues as a session and solo artist
 - **2017:** Joins Darkest Hour — full SJC Custom / Zildjian K Custom rig documented on Godless Prophets & the Migrant Flora
 - **2019:** Same SJC/Zildjian configuration carries through continued touring
 

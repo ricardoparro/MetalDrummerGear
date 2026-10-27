@@ -7976,7 +7976,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Hikari (2017)',
     profileImage: '/images/drummers/chris-turner.webp',
 
-    summary: "Chris Turner's 2017 setup behind Oceans Ate Alaska's Hikari — the album that carried his viral drum playthrough videos to a global audience — documents the gear behind one of progressive metalcore's most technically compositional drummers. Founding Oceans Ate Alaska in Birmingham, UK in 2010, Turner built his Hikari-era rig around a Tama Starclassic Maple/Birch shell pack, a Tama S.L.P. 14\"x5.5\" G-Maple snare, and a Meinl Byzance cymbal setup spanning Extra Dry crashes and Dual-configuration hi-hats and ride, driven by a Tama Speed Cobra 910 double pedal. The complete rig cost approximately $5,042 in 2017 dollars, equivalent to roughly $6,739 today after inflation.\n\nEvery choice mapped onto what Hikari's compositional density demanded. The Starclassic Maple/Birch's hybrid shell construction — maple for warmth and sustain, birch for focused attack — gave Turner's polyrhythmic kick patterns and melodic fill sequences the clarity to cut through Oceans Ate Alaska's layered guitar arrangements without losing musicality. The Byzance Extra Dry crashes and china delivered short, focused decay for precise accent placement at phrase boundaries, while the Speed Cobra 910's dual-chain drive gave his velocity-even double bass technique the mechanical consistency it required at tempo.\n\nThat Starclassic / Byzance / Speed Cobra core has remained Turner's defining configuration through Oceans Ate Alaska's more ambitious, mathcore-inflected follow-up Disparity (2022), a testament to a setup built around compositional purpose rather than display. Valued at approximately $6,834 at current retail, it remains one of the most-referenced technical metalcore rigs of its generation, studied by drummers working through the Hansha, Escapist, and Metamorph technique breakdowns his playthroughs made famous.",
+    summary: "Chris Turner's 2017 setup behind Oceans Ate Alaska's Hikari — the album that carried his viral drum playthrough videos to a global audience — documents the gear behind one of progressive metalcore's most technically compositional drummers. Founding Oceans Ate Alaska in Birmingham, UK in 2010, Turner built his Hikari-era rig around a Tama Starclassic Maple/Birch shell pack, a Tama Starclassic matching snare, and a Meinl Byzance cymbal setup spanning Extra Dry crashes and Dual-configuration hi-hats and ride, driven by a Tama Speed Cobra 910 double pedal. The complete rig cost approximately $5,042 in 2017 dollars, equivalent to roughly $6,739 today after inflation.\n\nEvery choice mapped onto what Hikari's compositional density demanded. The Starclassic Maple/Birch's hybrid shell construction — maple for warmth and sustain, birch for focused attack — gave Turner's polyrhythmic kick patterns and melodic fill sequences the clarity to cut through Oceans Ate Alaska's layered guitar arrangements without losing musicality. The Byzance Extra Dry crashes and china delivered short, focused decay for precise accent placement at phrase boundaries, while the Speed Cobra 910's dual-chain drive gave his velocity-even double bass technique the mechanical consistency it required at tempo.\n\nThat Starclassic / Byzance / Speed Cobra core has remained Turner's defining configuration through Oceans Ate Alaska's more ambitious, mathcore-inflected follow-up Disparity (2022), a testament to a setup built around compositional purpose rather than display. Valued at approximately $6,834 at current retail, it remains one of the most-referenced technical metalcore rigs of its generation, studied by drummers working through the Hansha, Escapist, and Metamorph technique breakdowns his playthroughs made famous.",
 
     setup: {
       drums: {
@@ -7995,18 +7995,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       snare: {
-        item: 'Tama S.L.P. G-Maple',
-        model: '14"x5.5" G-Maple',
-        specs: '14" x 5.5" maple shell',
+        item: 'Tama Starclassic Matching Snare',
+        model: '14"x5.5" Maple/Birch matching snare',
+        specs: '14" x 5.5" maple/birch shell, matched to the Starclassic Maple/Birch shell pack',
         originalPrice: 300,
         year: 2017,
-        source: 'Tama S.L.P. Series catalog pricing 2017',
-        notes: 'Fast-attack maple snare selected for ghost-note clarity in Turner\'s compositional hand patterns.',
+        source: 'Tama Starclassic Maple/Birch catalog pricing 2017, matched-snare pricing estimate',
+        notes: 'Stock Starclassic matching snare delivering bright attack for ghost-note clarity in Turner\'s compositional hand patterns; upgraded to a Tama S.L.P. G-Maple snare for Disparity (2022).',
         vintageValue2026: 250,
         modernEquivalent: {
-          item: 'Tama S.L.P. G-Maple 14"x5.5" (Current)',
+          item: 'Tama Starclassic Maple/Birch Matching Snare (Current)',
           price: 400,
-          link: 'tama-slp-g-maple-chris-turner',
+          link: 'tama-starclassic-maple-birch-snare-chris-turner',
         },
       },
       cymbals: {

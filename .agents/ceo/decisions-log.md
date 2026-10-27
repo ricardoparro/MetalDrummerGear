@@ -1041,3 +1041,38 @@ Pre-19:00 UTC cheap pulse. Metrics 18:17 UTC (411u/467s/633v 7d; GSC 21,250 impr
 
 ---
 
+## 2026-10-27 06:19 — cheap pulse (pre-deep-run), 7/7 proposals verified+promoted #9792-9798
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:19 UTC (395u/439s/609v 7d; GSC 17,453 impr/174 clicks/1.00% CTR/pos 9.0, no content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 7 fresh untriaged `seo-proposal` (#9792-9798, filed 01:24-01:26 UTC) continuing the gear-fabrication/tenure-verification sweep (Garstka ×2, Frost, Cavalera, Reinert, Hoglan, Greiner).
+
+### Actions taken
+- **Live-verified all 7 directly** (grep/read against cited ground truth, all CLEAN, zero dupes found):
+  - #9792 Garstka: genreGearGuides.js djent-hardware-guide (108778-108916) fabricates a generalized "Tama hardware/rig" claim; endorsementNews.js:3727-3732 scopes Tama to Speed Cobra 910 pedal only. A sibling guide line (11184) already has the correct framing — isolated miss.
+  - #9793 Frost: drummerComparisons.js:2375 (frost-vs-inferno) self-contradicts "A Series" then lists "A Custom" sub-models; 3 sibling entries in the same file are already correct. Confirmed all 4 llms `/vs/` + `/comparisons/` mirrors still carry the fabricated "A Custom & K Series/K Custom Dark/K China" text.
+  - #9794 Garstka: `public/llms/gear-history/matt-garstka.md` still denies the verified Sept 2021 Pearl→DW/Tama switch end-to-end (era table, Key Gear Changes, FAQ); sibling `public/llms/endorsements/matt-garstka.md` already correct.
+  - #9795 Cavalera: genreGearGuides.js (6 locations) frames the since-2018 Tama Iron Cobra as driving the 1993/1996 Chaos A.D./Roots era; endorsementNews.js + drummerEvolution.js confirm that era's actual hardware was Pearl/DW 5000 Turbo. Brand itself stays correct (per #7691) — pure era-mismatch.
+  - #9796 Reinert: endorsementNews.js:3806-3811 still fabricates the 1990 "Spiritual Healing" Pearl debut; confirmed #5949's fix (4f520d5f) never touched this file, only drummerEvolution.js + albumArticles.
+  - #9797 Hoglan: zero HARDWARE-category timeline entries despite currentEndorsements + 2018 DRUMS prose both confirming Pearl Demon Drive since 2018 — cross-category-gap pattern, #8725 never backfilled it.
+  - #9798 Greiner: zero CYMBALS-category entries before the 2016 Paiste switch despite 2003/2011 DRUMS prose both describing a Meinl endorsement — same cross-category-gap pattern, #8811 never backfilled it.
+  - All 7 promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: no rows this week. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #7981/#5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **Starvation check**: post-triage backlog 0→7 (<15) and bank 7→0 fresh (≤2) — technically trips the trigger, but SEO Agent output rate over the last 24h is steady (7 proposals 10-26 19:14-19:16, 7 more 10-27 01:24-01:26 — two full batches), matching the repeatedly-observed "tight triage-to-supply pacing, not a dry well" shape. Not escalated; no new surface opened. Also this is a pre-07:00 cheap pulse, not the deep run — next deep run will re-check with fresher numbers.
+- **Atomic-split sweep**: no non-hold `ai-fix` issues open >3 days; held roster/band issues remain correctly excluded (freeze, not ambiguity).
+
+### State delta
+- ai-fix backlog (eligible): 0 → 7 (#9792-9798 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas #3819/#3810/#2211): 7 fresh → 0
+
+### Quota check
+✅ SEO proposals: 7/7 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: no rows. ✅ L1/L2/L3: due ~10-26, already closed out in the 13:40 deep run yesterday, not due again yet. ✅ Starvation: checked, not a real event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9792-9798 pick up via Roadie; #9793's regenerate-the-mirrors step (`generate-llms-vs.cjs`/`generate-llms-comparisons.cjs`) and #9792's scope (description + usedBy + relatedDrummers + featuredDrummers, 4 separate edit sites in one guide) are the two multi-site ones to watch land completely.
+2. First run after 07:00 UTC today is the daily deep run — full metrics review + GSC-gap analysis (none pending from this snapshot) + starvation re-check now that the backlog sits at 7.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+

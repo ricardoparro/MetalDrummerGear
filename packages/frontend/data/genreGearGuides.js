@@ -6034,7 +6034,7 @@ The SONIClear bearing edge is Mapex's precision-cut edge that enhances both atta
           
           description: `The Yamaha Recording Custom series has legendary studio credentials, and the steel version delivers pristine, focused crack perfect for thrash. The 1mm steel shell provides bright, cutting attack with controlled sustain.
 
-Dave Lombardo has used Yamaha snares at various points in his career, appreciating their consistency and studio-friendly tone. The RCS1450's 5" depth makes it exceptionally responsive for blast beats and fast double strokes.`,
+The RCS1450's 5" depth makes it exceptionally responsive for blast beats and fast double strokes.`,
           
           pros: [
             "Studio-quality tone",
@@ -6056,7 +6056,6 @@ Dave Lombardo has used Yamaha snares at various points in his career, appreciati
             throwOff: "Q-Type strainer"
           },
           usedBy: [
-            { name: "Dave Lombardo", band: "Slayer", note: "Various recordings" },
             { name: "Tommy Lee", band: "Mötley Crüe", note: "Hair metal icon" }
           ],
           bestFor: "Studio thrash recordings, precise articulation, fast playing"

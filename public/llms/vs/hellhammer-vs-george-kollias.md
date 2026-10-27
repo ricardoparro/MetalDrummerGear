@@ -19,7 +19,7 @@ Mayhem's Hellhammer vs Nile's George Kollias. Two of extreme metal's most-cited 
 ## George Kollias Setup
 
 - **Drums:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
-- **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
+- **Cymbals:** Zildjian A Custom Series
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
 - **Sticks:** Vic Firth
@@ -34,7 +34,7 @@ Hellhammer's blast beats favor cold, relentless one-foot speed built for atmosph
 
 ## Key Differences
 
-Hellhammer's "De Mysteriis Dom Sathanas" rig was a developing-endorsement Sonor 5-piece shell pack with a Sonor 14"x5.5" steel snare tuned bright for crack; his modern kit has been the Sonor SQ2 Heavy Beech series since 1999 for his Dimmu Borgir symphonic work. George Kollias plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14"x6.5" snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), driven by his co-designed Pearl Demon XR double pedal and Vic Firth sticks. Hellhammer's blast beats favor cold, relentless one-foot speed built for atmosphere and aggression over technical display — a chaotic, weather-system quality that defined black metal's drumming vocabulary. George uses heel-toe double bass technique to sustain blast beats at extreme tempos across entire songs and albums, a physically demanding approach that requires precise pedal control most drummers never attempt to hold for a full set. Where Hellhammer's speed reads as raw and unrelenting, George's reads as engineered and sustainable — two very different technical answers to the same "how fast can a human play" question.
+Hellhammer's "De Mysteriis Dom Sathanas" rig was a developing-endorsement Sonor 5-piece shell pack with a Sonor 14"x5.5" steel snare tuned bright for crack; his modern kit has been the Sonor SQ2 Heavy Beech series since 1999 for his Dimmu Borgir symphonic work. George Kollias plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14"x6.5" snare and Zildjian A Custom Series cymbals, driven by his co-designed Pearl Demon XR double pedal and Vic Firth sticks. Hellhammer's blast beats favor cold, relentless one-foot speed built for atmosphere and aggression over technical display — a chaotic, weather-system quality that defined black metal's drumming vocabulary. George uses heel-toe double bass technique to sustain blast beats at extreme tempos across entire songs and albums, a physically demanding approach that requires precise pedal control most drummers never attempt to hold for a full set. Where Hellhammer's speed reads as raw and unrelenting, George's reads as engineered and sustainable — two very different technical answers to the same "how fast can a human play" question.
 
 ## Influence & Legacy
 

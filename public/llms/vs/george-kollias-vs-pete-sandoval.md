@@ -11,7 +11,7 @@ Nile's George Kollias vs Morbid Angel's Pete Sandoval. Blast beats, speed, and e
 ## George Kollias Setup
 
 - **Drums:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
-- **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
+- **Cymbals:** Zildjian A Custom Series
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
 - **Sticks:** Vic Firth
@@ -56,7 +56,7 @@ A: George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold 
 A: Both are legends in their own right. Pete Sandoval laid the foundation for extreme death metal drumming. See the full analysis at [metalforge.io/vs/george-kollias-vs-pete-sandoval](https://metalforge.io/vs/george-kollias-vs-pete-sandoval).
 
 **Q: What cymbals do George Kollias and Pete Sandoval use?**
-A: George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). Pete Sandoval uses Cymbal brand/model not publicly documented.
+A: George Kollias uses Zildjian A Custom Series cymbals. Pete Sandoval uses Cymbal brand/model not publicly documented.
 
 ---
 

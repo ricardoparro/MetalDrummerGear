@@ -19,7 +19,7 @@ Slipknot's Joey Jordison vs Nile's George Kollias. Blast beats, technical death 
 ## George Kollias Setup
 
 - **Drums:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
-- **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
+- **Cymbals:** Zildjian A Custom Series
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
 - **Sticks:** Vic Firth
@@ -56,7 +56,7 @@ A: Joey Jordison plays Pearl Reference Series. George Kollias plays Pearl Master
 A: Both are legends in their own right. Joey Jordison brought extreme drumming into the mainstream through Slipknot's massive reach. See the full analysis at [metalforge.io/vs/joey-jordison-vs-george-kollias](https://metalforge.io/vs/joey-jordison-vs-george-kollias).
 
 **Q: What cymbals do Joey Jordison and George Kollias use?**
-A: Joey Jordison uses Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride). George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
+A: Joey Jordison uses Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride). George Kollias uses Zildjian A Custom Series cymbals.
 
 ---
 

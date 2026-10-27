@@ -19,7 +19,7 @@ Tool's Danny Carey vs Nile's George Kollias — polyrhythmic progressive metal a
 ## George Kollias Setup
 
 - **Drums:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
-- **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
+- **Cymbals:** Zildjian A Custom Series
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
 - **Sticks:** Vic Firth
@@ -34,7 +34,7 @@ Carey's technique favors spacious, deliberate polyrhythmic construction — his 
 
 ## Key Differences
 
-Danny plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas), driven by a Sonor Giant Step Twin Effect double pedal, Mandala Drum electronic pads, and Vic Firth signature sticks. George plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14x6.5" snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), driven by his co-designed Pearl Demon XR double pedal and Vic Firth sticks. Carey's technique favors spacious, deliberate polyrhythmic construction — his Fibonacci-sequence patterns on "Lateralus" (2001) and the expanded electronic textures on "Fear Inoculum" (2019) prioritize compositional depth over raw speed, giving Tool's songs room to breathe across long, evolving arrangements. Kollias's technique is built for sustained extreme velocity — his heel-toe double bass and gravity-blast work let him hold blast beats at tempos few drummers can sustain across an entire song, let alone an album like "Annihilation of the Wicked."
+Danny plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas), driven by a Sonor Giant Step Twin Effect double pedal, Mandala Drum electronic pads, and Vic Firth signature sticks. George plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14x6.5" snare and Zildjian A Custom Series cymbals, driven by his co-designed Pearl Demon XR double pedal and Vic Firth sticks. Carey's technique favors spacious, deliberate polyrhythmic construction — his Fibonacci-sequence patterns on "Lateralus" (2001) and the expanded electronic textures on "Fear Inoculum" (2019) prioritize compositional depth over raw speed, giving Tool's songs room to breathe across long, evolving arrangements. Kollias's technique is built for sustained extreme velocity — his heel-toe double bass and gravity-blast work let him hold blast beats at tempos few drummers can sustain across an entire song, let alone an album like "Annihilation of the Wicked."
 
 ## Influence & Legacy
 

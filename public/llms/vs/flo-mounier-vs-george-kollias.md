@@ -19,7 +19,7 @@ Cryptopsy's Flo Mounier vs Nile's George Kollias. The ultimate technical death m
 ## George Kollias Setup
 
 - **Drums:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
-- **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
+- **Cymbals:** Zildjian A Custom Series
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
 - **Sticks:** Vic Firth
@@ -34,7 +34,7 @@ Mounier employs a gravity blast technique refined for sustained technical speed,
 
 ## Key Differences
 
-Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) and Tama Iron Cobra 900 double pedals. George Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian K and A Custom cymbals and the Pearl Demon XR double pedal — co-designed for the extreme-tempo double bass demands of Nile's compositions. Mounier employs a gravity blast technique refined for sustained technical speed, combining wrist tension control with jazz-influenced timing that produces swing and fluidity beneath brutal velocity — making his playing feel musical even at extreme tempos. Kollias co-designed the Pearl Demon XR pedal for maximum double bass speed and uses heel-toe technique to sustain blast beats at 280+ BPM across marathon Nile compositions that demand extraordinary physical endurance.
+Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) and Tama Iron Cobra 900 double pedals. George Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian A Custom Series cymbals and the Pearl Demon XR double pedal — co-designed for the extreme-tempo double bass demands of Nile's compositions. Mounier employs a gravity blast technique refined for sustained technical speed, combining wrist tension control with jazz-influenced timing that produces swing and fluidity beneath brutal velocity — making his playing feel musical even at extreme tempos. Kollias co-designed the Pearl Demon XR pedal for maximum double bass speed and uses heel-toe technique to sustain blast beats at 280+ BPM across marathon Nile compositions that demand extraordinary physical endurance.
 
 ## Influence & Legacy
 
@@ -53,7 +53,7 @@ A: Both are among the fastest drummers in metal history. Flo Mounier's gravity b
 A: A gravity blast uses stick momentum and rebound to achieve extreme speed without muscular force — Flo Mounier's speciality. Heel-toe technique applies to the bass drum pedal, using the heel and toe of the foot in sequence to double the number of strokes per pedal motion — George Kollias's speciality for extreme double bass speed.
 
 **Q: What gear do Flo Mounier and George Kollias use?**
-A: Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals. George Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian K and A Custom cymbals and the Pearl Demon XR double pedal, which he co-designed for extreme speed.
+A: Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals. George Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian A Custom Series cymbals and the Pearl Demon XR double pedal, which he co-designed for extreme speed.
 
 **Q: Which album best represents Flo Mounier's drumming?**
 A: Cryptopsy's None So Vile (1996) is universally considered Flo Mounier's definitive performance — one of the most technically demanding drum recordings in extreme metal history, combining gravity blast velocity with jazz-influenced ghost notes and complex fills.

@@ -19,7 +19,7 @@ Gojira's Mario Duplantier vs Nile's George Kollias. Eco-metal atmospheric power 
 ## George Kollias Setup
 
 - **Drums:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
-- **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
+- **Cymbals:** Zildjian A Custom Series
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
 - **Sticks:** Vic Firth
@@ -56,7 +56,7 @@ A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9
 A: Both are legends in their own right. Mario Duplantier brings atmospheric, eco-conscious tribal power to extreme metal — his drumming breathes with the music. See the full analysis at [metalforge.io/vs/mario-duplantier-vs-george-kollias](https://metalforge.io/vs/mario-duplantier-vs-george-kollias).
 
 **Q: What cymbals do Mario Duplantier and George Kollias use?**
-A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas). George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
+A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas). George Kollias uses Zildjian A Custom Series cymbals.
 
 ---
 

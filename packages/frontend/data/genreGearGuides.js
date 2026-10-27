@@ -11794,7 +11794,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl Eliminator Redl
       title: "Why Groove Metal Rewards Pocket Feel Over Raw Double-Bass Speed",
       content: `Groove metal inverts death metal's usual bass drum pedal priorities. Instead of chasing 250+ BPM blast beats, groove metal locks into syncopated, riff-tight patterns where the kick has to land exactly on the pocket — a fraction of a beat early or late and the entire riff falls apart. Vinnie Paul built the genre's founding template largely around single, deliberately-placed kick hits rather than nonstop double bass, reserving the double pedal for accents and section-ending bursts on Pantera classics like "Vulgar Display of Power" and "Far Beyond Driven." That restraint — feel over flash — is exactly what a groove metal bass drum pedal needs to deliver.
 
-Chris Adler's Trick Pro V double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." and "Roots," proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
+Chris Adler's Trick Pro V double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal has driven Sepultura and Cavalera Conspiracy's tribal groove metal pocket since 2018, proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
 
 This guide breaks down drive systems, footboard feel, and response tuning for a groove metal bass drum pedal — comparing four drummers whose setups defined the genre's syncopated, riff-locking foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -11971,11 +11971,11 @@ For groove metal drummers who want the genre's founding feel — weight and plac
           priceRange: "€350-500",
           tier: "pro",
           driveType: "Chain (Power Glide)",
-          description: `Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." and "Roots," proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone. The Power Glide cam adds authority at impact without sacrificing the control needed for tribal-influenced, riff-locked patterns.
+          description: `Igor Cavalera's Tama Iron Cobra double pedal has driven Sepultura and Cavalera Conspiracy's tribal groove metal pocket since 2018, proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone. The Power Glide cam adds authority at impact without sacrificing the control needed for tribal-influenced, riff-locked patterns.
 
 For groove metal drummers who want the smooth, adjustable feel of a proven flagship pedal without a boutique price tag, the Iron Cobra 900 remains a dependable standard.`,
           pros: [
-            "Igor Cavalera's Sepultura setup — driving the genre's tribal groove transformation",
+            "Igor Cavalera's Sepultura/Cavalera Conspiracy setup since 2018 — driving the genre's tribal groove pocket",
             "Power Glide cam adds impact authority without sacrificing pocket control",
             "Extensive adjustability for dialing in exact syncopated feel",
             "Die-cast aluminum construction built for demanding touring",
@@ -63935,7 +63935,7 @@ Budget shouldn't stop you either. A Zildjian S Family Dark or Sabian XSR Monarch
       title: "Why Groove Metal Needs a Tight, Punchy Pedal Over Pure Speed",
       content: `Groove metal inverts death metal's usual pedal priorities. Instead of chasing 250+ BPM blast beats, groove metal locks into syncopated, riff-tight patterns where the bass drum has to land exactly on the pocket — a fraction of a beat early or late and the entire riff falls apart. That changes what you need from a pedal: rather than a pedal tuned purely for maximum top-end speed, groove metal rewards a tight, immediate, highly controllable response that lets you nail syncopated accents with total precision.
 
-Vinnie Paul built groove metal's founding pedal template with Pantera, driving a chain-drive double pedal through the thunderous, syncopated double-kick patterns that anchored "Vulgar Display of Power" and "Far Beyond Driven" during his 1990-1996 Pantera era. Chris Adler's Trick Pro V double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." and "Roots," proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
+Vinnie Paul built groove metal's founding pedal template with Pantera, driving a chain-drive double pedal through the thunderous, syncopated double-kick patterns that anchored "Vulgar Display of Power" and "Far Beyond Driven" during his 1990-1996 Pantera era. Chris Adler's Trick Pro V double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal has driven Sepultura and Cavalera Conspiracy's tribal groove metal pocket since 2018, proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
 
 This guide breaks down drive systems, footboard feel, and response tuning for groove metal pedals — comparing four drummers whose setups defined the genre's syncopated, riff-locking foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -64083,7 +64083,7 @@ The rock-solid Gibraltar mounting eliminates hardware drift during Lamb of God's
           tier: "pro",
           driveType: "Chain (Power Glide)",
 
-          description: `Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." (1993) and "Roots" (1996), proving that a tight, controllable chain-drive pedal serves groove's syncopated pocket every bit as well as direct drive. The Power Glide cam delivers a smooth, consistent power curve suited to groove metal's accented downbeats.
+          description: `Igor Cavalera's Tama Iron Cobra double pedal has driven Sepultura and Cavalera Conspiracy's tribal groove metal pocket since 2018, proving that a tight, controllable chain-drive pedal serves groove's syncopated pocket every bit as well as direct drive. The Power Glide cam delivers a smooth, consistent power curve suited to groove metal's accented downbeats.
 
 The Iron Cobra's proven reliability across decades of touring makes it a dependable choice for drummers who want groove metal's traditional chain-drive feel without sacrificing precision on syncopated double-kick patterns.`,
 
@@ -64246,7 +64246,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
         {
           category: "Best Traditional Feel",
           pedal: "Tama Iron Cobra",
-          reason: "Igor Cavalera's Sepultura setup — proven chain-drive reliability for the genre's tribal pocket."
+          reason: "Igor Cavalera's Sepultura/Cavalera Conspiracy setup since 2018 — proven chain-drive reliability for the genre's tribal pocket."
         },
         {
           category: "Best Budget",

@@ -3811,20 +3811,12 @@ export const ENDORSEMENT_TIMELINE = {
     },
     timeline: [
       {
-        year: 1990,
+        year: 1991,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: null,
-        to: 'Pearl',
-        notes: 'Played a pre-endorsement Pearl Export series kit (Pearl Free-Floating snare, Pearl P-100P twin pedals) with Zildjian A series cymbals on his recording debut, Death\'s "Spiritual Healing" (1990), tracked at Morris Sound Corporation with Randy Burns',
-      },
-      {
-        year: 1991,
-        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
-        category: ENDORSEMENT_CATEGORIES.DRUMS,
-        from: 'Pearl Export Series',
         to: 'Tama Artstar II',
-        notes: 'Moved to a Tama Artstar II birch shell kit for Death\'s "Human" (1991) at Morrisound Recording with Scott Burns — replacing the Pearl Export\'s poplar/basswood shells as his playing evolved into a full jazz-death fusion vocabulary',
+        notes: 'Played a Tama Artstar II birch shell kit with Zildjian A series cymbals on his recording debut, Death\'s "Human" (1991), tracked at Morrisound Recording with Scott Burns',
       },
       {
         year: 1991,
@@ -3836,11 +3828,11 @@ export const ENDORSEMENT_TIMELINE = {
       },
       {
         year: 1991,
-        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.HARDWARE,
-        from: 'Pearl P-100P Twin Pedal',
+        from: null,
         to: 'DW 5000 Double Pedal',
-        notes: 'Upgraded to the DW 5000 double pedal for "Human" (1991), a mechanical precision upgrade over the Pearl P-100P\'s chain-drive action; carried the same pedal into Cynic\'s "Focus" (1993)',
+        notes: 'Played a DW 5000 double pedal for "Human" (1991); carried the same pedal into Cynic\'s "Focus" (1993)',
       },
       {
         year: 2008,

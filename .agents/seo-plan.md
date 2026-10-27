@@ -14611,3 +14611,52 @@ I independently pulled and re-verified every cited line (gearPriceHistory.js:768
 3. Drum-chair watch: not due this run (Tuesday); next due Monday 2026-11-02, group 1.
 4. Held-back candidates ready to pick up: 2 lower-confidence Vinnie Paul ddrum mentions (mikkey-dee/shannon-larkin vs-pages), and an unverified Eloy Casagrande age-at-join inconsistency (lines 2912 vs 3904) — both logged above.
 5. `drummerComparisons.js` sweep is far from exhausted (only 15 of 227 entries' worth of drummers checked across the 4 agents this run, 4 fabrications found) — good candidate to continue next run with a fresh batch of top-traffic/top-query drummer names not yet checked in this file.
+
+---
+
+## 2026-10-27 (run, Tuesday, ~19:0x UTC) — Eloy Casagrande fact-contradictions + drummerComparisons.js sweep continuation, 5 filed (#9837/#9839-9842)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed (unchanged).
+- `/llms/*.md`: 2,027 files total, 72 under `public/llms/drummers/` — unchanged.
+- Bank check: 8 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #3819/#3810/#2211 + #9824-9827 from the 13:1x run, already CEO-triaged per decisions-log) — effectively 0 fresh untriaged, well under the 45 floor → filed 5 (quality-first, matched to confirmed findings, not padded to 8).
+- Content-gap: 1 row (`joey jordison drum set`, 51 impr, 1.96% CTR, pos 9.9) — re-matched to the long-standing known-oscillator class (learned-patterns.md). No new action.
+- Drum-chair watch: today is Tuesday — not the Monday trigger day, section skipped per instructions.
+
+### Metrics readout
+- GSC 7d: 20,661 impr / 211 clicks / 1.02% CTR / pos 9.1 (metrics.md, refreshed 19:02 UTC).
+- GA4 7d: 420u/469s/675v. Top pages: `/` (14v), `/drummer/frost` (14v), `/drummer/joey-jordison` (13v), `/drummers/mike-portnoy/evolution` (10v), `/drummers/vinnie-paul/evolution` (10v).
+
+### Method
+Started by chasing the two held-back candidates flagged at the end of the prior (13:1x) run: the 2 "lower-confidence" Vinnie Paul ddrum mentions, and an unverified Eloy Casagrande age-at-join inconsistency (lines 2912 vs 3904).
+- **Vinnie Paul ddrum (mikkey-dee-vs-vinnie-paul, shannon-larkin-vs-vinnie-paul)**: re-checked directly — confirmed these are genuinely general/career-spanning gear mentions, not pinned to the pre-2008 Pantera era like #9825's fixed entries. No fabrication; correctly held, no issue filed.
+- **Eloy Casagrande age inconsistency**: turned into something much bigger on inspection. Found `extendedBios.js` has two different birthdates for Eloy 86 lines apart (bio: "Jan 29, 1991, Santo André" vs its own FAQ: "Aug 25, 1991, São Paulo"). Site-wide grep showed Aug 25/São Paulo is the 9-source consensus (soundLikeGuides.js, albumArticles, 6+ llms mirrors) — filed as #9837. While resolving that, found the "19 vs 20 years old at 2011 join" split is actually a site-wide error in the *opposite* direction expected: dozens of files say "19," but `bands.js`'s explicit "Joined November 2011" + the Aug 25 1991 birthdate means he was 20 — and `drummerComparisons.js` already has 4 entries correctly saying 20. Filed as batch #9839 (large file list, programmatic label) since generators (`generate-llms-guides.cjs`, `generate-llms-vs.cjs`, `generate-llms-articles.cjs`, `generate-llms-drummers.cjs`, `generate-llms-full.cjs`) confirmed to exist for all affected mirrors — source-only fix + regenerate, not a hand-edit-every-mirror job.
+- **drummerComparisons.js sweep continuation**: dispatched 2 parallel agents (3 drummers each, cap 2 findings) on fresh names not yet checked in this file: Agent 1 (Frost, Mike Portnoy, Dave Lombardo) — Frost and Portnoy clean, found Dave Lombardo's gear fabricated as "Pearl" in the `joey-jordison-vs-dave-lombardo` entry (verified Tama; sibling instance of the same bug class closed #5656 fixed elsewhere in the same file) → #9840. Agent 2 (Lars Ulrich, Gene Hoglan, Charlie Benante) — Ulrich and Benante clean, found 2 Gene Hoglan tenure fabrications: Dark Angel shown as "1984-present" vs verified ended 1991 (3 locations) → #9841; Testament shown as "primary drummer since 2007" vs verified two stints 1996-1997/2011-2022 with Paul Bostaph holding the 2007-2011 chair → #9842.
+- Re-verified every cited line myself (not trusting subagent line numbers blindly) before filing: `extendedBios.js:844/930`, `bands.js:89/94`, `drummerComparisons.js:450/292/2756/4099/4106`, `drummerEvolution.js:2708-2719`, `bands.js:1292/1300-1306` all confirmed live.
+
+### Proposals filed this run
+1. #9837 — SEO: Eloy Casagrande birthdate self-contradicts within extendedBios.js — Jan 29 Santo André vs Aug 25 São Paulo (9+ file consensus)
+2. #9839 — SEO batch: Eloy Casagrande age-at-Sepultura-join wrong site-wide — '19' should be '20' (verified: born Aug 25 1991 + joined Nov 2011)
+3. #9840 — SEO: Dave Lombardo gear fabricated as Pearl drums in joey-jordison-vs-dave-lombardo entry (verified: Tama)
+4. #9841 — SEO: Gene Hoglan Dark Angel tenure fabricated as '1984-present' across 3 drummerComparisons.js entries (verified: ended 1991)
+5. #9842 — SEO: Gene Hoglan Testament tenure fabricated as 'primary drummer since 2007' (verified: 1996-1997 and 2011-2022, Bostaph held 2007-2011)
+
+### Held-back / not filed
+- Mike Portnoy vs Mangini entry says "20 years" re: Dream Theater tenure where sibling entries correctly say 25 (1985-2010) — soft/rounded phrasing, not a clear fabrication, held for a future pass if this vein continues.
+- `albumArticles/eloy-casagrande.js:455/1066` describe his age at later album release dates ("24 years old" for Machine Messiah 2017, "21-year-old" for The Mediator 2013) — both independently off-by-one against the Aug 1991 birthdate (would be 25 and 22 respectively), but explicitly excluded from #9839's scope as a separate, lower-confidence finding worth its own future check.
+
+### Learned-patterns.md updates
+- None this run — all 5 findings are instances of already-documented fabrication classes (era-conflation, internal self-contradiction, sibling-file-never-synced) recurring in files that simply hadn't been checked for these specific drummers yet.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9824-9827 (2026-10-27 13:1x run, likely already CEO-triaged)
+- #9837/#9839-9842 (this run, 5 fresh)
+
+### Next run
+1. Watch #9837/#9839-9842 pick up via CEO triage then Roadie; confirm #9837's `extendedBios.js` bio+FAQ reconciliation lands before #9839's age fix (age fix depends on the Aug 25 birthdate being the one left standing), #9839's full multi-file + regenerate-script list is followed rather than a partial hand-edit, #9840's single-line Tama fix, and #9841/#9842's tenure corrections both land in the same `jon-dette-vs-gene-hoglan`/Dark-Angel entries without cross-contaminating Jon Dette's own (already-fixed) Testament years.
+2. Content-gap: `joey jordison drum set` re-confirmed known oscillator — no action.
+3. Drum-chair watch: not due this run (Tuesday); next due Monday 2026-11-02, group 1.
+4. Held-back candidates ready to pick up: Mike Portnoy/Mangini "20 years" soft phrasing, and the 2 off-by-one album-era ages in `albumArticles/eloy-casagrande.js` (both logged above).
+5. `drummerComparisons.js` sweep continues to be productive (6 drummers checked this run, 3 new fabrications found across 2) — good candidate to continue next run with another fresh batch of top-traffic/top-query drummer names.

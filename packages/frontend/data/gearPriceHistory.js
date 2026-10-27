@@ -2945,18 +2945,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       sticks: {
-        item: 'Vic Firth 5A Hickory',
-        model: 'American Classic 5A',
+        item: 'Promark Eloy Casagrande Signature',
+        model: 'Eloy Casagrande Signature',
         specs: 'Hickory, wood tip',
         originalPrice: 14,
         year: 2017,
         source: 'Standard retail price',
-        notes: "The 5A balanced power and speed for Casagrande's technique — lighter and faster than a 5B but with enough mass to deliver the forceful backbeat Sepultura's groove-metal passages demanded.",
+        notes: "Casagrande's Promark signature stick balanced power and speed for his technique — light and fast enough for Sepultura's groove-metal passages while delivering the forceful backbeat the material demanded.",
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Vic Firth 5A American Classic',
+          item: 'Promark Eloy Casagrande Signature',
           price: 16,
-          link: 'vic-firth-5a',
+          link: 'promark-eloy-casagrande-signature',
         },
       },
       heads: {

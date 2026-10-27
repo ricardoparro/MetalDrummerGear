@@ -11,7 +11,7 @@ Satyricon's Frost vs Mayhem's Hellhammer. Two Norwegian black metal legends comp
 ## Frost Setup
 
 - **Drums:** Tama Starclassic Bubinga
-- **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)
+- **Cymbals:** Zildjian A Series
 - **Snare:** Tama Starclassic Bubinga 14x5.5"
 - **Pedals/Hardware:** Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand
 - **Sticks:** Vic Firth American Classic Extreme 5B
@@ -67,4 +67,4 @@ A: Frost uses a single-stroke blast beat technique emphasizing precision and end
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-27 · Source: [MetalForge.io](https://metalforge.io)*

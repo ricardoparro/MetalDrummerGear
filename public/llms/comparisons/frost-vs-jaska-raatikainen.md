@@ -25,7 +25,7 @@ A: Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14"x6" Maple snare, drive
 A: Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14"x5.5" Maple snare, driven by a Pearl Eliminator double pedal, Vic Firth American Classic 5A sticks, and Remo heads.
 
 **Q: What cymbals do Frost and Jaska Raatikainen use?**
-A: Frost uses Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 16"/17"/18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China). Jaska Raatikainen uses Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17"/18" A Custom Crashes, 20" K Custom Ride).
+A: Frost uses Zildjian A Series cymbals. Jaska Raatikainen uses Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17"/18" A Custom Crashes, 20" K Custom Ride).
 
 **Q: What bands are Frost and Jaska Raatikainen known for?**
 A: Frost is best known as the drummer for Satyricon, also playing in 1349. Jaska Raatikainen co-founded and drummed for Children of Bodom from 1993 until the band's split in 2019.

@@ -11,7 +11,7 @@ Satyricon's Frost vs Children of Bodom's Jaska Raatikainen. Norwegian black meta
 ## Frost Setup
 
 - **Drums:** Tama Starclassic Bubinga
-- **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)
+- **Cymbals:** Zildjian A Series
 - **Snare:** Tama Starclassic Bubinga 14x5.5"
 - **Pedals/Hardware:** Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand
 - **Sticks:** Vic Firth American Classic Extreme 5B
@@ -34,7 +34,7 @@ Frost's single-stroke blast beats prioritize metronomic consistency and enduranc
 
 ## Key Differences
 
-Frost plays a Tama Starclassic Bubinga Series kit, Zildjian A Custom & K Series cymbals, and a Tama Iron Cobra Power Glide single pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride), and a Pearl Eliminator double pedal. Frost's single-stroke blast beats prioritize metronomic consistency and endurance at extreme tempos, serving black metal's dark, atmospheric demands. Raatikainen's technique is built around fluid, precise double bass patterns and blast beats that lock tightly with Children of Bodom's rapid neoclassical guitar runs and keyboard melodies, requiring a rhythmic foundation flexible enough to support the band's melodic complexity.
+Frost plays a Tama Starclassic Bubinga Series kit, Zildjian A Series cymbals, and a Tama Iron Cobra Power Glide single pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride), and a Pearl Eliminator double pedal. Frost's single-stroke blast beats prioritize metronomic consistency and endurance at extreme tempos, serving black metal's dark, atmospheric demands. Raatikainen's technique is built around fluid, precise double bass patterns and blast beats that lock tightly with Children of Bodom's rapid neoclassical guitar runs and keyboard melodies, requiring a rhythmic foundation flexible enough to support the band's melodic complexity.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Frost and Jaska Raatikainen represent two of extreme metal's defining national s
 A: Both are influential extreme metal drummers from different scenes. Frost (Satyricon, 1349) is known for technical precision and controlled, sustained blast beats in Norwegian black metal. Jaska Raatikainen co-founded and drummed for Children of Bodom for 26 years, defining Finnish melodic death metal's rhythmic template. Style preference determines the winner.
 
 **Q: What gear does Frost use vs Jaska Raatikainen?**
-A: Frost plays a Tama Starclassic Bubinga Series kit with Zildjian A Custom & K Series cymbals and a Tama Iron Cobra Power Glide pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with Zildjian A Custom & K Custom Series cymbals and a Pearl Eliminator double pedal.
+A: Frost plays a Tama Starclassic Bubinga Series kit with Zildjian A Series cymbals and a Tama Iron Cobra Power Glide pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with Zildjian A Custom & K Custom Series cymbals and a Pearl Eliminator double pedal.
 
 **Q: What bands are Frost and Jaska Raatikainen known for?**
 A: Frost is best known as the drummer for Satyricon, also playing in 1349. Jaska Raatikainen co-founded and drummed for Children of Bodom from 1993 until the band's 2019 split.
@@ -67,4 +67,4 @@ A: Frost drives Satyricon's black metal with surgical, metronomically consistent
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-27 · Source: [MetalForge.io](https://metalforge.io)*

@@ -2672,7 +2672,7 @@ const drummers = [
     gear: {
       drums: 'Tama Starclassic Bubinga',
       snare: 'Tama Starclassic Bubinga 14x5.5"',
-      cymbals: 'Zildjian A Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" A Custom Ride, 18" A China)',
+      cymbals: 'Zildjian A Series',
       hardware: 'Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand',
       sticks: 'Vic Firth American Classic Extreme 5B',
       heads: 'Remo',

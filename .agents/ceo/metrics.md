@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-27 07:12 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-27 08:22 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 396 |
-| Sessions | 440 |
-| Page views | 610 |
-| Engagement rate | 57.27% |
+| Active users | 397 |
+| Sessions | 441 |
+| Page views | 611 |
+| Engagement rate | 57.14% |
 | Avg session (s) | 100 |
 
 ### Top pages (by page views, last 7d)
@@ -24,14 +24,14 @@
 | /drummer/john-otto | 8 | 6 |
 | /drummers/mike-portnoy/evolution | 8 | 2 |
 | /drummer/bill-ward | 7 | 7 |
+| /drummer/shannon-larkin | 7 | 5 |
 | /lists/fastest-blast-beat-drummers | 7 | 2 |
 | /songs/fastest-metal-songs | 7 | 5 |
-| /drummer/igor-cavalera | 6 | 3 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 336 | 293 |
+| Organic Search | 337 | 294 |
 | Direct | 101 | 101 |
 | Unassigned | 15 | 15 |
 | AI Assistant | 1 | 1 |
@@ -40,7 +40,7 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 135 | 116 |
+| United States | 136 | 117 |
 | Singapore | 44 | 44 |
 | China | 37 | 37 |
 | United Kingdom | 27 | 15 |

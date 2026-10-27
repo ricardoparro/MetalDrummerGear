@@ -6482,7 +6482,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Crack the Skye (2009)',
     profileImage: '/images/drummers/brann-dailor.webp',
 
-    summary: "Brann Dailor's 2009 setup behind Mastodon's Crack the Skye — widely regarded as his career-defining masterwork — marks the moment his Tama Starclassic kit, adopted when he joined the Tama family during the Remission era (2002), expanded to its most cinematic configuration. Paired with a Tama maple snare and the Meinl cymbal setup he'd switched to in 2004 for their dark, complex tones, the complete rig cost approximately $14,000 in 2009 dollars, equivalent to roughly $21,400 today after inflation. Dailor's gear has stayed remarkably consistent since — the same Tama Starclassic Performer B/B and Meinl Mb20/Mb8 core, with Vater 5B sticks and Evans G2 Clear heads, carried through Once More 'Round the Sun (2014), Emperor of Sand (2017), and Hushed and Grim (2021), refined across two decades with Mastodon and built around his melodic, jazz-influenced tom language and his rare dual role as drummer and co-lead vocalist, now valued at approximately $24,000 at current retail.",
+    summary: "Brann Dailor's 2009 setup behind Mastodon's Crack the Skye — widely regarded as his career-defining masterwork — marks the moment his Tama Starclassic kit, adopted when he joined the Tama family during the Remission era (2002), expanded to its most cinematic configuration. Paired with a Tama maple snare and the Meinl cymbal setup he'd switched to in 2004 for their dark, complex tones, the complete rig cost approximately $14,000 in 2009 dollars, equivalent to roughly $21,400 today after inflation. Dailor's gear has stayed remarkably consistent since — the same Tama Starclassic Performer B/B and Meinl Byzance Series core, with Vater 5B sticks and Evans G2 Clear heads, carried through Once More 'Round the Sun (2014), Emperor of Sand (2017), and Hushed and Grim (2021), refined across two decades with Mastodon and built around his melodic, jazz-influenced tom language and his rare dual role as drummer and co-lead vocalist, now valued at approximately $24,000 at current retail.",
 
     setup: {
       drums: {
@@ -6516,8 +6516,8 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Meinl Mb20 & Mb8 Series',
-        model: 'Mixed Mb20/Mb8 configuration',
+        item: 'Meinl Byzance Series',
+        model: 'Byzance Series configuration',
         specs: '14" hi-hats, crashes, ride, China',
         originalPrice: 3600,
         year: 2009,
@@ -6525,9 +6525,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "Switched to Meinl in 2004 for their dark, complex tones, giving Crack the Skye's atmospheric passages the tonal depth Dailor sought.",
         vintageValue2026: 2900,
         modernEquivalent: {
-          item: 'Meinl Mb20 / Mb8 Series (Current Configuration)',
+          item: 'Meinl Byzance Series (Current Configuration)',
           price: 4200,
-          link: 'meinl-mb20-mb8-dailor',
+          link: 'meinl-byzance-dailor',
         },
       },
       hardware: {
@@ -6585,9 +6585,9 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     priceEvolution: [
-      { year: 2009, price: 14000, label: 'Original Purchase', event: 'Crack the Skye recording — expanded Tama Starclassic kit, Meinl Mb20/Mb8 cymbals' },
+      { year: 2009, price: 14000, label: 'Original Purchase', event: 'Crack the Skye recording — expanded Tama Starclassic kit, Meinl Byzance cymbals' },
       { year: 2014, price: 16000, label: "Once More 'Round the Sun era", event: 'Same Tama/Meinl core continues' },
-      { year: 2021, price: 24000, label: 'Hushed and Grim era', event: 'Current Tama Starclassic Performer B/B kit with Meinl Mb20/Mb8 cymbal setup' },
+      { year: 2021, price: 24000, label: 'Hushed and Grim era', event: 'Current Tama Starclassic Performer B/B kit with Meinl Byzance cymbal setup' },
       { year: 2026, price: 21400, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2009 Crack the Skye setup' },
     ],
 

@@ -14560,3 +14560,54 @@ Noticed `gearPriceHistory.js` (9,852 lines, 69 drummer entries) had only ever be
 3. Drum-chair watch: not due this run (Tuesday); next due Monday 2026-11-02, group 1.
 4. Held-back candidate ready to file: Travis Orbin gearPriceHistory.js tenure-date fabrication (2012 Periphery "departure"/"founding member" vs verified 2009).
 5. `gearPriceHistory.js` still has ~38 never-checked-in-this-file drummers remaining after this run's 46-minus-8-found pass (the 38 that came back clean) — most were genuinely clean (extensively pre-swept via other files), so this vein is likely close to exhausted; next sweep should pick a different angle rather than re-running this exact file again.
+
+---
+
+## 2026-10-27 (run, Tuesday, ~13:1x UTC) — drummerComparisons.js fresh-file sweep, 4 filed (#9824-9827)
+
+### Audit summary
+- robots.txt: all 8 AI crawler UAs explicitly allowed (unchanged).
+- `/llms/*.md`: 2,027 files total, 72 under `public/llms/drummers/` — unchanged.
+- Bank check: 12 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #3819/#3810/#2211 + #9792-9798/#9808-9815, all already CEO-triaged per decisions-log 00:30/earlier pulses) — effectively 0 fresh untriaged, well under the 45 floor → filed 4 (quality-first, not padded to 8).
+- Content-gap: 1 row (`joey jordison drum set`, 51 impr, 1.96% CTR, pos 9.9) — re-matched to the long-standing known-oscillator class (learned-patterns.md lines 99/185/242/254/268/278). No new action.
+- Drum-chair watch: today is Tuesday — not the Monday trigger day, section skipped per instructions.
+
+### Metrics readout
+- GSC 7d: 20,661 impr / 211 clicks / 1.02% CTR / pos 9.1 (metrics.md, refreshed 13:08 UTC).
+- GA4 7d: 409u/456s/663v. Top pages: `/` (14v), `/drummer/frost` (14v), `/drummer/joey-jordison` (13v), `/drummers/mike-portnoy/evolution` (10v), `/drummers/vinnie-paul/evolution` (10v).
+
+### Method
+With `gearPriceHistory.js` flagged as near-exhausted by the prior run (46 drummers checked, likely close to drained) and `genreGearGuides.js` already heavily swept, picked a genuinely fresh file: `drummerComparisons.js` (227 vs-page entries) has only ever had ad-hoc spot-fixes (Frost, Morgan Ågren), never a systematic per-drummer sweep. Dispatched 4 parallel agents, each assigned 3 of this week's top-GA4/GSC drummers, instructed to grep every vs-entry mentioning their names, cross-check gear/tenure facts against `endorsementNews.js`/`bands.js`/`extendedBios.js`, check llms `/vs/` and `/comparisons/` mirrors, dedup-check, and cap at 2 findings each:
+- Agent 1 (Joey Jordison, Mario Duplantier, Igor Cavalera): came back fully clean — confirmed all three are well-maintained in this file, including correct "omit-if-unsure" handling of Igor Cavalera's disputed 1993-96 cymbal brand.
+- Agent 2 (John Otto, Bill Ward, Vinnie Paul): John Otto and Bill Ward clean; found a genuine 2-location Vinnie Paul fabrication — "ddrum" anachronistically credited with Pantera's classic-era (1990-2003) sound in 2 separate vs-entries, when ddrum wasn't signed until 2008 (post-Pantera, for Hellyeah). Confirmed via #9602/#8175 dedup-check that neither closed issue covered Vinnie Paul's half of these specific entries.
+- Agent 3 (Matt Garstka, Matt Greiner, George Kollias): Garstka/Greiner clean (Greiner previously fixed file-wide by #6379). Found George Kollias's cymbals fabricated as "Zildjian K Mastersound/K Custom Dark" across 8 entries — verified-correct is plain "A Custom Series" (no K-line exists in his record); confirmed inconsistent even within the same file (the `joey-jordison-vs-george-kollias` entry already says A Custom correctly).
+- Agent 4 (Eloy Casagrande, Danny Carey, Brann Dailor): Eloy/Danny clean. Found Brann Dailor's cymbals still fabricated as "Meinl Mb20 & Mb8" across 10 entries — root-caused as a regression: closed #8871 (2026-10-11) set this file to Mb20/Mb8 believing it was correct at the time, then #9437 (2026-10-21) corrected `endorsementNews.js` itself to the real value (Byzance) 10 days later, but `drummerComparisons.js` and its llms mirror were never re-synced — same "un-synced sibling file" shape already logged for `genreGearGuides.js` (learned-patterns.md 2026-10-26).
+
+I independently pulled and re-verified every cited line (gearPriceHistory.js:7687 for Travis Orbin, drummerComparisons.js:772/4213 for Vinnie Paul, endorsementNews.js ground-truth lines for all three drummers) directly before filing — not trusting subagent line numbers blindly. Also carried forward the Travis Orbin gearPriceHistory.js held-back candidate flagged ready-to-file-verbatim at the end of the prior run; re-verified it live (bands.js:1479-1490 confirms "replaced Berlin... left in 2009," contradicting the file's "2012... founding member" claim) and found the same fabrication had also propagated into `public/llms/gear-history/travis-orbin.md`.
+
+### Proposals filed this run
+1. #9824 — SEO: Travis Orbin gearPriceHistory.js fabricates 2012 Periphery "founding member" departure (verified: replaced Berlin, left 2009) — held-back candidate from prior run, filed verbatim after live re-verification
+2. #9825 — SEO batch: Vinnie Paul ddrum anachronism fabricated across 2 drummerComparisons.js entries (verified: Tama 1990-1996, Pearl 1996-2008)
+3. #9826 — SEO batch: George Kollias cymbals fabricated as "Zildjian K Mastersound / K Custom Dark" across 8 drummerComparisons.js entries (verified: A Custom Series only)
+4. #9827 — SEO batch: Brann Dailor cymbals still fabricate "Meinl Mb20 & Mb8 Series" across 10 drummerComparisons.js entries — #9437 regression, never synced
+
+### Held-back / not filed
+- 2 lower-confidence Vinnie Paul ddrum mentions (`mikkey-dee-vs-vinnie-paul`, `shannon-larkin-vs-vinnie-paul`) framed as general career-spanning gear rather than pinned to a specific pre-2008 album — excluded by Agent 2's own 2-finding cap, worth a quick re-check if this vein is revisited.
+- A possible internal inconsistency on Eloy Casagrande's joining age ("20 years old" at line 2912 vs. "just 19" at line 3904, same 2011 Sepultura join date) — spotted by Agent 1 but out of that agent's assigned scope (Joey Jordison/Mario Duplantier/Igor Cavalera); not verified or dedup-checked, flagged for a future Eloy-focused sweep.
+
+### Learned-patterns.md updates
+- None this run — all 3 fresh findings (Vinnie Paul ddrum anachronism, George Kollias K-line cymbal fabrication, Brann Dailor Mb20/Mb8 regression) are instances of already-documented fabrication classes (era-conflation, template contamination, un-synced sibling file after a ground-truth correction) recurring in a file (`drummerComparisons.js`) that simply hadn't been systematically swept yet — not a new generalizable lesson.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9792-9798 (2026-10-27 01:2x run, likely already CEO-triaged)
+- #9808-9815 (2026-10-27 07:2x run, likely already CEO-triaged)
+- #9824-9827 (this run, 4 fresh)
+
+### Next run
+1. Watch #9824-9827 pick up via CEO triage then Roadie; confirm #9825's Vinnie Paul fix correctly re-scopes (Tama 1990-1996 / Pearl 1996-2008) rather than just deleting "ddrum," #9826's 8-entry + 8-mirror batch lands in full (grep live, don't trust static line numbers), and #9827's "grep live" instruction is followed given `drummerComparisons.js`/`comparisons.md` line numbers will drift as earlier fixes land.
+2. Content-gap: `joey jordison drum set` re-confirmed known oscillator — no action.
+3. Drum-chair watch: not due this run (Tuesday); next due Monday 2026-11-02, group 1.
+4. Held-back candidates ready to pick up: 2 lower-confidence Vinnie Paul ddrum mentions (mikkey-dee/shannon-larkin vs-pages), and an unverified Eloy Casagrande age-at-join inconsistency (lines 2912 vs 3904) — both logged above.
+5. `drummerComparisons.js` sweep is far from exhausted (only 15 of 227 entries' worth of drummers checked across the 4 agents this run, 4 fabrications found) — good candidate to continue next run with a fresh batch of top-traffic/top-query drummer names not yet checked in this file.

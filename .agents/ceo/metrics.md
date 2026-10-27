@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-27 12:17 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-27 13:08 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 408 |
-| Sessions | 454 |
-| Page views | 661 |
-| Engagement rate | 57.49% |
-| Avg session (s) | 102 |
+| Active users | 409 |
+| Sessions | 456 |
+| Page views | 663 |
+| Engagement rate | 57.46% |
+| Avg session (s) | 101 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 14 | 11 |
-| /drummer/frost | 13 | 6 |
+| /drummer/frost | 14 | 6 |
 | /drummer/joey-jordison | 13 | 8 |
 | /drummers/mike-portnoy/evolution | 10 | 3 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
@@ -31,8 +31,8 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 348 | 303 |
-| Direct | 103 | 103 |
+| Organic Search | 349 | 303 |
+| Direct | 104 | 104 |
 | Unassigned | 17 | 17 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
@@ -43,7 +43,7 @@
 | United States | 141 | 122 |
 | Singapore | 44 | 44 |
 | China | 37 | 37 |
-| United Kingdom | 27 | 15 |
+| United Kingdom | 28 | 15 |
 | Australia | 16 | 12 |
 | Canada | 12 | 12 |
 | Netherlands | 12 | 11 |

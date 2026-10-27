@@ -108775,7 +108775,7 @@ The wide round seat and locking height collar hold position through long, techni
           tier: "pro",
           material: "Double-braced steel",
 
-          description: `Tama's Titan Series shares the oversized, double-braced design behind Matt Garstka's Tama-anchored Animals as Leaders rig — hardware built for drummers who demand absolute cymbal placement precision across deeply polyrhythmic, technically complex material.
+          description: `Tama's Titan Series brings an oversized, double-braced design built for drummers who demand absolute cymbal placement precision across deeply polyrhythmic, technically complex material.
 
 The line's precise memory locks hold exact placement through technically punishing sets, letting a drummer rebuild a complex cymbal and tom layout identically at every show.`,
 
@@ -108797,7 +108797,7 @@ The line's precise memory locks hold exact placement through technically punishi
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Matt Garstka", band: "Animals as Leaders", note: "Tama hardware anchoring a deeply polyrhythmic technical rig" }
+            { name: "Technical djent drummers", band: "Various", note: "Precise memory locks for rebuilding a complex cymbal and tom layout identically every show" }
           ],
           verdict: "Precision hardware for djent's most technically complex cymbal and tom layouts.",
           rating: 4.6,
@@ -108905,14 +108905,14 @@ The line's precise memory locks hold exact placement through technically punishi
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor Giant Step and Drummer Throne for low-tuned polyrhythmic stability' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl hardware anchoring an extended, electronically-augmented rig' },
-      { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Tama hardware for deeply polyrhythmic technical precision' }
+      { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Tama Speed Cobra 910 double pedal anchoring a deeply polyrhythmic technical rig' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor hardware — the blueprint for djent stability' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl-based hardware for extended, hybrid kits' },
-      { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Tama precision hardware for polyrhythmic technical playing' }
+      { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Tama Speed Cobra 910 double pedal for polyrhythmic technical playing' }
     ],
 
     // FAQ section for SEO

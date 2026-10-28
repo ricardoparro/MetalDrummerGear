@@ -26,7 +26,7 @@ Hate Eternal's Derek Roddy vs Morbid Angel's Tim Yeung. Two of technical death m
 
 ## Playing Style
 
-Derek Roddy is one of extreme metal's pioneering speed specialists, known for blistering blast beats, one-footed bass drum techniques, and inhuman endurance across stints with Hate Eternal (2000–2002, 2004–2005), Nile (2000–2002), and Malevolent Creation (1996–1999). Beyond performing, he is a respected educator who has written instructional books and produced instructional DVDs on extreme metal drumming technique. Tim Yeung built his reputation across a similarly relentless run of technical/brutal death metal acts — a founding stint with Hate Eternal (1997–2000), stints with Vital Remains, and Morbid Angel (2010–2015) — earning a reputation as one of the most sought-after touring and session drummers in death metal for his speed, precision, and endurance.
+Derek Roddy is one of extreme metal's pioneering speed specialists, known for blistering blast beats, one-footed bass drum techniques, and inhuman endurance across stints with Hate Eternal (2000–2006), Nile (2000), and Aurora Borealis (1994–2000). Beyond performing, he is a respected educator who has written instructional books and produced instructional DVDs on extreme metal drumming technique. Tim Yeung built his reputation across a similarly relentless run of technical/brutal death metal acts — a founding stint with Hate Eternal (1997–2000), stints with Vital Remains, and Morbid Angel (2010–2015) — earning a reputation as one of the most sought-after touring and session drummers in death metal for his speed, precision, and endurance.
 
 ## Technique
 
@@ -50,13 +50,13 @@ Derek Roddy and Tim Yeung represent two of technical/brutal death metal's fastes
 A: Both are considered among the fastest blast-beat drummers in technical/brutal death metal. Derek Roddy pioneered one-footed bass drum techniques that let him sustain extreme tempos with technical precision, and has taught those methods through instructional books and DVDs. Tim Yeung has proven similar blast-beat velocity and endurance across multiple top-tier bands including Hate Eternal, Vital Remains, and Morbid Angel. Roddy is often credited as the technical pioneer, while Yeung is prized for consistent studio-perfect execution under pressure.
 
 **Q: What is the difference between Derek Roddy and Tim Yeung?**
-A: Derek Roddy is known primarily as a pioneering technician and educator, having written instructional books and produced DVDs breaking down extreme metal drumming technique, alongside stints with Hate Eternal, Nile, and Malevolent Creation. Tim Yeung is known as one of death metal's most in-demand session and touring drummers, having been a founding member of Hate Eternal and played with Vital Remains and Morbid Angel.
+A: Derek Roddy is known primarily as a pioneering technician and educator, having written instructional books and produced DVDs breaking down extreme metal drumming technique, alongside stints with Hate Eternal, Nile, and Aurora Borealis. Tim Yeung is known as one of death metal's most in-demand session and touring drummers, having been a founding member of Hate Eternal and played with Vital Remains and Morbid Angel.
 
 **Q: What gear do Derek Roddy and Tim Yeung use?**
 A: Derek Roddy plays a Tama Starclassic Bubinga kit with a Tama SLP Black Brass 14x6.5" snare and Meinl Byzance & Mb20 Series cymbals. Tim Yeung plays a Tama Starclassic Bubinga kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Sabian AAX & HHX Series cymbals. Both use a Tama Speed Cobra 910 double pedal.
 
 **Q: What bands have Derek Roddy and Tim Yeung played in?**
-A: Derek Roddy has played with Hate Eternal (2000–2002, 2004–2005), Nile (2000–2002), and Malevolent Creation (1996–1999). Tim Yeung was a founding member of Hate Eternal (1997–2000), recording "Conquering the Throne" (1999), and later played with Vital Remains and Morbid Angel (2010–2015).
+A: Derek Roddy has played with Hate Eternal (2000–2006), Nile (2000), and Aurora Borealis (1994–2000). Tim Yeung was a founding member of Hate Eternal (1997–2000), recording "Conquering the Throne" (1999), and later played with Vital Remains and Morbid Angel (2010–2015).
 
 ---
 
@@ -67,4 +67,4 @@ A: Derek Roddy has played with Hate Eternal (2000–2002, 2004–2005), Nile (20
 
 ---
 
-*Last updated: 2026-10-23 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

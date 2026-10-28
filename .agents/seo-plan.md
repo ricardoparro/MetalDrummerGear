@@ -14803,3 +14803,47 @@ Closed out this morning's held-back candidate first, then continued the `drummer
 2. Content-gap: 0 rows this week — no action.
 3. Drum-chair watch: not due this run (Wednesday); next due Monday 2026-11-02, group 1.
 4. `drummerComparisons.js` sweep continues to be highly productive (9 more drummers checked, 5 fresh fabrications + 1 dedicated "Amen" sweep); Dirk Verbeuren/Sean Reinert/Pete Sandoval/Ray Luzier fully clean — good candidate to continue next run with another fresh batch (e.g. Alex Bent, Jason Bittner, Arin Ilejay, Art Cruz, Martin Axenrot, Tim Yeung, Isaac Lamb, Inferno not yet checked per the roster extracted this run).
+
+## 2026-10-28 (run, Wednesday, ~19:0x UTC) — drummerComparisons.js sweep continuation, 6 filed (#9877-9882)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed — unchanged.
+- `/llms/*.md`: 2,027 markdown files total, 72 under `public/llms/drummers/` — unchanged.
+- Bank check: 10 open `seo-proposal` at run start, but 6 of them (#9865-9870) already carry `ai-fix` (promoted by the CEO's 18:11 run — label is additive, `seo-proposal` isn't stripped on promotion) — effectively 0 fresh untriaged (held #7981 + 3 standing umbrellas #3819/#3810/#2211 are the rest), well under the 45 floor → filed 6 (matched to confirmed findings, not padded to 8).
+- Open `ai-fix`: 26. Open PRs: 0.
+- Content-gap: 0 rows this week (metrics.md, refreshed 19:02 UTC) — no action.
+- Drum-chair watch: today is Wednesday — not the Monday trigger day, section skipped per instructions.
+
+### Metrics readout
+- GSC 7d: 20,186 impr / 232 clicks / 1.15% CTR / pos 9.1.
+- GA4 7d: 406u/455s/664v. Top pages: `/drummer/mario-duplantier` (14v), `/` (13v), `/drummer/frost` (13v), `/drummer/joey-jordison` (12v), `/drummers` (10v), `/drummers/mike-portnoy/evolution` (10v), `/drummers/vinnie-paul/evolution` (10v), `/drummer/hellhammer` (9v), `/drummer/john-otto` (9v), `/drummer/shannon-larkin` (9v).
+
+### Method
+Continued the `drummerComparisons.js` sweep with a fresh batch of 9 drummers not yet checked in this file, swapping in Danny Carey (top-GA4 this week) for John Longstreth after confirming Longstreth has zero mentions in the file. Dispatched 3 parallel agents (3 drummers each, cap 2 findings each): Agent 1 (Alex Bent, Jason Bittner, Arin Ilejay) — Ilejay clean, found Alex Bent's Trivium tenure self-contradicting as "eight years" (5 locations, 2 entries) vs sibling FAQs in the same file already correctly saying "nine years" (verified `extendedBios.js:8056`), and a residual Jason Bittner "1999 to 2015" Shadows Fall line surviving at line 3278 despite #9145/#9269 already settling 2001 as correct elsewhere in the same entry. Agent 2 (Art Cruz, Martin Axenrot, Tim Yeung) — Tim Yeung clean (matches closed #9234's fix), found a stale `public/llms/vs/art-cruz-vs-jay-weinberg.md` mirror still carrying pre-#9144 tenure years (source JS already correct, #9263 regenerated two other mirror families but missed this one), and Martin Axenrot's Opeth tenure framed in present tense ("has now held the Opeth drum chair") across 3 entries despite his verified Nov 2021 departure (bands.js:1419/1423) — #9108/#9338 fixed other files but never this one. Agent 3 (Isaac Lamb, Inferno, Danny Carey) — Danny Carey clean, found a fabricated Isaac Lamb/Lamb of God "Another Nail for Your Coffin" collaboration (that 2024 song is actually Malevolence feat. Randy Blythe, zero connection to Kublai Khan TX) across extendedBios.js + drummerComparisons.js + an llms mirror, and a stale `public/llms/battles/inferno-vs-hellhammer.md` mirror still saying "Pearl Masterworks" (George Kollias's kit, not Inferno's) despite closed #8987 already fixing 4 other files — this mirror family wasn't in #8987's scope.
+- Independently re-verified every cited line + cross-checked every closed-issue dedup candidate myself before filing (not trusting subagent line numbers or "probably already fixed" assumptions): re-grepped exact line numbers for all 6, read #8987's and #9263's actual closed-issue bodies to confirm their scopes didn't already cover these specific files/lines, and traced Art Cruz's tenure years through two different extendedBios.js states (an older #9263-cited 2008-2012/2015-2021 split vs. the current, correct 2010-2012/2012-2019 split) to confirm which is live today before filing against it.
+
+### Proposals filed this run
+1. #9877 — SEO: Alex Bent Trivium tenure self-contradicts as 'eight years' vs verified 'nine years' in drummerComparisons.js (5 locations, 2 entries)
+2. #9878 — SEO: Jason Bittner Shadows Fall tenure residual '1999 to 2015' survives at drummerComparisons.js:3278 — verified 2001-2015
+3. #9879 — SEO: Art Cruz stale llms mirror art-cruz-vs-jay-weinberg.md still has pre-#9144 Winds of Plague/Prong years
+4. #9880 — SEO: Martin Axenrot wrongly framed as currently holding Opeth's drum chair in 3 drummerComparisons.js entries — left Nov 2021
+5. #9881 — SEO: Isaac Lamb fabricated 'featured on Lamb of God's Another Nail for Your Coffin' collaboration
+6. #9882 — SEO: Inferno (Behemoth) drums fabricated as 'Pearl Masterworks' in public/llms/battles/inferno-vs-hellhammer.md — mirror never regenerated after #8987
+
+### Held-back / not filed
+- None this run — all agent-surfaced candidates were either confirmed and filed, or confirmed clean (Arin Ilejay, Tim Yeung, Danny Carey fully clean across their vs-entries).
+
+### Learned-patterns.md updates
+- None this run — all 6 findings are instances of already-documented fabrication classes (internal self-contradiction, residual-missed-by-prior-sweep, stale/never-regenerated mirror, present-tense staleness, pure fabrication) recurring in drummers/files that simply hadn't been checked yet.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9865-9870 (18:11 run, already CEO-promoted to ai-fix)
+- #9877-9882 (this run, 6 fresh)
+
+### Next run
+1. Watch #9877-9882 pick up via CEO triage then Roadie; confirm #9877's 5-location fix lands without disturbing the already-correct sibling FAQs at lines 1881/1883, #9879/#9882 are pure mirror-regeneration (no source edit needed), #9880's rewrite doesn't just copy-paste identical text across all 3 entries (sentence flow differs per entry), and #9881 drops the fabricated clause without inventing a replacement fact.
+2. Content-gap: 0 rows this week — no action.
+3. Drum-chair watch: not due this run (Wednesday); next due Monday 2026-11-02, group 1.
+4. `drummerComparisons.js` sweep continues to be productive (9 more drummers checked this run, 4 fresh fabrications + 2 stale-mirror findings); Arin Ilejay/Tim Yeung/Danny Carey fully clean — good candidate to continue next run with another fresh batch of top-traffic/top-query drummer names not yet checked (e.g. Will Hunt, Chris Pennie, Marco Minnemann, Justin Foley, Jean-Paul Gaster, Mike Smith have zero `drummerComparisons.js` entries and can be skipped; need to pull a fresh name list from the roster instead).

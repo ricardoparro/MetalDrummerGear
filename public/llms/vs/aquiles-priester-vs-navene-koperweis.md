@@ -26,7 +26,7 @@ Angra's Aquiles Priester vs Entheos/ex-Animals as Leaders' Navene Koperweis: Bra
 
 ## Playing Style
 
-Aquiles Priester is a Brazilian drummer best known for his work with neoclassical power metal band Angra (2001–2008) and W.A.S.P. (2017–present), celebrated worldwide for blazing double bass speed, meticulous precision, and energetic showmanship built around Angra's soaring, melodic songwriting. Navene Koperweis (born 1985, San Jose, California) built his reputation in technical death metal with The Faceless and Animosity before joining instrumental djent pioneers Animals as Leaders in 2009 for the "Weightless" (2011) touring cycle, departing in 2012 — when Matt Garstka took over the drum chair — to found progressive metal outfit Entheos and build a parallel career as a producer and session drummer for Job for a Cowboy and Machine Head.
+Aquiles Priester is a Brazilian drummer best known for his work with neoclassical power metal band Angra (2001–2008) and W.A.S.P. (2017–present), celebrated worldwide for blazing double bass speed, meticulous precision, and energetic showmanship built around Angra's soaring, melodic songwriting. Navene Koperweis (born 1985, San Jose, California) built his reputation in technical death metal with The Faceless and Animosity before joining instrumental djent pioneers Animals as Leaders in 2009 for the "Weightless" (2011) touring cycle, departing in 2012 — when Matt Garstka took over the drum chair — and going on to found progressive metal outfit Entheos in 2015, building a parallel career as a producer and session drummer for Job for a Cowboy and Machine Head.
 
 ## Technique
 
@@ -50,7 +50,7 @@ Aquiles Priester and Navene Koperweis both epitomize technical mastery, but buil
 A: Aquiles Priester (Angra) is a Brazilian neoclassical power metal drummer renowned for blazing double bass speed and showmanship. Navene Koperweis (Entheos, ex-Animals as Leaders) is a technical death metal and djent drummer known for machine-precise polyrhythms and blast-beat fluency. Priester represents power metal's speed tradition; Koperweis represents technical death metal and djent's rhythmic complexity.
 
 **Q: What bands has Navene Koperweis played in?**
-A: Navene Koperweis played in technical death metal bands The Faceless and Animosity before joining Animals as Leaders in 2009 for the "Weightless" touring cycle. He departed in 2012 to found progressive metal band Entheos and has since worked as a producer and session drummer for Job for a Cowboy and Machine Head.
+A: Navene Koperweis played in technical death metal bands The Faceless and Animosity before joining Animals as Leaders in 2009 for the "Weightless" touring cycle. He departed in 2012 and went on to found progressive metal band Entheos in 2015, and has since worked as a producer and session drummer for Job for a Cowboy and Machine Head.
 
 **Q: What gear do Aquiles Priester and Navene Koperweis use?**
 A: Aquiles Priester plays his own Mapex Saturn Evolution All Maple signature kit with a custom red-coated Paiste cymbal set and a DW 9000 Series double pedal. Navene Koperweis plays a DW Performance Series kit with a DW Performance steel snare and Meinl Byzance Extra Dry cymbals.
@@ -67,4 +67,4 @@ A: Matt Garstka replaced Navene Koperweis as Animals as Leaders' drummer in 2012
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

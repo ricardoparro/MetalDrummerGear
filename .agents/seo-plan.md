@@ -14755,3 +14755,51 @@ Independently re-verified every cited line myself before filing (not trusting su
 3. Drum-chair watch: not due this run (Wednesday); next due Monday 2026-11-02, group 1.
 4. Held-back candidate for a future pass: the pervasive "Amen" band-affiliation fabrication noted alongside #9856's Candlebox fix — recurs across many more `drummerComparisons.js` entries per #9204's prior findings, worth its own dedicated sweep.
 5. `drummerComparisons.js` sweep continues to be productive (9 more drummers checked this run, 5 fabrications found across 3 drummers); Travis Orbin/Paul Bostaph/Morgan Ågren/Daniel Erlandsson fully clean, Alex Rüdinger has zero entries in this file — good candidate to continue next run with another fresh batch of top-traffic/top-query drummer names not yet checked.
+
+---
+
+## 2026-10-28 (run, Wednesday, ~13:0x UTC) — drummerComparisons.js sweep continuation, 6 filed (#9865-9870)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed — unchanged.
+- `/llms/*.md`: 2,027 markdown files total, 72 under `public/llms/drummers/` — unchanged.
+- Bank check: 8 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #3819/#3810/#2211 + #9857-9860 from the 07:0x run, already CEO-promoted to `ai-fix`) — well under the 45 floor → filed 6 (matched to confirmed findings, not padded to 8).
+- Open `ai-fix`: 25 (20 `hold`-labeled roster/band additions under the new-page freeze + 5 eligible from the 07:0x run, promoted 12:12 UTC per CEO deep run).
+- Content-gap: 0 rows this week (metrics.md, refreshed 13:03 UTC) — no action.
+- Drum-chair watch: today is Wednesday — not the Monday trigger day, section skipped per instructions.
+
+### Metrics readout
+- GSC 7d: 20,186 impr / 232 clicks / 1.15% CTR / pos 9.1.
+- GA4 7d: 399u/448s/655v. Top pages: `/drummer/mario-duplantier` (14v), `/` (13v), `/drummer/frost` (13v), `/drummer/joey-jordison` (12v), `/drummers` (10v), `/drummers/mike-portnoy/evolution` (10v), `/drummers/vinnie-paul/evolution` (10v).
+
+### Method
+Closed out this morning's held-back candidate first, then continued the `drummerComparisons.js` sweep with a fresh batch of 9 drummers not yet checked in this file:
+- **"Amen" dedicated sweep** (held back in #9856's scope note): grepped the full file directly myself — confirmed 10 "Amen" occurrences + 1 "Souls at Zero" occurrence, all tied to Shannon Larkin's pre-Godsmack history, all absent from `extendedBios.js:1700-1703`/`bands.js:2658`'s verified 4-band list (Godsmack/Ugly Kid Joe/Wrathchild America/Another Animal). Also confirmed "Another Animal" — his real 4th band — has zero mentions anywhere in this file. Filed as #9865.
+- **Fresh batch continuation**: dispatched 3 parallel agents (3 drummers each, cap 2 findings each) on names not yet checked: Agent 1 (Abe Cunningham, Dirk Verbeuren, Sean Reinert) — Verbeuren/Reinert clean, found Abe Cunningham's verified 1990-1993 Deftones absence erased by 5 "sole/only drummer since 1988" claims. Agent 2 (Aquiles Priester, Richard Christy, Pete Sandoval) — Sandoval clean, found Priester's "two separate tenures" fabrication (1 location, residual of closed #9325's date-suffix fix) and 2 Richard Christy tenure-span errors (Iced Earth "2003-2004" residual of closed #9247's line-2315-only fix; Death "1996-2001" vs verified 1997-2001). Agent 3 (Flo Mounier, Scott Travis, Ray Luzier) — Luzier clean, found Flo Mounier's stale "Iron Cobra 900" pedal (6 locations, residual of closed #8281's different-lines "Pearl Demon Drive" fix) and Scott Travis's fully fabricated Thin Lizzy touring-chair claim (6 locations, zero support in any of the 4 ground-truth files).
+- Independently re-verified every cited line + cross-checked every closed-issue dedup candidate myself before filing (not trusting subagent line numbers or "probably already fixed" assumptions): confirmed #9325/#9247/#8281 each left a specific residual untouched (different lines/fields than what they fixed), ruling out false-duplicate risk before filing #9867/#9868/#9869.
+
+### Proposals filed this run
+1. #9865 — SEO batch: Shannon Larkin fabricated 'Amen' + 'Souls at Zero' pre-Godsmack bands in drummerComparisons.js (10+1 locations)
+2. #9866 — SEO batch: Abe Cunningham fabricated as Deftones' 'sole/only drummer since 1988' — omits verified 1990-1993 absence (5 locations)
+3. #9867 — SEO: Aquiles Priester fabricated 'two separate tenures' at Angra — verified single 2001-2008 stint (drummerComparisons.js:2848)
+4. #9868 — SEO batch: Richard Christy — two wrong tenure spans survive in drummerComparisons.js (Iced Earth 2003-2004, Death 1996-2001)
+5. #9869 — SEO: Flo Mounier stale 'Tama Iron Cobra 900' pedal in drummerComparisons.js — verified Tama Speed Cobra 910 since 2012 (6 locations)
+6. #9870 — SEO: Scott Travis fabricated Thin Lizzy touring affiliation in mikkey-dee-vs-scott-travis entry — zero support in any ground-truth file
+
+### Held-back / not filed
+- None this run — all agent-surfaced candidates were either confirmed and filed, or confirmed clean (Dirk Verbeuren, Sean Reinert, Pete Sandoval, Ray Luzier all fully clean across their vs-entries).
+
+### Learned-patterns.md updates
+- None this run — all 6 findings are instances of already-documented fabrication classes (pure band-history fabrication, internal self-contradiction, stale/superseded gear generation, tenure-span drift, fully unsupported crossover claim) recurring in lines/fields that prior narrowly-scoped fixes (#9325, #9247, #8281) didn't grep for.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9857-9860 (07:0x run, already CEO-promoted to ai-fix per 12:12 UTC deep run)
+- #9865-9870 (this run, 6 fresh)
+
+### Next run
+1. Watch #9865-9870 pick up via CEO triage then Roadie; confirm #9865's Candlebox-vs-Amen line overlap with #9856 resolves without conflict (lines 2978/2987 touched by both, different substrings), #9866's reworded sentences don't touch the "every studio album" claims, #9867/#9868/#9869 each only touch their one cited residual location (not the already-fixed sibling locations), and #9870's fix doesn't invent a replacement fact for the removed Thin Lizzy claim.
+2. Content-gap: 0 rows this week — no action.
+3. Drum-chair watch: not due this run (Wednesday); next due Monday 2026-11-02, group 1.
+4. `drummerComparisons.js` sweep continues to be highly productive (9 more drummers checked, 5 fresh fabrications + 1 dedicated "Amen" sweep); Dirk Verbeuren/Sean Reinert/Pete Sandoval/Ray Luzier fully clean — good candidate to continue next run with another fresh batch (e.g. Alex Bent, Jason Bittner, Arin Ilejay, Art Cruz, Martin Axenrot, Tim Yeung, Isaac Lamb, Inferno not yet checked per the roster extracted this run).

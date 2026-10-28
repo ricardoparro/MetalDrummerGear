@@ -26,7 +26,7 @@ Jon Dette vs Gene Hoglan: two of extreme metal's most in-demand touring and sess
 
 ## Playing Style
 
-Jon Dette built his career as thrash metal's most reliable fill-in specialist — touring with Slayer in 1996-97, then touring with Testament across two stints (1994-1995, 1997-1998) without ever recording a studio album, and filling in for Charlie Benante on Anthrax tour dates in 2010. Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision, took a far broader path across more than 20 bands over four decades — Dark Angel (1984-present), Death ("Individual Thought Patterns," 1993; "Symbolic," 1995), Strapping Young Lad, Dethklok, and Testament, which he has anchored as primary drummer since 2007. Both men have spent time behind Testament's kit at different points in the band's history, but where Dette moved between bands as a versatile utility player, Hoglan became a genre-defining architect in his own right.
+Jon Dette built his career as thrash metal's most reliable fill-in specialist — touring with Slayer in 1996-97, then touring with Testament across two stints (1994-1995, 1997-1998) without ever recording a studio album, and filling in for Charlie Benante on Anthrax tour dates in 2010. Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision, took a far broader path across more than 20 bands over four decades — Dark Angel (1984-present), Death ("Individual Thought Patterns," 1993; "Symbolic," 1995), Strapping Young Lad, Dethklok, and Testament, where he held two separate stints on the drum chair (1996-1997, recording "Demonic," and 2011-2022, recording three more studio albums) before departing in 2022. Both men have spent time behind Testament's kit at different points in the band's history, but where Dette moved between bands as a versatile utility player, Hoglan became a genre-defining architect in his own right.
 
 ## Technique
 
@@ -47,7 +47,7 @@ Jon Dette and Gene Hoglan sit at opposite ends of the same profession — both b
 ## FAQ
 
 **Q: Have Jon Dette and Gene Hoglan both played in Testament?**
-A: Yes. Jon Dette toured with Testament across two stints (1994-1995 and 1997-1998), never recording a studio album with the band. Gene Hoglan has been Testament's primary drummer since 2007, anchoring the band's modern era alongside his other 20-plus band credits.
+A: Yes. Jon Dette toured with Testament across two stints (1994-1995 and 1997-1998), never recording a studio album with the band. Gene Hoglan held Testament's drum chair across two separate stints (1996-1997 and 2011-2022), with Paul Bostaph holding the chair in between (2007-2011); Hoglan departed in 2022 and Chris Dovas has been Testament's drummer since 2023.
 
 **Q: Why is Gene Hoglan called "The Atomic Clock"?**
 A: Gene Hoglan earned the nickname for his metronomic timing precision — an inhuman accuracy at extreme tempos that he sustained across Dark Angel, Death, Testament, Strapping Young Lad, and Dethklok over a four-decade career.
@@ -67,4 +67,4 @@ A: Jon Dette is best known for his two touring-only stints with Testament (1994-
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/pete-sandoval"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Pete Sandoval — Drum Kit & Gear Setup
@@ -49,8 +49,7 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
 - **1993** — Released "Covenant" with Morbid Angel, reaching Billboard Top 100
 - **2000** — Released "Gateways to Annihilation" with Morbid Angel
 - **2006** — Terrorizer reunited; released "Darker Days Ahead"
-- **2010** — Underwent spinal disc surgery, temporarily leaving Morbid Angel
-- **2013** — Left Morbid Angel permanently
+- **2010** — Underwent spinal disc surgery, sidelining him from Morbid Angel permanently
 - **2018** — Released "Caustic Attack" with Terrorizer
 - **2022** — Reunited with David Vincent in I Am Morbid
 
@@ -120,7 +119,7 @@ Pete Sandoval's drumming style is characterized by extreme speed, relentless end
 
 **Q: What band does Pete Sandoval play drums for?**
 
-A: Pete Sandoval drummed for Morbid Angel from 1988-2013 and co-founded Terrorizer. He reunited with former Morbid Angel vocalist David Vincent in 2022 to drum for I Am Morbid.
+A: Pete Sandoval drummed for Morbid Angel from 1988-2010 and co-founded Terrorizer. He reunited with former Morbid Angel vocalist David Vincent in 2022 to drum for I Am Morbid.
 
 **Q: What drums does Pete Sandoval play?**
 
@@ -202,4 +201,4 @@ Dated brand-endorsement timeline: [Pete Sandoval's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

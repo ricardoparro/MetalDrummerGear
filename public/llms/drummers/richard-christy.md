@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/richard-christy"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Richard Christy — Drum Kit & Gear Setup
@@ -39,14 +39,14 @@ Vic Firth American Classic 5A sticks and Evans drumheads round out the Richard C
 
 Richard Allan Christy (born 1974) is an American drummer known for his work with Death (1996-2001), Iced Earth (2003-2004), and his own band Charred Walls of the Damned. He recorded two albums with Death: "The Sound of Perseverance" and the live album "Live in L.A." His work with Chuck Schuldiner showcased his incredible technical abilities and musicality. Christy is known for his speed, precision, and ability to play complex progressive death metal patterns. Beyond drumming, he is also known for his work on The Howard Stern Show as a staff member since 2004.
 
-Richard Christy (born April 1, 1974, in Fort Scott, Kansas) is an American drummer, comedian, and radio personality. In the metal world, he is renowned for his work with Death (1996-2001), Chuck Schuldiner's Control Denied, and Iced Earth (2003-2007). He is considered one of the most technically proficient death metal drummers of his generation.
+Richard Christy (born April 1, 1974, in Fort Scott, Kansas) is an American drummer, comedian, and radio personality. In the metal world, he is renowned for his work with Death (1997-2001), Chuck Schuldiner's Control Denied, and Iced Earth (2003-2007). He is considered one of the most technically proficient death metal drummers of his generation.
 
 Christy's drumming on Death's final two albums—"The Sound of Perseverance" and the posthumously released Control Denied's "The Fragile Art of Existence"—showcased his incredible speed, precision, and musicality. He later transitioned to entertainment, becoming a prominent member of The Howard Stern Show, but his legacy in metal drumming remains influential.
 
 ## Career Highlights
 
 - **1993** — Moved to Florida to pursue career in death metal drumming
-- **1996** — Joined Death and Control Denied, handpicked by Chuck Schuldiner
+- **1997** — Joined Death and Control Denied, handpicked by Chuck Schuldiner
 - **1998** — Recorded "The Sound of Perseverance" with Death—final Death studio album
 - **1999** — Recorded "The Fragile Art of Existence" with Control Denied
 - **2001** — Death disbanded following Chuck Schuldiner's passing
@@ -86,7 +86,7 @@ Richard Christy's drumming style is characterized by exceptional speed, technica
 
 **Tours:**
 
-- **Death Tours** (1996-2001) — Final era of Death touring
+- **Death Tours** (1997-2001) — Final era of Death touring
 - **Iced Earth World Tours** (2003-2007) — Global touring
 - **Death To All Tours** (2012-2013) — Chuck Schuldiner tribute
 
@@ -150,7 +150,7 @@ A: Richard Christy uses Evans drumheads.
 
 **Q: What band is Richard Christy in?**
 
-A: Richard Christy recorded with Death from 1996-2001, played with Iced Earth from 2003-2007, and has drummed for his own band, Charred Walls of the Damned, since 2009.
+A: Richard Christy recorded with Death from 1997-2001, played with Iced Earth from 2003-2007, and has drummed for his own band, Charred Walls of the Damned, since 2009.
 
 **Q: What hi-hats does Richard Christy use?**
 
@@ -242,4 +242,4 @@ Dated brand-endorsement timeline: [Richard Christy's endorsement history](https:
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

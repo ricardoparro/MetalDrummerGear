@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/chris-turner"
 source: "https://metalforge.io"
-last_updated: "2026-10-26"
+last_updated: "2026-10-28"
 ---
 
 # Chris Turner — Drum Kit & Gear Setup
@@ -104,9 +104,9 @@ Chris Turner's drumming style is characterized by extreme technical precision, c
 
 ## Notable Performances
 
-- Escapist - Drum Playthrough (2017)
-- Hansha - Drum Playthrough (2017)
-- Endless Hollow - Drum Playthrough (2024)
+- Hansha - Drum Playthrough (2022)
+- Endless Hollow - Drum Playthrough (2023)
+- Escapist - Drum Playthrough (2021)
 
 ## Frequently Asked Questions
 
@@ -225,4 +225,4 @@ Dated brand-endorsement timeline: [Chris Turner's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-26 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

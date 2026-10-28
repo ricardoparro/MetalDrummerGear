@@ -6,7 +6,7 @@ country: "Cuba/USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dave-lombardo"
 source: "https://metalforge.io"
-last_updated: "2026-10-18"
+last_updated: "2026-10-28"
 ---
 
 # Dave Lombardo — Drum Kit & Gear Setup
@@ -33,15 +33,15 @@ Dave Lombardo plays a Tama Starclassic Walnut/Birch drum kit — the shell confi
 
 Paiste cymbals define the sonic character of Dave Lombardo's drum kit: 15" Sound Edge Hi-Hats from the RUDE series provide aggressive open-edge response; 18" and 19" Paiste crashes deliver explosive attack for thrash metal's dynamic accents; a 22" Reign Power Ride cuts through dense guitar arrangements; and an 18" China adds brutal punctuation central to tracks like "Angel of Death." A Tama Iron Cobra 900 double pedal drives Lombardo's legendary double kick — the technique that redefined extreme metal drumming.
 
-The Dave Lombardo drum set draws on his work across Slayer (1981–1986, 1987–1992, 2001–2013) and subsequent projects with Dead Cross, Mr. Bungle, and Suicidal Tendencies (2016–2021). His Promark Dave Lombardo Signature 2Bx drumsticks are heavier than standard, matched to the power required for Slayer's extreme thrash tempos — a legacy that makes his Reign in Blood drum parts among the most studied in metal history.
+The Dave Lombardo drum set draws on his work across Slayer (1981–2013) and subsequent projects with Dead Cross, Mr. Bungle, and Suicidal Tendencies. His Promark Dave Lombardo Signature 2Bx drumsticks are heavier than standard, matched to the power required for Slayer's extreme thrash tempos — a legacy that makes his Reign in Blood drum parts among the most studied in metal history.
 
 ## Biography
 
-Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies (2016–2021), and Dead Cross.
+Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest drummers in metal history. As the original drummer of Slayer, he pioneered the double bass drumming style that defined thrash metal. His work on albums like "Reign in Blood" is considered groundbreaking. He has also played with Fantomas, Suicidal Tendencies, and Dead Cross.
 
 Dave Lombardo (born February 16, 1965, in Havana, Cuba) is a Cuban-American drummer widely regarded as one of the greatest and most influential drummers in heavy metal history. As the original and primary drummer of Slayer, Lombardo pioneered the double bass drumming style that defined thrash metal in the 1980s.
 
-His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Seasons in the Abyss" established the template for extreme metal drumming. Beyond Slayer, Lombardo has explored diverse musical territories with Fantômas, Suicidal Tendencies (2016–2021), Dead Cross, and Mr. Bungle.
+His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Seasons in the Abyss" established the template for extreme metal drumming. Beyond Slayer, Lombardo has explored diverse musical territories with Fantômas, Suicidal Tendencies, Dead Cross, and Mr. Bungle.
 
 ## Career Highlights
 
@@ -51,8 +51,8 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
 - **1988** — Released "South of Heaven," showcasing dynamic range beyond speed
 - **1992** — First departure from Slayer due to financial disputes
 - **1998** — Joined Mike Patton's Fantômas, exploring avant-garde metal
-- **2001** — Rejoined Slayer
-- **2006** — Released "Christ Illusion" with Slayer, his first studio album since rejoining, winning Grammy for Best Metal Performance
+- **2001** — Rejoined Slayer for "God Hates Us All" album
+- **2006** — Released "Christ Illusion" with Slayer, winning Grammy for Best Metal Performance
 - **2013** — Second departure from Slayer
 - **2017** — Formed Dead Cross with Mike Patton; joined Mr. Bungle reunion
 - **2019** — Recorded "The Raging Wrath of the Easter Bunny Demo" with Mr. Bungle
@@ -95,8 +95,8 @@ Dave Lombardo's drumming style is characterized by incredible speed, precise dou
 
 ## Band History
 
-- **Slayer** — 1981–1986, 1987–1992, 2001–2013
-- **Suicidal Tendencies** — 2016–2021
+- **Slayer** — 1981–1992, 2001–2013
+- **Suicidal Tendencies** — 2016–present (current)
 - **Dead Cross** — 2017–present (current)
 - **Mr. Bungle** — 2019–present (current)
 - **Fantômas** — 1998–2008
@@ -252,4 +252,4 @@ Dated brand-endorsement timeline: [Dave Lombardo's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

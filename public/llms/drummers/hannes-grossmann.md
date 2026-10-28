@@ -6,7 +6,7 @@ country: "Germany"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/hannes-grossmann"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Hannes Grossmann — Drum Kit & Gear Setup
@@ -35,7 +35,7 @@ Meinl's Byzance Series cymbals define the kit's tonal character: 14" Byzance Tra
 
 ## Biography
 
-Hannes Grossmann (born September 8, 1982) is a German drummer, composer, and producer known for his work with Obscura, Necrophagist, Blotted Science, and Alkaloid. Widely regarded as one of the most technically proficient drummers in death metal, his playing combines classical music influences with extreme metal precision.
+Hannes Grossmann (born September 8, 1982) is a German drummer, composer, and producer known for his work with Obscura, Necrophagist, Blotted Science, Hate Eternal, and Alkaloid. Widely regarded as one of the most technically proficient drummers in death metal, his playing combines classical music influences with extreme metal precision.
 
 Hannes Grossmann (born September 8, 1982, in Bayreuth, Germany) is a German drummer, composer, and producer widely regarded as one of the most technically proficient drummers in extreme metal. His playing combines classical music influences with precision extreme metal technique, creating a unique style that bridges technical death metal with progressive and jazz elements.
 
@@ -150,7 +150,7 @@ A: Hannes Grossmann uses Evans drumheads across his DW Collectors kit.
 
 **Q: What band is Hannes Grossmann in?**
 
-A: Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist and Blotted Science.
+A: Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist, Blotted Science, and Hate Eternal (2015-2018, recording Upon Desolate Sands).
 
 **Q: What is Hannes Grossmann's musical background?**
 
@@ -230,4 +230,4 @@ Dated brand-endorsement timeline: [Hannes Grossmann's endorsement history](https
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

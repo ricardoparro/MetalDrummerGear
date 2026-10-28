@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -38,7 +38,7 @@ His ProMark Aquiles Priester Signature sticks, paired with Remo coated Ambassado
 
 Aquiles Priester (born 1971) is a Brazilian drummer renowned for his incredible speed, precision, and showmanship. He is best known for his work with Angra (2001-2008, 2023-present), W.A.S.P. (2017-present), and his own project Hangar. Priester's double bass abilities, complex fills, and ability to maintain blazing speeds for extended periods have made him one of the most celebrated power metal drummers in the world. He has won numerous awards from Brazilian and international music publications and is known for his energetic live performances.
 
-Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2001-2008, returning 2023), American heavy metal band W.A.S.P. (2017-present), and his own band Hangar.
+Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2001-2008), American heavy metal band W.A.S.P. (2017-present), and his own band Hangar.
 
 Priester is considered one of the greatest power metal drummers in the world. His double bass abilities, complex fills, and capacity to maintain blazing speeds for extended periods have earned him numerous awards from Brazilian and international music publications. His energetic live performances and precise studio work have influenced a generation of metal drummers.
 
@@ -51,7 +51,7 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
 - **2006** — Released "Aurora Consurgens" with Angra
 - **2008** — Left Angra; continued with Hangar
 - **2017** — Joined W.A.S.P. as touring drummer
-- **2023** — Returned to Angra for their latest album cycle
+- **2023** — Launched the Mapex Saturn Evolution signature kit
 
 ## Style & Influences
 
@@ -140,7 +140,7 @@ A: Aquiles Priester uses a DW 9000 Series double bass drum pedal, mounted alongs
 
 **Q: What band is Aquiles Priester in?**
 
-A: Aquiles Priester is best known for his work with Angra (2001-2008, 2023-present) and W.A.S.P. (2017-present), along with his own project Hangar.
+A: Aquiles Priester is best known for his work with Angra (2001-2008) and W.A.S.P. (2017-present), along with his own project Hangar.
 
 **Q: What drumsticks does Aquiles Priester use?**
 
@@ -160,8 +160,8 @@ A: Aquiles Priester mounts his DW 9000 Series double pedal and DW 9000 Series hi
 - "Temple of Shadows" is considered one of the greatest power metal albums ever
 - Known for his warm personality and fan interaction
 - Has released instructional DVDs and online lessons
-- Balances work with multiple bands simultaneously (W.A.S.P., Hangar, Angra)
-- His return to Angra in 2023 was celebrated by the power metal community
+- Balances work with multiple bands simultaneously (W.A.S.P., Hangar)
+- The Mapex Saturn Evolution was the first Brazilian-drummer signature kit released by a global drum brand
 - Often cited as the greatest Brazilian metal drummer
 - Has been praised by Blackie Lawless (W.A.S.P.) for his professionalism
 - Maintains an extensive practice regimen to keep up with demanding schedules
@@ -236,4 +236,4 @@ Dated brand-endorsement timeline: [Aquiles Priester's endorsement history](https
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

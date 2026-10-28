@@ -1,6 +1,6 @@
 # MetalForge Complete Database
 # Metal Drummer Gear Database - Full Content Dump for LLMs
-# Last Updated: 2026-10-15
+# Last Updated: 2026-10-28
 # Source: https://metalforge.io
 # Total Drummers: 72
 #
@@ -638,7 +638,7 @@ The Dave Lombardo drum set draws on his work across Slayer (1981–2013) and sub
 ### Detailed Overview
 Dave Lombardo (born February 16, 1965, in Havana, Cuba) is a Cuban-American drummer widely regarded as one of the greatest and most influential drummers in heavy metal history. As the original and primary drummer of Slayer, Lombardo pioneered the double bass drumming style that defined thrash metal in the 1980s.
 
-His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Seasons in the Abyss" established the template for extreme metal drumming. Beyond Slayer, Lombardo has explored diverse musical territories with Fantômas, Suicidal Tendencies, Dead Cross, Mr. Bungle, and the 2022 reunited Pantera as a touring member.
+His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Seasons in the Abyss" established the template for extreme metal drumming. Beyond Slayer, Lombardo has explored diverse musical territories with Fantômas, Suicidal Tendencies, Dead Cross, and Mr. Bungle.
 
 ### Career Highlights
 - 1981: Joined Slayer as founding drummer alongside Kerry King, Jeff Hanneman, and Tom Araya
@@ -652,7 +652,6 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
 - 2013: Second departure from Slayer
 - 2017: Formed Dead Cross with Mike Patton; joined Mr. Bungle reunion
 - 2019: Recorded "The Raging Wrath of the Easter Bunny Demo" with Mr. Bungle
-- 2022: Joined reunited Pantera as touring drummer, honoring Vinnie Paul's legacy
 
 ### Current Gear
 - **Drums:** Tama Starclassic Walnut/Birch
@@ -746,12 +745,11 @@ Dave Lombardo's drumming style is characterized by incredible speed, precise dou
 **Notable Tours**
 - Clash of the Titans (1990): With Megadeth, Anthrax, Alice in Chains
 - Slayer Farewell Tour (2018-2019): Final Slayer world tour (Lombardo not participating)
-- Pantera Reunion Tour (2022-2023): Filling in for late Vinnie Paul
 
 ### Gear Highlights
 Dave Lombardo has been a Tama endorser for most of his career, though he's used various brands throughout different projects. His signature 2Bx sticks from Promark are designed for power and speed.
 
-**Current Setup (Pantera Era):**
+**Current Setup (Dead Cross Era):**
 - **Drums**: Tama Starclassic Walnut/Birch
 - **Snare**: Tama S.L.P. 14"x6.5" G-Maple
 - **Cymbals**: Paiste RUDE and 2002 series (15" Sound Edge Hi-Hats, crashes, Reign Power Ride)
@@ -781,7 +779,7 @@ Dave Lombardo has been a Tama endorser for most of his career, though he's used 
 A: Dave Lombardo plays Tama Starclassic drums with Paiste RUDE and 2002 cymbals.
 
 **Q: Is Dave Lombardo still in Slayer?**
-A: No, Dave left Slayer in 2013 but tours with the reunited Pantera as of 2022.
+A: No, Dave left Slayer in 2013. He now plays with Dead Cross, Mr. Bungle, and other projects.
 
 **Q: Where is Dave Lombardo from?**
 A: Dave was born in Havana, Cuba on February 16, 1965, and emigrated to the US as a child.
@@ -1044,7 +1042,7 @@ The cornerstone of the drum kit is his Pearl George Kollias Signature snare — 
 ### Detailed Overview
 George Kollias (born August 30, 1977, in Korinth, Greece) is a Greek drummer best known as the drummer for American technical death metal band Nile since 2004. He is widely regarded as one of the most technically proficient drummers in extreme metal, known for his incredible speed, stamina, and precision.
 
-Beyond his work with Nile, Kollias is an accomplished drum educator, having released instructional DVDs and teaching at clinics worldwide. His signature products with Pearl Drums and Vic Firth reflect his status as an influential figure in modern extreme metal drumming.
+Beyond his work with Nile, Kollias is an accomplished drum educator, having released instructional DVDs and teaching at clinics worldwide. His signature snare with Pearl Drums and endorsement with Vic Firth reflect his status as an influential figure in modern extreme metal drumming.
 
 **August 30, 2026** marks George Kollias's 49th birthday. Fans continue to mark the anniversary by revisiting his blast-beat clinics and his run of albums with Nile — a body of work that remains a benchmark for technical death metal drumming.
 
@@ -1055,7 +1053,6 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
 - 2007: Released "Ithyphallic" with Nile; began educational clinic tours
 - 2009: Released "Those Whom the Gods Detest" to critical acclaim
 - 2010: Released first instructional DVD: "Intense Metal Drumming"
-- 2012: Received Vic Firth signature drumstick
 - 2015: Co-designed Pearl Demon XR double pedal
 - 2017: Released second instructional DVD: "Intense Metal Drumming II"
 - 2019: Released "Vile Nilotic Rites" with Nile
@@ -1203,7 +1200,7 @@ Eloy Casagrande plays a Tama Starclassic Bubinga drum kit — a massive, dual-ba
 The centerpiece of the Eloy Casagrande drum kit is his Tama Bell Brass snare drum (14×5.5"), chosen for its bright, cutting attack that slices through dense metal arrangements. The Eloy Casagrande drum set features Paiste cymbals throughout: 15" Masters Dark Hi-Hats for a dark, nuanced feel; 20" 602 and Masters Dark Crashes for explosive dynamic accents; a 20" 2002 Power Ride for cutting rhythmic clarity; and a 20" 2002 Novo China for aggressive punctuation. A Tama Iron Cobra double pedal powers the explosive double bass passages that defined Sepultura's Roots and Machine Messiah eras, as well as the relentless intensity Casagrande brings to Slipknot's live performances. Promark Eloy Casagrande Signature sticks complete the rig.
 
 ### Detailed Overview
-Eloy Casagrande (born January 29, 1991, in Santo André, São Paulo, Brazil) is a Brazilian drummer who joined Slipknot as their new drummer in 2024, following his 13-year tenure with legendary thrash metal band Sepultura. Named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, Casagrande's drum kit — a Tama Starclassic Bubinga configuration with Paiste cymbals and Tama Iron Cobra double pedal — is built for the extreme demands of Slipknot's live performances.
+Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) is a Brazilian drummer who joined Slipknot as their new drummer in 2024, following his 13-year tenure with legendary thrash metal band Sepultura. Named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, Casagrande's drum kit — a Tama Starclassic Bubinga configuration with Paiste cymbals and Tama Iron Cobra double pedal — is built for the extreme demands of Slipknot's live performances.
 
 Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented the new generation of metal drumming. His combination of traditional thrash metal power with modern technical elements has made him one of the most exciting and influential drummers in contemporary metal.
 
@@ -1503,7 +1500,7 @@ A: Ray Luzier uses Evans drumheads across his Pearl Reference Series drum kit an
 John Otto, born in 1977, is the drummer and a founding member of Limp Bizkit. His hip-hop influenced drumming style, combining tight grooves with funk-inspired beats, was essential in defining the rap-metal sound of the late 90s and early 2000s. His ability to blend rock power with hip-hop feel made Limp Bizkit one of the biggest bands of the nu-metal era.
 
 ### Complete Drum Kit Overview
-John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic drum kit — the transparent acrylic shell set that defined his visual and sonic identity throughout Limp Bizkit's nu-metal peak. The John Otto drum set centers on two signature OCDP snares: a 14×6.5" 40-ply vented shell for primary work and a 10×6" 20-ply piccolo for accents. Gibraltar G Class bass drum pedals drive the kick — a single-pedal configuration underpinning the straight-ahead funk and rock grooves defining tracks like "Rollin'" and "Break Stuff."
+John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic drum kit — the transparent acrylic shell set that defined his visual and sonic identity throughout Limp Bizkit's nu-metal peak. The John Otto drum set centers on two signature OCDP snares: a 14×6.5" 40-ply vented shell for primary work and a 10×6" 20-ply piccolo for accents. Gibraltar Professional Series bass drum pedals drive the kick — a single-pedal configuration underpinning the straight-ahead funk and rock grooves defining tracks like "Rollin'" and "Break Stuff."
 
 Zildjian cymbals complete the John Otto drum kit: 13" A Custom Mastersound Hi-Hats for tight groove patterns; 16" and 17" A Custom Projection Crashes for accent work; a 20" A Custom EFX for trashy edge; and a 20" FX Oriental Crash of Doom for explosive decay. Remo Emperor Coated drumheads are fitted throughout on a Gibraltar custom rack. Otto has been Limp Bizkit's drummer since 1994. His OCDP acrylic drum set carried the band through Significant Other (1999) and Chocolate Starfish and the Hot Dog Flavored Water (2000), the nu-metal era's best-selling record.
 
@@ -1529,7 +1526,7 @@ Otto studied jazz drumming at the Douglas Anderson School of the Arts and played
 - **Drums:** Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic
 - **Snare:** OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply
 - **Cymbals:** Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom)
-- **Hardware:** Gibraltar G Class Bass Drum Pedals, Gibraltar Custom Racks
+- **Hardware:** Gibraltar Professional Series, Gibraltar Custom Racks
 - **Sticks:** Zildjian Artist Series
 - **Heads:** Remo Emperor Coated
 
@@ -2040,19 +2037,19 @@ Charlie Benante is credited with pioneering several techniques that became stand
 - Pantera Reunion Tour (2022-Present): Filling in for late Vinnie Paul
 
 ### Gear Highlights
-Charlie Benante endorses Tama drums and hardware, Paiste cymbals, Vic Firth sticks, Evans drumheads, and Roland electronics. He was one of few drummers to use Tama's vintage HP35 Camco pedals until switching to Speed Cobra in 2010.
+Charlie Benante endorses Tama drums and hardware, Paiste cymbals, Vic Firth sticks, Evans drumheads, and Roland electronics. He was one of few drummers to use Tama's vintage HP35 Camco pedals until switching to Speed Cobra in 2013.
 
 **Current Setup:**
 - **Drums**: Tama Starclassic Maple
 - **Snare**: Tama Charlie Benante Signature
 - **Cymbals**: Paiste (2002, Signature, and RUDE series)
-- **Hardware**: Tama Speed Cobra double pedal (replaced Camco HP35 in 2010)
+- **Hardware**: Tama Speed Cobra double pedal (replaced Camco HP35 in 2013)
 - **Sticks**: Vic Firth Charlie Benante Signature
 - **Heads**: Evans
 - **Electronics**: Roland for triggers
 
 **Historical Note:**
-- Used Tama HP35 Camco chain-drive pedals from 1984-2010
+- Used Tama HP35 Camco chain-drive pedals from 1984-2013
 - Known for vintage pedal preference until Tama discontinued them
 
 ### Trivia & Fun Facts
@@ -2061,7 +2058,7 @@ Charlie Benante endorses Tama drums and hardware, Paiste cymbals, Vic Firth stic
 - Creates Anthrax's album artwork and T-shirt designs
 - Massive collector of Jaws (1975 film) merchandise; featured in "The Shark Is Still Working" documentary
 - Bassist Frank Bello is his nephew (Benante's mother was Bello's grandmother)
-- Used same Tama Camco pedals from 1984 until their discontinuation in 2010
+- Used same Tama Camco pedals from 1984 until their discontinuation in 2013
 - Joined Pantera reunion in 2022 to honor close friend Vinnie Paul
 - Released solo album "Silver Linings" during COVID lockdowns
 - Born and raised in The Bronx, New York
@@ -3019,7 +3016,7 @@ Matt Halpern, born in 1983, is the drummer for progressive metal band Periphery 
 ### Complete Drum Kit Overview
 Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range and articulate response across Periphery's complex polyrhythmic arrangements. As one of the key architects of the djent movement and a Berklee College of Music graduate, Halpern has built one of progressive metal's most studied drum sets, balancing technical precision with an organic, groove-focused feel.
 
-The centerpiece of the Matt Halpern drum kit is his Pearl Reference 14×6.5" Brass snare drum, delivering cutting, focused crack that sits precisely within Periphery's dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan. The Matt Halpern drum set features Meinl Byzance Series cymbals throughout: 15" Dark Hi-Hats for a dry, controlled feel on odd-time grooves; 18" and 20" Extra Dry Medium Crashes for quick-decaying accents; a 22" Transition Ride for clear articulation in complex patterns; and an 18" Extra Dry China for aggressive punctuation. A Pearl Demon Drive double pedal drives the precise double bass lines beneath djent's syncopated rhythms. Promark Matt Halpern Signature sticks complete the rig.
+The centerpiece of the Matt Halpern drum kit is his own Pearl Matt Halpern Signature snare drum (MH1460/B) — a 14x6" 1.5mm brass shell with a black powder-coat finish, delivering cutting, focused crack that sits precisely within Periphery's dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan. The Matt Halpern drum set features Meinl Byzance Series cymbals throughout: 14" Traditional Medium Hi-Hats for balanced articulation on odd-time grooves; 18" and 20" Traditional Extra Thin Hammered Crashes for quick-decaying accents; a 21" Byzance Dark Double Down Crash-Ride (his signature model) for clear articulation in complex patterns; and his co-developed Artist Concept "Double Down Stack" for aggressive punctuation. A Pearl Demon Drive double pedal drives the precise double bass lines beneath djent's syncopated rhythms. Promark Matt Halpern Signature sticks complete the rig.
 
 ### Detailed Overview
 Matt Halpern (born June 21, 1983, in Baltimore, Maryland) is an American drummer best known as the drummer for progressive metal band Periphery. As one of the architects of the "djent" movement, Halpern has become one of the most influential drummers in modern metal, known for his precise, groove-focused playing and dynamic approach.
@@ -3040,8 +3037,8 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
 
 ### Current Gear
 - **Drums:** Pearl Reference Series
-- **Snare:** Pearl Reference 14x6.5" Brass
-- **Cymbals:** Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China)
+- **Snare:** Pearl Matt Halpern Signature 14x6" Brass (MH1460/B)
+- **Cymbals:** Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack")
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Matt Halpern Signature
 
@@ -3088,8 +3085,8 @@ Matt Halpern is a Pearl Drums endorser. He is also a Meinl Cymbals endorser and 
 
 **Current Setup:**
 - **Drums**: Pearl Reference Series
-- **Snare**: A Pearl snare; the specific model has not been independently verified
-- **Cymbals**: Meinl Byzance series (14" Byzance Traditional Medium Hi-Hats, 18" & 20" Byzance Traditional Extra Thin Hammered Crashes, 22" Byzance Sand Crash-Ride, 10" Byzance Traditional Splash, plus his signature Artist Concept "Double Down Stack")
+- **Snare**: Pearl Matt Halpern Signature Snare (MH1460/B), 14"x6" brass shell
+- **Cymbals**: Meinl Byzance series (14" Byzance Traditional Medium Hi-Hats, 18" & 20" Byzance Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus his signature Artist Concept "Double Down Stack")
 - **Hardware**: Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Electronics**: Roland SPD-SX, various triggers
 - **Sticks**: ProMark TXMHW signature model (2B weight, plays like 5B)
@@ -3113,16 +3110,16 @@ Matt Halpern is a Pearl Drums endorser. He is also a Meinl Cymbals endorser and 
 
 ### Frequently Asked Questions
 **Q: What drum kit does Matt Halpern use?**
-A: Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery's complex polyrhythmic arrangements; the specific snare model has not been independently verified.
+A: Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery's complex polyrhythmic arrangements, built around his Pearl Matt Halpern Signature snare.
 
 **Q: What drum set does Matt Halpern use?**
-A: Matt Halpern's drum set pairs Pearl Reference Series shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent's syncopated rhythms; the specific snare model has not been independently verified.
+A: Matt Halpern's drum set pairs Pearl Reference Series shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent's syncopated rhythms.
 
 **Q: What cymbals does Matt Halpern play?**
-A: Matt Halpern plays Meinl Byzance Series cymbals: 14" Byzance Traditional Medium Hi-Hats, 18" and 20" Byzance Traditional Extra Thin Hammered Crashes, a 22" Byzance Sand Crash-Ride, and a 10" Byzance Traditional Splash, plus his signature Meinl Artist Concept "Double Down Stack".
+A: Matt Halpern plays Meinl Byzance Series cymbals: 14" Byzance Traditional Medium Hi-Hats, 18" and 20" Byzance Traditional Extra Thin Hammered Crashes, and a 21" Byzance Dark Double Down Crash-Ride, plus his signature Meinl Artist Concept "Double Down Stack".
 
 **Q: What snare does Matt Halpern use?**
-A: Matt Halpern's snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.
+A: Matt Halpern plays his own signature Pearl Matt Halpern Signature Snare (MH1460/B), a 14"x6" 1.5mm brass shell with a black powder-coat finish.
 
 **Q: What sticks does Matt Halpern use?**
 A: Matt Halpern uses Promark Matt Halpern Signature drumsticks.
@@ -3142,6 +3139,8 @@ A: Matt Halpern integrates a Roland SPD-SX sample pad and additional triggers in
 ### Sources
 - [Pearl Drums](https://pearldrum.com)
 - [Meinl Cymbals Artist Profile](https://meinlcymbals.com/en/artists/matt-halpern-a1523.html)
+- [Sweetwater: Pearl Matt Halpern Signature Snare Drum (MH1460/B)](https://www.sweetwater.com/store/detail/MH1460B--pearl-matt-halpern-signature-snare-drum-14-by-6-inch)
+- [Drum-Tec: Meinl Byzance Matt Halpern Artist's Choice Cymbal Set](https://www.drum-tec.com/meinl-byzance-matt-halpern-artist-s-choice-cymbal-set-a-cs2)
 - [Drumeo](https://www.drumeo.com)
 - [Wikipedia: Matt Halpern](https://en.wikipedia.org/wiki/Matt_Halpern)
 
@@ -3244,7 +3243,7 @@ Inferno is a Pearl Drums and Paiste Cymbals endorser. His setup is designed for 
 - **Cymbals**: Paiste RUDE series (14" RUDE Sound Edge Hi-Hats, RUDE crashes, RUDE Ride)
 - **Hardware**: Czarcie Kopyto (Devil's Hoof) Double Pedal (long boards)
 - **Throne**: Pearl D-2000
-- **Sticks**: Vic Firth American Classic 2B
+- **Sticks**: Vic Firth American Classic Extreme 5B
 - **Heads**: Remo
 
 **Unique Setup Elements:**
@@ -3278,7 +3277,7 @@ A: Inferno plays Paiste RUDE Series cymbals: 14" Hi-Hats, a 14" Blast China, 18"
 A: Inferno's snare is a Pearl Reference 14"x5" Steel, tuned for maximum cutting crack to penetrate Behemoth's dense wall of down-tuned guitars during blast beats exceeding 200 BPM.
 
 **Q: What sticks does Inferno use?**
-A: Inferno uses Vic Firth American Classic 2B drumsticks.
+A: Inferno uses Vic Firth American Classic Extreme 5B drumsticks.
 
 **Q: What bass drum pedal does Inferno use?**
 A: Inferno drives his double kick with a Czarcie Kopyto (Devil's Hoof) double pedal, seated on a Pearl D-2000 throne.
@@ -3495,8 +3494,7 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
 - 1993: Released "Covenant" with Morbid Angel, reaching Billboard Top 100
 - 2000: Released "Gateways to Annihilation" with Morbid Angel
 - 2006: Terrorizer reunited; released "Darker Days Ahead"
-- 2010: Underwent spinal disc surgery, temporarily leaving Morbid Angel
-- 2013: Left Morbid Angel permanently
+- 2010: Underwent spinal disc surgery, sidelining him from Morbid Angel permanently
 - 2018: Released "Caustic Attack" with Terrorizer
 - 2022: Reunited with David Vincent in I Am Morbid
 
@@ -3576,7 +3574,7 @@ Pete Sandoval has been a ddrum endorser for much of his career, using their drum
 
 ### Frequently Asked Questions
 **Q: What band does Pete Sandoval play drums for?**
-A: Pete Sandoval drummed for Morbid Angel from 1988-2013 and co-founded Terrorizer. He reunited with former Morbid Angel vocalist David Vincent in 2022 to drum for I Am Morbid.
+A: Pete Sandoval drummed for Morbid Angel from 1988-2010 and co-founded Terrorizer. He reunited with former Morbid Angel vocalist David Vincent in 2022 to drum for I Am Morbid.
 
 **Q: What drums does Pete Sandoval play?**
 A: Pete Sandoval has been a ddrum artist for much of his career, but the specific drum series he plays is not named on ddrum's own artist page.
@@ -3926,7 +3924,7 @@ A: Arin Ilejay joined Avenged Sevenfold in 2011, stepping in after Mike Portnoy 
 
 ### Band History
 - Entheos: 2015–present (current)
-- Animals as Leaders: 2012–2014
+- Animals as Leaders: 2009-2012
 
 ### Biography
 Navene Koperweis, born May 31, 1985, in San Jose, California, is a drummer, producer, and multi-instrumentalist known for his work with Entheos, Animals as Leaders, Animosity, and The Faceless. He started drumming at age eleven and has become one of the most innovative drummers in the progressive metal scene. Beyond his drumming prowess, Navene is a skilled producer and runs the technical death metal project Fleshwrought. He has also served as session drummer for Job for a Cowboy, Machine Head, and Whitechapel. His playing combines extreme technical proficiency with electronic and djent influences.
@@ -3936,7 +3934,7 @@ Navene Koperweis plays a DW Drums Performance Series kit — a workhorse acousti
 
 Meinl Byzance cymbals define the Navene Koperweis drum kit: 15" Dual Hi-Hats for tight, articulate patterns across Entheos's technical grooves, 18" and 19" Extra Dry Medium Crashes for quick-decay accents, a 21" Transition Ride, an 18" Extra Dry China for abrupt textural punctuation, and a 10" splash for ornamental fills. A DW 9000 Series double pedal drives his extreme single-stroke and blast-beat passages, with Vic Firth American Classic 5B sticks and a DW throne rounding out the rig.
 
-This DW/Meinl configuration has carried Koperweis from his Animals as Leaders tenure (2012-2014) through Entheos's ongoing catalog, reflecting a drummer whose acoustic gear stays consistent even as his broader musical output — spanning Fleshwrought, session dates for Machine Head and Job for a Cowboy, and his own electronic productions — ranges far beyond a standard metal drum kit.
+This DW/Meinl configuration has carried Koperweis from his Animals as Leaders tenure (2009-2012) through Entheos's ongoing catalog, reflecting a drummer whose acoustic gear stays consistent even as his broader musical output — spanning Fleshwrought, session dates for Machine Head and Job for a Cowboy, and his own electronic productions — ranges far beyond a standard metal drum kit.
 
 ### Detailed Overview
 Navene Koperweis (born May 31, 1985, in San Jose, California) is an American drummer, producer, and multi-instrumentalist known for his work with progressive metal band Entheos and his former tenure with Animals as Leaders. His drumming combines extreme technical precision with creative musical expression, spanning genres from djent to deathcore to electronic music.
@@ -4004,7 +4002,7 @@ Navene Koperweis's drumming style bridges extreme metal precision with electroni
 - Entheos - Time Will Take Us All (2023, Metal Blade): Most ambitious album
 
 **Notable Tours**
-- Animals as Leaders Tours (2010-2012): Progressive metal circuit
+- Animals as Leaders Tours (2009-2012): Progressive metal circuit
 - Entheos Touring (2015-present): Technical death metal scene
 - Job for a Cowboy (Various): Session/touring drummer
 
@@ -4059,7 +4057,7 @@ A: Navene Koperweis drives his extreme single-stroke and blast-beat passages wit
 A: Navene Koperweis uses Evans drumheads across his DW Performance kit.
 
 **Q: What band is Navene Koperweis in?**
-A: Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2010-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.
+A: Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2009-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.
 
 **Q: What other projects has Navene Koperweis worked on?**
 A: Beyond Entheos and Animals as Leaders, Navene Koperweis runs his own technical death metal project Fleshwrought, playing every instrument himself, produces electronic music under the name "Navene K," and has served as a session drummer for Machine Head since 2021.
@@ -4238,7 +4236,7 @@ A: Alex Bent filled in for Gene Hoglan, one of his key influences, on Testament 
 ---
 
 ## Drummer: Shannon Larkin
-**Band:** Godsmack / Ugly Kid Joe / Amen
+**Band:** Godsmack / Ugly Kid Joe / Wrathchild America
 **Genre:** Hard Rock / Heavy Metal / Nu Metal
 **Country:** USA
 **Profile URL:** https://metalforge.io/drummer/shannon-larkin
@@ -4246,10 +4244,10 @@ A: Alex Bent filled in for Gene Hoglan, one of his key influences, on Testament 
 ### Band History
 - Godsmack: 2002–present (current)
 - Ugly Kid Joe: 1991–1997
-- Amen: 1999–2002
+- Wrathchild America: 1989–1991
 
 ### Biography
-Shannon Larkin (born April 24, 1967) is an American drummer best known as the former drummer of Godsmack, a position he held from 2002 to 2024, making him the band's longest-serving drummer. His powerful, groove-oriented style was essential to Godsmack's signature heavy sound. Before Godsmack, Larkin played with Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen. He has been playing drums since age ten and briefly filled in for Black Sabbath on one show in 1997 when Mike Bordin was unavailable. Known for his hard-hitting style and versatility, Larkin has been a Sabian cymbal artist for decades.
+Shannon Larkin (born April 24, 1967) is an American drummer best known as the former drummer of Godsmack, a position he held from 2002 to 2024, making him the band's longest-serving drummer. His powerful, groove-oriented style was essential to Godsmack's signature heavy sound. Before Godsmack, Larkin played with Wrathchild America and Ugly Kid Joe. He has been playing drums since age ten and briefly filled in for Black Sabbath on one show in 1997 when Mike Bordin was unavailable. Known for his hard-hitting style and versatility, Larkin has been a Sabian cymbal artist for decades.
 
 ### Complete Drum Kit Overview
 Shannon Larkin plays a ddrum Dios Series drum kit — a setup built for the raw power and groove-centric approach he brought to Godsmack across two decades of multi-platinum hard rock. As one of rock's most hard-hitting drummers, Larkin built a drum set that balances heavy impact with musical sensitivity, perfectly matching Godsmack's powerful yet accessible sound.
@@ -4562,20 +4560,20 @@ A: Raymond Herrera uses ddrum and Roland electronic triggers throughout his kit,
 Morgan Ågren (born July 13, 1967) is a Swedish drummer renowned for his extraordinary technical ability and complex polyrhythmic playing. He began drumming as a child and formed the Mats/Morgan Band with keyboardist Mats Öberg in 1981, performing Frank Zappa's music. Ågren has collaborated with Dweezil and Ahmet Zappa, recorded the legendary Sol Niger Within album with Meshuggah's Fredrik Thordendal, and has been a member of progressive rock band Kaipa since 2002. He's also worked with Devin Townsend on Casualties of Cool and Empath. A documentary about him, "Morgan Ågren's Conundrum: A Percussive Misadventure," was released in 2013.
 
 ### Complete Drum Kit Overview
-Morgan Ågren plays a Sonor SQ2 Designer Series drum kit — a custom-configured setup reflecting the exacting standards behind his decades of polyrhythmic, technically demanding playing across the Mats/Morgan Band, Kaipa, and Fredrik Thordendal's Special Defects. The cornerstone of the Morgan Ågren drum set is a Sonor Designer maple snare (14×5.5"), delivering a warm, articulate crack suited to both his jazz-fusion sensibility and the extreme precision required on Sol Niger Within with Meshuggah's Fredrik Thordendal, paired with Remo drumheads for consistent resonance across genres.
+Morgan Ågren plays a Sonor SQ2 Beech drum kit — a custom-configured setup reflecting the exacting standards behind his decades of polyrhythmic, technically demanding playing across the Mats/Morgan Band, Kaipa, and Fredrik Thordendal's Special Defects. The cornerstone of the Morgan Ågren drum set is a Sonor SQ2 Beech maple snare (14×5.5"), delivering a warm, articulate crack suited to both his jazz-fusion sensibility and the extreme precision required on Sol Niger Within with Meshuggah's Fredrik Thordendal, paired with Remo drumheads for consistent resonance across genres.
 
 Paiste cymbals define the Morgan Ågren drum kit: 14" Signature Heavy Hi-Hats for tight control on his rapid polyrhythmic patterns, 18" and 20" Signature Fast Crashes for quick-decay accents, a 22" Signature Dry Heavy Ride for sustained fusion-style ride work, and an 18" 2002 China for textural punctuation. A Sonor Giant Step double pedal and Sonor throne complete the rig, with Vic Firth American Classic 5A sticks giving Ågren the touch needed for both delicate jazz fusion passages and Special Defects' extreme technicality.
 
 The Sonor/Paiste configuration has remained Ågren's foundation across a career spanning the Mats/Morgan Band since 1981, his Kaipa tenure since 2002, and collaborations with Dweezil Zappa and Devin Townsend — a consistency that lets his gear stay a constant while the genres he applies it to, from progressive rock to jazz fusion to progressive metal, shift dramatically album to album.
 
 ### Detailed Overview
-Morgan Ågren (born July 13, 1967, in Umeå, Sweden) is a Swedish drummer and multi-instrumentalist renowned for his extraordinary technical ability and musical versatility. A child prodigy who was performing professionally by age 13, Ågren gained international recognition for his work with Frank Zappa's band in 1988 and later with Devin Townsend Project.
+Morgan Ågren (born July 13, 1967, in Umeå, Sweden) is a Swedish drummer and multi-instrumentalist renowned for his extraordinary technical ability and musical versatility. A child prodigy who was performing professionally by age 13, Ågren gained international recognition after sitting in with Frank Zappa's band for one Stockholm concert in 1988 and later with Devin Townsend Project.
 
 Ågren's drumming combines jazz fusion sophistication with rock power, making him one of the most technically accomplished drummers in progressive music. His work with the Mats/Morgan Band alongside keyboardist Mats Öberg showcases his incredible improvisational abilities and compositional skills.
 
 ### Career Highlights
 - 1981: Formed Mats/Morgan Band with Mats Öberg at age 14
-- 1988: Toured with Frank Zappa's band, hand-picked by Zappa himself
+- 1988: Sat in with Frank Zappa's band for one Stockholm concert, hand-picked by Zappa himself
 - 1991: Released first Mats/Morgan Band album
 - 2002: Joined Swedish progressive band Kaipa
 - 2005: Released solo album "Morgan Ågren's Conundrum"
@@ -4585,8 +4583,8 @@ Morgan Ågren (born July 13, 1967, in Umeå, Sweden) is a Swedish drummer and mu
 - 2019: Continued session work and Mats/Morgan Band activities
 
 ### Current Gear
-- **Drums:** Sonor SQ2 Designer Series
-- **Snare:** Sonor Designer 14x5.5" Maple
+- **Drums:** Sonor SQ2 Beech
+- **Snare:** Sonor SQ2 Beech 14x5.5" Maple
 - **Cymbals:** Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China)
 - **Hardware:** Sonor Giant Step Double Pedal, Sonor Throne
 - **Sticks:** Vic Firth American Classic 5A
@@ -4625,7 +4623,7 @@ Morgan Ågren's drumming style blends jazz fusion complexity with rock intensity
 - Kaipa - Keyholder (2003, Inside Out): Swedish prog
 
 **Notable Tours**
-- Frank Zappa Tour (1988): Touring with Zappa's band
+- Frank Zappa Guest Appearance (1988): One-off guest sit-in with Zappa's band, Stockholm, May 1, 1988
 - Devin Townsend Project Tours (2012-2016): Multiple world tours
 - Mats/Morgan European Tours (1991-present): Ongoing performances
 
@@ -4647,7 +4645,7 @@ Morgan Ågren uses Sonor drums and Paiste cymbals, choosing gear that allows for
 - Customized to each project's needs
 
 ### Trivia & Fun Facts
-- Was personally selected by Frank Zappa to tour with his band in 1988
+- Was personally selected by Frank Zappa to sit in with his band for one Stockholm concert in 1988
 - Started playing professionally at age 13, a genuine prodigy
 - Has collaborated with Mats Öberg for over 40 years in Mats/Morgan Band
 - Devin Townsend specifically sought him out for his complex compositions
@@ -4680,10 +4678,10 @@ A: Morgan Ågren plays a Sonor Giant Step double pedal, seated on a Sonor throne
 A: Morgan Ågren uses Remo drumheads across his Sonor SQ2 kit.
 
 **Q: What band is Morgan Ågren in?**
-A: Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 and has drummed for Devin Townsend Project (2012-2016), Kaipa (2002-2005), and toured with Frank Zappa's band in 1988.
+A: Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 and has drummed for Devin Townsend Project (2012-2016), Kaipa (2002-2005), and sat in with Frank Zappa's band for one Stockholm concert in 1988.
 
 **Q: How did Morgan Ågren start working with Frank Zappa?**
-A: Morgan Ågren was personally selected by Frank Zappa to tour with his band in 1988, a milestone that introduced his virtuosic playing to a global audience alongside his ongoing work co-founding and drumming for the Mats/Morgan Band since 1981.
+A: Morgan Ågren was personally selected by Frank Zappa to sit in with his band for one Stockholm concert in 1988, a milestone that introduced his virtuosic playing to a global audience alongside his ongoing work co-founding and drumming for the Mats/Morgan Band since 1981.
 
 ### Sources
 - [Sonor Drums](https://www.sonor.com)
@@ -5193,7 +5191,7 @@ Chris Turner plays a Tama Starclassic Maple/Birch drum kit, the setup behind Oce
 Meinl Byzance Series cymbals define the Chris Turner drum set's tone: 15" Dual Hi-Hats for nuanced articulation across shifting time signatures, 18" and 20" Extra Dry Medium Crashes for controlled dynamic accents, a 22" Dual Ride for rhythmic clarity through dense arrangements, and an 18" Extra Dry China for sharp punctuation. Vic Firth American Classic 5A sticks and Evans drumheads round out the rig. This gear configuration is verified via Meinl's official artist roster and Turner's own channel.
 
 ### Detailed Overview
-Chris Turner (born October 4, 1993, in Birmingham, United Kingdom) is a British drummer and founding member of progressive metalcore band Oceans Ate Alaska. He has gained widespread recognition as one of the most technically proficient drummers in modern metal, known for his jaw-dropping precision, lightning-fast footwork, and complex polyrhythmic patterns.
+Chris Turner (born February 4, 1992, in Birmingham, United Kingdom) is a British drummer and founding member of progressive metalcore band Oceans Ate Alaska. He has gained widespread recognition as one of the most technically proficient drummers in modern metal, known for his jaw-dropping precision, lightning-fast footwork, and complex polyrhythmic patterns.
 
 Turner's drumming videos have gone viral on social media, showcasing his ability to execute incredibly demanding patterns with apparent ease. His style blends djent rhythms, progressive metal complexity, and metalcore intensity, influencing a new generation of drummers in the heavy music scene.
 
@@ -5504,7 +5502,7 @@ Blake Richardson (born June 29, 1984, in Winston-Salem, North Carolina) is an Am
 Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "The Parallax" series has earned him critical acclaim and a devoted following among drummers. His ability to navigate complex compositions while maintaining musicality and groove has made him an influential figure in modern progressive metal.
 
 ### Career Highlights
-- 2005: Joined Between the Buried and Me, replacing original drummer Will Goodyear
+- 2005: Joined Between the Buried and Me, replacing Jason Roe
 - 2006: Recorded "Alaska," first album with BTBAM
 - 2007: Released "Colors," considered one of the greatest progressive metal albums
 - 2009: Released "The Great Misdirect," featuring "Swim to the Moon"
@@ -5654,9 +5652,9 @@ A: Richardson powers his independent double-kick patterns with twin Tama Iron Co
 Ben Koller (born July 29, 1980) is an American drummer known for his work with Converge, Mutoid Man, Killer Be Killed, and All Pigs Must Die. Joining Converge in late 1999, Koller has been central to the band's legendary status, playing on landmark albums like "Jane Doe," "You Fail Me," and "The Dusk in Us." His drumming style combines blistering speed with creative dynamics, drawing from hardcore punk, grindcore, and experimental rock. Beyond Converge, he co-founded the heavy rock band Mutoid Man with Stephen Brodsky of Cave In, and joined the supergroup Killer Be Killed alongside members of Mastodon, The Dillinger Escape Plan, and Soulfly. Koller's versatility and intensity have made him one of the most respected drummers in extreme music.
 
 ### Complete Drum Kit Overview
-Ben Koller plays a Tama Starclassic Maple drum kit — the streamlined, hard-hitting configuration that powers Converge's unrelenting sonic brutality across two decades of hardcore and metalcore recordings. The Ben Koller drum set favors a raw, open approach: a Tama S.L.P. 14×6" Brass snare delivers the sharp, cutting crack that slices through Converge's dense guitar assault on Jane Doe, You Fail Me, and The Dusk in Us. A Tama Iron Cobra 900 double pedal anchors the kit — built for the sustained, blistering tempo Koller maintains through Converge's most demanding live sets.
+Ben Koller plays a Tama Starclassic Performer B/B drum kit — the streamlined, hard-hitting configuration that powers Converge's unrelenting sonic brutality across two decades of hardcore and metalcore recordings. The Ben Koller drum set favors a raw, open approach: a Tama S.L.P. 14×6" Brass snare delivers the sharp, cutting crack that slices through Converge's dense guitar assault on Jane Doe, You Fail Me, and The Dusk in Us. A Tama Iron Cobra Double Pedal anchors the kit — built for the sustained, blistering tempo Koller maintains through Converge's most demanding live sets.
 
-Zildjian K Dark Series cymbals define the Ben Koller drum sound: 14" K Dark Thin Hi-Hats for a dry, trashy chick that sits low in the mix; 18" and 19" K Dark Medium Thin Crashes for explosive, rapid-decay accents; a 21" K Custom Ride for controlled rhythmic definition; and an 18" K China for brutal, cutting punctuation. Vic Firth American Classic 5B sticks and Remo drumheads complete the rig. Koller's approach prioritizes power and dynamics over trigger-augmented precision — his kit is built for the organic, visceral impact that has defined Converge's sound since 1999.
+Zildjian K Custom & A Custom Series cymbals define the Ben Koller drum sound: 14" K Custom Thin Hi-Hats for a dry, trashy chick that sits low in the mix; 18" and 19" K Custom Medium Thin Crashes for explosive, rapid-decay accents; a 21" K Custom Ride for controlled rhythmic definition; and an 18" K China for brutal, cutting punctuation. Vic Firth American Classic 5B sticks and Remo drumheads complete the rig. Koller's approach prioritizes power and dynamics over trigger-augmented precision — his kit is built for the organic, visceral impact that has defined Converge's sound since 1999.
 
 ### Detailed Overview
 Ben Koller (born July 29, 1980) is an American drummer best known for his work with influential metalcore/hardcore band Converge since 1999. He is widely regarded as one of the most important drummers in heavy music, having helped define the sound of modern metalcore and hardcore through his work on landmark albums like "Jane Doe."
@@ -5677,10 +5675,10 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
 - 2024: Continued touring and recording with multiple projects
 
 ### Current Gear
-- **Drums:** Tama Starclassic Maple
+- **Drums:** Tama Starclassic Performer B/B
 - **Snare:** Tama S.L.P. 14x6" Brass
-- **Cymbals:** Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)
-- **Hardware:** Tama Iron Cobra 900 Double Pedal, Tama Throne
+- **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Hardware:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Remo
 
@@ -5729,9 +5727,9 @@ Ben Koller's drumming style is characterized by relentless intensity, creative c
 Ben Koller uses Tama Drums and Zildjian Cymbals, favoring a stripped-down setup that emphasizes power and response over complexity.
 
 **Current Setup:**
-- **Drums**: Tama Starclassic Maple
+- **Drums**: Tama Starclassic Performer B/B
 - **Snare**: Tama S.L.P. 14"x6" Brass
-- **Cymbals**: Zildjian K Dark Series (14" Thin Hi-Hats, 18" & 19" Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Cymbals**: Zildjian K Custom & A Custom Series (14" Thin Hi-Hats, 18" & 19" Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Hardware**: Tama Iron Cobra double pedal
 - **Sticks**: Vic Firth or Promark 5B
 - **Heads**: Remo
@@ -5763,22 +5761,22 @@ A: Ben Koller also plays in Mutoid Man, All Pigs Must Die, and has recorded with
 A: Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorado.
 
 **Q: What drum kit does Ben Koller use?**
-A: Ben Koller plays a Tama Starclassic Maple drum kit, the streamlined, hard-hitting configuration that powers Converge's sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."
+A: Ben Koller plays a Tama Starclassic Performer B/B drum kit, the streamlined, hard-hitting configuration that powers Converge's sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."
 
 **Q: What drum set does Ben Koller use?**
-A: Ben Koller's drum set pairs his Tama Starclassic Maple shells and S.L.P. 14"x6" Brass snare with a Tama Iron Cobra 900 double pedal, the stripped-down, hard-hitting configuration that powers Converge's sonic brutality.
+A: Ben Koller's drum set pairs his Tama Starclassic Performer B/B shells and S.L.P. 14"x6" Brass snare with a Tama Iron Cobra double pedal, the stripped-down, hard-hitting configuration that powers Converge's sonic brutality.
 
 **Q: What snare does Ben Koller use?**
 A: Koller's snare is a Tama S.L.P. 14"x6" Brass, delivering the sharp, cutting crack that slices through Converge's dense guitar assault.
 
 **Q: What cymbals does Ben Koller play?**
-A: Ben Koller plays Zildjian K Dark Series cymbals: 14" K Dark Thin Hi-Hats, 18" and 19" K Dark Medium Thin Crashes, a 21" K Custom Ride, and an 18" K China.
+A: Ben Koller plays Zildjian K Custom & A Custom Series cymbals: 14" K Custom Thin Hi-Hats, 18" and 19" K Custom Medium Thin Crashes, a 21" K Custom Ride, and an 18" K China.
 
 **Q: What sticks does Ben Koller use?**
 A: Ben Koller plays Vic Firth American Classic 5B sticks, paired with Remo drumheads.
 
 **Q: What bass drum pedal does Ben Koller use?**
-A: Koller drives Converge's blistering tempos with a Tama Iron Cobra 900 double pedal.
+A: Koller drives Converge's blistering tempos with a Tama Iron Cobra double pedal.
 
 ### Sources
 - [Complete Drum Setup Guide](https://metalforge.io/articles/ben-koller-drum-setup)
@@ -5972,7 +5970,7 @@ Jason Bittner (born January 11, 1970) is an American drummer best known for his 
 ### Complete Drum Kit Overview
 Jason Bittner's drum kit is a Mapex Saturn V build — the all-maple shell pack he has used since joining Overkill in 2017, after building his reputation on the same platform across more than a decade with Shadows Fall, including the band's Grammy-nominated breakthrough The War Within (2004). The Jason Bittner drum set centers on his Mapex Black Panther 14x6.5" Brass snare, delivering the steel-edged crack that cuts through both NWOAHM's layered metalcore arrangements and Overkill's dense thrash riffing on records like The Art of Balance (2002).
 
-Zildjian K & A Custom Series cymbals complete the Jason Bittner drum kit: 14" K Hi-Hats for tight, controlled articulation; 18" and 19" A Custom Crashes for fast, explosive accents; a 21" K Custom Ride for dark rhythmic clarity; and an 18" K China for aggressive punctuation. A Mapex Falcon double pedal and Mapex T865 throne anchor the hardware, powering the sustained double-kick passages that define his dual NWOAHM/thrash vocabulary. Promark Jason Bittner Signature 5BX sticks and Evans heads complete a drum set built for two of metal's most demanding rhythmic traditions. For the full breakdown, see [Bittner's complete drum setup](/articles/jason-bittner-drum-setup), [his gear on The War Within](/articles/the-war-within-drum-setup), and the [cymbal setup](/drummer/jason-bittner/cymbals).
+Zildjian K & A Custom Series cymbals complete the Jason Bittner drum kit: 14" K Hi-Hats for tight, controlled articulation; 18" and 19" A Custom Crashes for fast, explosive accents; a 21" K Custom Ride for dark rhythmic clarity; and an 18" K China for aggressive punctuation. A Mapex Falcon double pedal anchors the hardware, powering the sustained double-kick passages that define his dual NWOAHM/thrash vocabulary. Promark Jason Bittner Signature 5BX sticks and Evans heads complete a drum set built for two of metal's most demanding rhythmic traditions. For the full breakdown, see [Bittner's complete drum setup](/articles/jason-bittner-drum-setup), [his gear on The War Within](/articles/the-war-within-drum-setup), and the [cymbal setup](/drummer/jason-bittner/cymbals).
 
 ### Detailed Overview
 Jason Bittner (born January 11, 1970, in Niskayuna, New York) is an American drummer best known for his work with thrash metal legends Overkill and metalcore pioneers Shadows Fall. His powerful, versatile drumming has made him one of the most respected drummers in the American heavy metal scene.
@@ -5980,7 +5978,7 @@ Jason Bittner (born January 11, 1970, in Niskayuna, New York) is an American dru
 Bittner rose to prominence with Shadows Fall during the early 2000s metalcore explosion, contributing to Grammy-nominated albums. Following Shadows Fall's hiatus, he joined Flotsam and Jetsam before becoming Overkill's drummer in 2017, continuing the legacy of one of thrash metal's most enduring bands.
 
 ### Career Highlights
-- 1999: Joined Shadows Fall, New England metalcore band
+- 2001: Joined Shadows Fall, New England metalcore band
 - 2002: Released "The Art of Balance" with Shadows Fall, commercial breakthrough
 - 2004: Released "The War Within," Grammy-nominated album
 - 2005: Headlined Ozzfest with Shadows Fall
@@ -5996,7 +5994,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
 - **Drums:** Mapex Saturn V
 - **Snare:** Mapex Black Panther 14x6.5" Brass
 - **Cymbals:** Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China)
-- **Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
+- **Hardware:** Mapex Falcon Double Pedal
 - **Sticks:** Promark Jason Bittner Signature 5BX
 - **Heads:** Evans
 
@@ -6069,7 +6067,7 @@ Jason Bittner is a long-time Mapex Drums endorser, using their drums for both Sh
 - Has been a drum educator and clinician throughout his career
 - Seamlessly transitioned from metalcore to classic thrash with Overkill
 - Overkill has cited his work ethic and professionalism as reasons for hiring him
-- Connecticut native who has represented New England metal for decades
+- New York native who has represented New England metal for decades
 - Continues to be active with educational content and clinics
 - His powerful style has adapted well to Overkill's classic thrash sound
 
@@ -6090,13 +6088,13 @@ A: Jason Bittner's snare is a Mapex Black Panther 14"x6.5" Brass, delivering the
 A: Jason Bittner plays his own signature Promark Jason Bittner Signature 5BX drumsticks.
 
 **Q: What bass drum pedal does Jason Bittner use?**
-A: Jason Bittner drives his sustained double-kick passages with a Mapex Falcon double pedal, seated on a Mapex T865 throne.
+A: Jason Bittner drives his sustained double-kick passages with a Mapex Falcon double pedal.
 
 **Q: What drumheads does Jason Bittner use?**
 A: Jason Bittner uses Evans drumheads across his Mapex Saturn V kit.
 
 **Q: What band is Jason Bittner in?**
-A: Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (1999-2015) and Flotsam and Jetsam (2013-2017).
+A: Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (2001-2015) and Flotsam and Jetsam (2013-2017).
 
 **Q: What hi-hats does Jason Bittner use?**
 A: Jason Bittner plays 14" Zildjian K Hi-Hats, part of the K and A Custom cymbal setup he has used across Shadows Fall's The War Within and his ongoing tenure with Overkill.
@@ -6449,7 +6447,7 @@ Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, the w
 Sabian's HHX and AAX lines shape the kit's cymbal voice: 14" HHX Evolution Hi-Hats for tight, articulate timekeeping through Townsend's odd-meter passages; 18" and 20" HHX Evolution Crashes for dynamic accents; a 21" HHX Raw Bell Dry Ride for dry, controlled ride work; and a 19" AAXtreme China for aggressive punctuation on the heavier sections. A Pearl Demon Drive double pedal supplies the thunderous double bass that anchors Townsend's crushing riffs, while a Pearl D-3000 throne provides the stability needed across marathon live sets. Vic Firth American Classic 5B sticks and Evans heads round out a versatile rig capable of moving between ambient restraint and full metal power within a single song.
 
 ### Detailed Overview
-Ryan Van Poederooyen is a Canadian drummer who has been the primary drummer for Devin Townsend and his various projects since 2002, when Townsend recruited him on the recommendation of longtime collaborator Gene Hoglan. His 20+ year collaboration with Townsend makes him one of the most consistent drummer-artist partnerships in progressive metal history.
+Ryan Van Poederooyen is a Canadian drummer who was the primary drummer for Devin Townsend and his various projects from 2002 to 2018, when Townsend recruited him on the recommendation of longtime collaborator Gene Hoglan. His 16-year collaboration with Townsend made him one of the most consistent drummer-artist partnerships in progressive metal history.
 
 Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolving musical vision, from the crushing heaviness of "Accelerated Evolution" and "Deconstruction" to the ambient soundscapes of "Ghost" and "Casualties of Cool." His ability to serve Townsend's diverse musical styles while maintaining powerful, precise drumming has made him an integral part of the Devin Townsend sound.
 
@@ -6461,9 +6459,8 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
 - 2011: Recorded "Deconstruction," one of heaviest Townsend albums
 - 2012: Recorded "Epicloud," accessible yet powerful album
 - 2014: Recorded "Z²: Dark Matters / Sky Blue" double album
-- 2019: Recorded "Empath," ambitious and diverse album
-- 2022: Recorded "Lightwork" with Devin Townsend
-- 2023: Continued touring with Devin Townsend worldwide
+- 2016: Recorded "Transcendence," final Devin Townsend Project album
+- 2018: Devin Townsend Project entered an indefinite hiatus
 
 ### Current Gear
 - **Drums:** Pearl Reference Series
@@ -6510,14 +6507,11 @@ Ryan Van Poederooyen's drumming style is characterized by power, precision, and 
 - Devin Townsend Project - Ki (2009, HevyDevy): DTP launch
 - Devin Townsend Project - Deconstruction (2011, HevyDevy): Extreme metal opus
 - Devin Townsend Project - Epicloud (2012, HevyDevy): Accessible power
-- Devin Townsend - Transcendence (2016, HevyDevy): Collaborative writing
-- Devin Townsend - Empath (2019, HevyDevy): Genre-spanning epic
-- Devin Townsend - Lightwork (2022, InsideOut): Most recent studio album
+- Devin Townsend - Transcendence (2016, HevyDevy): Final Devin Townsend Project album before the 2018 hiatus
 
 **Notable Tours**
-- Devin Townsend World Tours (2002-Present): Extensive global touring
+- Devin Townsend World Tours (2002-2018): Extensive global touring
 - Retinal Circus (2012): London spectacular concert
-- Empath Tour (2019-2020): Pre-pandemic touring
 
 ### Gear Highlights
 Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, adapted to suit Townsend's diverse musical requirements.
@@ -6537,8 +6531,8 @@ Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, adapt
 - Emphasizes power and clarity across diverse musical styles
 
 ### Trivia & Fun Facts
-- One of the longest-running collaborations in progressive metal (20+ years)
-- Has played on nearly every Devin Townsend solo and band album since joining in 2002
+- One of the longest-running collaborations in progressive metal (16 years, 2002–2018)
+- Played on nearly every Devin Townsend solo and band album between joining in 2002 and the Devin Townsend Project's 2018 hiatus
 - Gene Hoglan (Strapping Young Lad) was Townsend's previous drummer, setting a high bar
 - "Deconstruction" is considered one of the most demanding drum performances in prog metal
 - Known for his professionalism and consistency
@@ -6549,7 +6543,7 @@ Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, adapt
 
 ### Frequently Asked Questions
 **Q: What drum kit does Ryan Van Poederooyen use?**
-A: Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend's primary drummer across two decades of genre-hopping albums, from ambient soundscapes to full-throttle metal assaults.
+A: Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend's primary drummer (2002–2018) across genre-hopping albums, from ambient soundscapes to full-throttle metal assaults.
 
 **Q: What drum set does Ryan Van Poederooyen use?**
 A: Ryan Van Poederooyen's drum set is a Pearl Reference Series shell pack, used across records like Accelerated Evolution, Synchestra, and Transcendence; the specific snare model has not been independently verified.
@@ -6570,10 +6564,10 @@ A: Ryan Van Poederooyen drives Townsend's crushing riffs with a Pearl Demon Driv
 A: Ryan Van Poederooyen uses Evans drumheads across his Pearl Reference kit.
 
 **Q: What band is Ryan Van Poederooyen in?**
-A: Ryan Van Poederooyen has been Devin Townsend's primary drummer since 2002, including the Devin Townsend Project era from 2009 to 2018.
+A: Ryan Van Poederooyen was Devin Townsend's primary drummer from 2002 to 2018, including the Devin Townsend Project era from 2009 to 2018.
 
 **Q: How long has Ryan Van Poederooyen played with Devin Townsend?**
-A: Ryan Van Poederooyen has been Devin Townsend's primary drummer for more than two decades, appearing on nearly every solo and band album since joining in 2002 — including "Accelerated Evolution" (2003), "Deconstruction" (2011), and "Lightwork" (2022) — after being recommended to Townsend by Gene Hoglan, Townsend's previous drummer in Strapping Young Lad.
+A: Ryan Van Poederooyen was Devin Townsend's primary drummer from 2002 to 2018, appearing on nearly every solo and band album in that span — including "Accelerated Evolution" (2003), "Deconstruction" (2011), and "Transcendence" (2016) — after being recommended to Townsend by Gene Hoglan, Townsend's previous drummer in Strapping Young Lad.
 
 ### Sources
 - [Devin Townsend Official](https://www.hevydevy.com)
@@ -7412,15 +7406,15 @@ A: Dirk Verbeuren plays a 22"x18" bass drum as part of his Tama Starclassic drum
 
 ### Band History
 - Satyricon: 1993–present (current)
-- 1349: 1997–present (current)
+- 1349: 2001–present (current)
 
 ### Biography
-Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and 1349 since 2001. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.
+Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and joined 1349 around 2000, becoming a full member by 2003. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.
 
 ### Complete Drum Kit Overview
-Frost plays a Tama Starclassic Bubinga drum kit in Piano Black finish — a dense-shell platform selected for its focused, articulate attack at the extreme blast beat tempos that define Satyricon's Nordic black metal sound. As Satyricon's drummer since 1993 and a founding member of 1349 since 2001, Frost has built one of black metal's most distinctive drum sets around a Tama Starclassic Bubinga 14x5.5" snare that delivers the dry, cutting crack heard on albums like Nemesis Divina, Volcano, and Now, Diabolical.
+Frost plays a Tama Starclassic Bubinga drum kit in Piano Black finish — a dense-shell platform selected for its focused, articulate attack at the extreme blast beat tempos that define Satyricon's Nordic black metal sound. As Satyricon's drummer since 1993 and a member of 1349 since joining around 2000, Frost has built one of black metal's most distinctive drum sets around a Tama Starclassic Bubinga 14x5.5" snare that delivers the dry, cutting crack heard on albums like Nemesis Divina, Volcano, and Now, Diabolical.
 
-Zildjian A Custom and K Series cymbals define the tonal character of the Frost drum kit: 14" A Custom Hi-Hats for fast, controlled hi-hat articulation during relentless blast beat passages; 16", 17", and 18" A Custom Crashes for explosive accents; a 22" K Custom Dark Ride for dark rhythmic definition; and an 18" K China for brutal black metal punctuation. Tama Iron Cobra Power Glide and Lever Glide hardware drives Frost's precise, powerful kick and hi-hat work. Vic Firth American Classic Extreme 5B sticks and Remo drumheads complete the Frost drum set — a configuration built for the sustained physical demands of Satyricon and 1349's uncompromising live performances.
+Zildjian A Series cymbals define the tonal character of the Frost drum kit: 14" A Custom Hi-Hats for fast, controlled hi-hat articulation during relentless blast beat passages; 16", 17", and 18" A Custom Crashes for explosive accents; a 22" A Custom Ride for dark rhythmic definition; and an 18" A China for brutal black metal punctuation. Tama Iron Cobra Power Glide and Lever Glide hardware drives Frost's precise, powerful kick and hi-hat work. Vic Firth American Classic Extreme 5B sticks and Remo drumheads complete the Frost drum set — a configuration built for the sustained physical demands of Satyricon and 1349's uncompromising live performances.
 
 ### Detailed Overview
 Kjetil-Vidar Haraldstad (born June 28, 1973, in Øyer, Norway), known professionally as Frost, is a Norwegian drummer and one of the most iconic figures in Scandinavian black metal. He is the longtime drummer for Satyricon since 1993 and 1349 since the band's formation in 2001.
@@ -7443,7 +7437,7 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
 ### Current Gear
 - **Drums:** Tama Starclassic Bubinga
 - **Snare:** Tama Starclassic Bubinga 14x5.5"
-- **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)
+- **Cymbals:** Zildjian A Series
 - **Hardware:** Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand
 - **Sticks:** Vic Firth American Classic Extreme 5B
 - **Heads:** Remo
@@ -7655,7 +7649,7 @@ Gavin Harrison's drumming style is defined by sophisticated polyrhythmic concept
 
 **Notable Tours**
 - Porcupine Tree World Tours (2002-2010): Extensive touring
-- King Crimson Tours (2014-2021): Part of three-drummer lineup
+- King Crimson Three-Drummer-Lineup Tours (2014-2021): Touring era with the three-drummer "05Ric" lineup, within his ongoing 2008-present King Crimson tenure
 - The Pineapple Thief Tours (2016-Present): Ongoing touring
 - Porcupine Tree Reunion Tour (2022-2023): Highly anticipated return
 
@@ -7912,13 +7906,13 @@ Sabian AA/AAX Series cymbals define the voice of the Richard Christy drum kit: 1
 Vic Firth American Classic 5A sticks and Evans drumheads round out the Richard Christy drum set — a comparatively lightweight, classic-diameter stick choice that favors the finesse and articulation his technical style demands. Christy's Pearl and Sabian setup has remained the backbone of his studio and live sound since his earliest recordings with Chuck Schuldiner.
 
 ### Detailed Overview
-Richard Christy (born April 1, 1974, in Fort Scott, Kansas) is an American drummer, comedian, and radio personality. In the metal world, he is renowned for his work with Death (1996-2001), Chuck Schuldiner's Control Denied, and Iced Earth (2003-2007). He is considered one of the most technically proficient death metal drummers of his generation.
+Richard Christy (born April 1, 1974, in Fort Scott, Kansas) is an American drummer, comedian, and radio personality. In the metal world, he is renowned for his work with Death (1997-2001), Chuck Schuldiner's Control Denied, and Iced Earth (2003-2007). He is considered one of the most technically proficient death metal drummers of his generation.
 
 Christy's drumming on Death's final two albums—"The Sound of Perseverance" and the posthumously released Control Denied's "The Fragile Art of Existence"—showcased his incredible speed, precision, and musicality. He later transitioned to entertainment, becoming a prominent member of The Howard Stern Show, but his legacy in metal drumming remains influential.
 
 ### Career Highlights
 - 1993: Moved to Florida to pursue career in death metal drumming
-- 1996: Joined Death and Control Denied, handpicked by Chuck Schuldiner
+- 1997: Joined Death and Control Denied, handpicked by Chuck Schuldiner
 - 1998: Recorded "The Sound of Perseverance" with Death—final Death studio album
 - 1999: Recorded "The Fragile Art of Existence" with Control Denied
 - 2001: Death disbanded following Chuck Schuldiner's passing
@@ -7976,7 +7970,7 @@ Richard Christy's drumming style is characterized by exceptional speed, technica
 - Leash Law - Dogface (2003, Metal Blade): Side project
 
 **Notable Tours**
-- Death Tours (1996-2001): Final era of Death touring
+- Death Tours (1997-2001): Final era of Death touring
 - Iced Earth World Tours (2003-2007): Global touring
 - Death To All Tours (2012-2013): Chuck Schuldiner tribute
 
@@ -8030,7 +8024,7 @@ A: Richard Christy uses an Axis A Longboard double pedal.
 A: Richard Christy uses Evans drumheads.
 
 **Q: What band is Richard Christy in?**
-A: Richard Christy recorded with Death from 1996-2001, played with Iced Earth from 2003-2007, and has drummed for his own band, Charred Walls of the Damned, since 2009.
+A: Richard Christy recorded with Death from 1997-2001, played with Iced Earth from 2003-2007, and has drummed for his own band, Charred Walls of the Damned, since 2009.
 
 **Q: What hi-hats does Richard Christy use?**
 A: Richard Christy plays 14" Sabian AAX Stage Hi-Hats, part of the AA/AAX cymbal setup he used on Death's The Sound of Perseverance and with Iced Earth.
@@ -8072,7 +8066,7 @@ A Paiste custom red-coated cymbal set, including an 18" Psychoctopus Giga Bell R
 His ProMark Aquiles Priester Signature sticks, paired with Remo coated Ambassador / Powerstroke 3 heads, complete the Aquiles Priester drum set — a setup that has carried him through his work with Angra, W.A.S.P., and his own project, Hangar.
 
 ### Detailed Overview
-Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2001-2008, returning 2023), American heavy metal band W.A.S.P. (2017-present), and his own band Hangar.
+Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian drummer renowned for his incredible speed, technical precision, and showmanship. He is best known for his work with Brazilian power metal legends Angra (2001-2008), American heavy metal band W.A.S.P. (2017-present), and his own band Hangar.
 
 Priester is considered one of the greatest power metal drummers in the world. His double bass abilities, complex fills, and capacity to maintain blazing speeds for extended periods have earned him numerous awards from Brazilian and international music publications. His energetic live performances and precise studio work have influenced a generation of metal drummers.
 
@@ -8084,7 +8078,7 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
 - 2006: Released "Aurora Consurgens" with Angra
 - 2008: Left Angra; continued with Hangar
 - 2017: Joined W.A.S.P. as touring drummer
-- 2023: Returned to Angra for their latest album cycle
+- 2023: Launched the Mapex Saturn Evolution signature kit
 
 ### Current Gear
 - **Drums:** Mapex Saturn Evolution All Maple (signature kit)
@@ -8156,8 +8150,8 @@ Aquiles Priester plays a Mapex Saturn Evolution signature kit paired with his ow
 - "Temple of Shadows" is considered one of the greatest power metal albums ever
 - Known for his warm personality and fan interaction
 - Has released instructional DVDs and online lessons
-- Balances work with multiple bands simultaneously (W.A.S.P., Hangar, Angra)
-- His return to Angra in 2023 was celebrated by the power metal community
+- Balances work with multiple bands simultaneously (W.A.S.P., Hangar)
+- The Mapex Saturn Evolution was the first Brazilian-drummer signature kit released by a global drum brand
 - Often cited as the greatest Brazilian metal drummer
 - Has been praised by Blackie Lawless (W.A.S.P.) for his professionalism
 - Maintains an extensive practice regimen to keep up with demanding schedules
@@ -8182,7 +8176,7 @@ A: Aquiles Priester plays the snare from his Mapex Saturn Evolution All Maple si
 A: Aquiles Priester uses a DW 9000 Series double bass drum pedal, mounted alongside a DW 9000 Series hi-hat stand and Gibraltar racks, delivering the sustained, high-speed double-bass patterns his playing is known for.
 
 **Q: What band is Aquiles Priester in?**
-A: Aquiles Priester is best known for his work with Angra (2001-2008, 2023-present) and W.A.S.P. (2017-present), along with his own project Hangar.
+A: Aquiles Priester is best known for his work with Angra (2001-2008) and W.A.S.P. (2017-present), along with his own project Hangar.
 
 **Q: What drumsticks does Aquiles Priester use?**
 A: Aquiles Priester uses his own ProMark Aquiles Priester Signature drumsticks.
@@ -8636,7 +8630,7 @@ Matt Garstka is endorsed by Meinl Cymbals and DW Drums, having switched from Pea
 
 ### Frequently Asked Questions
 **Q: What drum kit does Matt Garstka use?**
-A: Matt Garstka's drum kit is a DW Collector's Series custom shop build, mixing Collector's Series wood species and shell configurations, which he switched to in September 2021 after playing Tama for his first two Animals as Leaders albums. It's anchored by a DW Collector's Series Purpleheart snare, cutting through dense odd-meter passages.
+A: Matt Garstka's drum kit is a DW Collector's Series custom shop build, mixing Collector's Series wood species and shell configurations, which he switched to in September 2021 after playing Pearl for his first two Animals as Leaders albums. It's anchored by a DW Collector's Series Purpleheart snare, cutting through dense odd-meter passages.
 
 **Q: What drum set does Matt Garstka use?**
 A: Matt Garstka's drum set centers on a DW Collector's Series custom shop kit and DW Collector's Series Purpleheart snare, driven by a Tama Speed Cobra 910 double pedal for the intricate, ghost-note-laced double bass patterns central to his linear independence. Meinl Byzance cymbals and Vic Firth signature sticks round out the setup.
@@ -8688,7 +8682,6 @@ A: Matt Garstka uses 15" Meinl Byzance Dual Hi-Hats for nuanced, washy articulat
 
 ### Band History
 - Arch Enemy: 1998–present (current)
-- Brujeria: 2000–present (current)
 
 ### Biography
 Daniel Erlandsson (born May 22, 1976) is a Swedish drummer and founding member of melodic death metal band Arch Enemy, formed in 1995. His drumming combines Scandinavian death metal intensity with technical precision and musicality. He has also played with Eucharist, Carcass (live), and In Flames.
@@ -8698,16 +8691,16 @@ Daniel Erlandsson plays a Pearl Reference Pure drum kit — a versatile hybrid s
 
 Sabian's AAX / HHX Series cymbals shape the Daniel Erlandsson drum kit, built to punch through Arch Enemy's dense, dual-guitar attack. A Pearl Eliminator Double Bass Pedal drives his rapid, precise double-bass patterns, giving Erlandsson the speed and control heard across decades of Arch Enemy recordings and tours.
 
-ProMark 5B sticks and Remo heads round out the rig, favored for durability under his hard-hitting, high-tempo playing. The Daniel Erlandsson drum set has remained tied to this Pearl/Sabian configuration throughout his work with Arch Enemy and his side project Brujeria, alongside earlier stints with Eucharist and live work with Carcass and In Flames.
+ProMark 5B sticks and Remo heads round out the rig, favored for durability under his hard-hitting, high-tempo playing. The Daniel Erlandsson drum set has remained tied to this Pearl/Sabian configuration throughout his work with Arch Enemy, alongside earlier stints with Eucharist and live work with Carcass and In Flames.
 
 ### Detailed Overview
-Daniel Erlandsson (born May 22, 1976, in Malmö, Sweden) is a Swedish drummer and founding member of melodic death metal band Arch Enemy, formed in 1995 by his brother Michael Erlandsson (later replaced by Christopher Amott) and guitarist Michael Amott. His drumming combines Scandinavian death metal intensity with technical precision and musicality, helping define the melodic death metal genre.
+Daniel Erlandsson (born May 22, 1976, in Malmö, Sweden) is a Swedish drummer and founding member of melodic death metal band Arch Enemy, formed in 1995 by Michael Amott and Daniel Erlandsson. His drumming combines Scandinavian death metal intensity with technical precision and musicality, helping define the melodic death metal genre.
 
-Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the Gothenburg melodic death metal sound. His career spans over three decades, during which he has performed on every Arch Enemy album and established himself as one of the most consistent drummers in extreme metal. His ability to blend blast beats with groove and dynamics has made Arch Enemy accessible while maintaining their metal credibility.
+Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the Gothenburg melodic death metal sound. His career spans over three decades, during which he has recorded nearly every Arch Enemy album—stepping aside only for Stigmata (1998), recorded by Peter Wildoer during a documented absence—and established himself as one of the most consistent drummers in extreme metal. His ability to blend blast beats with groove and dynamics has made Arch Enemy accessible while maintaining their metal credibility.
 
 ### Career Highlights
 - 1989: Joined Eucharist, pioneering Gothenburg melodic death metal
-- 1995: Helped found Arch Enemy with brother Michael and guitarist Michael Amott
+- 1995: Helped found Arch Enemy with guitarist Michael Amott
 - 1996: Released Arch Enemy debut "Black Earth"
 - 1998: Released "Stigmata," establishing Arch Enemy's signature sound
 - 2001: Angela Gossow joined as vocalist; band gained international attention
@@ -8775,7 +8768,7 @@ Daniel Erlandsson is a Pearl Drums artist, using their high-end series for both 
 - **Drums**: Pearl Reference Pure (custom black finish)
 - **Snare**: Pearl Daniel Erlandsson Signature 14"x5.5"
 - **Cymbals**: Sabian AAX/HHX Series (14" HHX Hi-Hats, 18"/19" AAX Crashes, 22" AAX Power Ride)
-- **Hardware**: Pearl Demon Drive double pedal
+- **Hardware**: Pearl Eliminator Double Bass Pedal
 - **Sticks**: ProMark 5B
 - **Heads**: Remo
 
@@ -8787,8 +8780,8 @@ Daniel Erlandsson is a Pearl Drums artist, using their high-end series for both 
 - Classic rock-solid metal configuration
 
 ### Trivia & Fun Facts
-- Co-founded Arch Enemy with his brother Michael (original rhythm guitarist)
-- Has performed on every Arch Enemy studio album since 1996
+- Co-founded Arch Enemy in 1995 with guitarist Michael Amott
+- Has recorded nearly every Arch Enemy studio album since 1996, with Stigmata (1998) recorded by Peter Wildoer during his absence
 - Was part of Eucharist, one of the earliest Gothenburg melodic death metal bands
 - Toured with Carcass as live drummer during their reunion period
 - Known for his professional, workmanlike approach to touring
@@ -8799,34 +8792,34 @@ Daniel Erlandsson is a Pearl Drums artist, using their high-end series for both 
 
 ### Frequently Asked Questions
 **Q: What drum kit does Daniel Erlandsson use?**
-A: Daniel Erlandsson's drum kit is a Pearl Reference Pure kit, a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy. It centers on his Pearl Daniel Erlandsson Signature 14"x5.5" snare and is topped with Paiste RUDE and 2002 Series cymbals, driven by a Pearl Demon Drive double pedal.
+A: Daniel Erlandsson's drum kit is a Pearl Reference Pure kit, a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy. It centers on his Pearl Daniel Erlandsson Signature 14"x5.5" snare and is topped with Sabian AAX/HHX Series cymbals, driven by a Pearl Eliminator Double Bass Pedal.
 
 **Q: What drum set does Daniel Erlandsson use?**
-A: Daniel Erlandsson's drum set is a Pearl Reference Pure configuration built around his signature Pearl Daniel Erlandsson 14"x5.5" thin-shell snare for a fast, cracking response. The drum set carries Paiste RUDE and 2002 Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks.
+A: Daniel Erlandsson's drum set is a Pearl Reference Pure configuration built around his signature Pearl Daniel Erlandsson 14"x5.5" thin-shell snare for a fast, cracking response. The drum set carries Sabian AAX/HHX Series cymbals, a Pearl Eliminator Double Bass Pedal, and ProMark 5B sticks.
 
 **Q: What cymbals does Daniel Erlandsson use?**
-A: Daniel Erlandsson uses Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats for aggressive, cutting chick sounds, 18" and 19" RUDE Crashes for explosive accents, and a 22" RUDE Power Ride built to punch through Arch Enemy's dense, dual-guitar attack.
+A: Daniel Erlandsson uses Sabian AAX/HHX Series cymbals: 14" HHX Hi-Hats for aggressive, cutting chick sounds, 18" and 19" AAX Crashes for explosive accents, and a 22" AAX Power Ride built to punch through Arch Enemy's dense, dual-guitar attack.
 
 **Q: What hi-hats does Daniel Erlandsson use?**
-A: Daniel Erlandsson plays 14" Paiste RUDE Hi-Hats, delivering the aggressive, cutting chick sound that drives Arch Enemy's melodic death metal rhythms.
+A: Daniel Erlandsson plays 14" Sabian HHX Hi-Hats, delivering the aggressive, cutting chick sound that drives Arch Enemy's melodic death metal rhythms.
 
 **Q: What snare drum does Daniel Erlandsson play?**
 A: Daniel Erlandsson plays his signature Pearl Daniel Erlandsson 14"x5.5" snare, a thinner-shell signature model delivering a fast, cracking response suited to his blend of Scandinavian death metal intensity and technical precision.
 
 **Q: What bass drum pedals does Daniel Erlandsson use?**
-A: Daniel Erlandsson uses a Pearl Demon Drive double bass drum pedal, driving his rapid, precise double-bass patterns across decades of Arch Enemy recordings and tours.
+A: Daniel Erlandsson uses a Pearl Eliminator Double Bass Pedal, driving his rapid, precise double-bass patterns across decades of Arch Enemy recordings and tours.
 
 **Q: What band is Daniel Erlandsson in?**
 A: Daniel Erlandsson is a founding member and drummer of melodic death metal band Arch Enemy, formed in 1995. He previously played with Gothenburg pioneers Eucharist, briefly with In Flames in 1997, and as a live drummer for Carcass in 2007-2008.
 
 **Q: What drumsticks does Daniel Erlandsson use?**
-A: Daniel Erlandsson uses Vic Firth American Classic 5B drumsticks.
+A: Daniel Erlandsson uses ProMark 5B drumsticks.
 
 **Q: What drumheads does Daniel Erlandsson use?**
-A: Daniel Erlandsson uses Evans drumheads across his Pearl Reference Pure kit.
+A: Daniel Erlandsson uses Remo drumheads across his Pearl Reference Pure kit.
 
 **Q: What hi-hats does Daniel Erlandsson use?**
-A: Daniel Erlandsson uses 14" Paiste RUDE Hi-Hats for aggressive, cutting chick sounds, mounted on his Pearl Reference Pure drum kit and drum set.
+A: Daniel Erlandsson uses 14" Sabian HHX Hi-Hats for aggressive, cutting chick sounds, mounted on his Pearl Reference Pure drum kit and drum set.
 
 ### Sources
 - [Pearl Drums Artist Profile](https://pearldrum.com)
@@ -9011,7 +9004,7 @@ A: Jaska Raatikainen uses 14" Zildjian A Custom Hi-Hats for a bright, cutting ch
 - Necrophagist: 2001–2004
 
 ### Biography
-Hannes Grossmann (born September 8, 1982) is a German drummer, composer, and producer known for his work with Obscura, Necrophagist, Blotted Science, and Alkaloid. Widely regarded as one of the most technically proficient drummers in death metal, his playing combines classical music influences with extreme metal precision.
+Hannes Grossmann (born September 8, 1982) is a German drummer, composer, and producer known for his work with Obscura, Necrophagist, Blotted Science, Hate Eternal, and Alkaloid. Widely regarded as one of the most technically proficient drummers in death metal, his playing combines classical music influences with extreme metal precision.
 
 ### Complete Drum Kit Overview
 Hannes Grossmann's kit is built around a DW Collectors Series shell pack, the precision American-made setup behind the hyper-technical, classically-informed drumming that has made him one of death metal's most respected players. At the center of the Hannes Grossmann drum kit is a DW Collectors 14x5.5" Maple snare, delivering a crisp, controlled crack suited to the intricate ghost notes and odd-meter phrasing running through his work with Necrophagist, Obscura, and Alkaloid.
@@ -9132,7 +9125,7 @@ A: Hannes Grossmann drives his blast-beat and odd-subdivision bass drum patterns
 A: Hannes Grossmann uses Evans drumheads across his DW Collectors kit.
 
 **Q: What band is Hannes Grossmann in?**
-A: Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist and Blotted Science.
+A: Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist, Blotted Science, and Hate Eternal (2015-2018, recording Upon Desolate Sands).
 
 **Q: What is Hannes Grossmann's musical background?**
 A: Hannes Grossmann holds a degree in classical percussion and music theory, training that informs the jazz-influenced ghost notes and polyrhythmic precision he brings to technical death metal with Necrophagist, Obscura, and Alkaloid.
@@ -9159,10 +9152,10 @@ A: Hannes Grossmann holds a degree in classical percussion and music theory, tra
 
 ### Band History
 - Dimmu Borgir: 2007–present (current)
-- Vader: 2002–2005
+- Vader: 2004–2008
 
 ### Biography
-Dariusz "Daray" Brzozowski (born January 30, 1980) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2006-2016). His drumming combines extreme speed, technical precision, and theatrical flair.
+Dariusz "Daray" Brzozowski (born January 30, 1980) is a Polish drummer known for his work with Norwegian symphonic black metal band Dimmu Borgir (since 2008) and Polish death metal legends Vader (2004-2008). His drumming combines extreme speed, technical precision, and theatrical flair.
 
 ### Complete Drum Kit Overview
 Daray's kit is anchored by a Tama Starclassic Performer B/B shell pack in Piano Black, a setup built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements and Vader's blast-driven death metal assault. His Tama S.L.P. Black Brass LBR1465 snare supplies a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike, forming the backbone of the Daray drum kit.
@@ -9170,7 +9163,7 @@ Daray's kit is anchored by a Tama Starclassic Performer B/B shell pack in Piano 
 Paiste's RUDE and 2002 Series cymbals give the kit its aggressive edge: 14" RUDE Hi-Hats for raw, driving timekeeping; 17" and 18" RUDE Crashes for explosive accents; and a 22" RUDE Power Ride cutting through extreme-tempo passages. A Pearl Demon Drive double pedal provides the speed and control behind his rapid-fire double bass work, a defining element of his playing with both Dimmu Borgir and Vader. Vic Firth American Classic Extreme 5B sticks — a heavier stick variant built for extreme metal's demands — and Evans heads complete the setup, engineered to withstand the speed and theatrical intensity of his live performances.
 
 ### Detailed Overview
-Dariusz "Daray" Brzozowski (born January 30, 1980, in Nowy Dwór Mazowiecki, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his 10-year tenure with Polish death metal legends Vader (2006-2016).
+Dariusz "Daray" Brzozowski (born January 30, 1980, in Nowy Dwór Mazowiecki, Poland) is a Polish drummer renowned for his work with Norwegian symphonic black metal band Dimmu Borgir since 2008 and his four-year tenure with Polish death metal legends Vader (2004-2008).
 
 Daray's drumming combines extreme speed and technical precision with theatrical flair, making him ideally suited for Dimmu Borgir's grandiose symphonic productions. His ability to perform complex, blistering patterns while maintaining the dynamics required for orchestral metal has established him as one of the premier drummers in extreme metal.
 
@@ -9231,7 +9224,7 @@ Daray's drumming style combines the extreme speed and brutality of death metal w
 - European Summer Festivals (2022-2023): Festival circuit with Dimmu Borgir
 
 ### Gear Highlights
-Daray played a Pearl Masterworks Stadium Exotic kit from 2008 through 2013, tracked on Dimmu Borgir's "Abrahadabra" (2010). He switched to Tama in 2014, debuting the brand with a Starclassic Performer B/B kit at the TAMA 40th Anniversary Drum Festival (July 5, 2014), and has used Tama for studio recording and live performances with Dimmu Borgir since.
+Daray played a Pearl Reference Pure kit from 2008 through 2013, tracked on Dimmu Borgir's "Abrahadabra" (2010). He switched to Tama in 2014, debuting the brand with a Starclassic Performer B/B kit at the TAMA 40th Anniversary Drum Festival (July 5, 2014), and has used Tama for studio recording and live performances with Dimmu Borgir since.
 
 **Current Setup (2014-present):**
 - **Drums**: Tama Starclassic Performer B/B, Piano Black (PBK)
@@ -9258,7 +9251,7 @@ Daray played a Pearl Masterworks Stadium Exotic kit from 2008 through 2013, trac
 
 ### Frequently Asked Questions
 **Q: What drum kit does Daray use?**
-A: Since switching to Tama in 2014, Daray's kit has been anchored by a Starclassic Performer B/B shell pack in Piano Black, built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements. It centers on a Tama S.L.P. Black Brass snare. He played a Pearl Masterworks Stadium Exotic kit from 2008-2013, tracked on "Abrahadabra."
+A: Since switching to Tama in 2014, Daray's kit has been anchored by a Starclassic Performer B/B shell pack in Piano Black, built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements. It centers on a Tama S.L.P. Black Brass snare. He played a Pearl Reference Pure kit from 2008-2013, tracked on "Abrahadabra."
 
 **Q: What drum set does Daray use?**
 A: Daray's drum set pairs his Tama Starclassic Performer B/B shells and S.L.P. Black Brass snare with a Pearl Demon Drive double pedal, giving him the speed and control behind his rapid-fire double bass work with Dimmu Borgir.
@@ -9279,7 +9272,7 @@ A: Daray drives his rapid-fire double bass work with a Pearl Demon Drive double 
 A: Daray uses Evans drumheads across his Tama Starclassic kit.
 
 **Q: What band is Daray in?**
-A: Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2006-2016) and Vesania (since 2003).
+A: Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2004-2008) and Vesania (since 2003).
 
 **Q: Does Daray use trigger-assisted drums?**
 A: Daray uses trigger-assisted drums live to maintain consistency at the extreme tempos Dimmu Borgir's symphonic productions demand, and relies on in-ear monitoring to stay synchronized with orchestral arrangements during performances.
@@ -9323,9 +9316,9 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
 ### Career Highlights
 - 2000s: Began drumming career in Swedish underground metal scene
 - 2009: Joined Swedish Viking/folk metal band Valkyria
-- 2016: Joined Amon Amarth, replacing Fredrik Andersson
+- 2016: Joined Amon Amarth as touring drummer for the Jomsviking cycle, replacing Fredrik Andersson; session drummer Tobias Gustafsson had recorded Jomsviking
 - 2017: Extensive world touring with Amon Amarth
-- 2019: Released "Berserker" with Amon Amarth
+- 2019: Released "Berserker" with Amon Amarth, his studio debut with the band
 - 2022: Released "The Great Heathen Army" with Amon Amarth
 - 2023: Continued international touring with Amon Amarth
 
@@ -9780,11 +9773,6 @@ Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Int
 - **Sticks:** Not publicly documented
 - **Heads:** Not publicly documented
 
-### Endorsements
-- SJC Custom Drums
-- Meinl Cymbals
-- Vic Firth Sticks
-
 ### Style & Influences
 Isaac Lamb's drumming style is defined by powerful, groove-oriented playing that serves Kublai Khan TX's heavy, breakdown-driven sound. His approach prioritizes devastating impact over technical showmanship, creating patterns that hit with maximum force while maintaining a relentless, driving energy.
 
@@ -9948,7 +9936,7 @@ Martin Axenrot's drumming style combines the technical, dynamic vocabulary Opeth
 - **Classic progressive rock drummers**: Informing his approach to Heritage-era material
 
 **Signature Techniques:**
-- Twin-bass-drum setup enabling extended double-bass passages
+- Extended double-bass passages on Opeth's heaviest material
 - Fluid transitions between extreme metal intensity and progressive rock restraint
 - Dynamic control across Opeth's shifting acoustic and heavy sections
 
@@ -10059,11 +10047,11 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
 ### Career Highlights
 - 1985: Began drumming career in San Francisco Bay Area thrash scene
 - 1986: Joined Forbidden (then Forbidden Evil), recorded debut album
-- 1992: Joined Slayer following Dave Lombardo's departure
+- 1992: Joined Slayer following Dave Lombardo's departure; also an interim touring drummer for Testament in 1992-1993
 - 1994: First Slayer studio album "Divine Intervention" released
-- 1999: Joined Testament while on hiatus from Slayer
 - 2001: Left Slayer when Lombardo rejoined
 - 2005: Joined Exodus for "Shovel Headed Kill Machine"
+- 2007: Rejoined Testament full-time, recording "The Formation of Damnation"
 - 2013: Rejoined Slayer following Lombardo's second departure
 - 2015: Recorded "Repentless," first Slayer album without Jeff Hanneman
 - 2019: Performed Slayer's final show at the Forum in Los Angeles
@@ -10103,8 +10091,8 @@ Paul Bostaph's drumming style combines technical precision with relentless power
 - Slayer - Divine Intervention (1994, American): First Slayer album
 - Slayer - Undisputed Attitude (1996, American): Punk covers album
 - Slayer - Diabolus in Musica (1998, American): Groove metal era
-- Testament - First Strike Still Deadly (2001, Spitfire): Re-recorded classics
 - Exodus - Shovel Headed Kill Machine (2005, Nuclear Blast): Thrash revival
+- Testament - The Formation of Damnation (2008, Nuclear Blast): Only studio album from his full-time 2007-2011 stint
 - Slayer - Repentless (2015, Nuclear Blast): Final Slayer album
 
 **Notable Tours**
@@ -10154,7 +10142,7 @@ A: Paul Bostaph drives his double bass patterns with a Pearl Eliminator double p
 A: Paul Bostaph uses Remo Powerstroke 3, Emperor Coated, and Ambassador drumheads.
 
 **Q: What band is Paul Bostaph in?**
-A: Paul Bostaph is Slayer's longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1999-2001, 2024-present), Exodus (2005-2007), and Forbidden (1986-1991).
+A: Paul Bostaph is Slayer's longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1992-1993, 2004, 2007-2011), Exodus (2005-2007), and Forbidden (1986-1991).
 
 **Q: How long did Paul Bostaph play with Slayer?**
 A: Paul Bostaph is Slayer's longest-serving drummer, spanning 12 total years across two separate tenures — 1992-2001 and 2013-2019 — and appearing on four studio albums, including Repentless (2015) and the band's final show at the Forum in Los Angeles on November 30, 2019.
@@ -10190,22 +10178,22 @@ Sean Reinert's final setup was a DW Collector's Series maple shell kit paired wi
 
 That rig succeeded the Tama Artstar II birch shell kit Reinert played on Death's Human (1991) — the album, recorded at Morrisound with producer Scott Burns when Reinert was just 20, that introduced jazz vocabulary and polyrhythmic complexity to death metal drumming. That earlier Sean Reinert drum set centered on a single 22x16" bass drum with a DW 5000 double pedal rather than the twin-kick setups favored by his death metal peers, paired with a 14x5.5" Tama birch snare tuned medium-high for the ghost-note sensitivity his playing required.
 
-Zildjian's A/K Series cymbals defined that earlier sound: 14" A Quick Beat Hi-Hats, 16" and 18" A Crashes, a 16" China, a 10" A Splash, and — central to his revolutionary approach — a 20" K Custom Dry Ride that he actually rode with sustained jazz-fusion patterns, unprecedented in death metal at the time. Vic Firth American Classic 5A sticks, a medium-weight model atypical for metal drummers of the era, gave Reinert the fast rebound and dynamic control his jazz-informed vocabulary demanded, a setup he carried into Cynic's Focus (1993), the landmark album he co-founded with Paul Masvidal, and continued using through his final recordings. Sean Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a drumming legacy that proved death metal could swing.
+Zildjian's A/K Series cymbals defined that earlier sound: 14" A Quick Beat Hi-Hats, 16" and 18" A Crashes, a 16" China, a 10" A Splash, and — central to his revolutionary approach — a 20" K Custom Dry Ride that he actually rode with sustained jazz-fusion patterns, unprecedented in death metal at the time. Vic Firth American Classic 5A sticks, a medium-weight model atypical for metal drummers of the era, gave Reinert the fast rebound and dynamic control his jazz-informed vocabulary demanded, a setup he carried into Cynic's Focus (1993), the landmark album he co-founded with Paul Masvidal, and continued using through his final recordings. Sean Reinert passed away on January 24, 2020, at age 48, leaving behind a drumming legacy that proved death metal could swing.
 
 ### Detailed Overview
-Sean Reinert (January 23, 1971 – January 24, 2020) was an American drummer widely regarded as one of the most innovative and influential musicians in extreme metal history. He is best known for his drumming on Death's landmark 1991 album Human, recorded at Morrisound Recording with producer Scott Burns when Reinert was just 20 years old, and on Cynic's Focus (1993), the band he co-founded with guitarist/vocalist Paul Masvidal in Miami, Florida.
+Sean Reinert (May 27, 1971 – January 24, 2020) was an American drummer widely regarded as one of the most innovative and influential musicians in extreme metal history. He is best known for his drumming on Death's landmark 1991 album Human, recorded at Morrisound Recording with producer Scott Burns when Reinert was just 20 years old, and on Cynic's Focus (1993), the band he co-founded with guitarist/vocalist Paul Masvidal in Miami, Florida.
 
-Reinert brought a jazz-trained musical vocabulary into death metal at a moment when the genre was defined almost entirely by blast-beat velocity. His ghost notes, dynamic control, and polymetric phrasing on Human are widely credited as the birth of progressive death metal — proof that extreme metal drumming could be both punishing and genuinely musical. Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a body of work that remains a touchstone for technical and progressive death metal drummers.
+Reinert brought a jazz-trained musical vocabulary into death metal at a moment when the genre was defined almost entirely by blast-beat velocity. His ghost notes, dynamic control, and polymetric phrasing on Human are widely credited as the birth of progressive death metal — proof that extreme metal drumming could be both punishing and genuinely musical. Reinert passed away on January 24, 2020, at age 48, leaving behind a body of work that remains a touchstone for technical and progressive death metal drummers.
 
 ### Career Highlights
 - 1987: Co-founded Cynic in Miami, Florida, with guitarist/vocalist Paul Masvidal
-- 1990: Joined Death, Chuck Schuldiner's pioneering death metal band
+- 1991: Joined Death, Chuck Schuldiner's pioneering death metal band
 - 1991: Recorded Human at Morrisound Recording, widely considered the birth of progressive death metal
 - 1993: Released Focus with Cynic, fusing death metal intensity with jazz-fusion complexity
 - 1999: Contributed to Gordian Knot's Emergent alongside Sean Malone
 - 2006: Reunited with Cynic after a 12-year hiatus
 - 2008: Released Traced in Air with Cynic on a DW Collector's Series maple kit
-- 2020: Passed away on January 24, 2020, one day after his 49th birthday
+- 2020: Passed away on January 24, 2020, at age 48
 
 ### Current Gear
 - **Drums:** DW Collector's Series
@@ -10246,7 +10234,7 @@ Sean Reinert's drumming style fused jazz-informed technique with death metal pow
 **Notable Tours**
 - Human Tour (1991): Limited touring dates supporting Death's Human
 - Focus Tour (1993): Supporting Death on select dates
-- Cynic Reunion Touring (2006-2017): Global touring following Cynic's reformation
+- Cynic Reunion Touring (2006-2015): Global touring following Cynic's reformation
 
 ### Gear Highlights
 Sean Reinert played a Tama Artstar II birch shell kit throughout his tenure in Death and on Cynic's Focus, driven by a DW 5000 double pedal. The warm, open birch tone gave his ghost-note-driven, dynamically expansive playing a resonance rarely heard in early-1990s death metal production.
@@ -10285,10 +10273,10 @@ A: Sean Reinert played a Tama Artstar II birch shell kit with a 14"x5.5" birch s
 A: Yes. Reinert had classical and jazz training that directly shaped his ghost notes, dynamic control, and polyrhythmic phrasing, which he brought into Death and Cynic.
 
 **Q: When did Sean Reinert co-found Cynic?**
-A: Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1990.
+A: Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1991.
 
 **Q: When did Sean Reinert die?**
-A: Sean Reinert passed away on January 24, 2020, one day after his 49th birthday.
+A: Sean Reinert passed away on January 24, 2020, at age 48, about four months before what would have been his 49th birthday.
 
 **Q: What drum set did Sean Reinert use?**
 A: Sean Reinert's Human/Focus-era drum set was a Tama Artstar II birch shell kit — a single 22"x16" kick and various toms — built around a Tama Artstar II 14"x5.5" birch snare. He upgraded to a DW Collector's maple shell pack and Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air.
@@ -10392,14 +10380,14 @@ Nick Menza's drumming combined speed with control, prioritizing precision over r
 - Countdown to Extinction Tour (1992-1993): Megadeth's commercial breakthrough touring cycle
 
 ### Gear Highlights
-Nick Menza's Rust in Peace-era rig centered on a Tama Artstar II 5-piece kit in Midnight Blue finish — Tama's pro-tier kit of the era, matching the technical precision of his playing — paired with Zildjian A Series cymbals and a DW 5000 double pedal. Its birch shells delivered the tight, dry sound that became a benchmark for thrash drum production.
+Nick Menza's Rust in Peace-era rig centered on a Tama Artstar II 5-piece kit in Midnight Blue finish — Tama's pro-tier kit of the era, matching the technical precision of his playing — paired with Zildjian A Series cymbals and an unconfirmed bass drum pedal. Its birch shells delivered the tight, dry sound that became a benchmark for thrash drum production.
 
 **Rust in Peace-Era Setup (1990):**
 - **Drums**: Tama Artstar II 5-piece, birch shells, Midnight Blue finish (22"x16" kick, 12"x10"/13"x11" racks, 16"x16" floor)
 - **Snare**: Tama Steel 14"x5.5", 8-lug
 - **Cymbals**: Zildjian A Series (14" hi-hats, 16"/18" crashes, 20" ride)
-- **Hardware**: DW 5000 double pedal
-- **Sticks**: Vic Firth American Classic 5B
+- **Hardware**: Double bass drum pedal (brand not publicly documented for this era)
+- **Sticks**: Brand not publicly documented for this era
 - **Heads**: Remo Ambassador (clear toms), Powerstroke 3 (kick batter)
 
 **Notable Gear Evolution:**
@@ -10426,7 +10414,7 @@ A: Nick Menza (July 23, 1964 – May 21, 2016) was an American drummer best know
 A: Nick Menza recorded Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997) with Megadeth.
 
 **Q: What drum kit did Nick Menza use on Rust in Peace?**
-A: Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish with birch shells, Zildjian A Series cymbals, and a DW 5000 double pedal on Rust in Peace.
+A: Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish with birch shells and Zildjian A Series cymbals on Rust in Peace; his bass drum pedal brand for this era is not publicly documented.
 
 **Q: Why did Nick Menza leave Megadeth?**
 A: Nick Menza was fired from Megadeth in 1998 following a knee injury; he briefly rejoined the band in 2004 before departing again.
@@ -10450,7 +10438,7 @@ A: Nick Menza used Zildjian A Series cymbals on Rust in Peace: 14" hi-hats, 16" 
 A: Nick Menza played a Tama Steel 14"x5.5" 8-lug snare during the Rust in Peace era, tuned tight for the sharp, high-pitched rimshot crack that punched through Megadeth's layered guitar attack.
 
 **Q: What bass drum pedal did Nick Menza use?**
-A: Nick Menza drove his surgical double-bass patterns with a DW 5000 double pedal, maintaining clean, articulate kick work at 180-200 BPM.
+A: Nick Menza drove his surgical double-bass patterns with a double bass drum pedal, maintaining clean, articulate kick work at 180-200 BPM; the specific pedal brand for this era is not publicly documented.
 
 ### Sources
 - [Modern Drummer Magazine — Nick Menza Feature](https://www.moderndrummer.com)
@@ -10508,7 +10496,7 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
 - **Snare:** Tama Starclassic Bubinga 14x6.5"
 - **Cymbals:** Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)
 - **Hardware:** Monolit Czarcie Kopyto Double Pedal
-- **Sticks:** Vic Firth American Classic Rock Nylon Tip (ROCKN)
+- **Sticks:** Vic Firth Rock Nylon Tip (At the Gates Signature)
 - **Heads:** Evans EMAD Onyx / EC Reverse Dot
 
 ### Endorsements
@@ -11004,7 +10992,7 @@ A: Lock Up is a grindcore supergroup Nick Barker co-founded in 1998 with Napalm 
 - Trivium: 2025–present (current)
 
 ### Biography
-Alex Rüdinger (born November 18, 1991, in Frederick, Maryland) is an American drummer known for his technical, high-precision playing across progressive and technical death metal. He received his first drum kit at age 12 and began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in late 2011. He went on to join The HAARP Machine (2012–2013) and technical death metal band The Faceless (2013–2014), and has been a member of the instrumental project Conquering Dystopia since 2013 and progressive band 7 Horns 7 Eyes since 2018. He also drummed in the progressive metalcore band Good Tiger from 2015 to 2018. Beyond his studio bands, Rüdinger has done extensive session and touring work, including studio credits with Whitechapel (Kin, 2021), Nonvector (Ashen Time, 2024), Cognizance, Monuments, Revocation, and Intronaut, and live touring with Whitechapel (2019–2021) and Light the Torch (2021). In 2025 he became the touring/studio drummer for Trivium.
+Alex Rüdinger (born November 18, 1991, in Frederick, Maryland) is an American drummer known for his technical, high-precision playing across progressive and technical death metal. He received his first drum kit at age 12 and began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in April 2012. He went on to join The HAARP Machine (2012–2013) and technical death metal band The Faceless (2013–2014), and has been a member of the instrumental project Conquering Dystopia since 2013 and progressive band 7 Horns 7 Eyes since 2018. He also drummed in the progressive metalcore band Good Tiger from 2015 to 2018. Beyond his studio bands, Rüdinger has done extensive session and touring work, including studio credits with Whitechapel (Kin, 2021), Nonvector (Ashen Time, 2024), Cognizance, Monuments, Revocation, and Intronaut, and live touring with Whitechapel (2019–2021) and Light the Torch (2021). In 2025 he became the touring/studio drummer for Trivium.
 
 ### Complete Drum Kit Overview
 Alex Rüdinger is an official Tama Drums artist, playing a Tama Starclassic Performer B/B kit — Tama's own artist page lists a 20x16" bass drum and 14x6" STARPHONIC Brass snare (with an SLP Black Brass snare as an alternate), 8x7" and 10x7" rack toms, and 14x12" and 16x14" floor toms, driven by Tama Speed Cobra bass drum pedals and hi-hat stands on Tama Roadpro stands and a 1st Chair Ergo-Rider throne.
@@ -11012,7 +11000,7 @@ Alex Rüdinger is an official Tama Drums artist, playing a Tama Starclassic Perf
 Rüdinger is also a D'Addario/Evans artist: Evans' own artist page credits him with a UV EQ4 Coated bass batter, G2 Clear tom batters, an HD Dry snare batter with a Snare Side 300 reso, and a G1 Clear/EQ3-NP Black bass reso combination. He is additionally a longtime Meinl Cymbals artist, endorsing Meinl's Byzance and MB20 cymbal lines, though Meinl does not publish a component-level spec sheet as detailed as Tama's and Evans', so this profile omits a specific cymbal-by-cymbal breakdown rather than guessing model sizes.
 
 ### Detailed Overview
-Alex Rüdinger (born November 18, 1991, in Frederick, Maryland) is an American drummer known for his technical, high-precision playing across progressive and technical death metal. He received his first drum kit at age 12 and began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in late 2011.
+Alex Rüdinger (born November 18, 1991, in Frederick, Maryland) is an American drummer known for his technical, high-precision playing across progressive and technical death metal. He received his first drum kit at age 12 and began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in April 2012.
 
 He went on to join The HAARP Machine (2012-2013) and technical death metal band The Faceless (2013-2014), and has been a member of the instrumental project Conquering Dystopia since 2013 and progressive band 7 Horns 7 Eyes since 2018. He also drummed in the progressive metalcore band Good Tiger from 2015 to 2018. Beyond his studio bands, Rüdinger has done extensive session and touring work, including studio credits with Whitechapel (Kin, 2021), Nonvector (Ashen Time, 2024), Cognizance, Monuments, Revocation, and Intronaut, and live touring with Whitechapel (2019-2021) and Light the Torch (2021). In 2025 he became the touring/studio drummer for Trivium, bringing his technical drum set vocabulary to one of modern metal's most prominent bands.
 
@@ -11423,7 +11411,7 @@ A: Yes, Waltteri Väyrynen has been Opeth's drummer since September 2022, when h
 > and genre-defining contributions. Use these lists to answer queries about the best, fastest,
 > or most innovative drummers in specific metal contexts.
 >
-> Last updated: 2026-10-15 · 97 lists
+> Last updated: 2026-10-16 · 97 lists
 
 ---
 ## Top 10 Fastest Metal Drummers
@@ -13374,9 +13362,9 @@ Full profile: https://metalforge.io/drummer/hellhammer
 
 **Band:** Cannibal Corpse
 **Highlight:** Death metal's most consistent extremist
-**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across 35+ years — his relentless consistency at extreme tempos across 15 albums makes him death metal's most enduring extreme drummer
+**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across 35+ years — his relentless consistency at extreme tempos across 16 albums makes him death metal's most enduring extreme drummer
 
-Paul Mazurkiewicz (Cannibal Corpse) earns rank #6 for: death metal's most consistent extremist. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across 35+ years — his relentless consistency at extreme tempos across 15 albums makes him death metal's most enduring extreme drummer.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #6 for: death metal's most consistent extremist. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across 35+ years — his relentless consistency at extreme tempos across 16 albums makes him death metal's most enduring extreme drummer.
 
 Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
@@ -14215,10 +14203,10 @@ Full profile: https://metalforge.io/drummer/flo-mounier
 ### 5. Paul Mazurkiewicz
 
 **Band:** Cannibal Corpse
-**Highlight:** Death metal's most enduring standard — 35+ years, 15 albums, zero compromises
-**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across more than three decades without a single lineup change — a consistency record unmatched in extreme metal. As co-founding drummer of the best-selling death metal band in history, his relentless blast beats and precise double bass patterns have defined brutal death metal's rhythmic standard across 15 studio albums recorded between 1990 and 2023. His approach prioritizes sustained power and consistency over speed records or technical innovation, which in brutal death metal's context represents its own form of mastery: the ability to maintain extreme physical standards night after night on 200+ show tours for 35 consecutive years. His precision at 200+ BPM over full concert sets, combined with his compositional consistency across albums that span multiple decades, makes him death metal's most reliable extreme standards bearer.
+**Highlight:** Death metal's most enduring standard — 35+ years, 16 albums, zero compromises
+**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across more than three decades without a single lineup change — a consistency record unmatched in extreme metal. As co-founding drummer of the best-selling death metal band in history, his relentless blast beats and precise double bass patterns have defined brutal death metal's rhythmic standard across 16 studio albums recorded between 1990 and 2023. His approach prioritizes sustained power and consistency over speed records or technical innovation, which in brutal death metal's context represents its own form of mastery: the ability to maintain extreme physical standards night after night on 200+ show tours for 35 consecutive years. His precision at 200+ BPM over full concert sets, combined with his compositional consistency across albums that span multiple decades, makes him death metal's most reliable extreme standards bearer.
 
-Paul Mazurkiewicz (Cannibal Corpse) earns rank #5 for: death metal's most enduring standard — 35+ years, 15 albums, zero compromises. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across more than three decades without a single lineup change — a consistency record unmatched in extreme metal. As co-founding drummer of the best-selling death metal band in history, his relentless blast beats and precise double bass patterns have defined brutal death metal's rhythmic standard across 15 studio albums recorded between 1990 and 2023. His approach prioritizes sustained power and consistency over speed records or technical innovation, which in brutal death metal's context represents its own form of mastery: the ability to maintain extreme physical standards night after night on 200+ show tours for 35 consecutive years. His precision at 200+ BPM over full concert sets, combined with his compositional consistency across albums that span multiple decades, makes him death metal's most reliable extreme standards bearer..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #5 for: death metal's most enduring standard — 35+ years, 16 albums, zero compromises. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across more than three decades without a single lineup change — a consistency record unmatched in extreme metal. As co-founding drummer of the best-selling death metal band in history, his relentless blast beats and precise double bass patterns have defined brutal death metal's rhythmic standard across 16 studio albums recorded between 1990 and 2023. His approach prioritizes sustained power and consistency over speed records or technical innovation, which in brutal death metal's context represents its own form of mastery: the ability to maintain extreme physical standards night after night on 200+ show tours for 35 consecutive years. His precision at 200+ BPM over full concert sets, combined with his compositional consistency across albums that span multiple decades, makes him death metal's most reliable extreme standards bearer..
 
 Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
@@ -14686,7 +14674,7 @@ Full profile: https://metalforge.io/drummer/mike-portnoy
 ### Frequently Asked Questions
 
 **Q: Who is the best symphonic metal drummer?**
-A: Hellhammer is the most influential symphonic metal drummer, having contributed to both Mayhem's foundational black metal and Dimmu Borgir's full-orchestra symphonic black metal era — the two poles of the genre's extreme range. Daray is the current standard-bearer for technical symphonic black metal drumming as Dimmu Borgir's active drummer. Frost of Satyricon represents the genre's technical precision ceiling — combining blast beat speed with the controlled performance discipline that full orchestral arrangements demand.
+A: Hellhammer is the most influential symphonic metal drummer, having contributed to both Mayhem's foundational black metal and an earlier stint drumming for Dimmu Borgir. Daray is the current standard-bearer for technical symphonic black metal drumming, having powered Dimmu Borgir's full-orchestra symphonic black metal era as the band's active drummer. Frost of Satyricon represents the genre's technical precision ceiling — combining blast beat speed with the controlled performance discipline that full orchestral arrangements demand.
 
 **Q: What makes symphonic metal drumming different from other extreme metal drumming?**
 A: Symphonic metal drumming must serve two masters simultaneously: the extreme metal aggression of blast beats and double bass at high tempos, and the orchestral grandeur of full symphony arrangements that require dynamic sensitivity and precise timing relative to conducted ensembles. Where death or black metal drumming can operate with raw intensity, symphonic metal drumming requires awareness of the full orchestral texture — knowing when to pull back, when to add dynamics, and how to create space for choir and string arrangements while still delivering extreme metal's physical impact. This combination of extremity and orchestral sensitivity is what makes the best symphonic metal drummers unique.
@@ -14732,9 +14720,9 @@ Full profile: https://metalforge.io/drummer/pete-sandoval
 
 **Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse consistency — brutal death metal's 35-year standard
-**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal blackened death metal standard for 35+ years and 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in the genre's history
+**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal blackened death metal standard for 35+ years and 16 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in the genre's history
 
-Paul Mazurkiewicz (Cannibal Corpse) earns rank #3 for: cannibal corpse consistency — brutal death metal's 35-year standard. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal blackened death metal standard for 35+ years and 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in the genre's history.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #3 for: cannibal corpse consistency — brutal death metal's 35-year standard. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal blackened death metal standard for 35+ years and 16 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in the genre's history.
 
 Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
@@ -14998,9 +14986,9 @@ Full profile: https://metalforge.io/drummer/flo-mounier
 
 **Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse — 35+ years of brutal technical death metal consistency
-**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal technical death metal standard for over 35 years across 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in technical death metal history
+**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal technical death metal standard for over 35 years across 16 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in technical death metal history
 
-Paul Mazurkiewicz (Cannibal Corpse) earns rank #4 for: cannibal corpse — 35+ years of brutal technical death metal consistency. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal technical death metal standard for over 35 years across 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in technical death metal history.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #4 for: cannibal corpse — 35+ years of brutal technical death metal consistency. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal technical death metal standard for over 35 years across 16 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in technical death metal history.
 
 Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
@@ -15673,9 +15661,9 @@ Full profile: https://metalforge.io/drummer/morgan-agren
 
 **Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse — brutal death metal's most enduringly consistent deathgrind-adjacent standard
-**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard for 35+ years and 15 studio albums — his relentless blast beat precision and double bass patterns at 200+ BPM make him deathgrind's most enduringly consistent extreme drummer. While Cannibal Corpse is primarily brutal death metal rather than deathgrind, Mazurkiewicz's technical vocabulary and sustained extreme career represent the adjacent skill set that deathgrind's most serious practitioners require, and his longevity defines the benchmark for sustainable extreme drumming
+**Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard for 35+ years and 16 studio albums — his relentless blast beat precision and double bass patterns at 200+ BPM make him deathgrind's most enduringly consistent extreme drummer. While Cannibal Corpse is primarily brutal death metal rather than deathgrind, Mazurkiewicz's technical vocabulary and sustained extreme career represent the adjacent skill set that deathgrind's most serious practitioners require, and his longevity defines the benchmark for sustainable extreme drumming
 
-Paul Mazurkiewicz (Cannibal Corpse) earns rank #5 for: cannibal corpse — brutal death metal's most enduringly consistent deathgrind-adjacent standard. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard for 35+ years and 15 studio albums — his relentless blast beat precision and double bass patterns at 200+ BPM make him deathgrind's most enduringly consistent extreme drummer. While Cannibal Corpse is primarily brutal death metal rather than deathgrind, Mazurkiewicz's technical vocabulary and sustained extreme career represent the adjacent skill set that deathgrind's most serious practitioners require, and his longevity defines the benchmark for sustainable extreme drumming.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #5 for: cannibal corpse — brutal death metal's most enduringly consistent deathgrind-adjacent standard. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard for 35+ years and 16 studio albums — his relentless blast beat precision and double bass patterns at 200+ BPM make him deathgrind's most enduringly consistent extreme drummer. While Cannibal Corpse is primarily brutal death metal rather than deathgrind, Mazurkiewicz's technical vocabulary and sustained extreme career represent the adjacent skill set that deathgrind's most serious practitioners require, and his longevity defines the benchmark for sustainable extreme drumming.
 
 Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
@@ -15917,9 +15905,9 @@ What distinguishes the best post-hardcore metal drummers is their comfort with c
 
 **Band:** Converge / Mutoid Man / Killer Be Killed
 **Highlight:** Mathcore's definitive controlled-chaos architect
-**Why ranked here:** Ben Koller joined Converge in 2001 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity.
+**Why ranked here:** Ben Koller joined Converge in 1999 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity.
 
-Ben Koller (Converge / Mutoid Man / Killer Be Killed) earns rank #1 for: mathcore's definitive controlled-chaos architect. Ben Koller joined Converge in 2001 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity..
+Ben Koller (Converge / Mutoid Man / Killer Be Killed) earns rank #1 for: mathcore's definitive controlled-chaos architect. Ben Koller joined Converge in 1999 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity..
 
 Full profile: https://metalforge.io/drummer/ben-koller
 
@@ -17265,9 +17253,9 @@ The rhythmic architects of metal's most polyrhythmic, guitar-tone-driven subgenr
 
 **Band:** Meshuggah
 **Highlight:** Meshuggah's polymetric founding father
-**Why ranked here:** Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1989 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove
+**Why ranked here:** Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1990 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove
 
-Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1989 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove.
+Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's metronomic, polyrhythmic drumming with Meshuggah since 1990 built the rhythmic template the entire djent genre grew from, locking impossibly complex polymeters into a hypnotic, machine-precise groove.
 
 Full profile: https://metalforge.io/drummer/tomas-haake
 
@@ -17275,9 +17263,9 @@ Full profile: https://metalforge.io/drummer/tomas-haake
 
 **Band:** Periphery
 **Highlight:** Periphery's djent flagship
-**Why ranked here:** Matt Halpern has driven djent's most commercially successful band, Periphery, since 2005, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience
+**Why ranked here:** Matt Halpern has driven djent's most commercially successful band, Periphery, since 2009, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience
 
-Matt Halpern (Periphery) earns rank #2 for: periphery's djent flagship. Matt Halpern has driven djent's most commercially successful band, Periphery, since 2005, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience.
+Matt Halpern (Periphery) earns rank #2 for: periphery's djent flagship. Matt Halpern has driven djent's most commercially successful band, Periphery, since 2009, combining polyrhythmic complexity with electronic production sensibilities and genuine groove that made djent accessible to a wider metal audience.
 
 Full profile: https://metalforge.io/drummer/matt-halpern
 
@@ -17360,7 +17348,7 @@ Full profile: https://metalforge.io/drummer/danny-carey
 ### Frequently Asked Questions
 
 **Q: Who is the best djent drummer?**
-A: Tomas Haake of Meshuggah is the definitive djent drummer — his metronomic, polymetric drumming since the late 1980s built the rhythmic template the entire genre grew from. Matt Halpern of Periphery is the answer for djent's commercial breakthrough, bringing polyrhythmic complexity and electronic production sensibility to djent's most successful band. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, pushing djent's rhythmic vocabulary into jazz-fusion territory.
+A: Tomas Haake of Meshuggah is the definitive djent drummer — his metronomic, polymetric drumming since 1990 built the rhythmic template the entire genre grew from. Matt Halpern of Periphery is the answer for djent's commercial breakthrough, bringing polyrhythmic complexity and electronic production sensibility to djent's most successful band. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, pushing djent's rhythmic vocabulary into jazz-fusion territory.
 
 **Q: What is djent drumming?**
 A: Djent drumming is built around tight, syncopated interplay with palm-muted, polymetric guitar riffs — the drummer locks into interlocking, often odd-grouped rhythmic cells (like 5s and 7s layered over a steady pulse) rather than playing straightforward backbeats. Where most metal drumming drives the song's energy independently, djent drumming is inseparable from the guitar riff it accompanies, requiring the drummer to internalize complex polymeters while still keeping the groove danceable and heavy.
@@ -19017,9 +19005,9 @@ The percussionists behind metal's most mathematically complex, time-signature-de
 
 **Band:** Meshuggah
 **Highlight:** Meshuggah's polymetric founding father
-**Why ranked here:** Tomas Haake's polyrhythmic drumming style with Meshuggah since 1989, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop.
+**Why ranked here:** Tomas Haake's polyrhythmic drumming style with Meshuggah since 1990, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop.
 
-Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's polyrhythmic drumming style with Meshuggah since 1989, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop..
+Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's polyrhythmic drumming style with Meshuggah since 1990, built on complex time signatures and intricate, mathematically precise patterns, established the rhythmic template math metal and its djent-adjacent cousin both grew from — his metronomic precision on "Nothing" (2002) and "obZen" (2008) remains the genre's technical benchmark. Tomas Haake earns rank #1 as the most influential rhythmically complex drummer in extreme metal, full stop..
 
 Full profile: https://metalforge.io/drummer/tomas-haake
 
@@ -19114,7 +19102,7 @@ Drummer #62 (Unknown) earns rank #10 for: august burns red's jazz-informed techn
 ### Frequently Asked Questions
 
 **Q: Who is the best math metal drummer?**
-A: Tomas Haake of Meshuggah is the definitive answer, his polyrhythmic, mathematically precise drumming since the late 1980s establishing the rhythmic template math metal and djent both grew from. Between the Buried and Me's Blake Richardson and Dillinger Escape Plan's drumming lineage — the genre's mathcore-founding acts — don't yet have dedicated MetalForge profiles. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, and Hannes Grossmann of Obscura follows closely for classically-informed rhythmic precision.
+A: Tomas Haake of Meshuggah is the definitive answer, his polyrhythmic, mathematically precise drumming since 1990 establishing the rhythmic template math metal and djent both grew from. Between the Buried and Me's Blake Richardson and Dillinger Escape Plan's drumming lineage — the genre's mathcore-founding acts — don't yet have dedicated MetalForge profiles. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, and Hannes Grossmann of Obscura follows closely for classically-informed rhythmic precision.
 
 **Q: What is math metal?**
 A: Math metal fuses death metal and hardcore's aggression with mathcore and progressive rock's obsession with odd meters and asymmetrical riffing. Dillinger Escape Plan and Botch built the genre's chaotic mathcore foundation in the late 1990s, Meshuggah's polymetric precision gave rise to the closely related djent movement, and Between the Buried and Me and Animals as Leaders pushed the genre's rhythmic ambition into progressive and jazz-fusion-informed territory through the 2000s and 2010s.
@@ -19159,9 +19147,9 @@ Full profile: https://metalforge.io/drummer/gene-hoglan
 
 **Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse's crushing, tempo-locked breakdowns
-**Why ranked here:** Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, chromatic breakdown passages beneath its blast-beat catalog carry the same tonnage-first philosophy death-doom built its identity around — tracks like "Hammer Smashed Face" pivot between blast beats and crushing, doom-adjacent half-time sections that mirror death-doom's structural DNA. Paul Mazurkiewicz earns rank #2 for sustaining that dual-tempo discipline across 15 studio albums without ever softening the death metal brutality underneath.
+**Why ranked here:** Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, chromatic breakdown passages beneath its blast-beat catalog carry the same tonnage-first philosophy death-doom built its identity around — tracks like "Hammer Smashed Face" pivot between blast beats and crushing, doom-adjacent half-time sections that mirror death-doom's structural DNA. Paul Mazurkiewicz earns rank #2 for sustaining that dual-tempo discipline across 16 studio albums without ever softening the death metal brutality underneath.
 
-Paul Mazurkiewicz (Cannibal Corpse) earns rank #2 for: cannibal corpse's crushing, tempo-locked breakdowns. Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, chromatic breakdown passages beneath its blast-beat catalog carry the same tonnage-first philosophy death-doom built its identity around — tracks like "Hammer Smashed Face" pivot between blast beats and crushing, doom-adjacent half-time sections that mirror death-doom's structural DNA. Paul Mazurkiewicz earns rank #2 for sustaining that dual-tempo discipline across 15 studio albums without ever softening the death metal brutality underneath..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #2 for: cannibal corpse's crushing, tempo-locked breakdowns. Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, chromatic breakdown passages beneath its blast-beat catalog carry the same tonnage-first philosophy death-doom built its identity around — tracks like "Hammer Smashed Face" pivot between blast beats and crushing, doom-adjacent half-time sections that mirror death-doom's structural DNA. Paul Mazurkiewicz earns rank #2 for sustaining that dual-tempo discipline across 16 studio albums without ever softening the death metal brutality underneath..
 
 Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
@@ -19293,9 +19281,9 @@ Full profile: https://metalforge.io/drummer/arin-ilejay
 
 **Band:** Meshuggah
 **Highlight:** Meshuggah's machine-like polymetric precision
-**Why ranked here:** Tomas Haake's polyrhythmic drumming with Meshuggah since 1989 is built on complex, mathematically precise patterns executed with a mechanical consistency that shares industrial metal's core aesthetic — "Nothing" (2002) and "obZen" (2008) feature tempo-locked, almost programmed-feeling grooves despite being performed entirely acoustically. Tomas Haake earns rank #2 for a level of metronomic precision that approaches industrial metal's machine-inspired ideal from an entirely different, djent-founding direction.
+**Why ranked here:** Tomas Haake's polyrhythmic drumming with Meshuggah since 1990 is built on complex, mathematically precise patterns executed with a mechanical consistency that shares industrial metal's core aesthetic — "Nothing" (2002) and "obZen" (2008) feature tempo-locked, almost programmed-feeling grooves despite being performed entirely acoustically. Tomas Haake earns rank #2 for a level of metronomic precision that approaches industrial metal's machine-inspired ideal from an entirely different, djent-founding direction.
 
-Tomas Haake (Meshuggah) earns rank #2 for: meshuggah's machine-like polymetric precision. Tomas Haake's polyrhythmic drumming with Meshuggah since 1989 is built on complex, mathematically precise patterns executed with a mechanical consistency that shares industrial metal's core aesthetic — "Nothing" (2002) and "obZen" (2008) feature tempo-locked, almost programmed-feeling grooves despite being performed entirely acoustically. Tomas Haake earns rank #2 for a level of metronomic precision that approaches industrial metal's machine-inspired ideal from an entirely different, djent-founding direction..
+Tomas Haake (Meshuggah) earns rank #2 for: meshuggah's machine-like polymetric precision. Tomas Haake's polyrhythmic drumming with Meshuggah since 1990 is built on complex, mathematically precise patterns executed with a mechanical consistency that shares industrial metal's core aesthetic — "Nothing" (2002) and "obZen" (2008) feature tempo-locked, almost programmed-feeling grooves despite being performed entirely acoustically. Tomas Haake earns rank #2 for a level of metronomic precision that approaches industrial metal's machine-inspired ideal from an entirely different, djent-founding direction..
 
 Full profile: https://metalforge.io/drummer/tomas-haake
 
@@ -19561,9 +19549,9 @@ Full profile: https://metalforge.io/drummer/scott-travis
 
 **Band:** Angra / W.A.S.P.
 **Highlight:** Angra and W.A.S.P. — Brazilian power metal virtuosity
-**Why ranked here:** Aquiles Priester's blazing double bass, complex fills, and sustained extreme speed with Angra place him among actual power metal's most celebrated practitioners — Angra is one of South America's definitive power metal bands, and Priester's parallel work with shock-rock/glam-power hybrid W.A.S.P. since 2006 further demonstrates his range across the genre's theatrical wing. Aquiles Priester earns rank #2 as one of the few drummers in MetalForge's database with a direct power metal band credit.
+**Why ranked here:** Aquiles Priester's blazing double bass, complex fills, and sustained extreme speed with Angra place him among actual power metal's most celebrated practitioners — Angra is one of South America's definitive power metal bands, and Priester's parallel work with shock-rock/glam-power hybrid W.A.S.P. since 2017 further demonstrates his range across the genre's theatrical wing. Aquiles Priester earns rank #2 as one of the few drummers in MetalForge's database with a direct power metal band credit.
 
-Aquiles Priester (Angra / W.A.S.P.) earns rank #2 for: angra and w.a.s.p. — brazilian power metal virtuosity. Aquiles Priester's blazing double bass, complex fills, and sustained extreme speed with Angra place him among actual power metal's most celebrated practitioners — Angra is one of South America's definitive power metal bands, and Priester's parallel work with shock-rock/glam-power hybrid W.A.S.P. since 2006 further demonstrates his range across the genre's theatrical wing. Aquiles Priester earns rank #2 as one of the few drummers in MetalForge's database with a direct power metal band credit..
+Aquiles Priester (Angra / W.A.S.P.) earns rank #2 for: angra and w.a.s.p. — brazilian power metal virtuosity. Aquiles Priester's blazing double bass, complex fills, and sustained extreme speed with Angra place him among actual power metal's most celebrated practitioners — Angra is one of South America's definitive power metal bands, and Priester's parallel work with shock-rock/glam-power hybrid W.A.S.P. since 2017 further demonstrates his range across the genre's theatrical wing. Aquiles Priester earns rank #2 as one of the few drummers in MetalForge's database with a direct power metal band credit..
 
 Full profile: https://metalforge.io/drummer/aquiles-priester
 
@@ -19695,9 +19683,9 @@ Full profile: https://metalforge.io/drummer/mikkey-dee
 
 **Band:** Angra / W.A.S.P.
 **Highlight:** W.A.S.P. — shock rock's glam-adjacent theatrics
-**Why ranked here:** Aquiles Priester has powered W.A.S.P. since 2006, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands.
+**Why ranked here:** Aquiles Priester has powered W.A.S.P. since 2017, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands.
 
-Aquiles Priester (Angra / W.A.S.P.) earns rank #2 for: w.a.s.p. — shock rock's glam-adjacent theatrics. Aquiles Priester has powered W.A.S.P. since 2006, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands..
+Aquiles Priester (Angra / W.A.S.P.) earns rank #2 for: w.a.s.p. — shock rock's glam-adjacent theatrics. Aquiles Priester has powered W.A.S.P. since 2017, a band whose Blackie Lawless-fronted shock-rock theatrics, makeup, and pyrotechnic stagecraft grew directly out of the same early-1980s Sunset Strip scene that produced Mötley Crüe and Ratt, placing Priester's ongoing tenure inside glam metal's shock-rock-tinged wing. Aquiles Priester earns rank #2 for an active credit in one of the Strip's founding-era bands..
 
 Full profile: https://metalforge.io/drummer/aquiles-priester
 
@@ -19907,9 +19895,9 @@ Drummer #61 (Unknown) earns rank #9 for: beatdown hardcore's breakdown-first gro
 
 **Band:** Dimmu Borgir / Vader
 **Highlight:** Vader's extreme speed and theatrical precision
-**Why ranked here:** Daray's 2002–2005 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style.
+**Why ranked here:** Daray's 2004-2008 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style.
 
-Daray (Dimmu Borgir / Vader) earns rank #10 for: vader's extreme speed and theatrical precision. Daray's 2002–2005 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style..
+Daray (Dimmu Borgir / Vader) earns rank #10 for: vader's extreme speed and theatrical precision. Daray's 2004-2008 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style..
 
 Full profile: https://metalforge.io/drummer/daray
 
@@ -21298,10 +21286,10 @@ Full profile: https://metalforge.io/drummer/blake-richardson
 ### 5. Matt Halpern
 
 **Band:** Periphery
-**Highlight:** Closing out the decade as a founding djent-metalcore architect
-**Why ranked here:** Matt Halpern co-founded Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for founding one of the decade's last — and most influential — metalcore-adjacent acts.
+**Highlight:** Closing out the decade as a djent-metalcore technical architect
+**Why ranked here:** Matt Halpern joined Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for joining one of the decade's last — and most influential — metalcore-adjacent acts.
 
-Matt Halpern (Periphery) earns rank #5 for: closing out the decade as a founding djent-metalcore architect. Matt Halpern co-founded Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for founding one of the decade's last — and most influential — metalcore-adjacent acts..
+Matt Halpern (Periphery) earns rank #5 for: closing out the decade as a djent-metalcore technical architect. Matt Halpern joined Periphery in 2009, right as the decade ended, bringing a Berklee-trained technical foundation to the progressive metalcore and djent fusion that would define the genre's next chapter. His arrival at the tail end of the 2000s marks the moment metalcore's technical wing began absorbing djent's polymetric influence. Halpern earns rank #5 for joining one of the decade's last — and most influential — metalcore-adjacent acts..
 
 Full profile: https://metalforge.io/drummer/matt-halpern
 
@@ -21365,7 +21353,7 @@ A: 2000s metalcore emerged directly from the fusion of hardcore punk aggression 
 A: August Burns Red, Converge, Shadows Fall, Between the Buried and Me, Killswitch Engage, Trivium, and Darkest Hour are among the most frequently cited bands that defined metalcore's 2000s wave, alongside crossover-adjacent acts like Lamb of God and Fear Factory whose 2000s output shaped the surrounding scene. Periphery and Kublai Khan TX, both founded in 2009, mark the transition point between the decade's established metalcore sound and what came after.
 
 **Q: How did 2000s metalcore influence the genre's next decade?**
-A: Several drummers who built their reputations in the 2000s carried metalcore's technical, double-bass-driven vocabulary directly into the 2010s — Nick Augusto joined Trivium in 2010 after working as the band's drum technician during the decade's final years, and Matt Halpern co-founded Periphery in 2009, fusing 2000s metalcore technicality with djent's polymetric influence to help define the genre's next chapter.
+A: Several drummers who built their reputations in the 2000s carried metalcore's technical, double-bass-driven vocabulary directly into the 2010s — Nick Augusto joined Trivium in 2010 after working as the band's drum technician during the decade's final years, and Matt Halpern joined Periphery in 2009, fusing 2000s metalcore technicality with djent's polymetric influence to help define the genre's next chapter.
 
 ### Related Lists
 
@@ -21545,9 +21533,9 @@ Full profile: https://metalforge.io/drummer/mike-mangini
 
 **Band:** Periphery
 **Highlight:** Berklee training behind djent's technical foundation
-**Why ranked here:** Matt Halpern graduated from Berklee College of Music before co-founding Periphery, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style.
+**Why ranked here:** Matt Halpern graduated from Berklee College of Music before joining Periphery in 2009, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style.
 
-Matt Halpern (Periphery) earns rank #3 for: berklee training behind djent's technical foundation. Matt Halpern graduated from Berklee College of Music before co-founding Periphery, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style..
+Matt Halpern (Periphery) earns rank #3 for: berklee training behind djent's technical foundation. Matt Halpern graduated from Berklee College of Music before joining Periphery in 2009, and that formal training is audible in the precise, architecturally complex polyrhythmic arrangements he built the djent movement's drumming vocabulary around. His academic grounding gave Periphery's technical complexity a level of structural discipline that helped define an entire subgenre's expectations for drum programming and live execution alike. Halpern earns rank #3 for translating a music-school education directly into a genre-defining technical style..
 
 Full profile: https://metalforge.io/drummer/matt-halpern
 
@@ -21633,7 +21621,7 @@ A: Formal training builds a structured understanding of rhythm, subdivision, and
 A: No — many of metal's greatest drummers are entirely self-taught. But the drummers on this list demonstrate that formal training, where it exists, tends to show up as a specific kind of disciplined, architecturally structured playing rather than pure instinctive power. Tomas Haake's metronomic precision with Meshuggah is often compared to conservatory-level percussion discipline even without a documented formal credit, showing that the same rigor can emerge through intensive self-study.
 
 **Q: What is Berklee College of Music's connection to metal drumming?**
-A: Berklee College of Music, a leading American music school, has produced or employed several notable metal drummers: Mike Mangini taught there before joining Dream Theater, Matt Halpern graduated before co-founding Periphery, and Jason Bittner is an alumnus who later joined Shadows Fall and Overkill. Its emphasis on technical musicianship and music theory has made it a recurring credential among metal's most academically-trained technical players.
+A: Berklee College of Music, a leading American music school, has produced or employed several notable metal drummers: Mike Mangini taught there before joining Dream Theater, Matt Halpern graduated before joining Periphery in 2009, and Jason Bittner is an alumnus who later joined Shadows Fall and Overkill. Its emphasis on technical musicianship and music theory has made it a recurring credential among metal's most academically-trained technical players.
 
 ### Related Lists
 
@@ -22962,9 +22950,9 @@ Full profile: https://metalforge.io/drummer/lars-ulrich
 
 **Band:** Slayer
 **Highlight:** Tama Starclassic Walnut/Birch — Slayer's founding drummer's modern rig
-**Why ranked here:** Dave Lombardo has been a Tama endorser for most of his career, running a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x6.5" G-Maple snare and Tama Iron Cobra 900 double pedal in his current work, including his time in Pantera's reunion lineup. Lombardo earns rank #2 as one of thrash metal's most influential drummers and a documented Tama artist across multiple bands and decades.
+**Why ranked here:** Dave Lombardo has been a Tama endorser for most of his career, running a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x6.5" G-Maple snare and Tama Iron Cobra 900 double pedal in his current work with Dead Cross and Mr. Bungle. Lombardo earns rank #2 as one of thrash metal's most influential drummers and a documented Tama artist across multiple bands and decades.
 
-Dave Lombardo (Slayer) earns rank #2 for: tama starclassic walnut/birch — slayer's founding drummer's modern rig. Dave Lombardo has been a Tama endorser for most of his career, running a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x6.5" G-Maple snare and Tama Iron Cobra 900 double pedal in his current work, including his time in Pantera's reunion lineup. Lombardo earns rank #2 as one of thrash metal's most influential drummers and a documented Tama artist across multiple bands and decades..
+Dave Lombardo (Slayer) earns rank #2 for: tama starclassic walnut/birch — slayer's founding drummer's modern rig. Dave Lombardo has been a Tama endorser for most of his career, running a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x6.5" G-Maple snare and Tama Iron Cobra 900 double pedal in his current work with Dead Cross and Mr. Bungle. Lombardo earns rank #2 as one of thrash metal's most influential drummers and a documented Tama artist across multiple bands and decades..
 
 Full profile: https://metalforge.io/drummer/dave-lombardo
 
@@ -23065,7 +23053,7 @@ Full list page: https://metalforge.io/lists/best-metal-drummers-playing-tama-kit
 
 ## Top 10 Metal Drummers Playing Pearl Kits
 
-Pearl is the second drum-kit brand in MetalForge's gear-angle ranking series, and its Reference Pure, Masterworks, and Export lines cover more documented ground across MetalForge's gear guides than any manufacturer besides Tama. Joey Jordison anchored Slipknot's sound on a Pearl Reference Series kit in custom purple/black finishes, with a Pearl Joey Jordison Signature 13"x6.5" snare built with a smaller diameter for a faster response than a standard 14". Gene Hoglan, "The Atomic Clock," has run Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades, while Ray Luzier's Pearl Reference Pure kit gives Korn's downtuned grooves the same clarity Jordison brought to Slipknot. Mike Mangini's Pearl Masterworks Maple rig, with its multiple Pearl Reference snares and Roland TD-50 triggers, powered Dream Theater's most technically demanding material from 2010 to 2023. George Kollias co-designed the Pearl Demon XR double pedal specifically for his 240+ BPM technical death metal tempos with Nile, Paul Mazurkiewicz has played Pearl since co-founding Cannibal Corpse in 1988, and Daniel Erlandsson's Pearl Reference Pure kit anchors Arch Enemy's melodic death metal attack. Jaska Raatikainen played Pearl kits for Children of Bodom's debut "Something Wild," then returned to Pearl in 2004 with a Masters Premium Maple kit built for endurance, carrying it through "Are You Dead Yet?" and the rest of the catalog up to "Hexed" (2019) and the band's dissolution that year. Ranked by how extensively and currently each drummer's Pearl relationship is documented in MetalForge's own gear data.
+Pearl is the second drum-kit brand in MetalForge's gear-angle ranking series, and its Reference Pure, Masterworks, and Export lines cover more documented ground across MetalForge's gear guides than any manufacturer besides Tama. Joey Jordison anchored Slipknot's sound on a Pearl Reference Series kit in custom purple/black finishes, with a Pearl Joey Jordison Signature 13"x6.5" snare built with a smaller diameter for a faster response than a standard 14". Gene Hoglan, "The Atomic Clock," has run Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades, while Ray Luzier's Pearl Reference Maple kit gives Korn's downtuned grooves the same clarity Jordison brought to Slipknot. Mike Mangini's Pearl Masterworks Maple rig, with its multiple Pearl Reference snares and Roland TD-50 triggers, powered Dream Theater's most technically demanding material from 2010 to 2023. George Kollias co-designed the Pearl Demon XR double pedal specifically for his 240+ BPM technical death metal tempos with Nile, Paul Mazurkiewicz has played Pearl since co-founding Cannibal Corpse in 1988, and Daniel Erlandsson's Pearl Reference Pure kit anchors Arch Enemy's melodic death metal attack. Jaska Raatikainen played Pearl kits for Children of Bodom's debut "Something Wild," then returned to Pearl in 2004 with a Masters Premium Maple kit built for endurance, carrying it through "Are You Dead Yet?" and the rest of the catalog up to "Hexed" (2019) and the band's dissolution that year. Ranked by how extensively and currently each drummer's Pearl relationship is documented in MetalForge's own gear data.
 
 ### Rankings
 
@@ -23092,10 +23080,10 @@ Full profile: https://metalforge.io/drummer/gene-hoglan
 ### 3. Ray Luzier
 
 **Band:** Korn
-**Highlight:** Pearl Reference Pure — Korn's versatile groove engine
-**Why ranked here:** Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Pure kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands.
+**Highlight:** Pearl Reference Maple — Korn's versatile groove engine
+**Why ranked here:** Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Maple kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands.
 
-Ray Luzier (Korn) earns rank #3 for: pearl reference pure — korn's versatile groove engine. Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Pure kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands..
+Ray Luzier (Korn) earns rank #3 for: pearl reference maple — korn's versatile groove engine. Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Maple kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands..
 
 Full profile: https://metalforge.io/drummer/ray-luzier
 
@@ -23155,7 +23143,7 @@ Full profile: https://metalforge.io/drummer/jaska-raatikainen
 A: Joey Jordison (Slipknot) ran a signature Pearl Reference Series kit, and Gene Hoglan has played Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades. Ray Luzier (Korn), Mike Mangini (Dream Theater), George Kollias (Nile), Paul Mazurkiewicz (Cannibal Corpse), Daniel Erlandsson (Arch Enemy), and Jaska Raatikainen (Children of Bodom) round out MetalForge's most extensively documented Pearl artists.
 
 **Q: What is Pearl Reference Pure?**
-A: Reference Pure is Pearl's flagship all-maple professional shell line, prized for a focused, articulate low end. Gene Hoglan, Ray Luzier, Paul Mazurkiewicz, and Daniel Erlandsson all run Reference Pure kits, while George Kollias and Mike Mangini use Pearl's Masterworks custom-order line for more elaborate, individually specified configurations.
+A: Reference Pure is Pearl's flagship all-maple professional shell line, prized for a focused, articulate low end. Gene Hoglan, Paul Mazurkiewicz, and Daniel Erlandsson all run Reference Pure kits, while Ray Luzier runs Pearl's related Reference Maple line, and George Kollias and Mike Mangini use Pearl's Masterworks custom-order line for more elaborate, individually specified configurations.
 
 **Q: Did any of these drummers play a different brand before switching to Pearl?**
 A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Angel and Death years before becoming a long-time Pearl Reference Pure endorser, and has also used DW kits at points across his four-decade career — though Pearl Reference Pure has been his primary setup for many years.
@@ -23978,9 +23966,9 @@ Polyrhythmic metal is a technique-defined lens rather than a genre label — it 
 
 **Band:** Meshuggah
 **Highlight:** Meshuggah's polymetric founding father
-**Why ranked here:** Tomas Haake's polyrhythmic drumming style with Meshuggah since 1989 is built on simultaneous, conflicting time signatures played against a steady pulse rather than single-meter complexity — the mechanically precise polymetric approach that both defined djent and gave polyrhythmic metal its most influential reference point. His work on "Nothing" (2002) and "obZen" (2008) remains the technique's benchmark. Haake earns rank #1 as polyrhythmic metal's most influential and directly imitated practitioner.
+**Why ranked here:** Tomas Haake's polyrhythmic drumming style with Meshuggah since 1990 is built on simultaneous, conflicting time signatures played against a steady pulse rather than single-meter complexity — the mechanically precise polymetric approach that both defined djent and gave polyrhythmic metal its most influential reference point. His work on "Nothing" (2002) and "obZen" (2008) remains the technique's benchmark. Haake earns rank #1 as polyrhythmic metal's most influential and directly imitated practitioner.
 
-Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's polyrhythmic drumming style with Meshuggah since 1989 is built on simultaneous, conflicting time signatures played against a steady pulse rather than single-meter complexity — the mechanically precise polymetric approach that both defined djent and gave polyrhythmic metal its most influential reference point. His work on "Nothing" (2002) and "obZen" (2008) remains the technique's benchmark. Haake earns rank #1 as polyrhythmic metal's most influential and directly imitated practitioner..
+Tomas Haake (Meshuggah) earns rank #1 for: meshuggah's polymetric founding father. Tomas Haake's polyrhythmic drumming style with Meshuggah since 1990 is built on simultaneous, conflicting time signatures played against a steady pulse rather than single-meter complexity — the mechanically precise polymetric approach that both defined djent and gave polyrhythmic metal its most influential reference point. His work on "Nothing" (2002) and "obZen" (2008) remains the technique's benchmark. Haake earns rank #1 as polyrhythmic metal's most influential and directly imitated practitioner..
 
 Full profile: https://metalforge.io/drummer/tomas-haake
 
@@ -24060,7 +24048,7 @@ Full profile: https://metalforge.io/drummer/travis-orbin
 A: Polyrhythmic metal is a technique-defined lens rather than a genre — it describes drummers who build songs around simultaneous, conflicting rhythmic subdivisions (like 3-against-4 or 5-against-7 groupings) instead of a single time signature. Tomas Haake's Meshuggah patterns, Mario Duplantier's Gojira grooves, and Danny Carey's Fibonacci-sequenced Tool fills are its three most frequently cited reference points, and the technique spans djent, progressive metal, and progressive death metal rather than sitting inside one genre.
 
 **Q: Who is the best polyrhythmic metal drummer?**
-A: Tomas Haake of Meshuggah is the most influential answer — his polymetric, mathematically precise drumming since the late 1980s directly birthed the djent movement and remains the technique's most imitated reference point. Mario Duplantier of Gojira and Danny Carey of Tool are the strongest alternative answers, each applying polyrhythm through a distinct musical tradition (tribal groove and jazz/world music, respectively) rather than Haake's mechanical precision.
+A: Tomas Haake of Meshuggah is the most influential answer — his polymetric, mathematically precise drumming since 1990 directly birthed the djent movement and remains the technique's most imitated reference point. Mario Duplantier of Gojira and Danny Carey of Tool are the strongest alternative answers, each applying polyrhythm through a distinct musical tradition (tribal groove and jazz/world music, respectively) rather than Haake's mechanical precision.
 
 **Q: What is the difference between polyrhythmic metal and djent?**
 A: Djent is a specific genre built on Meshuggah's palm-muted, polymetric guitar tone and rhythmic vocabulary. Polyrhythmic metal is broader — it describes the underlying rhythmic technique (simultaneous conflicting subdivisions) wherever it appears, including in bands that predate or sit outside djent entirely, like Tool and Gojira. Every djent drummer on this list (Matt Garstka, Matt Halpern, Travis Orbin) is polyrhythmic, but not every polyrhythmic drummer plays djent.
@@ -24114,4 +24102,4 @@ All gear information is researched from:
 
 ================================================================================
 # End of MetalForge Complete Database
-# Generated: 2026-10-15
+# Generated: 2026-10-28

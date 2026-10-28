@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/gavin-harrison"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Gavin Harrison — Drum Kit & Gear Setup
@@ -89,7 +89,7 @@ Gavin Harrison's drumming style is defined by sophisticated polyrhythmic concept
 **Tours:**
 
 - **Porcupine Tree World Tours** (2002-2010) — Extensive touring
-- **King Crimson Tours** (2014-2021) — Part of three-drummer lineup
+- **King Crimson Three-Drummer-Lineup Tours** (2014-2021) — Touring era with the three-drummer "05Ric" lineup, within his ongoing 2008-present King Crimson tenure
 - **The Pineapple Thief Tours** (2016-Present) — Ongoing touring
 - **Porcupine Tree Reunion Tour** (2022-2023) — Highly anticipated return
 
@@ -246,4 +246,4 @@ Dated brand-endorsement timeline: [Gavin Harrison's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

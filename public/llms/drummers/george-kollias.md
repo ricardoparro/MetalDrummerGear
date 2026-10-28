@@ -6,7 +6,7 @@ country: "Greece"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/george-kollias"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # George Kollias — Drum Kit & Gear Setup
@@ -39,7 +39,7 @@ George Kollias, born in 1977, is a Greek drummer known for his extreme speed and
 
 George Kollias (born August 30, 1977, in Korinth, Greece) is a Greek drummer best known as the drummer for American technical death metal band Nile since 2004. He is widely regarded as one of the most technically proficient drummers in extreme metal, known for his incredible speed, stamina, and precision.
 
-Beyond his work with Nile, Kollias is an accomplished drum educator, having released instructional DVDs and teaching at clinics worldwide. His signature products with Pearl Drums and Vic Firth reflect his status as an influential figure in modern extreme metal drumming.
+Beyond his work with Nile, Kollias is an accomplished drum educator, having released instructional DVDs and teaching at clinics worldwide. His signature snare with Pearl Drums and endorsement with Vic Firth reflect his status as an influential figure in modern extreme metal drumming.
 
 **August 30, 2026** marks George Kollias's 49th birthday. Fans continue to mark the anniversary by revisiting his blast-beat clinics and his run of albums with Nile — a body of work that remains a benchmark for technical death metal drumming.
 
@@ -51,7 +51,6 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
 - **2007** — Released "Ithyphallic" with Nile; began educational clinic tours
 - **2009** — Released "Those Whom the Gods Detest" to critical acclaim
 - **2010** — Released first instructional DVD: "Intense Metal Drumming"
-- **2012** — Received Vic Firth signature drumstick
 - **2015** — Co-designed Pearl Demon XR double pedal
 - **2017** — Released second instructional DVD: "Intense Metal Drumming II"
 - **2019** — Released "Vile Nilotic Rites" with Nile
@@ -242,4 +241,4 @@ Dated brand-endorsement timeline: [George Kollias's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

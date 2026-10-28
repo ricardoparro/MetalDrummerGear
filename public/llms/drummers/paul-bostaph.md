@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/paul-bostaph"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Paul Bostaph — Drum Kit & Gear Setup
@@ -47,11 +47,11 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
 
 - **1985** — Began drumming career in San Francisco Bay Area thrash scene
 - **1986** — Joined Forbidden (then Forbidden Evil), recorded debut album
-- **1992** — Joined Slayer following Dave Lombardo's departure
+- **1992** — Joined Slayer following Dave Lombardo's departure; also an interim touring drummer for Testament in 1992-1993
 - **1994** — First Slayer studio album "Divine Intervention" released
-- **1999** — Joined Testament while on hiatus from Slayer
 - **2001** — Left Slayer when Lombardo rejoined
 - **2005** — Joined Exodus for "Shovel Headed Kill Machine"
+- **2007** — Rejoined Testament full-time, recording "The Formation of Damnation"
 - **2013** — Rejoined Slayer following Lombardo's second departure
 - **2015** — Recorded "Repentless," first Slayer album without Jeff Hanneman
 - **2019** — Performed Slayer's final show at the Forum in Los Angeles
@@ -79,8 +79,8 @@ Paul Bostaph's drumming style combines technical precision with relentless power
 - **Slayer - Divine Intervention** (1994, American) — First Slayer album
 - **Slayer - Undisputed Attitude** (1996, American) — Punk covers album
 - **Slayer - Diabolus in Musica** (1998, American) — Groove metal era
-- **Testament - First Strike Still Deadly** (2001, Spitfire) — Re-recorded classics
 - **Exodus - Shovel Headed Kill Machine** (2005, Nuclear Blast) — Thrash revival
+- **Testament - The Formation of Damnation** (2008, Nuclear Blast) — Only studio album from his full-time 2007-2011 stint
 - **Slayer - Repentless** (2015, Nuclear Blast) — Final Slayer album
 
 **Tours:**
@@ -149,7 +149,7 @@ A: Paul Bostaph uses Remo Powerstroke 3, Emperor Coated, and Ambassador drumhead
 
 **Q: What band is Paul Bostaph in?**
 
-A: Paul Bostaph is Slayer's longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1999-2001, 2024-present), Exodus (2005-2007), and Forbidden (1986-1991).
+A: Paul Bostaph is Slayer's longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1992-1993, 2004, 2007-2011), Exodus (2005-2007), and Forbidden (1986-1991).
 
 **Q: How long did Paul Bostaph play with Slayer?**
 
@@ -226,4 +226,4 @@ Dated brand-endorsement timeline: [Paul Bostaph's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

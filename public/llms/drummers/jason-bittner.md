@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/jason-bittner"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Jason Bittner — Drum Kit & Gear Setup
@@ -31,7 +31,7 @@ Jason Bittner's drum kit and gear setup. Jason Bittner is a professional metal d
 
 Jason Bittner's drum kit is a Mapex Saturn V build — the all-maple shell pack he has used since joining Overkill in 2017, after building his reputation on the same platform across more than a decade with Shadows Fall, including the band's Grammy-nominated breakthrough The War Within (2004). The Jason Bittner drum set centers on his Mapex Black Panther 14x6.5" Brass snare, delivering the steel-edged crack that cuts through both NWOAHM's layered metalcore arrangements and Overkill's dense thrash riffing on records like The Art of Balance (2002).
 
-Zildjian K & A Custom Series cymbals complete the Jason Bittner drum kit: 14" K Hi-Hats for tight, controlled articulation; 18" and 19" A Custom Crashes for fast, explosive accents; a 21" K Custom Ride for dark rhythmic clarity; and an 18" K China for aggressive punctuation. A Mapex Falcon double pedal and Mapex T865 throne anchor the hardware, powering the sustained double-kick passages that define his dual NWOAHM/thrash vocabulary. Promark Jason Bittner Signature 5BX sticks and Evans heads complete a drum set built for two of metal's most demanding rhythmic traditions. For the full breakdown, see [Bittner's complete drum setup](/articles/jason-bittner-drum-setup), [his gear on The War Within](/articles/the-war-within-drum-setup), and the [cymbal setup](/drummer/jason-bittner/cymbals).
+Zildjian K & A Custom Series cymbals complete the Jason Bittner drum kit: 14" K Hi-Hats for tight, controlled articulation; 18" and 19" A Custom Crashes for fast, explosive accents; a 21" K Custom Ride for dark rhythmic clarity; and an 18" K China for aggressive punctuation. A Mapex Falcon double pedal anchors the hardware, powering the sustained double-kick passages that define his dual NWOAHM/thrash vocabulary. Promark Jason Bittner Signature 5BX sticks and Evans heads complete a drum set built for two of metal's most demanding rhythmic traditions. For the full breakdown, see [Bittner's complete drum setup](/articles/jason-bittner-drum-setup), [his gear on The War Within](/articles/the-war-within-drum-setup), and the [cymbal setup](/drummer/jason-bittner/cymbals).
 
 ## Biography
 
@@ -43,7 +43,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
 
 ## Career Highlights
 
-- **1999** — Joined Shadows Fall, New England metalcore band
+- **2001** — Joined Shadows Fall, New England metalcore band
 - **2002** — Released "The Art of Balance" with Shadows Fall, commercial breakthrough
 - **2004** — Released "The War Within," Grammy-nominated album
 - **2005** — Headlined Ozzfest with Shadows Fall
@@ -101,7 +101,7 @@ Jason Bittner's drumming combines thrash metal power with the groove and heavine
 - **Drums:** Mapex Saturn V
 - **Snare:** Mapex Black Panther 14x6.5" Brass
 - **Cymbals:** Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China)
-- **Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
+- **Hardware:** Mapex Falcon Double Pedal
 - **Sticks:** Promark Jason Bittner Signature 5BX
 - **Heads:** Evans
 
@@ -142,7 +142,7 @@ A: Jason Bittner plays his own signature Promark Jason Bittner Signature 5BX dru
 
 **Q: What bass drum pedal does Jason Bittner use?**
 
-A: Jason Bittner drives his sustained double-kick passages with a Mapex Falcon double pedal, seated on a Mapex T865 throne.
+A: Jason Bittner drives his sustained double-kick passages with a Mapex Falcon double pedal.
 
 **Q: What drumheads does Jason Bittner use?**
 
@@ -150,7 +150,7 @@ A: Jason Bittner uses Evans drumheads across his Mapex Saturn V kit.
 
 **Q: What band is Jason Bittner in?**
 
-A: Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (1999-2015) and Flotsam and Jetsam (2013-2017).
+A: Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (2001-2015) and Flotsam and Jetsam (2013-2017).
 
 **Q: What hi-hats does Jason Bittner use?**
 
@@ -164,7 +164,7 @@ A: Jason Bittner plays 14" Zildjian K Hi-Hats, part of the K and A Custom cymbal
 - Has been a drum educator and clinician throughout his career
 - Seamlessly transitioned from metalcore to classic thrash with Overkill
 - Overkill has cited his work ethic and professionalism as reasons for hiring him
-- Connecticut native who has represented New England metal for decades
+- New York native who has represented New England metal for decades
 - Continues to be active with educational content and clinics
 - His powerful style has adapted well to Overkill's classic thrash sound
 
@@ -240,4 +240,4 @@ Dated brand-endorsement timeline: [Jason Bittner's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

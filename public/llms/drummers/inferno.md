@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/inferno"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Inferno — Drum Kit & Gear Setup
@@ -136,7 +136,7 @@ A: Inferno's snare is a Pearl Reference 14"x5" Steel, tuned for maximum cutting 
 
 **Q: What sticks does Inferno use?**
 
-A: Inferno uses Vic Firth American Classic 2B drumsticks.
+A: Inferno uses Vic Firth American Classic Extreme 5B drumsticks.
 
 **Q: What bass drum pedal does Inferno use?**
 
@@ -242,4 +242,4 @@ Dated brand-endorsement timeline: [Inferno's endorsement history](https://metalf
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

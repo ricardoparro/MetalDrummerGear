@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/matt-garstka"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Matt Garstka — Drum Kit & Gear Setup
@@ -114,7 +114,7 @@ Matt Garstka's drumming represents a new paradigm in progressive metal—combini
 
 **Q: What drum kit does Matt Garstka use?**
 
-A: Matt Garstka's drum kit is a DW Collector's Series custom shop build, mixing Collector's Series wood species and shell configurations, which he switched to in September 2021 after playing Tama for his first two Animals as Leaders albums. It's anchored by a DW Collector's Series Purpleheart snare, cutting through dense odd-meter passages.
+A: Matt Garstka's drum kit is a DW Collector's Series custom shop build, mixing Collector's Series wood species and shell configurations, which he switched to in September 2021 after playing Pearl for his first two Animals as Leaders albums. It's anchored by a DW Collector's Series Purpleheart snare, cutting through dense odd-meter passages.
 
 **Q: What drum set does Matt Garstka use?**
 
@@ -232,4 +232,4 @@ Dated brand-endorsement timeline: [Matt Garstka's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

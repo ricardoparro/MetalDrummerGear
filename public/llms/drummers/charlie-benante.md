@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/charlie-benante"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Charlie Benante — Drum Kit & Gear Setup
@@ -31,7 +31,7 @@ Charlie Benante's drum kit and gear setup. Charlie Benante is a professional met
 
 Charlie Benante's drum kit is a Tama Starclassic Maple setup — the configuration he has refined across more than four decades as Anthrax's founding drummer and thrash metal's pioneering architect of the blast beat and sustained double bass technique. The Charlie Benante drum set is anchored by his Tama Charlie Benante Signature snare drum — a 14×6.5" model tuned for maximum cut, delivering the sharp crack that has driven Anthrax from [Spreading the Disease (1985)](/articles/spreading-the-disease-drum-setup) through [For All Kings (2016)](/articles/for-all-kings-drum-setup) and into his current Pantera reunion performances.
 
-Paiste RUDE and 2002 Series cymbals complete the Charlie Benante drum kit: 14" Hi-Hats for crisp thrash articulation; 18" and 19" Crashes for rapid-fire accents; a 20" Power Ride for rhythmic authority on Big Four stages; and an 18" China for explosive punctuation. A Tama Speed Cobra double pedal — replacing the HP35 Camco pedals he used for 29 years — drives his relentless double kick patterns. Vic Firth Charlie Benante Signature sticks and Roland electronic triggers complete a drum set that built thrash metal's rhythmic foundation. For the full gear breakdown, see the [Charlie Benante Anthrax kit](/articles/whats-in-charlie-benantes-kit).
+Paiste RUDE and 2002 Series cymbals complete the Charlie Benante drum kit: 14" Hi-Hats for crisp thrash articulation; 18" and 19" Crashes for rapid-fire accents; a 20" Power Ride for rhythmic authority on Big Four stages; and an 18" China for explosive punctuation. A Tama Speed Cobra double pedal — replacing the HP35 Camco pedals he used for 26 years — drives his relentless double kick patterns. Vic Firth Charlie Benante Signature sticks and Roland electronic triggers complete a drum set that built thrash metal's rhythmic foundation. For the full gear breakdown, see the [Charlie Benante Anthrax kit](/articles/whats-in-charlie-benantes-kit).
 
 ## Biography
 
@@ -220,4 +220,4 @@ Dated brand-endorsement timeline: [Charlie Benante's endorsement history](https:
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

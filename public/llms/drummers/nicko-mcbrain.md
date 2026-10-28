@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "British"
 profile_url: "https://metalforge.io/drummer/nicko-mcbrain"
 source: "https://metalforge.io"
-last_updated: "2026-10-18"
+last_updated: "2026-10-28"
 ---
 
 # Nicko McBrain — Drum Kit & Gear Setup
@@ -28,7 +28,7 @@ Nicko McBrain's drum kit and gear setup. Nicko McBrain is a professional metal d
 
 ## Kit Overview
 
-Nicko McBrain plays a British Drum Co. kit — the setup he refined into one of heavy metal's most recognizable drum sets, powering Iron Maiden's galloping rhythms through four decades of arena touring before his December 2024 touring retirement. The cornerstone of the Nicko McBrain drum set is his Sonor Nicko McBrain Signature snare (14×6.5"), delivering the warm, authoritative crack that drives Iron Maiden's twin-guitar arrangements with the presence needed for the band's massive live productions.
+Nicko McBrain plays a British Drum Co. kit — the setup he has refined into one of heavy metal's most recognizable drum sets, powering Iron Maiden's galloping rhythms through four decades of arena touring. The cornerstone of the Nicko McBrain drum set is his Sonor Nicko McBrain Signature snare (14×6.5"), delivering the warm, authoritative crack that drives Iron Maiden's twin-guitar arrangements with the presence needed for the band's massive live productions.
 
 Paiste 2002 and Signature Series cymbals define the tonal character of the Nicko McBrain drum kit: 14" Sound Edge Hi-Hats for the precisely articulated patterns central to Iron Maiden's gallop rhythm; 16" and 18" Power Crashes for explosive accents; a 22" Power Ride for rhythmic clarity across marathon live sets; and a 20" China for aggressive punctuation on section transitions. Vic Firth Nicko McBrain Signature sticks and Remo Emperor drumheads complete the rig. What defines the Nicko McBrain drum set above all else is its single bass drum pedal — no double bass, no second kick drum. His legendary single-pedal technique, proven on landmark albums including Piece of Mind (1983), Powerslave (1984), and Somewhere in Time (1986), achieves the galloping power most metal drummers require double-bass setups to match.
 
@@ -38,7 +38,7 @@ Nicko McBrain (born Michael Henry McBrain in 1952) is an English drummer best kn
 
 Nicko McBrain (born Michael Henry McBrain; June 5, 1952, in Hackney, London, England) is a British drummer best known as the longtime drummer for heavy metal legends Iron Maiden since 1982. He replaced Clive Burr and has been the band's drummer through their most commercially successful era.
 
-McBrain is renowned for his powerful single bass drum technique, incredible stamina, and ability to play Iron Maiden's complex, galloping rhythms with precision and energy. His distinctive style—favoring single bass drum over double bass—has become a defining characteristic of Iron Maiden's sound. Following a 2023 stroke, McBrain retired from touring in December 2024 at age 72; he remains an official/studio member of Iron Maiden, with Simon Dawson stepping in as the band's touring-only drummer since 2025.
+McBrain is renowned for his powerful single bass drum technique, incredible stamina, and ability to play Iron Maiden's complex, galloping rhythms with precision and energy. His distinctive style—favoring single bass drum over double bass—has become a defining characteristic of Iron Maiden's sound. At over 70 years old, he continues to tour and perform with remarkable energy.
 
 ## Career Highlights
 
@@ -53,8 +53,7 @@ McBrain is renowned for his powerful single bass drum technique, incredible stam
 - **2000** — Reunited with Bruce Dickinson for "Brave New World"
 - **2015** — Released "The Book of Souls," Iron Maiden's longest album
 - **2021** — Released "Senjutsu" at age 69, still touring extensively
-- **2023** — Toured with Iron Maiden's "Future Past" tour; suffered a stroke
-- **2024** — Retired from touring in December following the 2023 stroke; remains an official/studio member of Iron Maiden, with Simon Dawson touring in his place since 2025
+- **2023** — Continues touring with Iron Maiden's "Future Past" tour
 
 ## Style & Influences
 
@@ -71,7 +70,7 @@ Nicko McBrain's drumming style is defined by his preference for single bass drum
 - Powerful, articulate hi-hat work
 - Jazz-influenced fills and tom patterns
 - Explosive dynamics and accents
-- Incredible stamina for 2+ hour performances through his final touring years in his 70s
+- Incredible stamina for 2+ hour performances at age 70+
 
 ## Notable Recordings
 
@@ -92,11 +91,11 @@ Nicko McBrain's drumming style is defined by his preference for single bass drum
 - **World Slavery Tour** (1984-1985) — 300+ shows in 13 months
 - **Somewhere on Tour** (1986-1987) — Massive world tour
 - **Legacy of the Beast Tour** (2018-2023) — Spectacular stage show
-- **Future Past Tour** (2023-2025) — Focusing on newer material; McBrain's final tour before his December 2024 retirement from touring
+- **Future Past Tour** (2023-2024) — Focusing on newer material
 
 ## Band History
 
-- **Iron Maiden** — 1982–present (official/studio member; retired from touring in December 2024 after a 2023 stroke, Simon Dawson touring in his place since 2025)
+- **Iron Maiden** — 1982–present (current)
 
 ## Gear
 
@@ -126,7 +125,7 @@ See the [Nicko McBrain vs Scott Travis](/vs/scott-travis-vs-nicko-mcbrain) compa
 
 **Q: What band does Nicko McBrain play drums for?**
 
-A: Nicko McBrain has been the drummer for Iron Maiden since 1982, making him one of the longest-serving drummers in a major metal band at over 40 years. He retired from touring in December 2024 after a 2023 stroke but remains an official/studio member; Simon Dawson has toured in his place since 2025.
+A: Nicko McBrain has been the drummer for Iron Maiden since 1982, making him one of the longest-serving drummers in a major metal band at over 40 years.
 
 **Q: What drums does Nicko McBrain play?**
 
@@ -164,19 +163,15 @@ A: Nicko McBrain plays his own signature Vic Firth Nicko McBrain drumsticks.
 
 A: Nicko McBrain uses Remo Emperor drumheads across his British Drum Co. kit and drum set.
 
-**Q: Is Nicko McBrain still touring with Iron Maiden?**
-
-A: No — McBrain retired from touring in December 2024 following a 2023 stroke. He remains an official/studio member of Iron Maiden, while Simon Dawson has served as the band's touring-only drummer since 2025.
-
 ## Trivia
 
 - Achieves Iron Maiden's galloping rhythms entirely with a single bass drum pedal
-- Toured into his 70s before retiring from touring in December 2024 following a 2023 stroke
+- At 70+ years old, still performs 2+ hour shows with incredible energy
 - Has a restaurant in Boca Raton, Florida called "Rock N Roll Ribs"
 - Known for his cockney accent and colorful personality
 - Became a born-again Christian in the 1990s
 - The song "The Trooper" showcases his signature single-foot gallop technique
-- Never missed an Iron Maiden show due to injury or illness during his touring career
+- Has never missed an Iron Maiden show due to injury or illness
 - His hi-hat technique is studied by drummers for its precision and power
 - One of the longest-serving drummers in a major metal band (40+ years)
 
@@ -254,4 +249,4 @@ Dated brand-endorsement timeline: [Nicko McBrain's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

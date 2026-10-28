@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/matt-halpern"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Matt Halpern — Drum Kit & Gear Setup
@@ -23,14 +23,14 @@ Matt Halpern's drum kit and gear setup. Matt Halpern is a professional metal dru
 | Country | USA |
 | Primary brand | Pearl |
 | Drum kit | Pearl Reference Series |
-| Signature snare | Pearl Reference 14x6.5" Brass |
+| Signature snare | Pearl Matt Halpern Signature 14x6" Brass (MH1460/B) |
 | Sticks | Promark Matt Halpern Signature |
 
 ## Kit Overview
 
 Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range and articulate response across Periphery's complex polyrhythmic arrangements. As one of the key architects of the djent movement and a Berklee College of Music graduate, Halpern has built one of progressive metal's most studied drum sets, balancing technical precision with an organic, groove-focused feel.
 
-The centerpiece of the Matt Halpern drum kit is his Pearl Reference 14×6.5" Brass snare drum, delivering cutting, focused crack that sits precisely within Periphery's dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan. The Matt Halpern drum set features Meinl Byzance Series cymbals throughout: 15" Dark Hi-Hats for a dry, controlled feel on odd-time grooves; 18" and 20" Extra Dry Medium Crashes for quick-decaying accents; a 22" Transition Ride for clear articulation in complex patterns; and an 18" Extra Dry China for aggressive punctuation. A Pearl Demon Drive double pedal drives the precise double bass lines beneath djent's syncopated rhythms. Promark Matt Halpern Signature sticks complete the rig.
+The centerpiece of the Matt Halpern drum kit is his own Pearl Matt Halpern Signature snare drum (MH1460/B) — a 14x6" 1.5mm brass shell with a black powder-coat finish, delivering cutting, focused crack that sits precisely within Periphery's dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan. The Matt Halpern drum set features Meinl Byzance Series cymbals throughout: 14" Traditional Medium Hi-Hats for balanced articulation on odd-time grooves; 18" and 20" Traditional Extra Thin Hammered Crashes for quick-decaying accents; a 21" Byzance Dark Double Down Crash-Ride (his signature model) for clear articulation in complex patterns; and his co-developed Artist Concept "Double Down Stack" for aggressive punctuation. A Pearl Demon Drive double pedal drives the precise double bass lines beneath djent's syncopated rhythms. Promark Matt Halpern Signature sticks complete the rig.
 
 ## Biography
 
@@ -95,8 +95,8 @@ Matt Halpern's drumming combines academic precision with organic groove. His pla
 ## Gear
 
 - **Drums:** Pearl Reference Series
-- **Snare:** Pearl Reference 14x6.5" Brass
-- **Cymbals:** Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China)
+- **Snare:** Pearl Matt Halpern Signature 14x6" Brass (MH1460/B)
+- **Cymbals:** Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack")
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Matt Halpern Signature
 
@@ -117,19 +117,19 @@ Matt Halpern's drumming combines academic precision with organic groove. His pla
 
 **Q: What drum kit does Matt Halpern use?**
 
-A: Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery's complex polyrhythmic arrangements; the specific snare model has not been independently verified.
+A: Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery's complex polyrhythmic arrangements, built around his Pearl Matt Halpern Signature snare.
 
 **Q: What drum set does Matt Halpern use?**
 
-A: Matt Halpern's drum set pairs Pearl Reference Series shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent's syncopated rhythms; the specific snare model has not been independently verified.
+A: Matt Halpern's drum set pairs Pearl Reference Series shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent's syncopated rhythms.
 
 **Q: What cymbals does Matt Halpern play?**
 
-A: Matt Halpern plays Meinl Byzance Series cymbals: 14" Byzance Traditional Medium Hi-Hats, 18" and 20" Byzance Traditional Extra Thin Hammered Crashes, a 22" Byzance Sand Crash-Ride, and a 10" Byzance Traditional Splash, plus his signature Meinl Artist Concept "Double Down Stack".
+A: Matt Halpern plays Meinl Byzance Series cymbals: 14" Byzance Traditional Medium Hi-Hats, 18" and 20" Byzance Traditional Extra Thin Hammered Crashes, and a 21" Byzance Dark Double Down Crash-Ride, plus his signature Meinl Artist Concept "Double Down Stack".
 
 **Q: What snare does Matt Halpern use?**
 
-A: Matt Halpern's snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.
+A: Matt Halpern plays his own signature Pearl Matt Halpern Signature Snare (MH1460/B), a 14"x6" 1.5mm brass shell with a black powder-coat finish.
 
 **Q: What sticks does Matt Halpern use?**
 
@@ -196,6 +196,8 @@ Dated brand-endorsement timeline: [Matt Halpern's endorsement history](https://m
 
 - [Pearl Drums](https://pearldrum.com)
 - [Meinl Cymbals Artist Profile](https://meinlcymbals.com/en/artists/matt-halpern-a1523.html)
+- [Sweetwater: Pearl Matt Halpern Signature Snare Drum (MH1460/B)](https://www.sweetwater.com/store/detail/MH1460B--pearl-matt-halpern-signature-snare-drum-14-by-6-inch)
+- [Drum-Tec: Meinl Byzance Matt Halpern Artist's Choice Cymbal Set](https://www.drum-tec.com/meinl-byzance-matt-halpern-artist-s-choice-cymbal-set-a-cs2)
 - [Drumeo](https://www.drumeo.com)
 - [Wikipedia: Matt Halpern](https://en.wikipedia.org/wiki/Matt_Halpern)
 
@@ -205,4 +207,4 @@ Dated brand-endorsement timeline: [Matt Halpern's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

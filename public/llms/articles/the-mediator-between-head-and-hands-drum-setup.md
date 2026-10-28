@@ -1,6 +1,6 @@
 # Sepultura "The Mediator Between Head and Hands Must Be the Heart" Drum Setup: Eloy Casagrande's 2013 Debut
 
-> Eloy Casagrande's first studio album with Sepultura — The Mediator Between Head and Hands Must Be the Heart (2013) drum setup breakdown. Tama Starclassic Bubinga shells, Paiste RUDE/2002 cymbals, the raw Ross Robinson sessions that introduced a 21-year-old prodigy to thrash metal's biggest stage.
+> Eloy Casagrande's first studio album with Sepultura — The Mediator Between Head and Hands Must Be the Heart (2013) drum setup breakdown. Tama Starclassic Bubinga shells, Paiste RUDE/2002 cymbals, the raw Ross Robinson sessions that introduced a 22-year-old prodigy to thrash metal's biggest stage.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Eloy Casagrande](/llms/drummers/eloy-casagrande.md)
@@ -12,9 +12,9 @@
 
 ## Overview
 
-When Sepultura released *The Mediator Between Head and Hands Must Be the Heart* on October 25, 2013, via Nuclear Blast, it introduced the world to a 21-year-old drummer who would go on to anchor the band for over a decade: Eloy Casagrande. Eloy had joined Sepultura in 2011 at age 20, but *The Mediator* — the band's thirteenth studio album — was the first full-length record to capture his playing in the studio, four years before *Machine Messiah* became his definitive international statement.
+When Sepultura released *The Mediator Between Head and Hands Must Be the Heart* on October 25, 2013, via Nuclear Blast, it introduced the world to a 22-year-old drummer who would go on to anchor the band for over a decade: Eloy Casagrande. Eloy had joined Sepultura in 2011 at age 20, but *The Mediator* — the band's thirteenth studio album — was the first full-length record to capture his playing in the studio, four years before *Machine Messiah* became his definitive international statement.
 
-The album reunited Sepultura with Ross Robinson, the producer behind their landmark 1996 record *Roots*. Robinson is known across metal and nu-metal — Korn, Slipknot, At the Drive-In — for an intensely raw, emotionally driven production philosophy: live takes, minimal overdubbing, performances captured in the moment rather than assembled afterward. For a 21-year-old drummer making his recorded debut with one of thrash metal's most important bands, this was a trial by fire rather than a controlled studio introduction.
+The album reunited Sepultura with Ross Robinson, the producer behind their landmark 1996 record *Roots*. Robinson is known across metal and nu-metal — Korn, Slipknot, At the Drive-In — for an intensely raw, emotionally driven production philosophy: live takes, minimal overdubbing, performances captured in the moment rather than assembled afterward. For a 22-year-old drummer making his recorded debut with one of thrash metal's most important bands, this was a trial by fire rather than a controlled studio introduction.
 
 The sessions took place over 40 days in June 2013 at Robinson's own studio in Venice, California, co-produced by Steve Evetts. The album was mixed at Omen Room Studios in Anaheim and mastered by Alan Douches at West West Side Studios in New Windsor, New York. Its title is drawn from a line in Fritz Lang's 1927 film *Metropolis* — "The Mediator Between Head and Hands Must Be the Heart" — reflecting the album's thematic concern with the gap between intellect and labor, and the human connection needed to bridge it.
 
@@ -33,7 +33,7 @@ Eloy's gear for the sessions: a Tama Starclassic Bubinga kit, Paiste RUDE and 20
 
 For *The Mediator*, Eloy Casagrande recorded with the Tama Starclassic Bubinga — the kit that became his first major endorsement-level setup, and the same series he would later expand for his Slipknot tenure a decade on. The Bubinga/Birch hybrid construction pairs the dense, exotic hardwood's powerful low frequencies with birch's focused attack, a combination built for cutting through aggressive, distortion-heavy mixes.
 
-Twin 22" x 18" bass drums, driven by a single Tama Iron Cobra Power Glide double pedal, gave the 21-year-old the double-bass foundation that would define his playing throughout his career. The compact three-piece tom configuration — two rack toms and a single 16" floor tom — reflected a leaner, more direct setup than the expanded five-tom rig he would later use with Slipknot, suited to *The Mediator*'s stripped-down, aggressive material.
+Twin 22" x 18" bass drums, driven by a single Tama Iron Cobra Power Glide double pedal, gave the 22-year-old the double-bass foundation that would define his playing throughout his career. The compact three-piece tom configuration — two rack toms and a single 16" floor tom — reflected a leaner, more direct setup than the expanded five-tom rig he would later use with Slipknot, suited to *The Mediator*'s stripped-down, aggressive material.
 
 Ross Robinson's recording philosophy left the Bubinga's natural character largely untouched: minimal compression, performances captured as close to a live take as a studio allows. The result is a drum sound that favors raw power and immediacy over the polished, layered production Eloy's later albums with Jens Bogren would pursue.
 
@@ -41,7 +41,7 @@ Ross Robinson's recording philosophy left the Bubinga's natural character largel
 
 Eloy's snare on *The Mediator* was the Tama S.L.P. (Sound Lab Project) Big Black Steel — a deep, dark-finished steel snare built for maximum crack and projection. At 6.5" deep, it sits deeper than the 5.5" snares Eloy would favor in later years, delivering a fuller body alongside the steel shell's characteristic bite.
 
-Ross Robinson's engineering captured the snare close and direct, in keeping with his philosophy of minimal studio polish: the goal was a snare that hit like a live performance, not a sample-replaced, triggered sound common to much of mid-2010s metal production. For a 21-year-old drummer stepping into one of thrash metal's most demanding rhythmic chairs, that steel crack established his presence immediately.
+Ross Robinson's engineering captured the snare close and direct, in keeping with his philosophy of minimal studio polish: the goal was a snare that hit like a live performance, not a sample-replaced, triggered sound common to much of mid-2010s metal production. For a 22-year-old drummer stepping into one of thrash metal's most demanding rhythmic chairs, that steel crack established his presence immediately.
 
 ### Paiste RUDE and 2002: Raw Power for a Raw Record
 
@@ -51,7 +51,7 @@ The 2002 series crash and ride added a brighter, more controlled counterpart to 
 
 ## The Mediator: Where the Eloy Casagrande Arc Truly Begins
 
-*The Mediator Between Head and Hands Must Be the Heart* is the real beginning of the Eloy Casagrande story — four years before *Machine Messiah* introduced him to a wider international audience. The Tama Starclassic Bubinga, the Paiste RUDE and 2002 cymbals, the Tama Iron Cobra pedals: this was the setup of a 21-year-old who had just been trusted with one of thrash metal's most important rhythmic chairs, recording under one of metal production's most demanding, confrontational producers.
+*The Mediator Between Head and Hands Must Be the Heart* is the real beginning of the Eloy Casagrande story — four years before *Machine Messiah* introduced him to a wider international audience. The Tama Starclassic Bubinga, the Paiste RUDE and 2002 cymbals, the Tama Iron Cobra pedals: this was the setup of a 22-year-old who had just been trusted with one of thrash metal's most important rhythmic chairs, recording under one of metal production's most demanding, confrontational producers.
 
 **The Debut Before the Debut:**
 Everything that followed in Eloy's career — the polish of *Machine Messiah*, the peak of *Quadra*, the Slipknot chapter — traces back to the raw, unguarded performance captured in Ross Robinson's Venice studio in June 2013. For the complete Eloy arc, see the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande), the [Machine Messiah drum setup breakdown](/articles/machine-messiah-drum-setup), and the [Quadra drum setup breakdown](/articles/quadra-drum-setup).
@@ -109,4 +109,4 @@ A: Between The Mediator (2013) and Machine Messiah (2017), Eloy's setup evolved 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

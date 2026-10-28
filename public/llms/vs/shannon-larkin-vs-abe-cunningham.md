@@ -60,7 +60,7 @@ A: Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple 
 A: Abe Cunningham has been Deftones' drummer since co-founding the band in Sacramento, California in 1988, when he was still a teenager. He is one of only two original members still in the band, making him one of alternative metal's longest-serving drummers.
 
 **Q: What bands did Shannon Larkin play in before Godsmack?**
-A: Shannon Larkin played with Wrathchild America (1989–1991, later Souls at Zero), Ugly Kid Joe (1991–1997, including the hit "Everything About You"), Amen, and Candlebox before joining Godsmack in 2002.
+A: Shannon Larkin played with Wrathchild America (1989–1991, later Souls at Zero), Ugly Kid Joe (1991–1997, including the hit "Everything About You"), and Amen before joining Godsmack in 2002.
 
 **Q: What is Abe Cunningham's drumming style known for?**
 A: Abe Cunningham is known for unconventional, feel-first drumming that prioritizes space, dynamics, and emotional arc over technical complexity. His influences include John Bonham, Stewart Copeland, and Chad Sexton, and his playing on tracks like "Digital Bath" and "Elite" (which won a Grammy for Best Metal Performance) showcases his dynamic range.
@@ -74,4 +74,4 @@ A: Abe Cunningham is known for unconventional, feel-first drumming that prioriti
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

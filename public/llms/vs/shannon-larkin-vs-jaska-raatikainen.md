@@ -1,6 +1,6 @@
 # Shannon Larkin vs Jaska Raatikainen — Drum Kit Comparison
 
-> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Amen) and Jaska Raatikainen (Children of Bodom).
+> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America) and Jaska Raatikainen (Children of Bodom).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/shannon-larkin-vs-jaska-raatikainen
 
@@ -67,4 +67,4 @@ A: Jaska Raatikainen was a founding member of Children of Bodom in 1993 and rema
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # John Otto vs Shannon Larkin — Drum Kit Comparison
 
-> Side-by-side gear comparison between John Otto (Limp Bizkit) and Shannon Larkin (Godsmack / Ugly Kid Joe / Amen).
+> Side-by-side gear comparison between John Otto (Limp Bizkit) and Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/john-otto-vs-shannon-larkin
 
@@ -13,7 +13,7 @@ Limp Bizkit's John Otto vs Godsmack's Shannon Larkin. Nu-metal groove drumming c
 - **Drums:** Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic
 - **Cymbals:** Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom)
 - **Snare:** OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply
-- **Pedals/Hardware:** Gibraltar G Class Bass Drum Pedals, Gibraltar Custom Racks
+- **Pedals/Hardware:** Gibraltar Professional Series, Gibraltar Custom Racks
 - **Sticks:** Zildjian Artist Series
 
 ## Shannon Larkin Setup
@@ -26,7 +26,7 @@ Limp Bizkit's John Otto vs Godsmack's Shannon Larkin. Nu-metal groove drumming c
 
 ## Playing Style
 
-John Otto blends jazz sophistication with hip-hop grooves and heavy metal power in Limp Bizkit's rap-rock foundation — his drumming is syncopated, funky, and rhythmically inventive in ways that set him apart from most nu-metal contemporaries. Shannon Larkin drives Godsmack's hard rock machine with thunderous groove power, combining heavy rock authority with the dynamics and feel of a seasoned veteran who cut his teeth through Wrathchild America, Ugly Kid Joe, and Amen before joining the band in 2002.
+John Otto blends jazz sophistication with hip-hop grooves and heavy metal power in Limp Bizkit's rap-rock foundation — his drumming is syncopated, funky, and rhythmically inventive in ways that set him apart from most nu-metal contemporaries. Shannon Larkin drives Godsmack's hard rock machine with thunderous groove power, combining heavy rock authority with the dynamics and feel of a seasoned veteran who cut his teeth through Wrathchild America and Ugly Kid Joe before joining the band in 2002.
 
 ## Technique
 
@@ -56,7 +56,7 @@ A: John Otto plays an Orange County Drum and Percussion (OCDP) custom kit with Z
 A: John Otto studied at the Douglas Anderson School of the Arts in Jacksonville, Florida — the same school that produced Limp Bizkit bandmates. His jazz education is evident in his sophisticated ghost note patterns and syncopated groove work.
 
 **Q: What bands has Shannon Larkin played in?**
-A: Shannon Larkin has played with Wrathchild America, Ugly Kid Joe, Amen, and Godsmack. He joined Godsmack in 2002 and has been their drummer since, appearing on multiple platinum-selling albums.
+A: Shannon Larkin has played with Wrathchild America, Ugly Kid Joe, Another Animal, and Godsmack. He joined Godsmack in 2002 and has been their drummer since, appearing on multiple platinum-selling albums.
 
 ---
 
@@ -67,4 +67,4 @@ A: Shannon Larkin has played with Wrathchild America, Ugly Kid Joe, Amen, and Go
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

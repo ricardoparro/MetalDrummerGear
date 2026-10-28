@@ -26,7 +26,7 @@ Godsmack's Shannon Larkin vs Gojira's Mario Duplantier — dependable multi-plat
 
 ## Playing Style
 
-Shannon Larkin, born in 1967 in Chicago, became Godsmack's longtime drummer in 2002, driving the band's hard rock sound across multi-platinum albums including "Faceless" (2003), "IV" (2006), and "The Oracle" (2010) before departing in 2024, after earlier stints with Ugly Kid Joe, Wrathchild America, and Amen. Mario Duplantier co-founded progressive death metal band Gojira with his brother Joe Duplantier in Bayonne, France, in 1996, building crushing double bass patterns layered with tribal, polyrhythmic structures across albums like "From Mars to Sirius" (2005) and "Magma" (2016).
+Shannon Larkin, born in 1967 in Chicago, became Godsmack's longtime drummer in 2002, driving the band's hard rock sound across multi-platinum albums including "Faceless" (2003), "IV" (2006), and "The Oracle" (2010) before departing in 2024, after earlier stints with Ugly Kid Joe and Wrathchild America. Mario Duplantier co-founded progressive death metal band Gojira with his brother Joe Duplantier in Bayonne, France, in 1996, building crushing double bass patterns layered with tribal, polyrhythmic structures across albums like "From Mars to Sirius" (2005) and "Magma" (2016).
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Shannon Larkin built Godsmack's hard rock sound on solid, powerful grooves ac
 A: Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals, driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Mario Duplantier plays a Tama Starclassic Bubinga kit with a Tama S.L.P. 14x6.5" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal.
 
 **Q: What bands are Shannon Larkin and Mario Duplantier known for?**
-A: Shannon Larkin drummed for Godsmack from 2002 to 2024, and earlier played with Ugly Kid Joe, Wrathchild America, and Amen. Mario Duplantier co-founded Gojira with his brother Joe Duplantier in 1996 and remains the band's drummer.
+A: Shannon Larkin drummed for Godsmack from 2002 to 2024, and earlier played with Ugly Kid Joe and Wrathchild America. Mario Duplantier co-founded Gojira with his brother Joe Duplantier in 1996 and remains the band's drummer.
 
 **Q: Does Shannon Larkin have a signature stick line?**
 A: No — Shannon Larkin plays Vic Firth American Classic 5B sticks, a standard off-the-shelf model rather than a signature line.

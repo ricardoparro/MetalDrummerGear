@@ -1,6 +1,6 @@
 # Shannon Larkin vs Bill Ward — Drum Kit Comparison
 
-> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Amen) and Bill Ward (Black Sabbath).
+> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America) and Bill Ward (Black Sabbath).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/shannon-larkin-vs-bill-ward
 
@@ -67,4 +67,4 @@ A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

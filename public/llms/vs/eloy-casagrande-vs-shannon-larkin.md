@@ -1,6 +1,6 @@
 # Eloy Casagrande vs Shannon Larkin — Drum Kit Comparison
 
-> Side-by-side gear comparison between Eloy Casagrande (Slipknot) and Shannon Larkin (Godsmack / Ugly Kid Joe / Amen).
+> Side-by-side gear comparison between Eloy Casagrande (Slipknot) and Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America).
 
 **Category:** Extreme / Death / Black Metal · **URL:** https://metalforge.io/vs/eloy-casagrande-vs-shannon-larkin
 
@@ -67,4 +67,4 @@ A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride,
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-28 01:03 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-28 06:16 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 371 |
-| Sessions | 414 |
-| Page views | 610 |
-| Engagement rate | 59.66% |
-| Avg session (s) | 110 |
+| Active users | 391 |
+| Sessions | 437 |
+| Page views | 644 |
+| Engagement rate | 59.95% |
+| Avg session (s) | 107 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,35 +21,35 @@
 | / | 13 | 10 |
 | /drummer/frost | 12 | 5 |
 | /drummer/joey-jordison | 12 | 7 |
+| /drummers | 10 | 4 |
 | /drummers/mike-portnoy/evolution | 10 | 3 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
 | /drummer/hellhammer | 9 | 4 |
-| /drummers | 9 | 3 |
+| /drummer/shannon-larkin | 9 | 6 |
 | /drummer/john-otto | 8 | 6 |
-| /songs/fastest-metal-songs | 8 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 319 | 277 |
-| Direct | 92 | 92 |
-| Unassigned | 5 | 5 |
+| Organic Search | 337 | 292 |
+| Direct | 97 | 97 |
+| Unassigned | 6 | 6 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 124 | 110 |
+| United States | 134 | 118 |
 | Singapore | 38 | 38 |
 | China | 28 | 28 |
-| United Kingdom | 25 | 14 |
-| Australia | 16 | 12 |
+| United Kingdom | 26 | 15 |
+| Australia | 18 | 14 |
+| Canada | 14 | 14 |
 | Netherlands | 13 | 11 |
-| Canada | 12 | 12 |
 | Germany | 9 | 8 |
+| Brazil | 7 | 7 |
 | France | 7 | 7 |
-| Italy | 7 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

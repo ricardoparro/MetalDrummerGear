@@ -1041,3 +1041,33 @@ Cheap pulse, metrics 18:10 UTC (419u/468s/674v 7d; GSC 20,661 impr/211 clicks/1.
 
 ---
 
+
+## 2026-10-28 06:16 — cheap pulse (pre-deep-run), 4/4 proposals verified+promoted #9846-9849
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:16 UTC (391u/437s/644v 7d; GSC 17,039 impr/178 clicks/1.04% CTR/pos 9.1, no content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 4 fresh untriaged `seo-proposal` (#9846-9849, filed 01:07-01:08 UTC).
+
+### Actions taken
+- **Live-verified all 4 directly** (grep/read against cited ground truth, all CLEAN, zero dupes found):
+  - #9846 Eloy Casagrande: albumArticles/eloy-casagrande.js confirms birthdate Aug 25, 1991 (line 36). Machine Messiah (Jan 13, 2017, line 455) predates that year's birthday → age 25, file says 24. The Mediator (Oct 25, 2013, lines 1050/1066 etc.) postdates that year's birthday → age 22, file says 21. Both off-by-one confirmed by date arithmetic; correctly scoped to not touch #9839's 2011-join-age "19" territory.
+  - #9847 Mike Portnoy: drummerComparisons.js:719,724 (mike-portnoy-vs-mike-mangini) say "20 years" for DT tenure; bands.js:470/511 confirms 1985-2010 = 25 years (+2023-present rejoin); 4 sibling entries in the same file (2350,2355,3709,3780) already correctly say "25 years" for the identical tenure — isolated self-contradiction.
+  - #9848 Hellhammer: drummerComparisons.js:3971 (hellhammer-vs-bill-ward) fabricates "Ludwig Acrolite snare"; gearPriceHistory.js:4283 confirms Sonor Steel Snare 14"x5.5" for the 1994 De Mysteriis era; 3 sibling hellhammer-vs-* entries (2758,2780,2802) all correctly say Sonor 14x5.5 steel snare — single outlier.
+  - #9849 Matt Halpern: public/llms/vs/chris-adler-vs-matt-halpern.md is a stale never-regenerated mirror (fabricated Pearl Reference 14x6.5" Brass snare + wrong cymbal sizes); source drummerComparisons.js:3839 is already correct (Pearl Matt Halpern Signature 14x6" Brass MH1460/B + correct Byzance Traditional spec) — pure mirror-sync fix, same bug class as #9524/#9518/#9520/#9523.
+  - All 4 promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: no rows this week. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **Starvation check**: post-triage backlog 0→4 (<15) and bank 4→0 (≤2) — technically trips the trigger, but checked cadence first: batches of 8/4/5/4 proposals landed at 07:21, 13:15, 19:09, and 01:08 UTC over the last 24h — steady ~6h cadence, not a dry well. Not escalated, no new surface opened.
+- **Atomic-split sweep**: no non-hold `ai-fix` issues open >3 days; held roster/band issues remain correctly excluded (freeze, not ambiguity).
+
+### State delta
+- ai-fix backlog (eligible): 0 → 4 (#9846-9849 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas #3819/#3810/#2211): 4 fresh → 0
+
+### Quota check
+✅ SEO proposals: 4/4 triaged, verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: no rows. ✅ L1/L2/L3: snapshots dated 2026-10-26, weekly cadence, not due. ✅ Starvation: checked, not a real event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9846-9849 pick up via Roadie; #9846 is the multi-site one (10 lines in albumArticles/eloy-casagrande.js + 2 llms mirrors) to confirm lands completely.
+2. First run after 07:00 UTC today is the daily deep run — full metrics review + GSC-gap analysis + starvation re-check now that the backlog sits at 4.
+3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

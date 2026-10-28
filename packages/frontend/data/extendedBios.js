@@ -843,13 +843,13 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
         title: 'Overview',
         content: `Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) is a Brazilian drummer who joined Slipknot as their new drummer in 2024, following his 13-year tenure with legendary thrash metal band Sepultura. Named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, Casagrande's drum kit — a Tama Starclassic Bubinga configuration with Paiste cymbals and Tama Iron Cobra double pedal — is built for the extreme demands of Slipknot's live performances.
 
-Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented the new generation of metal drumming. His combination of traditional thrash metal power with modern technical elements has made him one of the most exciting and influential drummers in contemporary metal.`
+Starting drums at age 7 and joining Sepultura at just 20, Casagrande represented the new generation of metal drumming. His combination of traditional thrash metal power with modern technical elements has made him one of the most exciting and influential drummers in contemporary metal.`
       },
       careerHighlights: {
         title: 'Career Highlights',
         items: [
           { year: '1998', event: 'Began playing drums at age 7 in São Paulo, Brazil' },
-          { year: '2011', event: 'Joined Sepultura at age 19, replacing Jean Dolabella' },
+          { year: '2011', event: 'Joined Sepultura at age 20, replacing Jean Dolabella' },
           { year: '2013', event: 'Recorded first Sepultura album: "The Mediator Between Head and Hands Must Be the Heart"' },
           { year: '2017', event: 'Released "Machine Messiah" with Sepultura to critical acclaim' },
           { year: '2020', event: 'Released "Quadra" with Sepultura; gained international recognition' },
@@ -911,7 +911,7 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
         title: 'Trivia & Notes',
         items: [
           'Started playing drums at age 7 in São Paulo, Brazil',
-          'Joined Sepultura at just 19 years old, one of the youngest members ever',
+          'Joined Sepultura at just 20 years old, one of the youngest members ever',
           'Named #1 metal drummer in Modern Drummer 2024 Readers\' Poll',
           'Is the first Brazilian drummer to join Slipknot',
           'Had to learn Slipknot\'s extensive catalog for his new role',

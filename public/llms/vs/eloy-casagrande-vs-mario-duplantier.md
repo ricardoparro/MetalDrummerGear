@@ -26,7 +26,7 @@ Slipknot/Sepultura's Eloy Casagrande vs Gojira's Mario Duplantier — Brazilian 
 
 ## Playing Style
 
-Eloy Casagrande joined Sepultura at just 19 in 2011, spending 13 years driving the band's thrash engine before joining Slipknot in 2024 to replace Jay Weinberg, and was voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll. Mario Duplantier co-founded Gojira with his brother Joe in Bayonne, France, in 1996, building a progressive death metal style defined by tribal, ceremonial grooves layered over crushing double bass on albums like "From Mars to Sirius" (2005) and "Magma" (2016).
+Eloy Casagrande joined Sepultura at just 20 in 2011, spending 13 years driving the band's thrash engine before joining Slipknot in 2024 to replace Jay Weinberg, and was voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll. Mario Duplantier co-founded Gojira with his brother Joe in Bayonne, France, in 1996, building a progressive death metal style defined by tribal, ceremonial grooves layered over crushing double bass on albums like "From Mars to Sirius" (2005) and "Magma" (2016).
 
 ## Technique
 

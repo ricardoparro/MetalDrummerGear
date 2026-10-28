@@ -11,7 +11,7 @@
 
 When Slipknot needed a new drummer in 2024, they didn't just need someone who could play — they needed someone who could fill the massive shoes left by Joey Jordison and Jay Weinberg. They found their answer in a 33-year-old Brazilian phenomenon who had spent 13 years powering one of thrash metal's most legendary bands: Eloy Casagrande.
 
-Born August 25, 1991, in São Paulo, Brazil, Eloy started drumming at age 7 and joined Sepultura — yes, THE Sepultura — at just 19 years old. For over a decade, he proved himself against some of the most demanding drum parts in thrash metal, from "Arise" to "Roots" to the band's modern material. When the Modern Drummer 2024 Readers' Poll named him the #1 metal drummer in the world, it wasn't a surprise to anyone who had been paying attention.
+Born August 25, 1991, in São Paulo, Brazil, Eloy started drumming at age 7 and joined Sepultura — yes, THE Sepultura — at just 20 years old. For over a decade, he proved himself against some of the most demanding drum parts in thrash metal, from "Arise" to "Roots" to the band's modern material. When the Modern Drummer 2024 Readers' Poll named him the #1 metal drummer in the world, it wasn't a surprise to anyone who had been paying attention.
 
 Now, in 2026, Eloy stands behind a completely redesigned kit, bringing his explosive Brazilian energy to Slipknot's theatrical chaos. It's a role that demands everything: the speed of Joey's classic work, the groove of Jay's tenure, and the endurance to deliver it all while wearing a mask in stadium-sized venues night after night.
 

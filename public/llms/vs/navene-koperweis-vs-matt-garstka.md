@@ -26,7 +26,7 @@ Navene Koperweis vs Matt Garstka: the founding technical drummer versus the succ
 
 ## Playing Style
 
-Navene Koperweis (born 1985, San Jose, California) built his reputation in technical death metal with The Faceless and Animosity before joining instrumental djent pioneers Animals as Leaders in 2009 for the "Weightless" (2011) touring cycle — establishing the polyrhythmic, technical-death-metal-informed drumming that helped define the band's early sound. He departed in 2012, when Matt Garstka took over the drum chair, going on to found progressive metal outfit Entheos and build a parallel career as a producer and session drummer for Job for a Cowboy and Machine Head. Garstka brought a jazz-fusion education and virtuosic technical vocabulary to the chair Koperweis vacated, heard throughout "The Joy of Motion" (2014) and "The Madness of Many" (2016) — his own tenure now more than a decade long, several times the length of Koperweis's run in the band.
+Navene Koperweis (born 1985, San Jose, California) built his reputation in technical death metal with The Faceless and Animosity before joining instrumental djent pioneers Animals as Leaders in 2009 for the "Weightless" (2011) touring cycle — establishing the polyrhythmic, technical-death-metal-informed drumming that helped define the band's early sound. He departed in 2012, when Matt Garstka took over the drum chair, going on to found progressive metal outfit Entheos in 2015 and build a parallel career as a producer and session drummer for Job for a Cowboy and Machine Head. Garstka brought a jazz-fusion education and virtuosic technical vocabulary to the chair Koperweis vacated, heard throughout "The Joy of Motion" (2014) and "The Madness of Many" (2016) — his own tenure now more than a decade long, several times the length of Koperweis's run in the band.
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Yes. Navene Koperweis drummed for Animals as Leaders through the "Weightless"
 A: Navene Koperweis plays a DW Performance Series kit with a DW Performance steel snare and Meinl Byzance Extra Dry cymbals. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals, powered by a Tama Speed Cobra 910 Double Pedal.
 
 **Q: What did Navene Koperweis do after leaving Animals as Leaders?**
-A: After departing Animals as Leaders in 2012, Navene Koperweis founded progressive metal band Entheos and built a parallel career as a producer and session drummer for acts including Job for a Cowboy and Machine Head.
+A: After departing Animals as Leaders in 2012, Navene Koperweis went on to found progressive metal band Entheos in 2015, building a parallel career as a producer and session drummer for acts including Job for a Cowboy and Machine Head.
 
 **Q: Is Matt Garstka jazz trained?**
 A: Yes — Matt Garstka's playing blends jazz fusion, electronic music, and progressive metal, and his jazz-influenced training is central to the linear independence and ghost-note complexity he brings to Animals as Leaders' instrumental compositions, distinguishing his approach from founding-era drummer Navene Koperweis's technical death metal roots.
@@ -67,4 +67,4 @@ A: Yes — Matt Garstka's playing blends jazz fusion, electronic music, and prog
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

@@ -14660,3 +14660,48 @@ Started by chasing the two held-back candidates flagged at the end of the prior 
 3. Drum-chair watch: not due this run (Tuesday); next due Monday 2026-11-02, group 1.
 4. Held-back candidates ready to pick up: Mike Portnoy/Mangini "20 years" soft phrasing, and the 2 off-by-one album-era ages in `albumArticles/eloy-casagrande.js` (both logged above).
 5. `drummerComparisons.js` sweep continues to be productive (6 drummers checked this run, 3 new fabrications found across 2) — good candidate to continue next run with another fresh batch of top-traffic/top-query drummer names.
+
+---
+
+## 2026-10-28 (run, Wednesday, ~01:0x UTC) — drummerComparisons.js sweep continuation + Eloy Casagrande album-age follow-up, 4 filed (#9846-9849)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged.
+- `/llms/*.md`: 2,027 markdown files total, 72 under `public/llms/drummers/` — unchanged.
+- Bank check: 9 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #3819/#3810/#2211 + #9837/#9839-9842 from the 10-27 19:0x run, already CEO-triaged per decisions-log 2026-10-28 00:22) — effectively 0 fresh untriaged, well under the 45 floor → filed 4 (quality-first, matched to confirmed findings, not padded to 8).
+- Content-gap: 0 rows this week — metrics.md table fully empty ("no significant gaps detected — all queries with traction have decent CTR"), an improvement over the prior run's single known-oscillator row. No action.
+- Drum-chair watch: today is Wednesday — not the Monday trigger day, section skipped per instructions.
+
+### Metrics readout
+- GSC 7d: 17,039 impr / 178 clicks / 1.04% CTR / pos 9.1 (metrics.md, refreshed 01:03 UTC).
+- GA4 7d: 371u/414s/610v. Top pages: `/drummer/mario-duplantier` (14v), `/` (13v), `/drummer/frost` (12v), `/drummer/joey-jordison` (12v), `/drummers/mike-portnoy/evolution` (10v), `/drummers/vinnie-paul/evolution` (10v).
+
+### Method
+Followed up on two threads from the prior (10-27 19:0x) run's notes and continued the `drummerComparisons.js` sweep with a fresh batch of top-traffic/top-query drummers:
+- **Eloy Casagrande album-era age off-by-one**: the prior run's #9839 had explicitly carved this out as "a separate, lower-confidence finding not in this issue's scope" (Machine Messiah "24" should be 25, The Mediator "21" should be 22, computed from the Aug 25 1991 consensus birthdate vs. the Jan 13 2017 / Oct 25 2013 release dates). Independently re-verified both computations and all cited lines directly — confirmed genuine, not soft phrasing (precise date arithmetic, off by exactly one year both times) — filed as #9846, carefully scoped to not re-touch #9839's separate "19→20" join-age fix in the same file.
+- **Mike Portnoy/Mangini "20 years" wording**: re-verified directly — `drummerComparisons.js:719,724` (`mike-portnoy-vs-mike-mangini` entry) say "20 years" for Portnoy's Dream Theater tenure, while the same file's `ryan-van-poederooyen-vs-mike-portnoy` entry (lines 2350/2355) and 2 more locations (3709/3780) correctly say "25 years" for the identical 1985-2010 tenure (`bands.js:470/511`). Confirmed as a genuine internal inconsistency worth a minor fix — filed as #9847.
+- **drummerComparisons.js sweep continuation**: dispatched 3 parallel agents (3 drummers each, cap 2 findings each) on fresh top-traffic/top-GSC-query names not yet checked: Agent 1 (Hellhammer, Tomas Haake, Jay Weinberg) — Haake and Weinberg clean, found Hellhammer's snare fabricated as "Ludwig Acrolite" in the `hellhammer-vs-bill-ward` entry (verified Sonor Steel Snare 14x5.5" per `gearPriceHistory.js`, and inconsistent with every other `hellhammer-vs-*` entry in the same file) → #9848. Agent 2 (Chris Adler, Matt Halpern, Jaska Raatikainen) — Adler and Raatikainen clean (source `.js` entries for Halpern also clean), but found the generated `public/llms/vs/chris-adler-vs-matt-halpern.md` mirror still fabricates Halpern's snare/cymbal specs (Pearl Reference 14x6.5" Brass / wrong cymbal sizes) despite the source `drummerComparisons.js` entry already being correct — classic never-regenerated-mirror pattern (#9524/#9518/#9520/#9523 bug class, different file) → #9849. Agent 3 (Ben Koller, Mikkey Dee, Gavin Harrison) — all three fully clean across ~35 entries, zero findings.
+- Independently re-verified every cited line myself (dates, file:line, ground truth) before filing — not trusting subagent line numbers blindly; confirmed generator scripts exist for all affected mirrors (`generate-llms-articles.cjs`, `generate-llms-vs.cjs`).
+
+### Proposals filed this run
+1. #9846 — SEO: Eloy Casagrande age-at-album-release off-by-one — Machine Messiah '24' should be '25', The Mediator '21' should be '22'
+2. #9847 — SEO: Mike Portnoy Dream Theater tenure says '20 years' in mike-portnoy-vs-mike-mangini entry, sibling entries correctly say '25 years'
+3. #9848 — SEO: Hellhammer snare fabricated as 'Ludwig Acrolite' in hellhammer-vs-bill-ward entry — verified Sonor Steel Snare 14x5.5"
+4. #9849 — SEO: Matt Halpern gear fabricated in public/llms/vs/chris-adler-vs-matt-halpern.md mirror — source drummerComparisons.js is already correct
+
+### Held-back / not filed
+- None this run — all agent-surfaced candidates were either confirmed and filed, or confirmed clean.
+
+### Learned-patterns.md updates
+- None this run — all 4 findings are instances of already-documented fabrication classes (precise-date-arithmetic drift, internal self-contradiction, mirror-never-regenerated) recurring in files/drummers that simply hadn't been checked yet, not a new generalizable lesson.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9846-9849 (this run, 4 fresh)
+
+### Next run
+1. Watch #9846-9849 pick up via CEO triage then Roadie; confirm #9846 lands without interfering with #9839's separate "19→20" fix in the same file (sequencing matters if both are in-flight), #9848's mirror regeneration picks up the Sonor fix, and #9849's pure-regeneration fix doesn't require any source edit.
+2. Content-gap: 0 rows this week — no action.
+3. Drum-chair watch: not due this run (Wednesday); next due Monday 2026-11-02, group 1.
+4. `drummerComparisons.js` sweep continues to be productive (9 drummers checked this run across 3 agents, 2 new fabrications found); Ben Koller/Mikkey Dee/Gavin Harrison fully clean — good candidate to continue next run with another fresh batch of top-traffic/top-query drummer names not yet checked in this file.

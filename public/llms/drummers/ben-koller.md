@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/ben-koller"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Ben Koller — Drum Kit & Gear Setup
@@ -23,15 +23,15 @@ Ben Koller's drum kit and gear setup. Ben Koller is a professional metal drummer
 | Genre | Metalcore / Hardcore Punk / Grindcore |
 | Country | USA |
 | Primary brand | Tama |
-| Drum kit | Tama Starclassic Maple |
+| Drum kit | Tama Starclassic Performer B/B |
 | Signature snare | Tama S.L.P. 14x6" Brass |
 | Sticks | Vic Firth American Classic 5B |
 
 ## Kit Overview
 
-Ben Koller plays a Tama Starclassic Maple drum kit — the streamlined, hard-hitting configuration that powers Converge's unrelenting sonic brutality across two decades of hardcore and metalcore recordings. The Ben Koller drum set favors a raw, open approach: a Tama S.L.P. 14×6" Brass snare delivers the sharp, cutting crack that slices through Converge's dense guitar assault on Jane Doe, You Fail Me, and The Dusk in Us. A Tama Iron Cobra 900 double pedal anchors the kit — built for the sustained, blistering tempo Koller maintains through Converge's most demanding live sets.
+Ben Koller plays a Tama Starclassic Performer B/B drum kit — the streamlined, hard-hitting configuration that powers Converge's unrelenting sonic brutality across two decades of hardcore and metalcore recordings. The Ben Koller drum set favors a raw, open approach: a Tama S.L.P. 14×6" Brass snare delivers the sharp, cutting crack that slices through Converge's dense guitar assault on Jane Doe, You Fail Me, and The Dusk in Us. A Tama Iron Cobra Double Pedal anchors the kit — built for the sustained, blistering tempo Koller maintains through Converge's most demanding live sets.
 
-Zildjian K Dark Series cymbals define the Ben Koller drum sound: 14" K Dark Thin Hi-Hats for a dry, trashy chick that sits low in the mix; 18" and 19" K Dark Medium Thin Crashes for explosive, rapid-decay accents; a 21" K Custom Ride for controlled rhythmic definition; and an 18" K China for brutal, cutting punctuation. Vic Firth American Classic 5B sticks and Remo drumheads complete the rig. Koller's approach prioritizes power and dynamics over trigger-augmented precision — his kit is built for the organic, visceral impact that has defined Converge's sound since 1999.
+Zildjian K Custom & A Custom Series cymbals define the Ben Koller drum sound: 14" K Custom Thin Hi-Hats for a dry, trashy chick that sits low in the mix; 18" and 19" K Custom Medium Thin Crashes for explosive, rapid-decay accents; a 21" K Custom Ride for controlled rhythmic definition; and an 18" K China for brutal, cutting punctuation. Vic Firth American Classic 5B sticks and Remo drumheads complete the rig. Koller's approach prioritizes power and dynamics over trigger-augmented precision — his kit is built for the organic, visceral impact that has defined Converge's sound since 1999.
 
 ## Biography
 
@@ -101,10 +101,10 @@ Ben Koller's drumming style is characterized by relentless intensity, creative c
 
 ## Gear
 
-- **Drums:** Tama Starclassic Maple
+- **Drums:** Tama Starclassic Performer B/B
 - **Snare:** Tama S.L.P. 14x6" Brass
-- **Cymbals:** Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)
-- **Hardware:** Tama Iron Cobra 900 Double Pedal, Tama Throne
+- **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Hardware:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Remo
 
@@ -137,11 +137,11 @@ A: Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorad
 
 **Q: What drum kit does Ben Koller use?**
 
-A: Ben Koller plays a Tama Starclassic Maple drum kit, the streamlined, hard-hitting configuration that powers Converge's sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."
+A: Ben Koller plays a Tama Starclassic Performer B/B drum kit, the streamlined, hard-hitting configuration that powers Converge's sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."
 
 **Q: What drum set does Ben Koller use?**
 
-A: Ben Koller's drum set pairs his Tama Starclassic Maple shells and S.L.P. 14"x6" Brass snare with a Tama Iron Cobra 900 double pedal, the stripped-down, hard-hitting configuration that powers Converge's sonic brutality.
+A: Ben Koller's drum set pairs his Tama Starclassic Performer B/B shells and S.L.P. 14"x6" Brass snare with a Tama Iron Cobra double pedal, the stripped-down, hard-hitting configuration that powers Converge's sonic brutality.
 
 **Q: What snare does Ben Koller use?**
 
@@ -149,7 +149,7 @@ A: Koller's snare is a Tama S.L.P. 14"x6" Brass, delivering the sharp, cutting c
 
 **Q: What cymbals does Ben Koller play?**
 
-A: Ben Koller plays Zildjian K Dark Series cymbals: 14" K Dark Thin Hi-Hats, 18" and 19" K Dark Medium Thin Crashes, a 21" K Custom Ride, and an 18" K China.
+A: Ben Koller plays Zildjian K Custom & A Custom Series cymbals: 14" K Custom Thin Hi-Hats, 18" and 19" K Custom Medium Thin Crashes, a 21" K Custom Ride, and an 18" K China.
 
 **Q: What sticks does Ben Koller use?**
 
@@ -157,7 +157,7 @@ A: Ben Koller plays Vic Firth American Classic 5B sticks, paired with Remo drumh
 
 **Q: What bass drum pedal does Ben Koller use?**
 
-A: Koller drives Converge's blistering tempos with a Tama Iron Cobra 900 double pedal.
+A: Koller drives Converge's blistering tempos with a Tama Iron Cobra double pedal.
 
 ## Trivia
 
@@ -186,13 +186,13 @@ Ben Koller's snare: Tama S.L.P. 14x6" Brass. See the [snares guide](https://meta
 
 ## Cymbal Setup
 
-Ben Koller's cymbals: Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China).
+Ben Koller's cymbals: Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 14" | K Dark | Thin Hi-Hats |
-| crash | 18" | K Dark | Medium Thin Crash |
-| crash | 19" | K Dark | Medium Thin Crash |
+| hi-hat | 14" | K Custom | Thin Hi-Hats |
+| crash | 18" | K Custom | Medium Thin Crash |
+| crash | 19" | K Custom | Medium Thin Crash |
 | ride | 21" | K Custom | Ride |
 | china | 18" | K | China |
 
@@ -235,4 +235,4 @@ Dated brand-endorsement timeline: [Ben Koller's endorsement history](https://met
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/ryan-van-poederooyen"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Ryan Van Poederooyen — Drum Kit & Gear Setup
@@ -36,7 +36,7 @@ Sabian's HHX and AAX lines shape the kit's cymbal voice: 14" HHX Evolution Hi-Ha
 
 Ryan Van Poederooyen is a Canadian drummer best known for his longtime collaboration with Devin Townsend in the Devin Townsend Band and Devin Townsend Project. A Montreal native, Van Poederooyen's powerful yet dynamic drumming style has been central to Townsend's music since the early 2000s. His ability to navigate Townsend's complex, genre-defying compositions—from ambient passages to crushing metal sections—showcases his versatility. Key albums include "Accelerated Evolution," "Synchestra," "Addicted," "Deconstruction," and "Transcendence." Van Poederooyen combines heavy metal power with prog-rock finesse, featuring creative tom patterns, tasteful cymbal work, and thunderous double bass. He has also worked as a session drummer and drum teacher in the Montreal area.
 
-Ryan Van Poederooyen is a Canadian drummer who has been the primary drummer for Devin Townsend and his various projects since 2002, when Townsend recruited him on the recommendation of longtime collaborator Gene Hoglan. His 20+ year collaboration with Townsend makes him one of the most consistent drummer-artist partnerships in progressive metal history.
+Ryan Van Poederooyen is a Canadian drummer who was the primary drummer for Devin Townsend and his various projects from 2002 to 2018, when Townsend recruited him on the recommendation of longtime collaborator Gene Hoglan. His 16-year collaboration with Townsend made him one of the most consistent drummer-artist partnerships in progressive metal history.
 
 Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolving musical vision, from the crushing heaviness of "Accelerated Evolution" and "Deconstruction" to the ambient soundscapes of "Ghost" and "Casualties of Cool." His ability to serve Townsend's diverse musical styles while maintaining powerful, precise drumming has made him an integral part of the Devin Townsend sound.
 
@@ -49,9 +49,8 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
 - **2011** — Recorded "Deconstruction," one of heaviest Townsend albums
 - **2012** — Recorded "Epicloud," accessible yet powerful album
 - **2014** — Recorded "Z²: Dark Matters / Sky Blue" double album
-- **2019** — Recorded "Empath," ambitious and diverse album
-- **2022** — Recorded "Lightwork" with Devin Townsend
-- **2023** — Continued touring with Devin Townsend worldwide
+- **2016** — Recorded "Transcendence," final Devin Townsend Project album
+- **2018** — Devin Townsend Project entered an indefinite hiatus
 
 ## Style & Influences
 
@@ -79,15 +78,12 @@ Ryan Van Poederooyen's drumming style is characterized by power, precision, and 
 - **Devin Townsend Project - Ki** (2009, HevyDevy) — DTP launch
 - **Devin Townsend Project - Deconstruction** (2011, HevyDevy) — Extreme metal opus
 - **Devin Townsend Project - Epicloud** (2012, HevyDevy) — Accessible power
-- **Devin Townsend - Transcendence** (2016, HevyDevy) — Collaborative writing
-- **Devin Townsend - Empath** (2019, HevyDevy) — Genre-spanning epic
-- **Devin Townsend - Lightwork** (2022, InsideOut) — Most recent studio album
+- **Devin Townsend - Transcendence** (2016, HevyDevy) — Final Devin Townsend Project album before the 2018 hiatus
 
 **Tours:**
 
-- **Devin Townsend World Tours** (2002-Present) — Extensive global touring
+- **Devin Townsend World Tours** (2002-2018) — Extensive global touring
 - **Retinal Circus** (2012) — London spectacular concert
-- **Empath Tour** (2019-2020) — Pre-pandemic touring
 
 ## Band History
 
@@ -119,7 +115,7 @@ Ryan Van Poederooyen's drumming style is characterized by power, precision, and 
 
 **Q: What drum kit does Ryan Van Poederooyen use?**
 
-A: Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend's primary drummer across two decades of genre-hopping albums, from ambient soundscapes to full-throttle metal assaults.
+A: Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend's primary drummer (2002–2018) across genre-hopping albums, from ambient soundscapes to full-throttle metal assaults.
 
 **Q: What drum set does Ryan Van Poederooyen use?**
 
@@ -147,16 +143,16 @@ A: Ryan Van Poederooyen uses Evans drumheads across his Pearl Reference kit.
 
 **Q: What band is Ryan Van Poederooyen in?**
 
-A: Ryan Van Poederooyen has been Devin Townsend's primary drummer since 2002, including the Devin Townsend Project era from 2009 to 2018.
+A: Ryan Van Poederooyen was Devin Townsend's primary drummer from 2002 to 2018, including the Devin Townsend Project era from 2009 to 2018.
 
 **Q: How long has Ryan Van Poederooyen played with Devin Townsend?**
 
-A: Ryan Van Poederooyen has been Devin Townsend's primary drummer for more than two decades, appearing on nearly every solo and band album since joining in 2002 — including "Accelerated Evolution" (2003), "Deconstruction" (2011), and "Lightwork" (2022) — after being recommended to Townsend by Gene Hoglan, Townsend's previous drummer in Strapping Young Lad.
+A: Ryan Van Poederooyen was Devin Townsend's primary drummer from 2002 to 2018, appearing on nearly every solo and band album in that span — including "Accelerated Evolution" (2003), "Deconstruction" (2011), and "Transcendence" (2016) — after being recommended to Townsend by Gene Hoglan, Townsend's previous drummer in Strapping Young Lad.
 
 ## Trivia
 
-- One of the longest-running collaborations in progressive metal (20+ years)
-- Has played on nearly every Devin Townsend solo and band album since joining in 2002
+- One of the longest-running collaborations in progressive metal (16 years, 2002–2018)
+- Played on nearly every Devin Townsend solo and band album between joining in 2002 and the Devin Townsend Project's 2018 hiatus
 - Gene Hoglan (Strapping Young Lad) was Townsend's previous drummer, setting a high bar
 - "Deconstruction" is considered one of the most demanding drum performances in prog metal
 - Known for his professionalism and consistency
@@ -243,4 +239,4 @@ Dated brand-endorsement timeline: [Ryan Van Poederooyen's endorsement history](h
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Orange"
 profile_url: "https://metalforge.io/drummer/john-otto"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # John Otto — Drum Kit & Gear Setup
@@ -28,7 +28,7 @@ John Otto's drum kit and gear setup. John Otto is a professional metal drummer b
 
 ## Kit Overview
 
-John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic drum kit — the transparent acrylic shell set that defined his visual and sonic identity throughout Limp Bizkit's nu-metal peak. The John Otto drum set centers on two signature OCDP snares: a 14×6.5" 40-ply vented shell for primary work and a 10×6" 20-ply piccolo for accents. Gibraltar G Class bass drum pedals drive the kick — a single-pedal configuration underpinning the straight-ahead funk and rock grooves defining tracks like "Rollin'" and "Break Stuff."
+John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic drum kit — the transparent acrylic shell set that defined his visual and sonic identity throughout Limp Bizkit's nu-metal peak. The John Otto drum set centers on two signature OCDP snares: a 14×6.5" 40-ply vented shell for primary work and a 10×6" 20-ply piccolo for accents. Gibraltar Professional Series bass drum pedals drive the kick — a single-pedal configuration underpinning the straight-ahead funk and rock grooves defining tracks like "Rollin'" and "Break Stuff."
 
 Zildjian cymbals complete the John Otto drum kit: 13" A Custom Mastersound Hi-Hats for tight groove patterns; 16" and 17" A Custom Projection Crashes for accent work; a 20" A Custom EFX for trashy edge; and a 20" FX Oriental Crash of Doom for explosive decay. Remo Emperor Coated drumheads are fitted throughout on a Gibraltar custom rack. Otto has been Limp Bizkit's drummer since 1994. His OCDP acrylic drum set carried the band through Significant Other (1999) and Chocolate Starfish and the Hot Dog Flavored Water (2000), the nu-metal era's best-selling record.
 
@@ -97,7 +97,7 @@ John Otto's drumming style is a unique fusion of metal power, jazz sophisticatio
 - **Drums:** Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic
 - **Snare:** OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply
 - **Cymbals:** Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom)
-- **Hardware:** Gibraltar G Class Bass Drum Pedals, Gibraltar Custom Racks
+- **Hardware:** Gibraltar Professional Series, Gibraltar Custom Racks
 - **Sticks:** Zildjian Artist Series
 - **Heads:** Remo Emperor Coated
 
@@ -228,4 +228,4 @@ Dated brand-endorsement timeline: [John Otto's endorsement history](https://meta
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

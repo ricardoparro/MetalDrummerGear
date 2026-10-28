@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/sean-reinert"
 source: "https://metalforge.io"
-last_updated: "2026-10-18"
+last_updated: "2026-10-28"
 ---
 
 # Sean Reinert — Drum Kit & Gear Setup
@@ -87,7 +87,7 @@ Sean Reinert's drumming style fused jazz-informed technique with death metal pow
 ## Band History
 
 - **Cynic** — 1987–1994, 2006–2015
-- **Death** — 1991–1992
+- **Death** — 1989–1991
 
 ## Gear
 
@@ -222,4 +222,4 @@ Dated brand-endorsement timeline: [Sean Reinert's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

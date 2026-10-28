@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/martin-axenrot"
 source: "https://metalforge.io"
-last_updated: "2026-10-15"
+last_updated: "2026-10-28"
 ---
 
 # Martin Axenrot — Drum Kit & Gear Setup
@@ -62,7 +62,7 @@ Martin Axenrot's drumming style combines the technical, dynamic vocabulary Opeth
 - **Classic progressive rock drummers**: Informing his approach to Heritage-era material
 
 **Signature Techniques:**
-- Twin-bass-drum setup enabling extended double-bass passages
+- Extended double-bass passages on Opeth's heaviest material
 - Fluid transitions between extreme metal intensity and progressive rock restraint
 - Dynamic control across Opeth's shifting acoustic and heavy sections
 
@@ -225,4 +225,4 @@ Dated brand-endorsement timeline: [Martin Axenrot's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

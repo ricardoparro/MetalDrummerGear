@@ -447,7 +447,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Joey brought extreme metal intensity to mainstream nu-metal with blast beats and speed. Dave pioneered thrash metal drumming with relentless aggression.',
       technique: 'Joey combined death metal speed with theatrical showmanship on a rotating kit. Dave revolutionized double bass and blast beats in thrash.',
-      gear: 'Joey played Pearl drums with Paiste cymbals. Dave uses Pearl drums with Paiste RUDE cymbals for aggressive cut.',
+      gear: 'Joey played Pearl drums with Paiste cymbals. Dave uses Tama Starclassic Walnut/Birch drums with Paiste RUDE cymbals for aggressive cut.',
       influence: 'Joey proved extreme techniques could work in mainstream metal. Dave defined the Slayer sound that influenced all of extreme metal.',
     },
     verdict: 'Two generations of extreme metal. Dave Lombardo invented thrash drumming; Joey Jordison brought it to a new audience. Both pushed the limits of speed and intensity.',

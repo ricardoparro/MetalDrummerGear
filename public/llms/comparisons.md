@@ -4035,7 +4035,7 @@ Slipknot's Joey Jordison vs Slayer's Dave Lombardo. Nu-metal intensity vs thrash
 
 **Technique:** Joey combined death metal speed with theatrical showmanship on a rotating kit. Dave revolutionized double bass and blast beats in thrash.
 
-**Gear:** Joey played Pearl drums with Paiste cymbals. Dave uses Pearl drums with Paiste RUDE cymbals for aggressive cut.
+**Gear:** Joey played Pearl drums with Paiste cymbals. Dave uses Tama Starclassic Walnut/Birch drums with Paiste RUDE cymbals for aggressive cut.
 
 **Influence:** Joey proved extreme techniques could work in mainstream metal. Dave defined the Slayer sound that influenced all of extreme metal.
 

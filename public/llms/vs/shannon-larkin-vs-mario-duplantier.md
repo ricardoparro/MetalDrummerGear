@@ -1,6 +1,6 @@
 # Shannon Larkin vs Mario Duplantier — Drum Kit Comparison
 
-> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Amen) and Mario Duplantier (Gojira).
+> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America) and Mario Duplantier (Gojira).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/shannon-larkin-vs-mario-duplantier
 

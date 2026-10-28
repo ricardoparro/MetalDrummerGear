@@ -1,6 +1,6 @@
 # Shannon Larkin vs Abe Cunningham — Drum Kit Comparison
 
-> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Amen) and Abe Cunningham (Deftones).
+> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America) and Abe Cunningham (Deftones).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/shannon-larkin-vs-abe-cunningham
 

@@ -26,7 +26,7 @@ Judas Priest's Scott Travis vs Iron Maiden's Nicko McBrain. British heavy metal'
 
 ## Playing Style
 
-Scott Travis joined Judas Priest in 1989, replacing Dave Holland for the landmark "Painkiller" album (1990) — one of the heaviest, most technically demanding records in the band's catalog — and has remained Priest's drummer for over three decades, recording "Angel of Retribution" (2005), "Nostradamus" (2008), "Redeemer of Souls" (2014), and "Firepower" (2018). Nicko McBrain has been Iron Maiden's drummer since 1982, defining the band's galloping NWOBHM sound across "Piece of Mind" (1983), "Powerslave" (1984), "Somewhere in Time" (1986), and "Seventh Son of a Seventh Son" (1988), and remains Maiden's drummer to this day across more than 40 years of arena touring.
+Scott Travis joined Judas Priest in 1989, replacing Dave Holland for the landmark "Painkiller" album (1990) — one of the heaviest, most technically demanding records in the band's catalog — and has remained Priest's drummer for over three decades, recording "Angel of Retribution" (2005), "Nostradamus" (2008), "Redeemer of Souls" (2014), and "Firepower" (2018). Nicko McBrain has been Iron Maiden's drummer since 1982, defining the band's galloping NWOBHM sound across "Piece of Mind" (1983), "Powerslave" (1984), "Somewhere in Time" (1986), and "Seventh Son of a Seventh Son" (1988), and remained Iron Maiden's touring drummer for over four decades before retiring from touring in December 2024, remaining an official band member.
 
 ## Technique
 
@@ -67,4 +67,4 @@ A: Scott Travis plays a ddrum Dominion Series kit with a ddrum Scott Travis Sign
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

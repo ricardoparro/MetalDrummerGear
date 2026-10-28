@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-28 08:16 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-28 12:12 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 395 |
-| Sessions | 441 |
-| Page views | 648 |
-| Engagement rate | 59.86% |
-| Avg session (s) | 106 |
+| Active users | 399 |
+| Sessions | 448 |
+| Page views | 655 |
+| Engagement rate | 60.04% |
+| Avg session (s) | 105 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummer/mario-duplantier | 14 | 6 |
 | / | 13 | 10 |
-| /drummer/frost | 12 | 5 |
+| /drummer/frost | 13 | 5 |
 | /drummer/joey-jordison | 12 | 7 |
 | /drummers | 10 | 4 |
 | /drummers/mike-portnoy/evolution | 10 | 3 |
@@ -31,20 +31,20 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 340 | 295 |
-| Direct | 98 | 98 |
-| Unassigned | 6 | 6 |
+| Organic Search | 346 | 298 |
+| Direct | 99 | 99 |
+| Unassigned | 7 | 7 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 136 | 120 |
-| Singapore | 39 | 39 |
+| United States | 137 | 121 |
+| Singapore | 40 | 40 |
 | China | 28 | 28 |
-| United Kingdom | 26 | 15 |
-| Australia | 18 | 14 |
+| United Kingdom | 27 | 15 |
+| Australia | 20 | 15 |
 | Canada | 14 | 14 |
 | Netherlands | 13 | 11 |
 | Germany | 10 | 9 |
@@ -54,38 +54,38 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 17,039 |
-| Clicks | 178 |
-| CTR | 1.04% |
+| Impressions | 20,186 |
+| Clicks | 232 |
+| CTR | 1.15% |
 | Avg position | 9.1 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| death metal drum kit | 9 | 4 | 44.44% | 4.6 |
-| john otto cymbal setup | 10 | 3 | 30.00% | 5.9 |
-| matt garstka drum kit | 19 | 3 | 15.79% | 6.5 |
+| death metal drum kit | 10 | 4 | 40.00% | 4.4 |
+| john otto cymbal setup | 11 | 3 | 27.27% | 5.8 |
+| matt garstka drum kit | 21 | 3 | 14.29% | 6.7 |
+| joey jordison drum set | 59 | 2 | 3.39% | 10.1 |
 | matt greiner drum kit | 2 | 2 | 100.00% | 3.0 |
-| best death metal drummers of all time | 2 | 1 | 50.00% | 4.5 |
+| best death metal drummers of all time | 3 | 1 | 33.33% | 3.3 |
+| danny carey drum set | 13 | 1 | 7.69% | 12.5 |
 | fastest double bass drummer | 5 | 1 | 20.00% | 5.4 |
-| fastest double kick drummer | 3 | 1 | 33.33% | 5.3 |
+| fastest double kick drummer | 6 | 1 | 16.67% | 4.8 |
 | frost drums | 3 | 1 | 33.33% | 5.0 |
-| greatest metal drummers of all time | 2 | 1 | 50.00% | 8.5 |
-| hellhammer drum setup | 3 | 1 | 33.33% | 3.3 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,298 | 42 | 1.27% | 7.8 |
-| gbr | 939 | 11 | 1.17% | 9.1 |
-| aus | 523 | 9 | 1.72% | 8.3 |
-| can | 674 | 7 | 1.04% | 8.5 |
-| nld | 222 | 7 | 3.15% | 7.2 |
-| swe | 175 | 7 | 4.00% | 7.0 |
-| deu | 379 | 6 | 1.58% | 7.9 |
-| tha | 214 | 6 | 2.80% | 9.7 |
-| grc | 112 | 5 | 4.46% | 8.4 |
-| pol | 236 | 5 | 2.12% | 8.0 |
+| usa | 4,033 | 64 | 1.59% | 8.0 |
+| gbr | 1,104 | 14 | 1.27% | 9.2 |
+| aus | 619 | 11 | 1.78% | 8.4 |
+| can | 786 | 10 | 1.27% | 8.6 |
+| nld | 266 | 9 | 3.38% | 7.1 |
+| deu | 441 | 8 | 1.81% | 7.9 |
+| swe | 213 | 8 | 3.76% | 7.1 |
+| cze | 93 | 7 | 7.53% | 7.2 |
+| ita | 330 | 6 | 1.82% | 8.3 |
+| tha | 249 | 6 | 2.41% | 9.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

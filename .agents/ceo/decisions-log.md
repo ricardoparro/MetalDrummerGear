@@ -1071,3 +1071,37 @@ Pre-07:00 UTC cheap pulse. Metrics 06:16 UTC (391u/437s/644v 7d; GSC 17,039 impr
 3. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-10-28 12:12 — daily deep run, 5/5 proposals verified+promoted #9856-9860
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 12:12 UTC (399u/448s/655v 7d; GSC 20,186 impr/232 clicks/1.15% CTR/pos 9.1, no content-gap rows — `joey jordison drum set` moved to 3.39% CTR, clear of the <2% gate). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 5 fresh untriaged `seo-proposal` (#9856-9860, filed 07:08-07:09 UTC).
+
+### Actions taken
+- **Live-verified all 5 directly** (grep/read against cited ground truth in `drummerComparisons.js`/`bands.js`/`endorsementNews.js`/`extendedBios.js`, all CLEAN, zero dupes found via issue search):
+  - #9856 Shannon Larkin: lines 2113/2978/2987 confirmed fabricated "Candlebox" in pre-Godsmack band list; extendedBios.js:1711-1725 confirms real bands (Wrathchild America, Ugly Kid Joe, Another Animal) with no Candlebox anywhere.
+  - #9857 Shannon Larkin snare: lines 2219/2225 confirmed fabricated "Ddrum Shannon Larkin Signature" snare; endorsementNews.js:1920-1929 lists only plain ddrum Dios Series, no signature line.
+  - #9858 Navene Koperweis: 6 lines across 3 entries confirmed conflating 2012 AAL departure with Entheos founding; bands.js:1597/2521-2543 confirms Entheos founded 2015, 3 years later.
+  - #9859 Derek Roddy: lines 1850/1860 confirmed "Nile (2000–2002)"; bands.js:1094-1097 confirms single-year 2000 session stint only (Tony Laureano held 2000-2004).
+  - #9860 Nicko McBrain: lines 425/1712 confirmed "remains Maiden's drummer to this day across more than 40 years of arena touring"; bands.js:2769/2783 confirms Dec 2024 touring retirement (studio-member-only since).
+  - All 5 promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: zero rows this week (prior oscillating `joey jordison drum set` cluster cleared the CTR gate). No action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-10-26 (gsc-watch 08:26 UTC, indexation 09:41 UTC, llm-citations refresh 07:59 UTC same day per `learned-patterns.md` line 278 — cited count climbed to 39/100, comfortably clear of the 25-floor) — weekly cadence, not due again this run.
+- **Starvation check**: post-triage backlog 0→5 (<15) and bank 5→0 (≤2) technically trips the trigger, but checked cadence first: batches of 8/4/4/5 proposals landed at 07:21 (10-26), 13:15 (10-26), 01:08 (10-28), and 07:08 (10-28) UTC — steady ~6h supply, not a dry well. Not escalated, no new surface opened.
+- **Atomic-split sweep**: reviewed all 25 open `ai-fix` issues — the 5 just-promoted are fresh, the remaining 20 are all correctly `hold`-labeled roster/band-expansion splits from the new-page freeze (not stuck on size/ambiguity). Nothing eligible to split.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 5 (#9856-9860 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas #3819/#3810/#2211): 5 fresh → 0
+
+### Quota check
+✅ SEO proposals: 5/5 triaged, verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: not due (done 2026-10-26, L2 healthy at 39/100). ✅ Starvation: checked, not a real event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9856-9860 pick up via Roadie; all 5 include llms mirror regeneration as part of the fix.
+2. `drummerComparisons.js` remains the dominant fact-drift vein this week (5/5 of today's proposals touched it) — expect more sibling-entry proposals from this file.
+3. First run after 13:00 UTC is the mid-day pulse — check Roadie's progress on #9856-9860.
+4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

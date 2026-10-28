@@ -1,6 +1,6 @@
 # Abe Cunningham vs Shannon Larkin — Drum Kit Comparison
 
-> Side-by-side gear comparison between Abe Cunningham (Deftones) and Shannon Larkin (Godsmack / Ugly Kid Joe / Amen).
+> Side-by-side gear comparison between Abe Cunningham (Deftones) and Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/abe-cunningham-vs-shannon-larkin
 
@@ -34,7 +34,7 @@ Cunningham's technique is defined by unconventional patterns, creative use of sp
 
 ## Key Differences
 
-Abe Cunningham has been a longtime Tama endorser, playing a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14x8" snare and Zildjian cymbals (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride), driven by a Tama Iron Cobra double pedal and Pro-Mark sticks. Shannon Larkin is a longtime Ddrum endorser, playing a ddrum Dios Series kit with his Ddrum Shannon Larkin Signature 14x6.5" snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, assorted crashes, 21" Raw Bell Dry Ride), driven by a DW 9000 Series double pedal, a Pork Pie Big Boy throne, and Vic Firth American Classic 5B sticks. Cunningham's technique is defined by unconventional patterns, creative use of space, and an intuitive feel for dynamics — his unconventional snare placements and seamless transitions between crushing heaviness and ethereal delicacy mirror Deftones' emotional arc rather than showcasing technical flash. Larkin's technique centers on powerful, deep-pocket groove drumming with dynamic control that swings from quiet verses to explosive choruses, delivering the hard-hitting backbeat and tribal-influenced fills that make Godsmack's riff-driven hard rock instantly recognizable, including memorable drum-off exchanges with vocalist Sully Erna live.
+Abe Cunningham has been a longtime Tama endorser, playing a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14x8" snare and Zildjian cymbals (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride), driven by a Tama Iron Cobra double pedal and Pro-Mark sticks. Shannon Larkin is a longtime Ddrum endorser, playing a ddrum Dios Series kit with his ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, assorted crashes, 21" Raw Bell Dry Ride), driven by a DW 9000 Series double pedal, a Pork Pie Big Boy throne, and Vic Firth American Classic 5B sticks. Cunningham's technique is defined by unconventional patterns, creative use of space, and an intuitive feel for dynamics — his unconventional snare placements and seamless transitions between crushing heaviness and ethereal delicacy mirror Deftones' emotional arc rather than showcasing technical flash. Larkin's technique centers on powerful, deep-pocket groove drumming with dynamic control that swings from quiet verses to explosive choruses, delivering the hard-hitting backbeat and tribal-influenced fills that make Godsmack's riff-driven hard rock instantly recognizable, including memorable drum-off exchanges with vocalist Sully Erna live.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Abe Cunningham and Shannon Larkin represent two distinct commercial rock drummin
 A: Both are highly respected within their lanes. Abe Cunningham is celebrated for unconventional, atmosphere-first patterns that prioritize feel and dynamics, shaping Deftones' shoegaze-influenced alt-metal sound over 35-plus years. Shannon Larkin is celebrated for powerful, deep-pocket groove drumming that has anchored Godsmack's multi-platinum hard rock sound since 2002. The "better" drummer depends on whether you value textural restraint or driving power.
 
 **Q: What drum kit does Abe Cunningham use compared to Shannon Larkin?**
-A: Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel snare and Zildjian cymbals. Shannon Larkin plays a ddrum Dios Series kit with his own Ddrum Shannon Larkin Signature snare and Sabian AAX cymbals, driven by a DW 9000 Series double pedal.
+A: Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel snare and Zildjian cymbals. Shannon Larkin plays a ddrum Dios Series kit with his ddrum Dios 14x6.5" Maple snare and Sabian AAX cymbals, driven by a DW 9000 Series double pedal.
 
 **Q: How long has Shannon Larkin been Godsmack's drummer?**
 A: Shannon Larkin joined Godsmack in 2002, replacing original drummer Tommy Stewart, and has remained the band's drummer for over 20 years — through "Faceless" (2003), "IV" (2006), "The Oracle" (2010), "1000hp" (2014), "When Legends Rise" (2018), and the band's announced final album "Lighting Up the Sky" (2023).
@@ -67,4 +67,4 @@ A: Before joining Godsmack in 2002, Shannon Larkin was the drummer for Ugly Kid 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

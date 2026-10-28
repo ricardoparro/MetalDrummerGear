@@ -7,7 +7,7 @@
 
 ## Overview
 
-Eloy Casagrande (born August 25, 1991, São Paulo, Brazil) joined Sepultura in 2011 at 19 and spent 13 years driving the band through its most technically ambitious era. Voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll, Casagrande left Sepultura in February 2024 and was officially confirmed as Slipknot's new drummer on May 1, 2024, replacing Jay Weinberg in one of the most high-profile drum chairs in heavy music. His viral drum-cam videos on Quadra (2020) tracks like "Means To An End" cemented his global reputation: controlled power, where every fast figure is played with even dynamics and immaculate timing. The result sounds heavier than uncontrolled speed, which is the central lesson of his playing — a lesson built during his 13-year Sepultura tenure and now carried directly into his current work with Slipknot.
+Eloy Casagrande (born August 25, 1991, São Paulo, Brazil) joined Sepultura in 2011 at 20 and spent 13 years driving the band through its most technically ambitious era. Voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll, Casagrande left Sepultura in February 2024 and was officially confirmed as Slipknot's new drummer on May 1, 2024, replacing Jay Weinberg in one of the most high-profile drum chairs in heavy music. His viral drum-cam videos on Quadra (2020) tracks like "Means To An End" cemented his global reputation: controlled power, where every fast figure is played with even dynamics and immaculate timing. The result sounds heavier than uncontrolled speed, which is the central lesson of his playing — a lesson built during his 13-year Sepultura tenure and now carried directly into his current work with Slipknot.
 
 ## Kit Setup
 

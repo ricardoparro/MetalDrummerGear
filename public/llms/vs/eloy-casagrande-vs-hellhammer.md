@@ -26,7 +26,7 @@ Slipknot/Sepultura's Eloy Casagrande vs Mayhem's Hellhammer. Brazilian dual-bass
 
 ## Playing Style
 
-Eloy Casagrande joined Sepultura at just 19 in 2011, spending 13 years driving the band's thrash-death engine before joining Slipknot in 2024 to replace Jay Weinberg, and was voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll. Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994), running a parallel career with Dimmu Borgir since 1999.
+Eloy Casagrande joined Sepultura at just 20 in 2011, spending 13 years driving the band's thrash-death engine before joining Slipknot in 2024 to replace Jay Weinberg, and was voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll. Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994), running a parallel career with Dimmu Borgir since 1999.
 
 ## Technique
 

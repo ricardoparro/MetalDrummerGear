@@ -26,7 +26,7 @@ Slipknot/Sepultura's Eloy Casagrande vs Converge's Ben Koller. Brazilian dual-ba
 
 ## Playing Style
 
-Eloy Casagrande joined Sepultura at just 19 in 2011, spending 13 years driving the band's thrash-death engine before joining Slipknot in 2024 to replace Jay Weinberg, and was voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll. Ben Koller joined Converge in late 1999 and became central to the band's mathcore evolution, driving landmark records including "Jane Doe" (2001), "Axe to Fall" (2009), and "The Dusk in Us" (2017) with a chaotic, improvisational intensity, and has also co-founded heavy rock band Mutoid Man and joined the supergroup Killer Be Killed.
+Eloy Casagrande joined Sepultura at just 20 in 2011, spending 13 years driving the band's thrash-death engine before joining Slipknot in 2024 to replace Jay Weinberg, and was voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll. Ben Koller joined Converge in late 1999 and became central to the band's mathcore evolution, driving landmark records including "Jane Doe" (2001), "Axe to Fall" (2009), and "The Dusk in Us" (2017) with a chaotic, improvisational intensity, and has also co-founded heavy rock band Mutoid Man and joined the supergroup Killer Be Killed.
 
 ## Technique
 

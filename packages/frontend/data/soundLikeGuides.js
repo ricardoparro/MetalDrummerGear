@@ -5458,13 +5458,13 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
     readingTime: '10 min',
     intro: {
       title: "From Sepultura's Final Chapter to Slipknot's New Era",
-      content: `Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) joined Sepultura in 2011 at just 19 years old and spent 13 years driving one of thrash metal's most storied bands through its most technically ambitious era. Voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll, Casagrande left Sepultura in February 2024 and was officially confirmed as Slipknot's new drummer on May 1, 2024, replacing Jay Weinberg in one of the most high-profile drum chairs in heavy music.
+      content: `Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) joined Sepultura in 2011 at just 20 years old and spent 13 years driving one of thrash metal's most storied bands through its most technically ambitious era. Voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll, Casagrande left Sepultura in February 2024 and was officially confirmed as Slipknot's new drummer on May 1, 2024, replacing Jay Weinberg in one of the most high-profile drum chairs in heavy music.
 
 What separates Eloy from his thrash contemporaries is the marriage of raw Brazilian aggression with surgical modern precision. On Quadra (2020), a double concept album of staggering ambition, he plays everything from tribal-groove passages to machine-gun blast beats — often within the same song. His viral drum-cam videos on tracks like "Means To An End" turned heads across the drumming world: this is controlled power at its finest, where every fast figure is played with even dynamics and immaculate timing.
 
 This guide covers Eloy's core technique — double-bass drive, dynamic control, explosive groove-metal pocket — built during his 13-year Sepultura tenure and now carried into his current work with Slipknot, plus his Tama Starclassic Bubinga and Paiste setup and how to practice both dimensions of his playing.`,
       keyPoints: [
-        "Eloy joined Sepultura at 19 and drove the band through its most technically ambitious era (2011-2024)",
+        "Eloy joined Sepultura at 20 and drove the band through its most technically ambitious era (2011-2024)",
         "Voted #1 metal drummer in Modern Drummer's 2024 Readers' Poll",
         "Left Sepultura in February 2024 and joined Slipknot, officially confirmed May 1, 2024, replacing Jay Weinberg",
         "His style fuses Brazilian thrash aggression with modern technical precision and explosive dynamics",
@@ -5698,7 +5698,7 @@ This guide covers Eloy's core technique — double-bass drive, dynamic control, 
       },
       {
         question: "How did Eloy Casagrande develop his style?",
-        answer: "Eloy grew up in São Paulo, Brazil, and started drumming at age 7. His primary influences are Igor Cavalera (Sepultura's original drummer — whose tribal groove roots are in Eloy's DNA), Dave Lombardo (thrash precision), and Joey Jordison (extreme metal intensity). He joined Sepultura at 19, stepping directly into one of thrash metal's most demanding roles, and spent 13 years evolving his technique through increasingly ambitious material. The viral drum-cam videos he released during the Quadra cycle — showing his technique in real time — accelerated his international reputation significantly, and that reputation is a big part of why Slipknot recruited him as Jay Weinberg's replacement in 2024."
+        answer: "Eloy grew up in São Paulo, Brazil, and started drumming at age 7. His primary influences are Igor Cavalera (Sepultura's original drummer — whose tribal groove roots are in Eloy's DNA), Dave Lombardo (thrash precision), and Joey Jordison (extreme metal intensity). He joined Sepultura at 20, stepping directly into one of thrash metal's most demanding roles, and spent 13 years evolving his technique through increasingly ambitious material. The viral drum-cam videos he released during the Quadra cycle — showing his technique in real time — accelerated his international reputation significantly, and that reputation is a big part of why Slipknot recruited him as Jay Weinberg's replacement in 2024."
       }
     ],
     related: {

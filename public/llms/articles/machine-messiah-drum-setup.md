@@ -14,7 +14,7 @@
 
 When Sepultura released *Machine Messiah* on January 13, 2017, via Nuclear Blast, it marked a new chapter for one of heavy metal's most storied bands — and the full-time debut of one of the most gifted drummers of his generation. Eloy Casagrande, then 24 years old, stepped into the role that had defined Sepultura's rhythmic identity since the Igor Cavalera era and delivered a performance that silenced any doubts: *Machine Messiah* was not a transition album, it was a statement.
 
-Eloy had joined Sepultura in 2011 at the age of 19, working through the *The Mediator Between Head and Hands Must Be the Heart* cycle (2013) before *Machine Messiah* became his definitive first major document with the band. Recorded at Fascination Street Studios in Örebro, Sweden — the same studio that would capture *Quadra* three years later — and produced by Jens Bogren, the album placed Eloy's drumming in a world-class recording environment from his earliest full-length Sepultura work.
+Eloy had joined Sepultura in 2011 at the age of 20, working through the *The Mediator Between Head and Hands Must Be the Heart* cycle (2013) before *Machine Messiah* became his definitive first major document with the band. Recorded at Fascination Street Studios in Örebro, Sweden — the same studio that would capture *Quadra* three years later — and produced by Jens Bogren, the album placed Eloy's drumming in a world-class recording environment from his earliest full-length Sepultura work.
 
 *Machine Messiah* debuted at number one in Brazil and charted across Europe, including Germany — validating Sepultura's continued relevance and putting Eloy's playing in front of an international metal audience for the first time at full album scale. Tracks like "Phantom Self" and "Iceberg Dances" became the early showcases of his precision blast-beat technique and polyrhythmic sensibility, establishing the stylistic identity he would refine through *Quadra* and ultimately bring to Slipknot's stage in 2024.
 
@@ -85,7 +85,7 @@ A: Eloy Casagrande recorded Machine Messiah (2017) using a Tama Starclassic Waln
 
 **Q: When did Eloy Casagrande join Sepultura?**
 
-A: Eloy Casagrande joined Sepultura in 2011 at the age of 19, replacing Jean Dolabella. Machine Messiah (2017) was his first major full-length studio recording with the band as its established full-time drummer. He remained with Sepultura until 2024, when he departed to join Slipknot. His complete Sepultura discography spans Machine Messiah (2017) through Quadra (2020), with Machine Messiah serving as the definitive opening statement of his tenure.
+A: Eloy Casagrande joined Sepultura in 2011 at the age of 20, replacing Jean Dolabella. Machine Messiah (2017) was his first major full-length studio recording with the band as its established full-time drummer. He remained with Sepultura until 2024, when he departed to join Slipknot. His complete Sepultura discography spans Machine Messiah (2017) through Quadra (2020), with Machine Messiah serving as the definitive opening statement of his tenure.
 
 **Q: What is Eloy Casagrande's drum setup on Machine Messiah?**
 

@@ -12,7 +12,7 @@
 
 ## Overview
 
-When Sepultura released *The Mediator Between Head and Hands Must Be the Heart* on October 25, 2013, via Nuclear Blast, it introduced the world to a 21-year-old drummer who would go on to anchor the band for over a decade: Eloy Casagrande. Eloy had joined Sepultura in 2011 at age 19, but *The Mediator* — the band's thirteenth studio album — was the first full-length record to capture his playing in the studio, four years before *Machine Messiah* became his definitive international statement.
+When Sepultura released *The Mediator Between Head and Hands Must Be the Heart* on October 25, 2013, via Nuclear Blast, it introduced the world to a 21-year-old drummer who would go on to anchor the band for over a decade: Eloy Casagrande. Eloy had joined Sepultura in 2011 at age 20, but *The Mediator* — the band's thirteenth studio album — was the first full-length record to capture his playing in the studio, four years before *Machine Messiah* became his definitive international statement.
 
 The album reunited Sepultura with Ross Robinson, the producer behind their landmark 1996 record *Roots*. Robinson is known across metal and nu-metal — Korn, Slipknot, At the Drive-In — for an intensely raw, emotionally driven production philosophy: live takes, minimal overdubbing, performances captured in the moment rather than assembled afterward. For a 21-year-old drummer making his recorded debut with one of thrash metal's most important bands, this was a trial by fire rather than a controlled studio introduction.
 
@@ -64,7 +64,7 @@ Everything that followed in Eloy's career — the polish of *Machine Messiah*, t
 ## Key Facts
 
 - Released October 25, 2013 (Europe) / October 29, 2013 (US) via Nuclear Blast — Sepultura's 13th studio album
-- Eloy Casagrande's first full-length studio recording with Sepultura, joined the band in 2011 at age 19
+- Eloy Casagrande's first full-length studio recording with Sepultura, joined the band in 2011 at age 20
 - Produced by Ross Robinson (Roots, Korn, Slipknot), co-produced by Steve Evetts
 - Recorded over 40 days in June 2013 at Robinson's studio in Venice, California
 - Title drawn from a quote in Fritz Lang's 1927 film Metropolis
@@ -81,7 +81,7 @@ Everything that followed in Eloy's career — the polish of *Machine Messiah*, t
 
 **Q: What was Eloy Casagrande's first studio album with Sepultura?**
 
-A: Eloy Casagrande's first studio album with Sepultura was The Mediator Between Head and Hands Must Be the Heart, released October 25, 2013 (Europe) / October 29, 2013 (US) via Nuclear Blast. Eloy had joined the band in 2011 at age 19, but this was the first full-length record to capture his playing in the studio. It was produced by Ross Robinson (who also produced Sepultura's 1996 album Roots), co-produced by Steve Evetts, and recorded over 40 days in June 2013 at Robinson's studio in Venice, California.
+A: Eloy Casagrande's first studio album with Sepultura was The Mediator Between Head and Hands Must Be the Heart, released October 25, 2013 (Europe) / October 29, 2013 (US) via Nuclear Blast. Eloy had joined the band in 2011 at age 20, but this was the first full-length record to capture his playing in the studio. It was produced by Ross Robinson (who also produced Sepultura's 1996 album Roots), co-produced by Steve Evetts, and recorded over 40 days in June 2013 at Robinson's studio in Venice, California.
 
 **Q: What drums did Eloy Casagrande use on The Mediator Between Head and Hands Must Be the Heart?**
 

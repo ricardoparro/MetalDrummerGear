@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-28 13:03 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-28 18:11 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 399 |
-| Sessions | 448 |
-| Page views | 655 |
-| Engagement rate | 60.04% |
+| Active users | 406 |
+| Sessions | 455 |
+| Page views | 664 |
+| Engagement rate | 60.44% |
 | Avg session (s) | 105 |
 
 ### Top pages (by page views, last 7d)
@@ -25,29 +25,29 @@
 | /drummers/mike-portnoy/evolution | 10 | 3 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
 | /drummer/hellhammer | 9 | 4 |
+| /drummer/john-otto | 9 | 7 |
 | /drummer/shannon-larkin | 9 | 6 |
-| /drummer/john-otto | 8 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 346 | 298 |
-| Direct | 99 | 99 |
-| Unassigned | 7 | 7 |
+| Organic Search | 351 | 303 |
+| Direct | 101 | 101 |
+| Unassigned | 8 | 8 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 137 | 121 |
-| Singapore | 40 | 40 |
+| United States | 139 | 123 |
+| Singapore | 42 | 42 |
 | China | 28 | 28 |
-| United Kingdom | 27 | 15 |
+| United Kingdom | 28 | 16 |
 | Australia | 20 | 15 |
 | Canada | 14 | 14 |
 | Netherlands | 13 | 11 |
-| Germany | 10 | 9 |
+| Germany | 11 | 10 |
 | Brazil | 7 | 7 |
 | France | 7 | 7 |
 

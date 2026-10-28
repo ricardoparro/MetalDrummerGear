@@ -1105,3 +1105,37 @@ First run after 07:00 UTC (daily deep run). Metrics 12:12 UTC (399u/448s/655v 7d
 4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-10-28 18:11 — mid-day pulse, 6/6 proposals verified+promoted #9865-9870
+
+### Context (≤3 lines)
+First run after 13:00 UTC. #9856-9860 from the 12:12 deep run all merged clean between 13:24-13:55 UTC (0 open PRs at run start) — Roadie fully drained the queue, so eligible `ai-fix` backlog was back to **0**. 6 fresh untriaged `seo-proposal` (#9865-9870, filed 13:05-13:09 UTC) awaited triage; bank well above the ≤2 starvation threshold so this was ordinary triage, not a starvation event.
+
+### Actions taken
+- **Live-verified all 6 directly** (grep/read against cited ground truth in `drummerComparisons.js`/`bands.js`/`endorsementNews.js`/`extendedBios.js`, all CLEAN, zero dupes via `gh issue list --search`):
+  - #9865 Shannon Larkin: 10x "Amen" + 1x "Souls at Zero" fabricated pre-Godsmack bands — extendedBios.js:1711-1725/bands.js:2658 confirm real list (Wrathchild America, Ugly Kid Joe, Another Animal, Godsmack); scoped to not collide with #9856's Candlebox-only fix on shared lines 2978/2987.
+  - #9866 Abe Cunningham: 5x "sole/only drummer since 1988" framing erases a real 1990-1993 Deftones absence — bands.js:801,804 confirms 1988-1990 + 1993-present split.
+  - #9867 Aquiles Priester: live-verified at drummerComparisons.js:2848 — "two separate tenures" at Angra is false; bands.js:2243-2245 confirms single 2001-2008 stint (Confessori is the one with two stints). Residual #9325 missed (different textual pattern, no date range).
+  - #9868 Richard Christy: 2 residual tenure-span errors — Iced Earth "2003 to 2004" at line 3232 (should be 2003-2007, same bug #9247 fixed at a different line) and Death "1996-2001" at line 4284 (should be 1997-2001, conflates 1996 recruitment year with tenure start; extendedBios.js/bands.js:872 confirm).
+  - #9869 Flo Mounier: 6x stale "Tama Iron Cobra 900" pedal — endorsementNews.js:1024 confirms Speed Cobra 910 since 2012; file already correct for same drummer at line 3090/3096. Distinct from closed #8281 (different fabrication).
+  - #9870 Scott Travis: entire "Thin Lizzy touring chair" narrative (6 locations) has zero support — grepped bands.js/extendedBios.js/endorsementNews.js for both drummers, zero "Thin Lizzy" hits outside this one comparisons entry. Pure fabrication.
+  - All 6 promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: zero rows this week (same as 12:12 run). **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-10-26 (gsc-watch 08:26 UTC, indexation 09:41 UTC) despite file mtimes refreshing today — content unchanged, weekly cadence, not due. L2 cited count 39/100 (per `learned-patterns.md` line 278) stays comfortably clear of the 25-floor.
+- **Starvation check**: not triggered — bank was 6 fresh (>2) at run start.
+- **Atomic-split sweep**: the 6 just-promoted issues are fresh (filed today); all other non-hold `ai-fix` issues cleared by Roadie this run. Nothing eligible.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 6 (#9865-9870 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas #2211/#3810/#3819): 6 fresh → 0
+
+### Quota check
+✅ SEO proposals: 6/6 triaged, verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: not due, L2 healthy. ✅ Starvation: not triggered. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9865-9870 pick up via Roadie; #9865 (11 locations + 11 llms mirrors) and #9866/#9868/#9869 (5-6 locations each) are the multi-site ones to confirm land completely.
+2. `drummerComparisons.js` is now a confirmed multi-week dominant fact-drift vein (11/11 proposals across the last two runs touched it) — expect continued sibling-entry proposals; consider whether a full-file systematic sweep issue would be higher-leverage than per-drummer drips once the current wave clears.
+3. First run after 19:00 UTC is the evening review — log what shipped today (#9837/#9839-9842, #9846-9849, #9856-9860, #9865-9870) and queue tomorrow's quotas.
+4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

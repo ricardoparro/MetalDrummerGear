@@ -26,7 +26,7 @@ Mike Portnoy founded Dream Theater; Mike Mangini won the 2010 audition. Gear, te
 
 ## Playing Style
 
-Mike Portnoy built Dream Theater's sound over 20 years with theatrical prog metal flair and massive multi-bass kit setups. Mike Mangini approaches the instrument as a scientist — world-record speed, technical precision, and optimized mechanics replacing Portnoy's showmanship.
+Mike Portnoy built Dream Theater's sound over 25 years with theatrical prog metal flair and massive multi-bass kit setups. Mike Mangini approaches the instrument as a scientist — world-record speed, technical precision, and optimized mechanics replacing Portnoy's showmanship.
 
 ## Technique
 
@@ -42,7 +42,7 @@ Portnoy shaped 1990s progressive metal through Dream Theater's landmark albums a
 
 ## Verdict
 
-One of progressive metal's great debates. Portnoy built Dream Theater's identity through 20 years of landmark recordings — then returned in 2023 to reclaim the throne. Mangini brought world-record speed and scientific discipline to the role. Both are legends; what you value most determines your answer.
+One of progressive metal's great debates. Portnoy built Dream Theater's identity through 25 years of landmark recordings — then returned in 2023 to reclaim the throne. Mangini brought world-record speed and scientific discipline to the role. Both are legends; what you value most determines your answer.
 
 ## FAQ
 
@@ -67,4 +67,4 @@ A: Mike Portnoy uses Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

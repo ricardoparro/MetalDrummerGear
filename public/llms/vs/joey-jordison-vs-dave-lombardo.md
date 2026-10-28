@@ -34,7 +34,7 @@ Joey combined death metal speed with theatrical showmanship on a rotating kit. D
 
 ## Key Differences
 
-Joey played Pearl drums with Paiste cymbals. Dave uses Pearl drums with Paiste RUDE cymbals for aggressive cut. Joey combined death metal speed with theatrical showmanship on a rotating kit. Dave revolutionized double bass and blast beats in thrash.
+Joey played Pearl drums with Paiste cymbals. Dave uses Tama Starclassic Walnut/Birch drums with Paiste RUDE cymbals for aggressive cut. Joey combined death metal speed with theatrical showmanship on a rotating kit. Dave revolutionized double bass and blast beats in thrash.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Two generations of extreme metal. Dave Lombardo invented thrash drumming; Joey J
 ## FAQ
 
 **Q: What are the main differences between Joey Jordison's and Dave Lombardo's drum kits?**
-A: Joey Jordison plays Pearl Reference Series with Paiste cymbals, while Dave Lombardo uses Tama Starclassic Walnut/Birch with Paiste cymbals. Joey played Pearl drums with Paiste cymbals. Dave uses Pearl drums with Paiste RUDE cymbals for aggressive cut.
+A: Joey Jordison plays Pearl Reference Series with Paiste cymbals, while Dave Lombardo uses Tama Starclassic Walnut/Birch with Paiste cymbals. Joey played Pearl drums with Paiste cymbals. Dave uses Tama Starclassic Walnut/Birch drums with Paiste RUDE cymbals for aggressive cut.
 
 **Q: What drums does Joey Jordison play vs Dave Lombardo?**
 A: Joey Jordison plays Pearl Reference Series. Dave Lombardo plays Tama Starclassic Walnut/Birch.

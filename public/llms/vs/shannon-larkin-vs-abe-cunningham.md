@@ -26,7 +26,7 @@ Godsmack's Shannon Larkin vs Deftones' Abe Cunningham. Hard rock groove power vs
 
 ## Playing Style
 
-Shannon Larkin, born in 1967 in Chicago, joined Godsmack in 2002 after stints with Wrathchild America, Ugly Kid Joe, and Amen, driving the band's thunderous hard rock machine across six studio albums including "Faceless" (2003), "IV" (2006), and "The Oracle" (2010) until his 2024 departure. Abe Cunningham co-founded Deftones in Sacramento, California in 1988 as a teenager and has remained the band's drummer for over three decades, developing an unconventional, atmospheric style that helped define alternative metal across "Around the Fur" (1997), "White Pony" (2000), and "Diamond Eyes" (2010).
+Shannon Larkin, born in 1967 in Chicago, joined Godsmack in 2002 after stints with Wrathchild America and Ugly Kid Joe, driving the band's thunderous hard rock machine across six studio albums including "Faceless" (2003), "IV" (2006), and "The Oracle" (2010) until his 2024 departure. Abe Cunningham co-founded Deftones in Sacramento, California in 1988 as a teenager and has remained the band's drummer for over three decades, developing an unconventional, atmospheric style that helped define alternative metal across "Around the Fur" (1997), "White Pony" (2000), and "Diamond Eyes" (2010).
 
 ## Technique
 
@@ -60,7 +60,7 @@ A: Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple 
 A: Abe Cunningham has been Deftones' drummer since co-founding the band in Sacramento, California in 1988, when he was still a teenager. He is one of only two original members still in the band, making him one of alternative metal's longest-serving drummers.
 
 **Q: What bands did Shannon Larkin play in before Godsmack?**
-A: Shannon Larkin played with Wrathchild America (1989–1991, later Souls at Zero), Ugly Kid Joe (1991–1997, including the hit "Everything About You"), and Amen before joining Godsmack in 2002.
+A: Shannon Larkin played with Wrathchild America (1989–1991) and Ugly Kid Joe (1991–1997, including the hit "Everything About You") before joining Godsmack in 2002.
 
 **Q: What is Abe Cunningham's drumming style known for?**
 A: Abe Cunningham is known for unconventional, feel-first drumming that prioritizes space, dynamics, and emotional arc over technical complexity. His influences include John Bonham, Stewart Copeland, and Chad Sexton, and his playing on tracks like "Digital Bath" and "Elite" (which won a Grammy for Best Metal Performance) showcases his dynamic range.

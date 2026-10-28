@@ -1,6 +1,6 @@
 # Mikkey Dee vs Shannon Larkin — Drum Kit Comparison
 
-> Side-by-side gear comparison between Mikkey Dee (Scorpions / Motörhead) and Shannon Larkin (Godsmack / Ugly Kid Joe / Amen).
+> Side-by-side gear comparison between Mikkey Dee (Scorpions / Motörhead) and Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/mikkey-dee-vs-shannon-larkin
 
@@ -26,7 +26,7 @@ Motörhead/Scorpions' Mikkey Dee vs Godsmack's Shannon Larkin. Classic heavy-met
 
 ## Playing Style
 
-Mikkey Dee joined Motörhead in 1992, following stints with King Diamond (1985-1989) and Don Dokken, and spent 23 years as Lemmy Kilmister's drummer — the longest tenure of any Motörhead drummer — anchoring the band's relentless rock 'n' roll assault across albums including "Bastards" (1993), "Overnight Sensation" (1996), and the band's final studio album "Bad Magic" (2015) before Lemmy's death in December 2015; he has drummed for Scorpions since 2016. Shannon Larkin drummed for Godsmack from 2002 to 2024 — the band's longest-serving drummer — driving the group's hard rock machine with thunderous groove power across multi-platinum albums including "Faceless," "IV," and "When Legends Rise," after earlier stints with Wrathchild America, Ugly Kid Joe, and Amen.
+Mikkey Dee joined Motörhead in 1992, following stints with King Diamond (1985-1989) and Don Dokken, and spent 23 years as Lemmy Kilmister's drummer — the longest tenure of any Motörhead drummer — anchoring the band's relentless rock 'n' roll assault across albums including "Bastards" (1993), "Overnight Sensation" (1996), and the band's final studio album "Bad Magic" (2015) before Lemmy's death in December 2015; he has drummed for Scorpions since 2016. Shannon Larkin drummed for Godsmack from 2002 to 2024 — the band's longest-serving drummer — driving the group's hard rock machine with thunderous groove power across multi-platinum albums including "Faceless," "IV," and "When Legends Rise," after earlier stints with Wrathchild America and Ugly Kid Joe.
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Mikkey Dee drummed for Motörhead from 1992 to 2015 and has played for Scorpi
 A: Mikkey Dee plays Sonor drums with a Sonor Mikkey Dee Signature snare and Paiste Signature Series cymbals, driven by a DW 5000 Series double pedal. Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals, driven by a DW 9000 Series double pedal.
 
 **Q: What bands are Mikkey Dee and Shannon Larkin known for?**
-A: Mikkey Dee played with King Diamond (1985-1989) and Motörhead (1992-2015), and has drummed for Scorpions since 2016. Shannon Larkin drummed for Godsmack (2002-2024) and earlier played with Wrathchild America, Ugly Kid Joe, and Amen.
+A: Mikkey Dee played with King Diamond (1985-1989) and Motörhead (1992-2015), and has drummed for Scorpions since 2016. Shannon Larkin drummed for Godsmack (2002-2024) and earlier played with Wrathchild America and Ugly Kid Joe.
 
 **Q: Is Shannon Larkin still Godsmack's drummer?**
 A: No — Shannon Larkin was Godsmack's drummer from 2002 to 2024, making him the band's longest-serving drummer, but he is no longer with the band as of 2024.
@@ -67,4 +67,4 @@ A: No — Shannon Larkin was Godsmack's drummer from 2002 to 2024, making him th
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

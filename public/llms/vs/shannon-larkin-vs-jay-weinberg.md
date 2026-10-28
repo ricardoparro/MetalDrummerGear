@@ -1,6 +1,6 @@
 # Shannon Larkin vs Jay Weinberg — Drum Kit Comparison
 
-> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Amen) and Jay Weinberg (Suicidal Tendencies).
+> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America) and Jay Weinberg (Suicidal Tendencies).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/shannon-larkin-vs-jay-weinberg
 
@@ -56,7 +56,7 @@ A: Shannon Larkin plays ddrum Dios Series drums with Sabian AAX Series cymbals (
 A: Jay Weinberg played SJC Custom Drums with Zildjian cymbals and DW hardware during his Slipknot tenure.
 
 **Q: What is Shannon Larkin's background before Godsmack?**
-A: Shannon Larkin played with Wrathchild America (1989–1991), Ugly Kid Joe (1991–1997, including the hit "Everything About You"), and Amen before joining Godsmack in 2002.
+A: Shannon Larkin played with Wrathchild America (1989–1991) and Ugly Kid Joe (1991–1997, including the hit "Everything About You") before joining Godsmack in 2002.
 
 ---
 
@@ -67,4 +67,4 @@ A: Shannon Larkin played with Wrathchild America (1989–1991), Ugly Kid Joe (19
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

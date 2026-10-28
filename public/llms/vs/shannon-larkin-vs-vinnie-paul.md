@@ -1,6 +1,6 @@
 # Shannon Larkin vs Vinnie Paul — Drum Kit Comparison
 
-> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Amen) and Vinnie Paul (Pantera / Damageplan / Hellyeah).
+> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America) and Vinnie Paul (Pantera / Damageplan / Hellyeah).
 
 **Category:** Thrash Metal · **URL:** https://metalforge.io/vs/shannon-larkin-vs-vinnie-paul
 
@@ -67,4 +67,4 @@ A: Vinnie Paul was known for gripping his drumsticks by the tapered end rather t
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*

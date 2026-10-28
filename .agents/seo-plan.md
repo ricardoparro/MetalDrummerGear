@@ -14705,3 +14705,53 @@ Followed up on two threads from the prior (10-27 19:0x) run's notes and continue
 2. Content-gap: 0 rows this week — no action.
 3. Drum-chair watch: not due this run (Wednesday); next due Monday 2026-11-02, group 1.
 4. `drummerComparisons.js` sweep continues to be productive (9 drummers checked this run across 3 agents, 2 new fabrications found); Ben Koller/Mikkey Dee/Gavin Harrison fully clean — good candidate to continue next run with another fresh batch of top-traffic/top-query drummer names not yet checked in this file.
+
+---
+
+## 2026-10-28 (run, Wednesday, ~07:0x UTC) — drummerComparisons.js sweep continuation, 5 filed (#9856-9860)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed — unchanged.
+- `/llms/*.md`: 2,027 markdown files total, 72 under `public/llms/drummers/` — unchanged.
+- Bank check: 8 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #3819/#3810/#2211 + #9846-9849 from the 01:0x run, not yet CEO-triaged) — well under the 45 floor → filed 5 (matched to confirmed findings, not padded to 8).
+- Open PRs: 0. Open `ai-fix`: 24 (all `hold`-labeled roster/band additions under the new-page freeze, consistent with recent runs).
+- Content-gap: 0 rows this week (metrics.md, refreshed 07:03 UTC) — no action.
+- Drum-chair watch: today is Wednesday — not the Monday trigger day, section skipped per instructions.
+
+### Metrics readout
+- GSC 7d: 17,039 impr / 178 clicks / 1.04% CTR / pos 9.1.
+- GA4 7d: 392u/438s/645v. Top pages: `/drummer/mario-duplantier` (14v), `/` (13v), `/drummer/frost` (12v), `/drummer/joey-jordison` (12v), `/drummers` (10v), `/drummers/mike-portnoy/evolution` (10v), `/drummers/vinnie-paul/evolution` (10v), `/drummer/hellhammer` (9v), `/drummer/shannon-larkin` (9v).
+
+### Method
+Continued the `drummerComparisons.js` sweep with a fresh batch of 9 drummers not yet checked in this file, prioritizing Shannon Larkin (this week's top-GA4 names). Dispatched 3 parallel agents (3 drummers each, cap 2 findings each), same methodology as prior runs (grep every vs-entry, cross-check `endorsementNews.js`/`bands.js`/`extendedBios.js`, check llms mirrors, dedup-search before reporting):
+- Agent 1 (Shannon Larkin, Travis Orbin, Paul Bostaph): Travis Orbin and Paul Bostaph fully clean. Shannon Larkin: 2 fabrications — a fabricated "Candlebox" band-history tenure (he was never in that band; verified list is Wrathchild America/Ugly Kid Joe/Another Animal per #9204) across 3 locations, and a fabricated "Ddrum Shannon Larkin Signature" snare (verified: standard non-signature ddrum Dios 14x6.5" Maple) — the entry's own FAQ already states he has no signature-gear deals, confirming the internal contradiction.
+- Agent 2 (Morgan Ågren, Alex Rüdinger, Navene Koperweis): Alex Rüdinger not mentioned anywhere in this file (nothing to check). Morgan Ågren fully clean. Navene Koperweis: Entheos founding year conflated with his 2012 AAL departure across 3 entries/6 locations — Entheos was actually founded in 2015 per `bands.js:2528`; closed #8241 fixed this same conflation in `gearPriceHistory.js`/`albumArticles.js` but never touched this file.
+- Agent 3 (Daniel Erlandsson, Nicko McBrain, Derek Roddy): Daniel Erlandsson fully clean. Nicko McBrain: shown as still actively touring ("remains Maiden's drummer to this day across more than 40 years of arena touring") contradicting his verified Dec 2024 touring retirement — same staleness bug class already fixed in sibling files (#9295/#9418/#9453) but never this one. Derek Roddy: Nile stint fabricated as a 2-year tenure (2000-2002) vs. verified single-year session credit (`bands.js:1097`, period "2000") — explicitly scoped away from the unrelated open/held snare dispute (#7981).
+
+Independently re-verified every cited line myself before filing (not trusting subagent line numbers blindly) — caught and corrected one line-number error from Agent 1 (claimed a 4th "Candlebox" occurrence at line 2227; live grep showed only 3 occurrences total at lines 2113/2978/2987, no "Candlebox" text at 2227). Also confirmed `bands.js:1097`'s exact Nile drummerHistory entry for Roddy, `bands.js:2528`'s exact Entheos founding text, and `bands.js:2769`'s exact McBrain retirement text, plus all llms mirror recurrences, before filing each issue.
+
+### Proposals filed this run
+1. #9856 — SEO: Shannon Larkin fabricated 'Candlebox' tenure in drummerComparisons.js (3 locations)
+2. #9857 — SEO: Shannon Larkin snare fabricated as 'Ddrum Shannon Larkin Signature' in drummerComparisons.js
+3. #9858 — SEO batch: Navene Koperweis Entheos founding year wrong across drummerComparisons.js (3 entries, 6 locations)
+4. #9859 — SEO: Derek Roddy's Nile stint fabricated as 2-year tenure (2000-2002) in drummerComparisons.js
+5. #9860 — SEO batch: Nicko McBrain shown as currently touring in drummerComparisons.js (2 entries, contradicts Dec 2024 retirement)
+
+### Held-back / not filed
+- None this run — all agent-surfaced candidates were either confirmed and filed, or confirmed clean/out-of-scope (Alex Rüdinger has zero mentions in this file; "Amen" band-history fabrication noted alongside Candlebox but deliberately left out of #9856's scope as a separate, more-pervasive finding for a future pass).
+
+### Learned-patterns.md updates
+- None this run — all 5 findings are instances of already-documented fabrication classes (pure band-history fabrication, internal self-contradiction on signature gear, era/date conflation, retirement-staleness) recurring in a file that simply hadn't been checked for these specific drummers yet.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9846-9849 (2026-10-28 01:0x run, likely already CEO-triaged by now)
+- #9856-9860 (this run, 5 fresh)
+
+### Next run
+1. Watch #9856-9860 pick up via CEO triage then Roadie; confirm #9856 leaves "Amen" untouched (separate finding), #9858's 6-location fix across 3 entries preserves the correct 2012 AAL-departure date while only correcting the Entheos founding-year implication, #9859 doesn't touch Derek Roddy's snare (respects #7981's hold), and #9860's fix keeps McBrain as a current official/studio member (only touring status changes).
+2. Content-gap: 0 rows this week — no action.
+3. Drum-chair watch: not due this run (Wednesday); next due Monday 2026-11-02, group 1.
+4. Held-back candidate for a future pass: the pervasive "Amen" band-affiliation fabrication noted alongside #9856's Candlebox fix — recurs across many more `drummerComparisons.js` entries per #9204's prior findings, worth its own dedicated sweep.
+5. `drummerComparisons.js` sweep continues to be productive (9 more drummers checked this run, 5 fabrications found across 3 drummers); Travis Orbin/Paul Bostaph/Morgan Ågren/Daniel Erlandsson fully clean, Alex Rüdinger has zero entries in this file — good candidate to continue next run with another fresh batch of top-traffic/top-query drummer names not yet checked.

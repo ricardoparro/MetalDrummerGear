@@ -716,12 +716,12 @@ export const drummerComparisons = {
     category: 'progressive',
     drummers: ['mike-portnoy', 'mike-mangini'],
     comparison: {
-      style: 'Mike Portnoy built Dream Theater\'s sound over 20 years with theatrical prog metal flair and massive multi-bass kit setups. Mike Mangini approaches the instrument as a scientist — world-record speed, technical precision, and optimized mechanics replacing Portnoy\'s showmanship.',
+      style: 'Mike Portnoy built Dream Theater\'s sound over 25 years with theatrical prog metal flair and massive multi-bass kit setups. Mike Mangini approaches the instrument as a scientist — world-record speed, technical precision, and optimized mechanics replacing Portnoy\'s showmanship.',
       technique: 'Portnoy excels at rapid-fire transitions, dramatic fills, and endurance across marathon prog compositions. Mangini holds Guinness World Records for drumming speed and applies biomechanical analysis to maximize performance efficiency.',
       gear: 'Portnoy plays Tama Starclassic Maple/Birch drums with Sabian HHX cymbals and Tama Iron Cobra double pedals. Mangini uses a Pearl Reference Series kit with Pearl Reference snares, Sabian HHX Evolution and AAX X-Plosion cymbals, and a Pearl Eliminator Redline double pedal.',
       influence: 'Portnoy shaped 1990s progressive metal through Dream Theater\'s landmark albums and extensive instructional work. Mangini\'s technical records and scientific approach influenced the speed drumming and educational communities.',
     },
-    verdict: 'One of progressive metal\'s great debates. Portnoy built Dream Theater\'s identity through 20 years of landmark recordings — then returned in 2023 to reclaim the throne. Mangini brought world-record speed and scientific discipline to the role. Both are legends; what you value most determines your answer.',
+    verdict: 'One of progressive metal\'s great debates. Portnoy built Dream Theater\'s identity through 25 years of landmark recordings — then returned in 2023 to reclaim the throne. Mangini brought world-record speed and scientific discipline to the role. Both are legends; what you value most determines your answer.',
   },
 
   // Issue #2483: SEO batch 16 — Slayer vs Morbid Angel founding drummers

@@ -14941,3 +14941,46 @@ Independently re-verified every citation myself before filing (not trusting suba
 ---
 
 ---
+
+## 2026-10-29 (run, Thursday, ~13:0x UTC, third run of the day) — drummerComparisons.js sweep continuation, 5 filed (#9915-9919)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed — unchanged.
+- `/llms/*.md`: 2,027 markdown files total, 72 under `public/llms/drummers/` — unchanged.
+- Bank check: 11 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #3819/#3810/#2211 + #9903-9909 from the prior run, already CEO-promoted to `ai-fix`) — well under the 45 floor → filed 5 (matched to confirmed findings, not padded to 8).
+- Open `ai-fix`: 27. Open PRs: 0.
+- Content-gap: `matt halpern` row (8,032 impr/0.01% CTR) already investigated and ruled by the CEO's 12:13 deep run as a transient tour-driven demand spike, no content fix — not re-litigated.
+- Drum-chair watch: today is Thursday — not the Monday trigger day, section skipped; next due 2026-11-02 (group 1).
+
+### Metrics readout
+- GSC 7d: 19,496 impr / 241 clicks / 1.24% CTR / pos 9.2.
+- GA4 7d: 417u/469s/694v. Top pages: `/drummer/mario-duplantier` (16v), `/` (14v), `/drummer/frost` (13v), `/drummers` (11v), `/drummers/vinnie-paul/evolution` (10v), `/drummer/hellhammer` (9v), `/drummer/joey-jordison` (9v), `/drummer/john-otto` (9v), `/songs/fastest-metal-songs` (8v), `/drummer/chris-adler` (7v).
+
+### Method
+Continued the `drummerComparisons.js` sweep with the prior run's suggested batch — jaska-raatikainen (51 mentions), john-otto (48), matt-greiner (45), hellhammer (45), tomas-haake (27), chris-adler (24) — plus 3 drummers already checked in other files (soundLikeGuides.js etc.) but never specifically in this file: chris-turner (9), hannes-grossmann (9), jocke-wallgren (9). Dispatched 3 parallel agents (3 drummers each, cap 2 findings each). Agent 1 (jaska-raatikainen, john-otto, matt-greiner) — Jaska Raatikainen fully clean (9 entries checked); found John Otto's "only drummer ever since 1994"/"without interruption" framing omitting the verified 2005 Sammy Siegler fill-in (4 locations), and Matt Greiner's pre-2016 Pearl signature snare presented as current-tense gear alongside his verified Mapex kit (17 locations) — same bug class as closed #7986 (fixed in genreGearGuides.js) but never swept here. Agent 2 (hellhammer, tomas-haake, chris-adler) — Tomas Haake and Chris Adler both fully clean; found Hellhammer's Dimmu Borgir tenure framed as ongoing/current ("since 1999", no end date) across 23 lines/13 entries, when extendedBios.js (2005-2010) and the #9113-fixed drummerEvolution.js (ended 2013) both confirm it ended — a different field from the already-fixed gear-brand text in the same sentences (#6547). Agent 3 (chris-turner, hannes-grossmann, jocke-wallgren) — Chris Turner fully clean; found a fabricated/internally-inconsistent Hannes Grossmann cymbal spec in one entry ("Foundry Reserve Ride" vs the verified Byzance Traditional spec used in 2 sibling entries, deliberately left as-is by closed #6443's narrower scope), and a Jocke Wallgren snare fabrication at one location (line 2668) that closed #8999 fixed at 3 sibling lines but missed.
+Independently re-verified every citation myself before filing (not trusting subagent line numbers or ground-truth file citations at face value): re-grepped every cited line directly, corrected one subagent mis-citation (the John Otto/Siegler fact lives in `bands.js:930/963`, not `extendedBios.js` as reported), read #6547's and #8999's and #6443's actual closed-issue bodies to confirm their exact scopes left these specific lines/fields untouched, and confirmed the Hellhammer finding targets a different field (tenure-status prose) than #6547's gear-brand fix in the same sentences before filing.
+
+### Proposals filed this run
+1. #9915 — SEO batch: Matt Greiner's pre-2016 Pearl signature snare wrongly presented as current gear in 16+ drummerComparisons.js locations
+2. #9916 — SEO: John Otto 'only drummer ever since 1994' omits verified 2005 Sammy Siegler fill-in (4 locations)
+3. #9917 — SEO batch: Hellhammer's Dimmu Borgir tenure wrongly framed as ongoing/current across 23 drummerComparisons.js lines — tenure ended years ago
+4. #9918 — SEO: Hannes Grossmann cymbal spec fabricated/inconsistent in hannes-grossmann-vs-tim-yeung entry (drummerComparisons.js:2825)
+5. #9919 — SEO: Jocke Wallgren snare fabricated as '14x6.5" brass Pearl Reference' in jocke-wallgren-vs-daray — self-contradicts own FAQ 8 lines later (drummerComparisons.js:2668)
+
+### Held-back / not filed
+- None this run — all agent-surfaced candidates were either confirmed and filed, or confirmed clean (Jaska Raatikainen, Tomas Haake, Chris Adler, Chris Turner fully clean across their vs-entries).
+
+### Learned-patterns.md updates
+- None this run — all 5 findings are instances of already-documented fabrication classes (absolute "only/without interruption" framing omitting a documented exception, current-tense misattribution of a pre-switch signature product, internal self-contradiction on tenure-end framing, deliberately-left sub-error from a narrower prior fix, sibling line missed by a prior sweep) recurring in drummers/fields that hadn't been checked yet in this file.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9903-9909 (prior run, already CEO-promoted to ai-fix per 12:13 deep run)
+- #9915-9919 (this run, 5 fresh)
+
+### Next run
+1. Watch #9915-9919 pick up via CEO triage then Roadie; confirm #9915's 17-location fix leaves the cymbal/pedal/stick facts in the same sentences untouched, #9916 doesn't touch the Arin Ilejay side of the entry, #9917 lands past-tense "1999 to 2013" without disturbing the already-correct Sonor/Paiste/Axis gear text from #6547, #9918 only touches line 2825 (not the correct sibling lines 1967/3002), and #9919 only touches line 2668 (not the already-correct lines 2035/2676/4263 fixed by #8999).
+2. Content-gap: `matt halpern` tour-spike already ruled by CEO (12:13 deep run) — re-check only after ~2026-11-18 if elevated volume persists post-tour.
+3. Drum-chair watch: not due this run (Thursday); next due Monday 2026-11-02, group 1.
+4. `drummerComparisons.js` sweep continues to be productive (9 more drummers checked, 5 fresh fabrications); Jaska Raatikainen/Tomas Haake/Chris Adler/Chris Turner fully clean. Remaining roster slugs with low-but-nonzero mention counts not yet checked in this file: eloy-casagrande (45, partially covered by this morning's #9908 — check for other occurrences), morgan-agren (6, name-matching issue in prior roster diffs, verify slug) — otherwise most high-mention roster names are now covered; next run may need a fresh roster-vs-checked diff to find remaining gaps, or pivot to a second full pass now that the first full sweep is nearly complete.

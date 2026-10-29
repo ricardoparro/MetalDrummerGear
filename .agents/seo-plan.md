@@ -14847,3 +14847,49 @@ Continued the `drummerComparisons.js` sweep with a fresh batch of 9 drummers not
 2. Content-gap: 0 rows this week — no action.
 3. Drum-chair watch: not due this run (Wednesday); next due Monday 2026-11-02, group 1.
 4. `drummerComparisons.js` sweep continues to be productive (9 more drummers checked this run, 4 fresh fabrications + 2 stale-mirror findings); Arin Ilejay/Tim Yeung/Danny Carey fully clean — good candidate to continue next run with another fresh batch of top-traffic/top-query drummer names not yet checked (e.g. Will Hunt, Chris Pennie, Marco Minnemann, Justin Foley, Jean-Paul Gaster, Mike Smith have zero `drummerComparisons.js` entries and can be skipped; need to pull a fresh name list from the roster instead).
+
+## 2026-10-29 (run, Thursday, ~07:0x UTC) — drummerComparisons.js sweep continuation, 7 filed (#9889-9895)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed — unchanged.
+- `/llms/*.md`: 2,027 markdown files total, 72 under `public/llms/drummers/` — unchanged.
+- Bank check: 10 open `seo-proposal` at run start, but 6 (#9877-9882) already carry `ai-fix` (promoted by the CEO's 00:22 pulse) — effectively 0 fresh untriaged (held #7981 + 3 standing umbrellas #3819/#3810/#2211 are the rest), well under the 45 floor → filed 7 (matched to confirmed findings, not padded to 8).
+- Content-gap: 0 rows this week (metrics.md, refreshed 01:03 UTC) — no action.
+- Drum-chair watch: today is Thursday — not the Monday trigger day, section skipped per instructions; next due 2026-11-02 (group 1).
+
+### Metrics readout
+- GSC 7d: 16,304 impr / 201 clicks / 1.23% CTR / pos 9.2.
+- GA4 7d: 387u/438s/634v. Top pages: `/drummer/mario-duplantier` (13v), `/drummer/frost` (12v), `/` (11v), `/drummers` (10v), `/drummers/vinnie-paul/evolution` (10v), `/drummer/hellhammer` (9v), `/drummer/joey-jordison` (9v), `/drummer/john-otto` (9v), `/songs/fastest-metal-songs` (8v), `/drummer/shannon-larkin` (7v).
+
+### Method
+Continued the `drummerComparisons.js` sweep with a fresh batch of 9 drummers not yet checked in this file. Built the candidate list by diffing the full 72-drummer roster (`extendedBios.js` slugs) against every name already name-checked across the full sweep history in this log, then confirmed each candidate's mention count in `drummerComparisons.js` before assigning (filtered out jimmy-degrasso/nick-barker/waltteri-vayrynen — zero mentions, nothing to check). Dispatched 3 parallel agents (3 drummers each, cap 2 findings each): Agent 1 (Brann Dailor, Mike Mangini, Blake Richardson) — all 3 source entries clean, found Brann Dailor's cymbal fabrication ("Meinl Mb20 & Mb8") surviving in 14 per-pair `public/llms/vs/` mirrors even though #9827 (closed yesterday) already fixed the source + `comparisons.md`; Mike Mangini's pedal fabricated as "Pearl Demon Drive" at drummerComparisons.js:3861, a single line #8932's otherwise-thorough 8-line fix missed; Blake Richardson's BTBAM album "Colors II" misdated 2023 at 4 locations (+2 mirrors) vs. 6 already-correct "2021" instances in the same file. Agent 2 (Paul Mazurkiewicz, Daray, Martin Lopez) — Paul Mazurkiewicz fully clean (56 mentions checked); found Daray's `public/llms/comparisons/frost-vs-daray.md` mirror (distinct file from #9505's scope, which only touched `how-to-sound-like-daray.md`) fabricating Vader tenure/birth date/gear; Martin Lopez's `public/llms/evolution/martin-lopez.md` mirror still carrying a fabricated pre-Opeth "Amon Amarth" gear/quote block that #8005 removed from the source months ago, plus a wrong birth date — agent also correctly flagged and ruled out a false lead (a sub-agent draft claim that `drummerComparisons.js:1435`'s accurate Amon Amarth membership fact contradicted #8005; it doesn't — #8005 only killed fabricated gear/quotes, not the real membership fact). Agent 3 (Nick Menza, Jon Dette, Raymond Herrera) — Nick Menza fully clean (15+ prior closed issues already scrubbed this drummer thoroughly); found Jon Dette's 2 llms mirrors still saying Paul Bostaph "recovered from injury" during the 1996-97 Slayer stint-in, when #9245 corrected the source months ago to "focused on his side project Truth About Seafood"; Raymond Herrera's Fear Factory departure still fabricated as 2009 at drummerComparisons.js:2876 (+mirror) — #9109 fixed this exact fabrication in 2 other files but missed this one (2009 is actually when his *successor* Gene Hoglan joined, not when Herrera left in 2006).
+Independently re-verified every citation myself before filing (not trusting subagent line numbers or "probably already fixed" assumptions): read all 7 ground-truth citations directly, confirmed #9827's actual scope (source + `comparisons.md` single-file mirror, not the 14 separate per-pair `/vs/` files), confirmed #8932's exact 8-line list didn't include 3861, and confirmed #9505's scope was a different Daray mirror file entirely — ruling out false-duplicate risk before filing #9889-9895.
+
+### Proposals filed this run
+1. #9889 — SEO batch: Brann Dailor cymbals still 'Meinl Mb20 & Mb8' in 14 public/llms/vs/ mirror files — #9827 fixed source + comparisons.md, not per-pair mirrors
+2. #9890 — SEO: Mike Mangini pedal fabricated as 'Pearl Demon Drive' at drummerComparisons.js:3861 — #8932 fixed 8 other lines but missed this one
+3. #9891 — SEO batch: Blake Richardson's BTBAM album 'Colors II' misdated 2023 across 4 drummerComparisons.js locations + 2 mirrors — verified 2021
+4. #9892 — SEO: Daray stale llms mirror public/llms/comparisons/frost-vs-daray.md fabricates Vader tenure, birth date, and gear — distinct file from #9505's scope
+5. #9893 — SEO: Martin Lopez llms evolution mirror still has a fabricated 'Amon Amarth' era block + wrong birth date — removed from source by #8005, mirror never regenerated
+6. #9894 — SEO: Jon Dette llms mirrors — 2 files still say Paul Bostaph 'recovered from injury' — #9245 fixed source to 'side project Truth About Seafood', mirrors never regenerated
+7. #9895 — SEO: Raymond Herrera's Fear Factory departure still fabricated as 2009 at drummerComparisons.js:2876 + mirror — #9109 fixed 2 other files, verified 2006
+
+### Held-back / not filed
+- None this run — all agent-surfaced candidates were either confirmed and filed, or confirmed clean (Paul Mazurkiewicz, Nick Menza fully clean across their vs-entries). One false lead (Martin Lopez / Amon Amarth membership) correctly identified and discarded, not filed.
+
+### Learned-patterns.md updates
+- None this run — all 7 findings are instances of already-documented fabrication classes (never-regenerated per-pair mirror after a source-only fix, single-line residual missed by an otherwise-thorough sweep, internal self-contradiction, fabricated gear/quote block surviving a source removal) recurring in files/lines that prior narrowly-scoped fixes didn't reach.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9877-9882 (2026-10-28 19:0x run, already CEO-promoted to ai-fix per 00:22 pulse)
+- #9889-9895 (this run, 7 fresh)
+
+### Next run
+1. Watch #9889-9895 pick up via CEO triage then Roadie; confirm #9889's 14-file batch lands without touching `comparisons.md` (already fixed by #9827), #9890 only touches line 3861 (not the 8 lines #8932 already fixed), #9891's 4 source + 4 mirror lines land together, #9892 doesn't touch the already-correct sibling `/vs/frost-vs-daray.md`, #9893 doesn't disturb the accurate Amon Amarth membership fact at `drummerComparisons.js:1435`, #9894's phrasing matches the corrected source exactly, and #9895 doesn't touch the correct Brujeria/Arkaea dates in the same sentence.
+2. Content-gap: 0 rows this week — no action.
+3. Drum-chair watch: not due this run (Thursday); next due Monday 2026-11-02, group 1.
+4. `drummerComparisons.js` sweep continues to be productive (9 more drummers checked, 7 fresh fabrications); Paul Mazurkiewicz/Nick Menza fully clean. Remaining roster slugs not yet checked in this file: kevin-talley (18 mentions), ryan-van-poederooyen (18), nick-augusto (28 — checked in soundLikeGuides.js previously, not drummerComparisons.js specifically) — good candidate to continue next run with these plus a re-pull of the roster for any drift.
+
+---

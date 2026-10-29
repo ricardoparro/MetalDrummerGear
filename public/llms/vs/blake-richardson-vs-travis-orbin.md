@@ -26,7 +26,7 @@ Between the Buried and Me's Blake Richardson vs ex-Periphery's Travis Orbin. Jaz
 
 ## Playing Style
 
-Blake Richardson has been the drummer for American progressive metal band Between the Buried and Me since early 2005, fusing death metal precision with jazz influences across genre-spanning, fill-heavy compositions on landmark albums like "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2023), earning Grammy nominations along the way. Travis Orbin played drums in Periphery from 2006 to 2009, in the band's pre-recording years, leaving before the group wrote or recorded its self-titled 2010 debut — a record widely credited with helping define the djent movement, recorded by his replacement Matt Halpern — before moving on to thrash band Darkest Hour in 2013, building a parallel reputation as a prolific session player and YouTube playthrough artist.
+Blake Richardson has been the drummer for American progressive metal band Between the Buried and Me since early 2005, fusing death metal precision with jazz influences across genre-spanning, fill-heavy compositions on landmark albums like "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2021), earning Grammy nominations along the way. Travis Orbin played drums in Periphery from 2006 to 2009, in the band's pre-recording years, leaving before the group wrote or recorded its self-titled 2010 debut — a record widely credited with helping define the djent movement, recorded by his replacement Matt Halpern — before moving on to thrash band Darkest Hour in 2013, building a parallel reputation as a prolific session player and YouTube playthrough artist.
 
 ## Technique
 
@@ -56,7 +56,7 @@ A: Travis Orbin played drums in Periphery from 2006 to 2009, before the band wro
 A: Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" Brass snare and Sabian HHX Evolution & AAX Holy China cymbals. Travis Orbin plays SJC Custom Drums with an SJC Custom 14x6.5" Maple snare and Zildjian K Custom Series cymbals, plus a Roland SPD-SX sampling pad for electronic triggers.
 
 **Q: How long has Blake Richardson been in Between the Buried and Me?**
-A: Blake Richardson joined Between the Buried and Me in early 2005, replacing former drummer Jason Roe, and has been the band's drummer ever since — recording landmark albums including "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2023).
+A: Blake Richardson joined Between the Buried and Me in early 2005, replacing former drummer Jason Roe, and has been the band's drummer ever since — recording landmark albums including "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2021).
 
 ---
 

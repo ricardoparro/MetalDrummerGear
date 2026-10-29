@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-28 19:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-29 00:22 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,84 +8,84 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 406 |
-| Sessions | 455 |
-| Page views | 664 |
-| Engagement rate | 60.44% |
-| Avg session (s) | 105 |
+| Active users | 384 |
+| Sessions | 435 |
+| Page views | 629 |
+| Engagement rate | 58.62% |
+| Avg session (s) | 119 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummer/mario-duplantier | 14 | 6 |
-| / | 13 | 10 |
-| /drummer/frost | 13 | 5 |
-| /drummer/joey-jordison | 12 | 7 |
+| /drummer/mario-duplantier | 13 | 5 |
+| /drummer/frost | 12 | 5 |
+| / | 11 | 7 |
 | /drummers | 10 | 4 |
-| /drummers/mike-portnoy/evolution | 10 | 3 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
 | /drummer/hellhammer | 9 | 4 |
+| /drummer/joey-jordison | 9 | 5 |
 | /drummer/john-otto | 9 | 7 |
-| /drummer/shannon-larkin | 9 | 6 |
+| /songs/fastest-metal-songs | 8 | 6 |
+| /drummer/shannon-larkin | 7 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 351 | 303 |
-| Direct | 101 | 101 |
-| Unassigned | 8 | 8 |
+| Organic Search | 336 | 284 |
+| Direct | 96 | 96 |
+| Unassigned | 18 | 17 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 139 | 123 |
+| United States | 128 | 113 |
 | Singapore | 42 | 42 |
-| China | 28 | 28 |
-| United Kingdom | 28 | 16 |
-| Australia | 20 | 15 |
+| United Kingdom | 30 | 16 |
+| China | 22 | 22 |
+| Australia | 19 | 14 |
 | Canada | 14 | 14 |
+| Germany | 13 | 12 |
 | Netherlands | 13 | 11 |
-| Germany | 11 | 10 |
-| Brazil | 7 | 7 |
-| France | 7 | 7 |
+| Brazil | 9 | 9 |
+| France | 8 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 20,186 |
-| Clicks | 232 |
-| CTR | 1.15% |
-| Avg position | 9.1 |
+| Impressions | 16,304 |
+| Clicks | 201 |
+| CTR | 1.23% |
+| Avg position | 9.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| death metal drum kit | 10 | 4 | 40.00% | 4.4 |
-| john otto cymbal setup | 11 | 3 | 27.27% | 5.8 |
-| matt garstka drum kit | 21 | 3 | 14.29% | 6.7 |
-| joey jordison drum set | 59 | 2 | 3.39% | 10.1 |
+| death metal drum kit | 9 | 4 | 44.44% | 4.8 |
+| john otto cymbal setup | 10 | 3 | 30.00% | 5.7 |
+| joey jordison drum set | 48 | 2 | 4.17% | 10.3 |
+| matt garstka drum kit | 14 | 2 | 14.29% | 6.3 |
 | matt greiner drum kit | 2 | 2 | 100.00% | 3.0 |
 | best death metal drummers of all time | 3 | 1 | 33.33% | 3.3 |
 | danny carey drum set | 13 | 1 | 7.69% | 12.5 |
 | fastest double bass drummer | 5 | 1 | 20.00% | 5.4 |
-| fastest double kick drummer | 6 | 1 | 16.67% | 4.8 |
+| fastest double kick drummer | 5 | 1 | 20.00% | 5.0 |
 | frost drums | 3 | 1 | 33.33% | 5.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,033 | 64 | 1.59% | 8.0 |
-| gbr | 1,104 | 14 | 1.27% | 9.2 |
-| aus | 619 | 11 | 1.78% | 8.4 |
-| can | 786 | 10 | 1.27% | 8.6 |
-| nld | 266 | 9 | 3.38% | 7.1 |
-| deu | 441 | 8 | 1.81% | 7.9 |
-| swe | 213 | 8 | 3.76% | 7.1 |
-| cze | 93 | 7 | 7.53% | 7.2 |
-| ita | 330 | 6 | 1.82% | 8.3 |
-| tha | 249 | 6 | 2.41% | 9.6 |
+| usa | 3,338 | 56 | 1.68% | 8.0 |
+| gbr | 856 | 13 | 1.52% | 9.1 |
+| can | 647 | 9 | 1.39% | 8.6 |
+| nld | 219 | 9 | 4.11% | 7.2 |
+| aus | 478 | 8 | 1.67% | 8.4 |
+| cze | 80 | 7 | 8.75% | 6.8 |
+| deu | 361 | 7 | 1.94% | 7.9 |
+| swe | 181 | 7 | 3.87% | 7.2 |
+| tha | 200 | 6 | 3.00% | 9.6 |
+| grc | 111 | 5 | 4.50% | 8.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

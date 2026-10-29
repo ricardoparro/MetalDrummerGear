@@ -83,7 +83,7 @@ const KIT_VALUES = {
   15: { label: 'Tama Starclassic Bubinga + Zildjian K/A Custom',      est: '$10,000–$16,000' },
   16: { label: 'Tama Starclassic Performer B/B + Meinl Byzance',      est: '$8,000–$13,000' },
   17: { label: 'Mapex Black Panther Design Lab + Meinl Byzance',      est: '$9,000–$14,000' },
-  19: { label: 'Pearl Masterworks + Paiste RUDE',                      est: '$14,000–$20,000' },
+  19: { label: 'Pearl Reference Series + Paiste RUDE',                 est: '$14,000–$20,000' },
   20: { label: 'Sonor SQ2 Heavy Beech + Paiste RUDE',                 est: '$12,000–$18,000' },
 };
 

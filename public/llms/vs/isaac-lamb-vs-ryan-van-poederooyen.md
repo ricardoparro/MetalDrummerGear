@@ -67,4 +67,4 @@ A: No gear endorsement of any kind is publicly documented for Isaac Lamb. Ryan V
 
 ---
 
-*Last updated: 2026-10-26 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

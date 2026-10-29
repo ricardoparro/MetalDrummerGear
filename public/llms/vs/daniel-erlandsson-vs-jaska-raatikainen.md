@@ -26,7 +26,7 @@ Arch Enemy's Daniel Erlandsson vs Children of Bodom's Jaska Raatikainen. Two mel
 
 ## Playing Style
 
-Daniel Erlandsson has been Arch Enemy's drummer since 2005, anchoring the Gothenburg melodic death metal institution through "Doomsday Machine" (2005), "Rise of the Tyrant" (2007), "Khaos Legions" (2011), "War Eternal" (2014), "Will to Power" (2017), and "Deceivers" (2022) — a run that includes the band's 2014 transition to vocalist Alissa White-Gluz and its growth into one of melodic death metal's biggest global touring acts. Jaska Raatikainen co-founded Children of Bodom in 1993 (originally as Inearthed) alongside the late Alexi Laiho, and remained the band's sole drummer for its entire 26-year run, from the 1997 debut "Something Wild" through 2019's farewell album "Hexed," helping the Finnish band sell over two million albums worldwide before its dissolution and Laiho's death in December 2020.
+Daniel Erlandsson has been Arch Enemy's founding drummer since 1995, anchoring the Gothenburg melodic death metal institution through "Doomsday Machine" (2005), "Rise of the Tyrant" (2007), "Khaos Legions" (2011), "War Eternal" (2014), "Will to Power" (2017), and "Deceivers" (2022) — a run that includes the band's 2014 transition to vocalist Alissa White-Gluz and its growth into one of melodic death metal's biggest global touring acts. Jaska Raatikainen co-founded Children of Bodom in 1993 (originally as Inearthed) alongside the late Alexi Laiho, and remained the band's sole drummer for its entire 26-year run, from the 1997 debut "Something Wild" through 2019's farewell album "Hexed," helping the Finnish band sell over two million albums worldwide before its dissolution and Laiho's death in December 2020.
 
 ## Technique
 
@@ -42,18 +42,18 @@ Erlandsson defined Arch Enemy's modern rhythmic identity — his drumming on "Ri
 
 ## Verdict
 
-Daniel Erlandsson and Jaska Raatikainen represent two of European melodic death metal's defining rhythmic voices from parallel scenes. Erlandsson has spent nearly two decades refining Arch Enemy's anthemic, production-forward Gothenburg sound with clean, controlled precision. Raatikainen spent 26 years — the entirety of Children of Bodom's existence — locking his neoclassical intensity to Alexi Laiho's guitar virtuosity before the band's 2019 dissolution. Both share a Pearl drum foundation while representing Sweden's and Finland's distinct takes on melodic death metal's golden era.
+Daniel Erlandsson and Jaska Raatikainen represent two of European melodic death metal's defining rhythmic voices from parallel scenes. Erlandsson has spent three decades refining Arch Enemy's anthemic, production-forward Gothenburg sound with clean, controlled precision. Raatikainen spent 26 years — the entirety of Children of Bodom's existence — locking his neoclassical intensity to Alexi Laiho's guitar virtuosity before the band's 2019 dissolution. Both share a Pearl drum foundation while representing Sweden's and Finland's distinct takes on melodic death metal's golden era.
 
 ## FAQ
 
 **Q: How do Daniel Erlandsson and Jaska Raatikainen compare as drummers?**
-A: Daniel Erlandsson (Arch Enemy, since 2005) plays with clean, production-forward precision built around Michael Amott's riffs. Jaska Raatikainen (Children of Bodom, 1993-2019) balanced death metal velocity with melodic awareness, locking his blast beats and double bass work to Alexi Laiho's neoclassical guitar lines. Both prioritize serving melodic, guitar-centric songwriting over technical display for its own sake.
+A: Daniel Erlandsson (Arch Enemy, founding drummer since 1995) plays with clean, production-forward precision built around Michael Amott's riffs. Jaska Raatikainen (Children of Bodom, 1993-2019) balanced death metal velocity with melodic awareness, locking his blast beats and double bass work to Alexi Laiho's neoclassical guitar lines. Both prioritize serving melodic, guitar-centric songwriting over technical display for its own sake.
 
 **Q: What gear do Daniel Erlandsson and Jaska Raatikainen use?**
 A: Daniel Erlandsson plays Pearl Reference Series or Masters Maple kits with Sabian cymbals. Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal — a shared Pearl foundation with Erlandsson, though each drummer's cymbal endorsement differs.
 
 **Q: What bands are Daniel Erlandsson and Jaska Raatikainen known for?**
-A: Daniel Erlandsson has drummed for Arch Enemy since 2005, recording albums including "Rise of the Tyrant" (2007) and "War Eternal" (2014). Jaska Raatikainen was the sole drummer for Children of Bodom from the band's 1993 founding until its 2019 dissolution, recording every studio album from "Something Wild" (1997) to "Hexed" (2019).
+A: Daniel Erlandsson has been Arch Enemy's founding drummer since 1995, recording albums including "Rise of the Tyrant" (2007) and "War Eternal" (2014). Jaska Raatikainen was the sole drummer for Children of Bodom from the band's 1993 founding until its 2019 dissolution, recording every studio album from "Something Wild" (1997) to "Hexed" (2019).
 
 **Q: Are Arch Enemy and Children of Bodom the same genre?**
 A: Both are melodic death metal, but from different national scenes — Arch Enemy is a flagship band of Sweden's Gothenburg melodic death sound, while Children of Bodom pioneered a Finnish neoclassical variant that fused death metal aggression with keyboard-driven, shred-guitar melody.
@@ -67,4 +67,4 @@ A: Both are melodic death metal, but from different national scenes — Arch Ene
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

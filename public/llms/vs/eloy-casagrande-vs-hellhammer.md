@@ -67,4 +67,4 @@ A: Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipkn
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

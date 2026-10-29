@@ -18,10 +18,10 @@ Slipknot/Sepultura's Eloy Casagrande vs Converge's Ben Koller. Brazilian dual-ba
 
 ## Ben Koller Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Drums:** Tama Starclassic Performer B/B
+- **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Snare:** Tama S.L.P. 14x6" Brass
-- **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama Throne
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Playing Style
@@ -34,7 +34,7 @@ Casagrande's São Paulo upbringing brought samba and bossa nova influences into 
 
 ## Key Differences
 
-Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal and Promark signature sticks. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Casagrande's São Paulo upbringing brought samba and bossa nova influences into his playing — even at blast-beat velocity his double kick, driven by a Tama Iron Cobra double pedal, breathes with a natural swing rather than mechanically alternating. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy.
+Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal and Promark signature sticks. Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal and Vic Firth American Classic 5B sticks. Casagrande's São Paulo upbringing brought samba and bossa nova influences into his playing — even at blast-beat velocity his double kick, driven by a Tama Iron Cobra double pedal, breathes with a natural swing rather than mechanically alternating. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Eloy Casagrande and Ben Koller both build extreme technical reputations, but fro
 A: Both are considered among modern heavy music's most demanding drummers, but in different ways. Eloy Casagrande (Slipknot, ex-Sepultura) is demanding through dual-bass-drum power and controlled, Modern Drummer-crowned precision. Ben Koller (Converge) is demanding through a loose, unpredictable attack built to make Converge's mathcore feel dangerous. Casagrande's difficulty is mechanical; Koller's is visceral.
 
 **Q: What gear do Eloy Casagrande and Ben Koller use?**
-A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal.
+A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal. Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal.
 
 **Q: What bands are Eloy Casagrande and Ben Koller known for?**
 A: Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot. Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed.
@@ -67,4 +67,4 @@ A: Yes — Eloy Casagrande was voted the #1 metal drummer in Modern Drummer's 20
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

@@ -10,10 +10,10 @@ Converge's Ben Koller vs Mastodon's Brann Dailor. Raw, unpredictable mathcore in
 
 ## Ben Koller Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Drums:** Tama Starclassic Performer B/B
+- **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Snare:** Tama S.L.P. 14x6" Brass
-- **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama Throne
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Brann Dailor Setup
@@ -34,7 +34,7 @@ Koller's technique is built for maximum unpredictability — a loose, explosive 
 
 ## Key Differences
 
-Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks — both drummers favor Tama shells, but Koller's Zildjian K Dark array is built for raw cut while Dailor's Meinl Mb20 & Mb8 Series setup is chosen for warmth and melodic sustain. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex, constantly moving patterns while simultaneously handling lead and co-lead vocal duties on many songs — a rare combination among metal drummers.
+Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal and Vic Firth American Classic 5B sticks. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks — both drummers favor Tama shells, but Koller's Zildjian K Custom & A Custom array is built for raw cut while Dailor's Meinl Byzance Series setup is chosen for warmth and melodic sustain. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex, constantly moving patterns while simultaneously handling lead and co-lead vocal duties on many songs — a rare combination among metal drummers.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Ben Koller and Brann Dailor both emerged from the late-1990s/2000s underground t
 A: Both are considered among the most demanding drummers in modern heavy music, but in different ways. Ben Koller (Converge) is demanding because of his loose, explosive, unpredictable attack — he thrives on sudden tempo shifts and dynamic swings that make Converge's mathcore feel dangerous. Brann Dailor (Mastodon) is demanding because he weaves flowing, syncopated fills through complex song structures while simultaneously singing lead or co-lead vocals. Koller's difficulty is visceral; Dailor's is compositional and multitasking-heavy.
 
 **Q: What gear do Ben Koller and Brann Dailor use?**
-A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal.
+A: Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal.
 
 **Q: What bands are Ben Koller and Brann Dailor known for?**
 A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Brann Dailor co-founded Mastodon in 2000 and remains the band's drummer and co-vocalist.
@@ -67,4 +67,4 @@ A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

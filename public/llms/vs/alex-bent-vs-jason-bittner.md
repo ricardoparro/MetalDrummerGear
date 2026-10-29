@@ -21,7 +21,7 @@ Ex-Trivium's Alex Bent vs Overkill's Jason Bittner. Technical death metal precis
 - **Drums:** Mapex Saturn V
 - **Cymbals:** Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China)
 - **Snare:** Mapex Black Panther 14x6.5" Brass
-- **Pedals/Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
+- **Pedals/Hardware:** Mapex Falcon Double Pedal
 - **Sticks:** Promark Jason Bittner Signature 5BX
 
 ## Playing Style
@@ -38,11 +38,11 @@ Alex Bent played a TAMA Starclassic Maple kit in Matte Black with a TAMA Starcla
 
 ## Influence & Legacy
 
-Bent elevated Trivium's rhythmic complexity across four albums over eight years, proving a technical death metal background from underground bands like Brain Drill could translate directly into mainstream modern metal success, and his exit in 2025 reopened one of NWOAHM's most closely watched drum chairs. Bittner helped define early-2000s metalcore's rhythmic vocabulary during Shadows Fall's commercial peak before seamlessly stepping into thrash metal royalty with Overkill, becoming one of the rare drummers to anchor top-tier bands in two adjacent but distinct American heavy metal subgenres.
+Bent elevated Trivium's rhythmic complexity across four albums over nine years, proving a technical death metal background from underground bands like Brain Drill could translate directly into mainstream modern metal success, and his exit in 2025 reopened one of NWOAHM's most closely watched drum chairs. Bittner helped define early-2000s metalcore's rhythmic vocabulary during Shadows Fall's commercial peak before seamlessly stepping into thrash metal royalty with Overkill, becoming one of the rare drummers to anchor top-tier bands in two adjacent but distinct American heavy metal subgenres.
 
 ## Verdict
 
-Alex Bent and Jason Bittner represent NWOAHM-adjacent drumming from two different generations and angles. Bent brought outsider technical death metal precision to Trivium's increasingly ambitious modern metal songwriting across eight years and four albums. Bittner spent over two decades proving that groove-first, road-tested power translates seamlessly from Shadows Fall's metalcore breakthrough to Overkill's veteran thrash institution. The debate is technical newcomer versatility versus veteran groove consistency — both answer "who is the better NWOAHM-era drummer?" from opposite ends of the technical-versus-pocket spectrum.
+Alex Bent and Jason Bittner represent NWOAHM-adjacent drumming from two different generations and angles. Bent brought outsider technical death metal precision to Trivium's increasingly ambitious modern metal songwriting across nine years and four albums. Bittner spent over two decades proving that groove-first, road-tested power translates seamlessly from Shadows Fall's metalcore breakthrough to Overkill's veteran thrash institution. The debate is technical newcomer versatility versus veteran groove consistency — both answer "who is the better NWOAHM-era drummer?" from opposite ends of the technical-versus-pocket spectrum.
 
 ## FAQ
 
@@ -50,7 +50,7 @@ Alex Bent and Jason Bittner represent NWOAHM-adjacent drumming from two differen
 A: Both represent NWOAHM-adjacent metal from different angles. Alex Bent (ex-Trivium) brought technical death metal blast beats and intricate fills to modern metalcore across four albums from 2017-2025. Jason Bittner (Overkill, ex-Shadows Fall) built his reputation on powerful, groove-first double bass and tight snare work across Shadows Fall's metalcore peak and Overkill's thrash catalog. Bent wins on technical complexity; Bittner wins on genre-spanning consistency and longevity.
 
 **Q: What bands did Jason Bittner and Alex Bent play in?**
-A: Jason Bittner played in Shadows Fall (1999-2015), Flotsam and Jetsam (2013-2017), and has drummed for Overkill since 2017. Alex Bent played in Brain Drill, Arkaik, Battlecross, and Dragonlord before joining Trivium in 2017, departing in October 2025 after nine years and four studio albums.
+A: Jason Bittner played in Shadows Fall (2001-2015), Flotsam and Jetsam (2013-2017), and has drummed for Overkill since 2017. Alex Bent played in Brain Drill, Arkaik, Battlecross, and Dragonlord before joining Trivium in 2017, departing in October 2025 after nine years and four studio albums.
 
 **Q: What gear do Alex Bent and Jason Bittner use?**
 A: Alex Bent played a TAMA Starclassic Maple kit with a TAMA Starclassic Maple snare and Zildjian K Custom Hybrid cymbals, powered by Axis Percussion double pedals. Jason Bittner plays a Mapex Saturn V kit with Zildjian K and A Custom Series cymbals, driven by a Mapex Falcon double pedal.
@@ -67,4 +67,4 @@ A: No — Alex Bent departed Trivium in October 2025 after nine years and four s
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

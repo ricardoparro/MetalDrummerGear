@@ -14,7 +14,7 @@ At the Gates' Adrian Erlandsson vs Opeth's Martin Axenrot — Gothenburg melodic
 - **Cymbals:** Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)
 - **Snare:** Tama Starclassic Bubinga 14x6.5"
 - **Pedals/Hardware:** Monolit Czarcie Kopyto Double Pedal
-- **Sticks:** Vic Firth American Classic Rock Nylon Tip (ROCKN)
+- **Sticks:** Vic Firth Rock Nylon Tip (At the Gates Signature)
 
 ## Martin Axenrot Setup
 
@@ -67,4 +67,4 @@ A: Adrian Erlandsson recorded "Slaughter of the Soul" (1995) on a budget Pearl E
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

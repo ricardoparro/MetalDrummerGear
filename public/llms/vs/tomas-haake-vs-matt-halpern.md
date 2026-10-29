@@ -19,8 +19,8 @@ Meshuggah's Tomas Haake vs Periphery's Matt Halpern. Two masters of polyrhythmic
 ## Matt Halpern Setup
 
 - **Drums:** Pearl Reference Series
-- **Cymbals:** Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Cymbals:** Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack")
+- **Snare:** Pearl Matt Halpern Signature 14x6" Brass (MH1460/B)
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Matt Halpern Signature
 
@@ -56,7 +56,7 @@ A: Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10
 A: Both are legends in their own right. The architect vs the innovator. See the full analysis at [metalforge.io/vs/tomas-haake-vs-matt-halpern](https://metalforge.io/vs/tomas-haake-vs-matt-halpern).
 
 **Q: What cymbals do Tomas Haake and Matt Halpern use?**
-A: Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China). Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China).
+A: Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China). Matt Halpern uses Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack").
 
 ---
 
@@ -67,4 +67,4 @@ A: Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Ar
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

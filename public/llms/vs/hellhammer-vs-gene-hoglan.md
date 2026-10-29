@@ -26,7 +26,7 @@ Mayhem's Hellhammer vs "The Atomic Clock" Gene Hoglan. Raw black metal blast bea
 
 ## Playing Style
 
-Hellhammer (born Jan Axel Blomberg, 1969) has driven Norwegian black metal since joining Mayhem in 1988, replacing founding drummer Manheim, and his cold, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains the genre's defining recording. He has run a parallel career with Dimmu Borgir since 1999, bringing black metal aggression into symphonic arrangements, while also contributing to Arcturus and Shining. Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic timing, has spent over 40 years and 20+ bands building a reputation for inhuman precision across Dark Angel (1984-present), Death ("Individual Thought Patterns," 1993; "Symbolic," 1995), Testament, and Strapping Young Lad, treating extreme speed as a controlled, sustainable discipline rather than raw chaos.
+Hellhammer (born Jan Axel Blomberg, 1969) has driven Norwegian black metal since joining Mayhem in 1988, replacing founding drummer Manheim, and his cold, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains the genre's defining recording. He has run a parallel career with Dimmu Borgir since 1999, bringing black metal aggression into symphonic arrangements, while also contributing to Arcturus and Shining. Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic timing, has spent over 40 years and 20+ bands building a reputation for inhuman precision across Dark Angel (1983-1991), Death ("Individual Thought Patterns," 1993; "Symbolic," 1995), Testament, and Strapping Young Lad, treating extreme speed as a controlled, sustainable discipline rather than raw chaos.
 
 ## Technique
 
@@ -67,4 +67,4 @@ A: The gravity blast is a blast-beat variation Gene Hoglan pioneered that uses t
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

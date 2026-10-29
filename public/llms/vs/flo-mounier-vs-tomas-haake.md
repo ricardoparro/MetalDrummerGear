@@ -34,7 +34,7 @@ Mounier employs a gravity blast technique refined for sustained technical speed,
 
 ## Key Differences
 
-Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals — a precision setup built for the cutting response technical death metal demands. Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals — a focused, projection-oriented setup purpose-built for Meshuggah's dense, heavily detuned sound. Mounier employs a gravity blast technique refined for sustained technical speed, combining wrist tension control with jazz-influenced timing that produces swing and fluidity beneath brutal velocity. Haake uniquely runs two Tama Speed Cobra single pedals rather than a double pedal, locking his kicks into polyrhythmic grids that run independent of the guitar riff cycles — a self-imposed constraint that generates Meshuggah's hypnotic rhythmic tension.
+Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and a Tama Speed Cobra 910 double pedal — a precision setup built for the cutting response technical death metal demands. Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals — a focused, projection-oriented setup purpose-built for Meshuggah's dense, heavily detuned sound. Mounier employs a gravity blast technique refined for sustained technical speed, combining wrist tension control with jazz-influenced timing that produces swing and fluidity beneath brutal velocity. Haake uniquely runs two Tama Speed Cobra single pedals rather than a double pedal, locking his kicks into polyrhythmic grids that run independent of the guitar riff cycles — a self-imposed constraint that generates Meshuggah's hypnotic rhythmic tension.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Flo Mounier and Tomas Haake represent two philosophical extremes of ultra-techni
 A: Flo Mounier specializes in extreme blast beat velocity — his gravity blast tempos on *None So Vile* represent some of the fastest recorded death metal drumming. Tomas Haake is not primarily a speed player; his genius lies in polyrhythmic complexity and machine-like consistency across extended odd time signatures. Mounier is faster in the traditional blast beat sense; Haake is more rhythmically complex.
 
 **Q: What drums do Flo Mounier and Tomas Haake use?**
-A: Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals. Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and uniquely uses two Tama Speed Cobra single pedals rather than a traditional double pedal.
+A: Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and a Tama Speed Cobra 910 double pedal. Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and uniquely uses two Tama Speed Cobra single pedals rather than a traditional double pedal.
 
 **Q: Which drummer is more technical: Flo Mounier or Tomas Haake?**
 A: Both are among the most technically demanding drummers in metal history, but in different dimensions. Mounier's technicality lies in speed, ghost-note density, and jazz-influenced complexity within brutal death metal. Haake's technicality lies in polyrhythmic independence and mathematical precision — maintaining interlocking kick, snare, and cymbal patterns across time signatures most drummers cannot navigate. They represent different technical universes rather than a single scale.
@@ -64,4 +64,4 @@ A: Both are among the most technically demanding drummers in metal history, but 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

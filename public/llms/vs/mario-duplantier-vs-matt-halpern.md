@@ -19,8 +19,8 @@ Gojira's Mario Duplantier vs Periphery's Matt Halpern. French eco-metal groove v
 ## Matt Halpern Setup
 
 - **Drums:** Pearl Reference Series
-- **Cymbals:** Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Cymbals:** Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack")
+- **Snare:** Pearl Matt Halpern Signature 14x6" Brass (MH1460/B)
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Matt Halpern Signature
 
@@ -50,7 +50,7 @@ Mario Duplantier and Matt Halpern represent two faces of modern heavy drumming �
 A: Mario Duplantier plays Tama Starclassic Bubinga drums with Zildjian A Custom and K Sweet cymbals and Tama signature sticks.
 
 **Q: What drums does Matt Halpern play?**
-A: Matt Halpern plays Pearl Reference Series drums with Meinl Byzance cymbals (Traditional Medium hi-hats, Traditional Extra Thin Hammered crashes, Sand Crash-Ride) plus his signature Artist Concept Double Down Stack.
+A: Matt Halpern plays Pearl Reference Series drums with Meinl Byzance cymbals (Traditional Medium hi-hats, Traditional Extra Thin Hammered crashes, Dark Double Down Crash-Ride) plus his signature Artist Concept Double Down Stack.
 
 **Q: Who is more technical: Mario Duplantier or Matt Halpern?**
 A: Both are highly technical in different ways. Halpern's polyrhythmic ghost-note complexity and djent subdivision are a different kind of technical demand than Mario's tribal power and explosive accent placement. Neither is "more technical" — they're technically elite in different dimensions.
@@ -67,4 +67,4 @@ A: Mario Duplantier is the drummer and co-founder of Gojira, the French progress
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

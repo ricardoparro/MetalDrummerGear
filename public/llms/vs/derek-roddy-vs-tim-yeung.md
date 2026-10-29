@@ -67,4 +67,4 @@ A: Derek Roddy has played with Hate Eternal (2000–2006), Nile (2000), and Auro
 
 ---
 
-*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

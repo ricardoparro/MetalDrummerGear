@@ -18,10 +18,10 @@ Black Sabbath's Bill Ward vs Converge's Ben Koller. The jazz-swing foundation th
 
 ## Ben Koller Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Drums:** Tama Starclassic Performer B/B
+- **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Snare:** Tama S.L.P. 14x6" Brass
-- **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama Throne
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Playing Style
@@ -34,7 +34,7 @@ Ward's technique came from jazz — a loose, open-handed feel inherited from Gen
 
 ## Key Differences
 
-Bill Ward played a Ludwig Super Classic (later Ludwig Classic Maple) kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single Ludwig Speed King pedal — no double bass throughout his entire career. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Ward's technique came from jazz — a loose, open-handed feel inherited from Gene Krupa and Buddy Rich that prioritized dynamics and space over raw velocity, and he never reached for a double pedal in his career, generating Sabbath's early heaviness entirely through single-pedal technique and touch. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy.
+Bill Ward played a Ludwig Super Classic (later Ludwig Classic Maple) kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single Ludwig Speed King pedal — no double bass throughout his entire career. Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal and Vic Firth American Classic 5B sticks. Ward's technique came from jazz — a loose, open-handed feel inherited from Gene Krupa and Buddy Rich that prioritized dynamics and space over raw velocity, and he never reached for a double pedal in his career, generating Sabbath's early heaviness entirely through single-pedal technique and touch. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy.
 
 ## Influence & Legacy
 
@@ -53,10 +53,10 @@ A: Bill Ward co-founded Black Sabbath in 1968 and is credited as one of the true
 A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006. Ben Koller has drummed for Converge since late 1999, and also plays in Mutoid Man alongside Stephen Brodsky and in the supergroup Killer Be Killed.
 
 **Q: What gear do Bill Ward and Ben Koller use?**
-A: Bill Ward played a Ludwig Super Classic/Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal — no double bass. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal.
+A: Bill Ward played a Ludwig Super Classic/Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal — no double bass. Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal.
 
 **Q: Did Bill Ward ever use a double bass pedal?**
-A: No. Bill Ward built Black Sabbath's foundational heaviness entirely with a single Ludwig Speed King pedal, relying on touch, tuning, and jazz-informed technique rather than extra hardware — a contrast to Ben Koller, who drives Converge's mathcore assault with a Tama Iron Cobra 900 double pedal.
+A: No. Bill Ward built Black Sabbath's foundational heaviness entirely with a single Ludwig Speed King pedal, relying on touch, tuning, and jazz-informed technique rather than extra hardware — a contrast to Ben Koller, who drives Converge's mathcore assault with a Tama Iron Cobra Double Pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: No. Bill Ward built Black Sabbath's foundational heaviness entirely with a si
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

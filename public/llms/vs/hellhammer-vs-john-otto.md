@@ -21,7 +21,7 @@ Mayhem's Hellhammer vs Limp Bizkit's John Otto. Cold, relentless second-wave bla
 - **Drums:** Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic
 - **Cymbals:** Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom)
 - **Snare:** OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply
-- **Pedals/Hardware:** Gibraltar G Class Bass Drum Pedals, Gibraltar Custom Racks
+- **Pedals/Hardware:** Gibraltar Professional Series, Gibraltar Custom Racks
 - **Sticks:** Zildjian Artist Series
 
 ## Playing Style
@@ -67,4 +67,4 @@ A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedbac
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

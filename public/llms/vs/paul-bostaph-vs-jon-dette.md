@@ -26,7 +26,7 @@ Paul Bostaph vs Jon Dette: the two drummers who replaced Dave Lombardo in Slayer
 
 ## Playing Style
 
-Paul Bostaph is Slayer's longest-serving drummer outside of Dave Lombardo — the Bay Area thrash veteran who joined in 1992 and recorded four studio albums across two tenures (1992–2001, 2013–2019), including being the drummer for Slayer's final show in Los Angeles in November 2019. His style combines machine-like double bass consistency with tight, controlled fills that honor Lombardo's template while adding his own metronomic precision. Jon Dette is thrash metal's most reliable fill-in specialist — the Milwaukee-born drummer who served as Slayer's touring replacement during 1996–97 (while Bostaph recovered from injury) and went on to two touring-only stints with Testament (1994–1995, 1997–1998), never recording a studio album; "The Gathering" (1999), widely regarded as one of Testament's finest, was recorded by Dave Lombardo.
+Paul Bostaph is Slayer's longest-serving drummer outside of Dave Lombardo — the Bay Area thrash veteran who joined in 1992 and recorded four studio albums across two tenures (1992–2001, 2013–2019), including being the drummer for Slayer's final show in Los Angeles in November 2019. His style combines machine-like double bass consistency with tight, controlled fills that honor Lombardo's template while adding his own metronomic precision. Jon Dette is thrash metal's most reliable fill-in specialist — the Milwaukee-born drummer who served as Slayer's touring replacement during 1996–97 (while Bostaph focused on his side project Truth About Seafood) and went on to two touring-only stints with Testament (1994–1995, 1997–1998), never recording a studio album; "The Gathering" (1999), widely regarded as one of Testament's finest, was recorded by Dave Lombardo.
 
 ## Technique
 
@@ -47,7 +47,7 @@ Paul Bostaph and Jon Dette are united by their shared role in one of metal's gre
 ## FAQ
 
 **Q: Who played drums for Slayer besides Dave Lombardo?**
-A: Two drummers replaced Dave Lombardo in Slayer: Paul Bostaph (1992–2001 and 2013–2019), who recorded four studio albums including "Divine Intervention" and "Repentless," and Jon Dette (1996–97), who served as a touring fill-in while Bostaph recovered from injury. Bostaph is Slayer's longest-serving drummer by total years.
+A: Two drummers replaced Dave Lombardo in Slayer: Paul Bostaph (1992–2001 and 2013–2019), who recorded four studio albums including "Divine Intervention" and "Repentless," and Jon Dette (1996–97), who served as a touring fill-in while Bostaph focused on his side project Truth About Seafood. Bostaph is Slayer's longest-serving drummer by total years.
 
 **Q: What albums did Paul Bostaph record with Slayer?**
 A: Paul Bostaph recorded four studio albums with Slayer: "Divine Intervention" (1994), "Undisputed Attitude" (1996, punk covers), "Diabolus in Musica" (1998), and "Repentless" (2015). He also performed on Slayer's Final World Tour (2018–2019) and their last show ever at the Forum in Los Angeles on November 30, 2019.
@@ -67,4 +67,4 @@ A: Paul Bostaph's final Slayer setup used Pearl Masters Maple Complete (MCX) dru
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

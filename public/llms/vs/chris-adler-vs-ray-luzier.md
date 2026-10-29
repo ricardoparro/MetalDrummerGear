@@ -67,4 +67,4 @@ A: Ray Luzier studied at the Musicians Institute (MI) in Los Angeles, California
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

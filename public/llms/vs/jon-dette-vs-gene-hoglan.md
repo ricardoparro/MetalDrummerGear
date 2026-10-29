@@ -67,4 +67,4 @@ A: Jon Dette is best known for his two touring-only stints with Testament (1994-
 
 ---
 
-*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

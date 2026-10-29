@@ -26,7 +26,7 @@ Deftones' Abe Cunningham vs Godsmack's Shannon Larkin — atmospheric alt-metal 
 
 ## Playing Style
 
-Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has been the band's only drummer across more than three decades, shaping alternative metal's most atmospheric, shoegaze-influenced sound through landmark records like "Around the Fur" (1997), the Grammy-winning "White Pony" (2000), "Diamond Eyes" (2010), and "Ohms" (2020). Shannon Larkin joined Godsmack in 2002, replacing Tommy Stewart, after making his name with Ugly Kid Joe's worldwide hit "Everything About You" (1992) and thrash outfit Wrathchild America — he's powered every Godsmack album since "Faceless" (2003) debuted at No. 1 on the Billboard 200, through the band's announced final album "Lighting Up the Sky" (2023).
+Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager, left the band briefly in 1990, and has been its drummer continuously since returning in 1993, shaping alternative metal's most atmospheric, shoegaze-influenced sound through landmark records like "Around the Fur" (1997), the Grammy-winning "White Pony" (2000), "Diamond Eyes" (2010), and "Ohms" (2020). Shannon Larkin joined Godsmack in 2002, replacing Tommy Stewart, after making his name with Ugly Kid Joe's worldwide hit "Everything About You" (1992) and thrash outfit Wrathchild America — he's powered every Godsmack album since "Faceless" (2003) debuted at No. 1 on the Billboard 200, through the band's announced final album "Lighting Up the Sky" (2023).
 
 ## Technique
 
@@ -67,4 +67,4 @@ A: Before joining Godsmack in 2002, Shannon Larkin was the drummer for Ugly Kid 
 
 ---
 
-*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

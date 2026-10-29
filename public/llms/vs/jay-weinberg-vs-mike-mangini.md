@@ -64,4 +64,4 @@ A: Mike Mangini holds Guinness World Records for drumming speed and is considere
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

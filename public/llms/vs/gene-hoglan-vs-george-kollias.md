@@ -19,7 +19,7 @@ Gene "The Atomic Clock" Hoglan vs Nile's George Kollias. Death metal speed, prec
 ## George Kollias Setup
 
 - **Drums:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
-- **Cymbals:** Zildjian A Custom Series
+- **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
 - **Sticks:** Vic Firth
@@ -56,7 +56,7 @@ A: Gene Hoglan plays Pearl Reference Pure. George Kollias plays Pearl Masterwork
 A: Both are legends in their own right. Gene Hoglan earned "The Atomic Clock" nickname through legendary precision across 40+ years. See the full analysis at [metalforge.io/vs/gene-hoglan-vs-george-kollias](https://metalforge.io/vs/gene-hoglan-vs-george-kollias).
 
 **Q: What cymbals do Gene Hoglan and George Kollias use?**
-A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). George Kollias uses Zildjian A Custom Series cymbals.
+A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

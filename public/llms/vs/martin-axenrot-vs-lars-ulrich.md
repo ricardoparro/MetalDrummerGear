@@ -38,7 +38,7 @@ Martin Axenrot plays a custom hand-made DW kit with maple/gum shells, per his ow
 
 ## Influence & Legacy
 
-Axenrot has now held the Opeth drum chair longer than Martin Lopez did, steering the band through its most stylistically transformative period — including the almost entirely clean-vocal "Heritage" and "Pale Communion" — while maintaining membership in Bloodbath, one of death metal's most respected supergroups. Ulrich's influence is inseparable from Metallica's rise from Bay Area underground thrash to the best-selling metal band in history — his feel and groove sensibility shaped how millions of fans and drummers understand metal drumming, and he became the first Danish musician inducted into the Rock and Roll Hall of Fame.
+Axenrot held the Opeth drum chair for 15 years (2006-2021) — longer than Martin Lopez's 9-year run — steering the band through its most stylistically transformative period, including the almost entirely clean-vocal "Heritage" and "Pale Communion", before departing in November 2021; he maintained membership in Bloodbath, one of death metal's most respected supergroups, throughout, and Waltteri Väyrynen has held Opeth's drum chair since 2022. Ulrich's influence is inseparable from Metallica's rise from Bay Area underground thrash to the best-selling metal band in history — his feel and groove sensibility shaped how millions of fans and drummers understand metal drumming, and he became the first Danish musician inducted into the Rock and Roll Hall of Fame.
 
 ## Verdict
 
@@ -67,4 +67,4 @@ A: Martin Axenrot replaced Martin Lopez as Opeth's drummer in 2006 after Lopez d
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

@@ -38,7 +38,7 @@ Martin Lopez plays Noble & Cooley Walnut drums with a Noble & Cooley Solid Shell
 
 ## Influence & Legacy
 
-Lopez's nine years with Opeth produced the albums that established the band as progressive death metal's defining act — "Blackwater Park" in particular is regarded as a genre landmark, and his 2010 founding of Soen (with bassist Steve Di Giorgio) gave his progressive vision a continuing home outside Opeth. Axenrot has now held the Opeth drum chair longer than Lopez did, steering the band through its most stylistically transformative period — including the almost entirely clean-vocal "Heritage" and "Pale Communion" — while maintaining membership in Bloodbath, one of death metal's most respected supergroups.
+Lopez's nine years with Opeth produced the albums that established the band as progressive death metal's defining act — "Blackwater Park" in particular is regarded as a genre landmark, and his 2010 founding of Soen (with bassist Steve Di Giorgio) gave his progressive vision a continuing home outside Opeth. Axenrot held the Opeth drum chair for 15 years (2006-2021) — longer than Lopez's 9-year run — steering the band through its most stylistically transformative period, including the almost entirely clean-vocal "Heritage" and "Pale Communion", before departing in November 2021; he maintained membership in Bloodbath, one of death metal's most respected supergroups, throughout, and Waltteri Väyrynen has held Opeth's drum chair since 2022.
 
 ## Verdict
 
@@ -67,4 +67,4 @@ A: Martin Axenrot plays a custom hand-made DW kit with maple/gum shells and SABI
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

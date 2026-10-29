@@ -14,7 +14,7 @@ At the Gates' Adrian Erlandsson vs Opeth's Martin Axenrot — Gothenburg melodic
 - **Cymbals:** Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)
 - **Snare:** Tama Starclassic Bubinga 14x6.5"
 - **Pedals/Hardware:** Monolit Czarcie Kopyto Double Pedal
-- **Sticks:** Vic Firth American Classic Rock Nylon Tip (ROCKN)
+- **Sticks:** Vic Firth Rock Nylon Tip (At the Gates Signature)
 
 ## Martin Axenrot Setup
 
@@ -38,7 +38,7 @@ Adrian Erlandsson tracked "Slaughter of the Soul" on a budget Pearl Export-style
 
 ## Influence & Legacy
 
-Erlandsson's contribution to "Slaughter of the Soul" is immeasurable — that album's rhythmic template, combining At the Gates' hardcore-influenced precision with Swedish melodic death's hookcraft, became one of the most copied blueprints in 2000s metalcore and melodic death metal worldwide. Axenrot has now held the Opeth drum chair longer than Lopez did, steering the band through its most stylistically transformative period — including the almost entirely clean-vocal "Heritage" and "Pale Communion" — while maintaining membership in Bloodbath, one of death metal's most respected supergroups.
+Erlandsson's contribution to "Slaughter of the Soul" is immeasurable — that album's rhythmic template, combining At the Gates' hardcore-influenced precision with Swedish melodic death's hookcraft, became one of the most copied blueprints in 2000s metalcore and melodic death metal worldwide. Axenrot held the Opeth drum chair for 15 years (2006-2021), steering the band through its most stylistically transformative period — including the almost entirely clean-vocal "Heritage" and "Pale Communion" — while maintaining membership in Bloodbath, one of death metal's most respected supergroups, before departing in November 2021; Waltteri Väyrynen has held the chair since 2022.
 
 ## Verdict
 
@@ -67,4 +67,4 @@ A: Adrian Erlandsson recorded "Slaughter of the Soul" (1995) on a budget Pearl E
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

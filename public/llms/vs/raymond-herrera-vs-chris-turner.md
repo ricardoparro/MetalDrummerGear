@@ -53,7 +53,7 @@ A: Both drummers are known for aggressive, machine-precise double-kick drumming 
 A: Yes — Raymond Herrera made heavy use of ddrum/Roland triggers throughout his kit during his Fear Factory years to achieve a processed, machine-like sound. Chris Turner's viral technical drumming is achieved through pure acoustic technique and footwork rather than electronic triggering.
 
 **Q: What bands have Raymond Herrera and Chris Turner played in?**
-A: Raymond Herrera co-founded Fear Factory in 1990 and drummed for the band until 2009, also playing in Brujeria since 1989 and Arkaea from 2008 to 2011. Chris Turner co-founded Oceans Ate Alaska in Birmingham, UK, in 2010 and remains the band's drummer.
+A: Raymond Herrera co-founded Fear Factory in 1990 and drummed for the band until 2006, also playing in Brujeria since 1989 and Arkaea from 2008 to 2011. Chris Turner co-founded Oceans Ate Alaska in Birmingham, UK, in 2010 and remains the band's drummer.
 
 **Q: What gear do Raymond Herrera and Chris Turner use?**
 A: Raymond Herrera played a Tama Starclassic kit (with triggering) with a triggered snare and Zildjian Z Custom cymbals, driven by a DW 5000 Series Double Pedal with extensive triggering. Chris Turner plays a Tama Starclassic Maple/Birch kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series (Extra Dry / Dual) cymbals, driven by a Tama Speed Cobra 910 double pedal.

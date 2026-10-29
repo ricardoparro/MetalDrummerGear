@@ -21,7 +21,7 @@ Trivium's Nick Augusto vs Overkill/Shadows Fall's Jason Bittner. Modern metalcor
 - **Drums:** Mapex Saturn V
 - **Cymbals:** Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China)
 - **Snare:** Mapex Black Panther 14x6.5" Brass
-- **Pedals/Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
+- **Pedals/Hardware:** Mapex Falcon Double Pedal
 - **Sticks:** Promark Jason Bittner Signature 5BX
 
 ## Playing Style
@@ -47,13 +47,13 @@ Nick Augusto and Jason Bittner both built their reputations powering thrash-adja
 ## FAQ
 
 **Q: How do Nick Augusto and Jason Bittner compare as drummers?**
-A: Nick Augusto drummed for Trivium from 2009 to 2014, bringing fast, aggressive metalcore fundamentals shaped by his grindcore background. Jason Bittner has spent over two decades powering thrash-adjacent metalcore, first with Shadows Fall (1999-2015) and now with Overkill (2017-present), combining thrash power with modern metal groove.
+A: Nick Augusto drummed for Trivium from 2009 to 2014, bringing fast, aggressive metalcore fundamentals shaped by his grindcore background. Jason Bittner has spent over two decades powering thrash-adjacent metalcore, first with Shadows Fall (2001-2015) and now with Overkill (2017-present), combining thrash power with modern metal groove.
 
 **Q: What gear do Nick Augusto and Jason Bittner use?**
 A: Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference brass snare and Sabian AAX Series cymbals, powered by a DW 9000 Series double pedal. Jason Bittner's current Overkill rig uses Mapex Saturn V all-maple shells and Zildjian K & A Custom cymbals, powered by a Mapex Falcon double pedal and his own Promark signature sticks — the same setup he's used since signing with Mapex and Zildjian in 1997, carried unchanged from Shadows Fall into Overkill.
 
 **Q: What bands are Nick Augusto and Jason Bittner known for?**
-A: Nick Augusto drummed for Trivium from 2009 to 2014, recording "In Waves" (2011) and "Vengeance Falls" (2013). Jason Bittner drummed for Shadows Fall from 1999 to 2015, played briefly in Flotsam and Jetsam, and has been Overkill's drummer since 2017.
+A: Nick Augusto drummed for Trivium from 2009 to 2014, recording "In Waves" (2011) and "Vengeance Falls" (2013). Jason Bittner drummed for Shadows Fall from 2001 to 2015, played briefly in Flotsam and Jetsam, and has been Overkill's drummer since 2017.
 
 **Q: When did Jason Bittner join Overkill?**
 A: Jason Bittner joined Overkill in 2017, replacing longtime drummer Ron Lipnicki. He recorded "The Wings of War" (2019) with the band and "Scorched" (2023), the first Overkill album written entirely with him as the drummer.
@@ -67,4 +67,4 @@ A: Jason Bittner joined Overkill in 2017, replacing longtime drummer Ron Lipnick
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

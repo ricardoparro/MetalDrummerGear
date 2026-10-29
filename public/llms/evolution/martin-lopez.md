@@ -10,21 +10,9 @@ last_updated: "2026-06-30"
 
 # Martin Lopez Drumming Evolution — Complete Timeline
 
-Martin Lopez (born February 8, 1978, in Stockholm, Sweden) brought a jazz- and classically-trained sensibility into progressive death metal, becoming the rhythmic architect behind Opeth's most celebrated albums (1997–2006) before health issues forced a 2006 departure — a historical inflection point in the band's history that led to successor Martin Axenrot. He returned in 2010 to co-found Soen, carrying his dynamic, song-serving philosophy into a new progressive metal vehicle. This timeline documents how his drumming style — and the gear behind it — evolved era by era.
+Martin Lopez (born May 20, 1978, in Stockholm, Sweden, raised in Mölndal, of Uruguayan descent) brought a jazz- and classically-trained sensibility into progressive death metal, becoming the rhythmic architect behind Opeth's most celebrated albums (1997–2006) before health issues forced a 2006 departure — a historical inflection point in the band's history that led to successor Martin Axenrot. He returned in 2010 to co-found Soen, carrying his dynamic, song-serving philosophy into a new progressive metal vehicle. This timeline documents how his drumming style — and the gear behind it — evolved era by era.
 
 See also: [Martin Lopez drummer profile](/llms/drummers/martin-lopez.md)
-
----
-
-## Pre-Opeth / Amon Amarth Foundation (1996–1997)
-
-**Bands:** Amon Amarth
-**Style:** Jazz- and classically-trained foundation applied to Swedish death metal; precise dynamics and ghost notes
-
-Before joining Opeth, Martin Lopez began his professional career with Amon Amarth in 1996, bringing a jazz- and classically-trained background unusual among Swedish death metal drummers of the era. His brief tenure established the technical foundation — precise dynamics, ghost notes, and a feel for space — that would soon make him one of progressive death metal's most distinctive voices.
-
-**Q: How did Martin Lopez's musical training shape his drumming?**
-A: Martin Lopez trained in jazz and classical music before entering death metal, which set him apart from peers focused purely on speed and aggression. That background gave him a heightened sense of dynamics, ghost notes, and space — qualities that became central to his work with both Opeth and Soen.
 
 ---
 
@@ -80,7 +68,6 @@ A: After several years away from recording, Martin Lopez returned in 2010 to co-
 
 | Era | Years | Drums | Cymbals |
 |---|---|---|---|
-| Pre-Opeth Foundation | 1996–1997 | Sonor Designer Series | Sabian HH/AAX |
 | Opeth Formative Era | 1997–2001 | Sonor Designer Series | Sabian HH/AAX |
 | Peak Versatility | 2002–2003 | Sonor Designer Series (expanded) | Sabian HH/AAX |
 | Ghost Reveries / Departure | 2004–2006 | Sonor Designer Series (mature) | Sabian HH/AAX (expanded) |

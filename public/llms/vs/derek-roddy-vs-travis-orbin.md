@@ -26,7 +26,7 @@ Derek Roddy (Hate Eternal) vs Travis Orbin (ex-Periphery): brutal death metal bl
 
 ## Playing Style
 
-Derek Roddy built his reputation across Hate Eternal, Nile, and Malevolent Creation as one of brutal death metal's pioneering speed-and-endurance specialists, renowned for blast beats and one-footed bass drum techniques delivered with relentless extremity. His playing helped define what modern technical death metal drumming sounds like at its most physically demanding. Travis Orbin played drums in Periphery from 2006 to 2009, in the band's pre-recording years, before leaving ahead of the group writing or recording its self-titled 2010 debut — a record that went on to help define the djent movement, recorded by his replacement Matt Halpern. Orbin's own reputation rests on the complex polyrhythmic patterns and precise double bass work documented in his solo and session playthroughs, before he moved on to thrash band Darkest Hour.
+Derek Roddy built his reputation across Hate Eternal, Nile, and Aurora Borealis as one of brutal death metal's pioneering speed-and-endurance specialists, renowned for blast beats and one-footed bass drum techniques delivered with relentless extremity. His playing helped define what modern technical death metal drumming sounds like at its most physically demanding. Travis Orbin played drums in Periphery from 2006 to 2009, in the band's pre-recording years, before leaving ahead of the group writing or recording its self-titled 2010 debut — a record that went on to help define the djent movement, recorded by his replacement Matt Halpern. Orbin's own reputation rests on the complex polyrhythmic patterns and precise double bass work documented in his solo and session playthroughs, before he moved on to thrash band Darkest Hour.
 
 ## Technique
 
@@ -56,7 +56,7 @@ A: Travis Orbin played drums in Periphery from 2006 to 2009, before the band wro
 A: Derek Roddy plays a Tama Starclassic Bubinga kit with Meinl Byzance & Mb20 Series cymbals. Travis Orbin plays SJC Custom Drums with Zildjian K Custom Series cymbals and a Roland SPD-SX sampling pad for electronic triggers.
 
 **Q: Is Derek Roddy a death metal or technical death metal drummer?**
-A: Derek Roddy is best known for brutal and technical death metal, performing with Hate Eternal, Nile, and Malevolent Creation. He is considered one of the pioneers of modern extreme metal drumming, particularly for his blast beat speed and endurance.
+A: Derek Roddy is best known for brutal and technical death metal, performing with Hate Eternal, Nile, and Aurora Borealis. He is considered one of the pioneers of modern extreme metal drumming, particularly for his blast beat speed and endurance.
 
 ---
 
@@ -67,4 +67,4 @@ A: Derek Roddy is best known for brutal and technical death metal, performing wi
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

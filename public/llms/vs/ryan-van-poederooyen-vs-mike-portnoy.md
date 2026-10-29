@@ -34,7 +34,7 @@ Van Poederooyen's creative tom patterns and tasteful cymbal work give Devin Town
 
 ## Key Differences
 
-Ryan plays a Pearl Reference Series kit with a 14x6.5" brass Pearl Reference snare, Sabian HHX & AAX cymbals, and a Pearl Demon Drive double pedal. Mike uses a Tama Starclassic Maple/Birch hybrid kit with his steel Tama Melody Master signature snare, Sabian HHX Evolution cymbals, and a Tama Iron Cobra Power Glide double pedal. Van Poederooyen's creative tom patterns and tasteful cymbal work give Devin Townsend's shifting dynamics room to breathe, backed by thunderous double bass when the material demands it — a puzzle-solving approach he has described as asking what each song needs from him. Portnoy is known for rapid-fire transitions, complex time signatures, and marathon-length live sets that require exceptional stamina and technical precision, honed over decades of Dream Theater's notoriously demanding arrangements.
+Ryan plays a Pearl Reference Series kit with a Pearl snare (the specific model has not been independently verified), Sabian HHX & AAX cymbals, and a Pearl Demon Drive double pedal. Mike uses a Tama Starclassic Maple/Birch hybrid kit with his steel Tama Melody Master signature snare, Sabian HHX Evolution cymbals, and a Tama Iron Cobra Power Glide double pedal. Van Poederooyen's creative tom patterns and tasteful cymbal work give Devin Townsend's shifting dynamics room to breathe, backed by thunderous double bass when the material demands it — a puzzle-solving approach he has described as asking what each song needs from him. Portnoy is known for rapid-fire transitions, complex time signatures, and marathon-length live sets that require exceptional stamina and technical precision, honed over decades of Dream Theater's notoriously demanding arrangements.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Ryan Van Poederooyen's signature is creative tom patterns and tasteful cymbal
 A: Ryan Van Poederooyen played with the Devin Townsend Band and Devin Townsend Project from 2009 to 2018. Mike Portnoy co-founded Dream Theater in 1985, playing with the band until 2010 and again from 2023, plus Liquid Tension Experiment, The Winery Dogs, Transatlantic, and Sons of Apollo.
 
 **Q: What gear do Ryan Van Poederooyen and Mike Portnoy use?**
-A: Ryan Van Poederooyen plays a Pearl Reference Series kit with a 14x6.5" brass Pearl Reference snare and Sabian HHX & AAX cymbals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with his Tama Melody Master signature snare and Sabian HHX Evolution cymbals, driven by a Tama Iron Cobra Power Glide double pedal.
+A: Ryan Van Poederooyen plays a Pearl Reference Series kit with a Pearl snare (the specific model has not been independently verified) and Sabian HHX & AAX cymbals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with his Tama Melody Master signature snare and Sabian HHX Evolution cymbals, driven by a Tama Iron Cobra Power Glide double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Ryan Van Poederooyen plays a Pearl Reference Series kit with a 14x6.5" brass 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

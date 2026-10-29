@@ -26,7 +26,7 @@ Gene "The Atomic Clock" Hoglan vs Meshuggah's Tomas Haake. Death metal precision
 
 ## Playing Style
 
-Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic timing, built his reputation across more than 20 bands over four decades — Dark Angel (1984–present), Death ("Individual Thought Patterns," 1993; "Symbolic," 1995), Testament, Strapping Young Lad, Fear Factory, and the animated band Dethklok — bringing inhuman precision to death metal, thrash metal, and progressive metal song structures. Tomas Haake has been Meshuggah's sole drummer since 1990, and his polyrhythmic approach on albums like "Chaosphere" (1998), "Nothing" (2002), and "obZen" (2008) effectively invented the djent sub-genre — robotic, mathematically layered patterns built around Meshuggah's down-tuned 8-string riffs rather than traditional verse-chorus song forms.
+Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic timing, built his reputation across more than 20 bands over four decades — Dark Angel (1983-1991), Death ("Individual Thought Patterns," 1993; "Symbolic," 1995), Testament, Strapping Young Lad, Fear Factory, and the animated band Dethklok — bringing inhuman precision to death metal, thrash metal, and progressive metal song structures. Tomas Haake has been Meshuggah's sole drummer since 1990, and his polyrhythmic approach on albums like "Chaosphere" (1998), "Nothing" (2002), and "obZen" (2008) effectively invented the djent sub-genre — robotic, mathematically layered patterns built around Meshuggah's down-tuned 8-string riffs rather than traditional verse-chorus song forms.
 
 ## Technique
 
@@ -67,4 +67,4 @@ A: The gravity blast is a blast beat variation Gene Hoglan pioneered that uses t
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

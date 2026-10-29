@@ -34,7 +34,7 @@ Flo Mounier employs a gravity blast technique refined to enable sustained techni
 
 ## Key Differences
 
-Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX Series cymbals and Tama Iron Cobra 900 double pedals — a precision setup built for the cutting response technical death metal demands. Pete Sandoval played a ddrum kit (exact model undocumented) with hardware to match; his cymbal brand was never publicly confirmed. Flo Mounier employs a gravity blast technique refined to enable sustained technical speed across full compositions, combining wrist tension control with jazz-influenced timing that gives his playing a swing and fluidity setting him apart from pure speed merchants. Pete Sandoval pioneered the ankle-driven technique for extreme double bass, using the natural momentum of the pedal spring mechanism to achieve foot speeds that outpace what muscular effort alone allows — a contribution that influenced every extreme metal drummer who came after.
+Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX Series cymbals and a Tama Speed Cobra 910 double pedal — a precision setup built for the cutting response technical death metal demands. Pete Sandoval played a ddrum kit (exact model undocumented) with hardware to match; his cymbal brand was never publicly confirmed. Flo Mounier employs a gravity blast technique refined to enable sustained technical speed across full compositions, combining wrist tension control with jazz-influenced timing that gives his playing a swing and fluidity setting him apart from pure speed merchants. Pete Sandoval pioneered the ankle-driven technique for extreme double bass, using the natural momentum of the pedal spring mechanism to achieve foot speeds that outpace what muscular effort alone allows — a contribution that influenced every extreme metal drummer who came after.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Flo Mounier and Pete Sandoval are the two great blast beat originators of death 
 A: Both are among the fastest drummers in metal history. Pete Sandoval pioneered the gravity blast that enables extreme speeds; Flo Mounier is renowned for sustained technical speed across entire death metal compositions. Both represent different dimensions of extreme velocity.
 
 **Q: What gear does Flo Mounier use vs Pete Sandoval?**
-A: Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals. Pete Sandoval played a ddrum kit, but the exact model and his cymbal brand were never publicly documented.
+A: Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and a Tama Speed Cobra 910 double pedal. Pete Sandoval played a ddrum kit, but the exact model and his cymbal brand were never publicly documented.
 
 **Q: What is the difference between wrist tension and ankle-driven blast beat technique?**
 A: Flo Mounier's wrist tension approach controls the stick rebound through wrist tension variation, enabling sustained speeds with tonal nuance. Pete Sandoval's ankle-driven technique maximizes the natural spring rebound of the pedal mechanism, letting momentum generate speed beyond what muscular effort produces alone.
@@ -67,4 +67,4 @@ A: Both are foundational. Pete Sandoval is credited as one of the key inventors 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

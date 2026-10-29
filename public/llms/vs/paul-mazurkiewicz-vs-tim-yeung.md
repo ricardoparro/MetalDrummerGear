@@ -67,4 +67,4 @@ A: Tim Yeung has been documented performing blast beats at over 280 BPM, ranking
 
 ---
 
-*Last updated: 2026-10-23 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

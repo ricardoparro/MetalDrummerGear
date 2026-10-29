@@ -21,7 +21,7 @@ Deftones' Abe Cunningham vs Limp Bizkit's John Otto: atmospheric alt-metal groov
 - **Drums:** Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic
 - **Cymbals:** Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom)
 - **Snare:** OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply
-- **Pedals/Hardware:** Gibraltar G Class Bass Drum Pedals, Gibraltar Custom Racks
+- **Pedals/Hardware:** Gibraltar Professional Series, Gibraltar Custom Racks
 - **Sticks:** Zildjian Artist Series
 
 ## Playing Style
@@ -56,7 +56,7 @@ A: Deftones' Abe Cunningham favors dynamic, textural playing that serves the ban
 A: Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit with Zildjian K Custom & A Custom Series cymbals and a Tama Iron Cobra 900 Rolling Glide. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with Zildjian A Custom cymbals and Gibraltar Professional Series bass drum pedals.
 
 **Q: How long have Abe Cunningham and John Otto been with their bands?**
-A: Abe Cunningham has been Deftones' drummer since the band formed in 1988, appearing on every studio album. John Otto has been Limp Bizkit's drummer and a founding member since the band formed in Jacksonville, Florida in 1994.
+A: Abe Cunningham co-founded Deftones in 1988, left briefly in 1990, and has been the band's drummer continuously since returning in 1993, appearing on every studio album from "Adrenaline" (1995) onward. John Otto has been Limp Bizkit's drummer and a founding member since the band formed in Jacksonville, Florida in 1994.
 
 ---
 
@@ -67,4 +67,4 @@ A: Abe Cunningham has been Deftones' drummer since the band formed in 1988, appe
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

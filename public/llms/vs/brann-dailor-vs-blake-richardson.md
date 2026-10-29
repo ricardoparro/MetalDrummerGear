@@ -34,7 +34,7 @@ Dailor's technique favors flowing, syncopated fills that weave in and out of Mas
 
 ## Key Differences
 
-Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian HHX/AAX cymbals, powered by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, plus double-duty as lead vocalist while maintaining complex patterns. Richardson navigates BTBAM's rapid tempo and meter changes with explosive blast beat transitions, ghost-note-rich grooves, and twin single-pedal independence that keeps the double kick locked to shifting time signatures.
+Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian HHX/AAX cymbals, powered by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, plus double-duty as lead vocalist while maintaining complex patterns. Richardson navigates BTBAM's rapid tempo and meter changes with explosive blast beat transitions, ghost-note-rich grooves, and twin single-pedal independence that keeps the double kick locked to shifting time signatures.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Brann Dailor and Blake Richardson are two of modern progressive metal's defining
 ## FAQ
 
 **Q: What are the main differences between Brann Dailor's and Blake Richardson's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Blake Richardson uses Tama Starclassic Bubinga (Custom Finish) with Sabian cymbals. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian HHX/AAX cymbals, powered by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns.
+A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Blake Richardson uses Tama Starclassic Bubinga (Custom Finish) with Sabian cymbals. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian HHX/AAX cymbals, powered by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns.
 
 **Q: What drums does Brann Dailor play vs Blake Richardson?**
 A: Brann Dailor plays Tama Starclassic Performer B/B. Blake Richardson plays Tama Starclassic Bubinga (Custom Finish).
@@ -67,4 +67,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Shannon Larkin played with Wrathchild America (1989–1991) and Ugly Kid Joe 
 
 ---
 
-*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

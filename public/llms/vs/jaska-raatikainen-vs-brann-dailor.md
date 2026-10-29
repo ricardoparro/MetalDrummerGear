@@ -34,7 +34,7 @@ Raatikainen built his technique around clean, locked-in double bass and precise,
 
 ## Key Differences
 
-Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Mb20 & Mb8 Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom's dense arrangements anchored with surgical consistency at extreme tempos. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex patterns while simultaneously handling lead and co-lead vocal duties on many songs.
+Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom's dense arrangements anchored with surgical consistency at extreme tempos. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex patterns while simultaneously handling lead and co-lead vocal duties on many songs.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Jaska Raatikainen and Brann Dailor show two very different ways technical drummi
 A: Jaska Raatikainen builds his style around clean, locked-in double bass and blast beats within Children of Bodom's neoclassical melodic death metal. Brann Dailor drives Mastodon's progressive sludge with flowing, syncopated fills that treat the kit as a lead voice, while also handling co-lead vocal duties on many songs.
 
 **Q: What gear do Jaska Raatikainen and Brann Dailor use?**
-A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Mb20 & Mb8 Series cymbals, and a Tama Speed Cobra double pedal.
+A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance Series cymbals, and a Tama Speed Cobra double pedal.
 
 **Q: Does Brann Dailor sing while drumming for Mastodon?**
 A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing lead or co-lead vocals while simultaneously executing Mastodon's complex, flowing drum patterns, a rare combination among metal drummers.
@@ -67,4 +67,4 @@ A: Jaska Raatikainen was a founding member of Children of Bodom in 1993 and rema
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

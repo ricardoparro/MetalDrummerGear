@@ -67,4 +67,4 @@ A: Shannon Larkin has played with Wrathchild America, Ugly Kid Joe, Another Anim
 
 ---
 
-*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

@@ -10,10 +10,10 @@ Converge's Ben Koller vs Children of Bodom's Jaska Raatikainen. Unpredictable ma
 
 ## Ben Koller Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Drums:** Tama Starclassic Performer B/B
+- **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Snare:** Tama S.L.P. 14x6" Brass
-- **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama Throne
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Jaska Raatikainen Setup
@@ -34,7 +34,7 @@ Koller's technique is built for maximum unpredictability — a loose, explosive 
 
 ## Key Differences
 
-Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures, favoring gut-level feel over rehearsed precision. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom's dense arrangements anchored with surgical consistency at extreme tempos.
+Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures, favoring gut-level feel over rehearsed precision. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom's dense arrangements anchored with surgical consistency at extreme tempos.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Ben Koller and Jaska Raatikainen represent two entirely different approaches to 
 A: Ben Koller favors a loose, explosive, unpredictable attack built for Converge's constantly shifting mathcore arrangements. Jaska Raatikainen favors clean, locked-in double bass and precise blast beats, anchoring Children of Bodom's dense melodic death metal arrangements with surgical consistency.
 
 **Q: What gear does Ben Koller use vs Jaska Raatikainen?**
-A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare, Zildjian K Dark Series cymbals, and a Tama Iron Cobra 900 double pedal. Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal.
+A: Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare, Zildjian K Custom & A Custom Series cymbals, and a Tama Iron Cobra Double Pedal. Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal.
 
 **Q: How long has Ben Koller played drums for Converge?**
 A: Ben Koller joined Converge in late 1999 and has remained the band's drummer since, recording landmark albums including "Jane Doe" (2001) and "The Dusk in Us" (2017).
@@ -67,4 +67,4 @@ A: "Something Wild" (1997) was Children of Bodom's debut album and Jaska Raatika
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

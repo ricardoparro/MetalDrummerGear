@@ -53,7 +53,7 @@ A: Abe Cunningham (Deftones) prioritizes atmospheric dynamics, emotional feel, a
 A: Both endorse Tama drums. Abe Cunningham plays Tama Starclassic Maple/Bubinga with Zildjian cymbals and Tama Iron Cobra pedals. Dirk Verbeuren plays Tama Starclassic Maple with Meinl Byzance cymbals and Tama Speed Cobra 910 pedals.
 
 **Q: How long has Abe Cunningham been with Deftones?**
-A: Abe Cunningham is a founding member of Deftones, having been with the band since 1988 when they formed in Sacramento, California — over 35 years as the band's sole drummer. His Grammy came with "Elite" (White Pony, 2000, Best Metal Performance).
+A: Abe Cunningham co-founded Deftones in Sacramento, California in 1988, left the band briefly in 1990, and has been its drummer continuously since returning in 1993 — over 30 years since his return. His Grammy came with "Elite" (White Pony, 2000, Best Metal Performance).
 
 **Q: What bands did Dirk Verbeuren play in before Megadeth?**
 A: Dirk Verbeuren was the drummer for Swedish melodic death metal band Soilwork for 18 years (1998–2016) and the French metal band Scarve (1995–2008) before joining Megadeth in 2016, where he has recorded "The Sick, the Dying... and the Dead!" (2022).
@@ -67,4 +67,4 @@ A: Dirk Verbeuren was the drummer for Swedish melodic death metal band Soilwork 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

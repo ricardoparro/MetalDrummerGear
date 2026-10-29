@@ -10,10 +10,10 @@ Converge's Ben Koller vs Mayhem's Hellhammer. Raw, unpredictable hardcore intens
 
 ## Ben Koller Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Drums:** Tama Starclassic Performer B/B
+- **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Snare:** Tama S.L.P. 14x6" Brass
-- **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama Throne
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Hellhammer Setup
@@ -34,7 +34,7 @@ Koller's technique is built for maximum unpredictability — a loose, explosive 
 
 ## Key Differences
 
-Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — both drummers share a Vic Firth 5B stick preference despite their opposite genres. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that is the polar opposite of Koller's deliberately loose feel.
+Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal and Vic Firth American Classic 5B sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — both drummers share a Vic Firth 5B stick preference despite their opposite genres. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that is the polar opposite of Koller's deliberately loose feel.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Ben Koller and Hellhammer both built their reputations on extreme speed and inte
 A: Both are considered elite in extreme drumming, but in different contexts. Hellhammer's cold, relentless blast beats on Mayhem's "De Mysteriis Dom Sathanas" set the benchmark for second-wave black metal speed and precision. Ben Koller's speed is deployed unpredictably within Converge's constantly shifting mathcore structures, making his intensity feel more chaotic and less sustained than Hellhammer's machine-like consistency.
 
 **Q: What gear do Ben Koller and Hellhammer use?**
-A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Both use Vic Firth American Classic 5B sticks.
+A: Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Both use Vic Firth American Classic 5B sticks.
 
 **Q: What bands are Ben Koller and Hellhammer known for?**
 A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Hellhammer has drummed for Mayhem since 1988 and has run a parallel career with Dimmu Borgir since 1999, along with co-founding Arcturus.
@@ -67,4 +67,4 @@ A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedbac
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

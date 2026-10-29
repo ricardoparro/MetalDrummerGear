@@ -10,10 +10,10 @@ Converge/Mutoid Man's Ben Koller vs Death/Iced Earth's Richard Christy — blist
 
 ## Ben Koller Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Drums:** Tama Starclassic Performer B/B
+- **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Snare:** Tama S.L.P. 14x6" Brass
-- **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama Throne
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Richard Christy Setup
@@ -34,7 +34,7 @@ Koller's drumming draws on hardcore punk, grindcore, and experimental rock in eq
 
 ## Key Differences
 
-Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Richard Christy plays a Pearl Masters Custom kit with a matching Pearl Masters Maple 14x6.5" snare and Sabian AA/AAX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 18" AAX Chinese), powered by an Axis A Longboard double pedal and Vic Firth American Classic 5A sticks. Koller's drumming draws on hardcore punk, grindcore, and experimental rock in equal measure, combining blistering speed with unpredictable dynamic shifts — stopping, starting, and lurching through Converge's dissonant arrangements with a raw, physical intensity that prioritizes chaos and impact over metronomic cleanliness. Christy plays with disciplined technical precision, executing rapid-fire blast beats and complex, shifting time signatures with the surgical accuracy that "The Sound of Perseverance" demanded, carrying that same speed and control into Iced Earth's power/thrash framework and his own progressive death metal project.
+Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal and Vic Firth American Classic 5B sticks. Richard Christy plays a Pearl Masters Custom kit with a matching Pearl Masters Maple 14x6.5" snare and Sabian AA/AAX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 18" AAX Chinese), powered by an Axis A Longboard double pedal and Vic Firth American Classic 5A sticks. Koller's drumming draws on hardcore punk, grindcore, and experimental rock in equal measure, combining blistering speed with unpredictable dynamic shifts — stopping, starting, and lurching through Converge's dissonant arrangements with a raw, physical intensity that prioritizes chaos and impact over metronomic cleanliness. Christy plays with disciplined technical precision, executing rapid-fire blast beats and complex, shifting time signatures with the surgical accuracy that "The Sound of Perseverance" demanded, carrying that same speed and control into Iced Earth's power/thrash framework and his own progressive death metal project.
 
 ## Influence & Legacy
 
@@ -50,10 +50,10 @@ Ben Koller and Richard Christy represent two disciplined extremes of technical d
 A: Ben Koller has drummed for Converge since late 1999, bringing hardcore- and grindcore-informed chaos and dynamic extremes to mathcore, alongside Mutoid Man and Killer Be Killed. Richard Christy played on Death's final album "The Sound of Perseverance" in the late 1990s and later drummed for Iced Earth and his own band, Charred Walls of the Damned, known for disciplined technical death metal precision.
 
 **Q: What gear do Ben Koller and Richard Christy use?**
-A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark cymbals, driven by a Tama Iron Cobra 900 double pedal. Richard Christy plays a Pearl Masters Custom kit with a matching 14x6.5" Pearl Masters Maple snare and Sabian AA/AAX Series cymbals, powered by an Axis A Longboard double pedal.
+A: Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Richard Christy plays a Pearl Masters Custom kit with a matching 14x6.5" Pearl Masters Maple snare and Sabian AA/AAX Series cymbals, powered by an Axis A Longboard double pedal.
 
 **Q: What bands are Ben Koller and Richard Christy known for?**
-A: Ben Koller drums for Converge, Mutoid Man, and Killer Be Killed. Richard Christy drummed for Death in the late 1990s and Iced Earth from 2003 to 2004, and later founded Charred Walls of the Damned.
+A: Ben Koller drums for Converge, Mutoid Man, and Killer Be Killed. Richard Christy drummed for Death in the late 1990s and Iced Earth from 2003 to 2007, and later founded Charred Walls of the Damned.
 
 **Q: What is Richard Christy known for outside of drumming?**
 A: Beyond his technical death metal career, Richard Christy has worked on The Howard Stern Show as a staff member and performer since 2004, becoming known to a mainstream audience well beyond the metal underground.
@@ -67,4 +67,4 @@ A: Beyond his technical death metal career, Richard Christy has worked on The Ho
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

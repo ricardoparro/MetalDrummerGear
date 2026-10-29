@@ -34,7 +34,7 @@ Lombardo's technique is rooted in feel over quantization — his single-stroke b
 
 ## Key Differences
 
-Dave Lombardo plays a Tama Starclassic Maple drum kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China), driven by a Tama Iron Cobra 900 double pedal and Promark Dave Lombardo Signature 2Bx sticks. Chris Adler plays a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Trick Pro V double pedal and Promark TX5AXW Chris Adler Signature sticks. Lombardo's technique is rooted in feel over quantization — his single-stroke blast beat on "Angel of Death" essentially invented the extreme metal blast beat template that generations of death and black metal drummers built upon, and his playing across Slayer's catalog retains a loose, human urgency even at breakneck tempos. Adler's technique is built on obsessive precision — tight, syncopated triplet grooves locked to the guitar riffs, explosive snare accents, and a double bass approach influenced as much by Latin and jazz rhythms as by metal, producing the tightly quantized-feeling grooves that became Lamb of God's signature.
+Dave Lombardo plays a Tama Starclassic Walnut/Birch drum kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China), driven by a Tama Iron Cobra 900 double pedal and Promark Dave Lombardo Signature 2Bx sticks. Chris Adler plays a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Trick Pro V double pedal and Promark TX5AXW Chris Adler Signature sticks. Lombardo's technique is rooted in feel over quantization — his single-stroke blast beat on "Angel of Death" essentially invented the extreme metal blast beat template that generations of death and black metal drummers built upon, and his playing across Slayer's catalog retains a loose, human urgency even at breakneck tempos. Adler's technique is built on obsessive precision — tight, syncopated triplet grooves locked to the guitar riffs, explosive snare accents, and a double bass approach influenced as much by Latin and jazz rhythms as by metal, producing the tightly quantized-feeling grooves that became Lamb of God's signature.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Dave Lombardo and Chris Adler represent two foundational eras of American metal 
 A: Both are titans of their respective eras. Dave Lombardo (Slayer) is widely credited as the godfather of extreme metal double bass drumming, having essentially invented the modern blast beat on "Angel of Death." Chris Adler (Lamb of God) built groove metal's technical template around syncopated triplet grooves and razor-sharp precision. Lombardo represents thrash's raw, foundational intensity; Adler represents groove metal's engineered precision — there is no objectively "better," only different eras and technical philosophies.
 
 **Q: What drums does Dave Lombardo play vs Chris Adler?**
-A: Dave Lombardo plays a Tama Starclassic Maple kit with a Tama S.L.P. G-Maple snare and Paiste RUDE & 2002 Series cymbals. Chris Adler plays a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature snare and Meinl Byzance Series cymbals.
+A: Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. G-Maple snare and Paiste RUDE & 2002 Series cymbals. Chris Adler plays a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature snare and Meinl Byzance Series cymbals.
 
 **Q: What albums showcase Dave Lombardo's and Chris Adler's best drumming?**
 A: Dave Lombardo's most celebrated work is on Slayer's "Reign in Blood" (1986), "South of Heaven" (1988), and "Seasons in the Abyss" (1990). Chris Adler's most celebrated work is on Lamb of God's "Ashes of the Wake" (2004), "Sacrament" (2006), and "Wrath" (2009) — all Grammy-nominated releases.
@@ -67,4 +67,4 @@ A: No direct collaboration exists between the two, though both drummers moved in
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

@@ -11,7 +11,7 @@ Nile's George Kollias (280 BPM blast beats) vs Meshuggah's Tomas Haake (polyrhyt
 ## George Kollias Setup
 
 - **Drums:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
-- **Cymbals:** Zildjian A Custom Series
+- **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
 - **Sticks:** Vic Firth
@@ -56,7 +56,7 @@ A: George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold 
 A: Both are legends in their own right. George Kollias and Tomas Haake pursue technical mastery from opposite directions — Kollias through pure kinetic speed, Haake through polyrhythmic complexity. See the full analysis at [metalforge.io/vs/george-kollias-vs-tomas-haake](https://metalforge.io/vs/george-kollias-vs-tomas-haake).
 
 **Q: What cymbals do George Kollias and Tomas Haake use?**
-A: George Kollias uses Zildjian A Custom Series cymbals. Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China).
+A: George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China).
 
 ---
 
@@ -67,4 +67,4 @@ A: George Kollias uses Zildjian A Custom Series cymbals. Tomas Haake uses Sabian
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

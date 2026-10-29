@@ -30,11 +30,11 @@ Hellhammer (born Jan Axel Blomberg, 1969, Trysil Municipality) joined Mayhem in 
 
 ## Technique
 
-Hellhammer's blast beats favor cold, relentless one-foot speed built for atmosphere and aggression over technical display, and he plays barefoot for direct tactile feedback at extreme tempos. Dee's technique blends jazz-trained precision from his King Diamond years with pure rock power — a single massive 24" bass drum rather than a compact double-kick setup delivers the chest-thumping low end that defined Motörhead's live sound, with explosive drum solos and a heavy backbeat built to cut through Lemmy's legendary stage volume.
+Hellhammer's blast beats favor cold, relentless one-foot speed built for atmosphere and aggression over technical display, and he plays barefoot for direct tactile feedback at extreme tempos. Dee's technique blends jazz-trained precision from his King Diamond years with pure rock power — a single massive 18"x22" bass drum rather than a compact double-kick setup delivers the chest-thumping low end that defined Motörhead's live sound, with explosive drum solos and a heavy backbeat built to cut through Lemmy's legendary stage volume.
 
 ## Key Differences
 
-Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Mikkey Dee plays a Sonor SQ2 kit built around a single 18"x22" bass drum with a Sonor Mikkey Dee Signature 14"x7.25" Birch snare, and Paiste Signature Series cymbals (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China), driven by a DW 5000 Series double pedal and Wincent Mikkey Dee Signature sticks. Hellhammer's blast beats favor cold, relentless one-foot speed built for atmosphere and aggression over technical display, and he plays barefoot for direct tactile feedback at extreme tempos. Dee's technique blends jazz-trained precision from his King Diamond years with pure rock power — a single massive 24" bass drum rather than a compact double-kick setup delivers the chest-thumping low end that defined Motörhead's live sound, with explosive drum solos and a heavy backbeat built to cut through Lemmy's legendary stage volume.
+Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Mikkey Dee plays a Sonor SQ2 kit built around a single 18"x22" bass drum with a Sonor Mikkey Dee Signature 14"x7.25" Birch snare, and Paiste Signature Series cymbals (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China), driven by a DW 5000 Series double pedal and Wincent Mikkey Dee Signature sticks. Hellhammer's blast beats favor cold, relentless one-foot speed built for atmosphere and aggression over technical display, and he plays barefoot for direct tactile feedback at extreme tempos. Dee's technique blends jazz-trained precision from his King Diamond years with pure rock power — a single massive 18"x22" bass drum rather than a compact double-kick setup delivers the chest-thumping low end that defined Motörhead's live sound, with explosive drum solos and a heavy backbeat built to cut through Lemmy's legendary stage volume.
 
 ## Influence & Legacy
 
@@ -55,7 +55,7 @@ A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999. Mik
 **Q: What gear do Hellhammer and Mikkey Dee use?**
 A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Mikkey Dee plays Sonor drums built around a single 18"x22" bass drum, with a Sonor Mikkey Dee Signature snare and Paiste Signature Series cymbals.
 
-**Q: Why does Mikkey Dee use a single 24" bass drum instead of double bass?**
+**Q: Why does Mikkey Dee use a single 18"x22" bass drum instead of double bass?**
 A: Mikkey Dee prioritizes the massive, chest-thumping low end a large single kick provides over the speed of a compact double-bass setup, even though he has used a double pedal on occasion — the resonance and power of one large drum suited Motörhead's thunderous live sound better than two smaller ones.
 
 ---
@@ -67,4 +67,4 @@ A: Mikkey Dee prioritizes the massive, chest-thumping low end a large single kic
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

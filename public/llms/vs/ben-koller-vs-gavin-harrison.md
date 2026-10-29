@@ -10,10 +10,10 @@ Converge's Ben Koller vs Porcupine Tree/King Crimson's Gavin Harrison. Raw hardc
 
 ## Ben Koller Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Drums:** Tama Starclassic Performer B/B
+- **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Snare:** Tama S.L.P. 14x6" Brass
-- **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama Throne
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Gavin Harrison Setup
@@ -34,7 +34,7 @@ Koller's technique is built for maximum unpredictability — a loose, explosive 
 
 ## Key Differences
 
-Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Gavin Harrison plays a Sonor SQ2 Series kit with his signature Sonor 14x5.25" snare and Zildjian K Custom Special Dry cymbals, paired with his own Vic Firth Gavin Harrison Signature stick — a refined setup built for clarity and articulation rather than raw power. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy. Harrison specializes in linear drumming and polyrhythmic layering, using deep musical instinct and meticulous ghost-note weaving through odd time signatures to make technically impossible grooves feel natural — a discipline honed across decades of session work and refined through instructional material on rhythmic sophistication.
+Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal and Vic Firth American Classic 5B sticks. Gavin Harrison plays a Sonor SQ2 Series kit with his signature Sonor 14x5.25" snare and Zildjian K Custom Special Dry cymbals, paired with his own Vic Firth Gavin Harrison Signature stick — a refined setup built for clarity and articulation rather than raw power. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy. Harrison specializes in linear drumming and polyrhythmic layering, using deep musical instinct and meticulous ghost-note weaving through odd time signatures to make technically impossible grooves feel natural — a discipline honed across decades of session work and refined through instructional material on rhythmic sophistication.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Ben Koller and Gavin Harrison sit at opposite ends of technical extreme and prog
 A: Both are considered elite technicians, but in very different styles. Ben Koller (Converge) is demanding because of his loose, explosive, unpredictable attack that thrives on sudden tempo and dynamic shifts. Gavin Harrison (Porcupine Tree, King Crimson) is demanding because of meticulous polyrhythmic layering and ghost-note precision across odd time signatures. Koller's difficulty is visceral and improvisational; Harrison's is composed and mathematical.
 
 **Q: What gear do Ben Koller and Gavin Harrison use?**
-A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Gavin Harrison plays a Sonor SQ2 Series kit with his signature Sonor 14x5.25" snare, Zildjian K Custom Special Dry cymbals, and his own Vic Firth signature stick.
+A: Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Gavin Harrison plays a Sonor SQ2 Series kit with his signature Sonor 14x5.25" snare, Zildjian K Custom Special Dry cymbals, and his own Vic Firth signature stick.
 
 **Q: What bands are Ben Koller and Gavin Harrison known for?**
 A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Gavin Harrison is best known for Porcupine Tree (since 2002) and King Crimson (since 2008), and also drums for The Pineapple Thief.
@@ -67,4 +67,4 @@ A: Gavin Harrison built his reputation first as an in-demand session and touring
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

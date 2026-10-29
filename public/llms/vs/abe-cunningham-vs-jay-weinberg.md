@@ -26,7 +26,7 @@ Deftones' Abe Cunningham vs ex-Slipknot's Jay Weinberg. Atmospheric alt-metal fe
 
 ## Playing Style
 
-Abe Cunningham co-founded Deftones in Sacramento in 1988 and has been the band's only drummer across more than three decades, shaping alternative metal's most atmospheric, shoegaze-influenced sound through landmark records like "Around the Fur" (1997), the Grammy-winning "White Pony" (2000), "Diamond Eyes" (2010), and "Ohms" (2020). Jay Weinberg joined Slipknot in 2014 at age 24, stepping into one of extreme metal's most scrutinized drum chairs following founding drummer Joey Jordison's departure, and recorded three studio albums — ".5: The Gray Chapter" (2014), "We Are Not Your Kind" (2019), and "The End, So Far" (2022) — before parting ways in November 2023 and later joining Suicidal Tendencies.
+Abe Cunningham co-founded Deftones in Sacramento in 1988, left briefly in 1990, and has been the band's drummer continuously since returning in 1993, shaping alternative metal's most atmospheric, shoegaze-influenced sound through landmark records like "Around the Fur" (1997), the Grammy-winning "White Pony" (2000), "Diamond Eyes" (2010), and "Ohms" (2020). Jay Weinberg joined Slipknot in 2014 at age 24, stepping into one of extreme metal's most scrutinized drum chairs following founding drummer Joey Jordison's departure, and recorded three studio albums — ".5: The Gray Chapter" (2014), "We Are Not Your Kind" (2019), and "The End, So Far" (2022) — before parting ways in November 2023 and later joining Suicidal Tendencies.
 
 ## Technique
 
@@ -56,7 +56,7 @@ A: Jay Weinberg's Slipknot drumming is built around raw power and sustained extr
 A: Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel snare and Zildjian cymbals, driven by a Tama Iron Cobra double pedal. Jay Weinberg played an SJC Custom Drums kit with a SJC "The Crucible" brass snare and Zildjian K Custom cymbals, driven by a DW 9000 double bass pedal and Roland electronics.
 
 **Q: What bands did each play for?**
-A: Abe Cunningham has been the founding and only drummer for Deftones since 1988, spanning nine studio albums including "White Pony" (2000) and "Ohms" (2020). Jay Weinberg drummed for Slipknot from 2014 to 2023, recorded three studio albums, and later joined Suicidal Tendencies in 2024.
+A: Abe Cunningham co-founded Deftones in 1988, left briefly in 1990, and has been the band's drummer continuously since returning in 1993, spanning nine studio albums including "White Pony" (2000) and "Ohms" (2020). Jay Weinberg drummed for Slipknot from 2014 to 2023, recorded three studio albums, and later joined Suicidal Tendencies in 2024.
 
 ---
 
@@ -67,4 +67,4 @@ A: Abe Cunningham has been the founding and only drummer for Deftones since 1988
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

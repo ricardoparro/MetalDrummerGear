@@ -26,7 +26,7 @@ Anthrax's Charlie Benante vs Judas Priest's Scott Travis. Big Four thrash metal 
 
 ## Playing Style
 
-Charlie Benante has been the rhythmic engine of Anthrax since their formation in 1981, helping to define East Coast American thrash metal through landmark albums including "Fistful of Metal" (1984), "Spreading the Disease" (1985), "Among the Living" (1987), "State of Euphoria" (1988), "Persistence of Time" (1990), and "Sound of White Noise" (1993). Benante is one of the "Big Four" of thrash metal drummers — alongside Lars Ulrich, Dave Lombardo, and Nick Menza — and brought a distinctive punk-and-hardcore energy to Anthrax's thrash formula, fusing speed, aggression, and an acute sense of groove that made Anthrax the most rhythmically varied of the four bands. Scott Travis joined Judas Priest in 1989, replacing Dave Holland for the landmark "Painkiller" album (1990) — one of the heaviest and most technically demanding records in the band's catalog. Travis brought an American power drumming authority to Britain's greatest heavy metal institution, delivering the blast-like double bass precision and power that "Painkiller" demanded. He has remained Priest's drummer across decades, recording "Angel of Retribution" (2005), "Nostradamus" (2008), "Redeemer of Souls" (2014), and "Firepower" (2018).
+Charlie Benante has been the rhythmic engine of Anthrax since joining in September 1983, helping to define East Coast American thrash metal through landmark albums including "Fistful of Metal" (1984), "Spreading the Disease" (1985), "Among the Living" (1987), "State of Euphoria" (1988), "Persistence of Time" (1990), and "Sound of White Noise" (1993). Benante is one of the "Big Four" of thrash metal drummers — alongside Lars Ulrich, Dave Lombardo, and Nick Menza — and brought a distinctive punk-and-hardcore energy to Anthrax's thrash formula, fusing speed, aggression, and an acute sense of groove that made Anthrax the most rhythmically varied of the four bands. Scott Travis joined Judas Priest in 1989, replacing Dave Holland for the landmark "Painkiller" album (1990) — one of the heaviest and most technically demanding records in the band's catalog. Travis brought an American power drumming authority to Britain's greatest heavy metal institution, delivering the blast-like double bass precision and power that "Painkiller" demanded. He has remained Priest's drummer across decades, recording "Angel of Retribution" (2005), "Nostradamus" (2008), "Redeemer of Souls" (2014), and "Firepower" (2018).
 
 ## Technique
 
@@ -50,10 +50,10 @@ Charlie Benante and Scott Travis are two of their generation's most important me
 A: Both are elite drummers of the same generation with equally legendary credentials. Charlie Benante (Anthrax) pioneered the thrash metal skank beat and defined the Big Four's most rhythmically creative drumming voice. Scott Travis (Judas Priest) delivered the "Painkiller" performance — one of heavy metal's most technically demanding and celebrated drumming feats. The answer depends on whether you value thrash groove creativity or raw heavy metal power.
 
 **Q: What albums did Charlie Benante record with Anthrax?**
-A: Charlie Benante has recorded all of Anthrax's studio albums as a founding member, including "Among the Living" (1987), "Persistence of Time" (1990), "Sound of White Noise" (1993), "We've Come for You All" (2003), "Worship Music" (2011), and "For All Kings" (2016). His most celebrated drumming is on "Among the Living" and "Persistence of Time."
+A: Charlie Benante has recorded all of Anthrax's studio albums since joining in 1983, including "Among the Living" (1987), "Persistence of Time" (1990), "Sound of White Noise" (1993), "We've Come for You All" (2003), "Worship Music" (2011), and "For All Kings" (2016). His most celebrated drumming is on "Among the Living" and "Persistence of Time."
 
 **Q: What albums did Scott Travis record with Judas Priest?**
-A: Scott Travis has recorded with Judas Priest since 1990, appearing on "Painkiller" (1990), "Jugulator" (1997), "Demolition" (2001), "Angel of Retribution" (2005), "Nostradamus" (2008), "Redeemer of Souls" (2014), and "Firepower" (2018) — spanning four decades as the band's drummer.
+A: Scott Travis has recorded with Judas Priest since 1989, appearing on "Painkiller" (1990), "Jugulator" (1997), "Demolition" (2001), "Angel of Retribution" (2005), "Nostradamus" (2008), "Redeemer of Souls" (2014), and "Firepower" (2018) — spanning four decades as the band's drummer.
 
 **Q: Does Charlie Benante have arthritis and still play?**
 A: Yes — Charlie Benante has been open about his struggles with rheumatoid arthritis, which has affected his hands and drumming ability. Despite the condition, he has continued to tour and record with Anthrax, adapting his technique and practice routine to manage the disease. His commitment to the band despite this challenge is widely respected in the metal community.
@@ -67,4 +67,4 @@ A: Yes — Charlie Benante has been open about his struggles with rheumatoid art
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

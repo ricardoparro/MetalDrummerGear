@@ -10,10 +10,10 @@ Converge's Ben Koller vs Between the Buried and Me's Blake Richardson. Chaos-dri
 
 ## Ben Koller Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Drums:** Tama Starclassic Performer B/B
+- **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Snare:** Tama S.L.P. 14x6" Brass
-- **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama Throne
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Blake Richardson Setup
@@ -34,7 +34,7 @@ Koller's technique is built for maximum unpredictability — a loose, explosive 
 
 ## Key Differences
 
-Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Blake Richardson plays a Tama Starclassic Bubinga kit in a custom finish with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride), powered by twin Tama Iron Cobra Power Glide single pedals and Vic Firth American Classic 3A sticks. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy. Richardson's technique is rooted in composed complexity: metric modulation, odd time signatures, and jazz-informed ghost notes are meticulously arranged to serve BTBAM's genre-hopping compositions, requiring him to execute technically demanding written parts with exacting consistency night after night rather than improvising in the moment.
+Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal and Vic Firth American Classic 5B sticks. Blake Richardson plays a Tama Starclassic Bubinga kit in a custom finish with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride), powered by twin Tama Iron Cobra Power Glide single pedals and Vic Firth American Classic 3A sticks. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy. Richardson's technique is rooted in composed complexity: metric modulation, odd time signatures, and jazz-informed ghost notes are meticulously arranged to serve BTBAM's genre-hopping compositions, requiring him to execute technically demanding written parts with exacting consistency night after night rather than improvising in the moment.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Ben Koller and Blake Richardson sit at opposite ends of technical extreme music'
 A: Both are considered among the most demanding drummers in modern heavy music, but in different ways. Ben Koller (Converge) is demanding because of his loose, explosive, unpredictable attack — he thrives on sudden tempo shifts and dynamic swings that make Converge's mathcore feel dangerous. Blake Richardson (Between the Buried and Me) is demanding because of composed complexity — metric modulation and odd time signatures that must be executed with exacting consistency. Koller's difficulty is visceral; Richardson's is architectural.
 
 **Q: What gear do Ben Koller and Blake Richardson use?**
-A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals, powered by twin Tama Iron Cobra Power Glide single pedals.
+A: Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals, powered by twin Tama Iron Cobra Power Glide single pedals.
 
 **Q: What bands are Ben Koller and Blake Richardson known for?**
 A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Blake Richardson has been the drummer for Between the Buried and Me since 2005.
@@ -67,4 +67,4 @@ A: Ben Koller's most acclaimed work is Converge's "Jane Doe" (2001), widely rega
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

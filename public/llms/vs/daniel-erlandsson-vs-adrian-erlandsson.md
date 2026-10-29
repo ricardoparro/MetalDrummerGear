@@ -22,7 +22,7 @@ Arch Enemy's Daniel Erlandsson vs At the Gates/The Haunted's Adrian Erlandsson. 
 - **Cymbals:** Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)
 - **Snare:** Tama Starclassic Bubinga 14x6.5"
 - **Pedals/Hardware:** Monolit Czarcie Kopyto Double Pedal
-- **Sticks:** Vic Firth American Classic Rock Nylon Tip (ROCKN)
+- **Sticks:** Vic Firth Rock Nylon Tip (At the Gates Signature)
 
 ## Playing Style
 
@@ -42,7 +42,7 @@ Daniel Erlandsson defined Arch Enemy's modern rhythmic identity — his drumming
 
 ## Verdict
 
-The Erlandsson brothers represent Swedish melodic death metal from two distinct but complementary perspectives. Adrian helped write the genre's rulebook with At the Gates and "Slaughter of the Soul" — one of extreme metal's most influential albums. Daniel refined and modernized those rules with Arch Enemy across fifteen years of global touring and recording. Both are essential to understanding how Swedish melodic death metal conquered the world.
+The Erlandsson brothers represent Swedish melodic death metal from two distinct but complementary perspectives. Adrian helped write the genre's rulebook with At the Gates and "Slaughter of the Soul" — one of extreme metal's most influential albums. Daniel refined and modernized those rules with Arch Enemy across three decades of global touring and recording. Both are essential to understanding how Swedish melodic death metal conquered the world.
 
 ## FAQ
 
@@ -67,4 +67,4 @@ A: At the Gates' "Slaughter of the Soul" (1995) is widely considered one of the 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

@@ -19,7 +19,7 @@ Death's Richard Christy vs Nile's George Kollias — two technical death metal b
 ## George Kollias Setup
 
 - **Drums:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
-- **Cymbals:** Zildjian A Custom Series
+- **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
 - **Sticks:** Vic Firth
@@ -47,7 +47,7 @@ Richard Christy and George Kollias represent technical death metal's musicality-
 ## FAQ
 
 **Q: Did Richard Christy and George Kollias ever play together?**
-A: No — Richard Christy drummed for Death (1996–2001) and later Iced Earth (2003–2007), while George Kollias has drummed for Nile since 2004. The two never overlapped in the same band, but both are frequently discussed together as elite technical death metal blast-beat specialists from adjacent eras.
+A: No — Richard Christy drummed for Death (1997–2001) and later Iced Earth (2003–2007), while George Kollias has drummed for Nile since 2004. The two never overlapped in the same band, but both are frequently discussed together as elite technical death metal blast-beat specialists from adjacent eras.
 
 **Q: How fast can George Kollias play blast beats compared to Richard Christy?**
 A: George Kollias is known for sustaining blast beats above 240 BPM with exceptional clarity, using a heel-toe double-bass technique he has taught extensively through instructional DVDs. Richard Christy's recorded work with Death on "The Sound of Perseverance" (1998) emphasized dynamic range and musicality alongside speed rather than maximum sustained tempo as the primary goal.
@@ -67,4 +67,4 @@ A: Yes — George Kollias is one of extreme metal's most prominent drumming educ
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Chris Adler played a Mapex Saturn in Satin Black Maple Burl kit with a Mapex 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

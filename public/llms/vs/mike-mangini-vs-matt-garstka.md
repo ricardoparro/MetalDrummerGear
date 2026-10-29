@@ -34,7 +34,7 @@ Mangini specializes in speed records and complex metric modulation within a band
 
 ## Key Differences
 
-Mangini plays Pearl Reference Pure drums with Sabian HHX / AAX cymbals — a powerful, projection-focused setup suited to Dream Theater's arena-scale progressive metal. Garstka plays DW Collector's Series drums with Meinl Byzance cymbals and electronic pads, a combination that balances acoustic power with the electronic integration Animals as Leaders' modern sound requires. Mangini specializes in speed records and complex metric modulation within a band context, developing proprietary techniques for speed development that he teaches through his Speed and Dexterity instructional series. Garstka focuses on extended hand technique, ghost-note density, and creative integration of electronics and effects within Animals as Leaders' intricate compositional framework.
+Mangini plays Pearl Reference Pure drums with Sabian HHX / AAX cymbals — a powerful, projection-focused setup suited to Dream Theater's arena-scale progressive metal. Garstka plays DW Collector's Series drums with Meinl Byzance cymbals, a combination that balances acoustic power and tonal clarity for Animals as Leaders' modern sound. Mangini specializes in speed records and complex metric modulation within a band context, developing proprietary techniques for speed development that he teaches through his Speed and Dexterity instructional series. Garstka focuses on extended hand technique, ghost-note density, and creative integration of electronics and effects within Animals as Leaders' intricate compositional framework.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Mike Mangini and Matt Garstka define two different expressions of modern progres
 A: Mangini specializes in speed records and complex metric modulation within a band context; Garstka focuses on extended technique and ghost-note density in a groove-centric framework.
 
 **Q: What drum kits do Mangini and Garstka use?**
-A: Mangini uses a Pearl Reference Pure kit with Sabian HHX / AAX cymbals; Garstka plays a DW Collector's Series kit with Meinl Byzance cymbals and electronic pads.
+A: Mangini uses a Pearl Reference Pure kit with Sabian HHX / AAX cymbals; Garstka plays a DW Collector's Series kit with Meinl Byzance cymbals.
 
 **Q: Who has won more speed drumming records?**
 A: Mike Mangini holds several Guinness World Records for drumming speed; Garstka's records are in the creative application of technique rather than raw speed.
@@ -64,4 +64,4 @@ A: Mike Mangini holds several Guinness World Records for drumming speed; Garstka
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

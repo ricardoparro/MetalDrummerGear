@@ -11,8 +11,8 @@ Periphery's Matt Halpern vs Trivium's Alex Bent. Djent, modern metal, and techni
 ## Matt Halpern Setup
 
 - **Drums:** Pearl Reference Series
-- **Cymbals:** Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Cymbals:** Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack")
+- **Snare:** Pearl Matt Halpern Signature 14x6" Brass (MH1460/B)
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Matt Halpern Signature
 
@@ -56,7 +56,7 @@ A: Matt Halpern plays Pearl Reference Series. Alex Bent plays Tama Starclassic M
 A: Both are legends in their own right. Matt Halpern shaped djent drumming for a generation. See the full analysis at [metalforge.io/vs/matt-halpern-vs-alex-bent](https://metalforge.io/vs/matt-halpern-vs-alex-bent).
 
 **Q: What cymbals do Matt Halpern and Alex Bent use?**
-A: Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China). Alex Bent uses Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China).
+A: Matt Halpern uses Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack"). Alex Bent uses Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

@@ -12,7 +12,7 @@ Zappa-adjacent fusion drummer Morgan Ågren vs Dream Theater's Mike Mangini. Two
 
 - **Drums:** Sonor SQ2 Beech
 - **Cymbals:** Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China)
-- **Snare:** Sonor Designer 14x5.5" Maple
+- **Snare:** Sonor SQ2 Beech 14x5.5" Maple
 - **Pedals/Hardware:** Sonor Giant Step Double Pedal, Sonor Throne
 - **Sticks:** Vic Firth American Classic 5A
 
@@ -67,4 +67,4 @@ A: No — Mike Mangini drummed for Dream Theater from 2010 to 2023, when the ban
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

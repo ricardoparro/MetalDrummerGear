@@ -34,7 +34,7 @@ Lombardo revolutionized thrash drumming with relentless, high-speed double bass 
 
 ## Key Differences
 
-Lombardo plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals, driven by a Tama Iron Cobra 900 double pedal. McBrain plays a British Drum Co. kit with a Sonor Nicko McBrain Signature 14x6.5" snare and Paiste 2002 & Signature Series cymbals, powered by a single bass drum pedal. Lombardo revolutionized thrash drumming with relentless, high-speed double bass patterns and surgical timing, a technique that directly influenced the emergence of death metal. McBrain is known for intricate hi-hat work and a powerful single bass drum technique — notably refusing to use a double bass pedal and instead achieving remarkable speed and complexity with a single pedal.
+Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals, driven by a Tama Iron Cobra 900 double pedal. McBrain plays a British Drum Co. kit with a Sonor Nicko McBrain Signature 14x6.5" snare and Paiste 2002 & Signature Series cymbals, powered by a single bass drum pedal. Lombardo revolutionized thrash drumming with relentless, high-speed double bass patterns and surgical timing, a technique that directly influenced the emergence of death metal. McBrain is known for intricate hi-hat work and a powerful single bass drum technique — notably refusing to use a double bass pedal and instead achieving remarkable speed and complexity with a single pedal.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Dave Lombardo and Nicko McBrain represent two foundational eras and philosophies
 A: Dave Lombardo pioneered relentless, high-speed double bass drumming that defined thrash metal with Slayer. Nicko McBrain built Iron Maiden's galloping NWOBHM sound around intricate hi-hat work and a powerful single bass drum technique.
 
 **Q: What gear does Dave Lombardo use vs Nicko McBrain?**
-A: Dave Lombardo plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals. Nicko McBrain plays a British Drum Co. kit with a Sonor Nicko McBrain Signature 14x6.5" snare and Paiste 2002 & Signature Series cymbals.
+A: Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals. Nicko McBrain plays a British Drum Co. kit with a Sonor Nicko McBrain Signature 14x6.5" snare and Paiste 2002 & Signature Series cymbals.
 
 **Q: Does Nicko McBrain use a double bass pedal?**
 A: No — Nicko McBrain notably refuses to use a double bass pedal, instead achieving remarkable speed and complexity on Iron Maiden's galloping rhythms with a single bass drum pedal.
@@ -67,4 +67,4 @@ A: Dave Lombardo's drumming on Slayer's "Reign in Blood" (1986) is widely consid
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

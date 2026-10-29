@@ -34,7 +34,7 @@ Brann treats the entire kit as a melodic instrument, using his snare and toms to
 
 ## Key Differences
 
-Brann plays Tama Starclassic Performer B/B with Meinl Mb20 & Mb8 Series cymbals and Vater 5B sticks. Gavin uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals and Vic Firth signature sticks. Brann treats the entire kit as a melodic instrument, using his snare and toms to carry melody lines through constant motion fills that define Mastodon's sound. Gavin weaves intricate polyrhythmic patterns through odd time signatures with economy and sophistication, prioritizing musical feel over spectacle.
+Brann plays Tama Starclassic Performer B/B with Meinl Byzance Series cymbals and Vater 5B sticks. Gavin uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals and Vic Firth signature sticks. Brann treats the entire kit as a melodic instrument, using his snare and toms to carry melody lines through constant motion fills that define Mastodon's sound. Gavin weaves intricate polyrhythmic patterns through odd time signatures with economy and sophistication, prioritizing musical feel over spectacle.
 
 ## Influence & Legacy
 
@@ -47,13 +47,13 @@ Brann Dailor is jazz chaos personified — his fills are the melody and his kit 
 ## FAQ
 
 **Q: What are the main differences between Brann Dailor's and Gavin Harrison's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl Mb20 & Mb8 Series cymbals, while Gavin Harrison uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals. Brann favors a warm, musical tone for melodic fills; Gavin prefers a dry, controlled sound for polyrhythmic precision.
+A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl Byzance Series cymbals, while Gavin Harrison uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals. Brann favors a warm, musical tone for melodic fills; Gavin prefers a dry, controlled sound for polyrhythmic precision.
 
 **Q: Who is the better progressive metal drummer, Brann Dailor or Gavin Harrison?**
 A: Both are legends in their own right. Brann Dailor is jazz chaos incarnate in progressive sludge metal; Gavin Harrison is polyrhythmic sophistication personified in progressive rock. The answer depends on whether you value constant motion and melodic chaos or restrained, mathematical groove.
 
 **Q: What cymbals do Brann Dailor and Gavin Harrison use?**
-A: Brann Dailor uses Meinl Mb20 & Mb8 Series (14" Dark Hi-Hats, 18" & 19" Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
+A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
 
 **Q: What bands are Brann Dailor and Gavin Harrison known for?**
 A: Brann Dailor is the drummer and vocalist for Mastodon. Gavin Harrison is best known for Porcupine Tree and King Crimson, and also plays with The Pineapple Thief.
@@ -67,4 +67,4 @@ A: Brann Dailor is the drummer and vocalist for Mastodon. Gavin Harrison is best
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

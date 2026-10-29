@@ -11,8 +11,8 @@ Periphery's Matt Halpern vs Dream Theater's Mike Mangini. Djent's polyrhythmic g
 ## Matt Halpern Setup
 
 - **Drums:** Pearl Reference Series
-- **Cymbals:** Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Cymbals:** Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack")
+- **Snare:** Pearl Matt Halpern Signature 14x6" Brass (MH1460/B)
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Matt Halpern Signature
 
@@ -34,7 +34,7 @@ Halpern's technique combines groove-focused polyrhythms and ghost notes with the
 
 ## Key Differences
 
-Matt Halpern plays a Pearl Reference Series kit with a Pearl Reference 14x6.5" Brass snare and Meinl Byzance Series cymbals (14" Byzance Traditional Medium Hi-Hats, 18" & 20" Byzance Traditional Extra Thin Hammered Crashes, 22" Byzance Sand Crash-Ride, plus his signature Meinl Artist Concept Double Down Stack), with Promark Matt Halpern Signature sticks. Mike Mangini plays a Pearl Reference Series kit with a Pearl Reference 14x5" & 14x6.5" Brass snare and Sabian HHX & AAX Series cymbals (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride), powered by a Pearl Eliminator Redline double pedal and a Roland SPD-SX sampling pad — both drummers share a Pearl Reference Series kit despite very different cymbal choices and pedal brands. Halpern's technique combines groove-focused polyrhythms and ghost notes with the ability to navigate Periphery's complex time signatures while maintaining pocket, a skill set he shares widely as an accomplished drum educator. Mangini holds multiple Guinness World Records for drumming speed and applies rigorous biomechanical analysis to his playing, incorporating complex polyrhythms and hybrid acoustic/electronic setups across Dream Theater's demanding material.
+Matt Halpern plays a Pearl Reference Series kit with his own Pearl Matt Halpern Signature 14x6" Brass snare (MH1460/B) and Meinl Byzance Series cymbals (14" Byzance Traditional Medium Hi-Hats, 18" & 20" Byzance Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus his signature Meinl Artist Concept Double Down Stack), with Promark Matt Halpern Signature sticks. Mike Mangini plays a Pearl Reference Series kit with a Pearl Reference 14x5" & 14x6.5" Brass snare and Sabian HHX & AAX Series cymbals (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride), powered by a Pearl Eliminator Redline double pedal and a Roland SPD-SX sampling pad — both drummers share a Pearl Reference Series kit despite very different cymbal choices and pedal brands. Halpern's technique combines groove-focused polyrhythms and ghost notes with the ability to navigate Periphery's complex time signatures while maintaining pocket, a skill set he shares widely as an accomplished drum educator. Mangini holds multiple Guinness World Records for drumming speed and applies rigorous biomechanical analysis to his playing, incorporating complex polyrhythms and hybrid acoustic/electronic setups across Dream Theater's demanding material.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Matt Halpern and Mike Mangini both build their sound on a Pearl Reference Series
 A: Matt Halpern combines groove-focused polyrhythms and ghost notes that anchor Periphery's dense djent compositions. Mike Mangini brings a scientific, biomechanically optimized approach built on world-record drumming speed to Dream Theater's progressive metal material.
 
 **Q: What gear do Matt Halpern and Mike Mangini use?**
-A: Matt Halpern plays a Pearl Reference Series kit with a Pearl Reference Brass snare and Meinl Byzance Series cymbals. Mike Mangini plays the same Pearl Reference Series kit, but with Sabian HHX & AAX Series cymbals, a Pearl Eliminator Redline double pedal, and a Roland SPD-SX sampling pad instead.
+A: Matt Halpern plays a Pearl Reference Series kit with his own Pearl Matt Halpern Signature brass snare and Meinl Byzance Series cymbals. Mike Mangini plays the same Pearl Reference Series kit, but with Sabian HHX & AAX Series cymbals, a Pearl Eliminator Redline double pedal, and a Roland SPD-SX sampling pad instead.
 
 **Q: What bands are Matt Halpern and Mike Mangini known for?**
 A: Matt Halpern has drummed for Periphery since the band's formation, helping define the djent movement across albums like "Periphery II" and "Hail Stan." Mike Mangini has drummed for Dream Theater since 2010, following earlier work with Steve Vai, Extreme, and Annihilator.
@@ -67,4 +67,4 @@ A: Both are highly regarded drum educators. Matt Halpern built one of the most e
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

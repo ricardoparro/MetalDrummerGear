@@ -18,10 +18,10 @@ August Burns Red's Matt Greiner vs Converge's Ben Koller. Grammy-nominated metal
 
 ## Ben Koller Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)
+- **Drums:** Tama Starclassic Performer B/B
+- **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Snare:** Tama S.L.P. 14x6" Brass
-- **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal, Tama Throne
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 
 ## Playing Style
@@ -34,7 +34,7 @@ Greiner weaves odd time signatures seamlessly into song structures rather than s
 
 ## Key Differences
 
-Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, powered by a Tama Iron Cobra 900 double pedal. Greiner weaves odd time signatures seamlessly into song structures rather than showcasing them as a display, incorporating creative stacked-cymbal work and rapid-fire double bass into metalcore's heavy foundation. Koller favors a loose, explosive attack built for maximum unpredictability, thriving on Converge's sudden tempo shifts and dynamic swings with gut-level feel over rehearsed precision.
+Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, powered by a Tama Iron Cobra Double Pedal. Greiner weaves odd time signatures seamlessly into song structures rather than showcasing them as a display, incorporating creative stacked-cymbal work and rapid-fire double bass into metalcore's heavy foundation. Koller favors a loose, explosive attack built for maximum unpredictability, thriving on Converge's sudden tempo shifts and dynamic swings with gut-level feel over rehearsed precision.
 
 ## Influence & Legacy
 
@@ -47,16 +47,16 @@ Matt Greiner and Ben Koller sit on opposite ends of technical heavy music's cont
 ## FAQ
 
 **Q: What are the main differences between Matt Greiner's and Ben Koller's drum kits?**
-A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Ben Koller uses Tama Starclassic Maple with Zildjian cymbals. Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, powered by a Tama Iron Cobra 900 double pedal.
+A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Ben Koller uses Tama Starclassic Performer B/B with Zildjian cymbals. Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, powered by a Tama Iron Cobra Double Pedal.
 
 **Q: What drums does Matt Greiner play vs Ben Koller?**
-A: Matt Greiner plays Mapex Black Panther Design Lab. Ben Koller plays Tama Starclassic Maple.
+A: Matt Greiner plays Mapex Black Panther Design Lab. Ben Koller plays Tama Starclassic Performer B/B.
 
 **Q: Who is the better progressive metal drummer, Matt Greiner or Ben Koller?**
 A: Both are legends in their own right. Matt Greiner and Ben Koller sit on opposite ends of technical heavy music's control spectrum. See the full analysis at [metalforge.io/vs/matt-greiner-vs-ben-koller](https://metalforge.io/vs/matt-greiner-vs-ben-koller).
 
 **Q: What cymbals do Matt Greiner and Ben Koller use?**
-A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China).
+A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). Ben Koller uses Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" R
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

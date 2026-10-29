@@ -34,7 +34,7 @@ Hoglan's polyrhythmic command lets him move fluidly between odd-time signatures 
 
 ## Key Differences
 
-Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedals engineered for his relentless double-bass runs. Lombardo plays Tama Starclassic Maple drums with a Tama S.L.P. 14x6.5" G-Maple snare, Paiste RUDE and 2002 Series cymbals, and a Tama Iron Cobra 900 double pedal. Hoglan's polyrhythmic command lets him move fluidly between odd-time signatures and blast-beat sections without losing the pocket — a skill honed across Death's *Individual Thought Patterns* and Testament's technical thrash. Lombardo's technique is built on feel over metronome: his groove-locked double bass and thunderous snare work drive Slayer's riffs with visceral, almost punk aggression rather than clinical precision.
+Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedals engineered for his relentless double-bass runs. Lombardo plays Tama Starclassic Walnut/Birch drums with a Tama S.L.P. 14x6.5" G-Maple snare, Paiste RUDE and 2002 Series cymbals, and a Tama Iron Cobra 900 double pedal. Hoglan's polyrhythmic command lets him move fluidly between odd-time signatures and blast-beat sections without losing the pocket — a skill honed across Death's *Individual Thought Patterns* and Testament's technical thrash. Lombardo's technique is built on feel over metronome: his groove-locked double bass and thunderous snare work drive Slayer's riffs with visceral, almost punk aggression rather than clinical precision.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Gene Hoglan and Dave Lombardo represent two poles of extreme metal drumming exce
 A: Gene Hoglan is widely considered the more technically complex player, known for polyrhythmic mastery and odd-time signatures that earned him the nickname "The Atomic Clock." Dave Lombardo is renowned for raw speed, groove, and feel rather than technical complexity.
 
 **Q: What kits do Gene Hoglan and Dave Lombardo play?**
-A: Hoglan plays a Pearl Reference Pure kit with Sabian AAX cymbals. Lombardo plays a Tama Starclassic Maple kit with Paiste RUDE and 2002 Series cymbals.
+A: Hoglan plays a Pearl Reference Pure kit with Sabian AAX cymbals. Lombardo plays a Tama Starclassic Walnut/Birch kit with Paiste RUDE and 2002 Series cymbals.
 
 **Q: Who is faster: Gene Hoglan or Dave Lombardo?**
 A: Both are elite for their eras. Hoglan's blast beats and double bass runs are metronomically precise at extreme tempos, while Lombardo pioneered the speed and aggression that defined thrash metal's Reign in Blood era.
@@ -64,4 +64,4 @@ A: Both are elite for their eras. Hoglan's blast beats and double bass runs are 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

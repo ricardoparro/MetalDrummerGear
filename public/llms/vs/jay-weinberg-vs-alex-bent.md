@@ -38,11 +38,11 @@ Jay Weinberg played an SJC Custom Drums kit with a SJC "The Crucible" 14x6.5" br
 
 ## Influence & Legacy
 
-Weinberg carried one of metal's most scrutinized drum chairs for nine years, earning respect from fans who initially doubted anyone could replace Jordison, and built a following that carried into his post-Slipknot work with Suicidal Tendencies. Bent elevated Trivium's rhythmic complexity across four albums over eight years, proving a technical death metal background from underground bands like Brain Drill could translate directly into mainstream modern metal success.
+Weinberg carried one of metal's most scrutinized drum chairs for nine years, earning respect from fans who initially doubted anyone could replace Jordison, and built a following that carried into his post-Slipknot work with Suicidal Tendencies. Bent elevated Trivium's rhythmic complexity across four albums over nine years, proving a technical death metal background from underground bands like Brain Drill could translate directly into mainstream modern metal success.
 
 ## Verdict
 
-Jay Weinberg and Alex Bent represent the same 21st-century archetype from two different corners of metal: the technically gifted outsider who steps into a legacy drum chair and makes it their own. Weinberg spent nine years honoring Joey Jordison's legacy while adding his own hardcore-punk-fueled intensity to Slipknot's chaos. Bent spent eight years bringing underground technical death metal precision to Trivium's increasingly ambitious modern metal songwriting. Both prove that "the new guy" in a beloved band's drum chair can become essential in his own right.
+Jay Weinberg and Alex Bent represent the same 21st-century archetype from two different corners of metal: the technically gifted outsider who steps into a legacy drum chair and makes it their own. Weinberg spent nine years honoring Joey Jordison's legacy while adding his own hardcore-punk-fueled intensity to Slipknot's chaos. Bent spent nine years bringing underground technical death metal precision to Trivium's increasingly ambitious modern metal songwriting. Both prove that "the new guy" in a beloved band's drum chair can become essential in his own right.
 
 ## FAQ
 
@@ -56,7 +56,7 @@ A: Before joining Trivium in 2017, Alex Bent played technical death metal with B
 A: Jay Weinberg played an SJC Custom Drums kit with a SJC "The Crucible" brass snare and Zildjian K Custom cymbals, driven by a DW 9000 double bass pedal. Alex Bent played a TAMA Starclassic Maple kit with a TAMA Starclassic Maple snare and Zildjian K Custom Hybrid cymbals, powered by Axis Percussion double pedals.
 
 **Q: Are Jay Weinberg and Alex Bent still in Slipknot and Trivium?**
-A: No — Jay Weinberg left Slipknot in November 2023 and later joined Suicidal Tendencies. Alex Bent left Trivium in October 2025 after eight years and four albums with the band.
+A: No — Jay Weinberg left Slipknot in November 2023 and later joined Suicidal Tendencies. Alex Bent left Trivium in October 2025 after nine years and four albums with the band.
 
 ---
 
@@ -67,4 +67,4 @@ A: No — Jay Weinberg left Slipknot in November 2023 and later joined Suicidal 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Jocke Wallgren plays a Pearl Reference Pure kit (the specific snare model has
 
 ---
 
-*Last updated: 2026-10-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

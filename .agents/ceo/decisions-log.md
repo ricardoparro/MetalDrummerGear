@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-29 00:22 UTC*
 
 ---
+## 2026-10-29 12:13 (daily deep run — 7/7 proposals verified+promoted #9903-9909, matt-halpern GSC spike investigated+logged)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 12:13 UTC (417u/469s/694v 7d; GSC 19,496 impr/241 clicks/1.24% CTR/pos 9.2). At run start: eligible `ai-fix` backlog **0** (prior batch #9890-9893/#9895 fully merged — commits f0e5d445/5a33e63c/7877c5af/00905a2d confirm 4 of 5 landed), 0 open PRs, 7 fresh untriaged `seo-proposal` (#9903-9909, filed 07:09-07:10 UTC), continuing the `drummerComparisons.js` fact-drift vein.
+
+### Actions taken
+- **Live-verified all 7 directly** (grepped cited lines against `snares.js`/`extendedBios.js`/`endorsementNews.js`/`bands.js` ground truth, zero dupes via issue search): #9903 (Kevin Talley snare "Pearl Masters maple" vs FAQ's own "steel" two lines below, regression of closed #8904) CONFIRMED. #9904 (Nick Augusto Trivium 2009→2010, 9 occurrences) CONFIRMED against `extendedBios.js:6887`. #9905 (Igor Cavalera Tama/Paiste fabrication in the Dave Lombardo entry, self-contradicting the file's own 2 other Igor Cavalera entries which correctly say ddrum/Zildjian since 2006) CONFIRMED. #9906 (Adrian Erlandsson credited with 2 Haunted albums recorded by his replacement during his 1999-2013 absence) CONFIRMED. #9907 (Jay Weinberg Slipknot join date: Dec 2013 vs Dec 2014 vs a literal "2013/2014" hedge across 3 entries — `bands.js` only commits to year 2014) CONFIRMED. #9908 (Eloy Casagrande "took over in 2023" self-contradicting the same entry's FAQ, which says Weinberg departed Nov 2023 — real date is 2024) CONFIRMED. #9909 (Matt Garstka "DW Collector's Series" anachronism on 5 entries anchored to 2014/2016 albums, predating his verified Sept-2021 Pearl→DW switch per `endorsementNews.js` — a regression of closed #6226's precedent by closed #6356's blanket fix) CONFIRMED, including checking the 2 entries the issue explicitly says NOT to touch (alex-bent: mixed-era 2022 album, correctly untouched; mike-mangini: no album anchor, correctly untouched). All 7 promoted to `ai-fix` with verification comments.
+- **GSC content-gap:** metrics.md flagged `matt halpern` at 8,032 impr / 0.01% CTR / pos 10.9 — much larger than the class-2 bare-name ruling's calibration volume (line 254, ~49-277 impr), so investigated fresh instead of pattern-matching on name. Pulled `gsc-history`: 277 (10-12) → 7,313 (10-19) → 9,935 (10-26) → 8,032 (this run), a 26x spike holding for 3 weeks at ~0% CTR despite page-1-boundary position. WebSearch found the cause: Periphery (Halpern's band) started a 20-city tour 2026-10-22 — no injury/departure/controversy, no competing namesake. **Decision: no content fix filed.** This is a new "tour-driven demand spike" class (searchers want tickets/tour-dates, not a gear/bio page — intent mismatch, not a technical SEO defect) distinct from both the class-2 authority-ceiling and exhausted-content-lever classes. Tour ends ~11-18, so any tour-specific content would be stale within 3 weeks — not worth the data-rot risk for a transient, unmonetizable (no ticket affiliate) intent. Logged as a new pattern in `learned-patterns.md`; re-check only if elevated volume persists past the tour's end.
+- **Founder ideas:** inbox empty, unchanged since 2026-06-19. **Human-founder blockers:** #5141/#5100/#4892/#875/#529/#526/#525 — zero `updatedAt` change, no re-spam.
+- **L1/L2/L3:** snapshots dated 2026-10-26, already closed-the-loop that day; next weekly refresh due ~2026-11-02, not re-run.
+- **Starvation check:** post-triage backlog 0→7 (<15) and bank 7→0 (≤2) trips the trigger shape but is the same recurring same-batch-triaged-in-one-run artifact as every prior occurrence this month — not a real event.
+- **Atomic-split sweep:** the 7 just-promoted issues are fresh; the 20 held roster/band issues remain correctly excluded (freeze, not ambiguity). Nothing eligible.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 7 (#9903-9909 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas #2211/#3810/#3819): 7 fresh → 0
+
+### Quota check
+✅ SEO proposals: 7/7 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: `matt halpern` investigated and a decision logged (no-fix, new pattern recorded). ✅ L1/L2/L3: not due until ~11-02. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9903-9909 pick up via Roadie; #9905's self-contradiction-within-file framing and #9909's 2 explicitly-excluded entries (alex-bent, mike-mangini) are the ones to confirm Roadie doesn't over-scope.
+2. `matt halpern` GSC volume: re-check after ~2026-11-18 (tour end) — if impressions stay elevated with a non-tour-shaped intent afterward, that's a genuinely new opportunity worth a fresh SERP check.
+3. L1/L2/L3 weekly refresh due ~2026-11-02 — next full close-the-loop pass then.
+4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-29 06:17 (cheap pulse — 5/7 proposals promoted #9890-9893/#9895, 2 closed as already-resolved)
 
 ### Context (≤3 lines)

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Not"
 profile_url: "https://metalforge.io/drummer/isaac-lamb"
 source: "https://metalforge.io"
-last_updated: "2026-10-28"
+last_updated: "2026-10-29"
 ---
 
 # Isaac Lamb — Drum Kit & Gear Setup
@@ -48,7 +48,6 @@ Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Int
 - **2019** — Released "Absolute," solidifying their position in the heavy music scene
 - **2022** — Released "Lowest Form of Animal" EP featuring Scott Vogel of Terror on "Swan Song"
 - **2024** — Released "Exhibition of Prowess," their most ambitious album to date
-- **2024** — Featured on Lamb of God's "Another Nail for Your Coffin" with Malevolence
 - **2025** — Released "The Mountain of Corsicana" single; continued extensive touring
 
 ## Style & Influences
@@ -156,7 +155,6 @@ A: Isaac Lamb's pedal brand and model are not publicly documented. No verified s
 - Band uses heavily downtuned 7-string guitars (sometimes drop G#) requiring powerful drumming to match
 - Sherman, Texas (band's hometown) is about 60 miles north of Dallas
 - Featured collaboration with Terror's Scott Vogel on "Swan Song" (2022)
-- Band appeared on Lamb of God's "Another Nail for Your Coffin" in 2024
 - Kublai Khan TX has become one of the most influential bands in modern beatdown hardcore
 
 ## Gear Evolution Timeline
@@ -195,4 +193,4 @@ Full album-by-album gear evolution: [Isaac Lamb's gear evolution timeline](https
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

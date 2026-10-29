@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-29 07:03 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-29 08:16 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 411 |
-| Sessions | 462 |
-| Page views | 681 |
-| Engagement rate | 59.74% |
-| Avg session (s) | 117 |
+| Active users | 413 |
+| Sessions | 464 |
+| Page views | 685 |
+| Engagement rate | 59.91% |
+| Avg session (s) | 119 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,19 +31,19 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 364 | 311 |
+| Organic Search | 366 | 313 |
 | Direct | 97 | 97 |
-| Unassigned | 22 | 20 |
+| Unassigned | 23 | 21 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 141 | 126 |
+| United States | 142 | 127 |
 | Singapore | 43 | 43 |
 | United Kingdom | 32 | 18 |
-| China | 22 | 22 |
+| China | 23 | 23 |
 | Australia | 20 | 15 |
 | Canada | 15 | 15 |
 | Germany | 13 | 12 |
@@ -54,9 +54,9 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 16,304 |
-| Clicks | 201 |
-| CTR | 1.23% |
+| Impressions | 19,496 |
+| Clicks | 241 |
+| CTR | 1.24% |
 | Avg position | 9.2 |
 
 ### Top queries
@@ -64,31 +64,33 @@
 | --- | --- | --- | --- | --- |
 | death metal drum kit | 9 | 4 | 44.44% | 4.8 |
 | john otto cymbal setup | 10 | 3 | 30.00% | 5.7 |
-| joey jordison drum set | 48 | 2 | 4.17% | 10.3 |
-| matt garstka drum kit | 14 | 2 | 14.29% | 6.3 |
-| matt greiner drum kit | 2 | 2 | 100.00% | 3.0 |
-| best death metal drummers of all time | 3 | 1 | 33.33% | 3.3 |
-| danny carey drum set | 13 | 1 | 7.69% | 12.5 |
+| joey jordison drum set | 53 | 2 | 3.77% | 10.2 |
+| mario duplantier drum kit | 36 | 2 | 5.56% | 8.2 |
+| matt garstka drum kit | 19 | 2 | 10.53% | 6.1 |
+| matt greiner drum kit | 3 | 2 | 66.67% | 4.3 |
+| best death metal drummers of all time | 4 | 1 | 25.00% | 5.0 |
+| best nu metal drummers | 6 | 1 | 16.67% | 6.8 |
+| danny carey drum set | 14 | 1 | 7.14% | 12.2 |
 | fastest double bass drummer | 5 | 1 | 20.00% | 5.4 |
-| fastest double kick drummer | 5 | 1 | 20.00% | 5.0 |
-| frost drums | 3 | 1 | 33.33% | 5.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,338 | 56 | 1.68% | 8.0 |
-| gbr | 856 | 13 | 1.52% | 9.1 |
-| can | 647 | 9 | 1.39% | 8.6 |
-| nld | 219 | 9 | 4.11% | 7.2 |
-| aus | 478 | 8 | 1.67% | 8.4 |
-| cze | 80 | 7 | 8.75% | 6.8 |
-| deu | 361 | 7 | 1.94% | 7.9 |
-| swe | 181 | 7 | 3.87% | 7.2 |
-| tha | 200 | 6 | 3.00% | 9.6 |
-| grc | 111 | 5 | 4.50% | 8.2 |
+| usa | 4,051 | 70 | 1.73% | 8.3 |
+| gbr | 1,012 | 16 | 1.58% | 9.2 |
+| can | 781 | 12 | 1.54% | 8.6 |
+| aus | 580 | 10 | 1.72% | 8.2 |
+| deu | 450 | 10 | 2.22% | 7.5 |
+| nld | 249 | 10 | 4.02% | 7.2 |
+| cze | 98 | 7 | 7.14% | 7.3 |
+| swe | 213 | 7 | 3.29% | 7.4 |
+| pol | 268 | 6 | 2.24% | 8.0 |
+| tha | 227 | 6 | 2.64% | 9.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-_no significant gaps detected — all queries with traction have decent CTR_
+| Query | Impr | CTR | Pos | Action |
+| --- | --- | --- | --- | --- |
+| matt halpern | 8,032 | 0.01% | 10.9 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

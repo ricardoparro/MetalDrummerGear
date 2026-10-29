@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-28 08:16 UTC · Window: last 12h*
+*Generated 2026-10-29 08:16 UTC · Window: last 12h*
 
 ---
 
@@ -9,26 +9,26 @@
 | Metric | Value |
 | --- | --- |
 | Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 9 |
+| Open `seo-proposal` issues | 11 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
 | Open PRs | 0 |
-| PRs merged in window | **9** |
-| Issues closed in window | 9 |
-| Commits to `main` in window | 13 |
+| PRs merged in window | **12** |
+| Issues closed in window | 13 |
+| Commits to `main` in window | 16 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **395** |
-| Sessions | 441 |
-| Page views | 648 |
-| Engagement rate | 59.86% |
-| GSC impressions | 17,039 |
-| GSC clicks | 178 |
-| GSC CTR | 1.04% |
-| GSC avg position | 9.1 |
+| Active users | **413** |
+| Sessions | 464 |
+| Page views | 685 |
+| Engagement rate | 59.91% |
+| GSC impressions | 19,496 |
+| GSC clicks | 241 |
+| GSC CTR | 1.24% |
+| GSC avg position | 9.2 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~2,777 |
-| Est. ad revenue / mo | **~€8.33** |
-| Progress to €1000/mo | 0.8% |
-| Pageviews/mo needed for €1000 | ~333,333 (120× current) |
+| Est. pageviews / mo | ~2,936 |
+| Est. ad revenue / mo | **~€8.81** |
+| Progress to €1000/mo | 0.9% |
+| Pageviews/mo needed for €1000 | ~333,333 (114× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -65,59 +65,62 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Mikkey Dee — 63º aniversário | 3d | _awaiting scanner run_ |
-| Chris Adler — 54º aniversário | 26d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 30d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 59d | _awaiting scanner run_ |
+| Mikkey Dee — 63º aniversário | 2d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 25d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 29d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 58d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 27 | 27 | 0 |
-| Verify YouTube Videos | 15 | 8 | 7 |
-| Check Sitemap Drift | 14 | 7 | 7 |
-| Verify Data Modules | 14 | 7 | 7 |
+| PR Merger | 30 | 29 | 1 |
+| Verify YouTube Videos | 13 | 7 | 6 |
+| Verify Data Modules | 13 | 6 | 7 |
+| Check Sitemap Drift | 12 | 6 | 6 |
+| .github/workflows/check-vercel-rewrites.yml | 9 | 0 | 9 |
 | Check llms freshness | 8 | 0 | 8 |
-| .github/workflows/check-vercel-rewrites.yml | 7 | 0 | 7 |
-| Perf Budget Gate | 7 | 0 | 7 |
+| Perf Budget Gate | 6 | 0 | 6 |
+| Health Check | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
 | Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
 | SEO Agent | 1 | 1 | 0 |
 | Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
 | CEO Agent | 1 | 1 | 0 |
 | Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-10-29 06:17 (cheap pulse — 5/7 proposals promoted #9890-9893/#9895, 2 closed as already-resolved)
+- 2026-10-29 00:22 (cheap pulse — 6/6 proposals verified+promoted #9877-9882, 3 with scope-expansion notes)
 - 2026-10-28 00:22 (cheap pulse — 5/5 proposals verified+promoted #9837/#9839-9842)
-- 2026-10-27 00:30 (cheap pulse — 7/7 proposals verified+promoted #9783-9789, +1 companion ai-fix filed #9791)
-- 2026-10-27 06:19 — cheap pulse (pre-deep-run), 7/7 proposals verified+promoted #9792-9798
-- 2026-10-27 12:19 — daily deep run, 8/8 proposals verified+promoted #9808-9815
-- 2026-10-27 18:10 — cheap pulse (mid/late-day), 4/4 proposals verified+promoted #9824-9827
 - 2026-10-28 06:16 — cheap pulse (pre-deep-run), 4/4 proposals verified+promoted #9846-9849
+- 2026-10-28 12:12 — daily deep run, 5/5 proposals verified+promoted #9856-9860
+- 2026-10-28 18:11 — mid-day pulse, 6/6 proposals verified+promoted #9865-9870
 
-## 📦 Shipped to main (9)
+## 📦 Shipped to main (12)
 
-- #9864 fix: #9849 SEO: Matt Halpern gear fabricated in public/llms/vs/chris-adler-vs-matt-halpern.md mirror — source drummerComparisons.js is already correct
-- #9863 fix: #9848 SEO: Hellhammer snare fabricated as 'Ludwig Acrolite' in hellhammer-vs-bill-ward entry — verified Sonor Steel Snare 14x5.5
-- #9862 fix: #9846 SEO: Eloy Casagrande age-at-album-release off-by-one — Machine Messiah '24' should be '25', The Mediator '21' should be '22'
-- #9861 fix: #9847 SEO: Mike Portnoy Dream Theater tenure says '20 years' in mike-portnoy-vs-mike-mangini entry, sibling entries correctly say '25 years'
-- #9855 fix: #9842 SEO: Gene Hoglan Testament tenure fabricated as 'primary drummer since 2007' (verified: 1996-1997 and 2011-2022, Bostaph held 2007-2011)
-- #9853 fix: #9839 SEO batch: Eloy Casagrande age-at-Sepultura-join wrong site-wide — '19' should be '20' (verified: born Aug 25 1991 + joined Nov 2011)
-- #9852 fix: #9841 SEO: Gene Hoglan Dark Angel tenure fabricated as '1984-present' across 3 drummerComparisons.js entries (verified: ended 1991)
-- #9851 fix: #9840 SEO: Dave Lombardo gear fabricated as Pearl drums in joey-jordison-vs-dave-lombardo entry (verified: Tama)
-- #9850 fix: #9837 SEO: Eloy Casagrande birthdate self-contradicts within extendedBios.js — Jan 29 Santo André vs Aug 25 São Paulo (9+ file consensus)
+- #9914 fix: #9895 SEO: Raymond Herrera's Fear Factory departure still fabricated as 2009 at drummerComparisons.js:2876 + mirror — #9109 fixed 2 other files, verified 2006
+- #9913 fix: #9893 SEO: Martin Lopez llms evolution mirror still has a fabricated 'Amon Amarth' era block + wrong birth date — removed from source by #8005, mirror never regenerated
+- #9912 fix: #9892 SEO: Daray stale llms mirror public/llms/comparisons/frost-vs-daray.md fabricates Vader tenure, birth date, and gear — distinct file from #9505's scope
+- #9911 fix: #9891 SEO batch: Blake Richardson's BTBAM album 'Colors II' misdated 2023 across 4 drummerComparisons.js locations + 2 mirrors — verified 2021
+- #9910 fix: #9890 SEO: Mike Mangini pedal fabricated as 'Pearl Demon Drive' at drummerComparisons.js:3861 — #8932 fixed 8 other lines but missed this one
+- #9901 fix: #9881 SEO: Isaac Lamb fabricated 'featured on Lamb of God's Another Nail for Your Coffin' collaboration
+- #9902 fix: #9882 SEO: Inferno (Behemoth) drums fabricated as 'Pearl Masterworks' in public/llms/battles/inferno-vs-hellhammer.md — mirror never regenerated after #8987
+- #9900 fix: #9880 SEO: Martin Axenrot wrongly framed as currently holding Opeth's drum chair in 3 drummerComparisons.js entries — left Nov 2021
+- #9899 fix: #9879 SEO: Art Cruz stale llms mirror art-cruz-vs-jay-weinberg.md still has pre-#9144 Winds of Plague/Prong years
+- #9898 fix: #9877 SEO: Alex Bent Trivium tenure self-contradicts as 'eight years' vs verified 'nine years' in drummerComparisons.js (5 locations, 2 entries)
+- #9897 fix: #9877 SEO: Alex Bent Trivium tenure self-contradicts as 'eight years' vs verified 'nine years' in drummerComparisons.js (5 locations, 2 entries)
+- #9896 fix: #9878 SEO: Jason Bittner Shadows Fall tenure residual '1999 to 2015' survives at drummerComparisons.js:3278 — verified 2001-2015
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2161h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2257h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2434h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3519h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5949h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2185h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2281h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2458h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3543h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5973h)_
 
 ---
 

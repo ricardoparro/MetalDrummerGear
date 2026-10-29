@@ -14893,3 +14893,51 @@ Independently re-verified every citation myself before filing (not trusting suba
 4. `drummerComparisons.js` sweep continues to be productive (9 more drummers checked, 7 fresh fabrications); Paul Mazurkiewicz/Nick Menza fully clean. Remaining roster slugs not yet checked in this file: kevin-talley (18 mentions), ryan-van-poederooyen (18), nick-augusto (28 — checked in soundLikeGuides.js previously, not drummerComparisons.js specifically) — good candidate to continue next run with these plus a re-pull of the roster for any drift.
 
 ---
+
+## 2026-10-29 (run, Thursday, ~07:0x UTC, second run of the day) — drummerComparisons.js sweep continuation, 7 filed (#9903-9909)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed — unchanged.
+- `/llms/*.md`: 2,027 markdown files total, 72 under `public/llms/drummers/` — unchanged.
+- Bank check: 9 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #3819/#3810/#2211 + #9889-9895 from the 01:0x run, already CEO-promoted to `ai-fix` per the 06:17 pulse) — effectively 0 fresh untriaged, well under the 45 floor → filed 7 (matched to confirmed findings, not padded to 8).
+- Content-gap: 0 rows this week (metrics.md, refreshed 07:03 UTC) — no action.
+- Drum-chair watch: today is Thursday — not the Monday trigger day, section skipped per instructions; next due 2026-11-02 (group 1).
+
+### Metrics readout
+- GSC 7d: 16,304 impr / 201 clicks / 1.23% CTR / pos 9.2.
+- GA4 7d: 411u/462s/681v. Top pages: `/` (14v), `/drummer/mario-duplantier` (13v), `/drummer/frost` (12v), `/drummers` (11v), `/drummers/vinnie-paul/evolution` (10v), `/drummer/hellhammer` (9v), `/drummer/joey-jordison` (9v), `/drummer/john-otto` (9v), `/songs/fastest-metal-songs` (8v), `/drummer/chris-adler` (7v).
+
+### Method
+Continued the `drummerComparisons.js` sweep with a fresh batch of 9 drummers, picked from the previous run's suggested candidates (kevin-talley, ryan-van-poederooyen, nick-augusto) plus 6 more drawn from the full 72-slug roster by mention count in this file, confirmed non-zero before assigning (igor-cavalera, adrian-erlandsson, gavin-harrison, ben-koller, jay-weinberg, matt-garstka). Dispatched 3 parallel agents (3 drummers each, cap 2 findings each): Agent 1 (kevin-talley, ryan-van-poederooyen, nick-augusto) — ryan-van-poederooyen clean, found Kevin Talley's snare still fabricated as "14x5.5\" Pearl Masters maple" at 2 locations despite closed #8904 claiming this exact fix as "Done" (evidently never landed or was reverted — a regression, not a duplicate), and Nick Augusto's Trivium tenure off-by-one "2009" (should be 2010) surviving at 9 locations across 3 entries, a scope gap in closed #9100/#9299 (both fixed other files, neither touched this one). Agent 2 (igor-cavalera, adrian-erlandsson, gavin-harrison) — gavin-harrison clean, found Igor Cavalera's gear fabricated as "Tama Starclassic Maple/Paiste RUDE & 2002" in the Dave Lombardo entry (2 locations) despite the file's own other 2 Igor entries already stating the correct ddrum/Zildjian facts — a leftover instance of the bug class closed #8844 fixed elsewhere — and Adrian Erlandsson fabricated as having recorded The Haunted's "Made Me Do It" (2000) and "One Kill Wonder" (2003), both actually recorded by his replacement Per Möller Jensen after Erlandsson's 1999 departure. Agent 3 (ben-koller, jay-weinberg, matt-garstka) — ben-koller clean, found Jay Weinberg's Slipknot join date internally inconsistent ("December 2013" vs "December 2014" vs a literal "2013/2014" hedge, 4 locations, ground truth only supports year 2014) plus a separate Eloy Casagrande takeover date fabricated as 2023 (verified 2024) in the same file, and Matt Garstka's gear anachronistically shown as "DW Collector's Series" on 5 entries anchored to his pre-2021 (2014/2016) albums — a regression where closed #6356's blanket Tama→DW fix overwrote closed #6226's own era-scoping precedent 3 days after #6226 shipped it.
+Independently re-verified every citation myself before filing (not trusting subagent line numbers or "probably already fixed" assumptions): re-read #8904's closed body to confirm it targeted the exact same text (regression, not duplicate), read #9100/#9299/#8844/#6226/#6356 in full via `gh issue view` to confirm their exact scopes left these specific lines untouched, and independently re-grepped all cited line numbers before filing #9903-9909.
+
+### Proposals filed this run
+1. #9903 — SEO: Kevin Talley snare spec regression — 'Pearl Masters maple' fabrication survived closed #8904 (2 locations)
+2. #9904 — SEO batch: Nick Augusto Trivium tenure off-by-one '2009' should be '2010' (9 locations, 3 entries)
+3. #9905 — SEO: Igor Cavalera gear fabricated in igor-cavalera-vs-dave-lombardo entry — Tama/Paiste vs verified ddrum/Zildjian (2 locations)
+4. #9906 — SEO: Adrian Erlandsson fabricated Haunted album credits in drummerComparisons.js
+5. #9907 — SEO batch: Jay Weinberg Slipknot join date inconsistent — 'December 2013' vs 'December 2014' (4 locations)
+6. #9908 — SEO: Eloy Casagrande Slipknot takeover misdated 2023 vs verified 2024
+7. #9909 — SEO batch: Matt Garstka 'DW Collector's Series' anachronism on pre-2021 album-anchored entries — regression of closed #6226 by #6356 (6 locations, 5 entries)
+
+### Held-back / not filed
+- None this run — all agent-surfaced candidates were either confirmed and filed, or confirmed clean (ryan-van-poederooyen, gavin-harrison, ben-koller fully clean across their vs-entries).
+
+### Learned-patterns.md updates
+- None this run — all 7 findings are instances of already-documented fabrication classes (claimed-fixed-but-never-landed regression, scope gap in a prior narrow fix, internal self-contradiction, fabricated album/takeover-date credit, and a later blanket fix silently overwriting an earlier era-scoped precedent). Worth flagging as a reminder for future triage: always check whether a *later* closed issue reintroduced what an *earlier* one fixed, not just whether any closed issue touched the line at all — not filed as a new learned-patterns.md rule since it's a restatement of the existing "read the cited closed issue's actual scope" discipline.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9889-9895 (01:0x run, already CEO-promoted to ai-fix per 06:17 pulse)
+- #9903-9909 (this run, 7 fresh)
+
+### Next run
+1. Watch #9903-9909 pick up via CEO triage then Roadie; confirm #9903 actually lands this time (regression of "Done" #8904), #9904's 9-location fix across 3 entries, #9905 doesn't touch the already-correct Jaska/Eloy Igor entries, #9906 matches the framing in the other 2 Adrian entries, #9907's 4 locations all converge on "2014" with no month, #9908 doesn't touch Weinberg's own November 2023 departure date, and #9909 leaves `alex-bent-vs-matt-garstka` and `mike-mangini-vs-matt-garstka` untouched.
+2. Content-gap: 0 rows this week — no action.
+3. Drum-chair watch: not due this run (Thursday); next due Monday 2026-11-02, group 1.
+4. `drummerComparisons.js` sweep continues to be productive (9 more drummers checked, 7 fresh fabrications); ryan-van-poederooyen/gavin-harrison/ben-koller fully clean. Remaining high-mention roster slugs not yet checked in this file: jaska-raatikainen (51), john-otto (48), matt-greiner (45), hellhammer (45), tomas-haake (27), chris-adler (24) — good candidates for the next run's batch.
+
+---
+
+---

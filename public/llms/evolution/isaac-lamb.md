@@ -67,7 +67,7 @@ Kublai Khan TX signed to Artery Recordings and released their debut full-length 
 **Albums:** Kublai Khan TX: Nomad (2017), Kublai Khan TX: Absolute (2019), Kublai Khan TX: Lowest Form of Animal EP (2022), Kublai Khan TX: Exhibition of Prowess (2024)
 **Tours:** North American Tour (2024–2025)
 
-Kublai Khan TX signed to Rise Records and released "Nomad" (2017) and "Absolute" (2019), then the "Lowest Form of Animal" EP (2022) featuring Terror's Scott Vogel, and 2024's "Exhibition of Prowess," their most ambitious release to date — the same year the band appeared on Lamb of God's "Another Nail for Your Coffin." No kit, snare, cymbal, hardware, or stick brand is publicly documented for this era.
+Kublai Khan TX signed to Rise Records and released "Nomad" (2017) and "Absolute" (2019), then the "Lowest Form of Animal" EP (2022) featuring Terror's Scott Vogel, and 2024's "Exhibition of Prowess," their most ambitious release to date. No kit, snare, cymbal, hardware, or stick brand is publicly documented for this era.
 
 - **Drums:** Not publicly documented
 - **Snare:** Not publicly documented
@@ -80,7 +80,7 @@ Kublai Khan TX signed to Rise Records and released "Nomad" (2017) and "Absolute"
 **Key developments:**
 - Signed to Rise Records, releasing Nomad (2017) and Absolute (2019)
 - Released Lowest Form of Animal EP (2022) featuring Terror's Scott Vogel
-- Released Exhibition of Prowess (2024), the band's most ambitious release, and appeared on Lamb of God's Another Nail for Your Coffin
+- Released Exhibition of Prowess (2024), the band's most ambitious release
 - No gear endorsement documented for this era
 
 ---

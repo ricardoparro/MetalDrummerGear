@@ -8201,7 +8201,6 @@ Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Int
           { year: '2019', event: 'Released "Absolute," solidifying their position in the heavy music scene' },
           { year: '2022', event: 'Released "Lowest Form of Animal" EP featuring Scott Vogel of Terror on "Swan Song"' },
           { year: '2024', event: 'Released "Exhibition of Prowess," their most ambitious album to date' },
-          { year: '2024', event: 'Featured on Lamb of God\'s "Another Nail for Your Coffin" with Malevolence' },
           { year: '2025', event: 'Released "The Mountain of Corsicana" single; continued extensive touring' }
         ]
       },
@@ -8269,7 +8268,6 @@ Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Int
           'Band uses heavily downtuned 7-string guitars (sometimes drop G#) requiring powerful drumming to match',
           'Sherman, Texas (band\'s hometown) is about 60 miles north of Dallas',
           'Featured collaboration with Terror\'s Scott Vogel on "Swan Song" (2022)',
-          'Band appeared on Lamb of God\'s "Another Nail for Your Coffin" in 2024',
           'Kublai Khan TX has become one of the most influential bands in modern beatdown hardcore'
         ]
       },

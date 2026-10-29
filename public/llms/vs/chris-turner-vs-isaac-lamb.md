@@ -38,7 +38,7 @@ Chris Turner plays a Tama Starclassic Maple/Birch kit with Meinl Byzance cymbals
 
 ## Influence & Legacy
 
-Turner has become a reference point for technical modern metalcore drumming through Oceans Ate Alaska's genre-blending catalog and his millions of views across viral playthrough videos, citing influences like Tomas Haake, Matt Greiner, and Matt Halpern. Lamb has helped establish beatdown hardcore as one of modern metal's most respected offshoots, playing every Kublai Khan TX show since 2009 without a substitute and appearing on Lamb of God's "Another Nail for Your Coffin" alongside Malevolence in 2024.
+Turner has become a reference point for technical modern metalcore drumming through Oceans Ate Alaska's genre-blending catalog and his millions of views across viral playthrough videos, citing influences like Tomas Haake, Matt Greiner, and Matt Halpern. Lamb has helped establish beatdown hardcore as one of modern metal's most respected offshoots, playing every Kublai Khan TX show since 2009 without a substitute.
 
 ## Verdict
 
@@ -67,4 +67,4 @@ A: Chris Turner's technical drumming videos, showcasing extreme-speed double bas
 
 ---
 
-*Last updated: 2026-10-26 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*

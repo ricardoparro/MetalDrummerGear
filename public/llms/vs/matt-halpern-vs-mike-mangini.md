@@ -26,7 +26,7 @@ Periphery's Matt Halpern vs Dream Theater's Mike Mangini. Djent's polyrhythmic g
 
 ## Playing Style
 
-Matt Halpern has drummed for Periphery since the band's formation, becoming one of the key architects of the djent movement through polyrhythmic complexity, electronic elements, and modern production techniques across albums like "Periphery II," "Juggernaut," and "Hail Stan." Mike Mangini joined Dream Theater in 2010 after a highly publicized audition process, bringing a scientific, world-record-holding approach to progressive metal following stints with Steve Vai, Extreme, and Annihilator, and years as a Berklee College of Music professor.
+Matt Halpern has drummed for Periphery since joining in 2009, succeeding founding-era drummers Jason S. Berlin and Travis Orbin, and became one of the key architects of the djent movement through polyrhythmic complexity, electronic elements, and modern production techniques across albums like "Periphery II," "Juggernaut," and "Hail Stan." Mike Mangini joined Dream Theater in 2010 after a highly publicized audition process, bringing a scientific, world-record-holding approach to progressive metal following stints with Steve Vai, Extreme, and Annihilator, and years as a Berklee College of Music professor.
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Matt Halpern combines groove-focused polyrhythms and ghost notes that anchor 
 A: Matt Halpern plays a Pearl Reference Series kit with his own Pearl Matt Halpern Signature brass snare and Meinl Byzance Series cymbals. Mike Mangini plays the same Pearl Reference Series kit, but with Sabian HHX & AAX Series cymbals, a Pearl Eliminator Redline double pedal, and a Roland SPD-SX sampling pad instead.
 
 **Q: What bands are Matt Halpern and Mike Mangini known for?**
-A: Matt Halpern has drummed for Periphery since the band's formation, helping define the djent movement across albums like "Periphery II" and "Hail Stan." Mike Mangini has drummed for Dream Theater since 2010, following earlier work with Steve Vai, Extreme, and Annihilator.
+A: Matt Halpern has drummed for Periphery since 2009, helping define the djent movement across albums like "Periphery II" and "Hail Stan." Mike Mangini has drummed for Dream Theater since 2010, following earlier work with Steve Vai, Extreme, and Annihilator.
 
 **Q: Who is more influential as a drum educator, Matt Halpern or Mike Mangini?**
 A: Both are highly regarded drum educators. Matt Halpern built one of the most engaged drum education communities on YouTube, teaching modern djent and polyrhythmic concepts. Mike Mangini taught as a professor at Berklee College of Music before joining Dream Theater, bringing an academic, biomechanically rigorous approach to drum education.
@@ -67,4 +67,4 @@ A: Both are highly regarded drum educators. Matt Halpern built one of the most e
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

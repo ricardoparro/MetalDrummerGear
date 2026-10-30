@@ -76,7 +76,7 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 | [Chris Adler](https://metalforge.io/pedals/setups/chris-adler) | Lamb of God | Trick Pro 1-V | [Markdown](https://metalforge.io/llms/pedals/setups/chris-adler.md) |
 | [Chris Turner](https://metalforge.io/pedals/setups/chris-turner) | Oceans Ate Alaska | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/chris-turner.md) |
 | [Daniel Erlandsson](https://metalforge.io/pedals/setups/daniel-erlandsson) | Arch Enemy | Pearl Eliminator Double Bass Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/daniel-erlandsson.md) |
-| [Daray](https://metalforge.io/pedals/setups/daray) | Dimmu Borgir / Vader | Pearl Demon XR | [Markdown](https://metalforge.io/llms/pedals/setups/daray.md) |
+| [Daray](https://metalforge.io/pedals/setups/daray) | Dimmu Borgir / Vader | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/daray.md) |
 | [Derek Roddy](https://metalforge.io/pedals/setups/derek-roddy) | Hate Eternal / Nile | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/derek-roddy.md) |
 | [Dirk Verbeuren](https://metalforge.io/pedals/setups/dirk-verbeuren) | Megadeth | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/dirk-verbeuren.md) |
 | [Eloy Casagrande](https://metalforge.io/pedals/setups/eloy-casagrande) | Slipknot | Tama Iron Cobra | [Markdown](https://metalforge.io/llms/pedals/setups/eloy-casagrande.md) |
@@ -116,7 +116,7 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 | [Ryan Van Poederooyen](https://metalforge.io/pedals/setups/ryan-van-poederooyen) | Devin Townsend Project | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/ryan-van-poederooyen.md) |
 | [Scott Travis](https://metalforge.io/pedals/setups/scott-travis) | Judas Priest | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/scott-travis.md) |
 | [Sean Reinert](https://metalforge.io/pedals/setups/sean-reinert) | Death / Cynic | DW 9000 Double Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/sean-reinert.md) |
-| [Shannon Larkin](https://metalforge.io/pedals/setups/shannon-larkin) | Godsmack / Ugly Kid Joe / Amen | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/shannon-larkin.md) |
+| [Shannon Larkin](https://metalforge.io/pedals/setups/shannon-larkin) | Godsmack / Ugly Kid Joe / Wrathchild America | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/shannon-larkin.md) |
 | [Tim Yeung](https://metalforge.io/pedals/setups/tim-yeung) | Morbid Angel / Hate Eternal / Vital Remains | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/tim-yeung.md) |
 | [Tomas Haake](https://metalforge.io/pedals/setups/tomas-haake) | Meshuggah | Tama Speed Cobra | [Markdown](https://metalforge.io/llms/pedals/setups/tomas-haake.md) |
 | [Travis Orbin](https://metalforge.io/pedals/setups/travis-orbin) | Darkest Hour / ex-Periphery | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/travis-orbin.md) |
@@ -127,4 +127,4 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 - [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-10-15 · 55 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · 55 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*

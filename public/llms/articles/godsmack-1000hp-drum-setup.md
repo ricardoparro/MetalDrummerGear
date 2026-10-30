@@ -14,7 +14,7 @@
 
 Released on August 5, 2014, on Republic Records, *1000hp* is Godsmack's sixth studio album — and by almost any measure, its heaviest. Produced by Rob Cavallo (Green Day, My Chemical Romance, Dave Matthews Band), the album debuted at #3 on the Billboard 200 and announced a band willing to push harder and louder than the polished hard rock of *The Oracle* (2010). The title track, "1000hp," stands as one of the most aggressive compositions in Godsmack's catalog, with Shannon Larkin's drumming at the center of its relentless, pounding energy.
 
-For the *1000hp* sessions, Shannon Larkin's kit stayed the same: the ddrum Dios Series drums that had anchored his playing since *Faceless* (2003) remained his platform through *IV* (2006), *The Oracle* (2010), and now *1000hp*. The Dios Series' durable, punchy shell construction delivered the defined attack suited to the heaviest Godsmack material to that point. His Sabian cymbal configuration continued the same AAX Series voice he has played throughout his Godsmack tenure, while the DW 9000 remained his double pedal of choice.
+For the *1000hp* sessions, Shannon Larkin's kit stayed the same: the ddrum Dios Series drums that had anchored his playing since *Faceless* (2003) remained his platform through *IV* (2006), *The Oracle* (2010), and now *1000hp*. The Dios Series' durable, punchy shell construction delivered the defined attack suited to the heaviest Godsmack material to that point. His Sabian AAX cymbal configuration, unchanged since *Faceless*, continued as his cymbal voice, while the DW 9000 remained his double pedal of choice.
 
 The Rob Cavallo production context matters for understanding the drum sound on *1000hp*. Cavallo's discography spans Green Day's *American Idiot* (2004) — a production known for its powerful, room-filling drum sound — to heavier hard rock contexts, and his approach to *1000hp* emphasized drum presence and attack. The ddrum Dios Series' punchy shell construction sat directly in that production philosophy: defined, powerful, and able to carry the heaviest tracks Godsmack had written.
 
@@ -47,15 +47,15 @@ Maple shell construction is the right choice for *1000hp*'s sonic environment. T
 
 Larkin tuned the snare at medium-high tension, prioritizing the cutting attack his hard rock playing demands. The maple shell's construction provides a snare that rewards aggressive playing without bottoming out or losing character under hard stick strikes. Evans G2 Coated batter heads provided the controlled two-ply response his backbeat style requires.
 
-### Sabian AAX: Consistent Voice for a Heavier Record
+### Sabian AAX: Continued Bright Power for a Heavier Record
 
-Shannon Larkin's Sabian configuration on *1000hp* continued the same AAX Series voice he had played since *Faceless* (2003), now deployed against the heaviest Godsmack material to date. The AAX line's bright, machine-hammered character — consistent across every piece in Larkin's setup — remained the right tonal palette for cutting through the album's dense, heavy production environment.
+Shannon Larkin's Sabian configuration on *1000hp* continued the same AAX setup he had played across the *IV* (2006) and *The Oracle* (2010) sessions, now deployed against the heaviest Godsmack material to date. The bright, machine-hammered character of the AAX line remained the right tonal palette for the album's dense, heavy production environment.
 
-The AAX 14" Stage Hi-Hats anchor Larkin's groove throughout *1000hp* with the same bright, fast-responding closed sound and open wash that have defined his sound across every Godsmack album. In an album where the guitar tone is deliberately heavy and dense, the AAX hi-hat's projection allows it to occupy its own sonic space without competing with or disappearing into the guitar frequencies. The 18" and 19" AAX X-Plosion Crashes — fast-responding with bright overtones — provide the accent voice for *1000hp*'s explosive section transitions, including the title track's most aggressive passages.
+The Sabian AAX 14" Stage Hi-Hats anchor Larkin's groove throughout *1000hp* with the same bright, cutting closed sound that has defined his setup since *Faceless*. In an album where the guitar tone is deliberately heavy and dense, the AAX hi-hat's projecting consistency allows it to occupy its own sonic space without disappearing into the guitar frequencies. The AAX X-Plosion Crashes — fast-responding with explosive attack — provide the accent voice for *1000hp*'s explosive section transitions, including the title track's most aggressive passages.
 
-The 21" AAX Raw Bell Dry Ride is, as across Larkin's entire Godsmack tenure, the cymbal voice most associated with his playing. Its dry, contained body wash and sharply defined bell deliver the precise time-keeping the album's groove-driven passages demand, while its understated character suits Rob Cavallo's production approach — a producer who builds drum tracks as rhythmic foundations rather than sonic spectacles. The 18" AAX Chinese punctuates the album's most aggressive fills and transitions with the upward-projecting trash accent that has been a constant of Larkin's hard rock toolkit.
+The AAX 21" Stage Ride is, as across Larkin's entire Godsmack work, the cymbal voice most associated with his playing. Its bright, projecting body and sharply defined bell deliver the precise time-keeping the album's groove-driven passages demand, suiting Rob Cavallo's production approach — a producer who builds drum tracks as rhythmic foundations rather than sonic spectacles. The AAX 18" Chinese punctuates the album's most aggressive fills and transitions with the upward-projecting trash accent that has been a constant of Larkin's hard rock toolkit.
 
-The Sabian configuration on *1000hp* demonstrates the stability of Larkin's cymbal philosophy: the AAX Series he arrived with on *Faceless* is the same series he played on *1000hp*, with no change in cymbal line across any album. By 2014, the setup had been through the *IV* sessions, the *Oracle* home-studio environment, and multiple touring cycles — it was deeply dialed in and served the music precisely as designed.
+The Sabian configuration on *1000hp* demonstrates the stability of Larkin's cymbal philosophy: the same AAX voice he arrived at on *Faceless* has been refined and maintained across every album rather than replaced. By 2014, the setup had been through the *IV* sessions, the *Oracle* home-studio environment, and multiple touring cycles — it was deeply dialed in and served the music precisely as designed.
 
 ## The Heaviest Chapter: 1000hp and the ddrum Dios Series
 
@@ -63,7 +63,7 @@ The Sabian configuration on *1000hp* demonstrates the stability of Larkin's cymb
 
 The consistency of Larkin's ddrum Dios Series kit reflects the logic of a drummer who had spent twelve years building and refining his professional rig around a durable, road-tested foundation rather than chasing new equipment. The attack-forward character of the Dios shells served Rob Cavallo's production philosophy for the album precisely, and the result is a drum sound that is more defined and punishing than anything Larkin recorded on earlier Godsmack albums.
 
-The Sabian AAX configuration — bright, machine-hammered, consistent — provided the cymbal voice that had been Larkin's signature since *Faceless*. By 2014, this wasn't a new or settled-into choice; it was who Shannon Larkin had always sounded like, and Cavallo's production captured it with authority.
+The Sabian AAX configuration — bright, machine-hammered, settled — provided the cymbal voice that had been Larkin's signature since *Faceless*. By 2014, this was a deeply dialed-in choice; it was who Shannon Larkin sounded like, and Cavallo's production captured it with authority.
 
 For drummers studying *1000hp*:
 - Begin with "1000hp" itself — the title track's relentless groove is the most direct statement of Larkin's approach on this record
@@ -87,7 +87,7 @@ For the complete Shannon Larkin/Godsmack gear arc:
 - Produced by Rob Cavallo (Green Day, My Chemical Romance) — his first Godsmack production
 - Title track '1000hp' is one of the heaviest and most aggressive songs in the Godsmack catalog
 - ddrum Dios 14"x6.5" maple snare — Larkin's consistent snare choice
-- Sabian AAX Series cymbal configuration — unchanged since Faceless
+- Sabian AAX cymbal configuration unchanged since Faceless
 - DW 9000 double bass pedal — consistent with both Oracle and When Legends Rise eras
 - ddrum Dios Series — unchanged from Larkin's Faceless-era kit
 - Punchy, defined, attack-forward character suited to 1000hp's heavier material
@@ -105,7 +105,7 @@ A: On Godsmack's *1000hp* (2014), Shannon Larkin used a ddrum Dios Series kit �
 
 **Q: What cymbals does Shannon Larkin use on 1000hp?**
 
-A: On *1000hp* (2014), Shannon Larkin continued his established Sabian AAX Series cymbal configuration: AAX 14" Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 18" AAX Chinese, and a 10" AAX Splash. This AAX setup has been Larkin's only Sabian voice since joining Godsmack for *Faceless* (2003) — by 2014 it was simply his established signature cymbal voice across the Godsmack catalog, unchanged. See the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for his current cymbal setup.
+A: On *1000hp* (2014), Shannon Larkin continued his established Sabian AAX cymbal configuration: Sabian AAX 14" Stage Hi-Hats, AAX 17" and 19" X-Plosion Crashes, AAX 21" Stage Ride, AAX 18" Chinese, and an AAX 10" Splash. This bright, machine-hammered AAX setup has been Larkin's Sabian voice since *Faceless* (2003) — by 2014 it was fully settled as his signature cymbal voice across the Godsmack catalog. See the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for his current cymbal setup.
 
 **Q: Who produced Godsmack's 1000hp?**
 
@@ -136,4 +136,4 @@ A: Shannon Larkin's *1000hp* (2014) setup — ddrum Dios Series kit, Sabian AAX 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -59,7 +59,7 @@ A: Santa Cruz, California, USA, where the band formed in 2015.
 A: Yes. The band released Time Will Take Us All in 2023 and continues to tour and record.
 
 **Q: What other bands is Navene Koperweis known for?**
-A: Before Entheos, he drummed for Animals as Leaders (2012-2014) and Animosity, and has served as a session/touring drummer for Job for a Cowboy and Machine Head.
+A: Before Entheos, he drummed for Animals as Leaders (2009-2012) and Animosity, and has served as a session/touring drummer for Job for a Cowboy and Machine Head.
 
 ## Sources
 
@@ -77,4 +77,4 @@ A: Before Entheos, he drummed for Animals as Leaders (2012-2014) and Animosity, 
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

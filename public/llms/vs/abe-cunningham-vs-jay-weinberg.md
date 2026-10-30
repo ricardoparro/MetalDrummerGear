@@ -67,4 +67,4 @@ A: Abe Cunningham co-founded Deftones in 1988, left briefly in 1990, and has bee
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -34,7 +34,7 @@ Ilejay favors a straightforward, powerful attack — heavy-handed backbeats and 
 
 ## Key Differences
 
-Arin Ilejay played a DW Collector's Series kit with a DW Collector's Series snare and Zildjian A Custom cymbals (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China), powered by a DW 9000 Series double pedal and Promark 5B sticks. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride), powered by a Tama Speed Cobra 910 Double Pedal. Ilejay favors a straightforward, powerful attack — heavy-handed backbeats and direct, effective fills that prioritize serving Avenged Sevenfold's arena-rock songwriting over technical display, a deliberate contrast to the intricate, jazz-inflected patterns The Rev built his reputation on. Garstka draws on linear independence, polymetric phrasing, and ghost-note-dense double bass shaped by jazz-fusion training, giving Animals as Leaders' constantly shifting time signatures a fluid, almost improvisational precision rather than mechanical rigidity.
+Arin Ilejay played a DW Collector's Series kit with a DW Collector's Series snare and Zildjian A Custom cymbals (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China), powered by a DW 9000 Series double pedal and Promark 5B sticks. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride), powered by a Tama Speed Cobra 910 Double Pedal. Ilejay favors a straightforward, powerful attack — heavy-handed backbeats and direct, effective fills that prioritize serving Avenged Sevenfold's arena-rock songwriting over technical display, a deliberate contrast to the intricate, jazz-inflected patterns The Rev built his reputation on. Garstka draws on linear independence, polymetric phrasing, and ghost-note-dense double bass shaped by jazz-fusion training, giving Animals as Leaders' constantly shifting time signatures a fluid, almost improvisational precision rather than mechanical rigidity.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Arin Ilejay and Matt Garstka represent opposite philosophies within modern progr
 A: Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, bringing a straightforward, powerful, classic-metal-influenced style to "Hail to the King" (2013). Matt Garstka has drummed for Animals as Leaders since 2012, bringing jazz-fusion-trained polymetric phrasing and ghost-note-dense double bass to the band's djent-influenced instrumental catalog.
 
 **Q: What gear do Arin Ilejay and Matt Garstka use?**
-A: Arin Ilejay played a DW Collector's Series kit with a DW Collector's Series snare and Zildjian A Custom cymbals, powered by a DW 9000 Series double pedal. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals, powered by a Tama Speed Cobra 910 Double Pedal.
+A: Arin Ilejay played a DW Collector's Series kit with a DW Collector's Series snare and Zildjian A Custom cymbals, powered by a DW 9000 Series double pedal. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance Series cymbals, powered by a Tama Speed Cobra 910 Double Pedal.
 
 **Q: What bands are Arin Ilejay and Matt Garstka known for?**
 A: Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King," and previously played with Confide. Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, appearing on "The Joy of Motion" (2014) and "The Madness of Many" (2016).
@@ -67,4 +67,4 @@ A: Yes — Matt Garstka's playing blends jazz fusion, electronic music, and prog
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

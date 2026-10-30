@@ -41,4 +41,4 @@ A: Joey Jordison, Dave Lombardo, Charlie Benante, Inferno use the Paiste RUDE Se
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

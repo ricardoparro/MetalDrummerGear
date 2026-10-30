@@ -67,4 +67,4 @@ A: Beyond his technical death metal career, Richard Christy has worked on The Ho
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

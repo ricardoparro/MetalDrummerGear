@@ -30,7 +30,7 @@ Morgan Ågren endorses Sonor for hardware / pedals. They play the Sonor Giant St
 
 ## Endorsement History
 
-- **1988** (Cymbals): Signed with Paiste — Developing Paiste relationship in place around the time Frank Zappa personally selected the then-20-year-old Ågren for his touring band
+- **1988** (Cymbals): Signed with Paiste — Developing Paiste relationship in place around the time Frank Zappa personally selected the then-20-year-old Ågren to sit in with his band for one Stockholm concert
 - **1988** (Drumsticks): Signed with Vic Firth — Vic Firth American Classic 5A sticks, adopted alongside the developing Paiste relationship around the time Frank Zappa recruited the then-20-year-old Ågren
 - **1988** (Drumheads): Signed with Remo — Remo Ambassador Coated / Emperor Coated heads, adopted alongside the developing Paiste relationship around the time Frank Zappa recruited the then-20-year-old Ågren
 - **2012** (Drums): Signed with Sonor — Settled into the Sonor SQ2 Beech custom shell configuration around the time Devin Townsend recruited him for the Devin Townsend Project's "Epicloud" (2012)
@@ -58,4 +58,4 @@ A: See the Endorsement History section above for a full timeline of Morgan Ågre
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

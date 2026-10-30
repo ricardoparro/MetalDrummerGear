@@ -26,7 +26,7 @@ Mayhem's Hellhammer vs Limp Bizkit's John Otto. Cold, relentless second-wave bla
 
 ## Playing Style
 
-Hellhammer (born Jan Axel Blomberg, August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — while running a parallel career with Dimmu Borgir since 1999 and co-founding Arcturus. John Otto has been Limp Bizkit's drummer and founding member since 1994, blending hip-hop-influenced grooves and funk-inspired beats that helped define the rap-metal sound on hits like "Rollin'" and "Break Stuff" — a disciplined, pocket-first approach that stands in total contrast to Hellhammer's cold extremity.
+Hellhammer (born Jan Axel Blomberg, August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — having run a parallel career with Dimmu Borgir from 1999 to 2013 and co-founded Arcturus. John Otto has been Limp Bizkit's drummer and founding member since 1994, blending hip-hop-influenced grooves and funk-inspired beats that helped define the rap-metal sound on hits like "Rollin'" and "Break Stuff" — a disciplined, pocket-first approach that stands in total contrast to Hellhammer's cold extremity.
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Hellhammer (Mayhem, Dimmu Borgir) is known for cold, relentless blast beats d
 A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar Professional Series pedals.
 
 **Q: What bands are Hellhammer and John Otto known for?**
-A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside co-founding Arcturus. John Otto has been Limp Bizkit's drummer and founding member since 1994.
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside co-founding Arcturus. John Otto has been Limp Bizkit's drummer and founding member since 1994.
 
 **Q: Does Hellhammer play barefoot?**
 A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds with Mayhem and Dimmu Borgir. John Otto plays in standard footwear with Limp Bizkit.
@@ -67,4 +67,4 @@ A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedbac
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

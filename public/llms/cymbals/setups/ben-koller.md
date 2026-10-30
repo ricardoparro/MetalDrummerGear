@@ -6,19 +6,19 @@
 
 ## Direct Answer
 
-Ben Koller plays Zildjian cymbals: 14" K Dark Thin Hi-Hats, 18" K Dark Medium Thin Crash, 19" K Dark Medium Thin Crash, 21" K Custom Ride, 18" K China.
+Ben Koller plays Zildjian cymbals: 14" K Custom Thin Hi-Hats, 18" K Custom Medium Thin Crash, 19" K Custom Medium Thin Crash, 21" K Custom Ride, 18" K China.
 
 ## Cymbal Breakdown
 
 | Piece | Size | Series | Model |
 |-------|------|--------|-------|
-| Hi-hat | 14" | K Dark | Thin Hi-Hats |
-| Crash | 18" | K Dark | Medium Thin Crash |
-| Crash | 19" | K Dark | Medium Thin Crash |
+| Hi-hat | 14" | K Custom | Thin Hi-Hats |
+| Crash | 18" | K Custom | Medium Thin Crash |
+| Crash | 19" | K Custom | Medium Thin Crash |
 | Ride | 21" | K Custom | Ride |
 | China | 18" | K | China |
 
-Verified roster hardware entry: "Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -30,7 +30,7 @@ Verified roster hardware entry: "Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K 
 ## FAQ
 
 **Q: What cymbals does Ben Koller use?**
-A: Ben Koller plays Zildjian cymbals: 14" K Dark Thin Hi-Hats, 18" K Dark Medium Thin Crash, 19" K Dark Medium Thin Crash, 21" K Custom Ride, 18" K China.
+A: Ben Koller plays Zildjian cymbals: 14" K Custom Thin Hi-Hats, 18" K Custom Medium Thin Crash, 19" K Custom Medium Thin Crash, 21" K Custom Ride, 18" K China.
 
 ## More Resources
 
@@ -41,4 +41,4 @@ A: Ben Koller plays Zildjian cymbals: 14" K Dark Thin Hi-Hats, 18" K Dark Medium
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -42,4 +42,4 @@ A: MetalForge tracks all Tama series used by professional metal drummers. Visit 
 
 ---
 
-*Source: [metalforge.io/gear/tama/starclassic-performer-b-b/drummers-using](https://metalforge.io/gear/tama/starclassic-performer-b-b/drummers-using) · Last updated: 2026-10-15*
+*Source: [metalforge.io/gear/tama/starclassic-performer-b-b/drummers-using](https://metalforge.io/gear/tama/starclassic-performer-b-b/drummers-using) · Last updated: 2026-10-30*

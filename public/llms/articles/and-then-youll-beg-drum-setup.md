@@ -117,7 +117,7 @@ A: And Then You'll Beg is considered Flo Mounier's most technically demanding re
 - [What's In Flo Mounier's Extreme Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-flo-mouniers-kit)
 - [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
 - [None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark](https://metalforge.io/articles/none-so-vile-drum-setup)
-- [Whisper Supremacy Drum Setup: Flo Mounier's Pearl Masters BRX and Paiste Alpha Gear (1998)](https://metalforge.io/articles/whisper-supremacy-drum-setup)
+- [Whisper Supremacy Drum Setup: Flo Mounier's Pearl MX Series Gear (1998)](https://metalforge.io/articles/whisper-supremacy-drum-setup)
 
 ## Related Drummers
 
@@ -129,4 +129,4 @@ A: And Then You'll Beg is considered Flo Mounier's most technically demanding re
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

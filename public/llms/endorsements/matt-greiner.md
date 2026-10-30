@@ -37,7 +37,9 @@ Matt Greiner endorses DW for hardware / pedals. They play the DW 9000 Series Dou
 ## Endorsement History
 
 - **2003** (Drums): Signed with Pearl — Co-founded August Burns Red playing Pearl Export/Vision kits, with a developing Meinl cymbal endorsement
+- **2003** (Cymbals): Signed with Meinl — Developing Meinl cymbal endorsement alongside the Pearl Export/Vision kits used to co-found August Burns Red
 - **2011** (Drums): Renewed Pearl deal — Upgraded to Pearl Reference kits and solidified the Meinl Byzance cymbal setup around "Leveler" and "Found in Far Away Places"
+- **2011** (Cymbals): Renewed Meinl deal — Solidified the Meinl Byzance cymbal setup around "Leveler" and "Found in Far Away Places", alongside the upgrade to Pearl Reference kits
 - **2016** (Drums): Switched from Pearl to Mapex — Switched to Mapex Black Panther Design Lab and Paiste Formula 602 cymbals for August Burns Red's technically demanding metalcore sets
 - **2016** (Cymbals): Signed with Paiste — Signed with Paiste, pairing Formula 602 cymbals with the new Mapex kit setup
 - **2016** (Drumheads): Signed with Evans — Signed with Evans, running G2 batters and EMAD2 bass drum heads on the new Mapex kit
@@ -66,4 +68,4 @@ A: See the Endorsement History section above for a full timeline of Matt Greiner
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

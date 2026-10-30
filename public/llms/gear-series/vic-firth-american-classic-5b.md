@@ -16,7 +16,7 @@
 - **[Art Cruz](https://metalforge.io/drummer/art-cruz)** (Lamb of God) — standard configuration
 - **[Navene Koperweis](https://metalforge.io/drummer/navene-koperweis)** (Entheos / ex-Animals as Leaders) — standard configuration
 - **[Alex Bent](https://metalforge.io/drummer/alex-bent)** (ex-Trivium / Arkaik / Dragonlord) — standard configuration
-- **[Shannon Larkin](https://metalforge.io/drummer/shannon-larkin)** (Godsmack / Ugly Kid Joe / Amen) — standard configuration
+- **[Shannon Larkin](https://metalforge.io/drummer/shannon-larkin)** (Godsmack / Ugly Kid Joe / Wrathchild America) — standard configuration
 - **[Igor Cavalera](https://metalforge.io/drummer/igor-cavalera)** (Sepultura / Cavalera Conspiracy / Soulwax) — standard configuration
 - **[Ben Koller](https://metalforge.io/drummer/ben-koller)** (Converge / Mutoid Man / Killer Be Killed) — standard configuration
 - **[Ryan Van Poederooyen](https://metalforge.io/drummer/ryan-van-poederooyen)** (Devin Townsend Project) — standard configuration
@@ -54,4 +54,4 @@ A: MetalForge tracks all Vic Firth series used by professional metal drummers. V
 
 ---
 
-*Source: [metalforge.io/gear/vic-firth/american-classic-5b/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-5b/drummers-using) · Last updated: 2026-10-15*
+*Source: [metalforge.io/gear/vic-firth/american-classic-5b/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-5b/drummers-using) · Last updated: 2026-10-30*

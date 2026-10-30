@@ -34,7 +34,7 @@ Ward's technique is rooted in open, swinging jazz feel inherited from heroes Gen
 
 ## Key Differences
 
-Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China), driven by a single Ludwig Speed King pedal — no double bass, relying entirely on foot technique for Sabbath's early doom-laden grooves. Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Ward's technique is rooted in open, swinging jazz feel inherited from heroes Gene Krupa and Buddy Rich rather than technical precision — his loose grip and behind-the-beat phrasing gave early Sabbath riffs like "Iron Man" and "War Pigs" a heavy, rolling groove that no other rock drummer of the era was playing. Greiner incorporates his own jazz-influenced dynamics, creative stacked-cymbal work, and rapid-fire double bass into metalcore's heavy foundation, weaving odd time signatures seamlessly into August Burns Red's song structures rather than showcasing them as pure technical display.
+Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China), driven by a single Ludwig Speed King pedal — no double bass, relying entirely on foot technique for Sabbath's early doom-laden grooves. Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Ward's technique is rooted in open, swinging jazz feel inherited from heroes Gene Krupa and Buddy Rich rather than technical precision — his loose grip and behind-the-beat phrasing gave early Sabbath riffs like "Iron Man" and "War Pigs" a heavy, rolling groove that no other rock drummer of the era was playing. Greiner incorporates his own jazz-influenced dynamics, creative stacked-cymbal work, and rapid-fire double bass into metalcore's heavy foundation, weaving odd time signatures seamlessly into August Burns Red's song structures rather than showcasing them as pure technical display.
 
 ## Influence & Legacy
 
@@ -53,7 +53,7 @@ A: Bill Ward co-founded Black Sabbath in 1968 and helped invent heavy metal drum
 A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal.
 
 **Q: What bands are Bill Ward and Matt Greiner known for?**
-A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006. Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer.
+A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012. Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer.
 
 **Q: Has August Burns Red or Matt Greiner won a Grammy?**
 A: Matt Greiner and August Burns Red have not won a Grammy, but the band received Grammy nominations for Best Metal Performance in 2016 and 2020, recognition that reflects Greiner's jazz-informed technical reputation within metalcore.
@@ -67,4 +67,4 @@ A: Matt Greiner and August Burns Red have not won a Grammy, but the band receive
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -26,7 +26,7 @@ August Burns Red's Matt Greiner vs Mayhem's Hellhammer. Jazz-informed metalcore 
 
 ## Playing Style
 
-Matt Greiner co-founded metalcore band August Burns Red in Lancaster, Pennsylvania, in 2003, and has driven the band's Grammy-nominated catalog for over two decades with jazz-influenced dynamics and compositional ambition across records including "Found in Far Away Places" (2015) and "Guardians" (2020). Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) joined Norwegian black metal band Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994), running a parallel career with Dimmu Borgir since 1999.
+Matt Greiner co-founded metalcore band August Burns Red in Lancaster, Pennsylvania, in 2003, and has driven the band's Grammy-nominated catalog for over two decades with jazz-influenced dynamics and compositional ambition across records including "Found in Far Away Places" (2015) and "Guardians" (2020). Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) joined Norwegian black metal band Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994), having run a parallel career with Dimmu Borgir from 1999 to 2013.
 
 ## Technique
 
@@ -34,7 +34,7 @@ Greiner's technique draws on jazz-informed dynamics and meticulous compositional
 
 ## Key Differences
 
-Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting rather than raw speed for its own sake. Hellhammer's blast beats are built on cold, relentless one-foot precision that became the template for second-wave black metal drumming, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — speed in service of atmosphere and aggression rather than technical showcase.
+Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting rather than raw speed for its own sake. Hellhammer's blast beats are built on cold, relentless one-foot precision that became the template for second-wave black metal drumming, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — speed in service of atmosphere and aggression rather than technical showcase.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signatur
 A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds.
 
 **Q: What bands are Matt Greiner and Hellhammer known for?**
-A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer. Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside stints in Arcturus and Shining.
+A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer. Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside stints in Arcturus and Shining.
 
 ---
 
@@ -67,4 +67,4 @@ A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains t
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

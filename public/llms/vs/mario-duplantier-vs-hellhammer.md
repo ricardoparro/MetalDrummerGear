@@ -26,7 +26,7 @@ Gojira's Mario Duplantier vs Mayhem's Hellhammer. Organic, dual-bass-drum progre
 
 ## Playing Style
 
-Mario Duplantier co-founded Gojira with his brother Joe in 1996, building a tribal, progressive death metal style that combines crushing double bass with complex rhythmic structures across albums like "From Mars to Sirius" (2005) and "Magma" (2016). Hellhammer (born Jan Axel Blomberg, 1969) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — while running a parallel career with Dimmu Borgir since 1999.
+Mario Duplantier co-founded Gojira with his brother Joe in 1996, building a tribal, progressive death metal style that combines crushing double bass with complex rhythmic structures across albums like "From Mars to Sirius" (2005) and "Magma" (2016). Hellhammer (born Jan Axel Blomberg, 1969) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — having run a parallel career with Dimmu Borgir from 1999 to 2013.
 
 ## Technique
 
@@ -67,4 +67,4 @@ A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedbac
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

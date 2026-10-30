@@ -53,7 +53,7 @@ A: Both are benchmark technical drummers but in different disciplines. Morgan Å
 A: Morgan Ågren plays a Sonor SQ2 Beech kit with a Sonor Designer maple snare and Paiste Signature & 2002 Series cymbals. Mike Mangini plays a Pearl Reference Series kit with Pearl Reference brass snares and Sabian HHX & AAX Series cymbals, integrating a Roland SPD-SX sampling pad.
 
 **Q: What bands are Morgan Ågren and Mike Mangini known for?**
-A: Morgan Ågren co-founded the Mats/Morgan Band in 1981 and has played with Kaipa since 2002, also collaborating with Frank Zappa's family and Meshuggah's Fredrik Thordendal. Mike Mangini drummed for Dream Theater from 2010 to 2023, and previously played with Steve Vai, Extreme, and Annihilator.
+A: Morgan Ågren co-founded the Mats/Morgan Band in 1981 and played with Kaipa (2002-2005), also collaborating with Frank Zappa's family and Meshuggah's Fredrik Thordendal. Mike Mangini drummed for Dream Theater from 2010 to 2023, and previously played with Steve Vai, Extreme, and Annihilator.
 
 **Q: Does Mike Mangini still play in Dream Theater?**
 A: No — Mike Mangini drummed for Dream Theater from 2010 to 2023, when the band announced the return of founding drummer Mike Portnoy. Mangini continues to record and perform as a solo artist and clinician.
@@ -67,4 +67,4 @@ A: No — Mike Mangini drummed for Dream Theater from 2010 to 2023, when the ban
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

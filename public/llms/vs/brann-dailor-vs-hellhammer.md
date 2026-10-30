@@ -26,7 +26,7 @@ Mastodon's Brann Dailor vs Mayhem's Hellhammer. Melodic, songful progressive slu
 
 ## Playing Style
 
-Brann Dailor co-founded Mastodon in 2000 and drives the band's progressive sludge with a melodic, almost lead-instrument approach across landmark records including "Leviathan" (2004), "Crack the Skye" (2009), and "Emperor of Sand" (2017), while also serving as the band's co-vocalist on many tracks. Hellhammer (born Jan Axel Blomberg, 1969) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — while running a parallel career with Dimmu Borgir since 1999 and co-founding Arcturus, a compositional, songful sensibility that stands in sharp contrast to Hellhammer's cold, machine-like intensity.
+Brann Dailor co-founded Mastodon in 2000 and drives the band's progressive sludge with a melodic, almost lead-instrument approach across landmark records including "Leviathan" (2004), "Crack the Skye" (2009), and "Emperor of Sand" (2017), while also serving as the band's co-vocalist on many tracks. Hellhammer (born Jan Axel Blomberg, 1969) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — having run a parallel career with Dimmu Borgir from 1999 to 2013 and co-founded Arcturus, a compositional, songful sensibility that stands in sharp contrast to Hellhammer's cold, machine-like intensity.
 
 ## Technique
 
@@ -67,4 +67,4 @@ A: Hellhammer joined Mayhem in 1988 as a teenager, replacing founding drummer Ma
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

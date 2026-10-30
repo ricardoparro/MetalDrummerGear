@@ -53,7 +53,7 @@ A: Flo Mounier has been Cryptopsy's drummer since 1992, setting technical death 
 A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama S.L.P. Dry Aluminum snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal.
 
 **Q: What bands are Flo Mounier and Bill Ward known for?**
-A: Flo Mounier has been the drummer for Canadian technical death metal band Cryptopsy since 1992. Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006.
+A: Flo Mounier has been the drummer for Canadian technical death metal band Cryptopsy since 1992. Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012.
 
 ---
 
@@ -64,4 +64,4 @@ A: Flo Mounier has been the drummer for Canadian technical death metal band Cryp
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

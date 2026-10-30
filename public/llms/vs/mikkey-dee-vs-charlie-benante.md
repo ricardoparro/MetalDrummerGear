@@ -67,4 +67,4 @@ A: Yes — Charlie Benante has been open about his struggles with rheumatoid art
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Meinl Cymbals — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-meinl-cymbals)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-meinl-cymbals)
 
 ---
 
@@ -137,4 +137,4 @@ A: Derek Roddy pairs Meinl's nuanced Byzance line (hi-hats and china) with the l
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

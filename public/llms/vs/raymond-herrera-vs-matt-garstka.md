@@ -34,7 +34,7 @@ Herrera's genius was making a human drummer sound like a drum machine without ev
 
 ## Key Differences
 
-Raymond Herrera plays a Tama Starclassic kit with a Tama 14x6.5" Brass snare and Zildjian Z Custom cymbals, paired with a DW 5000 Series double pedal built for the rapid stop-go bursts his sound demands. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra 910 double pedal tuned for the ghost-note-dense, polyrhythmic patterns central to his sound. Herrera's genius was making a human drummer sound like a drum machine without ever using one — his stop-go bass drum patterns required surgical timing precision to lock with Fear Factory's sequenced guitar riffs and Dino Cazares' palm-muted chug, creating the mechanical illusion that defined industrial metal's sound. Garstka's technique draws from an entirely different well: linear independence, polymetric phrasing, and ghost-note-laced double bass that owes as much to jazz fusion drummers as to metal, allowing him to navigate Animals as Leaders' constantly shifting time signatures with fluid, almost conversational precision rather than mechanical rigidity.
+Raymond Herrera plays a Tama Starclassic kit with a Tama 14x6.5" Brass snare and Zildjian Z Custom cymbals, paired with a DW 5000 Series double pedal built for the rapid stop-go bursts his sound demands. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra 910 double pedal tuned for the ghost-note-dense, polyrhythmic patterns central to his sound. Herrera's genius was making a human drummer sound like a drum machine without ever using one — his stop-go bass drum patterns required surgical timing precision to lock with Fear Factory's sequenced guitar riffs and Dino Cazares' palm-muted chug, creating the mechanical illusion that defined industrial metal's sound. Garstka's technique draws from an entirely different well: linear independence, polymetric phrasing, and ghost-note-laced double bass that owes as much to jazz fusion drummers as to metal, allowing him to navigate Animals as Leaders' constantly shifting time signatures with fluid, almost conversational precision rather than mechanical rigidity.
 
 ## Influence & Legacy
 
@@ -53,7 +53,7 @@ A: Both are considered tech-metal touchstones, but in different ways. Raymond He
 A: Raymond Herrera's "stop-go" double bass technique alternates tight bursts of rapid bass drum hits with abrupt silences, rather than sustaining a continuous blast beat. It became a signature element of Fear Factory's mechanical, industrial metal sound across albums like "Demanufacture" (1995) and "Obsolete" (1998).
 
 **Q: What gear do Raymond Herrera and Matt Garstka use?**
-A: Raymond Herrera plays a Tama Starclassic kit with a Tama 14x6.5" Brass snare and Zildjian Z Custom cymbals. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals.
+A: Raymond Herrera plays a Tama Starclassic kit with a Tama 14x6.5" Brass snare and Zildjian Z Custom cymbals. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance Series cymbals.
 
 **Q: How does industrial metal drumming differ from djent drumming?**
 A: Industrial metal drumming, as pioneered by Raymond Herrera, emphasizes mechanical, programmed-sounding precision built around stop-go rhythmic bursts that mimic drum machines. Djent drumming, as played by Matt Garstka, emphasizes polyrhythmic complexity, odd time signatures, and fusion-informed ghost-note work layered over heavily palm-muted, syncopated riffing.
@@ -67,4 +67,4 @@ A: Industrial metal drumming, as pioneered by Raymond Herrera, emphasizes mechan
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -16,30 +16,30 @@ Released in June 2003, "The Link" is the pivotal second album that sits at the e
 
 Mario Duplantier was 22 years old when The Link was recorded. His drumming here is lean and hungry: less polished than his later studio work but bristling with the creative energy of a musician discovering his own voice. The tribal tom patterns, the dual-bass-drum interlocking grooves, and the extreme dynamic range that would define his playing on later records are all present in nascent form — you can hear the blueprint being drawn.
 
-The gear Mario used reflects this transitional moment. He had moved away from the entry-level setups of Terra Incognita and into his first serious professional configuration: a Tama Starclassic Performer kit paired with Zildjian cymbals. This was the beginning of the Tama/Zildjian relationship that would carry through the rest of Mario's recorded career — a working musician's setup chosen for power and durability as a young drummer in Bayonne, France, playing extreme metal for a cult audience.
+The gear Mario used reflects this transitional moment, though it is not well documented. He had moved away from the entry-level setups of Terra Incognita, but his first-ever documented drum brand endorsement — with Tama — was still seven years away; that deal wasn't signed until 2010, during The Way of All Flesh touring cycle. Whatever kit Mario played on The Link in 2003 was an unendorsed, working-musician's setup, not the Tama/Zildjian rig later gear retrospectives have assumed.
 
-That pragmatism shows in the recording. "The Link" has a rawer, more live-feeling sound than its successor, but it's a quality rawness — the kind that makes the performances feel urgent and unmediated. Mario's kick drums hit like a physical event. His snare cracks with authority. And the Zildjian cymbals cut through the mix with a brightness that suits the album's aggressive, death metal-adjacent approach.
+That pragmatism shows in the recording. "The Link" has a rawer, more live-feeling sound than its successor, but it's a quality rawness — the kind that makes the performances feel urgent and unmediated. Mario's kick drums hit like a physical event, and his snare cracks with authority, regardless of which unendorsed brand of gear produced those sounds.
 
-This article documents every piece of gear Mario Duplantier used on Gojira's "The Link" — the equipment behind one of progressive metal's most important transitional records.
+This article documents what can be reasonably inferred about Mario Duplantier's gear on Gojira's "The Link" — the equipment behind one of progressive metal's most important transitional records.
 
 ## Gear Breakdown
 
-- **Drums:** Tama Tama Starclassic Performer (Black Lacquer finish)
+- **Drums:** Unconfirmed — pre-endorsement era No documented endorsed kit; Mario's first-ever drum brand signing (Tama) did not happen until 2010 (Unconfirmed finish)
 - **Snare:** Tama Tama Starclassic Performer Snare, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A / ZBT
 - **Hardware / Pedals:** Tama Iron Cobra; Tama Iron Cobra Hi-Hat Stand; Vic Firth 5A American Classic
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** High-medium for attack and articulation in dense metal context
 
-### The First Professional Rig: Tama Starclassic Performer
+### The Pre-Endorsement Rig: Unconfirmed Gear
 
-For "The Link," Mario Duplantier played a Tama Starclassic Performer kit — the professional series Tama built for drummers seeking both quality and character ahead of his later move to the full Starclassic Bubinga line. The Performer's birch/bubinga hybrid shell construction gives the drums a punchy, focused attack with a natural darkness in the mid-range, well-suited to progressive death metal's dense sonic landscape.
+No definitive gear list exists for The Link sessions. Mario Duplantier's first-ever documented drum brand signing — with Tama — did not happen until 2010, seven years after this album was recorded, so whatever kit he played in 2003 was not an endorsed Tama Starclassic Performer, however confidently later retrospectives have described it.
 
-The dual bass drum configuration was already a Mario signature by this point. Two 22" x 18" kick drums — played with two independent pedals rather than a double-pedal mechanism — gave him the visual symmetry and physical impact that would become inseparable from the Gojira identity. The deep 18" shells delivered the subsonic low end that Gojira's down-tuned guitars demanded: not just loud, but felt.
+The dual bass drum configuration was already a Mario signature by this point: two 22" x 18" kick drums, played with two independent pedals rather than a double-pedal mechanism, giving him the visual symmetry and physical impact that would become inseparable from the Gojira identity. The specific brand behind those drums in 2003, however, is not documented with confidence.
 
-The four-tom setup — two rack toms and two floor toms — was the same configuration Mario would carry forward into From Mars to Sirius and beyond. Minimalist by death metal standards, it forced creativity within constraints. Rather than filling space with excess hardware, Mario used the available drums melodically, constructing tom patterns that function almost as melodic counterpoints to the guitar riffs.
+The four-tom setup — two rack toms and two floor toms — was the same configuration Mario would carry forward into From Mars to Sirius and beyond. Minimalist by death metal standards, it forced creativity within constraints, with tom patterns that function almost as melodic counterpoints to the guitar riffs.
 
-What separates The Link's drum sound from Mario's later work is the room. Recorded in Bayonne without the converted swimming pool acoustics of the From Mars sessions, the kit sounds tighter and more direct — less reverberant, more immediate. This gives The Link a different energy: more claustrophobic, more urgent.
+What separates The Link's drum sound from Mario's later work is the room. Recorded in Bayonne without the converted swimming pool acoustics of the From Mars sessions, the kit sounds tighter and more direct — less reverberant, more immediate. This gives The Link a different energy: more claustrophobic, more urgent, regardless of what brand produced it.
 
 ### Power in a Shell: The Starclassic Snare
 
@@ -84,15 +84,15 @@ Gojira's discography cluster — from [The Link](/articles/the-link-drum-setup) 
 ## Key Facts
 
 - Second Gojira album; transitional between Terra Incognita and From Mars to Sirius
-- Mario's first professional-grade setup: Tama Starclassic Performer and Zildjian cymbals
+- Pre-endorsement era: Mario's first documented drum brand deal (Tama) didn't happen until 2010
 - Recorded and self-produced in Bayonne, France
 - Establishes the tribal double-bass template Mario would refine on later records
 - Raw, live-feeling drum sound that complements the album's aggressive energy
-- Tama Starclassic Performer: Mario's first serious professional kit
+- Pre-endorsement era — Mario's first documented drum brand deal (Tama) began in 2010, not 2003
 - Dual 22" x 18" bass drums — same configuration used through entire career
-- Birch/bubinga hybrid shells for punchy attack with natural mid-range darkness
+- Shell brand and material unconfirmed for these sessions
 - Tighter, more direct room sound compared to the From Mars swimming pool sessions
-- Estimated kit value: $1,800-2,800 (2003)
+- Estimated kit value: $600-1,000 (2003) — typical mid-tier working-drummer kit pricing
 - Estimated snare value: $250-350 (2003)
 
 ## Frequently Asked Questions
@@ -125,4 +125,4 @@ A: Mario Duplantier used Zildjian A and ZBT series cymbals on Gojira's The Link 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -65,7 +65,7 @@ The 22" RUDE Power Ride is essential for songs with extended ride work. Heavier 
 
 The RUDE China cymbal provides the trashy explosions that punctuate Priest's heaviest moments. Used sparingly but effectively, it adds aggression that standard crashes can't match.
 
-Travis played this Paiste RUDE/2002 combination from Painkiller through the mid-2000s, moved to Sabian HH/AA Hybrid cymbals during the Pearl-kit era (2005-2018), then returned to Paiste RUDE/2002 alongside the ddrum Dominion Series starting with 2018's Firepower — his current setup.
+Travis has played this Paiste cymbal setup — evolving from Signature/2002 on Painkiller to the RUDE/2002 combination heard here — continuously since joining Judas Priest in 1989, straight through the Tama era, the Pearl-kit era (2005-2018), and into his current ddrum Dominion Series kit starting with 2018's Firepower. Drum brands have changed twice; the cymbals never have.
 
 ## The Painkiller Legacy Continues
 
@@ -134,4 +134,4 @@ A: Scott Travis's ddrum Dominion Series shell pack is estimated at $6,000 to $8,
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -57,8 +57,8 @@ Joey's devastating blast beat section that showcases his extreme metal roots. Th
 
 ### Gear Used
 
-- Pearl Export Series Kit (drums)
-- Paiste 2002 14" Hi-Hats (cymbals)
+- ddrum kit (drums)
+- Zildjian A Custom 14" Hi-Hats (cymbals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Single Stroke Roll](https://metalforge.io/techniques/single-stroke-roll)
 
@@ -140,8 +140,8 @@ The title track of Slipknot's Iowa (2001) is one of the most extreme drumming pe
 
 ### Gear Used
 
-- Pearl Export Series Kit (drums)
-- Paiste 2002 Cymbals (cymbals)
+- ddrum kit (drums)
+- Zildjian A Custom Cymbals (cymbals)
 
 **Core Techniques:** [Snare Displacement](https://metalforge.io/techniques/snare-displacement), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -186,4 +186,4 @@ Joey Jordison's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

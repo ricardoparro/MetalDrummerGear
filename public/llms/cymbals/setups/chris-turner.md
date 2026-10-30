@@ -41,4 +41,4 @@ A: Chris Turner plays Meinl cymbals: 15" Byzance Dual Hi-Hats, 18" Byzance Extra
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

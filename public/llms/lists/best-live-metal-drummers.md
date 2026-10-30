@@ -1,6 +1,6 @@
 # 10 Best Live Metal Drummers of All Time — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-live-metal-drummers)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-live-metal-drummers)
 
 ---
 
@@ -172,4 +172,4 @@ A: Nicko McBrain (Iron Maiden) and Mikkey Dee (Motörhead/Scorpions) are frequen
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

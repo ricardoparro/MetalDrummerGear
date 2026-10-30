@@ -1,6 +1,6 @@
 # Top 10 Fastest Blast Beat Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-blast-beat-drummers)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-blast-beat-drummers)
 
 ---
 
@@ -152,4 +152,4 @@ A: Death metal (Pete Sandoval, George Kollias, Flo Mounier, Gene Hoglan, Kevin T
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

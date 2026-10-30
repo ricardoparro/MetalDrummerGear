@@ -41,4 +41,4 @@ A: MetalForge tracks all Vater series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/vater/5b/drummers-using](https://metalforge.io/gear/vater/5b/drummers-using) · Last updated: 2026-10-15*
+*Source: [metalforge.io/gear/vater/5b/drummers-using](https://metalforge.io/gear/vater/5b/drummers-using) · Last updated: 2026-10-30*

@@ -39,6 +39,7 @@ Gene Hoglan endorses Pearl for hardware / pedals. They play the Pearl Demon Driv
 - **1991** (Cymbals): Switched from Zildjian to Sabian — Switched to Sabian's AAX Series for the technical precision demanded by Death's "Individual Thought Patterns" and "Symbolic"
 - **2008** (Drums): Signature product: Tama Gene Hoglan Signature Snare 14x8" — First signature snare drum, an exceptionally deep 14x8" model built for thunderous power during his Testament and Dethklok era
 - **2018** (Drums): Switched from Tama to Pearl — Switched to a Pearl Reference Pure kit, also adopting Pearl's Demon Drive Double Pedal as part of the same hardware changeover
+- **2018** (Hardware / Pedals): Signed with Pearl — Adopted Pearl's Demon Drive Double Pedal as part of the same hardware changeover that brought the Pearl Reference Pure kit
 - **2018** (Drumsticks): Signed with ProMark — Settled on ProMark Classic Forward 2B sticks for his Pearl Reference Pure setup of that era, favoring their balance across marathon touring and clinic schedules
 
 ## FAQ
@@ -62,4 +63,4 @@ A: See the Endorsement History section above for a full timeline of Gene Hoglan'
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

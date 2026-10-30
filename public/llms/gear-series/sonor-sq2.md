@@ -43,4 +43,4 @@ A: MetalForge tracks all Sonor series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/sonor/sq2/drummers-using](https://metalforge.io/gear/sonor/sq2/drummers-using) · Last updated: 2026-10-15*
+*Source: [metalforge.io/gear/sonor/sq2/drummers-using](https://metalforge.io/gear/sonor/sq2/drummers-using) · Last updated: 2026-10-30*

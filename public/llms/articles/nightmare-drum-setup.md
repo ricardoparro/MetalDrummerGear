@@ -27,7 +27,7 @@ This article documents the gear Mike Portnoy used on *Nightmare*, the context of
 - **Drums:** Tama Tama Starclassic Maple (Transparent Black / Midnight Blue Sparkle finish)
 - **Snare:** Tama Tama Starclassic Maple Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX Evolution Series
-- **Hardware / Pedals:** Tama Power Tower Rack; Tama 1st Chair; Vic Firth Mike Portnoy Signature
+- **Hardware / Pedals:** Tama Power Tower Rack; Tama 1st Chair; Promark Mike Portnoy TX420N Signature
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension — balanced attack and sensitivity for the album's wide dynamic range
 
@@ -102,7 +102,7 @@ A: Nightmare (2010) is the last Avenged Sevenfold album associated with The Rev 
 
 **Q: What drums did Mike Portnoy use on the Nightmare album?**
 
-A: Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions — his 2010 touring configuration featuring double 22"x18" bass drums, five rack toms (8" through 14"), and three floor toms (14", 16", 18"). His cymbal rig was Sabian HHX Evolution, carried over from the Black Clouds & Silver Linings touring setup — crashes, ride, chinese, and splash. He played his Vic Firth Mike Portnoy Signature sticks throughout the sessions. For the full Mike Portnoy gear story, see the [Mike Portnoy kit guide](/articles/whats-in-mike-portnoys-kit).
+A: Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions — his 2010 touring configuration featuring double 22"x18" bass drums, five rack toms (8" through 14"), and three floor toms (14", 16", 18"). His cymbal rig was Sabian HHX Evolution, carried over from the Black Clouds & Silver Linings touring setup — crashes, ride, chinese, and splash. He played his Promark Mike Portnoy TX420N Signature sticks throughout the sessions. For the full Mike Portnoy gear story, see the [Mike Portnoy kit guide](/articles/whats-in-mike-portnoys-kit).
 
 **Q: Was Avenged Sevenfold's Nightmare Grammy-nominated?**
 
@@ -125,4 +125,4 @@ A: "So Far Away" — the Grammy-nominated tribute ballad from Nightmare — rece
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

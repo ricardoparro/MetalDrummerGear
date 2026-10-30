@@ -61,7 +61,7 @@ His crash configuration — 18" and 19" AAX X-Plosion Crashes — provides two d
 
 The 21" AAX Stage Ride provides a bright, projecting time-keeping surface with a clear bell — appropriate for the passages in *Faceless* where Larkin needed a defined, cutting ride voice rather than a wash. The 18" AAX Chinese rounds out the setup with its upward-projecting trash accent, heard to maximum effect on the album's heavier sections.
 
-This Sabian AAX configuration is the same setup Larkin has played across his entire Godsmack tenure — on *Faceless*, his debut Godsmack album, the AAX series already delivered the bright, explosive cymbal voice that defines his sound to this day.
+This Sabian AAX configuration has remained the foundation of Larkin's cymbal setup throughout his entire Godsmack career — the same bright, explosive voice heard on *Faceless*, his debut Godsmack album, carried forward unchanged through every studio album that followed.
 
 ## The Groove That Topped the Charts: Faceless and the Larkin Era Begins
 
@@ -109,7 +109,7 @@ A: On Godsmack's *Faceless* (2003), Shannon Larkin used a ddrum Dios Series kit 
 
 **Q: What cymbals does Shannon Larkin use?**
 
-A: Shannon Larkin is a Sabian endorsee. On *Faceless* (2003), he used the Sabian AAX series — a machine-hammered, bright-voiced line known for its fast-speaking, aggressive character suited to hard rock production. His Faceless-era AAX setup included 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" Chinese cymbal. The AAX series has remained his cymbal setup across his entire Godsmack career, with the Raw Bell Dry Ride replacing the Stage Ride as his primary ride in later years. See the [Shannon Larkin drum setup](/articles/shannon-larkin-drum-setup) for his complete current cymbal configuration.
+A: Shannon Larkin is a Sabian endorsee. On *Faceless* (2003), he used the Sabian AAX series — a machine-hammered, bright-voiced line known for its fast-speaking, aggressive character suited to hard rock production. His Faceless-era AAX setup included 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" Chinese cymbal. Larkin has kept this same Sabian AAX configuration across his entire Godsmack career and current touring, with the AAX series remaining his consistent hi-hat, crash, and ride choice. See the [Shannon Larkin drum setup](/articles/shannon-larkin-drum-setup) for his complete current cymbal configuration.
 
 **Q: Why did Faceless debut at #1 on the Billboard 200?**
 
@@ -136,4 +136,4 @@ A: Shannon Larkin joined Godsmack in 2002, replacing founding drummer Tommy Stew
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

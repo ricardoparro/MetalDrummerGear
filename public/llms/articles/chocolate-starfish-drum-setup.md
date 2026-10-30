@@ -25,7 +25,7 @@ For "Chocolate Starfish," Otto continued with his OCDP custom kit and Zildjian c
 - **Drums:** Orange County Drum and Percussion OCDP Custom Kit (Custom finish for the 2000 touring cycle finish)
 - **Snare:** Orange County Drum and Percussion OCDP Custom Snare, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Series and A Custom Series
-- **Hardware / Pedals:** Pearl P-2002 Eliminator; Pearl H-1000 Hi-Hat Stand; Roc-N-Soc Nitro Throne; Zildjian 5A Wood Tip
+- **Hardware / Pedals:** Gibraltar Professional Series; Gibraltar Professional Series; Roc-N-Soc Nitro Throne; Zildjian 5A Wood Tip
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension — crack and sensitivity balanced for wide dynamic range
 
@@ -136,4 +136,4 @@ A: John Otto's jazz and hip-hop background led him to prioritize groove over den
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

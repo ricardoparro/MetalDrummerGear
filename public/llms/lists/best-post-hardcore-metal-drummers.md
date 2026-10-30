@@ -1,6 +1,6 @@
 # 10 Best Post-Hardcore Metal Drummers of All Time — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-post-hardcore-metal-drummers)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-post-hardcore-metal-drummers)
 
 ---
 
@@ -36,9 +36,9 @@ Ranked by documented performance records, genre-defining influence, and technica
 
 **Band:** Converge / Mutoid Man / Killer Be Killed
 **Highlight:** Mathcore's definitive controlled-chaos architect
-**Why ranked here:** Ben Koller joined Converge in 2001 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity.
+**Why ranked here:** Ben Koller joined Converge in 1999 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity.
 
-Ben Koller (Converge / Mutoid Man / Killer Be Killed) earns rank #1 for: mathcore's definitive controlled-chaos architect. Ben Koller joined Converge in 2001 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity..
+Ben Koller (Converge / Mutoid Man / Killer Be Killed) earns rank #1 for: mathcore's definitive controlled-chaos architect. Ben Koller joined Converge in 1999 and immediately redefined what post-hardcore metal drumming could be — "Jane Doe" became the genre's most influential and studied document, a record where Koller's fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression rather than mere noise. His subsequent work with Mutoid Man, All Pigs Must Die, and Killer Be Killed has demonstrated remarkable range across post-hardcore's harder and more melodic wings, but it's his two-decades-plus Converge tenure that remains the genre's defining reference point for hardcore-rooted technical extremity..
 
 Full drummer profile: [Ben Koller on MetalForge](https://metalforge.io/drummer/ben-koller)
 
@@ -46,9 +46,9 @@ Full drummer profile: [Ben Koller on MetalForge](https://metalforge.io/drummer/b
 
 **Band:** Between the Buried and Me
 **Highlight:** Progressive post-hardcore's technical ceiling
-**Why ranked here:** Blake Richardson has pushed Between the Buried and Me's progressive post-hardcore ambition to its limits across more than a dozen studio albums, executing technical death metal complexity, constantly shifting odd-time signatures, and jazz-influenced fills within compositions that challenge virtually every drummer working in heavy music. "Colors" and "The Parallax II: Future Sequence" demonstrate post-hardcore's capacity for genuinely progressive, long-form composition without sacrificing the genre's raw emotional directness — a difficult balance Richardson has sustained across his entire career.
+**Why ranked here:** Blake Richardson has pushed Between the Buried and Me's progressive post-hardcore ambition to its limits across nine studio albums, executing technical death metal complexity, constantly shifting odd-time signatures, and jazz-influenced fills within compositions that challenge virtually every drummer working in heavy music. "Colors" and "The Parallax II: Future Sequence" demonstrate post-hardcore's capacity for genuinely progressive, long-form composition without sacrificing the genre's raw emotional directness — a difficult balance Richardson has sustained across his entire career.
 
-Blake Richardson (Between the Buried and Me) earns rank #2 for: progressive post-hardcore's technical ceiling. Blake Richardson has pushed Between the Buried and Me's progressive post-hardcore ambition to its limits across more than a dozen studio albums, executing technical death metal complexity, constantly shifting odd-time signatures, and jazz-influenced fills within compositions that challenge virtually every drummer working in heavy music. "Colors" and "The Parallax II: Future Sequence" demonstrate post-hardcore's capacity for genuinely progressive, long-form composition without sacrificing the genre's raw emotional directness — a difficult balance Richardson has sustained across his entire career..
+Blake Richardson (Between the Buried and Me) earns rank #2 for: progressive post-hardcore's technical ceiling. Blake Richardson has pushed Between the Buried and Me's progressive post-hardcore ambition to its limits across nine studio albums, executing technical death metal complexity, constantly shifting odd-time signatures, and jazz-influenced fills within compositions that challenge virtually every drummer working in heavy music. "Colors" and "The Parallax II: Future Sequence" demonstrate post-hardcore's capacity for genuinely progressive, long-form composition without sacrificing the genre's raw emotional directness — a difficult balance Richardson has sustained across his entire career..
 
 Full drummer profile: [Blake Richardson on MetalForge](https://metalforge.io/drummer/blake-richardson)
 
@@ -150,7 +150,7 @@ A: Metalcore drumming (covered in its own dedicated ranking) tends toward machin
 A: The foundational post-hardcore metal bands include Converge (whose "Jane Doe" is the genre's most influential document), Between the Buried and Me, Deftones, Glassjaw, Norma Jean, The Chariot, Every Time I Die, and Coheed and Cambria. The genre traces its roots to hardcore punk acts like Fugazi and Quicksand who began incorporating metal's technical weight in the early-to-mid 1990s. Modern post-hardcore metal continues evolving through bands like Kublai Khan TX, which fuse the genre's hardcore-punk foundations with contemporary beatdown and metalcore influences.
 
 **Q: What gear do post-hardcore metal drummers use?**
-A: Post-hardcore metal drummers favor durable, road-tested kits built to withstand the genre's chaotic, physically demanding playing style. Ben Koller plays Tama drums for their reliability under Converge's relentless touring schedule. Matt Greiner of August Burns Red uses Mapex Black Panther Design Lab drums paired with Paiste Formula 602 cymbals for technical precision and projection. Isaac Lamb favors SJC Custom Drums, a brand of choice across the modern post-hardcore and metalcore underground for its American manufacturing and tonal warmth. Across the genre, reliability under physically demanding live performance matters as much as tonal quality.
+A: Post-hardcore metal drummers favor durable, road-tested kits built to withstand the genre's chaotic, physically demanding playing style. Ben Koller plays Tama drums for their reliability under Converge's relentless touring schedule. Matt Greiner of August Burns Red uses Mapex Black Panther Design Lab drums paired with Paiste Formula 602 cymbals for technical precision and projection. No gear endorsement of any kind is publicly documented for Isaac Lamb. Across the genre, reliability under physically demanding live performance matters as much as tonal quality.
 
 
 ---
@@ -170,4 +170,4 @@ A: Post-hardcore metal drummers favor durable, road-tested kits built to withsta
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

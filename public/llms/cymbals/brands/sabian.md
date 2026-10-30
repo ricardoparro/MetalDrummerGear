@@ -31,7 +31,7 @@
 | [Paul Bostaph](https://metalforge.io/cymbals/setups/paul-bostaph) | Slayer | Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China) |
 | [Richard Christy](https://metalforge.io/cymbals/setups/richard-christy) | Death / Iced Earth | Sabian AA/AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 18" AAX Chinese) |
 | [Ryan Van Poederooyen](https://metalforge.io/cymbals/setups/ryan-van-poederooyen) | Devin Townsend Project | Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China) |
-| [Shannon Larkin](https://metalforge.io/cymbals/setups/shannon-larkin) | Godsmack / Ugly Kid Joe / Amen | Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese) |
+| [Shannon Larkin](https://metalforge.io/cymbals/setups/shannon-larkin) | Godsmack / Ugly Kid Joe / Wrathchild America | Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese) |
 | [Tim Yeung](https://metalforge.io/cymbals/setups/tim-yeung) | Morbid Angel / Hate Eternal / Vital Remains | Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) |
 | [Tomas Haake](https://metalforge.io/cymbals/setups/tomas-haake) | Meshuggah | Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China) |
 
@@ -72,4 +72,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Sabian, se
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

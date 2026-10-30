@@ -1,6 +1,6 @@
 # What Pedals Does Shannon Larkin Use? Full Setup
 
-**Band:** Godsmack / Ugly Kid Joe / Amen | **Configuration:** double | **Drive Type:** chain
+**Band:** Godsmack / Ugly Kid Joe / Wrathchild America | **Configuration:** double | **Drive Type:** chain
 
 ---
 
@@ -38,4 +38,4 @@ A: Shannon Larkin plays a DW 9000 Series double pedal (chain-drive).
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

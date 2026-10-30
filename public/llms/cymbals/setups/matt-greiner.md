@@ -44,4 +44,4 @@ A: Matt Greiner plays Paiste cymbals: 14" Formula 602 Hi-Hats, 16" Formula 602 C
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

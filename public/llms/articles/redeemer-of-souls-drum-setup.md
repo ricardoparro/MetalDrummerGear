@@ -24,7 +24,7 @@ The Faulkner era began here, but the rhythmic foundation was unchanged. Travis's
 
 - **Drums:** Pearl Pearl Reference Series (Piano Black finish)
 - **Snare:** Pearl Pearl Reference Brass 14" x 6.5", 14" x 6.5"
-- **Cymbals:** Sabian — Sabian HH / AA Hybrid
+- **Cymbals:** Paiste — Paiste RUDE / 2002 Series
 - **Hardware / Pedals:** Pearl Demon Drive (x2 independent pedals); Pearl Eliminator Hi-Hat Stand; Pearl Roadster Throne, round seat; Vic Firth American Classic 5B
 - **Heads:** Evans HD Dry (batter), Evans 300 Snare Side (resonant)
 - **Snare tuning:** Medium-high tension, tight snare wires — Sneap's dry production favors maximum snap
@@ -47,11 +47,11 @@ Andy Sneap's mix on *Redeemer of Souls* is among the tightest in Travis's Priest
 
 Tuned medium-high with tight snare wires, the brass snare on *Redeemer of Souls* is audibly snappier and more present than the same drum's contribution to *Nostradamus* (2008), where it needed to coexist with orchestral arrangements. Free from that context, Sneap was able to push the snare forward into a more dominant mix position — an approach that foreshadowed the even more prominent snare sound he'd achieve with Travis on *Firepower* (2018).
 
-### Sabian HH/AA: The Final Redeemer-Era Configuration
+### Paiste RUDE/2002: Still the Same Rig Nine Years On
 
-By 2014, Scott Travis's Sabian setup had evolved from the HH/AA hybrid documented on *Angel of Retribution* and *Nostradamus* toward a fuller HHX configuration, the last stage of his cymbal voicing before switching to Paiste again for *Firepower* (2018). The AA crashes are engineered for fast attack and controlled decay, which suits Andy Sneap's tight, dry production philosophy well. Where a washy, sustaining crash would cloud *Redeemer of Souls*'s dense guitar arrangements, they speak immediately and clear out of the mix quickly. Travis uses them as rhythmic punctuation rather than ambient sound — a practical match for Sneap's engineering approach.
+By 2014, Scott Travis's cymbal setup was exactly what it had been on *Angel of Retribution* and *Nostradamus* — the same Paiste RUDE/2002 rig he's played since joining Judas Priest in 1989, through the Tama years and the entire Pearl era alike. The 2002 crashes are engineered for fast attack and controlled decay, which suits Andy Sneap's tight, dry production philosophy well. Where a washy, sustaining crash would cloud *Redeemer of Souls*'s dense guitar arrangements, they speak immediately and clear out of the mix quickly. Travis uses them as rhythmic punctuation rather than ambient sound — a practical match for Sneap's engineering approach.
 
-The brighter Sabian HHX Power Ride reflects that late-era transition: dry, defined, with a pronounced bell that cuts through the mix during ride passages. The 18" AA China provides the trashy accent voice in the aggressive moments.
+The RUDE Power Ride is dry and defined, with a pronounced bell that cuts through the mix during ride passages. The 18" RUDE China provides the trashy accent voice in the aggressive moments.
 
 ## The Grammy Nomination That Confirmed the Faulkner Era
 
@@ -94,7 +94,7 @@ A: Richie Faulkner replaced founding guitarist K.K. Downing on Redeemer of Souls
 
 **Q: How does Scott Travis's Redeemer of Souls setup compare to Firepower?**
 
-A: Redeemer of Souls (2014) and Firepower (2018) are both Andy Sneap-produced Judas Priest albums, but Travis's gear changed between them: Redeemer of Souls was recorded on the Pearl Reference Series kit, the Pearl Reference Brass 14"x6.5" snare, the Pearl Demon Drive double pedal, and the Sabian HH/AA-to-HHX cymbal setup that had carried his sound since Angel of Retribution (2005), while Firepower marked a switch to an entirely different kit and cymbal brand. Redeemer of Souls is in many ways the proof-of-concept for Andy Sneap's production approach, with Sneap refining his engineering on the last album of Travis's Pearl era before the gear changed again.
+A: Redeemer of Souls (2014) and Firepower (2018) are both Andy Sneap-produced Judas Priest albums, but Travis's drum kit changed between them: Redeemer of Souls was recorded on the Pearl Reference Series kit, the Pearl Reference Brass 14"x6.5" snare, and the Pearl Demon Drive double pedal, while Firepower marked a switch to an entirely different drum brand (ddrum). His Paiste RUDE/2002 cymbal setup, however, carried across both albums unchanged — it's the one piece of gear that never switched. Redeemer of Souls is in many ways the proof-of-concept for Andy Sneap's production approach, with Sneap refining his engineering on the last album of Travis's Pearl era before the drum kit changed again.
 
 ## Related Articles
 
@@ -113,4 +113,4 @@ A: Redeemer of Souls (2014) and Firepower (2018) are both Andy Sneap-produced Ju
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

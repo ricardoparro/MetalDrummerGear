@@ -26,7 +26,7 @@ Mayhem's Hellhammer vs "The Atomic Clock" Gene Hoglan. Raw black metal blast bea
 
 ## Playing Style
 
-Hellhammer (born Jan Axel Blomberg, 1969) has driven Norwegian black metal since joining Mayhem in 1988, replacing founding drummer Manheim, and his cold, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains the genre's defining recording. He has run a parallel career with Dimmu Borgir since 1999, bringing black metal aggression into symphonic arrangements, while also contributing to Arcturus and Shining. Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic timing, has spent over 40 years and 20+ bands building a reputation for inhuman precision across Dark Angel (1983-1991), Death ("Individual Thought Patterns," 1993; "Symbolic," 1995), Testament, and Strapping Young Lad, treating extreme speed as a controlled, sustainable discipline rather than raw chaos.
+Hellhammer (born Jan Axel Blomberg, 1969) has driven Norwegian black metal since joining Mayhem in 1988, replacing founding drummer Manheim, and his cold, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains the genre's defining recording. He ran a parallel career with Dimmu Borgir from 1999 to 2013, bringing black metal aggression into symphonic arrangements, while also contributing to Arcturus and Shining. Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic timing, has spent over 40 years and 20+ bands building a reputation for inhuman precision across Dark Angel (1983-1991), Death ("Individual Thought Patterns," 1993; "Symbolic," 1995), Testament, and Strapping Young Lad, treating extreme speed as a controlled, sustainable discipline rather than raw chaos.
 
 ## Technique
 
@@ -50,7 +50,7 @@ Hellhammer and Gene Hoglan represent two different engines built for the same jo
 A: Both are considered among metal's fastest drummers, but in different disciplines. Hellhammer's speed is rooted in raw black metal blast beats, showcased on Mayhem's "De Mysteriis Dom Sathanas" (1994). Gene Hoglan's speed is rooted in his self-invented gravity blast technique, which lets him sustain extreme tempos with less fatigue across full albums with Death, Dark Angel, and Testament.
 
 **Q: What bands have Hellhammer and Gene Hoglan played in?**
-A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside stints in Arcturus and Shining. Gene Hoglan has drummed in over 20 bands across four decades, including Dark Angel, Death, Testament, Strapping Young Lad, and Fear Factory.
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside stints in Arcturus and Shining. Gene Hoglan has drummed in over 20 bands across four decades, including Dark Angel, Death, Testament, Strapping Young Lad, and Fear Factory.
 
 **Q: What drums do Hellhammer and Gene Hoglan play?**
 A: Hellhammer played a Sonor 5-piece shell pack with a Sonor 14"x5.5" steel snare on "De Mysteriis Dom Sathanas," later moving to the Sonor SQ2 Heavy Beech kit in 1999. Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14"x6.5" Brass snare and Sabian AAX cymbals.
@@ -67,4 +67,4 @@ A: The gravity blast is a blast-beat variation Gene Hoglan pioneered that uses t
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

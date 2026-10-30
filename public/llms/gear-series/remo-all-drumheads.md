@@ -62,4 +62,4 @@ A: MetalForge tracks all Remo drumheads used by professional metal drummers. Vis
 
 ---
 
-*Source: [metalforge.io/gear/remo/all-drumheads/drummers-using](https://metalforge.io/gear/remo/all-drumheads/drummers-using) · Last updated: 2026-10-15*
+*Source: [metalforge.io/gear/remo/all-drumheads/drummers-using](https://metalforge.io/gear/remo/all-drumheads/drummers-using) · Last updated: 2026-10-30*

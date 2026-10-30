@@ -12,7 +12,7 @@
 
 Released on October 30, 2009, on Nuclear Blast Records, Nile's sixth studio album "Those Whom the Gods Detest" is the band's best-charting and most commercially successful record. It entered the German charts at No. 54, the Swiss charts, and the US Billboard Heatseekers chart — remarkable reach for uncompromising technical death metal. Allmusic awarded it 4 out of 5 stars; Metal Music Archives rates it 9/10.
 
-For George Kollias, "Those Whom the Gods Detest" marks a pivotal gear transition: by this album, he had moved from his earlier Tama/DW configuration to a Pearl Reference Maple kit paired with Pearl Demon Drive pedals — the platform that would define his career-peak performances. The shift to Pearl was not simply a sponsorship move; the Reference Maple's construction and the Demon Drive's engineering suited the specific demands of Kollias's heel-toe technique at 240–280 BPM in ways his prior gear could not fully match.
+For George Kollias, "Those Whom the Gods Detest" marks a significant gear upgrade: by this album, he had moved from the Pearl Reference Series / Tama Iron Cobra HP900 setup he'd played since his 2005 Nile debut to a Pearl Reference Maple kit paired with Pearl Demon Drive pedals — the platform that would define his career-peak performances. The upgrade was not simply a cosmetic refresh; the Reference Maple's construction and the Demon Drive's engineering suited the specific demands of Kollias's heel-toe technique at 240–280 BPM in ways his prior gear could not fully match.
 
 Tracks like "Those Whom the Gods Detest," "Kafir!," "The Eye of Ra," and "Permitting the Noble Dead to Descend to the Underworld" showcase the full range of what Kollias can do — from the opening barrage of gravity blasts to measured, melodically aware passages where the kit's tonal character comes forward. The Meinl Byzance cymbal setup, now well into its transition-era configuration, provided the articulation and musical complexity the album's Egyptian-themed compositions demanded.
 
@@ -29,7 +29,7 @@ This article examines every piece of gear George Kollias used on "Those Whom the
 
 ### George's 2009 Kit: Pearl Reference Maple
 
-By the "Those Whom the Gods Detest" sessions in 2009, George Kollias had transitioned to the Pearl Reference Maple — a significant upgrade from his earlier Tama Starclassic configuration. The Pearl Reference Maple uses Pearl's SST (Superior Shell Technology) construction: a multi-ply maple shell with alternating grain angles that maximizes resonance efficiency while maintaining the focused attack required for death metal at extreme tempos.
+By the "Those Whom the Gods Detest" sessions in 2009, George Kollias had upgraded to the Pearl Reference Maple — a significant step up from the Pearl Reference Series kit he'd played since his 2005 Nile debut. The Pearl Reference Maple uses Pearl's SST (Superior Shell Technology) construction: a multi-ply maple shell with alternating grain angles that maximizes resonance efficiency while maintaining the focused attack required for death metal at extreme tempos.
 
 The Reference Maple's character sits between the warmth of a pure-maple kit and the projection of harder-shell alternatives. For Kollias's playing — where the kit must deliver both controlled, clear blast beat articulation and musically resonant tom passages — the Reference Maple's tonal balance is near-ideal. The shell responds quickly enough to articulate individual strokes at 240+ BPM while retaining enough body to sound authoritative in Nile's dense guitar environment.
 
@@ -65,7 +65,7 @@ The Pearl Reference Maple's tonal character, the Demon Drive's direct-drive prec
 
 Key takeaways for drummers studying this album:
 
-- **The Pearl transition matters**: Reference Maple vs. Tama Starclassic Maple is not just a sponsorship change — the shell character affects tone and dynamic range throughout
+- **The Reference Maple upgrade matters**: Reference Maple vs. Reference Series is not just a cosmetic change — the shell character affects tone and dynamic range throughout
 - **Direct drive at extreme BPM**: The Demon Drive's mechanical advantage over chain-drive becomes audible at 260–270 BPM kick runs; the consistency is qualitatively different
 - **Gravity blast as texture, not just speed**: "The Eye of Ra" demonstrates how varying blast technique creates rhythmic variety within tracks
 - **Free-Floating snare response**: At 240+ BPM blast beats, snare response consistency matters — each stroke must crack identically
@@ -81,7 +81,7 @@ Internal links for the complete George Kollias picture:
 ## Key Facts
 
 - Nile's best-selling and best-charting album worldwide (Nuclear Blast, 2009)
-- George Kollias transitions to Pearl Reference Maple — departure from earlier Tama/DW era
+- George Kollias upgrades to Pearl Reference Maple — departure from his earlier Pearl Reference Series era
 - Pearl Demon Drive pedals enter the picture — co-developed speed and endurance engineering
 - Meinl Byzance cymbals in their mature Kollias configuration
 - Key tracks: "Those Whom the Gods Detest," "Kafir!," "The Eye of Ra," "Permitting the Noble Dead"
@@ -90,7 +90,7 @@ Internal links for the complete George Kollias picture:
 - Double 22" kick drums — independent per-foot control at 270+ BPM
 - OptiMount suspension — free-resonating toms for pitch definition in melodic passages
 - Compact tom configuration (10/12/14/16") for reach efficiency at extreme speeds
-- Significant upgrade from earlier Tama Starclassic Maple era
+- Significant upgrade from the earlier Pearl Reference Series era
 - Estimated kit value: $4,500–7,000 (Pearl Reference Maple shell pack, 2009 era)
 - Estimated snare value: $500–700 (Pearl Free-Floating snare, 2009 era)
 
@@ -98,11 +98,11 @@ Internal links for the complete George Kollias picture:
 
 **Q: What drum kit does George Kollias use on Those Whom the Gods Detest?**
 
-A: On Nile's 'Those Whom the Gods Detest' (2009, Nuclear Blast), George Kollias played a Pearl Reference Maple kit — a significant shift from the Tama Starclassic Maple he used on 'Annihilation of the Wicked' (2005). The Reference Maple configuration featured a double 22" kick drum setup, 10/12/14" rack toms, and a 16" floor tom. The kit is paired with a Pearl Free-Floating 14" x 6.5" snare. For full kit history and current setup, see: [George Kollias complete gear breakdown](/articles/whats-in-george-kollias-kit). For the earlier Nile album comparison: [Annihilation of the Wicked drum setup](/articles/george-kollias-nile-annihilation-drum-setup).
+A: On Nile's 'Those Whom the Gods Detest' (2009, Nuclear Blast), George Kollias played a Pearl Reference Maple kit — an upgrade from the Pearl Reference Series he'd played since 'Annihilation of the Wicked' (2005). The Reference Maple configuration featured a double 22" kick drum setup, 10/12/14" rack toms, and a 16" floor tom. The kit is paired with a Pearl Free-Floating 14" x 6.5" snare. For full kit history and current setup, see: [George Kollias complete gear breakdown](/articles/whats-in-george-kollias-kit). For the earlier Nile album comparison: [Annihilation of the Wicked drum setup](/articles/george-kollias-nile-annihilation-drum-setup).
 
 **Q: How fast is George Kollias on Those Whom the Gods Detest?**
 
-A: George Kollias sustains blast beats at 240–270 BPM on 'Those Whom the Gods Detest,' with 'Kafir!' representing one of the album's most demanding sustained-tempo passages at approximately 260–270 BPM. Kollias is Guinness World Record-certified for sustaining 280 BPM single strokes — by the 2009 album his technique and equipment (Pearl Demon Drive direct-drive pedals) had matured to deliver more consistent, even-dynamics kick performance at these extremes than his earlier DW 9002 era. What distinguishes his speed is not peak BPM but sustained clarity across entire tracks — see [George Kollias at MetalForge](/drummer/george-kollias) for full technique breakdown.
+A: George Kollias sustains blast beats at 240–270 BPM on 'Those Whom the Gods Detest,' with 'Kafir!' representing one of the album's most demanding sustained-tempo passages at approximately 260–270 BPM. Kollias is Guinness World Record-certified for sustaining 280 BPM single strokes — by the 2009 album his technique and equipment (Pearl Demon Drive direct-drive pedals) had matured to deliver more consistent, even-dynamics kick performance at these extremes than his earlier Tama Iron Cobra HP900 era. What distinguishes his speed is not peak BPM but sustained clarity across entire tracks — see [George Kollias at MetalForge](/drummer/george-kollias) for full technique breakdown.
 
 **Q: What cymbals does George Kollias use on Those Whom the Gods Detest?**
 
@@ -110,7 +110,7 @@ A: George Kollias plays Meinl Byzance series cymbals on 'Those Whom the Gods Det
 
 **Q: What pedals does George Kollias use on Those Whom the Gods Detest?**
 
-A: By the 'Those Whom the Gods Detest' (2009) sessions, George Kollias was performing on Pearl Demon Drive double bass drum pedals — transitioning from the DW 9002 he used on 'Annihilation of the Wicked' (2005). The Demon Drive's direct-drive mechanism eliminates the mechanical slack of chain-drive systems, providing instant foot-to-beater response at 260–270 BPM. This engineering directly informed Kollias's later Pearl Demon XR co-design collaboration. The Demon Drive era represents the platform on which his technique fully matured.
+A: By the 'Those Whom the Gods Detest' (2009) sessions, George Kollias was performing on Pearl Demon Drive double bass drum pedals — transitioning from the Tama Iron Cobra HP900 he used on 'Annihilation of the Wicked' (2005). The Demon Drive's direct-drive mechanism eliminates the mechanical slack of chain-drive systems, providing instant foot-to-beater response at 260–270 BPM. This engineering directly informed Kollias's later Pearl Demon XR co-design collaboration. The Demon Drive era represents the platform on which his technique fully matured.
 
 **Q: Why is Those Whom the Gods Detest significant for death metal drumming?**
 
@@ -132,4 +132,4 @@ A: 'Those Whom the Gods Detest' (Nile, 2009) is Nile's best-selling and best-cha
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -39,4 +39,4 @@ A: Richard Christy plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plosio
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

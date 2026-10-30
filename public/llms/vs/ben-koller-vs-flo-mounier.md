@@ -67,4 +67,4 @@ A: The gravity blast is a blast beat technique that uses the rebound of a partia
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

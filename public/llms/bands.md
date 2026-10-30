@@ -3,7 +3,7 @@
 > Structured reference for metal bands, their drummer history, discography, and gear.
 > Optimised for AI crawlers answering "who drums for <band>" queries.
 >
-> Last updated: 2026-10-15 · 47 bands
+> Last updated: 2026-10-30 · 47 bands
 
 ---
 ## Amon Amarth
@@ -413,7 +413,7 @@ Entheos, formed in 2015 in Santa Cruz, California, is an American progressive/te
 - **Who is the drummer for Entheos?** Navene Koperweis, the band's founding member and only drummer since 2015. He also took on guitar and bass writing/recording duties after the band contracted to a two-piece core in the late 2010s.
 - **Where is Entheos from?** Santa Cruz, California, USA, where the band formed in 2015.
 - **Is Entheos still active?** Yes. The band released Time Will Take Us All in 2023 and continues to tour and record.
-- **What other bands is Navene Koperweis known for?** Before Entheos, he drummed for Animals as Leaders (2012-2014) and Animosity, and has served as a session/touring drummer for Job for a Cowboy and Machine Head.
+- **What other bands is Navene Koperweis known for?** Before Entheos, he drummed for Animals as Leaders (2009-2012) and Animosity, and has served as a session/touring drummer for Job for a Cowboy and Machine Head.
 
 [Full profile](https://metalforge.io/bands/entheos)
 

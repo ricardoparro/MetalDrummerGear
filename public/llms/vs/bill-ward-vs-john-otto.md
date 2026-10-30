@@ -67,4 +67,4 @@ A: John Otto has been Limp Bizkit's drummer since the band's founding in 1994, m
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

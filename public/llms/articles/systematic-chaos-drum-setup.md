@@ -27,7 +27,7 @@ This is a complete breakdown of every piece of drum gear Mike Portnoy used to cr
 - **Drums:** Tama Tama Starclassic Bubinga (Midnight Blue Sparkle finish)
 - **Snare:** Tama Tama Starclassic Bubinga Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX Evolution Series
-- **Hardware / Pedals:** Tama Power Tower Rack; Tama 1st Chair; Vic Firth Mike Portnoy Signature
+- **Hardware / Pedals:** Tama Power Tower Rack; Tama 1st Chair; Promark Mike Portnoy TX420N Signature
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension — sharp attack for metal passages, retained sensitivity for prog dynamics
 
@@ -131,4 +131,4 @@ A: Yes. Dream Theater received a Grammy nomination for Best Metal Performance at
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

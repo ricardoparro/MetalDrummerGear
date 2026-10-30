@@ -14,7 +14,7 @@ Brann Dailor endorses Tama for drums. They play the Tama Starclassic Performer B
 
 ### Cymbals: Meinl
 
-Brann Dailor endorses Meinl for cymbals. They play the Meinl Mb20 & Mb8 Series. This partnership began in 2000s.
+Brann Dailor endorses Meinl for cymbals. They play the Meinl Byzance Series. This partnership began in 2000s.
 
 ### Drumsticks: Vater
 
@@ -57,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Brann Dailor
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

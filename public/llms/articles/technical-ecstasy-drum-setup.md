@@ -23,7 +23,7 @@ This article covers the Ludwig kit and Zildjian cymbal setup Ward carried over f
 - **Drums:** Ludwig Ludwig Standard Maple (Natural Maple finish)
 - **Snare:** Ludwig Ludwig Supraphonic 400 (LM402), 14" x 6.5"
 - **Cymbals:** Zildjian — Avedis Zildjian
-- **Hardware / Pedals:** Ludwig Speed King; Ludwig Atlas Hi-Hat Stand; Ludwig Atlas Throne; Ludwig 2B Hickory
+- **Hardware / Pedals:** Ludwig Speed King; Ludwig Atlas Hi-Hat Stand; Ludwig Atlas Throne; Pro-Mark Standard (5A or 5B equivalent)
 - **Heads:** Remo Emperor (batter), Remo Ambassador Coated (resonant)
 - **Snare tuning:** Medium tension, consistent with the Sabotage sessions
 
@@ -103,4 +103,4 @@ A: Bill Ward's Ludwig Standard Maple kit on *Technical Ecstasy* — a 22" bass d
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

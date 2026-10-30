@@ -34,7 +34,7 @@ Raatikainen built his technique around clean, locked-in double bass and precise,
 
 ## Key Differences
 
-Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom's dense arrangements anchored with surgical consistency at extreme tempos. Greiner weaves odd time signatures seamlessly into song structures rather than showcasing them as a display, incorporating creative stacked-cymbal work and rapid-fire double bass into metalcore's heavy foundation.
+Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom's dense arrangements anchored with surgical consistency at extreme tempos. Greiner weaves odd time signatures seamlessly into song structures rather than showcasing them as a display, incorporating creative stacked-cymbal work and rapid-fire double bass into metalcore's heavy foundation.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Jaska Raatikainen and Matt Greiner both prove that precision, not just speed, de
 A: Jaska Raatikainen builds his style around clean, locked-in double bass and blast beats within Children of Bodom's neoclassical melodic death metal. Matt Greiner weaves odd time signatures seamlessly into August Burns Red's metalcore song structures, favoring integrated complexity over overt technical display.
 
 **Q: What gear does Jaska Raatikainen use vs Matt Greiner?**
-A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal. Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare, Paiste Formula 602 Series cymbals, and a DW 9000 Series double pedal.
+A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal. Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare, Paiste Formula 602 Series cymbals, and a DW 9000 Series double pedal.
 
 **Q: Has Matt Greiner won any awards with August Burns Red?**
 A: Matt Greiner has earned two Grammy nominations for Best Metal Performance with August Burns Red, and he has his own signature Pearl snare and Vic Firth stick line.
@@ -67,4 +67,4 @@ A: Jaska Raatikainen was a founding member of Children of Bodom in 1993 and rema
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

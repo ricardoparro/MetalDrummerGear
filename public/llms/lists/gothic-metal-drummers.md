@@ -1,6 +1,6 @@
 # Top 10 Gothic Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/gothic-metal-drummers)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/gothic-metal-drummers)
 
 ---
 
@@ -150,4 +150,4 @@ A: Daray's Tama Starclassic Performer B/B kit with dark, theatrical Paiste RUDE 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

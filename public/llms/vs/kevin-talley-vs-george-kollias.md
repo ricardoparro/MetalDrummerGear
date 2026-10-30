@@ -34,7 +34,7 @@ Talley's fast, precise single-stroke blasting became a blueprint for brutal deat
 
 ## Key Differences
 
-Kevin plays a Pearl Masters Custom / Reference Series kit with a 14x5.5" Pearl Masters maple snare, Sabian AAX Series cymbals, and a Pearl Eliminator double pedal. George's Pearl Masterworks Stadium Exotic kit features his own 14x6.5" Pearl George Kollias Signature snare, Zildjian cymbals, and a co-designed Pearl Demon XR double pedal engineered for linear, rapid-fire bass drum work. Talley's fast, precise single-stroke blasting became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning multiple influential bands including Chimaira and Suffocation. Kollias employs heel-toe double bass technique to sustain blast beats north of 240 BPM with surgical clarity, a technical benchmark that pushed extreme-metal speed into more compositionally demanding territory while remaining musical within Nile's dense arrangements.
+Kevin plays a Pearl Masters Custom / Reference Series kit with a 14x6.5" Pearl Masters steel snare, Sabian AAX Series cymbals, and a Pearl Eliminator double pedal. George's Pearl Masterworks Stadium Exotic kit features his own 14x6.5" Pearl George Kollias Signature snare, Zildjian cymbals, and a co-designed Pearl Demon XR double pedal engineered for linear, rapid-fire bass drum work. Talley's fast, precise single-stroke blasting became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning multiple influential bands including Chimaira and Suffocation. Kollias employs heel-toe double bass technique to sustain blast beats north of 240 BPM with surgical clarity, a technical benchmark that pushed extreme-metal speed into more compositionally demanding territory while remaining musical within Nile's dense arrangements.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Kevin Talley plays a Pearl Masters Custom / Reference Series kit with a 14x6.
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

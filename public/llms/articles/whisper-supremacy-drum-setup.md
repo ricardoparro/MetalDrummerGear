@@ -24,10 +24,10 @@ This article breaks down the gear configuration behind one of technical death me
 
 ## Gear Breakdown
 
-- **Drums:** Pearl MX Series (Black finish) — same kit as None So Vile
+- **Drums:** Pearl Pearl MX Series (Black finish)
 - **Snare:** Pearl Steel Snare, 14" x 5.5"
-- **Cymbals:** Not independently verified for this era
-- **Hardware / Pedals:** Pedal brand not verified; Pearl H-2000 Hi-Hat Stand; Pearl D-1500S Roadster; Vic Firth 5A American Classic
+- **Cymbals:** Not verified — No documented cymbal-brand change for 1998
+- **Hardware / Pedals:** No documented pedal endorsement for this era; Pearl H-2000 Hi-Hat Stand; Pearl D-1500S Roadster; Vic Firth 5A American Classic
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Very high tension — maximum attack, minimum sustain for blast beat articulation
 
@@ -126,4 +126,4 @@ A: Whisper Supremacy (1998) occupies the critical transitional position between 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-23 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

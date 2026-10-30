@@ -53,7 +53,7 @@ A: Bill Ward co-founded Black Sabbath in 1968 and helped invent heavy metal drum
 A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals. Mario Duplantier plays a Tama Starclassic Bubinga kit with a Tama S.L.P. 14x6.5" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal.
 
 **Q: What bands are Bill Ward and Mario Duplantier known for?**
-A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006. Mario Duplantier co-founded Gojira with his brother Joe Duplantier in 1996 and remains the band's drummer.
+A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012. Mario Duplantier co-founded Gojira with his brother Joe Duplantier in 1996 and remains the band's drummer.
 
 **Q: What makes Mario Duplantier's drumming style unique?**
 A: Mario Duplantier combines crushing double bass patterns with complex polyrhythmic structures and an almost tribal, ceremonial quality, a style he developed across Gojira albums including "From Mars to Sirius," "The Way of All Flesh," and "Magma."
@@ -67,4 +67,4 @@ A: Mario Duplantier combines crushing double bass patterns with complex polyrhyt
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

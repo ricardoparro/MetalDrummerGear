@@ -25,7 +25,7 @@ This article documents exactly what Mike Portnoy played on *Falling into Infinit
 - **Drums:** Tama Tama Starclassic Maple (Tobacco Burst / Natural Maple finish)
 - **Snare:** Tama Tama Starclassic Maple Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HH / HHX Series
-- **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Tama Iron Cobra Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Vic Firth SD2 Bolero
+- **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Tama Iron Cobra Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Promark 5B Hickory
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension for musical crack with broad dynamic range
 
@@ -130,4 +130,4 @@ A: Mike Portnoy used Tama Iron Cobra double pedals on Falling into Infinity — 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

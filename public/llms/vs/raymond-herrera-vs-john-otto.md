@@ -67,4 +67,4 @@ A: On "Significant Other" (1999), John Otto played his newly adopted custom Oran
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -24,24 +24,22 @@ Thematically, the album confronts mortality, consciousness, and transformation. 
 
 ## Gear Breakdown
 
-- **Drums:** Tama Tama Starclassic Bubinga (Piano Black finish)
+- **Drums:** Unconfirmed — pre-endorsement era No documented endorsed kit; Mario's first-ever drum brand signing (Tama) came in 2010, during this album's touring cycle (Unconfirmed finish)
 - **Snare:** Tama Tama S.L.P. G-Maple, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian K Custom / A Custom
 - **Hardware / Pedals:** Tama Iron Cobra 900 Power Glide (x2 single pedals); Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair Ergo-Rider; Zildjian 5A Wood Tip; Individual stands (no rack)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension for balance of crack and body; responsive for ghost notes
 
-### Mario's 2008 Arsenal: Evolution of the Tama Sound
+### Mario's 2008 Arsenal: Still Two Years Before the Tama Deal
 
-For "The Way of All Flesh," Mario Duplantier upgraded to Tama's Starclassic Bubinga line — a significant evolution from the Performer series used on "From Mars to Sirius." The Bubinga shells provided even more warmth and low-end punch while maintaining the attack needed for death metal intensity.
+No definitive, endorsement-era gear list exists for the recording of "The Way of All Flesh" itself. Mario Duplantier's first-ever documented drum brand signing — with Tama — happened in 2010, during this album's touring cycle, which means the kit that was actually tracked in the studio in 2008 was not yet an endorsed Tama Starclassic, whatever the endorsed touring rig later became.
 
-The dual 22" x 18" bass drums remained essential to Mario's visual and sonic identity. Unlike drummers who use a single kick with a double pedal, Mario insists on two separate drums. The visual symmetry on stage is striking, and sonically, each drum has its own microphone placement and tonal character. This setup allows for more precise mixing and a wider, more impactful sound.
-
-The Bubinga wood — an African species known for its density and warmth — adds a dimension that birch alone cannot achieve. The low-end from these drums is massive yet articulate, essential for the palm-muted guitar grooves that define Gojira's sound. When Mario's kicks lock in with Joe's rhythm guitar on songs like "Toxic Garbage Island," the result is seismic.
+The dual 22" x 18" bass drum configuration was already a visual and sonic constant for Mario by this point, built on the same two rack tom, two floor tom layout he had used since The Link. The specific brand of that 2008 studio kit, however, is not documented with confidence.
 
 The tom configuration remained consistent with his earlier work: two rack toms and two floor toms. Mario uses his toms melodically, not just for fills. Listen to the tribal patterns in "Adoration for None" — those toms sing specific phrases that are as composed as the guitar riffs.
 
-The shells were tuned slightly lower than "From Mars to Sirius" to match the album's darker themes. Where the previous record had moments of brightness and hope (the whales, the journey to Sirius), "The Way of All Flesh" deals with mortality directly. The drum tones reflect this gravity.
+Once Mario signed with Tama in 2010, the Starclassic Bubinga became his confirmed endorsed kit for the remainder of the touring cycle and every album after — but that confirmed history starts two years after these sessions, not at them.
 
 ### The Crack of Mortality
 
@@ -102,13 +100,11 @@ All flesh is grass. But some grass leaves seeds that grow forever.
 - Topped metal charts worldwide upon release
 - Established Gojira as global headliners
 - Mario was 27, at the peak of his technical and creative powers
-- Upgraded to Bubinga shells for increased warmth and punch
-- Dual bass drums for visual and sonic impact
-- Lower tuning to match darker thematic content
+- Pre-endorsement era — Mario's first documented drum brand deal (Tama) began in 2010, mid-way through this album's touring cycle, not at the 2008 studio sessions
+- Dual bass drums, two rack / two floor tom layout consistent with period photos
+- Shell brand and material unconfirmed for the 2008 studio sessions
 - Toms used melodically, not just for fills
-- African Bubinga wood adds unique low-end character
-- Die-cast hoops for consistent tuning and sustain control
-- Estimated kit value: $4,500-6,500 (2008) / $6,000-9,000 (collector value today)
+- Estimated kit value: $1,200-2,000 (2008) — typical mid-tier working-drummer kit pricing
 - Estimated snare value: $500-700 (2008)
 
 ## Frequently Asked Questions
@@ -143,4 +139,4 @@ A: At the time of recording in 2008, a Tama Starclassic Bubinga kit was valued a
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

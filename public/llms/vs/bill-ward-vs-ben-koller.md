@@ -50,7 +50,7 @@ Bill Ward and Ben Koller sit at opposite ends of heavy music's rhythmic spectrum
 A: Bill Ward co-founded Black Sabbath in 1968 and is credited as one of the true originators of heavy metal drumming, inventing its jazz-swing-rooted vocabulary. Ben Koller has driven Converge's mathcore evolution since 1999, becoming one of the most respected drummers in extreme and hardcore music. Ward represents metal's founding groove; Koller represents modern mathcore's controlled chaos.
 
 **Q: What bands have Bill Ward and Ben Koller played in?**
-A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006. Ben Koller has drummed for Converge since late 1999, and also plays in Mutoid Man alongside Stephen Brodsky and in the supergroup Killer Be Killed.
+A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012. Ben Koller has drummed for Converge since late 1999, and also plays in Mutoid Man alongside Stephen Brodsky and in the supergroup Killer Be Killed.
 
 **Q: What gear do Bill Ward and Ben Koller use?**
 A: Bill Ward played a Ludwig Super Classic/Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal — no double bass. Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal.
@@ -67,4 +67,4 @@ A: No. Bill Ward built Black Sabbath's foundational heaviness entirely with a si
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

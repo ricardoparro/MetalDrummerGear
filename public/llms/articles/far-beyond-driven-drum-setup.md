@@ -25,7 +25,7 @@ Tracks like "5 Minutes Alone," "I'm Broken," and "Becoming" each demanded someth
 - **Drums:** Tama Tama Artstar II (carried over from Vulgar Display of Power) (Custom Graphics finish)
 - **Snare:** Tama Tama steel snare (specific model unverified), 14" x 8"
 - **Cymbals:** Sabian — Sabian AA / AAX
-- **Hardware / Pedals:** Double pedal (brand not documented for this era); Hi-hat stand (brand not documented for this era); Roc-N-Soc Nitro Throne; Vic Firth American Classic 2B (played backwards)
+- **Hardware / Pedals:** Double pedal (brand not documented for this era); Hi-hat stand (brand not documented for this era); Roc-N-Soc Nitro Throne; Vic Firth American Classic 5B (played backwards)
 - **Heads:** Remo Powerstroke 77 Coated (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium-low tension for maximum body, controlled snare wire tension
 
@@ -112,4 +112,4 @@ A: Vinnie Paul used the same Sabian AA and AAX Series cymbals on Far Beyond Driv
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

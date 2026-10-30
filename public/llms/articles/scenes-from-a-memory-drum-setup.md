@@ -25,7 +25,7 @@ This was also the last album of Portnoy's Tama Starclassic Maple era — after S
 - **Drums:** Tama Tama Starclassic Maple (Cherry Fade finish)
 - **Snare:** Tama Tama Starclassic Maple Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian Artisan / HH Series
-- **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Tama Iron Cobra Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Vic Firth Horacio Hernandez SD2 Bolero
+- **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Tama Iron Cobra Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Promark 5B Hickory
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension for warm crack with ghost note sensitivity
 
@@ -138,4 +138,4 @@ A: The two setups represent distinct eras separated by seven years of developmen
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

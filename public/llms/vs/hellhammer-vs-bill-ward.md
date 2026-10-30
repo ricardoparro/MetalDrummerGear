@@ -26,7 +26,7 @@ Mayhem's Hellhammer vs Black Sabbath's Bill Ward — extreme black metal blast-b
 
 ## Playing Style
 
-Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured. He has run a parallel career with Dimmu Borgir since 1999, bringing black metal ferocity into symphonic arrangements. Bill Ward co-founded Black Sabbath in Birmingham, England, in 1968 alongside Tony Iommi, Geezer Butler, and Ozzy Osbourne, and his open, swinging feel on "Black Sabbath" (1970), "Paranoid" (1970), and "Master of Reality" (1971) effectively invented heavy metal's rhythmic vocabulary.
+Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured. He ran a parallel career with Dimmu Borgir from 1999 to 2013, bringing black metal ferocity into symphonic arrangements. Bill Ward co-founded Black Sabbath in Birmingham, England, in 1968 alongside Tony Iommi, Geezer Butler, and Ozzy Osbourne, and his open, swinging feel on "Black Sabbath" (1970), "Paranoid" (1970), and "Master of Reality" (1971) effectively invented heavy metal's rhythmic vocabulary.
 
 ## Technique
 
@@ -50,7 +50,7 @@ Hellhammer and Bill Ward sit at opposite ends of heavy metal drumming's evolutio
 A: Hellhammer has driven Mayhem's black metal since 1988, delivering the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994). Bill Ward co-founded Black Sabbath in 1968 and, drawing on jazz influences like Gene Krupa and Buddy Rich, invented the swinging, dynamic rhythmic feel that became heavy metal's rhythmic foundation. Hellhammer represents extreme metal's speed ceiling; Ward represents the genre's founding groove.
 
 **Q: What bands have Hellhammer and Bill Ward played in?**
-A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside stints in Arcturus and Shining. Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006.
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside stints in Arcturus and Shining. Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012.
 
 **Q: What gear do Hellhammer and Bill Ward use?**
 A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal throughout his career.
@@ -67,4 +67,4 @@ A: No. Bill Ward built Black Sabbath's foundational heaviness entirely with a si
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

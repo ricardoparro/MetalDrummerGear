@@ -26,7 +26,7 @@ Trivium's Nick Augusto vs Between the Buried and Me's Blake Richardson. Modern t
 
 ## Playing Style
 
-Nick Augusto joined Trivium as a drum technician before stepping in as the band's touring and studio drummer, ultimately recording two studio albums, "In Waves" (2011) and "Vengeance Falls" (2013), across a tenure from 2009 to 2014. His background in grindcore band Maruta and Metal Militia (alongside future Trivium bassist Paolo Gregoletto) gave his Trivium tenure an aggressive, high-speed foundation. Blake Richardson has anchored Between the Buried and Me since early 2005, replacing founding drummer Jason Roe and becoming central to the band's evolution into one of progressive metal's most acclaimed acts across landmark records like "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2021), the latter earning a Grammy nomination.
+Nick Augusto joined Trivium as a drum technician before stepping in as the band's touring and studio drummer, ultimately recording two studio albums, "In Waves" (2011) and "Vengeance Falls" (2013), across a tenure from 2010 to 2014. His background in grindcore band Maruta and Metal Militia (alongside future Trivium bassist Paolo Gregoletto) gave his Trivium tenure an aggressive, high-speed foundation. Blake Richardson has anchored Between the Buried and Me since early 2005, replacing founding drummer Jason Roe and becoming central to the band's evolution into one of progressive metal's most acclaimed acts across landmark records like "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2021), the latter earning a Grammy nomination.
 
 ## Technique
 
@@ -47,13 +47,13 @@ Nick Augusto and Blake Richardson represent two different technical demands with
 ## FAQ
 
 **Q: How do Nick Augusto and Blake Richardson compare as drummers?**
-A: Nick Augusto (Trivium, 2009-2014) plays powerful, speed-driven metalcore drumming built for aggressive thrash-influenced songwriting. Blake Richardson (Between the Buried and Me, since 2005) fuses death metal precision with jazz influences, building complex blast beats and constantly shifting odd time signatures. Augusto prioritizes speed and power; Richardson prioritizes technical and compositional complexity.
+A: Nick Augusto (Trivium, 2010-2014) plays powerful, speed-driven metalcore drumming built for aggressive thrash-influenced songwriting. Blake Richardson (Between the Buried and Me, since 2005) fuses death metal precision with jazz influences, building complex blast beats and constantly shifting odd time signatures. Augusto prioritizes speed and power; Richardson prioritizes technical and compositional complexity.
 
 **Q: What gear do Nick Augusto and Blake Richardson use?**
 A: Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference brass snare and Sabian AAX Series cymbals, powered by a DW 9000 Series double pedal. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian cymbals, driven by twin Tama Iron Cobra Power Glide single pedals.
 
 **Q: What bands are Nick Augusto and Blake Richardson known for?**
-A: Nick Augusto drummed for Trivium from 2009 to 2014, recording "In Waves" (2011) and "Vengeance Falls" (2013). Blake Richardson has drummed for Between the Buried and Me since 2005, also playing in Glass Casket.
+A: Nick Augusto drummed for Trivium from 2010 to 2014, recording "In Waves" (2011) and "Vengeance Falls" (2013). Blake Richardson has drummed for Between the Buried and Me since 2005, also playing in Glass Casket.
 
 **Q: Who influenced Blake Richardson's drumming style?**
 A: Blake Richardson has cited Terry Bozzio, Dennis Chambers, and Meshuggah's Tomas Haake as influences, drawing on their jazz-informed technicality and polyrhythmic vocabulary to build Between the Buried and Me's genre-blending progressive death metal sound.
@@ -67,4 +67,4 @@ A: Blake Richardson has cited Terry Bozzio, Dennis Chambers, and Meshuggah's Tom
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

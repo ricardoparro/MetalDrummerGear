@@ -18,7 +18,7 @@ The album's defining twist was its producer. David Draiman — lead vocalist of 
 
 For Nick Augusto, "Vengeance Falls" meant adapting his thrash-rooted, technically dense "In Waves" playing to a groove-first production philosophy — locking into pocket-driven patterns rather than showcasing pure speed. The album debuted at #15 on the Billboard 200 and reached #23 on the UK Albums Chart, backed by singles "Brave This Storm" and "Strife," the latter singled out by The Guardian as an anthemic standout in a record it called "a proud and focused heavy metal album."
 
-This article documents the drum gear Nick Augusto used on "Vengeance Falls": the Pearl Reference Pure kit, Sabian AAX cymbals, Pearl Demon Drive pedal, and how Draiman's rock-conscious production reshaped the tuning and mix approach without changing the equipment underneath.
+This article documents the drum gear Nick Augusto used on "Vengeance Falls": the Pearl Reference Pure kit, Sabian AAX cymbals, DW 9000 Series pedal, and how Draiman's rock-conscious production reshaped the tuning and mix approach without changing the equipment underneath.
 
 ## Gear Breakdown
 
@@ -52,14 +52,14 @@ With "Vengeance Falls" leaning less on blast-adjacent speed than "In Waves" and 
 
 ## Vengeance Falls: Same Gear, Different Mission
 
-Vengeance Falls closes out Nick Augusto's two-album Trivium tenure with a lesson in how much production alone can reshape a drummer's sound. Every piece of his equipment carried over unchanged from "In Waves": the Pearl Reference Pure kit, the Reference brass snare, the Sabian AAX cymbal pairing, the Pearl Demon Drive pedal.
+Vengeance Falls closes out Nick Augusto's two-album Trivium tenure with a lesson in how much production alone can reshape a drummer's sound. Every piece of his equipment carried over unchanged from "In Waves": the Pearl Reference Pure kit, the Reference brass snare, the Sabian AAX cymbal pairing, the DW 9000 Series pedal.
 
 What changed was the mission David Draiman set for the record:
 
 - **Pearl Reference Pure**: Same maple/birch shells as In Waves, but tuned and mixed for warmth and sustain rather than dry, punchy attack — a deliberate rock-radio choice from a producer better known as a vocalist
 - **Pearl Reference 14"x6.5" Brass Snare**: Identical hardware, retuned for more body and less top-end snap to match Draiman's rounder drum sound
 - **Sabian AAX Series**: The same cymbal package translated naturally into the album's more groove-driven, mid-tempo material
-- **Pearl Demon Drive**: Unmodified from In Waves, its direct-drive response suited to the album's sustained pocket-driven double-bass work over raw top-end speed
+- **DW 9000 Series**: Unmodified from In Waves, its direct-drive response suited to the album's sustained pocket-driven double-bass work over raw top-end speed
 
 Augusto left Trivium in May 2014, closing out a two-album chapter that began with his 2010 arrival and ran through two increasingly commercially successful, stylistically distinct records. Vengeance Falls remains the clearest evidence that a drummer's gear is only half the story — the other half is who's shaping it in the room.
 
@@ -96,7 +96,7 @@ A: David Draiman — lead vocalist of Disturbed and Device, producing for the fi
 
 **Q: How much would Nick Augusto's Vengeance Falls drum kit cost today?**
 
-A: Nick Augusto's full Vengeance Falls-era setup — the Pearl Reference Pure kit, Pearl Reference brass snare, Sabian AAX cymbal package, and Pearl Demon Drive double bass pedal — carried a combined estimated value of roughly $5,400–7,100 at 2013 retail pricing. Buying equivalent gear used today would run approximately $2,300–3,300, with the Reference Pure kit itself accounting for the largest share at $1,600–2,300 used.
+A: Nick Augusto's full Vengeance Falls-era setup — the Pearl Reference Pure kit, Pearl Reference brass snare, Sabian AAX cymbal package, and DW 9000 Series double bass pedal — carried a combined estimated value of roughly $5,400–7,100 at 2013 retail pricing. Buying equivalent gear used today would run approximately $2,300–3,300, with the Reference Pure kit itself accounting for the largest share at $1,600–2,300 used.
 
 **Q: Is Vengeance Falls heavier or more technical than Shogun?**
 
@@ -121,4 +121,4 @@ A: Vengeance Falls debuted at #15 on the US Billboard 200 and reached #23 on the
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

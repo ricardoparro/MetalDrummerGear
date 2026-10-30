@@ -22,7 +22,7 @@
 | [Abe Cunningham](https://metalforge.io/cymbals/setups/abe-cunningham) | Deftones | Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China) |
 | [Alex Bent](https://metalforge.io/cymbals/setups/alex-bent) | ex-Trivium / Arkaik / Dragonlord | Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China) |
 | [Art Cruz](https://metalforge.io/cymbals/setups/art-cruz) | Lamb of God | Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell) |
-| [Ben Koller](https://metalforge.io/cymbals/setups/ben-koller) | Converge / Mutoid Man / Killer Be Killed | Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China) |
+| [Ben Koller](https://metalforge.io/cymbals/setups/ben-koller) | Converge / Mutoid Man / Killer Be Killed | Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China) |
 | [Bill Ward](https://metalforge.io/cymbals/setups/bill-ward) | Black Sabbath | Zildjian Avedis Series (15" Hi-Hats, 18" & 20" Crashes, 24" Ride, 18" China) |
 | [Frost](https://metalforge.io/cymbals/setups/frost) | Satyricon / 1349 | Zildjian A Series (14" A New Beat Hi-Hats, 16", 17", 18" A Series Crashes, 22" A Series Ride, 18" A Series China) |
 | [Gavin Harrison](https://metalforge.io/cymbals/setups/gavin-harrison) | Porcupine Tree / King Crimson | Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China) |
@@ -78,4 +78,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Zildjian, 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

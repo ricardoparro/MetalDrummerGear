@@ -67,4 +67,4 @@ A: Raymond Herrera played a Tama Starclassic kit (with triggering) with a trigge
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

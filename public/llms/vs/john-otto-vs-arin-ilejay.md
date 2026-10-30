@@ -26,7 +26,7 @@ Limp Bizkit's John Otto vs Avenged Sevenfold's Arin Ilejay — jazz-schooled hip
 
 ## Playing Style
 
-John Otto co-founded Limp Bizkit in Jacksonville, Florida, in 1994 and has remained the band's only drummer ever since, driving the rap-metal sound that carried "Significant Other" (1999) and "Chocolate Starfish and the Hot Dog Flavored Water" (2000) to diamond and multi-platinum status. Arin Ilejay joined Avenged Sevenfold in 2011 following the death of founding drummer Jimmy "The Rev" Sullivan, recording the band's sole album with him, "Hail to the King" (2013), which debuted at No. 1 on the Billboard 200 before his 2015 departure.
+John Otto co-founded Limp Bizkit in Jacksonville, Florida, in 1994 and has been the band's drummer on every album and nearly every tour since, aside from a brief 2005 fill-in by Sammy Siegler, driving the rap-metal sound that carried "Significant Other" (1999) and "Chocolate Starfish and the Hot Dog Flavored Water" (2000) to diamond and multi-platinum status. Arin Ilejay joined Avenged Sevenfold in 2011 following the death of founding drummer Jimmy "The Rev" Sullivan, recording the band's sole album with him, "Hail to the King" (2013), which debuted at No. 1 on the Billboard 200 before his 2015 departure.
 
 ## Technique
 
@@ -38,16 +38,16 @@ John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic 
 
 ## Influence & Legacy
 
-Otto's hip-hop-informed pocket became one of nu-metal's defining rhythmic templates, anchoring one of the best-selling rock acts of the late 1990s and early 2000s across more than three decades without a lineup change behind the kit. Ilejay's brief but commercially massive run gave Avenged Sevenfold its only post-Rev Sullivan No. 1 album, and though his current touring activity is less publicly documented since leaving the band, "Hail to the King" remains a fixture of the group's catalog.
+Otto's hip-hop-informed pocket became one of nu-metal's defining rhythmic templates, anchoring one of the best-selling rock acts of the late 1990s and early 2000s across more than three decades. Ilejay's brief but commercially massive run gave Avenged Sevenfold its only post-Rev Sullivan No. 1 album, and though his current touring activity is less publicly documented since leaving the band, "Hail to the King" remains a fixture of the group's catalog.
 
 ## Verdict
 
-John Otto and Arin Ilejay both drove Billboard No. 1 albums for genre-defining bands, but from opposite technical philosophies. Otto's jazz-schooled, hip-hop-inflected pocket has anchored Limp Bizkit's rap-metal groove for over three decades without interruption, while Ilejay's comparatively brief 2011-2015 stint delivered Avenged Sevenfold a chart-topping, deliberately classic-metal record before he moved on. Otto is nu-metal's dependable groove architect; Ilejay is a short-tenure power drummer who still left a No. 1 album behind him.
+John Otto and Arin Ilejay both drove Billboard No. 1 albums for genre-defining bands, but from opposite technical philosophies. Otto's jazz-schooled, hip-hop-inflected pocket has anchored Limp Bizkit's rap-metal groove for over three decades, aside from a brief 2005 absence, while Ilejay's comparatively brief 2011-2015 stint delivered Avenged Sevenfold a chart-topping, deliberately classic-metal record before he moved on. Otto is nu-metal's dependable groove architect; Ilejay is a short-tenure power drummer who still left a No. 1 album behind him.
 
 ## FAQ
 
 **Q: How do John Otto and Arin Ilejay compare as drummers?**
-A: John Otto has been Limp Bizkit's only drummer since co-founding the band in 1994, known for jazz-schooled, hip-hop-influenced groove and pocket. Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, bringing a straightforward, classic-metal-influenced power style to the band's "Hail to the King" album.
+A: John Otto has been Limp Bizkit's drummer on every album and nearly every tour since co-founding the band in 1994 — Sammy Siegler filled in for much of the 2005 EP "The Unquestionable Truth (Part 1)" while Otto was unavailable — known for jazz-schooled, hip-hop-influenced groove and pocket. Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, bringing a straightforward, classic-metal-influenced power style to the band's "Hail to the King" album.
 
 **Q: What gear do John Otto and Arin Ilejay use?**
 A: John Otto plays an OCDP Custom Type 5 Acrylic kit with dual OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series bass drum pedals. Arin Ilejay played a DW Collector's Series kit with a DW Collector's Series snare and Zildjian A Custom cymbals, powered by a DW 9000 Series double pedal, during his 2011-2015 Avenged Sevenfold tenure.
@@ -67,4 +67,4 @@ A: Arin Ilejay joined Avenged Sevenfold in 2011 following the death of founding 
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Igor Cavalera co-created Sepultura's iconic sound — his tribal-thrash ident
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

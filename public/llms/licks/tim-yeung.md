@@ -31,9 +31,9 @@ Divine Heresy's 2007 debut album *Bleed the Fifth* introduced Tim Yeung to a wid
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Sabian AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (pedals)
+- Tama Speed Cobra 910 Double Pedal (pedals)
 - Vic Firth 5B Sticks (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll)
@@ -61,9 +61,9 @@ Tim Yeung built his reputation across multiple extreme metal bands before Divine
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Sabian AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (pedals)
+- Tama Speed Cobra 910 Double Pedal (pedals)
 - Evans EMAD Bass Drum Heads (drums)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
@@ -91,9 +91,9 @@ While Tim Yeung is primarily celebrated for blast beat endurance and double bass
 
 ### Gear Used
 
-- Pearl Reference Series Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Sabian AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (pedals)
+- Tama Speed Cobra 910 Double Pedal (pedals)
 - Vic Firth 5B Sticks (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
@@ -111,4 +111,4 @@ Tim Yeung's style is defined by precision, timing, and genre-defining grooves. K
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

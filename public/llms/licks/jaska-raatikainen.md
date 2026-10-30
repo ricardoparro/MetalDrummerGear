@@ -195,4 +195,4 @@ Jaska Raatikainen's style is defined by precision, timing, and genre-defining gr
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

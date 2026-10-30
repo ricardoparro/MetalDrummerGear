@@ -34,7 +34,7 @@ Talley's fast, precise single-stroke blasting and gravity-blast technique became
 
 ## Key Differences
 
-Kevin plays a Pearl Masters Custom kit with a 14x5.5" Pearl Masters maple snare, Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride), and a Pearl Eliminator double pedal. Daray plays a Tama Starclassic Performer B/B kit (Piano Black finish) with a S.L.P. Black Brass LBR1465 snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon Drive double bass pedal. Talley's fast, precise single-stroke blasting and gravity-blast technique became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning his additional work with Chimaira and Suffocation. Daray drives rapid-fire double bass work through a Pearl Demon Drive double pedal, bringing Vader's stripped-down technical death metal speed into Dimmu Borgir's orchestrated, large-scale symphonic black metal productions.
+Kevin plays a Pearl Masters Custom kit with a 14x6.5" Pearl Masters steel snare, Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride), and a Pearl Eliminator double pedal. Daray plays a Tama Starclassic Performer B/B kit (Piano Black finish) with a S.L.P. Black Brass LBR1465 snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon Drive double bass pedal. Talley's fast, precise single-stroke blasting and gravity-blast technique became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning his additional work with Chimaira and Suffocation. Daray drives rapid-fire double bass work through a Pearl Demon Drive double pedal, bringing Vader's stripped-down technical death metal speed into Dimmu Borgir's orchestrated, large-scale symphonic black metal productions.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Kevin Talley plays a Pearl Masters Custom kit with a 14x6.5" Pearl Masters st
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

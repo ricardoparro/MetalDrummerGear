@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers' Signature & Standout Pedal Lines — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-pedal-lines)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-pedal-lines)
 
 ---
 
@@ -152,4 +152,4 @@ A: Derek Roddy pairs a standard Tama Speed Cobra 910 Double Pedal with his own i
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -34,4 +34,4 @@ A: Joey Jordison plays the Pearl Joey Jordison Signature — a signature snare b
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

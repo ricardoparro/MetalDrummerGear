@@ -89,7 +89,7 @@ A: Isaac Lamb's pedal brand and model are not publicly documented. No verified s
 
 **Q: What band is Isaac Lamb the drummer for?**
 
-A: Isaac Lamb is the founding and only drummer of Kublai Khan TX, a beatdown hardcore and metalcore band formed in Sherman, Texas in 2009. As the sole drummer in the band's history, Lamb has been the rhythmic identity of Kublai Khan TX across all of their releases: their self-titled debut (2012), Balancing Survival and Happiness (2014), Nomad (2017, their Rise Records debut), and Absolute (2019). His groove-first, power-through-restraint drumming philosophy defines the band's sound as fundamentally as any of their guitarists or vocalists. See [Isaac Lamb's full profile and career chronology at MetalForge](/drummer/isaac-lamb).
+A: Isaac Lamb is the founding and only drummer of Kublai Khan TX, a beatdown hardcore and metalcore band formed in Sherman, Texas in 2009. As the sole drummer in the band's history, Lamb has been the rhythmic identity of Kublai Khan TX across all of their releases: their self-released Youth War EP (2010), their debut full-length Balancing Survival and Happiness (2014), Nomad (2017, their Rise Records debut), and Absolute (2019). His groove-first, power-through-restraint drumming philosophy defines the band's sound as fundamentally as any of their guitarists or vocalists. See [Isaac Lamb's full profile and career chronology at MetalForge](/drummer/isaac-lamb).
 
 ## Related Articles
 
@@ -105,4 +105,4 @@ A: Isaac Lamb is the founding and only drummer of Kublai Khan TX, a beatdown har
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

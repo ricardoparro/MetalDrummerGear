@@ -41,4 +41,4 @@ A: Scott Travis plays Paiste cymbals: 14" RUDE Hi-Hats, 18" RUDE Crash, 19" RUDE
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

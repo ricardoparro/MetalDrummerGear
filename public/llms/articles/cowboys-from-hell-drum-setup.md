@@ -25,7 +25,7 @@ This article breaks down every piece of gear Vinnie Paul used during the Cowboys
 - **Drums:** Tama Tama Artstar II (Piano Black finish)
 - **Snare:** Tama Tama Artstar Steel Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian AA / AAX
-- **Hardware / Pedals:** Double pedal (brand not documented for this era); Tama Titan Hi-Hat Stand; Roc-N-Soc Standard; Vic Firth American Classic 2B (played backwards)
+- **Hardware / Pedals:** Double pedal (brand not documented for this era); Tama Titan Hi-Hat Stand; Roc-N-Soc Standard; Vic Firth American Classic 5B (played backwards)
 - **Heads:** Remo Pinstripe Clear (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for snap and attack
 
@@ -123,4 +123,4 @@ A: At the time of recording in 1990, a Tama Artstar II kit was valued at approxi
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

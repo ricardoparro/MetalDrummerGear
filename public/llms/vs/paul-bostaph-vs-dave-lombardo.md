@@ -34,7 +34,7 @@ Lombardo's technique effectively invented extreme thrash double bass — his rel
 
 ## Key Differences
 
-Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama Dave Lombardo Signature 14x6.5" snare and Paiste RUDE & 2002 Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China), using Promark Dave Lombardo Signature 2Bx sticks. Paul Bostaph played a Pearl Masters Maple Complete (MCX) kit with a Pearl Masters Steel 14x6.5" snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China) on Repentless (2015), driven by a Pearl Eliminator double pedal and Vater Power 5B sticks. Lombardo's technique effectively invented extreme thrash double bass — his relentless, high-speed kick patterns on "Reign in Blood" set a benchmark that death and thrash drummers spent decades trying to match, combining raw power with surprising groove and swing for a self-taught player. Bostaph brings machine-like consistency and controlled precision — his double bass at thrash tempos is metronomic and his fills are tight and deliberate, honoring Lombardo's template while adding his own disciplined, workmanlike attack that let Slayer tour and record for years without missing a beat.
+Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China), using Promark Dave Lombardo Signature 2Bx sticks. Paul Bostaph played a Pearl Masters Maple Complete (MCX) kit with a Pearl Masters Steel 14x6.5" snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China) on Repentless (2015), driven by a Pearl Eliminator double pedal and Vater Power 5B sticks. Lombardo's technique effectively invented extreme thrash double bass — his relentless, high-speed kick patterns on "Reign in Blood" set a benchmark that death and thrash drummers spent decades trying to match, combining raw power with surprising groove and swing for a self-taught player. Bostaph brings machine-like consistency and controlled precision — his double bass at thrash tempos is metronomic and his fills are tight and deliberate, honoring Lombardo's template while adding his own disciplined, workmanlike attack that let Slayer tour and record for years without missing a beat.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Dave Lombardo recorded "Show No Mercy" (1983), "Hell Awaits" (1985), "Reign i
 A: Paul Bostaph recorded four studio albums with Slayer: "Divine Intervention" (1994), "Undisputed Attitude" (1996, a punk covers album), "Diabolus in Musica" (1998), and "Repentless" (2015). He also played Slayer's final-ever show in Los Angeles in November 2019.
 
 **Q: What gear do Paul Bostaph and Dave Lombardo use?**
-A: Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama Dave Lombardo Signature snare and Paiste RUDE & 2002 Series cymbals, using Promark Dave Lombardo Signature 2Bx sticks. Paul Bostaph played a Pearl Masters Maple Complete (MCX) kit with a Pearl Masters Steel snare and Sabian AAX Series cymbals on Repentless (2015), using Vater Power 5B sticks.
+A: Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. G-Maple snare and Paiste RUDE & 2002 Series cymbals, using Promark Dave Lombardo Signature 2Bx sticks. Paul Bostaph played a Pearl Masters Maple Complete (MCX) kit with a Pearl Masters Steel snare and Sabian AAX Series cymbals on Repentless (2015), using Vater Power 5B sticks.
 
 ---
 
@@ -67,4 +67,4 @@ A: Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama Dave Lomb
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

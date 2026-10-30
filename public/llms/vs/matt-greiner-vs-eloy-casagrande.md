@@ -34,7 +34,7 @@ Greiner's technique draws on jazz-informed dynamics and meticulous compositional
 
 ## Key Differences
 
-Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride), powered by a Tama Iron Cobra double pedal. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting rather than raw speed alone. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's groove-driven Brazilian thrash lineage and Slipknot's maximalist live show without losing precision.
+Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride), powered by a Tama Iron Cobra double pedal. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting rather than raw speed alone. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's groove-driven Brazilian thrash lineage and Slipknot's maximalist live show without losing precision.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signatur
 A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer. Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot in 2024.
 
 **Q: Does Matt Greiner have a signature drum or stick line?**
-A: Yes — Matt Greiner has his own signature Pearl 14x6" Steel snare drum designed for metalcore applications, along with a Vic Firth Matt Greiner Signature stick model.
+A: Yes — Pearl released a Matt Greiner signature 14x6" steel snare drum in 2017, tied to his earlier Reference Pure-era Pearl setup before his 2016 switch to Mapex. He also has a Vic Firth Matt Greiner Signature stick model.
 
 ---
 
@@ -67,4 +67,4 @@ A: Yes — Matt Greiner has his own signature Pearl 14x6" Steel snare drum desig
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

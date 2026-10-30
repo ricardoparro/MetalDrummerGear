@@ -34,7 +34,7 @@ Cavalera's technique shifted across his career from hard-hitting, precise thrash
 
 ## Key Differences
 
-Igor currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals, a setup adopted in 2018; from 2007-2018 he played a Tama Starclassic Maple kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China), driven by a Tama Iron Cobra double pedal and Vic Firth American Classic 5B sticks. Dave also plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China), driven by a Tama Iron Cobra 900 double pedal and Promark Dave Lombardo Signature 2Bx sticks — Sepultura- and Slayer-era peers whose Tama/Paiste rigs converged independently before Igor's 2018 move to Yamaha and Zildjian. Cavalera's technique shifted across his career from hard-hitting, precise thrash timing to tribal polyrhythm — his playing on "Roots Bloody Roots" and "Refuse/Resist" blends metal groove with Brazilian percussion patterns rarely heard in the genre. Lombardo's technique centers on blistering, consistent double bass drumming delivered at tempos that redefined what extreme metal drumming could sound like — "Angel of Death" and "Raining Blood" remain benchmark recordings for speed and stamina that influenced virtually every death metal drummer who followed.
+Igor currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals, a setup adopted in 2018; from 2006-2018 he played a ddrum Hybrid Kit with Zildjian A Custom cymbals (Cavalera Conspiracy era). Dave also plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China), driven by a Tama Iron Cobra 900 double pedal and Promark Dave Lombardo Signature 2Bx sticks — Sepultura- and Slayer-era peers whose paths diverged on gear well before Igor's 2018 move to Yamaha and Zildjian. Cavalera's technique shifted across his career from hard-hitting, precise thrash timing to tribal polyrhythm — his playing on "Roots Bloody Roots" and "Refuse/Resist" blends metal groove with Brazilian percussion patterns rarely heard in the genre. Lombardo's technique centers on blistering, consistent double bass drumming delivered at tempos that redefined what extreme metal drumming could sound like — "Angel of Death" and "Raining Blood" remain benchmark recordings for speed and stamina that influenced virtually every death metal drummer who followed.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Igor Cavalera's signature is tribal groove metal drumming that layers Brazili
 A: Igor Cavalera co-founded Sepultura in 1984 and played with the band until 2006, later forming Cavalera Conspiracy with his brother Max and briefly joining Soulwax. Dave Lombardo was Slayer's original drummer (1981-1986, 1987-1992, 2001-2013) and has since played with Suicidal Tendencies, Dead Cross, Mr. Bungle, and Fantômas.
 
 **Q: What gear do Igor Cavalera and Dave Lombardo use?**
-A: The two converged on remarkably similar rigs from 2007-2018: Igor Cavalera used a Tama Starclassic Maple kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals (during Sepultura's 1993-1996 Chaos A.D./Roots era he played Pearl Masters Custom drums). Igor has since switched to a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018). Dave Lombardo still plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals, though with his own signature Promark 2Bx sticks.
+A: Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018); from 2006-2018 he played a ddrum Hybrid Kit with Zildjian A Custom cymbals (Cavalera Conspiracy era), and during Sepultura's 1993-1996 Chaos A.D./Roots era he played Pearl Masters Custom drums. Dave Lombardo still plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals, with his own signature Promark 2Bx sticks.
 
 ---
 
@@ -67,4 +67,4 @@ A: The two converged on remarkably similar rigs from 2007-2018: Igor Cavalera us
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

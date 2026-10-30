@@ -26,7 +26,7 @@ Porcupine Tree/King Crimson's Gavin Harrison vs Mayhem's Hellhammer. Meticulous 
 
 ## Playing Style
 
-Gavin Harrison built his reputation as an in-demand session and touring drummer for artists including Iggy Pop and Kevin Ayers before joining Porcupine Tree in 2002, where his polyrhythmic sophistication shaped "In Absentia" (2002), "Deadwing" (2005), and "Fear of a Blank Planet" (2007); he joined progressive rock institution King Crimson's three-drummer lineup in 2008 and has also drummed for The Pineapple Thief since 2016. Hellhammer (born Jan Axel Blomberg, August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — while running a parallel career with Dimmu Borgir since 1999 and co-founding Arcturus.
+Gavin Harrison built his reputation as an in-demand session and touring drummer for artists including Iggy Pop and Kevin Ayers before joining Porcupine Tree in 2002, where his polyrhythmic sophistication shaped "In Absentia" (2002), "Deadwing" (2005), and "Fear of a Blank Planet" (2007); he joined progressive rock institution King Crimson's three-drummer lineup in 2008 and has also drummed for The Pineapple Thief since 2016. Hellhammer (born Jan Axel Blomberg, August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — having run a parallel career with Dimmu Borgir from 1999 to 2013 and co-founded Arcturus.
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Gavin Harrison (Porcupine Tree, King Crimson) is known for meticulous polyrhy
 A: Gavin Harrison plays a Sonor SQ2 kit with his signature Sonor 14x5.25" brass snare and Zildjian K Custom Special Dry cymbals. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal.
 
 **Q: What bands are Gavin Harrison and Hellhammer known for?**
-A: Gavin Harrison is best known for Porcupine Tree (since 2002) and King Crimson (since 2008), and also drums for The Pineapple Thief. Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside co-founding Arcturus.
+A: Gavin Harrison is best known for Porcupine Tree (since 2002) and King Crimson (since 2008), and also drums for The Pineapple Thief. Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside co-founding Arcturus.
 
 **Q: Does Hellhammer play barefoot?**
 A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds with Mayhem and Dimmu Borgir. Gavin Harrison plays in standard footwear across his session, Porcupine Tree, and King Crimson work.
@@ -67,4 +67,4 @@ A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedbac
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

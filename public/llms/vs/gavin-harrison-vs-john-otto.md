@@ -67,4 +67,4 @@ A: Yes — both drummers have jazz backgrounds. Gavin Harrison built his early c
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

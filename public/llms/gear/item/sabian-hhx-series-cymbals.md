@@ -39,4 +39,4 @@ A: Tomas Haake, Mike Portnoy use the Sabian HHX Series Cymbals.
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

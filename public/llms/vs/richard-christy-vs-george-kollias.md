@@ -67,4 +67,4 @@ A: Yes — George Kollias is one of extreme metal's most prominent drumming educ
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

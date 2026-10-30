@@ -34,7 +34,7 @@ Grossmann's technique is rooted in classical percussion training and open-handed
 
 ## Key Differences
 
-Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors 14x5.5" Maple snare and Meinl Byzance Series cymbals (14" Dual Hi-Hats, various crashes, 22" Foundry Reserve Ride), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Tim Yeung plays a Tama Starclassic Bubinga kit, typically paired with a 14"x6.5" metal snare for maximum cut, Sabian AAX/HHX cymbals chosen for bright projection, and a Tama Speed Cobra 910 double pedal — a setup built for consistency at extreme tempos. Grossmann's technique is rooted in classical percussion training and open-handed playing — he often leads with his left hand on hi-hat or ride rather than crossing hands, unlocking independent limb combinations that let him construct polyrhythmic patterns with genuine compositional architecture rather than pure technical display. Yeung's technique prioritizes sustained extreme velocity and unwavering consistency — his blast beats and double bass work stay clean and powerful across entire albums and tours, a template drawn directly from Pete Sandoval's gravity-blast innovations that made him Morbid Angel's natural successor when Sandoval's health forced him out.
+Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors 14x5.5" Maple snare and Meinl Byzance Series cymbals (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Tim Yeung plays a Tama Starclassic Bubinga kit, typically paired with a 14"x6.5" metal snare for maximum cut, Sabian AAX/HHX cymbals chosen for bright projection, and a Tama Speed Cobra 910 double pedal — a setup built for consistency at extreme tempos. Grossmann's technique is rooted in classical percussion training and open-handed playing — he often leads with his left hand on hi-hat or ride rather than crossing hands, unlocking independent limb combinations that let him construct polyrhythmic patterns with genuine compositional architecture rather than pure technical display. Yeung's technique prioritizes sustained extreme velocity and unwavering consistency — his blast beats and double bass work stay clean and powerful across entire albums and tours, a template drawn directly from Pete Sandoval's gravity-blast innovations that made him Morbid Angel's natural successor when Sandoval's health forced him out.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors maple 
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

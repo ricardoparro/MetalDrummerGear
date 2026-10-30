@@ -67,4 +67,4 @@ A: No — John Otto plays with a single-pedal setup, relying on jazz-schooled sy
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

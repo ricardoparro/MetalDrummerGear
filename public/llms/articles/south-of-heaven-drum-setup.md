@@ -105,7 +105,7 @@ A: South of Heaven requires a different kind of difficulty than Reign in Blood. 
 
 **Q: How does South of Heaven fit in the Lombardo-era Slayer discography?**
 
-A: South of Heaven (1988) sits between Reign in Blood (1986) and Seasons in the Abyss (1990) in the Lombardo-era Slayer arc. It represents the midpoint of a deliberate tempo evolution: Show No Mercy (1983) was raw and fast; Reign in Blood (1986) was the extreme speed peak; South of Heaven (1988) introduced groove and mid-pace dynamics; Seasons in the Abyss (1990) consolidated that range. After South of Heaven, Lombardo left Slayer for the first time, not returning until Diabolus in Musica (1998) and then the Grammy-winning Christ Illusion (2006). Understanding South of Heaven's place in the arc explains why Lombardo's playing on that album represents a pivot point in his documented development.
+A: South of Heaven (1988) sits between Reign in Blood (1986) and Seasons in the Abyss (1990) in the Lombardo-era Slayer arc. It represents the midpoint of a deliberate tempo evolution: Show No Mercy (1983) was raw and fast; Reign in Blood (1986) was the extreme speed peak; South of Heaven (1988) introduced groove and mid-pace dynamics; Seasons in the Abyss (1990) consolidated that range. After South of Heaven, Lombardo left Slayer for the first time, not returning until the Grammy-winning Christ Illusion (2006). Understanding South of Heaven's place in the arc explains why Lombardo's playing on that album represents a pivot point in his documented development.
 
 ## Related Articles
 
@@ -125,4 +125,4 @@ A: South of Heaven (1988) sits between Reign in Blood (1986) and Seasons in the 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

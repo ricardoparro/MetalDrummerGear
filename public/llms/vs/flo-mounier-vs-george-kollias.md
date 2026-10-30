@@ -26,15 +26,15 @@ Cryptopsy's Flo Mounier vs Nile's George Kollias. The ultimate technical death m
 
 ## Playing Style
 
-Flo Mounier defined technical death metal blast beats with Cryptopsy — his *None So Vile* performance combines extreme gravity blast velocity with jazz-influenced ghost notes and compositional complexity that remains one of the most demanding drum recordings in extreme metal history. George Kollias delivers ancient-Egyptian-themed technical brutality with Nile — sustained blast beats at 280+ BPM with heel-toe double bass technique, combining mechanical precision with death metal complexity across some of the genre's most demanding compositions.
+Flo Mounier defined technical death metal blast beats with Cryptopsy — his *None So Vile* performance combines extreme gravity blast velocity with jazz-influenced ghost notes and compositional complexity that remains one of the most demanding drum recordings in extreme metal history. George Kollias delivers ancient-Egyptian-themed technical brutality with Nile — sustained blast beats at 240+ BPM with heel-toe double bass technique, combining mechanical precision with death metal complexity across some of the genre's most demanding compositions.
 
 ## Technique
 
-Mounier employs a gravity blast technique refined for sustained technical speed, combining wrist tension control with jazz-influenced timing that produces swing and fluidity beneath brutal velocity — making his playing feel musical even at extreme tempos. Kollias co-designed the Pearl Demon XR pedal for maximum double bass speed and uses heel-toe technique to sustain blast beats at 280+ BPM across marathon Nile compositions that demand extraordinary physical endurance.
+Mounier employs a gravity blast technique refined for sustained technical speed, combining wrist tension control with jazz-influenced timing that produces swing and fluidity beneath brutal velocity — making his playing feel musical even at extreme tempos. Kollias co-designed the Pearl Demon XR pedal for maximum double bass speed and uses heel-toe technique to sustain blast beats at 240+ BPM across marathon Nile compositions that demand extraordinary physical endurance.
 
 ## Key Differences
 
-Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) and a Tama Speed Cobra 910 double pedal. George Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian A Custom Series cymbals and the Pearl Demon XR double pedal — co-designed for the extreme-tempo double bass demands of Nile's compositions. Mounier employs a gravity blast technique refined for sustained technical speed, combining wrist tension control with jazz-influenced timing that produces swing and fluidity beneath brutal velocity — making his playing feel musical even at extreme tempos. Kollias co-designed the Pearl Demon XR pedal for maximum double bass speed and uses heel-toe technique to sustain blast beats at 280+ BPM across marathon Nile compositions that demand extraordinary physical endurance.
+Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) and a Tama Speed Cobra 910 double pedal. George Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian A Custom Series cymbals and the Pearl Demon XR double pedal — co-designed for the extreme-tempo double bass demands of Nile's compositions. Mounier employs a gravity blast technique refined for sustained technical speed, combining wrist tension control with jazz-influenced timing that produces swing and fluidity beneath brutal velocity — making his playing feel musical even at extreme tempos. Kollias co-designed the Pearl Demon XR pedal for maximum double bass speed and uses heel-toe technique to sustain blast beats at 240+ BPM across marathon Nile compositions that demand extraordinary physical endurance.
 
 ## Influence & Legacy
 
@@ -42,12 +42,12 @@ Flo Mounier's *None So Vile* is regularly cited as one of the greatest extreme m
 
 ## Verdict
 
-Flo Mounier and George Kollias are the two great speed kings of technical death metal drumming. Mounier holds the edge in peak velocity and technical death metal complexity — *None So Vile* remains a benchmark 30 years later with gravity blast tempos that still shock listeners. Kollias holds the edge in sustained double bass endurance and heel-toe technique refinement — his ability to maintain 280+ BPM blast beats across full Nile sets is extraordinary. The debate is gravity blast peak speed vs heel-toe endurance: two different approaches to achieving inhuman extreme metal tempos.
+Flo Mounier and George Kollias are the two great speed kings of technical death metal drumming. Mounier holds the edge in peak velocity and technical death metal complexity — *None So Vile* remains a benchmark 30 years later with gravity blast tempos that still shock listeners. Kollias holds the edge in sustained double bass endurance and heel-toe technique refinement — his ability to maintain 240+ BPM blast beats across full Nile sets is extraordinary. The debate is gravity blast peak speed vs heel-toe endurance: two different approaches to achieving inhuman extreme metal tempos.
 
 ## FAQ
 
 **Q: Who is faster: Flo Mounier or George Kollias?**
-A: Both are among the fastest drummers in metal history. Flo Mounier's gravity blast technique on None So Vile set records for extreme blast beat velocity. George Kollias sustains 280+ BPM heel-toe blast beats across full-length Nile compositions. Mounier is considered faster at peak velocity; Kollias is renowned for sustaining extreme tempos longer.
+A: Both are among the fastest drummers in metal history. Flo Mounier's gravity blast technique on None So Vile set records for extreme blast beat velocity. George Kollias sustains 240+ BPM heel-toe blast beats across full-length Nile compositions. Mounier is considered faster at peak velocity; Kollias is renowned for sustaining extreme tempos longer.
 
 **Q: What is the difference between gravity blast and heel-toe technique?**
 A: A gravity blast uses stick momentum and rebound to achieve extreme speed without muscular force — Flo Mounier's speciality. Heel-toe technique applies to the bass drum pedal, using the heel and toe of the foot in sequence to double the number of strokes per pedal motion — George Kollias's speciality for extreme double bass speed.
@@ -67,4 +67,4 @@ A: Cryptopsy's None So Vile (1996) is universally considered Flo Mounier's defin
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

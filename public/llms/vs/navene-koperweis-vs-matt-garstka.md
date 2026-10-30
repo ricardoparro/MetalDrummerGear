@@ -34,7 +34,7 @@ Koperweis employed machine-precise polyrhythms and blast-beat fluency shaped by 
 
 ## Key Differences
 
-Navene Koperweis endorses DW Drums and Meinl Byzance cymbals, running a DW Performance Series kit with a DW Performance 14x6.5" steel snare and a five-piece Meinl Byzance Extra Dry cymbal spread, paired with Vic Firth American Classic 5B sticks. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride), powered by a Tama Speed Cobra 910 Double Pedal. Koperweis employed machine-precise polyrhythms and blast-beat fluency shaped by his technical death metal roots, blending that foundation with an electronic production sensibility that gave Animals as Leaders' early material its distinctive djent-meets-technical-death-metal character. Garstka draws on linear independence, polymetric phrasing, and ghost-note-dense double bass shaped by jazz-fusion training, giving the band's constantly shifting time signatures a fluid, almost improvisational precision that built on rather than replicated Koperweis's foundational template.
+Navene Koperweis endorses DW Drums and Meinl Byzance cymbals, running a DW Performance Series kit with a DW Performance 14x6.5" steel snare and a five-piece Meinl Byzance Extra Dry cymbal spread, paired with Vic Firth American Classic 5B sticks. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride), powered by a Tama Speed Cobra 910 Double Pedal. Koperweis employed machine-precise polyrhythms and blast-beat fluency shaped by his technical death metal roots, blending that foundation with an electronic production sensibility that gave Animals as Leaders' early material its distinctive djent-meets-technical-death-metal character. Garstka draws on linear independence, polymetric phrasing, and ghost-note-dense double bass shaped by jazz-fusion training, giving the band's constantly shifting time signatures a fluid, almost improvisational precision that built on rather than replicated Koperweis's foundational template.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Navene Koperweis and Matt Garstka share one of progressive metal's most direct l
 A: Yes. Navene Koperweis drummed for Animals as Leaders through the "Weightless" (2011) touring cycle before departing in 2012. Matt Garstka took over the drum chair that year and has recorded every Animals as Leaders album since, including "The Joy of Motion" (2014) and "The Madness of Many" (2016).
 
 **Q: What gear do Navene Koperweis and Matt Garstka use?**
-A: Navene Koperweis plays a DW Performance Series kit with a DW Performance steel snare and Meinl Byzance Extra Dry cymbals. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals, powered by a Tama Speed Cobra 910 Double Pedal.
+A: Navene Koperweis plays a DW Performance Series kit with a DW Performance steel snare and Meinl Byzance Extra Dry cymbals. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance Series cymbals, powered by a Tama Speed Cobra 910 Double Pedal.
 
 **Q: What did Navene Koperweis do after leaving Animals as Leaders?**
 A: After departing Animals as Leaders in 2012, Navene Koperweis went on to found progressive metal band Entheos in 2015, building a parallel career as a producer and session drummer for acts including Job for a Cowboy and Machine Head.
@@ -67,4 +67,4 @@ A: Yes — Matt Garstka's playing blends jazz fusion, electronic music, and prog
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

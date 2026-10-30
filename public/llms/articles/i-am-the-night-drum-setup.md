@@ -27,7 +27,7 @@ This article looks at what's actually documented about Vinnie's setup during the
 - **Drums:** Tama Tama Imperialstar (Stage-standard lacquer finish)
 - **Snare:** Tama Tama Steel 14" x 5.5", 14" x 5.5"
 - **Cymbals:** Zildjian — Zildjian A
-- **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Vic Firth American Classic 2B (played backwards)
+- **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Vic Firth American Classic 5B (played backwards)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Clear (snare side)
 - **Snare tuning:** Medium-high tension for snap and cut
 
@@ -106,4 +106,4 @@ A: By independent-label standards, yes. I Am the Night reportedly sold more than
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

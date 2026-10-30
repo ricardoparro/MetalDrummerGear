@@ -22,7 +22,7 @@ A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14"x6.5
 A: Matt Greiner plays a Greiner & Kilmer Custom kit — co-designed with fellow drummer Kaleb Kilmer after the pair founded their own drum company in 2012 — with a matching Greiner & Kilmer Custom 14"x6.5" Maple snare, driven by a DW 9000 Series double pedal, Vic Firth American Classic 5A sticks, and Evans heads.
 
 **Q: What cymbals do Bill Ward and Matt Greiner use?**
-A: Bill Ward used Paiste 2002 & Giant Beat Series cymbals (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, a 24" 2002 Ride, 18" 2002 China). Matt Greiner uses Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes).
+A: Bill Ward used Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China). Matt Greiner uses Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes).
 
 **Q: What bands are Bill Ward and Matt Greiner known for?**
 A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006. Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer.

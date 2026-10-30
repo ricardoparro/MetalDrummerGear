@@ -22,7 +22,7 @@ A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14"x6.5
 A: Mario Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums — forgoing a double pedal for a more organic feel — and a Tama S.L.P. 14"x6.5" G-Maple snare, powered by a Tama Iron Cobra 900 Power Glide double pedal and Tama Mario Duplantier Signature sticks.
 
 **Q: What cymbals do Bill Ward and Mario Duplantier use?**
-A: Bill Ward used Paiste 2002 & Giant Beat Series cymbals (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, a 24" 2002 Ride, 18" 2002 China). Mario Duplantier uses a sprawling Zildjian array (14" K Sweet & 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, a 21" Z Custom Mega Bell Ride, and 18"/20" Chinas).
+A: Bill Ward used Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China). Mario Duplantier uses a sprawling Zildjian array (14" K Sweet & 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, a 21" Z Custom Mega Bell Ride, and 18"/20" Chinas).
 
 **Q: What bands are Bill Ward and Mario Duplantier known for?**
 A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006. Mario Duplantier co-founded Gojira with his brother Joe Duplantier in 1996 and remains the band's drummer.

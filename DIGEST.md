@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-10-30 08:16 UTC · Window: last 12h*
+*Generated 2026-10-30 19:09 UTC · Window: last 12h*
 
 ---
 
@@ -8,27 +8,27 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 7 |
+| Open `ai-fix` issues | **24** |
+| Open `seo-proposal` issues | 12 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **13** |
-| Issues closed in window | 12 |
-| Commits to `main` in window | 17 |
+| Open PRs | 1 |
+| PRs merged in window | **8** |
+| Issues closed in window | 7 |
+| Commits to `main` in window | 13 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **409** |
-| Sessions | 464 |
-| Page views | 693 |
-| Engagement rate | 62.93% |
-| GSC impressions | 16,093 |
-| GSC clicks | 208 |
-| GSC CTR | 1.29% |
-| GSC avg position | 9.2 |
+| Active users | **424** |
+| Sessions | 483 |
+| Page views | 713 |
+| Engagement rate | 62.94% |
+| GSC impressions | 19,105 |
+| GSC clicks | 259 |
+| GSC CTR | 1.36% |
+| GSC avg position | 9.1 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~2,970 |
-| Est. ad revenue / mo | **~€8.91** |
+| Est. pageviews / mo | ~3,056 |
+| Est. ad revenue / mo | **~€9.17** |
 | Progress to €1000/mo | 0.9% |
-| Pageviews/mo needed for €1000 | ~333,333 (112× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (109× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -74,21 +74,21 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 27 | 27 | 0 |
-| Verify YouTube Videos | 15 | 8 | 7 |
-| Verify Data Modules | 14 | 7 | 7 |
-| Check Sitemap Drift | 14 | 7 | 7 |
-| Check llms freshness | 8 | 0 | 8 |
-| Perf Budget Gate | 7 | 0 | 7 |
-| .github/workflows/check-vercel-rewrites.yml | 7 | 0 | 7 |
-| Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
-| Loop Watchdog | 1 | 1 | 0 |
-| SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
-| CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| PR Merger | 50 | 50 | 0 |
+| Verify Data Modules | 7 | 3 | 4 |
+| Verify YouTube Videos | 7 | 3 | 4 |
+| Check Sitemap Drift | 6 | 3 | 3 |
+| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
+| .github/workflows/check-vercel-rewrites.yml | 4 | 0 | 4 |
+| Health Check | 4 | 4 | 0 |
+| Check llms freshness | 4 | 0 | 4 |
+| Perf Budget Gate | 3 | 0 | 3 |
+| Daily Digest | 2 | 1 | 0 |
+| Loop Watchdog | 2 | 2 | 0 |
+| SEO Agent | 2 | 2 | 0 |
+| CEO Agent | 2 | 2 | 0 |
+| Roadie Night Fleet | 1 | 0 | 0 |
+| X Agent | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
@@ -99,31 +99,26 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - 2026-10-29 18:11 (mid-day pulse — 5/5 proposals verified+promoted #9915-9919)
 - 2026-10-30 06:14 (cheap pulse, pre-deep-run — 4/4 proposals verified+promoted #9941-9944)
 
-## 📦 Shipped to main (13)
+## 📦 Shipped to main (8)
 
+- #9967 fix: #9955 SEO batch: Vinnie Paul's Tama-era (1990-1996) snare fabricated as 14x5.5" — verified 14"×6.5" (3 locations + 2 llms mirrors)
+- #9966 fix: #9954 SEO batch: Eloy Casagrande's gear fabricated as 'Tama S.L.P. Sonic Steel 14x6" snare' + 'twin Speed Cobra 910 pedals' in 2 drummerComparisons.js entries — missed by #8954
+- #9965 fix: #9953 SEO: Eloy Casagrande 'took over the drum chair in 2023' residual FAQ line survives #9908's fix in the same entry
 - #9960 fix: #9944 SEO: Dave Lombardo's snare fabricated as 'Tama Dave Lombardo Signature' + wrong cymbal sizes in paul-bostaph-vs-dave-lombardo entry (2 locations)
 - #9959 fix: #9943 SEO batch: George Kollias blast-beat speed fabricated as '280+ BPM' in 4 drummerComparisons.js entries (8 locations) — verified figure is 240+ BPM
 - #9958 fix: #9943 SEO batch: George Kollias blast-beat speed fabricated as '280+ BPM' in 4 drummerComparisons.js entries (8 locations) — verified figure is 240+ BPM
 - #9957 fix: #9942 SEO batch: Bill Ward's Black Sabbath tenure fabricated as '1968 to 1983, and again from 1997 to 2006' across 7 drummerComparisons.js FAQ lines
 - #9956 fix: #9941 SEO: Inferno's Behemoth tenure framed as unbroken 'since 1997', omits verified 1999-2000 departure/return gap
-- #9952 fix: #9938 SEO batch: Ryan Van Poederooyen's Devin Townsend tenure understated as '2009 to 2018' in 3 drummerComparisons.js locations + 2 mirrors — verified 2002-2018 (omits 7-year founding era)
-- #9951 fix: #9937 SEO: paul-bostaph-vs-jon-dette self-contradicts — technique field credits Jon Dette with 'compositional contribution' on 2 Testament albums his own FAQ says he never recorded
-- #9950 fix: #9936 SEO: Morgan Ågren's Kaipa tenure framed as open-ended 'since 2002' in morgan-agren-vs-mike-mangini FAQ — same file's aquiles-priester-vs-morgan-agren entry correctly bounds it 2002-2005
-- #9949 fix: #9933 SEO: Jay Weinberg's Slipknot join date survives as 'December 2013'/'2013 onward' at drummerComparisons.js:1054 FAQ + 2 markdown mirrors — #9925 fixed 4 other locations but missed these
-- #9948 fix: #9934 SEO batch: Matt Halpern wrongly framed as drumming for Periphery 'since the band's formation' in 4 drummerComparisons.js locations + 4 markdown mirrors — joined 2009, band formed 2005
-- #9947 fix: #9932 SEO: Frost's extendedBios.js still frames him as 1349 co-founder in 2001 — #9147 fixed this framing everywhere except extendedBios.js
-- #9946 fix: #9929 SEO batch: Bill Ward cymbals still fabricated as 'Paiste 2002 & Giant Beat Series' in 3 public/llms/comparisons/ mirror files — source + public/llms/vs/ already fixed to Zildjian Avedis
-- #9945 fix: #9930 SEO: Dave Lombardo drummerEvolution.js 'Tama & Paiste Era' start year still says 1995 — verified Slayer return was 2001, missed by #7917's scope
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2209h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2305h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2482h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3567h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 5997h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2220h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2316h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2493h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3578h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 6008h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

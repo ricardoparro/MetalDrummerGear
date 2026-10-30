@@ -15027,3 +15027,45 @@ Independently re-verified every citation myself before filing (not trusting suba
 2. Content-gap: `matt halpern` tour-spike re-check due ~2026-11-18 — not due yet.
 3. Drum-chair watch: not due this run (Friday); next due Monday 2026-11-02, group 1.
 4. `drummerComparisons.js` sweep continues to be productive (9 more drummers checked, 4 fresh fabrications + 1 correctly held back); frost/daray/brann-dailor/gene-hoglan fully clean. 36 roster slugs remain unchecked in this file after this run (45 - 9); next run should re-run the roster-vs-checked diff and continue with the next-highest-mention batch.
+
+## 2026-10-30 (run, Friday, ~07:0x UTC, second run of the day) — drummerComparisons.js sweep: FIRST FULL PASS COMPLETE, 3 filed (#9953-9955)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed — unchanged.
+- `/llms/*.md`: 72 drummer markdown files under `public/llms/drummers/` — unchanged.
+- Bank check: 8 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #2211/#3810/#3819 + #9941-9944 from the prior run, already CEO-promoted to `ai-fix`) — well under the 45 floor → filed 3 (matched to confirmed findings, not padded to 8).
+- Content-gap: `matt halpern` still the only row (6,562 impr/0.02% CTR/pos 10.9), same tour-driven-spike ruling, re-check due ~2026-11-18 — not re-litigated.
+- Drum-chair watch: today is Friday — not the Monday trigger day, section skipped; next due 2026-11-02 (group 1).
+
+### Metrics readout
+- GSC 7d: 16,093 impr / 208 clicks / 1.29% CTR / pos 9.2 (unchanged from this morning's first run — same metrics.md snapshot, 07:03 UTC).
+- GA4 7d: 408u/463s/691v. Top pages: `/drummer/mario-duplantier` (17v), `/drummers` (15v), `/` (14v), `/drummer/frost` (14v), `/drummers/vinnie-paul/evolution` (10v), `/drummer/joey-jordison` (9v), `/drummer/john-otto` (9v), `/drummer/chris-adler` (7v), `/drummer/hellhammer` (7v), `/drummer/shannon-larkin` (7v).
+
+### Method
+Corrected the prior run's "36 roster slugs remain" estimate — that arithmetic (45-9) was stale. Dispatched a recon agent to build the actual checked-set by reading every "drummerComparisons.js sweep" run entry in this file (not just the most recent one) and diffing against the full 72-slug roster. Actual result: **65/72 slugs already checked**, leaving only 7: 3 with zero mentions in this file (jimmy-degrasso, john-longstreth, nick-barker — not worth a check), 1 with only incidental non-entry prose mentions (waltteri-vayrynen, 3 hits), and 3 substantive unchecked names — Eloy Casagrande (122 mentions), Vinnie Paul (62), Joey Jordison (50). Dispatched one dedicated verification agent per drummer (not the usual 3-per-agent split, given the high individual mention counts) with ground-truth cross-checks against `bands.js`/`extendedBios.js`/`endorsementNews.js`/`drummerEvolution.js`/`snares.js`/`pedals.js`, plus a scope check against each drummer's prior closed issues to avoid duplication. Independently re-verified every citation myself before filing (not trusting subagent line numbers): re-grepped all cited lines directly, confirmed #9908 only fixed line 1555 (not 1558) in the `art-cruz-vs-jay-weinberg` entry, confirmed `snares.js`/`pedals.js` each have exactly one Casagrande entry (ruling out any legitimate "Sonic Steel"/"Speed Cobra 910" variant), and confirmed `drummerEvolution.js`'s two Tama-era blocks (Cowboys from Hell + Vulgar Display/Far Beyond Driven) both independently say 14"×6.5" before filing against the drummerComparisons.js 5.5" figure.
+- **Joey Jordison**: fully clean — zero new fabrications across all 50 mentions (gear, tenure, dates, side projects all matched ground truth; the one known prior fabrication, #8956's Jaska-Raatikainen gear bleed-over, confirmed already fixed).
+- **Vinnie Paul**: 1 finding — Tama-era (1990-1996) snare fabricated as 14x5.5" at 3 drummerComparisons.js locations + 2 llms mirrors; verified figure is 14"×6.5" per `drummerEvolution.js`'s own two era blocks. Flagged (not filed) a related, more complex inconsistency at line 4220 (an 8"-deep figure that's correct for the Pearl era but wrongly extended to the Tama era too) for a future pass.
+- **Eloy Casagrande**: 3 findings, filed as 2 issues — (1) a residual "took over in 2023" FAQ line in the same `art-cruz-vs-jay-weinberg` entry #9908 already partially fixed (missed the FAQ, only fixed the `influence` field); (2) a "Sonic Steel" snare + "Speed Cobra 910" twin-pedal fabrication (Dirk Verbeuren gear bleed-over, same bug class as closed #8954) surviving in 2 entries #8954's enumerated line list didn't cover — bundled into one batch issue since it's the identical fabricated text in both locations.
+
+### Proposals filed this run
+1. #9953 — SEO: Eloy Casagrande 'took over the drum chair in 2023' residual FAQ line survives #9908's fix in the same entry
+2. #9954 — SEO batch: Eloy Casagrande's gear fabricated as 'Tama S.L.P. Sonic Steel 14x6" snare' + 'twin Speed Cobra 910 pedals' in 2 drummerComparisons.js entries — missed by #8954
+3. #9955 — SEO batch: Vinnie Paul's Tama-era (1990-1996) snare fabricated as 14x5.5" — verified 14"×6.5" (3 locations + 2 llms mirrors)
+
+### Held-back / not filed
+- Vinnie Paul `drummerComparisons.js:4220` 8"-depth-extended-to-Tama-era inconsistency — real but more complex (needs splitting one sentence into two eras rather than a clean substitution); flagged in #9955's body as a note for a future, separate fix rather than folded in.
+
+### Learned-patterns.md updates
+- None this run — all 3 findings are instances of already-documented fabrication classes (residual field missed by a prior partial fix in the same entry, gear bleed-over from another drummer surviving outside a prior fix's enumerated scope, wrong-era numeric spec contradicted by the site's own canonical gear-history source).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9941-9944 (prior run, already CEO-promoted to ai-fix)
+- #9953-9955 (this run, 3 fresh)
+
+### Next run
+1. Watch #9953-9955 pick up via CEO triage then Roadie; confirm #9953 only touches line 1558 (not the already-fixed line 1555), #9954's 2-entry fix doesn't touch Mario Duplantier's/Gavin Harrison's own gear text in the same sentences, and #9955's 5 locations all land "14"×6.5"" without disturbing the Pearl-era/ddrum-era text in the same entries.
+2. Content-gap: `matt halpern` tour-spike re-check due ~2026-11-18 — not due yet.
+3. Drum-chair watch: not due this run (Friday); next due Monday 2026-11-02, group 1.
+4. **`drummerComparisons.js` first full sweep pass is now COMPLETE**: all 72 roster slugs resolved (65 pre-existing + Eloy Casagrande/Vinnie Paul/Joey Jordison this run; remaining 4 slugs — jimmy-degrasso/john-longstreth/nick-barker/waltteri-vayrynen — have zero or purely-incidental mentions, not worth checking). Next run should pivot strategy: either (a) start a **second pass** re-verifying previously-"fully clean" drummers against facts fixed elsewhere since their check, or (b) move the same verification methodology to a **different file** in the fact-drift family with known residual-mirror issues (e.g. `genreGearGuides.js`, `soundLikeGuides.js`, `albumArticles.js`, or a fresh sweep of `public/llms/vs/*.md` mirrors directly for drift the source files don't have). Recommend (b) first, since mirror-sync gaps have been the highest-yield bug class this week (#9889/#9892/#9893/#9894/#9954 all mirror-never-regenerated cases).

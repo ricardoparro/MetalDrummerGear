@@ -15069,3 +15069,47 @@ Corrected the prior run's "36 roster slugs remain" estimate — that arithmetic 
 2. Content-gap: `matt halpern` tour-spike re-check due ~2026-11-18 — not due yet.
 3. Drum-chair watch: not due this run (Friday); next due Monday 2026-11-02, group 1.
 4. **`drummerComparisons.js` first full sweep pass is now COMPLETE**: all 72 roster slugs resolved (65 pre-existing + Eloy Casagrande/Vinnie Paul/Joey Jordison this run; remaining 4 slugs — jimmy-degrasso/john-longstreth/nick-barker/waltteri-vayrynen — have zero or purely-incidental mentions, not worth checking). Next run should pivot strategy: either (a) start a **second pass** re-verifying previously-"fully clean" drummers against facts fixed elsewhere since their check, or (b) move the same verification methodology to a **different file** in the fact-drift family with known residual-mirror issues (e.g. `genreGearGuides.js`, `soundLikeGuides.js`, `albumArticles.js`, or a fresh sweep of `public/llms/vs/*.md` mirrors directly for drift the source files don't have). Recommend (b) first, since mirror-sync gaps have been the highest-yield bug class this week (#9889/#9892/#9893/#9894/#9954 all mirror-never-regenerated cases).
+
+---
+
+## 2026-10-30 (run, Friday, ~13:0x UTC, third run of the day) — followed up on option (b): found + fixed-scoped the `check-llms-freshness` mega-gap (159 files), 4 filed (#9961-9964)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed — unchanged.
+- `/llms/*.md`: 72 drummer markdown files under `public/llms/drummers/` — unchanged.
+- Bank check: 7 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #2211/#3810/#3819 + #9953-9955 from the prior run, already CEO-promoted to `ai-fix`) — well under the 45 floor → filed 4, matched to confirmed high-confidence findings rather than padded to the 8 cap.
+- Content-gap: `matt halpern` still the only row (metrics.md 13:03 UTC refresh), same tour-driven-spike ruling, re-check due ~2026-11-18 — not re-litigated.
+- Drum-chair watch: today is Friday — not the Monday trigger day, section skipped; next due 2026-11-02 (group 1).
+
+### Metrics readout
+- GSC 7d: 19,105 impr / 259 clicks / 1.36% CTR / pos 9.1.
+- GA4 7d: 412u/468s/699v. Top pages: `/drummer/mario-duplantier` (18v), `/` (15v), `/drummer/frost` (15v), `/drummers` (15v), `/drummers/vinnie-paul/evolution` (10v), `/drummer/joey-jordison` (9v), `/drummer/john-otto` (9v), `/drummer/chris-adler` (7v), `/drummer/hellhammer` (7v), `/drummer/shannon-larkin` (7v).
+
+### Method
+Took up the prior run's own recommendation (b): swept `public/llms/vs/*.md` mirror drift directly instead of continuing to mine `drummerComparisons.js` fact-by-fact. Investigation led somewhere bigger: `gh run list --workflow=check-llms-freshness.yml` showed every recent scheduled/PR-triggered run **failing** — this detection-only daily CI job (added under #4205, previously fixed once already in closed #5037/#8682, same recurring operational gap) regenerates `public/llms/**` and fails if committed output drifts from what the generators currently produce. Pulled the actual failed-run log and isolated the real `drifted` summary (not the noisy full diff, which also includes harmless date-stamp churn the script already filters out of its verdict): **159 files have genuinely changed content** — 56 `vs/*.md`, 54 `articles/*.md`, plus endorsements/lists/cymbals/pedals/licks/gear-series mirrors and several hub files. Personally verified the drift direction is stale→correct (not a generator regression) by running `node scripts/generate-llms-vs.cjs` locally and diffing `matt-greiner-vs-george-kollias.md`: the committed file still has the exact fabricated Pearl snare #9915 fixed in source on 2026-10-29, the freshly-generated version has the corrected Mapex snare. Reverted the local regen (`git checkout -- public/llms`) before filing, leaving the working tree clean. Filed **#9961** as a single mechanical regenerate-and-commit fix, modeled directly on closed #5037's successful resolution of the identical gap three months ago.
+With that filed, dispatched 2 parallel research agents for a complementary round: Agent 1 ran a second-pass regression check on 5 drummers (tomas-haake, chris-adler, frost, daray, brann-dailor) already marked "fully clean" earlier this week in `drummerComparisons.js`, re-verifying against TODAY's ground truth to catch drift introduced by the dozens of ground-truth corrections that have landed since — came back clean on all 5 relative to `drummerComparisons.js` specifically, but surfaced an adjacent lead (Chris Adler's `extendedBios.js` kit field, out of that agent's file scope). Agent 2 swept `genreGearGuides.js` for fresh gear fabrications tied to recently-corrected drummers — found George Kollias's BPM figure fabricated as "280/280+" across the file (same bug class #9943 fixed in `drummerComparisons.js` today, but never touched here) and Matt Greiner's pre-2016 Pearl snare surviving in a third, previously-unswept mathcore guide (sibling gap from #7986/#7824, which each fixed different mathcore guides). Personally re-verified every citation before filing (not on subagent say-so): re-read `extendedBios.js:5813/5845` and confirmed via `snares.js:171-174` that Chris Adler's snare field is correct and must not be touched, only the kit-model field; ran a precise node co-occurrence scan for "George Kollias" within 2 lines of "280" to get an exact 115-hit count rather than trusting the agent's "~70+" estimate, and spot-read 7 of those lines plus 2 Flo Mounier lines to confirm the scope boundary; read closed #7824's and #9762's full bodies to confirm neither touched the specific `extendedBios.js` lines or the `best-drum-triggers-for-mathcore` guide before filing as fresh (not duplicates).
+
+### Proposals filed this run
+1. #9961 — SEO: regenerate public/llms/** — 159 files drifted from corrected source data, check-llms-freshness red for days
+2. #9962 — SEO batch: George Kollias blast-beat BPM fabricated as '280/280+ BPM' across ~115 genreGearGuides.js locations — verified 240+ BPM
+3. #9963 — SEO: Chris Adler's extendedBios.js still fabricates 'Mapex Black Panther Design Lab' kit (Quick Facts + FAQ, 2 locations) — verified Mapex Saturn Satin Black Maple Burl
+4. #9964 — SEO: Matt Greiner's stale 'signature Pearl snare' in genreGearGuides.js mathcore drum-triggers guide — current kit is Mapex since 2016
+
+### Held-back / not filed
+- None this run — both research agents' candidates were either confirmed and filed, or confirmed genuinely clean (tomas-haake/frost/daray/brann-dailor's `drummerComparisons.js` entries all held against today's ground truth; Kevin Talley/Matt Garstka/Igor Cavalera/Dave Lombardo all clean in this run's `genreGearGuides.js` pass).
+
+### Learned-patterns.md updates
+- None this run — #9961 is a recurrence of an already-documented operational gap (CEO/founder-level process note, not a new SEO content pattern); #9962-9964 are instances of already-documented fabrication classes (BPM/gear-model fabrication surviving in an unswept sibling file).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9953-9955 (prior run, already CEO-promoted to ai-fix)
+- #9961-9964 (this run, 4 fresh)
+
+### Next run
+1. **#9961 is the priority watch** — a single merged regen commit should resolve the bulk of the ongoing mirror-drift fact pattern in one shot; once it lands, re-run `gh run list --workflow=check-llms-freshness.yml --limit 1` to confirm green, and treat any individual mirror-drift proposal filed *after* that merge as suspect (re-verify it's not stale pre-regen context).
+2. Watch #9962's 115-location sweep lands without touching Flo Mounier's own BPM claims or unattributed genre-range sentences (explicit scope note in the issue); watch #9963 only touches the kit field (not the already-correct snare field); watch #9964 only touches the drum-triggers guide (not the already-fixed metalcore-snare/mathcore-kits/mathcore-snare-drums guides).
+3. Content-gap: `matt halpern` tour-spike re-check due ~2026-11-18 — not due yet.
+4. Drum-chair watch: not due this run (Friday); next due Monday 2026-11-02, group 1.
+5. Consider flagging #9961's "Follow-up to flag" note (should `check-llms-freshness.yml` auto-file a tracking issue after N red days?) to the founder digest if this recurs a third time.

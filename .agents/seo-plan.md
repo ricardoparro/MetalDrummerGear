@@ -14984,3 +14984,46 @@ Independently re-verified every citation myself before filing (not trusting suba
 2. Content-gap: `matt halpern` tour-spike already ruled by CEO (12:13 deep run) — re-check only after ~2026-11-18 if elevated volume persists post-tour.
 3. Drum-chair watch: not due this run (Thursday); next due Monday 2026-11-02, group 1.
 4. `drummerComparisons.js` sweep continues to be productive (9 more drummers checked, 5 fresh fabrications); Jaska Raatikainen/Tomas Haake/Chris Adler/Chris Turner fully clean. Remaining roster slugs with low-but-nonzero mention counts not yet checked in this file: eloy-casagrande (45, partially covered by this morning's #9908 — check for other occurrences), morgan-agren (6, name-matching issue in prior roster diffs, verify slug) — otherwise most high-mention roster names are now covered; next run may need a fresh roster-vs-checked diff to find remaining gaps, or pivot to a second full pass now that the first full sweep is nearly complete.
+
+---
+
+## 2026-10-30 (run, Friday, ~07:0x UTC) — drummerComparisons.js sweep continuation, 4 filed (#9941-9944)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler UAs explicitly allowed — unchanged.
+- `/llms/*.md`: 72 drummer markdown files under `public/llms/drummers/` — unchanged.
+- Bank check: 12 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #2211/#3810/#3819 + #9915-9919 from the prior run) — well under the 45 floor → filed 4 (matched to confirmed findings, not padded to 8).
+- Open `ai-fix`: 28. Content-gap: `matt halpern` still the only row (6,562 impr/0.02% CTR/pos 10.9) — already ruled a tour-driven demand spike by the CEO's prior deep run, re-check due ~2026-11-18, not re-litigated.
+- Drum-chair watch: today is Friday — not the Monday trigger day, section skipped; next due 2026-11-02 (group 1).
+
+### Metrics readout
+- GSC 7d: 16,093 impr / 208 clicks / 1.29% CTR / pos 9.2.
+- GA4 7d: 386u/440s/647v. Top pages: `/drummer/mario-duplantier` (17v), `/` (13v), `/drummer/frost` (12v), `/drummers` (12v), `/drummers/vinnie-paul/evolution` (10v), `/drummer/joey-jordison` (9v), `/drummer/john-otto` (8v), `/drummer/chris-adler` (7v), `/drummer/hellhammer` (7v), `/drummer/shannon-larkin` (7v).
+
+### Method
+Computed a full roster-vs-checked diff (72 `public/llms/drummers/*.md` slugs vs. ~27 drummers already confirmed checked specifically in `drummerComparisons.js` across prior runs) to find the next highest-leverage unchecked batch — 45 drummers remained. Picked the top 9 by mention count in this file, two of which are also top-5 GA4 pages (frost, mario-duplantier), raising the stakes of any inaccuracy: frost (61), inferno (55), mario-duplantier (45), daray (45), brann-dailor (42), bill-ward (42), george-kollias (39), gene-hoglan (33), dave-lombardo (33). Dispatched 3 parallel agents (3 drummers each, cap 2 findings each). Agent 1 (frost, inferno, mario-duplantier) — Frost fully clean (confirmed #9793's prior fix held); found Inferno's Behemoth tenure framed as unbroken "since 1997" at 4 locations, omitting the verified 1999-2000 departure/return gap (`bands.js:2088,2104`) — same bug class as closed #9916 (John Otto); flagged a Mario Duplantier "forgoes a double pedal" claim as inconsistent with `pedals.js` listing a double pedal for him, but on independent re-verification this contradiction already exists in the canonical `public/llms/drummers/mario-duplantier.md` itself (line 31 vs. lines 98/152-154/220-224) — not a clean drummerComparisons.js-vs-ground-truth fabrication, so **not filed** per omit-if-unsure. Agent 2 (daray, brann-dailor, bill-ward) — Daray and Brann Dailor both fully clean; found Bill Ward's Black Sabbath tenure fabricated as "1968 to 1983, and again from 1997 to 2006" at 7 FAQ locations, when `extendedBios.js:2239` confirms "1968-1980, 1983-1984, 1997-1998, 2011-2012" — closed #5606 fixed this identical sentence but scoped strictly to `extendedBios.js`, never touching this file. Agent 3 (george-kollias, gene-hoglan, dave-lombardo) — Gene Hoglan fully clean; found George Kollias's blast-beat speed fabricated as "280+ BPM" at 8 locations across 4 entries, when `extendedBios.js:799,807-808` and the file's own majority-correct instances (lines 2196, 2200, 2202, 2324, 2711) consistently say "240+ BPM" — an internal self-contradiction, not just a ground-truth mismatch; and Dave Lombardo's snare fabricated as "Tama Dave Lombardo Signature" (no such product exists) plus wrong cymbal sizes in the `paul-bostaph-vs-dave-lombardo` entry (2 locations), when the sibling `dave-lombardo-vs-chris-adler` entry in the same file already has it right (Tama S.L.P. G-Maple snare, 15"/22" cymbal sizes) — residual gap in closed #6625, which fixed only the brand, not the model name or sizes.
+Independently re-verified every citation myself before filing (not trusting subagent line numbers or ground-truth citations at face value): re-grepped every cited line directly against `bands.js`/`extendedBios.js`/`pedals.js`/`public/llms/drummers/*.md`, read #9916/#5606/#6625's actual closed-issue bodies to confirm their exact scopes left these specific lines untouched, and caught the Mario Duplantier finding's flaw (ground truth itself is self-contradictory, not a clean drummerComparisons.js-only fabrication) before filing — dropped it rather than file on uncertain ground.
+
+### Proposals filed this run
+1. #9941 — SEO: Inferno's Behemoth tenure framed as unbroken 'since 1997', omits verified 1999-2000 departure/return gap (4 locations)
+2. #9942 — SEO batch: Bill Ward's Black Sabbath tenure fabricated as '1968 to 1983, and again from 1997 to 2006' across 7 drummerComparisons.js FAQ lines
+3. #9943 — SEO batch: George Kollias blast-beat speed fabricated as '280+ BPM' in 4 drummerComparisons.js entries (8 locations) — verified figure is 240+ BPM
+4. #9944 — SEO: Dave Lombardo's snare fabricated as 'Tama Dave Lombardo Signature' + wrong cymbal sizes in paul-bostaph-vs-dave-lombardo entry (2 locations)
+
+### Held-back / not filed
+- Mario Duplantier "forgoes a double pedal" vs. `pedals.js` double-pedal listing — the contradiction already exists in the canonical `public/llms/drummers/mario-duplantier.md` ground truth itself, so there's no clean "wrong" side to correct `drummerComparisons.js` toward. Needs a human/founder call on what his actual pedal setup is (two single pedals on dual bass drums vs. one bass drum + double pedal) before any file in this inconsistency can be fixed — flagging for a future run or founder digest rather than filing on uncertain ground.
+
+### Learned-patterns.md updates
+- None this run — all 4 findings are instances of already-documented fabrication classes (absolute tenure framing omitting a documented gap, identical fabricated sentence surviving a narrowly-scoped prior fix in a different file, internal self-contradiction on a numeric spec, residual model-name/size gap from a prior brand-only fix). The Mario Duplantier held-back case is a reminder worth restating: when a "ground truth" cross-check source is itself internally contradictory, that's disqualifying, not just a weaker version of a finding — don't file against a self-contradictory source.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9915-9919 (prior run, already CEO-promoted to ai-fix)
+- #9941-9944 (this run, 4 fresh)
+
+### Next run
+1. Watch #9941-9944 pick up via CEO triage then Roadie; confirm #9941's 4 locations all land the "(with a brief gap...)" phrasing, #9942's 7 identical-sentence locations all get the same corrected wording, #9943's 8 Kollias-only locations don't touch Flo Mounier's/Tim Yeung's own separate 280+ BPM claims in the same file, and #9944 only touches the 2 `paul-bostaph-vs-dave-lombardo` lines (not the already-correct `dave-lombardo-vs-chris-adler` sibling).
+2. Content-gap: `matt halpern` tour-spike re-check due ~2026-11-18 — not due yet.
+3. Drum-chair watch: not due this run (Friday); next due Monday 2026-11-02, group 1.
+4. `drummerComparisons.js` sweep continues to be productive (9 more drummers checked, 4 fresh fabrications + 1 correctly held back); frost/daray/brann-dailor/gene-hoglan fully clean. 36 roster slugs remain unchecked in this file after this run (45 - 9); next run should re-run the roster-vs-checked diff and continue with the next-highest-mention batch.

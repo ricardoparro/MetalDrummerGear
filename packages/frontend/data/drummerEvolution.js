@@ -2547,10 +2547,10 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'lombardo-1995-return',
+        id: 'lombardo-2001-return',
         era: 'Tama & Paiste Era',
-        years: '1995-2010',
-        startYear: 1995,
+        years: '2001-2010',
+        startYear: 2001,
         endYear: 2010,
         description: 'The evolution continues. After leaving and returning to Slayer, Dave settled into the long-running Tama and Paiste setup that carried through the reunion years.',
         albums: ['Christ Illusion (2006)', 'World Painted Blood (2009)'],

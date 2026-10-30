@@ -56504,7 +56504,7 @@ Build your pocket acoustically first. Once you're touring regularly, add a Rolan
       title: "Why Mathcore's Rhythmic Density Rewards Trigger Precision",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters and constantly shifting rhythmic cells, packing dense, asymmetrical kick patterns into tight spaces where every hit has to read cleanly for the pattern to make sense to a listener.
 
-Danny Carey of Tool — whose Fibonacci-structured compositional rigor directly informed math metal and mathcore's own rhythmic ambitions — incorporates Mandala electronic drum pads directly into his acoustic Sonor SQ2 kit, expanding his textural range for exactly the kind of complex, polyrhythmic passages mathcore is built on. Matt Greiner of August Burns Red brings the same technical precision to mathcore-adjacent metalcore on his signature Pearl snare. That combination of odd-meter density and the need for absolute pattern clarity is exactly where trigger-assisted reinforcement earns its place: a dense, high-speed kick pattern in 7/8 or 11/16 needs every hit to translate cleanly, and a trigger guarantees that clarity even when a pattern outruns what a single mic can capture consistently.
+Danny Carey of Tool — whose Fibonacci-structured compositional rigor directly informed math metal and mathcore's own rhythmic ambitions — incorporates Mandala electronic drum pads directly into his acoustic Sonor SQ2 kit, expanding his textural range for exactly the kind of complex, polyrhythmic passages mathcore is built on. Matt Greiner of August Burns Red brings the same technical precision to mathcore-adjacent metalcore on his Mapex Black Panther snare. That combination of odd-meter density and the need for absolute pattern clarity is exactly where trigger-assisted reinforcement earns its place: a dense, high-speed kick pattern in 7/8 or 11/16 needs every hit to translate cleanly, and a trigger guarantees that clarity even when a pattern outruns what a single mic can capture consistently.
 
 This guide covers what actually matters when adding trigger reinforcement to mathcore — fast recovery time, dual-zone precision, and crosstalk rejection inside dense odd-meter patterns — with specific recommendations across every budget, from a first single kick trigger to a full hybrid electronic-acoustic rig.`,
       keyPoints: [
@@ -56822,7 +56822,7 @@ For mathcore drummers who want to go beyond simple kick reinforcement into genui
     ],
     relatedDrummers: [
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Incorporates Mandala electronic drum pads into his acoustic Sonor SQ2 kit for expanded textural range' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Technical precision on his signature Pearl snare across August Burns Red\'s mathcore-adjacent catalog' }
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Technical precision on his Mapex Black Panther snare across August Burns Red\'s mathcore-adjacent catalog' }
     ],
     relatedComparisons: [],
 

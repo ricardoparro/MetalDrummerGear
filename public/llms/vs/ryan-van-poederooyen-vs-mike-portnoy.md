@@ -53,7 +53,7 @@ A: Both are accomplished progressive metal drummers with different strengths. Ry
 A: Ryan Van Poederooyen's signature is creative tom patterns and tasteful cymbal work that adapt to wildly different sections within a single song. Mike Portnoy's signature is rapid-fire transitions and complex time signatures sustained across marathon-length live performances.
 
 **Q: What bands have Ryan Van Poederooyen and Mike Portnoy played in?**
-A: Ryan Van Poederooyen played with the Devin Townsend Band and Devin Townsend Project from 2009 to 2018. Mike Portnoy co-founded Dream Theater in 1985, playing with the band until 2010 and again from 2023, plus Liquid Tension Experiment, The Winery Dogs, Transatlantic, and Sons of Apollo.
+A: Ryan Van Poederooyen played with the Devin Townsend Band and Devin Townsend Project from 2002 to 2018. Mike Portnoy co-founded Dream Theater in 1985, playing with the band until 2010 and again from 2023, plus Liquid Tension Experiment, The Winery Dogs, Transatlantic, and Sons of Apollo.
 
 **Q: What gear do Ryan Van Poederooyen and Mike Portnoy use?**
 A: Ryan Van Poederooyen plays a Pearl Reference Series kit with a Pearl snare (the specific model has not been independently verified) and Sabian HHX & AAX cymbals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with his Tama Melody Master signature snare and Sabian HHX Evolution cymbals, driven by a Tama Iron Cobra Power Glide double pedal.

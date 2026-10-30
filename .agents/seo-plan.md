@@ -15113,3 +15113,42 @@ With that filed, dispatched 2 parallel research agents for a complementary round
 3. Content-gap: `matt halpern` tour-spike re-check due ~2026-11-18 — not due yet.
 4. Drum-chair watch: not due this run (Friday); next due Monday 2026-11-02, group 1.
 5. Consider flagging #9961's "Follow-up to flag" note (should `check-llms-freshness.yml` auto-file a tracking issue after N red days?) to the founder digest if this recurs a third time.
+
+---
+
+## 2026-10-30 19:xx UTC run (4th run today)
+
+### Context
+Bank check: 8 open `seo-proposal` total, but excluding held #7981 and standing umbrellas #2211/#3810/#3819, the untriaged fresh bank was **4** (#9961-9964, filed by the 13:12 UTC run just 6h earlier). Well under the 45 floor → filed up to 8 net-new. Metrics fresh (19:02 UTC fetch), no content-gap queries ≥50 impr/<2% CTR this week (closest was `joey jordison drum set` at 47 impr, under threshold). Today is Friday — drum-chair weekly sweep not due (next due Monday 2026-11-02, group 1).
+
+### Method
+Continued the established fact-drift/fabrication sweep (the winning pattern under the LLM-first/new-page-freeze mode) into file areas not yet checked this week: dispatched 4 parallel research agents into cymbal files (cymbalSetups.js etc.), pedal files (pedals.js etc.), snare reference files (snares.js etc.), and misc comparison/kit files (drummersByKit.js, gearComparisons.js, battles.js, trendingDrummers.js, top10Lists.js). Each cross-checked against ground truth (`endorsementNews.js`, `bands.js`, `extendedBios.js`, `snares.js`) and ran dedup searches before reporting. Cymbal sweep came back clean (all 56 `cymbalSetups.js` entries match `endorsementNews.js` at brand level — reported honestly as "no findings" rather than padding). The other 3 sweeps each surfaced 1-2 solid candidates. Personally re-verified all 4 survivors by direct `sed`/`grep` against the cited ground-truth lines before filing, and re-ran `gh issue list --state all --search` on each to confirm genuinely not a duplicate despite extensive prior fix history for these same drummers in other files.
+
+### Proposals filed this run
+1. #9968 — SEO: Nick Menza pedal fabricated as 'DW 5000' in pedals.js — verified Tama Iron Cobra Double Pedal
+2. #9969 — SEO: Ben Koller pedal fabricated with nonexistent 'Iron Cobra 900' model in pedals.js — verified plain Iron Cobra Double Pedal
+3. #9970 — SEO: Dirk Verbeuren's snares.js record fabricates 'S.L.P. Big Black Steel 14x6.5"' (copy/row-mixup from Tim Yeung) — verified S.L.P. Dynamic Bronze 14x5.5"
+4. #9971 — SEO: Charlie Benante's drummersByKit.js tenure fabricated as '1981–1990' — verified 1983–present
+
+### Held-back / not filed
+- Cymbal sweep (cymbalSetups.js + 4 derived files): zero findings after full 56-drummer cross-check — genuinely clean, not under-searched.
+- Misc sweep ruled out (as too weak/already-adjudicated): Jason Bittner's `drummersByKit.js` 1997 label (already correct per #7655, not the Overkill join year), Gene Hoglan's 1983/1993 window (loose era label, brand already fixed by #6981), Bill Ward's Black Sabbath entry (explicitly settled by #7655, do not re-flag).
+- Snare sweep found only 1 survivor (Dirk Verbeuren) after checking ~20 other drummers' snare claims — all clean.
+- Pedal sweep found exactly 2 survivors after checking ~50 other drummer-pedal entries — all clean.
+
+### Learned-patterns.md updates
+- None — all 4 are instances of an already-documented bug class ("root-cause file fixed, sibling/legacy data module never resynced" — see snares.js/pedals.js/drummersByKit.js precedents already in the log).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9961-9964 (prior run today, 4 fresh)
+- #9968-9971 (this run, 4 fresh)
+
+### Next run
+1. Watch #9961 (the `public/llms/**` regen) — priority, should clear the bulk of ongoing mirror-drift noise in one shot once merged.
+2. Watch #9968/#9969 don't accidentally touch the other pedal brand field (`driveType`/`configuration` stay as-is, only `brand`/`model`/`summary`/`id` change).
+3. Watch #9970 doesn't touch the adjacent `tim-yeung` record (correct, must stay untouched).
+4. Watch #9971 — implementer should check sibling `yearsUsed` semantics in `drummersByKit.js` before deciding exact replacement value (kit-era vs. full-tenure convention).
+5. Content-gap: `matt halpern` tour-spike re-check due ~2026-11-18 — not due yet.
+6. Drum-chair watch: next due Monday 2026-11-02, group 1 (rotate by ISO week % 4).

@@ -26,7 +26,7 @@ Kublai Khan TX's Isaac Lamb vs Devin Townsend Project's Ryan Van Poederooyen —
 
 ## Playing Style
 
-Isaac Lamb has been the sole drummer behind Kublai Khan TX's beatdown hardcore since the band's 2009 formation in Sherman, Texas, building a sound defined by crushing breakdowns and devastating groove. Ryan Van Poederooyen navigated Devin Townsend's genre-defying compositions from 2009 to 2018, moving fluidly between ambient passages and crushing metal sections across "Accelerated Evolution," "Synchestra," "Addicted," and "Transcendence."
+Isaac Lamb has been the sole drummer behind Kublai Khan TX's beatdown hardcore since the band's 2009 formation in Sherman, Texas, building a sound defined by crushing breakdowns and devastating groove. Ryan Van Poederooyen navigated Devin Townsend's genre-defying compositions from 2002 to 2018, moving fluidly between ambient passages and crushing metal sections across "Accelerated Evolution," "Synchestra," "Addicted," and "Transcendence."
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Both excel at serving their music rather than chasing flash. Isaac Lamb's ski
 A: Isaac Lamb's signature is crushing, breakdown-driven grooves delivered with direct-drive kick precision. Ryan Van Poederooyen's signature is creative tom patterns and tasteful cymbal work that adapt to wildly different sections within a single song.
 
 **Q: What bands have Isaac Lamb and Ryan Van Poederooyen played in?**
-A: Isaac Lamb is the founding and sole drummer of Kublai Khan TX since the band formed in Sherman, Texas in 2009. Ryan Van Poederooyen played with the Devin Townsend Band and Devin Townsend Project from 2009 to 2018.
+A: Isaac Lamb is the founding and sole drummer of Kublai Khan TX since the band formed in Sherman, Texas in 2009. Ryan Van Poederooyen played with the Devin Townsend Band and Devin Townsend Project from 2002 to 2018.
 
 **Q: What gear do Isaac Lamb and Ryan Van Poederooyen use?**
 A: No gear endorsement of any kind is publicly documented for Isaac Lamb. Ryan Van Poederooyen plays a Pearl Reference Series kit with a Pearl snare (the specific model has not been independently verified) and Sabian HHX & AAX cymbals, driven by a Pearl Demon Drive double pedal.

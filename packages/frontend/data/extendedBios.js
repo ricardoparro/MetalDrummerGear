@@ -4325,7 +4325,7 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
     sections: {
       overview: {
         title: 'Overview',
-        content: `Kjetil-Vidar Haraldstad (born June 28, 1973, in Øyer, Norway), known professionally as Frost, is a Norwegian drummer and one of the most iconic figures in Scandinavian black metal. He is the longtime drummer for Satyricon since 1993 and 1349 since the band's formation in 2001.
+        content: `Kjetil-Vidar Haraldstad (born June 28, 1973, in Øyer, Norway), known professionally as Frost, is a Norwegian drummer and one of the most iconic figures in Scandinavian black metal. He is the longtime drummer for Satyricon since 1993 and joined 1349 as a drummer around 2000, becoming a full member by 2003.
 
 Frost is renowned for his blistering speed, metronomic precision, and seemingly inhuman stamina. His blast beats and hyperspeed drumming have set the technical standard for black metal percussion, combining raw ferocity with disciplined execution. Despite the often chaotic and raw nature of black metal, Frost brings a level of technicality and consistency that has influenced countless extreme metal drummers worldwide.`
       },
@@ -4335,7 +4335,7 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
           { year: '1993', event: 'Joined Satyricon, establishing a legendary partnership with Satyr' },
           { year: '1996', event: 'Released "Nemesis Divina" with Satyricon, a black metal landmark' },
           { year: '1999', event: 'Released "Rebel Extravaganza," pushing black metal into industrial territories' },
-          { year: '2001', event: 'Co-founded 1349, a pure black metal project alongside Ravn and Archaon' },
+          { year: '2001', event: 'Joined 1349 as drummer, appearing on the band\'s debut EP' },
           { year: '2003', event: 'Released "Liberation" with 1349, showcasing extreme drumming prowess' },
           { year: '2005', event: 'Released "Hellfire" with 1349, featuring some of the fastest drumming in black metal' },
           { year: '2006', event: 'Released "Now, Diabolical" with Satyricon, achieving mainstream metal success' },

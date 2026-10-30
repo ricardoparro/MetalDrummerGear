@@ -67,4 +67,4 @@ A: Chris Turner's technical drumming videos, showcasing extreme-speed double bas
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

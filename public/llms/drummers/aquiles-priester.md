@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-10-28"
+last_updated: "2026-10-30"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -236,4 +236,4 @@ Dated brand-endorsement timeline: [Aquiles Priester's endorsement history](https
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

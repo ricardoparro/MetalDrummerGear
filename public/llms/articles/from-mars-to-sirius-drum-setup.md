@@ -22,22 +22,22 @@ This article breaks down every piece of gear Mario used during these landmark se
 
 ## Gear Breakdown
 
-- **Drums:** Tama Tama Starclassic Performer (Piano Black finish)
+- **Drums:** Unconfirmed — pre-endorsement era No documented endorsed kit; Mario's first-ever drum brand signing (Tama) did not happen until 2010 (Unconfirmed finish)
 - **Snare:** Tama Tama S.L.P. G-Maple, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian K Custom / K Series
 - **Hardware / Pedals:** Tama Iron Cobra Power Glide; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair Ergo-Rider; Vic Firth 5A American Classic
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high for attack, adjusted for atmospheric passages
 
-### Mario's Power Station: The Tama Setup
+### The Swimming Pool Sessions: A Pre-Endorsement Kit
 
-For From Mars to Sirius, Mario Duplantier used a Tama Starclassic Performer kit that would become the template for his sound. The dual 22" x 18" bass drums were essential to Gojira's visual and sonic identity — Mario prefers two separate drums over a double pedal for both the impact and the visual symmetry.
+No definitive, endorsement-era gear list exists for the From Mars to Sirius sessions. Mario Duplantier's first-ever documented drum brand signing — with Tama — did not happen until 2010, during The Way of All Flesh touring cycle, five years after this album was recorded. Whatever kit Mario played in 2005 was not an endorsed Tama Starclassic, regardless of how later gear retrospectives have described it.
 
-The birch/bubinga shell combination provided the perfect balance: birch's attack and focus for cutting through Gojira's dense guitar arrangements, and bubinga's warmth and low-end depth for the atmospheric passages. The 18" depth on the bass drums (deeper than standard) contributed to the subsonic rumble that defines tracks like "Ocean Planet" and "World to Come."
+What can be reconstructed from period photographs is the dual 22" x 18" bass drum configuration with a compact two rack tom, two floor tom layout — the same visual footprint that would carry through Mario's later, confirmed Tama years. The specific brand behind that 2005 kit is not documented with confidence.
 
 The tom configuration was relatively minimalist — two rack toms and two floor toms — reflecting Gojira's philosophy of power through simplicity rather than complexity. Mario's playing uses every inch of the kit purposefully, with tribal tom patterns that became as recognizable as any guitar riff.
 
-The swimming pool studio's natural acoustics gave the kit a massive, reverberant sound that the brothers enhanced with careful mic placement. Unlike the dry, triggered sounds of many death metal productions, From Mars to Sirius let the drums breathe and resonate.
+The swimming pool studio's natural acoustics gave the kit a massive, reverberant sound that the brothers enhanced with careful mic placement, independent of whatever brand of shells were actually in the room.
 
 ### The Crack That Cuts Through Whales
 
@@ -88,11 +88,11 @@ Twenty years later, From Mars to Sirius still sounds like the future. And Mario 
 - Self-produced by the band for complete creative control
 - "Flying Whales" became Gojira's signature song and a modern metal classic
 - Introduced the "environmental metal" sound that would influence countless bands
-- Dual bass drums for visual symmetry and maximum impact
-- Birch/bubinga shells provided attack and warmth
-- Deep 18" bass drum shells for subsonic low end
-- Swimming pool studio added natural room ambience
-- Estimated kit value: $3,000-4,500 (2005)
+- Pre-endorsement era — Mario's first documented drum brand deal (Tama) began in 2010, not 2005
+- Dual bass drum, two rack / two floor tom layout consistent with period photos
+- Shell brand and material unconfirmed for these sessions
+- Swimming pool studio added natural room ambience regardless of kit brand
+- Estimated kit value: $1,200-2,000 (2005) — typical mid-tier working-drummer kit pricing
 - Estimated snare value: $300-400 (2005)
 
 ## Frequently Asked Questions
@@ -126,4 +126,4 @@ A: At the time of recording in 2005, the Tama Starclassic Performer kit was esti
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

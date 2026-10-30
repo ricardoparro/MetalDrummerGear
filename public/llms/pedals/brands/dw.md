@@ -30,7 +30,7 @@
 | [Raymond Herrera](https://metalforge.io/pedals/setups/raymond-herrera) | Fear Factory / Arkaea / Brujeria | DW 5000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/raymond-herrera.md) |
 | [Scott Travis](https://metalforge.io/pedals/setups/scott-travis) | Judas Priest | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/scott-travis.md) |
 | [Sean Reinert](https://metalforge.io/pedals/setups/sean-reinert) | Death / Cynic | DW 9000 Double Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/sean-reinert.md) |
-| [Shannon Larkin](https://metalforge.io/pedals/setups/shannon-larkin) | Godsmack / Ugly Kid Joe / Amen | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/shannon-larkin.md) |
+| [Shannon Larkin](https://metalforge.io/pedals/setups/shannon-larkin) | Godsmack / Ugly Kid Joe / Wrathchild America | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/shannon-larkin.md) |
 | [Travis Orbin](https://metalforge.io/pedals/setups/travis-orbin) | Darkest Hour / ex-Periphery | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/travis-orbin.md) |
 
 Source: [DW — The DW Story](https://dwdrums.com/the-dw-story/).
@@ -50,4 +50,4 @@ Source: [DW — The DW Story](https://dwdrums.com/the-dw-story/).
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

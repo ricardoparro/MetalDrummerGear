@@ -34,7 +34,7 @@ Greiner incorporates jazz-influenced dynamics, creative cymbal work, and rapid-f
 
 ## Key Differences
 
-Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. George Kollias plays a Pearl Masterworks Stadium Exotic kit finished in Piano Black with Gold Hardware, anchored by his 14x6.5" Pearl George Kollias Signature snare and Zildjian A Custom Series cymbals, powered by the Pearl Demon XR double pedal he co-designed and his own Vic Firth sticks. Greiner incorporates jazz-influenced dynamics, creative cymbal work, and rapid-fire double bass into metalcore's heavy foundation, weaving purposeful transitions between blast beats, breakdowns, and melodic sections into August Burns Red's song structures. Kollias co-designed his own pedal around a heel-toe technique that lets him sustain blast beats past 240 BPM with surgical clarity, and he also employs the gravity blast for extra speed on Nile's most extreme passages, earning him the nickname "The Human Blast Beat Machine."
+Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. George Kollias plays a Pearl Masterworks Stadium Exotic kit finished in Piano Black with Gold Hardware, anchored by his 14x6.5" Pearl George Kollias Signature snare and Zildjian A Custom Series cymbals, powered by the Pearl Demon XR double pedal he co-designed and his own Vic Firth sticks. Greiner incorporates jazz-influenced dynamics, creative cymbal work, and rapid-fire double bass into metalcore's heavy foundation, weaving purposeful transitions between blast beats, breakdowns, and melodic sections into August Burns Red's song structures. Kollias co-designed his own pedal around a heel-toe technique that lets him sustain blast beats past 240 BPM with surgical clarity, and he also employs the gravity blast for extra speed on Nile's most extreme passages, earning him the nickname "The Human Blast Beat Machine."
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: George Kollias co-designed the Pearl Demon XR pedal around his heel-toe techn
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

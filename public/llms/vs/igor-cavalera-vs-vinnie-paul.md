@@ -67,4 +67,4 @@ A: Igor Cavalera uses Zildjian A Custom Series. Vinnie Paul uses Sabian (brand p
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

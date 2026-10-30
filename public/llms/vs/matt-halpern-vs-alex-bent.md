@@ -67,4 +67,4 @@ A: Matt Halpern uses Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" &
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

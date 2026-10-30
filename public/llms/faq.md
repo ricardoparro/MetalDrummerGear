@@ -1,5 +1,5 @@
 # MetalForge — Master FAQ
-> Last Updated: 2026-10-15 · Source: https://metalforge.io
+> Last Updated: 2026-10-30 · Source: https://metalforge.io
 
 Answer-first FAQ for the gear and techniques of the world's legendary metal drummers. Every answer links to a deeper source page on MetalForge.
 
@@ -57,7 +57,7 @@ Brann Dailor plays Tama Starclassic Performer B/B. The Mastodon drummer rounds o
 Chris Adler plays Mapex Saturn in Satin Black Maple Burl. The Lamb of God drummer rounds out the kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China) cymbals. [see /llms/drummers/chris-adler.md]
 
 ### What drums does Matt Halpern use?
-Matt Halpern plays Pearl Reference Series. The Periphery drummer rounds out the kit with a Pearl Reference 14x6.5" Brass snare and Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China) cymbals. [see /llms/drummers/matt-halpern.md]
+Matt Halpern plays Pearl Reference Series. The Periphery drummer rounds out the kit with a Pearl Matt Halpern Signature 14x6" Brass (MH1460/B) snare and Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack") cymbals. [see /llms/drummers/matt-halpern.md]
 
 ### What drums does Inferno use?
 Inferno plays Pearl Reference Series. The Behemoth drummer rounds out the kit with a Pearl Reference 14x5" Steel snare and Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China) cymbals. [see /llms/drummers/inferno.md]
@@ -81,13 +81,13 @@ Navene Koperweis plays DW Drums Performance Series. The Entheos / ex-Animals as 
 Alex Bent plays Tama Starclassic Maple. The ex-Trivium / Arkaik / Dragonlord drummer rounds out the kit with a Tama Starclassic Maple 14x5" snare and Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China) cymbals. [see /llms/drummers/alex-bent.md]
 
 ### What drums does Shannon Larkin use?
-Shannon Larkin plays ddrum Dios Series. The Godsmack / Ugly Kid Joe / Amen drummer rounds out the kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese) cymbals. [see /llms/drummers/shannon-larkin.md]
+Shannon Larkin plays ddrum Dios Series. The Godsmack / Ugly Kid Joe / Wrathchild America drummer rounds out the kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese) cymbals. [see /llms/drummers/shannon-larkin.md]
 
 ### What drums does Raymond Herrera use?
 Raymond Herrera plays Tama Starclassic. The Fear Factory / Arkaea / Brujeria drummer rounds out the kit with a Tama 14x6.5" Brass snare and Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China) cymbals. [see /llms/drummers/raymond-herrera.md]
 
 ### What drums does Morgan Ågren use?
-Morgan Ågren plays Sonor SQ2 Designer Series. The Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects drummer rounds out the kit with a Sonor Designer 14x5.5" Maple snare and Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China) cymbals. [see /llms/drummers/morgan-agren.md]
+Morgan Ågren plays Sonor SQ2 Beech. The Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects drummer rounds out the kit with a Sonor SQ2 Beech 14x5.5" Maple snare and Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China) cymbals. [see /llms/drummers/morgan-agren.md]
 
 ### What drums does Igor Cavalera use?
 Igor Cavalera plays Yamaha Absolute Hybrid Maple. The Sepultura / Cavalera Conspiracy / Soulwax drummer rounds out the kit with a Yamaha snare and Zildjian A Custom Series cymbals. [see /llms/drummers/igor-cavalera.md]
@@ -108,7 +108,7 @@ Matt Greiner plays Mapex Black Panther Design Lab. The August Burns Red drummer 
 Blake Richardson plays Tama Starclassic Bubinga (Custom Finish). The Between the Buried and Me drummer rounds out the kit with a Tama STARPHONIC 14x6" Brass snare and Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime) cymbals. [see /llms/drummers/blake-richardson.md]
 
 ### What drums does Ben Koller use?
-Ben Koller plays Tama Starclassic Maple. The Converge / Mutoid Man / Killer Be Killed drummer rounds out the kit with a Tama S.L.P. 14x6" Brass snare and Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China) cymbals. [see /llms/drummers/ben-koller.md]
+Ben Koller plays Tama Starclassic Performer B/B. The Converge / Mutoid Man / Killer Be Killed drummer rounds out the kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China) cymbals. [see /llms/drummers/ben-koller.md]
 
 ### What drums does Flo Mounier use?
 Flo Mounier plays Tama Starclassic Maple. The Cryptopsy drummer rounds out the kit with Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China) cymbals. [see /llms/drummers/flo-mounier.md]
@@ -141,7 +141,7 @@ Derek Roddy plays Tama Starclassic Bubinga. The Hate Eternal / Nile drummer roun
 Dirk Verbeuren plays Tama Starclassic Maple. The Megadeth drummer rounds out the kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare and Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China) cymbals. [see /llms/drummers/dirk-verbeuren.md]
 
 ### What drums does Frost use?
-Frost plays Tama Starclassic Bubinga. The Satyricon / 1349 drummer rounds out the kit with a Tama Starclassic Bubinga 14x5.5" snare and Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China) cymbals. [see /llms/drummers/frost.md]
+Frost plays Tama Starclassic Bubinga. The Satyricon / 1349 drummer rounds out the kit with a Tama Starclassic Bubinga 14x5.5" snare and Zildjian A Series cymbals. [see /llms/drummers/frost.md]
 
 ### What drums does Gavin Harrison use?
 Gavin Harrison plays Sonor SQ2 Series. The Porcupine Tree / King Crimson drummer rounds out the kit with a Sonor Gavin Harrison Signature 12x5" & 14x5.25" snare and Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China) cymbals. [see /llms/drummers/gavin-harrison.md]
@@ -362,7 +362,7 @@ A: Dave Lombardo plays Tama Starclassic drums with Paiste RUDE and 2002 cymbals.
 
 **Q: Is Dave Lombardo still in Slayer?**
 
-A: No, Dave left Slayer in 2013 but tours with the reunited Pantera as of 2022.
+A: No, Dave left Slayer in 2013. He now plays with Dead Cross, Mr. Bungle, and other projects.
 
 **Q: Where is Dave Lombardo from?**
 
@@ -692,7 +692,7 @@ A: Paul Bostaph uses Remo Powerstroke 3, Emperor Coated, and Ambassador drumhead
 
 **Q: What band is Paul Bostaph in?**
 
-A: Paul Bostaph is Slayer's longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1999-2001, 2024-present), Exodus (2005-2007), and Forbidden (1986-1991).
+A: Paul Bostaph is Slayer's longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1992-1993, 2004, 2007-2011), Exodus (2005-2007), and Forbidden (1986-1991).
 
 **Q: How long did Paul Bostaph play with Slayer?**
 
@@ -886,11 +886,11 @@ A: Morgan Ågren uses Remo drumheads across his Sonor SQ2 kit.
 
 **Q: What band is Morgan Ågren in?**
 
-A: Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 and has drummed for Devin Townsend Project (2012-2016), Kaipa (2002-2005), and toured with Frank Zappa's band in 1988.
+A: Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 and has drummed for Devin Townsend Project (2012-2016), Kaipa (2002-2005), and sat in with Frank Zappa's band for one Stockholm concert in 1988.
 
 **Q: How did Morgan Ågren start working with Frank Zappa?**
 
-A: Morgan Ågren was personally selected by Frank Zappa to tour with his band in 1988, a milestone that introduced his virtuosic playing to a global audience alongside his ongoing work co-founding and drumming for the Mats/Morgan Band since 1981.
+A: Morgan Ågren was personally selected by Frank Zappa to sit in with his band for one Stockholm concert in 1988, a milestone that introduced his virtuosic playing to a global audience alongside his ongoing work co-founding and drumming for the Mats/Morgan Band since 1981.
 
 ### Igor Cavalera
 
@@ -1052,7 +1052,7 @@ A: Mike Mangini plays his own signature Vater Mike Mangini Wicked Piston (VHMMWP
 
 **Q: What drum kit does Matt Garstka use?**
 
-A: Matt Garstka's drum kit is a DW Collector's Series custom shop build, mixing Collector's Series wood species and shell configurations, which he switched to in September 2021 after playing Tama for his first two Animals as Leaders albums. It's anchored by a DW Collector's Series Purpleheart snare, cutting through dense odd-meter passages.
+A: Matt Garstka's drum kit is a DW Collector's Series custom shop build, mixing Collector's Series wood species and shell configurations, which he switched to in September 2021 after playing Pearl for his first two Animals as Leaders albums. It's anchored by a DW Collector's Series Purpleheart snare, cutting through dense odd-meter passages.
 
 **Q: What drum set does Matt Garstka use?**
 
@@ -1094,19 +1094,19 @@ A: Matt Garstka uses 15" Meinl Byzance Dual Hi-Hats for nuanced, washy articulat
 
 **Q: What drum kit does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson's drum kit is a Pearl Reference Pure kit, a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy. It centers on his Pearl Daniel Erlandsson Signature 14"x5.5" snare and is topped with Paiste RUDE and 2002 Series cymbals, driven by a Pearl Demon Drive double pedal.
+A: Daniel Erlandsson's drum kit is a Pearl Reference Pure kit, a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy. It centers on his Pearl Daniel Erlandsson Signature 14"x5.5" snare and is topped with Sabian AAX/HHX Series cymbals, driven by a Pearl Eliminator Double Bass Pedal.
 
 **Q: What drum set does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson's drum set is a Pearl Reference Pure configuration built around his signature Pearl Daniel Erlandsson 14"x5.5" thin-shell snare for a fast, cracking response. The drum set carries Paiste RUDE and 2002 Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks.
+A: Daniel Erlandsson's drum set is a Pearl Reference Pure configuration built around his signature Pearl Daniel Erlandsson 14"x5.5" thin-shell snare for a fast, cracking response. The drum set carries Sabian AAX/HHX Series cymbals, a Pearl Eliminator Double Bass Pedal, and ProMark 5B sticks.
 
 **Q: What cymbals does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson uses Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats for aggressive, cutting chick sounds, 18" and 19" RUDE Crashes for explosive accents, and a 22" RUDE Power Ride built to punch through Arch Enemy's dense, dual-guitar attack.
+A: Daniel Erlandsson uses Sabian AAX/HHX Series cymbals: 14" HHX Hi-Hats for aggressive, cutting chick sounds, 18" and 19" AAX Crashes for explosive accents, and a 22" AAX Power Ride built to punch through Arch Enemy's dense, dual-guitar attack.
 
 **Q: What hi-hats does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson plays 14" Paiste RUDE Hi-Hats, delivering the aggressive, cutting chick sound that drives Arch Enemy's melodic death metal rhythms.
+A: Daniel Erlandsson plays 14" Sabian HHX Hi-Hats, delivering the aggressive, cutting chick sound that drives Arch Enemy's melodic death metal rhythms.
 
 **Q: What snare drum does Daniel Erlandsson play?**
 
@@ -1114,7 +1114,7 @@ A: Daniel Erlandsson plays his signature Pearl Daniel Erlandsson 14"x5.5" snare,
 
 **Q: What bass drum pedals does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson uses a Pearl Demon Drive double bass drum pedal, driving his rapid, precise double-bass patterns across decades of Arch Enemy recordings and tours.
+A: Daniel Erlandsson uses a Pearl Eliminator Double Bass Pedal, driving his rapid, precise double-bass patterns across decades of Arch Enemy recordings and tours.
 
 **Q: What band is Daniel Erlandsson in?**
 
@@ -1122,15 +1122,15 @@ A: Daniel Erlandsson is a founding member and drummer of melodic death metal ban
 
 **Q: What drumsticks does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson uses Vic Firth American Classic 5B drumsticks.
+A: Daniel Erlandsson uses ProMark 5B drumsticks.
 
 **Q: What drumheads does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson uses Evans drumheads across his Pearl Reference Pure kit.
+A: Daniel Erlandsson uses Remo drumheads across his Pearl Reference Pure kit.
 
 **Q: What hi-hats does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson uses 14" Paiste RUDE Hi-Hats for aggressive, cutting chick sounds, mounted on his Pearl Reference Pure drum kit and drum set.
+A: Daniel Erlandsson uses 14" Sabian HHX Hi-Hats for aggressive, cutting chick sounds, mounted on his Pearl Reference Pure drum kit and drum set.
 
 ### Jaska Raatikainen
 
@@ -1206,7 +1206,7 @@ A: Hannes Grossmann uses Evans drumheads across his DW Collectors kit.
 
 **Q: What band is Hannes Grossmann in?**
 
-A: Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist and Blotted Science.
+A: Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist, Blotted Science, and Hate Eternal (2015-2018, recording Upon Desolate Sands).
 
 **Q: What is Hannes Grossmann's musical background?**
 
@@ -1216,7 +1216,7 @@ A: Hannes Grossmann holds a degree in classical percussion and music theory, tra
 
 **Q: What drum kit does Daray use?**
 
-A: Since switching to Tama in 2014, Daray's kit has been anchored by a Starclassic Performer B/B shell pack in Piano Black, built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements. It centers on a Tama S.L.P. Black Brass snare. He played a Pearl Masterworks Stadium Exotic kit from 2008-2013, tracked on "Abrahadabra."
+A: Since switching to Tama in 2014, Daray's kit has been anchored by a Starclassic Performer B/B shell pack in Piano Black, built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements. It centers on a Tama S.L.P. Black Brass snare. He played a Pearl Reference Pure kit from 2008-2013, tracked on "Abrahadabra."
 
 **Q: What drum set does Daray use?**
 
@@ -1244,7 +1244,7 @@ A: Daray uses Evans drumheads across his Tama Starclassic kit.
 
 **Q: What band is Daray in?**
 
-A: Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2006-2016) and Vesania (since 2003).
+A: Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2004-2008) and Vesania (since 2003).
 
 **Q: Does Daray use trigger-assisted drums?**
 
@@ -1712,7 +1712,7 @@ A: Richard Christy uses Evans drumheads.
 
 **Q: What band is Richard Christy in?**
 
-A: Richard Christy recorded with Death from 1996-2001, played with Iced Earth from 2003-2007, and has drummed for his own band, Charred Walls of the Damned, since 2009.
+A: Richard Christy recorded with Death from 1997-2001, played with Iced Earth from 2003-2007, and has drummed for his own band, Charred Walls of the Damned, since 2009.
 
 **Q: What hi-hats does Richard Christy use?**
 
@@ -1746,7 +1746,7 @@ A: Aquiles Priester uses a DW 9000 Series double bass drum pedal, mounted alongs
 
 **Q: What band is Aquiles Priester in?**
 
-A: Aquiles Priester is best known for his work with Angra (2001-2008, 2023-present) and W.A.S.P. (2017-present), along with his own project Hangar.
+A: Aquiles Priester is best known for his work with Angra (2001-2008) and W.A.S.P. (2017-present), along with his own project Hangar.
 
 **Q: What drumsticks does Aquiles Priester use?**
 
@@ -2038,19 +2038,19 @@ A: Chris Adler plays 14" Meinl Byzance Dark Hi-Hats, part of the Byzance cymbal 
 
 **Q: What drum kit does Matt Halpern use?**
 
-A: Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery's complex polyrhythmic arrangements; the specific snare model has not been independently verified.
+A: Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery's complex polyrhythmic arrangements, built around his Pearl Matt Halpern Signature snare.
 
 **Q: What drum set does Matt Halpern use?**
 
-A: Matt Halpern's drum set pairs Pearl Reference Series shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent's syncopated rhythms; the specific snare model has not been independently verified.
+A: Matt Halpern's drum set pairs Pearl Reference Series shells with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent's syncopated rhythms.
 
 **Q: What cymbals does Matt Halpern play?**
 
-A: Matt Halpern plays Meinl Byzance Series cymbals: 14" Byzance Traditional Medium Hi-Hats, 18" and 20" Byzance Traditional Extra Thin Hammered Crashes, a 22" Byzance Sand Crash-Ride, and a 10" Byzance Traditional Splash, plus his signature Meinl Artist Concept "Double Down Stack".
+A: Matt Halpern plays Meinl Byzance Series cymbals: 14" Byzance Traditional Medium Hi-Hats, 18" and 20" Byzance Traditional Extra Thin Hammered Crashes, and a 21" Byzance Dark Double Down Crash-Ride, plus his signature Meinl Artist Concept "Double Down Stack".
 
 **Q: What snare does Matt Halpern use?**
 
-A: Matt Halpern's snare is part of his Pearl Reference Series kit; the specific snare model has not been independently verified.
+A: Matt Halpern plays his own signature Pearl Matt Halpern Signature Snare (MH1460/B), a 14"x6" 1.5mm brass shell with a black powder-coat finish.
 
 **Q: What sticks does Matt Halpern use?**
 
@@ -2092,7 +2092,7 @@ A: Inferno's snare is a Pearl Reference 14"x5" Steel, tuned for maximum cutting 
 
 **Q: What sticks does Inferno use?**
 
-A: Inferno uses Vic Firth American Classic 2B drumsticks.
+A: Inferno uses Vic Firth American Classic Extreme 5B drumsticks.
 
 **Q: What bass drum pedal does Inferno use?**
 
@@ -2214,7 +2214,7 @@ A: Jason Bittner plays his own signature Promark Jason Bittner Signature 5BX dru
 
 **Q: What bass drum pedal does Jason Bittner use?**
 
-A: Jason Bittner drives his sustained double-kick passages with a Mapex Falcon double pedal, seated on a Mapex T865 throne.
+A: Jason Bittner drives his sustained double-kick passages with a Mapex Falcon double pedal.
 
 **Q: What drumheads does Jason Bittner use?**
 
@@ -2222,7 +2222,7 @@ A: Jason Bittner uses Evans drumheads across his Mapex Saturn V kit.
 
 **Q: What band is Jason Bittner in?**
 
-A: Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (1999-2015) and Flotsam and Jetsam (2013-2017).
+A: Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (2001-2015) and Flotsam and Jetsam (2013-2017).
 
 **Q: What hi-hats does Jason Bittner use?**
 
@@ -2308,7 +2308,7 @@ A: Travis Orbin plays 14" Zildjian K Custom Dark Hi-Hats, part of his K Custom c
 
 **Q: What drum kit does Ryan Van Poederooyen use?**
 
-A: Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend's primary drummer across two decades of genre-hopping albums, from ambient soundscapes to full-throttle metal assaults.
+A: Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend's primary drummer (2002–2018) across genre-hopping albums, from ambient soundscapes to full-throttle metal assaults.
 
 **Q: What drum set does Ryan Van Poederooyen use?**
 
@@ -2336,11 +2336,11 @@ A: Ryan Van Poederooyen uses Evans drumheads across his Pearl Reference kit.
 
 **Q: What band is Ryan Van Poederooyen in?**
 
-A: Ryan Van Poederooyen has been Devin Townsend's primary drummer since 2002, including the Devin Townsend Project era from 2009 to 2018.
+A: Ryan Van Poederooyen was Devin Townsend's primary drummer from 2002 to 2018, including the Devin Townsend Project era from 2009 to 2018.
 
 **Q: How long has Ryan Van Poederooyen played with Devin Townsend?**
 
-A: Ryan Van Poederooyen has been Devin Townsend's primary drummer for more than two decades, appearing on nearly every solo and band album since joining in 2002 — including "Accelerated Evolution" (2003), "Deconstruction" (2011), and "Lightwork" (2022) — after being recommended to Townsend by Gene Hoglan, Townsend's previous drummer in Strapping Young Lad.
+A: Ryan Van Poederooyen was Devin Townsend's primary drummer from 2002 to 2018, appearing on nearly every solo and band album in that span — including "Accelerated Evolution" (2003), "Deconstruction" (2011), and "Transcendence" (2016) — after being recommended to Townsend by Gene Hoglan, Townsend's previous drummer in Strapping Young Lad.
 
 ### Nick Augusto
 
@@ -2514,11 +2514,11 @@ A: Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorad
 
 **Q: What drum kit does Ben Koller use?**
 
-A: Ben Koller plays a Tama Starclassic Maple drum kit, the streamlined, hard-hitting configuration that powers Converge's sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."
+A: Ben Koller plays a Tama Starclassic Performer B/B drum kit, the streamlined, hard-hitting configuration that powers Converge's sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."
 
 **Q: What drum set does Ben Koller use?**
 
-A: Ben Koller's drum set pairs his Tama Starclassic Maple shells and S.L.P. 14"x6" Brass snare with a Tama Iron Cobra 900 double pedal, the stripped-down, hard-hitting configuration that powers Converge's sonic brutality.
+A: Ben Koller's drum set pairs his Tama Starclassic Performer B/B shells and S.L.P. 14"x6" Brass snare with a Tama Iron Cobra double pedal, the stripped-down, hard-hitting configuration that powers Converge's sonic brutality.
 
 **Q: What snare does Ben Koller use?**
 
@@ -2526,7 +2526,7 @@ A: Koller's snare is a Tama S.L.P. 14"x6" Brass, delivering the sharp, cutting c
 
 **Q: What cymbals does Ben Koller play?**
 
-A: Ben Koller plays Zildjian K Dark Series cymbals: 14" K Dark Thin Hi-Hats, 18" and 19" K Dark Medium Thin Crashes, a 21" K Custom Ride, and an 18" K China.
+A: Ben Koller plays Zildjian K Custom & A Custom Series cymbals: 14" K Custom Thin Hi-Hats, 18" and 19" K Custom Medium Thin Crashes, a 21" K Custom Ride, and an 18" K China.
 
 **Q: What sticks does Ben Koller use?**
 
@@ -2534,13 +2534,13 @@ A: Ben Koller plays Vic Firth American Classic 5B sticks, paired with Remo drumh
 
 **Q: What bass drum pedal does Ben Koller use?**
 
-A: Koller drives Converge's blistering tempos with a Tama Iron Cobra 900 double pedal.
+A: Koller drives Converge's blistering tempos with a Tama Iron Cobra double pedal.
 
 ### Pete Sandoval
 
 **Q: What band does Pete Sandoval play drums for?**
 
-A: Pete Sandoval drummed for Morbid Angel from 1988-2013 and co-founded Terrorizer. He reunited with former Morbid Angel vocalist David Vincent in 2022 to drum for I Am Morbid.
+A: Pete Sandoval drummed for Morbid Angel from 1988-2010 and co-founded Terrorizer. He reunited with former Morbid Angel vocalist David Vincent in 2022 to drum for I Am Morbid.
 
 **Q: What drums does Pete Sandoval play?**
 
@@ -2682,7 +2682,7 @@ A: Navene Koperweis uses Evans drumheads across his DW Performance kit.
 
 **Q: What band is Navene Koperweis in?**
 
-A: Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2010-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.
+A: Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2009-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.
 
 **Q: What other projects has Navene Koperweis worked on?**
 
@@ -2784,7 +2784,7 @@ A: Yes. Reinert had classical and jazz training that directly shaped his ghost n
 
 **Q: When did Sean Reinert co-found Cynic?**
 
-A: Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1990.
+A: Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1991.
 
 **Q: When did Sean Reinert die?**
 
@@ -2818,7 +2818,7 @@ A: Nick Menza recorded Rust in Peace (1990), Countdown to Extinction (1992), You
 
 **Q: What drum kit did Nick Menza use on Rust in Peace?**
 
-A: Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish with birch shells, Zildjian A Series cymbals, and a DW 5000 double pedal on Rust in Peace.
+A: Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish with birch shells and Zildjian A Series cymbals on Rust in Peace; his bass drum pedal brand for this era is not publicly documented.
 
 **Q: Why did Nick Menza leave Megadeth?**
 
@@ -2850,7 +2850,7 @@ A: Nick Menza played a Tama Steel 14"x5.5" 8-lug snare during the Rust in Peace 
 
 **Q: What bass drum pedal did Nick Menza use?**
 
-A: Nick Menza drove his surgical double-bass patterns with a DW 5000 double pedal, maintaining clean, articulate kick work at 180-200 BPM.
+A: Nick Menza drove his surgical double-bass patterns with a double bass drum pedal, maintaining clean, articulate kick work at 180-200 BPM; the specific pedal brand for this era is not publicly documented.
 
 ### Adrian Erlandsson
 

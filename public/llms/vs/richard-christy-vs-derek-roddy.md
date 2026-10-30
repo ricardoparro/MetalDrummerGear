@@ -67,4 +67,4 @@ A: Richard Christy plays a Pearl Masters Custom kit with a 14x6.5" Pearl Masters
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

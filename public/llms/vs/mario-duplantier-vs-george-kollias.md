@@ -30,11 +30,11 @@ Mario Duplantier combines tribal, atmospheric drumming with progressive death me
 
 ## Technique
 
-Mario uses tribal power, explosive accents, and stamina-driven endurance across Gojira's massive, atmospheric compositions. George employs heel-toe technique for sustained blast beats at 280+ BPM, combining mechanical precision with technical death metal complexity.
+Mario uses tribal power, explosive accents, and stamina-driven endurance across Gojira's massive, atmospheric compositions. George employs heel-toe technique for sustained blast beats at 240+ BPM, combining mechanical precision with technical death metal complexity.
 
 ## Key Differences
 
-Mario endorses Tama Starclassic Bubinga drums with Zildjian K Sweet and A Custom cymbals and Tama signature sticks. George plays Pearl Reference drums with Pearl Demon XR pedals specifically engineered for extreme-tempo double bass. Mario uses tribal power, explosive accents, and stamina-driven endurance across Gojira's massive, atmospheric compositions. George employs heel-toe technique for sustained blast beats at 280+ BPM, combining mechanical precision with technical death metal complexity.
+Mario endorses Tama Starclassic Bubinga drums with Zildjian K Sweet and A Custom cymbals and Tama signature sticks. George plays Pearl Reference drums with Pearl Demon XR pedals specifically engineered for extreme-tempo double bass. Mario uses tribal power, explosive accents, and stamina-driven endurance across Gojira's massive, atmospheric compositions. George employs heel-toe technique for sustained blast beats at 240+ BPM, combining mechanical precision with technical death metal complexity.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

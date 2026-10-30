@@ -2,7 +2,7 @@
 
 This page indexes every verified cymbal setup catalogued in MetalForge's cymbals database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-10-15 · Source: https://metalforge.io
+> Last Updated: 2026-10-30 · Source: https://metalforge.io
 
 For types, alloys, and sizing/weight reference pages see the Reference Guides section below. For brand positioning and metal-relevant series see [https://metalforge.io/cymbals/brands](https://metalforge.io/cymbals/brands). For a buying guide by budget tier see [https://metalforge.io/cymbals/best-for-metal](https://metalforge.io/cymbals/best-for-metal).
 
@@ -82,7 +82,7 @@ A: The best setup depends on the sub-genre and how hard you hit, but a durable, 
 - Chris Turner — [Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China)](https://metalforge.io/llms/cymbals/setups/chris-turner.md) ([profile](https://metalforge.io/drummer/chris-turner))
 - Matt Greiner — [Paiste Formula 602 (14" Hi-Hats, 16", 17" & 18" Crashes, 22" Ride, 18" China, 10" Splash)](https://metalforge.io/llms/cymbals/setups/matt-greiner.md) ([profile](https://metalforge.io/drummer/matt-greiner))
 - Blake Richardson — [Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime)](https://metalforge.io/llms/cymbals/setups/blake-richardson.md) ([profile](https://metalforge.io/drummer/blake-richardson))
-- Ben Koller — [Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)](https://metalforge.io/llms/cymbals/setups/ben-koller.md) ([profile](https://metalforge.io/drummer/ben-koller))
+- Ben Koller — [Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China)](https://metalforge.io/llms/cymbals/setups/ben-koller.md) ([profile](https://metalforge.io/drummer/ben-koller))
 - Flo Mounier — [Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)](https://metalforge.io/llms/cymbals/setups/flo-mounier.md) ([profile](https://metalforge.io/drummer/flo-mounier))
 - Jason Bittner — [Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China)](https://metalforge.io/llms/cymbals/setups/jason-bittner.md) ([profile](https://metalforge.io/drummer/jason-bittner))
 - Martin Lopez — [Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China)](https://metalforge.io/llms/cymbals/setups/martin-lopez.md) ([profile](https://metalforge.io/drummer/martin-lopez))

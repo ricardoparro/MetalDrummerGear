@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/frost"
 source: "https://metalforge.io"
-last_updated: "2026-10-28"
+last_updated: "2026-10-30"
 ---
 
 # Frost — Drum Kit & Gear Setup
@@ -37,7 +37,7 @@ Zildjian A Series cymbals define the tonal character of the Frost drum kit: 14" 
 
 Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and joined 1349 around 2000, becoming a full member by 2003. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.
 
-Kjetil-Vidar Haraldstad (born June 28, 1973, in Øyer, Norway), known professionally as Frost, is a Norwegian drummer and one of the most iconic figures in Scandinavian black metal. He is the longtime drummer for Satyricon since 1993 and 1349 since the band's formation in 2001.
+Kjetil-Vidar Haraldstad (born June 28, 1973, in Øyer, Norway), known professionally as Frost, is a Norwegian drummer and one of the most iconic figures in Scandinavian black metal. He is the longtime drummer for Satyricon since 1993 and joined 1349 as a drummer around 2000, becoming a full member by 2003.
 
 Frost is renowned for his blistering speed, metronomic precision, and seemingly inhuman stamina. His blast beats and hyperspeed drumming have set the technical standard for black metal percussion, combining raw ferocity with disciplined execution. Despite the often chaotic and raw nature of black metal, Frost brings a level of technicality and consistency that has influenced countless extreme metal drummers worldwide.
 
@@ -46,7 +46,7 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
 - **1993** — Joined Satyricon, establishing a legendary partnership with Satyr
 - **1996** — Released "Nemesis Divina" with Satyricon, a black metal landmark
 - **1999** — Released "Rebel Extravaganza," pushing black metal into industrial territories
-- **2001** — Co-founded 1349, a pure black metal project alongside Ravn and Archaon
+- **2001** — Joined 1349 as drummer, appearing on the band's debut EP
 - **2003** — Released "Liberation" with 1349, showcasing extreme drumming prowess
 - **2005** — Released "Hellfire" with 1349, featuring some of the fastest drumming in black metal
 - **2006** — Released "Now, Diabolical" with Satyricon, achieving mainstream metal success
@@ -244,4 +244,4 @@ Dated brand-endorsement timeline: [Frost's endorsement history](https://metalfor
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-28 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

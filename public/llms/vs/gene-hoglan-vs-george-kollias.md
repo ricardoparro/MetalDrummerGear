@@ -30,11 +30,11 @@ Gene brings scientific precision to progressive death and thrash metal with inhu
 
 ## Technique
 
-Gene pioneered the gravity blast and is known for impossibly tight double bass and timing. George uses heel-toe technique for sustained blast beats at 280+ BPM.
+Gene pioneered the gravity blast and is known for impossibly tight double bass and timing. George uses heel-toe technique for sustained blast beats at 240+ BPM.
 
 ## Key Differences
 
-Gene endorses Pearl drums for power and projection with signature sticks. George plays Pearl drums with Pearl Demon XR pedals for ultimate speed. Gene pioneered the gravity blast and is known for impossibly tight double bass and timing. George uses heel-toe technique for sustained blast beats at 280+ BPM.
+Gene endorses Pearl drums for power and projection with signature sticks. George plays Pearl drums with Pearl Demon XR pedals for ultimate speed. Gene pioneered the gravity blast and is known for impossibly tight double bass and timing. George uses heel-toe technique for sustained blast beats at 240+ BPM.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

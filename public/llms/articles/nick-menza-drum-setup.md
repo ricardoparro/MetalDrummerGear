@@ -111,11 +111,11 @@ A: On Rust in Peace (1990), Nick Menza played a Tama Steel snare drum, typically
 
 **Q: What cymbals did Nick Menza endorse?**
 
-A: Nick Menza was a Zildjian endorsee throughout his Megadeth career. His setup centered on the Zildjian A series: 14" New Beat Hi-Hats, 17" and 19" A Medium Crashes, a 20" A Medium Ride, and an 18" A China Boy High. On Rust in Peace, he also used the then-new Zildjian A Custom series, which featured a brilliant finish and fast, bright response.
+A: Nick Menza's cymbal endorsements moved from Zildjian (1990, Rust in Peace) to Paiste (1992) to Sabian (1997, his final Megadeth-era endorsement). On Rust in Peace, his setup centered on the Zildjian A series: 14" New Beat Hi-Hats, 17" and 19" A Medium Crashes, a 20" A Medium Ride, and an 18" A China Boy High, along with the then-new Zildjian A Custom series, which featured a brilliant finish and fast, bright response.
 
 **Q: What double bass pedal did Nick Menza use?**
 
-A: Nick Menza used the Tama Iron Cobra double bass drum pedal through much of his Megadeth career, particularly from the Countdown to Extinction era onward. The Iron Cobra's rolling glide cam system provided consistent feel and reliable performance across extensive world tours. For Rust in Peace, he used a DW 5000 double pedal before transitioning to Tama pedals.
+A: Nick Menza used the Tama Iron Cobra double bass drum pedal through much of his Megadeth career, particularly from the Countdown to Extinction era onward. The Iron Cobra's rolling glide cam system provided consistent feel and reliable performance across extensive world tours. His pedal brand for the earlier Rust in Peace era is not publicly documented.
 
 **Q: What made Nick Menza different from other thrash metal drummers?**
 
@@ -136,4 +136,4 @@ A: Nick Menza's jazz education — he was the son of jazz saxophonist Don Menza 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

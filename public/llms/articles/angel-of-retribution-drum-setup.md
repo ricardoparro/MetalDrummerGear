@@ -16,7 +16,7 @@ When Rob Halford rejoined Judas Priest in 2003 after a 13-year departure that be
 
 Recorded at a series of California studios and co-produced by Roy Z alongside the band itself, Angel of Retribution sits in a unique place on the Judas Priest timeline. It closes the 15-year arc gap between 1990's blistering "Painkiller" and the orchestral concept work of 2008's "Nostradamus," before the band's eventual return to brute-force metal on 2018's "Firepower." Travis's drumming on the record — particularly on the 13-minute closing epic "Eulogy/Lochness" — is the connective tissue that holds those eras together.
 
-The gear story on Angel of Retribution is one of transition. By 2005, Travis had moved off the Tama Artstar II kit and Paiste cymbals that carried him through Painkiller and Jugulator and onto Pearl's flagship Reference Series — a hybrid maple/birch/mahogany shell pack in Piano Black — paired with a new Sabian cymbal deal. Photographs and live footage from the 2004-2005 sessions and supporting tour consistently show him behind the Pearl kit, with a hand-hammered Sabian HH/AA hybrid setup and Vic Firth sticks. Tracks like the lead single "Revolution," the anthemic "Worth Fighting For," and the sprawling "Eulogy/Lochness" each showcase a different facet of that new mid-period rig.
+The gear story on Angel of Retribution is one of partial transition. By 2005, Travis had moved off the Tama Artstar II kit that carried him through Painkiller and Jugulator and onto Pearl's flagship Reference Series — a hybrid maple/birch/mahogany shell pack in Piano Black. Photographs and live footage from the 2004-2005 sessions and supporting tour consistently show him behind the new Pearl kit, still running his Paiste cymbals and Vic Firth sticks exactly as before. Tracks like the lead single "Revolution," the anthemic "Worth Fighting For," and the sprawling "Eulogy/Lochness" each showcase a different facet of that new mid-period rig.
 
 This is the album where Travis stopped trying to repeat Painkiller and started playing for the song. The double-kick fury is still there when the material demands it, but Angel of Retribution leans on groove, dynamics, and patience — exactly what a reunion record needed to be taken seriously rather than dismissed as a victory lap.
 
@@ -24,7 +24,7 @@ This is the album where Travis stopped trying to repeat Painkiller and started p
 
 - **Drums:** Pearl Pearl Reference Series (Piano Black finish)
 - **Snare:** Pearl Pearl Reference Brass 14" x 6.5", 14" x 6.5"
-- **Cymbals:** Sabian — Sabian HH / AA Hybrid
+- **Cymbals:** Paiste — Paiste RUDE / 2002 Series
 - **Hardware / Pedals:** Pearl Demon Drive (x2 independent pedals); Pearl Eliminator Hi-Hat Stand; Pearl Roadster Throne, round seat; Vic Firth American Classic 5B
 - **Heads:** Evans HD Dry (batter), Evans 300 Snare Side (resonant)
 - **Snare tuning:** Medium-high tension with focused snare wires for cut without losing body
@@ -45,30 +45,30 @@ The brass shell gives the snare a darker, more complex backbeat with more body t
 
 Travis tuned the drum medium-high — the same tuning philosophy he's used across his career — to find a middle ground between projection and tone. The brass snare's darker character is a big part of what makes Angel of Retribution feel modern next to its 1990 predecessor while still sounding unmistakably like the same drummer.
 
-### Sabian HH/AA: A New Cymbal Deal
+### Paiste RUDE/2002: Unbroken Through the Pearl Switch
 
-Scott Travis's Pearl deal came with a new cymbal endorsement, and Angel of Retribution captures him early into the Sabian relationship, having moved on from his long-running Paiste setup. The rig combines hand-hammered HH cymbals (built for warmth and complexity) with machine-hammered AA cymbals (brighter, faster response) — a hybrid approach that gives Travis tonal options without sacrificing the projection he needs to sit on top of K.K. Downing and Glenn Tipton's dual-guitar wall.
+Scott Travis's 2005 Pearl kit switch came with a new drum brand but the same cymbal endorsement — Angel of Retribution runs on the same Paiste rig that carried him through Painkiller and Jugulator. The RUDE line (heavy, aggressive, built for projection) pairs with the 2002 series (slightly brighter, faster response) for a combination that gives Travis tonal options without sacrificing the projection he needs to sit on top of K.K. Downing and Glenn Tipton's dual-guitar wall.
 
-The 14" HH Hi-Hats suit Angel of Retribution's groove-leaning material — particularly the verse of "Revolution" and the long instrumental passages of "Lochness," where hi-hat color matters as much as articulation.
+The 14" RUDE Hi-Hats suit Angel of Retribution's groove-leaning material — particularly the verse of "Revolution" and the long instrumental passages of "Lochness," where hi-hat color matters as much as articulation.
 
-The crash array spans 16" to 20", giving Travis a range from quick AA Medium accents to larger sustaining HH hits. The 22" HH Power Ride is the centerpiece of the right side — a heavy, articulate ride with a pronounced bell that drives the ride patterns on the verses of "Deal With the Devil" and the slow build of "Eulogy." The 18" AA China provides the trashy accent voice for the heavier moments on "Hellrider" and the climactic sections of "Lochness."
+The crash array spans 16" to 20", giving Travis a range from quick 2002 Medium accents to larger sustaining RUDE hits. The 22" RUDE Power Ride is the centerpiece of the right side — a heavy, articulate ride with a pronounced bell that drives the ride patterns on the verses of "Deal With the Devil" and the slow build of "Eulogy." The 18" RUDE China provides the trashy accent voice for the heavier moments on "Hellrider" and the climactic sections of "Lochness."
 
-This setup represents Travis's first year on his new cymbal platform: a hand-hammered HH/AA hybrid rig with a deliberate balance between cutting attack and musical sustain, replacing the Paiste setup he'd used since joining the band.
+This is the same Paiste cymbal platform Travis has run since joining the band in 1989 — the one piece of his rig the 2005 Pearl switch didn't touch.
 
 ## Closing the Arc
 
 Angel of Retribution isn't the loudest, fastest, or most extreme Judas Priest album — and that's exactly what makes it important. It's the record where Rob Halford came home after 13 years, where the classic lineup proved it could still write together, and where Scott Travis made the quiet but decisive shift from being the drummer who reinvented Priest on Painkiller to being the long-arc drummer who could serve any version of the band that came next.
 
-The new Pearl Reference Series kit, the Pearl Reference Brass snare, the Sabian HH/AA cymbal setup, the Pearl Demon Drive pedals, and the Vic Firth sticks all add up to a rebuilt rig doing a new job: a mid-2000s reunion record that needed to feel modern without abandoning the band's DNA. Tracks like "Revolution," "Worth Fighting For," and the sprawling "Eulogy/Lochness" each show a different side of that toolkit, and together they bridge the 15-year arc gap between Painkiller (1990) and Nostradamus (2008) before the eventual Firepower-era gear change in 2018.
+The new Pearl Reference Series kit, the Pearl Reference Brass snare, the Pearl Demon Drive pedals, the unchanged Paiste RUDE/2002 cymbal setup, and the Vic Firth sticks all add up to a rebuilt rig doing a new job: a mid-2000s reunion record that needed to feel modern without abandoning the band's DNA. Tracks like "Revolution," "Worth Fighting For," and the sprawling "Eulogy/Lochness" each show a different side of that toolkit, and together they bridge the 15-year arc gap between Painkiller (1990) and Nostradamus (2008) before the eventual Firepower-era gear change in 2018.
 
-For drummers studying Travis's career, Angel of Retribution is the missing middle chapter — the record that explains how the Painkiller phenom became the Firepower veteran, via a thirteen-year detour through Pearl and Sabian, without losing either identity along the way.
+For drummers studying Travis's career, Angel of Retribution is the missing middle chapter — the record that explains how the Painkiller phenom became the Firepower veteran, via a thirteen-year detour through Pearl, with Paiste the one constant running underneath it all.
 
 ## Key Facts
 
 - Rob Halford's first studio album back with Judas Priest after a 13-year departure (1992-2005)
 - Closes the 15-year arc gap on the Priest timeline: Painkiller (1990) → Angel of Retribution (2005) → Nostradamus (2008) → Firepower (2018)
 - Co-produced by Roy Z with Judas Priest at various California studios
-- Scott Travis moved to a Pearl Reference Series kit and Sabian cymbals, leaving behind the Tama/Paiste setup of his Painkiller era
+- Scott Travis moved to a Pearl Reference Series kit, leaving behind the Tama Artstar II of his Painkiller era, while his Paiste cymbal setup carried over unchanged
 - Features the 13-minute 'Eulogy/Lochness' epic — one of the most ambitious Priest tracks of the modern era
 - Switched from the Tama Artstar II used on Painkiller/Jugulator to Pearl's hybrid-ply Reference Series
 - Streamlined two-rack-tom configuration vs. the three rack toms of Painkiller
@@ -86,15 +86,15 @@ A: For the 2005 Angel of Retribution sessions, Scott Travis played a Pearl Refer
 
 **Q: Did Scott Travis switch drum brands by 2005?**
 
-A: Yes — Travis switched from Tama drums and Paiste cymbals to Pearl's Reference Series and a new Sabian HH/AA hybrid cymbal setup around the time of the Halford reunion. The move gave him a warmer, more versatile hybrid shell pack better suited to Angel of Retribution's dynamic range, and it's the platform documented on the album alongside a Pearl Reference Brass snare, Pearl Demon Drive pedals, and Vic Firth sticks. Travis stayed on this Pearl/Sabian setup through Nostradamus (2008) and Redeemer of Souls (2014) before switching again for Firepower (2018).
+A: Yes and no — Travis switched from Tama drums to Pearl's Reference Series around the time of the Halford reunion, but his cymbals stayed Paiste throughout. The move gave him a warmer, more versatile hybrid shell pack better suited to Angel of Retribution's dynamic range, and it's the platform documented on the album alongside a Pearl Reference Brass snare, Pearl Demon Drive pedals, his unchanged Paiste RUDE/2002 cymbals, and Vic Firth sticks. Travis stayed on this Pearl kit through Nostradamus (2008) and Redeemer of Souls (2014) before switching drum brands again for Firepower (2018) — his Paiste cymbals never moved.
 
 **Q: What cymbals did Scott Travis use on Angel of Retribution?**
 
-A: Travis had just moved to Sabian, and his 2005 setup combined the hand-hammered HH line with the machine-hammered AA line. The rig included 14 inch HH Hi-Hats, HH and AA crashes from 16 to 20 inches, a 22 inch HH Power Ride, and an 18 inch AA China for trashy accents on tracks like Hellrider and the Lochness section of the closing epic.
+A: Travis stayed on the same Paiste cymbals he'd played since joining the band, combining the heavier RUDE line with the brighter 2002 line. The rig included 14 inch RUDE Hi-Hats, RUDE and 2002 crashes from 16 to 20 inches, a 22 inch RUDE Power Ride, and an 18 inch RUDE China for trashy accents on tracks like Hellrider and the Lochness section of the closing epic.
 
 **Q: How does Angel of Retribution fit between Painkiller and Firepower in Scott Travis's career?**
 
-A: Angel of Retribution closes a 15-year arc gap on the Judas Priest timeline: Painkiller in 1990, Angel of Retribution in 2005, Nostradamus in 2008, and Firepower in 2018. For Travis specifically, it's the album where he stops being purely the speed-metal phenom of Painkiller and becomes the long-arc Priest drummer — and where he switched from his Painkiller-era Tama/Paiste setup to a new Pearl Reference Series kit and Sabian cymbals. That Pearl/Sabian platform, and a more restrained song-serving approach, both point toward the mature drumming he'd bring to the band's later work. It's also Rob Halford's first studio album back with Judas Priest after a 13-year departure, making it as much a comeback record for the band as a maturation point for Travis's playing.
+A: Angel of Retribution closes a 15-year arc gap on the Judas Priest timeline: Painkiller in 1990, Angel of Retribution in 2005, Nostradamus in 2008, and Firepower in 2018. For Travis specifically, it's the album where he stops being purely the speed-metal phenom of Painkiller and becomes the long-arc Priest drummer — and where he switched from his Painkiller-era Tama Artstar II to a new Pearl Reference Series kit, while his Paiste cymbals carried over unchanged. That new Pearl platform, and a more restrained song-serving approach, both point toward the mature drumming he'd bring to the band's later work. It's also Rob Halford's first studio album back with Judas Priest after a 13-year departure, making it as much a comeback record for the band as a maturation point for Travis's playing.
 
 **Q: What is significant about the 'Eulogy/Lochness' track for drum performance?**
 
@@ -113,4 +113,4 @@ A: Eulogy/Lochness is a 13-minute closing epic that gives Travis more long-form 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

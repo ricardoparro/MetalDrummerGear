@@ -4,7 +4,7 @@
 
 **Category:** Extreme / Death / Black Metal · **URL:** https://metalforge.io/vs/george-kollias-vs-tomas-haake
 
-Nile's George Kollias (280 BPM blast beats) vs Meshuggah's Tomas Haake (polyrhythmic maestro). Two elite extreme metal drummers — raw speed vs mathematical complexity compared.
+Nile's George Kollias (240 BPM blast beats) vs Meshuggah's Tomas Haake (polyrhythmic maestro). Two elite extreme metal drummers — raw speed vs mathematical complexity compared.
 
 ---
 
@@ -26,7 +26,7 @@ Nile's George Kollias (280 BPM blast beats) vs Meshuggah's Tomas Haake (polyrhyt
 
 ## Playing Style
 
-George Kollias represents the apex of death metal speed — blast beats at 280+ BPM with heel-toe double bass, delivering ancient Egyptian brutality with Nile. Tomas Haake invented djent drumming with Meshuggah — robotic polyrhythmic precision and machine-like consistency that created an entirely new sub-genre.
+George Kollias represents the apex of death metal speed — blast beats at 240+ BPM with heel-toe double bass, delivering ancient Egyptian brutality with Nile. Tomas Haake invented djent drumming with Meshuggah — robotic polyrhythmic precision and machine-like consistency that created an entirely new sub-genre.
 
 ## Technique
 
@@ -67,4 +67,4 @@ A: George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom D
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

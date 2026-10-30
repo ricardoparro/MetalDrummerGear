@@ -67,4 +67,4 @@ A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

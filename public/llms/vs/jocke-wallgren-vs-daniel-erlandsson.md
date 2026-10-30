@@ -67,4 +67,4 @@ A: The gallop is Amon Amarth's signature double-bass rhythmic figure — two rap
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

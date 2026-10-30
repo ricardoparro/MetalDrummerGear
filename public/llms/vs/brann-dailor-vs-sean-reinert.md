@@ -64,4 +64,4 @@ A: Brann Dailor is best known for Mastodon's "Leviathan" (2004), "Blood Mountain
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

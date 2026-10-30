@@ -1,6 +1,6 @@
 # MetalForge — Signature Licks Database
 > Drummer signature fills, beats, and patterns with technique breakdowns and tutorial videos.
-Last updated: 2026-10-15 · Source: https://metalforge.io
+Last updated: 2026-10-30 · Source: https://metalforge.io
 
 Step-by-step breakdowns of iconic metal drum licks. Each entry lists tempo, time signature, difficulty, and techniques, followed by an answer-first "how to play it" walkthrough, the tutorial video, and the canonical page URL to cite.
 
@@ -3371,11 +3371,6 @@ Profile: [https://metalforge.io/drummers/isaac-lamb](https://metalforge.io/drumm
 - Work the transition into the breakdown as a specific drill, practising the tempo drop until it feels intentional rather than hesitant
 - Compare your snare placement to the recording — it should land identically on two and four throughout, with no drift
 
-**Gear Used:**
-- SJC Custom Drums (drums)
-- Meinl Cymbals (cymbals)
-- Vic Firth Sticks (sticks)
-
 **Tutorial:** https://www.youtube.com/watch?v=CJ4CZT8kyUg
 **Page:** https://metalforge.io/drummers/isaac-lamb/licks/isaac-lamb-bc-beatdown-groove
 
@@ -3396,11 +3391,6 @@ Profile: [https://metalforge.io/drummers/isaac-lamb](https://metalforge.io/drumm
 - Practise the phrase-end stroke before each section change until it is automatic — this is the technical hinge that makes the transition sharp
 - Compare your breakdown entry to the recording — it should be immediate and heavy, not cautious or hesitant
 
-**Gear Used:**
-- SJC Custom Drums (drums)
-- Meinl Cymbals (cymbals)
-- Vic Firth Sticks (sticks)
-
 **Tutorial:** https://www.youtube.com/watch?v=TqVLhYoWQGo
 **Page:** https://metalforge.io/drummers/isaac-lamb/licks/isaac-lamb-true-fear-hardcore-intensity
 
@@ -3420,11 +3410,6 @@ Profile: [https://metalforge.io/drummers/isaac-lamb](https://metalforge.io/drumm
 - Check that your snare hits have identical impact across the groove — any variation in weight should be intentional, not habitual
 - Work the pre-breakdown closing figure as a separate drill until it consistently sets up the tempo displacement rather than stumbling into it
 - Compare your kick placement to the recording beat-by-beat — each kick should align with the guitar's rhythmic accents exactly
-
-**Gear Used:**
-- SJC Custom Drums (drums)
-- Meinl Cymbals (cymbals)
-- Vic Firth Sticks (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=ZEtRYtEchnA
 **Page:** https://metalforge.io/drummers/isaac-lamb/licks/isaac-lamb-boomslang-groove-power
@@ -3896,8 +3881,8 @@ Profile: [https://metalforge.io/drummers/joey-jordison](https://metalforge.io/dr
 - Take breaks to avoid injury - blast beats are physically demanding
 
 **Gear Used:**
-- Pearl Export Series Kit (drums)
-- Paiste 2002 14" Hi-Hats (cymbals)
+- ddrum kit (drums)
+- Zildjian A Custom 14" Hi-Hats (cymbals)
 
 **Tutorial:** https://www.youtube.com/watch?v=fyRg3IKLCuY
 **Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-eyeless-blast
@@ -3963,8 +3948,8 @@ Profile: [https://metalforge.io/drummers/joey-jordison](https://metalforge.io/dr
 - Record and listen to confirm the displaced accent lands consistently in the intended rhythmic position
 
 **Gear Used:**
-- Pearl Export Series Kit (drums)
-- Paiste 2002 Cymbals (cymbals)
+- ddrum kit (drums)
+- Zildjian A Custom Cymbals (cymbals)
 **Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-people-snare-pattern
 
 ### The Heretic Anthem Blast-Beat Run — "The Heretic Anthem", Iowa (2001)
@@ -7011,9 +6996,9 @@ Profile: [https://metalforge.io/drummers/tim-yeung](https://metalforge.io/drumme
 - Add five BPM per session once you can sustain the current tempo cleanly for a full minute
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Sabian AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (pedals)
+- Tama Speed Cobra 910 Double Pedal (pedals)
 - Vic Firth 5B Sticks (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=PDfqG3f4zjM
@@ -7037,9 +7022,9 @@ Profile: [https://metalforge.io/drummers/tim-yeung](https://metalforge.io/drumme
 - Raise tempo in three-BPM increments and only advance once the current tempo sustains for a full minute cleanly
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Sabian AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (pedals)
+- Tama Speed Cobra 910 Double Pedal (pedals)
 - Evans EMAD Bass Drum Heads (drums)
 
 **Tutorial:** https://www.youtube.com/watch?v=RNX1dAiZMoE
@@ -7063,9 +7048,9 @@ Profile: [https://metalforge.io/drummers/tim-yeung](https://metalforge.io/drumme
 - Use a metronome and aim for effortlessness at 160 BPM before pushing toward the target 185 BPM
 
 **Gear Used:**
-- Pearl Reference Series Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Sabian AAX Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (pedals)
+- Tama Speed Cobra 910 Double Pedal (pedals)
 - Vic Firth 5B Sticks (sticks)
 
 **Tutorial:** https://www.youtube.com/watch?v=RNX1dAiZMoE

@@ -64,4 +64,4 @@ A: Eloy Casagrande joined Slipknot in 2024 after departing Sepultura. His thrash
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

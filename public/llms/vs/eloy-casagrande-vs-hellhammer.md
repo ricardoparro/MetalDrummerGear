@@ -26,7 +26,7 @@ Slipknot/Sepultura's Eloy Casagrande vs Mayhem's Hellhammer. Brazilian dual-bass
 
 ## Playing Style
 
-Eloy Casagrande joined Sepultura at just 20 in 2011, spending 13 years driving the band's thrash-death engine before joining Slipknot in 2024 to replace Jay Weinberg, and was voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll. Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994), running a parallel career with Dimmu Borgir since 1999.
+Eloy Casagrande joined Sepultura at just 20 in 2011, spending 13 years driving the band's thrash-death engine before joining Slipknot in 2024 to replace Jay Weinberg, and was voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll. Hellhammer (born Jan Axel Blomberg on August 2, 1969, in Trysil Municipality, Norway) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994), having run a parallel career with Dimmu Borgir from 1999 to 2013.
 
 ## Technique
 
@@ -56,7 +56,7 @@ A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass d
 A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds. Eloy Casagrande plays in standard footwear.
 
 **Q: What bands are Eloy Casagrande and Hellhammer known for?**
-A: Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot. Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside stints in Arcturus and Shining.
+A: Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot. Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside stints in Arcturus and Shining.
 
 ---
 
@@ -67,4 +67,4 @@ A: Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipkn
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

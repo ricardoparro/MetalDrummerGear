@@ -1,5 +1,5 @@
 # MetalForge — Metal Drum Gear Guide
-> Last Updated: 2026-10-15 · Source: https://metalforge.io
+> Last Updated: 2026-10-30 · Source: https://metalforge.io
 
 A brand-by-brand guide to the drums, cymbals, pedals, and sticks used by the world's legendary metal drummers. Each brand lists the roster drummers who play it; follow the brand link for the full breakdown.
 
@@ -552,11 +552,6 @@ Official brand endorsement deals documented for roster drummers.
 ### Kevin Talley
 - Pearl Drums: https://pearldrum.com
 - Sabian Cymbals: https://www.sabian.com
-- Vic Firth Sticks: https://vicfirth.zildjian.com
-
-### Isaac Lamb
-- SJC Custom Drums: https://www.sjcdrums.com
-- Meinl Cymbals: https://meinlcymbals.com
 - Vic Firth Sticks: https://vicfirth.zildjian.com
 
 ### Martin Axenrot

@@ -2,7 +2,7 @@
 
 Brand endorsement changes for professional metal drummers. See https://metalforge.io/endorsement-news
 
-> Last updated: 2026-10-17 · 71 drummers tracked · 40 brands
+> Last updated: 2026-10-30 · 71 drummers tracked · 40 brands
 
 ---
 
@@ -89,7 +89,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 
 ### Evans / Remo
 
-- Ryan Van Poederooyen (Devin Townsend Project) — Drumheads — since 2000 — /drummer/ryan-van-poederooyen
+- Ryan Van Poederooyen (Devin Townsend Project) — Drumheads — since 2002 — /drummer/ryan-van-poederooyen
 
 ### Gibraltar
 
@@ -184,8 +184,8 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Paul Mazurkiewicz (Cannibal Corpse) — Hardware/Pedals — since 1990s — /drummer/paul-mazurkiewicz
 - Ray Luzier (Korn) — Drums — since 2013 — /drummer/ray-luzier
 - Richard Christy (Death) — Drums — since 1998 — /drummer/richard-christy
-- Ryan Van Poederooyen (Devin Townsend Project) — Drums — since 2000 — /drummer/ryan-van-poederooyen
-- Ryan Van Poederooyen (Devin Townsend Project) — Hardware/Pedals — since 2000 — /drummer/ryan-van-poederooyen
+- Ryan Van Poederooyen (Devin Townsend Project) — Drums — since 2002 — /drummer/ryan-van-poederooyen
+- Ryan Van Poederooyen (Devin Townsend Project) — Hardware/Pedals — since 2002 — /drummer/ryan-van-poederooyen
 - Daray (Dimmu Borgir) — Hardware/Pedals — since 2010 — /drummer/daray
 - Kevin Talley (Dying Fetus) — Drums — since 2000 — /drummer/kevin-talley
 - Kevin Talley (Dying Fetus) — Hardware/Pedals — since 2000 — /drummer/kevin-talley
@@ -293,7 +293,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Nick Augusto (ex-Trivium) — Cymbals — /drummer/nick-augusto
 - Ray Luzier (Korn) — Cymbals — since 2013 — /drummer/ray-luzier
 - Richard Christy (Death) — Cymbals — since 1998 — /drummer/richard-christy
-- Ryan Van Poederooyen (Devin Townsend Project) — Cymbals — since 2000 — /drummer/ryan-van-poederooyen
+- Ryan Van Poederooyen (Devin Townsend Project) — Cymbals — since 2002 — /drummer/ryan-van-poederooyen
 - Tim Yeung (Morbid Angel) — Cymbals — since 2005 — /drummer/tim-yeung
 - Kevin Talley (Dying Fetus) — Cymbals — since 2000 — /drummer/kevin-talley
 - Martin Axenrot (Opeth) — Cymbals — since 2006 — /drummer/martin-axenrot
@@ -406,7 +406,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Paul Mazurkiewicz (Cannibal Corpse) — Drumsticks — since 2000s — /drummer/paul-mazurkiewicz
 - Ray Luzier (Korn) — Drumsticks — since 2013 — /drummer/ray-luzier
 - Richard Christy (Death) — Drumsticks — since 1998 — /drummer/richard-christy
-- Ryan Van Poederooyen (Devin Townsend Project) — Drumsticks — since 2000 — /drummer/ryan-van-poederooyen
+- Ryan Van Poederooyen (Devin Townsend Project) — Drumsticks — since 2002 — /drummer/ryan-van-poederooyen
 - Tim Yeung (Morbid Angel) — Drumsticks — since 2005 — /drummer/tim-yeung
 - Daray (Dimmu Borgir) — Drumsticks — since 2008 — /drummer/daray
 - Kevin Talley (Dying Fetus) — Drumsticks — since 2000 — /drummer/kevin-talley
@@ -690,7 +690,9 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 ### Matt Greiner (August Burns Red)
 
 - **2003** (Drums): Signed with Pearl — Co-founded August Burns Red playing Pearl Export/Vision kits, with a developing Meinl cymbal endorsement
+- **2003** (Cymbals): Signed with Meinl — Developing Meinl cymbal endorsement alongside the Pearl Export/Vision kits used to co-found August Burns Red
 - **2011** (Drums): Renewed Pearl deal — Upgraded to Pearl Reference kits and solidified the Meinl Byzance cymbal setup around "Leveler" and "Found in Far Away Places"
+- **2011** (Cymbals): Renewed Meinl deal — Solidified the Meinl Byzance cymbal setup around "Leveler" and "Found in Far Away Places", alongside the upgrade to Pearl Reference kits
 - **2016** (Drums): Switched from Pearl to Mapex — Switched to Mapex Black Panther Design Lab and Paiste Formula 602 cymbals for August Burns Red's technically demanding metalcore sets
 - **2016** (Cymbals): Signed with Paiste — Signed with Paiste, pairing Formula 602 cymbals with the new Mapex kit setup
 - **2016** (Drumheads): Signed with Evans — Signed with Evans, running G2 batters and EMAD2 bass drum heads on the new Mapex kit
@@ -733,6 +735,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1992** (Drumsticks): Signed with Vic Firth — Vic Firth 5A American Classic sticks, established alongside his original Pearl endorsement
 - **2000** (Drums): Renewed Pearl deal — Upgraded to the Pearl Masters BRX flagship kit, including a 26" bass drum, for "And Then You'll Beg"
 - **2005** (Drums): Switched from Pearl to Yamaha — Switched to a Yamaha Recording Custom kit paired with Zildjian ZXT cymbals for "Once Was Not"
+- **2005** (Cymbals): Switched from null to Zildjian — Zildjian ZXT cymbals, adopted alongside the switch to a Yamaha Recording Custom kit for "Once Was Not"
 - **2012** (Drums): Switched from Yamaha to Tama — Moved to the Tama Starclassic Maple kit and Sabian cymbal setup that remains his current configuration through "As Gomorrah Burns"
 - **2012** (Cymbals): Signed with Sabian — Sabian AAX/HHX Series cymbals, adopted alongside the move to Tama Starclassic Maple
 - **2012** (Drumheads): Signed with Evans — Evans EC Reverse Dot heads, adopted alongside the move to Tama Starclassic Maple
@@ -770,8 +773,11 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 ### Paul Bostaph (Slayer / Testament / Exodus)
 
 - **1994** (Drums): Signed with Tama — Debut Slayer studio album "Divine Intervention" recorded on a Tama Artstar II kit with Paiste RUDE cymbals
+- **1994** (Cymbals): Signed with Paiste — Paiste RUDE cymbals, paired with his debut Tama Artstar II kit for Slayer's "Divine Intervention"
 - **1998** (Drums): Switched from Tama to DW — Moved to a DW Collector's Series Maple kit and Zildjian A Custom cymbals for "Diabolus in Musica"
+- **1998** (Cymbals): Switched from Paiste to Zildjian — Zildjian A Custom cymbals, adopted alongside the move to a DW Collector's Series Maple kit for "Diabolus in Musica"
 - **2001** (Drums): Switched from DW to Tama — Returned to Tama with a Starclassic Maple kit and Paiste 2002 cymbals for "God Hates Us All"
+- **2001** (Cymbals): Switched from Zildjian to Paiste — Paiste 2002 Series cymbals, adopted alongside the return to a Tama Starclassic Maple kit for "God Hates Us All"
 - **2015** (Drums): Switched from Tama to Pearl — Producer Terry Date moved him to a Pearl Masters Maple Complete kit and Sabian AAX cymbals for "Repentless"
 - **2015** (Cymbals): Switched from null to Sabian — Sabian AAX Series cymbals, adopted alongside the move to Pearl Masters Maple Complete for "Repentless"
 - **2015** (Drumsticks): Switched from null to Vater — Vater Power 5B sticks, adopted alongside the 2015 Pearl/Sabian setup
@@ -786,6 +792,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1991** (Cymbals): Switched from Zildjian to Sabian — Switched to Sabian's AAX Series for the technical precision demanded by Death's "Individual Thought Patterns" and "Symbolic"
 - **2008** (Drums): Signature product: Tama Gene Hoglan Signature Snare 14x8" — First signature snare drum, an exceptionally deep 14x8" model built for thunderous power during his Testament and Dethklok era
 - **2018** (Drums): Switched from Tama to Pearl — Switched to a Pearl Reference Pure kit, also adopting Pearl's Demon Drive Double Pedal as part of the same hardware changeover
+- **2018** (Hardware/Pedals): Signed with Pearl — Adopted Pearl's Demon Drive Double Pedal as part of the same hardware changeover that brought the Pearl Reference Pure kit
 - **2018** (Drumsticks): Signed with ProMark — Settled on ProMark Classic Forward 2B sticks for his Pearl Reference Pure setup of that era, favoring their balance across marathon touring and clinic schedules
 - Profile: https://metalforge.io/drummer/gene-hoglan
 
@@ -849,7 +856,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **2010** (Drumsticks): Signed with Vic Firth — Settled on Vic Firth American Classic 5B sticks for the balance of accent power and ghost-note control his linear patterns require
 - **2010** (Drumheads): Signed with Evans — Moved to Evans EMAD / G2 Coated heads for the attack and durability his double-bass-heavy Periphery parts demand
 - **2010** (Hardware/Pedals): Signed with DW — Adopted a DW 9000 Series double pedal for the speed and feel his linear double-bass patterns require
-- **2011** (Electronics): Signed with Roland — Integrated a Roland SPD-SX sampling pad and bass drum trigger system on the "Icarus" EP, building the hybrid acoustic/electronic rig that defined his sound
+- **2011** (Electronics): Signed with Roland — Integrated a Roland SPD-SX sampling pad and bass drum trigger system for his post-Periphery solo and session work, building the hybrid acoustic/electronic rig that defined his sound
 - **2016** (Drums): Renewed SJC deal — Remained an SJC/Zildjian endorsee after departing Periphery in 2009, carrying the same Custom kit and Roland trigger rig through his Sky Harbor and Darkest Hour session work and viral educational content
 - Profile: https://metalforge.io/drummer/travis-orbin
 
@@ -857,11 +864,12 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 - **1996** (Drums): Signed with Mapex — Built his early Mapex Saturn Series kit during his formative Hangar years, before joining Angra in 2000
 - **1996** (Cymbals): Signed with Sabian — Paired his Mapex kit with Sabian HH/HHX cymbals and an Axis A double pedal prized for its light, fast action
+- **1996** (Hardware/Pedals): Signed with Axis — Axis A double pedal, prized for its light, fast action during his Angra classic era (Rebirth, Temple of Shadows)
 - **2004** (Drumsticks): Signature product: Vic Firth Aquiles Priester Signature — Developed a Vic Firth signature stick during the Angra classic era (Rebirth, Temple of Shadows), balancing power and ghost-note control at high tempos
 - **2012** (Drums): Switched from Mapex Saturn Series to Pearl Reference Series — Moved to a Pearl Reference Series kit and Meinl Byzance cymbals during his post-Angra W.A.S.P./Hangar-focused years
-- **2023** (Drums): Switched from Pearl Reference Series to Mapex — Adopted the Mapex Saturn Evolution All Maple signature kit upon returning to Angra for their 2023 album cycle
-- **2023** (Cymbals): Switched from Meinl Byzance to Paiste — Adopted a custom red-coated Paiste cymbal set and DW 9000 hardware for the Angra reunion touring and recording setup
-- **2023** (Drumsticks): Switched from Vic Firth to ProMark — Adopted a ProMark Aquiles Priester Signature stick alongside the Mapex/Paiste gear overhaul upon returning to Angra for their 2023 album cycle
+- **2023** (Drums): Switched from Pearl Reference Series to Mapex — Adopted the Mapex Saturn Evolution All Maple signature kit as part of his 2023 gear overhaul
+- **2023** (Cymbals): Switched from Meinl Byzance to Paiste — Adopted a custom red-coated Paiste cymbal set and DW 9000 hardware as part of his 2023 gear overhaul
+- **2023** (Drumsticks): Switched from Vic Firth to ProMark — Adopted a ProMark Aquiles Priester Signature stick alongside the Mapex/Paiste gear overhaul in 2023
 - Profile: https://metalforge.io/drummer/aquiles-priester
 
 ### Arin Ilejay (Avenged Sevenfold (ex) / Confide)
@@ -891,11 +899,11 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 - **2010** (Drums): Signed with Tama — Began developing his Tama Starclassic configuration while founding Oceans Ate Alaska in Birmingham, UK
 - **2013** (Cymbals): Signed with Meinl — Recorded the Lost What Remains EP on an early Meinl Byzance setup paired with an initial Tama Speed Cobra pedal
-- **2017** (Drums): Switched from Tama Starclassic (developing configuration) to Tama Starclassic Maple/Birch — Locked in the full touring Starclassic Maple/Birch kit and Tama S.L.P. G-Maple snare for Hikari, the album that made his playthrough videos go viral
+- **2017** (Drums): Switched from Tama Starclassic (developing configuration) to Tama Starclassic Maple/Birch — Locked in the full touring Starclassic Maple/Birch kit for Hikari, the album that made his playthrough videos go viral
 - **2017** (Drumsticks): Signed with Vic Firth — Settled on Vic Firth American Classic 5A sticks for the ghost-note-to-rimshot dynamic range Hikari required
 - **2017** (Drumheads): Signed with Evans — Moved to Evans EMAD / G2 Coated / EQ3 heads alongside the locked-in Starclassic Maple/Birch kit for Hikari
 - **2017** (Hardware/Pedals): Signed with Tama — Locked in the Tama Speed Cobra 910 Double Pedal as part of the full touring hardware setup for Hikari
-- **2022** (Drums): Renewed Tama deal — Carried the same Starclassic Maple/Birch, Byzance Extra Dry, and Speed Cobra 910 setup into Disparity (2022)
+- **2022** (Drums): Renewed Tama deal — Carried the same Starclassic Maple/Birch, Byzance Extra Dry, and Speed Cobra 910 setup into Disparity (2022), upgrading to a Tama S.L.P. 14x5.5" G-Maple snare for the album's denser polyrhythmic patterns
 - Profile: https://metalforge.io/drummer/chris-turner
 
 ### Daniel Erlandsson (Arch Enemy)
@@ -942,8 +950,8 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 ### Jocke Wallgren (Amon Amarth)
 
-- **2005** (Cymbals): Signed with Zildjian — Began playing Zildjian A Custom & K Custom cymbals during his time with Rage and Evergrey in the European power/prog metal scene
-- **2005** (Hardware/Pedals): Signed with Pearl — Adopted a Pearl double bass pedal configuration during his Rage and Evergrey years, ahead of the Demon Drive model becoming his standard
+- **2005** (Cymbals): Signed with Zildjian — Began playing Zildjian A Custom & K Custom cymbals during his time with Swedish metal band Valkyria
+- **2005** (Hardware/Pedals): Signed with Pearl — Adopted a Pearl double bass pedal configuration during his Valkyria years, ahead of the Demon Drive model becoming his standard
 - **2016** (Drums): Signed with Pearl — Signed with Pearl on joining Amon Amarth as touring drummer in 2016 for the Jomsviking tour cycle, settling on the Reference Pure single-species maple kit
 - **2016** (Drumheads): Signed with Evans — Signed with Evans on joining Amon Amarth as touring drummer in 2016 for the Jomsviking tour cycle, aligning with the Pearl Reference Pure kit
 - **2016** (Cymbals): Renewed Zildjian deal — Carried his Zildjian A Custom & K Custom cymbals into the Amon Amarth chair, valuing their bright yet warm voicing for the band's melodic death metal identity
@@ -960,7 +968,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 ### Morgan Ågren (Mats/Morgan Band / Devin Townsend Project)
 
-- **1988** (Cymbals): Signed with Paiste — Developing Paiste relationship in place around the time Frank Zappa personally selected the then-20-year-old Ågren for his touring band
+- **1988** (Cymbals): Signed with Paiste — Developing Paiste relationship in place around the time Frank Zappa personally selected the then-20-year-old Ågren to sit in with his band for one Stockholm concert
 - **1988** (Drumsticks): Signed with Vic Firth — Vic Firth American Classic 5A sticks, adopted alongside the developing Paiste relationship around the time Frank Zappa recruited the then-20-year-old Ågren
 - **1988** (Drumheads): Signed with Remo — Remo Ambassador Coated / Emperor Coated heads, adopted alongside the developing Paiste relationship around the time Frank Zappa recruited the then-20-year-old Ågren
 - **2012** (Drums): Signed with Sonor — Settled into the Sonor SQ2 Beech custom shell configuration around the time Devin Townsend recruited him for the Devin Townsend Project's "Epicloud" (2012)
@@ -1032,20 +1040,20 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 ### Ryan Van Poederooyen (Devin Townsend Project)
 
-- **2000** (Drums): Signed with Pearl — Anchored Devin Townsend's "Physicist" (2000) — his recording debut with Townsend — on a Pearl Reference Series maple/mahogany hybrid kit with dual 22" x 18" kicks, a setup he has kept across the entire Devin Townsend Project catalogue
-- **2000** (Cymbals): Signed with Sabian — Built his cymbal setup around Sabian AAX and HHX pieces (14" AAX Hi-Hats, 16" AAX Crash, 18" HHX Crash, 20" HHX Ride, 18" AAX China) starting with "Physicist" (2000), unchanged through "Deconstruction" (2011) and "Empath" (2019)
-- **2000** (Drumsticks): Signed with Vic Firth — Played Vic Firth American Classic 5B sticks starting with Devin Townsend's "Physicist" (2000), carried across the Devin Townsend Project catalogue
-- **2000** (Drumheads): Signed with Evans / Remo — Set up Evans EMAD/EC2 and Remo Powerstroke 3 heads starting with "Physicist" (2000), unchanged through the Devin Townsend Project catalogue
+- **2002** (Drums): Signed with Pearl — Anchored Devin Townsend's "Accelerated Evolution" (2003) — his recording debut with Devin Townsend Band — on a Pearl Reference Series maple/mahogany hybrid kit with dual 22" x 18" kicks, a setup he kept through the Devin Townsend Project catalogue (2002–2018)
+- **2002** (Cymbals): Signed with Sabian — Built his cymbal setup around Sabian AAX and HHX pieces (14" AAX Hi-Hats, 16" AAX Crash, 18" HHX Crash, 20" HHX Ride, 18" AAX China) starting with "Accelerated Evolution" (2003), unchanged through "Deconstruction" (2011) and "Transcendence" (2016)
+- **2002** (Drumsticks): Signed with Vic Firth — Played Vic Firth American Classic 5B sticks starting with Devin Townsend's "Accelerated Evolution" (2003), carried across the Devin Townsend Project catalogue through "Transcendence" (2016)
+- **2002** (Drumheads): Signed with Evans / Remo — Set up Evans EMAD/EC2 and Remo Powerstroke 3 heads starting with "Accelerated Evolution" (2003), unchanged through the Devin Townsend Project catalogue (2002–2018)
 - **2011** (Hardware/Pedals): Renewed Pearl deal — Carried the Pearl Demon Drive double bass pedal across "Deconstruction" and "Ghost" (both 2011), released the same day and recorded on the same physical kit
 - Profile: https://metalforge.io/drummer/ryan-van-poederooyen
 
 ### Tim Yeung (Morbid Angel)
 
-- **2005** (Drums): Signed with Tama — Established his Tama Starclassic Bubinga kit with Erik Rutan's Hate Eternal on "I, Monarch" (2005), the setup he later carried unchanged into Divine Heresy and Morbid Angel
-- **2005** (Cymbals): Signed with Sabian — Paired the Tama kit with Sabian AAX/HHX cymbals starting on Hate Eternal's "I, Monarch" (2005), the same combination he used on Divine Heresy's "Bleed the Fifth" (2007) and Morbid Angel's "Illud Divinum Insanus" (2011)
-- **2005** (Drumsticks): Signed with Vic Firth — Adopted Vic Firth 5B sticks alongside his Tama/Sabian rig starting on Hate Eternal's "I, Monarch" (2005), the same pairing he carried into Divine Heresy and Morbid Angel
-- **2005** (Drumheads): Signed with Remo — Set up his Tama Starclassic Bubinga kit with Remo Powerstroke 3 heads starting on Hate Eternal's "I, Monarch" (2005), the same heads he used into Morbid Angel
-- **2005** (Hardware/Pedals): Signed with Tama — Drove his Tama Starclassic Bubinga kit with a Tama Speed Cobra 910 double pedal starting on Hate Eternal's "I, Monarch" (2005), the same pedal he carried into Morbid Angel
+- **2005** (Drums): Signed with Tama — Established his Tama Starclassic Bubinga kit in 2005, the setup he later carried into Divine Heresy (2006) and Morbid Angel (2010-2015)
+- **2005** (Cymbals): Signed with Sabian — Paired the Tama kit with Sabian AAX/HHX cymbals starting in 2005, the same combination he used on Divine Heresy's "Bleed the Fifth" (2007) and Morbid Angel's "Illud Divinum Insanus" (2011)
+- **2005** (Drumsticks): Signed with Vic Firth — Adopted Vic Firth 5B sticks alongside his Tama/Sabian rig starting in 2005, the same pairing he carried into Divine Heresy and Morbid Angel
+- **2005** (Drumheads): Signed with Remo — Set up his Tama Starclassic Bubinga kit with Remo Powerstroke 3 heads starting in 2005, the same heads he used into Morbid Angel
+- **2005** (Hardware/Pedals): Signed with Tama — Drove his Tama Starclassic Bubinga kit with a Tama Speed Cobra 910 double pedal starting in 2005, the same pedal he carried into Morbid Angel
 - **2011** (Drums): Renewed Tama deal — Carried the Tama Starclassic Bubinga / Sabian / Tama Speed Cobra setup into his debut Morbid Angel album "Illud Divinum Insanus" (2011), maintaining it through "Kingdoms Disdained" (2017)
 - Profile: https://metalforge.io/drummer/tim-yeung
 
@@ -1098,10 +1106,9 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 ### Sean Reinert (Death / Cynic)
 
-- **1990** (Drums): Signed with Pearl — Played a pre-endorsement Pearl Export series kit (Pearl Free-Floating snare, Pearl P-100P twin pedals) with Zildjian A series cymbals on his recording debut, Death's "Spiritual Healing" (1990), tracked at Morris Sound Corporation with Randy Burns
-- **1991** (Drums): Switched from Pearl Export Series to Tama Artstar II — Moved to a Tama Artstar II birch shell kit for Death's "Human" (1991) at Morrisound Recording with Scott Burns — replacing the Pearl Export's poplar/basswood shells as his playing evolved into a full jazz-death fusion vocabulary
+- **1991** (Drums): Signed with Tama Artstar II — Played a Tama Artstar II birch shell kit with Zildjian A series cymbals on his recording debut, Death's "Human" (1991), tracked at Morrisound Recording with Scott Burns
 - **1991** (Drumsticks): Switched from Vic Firth SD9 Short Handle to Vic Firth American Classic 5A — Switched to Vic Firth's American Classic 5A for "Human" (1991), a medium-weight model atypical for metal drummers of the era that gave Reinert the rebound and dynamic control his ghost-note vocabulary required
-- **1991** (Hardware/Pedals): Switched from Pearl P-100P Twin Pedal to DW 5000 Double Pedal — Upgraded to the DW 5000 double pedal for "Human" (1991), a mechanical precision upgrade over the Pearl P-100P's chain-drive action; carried the same pedal into Cynic's "Focus" (1993)
+- **1991** (Hardware/Pedals): Signed with DW 5000 Double Pedal — Played a DW 5000 double pedal for "Human" (1991); carried the same pedal into Cynic's "Focus" (1993)
 - **2008** (Drums): Switched from Tama Artstar II to DW Collector's Series — Upgraded to a DW Collector's Series maple shell kit for Cynic's reunion album "Traced in Air" (2008), his first recording in 15 years since "Focus" — maple's warmer resonance suited the self-produced, atmospheric sound
 - **2008** (Cymbals): Switched from Zildjian A/K Series to Zildjian K Custom — Narrowed to Zildjian K Custom cymbals throughout "Traced in Air" (2008) — darker and more complex than the A/K Series blend used on "Human" and "Focus," suited to the album's introspective character
 - **2008** (Hardware/Pedals): Switched from DW 5000 Double Pedal to DW 9000 Double Pedal — Moved to the DW 9000 double pedal for "Traced in Air" (2008), retained for the same smooth, compositional double-bass feel through the remainder of the Cynic reunion era, including "Kindly Bent to Free Us" (2014)
@@ -1209,4 +1216,4 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - [Gear News](https://metalforge.io/llms/gear-news.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

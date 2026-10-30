@@ -43,4 +43,4 @@ A: MetalForge tracks all Pearl series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/pearl/masters-14x5-5-maple/drummers-using](https://metalforge.io/gear/pearl/masters-14x5-5-maple/drummers-using) · Last updated: 2026-10-15*
+*Source: [metalforge.io/gear/pearl/masters-14x5-5-maple/drummers-using](https://metalforge.io/gear/pearl/masters-14x5-5-maple/drummers-using) · Last updated: 2026-10-30*

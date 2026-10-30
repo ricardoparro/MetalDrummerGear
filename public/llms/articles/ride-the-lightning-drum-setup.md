@@ -31,9 +31,9 @@ This article breaks down every piece of gear Lars used during the 1984 Copenhage
 
 ### Lars's 1984 Kit: The Tama Artstar II Upgrade
 
-The Tama Artstar II was Tama's professional-grade offering in the mid-1980s — a significant step up from the budget Imperial Star Lars used on Kill 'Em All. The Artstar II featured birch shells rather than the Philippine mahogany of the Imperial Star, producing a tighter, brighter tone with better projection and attack. This shell material matched the demands of the increasingly complex arrangements on Ride the Lightning.
+The Tama Artstar II was Tama's professional-grade offering in the mid-1980s — a significant step up from the budget Camco kit Lars used on Kill 'Em All. The Artstar II featured birch shells rather than the modest shells of the Camco kit, producing a tighter, brighter tone with better projection and attack. This shell material matched the demands of the increasingly complex arrangements on Ride the Lightning.
 
-The shell construction upgrade mattered enormously in the context of Sweet Silence Studios. Producer Flemming Rasmussen had worked with the room extensively and understood how to capture birch drums — tight, focused, and responsive. The Artstar II's birch shells gave him something to work with that the Imperial Star's warmer, more diffuse mahogany tone could not have provided.
+The shell construction upgrade mattered enormously in the context of Sweet Silence Studios. Producer Flemming Rasmussen had worked with the room extensively and understood how to capture birch drums — tight, focused, and responsive. The Artstar II's birch shells gave him something to work with that the Camco kit's warmer, more diffuse tone could not have provided.
 
 Lars maintained the compact 5-piece configuration he had used on Kill 'Em All: single 22-inch bass drum, 12 and 13 inch rack toms, 16-inch floor tom. The bass drum depth increased to 16 inches, providing the punch and projection needed to drive the album's heaviest sections — particularly the relentless kick work on "For Whom the Bell Tolls" and "Fight Fire with Fire."
 
@@ -41,7 +41,7 @@ The Artstar II represented Lars's first professional-grade Tama drum — and he'
 
 ### The Snare Upgrade: A Matching Tama Steel Snare Arrives
 
-Lars's snare situation improved dramatically between Kill 'Em All and Ride the Lightning. The warm but imprecise Tama wood snare from the Imperial Star era gave way to a Tama steel-shell snare, matching the new Artstar II kit — a transition that immediately registered in the album's sonics. The steel shell produces the bright, cutting crack that became a Lars Ulrich signature sound and which he maintained through Master of Puppets (1986).
+Lars's snare situation improved dramatically between Kill 'Em All and Ride the Lightning. The Camco snare from the Kill 'Em All era gave way to a Tama steel-shell snare, matching the new Artstar II kit — a transition that immediately registered in the album's sonics. The steel shell produces the bright, cutting crack that became a Lars Ulrich signature sound and which he maintained through Master of Puppets (1986).
 
 At 14 inches in diameter and 6.5 inches deep, the snare sits between a standard and a power snare, offering the brightness of a shallow drum with added body from the deeper shell. For the dense arrangements of Ride the Lightning — where Lars needed to cut through two guitars, bass, and his own heavy cymbal patterns simultaneously — this combination of crack and projection was essential.
 
@@ -51,7 +51,7 @@ This Tama steel-shell snare carried directly into the Master of Puppets sessions
 
 ### All-Zildjian A Series: A Unified Setup
 
-By Ride the Lightning, Lars had consolidated his cymbal setup into an all-Zildjian A series configuration, moving away from the mixed Paiste/Zildjian approach of Kill 'Em All. The Zildjian A series — bright, responsive, musically versatile — suited the full dynamic range of the material on Ride the Lightning better than any single-brand alternative.
+By Ride the Lightning, Lars had expanded his all-Zildjian A series setup — the same brand he'd played since Kill 'Em All — with upgraded hi-hats and a wider crash selection to match the album's increased dynamic range. The Zildjian A series — bright, responsive, musically versatile — suited the full dynamic range of the material on Ride the Lightning better than any single-brand alternative.
 
 The 14-inch New Beat hi-hats were central to Lars's playing on this album. Fast 16th-note patterns on "Fight Fire with Fire" demanded hats with quick response and clear definition. The New Beat's heavier bottom cymbal provided stability during the most aggressive sections while maintaining articulation for complex rhythmic patterns. These same hats appear on the Master of Puppets recording, showing Lars's commitment to the setup.
 
@@ -77,12 +77,12 @@ For the continued gear evolution through the Justice era and beyond, see the [..
 
 - Recorded at Sweet Silence Studios, Copenhagen, Denmark — September to October 1984
 - First collaboration with producer Flemming Rasmussen, who also produced Master of Puppets and ...And Justice for All
-- Lars upgraded from Kill 'Em All's budget Tama Imperial Star to the professional Tama Artstar II birch-shell kit
+- Lars upgraded from Kill 'Em All's budget Camco kit to the professional Tama Artstar II birch-shell kit
 - Double-bass patterns first appear in Lars's catalog — "For Whom the Bell Tolls" is the defining example
 - Fastest and most dynamic album of early Metallica: from 60 BPM ("Fade to Black" intro) to 220 BPM ("Fight Fire with Fire")
 - 6× Platinum in the US — widely considered Metallica's most technically demanding early record
-- Significant upgrade from Kill 'Em All's budget Tama Imperial Star
-- Birch shells — tighter and brighter than the mahogany Imperial Star
+- Significant upgrade from Kill 'Em All's budget Camco kit
+- Birch shells — tighter and brighter than the Camco kit's shells
 - Single 22-inch bass drum with 16-inch depth for greater punch and projection
 - Compact 5-piece layout retained — Lars's consistent minimalist kit philosophy
 - Sweet Silence Studios' room acoustic suited the birch shell characteristics well
@@ -93,7 +93,7 @@ For the continued gear evolution through the Justice era and beyond, see the [..
 
 **Q: What drums did Lars Ulrich use on Ride the Lightning?**
 
-A: Lars Ulrich recorded Ride the Lightning in 1984 on a Tama Artstar II kit with birch shells — a significant upgrade from the budget Tama Imperial Star he used on Kill 'Em All the previous year. The configuration was a compact 5-piece: a single 22-inch bass drum at 16-inch depth, 12 and 13 inch rack toms, and a 16-inch floor tom. He paired the Artstar II with a matching Tama steel-shell snare (14x6.5 inches) and an all-Zildjian A series cymbal setup. The sessions took place at Sweet Silence Studios in Copenhagen, Denmark with producer Flemming Rasmussen.
+A: Lars Ulrich recorded Ride the Lightning in 1984 on a Tama Artstar II kit with birch shells — a significant upgrade from the budget Camco kit he used on Kill 'Em All the previous year. The configuration was a compact 5-piece: a single 22-inch bass drum at 16-inch depth, 12 and 13 inch rack toms, and a 16-inch floor tom. He paired the Artstar II with a matching Tama steel-shell snare (14x6.5 inches) and an all-Zildjian A series cymbal setup. The sessions took place at Sweet Silence Studios in Copenhagen, Denmark with producer Flemming Rasmussen.
 
 **Q: How does the Ride the Lightning drum setup differ from Master of Puppets?**
 
@@ -109,7 +109,7 @@ A: Ride the Lightning was recorded at Sweet Silence Studios in Copenhagen, Denma
 
 **Q: What cymbals did Lars Ulrich use on Ride the Lightning?**
 
-A: Lars Ulrich used an all-Zildjian A series cymbal setup on Ride the Lightning — a consolidation from the mixed Paiste/Zildjian approach on Kill 'Em All. The setup included Zildjian A 14" New Beat hi-hats, a 16" medium thin crash, an 18" medium crash, a 20" medium ride, and an 18" China Boy. There was no formal Zildjian endorsement at this stage — Lars was using the A series based on preference. This all-Zildjian configuration carried directly into the Master of Puppets sessions.
+A: Lars Ulrich used an all-Zildjian A series cymbal setup on Ride the Lightning — an expansion of the same Zildjian A rig he'd played on Kill 'Em All, with upgraded hi-hats and a wider crash selection. The setup included Zildjian A 14" New Beat hi-hats, a 16" medium thin crash, an 18" medium crash, a 20" medium ride, and an 18" China Boy. Lars had signed with Zildjian in 1981, well before either album. This all-Zildjian configuration carried directly into the Master of Puppets sessions.
 
 ## Related Articles
 
@@ -127,4 +127,4 @@ A: Lars Ulrich used an all-Zildjian A series cymbal setup on Ride the Lightning 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

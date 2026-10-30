@@ -18,7 +18,7 @@
 - **[Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)** (Suicidal Tendencies)
 - **[Art Cruz](https://metalforge.io/drummer/art-cruz)** (Lamb of God)
 - **[Navene Koperweis](https://metalforge.io/drummer/navene-koperweis)** (Entheos / ex-Animals as Leaders)
-- **[Shannon Larkin](https://metalforge.io/drummer/shannon-larkin)** (Godsmack / Ugly Kid Joe / Amen)
+- **[Shannon Larkin](https://metalforge.io/drummer/shannon-larkin)** (Godsmack / Ugly Kid Joe / Wrathchild America)
 - **[Nick Augusto](https://metalforge.io/drummer/nick-augusto)** (ex-Trivium)
 - **[Matt Greiner](https://metalforge.io/drummer/matt-greiner)** (August Burns Red)
 - **[Blake Richardson](https://metalforge.io/drummer/blake-richardson)** (Between the Buried and Me)
@@ -61,4 +61,4 @@ A: MetalForge tracks all Evans drumheads used by professional metal drummers. Vi
 
 ---
 
-*Source: [metalforge.io/gear/evans/all-drumheads/drummers-using](https://metalforge.io/gear/evans/all-drumheads/drummers-using) · Last updated: 2026-10-15*
+*Source: [metalforge.io/gear/evans/all-drumheads/drummers-using](https://metalforge.io/gear/evans/all-drumheads/drummers-using) · Last updated: 2026-10-30*

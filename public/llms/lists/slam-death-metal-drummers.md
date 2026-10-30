@@ -1,6 +1,6 @@
 # Top 10 Slam Death Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/slam-death-metal-drummers)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/slam-death-metal-drummers)
 
 ---
 
@@ -108,9 +108,9 @@ Drummer #61 (Unknown) earns rank #9 for: beatdown hardcore's breakdown-first gro
 
 **Band:** Dimmu Borgir / Vader
 **Highlight:** Vader's extreme speed and theatrical precision
-**Why ranked here:** Daray's 2002–2005 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style.
+**Why ranked here:** Daray's 2004-2008 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style.
 
-Daray (Dimmu Borgir / Vader) earns rank #10 for: vader's extreme speed and theatrical precision. Daray's 2002–2005 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style..
+Daray (Dimmu Borgir / Vader) earns rank #10 for: vader's extreme speed and theatrical precision. Daray's 2004-2008 tenure in Polish death metal legends Vader combined extreme speed with technical precision and theatrical flair, a mix of raw extremity and showmanship that parallels slam death metal's own crowd-focused, pit-driven intensity. Daray earns rank #10 for extending extreme death metal's technical vocabulary into a highly physical, audience-focused performance style..
 
 Full drummer profile: [Daray on MetalForge](https://metalforge.io/drummer/daray)
 
@@ -148,4 +148,4 @@ A: Suffocation is widely credited as slam death metal's founding influence, its 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

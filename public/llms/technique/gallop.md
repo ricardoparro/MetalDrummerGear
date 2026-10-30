@@ -90,4 +90,4 @@ A: Closely related techniques include Double Bass, Groove Drumming. Mastering th
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

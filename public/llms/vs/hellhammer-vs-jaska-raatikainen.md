@@ -26,7 +26,7 @@ Mayhem's Hellhammer vs Children of Bodom's Jaska Raatikainen — two Nordic extr
 
 ## Playing Style
 
-Hellhammer (born Jan Axel Blomberg, 1969) joined Mayhem in 1988, replacing founding drummer Manheim, and his cold, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains Norwegian black metal's defining recording; he has run a parallel career with Dimmu Borgir since 1999. Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993 alongside the late Alexi Laiho and remained its sole drummer for the band's entire 26-year run, anchoring the neoclassical melodic death metal sound across albums including "Hatebreeder" (1999) and "Follow the Reaper" (2000) through the band's 2019 farewell "Hexed."
+Hellhammer (born Jan Axel Blomberg, 1969) joined Mayhem in 1988, replacing founding drummer Manheim, and his cold, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains Norwegian black metal's defining recording; he ran a parallel career with Dimmu Borgir from 1999 to 2013. Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993 alongside the late Alexi Laiho and remained its sole drummer for the band's entire 26-year run, anchoring the neoclassical melodic death metal sound across albums including "Hatebreeder" (1999) and "Follow the Reaper" (2000) through the band's 2019 farewell "Hexed."
 
 ## Technique
 
@@ -50,7 +50,7 @@ Hellhammer and Jaska Raatikainen are two of Nordic extreme metal's most conseque
 A: Hellhammer has anchored Mayhem's black metal since 1988, delivering genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994). Jaska Raatikainen co-founded Children of Bodom in 1993 and remained its sole drummer for 26 years, blending death metal velocity with melodic precision. Both are foundational Nordic extreme metal drummers from different subgenres and countries.
 
 **Q: What bands have Hellhammer and Jaska Raatikainen played in?**
-A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside Arcturus and Shining. Jaska Raatikainen was the sole drummer of Finnish melodic death metal band Children of Bodom from 1993 until the band's dissolution in 2019.
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside Arcturus and Shining. Jaska Raatikainen was the sole drummer of Finnish melodic death metal band Children of Bodom from 1993 until the band's dissolution in 2019.
 
 **Q: What gear do Hellhammer and Jaska Raatikainen use?**
 A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
@@ -64,4 +64,4 @@ A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech sna
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

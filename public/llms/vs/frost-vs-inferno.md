@@ -26,7 +26,7 @@ Satyricon's Frost vs Behemoth's Inferno. Norwegian black metal blast beat precis
 
 ## Playing Style
 
-Frost (Kjetil-Vidar Haraldstad) has driven Satyricon's black metal since 1993 and joined 1349 around 2000, becoming a full member by 2003, building a reputation on surgical, metronomically consistent blast beats that underpin increasingly sophisticated compositions from *Nemesis Divina* through *Deep calleth upon Deep*. Inferno (Zbigniew Promiński) has anchored Poland's Behemoth since 1997, driving the band's blackened death metal assault on landmark records like "The Satanist" and "I Loved You at Your Darkest" with relentless blast beats and the theatrical stamina Behemoth's arena-scale live shows demand.
+Frost (Kjetil-Vidar Haraldstad) has driven Satyricon's black metal since 1993 and joined 1349 around 2000, becoming a full member by 2003, building a reputation on surgical, metronomically consistent blast beats that underpin increasingly sophisticated compositions from *Nemesis Divina* through *Deep calleth upon Deep*. Inferno (Zbigniew Promiński) has anchored Poland's Behemoth since 1997 (with a brief gap around 1999-2000), driving the band's blackened death metal assault on landmark records like "The Satanist" and "I Loved You at Your Darkest" with relentless blast beats and the theatrical stamina Behemoth's arena-scale live shows demand.
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Both are elite extreme metal drummers from different traditions. Frost (Satyr
 A: Frost plays a Tama Starclassic Bubinga Series kit with Zildjian A Series cymbals and a Tama Iron Cobra Power Glide pedal. Inferno plays a Pearl Reference Series kit with Paiste RUDE Series cymbals and a Czarcie Kopyto (Devil's Hoof) double pedal.
 
 **Q: What bands are Frost and Inferno known for?**
-A: Frost is best known as the drummer for Satyricon, also playing in 1349. Inferno is best known as the drummer for Behemoth, which he joined in 1997.
+A: Frost is best known as the drummer for Satyricon, also playing in 1349. Inferno is best known as the drummer for Behemoth, which he joined in 1997 (with a brief departure around 1999, returning in 2000).
 
 **Q: What blast beat technique does Frost use compared to Inferno?**
 A: Frost uses a single-stroke blast beat technique emphasizing precision and endurance at extreme tempos. Inferno combines sustained double bass blasting with the physical stamina required for Behemoth's dense, theatrical live performances.
@@ -67,4 +67,4 @@ A: Frost uses a single-stroke blast beat technique emphasizing precision and end
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

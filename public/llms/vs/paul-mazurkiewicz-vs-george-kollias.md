@@ -67,4 +67,4 @@ A: Yes — beyond his work with Nile since 2004, George Kollias is an accomplish
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

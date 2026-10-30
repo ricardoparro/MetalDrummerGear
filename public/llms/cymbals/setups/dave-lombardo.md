@@ -41,4 +41,4 @@ A: Dave Lombardo plays Paiste cymbals: 15" RUDE & 2002 Sound Edge Hi-Hats, 18" R
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

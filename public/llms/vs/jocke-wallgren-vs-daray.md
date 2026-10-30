@@ -34,7 +34,7 @@ Wallgren anchors Amon Amarth's driving, groove-oriented tempos with a Pearl Demo
 
 ## Key Differences
 
-Jocke plays a Pearl Reference Pure kit with a 14x6.5" brass Pearl Reference snare, Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride), and a Pearl Demon Drive double pedal. Daray plays a Tama Starclassic Performer B/B kit (Piano Black finish) with a S.L.P. Black Brass LBR1465 snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon Drive double bass pedal. Wallgren anchors Amon Amarth's driving, groove-oriented tempos with a Pearl Demon Drive double pedal, giving the band's galloping riffs and gang-vocal choruses the speed and stability needed for arena and festival stages worldwide. Daray drives rapid-fire double bass through a Pearl Demon Drive double pedal, applying blast-beat extreme speed across Vader's stripped-down brutality and Dimmu Borgir's orchestrated symphonic arrangements.
+Jocke plays a Pearl Reference Pure kit with a Pearl snare (the specific model has not been independently verified), Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride), and a Pearl Demon Drive double pedal. Daray plays a Tama Starclassic Performer B/B kit (Piano Black finish) with a S.L.P. Black Brass LBR1465 snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon Drive double bass pedal. Wallgren anchors Amon Amarth's driving, groove-oriented tempos with a Pearl Demon Drive double pedal, giving the band's galloping riffs and gang-vocal choruses the speed and stability needed for arena and festival stages worldwide. Daray drives rapid-fire double bass through a Pearl Demon Drive double pedal, applying blast-beat extreme speed across Vader's stripped-down brutality and Dimmu Borgir's orchestrated symphonic arrangements.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Jocke Wallgren plays a Pearl Reference Pure kit (the specific snare model has
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

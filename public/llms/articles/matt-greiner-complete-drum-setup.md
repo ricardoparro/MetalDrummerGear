@@ -9,7 +9,7 @@
 
 ## Overview
 
-Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) isn't just the drummer for August Burns Red — he's the rhythmic foundation of one of metalcore's most influential bands. As a founding member since 2003, Greiner has been the engine behind ABR's Grammy-nominated catalog, from the breakneck precision of "Composure" to the melodic sophistication of "Ghosts."
+Matt Greiner (born October 28, 1985, in Lancaster, Pennsylvania) isn't just the drummer for August Burns Red — he's the rhythmic foundation of one of metalcore's most influential bands. As a founding member since 2003, Greiner has been the engine behind ABR's Grammy-nominated catalog, from the breakneck precision of "Composure" to the melodic sophistication of "Ghosts."
 
 What sets Greiner apart in the metalcore landscape isn't just speed or technical chops — it's musicality. Where many metalcore drummers prioritize aggression above all else, Greiner brings a jazz-informed dynamic range, creative cymbal orchestration, and an architect's sense of arrangement to every track. His playing locks with guitarist JB Brubaker's intricate riffs in a way that transforms difficult patterns into grooves you can feel.
 
@@ -126,4 +126,4 @@ A: Matt Greiner drives August Burns Red's double-bass lines with a DW 9000 Serie
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

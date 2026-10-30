@@ -87,4 +87,4 @@ A: Closely related techniques include One Handed Roll, Rudiments. Mastering thes
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

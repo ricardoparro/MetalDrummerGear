@@ -34,7 +34,7 @@ Greiner incorporates jazz-influenced dynamics, creative stacked-cymbal work, and
 
 ## Key Differences
 
-Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and Vic Firth Matt Greiner Signature sticks. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance cymbals (15" Dual Hi-Hats, 18" Extra Dry Thin Crash, 19" & 20" Dual Crashes, 22" Sand Ride, 18" Vintage Trash Hat), powered by a Tama Speed Cobra 910 double pedal and Vic Firth Matt Garstka Signature sticks. Greiner incorporates jazz-influenced dynamics, creative stacked-cymbal work, and rapid-fire double bass into metalcore's heavy foundation, weaving odd time signatures seamlessly into August Burns Red's song structures rather than showcasing them as a technical display. Garstka plays traditional grip — unusual in progressive metal — and draws on linear independence, polymetric phrasing, and ghost-note-dense double bass shaped by jazz fusion training, letting him navigate Animals as Leaders' constantly shifting time signatures with fluid, almost improvisational precision.
+Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and Vic Firth Matt Greiner Signature sticks. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance cymbals (15" Dual Hi-Hats, 18" Extra Dry Thin Crash, 19" & 20" Dual Crashes, 22" Sand Ride, 18" Vintage Trash Hat), powered by a Tama Speed Cobra 910 double pedal and Vic Firth Matt Garstka Signature sticks. Greiner incorporates jazz-influenced dynamics, creative stacked-cymbal work, and rapid-fire double bass into metalcore's heavy foundation, weaving odd time signatures seamlessly into August Burns Red's song structures rather than showcasing them as a technical display. Garstka plays traditional grip — unusual in progressive metal — and draws on linear independence, polymetric phrasing, and ghost-note-dense double bass shaped by jazz fusion training, letting him navigate Animals as Leaders' constantly shifting time signatures with fluid, almost improvisational precision.
 
 ## Influence & Legacy
 
@@ -42,7 +42,7 @@ Greiner earned two Grammy nominations for Best Metal Performance with August Bur
 
 ## Verdict
 
-Matt Greiner and Matt Garstka are the two defining polyrhythm voices of their respective corners of technical heavy music — Garstka pairs Meinl Byzance cymbals with his DW Collector's Series kit, while Greiner runs a Mapex/Paiste setup. Greiner built a 20-plus-year career turning Grammy-nominated metalcore into a showcase for jazz-informed dynamics and odd-time sophistication with August Burns Red. Garstka brought Berklee-trained jazz-fusion virtuosity to Animals as Leaders' entirely instrumental, djent-rooted catalog, turning polyrhythmic complexity into fluid, conversational playing. Both share a devotion to making complex time signatures feel natural rather than showy.
+Matt Greiner and Matt Garstka are the two defining polyrhythm voices of their respective corners of technical heavy music — Garstka pairs Meinl Byzance cymbals with his Pearl Masterworks Maple kit, while Greiner runs a Mapex/Paiste setup. Greiner built a 20-plus-year career turning Grammy-nominated metalcore into a showcase for jazz-informed dynamics and odd-time sophistication with August Burns Red. Garstka brought Berklee-trained jazz-fusion virtuosity to Animals as Leaders' entirely instrumental, djent-rooted catalog, turning polyrhythmic complexity into fluid, conversational playing. Both share a devotion to making complex time signatures feel natural rather than showy.
 
 ## FAQ
 
@@ -53,7 +53,7 @@ A: Both are considered among modern heavy music's most technical drummers. Matt 
 A: Neither band has won a Grammy. August Burns Red, featuring Matt Greiner, received Grammy nominations for Best Metal Performance in 2016 and 2020. Animals as Leaders, featuring Matt Garstka, has not received a Grammy nomination.
 
 **Q: What gear do Matt Greiner and Matt Garstka use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his signature Pearl 14x6" steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance cymbals, powered by a Tama Speed Cobra 910 double pedal.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his signature Pearl 14x6" steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance cymbals, powered by a Tama Speed Cobra 910 double pedal.
 
 **Q: What bands are Matt Greiner and Matt Garstka known for?**
 A: Matt Greiner co-founded and has drummed for metalcore band August Burns Red since 2003. Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, replacing original drummer Navene Koperweis.
@@ -67,4 +67,4 @@ A: Matt Greiner co-founded and has drummed for metalcore band August Burns Red s
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

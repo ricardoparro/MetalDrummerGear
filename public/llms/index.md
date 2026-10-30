@@ -1,6 +1,6 @@
 # MetalForge - LLM Content Index
 
-> Last Updated: 2026-10-15  
+> Last Updated: 2026-10-30  
 > Source: https://metalforge.io
 
 ## About MetalForge
@@ -53,7 +53,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Arin Ilejay | ex-Avenged Sevenfold | Heavy Metal / Hard Rock | [Profile](https://metalforge.io/drummer/arin-ilejay) | [Markdown](https://metalforge.io/api/drummer/arin-ilejay/markdown) |
 | Navene Koperweis | Entheos / ex-Animals as Leaders | Progressive Metal / Djent / Technical Death Metal | [Profile](https://metalforge.io/drummer/navene-koperweis) | [Markdown](https://metalforge.io/api/drummer/navene-koperweis/markdown) |
 | Alex Bent | ex-Trivium / Arkaik / Dragonlord | Heavy Metal / Thrash Metal / Technical Death Metal | [Profile](https://metalforge.io/drummer/alex-bent) | [Markdown](https://metalforge.io/api/drummer/alex-bent/markdown) |
-| Shannon Larkin | Godsmack / Ugly Kid Joe / Amen | Hard Rock / Heavy Metal / Nu Metal | [Profile](https://metalforge.io/drummer/shannon-larkin) | [Markdown](https://metalforge.io/api/drummer/shannon-larkin/markdown) |
+| Shannon Larkin | Godsmack / Ugly Kid Joe / Wrathchild America | Hard Rock / Heavy Metal / Nu Metal | [Profile](https://metalforge.io/drummer/shannon-larkin) | [Markdown](https://metalforge.io/api/drummer/shannon-larkin/markdown) |
 | Raymond Herrera | Fear Factory / Arkaea / Brujeria | Industrial Metal / Death Metal | [Profile](https://metalforge.io/drummer/raymond-herrera) | [Markdown](https://metalforge.io/api/drummer/raymond-herrera/markdown) |
 | Morgan Ågren | Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects | Progressive Rock / Progressive Metal / Jazz Fusion | [Profile](https://metalforge.io/drummer/morgan-agren) | [Markdown](https://metalforge.io/api/drummer/morgan-agren/markdown) |
 | Igor Cavalera | Sepultura / Cavalera Conspiracy / Soulwax | Thrash Metal / Groove Metal / Death Metal | [Profile](https://metalforge.io/drummer/igor-cavalera) | [Markdown](https://metalforge.io/api/drummer/igor-cavalera/markdown) |

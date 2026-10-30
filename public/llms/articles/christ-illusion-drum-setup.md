@@ -89,7 +89,7 @@ A: Dave Lombardo recorded Christ Illusion (2006) using a Pearl Masters MCX kit i
 
 **Q: Is Christ Illusion Lombardo's first Slayer album after his return?**
 
-A: Christ Illusion (2006) was Lombardo's second stint with Slayer, but it was his first album after the major gap: he had left after Seasons in the Abyss in 1990, a 14-year absence. He briefly rejoined for Diabolus in Musica (1998), but Christ Illusion is the album that fully marked his comeback and captured critical attention — particularly after winning the Grammy for Best Metal Performance.
+A: Christ Illusion (2006) was Lombardo's second stint with Slayer, but it was his first album after the major gap: he had left after Seasons in the Abyss in 1990, a 14-year absence during which Paul Bostaph recorded Divine Intervention, Undisputed Attitude, Diabolus in Musica, and God Hates Us All. Christ Illusion is the album that fully marked his comeback and captured critical attention — particularly after winning the Grammy for Best Metal Performance.
 
 **Q: Did Christ Illusion win a Grammy?**
 
@@ -120,4 +120,4 @@ A: Dave Lombardo used Zildjian A Custom series cymbals on Christ Illusion — a 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

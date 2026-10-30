@@ -26,7 +26,7 @@ Mayhem's Hellhammer vs Slayer's Dave Lombardo. Black metal's blast-beat architec
 
 ## Playing Style
 
-Hellhammer has driven Norwegian black metal since joining Mayhem in 1988, and his cold, relentless blast-beat performance on "De Mysteriis Dom Sathanas" (1994) remains the genre's founding statement; he has also anchored Dimmu Borgir's symphonic black metal since 1999. Dave Lombardo co-founded Slayer in 1981 and redefined what double bass drumming could do for thrash metal on "Reign in Blood" (1986), pairing groove-driven aggression with a jazz-informed sense of dynamics that set him apart from purely mechanical speed players; he later expanded into Fantomas, Mr. Bungle, and Suicidal Tendencies.
+Hellhammer has driven Norwegian black metal since joining Mayhem in 1988, and his cold, relentless blast-beat performance on "De Mysteriis Dom Sathanas" (1994) remains the genre's founding statement; he also anchored Dimmu Borgir's symphonic black metal from 1999 to 2013. Dave Lombardo co-founded Slayer in 1981 and redefined what double bass drumming could do for thrash metal on "Reign in Blood" (1986), pairing groove-driven aggression with a jazz-informed sense of dynamics that set him apart from purely mechanical speed players; he later expanded into Fantomas, Mr. Bungle, and Suicidal Tendencies.
 
 ## Technique
 
@@ -50,7 +50,7 @@ Hellhammer and Dave Lombardo are genre-founding figures from two different eras 
 A: Both are genre-founding figures. Hellhammer's blast-beat vocabulary on Mayhem's "De Mysteriis Dom Sathanas" (1994) shaped nearly every black metal drummer who followed. Dave Lombardo's groove-driven double bass work on Slayer's "Reign in Blood" (1986) is widely credited as the foundation of modern thrash and death metal drumming.
 
 **Q: What bands have Hellhammer and Dave Lombardo played in?**
-A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside Arcturus and Shining. Dave Lombardo co-founded Slayer in 1981 and has also played in Fantomas, Mr. Bungle, Dead Cross, Suicidal Tendencies, and Misfits.
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside Arcturus and Shining. Dave Lombardo co-founded Slayer in 1981 and has also played in Fantomas, Mr. Bungle, Dead Cross, Suicidal Tendencies, and Misfits.
 
 **Q: What gear do Hellhammer and Dave Lombardo use?**
 A: Hellhammer's classic rig was a Sonor 5-piece shell pack with a Sonor 14"x5.5" steel snare, later moving to the Sonor SQ2 Heavy Beech kit in 1999. Dave Lombardo was on Pearl during Slayer's "Reign in Blood" era (1986) before later switching to Tama; he now plays Tama Starclassic Walnut/Birch drums with Paiste RUDE Series cymbals and Tama Iron Cobra double pedals.
@@ -67,4 +67,4 @@ A: Hellhammer favors relentless, atmosphere-first blast beats built for black me
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

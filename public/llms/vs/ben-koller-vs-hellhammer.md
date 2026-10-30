@@ -26,7 +26,7 @@ Converge's Ben Koller vs Mayhem's Hellhammer. Raw, unpredictable hardcore intens
 
 ## Playing Style
 
-Ben Koller joined Converge in late 1999 and became central to the band's mathcore evolution, driving landmark records including "Jane Doe" (2001), "You Fail Me" (2004), "Axe to Fall" (2009), and "The Dusk in Us" (2017) with a chaotic, improvisational intensity that mirrors the band's unpredictable song structures — abrupt tempo shifts, blast beats colliding with sludgy breakdowns, and a raw, almost violent physicality. Beyond Converge, he co-founded heavy rock band Mutoid Man and joined the supergroup Killer Be Killed. Hellhammer (born Jan Axel Blomberg, 1969) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — while running a parallel career with Dimmu Borgir since 1999 and co-founding Arcturus.
+Ben Koller joined Converge in late 1999 and became central to the band's mathcore evolution, driving landmark records including "Jane Doe" (2001), "You Fail Me" (2004), "Axe to Fall" (2009), and "The Dusk in Us" (2017) with a chaotic, improvisational intensity that mirrors the band's unpredictable song structures — abrupt tempo shifts, blast beats colliding with sludgy breakdowns, and a raw, almost violent physicality. Beyond Converge, he co-founded heavy rock band Mutoid Man and joined the supergroup Killer Be Killed. Hellhammer (born Jan Axel Blomberg, 1969) joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and delivered the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured — having run a parallel career with Dimmu Borgir from 1999 to 2013 and co-founded Arcturus.
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Both are considered elite in extreme drumming, but in different contexts. Hel
 A: Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Both use Vic Firth American Classic 5B sticks.
 
 **Q: What bands are Ben Koller and Hellhammer known for?**
-A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Hellhammer has drummed for Mayhem since 1988 and has run a parallel career with Dimmu Borgir since 1999, along with co-founding Arcturus.
+A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Hellhammer has drummed for Mayhem since 1988 and ran a parallel career with Dimmu Borgir from 1999 to 2013, along with co-founding Arcturus.
 
 **Q: Does Hellhammer play barefoot?**
 A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds with Mayhem and Dimmu Borgir. Ben Koller plays in standard footwear with Converge.
@@ -67,4 +67,4 @@ A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedbac
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

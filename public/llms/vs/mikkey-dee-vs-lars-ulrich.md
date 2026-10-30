@@ -67,4 +67,4 @@ A: Yes — Mikkey Dee is one of the rare drummers to anchor two legendary bands 
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

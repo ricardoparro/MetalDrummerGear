@@ -3,7 +3,7 @@
 > Every documented drum-chair change (one drummer handing off to the next) across MetalForge's tracked metal bands, most recent first.
 > Optimised for queries like 'who is the new drummer for <band>', 'who replaced <drummer>'.
 
-> Last updated: 2026-10-15 · 122 changes across 47 bands
+> Last updated: 2026-10-30 · 122 changes across 47 bands
 
 ---
 
@@ -151,4 +151,4 @@
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

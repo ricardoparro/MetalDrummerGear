@@ -26,7 +26,7 @@ Mayhem's Hellhammer vs Motörhead/Scorpions' Mikkey Dee — cold Norwegian black
 
 ## Playing Style
 
-Hellhammer (born Jan Axel Blomberg, 1969, Trysil Municipality) joined Mayhem in 1988, replacing founding drummer Manheim, and his icy, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains Norwegian black metal's defining recording; he has run a parallel career with Dimmu Borgir since 1999. Mikkey Dee (born Micael Kiriakos Delaoglou, October 31, 1963, in Gothenburg, Sweden) built his early reputation with King Diamond on albums like "Abigail" (1987) before becoming Motörhead's longest-serving drummer, driving the band's uncompromising sound for 23 years from 1992 until Lemmy Kilmister's death in December 2015, then joining Scorpions in 2016.
+Hellhammer (born Jan Axel Blomberg, 1969, Trysil Municipality) joined Mayhem in 1988, replacing founding drummer Manheim, and his icy, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains Norwegian black metal's defining recording; he ran a parallel career with Dimmu Borgir from 1999 to 2013. Mikkey Dee (born Micael Kiriakos Delaoglou, October 31, 1963, in Gothenburg, Sweden) built his early reputation with King Diamond on albums like "Abigail" (1987) before becoming Motörhead's longest-serving drummer, driving the band's uncompromising sound for 23 years from 1992 until Lemmy Kilmister's death in December 2015, then joining Scorpions in 2016.
 
 ## Technique
 
@@ -50,7 +50,7 @@ Hellhammer and Mikkey Dee represent two very different definitions of extreme dr
 A: Hellhammer has anchored Mayhem's black metal since 1988, delivering genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994). Mikkey Dee drove Motörhead for 23 years (1992-2015) with thunderous single-kick power before joining Scorpions in 2016. Hellhammer represents extreme metal speed; Dee represents hard rock power and stamina.
 
 **Q: What bands have Hellhammer and Mikkey Dee played in?**
-A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999. Mikkey Dee played with King Diamond in the 1980s, drummed for Motörhead from 1992 to 2015, and has been Scorpions' drummer since 2016.
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013. Mikkey Dee played with King Diamond in the 1980s, drummed for Motörhead from 1992 to 2015, and has been Scorpions' drummer since 2016.
 
 **Q: What gear do Hellhammer and Mikkey Dee use?**
 A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Mikkey Dee plays Sonor drums built around a single 18"x22" bass drum, with a Sonor Mikkey Dee Signature snare and Paiste Signature Series cymbals.
@@ -67,4 +67,4 @@ A: Mikkey Dee prioritizes the massive, chest-thumping low end a large single kic
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

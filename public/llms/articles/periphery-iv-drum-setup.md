@@ -25,7 +25,7 @@ Hail Stan also marked a commercial and critical milestone. The #1 chart position
 - **Drums:** Pearl Pearl Reference Series (Custom finishes (various per promotional cycle) finish)
 - **Snare:** Pearl Pearl Reference 14"x6.5" Brass, 14" x 6" (primary) with rotation
 - **Cymbals:** Meinl — Byzance (Dual, Extra Dry, Traditional, Pure Alloy)
-- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl Hi-Hat Stand; Pearl D-2000 Throne; Vic Firth Matt Halpern Signature
+- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl Hi-Hat Stand; Pearl D-2000 Throne; Promark Matt Halpern Signature
 - **Heads:** Evans UV1 (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium-high for authority and ghost-note clarity across Hail Stan's wide dynamic range
 
@@ -126,4 +126,4 @@ A: Hail Stan debuted at number one on the US Top Progressive Albums chart and re
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

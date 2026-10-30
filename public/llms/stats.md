@@ -1,5 +1,5 @@
 # Metal Drummer Gear Statistics — MetalForge
-> Last Updated: 2026-10-15 · Source: https://metalforge.io/stats/gear-insights
+> Last Updated: 2026-10-30 · Source: https://metalforge.io/stats/gear-insights
 
 Gear-brand popularity data aggregated from 72 professional metal drummers in the MetalForge database. All percentages are calculated from verified gear records.
 

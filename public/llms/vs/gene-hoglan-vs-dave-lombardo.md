@@ -64,4 +64,4 @@ A: Both are elite for their eras. Hoglan's blast beats and double bass runs are 
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

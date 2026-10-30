@@ -42,4 +42,4 @@ A: MetalForge tracks all DW series used by professional metal drummers. Visit [h
 
 ---
 
-*Source: [metalforge.io/gear/dw/collectors/drummers-using](https://metalforge.io/gear/dw/collectors/drummers-using) · Last updated: 2026-10-15*
+*Source: [metalforge.io/gear/dw/collectors/drummers-using](https://metalforge.io/gear/dw/collectors/drummers-using) · Last updated: 2026-10-30*

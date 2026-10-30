@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-10-15 · Source: https://metalforge.io
+> Last updated: 2026-10-30 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -24,13 +24,13 @@ MetalForge publishes two categories of drummer guides: **how-to-sound-like** sty
 - [George Kollias — Nile](https://metalforge.io/guides/how-to-sound-like-george-kollias) · Technical Death Metal / Death Metal
 - [Travis Orbin — Periphery](https://metalforge.io/guides/how-to-sound-like-travis-orbin) · Djent / Progressive Metal
 - [Flo Mounier — Cryptopsy](https://metalforge.io/guides/how-to-sound-like-flo-mounier) · Technical Death Metal / Brutal Death Metal
-- [Jay Weinberg — Slipknot](https://metalforge.io/guides/how-to-sound-like-jay-weinberg) · Nu-Metal / Alternative Metal
-- [Mike Mangini — Dream Theater](https://metalforge.io/guides/how-to-sound-like-mike-mangini) · Progressive Metal / Prog Rock
+- [Jay Weinberg — Former Slipknot / Former Suicidal Tendencies](https://metalforge.io/guides/how-to-sound-like-jay-weinberg) · Nu-Metal / Alternative Metal
+- [Mike Mangini — Dream Theater (2010-2023) / Godsmack (touring, 2026-present)](https://metalforge.io/guides/how-to-sound-like-mike-mangini) · Progressive Metal / Prog Rock
 - [Gavin Harrison — Porcupine Tree](https://metalforge.io/guides/how-to-sound-like-gavin-harrison) · Progressive Rock / Prog Metal
 - [Nick Menza — Megadeth](https://metalforge.io/guides/how-to-sound-like-nick-menza) · Thrash Metal / Big Four
 - [Nicko McBrain — Iron Maiden](https://metalforge.io/guides/how-to-sound-like-nicko-mcbrain) · Heavy Metal / NWOBHM
 - [Igor Cavalera — Sepultura / Cavalera Conspiracy](https://metalforge.io/guides/how-to-sound-like-igor-cavalera) · Thrash Metal / Groove Metal
-- [Eloy Casagrande — Sepultura](https://metalforge.io/guides/how-to-sound-like-eloy-casagrande) · Thrash Metal / Groove Metal
+- [Eloy Casagrande — Sepultura / Slipknot](https://metalforge.io/guides/how-to-sound-like-eloy-casagrande) · Thrash Metal / Groove Metal
 - [Aquiles Priester — Angra](https://metalforge.io/guides/how-to-sound-like-aquiles-priester) · Neoclassical / Power Metal
 - [Charlie Benante — Anthrax](https://metalforge.io/guides/how-to-sound-like-charlie-benante) · Thrash Metal
 - [Matt Garstka — Animals as Leaders](https://metalforge.io/guides/how-to-sound-like-matt-garstka) · Progressive Metal / Djent
@@ -120,7 +120,7 @@ Joey's technique was built on a foundation of speed, power, and precision. He us
 
 - Drums: Pearl Pearl Joey Jordison Signature Kit (Birch/Basswood shells)
 - Snare: Pearl Joey Jordison Signature Snare
-- Cymbals: Paiste Paiste Signature Series / RUDE Series
+- Cymbals: Paiste RUDE & 2002 Series
 - Pedals: Pearl Pearl Demon Drive Double Pedal
 
 ### Frequently Asked Questions
@@ -272,7 +272,7 @@ Dave uses a matched grip with an emphasis on wrist control for his legendary spe
 ### Gear Setup
 
 - Drums: Tama Tama Starclassic Walnut/Birch (Walnut/Birch hybrid shells)
-- Snare: Tama Dave Lombardo Signature Snare
+- Snare: Tama Tama S.L.P. G-Maple
 - Cymbals: Paiste Paiste RUDE Series
 
 ### Frequently Asked Questions
@@ -317,10 +317,10 @@ Mario uses matched grip with exceptional control. His style emphasizes groove th
 
 ### Gear Setup
 
-- Drums: Tama Tama Starclassic Walnut/Birch (Walnut/Birch hybrid shells)
-- Snare: Tama Mario Duplantier Signature Snare
+- Drums: Tama Tama Starclassic Bubinga (Bubinga shells)
+- Snare: Tama Tama S.L.P. G-Maple
 - Cymbals: Zildjian K Custom / A Custom / Z Custom
-- Pedals: Tama Tama Iron Cobra 900 Rolling Glide Double Pedal
+- Pedals: Tama Single Pedal (x2 — one per bass drum)
 
 ### Frequently Asked Questions
 
@@ -412,7 +412,7 @@ Gene uses matched grip with a powerful, arm-incorporated stroke. His technique e
 ### Gear Setup
 
 - Drums: Pearl Pearl Reference Pure (Maple/Birch Hybrid shells)
-- Snare: Pearl Pearl Reference Pure Snare
+- Snare: Pearl Model not independently verified
 - Cymbals: Sabian Sabian AAX Series
 - Pedals: Pearl Pearl Demon Drive Double Pedal
 
@@ -458,9 +458,9 @@ Brann uses matched grip with exceptional control. His technique emphasizes flow�
 
 ### Gear Setup
 
-- Drums: Tama Tama Starclassic Performer B/B (Maple shells)
-- Snare: Tama Tama Starclassic Snare
-- Cymbals: Meinl Meinl Mb20 & Mb8 Series
+- Drums: Tama Tama Starclassic Performer B/B (Birch/Bubinga shells)
+- Snare: Tama Tama S.L.P. G-Maple
+- Cymbals: Meinl Meinl Byzance Series
 - Pedals: Tama Tama Speed Cobra
 
 ### Frequently Asked Questions
@@ -497,17 +497,17 @@ Matt uses matched grip with emphasis on wrist control and finesse. His technique
 
 ### Key Songs to Study
 
-- *Marigold* (Marigold, 2014) — Perfect blend of groove and technicality
+- *Marigold* (Periphery III: Select Difficulty, 2016) — Perfect blend of groove and technicality
 - *Scarlet* (Periphery II, 2012) — Heavy with incredible pocket
 - *Lune* (Periphery II, 2012) — Dynamics and feel on display
-- *Prayer Position* (Select Difficulty, 2015) — Modern Periphery complexity
+- *Prayer Position* (Periphery III: Select Difficulty, 2016) — Modern Periphery complexity
 - *Reptile* (Periphery IV, 2019) — Epic 17-minute progressive journey
 
 ### Gear Setup
 
 - Drums: Pearl Pearl Reference Series (Maple/Mahogany shells)
-- Snare: Pearl Matt Halpern Signature Snare
-- Cymbals: Meinl Meinl Byzance Dual / Extra Dry
+- Snare: Pearl Pearl Matt Halpern Signature (MH1460/B)
+- Cymbals: Meinl Meinl Byzance Traditional / Byzance Dark / Artist Concept
 - Pedals: Pearl Pearl Demon Drive Double Pedal
 
 ### Frequently Asked Questions
@@ -554,7 +554,7 @@ Chris uses matched grip with strong wrist technique. His playing emphasizes sync
 
 - Drums: Mapex Mapex Black Panther / Saturn V (Maple/Walnut shells)
 - Snare: Mapex Chris Adler Signature Snare
-- Cymbals: Meinl Meinl Mb20
+- Cymbals: Meinl Meinl Byzance
 - Pedals: Trick Trick Pro V
 
 ### Frequently Asked Questions
@@ -607,7 +607,7 @@ Matt uses matched grip with a relaxed, musical approach unusual in heavy metalco
 ### Frequently Asked Questions
 
 **Q: What snare does Matt Greiner use?**
-A: Matt Greiner uses a Mapex Black Panther Snare — a 14" x 6.5" maple shell snare from his Mapex Black Panther Design Lab kit, endorsed since 2016. The maple shell delivers warmth and crack suited to both metalcore aggression and ghost-note sensitivity.
+A: Matt Greiner uses a Mapex Black Panther Snare — a 14" x 5.5" maple shell snare from his Mapex Black Panther Design Lab kit, endorsed since 2016. The maple shell delivers warmth and crack suited to both metalcore aggression and ghost-note sensitivity.
 
 **Q: Does Matt Greiner use double bass?**
 A: Yes. Matt uses a DW 9000 Series Double Pedal for the intricate kick patterns throughout August Burns Red's catalog. His kick patterns often lock with guitar riffs rather than running continuous 16ths.
@@ -628,7 +628,7 @@ A: Matt started playing young and is largely self-taught, though he cites jazz d
 **Genre:** Technical Death Metal / Death Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-george-kollias](https://metalforge.io/guides/how-to-sound-like-george-kollias)
 
-Master George Kollias's Guinness-certified blast beat technique. Learn his extreme double bass endurance, Pearl signature setup, and the precision behind Nile's ancient death metal onslaught.
+Master George Kollias's elite blast beat technique. Learn his extreme double bass endurance, Pearl signature setup, and the precision behind Nile's ancient death metal onslaught.
 
 ### Style Overview
 
@@ -660,13 +660,13 @@ Kollias uses matched grip with a highly refined wrist technique for both hands a
 ### Frequently Asked Questions
 
 **Q: What is George Kollias's blast beat speed?**
-A: George Kollias holds the Guinness World Record for the fastest blast beat at 1,007 BPM, achieved in a controlled setting. In live performance with Nile, he sustains blast beats at 200-260 BPM for extended passages.
+A: George Kollias is renowned for his endurance: in live performance with Nile, he sustains blast beats at 200-260 BPM for extended passages, a pace few drummers can maintain for a full set.
 
 **Q: How does George Kollias play so fast for so long?**
 A: Through systematic physical conditioning and technique refinement. His ankle-isolation foot technique minimizes fatigue by keeping calf muscles out of the equation. He also trains cardiovascular endurance alongside drumming technique.
 
 **Q: What pedal does George Kollias use?**
-A: George Kollias uses the Pearl Demon Drive double pedal. The direct-drive mechanism gives him the precise feedback and minimal lag he needs at extreme tempos.
+A: George Kollias uses the Pearl Demon XR double pedal — a model he co-designed. The direct-drive mechanism gives him the precise feedback and minimal lag he needs at extreme tempos.
 
 **Q: Is George Kollias self-taught?**
 A: Kollias is largely self-taught but has extensively studied drumming technique and has become an educator himself through his 'Intense Metal Drumming' instructional series.
@@ -698,7 +698,7 @@ Travis uses matched grip with exceptional independence between all four limbs. H
 ### Gear Setup
 
 - Drums: SJC SJC Custom Drums (Maple shells)
-- Snare: SJC SJC Custom Steel Snare
+- Snare: SJC SJC Custom Maple Snare
 - Cymbals: Zildjian Zildjian K Custom Dark / A Custom Hybrid
 - Pedals: DW DW 9000 Series Double Pedal
 
@@ -774,12 +774,12 @@ A: 'None So Vile' (1996) is the essential reference — it represents Mounier at
 
 ---
 
-## How to Sound Like Jay Weinberg (Slipknot)
+## How to Sound Like Jay Weinberg (Former Slipknot / Former Suicidal Tendencies)
 
 **Genre:** Nu-Metal / Alternative Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-jay-weinberg](https://metalforge.io/guides/how-to-sound-like-jay-weinberg)
 
-Master Jay Weinberg's powerful Slipknot drumming style. Learn his double bass groove-lock, ghost note integration, syncopated kick patterns, and the exact gear setup behind one of metal's most energetic live performances.
+Master Jay Weinberg's powerful drumming style, forged across his 2014-2023 Slipknot run and his 2024-2026 stint in Suicidal Tendencies. Learn his double bass groove-lock, ghost note integration, syncopated kick patterns, and the exact gear setup behind one of metal's most energetic live performances.
 
 ### Style Overview
 
@@ -805,35 +805,35 @@ Jay uses matched grip with a powerful wrist-and-arm hybrid approach that gives h
 ### Gear Setup
 
 - Drums: SJC SJC Custom Drums (Maple shells)
-- Snare: SJC SJC Custom Steel
-- Cymbals: Zildjian Zildjian K Custom / A Custom Series
+- Snare: SJC Jay Weinberg "The Crucible" 48-ply Brass
+- Cymbals: Zildjian Zildjian A New Beat / A Custom / K Custom Series
 - Pedals: DW DW 9000 Series Double Pedal
 
 ### Frequently Asked Questions
 
-**Q: What drum kit does Jay Weinberg use with Slipknot?**
-A: Jay Weinberg uses SJC Custom Drums with custom Slipknot configurations. The maple shells offer maximum projection and articulation for arena-scale performances.
+**Q: What drum kit did Jay Weinberg use with Slipknot?**
+A: Jay Weinberg used SJC Custom Drums with custom Slipknot configurations during his 2014-2023 tenure. The maple shells offer maximum projection and articulation for arena-scale performances.
 
 **Q: How does Jay Weinberg's drumming differ from Joey Jordison's?**
-A: Jay brings a more refined technical foundation with stronger ghost note integration and cleaner groove-lock. Joey was known for raw aggression and charismatic showmanship. Both serve Slipknot's music brilliantly but from different stylistic angles — Jay's approach is arguably more precise while Joey's was more visceral.
+A: Jay brings a more refined technical foundation with stronger ghost note integration and cleaner groove-lock. Joey was known for raw aggression and charismatic showmanship. Both served Slipknot's music brilliantly but from different stylistic angles — Jay's approach is arguably more precise while Joey's was more visceral.
 
 **Q: What double bass pedals does Jay Weinberg use?**
 A: Jay uses DW 9000 series double pedals. The DW 9000's adjustability and direct-drive option give him the fast, consistent response his syncopated kick patterns require.
 
 **Q: How do I get Jay Weinberg's snare sound?**
-A: Jay uses an SJC Custom Steel snare tuned high for crack and cut. Tune your batter head tight — 2-3 turns past finger-tight — and use minimal muffling. A steel shell snare like the Tama Starclassic Steel or Ludwig Supraphonic will get you into similar territory.
+A: Jay uses his signature SJC "The Crucible" 14"x6.5" 48-ply brass snare, tuned high for crack and cut. Tune your batter head tight — 2-3 turns past finger-tight — and use minimal muffling. A bright brass shell snare will get you into similar territory.
 
 **Q: Can a beginner learn Jay Weinberg's drumming style?**
 A: Beginners can absolutely start learning Jay's style by focusing on his fundamental groove patterns. Start with basic Slipknot grooves at slow tempo before adding ghost notes and double bass complexity. Songs like Duality and Before I Forget have accessible drum parts that teach the locking-with-guitars principle he uses throughout.
 
 ---
 
-## How to Sound Like Mike Mangini (Dream Theater)
+## How to Sound Like Mike Mangini (Dream Theater (2010-2023) / Godsmack (touring, 2026-present))
 
 **Genre:** Progressive Metal / Prog Rock  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-mike-mangini](https://metalforge.io/guides/how-to-sound-like-mike-mangini)
 
-Master Mike Mangini's progressive metal drumming. Learn his subdivisions mastery, metric modulation, polyrhythmic independence, and the Pearl Reference Series setup behind Dream Theater's most technical recordings.
+Master Mike Mangini's progressive metal drumming. Learn his subdivisions mastery, metric modulation, polyrhythmic independence, and the Pearl Reference Series setup behind Dream Theater's most technical recordings from his 2010-2023 tenure.
 
 ### Style Overview
 
@@ -858,9 +858,9 @@ Mike uses matched grip with exceptional independence between all four limbs. His
 
 ### Gear Setup
 
-- Drums: Pearl Pearl Reference Series (Maple/Spruce hybrid shells)
+- Drums: Pearl Pearl Reference Series (Maple shells)
 - Snare: Pearl Pearl Reference
-- Cymbals: Sabian Sabian HHX Evolution / AAX X-Plosion
+- Cymbals: Sabian Sabian HHX Evolution
 - Pedals: Pearl Pearl Eliminator Redline Double Pedal
 
 ### Frequently Asked Questions
@@ -869,7 +869,7 @@ Mike uses matched grip with exceptional independence between all four limbs. His
 A: Mike Mangini holds multiple Guinness World Records for drumming speed, including records for single strokes and doubles. In practical performance contexts, his speed rarely becomes a limitation — he's notable for how he uses technical facility musically rather than as an end in itself.
 
 **Q: How is Mike Mangini different from Mike Portnoy in Dream Theater?**
-A: Mike Portnoy's style was more visceral and groove-oriented with a rock sensibility. Mike Mangini brings more academic precision — his subdivision control and polyrhythmic independence are more systematic. Both are exceptional but have distinct characters. Dream Theater's recent albums are more technically intricate at the compositional level.
+A: Mike Portnoy's style was more visceral and groove-oriented with a rock sensibility. Mike Mangini brought more academic precision — his subdivision control and polyrhythmic independence were more systematic. Both are exceptional but have distinct characters. Mangini drummed for Dream Theater from 2010 to 2023, when Portnoy rejoined the band; Mangini has been Godsmack's touring drummer since June 2026.
 
 **Q: What is metric modulation and how does Mike Mangini use it?**
 A: Metric modulation is a technique where a rhythmic subdivision becomes the new pulse, creating a seamless tempo shift. For example, if you're playing in 4/4 and begin treating triplets as quarter notes, you've modulated to a new tempo (150% of the original if starting triplets at the same tempo). Dream Theater's compositions are built around these kinds of transitions, and Mike executes them flawlessly.
@@ -878,7 +878,7 @@ A: Metric modulation is a technique where a rhythmic subdivision becomes the new
 A: Mike Mangini uses Remo drum heads — Powerstroke 3 for kick drums and Emperor Coated for snare and toms. Remo heads are known for their durability and dynamic response, which suits his wide-range playing style.
 
 **Q: Can beginners learn to play Mike Mangini's style?**
-A: Beginners can absolutely start the journey toward Mike's style by focusing on foundational subdivision practice and four-way limb independence. His playing is extremely demanding, but the path there is well-defined: master rudiments, study subdivisions systematically, and build independence one limb pair at a time. Dream Theater's more accessible songs like The Enemy Inside and Untethered Angel are good starting points.
+A: Beginners can absolutely start the journey toward Mike's style by focusing on foundational subdivision practice and four-way limb independence. His playing is extremely demanding, but the path there is well-defined: master rudiments, study subdivisions systematically, and build independence one limb pair at a time. Dream Theater songs from his 2010-2023 tenure, like The Enemy Inside and Untethered Angel, are good starting points.
 
 ---
 
@@ -966,24 +966,24 @@ Nick used matched grip with a forceful wrist-driven approach. His technique prio
 
 ### Gear Setup
 
-- Drums: Tama / Pearl Tama Artstar II (1990) → Pearl Masters (1992) (Birch (Tama Artstar II) / Maple (Pearl Masters) shells)
-- Snare: Tama / Pearl 14" x 6.5" Snare
-- Cymbals: Zildjian / Paiste Zildjian A Series (1990) → Paiste 2002 / Signature (1992)
+- Drums: Tama / Pearl Tama Artstar II (1990) → Pearl Masters (1992) → Pearl Masterworks (1994) → Pearl Reference Custom (1997) (Birch (Tama Artstar II) / Maple (Pearl Masters, Masterworks, Reference Custom) shells)
+- Snare: Pearl Reference Custom
+- Cymbals: Sabian Sabian AA / Signature Series (since 1997)
 - Pedals: Tama Tama Iron Cobra Double Pedal
 
 ### Frequently Asked Questions
 
 **Q: What drum kit did Nick Menza use on Rust in Peace?**
-A: Nick Menza used a Tama Artstar II kit in Midnight Blue finish on "Rust in Peace" (1990) — birch shells chosen for the focused attack needed to cut through Megadeth's dense guitar arrangements. He switched to a Pearl Masters kit for "Countdown to Extinction" (1992), seeking a more resonant, powerful sound. Modern alternatives include the Tama Starclassic for the Artstar II-era attack and the Pearl Masters Maple Complete for the Countdown-era tone.
+A: Nick Menza used a Tama Artstar II kit in Midnight Blue finish on "Rust in Peace" (1990) — birch shells chosen for the focused attack needed to cut through Megadeth's dense guitar arrangements. He then moved through Pearl Masters for "Countdown to Extinction" (1992) and Pearl Masterworks for "Youthanasia" (1994), before settling on Pearl Reference Custom — his flagship professional tier — for "Cryptic Writings" (1997), his final full studio album with Megadeth. Modern alternatives include the Tama Starclassic for the Artstar II-era attack and the Pearl Reference Custom for his final-era tone.
 
 **Q: How do I get Nick Menza's snare crack?**
-A: Nick's snare sound came from two things: tight tuning and consistent rimshots. Tune your snare head several turns past finger-tight — much tighter than you'd tune for a rock sound. Then angle your stick slightly so it strikes both the rim and the head simultaneously on every backbeat. A steel shell snare like the Ludwig Supraphonic or Pearl Sensitone will get you closest to that sharp, high crack.
+A: Nick's snare sound came from two things: tight tuning and consistent rimshots. Tune your snare head several turns past finger-tight — much tighter than you'd tune for a rock sound. Then angle your stick slightly so it strikes both the rim and the head simultaneously on every backbeat. His final-era snare was a Pearl Reference Custom, 14" x 5.5" — that model, or a comparably tight-tunable maple snare, will get you closest to that sharp, high crack.
 
 **Q: How fast was Nick Menza's double bass?**
 A: Nick Menza comfortably played double-bass patterns at 180-200 BPM — the typical tempo range for Megadeth's fastest thrash material. What distinguished him from other drummers at those speeds was the articulation: each kick hit remained clean and even rather than blurring into an undifferentiated wall of sound.
 
 **Q: What cymbals did Nick Menza use?**
-A: Nick Menza ran a Zildjian A / A Custom setup on "Rust in Peace" (1990) — 14" A New Beat hi-hats, A Medium crashes (16" and 18"), a 20" A ride, and an 18" A China Boy High. He switched to Paiste 2002 and Signature cymbals for "Countdown to Extinction" (1992), matching that album's more melodic, arena-rock-oriented production without losing thrash-level cut.
+A: Nick Menza ran a Zildjian A / A Custom setup on "Rust in Peace" (1990) — 14" A New Beat hi-hats, A Medium crashes (16" and 18"), a 20" A ride, and an 18" A China Boy High. He switched to Paiste 2002 and Signature cymbals for "Countdown to Extinction" (1992), then made his final switch to a Sabian AA and Signature Series setup for "Cryptic Writings" (1997) — 14" AA hi-hats, a 16" AA crash, an 18" Signature crash, a 20" AA ride, and an 18" AA China — a brighter, more focused voice for the album's contemporary Nashville production.
 
 **Q: Can a beginner learn Nick Menza's style?**
 A: Beginners can absolutely work toward Nick's style, but the double-bass precision requires significant foundational development first. Start with basic thrash grooves at 120-140 BPM and build accuracy before adding speed. Songs like Symphony of Destruction and Skin o' My Teeth are more accessible entry points than the faster Rust in Peace material.
@@ -1022,7 +1022,7 @@ Nicko uses matched grip with a powerful wrist-and-arm hybrid approach. His defin
 
 - Drums: British Drum Co. British Drum Co. kit (current, since 2019) / Sonor SQ2 (2010-2019) (Maple (current) / Maple (2010-2019 Sonor SQ2 era) shells)
 - Snare: Sonor Sonor Nicko McBrain Signature
-- Cymbals: Paiste Paiste 2002 Series
+- Cymbals: Paiste Paiste 2002 & Signature Series
 - Pedals: unconfirmed Single Pedal (not double bass)
 
 ### Frequently Asked Questions
@@ -1031,10 +1031,10 @@ Nicko uses matched grip with a powerful wrist-and-arm hybrid approach. His defin
 A: No. Nicko McBrain has used a single bass drum pedal throughout his entire Iron Maiden career, including all the classic albums and world tours. His single-pedal technique is one of the most studied in heavy metal — he achieves remarkable speed and independence through exceptional footwork rather than adding a second pedal. This is a defining and intentional part of his style.
 
 **Q: What drum kit does Nicko McBrain use currently?**
-A: Nicko McBrain currently plays British Drum Co., an endorsement he took up in 2019. He still uses his Sonor Nicko McBrain Signature snare within that kit. Before British Drum Co., he played Sonor SQ2 kits from 2010-2019.
+A: Nicko McBrain played British Drum Co., an endorsement he took up in 2019, through his December 2024 touring retirement; he remains an official/studio member of Iron Maiden, with Simon Dawson now handling touring duties. He still uses his Sonor Nicko McBrain Signature snare within that kit. Before British Drum Co., he played Sonor SQ2 kits from 2010-2019.
 
 **Q: What cymbals does Nicko McBrain use?**
-A: Nicko McBrain has used Paiste 2002 cymbals throughout his career — one of the longest brand loyalties in professional metal drumming. His setup includes 14" Sound Edge hi-hats, 16" and 18" Power Crashes, a 22" Power Ride (essential for the gallop bell pattern), and a 20" China. The 2002's brightness and projection perfectly suit Iron Maiden's live sound.
+A: Nicko McBrain has used Paiste 2002 cymbals since 1983 and added the Signature Series in 1998, playing a combined Paiste 2002 & Signature Series setup ever since — one of the longest brand loyalties in professional metal drumming. His setup includes 14" Sound Edge hi-hats, 16" and 18" Power Crashes, a 22" Power Ride (essential for the gallop bell pattern), and a 20" China. The brightness and projection of these Paiste lines perfectly suit Iron Maiden's live sound.
 
 **Q: How do I learn the Iron Maiden gallop drum pattern?**
 A: Start with the ride bell pattern alone at 100 BPM — steady 8th notes on the bell. Add the bass drum figure (beat 1 and the 'and' of 2) while keeping the bell steady. Add snare on 2 and 4 last. Practice each element alone until it's automatic before combining. The Trooper is the best song to learn the gallop in a musical context.
@@ -1049,7 +1049,7 @@ A: The gallop pattern fundamentals are accessible to intermediate drummers once 
 **Genre:** Thrash Metal / Groove Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-igor-cavalera](https://metalforge.io/guides/how-to-sound-like-igor-cavalera)
 
-Master Igor Cavalera's tribal groove drumming. Learn his Roots-era tribal beats, double-bass blast integration, 'Roots Bloody Roots' mid-tempo stomp, and the Tama gear setup behind Sepultura's most influential albums.
+Master Igor Cavalera's tribal groove drumming. Learn his Roots-era tribal beats, double-bass blast integration, 'Roots Bloody Roots' mid-tempo stomp, and the Pearl-to-Tama-to-Yamaha gear evolution behind Sepultura's most influential albums.
 
 ### Style Overview
 
@@ -1098,12 +1098,12 @@ A: The tribal groove patterns are actually accessible to intermediate drummers �
 
 ---
 
-## How to Sound Like Eloy Casagrande (Sepultura)
+## How to Sound Like Eloy Casagrande (Sepultura / Slipknot)
 
 **Genre:** Thrash Metal / Groove Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-eloy-casagrande](https://metalforge.io/guides/how-to-sound-like-eloy-casagrande)
 
-Master Eloy Casagrande's explosive Sepultura drumming style. Learn his signature double-bass patterns, Brazilian-groove techniques, exact Tama/Paiste gear setup, and tuning tips to capture the modern Sepultura sound.
+Master Eloy Casagrande's explosive drumming style, from his 13-year Sepultura run to his 2024 move to Slipknot. Learn his signature double-bass patterns, Brazilian-groove techniques, exact Tama/Paiste gear setup, and tuning tips.
 
 ### Style Overview
 
@@ -1136,10 +1136,13 @@ Eloy plays matched grip with a powerful, upright technique that generates both s
 ### Frequently Asked Questions
 
 **Q: What drum kit does Eloy Casagrande use?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga drums throughout his Sepultura tenure. The Bubinga series uses dense bubinga wood shells that deliver focused, high-attack sound with naturally controlled sustain — well-suited to the riff-locked double bass patterns at the center of his playing. He uses dual 22" bass drums (independent, not a double pedal) for maximum precision at high speeds.
+A: Eloy Casagrande plays Tama Starclassic Bubinga drums — the setup he built throughout his 13-year Sepultura tenure and still uses now as Slipknot's drummer. The Bubinga series uses dense bubinga wood shells that deliver focused, high-attack sound with naturally controlled sustain — well-suited to the riff-locked double bass patterns at the center of his playing. He uses dual 22" bass drums (independent, not a double pedal) for maximum precision at high speeds.
 
-**Q: What cymbals does Eloy Casagrande use with Sepultura?**
-A: Eloy Casagrande is a Paiste endorser. His Sepultura setup includes 15" Masters Dark Hi-Hats, Paiste Formula 602 Modern Essentials and 2002 Wild crashes, a Masters Dark Crash, a 2002 Novo China, and a 2002 Power Ride. The Masters Dark series gives dark, controlled response for fast patterns, while the 2002 Wild Crash delivers the explosive impact his thrash passages demand.
+**Q: What cymbals does Eloy Casagrande use with Slipknot?**
+A: Eloy Casagrande is a Paiste endorser and kept the same cymbal setup when he moved from Sepultura to Slipknot in 2024. His setup includes 15" Masters Dark Hi-Hats, Paiste Formula 602 Modern Essentials and 2002 Wild crashes, a Masters Dark Crash, a 2002 Novo China, and a 2002 Power Ride. The Masters Dark series gives dark, controlled response for fast patterns, while the 2002 Wild Crash delivers the explosive impact his thrash passages demand.
+
+**Q: Did Eloy Casagrande really join Slipknot?**
+A: Yes. Eloy Casagrande left Sepultura in February 2024 after 13 years and was officially confirmed as Slipknot's new drummer on May 1, 2024, taking over the drum chair from Jay Weinberg. He kept his existing Tama, Paiste, and Evans endorsements, so the gear and much of the technique covered in this guide carry directly into his current Slipknot work.
 
 **Q: How does Eloy Casagrande get the Sepultura drum sound?**
 A: The Sepultura drum sound in Eloy's era comes from three elements: Tama Bubinga shells (focused attack, natural sustain control), Paiste Masters Dark cymbals (dark but cutting), and Eloy's technique of locking the kick drum tightly to the guitar riff's rhythmic accents. The result is a sound where kick and guitar move as one machine. For recording, medium-high snare tension and a controlled kick with defined attack transient are the key tuning choices.
@@ -1151,7 +1154,7 @@ A: Eloy Casagrande uses two independent bass drums, not a single kick with a dou
 A: Start with 'Means To An End' and 'Isolation' from Quadra (2020) — both showcase Eloy's riff-locked double bass and groove-metal pocket in accessible contexts. Eloy released drum-cam videos for both that make them excellent learning resources. For more technical depth, 'Vandal's Nest' and 'Phantom Self' from Machine Messiah (2017) demonstrate his double-bass complexity. All are available as drum transcriptions and teaching resources online.
 
 **Q: How did Eloy Casagrande develop his style?**
-A: Eloy grew up in São Paulo, Brazil, and started drumming at age 7. His primary influences are Igor Cavalera (Sepultura's original drummer — whose tribal groove roots are in Eloy's DNA), Dave Lombardo (thrash precision), and Joey Jordison (extreme metal intensity). He joined Sepultura at 20, stepping directly into one of thrash metal's most demanding roles, and spent 13 years evolving his technique through increasingly ambitious material. The viral drum-cam videos he released during the Quadra cycle — showing his technique in real time — accelerated his international reputation significantly.
+A: Eloy grew up in São Paulo, Brazil, and started drumming at age 7. His primary influences are Igor Cavalera (Sepultura's original drummer — whose tribal groove roots are in Eloy's DNA), Dave Lombardo (thrash precision), and Joey Jordison (extreme metal intensity). He joined Sepultura at 20, stepping directly into one of thrash metal's most demanding roles, and spent 13 years evolving his technique through increasingly ambitious material. The viral drum-cam videos he released during the Quadra cycle — showing his technique in real time — accelerated his international reputation significantly, and that reputation is a big part of why Slipknot recruited him as Jay Weinberg's replacement in 2024.
 
 ---
 
@@ -1181,7 +1184,6 @@ Aquiles plays matched grip with an upright, relaxed posture that contradicts the
 - *Heroes of Sand* (Temple of Shadows, 2004) — Progressive feel transitions across blast beats, grooves, and atmospheric sections within one song
 - *The Shadow Hunter* (Temple of Shadows, 2004) — Double-bass density combined with snare authority — both elements at their peak
 - *Morning Star* (Aurora Consurgens, 2006) — Demonstrates dynamic range — from delicate musical passages to explosive power metal peaks
-- *Ashes* (Aqua, 2010) — Limb independence under complex neoclassical arrangements with tempo and time signature shifts
 
 ### Gear Setup
 
@@ -1193,10 +1195,10 @@ Aquiles plays matched grip with an upright, relaxed posture that contradicts the
 ### Frequently Asked Questions
 
 **Q: What drum kit does Aquiles Priester use?**
-A: Aquiles Priester currently plays the Mapex Saturn Evolution All Maple — his own signature kit, the first Brazilian-drummer signature kit released by a global drum brand — for Angra touring and recording (from his 2023 return). His configuration includes 22" bass drums in a double-bass setup, three rack toms (10", 12", 13"), and two floor toms (16" and 18"). Earlier in his career he played Mapex Saturn Series drums (used on Rebirth and Temple of Shadows) and Pearl Reference Series kits during his W.A.S.P. years.
+A: Aquiles Priester currently plays the Mapex Saturn Evolution All Maple — his own signature kit, the first Brazilian-drummer signature kit released by a global drum brand. His configuration includes 22" bass drums in a double-bass setup, three rack toms (10", 12", 13"), and two floor toms (16" and 18"). Earlier in his career he played Mapex Saturn Series drums (used on Rebirth and Temple of Shadows during his 2001-2008 Angra tenure) and Pearl Reference Series kits during his W.A.S.P. years.
 
 **Q: What cymbals does Aquiles Priester use with Angra?**
-A: Aquiles Priester currently plays Paiste cymbals — a custom red-coated set that includes his own 18" Psychoctopus Giga Bell Ride. The hi-hats deliver the tight, articulate response needed for fast hi-hat patterns when the kick is running at 180+ BPM. In his classic Angra era (Rebirth through Aqua), he used Sabian HHX Series.
+A: Aquiles Priester currently plays Paiste cymbals — a custom red-coated set that includes his own 18" Psychoctopus Giga Bell Ride. The hi-hats deliver the tight, articulate response needed for fast hi-hat patterns when the kick is running at 180+ BPM. In his classic Angra era (Rebirth through Aurora Consurgens, 2001-2008), he used Sabian HHX Series.
 
 **Q: What double pedal does Aquiles Priester use?**
 A: Aquiles Priester currently uses the DW 9000 Series double pedal. Its ball-bearing cam system provides smooth, consistent action across the full tempo range — critical when sustaining double-bass patterns at 180–220+ BPM across long live sets. Earlier in his career he used the Axis A double pedal, known for its extremely light, fast action, which is ideal for building extreme double-bass speed.
@@ -1211,7 +1213,7 @@ A: Start with 'Spread Your Fire' from Rebirth (2001) — it showcases the relaxa
 A: Aquiles Priester plays his own ProMark Aquiles Priester Signature sticks, built for both power and control at high tempos. ProMark 5B is a solid starting point for approximating his style.
 
 **Q: How did Aquiles Priester develop his neoclassical drumming style?**
-A: Aquiles grew up in São Paulo, Brazil, and developed his technique through intensive double-bass practice built entirely around the relaxation principle — playing slower with complete freedom before chasing speed. His major influences include Nicko McBrain (Iron Maiden), Neil Peart (Rush), and Brazilian metal drummers who came before him. He joined Angra in 2000, stepping into a band whose compositions demanded both extreme physical endurance and the musical sensitivity to navigate complex neoclassical arrangements. His Inside My Drums lesson series documents his technique approach in his own words.
+A: Aquiles grew up in São Paulo, Brazil, and developed his technique through intensive double-bass practice built entirely around the relaxation principle — playing slower with complete freedom before chasing speed. His major influences include Nicko McBrain (Iron Maiden), Neil Peart (Rush), and Brazilian metal drummers who came before him. He joined Angra in 2001, stepping into a band whose compositions demanded both extreme physical endurance and the musical sensitivity to navigate complex neoclassical arrangements. His Inside My Drums lesson series documents his technique approach in his own words.
 
 ---
 
@@ -1262,7 +1264,7 @@ A: Charlie Benante plays Paiste cymbals, primarily from the RUDE and 2002 series
 A: Benante's most recognizable technique is his open hi-hat thrash drive, where the hi-hat opens slightly on the eighth-note upbeats (the 'ands') while the snare plays on 2 and 4. This creates a churning, breathing quality distinct from the tight closed hi-hat patterns used by many thrash drummers. He pairs this with syncopated kick placement that follows guitar riff accent points rather than running preset patterns.
 
 **Q: What pedals does Charlie Benante use?**
-A: Charlie Benante uses the Tama Speed Cobra double pedal, which replaced the vintage Tama HP35 Camco chain-drive pedals he ran from 1984 until Tama discontinued them in 2010. Benante's syncopated kick technique benefits from the precise, responsive feel the Speed Cobra provides.
+A: Charlie Benante uses the Tama Speed Cobra double pedal. Benante's syncopated kick technique benefits from the precise, responsive feel the Speed Cobra provides.
 
 **Q: What are the best Anthrax songs to learn Charlie Benante's style?**
 A: Start with 'Among the Living' and 'Caught in a Mosh' from Among the Living (1987) — both showcase his open hi-hat thrash drive and syncopated kick patterns in clear, learnable contexts. 'I Am The Law' demonstrates his kick-guitar lock technique, while 'Indians' shows his mid-tempo range with iconic cowbell and tom patterns. For more technical depth, 'Got the Time' and 'In My World' from Persistence of Time (1990) demonstrate his dynamic control and polyrhythmic fill approach.
@@ -1310,7 +1312,7 @@ Garstka plays traditional grip with a relaxed, efficient technique informed by h
 A: Matt Garstka plays a DW Collector's Series (custom shop) kit, his setup since 2021. The Collector's Series gives Garstka a kit with excellent projection and tonal depth. He typically runs a 22" kick, three rack toms (8", 10", 12"), and two floor toms (14", 16") — a moderately sized configuration for a technically complex style.
 
 **Q: What cymbals does Matt Garstka use?**
-A: Matt Garstka plays Meinl Byzance cymbals throughout his setup. The Byzance Traditional series is his primary choice — dark, complex cymbals with interesting tonal decay and dry hi-hat response. His setup typically includes 14" Byzance Traditional Medium Hi-Hats, multiple crashes (18" and 20"), and a 22" Polyphonic Ride. The Byzance line's darker character reflects his jazz influence and contrasts with the brighter AAX/A Series setups common in metal.
+A: Matt Garstka plays Meinl Byzance cymbals throughout his setup. His setup includes 15" Byzance Dual Hi-Hats, 18" and 20" Byzance Extra Dry Medium Crashes, and a 22" Byzance Dual Ride — dark, complex cymbals with interesting tonal decay and dry hi-hat response. The Byzance line's darker character reflects his jazz influence and contrasts with the brighter AAX/A Series setups common in metal.
 
 **Q: What is Matt Garstka's signature drumming technique?**
 A: Garstka's defining technique is four-way limb independence — running each limb as a separate rhythmic voice that combines with the others to create polyrhythmic composite patterns. He also deploys metric modulation (shifting the felt tempo by recontextualizing subdivisions without changing BPM) and displaced hi-hat accent patterns informed by jazz ride cymbal technique. His Berklee training gives his playing a dynamic range and rhythmic sophistication rare in technical metal.
@@ -1328,7 +1330,7 @@ A: Developing genuine four-way limb independence takes months to years of daily 
 **Genre:** Heavy Metal / Hard Rock  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-mikkey-dee](https://metalforge.io/guides/how-to-sound-like-mikkey-dee)
 
-Master Mikkey Dee's powerful rock drumming style. Learn his floor tom fills, aggressive right-hand attack, the Sonor setup and Paiste 2002 cymbal choices that defined the final years of his Motörhead tenure (2012-2015), and now drive Scorpions.
+Master Mikkey Dee's powerful rock drumming style. Learn his floor tom fills, aggressive right-hand attack, the Sonor setup and Paiste Signature cymbal choices that defined the final years of his Motörhead tenure (2012-2015), and now drive Scorpions.
 
 ### Style Overview
 
@@ -1355,7 +1357,7 @@ Dee plays matched grip with a physical, arm-led technique that generates signifi
 
 - Drums: Sonor Sonor (Motörhead, 2012-2015 only — he played Tama from 1992-2012) / Sonor SQ2 custom-build (Scorpions era, current) (Custom SQ2 build shells)
 - Snare: Sonor Sonor Mikkey Dee Signature
-- Cymbals: Paiste Paiste 2002 Series (Motörhead era) / Paiste Signature (current)
+- Cymbals: Paiste Paiste Signature Series
 - Pedals: DW DW 5000 Series Double Pedal
 
 ### Frequently Asked Questions
@@ -1364,7 +1366,7 @@ Dee plays matched grip with a physical, arm-led technique that generates signifi
 A: Mikkey Dee joined Motörhead in 1992 playing Tama drums. His Sonor Drums relationship began in 2012 with his signature snare, and he currently plays Sonor's SQ2 custom-build series with Scorpions, with dual 22" bass drums and an emphasis on floor toms (14" and 16") in his configuration.
 
 **Q: What cymbals does Mikkey Dee use?**
-A: Mikkey Dee played Paiste 2002 cymbals throughout his Motörhead years — a series known for bright, loud, projecting character suited to hard rock volumes. His Motörhead setup typically included 15" 2002 Big Beat hi-hats, 2002 Medium and Heavy crashes, a 2002 China, and a 2002 Heavy Ride. He has also used Paiste Signature cymbals in later years with Scorpions.
+A: Mikkey Dee has played Paiste Signature Series cymbals since his Motörhead years — a series known for bright, loud, projecting character suited to hard rock volumes. His setup typically includes 14" Sound Edge hi-hats, 19" and 20" Power Crashes, an 18" Heavy China, and a 22" Power Ride. He continues to use Paiste Signature cymbals today with Scorpions.
 
 **Q: What is Mikkey Dee's signature drumming technique?**
 A: Dee's signature is powerful straight-ahead rock timing combined with floor tom-dominant fills and an aggressive right-hand ride attack. His playing prioritizes physical authority and precise rhythmic placement over technical complexity. His fill vocabulary emphasizes floor tom weight rather than tom cascades — one powerful floor tom hit delivered with conviction characterizes his approach more than multi-surface run fills.
@@ -1464,7 +1466,7 @@ Erlandsson uses matched grip with an upright posture and deliberate arm incorpor
 - Drums: Pearl Pearl Reference Pure (All-maple (6-ply) shells)
 - Snare: Pearl Daniel Erlandsson Signature 14" x 5.5"
 - Cymbals: Sabian Sabian AAX / HHX Series
-- Pedals: Pearl Pearl Demon Drive Double Pedal
+- Pedals: Pearl Pearl Eliminator Double Bass Pedal
 
 ### Frequently Asked Questions
 
@@ -1481,7 +1483,7 @@ A: Erlandsson's controlled blast beats come from strict metronome practice and a
 A: Yes — Daniel and Adrian Erlandsson are brothers. Both grew up in Malmö, Sweden, and both became prominent melodic death metal drummers in the Gothenburg scene. Adrian plays with At The Gates (and previously Cradle of Filth and The Haunted), while Daniel has been exclusively with Arch Enemy since the band's founding in 1995. The two brothers essentially defined the rhythmic approach of Gothenburg melodic death metal from its earliest days.
 
 **Q: What pedals does Daniel Erlandsson use?**
-A: Daniel Erlandsson uses Pearl Demon Drive double pedals — Pearl's direct-drive flagship. The direct-drive mechanism provides an immediate, linear response without the slight delay of chain-drive pedals, which is critical for Arch Enemy's tight blast beats and continuous 16th-note double-bass sections. His Demon Drive setup is paired with Pearl's matching hardware for consistent response across the full kit.
+A: Daniel Erlandsson uses a Pearl Eliminator Double Bass Pedal — Pearl's direct-drive flagship. The direct-drive mechanism provides an immediate, linear response without the slight delay of chain-drive pedals, which is critical for Arch Enemy's tight blast beats and continuous 16th-note double-bass sections. His Eliminator setup is paired with Pearl's matching hardware for consistent response across the full kit.
 
 ---
 
@@ -1744,7 +1746,7 @@ A: Scott Travis played Tama Iron Cobra double pedals through his Painkiller and 
 A: The key to Travis's Painkiller technique is precision before speed. Start at 140 BPM playing 16th-note double-bass with a metronome. Every note must be equal in volume, timing, and tone. Record yourself — most players have a dominant foot that's louder and more controlled; identify and train the weaker foot. Increase by 5 BPM per week, never before you can play evenly at the current tempo. At 170-180 BPM, begin endurance training: sustained patterns for 2+ minutes. Speed emerges from technique consistency, not from trying to go fast.
 
 **Q: What cymbals does Scott Travis use?**
-A: Scott Travis uses Paiste cymbals, drawing from the RUDE and 2002 series — an endorsement he's held continuously since 1987, before he even joined Judas Priest, and the one part of his rig that has never switched brands. His setup typically includes 14" hi-hats for fast, cutting hi-hat patterns; 18" and 19" crashes for explosive accent work; a 21" ride for groove-driven sections; and an 18" China for aggressive accent moments. Paiste's bright, articulate character suits speed metal's demanding frequency requirements.
+A: Scott Travis uses Paiste cymbals, drawing from the RUDE and 2002 series — an endorsement he's held continuously since 1987, before he even joined Judas Priest, and the one part of his rig that has never switched brands. His setup typically includes 14" hi-hats for fast, cutting hi-hat patterns; 18" and 19" crashes for explosive accent work; a 22" Power Ride for groove-driven sections; and an 18" China for aggressive accent moments. Paiste's bright, articulate character suits speed metal's demanding frequency requirements.
 
 **Q: What Judas Priest songs should I learn to play like Scott Travis?**
 A: Start with 'Night Crawler' from Painkiller (1990) — it demonstrates Travis's groove-oriented approach before tackling extreme speed. Then learn 'Painkiller' itself for the definitive speed metal double-bass challenge. For his evolved style, study 'Firepower' from the 2018 album of the same name — it shows his dynamic, mature approach 28 years into his Priest career. These three songs cover both ends of his stylistic range.
@@ -1780,15 +1782,15 @@ Inferno's technique is built on the principle that extreme speed must never comp
 
 ### Gear Setup
 
-- Drums: Pearl Pearl Masters Premium (Maple shells)
-- Snare: Pearl Pearl Masters Premium 14" x 6.5" Maple
+- Drums: Pearl Pearl Reference Series (Maple/Birch/Mahogany Hybrid shells)
+- Snare: Pearl Pearl Reference 14" x 5" Steel
 - Cymbals: Paiste Paiste RUDE Series
 - Pedals: Monolit Monolit Czarcie Kopyto Double Pedal
 
 ### Frequently Asked Questions
 
 **Q: What drum kit does Inferno use?**
-A: Inferno plays Pearl Masters Premium drums with a maple shell configuration. His setup typically features double 22" bass drums, two rack toms (10" and 12"), and two floor toms (16" and 18"). The Pearl Masters Premium maple shells provide the projection and attack needed for Behemoth's dense, layered sound at extreme tempos.
+A: Inferno plays Pearl Reference Series drums with a maple/birch/mahogany hybrid shell configuration. His setup typically features double 22" bass drums, two rack toms (10" and 12"), and two floor toms (16" and 18"). The Pearl Reference Series hybrid shells provide the projection and attack needed for Behemoth's dense, layered sound at extreme tempos.
 
 **Q: What cymbals does Inferno use?**
 A: Inferno uses Paiste RUDE Series cymbals — a series built thicker and louder than standard cymbals for maximum projection. His setup includes 14" RUDE Sound Edge hi-hats, 18" and 19" RUDE Crashes, a 24" RUDE Mega Power Ride, and an 18" RUDE China. The RUDE series is central to Behemoth's loud, cutting sonic character.
@@ -1934,20 +1936,20 @@ Hellhammer plays matched grip with a wrist-and-finger driven approach optimized 
 - *Freezing Moon* (De Mysteriis Dom Sathanas, 1994) — The definitive black metal blast and dynamic structure
 - *Funeral Fog* (De Mysteriis Dom Sathanas, 1994) — Relentless hyper-blast under tremolo guitars
 - *From the Dark Past* (De Mysteriis Dom Sathanas, 1994) — Blast-to-groove transitions and controlled fury
-- *Mourning Palace* (Enthrone Darkness Triumphant, 1997) — Symphonic black metal precision in his Dimmu Borgir era
-- *Spellbound (By the Devil)* (Enthrone Darkness Triumphant, 1997) — Tight blast work within orchestral arrangements
+- *The Sinister Awakening* (In Sorte Diaboli, 2007) — Symphonic black metal precision in his Dimmu Borgir era
+- *The Conspiracy Unfolds* (In Sorte Diaboli, 2007) — Tight blast work within orchestral arrangements
 
 ### Gear Setup
 
-- Drums: Sonor Sonor (custom black metal configuration) (Birch/Maple shells)
-- Snare: Sonor Steel Snare
-- Cymbals: Paiste Paiste 2002 / Rude
+- Drums: Sonor Sonor (custom black metal configuration) (Heavy Beech shells)
+- Snare: Sonor SQ2 Heavy Beech Snare
+- Cymbals: Paiste Paiste RUDE Series
 - Pedals: Axis Axis Longboard Double Pedal
 
 ### Frequently Asked Questions
 
 **Q: What albums did Hellhammer play on?**
-A: Hellhammer is best known for Mayhem's De Mysteriis Dom Sathanas (1994), the defining black metal album. He also drummed for Dimmu Borgir during the Enthrone Darkness Triumphant era and recorded with numerous other bands including Arcturus and Covenant/The Kovenant.
+A: Hellhammer is best known for Mayhem's De Mysteriis Dom Sathanas (1994), the defining black metal album. He also drummed for Dimmu Borgir in the studio starting with In Sorte Diaboli (2007) and recorded with numerous other bands including Arcturus and Covenant/The Kovenant.
 
 **Q: How does Hellhammer's blast beat differ from death metal blasts?**
 A: Hellhammer's blasts emphasize a bright, cymbal-riding texture and serve atmosphere rather than pure technical density. Black metal blasts are often faster single-stroke 'hyper-blasts' locked to tremolo guitars, whereas death metal blasts tend to be heavier and groove-anchored. Hellhammer's evenness and clarity are his defining traits.
@@ -1956,10 +1958,10 @@ A: Hellhammer's blasts emphasize a bright, cymbal-riding texture and serve atmos
 A: Hellhammer favored fast, responsive double pedals such as Axis longboards to sustain extreme single-stroke double bass with minimal fatigue. The light, direct action suits the sustained speed black metal demands.
 
 **Q: How do I get the De Mysteriis Dom Sathanas drum sound?**
-A: Tune the kick for click and attack with heavy muffling, crank a steel snare high for a bright crack, and keep toms tuned high for fast rebound. The raw, cutting tone comes from prioritizing attack and clarity over warmth so every note reads through dense tremolo guitars.
+A: Tune the kick for click and attack with heavy muffling, crank a maple snare medium-bright for a warm-but-cutting crack, and keep toms tuned high for fast rebound. The raw, cutting tone comes from prioritizing attack and clarity over warmth so every note reads through dense tremolo guitars.
 
 **Q: Which Hellhammer songs should I study first?**
-A: Start with 'Freezing Moon' for the definitive blast and dynamic structure, then 'Funeral Fog' for sustained hyper-blast technique. For his Dimmu Borgir era, study 'Mourning Palace' to hear his precision within orchestral arrangements.
+A: Start with 'Freezing Moon' for the definitive blast and dynamic structure, then 'Funeral Fog' for sustained hyper-blast technique. For his Dimmu Borgir era, study 'The Sinister Awakening' to hear his precision within orchestral arrangements.
 
 ---
 
@@ -2045,7 +2047,7 @@ Christy plays matched grip with a powerful, fluid technique built on years of pr
 
 ### Gear Setup
 
-- Drums: Pearl Pearl Masters Series (Maple shells)
+- Drums: Pearl Pearl Masters Custom (Maple shells)
 - Snare: Pearl Maple Snare
 - Cymbals: Sabian Sabian AA / AAX Series
 - Pedals: Axis A Longboard Double Pedal
@@ -2098,10 +2100,10 @@ Koller plays matched grip with heavy, direct strokes. His blast beats are fast a
 
 ### Gear Setup
 
-- Drums: Tama Tama Starclassic Maple (Maple shells)
+- Drums: Tama Tama Starclassic Performer B/B (Maple shells)
 - Snare: Tama Tama S.L.P. Brass Snare
-- Cymbals: Zildjian Zildjian K Dark Series
-- Pedals: Tama Tama Iron Cobra 900 Double Pedal
+- Cymbals: Zildjian Zildjian K Custom & A Custom Series
+- Pedals: Tama Tama Iron Cobra Double Pedal
 
 ### Frequently Asked Questions
 
@@ -2109,7 +2111,7 @@ Koller plays matched grip with heavy, direct strokes. His blast beats are fast a
 A: Koller combines the raw physicality of hardcore punk with extreme metal precision. His blast beats are explosive and relentless, yet always locked tightly to Converge's complex, dissonant guitar work. He navigates odd time signatures naturally, delivers extreme dynamic contrasts within single songs, and hits with consistent power across brutal live sets.
 
 **Q: What drums and cymbals does Ben Koller use?**
-A: Koller plays Tama Starclassic Maple drums with a compact setup suited to Converge's intense performances. He uses a brass snare for sharp, cutting crack and dark, trashy Zildjian K Dark cymbals that respond quickly to his explosive attack. He favors heavier sticks for maximum impact.
+A: Koller plays Tama Starclassic Performer B/B drums with a compact setup suited to Converge's intense performances. He uses a brass snare for sharp, cutting crack and responsive Zildjian K Custom & A Custom cymbals that respond quickly to his explosive attack. He favors heavier sticks for maximum impact.
 
 **Q: How do I get the Converge drum sound?**
 A: Tune the kick for a clicky, defined attack with heavy muffling, use a brass snare tuned for a sharp crack, and keep cymbals dark and fast-decaying. Most importantly, lock every pattern to the guitar riff and build the dynamic contrast between brutal blasting and near-silence — that contrast is the Converge sound.
@@ -2180,7 +2182,7 @@ A: Vulgar Display of Power (1992) is the masterwork — Walk, Mouth for War, and
 **Genre:** Progressive Metal / Technical Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-blake-richardson](https://metalforge.io/guides/how-to-sound-like-blake-richardson)
 
-Master Blake Richardson's progressive metal drumming. Learn his hybrid blast and odd-time technique, BTBAM's polyrhythmic approach, DW setup, and the practice system behind one of prog metal's most innovative drummers.
+Master Blake Richardson's progressive metal drumming. Learn his hybrid blast and odd-time technique, BTBAM's polyrhythmic approach, Tama/Sabian setup, and the practice system behind one of prog metal's most innovative drummers.
 
 ### Style Overview
 
@@ -2205,7 +2207,7 @@ Richardson plays matched grip with excellent control across extreme dynamics. Hi
 ### Gear Setup
 
 - Drums: Tama Starclassic Bubinga (Bubinga shells)
-- Snare: Tama Starclassic Bubinga Snare
+- Snare: Tama STARPHONIC 14"x6" Brass
 - Cymbals: Sabian Sabian HHX Evolution / AAX / HH
 - Pedals: Tama Twin Iron Cobra Power Glide
 
@@ -2374,7 +2376,7 @@ Frost plays heel-up on both feet for all bass drum work, delivering sustained bl
 A: Frost's defining trait is treating the blast beat as a shapeable musical event rather than a uniform wall of velocity. He builds dynamic arcs within sustained blast sections, shifts between hi-hat and ride voicing for tonal variation, and layers in tremolo-rhythm patterns that mirror Satyricon's guitar work — all while playing heel-up double kick at 200+ BPM for extended stretches.
 
 **Q: What kit does Frost from Satyricon use?**
-A: Frost plays a Tama Starclassic Bubinga kit, a setup he's used since 2013, with bubinga shell construction for immediate attack and focused mid-range projection. His setup centers on a double 22" x 18" bass drum configuration, a 14" x 6.5" Tama Starclassic Bubinga snare, and Zildjian A series cymbals including 14" New Beat hi-hats and an 18" China Boy.
+A: Frost plays a Tama Starclassic Bubinga kit, a setup he's used since 2013, with bubinga shell construction for immediate attack and focused mid-range projection. His setup centers on a double 22" x 18" bass drum configuration, a 14" x 5.5" Tama Starclassic Bubinga snare, and Zildjian A series cymbals including 14" New Beat hi-hats and an 18" China Boy.
 
 **Q: How do I get Frost's black metal drum sound?**
 A: Start with bubinga or maple shells tuned for articulate attack rather than warmth, a medium-bright snare with minimal muffling, and Zildjian A series cymbals for fast decay and cutting clarity. Keep the kick firm with light internal dampening so double-kick strokes stay distinct at extreme tempos, and if playing live, consider acoustic bass drum triggers for consistency across venues.
@@ -2392,7 +2394,7 @@ A: Yes. Frost also drums for 1349, one of Norway's most extreme and relentless b
 **Genre:** Progressive Rock / Jazz Fusion / Progressive Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-morgan-agren](https://metalforge.io/guides/how-to-sound-like-morgan-agren)
 
-Master Morgan Ågren's four-over-three polyrhythms and extreme dynamic range. Learn the technique behind Frank Zappa's touring drummer and Devin Townsend Project's rhythmic architect, plus his Sonor kit and Paiste Signature cymbal setup.
+Master Morgan Ågren's four-over-three polyrhythms and extreme dynamic range. Learn the technique behind the drummer Frank Zappa invited on stage for a one-off Stockholm guest appearance and Devin Townsend Project's rhythmic architect, plus his Sonor kit and Paiste Signature cymbal setup.
 
 ### Style Overview
 
@@ -2416,14 +2418,14 @@ Master Morgan Ågren's four-over-three polyrhythms and extreme dynamic range. Le
 ### Gear Setup
 
 - Drums: Sonor Sonor SQ2 Beech (Beech shells)
-- Snare: Sonor Sonor Designer Snare
+- Snare: Sonor Sonor Designer Maple
 - Cymbals: Paiste Paiste Signature & 2002 Series
 - Pedals: Sonor Sonor Giant Step Double Pedal
 
 ### Frequently Asked Questions
 
 **Q: What kit does Morgan Ågren use?**
-A: Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier fully customizable shell pack built in Germany to individual specification. His configuration typically runs 10" and 12" rack toms, 14" and 16" floor toms, and a single 22" bass drum, paired with a Sonor Designer snare in either 14"x5" or 14"x6" depending on the musical context.
+A: Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier fully customizable shell pack built in Germany to individual specification. His configuration typically runs 10" and 12" rack toms, 14" and 16" floor toms, and a single 22" bass drum, paired with a Sonor Designer 14"x5.5" Maple snare.
 
 **Q: How do I develop Morgan Ågren's polyrhythm independence?**
 A: Start with his four-over-three foundation: hands playing four evenly spaced strokes while feet play three, looped slowly with a metronome until neither limb drifts toward the other's pulse. Only add melodic tom variation once the base polyrhythm is completely stable — Ågren improvises over the structure, he doesn't replace it.
@@ -2435,7 +2437,7 @@ A: Ågren's cymbals are Paiste Signature and 2002 Series — 14" Signature Heavy
 A: Before tackling four-over-three polyrhythms, build the dynamic range that underlies everything he plays: a smooth, controlled crescendo from near-inaudible ghost notes to full-force rimshots within a single phrase. Without that range, even a technically accurate polyrhythm will sound mechanical rather than musical.
 
 **Q: Why was Morgan Ågren chosen by Frank Zappa?**
-A: Zappa personally selected Ågren to tour in 1988 when Ågren was just 20 — Zappa was known for rigorously auditioning musicians and valued dramatic dynamic contrast in his arrangements, which matched exactly what Ågren's jazz-fusion-rooted technique offered. That endorsement remains one of the most credible musicianship validations in progressive music.
+A: Zappa personally selected Ågren to sit in with his band for one Stockholm concert in 1988 when Ågren was just 20 — Zappa was known for rigorously auditioning musicians and valued dramatic dynamic contrast in his arrangements, which matched exactly what Ågren's jazz-fusion-rooted technique offered. That endorsement remains one of the most credible musicianship validations in progressive music.
 
 ---
 
@@ -2461,9 +2463,8 @@ Yeung's approach differs from power-based blasters in a fundamental way: he gene
 ### Key Songs to Study
 
 - *Too Extreme!* (Illud Divinum Insanus (Morbid Angel), 2011) — Debut Morbid Angel blast beat showcase
-- *Kingdoms Disdained* (Kingdoms Disdained (Morbid Angel), 2017) — Most complete Morbid Angel performance, balancing speed with groove
-- *I, Monarch* (I, Monarch (Hate Eternal), 2005) — Technical death metal blast beat intensity under Erik Rutan
-- *Fury & Flames* (Fury & Flames (Hate Eternal), 2008) — Cited by drummers studying extreme blast beat technique
+- *Conquering the Throne* (Conquering the Throne (Hate Eternal), 1999) — Technical death metal blast beat intensity on Yeung's actual Hate Eternal recording, under Erik Rutan
+- *Bleed the Fifth* (Bleed the Fifth (Divine Heresy), 2007) — Cited by drummers studying extreme blast beat technique
 
 ### Gear Setup
 
@@ -2474,8 +2475,8 @@ Yeung's approach differs from power-based blasters in a fundamental way: he gene
 
 ### Frequently Asked Questions
 
-**Q: Who is the current Morbid Angel drummer?**
-A: Tim Yeung has drummed for Morbid Angel since the lead-up to Illud Divinum Insanus (2011) and remains the band's drummer through Kingdoms Disdained (2017) and beyond, maintaining the legacy of one of death metal's founding bands.
+**Q: When did Tim Yeung play for Morbid Angel?**
+A: Tim Yeung drummed for Morbid Angel from 2010 to 2015, stepping in after Pete Sandoval's back surgery and recording all drums on Illud Divinum Insanus (2011). Scott Fuller recorded Kingdoms Disdained (2017) after Yeung's departure; Morbid Angel's current drummer is Charlie Koryn, who joined in 2023.
 
 **Q: How fast does Tim Yeung play?**
 A: Yeung's blast beats are documented in the 200-280 BPM range, among the fastest in death metal. That speed is built on relaxed, rebound-efficient technique rather than muscular power striking — at tempos above 250 BPM, the body's muscular system can't sustain tension-based striking across a full set, so rebound efficiency becomes the only sustainable approach.
@@ -2519,7 +2520,7 @@ Ward's groove comes from placement and feel rather than power or speed. He plays
 
 ### Gear Setup
 
-- Drums: Ludwig Ludwig Super Classic (later Ludwig Classic Maple) (Maple shells)
+- Drums: Ludwig Ludwig Standard / Club Date Series (Maple shells)
 - Snare: Ludwig Ludwig Supraphonic LM402
 - Cymbals: Zildjian Zildjian Avedis Series
 - Pedals: Ludwig Ludwig Speed King
@@ -2530,7 +2531,7 @@ Ward's groove comes from placement and feel rather than power or speed. He plays
 A: Bill Ward co-founded Black Sabbath in 1968 and is widely credited as one of the true originators of heavy metal drumming. His jazz-influenced swing-and-power approach on albums like "Black Sabbath" (1970) and "Paranoid" (1970) created the genre's foundational rhythmic vocabulary — the template that generations of metal drummers, including later thrash and doom pioneers, built upon.
 
 **Q: What gear should I use to sound like Bill Ward?**
-A: Ward played a Ludwig Super Classic (later Ludwig Classic Maple) kit with a Ludwig Supraphonic 14" x 6.5" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. A budget setup can approximate this with any maple-shell kit, an aluminum-shell snare tuned loose and low, and warm, dark crash cymbals.
+A: Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14" x 6.5" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. A budget setup can approximate this with any maple-shell kit, an aluminum-shell snare tuned loose and low, and warm, dark crash cymbals.
 
 **Q: What tempo should I practice at to sound like Bill Ward?**
 A: Practice in the 70-110 BPM range that defines Black Sabbath's classic doom tempos. Start slow — the behind-the-beat drag that defines Ward's feel is much easier to hear and control at 70-80 BPM before trying to apply it at faster tempos.
@@ -2573,7 +2574,7 @@ Lopez's technique is built around seamless transitions between extreme metal bru
 
 - Drums: Sonor Sonor Designer Series (Maple shells)
 - Cymbals: Sabian Sabian HH / AAX
-- Pedals: Axis Axis Percussion Double Pedal
+- Pedals: Not independently verified No pedal brand confirmed for the 1997-2006 Opeth era
 
 ### Frequently Asked Questions
 
@@ -2778,7 +2779,7 @@ Cruz's playing combines Lamb of God's established groove-metal foundation with a
 
 ### Gear Setup
 
-- Drums: Ludwig Ludwig Drums (Classic Maple/Oak) (Maple/Oak shells)
+- Drums: Ludwig Ludwig Kit (Maple/Oak shells)
 - Snare: Ludwig Ludwig 14" x 6.5" Black Beauty
 - Cymbals: Zildjian Zildjian A Custom Series
 - Pedals: Trick Trick Pro 1-V Double Pedal
@@ -2833,7 +2834,7 @@ Bent plays matched grip with a clean, controlled stroke honed in technical death
 - Drums: TAMA TAMA Starclassic Maple (Maple shells)
 - Snare: TAMA TAMA Starclassic Maple 14" x 6.5"
 - Cymbals: Zildjian Zildjian K Custom Hybrid
-- Pedals: Axis Percussion Axis Percussion Double Pedal
+- Pedals: Axis Percussion Axis A Longboard Double Pedal
 
 ### Frequently Asked Questions
 
@@ -2841,7 +2842,7 @@ Bent plays matched grip with a clean, controlled stroke honed in technical death
 A: Alex Bent was Trivium's drummer from 2017 to 2025, recording four studio albums: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), "In the Court of the Dragon" (2021), and "Struck Dead" (2025).
 
 **Q: What gear does Alex Bent use?**
-A: Bent plays a TAMA Starclassic Maple kit with a 14" x 6.5" maple snare, Zildjian K Custom Hybrid cymbals, an Axis Percussion double pedal, and Vic Firth 5B sticks.
+A: Bent plays a TAMA Starclassic Maple kit with a 14" x 6.5" maple snare, Zildjian K Custom Hybrid cymbals, an Axis A Longboard double pedal (endorsed since 2021; his earlier 2017-2021 Trivium years predate this deal), and Vic Firth 5B sticks.
 
 **Q: What was Alex Bent's background before Trivium?**
 A: Bent built his reputation in technical death metal with Brain Drill, Arkaik, and Battlecross, and filled in for Gene Hoglan on Testament tour dates. Producer Mark Lewis recommended him to Trivium in 2017.
@@ -3059,7 +3060,7 @@ A: Tune the kick for punchy, defined attack, keep the snare high-tension with mi
 A: Adrian Erlandsson co-founded At the Gates (1990-present), founded The Haunted (1996-1999, rejoined 2013-present), played in Cradle of Filth (1999-2006), and drummed for Paradise Lost (2009-2016) — often juggling multiple active bands at once. He is the brother of Arch Enemy's Daniel Erlandsson.
 
 **Q: Is Adrian Erlandsson related to Daniel Erlandsson?**
-A: Yes — Adrian and Daniel Erlandsson are brothers, both prominent drummers from the same Gothenburg, Sweden melodic death metal scene. Adrian plays with At the Gates (and previously The Haunted and Cradle of Filth), while Daniel has been Arch Enemy's drummer since 2005. The two brothers independently shaped Gothenburg's rhythmic vocabulary from different angles — Adrian's D-beat foundation, Daniel's blast-beat precision.
+A: Yes — Adrian and Daniel Erlandsson are brothers, both prominent drummers from the same Gothenburg, Sweden melodic death metal scene. Adrian plays with At the Gates (and previously The Haunted and Cradle of Filth), while Daniel has been Arch Enemy's founding drummer since 1995. The two brothers independently shaped Gothenburg's rhythmic vocabulary from different angles — Adrian's D-beat foundation, Daniel's blast-beat precision.
 
 ---
 
@@ -3099,7 +3100,7 @@ Koperweis's defining skill is treating the kick drum as a compositional instrume
 ### Frequently Asked Questions
 
 **Q: What style does Navene Koperweis play?**
-A: Koperweis plays at the intersection of djent, progressive metal, and technical death metal — riff-locked double bass developed during his 2010–2012 Animals as Leaders tenure, layered polyrhythmic precision, and a wide dynamic range refined across his own band Entheos, which he founded in 2015.
+A: Koperweis plays at the intersection of djent, progressive metal, and technical death metal — riff-locked double bass developed during his 2009-2012 Animals as Leaders tenure, layered polyrhythmic precision, and a wide dynamic range refined across his own band Entheos, which he founded in 2015.
 
 **Q: What drum kit does Navene Koperweis play?**
 A: Koperweis currently plays a DW Performance Series kit with a double 22" x 18" bass drum configuration and a DW Performance 14" x 6.5" steel snare. His cymbals are Meinl Byzance — 15" Dual Hi-Hats, 18" and 19" Extra Dry crashes, a 21" Transition Ride, and an 18" Extra Dry China. He uses a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks.
@@ -3190,7 +3191,7 @@ Bittner's technique is built on dynamic control across two distinct vocabularies
 
 ### Gear Setup
 
-- Drums: Mapex Mapex Saturn V (Maple/Walnut hybrid shells)
+- Drums: Mapex Mapex Saturn V (All-maple shells)
 - Snare: Mapex Mapex Black Panther Brass 14" x 6.5"
 - Cymbals: Zildjian Zildjian K and A Custom Series
 - Pedals: Mapex Mapex Falcon Double Pedal
@@ -3198,13 +3199,13 @@ Bittner's technique is built on dynamic control across two distinct vocabularies
 ### Frequently Asked Questions
 
 **Q: What drum kit does Jason Bittner play?**
-A: Jason Bittner plays a Mapex Saturn V kit with maple/walnut hybrid shells, a double 22" x 18" bass drum configuration, and a 14" x 6.5" Mapex Black Panther Brass snare. His cymbals are Zildjian K and A Custom series, and he uses a Mapex Falcon Double Pedal.
+A: Jason Bittner plays a Mapex Saturn V kit with all-maple shells, a double 22" x 18" bass drum configuration, and a 14" x 6.5" Mapex Black Panther Brass snare. His cymbals are Zildjian K and A Custom series, and he uses a Mapex Falcon Double Pedal.
 
 **Q: How does Jason Bittner combine NWOAHM groove with thrash drumming?**
 A: Bittner shifts between two vocabularies depending on the band: in Shadows Fall, he plays syncopated double-bass patterns with dynamic cymbal shaping that leaves room for melodic guitar lines; in Overkill, he plays sustained, even-stroke double bass at high velocity to drive straight thrash riffs. Both rely on the same technical foundation of precise kick-to-riff locking.
 
 **Q: What bands has Jason Bittner played in?**
-A: Jason Bittner has drummed for Shadows Fall since 1997, helping define the New Wave of American Heavy Metal sound across albums like The Art of Balance and The War Within. He also played in Flotsam and Jetsam (2013-2017) before joining thrash legends Overkill full-time in 2017, where he remains the band's drummer today.
+A: Jason Bittner has drummed for Shadows Fall since 2001, helping define the New Wave of American Heavy Metal sound across albums like The Art of Balance and The War Within. He also played in Flotsam and Jetsam (2013-2017) before joining thrash legends Overkill full-time in 2017, where he remains the band's drummer today.
 
 **Q: Is Jason Bittner's style good for beginners?**
 A: Bittner's sustained double-bass endurance work and dynamic-shaping drills are approachable for intermediate players, while his syncopated NWOAHM riff-lock patterns and thrash-velocity double bass are advanced techniques worth building toward gradually.
@@ -3240,17 +3241,17 @@ Cunningham's technique centers on unconventional snare and accent placement comb
 ### Gear Setup
 
 - Drums: Tama Tama Starclassic Maple/Bubinga (Maple/Bubinga hybrid shells)
-- Snare: Tama Tama S.L.P. Big Black Steel
+- Snare: Tama Tama Starclassic (matching shell pack; no separate model documented)
 - Cymbals: Zildjian Zildjian A Custom / K Custom Hybrid
-- Pedals: Tama Tama Iron Cobra 900 Rolling Glide
+- Pedals: Tama Tama Iron Cobra Power Glide Twin Pedal (HP900PTW)
 
 ### Frequently Asked Questions
 
 **Q: Who is Abe Cunningham and why is his drumming influential?**
-A: Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across nine studio albums, from "Adrenaline" (1995) through "Ohms" (2020). His dynamic, restraint-focused approach — prioritizing taste and emotional arc over technical showmanship — helped define alternative metal's atmospheric identity. "Elite" from White Pony won a Grammy for Best Metal Performance in 2001.
+A: Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across ten studio albums, from "Adrenaline" (1995) through "Private Music" (2025). His dynamic, restraint-focused approach — prioritizing taste and emotional arc over technical showmanship — helped define alternative metal's atmospheric identity. "Elite" from White Pony won a Grammy for Best Metal Performance in 2001.
 
 **Q: What gear should I use to sound like Abe Cunningham?**
-A: Cunningham plays a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14" x 8" snare, a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra 900 Rolling Glide pedal, and Zildjian Abe Cunningham Artist Series signature sticks. A budget setup can approximate this with any warm-sounding kit, a deep steel or maple snare, and a mix of bright and dark cymbals.
+A: Cunningham plays a Tama Starclassic Maple/Bubinga kit with a matching Tama Starclassic snare (no separate model documented), a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra Power Glide Twin Pedal, and Zildjian Abe Cunningham Artist Series signature sticks. A budget setup can approximate this with any warm-sounding kit, a deep steel or maple snare, and a mix of bright and dark cymbals.
 
 **Q: What tempo should I practice at to sound like Abe Cunningham?**
 A: Practice in the 60-120 BPM range that covers most of Deftones' catalog, from ambient, texture-focused passages around 60-90 BPM up to driving grooves near 120 BPM. The key isn't raw speed — it's building the dynamic control to move between whisper-quiet and full-weight intensity within a single song.
@@ -3259,7 +3260,7 @@ A: Practice in the 60-120 BPM range that covers most of Deftones' catalog, from 
 A: Three techniques define Cunningham's style: gradual whisper-to-explosion dynamic builds across a song; unconventional snare placement that creates tension and release instead of a standard backbeat; and ambient, texture-focused playing that treats the kit as mood rather than pure rhythm.
 
 **Q: What Deftones albums showcase Abe Cunningham's playing best?**
-A: "White Pony" (2000) is the definitive showcase, featuring the Grammy-winning "Elite" and the dynamic-build masterclass "Digital Bath." "Around the Fur" (1997) shows his early unconventional snare placement, while "Diamond Eyes" (2010) and "Ohms" (2020) demonstrate how his restraint-focused approach matured across three decades.
+A: "White Pony" (2000) is the definitive showcase, featuring the Grammy-winning "Elite" and the dynamic-build masterclass "Digital Bath." "Around the Fur" (1997) shows his early unconventional snare placement, while "Diamond Eyes" (2010) and "Private Music" (2025) demonstrate how his restraint-focused approach matured across three decades.
 
 ---
 
@@ -3449,8 +3450,8 @@ Talley's technique centers on separating his hands and feet rhythmically — his
 
 ### Gear Setup
 
-- Drums: Pearl Pearl Masters Premium Legend (Maple shells)
-- Snare: Pearl Pearl Masters Maple
+- Drums: Pearl Pearl Masters Custom / Reference Series (Maple shells)
+- Snare: Pearl Pearl Steel
 - Cymbals: Sabian Sabian AAX Series
 - Pedals: Pearl Pearl Eliminator Double Pedal
 
@@ -3460,7 +3461,7 @@ Talley's technique centers on separating his hands and feet rhythmically — his
 A: Talley layered a polyrhythmic, triplet-grouped kick pattern under a straight 16th-note snare pulse, giving his blasts a rhythmic complexity and groove that most straight-16th blast beats lack. This technique, showcased on Dying Fetus's Destroy the Opposition, became a reference point for technical brutal death metal drumming.
 
 **Q: What gear does Kevin Talley use?**
-A: Talley plays a Pearl Masters Premium Legend kit with all-maple shells, a 14" x 5.5" Pearl Masters Maple snare, Sabian AAX cymbals, a Pearl Eliminator double pedal, and Vic Firth American Classic 5B sticks — a setup built for fast attack and articulation at extreme tempo.
+A: Talley plays a Pearl Masters Custom / Reference Series kit with maple shells, a 14" x 6.5" Pearl steel snare, Sabian AAX cymbals, a Pearl Eliminator double pedal, and Vic Firth American Classic 5B sticks — a setup built for fast attack and articulation at extreme tempo.
 
 **Q: How fast are Kevin Talley's blast beats?**
 A: Talley's blast beats regularly exceed 200 BPM, with some passages pushing past 240 BPM, sustained across full songs rather than short bursts — a combination of raw speed and endurance.
@@ -3478,13 +3479,13 @@ A: Yes. Focus on tight, dry tuning with heavy muffling for a short, punchy attac
 **Genre:** Metalcore / Beatdown Hardcore  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-isaac-lamb](https://metalforge.io/guides/how-to-sound-like-isaac-lamb)
 
-Master Isaac Lamb's beatdown hardcore groove and devastating breakdown timing from Kublai Khan TX. Learn his power-through-restraint technique and SJC/Meinl endorsements.
+Master Isaac Lamb's beatdown hardcore groove and devastating breakdown timing from Kublai Khan TX. Learn his power-through-restraint technique.
 
 ### Style Overview
 
 Lamb's technique is built on compositional patience: locking kick and snare to the riff during verses and choruses, deliberately leaving space, and then delivering breakdowns with full physical commitment from the very first hit. His blast beats stay in the same metric pocket as his grooves rather than pushing ahead of the beat for excitement.
 
-**Grip:** Matched Grip (power-focused) — Lamb plays a firm matched grip built for maximum impact on breakdown strokes, favoring Vic Firth's heavier 2B stick profile over lighter options to add mass to every hit without sacrificing control on faster groove and blast passages.
+**Grip:** Matched Grip (power-focused) — Lamb plays a firm matched grip built for maximum impact on breakdown strokes, favoring a heavier stick profile over lighter options to add mass to every hit without sacrificing control on faster groove and blast passages.
 
 ### Signature Patterns
 
@@ -3500,9 +3501,9 @@ Lamb's technique is built on compositional patience: locking kick and snare to t
 
 ### Gear Setup
 
-- Drums: SJC SJC (specific series not publicly documented) (Not publicly documented shells)
-- Snare: SJC Not publicly documented
-- Cymbals: Meinl Meinl (specific series not publicly documented)
+- Drums: Not publicly documented Not publicly documented (Not publicly documented shells)
+- Snare: Not publicly documented Not publicly documented
+- Cymbals: Not publicly documented Not publicly documented
 
 ### Frequently Asked Questions
 
@@ -3510,7 +3511,7 @@ Lamb's technique is built on compositional patience: locking kick and snare to t
 A: It means deliberately underplaying verses and choruses — locking a simple, disciplined groove — so that when the breakdown arrives, it registers as a genuine event rather than just a slower, heavier section. The restraint isn't about playing quietly; it's about preserving contrast so the heavy parts hit harder.
 
 **Q: What gear does Isaac Lamb use?**
-A: Lamb endorses SJC Custom Drums, Meinl Cymbals, and Vic Firth sticks, but his specific kit, cymbal, and stick models aren't publicly documented — no official artist page or gear-focused interview naming the exact equipment has been found.
+A: No gear endorsement of any kind is publicly documented for Lamb — no official artist page or gear-focused interview naming his equipment has been found.
 
 **Q: How do I make my breakdowns hit as hard as Isaac Lamb's?**
 A: End the preceding section on a clean, decisive final stroke, then commit fully to the breakdown's first note at full force with no ramp-up. The preparation in the verse and chorus — deliberate restraint — is what makes the breakdown land; the entry itself needs full physical commitment from the very first hit.
@@ -3562,7 +3563,7 @@ Axenrot's technique spans two registers: the twin-kick, high-intensity attack he
 A: Axenrot plays a custom hand-made DW kit with maple/gum shells (twin 22"x18" bass drums), SABIAN HHX/AAX cymbals per SABIAN's own artist page, Pro-Mark sticks, and Evans heads — per Wikipedia's sourced equipment listing. His hardware setup has not been independently verified.
 
 **Q: How did Martin Axenrot join Opeth?**
-A: Axenrot replaced Martin Lopez mid-tour in 2006 during Opeth's Ghost Reveries cycle after Lopez departed due to health issues. He made his studio debut with the band on Watershed (2008) and has remained Opeth's drummer ever since.
+A: Axenrot replaced Martin Lopez mid-tour in 2006 during Opeth's Ghost Reveries cycle after Lopez departed due to health issues. He made his studio debut with the band on Watershed (2008) and remained Opeth's drummer until his 2021 departure.
 
 **Q: What other bands has Martin Axenrot played in?**
 A: Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath since 2008 and played in Witchery from 1997 to 2010. His extreme metal background across Bloodbath and Witchery shapes the heavier attack he brought to Opeth's drum chair.
@@ -3701,7 +3702,6 @@ Rüdinger's reputation rests on technical precision applied across an unusually 
 - *Cause For Concern* (Solo Drum Playthrough, 2013) — Early standalone playthrough that established the odd-meter precision behind his session reputation
 - *Cubensis* (Intronaut (session drums), 2020) — Technical session work applying high-density linear fills within Intronaut's prog-sludge structures
 - *Kin* (Whitechapel, 2021) — Studio session credit bringing technical precision to Whitechapel's melodic deathcore sound
-- *Catastrophist* (Trivium (touring/session), 2026) — His highest-profile gig to date, applying modern thrash precision at Trivium's scale and tempo
 
 ### Gear Setup
 

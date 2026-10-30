@@ -67,4 +67,4 @@ A: After his 1996-97 Slayer touring stint, Jon Dette returned to Testament for a
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

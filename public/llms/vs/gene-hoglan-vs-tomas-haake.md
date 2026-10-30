@@ -67,4 +67,4 @@ A: The gravity blast is a blast beat variation Gene Hoglan pioneered that uses t
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

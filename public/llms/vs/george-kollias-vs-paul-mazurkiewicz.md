@@ -34,7 +34,7 @@ Kollias uses heel-toe bass drum technique to sustain extreme tempos with mechani
 
 ## Speed
 
-Kollias is routinely cited among the fastest drummers in death metal, sustaining blast beats past 280 BPM across full Nile sets using a heel-toe double bass technique refined through years of instructional teaching. Mazurkiewicz prioritizes a different kind of speed — punishing but controlled mid-tempo grooves punctuated by shorter blast passages — favoring consistency and riff-serving impact over maximum velocity, which is why Cannibal Corpse's brutality reads as crushing rather than blistering.
+Kollias is routinely cited among the fastest drummers in death metal, sustaining blast beats past 240 BPM across full Nile sets using a heel-toe double bass technique refined through years of instructional teaching. Mazurkiewicz prioritizes a different kind of speed — punishing but controlled mid-tempo grooves punctuated by shorter blast passages — favoring consistency and riff-serving impact over maximum velocity, which is why Cannibal Corpse's brutality reads as crushing rather than blistering.
 
 ## Kit
 
@@ -50,12 +50,12 @@ Kollias raised the technical ceiling for death metal drumming worldwide — his 
 
 ## Verdict
 
-George Kollias and Paul Mazurkiewicz represent death metal drumming's two defining philosophies. Kollias is the speed king — Nile's technical, blast-beat-driven Egyptian death metal demands sustained tempos past 280 BPM, and Kollias delivers them with heel-toe precision that has made him a benchmark for extreme metal drummers everywhere. Mazurkiewicz is the consistency king — Cannibal Corpse's crushing, mid-tempo-focused brutality has never wavered across 16 studio albums and 35-plus years, anchored by a drummer who serves the riff over raw velocity. Both endorse Pearl drums, but their answers to "how fast should death metal be?" could not be more different.
+George Kollias and Paul Mazurkiewicz represent death metal drumming's two defining philosophies. Kollias is the speed king — Nile's technical, blast-beat-driven Egyptian death metal demands sustained tempos past 240 BPM, and Kollias delivers them with heel-toe precision that has made him a benchmark for extreme metal drummers everywhere. Mazurkiewicz is the consistency king — Cannibal Corpse's crushing, mid-tempo-focused brutality has never wavered across 16 studio albums and 35-plus years, anchored by a drummer who serves the riff over raw velocity. Both endorse Pearl drums, but their answers to "how fast should death metal be?" could not be more different.
 
 ## FAQ
 
 **Q: Who is faster, George Kollias or Paul Mazurkiewicz?**
-A: George Kollias is widely regarded as the faster drummer, sustaining blast beats past 280 BPM across full Nile sets using heel-toe double bass technique. Paul Mazurkiewicz favors punishing mid-tempo grooves and shorter blast passages over maximum velocity, prioritizing consistency and riff-serving impact — Cannibal Corpse's brutality is crushing rather than blistering.
+A: George Kollias is widely regarded as the faster drummer, sustaining blast beats past 240 BPM across full Nile sets using heel-toe double bass technique. Paul Mazurkiewicz favors punishing mid-tempo grooves and shorter blast passages over maximum velocity, prioritizing consistency and riff-serving impact — Cannibal Corpse's brutality is crushing rather than blistering.
 
 **Q: What gear do George Kollias and Paul Mazurkiewicz use?**
 A: George Kollias plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature snare and Zildjian cymbals, driven by the Pearl Demon XR Pedals he co-designed. Paul Mazurkiewicz plays a Pearl Reference kit with a Pearl Free-Floating steel snare and Meinl Classics Custom / Byzance Series cymbals, also using a Pearl Eliminator Double Bass Pedal. Both drummers endorse Pearl.
@@ -78,4 +78,4 @@ A: Nile is generally considered more technically complex, built around Egyptian-
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

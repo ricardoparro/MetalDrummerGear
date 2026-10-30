@@ -95,7 +95,7 @@ A: Charlie Benante used a Tama Artstar kit on Spreading the Disease (1985). The 
 
 **Q: What was the first Anthrax album with Charlie Benante?**
 
-A: Charlie Benante has been a founding member of Anthrax since 1983 and played on every studio album. Fistful of Metal (1984) was his first recording, but Spreading the Disease (1985) is the first Anthrax album with the classic lineup featuring Joey Belladonna on vocals. It is widely considered the debut of the definitive Anthrax sound and is where Benante's technical innovations — double-bass patterns, blast beats, compositional fills — were first documented in their fully realised form.
+A: Charlie Benante has been Anthrax's drummer since joining in September 1983 and played on every studio album. Fistful of Metal (1984) was his first recording, but Spreading the Disease (1985) is the first Anthrax album with the classic lineup featuring Joey Belladonna on vocals. It is widely considered the debut of the definitive Anthrax sound and is where Benante's technical innovations — double-bass patterns, blast beats, compositional fills — were first documented in their fully realised form.
 
 **Q: What cymbals did Charlie Benante use on Spreading the Disease?**
 
@@ -131,4 +131,4 @@ A: Spreading the Disease is the opening chapter of Charlie Benante's classic-era
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

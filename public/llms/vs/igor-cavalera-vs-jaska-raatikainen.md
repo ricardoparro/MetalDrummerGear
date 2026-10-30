@@ -67,4 +67,4 @@ A: Igor Cavalera co-founded Sepultura and drove Brazilian metal into global cons
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

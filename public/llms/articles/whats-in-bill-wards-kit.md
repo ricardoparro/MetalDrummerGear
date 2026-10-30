@@ -24,7 +24,7 @@ Now in his late 70s, Bill Ward's playing days may be behind him (he didn't parti
 - **Drums:** Ludwig Ludwig Standard / Club Date Series (Natural Maple finish)
 - **Snare:** Ludwig Ludwig Supraphonic 400 / LM402, 14" x 6.5"
 - **Cymbals:** Zildjian — Super Zyn / Avedis Zildjian
-- **Hardware / Pedals:** Ludwig Speed King; Ludwig Atlas; Standard round seat; 2B or similar heavy sticks
+- **Hardware / Pedals:** Ludwig Speed King; Ludwig Atlas; Standard round seat; Pro-Mark Standard (5A or 5B equivalent)
 - **Heads:** Remo Ambassador Coated (batter), Standard snare side
 - **Snare tuning:** Medium tension for full, musical tone
 
@@ -128,4 +128,4 @@ A: Virtually every metal drummer owes a debt to Bill Ward, whether direct or ind
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

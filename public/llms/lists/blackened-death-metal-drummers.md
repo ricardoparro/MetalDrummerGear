@@ -1,6 +1,6 @@
 # Top 10 Blackened Death Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/blackened-death-metal-drummers)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/blackened-death-metal-drummers)
 
 ---
 
@@ -141,4 +141,4 @@ A: Blackened death metal drummers require equipment built for sustained extreme 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

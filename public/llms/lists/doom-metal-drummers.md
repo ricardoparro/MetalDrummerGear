@@ -1,6 +1,6 @@
 # Top 10 Doom Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/doom-metal-drummers)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/doom-metal-drummers)
 
 ---
 
@@ -150,4 +150,4 @@ A: Black Sabbath is universally credited as doom metal's founding band, with Bil
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

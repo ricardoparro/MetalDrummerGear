@@ -25,7 +25,7 @@ For Vinnie Paul, "Power Metal" represents the last time he'd record with the gea
 - **Drums:** Tama Tama Imperialstar (Stage-standard lacquer finish)
 - **Snare:** Tama Tama Steel 14" x 5.5", 14" x 5.5"
 - **Cymbals:** Zildjian — Zildjian A
-- **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Vic Firth American Classic 2B (played backwards)
+- **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Vic Firth American Classic 5B (played backwards)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Clear (snare side)
 - **Snare tuning:** Medium-high tension for cut and speed
 
@@ -104,4 +104,4 @@ A: Yes. Power Metal, released June 24, 1988, was the fourth and final Pantera al
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

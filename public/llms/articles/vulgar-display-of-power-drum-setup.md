@@ -25,7 +25,7 @@ What set Vinnie apart was his understanding that heavy doesn't mean fast. His gr
 - **Drums:** Tama Tama Artstar II (carried over from Cowboys from Hell) (Custom Graphics finish)
 - **Snare:** Tama Tama steel snare (specific model unverified), 14" x 8"
 - **Cymbals:** Sabian — Sabian AA / AAX
-- **Hardware / Pedals:** Double pedal (brand not documented for this era); Hi-hat stand (brand not documented for this era); Roc-N-Soc Nitro Throne; Vic Firth American Classic 2B
+- **Hardware / Pedals:** Double pedal (brand not documented for this era); Hi-hat stand (brand not documented for this era); Roc-N-Soc Nitro Throne; Vic Firth American Classic 5B
 - **Heads:** Remo Powerstroke 77 Coated (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium-low tension for body, moderate snare wire tension
 
@@ -115,4 +115,4 @@ A: Vinnie Paul's Tama setup cost an estimated $4,000 to $6,000 in 1992. Modern d
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

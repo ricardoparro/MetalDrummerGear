@@ -67,4 +67,4 @@ A: Frost drives Satyricon's black metal with surgical, metronomically consistent
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -26,7 +26,7 @@ Mayhem's Hellhammer vs Nile's George Kollias. Two of extreme metal's most-cited 
 
 ## Playing Style
 
-Hellhammer has anchored Norwegian black metal since joining Mayhem in 1988, and his icy, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains the second wave's defining recording; he has run a parallel career with Dimmu Borgir since 1999, bringing black metal intensity into symphonic territory. George Kollias has anchored Nile's technical death metal since 2004, building his reputation around Egyptian-themed brutality and blast beats sustained past 240 BPM with a precision that has made him one of the most closely studied speed drummers in extreme metal, and an active educator through his own instructional courses.
+Hellhammer has anchored Norwegian black metal since joining Mayhem in 1988, and his icy, blast-beat-driven performance on "De Mysteriis Dom Sathanas" (1994) remains the second wave's defining recording; he ran a parallel career with Dimmu Borgir from 1999 to 2013, bringing black metal intensity into symphonic territory. George Kollias has anchored Nile's technical death metal since 2004, building his reputation around Egyptian-themed brutality and blast beats sustained past 240 BPM with a precision that has made him one of the most closely studied speed drummers in extreme metal, and an active educator through his own instructional courses.
 
 ## Technique
 
@@ -50,7 +50,7 @@ Hellhammer and George Kollias sit at opposite ends of extreme metal's blast-beat
 A: Both are foundational blast-beat specialists in different genres. Hellhammer helped define black metal's cold, atmosphere-driven blast beats on Mayhem's "De Mysteriis Dom Sathanas" (1994). George Kollias sustains blast beats past 240 BPM using heel-toe double bass technique across Nile's technical death metal catalog since 2004.
 
 **Q: What bands have Hellhammer and George Kollias played in?**
-A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside Arcturus and Shining. George Kollias has drummed for Nile since 2004 and previously played in Nightfall from 2002 to 2009.
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside Arcturus and Shining. George Kollias has drummed for Nile since 2004 and previously played in Nightfall from 2002 to 2009.
 
 **Q: What gear do Hellhammer and George Kollias use?**
 A: Hellhammer's classic rig was a Sonor 5-piece shell pack with a Sonor 14"x5.5" steel snare, later moving to the Sonor SQ2 Heavy Beech kit in 1999. George Kollias plays a Pearl Masterworks Stadium Exotic kit with a 14"x6.5" Pearl George Kollias Signature snare, Zildjian cymbals, and his co-designed Pearl Demon XR double pedal.
@@ -67,4 +67,4 @@ A: Hellhammer's classic blast beats on "De Mysteriis Dom Sathanas" established b
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

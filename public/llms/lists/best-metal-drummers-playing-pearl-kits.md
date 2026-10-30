@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Pearl Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
 
 ---
 
@@ -90,9 +90,9 @@ Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/dr
 
 **Band:** Children of Bodom
 **Highlight:** Pearl Masters Premium Maple — resumed in 2004 after a Tama interlude
-**Why ranked here:** Jaska Raatikainen started on Pearl for Children of Bodom's debut "Something Wild" before a Tama stint spanning "Hatebreeder" (1999) through "Hate Crew Deathroll" (2003), then returned to Pearl in 2004 around "Are You Dead Yet?," running a Pearl Masters Premium Maple kit in custom finish with a Pearl Masters 14"x6.5" snare and Pearl Eliminator double pedal, a setup built for endurance across the band's demanding, high-energy live sets. Raatikainen earns rank #8 for a Pearl relationship resumed in 2004 after a Tama interlude, maintained through the band's 2019 dissolution.
+**Why ranked here:** Jaska Raatikainen started on Pearl for Children of Bodom's debut "Something Wild" before a Tama stint spanning "Hatebreeder" (1999) through "Hate Crew Deathroll" (2003), then returned to Pearl in 2004 around "Are You Dead Yet?," running a Pearl Masters Premium Maple kit in custom finish with a Pearl Masters 14"x5.5" snare and Pearl Eliminator double pedal, a setup built for endurance across the band's demanding, high-energy live sets. Raatikainen earns rank #8 for a Pearl relationship resumed in 2004 after a Tama interlude, maintained through the band's 2019 dissolution.
 
-Jaska Raatikainen (Children of Bodom) earns rank #8 for: pearl masters premium maple — resumed in 2004 after a tama interlude. Jaska Raatikainen started on Pearl for Children of Bodom's debut "Something Wild" before a Tama stint spanning "Hatebreeder" (1999) through "Hate Crew Deathroll" (2003), then returned to Pearl in 2004 around "Are You Dead Yet?," running a Pearl Masters Premium Maple kit in custom finish with a Pearl Masters 14"x6.5" snare and Pearl Eliminator double pedal, a setup built for endurance across the band's demanding, high-energy live sets. Raatikainen earns rank #8 for a Pearl relationship resumed in 2004 after a Tama interlude, maintained through the band's 2019 dissolution..
+Jaska Raatikainen (Children of Bodom) earns rank #8 for: pearl masters premium maple — resumed in 2004 after a tama interlude. Jaska Raatikainen started on Pearl for Children of Bodom's debut "Something Wild" before a Tama stint spanning "Hatebreeder" (1999) through "Hate Crew Deathroll" (2003), then returned to Pearl in 2004 around "Are You Dead Yet?," running a Pearl Masters Premium Maple kit in custom finish with a Pearl Masters 14"x5.5" snare and Pearl Eliminator double pedal, a setup built for endurance across the band's demanding, high-energy live sets. Raatikainen earns rank #8 for a Pearl relationship resumed in 2004 after a Tama interlude, maintained through the band's 2019 dissolution..
 
 Full drummer profile: [Jaska Raatikainen on MetalForge](https://metalforge.io/drummer/jaska-raatikainen)
 
@@ -127,4 +127,4 @@ A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Ange
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

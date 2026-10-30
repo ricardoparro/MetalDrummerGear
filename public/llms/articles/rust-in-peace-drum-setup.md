@@ -27,7 +27,7 @@ This article breaks down every piece of gear Nick used to create this timeless m
 - **Drums:** Tama Tama Artstar II 5-piece, Midnight Blue finish
 - **Snare:** Tama Tama Steel Snare, 14" x 5.5"
 - **Cymbals:** Zildjian — Zildjian A Custom / A Series
-- **Hardware / Pedals:** DW 5000 Double Pedal; Tama Titan Hi-Hat Stand; Roc-N-Soc Nitro Original; Vic Firth American Classic 5B
+- **Hardware / Pedals:** Double pedal, brand unconfirmed for this era; Tama Titan Hi-Hat Stand; Roc-N-Soc Nitro Original; unconfirmed for this era
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Tight, rimshot-focused tuning with moderate snare wire tension for versatility
 
@@ -35,7 +35,7 @@ This article breaks down every piece of gear Nick used to create this timeless m
 
 For Rust in Peace, Nick Menza used a Tama Artstar II 5-piece kit in Midnight Blue finish — Tama's pro-tier kit of the era, matching the technical precision of his playing. Its birch shells delivered the tight, dry sound that became a benchmark for thrash drum production.
 
-A single 22" x 16" bass drum, driven by a DW 5000 double pedal, handled the sustained double-bass passages on tracks like "Holy Wars" and "Take No Prisoners." The double pedal gave Menza the surgical, clean double-bass precision he was known for, without the added weight and setup time of a second physical bass drum.
+A single 22" x 16" bass drum, driven by a double pedal (the brand isn't publicly documented for this era), handled the sustained double-bass passages on tracks like "Holy Wars" and "Take No Prisoners." The double pedal gave Menza the surgical, clean double-bass precision he was known for, without the added weight and setup time of a second physical bass drum.
 
 Menza's tom setup was compact but versatile: two rack toms and a single floor tom gave him enough range for his melodic fills. Unlike purely aggressive thrash drummers, Nick often incorporated tom patterns that were almost jazz-like in their melodicism — a direct result of his training background.
 
@@ -89,7 +89,7 @@ Dave Mustaine has called Rust in Peace his favorite Megadeth album. The drumming
 - Nick Menza's debut album with Megadeth became a thrash landmark
 - Jazz-influenced technique elevated the technical precision
 - Features some of thrash metal's most demanding drum performances
-- DW 5000 double pedal drove Megadeth's demanding double-bass patterns on a single 22" kick
+- Double pedal (brand not publicly documented) drove Megadeth's demanding double-bass patterns on a single 22" kick
 - Two rack toms and a floor tom enabled melodic, jazz-influenced fills
 - Birch shells delivered a tight, focused attack
 - Tama's pro-tier kit of 1990, reflecting the technical precision of Menza's playing
@@ -100,7 +100,7 @@ Dave Mustaine has called Rust in Peace his favorite Megadeth album. The drumming
 
 **Q: What drum kit did Nick Menza use on Rust in Peace?**
 
-A: Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish on Rust in Peace, recorded in 1990 — Tama's pro-tier kit of the period. The setup featured a 22x16 inch bass drum driven by a DW 5000 double pedal, 12x10 and 13x11 inch rack toms, and a 16x16 inch floor tom. All shells were birch, giving the kit a tight, focused attack that cut through Megadeth's aggressive riff-driven arrangements on that album.
+A: Nick Menza played a Tama Artstar II 5-piece kit in Midnight Blue finish on Rust in Peace, recorded in 1990 — Tama's pro-tier kit of the period. The setup featured a 22x16 inch bass drum driven by a double pedal (brand not publicly documented for this era), 12x10 and 13x11 inch rack toms, and a 16x16 inch floor tom. All shells were birch, giving the kit a tight, focused attack that cut through Megadeth's aggressive riff-driven arrangements on that album.
 
 **Q: What cymbals did Nick Menza use on Rust in Peace?**
 
@@ -128,4 +128,4 @@ A: At the time of recording in 1990, the Tama Artstar II kit was valued at appro
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

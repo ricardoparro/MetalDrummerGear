@@ -67,4 +67,4 @@ A: Yes — Sean Reinert was the drummer on Cynic's debut album "Focus" (1993), w
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

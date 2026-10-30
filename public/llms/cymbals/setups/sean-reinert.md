@@ -43,4 +43,4 @@ A: Sean Reinert plays Zildjian cymbals: 14" A Quick Beat Hi-Hats, 16" A Crash, 1
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

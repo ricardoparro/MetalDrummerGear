@@ -34,7 +34,7 @@ Greiner's technique draws on jazz-informed dynamics and meticulous compositional
 
 ## Key Differences
 
-Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. John Otto plays an Orange County Drum and Percussion (OCDP) custom kit with Zildjian A and A Custom cymbals — a groove-oriented setup that delivers the punchy, pocket-focused tones Limp Bizkit's hip-hop-metal crossover demands. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting. Otto studied at the Douglas Anderson School of the Arts in Jacksonville, bringing genuine jazz vocabulary — ghost notes, syncopated snare patterns, and hip-hop-influenced rhythmic placement — to the heavy rap-rock context that made Limp Bizkit one of the best-selling bands of the late 1990s, prioritizing pocket and groove over technical display.
+Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. John Otto plays an Orange County Drum and Percussion (OCDP) custom kit with Zildjian A and A Custom cymbals — a groove-oriented setup that delivers the punchy, pocket-focused tones Limp Bizkit's hip-hop-metal crossover demands. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting. Otto studied at the Douglas Anderson School of the Arts in Jacksonville, bringing genuine jazz vocabulary — ghost notes, syncopated snare patterns, and hip-hop-influenced rhythmic placement — to the heavy rap-rock context that made Limp Bizkit one of the best-selling bands of the late 1990s, prioritizing pocket and groove over technical display.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains t
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

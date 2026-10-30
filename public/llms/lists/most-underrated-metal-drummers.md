@@ -1,6 +1,6 @@
 # Top 10 Most Underrated Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-underrated-metal-drummers)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-underrated-metal-drummers)
 
 ---
 
@@ -90,9 +90,9 @@ Full drummer profile: [Travis Orbin on MetalForge](https://metalforge.io/drummer
 
 **Band:** Between the Buried and Me
 **Highlight:** Progressive metal's boundary-dissolving technician
-**Why ranked here:** Blake Richardson has pushed Between the Buried and Me's progressive metal ambition to its limits across six studio albums, executing technical death metal complexity, odd-time signatures, and jazz-influenced fills in compositions that challenge virtually every living drummer
+**Why ranked here:** Blake Richardson has pushed Between the Buried and Me's progressive metal ambition to its limits across nine studio albums, executing technical death metal complexity, odd-time signatures, and jazz-influenced fills in compositions that challenge virtually every living drummer
 
-Blake Richardson (Between the Buried and Me) earns rank #8 for: progressive metal's boundary-dissolving technician. Blake Richardson has pushed Between the Buried and Me's progressive metal ambition to its limits across six studio albums, executing technical death metal complexity, odd-time signatures, and jazz-influenced fills in compositions that challenge virtually every living drummer.
+Blake Richardson (Between the Buried and Me) earns rank #8 for: progressive metal's boundary-dissolving technician. Blake Richardson has pushed Between the Buried and Me's progressive metal ambition to its limits across nine studio albums, executing technical death metal complexity, odd-time signatures, and jazz-influenced fills in compositions that challenge virtually every living drummer.
 
 Full drummer profile: [Blake Richardson on MetalForge](https://metalforge.io/drummer/blake-richardson)
 
@@ -132,4 +132,4 @@ Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

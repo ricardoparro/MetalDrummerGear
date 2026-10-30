@@ -26,7 +26,7 @@ Converge's Ben Koller vs Behemoth's Inferno. Hardcore-fueled mathcore unpredicta
 
 ## Playing Style
 
-Ben Koller joined Converge in late 1999 and became central to the band's mathcore evolution, driving landmark records including "Jane Doe" (2001), "You Fail Me" (2004), and "The Dusk in Us" (2017) with a chaotic, improvisational intensity drawn from hardcore punk and grindcore. Inferno has anchored Poland's Behemoth since 1997, powering the band's blackened death metal assault on albums like "The Satanist" (2014) and "I Loved You at Your Darkest" (2018) with relentless blast beats and the theatrical stamina Behemoth's arena-scale live shows demand.
+Ben Koller joined Converge in late 1999 and became central to the band's mathcore evolution, driving landmark records including "Jane Doe" (2001), "You Fail Me" (2004), and "The Dusk in Us" (2017) with a chaotic, improvisational intensity drawn from hardcore punk and grindcore. Inferno has anchored Poland's Behemoth since 1997 (with a brief gap around 1999-2000), powering the band's blackened death metal assault on albums like "The Satanist" (2014) and "I Loved You at Your Darkest" (2018) with relentless blast beats and the theatrical stamina Behemoth's arena-scale live shows demand.
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Ben Koller (Converge) plays with loose, explosive unpredictability rooted in 
 A: Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Inferno plays a Pearl Reference Series kit with a Pearl Reference 14x5" Steel snare and Paiste RUDE Series cymbals, powered by a Czarcie Kopyto (Devil's Hoof) double pedal.
 
 **Q: What bands are Ben Koller and Inferno known for?**
-A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Inferno has drummed for Behemoth since 1997, also playing in Azarath.
+A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Inferno has drummed for Behemoth since 1997 (with a brief 1999-2000 gap), also playing in Azarath.
 
 **Q: Who has more blast beat endurance, Ben Koller or Inferno?**
 A: Inferno is the more dedicated blast beat endurance specialist, sustaining tempos exceeding 200 BPM across Behemoth's full-length live sets. Ben Koller's Converge material demands less continuous blast beat endurance, favoring sudden bursts of speed within constantly shifting mathcore arrangements instead.
@@ -67,4 +67,4 @@ A: Inferno is the more dedicated blast beat endurance specialist, sustaining tem
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

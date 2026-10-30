@@ -1,6 +1,6 @@
 # Top 10 Horror Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-15 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/horror-metal-drummers)
+> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/horror-metal-drummers)
 
 ---
 
@@ -109,10 +109,10 @@ Full drummer profile: [Jay Weinberg on MetalForge](https://metalforge.io/drummer
 ### 10. Arin Ilejay
 
 **Band:** ex-Avenged Sevenfold
-**Highlight:** Avenged Sevenfold's "Nightmare" horror concept era
-**Why ranked here:** Arin Ilejay drummed with Avenged Sevenfold during the band's horror-themed "Nightmare" (2010) album cycle, an era built around explicit horror imagery and gothic-tinged arrangements that pushed mainstream metalcore toward horror metal's theatrical sensibility. Arin Ilejay earns rank #10 for bringing horror-concept songwriting into 2010s hard rock-adjacent metal.
+**Highlight:** Avenged Sevenfold's horror-imagery lineage
+**Why ranked here:** Arin Ilejay drummed on Avenged Sevenfold's "Hail to the King" (2013) album cycle, joining a band whose horror-themed "Nightmare" (2010) era — recorded by Mike Portnoy following Jimmy "The Rev" Sullivan's 2009 death — had already pushed mainstream metalcore toward horror metal's theatrical sensibility. Arin Ilejay earns rank #10 for carrying that horror-imagery lineage forward into 2010s hard rock-adjacent metal.
 
-Arin Ilejay (ex-Avenged Sevenfold) earns rank #10 for: avenged sevenfold's "nightmare" horror concept era. Arin Ilejay drummed with Avenged Sevenfold during the band's horror-themed "Nightmare" (2010) album cycle, an era built around explicit horror imagery and gothic-tinged arrangements that pushed mainstream metalcore toward horror metal's theatrical sensibility. Arin Ilejay earns rank #10 for bringing horror-concept songwriting into 2010s hard rock-adjacent metal..
+Arin Ilejay (ex-Avenged Sevenfold) earns rank #10 for: avenged sevenfold's horror-imagery lineage. Arin Ilejay drummed on Avenged Sevenfold's "Hail to the King" (2013) album cycle, joining a band whose horror-themed "Nightmare" (2010) era — recorded by Mike Portnoy following Jimmy "The Rev" Sullivan's 2009 death — had already pushed mainstream metalcore toward horror metal's theatrical sensibility. Arin Ilejay earns rank #10 for carrying that horror-imagery lineage forward into 2010s hard rock-adjacent metal..
 
 Full drummer profile: [Arin Ilejay on MetalForge](https://metalforge.io/drummer/arin-ilejay)
 
@@ -150,4 +150,4 @@ A: Black Sabbath is horror metal's foundational influence, its 1970 self-titled 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

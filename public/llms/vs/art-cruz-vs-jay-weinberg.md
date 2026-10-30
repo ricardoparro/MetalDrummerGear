@@ -26,7 +26,7 @@ Lamb of God's Art Cruz vs former Slipknot drummer Jay Weinberg. Two modern metal
 
 ## Playing Style
 
-Art Cruz became Lamb of God's drummer in 2019, stepping into one of groove metal's most demanding drum chairs after Chris Adler's departure — a transition that began when Cruz filled in for Adler on Lamb of God's 2018 tour supporting Slayer's farewell run. Before that, Cruz built his reputation across Winds of Plague and Prong, developing a reputation as a hard-hitting, reliable drummer capable of handling diverse metal styles. Jay Weinberg joined Slipknot in December 2014, replacing founding drummer Joey Jordison and spending nine years (2014–2023) as the band's drummer #1, honoring Jordison's blast-beat-driven legacy on ".5: The Gray Chapter," "We Are Not Your Kind," and "The End, So Far" before departing in November 2023 and joining Suicidal Tendencies in 2024.
+Art Cruz became Lamb of God's drummer in 2019, stepping into one of groove metal's most demanding drum chairs after Chris Adler's departure — a transition that began when Cruz filled in for Adler on Lamb of God's 2018 tour supporting Slayer's farewell run. Before that, Cruz built his reputation across Winds of Plague and Prong, developing a reputation as a hard-hitting, reliable drummer capable of handling diverse metal styles. Jay Weinberg joined Slipknot in 2014, replacing founding drummer Joey Jordison and spending nine years (2014–2023) as the band's drummer #1, honoring Jordison's blast-beat-driven legacy on ".5: The Gray Chapter," "We Are Not Your Kind," and "The End, So Far" before departing in November 2023 and joining Suicidal Tendencies in 2024.
 
 ## Technique
 
@@ -38,7 +38,7 @@ Art Cruz endorses Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and an 
 
 ## Influence & Legacy
 
-Both drummers inherited massive legacy-band drum chairs and had to prove themselves worthy successors to fan-favorite predecessors. Cruz has reenergized Lamb of God's sound across "Lamb of God" (2020) and "Omens" (2022) while respecting Chris Adler's established catalog of parts. Weinberg carried Slipknot through its most commercially successful modern era, proving himself over nine years before Eloy Casagrande (ex-Sepultura) took over the drum chair in 2023 — making Weinberg both a successor and a predecessor in metal's ongoing chain of legendary drum-chair transitions.
+Both drummers inherited massive legacy-band drum chairs and had to prove themselves worthy successors to fan-favorite predecessors. Cruz has reenergized Lamb of God's sound across "Lamb of God" (2020) and "Omens" (2022) while respecting Chris Adler's established catalog of parts. Weinberg carried Slipknot through its most commercially successful modern era, proving himself over nine years before Eloy Casagrande (ex-Sepultura) took over the drum chair in 2024 — making Weinberg both a successor and a predecessor in metal's ongoing chain of legendary drum-chair transitions.
 
 ## Verdict
 
@@ -50,7 +50,7 @@ Art Cruz and Jay Weinberg represent modern American metal drumming's two dominan
 A: Art Cruz replaced Chris Adler as Lamb of God's drummer in 2019, after first filling in for Adler on the band's 2018 North American tour supporting Slayer's farewell run. Cruz made his studio debut with the band on their 2020 self-titled album.
 
 **Q: Who replaced Joey Jordison in Slipknot?**
-A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining in December 2013/2014 after Jordison's departure. Weinberg spent nine years (2014–2023) as the band's drummer before departing himself in November 2023, when Eloy Casagrande (ex-Sepultura) took over the drum chair.
+A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining in 2014 after Jordison's departure. Weinberg spent nine years (2014–2023) as the band's drummer before departing himself in November 2023. Eloy Casagrande (ex-Sepultura) took over the drum chair in 2024, with no interim drummer filling the gap.
 
 **Q: What gear do Art Cruz and Jay Weinberg use?**
 A: Art Cruz plays Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and Zildjian A Custom cymbals, using a Trick Pro 1-V double pedal. Jay Weinberg played SJC Custom Drums with his signature SJC "The Crucible" 14"x6.5" brass snare and Zildjian cymbals, using a DW 9000 Series double pedal.
@@ -70,4 +70,4 @@ A: No — Jay Weinberg departed Slipknot in November 2023 after nine years as th
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -47,7 +47,7 @@ Jay Weinberg and Mike Mangini share the uncommon experience of replacing iconic 
 ## FAQ
 
 **Q: Who did Jay Weinberg and Mike Mangini replace?**
-A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining the band for studio and live work from 2013 onward. Mike Mangini won the Dream Theater drum audition in 2010 after Mike Portnoy departed — beating six world-class candidates — and served until Portnoy's return in 2023.
+A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining the band for studio and live work from 2014 onward. Mike Mangini won the Dream Theater drum audition in 2010 after Mike Portnoy departed — beating six world-class candidates — and served until Portnoy's return in 2023.
 
 **Q: What drums does Jay Weinberg use vs Mike Mangini?**
 A: Jay Weinberg played SJC Custom Drums with Zildjian cymbals and DW hardware during his Slipknot tenure. Mike Mangini plays a Pearl Reference Series kit with Pearl Reference snares, Sabian HHX Evolution and AAX X-Plosion cymbals, and a Pearl Eliminator Redline double pedal.
@@ -64,4 +64,4 @@ A: Mike Mangini holds Guinness World Records for drumming speed and is considere
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

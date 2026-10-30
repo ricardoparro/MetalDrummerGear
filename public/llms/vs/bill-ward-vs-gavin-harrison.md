@@ -53,7 +53,7 @@ A: Bill Ward co-founded Black Sabbath in 1968 and helped invent heavy metal drum
 A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. Gavin Harrison plays Sonor SQ2 drums with Zildjian K Custom Special Dry cymbals and his own Vic Firth Gavin Harrison Signature stick.
 
 **Q: What bands are Bill Ward and Gavin Harrison known for?**
-A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006. Gavin Harrison has drummed for Porcupine Tree, King Crimson, and The Pineapple Thief.
+A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012. Gavin Harrison has drummed for Porcupine Tree, King Crimson, and The Pineapple Thief.
 
 **Q: Has Gavin Harrison won any drumming awards?**
 A: Yes — Gavin Harrison has won multiple Modern Drummer Reader Poll awards and is widely regarded within progressive rock as the "prog drummer's drummer" for his polyrhythmic precision and restraint.
@@ -67,4 +67,4 @@ A: Yes — Gavin Harrison has won multiple Modern Drummer Reader Poll awards and
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

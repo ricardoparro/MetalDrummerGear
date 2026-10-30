@@ -34,7 +34,7 @@ Richardson navigates BTBAM's rapid genre changes with jazz-influenced ghost note
 
 ## Key Differences
 
-Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (including 17" and 21" AAX Holy Chinas), driven by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride), powered by a Tama Speed Cobra 910 Double Pedal. Richardson navigates BTBAM's rapid genre changes with jazz-influenced ghost notes, seamless transitions between blast beats and swung grooves, and complex odd time signatures that feel conversational rather than forced within a single track. Garstka draws on linear independence, polymetric phrasing, and ghost-note-dense double bass shaped by jazz fusion training, giving Animals as Leaders' constantly shifting time signatures a fluid, almost improvisational precision rather than mechanical rigidity.
+Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (including 17" and 21" AAX Holy Chinas), driven by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride), powered by a Tama Speed Cobra 910 Double Pedal. Richardson navigates BTBAM's rapid genre changes with jazz-influenced ghost notes, seamless transitions between blast beats and swung grooves, and complex odd time signatures that feel conversational rather than forced within a single track. Garstka draws on linear independence, polymetric phrasing, and ghost-note-dense double bass shaped by jazz fusion training, giving Animals as Leaders' constantly shifting time signatures a fluid, almost improvisational precision rather than mechanical rigidity.
 
 ## Influence & Legacy
 
@@ -53,7 +53,7 @@ A: Both are considered among tech/math metal's most complete drummers. Blake Ric
 A: Blake Richardson has been the drummer for progressive metal band Between the Buried and Me since 2005, appearing on landmark albums including "Colors" (2007) and "Colors II" (2021). Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, appearing on "The Joy of Motion" (2014) and "The Madness of Many" (2016).
 
 **Q: What gear do Blake Richardson and Matt Garstka use?**
-A: Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC snare and Sabian cymbals, driven by twin Tama Iron Cobra Power Glide single pedals. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals, powered by a Tama Speed Cobra 910 Double Pedal.
+A: Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC snare and Sabian cymbals, driven by twin Tama Iron Cobra Power Glide single pedals. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance Series cymbals, powered by a Tama Speed Cobra 910 Double Pedal.
 
 **Q: Is Matt Garstka jazz trained?**
 A: Yes — Matt Garstka's playing blends jazz fusion, electronic music, and progressive metal, and his jazz-influenced training is central to the linear independence and ghost-note complexity he brings to Animals as Leaders' instrumental compositions.
@@ -67,4 +67,4 @@ A: Yes — Matt Garstka's playing blends jazz fusion, electronic music, and prog
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

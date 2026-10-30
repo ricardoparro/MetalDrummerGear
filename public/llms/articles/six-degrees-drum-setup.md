@@ -27,7 +27,7 @@ This article documents every piece of gear Mike Portnoy used to record this land
 - **Drums:** Tama Tama Starclassic Maple (Midnight Blue Sparkle finish)
 - **Snare:** Tama Tama Starclassic Maple Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian Artisan / HH Series
-- **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Tama Iron Cobra Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Vic Firth Mike Portnoy Signature
+- **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Tama Iron Cobra Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Promark Mike Portnoy TX420N Signature
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-high tension — authority with dynamic sensitivity
 
@@ -136,4 +136,4 @@ A: The 42-minute Six Degrees of Inner Turbulence suite presents several distinct
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

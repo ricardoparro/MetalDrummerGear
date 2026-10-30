@@ -67,4 +67,4 @@ A: Before joining Godsmack in 2002, Shannon Larkin was the drummer for Ugly Kid 
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

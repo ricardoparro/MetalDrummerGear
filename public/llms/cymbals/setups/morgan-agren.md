@@ -41,4 +41,4 @@ A: Morgan Ågren plays Paiste cymbals: 14" Signature Heavy Hi-Hats, 18" Signatur
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

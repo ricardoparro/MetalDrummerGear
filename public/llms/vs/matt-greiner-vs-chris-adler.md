@@ -34,7 +34,7 @@ Greiner's technique draws on jazz-informed dynamics and meticulous compositional
 
 ## Key Differences
 
-Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Chris Adler played a Mapex Saturn in Satin Black Maple Burl kit with his Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals, including the Extra Dry China that became a Lamb of God sonic signature, driven by a Trick Pro V double pedal and Promark TX5AXW Chris Adler Signature sticks. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting rather than raw speed alone. Adler's signature is his ride-bell-anchored groove — riding the bell with his right hand instead of the hi-hat while his left foot works independently for dynamic accents, all locked to syncopated double-bass patterns that gave Lamb of God its mechanical, riff-tight momentum.
+Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Chris Adler played a Mapex Saturn in Satin Black Maple Burl kit with his Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals, including the Extra Dry China that became a Lamb of God sonic signature, driven by a Trick Pro V double pedal and Promark TX5AXW Chris Adler Signature sticks. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting rather than raw speed alone. Adler's signature is his ride-bell-anchored groove — riding the bell with his right hand instead of the hi-hat while his left foot works independently for dynamic accents, all locked to syncopated double-bass patterns that gave Lamb of God its mechanical, riff-tight momentum.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Matt Greiner is known for jazz-influenced dynamics and meticulous composition
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

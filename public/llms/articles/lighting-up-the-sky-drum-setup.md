@@ -16,7 +16,7 @@ Released on February 24, 2023, *Lighting Up the Sky* is Godsmack's eighth and fi
 
 The ddrum Dios Series is built for exactly the kind of durability a two-decade touring and recording career demands. For Larkin, a drummer who has cited John Bonham as a defining influence throughout his career, the consistency of his setup for *Lighting Up the Sky* is itself a statement: the gear that got him here is the gear that closed it out.
 
-His Sabian cymbal relationship, long established across the entire Godsmack studio catalog, continued for the *Lighting Up the Sky* cycle with the same AAX Series configuration he has played since *Faceless*. The DW 9000 double bass pedal — Larkin's most consistent choice across the post-2010 Godsmack period — returned as the foot hardware foundation. Vic Firth American Classic 5B sticks completed the setup.
+His Sabian cymbal relationship, long established across the entire Godsmack studio catalog, continued for the *Lighting Up the Sky* cycle with the same Sabian AAX configuration he has played since *Faceless*. The DW 9000 double bass pedal — Larkin's most consistent choice across the post-2010 Godsmack period — returned as the foot hardware foundation. Vic Firth American Classic 5B sticks completed the setup.
 
 This article documents the ddrum Dios Series configuration, Sabian cymbal setup, and the full gear picture of Shannon Larkin's final Godsmack studio kit.
 
@@ -45,17 +45,17 @@ The 14" x 6.5" format provides both the surface area for full backbeat authority
 
 The ddrum Dios maple snare's consistency across two decades of Godsmack albums makes it a defining element of *Lighting Up the Sky*'s gear identity: power, clarity, and the same voice that has anchored the band's sound since *Faceless*.
 
-### Sabian AAX: The Same Configuration for Hard Rock's Biggest Stages
+### Sabian AAX: The Continuing Configuration for Hard Rock's Biggest Stages
 
-Shannon Larkin's Sabian cymbal setup for *Lighting Up the Sky* is the same single-series AAX configuration he has played since *Faceless* (2003) — no series change across two decades of Godsmack studio and touring work.
+Shannon Larkin's Sabian cymbal setup for *Lighting Up the Sky* continues the same AAX configuration he has played since *Faceless* (2003) and carried through the *When Legends Rise* (2018) period — a settled, consistent voice across two decades of Godsmack studio and touring work.
 
-The AAX 14" Stage Hi-Hats anchor the rhythmic foundation of every track on the album. The AAX series' machine-hammered construction delivers the bright, fast-responding chick that drives Godsmack's rock grooves forward — cutting through the dense arrangement of guitars, bass, and vocal to place the rhythmic pulse with maximum clarity. On *Lighting Up the Sky*, this hi-hat voice pairs effectively with the ddrum Dios Series kit's punchy character: both elements of the setup speak with immediate, cutting authority.
+The Sabian AAX 14" Stage Hi-Hats anchor the rhythmic foundation of every track on the album. The AAX series' machine-hammered construction delivers the bright, fast-responding chick that drives Godsmack's rock grooves forward — cutting through the dense arrangement of guitars, bass, and vocal to place the rhythmic pulse with maximum clarity. On *Lighting Up the Sky*, this hi-hat voice pairs effectively with the ddrum Dios Series kit's punchy character: both elements of the setup speak with immediate, cutting authority.
 
-The 18" and 19" AAX X-Plosion Crashes provide the accent voices for the album's dynamic moments. Bright and fast-lathed, they respond quickly with the projection that defines Larkin's crash voice across the Godsmack catalog. The 18" provides fast, precise accents for transitional fills; the 19" gives Larkin the full-bodied crash for Godsmack's biggest moments.
+The AAX X-Plosion Crashes — 17" and 19" — provide the accent voices for the album's dynamic moments. Bright and fast-speaking, the X-Plosion series responds immediately with explosive attack. The 17" provides fast, precise accents for transitional fills; the 19" gives Larkin the full-bodied crash for Godsmack's biggest moments.
 
-The 21" AAX Raw Bell Dry Ride is the cymbal most closely associated with Larkin's Godsmack sound — its dry body wash and sharply defined bell have been his time-keeping voice across every album and touring cycle since joining the band. On *Lighting Up the Sky*, this cymbal's bright, controlled character pairs with the ddrum Dios Series' punchy projection to create a cohesive, consistent sonic picture.
+The AAX 21" Stage Ride is the cymbal most closely associated with Larkin's Godsmack sound across his entire tenure — its bright body and sharply defined bell have been his time-keeping voice across every album and touring cycle. On *Lighting Up the Sky*, this cymbal's bright, cutting character pairs with the ddrum Dios Series' punchy projection to create a cohesive, unified sonic picture across drums and cymbals alike.
 
-The 18" AAX Chinese and 10" AAX Splash complete the configuration with trash-accent and quick-effect voices that have remained unchanged across every Godsmack era — proof that Larkin's cymbal philosophy settled early and never needed revision.
+The AAX Chinese and AAX Splash complete the configuration with trash-accent and quick-effect voices that have remained consistent across the *When Legends Rise* and *Lighting Up the Sky* eras — proof that Larkin's cymbal philosophy has stayed settled on one dependable setup from his first Godsmack album to his last.
 
 ## The Final Arc: Lighting Up the Sky and the Close of Godsmack's Studio Legacy
 
@@ -85,7 +85,7 @@ For the complete Shannon Larkin gear and career profile, see the [Shannon Larkin
 - Lighting Up the Sky (2023) — Godsmack's announced eighth and final studio album
 - ddrum Dios Series drums — the same kit Larkin has used since Faceless (2003), unchanged for the farewell record
 - Double 22" bass drums: Larkin's constant configuration across the entire Godsmack catalog since 2003
-- Sabian AAX Series cymbals — long-running Sabian endorsement maintained unchanged through the final album
+- Sabian AAX cymbals — long-running Sabian endorsement maintained through the final album
 - DW 9000 Double Bass Pedal — Larkin's consistent post-2010 pedal choice
 - #1 US rock radio album cycle: 'Surrender' and the title track led the chart run
 - ddrum Dios Series — the same kit Larkin has played since Faceless (2003)
@@ -104,7 +104,7 @@ A: On Godsmack's Lighting Up the Sky (2023), Shannon Larkin played the same ddru
 
 **Q: What cymbals did Shannon Larkin use on Lighting Up the Sky?**
 
-A: Shannon Larkin used Sabian AAX Series cymbals exclusively on Godsmack's Lighting Up the Sky (2023): a 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" AAX Raw Bell Dry Ride, an 18" AAX Chinese, and a 10" AAX Splash. This is the same single-series AAX configuration he has played across his entire Godsmack tenure since Faceless (2003). See the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for his full Sabian setup.
+A: Shannon Larkin used Sabian AAX series cymbals on Godsmack's Lighting Up the Sky (2023): Sabian AAX 14" Stage Hi-Hats, Sabian AAX 17" and 19" X-Plosion Crashes, Sabian AAX 21" Stage Ride, Sabian AAX 18" Chinese, and Sabian AAX 10" Splash. This is the same AAX configuration he has played since Faceless (2003), carried through the When Legends Rise (2018) period and into the final album. See the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for his full Sabian setup.
 
 **Q: When was Godsmack's last album released?**
 
@@ -130,4 +130,4 @@ A: Shannon Larkin uses the DW 9000 Series Double Bass Pedal on Lighting Up the S
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

@@ -41,4 +41,4 @@ A: Gavin Harrison plays Zildjian cymbals: 14" K Custom Special Dry Hi-Hats, 16" 
 
 ---
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

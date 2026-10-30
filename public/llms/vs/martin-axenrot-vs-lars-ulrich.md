@@ -67,4 +67,4 @@ A: Martin Axenrot replaced Martin Lopez as Opeth's drummer in 2006 after Lopez d
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

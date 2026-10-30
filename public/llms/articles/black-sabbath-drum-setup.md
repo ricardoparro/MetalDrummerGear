@@ -27,7 +27,7 @@ This article breaks down exactly what Bill Ward played on the debut album, how t
 - **Drums:** Ludwig Ludwig Super Classic (Black Diamond Pearl finish)
 - **Snare:** Ludwig Ludwig Supra Phonic, 14" x 5"
 - **Cymbals:** Super Zyn — Super Zyn
-- **Hardware / Pedals:** Ludwig Speed King; Ludwig Standard Hi-Hat Stand; Ludwig 2B Hickory; Ludwig Standard Throne
+- **Hardware / Pedals:** Ludwig Speed King; Ludwig Standard Hi-Hat Stand; Pro-Mark Standard (5A or 5B equivalent); Ludwig Standard Throne
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension — open, ringing character with clear attack
 
@@ -99,7 +99,7 @@ For the complete overview of Ward's gear across all eras, see the [Bill Ward kit
 
 **Q: What was Bill Ward's drum kit on Black Sabbath (1970)?**
 
-A: Bill Ward recorded Black Sabbath's debut album on a Ludwig Super Classic kit — a compact professional setup consisting of a 20" bass drum, 12" and 13" rack toms, and a 16" floor tom. The shells were three-ply maple with internal reinforcement rings, typical of late-1960s Ludwig construction. For the snare, Ward used a Ludwig Supra Phonic 14" aluminum-shell drum, one of the most recorded snare drums in rock history. His cymbals were Super Zyn — his first cymbal setup — including 15" hi-hats, 18" and 20" crashes, and a 22" ride. The Ludwig Speed King single pedal and Ludwig 2B hickory sticks completed the setup. For a full overview of Ward's career gear across all eras, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit).
+A: Bill Ward recorded Black Sabbath's debut album on a Ludwig Super Classic kit — a compact professional setup consisting of a 20" bass drum, 12" and 13" rack toms, and a 16" floor tom. The shells were three-ply maple with internal reinforcement rings, typical of late-1960s Ludwig construction. For the snare, Ward used a Ludwig Supra Phonic 14" aluminum-shell drum, one of the most recorded snare drums in rock history. His cymbals were Super Zyn — his first cymbal setup — including 15" hi-hats, 18" and 20" crashes, and a 22" ride. The Ludwig Speed King single pedal and Pro-Mark Standard (5A or 5B equivalent) sticks completed the setup. For a full overview of Ward's career gear across all eras, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit).
 
 **Q: How long did it take to record Black Sabbath?**
 
@@ -132,4 +132,4 @@ A: Black Sabbath released their self-titled debut album on February 13, 1970 on 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

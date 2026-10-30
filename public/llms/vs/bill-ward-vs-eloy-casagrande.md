@@ -53,7 +53,7 @@ A: Bill Ward co-founded Black Sabbath in 1968 and helped invent heavy metal drum
 A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and Paiste cymbals, powered by a Tama Iron Cobra double pedal.
 
 **Q: What bands are Bill Ward and Eloy Casagrande known for?**
-A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006. Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot in 2024.
+A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012. Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot in 2024.
 
 **Q: Has Eloy Casagrande won any drumming awards?**
 A: Yes — Eloy Casagrande was named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, recognition that arrived the same year he joined Slipknot after 13 years with Sepultura.
@@ -67,4 +67,4 @@ A: Yes — Eloy Casagrande was named the No. 1 metal drummer in Modern Drummer m
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

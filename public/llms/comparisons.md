@@ -1443,7 +1443,7 @@ Lamb of God's Chris Adler vs Slipknot's Joey Jordison. Groove metal vs nu-metal 
 
 Lamb of God's Chris Adler vs Periphery's Matt Halpern. Groove metal's syncopated triplet precision compared to djent's polyrhythmic complexity — gear, technique, and influence analyzed.
 
-**Playing style:** Chris Adler co-founded Lamb of God in Richmond, Virginia in 1994 and built groove metal's technical template around syncopated triplet grooves on Grammy-nominated albums including "Ashes of the Wake" (2004), "Sacrament" (2006), and "Wrath" (2009). Matt Halpern has drummed for Periphery since the band's formation, becoming one of the key architects of the djent movement through polyrhythmic complexity, electronic elements, and modern production techniques across albums like "Periphery II," "Juggernaut," and "Hail Stan."
+**Playing style:** Chris Adler co-founded Lamb of God in Richmond, Virginia in 1994 and built groove metal's technical template around syncopated triplet grooves on Grammy-nominated albums including "Ashes of the Wake" (2004), "Sacrament" (2006), and "Wrath" (2009). Matt Halpern has drummed for Periphery since joining in 2009, succeeding founding-era drummers Jason S. Berlin and Travis Orbin, and became one of the key architects of the djent movement through polyrhythmic complexity, electronic elements, and modern production techniques across albums like "Periphery II," "Juggernaut," and "Hail Stan."
 
 **Technique:** Adler's technique is built on obsessive precision — tight, syncopated triplet grooves locked to the guitar riffs, explosive snare accents, and a double bass approach influenced as much by Latin and jazz rhythms as by metal. Halpern's technique combines groove-focused polyrhythms and ghost notes with the ability to navigate Periphery's complex time signatures while maintaining pocket, a skill set he shares widely as an accomplished drum educator.
 
@@ -1460,7 +1460,7 @@ A: Chris Adler favors tight, syncopated triplet grooves locked to Lamb of God's 
 A: Chris Adler plays a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature snare and Meinl Byzance Series cymbals. Matt Halpern plays a Pearl Reference Series kit with his own Pearl Matt Halpern Signature brass snare and Meinl Byzance Series cymbals — both share a Meinl Byzance cymbal endorsement despite different drum brands.
 
 **Q: What bands are Chris Adler and Matt Halpern known for?**
-A: Chris Adler co-founded Lamb of God in 1994 and recorded Grammy-nominated albums including "Ashes of the Wake" and "Sacrament." Matt Halpern has drummed for Periphery since the band's formation, helping define the djent movement across albums like "Periphery II" and "Hail Stan."
+A: Chris Adler co-founded Lamb of God in 1994 and recorded Grammy-nominated albums including "Ashes of the Wake" and "Sacrament." Matt Halpern has drummed for Periphery since 2009, helping define the djent movement across albums like "Periphery II" and "Hail Stan."
 
 **Q: Who influenced modern djent drumming more, Chris Adler or Matt Halpern?**
 A: Matt Halpern is more directly tied to djent, having helped architect the genre with Periphery and built a major drum education following on YouTube. Chris Adler's influence runs through groove metal and the New Wave of American Heavy Metal rather than djent specifically, though both are cited as key 2000s-2010s metal drumming influences.
@@ -5165,7 +5165,7 @@ Periphery's Matt Halpern vs Trivium's Alex Bent. Djent, modern metal, and techni
 
 Periphery's Matt Halpern vs Dream Theater's Mike Mangini. Djent's polyrhythmic groove compared to progressive metal's scientific technical precision — gear, technique, and influence analyzed.
 
-**Playing style:** Matt Halpern has drummed for Periphery since the band's formation, becoming one of the key architects of the djent movement through polyrhythmic complexity, electronic elements, and modern production techniques across albums like "Periphery II," "Juggernaut," and "Hail Stan." Mike Mangini joined Dream Theater in 2010 after a highly publicized audition process, bringing a scientific, world-record-holding approach to progressive metal following stints with Steve Vai, Extreme, and Annihilator, and years as a Berklee College of Music professor.
+**Playing style:** Matt Halpern has drummed for Periphery since joining in 2009, succeeding founding-era drummers Jason S. Berlin and Travis Orbin, and became one of the key architects of the djent movement through polyrhythmic complexity, electronic elements, and modern production techniques across albums like "Periphery II," "Juggernaut," and "Hail Stan." Mike Mangini joined Dream Theater in 2010 after a highly publicized audition process, bringing a scientific, world-record-holding approach to progressive metal following stints with Steve Vai, Extreme, and Annihilator, and years as a Berklee College of Music professor.
 
 **Technique:** Halpern's technique combines groove-focused polyrhythms and ghost notes with the ability to navigate Periphery's complex time signatures while maintaining pocket, a skill set he shares widely as an accomplished drum educator. Mangini holds multiple Guinness World Records for drumming speed and applies rigorous biomechanical analysis to his playing, incorporating complex polyrhythms and hybrid acoustic/electronic setups across Dream Theater's demanding material.
 
@@ -5182,7 +5182,7 @@ A: Matt Halpern combines groove-focused polyrhythms and ghost notes that anchor 
 A: Matt Halpern plays a Pearl Reference Series kit with his own Pearl Matt Halpern Signature brass snare and Meinl Byzance Series cymbals. Mike Mangini plays the same Pearl Reference Series kit, but with Sabian HHX & AAX Series cymbals, a Pearl Eliminator Redline double pedal, and a Roland SPD-SX sampling pad instead.
 
 **Q: What bands are Matt Halpern and Mike Mangini known for?**
-A: Matt Halpern has drummed for Periphery since the band's formation, helping define the djent movement across albums like "Periphery II" and "Hail Stan." Mike Mangini has drummed for Dream Theater since 2010, following earlier work with Steve Vai, Extreme, and Annihilator.
+A: Matt Halpern has drummed for Periphery since 2009, helping define the djent movement across albums like "Periphery II" and "Hail Stan." Mike Mangini has drummed for Dream Theater since 2010, following earlier work with Steve Vai, Extreme, and Annihilator.
 
 **Q: Who is more influential as a drum educator, Matt Halpern or Mike Mangini?**
 A: Both are highly regarded drum educators. Matt Halpern built one of the most engaged drum education communities on YouTube, teaching modern djent and polyrhythmic concepts. Mike Mangini taught as a professor at Berklee College of Music before joining Dream Theater, bringing an academic, biomechanically rigorous approach to drum education.

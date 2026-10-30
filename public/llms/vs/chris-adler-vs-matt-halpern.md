@@ -26,7 +26,7 @@ Lamb of God's Chris Adler vs Periphery's Matt Halpern. Groove metal's syncopated
 
 ## Playing Style
 
-Chris Adler co-founded Lamb of God in Richmond, Virginia in 1994 and built groove metal's technical template around syncopated triplet grooves on Grammy-nominated albums including "Ashes of the Wake" (2004), "Sacrament" (2006), and "Wrath" (2009). Matt Halpern has drummed for Periphery since the band's formation, becoming one of the key architects of the djent movement through polyrhythmic complexity, electronic elements, and modern production techniques across albums like "Periphery II," "Juggernaut," and "Hail Stan."
+Chris Adler co-founded Lamb of God in Richmond, Virginia in 1994 and built groove metal's technical template around syncopated triplet grooves on Grammy-nominated albums including "Ashes of the Wake" (2004), "Sacrament" (2006), and "Wrath" (2009). Matt Halpern has drummed for Periphery since joining in 2009, succeeding founding-era drummers Jason S. Berlin and Travis Orbin, and became one of the key architects of the djent movement through polyrhythmic complexity, electronic elements, and modern production techniques across albums like "Periphery II," "Juggernaut," and "Hail Stan."
 
 ## Technique
 
@@ -53,7 +53,7 @@ A: Chris Adler favors tight, syncopated triplet grooves locked to Lamb of God's 
 A: Chris Adler plays a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature snare and Meinl Byzance Series cymbals. Matt Halpern plays a Pearl Reference Series kit with his own Pearl Matt Halpern Signature brass snare and Meinl Byzance Series cymbals — both share a Meinl Byzance cymbal endorsement despite different drum brands.
 
 **Q: What bands are Chris Adler and Matt Halpern known for?**
-A: Chris Adler co-founded Lamb of God in 1994 and recorded Grammy-nominated albums including "Ashes of the Wake" and "Sacrament." Matt Halpern has drummed for Periphery since the band's formation, helping define the djent movement across albums like "Periphery II" and "Hail Stan."
+A: Chris Adler co-founded Lamb of God in 1994 and recorded Grammy-nominated albums including "Ashes of the Wake" and "Sacrament." Matt Halpern has drummed for Periphery since 2009, helping define the djent movement across albums like "Periphery II" and "Hail Stan."
 
 **Q: Who influenced modern djent drumming more, Chris Adler or Matt Halpern?**
 A: Matt Halpern is more directly tied to djent, having helped architect the genre with Periphery and built a major drum education following on YouTube. Chris Adler's influence runs through groove metal and the New Wave of American Heavy Metal rather than djent specifically, though both are cited as key 2000s-2010s metal drumming influences.
@@ -67,4 +67,4 @@ A: Matt Halpern is more directly tied to djent, having helped architect the genr
 
 ---
 
-*Last updated: 2026-10-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*

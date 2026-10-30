@@ -5810,7 +5810,7 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
         content: `Chris Adler was a longtime Mapex Drums endorser and developed signature products with both Mapex and Meinl Cymbals. His setup reflects his groove-focused approach with emphasis on power and precision.
 
 **Signature Setup (Lamb of God Era):**
-- **Drums**: Mapex Black Panther Design Lab
+- **Drums**: Mapex Saturn in Satin Black Maple Burl
 - **Snare**: Mapex Chris Adler Signature 14"x5.5" Walnut/Maple
 - **Cymbals**: Meinl Byzance series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)
 - **Hardware**: Trick Pro 1-V Double Pedal
@@ -5842,7 +5842,7 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
         title: 'Frequently Asked Questions',
         items: [
           { q: 'When was Chris Adler born?', a: 'Chris Adler was born on November 23, 1972, in Washington, D.C., and turns 54 on November 23, 2026.' },
-          { q: 'What drum kit does Chris Adler use?', a: 'Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered Lamb of God\'s rise to one of the most successful American metal bands of the 21st century. Its dry, focused tone anchors his groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath.' },
+          { q: 'What drum kit does Chris Adler use?', a: 'Chris Adler plays a Mapex Saturn in Satin Black Maple Burl drum kit — the configuration that powered Lamb of God\'s rise to one of the most successful American metal bands of the 21st century. Its dry, focused tone anchors his groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath.' },
           { q: 'What drum set does Chris Adler use?', a: 'Chris Adler\'s drum set is built around his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls — driven by a Trick Pro 1-V double pedal and Mapex T865 throne.' },
           { q: 'What cymbals does Chris Adler play?', a: 'Chris Adler plays Meinl Byzance Series cymbals: 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China.' },
           { q: 'What snare does Chris Adler use?', a: 'Chris Adler\'s snare is his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple, a shallow shell built for the precise crack essential to Lamb of God\'s syncopated riff-locking grooves.' },

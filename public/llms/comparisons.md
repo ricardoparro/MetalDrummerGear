@@ -455,7 +455,7 @@ Lamb of God's Art Cruz vs former Slipknot drummer Jay Weinberg. Two modern metal
 A: Art Cruz replaced Chris Adler as Lamb of God's drummer in 2019, after first filling in for Adler on the band's 2018 North American tour supporting Slayer's farewell run. Cruz made his studio debut with the band on their 2020 self-titled album.
 
 **Q: Who replaced Joey Jordison in Slipknot?**
-A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining in December 2013/2014 after Jordison's departure. Weinberg spent nine years (2014–2023) as the band's drummer before departing himself in November 2023, when Eloy Casagrande (ex-Sepultura) took over the drum chair.
+A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining in 2014 after Jordison's departure. Weinberg spent nine years (2014–2023) as the band's drummer before departing himself in November 2023, when Eloy Casagrande (ex-Sepultura) took over the drum chair.
 
 **Q: What gear do Art Cruz and Jay Weinberg use?**
 A: Art Cruz plays Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and Zildjian A Custom cymbals, using a Trick Pro 1-V double pedal. Jay Weinberg played SJC Custom Drums with his signature SJC "The Crucible" 14"x6.5" brass snare and Zildjian cymbals, using a DW 9000 Series double pedal.
@@ -4073,7 +4073,7 @@ Slipknot's Joey Jordison vs Nile's George Kollias. Blast beats, technical death 
 
 Compare Slipknot's legendary drummers. Joey Jordison vs Jay Weinberg - gear, technique, and style analyzed. The Slipknot succession showdown.
 
-**Playing style:** Joey Jordison was a founding member of Slipknot, joining in 1995 and defining the band's chaotic, extreme drumming style across "Slipknot" (1999), "Iowa" (2001), "Vol. 3: The Subliminal Verses" (2004), and "All Hope Is Gone" (2008) — recordings built on blast beats, theatrical intensity, and the visual spectacle of his rotating drum riser. Jay Weinberg, son of E Street Band drummer Max Weinberg, joined Slipknot in December 2013 after Jordison's sudden departure and spent nine years as drummer #1 (2014–2023), bringing a more groove-oriented, precision-first approach while honoring the foundation Jordison built across "Vol. 3," "All Hope Is Gone," and the studio albums that followed.
+**Playing style:** Joey Jordison was a founding member of Slipknot, joining in 1995 and defining the band's chaotic, extreme drumming style across "Slipknot" (1999), "Iowa" (2001), "Vol. 3: The Subliminal Verses" (2004), and "All Hope Is Gone" (2008) — recordings built on blast beats, theatrical intensity, and the visual spectacle of his rotating drum riser. Jay Weinberg, son of E Street Band drummer Max Weinberg, joined Slipknot in 2014 after Jordison's sudden departure and spent nine years as drummer #1 (2014–2023), bringing a more groove-oriented, precision-first approach while honoring the foundation Jordison built across "Vol. 3," "All Hope Is Gone," and the studio albums that followed.
 
 **Technique:** Jordison pioneered the spinning drum platform — a literal stage gimmick that doubled as a feat of physical endurance — and combined extreme nu-metal speed with death metal-influenced blast beats, becoming one of the most technically admired drummers of his generation. Weinberg delivers powerful, precise playing with massive groove and dynamic control, maintaining the demanding multi-percussionist live arrangement Slipknot requires while adding his own explosive intensity. Where Jordison was the architect of Slipknot's rhythmic chaos, Weinberg refined and sustained it across nine years and three studio albums: ".5: The Gray Chapter" (2014), "We Are Not Your Kind" (2019), and "The End, So Far" (2022).
 
@@ -4084,7 +4084,7 @@ Compare Slipknot's legendary drummers. Joey Jordison vs Jay Weinberg - gear, tec
 **Verdict:** The Slipknot succession represents two eras of metal drumming excellence. Joey Jordison was the irreplaceable original who built the rotating-riser, blast-beat-driven template that made Slipknot's drum chair legendary. Jay Weinberg proved worthy of carrying the torch for nearly a decade, honoring Jordison's legacy while delivering his own explosive precision. Both embody what it means to be a Slipknot drummer — and together they answer one of metal's most-asked questions: who replaced Joey Jordison in Slipknot?
 
 **Q: Who replaced Joey Jordison in Slipknot?**
-A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining in December 2013 after Jordison's departure from the band. Weinberg made his studio debut on ".5: The Gray Chapter" (2014) and remained Slipknot's drummer until November 2023, when he departed and subsequently joined Suicidal Tendencies.
+A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining in 2014 after Jordison's departure from the band. Weinberg made his studio debut on ".5: The Gray Chapter" (2014) and remained Slipknot's drummer until November 2023, when he departed and subsequently joined Suicidal Tendencies.
 
 **Q: Why did Joey Jordison leave Slipknot?**
 A: Joey Jordison's December 2013 departure from Slipknot was initially described as a mutual decision, but Jordison later revealed he had been fired while battling transverse myelitis, an autoimmune condition that temporarily left him unable to walk and significantly affected his ability to drum at the level Slipknot required.

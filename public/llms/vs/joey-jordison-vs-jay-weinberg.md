@@ -26,7 +26,7 @@ Compare Slipknot's legendary drummers. Joey Jordison vs Jay Weinberg - gear, tec
 
 ## Playing Style
 
-Joey Jordison was a founding member of Slipknot, joining in 1995 and defining the band's chaotic, extreme drumming style across "Slipknot" (1999), "Iowa" (2001), "Vol. 3: The Subliminal Verses" (2004), and "All Hope Is Gone" (2008) — recordings built on blast beats, theatrical intensity, and the visual spectacle of his rotating drum riser. Jay Weinberg, son of E Street Band drummer Max Weinberg, joined Slipknot in December 2013 after Jordison's sudden departure and spent nine years as drummer #1 (2014–2023), bringing a more groove-oriented, precision-first approach while honoring the foundation Jordison built across "Vol. 3," "All Hope Is Gone," and the studio albums that followed.
+Joey Jordison was a founding member of Slipknot, joining in 1995 and defining the band's chaotic, extreme drumming style across "Slipknot" (1999), "Iowa" (2001), "Vol. 3: The Subliminal Verses" (2004), and "All Hope Is Gone" (2008) — recordings built on blast beats, theatrical intensity, and the visual spectacle of his rotating drum riser. Jay Weinberg, son of E Street Band drummer Max Weinberg, joined Slipknot in 2014 after Jordison's sudden departure and spent nine years as drummer #1 (2014–2023), bringing a more groove-oriented, precision-first approach while honoring the foundation Jordison built across "Vol. 3," "All Hope Is Gone," and the studio albums that followed.
 
 ## Technique
 
@@ -47,7 +47,7 @@ The Slipknot succession represents two eras of metal drumming excellence. Joey J
 ## FAQ
 
 **Q: Who replaced Joey Jordison in Slipknot?**
-A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining in December 2013 after Jordison's departure from the band. Weinberg made his studio debut on ".5: The Gray Chapter" (2014) and remained Slipknot's drummer until November 2023, when he departed and subsequently joined Suicidal Tendencies.
+A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining in 2014 after Jordison's departure from the band. Weinberg made his studio debut on ".5: The Gray Chapter" (2014) and remained Slipknot's drummer until November 2023, when he departed and subsequently joined Suicidal Tendencies.
 
 **Q: Why did Joey Jordison leave Slipknot?**
 A: Joey Jordison's December 2013 departure from Slipknot was initially described as a mutual decision, but Jordison later revealed he had been fired while battling transverse myelitis, an autoimmune condition that temporarily left him unable to walk and significantly affected his ability to drum at the level Slipknot required.

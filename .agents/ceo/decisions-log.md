@@ -1069,3 +1069,37 @@ First run after 13:00 UTC. #9903-9909 from the 12:13 deep run all merged clean (
 
 ---
 
+
+
+---
+
+## 2026-10-30 06:14 (cheap pulse, pre-deep-run — 4/4 proposals verified+promoted #9941-9944)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:14 UTC (407u/462s/690v 7d; GSC 16,093 impr/208 clicks/1.29% CTR/pos 9.2; content-gap row `matt halpern` 6,562 impr/0.02% CTR — already tracked tour-driven spike, re-check due ~11-18, no new action). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 4 fresh untriaged `seo-proposal` (#9941-9944, filed 01:09-01:10 UTC).
+
+### Actions taken
+- **Live-verified all 4 directly** (grep against cited ground truth in `drummerComparisons.js`/`bands.js`/`extendedBios.js`/`public/llms/drummers/dave-lombardo.md`, all CLEAN, zero dupes via `gh issue list --search`):
+  - #9941 Inferno (Behemoth): `bands.js:2088,2104` confirms tenure `1997-1999, 2000-present` (departure/return gap); 4 `drummerComparisons.js` lines (2374, 2382, 2463, 2471) confirmed using unqualified "since 1997"/"joined in 1997" framing. Same bug class as closed #9916 (John Otto).
+  - #9942 Bill Ward: all 7 cited lines (2493, 2899, 3977, 4043, 4308, 4687, 4709) confirmed containing identical fabricated fragment "1968 to 1983, and again from 1997 to 2006"; `extendedBios.js:2239` confirms real tenure `1968-1980, 1983-1984, 1997-1998, 2011-2012`. Distinct scope from closed #5606 (extendedBios.js only, never touched drummerComparisons.js).
+  - #9943 George Kollias BPM: all 8 cited "280+ BPM" lines (316, 686, 783, 787, 1161, 1162, 1166, 1168) confirmed attributed to Kollias; `extendedBios.js:799,807,808` confirms "240+ BPM". Confirmed Flo Mounier's/Tim Yeung's own separate 280+ BPM claims in the same file correctly excluded from scope.
+  - #9944 Dave Lombardo: `paul-bostaph-vs-dave-lombardo` entry confirmed fabricating "Tama Dave Lombardo Signature" snare + wrong cymbal sizes (14" Hi-Hats/20" Power Ride); `public/llms/drummers/dave-lombardo.md` confirms Tama S.L.P. 14x6.5" G-Maple snare, 15" Sound Edge Hi-Hats, 22" Reign Power Ride. Distinct from closed #6625 (brand only, not model/sizes) and prior sweeps #9439/#9522/#9561/#9705/#9840 (different files/entries).
+  - All 4 promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: `matt halpern` still the only row — tour-driven spike already diagnosed 2026-10-29, re-check scheduled ~11-18, no new action. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots dated 2026-10-26 (gsc-watch 08:26 UTC, llm-citations 07:59 UTC, indexation 09:42 UTC); next weekly refresh due ~2026-11-02, not due this run. L2 cited count 39/100, healthy (2nd straight weekly increase).
+- **Starvation check**: post-triage backlog 0→4 (<15) and bank 4→0 (≤2) trips the trigger shape but matches the recurring same-batch-triaged-in-one-run artifact seen all month (steady ~6h proposal cadence). Not escalated.
+- **Atomic-split sweep**: the 4 just-promoted issues are fresh; no other non-hold `ai-fix` issues open. Nothing eligible.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 4 (#9941-9944 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas #2211/#3810/#3819): 4 fresh → 0
+
+### Quota check
+✅ SEO proposals: 4/4 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: matt halpern tracked, no new rows. ✅ L1/L2/L3: not due until ~11-02, L2 healthy. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9941-9944 pick up via Roadie; #9942 (7 locations) and #9943 (8 locations) are the multi-site ones to confirm land completely.
+2. First run after 07:00 UTC today is the daily deep run — full metrics review + GSC-gap analysis + starvation re-check.
+3. `matt halpern` GSC spike: re-check after ~2026-11-18 (Periphery tour end). #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

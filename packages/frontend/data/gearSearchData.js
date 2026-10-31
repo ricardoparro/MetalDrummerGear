@@ -48,6 +48,7 @@ export const GEAR_DATABASE = {
     { id: 'ludwig-black-beauty', name: 'Ludwig Black Beauty 14x6.5"', brand: 'ludwig', category: 'snare', tier: 'pro', price: 900, keywords: ['black', 'beauty', 'ludwig', 'brass'] },
     { id: 'ludwig-supraphonic', name: 'Ludwig Supraphonic 14x6.5"', brand: 'ludwig', category: 'snare', tier: 'pro', price: 600, keywords: ['supraphonic', 'ludwig', 'chrome'] },
     { id: 'dw-collectors-snare', name: "DW Collector's Maple Snare 14x6\"", brand: 'dw', category: 'snare', tier: 'pro', price: 700, keywords: ['collectors', 'maple', 'dw'] },
+    { id: 'ddrum-vinnie-paul-snare', name: 'ddrum Vinnie Paul Signature 14x8"', brand: 'ddrum', category: 'snare', tier: 'mid', price: 350, keywords: ['vinnie', 'paul', 'signature', 'ddrum'] },
   ],
   cymbals: [
     { id: 'zildjian-a-custom', name: 'Zildjian A Custom Series', brand: 'zildjian', category: 'cymbals', tier: 'pro', price: 2200, keywords: ['a custom', 'zildjian', 'brilliant'] },
@@ -175,7 +176,7 @@ export const DRUMMER_GEAR = {
   },
   'vinnie-paul': {
     drums: ['ddrum-vinnie'],
-    snare: ['tama-slp'],
+    snare: ['ddrum-vinnie-paul-snare'],
     cymbals: ['sabian-aax'],
     hardware: ['ddrum-hardware'],
     sticks: ['vicfirth-5b'],

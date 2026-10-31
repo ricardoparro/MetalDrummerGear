@@ -512,7 +512,7 @@ The Paiste Giant Beat Multi Gong remains in production today, played by symphoni
         {
           drummer: 'Mario Duplantier',
           drummerSlug: 'mario-duplantier',
-          snare: 'Tama Starphonic Bronze Snare',
+          snare: 'Tama S.L.P. G-Maple Snare',
           note: 'Another progressive metal drummer known for rich, textural drumming',
         },
       ],
@@ -578,13 +578,13 @@ The Paiste Giant Beat Multi Gong remains in production today, played by symphoni
   },
 
   // ==========================================
-  // #4 PRIORITY: Mario Duplantier's Tama Starphonic Bronze Snare
+  // #4 PRIORITY: Mario Duplantier's Tama S.L.P. G-Maple Snare
   // ==========================================
   'mario-duplantier-tama-starphonic-bronze': {
     slug: 'mario-duplantier-tama-starphonic-bronze',
-    name: 'Tama Starphonic Bronze Snare',
-    fullName: 'Tama Starphonic Bronze Snare 14x5"',
-    model: 'Tama Starphonic SBR145',
+    name: 'Tama S.L.P. G-Maple Snare',
+    fullName: 'Tama S.L.P. G-Maple Snare 14x6.5"',
+    model: 'Tama S.L.P. G-Maple',
     drummerId: 15,
     drummerName: 'Mario Duplantier',
     drummerSlug: 'mario-duplantier',
@@ -594,27 +594,27 @@ The Paiste Giant Beat Multi Gong remains in production today, played by symphoni
 
     hero: {
       tagline: 'Gojira\'s Percussive Edge',
-      subtitle: 'The cutting bronze snare that drives Gojira\'s crushing progressive death metal',
+      subtitle: 'The maple-shell snare that drives Gojira\'s crushing progressive death metal',
       heroImage: 'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg',
       badgeText: 'Signature Setup',
     },
 
     story: {
       title: 'The Snare Behind the Riff',
-      content: `Mario Duplantier is widely recognized as one of the most complete drummers in modern metal — a player whose technique, power, and musical intelligence have helped make Gojira one of the most critically acclaimed heavy bands of the 21st century. Central to his sound is his relationship with Tama drums, and the Starphonic Bronze snare is the cutting edge of that setup.
+      content: `Mario Duplantier is widely recognized as one of the most complete drummers in modern metal — a player whose technique, power, and musical intelligence have helped make Gojira one of the most critically acclaimed heavy bands of the 21st century. Central to his sound is his relationship with Tama drums, and the S.L.P. G-Maple snare is the centerpiece of that setup.
 
-Tama's Starphonic series was designed as a premium single-ply, single-material snare range — each drum built from one type of shell for maximum tonal purity. The Bronze version uses a 1.2mm spun bronze shell that delivers a character distinct from steel or brass: harder and brighter than brass but with a warmer low-end body than steel. The result is a snare with exceptional projection, a crisp crack that cuts through dense guitar tones, and enough body to remain musical at low dynamics.
+Tama's S.L.P. (Sound Lab Project) series was built to let drummers isolate a single shell material and finish combination for a specific tonal goal. The G-Maple model uses a gloss-lacquered maple shell that delivers a warm, full-bodied fundamental with a smooth, rounded top end — distinct from the brighter, more metallic attack of steel or bronze snares. The result is a drum with a deep, woody crack that holds its own against dense, down-tuned guitars without turning brittle or harsh.
 
-Mario Duplantier's drumming style demands exactly this profile. Gojira's music operates across a wide dynamic range — from nearly whispered passages to walls of down-tuned guitar — and the snare needs to be audible and articulate at every level. The Starphonic Bronze delivers where lesser drums smear into the mix.
+Mario Duplantier's drumming style demands exactly this profile. Gojira's music operates across a wide dynamic range — from nearly whispered passages to walls of down-tuned guitar — and the snare needs to be audible and articulate at every level. The G-Maple's full-bodied voice holds together where thinner-sounding drums get lost in the mix.
 
 The Gojira Drum Room:
-Mario has contributed significantly to Gojira's recording sessions as both drummer and producer, often working alongside his brother and guitarist Joe Duplantier. This insider knowledge of the recording process means Mario understands exactly what his snare needs to do on tape: cut, sustain at the correct length, and trigger clearly in the transient register. The Starphonic Bronze's single-ply construction minimizes internal reflections, producing a fast, clean transient that is easy to compress and eq without smearing.
+Mario has contributed significantly to Gojira's recording sessions as both drummer and producer, often working alongside his brother and guitarist Joe Duplantier. This insider knowledge of the recording process means Mario understands exactly what his snare needs to do on tape: cut, sustain at the correct length, and trigger clearly in the transient register. The G-Maple's all-maple construction gives it a controlled, musical decay that sits well under heavy compression without smearing.
 
 On Magma (2016), considered by many to be Gojira's most polished production, the snare sits front and center in the mix. "Stranded" — the album's breakout track and a song that introduced Gojira to a mainstream audience — showcases the snare's combination of crack and warmth. The backbeat hits with authority without sounding thin or brittle. On L'Enfant Sauvage (2012), the title track opens with one of metal's most recognizable drum intros: a series of powerful, perfectly placed snare hits that set the tempo and tone for the entire album.
 
-Mario's technique amplifies the drum's natural character. He plays with significant power and accuracy, generating consistent attack velocity that allows the bronze shell's full character to emerge. His use of rimshots is selective and precise — rather than hitting the rim on every backbeat, he uses the technique for emphasis, creating a dynamic contrast that makes every rimshot feel earned.
+Mario's technique amplifies the drum's natural character. He plays with significant power and accuracy, generating consistent attack velocity that allows the maple shell's full character to emerge. His use of rimshots is selective and precise — rather than hitting the rim on every backbeat, he uses the technique for emphasis, creating a dynamic contrast that makes every rimshot feel earned.
 
-The Tama Starphonic Bronze Snare is not the most common snare choice in extreme metal, which is precisely what makes it interesting. In an environment dominated by steel and aluminum, the bronze voice cuts from a different frequency pocket — and in Mario Duplantier's hands, that difference defines a generation of progressive death metal drumming.`,
+The Tama S.L.P. G-Maple Snare is a deep cut for a progressive death metal setup, where steel and aluminum tend to dominate. In Mario Duplantier's hands, the maple shell's warmer, rounder voice carves out its own frequency pocket — and that difference defines a generation of progressive death metal drumming.`,
       images: [
         { src: 'https://upload.wikimedia.org/wikipedia/commons/8/83/2017_RiP_-_Gojira_-_Mario_Duplantier_-_by_2eight_-_8SC9168.jpg', alt: 'Mario Duplantier in the studio with his Tama setup', caption: 'Mario Duplantier recording with Gojira' },
       ],
@@ -624,15 +624,15 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
       title: 'Technical Specifications',
       dimensions: {
         diameter: '14"',
-        depth: '5"',
-        shell: '1.2mm Spun Bronze',
-        finish: 'Natural Bronze',
+        depth: '6.5"',
+        shell: 'Maple',
+        finish: 'Gloss Lacquer',
       },
       features: [
         {
           name: 'Shell Material',
-          value: 'Single-ply Spun Bronze',
-          description: 'Pure bronze shell for maximum tonal purity and a bright, cutting voice',
+          value: 'All-Maple',
+          description: 'Maple shell for a warm, full-bodied fundamental with a smooth top end',
         },
         {
           name: 'Diameter',
@@ -641,17 +641,17 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
         },
         {
           name: 'Depth',
-          value: '5 inches',
-          description: 'Shallower depth for a faster, more focused response compared to deeper snares',
+          value: '6.5 inches',
+          description: 'Deeper shell for added low-end body and a fuller backbeat',
         },
         {
           name: 'Hoops',
-          value: '2.3mm Triple-flanged',
+          value: 'Triple-flanged steel',
           description: 'Triple-flanged steel hoops for sensitive snare response and consistent rimshot tone',
         },
         {
           name: 'Snare Wires',
-          value: '20-strand steel',
+          value: 'Multi-strand steel',
           description: 'Tight response across the full dynamic range',
         },
         {
@@ -662,15 +662,15 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
       ],
       tuningTips: [
         'Mario tunes the batter head medium-high for articulate attack without excessive ring',
-        'The bronze shell rewards slightly higher tension than steel — experiment above your usual range',
-        'A single moon gel or piece of tape near the edge tames the bronze overtone character for recording',
-        'For the Gojira live sound, minimal dampening and higher tension are the key',
+        'The maple shell rewards a slightly longer sustain setting than steel — let the fundamental breathe before dampening',
+        'A single moon gel or piece of tape near the edge tames the maple\'s overtone character for recording',
+        'For the Gojira live sound, moderate dampening and medium-high tension are the key',
       ],
     },
 
     sound: {
       title: 'Hear It In Action',
-      description: 'Mario Duplantier\'s snare work is inseparable from Gojira\'s sound. These videos capture his technique and the Tama bronze snare\'s cutting character.',
+      description: 'Mario Duplantier\'s snare work is inseparable from Gojira\'s sound. These videos capture his technique and the Tama maple snare\'s full-bodied character.',
       videos: [
         {
           youtubeId: 'R2zTNT2YPZE',
@@ -693,21 +693,21 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
 
     affiliate: {
       title: 'Get This Gear',
-      description: 'The Tama Starphonic Bronze is a premium single-ply snare available from authorized Tama dealers worldwide.',
+      description: 'The Tama S.L.P. G-Maple is a premium all-maple snare available from authorized Tama dealers worldwide.',
       currentPrice: {
-        range: '$350-500',
+        range: '$300-450',
         note: 'Price varies by retailer and current availability',
       },
       alternatives: [
         {
-          name: 'Tama Starphonic Steel 14x6.5"',
-          price: '$300-400',
-          reason: 'Brighter, more cutting — slightly more aggressive attack character',
+          name: 'Tama Superstar Maple 14x6.5"',
+          price: '$250-350',
+          reason: 'Similar all-maple shell philosophy at a more accessible price point',
         },
         {
-          name: 'Tama S.L.P. Sonic Steel 14x5"',
-          price: '$350-450',
-          reason: 'Similar single-ply philosophy from Tama\'s premium range',
+          name: 'Pearl Masters Maple Complete 14x6.5"',
+          price: '$300-400',
+          reason: 'Comparable warm, full-bodied maple voice from a different manufacturer',
         },
       ],
       retailers: [
@@ -716,9 +716,9 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
         { name: 'Guitar Center', url: 'https://www.guitarcenter.com', logo: '/images/retailers/guitarcenter.svg' },
       ],
       usedMarket: {
-        note: 'Starphonic drums hold value well and are occasionally found used from retiring players',
-        priceRange: '$200-350',
-        tips: 'Check the bearing edges closely — single-ply shells are more susceptible to dents. Inspect the seam weld on bronze models.',
+        note: 'S.L.P. snares hold value well and are occasionally found used from retiring players',
+        priceRange: '$200-300',
+        tips: 'Check the bearing edges and shell seams closely for cracks, and verify the snare wire strainer mechanism moves cleanly.',
       },
     },
 
@@ -759,18 +759,18 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
       title: 'Similar Gear You Might Like',
       items: [
         {
-          name: 'Tama Starphonic Steel 14x5"',
-          slug: 'tama-starphonic-steel',
+          name: 'Tama Superstar Maple 14x6.5"',
+          slug: 'tama-superstar-maple',
           image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg',
-          price: '$280-380',
-          reason: 'Same Starphonic series — brighter, more cutting attack character',
+          price: '$250-350',
+          reason: 'Same all-maple philosophy from Tama at a more accessible price',
         },
         {
-          name: 'Pearl Sensitone Premium Brass 14x5"',
-          slug: 'pearl-sensitone-premium-brass',
+          name: 'Pearl Masters Maple Complete 14x6.5"',
+          slug: 'pearl-masters-maple-complete',
           image: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Pearl_MCX_snare_drum.JPG',
           price: '$300-400',
-          reason: 'Warm brass character at a competitive price',
+          reason: 'Comparable warm, full-bodied maple character at a competitive price',
         },
       ],
       drummerAlternatives: [
@@ -791,16 +791,16 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
 
     faq: [
       {
-        question: 'What makes the Tama Starphonic Bronze different from other metal snares?',
-        answer: 'The Starphonic Bronze uses a single-ply spun bronze shell rather than the multi-ply wood or steel constructions common in metal drumming. This single-ply approach eliminates internal reflections between shell layers, producing a faster, cleaner transient. Bronze sits between brass (warmer, less bright) and steel (brighter, less warm) in the tonal spectrum — delivering cutting attack with enough body to remain musical at low dynamics. For progressive metal like Gojira, this balance is exactly right.',
+        question: 'What makes the Tama S.L.P. G-Maple different from other metal snares?',
+        answer: 'The S.L.P. G-Maple uses an all-maple shell with a gloss lacquer finish rather than the steel or brass constructions common in metal drumming. The all-maple build produces a warm, full-bodied fundamental with a smooth, rounded top end instead of the brighter, more metallic attack of steel or bronze snares. For progressive metal like Gojira, that extra body helps the snare hold together against dense, down-tuned guitars without sounding brittle.',
       },
       {
         question: 'How does Mario Duplantier tune his snare for Gojira\'s dense mix?',
-        answer: 'Mario typically tunes the batter head at medium-to-high tension, allowing the snare\'s natural crack to project above Gojira\'s down-tuned, dense guitar tones. He uses minimal dampening — the bronze shell\'s overtone character is part of the sound rather than something to suppress. For recording, a single piece of tape near the rim is sometimes used to control the longest overtones without killing the drum\'s resonance.',
+        answer: 'Mario typically tunes the batter head at medium-to-high tension, allowing the snare\'s natural crack to project above Gojira\'s down-tuned, dense guitar tones. He uses moderate dampening — the maple shell\'s warm overtone character is part of the sound rather than something to fully suppress. For recording, a single piece of tape near the rim is sometimes used to control the longest overtones without killing the drum\'s resonance.',
       },
       {
-        question: 'Is the Tama Starphonic Bronze suitable for beginners?',
-        answer: 'The Starphonic Bronze is a professional-grade instrument best suited to intermediate and advanced players who already understand snare tuning and head selection. Its single-ply construction is less forgiving of imprecise head tension and bearing edge contact than multi-ply shells, which are more tolerant of suboptimal tuning. That said, it is an extraordinary learning tool for developing ears — the bronze\'s clear voice makes tuning changes very audible, accelerating your ear training.',
+        question: 'Is the Tama S.L.P. G-Maple suitable for beginners?',
+        answer: 'The S.L.P. G-Maple is a professional-grade instrument best suited to intermediate and advanced players who already understand snare tuning and head selection. Its all-maple construction rewards careful head tension and bearing edge contact more than beginner-oriented shells. That said, it is an extraordinary learning tool for developing ears — the maple\'s clear, warm voice makes tuning changes very audible, accelerating your ear training.',
       },
       {
         question: 'What drumheads does Mario Duplantier use on his snare?',
@@ -812,22 +812,22 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
       title: 'Join the Discussion',
       topics: [
         'How do you tune your snare for dense, down-tuned guitar mixes?',
-        'Bronze vs. steel snares — which do you prefer for metal?',
+        'Maple vs. steel snares — which do you prefer for metal?',
         'Share your favorite Mario Duplantier snare moment',
       ],
       relatedDrummers: [15, 14, 7],
     },
 
     seo: {
-      title: 'Mario Duplantier Tama Starphonic Bronze Snare — Gojira\'s Drum Sound | MetalForge',
-      description: 'Discover the Tama Starphonic Bronze snare behind Gojira\'s crushing sound. Full specs, Mario Duplantier story, videos, and buying guide.',
+      title: 'Mario Duplantier Tama S.L.P. G-Maple Snare — Gojira\'s Drum Sound | MetalForge',
+      description: 'Discover the Tama S.L.P. G-Maple snare behind Gojira\'s crushing sound. Full specs, Mario Duplantier story, videos, and buying guide.',
       keywords: [
         'mario duplantier tama snare',
         'gojira drummer snare',
-        'tama starphonic bronze',
+        'tama slp g-maple',
         'mario duplantier drum gear',
         'gojira drum setup',
-        'tama starphonic sbr145',
+        'tama slp g-maple snare',
         'progressive metal snare',
         'mario duplantier drums',
       ],
@@ -837,7 +837,7 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
     schema: {
       type: 'Product',
       brand: 'Tama',
-      model: 'Starphonic Bronze SBR145',
+      model: 'S.L.P. G-Maple',
       category: 'Musical Instruments > Drums > Snare Drums',
     },
 
@@ -1577,7 +1577,7 @@ More than two decades after its introduction, the Sonor Tomas Haake Signature sn
         {
           drummer: 'Mario Duplantier',
           drummerSlug: 'mario-duplantier',
-          snare: 'Tama Starphonic Bronze Snare',
+          snare: 'Tama S.L.P. G-Maple Snare',
           note: 'Fellow progressive metal drummer solving the same dense-mix clarity problem with a different shell material',
         },
         {

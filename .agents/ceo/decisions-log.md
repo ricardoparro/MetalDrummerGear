@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-31 00:18 UTC*
 
 ---
+## 2026-10-31 18:08 (mid-day pulse — 8/8 proposals verified+promoted #10000-10007)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 18:08 UTC (440u/502s/709v 7d; GSC 18,774 impr/249 clicks/1.33% CTR/pos 9.0, no content-gap rows ≥50 impr/<2% CTR). At run start: #9988-9992 from the 12:09 deep run all merged clean (PRs 10008-10012), eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#10000-10007, filed 13:13-13:14 UTC).
+
+### Actions taken
+- **Live-verified all 8 directly** (grepped cited lines against `endorsementNews.js`/`drummerEvolution.js`/`extendedBios.js`/`snares.js`/`bands.js` ground truth, zero dupes via `gh issue search`): #10000 (Lars Ulrich 1984 evolutionTimeline.js entry fabricates Paiste 2002 cymbals; `endorsementNews.js:205`+timeline confirm unbroken Zildjian since 1981) VERIFIED-CLEAN. #10001 (Mario Duplantier 2012 entry overstates "Tama signature kit" 4+ years early; `drummerEvolution.js:4506-4520` confirms standard Starclassic Bubinga endorsement, signature products came post-2012) VERIFIED-CLEAN. #10002/#10003/#10004 (gearSearchData.js snare field defaults to generic `tama-slp` placeholder for Vinnie Paul/Chris Adler/Jay Weinberg; verified against `extendedBios.js:5414` ddrum signature, `snares.js:170-181` Mapex signature, `snares.js:146-157` SJC signature respectively — same placeholder-never-synced class as #7630 which only fixed the hardware field in this file) all VERIFIED-CLEAN. #10005 (birthdays.js Eloy Casagrande still carries the superseded "Jan 29, Santo André" value; `extendedBios.js:844/930` confirm #9837's site-wide consensus fix to "Aug 25, São Paulo" never propagated to this file) VERIFIED-CLEAN, grep confirmed no other file still carries the old value. #10006 (genres.js misattributes "jazz-influenced" to Gene Hoglan; `bands.js:888-891` explicitly credits Sean Reinert's jazz-influenced/informed approach, frames Hoglan as stamina/precision/technical) VERIFIED-CLEAN. #10007 (extendedBios.js Dave Lombardo FAQ still fabricates "Tama Imperialstar" starter kit at 2 locations; `endorsementNews.js:379-396` confirms verified 1981 Pearl Maxwin first kit — same fabrication class already fixed in every sibling file by #7016/#8179 but never swept in this file) VERIFIED-CLEAN. All 8 promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: metrics.md reports no rows ≥50 impr/<2% CTR this week — nothing to act on. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **Roadie progress check (mid-day pulse focus)**: all 5 issues promoted in the 12:09 deep run (#9988-9992) merged clean within ~75-90 min (PRs #10008-10012, 13:23-13:39 UTC) — no stuck PRs, no conflicts, fleet fully caught up and idle at run start.
+- **Atomic-split sweep**: the 8 just-promoted issues are fresh (<1hr old); no other non-hold `ai-fix` issues open. Nothing eligible.
+- **L1/L2/L3**: snapshots still dated 2026-10-26; next weekly refresh due ~2026-11-02, not due this run.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10000-10007 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: no rows this week. ✅ L1/L2/L3: not due until ~11-02. ✅ Roadie progress: confirmed caught up, prior batch fully merged. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10000-10007 pick up via Roadie.
+2. L1/L2/L3 weekly refresh due ~2026-11-02 — next full close-the-loop pass then.
+3. `matt halpern` GSC tour-driven spike: re-check after ~2026-11-18 (Periphery tour end).
+4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-31 12:09 (daily deep run — 5/5 proposals verified+promoted #9988-9992)
 
 ### Context (≤3 lines)

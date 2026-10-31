@@ -107,7 +107,7 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 | [Mikkey Dee](https://metalforge.io/pedals/setups/mikkey-dee) | Scorpions / Motörhead | DW 5000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/mikkey-dee.md) |
 | [Morgan Ågren](https://metalforge.io/pedals/setups/morgan-agren) | Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects | Sonor Giant Step | [Markdown](https://metalforge.io/llms/pedals/setups/morgan-agren.md) |
 | [Navene Koperweis](https://metalforge.io/pedals/setups/navene-koperweis) | Entheos / ex-Animals as Leaders | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/navene-koperweis.md) |
-| [Nick Menza](https://metalforge.io/pedals/setups/nick-menza) | Megadeth | DW 5000 | [Markdown](https://metalforge.io/llms/pedals/setups/nick-menza.md) |
+| [Nick Menza](https://metalforge.io/pedals/setups/nick-menza) | Megadeth | Tama Iron Cobra Double Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/nick-menza.md) |
 | [Nicko McBrain](https://metalforge.io/pedals/setups/nicko-mcbrain) | Iron Maiden | Single Bass Drum Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/nicko-mcbrain.md) |
 | [Paul Bostaph](https://metalforge.io/pedals/setups/paul-bostaph) | Slayer | Pearl Eliminator | [Markdown](https://metalforge.io/llms/pedals/setups/paul-bostaph.md) |
 | [Paul Mazurkiewicz](https://metalforge.io/pedals/setups/paul-mazurkiewicz) | Cannibal Corpse | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/paul-mazurkiewicz.md) |
@@ -127,4 +127,4 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 - [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-10-30 · 55 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-31 · 55 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*

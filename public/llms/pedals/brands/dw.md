@@ -15,7 +15,7 @@
 - **5000 (Series):** Chain drive — DW's original 1979 pedal design, an industry benchmark still used on the verified roster (Raymond Herrera, Sean Reinert, Nick Menza).
 - **MDD (Machined Direct Drive):** Direct drive — DW's zero-slack, cam-less pedal for players who want DW build quality without chain flex.
 
-## Confirmed Metal Drummers (13)
+## Confirmed Metal Drummers (12)
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
@@ -26,7 +26,6 @@
 | [Matt Greiner](https://metalforge.io/pedals/setups/matt-greiner) | August Burns Red | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/matt-greiner.md) |
 | [Mikkey Dee](https://metalforge.io/pedals/setups/mikkey-dee) | Scorpions / Motörhead | DW 5000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/mikkey-dee.md) |
 | [Navene Koperweis](https://metalforge.io/pedals/setups/navene-koperweis) | Entheos / ex-Animals as Leaders | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/navene-koperweis.md) |
-| [Nick Menza](https://metalforge.io/pedals/setups/nick-menza) | Megadeth | DW 5000 | [Markdown](https://metalforge.io/llms/pedals/setups/nick-menza.md) |
 | [Raymond Herrera](https://metalforge.io/pedals/setups/raymond-herrera) | Fear Factory / Arkaea / Brujeria | DW 5000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/raymond-herrera.md) |
 | [Scott Travis](https://metalforge.io/pedals/setups/scott-travis) | Judas Priest | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/scott-travis.md) |
 | [Sean Reinert](https://metalforge.io/pedals/setups/sean-reinert) | Death / Cynic | DW 9000 Double Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/sean-reinert.md) |
@@ -50,4 +49,4 @@ Source: [DW — The DW Story](https://dwdrums.com/the-dw-story/).
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-31 · Source: [MetalForge.io](https://metalforge.io)*

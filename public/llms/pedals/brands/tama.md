@@ -15,7 +15,7 @@
 - **Speed Cobra:** Chain drive with an extended longboard footboard, trading a touch of raw power for less foot strength per stroke — built for fast footwork and heel-toe technique.
 - **Dyna-Sync:** Tama's direct-drive pedal, connecting footboard to beater with a rigid rod for the zero-slack feel extreme-metal specialists reach for.
 
-## Confirmed Metal Drummers (15)
+## Confirmed Metal Drummers (16)
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
@@ -32,6 +32,7 @@
 | [Lars Ulrich](https://metalforge.io/pedals/setups/lars-ulrich) | Metallica | Tama Iron Cobra 900 Power Glide | [Markdown](https://metalforge.io/llms/pedals/setups/lars-ulrich.md) |
 | [Mario Duplantier](https://metalforge.io/pedals/setups/mario-duplantier) | Gojira | Tama Iron Cobra 900 Power Glide | [Markdown](https://metalforge.io/llms/pedals/setups/mario-duplantier.md) |
 | [Matt Garstka](https://metalforge.io/pedals/setups/matt-garstka) | Animals as Leaders | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/matt-garstka.md) |
+| [Nick Menza](https://metalforge.io/pedals/setups/nick-menza) | Megadeth | Tama Iron Cobra Double Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/nick-menza.md) |
 | [Tim Yeung](https://metalforge.io/pedals/setups/tim-yeung) | Morbid Angel / Hate Eternal / Vital Remains | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/tim-yeung.md) |
 | [Tomas Haake](https://metalforge.io/pedals/setups/tomas-haake) | Meshuggah | Tama Speed Cobra | [Markdown](https://metalforge.io/llms/pedals/setups/tomas-haake.md) |
 
@@ -52,4 +53,4 @@ Source: [Tama — official site](https://www.tama.com).
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-31 · Source: [MetalForge.io](https://metalforge.io)*

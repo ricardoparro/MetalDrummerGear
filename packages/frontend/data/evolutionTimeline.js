@@ -746,7 +746,7 @@ export const EVOLUTION_TIMELINE = [
     album: 'L\'Enfant Sauvage',
     type: TIMELINE_EVENT_TYPES.ALBUM_RELEASE,
     subgenre: METAL_SUBGENRES.PROGRESSIVE,
-    gearNotes: 'Tama signature kit, sustainable practice emphasis',
+    gearNotes: 'Tama Starclassic Bubinga, sustainable practice emphasis',
     significance: 'Brought progressive metal drumming to Grammy-level recognition',
     videoEmbed: null,
     image: '/images/drummers/mario-duplantier.webp',

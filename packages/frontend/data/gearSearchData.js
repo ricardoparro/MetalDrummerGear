@@ -49,6 +49,7 @@ export const GEAR_DATABASE = {
     { id: 'ludwig-supraphonic', name: 'Ludwig Supraphonic 14x6.5"', brand: 'ludwig', category: 'snare', tier: 'pro', price: 600, keywords: ['supraphonic', 'ludwig', 'chrome'] },
     { id: 'dw-collectors-snare', name: "DW Collector's Maple Snare 14x6\"", brand: 'dw', category: 'snare', tier: 'pro', price: 700, keywords: ['collectors', 'maple', 'dw'] },
     { id: 'mapex-chris-adler-snare', name: 'Mapex Chris Adler Signature Walnut/Maple 14x5.5"', brand: 'mapex', category: 'snare', tier: 'pro', price: 600, keywords: ['chris', 'adler', 'signature', 'walnut', 'maple', 'mapex'] },
+    { id: 'sjc-jay-weinberg-snare', name: 'SJC Jay Weinberg "The Crucible" 48-ply Brass 14x6.5"', brand: 'SJC', category: 'snare', tier: 'pro', price: 650, keywords: ['sjc', 'jay', 'weinberg', 'crucible', 'brass', 'signature'] },
   ],
   cymbals: [
     { id: 'zildjian-a-custom', name: 'Zildjian A Custom Series', brand: 'zildjian', category: 'cymbals', tier: 'pro', price: 2200, keywords: ['a custom', 'zildjian', 'brilliant'] },
@@ -169,7 +170,7 @@ export const DRUMMER_GEAR = {
   },
   'jay-weinberg': {
     drums: ['sjc-custom'],
-    snare: ['tama-slp'],
+    snare: ['sjc-jay-weinberg-snare'],
     cymbals: ['zildjian-k-custom'],
     hardware: ['dw-9000'],
     sticks: ['vater-5a'],

@@ -654,7 +654,7 @@ Both companies have earned their place on the world's biggest stages. You can't 
           hoops: 'Die-Cast',
           hardware: 'TAR mount',
         },
-        usedBy: ['Tomas Haake', 'Danny Carey'],
+        usedBy: ['Tomas Haake'],
         bestFor: 'Progressive metal, studio work',
         rating: 4.9,
       },

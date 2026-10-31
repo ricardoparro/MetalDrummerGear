@@ -1125,7 +1125,7 @@ Pearl's Reference Pure remains the flagship of their acoustic drum line. It is c
 
     story: {
       title: 'Built to Outlast the Fastest Feet in Thrash',
-      content: `Dave Lombardo's stick choice has always tracked the physical demands of the music he was playing. His gear timeline tells the story plainly: Pro-Mark 5A during Slayer's earliest club years (1981-1986), a heavier Promark 2B once "Reign in Blood" (1986) pushed tempos past 220 BPM, and finally his own Promark Dave Lombardo Signature model once the workload of touring behind that album — and its follow-ups "South of Heaven" and "Seasons in the Abyss" — made a standard 2B feel too fragile for the job. The current 2Bx iteration, adopted for Slayer's 2001-2013 reunion era and carried into his post-Slayer work with Dead Cross, Mr. Bungle, and Suicidal Tendencies, is the heaviest and most durable version yet.
+      content: `Dave Lombardo's stick choice has always tracked the physical demands of the music he was playing. His gear timeline tells the story plainly: an undocumented stick brand during Slayer's earliest club years (1981-1986), a switch to Pro-Mark 747 oak sticks once "Reign in Blood" (1986) pushed tempos past 220 BPM, and finally his own Promark Dave Lombardo Signature 2Bx, which arrived alongside his move to Tama and Paiste for Slayer's 2001-2013 reunion era and has carried into his post-Slayer work with Dead Cross, Mr. Bungle, and Suicidal Tendencies.
 
 "Speed is nothing without control. You have to be able to play fast and tight at the same time," Lombardo said in a 2006 Modern Drummer Magazine interview — a line that doubles as the design brief for his signature stick. A 2B-weight stick gives a drummer more mass to work with than a standard 5A or 5B, which means more rebound and more volume per stroke without extra effort. That matters enormously at the tempos Lombardo helped invent: when a snare hit has to land cleanly at sixteenth notes above 200 BPM for an entire set, a thinner stick's tip simply wears out faster, and a lighter stick forces the player to work harder to get the same volume. The 2Bx spec — a heavier oval tip and an extra-long taper relative to a stock 2B — was built specifically to survive that kind of night-after-night abuse while still allowing the fast, precise rebound his technique depends on.
 
@@ -1321,7 +1321,7 @@ Nearly four decades after "Reign in Blood," the Promark Dave Lombardo Signature 
       },
       {
         question: 'Did Dave Lombardo always use the 2Bx?',
-        answer: 'No. His stick choice evolved with the demands of the music: Pro-Mark 5A during early Slayer (1981-1986), a standard Promark 2B once "Reign in Blood" pushed tempos higher, his own Promark Dave Lombardo Signature model after his first Slayer departure, and finally the heavier 2Bx spec that has carried through Slayer\'s 2001-2013 reunion era and his subsequent work with Dead Cross, Mr. Bungle, and Suicidal Tendencies.',
+        answer: 'No. His stick choice evolved with the demands of the music: an undocumented brand during early Slayer (1981-1986), Pro-Mark 747 oak sticks once "Reign in Blood" pushed tempos higher, and finally his own Promark Dave Lombardo Signature 2Bx, which arrived with his move to Tama and Paiste for Slayer\'s 2001-2013 reunion era and has carried through his subsequent work with Dead Cross, Mr. Bungle, and Suicidal Tendencies.',
       },
     ],
 

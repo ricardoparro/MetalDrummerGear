@@ -74,7 +74,7 @@ From Lars Ulrich's pioneering work on "Kill 'Em All" to Dave Lombardo's legendar
 Death metal drummers often use larger kits with double pedals as standard. Triggers are common for bass drums. Brands like Pearl, Tama, and DW dominate. Cymbals tend to be dark and washy (Meinl Byzance, Sabian HH) or bright and cutting depending on preference.
 
 **Notable Innovations:**
-George Kollias (Nile) helped popularize extreme single-foot bass drum speed. Gene Hoglan brought jazz-influenced complexity to Death. Pete Sandoval's blast beats on Morbid Angel's early albums set new standards for the genre.`,
+George Kollias (Nile) helped popularize extreme single-foot bass drum speed. Sean Reinert brought jazz-influenced complexity to Death's Human, while Gene Hoglan powered the increasingly technical Individual Thought Patterns and Symbolic. Pete Sandoval's blast beats on Morbid Angel's early albums set new standards for the genre.`,
     metaTitle: "Death Metal Drummers - Gear & Techniques | MetalForge",
     metaDescription:
       "Explore death metal's most technical drummers. Discover the blast beats, gravity blasts, and extreme techniques that define the genre.",

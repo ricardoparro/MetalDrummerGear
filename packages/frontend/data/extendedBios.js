@@ -505,7 +505,7 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
 - **Heads**: Evans (or Remo depending on project)
 
 **Gear Evolution:**
-- Started with Tama Imperialstar, evolved to Artstar and Starclassic
+- Started with Pearl Maxwin, evolved to Tama Artstar and Starclassic
 - Known for preferring larger bass drums (22"-24")
 - Pioneered use of Paiste RUDE cymbals in thrash metal
 - Has collaborated with Paiste on the "Reign" series ride cymbal`
@@ -532,7 +532,7 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
           { q: 'Where is Dave Lombardo from?', a: 'Dave was born in Havana, Cuba on February 16, 1965, and emigrated to the US as a child.' },
           { q: 'What album is Dave Lombardo most famous for?', a: "Dave is most famous for drumming on Slayer's \"Reign in Blood\" (1986), a thrash metal landmark." },
           { q: 'Did Dave Lombardo found Slayer?', a: 'Yes, Dave co-founded Slayer in 1981 with Kerry King, Jeff Hanneman, and Tom Araya.' },
-          { q: 'What drum kit did Dave Lombardo use?', a: 'Dave Lombardo\'s drum kit is built on Tama Starclassic Walnut/Birch shells, anchored by a Tama S.L.P. 14"x6.5" G-Maple snare drum. The kit carries Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats and the signature Paiste Reign Power Ride, powered by a Tama Iron Cobra 900 double pedal. He started on a Tama Imperialstar kit, evolving through Artstar to Starclassic over his career.' },
+          { q: 'What drum kit did Dave Lombardo use?', a: 'Dave Lombardo\'s drum kit is built on Tama Starclassic Walnut/Birch shells, anchored by a Tama S.L.P. 14"x6.5" G-Maple snare drum. The kit carries Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats and the signature Paiste Reign Power Ride, powered by a Tama Iron Cobra 900 double pedal. He started on a Pearl Maxwin kit, evolving through Tama Artstar to Starclassic over his career.' },
           { q: 'What drum set did Dave Lombardo use?', a: 'Dave Lombardo\'s drum set is Tama Starclassic Walnut/Birch shells, built around a Tama S.L.P. 14"x6.5" G-Maple snare drum. Paiste RUDE and 2002 series cymbals — 15" Sound Edge hi-hats, crashes, and the Paiste Reign Power Ride he co-designed — complete the drum set, powered by a Tama Iron Cobra 900 double pedal. Lombardo prefers larger bass drums, typically 22"-24", within this configuration.' },
           { q: 'What cymbals does Dave Lombardo use?', a: 'Dave Lombardo uses Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats, RUDE crashes, and the Paiste Reign Power Ride — a signature ride cymbal he co-designed with Paiste and named after Slayer\'s "Reign in Blood" album.' },
           { q: 'What snare drum does Dave Lombardo use?', a: 'Dave Lombardo plays a Tama S.L.P. 14"x6.5" G-Maple snare drum, paired with Promark Dave Lombardo Signature 2Bx sticks designed for the power and speed his double bass style demands.' },

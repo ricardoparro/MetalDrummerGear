@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-30 19:09 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-31 00:18 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,31 +8,31 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 424 |
-| Sessions | 483 |
-| Page views | 713 |
-| Engagement rate | 62.94% |
-| Avg session (s) | 110 |
+| Active users | 386 |
+| Sessions | 439 |
+| Page views | 631 |
+| Engagement rate | 62.64% |
+| Avg session (s) | 103 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummer/mario-duplantier | 18 | 8 |
-| /drummer/frost | 16 | 7 |
-| / | 15 | 10 |
-| /drummers | 15 | 7 |
+| /drummer/mario-duplantier | 17 | 8 |
+| /drummer/frost | 16 | 6 |
+| / | 14 | 9 |
+| /drummers | 14 | 6 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
 | /drummer/joey-jordison | 9 | 5 |
-| /drummer/john-otto | 9 | 7 |
-| /drummer/chris-adler | 7 | 4 |
 | /drummer/hellhammer | 7 | 3 |
 | /drummer/jay-weinberg | 7 | 5 |
+| /drummer/john-otto | 7 | 6 |
+| /lists/fastest-blast-beat-drummers | 7 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 395 | 334 |
-| Direct | 88 | 88 |
+| Organic Search | 363 | 308 |
+| Direct | 76 | 76 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 | Unassigned | 1 | 1 |
@@ -40,55 +40,57 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 153 | 135 |
-| Singapore | 41 | 41 |
+| United States | 145 | 129 |
 | United Kingdom | 36 | 19 |
+| Singapore | 33 | 33 |
 | Germany | 19 | 17 |
-| Australia | 18 | 14 |
-| Canada | 16 | 16 |
-| China | 15 | 15 |
-| Netherlands | 13 | 10 |
+| Canada | 15 | 15 |
+| China | 14 | 14 |
+| Australia | 13 | 11 |
 | France | 12 | 11 |
-| Brazil | 9 | 9 |
+| Brazil | 10 | 10 |
+| Netherlands | 9 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 19,105 |
-| Clicks | 259 |
-| CTR | 1.36% |
+| Impressions | 15,739 |
+| Clicks | 204 |
+| CTR | 1.30% |
 | Avg position | 9.1 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| death metal drum kit | 10 | 5 | 50.00% | 4.0 |
-| joey jordison cymbals | 5 | 3 | 60.00% | 5.8 |
+| death metal drum kit | 8 | 5 | 62.50% | 3.4 |
+| joey jordison cymbals | 4 | 3 | 75.00% | 4.8 |
 | gavin harrison cymbal setup | 7 | 2 | 28.57% | 4.1 |
-| joey jordison drum set | 47 | 2 | 4.26% | 10.3 |
-| john otto cymbal setup | 8 | 2 | 25.00% | 5.1 |
-| mario duplantier drum kit | 31 | 2 | 6.45% | 8.1 |
-| matt garstka drum kit | 20 | 2 | 10.00% | 6.3 |
+| joey jordison drum set | 39 | 2 | 5.13% | 10.6 |
+| mario duplantier drum kit | 24 | 2 | 8.33% | 7.8 |
 | matt greiner drum kit | 3 | 2 | 66.67% | 4.3 |
-| best death metal drummers of all time | 4 | 1 | 25.00% | 5.0 |
-| best nu metal drummers | 8 | 1 | 12.50% | 6.9 |
+| best nu metal drummers | 7 | 1 | 14.29% | 7.0 |
+| bill ward drum setup | 5 | 1 | 20.00% | 3.8 |
+| danny carey drum set | 5 | 1 | 20.00% | 10.6 |
+| death metal drummers | 7 | 1 | 14.29% | 6.6 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,135 | 78 | 1.89% | 8.3 |
-| gbr | 976 | 16 | 1.64% | 9.1 |
-| deu | 483 | 13 | 2.69% | 7.4 |
-| can | 750 | 12 | 1.60% | 8.8 |
-| aus | 535 | 10 | 1.87% | 8.0 |
-| nld | 234 | 9 | 3.85% | 7.3 |
-| cze | 106 | 6 | 5.66% | 7.6 |
-| fra | 452 | 6 | 1.33% | 8.8 |
-| idn | 528 | 6 | 1.14% | 9.1 |
-| phl | 244 | 6 | 2.46% | 8.7 |
+| usa | 3,455 | 70 | 2.03% | 8.3 |
+| gbr | 782 | 13 | 1.66% | 9.1 |
+| can | 606 | 10 | 1.65% | 8.9 |
+| deu | 402 | 10 | 2.49% | 7.4 |
+| aus | 443 | 8 | 1.81% | 7.9 |
+| fra | 389 | 6 | 1.54% | 8.8 |
+| cze | 90 | 5 | 5.56% | 7.6 |
+| idn | 438 | 5 | 1.14% | 9.0 |
+| nld | 181 | 5 | 2.76% | 7.5 |
+| rus | 231 | 5 | 2.16% | 9.3 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-_no significant gaps detected — all queries with traction have decent CTR_
+| Query | Impr | CTR | Pos | Action |
+| --- | --- | --- | --- | --- |
+| matt halpern | 6,152 | 0.02% | 10.8 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

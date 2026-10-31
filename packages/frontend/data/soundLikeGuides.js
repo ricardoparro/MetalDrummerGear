@@ -9755,7 +9755,7 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
       snare: {
         tension: "Medium-high",
         muffling: "Minimal",
-        description: "The maple snare is tuned for a powerful crack with enough body to drive the brutal mid-tempo grooves. Not as cranked as a pure black metal snare — Mazurkiewicz wants weight as well as cut.",
+        description: "The steel snare is tuned for a powerful crack with enough body to drive the brutal mid-tempo grooves. Not as cranked as a pure black metal snare — Mazurkiewicz wants weight as well as cut.",
         tip: "Tune the batter a few turns above finger-tight. Keep wires medium-tight for a crisp, fast response."
       },
       toms: {

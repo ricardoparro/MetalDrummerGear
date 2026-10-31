@@ -227,7 +227,7 @@ export const EVOLUTION_TIMELINE = [
     album: 'Ride the Lightning',
     type: TIMELINE_EVENT_TYPES.ALBUM_RELEASE,
     subgenre: METAL_SUBGENRES.THRASH,
-    gearNotes: 'Tama Artstar II, Paiste 2002 cymbals',
+    gearNotes: 'Tama Artstar II, Zildjian A Custom cymbals',
     significance: 'Proved thrash drumming could be dynamic and musical',
     videoEmbed: null,
     image: '/images/drummers/lars-ulrich.webp',

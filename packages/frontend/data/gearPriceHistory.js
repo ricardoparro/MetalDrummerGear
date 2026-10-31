@@ -354,18 +354,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       sticks: {
-        item: 'Ahead Joey Jordison Signature',
+        item: 'Ahead Aluminum Drumsticks',
         model: 'Aluminum alloy',
         specs: '16.5" length, .580" diameter, aluminum core',
         originalPrice: 35,
         year: 2001,
         source: 'Ahead MSRP',
-        notes: 'First signature stick deal. Aluminum for durability at extreme speeds.',
+        notes: 'Aluminum for durability at extreme speeds.',
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Ahead Joey Jordison Signature',
+          item: 'Ahead Aluminum Drumsticks (Current)',
           price: 42,
-          link: 'ahead-joey-jordison',
+          link: 'ahead-aluminum-drumsticks',
         },
       },
       electronics: {

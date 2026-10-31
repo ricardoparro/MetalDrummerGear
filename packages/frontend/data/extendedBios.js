@@ -1931,7 +1931,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
         items: [
           { q: 'What drum kit does Raymond Herrera use?', a: 'Raymond Herrera plays a Tama Starclassic drum kit — the mechanically precise setup behind his innovative "stop-go" double bass technique that defined Fear Factory\'s industrial metal sound across Soul of a New Machine (1992), Demanufacture (1995), and Obsolete (1998).' },
           { q: 'What drum set does Raymond Herrera use?', a: 'Raymond Herrera\'s drum set centers on a Tama 14"x6.5" Brass snare delivering a sharp, industrial crack, paired with a DW 5000 Series double pedal mounted on a Tama Power Tower Custom rack — the configuration he carried into his later work with Brujeria and Arkaea.' },
-          { q: 'What cymbals does Raymond Herrera play?', a: 'Raymond Herrera plays Zildjian A Custom and Z Custom Series cymbals: 14" A Custom Hi-Hats, 18" and 19" A Custom Crashes, a 21" Z Custom Mega Bell Ride, and an 18" A Custom China.' },
+          { q: 'What cymbals does Raymond Herrera play?', a: 'Raymond Herrera plays Zildjian Z Custom Series cymbals, the brand\'s bright, machine-hammered line suited to Fear Factory\'s processed industrial sound.' },
           { q: 'What snare does Raymond Herrera use?', a: 'Raymond Herrera\'s snare is a Tama 14"x6.5" Brass model, delivering the sharp, industrial crack that cuts through Fear Factory\'s mechanized riffing.' },
           { q: 'What sticks does Raymond Herrera use?', a: 'Raymond Herrera uses Pro-Mark 5A Oak Nylon Tip drumsticks.' },
           { q: 'What bass drum pedal does Raymond Herrera use?', a: 'Raymond Herrera drives his precise, stop-go double bass patterns with a DW 5000 Series double pedal.' },

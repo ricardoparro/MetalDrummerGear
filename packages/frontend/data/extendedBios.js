@@ -1034,7 +1034,7 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
 - **Snare**: Tama Mike Portnoy Signature Melody Master 14"x5.5"
 - **Cymbals**: Sabian HHX MAX/AAX MAXX series (22" HHX MAX Ride, X-Plosion crashes, O-Zone crash, HHX/Paragon Chinas, AAX MAXX splashes, AA MAX chimes)
 - **Hardware**: Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
-- **Sticks**: Promark Mike Portnoy Signature TX420N
+- **Sticks**: Promark Mike Portnoy Signature TXMP420XW-AG
 - **Electronics**: Roland TD series for hybrid sounds
 
 **Setup Characteristics:**
@@ -1069,7 +1069,7 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
           { q: 'What drum kit did Mike Portnoy use?', a: 'Mike Portnoy\'s drum kit is a dual Tama Starclassic Maple + Starclassic Bubinga "Dream Monster" configuration, featuring his signature Tama Mike Portnoy Melody Master snare (14"x5.5") alongside a large array of rack and floor toms, octobans, and electronic pads. Sabian HHX MAX/AAX MAXX cymbals — including a 22" HHX MAX Ride, X-Plosion crashes, and an O-Zone crash — round out the kit, powered by a Tama Iron Cobra Power Glide Twin Pedal.' },
           { q: 'What drum set did Mike Portnoy use?', a: 'Mike Portnoy\'s drum set is a large dual Tama Starclassic configuration — Starclassic Maple paired with Starclassic Bubinga in his "Dream Monster" setup — built around his signature Tama Mike Portnoy Melody Master 14"x5.5" snare drum. The drum set includes Sabian HHX MAX and AAX MAXX cymbals plus Roland TD-series electronic pads for hybrid acoustic/electronic sounds.' },
           { q: 'What cymbals does Mike Portnoy use?', a: 'Mike Portnoy uses Sabian HHX MAX and AAX MAXX series cymbals, per Sabian\'s current artist listing: a 22" HHX MAX Ride, 18" AAX X-Plosion and 19" HHX X-Plosion crashes, an 18" AAX O-Zone crash, 18" HHX and 19" Paragon Chinas, plus AAX MAXX splashes and AA MAX chimes.' },
-          { q: 'What snare drum does Mike Portnoy use?', a: 'Mike Portnoy plays his signature Tama Mike Portnoy Melody Master snare drum, a 14"x5.5" shell designed for his Dream Theater and side-project work, played with Promark Mike Portnoy Signature TX420N sticks.' }
+          { q: 'What snare drum does Mike Portnoy use?', a: 'Mike Portnoy plays his signature Tama Mike Portnoy Melody Master snare drum, a 14"x5.5" shell designed for his Dream Theater and side-project work, played with Promark Mike Portnoy Signature TXMP420XW-AG sticks.' }
         ]
       },
       sources: {

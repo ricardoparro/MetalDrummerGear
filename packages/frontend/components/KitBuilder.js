@@ -450,7 +450,7 @@ export const KIT_BUILDER_CATALOG = {
       usedBy: ['Dave Lombardo'],
       description: 'Heavy sticks for thrash power',
       image: 'promark-lombardo.jpg' },
-    { id: 'promark-portnoy', name: 'Promark Mike Portnoy TX420N', brand: 'Promark', price: 15, tier: 'budget',
+    { id: 'promark-portnoy', name: 'Promark Mike Portnoy TXMP420XW-AG', brand: 'Promark', price: 15, tier: 'budget',
       specs: 'Hickory, .580" x 16.25"',
       usedBy: ['Mike Portnoy'],
       description: 'Versatile sticks for prog dynamics',

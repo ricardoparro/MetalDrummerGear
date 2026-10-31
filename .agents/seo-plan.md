@@ -15244,3 +15244,42 @@ All 5 filed issues were dedup-checked via `gh issue list --search` against the e
 - Watch #9988-9992 triage/promotion.
 - Continue the fact-drift sweep into still-unaudited files next time bank is under cap: beginnerGuides.js, cymbalReferencePages.js, snareReferencePages.js, drumstickReferencePages.js, pedalReferencePages.js, gearSearchData.js, evolutionTimeline.js, birthdays.js, genres.js have not yet been swept this cycle.
 - `matt halpern` GSC spike: re-check after ~2026-11-18 per CEO's standing ruling, no new action until then.
+
+## 2026-10-31 13:0x UTC run (bank-capped mode — 8 proposals filed #10000-10007)
+
+### Context
+Bank check: 4 open `seo-proposal` (#7981 human-held, 3 standing umbrellas #3810/#3819/#2211) — 0 fresh/untriaged → well under 45 cap → filed up to 8 net-new. New-page freeze + LLM-first mode still binding (no new pages proposed). Note: today's 00:xx and 07:xx runs (#9976-9982, #9988-9992) were already triaged/promoted before this run started. GSC content-gap: metrics.md (refreshed 13:02 UTC) shows **no significant content-gap queries this run** — the `matt halpern` tour-spike row has dropped out of the top-10 (resolved/receded, no action needed). Drum-chair weekly sweep: today (Sat 2026-10-31) is not Monday — skipped per schedule.
+
+### Audit summary
+- robots.txt (`api/robots.js`): ✅ all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed — unchanged since 07:xx audit.
+- No full Lighthouse/schema re-audit this run — unchanged within the same day per 07:xx findings; time spent on the fact-drift sweep (proven higher-yield lever per `docs/seo-l2-l3-recovery.md`).
+
+### Proposals filed this run
+Continued the fact-drift sweep into the 9 files flagged as not-yet-covered-this-cycle in the prior run's notes (`beginnerGuides.js`, `cymbalReferencePages.js`, `snareReferencePages.js`, `drumstickReferencePages.js`, `pedalReferencePages.js`, `gearSearchData.js`, `evolutionTimeline.js`, `birthdays.js`, `genres.js`) via 6 parallel research agents. Clean results (no issue filed): `beginnerGuides.js` (already fixed by #7073/#7088, fully clean), `cymbalReferencePages.js`+`drumstickReferencePages.js` (generic reference content, no per-drummer claims to check), `pedalReferencePages.js`+`snareReferencePages.js` (clean, already corrected by prior commits). Verified findings, all deduped via `gh issue list --search` before filing:
+
+1. #10000 — evolutionTimeline.js Lars Ulrich 1984 entry fabricates Paiste cymbals (verified: unbroken Zildjian since 1981)
+2. #10001 — evolutionTimeline.js Mario Duplantier 2012 entry overstates standard Tama endorsement as "signature kit" (4+ years premature)
+3. #10002 — gearSearchData.js Vinnie Paul snare field defaults to wrong `tama-slp` placeholder (verified: ddrum Vinnie Paul Signature)
+4. #10003 — gearSearchData.js Chris Adler snare field same `tama-slp` placeholder bug (verified: Mapex Chris Adler Signature)
+5. #10004 — gearSearchData.js Jay Weinberg snare field same `tama-slp` placeholder bug (verified: SJC "The Crucible")
+6. #10005 — birthdays.js Eloy Casagrande birthdate/birthplace drifted from the #9837 site-wide consensus fix (that fix's scope only touched extendedBios.js, never reconciled birthdays.js)
+7. #10006 — genres.js misattributes "jazz-influenced" drumming to Gene Hoglan instead of Sean Reinert (bands.js/extendedBios.js both credit Reinert)
+8. #10007 — extendedBios.js Dave Lombardo bio+FAQ still fabricates "Tama Imperialstar" starter kit — every sibling file (evolutionTimeline.js #7016, drummerEvolution.js #8179, beginnerGuides.js #7088, 5+ others) was already fixed to Pearl Maxwin; extendedBios.js itself was never swept for this exact claim until now
+
+Note: #10002/#10003/#10004 are one systemic bug (a generic `tama-slp` placeholder default in `gearSearchData.js`'s snare field) surfacing on 3 drummers — filed as 3 atomic issues rather than one batch, consistent with how Roadie claims/verifies scoped single-drummer fixes.
+
+### Learned-patterns.md updates
+- None this run — all 8 findings are instances of already-documented fabrication classes (cross-drummer contamination for #10000/#10006, recording-window/timeline-premature-claim for #10001, same-field placeholder-default bug for #10002-10004, cross-file reconciliation gap after a consensus fix for #10005, sibling-file-never-swept for #10007). Worth flagging as a pattern to generalize later: #10005 and #10007 are both instances of "a multi-file consensus/sweep fix landed but didn't enumerate every sibling file that carries the same fact" — the `gh issue search` dedup check catches it eventually, but a one-time repo-wide grep for a corrected fact (old value) across ALL data files, run once when a consensus fix lands, would catch siblings in the same run instead of one per future sweep.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10000-10007 (this run, 8 fresh)
+
+### Next run
+1. Watch #10000-10007 triage/promotion. #10002-10004 share one root cause (gearSearchData.js snare placeholder default) — worth a quick full-file grep for other drummers still on `tama-slp` who shouldn't be, as a follow-up batch once these 3 land (not filed this run to keep each issue atomic and verifiable).
+2. Fact-drift sweep this cycle is now complete across all 9 previously-unswept files (beginnerGuides, cymbalReferencePages, snareReferencePages, drumstickReferencePages, pedalReferencePages, gearSearchData, evolutionTimeline, birthdays, genres) — next sweep should pick a fresh file list or re-check files not touched in >30 days.
+3. `soundLikeGuides.js` cleanup candidates from 2026-10-31 00:xx run (Hannes Grossmann, Jaska Raatikainen, Hellhammer, Abe Cunningham, Arin Ilejay) still need independent re-verification before filing.
+4. Flo Mounier Pearl-vs-Tama kit brand conflict (`extendedBios.js` vs `drummerEvolution.js`) — still needs a resolution approach before either file can be "fixed."
+5. Drum-chair watch: next due Monday 2026-11-02, group 1 (rotate by ISO week % 4).
+6. `matt halpern` GSC gap query has dropped out of the top-10 this run — no longer tracked as an open content-gap; re-flag only if it resurfaces.

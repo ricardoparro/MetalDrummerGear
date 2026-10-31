@@ -1203,7 +1203,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Promark Mike Portnoy Signature TX420N',
+            item: 'Promark Mike Portnoy Signature TXMP420XW-AG',
             details: 'Hickory signature stick',
             notes: 'Longtime Promark signature stick deal, unchanged across post-DT projects.',
             change: null,

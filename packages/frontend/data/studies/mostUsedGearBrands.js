@@ -2093,7 +2093,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Mike Portnoy",
               "slug": "mike-portnoy",
               "band": "Dream Theater / Liquid Tension Experiment / The Winery Dogs",
-              "configString": "Promark Mike Portnoy Signature TX420N"
+              "configString": "Promark Mike Portnoy Signature TXMP420XW-AG"
             },
             {
               "id": 17,

@@ -15152,3 +15152,61 @@ Continued the established fact-drift/fabrication sweep (the winning pattern unde
 4. Watch #9971 — implementer should check sibling `yearsUsed` semantics in `drummersByKit.js` before deciding exact replacement value (kit-era vs. full-tenure convention).
 5. Content-gap: `matt halpern` tour-spike re-check due ~2026-11-18 — not due yet.
 6. Drum-chair watch: next due Monday 2026-11-02, group 1 (rotate by ISO week % 4).
+
+---
+
+## 2026-10-31 (run, Saturday, ~00:3x UTC) — soundLikeGuides.js first full pass + signatureGear.js spot-check, 7 filed (#9976-9982)
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8+ required AI crawler UAs explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged.
+- `/llms/*.md`: 72 drummer markdown files under `public/llms/drummers/` + 32 hub/topic files under `public/llms/` — unchanged.
+- `check-llms-freshness.yml` on `main`: still shows `failure` as of the 2026-10-30 07:35 UTC scheduled run (pre-dates the #9961 regen merge later that day) — expected to go green on tomorrow's 2026-10-31 07:35 UTC scheduled run; not a new issue, no action needed this run.
+- Bank check: 4 open `seo-proposal` at run start (held #7981 + 3 standing umbrellas #2211/#3810/#3819; the 4 fresh #9968-9971 from the prior run had already been CEO-promoted to `ai-fix` overnight) — well under the 45 floor → filed 7, matched to confirmed findings (not padded to the 8 cap).
+- Content-gap: `matt halpern` still the only row (6,152 impr/0.02% CTR/pos 10.8), same tour-driven-spike ruling tracked since 2026-10-29, re-check due ~2026-11-18 — not re-litigated.
+- Drum-chair watch: today is Saturday — not the Monday trigger day, section skipped; next due 2026-11-02 (group 1, ISO week % 4).
+
+### Metrics readout
+- GSC 7d: 15,739 impr / 204 clicks / 1.30% CTR / pos 9.1.
+- GA4 7d: 393u/447s/640v. Top pages: `/drummer/mario-duplantier` (17v), `/drummer/frost` (16v), `/` (14v), `/drummers` (14v), `/drummers/vinnie-paul/evolution` (10v), `/drummer/joey-jordison` (9v), `/drummer/hellhammer` (7v), `/drummer/jay-weinberg` (7v), `/drummer/john-otto` (7v), `/lists/fastest-blast-beat-drummers` (7v).
+
+### Method
+Continued the established fact-drift/fabrication sweep into file areas not yet fully checked this week. Dispatched 4 parallel research agents: (1) full read of `soundLikeGuides.js` (18,380 lines / 67 drummer guides) cross-checked against `bands.js`/`extendedBios.js`/`endorsementNews.js`/`drummerEvolution.js`/`snares.js`/`pedals.js` — came back with 13 candidate findings, the file's first full-pass audit; (2) `gearSeriesPages.js` (pure templating, clean) + `signatureGear.js` (2 solid findings); (3) the 4 roster slugs with near-zero prior coverage (Jimmy DeGrasso, John Longstreth, Nick Barker, Waltteri Väyrynen) — all clean; (4) brand-endorsement files (`drumstickBrands.js`/`pedalBrands.js`/`snareBrands.js`/`cymbalBrands.js`) — 1 minor miscategorization found but judged too low-value to file (pedal series grouping, not a fact error).
+
+Personally re-verified every candidate before filing rather than trusting subagent output — this caught 2 would-be false positives before they became bad fixes:
+- **Mikkey Dee "Tama 1992-2012" claim**: the finding agent flagged this as a fabricated Tama era contradicting "Sonor continuous since 1992." Direct verification against `endorsementNews.js` and closed issue #7628's own fix spec showed the OPPOSITE: ground truth is Tama Artstar II/Swingstar 1992-2012, Sonor SQ2 signature only from 2012 — the current soundLikeGuides.js text is already the *correct*, previously-fixed version. Dropped, not filed.
+- **Raymond Herrera cymbals**: the agent flagged `soundLikeGuides.js`'s "Zildjian Z Custom Series" framing as wrong vs. `extendedBios.js`'s "A Custom and Z Custom" claim. Checking closed issue #6834's own verified ground truth (`endorsementNews.js`: Z Custom only, no A Custom) showed it's `extendedBios.js` that's wrong, not `soundLikeGuides.js` — refiled against the correct file/line (`extendedBios.js:1934`) instead of the one the agent originally flagged.
+- **Flo Mounier**: `extendedBios.js` says Tama Starclassic Maple kit; `drummerEvolution.js`'s own final era block (2008-present) says Pearl Reference Pure/Custom kit with only the *pedal* being Tama. This is a genuine cross-file ground-truth conflict, not a clean fabrication — held back pending resolution, not filed (same caution class as the standing Mario Duplantier pedal-config ambiguity below).
+- **Mario Duplantier pedal config** (re-surfaced again in `soundLikeGuides.js`, "Single Pedal x2" framing): confirmed this is the same standing ambiguity flagged by the 2026-10-30 19:xx run (ground truth's own `mario-duplantier.md` has one contradictory clause against 5+ other double-pedal mentions in the same file + `pedals.js`) — not re-litigated, left for a founder call.
+
+### Proposals filed this run
+1. #9976 — SEO: Chris Adler soundLikeGuides.js cross-drummer contamination — Mapex 'Black Panther'/'Saturn V' labels belong to Matt Greiner/Jason Bittner, verified kit is plain Mapex Saturn
+2. #9977 — SEO: Sean Reinert soundLikeGuides.js wrongly credits him with Death's 'Spiritual Healing' (1990) — actually recorded by Bill Andrews, Reinert's debut was Human (1991)
+3. #9978 — SEO: Pete Sandoval soundLikeGuides.js tenure fabricated as '1988 through 2013' — verified 1988-2010
+4. #9979 — SEO: Paul Mazurkiewicz soundLikeGuides.js tuning section still says 'maple snare' — self-contradicts the same file's own verified Steel snare field
+5. #9980 — SEO: Raymond Herrera extendedBios.js FAQ fabricates 'Zildjian A Custom and Z Custom' cymbals — verified Z Custom only
+6. #9981 — SEO: Mario Duplantier signatureGear.js 'Tama Starphonic Bronze Snare' spotlight page fabricates his signature snare — verified Tama S.L.P. G-Maple 14x6.5"
+7. #9982 — SEO: Dave Lombardo signatureGear.js invents an unverified 4-stage stick-brand timeline — contradicts drummerEvolution.js's own era data
+
+### Held-back / not filed
+- Mikkey Dee "Tama 1992-2012" — confirmed already-correct text (see Method above), not a bug.
+- Raymond Herrera `soundLikeGuides.js` "Z Custom only" cymbal framing — confirmed correct; refiled the real bug (`extendedBios.js`'s "A Custom" addition) as #9980 instead.
+- Flo Mounier Pearl-vs-Tama kit brand (`extendedBios.js` vs `drummerEvolution.js` conflict) — genuine cross-file ground-truth disagreement, needs resolution before either side can be called "wrong." Flagging for a future run or founder digest.
+- Mario Duplantier pedal config (single x2 vs. double pedal) — standing ambiguity, unchanged from the 2026-10-30 ruling, not re-litigated.
+- Hannes Grossmann, Jaska Raatikainen, Hellhammer (shell self-contradiction), Abe Cunningham, Arin Ilejay `soundLikeGuides.js` candidates from the same sweep — flagged by the research agent but not independently re-verified this run due to the 7-issue batch already filed; carry forward to next run's `soundLikeGuides.js` cleanup pass.
+- `pedalBrands.js` Sean Reinert miscategorized under the "5000 Series" notable-drummers line (his verified pedal is a 9000) — a brand-grouping mislabel, not a factual error on his own record; judged too low-value for a standalone issue, noted here in case a future pedal-file pass wants to fold it in.
+
+### Learned-patterns.md updates
+- None this run — all 7 filed findings are instances of already-documented fabrication classes (cross-drummer contamination, recording-window misattribution, tenure-end-date drift, same-file sibling-field miss, dedicated-page-built-on-fabricated-product, invented narrative timeline contradicting the era-by-era ground truth file). The 3 held-back false-positive catches (Mikkey Dee, Herrera, Flo Mounier) are a reminder already captured by the 2026-10-30 Mario Duplantier note: when a research agent's cited "ground truth" conflicts with ANOTHER ground-truth file or a prior closed issue's fix spec, resolve the conflict by reading the closed issue's actual fix spec before filing — don't trust a single cross-check source at face value.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9976-9982 (this run, 7 fresh)
+
+### Next run
+1. Watch #9976-9982 pick up via Roadie; #9976 is the highest-risk (implementer must only touch Chris Adler's lines 2377-2517, not the adjacent Matt Greiner/Jason Bittner sections in the same file), #9981 needs a careful judgment call (retarget vs. remove the whole spotlight page).
+2. `soundLikeGuides.js` cleanup pass continues: Hannes Grossmann, Jaska Raatikainen, Hellhammer, Abe Cunningham, Arin Ilejay candidates still need independent re-verification before filing (surfaced this run, not yet confirmed).
+3. Flo Mounier Pearl-vs-Tama kit brand conflict (`extendedBios.js` vs `drummerEvolution.js`) — needs a resolution approach (web search for current verified gear, or founder call) before either file can be "fixed."
+4. Content-gap: `matt halpern` tour-spike re-check due ~2026-11-18 — not due yet.
+5. Drum-chair watch: next due Monday 2026-11-02, group 1 (rotate by ISO week % 4).
+6. `check-llms-freshness.yml` should go green on the next scheduled run (2026-10-31 07:35 UTC) now that #9961's regen merged — confirm, don't assume.

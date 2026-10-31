@@ -13914,7 +13914,7 @@ One genuinely overlooked factor in death metal snare setup: head tension consist
     // SEO metadata
     title: "Best Drum Kits for Black Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Black Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for black metal drumming. What Hellhammer (Sonor SQ2 Heavy Beech), Inferno (Pearl Reference Pure), and Frost (Tama Starclassic Bubinga) actually use — from budget to pro, built for raw tone and blast beat endurance.",
+    description: "Best drum kits for black metal drumming. What Hellhammer (Sonor SQ2 Heavy Beech), Inferno (Pearl Reference Series), and Frost (Tama Starclassic Bubinga) actually use — from budget to pro, built for raw tone and blast beat endurance.",
     seoKeywords: [
       'best drum kits for black metal',
       'black metal drum kit',
@@ -13951,7 +13951,7 @@ One genuinely overlooked factor in death metal snare setup: head tension consist
       title: "What Drum Kit Should I Use for Black Metal?",
       content: `Black metal drum kits face a different set of demands than thrash or death metal setups. The genre's defining sound — icy, raw, and relentless — comes from kits that can sustain blast beats and tremolo-picked blast patterns for entire songs while still cutting through lo-fi or deliberately harsh production. Durability matters as much as tone: black metal was built in cold Norwegian rehearsal spaces and DIY studios, not climate-controlled tracking rooms.
 
-Hellhammer of Mayhem has played a Sonor SQ2 Heavy Beech kit since 1999, establishing the raw, foundational tone the genre still measures itself against across decades of Mayhem and Dimmu Borgir recordings. Inferno of Behemoth drives the band's modern, more technical black/death hybrid sound on a Pearl Reference Pure kit, built for both blast beat speed and message clarity in dense mixes. Frost of Satyricon and 1349 recorded "Nemesis Divina" on a Pearl kit before moving to a Tama Starclassic Bubinga in 2013 for the precision his hyperspeed blast beats demand.
+Hellhammer of Mayhem has played a Sonor SQ2 Heavy Beech kit since 1999, establishing the raw, foundational tone the genre still measures itself against across decades of Mayhem and Dimmu Borgir recordings. Inferno of Behemoth drives the band's modern, more technical black/death hybrid sound on a Pearl Reference Series kit, built for both blast beat speed and message clarity in dense mixes. Frost of Satyricon and 1349 recorded "Nemesis Divina" on a Pearl kit before moving to a Tama Starclassic Bubinga in 2013 for the precision his hyperspeed blast beats demand.
 
 This guide breaks down what actually makes a drum kit work for black metal — shell material, durability, and tone — and which specific kits the genre's most influential drummers play, from budget-friendly starter kits to the professional setups used on classic and modern black metal records.`,
       keyPoints: [
@@ -14051,22 +14051,22 @@ Sonor's German precision manufacturing and TAR mount ensure consistent resonance
         },
         {
           rank: 2,
-          name: "Pearl Reference Pure",
+          name: "Pearl Reference Series",
           brand: "Pearl",
-          model: "Reference Pure Series",
+          model: "Reference Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€2500-4500 (shell pack)",
           tier: "pro",
           material: "6-ply Maple",
 
-          description: `Inferno of Behemoth drives the band's modern black/death hybrid assault on a Pearl Reference Pure kit. The thin 6-ply maple shells deliver exceptional sensitivity and resonance — important for Behemoth's more technical, blast-heavy compositions where every stroke needs to articulate clearly even at extreme tempos.
+          description: `Inferno of Behemoth drives the band's modern black/death hybrid assault on a Pearl Reference Series kit. The thin 6-ply maple shells deliver exceptional sensitivity and resonance — important for Behemoth's more technical, blast-heavy compositions where every stroke needs to articulate clearly even at extreme tempos.
 
-Pearl's SST shell technology and minimal-contact ADP mounting let the shells vibrate as freely as possible, producing a richer fundamental tone than thicker, more dampened alternatives. For black metal drummers who want speed and clarity over pure rawness, the Reference Pure is the modern standard.`,
+Pearl's minimal-contact ADP mounting lets the shells vibrate as freely as possible, producing a richer fundamental tone than thicker, more dampened alternatives. For black metal drummers who want speed and clarity over pure rawness, the Reference Series is the modern standard.`,
 
           pros: [
             "Inferno's Behemoth setup — modern technical black metal standard",
             "Thin 6-ply maple shells for exceptional sensitivity",
-            "SST construction for consistent resonance",
+            "ADP mounting for consistent resonance",
             "Excellent for fast, technical blast beat work",
             "Complete hardware package available"
           ],
@@ -14075,18 +14075,18 @@ Pearl's SST shell technology and minimal-contact ADP mounting let the shells vib
             "Less raw/lo-fi character than Masters Premium"
           ],
           specs: {
-            shell: "6-ply Maple (SST)",
+            shell: "6-ply Maple",
             mount: "ADP mount (minimal contact)",
             finish: "Multiple lacquer options",
             kickSize: "22\" x 18\" standard",
             tomSizes: "Various configurations"
           },
           usedBy: [
-            { name: "Inferno", band: "Behemoth", note: "Pearl Reference Pure — modern black/death metal precision" }
+            { name: "Inferno", band: "Behemoth", note: "Pearl Reference Series — modern black/death metal precision" }
           ],
           verdict: "The technical black metal kit. Best for drummers who want speed and articulate clarity.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_pure_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_reference_series.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -14254,7 +14254,7 @@ For drummers building their first black metal setup on a tight budget, the Imper
 - Slightly less refined, more aggressive character
 - Better suited to traditional, icy black metal
 
-**Pure Maple / Bubinga (Pearl Reference Pure, Tama Starclassic Bubinga — Inferno and Frost's choices):**
+**Pure Maple / Bubinga (Pearl Reference Series, Tama Starclassic Bubinga — Inferno and Frost's choices):**
 - Warmer, more articulate, and more sensitive (maple) or denser with more low-end mass (bubinga)
 - Better for technical, blast-heavy modern black metal
 - More expensive and requires more careful tuning
@@ -14281,7 +14281,7 @@ For drummers building their first black metal setup on a tight budget, the Imper
         },
         {
           category: "Best for Technical Black Metal",
-          pedal: "Pearl Reference Pure",
+          pedal: "Pearl Reference Series",
           reason: "Inferno's choice for Behemoth's modern blast-heavy assault. Sensitivity and clarity for technical playing."
         },
         {
@@ -14306,14 +14306,14 @@ For drummers building their first black metal setup on a tight budget, the Imper
     ],
     relatedDrummers: [
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — foundational black metal raw tone since 1999' },
-      { slug: 'inferno', name: 'Inferno', reason: 'Pearl Reference Pure — Behemoth modern black metal standard' },
+      { slug: 'inferno', name: 'Inferno', reason: 'Pearl Reference Series — Behemoth modern black metal standard' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — Norwegian black metal precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — foundational black metal raw tone since 1999' },
-      { slug: 'inferno', name: 'Inferno', reason: 'Pearl Reference Pure — Behemoth modern black metal standard' },
+      { slug: 'inferno', name: 'Inferno', reason: 'Pearl Reference Series — Behemoth modern black metal standard' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — Norwegian black metal precision' },
     ],
 
@@ -14321,7 +14321,7 @@ For drummers building their first black metal setup on a tight budget, the Imper
     faq: [
       {
         question: "What drum kit should I use for black metal?",
-        answer: "Sonor SQ2 Heavy Beech is the historically definitive choice — Hellhammer has played this kit since 1999, establishing black metal's raw, foundational tone across decades of Mayhem and Dimmu Borgir recordings. For more technical, modern black metal, Inferno's Pearl Reference Pure or Frost's Tama Starclassic Bubinga offer more articulate tone suited to blast-heavy compositions."
+        answer: "Sonor SQ2 Heavy Beech is the historically definitive choice — Hellhammer has played this kit since 1999, establishing black metal's raw, foundational tone across decades of Mayhem and Dimmu Borgir recordings. For more technical, modern black metal, Inferno's Pearl Reference Series or Frost's Tama Starclassic Bubinga offer more articulate tone suited to blast-heavy compositions."
       },
       {
         question: "What drum kit does Hellhammer use?",
@@ -14346,7 +14346,7 @@ For drummers building their first black metal setup on a tight budget, the Imper
       title: "Choose Your Black Metal Weapon",
       content: `Black metal drum kits don't need to be expensive — they need to be reliable and capable of sustaining blast beats without falling apart. Hellhammer's Sonor SQ2 Heavy Beech has defined the genre's raw tone since 1999; what matters is durability and consistency, not luxury features.
 
-Whether you choose the historically definitive Sonor SQ2 Heavy Beech, the technically precise Pearl Reference Pure that drives Behemoth's modern assault, or Frost's Tama Starclassic Bubinga, remember that black metal's greatest recordings were made in cold rehearsal rooms and DIY studios on equipment far humbler than what's available today.
+Whether you choose the historically definitive Sonor SQ2 Heavy Beech, the technically precise Pearl Reference Series that drives Behemoth's modern assault, or Frost's Tama Starclassic Bubinga, remember that black metal's greatest recordings were made in cold rehearsal rooms and DIY studios on equipment far humbler than what's available today.
 
 Start where your budget allows — even a Pearl Export will get you playing real black metal. Upgrade your heads and tuning technique before you upgrade your shells. The icy, raw atmosphere that defines this genre comes from technique and intent as much as gear.
 

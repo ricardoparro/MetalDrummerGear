@@ -6,18 +6,18 @@
 
 ## Direct Answer
 
-Nick Menza plays a DW 5000 double pedal (chain-drive).
+Nick Menza plays a Tama Iron Cobra Double Pedal double pedal (chain-drive).
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
-| Brand | DW |
-| Model | 5000 |
+| Brand | Tama |
+| Model | Iron Cobra Double Pedal |
 | Configuration | double |
 | Drive Type | chain |
 
-Verified roster hardware entry: "DW 5000 Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Tama Iron Cobra Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -27,7 +27,7 @@ Verified roster hardware entry: "DW 5000 Double Pedal." Source: roster gear.hard
 ## FAQ
 
 **Q: What pedals does Nick Menza use?**
-A: Nick Menza plays a DW 5000 double pedal (chain-drive).
+A: Nick Menza plays a Tama Iron Cobra Double Pedal double pedal (chain-drive).
 
 ## More Resources
 
@@ -38,4 +38,4 @@ A: Nick Menza plays a DW 5000 double pedal (chain-drive).
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-10-31 · Source: [MetalForge.io](https://metalforge.io)*

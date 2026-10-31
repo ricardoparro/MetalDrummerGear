@@ -106,7 +106,7 @@ export const DRUMMERS_BY_KIT = {
       slug: 'charlie-benante',
       name: 'Charlie Benante',
       band: 'Anthrax',
-      yearsUsed: '1981–1990',
+      yearsUsed: '1983–present',
       config: 'Tama Superstar Classic (22"×16" Bass, 10"×8", 12"×9", 13"×10", 16"×16" Floor Tom)',
       endorsee: true,
     },

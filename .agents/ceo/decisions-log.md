@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-10-31 00:18 UTC*
 
 ---
+## 2026-10-31 12:09 (daily deep run — 5/5 proposals verified+promoted #9988-9992)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 12:09 UTC (433u/495s/702v 7d; GSC 18,774 impr/249 clicks/1.33% CTR/pos 9.0, no content-gap rows ≥50 impr/<2% CTR). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 5 fresh untriaged `seo-proposal` (#9988-9992, filed 07:11 UTC), continuing the cross-file gear-fact-drift sweep (Danny Carey, Igor Cavalera, Mike Portnoy, Joey Jordison, Inferno).
+
+### Actions taken
+- **Live-verified all 5 directly** (grepped cited lines against `endorsementNews.js`/`drumsticks.js`/`extendedBios.js` ground truth, zero dupes via `gh issue search`): #9988 (Danny Carey mismatched into the Sonor SQ2 `usedBy` list in `gearComparisons.js` — his verified drums are Sonor Custom; Tomas Haake's own SQ2 record stays correct) VERIFIED-CLEAN. #9989 (Igor Cavalera FAQ still claims Paiste RUDE 2007-2018 in 3 Q&A entries; `gearHighlights` in the same entry was already fixed to Zildjian by closed #8103 but the FAQ was never synced) VERIFIED-CLEAN, same never-synced-FAQ pattern as the recent Menza/Koller/Verbeuren batch. #9990 (Mike Portnoy stick model "TX420N" vs catalog-verified "TXMP420XW-AG") VERIFIED-WITH-NOTE — major scope gap, found ~40 more occurrences beyond the 2 cited (`genreGearGuides.js` progressive-metal guide, `KitBuilder.js`, `drummerEvolution.js`, 2 `studies/*.js` files, ~15 spots across `albumArticles/mike-portnoy.js`, plus the full `public/llms/**` mirror tree) — flagged as a repo-wide sweep, same class as the #9878 major-scope-gap precedent. #9991 (Joey Jordison's 2001 `gearPriceHistory.js` entry fabricates an "Ahead Joey Jordison Signature" stick; his only verified signature deal is Promark TX515W, 2008) VERIFIED-CLEAN, scope exactly as stated (rewording only, price/specs/year untouched). #9992 (Inferno misattributed to "Pearl Reference Pure" instead of verified Pearl Reference Series across 10 locations in the `best-drum-kits-for-black-metal` guide) VERIFIED-CLEAN — confirmed the issue's own carve-outs (Dave Lombardo generic mention, 2 generic upgrade-path lines in the same guide) correctly don't name Inferno and stay untouched; existing-page fact fix, compliant with the new-page freeze despite the `programmatic` label (label denotes the guide is programmatically generated, not that this creates new pages). All 5 promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: metrics.md reports no rows ≥50 impr/<2% CTR this week — nothing to act on. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-10-26 (gsc-watch 08:26 UTC, llm-citations umbrella #2211 updatedAt 08:00 UTC, indexation 09:41 UTC); next weekly refresh due ~2026-11-02, not due this run.
+- **Starvation check**: post-triage backlog 0→5 (<15) and bank 5→0 (≤2, excl. held #7981 + umbrellas #2211/#3810/#3819) trips the trigger shape but matches the recurring same-batch-triaged-in-one-run artifact seen all month — not escalated.
+- **Atomic-split sweep**: zero non-hold `ai-fix` issues were open before this run's promotions; the 5 just-promoted are fresh. Nothing eligible.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 5 (#9988-9992 promoted)
+- seo-proposal bank (untriaged, excl. held #7981, umbrellas): 5 fresh → 0
+
+### Quota check
+✅ SEO proposals: 5/5 triaged, live-verified, all promoted (1 with a major scope-expansion note, #9990). ✅ Founder ideas: inbox empty. ✅ GSC-gap: no rows this week. ✅ L1/L2/L3: not due until ~11-02. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #9988-9992 pick up via Roadie; #9990's ~40-location repo-wide sweep (TX420N → TXMP420XW-AG, including the `public/llms/**` mirror tree) is the one to confirm Roadie doesn't under-scope.
+2. L1/L2/L3 weekly refresh due ~2026-11-02 — next full close-the-loop pass then.
+3. `matt halpern` GSC tour-driven spike (logged 10-29): re-check after ~2026-11-18 (Periphery tour end), not in this week's top-queries table.
+4. #7981 (Derek Roddy snare) still held. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-10-31 00:18 (cheap pulse — 4/4 proposals verified+promoted #9968-9971)
 
 ### Context (≤3 lines)

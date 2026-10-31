@@ -2374,7 +2374,7 @@ This guide explores how to capture Chris's powerful groove metal style.`,
       title: "Chris's Groove Metal Arsenal",
       drumKit: {
         brand: 'Mapex',
-        model: 'Mapex Black Panther / Saturn V',
+        model: 'Mapex Saturn',
         shells: 'Maple/Walnut',
         finish: 'Custom Chris Adler signature finishes',
         config: {
@@ -2383,8 +2383,8 @@ This guide explores how to capture Chris's powerful groove metal style.`,
           toms: ['10" x 8" Tom', '12" x 9" Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Chris's Mapex kit provides the punch and attack needed for Lamb of God's heavy grooves. The Saturn V series offers excellent projection.",
-        affiliateNote: "Mapex Saturn V or Armory series capture similar attack."
+        description: "Chris's Mapex kit provides the punch and attack needed for Lamb of God's heavy grooves. The Saturn series offers excellent projection.",
+        affiliateNote: "Mapex Saturn or Armory series capture similar attack."
       },
       snare: {
         brand: 'Mapex',
@@ -2392,7 +2392,7 @@ This guide explores how to capture Chris's powerful groove metal style.`,
         size: '14" x 5.5"',
         shell: 'Walnut/Maple',
         description: "Chris's signature snare is designed for cutting power. The Walnut/Maple shell gives a shallow, articulate crack that punches through LOG's dense arrangements.",
-        alternative: "Mapex Black Panther Walnut/Maple or Mapex Armory"
+        alternative: "Mapex Saturn Walnut/Maple or Mapex Armory"
       },
       cymbals: {
         brand: 'Meinl',
@@ -2505,7 +2505,7 @@ This guide explores how to capture Chris's powerful groove metal style.`,
       mid: {
         price: "$2,500",
         label: "Intermediate Setup",
-        kit: "Mapex Saturn V ($1,500)",
+        kit: "Mapex Saturn ($1,500)",
         cymbals: "Meinl Mb10 Set ($650)",
         pedals: "Trick Pro V Double ($350)",
         sticks: "Vic Firth Chris Adler ($15)",
@@ -2514,7 +2514,7 @@ This guide explores how to capture Chris's powerful groove metal style.`,
       pro: {
         price: "$5,000+",
         label: "Professional Setup",
-        kit: "Mapex Saturn V or Black Panther ($2,500+)",
+        kit: "Mapex Saturn ($2,500+)",
         cymbals: "Meinl Byzance Custom ($1,500+)",
         pedals: "Trick Pro V or Pearl Demon Drive ($500)",
         heads: "Full Evans setup ($150)",

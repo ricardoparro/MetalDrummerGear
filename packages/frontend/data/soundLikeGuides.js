@@ -8897,7 +8897,7 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
     readingTime: '11 min',
     intro: {
       title: "The Godfather of Death Metal Blast Beats",
-      content: `Pete Sandoval (born June 24, 1964) is widely recognized as the godfather of death metal drumming — the musician who defined the technical template for an entire genre. As the original drummer of Morbid Angel from 1988 through 2013, Sandoval was the rhythmic architect behind landmark albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" — recordings that established death metal's sonic identity and technical standard.
+      content: `Pete Sandoval (born June 24, 1964) is widely recognized as the godfather of death metal drumming — the musician who defined the technical template for an entire genre. As the original drummer of Morbid Angel from 1988 to 2010 — before spinal disc surgery sidelined him permanently — Sandoval was the rhythmic architect behind landmark albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" — recordings that established death metal's sonic identity and technical standard.
 
 What set Sandoval apart was not just his speed — though his double bass capability at 300+ BPM was genuinely unprecedented in the late 1980s — but his hyper-precision. Every note in a Sandoval blast beat has the same volume, the same timing, the same attack. At 260 BPM across a 6-minute song, there is no accommodation, no drift. He set the standard that every subsequent death metal drummer has been measured against.
 

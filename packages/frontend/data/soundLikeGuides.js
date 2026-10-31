@@ -6605,7 +6605,7 @@ Focus (1993), with Cynic, pushed even further into jazz-fusion territory. Reiner
           toms: ['8" x 8"', '10" x 9"', '12" x 10"'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Reinert switched to a Tama Artstar II birch shell kit for Death's Human (1991), recorded at Morrisound Recording with Scott Burns — replacing the Pearl Export series kit he'd used on his 1990 recording debut, Death's Spiritual Healing. The Artstar II's birch shells gave his playing a warm, open resonance that suited both death metal attack and jazz-influenced delicacy, contributing to the warmth that distinguishes Human's drum sound from the drier, more clinical production of some contemporary death metal. He carried the same kit into Cynic's Focus (1993). His setup was relatively conventional in configuration — the complexity came from his technique, not from an unconventional setup.",
+        description: "Reinert played a Tama Artstar II birch shell kit for Death's Human (1991), recorded at Morrisound Recording with Scott Burns — his actual recording debut with Death (Death's prior album, Spiritual Healing, was recorded by Bill Andrews, who had left the band before Reinert joined). The Artstar II's birch shells gave his playing a warm, open resonance that suited both death metal attack and jazz-influenced delicacy, contributing to the warmth that distinguishes Human's drum sound from the drier, more clinical production of some contemporary death metal. He carried the same kit into Cynic's Focus (1993). His setup was relatively conventional in configuration — the complexity came from his technique, not from an unconventional setup.",
         affiliateNote: "Tama Starclassic or Superstar Classic are the closest modern equivalents to the Artstar II's birch-shell tone."
       },
       snare: {
@@ -6630,7 +6630,7 @@ Focus (1993), with Cynic, pushed even further into jazz-fusion territory. Reiner
       pedals: {
         brand: 'DW',
         model: 'DW 5000 Double Pedal',
-        description: "Reinert upgraded to a DW 5000 double pedal for Human (1991) — a mechanical precision upgrade over the Pearl P-100P chain-drive twin pedal he'd used on Spiritual Healing. The DW 5000's precise, direct feel suited Reinert's varied kick dynamics, from subtle polymetric pulse notes to full-force death metal kick accents. He carried the same pedal into Cynic's Focus (1993).",
+        description: "Reinert played a DW 5000 double pedal for Death's Human (1991), his recording debut with the band. The DW 5000's precise, direct feel suited Reinert's varied kick dynamics, from subtle polymetric pulse notes to full-force death metal kick accents. He carried the same pedal into Cynic's Focus (1993).",
         alternative: "DW 5000 reissue or Tama Speed Cobra for comparable precision and response"
       },
       sticks: {
@@ -6743,7 +6743,7 @@ Focus (1993), with Cynic, pushed even further into jazz-fusion territory. Reiner
     faq: [
       {
         question: "What drum kit did Sean Reinert use on Death's Human?",
-        answer: "Sean Reinert played a Tama Artstar II birch shell kit during the Human (1991) recording period, recorded at Morrisound Recording with Scott Burns — replacing the Pearl Export series kit he'd used on Death's 1990 debut, Spiritual Healing. The Artstar II's warm, open birch tone is audible on Human's production, contributing to the organic warmth that distinguishes the album from drier contemporary death metal recordings. He ran a relatively conventional configuration — the musical complexity came from his technique and composition, not from an unusual setup."
+        answer: "Sean Reinert played a Tama Artstar II birch shell kit during the Human (1991) recording period, recorded at Morrisound Recording with Scott Burns — his actual recording debut with Death (Death's prior album, Spiritual Healing, was recorded by Bill Andrews, who had left the band before Reinert joined). The Artstar II's warm, open birch tone is audible on Human's production, contributing to the organic warmth that distinguishes the album from drier contemporary death metal recordings. He ran a relatively conventional configuration — the musical complexity came from his technique and composition, not from an unusual setup."
       },
       {
         question: "What cymbals did Sean Reinert use on Human?",

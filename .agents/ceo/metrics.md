@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-31 06:10 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-31 07:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -9,16 +9,16 @@
 | Metric | Last 7d |
 | --- | --- |
 | Active users | 420 |
-| Sessions | 480 |
-| Page views | 675 |
-| Engagement rate | 62.50% |
+| Sessions | 481 |
+| Page views | 676 |
+| Engagement rate | 62.37% |
 | Avg session (s) | 100 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| /drummer/frost | 17 | 6 |
 | /drummer/mario-duplantier | 17 | 8 |
-| /drummer/frost | 16 | 6 |
 | / | 14 | 9 |
 | /drummers | 14 | 6 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 404 | 342 |
+| Organic Search | 405 | 342 |
 | Direct | 76 | 76 |
 | Unassigned | 8 | 6 |
 | AI Assistant | 1 | 1 |
@@ -41,7 +41,7 @@
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 158 | 140 |
-| United Kingdom | 38 | 21 |
+| United Kingdom | 39 | 21 |
 | Singapore | 33 | 33 |
 | Germany | 19 | 17 |
 | Canada | 17 | 17 |

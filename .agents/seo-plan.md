@@ -15210,3 +15210,37 @@ Personally re-verified every candidate before filing rather than trusting subage
 4. Content-gap: `matt halpern` tour-spike re-check due ~2026-11-18 — not due yet.
 5. Drum-chair watch: next due Monday 2026-11-02, group 1 (rotate by ISO week % 4).
 6. `check-llms-freshness.yml` should go green on the next scheduled run (2026-10-31 07:35 UTC) now that #9961's regen merged — confirm, don't assume.
+
+---
+
+## 2026-10-31 07:xx UTC run (bank-capped mode — 5 proposals filed #9988-9992)
+
+### Context
+Bank check: 11 open `seo-proposal` (7 fresh from last night's run already CEO-promoted to `ai-fix` #9976-9982, #7981 human-held, 3 standing umbrellas #3810/#3819/#2211) → under 45 cap → filed up to 8 net-new. New-page freeze + LLM-first mode still binding (no new pages proposed). GSC content-gap: `matt halpern` row persists (6,152 impr, 0.02% CTR) — already diagnosed by CEO as a tour-driven demand spike (Periphery tour through ~11-18), no new action this run. Drum-chair weekly sweep: today (Sat 2026-10-31) is not Monday — skipped per schedule.
+
+### Audit summary
+- robots.txt: ✅ all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) + Claude-Web explicitly allowed, no crawl-delay.
+- `/llms/drummers/*.md`: 72 live. `/llms/*.md` top-level indexes: 32 live.
+- No new Lighthouse/schema audit this run (time spent on fact-drift research fan-out instead, per the proven higher-yield lever documented in `docs/seo-l2-l3-recovery.md` — L2 grows through citable facts nobody else has, not more schema passes).
+
+### Proposals filed this run
+1. #9988 — gearComparisons.js wrongly lists Danny Carey as a Sonor SQ2 user (verified: Sonor Custom)
+2. #9989 — Igor Cavalera extendedBios.js FAQ still says Paiste cymbals 2007-2018 (gearHighlights already fixed to Zildjian by #8103, FAQ never synced)
+3. #9990 — Mike Portnoy extendedBios.js cites wrong ProMark stick model code (TX420N vs verified TXMP420XW-AG)
+4. #9991 — gearPriceHistory.js fabricates nonexistent "Ahead Joey Jordison Signature" stick for 2001 (verified first signature deal: Promark TX515W, 2008)
+5. #9992 — SEO batch: genreGearGuides.js black-metal-kits guide misattributes Inferno to "Pearl Reference Pure" (~9 locations, verified: Reference Series)
+
+Method: 6 parallel research agents each scanned a distinct, less-recently-audited data file (top10Lists.js, gearComparisons.js, cymbalSetups.js+drumsticks.js, techniques.js+battles.js, gearPriceHistory.js, genreGearGuides.js sampled sections) cross-checking drummer gear/tenure claims against `endorsementNews.js`/`bands.js`/`extendedBios.js` ground truth. top10Lists.js came back fully clean (no action). One candidate (techniques.js Eloy Casagrande "band: Sepultura" field) was reviewed but NOT filed — the field represents genre/technique-association context (consistent with how Vinnie Paul/Pantera is listed despite his death), not necessarily "current band," so it didn't clear the concrete-contradiction bar. One candidate (battles.js "Slipknot Showdown" title) was reviewed and discarded as a non-issue — the title is accurate (both Joey Jordison and Eloy Casagrande are Slipknot drummers, former and current).
+
+All 5 filed issues were dedup-checked via `gh issue list --search` against the extensive existing fact-drift history before filing — none duplicate prior open/closed issues.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #9976-9982 (prior run, already CEO-promoted to ai-fix per 06:10 cheap pulse)
+- #9988-9992 (this run, 5 fresh)
+
+### Next run
+- Watch #9988-9992 triage/promotion.
+- Continue the fact-drift sweep into still-unaudited files next time bank is under cap: beginnerGuides.js, cymbalReferencePages.js, snareReferencePages.js, drumstickReferencePages.js, pedalReferencePages.js, gearSearchData.js, evolutionTimeline.js, birthdays.js, genres.js have not yet been swept this cycle.
+- `matt halpern` GSC spike: re-check after ~2026-11-18 per CEO's standing ruling, no new action until then.

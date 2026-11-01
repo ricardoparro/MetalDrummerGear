@@ -188,7 +188,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Igor brought tribal rhythms and raw Brazilian thrash energy to Sepultura. Vinnie defined American groove metal with crushing pocket and power.',
       technique: 'Igor fused tribal percussion with thrash aggression and signature groove patterns. Vinnie pioneered the heavy power-groove with punchy snare authority.',
-      gear: 'Igor played Tama Starclassic Maple with Paiste RUDE & 2002 cymbals. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals.',
+      gear: 'Igor currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals, a setup adopted in 2018; from 2006-2018 he played a ddrum Hybrid Kit with Zildjian A Custom cymbals (Cavalera Conspiracy era), and before that Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals during his Sepultura years. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals.',
       influence: 'Igor defined Brazilian metal and influenced global thrash. Vinnie\'s groove metal template shaped 90s American metal and beyond.',
     },
     verdict: 'Igor Cavalera and Vinnie Paul are two of thrash and groove metal\'s most defining forces. Igor built Sepultura\'s tribal-thrash blueprint; Vinnie cemented Pantera\'s unmistakable groove. Metal\'s evolution owes a debt to both.',

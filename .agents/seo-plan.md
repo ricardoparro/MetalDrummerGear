@@ -15330,3 +15330,62 @@ All 8 filed issues were dedup-checked via `gh issue list --search` against exten
 3. Fresh sweep targets for next under-cap run: `albumArticles/*.js` (directory, many files, not yet swept this cycle), `licks/*` and `studies/*` directories, `nameGeneratorData.js`, `budgetTiers.js`, `filterOptions.js`, `featuredDrummer.js`.
 4. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
 5. Drum-chair watch: due Monday 2026-11-02, group 1 (rotate by ISO week % 4) — not run today (Sunday).
+
+---
+
+## 2026-11-01 ~07:xx UTC run (bank-capped mode — 8 proposals filed #10058-10065)
+
+### Context
+Bank check: 13 open `seo-proposal` at run start (#7981/#10032 human-held, 3 standing umbrellas #2211/#3810/#3819, #10021-10028 already CEO-promoted overnight, #10031/#10033-10038 fresh from the prior 01:xx run) — well under the 45 cap → filed up to 8 net-new. New-page freeze + LLM-first mode still binding (no new pages proposed; all 8 are existing-page fact fixes). GSC content-gap: metrics.md (refreshed 07:02 UTC) shows **no significant content-gap rows** this run — nothing to address. Drum-chair weekly sweep: today (Sun 2026-11-01) is not Monday — skipped, next due 2026-11-02.
+
+### Audit summary
+- robots.txt (`api/robots.js`): ✅ all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed, no crawl-delay — unchanged.
+- `/llms/drummers/*.md`: 72 live. `/llms/*.md` top-level indexes: 32 live — unchanged.
+- No fresh Lighthouse/schema audit this run — time spent on a new fact-drift sweep target (per the proven higher-yield lever in `docs/seo-l2-l3-recovery.md`).
+
+### Method
+Opened a fresh sweep target per the prior run's carryover note: `packages/frontend/data/albumArticles/` (72 per-drummer files, never swept as a whole directory), plus `packages/frontend/data/licks/` (sampled 20 high-traffic drummers) and `packages/frontend/data/studies/*.js` + misc hand-maintained files (`nameGeneratorData.js`, `budgetTiers.js`, `filterOptions.js`, `featuredDrummer.js`). Dispatched 6 parallel research agents (4 covering albumArticles in alphabetical batches, 1 for studies/misc, 1 for licks) cross-checking every drummer against `bands.js`/`extendedBios.js`/`endorsementNews.js`/`drummerEvolution.js`/`snares.js`/`pedals.js` ground truth. The sweep surfaced **far more confirmed findings than the 8-issue cap** (~45+ across the 4 albumArticles batches alone) — personally live-verified (grep + ground-truth citation) the highest-severity 8 before filing, prioritizing Kairos recording-window violations and multi-location fabrications, and dedup-checked every candidate via `gh issue list --search` against this drummer's extensive prior fact-drift history before filing (several heavily-worked drummers like Daray/Aquiles Priester/Eloy Casagrande/Gene Hoglan have 6-8 prior closed issues each — confirmed each new finding targets a file never swept by those prior fixes, not a re-litigation).
+
+### Proposals filed this run
+1. #10058 — Gene Hoglan albumArticles.js/licks.js fabricate Death's "Human" (1991) + Testament's "Low"/"Gathering" credits (Kairos violations), plus an internal birthdate self-contradiction (Aug 31 vs May 31, 1967)
+2. #10059 — Daniel Erlandsson albumArticles.js credits him with Stigmata (1998, actually Peter Wildoer, Kairos violation) + misdates Wages of Sin as 2002 across 19+ locations (verified 2001)
+3. #10060 — Daray albumArticles.js Vader tenure fabricated as "2006-2016" (verified 2004-2008) + 2 album Kairos violations (Welcome to the Morbid Reich 2011, Tibi et Igni 2014 — outside his actual tenure)
+4. #10061 — Aquiles Priester albumArticles.js fabricates Angra tenure dates, a 2023 "return" narrative, an Aqua (2010) Kairos-violation credit, and inconsistent W.A.S.P. tenure dates
+5. #10062 — Jaska Raatikainen albumArticles.js fabricates a "DW 5000" pedal for the 1999 Hatebreeder era — contradicts the file's own 4+ "Pearl Eliminator" mentions for the same era plus drummerEvolution.js ground truth
+6. #10063 — Eloy Casagrande albumArticles.js wholesale-fabricates "Tama S.L.P. Sonic Steel" snare + "Speed Cobra" pedal across the entire file (Sepultura and Slipknot eras alike) — verified Bell Brass (BB146) 14x5.5" / Iron Cobra Double Pedal, same bug class already fixed in drummerComparisons.js by closed #8954/#9954 but never swept here
+7. #10064 — Lars Ulrich albumArticles.js Black Album (1991) era gear fabricated across all 3 fields (drum kit, snare, cymbals) — verified Tama Granstar Custom / Tama Bell Brass 14x6.5" / Zildjian Z Custom per drummerEvolution.js
+8. #10065 — api/drummers/index.js flat `band` display field desynced from the more-current `bands` array/ground truth for Jay Weinberg (departed Suicidal Tendencies Jan 2026) and Alex Rüdinger (his own `bands` array already shows Trivium 2025-present, only the flat field was never synced) — root-cause fix that cascades into `studies/*.js` via `compute-studies.cjs`; also covers a stale Chris Adler tag in the hand-maintained `nameGeneratorData.js`
+
+### Held-back / not filed (carryover for next under-cap run)
+The albumArticles sweep surfaced significantly more than 8 confirmed findings. Not filed this run (highest-confidence remainder, for next sweep):
+- **matt-halpern.js**: wrong birthdate (Aug 30 1984 vs verified June 21 1983) + internal brand/model self-contradiction (snare titled "DW Collector's Series" but fields say Pearl; cymbals titled "Sabian HHX" but fields say Meinl)
+- **martin-lopez.js**: wrong birthdate (Feb 8 1978 vs verified May 20 1978), 2 locations
+- **inferno.js**: stale birthdate/birthplace (9 occurrences) — already fixed in `birthdays.js`/`api/drummers/index.js` by closed #8534 but never swept here
+- **jason-bittner.js**: Shadows Fall join year fabricated as 1997 (verified 2001) + a fabricated 1997-2001 era with 2 wrong album credits
+- **pete-sandoval.js**: wrong birthdate/birthplace + Morbid Angel tenure end year wrong (2013 vs verified 2010)
+- **john-otto.js**: Kairos violation (The Unquestionable Truth Part 1, 2005 — actually Sammy Siegler filling in)
+- **tim-yeung.js**: Kairos violation (Kingdoms Disdained, 2017 — recorded by his successor)
+- **kevin-talley.js**: Kairos violation (Misery Index's Discordia, 2006 — outside his 2001-2003 tenure)
+- **hannes-grossmann.js**: Kairos violation (Epitaph credited before his 2004 Necrophagist join) + internal Alkaloid founding-year contradiction
+- **richard-christy.js**: Death join year off by one (1996 vs verified 1997)
+- **igor-cavalera.js**: Cavalera Conspiracy kit/pedal brand fabricated (Tama vs verified ddrum/DW for that era)
+- **joey-jordison.js**: snare dimension wrong (14x5" vs verified 13x6.5") + fabricated Grammy nomination claim
+- **dirk-verbeuren.js, frost.js, chris-adler.js, derek-roddy.js, tomas-haake.js, dave-lombardo.js**: birthdate/birthplace/join-year errors, single-field fixes
+- **ray-luzier.js, raymond-herrera.js, ryan-van-poederooyen.js, scott-travis.js, sean-reinert.js**: internal self-contradictions (anachronistic signature gear, producer-credit mixup, inflated tenure-length claim, pedal/brand contradiction, death-date/JSON-LD mismatch)
+- **licks/danny-carey.js**: fabricated era-specific drum model names ("Designer Series", "Phonic Plus") for eras drummerEvolution.js explicitly documents as "Brand unconfirmed" — violates the site's verified-only rule
+- Several more lower-confidence/hypothesis-only items noted by the research agents but not independently re-verified (see full agent output in this run's conversation; not reproduced here to keep this log a status line, not a report)
+
+### Learned-patterns.md updates
+- None this run — all 8 filed findings are instances of already-documented fabrication classes (Kairos recording-window misattribution, sibling-file-never-swept after a root-cause fix elsewhere, internal self-contradiction within one file, root-display-field-desynced-from-detail-array). Worth flagging for a future consolidation: `albumArticles/*.js` as a directory has now proven to be nearly as fact-drift-prone as `drummerComparisons.js` ever was, despite being dedicated single-drummer long-form content — it had never been swept as a full directory before this run.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold, filed 2026-11-01)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10058-10065 (this run, 8 fresh)
+
+### Next run
+1. Watch #10058-10065 triage/promotion. #10063 (Eloy Casagrande) is the highest-risk/largest-scope — implementer must sweep the ENTIRE file (dozens of locations across 4 album-era sections), not just a sample.
+2. Continue the `albumArticles/*.js` sweep next under-cap run from the "Held-back" list above (~20 more confirmed findings already identified, ranked by severity in that list) — this directory is not yet fully swept (only ~70 of its ~72 drummer files were read this run; licks/ only 20 of ~70 files sampled).
+3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
+4. Drum-chair watch: due Monday 2026-11-02, group 1 (rotate by ISO week % 4) — not run today (Sunday).

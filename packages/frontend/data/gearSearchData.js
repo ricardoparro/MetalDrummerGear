@@ -40,6 +40,7 @@ export const GEAR_DATABASE = {
     { id: 'tama-slp', name: 'Tama S.L.P. 14x6.5" G-Maple', brand: 'tama', category: 'snare', tier: 'mid', price: 450, keywords: ['slp', 'maple', 'tama'] },
     { id: 'tama-bell-brass', name: 'Tama Bell Brass 14x5.5"', brand: 'tama', category: 'snare', tier: 'pro', price: 800, keywords: ['bell', 'brass', 'tama'] },
     { id: 'tama-metalworks', name: 'Tama Metalworks 14x5.5"', brand: 'tama', category: 'snare', tier: 'budget', price: 200, keywords: ['metalworks', 'tama', 'steel'] },
+    { id: 'tama-charlie-benante-signature', name: 'Tama Charlie Benante Signature 14x6.5"', brand: 'tama', category: 'snare', tier: 'pro', price: 650, keywords: ['charlie', 'benante', 'signature', 'tama'] },
     { id: 'pearl-sensitone', name: 'Pearl Sensitone Elite 14x5"', brand: 'pearl', category: 'snare', tier: 'mid', price: 400, keywords: ['sensitone', 'elite', 'pearl'] },
     { id: 'pearl-joey', name: 'Pearl Joey Jordison Signature 13x6.5"', brand: 'pearl', category: 'snare', tier: 'mid', price: 480, keywords: ['joey', 'jordison', 'signature', 'pearl'] },
     { id: 'pearl-kollias', name: 'Pearl George Kollias Signature 14x6.5"', brand: 'pearl', category: 'snare', tier: 'mid', price: 520, keywords: ['george', 'kollias', 'signature', 'pearl'] },
@@ -186,7 +187,7 @@ export const DRUMMER_GEAR = {
   },
   'charlie-benante': {
     drums: ['tama-starclassic-maple'],
-    snare: ['tama-slp'],
+    snare: ['tama-charlie-benante-signature'],
     cymbals: ['paiste-rude'],
     hardware: ['tama-iron-cobra'],
     sticks: ['vicfirth-5a'],

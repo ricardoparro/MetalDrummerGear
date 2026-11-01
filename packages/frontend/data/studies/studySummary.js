@@ -26,9 +26,9 @@ export const STUDY_SUMMARY = {
     "generatedAt": "2026-07-25",
     "totalDrummers": 72,
     "topKitBrand": {
-      "brand": "Pearl",
-      "count": 22,
-      "percent": 30.6
+      "brand": "Tama",
+      "count": 21,
+      "percent": 29.2
     }
   },
   "tempoBySubgenre": {
@@ -42,15 +42,15 @@ export const STUDY_SUMMARY = {
     "totalDrummers": 72,
     "topReachBrand": {
       "brand": "Vic Firth",
-      "count": 44,
-      "percent": 61.1
+      "count": 36,
+      "percent": 50
     }
   },
   "kitConfigurations": {
     "generatedAt": "2026-07-25",
     "totalDrummers": 72,
-    "doublePedalCount": 59,
-    "doublePedalPercent": 81.9
+    "doublePedalCount": 47,
+    "doublePedalPercent": 65.3
   }
 };
 

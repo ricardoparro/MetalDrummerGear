@@ -563,7 +563,7 @@ export const DRUMMER_MATCHES = [
   {
     id: 'chris-adler',
     name: 'Chris Adler',
-    band: 'Lamb of God',
+    band: 'ex-Lamb of God',
     image: '/images/drummers/chris-adler.webp',
     traits: ['groove', 'technical', 'modern'],
     matchQuote: 'Your groove metal game is strong!'

@@ -835,9 +835,9 @@ const drummers = [
   {
     id: 10,
     name: 'Jay Weinberg',
-    band: 'Suicidal Tendencies',
+    band: 'ex-Slipknot / Suicidal Tendencies',
     bands: [
-      { name: 'Suicidal Tendencies', period: '2023–present', current: true },
+      { name: 'Suicidal Tendencies', period: '2023–2026', current: false },
       { name: 'Slipknot', period: '2014–2023', current: false },
       { name: 'Against Me!', period: '2009–2014', current: false }
     ],
@@ -3658,7 +3658,7 @@ const drummers = [
   {
     id: 70,
     name: 'Alex Rüdinger',
-    band: 'The Faceless',
+    band: 'Trivium',
     bands: [
       { name: 'Threat Signal', period: '2010–2012', current: false },
       { name: 'The HAARP Machine', period: '2012–2013', current: false },

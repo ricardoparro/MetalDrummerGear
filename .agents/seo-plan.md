@@ -15283,3 +15283,50 @@ Note: #10002/#10003/#10004 are one systemic bug (a generic `tama-slp` placeholde
 4. Flo Mounier Pearl-vs-Tama kit brand conflict (`extendedBios.js` vs `drummerEvolution.js`) — still needs a resolution approach before either file can be "fixed."
 5. Drum-chair watch: next due Monday 2026-11-02, group 1 (rotate by ISO week % 4).
 6. `matt halpern` GSC gap query has dropped out of the top-10 this run — no longer tracked as an open content-gap; re-flag only if it resurfaces.
+
+## 2026-11-01 ~01:xx UTC run (bank-capped mode — 8 proposals filed #10031-10038)
+
+### Context
+Bank check: 13 open `seo-proposal` (#7981 human-held, 3 standing umbrellas #2211/#3810/#3819, #10004 straggler, #10021-10028 fresh-but-already-CEO-promoted overnight at 00:23) → well under 45 cap → filed up to 8 net-new. New-page freeze + LLM-first mode still binding (no new pages proposed). GSC content-gap: `matt halpern` row persists (5,793 impr/0.02% CTR/pos 10.8) — unchanged from the CEO's standing tour-driven-spike ruling (re-check due ~2026-11-18), no new action. Drum-chair weekly sweep: today (Sun 2026-11-01) is not Monday — skipped, next due 2026-11-02.
+
+### Audit summary
+- robots.txt (`api/robots.js`): ✅ all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) + Claude-Web explicitly allowed, no crawl-delay — unchanged.
+- `/llms/drummers/*.md`: 72 live. `/llms/*.md` top-level indexes: 32 live — unchanged.
+- No fresh Lighthouse/schema audit this run — time spent on the fact-drift sweep (proven higher-yield lever per `docs/seo-l2-l3-recovery.md`).
+
+### Method
+Closed out carryover items from the 2026-10-31 run notes, then swept 5 fresh file groups via parallel research agents, personally re-verifying every candidate against ground truth (grep + exact line quotes) before filing — same discipline as recent CEO triage runs:
+1. **soundLikeGuides.js leftover candidates** (Hannes Grossmann, Hellhammer, Arin Ilejay — flagged 2026-10-31, never independently verified): all 3 came back **CLEAN**. Each has already been through ~20-25 closed issues and the current text is the fully-converged correct state. No action, no re-filing — closing this carryover item out.
+2. **Flo Mounier Pearl-vs-Tama kit-brand conflict** (standing since 2026-10-30): dispatched a web-search agent. Found the entire sitewide "Tama since 2012" narrative traces to one internal line (`endorsementNews.js:1024`) that ~20+ subsequent "verified" fixes cited without ever independently re-sourcing it externally. The only external source found (Drumeo, fetched live) says **Pearl**, not Tama. This is a large-blast-radius, high-uncertainty finding — filed as a flag/hold-style proposal (#10032) asking for a human/founder primary-source check before any mechanical edit, same pattern as the standing #7981 hold. Not treated as a routine fact-fix.
+3. **drummerComparisons.js** (not specifically swept in several days, historically the highest-yield file): found 4 confirmed issues — Vinnie Paul unverified "steel" snare claim (#10031), Flo Mounier internal snare-model desync (#10033, explicitly scoped independent of #10032's bigger brand question), an Igor Cavalera entry missed by the era-qualification sweep that fixed all its siblings (#10034), and 7 Matt Greiner locations using a wording variant ("signature Pearl..." vs "Pearl Matt Greiner Signature...") that evaded closed #9915's grep-based fix (#10035).
+4. **Gear category/setup pages** (`drummerGearCategoryPages.js`, `gearCategoryPages.js`, `signatureSnarePages.js`, `signatureStickPages.js`, `cymbalSetupPages.js`, `pedalSetupPages.js`): all **CLEAN** — pure templating modules with no hardcoded per-drummer facts to drift.
+5. **Quiz/misc files** (`guessTheKitData.js`, `kitQuizData.js`, `quizData.js`, `trendingDrummers.js`, `metalSongsBpm.js`, `drummerPhotoFocus.js`): 5 of 6 clean (quiz-mechanics/telemetry/cosmetics with no new factual claims). `kitQuizData.js` had 3 confirmed findings — Danny Carey wrong drums+pedal fields (#10036), Gene Hoglan snare regressed to a fabricated model after the sitewide ground truth was later corrected to "not independently verified" by closed #8594/#9346 (#10037), Joey Jordison kit name drifted to a nonexistent "Pearl Masters Maple Reserve" vs verified "Pearl Masters Premium Maple" (#10038).
+
+All 8 filed issues were dedup-checked via `gh issue list --search` against extensive prior fact-drift history (including reading the full body of 2 near-miss closed issues, #5683 and #9825, to confirm these are genuine un-remediated gaps/regressions, not duplicates) before filing.
+
+### Proposals filed this run
+1. #10031 — Vinnie Paul drummerComparisons.js states unverified "8-inch-deep steel" snare as fact
+2. #10032 — Flo Mounier "Tama since 2012" kit-brand claim may be wrong — flagged for founder-level re-verification (not a routine fix, do not auto-promote to mechanical edit)
+3. #10033 — Flo Mounier drummerComparisons.js snare model desynced from extendedBios.js (S.L.P. Classic Dry Aluminum vs Starclassic Maple) — explicitly scoped independent of #10032
+4. #10034 — igor-cavalera-vs-vinnie-paul gear field missed by the era-qualification sweep applied to sibling Igor Cavalera entries
+5. #10035 — Matt Greiner's current-tense Pearl snare survives in 7 drummerComparisons.js locations — wording variant missed by closed #9915
+6. #10036 — kitQuizData.js Danny Carey wrong drums+pedal (Sonor Designer Series / DW 9000 vs verified Sonor SQ2 Heavy Beech / Sonor Giant Step)
+7. #10037 — kitQuizData.js Gene Hoglan snare regressed to fabricated model after ground truth was corrected to "not independently verified"
+8. #10038 — kitQuizData.js Joey Jordison nonexistent "Pearl Masters Maple Reserve" vs verified "Pearl Masters Premium Maple"
+
+### Learned-patterns.md updates
+- None this run — all 8 are instances of already-documented classes (unverified-specific-claim-as-fact, cross-file brand-consensus-built-on-an-uncited-root-claim, sibling-entry-missed-by-a-sweep, wording-variant-evades-grep-based-fix, sibling-file-never-resynced-after-a-later-consensus-correction). #10032 is a notable instance worth watching: it's the first time this cycle a "verified" multi-issue consensus has been challenged by an external source rather than another internal file — if a human confirms Pearl, the resulting resync would be the largest single reversal this quarter and may be worth a dedicated learned-patterns entry on "an internal citation cascade is not independent verification."
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold, filed 2026-09-23)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10004 (straggler from 2026-10-31)
+- #10021-10028 (already CEO-promoted to ai-fix per 2026-11-01 00:23 cheap pulse)
+- #10031-10038 (this run, 8 fresh)
+
+### Next run
+1. Watch #10031-10038 triage/promotion. **#10032 is the one that needs careful handling** — it should NOT be mechanically promoted to a find-replace `ai-fix`; it needs a founder/human primary-source check first, same as #7981. Flag this explicitly if it looks like it's about to be auto-promoted.
+2. soundLikeGuides.js full-pass cleanup from 2026-10-31 is now complete (all 5 flagged candidates resolved: 2 filed/promoted, 3 confirmed clean this run).
+3. Fresh sweep targets for next under-cap run: `albumArticles/*.js` (directory, many files, not yet swept this cycle), `licks/*` and `studies/*` directories, `nameGeneratorData.js`, `budgetTiers.js`, `filterOptions.js`, `featuredDrummer.js`.
+4. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
+5. Drum-chair watch: due Monday 2026-11-02, group 1 (rotate by ISO week % 4) — not run today (Sunday).

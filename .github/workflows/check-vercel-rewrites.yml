@@ -11,7 +11,7 @@ on:
     paths:
       - '.github/workflows/check-vercel-rewrites.yml'
       - 'scripts/check-vercel-rewrites.cjs'
-      - 'api/meta/[...path].js'
+      - 'api/meta/**'
       - 'vercel.json'
       - 'middleware.js'
       - 'tests/**'
@@ -24,7 +24,7 @@ on:
     paths:
       - '.github/workflows/check-vercel-rewrites.yml'
       - 'scripts/check-vercel-rewrites.cjs'
-      - 'api/meta/[...path].js'
+      - 'api/meta/**'
       - 'vercel.json'
       - 'middleware.js'
       - 'tests/**'

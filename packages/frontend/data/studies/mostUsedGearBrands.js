@@ -27,9 +27,163 @@ export const MOST_USED_GEAR_BRANDS = {
       "label": "Drum Kits",
       "ranked": [
         {
+          "brand": "Tama",
+          "count": 21,
+          "percent": 29.2,
+          "drummers": [
+            {
+              "id": 1,
+              "name": "Lars Ulrich",
+              "slug": "lars-ulrich",
+              "band": "Metallica",
+              "configString": "Tama Starclassic Maple"
+            },
+            {
+              "id": 4,
+              "name": "Dave Lombardo",
+              "slug": "dave-lombardo",
+              "band": "Slayer",
+              "configString": "Tama Starclassic Walnut/Birch"
+            },
+            {
+              "id": 7,
+              "name": "Eloy Casagrande",
+              "slug": "eloy-casagrande",
+              "band": "Slipknot",
+              "configString": "Tama Starclassic Bubinga (22\"x16\" & 24\"x14\" Bass Drums, 10\", 12\", 13\" Toms, 16\" & 18\" Floor Toms)"
+            },
+            {
+              "id": 12,
+              "name": "Charlie Benante",
+              "slug": "charlie-benante",
+              "band": "Anthrax / S.O.D. / Pantera",
+              "configString": "Tama Starclassic"
+            },
+            {
+              "id": 13,
+              "name": "Mike Portnoy",
+              "slug": "mike-portnoy",
+              "band": "Dream Theater / Liquid Tension Experiment / The Winery Dogs",
+              "configString": "Tama Starclassic Maple + Starclassic Bubinga (\"Dream Monster\" dual kit)"
+            },
+            {
+              "id": 15,
+              "name": "Mario Duplantier",
+              "slug": "mario-duplantier",
+              "band": "Gojira",
+              "configString": "Tama Starclassic Bubinga (22\"x18\" Bass Drums x2, 12\"x9\" & 13\"x10\" Toms, 16\"x16\" Floor Tom)"
+            },
+            {
+              "id": 16,
+              "name": "Brann Dailor",
+              "slug": "brann-dailor",
+              "band": "Mastodon",
+              "configString": "Tama Starclassic Performer B/B"
+            },
+            {
+              "id": 25,
+              "name": "Alex Bent",
+              "slug": "alex-bent",
+              "band": "ex-Trivium / Arkaik / Dragonlord",
+              "configString": "Tama Starclassic Maple"
+            },
+            {
+              "id": 27,
+              "name": "Raymond Herrera",
+              "slug": "raymond-herrera",
+              "band": "Fear Factory / Arkaea / Brujeria",
+              "configString": "Tama Starclassic"
+            },
+            {
+              "id": 33,
+              "name": "Blake Richardson",
+              "slug": "blake-richardson",
+              "band": "Between the Buried and Me",
+              "configString": "Tama Starclassic Bubinga (Custom Finish)"
+            },
+            {
+              "id": 34,
+              "name": "Ben Koller",
+              "slug": "ben-koller",
+              "band": "Converge / Mutoid Man / Killer Be Killed",
+              "configString": "Tama Starclassic Performer B/B"
+            },
+            {
+              "id": 35,
+              "name": "Flo Mounier",
+              "slug": "flo-mounier",
+              "band": "Cryptopsy",
+              "configString": "Tama Starclassic Maple"
+            },
+            {
+              "id": 40,
+              "name": "Chris Turner",
+              "slug": "chris-turner",
+              "band": "Oceans Ate Alaska",
+              "configString": "Tama Starclassic Maple/Birch"
+            },
+            {
+              "id": 44,
+              "name": "Derek Roddy",
+              "slug": "derek-roddy",
+              "band": "Hate Eternal / Nile",
+              "configString": "Tama Starclassic Bubinga"
+            },
+            {
+              "id": 45,
+              "name": "Dirk Verbeuren",
+              "slug": "dirk-verbeuren",
+              "band": "Megadeth",
+              "configString": "Tama Starclassic Maple"
+            },
+            {
+              "id": 46,
+              "name": "Frost",
+              "slug": "frost",
+              "band": "Satyricon / 1349",
+              "configString": "Tama Starclassic Bubinga"
+            },
+            {
+              "id": 48,
+              "name": "Abe Cunningham",
+              "slug": "abe-cunningham",
+              "band": "Deftones",
+              "configString": "Tama Starclassic Bubinga (Egyptian Night Mist)"
+            },
+            {
+              "id": 57,
+              "name": "Daray",
+              "slug": "daray",
+              "band": "Dimmu Borgir / Vader",
+              "configString": "Tama Starclassic Performer B/B, Piano Black"
+            },
+            {
+              "id": 59,
+              "name": "Tim Yeung",
+              "slug": "tim-yeung",
+              "band": "Morbid Angel / Hate Eternal / Vital Remains",
+              "configString": "Tama Starclassic Bubinga"
+            },
+            {
+              "id": 66,
+              "name": "Adrian Erlandsson",
+              "slug": "adrian-erlandsson",
+              "band": "At the Gates",
+              "configString": "Tama Starclassic Bubinga"
+            },
+            {
+              "id": 70,
+              "name": "Alex Rüdinger",
+              "slug": "alex-rudinger",
+              "band": "Trivium",
+              "configString": "Tama Starclassic Performer B/B"
+            }
+          ]
+        },
+        {
           "brand": "Pearl",
-          "count": 22,
-          "percent": 30.6,
+          "count": 20,
+          "percent": 27.8,
           "drummers": [
             {
               "id": 2,
@@ -74,25 +228,11 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Pearl Reference Series"
             },
             {
-              "id": 25,
-              "name": "Alex Bent",
-              "slug": "alex-bent",
-              "band": "ex-Trivium / Arkaik / Dragonlord",
-              "configString": "Pearl Reference Pure Series"
-            },
-            {
               "id": 31,
               "name": "Nick Augusto",
               "slug": "nick-augusto",
               "band": "ex-Trivium",
               "configString": "Pearl Reference Pure"
-            },
-            {
-              "id": 35,
-              "name": "Flo Mounier",
-              "slug": "flo-mounier",
-              "band": "Cryptopsy",
-              "configString": "Pearl Masters Maple Complete"
             },
             {
               "id": 36,
@@ -102,25 +242,25 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Pearl Reference Series"
             },
             {
-              "id": 50,
-              "name": "Aquiles Priester",
-              "slug": "aquiles-priester",
-              "band": "Angra / W.A.S.P.",
-              "configString": "Pearl Reference Series"
+              "id": 49,
+              "name": "Richard Christy",
+              "slug": "richard-christy",
+              "band": "Death / Iced Earth",
+              "configString": "Pearl Masters Custom"
             },
             {
               "id": 51,
               "name": "Paul Mazurkiewicz",
               "slug": "paul-mazurkiewicz",
               "band": "Cannibal Corpse",
-              "configString": "Pearl Masters Maple Complete"
+              "configString": "Pearl Reference"
             },
             {
               "id": 52,
               "name": "Mike Mangini",
               "slug": "mike-mangini",
-              "band": "Dream Theater",
-              "configString": "Pearl Reference Series"
+              "band": "Godsmack (2026-present); Dream Theater (2010-2023)",
+              "configString": "Pearl Reference Pure"
             },
             {
               "id": 54,
@@ -137,13 +277,6 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Pearl Masters Premium Maple"
             },
             {
-              "id": 57,
-              "name": "Daray",
-              "slug": "daray",
-              "band": "Dimmu Borgir / Vader",
-              "configString": "Pearl Masterworks Stadium Exotic"
-            },
-            {
               "id": 58,
               "name": "Jocke Wallgren",
               "slug": "jocke-wallgren",
@@ -155,7 +288,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Kevin Talley",
               "slug": "kevin-talley",
               "band": "Dying Fetus / Misery Index / Six Feet Under",
-              "configString": "Pearl Masters Premium Legend"
+              "configString": "Pearl Masters Custom / Reference Series"
             },
             {
               "id": 63,
@@ -163,6 +296,13 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "paul-bostaph",
               "band": "Slayer",
               "configString": "Pearl Masters Maple Complete (MCX)"
+            },
+            {
+              "id": 65,
+              "name": "Nick Menza",
+              "slug": "nick-menza",
+              "band": "Megadeth",
+              "configString": "Pearl Reference Custom"
             },
             {
               "id": 68,
@@ -188,163 +328,9 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         },
         {
-          "brand": "Tama",
-          "count": 21,
-          "percent": 29.2,
-          "drummers": [
-            {
-              "id": 1,
-              "name": "Lars Ulrich",
-              "slug": "lars-ulrich",
-              "band": "Metallica",
-              "configString": "Tama Starclassic Maple"
-            },
-            {
-              "id": 4,
-              "name": "Dave Lombardo",
-              "slug": "dave-lombardo",
-              "band": "Slayer",
-              "configString": "Tama Starclassic Maple"
-            },
-            {
-              "id": 7,
-              "name": "Eloy Casagrande",
-              "slug": "eloy-casagrande",
-              "band": "Slipknot",
-              "configString": "Tama Starclassic Bubinga (22\"x16\" & 24\"x14\" Bass Drums, 10\", 12\", 13\" Toms, 16\" & 18\" Floor Toms)"
-            },
-            {
-              "id": 12,
-              "name": "Charlie Benante",
-              "slug": "charlie-benante",
-              "band": "Anthrax / S.O.D. / Pantera",
-              "configString": "Tama Starclassic"
-            },
-            {
-              "id": 13,
-              "name": "Mike Portnoy",
-              "slug": "mike-portnoy",
-              "band": "Dream Theater / Liquid Tension Experiment / The Winery Dogs",
-              "configString": "Tama Starclassic Maple/Birch"
-            },
-            {
-              "id": 15,
-              "name": "Mario Duplantier",
-              "slug": "mario-duplantier",
-              "band": "Gojira",
-              "configString": "Tama Starclassic Bubinga (22\"x18\" Bass Drums x2, 12\"x9\" & 13\"x10\" Toms, 16\"x16\" Floor Tom)"
-            },
-            {
-              "id": 16,
-              "name": "Brann Dailor",
-              "slug": "brann-dailor",
-              "band": "Mastodon",
-              "configString": "Tama Starclassic Performer B/B"
-            },
-            {
-              "id": 27,
-              "name": "Raymond Herrera",
-              "slug": "raymond-herrera",
-              "band": "Fear Factory / Arkaea / Brujeria",
-              "configString": "Tama Starclassic"
-            },
-            {
-              "id": 29,
-              "name": "Igor Cavalera",
-              "slug": "igor-cavalera",
-              "band": "Sepultura / Cavalera Conspiracy / Soulwax",
-              "configString": "Tama Starclassic Maple"
-            },
-            {
-              "id": 33,
-              "name": "Blake Richardson",
-              "slug": "blake-richardson",
-              "band": "Between the Buried and Me",
-              "configString": "Tama Starclassic Bubinga (Custom Finish)"
-            },
-            {
-              "id": 34,
-              "name": "Ben Koller",
-              "slug": "ben-koller",
-              "band": "Converge / Mutoid Man / Killer Be Killed",
-              "configString": "Tama Starclassic Maple"
-            },
-            {
-              "id": 40,
-              "name": "Chris Turner",
-              "slug": "chris-turner",
-              "band": "Oceans Ate Alaska",
-              "configString": "Tama Starclassic Maple/Birch"
-            },
-            {
-              "id": 44,
-              "name": "Derek Roddy",
-              "slug": "derek-roddy",
-              "band": "Hate Eternal / Nile",
-              "configString": "Tama Starclassic Bubinga"
-            },
-            {
-              "id": 45,
-              "name": "Dirk Verbeuren",
-              "slug": "dirk-verbeuren",
-              "band": "Megadeth",
-              "configString": "Tama Starclassic Walnut/Birch"
-            },
-            {
-              "id": 49,
-              "name": "Richard Christy",
-              "slug": "richard-christy",
-              "band": "Death / Iced Earth",
-              "configString": "Tama Starclassic Maple"
-            },
-            {
-              "id": 53,
-              "name": "Matt Garstka",
-              "slug": "matt-garstka",
-              "band": "Animals as Leaders",
-              "configString": "Tama Starclassic Walnut/Birch"
-            },
-            {
-              "id": 59,
-              "name": "Tim Yeung",
-              "slug": "tim-yeung",
-              "band": "Morbid Angel / Hate Eternal / Vital Remains",
-              "configString": "Tama Starclassic Bubinga"
-            },
-            {
-              "id": 64,
-              "name": "Sean Reinert",
-              "slug": "sean-reinert",
-              "band": "Death / Cynic",
-              "configString": "DW Collector's Series"
-            },
-            {
-              "id": 65,
-              "name": "Nick Menza",
-              "slug": "nick-menza",
-              "band": "Megadeth",
-              "configString": "Tama Swingstar"
-            },
-            {
-              "id": 66,
-              "name": "Adrian Erlandsson",
-              "slug": "adrian-erlandsson",
-              "band": "At the Gates",
-              "configString": "Tama Starclassic Bubinga"
-            },
-            {
-              "id": 70,
-              "name": "Alex Rüdinger",
-              "slug": "alex-rudinger",
-              "band": "The Faceless",
-              "configString": "Tama Starclassic Performer B/B"
-            }
-          ]
-        },
-        {
           "brand": "Sonor",
-          "count": 9,
-          "percent": 12.5,
+          "count": 7,
+          "percent": 9.7,
           "drummers": [
             {
               "id": 5,
@@ -372,21 +358,14 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Morgan Ågren",
               "slug": "morgan-agren",
               "band": "Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects",
-              "configString": "Sonor SQ2 Designer Series"
+              "configString": "Sonor SQ2 Beech"
             },
             {
-              "id": 41,
-              "name": "Nicko McBrain",
-              "slug": "nicko-mcbrain",
-              "band": "Iron Maiden",
-              "configString": "Sonor SQ2 Series"
-            },
-            {
-              "id": 46,
-              "name": "Frost",
-              "slug": "frost",
-              "band": "Satyricon / 1349",
-              "configString": "Sonor SQ2 Series"
+              "id": 43,
+              "name": "Mikkey Dee",
+              "slug": "mikkey-dee",
+              "band": "Scorpions / Motörhead",
+              "configString": "Sonor SQ2"
             },
             {
               "id": 47,
@@ -396,18 +375,60 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Sonor SQ2 Series"
             },
             {
-              "id": 62,
-              "name": "Martin Axenrot",
-              "slug": "martin-axenrot",
-              "band": "Opeth",
-              "configString": "DW Custom (Maple/Gum Shells)"
-            },
-            {
               "id": 69,
               "name": "Nick Barker",
               "slug": "nick-barker",
               "band": "Dimmu Borgir",
               "configString": "Sonor"
+            }
+          ]
+        },
+        {
+          "brand": "DW",
+          "count": 6,
+          "percent": 8.3,
+          "drummers": [
+            {
+              "id": 23,
+              "name": "Arin Ilejay",
+              "slug": "arin-ilejay",
+              "band": "ex-Avenged Sevenfold",
+              "configString": "DW Collector's Series"
+            },
+            {
+              "id": 24,
+              "name": "Navene Koperweis",
+              "slug": "navene-koperweis",
+              "band": "Entheos / ex-Animals as Leaders",
+              "configString": "DW Drums Performance Series"
+            },
+            {
+              "id": 53,
+              "name": "Matt Garstka",
+              "slug": "matt-garstka",
+              "band": "Animals as Leaders",
+              "configString": "DW Collector's Series"
+            },
+            {
+              "id": 56,
+              "name": "Hannes Grossmann",
+              "slug": "hannes-grossmann",
+              "band": "Obscura / ex-Necrophagist / Alkaloid",
+              "configString": "DW Collectors Series"
+            },
+            {
+              "id": 62,
+              "name": "Martin Axenrot",
+              "slug": "martin-axenrot",
+              "band": "Opeth",
+              "configString": "DW (Drum Workshop) — custom, maple/gum shells"
+            },
+            {
+              "id": 64,
+              "name": "Sean Reinert",
+              "slug": "sean-reinert",
+              "band": "Death / Cynic",
+              "configString": "DW Collector's Series"
             }
           ]
         },
@@ -421,20 +442,20 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Vinnie Paul",
               "slug": "vinnie-paul",
               "band": "Pantera / Damageplan / Hellyeah",
-              "configString": "ddrum Vinnie Paul Signature Series"
+              "configString": "ddrum (brand confirmed; specific kit series unverified)"
             },
             {
               "id": 21,
               "name": "Pete Sandoval",
               "slug": "pete-sandoval",
               "band": "Morbid Angel",
-              "configString": "ddrum (model unconfirmed)"
+              "configString": "ddrum (specific series unconfirmed)"
             },
             {
               "id": 26,
               "name": "Shannon Larkin",
               "slug": "shannon-larkin",
-              "band": "Godsmack / Ugly Kid Joe / Amen",
+              "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
               "configString": "ddrum Dios Series"
             },
             {
@@ -456,14 +477,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Chris Adler",
               "slug": "chris-adler",
               "band": "Lamb of God",
-              "configString": "Mapex Black Panther Design Lab"
-            },
-            {
-              "id": 23,
-              "name": "Arin Ilejay",
-              "slug": "arin-ilejay",
-              "band": "ex-Avenged Sevenfold",
-              "configString": "Mapex Saturn Series"
+              "configString": "Mapex Saturn in Satin Black Maple Burl"
             },
             {
               "id": 32,
@@ -478,41 +492,13 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "jason-bittner",
               "band": "Shadows Fall / Overkill / Category 7",
               "configString": "Mapex Saturn V"
-            }
-          ]
-        },
-        {
-          "brand": "SJC",
-          "count": 4,
-          "percent": 5.6,
-          "drummers": [
-            {
-              "id": 10,
-              "name": "Jay Weinberg",
-              "slug": "jay-weinberg",
-              "band": "Suicidal Tendencies",
-              "configString": "SJC Custom Drums (OBEY x ST Collaboration Kit)"
             },
             {
-              "id": 39,
-              "name": "Travis Orbin",
-              "slug": "travis-orbin",
-              "band": "Darkest Hour / ex-Periphery",
-              "configString": "SJC Custom Drums"
-            },
-            {
-              "id": 48,
-              "name": "Abe Cunningham",
-              "slug": "abe-cunningham",
-              "band": "Deftones",
-              "configString": "SJC Custom Drums"
-            },
-            {
-              "id": 61,
-              "name": "Isaac Lamb",
-              "slug": "isaac-lamb",
-              "band": "Kublai Khan TX",
-              "configString": "SJC Custom Drums"
+              "id": 50,
+              "name": "Aquiles Priester",
+              "slug": "aquiles-priester",
+              "band": "Angra / W.A.S.P.",
+              "configString": "Mapex Saturn Evolution All Maple (signature kit)"
             }
           ]
         },
@@ -533,7 +519,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Bill Ward",
               "slug": "bill-ward",
               "band": "Black Sabbath",
-              "configString": "Ludwig Classic Maple"
+              "configString": "Ludwig Standard / Club Date Series"
             },
             {
               "id": 67,
@@ -545,23 +531,23 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         },
         {
-          "brand": "DW",
+          "brand": "SJC",
           "count": 2,
           "percent": 2.8,
           "drummers": [
             {
-              "id": 24,
-              "name": "Navene Koperweis",
-              "slug": "navene-koperweis",
-              "band": "Entheos / ex-Animals as Leaders",
-              "configString": "DW Drums Performance Series"
+              "id": 10,
+              "name": "Jay Weinberg",
+              "slug": "jay-weinberg",
+              "band": "ex-Slipknot / Suicidal Tendencies",
+              "configString": "SJC Custom Drums (OBEY x ST Collaboration Kit)"
             },
             {
-              "id": 56,
-              "name": "Hannes Grossmann",
-              "slug": "hannes-grossmann",
-              "band": "Obscura / ex-Necrophagist / Alkaloid",
-              "configString": "DW Collectors Series"
+              "id": 39,
+              "name": "Travis Orbin",
+              "slug": "travis-orbin",
+              "band": "Darkest Hour / ex-Periphery",
+              "configString": "SJC Custom Drums"
             }
           ]
         },
@@ -599,25 +585,36 @@ export const MOST_USED_GEAR_BRANDS = {
           "percent": 1.4,
           "drummers": [
             {
-              "id": 43,
-              "name": "Mikkey Dee",
-              "slug": "mikkey-dee",
-              "band": "Scorpions / Motörhead",
-              "configString": "Yamaha Recording Custom"
+              "id": 29,
+              "name": "Igor Cavalera",
+              "slug": "igor-cavalera",
+              "band": "Sepultura / Cavalera Conspiracy / Soulwax",
+              "configString": "Yamaha Absolute Hybrid Maple"
             }
           ]
         }
       ],
-      "skippedCount": 0,
-      "skipped": []
+      "skippedCount": 2,
+      "skipped": [
+        {
+          "slug": "nicko-mcbrain",
+          "name": "Nicko McBrain",
+          "raw": "British Drum Co."
+        },
+        {
+          "slug": "isaac-lamb",
+          "name": "Isaac Lamb",
+          "raw": "Not publicly documented"
+        }
+      ]
     },
     "snares": {
       "label": "Snares",
       "ranked": [
         {
           "brand": "Tama",
-          "count": 21,
-          "percent": 29.2,
+          "count": 20,
+          "percent": 27.8,
           "drummers": [
             {
               "id": 1,
@@ -631,7 +628,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Dave Lombardo",
               "slug": "dave-lombardo",
               "band": "Slayer",
-              "configString": "Tama S.L.P. 14x6.5\" G-Maple"
+              "configString": "Tama S.L.P. 14x6.5\""
             },
             {
               "id": 7,
@@ -669,18 +666,18 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Tama S.L.P. 14x6.5\" G-Maple"
             },
             {
+              "id": 25,
+              "name": "Alex Bent",
+              "slug": "alex-bent",
+              "band": "ex-Trivium / Arkaik / Dragonlord",
+              "configString": "Tama Starclassic Maple 14x5\""
+            },
+            {
               "id": 27,
               "name": "Raymond Herrera",
               "slug": "raymond-herrera",
               "band": "Fear Factory / Arkaea / Brujeria",
               "configString": "Tama 14x6.5\" Brass"
-            },
-            {
-              "id": 29,
-              "name": "Igor Cavalera",
-              "slug": "igor-cavalera",
-              "band": "Sepultura / Cavalera Conspiracy / Soulwax",
-              "configString": "Tama S.L.P. 14x6.5\" G-Maple"
             },
             {
               "id": 33,
@@ -715,21 +712,28 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Dirk Verbeuren",
               "slug": "dirk-verbeuren",
               "band": "Megadeth",
-              "configString": "Tama S.L.P. Big Black Steel 14x6.5\""
+              "configString": "Tama S.L.P. Dynamic Bronze 14x5.5\""
             },
             {
-              "id": 49,
-              "name": "Richard Christy",
-              "slug": "richard-christy",
-              "band": "Death / Iced Earth",
-              "configString": "Tama Starclassic 14x6.5\" Maple"
+              "id": 46,
+              "name": "Frost",
+              "slug": "frost",
+              "band": "Satyricon / 1349",
+              "configString": "Tama Starclassic Bubinga 14x5.5\""
             },
             {
-              "id": 53,
-              "name": "Matt Garstka",
-              "slug": "matt-garstka",
-              "band": "Animals as Leaders",
-              "configString": "Tama S.L.P. 14x6\" G-Maple"
+              "id": 48,
+              "name": "Abe Cunningham",
+              "slug": "abe-cunningham",
+              "band": "Deftones",
+              "configString": "Tama Starclassic matching snare (no separate model documented)"
+            },
+            {
+              "id": 57,
+              "name": "Daray",
+              "slug": "daray",
+              "band": "Dimmu Borgir / Vader",
+              "configString": "Tama S.L.P. Black Brass LBR1465"
             },
             {
               "id": 59,
@@ -737,20 +741,6 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "tim-yeung",
               "band": "Morbid Angel / Hate Eternal / Vital Remains",
               "configString": "Tama S.L.P. Big Black Steel 14x6.5\""
-            },
-            {
-              "id": 64,
-              "name": "Sean Reinert",
-              "slug": "sean-reinert",
-              "band": "Death / Cynic",
-              "configString": "DW Collector's Series"
-            },
-            {
-              "id": 65,
-              "name": "Nick Menza",
-              "slug": "nick-menza",
-              "band": "Megadeth",
-              "configString": "Tama Steel Snare 14x5.5\""
             },
             {
               "id": 66,
@@ -763,15 +753,15 @@ export const MOST_USED_GEAR_BRANDS = {
               "id": 70,
               "name": "Alex Rüdinger",
               "slug": "alex-rudinger",
-              "band": "The Faceless",
+              "band": "Trivium",
               "configString": "Tama STARPHONIC Brass 14x6\" (or SLP Black Brass alternate)"
             }
           ]
         },
         {
           "brand": "Pearl",
-          "count": 20,
-          "percent": 27.8,
+          "count": 17,
+          "percent": 23.6,
           "drummers": [
             {
               "id": 2,
@@ -806,7 +796,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Matt Halpern",
               "slug": "matt-halpern",
               "band": "Periphery",
-              "configString": "Pearl Reference 14x6.5\" Brass"
+              "configString": "Pearl Matt Halpern Signature 14x6\" Brass (MH1460/B)"
             },
             {
               "id": 19,
@@ -816,25 +806,11 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Pearl Reference 14x5\" Steel"
             },
             {
-              "id": 25,
-              "name": "Alex Bent",
-              "slug": "alex-bent",
-              "band": "ex-Trivium / Arkaik / Dragonlord",
-              "configString": "Pearl Reference 14x5\" Brass"
-            },
-            {
               "id": 31,
               "name": "Nick Augusto",
               "slug": "nick-augusto",
               "band": "ex-Trivium",
               "configString": "Pearl Reference 14x6.5\" Brass"
-            },
-            {
-              "id": 35,
-              "name": "Flo Mounier",
-              "slug": "flo-mounier",
-              "band": "Cryptopsy",
-              "configString": "Pearl Masters 14x5.5\" Maple"
             },
             {
               "id": 36,
@@ -844,32 +820,25 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Pearl Reference 14x6.5\" Brass"
             },
             {
-              "id": 50,
-              "name": "Aquiles Priester",
-              "slug": "aquiles-priester",
-              "band": "Angra / W.A.S.P.",
-              "configString": "Pearl Reference 14x6.5\" Brass"
+              "id": 49,
+              "name": "Richard Christy",
+              "slug": "richard-christy",
+              "band": "Death / Iced Earth",
+              "configString": "Pearl Masters Custom 14x6.5\" Maple"
             },
             {
               "id": 51,
               "name": "Paul Mazurkiewicz",
               "slug": "paul-mazurkiewicz",
               "band": "Cannibal Corpse",
-              "configString": "Pearl Masters 14x6.5\" Maple"
-            },
-            {
-              "id": 52,
-              "name": "Mike Mangini",
-              "slug": "mike-mangini",
-              "band": "Dream Theater",
-              "configString": "Pearl Reference 14x5\" & 14x6.5\" Brass"
+              "configString": "Pearl Free-Floating Steel"
             },
             {
               "id": 54,
               "name": "Daniel Erlandsson",
               "slug": "daniel-erlandsson",
               "band": "Arch Enemy",
-              "configString": "Pearl Daniel Erlandsson Signature 14x5.5\""
+              "configString": "Pearl Reference Pure"
             },
             {
               "id": 55,
@@ -879,25 +848,18 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Pearl Masters 14x5.5\" Maple"
             },
             {
-              "id": 57,
-              "name": "Daray",
-              "slug": "daray",
-              "band": "Dimmu Borgir / Vader",
-              "configString": "Pearl Reference 14x5.5\" Brass"
-            },
-            {
               "id": 58,
               "name": "Jocke Wallgren",
               "slug": "jocke-wallgren",
               "band": "Amon Amarth",
-              "configString": "Pearl Reference 14x6.5\" Brass"
+              "configString": "Pearl Reference Pure 14x6.5\""
             },
             {
               "id": 60,
               "name": "Kevin Talley",
               "slug": "kevin-talley",
               "band": "Dying Fetus / Misery Index / Six Feet Under",
-              "configString": "Pearl Masters 14x5.5\" Maple"
+              "configString": "Pearl Masters 14\"x6.5\" Steel"
             },
             {
               "id": 63,
@@ -905,6 +867,13 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "paul-bostaph",
               "band": "Slayer",
               "configString": "Pearl Masters Steel 14x6.5\""
+            },
+            {
+              "id": 65,
+              "name": "Nick Menza",
+              "slug": "nick-menza",
+              "band": "Megadeth",
+              "configString": "Pearl Reference Custom 14x5.5\""
             },
             {
               "id": 68,
@@ -917,8 +886,8 @@ export const MOST_USED_GEAR_BRANDS = {
         },
         {
           "brand": "Sonor",
-          "count": 8,
-          "percent": 11.1,
+          "count": 7,
+          "percent": 9.7,
           "drummers": [
             {
               "id": 5,
@@ -946,7 +915,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Morgan Ågren",
               "slug": "morgan-agren",
               "band": "Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects",
-              "configString": "Sonor Designer 14x5.5\" Maple"
+              "configString": "Sonor SQ2 Beech 14x5.5\" Maple"
             },
             {
               "id": 41,
@@ -956,11 +925,11 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Sonor Nicko McBrain Signature 14x6.5\""
             },
             {
-              "id": 46,
-              "name": "Frost",
-              "slug": "frost",
-              "band": "Satyricon / 1349",
-              "configString": "Sonor SQ2 14x6\" Maple"
+              "id": 43,
+              "name": "Mikkey Dee",
+              "slug": "mikkey-dee",
+              "band": "Scorpions / Motörhead",
+              "configString": "Sonor Mikkey Dee Signature 14x7.25\" Birch"
             },
             {
               "id": 47,
@@ -968,13 +937,55 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "gavin-harrison",
               "band": "Porcupine Tree / King Crimson",
               "configString": "Sonor Gavin Harrison Signature 12x5\" & 14x5.25\""
+            }
+          ]
+        },
+        {
+          "brand": "DW",
+          "count": 6,
+          "percent": 8.3,
+          "drummers": [
+            {
+              "id": 23,
+              "name": "Arin Ilejay",
+              "slug": "arin-ilejay",
+              "band": "ex-Avenged Sevenfold",
+              "configString": "DW Collector's Series"
+            },
+            {
+              "id": 24,
+              "name": "Navene Koperweis",
+              "slug": "navene-koperweis",
+              "band": "Entheos / ex-Animals as Leaders",
+              "configString": "DW Performance 14x6.5\" Steel"
+            },
+            {
+              "id": 53,
+              "name": "Matt Garstka",
+              "slug": "matt-garstka",
+              "band": "Animals as Leaders",
+              "configString": "DW Collector's Series Purpleheart"
+            },
+            {
+              "id": 56,
+              "name": "Hannes Grossmann",
+              "slug": "hannes-grossmann",
+              "band": "Obscura / ex-Necrophagist / Alkaloid",
+              "configString": "DW Collectors 14x5.5\" Maple"
             },
             {
               "id": 62,
               "name": "Martin Axenrot",
               "slug": "martin-axenrot",
               "band": "Opeth",
-              "configString": "DW Custom (Maple/Gum Shells)"
+              "configString": "DW custom (specific model unverified)"
+            },
+            {
+              "id": 64,
+              "name": "Sean Reinert",
+              "slug": "sean-reinert",
+              "band": "Death / Cynic",
+              "configString": "DW Collector's Series Maple Shell"
             }
           ]
         },
@@ -988,20 +999,20 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Vinnie Paul",
               "slug": "vinnie-paul",
               "band": "Pantera / Damageplan / Hellyeah",
-              "configString": "ddrum Vinnie Paul Signature 14x8\""
+              "configString": "ddrum Vinnie Paul Signature 14x8\" (8-ply maple, 10 lugs, die-cast hoops)"
             },
             {
               "id": 21,
               "name": "Pete Sandoval",
               "slug": "pete-sandoval",
               "band": "Morbid Angel",
-              "configString": "ddrum (model unconfirmed)"
+              "configString": "ddrum (specific model unconfirmed)"
             },
             {
               "id": 26,
               "name": "Shannon Larkin",
               "slug": "shannon-larkin",
-              "band": "Godsmack / Ugly Kid Joe / Amen",
+              "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
               "configString": "ddrum Dios 14x6.5\" Maple"
             },
             {
@@ -1015,8 +1026,8 @@ export const MOST_USED_GEAR_BRANDS = {
         },
         {
           "brand": "Mapex",
-          "count": 4,
-          "percent": 5.6,
+          "count": 3,
+          "percent": 4.2,
           "drummers": [
             {
               "id": 17,
@@ -1024,13 +1035,6 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "chris-adler",
               "band": "Lamb of God",
               "configString": "Mapex Chris Adler Signature 14x5.5\" Walnut/Maple"
-            },
-            {
-              "id": 23,
-              "name": "Arin Ilejay",
-              "slug": "arin-ilejay",
-              "band": "ex-Avenged Sevenfold",
-              "configString": "Mapex Black Panther 14x6.5\""
             },
             {
               "id": 32,
@@ -1045,62 +1049,6 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "jason-bittner",
               "band": "Shadows Fall / Overkill / Category 7",
               "configString": "Mapex Black Panther 14x6.5\" Brass"
-            }
-          ]
-        },
-        {
-          "brand": "SJC",
-          "count": 4,
-          "percent": 5.6,
-          "drummers": [
-            {
-              "id": 10,
-              "name": "Jay Weinberg",
-              "slug": "jay-weinberg",
-              "band": "Suicidal Tendencies",
-              "configString": "SJC Jay Weinberg \"The Crucible\" 14x6.5\" 48-ply Brass"
-            },
-            {
-              "id": 39,
-              "name": "Travis Orbin",
-              "slug": "travis-orbin",
-              "band": "Darkest Hour / ex-Periphery",
-              "configString": "SJC Custom 14x6.5\" Maple"
-            },
-            {
-              "id": 48,
-              "name": "Abe Cunningham",
-              "slug": "abe-cunningham",
-              "band": "Deftones",
-              "configString": "SJC Custom 14x6.5\" Brass"
-            },
-            {
-              "id": 61,
-              "name": "Isaac Lamb",
-              "slug": "isaac-lamb",
-              "band": "Kublai Khan TX",
-              "configString": "SJC Custom 14x6.5\""
-            }
-          ]
-        },
-        {
-          "brand": "DW",
-          "count": 2,
-          "percent": 2.8,
-          "drummers": [
-            {
-              "id": 24,
-              "name": "Navene Koperweis",
-              "slug": "navene-koperweis",
-              "band": "Entheos / ex-Animals as Leaders",
-              "configString": "DW Performance 14x6.5\" Steel"
-            },
-            {
-              "id": 56,
-              "name": "Hannes Grossmann",
-              "slug": "hannes-grossmann",
-              "band": "Obscura / ex-Necrophagist / Alkaloid",
-              "configString": "DW Collectors 14x5.5\" Maple"
             }
           ]
         },
@@ -1122,6 +1070,27 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "bill-ward",
               "band": "Black Sabbath",
               "configString": "Ludwig Supraphonic 14x6.5\" LM402"
+            }
+          ]
+        },
+        {
+          "brand": "SJC",
+          "count": 2,
+          "percent": 2.8,
+          "drummers": [
+            {
+              "id": 10,
+              "name": "Jay Weinberg",
+              "slug": "jay-weinberg",
+              "band": "ex-Slipknot / Suicidal Tendencies",
+              "configString": "SJC Jay Weinberg \"The Crucible\" 14x6.5\" 48-ply Brass"
+            },
+            {
+              "id": 39,
+              "name": "Travis Orbin",
+              "slug": "travis-orbin",
+              "band": "Darkest Hour / ex-Periphery",
+              "configString": "SJC Custom 14x6.5\" Maple"
             }
           ]
         },
@@ -1159,17 +1128,37 @@ export const MOST_USED_GEAR_BRANDS = {
           "percent": 1.4,
           "drummers": [
             {
-              "id": 43,
-              "name": "Mikkey Dee",
-              "slug": "mikkey-dee",
-              "band": "Scorpions / Motörhead",
-              "configString": "Yamaha Mikkey Dee Signature 14x8\""
+              "id": 29,
+              "name": "Igor Cavalera",
+              "slug": "igor-cavalera",
+              "band": "Sepultura / Cavalera Conspiracy / Soulwax",
+              "configString": "Yamaha"
             }
           ]
         }
       ],
-      "skippedCount": 4,
+      "skippedCount": 8,
       "skipped": [
+        {
+          "slug": "flo-mounier",
+          "name": "Flo Mounier",
+          "raw": ""
+        },
+        {
+          "slug": "aquiles-priester",
+          "name": "Aquiles Priester",
+          "raw": ""
+        },
+        {
+          "slug": "mike-mangini",
+          "name": "Mike Mangini",
+          "raw": ""
+        },
+        {
+          "slug": "isaac-lamb",
+          "name": "Isaac Lamb",
+          "raw": "Not publicly documented"
+        },
         {
           "slug": "jon-dette",
           "name": "Jon Dette",
@@ -1195,174 +1184,6 @@ export const MOST_USED_GEAR_BRANDS = {
     "cymbals": {
       "label": "Cymbals",
       "ranked": [
-        {
-          "brand": "Zildjian",
-          "count": 23,
-          "percent": 31.9,
-          "drummers": [
-            {
-              "id": 1,
-              "name": "Lars Ulrich",
-              "slug": "lars-ulrich",
-              "band": "Metallica",
-              "configString": "Zildjian A Custom Series (14\" Dyno Beat Hi-Hats, 16\", 17\" & 18\" Rock Crashes, 20\" Z Custom China, 22\" Ride)"
-            },
-            {
-              "id": 6,
-              "name": "George Kollias",
-              "slug": "george-kollias",
-              "band": "Nile",
-              "configString": "Zildjian (14\" K Mastersound Hi-Hats, 17\" & 18\" K Custom Dark Crashes, 21\" A Custom Mega Bell Ride, 18\" China)"
-            },
-            {
-              "id": 9,
-              "name": "John Otto",
-              "slug": "john-otto",
-              "band": "Limp Bizkit",
-              "configString": "Zildjian (13\" A Custom Mastersound Hi-Hats, 16\" & 17\" A Custom Projection Crashes, 20\" A Custom EFX, 20\" FX Oriental Crash of Doom)"
-            },
-            {
-              "id": 10,
-              "name": "Jay Weinberg",
-              "slug": "jay-weinberg",
-              "band": "Suicidal Tendencies",
-              "configString": "Zildjian (14\" A New Beat Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" K Custom Ride, 19\" K China, 7\" FX Break Bell)"
-            },
-            {
-              "id": 15,
-              "name": "Mario Duplantier",
-              "slug": "mario-duplantier",
-              "band": "Gojira",
-              "configString": "Zildjian (14\" K Sweet Hi-Hats, 14\" A Custom Hi-Hats, 18\" K Custom Hybrid Crash, 19\" A Custom Crash, 20\" K Sweet Crash, 21\" Z Custom Mega Bell Ride, 18\" & 20\" Chinas)"
-            },
-            {
-              "id": 22,
-              "name": "Art Cruz",
-              "slug": "art-cruz",
-              "band": "Lamb of God",
-              "configString": "Zildjian (14\" A Custom Mastersound Hi-Hats, 18\" A Custom EFX, 18\" A Custom Medium Crash, 19\" A Custom Projection Crash, 20\" A Custom Crash, 21\" A Zildjian Mega Bell Ride, 19\" A Ultra Hammered Chinas, 17\" K China w/ EFX Holes, 9\" FX Trash Splashes, FX Blast Bell)"
-            },
-            {
-              "id": 23,
-              "name": "Arin Ilejay",
-              "slug": "arin-ilejay",
-              "band": "ex-Avenged Sevenfold",
-              "configString": "Zildjian (14\" A Custom Mastersound Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" A Sweet Ride, 18\" A Custom China)"
-            },
-            {
-              "id": 25,
-              "name": "Alex Bent",
-              "slug": "alex-bent",
-              "band": "ex-Trivium / Arkaik / Dragonlord",
-              "configString": "Zildjian (14\" K Custom Hybrid Hi-Hats, 18\" & 19\" K Custom Hybrid Crashes, 21\" K Custom Hybrid Ride, 18\" A Custom China)"
-            },
-            {
-              "id": 27,
-              "name": "Raymond Herrera",
-              "slug": "raymond-herrera",
-              "band": "Fear Factory / Arkaea / Brujeria",
-              "configString": "Zildjian A Custom & Z Custom Series (14\" A Custom Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" Z Custom Mega Bell Ride, 18\" A Custom China)"
-            },
-            {
-              "id": 34,
-              "name": "Ben Koller",
-              "slug": "ben-koller",
-              "band": "Converge / Mutoid Man / Killer Be Killed",
-              "configString": "Zildjian (14\" K Dark Thin Hi-Hats, 18\" & 19\" K Dark Medium Thin Crashes, 21\" K Custom Ride, 18\" K China)"
-            },
-            {
-              "id": 37,
-              "name": "Jason Bittner",
-              "slug": "jason-bittner",
-              "band": "Shadows Fall / Overkill / Category 7",
-              "configString": "Zildjian K & A Custom Series (14\" K Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" K Custom Ride, 18\" K China)"
-            },
-            {
-              "id": 38,
-              "name": "Martin Lopez",
-              "slug": "martin-lopez",
-              "band": "Soen / ex-Opeth",
-              "configString": "Zildjian K Dark Series (14\" K Dark Thin Hi-Hats, 18\" & 20\" K Dark Medium Thin Crashes, 22\" K Dark Light Ride, 18\" K China)"
-            },
-            {
-              "id": 39,
-              "name": "Travis Orbin",
-              "slug": "travis-orbin",
-              "band": "Darkest Hour / ex-Periphery",
-              "configString": "Zildjian K Custom Series (14\" K Custom Dark Hi-Hats, 18\" & 19\" K Custom Dark Crashes, 21\" K Custom Ride, 18\" K Custom China)"
-            },
-            {
-              "id": 43,
-              "name": "Mikkey Dee",
-              "slug": "mikkey-dee",
-              "band": "Scorpions / Motörhead",
-              "configString": "Zildjian A Custom & K Series (14\" A Custom Hi-Hats, 18\" & 19\" A Custom Crashes, 22\" K Custom Ride, 20\" Oriental China)"
-            },
-            {
-              "id": 45,
-              "name": "Dirk Verbeuren",
-              "slug": "dirk-verbeuren",
-              "band": "Megadeth",
-              "configString": "Meinl Byzance Brilliant Heavy Hammered & Classics Custom Dark (14\" Byzance Brilliant Hi-Hats, 18\", 19\", 20\", 21\" Classics Custom Dark Crashes, 22\" Byzance Brilliant Ride, 18\" Byzance Brilliant China)"
-            },
-            {
-              "id": 46,
-              "name": "Frost",
-              "slug": "frost",
-              "band": "Satyricon / 1349",
-              "configString": "Zildjian A Custom & K Series (14\" A Custom Hi-Hats, 16\", 17\", 18\" A Custom Crashes, 22\" K Custom Dark Ride, 18\" K China)"
-            },
-            {
-              "id": 47,
-              "name": "Gavin Harrison",
-              "slug": "gavin-harrison",
-              "band": "Porcupine Tree / King Crimson",
-              "configString": "Zildjian K Custom Special Dry Series (14\" Hi-Hats, 16\" & 18\" Crashes, 21\" Special Dry Ride, 18\" Trash China)"
-            },
-            {
-              "id": 48,
-              "name": "Abe Cunningham",
-              "slug": "abe-cunningham",
-              "band": "Deftones",
-              "configString": "Zildjian K Custom & A Custom Series (14\" K Custom Hi-Hats, 18\" & 20\" K Custom Crashes, 22\" K Custom Ride, 19\" A Custom China)"
-            },
-            {
-              "id": 55,
-              "name": "Jaska Raatikainen",
-              "slug": "jaska-raatikainen",
-              "band": "Children of Bodom",
-              "configString": "Zildjian A Custom & K Custom Series (14\" A Custom Hi-Hats, 17\" & 18\" A Custom Crashes, 20\" K Custom Ride)"
-            },
-            {
-              "id": 58,
-              "name": "Jocke Wallgren",
-              "slug": "jocke-wallgren",
-              "band": "Amon Amarth",
-              "configString": "Zildjian A Custom & K Custom Series (14\" A Custom Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" K Custom Ride)"
-            },
-            {
-              "id": 64,
-              "name": "Sean Reinert",
-              "slug": "sean-reinert",
-              "band": "Death / Cynic",
-              "configString": "Zildjian K Custom"
-            },
-            {
-              "id": 65,
-              "name": "Nick Menza",
-              "slug": "nick-menza",
-              "band": "Megadeth",
-              "configString": "Zildjian A Series (14\" A Hi-Hats, 16\" & 18\" A Crash, 20\" A Ride)"
-            },
-            {
-              "id": 67,
-              "name": "Jon Dette",
-              "slug": "jon-dette",
-              "band": "Slayer",
-              "configString": "Sabian AAX / Zildjian A Series (14\" Hi-Hats, 16\" & 18\" Crash, 20\" Ride, 18\" China)"
-            }
-          ]
-        },
         {
           "brand": "Sabian",
           "count": 22,
@@ -1394,27 +1215,20 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Vinnie Paul",
               "slug": "vinnie-paul",
               "band": "Pantera / Damageplan / Hellyeah",
-              "configString": "Sabian AA & AAX Series (14\" Hi-Hats, 18\" & 19\" Crashes, 21\" Ride, 18\" China)"
+              "configString": "Sabian (brand per secondary sources; specific models unverified)"
             },
             {
               "id": 13,
               "name": "Mike Portnoy",
               "slug": "mike-portnoy",
               "band": "Dream Theater / Liquid Tension Experiment / The Winery Dogs",
-              "configString": "Sabian HHX Series (14\" Evolution Hi-Hats, 18\" & 19\" Evolution Crashes, 21\" Raw Bell Dry Ride, 10\" & 12\" Evolution Splashes, 19\" O-Zone Crash)"
-            },
-            {
-              "id": 21,
-              "name": "Pete Sandoval",
-              "slug": "pete-sandoval",
-              "band": "Morbid Angel",
-              "configString": "Not publicly documented"
+              "configString": "Sabian HHX MAX / AAX MAXX Series (22\" HHX MAX Ride, 18\" AAX X-Plosion Crash, 19\" HHX X-Plosion Crash, 18\" AAX O-Zone Crash, 18\" HHX Chinese, 19\" Paragon Chinese, 7\"/9\"/11\" AAX MAXX Splashes, 6\"/6.5\"/7\" AA MAX Chimes)"
             },
             {
               "id": 26,
               "name": "Shannon Larkin",
               "slug": "shannon-larkin",
-              "band": "Godsmack / Ugly Kid Joe / Amen",
+              "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
               "configString": "Sabian AAX & HHX Series (14\" AAX Stage Hi-Hats, 18\" & 19\" AAX X-Plosion Crashes, 21\" HHX Raw Bell Dry Ride, 10\" AAX Splash, 18\" AAX Chinese)"
             },
             {
@@ -1453,25 +1267,18 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Sabian AA/AAX Series (14\" AAX Stage Hi-Hats, 18\" & 19\" AAX X-Plosion Crashes, 18\" AAX Chinese)"
             },
             {
-              "id": 50,
-              "name": "Aquiles Priester",
-              "slug": "aquiles-priester",
-              "band": "Angra / W.A.S.P.",
-              "configString": "Sabian HHX & AAX Series (14\" HHX Evolution Hi-Hats, 18\" & 19\" HHX X-Plosion Crashes, 21\" HHX Groove Ride, 18\" AAX Chinese)"
-            },
-            {
-              "id": 51,
-              "name": "Paul Mazurkiewicz",
-              "slug": "paul-mazurkiewicz",
-              "band": "Cannibal Corpse",
-              "configString": "Sabian AAX Series (14\" Stage Hi-Hats, 18\" & 19\" X-Plosion Crashes, 21\" Raw Bell Dry Ride, 18\" AAXtreme China)"
-            },
-            {
               "id": 52,
               "name": "Mike Mangini",
               "slug": "mike-mangini",
-              "band": "Dream Theater",
+              "band": "Godsmack (2026-present); Dream Theater (2010-2023)",
               "configString": "Sabian HHX & AAX Series (14\" HHX Evolution Hi-Hats, 17\", 18\", 19\" HHX Evolution Crashes, 21\" HHX Raw Bell Dry Ride)"
+            },
+            {
+              "id": 54,
+              "name": "Daniel Erlandsson",
+              "slug": "daniel-erlandsson",
+              "band": "Arch Enemy",
+              "configString": "Sabian AAX / HHX Series"
             },
             {
               "id": 59,
@@ -1488,11 +1295,25 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Sabian AAX Series (14\" Stage Hi-Hats, 17\" & 18\" X-Plosion Crashes, 20\" Stage Ride)"
             },
             {
+              "id": 62,
+              "name": "Martin Axenrot",
+              "slug": "martin-axenrot",
+              "band": "Opeth",
+              "configString": "SABIAN HHX / AAX Series (HHX Groove Hats, HHX Evolution O-Zone Crash, HHX Legacy Ride, HHX Chinese, AAX Splash)"
+            },
+            {
               "id": 63,
               "name": "Paul Bostaph",
               "slug": "paul-bostaph",
               "band": "Slayer",
               "configString": "Sabian AAX Series (14\" AAX Stage Hi-Hats, 17\" & 19\" AAX X-Plosion Crashes, 21\" AAX Stage Ride, 18\" AAXtreme China)"
+            },
+            {
+              "id": 65,
+              "name": "Nick Menza",
+              "slug": "nick-menza",
+              "band": "Megadeth",
+              "configString": "Sabian AA / Signature Series"
             },
             {
               "id": 66,
@@ -1525,9 +1346,170 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         },
         {
+          "brand": "Zildjian",
+          "count": 22,
+          "percent": 30.6,
+          "drummers": [
+            {
+              "id": 1,
+              "name": "Lars Ulrich",
+              "slug": "lars-ulrich",
+              "band": "Metallica",
+              "configString": "Zildjian A Custom Series (14\" Dyno Beat Hi-Hats, 16\", 17\" & 18\" Rock Crashes, 20\" Z Custom China, 22\" Ride)"
+            },
+            {
+              "id": 6,
+              "name": "George Kollias",
+              "slug": "george-kollias",
+              "band": "Nile",
+              "configString": "Zildjian (14\" K Mastersound Hi-Hats, 17\" & 18\" K Custom Dark Crashes, 21\" A Custom Mega Bell Ride, 18\" China)"
+            },
+            {
+              "id": 9,
+              "name": "John Otto",
+              "slug": "john-otto",
+              "band": "Limp Bizkit",
+              "configString": "Zildjian (13\" A Custom Mastersound Hi-Hats, 16\" & 17\" A Custom Projection Crashes, 20\" A Custom EFX, 20\" FX Oriental Crash of Doom)"
+            },
+            {
+              "id": 10,
+              "name": "Jay Weinberg",
+              "slug": "jay-weinberg",
+              "band": "ex-Slipknot / Suicidal Tendencies",
+              "configString": "Zildjian (14\" A New Beat Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" K Custom Ride, 19\" K China, 7\" FX Break Bell)"
+            },
+            {
+              "id": 15,
+              "name": "Mario Duplantier",
+              "slug": "mario-duplantier",
+              "band": "Gojira",
+              "configString": "Zildjian (14\" K Sweet Hi-Hats, 14\" A Custom Hi-Hats, 18\" K Custom Hybrid Crash, 19\" A Custom Crash, 20\" K Sweet Crash, 21\" Z Custom Mega Bell Ride, 18\" & 20\" Chinas)"
+            },
+            {
+              "id": 22,
+              "name": "Art Cruz",
+              "slug": "art-cruz",
+              "band": "Lamb of God",
+              "configString": "Zildjian (14\" A Custom Mastersound Hi-Hats, 18\" A Custom EFX, 18\" A Custom Medium Crash, 19\" A Custom Projection Crash, 20\" A Custom Crash, 21\" A Zildjian Mega Bell Ride, 19\" A Ultra Hammered Chinas, 17\" K China w/ EFX Holes, 9\" FX Trash Splashes, FX Blast Bell)"
+            },
+            {
+              "id": 23,
+              "name": "Arin Ilejay",
+              "slug": "arin-ilejay",
+              "band": "ex-Avenged Sevenfold",
+              "configString": "Zildjian (14\" A Custom Mastersound Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" A Sweet Ride, 18\" A Custom China)"
+            },
+            {
+              "id": 25,
+              "name": "Alex Bent",
+              "slug": "alex-bent",
+              "band": "ex-Trivium / Arkaik / Dragonlord",
+              "configString": "Zildjian (14\" K Custom Hybrid Hi-Hats, 18\" & 19\" K Custom Hybrid Crashes, 21\" K Custom Hybrid Ride, 18\" A Custom China)"
+            },
+            {
+              "id": 27,
+              "name": "Raymond Herrera",
+              "slug": "raymond-herrera",
+              "band": "Fear Factory / Arkaea / Brujeria",
+              "configString": "Zildjian A Custom & Z Custom Series (14\" A Custom Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" Z Custom Mega Bell Ride, 18\" A Custom China)"
+            },
+            {
+              "id": 29,
+              "name": "Igor Cavalera",
+              "slug": "igor-cavalera",
+              "band": "Sepultura / Cavalera Conspiracy / Soulwax",
+              "configString": "Zildjian A Custom Series"
+            },
+            {
+              "id": 30,
+              "name": "Bill Ward",
+              "slug": "bill-ward",
+              "band": "Black Sabbath",
+              "configString": "Zildjian Avedis Series"
+            },
+            {
+              "id": 34,
+              "name": "Ben Koller",
+              "slug": "ben-koller",
+              "band": "Converge / Mutoid Man / Killer Be Killed",
+              "configString": "Zildjian K Custom & A Custom Series (14\" K Custom Thin Hi-Hats, 18\" & 19\" K Custom Medium Thin Crashes, 21\" K Custom Ride, 18\" K China)"
+            },
+            {
+              "id": 37,
+              "name": "Jason Bittner",
+              "slug": "jason-bittner",
+              "band": "Shadows Fall / Overkill / Category 7",
+              "configString": "Zildjian K & A Custom Series (14\" K Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" K Custom Ride, 18\" K China)"
+            },
+            {
+              "id": 38,
+              "name": "Martin Lopez",
+              "slug": "martin-lopez",
+              "band": "Soen / ex-Opeth",
+              "configString": "Zildjian K Dark Series (14\" K Dark Thin Hi-Hats, 18\" & 20\" K Dark Medium Thin Crashes, 22\" K Dark Light Ride, 18\" K China)"
+            },
+            {
+              "id": 39,
+              "name": "Travis Orbin",
+              "slug": "travis-orbin",
+              "band": "Darkest Hour / ex-Periphery",
+              "configString": "Zildjian K Custom Series (14\" K Custom Dark Hi-Hats, 18\" & 19\" K Custom Dark Crashes, 21\" K Custom Ride, 18\" K Custom China)"
+            },
+            {
+              "id": 46,
+              "name": "Frost",
+              "slug": "frost",
+              "band": "Satyricon / 1349",
+              "configString": "Zildjian A Series"
+            },
+            {
+              "id": 47,
+              "name": "Gavin Harrison",
+              "slug": "gavin-harrison",
+              "band": "Porcupine Tree / King Crimson",
+              "configString": "Zildjian K Custom Special Dry Series (14\" Hi-Hats, 16\" & 18\" Crashes, 21\" Special Dry Ride, 18\" Trash China)"
+            },
+            {
+              "id": 48,
+              "name": "Abe Cunningham",
+              "slug": "abe-cunningham",
+              "band": "Deftones",
+              "configString": "Zildjian K Custom & A Custom Series (14\" K Custom Hi-Hats, 18\" & 20\" K Custom Crashes, 22\" K Custom Ride, 19\" A Custom China)"
+            },
+            {
+              "id": 55,
+              "name": "Jaska Raatikainen",
+              "slug": "jaska-raatikainen",
+              "band": "Children of Bodom",
+              "configString": "Zildjian A Custom & K Custom Series (14\" A Custom Hi-Hats, 17\" & 18\" A Custom Crashes, 20\" K Custom Ride)"
+            },
+            {
+              "id": 58,
+              "name": "Jocke Wallgren",
+              "slug": "jocke-wallgren",
+              "band": "Amon Amarth",
+              "configString": "Zildjian A Custom & K Custom Series (14\" A Custom Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" K Custom Ride)"
+            },
+            {
+              "id": 64,
+              "name": "Sean Reinert",
+              "slug": "sean-reinert",
+              "band": "Death / Cynic",
+              "configString": "Zildjian K Custom Series"
+            },
+            {
+              "id": 67,
+              "name": "Jon Dette",
+              "slug": "jon-dette",
+              "band": "Slayer",
+              "configString": "Sabian AAX / Zildjian A Series (14\" Hi-Hats, 16\" & 18\" Crash, 20\" Ride, 18\" China)"
+            }
+          ]
+        },
+        {
           "brand": "Paiste",
-          "count": 15,
-          "percent": 20.8,
+          "count": 14,
+          "percent": 19.4,
           "drummers": [
             {
               "id": 2,
@@ -1562,7 +1544,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Danny Carey",
               "slug": "danny-carey",
               "band": "Tool",
-              "configString": "Paiste Signature Series (15\" Sound Edge Hi-Hats, 18\" & 19\" Power Crashes, 22\" Dry Heavy Ride, 20\" & 22\" Chinas, various Rude crashes)"
+              "configString": "Paiste Signature Series (14\" Sound Edge Hi-Hats, 18\" & 20\" Power Crashes, 22\" Dry Heavy Ride \"Monad\", 2002 & Signature China cymbals)"
             },
             {
               "id": 19,
@@ -1586,20 +1568,6 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Paiste Signature & 2002 Series (14\" Signature Heavy Hi-Hats, 18\" & 20\" Signature Fast Crashes, 22\" Signature Dry Heavy Ride, 18\" 2002 China)"
             },
             {
-              "id": 29,
-              "name": "Igor Cavalera",
-              "slug": "igor-cavalera",
-              "band": "Sepultura / Cavalera Conspiracy / Soulwax",
-              "configString": "Paiste RUDE & 2002 Series (14\" RUDE Hi-Hats, 18\" & 19\" RUDE Crashes, 22\" RUDE Power Ride, 18\" 2002 China)"
-            },
-            {
-              "id": 30,
-              "name": "Bill Ward",
-              "slug": "bill-ward",
-              "band": "Black Sabbath",
-              "configString": "Paiste 2002 & Giant Beat Series (15\" Giant Beat Hi-Hats, 18\" & 20\" 2002 Crashes, 24\" 2002 Ride, 18\" 2002 China)"
-            },
-            {
               "id": 32,
               "name": "Matt Greiner",
               "slug": "matt-greiner",
@@ -1621,11 +1589,18 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Paiste RUDE & 2002 Series (14\" RUDE Hi-Hats, 18\" & 19\" RUDE Crashes, 22\" RUDE Power Ride, 18\" RUDE China)"
             },
             {
-              "id": 54,
-              "name": "Daniel Erlandsson",
-              "slug": "daniel-erlandsson",
-              "band": "Arch Enemy",
-              "configString": "Paiste RUDE & 2002 Series (14\" RUDE Hi-Hats, 18\" & 19\" RUDE Crashes, 22\" RUDE Power Ride)"
+              "id": 43,
+              "name": "Mikkey Dee",
+              "slug": "mikkey-dee",
+              "band": "Scorpions / Motörhead",
+              "configString": "Paiste Signature Series (14\" Sound Edge Hi-Hats, 19\" & 20\" Power Crashes, 22\" Power Ride, 18\" Heavy China)"
+            },
+            {
+              "id": 50,
+              "name": "Aquiles Priester",
+              "slug": "aquiles-priester",
+              "band": "Angra / W.A.S.P.",
+              "configString": "Paiste Custom red-coated set incl. 18\" Psychoctopus Giga Bell Ride"
             },
             {
               "id": 57,
@@ -1660,7 +1635,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Matt Halpern",
               "slug": "matt-halpern",
               "band": "Periphery",
-              "configString": "Meinl Byzance Series (15\" Dark Hi-Hats, 18\" & 20\" Extra Dry Medium Crashes, 22\" Transition Ride, 18\" Extra Dry China)"
+              "configString": "Meinl Byzance Series (14\" Traditional Medium Hi-Hats, 18\" & 20\" Traditional Extra Thin Hammered Crashes, 21\" Byzance Dark Double Down Crash-Ride, plus Artist Concept \"Double Down Stack\")"
             },
             {
               "id": 24,
@@ -1684,6 +1659,20 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Meinl Byzance & Mb20 Series (14\" Byzance Heavy Hi-Hats, 18\" & 19\" Mb20 Heavy Crashes, 21\" Mb20 Heavy Ride, 18\" Byzance China)"
             },
             {
+              "id": 45,
+              "name": "Dirk Verbeuren",
+              "slug": "dirk-verbeuren",
+              "band": "Megadeth",
+              "configString": "Meinl Byzance Brilliant & Classics Custom Dark Series (14\" Byzance Brilliant Hi-Hat, 18\"-21\" Classics Custom Dark Crashes, 22\" Byzance Brilliant Ride, 18\" Byzance Brilliant China)"
+            },
+            {
+              "id": 51,
+              "name": "Paul Mazurkiewicz",
+              "slug": "paul-mazurkiewicz",
+              "band": "Cannibal Corpse",
+              "configString": "Meinl Classics Custom & Byzance Series"
+            },
+            {
               "id": 53,
               "name": "Matt Garstka",
               "slug": "matt-garstka",
@@ -1698,24 +1687,10 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Meinl Byzance Series (14\" Byzance Traditional Hi-Hats, 18\" & 19\" Byzance Brilliant Crashes, 21\" Byzance Traditional Ride)"
             },
             {
-              "id": 61,
-              "name": "Isaac Lamb",
-              "slug": "isaac-lamb",
-              "band": "Kublai Khan TX",
-              "configString": "Meinl Classics Custom Dark Series (14\" Hi-Hats, 18\" & 20\" Crashes, 21\" Ride, 18\" China)"
-            },
-            {
-              "id": 62,
-              "name": "Martin Axenrot",
-              "slug": "martin-axenrot",
-              "band": "Opeth",
-              "configString": "Sabian HHX / AAX Series"
-            },
-            {
               "id": 70,
               "name": "Alex Rüdinger",
               "slug": "alex-rudinger",
-              "band": "The Faceless",
+              "band": "Trivium",
               "configString": "Meinl Cymbals (Byzance and MB20 series; specific models not independently documented — omitted rather than guessed)"
             },
             {
@@ -1728,8 +1703,18 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         }
       ],
-      "skippedCount": 1,
+      "skippedCount": 3,
       "skipped": [
+        {
+          "slug": "pete-sandoval",
+          "name": "Pete Sandoval",
+          "raw": "Cymbal brand/model not publicly documented"
+        },
+        {
+          "slug": "isaac-lamb",
+          "name": "Isaac Lamb",
+          "raw": "Not publicly documented"
+        },
         {
           "slug": "nick-barker",
           "name": "Nick Barker",
@@ -1742,8 +1727,8 @@ export const MOST_USED_GEAR_BRANDS = {
       "ranked": [
         {
           "brand": "Vic Firth",
-          "count": 44,
-          "percent": 61.1,
+          "count": 36,
+          "percent": 50,
           "drummers": [
             {
               "id": 6,
@@ -1764,7 +1749,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Vinnie Paul",
               "slug": "vinnie-paul",
               "band": "Pantera / Damageplan / Hellyeah",
-              "configString": "Vic Firth American Classic 5B"
+              "configString": "Vic Firth (specific in-career model unverified)"
             },
             {
               "id": 12,
@@ -1802,13 +1787,6 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Vic Firth American Classic 5B"
             },
             {
-              "id": 23,
-              "name": "Arin Ilejay",
-              "slug": "arin-ilejay",
-              "band": "ex-Avenged Sevenfold",
-              "configString": "Vic Firth American Classic 5A"
-            },
-            {
               "id": 24,
               "name": "Navene Koperweis",
               "slug": "navene-koperweis",
@@ -1826,7 +1804,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "id": 26,
               "name": "Shannon Larkin",
               "slug": "shannon-larkin",
-              "band": "Godsmack / Ugly Kid Joe / Amen",
+              "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
               "configString": "Vic Firth American Classic 5B"
             },
             {
@@ -1841,20 +1819,6 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Igor Cavalera",
               "slug": "igor-cavalera",
               "band": "Sepultura / Cavalera Conspiracy / Soulwax",
-              "configString": "Vic Firth American Classic 5B"
-            },
-            {
-              "id": 30,
-              "name": "Bill Ward",
-              "slug": "bill-ward",
-              "band": "Black Sabbath",
-              "configString": "Vic Firth American Classic 2B"
-            },
-            {
-              "id": 31,
-              "name": "Nick Augusto",
-              "slug": "nick-augusto",
-              "band": "ex-Trivium",
               "configString": "Vic Firth American Classic 5B"
             },
             {
@@ -1942,13 +1906,6 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Vic Firth Gavin Harrison Signature"
             },
             {
-              "id": 48,
-              "name": "Abe Cunningham",
-              "slug": "abe-cunningham",
-              "band": "Deftones",
-              "configString": "Vic Firth American Classic 2B"
-            },
-            {
               "id": 49,
               "name": "Richard Christy",
               "slug": "richard-christy",
@@ -1960,7 +1917,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Paul Mazurkiewicz",
               "slug": "paul-mazurkiewicz",
               "band": "Cannibal Corpse",
-              "configString": "Vic Firth American Classic 5B"
+              "configString": "Vic Firth Paul Mazurkiewicz Signature"
             },
             {
               "id": 53,
@@ -1968,13 +1925,6 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "matt-garstka",
               "band": "Animals as Leaders",
               "configString": "Vic Firth Matt Garstka Signature"
-            },
-            {
-              "id": 54,
-              "name": "Daniel Erlandsson",
-              "slug": "daniel-erlandsson",
-              "band": "Arch Enemy",
-              "configString": "Vic Firth American Classic 5B"
             },
             {
               "id": 55,
@@ -2019,20 +1969,6 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Vic Firth American Classic 5B"
             },
             {
-              "id": 61,
-              "name": "Isaac Lamb",
-              "slug": "isaac-lamb",
-              "band": "Kublai Khan TX",
-              "configString": "Vic Firth American Classic 2B"
-            },
-            {
-              "id": 62,
-              "name": "Martin Axenrot",
-              "slug": "martin-axenrot",
-              "band": "Opeth",
-              "configString": "Pro-Mark"
-            },
-            {
               "id": 64,
               "name": "Sean Reinert",
               "slug": "sean-reinert",
@@ -2040,25 +1976,18 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Vic Firth American Classic 5A"
             },
             {
-              "id": 65,
-              "name": "Nick Menza",
-              "slug": "nick-menza",
-              "band": "Megadeth",
-              "configString": "Vic Firth American Classic 5B"
-            },
-            {
               "id": 66,
               "name": "Adrian Erlandsson",
               "slug": "adrian-erlandsson",
               "band": "At the Gates",
-              "configString": "Vic Firth American Classic Rock Nylon Tip (ROCKN)"
+              "configString": "Vic Firth Rock Nylon Tip (At the Gates Signature)"
             }
           ]
         },
         {
           "brand": "Promark",
-          "count": 13,
-          "percent": 18.1,
+          "count": 19,
+          "percent": 26.4,
           "drummers": [
             {
               "id": 2,
@@ -2117,11 +2046,32 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Pro-Mark (historical endorsement — current sticks unverified)"
             },
             {
+              "id": 23,
+              "name": "Arin Ilejay",
+              "slug": "arin-ilejay",
+              "band": "ex-Avenged Sevenfold",
+              "configString": "Promark 5B"
+            },
+            {
               "id": 27,
               "name": "Raymond Herrera",
               "slug": "raymond-herrera",
               "band": "Fear Factory / Arkaea / Brujeria",
               "configString": "Pro-Mark 5A Oak Nylon Tip"
+            },
+            {
+              "id": 30,
+              "name": "Bill Ward",
+              "slug": "bill-ward",
+              "band": "Black Sabbath",
+              "configString": "Pro-Mark Standard 5A/5B equivalent"
+            },
+            {
+              "id": 31,
+              "name": "Nick Augusto",
+              "slug": "nick-augusto",
+              "band": "ex-Trivium",
+              "configString": "Pro-Mark Nylon Tip 5B"
             },
             {
               "id": 37,
@@ -2131,11 +2081,32 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Promark Jason Bittner Signature 5BX"
             },
             {
+              "id": 48,
+              "name": "Abe Cunningham",
+              "slug": "abe-cunningham",
+              "band": "Deftones",
+              "configString": "Pro-Mark"
+            },
+            {
               "id": 50,
               "name": "Aquiles Priester",
               "slug": "aquiles-priester",
               "band": "Angra / W.A.S.P.",
-              "configString": "Promark TX419W Aquiles Priester Autograph"
+              "configString": "ProMark Aquiles Priester Signature"
+            },
+            {
+              "id": 54,
+              "name": "Daniel Erlandsson",
+              "slug": "daniel-erlandsson",
+              "band": "Arch Enemy",
+              "configString": "ProMark 5B"
+            },
+            {
+              "id": 62,
+              "name": "Martin Axenrot",
+              "slug": "martin-axenrot",
+              "band": "Opeth",
+              "configString": "Pro-Mark"
             },
             {
               "id": 67,
@@ -2155,14 +2126,14 @@ export const MOST_USED_GEAR_BRANDS = {
         },
         {
           "brand": "Vater",
-          "count": 6,
-          "percent": 8.3,
+          "count": 7,
+          "percent": 9.7,
           "drummers": [
             {
               "id": 10,
               "name": "Jay Weinberg",
               "slug": "jay-weinberg",
-              "band": "Suicidal Tendencies",
+              "band": "ex-Slipknot / Suicidal Tendencies",
               "configString": "Vater Jay Weinberg 908 Signature"
             },
             {
@@ -2183,7 +2154,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "id": 52,
               "name": "Mike Mangini",
               "slug": "mike-mangini",
-              "band": "Dream Theater",
+              "band": "Godsmack (2026-present); Dream Theater (2010-2023)",
               "configString": "Vater Mike Mangini Wicked Piston (VHMMWP)"
             },
             {
@@ -2192,6 +2163,13 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "paul-bostaph",
               "band": "Slayer",
               "configString": "Vater Power 5B"
+            },
+            {
+              "id": 65,
+              "name": "Nick Menza",
+              "slug": "nick-menza",
+              "band": "Megadeth",
+              "configString": "Vater Nick Menza Signature"
             },
             {
               "id": 67,
@@ -2280,8 +2258,13 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         }
       ],
-      "skippedCount": 3,
+      "skippedCount": 4,
       "skipped": [
+        {
+          "slug": "isaac-lamb",
+          "name": "Isaac Lamb",
+          "raw": "Not publicly documented"
+        },
         {
           "slug": "nick-barker",
           "name": "Nick Barker",
@@ -2304,8 +2287,8 @@ export const MOST_USED_GEAR_BRANDS = {
       "ranked": [
         {
           "brand": "Tama",
-          "count": 20,
-          "percent": 27.8,
+          "count": 22,
+          "percent": 30.6,
           "drummers": [
             {
               "id": 1,
@@ -2347,7 +2330,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Mike Portnoy",
               "slug": "mike-portnoy",
               "band": "Dream Theater / Liquid Tension Experiment / The Winery Dogs",
-              "configString": "Tama Iron Cobra Power Glide Double Pedal"
+              "configString": "Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)"
             },
             {
               "id": 15,
@@ -2382,7 +2365,14 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Ben Koller",
               "slug": "ben-koller",
               "band": "Converge / Mutoid Man / Killer Be Killed",
-              "configString": "Tama Iron Cobra 900 Double Pedal"
+              "configString": "Tama Iron Cobra Double Pedal"
+            },
+            {
+              "id": 35,
+              "name": "Flo Mounier",
+              "slug": "flo-mounier",
+              "band": "Cryptopsy",
+              "configString": "Tama Speed Cobra 910 Twin Pedal"
             },
             {
               "id": 40,
@@ -2406,11 +2396,18 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Tama Speed Cobra 910 Double Pedal"
             },
             {
-              "id": 49,
-              "name": "Richard Christy",
-              "slug": "richard-christy",
-              "band": "Death / Iced Earth",
-              "configString": "Tama Iron Cobra 900 Double Pedal"
+              "id": 46,
+              "name": "Frost",
+              "slug": "frost",
+              "band": "Satyricon / 1349",
+              "configString": "Tama Iron Cobra Power Glide Pedal"
+            },
+            {
+              "id": 48,
+              "name": "Abe Cunningham",
+              "slug": "abe-cunningham",
+              "band": "Deftones",
+              "configString": "Tama Iron Cobra Power Glide Twin Pedal (HP900PTW)"
             },
             {
               "id": 53,
@@ -2427,11 +2424,11 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Tama Speed Cobra 910 Double Pedal"
             },
             {
-              "id": 62,
-              "name": "Martin Axenrot",
-              "slug": "martin-axenrot",
-              "band": "Opeth",
-              "configString": "DW"
+              "id": 65,
+              "name": "Nick Menza",
+              "slug": "nick-menza",
+              "band": "Megadeth",
+              "configString": "Tama Iron Cobra Double Pedal"
             },
             {
               "id": 67,
@@ -2444,15 +2441,127 @@ export const MOST_USED_GEAR_BRANDS = {
               "id": 70,
               "name": "Alex Rüdinger",
               "slug": "alex-rudinger",
-              "band": "The Faceless",
+              "band": "Trivium",
               "configString": "Tama Speed Cobra Bass Drum Pedals"
             }
           ]
         },
         {
+          "brand": "DW",
+          "count": 15,
+          "percent": 20.8,
+          "drummers": [
+            {
+              "id": 8,
+              "name": "Ray Luzier",
+              "slug": "ray-luzier",
+              "band": "Korn",
+              "configString": "DW 9002 Double Pedal"
+            },
+            {
+              "id": 10,
+              "name": "Jay Weinberg",
+              "slug": "jay-weinberg",
+              "band": "ex-Slipknot / Suicidal Tendencies",
+              "configString": "DW 9000 Series Double Pedal"
+            },
+            {
+              "id": 23,
+              "name": "Arin Ilejay",
+              "slug": "arin-ilejay",
+              "band": "ex-Avenged Sevenfold",
+              "configString": "DW 9000 Series Double Pedal"
+            },
+            {
+              "id": 24,
+              "name": "Navene Koperweis",
+              "slug": "navene-koperweis",
+              "band": "Entheos / ex-Animals as Leaders",
+              "configString": "DW 9000 Series Double Pedal"
+            },
+            {
+              "id": 26,
+              "name": "Shannon Larkin",
+              "slug": "shannon-larkin",
+              "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
+              "configString": "DW 9000 Series Double Pedal"
+            },
+            {
+              "id": 27,
+              "name": "Raymond Herrera",
+              "slug": "raymond-herrera",
+              "band": "Fear Factory / Arkaea / Brujeria",
+              "configString": "DW 5000 Series Double Pedal"
+            },
+            {
+              "id": 31,
+              "name": "Nick Augusto",
+              "slug": "nick-augusto",
+              "band": "ex-Trivium",
+              "configString": "DW 9000 Series Double Pedal"
+            },
+            {
+              "id": 32,
+              "name": "Matt Greiner",
+              "slug": "matt-greiner",
+              "band": "August Burns Red",
+              "configString": "DW 9000 Series Double Pedal"
+            },
+            {
+              "id": 39,
+              "name": "Travis Orbin",
+              "slug": "travis-orbin",
+              "band": "Darkest Hour / ex-Periphery",
+              "configString": "DW 9000 Series Double Pedal"
+            },
+            {
+              "id": 42,
+              "name": "Scott Travis",
+              "slug": "scott-travis",
+              "band": "Judas Priest",
+              "configString": "DW 9000 Series Double Pedal"
+            },
+            {
+              "id": 43,
+              "name": "Mikkey Dee",
+              "slug": "mikkey-dee",
+              "band": "Scorpions / Motörhead",
+              "configString": "DW 5000 Series Pedal"
+            },
+            {
+              "id": 50,
+              "name": "Aquiles Priester",
+              "slug": "aquiles-priester",
+              "band": "Angra / W.A.S.P.",
+              "configString": "DW 9000 Series Double Pedal"
+            },
+            {
+              "id": 56,
+              "name": "Hannes Grossmann",
+              "slug": "hannes-grossmann",
+              "band": "Obscura / ex-Necrophagist / Alkaloid",
+              "configString": "DW 9000 Series Double Pedal"
+            },
+            {
+              "id": 64,
+              "name": "Sean Reinert",
+              "slug": "sean-reinert",
+              "band": "Death / Cynic",
+              "configString": "DW 9000 Double Pedal"
+            },
+            {
+              "id": 67,
+              "name": "Jon Dette",
+              "slug": "jon-dette",
+              "band": "Slayer",
+              "configString": "DW 9000 or Tama Iron Cobra Double Pedal"
+            }
+          ]
+        },
+        {
           "brand": "Pearl",
-          "count": 16,
-          "percent": 22.2,
+          "count": 13,
+          "percent": 18.1,
           "drummers": [
             {
               "id": 2,
@@ -2483,31 +2592,10 @@ export const MOST_USED_GEAR_BRANDS = {
               "configString": "Pearl Demon Drive Double Pedal"
             },
             {
-              "id": 31,
-              "name": "Nick Augusto",
-              "slug": "nick-augusto",
-              "band": "ex-Trivium",
-              "configString": "Pearl Demon Drive Double Pedal"
-            },
-            {
-              "id": 35,
-              "name": "Flo Mounier",
-              "slug": "flo-mounier",
-              "band": "Cryptopsy",
-              "configString": "Pearl Demon Drive Double Pedal"
-            },
-            {
               "id": 36,
               "name": "Ryan Van Poederooyen",
               "slug": "ryan-van-poederooyen",
               "band": "Devin Townsend Project",
-              "configString": "Pearl Demon Drive Double Pedal"
-            },
-            {
-              "id": 50,
-              "name": "Aquiles Priester",
-              "slug": "aquiles-priester",
-              "band": "Angra / W.A.S.P.",
               "configString": "Pearl Demon Drive Double Pedal"
             },
             {
@@ -2521,15 +2609,15 @@ export const MOST_USED_GEAR_BRANDS = {
               "id": 52,
               "name": "Mike Mangini",
               "slug": "mike-mangini",
-              "band": "Dream Theater",
-              "configString": "Pearl Demon Drive Double Pedal"
+              "band": "Godsmack (2026-present); Dream Theater (2010-2023)",
+              "configString": "Pearl Eliminator Redline Double Pedal"
             },
             {
               "id": 54,
               "name": "Daniel Erlandsson",
               "slug": "daniel-erlandsson",
               "band": "Arch Enemy",
-              "configString": "Pearl Demon Drive Double Pedal"
+              "configString": "Pearl Eliminator Double Bass Pedal"
             },
             {
               "id": 55,
@@ -2543,7 +2631,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Daray",
               "slug": "daray",
               "band": "Dimmu Borgir / Vader",
-              "configString": "Pearl Demon XR Double Pedal"
+              "configString": "Pearl Demon Drive Double Bass Pedal"
             },
             {
               "id": 58,
@@ -2569,149 +2657,9 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         },
         {
-          "brand": "DW",
-          "count": 14,
-          "percent": 19.4,
-          "drummers": [
-            {
-              "id": 8,
-              "name": "Ray Luzier",
-              "slug": "ray-luzier",
-              "band": "Korn",
-              "configString": "DW 9002 Double Pedal"
-            },
-            {
-              "id": 10,
-              "name": "Jay Weinberg",
-              "slug": "jay-weinberg",
-              "band": "Suicidal Tendencies",
-              "configString": "DW 9000 Series Double Pedal"
-            },
-            {
-              "id": 24,
-              "name": "Navene Koperweis",
-              "slug": "navene-koperweis",
-              "band": "Entheos / ex-Animals as Leaders",
-              "configString": "DW 9000 Series Double Pedal"
-            },
-            {
-              "id": 26,
-              "name": "Shannon Larkin",
-              "slug": "shannon-larkin",
-              "band": "Godsmack / Ugly Kid Joe / Amen",
-              "configString": "DW 9000 Series Double Pedal"
-            },
-            {
-              "id": 27,
-              "name": "Raymond Herrera",
-              "slug": "raymond-herrera",
-              "band": "Fear Factory / Arkaea / Brujeria",
-              "configString": "DW 5000 Series Double Pedal"
-            },
-            {
-              "id": 32,
-              "name": "Matt Greiner",
-              "slug": "matt-greiner",
-              "band": "August Burns Red",
-              "configString": "DW 9000 Series Double Pedal"
-            },
-            {
-              "id": 39,
-              "name": "Travis Orbin",
-              "slug": "travis-orbin",
-              "band": "Darkest Hour / ex-Periphery",
-              "configString": "DW 9000 Series Double Pedal"
-            },
-            {
-              "id": 42,
-              "name": "Scott Travis",
-              "slug": "scott-travis",
-              "band": "Judas Priest",
-              "configString": "DW 9000 Series Double Pedal"
-            },
-            {
-              "id": 48,
-              "name": "Abe Cunningham",
-              "slug": "abe-cunningham",
-              "band": "Deftones",
-              "configString": "DW 9000 Series Double Pedal"
-            },
-            {
-              "id": 56,
-              "name": "Hannes Grossmann",
-              "slug": "hannes-grossmann",
-              "band": "Obscura / ex-Necrophagist / Alkaloid",
-              "configString": "DW 9000 Series Double Pedal"
-            },
-            {
-              "id": 61,
-              "name": "Isaac Lamb",
-              "slug": "isaac-lamb",
-              "band": "Kublai Khan TX",
-              "configString": "DW 9000 Series Double Pedal"
-            },
-            {
-              "id": 64,
-              "name": "Sean Reinert",
-              "slug": "sean-reinert",
-              "band": "Death / Cynic",
-              "configString": "DW 9000 Double Pedal"
-            },
-            {
-              "id": 65,
-              "name": "Nick Menza",
-              "slug": "nick-menza",
-              "band": "Megadeth",
-              "configString": "DW 5000 Double Pedal"
-            },
-            {
-              "id": 67,
-              "name": "Jon Dette",
-              "slug": "jon-dette",
-              "band": "Slayer",
-              "configString": "DW 9000 or Tama Iron Cobra Double Pedal"
-            }
-          ]
-        },
-        {
-          "brand": "Sonor",
+          "brand": "Axis",
           "count": 4,
           "percent": 5.6,
-          "drummers": [
-            {
-              "id": 14,
-              "name": "Danny Carey",
-              "slug": "danny-carey",
-              "band": "Tool",
-              "configString": "Sonor Giant Step Twin Effect Double Pedal"
-            },
-            {
-              "id": 28,
-              "name": "Morgan Ågren",
-              "slug": "morgan-agren",
-              "band": "Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects",
-              "configString": "Sonor Giant Step Double Pedal"
-            },
-            {
-              "id": 46,
-              "name": "Frost",
-              "slug": "frost",
-              "band": "Satyricon / 1349",
-              "configString": "Sonor Perfect Balance Pedal"
-            },
-            {
-              "id": 47,
-              "name": "Gavin Harrison",
-              "slug": "gavin-harrison",
-              "band": "Porcupine Tree / King Crimson",
-              "configString": "Sonor Perfect Balance Pedal"
-            }
-          ]
-        },
-        {
-          "brand": "Axis",
-          "count": 3,
-          "percent": 4.2,
           "drummers": [
             {
               "id": 20,
@@ -2733,34 +2681,41 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "martin-lopez",
               "band": "Soen / ex-Opeth",
               "configString": "Axis Percussion Double Pedal"
+            },
+            {
+              "id": 49,
+              "name": "Richard Christy",
+              "slug": "richard-christy",
+              "band": "Death / Iced Earth",
+              "configString": "Axis A Longboard Double Pedal"
             }
           ]
         },
         {
-          "brand": "Mapex",
+          "brand": "Sonor",
           "count": 3,
           "percent": 4.2,
           "drummers": [
             {
-              "id": 17,
-              "name": "Chris Adler",
-              "slug": "chris-adler",
-              "band": "Lamb of God",
-              "configString": "Mapex Falcon Double Pedal"
+              "id": 14,
+              "name": "Danny Carey",
+              "slug": "danny-carey",
+              "band": "Tool",
+              "configString": "Sonor Giant Step Twin Effect Double Pedal"
             },
             {
-              "id": 23,
-              "name": "Arin Ilejay",
-              "slug": "arin-ilejay",
-              "band": "ex-Avenged Sevenfold",
-              "configString": "Mapex Falcon Double Pedal"
+              "id": 28,
+              "name": "Morgan Ågren",
+              "slug": "morgan-agren",
+              "band": "Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects",
+              "configString": "Sonor Giant Step Double Pedal"
             },
             {
-              "id": 37,
-              "name": "Jason Bittner",
-              "slug": "jason-bittner",
-              "band": "Shadows Fall / Overkill / Category 7",
-              "configString": "Mapex Falcon Double Pedal"
+              "id": 47,
+              "name": "Gavin Harrison",
+              "slug": "gavin-harrison",
+              "band": "Porcupine Tree / King Crimson",
+              "configString": "Sonor Perfect Balance Pedal"
             }
           ]
         },
@@ -2795,28 +2750,35 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Vinnie Paul",
               "slug": "vinnie-paul",
               "band": "Pantera / Damageplan / Hellyeah",
-              "configString": "ddrum Double Pedal"
+              "configString": "ddrum hardware (brand confirmed via 2009 interview; specific pedal/throne models unverified)"
             },
             {
               "id": 21,
               "name": "Pete Sandoval",
               "slug": "pete-sandoval",
               "band": "Morbid Angel",
-              "configString": "ddrum (model unconfirmed)"
+              "configString": "ddrum (specific pedal/hardware model unconfirmed)"
             }
           ]
         },
         {
-          "brand": "Gibraltar",
-          "count": 1,
-          "percent": 1.4,
+          "brand": "Trick",
+          "count": 2,
+          "percent": 2.8,
           "drummers": [
             {
-              "id": 9,
-              "name": "John Otto",
-              "slug": "john-otto",
-              "band": "Limp Bizkit",
-              "configString": "Gibraltar Professional Series Bass Drum Pedals"
+              "id": 17,
+              "name": "Chris Adler",
+              "slug": "chris-adler",
+              "band": "Lamb of God",
+              "configString": "Trick Pro V Double Pedal"
+            },
+            {
+              "id": 22,
+              "name": "Art Cruz",
+              "slug": "art-cruz",
+              "band": "Lamb of God",
+              "configString": "Trick Pro 1-V Double Pedal"
             }
           ]
         },
@@ -2835,30 +2797,16 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         },
         {
-          "brand": "Trick",
+          "brand": "Mapex",
           "count": 1,
           "percent": 1.4,
           "drummers": [
             {
-              "id": 22,
-              "name": "Art Cruz",
-              "slug": "art-cruz",
-              "band": "Lamb of God",
-              "configString": "Trick Pro 1-V Double Pedal"
-            }
-          ]
-        },
-        {
-          "brand": "Yamaha",
-          "count": 1,
-          "percent": 1.4,
-          "drummers": [
-            {
-              "id": 43,
-              "name": "Mikkey Dee",
-              "slug": "mikkey-dee",
-              "band": "Scorpions / Motörhead",
-              "configString": "Yamaha FP9 Double Pedal"
+              "id": 37,
+              "name": "Jason Bittner",
+              "slug": "jason-bittner",
+              "band": "Shadows Fall / Overkill / Category 7",
+              "configString": "Mapex Falcon Double Pedal"
             }
           ]
         }

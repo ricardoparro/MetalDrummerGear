@@ -33,9 +33,9 @@ export const KIT_CONFIGURATIONS = {
     "overall": {
       "doubleBass": 2,
       "twinSinglePedals": 2,
-      "doublePedal": 59,
+      "doublePedal": 47,
       "singlePedal": 1,
-      "unspecified": 8
+      "unspecified": 20
     },
     "bucketMinDrummers": 2,
     "byGenre": [
@@ -44,9 +44,9 @@ export const KIT_CONFIGURATIONS = {
         "totalDrummers": 12,
         "doubleBass": 0,
         "twinSinglePedals": 2,
-        "doublePedal": 8,
+        "doublePedal": 6,
         "singlePedal": 0,
-        "unspecified": 2
+        "unspecified": 4
       },
       {
         "genre": "Thrash Metal",
@@ -62,54 +62,54 @@ export const KIT_CONFIGURATIONS = {
         "totalDrummers": 6,
         "doubleBass": 0,
         "twinSinglePedals": 0,
-        "doublePedal": 6,
+        "doublePedal": 4,
         "singlePedal": 0,
-        "unspecified": 0
+        "unspecified": 2
       },
       {
         "genre": "Heavy Metal",
         "totalDrummers": 6,
         "doubleBass": 0,
         "twinSinglePedals": 0,
-        "doublePedal": 5,
+        "doublePedal": 3,
         "singlePedal": 1,
-        "unspecified": 0
+        "unspecified": 2
       },
       {
         "genre": "Technical Death Metal",
         "totalDrummers": 5,
         "doubleBass": 0,
         "twinSinglePedals": 0,
-        "doublePedal": 3,
+        "doublePedal": 2,
         "singlePedal": 0,
-        "unspecified": 2
+        "unspecified": 3
       },
       {
         "genre": "Black Metal",
         "totalDrummers": 4,
         "doubleBass": 0,
         "twinSinglePedals": 0,
-        "doublePedal": 2,
+        "doublePedal": 1,
         "singlePedal": 0,
-        "unspecified": 2
+        "unspecified": 3
       },
       {
         "genre": "Melodic Death Metal",
         "totalDrummers": 4,
         "doubleBass": 0,
         "twinSinglePedals": 0,
-        "doublePedal": 4,
+        "doublePedal": 3,
         "singlePedal": 0,
-        "unspecified": 0
+        "unspecified": 1
       },
       {
         "genre": "Metalcore",
         "totalDrummers": 4,
         "doubleBass": 0,
         "twinSinglePedals": 0,
-        "doublePedal": 4,
+        "doublePedal": 3,
         "singlePedal": 0,
-        "unspecified": 0
+        "unspecified": 1
       },
       {
         "genre": "Nu Metal",
@@ -125,9 +125,9 @@ export const KIT_CONFIGURATIONS = {
         "totalDrummers": 3,
         "doubleBass": 0,
         "twinSinglePedals": 0,
-        "doublePedal": 3,
+        "doublePedal": 2,
         "singlePedal": 0,
-        "unspecified": 0
+        "unspecified": 1
       },
       {
         "genre": "Progressive",
@@ -151,9 +151,9 @@ export const KIT_CONFIGURATIONS = {
   },
   "cymbalSetupSize": {
     "datasetSize": 56,
-    "avgPieces": 5.3,
+    "avgPieces": 5.1,
     "medianPieces": 5,
-    "minPieces": 3,
+    "minPieces": 0,
     "maxPieces": 9,
     "bucketMinDrummers": 2,
     "byGenre": [
@@ -166,13 +166,13 @@ export const KIT_CONFIGURATIONS = {
       {
         "genre": "Thrash Metal",
         "datasetSize": 9,
-        "avgPieces": 5.1,
+        "avgPieces": 4.8,
         "medianPieces": 5
       },
       {
         "genre": "Death Metal",
         "datasetSize": 5,
-        "avgPieces": 4.8,
+        "avgPieces": 4.6,
         "medianPieces": 5
       },
       {
@@ -184,8 +184,8 @@ export const KIT_CONFIGURATIONS = {
       {
         "genre": "Melodic Death Metal",
         "datasetSize": 4,
-        "avgPieces": 3.8,
-        "medianPieces": 4
+        "avgPieces": 2.8,
+        "medianPieces": 3.5
       },
       {
         "genre": "Black Metal",
@@ -225,11 +225,11 @@ export const KIT_CONFIGURATIONS = {
       }
     ],
     "pieceTypeCounts": {
-      "hi-hat": 58,
-      "crash": 122,
-      "ride": 55,
-      "china": 50,
-      "splash": 8,
+      "hi-hat": 55,
+      "crash": 116,
+      "ride": 52,
+      "china": 49,
+      "splash": 9,
       "stack": 0,
       "other": 5
     }

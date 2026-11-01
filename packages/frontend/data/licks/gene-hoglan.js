@@ -473,16 +473,16 @@ export const licks = {
     "drummerName": "Gene Hoglan",
     "drummerSlug": "gene-hoglan",
     "band": "Testament",
-    "song": "D.N.R. (Do Not Resuscitate)",
-    "album": "The Gathering (1999)",
+    "song": "Dark Roots of Earth",
+    "album": "Dark Roots of Earth (2012)",
     "category": "polyrhythm",
     "style": "thrash-metal",
     "difficulty": "expert",
     "difficultyRating": 5,
-    "bpm": 138,
-    "bpmDisplay": "~138 BPM",
+    "bpm": 145,
+    "bpmDisplay": "~145 BPM",
     "timeSignature": "4/4",
-    "description": "Gene Hoglan's reputation as the Atomic Clock rests not only on the extreme speed he demonstrated with Dark Angel and Death but on the clock-like polyrhythmic precision he displayed across his entire career, a quality that reached one of its most sophisticated expressions during his tenure with Testament on The Gathering (1999). The Testament era gave Hoglan a compositional context that demanded a different kind of technical mastery: not pure velocity but rhythmic complexity, the ability to maintain multiple simultaneous rhythmic frameworks without any one of them dragging against the others or losing the internal logic that makes polyrhythm musically meaningful rather than merely confusing. The lick known colloquially as the Zero the Hero approach — named for the zero-margin-for-error timing precision that defines Hoglan's clock-like polyrhythmic playing — exemplifies how he constructs patterns where the kick, snare, and cymbal patterns operate on different and overlapping cycles while the overall groove maintains an unshakeable pulse that the listener can feel even when they cannot immediately identify its structure. The D.N.R. performance on Testament's The Gathering is one of the most complete expressions of this vocabulary: Hoglan deploys polyrhythmic kick patterns that conflict deliberately with the snare cycle, creating a rhythmic tension that resolves at the end of each phrase with satisfying inevitability. The hi-hat or cymbal work above these complex kick-snare relationships provides a navigational reference point that keeps the listener oriented even as the lower rhythm layers create complexity. This three-layer approach — a clear reference layer, a rhythmic complexity layer, and a harmonic support layer — is the architectural logic beneath most of Hoglan's sophisticated rhythmic work, and understanding it transforms the individual notes from a bewildering array of polyrhythmic accents into a comprehensible system. For drummers, developing polyrhythmic vocabulary begins with two-layer work: practicing the kick pattern in one cycle length (say, three beats) against a snare pattern in a different cycle length (say, four beats) until the combined pattern can be sustained for at least eight bars without breaking down. This three-against-four or four-against-three framework is the foundation of most accessible polyrhythm in metal contexts. Once two-layer polyrhythm is solid, adding the third layer — the cymbal reference — teaches the drummer to navigate the complexity from a stable orientation point. Hoglan's Testament work is one of the finest recorded examples of this approach applied at real-world performance tempos in an extreme metal context, making The Gathering an essential study for any drummer pursuing rhythmic sophistication beyond the single-layer groove approach.",
+    "description": "Gene Hoglan's reputation as the Atomic Clock rests not only on the extreme speed he demonstrated with Dark Angel and Death but on the clock-like polyrhythmic precision he displayed across his entire career, a quality that reached one of its most sophisticated expressions during his second Testament stint on the title track of Dark Roots of Earth (2012). That era gave Hoglan a compositional context that demanded a different kind of technical mastery: not pure velocity but rhythmic complexity, the ability to maintain multiple simultaneous rhythmic frameworks without any one of them dragging against the others or losing the internal logic that makes polyrhythm musically meaningful rather than merely confusing. The lick known colloquially as the Zero the Hero approach — named for the zero-margin-for-error timing precision that defines Hoglan's clock-like polyrhythmic playing — exemplifies how he constructs patterns where the kick, snare, and cymbal patterns operate on different and overlapping cycles while the overall groove maintains an unshakeable pulse that the listener can feel even when they cannot immediately identify its structure. The title-track performance on Testament's Dark Roots of Earth is one of the most complete expressions of this vocabulary: Hoglan deploys polyrhythmic kick patterns that conflict deliberately with the snare cycle, creating a rhythmic tension that resolves at the end of each phrase with satisfying inevitability. The hi-hat or cymbal work above these complex kick-snare relationships provides a navigational reference point that keeps the listener oriented even as the lower rhythm layers create complexity. This three-layer approach — a clear reference layer, a rhythmic complexity layer, and a harmonic support layer — is the architectural logic beneath most of Hoglan's sophisticated rhythmic work, and understanding it transforms the individual notes from a bewildering array of polyrhythmic accents into a comprehensible system. For drummers, developing polyrhythmic vocabulary begins with two-layer work: practicing the kick pattern in one cycle length (say, three beats) against a snare pattern in a different cycle length (say, four beats) until the combined pattern can be sustained for at least eight bars without breaking down. This three-against-four or four-against-three framework is the foundation of most accessible polyrhythm in metal contexts. Once two-layer polyrhythm is solid, adding the third layer — the cymbal reference — teaches the drummer to navigate the complexity from a stable orientation point. Hoglan's Testament work is one of the finest recorded examples of this approach applied at real-world performance tempos in an extreme metal context, making Dark Roots of Earth an essential study for any drummer pursuing rhythmic sophistication beyond the single-layer groove approach.",
     "techniques": [
       "polyrhythm",
       "groove-drumming",
@@ -506,17 +506,17 @@ export const licks = {
       "Start with simple three-against-four polyrhythm at very slow tempo — internalize the combined pattern before adding speed",
       "Practice each layer in isolation first, then combine two layers before adding the third",
       "Use a metronome locked to the primary pulse so you always know where beat one is within the polyrhythmic complexity",
-      "Study The Gathering recording with a transcription to map exactly where each limb falls within the polyrhythmic framework"
+      "Study the Dark Roots of Earth recording with a transcription to map exactly where each limb falls within the polyrhythmic framework"
     ],
     "seo": {
       "title": "Gene Hoglan Atomic Clock Polyrhythm - Testament Drum Tutorial | MetalForge",
-      "description": "Learn Gene Hoglan's clock-like polyrhythmic technique from Testament's The Gathering era. D.N.R. breakdown, limb independence, and polyrhythm construction guide.",
+      "description": "Learn Gene Hoglan's clock-like polyrhythmic technique from Testament's Dark Roots of Earth era. Title-track breakdown, limb independence, and polyrhythm construction guide.",
       "keywords": [
         "gene hoglan",
         "testament drumming",
         "polyrhythm metal",
         "atomic clock drumming",
-        "the gathering testament",
+        "dark roots of earth testament",
         "gene hoglan polyrhythm technique"
       ]
     }

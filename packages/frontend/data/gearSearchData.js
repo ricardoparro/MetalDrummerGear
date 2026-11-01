@@ -51,6 +51,7 @@ export const GEAR_DATABASE = {
     { id: 'mapex-chris-adler-snare', name: 'Mapex Chris Adler Signature Walnut/Maple 14x5.5"', brand: 'mapex', category: 'snare', tier: 'pro', price: 600, keywords: ['chris', 'adler', 'signature', 'walnut', 'maple', 'mapex'] },
     { id: 'ddrum-vinnie-paul-snare', name: 'ddrum Vinnie Paul Signature 14x8"', brand: 'ddrum', category: 'snare', tier: 'mid', price: 450, keywords: ['vinnie', 'paul', 'signature', 'ddrum'] },
     { id: 'sjc-jay-weinberg-snare', name: 'SJC Jay Weinberg "The Crucible" 48-ply Brass 14x6.5"', brand: 'sjc', category: 'snare', tier: 'pro', price: 650, keywords: ['jay', 'weinberg', 'crucible', 'signature', 'sjc', 'brass'] },
+    { id: 'tama-mike-portnoy-signature-melody-master', name: 'Tama Mike Portnoy Signature Melody Master 14x5.5"', brand: 'tama', category: 'snare', tier: 'pro', price: 650, keywords: ['mike', 'portnoy', 'melody', 'master', 'signature', 'tama'] },
   ],
   cymbals: [
     { id: 'zildjian-a-custom', name: 'Zildjian A Custom Series', brand: 'zildjian', category: 'cymbals', tier: 'pro', price: 2200, keywords: ['a custom', 'zildjian', 'brilliant'] },
@@ -192,7 +193,7 @@ export const DRUMMER_GEAR = {
   },
   'mike-portnoy': {
     drums: ['tama-starclassic-maple'],
-    snare: ['tama-slp'],
+    snare: ['tama-mike-portnoy-signature-melody-master'],
     cymbals: ['sabian-hhx'],
     hardware: ['tama-iron-cobra'],
     sticks: ['promark-joey'],

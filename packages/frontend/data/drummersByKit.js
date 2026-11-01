@@ -51,7 +51,7 @@ export const DRUMMERS_BY_KIT = {
       slug: 'tomas-haake',
       name: 'Tomas Haake',
       band: 'Meshuggah',
-      yearsUsed: '2002–present',
+      yearsUsed: '2005–present',
       config: 'Sonor SQ2 Heavy Beech (24"×18" Bass ×2, 10"×8", 12"×9", 14"×12", 16"×16", 18"×16" Toms)',
       endorsee: true,
     },

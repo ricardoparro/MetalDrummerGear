@@ -5,6 +5,45 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-01 00:23 UTC*
 
 ---
+## 2026-11-01 06:12 (cheap pulse, pre-deep-run — 7/8 proposals promoted, 1 held #10031-10038)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:12 UTC (419u/475s/682v 7d; GSC 18,269 impr/292 clicks/1.60% CTR/pos 9.0; no content-gap rows). At run start: eligible `ai-fix` backlog **1** (#10023, already Roadie-claimed per comment), 0 open PRs, 8 fresh untriaged `seo-proposal` (#10031-10038, filed 01:09-01:11 UTC).
+
+### Actions taken
+- **Live-verified all 8 directly** against cited ground truth (`kitQuizData.js`/`extendedBios.js`/`drummerComparisons.js`), zero dupes:
+  - #10038 Joey Jordison: `kitQuizData.js:27` has `'Pearl Masters Maple Reserve'`; `extendedBios.js:151,258,259` consistently say "Pearl Masters Premium Maple." Promoted.
+  - #10037 Gene Hoglan: `kitQuizData.js:42` still has `'Pearl Reference 14x6.5" Brass'`; `extendedBios.js` FAQ (4 mentions, ~399-405) now says "not independently verified" sitewide (post #8594/#9346). Regression confirmed, promoted.
+  - #10036 Danny Carey: `kitQuizData.js:111/114` has `'Sonor Designer Series'` + `'DW 9000 Series Double Pedal'`; `extendedBios.js:744-751` confirms Sonor SQ2 Heavy Beech + Sonor Giant Step pedal (same bug class as closed #6435, unswept here). Promoted.
+  - #10035 Matt Greiner: grep for `signature Pearl 14x6"` in `drummerComparisons.js` returns exactly the 7 cited lines (1767/2942/3030/3119/4686/4730/4752); the 5 trivia-framed lines (#9915's carve-out) correctly untouched. Promoted.
+  - #10034 Igor Cavalera: line 191 (igor-cavalera-vs-vinnie-paul) states his old Tama/Paiste era as flat undated fact; sibling entry ~1071 uses the correct era-qualified pattern. Confirmed outlier, promoted.
+  - #10033 Flo Mounier snare desync: lines 1783/1790 say "Tama S.L.P. Classic/Dry Aluminum"; `extendedBios.js:6358-6361` says "Tama Starclassic Maple 14x5.5"." Independent of #10032's brand question. Promoted.
+  - #10031 Vinnie Paul: lines 4216/4220 state an unsourced "8-inch-deep steel snare" for his Tama/Pearl era; `extendedBios.js:5414-5448` confirms only the ddrum Hellyeah-era snare is source-confirmed and explicitly flags the Tama/Pearl-era specifics as unconfirmed. Promoted.
+  - **#10032 Flo Mounier Tama-vs-Pearl kit brand — held, not promoted.** Issue itself correctly scopes this as a founder-level re-verification question (single root cite `endorsementNews.js:1024`, ~20 closed issues built on it, one non-primary external source conflicts). Same shape as standing #7981 (Derek Roddy). Labeled `human` instead of `ai-fix`, commented with the reasoning, parked alongside #7981.
+- **GSC content-gap**: zero rows. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-10-26; next weekly refresh due ~2026-11-02, not due this run. L2 cited count 39/100 (2nd straight weekly increase per `learned-patterns.md` line 278), comfortably clear of the 25-floor.
+- **Starvation check**: post-triage backlog 1→8 (<15), bank 8→0 (≤2) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent cadence steady, ~6h intervals). Not escalated.
+- **Atomic-split sweep**: not due (deep run reviewed all open `ai-fix` issues 2026-10-31; the 20 hold-labeled roster/band splits remain correctly parked under the new-page freeze; #10023 is fresh and already Roadie-claimed).
+
+### State delta
+- ai-fix backlog (eligible): 1 → 8 (#10031, #10033-10038 promoted)
+- held (`human` label, not `ai-fix`): +1 (#10032, alongside #7981)
+- seo-proposal bank (untriaged, excl. held #7981/#10032, umbrellas #2211/#3810/#3819): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged (7 promoted, 1 correctly held). ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: not due until ~11-02, L2 healthy. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10031/#10033-10038 pick up via Roadie; confirm #10023 (already claimed) lands.
+2. First run after 07:00 UTC today is the daily deep run — full metrics review + GSC-gap analysis + L1/L2/L3 due ~11-02 (check if refreshed).
+3. #7981 (Derek Roddy) and #10032 (Flo Mounier brand) both held pending founder/primary-source verification. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
+
 ## 2026-11-01 00:23 (cheap pulse — 8/8 proposals verified+promoted #10021-10028)
 
 ### Context (≤3 lines)

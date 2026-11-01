@@ -75,15 +75,12 @@ export const articles = {
       "estimatedValue": "$4,500-7,000 (Reference Pure configuration)"
     },
     "snare": {
-      "title": "The Brass Cannon",
+      "title": "A Pearl Snare — Model Not Independently Verified",
       "brand": "Pearl",
-      "model": "Pearl Reference 14\" x 6.5\" Brass Snare",
-      "size": "14\" x 6.5\"",
-      "shell": "Seamless brass with 3mm shell",
-      "description": "Gene's snare choice is deceptively simple: a brass shell that cuts through anything. The Pearl Reference brass snare (14\" x 6.5\") delivers the piercing crack and projection needed to be heard over Testament's three-guitar assault or Dethklok's wall of distortion.\n\nBrass shells are brighter and more cutting than steel, with focused overtones that project without getting lost in dense mixes. The 3mm seamless construction provides durability and consistency — essential for a drummer who plays hundreds of shows per year.\n\nThe 6.5\" depth gives Gene enough body to prevent the snare from sounding thin or \"ringy\" at high tunings. He tunes medium-high for maximum attack, keeping the snare wires tight for crisp, responsive articulation.\n\nThis snare has been with Gene through Testament albums, Dethklok recordings, and countless tours. It's not flashy or signature-model special — it's a working drummer's tool that does its job night after night.\n\nThe brightness of the brass complements his Sabian AAX cymbals, creating a cohesive metallic shimmer that's become part of his signature sound.",
-      "tuningSetting": "Medium-high tension, tight snare wires",
-      "heads": "Evans Genera HD Dry (batter), Evans Hazy 300 (resonant)",
-      "estimatedValue": "$500-700 (Reference series brass)"
+      "model": "Not independently verified",
+      "size": "Not independently verified",
+      "description": "Gene plays a Pearl snare as part of his Pearl Reference Pure kit, but the specific model has not been independently verified. Claims naming a specific brass model and size circulating online do not trace to a verifiable source, so MetalForge is leaving those details out rather than guessing.",
+      "estimatedValue": "$400-700 (typical range for a professional Pearl snare)"
     },
     "cymbals": {
       "title": "Sabian AAX Precision",
@@ -292,7 +289,7 @@ export const articles = {
             "Pearl Session Studio Select — $2,500",
             "Sabian AAX Performance Set + extra crashes — $1,200",
             "Pearl Demon Drive double pedal — $600",
-            "Pearl Reference brass snare (used) — $400"
+            "Pearl Reference snare (used) — $400"
           ],
           "notes": "Session Studio Select delivers Reference-quality tones at a lower price. AAX cymbals are Gene's actual choice."
         },
@@ -302,9 +299,9 @@ export const articles = {
             "Pearl Reference Pure 5-piece (double bass) — $5,500",
             "Full Sabian AAX setup (hi-hats, 4 crashes, ride, china) — $2,500",
             "Pearl Demon Drive pedals + hi-hat stand — $900",
-            "Pearl Reference brass snare 14\" x 6.5\" — $600"
+            "Pearl Reference snare — $600"
           ],
-          "notes": "This is essentially Gene's current touring setup. The Reference Pure shells and AAX cymbals deliver his signature clarity."
+          "notes": "Close to Gene's current touring setup — the Reference Pure shells and AAX cymbals deliver his signature clarity, though his specific snare model isn't independently verified."
         }
       ]
     },
@@ -318,10 +315,10 @@ export const articles = {
           "notes": "Custom configurations available; maple shells"
         },
         {
-          "item": "Pearl Reference Brass Snare (14\" x 6.5\")",
+          "item": "Pearl Snare (model not independently verified)",
           "available": true,
-          "priceRange": "$500-700",
-          "notes": "Professional-level brass snare"
+          "priceRange": "$400-700",
+          "notes": "Specific model not independently verified"
         },
         {
           "item": "Sabian AAX 15\" X-Celerator Hi-Hats",
@@ -401,7 +398,7 @@ export const articles = {
       },
       {
         "question": "How much does Gene Hoglan's drum kit cost?",
-        "answer": "A Pearl Reference Pure kit comparable to Gene Hoglan's setup runs approximately $4,500 to $7,000 new, depending on configuration and finish. His Pearl Reference brass snare adds another $500 to $700. Completing the rig with a full Sabian AAX cymbal setup similar to his will add roughly $1,500 to $2,500. Total estimated cost to replicate his current setup is around $6,500 to $10,000."
+        "answer": "A Pearl Reference Pure kit comparable to Gene Hoglan's setup runs approximately $4,500 to $7,000 new, depending on configuration and finish. A comparable Pearl snare adds another $400 to $700 (his specific snare model has not been independently verified). Completing the rig with a full Sabian AAX cymbal setup similar to his will add roughly $1,500 to $2,500. Total estimated cost to replicate his current setup is around $6,500 to $10,000."
       }
     ],
     "conclusion": {
@@ -650,7 +647,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Symbolic to Testament: The Atomic Clock's Journey",
-      "content": "\"Symbolic\" cemented Gene Hoglan's reputation as the greatest technical drummer in death metal. His subsequent career would see him bringing that precision to countless other projects while continuing to evolve.\n\n**Immediate Impact:**\n\"Symbolic\" influenced virtually every progressive and technical death metal drummer who followed. The album proved that extreme music could have musicality, that blast beats and jazz could coexist, and that technique should serve emotion.\n\n**Post-Death Career:**\nAfter \"Symbolic,\" Gene returned to Strapping Young Lad with Devin Townsend, applying his precision to industrial metal madness. \"City\" (1997) and \"Alien\" (2005) showcased different facets of his playing while maintaining the consistency that earned him \"The Atomic Clock\" nickname.\n\n**Testament Era:**\nIn 2007, Gene joined Testament, becoming their definitive modern drummer. Albums like \"The Formation of Damnation\" (2008) and \"Titans of Creation\" (2020) brought his \"Symbolic\"-era precision to thrash metal, creating some of the genre's heaviest modern recordings.\n\n**Gear Evolution:**\nGene transitioned from Tama to Pearl drums in the 2000s, eventually settling on Pearl Reference Pure. His cymbal choices shifted to Sabian AAX series. But his fundamental approach — precision, power, musicality — remained unchanged.\n\n**Modern Setup:**\nToday, Gene plays:\n- Pearl Reference Pure drums\n- Pearl Reference 14\"x6.5\" Brass snare\n- Sabian AAX cymbals (15\" Hi-Hats, 20\" crashes, 22\" Ride)\n- Pearl Demon Drive double pedal\n- ProMark Classic Forward 2B drumsticks\n\n**Legacy:**\n\"Symbolic\" remains the standard for technical death metal drumming. When drummers ask how to combine speed with musicality, power with finesse, complexity with groove — the answer is to study Gene Hoglan on \"Symbolic.\"",
+      "content": "\"Symbolic\" cemented Gene Hoglan's reputation as the greatest technical drummer in death metal. His subsequent career would see him bringing that precision to countless other projects while continuing to evolve.\n\n**Immediate Impact:**\n\"Symbolic\" influenced virtually every progressive and technical death metal drummer who followed. The album proved that extreme music could have musicality, that blast beats and jazz could coexist, and that technique should serve emotion.\n\n**Post-Death Career:**\nAfter \"Symbolic,\" Gene returned to Strapping Young Lad with Devin Townsend, applying his precision to industrial metal madness. \"City\" (1997) and \"Alien\" (2005) showcased different facets of his playing while maintaining the consistency that earned him \"The Atomic Clock\" nickname.\n\n**Testament Era:**\nIn 2007, Gene joined Testament, becoming their definitive modern drummer. Albums like \"The Formation of Damnation\" (2008) and \"Titans of Creation\" (2020) brought his \"Symbolic\"-era precision to thrash metal, creating some of the genre's heaviest modern recordings.\n\n**Gear Evolution:**\nGene transitioned from Tama to Pearl drums in the 2000s, eventually settling on Pearl Reference Pure. His cymbal choices shifted to Sabian AAX series. But his fundamental approach — precision, power, musicality — remained unchanged.\n\n**Modern Setup:**\nToday, Gene plays:\n- Pearl Reference Pure drums\n- A Pearl snare (specific model not independently verified)\n- Sabian AAX cymbals (15\" Hi-Hats, 20\" crashes, 22\" Ride)\n- Pearl Demon Drive double pedal\n- ProMark Classic Forward 2B drumsticks\n\n**Legacy:**\n\"Symbolic\" remains the standard for technical death metal drumming. When drummers ask how to combine speed with musicality, power with finesse, complexity with groove — the answer is to study Gene Hoglan on \"Symbolic.\"",
       "thenVsNow": [
         {
           "category": "Kit",

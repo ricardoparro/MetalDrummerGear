@@ -15389,3 +15389,46 @@ The albumArticles sweep surfaced significantly more than 8 confirmed findings. N
 2. Continue the `albumArticles/*.js` sweep next under-cap run from the "Held-back" list above (~20 more confirmed findings already identified, ranked by severity in that list) — this directory is not yet fully swept (only ~70 of its ~72 drummer files were read this run; licks/ only 20 of ~70 files sampled).
 3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
 4. Drum-chair watch: due Monday 2026-11-02, group 1 (rotate by ISO week % 4) — not run today (Sunday).
+
+---
+
+## 2026-11-01 ~13:02 UTC run (bank-capped mode — 7 proposals filed #10068-10074)
+
+### Context
+Bank check: 13 open `seo-proposal` at run start (well under the 45 cap) → filed up to 8 net-new, landed on 7 after one candidate turned out to be a non-bug (see below). New-page freeze + LLM-first mode still binding — all 7 are existing-page fact fixes, zero new pages/surfaces. metrics.md (refreshed 13:02 UTC) shows **no content-gap rows** this run. Drum-chair weekly sweep: today (Sun 2026-11-01) is not Monday — skipped, next due 2026-11-02.
+
+### Audit summary
+- robots.txt (`api/robots.js`): ✅ all 8 AI crawlers explicitly allowed — unchanged.
+- `/llms/**.md`: 1,834 files under `public/llms/` — unchanged, healthy.
+- No fresh Lighthouse run this run — time spent on the fact-drift sweep (proven higher-yield lever).
+
+### Method
+Targeted the 2 files flagged as "confirmed still-active fact-drift veins" in `.agents/seo/learned-patterns.md` (lines 276/175): `genreGearGuides.js` (~100k lines, many independent guide-family articles per gear-type × genre) and `packages/frontend/data/albumArticles/*.js`. Dispatched 2 parallel research agents to find fresh candidates not already covered by this month's closed issues. Before filing, personally verified every candidate via direct `grep`/`sed` reads against `endorsementNews.js` ground truth, and ran `git blame` + `git show` on every prior "looks similar" closed issue's actual diff to confirm each candidate was a genuinely missed instance (not a duplicate or regression) — 3 of the 7 filed issues (#10068, #10069, #10070) are explicitly "closed issue X fixed other instances in this file, this location was missed" cases, which is only safe to file because the diff review proved the exact lines were never touched.
+
+One candidate was caught and dropped before filing: a proposed "Dave Lombardo albumArticles.js stick model fabricated as TX2BXN" fix turned out to target a value that `git log` showed was corrected to exactly "TX2BXN" by #10026/#10047, merged 03:28 UTC *this same morning* — filing it would have proposed reverting a just-shipped correct fix. Caught via the standing "re-derive every candidate's premise, don't trust a stale read" rule.
+
+Also caught one of my own filed issues (#10071, Danny Carey Evans heads) citing wrong line numbers from the research agent's report — verified the actual location via grep immediately after filing and posted a correcting comment with exact line numbers/quotes before any triage could act on the stale citation.
+
+### Proposals filed this run
+1. #10068 — Igor Cavalera cymbals fabricated as Sabian AAX in a 2nd `genreGearGuides.js` location (value-cymbals guide) — #6699 only fixed a different guide section
+2. #10069 — Igor Cavalera crash-cymbal FAQ in `genreGearGuides.js` still presents Paiste RUDE as current, no era qualifier — #7720 fixed 11 other locations in this file, missed this one
+3. #10070 — Flo Mounier "Vater Power 5B" stick fabrication survives in `genreGearGuides.js` intro prose — #8421 only fixed the sidebar `relatedDrummers`/`featuredDrummers` reason strings in the same guide
+4. #10071 — `genreGearGuides.js` mathcore drum-heads guide fabricates Evans heads for Danny Carey (verified Remo since 2000s) — first time this fact is wrong in this specific file (4 other locations in the same file already correctly say Remo)
+5. #10072 — `genreGearGuides.js` "Zildjian vs Paiste vs Meinl vs Sabian" comparison + a `usedBy` array both still list Dave Lombardo (and one also Joey Jordison) as current Zildjian A Custom users — both verified-switched to Paiste, neither location touched by the 4 prior Jordison-Zildjian fix issues in this file
+6. #10073 — `albumArticles/gene-hoglan.js` sticks still "Promark 5B" (2 locations) — verified ProMark Classic Forward 2B since 2018; this file was never swept by the 3 prior fixes to this exact fabrication class in other files
+7. #10074 — `albumArticles/gene-hoglan.js` invents a specific "Pearl Reference 14x6.5 Brass Snare" model/backstory — site-wide consensus (extendedBios.js, soundLikeGuides.js, kitQuizData.js, all already fixed) is "not independently verified"; this file is the one remaining holdout
+
+### Learned-patterns.md updates
+- None this run — both the "closed-issue-fixed-only-cited-lines" pattern (line 276) and the "verified-vs-unverified consensus, file never swept" pattern (line 10037's same-day commit) are already documented; this run is further confirmation, not a new pattern.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10068-10074 (this run, 7 fresh)
+
+### Next run
+1. Watch #10068-10074 triage/promotion.
+2. `genreGearGuides.js` and `albumArticles/*.js` both still have more unswept drift — the research agents surfaced additional lower-confidence/scope-uncertain candidates not filed this run (Blake Richardson Meinl→Sabian cymbal drift across 4 `genreGearGuides.js` guide families; Brann Dailor cymbal self-contradiction in the `hushed-and-grim` album article, held back due to the very high density of already-closed near-identical Mb20/Mb8-vs-Byzance issues for this drummer — worth a careful re-check next time rather than a blind refile). Also flagged but explicitly NOT filed (needs external/founder-level resolution, not a code fix): Jay Weinberg's snare is a genuine 3-way conflict across `albumArticles.js`/`extendedBios.js` gearHighlights/`extendedBios.js` FAQ, and Nicko McBrain's pedal brand is a self-contradiction within `endorsementNews.js` itself (currentEndorsements says "unconfirmed", timeline asserts DW) — both logged here for whoever revisits, not raised as proposals.
+3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
+4. Drum-chair watch: due Monday 2026-11-02, group 1 (rotate by ISO week % 4) — not run today (Sunday).

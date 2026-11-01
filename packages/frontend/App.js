@@ -3036,6 +3036,12 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArt
         // too. Every rankings/faq/intro section below is already guarded with
         // `list.xxx &&`, so a catalog-only (meta-only) list safely renders
         // just the header until the full module replaces it below.
+        // Issue #10050 (L4 perf: still chronic post-#9106): the full module
+        // import only started AFTER the catalog promise resolved, serializing
+        // two independent network fetches instead of overlapping them. The
+        // full module doesn't need anything from the catalog, so kick it off
+        // immediately and let both load in parallel.
+        const modulePromise = loadTop10Lists();
         const catalogModule = await preloadTop10ListsCatalog();
         const catalogMeta = catalogModule.TOP10_LISTS_META[listSlug];
         if (catalogMeta) {
@@ -3044,7 +3050,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArt
           setIsLoading(false);
         }
 
-        const module = await loadTop10Lists();
+        const module = await modulePromise;
         _top10ListsModule = module;
         const top10List = module.getTop10ListBySlug(listSlug);
         if (top10List) {

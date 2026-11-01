@@ -15259,7 +15259,7 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
 
 What separates Cunningham from most metal drummers is his willingness to underplay. His parts breathe with the emotional arc of a song rather than existing as a technical showcase — a whisper-quiet verse can explode into a crushing chorus without ever feeling like two different drummers playing. That ambient-heavy, texture-over-technique approach is a distinct niche from pure blast-beat metal, and it's exactly what makes Deftones' alt-metal/post-metal crossover sound so distinctive.
 
-This guide breaks down the technique, gear, and practice approach behind Cunningham's sound — from his Tama Starclassic Maple/Bubinga kit and Zildjian A Custom/K Custom hybrid cymbals to the unconventional snare placements and dynamic control that define alternative metal's most tasteful drummer.`,
+This guide breaks down the technique, gear, and practice approach behind Cunningham's sound — from his Tama Starclassic Bubinga kit and Zildjian A Custom/K Custom hybrid cymbals to the unconventional snare placements and dynamic control that define alternative metal's most tasteful drummer.`,
       keyPoints: [
         "Founding member and sole drummer of Deftones since 1988, spanning ten studio albums",
         "Prioritizes dynamic restraint and space over technical showmanship",
@@ -15313,8 +15313,8 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
       title: "Cunningham's Gear Setup",
       drumKit: {
         brand: 'Tama',
-        model: 'Tama Starclassic Maple/Bubinga',
-        shells: 'Maple/Bubinga hybrid',
+        model: 'Tama Starclassic Bubinga',
+        shells: 'Bubinga',
         finish: 'Custom finishes (varies by tour)',
         config: {
           kick: '22" x 18" Bass Drum',
@@ -15322,8 +15322,8 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "The Maple/Bubinga shell combination gives Cunningham the warmth and projection of maple with the focused attack and low-end punch of bubinga — a compact four-tom configuration with no unnecessary clutter, reflecting his groove-over-flash philosophy.",
-        affiliateNote: "Any warm-sounding maple/hybrid kit with a compact tom configuration will approximate the tonal character."
+        description: "The dense Bubinga shell construction gives Cunningham a focused attack and low-end punch — a compact four-tom configuration with no unnecessary clutter, reflecting his groove-over-flash philosophy.",
+        affiliateNote: "Any warm-sounding bubinga or similar dense-shell kit with a compact tom configuration will approximate the tonal character."
       },
       snare: {
         brand: 'Tama',
@@ -15441,7 +15441,7 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
       pro: {
         price: "$5,800+",
         label: "Professional Setup",
-        kit: "Tama Starclassic Maple/Bubinga ($3,500+)",
+        kit: "Tama Starclassic Bubinga ($3,500+)",
         cymbals: "Full A Custom / K Custom hybrid selection ($1,800+)",
         pedals: "Tama Iron Cobra Power Glide Twin Pedal ($300)",
         heads: "Full Remo setup ($200)",
@@ -15455,7 +15455,7 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
       },
       {
         question: "What gear should I use to sound like Abe Cunningham?",
-        answer: "Cunningham plays a Tama Starclassic Maple/Bubinga kit with a matching Tama Starclassic snare (no separate model documented), a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra Power Glide Twin Pedal, and Zildjian Abe Cunningham Artist Series signature sticks. A budget setup can approximate this with any warm-sounding kit, a deep steel or maple snare, and a mix of bright and dark cymbals."
+        answer: "Cunningham plays a Tama Starclassic Bubinga kit with a matching Tama Starclassic snare (no separate model documented), a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra Power Glide Twin Pedal, and Zildjian Abe Cunningham Artist Series signature sticks. A budget setup can approximate this with any warm-sounding kit, a deep steel or maple snare, and a mix of bright and dark cymbals."
       },
       {
         question: "What tempo should I practice at to sound like Abe Cunningham?",

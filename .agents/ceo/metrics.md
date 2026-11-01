@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-01 13:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-01 18:08 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,20 +8,20 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 462 |
-| Sessions | 518 |
-| Page views | 731 |
-| Engagement rate | 60.81% |
+| Active users | 467 |
+| Sessions | 523 |
+| Page views | 742 |
+| Engagement rate | 60.99% |
 | Avg session (s) | 102 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 21 | 16 |
+| / | 22 | 17 |
 | /drummer/mario-duplantier | 18 | 9 |
 | /drummer/frost | 16 | 6 |
 | /drummers | 15 | 7 |
-| /articles/slipknot-self-titled-drum-setup | 13 | 11 |
+| /articles/slipknot-self-titled-drum-setup | 14 | 12 |
 | /lists/best-death-metal-drummers | 11 | 11 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
 | /drummer/jay-weinberg | 9 | 7 |
@@ -31,8 +31,8 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 410 | 352 |
-| Direct | 108 | 108 |
+| Organic Search | 413 | 355 |
+| Direct | 110 | 110 |
 | Unassigned | 23 | 23 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
@@ -41,7 +41,7 @@
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 192 | 178 |
-| United Kingdom | 38 | 20 |
+| United Kingdom | 39 | 21 |
 | Singapore | 33 | 33 |
 | Germany | 21 | 19 |
 | Australia | 17 | 13 |

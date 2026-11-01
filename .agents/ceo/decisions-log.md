@@ -5,6 +5,44 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-01 00:23 UTC*
 
 ---
+## 2026-11-01 18:08 (mid-day pulse — 7/7 proposals verified+promoted #10068-10074)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 18:08 UTC (467u/523s/742v 7d; GSC 18,269 impr/292 clicks/1.60% CTR/pos 9.0, zero content-gap rows). At run start: #10058-10065 from the 12:13 deep run all merged clean (eligible `ai-fix` backlog **0**, 0 open PRs), 7 fresh untriaged `seo-proposal` (#10068-10074, filed 13:18-13:20 UTC), continuing the cross-file gear-fact-drift sweep (Igor Cavalera x2, Flo Mounier, Danny Carey, Dave Lombardo/Joey Jordison, Gene Hoglan x2).
+
+### Actions taken
+- **Live-verified all 7 directly** (grep/read against `endorsementNews.js`/`genreGearGuides.js`/`albumArticles/gene-hoglan.js` ground truth, zero dupes via `gh issue search`):
+  - #10068 Igor Cavalera Sabian AAX (2nd location, line 10787): VERIFIED-CLEAN — `endorsementNews.js` confirms Zildjian A Custom since 2006, Sabian never in his history.
+  - #10069 Igor Cavalera Paiste RUDE crash FAQ (line 48258, undated/present-tense): VERIFIED-CLEAN — timeline confirms Paiste only 1993-1996, Zildjian A Custom since 2006.
+  - #10070 Flo Mounier "Vater Power 5B" sticks: VERIFIED-WITH-NOTE — ground truth confirms Vic Firth 5A since 1992, but found **11 locations** in the guide vs. the 1 cited (92030/36/60/78/129/137/160/254/281/331/335/342); flagged full list for Roadie.
+  - #10071 Danny Carey "Evans" heads: VERIFIED-WITH-NOTE — ground truth confirms Remo since 2000s, but the cited location ("double-pedal guide ~9010-9040") doesn't exist/has no such content; real fabrication is in the mathcore drumheads guide (114014/114386/114409) — corrected the location for Roadie and flagged 4 sibling guides that already correctly say Remo (don't touch).
+  - #10072 Dave Lombardo + Joey Jordison as current Zildjian users: VERIFIED-CLEAN — both confirmed Paiste in `endorsementNews.js` (Jordison timeline shows a 1999 Zildjian→Paiste switch); both cited locations (5436, 5646) exact.
+  - #10073 Gene Hoglan "Promark 5B" sticks in `albumArticles/gene-hoglan.js`: VERIFIED-CLEAN — confirmed ProMark Classic Forward 2B since 2018; found 6 occurrences vs. 2 cited (164/345/653/673/1262/2184), same file never swept by 8+ prior fixes in other files/fields.
+  - #10074 Gene Hoglan fabricated "Pearl Reference 14x6.5 Brass" snare narrative: VERIFIED-WITH-NOTE — same class already corrected site-wide to "not independently verified" (#8594/#9346/#10037), but this file carries a full elaborate 2016-vs-2020 snare-swap narrative (Grammy aside included) across **12 locations**, not the 3 cited — flagged as a full-narrative rewrite, same shape as the #8594 batch precedent.
+  - All 7 promoted to `ai-fix` with verification/scope-correction comments.
+- **GSC content-gap**: zero rows (metrics.md). **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-10-26; weekly refresh due ~2026-11-02 (tomorrow), not due this run.
+- **Starvation check**: post-triage backlog 0→7 (<15), bank 7→0 (≤2, excl. held #7981/#10032 + umbrellas #2211/#3810/#3819) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent cadence steady, ~6h intervals). Not escalated.
+- **Atomic-split sweep**: all 7 open non-hold `ai-fix` issues are <1hr old (just promoted); #7981/#10032 remain correctly held. Nothing eligible.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 7 (#10068-10074 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10032, umbrellas #2211/#3810/#3819): 7 fresh → 0
+
+### Quota check
+✅ SEO proposals: 7/7 triaged, live-verified, all promoted (2 with scope-correction notes: #10070, #10071; 2 with scope-expansion notes: #10073, #10074). ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: not due until ~11-02. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10068-10074 pick up via Roadie; #10071 (corrected location) and #10074 (full narrative rewrite) are the ones to confirm Roadie follows the comment's corrected scope rather than the issue body's original (wrong/narrow) citations.
+2. First run after 19:00 UTC is the evening review — log what shipped today and queue tomorrow's quotas. L1/L2/L3 weekly refresh due ~2026-11-02 — check snapshots for a new `Generated:` date starting tomorrow's first run.
+3. #7981 (Derek Roddy) and #10032 (Flo Mounier brand) both held pending founder/primary-source verification. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
+
 ## 2026-11-01 12:13 (daily deep run — 8/8 proposals verified+promoted #10058-10065)
 
 ### Context (≤3 lines)

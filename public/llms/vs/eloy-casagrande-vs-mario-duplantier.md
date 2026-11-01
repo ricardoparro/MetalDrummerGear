@@ -47,7 +47,7 @@ Both drummers build their sound on a Tama Starclassic Bubinga kit with dual 22"x
 ## FAQ
 
 **Q: What are the main differences between Eloy Casagrande's and Mario Duplantier's drum kits?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals, while Mario Duplantier uses Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals. Eloy plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and Bubinga/Birch hybrid shells, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal and Promark signature sticks. Mario also plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, paired with a Tama S.L.P. G-Maple 14"x6.5" snare and a Zildjian K Custom/A Custom hybrid cymbal setup anchored by a 21" Z Custom Mega Bell Ride, powered by Tama Iron Cobra 900 Power Glide pedals and his own Tama signature sticks.
+A: Eloy Casagrande — Drums: Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Cymbals: Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong). Mario Duplantier — Drums: Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom). Cymbals: Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas). Eloy plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and Bubinga/Birch hybrid shells, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal and Promark signature sticks. Mario also plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, paired with a Tama S.L.P. G-Maple 14"x6.5" snare and a Zildjian K Custom/A Custom hybrid cymbal setup anchored by a 21" Z Custom Mega Bell Ride, powered by Tama Iron Cobra 900 Power Glide pedals and his own Tama signature sticks.
 
 **Q: What drums does Eloy Casagrande play vs Mario Duplantier?**
 A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom).
@@ -67,4 +67,4 @@ A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride,
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

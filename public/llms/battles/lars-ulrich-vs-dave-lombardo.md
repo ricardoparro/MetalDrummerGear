@@ -53,7 +53,7 @@ Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest d
 ## FAQ
 
 **Q: Who has the more expensive drum kit, Lars Ulrich or Dave Lombardo?**  
-A: Lars Ulrich's Tama Starclassic Maple + Zildjian A Custom is estimated at $7,000–$10,000, while Dave Lombardo's Tama Starclassic Maple + Paiste RUDE runs approximately $7,000–$10,000. Both setups are professional-grade rigs well into five-figure territory when fully configured with all cymbals, hardware, and electronics.
+A: Lars Ulrich's Tama Starclassic Maple + Zildjian A Custom is estimated at $7,000–$10,000, while Dave Lombardo's Tama Starclassic Maple + Paiste RUDE runs approximately $7,000–$10,000. See the full battle for the documented setups.
 
 **Q: What are the main gear differences between Lars Ulrich and Dave Lombardo?**  
 A: Lars Ulrich plays Tama Starclassic Maple paired with Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride). Dave Lombardo opts for Tama Starclassic Walnut/Birch with Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/lars-ulrich-vs-dave-lombardo](https://metalforge.io/battles/lars-ulrich-vs-dave-lombardo).
@@ -75,4 +75,4 @@ A: Lars Ulrich uses Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

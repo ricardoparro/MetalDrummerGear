@@ -47,7 +47,7 @@ Dirk Verbeuren is the technical perfectionist who elevated Megadeth's modern sou
 ## FAQ
 
 **Q: What are the main differences between Dirk Verbeuren's and Chris Adler's drum kits?**
-A: Dirk Verbeuren plays Tama Starclassic Maple with Meinl cymbals, while Chris Adler uses Mapex Saturn in Satin Black Maple Burl with Meinl cymbals. Dirk endorses Tama Starclassic Maple drums with Meinl Byzance Brilliant & Classics Custom Dark cymbals for versatile attack. Chris played Mapex Saturn in Satin Black Maple Burl drums with Meinl Byzance cymbals for a dark, aggressive tone.
+A: Dirk Verbeuren — Drums: Tama Starclassic Maple. Cymbals: Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China). Chris Adler — Drums: Mapex Saturn in Satin Black Maple Burl. Cymbals: Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China). Dirk endorses Tama Starclassic Maple drums with Meinl Byzance Brilliant & Classics Custom Dark cymbals for versatile attack. Chris played Mapex Saturn in Satin Black Maple Burl drums with Meinl Byzance cymbals for a dark, aggressive tone.
 
 **Q: What drums does Dirk Verbeuren play vs Chris Adler?**
 A: Dirk Verbeuren plays Tama Starclassic Maple. Chris Adler plays Mapex Saturn in Satin Black Maple Burl.
@@ -67,4 +67,4 @@ A: Dirk Verbeuren uses Meinl Byzance Brilliant & Classics Custom Dark Series (14
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

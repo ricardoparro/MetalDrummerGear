@@ -47,7 +47,7 @@ Ben Koller and Dirk Verbeuren represent two entirely different approaches to tec
 ## FAQ
 
 **Q: What are the main differences between Ben Koller's and Dirk Verbeuren's drum kits?**
-A: Ben Koller plays Tama Starclassic Performer B/B with Zildjian cymbals, while Dirk Verbeuren uses Tama Starclassic Maple with Meinl cymbals. Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by Tama Speed Cobra 910 double pedals.
+A: Ben Koller — Drums: Tama Starclassic Performer B/B. Cymbals: Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China). Dirk Verbeuren — Drums: Tama Starclassic Maple. Cymbals: Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China). Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by Tama Speed Cobra 910 double pedals.
 
 **Q: What drums does Ben Koller play vs Dirk Verbeuren?**
 A: Ben Koller plays Tama Starclassic Performer B/B. Dirk Verbeuren plays Tama Starclassic Maple.
@@ -67,4 +67,4 @@ A: Ben Koller uses Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hat
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

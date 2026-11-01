@@ -50,7 +50,7 @@ Matt Greiner and John Otto both bring genuine jazz training into heavy music, bu
 A: Matt Greiner (August Burns Red) brings jazz-informed dynamics and technical precision to Grammy-nominated metalcore. John Otto (Limp Bizkit) brings jazz-educated syncopation and hip-hop groove to nu-metal's rap-rock foundation. Both are jazz-trained, but Greiner emphasizes odd-time compositional complexity while Otto emphasizes pocket and groove.
 
 **Q: What gear do Matt Greiner and John Otto use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. John Otto plays an Orange County Drum and Percussion (OCDP) custom kit with Zildjian A and A Custom cymbals.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. John Otto plays an Orange County Drum and Percussion (OCDP) custom kit with Zildjian A and A Custom cymbals.
 
 **Q: Where did John Otto study drumming?**
 A: John Otto studied at the Douglas Anderson School of the Arts in Jacksonville, Florida — the same school that produced Limp Bizkit bandmates. His jazz education is evident in his sophisticated ghost-note patterns and syncopated groove work.
@@ -67,4 +67,4 @@ A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains t
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

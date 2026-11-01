@@ -70,7 +70,7 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 | [Alex Bent](https://metalforge.io/pedals/setups/alex-bent) | ex-Trivium / Arkaik / Dragonlord | Axis A Longboard | [Markdown](https://metalforge.io/llms/pedals/setups/alex-bent.md) |
 | [Aquiles Priester](https://metalforge.io/pedals/setups/aquiles-priester) | Angra / W.A.S.P. | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/aquiles-priester.md) |
 | [Art Cruz](https://metalforge.io/pedals/setups/art-cruz) | Lamb of God | Trick Pro 1-V | [Markdown](https://metalforge.io/llms/pedals/setups/art-cruz.md) |
-| [Ben Koller](https://metalforge.io/pedals/setups/ben-koller) | Converge / Mutoid Man / Killer Be Killed | Tama Iron Cobra 900 | [Markdown](https://metalforge.io/llms/pedals/setups/ben-koller.md) |
+| [Ben Koller](https://metalforge.io/pedals/setups/ben-koller) | Converge / Mutoid Man / Killer Be Killed | Tama Iron Cobra Double Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/ben-koller.md) |
 | [Bill Ward](https://metalforge.io/pedals/setups/bill-ward) | Black Sabbath | Ludwig Speed King | [Markdown](https://metalforge.io/llms/pedals/setups/bill-ward.md) |
 | [Blake Richardson](https://metalforge.io/pedals/setups/blake-richardson) | Between the Buried and Me | Tama Iron Cobra Power Glide | [Markdown](https://metalforge.io/llms/pedals/setups/blake-richardson.md) |
 | [Chris Adler](https://metalforge.io/pedals/setups/chris-adler) | Lamb of God | Trick Pro 1-V | [Markdown](https://metalforge.io/llms/pedals/setups/chris-adler.md) |
@@ -127,4 +127,4 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 - [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-10-31 · 55 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · 55 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*

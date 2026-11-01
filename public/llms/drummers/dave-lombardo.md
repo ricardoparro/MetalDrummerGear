@@ -6,7 +6,7 @@ country: "Cuba/USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dave-lombardo"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-01"
 ---
 
 # Dave Lombardo — Drum Kit & Gear Setup
@@ -146,7 +146,7 @@ A: Yes, Dave co-founded Slayer in 1981 with Kerry King, Jeff Hanneman, and Tom A
 
 **Q: What drum kit did Dave Lombardo use?**
 
-A: Dave Lombardo's drum kit is built on Tama Starclassic Walnut/Birch shells, anchored by a Tama S.L.P. 14"x6.5" G-Maple snare drum. The kit carries Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats and the signature Paiste Reign Power Ride, powered by a Tama Iron Cobra 900 double pedal. He started on a Tama Imperialstar kit, evolving through Artstar to Starclassic over his career.
+A: Dave Lombardo's drum kit is built on Tama Starclassic Walnut/Birch shells, anchored by a Tama S.L.P. 14"x6.5" G-Maple snare drum. The kit carries Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats and the signature Paiste Reign Power Ride, powered by a Tama Iron Cobra 900 double pedal. He started on a Pearl Maxwin kit, evolving through Tama Artstar to Starclassic over his career.
 
 **Q: What drum set did Dave Lombardo use?**
 
@@ -252,4 +252,4 @@ Dated brand-endorsement timeline: [Dave Lombardo's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

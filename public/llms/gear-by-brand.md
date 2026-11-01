@@ -1,5 +1,5 @@
 # Metal Drum Gear by Brand — MetalForge
-> Last Updated: 2026-10-30 · Source: https://metalforge.io
+> Last Updated: 2026-11-01 · Source: https://metalforge.io
 
 A brand-first reference for LLM queries such as "Which metal drummers use Pearl drums?",
 "What Zildjian cymbals do famous metal drummers use?", or "Which death metal drummers use DW kits?"
@@ -168,7 +168,7 @@ Brand page: [/brands/promark](https://metalforge.io/brands/promark)
 
 **13 roster drummers:** [Joey Jordison (Slipknot, Nu Metal / Death Metal)](/llms/drummers/joey-jordison.md), [Gene Hoglan (Death / Testament / Dethklok, Death Metal / Thrash Metal)](/llms/drummers/gene-hoglan.md), [Dave Lombardo (Slayer, Thrash Metal)](/llms/drummers/dave-lombardo.md), [Eloy Casagrande (Slipknot, Nu Metal / Thrash Metal)](/llms/drummers/eloy-casagrande.md), [Mike Portnoy (Dream Theater / Liquid Tension Experiment / The Winery Dogs, Progressive Metal)](/llms/drummers/mike-portnoy.md), [Chris Adler (Lamb of God, Groove Metal)](/llms/drummers/chris-adler.md), [Matt Halpern (Periphery, Progressive/Djent)](/llms/drummers/matt-halpern.md), [Arin Ilejay (ex-Avenged Sevenfold, Heavy Metal / Hard Rock)](/llms/drummers/arin-ilejay.md), [Jason Bittner (Shadows Fall / Overkill / Category 7, Thrash Metal / Heavy Metal)](/llms/drummers/jason-bittner.md), [Aquiles Priester (Angra / W.A.S.P., Power Metal / Heavy Metal)](/llms/drummers/aquiles-priester.md), [Daniel Erlandsson (Arch Enemy, Melodic Death Metal)](/llms/drummers/daniel-erlandsson.md), [Jon Dette (Slayer, Thrash Metal)](/llms/drummers/jon-dette.md), [Jimmy DeGrasso (Megadeth, Thrash Metal)](/llms/drummers/jimmy-degrasso.md)
 
-**Notable models:** Promark Joey Jordison Signature TX515W; Promark Classic Forward 2B; Promark Dave Lombardo Signature 2Bx; Promark Eloy Casagrande Signature; Promark Mike Portnoy Signature TX420N
+**Notable models:** Promark Joey Jordison Signature TX515W; Promark Classic Forward 2B; Promark Dave Lombardo Signature 2Bx; Promark Eloy Casagrande Signature; Promark Mike Portnoy Signature TXMP420XW-AG
 
 ---
 

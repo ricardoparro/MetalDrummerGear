@@ -47,7 +47,7 @@ Lars Ulrich defined accessible thrash drumming for millions. Dave Lombardo pushe
 ## FAQ
 
 **Q: What are the main differences between Lars Ulrich's and Dave Lombardo's drum kits?**
-A: Lars Ulrich plays Tama Starclassic Maple with Zildjian cymbals, while Dave Lombardo uses Tama Starclassic Walnut/Birch with Paiste cymbals. Both endorse Tama drums. Lars uses Zildjian cymbals for bright attack; Dave prefers Paiste RUDE for aggressive cut.
+A: Lars Ulrich — Drums: Tama Starclassic Maple. Cymbals: Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride). Dave Lombardo — Drums: Tama Starclassic Walnut/Birch. Cymbals: Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China). Both endorse Tama drums. Lars uses Zildjian cymbals for bright attack; Dave prefers Paiste RUDE for aggressive cut.
 
 **Q: What drums does Lars Ulrich play vs Dave Lombardo?**
 A: Lars Ulrich plays Tama Starclassic Maple. Dave Lombardo plays Tama Starclassic Walnut/Birch.
@@ -67,4 +67,4 @@ A: Lars Ulrich uses Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

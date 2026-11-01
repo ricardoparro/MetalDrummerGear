@@ -34,7 +34,7 @@ Mike Portnoy, born in 1967 in Long Beach, New York, is one of the most influenti
 **Genre:** Progressive Metal  
 **Current Kit:** Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit)  
 **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)  
-**Key Gear:** Tama Mike Portnoy Signature Melody Master 14x5.5", Tama Iron Cobra Power Glide Twin Pedal (HP900PSW), Promark Mike Portnoy Signature TX420N  
+**Key Gear:** Tama Mike Portnoy Signature Melody Master 14x5.5", Tama Iron Cobra Power Glide Twin Pedal (HP900PSW), Promark Mike Portnoy Signature TXMP420XW-AG  
 
 **Watch:**
 
@@ -54,7 +54,7 @@ Mike Portnoy, born in 1967 in Long Beach, New York, is one of the most influenti
 ## FAQ
 
 **Q: Who has the more expensive drum kit, Danny Carey or Mike Portnoy?**  
-A: Danny Carey's Sonor SQ2 Heavy Beech + Paiste Signature (+ Mandala) is estimated at $22,000–$35,000, while Mike Portnoy's Tama Starclassic Maple/Birch + Sabian HHX runs approximately $12,000–$18,000. Both setups are professional-grade rigs well into five-figure territory when fully configured with all cymbals, hardware, and electronics.
+A: Danny Carey's Sonor SQ2 Heavy Beech + Paiste Signature (+ Mandala) is estimated at $22,000–$35,000, while Mike Portnoy's Tama Starclassic Maple/Birch + Sabian HHX runs approximately $12,000–$18,000. See the full battle for the documented setups.
 
 **Q: What are the main gear differences between Danny Carey and Mike Portnoy?**  
 A: Danny Carey plays Sonor SQ2 Heavy Beech paired with Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals). Mike Portnoy opts for Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/danny-carey-vs-mike-portnoy](https://metalforge.io/battles/danny-carey-vs-mike-portnoy).
@@ -76,4 +76,4 @@ A: Danny Carey uses Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" P
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

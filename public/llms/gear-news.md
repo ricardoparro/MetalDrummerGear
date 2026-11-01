@@ -2,7 +2,7 @@
 
 Chronological feed of drummer gear updates. See full tracker at https://metalforge.io/gear-news
 
-> Last updated: 2026-10-30 · 19 total events · 8 gear change events
+> Last updated: 2026-11-01 · 19 total events · 8 gear change events
 
 ---
 
@@ -163,13 +163,13 @@ Tool's Danny Carey fine-tunes his Paiste Signature Dry Heavy Ride configuration 
 
 ---
 
-### Brann Dailor adds Meinl Mb8 hi-hats to Mastodon live rig — 2026-02-08
+### Brann Dailor adds Meinl Byzance hi-hats to Mastodon live rig — 2026-02-08
 
 **Type:** Gear Added
 **Drummer:** Brann Dailor — /drummer/brann-dailor
-**Gear:** Meinl Mb8 Hi-Hats
+**Gear:** Meinl Byzance Hi-Hats
 
-Mastodon's Brann Dailor expands his Meinl setup with Mb8 series hi-hats for increased brightness in progressive passages.
+Mastodon's Brann Dailor expands his Meinl setup with Byzance series hi-hats for increased brightness in progressive passages.
 *Brighter articulation to complement the melodic Mastodon live sound.*
 
 ---
@@ -247,9 +247,9 @@ Tool's Danny Carey fine-tunes his Paiste Signature Dry Heavy Ride configuration 
 
 ---
 
-### Brann Dailor — Meinl Mb8 Hi-Hats (Added) — 2026
+### Brann Dailor — Meinl Byzance Hi-Hats (Added) — 2026
 
-Mastodon's Brann Dailor expands his Meinl setup with Mb8 series hi-hats for increased brightness in progressive passages.
+Mastodon's Brann Dailor expands his Meinl setup with Byzance series hi-hats for increased brightness in progressive passages.
 
 **Note:** Brighter articulation to complement the melodic Mastodon live sound.
 **Profile:** https://metalforge.io/drummer/brann-dailor
@@ -322,7 +322,7 @@ Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into 
 
 ### Brann Dailor
 
-- **2026-02-08** (Gear Added) — Meinl Mb8 Hi-Hats: Brann Dailor adds Meinl Mb8 hi-hats to Mastodon live rig
+- **2026-02-08** (Gear Added) — Meinl Byzance Hi-Hats: Brann Dailor adds Meinl Byzance hi-hats to Mastodon live rig
 - Profile: https://metalforge.io/drummer/brann-dailor
 
 ### Lars Ulrich
@@ -348,4 +348,4 @@ Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into 
 - [Endorsement News](https://metalforge.io/llms/endorsement-news.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

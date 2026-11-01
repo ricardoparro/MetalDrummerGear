@@ -53,7 +53,7 @@ A: Both are considered among modern heavy music's most technical drummers. Matt 
 A: Neither band has won a Grammy. August Burns Red, featuring Matt Greiner, received Grammy nominations for Best Metal Performance in 2016 and 2020. Animals as Leaders, featuring Matt Garstka, has not received a Grammy nomination.
 
 **Q: What gear do Matt Greiner and Matt Garstka use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his signature Pearl 14x6" steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance cymbals, powered by a Tama Speed Cobra 910 double pedal.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance cymbals, powered by a Tama Speed Cobra 910 double pedal.
 
 **Q: What bands are Matt Greiner and Matt Garstka known for?**
 A: Matt Greiner co-founded and has drummed for metalcore band August Burns Red since 2003. Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, replacing original drummer Navene Koperweis.
@@ -67,4 +67,4 @@ A: Matt Greiner co-founded and has drummed for metalcore band August Burns Red s
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

@@ -47,7 +47,7 @@ Two drummers who defined 2000s heavy metal. Chris Adler brought technical precis
 ## FAQ
 
 **Q: What are the main differences between Chris Adler's and Joey Jordison's drum kits?**
-A: Chris Adler plays Mapex Saturn in Satin Black Maple Burl with Meinl cymbals, while Joey Jordison uses Pearl Reference Series with Paiste cymbals. Chris played Mapex drums with Meinl cymbals for dark attack. Joey endorsed Pearl drums with Paiste cymbals for aggressive tone.
+A: Chris Adler — Drums: Mapex Saturn in Satin Black Maple Burl. Cymbals: Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China). Joey Jordison — Drums: Pearl Reference Series. Cymbals: Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride). Chris played Mapex drums with Meinl cymbals for dark attack. Joey endorsed Pearl drums with Paiste cymbals for aggressive tone.
 
 **Q: What drums does Chris Adler play vs Joey Jordison?**
 A: Chris Adler plays Mapex Saturn in Satin Black Maple Burl. Joey Jordison plays Pearl Reference Series.
@@ -67,4 +67,4 @@ A: Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crash
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

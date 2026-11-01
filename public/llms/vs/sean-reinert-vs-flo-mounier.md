@@ -20,7 +20,6 @@ Death/Cynic's Sean Reinert vs Cryptopsy's Flo Mounier — jazz-fusion technical 
 
 - **Drums:** Tama Starclassic Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Signature snare
 - **Pedals/Hardware:** Tama Speed Cobra 910 Twin Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
@@ -67,4 +66,4 @@ A: Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom c
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

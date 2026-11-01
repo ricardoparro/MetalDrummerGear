@@ -47,7 +47,7 @@ John Otto and Mario Duplantier show just how far groove-driven metal drumming ca
 ## FAQ
 
 **Q: What are the main differences between John Otto's and Mario Duplantier's drum kits?**
-A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals, while Mario Duplantier uses Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals. Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals. Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride.
+A: John Otto — Drums: Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. Cymbals: Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom). Mario Duplantier — Drums: Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom). Cymbals: Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas). Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals. Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride.
 
 **Q: What drums does John Otto play vs Mario Duplantier?**
 A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom).
@@ -67,4 +67,4 @@ A: John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

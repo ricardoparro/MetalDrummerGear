@@ -47,7 +47,7 @@ Matt Halpern shaped djent drumming for a generation. Alex Bent proves technical 
 ## FAQ
 
 **Q: What are the main differences between Matt Halpern's and Alex Bent's drum kits?**
-A: Matt Halpern plays Pearl Reference Series with Meinl cymbals, while Alex Bent uses Tama Starclassic Maple with Zildjian cymbals. Matt plays Pearl drums with Meinl cymbals for dark tones. Alex uses TAMA with precision-focused cymbal selection.
+A: Matt Halpern — Drums: Pearl Reference Series. Cymbals: Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack"). Alex Bent — Drums: Tama Starclassic Maple. Cymbals: Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China). Matt plays Pearl drums with Meinl cymbals for dark tones. Alex uses TAMA with precision-focused cymbal selection.
 
 **Q: What drums does Matt Halpern play vs Alex Bent?**
 A: Matt Halpern plays Pearl Reference Series. Alex Bent plays Tama Starclassic Maple.
@@ -67,4 +67,4 @@ A: Matt Halpern uses Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" &
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

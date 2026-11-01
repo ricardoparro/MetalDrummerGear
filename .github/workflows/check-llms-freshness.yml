@@ -22,6 +22,11 @@ on:
       - 'api/drummers/index.js'
       - 'packages/frontend/data/**'
       - 'scripts/generate-llms-*.cjs'
+      - 'scripts/generate-all-llms.cjs'
+      - 'scripts/build.sh'
+      - 'package.json'
+      - 'public/llms/**'
+      - 'public/llms-full.txt'
       - 'scripts/check-llms-freshness.cjs'
 
 permissions:

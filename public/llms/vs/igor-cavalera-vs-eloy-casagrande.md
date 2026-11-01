@@ -47,7 +47,7 @@ Igor Cavalera created Sepultura's iconic sound. Eloy Casagrande honors it while 
 ## FAQ
 
 **Q: What are the main differences between Igor Cavalera's and Eloy Casagrande's drum kits?**
-A: Igor Cavalera plays Yamaha Absolute Hybrid Maple with Zildjian cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Igor played various brands throughout his career. Eloy endorses Tama drums with Paiste cymbals.
+A: Igor Cavalera — Drums: Yamaha Absolute Hybrid Maple. Cymbals: Zildjian A Custom Series. Eloy Casagrande — Drums: Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Cymbals: Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong). Igor played various brands throughout his career. Eloy endorses Tama drums with Paiste cymbals.
 
 **Q: What drums does Igor Cavalera play vs Eloy Casagrande?**
 A: Igor Cavalera plays Yamaha Absolute Hybrid Maple. Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms).
@@ -67,4 +67,4 @@ A: Igor Cavalera uses Zildjian A Custom Series. Eloy Casagrande uses Paiste (15"
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

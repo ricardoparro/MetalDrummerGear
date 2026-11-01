@@ -88,19 +88,19 @@ const KIT_VALUES = {
 };
 
 function kitValue(id) {
-  return KIT_VALUES[id] || { label: 'Custom professional setup', est: '$8,000–$15,000' };
+  return KIT_VALUES[id] || null;
 }
 
 // Extract cymbal brand from full cymbal string
 function cymbalBrand(cymbals) {
-  if (!cymbals) return 'Custom selection';
+  if (!cymbals) return 'Not documented';
   const m = cymbals.match(/^([A-Za-z]+)/);
   return m ? m[1] : cymbals.split(' ')[0];
 }
 
 // Extract pedal info from hardware string
 function pedalInfo(hardware) {
-  if (!hardware) return 'Double pedal';
+  if (!hardware) return '';
   const m = hardware.match(/([A-Za-z\s]+ Double Pedal|[A-Za-z\s]+ Twin Effect Double Pedal|Axis Double Pedal|Czarcie Kopyto[^,]+)/i);
   return m ? m[0].trim() : hardware.split(',')[0].trim();
 }
@@ -116,9 +116,9 @@ function keyGearList(d) {
 }
 
 // --- Markdown builder ------------------------------------------------------
-function buildMarkdown(matchup) {
-  const d1 = drummerById[matchup.drummer1Id];
-  const d2 = drummerById[matchup.drummer2Id];
+function buildMarkdown(matchup, lookup = drummerById) {
+  const d1 = lookup[matchup.drummer1Id];
+  const d2 = lookup[matchup.drummer2Id];
 
   if (!d1 || !d2) {
     console.warn(`Skipping matchup ${JSON.stringify(matchup)}: drummer not found`);
@@ -163,8 +163,8 @@ function buildMarkdown(matchup) {
     parts.push(`**Career:** ${d1.bands.map((b) => b.name).join(', ')}  `);
   }
   parts.push(`**Genre:** ${d1.genre}  `);
-  parts.push(`**Current Kit:** ${(d1.gear && d1.gear.drums) || 'Custom setup'}  `);
-  parts.push(`**Cymbals:** ${(d1.gear && d1.gear.cymbals) || 'Custom selection'}  `);
+  parts.push(`**Current Kit:** ${(d1.gear && d1.gear.drums) || 'Not documented'}  `);
+  parts.push(`**Cymbals:** ${(d1.gear && d1.gear.cymbals) || 'Not documented'}  `);
   const kg1 = d1.gear ? keyGearList(d1) : [];
   if (kg1.length) parts.push(`**Key Gear:** ${kg1.join(', ')}  `);
   parts.push('');
@@ -189,8 +189,8 @@ function buildMarkdown(matchup) {
     parts.push(`**Career:** ${d2.bands.map((b) => b.name).join(', ')}  `);
   }
   parts.push(`**Genre:** ${d2.genre}  `);
-  parts.push(`**Current Kit:** ${(d2.gear && d2.gear.drums) || 'Custom setup'}  `);
-  parts.push(`**Cymbals:** ${(d2.gear && d2.gear.cymbals) || 'Custom selection'}  `);
+  parts.push(`**Current Kit:** ${(d2.gear && d2.gear.drums) || 'Not documented'}  `);
+  parts.push(`**Cymbals:** ${(d2.gear && d2.gear.cymbals) || 'Not documented'}  `);
   const kg2 = d2.gear ? keyGearList(d2) : [];
   if (kg2.length) parts.push(`**Key Gear:** ${kg2.join(', ')}  `);
   parts.push('');
@@ -208,33 +208,37 @@ function buildMarkdown(matchup) {
   parts.push('');
   parts.push(`| Category | ${d1.name} | ${d2.name} |`);
   parts.push(`|----------|${'-'.repeat(d1.name.length + 2)}|${'-'.repeat(d2.name.length + 2)}|`);
-  parts.push(`| Drum Kit | ${(d1.gear && d1.gear.drums) || 'Custom'} | ${(d2.gear && d2.gear.drums) || 'Custom'} |`);
+  parts.push(`| Drum Kit | ${(d1.gear && d1.gear.drums) || 'Not documented'} | ${(d2.gear && d2.gear.drums) || 'Not documented'} |`);
   parts.push(`| Cymbals | ${cb1} | ${cb2} |`);
-  parts.push(`| Snare | ${(d1.gear && d1.gear.snare) || 'Signature snare'} | ${(d2.gear && d2.gear.snare) || 'Signature snare'} |`);
-  parts.push(`| Pedals | ${pedalInfo(d1.gear && d1.gear.hardware)} | ${pedalInfo(d2.gear && d2.gear.hardware)} |`);
+  parts.push(`| Snare | ${(d1.gear && d1.gear.snare) || 'Not documented'} | ${(d2.gear && d2.gear.snare) || 'Not documented'} |`);
+  parts.push(`| Pedals | ${pedalInfo(d1.gear && d1.gear.hardware) || 'Not documented'} | ${pedalInfo(d2.gear && d2.gear.hardware) || 'Not documented'} |`);
   parts.push('');
 
   // FAQ
   parts.push('## FAQ');
   parts.push('');
 
-  // Expensive kit FAQ
-  parts.push(`**Q: Who has the more expensive drum kit, ${d1.name} or ${d2.name}?**  `);
-  parts.push(`A: ${d1.name}'s ${kv1.label} is estimated at ${kv1.est}, ` +
-    `while ${d2.name}'s ${kv2.label} runs approximately ${kv2.est}. ` +
-    `Both setups are professional-grade rigs well into five-figure territory when fully configured with all cymbals, hardware, and electronics.`);
-  parts.push('');
+  // Only show estimates explicitly present in the curated price table.
+  if (kv1 && kv2) {
+    parts.push(`**Q: Who has the more expensive drum kit, ${d1.name} or ${d2.name}?**  `);
+    parts.push(`A: ${d1.name}'s ${kv1.label} is estimated at ${kv1.est}, ` +
+      `while ${d2.name}'s ${kv2.label} runs approximately ${kv2.est}. ` +
+      `See the full battle for the documented setups.`);
+    parts.push('');
+  }
 
   // Main gear differences FAQ
-  const d1Drums = (d1.gear && d1.gear.drums) || 'a custom setup';
-  const d2Drums = (d2.gear && d2.gear.drums) || 'a custom setup';
-  const d1Cymbals = (d1.gear && d1.gear.cymbals) || 'a custom cymbal selection';
-  const d2Cymbals = (d2.gear && d2.gear.cymbals) || 'a custom cymbal selection';
-  parts.push(`**Q: What are the main gear differences between ${d1.name} and ${d2.name}?**  `);
-  parts.push(`A: ${d1.name} plays ${d1Drums} paired with ${d1Cymbals}. ` +
-    `${d2.name} opts for ${d2Drums} with ${d2Cymbals}. ` +
-    `The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/${slug}](${battleUrl}).`);
-  parts.push('');
+  const d1Drums = (d1.gear && d1.gear.drums);
+  const d2Drums = (d2.gear && d2.gear.drums);
+  const d1Cymbals = (d1.gear && d1.gear.cymbals);
+  const d2Cymbals = (d2.gear && d2.gear.cymbals);
+  if (d1Drums && d2Drums && d1Cymbals && d2Cymbals) {
+    parts.push(`**Q: What are the main gear differences between ${d1.name} and ${d2.name}?**  `);
+    parts.push(`A: ${d1.name} plays ${d1Drums} paired with ${d1Cymbals}. ` +
+      `${d2.name} opts for ${d2Drums} with ${d2Cymbals}. ` +
+      `The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/${slug}](${battleUrl}).`);
+    parts.push('');
+  }
 
   // Who would win FAQ
   parts.push(`**Q: Who wins the drum kit battle, ${d1.name} or ${d2.name}?**  `);
@@ -243,15 +247,19 @@ function buildMarkdown(matchup) {
     `Cast your vote at [metalforge.io/battles/${slug}](${battleUrl}).`);
   parts.push('');
 
-  // Drums FAQ
-  parts.push(`**Q: What drum kits do ${d1.name} and ${d2.name} play?**  `);
-  parts.push(`A: ${d1.name} plays ${d1Drums}. ${d2.name} plays ${d2Drums}.`);
-  parts.push('');
+  if (d1Drums && d2Drums) {
+    // Drums FAQ
+    parts.push(`**Q: What drum kits do ${d1.name} and ${d2.name} play?**  `);
+    parts.push(`A: ${d1.name} plays ${d1Drums}. ${d2.name} plays ${d2Drums}.`);
+    parts.push('');
+  }
 
-  // Cymbals FAQ
-  parts.push(`**Q: What cymbals do ${d1.name} and ${d2.name} use?**  `);
-  parts.push(`A: ${d1.name} uses ${d1Cymbals}. ${d2.name} uses ${d2Cymbals}.`);
-  parts.push('');
+  if (d1Cymbals && d2Cymbals) {
+    // Cymbals FAQ
+    parts.push(`**Q: What cymbals do ${d1.name} and ${d2.name} use?**  `);
+    parts.push(`A: ${d1.name} uses ${d1Cymbals}. ${d2.name} uses ${d2Cymbals}.`);
+    parts.push('');
+  }
 
   // Footer
   parts.push('---');
@@ -268,32 +276,38 @@ function buildMarkdown(matchup) {
 }
 
 // --- Generate files --------------------------------------------------------
-const outDir = path.join(__dirname, '../public/llms/battles');
-fs.mkdirSync(outDir, { recursive: true });
+function main() {
+  const outDir = path.join(__dirname, '../public/llms/battles');
+  fs.mkdirSync(outDir, { recursive: true });
 
-let written = 0;
-let minWords = Infinity;
-const results = [];
+  let written = 0;
+  let minWords = Infinity;
+  const results = [];
 
-for (const matchup of CURATED_MATCHUPS) {
-  const result = buildMarkdown(matchup);
-  if (!result) continue;
+  for (const matchup of CURATED_MATCHUPS) {
+    const result = buildMarkdown(matchup);
+    if (!result) continue;
 
-  const { slug, md } = result;
-  const outPath = path.join(outDir, `${slug}.md`);
-  fs.writeFileSync(outPath, md, 'utf-8');
-  const words = md.split(/\s+/).filter(Boolean).length;
-  if (words < minWords) minWords = words;
-  results.push({ slug, words });
-  written++;
+    const { slug, md } = result;
+    const outPath = path.join(outDir, `${slug}.md`);
+    fs.writeFileSync(outPath, md, 'utf-8');
+    const words = md.split(/\s+/).filter(Boolean).length;
+    if (words < minWords) minWords = words;
+    results.push({ slug, words });
+    written++;
+  }
+
+  console.log(`✅ Generated public/llms/battles/*.md — ${written} battle files (min ${minWords} words/file)`);
+  const failing = results.filter(r => r.words < 200);
+  if (failing.length > 0) {
+    console.warn(`⚠️  ${failing.length} file(s) below 200-word minimum:`);
+    for (const r of failing) console.warn(`   ${r.slug}: ${r.words} words`);
+  }
+  for (const r of results) {
+    console.log(`   ${r.slug}: ${r.words} words`);
+  }
+
 }
 
-console.log(`✅ Generated public/llms/battles/*.md — ${written} battle files (min ${minWords} words/file)`);
-const failing = results.filter(r => r.words < 200);
-if (failing.length > 0) {
-  console.warn(`⚠️  ${failing.length} file(s) below 200-word minimum:`);
-  for (const r of failing) console.warn(`   ${r.slug}: ${r.words} words`);
-}
-for (const r of results) {
-  console.log(`   ${r.slug}: ${r.words} words`);
-}
+if (require.main === module) main();
+module.exports = { buildMarkdown };

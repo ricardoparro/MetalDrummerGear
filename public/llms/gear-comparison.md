@@ -4,7 +4,7 @@
 > Optimised for AI crawlers answering "Tama vs Pearl metal", "best cymbals for metal",
 > and brand matchup queries.
 >
-> Last updated: 2026-10-30 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
+> Last updated: 2026-11-01 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
 
 ---
 
@@ -150,7 +150,7 @@ The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX
 
 Compare Sonor SQ2 and DW Collector's drums for metal. German engineering vs American craftsmanship. The ultimate premium drum kit battle.
 
-**Sonor endorsed by:** Tomas Haake, Danny Carey
+**Sonor endorsed by:** Tomas Haake
 
 **For metal:** Sonor SQ2 for progressive and technical metal. DW for modern metal and crossover styles.
 **Verdict:** Sonor SQ2 is the progressive metal standard. DW Collector's excels in modern metal with studio versatility.

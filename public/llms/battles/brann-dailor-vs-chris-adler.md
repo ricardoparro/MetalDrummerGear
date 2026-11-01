@@ -54,7 +54,7 @@ Chris Adler, born in 1972 in Washington, D.C., is best known as the co-founder a
 ## FAQ
 
 **Q: Who has the more expensive drum kit, Brann Dailor or Chris Adler?**  
-A: Brann Dailor's Tama Starclassic Performer B/B + Meinl Byzance is estimated at $8,000–$13,000, while Chris Adler's Mapex Black Panther Design Lab + Meinl Byzance runs approximately $9,000–$14,000. Both setups are professional-grade rigs well into five-figure territory when fully configured with all cymbals, hardware, and electronics.
+A: Brann Dailor's Tama Starclassic Performer B/B + Meinl Byzance is estimated at $8,000–$13,000, while Chris Adler's Mapex Black Panther Design Lab + Meinl Byzance runs approximately $9,000–$14,000. See the full battle for the documented setups.
 
 **Q: What are the main gear differences between Brann Dailor and Chris Adler?**  
 A: Brann Dailor plays Tama Starclassic Performer B/B paired with Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Chris Adler opts for Mapex Saturn in Satin Black Maple Burl with Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/brann-dailor-vs-chris-adler](https://metalforge.io/battles/brann-dailor-vs-chris-adler).
@@ -76,4 +76,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

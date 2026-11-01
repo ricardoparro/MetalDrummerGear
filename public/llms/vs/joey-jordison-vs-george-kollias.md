@@ -47,7 +47,7 @@ Joey Jordison brought extreme drumming into the mainstream through Slipknot's ma
 ## FAQ
 
 **Q: What are the main differences between Joey Jordison's and George Kollias's drum kits?**
-A: Joey Jordison plays Pearl Reference Series with Paiste cymbals, while George Kollias uses Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals. Joey played Pearl drums with Paiste RUDE and 2002 series cymbals, using Promark signature sticks. George plays Pearl drums (Masterworks Series) with Zildjian A Custom cymbals, Vic Firth sticks, and signature Pearl Demon XR pedals built for extreme speed.
+A: Joey Jordison — Drums: Pearl Reference Series. Cymbals: Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride). George Kollias — Drums: Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware). Cymbals: Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). Joey played Pearl drums with Paiste RUDE and 2002 series cymbals, using Promark signature sticks. George plays Pearl drums (Masterworks Series) with Zildjian A Custom cymbals, Vic Firth sticks, and signature Pearl Demon XR pedals built for extreme speed.
 
 **Q: What drums does Joey Jordison play vs George Kollias?**
 A: Joey Jordison plays Pearl Reference Series. George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware).
@@ -67,4 +67,4 @@ A: Joey Jordison uses Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18"
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

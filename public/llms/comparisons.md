@@ -3,7 +3,7 @@
 > Side-by-side gear, technique, and influence comparisons between legendary metal drummers.
 > Optimised for AI crawlers answering "X vs Y drummer" and "who has heavier gear" queries.
 >
-> Last updated: 2026-10-30 · 227 curated comparisons
+> Last updated: 2026-11-01 · 227 curated comparisons
 
 ---
 ## Abe Cunningham vs Dirk Verbeuren
@@ -995,7 +995,7 @@ Black Sabbath's Bill Ward vs August Burns Red's Matt Greiner — the jazz-swing 
 A: Bill Ward co-founded Black Sabbath in 1968 and helped invent heavy metal drumming's jazz-influenced, swinging groove on foundational records like "Paranoid" (1970). Matt Greiner co-founded August Burns Red in 2003 and brings jazz-informed dynamics and technical precision to Grammy-nominated metalcore. Ward founded the genre's rhythmic vocabulary; Greiner represents its jazz-rooted modern technical evolution.
 
 **Q: What gear do Bill Ward and Matt Greiner use?**
-A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal.
+A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal.
 
 **Q: What bands are Bill Ward and Matt Greiner known for?**
 A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012. Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer.
@@ -2338,7 +2338,7 @@ Cryptopsy's Flo Mounier vs Black Sabbath's Bill Ward — hyper-technical blast-b
 
 **Technique:** Mounier is widely regarded as one of the most technically proficient drummers in death metal, bringing jazz influences from Buddy Rich and Dave Weckl into extreme metal — his gravity-blast technique produces sustained speed with musical dynamics and ghost notes rather than pure brute force. Ward's technique also traces back to jazz, but toward the opposite end of the spectrum — a loose, open-handed swing inherited from Gene Krupa and Buddy Rich that prioritized feel and space over speed, generating Sabbath's foundational heaviness with a single pedal and no double bass at all.
 
-**Gear:** Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama S.L.P. Classic Dry Aluminum 14x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single Ludwig Speed King pedal.
+**Gear:** Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single Ludwig Speed King pedal.
 
 **Influence:** Mounier's "None So Vile" is regularly cited as one of the greatest extreme metal drum recordings of all time, and his teaching work directly influences thousands of death metal drummers worldwide through clinics conducted across three decades. Ward is widely credited as one of the true originators of heavy metal drumming — every extreme metal drummer who followed, including Mounier, built on the swinging, dynamic rhythmic vocabulary he created with Sabbath, earning him a 2006 Rock and Roll Hall of Fame induction.
 
@@ -2348,7 +2348,7 @@ Cryptopsy's Flo Mounier vs Black Sabbath's Bill Ward — hyper-technical blast-b
 A: Flo Mounier has been Cryptopsy's drummer since 1992, setting technical death metal's speed and complexity benchmark on "None So Vile" (1996). Bill Ward co-founded Black Sabbath in 1968 and, drawing on jazz influences like Gene Krupa and Buddy Rich, invented the swinging rhythmic feel that became heavy metal's foundation. Mounier represents technical death metal's velocity ceiling; Ward represents the genre's founding groove.
 
 **Q: What gear do Flo Mounier and Bill Ward use?**
-A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama S.L.P. Dry Aluminum snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal.
+A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal.
 
 **Q: What bands are Flo Mounier and Bill Ward known for?**
 A: Flo Mounier has been the drummer for Canadian technical death metal band Cryptopsy since 1992. Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012.
@@ -2401,7 +2401,7 @@ Cryptopsy's Flo Mounier vs Children of Bodom's Jaska Raatikainen. Hyper-technica
 
 **Technique:** Mounier is widely regarded as one of the most technically proficient drummers in death metal, bringing jazz influences from Buddy Rich and Dave Weckl into extreme metal — his gravity-blast technique produces sustained speed with musical dynamics and ghost notes rather than pure brute force. Raatikainen balances death metal velocity with melodic awareness — rapid double bass volleys and blast beats that lock tightly with Children of Bodom's neoclassical riffing, with fills composed to support rather than overwhelm Laiho's guitar and Janne Wirman's keyboard interplay.
 
-**Gear:** Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama S.L.P. Classic Dry Aluminum 14x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks.
+**Gear:** Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks.
 
 **Influence:** Mounier's "None So Vile" is regularly cited as one of the greatest extreme metal drum recordings of all time, and his teaching work directly influences thousands of death metal drummers worldwide through clinics conducted across three decades. Raatikainen helped build Finland's melodic death metal scene into a global commercial force — Children of Bodom sold over two million albums worldwide, and his playing on "Hatebreeder" and "Follow the Reaper" influenced a generation of melodic death and metalcore drummers.
 
@@ -2414,7 +2414,7 @@ A: Flo Mounier is generally considered the faster and more extreme technical dru
 A: Jaska Raatikainen co-founded Children of Bodom in 1993 (originally as Inearthed) and remained the band's sole drummer for its entire 26-year run, from their 1997 debut "Something Wild" through their 2019 farewell album "Hexed."
 
 **Q: What gear do Flo Mounier and Jaska Raatikainen use?**
-A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama S.L.P. Dry Aluminum snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
+A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
 
 **Q: What bands are Flo Mounier and Jaska Raatikainen known for?**
 A: Flo Mounier has been the drummer for Canadian technical death metal band Cryptopsy since 1992. Jaska Raatikainen was the co-founding drummer of Finnish melodic death metal band Children of Bodom from 1993 until the band's dissolution in 2019.
@@ -2434,7 +2434,7 @@ Cryptopsy's Flo Mounier vs August Burns Red's Matt Greiner — hyper-technical d
 
 **Technique:** Mounier is widely regarded as one of the most technically proficient drummers in death metal, bringing jazz influences from Buddy Rich and Dave Weckl into extreme metal — his gravity-blast technique produces sustained speed with musical dynamics and ghost notes rather than pure brute force. Greiner brings a similar jazz-informed musicality to metalcore, weaving odd time signatures seamlessly into song structures and locking tightly with guitarist JB Brubaker's intricate riffs so that difficult patterns land as grooves rather than pure technical displays.
 
-**Gear:** Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama S.L.P. Classic Dry Aluminum 14x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Matt Greiner plays a Mapex Black Panther Design Lab kit with dual 22"x18" bass drums, a Mapex Black Panther 14"x5.5" Maple snare, and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal and Vic Firth Matt Greiner signature sticks.
+**Gear:** Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Matt Greiner plays a Mapex Black Panther Design Lab kit with dual 22"x18" bass drums, a Mapex Black Panther 14"x5.5" Maple snare, and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal and Vic Firth Matt Greiner signature sticks.
 
 **Influence:** Mounier's "None So Vile" is regularly cited as one of the greatest extreme metal drum recordings of all time, and his teaching work directly influences thousands of death metal drummers worldwide through clinics conducted across three decades. Greiner's musicality across August Burns Red's Grammy-nominated run has proven metalcore drumming can be technical without sacrificing groove, earning him widespread respect as one of the genre's most musical modern players.
 
@@ -2444,7 +2444,7 @@ Cryptopsy's Flo Mounier vs August Burns Red's Matt Greiner — hyper-technical d
 A: Flo Mounier has been Cryptopsy's drummer since 1992, pushing technical death metal to its physical limits on landmark records like "None So Vile" (1996). Matt Greiner co-founded August Burns Red in 2003 and has anchored the band's Grammy-nominated metalcore catalog with jazz-informed musicality. Both bring rare technical precision to their respective extreme metal subgenres.
 
 **Q: What gear do Flo Mounier and Matt Greiner use?**
-A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama S.L.P. Dry Aluminum snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Matt Greiner plays a Mapex Black Panther Design Lab kit with a Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal.
+A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Matt Greiner plays a Mapex Black Panther Design Lab kit with a Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal.
 
 **Q: What bands are Flo Mounier and Matt Greiner known for?**
 A: Flo Mounier has been the drummer for Canadian technical death metal band Cryptopsy since 1992. Matt Greiner co-founded metalcore band August Burns Red in Lancaster, Pennsylvania, in 2003 and remains the band's drummer.
@@ -3483,7 +3483,7 @@ Sepultura's Igor Cavalera vs Pantera's Vinnie Paul. Thrash-vs-thrash: Brazilian 
 
 **Technique:** Igor fused tribal percussion with thrash aggression and signature groove patterns. Vinnie pioneered the heavy power-groove with punchy snare authority.
 
-**Gear:** Igor played Tama Starclassic Maple with Paiste RUDE & 2002 cymbals. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals.
+**Gear:** Igor currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals, a setup adopted in 2018; from 2006-2018 he played a ddrum Hybrid Kit with Zildjian A Custom cymbals (Cavalera Conspiracy era), and before that Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals during his Sepultura years. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals.
 
 **Influence:** Igor defined Brazilian metal and influenced global thrash. Vinnie's groove metal template shaped 90s American metal and beyond.
 
@@ -4918,7 +4918,7 @@ August Burns Red's Matt Greiner vs ex-Lamb of God's Chris Adler — jazz-informe
 A: Matt Greiner brings jazz-influenced dynamics and technical precision to August Burns Red's metalcore, which he has co-founded and drummed for since 2003. Chris Adler spent 25 years with Lamb of God, inventing a ride-bell-driven groove technique that became foundational to modern groove metal before departing in 2019.
 
 **Q: What gear do Matt Greiner and Chris Adler use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Chris Adler played a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature 14x5.5" snare and Meinl Byzance cymbals, driven by a Trick Pro V double pedal.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Chris Adler played a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature 14x5.5" snare and Meinl Byzance cymbals, driven by a Trick Pro V double pedal.
 
 **Q: Is Chris Adler still in Lamb of God?**
 A: No — Chris Adler stepped away from Lamb of God in 2019 after 25 years as the band's drummer, and was replaced by Art Cruz. Adler also briefly filled in for Megadeth in 2015-2016, recording the Grammy-winning "Dystopia."
@@ -4951,7 +4951,7 @@ August Burns Red's Matt Greiner vs Sepultura/Slipknot's Eloy Casagrande — jazz
 A: Matt Greiner brings jazz-influenced dynamics and technical precision to August Burns Red's metalcore, which he has co-founded and drummed for since 2003. Eloy Casagrande brings explosive double bass speed and groove-driven intensity rooted in Sepultura's Brazilian thrash lineage, earning Modern Drummer's No. 1 metal drummer honor in 2024 after joining Slipknot.
 
 **Q: What gear do Matt Greiner and Eloy Casagrande use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals, powered by a Tama Iron Cobra double pedal.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals, powered by a Tama Iron Cobra double pedal.
 
 **Q: What bands are Matt Greiner and Eloy Casagrande known for?**
 A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer. Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot in 2024.
@@ -4984,7 +4984,7 @@ August Burns Red's Matt Greiner vs Nile's George Kollias — jazz-informed metal
 A: Matt Greiner brings jazz-influenced dynamics and technical precision to August Burns Red's metalcore, which he has co-founded and drummed for since 2003. George Kollias pushes blast-beat endurance to its physical limits for Nile's technical death metal, sustaining speeds past 240 BPM since joining the band in 2004.
 
 **Q: What gear do Matt Greiner and George Kollias use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. George Kollias plays a Pearl Masterworks Stadium Exotic kit with his own signature 14x6.5" Pearl snare and Zildjian cymbals, powered by the Pearl Demon XR double pedal he co-designed.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. George Kollias plays a Pearl Masterworks Stadium Exotic kit with his own signature 14x6.5" Pearl snare and Zildjian cymbals, powered by the Pearl Demon XR double pedal he co-designed.
 
 **Q: What bands are Matt Greiner and George Kollias known for?**
 A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer. George Kollias has drummed for technical death metal band Nile since 2004, replacing Tony Laureano.
@@ -5017,7 +5017,7 @@ August Burns Red's Matt Greiner vs Mayhem's Hellhammer. Jazz-informed metalcore 
 A: Matt Greiner (August Burns Red) blends jazz-informed dynamics and compositional control into Grammy-nominated metalcore. Hellhammer (Mayhem, Dimmu Borgir) built second-wave black metal's blast-beat speed vocabulary on cold, relentless one-foot precision, starting with "De Mysteriis Dom Sathanas" (1994). Greiner treats extremity as one compositional tool; Hellhammer treats it as the genre's defining atmosphere.
 
 **Q: What gear do Matt Greiner and Hellhammer use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, also driven by an Axis Double Pedal.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, also driven by an Axis Double Pedal.
 
 **Q: Does Hellhammer play barefoot?**
 A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds.
@@ -5050,7 +5050,7 @@ August Burns Red's Matt Greiner vs Limp Bizkit's John Otto. Jazz-informed techni
 A: Matt Greiner (August Burns Red) brings jazz-informed dynamics and technical precision to Grammy-nominated metalcore. John Otto (Limp Bizkit) brings jazz-educated syncopation and hip-hop groove to nu-metal's rap-rock foundation. Both are jazz-trained, but Greiner emphasizes odd-time compositional complexity while Otto emphasizes pocket and groove.
 
 **Q: What gear do Matt Greiner and John Otto use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. John Otto plays an Orange County Drum and Percussion (OCDP) custom kit with Zildjian A and A Custom cymbals.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. John Otto plays an Orange County Drum and Percussion (OCDP) custom kit with Zildjian A and A Custom cymbals.
 
 **Q: Where did John Otto study drumming?**
 A: John Otto studied at the Douglas Anderson School of the Arts in Jacksonville, Florida — the same school that produced Limp Bizkit bandmates. His jazz education is evident in his sophisticated ghost-note patterns and syncopated groove work.
@@ -5107,7 +5107,7 @@ A: Both are considered among modern heavy music's most technical drummers. Matt 
 A: Neither band has won a Grammy. August Burns Red, featuring Matt Greiner, received Grammy nominations for Best Metal Performance in 2016 and 2020. Animals as Leaders, featuring Matt Garstka, has not received a Grammy nomination.
 
 **Q: What gear do Matt Greiner and Matt Garstka use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his signature Pearl 14x6" steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance cymbals, powered by a Tama Speed Cobra 910 double pedal.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Matt Garstka plays a Pearl Masterworks Maple kit and Meinl Byzance cymbals, powered by a Tama Speed Cobra 910 double pedal.
 
 **Q: What bands are Matt Greiner and Matt Garstka known for?**
 A: Matt Greiner co-founded and has drummed for metalcore band August Burns Red since 2003. Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, replacing original drummer Navene Koperweis.
@@ -5715,7 +5715,7 @@ Megadeth's Nick Menza vs Pantera's Vinnie Paul — 90s thrash and groove metal i
 
 **Technique:** Menza's technique drew directly from his jazz background: ghost notes tucked into thrash arrangements, melodic tom fills that moved around the kit rather than simply filling space, and a swing feel audible even inside "Holy Wars...The Punishment Due"'s machine-gun double bass. Paul's signature technique was almost the inverse — he famously held his drumsticks backwards, gripping the tapered end and striking with the butt for maximum weight on every hit, and he used double bass sparingly, for groove accents rather than sustained blast work. Both drummers valued restraint, but Menza's restraint served harmonic and rhythmic complexity while Paul's restraint served physical impact — the difference between a drummer thinking like a jazz musician and a drummer thinking like a producer sculpting low end.
 
-**Gear:** In a striking parallel, both drummers started 1990 on the exact same kit: a Tama Artstar II with birch shells and die-cast hoops — Menza in Midnight Blue for "Rust in Peace," Paul in Piano Black for "Cowboys from Hell." From there their gear diverged completely. Menza's drums kept moving too — from that Tama Artstar II he switched to Pearl Masters for "Countdown to Extinction" (1992), Pearl Masterworks for "Youthanasia" (1994), and Pearl Reference Custom for his final Megadeth album, "Cryptic Writings" (1997) — while his cymbals went Zildjian A/A Custom on "Rust in Peace" to Paiste 2002 and Signature series on "Countdown to Extinction" to Sabian AA/Signature on "Cryptic Writings," and he used Vater Nick Menza Signature sticks. Paul stayed on Tama through "Vulgar Display of Power" (1992) before switching to Pearl drums in 1996 — oversized 24"x18" double bass drums and an 8"-deep steel snare, both triggered — and stayed with Sabian AA/AAX cymbals for nearly his entire career, eventually landing on a ddrum Vinnie Paul Signature Series kit for Hellyeah. Paul was also an early advocate of blending acoustic drums with electronic triggers to guarantee consistency at massive volume.
+**Gear:** In a striking parallel, both drummers started 1990 on the exact same kit: a Tama Artstar II with birch shells and die-cast hoops — Menza in Midnight Blue for "Rust in Peace," Paul in Piano Black for "Cowboys from Hell." From there their gear diverged completely. Menza's drums kept moving too — from that Tama Artstar II he switched to Pearl Masters for "Countdown to Extinction" (1992), Pearl Masterworks for "Youthanasia" (1994), and Pearl Reference Custom for his final Megadeth album, "Cryptic Writings" (1997) — while his cymbals went Zildjian A/A Custom on "Rust in Peace" to Paiste 2002 and Signature series on "Countdown to Extinction" to Sabian AA/Signature on "Cryptic Writings," and he used Vater Nick Menza Signature sticks. Paul stayed on Tama through "Vulgar Display of Power" (1992) before switching to Pearl drums in 1996 — oversized 24"x18" double bass drums, triggered, though no source confirms a specific snare model for his Tama/Pearl years — and stayed with Sabian AA/AAX cymbals for nearly his entire career, eventually landing on a ddrum Vinnie Paul Signature Series kit (including his confirmed 14"x8" 8-ply maple signature snare) for Hellyeah. Paul was also an early advocate of blending acoustic drums with electronic triggers to guarantee consistency at massive volume.
 
 **Influence:** Menza's playing on "Rust in Peace" is regularly cited alongside the genre's most technically celebrated performances and remains a benchmark for thrash drummers who want to add musicality without sacrificing aggression; he died on stage performing with his band OHM in 2016. Paul's half-time, pocket-first approach on "Vulgar Display of Power" directly shaped nu-metal rhythm sections at Korn, Deftones, and Slipknot, and his early embrace of trigger-blended acoustic drums became standard practice across 90s heavy music production. He passed away in 2018; Anthrax's Charlie Benante has since toured with the reunited Pantera in his honor.
 
@@ -5728,7 +5728,7 @@ A: Yes, at least at the start of the decade — both drummers played a Tama Arts
 A: Vinnie Paul built his reputation on half-time, groove-first drumming — proving that heavy music didn't require speed, with signature tracks like "Walk" hitting harder through restraint than technical density. Nick Menza, by contrast, brought a jazz-trained vocabulary of ghost notes, melodic fills, and dynamic control to Megadeth's technical thrash, prioritizing musicality and complexity over raw groove.
 
 **Q: What snare drums did Nick Menza and Vinnie Paul use?**
-A: Nick Menza's snare moved along with his kit changes across his Megadeth tenure, settling into his Pearl Reference Custom setup by "Cryptic Writings" (1997). Vinnie Paul used an 8"-deep steel snare at 14"x8" on his Tama, then Pearl, kits — notably deeper than standard metal snares — which produced the massive, cracking low-end tone that became a hallmark of Pantera's groove metal sound.
+A: Nick Menza's snare moved along with his kit changes across his Megadeth tenure, settling into his Pearl Reference Custom setup by "Cryptic Writings" (1997). No source confirms a specific snare model for Vinnie Paul's Tama or Pearl kits during his Pantera years; his only source-confirmed snare is the ddrum Vinnie Paul Signature 14"x8" — an 8-ply maple shell — from his later Hellyeah era, which produced the massive, cracking low-end tone that became a hallmark of his groove metal sound.
 
 **Q: How did Nick Menza and Vinnie Paul die?**
 A: Nick Menza collapsed and died on stage in 2016 at age 51 while performing with his band OHM. Vinnie Paul passed away in 2018 at age 54 from dilated cardiomyopathy and coronary artery disease, two years after Menza and fourteen years after his brother Dimebag Darrell was murdered on stage in 2004.

@@ -47,7 +47,7 @@ Jaska Raatikainen and Bill Ward sit at opposite ends of heavy metal drumming's f
 ## FAQ
 
 **Q: What are the main differences between Jaska Raatikainen's and Bill Ward's drum kits?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while Bill Ward uses Ludwig Standard / Club Date Series with Zildjian cymbals. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single pedal.
+A: Jaska Raatikainen — Drums: Pearl Masters Premium Maple. Cymbals: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Bill Ward — Drums: Ludwig Standard / Club Date Series. Cymbals: Zildjian Avedis Series. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single pedal.
 
 **Q: What drums does Jaska Raatikainen play vs Bill Ward?**
 A: Jaska Raatikainen plays Pearl Masters Premium Maple. Bill Ward plays Ludwig Standard / Club Date Series.
@@ -67,4 +67,4 @@ A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-H
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

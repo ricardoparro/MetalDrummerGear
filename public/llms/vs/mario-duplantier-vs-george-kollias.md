@@ -47,7 +47,7 @@ Mario Duplantier brings atmospheric, eco-conscious tribal power to extreme metal
 ## FAQ
 
 **Q: What are the main differences between Mario Duplantier's and George Kollias's drum kits?**
-A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals, while George Kollias uses Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals. Mario endorses Tama Starclassic Bubinga drums with Zildjian K Sweet and A Custom cymbals and Tama signature sticks. George plays Pearl Reference drums with Pearl Demon XR pedals specifically engineered for extreme-tempo double bass.
+A: Mario Duplantier — Drums: Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom). Cymbals: Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas). George Kollias — Drums: Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware). Cymbals: Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). Mario endorses Tama Starclassic Bubinga drums with Zildjian K Sweet and A Custom cymbals and Tama signature sticks. George plays Pearl Reference drums with Pearl Demon XR pedals specifically engineered for extreme-tempo double bass.
 
 **Q: What drums does Mario Duplantier play vs George Kollias?**
 A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom). George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware).
@@ -67,4 +67,4 @@ A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

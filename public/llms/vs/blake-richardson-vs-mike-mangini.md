@@ -20,7 +20,6 @@ Between the Buried and Me's Blake Richardson vs Dream Theater's Mike Mangini. Ge
 
 - **Drums:** Pearl Reference Pure
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)
-- **Snare:** Signature snare
 - **Pedals/Hardware:** Pearl Eliminator Redline Double Pedal, Roland SPD-SX Sampling Pad
 - **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP)
 
@@ -67,4 +66,4 @@ A: Blake Richardson's most celebrated work is on Between the Buried and Me's "Co
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

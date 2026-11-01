@@ -55,6 +55,16 @@ function extractBotGatedRewriteSources(vercelConfig) {
   return sources;
 }
 
+// Current per-family rules use literal segments and single named parameters.
+// Fail closed for other syntax instead of claiming unsupported patterns match.
+function matchesRewriteSource(source, pathname) {
+  const sourceSegments = source.split('/');
+  const pathSegments = pathname.split('/');
+  return sourceSegments.length === pathSegments.length && sourceSegments.every((segment, i) =>
+    /^:[A-Za-z][A-Za-z0-9_]*$/.test(segment) ? pathSegments[i].length > 0 : segment === pathSegments[i]
+  );
+}
+
 function main() {
   const metaSource = fs.readFileSync(META_HANDLER_PATH, 'utf8');
   const vercelConfig = JSON.parse(fs.readFileSync(VERCEL_CONFIG_PATH, 'utf8'));
@@ -64,7 +74,7 @@ function main() {
 
   const missing = [...handlerPaths]
     .filter((p) => !SKIP_LIST.has(p))
-    .filter((p) => !rewriteSources.has(p))
+    .filter((p) => ![...rewriteSources].some(source => matchesRewriteSource(source, p)))
     .sort();
 
   if (missing.length > 0) {
@@ -91,4 +101,5 @@ function main() {
   );
 }
 
-main();
+if (require.main === module) main();
+module.exports = { matchesRewriteSource };

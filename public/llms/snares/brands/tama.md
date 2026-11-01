@@ -27,7 +27,7 @@
 | [Chris Turner](https://metalforge.io/llms/drummers/chris-turner.md) | Oceans Ate Alaska | Tama S.L.P. 14x5.5" G-Maple |
 | [Dave Lombardo](https://metalforge.io/llms/drummers/dave-lombardo.md) | Slayer | Tama S.L.P. 14x6.5" G-Maple |
 | [Derek Roddy](https://metalforge.io/llms/drummers/derek-roddy.md) | Hate Eternal / Nile | Tama SLP Black Brass 14x6.5" |
-| [Dirk Verbeuren](https://metalforge.io/llms/drummers/dirk-verbeuren.md) | Megadeth | Tama S.L.P. Big Black Steel 14x6.5" |
+| [Dirk Verbeuren](https://metalforge.io/llms/drummers/dirk-verbeuren.md) | Megadeth | Tama S.L.P. Dynamic Bronze 14x5.5" |
 | [Eloy Casagrande](https://metalforge.io/llms/drummers/eloy-casagrande.md) | Slipknot | Tama Bell Brass 14x5.5" (BB146) |
 | [Flo Mounier](https://metalforge.io/llms/drummers/flo-mounier.md) | Cryptopsy | Tama Starclassic Maple 14x5.5" |
 | [Frost](https://metalforge.io/llms/drummers/frost.md) | Satyricon / 1349 | Tama Starclassic Bubinga 14x5.5" |
@@ -75,4 +75,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Tama, see:
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

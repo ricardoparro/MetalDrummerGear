@@ -12,8 +12,8 @@
     "backend": "npm run start --workspace=packages/backend",
     "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
     "build": "npm run build --workspace=packages/frontend",
-    "test": "npm run test --workspaces --if-present",
-    "generate:llms": "for f in scripts/generate-llms-*.cjs; do node \"$f\" || exit 1; done",
+    "test": "node --test tests/*.test.mjs && npm run test --workspaces --if-present",
+    "generate:llms": "node scripts/generate-all-llms.cjs",
     "verify:gear-consistency": "node scripts/verify-gear-consistency.cjs"
   },
   "dependencies": {

@@ -54,7 +54,7 @@ Dave Lombardo, born in Cuba in 1965, is widely regarded as one of the greatest d
 ## FAQ
 
 **Q: Who has the more expensive drum kit, Vinnie Paul or Dave Lombardo?**  
-A: Vinnie Paul's ddrum Vinnie Paul Signature + Sabian AA/AAX is estimated at $8,000–$12,000, while Dave Lombardo's Tama Starclassic Maple + Paiste RUDE runs approximately $7,000–$10,000. Both setups are professional-grade rigs well into five-figure territory when fully configured with all cymbals, hardware, and electronics.
+A: Vinnie Paul's ddrum Vinnie Paul Signature + Sabian AA/AAX is estimated at $8,000–$12,000, while Dave Lombardo's Tama Starclassic Maple + Paiste RUDE runs approximately $7,000–$10,000. See the full battle for the documented setups.
 
 **Q: What are the main gear differences between Vinnie Paul and Dave Lombardo?**  
 A: Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified) paired with Sabian (brand per secondary sources; specific models unverified). Dave Lombardo opts for Tama Starclassic Walnut/Birch with Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/vinnie-paul-vs-dave-lombardo](https://metalforge.io/battles/vinnie-paul-vs-dave-lombardo).
@@ -76,4 +76,4 @@ A: Vinnie Paul uses Sabian (brand per secondary sources; specific models unverif
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

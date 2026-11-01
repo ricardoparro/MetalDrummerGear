@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mike-portnoy"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-01"
 ---
 
 # Mike Portnoy — Drum Kit & Gear Setup
@@ -25,7 +25,7 @@ Mike Portnoy's drum kit and gear setup. Mike Portnoy is a professional metal dru
 | Primary brand | Tama |
 | Drum kit | Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) |
 | Signature snare | Tama Mike Portnoy Signature Melody Master 14x5.5" |
-| Sticks | Promark Mike Portnoy Signature TX420N |
+| Sticks | Promark Mike Portnoy Signature TXMP420XW-AG |
 
 ## Kit Overview
 
@@ -33,7 +33,7 @@ Mike Portnoy plays a dual Tama Starclassic drum kit — a side-by-side "Dream Mo
 
 Sabian HHX MAX and AAX MAXX cymbals complete the Mike Portnoy drum kit, per Sabian's current official artist listing: a 22" HHX MAX Ride, 18" AAX X-Plosion and 19" HHX X-Plosion Crashes, an 18" AAX O-Zone Crash, 18" HHX and 19" Paragon Chinas, 7"/9"/11" AAX MAXX Splashes, and 6"/6.5"/7" AA MAX Chimes. A Tama Iron Cobra Power Glide Twin Pedal (HP900PSW) drives his demanding double-bass lines.
 
-The Mike Portnoy drum set configuration has served across Dream Theater (1985–2010, 2023–present), The Winery Dogs, Sons of Apollo, Transatlantic, and Liquid Tension Experiment — each demanding adaptability from the same core rig. His Promark Mike Portnoy Signature TX420N drumsticks are heavier than average, chosen for the power progressive metal's complex, high-tempo compositions require.
+The Mike Portnoy drum set configuration has served across Dream Theater (1985–2010, 2023–present), The Winery Dogs, Sons of Apollo, Transatlantic, and Liquid Tension Experiment — each demanding adaptability from the same core rig. His Promark Mike Portnoy Signature TXMP420XW-AG drumsticks are heavier than average, chosen for the power progressive metal's complex, high-tempo compositions require.
 
 ## Biography
 
@@ -107,7 +107,7 @@ Mike Portnoy's drumming combines technical virtuosity with musicality and showma
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14x5.5"
 - **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
 - **Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
-- **Sticks:** Promark Mike Portnoy Signature TX420N
+- **Sticks:** Promark Mike Portnoy Signature TXMP420XW-AG
 
 ## Endorsements
 
@@ -159,7 +159,7 @@ A: Mike Portnoy uses Sabian HHX MAX and AAX MAXX series cymbals, per Sabian's cu
 
 **Q: What snare drum does Mike Portnoy use?**
 
-A: Mike Portnoy plays his signature Tama Mike Portnoy Melody Master snare drum, a 14"x5.5" shell designed for his Dream Theater and side-project work, played with Promark Mike Portnoy Signature TX420N sticks.
+A: Mike Portnoy plays his signature Tama Mike Portnoy Melody Master snare drum, a 14"x5.5" shell designed for his Dream Theater and side-project work, played with Promark Mike Portnoy Signature TXMP420XW-AG sticks.
 
 ## Trivia
 
@@ -230,4 +230,4 @@ Dated brand-endorsement timeline: [Mike Portnoy's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

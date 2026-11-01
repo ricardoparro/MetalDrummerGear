@@ -50,7 +50,7 @@ Matt Greiner and Hellhammer both push extreme heavy music's technical ceiling fr
 A: Matt Greiner (August Burns Red) blends jazz-informed dynamics and compositional control into Grammy-nominated metalcore. Hellhammer (Mayhem, Dimmu Borgir) built second-wave black metal's blast-beat speed vocabulary on cold, relentless one-foot precision, starting with "De Mysteriis Dom Sathanas" (1994). Greiner treats extremity as one compositional tool; Hellhammer treats it as the genre's defining atmosphere.
 
 **Q: What gear do Matt Greiner and Hellhammer use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, also driven by an Axis Double Pedal.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, also driven by an Axis Double Pedal.
 
 **Q: Does Hellhammer play barefoot?**
 A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds.
@@ -67,4 +67,4 @@ A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains t
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

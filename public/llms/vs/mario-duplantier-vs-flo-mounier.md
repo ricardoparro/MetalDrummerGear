@@ -20,7 +20,6 @@ Gojira's Mario Duplantier vs Cryptopsy's Flo Mounier — tribal, polyrhythmic pr
 
 - **Drums:** Tama Starclassic Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Signature snare
 - **Pedals/Hardware:** Tama Speed Cobra 910 Twin Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
@@ -67,4 +66,4 @@ A: Flo Mounier is widely credited as one of the drummers most responsible for po
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

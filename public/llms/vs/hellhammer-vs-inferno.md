@@ -47,7 +47,7 @@ Hellhammer is the blueprint for black metal drumming. Inferno evolved it with de
 ## FAQ
 
 **Q: What are the main differences between Hellhammer's and Inferno's drum kits?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Inferno uses Pearl Reference Series with Paiste cymbals. Hellhammer plays Sonor drums with focus on power. Inferno uses Pearl with emphasis on speed and projection.
+A: Hellhammer — Drums: Sonor SQ2 Heavy Beech. Cymbals: Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China). Inferno — Drums: Pearl Reference Series. Cymbals: Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China). Hellhammer plays Sonor drums with focus on power. Inferno uses Pearl with emphasis on speed and projection.
 
 **Q: What drums does Hellhammer play vs Inferno?**
 A: Hellhammer plays Sonor SQ2 Heavy Beech. Inferno plays Pearl Reference Series.
@@ -67,4 +67,4 @@ A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ri
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

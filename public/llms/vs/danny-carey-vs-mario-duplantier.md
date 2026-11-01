@@ -47,7 +47,7 @@ Danny Carey is the philosopher-drummer whose mathematical approach created Tool'
 ## FAQ
 
 **Q: What are the main differences between Danny Carey's and Mario Duplantier's drum kits?**
-A: Danny Carey plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Mario Duplantier uses Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals. Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Mario endorses Tama drums with a Zildjian A Custom/K Custom cymbal array for dark, complex tones.
+A: Danny Carey — Drums: Sonor SQ2 Heavy Beech. Cymbals: Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals). Mario Duplantier — Drums: Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom). Cymbals: Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas). Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Mario endorses Tama drums with a Zildjian A Custom/K Custom cymbal array for dark, complex tones.
 
 **Q: What drums does Danny Carey play vs Mario Duplantier?**
 A: Danny Carey plays Sonor SQ2 Heavy Beech. Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom).
@@ -67,4 +67,4 @@ A: Danny Carey uses Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" P
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

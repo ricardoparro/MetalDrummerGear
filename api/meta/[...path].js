@@ -627,6 +627,29 @@ function extractYouTubeId(url) {
 // Issue #4771: exported so scripts/audit-video-seo.mjs can call the exact
 // same function the live handler uses (no reimplemented/second copy of this
 // routing+data logic) to check VideoObject/iframe/sitemap consistency.
+// A missing catalog field is unknown, never evidence of a custom kit,
+// a signature model, a particular cymbal brand, or a sponsorship.
+function documentedGearFaqs(drummer) {
+  return [
+    drummer.gear?.drums && {
+      question: `What drum kit does ${drummer.name} use?`,
+      answer: `${drummer.name} (${drummer.band}) uses ${drummer.gear.drums}.`,
+    },
+    drummer.gear?.cymbals && {
+      question: `What cymbals does ${drummer.name} use?`,
+      answer: `${drummer.name} uses ${drummer.gear.cymbals}.`,
+    },
+  ].filter(Boolean);
+}
+
+function documentedEndorsementFaqs(drummer) {
+  const names = (drummer.endorsements || []).map(e => e.name).filter(Boolean);
+  return names.length ? [{
+    question: `What brands does ${drummer.name} endorse?`,
+    answer: `${drummer.name}'s documented endorsements: ${names.join(', ')}.`,
+  }] : [];
+}
+
 export function getMetaForPath(pathname) {
   const path = pathname.toLowerCase();
 
@@ -1031,7 +1054,6 @@ export function getMetaForPath(pathname) {
     const drummer2 = getDrummerBySlug(slug2);
     
     if (drummer1 && drummer2) {
-      const today = new Date().toISOString().split('T')[0];
       return {
         title: `${drummer1.name} vs ${drummer2.name} — Gear Comparison | ${SITE_NAME}`,
         description: `Compare ${drummer1.name} (${drummer1.band}) vs ${drummer2.name} (${drummer2.band}) — drums, cymbals, hardware side-by-side.`,
@@ -1042,8 +1064,6 @@ export function getMetaForPath(pathname) {
           headline: `${drummer1.name} vs ${drummer2.name} — Gear Comparison`,
           description: `Compare ${drummer1.name} (${drummer1.band}) vs ${drummer2.name} (${drummer2.band}) — drums, cymbals, hardware side-by-side.`,
           author: 'MetalForge Editorial',
-          datePublished: '2026-03-05',
-          dateModified: today,
           image: `${BASE_URL}/api/og/compare?d1=${slug1}&d2=${slug2}`,
           articleSection: 'Drummer Comparisons',
           keywords: [drummer1.name, drummer2.name, drummer1.band, drummer2.band, 'drummer comparison', 'drum gear'],
@@ -1053,28 +1073,7 @@ export function getMetaForPath(pathname) {
           { name: 'Drummer Comparisons', url: `${BASE_URL}/vs` },
           { name: `${drummer1.name} vs ${drummer2.name}`, url: `${BASE_URL}/vs/${slug1}-vs-${slug2}` },
         ],
-        faqSchema: [
-          {
-            question: `What drum kit does ${drummer1.name} use?`,
-            answer: `${drummer1.name} (${drummer1.band}) uses ${drummer1.gear?.drums || 'a custom drum kit'}.`,
-          },
-          {
-            question: `What drum kit does ${drummer2.name} use?`,
-            answer: `${drummer2.name} (${drummer2.band}) uses ${drummer2.gear?.drums || 'a custom drum kit'}.`,
-          },
-          {
-            question: `What cymbals does ${drummer1.name} use?`,
-            answer: `${drummer1.name} uses ${drummer1.gear?.cymbals || 'Zildjian cymbals'}.`,
-          },
-          {
-            question: `What cymbals does ${drummer2.name} use?`,
-            answer: `${drummer2.name} uses ${drummer2.gear?.cymbals || 'Zildjian cymbals'}.`,
-          },
-          {
-            question: `How does ${drummer1.name}'s gear compare to ${drummer2.name}?`,
-            answer: `${drummer1.name} (${drummer1.band}) plays ${drummer1.gear?.drums || 'a custom drum kit'} with ${drummer1.gear?.cymbals || 'cymbals'}, while ${drummer2.name} (${drummer2.band}) plays ${drummer2.gear?.drums || 'a custom drum kit'} with ${drummer2.gear?.cymbals || 'cymbals'}.`,
-          },
-        ],
+        faqSchema: [drummer1, drummer2].flatMap(documentedGearFaqs),
         // Issue #5209: Person entities for both compared drummers, mirroring
         // the /battles/ fix (#4462) — closes the /vs/ Person schema gap.
         personSchema: [
@@ -2048,9 +2047,12 @@ export function getMetaForPath(pathname) {
           { name: d2.name, url: `${BASE_URL}/drummer/${slug2}`, band: d2.band },
         ],
         faqSchema: [
-          { question: `What drum kit does ${d1.name} use?`, answer: curated?.comparison?.gear ? `${d1.name} uses ${d1.gear?.drums || 'a custom drum kit'} with ${d1.gear?.cymbals || 'cymbal setup'}. ${curated.comparison.gear}` : `${d1.name} uses ${d1.gear?.drums || 'a custom drum kit'} with ${d1.gear?.cymbals || 'cymbal setup'}.` },
-          { question: `What drum kit does ${d2.name} use?`, answer: curated?.comparison?.gear ? `${d2.name} uses ${d2.gear?.drums || 'a custom drum kit'} with ${d2.gear?.cymbals || 'cymbal setup'}. ${curated.comparison.gear}` : `${d2.name} uses ${d2.gear?.drums || 'a custom drum kit'} with ${d2.gear?.cymbals || 'cymbal setup'}.` },
-          { question: `Which is better, ${d1.name} or ${d2.name}?`, answer: curated?.verdict || `Both ${d1.name} (${d1.band}) and ${d2.name} (${d2.band}) are legendary metal drummers. Compare their complete gear setups on MetalForge.` },
+          ...[d1, d2].flatMap(documentedGearFaqs),
+          ...(curated?.comparison?.gear ? [{
+            question: `How does ${d1.name}'s gear compare to ${d2.name}?`,
+            answer: curated.comparison.gear,
+          }] : []),
+          ...(curated?.verdict ? [{ question: `Which is better, ${d1.name} or ${d2.name}?`, answer: curated.verdict }] : []),
         ],
         // Issue #5270: Person entities for both compared drummers — mirrors #4462/#5209.
         personSchema: [
@@ -3077,9 +3079,6 @@ export function getMetaForPath(pathname) {
             label: `${drummerSlugToName[h.drummer]} (${h.period})`,
           }))
       );
-      // Issue #4769: build-time date so bots see the page's freshness reflects
-      // the current build, not a frozen/hand-typed date.
-      const today = new Date().toISOString().split('T')[0];
       return {
         title: band.metaTitle || `${band.name} — Drummer, Drum Kit & Gear | ${SITE_NAME}`,
         description: truncate(
@@ -3151,7 +3150,6 @@ export function getMetaForPath(pathname) {
                 } : {}),
               }))
           ),
-          dateModified: today,
           ...(band.sameAs && band.sameAs.length ? { sameAs: band.sameAs } : {}),
         }),
         breadcrumbSchema: [
@@ -3986,15 +3984,6 @@ export function getMetaForPath(pathname) {
     const [, slug] = endorsementsMatch;
     const drummer = getDrummerBySlug(slug);
     if (drummer) {
-      const endorsements = drummer.endorsements || [];
-      const endorsementNames = endorsements.map(e => e.name);
-      const drumsEndorsement = endorsements.find(e => /drum/i.test(e.name) && !/drumstick|drumhead/i.test(e.name));
-      const cymbalEndorsement = endorsements.find(e => /cymbal/i.test(e.name));
-      const primaryKit = drumsEndorsement ? drumsEndorsement.name : (drummer.gear?.drums || 'a custom drum kit');
-      const cymbalBrand = cymbalEndorsement ? cymbalEndorsement.name : (drummer.gear?.cymbals || 'cymbals');
-      const endorsementList = endorsementNames.length > 0
-        ? endorsementNames.join(', ')
-        : (drummer.gear ? [drummer.gear.drums, drummer.gear.cymbals].filter(Boolean).join(', ') : 'various gear brands');
       return {
         title: `${drummer.name} Endorsements & Gear Sponsors | ${SITE_NAME}`,
         description: `Official gear endorsements for ${drummer.name} (${drummer.band}): drum brands, cymbal sponsors, stick deals, and hardware partnerships.`,
@@ -4017,20 +4006,7 @@ export function getMetaForPath(pathname) {
         ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
-        faqSchema: [
-          {
-            question: `What brands does ${drummer.name} endorse?`,
-            answer: `${drummer.name} endorses ${endorsementList}. Visit MetalForge for the full breakdown of their gear sponsors and partnerships.`,
-          },
-          {
-            question: `What drum kit does ${drummer.name} endorse?`,
-            answer: `${drummer.name}'s main drum endorsement is ${primaryKit}. See the complete kit specs on MetalForge.`,
-          },
-          {
-            question: `Does ${drummer.name} endorse cymbals?`,
-            answer: `${drummer.name} endorses ${cymbalBrand}. Full cymbal setup and endorsement details are available on MetalForge.`,
-          },
-        ],
+        faqSchema: documentedEndorsementFaqs(drummer),
         personSchema: [
           { name: drummer.name, url: `${BASE_URL}/drummers/${slug}`, band: drummer.band },
         ],
@@ -5500,15 +5476,6 @@ export function getMetaForPath(pathname) {
     const [, slug] = drummerEndorsementsMatch;
     const drummer = getDrummerBySlug(slug);
     if (drummer) {
-      const endorsements = drummer.endorsements || [];
-      const endorsementNames = endorsements.map(e => e.name);
-      const drumsEndorsement = endorsements.find(e => /drum/i.test(e.name) && !/drumstick|drumhead/i.test(e.name));
-      const cymbalEndorsement = endorsements.find(e => /cymbal/i.test(e.name));
-      const primaryKit = drumsEndorsement ? drumsEndorsement.name : (drummer.gear?.drums || 'a custom drum kit');
-      const cymbalBrand = cymbalEndorsement ? cymbalEndorsement.name : (drummer.gear?.cymbals || 'cymbals');
-      const endorsementList = endorsementNames.length > 0
-        ? endorsementNames.join(', ')
-        : (drummer.gear ? [drummer.gear.drums, drummer.gear.cymbals].filter(Boolean).join(', ') : 'various gear brands');
       return {
         title: `${drummer.name} Endorsements & Gear Sponsors | ${SITE_NAME}`,
         description: `Official gear endorsements for ${drummer.name} (${drummer.band}): drum brands, cymbal sponsors, stick deals, and hardware partnerships.`,
@@ -5526,20 +5493,7 @@ export function getMetaForPath(pathname) {
         ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
-        faqSchema: [
-          {
-            question: `What brands does ${drummer.name} endorse?`,
-            answer: `${drummer.name} endorses ${endorsementList}. Visit MetalForge for the full breakdown of their gear sponsors and partnerships.`,
-          },
-          {
-            question: `What drum kit does ${drummer.name} endorse?`,
-            answer: `${drummer.name}'s main drum endorsement is ${primaryKit}. See the complete kit specs on MetalForge.`,
-          },
-          {
-            question: `Does ${drummer.name} endorse cymbals?`,
-            answer: `${drummer.name} endorses ${cymbalBrand}. Full cymbal setup and endorsement details are available on MetalForge.`,
-          },
-        ],
+        faqSchema: documentedEndorsementFaqs(drummer),
       };
     }
   }
@@ -5883,16 +5837,7 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: `${BASE_URL}/battles/${battleSlug}`,
-        faqSchema: [
-          {
-            question: `What drum kit does ${d1.name} use?`,
-            answer: `${d1.name} (${d1.band}) uses ${d1.gear?.drums || 'a custom drum kit'}. Full gear breakdown including cymbals and hardware on MetalForge.`,
-          },
-          {
-            question: `What drum kit does ${d2.name} use?`,
-            answer: `${d2.name} (${d2.band}) uses ${d2.gear?.drums || 'a custom drum kit'}. Full gear breakdown including cymbals and hardware on MetalForge.`,
-          },
-        ],
+        faqSchema: [d1, d2].flatMap(documentedGearFaqs),
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Battles', url: `${BASE_URL}/battles` },
@@ -8549,6 +8494,7 @@ export default function handler(req, res) {
 
   // Set response headers
   res.setHeader('Content-Type', 'text/html; charset=utf-8');
+  res.setHeader('Vary', 'Accept, User-Agent');
   res.setHeader('Cache-Control', 'public, s-maxage=3600, stale-while-revalidate=86400');
 
   // Return HTML

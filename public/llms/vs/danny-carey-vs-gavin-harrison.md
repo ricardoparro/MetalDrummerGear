@@ -47,7 +47,7 @@ Danny Carey is the shaman-mathematician who turned Tool's albums into percussive
 ## FAQ
 
 **Q: What are the main differences between Danny Carey's and Gavin Harrison's drum kits?**
-A: Danny Carey plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Gavin Harrison uses Sonor SQ2 Series with Zildjian cymbals. Danny plays Sonor SQ2 Heavy Beech drums with Paiste Signature cymbals and custom Mandala pads. Gavin uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals — sharing a Sonor drum foundation with Danny while taking a different cymbal approach.
+A: Danny Carey — Drums: Sonor SQ2 Heavy Beech. Cymbals: Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals). Gavin Harrison — Drums: Sonor SQ2 Series. Cymbals: Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China). Danny plays Sonor SQ2 Heavy Beech drums with Paiste Signature cymbals and custom Mandala pads. Gavin uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals — sharing a Sonor drum foundation with Danny while taking a different cymbal approach.
 
 **Q: What drums does Danny Carey play vs Gavin Harrison?**
 A: Danny Carey plays Sonor SQ2 Heavy Beech. Gavin Harrison plays Sonor SQ2 Series.
@@ -67,4 +67,4 @@ A: Danny Carey uses Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" P
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

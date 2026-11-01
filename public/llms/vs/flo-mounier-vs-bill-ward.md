@@ -12,7 +12,6 @@ Cryptopsy's Flo Mounier vs Black Sabbath's Bill Ward — hyper-technical blast-b
 
 - **Drums:** Tama Starclassic Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Signature snare
 - **Pedals/Hardware:** Tama Speed Cobra 910 Twin Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
@@ -34,7 +33,7 @@ Mounier is widely regarded as one of the most technically proficient drummers in
 
 ## Key Differences
 
-Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama S.L.P. Classic Dry Aluminum 14x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single Ludwig Speed King pedal. Mounier is widely regarded as one of the most technically proficient drummers in death metal, bringing jazz influences from Buddy Rich and Dave Weckl into extreme metal — his gravity-blast technique produces sustained speed with musical dynamics and ghost notes rather than pure brute force. Ward's technique also traces back to jazz, but toward the opposite end of the spectrum — a loose, open-handed swing inherited from Gene Krupa and Buddy Rich that prioritized feel and space over speed, generating Sabbath's foundational heaviness with a single pedal and no double bass at all.
+Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single Ludwig Speed King pedal. Mounier is widely regarded as one of the most technically proficient drummers in death metal, bringing jazz influences from Buddy Rich and Dave Weckl into extreme metal — his gravity-blast technique produces sustained speed with musical dynamics and ghost notes rather than pure brute force. Ward's technique also traces back to jazz, but toward the opposite end of the spectrum — a loose, open-handed swing inherited from Gene Krupa and Buddy Rich that prioritized feel and space over speed, generating Sabbath's foundational heaviness with a single pedal and no double bass at all.
 
 ## Influence & Legacy
 
@@ -50,7 +49,7 @@ Flo Mounier and Bill Ward occupy opposite ends of heavy metal drumming's technic
 A: Flo Mounier has been Cryptopsy's drummer since 1992, setting technical death metal's speed and complexity benchmark on "None So Vile" (1996). Bill Ward co-founded Black Sabbath in 1968 and, drawing on jazz influences like Gene Krupa and Buddy Rich, invented the swinging rhythmic feel that became heavy metal's foundation. Mounier represents technical death metal's velocity ceiling; Ward represents the genre's founding groove.
 
 **Q: What gear do Flo Mounier and Bill Ward use?**
-A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama S.L.P. Dry Aluminum snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal.
+A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal.
 
 **Q: What bands are Flo Mounier and Bill Ward known for?**
 A: Flo Mounier has been the drummer for Canadian technical death metal band Cryptopsy since 1992. Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012.
@@ -64,4 +63,4 @@ A: Flo Mounier has been the drummer for Canadian technical death metal band Cryp
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

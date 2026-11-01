@@ -50,7 +50,7 @@ Matt Greiner and Eloy Casagrande both represent technical excellence at the top 
 A: Matt Greiner brings jazz-influenced dynamics and technical precision to August Burns Red's metalcore, which he has co-founded and drummed for since 2003. Eloy Casagrande brings explosive double bass speed and groove-driven intensity rooted in Sepultura's Brazilian thrash lineage, earning Modern Drummer's No. 1 metal drummer honor in 2024 after joining Slipknot.
 
 **Q: What gear do Matt Greiner and Eloy Casagrande use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals, powered by a Tama Iron Cobra double pedal.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals, powered by a Tama Iron Cobra double pedal.
 
 **Q: What bands are Matt Greiner and Eloy Casagrande known for?**
 A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer. Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot in 2024.
@@ -67,4 +67,4 @@ A: Yes — Pearl released a Matt Greiner signature 14x6" steel snare drum in 201
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

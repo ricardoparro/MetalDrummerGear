@@ -12,7 +12,6 @@ Cryptopsy's Flo Mounier vs Children of Bodom's Jaska Raatikainen. Hyper-technica
 
 - **Drums:** Tama Starclassic Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Snare:** Signature snare
 - **Pedals/Hardware:** Tama Speed Cobra 910 Twin Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
@@ -34,7 +33,7 @@ Mounier is widely regarded as one of the most technically proficient drummers in
 
 ## Key Differences
 
-Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama S.L.P. Classic Dry Aluminum 14x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Mounier is widely regarded as one of the most technically proficient drummers in death metal, bringing jazz influences from Buddy Rich and Dave Weckl into extreme metal — his gravity-blast technique produces sustained speed with musical dynamics and ghost notes rather than pure brute force. Raatikainen balances death metal velocity with melodic awareness — rapid double bass volleys and blast beats that lock tightly with Children of Bodom's neoclassical riffing, with fills composed to support rather than overwhelm Laiho's guitar and Janne Wirman's keyboard interplay.
+Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Mounier is widely regarded as one of the most technically proficient drummers in death metal, bringing jazz influences from Buddy Rich and Dave Weckl into extreme metal — his gravity-blast technique produces sustained speed with musical dynamics and ghost notes rather than pure brute force. Raatikainen balances death metal velocity with melodic awareness — rapid double bass volleys and blast beats that lock tightly with Children of Bodom's neoclassical riffing, with fills composed to support rather than overwhelm Laiho's guitar and Janne Wirman's keyboard interplay.
 
 ## Influence & Legacy
 
@@ -53,7 +52,7 @@ A: Flo Mounier is generally considered the faster and more extreme technical dru
 A: Jaska Raatikainen co-founded Children of Bodom in 1993 (originally as Inearthed) and remained the band's sole drummer for its entire 26-year run, from their 1997 debut "Something Wild" through their 2019 farewell album "Hexed."
 
 **Q: What gear do Flo Mounier and Jaska Raatikainen use?**
-A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama S.L.P. Dry Aluminum snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
+A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
 
 **Q: What bands are Flo Mounier and Jaska Raatikainen known for?**
 A: Flo Mounier has been the drummer for Canadian technical death metal band Cryptopsy since 1992. Jaska Raatikainen was the co-founding drummer of Finnish melodic death metal band Children of Bodom from 1993 until the band's dissolution in 2019.
@@ -67,4 +66,4 @@ A: Flo Mounier has been the drummer for Canadian technical death metal band Cryp
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

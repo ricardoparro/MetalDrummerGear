@@ -14,7 +14,7 @@ Dream Theater's Mike Portnoy vs Tool's Danny Carey. Progressive metal drumming, 
 - **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14x5.5"
 - **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
-- **Sticks:** Promark Mike Portnoy Signature TX420N
+- **Sticks:** Promark Mike Portnoy Signature TXMP420XW-AG
 
 ## Danny Carey Setup
 
@@ -47,7 +47,7 @@ Mike Portnoy epitomizes technical progressive metal. Danny Carey represents arti
 ## FAQ
 
 **Q: What are the main differences between Mike Portnoy's and Danny Carey's drum kits?**
-A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian cymbals, while Danny Carey uses Sonor SQ2 Heavy Beech with Paiste cymbals. Mike plays Tama drums with Sabian cymbals. Danny uses Sonor drums with Paiste cymbals, including custom Mandala pads.
+A: Mike Portnoy — Drums: Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Cymbals: Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes). Danny Carey — Drums: Sonor SQ2 Heavy Beech. Cymbals: Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals). Mike plays Tama drums with Sabian cymbals. Danny uses Sonor drums with Paiste cymbals, including custom Mandala pads.
 
 **Q: What drums does Mike Portnoy play vs Danny Carey?**
 A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Danny Carey plays Sonor SQ2 Heavy Beech.
@@ -67,4 +67,4 @@ A: Mike Portnoy uses Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

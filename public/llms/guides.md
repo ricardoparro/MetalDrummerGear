@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-10-30 · Source: https://metalforge.io
+> Last updated: 2026-11-01 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -552,7 +552,7 @@ Chris uses matched grip with strong wrist technique. His playing emphasizes sync
 
 ### Gear Setup
 
-- Drums: Mapex Mapex Black Panther / Saturn V (Maple/Walnut shells)
+- Drums: Mapex Mapex Saturn (Maple/Walnut shells)
 - Snare: Mapex Chris Adler Signature Snare
 - Cymbals: Meinl Meinl Byzance
 - Pedals: Trick Trick Pro V
@@ -1417,7 +1417,7 @@ Reinert's technique is built on his jazz training filtered through extreme metal
 ### Frequently Asked Questions
 
 **Q: What drum kit did Sean Reinert use on Death's Human?**
-A: Sean Reinert played a Tama Artstar II birch shell kit during the Human (1991) recording period, recorded at Morrisound Recording with Scott Burns — replacing the Pearl Export series kit he'd used on Death's 1990 debut, Spiritual Healing. The Artstar II's warm, open birch tone is audible on Human's production, contributing to the organic warmth that distinguishes the album from drier contemporary death metal recordings. He ran a relatively conventional configuration — the musical complexity came from his technique and composition, not from an unusual setup.
+A: Sean Reinert played a Tama Artstar II birch shell kit during the Human (1991) recording period, recorded at Morrisound Recording with Scott Burns — his actual recording debut with Death (Death's prior album, Spiritual Healing, was recorded by Bill Andrews, who had left the band before Reinert joined). The Artstar II's warm, open birch tone is audible on Human's production, contributing to the organic warmth that distinguishes the album from drier contemporary death metal recordings. He ran a relatively conventional configuration — the musical complexity came from his technique and composition, not from an unusual setup.
 
 **Q: What cymbals did Sean Reinert use on Human?**
 A: Sean Reinert played Zildjian A Series cymbals, including 14" A New Beat Hi-Hats and A Medium Ride and Crash cymbals. The Zildjian A Series traces its heritage to jazz drumming, and this lineage is audible in Reinert's ride work on Human — the A Medium Ride provides the articulate bell and responsive wash suited to jazz ride phrasing at death metal tempos.
@@ -1864,7 +1864,7 @@ A: Start with Altars of Madness (1989) for foundational blast beat technique and
 **Genre:** Melodic Death Metal / Neoclassical Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-jaska-raatikainen](https://metalforge.io/guides/how-to-sound-like-jaska-raatikainen)
 
-Master Jaska Raatikainen's melodic death metal technique. Learn his guitar-synchronized triplets, power stroke hi-hat work, neoclassical metal fills, and Pearl Masters Custom setup for Children of Bodom's iconic sound.
+Master Jaska Raatikainen's melodic death metal technique. Learn his guitar-synchronized triplets, power stroke hi-hat work, neoclassical metal fills, and Pearl Masters Premium Maple setup for Children of Bodom's iconic sound.
 
 ### Style Overview
 
@@ -1888,18 +1888,18 @@ Raatikainen's technique is rooted in European metal drumming traditions — cont
 
 ### Gear Setup
 
-- Drums: Pearl Pearl Masters Custom (Maple / Maple-Birch shells)
+- Drums: Pearl Pearl Masters Premium Maple (Maple shells)
 - Snare: Pearl Pearl Free-Floating Steel 14" x 6.5"
-- Cymbals: Zildjian Zildjian A Series
+- Cymbals: Zildjian Zildjian A Custom and K Custom
 - Pedals: Pearl Pearl Demon Drive Double Pedal
 
 ### Frequently Asked Questions
 
 **Q: What drum kit did Jaska Raatikainen use?**
-A: Jaska Raatikainen has played Pearl Masters Custom drums with maple or maple-birch shells since 2004, after an earlier Tama Starclassic era from 1999-2004 that covered 'Hatebreeder' through 'Hate Crew Deathroll.' His setup typically featured double 22" bass drums, two rack toms (10" and 12"), and two floor toms (14" and 16"). The Pearl Masters Custom maple shells provided the warm attack that suited Children of Bodom's melodic context.
+A: Jaska Raatikainen has played Pearl Masters Premium Maple drums with maple shells since 2004, after an earlier Tama Starclassic era from 1999-2004 that covered 'Hatebreeder' through 'Hate Crew Deathroll.' His setup typically featured double 22" bass drums, two rack toms (10" and 12"), and two floor toms (14" and 16"). The Pearl Masters Premium Maple shells provided the warm attack that suited Children of Bodom's melodic context.
 
 **Q: What cymbals did Jaska Raatikainen use?**
-A: Jaska Raatikainen used Zildjian A series cymbals — known for their bright, cutting, and musically versatile character. His setup included 14" A New Beat hi-hats, 17" and 18" A crashes, a 20" A Medium Ride, and an 18" A China. The A series' clear, defined response suited Children of Bodom's melodic production context where cymbals needed to cut through keyboards and two guitars.
+A: Jaska Raatikainen used Zildjian A Custom and K Custom cymbals — known for their bright, cutting, and musically versatile character. His setup included 14" A Custom hi-hats, 17" and 18" A Custom crashes, a 20" K Custom Ride, and an 18" A Custom China. The K Custom ride's darker, controlled voice suited Children of Bodom's melodic production context where cymbals needed to cut through keyboards and two guitars.
 
 **Q: What is the guitar synchronization technique in Children of Bodom?**
 A: Jaska Raatikainen's guitar synchronization technique involves building drum patterns — particularly triplet and 16th-note patterns — that mirror Alexi Laiho's guitar picking rhythms. The kick drum lands on the same triplet subdivisions as the guitar's string attacks, creating a locked, unified feel. This requires learning the guitar part before constructing the drum pattern, rather than playing standard beats over the composition.
@@ -3240,7 +3240,7 @@ Cunningham's technique centers on unconventional snare and accent placement comb
 
 ### Gear Setup
 
-- Drums: Tama Tama Starclassic Maple/Bubinga (Maple/Bubinga hybrid shells)
+- Drums: Tama Tama Starclassic Bubinga (Bubinga shells)
 - Snare: Tama Tama Starclassic (matching shell pack; no separate model documented)
 - Cymbals: Zildjian Zildjian A Custom / K Custom Hybrid
 - Pedals: Tama Tama Iron Cobra Power Glide Twin Pedal (HP900PTW)
@@ -3251,7 +3251,7 @@ Cunningham's technique centers on unconventional snare and accent placement comb
 A: Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across ten studio albums, from "Adrenaline" (1995) through "Private Music" (2025). His dynamic, restraint-focused approach — prioritizing taste and emotional arc over technical showmanship — helped define alternative metal's atmospheric identity. "Elite" from White Pony won a Grammy for Best Metal Performance in 2001.
 
 **Q: What gear should I use to sound like Abe Cunningham?**
-A: Cunningham plays a Tama Starclassic Maple/Bubinga kit with a matching Tama Starclassic snare (no separate model documented), a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra Power Glide Twin Pedal, and Zildjian Abe Cunningham Artist Series signature sticks. A budget setup can approximate this with any warm-sounding kit, a deep steel or maple snare, and a mix of bright and dark cymbals.
+A: Cunningham plays a Tama Starclassic Bubinga kit with a matching Tama Starclassic snare (no separate model documented), a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra Power Glide Twin Pedal, and Zildjian Abe Cunningham Artist Series signature sticks. A budget setup can approximate this with any warm-sounding kit, a deep steel or maple snare, and a mix of bright and dark cymbals.
 
 **Q: What tempo should I practice at to sound like Abe Cunningham?**
 A: Practice in the 60-120 BPM range that covers most of Deftones' catalog, from ambient, texture-focused passages around 60-90 BPM up to driving grooves near 120 BPM. The key isn't raw speed — it's building the dynamic control to move between whisper-quiet and full-weight intensity within a single song.

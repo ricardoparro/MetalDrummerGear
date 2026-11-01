@@ -54,7 +54,7 @@ Jan Axel Blomberg, known as Hellhammer, born in 1969, is a Norwegian drummer bes
 ## FAQ
 
 **Q: Who has the more expensive drum kit, Inferno or Hellhammer?**  
-A: Inferno's Pearl Reference Series + Paiste RUDE is estimated at $14,000–$20,000, while Hellhammer's Sonor SQ2 Heavy Beech + Paiste RUDE runs approximately $12,000–$18,000. Both setups are professional-grade rigs well into five-figure territory when fully configured with all cymbals, hardware, and electronics.
+A: Inferno's Pearl Reference Series + Paiste RUDE is estimated at $14,000–$20,000, while Hellhammer's Sonor SQ2 Heavy Beech + Paiste RUDE runs approximately $12,000–$18,000. See the full battle for the documented setups.
 
 **Q: What are the main gear differences between Inferno and Hellhammer?**  
 A: Inferno plays Pearl Reference Series paired with Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China). Hellhammer opts for Sonor SQ2 Heavy Beech with Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/inferno-vs-hellhammer](https://metalforge.io/battles/inferno-vs-hellhammer).
@@ -76,4 +76,4 @@ A: Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Cras
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

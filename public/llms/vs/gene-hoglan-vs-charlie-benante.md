@@ -47,7 +47,7 @@ Gene Hoglan earned "Atomic Clock" for unmatched precision. Charlie Benante broug
 ## FAQ
 
 **Q: What are the main differences between Gene Hoglan's and Charlie Benante's drum kits?**
-A: Gene Hoglan plays Pearl Reference Pure with Sabian cymbals, while Charlie Benante uses Tama Starclassic with Paiste cymbals. Gene endorses Pearl drums for power and projection. Charlie plays Tama with emphasis on attack and cut.
+A: Gene Hoglan — Drums: Pearl Reference Pure. Cymbals: Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). Charlie Benante — Drums: Tama Starclassic. Cymbals: Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China). Gene endorses Pearl drums for power and projection. Charlie plays Tama with emphasis on attack and cut.
 
 **Q: What drums does Gene Hoglan play vs Charlie Benante?**
 A: Gene Hoglan plays Pearl Reference Pure. Charlie Benante plays Tama Starclassic.
@@ -67,4 +67,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

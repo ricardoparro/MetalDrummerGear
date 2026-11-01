@@ -2,7 +2,7 @@
 
 This page indexes every verified snare catalogued in MetalForge's snares database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-10-30 · Source: https://metalforge.io
+> Last Updated: 2026-11-01 · Source: https://metalforge.io
 
 For shell material, size, and tuning reference pages see the Reference Guides section below. For a buying guide anchored on the verified signature snares see [https://metalforge.io/snares/best-for-metal](https://metalforge.io/snares/best-for-metal).
 
@@ -90,7 +90,7 @@ A: 14x6.5" is the most common "workhorse" size across the verified metal roster,
 - Scott Travis — [ddrum Scott Travis Signature 14x6.5"](https://metalforge.io/drummer/scott-travis)
 - Mikkey Dee — [Sonor Mikkey Dee Signature 14x7.25" Birch](https://metalforge.io/drummer/mikkey-dee)
 - Derek Roddy — [Tama SLP Black Brass 14x6.5"](https://metalforge.io/drummer/derek-roddy)
-- Dirk Verbeuren — [Tama S.L.P. Big Black Steel 14x6.5"](https://metalforge.io/drummer/dirk-verbeuren)
+- Dirk Verbeuren — [Tama S.L.P. Dynamic Bronze 14x5.5"](https://metalforge.io/drummer/dirk-verbeuren)
 - Frost — [Tama Starclassic Bubinga 14x5.5"](https://metalforge.io/drummer/frost)
 - Gavin Harrison — [Sonor Gavin Harrison Signature 12x5" & 14x5.25"](https://metalforge.io/drummer/gavin-harrison)
 - Abe Cunningham — [Tama Starclassic Maple/Bubinga 14x6.5"](https://metalforge.io/drummer/abe-cunningham)

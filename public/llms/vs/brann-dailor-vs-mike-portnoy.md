@@ -22,7 +22,7 @@ Mastodon's Brann Dailor vs Dream Theater's Mike Portnoy. Two iconic American pro
 - **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14x5.5"
 - **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
-- **Sticks:** Promark Mike Portnoy Signature TX420N
+- **Sticks:** Promark Mike Portnoy Signature TXMP420XW-AG
 
 ## Playing Style
 
@@ -47,7 +47,7 @@ Brann Dailor represents the organic, melody-driven approach to progressive metal
 ## FAQ
 
 **Q: What are the main differences between Brann Dailor's and Mike Portnoy's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Mike Portnoy uses Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian cymbals. Brann plays Tama Starclassic Performer B/B with Meinl Byzance Series cymbals and Vater 5B sticks. Mike uses Tama Starclassic Maple/Birch with Sabian HHX cymbals on his iconic multi-bass-drum signature setup.
+A: Brann Dailor — Drums: Tama Starclassic Performer B/B. Cymbals: Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Mike Portnoy — Drums: Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Cymbals: Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes). Brann plays Tama Starclassic Performer B/B with Meinl Byzance Series cymbals and Vater 5B sticks. Mike uses Tama Starclassic Maple/Birch with Sabian HHX cymbals on his iconic multi-bass-drum signature setup.
 
 **Q: What drums does Brann Dailor play vs Mike Portnoy?**
 A: Brann Dailor plays Tama Starclassic Performer B/B. Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit).
@@ -67,4 +67,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

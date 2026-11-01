@@ -1,5 +1,5 @@
 # MetalForge — Master FAQ
-> Last Updated: 2026-10-30 · Source: https://metalforge.io
+> Last Updated: 2026-11-01 · Source: https://metalforge.io
 
 Answer-first FAQ for the gear and techniques of the world's legendary metal drummers. Every answer links to a deeper source page on MetalForge.
 
@@ -378,7 +378,7 @@ A: Yes, Dave co-founded Slayer in 1981 with Kerry King, Jeff Hanneman, and Tom A
 
 **Q: What drum kit did Dave Lombardo use?**
 
-A: Dave Lombardo's drum kit is built on Tama Starclassic Walnut/Birch shells, anchored by a Tama S.L.P. 14"x6.5" G-Maple snare drum. The kit carries Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats and the signature Paiste Reign Power Ride, powered by a Tama Iron Cobra 900 double pedal. He started on a Tama Imperialstar kit, evolving through Artstar to Starclassic over his career.
+A: Dave Lombardo's drum kit is built on Tama Starclassic Walnut/Birch shells, anchored by a Tama S.L.P. 14"x6.5" G-Maple snare drum. The kit carries Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats and the signature Paiste Reign Power Ride, powered by a Tama Iron Cobra 900 double pedal. He started on a Pearl Maxwin kit, evolving through Tama Artstar to Starclassic over his career.
 
 **Q: What drum set did Dave Lombardo use?**
 
@@ -562,7 +562,7 @@ A: Mike Portnoy uses Sabian HHX MAX and AAX MAXX series cymbals, per Sabian's cu
 
 **Q: What snare drum does Mike Portnoy use?**
 
-A: Mike Portnoy plays his signature Tama Mike Portnoy Melody Master snare drum, a 14"x5.5" shell designed for his Dream Theater and side-project work, played with Promark Mike Portnoy Signature TX420N sticks.
+A: Mike Portnoy plays his signature Tama Mike Portnoy Melody Master snare drum, a 14"x5.5" shell designed for his Dream Theater and side-project work, played with Promark Mike Portnoy Signature TXMP420XW-AG sticks.
 
 ### Danny Carey
 
@@ -828,7 +828,7 @@ A: Raymond Herrera's drum set centers on a Tama 14"x6.5" Brass snare delivering 
 
 **Q: What cymbals does Raymond Herrera play?**
 
-A: Raymond Herrera plays Zildjian A Custom and Z Custom Series cymbals: 14" A Custom Hi-Hats, 18" and 19" A Custom Crashes, a 21" Z Custom Mega Bell Ride, and an 18" A Custom China.
+A: Raymond Herrera plays Zildjian Z Custom Series cymbals, the brand's bright, machine-hammered line suited to Fear Factory's processed industrial sound.
 
 **Q: What snare does Raymond Herrera use?**
 
@@ -908,15 +908,15 @@ A: Igor Cavalera's current drum kit is a Yamaha Absolute Hybrid Maple shell pack
 
 **Q: What drum set does Igor Cavalera play?**
 
-A: Igor Cavalera's current drum set is a Yamaha Absolute Hybrid Maple kit paired with Zildjian cymbals and a Tama Iron Cobra double pedal. From 2007-2018 he played Tama Starclassic Maple shells and his S.L.P. 14"x6.5" G-Maple snare with Paiste RUDE and 2002 Series cymbals.
+A: Igor Cavalera's current drum set is a Yamaha Absolute Hybrid Maple kit paired with Zildjian cymbals and a Tama Iron Cobra double pedal. From 2007-2018 he played Tama Starclassic Maple shells and his S.L.P. 14"x6.5" G-Maple snare with Zildjian A Custom Series cymbals.
 
 **Q: What cymbals does Igor Cavalera use?**
 
-A: Igor Cavalera is a current Zildjian artist. From 2007-2018 he used Paiste RUDE and 2002 Series cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China.
+A: Igor Cavalera is a current Zildjian artist. From 2006-2018 he used Zildjian A Custom Series cymbals.
 
 **Q: What hi-hats does Igor Cavalera use?**
 
-A: Igor Cavalera currently plays 14" Zildjian hi-hats. From 2007-2018 he played 14" Paiste RUDE Hi-Hats, delivering the harsh, cutting articulation that drives Sepultura's tribal groove metal rhythms.
+A: Igor Cavalera currently plays 14" Zildjian hi-hats. From 2006-2018 he played 14" Zildjian A Custom Series Hi-Hats, delivering the harsh, cutting articulation that drives Sepultura's tribal groove metal rhythms.
 
 **Q: What snare drum does Igor Cavalera use?**
 
@@ -2000,7 +2000,7 @@ A: Chris Adler was born on November 23, 1972, in Washington, D.C., and turns 54 
 
 **Q: What drum kit does Chris Adler use?**
 
-A: Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered Lamb of God's rise to one of the most successful American metal bands of the 21st century. Its dry, focused tone anchors his groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath.
+A: Chris Adler plays a Mapex Saturn in Satin Black Maple Burl drum kit — the configuration that powered Lamb of God's rise to one of the most successful American metal bands of the 21st century. Its dry, focused tone anchors his groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath.
 
 **Q: What drum set does Chris Adler use?**
 

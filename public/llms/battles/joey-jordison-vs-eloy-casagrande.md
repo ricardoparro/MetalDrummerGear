@@ -54,7 +54,7 @@ Eloy Casagrande, born in 1991, is a Brazilian drummer who became Sepultura's dru
 ## FAQ
 
 **Q: Who has the more expensive drum kit, Joey Jordison or Eloy Casagrande?**  
-A: Joey Jordison's Pearl Reference Series + Paiste RUDE & 2002 is estimated at $9,000–$14,000, while Eloy Casagrande's Tama Starclassic Bubinga + Paiste Masters/RUDE runs approximately $12,000–$18,000. Both setups are professional-grade rigs well into five-figure territory when fully configured with all cymbals, hardware, and electronics.
+A: Joey Jordison's Pearl Reference Series + Paiste RUDE & 2002 is estimated at $9,000–$14,000, while Eloy Casagrande's Tama Starclassic Bubinga + Paiste Masters/RUDE runs approximately $12,000–$18,000. See the full battle for the documented setups.
 
 **Q: What are the main gear differences between Joey Jordison and Eloy Casagrande?**  
 A: Joey Jordison plays Pearl Reference Series paired with Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride). Eloy Casagrande opts for Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/joey-jordison-vs-eloy-casagrande](https://metalforge.io/battles/joey-jordison-vs-eloy-casagrande).
@@ -76,4 +76,4 @@ A: Joey Jordison uses Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18"
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

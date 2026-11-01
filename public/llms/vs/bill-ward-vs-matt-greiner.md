@@ -50,7 +50,7 @@ Bill Ward and Matt Greiner represent two foundational, cross-era pillars of meta
 A: Bill Ward co-founded Black Sabbath in 1968 and helped invent heavy metal drumming's jazz-influenced, swinging groove on foundational records like "Paranoid" (1970). Matt Greiner co-founded August Burns Red in 2003 and brings jazz-informed dynamics and technical precision to Grammy-nominated metalcore. Ward founded the genre's rhythmic vocabulary; Greiner represents its jazz-rooted modern technical evolution.
 
 **Q: What gear do Bill Ward and Matt Greiner use?**
-A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal.
+A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal.
 
 **Q: What bands are Bill Ward and Matt Greiner known for?**
 A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012. Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer.
@@ -67,4 +67,4 @@ A: Matt Greiner and August Burns Red have not won a Grammy, but the band receive
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

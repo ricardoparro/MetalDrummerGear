@@ -5,6 +5,45 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-01 00:23 UTC*
 
 ---
+## 2026-11-01 12:13 (daily deep run — 8/8 proposals verified+promoted #10058-10065)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 12:10 UTC (459u/515s/728v 7d; GSC 18,269 impr/292 clicks/1.60% CTR/pos 9.0, zero content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs (#10031/#10033-10038 from the 06:12 run merged clean), 8 fresh untriaged `seo-proposal` (#10058-10065, filed 07:22 UTC), continuing the cross-file gear-fact-drift sweep (Gene Hoglan, Daniel Erlandsson, Daray, Aquiles Priester, Jaska Raatikainen, Eloy Casagrande, Lars Ulrich, api/drummers/index.js band-field desync).
+
+### Actions taken
+- **Live-verified all 8 directly** (grepped cited lines against `bands.js`/`extendedBios.js`/`drummerEvolution.js`/`snares.js`/`pedals.js`/`api/drummers/index.js` ground truth, zero dupes via `gh issue search`):
+  - #10058 Gene Hoglan: confirmed line 1638 contradicts the file's own correct birthdate (line 38, matches `extendedBios.js:301`) and misattributes Death's Human (1991); `bands.js:1292-1317` confirms Low (1994)/Tempesta and The Gathering (1999)/Lombardo, not Hoglan — also wrong in `licks/gene-hoglan.js:477/485`. VERIFIED-CLEAN.
+  - #10059 Daniel Erlandsson: confirmed line 199 credits him with Stigmata (1998); `bands.js:2311` confirms Peter Wildoer is the credited drummer during Erlandsson's absence. `grep -c "2002"` = 41 confirmed, vs. the file's own correct "2001–2007"/"Wages of Sin (2001)" gearTimeline (lines 212-215). VERIFIED-CLEAN.
+  - #10060 Daray: confirmed lines 45/47/150 state Vader tenure "2006–2016" + wrong album credits; `bands.js:1999-2011` confirms verified 2004-2008 (The Beast/Impressions in Blood). VERIFIED-CLEAN.
+  - #10061 Aquiles Priester: confirmed fabricated 2023 Angra "return" + Aqua (2010) credit (lines 35/38/203/238); `bands.js:2244-2255` confirms single 2001-2008 tenure, Aqua (2010) credited to Confessori's second stint — no 2023 return exists anywhere in ground truth. VERIFIED-CLEAN, largest fabrication of the batch.
+  - #10062 Jaska Raatikainen: confirmed "DW 5000" fabrication; `drummerEvolution.js:12556` + the file's own other era entries (189/205/221) confirm Pearl Eliminator throughout. VERIFIED-CLEAN.
+  - #10063 Eloy Casagrande: confirmed 19 "Sonic Steel" + 21 "Speed Cobra" occurrences via grep -c; `snares.js:123-126`/`pedals.js:113-117` confirm Bell Brass BB146/Iron Cobra — same fabrication class as closed #8954/#9954, this dedicated article file never swept. VERIFIED-CLEAN.
+  - #10064 Lars Ulrich: confirmed Black Album section states Tama Artist Maple/prototype snare/Zildjian A Series; `drummerEvolution.js:198-212` confirms Tama Granstar Custom/Bell Brass 14x6.5/Zildjian Z Custom for this era. VERIFIED-CLEAN.
+  - #10065 api/drummers/index.js: confirmed line 838 flat `band:'Suicidal Tendencies'` for Jay Weinberg (id 10) stale vs. `bands.js:1060` (Xavier Ware since Jan 2026); id 70 Alex Rüdinger flat field still 'The Faceless' despite his own `bands` array already showing Trivium current; `nameGeneratorData.js:566` Chris Adler entry confirmed stale vs. `api/drummers/index.js:1330-1333`'s correct Firstborne-current record. VERIFIED-CLEAN.
+  - All 8 promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: zero rows this week (metrics.md). **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-10-26 (gsc-watch, llm-citations umbrella #2211, indexation); next weekly refresh due ~2026-11-02 (tomorrow), not due this run.
+- **Starvation check**: post-triage backlog 0→8 (<15) and bank 8→0 (≤2) trips the trigger shape but matches the recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent cadence steady, ~6h intervals). Not escalated.
+- **Atomic-split sweep**: all 8 open non-hold `ai-fix` issues are <1hr old (just promoted); the 2 held items (#7981, #10032) remain correctly parked pending founder/primary-source re-verification. Nothing eligible.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10058-10065 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10032, umbrellas #2211/#3810/#3819): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: not due until ~11-02, refresh expected next run/tomorrow. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10058-10065 pick up via Roadie; #10061 (Aquiles Priester) is the one to confirm Roadie also re-verifies the flagged W.A.S.P. tenure dates, not just the cited Angra/Aqua fixes.
+2. L1/L2/L3 weekly refresh due ~2026-11-02 — next full close-the-loop pass then (check gsc-watch/llm-citations/indexation snapshots for a new `Generated:` date).
+3. #7981 (Derek Roddy) and #10032 (Flo Mounier brand) both held pending founder/primary-source verification. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
+
 ## 2026-11-01 06:12 (cheap pulse, pre-deep-run — 7/8 proposals promoted, 1 held #10031-10038)
 
 ### Context (≤3 lines)

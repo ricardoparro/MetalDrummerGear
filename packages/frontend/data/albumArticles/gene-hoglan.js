@@ -161,8 +161,8 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Promark",
-          "model": "Promark 5B",
-          "notes": "Standard 5B for balance between weight and speed"
+          "model": "ProMark Classic Forward 2B",
+          "notes": "Settled on this model since 2018 for balance of weight and speed across his touring schedule"
         }
       ],
       "heads": {
@@ -342,7 +342,7 @@ export const articles = {
           "notes": "Direct drive for precision"
         },
         {
-          "item": "Promark 5B Sticks",
+          "item": "ProMark Classic Forward 2B Sticks",
           "available": true,
           "priceRange": "$10-15",
           "notes": "Standard choice for balance"
@@ -650,7 +650,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Symbolic to Testament: The Atomic Clock's Journey",
-      "content": "\"Symbolic\" cemented Gene Hoglan's reputation as the greatest technical drummer in death metal. His subsequent career would see him bringing that precision to countless other projects while continuing to evolve.\n\n**Immediate Impact:**\n\"Symbolic\" influenced virtually every progressive and technical death metal drummer who followed. The album proved that extreme music could have musicality, that blast beats and jazz could coexist, and that technique should serve emotion.\n\n**Post-Death Career:**\nAfter \"Symbolic,\" Gene returned to Strapping Young Lad with Devin Townsend, applying his precision to industrial metal madness. \"City\" (1997) and \"Alien\" (2005) showcased different facets of his playing while maintaining the consistency that earned him \"The Atomic Clock\" nickname.\n\n**Testament Era:**\nIn 2007, Gene joined Testament, becoming their definitive modern drummer. Albums like \"The Formation of Damnation\" (2008) and \"Titans of Creation\" (2020) brought his \"Symbolic\"-era precision to thrash metal, creating some of the genre's heaviest modern recordings.\n\n**Gear Evolution:**\nGene transitioned from Tama to Pearl drums in the 2000s, eventually settling on Pearl Reference Pure. His cymbal choices shifted to Sabian AAX series. But his fundamental approach — precision, power, musicality — remained unchanged.\n\n**Modern Setup:**\nToday, Gene plays:\n- Pearl Reference Pure drums\n- Pearl Reference 14\"x6.5\" Brass snare\n- Sabian AAX cymbals (15\" Hi-Hats, 20\" crashes, 22\" Ride)\n- Pearl Demon Drive double pedal\n- Promark 5B drumsticks\n\n**Legacy:**\n\"Symbolic\" remains the standard for technical death metal drumming. When drummers ask how to combine speed with musicality, power with finesse, complexity with groove — the answer is to study Gene Hoglan on \"Symbolic.\"",
+      "content": "\"Symbolic\" cemented Gene Hoglan's reputation as the greatest technical drummer in death metal. His subsequent career would see him bringing that precision to countless other projects while continuing to evolve.\n\n**Immediate Impact:**\n\"Symbolic\" influenced virtually every progressive and technical death metal drummer who followed. The album proved that extreme music could have musicality, that blast beats and jazz could coexist, and that technique should serve emotion.\n\n**Post-Death Career:**\nAfter \"Symbolic,\" Gene returned to Strapping Young Lad with Devin Townsend, applying his precision to industrial metal madness. \"City\" (1997) and \"Alien\" (2005) showcased different facets of his playing while maintaining the consistency that earned him \"The Atomic Clock\" nickname.\n\n**Testament Era:**\nIn 2007, Gene joined Testament, becoming their definitive modern drummer. Albums like \"The Formation of Damnation\" (2008) and \"Titans of Creation\" (2020) brought his \"Symbolic\"-era precision to thrash metal, creating some of the genre's heaviest modern recordings.\n\n**Gear Evolution:**\nGene transitioned from Tama to Pearl drums in the 2000s, eventually settling on Pearl Reference Pure. His cymbal choices shifted to Sabian AAX series. But his fundamental approach — precision, power, musicality — remained unchanged.\n\n**Modern Setup:**\nToday, Gene plays:\n- Pearl Reference Pure drums\n- Pearl Reference 14\"x6.5\" Brass snare\n- Sabian AAX cymbals (15\" Hi-Hats, 20\" crashes, 22\" Ride)\n- Pearl Demon Drive double pedal\n- ProMark Classic Forward 2B drumsticks\n\n**Legacy:**\n\"Symbolic\" remains the standard for technical death metal drumming. When drummers ask how to combine speed with musicality, power with finesse, complexity with groove — the answer is to study Gene Hoglan on \"Symbolic.\"",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -670,7 +670,7 @@ export const articles = {
         {
           "category": "Sticks",
           "then": "Pro-Mark 5B Wood",
-          "now": "Promark 5B"
+          "now": "ProMark Classic Forward 2B"
         },
         {
           "category": "Pedals",
@@ -1259,7 +1259,7 @@ export const articles = {
         {
           "category": "Sticks",
           "then": "Pro-Mark 5B Wood",
-          "now": "Promark 5B"
+          "now": "ProMark Classic Forward 2B"
         }
       ]
     },
@@ -2181,7 +2181,7 @@ export const articles = {
         {
           "category": "Sticks",
           "then": "Pro-Mark 5B Wood",
-          "now": "Promark 5B"
+          "now": "ProMark Classic Forward 2B"
         }
       ]
     },

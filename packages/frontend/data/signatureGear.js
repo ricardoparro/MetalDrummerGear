@@ -1108,7 +1108,7 @@ Pearl's Reference Pure remains the flagship of their acoustic drum line. It is c
     slug: 'dave-lombardo-promark-2bx-signature',
     name: 'Promark Dave Lombardo Signature 2Bx',
     fullName: 'Promark Dave Lombardo Signature 2Bx Drumsticks',
-    model: 'Promark TX2BXW',
+    model: 'Promark TX2BXN',
     drummerId: 4,
     drummerName: 'Dave Lombardo',
     drummerSlug: 'dave-lombardo',
@@ -1127,7 +1127,7 @@ Pearl's Reference Pure remains the flagship of their acoustic drum line. It is c
       title: 'Built to Outlast the Fastest Feet in Thrash',
       content: `Dave Lombardo's stick choice has always tracked the physical demands of the music he was playing. His gear timeline tells the story plainly: an undocumented stick brand during Slayer's earliest club years (1981-1986), a switch to Pro-Mark 747 oak sticks once "Reign in Blood" (1986) pushed tempos past 220 BPM, and finally his own Promark Dave Lombardo Signature 2Bx, which arrived alongside his move to Tama and Paiste for Slayer's 2001-2013 reunion era and has carried into his post-Slayer work with Dead Cross, Mr. Bungle, and Suicidal Tendencies.
 
-"Speed is nothing without control. You have to be able to play fast and tight at the same time," Lombardo said in a 2006 Modern Drummer Magazine interview — a line that doubles as the design brief for his signature stick. A 2B-weight stick gives a drummer more mass to work with than a standard 5A or 5B, which means more rebound and more volume per stroke without extra effort. That matters enormously at the tempos Lombardo helped invent: when a snare hit has to land cleanly at sixteenth notes above 200 BPM for an entire set, a thinner stick's tip simply wears out faster, and a lighter stick forces the player to work harder to get the same volume. The 2Bx spec — a heavier oval tip and an extra-long taper relative to a stock 2B — was built specifically to survive that kind of night-after-night abuse while still allowing the fast, precise rebound his technique depends on.
+"Speed is nothing without control. You have to be able to play fast and tight at the same time," Lombardo said in a 2006 Modern Drummer Magazine interview — a line that doubles as the design brief for his signature stick. A 2B-weight stick gives a drummer more mass to work with than a standard 5A or 5B, which means more rebound and more volume per stroke without extra effort. That matters enormously at the tempos Lombardo helped invent: when a snare hit has to land cleanly at sixteenth notes above 200 BPM for an entire set, a thinner stick's tip simply wears out faster, and a lighter stick forces the player to work harder to get the same volume. The 2Bx spec — a heavier oval nylon tip and a short taper relative to a stock 2B — was built specifically to survive that kind of night-after-night abuse while still allowing the fast, precise rebound his technique depends on.
 
 That technique was never just brute force. Lombardo has been open about the roots of his playing predating Slayer entirely. "I never wanted to be a typical metal drummer. I wanted to bring jazz, Latin, and world music into heavy music," he told Drumeo in a 2019 interview. The oval tip on the 2Bx is part of what makes that possible on a stick this heavy — it keeps the attack focused and articulate rather than clubby, so the same stick that survives a two-hour thrash set can also handle the syncopated, Latin-inflected phrasing he brings to Fantômas, Mr. Bungle, and Dead Cross.
 
@@ -1142,10 +1142,10 @@ Nearly four decades after "Reign in Blood," the Promark Dave Lombardo Signature 
     specs: {
       title: 'Technical Specifications',
       dimensions: {
-        length: '16.25"',
+        length: '16.125"',
         diameter: '.630"',
-        tip: 'Oval Wood Tip',
-        taper: 'Extra-Long Taper',
+        tip: 'Oval Nylon Tip',
+        taper: 'Short Taper',
       },
       features: [
         {
@@ -1160,18 +1160,18 @@ Nearly four decades after "Reign in Blood," the Promark Dave Lombardo Signature 
         },
         {
           name: 'Length',
-          value: '16.25 inches',
-          description: 'Slightly longer than standard for extra reach and leverage',
+          value: '16.125 inches',
+          description: 'In line with standard 2B length for familiar reach and leverage',
         },
         {
           name: 'Tip Shape',
-          value: 'Oval Wood',
-          description: 'Focused, articulate attack that keeps a heavy stick from sounding clubby',
+          value: 'Oval Nylon',
+          description: 'Durable nylon tip that holds a consistent, focused attack through extreme-tempo sets without wearing down like wood',
         },
         {
           name: 'Taper',
-          value: 'Extra-Long',
-          description: 'Longer taper shifts the balance point for faster rebound despite the added mass',
+          value: 'Short',
+          description: 'Short taper keeps the balance point close to the tip for quick, controlled rebound despite the added mass',
         },
         {
           name: 'Material',
@@ -1182,7 +1182,7 @@ Nearly four decades after "Reign in Blood," the Promark Dave Lombardo Signature 
       tuningTips: [
         'The extra weight rewards a relaxed fulcrum grip — fighting the stick\'s mass will tire your hands faster than letting it do the work',
         'The oval tip favors a slightly more matched grip angle for consistent attack on both hands',
-        'Rotate sticks regularly during long sets — the extra-long taper wears unevenly if always struck at the same contact point',
+        'Rotate sticks regularly during long sets — the nylon tip wears unevenly if always struck at the same contact point',
         'For blast-beat practice at speed, let the stick\'s rebound do more of the work rather than pressing into the head',
       ],
     },
@@ -1228,7 +1228,7 @@ Nearly four decades after "Reign in Blood," the Promark Dave Lombardo Signature 
         {
           name: 'Promark Classic Forward 2B',
           price: '$9-13',
-          reason: 'Same weight class without the signature\'s extra-long taper — more affordable',
+          reason: 'Same weight class without the signature\'s thicker .630" diameter — more affordable',
         },
         {
           name: 'Vic Firth American Classic Extreme 5B',
@@ -1313,7 +1313,7 @@ Nearly four decades after "Reign in Blood," the Promark Dave Lombardo Signature 
     faq: [
       {
         question: 'What is the difference between the Promark 2Bx and a standard 2B stick?',
-        answer: 'The 2Bx is Dave Lombardo\'s signature spec: a thicker .630" diameter shaft, an extra-long taper, and an oval wood tip, all built to survive extreme-tempo thrash playing without sacrificing rebound. A stock 2B is close in weight but uses a standard taper, which shifts the balance point and gives a slightly different feel under fast, sustained playing.',
+        answer: 'The 2Bx is Dave Lombardo\'s signature spec: a thicker .630" diameter shaft, a short taper, and an oval nylon tip, all built to survive extreme-tempo thrash playing without sacrificing rebound. A stock 2B is close in weight but uses a standard taper, which shifts the balance point and gives a slightly different feel under fast, sustained playing.',
       },
       {
         question: 'Why does Dave Lombardo use a heavier drumstick?',
@@ -1345,7 +1345,7 @@ Nearly four decades after "Reign in Blood," the Promark Dave Lombardo Signature 
         'slayer drumsticks',
         'dave lombardo drum gear',
         'thrash metal drumsticks',
-        'promark tx2bxw',
+        'promark tx2bxn',
         'heavy drumsticks for metal',
       ],
       ogImage: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
@@ -1354,7 +1354,7 @@ Nearly four decades after "Reign in Blood," the Promark Dave Lombardo Signature 
     schema: {
       type: 'Product',
       brand: 'Promark',
-      model: 'Dave Lombardo Signature 2Bx (TX2BXW)',
+      model: 'Dave Lombardo Signature 2Bx (TX2BXN)',
       category: 'Musical Instruments > Drums > Drumsticks',
     },
 

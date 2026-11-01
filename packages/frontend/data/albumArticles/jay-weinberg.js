@@ -172,7 +172,7 @@ export const articles = {
     "gearTimeline": [
       {
         "era": ".5: The Gray Chapter Era",
-        "years": "2013–2014",
+        "years": "2014",
         "albums": [
           ".5: The Gray Chapter (2014)"
         ],
@@ -333,7 +333,7 @@ export const articles = {
       "title": "Jay Weinberg's Slipknot Debut: Filling the Most Scrutinised Drum Seat in Metal",
       "content": "When Slipknot announced Jay Weinberg as their new drummer in early 2014 — replacing the departing Joey Jordison — the metal world held its breath. Weinberg was 22 years old, the son of Max Weinberg (Bruce Springsteen's E Street Band drummer), and had spent years cutting his teeth in hardcore and punk circuits with Against Me!, Madball, and other touring outfits. The task ahead of him was enormous: learn 15 years of Slipknot's catalog, master the extreme double-kick demands of Jordison's parts, and record a new studio album under maximum scrutiny.\n\nThe result was *.5: The Gray Chapter*, released October 17, 2014 on Roadrunner Records. Produced by Greg Fidelman at Shangri-La Studios in Malibu, the album debuted at #1 in the UK and at #5 on the US Billboard 200 — making it Slipknot's highest-charting album in the United States at the time. For a band recording without their founding drummer for the first time, it was a remarkable commercial and artistic statement.\n\nWeinberg's debut on record is assured, precise, and relentlessly physical. Tracks like \"The Devil in I,\" \"Custer,\" and \"Killpop\" demonstrate his ability to serve Slipknot's arrangements — groove-locked verses, explosive choruses, and the kind of full-kit dynamics the band demands — while establishing his own muscular voice behind the kit.\n\nThis article breaks down the drum gear Jay Weinberg used on *.5: The Gray Chapter*: his SJC Custom Drums kit — an endorsement he'd held since 2009, five years before joining Slipknot — Zildjian A series cymbals, DW 9000 double bass pedal, Evans heads, and Vater sticks — the setup that introduced him to Slipknot's global audience and defined the first chapter of his nine-year tenure with the band. For his full career gear overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).",
       "keyPoints": [
-        "Jay Weinberg joined Slipknot in 2013, replacing Joey Jordison at age 22",
+        "Jay Weinberg joined Slipknot in 2014, replacing Joey Jordison at age 22",
         "Recorded at Shangri-La Studios, Malibu with producer Greg Fidelman",
         "Album debuted #1 UK, #5 US — Slipknot's highest US chart position at the time",
         "SJC Custom Drums kit — an endorsement Weinberg had held since 2009, five years before joining Slipknot",
@@ -537,7 +537,7 @@ export const articles = {
       },
       {
         "question": "When did Jay Weinberg join Slipknot?",
-        "answer": "Jay Weinberg joined Slipknot in 2013, replacing founding drummer Joey Jordison. His appointment was kept secret for months; the band recorded .5: The Gray Chapter at Shangri-La Studios in Malibu with Weinberg behind the kit before publicly announcing him as the new drummer. The Gray Chapter was released in October 2014 and was Jay's studio debut with the band. He remained Slipknot's drummer until November 2023."
+        "answer": "Jay Weinberg joined Slipknot in 2014, replacing founding drummer Joey Jordison. His appointment was kept secret for months; the band recorded .5: The Gray Chapter at Shangri-La Studios in Malibu with Weinberg behind the kit before publicly announcing him as the new drummer. The Gray Chapter was released in October 2014 and was Jay's studio debut with the band. He remained Slipknot's drummer until November 2023."
       },
       {
         "question": "What cymbals does Jay Weinberg use on The Gray Chapter?",

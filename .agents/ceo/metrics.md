@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-10-31 19:07 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-01 00:23 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,67 +8,67 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 441 |
-| Sessions | 503 |
-| Page views | 710 |
-| Engagement rate | 63.02% |
-| Avg session (s) | 111 |
+| Active users | 407 |
+| Sessions | 463 |
+| Page views | 665 |
+| Engagement rate | 62.85% |
+| Avg session (s) | 112 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummer/frost | 17 | 6 |
 | /drummer/mario-duplantier | 17 | 8 |
+| /drummer/frost | 16 | 6 |
 | / | 15 | 10 |
 | /drummers | 15 | 7 |
-| /articles/slipknot-self-titled-drum-setup | 10 | 8 |
-| /drummer/joey-jordison | 10 | 6 |
+| /articles/slipknot-self-titled-drum-setup | 11 | 9 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
 | /drummer/jay-weinberg | 9 | 7 |
+| /drummer/joey-jordison | 9 | 5 |
 | /drummer/matt-greiner | 8 | 6 |
 | /drummer/hellhammer | 7 | 3 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 419 | 355 |
-| Direct | 84 | 84 |
-| Unassigned | 8 | 7 |
+| Organic Search | 387 | 330 |
+| Direct | 75 | 75 |
+| Unassigned | 10 | 8 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 164 | 146 |
-| Singapore | 39 | 39 |
-| United Kingdom | 39 | 21 |
-| Germany | 20 | 18 |
-| Canada | 18 | 18 |
-| Australia | 16 | 12 |
-| China | 15 | 15 |
-| France | 15 | 13 |
+| United States | 156 | 141 |
+| United Kingdom | 37 | 20 |
+| Singapore | 31 | 31 |
+| Germany | 19 | 17 |
+| Australia | 17 | 13 |
+| Canada | 17 | 17 |
+| China | 14 | 14 |
+| France | 13 | 11 |
 | Brazil | 10 | 10 |
 | Netherlands | 10 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 18,774 |
-| Clicks | 249 |
-| CTR | 1.33% |
+| Impressions | 15,594 |
+| Clicks | 227 |
+| CTR | 1.46% |
 | Avg position | 9.0 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| death metal drum kit | 9 | 5 | 55.56% | 3.2 |
-| joey jordison cymbals | 4 | 3 | 75.00% | 4.8 |
-| mario duplantier drum kit | 29 | 3 | 10.34% | 8.1 |
+| death metal drum kit | 8 | 4 | 50.00% | 3.1 |
+| mario duplantier drum kit | 21 | 3 | 14.29% | 8.5 |
 | gavin harrison cymbal setup | 9 | 2 | 22.22% | 4.2 |
-| joey jordison drum set | 39 | 2 | 5.13% | 10.6 |
+| joey jordison cymbals | 3 | 2 | 66.67% | 5.0 |
+| joey jordison drum set | 34 | 2 | 5.88% | 10.6 |
 | matt greiner drum kit | 3 | 2 | 66.67% | 4.3 |
-| best nu metal drummers | 9 | 1 | 11.11% | 7.2 |
+| best nu metal drummers | 8 | 1 | 12.50% | 7.3 |
 | bill ward drum setup | 7 | 1 | 14.29% | 5.0 |
 | danny carey drum set | 5 | 1 | 20.00% | 10.6 |
 | death metal drummers | 9 | 1 | 11.11% | 5.9 |
@@ -76,19 +76,21 @@
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,228 | 91 | 2.15% | 8.2 |
-| gbr | 935 | 14 | 1.50% | 9.2 |
-| deu | 499 | 13 | 2.61% | 7.5 |
-| can | 729 | 11 | 1.51% | 8.8 |
-| aus | 522 | 9 | 1.72% | 7.8 |
-| fra | 479 | 7 | 1.46% | 8.4 |
-| cze | 99 | 5 | 5.05% | 7.6 |
-| grc | 115 | 5 | 4.35% | 8.2 |
-| idn | 500 | 5 | 1.00% | 8.9 |
-| nld | 214 | 5 | 2.34% | 7.5 |
+| usa | 3,562 | 87 | 2.44% | 8.3 |
+| deu | 411 | 12 | 2.92% | 7.4 |
+| gbr | 759 | 12 | 1.58% | 9.3 |
+| can | 589 | 10 | 1.70% | 8.9 |
+| aus | 434 | 9 | 2.07% | 7.7 |
+| fra | 390 | 6 | 1.54% | 8.1 |
+| cze | 84 | 5 | 5.95% | 7.5 |
+| grc | 98 | 5 | 5.10% | 7.8 |
+| nld | 177 | 5 | 2.82% | 7.4 |
+| pol | 226 | 5 | 2.21% | 7.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-_no significant gaps detected — all queries with traction have decent CTR_
+| Query | Impr | CTR | Pos | Action |
+| --- | --- | --- | --- | --- |
+| matt halpern | 5,793 | 0.02% | 10.8 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

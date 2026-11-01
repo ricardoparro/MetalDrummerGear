@@ -5434,7 +5434,6 @@ Lars Ulrich's iconic cymbal sound is built on Zildjian A Customs and the earlier
           },
           usedBy: [
             { name: "Lars Ulrich", band: "Metallica", note: "A Custom and A series throughout career" },
-            { name: "Dave Lombardo", band: "Slayer", note: "Classic thrash cymbal aggression" },
             { name: "Charlie Benante", band: "Anthrax", note: "Thrash cymbal standard" }
           ],
           verdict: "The metal cymbal industry standard. Cuts through any mix, reliable quality, used by more pros than any other line.",
@@ -5643,7 +5642,7 @@ Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influentia
 - Bright, cutting shimmer with fast attack
 - Brilliant finish adds visual and sonic presence
 - The most common choice across all metal subgenres
-- Preferred by: Lars Ulrich, Joey Jordison, Dave Lombardo
+- Preferred by: Lars Ulrich, Charlie Benante
 
 **Paiste 2002:**
 - Full-bodied, powerful, slightly dark character

@@ -10784,7 +10784,7 @@ The K's ability to transition from aggressive closed chicks to rich, complex ope
 - Modern bright character at accessible price
 - Good projection for live metal settings
 - Best value-to-performance ratio in the lineup
-- Preferred by: Igor Cavalera, modern metalcore drummers
+- Preferred by: Shannon Larkin, modern metalcore drummers
 
 **Our Take:** Zildjian A Custom wins for most metal applications. Meinl Byzance Traditional for progressive and technical styles. Paiste 2002 Sound Edge for classic aggressive heavy metal.`,
       comparisonTable: [

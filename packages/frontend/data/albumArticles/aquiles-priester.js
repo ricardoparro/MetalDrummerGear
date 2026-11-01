@@ -32,10 +32,10 @@ export const articles = {
     "ogImage": "/images/drummers/aquiles-priester.webp",
     "intro": {
       "title": "Brazil's Double-Bass King",
-      "content": "Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is the engine behind Angra — a band that has carried the Brazilian power metal flag across every major metal festival on the planet for more than two decades. Since joining Angra in 2000, Priester has set the standard for technical double-bass drumming in power metal: blazing kick patterns delivered with mechanical evenness, enormous dynamic range, and the musical intelligence to make extreme technique feel like it belongs to the song rather than on top of it.\n\nHis career spans Angra's most critically celebrated era — the albums Rebirth (2001), Temple of Shadows (2004), Aurora Consurgens (2006), and Aqua (2010) — alongside long-running duties with W.A.S.P. and his own band Hangar. Priester returned to Angra in 2023 for their current album cycle, once again anchoring the band's ferocious live show with the precision and endurance that made him famous.\n\nThe question most drummers want answered is straightforward: what drum kit does Aquiles Priester use? This guide covers every piece of his current touring and recording setup — from his Mapex Saturn Evolution signature shells to the Paiste cymbal array and the DW 9000 double pedal that fuels his legendary kick speed — and explains how each gear choice supports the demanding Brazilian metal approach that defines his playing.",
+      "content": "Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian power metal drumming icon, best known for anchoring Angra through its most celebrated era before going on to join American heavy metal legends W.A.S.P. From 2001 to 2008, Priester set the standard for technical double-bass drumming in power metal with Angra: blazing kick patterns delivered with mechanical evenness, enormous dynamic range, and the musical intelligence to make extreme technique feel like it belongs to the song rather than on top of it.\n\nHis Angra tenure spans the band's most critically celebrated era — the albums Rebirth (2001), Temple of Shadows (2004), and Aurora Consurgens (2006) — after which he departed to focus on his own band, Hangar, before joining W.A.S.P. in 2017, where he remains the drummer today, once again anchoring a legendary band's ferocious live show with the precision and endurance that made him famous.\n\nThe question most drummers want answered is straightforward: what drum kit does Aquiles Priester use? This guide covers every piece of his current touring and recording setup — from his Mapex Saturn Evolution signature shells to the Paiste cymbal array and the DW 9000 double pedal that fuels his legendary kick speed — and explains how each gear choice supports the demanding Brazilian metal approach that defines his playing.",
       "keyPoints": [
         "Born June 25, 1971, in Outjo, Namibia",
-        "Joined Angra in 2000; returned for the 2023 album cycle",
+        "Angra drummer 2001-2008; W.A.S.P. drummer since 2017",
         "Known for sustained double-bass patterns at 180–220+ BPM",
         "Current drums: Mapex Saturn Evolution All Maple (signature kit)",
         "Current cymbals: Paiste (custom red-coated set)",
@@ -125,7 +125,7 @@ export const articles = {
           "notes": "Aggressive accent cymbal for heavy breakdown moments"
         }
       ],
-      "description": "Paiste is a Swiss cymbal manufacturer with a long craft history, and Priester's custom red-coated set is a signature visual and sonic identity for his live show — qualities particularly well-suited to European and South American power metal contexts where large festival stages demand both volume and musical character.\n\nPriester's Paiste setup is configured for the specific demands of Angra's live show. The hi-hats deliver the tight, articulate response needed for the single-stroke and double-stroke hi-hat patterns he plays over blazing double-bass sections — there can be no wash or mud when the kick drums are running at 180+ BPM, or the groove collapses into noise.\n\nThe crash selection gives Priester a dynamic range of crash response, from quick, sharp accents to the big musical statements at chorus peaks and section endings. This graduated approach is standard among technical metal drummers who need precision expression rather than just volume.\n\nThe 18\" Psychoctopus Giga Bell Ride — Priester's namesake model — is critical for mid-tempo and groove sections in Angra's set, offering clear bell definition and a wash that builds slowly rather than exploding immediately, letting Priester play fast patterns on the bow while the bell cuts through on accents.\n\nThe China cymbal provides the aggressive, trashy accents that punctuate Angra's heaviest moments. Power metal is not all speed — the breakdowns and heavy riff sections need a cymbal that bites, and Priester's custom Paiste China delivers that edge with a musical character that doesn't overstay its welcome.",
+      "description": "Paiste is a Swiss cymbal manufacturer with a long craft history, and Priester's custom red-coated set is a signature visual and sonic identity for his live show — qualities particularly well-suited to European and South American power metal contexts where large festival stages demand both volume and musical character.\n\nPriester's Paiste setup is configured for the specific demands of W.A.S.P.'s live show. The hi-hats deliver the tight, articulate response needed for the single-stroke and double-stroke hi-hat patterns he plays over blazing double-bass sections — there can be no wash or mud when the kick drums are running at 180+ BPM, or the groove collapses into noise.\n\nThe crash selection gives Priester a dynamic range of crash response, from quick, sharp accents to the big musical statements at chorus peaks and section endings. This graduated approach is standard among technical metal drummers who need precision expression rather than just volume.\n\nThe 18\" Psychoctopus Giga Bell Ride — Priester's namesake model — is critical for mid-tempo and groove sections in W.A.S.P.'s set, offering clear bell definition and a wash that builds slowly rather than exploding immediately, letting Priester play fast patterns on the bow while the bell cuts through on accents.\n\nThe China cymbal provides the aggressive, trashy accents that punctuate W.A.S.P.'s heaviest moments. Power metal is not all speed — the breakdowns and heavy riff sections need a cymbal that bites, and Priester's custom Paiste China delivers that edge with a musical character that doesn't overstay its welcome.",
       "estimatedValue": "$2,500–4,500 (full custom Paiste touring setup)"
     },
     "hardware": {
@@ -167,7 +167,7 @@ export const articles = {
     "gearEvolution": [
       {
         "era": "Early Career / Hangar",
-        "years": "1996–2000",
+        "years": "1996–2001",
         "description": "Pre-Angra development years building technique in Hangar.",
         "gear": {
           "drums": "Mapex Saturn Series",
@@ -177,20 +177,20 @@ export const articles = {
         "notes": "Axis A pedal known for its extremely light, fast action — ideal for building extreme double-bass speed."
       },
       {
-        "era": "Angra Classic Era",
-        "years": "2000–2012",
-        "description": "Rebirth through Aqua: the albums that defined his legacy.",
+        "era": "Angra Era",
+        "years": "2001–2008",
+        "description": "Rebirth through Aurora Consurgens: the albums that defined his legacy.",
         "gear": {
-          "drums": "Mapex Saturn Series (later Pearl Reference)",
+          "drums": "Mapex Saturn Series",
           "cymbals": "Sabian HHX Series",
-          "hardware": "Axis & DW double pedals"
+          "hardware": "Axis A double pedal"
         },
-        "notes": "Temple of Shadows (2004) and Aurora Consurgens (2006) recorded during this period. The Spread Your Fire and Heroes of Sand performances represent the peak of this configuration."
+        "notes": "Temple of Shadows (2004) and Aurora Consurgens (2006) recorded during this period. The Spread Your Fire and Heroes of Sand performances represent the peak of this configuration. Priester departed Angra in 2008 to focus on his own band, Hangar."
       },
       {
         "era": "W.A.S.P. / Hangar Focus",
-        "years": "2012–2022",
-        "description": "Post-Angra years with W.A.S.P. and Hangar.",
+        "years": "2017–2023",
+        "description": "Joined W.A.S.P. in 2017, alongside ongoing Hangar duties.",
         "gear": {
           "drums": "Pearl Reference Series",
           "cymbals": "Meinl Byzance Series",
@@ -199,20 +199,20 @@ export const articles = {
         "notes": "W.A.S.P.'s heavier, more straightforward sound required different configuration than progressive Angra arrangements."
       },
       {
-        "era": "Angra Return",
+        "era": "Signature Kit Era",
         "years": "2023–Present",
-        "description": "Reunion with Angra; current touring and recording setup.",
+        "description": "Launch of his own Mapex Saturn Evolution signature kit; current touring and recording setup, continuing his W.A.S.P. tenure.",
         "gear": {
           "drums": "Mapex Saturn Evolution All Maple (signature kit)",
           "cymbals": "Paiste (custom red-coated set)",
           "hardware": "DW 9000 double pedal"
         },
-        "notes": "Current configuration optimized for the technical demands of Angra's live show and Brazilian touring circuit."
+        "notes": "Current configuration optimized for the technical demands of W.A.S.P.'s live show and the South American festival circuit."
       }
     ],
     "playingStyle": {
       "title": "Brazilian Metal Double-Bass Approach",
-      "content": "Aquiles Priester's playing style is built on a foundation of extreme double-bass endurance combined with the musical sensitivity to deploy that speed where it serves the song. This combination — raw technical power directed by musical intelligence — is what separates him from drummers who are simply fast.\n\n**Double-Bass Architecture:**\nPriester's kick patterns are architectural rather than decorative. On \"Spread Your Fire\" (~182 BPM), the double bass isn't showing off — it's the rhythmic foundation of the entire track, a wall of even 16th notes that drives the melodic content above it. His approach prioritizes evenness over speed: a slightly slower, perfectly even kick pattern is worth more than a faster, uneven one.\n\n**Relaxation as Technique:**\nAt extreme tempos, any tension in the legs, hips, or upper body creates a speed ceiling and accelerates fatigue. Priester has spoken extensively about the role of physical relaxation in sustaining double-bass patterns across full live sets. His technique involves keeping the ankles loose, letting the beaters return freely after each stroke, and maintaining a completely neutral upper body that doesn't fight the tempo.\n\n**Brazilian Metal Drum Tuning:**\nBrazilian metal sits in a specific sonic space: technically demanding power metal with orchestral arrangements, large outdoor festival venues, and audiences that expect both precision and spectacle. Priester's tuning approach reflects this — toms tuned for clear pitch differentiation and projection, kick drums with moderate muffling for attack without over-damping, and cymbals selected for volume and definition in loud environments.\n\n**Touring vs. Recording Rig:**\nPriester has noted that the studio and live configurations serve different masters. On records, the room, the engineer, and the arrangement determine the fine details of tuning and muffling. Live — especially at the open-air festivals that are central to Angra's touring circuit — projection and consistency matter most. The Mapex Saturn Evolution setup and Paiste cymbals were selected partly for their ability to perform consistently across the temperature and humidity variables of outdoor South American venues.\n\n**Angra's Progressive Structures:**\nUnlike straight-ahead metal where the drummer can repeat a core pattern for most of a song, Angra's compositions regularly shift feel, time signature, and tempo within a single track. \"Heroes of Sand\" is the canonical example: blast beats, double-bass runs, lyrical 4/4 grooves, and atmospheric sections all appear within five minutes. Priester's limb independence is developed to the point where he can switch between these feels without breaking the pocket — a skill that comes from deep familiarity with the arrangements and years of performing them live.",
+      "content": "Aquiles Priester's playing style is built on a foundation of extreme double-bass endurance combined with the musical sensitivity to deploy that speed where it serves the song. This combination — raw technical power directed by musical intelligence — is what separates him from drummers who are simply fast.\n\n**Double-Bass Architecture:**\nPriester's kick patterns are architectural rather than decorative. On \"Spread Your Fire\" (~182 BPM), the double bass isn't showing off — it's the rhythmic foundation of the entire track, a wall of even 16th notes that drives the melodic content above it. His approach prioritizes evenness over speed: a slightly slower, perfectly even kick pattern is worth more than a faster, uneven one.\n\n**Relaxation as Technique:**\nAt extreme tempos, any tension in the legs, hips, or upper body creates a speed ceiling and accelerates fatigue. Priester has spoken extensively about the role of physical relaxation in sustaining double-bass patterns across full live sets. His technique involves keeping the ankles loose, letting the beaters return freely after each stroke, and maintaining a completely neutral upper body that doesn't fight the tempo.\n\n**Brazilian Metal Drum Tuning:**\nBrazilian metal sits in a specific sonic space: technically demanding power metal with orchestral arrangements, large outdoor festival venues, and audiences that expect both precision and spectacle. Priester's tuning approach reflects this — toms tuned for clear pitch differentiation and projection, kick drums with moderate muffling for attack without over-damping, and cymbals selected for volume and definition in loud environments.\n\n**Touring vs. Recording Rig:**\nPriester has noted that the studio and live configurations serve different masters. On records, the room, the engineer, and the arrangement determine the fine details of tuning and muffling. Live — especially at the open-air festivals that are central to his South American touring circuit — projection and consistency matter most. The Mapex Saturn Evolution setup and Paiste cymbals were selected partly for their ability to perform consistently across the temperature and humidity variables of outdoor South American venues.\n\n**Angra's Progressive Structures:**\nUnlike straight-ahead metal where the drummer can repeat a core pattern for most of a song, Angra's compositions regularly shift feel, time signature, and tempo within a single track. \"Heroes of Sand\" is the canonical example: blast beats, double-bass runs, lyrical 4/4 grooves, and atmospheric sections all appear within five minutes. Priester's limb independence is developed to the point where he can switch between these feels without breaking the pocket — a skill that comes from deep familiarity with the arrangements and years of performing them live.",
       "keyTechniques": [
         "Sustained even double-bass patterns at 180–220+ BPM",
         "Full-body relaxation technique for endurance at extreme tempos",
@@ -231,11 +231,6 @@ export const articles = {
         "text": "Relaxation is the technique. You cannot play fast if you are tense — the speed comes from freedom, not from force.",
         "source": "Drumeo Feature",
         "year": 2019
-      },
-      {
-        "text": "Playing Angra live is like conducting an orchestra with your whole body. The gear has to be there for you at 100% from the first note to the last.",
-        "source": "Metal Hammer Brazil",
-        "year": 2023
       }
     ],
     "buyingGuide": {
@@ -289,7 +284,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Aquiles Priester use?",
-        "answer": "Aquiles Priester currently plays the Mapex Saturn Evolution All Maple — his own signature kit, the first Brazilian-drummer signature kit released by a global drum brand — for Angra touring and recording. His configuration includes 22\" bass drums in a double-bass setup, rack toms from 10\" to 13\", and floor toms at 16\" and 18\". Earlier in his career he played Mapex Saturn Series drums (the kit used on Rebirth and Temple of Shadows) and later Pearl Reference Series kits during his W.A.S.P. years."
+        "answer": "Aquiles Priester currently plays the Mapex Saturn Evolution All Maple — his own signature kit, the first Brazilian-drummer signature kit released by a global drum brand — for W.A.S.P. touring and recording. His configuration includes 22\" bass drums in a double-bass setup, rack toms from 10\" to 13\", and floor toms at 16\" and 18\". Earlier in his career he played Mapex Saturn Series drums (the kit used on Rebirth and Temple of Shadows during his 2001-2008 Angra tenure) and later Pearl Reference Series kits during his earlier W.A.S.P. years."
       },
       {
         "question": "What cymbals does Aquiles Priester play?",
@@ -305,12 +300,12 @@ export const articles = {
       },
       {
         "question": "What is Aquiles Priester's approach to drum tuning for Brazilian metal?",
-        "answer": "Priester tunes his kit for outdoor festival projection — the dominant live context on the South American touring circuit. Toms are tuned for clear pitch differentiation and volume; kick drums use moderate muffling to emphasize attack without over-damping the fundamental tone. For studio work he adjusts tuning and head selection to match the room and the arrangement, working closely with engineers to capture the warmth and attack balance that characterizes Angra's recorded sound."
+        "answer": "Priester tunes his kit for outdoor festival projection — the dominant live context on the South American touring circuit. Toms are tuned for clear pitch differentiation and volume; kick drums use moderate muffling to emphasize attack without over-damping the fundamental tone. For studio work he adjusts tuning and head selection to match the room and the arrangement, working closely with engineers to capture the warmth and attack balance that characterizes his recorded sound."
       }
     ],
     "conclusion": {
-      "title": "The Complete Angra Gear Guide",
-      "content": "Aquiles Priester's drum kit represents a system built for one of the most demanding jobs in metal: carrying Angra's technically complex, emotionally intense power metal through marathon live sets at the world's biggest metal festivals.\n\nEvery gear choice reflects that demand:\n\n- **Mapex Saturn Evolution**: His own signature kit, built for the tuning stability and projection that large outdoor stages require\n- **Paiste cymbals**: A custom red-coated set delivering warm, musical tone with the volume to cut through dense guitar arrangements\n- **DW 9000 double pedal**: The mechanical precision that keeps 182 BPM kick patterns even from the first note of soundcheck to the last song of a world tour\n- **DW 9000 hardware**: Consistent, stable platform for every other component\n\nFor drummers studying Priester's approach, the gear is secondary to the technique philosophy: extreme speed built on relaxation, endurance built on efficiency, and technical power directed entirely by musical intent. The Mapex Saturn Evolution kit and Paiste cymbals are world-class tools, but they perform because a world-class musician chose them for disciplined reasons.\n\nStudy \"Rebirth\" for double-bass endurance. Study \"Heroes of Sand\" for limb independence and progressive arrangement navigation. Study \"Spread Your Fire\" for the complete picture: maximum speed, musical phrasing, and the groove that makes even 182 BPM feel like it swings.\n\nFor the full biography, career timeline, and deeper technique breakdowns:\n- [Aquiles Priester — Full Drummer Profile](/drummer/aquiles-priester)\n- [Aquiles Priester Signature Lick Hub](/drummers/aquiles-priester/licks)\n- [Double-Bass Technique: Fastest Metal Drummers](/technique/double-bass/drummers)\n\nAquiles Priester has spent over 25 years proving that Brazilian metal drumming belongs in any conversation about the world's elite. The kit is the vehicle. The man behind it is the story.\n\n🥁 *\"The speed comes from freedom, not from force.\"* — Aquiles Priester 🤘"
+      "title": "The Complete Gear Guide",
+      "content": "Aquiles Priester's drum kit represents a system built for one of the most demanding jobs in metal: carrying W.A.S.P.'s heavy metal attack through marathon live sets at the world's biggest metal festivals.\n\nEvery gear choice reflects that demand:\n\n- **Mapex Saturn Evolution**: His own signature kit, built for the tuning stability and projection that large outdoor stages require\n- **Paiste cymbals**: A custom red-coated set delivering warm, musical tone with the volume to cut through dense guitar arrangements\n- **DW 9000 double pedal**: The mechanical precision that keeps 182 BPM kick patterns even from the first note of soundcheck to the last song of a world tour\n- **DW 9000 hardware**: Consistent, stable platform for every other component\n\nFor drummers studying Priester's approach, the gear is secondary to the technique philosophy: extreme speed built on relaxation, endurance built on efficiency, and technical power directed entirely by musical intent. The Mapex Saturn Evolution kit and Paiste cymbals are world-class tools, but they perform because a world-class musician chose them for disciplined reasons.\n\nStudy \"Rebirth\" for double-bass endurance. Study \"Heroes of Sand\" for limb independence and progressive arrangement navigation. Study \"Spread Your Fire\" for the complete picture: maximum speed, musical phrasing, and the groove that makes even 182 BPM feel like it swings.\n\nFor the full biography, career timeline, and deeper technique breakdowns:\n- [Aquiles Priester — Full Drummer Profile](/drummer/aquiles-priester)\n- [Aquiles Priester Signature Lick Hub](/drummers/aquiles-priester/licks)\n- [Double-Bass Technique: Fastest Metal Drummers](/technique/double-bass/drummers)\n\nAquiles Priester has spent over 25 years proving that Brazilian metal drumming belongs in any conversation about the world's elite. The kit is the vehicle. The man behind it is the story.\n\n🥁 *\"The speed comes from freedom, not from force.\"* — Aquiles Priester 🤘"
     }
   },
   "aquiles-priester-drum-setup": {
@@ -346,14 +341,14 @@ export const articles = {
     "ogImage": "/images/drummers/aquiles-priester.webp",
     "intro": {
       "title": "The Setup Behind Temple of Shadows",
-      "content": "Aquiles Priester's drum setup during Angra's most celebrated era — the albums Rebirth (2001), Temple of Shadows (2004), and Aurora Consurgens (2006) — is the configuration that established him as the defining voice of Brazilian power metal drumming. Built around a Mapex Saturn kit, Sabian HHX cymbals, and the Axis A double pedal he relied on for the blazing kick work that made tracks like \"Spread Your Fire\" and \"Heroes of Sand\" instantly recognizable, this rig defined an entire era of technical metal drumming.\n\nAquiles Priester (born June 25, 1971, in Outjo, Namibia) joined Angra in 2000, replacing Ricardo Confessori, and immediately raised the bar for what power metal drumming could demand from a player. His setup evolved through this period from pure Mapex/Sabian/Axis to incorporating Pearl Reference drums mid-era, but the Sabian HHX endorsement and the Axis pedal remained the constants that defined the sound on Angra's most important recordings.\n\nThis guide breaks down Priester's setup during the Angra classic era (2000–2012): the drums, cymbals, pedals, and technique philosophy that produced some of the most admired drumming in power metal history. For the current Mapex Saturn Evolution/Paiste/DW 9000 touring setup, see the full drum kit guide.",
+      "content": "Aquiles Priester's drum setup during Angra's most celebrated era — the albums Rebirth (2001), Temple of Shadows (2004), and Aurora Consurgens (2006) — is the configuration that established him as the defining voice of Brazilian power metal drumming. Built around a Mapex Saturn kit, Sabian HHX cymbals, and the Axis A double pedal he relied on for the blazing kick work that made tracks like \"Spread Your Fire\" and \"Heroes of Sand\" instantly recognizable, this rig defined an entire era of technical metal drumming.\n\nAquiles Priester (born June 25, 1971, in Outjo, Namibia) joined Angra in 2001, replacing Ricardo Confessori, and immediately raised the bar for what power metal drumming could demand from a player. The Sabian HHX endorsement and the Axis A pedal remained constants throughout his Angra tenure, defining the sound on the band's most important recordings before he departed in 2008 to focus on his own band, Hangar, and later transitioned to Pearl Reference drums for his 2017 W.A.S.P. tenure.\n\nThis guide breaks down Priester's setup during the Angra classic era (2001–2008): the drums, cymbals, pedals, and technique philosophy that produced some of the most admired drumming in power metal history. For the current Mapex Saturn Evolution/Paiste/DW 9000 touring setup, see the full drum kit guide.",
       "keyPoints": [
         "Mapex Saturn Series shells — the kit on Rebirth and early Angra recordings",
-        "Sabian HHX endorsement throughout the Angra classic era (2000–2012)",
+        "Sabian HHX endorsement throughout the Angra classic era (2001–2008)",
         "Axis A Double Pedal — ultra-light action enabling extreme double-bass speed",
         "Vic Firth Aquiles Priester Signature sticks",
         "Double-bass sustained at 182 BPM on \"Spread Your Fire\" (Temple of Shadows, 2004)",
-        "Setup shared across Angra, Hangar, and W.A.S.P. touring in this period"
+        "Setup shared across Angra and Hangar touring in this period"
       ]
     },
     "drumKit": {
@@ -376,13 +371,13 @@ export const articles = {
         ],
         "shells": "Maple/walnut hybrid — warm punch with focused midrange attack"
       },
-      "description": "The Mapex Saturn was Priester's kit for the recordings that cemented his reputation: the Rebirth World Tour (2001–2002), the Temple of Shadows sessions (2004), and the subsequent Aurora Consurgens cycle. Mapex's Saturn series used a maple/walnut hybrid shell construction that delivered a naturally warm tone with a midrange punch that cut through the dense orchestral arrangements Angra's albums required.\n\nFor power metal, where the drums must project against multiple guitars, bass, keyboards, and orchestral samples, the Saturn's tonal profile was a strong fit. The maple outer plies provided warmth and sustain; the walnut inner plies tightened the fundamental and added midrange definition that translated to clear drum separation in both live and studio mixes.\n\nPriester ran the double-bass configuration that has defined his career — two 22\" kick drums giving him the independence and consistent feel between feet that a double pedal on a single kick cannot fully replicate. The five-tom spread (10\", 12\", 13\", 16\", 18\") covered the melodic range his cascading fill work demanded, with each drum tuned to a distinct pitch to emphasize the musical character of his fills rather than just the physical pattern.\n\nLater in the classic era (2008–2012), Priester transitioned to Pearl Reference Series drums, maintaining the double-bass configuration and similar tom spread with a brighter, more open shell voice suited to W.A.S.P.'s heavier, more direct production aesthetic.",
+      "description": "The Mapex Saturn was Priester's kit for the recordings that cemented his reputation: the Rebirth World Tour (2001–2002), the Temple of Shadows sessions (2004), and the subsequent Aurora Consurgens cycle. Mapex's Saturn series used a maple/walnut hybrid shell construction that delivered a naturally warm tone with a midrange punch that cut through the dense orchestral arrangements Angra's albums required.\n\nFor power metal, where the drums must project against multiple guitars, bass, keyboards, and orchestral samples, the Saturn's tonal profile was a strong fit. The maple outer plies provided warmth and sustain; the walnut inner plies tightened the fundamental and added midrange definition that translated to clear drum separation in both live and studio mixes.\n\nPriester ran the double-bass configuration that has defined his career — two 22\" kick drums giving him the independence and consistent feel between feet that a double pedal on a single kick cannot fully replicate. The five-tom spread (10\", 12\", 13\", 16\", 18\") covered the melodic range his cascading fill work demanded, with each drum tuned to a distinct pitch to emphasize the musical character of his fills rather than just the physical pattern.\n\nAfter departing Angra in 2008, Priester transitioned to Pearl Reference Series drums for his 2017 W.A.S.P. tenure, maintaining the double-bass configuration and similar tom spread with a brighter, more open shell voice suited to W.A.S.P.'s heavier, more direct production aesthetic.",
       "notes": [
         "Mapex Saturn maple/walnut hybrid — warm with focused midrange punch",
         "Double-bass configuration for sustained 16th-note kick patterns",
         "Five-tom spread enabling melodic cascading fills",
-        "Transitioned to Pearl Reference during later classic era years",
-        "Consistent configuration across Angra, Hangar, and W.A.S.P. touring"
+        "Transitioned to Pearl Reference for his post-Angra W.A.S.P. years (2017-2023)",
+        "Consistent Mapex/Sabian/Axis configuration across Angra and Hangar touring"
       ],
       "estimatedValue": "$2,500–4,500 (Saturn Series shell pack, vintage used market)"
     },
@@ -392,7 +387,7 @@ export const articles = {
       "model": "Mapex Saturn Custom Snare / Pearl Reference Free-Floating",
       "size": "14\" x 6.5\"",
       "shell": "Steel or maple (context-dependent)",
-      "description": "Priester's snare in the Angra classic era varied between matching Mapex Saturn snares for the studio and Pearl Free-Floating models as his endorsement shifted. The consistent requirement across all configurations: a snare that cracked decisively over Angra's dense orchestral arrangements without losing the sensitivity for ghost notes and dynamic work in the band's more atmospheric passages.\n\nAt 182 BPM on \"Spread Your Fire,\" Priester's snare backbeat swings with conviction — it never sounds mechanical or hurried despite the extreme tempo. The combination of a slightly deeper shell (6.5\" vs. the standard 5.5\") and tuning in the medium-high range creates a voice that carries in large outdoor venues without becoming papery or thin when pushed hard on rimshots.",
+      "description": "Priester's snare during the Angra classic era was a matching Mapex Saturn snare; he later shifted to Pearl Free-Floating models once his endorsement moved to Pearl Reference for his W.A.S.P. years. The consistent requirement across both configurations: a snare that cracked decisively over dense arrangements without losing the sensitivity for ghost notes and dynamic work in more atmospheric passages.\n\nAt 182 BPM on \"Spread Your Fire,\" Priester's snare backbeat swings with conviction — it never sounds mechanical or hurried despite the extreme tempo. The combination of a slightly deeper shell (6.5\" vs. the standard 5.5\") and tuning in the medium-high range creates a voice that carries in large outdoor venues without becoming papery or thin when pushed hard on rimshots.",
       "tuningSetting": "Medium-high for live projection; medium for studio warmth and controlled sustain",
       "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$400–900 (depending on model)"
@@ -487,7 +482,7 @@ export const articles = {
     "gearTimeline": [
       {
         "era": "Hangar Founding Years",
-        "years": "1996–2000",
+        "years": "1996–2001",
         "albums": [
           "Hangar early releases"
         ],
@@ -501,29 +496,27 @@ export const articles = {
       },
       {
         "era": "Angra Classic Era",
-        "years": "2000–2012",
+        "years": "2001–2008",
         "albums": [
           "Rebirth (2001)",
           "Temple of Shadows (2004)",
-          "Aurora Consurgens (2006)",
-          "Aqua (2010)"
+          "Aurora Consurgens (2006)"
         ],
         "description": "The recordings that established his global reputation. This is the setup covered in this article.",
         "gear": {
-          "drums": "Mapex Saturn (transitioning to Pearl Reference mid-era)",
+          "drums": "Mapex Saturn Series",
           "cymbals": "Sabian HHX Series",
-          "hardware": "Axis A Double Pedal (transitioning to DW late era)"
+          "hardware": "Axis A Double Pedal"
         },
-        "notes": "Temple of Shadows and Aurora Consurgens recorded with Mapex Saturn + Sabian HHX + Axis A. \"Spread Your Fire\" at 182 BPM is the signature performance of this era."
+        "notes": "Temple of Shadows and Aurora Consurgens recorded with Mapex Saturn + Sabian HHX + Axis A. \"Spread Your Fire\" at 182 BPM is the signature performance of this era. Priester departed Angra in 2008 to focus on Hangar."
       },
       {
         "era": "W.A.S.P. / Hangar Focus",
-        "years": "2012–2022",
+        "years": "2017–2023",
         "albums": [
-          "W.A.S.P. - Golgotha (2015)",
           "Hangar releases"
         ],
-        "description": "Post-Angra transition. Pearl Reference + Meinl endorsement replaces Mapex/Sabian.",
+        "description": "Joined W.A.S.P. in 2017. Pearl Reference + Meinl endorsement replaces Mapex/Sabian.",
         "gear": {
           "drums": "Pearl Reference Series",
           "cymbals": "Meinl Byzance Series",
@@ -532,12 +525,10 @@ export const articles = {
         "notes": "W.A.S.P.'s more direct heavy metal style required a brighter, more forward-sounding configuration than Angra's orchestral arrangements."
       },
       {
-        "era": "Angra Return",
+        "era": "Signature Kit Era",
         "years": "2023–Present",
-        "albums": [
-          "Angra current cycle"
-        ],
-        "description": "Return to Angra with his own signature kit.",
+        "albums": [],
+        "description": "Launch of his own Mapex Saturn Evolution signature kit, continuing his W.A.S.P. tenure.",
         "gear": {
           "drums": "Mapex Saturn Evolution All Maple (signature kit)",
           "cymbals": "Paiste (custom red-coated set)",
@@ -602,7 +593,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Aquiles Priester use on Temple of Shadows?",
-        "answer": "Aquiles Priester used Sabian HHX cymbals throughout the Angra classic era (2000–2012), including the Temple of Shadows sessions. His HHX setup included 14\" hi-hats, a range of crashes from 16\" to 20\", a 21\" ride, and an 18\" China. Sabian HHX cymbals use an unlathed top surface that produces a darker, more complex tone suited to Angra's orchestral arrangements."
+        "answer": "Aquiles Priester used Sabian HHX cymbals throughout the Angra classic era (2001–2008), including the Temple of Shadows sessions. His HHX setup included 14\" hi-hats, a range of crashes from 16\" to 20\", a 21\" ride, and an 18\" China. Sabian HHX cymbals use an unlathed top surface that produces a darker, more complex tone suited to Angra's orchestral arrangements."
       },
       {
         "question": "What double pedal did Aquiles Priester use with Angra?",
@@ -610,11 +601,11 @@ export const articles = {
       },
       {
         "question": "What drum kit did Aquiles Priester use on Rebirth?",
-        "answer": "Aquiles Priester used a Mapex Saturn Series kit for his early Angra recordings, including the Rebirth album (2001). The Saturn's maple/walnut hybrid shells provided the warm, focused tone suited to Angra's power metal arrangements. He later transitioned to Pearl Reference drums mid-era while maintaining the Sabian HHX cymbal endorsement throughout the classic period."
+        "answer": "Aquiles Priester used a Mapex Saturn Series kit for his early Angra recordings, including the Rebirth album (2001). The Saturn's maple/walnut hybrid shells provided the warm, focused tone suited to Angra's power metal arrangements. He maintained the Sabian HHX cymbal endorsement throughout his 2001-2008 Angra tenure, later transitioning to Pearl Reference drums for his 2017 W.A.S.P. tenure."
       },
       {
         "question": "Does Aquiles Priester still use Sabian cymbals?",
-        "answer": "Aquiles Priester used Sabian HHX cymbals throughout his Angra classic era (2000–2012). He later moved to Meinl Byzance cymbals during his W.A.S.P./Hangar focus years (2012–2022), and currently endorses Paiste cymbals for his Angra return. The Sabian HHX era is most associated with his most celebrated recordings on Temple of Shadows and Aurora Consurgens."
+        "answer": "Aquiles Priester used Sabian HHX cymbals throughout his Angra classic era (2001–2008). He later moved to Meinl Byzance cymbals during his W.A.S.P./Hangar focus years (2017–2023), and currently endorses Paiste cymbals for his ongoing W.A.S.P. tenure. The Sabian HHX era is most associated with his most celebrated recordings on Temple of Shadows and Aurora Consurgens."
       }
     ],
     "relatedAlbums": [

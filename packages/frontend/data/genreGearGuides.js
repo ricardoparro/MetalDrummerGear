@@ -114383,7 +114383,7 @@ For material that swings between Danny Carey's Fibonacci-structured polyrhythms 
     faq: [
       {
         question: "What drum heads do mathcore drummers use?",
-        answer: "Mathcore drummers generally favor durable, reinforced double-ply heads that stay consistent under unpredictable playing. Matt Greiner of August Burns Red, Danny Carey of Tool, and Blake Richardson of Between the Buried and Me all rely on Evans double-ply heads, while Ben Koller of Converge favors Remo's reinforced options."
+        answer: "Mathcore drummers generally favor durable, reinforced double-ply heads that stay consistent under unpredictable playing. Matt Greiner of August Burns Red and Blake Richardson of Between the Buried and Me rely on Evans double-ply heads, while Ben Koller of Converge and Danny Carey of Tool favor Remo's reinforced options."
       },
       {
         question: "Why does mathcore need more durable heads than other metal genres?",
@@ -114406,7 +114406,7 @@ For material that swings between Danny Carey's Fibonacci-structured polyrhythms 
     // Conclusion
     conclusion: {
       title: "Find Your Mathcore-Ready Head",
-      content: `Mathcore's drum head choice comes down to one question: can it stay consistent no matter what the next bar throws at it? Matt Greiner's Evans G2 Coated, Danny Carey's Evans EMAD 2, and Blake Richardson's Evans G2 Coated all prove that balanced, reliable double-ply construction handles the genre's rhythmic whiplash better than anything specialized for one particular playing style. Ben Koller's Remo Powerstroke P3 shows that reinforced construction pays off when your material genuinely never settles into a predictable pattern.
+      content: `Mathcore's drum head choice comes down to one question: can it stay consistent no matter what the next bar throws at it? Matt Greiner's Evans G2 Coated and Blake Richardson's Evans G2 Coated prove that balanced, reliable double-ply construction handles the genre's rhythmic whiplash better than anything specialized for one particular playing style. Ben Koller's Remo Powerstroke P3 and Danny Carey's Remo heads show that reinforced construction pays off when your material genuinely never settles into a predictable pattern.
 
 Start with a reinforced double-ply head like the Evans G2 or Remo Emperor X, and prioritize tuning stability and dynamic consistency over raw tone shaping — mathcore's whiplash will test both relentlessly.
 

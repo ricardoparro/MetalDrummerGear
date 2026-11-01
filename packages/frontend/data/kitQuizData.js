@@ -24,7 +24,7 @@ export const KIT_QUIZ_QUESTIONS = [
     // Joey Jordison
     correctDrummerId: 2,
     gear: {
-      drums: 'Pearl Masters Maple Reserve',
+      drums: 'Pearl Masters Premium Maple',
       snare: 'Pearl Joey Jordison Signature 13x6.5"',
       cymbals: 'Paiste RUDE & 2002 Series',
       hardware: 'Pearl Demon Drive Double Pedal',

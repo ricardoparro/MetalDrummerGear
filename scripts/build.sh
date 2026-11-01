@@ -2,9 +2,7 @@
 set -e
 npx patch-package
 node scripts/generate-responsive-images.cjs
-node scripts/generate-llms-full.cjs
-node scripts/generate-llms-index.cjs
-node scripts/generate-llms-techniques-per-slug.cjs
+npm run generate:llms
 # Issue #7149: lightweight browser catalog so /articles/<slug> only downloads
 # its own per-drummer chunk instead of the full ~10MB albumArticles bundle.
 node scripts/generate-album-articles-catalog.mjs

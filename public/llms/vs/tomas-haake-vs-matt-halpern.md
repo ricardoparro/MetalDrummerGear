@@ -47,7 +47,7 @@ The architect vs the innovator. Tomas Haake created the djent blueprint; Matt Ha
 ## FAQ
 
 **Q: What are the main differences between Tomas Haake's and Matt Halpern's drum kits?**
-A: Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms) with Sabian cymbals, while Matt Halpern uses Pearl Reference Series with Meinl cymbals. Tomas plays Sonor drums with Sabian cymbals for focused attack. Matt uses Pearl drums with Meinl cymbals for dark, complex tones.
+A: Tomas Haake — Drums: Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms). Cymbals: Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China). Matt Halpern — Drums: Pearl Reference Series. Cymbals: Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack"). Tomas plays Sonor drums with Sabian cymbals for focused attack. Matt uses Pearl drums with Meinl cymbals for dark, complex tones.
 
 **Q: What drums does Tomas Haake play vs Matt Halpern?**
 A: Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms). Matt Halpern plays Pearl Reference Series.
@@ -67,4 +67,4 @@ A: Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Ar
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

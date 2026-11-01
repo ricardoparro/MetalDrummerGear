@@ -47,7 +47,7 @@ Navene Koperweis represents the technical, electronically-informed edge of moder
 ## FAQ
 
 **Q: What are the main differences between Navene Koperweis's and Ben Koller's drum kits?**
-A: Navene Koperweis plays DW Drums Performance Series with Meinl cymbals, while Ben Koller uses Tama Starclassic Performer B/B with Zildjian cymbals. Koperweis endorses DW Drums and Meinl Byzance cymbals, running a DW Performance kit with a 14x6.5" steel snare. Koller plays a Tama Starclassic Performer B/B kit with Zildjian K Custom & A Custom Series cymbals, both drummers using Vic Firth American Classic 5B sticks.
+A: Navene Koperweis — Drums: DW Drums Performance Series. Cymbals: Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash). Ben Koller — Drums: Tama Starclassic Performer B/B. Cymbals: Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China). Koperweis endorses DW Drums and Meinl Byzance cymbals, running a DW Performance kit with a 14x6.5" steel snare. Koller plays a Tama Starclassic Performer B/B kit with Zildjian K Custom & A Custom Series cymbals, both drummers using Vic Firth American Classic 5B sticks.
 
 **Q: What drums does Navene Koperweis play vs Ben Koller?**
 A: Navene Koperweis plays DW Drums Performance Series. Ben Koller plays Tama Starclassic Performer B/B.
@@ -67,4 +67,4 @@ A: Navene Koperweis uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

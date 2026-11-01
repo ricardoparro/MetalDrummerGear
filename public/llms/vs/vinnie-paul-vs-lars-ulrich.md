@@ -47,7 +47,7 @@ Vinnie Paul and Lars Ulrich represent two pillars of American heavy metal. Vinni
 ## FAQ
 
 **Q: What are the main differences between Vinnie Paul's and Lars Ulrich's drum kits?**
-A: Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified) with Sabian cymbals, while Lars Ulrich uses Tama Starclassic Maple with Zildjian cymbals. Vinnie played a Tama drum kit with a Tama steel 14"×6.5" snare and Sabian AA & AAX cymbals through Pantera's "Cowboys from Hell" (1990), then switched to Pearl drums in 1996 for "The Great Southern Trendkill" and "Reinventing the Steel" — the Tama/Pearl-era snare crack defined Pantera's groove. He later moved to a ddrum Vinnie Paul Signature Series kit for Hellyeah (2008). Lars plays Tama Starclassic Maple and Birch drums with Zildjian A Custom cymbals and Tama Iron Cobra double pedals.
+A: Vinnie Paul — Drums: ddrum (brand confirmed; specific kit series unverified). Cymbals: Sabian (brand per secondary sources; specific models unverified). Lars Ulrich — Drums: Tama Starclassic Maple. Cymbals: Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride). Vinnie played a Tama drum kit with a Tama steel 14"×6.5" snare and Sabian AA & AAX cymbals through Pantera's "Cowboys from Hell" (1990), then switched to Pearl drums in 1996 for "The Great Southern Trendkill" and "Reinventing the Steel" — the Tama/Pearl-era snare crack defined Pantera's groove. He later moved to a ddrum Vinnie Paul Signature Series kit for Hellyeah (2008). Lars plays Tama Starclassic Maple and Birch drums with Zildjian A Custom cymbals and Tama Iron Cobra double pedals.
 
 **Q: What drums does Vinnie Paul play vs Lars Ulrich?**
 A: Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified). Lars Ulrich plays Tama Starclassic Maple.
@@ -67,4 +67,4 @@ A: Vinnie Paul uses Sabian (brand per secondary sources; specific models unverif
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

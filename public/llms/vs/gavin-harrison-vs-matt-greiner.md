@@ -47,7 +47,7 @@ Gavin Harrison and Matt Greiner occupy different corners of progressive-leaning 
 ## FAQ
 
 **Q: What are the main differences between Gavin Harrison's and Matt Greiner's drum kits?**
-A: Gavin Harrison plays Sonor SQ2 Series with Zildjian cymbals, while Matt Greiner uses Mapex Black Panther Design Lab with Paiste cymbals. Harrison plays a Sonor SQ2 kit with thin maple shells (22"x17" bass drum, 10"/12" rack toms, 14"/16" floor toms), Sonor Gavin Harrison Signature snares (14"x5.25" brass primary, 12"x5" Protean), and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, anchored by a 21" Special Dry Ride, plus Vic Firth signature sticks. Greiner plays a Mapex Black Panther Design Lab kit with dual 22"x18" bass drums, a Mapex Black Panther 14"x5.5" Maple snare, and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and Vic Firth Matt Greiner signature sticks.
+A: Gavin Harrison — Drums: Sonor SQ2 Series. Cymbals: Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China). Matt Greiner — Drums: Mapex Black Panther Design Lab. Cymbals: Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). Harrison plays a Sonor SQ2 kit with thin maple shells (22"x17" bass drum, 10"/12" rack toms, 14"/16" floor toms), Sonor Gavin Harrison Signature snares (14"x5.25" brass primary, 12"x5" Protean), and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, anchored by a 21" Special Dry Ride, plus Vic Firth signature sticks. Greiner plays a Mapex Black Panther Design Lab kit with dual 22"x18" bass drums, a Mapex Black Panther 14"x5.5" Maple snare, and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and Vic Firth Matt Greiner signature sticks.
 
 **Q: What drums does Gavin Harrison play vs Matt Greiner?**
 A: Gavin Harrison plays Sonor SQ2 Series. Matt Greiner plays Mapex Black Panther Design Lab.
@@ -67,4 +67,4 @@ A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

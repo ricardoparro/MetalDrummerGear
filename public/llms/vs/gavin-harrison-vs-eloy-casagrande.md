@@ -47,7 +47,7 @@ Gavin Harrison and Eloy Casagrande represent technical precision from opposite e
 ## FAQ
 
 **Q: What are the main differences between Gavin Harrison's and Eloy Casagrande's drum kits?**
-A: Gavin Harrison plays Sonor SQ2 Series with Zildjian cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Harrison plays a Sonor SQ2 kit with thin maple shells and a smaller 22"x17" bass drum for articulation over raw power, his own Sonor Gavin Harrison Signature brass snares, and Zildjian K Custom Special Dry cymbals developed specifically with him — dry, controlled, and fast-decaying. Eloy plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals chosen for raw aggression and durability — a near-total sonic opposite of Harrison's dry, restrained setup.
+A: Gavin Harrison — Drums: Sonor SQ2 Series. Cymbals: Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China). Eloy Casagrande — Drums: Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Cymbals: Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong). Harrison plays a Sonor SQ2 kit with thin maple shells and a smaller 22"x17" bass drum for articulation over raw power, his own Sonor Gavin Harrison Signature brass snares, and Zildjian K Custom Special Dry cymbals developed specifically with him — dry, controlled, and fast-decaying. Eloy plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals chosen for raw aggression and durability — a near-total sonic opposite of Harrison's dry, restrained setup.
 
 **Q: What drums does Gavin Harrison play vs Eloy Casagrande?**
 A: Gavin Harrison plays Sonor SQ2 Series. Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms).
@@ -67,4 +67,4 @@ A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

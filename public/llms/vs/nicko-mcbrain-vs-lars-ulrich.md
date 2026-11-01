@@ -47,7 +47,7 @@ Two pillars of classic heavy metal. Nicko McBrain is the technical master of Iro
 ## FAQ
 
 **Q: What are the main differences between Nicko McBrain's and Lars Ulrich's drum kits?**
-A: Nicko McBrain plays British Drum Co. with Paiste cymbals, while Lars Ulrich uses Tama Starclassic Maple with Zildjian cymbals. Nicko plays a British Drum Co. kit with Paiste cymbals for bright, cutting tone. Lars uses Tama Starclassic with Zildjian cymbals.
+A: Nicko McBrain — Drums: British Drum Co.. Cymbals: Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China). Lars Ulrich — Drums: Tama Starclassic Maple. Cymbals: Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride). Nicko plays a British Drum Co. kit with Paiste cymbals for bright, cutting tone. Lars uses Tama Starclassic with Zildjian cymbals.
 
 **Q: What drums does Nicko McBrain play vs Lars Ulrich?**
 A: Nicko McBrain plays British Drum Co.. Lars Ulrich plays Tama Starclassic Maple.
@@ -67,4 +67,4 @@ A: Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

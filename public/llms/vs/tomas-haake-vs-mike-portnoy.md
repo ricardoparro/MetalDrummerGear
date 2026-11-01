@@ -22,7 +22,7 @@ Meshuggah's Tomas Haake vs Dream Theater's Mike Portnoy. Djent polymetric groove
 - **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14x5.5"
 - **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
-- **Sticks:** Promark Mike Portnoy Signature TX420N
+- **Sticks:** Promark Mike Portnoy Signature TXMP420XW-AG
 
 ## Playing Style
 
@@ -67,4 +67,4 @@ A: Mike Portnoy co-founded Dream Theater in 1985 and served as the band's drumme
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

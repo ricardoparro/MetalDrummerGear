@@ -54,7 +54,7 @@ George Kollias, born in 1977, is a Greek drummer known for his extreme speed and
 ## FAQ
 
 **Q: Who has the more expensive drum kit, Gene Hoglan or George Kollias?**  
-A: Gene Hoglan's Pearl Reference Pure + Sabian AAX is estimated at $8,000–$12,000, while George Kollias's Pearl Masterworks Stadium Exotic + Zildjian runs approximately $15,000–$22,000. Both setups are professional-grade rigs well into five-figure territory when fully configured with all cymbals, hardware, and electronics.
+A: Gene Hoglan's Pearl Reference Pure + Sabian AAX is estimated at $8,000–$12,000, while George Kollias's Pearl Masterworks Stadium Exotic + Zildjian runs approximately $15,000–$22,000. See the full battle for the documented setups.
 
 **Q: What are the main gear differences between Gene Hoglan and George Kollias?**  
 A: Gene Hoglan plays Pearl Reference Pure paired with Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). George Kollias opts for Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/gene-hoglan-vs-george-kollias](https://metalforge.io/battles/gene-hoglan-vs-george-kollias).
@@ -76,4 +76,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

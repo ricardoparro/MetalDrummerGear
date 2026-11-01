@@ -47,7 +47,7 @@ Lars Ulrich co-founded the biggest metal band in history and became the voice of
 ## FAQ
 
 **Q: What are the main differences between Lars Ulrich's and Joey Jordison's drum kits?**
-A: Lars Ulrich plays Tama Starclassic Maple with Zildjian cymbals, while Joey Jordison uses Pearl Reference Series with Paiste cymbals. Lars plays Tama Starclassic with Zildjian cymbals and Ahead sticks. Joey endorsed Pearl drums with Paiste cymbals for aggressive attack.
+A: Lars Ulrich — Drums: Tama Starclassic Maple. Cymbals: Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride). Joey Jordison — Drums: Pearl Reference Series. Cymbals: Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride). Lars plays Tama Starclassic with Zildjian cymbals and Ahead sticks. Joey endorsed Pearl drums with Paiste cymbals for aggressive attack.
 
 **Q: What drums does Lars Ulrich play vs Joey Jordison?**
 A: Lars Ulrich plays Tama Starclassic Maple. Joey Jordison plays Pearl Reference Series.
@@ -67,4 +67,4 @@ A: Lars Ulrich uses Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

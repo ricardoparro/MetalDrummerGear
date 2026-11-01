@@ -47,7 +47,7 @@ Nicko McBrain is the technical architect of Iron Maiden's galloping sound — co
 ## FAQ
 
 **Q: What are the main differences between Nicko McBrain's and Mikkey Dee's drum kits?**
-A: Nicko McBrain plays British Drum Co. with Paiste cymbals, while Mikkey Dee uses Sonor SQ2 with Paiste cymbals. Nicko plays a British Drum Co. kit with Paiste 2002 cymbals for a bright, cutting tone. Mikkey endorses Sonor drums with Paiste Signature Series cymbals for aggressive projection.
+A: Nicko McBrain — Drums: British Drum Co.. Cymbals: Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China). Mikkey Dee — Drums: Sonor SQ2. Cymbals: Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China). Nicko plays a British Drum Co. kit with Paiste 2002 cymbals for a bright, cutting tone. Mikkey endorses Sonor drums with Paiste Signature Series cymbals for aggressive projection.
 
 **Q: What drums does Nicko McBrain play vs Mikkey Dee?**
 A: Nicko McBrain plays British Drum Co.. Mikkey Dee plays Sonor SQ2.
@@ -67,4 +67,4 @@ A: Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

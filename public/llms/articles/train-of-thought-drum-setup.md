@@ -25,7 +25,7 @@ For Mike Portnoy, *Train of Thought* represented the largest, heaviest, and most
 - **Drums:** Tama Tama Starclassic Maple (Black Sparkle finish)
 - **Snare:** Tama Tama Starclassic Maple Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian AAX / AA Series
-- **Hardware / Pedals:** Tama Iron Cobra Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Promark Mike Portnoy TX420N Signature
+- **Hardware / Pedals:** Tama Iron Cobra Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Promark Mike Portnoy TXMP420XW-AG Signature
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for aggressive crack with retained sensitivity
 
@@ -129,4 +129,4 @@ A: The two setups reflect fundamentally different albums. Key differences: (1) K
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

@@ -47,7 +47,7 @@ Brann Dailor and Blake Richardson are two of modern progressive metal's defining
 ## FAQ
 
 **Q: What are the main differences between Brann Dailor's and Blake Richardson's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Blake Richardson uses Tama Starclassic Bubinga (Custom Finish) with Sabian cymbals. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian HHX/AAX cymbals, powered by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns.
+A: Brann Dailor — Drums: Tama Starclassic Performer B/B. Cymbals: Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Blake Richardson — Drums: Tama Starclassic Bubinga (Custom Finish). Cymbals: Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime). Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian HHX/AAX cymbals, powered by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns.
 
 **Q: What drums does Brann Dailor play vs Blake Richardson?**
 A: Brann Dailor plays Tama Starclassic Performer B/B. Blake Richardson plays Tama Starclassic Bubinga (Custom Finish).
@@ -67,4 +67,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

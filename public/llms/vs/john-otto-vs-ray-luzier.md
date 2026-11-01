@@ -47,7 +47,7 @@ John Otto's jazz-meets-hip-hop grooves made Limp Bizkit's sound instantly recogn
 ## FAQ
 
 **Q: What are the main differences between John Otto's and Ray Luzier's drum kits?**
-A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals, while Ray Luzier uses Pearl Reference Series with Sabian cymbals. John Otto plays an OCDP custom kit with a hip-hop-inspired setup focused on groove and pocket. Ray endorses Pearl Reference drums with Sabian AAX cymbals for a bright, punchy attack.
+A: John Otto — Drums: Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. Cymbals: Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom). Ray Luzier — Drums: Pearl Reference Series. Cymbals: Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China). John Otto plays an OCDP custom kit with a hip-hop-inspired setup focused on groove and pocket. Ray endorses Pearl Reference drums with Sabian AAX cymbals for a bright, punchy attack.
 
 **Q: What drums does John Otto play vs Ray Luzier?**
 A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. Ray Luzier plays Pearl Reference Series.
@@ -67,4 +67,4 @@ A: John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

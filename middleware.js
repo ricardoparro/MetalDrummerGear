@@ -20,7 +20,7 @@ export const config = {
 // vercel.json rewrites, so the static file always wins for that one route.
 // Same bot UA list as vercel.json's other bot-conditioned rewrites — keep in
 // sync if that list changes.
-const BOT_UA_RE = /.*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*/;
+const BOT_UA_RE = /.*(Googlebot|Google-InspectionTool|Bingbot|bingbot|GPTBot|OAI-SearchBot|ChatGPT-User|ClaudeBot|Claude-SearchBot|Claude-User|Claude-Web|anthropic-ai|PerplexityBot|Perplexity-User|Applebot-Extended|cohere-ai|Google-Extended).*/i;
 
 function withVary(response, varyOn) {
   // Caches must key on the same headers we branch on, so a bot/markdown

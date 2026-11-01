@@ -27,7 +27,7 @@ This is a complete breakdown of every piece of drum gear Mike Portnoy used to re
 - **Drums:** Tama Tama Starclassic Bubinga (Black Nickel Silver finish)
 - **Snare:** Tama Tama Starclassic Bubinga Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX Evolution Series
-- **Hardware / Pedals:** Tama Power Tower Rack; Tama 1st Chair; Promark Mike Portnoy TX420N Signature
+- **Hardware / Pedals:** Tama Power Tower Rack; Tama 1st Chair; Promark Mike Portnoy TXMP420XW-AG Signature
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension — tight, punchy attack for aggressive passages; sensitivity maintained for emotional dynamics
 
@@ -92,7 +92,7 @@ For the album that preceded this and established the gear platform, see the [Sys
 
 **Q: What gear did Mike Portnoy use on Black Clouds & Silver Linings?**
 
-A: Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit — the same proven platform as Systematic Chaos (2007), seasoned over two years of touring. The configuration maintained approximately 13 drums: double 22"x18" bass drums, five rack toms (8", 10", 12", 13", 14"), and three floor toms (14", 16", 18"). Cymbals were Sabian HHX Evolution — hand-hammered, darker-toned, and capable of serving both the album's heaviest and most atmospheric passages. Sticks were his Promark Mike Portnoy TX420N Signature model. For his full career profile, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
+A: Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit — the same proven platform as Systematic Chaos (2007), seasoned over two years of touring. The configuration maintained approximately 13 drums: double 22"x18" bass drums, five rack toms (8", 10", 12", 13", 14"), and three floor toms (14", 16", 18"). Cymbals were Sabian HHX Evolution — hand-hammered, darker-toned, and capable of serving both the album's heaviest and most atmospheric passages. Sticks were his Promark Mike Portnoy TXMP420XW-AG Signature model. For his full career profile, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
 
 **Q: Why did Mike Portnoy leave Dream Theater after this album?**
 
@@ -127,4 +127,4 @@ A: The two setups are closely related — Black Clouds & Silver Linings continue
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

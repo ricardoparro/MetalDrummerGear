@@ -47,7 +47,7 @@ Chris Turner represents metalcore's push toward fusion-informed technicality, wh
 ## FAQ
 
 **Q: What are the main differences between Chris Turner's and Jaska Raatikainen's drum kits?**
-A: Chris Turner plays Tama Starclassic Maple/Birch with Meinl cymbals, while Jaska Raatikainen uses Pearl Masters Premium Maple with Zildjian cymbals. Turner plays a Tama Starclassic Maple/Birch kit with Meinl Byzance cymbals and Vic Firth American Classic 5A sticks. Raatikainen used a Pearl Masters Premium Maple kit with a Pearl Eliminator double pedal and Zildjian A Custom and K Custom cymbals.
+A: Chris Turner — Drums: Tama Starclassic Maple/Birch. Cymbals: Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China). Jaska Raatikainen — Drums: Pearl Masters Premium Maple. Cymbals: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Turner plays a Tama Starclassic Maple/Birch kit with Meinl Byzance cymbals and Vic Firth American Classic 5A sticks. Raatikainen used a Pearl Masters Premium Maple kit with a Pearl Eliminator double pedal and Zildjian A Custom and K Custom cymbals.
 
 **Q: What drums does Chris Turner play vs Jaska Raatikainen?**
 A: Chris Turner plays Tama Starclassic Maple/Birch. Jaska Raatikainen plays Pearl Masters Premium Maple.
@@ -67,4 +67,4 @@ A: Chris Turner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

@@ -12,7 +12,6 @@ Angra's Aquiles Priester vs Devin Townsend Project's Morgan Ågren — Brazilian
 
 - **Drums:** Mapex Saturn Evolution All Maple (signature kit)
 - **Cymbals:** Paiste Custom red-coated set incl. 18" Psychoctopus Giga Bell Ride
-- **Snare:** Signature snare
 - **Pedals/Hardware:** DW 9000 Series Double Pedal
 - **Sticks:** ProMark Aquiles Priester Signature
 
@@ -67,4 +66,4 @@ A: Aquiles Priester plays his own Mapex Saturn Evolution All Maple signature kit
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

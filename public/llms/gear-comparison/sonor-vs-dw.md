@@ -1,7 +1,7 @@
 # Sonor vs DW Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Sonor and DW drums used by pro metal drummers.
-> Last updated: 2026-10-30
+> Last updated: 2026-11-01
 
 Compare Sonor SQ2 and DW Collector's drums for metal. German engineering vs American craftsmanship. The ultimate premium drum kit battle.
 
@@ -9,7 +9,7 @@ Compare Sonor SQ2 and DW Collector's drums for metal. German engineering vs Amer
 
 ## Which Metal Drummers Use Sonor?
 
-Pro metal drummers who endorse Sonor include: **Tomas Haake, Danny Carey**.
+Pro metal drummers who endorse Sonor include: **Tomas Haake**.
 
 Sonor is particularly well-suited for: Progressive metal, studio work.
 
@@ -75,7 +75,7 @@ DW is used by professional metal drummers across multiple sub-genres.
 A: Sonor SQ2 for progressive and technical metal. DW for modern metal and crossover styles.
 
 **Q: Which metal drummers endorse Sonor?**
-A: Sonor is endorsed by notable metal drummers including Tomas Haake, Danny Carey. The brand is especially popular for Progressive metal, studio work.
+A: Sonor is endorsed by notable metal drummers including Tomas Haake. The brand is especially popular for Progressive metal, studio work.
 
 **Q: Which metal drummers endorse DW?**
 A: DW is endorsed by numerous metal drummers worldwide.

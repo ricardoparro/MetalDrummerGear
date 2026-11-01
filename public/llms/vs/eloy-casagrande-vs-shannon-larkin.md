@@ -47,7 +47,7 @@ Eloy Casagrande and Shannon Larkin represent two generations of hard-hitting met
 ## FAQ
 
 **Q: What are the main differences between Eloy Casagrande's and Shannon Larkin's drum kits?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals, while Shannon Larkin uses ddrum Dios Series with Sabian cymbals. Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and an extensive Paiste array including Masters Dark and 2002 cymbals, driven by a Tama Iron Cobra double pedal. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals, powered by a DW 9000 Series double pedal.
+A: Eloy Casagrande — Drums: Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Cymbals: Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong). Shannon Larkin — Drums: ddrum Dios Series. Cymbals: Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese). Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and an extensive Paiste array including Masters Dark and 2002 cymbals, driven by a Tama Iron Cobra double pedal. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals, powered by a DW 9000 Series double pedal.
 
 **Q: What drums does Eloy Casagrande play vs Shannon Larkin?**
 A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Shannon Larkin plays ddrum Dios Series.
@@ -67,4 +67,4 @@ A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride,
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

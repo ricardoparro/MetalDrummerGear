@@ -34,7 +34,7 @@ Igor fused tribal percussion with thrash aggression and signature groove pattern
 
 ## Key Differences
 
-Igor played Tama Starclassic Maple with Paiste RUDE & 2002 cymbals. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals. Igor fused tribal percussion with thrash aggression and signature groove patterns. Vinnie pioneered the heavy power-groove with punchy snare authority.
+Igor currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals, a setup adopted in 2018; from 2006-2018 he played a ddrum Hybrid Kit with Zildjian A Custom cymbals (Cavalera Conspiracy era), and before that Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals during his Sepultura years. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals. Igor fused tribal percussion with thrash aggression and signature groove patterns. Vinnie pioneered the heavy power-groove with punchy snare authority.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Igor Cavalera and Vinnie Paul are two of thrash and groove metal's most defining
 ## FAQ
 
 **Q: What are the main differences between Igor Cavalera's and Vinnie Paul's drum kits?**
-A: Igor Cavalera plays Yamaha Absolute Hybrid Maple with Zildjian cymbals, while Vinnie Paul uses ddrum (brand confirmed; specific kit series unverified) with Sabian cymbals. Igor played Tama Starclassic Maple with Paiste RUDE & 2002 cymbals. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals.
+A: Igor Cavalera — Drums: Yamaha Absolute Hybrid Maple. Cymbals: Zildjian A Custom Series. Vinnie Paul — Drums: ddrum (brand confirmed; specific kit series unverified). Cymbals: Sabian (brand per secondary sources; specific models unverified). Igor currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals, a setup adopted in 2018; from 2006-2018 he played a ddrum Hybrid Kit with Zildjian A Custom cymbals (Cavalera Conspiracy era), and before that Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals during his Sepultura years. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals.
 
 **Q: What drums does Igor Cavalera play vs Vinnie Paul?**
 A: Igor Cavalera plays Yamaha Absolute Hybrid Maple. Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified).
@@ -67,4 +67,4 @@ A: Igor Cavalera uses Zildjian A Custom Series. Vinnie Paul uses Sabian (brand p
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

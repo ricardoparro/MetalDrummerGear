@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Yamaha"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-01"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup
@@ -136,15 +136,15 @@ A: Igor Cavalera's current drum kit is a Yamaha Absolute Hybrid Maple shell pack
 
 **Q: What drum set does Igor Cavalera play?**
 
-A: Igor Cavalera's current drum set is a Yamaha Absolute Hybrid Maple kit paired with Zildjian cymbals and a Tama Iron Cobra double pedal. From 2007-2018 he played Tama Starclassic Maple shells and his S.L.P. 14"x6.5" G-Maple snare with Paiste RUDE and 2002 Series cymbals.
+A: Igor Cavalera's current drum set is a Yamaha Absolute Hybrid Maple kit paired with Zildjian cymbals and a Tama Iron Cobra double pedal. From 2007-2018 he played Tama Starclassic Maple shells and his S.L.P. 14"x6.5" G-Maple snare with Zildjian A Custom Series cymbals.
 
 **Q: What cymbals does Igor Cavalera use?**
 
-A: Igor Cavalera is a current Zildjian artist. From 2007-2018 he used Paiste RUDE and 2002 Series cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China.
+A: Igor Cavalera is a current Zildjian artist. From 2006-2018 he used Zildjian A Custom Series cymbals.
 
 **Q: What hi-hats does Igor Cavalera use?**
 
-A: Igor Cavalera currently plays 14" Zildjian hi-hats. From 2007-2018 he played 14" Paiste RUDE Hi-Hats, delivering the harsh, cutting articulation that drives Sepultura's tribal groove metal rhythms.
+A: Igor Cavalera currently plays 14" Zildjian hi-hats. From 2006-2018 he played 14" Zildjian A Custom Series Hi-Hats, delivering the harsh, cutting articulation that drives Sepultura's tribal groove metal rhythms.
 
 **Q: What snare drum does Igor Cavalera use?**
 
@@ -235,4 +235,4 @@ Dated brand-endorsement timeline: [Igor Cavalera's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

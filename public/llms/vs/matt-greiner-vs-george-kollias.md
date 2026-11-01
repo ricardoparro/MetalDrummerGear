@@ -50,7 +50,7 @@ Matt Greiner and George Kollias push different extremes of technical drumming. G
 A: Matt Greiner brings jazz-influenced dynamics and technical precision to August Burns Red's metalcore, which he has co-founded and drummed for since 2003. George Kollias pushes blast-beat endurance to its physical limits for Nile's technical death metal, sustaining speeds past 240 BPM since joining the band in 2004.
 
 **Q: What gear do Matt Greiner and George Kollias use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. George Kollias plays a Pearl Masterworks Stadium Exotic kit with his own signature 14x6.5" Pearl snare and Zildjian cymbals, powered by the Pearl Demon XR double pedal he co-designed.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. George Kollias plays a Pearl Masterworks Stadium Exotic kit with his own signature 14x6.5" Pearl snare and Zildjian cymbals, powered by the Pearl Demon XR double pedal he co-designed.
 
 **Q: What bands are Matt Greiner and George Kollias known for?**
 A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer. George Kollias has drummed for technical death metal band Nile since 2004, replacing Tony Laureano.
@@ -67,4 +67,4 @@ A: George Kollias co-designed the Pearl Demon XR pedal around his heel-toe techn
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

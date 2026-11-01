@@ -47,7 +47,7 @@ Eloy Casagrande and Jaska Raatikainen represent modern extreme metal's two techn
 ## FAQ
 
 **Q: What are the main differences between Eloy Casagrande's and Jaska Raatikainen's drum kits?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals, while Jaska Raatikainen uses Pearl Masters Premium Maple with Zildjian cymbals. Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and an extensive Paiste array including Masters Dark and 2002 cymbals, driven by a Tama Iron Cobra double pedal. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
+A: Eloy Casagrande — Drums: Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Cymbals: Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong). Jaska Raatikainen — Drums: Pearl Masters Premium Maple. Cymbals: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and an extensive Paiste array including Masters Dark and 2002 cymbals, driven by a Tama Iron Cobra double pedal. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
 
 **Q: What drums does Eloy Casagrande play vs Jaska Raatikainen?**
 A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Jaska Raatikainen plays Pearl Masters Premium Maple.
@@ -67,4 +67,4 @@ A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride,
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

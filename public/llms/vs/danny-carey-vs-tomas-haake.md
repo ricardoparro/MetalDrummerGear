@@ -47,7 +47,7 @@ Danny Carey and Tomas Haake are the two great polyrhythmic masters of modern met
 ## FAQ
 
 **Q: What are the main differences between Danny Carey's and Tomas Haake's drum kits?**
-A: Danny Carey plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Tomas Haake uses Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms) with Sabian cymbals. Danny plays Sonor SQ2 Heavy Beech drums with Paiste Signature Series cymbals, a custom Sonor 14x8" Bronze snare, and Sonor Giant Step double pedals plus Mandala electronic pads. Tomas plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals — both legends share the same drum shell yet arrive at entirely opposite musical destinations.
+A: Danny Carey — Drums: Sonor SQ2 Heavy Beech. Cymbals: Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals). Tomas Haake — Drums: Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms). Cymbals: Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China). Danny plays Sonor SQ2 Heavy Beech drums with Paiste Signature Series cymbals, a custom Sonor 14x8" Bronze snare, and Sonor Giant Step double pedals plus Mandala electronic pads. Tomas plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals — both legends share the same drum shell yet arrive at entirely opposite musical destinations.
 
 **Q: What drums does Danny Carey play vs Tomas Haake?**
 A: Danny Carey plays Sonor SQ2 Heavy Beech. Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms).
@@ -67,4 +67,4 @@ A: Danny Carey uses Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" P
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

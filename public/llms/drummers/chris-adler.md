@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/chris-adler"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-01"
 ---
 
 # Chris Adler — Drum Kit & Gear Setup
@@ -129,7 +129,7 @@ A: Chris Adler was born on November 23, 1972, in Washington, D.C., and turns 54 
 
 **Q: What drum kit does Chris Adler use?**
 
-A: Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered Lamb of God's rise to one of the most successful American metal bands of the 21st century. Its dry, focused tone anchors his groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath.
+A: Chris Adler plays a Mapex Saturn in Satin Black Maple Burl drum kit — the configuration that powered Lamb of God's rise to one of the most successful American metal bands of the 21st century. Its dry, focused tone anchors his groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath.
 
 **Q: What drum set does Chris Adler use?**
 
@@ -238,4 +238,4 @@ Dated brand-endorsement timeline: [Chris Adler's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

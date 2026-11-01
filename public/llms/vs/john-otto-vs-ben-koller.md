@@ -47,7 +47,7 @@ John Otto and Ben Koller show just how differently groove and chaos can define h
 ## FAQ
 
 **Q: What are the main differences between John Otto's and Ben Koller's drum kits?**
-A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals, while Ben Koller uses Tama Starclassic Performer B/B with Zildjian cymbals. Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals. Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, powered by a Tama Iron Cobra Double Pedal.
+A: John Otto — Drums: Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. Cymbals: Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom). Ben Koller — Drums: Tama Starclassic Performer B/B. Cymbals: Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hats, 18" & 19" K Custom Medium Thin Crashes, 21" K Custom Ride, 18" K China). Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals. Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, powered by a Tama Iron Cobra Double Pedal.
 
 **Q: What drums does John Otto play vs Ben Koller?**
 A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. Ben Koller plays Tama Starclassic Performer B/B.
@@ -67,4 +67,4 @@ A: John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

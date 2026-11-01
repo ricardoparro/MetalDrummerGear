@@ -22,7 +22,7 @@ Slipknot's Joey Jordison vs Dream Theater's Mike Portnoy. Extreme metal speed vs
 - **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14x5.5"
 - **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
-- **Sticks:** Promark Mike Portnoy Signature TX420N
+- **Sticks:** Promark Mike Portnoy Signature TXMP420XW-AG
 
 ## Playing Style
 
@@ -47,7 +47,7 @@ Two different paths to drumming greatness. Joey Jordison brought extreme metal t
 ## FAQ
 
 **Q: What are the main differences between Joey Jordison's and Mike Portnoy's drum kits?**
-A: Joey Jordison plays Pearl Reference Series with Paiste cymbals, while Mike Portnoy uses Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian cymbals. Joey played Pearl drums with Paiste cymbals. Mike uses Tama drums with Sabian cymbals for his iconic sound.
+A: Joey Jordison — Drums: Pearl Reference Series. Cymbals: Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride). Mike Portnoy — Drums: Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Cymbals: Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes). Joey played Pearl drums with Paiste cymbals. Mike uses Tama drums with Sabian cymbals for his iconic sound.
 
 **Q: What drums does Joey Jordison play vs Mike Portnoy?**
 A: Joey Jordison plays Pearl Reference Series. Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit).
@@ -67,4 +67,4 @@ A: Joey Jordison uses Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18"
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

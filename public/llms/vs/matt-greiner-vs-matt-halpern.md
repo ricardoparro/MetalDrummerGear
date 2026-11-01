@@ -47,7 +47,7 @@ Matt Greiner and Matt Halpern represent two defining faces of modern heavy music
 ## FAQ
 
 **Q: What are the main differences between Matt Greiner's and Matt Halpern's drum kits?**
-A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Matt Halpern uses Pearl Reference Series with Meinl cymbals. Greiner plays a Mapex Black Panther Design Lab kit with Paiste Formula 602 cymbals and a DW 9000 Series double pedal. Halpern uses Pearl Reference Series with Meinl Byzance cymbals (Traditional Medium hi-hats, Traditional Extra Thin Hammered crashes, Dark Double Down Crash-Ride) plus his signature Artist Concept Double Down Stack — Halpern's Pearl/Meinl Byzance rig contrasts with Greiner's Mapex/Paiste setup.
+A: Matt Greiner — Drums: Mapex Black Panther Design Lab. Cymbals: Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). Matt Halpern — Drums: Pearl Reference Series. Cymbals: Meinl Byzance Series (14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack"). Greiner plays a Mapex Black Panther Design Lab kit with Paiste Formula 602 cymbals and a DW 9000 Series double pedal. Halpern uses Pearl Reference Series with Meinl Byzance cymbals (Traditional Medium hi-hats, Traditional Extra Thin Hammered crashes, Dark Double Down Crash-Ride) plus his signature Artist Concept Double Down Stack — Halpern's Pearl/Meinl Byzance rig contrasts with Greiner's Mapex/Paiste setup.
 
 **Q: What drums does Matt Greiner play vs Matt Halpern?**
 A: Matt Greiner plays Mapex Black Panther Design Lab. Matt Halpern plays Pearl Reference Series.
@@ -67,4 +67,4 @@ A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" R
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

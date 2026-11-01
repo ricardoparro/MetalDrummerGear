@@ -15,7 +15,7 @@
 const { execFileSync } = require('child_process');
 
 const REPO_ROOT = execFileSync('git', ['rev-parse', '--show-toplevel'], { encoding: 'utf-8' }).trim();
-const LLMS_PATH = 'public/llms';
+const LLMS_PATHS = ['public/llms', 'public/llms-full.txt'];
 
 // Lines carrying the volatile "generated today" stamp — the only ones where
 // an ISO date is allowed to differ without counting as real drift.
@@ -33,7 +33,7 @@ function git(args) {
 // Diffs one modified file with zero context and reports whether every
 // changed hunk is *only* a date-stamp substitution.
 function isDateOnlyChange(path) {
-  const diff = git(['diff', '--no-color', '-U0', '--', path]);
+  const diff = git(['diff', 'HEAD', '--no-color', '-U0', '--', path]);
   const hunks = diff.split(/^@@.*@@.*$/m).slice(1);
   for (const hunk of hunks) {
     const removed = [];
@@ -50,7 +50,7 @@ function isDateOnlyChange(path) {
   return true;
 }
 
-const status = git(['status', '--porcelain', '--', LLMS_PATH])
+const status = git(['status', '--porcelain', '--', ...LLMS_PATHS])
   .split('\n')
   .filter(Boolean)
   .map(line => ({ code: line.slice(0, 2), path: line.slice(3) }));
@@ -68,12 +68,13 @@ for (const { code, path } of status) {
 }
 
 if (drifted.length) {
-  console.error(`public/llms/ has drifted from what the generators currently produce (${drifted.length} file(s)):\n`);
+  console.error(`LLM output has drifted from what the generators currently produce (${drifted.length} file(s)):\n`);
   console.error(drifted.join('\n'));
   console.error('\nRun `npm run generate:llms` and commit the results.\n');
-  console.error('Full diff:\n');
-  console.error(git(['diff', '--no-color', '--', LLMS_PATH]));
+  if (process.argv.includes('--verbose')) {
+    console.error(git(['diff', 'HEAD', '--no-color', '--', ...LLMS_PATHS]));
+  }
   process.exit(1);
 }
 
-console.log('public/llms/ is up to date with source data.');
+console.log('public/llms/ and public/llms-full.txt are up to date with source data.');

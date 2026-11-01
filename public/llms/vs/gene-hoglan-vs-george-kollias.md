@@ -47,7 +47,7 @@ Gene Hoglan earned "The Atomic Clock" nickname through legendary precision acros
 ## FAQ
 
 **Q: What are the main differences between Gene Hoglan's and George Kollias's drum kits?**
-A: Gene Hoglan plays Pearl Reference Pure with Sabian cymbals, while George Kollias uses Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals. Gene endorses Pearl drums for power and projection with signature sticks. George plays Pearl drums with Pearl Demon XR pedals for ultimate speed.
+A: Gene Hoglan — Drums: Pearl Reference Pure. Cymbals: Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). George Kollias — Drums: Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware). Cymbals: Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). Gene endorses Pearl drums for power and projection with signature sticks. George plays Pearl drums with Pearl Demon XR pedals for ultimate speed.
 
 **Q: What drums does Gene Hoglan play vs George Kollias?**
 A: Gene Hoglan plays Pearl Reference Pure. George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware).
@@ -67,4 +67,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

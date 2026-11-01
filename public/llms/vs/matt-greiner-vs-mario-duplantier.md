@@ -47,7 +47,7 @@ Matt Greiner and Mario Duplantier both push progressive songwriting into heavy m
 ## FAQ
 
 **Q: What are the main differences between Matt Greiner's and Mario Duplantier's drum kits?**
-A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Mario Duplantier uses Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals. Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride.
+A: Matt Greiner — Drums: Mapex Black Panther Design Lab. Cymbals: Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). Mario Duplantier — Drums: Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom). Cymbals: Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas). Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride.
 
 **Q: What drums does Matt Greiner play vs Mario Duplantier?**
 A: Matt Greiner plays Mapex Black Panther Design Lab. Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom).
@@ -67,4 +67,4 @@ A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" R
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

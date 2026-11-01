@@ -22,7 +22,7 @@ With over 30 Modern Drummer awards, induction into their Hall of Fame in 2007, a
 - **Drums:** Tama Tama Starclassic Maple/Birch (Custom Lacquer finishes (varies by tour) finish)
 - **Snare:** Tama Mike Portnoy Signature Melody Master Snare, 14" x 5.5"
 - **Cymbals:** Sabian — Sabian HHX Series
-- **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Tama Iron Cobra Lever Glide Hi-Hat Stand; Tama Iron Cobra Remote Hi-Hat; Tama 1st Chair Ergo-Rider Throne; Promark Mike Portnoy TX420N Signature; Tama Power Tower System
+- **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Tama Iron Cobra Lever Glide Hi-Hat Stand; Tama Iron Cobra Remote Hi-Hat; Tama 1st Chair Ergo-Rider Throne; Promark Mike Portnoy TXMP420XW-AG Signature; Tama Power Tower System
 - **Heads:** Remo Coated Powerstroke 77 (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high for crack and sensitivity, adjusted per song
 
@@ -136,4 +136,4 @@ A: A Tama Starclassic Maple and Birch kit in Portnoy's configuration with Octoba
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

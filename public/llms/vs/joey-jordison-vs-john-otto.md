@@ -47,7 +47,7 @@ Joey Jordison redefined nu-metal's technical ceiling. John Otto exemplified groo
 ## FAQ
 
 **Q: What are the main differences between Joey Jordison's and John Otto's drum kits?**
-A: Joey Jordison plays Pearl Reference Series with Paiste cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. Joey played Pearl drums with custom kits. John plays an OCDP (Orange County Drum & Percussion) custom kit with emphasis on tight, punchy tones.
+A: Joey Jordison — Drums: Pearl Reference Series. Cymbals: Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride). John Otto — Drums: Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. Cymbals: Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom). Joey played Pearl drums with custom kits. John plays an OCDP (Orange County Drum & Percussion) custom kit with emphasis on tight, punchy tones.
 
 **Q: What drums does Joey Jordison play vs John Otto?**
 A: Joey Jordison plays Pearl Reference Series. John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic.
@@ -67,4 +67,4 @@ A: Joey Jordison uses Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18"
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

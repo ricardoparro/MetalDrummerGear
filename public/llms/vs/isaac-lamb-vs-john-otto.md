@@ -47,7 +47,7 @@ Isaac Lamb and John Otto both built their identities around groove over flash �
 ## FAQ
 
 **Q: What are the main differences between Isaac Lamb's and John Otto's drum kits?**
-A: Isaac Lamb plays Not publicly documented with Not cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. No gear endorsement of any kind is publicly documented for Lamb. Otto plays an OCDP Custom Type 5 Acrylic kit with Zildjian A Custom cymbals and Gibraltar Professional Series bass drum pedals.
+A: Isaac Lamb — Drums: Not publicly documented. Cymbals: Not publicly documented. John Otto — Drums: Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. Cymbals: Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom). No gear endorsement of any kind is publicly documented for Lamb. Otto plays an OCDP Custom Type 5 Acrylic kit with Zildjian A Custom cymbals and Gibraltar Professional Series bass drum pedals.
 
 **Q: What drums does Isaac Lamb play vs John Otto?**
 A: Isaac Lamb plays Not publicly documented. John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic.
@@ -67,4 +67,4 @@ A: Isaac Lamb uses Not publicly documented. John Otto uses Zildjian (13" A Custo
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

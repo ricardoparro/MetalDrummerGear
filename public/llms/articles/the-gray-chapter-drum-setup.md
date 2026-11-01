@@ -75,7 +75,7 @@ See [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup)
 
 ## Key Facts
 
-- Jay Weinberg joined Slipknot in 2013, replacing Joey Jordison at age 22
+- Jay Weinberg joined Slipknot in 2014, replacing Joey Jordison at age 22
 - Recorded at Shangri-La Studios, Malibu with producer Greg Fidelman
 - Album debuted #1 UK, #5 US — Slipknot's highest US chart position at the time
 - SJC Custom Drums kit — an endorsement Weinberg had held since 2009, five years before joining Slipknot
@@ -97,7 +97,7 @@ A: Jay Weinberg used an SJC Custom Drums kit on .5: The Gray Chapter (2014) — 
 
 **Q: When did Jay Weinberg join Slipknot?**
 
-A: Jay Weinberg joined Slipknot in 2013, replacing founding drummer Joey Jordison. His appointment was kept secret for months; the band recorded .5: The Gray Chapter at Shangri-La Studios in Malibu with Weinberg behind the kit before publicly announcing him as the new drummer. The Gray Chapter was released in October 2014 and was Jay's studio debut with the band. He remained Slipknot's drummer until November 2023.
+A: Jay Weinberg joined Slipknot in 2014, replacing founding drummer Joey Jordison. His appointment was kept secret for months; the band recorded .5: The Gray Chapter at Shangri-La Studios in Malibu with Weinberg behind the kit before publicly announcing him as the new drummer. The Gray Chapter was released in October 2014 and was Jay's studio debut with the band. He remained Slipknot's drummer until November 2023.
 
 **Q: What cymbals does Jay Weinberg use on The Gray Chapter?**
 
@@ -123,4 +123,4 @@ A: Jay Weinberg uses the DW 9000 Series double bass pedal for Slipknot, includin
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

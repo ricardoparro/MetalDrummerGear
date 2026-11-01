@@ -47,7 +47,7 @@ Dave Lombardo is the godfather of thrash metal drumming — his groove-powered d
 ## FAQ
 
 **Q: What are the main differences between Dave Lombardo's and Pete Sandoval's drum kits?**
-A: Dave Lombardo plays Tama Starclassic Walnut/Birch with Paiste cymbals, while Pete Sandoval uses ddrum (specific series unconfirmed) with Cymbal cymbals. Lombardo plays Tama Starclassic Walnut/Birch drums with Paiste RUDE cymbals and Tama Iron Cobra double pedals. Sandoval played a ddrum kit (exact model undocumented) with hardware to match during his classic Morbid Angel years; his cymbal brand was never publicly confirmed.
+A: Dave Lombardo — Drums: Tama Starclassic Walnut/Birch. Cymbals: Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China). Pete Sandoval — Drums: ddrum (specific series unconfirmed). Cymbals: Cymbal brand/model not publicly documented. Lombardo plays Tama Starclassic Walnut/Birch drums with Paiste RUDE cymbals and Tama Iron Cobra double pedals. Sandoval played a ddrum kit (exact model undocumented) with hardware to match during his classic Morbid Angel years; his cymbal brand was never publicly confirmed.
 
 **Q: What drums does Dave Lombardo play vs Pete Sandoval?**
 A: Dave Lombardo plays Tama Starclassic Walnut/Birch. Pete Sandoval plays ddrum (specific series unconfirmed).
@@ -67,4 +67,4 @@ A: Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 1
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

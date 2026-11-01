@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/ben-koller"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-01"
 ---
 
 # Ben Koller — Drum Kit & Gear Setup
@@ -200,7 +200,7 @@ Full breakdown: [Ben Koller's cymbal setup](https://metalforge.io/cymbals/setups
 
 ## Pedal
 
-Ben Koller plays a Tama Iron Cobra 900 double pedal (chain-drive).
+Ben Koller plays a Tama Iron Cobra Double Pedal double pedal (chain-drive).
 
 Full breakdown: [Ben Koller's pedal setup](https://metalforge.io/pedals/setups/ben-koller).
 
@@ -235,4 +235,4 @@ Dated brand-endorsement timeline: [Ben Koller's endorsement history](https://met
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

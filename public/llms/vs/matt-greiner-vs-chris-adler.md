@@ -50,7 +50,7 @@ Matt Greiner and Chris Adler represent two distinct technical schools within mod
 A: Matt Greiner brings jazz-influenced dynamics and technical precision to August Burns Red's metalcore, which he has co-founded and drummed for since 2003. Chris Adler spent 25 years with Lamb of God, inventing a ride-bell-driven groove technique that became foundational to modern groove metal before departing in 2019.
 
 **Q: What gear do Matt Greiner and Chris Adler use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Chris Adler played a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature 14x5.5" snare and Meinl Byzance cymbals, driven by a Trick Pro V double pedal.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Chris Adler played a Mapex Saturn in Satin Black Maple Burl kit with a Mapex Chris Adler Signature 14x5.5" snare and Meinl Byzance cymbals, driven by a Trick Pro V double pedal.
 
 **Q: Is Chris Adler still in Lamb of God?**
 A: No — Chris Adler stepped away from Lamb of God in 2019 after 25 years as the band's drummer, and was replaced by Art Cruz. Adler also briefly filled in for Megadeth in 2015-2016, recording the Grammy-winning "Dystopia."
@@ -67,4 +67,4 @@ A: Matt Greiner is known for jazz-influenced dynamics and meticulous composition
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

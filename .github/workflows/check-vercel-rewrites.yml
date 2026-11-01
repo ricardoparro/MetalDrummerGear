@@ -13,12 +13,26 @@ on:
       - 'scripts/check-vercel-rewrites.cjs'
       - 'api/meta/[...path].js'
       - 'vercel.json'
+      - 'middleware.js'
+      - 'tests/**'
+      - 'scripts/generate-all-llms.cjs'
+      - 'scripts/generate-llms-vs.cjs'
+      - 'scripts/generate-llms-battles.cjs'
+      - 'package.json'
+      - 'package-lock.json'
   pull_request:
     paths:
       - '.github/workflows/check-vercel-rewrites.yml'
       - 'scripts/check-vercel-rewrites.cjs'
       - 'api/meta/[...path].js'
       - 'vercel.json'
+      - 'middleware.js'
+      - 'tests/**'
+      - 'scripts/generate-all-llms.cjs'
+      - 'scripts/generate-llms-vs.cjs'
+      - 'scripts/generate-llms-battles.cjs'
+      - 'package.json'
+      - 'package-lock.json'
 
 permissions:
   contents: read
@@ -34,3 +48,7 @@ jobs:
           node-version: '20'
       - name: Check for missing bot-UA rewrites
         run: node scripts/check-vercel-rewrites.cjs
+      - name: Install test dependencies
+        run: npm ci --ignore-scripts --no-audit --no-fund
+      - name: Run crawler and generation regressions
+        run: npm test

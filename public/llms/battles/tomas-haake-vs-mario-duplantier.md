@@ -52,7 +52,7 @@ Mario Duplantier, born in 1981 in Bayonne, France, is the drummer and co-founder
 ## FAQ
 
 **Q: Who has the more expensive drum kit, Tomas Haake or Mario Duplantier?**  
-A: Tomas Haake's Sonor SQ2 Heavy Beech + Sabian HHX & AAX is estimated at $18,000–$25,000, while Mario Duplantier's Tama Starclassic Bubinga + Zildjian K/A Custom runs approximately $10,000–$16,000. Both setups are professional-grade rigs well into five-figure territory when fully configured with all cymbals, hardware, and electronics.
+A: Tomas Haake's Sonor SQ2 Heavy Beech + Sabian HHX & AAX is estimated at $18,000–$25,000, while Mario Duplantier's Tama Starclassic Bubinga + Zildjian K/A Custom runs approximately $10,000–$16,000. See the full battle for the documented setups.
 
 **Q: What are the main gear differences between Tomas Haake and Mario Duplantier?**  
 A: Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms) paired with Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China). Mario Duplantier opts for Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/tomas-haake-vs-mario-duplantier](https://metalforge.io/battles/tomas-haake-vs-mario-duplantier).
@@ -74,4 +74,4 @@ A: Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Ar
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*

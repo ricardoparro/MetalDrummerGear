@@ -90,9 +90,9 @@ function buildGearSection(drummer, drummerName) {
   }
   const g = drummer.gear || {};
   const lines = [
-    gearLine('Drums', g.drums, 'Custom setup'),
-    gearLine('Cymbals', g.cymbals, 'Custom cymbal selection'),
-    gearLine('Snare', g.snare, 'Signature snare'),
+    gearLine('Drums', g.drums, null),
+    gearLine('Cymbals', g.cymbals, null),
+    gearLine('Snare', g.snare, null),
     gearLine('Pedals/Hardware', g.hardware, g.pedals || null),
     gearLine('Sticks', g.sticks, null),
   ].filter(Boolean);
@@ -115,18 +115,15 @@ function buildKeyDifferences(c, d1, d2) {
 }
 
 function buildFAQAnswer(c, d1Name, d2Name, d1, d2) {
-  const g1 = d1 && d1.gear ? d1.gear : null;
-  const g2 = d2 && d2.gear ? d2.gear : null;
-  const kit1 = g1 ? g1.drums || 'custom drums' : 'custom drums';
-  const kit2 = g2 ? g2.drums || 'custom drums' : 'custom drums';
-  const cymbals1 = g1 ? (g1.cymbals || '').split(' ')[0] || 'signature cymbals' : 'signature cymbals';
-  const cymbals2 = g2 ? (g2.cymbals || '').split(' ')[0] || 'signature cymbals' : 'signature cymbals';
-
-  let gearDiff = '';
-  if (c.comparison && c.comparison.gear) {
-    gearDiff = ` ${c.comparison.gear.trim()}`;
-  }
-  return `${d1Name} plays ${kit1} with ${cymbals1} cymbals, while ${d2Name} uses ${kit2} with ${cymbals2} cymbals.${gearDiff}`;
+  const describe = (name, drummer) => {
+    const facts = [
+      drummer?.gear?.drums && `Drums: ${drummer.gear.drums}.`,
+      drummer?.gear?.cymbals && `Cymbals: ${drummer.gear.cymbals}.`,
+    ].filter(Boolean);
+    return facts.length ? `${name} — ${facts.join(' ')}` : `Gear details for ${name} are not documented here.`;
+  };
+  const gearDiff = c.comparison?.gear ? ` ${c.comparison.gear.trim()}` : '';
+  return `${describe(d1Name, d1)} ${describe(d2Name, d2)}${gearDiff}`;
 }
 
 function buildVerdict(c) {
@@ -305,31 +302,37 @@ function buildMarkdown(c) {
 }
 
 // --- Generate files --------------------------------------------------------
-const outDir = path.join(__dirname, '../public/llms/vs');
-fs.mkdirSync(outDir, { recursive: true });
+function main() {
+  const outDir = path.join(__dirname, '../public/llms/vs');
+  fs.mkdirSync(outDir, { recursive: true });
 
-const compList = Object.values(drummerComparisons);
-let written = 0;
-let minWords = Infinity;
-const results = [];
+  const compList = Object.values(drummerComparisons);
+  let written = 0;
+  let minWords = Infinity;
+  const results = [];
 
-for (const c of compList) {
-  if (!c.slug) continue;
-  const md = buildMarkdown(c);
-  const outPath = path.join(outDir, `${c.slug}.md`);
-  fs.writeFileSync(outPath, md, 'utf-8');
-  const words = md.split(/\s+/).filter(Boolean).length;
-  if (words < minWords) minWords = words;
-  results.push({ slug: c.slug, words });
-  written++;
+  for (const c of compList) {
+    if (!c.slug) continue;
+    const md = buildMarkdown(c);
+    const outPath = path.join(outDir, `${c.slug}.md`);
+    fs.writeFileSync(outPath, md, 'utf-8');
+    const words = md.split(/\s+/).filter(Boolean).length;
+    if (words < minWords) minWords = words;
+    results.push({ slug: c.slug, words });
+    written++;
+  }
+
+  console.log(`✅ Generated public/llms/vs/*.md — ${written} comparison files (min ${minWords} words/file)`);
+  const failing = results.filter(r => r.words < 200);
+  if (failing.length > 0) {
+    console.warn(`⚠️  ${failing.length} file(s) below 200-word minimum:`);
+    for (const r of failing) console.warn(`   ${r.slug}: ${r.words} words`);
+  }
+  for (const r of results) {
+    console.log(`   ${r.slug}: ${r.words} words`);
+  }
+
 }
 
-console.log(`✅ Generated public/llms/vs/*.md — ${written} comparison files (min ${minWords} words/file)`);
-const failing = results.filter(r => r.words < 200);
-if (failing.length > 0) {
-  console.warn(`⚠️  ${failing.length} file(s) below 200-word minimum:`);
-  for (const r of failing) console.warn(`   ${r.slug}: ${r.words} words`);
-}
-for (const r of results) {
-  console.log(`   ${r.slug}: ${r.words} words`);
-}
+if (require.main === module) main();
+module.exports = { buildGearSection, buildFAQAnswer };

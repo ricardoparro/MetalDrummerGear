@@ -63,7 +63,7 @@ export const articles = {
         ],
         "shells": "Bubinga/Birch hybrid shells"
       },
-      "description": "For Slipknot, Eloy upgraded to Tama's flagship Starclassic Bubinga series — the same shells trusted by metal drummers worldwide for their combination of attack, projection, and controlled low-end.\n\nThe Bubinga/Birch hybrid construction offers the best of both worlds: Bubinga's exotic warmth and powerful low frequencies paired with Birch's focused attack and cut. This combination is essential for Slipknot's dense sonic landscape, where drums must punch through nine-member chaos without getting lost.\n\nEloy's Slipknot configuration is more expansive than his Sepultura setup, featuring double 22\" bass drums and five toms (three rack, two floor). The additional rack tom gives him more melodic options during the complex fills Slipknot material demands.\n\nThe custom finish — a striking black with red tribal accents — was designed specifically for Slipknot's visual aesthetic. Each kit is built to withstand the punishment of Slipknot's explosive live shows, where drums must survive not just aggressive playing but the physical intensity of masked performance in hot stage conditions.\n\nNotably, Eloy's dual 22\" bass drums are driven by a single Tama Speed Cobra 910 double pedal rather than two independent pedals, one per drum. This double-pedal configuration, common among extreme metal drummers, delivers the speed and power his double-bass patterns require through one mechanical unit.",
+      "description": "For Slipknot, Eloy upgraded to Tama's flagship Starclassic Bubinga series — the same shells trusted by metal drummers worldwide for their combination of attack, projection, and controlled low-end.\n\nThe Bubinga/Birch hybrid construction offers the best of both worlds: Bubinga's exotic warmth and powerful low frequencies paired with Birch's focused attack and cut. This combination is essential for Slipknot's dense sonic landscape, where drums must punch through nine-member chaos without getting lost.\n\nEloy's Slipknot configuration is more expansive than his Sepultura setup, featuring double 22\" bass drums and five toms (three rack, two floor). The additional rack tom gives him more melodic options during the complex fills Slipknot material demands.\n\nThe custom finish — a striking black with red tribal accents — was designed specifically for Slipknot's visual aesthetic. Each kit is built to withstand the punishment of Slipknot's explosive live shows, where drums must survive not just aggressive playing but the physical intensity of masked performance in hot stage conditions.\n\nNotably, Eloy's dual 22\" bass drums are driven by a single Tama Iron Cobra Double Pedal rather than two independent pedals, one per drum. This double-pedal configuration, common among extreme metal drummers, delivers the speed and power his double-bass patterns require through one mechanical unit.",
       "notes": [
         "Double 22\"x18\" bass drums for maximum low-end attack",
         "Bubinga/Birch hybrid for warmth + cut balance",
@@ -76,13 +76,13 @@ export const articles = {
     "snare": {
       "title": "The Crack That Cuts Through Chaos",
       "brand": "Tama",
-      "model": "Tama S.L.P. Sonic Steel 14\"x6\"",
-      "size": "14\" x 6\"",
-      "shell": "1.2mm Steel",
-      "description": "For Slipknot's massive sound, Eloy relies on Tama's S.L.P. Sonic Steel — a 1.2mm steel shell that delivers the explosive crack needed to cut through nine musicians playing at stadium volume.\n\nThe thinner steel shell vibrates more freely than heavier alternatives, producing a brighter, more sensitive tone that responds to Eloy's dynamic playing. This sensitivity is crucial for the ghost notes and subtle touches that separate good drummers from great ones.\n\nAt 14\" x 6\", it's a standard depth that balances crack with body. Eloy tunes it on the higher side for maximum cut, essential when competing with Slipknot's wall of distorted guitars, samples, and percussion.\n\nThe S.L.P. (Sound Lab Project) series represents Tama's experimental approach to shell materials. The Sonic Steel's seamless 1.2mm shell delivers projection that rivals much heavier drums while maintaining playability for fast, technical passages.\n\nFor Slipknot's outdoor festival appearances, the steel snare's projection is invaluable. Where wood snares might get lost in open-air venues, the Sonic Steel's metallic cut ensures every backbeat lands with authority.",
+      "model": "Tama Bell Brass (BB146) 14\"x5.5\"",
+      "size": "14\" x 5.5\"",
+      "shell": "Brass (BB146)",
+      "description": "For Slipknot's massive sound, Eloy relies on Tama's Bell Brass BB146 — a cast bell-brass shell that delivers the explosive crack needed to cut through nine musicians playing at stadium volume.\n\nBrass shells vibrate more freely than heavier wood alternatives, producing a brighter, more sensitive tone that responds to Eloy's dynamic playing. This sensitivity is crucial for the ghost notes and subtle touches that separate good drummers from great ones.\n\nAt 14\" x 5.5\", it's a standard depth that balances crack with body. Eloy tunes it on the higher side for maximum cut, essential when competing with Slipknot's wall of distorted guitars, samples, and percussion.\n\nThe Bell Brass line represents Tama's premium metal-shell snare offering. The BB146's cast construction delivers projection that rivals much heavier drums while maintaining playability for fast, technical passages.\n\nFor Slipknot's outdoor festival appearances, the brass snare's projection is invaluable. Where wood snares might get lost in open-air venues, the Bell Brass's metallic cut ensures every backbeat lands with authority.",
       "tuningSetting": "Medium-high for maximum cut and crack",
       "heads": "Evans (batter and resonant)",
-      "estimatedValue": "$400-550 (S.L.P. series)"
+      "estimatedValue": "$400-550 (Bell Brass BB146)"
     },
     "cymbals": {
       "title": "Paiste Arsenal: RUDE Power for Stadium Sound",
@@ -153,9 +153,9 @@ export const articles = {
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama Speed Cobra 910 Double Pedal",
-          "notes": "Rolling Glide cam for smooth, fast action across both bass drums",
-          "description": "Eloy drives his dual bass drums with a single Tama Speed Cobra 910 double pedal. The Speed Cobra's smooth Rolling Glide cam and lightweight footboard deliver the effortless speed needed for Slipknot's demanding double-bass passages."
+          "model": "Tama Iron Cobra Double Pedal",
+          "notes": "Cam-driven power and speed across both bass drums",
+          "description": "Eloy drives his dual bass drums with a single Tama Iron Cobra Double Pedal. The Iron Cobra's cam-driven design and sturdy footboard deliver the reliable speed needed for Slipknot's demanding double-bass passages."
         },
         {
           "type": "Hi-Hat Stand",
@@ -256,7 +256,7 @@ export const articles = {
         "description": "Joining Sepultura at 20, earning pro-level gear.",
         "gear": {
           "drums": "Tama Starclassic Bubinga",
-          "snare": "Tama S.L.P.",
+          "snare": "Tama Bell Brass (BB146)",
           "cymbals": "Paiste RUDE/2002",
           "hardware": "Tama Iron Cobra"
         },
@@ -272,9 +272,9 @@ export const articles = {
         "description": "Establishing himself as one of metal's elite drummers.",
         "gear": {
           "drums": "Tama Starclassic Bubinga (expanded)",
-          "snare": "Multiple Tama S.L.P. options",
+          "snare": "Tama Bell Brass (BB146)",
           "cymbals": "Full Paiste RUDE arsenal",
-          "hardware": "Tama Speed Cobra"
+          "hardware": "Tama Iron Cobra"
         },
         "notes": "Promark stick endorsement. Modern Drummer recognition grows."
       },
@@ -287,9 +287,9 @@ export const articles = {
         "description": "The biggest stage in metal demands the biggest sound.",
         "gear": {
           "drums": "Tama Starclassic Bubinga (custom Slipknot finish)",
-          "snare": "Tama S.L.P. Sonic Steel 14\"x6\"",
+          "snare": "Tama Bell Brass (BB146) 14\"x5.5\"",
           "cymbals": "Paiste RUDE/2002/PST X expanded",
-          "hardware": "Tama Speed Cobra 910, full Iron Cobra rack"
+          "hardware": "Tama Iron Cobra Double Pedal, full Iron Cobra rack"
         },
         "notes": "Custom everything for Slipknot's stadium-level demands. Kit expanded to match the show's scale."
       }
@@ -351,10 +351,10 @@ export const articles = {
           "notes": "Custom configuration; standard Bubinga finish available"
         },
         {
-          "item": "Tama S.L.P. Sonic Steel 14\" x 6\"",
+          "item": "Tama Bell Brass (BB146) 14\" x 5.5\"",
           "available": true,
           "priceRange": "$400-550",
-          "notes": "Bright, cutting steel snare"
+          "notes": "Bright, cutting brass snare"
         },
         {
           "item": "Paiste RUDE 14\" Hi-Hats",
@@ -381,10 +381,10 @@ export const articles = {
           "notes": "Aggressive accent cymbals"
         },
         {
-          "item": "Tama Speed Cobra 910 Double Pedal",
+          "item": "Tama Iron Cobra Double Pedal",
           "available": true,
           "priceRange": "$250-300",
-          "notes": "Rolling Glide cam for speed"
+          "notes": "Cam-driven power and speed"
         },
         {
           "item": "Promark Drumsticks",
@@ -411,7 +411,7 @@ export const articles = {
       },
       {
         "question": "How much does Eloy Casagrande's drum kit cost?",
-        "answer": "A Tama Starclassic Bubinga kit matching Casagrande's configuration currently costs between $6,000 and $9,000. His Tama S.L.P. Sonic Steel snare adds approximately $400 to $550. A comparable Paiste RUDE and 2002 cymbal setup will run an additional $2,000 to $3,500. Total investment to approximate his full setup is in the range of $8,400 to $13,000."
+        "answer": "A Tama Starclassic Bubinga kit matching Casagrande's configuration currently costs between $6,000 and $9,000. His Tama Bell Brass (BB146) snare adds approximately $400 to $550. A comparable Paiste RUDE and 2002 cymbal setup will run an additional $2,000 to $3,500. Total investment to approximate his full setup is in the range of $8,400 to $13,000."
       }
     ],
     "conclusion": {
@@ -494,10 +494,10 @@ export const articles = {
     "snare": {
       "title": "Snare: Definition for Eloy's Sepultura Debut",
       "brand": "Tama",
-      "model": "Tama S.L.P. Sonic Steel",
+      "model": "Tama Bell Brass (BB146)",
       "size": "14\" x 5.5\"",
-      "shell": "Steel shell for focused crack and projection",
-      "description": "Eloy's snare on *Machine Messiah* delivered the focused crack needed to anchor Sepultura's dense thrash arrangements. A steel shell construction provides the immediate, defined attack that cuts through distorted guitars without losing presence in a heavy mix — essential for a band recording in the same territory as Sepultura's classic catalog.\n\nJens Bogren's engineering at Fascination Street captured the snare's natural character: bright enough to assert authority in the mix, with enough body to support the dynamic passages that *Machine Messiah* required. The result was a snare voice that established Eloy's rhythmic authority from his very first Sepultura studio record.",
+      "shell": "Brass shell for focused crack and projection",
+      "description": "Eloy's snare on *Machine Messiah* delivered the focused crack needed to anchor Sepultura's dense thrash arrangements. A brass shell construction provides the immediate, defined attack that cuts through distorted guitars without losing presence in a heavy mix — essential for a band recording in the same territory as Sepultura's classic catalog.\n\nJens Bogren's engineering at Fascination Street captured the snare's natural character: bright enough to assert authority in the mix, with enough body to support the dynamic passages that *Machine Messiah* required. The result was a snare voice that established Eloy's rhythmic authority from his very first Sepultura studio record.",
       "tuningSetting": "Medium-high for definition and projection across tempo range",
       "heads": "Evans (batter and resonant)",
       "estimatedValue": "$350-500 (2017)"
@@ -629,7 +629,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "Machine Messiah to Quadra: Three Years of Refinement",
-      "content": "*Machine Messiah* (2017) is the opening chapter of the arc that runs through *Quadra* (2020) and on to Eloy's 2024 move to Slipknot. The gear Eloy used to record this album — Tama Starclassic Walnut/Birch, Paiste 2002/RUDE, Iron Cobra 900 — represents his professional foundation, the setup of a 24-year-old who had already mastered his instrument but had not yet reached the peak recorded performance he would deliver on *Quadra*.\n\n**The Gear Evolution:**\nBy *Quadra* (2020), Eloy's Tama and Paiste endorsements carried forward largely unchanged, with the pedals shifting from Iron Cobra 900 to Tama Speed Cobra for even lighter footboard response — a refinement rather than a brand change, reflecting career growth and the demands of *Quadra*'s more compositionally ambitious material.\n\n**The Sepultura Arc:**\n*Machine Messiah* sits precisely between Sepultura's pre-Eloy catalog — documented in the [Schizophrenia drum setup](/articles/schizophrenia-drum-setup) (Igor Cavalera era) — and the definitive Eloy statement of [Quadra (2020)](/articles/quadra-drum-setup). It is the debut, the proof of concept, the album that established Eloy's voice within a band that had already defined thrash metal for three decades. Everything that followed — Quadra, and the 2024 move to Slipknot — traces back to what Eloy demonstrated here.",
+      "content": "*Machine Messiah* (2017) is the opening chapter of the arc that runs through *Quadra* (2020) and on to Eloy's 2024 move to Slipknot. The gear Eloy used to record this album — Tama Starclassic Walnut/Birch, Paiste 2002/RUDE, Iron Cobra 900 — represents his professional foundation, the setup of a 24-year-old who had already mastered his instrument but had not yet reached the peak recorded performance he would deliver on *Quadra*.\n\n**The Gear Evolution:**\nBy *Quadra* (2020), Eloy's Tama and Paiste endorsements carried forward largely unchanged, with the Iron Cobra double pedal remaining his bass drum driver of choice — a consistent mechanical foundation reflecting career growth and the demands of *Quadra*'s more compositionally ambitious material rather than a change in pedal brand.\n\n**The Sepultura Arc:**\n*Machine Messiah* sits precisely between Sepultura's pre-Eloy catalog — documented in the [Schizophrenia drum setup](/articles/schizophrenia-drum-setup) (Igor Cavalera era) — and the definitive Eloy statement of [Quadra (2020)](/articles/quadra-drum-setup). It is the debut, the proof of concept, the album that established Eloy's voice within a band that had already defined thrash metal for three decades. Everything that followed — Quadra, and the 2024 move to Slipknot — traces back to what Eloy demonstrated here.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -644,7 +644,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "Tama Iron Cobra 900 double pedal (Machine Messiah)",
-          "now": "Tama Speed Cobra double pedal (Quadra) / Tama Speed Cobra double pedal (Slipknot)"
+          "now": "Tama Iron Cobra Double Pedal (Quadra) / Tama Iron Cobra Double Pedal (Slipknot)"
         },
         {
           "category": "Career context",
@@ -697,7 +697,7 @@ export const articles = {
       },
       {
         "question": "How does Eloy's Machine Messiah setup compare to his Quadra setup?",
-        "answer": "Between Machine Messiah (2017) and Quadra (2020), Eloy's Tama and Paiste endorsements carried forward: Shells remained Tama Starclassic Walnut/Birch. Cymbals remained Paiste, expanding from the 2002/RUDE pairing to a fuller 2002/RUDE/PSTX arsenal. Pedals: Tama Iron Cobra 900 → Tama Speed Cobra HP310LW for lighter footboard response. The evolution reflects career growth and the sonic demands of Quadra's more ambitious compositional context rather than a change in brand. See the full Quadra breakdown at [/articles/quadra-drum-setup](/articles/quadra-drum-setup)."
+        "answer": "Between Machine Messiah (2017) and Quadra (2020), Eloy's Tama and Paiste endorsements carried forward: Shells remained Tama Starclassic Walnut/Birch. Cymbals remained Paiste, expanding from the 2002/RUDE pairing to a fuller 2002/RUDE/PSTX arsenal. Pedals remained the Tama Iron Cobra double pedal across both albums. The evolution reflects career growth and the sonic demands of Quadra's more ambitious compositional context rather than a change in pedal. See the full Quadra breakdown at [/articles/quadra-drum-setup](/articles/quadra-drum-setup)."
       },
       {
         "question": "What tracks on Machine Messiah best showcase Eloy Casagrande's drumming?",
@@ -726,7 +726,7 @@ export const articles = {
     "dateModified": "2020-02-07",
     "author": "MetalForge Editorial",
     "title": "Sepultura \"Quadra\" Drum Setup: Eloy Casagrande's 2020 Peak",
-    "description": "Eloy Casagrande's definitive Sepultura statement — Quadra (2020) drum setup breakdown. Tama Starclassic Walnut/Birch shells, Paiste cymbals, Tama S.L.P. Sonic Steel snare. The double-concept album that showcased Eloy at his Sepultura peak.",
+    "description": "Eloy Casagrande's definitive Sepultura statement — Quadra (2020) drum setup breakdown. Tama Starclassic Walnut/Birch shells, Paiste cymbals, Tama Bell Brass (BB146) snare. The double-concept album that showcased Eloy at his Sepultura peak.",
     "seoKeywords": [
       "eloy casagrande drum kit",
       "sepultura quadra drums",
@@ -749,7 +749,7 @@ export const articles = {
         "Double-concept album: four philosophical quadrants (childhood, adolescence, adulthood, elderhood)",
         "Tama Starclassic Walnut/Birch kit — Eloy's primary Sepultura era endorsement setup",
         "Paiste Masters/2002/RUDE/PSTX cymbals provided the cutting, complex overtones suited to the album's dynamics",
-        "Tama S.L.P. Sonic Steel snare: the signature crack that defines Eloy's Sepultura-era sound",
+        "Tama Bell Brass (BB146) snare: the signature crack that defines Eloy's Sepultura-era sound",
         "Eloy's finest recorded Sepultura performance, three years before his 2024 move to Slipknot"
       ]
     },
@@ -772,22 +772,22 @@ export const articles = {
         ],
         "shells": "Walnut/Birch hybrid shells — walnut outer ply for warm attack, birch inner plies for focused projection"
       },
-      "description": "For *Quadra*, Eloy Casagrande continued with the Tama Starclassic Walnut/Birch — the same hybrid shell series he had recorded *Machine Messiah* with three years earlier. The kit's hybrid construction was integral to the sound Jens Bogren created at Fascination Street: the walnut component's warmth and low-end resonance, balanced by the birch plies' focused attack, gave Bogren the tonal range that *Quadra*'s double-concept architecture demanded.\n\nWalnut/Birch's natural characteristic — fuller fundamental tone and warm overtones from the walnut, paired with birch's controlled decay and cut — suited the album's compositional ambitions perfectly. On *Quadra*, Eloy's toms ring with melodic authority between the thrash passages, adding textural information that a purely bright, mono-species shell would have suppressed.\n\nThe twin 22\" x 18\" bass drums, driven by a single Tama Speed Cobra double pedal, maintained the double-kick foundation Eloy has used throughout his career. At the tempos *Quadra* requires — from the galloping patterns of \"Isolation\" to the blasting sections of \"Means to an End\" — that double-pedal drive provides the mechanical consistency that separates clean execution from close-enough.\n\nJens Bogren's engineering approach captured the Starclassic with careful attention to shell resonance. Rather than deadening the drums to achieve a controlled, compressed sound, Bogren worked with the walnut/birch's natural ring — using tuning and microphone placement to shape the tone rather than suppress it. The result is a kit sound that feels alive and three-dimensional: present at the attack, resonant in the body, and musically useful throughout the decay.",
+      "description": "For *Quadra*, Eloy Casagrande continued with the Tama Starclassic Walnut/Birch — the same hybrid shell series he had recorded *Machine Messiah* with three years earlier. The kit's hybrid construction was integral to the sound Jens Bogren created at Fascination Street: the walnut component's warmth and low-end resonance, balanced by the birch plies' focused attack, gave Bogren the tonal range that *Quadra*'s double-concept architecture demanded.\n\nWalnut/Birch's natural characteristic — fuller fundamental tone and warm overtones from the walnut, paired with birch's controlled decay and cut — suited the album's compositional ambitions perfectly. On *Quadra*, Eloy's toms ring with melodic authority between the thrash passages, adding textural information that a purely bright, mono-species shell would have suppressed.\n\nThe twin 22\" x 18\" bass drums, driven by a single Tama Iron Cobra Double Pedal, maintained the double-kick foundation Eloy has used throughout his career. At the tempos *Quadra* requires — from the galloping patterns of \"Isolation\" to the blasting sections of \"Means to an End\" — that double-pedal drive provides the mechanical consistency that separates clean execution from close-enough.\n\nJens Bogren's engineering approach captured the Starclassic with careful attention to shell resonance. Rather than deadening the drums to achieve a controlled, compressed sound, Bogren worked with the walnut/birch's natural ring — using tuning and microphone placement to shape the tone rather than suppress it. The result is a kit sound that feels alive and three-dimensional: present at the attack, resonant in the body, and musically useful throughout the decay.",
       "notes": [
         "Tama Starclassic Walnut/Birch — hybrid shells carried over from Machine Messiah for warmth and focused projection",
-        "Twin 22\" x 18\" bass drums driven by a single Tama Speed Cobra double pedal",
+        "Twin 22\" x 18\" bass drums driven by a single Tama Iron Cobra Double Pedal",
         "Four-tom configuration (3 rack + 1 floor) for melodic fill range",
         "Jens Bogren's engineering preserved the walnut/birch's natural resonance without excessive deadening"
       ],
       "estimatedValue": "$3,000-4,500 (2020) / similar value today"
     },
     "snare": {
-      "title": "The Tama S.L.P. Sonic Steel: Eloy's Signature Crack",
+      "title": "The Tama Bell Brass (BB146): Eloy's Signature Crack",
       "brand": "Tama",
-      "model": "Tama S.L.P. Sonic Steel",
+      "model": "Tama Bell Brass (BB146)",
       "size": "14\" x 5.5\"",
-      "shell": "1.2mm Steel shell",
-      "description": "Eloy Casagrande's snare on *Quadra* was the Tama S.L.P. Sonic Steel — a drum that became the signature of his Sepultura sound and one of the most recognizable elements of his playing identity during this era. The seamless 1.2mm steel shell delivers a bright, sensitive crack that cuts through dense guitar arrangements without becoming harsh or fatiguing.\n\nFor the *Quadra* sessions, the Sonic Steel's character served the album's range of demands. On the record's heaviest, fastest passages — where Eloy's snare needs to deliver authoritative, precise backbeats at extreme tempos — the drum's focused attack and clear crack provided the rhythmic anchor that holds the arrangement together. On the more dynamic, compositionally sophisticated sections, the thin steel shell's sensitivity allowed for ghost note nuance and dynamic gradation that a heavier, thicker snare would have denied.\n\nJens Bogren's production approach at Fascination Street captured the Sonic Steel's full character. The drum was tuned at medium-high tension — bright enough to cut through the mix at full band volume, but not so tight that ghost note sensitivity was sacrificed. The result is a snare sound that works across *Quadra*'s entire dynamic spectrum: equally authoritative in \"Isolation\"'s thrash passages and nuanced in the record's more reflective moments.\n\nThis snare, more than any single piece of gear, defines the sound of *Quadra*. The crack at the top of the mix — present, defined, and rhythmically authoritative — is the sound of a drummer who had fully mastered his instrument.",
+      "shell": "Brass (BB146)",
+      "description": "Eloy Casagrande's snare on *Quadra* was the Tama Bell Brass BB146 — a drum that became the signature of his Sepultura sound and one of the most recognizable elements of his playing identity during this era. The cast bell-brass shell delivers a bright, sensitive crack that cuts through dense guitar arrangements without becoming harsh or fatiguing.\n\nFor the *Quadra* sessions, the Bell Brass's character served the album's range of demands. On the record's heaviest, fastest passages — where Eloy's snare needs to deliver authoritative, precise backbeats at extreme tempos — the drum's focused attack and clear crack provided the rhythmic anchor that holds the arrangement together. On the more dynamic, compositionally sophisticated sections, the brass shell's sensitivity allowed for ghost note nuance and dynamic gradation that a heavier, thicker snare would have denied.\n\nJens Bogren's production approach at Fascination Street captured the Bell Brass's full character. The drum was tuned at medium-high tension — bright enough to cut through the mix at full band volume, but not so tight that ghost note sensitivity was sacrificed. The result is a snare sound that works across *Quadra*'s entire dynamic spectrum: equally authoritative in \"Isolation\"'s thrash passages and nuanced in the record's more reflective moments.\n\nThis snare, more than any single piece of gear, defines the sound of *Quadra*. The crack at the top of the mix — present, defined, and rhythmically authoritative — is the sound of a drummer who had fully mastered his instrument.",
       "tuningSetting": "Medium-high for cut and definition across tempo range",
       "heads": "Evans (batter and resonant)",
       "estimatedValue": "$350-500 (2020)"
@@ -843,9 +843,9 @@ export const articles = {
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama Speed Cobra HP310LW Double Pedal",
-          "notes": "Lightweight aluminium footboard for fast, controlled response",
-          "description": "Eloy's double-bass setup on *Quadra* relied on a single Tama Speed Cobra double pedal. The Speed Cobra's rolling glide cam and lightweight footboard deliver exceptional rebound speed and foot response, suited to the technical double-bass demands across *Quadra*'s range of tempos. The lightweight aluminium footboard reduces fatigue during extended passages, maintaining precision through the album's most sustained double-bass sections."
+          "model": "Tama Iron Cobra Double Pedal",
+          "notes": "Cam-driven power and speed for double-kick at Quadra's technical tempos",
+          "description": "Eloy's double-bass setup on *Quadra* relied on a single Tama Iron Cobra Double Pedal. The Iron Cobra's cam-driven design delivers consistent speed and foot response, suited to the technical double-bass demands across *Quadra*'s range of tempos. The pedal's robust construction reduces fatigue during extended passages, maintaining precision through the album's most sustained double-bass sections."
         },
         {
           "type": "Hi-Hat Stand",
@@ -897,7 +897,7 @@ export const articles = {
           "Snare crack precision at sustained high tempos",
           "One of the most complete showcases of Eloy's thrash vocabulary"
         ],
-        "gearNotes": "The Sonic Steel snare's crack is central to the track's identity. Tama Starclassic Walnut/Birch bass drums at 200 BPM demonstrate the Speed Cobra double pedal's advantage at sustained tempos."
+        "gearNotes": "The Bell Brass snare's crack is central to the track's identity. Tama Starclassic Walnut/Birch bass drums at 200 BPM demonstrate the Iron Cobra Double Pedal's advantage at sustained tempos."
       },
       {
         "track": "Means to an End",
@@ -923,7 +923,7 @@ export const articles = {
           "Sustained double-bass intensity across full song length",
           "Eloy's four-limb independence at near-peak demand"
         ],
-        "gearNotes": "Speed Cobra pedals at near-maximum operating speed. The lightweight footboard's rebound advantage is audible as consistent kick evenness through the song's most sustained passages."
+        "gearNotes": "Iron Cobra pedals at near-maximum operating speed. The cam-driven footboard's rebound advantage is audible as consistent kick evenness through the song's most sustained passages."
       },
       {
         "track": "Guardians of Earth",
@@ -941,7 +941,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Machine Messiah to Quadra: Eloy's Sepultura Arc Peaks",
-      "content": "*Quadra* (2020) represents the culmination of Eloy Casagrande's Sepultura career — nine albums of relentless touring and recording that turned a 19-year-old São Paulo prodigy into one of the most in-demand extreme metal drummers of his generation. The gear continuity between his earliest Sepultura albums and *Quadra* mirrors his musical growth: the same trusted Tama and Paiste endorsements refined to professional maturity.\n\n**The Tama Foundation:**\nThroughout his Sepultura tenure, Eloy maintained his Tama endorsement, progressing through the brand's professional lines as his career profile grew. By *Quadra*, the Tama Starclassic Walnut/Birch represented the mature form of his Sepultura recording setup — a professional instrument perfectly matched to Bogren's production environment and the album's compositional demands.\n\n**Paiste as Sonic Identity:**\nEloy's choice of Paiste cymbals — Masters, Formula 602, RUDE, and PST X, as documented in Drumeo's breakdown of his live performance of \"Isolation\" — defined his Sepultura-era tonal identity. The Masters line's warm, complex character, mixed with RUDE's aggressive brightness, reflected Eloy's musical ambitions within extreme metal. He wanted his cymbals to speak as well as cut.\n\n**The Tama S.L.P. Sonic Steel Signature:**\nThe S.L.P. Sonic Steel snare became so closely associated with Eloy's Sepultura sound that it functioned almost as a sonic signature. The drum's crack on *Quadra* is immediately recognizable to any fan who heard Eloy live during these years, and he carried the same model into his Slipknot era.\n\n**What Came Next — Slipknot (2024):**\nEloy's kit was refreshed rather than overhauled when he joined Slipknot in 2024. Tama Starclassic Bubinga replaced the Walnut/Birch shells; Paiste RUDE became the dominant cymbal line over the mixed Masters/602/PST X arsenal; the S.L.P. Sonic Steel snare carried over directly. The continuity of Tama and Paiste endorsements across Sepultura and Slipknot underlines how central those two brands were to Eloy's sound throughout his career. See the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) for the full post-Sepultura gear breakdown.",
+      "content": "*Quadra* (2020) represents the culmination of Eloy Casagrande's Sepultura career — nine albums of relentless touring and recording that turned a 19-year-old São Paulo prodigy into one of the most in-demand extreme metal drummers of his generation. The gear continuity between his earliest Sepultura albums and *Quadra* mirrors his musical growth: the same trusted Tama and Paiste endorsements refined to professional maturity.\n\n**The Tama Foundation:**\nThroughout his Sepultura tenure, Eloy maintained his Tama endorsement, progressing through the brand's professional lines as his career profile grew. By *Quadra*, the Tama Starclassic Walnut/Birch represented the mature form of his Sepultura recording setup — a professional instrument perfectly matched to Bogren's production environment and the album's compositional demands.\n\n**Paiste as Sonic Identity:**\nEloy's choice of Paiste cymbals — Masters, Formula 602, RUDE, and PST X, as documented in Drumeo's breakdown of his live performance of \"Isolation\" — defined his Sepultura-era tonal identity. The Masters line's warm, complex character, mixed with RUDE's aggressive brightness, reflected Eloy's musical ambitions within extreme metal. He wanted his cymbals to speak as well as cut.\n\n**The Tama Bell Brass Signature:**\nThe Bell Brass (BB146) snare became so closely associated with Eloy's Sepultura sound that it functioned almost as a sonic signature. The drum's crack on *Quadra* is immediately recognizable to any fan who heard Eloy live during these years, and he carried the same model into his Slipknot era.\n\n**What Came Next — Slipknot (2024):**\nEloy's kit was refreshed rather than overhauled when he joined Slipknot in 2024. Tama Starclassic Bubinga replaced the Walnut/Birch shells; Paiste RUDE became the dominant cymbal line over the mixed Masters/602/PST X arsenal; the Bell Brass (BB146) snare carried over directly. The continuity of Tama and Paiste endorsements across Sepultura and Slipknot underlines how central those two brands were to Eloy's sound throughout his career. See the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) for the full post-Sepultura gear breakdown.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -950,8 +950,8 @@ export const articles = {
         },
         {
           "category": "Snare",
-          "then": "Tama S.L.P. Sonic Steel 14\" (Sepultura era signature)",
-          "now": "Tama S.L.P. Sonic Steel (Slipknot)"
+          "then": "Tama Bell Brass (BB146) 14\" (Sepultura era signature)",
+          "now": "Tama Bell Brass (BB146) (Slipknot)"
         },
         {
           "category": "Cymbals",
@@ -960,8 +960,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama Speed Cobra HP310LW double pedal (Sepultura)",
-          "now": "Tama Speed Cobra double pedal (Slipknot)"
+          "then": "Tama Iron Cobra Double Pedal (Sepultura)",
+          "now": "Tama Iron Cobra Double Pedal (Slipknot)"
         },
         {
           "category": "Career context",
@@ -972,7 +972,7 @@ export const articles = {
     },
     "technicalAnalysis": {
       "title": "Eloy's Quadra Technique: The Blueprint",
-      "content": "On *Quadra*, Eloy Casagrande played with a technical authority and musical intelligence that elevated the album above typical extreme metal production. The specific technical attributes that Jens Bogren's production captured can be identified and studied in every track.\n\n**Double-Bass at Sustained Tempos:**\n*Quadra*'s most demanding passages require sustained double-bass at 180-200+ BPM without degradation of evenness or volume. Eloy's Speed Cobra double pedal and his developed ankle-driven heel-up technique made this possible: the mechanical advantage of the double pedal's rolling glide cam, combined with years of conditioning, allowed him to execute these passages throughout entire songs — not just brief showcase sections.\n\n**Four-Limb Independence:**\nThroughout *Quadra*, Eloy maintains complex coordination across all four limbs simultaneously. Hi-hat foot patterns continue during fill sequences. Bass drum patterns continue during cymbal accents. Snare patterns continue during tom runs. This four-limb independence — developed through years of intense Sepultura live performance — is the fundamental technical foundation beneath everything else on the record.\n\n**Ghost Note Integration:**\nOne of the most striking technical elements on *Quadra* is Eloy's integration of ghost notes into grooves that would be purely aggressive in other players' hands. The Paiste RUDE hi-hats' sensitivity and Bogren's dynamic-preserving production philosophy allowed these subtle strokes to remain audible in the mix, adding rhythmic texture that lifts the grooves beyond simple thrash patterns.\n\n**Musical Fill Placement:**\nAt the technical level Eloy operates, fills can easily become exercises in speed for its own sake. On *Quadra*, every fill serves the arrangement: positioned at structural boundaries, shaped to transition between sections, and calibrated to the dynamic level of the surrounding music. This is the musical intelligence that separated Eloy from technically equivalent drummers.",
+      "content": "On *Quadra*, Eloy Casagrande played with a technical authority and musical intelligence that elevated the album above typical extreme metal production. The specific technical attributes that Jens Bogren's production captured can be identified and studied in every track.\n\n**Double-Bass at Sustained Tempos:**\n*Quadra*'s most demanding passages require sustained double-bass at 180-200+ BPM without degradation of evenness or volume. Eloy's Iron Cobra double pedal and his developed ankle-driven heel-up technique made this possible: the mechanical advantage of the double pedal's rolling glide cam, combined with years of conditioning, allowed him to execute these passages throughout entire songs — not just brief showcase sections.\n\n**Four-Limb Independence:**\nThroughout *Quadra*, Eloy maintains complex coordination across all four limbs simultaneously. Hi-hat foot patterns continue during fill sequences. Bass drum patterns continue during cymbal accents. Snare patterns continue during tom runs. This four-limb independence — developed through years of intense Sepultura live performance — is the fundamental technical foundation beneath everything else on the record.\n\n**Ghost Note Integration:**\nOne of the most striking technical elements on *Quadra* is Eloy's integration of ghost notes into grooves that would be purely aggressive in other players' hands. The Paiste RUDE hi-hats' sensitivity and Bogren's dynamic-preserving production philosophy allowed these subtle strokes to remain audible in the mix, adding rhythmic texture that lifts the grooves beyond simple thrash patterns.\n\n**Musical Fill Placement:**\nAt the technical level Eloy operates, fills can easily become exercises in speed for its own sake. On *Quadra*, every fill serves the arrangement: positioned at structural boundaries, shaped to transition between sections, and calibrated to the dynamic level of the surrounding music. This is the musical intelligence that separated Eloy from technically equivalent drummers.",
       "keyTechniques": [
         "Double-pedal double-bass at sustained 180-200+ BPM",
         "Four-limb independence: all limbs executing independent patterns simultaneously",
@@ -1006,11 +1006,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Eloy Casagrande use on Sepultura's Quadra?",
-        "answer": "Eloy Casagrande recorded Quadra (2020) using a Tama Starclassic Walnut/Birch kit — the same hybrid shell series he used on Machine Messiah and his primary Sepultura-era endorsement setup. His configuration included twin 22\"x18\" bass drums driven by a single Tama Speed Cobra double pedal, 10\", 12\", and 14\" rack toms, and a 16\" floor tom. His snare was the Tama S.L.P. Sonic Steel, the drum most associated with his Sepultura sound, and his cymbals were a mixed Paiste arsenal spanning Masters, Formula 602, RUDE, and PST X series. The album was recorded at Fascination Street Studios in Örebro, Sweden, produced by Jens Bogren."
+        "answer": "Eloy Casagrande recorded Quadra (2020) using a Tama Starclassic Walnut/Birch kit — the same hybrid shell series he used on Machine Messiah and his primary Sepultura-era endorsement setup. His configuration included twin 22\"x18\" bass drums driven by a single Tama Iron Cobra Double Pedal, 10\", 12\", and 14\" rack toms, and a 16\" floor tom. His snare was the Tama Bell Brass (BB146), the drum most associated with his Sepultura sound, and his cymbals were a mixed Paiste arsenal spanning Masters, Formula 602, RUDE, and PST X series. The album was recorded at Fascination Street Studios in Örebro, Sweden, produced by Jens Bogren."
       },
       {
         "question": "Is Quadra Eloy Casagrande's last Sepultura album before joining Slipknot?",
-        "answer": "Yes — Quadra (2020) is the last full Sepultura studio album Eloy Casagrande recorded before his departure from the band in 2024. Eloy left Sepultura to join Slipknot in 2024, after 13 years with the band. Quadra is therefore the definitive document of his Sepultura career at its peak, recorded four years before he joined one of metal's biggest stages. His Slipknot setup (Tama Starclassic Bubinga, Paiste RUDE, Tama S.L.P. Sonic Steel) represented a complete gear overhaul from the Quadra configuration."
+        "answer": "Yes — Quadra (2020) is the last full Sepultura studio album Eloy Casagrande recorded before his departure from the band in 2024. Eloy left Sepultura to join Slipknot in 2024, after 13 years with the band. Quadra is therefore the definitive document of his Sepultura career at its peak, recorded four years before he joined one of metal's biggest stages. His Slipknot setup (Tama Starclassic Bubinga, Paiste RUDE, Tama Bell Brass (BB146)) represented a complete gear overhaul from the Quadra configuration."
       },
       {
         "question": "What cymbals did Eloy Casagrande use on Quadra?",
@@ -1022,12 +1022,12 @@ export const articles = {
       },
       {
         "question": "How does Eloy's Quadra setup compare to his Slipknot setup?",
-        "answer": "The core endorsements carried straight through: Eloy's Quadra setup (Tama Starclassic Walnut/Birch, Tama S.L.P. Sonic Steel snare, mixed Paiste Masters/602/RUDE/PSTX cymbals) was refreshed rather than replaced when he joined Slipknot in 2024. His Slipknot kit is Tama Starclassic Bubinga shells; the snare is still a Tama S.L.P. Sonic Steel; the cymbals consolidated to Paiste RUDE/PST X/2002; and the pedals are a Tama Speed Cobra double pedal. The gear refresh mirrored the career transformation — from Sepultura's recording studio to Slipknot's stage — while keeping Eloy's Tama and Paiste endorsements intact. See the full breakdown at the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) article."
+        "answer": "The core endorsements carried straight through: Eloy's Quadra setup (Tama Starclassic Walnut/Birch, Tama Bell Brass (BB146) snare, mixed Paiste Masters/602/RUDE/PSTX cymbals) was refreshed rather than replaced when he joined Slipknot in 2024. His Slipknot kit is Tama Starclassic Bubinga shells; the snare is still a Tama Bell Brass (BB146); the cymbals consolidated to Paiste RUDE/PST X/2002; and the pedals are a Tama Iron Cobra Double Pedal. The gear refresh mirrored the career transformation — from Sepultura's recording studio to Slipknot's stage — while keeping Eloy's Tama and Paiste endorsements intact. See the full breakdown at the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) article."
       }
     ],
     "conclusion": {
       "title": "Quadra: The Origin Story of Metal's Most In-Demand Drummer",
-      "content": "*Quadra* stands as the definitive document of Eloy Casagrande's Sepultura career — a record that proved his ceiling at the exact moment the metal world was paying attention. The Tama Starclassic Walnut/Birch shells, the mixed Paiste Masters/602/RUDE/PSTX cymbals, the Tama S.L.P. Sonic Steel snare: this was the setup of a world-class drummer who had earned his equipment through 9 years of relentless performance with one of metal's most demanding bands.\n\n**The Gear as Portrait:**\nEvery gear choice on *Quadra* reflects Eloy's musical identity during his Sepultura peak. The warm, resonant Tama Walnut/Birch shells suited Jens Bogren's dynamic production philosophy. The Paiste Masters and 602 cymbals brought tonal complexity to a genre that often settles for raw impact. The Tama S.L.P. Sonic Steel delivered the signature crack that metal fans heard from front-row and festival distance alike. Together, these instruments captured a drummer in complete mastery of his context.\n\n**What Came After:**\n*Quadra* turned out to be Eloy's last full Sepultura studio album — in 2024, he departed to join Slipknot, bringing the same technical facility and musical intelligence to a new stage. For a complete view of Eloy Casagrande's evolution, explore the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande) and the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) breakdown.\n\n**The Sepultura Cluster:**\n*Quadra* connects to MetalForge's full Sepultura documentation: the Igor Cavalera era is covered in [Beneath the Remains](/articles/beneath-the-remains-drum-setup) and [Arise](/articles/arise-drum-setup). Eloy's complete Sepultura-to-Slipknot arc is covered in the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) breakdown.\n\n*Quadra. The last Sepultura album. The origin story.* 🤘"
+      "content": "*Quadra* stands as the definitive document of Eloy Casagrande's Sepultura career — a record that proved his ceiling at the exact moment the metal world was paying attention. The Tama Starclassic Walnut/Birch shells, the mixed Paiste Masters/602/RUDE/PSTX cymbals, the Tama Bell Brass (BB146) snare: this was the setup of a world-class drummer who had earned his equipment through 9 years of relentless performance with one of metal's most demanding bands.\n\n**The Gear as Portrait:**\nEvery gear choice on *Quadra* reflects Eloy's musical identity during his Sepultura peak. The warm, resonant Tama Walnut/Birch shells suited Jens Bogren's dynamic production philosophy. The Paiste Masters and 602 cymbals brought tonal complexity to a genre that often settles for raw impact. The Tama Bell Brass (BB146) delivered the signature crack that metal fans heard from front-row and festival distance alike. Together, these instruments captured a drummer in complete mastery of his context.\n\n**What Came After:**\n*Quadra* turned out to be Eloy's last full Sepultura studio album — in 2024, he departed to join Slipknot, bringing the same technical facility and musical intelligence to a new stage. For a complete view of Eloy Casagrande's evolution, explore the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande) and the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) breakdown.\n\n**The Sepultura Cluster:**\n*Quadra* connects to MetalForge's full Sepultura documentation: the Igor Cavalera era is covered in [Beneath the Remains](/articles/beneath-the-remains-drum-setup) and [Arise](/articles/arise-drum-setup). Eloy's complete Sepultura-to-Slipknot arc is covered in the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) breakdown.\n\n*Quadra. The last Sepultura album. The origin story.* 🤘"
     }
   },
   "the-mediator-between-head-and-hands-drum-setup": {
@@ -1249,7 +1249,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "Tama Iron Cobra Power Glide double pedal (The Mediator)",
-          "now": "Tama Iron Cobra 900 double pedal (Machine Messiah) / Tama Speed Cobra double pedal (Quadra)"
+          "now": "Tama Iron Cobra 900 double pedal (Machine Messiah) / Tama Iron Cobra Double Pedal (Quadra)"
         },
         {
           "category": "Career context",

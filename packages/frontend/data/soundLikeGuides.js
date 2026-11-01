@@ -9119,7 +9119,7 @@ This guide breaks down the technique, gear, and practice approach that built one
     genre: 'Melodic Death Metal / Neoclassical Metal',
     priority: 34,
     title: "How to Sound Like Jaska Raatikainen: Complete Gear & Technique Guide",
-    description: "Master Jaska Raatikainen's melodic death metal technique. Learn his guitar-synchronized triplets, power stroke hi-hat work, neoclassical metal fills, and Pearl Masters Custom setup for Children of Bodom's iconic sound.",
+    description: "Master Jaska Raatikainen's melodic death metal technique. Learn his guitar-synchronized triplets, power stroke hi-hat work, neoclassical metal fills, and Pearl Masters Premium Maple setup for Children of Bodom's iconic sound.",
     seoKeywords: ['jaska raatikainen drums', 'how to sound like jaska raatikainen', 'children of bodom drummer', 'jaska raatikainen technique', 'melodic death metal drums', 'children of bodom drum kit'],
     ogImage: '/images/guides/jaska-raatikainen-guide.webp',
     datePublished: '2026-06-26',
@@ -9133,7 +9133,7 @@ This guide breaks down the technique, gear, and practice approach that built one
 
 What distinguishes Raatikainen from pure extreme metal drummers is his deep musicality within a demanding technical context. Children of Bodom's music required a drummer who could synchronize precisely with Alexi Laiho's neoclassical guitar runs, support complex keyboard harmonies, and execute death metal blast beats — all within compositions that demanded every element serve the overall musical picture rather than any individual part.
 
-Raatikainen's signature approach involves power stroke hi-hat work, guitar-synchronized triplet patterns, and the ability to shift between melodic groove and extreme blast beat within a single song. His Pearl Masters Custom setup, Zildjian A series cymbals, and technical precision served Children of Bodom's unique blend for 26 years.`,
+Raatikainen's signature approach involves power stroke hi-hat work, guitar-synchronized triplet patterns, and the ability to shift between melodic groove and extreme blast beat within a single song. His Pearl Masters Premium Maple setup, Zildjian A Custom and K Custom cymbals, and technical precision served Children of Bodom's unique blend for 26 years.`,
       keyPoints: [
         "Co-founder of Children of Bodom — part of the band's sound from the very beginning",
         "Guitar-synchronized triplet patterns are his most distinctive technique",
@@ -9185,11 +9185,11 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
       ]
     },
     gear: {
-      title: "Jaska's Pearl Masters Custom / Zildjian A Setup",
+      title: "Jaska's Pearl Masters Premium Maple / Zildjian A Custom & K Custom Setup",
       drumKit: {
         brand: 'Pearl',
-        model: 'Pearl Masters Custom',
-        shells: 'Maple / Maple-Birch',
+        model: 'Pearl Masters Premium Maple',
+        shells: 'Maple',
         finish: 'Various professional configurations',
         config: {
           kick: '22" x 16" Bass Drums (x2)',
@@ -9197,7 +9197,7 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Jaska Raatikainen played Pearl drums for most of Children of Bodom's career, settling into Pearl Masters Custom in 2004 after an earlier Tama Starclassic era (1999-2004, covering 'Hatebreeder' through 'Hate Crew Deathroll'). The Masters Custom maple or maple-birch shells provided the warm fundamental tone that complemented Children of Bodom's melodic keyboard lines — warmer than pure birch, with enough attack for the aggressive drumming the music required. The setup follows a classic European melodic death metal configuration with double 22\" kicks and two rack toms.",
+        description: "Jaska Raatikainen played Pearl drums for most of Children of Bodom's career, settling into Pearl Masters Premium Maple in 2004 after an earlier Tama Starclassic era (1999-2004, covering 'Hatebreeder' through 'Hate Crew Deathroll'). The Masters Premium Maple shells provided the warm fundamental tone that complemented Children of Bodom's melodic keyboard lines — warmer than pure birch, with enough attack for the aggressive drumming the music required. The setup follows a classic European melodic death metal configuration with double 22\" kicks and two rack toms.",
         affiliateNote: "Pearl Masters Maple Complete or Masters Custom are the closest alternatives; Pearl Reference for professional-level replication."
       },
       snare: {
@@ -9210,15 +9210,15 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
       },
       cymbals: {
         brand: 'Zildjian',
-        series: 'Zildjian A Series',
+        series: 'Zildjian A Custom and K Custom',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" A New Beat Hi-Hats', notes: 'Bright, cutting hi-hat suited to power stroke technique' },
-          { type: 'Crash', model: 'Zildjian 17" A Thin Crash', notes: 'Fast, responsive crash for quick accent changes' },
-          { type: 'Crash', model: 'Zildjian 18" A Medium Thin Crash', notes: 'Heavier crash for climactic section accents' },
-          { type: 'Ride', model: 'Zildjian 20" A Medium Ride', notes: 'Clear bell for ride-driven groove sections' },
-          { type: 'China', model: 'Zildjian 18" A China', notes: 'Aggressive China for metal accent punctuation' }
+          { type: 'Hi-Hats', model: 'Zildjian 14" A Custom Hi-Hats', notes: 'Bright, cutting hi-hat suited to power stroke technique' },
+          { type: 'Crash', model: 'Zildjian 17" A Custom Crash', notes: 'Fast, responsive crash for quick accent changes' },
+          { type: 'Crash', model: 'Zildjian 18" A Custom Crash', notes: 'Heavier crash for climactic section accents' },
+          { type: 'Ride', model: 'Zildjian 20" K Custom Ride', notes: 'Dark, controlled ride for melodic groove sections' },
+          { type: 'China', model: 'Zildjian 18" A Custom China', notes: 'Aggressive China for metal accent punctuation' }
         ],
-        description: "Raatikainen's Zildjian A series setup provides the bright, musically versatile character that suits Children of Bodom's melodic approach. The A series' clear, defined response allows each cymbal to speak distinctly in a production that includes keyboards, two guitars, and bass — a more crowded frequency spectrum than pure death metal. The A series' brightness helps cymbals cut through without needing to be played extra hard."
+        description: "Raatikainen's Zildjian A Custom and K Custom setup provides the bright, musically versatile character that suits Children of Bodom's melodic approach. The A Custom hi-hats and crashes' clear, defined response allows each cymbal to speak distinctly in a production that includes keyboards, two guitars, and bass — a more crowded frequency spectrum than pure death metal. The K Custom ride adds a darker, more controlled voice for quieter neoclassical passages, while the A Custom's brightness helps the crashes cut through without needing to be played extra hard."
       },
       pedals: {
         brand: 'Pearl',
@@ -9315,31 +9315,31 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
       mid: {
         price: "$3,400",
         label: "Intermediate Setup",
-        kit: "Pearl Masters Custom ($1,800) — Jaska's kit line since 2004",
-        cymbals: "Zildjian A series selection ($1,200)",
+        kit: "Pearl Masters Premium Maple ($1,800) — Jaska's kit line since 2004",
+        cymbals: "Zildjian A Custom and K Custom selection ($1,200)",
         pedals: "Pearl Demon Drive Double ($350) — Pearl's direct-drive option",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl Masters Custom is Jaska's kit line since 2004. Zildjian A series gives you the bright, cutting character of the Children of Bodom recording catalog."
+        notes: "Pearl Masters Premium Maple is Jaska's kit line since 2004. Zildjian A Custom and K Custom gives you the bright, cutting character of the Children of Bodom recording catalog."
       },
       pro: {
         price: "$6,500+",
         label: "Professional Setup",
-        kit: "Pearl Masters Custom or Reference ($3,000+) — Jaska's touring configuration",
-        cymbals: "Full Zildjian A selection ($2,000+)",
+        kit: "Pearl Masters Premium Maple or Reference ($3,000+) — Jaska's touring configuration",
+        cymbals: "Full Zildjian A Custom and K Custom selection ($2,000+)",
         pedals: "Pearl Demon Drive Double ($350)",
         snare: "Pearl Free-Floating Steel 14\" x 6.5\" ($400)",
         heads: "Full Remo Powerstroke / Emperor set ($200)",
-        notes: "Pearl Masters Custom with full Zildjian A selection and Pearl Free-Floating Steel snare recreates Raatikainen's complete professional configuration."
+        notes: "Pearl Masters Premium Maple with full Zildjian A Custom and K Custom selection and Pearl Free-Floating Steel snare recreates Raatikainen's complete professional configuration."
       }
     },
     faq: [
       {
         question: "What drum kit did Jaska Raatikainen use?",
-        answer: "Jaska Raatikainen has played Pearl Masters Custom drums with maple or maple-birch shells since 2004, after an earlier Tama Starclassic era from 1999-2004 that covered 'Hatebreeder' through 'Hate Crew Deathroll.' His setup typically featured double 22\" bass drums, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\"). The Pearl Masters Custom maple shells provided the warm attack that suited Children of Bodom's melodic context."
+        answer: "Jaska Raatikainen has played Pearl Masters Premium Maple drums with maple shells since 2004, after an earlier Tama Starclassic era from 1999-2004 that covered 'Hatebreeder' through 'Hate Crew Deathroll.' His setup typically featured double 22\" bass drums, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\"). The Pearl Masters Premium Maple shells provided the warm attack that suited Children of Bodom's melodic context."
       },
       {
         question: "What cymbals did Jaska Raatikainen use?",
-        answer: "Jaska Raatikainen used Zildjian A series cymbals — known for their bright, cutting, and musically versatile character. His setup included 14\" A New Beat hi-hats, 17\" and 18\" A crashes, a 20\" A Medium Ride, and an 18\" A China. The A series' clear, defined response suited Children of Bodom's melodic production context where cymbals needed to cut through keyboards and two guitars."
+        answer: "Jaska Raatikainen used Zildjian A Custom and K Custom cymbals — known for their bright, cutting, and musically versatile character. His setup included 14\" A Custom hi-hats, 17\" and 18\" A Custom crashes, a 20\" K Custom Ride, and an 18\" A Custom China. The K Custom ride's darker, controlled voice suited Children of Bodom's melodic production context where cymbals needed to cut through keyboards and two guitars."
       },
       {
         question: "What is the guitar synchronization technique in Children of Bodom?",

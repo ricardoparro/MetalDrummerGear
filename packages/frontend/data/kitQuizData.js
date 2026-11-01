@@ -39,7 +39,7 @@ export const KIT_QUIZ_QUESTIONS = [
     correctDrummerId: 3,
     gear: {
       drums: 'Pearl Reference Pure',
-      snare: 'Pearl Reference 14x6.5" Brass',
+      snare: 'Pearl snare (specific model not independently verified)',
       cymbals: 'Sabian AAX Series',
       hardware: 'Pearl Demon Drive Double Pedal',
       sticks: 'ProMark Classic Forward 2B',

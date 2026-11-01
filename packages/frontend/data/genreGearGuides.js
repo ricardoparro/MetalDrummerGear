@@ -48255,7 +48255,7 @@ As sludge metal's most direct working analogue, Dailor's crash choice remains a 
     faq: [
       {
         question: "What crash cymbal does Igor Cavalera use?",
-        answer: "Igor Cavalera of Sepultura plays 18\" and 19\" Paiste RUDE Crashes, a raw, unlathed CuSn8 bronze cymbal that carries Sepultura's tribal, down-tuned heaviness — a parallel to sludge metal's own tonnage-first foundation from a different regional lineage."
+        answer: "Igor Cavalera of Sepultura played 18\" and 19\" Paiste RUDE Crashes during the band's 1993–1996 Paiste era, a raw, unlathed CuSn8 bronze cymbal that carried Sepultura's tribal, down-tuned heaviness — a parallel to sludge metal's own tonnage-first foundation from a different regional lineage."
       },
       {
         question: "What crash cymbal does Shannon Larkin use?",

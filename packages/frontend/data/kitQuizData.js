@@ -108,10 +108,10 @@ export const KIT_QUIZ_QUESTIONS = [
     // Danny Carey
     correctDrummerId: 14,
     gear: {
-      drums: 'Sonor Designer Series',
+      drums: 'Sonor SQ2 Heavy Beech',
       snare: 'Sonor Danny Carey Signature 14x8"',
       cymbals: 'Paiste Signature & 2002 Series',
-      hardware: 'DW 9000 Series Double Pedal',
+      hardware: 'Sonor Giant Step Twin Effect Double Pedal',
       sticks: 'Vic Firth Danny Carey Signature',
     },
     hint: '🌀 Sacred Geometry - Spiral out, keep going',

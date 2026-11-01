@@ -50,6 +50,7 @@ export const GEAR_DATABASE = {
     { id: 'dw-collectors-snare', name: "DW Collector's Maple Snare 14x6\"", brand: 'dw', category: 'snare', tier: 'pro', price: 700, keywords: ['collectors', 'maple', 'dw'] },
     { id: 'mapex-chris-adler-snare', name: 'Mapex Chris Adler Signature Walnut/Maple 14x5.5"', brand: 'mapex', category: 'snare', tier: 'pro', price: 600, keywords: ['chris', 'adler', 'signature', 'walnut', 'maple', 'mapex'] },
     { id: 'ddrum-vinnie-paul-snare', name: 'ddrum Vinnie Paul Signature 14x8"', brand: 'ddrum', category: 'snare', tier: 'mid', price: 450, keywords: ['vinnie', 'paul', 'signature', 'ddrum'] },
+    { id: 'tama-charlie-benante-signature', name: 'Tama Charlie Benante Signature', brand: 'tama', category: 'snare', tier: 'pro', price: 650, keywords: ['charlie', 'benante', 'signature', 'tama'] },
   ],
   cymbals: [
     { id: 'zildjian-a-custom', name: 'Zildjian A Custom Series', brand: 'zildjian', category: 'cymbals', tier: 'pro', price: 2200, keywords: ['a custom', 'zildjian', 'brilliant'] },
@@ -184,7 +185,7 @@ export const DRUMMER_GEAR = {
   },
   'charlie-benante': {
     drums: ['tama-starclassic-maple'],
-    snare: ['tama-slp'],
+    snare: ['tama-charlie-benante-signature'],
     cymbals: ['paiste-rude'],
     hardware: ['tama-iron-cobra'],
     sticks: ['vicfirth-5a'],

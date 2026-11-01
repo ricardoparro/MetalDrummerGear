@@ -21,6 +21,27 @@ if (!drummersArrayMatch) {
 }
 const DRUMMER_COUNT = eval(drummersArrayMatch[1]).length;
 
+// Issue #10050 (L4 perf: /cymbals and /drumsticks chronically slow, LCP
+// ~12.6s): both hub pages are React.lazy() components (reverted to lazy in
+// #7549 after eagerly bundling them regressed TBT site-wide), so their real
+// H1/intro only paints once that chunk loads. Their content is static (no
+// per-slug data), so — unlike the article/list hero swap below, which needs
+// a network round-trip to a per-slug endpoint — the real text can be read
+// straight from the same source module at build time and inlined, no fetch
+// required. Source of truth stays data/{cymbal,drumstick}ReferencePages.js.
+function extractPillarPage(relPath) {
+  const filePath = path.join(__dirname, relPath);
+  const content = fs.readFileSync(filePath, 'utf-8');
+  const match = content.match(/export const PILLAR_PAGE = (\{[\s\S]*?\n\});/);
+  if (!match) {
+    console.error(`❌ Could not extract PILLAR_PAGE from ${relPath}`);
+    process.exit(1);
+  }
+  return eval(`(${match[1]})`);
+}
+const CYMBALS_PILLAR = extractPillarPage('../data/cymbalReferencePages.js');
+const DRUMSTICKS_PILLAR = extractPillarPage('../data/drumstickReferencePages.js');
+
 // Performance hints - preconnect and dns-prefetch for faster loading (Issue #535)
 const perfHints = `
     <!-- Performance Hints (Issue #535) -->
@@ -92,6 +113,21 @@ const listPreviewHeroSwap = `
 const articlePreviewHeroSwap = `
     <!-- LCP: Album article hero swap (#8452) -->
     <script>(function(){var m=location.pathname.match(/^\\/articles\\/([a-z0-9-]+)\\/?$/);if(!m)return;fetch('/api/article-preview/'+m[1]).then(function(r){return r.ok?r.json():null}).then(function(d){if(!d)return;function apply(){var h=document.querySelector('#critical-hero h1'),p=document.querySelector('#critical-hero p');if(h)h.textContent=d.title;if(p){p.textContent=d.description;p.style.fontSize='16px';p.style.lineHeight='24px';p.style.maxWidth='600px'}}if(document.getElementById('critical-hero'))apply();else document.addEventListener('DOMContentLoaded',apply,{once:true})}).catch(function(){})})();</script>`;
+
+// LCP Optimization (Issue #10050): /cymbals and /drumsticks hero swap. Same
+// critical-hero swap target as the article/list scripts above, but no fetch
+// — the real title/intro are static and known at build time, so this runs
+// synchronously the moment the DOM node exists (placed right after the
+// critical-hero markup itself), with no flash-of-generic-hero window at all.
+const hubHeroData = JSON.stringify({
+  '/cymbals': [CYMBALS_PILLAR.h1, CYMBALS_PILLAR.intro],
+  '/gear/cymbals': [CYMBALS_PILLAR.h1, CYMBALS_PILLAR.intro],
+  '/drumsticks': [DRUMSTICKS_PILLAR.h1, DRUMSTICKS_PILLAR.intro],
+  '/gear/sticks': [DRUMSTICKS_PILLAR.h1, DRUMSTICKS_PILLAR.intro],
+});
+const hubHeroSwapScript = `
+      <!-- LCP: Gear hub hero swap (#10050) -->
+      <script>(function(){var d=${hubHeroData};var p=location.pathname.replace(/\\/+$/,'')||'/';var c=d[p];if(!c)return;var h=document.querySelector('#critical-hero h1'),pEl=document.querySelector('#critical-hero p');if(h)h.textContent=c[0];if(pEl){pEl.textContent=c[1];pEl.style.fontSize='16px';pEl.style.lineHeight='24px';pEl.style.maxWidth='600px'}})();</script>`;
 
 // Critical CSS for fast FCP (Issues #535, #752)
 const criticalCSS = `
@@ -267,8 +303,11 @@ try {
   
   // Inject critical hero HTML (#752) - check for actual hero div, not just the id reference
   if (!html.includes('id="critical-hero"')) {
-    // Match root div with any whitespace variations
-    html = html.replace(/<div id="root"><\/div>/g, '<div id="root">' + criticalHeroHTML + '\n    </div>');
+    // Match root div with any whitespace variations. The hub hero swap
+    // (#10050) is inlined right after the hero markup, inside #root, so it
+    // runs synchronously the instant that DOM node is parsed — no fetch, no
+    // DOMContentLoaded wait.
+    html = html.replace(/<div id="root"><\/div>/g, '<div id="root">' + criticalHeroHTML + hubHeroSwapScript + '\n    </div>');
     if (html.includes('id="critical-hero"')) {
       console.log('✅ Injected critical hero HTML (#752)');
       injectedSomething = true;

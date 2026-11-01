@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-01 07:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-01 08:12 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,20 +8,20 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 421 |
-| Sessions | 477 |
-| Page views | 684 |
-| Engagement rate | 62.68% |
-| Avg session (s) | 110 |
+| Active users | 437 |
+| Sessions | 493 |
+| Page views | 700 |
+| Engagement rate | 60.65% |
+| Avg session (s) | 106 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| / | 18 | 13 |
 | /drummer/mario-duplantier | 18 | 9 |
 | /drummer/frost | 16 | 6 |
-| / | 15 | 10 |
 | /drummers | 15 | 7 |
-| /articles/slipknot-self-titled-drum-setup | 11 | 9 |
+| /articles/slipknot-self-titled-drum-setup | 12 | 10 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
 | /drummer/jay-weinberg | 9 | 7 |
 | /drummer/joey-jordison | 9 | 5 |
@@ -31,16 +31,16 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 398 | 341 |
-| Direct | 78 | 78 |
-| Unassigned | 15 | 13 |
+| Organic Search | 400 | 343 |
+| Direct | 92 | 92 |
+| Unassigned | 29 | 27 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 162 | 147 |
+| United States | 177 | 162 |
 | United Kingdom | 37 | 20 |
 | Singapore | 33 | 33 |
 | Germany | 19 | 17 |

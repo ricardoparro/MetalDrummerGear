@@ -1138,3 +1138,44 @@ Pre-07:00 UTC cheap pulse. Metrics 06:10 UTC (420u/480s/675v 7d; GSC 15,739 impr
 
 ---
 
+
+## 2026-11-02 06:17 (cheap pulse, pre-deep-run — 8/8 proposals verified+promoted #10103-10110)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:17 UTC (448u/504s/721v 7d; GSC 17,518 impr/291 clicks/1.66% CTR/pos 8.8, zero content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#10103-10110, filed 01:13-01:15 UTC).
+
+### Actions taken
+- **Live-verified all 8 directly** (grep/read against cited ground truth, zero dupes via `gh issue list --search`):
+  - #10103 Pete Sandoval: confirmed albumArticles/pete-sandoval.js lines 33/35/139/532 carry fabricated "Sept 21 1968, Los Angeles" birthdate + "1988-2013" tenure; extendedBios.js:7539 + bands.js:1538 confirm May 21 1964 El Salvador / tenure ended 2010.
+  - #10104 Derek Roddy: confirmed albumArticles/derek-roddy.js carries "Feb 22 1972, Mullins SC" + Hate Eternal "2001-2008"; birthdays.js:599-603 + bands.js:2718 confirm Aug 28 1972 Myrtle Beach / 2000-2006.
+  - #10105 Inferno: confirmed albumArticles/inferno.js carries "March 23 1979, Gdańsk" at 11 locations (1 prose + 10 JSON-LD, issue cited 10 but prose line is an 11th instance of the same fix); birthdays.js:739,743 confirm Dec 30 1978, Tczew.
+  - #10106 Tim Yeung: confirmed albumArticles/tim-yeung.js line 43 + era block 211-223 credit him with Kingdoms Disdained (2017); bands.js:1539-1540 confirm his Morbid Angel run was 2010-2015 (Illud only), Scott Fuller recorded Kingdoms Disdained.
+  - #10107 John Otto: confirmed albumArticles/john-otto.js FAQ claims unbroken credit across all albums incl. 2005 Unquestionable Truth; bands.js confirms Sammy Siegler fill-in that year, already acknowledged in the band's own FAQ.
+  - #10108 Matt Halpern: confirmed albumArticles/matt-halpern.js line 35 "Aug 30 1984" (extendedBios.js:5882 says June 21 1983) + debut-era drumKit/snare/cymbals sections titled DW/Sabian but fielded Pearl/Meinl; endorsementNews.js:823-831 confirms the 2010-2015 debut era was actually Yamaha, matching the issue's fix instruction (not simply renaming to Pearl/Meinl).
+  - #10109 Richard Christy: confirmed albumArticles/richard-christy.js lines 35/37 say "join Death in 1996"/"1996-2001"; bands.js:862,872 confirm 1997-2001.
+  - #10110 Blake Richardson: confirmed genreGearGuides.js shows him as current Meinl Byzance user with no 2018-switch note across all 3 cited crash/cymbal guide families; sibling china guide (line 29721) already has the correct "Sabian AAX Holy China ... switched from Meinl in 2018" pattern to replicate.
+  - All 8 promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: zero rows. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-10-26; next weekly refresh due ~2026-11-02 (today) — not yet refreshed as of this run, check again at the deep run after 07:00 UTC.
+- **Starvation check**: post-triage backlog 0→8 (<15) and bank 8→0 (≤2) trips the trigger shape but matches the recurring same-batch-triaged-in-one-run artifact seen all month (steady SEO Agent cadence). Not escalated.
+- **Atomic-split sweep**: not due — the 8 just-promoted issues are fresh; no other non-hold `ai-fix` issues open.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10103-10110 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: due today, watch the 07:00+ deep run for refresh. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10103-10110 pick up via Roadie; #10105 (11 locations incl. JSON-LD) and #10110 (3 guide families, multiple locations each) are the multi-site ones to confirm land completely.
+2. First run after 07:00 UTC today is the daily deep run — full metrics review, L1/L2/L3 weekly refresh check (due today), starvation re-check.
+3. #7981 (Derek Roddy snare), #10099 (Richard Christy kit), #10032 (Flo Mounier brand) held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
+
+---

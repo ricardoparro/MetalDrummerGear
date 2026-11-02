@@ -42815,7 +42815,7 @@ Start with one medium-weight crash in the 17"-18" range, and add a second at a d
       title: "Why Progressive Metal Crashes Need to Be Musical, Not Just Loud",
       content: `Progressive metal asks more of a crash cymbal than almost any other subgenre. A death metal crash just needs to explode and get out of the way; a progressive metal crash has to do that at 240 BPM during a blast-beat section and then, two bars later, swell musically under a clean, dynamics-driven passage that barely rises above a whisper. The genre's odd-time signatures and constantly shifting arrangements mean a crash gets asked to punctuate a downbeat, color a transition, and sustain through a build — sometimes all within the same song.
 
-Mario Duplantier of Gojira layers three different Zildjian crashes — an 18" K Custom Hybrid, a 19" A Custom, and a 20" K Sweet — specifically so he has a graduated palette of tonal weights to draw from across Gojira's progressive death metal arrangements, rather than relying on a single crash to do every job. Danny Carey of Tool builds his cymbal voice around Paiste's Signature series, prized for the complex, singing overtones that suit Tool's Fibonacci-influenced, dynamics-driven compositions. Blake Richardson of Between the Buried and Me trusts Meinl Byzance Dark crashes for the dark, hand-hammered complexity that carries BTBAM's whiplash shifts between acoustic-adjacent passages and full technical extremity, and Brann Dailor of Mastodon plays 18" and 19" Meinl Byzance Brilliant Heavy Hammered Crashes that anchor Mastodon's sludge-prog heaviness while still leaving room for his melodic, jazz-influenced fills to breathe.
+Mario Duplantier of Gojira layers three different Zildjian crashes — an 18" K Custom Hybrid, a 19" A Custom, and a 20" K Sweet — specifically so he has a graduated palette of tonal weights to draw from across Gojira's progressive death metal arrangements, rather than relying on a single crash to do every job. Danny Carey of Tool builds his cymbal voice around Paiste's Signature series, prized for the complex, singing overtones that suit Tool's Fibonacci-influenced, dynamics-driven compositions. Blake Richardson of Between the Buried and Me trusts Sabian HHX Evolution crashes (switched from Meinl Byzance Dark in 2018) for the complex, hand-hammered character that carries BTBAM's whiplash shifts between acoustic-adjacent passages and full technical extremity, and Brann Dailor of Mastodon plays 18" and 19" Meinl Byzance Brilliant Heavy Hammered Crashes that anchor Mastodon's sludge-prog heaviness while still leaving room for his melodic, jazz-influenced fills to breathe.
 
 This guide breaks down what actually makes a crash work for progressive metal — dynamic range, tonal complexity, and graduated sizing — and recommends specific models across every budget, from a first musical crash to the exact cymbals prog metal's most celebrated drummers play.`,
       keyPoints: [
@@ -42839,7 +42839,7 @@ This guide breaks down what actually makes a crash work for progressive metal �
         {
           name: "Tonal Complexity",
           icon: "🌊",
-          description: "Simple, bright, one-dimensional crashes sound flat under prog metal's dense, layered arrangements. Dark cymbals like Meinl Byzance Dark (Blake Richardson) or the Meinl Byzance Brilliant Heavy Hammered Series (Brann Dailor) carry multiple frequency layers that add depth rather than just volume.",
+          description: "Simple, bright, one-dimensional crashes sound flat under prog metal's dense, layered arrangements. Complex, hand-hammered cymbals like Sabian HHX Evolution (Blake Richardson) or the Meinl Byzance Brilliant Heavy Hammered Series (Brann Dailor) carry multiple frequency layers that add depth rather than just volume.",
           recommendation: "Hand-hammered B20 bronze for complex, layered overtones"
         },
         {
@@ -42912,37 +42912,37 @@ This is the clearest example in progressive metal of building a crash setup arou
         },
         {
           rank: 2,
-          name: "Meinl Byzance Dark Crash",
-          brand: "Meinl",
-          model: "18\" Byzance Dark Crash",
+          name: "Sabian HHX Evolution Crash",
+          brand: "Sabian",
+          model: "18\" HHX Evolution Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
-          priceRange: "€210-280",
+          priceRange: "€220-290",
           tier: "pro",
-          driveType: "B20 Bronze, Dark Hand-Hammered",
-          description: `The Byzance Dark Crash is Blake Richardson's primary crash voice in Between the Buried and Me — a dark, hand-hammered B20 cymbal with complex, layered overtones that carry BTBAM's dramatic swings between acoustic-adjacent passages and brutal technical density.`,
+          driveType: "B20 Bronze, Hand-Hammered",
+          description: `The HHX Evolution Crash is Blake Richardson's primary crash voice in Between the Buried and Me — a hand-hammered B20 cymbal with complex, layered overtones that carry BTBAM's dramatic swings between acoustic-adjacent passages and brutal technical density. Richardson switched to Sabian from Meinl Byzance Dark in 2018 for the Automata era.`,
           pros: [
             "Blake Richardson's primary crash — proven across BTBAM's most extreme dynamic range",
-            "Dark, hand-hammered B20 for genuine tonal complexity",
+            "Hand-hammered B20 for genuine tonal complexity",
             "Controlled decay suits both technical and atmospheric passages"
           ],
           cons: [
             "Premium price point",
-            "Dark voice less suited to drummers wanting maximum brightness/cut",
+            "Less established dark-voiced identity in prog metal than Meinl Byzance",
             "Individual hand-hammered units vary — try before buying if possible"
           ],
           specs: {
             size: "18\"",
             alloy: "B20 Bronze",
-            finish: "Dark Hand-Hammered",
+            finish: "Hand-Hammered",
             weight: "Medium",
             decay: "Controlled, complex"
           },
           usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Primary crash voice for BTBAM's dynamic extremity" }
+            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Primary crash voice for BTBAM's dynamic extremity (switched from Meinl in 2018)" }
           ],
-          verdict: "The definitive dark, musical crash for technical progressive metal.",
+          verdict: "The definitive complex, musical crash for technical progressive metal.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dark_crash_18.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_hhx_evolution_series.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -43054,7 +43054,7 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
           priceRange: "€110-150",
           tier: "mid",
           driveType: "B8/B20 Bronze",
-          description: "Delivers the Byzance Dark character and aesthetic at a significantly lower price — a genuine entry point toward Blake Richardson's dark, complex crash voice.",
+          description: "Delivers the Byzance Dark character and aesthetic at a significantly lower price — a genuine entry point into Brann Dailor's dark, complex crash voice.",
           pros: [
             "Meinl dark character at a fraction of Byzance pricing",
             "Good starting point toward a Byzance upgrade path",
@@ -43097,8 +43097,8 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
       title: "Single Crash vs Graduated Multi-Crash Setup for Progressive Metal",
       content: `Progressive metal's arrangement complexity raises a question other subgenres rarely ask: should you build around one great crash, or several with different tonal weights?
 
-**Single Dark Crash (Blake Richardson, Brann Dailor):**
-- One complex, dark B20 crash covering most musical needs
+**Single Crash Setup (Blake Richardson, Brann Dailor):**
+- One complex B20 crash covering most musical needs
 - Simpler to master and tune consistently
 - Preferred by drummers whose songwriting favors a consistent tonal palette
 
@@ -43107,9 +43107,9 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
 - More setup and tuning complexity, more physical kit space required
 - Preferred by drummers whose arrangements demand distinctly different accent colors within a single song
 
-**The Truth:** Both approaches produce world-class results. Blake Richardson and Brann Dailor prove a single, well-chosen dark crash can carry an entire dynamically extreme catalog. Mario Duplantier proves a deliberate three-crash trio unlocks a level of arrangement-specific color a single crash can't match.
+**The Truth:** Both approaches produce world-class results. Blake Richardson and Brann Dailor prove a single, well-chosen complex crash can carry an entire dynamically extreme catalog. Mario Duplantier proves a deliberate three-crash trio unlocks a level of arrangement-specific color a single crash can't match.
 
-**Our Recommendation:** Start with one excellent dark crash (Meinl Byzance Dark or Meinl Byzance Brilliant Heavy Hammered) and learn its full dynamic range before expanding into a graduated multi-crash setup.`,
+**Our Recommendation:** Start with one excellent complex crash (Sabian HHX Evolution or Meinl Byzance Brilliant Heavy Hammered) and learn its full dynamic range before expanding into a graduated multi-crash setup.`,
       comparisonTable: [
         { feature: "Tonal Variety", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Setup Simplicity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -43129,8 +43129,8 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
         },
         {
           category: "Best Single Crash",
-          pedal: "Meinl Byzance Dark Crash",
-          reason: "Blake Richardson's dark, complex standard, proven across BTBAM's most extreme dynamic range."
+          pedal: "Sabian HHX Evolution Crash",
+          reason: "Blake Richardson's complex, hand-hammered standard, proven across BTBAM's most extreme dynamic range."
         },
         {
           category: "Best for Melodic/Sludge-Prog",
@@ -43154,7 +43154,7 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
     relatedDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Three-crash graduated Zildjian setup for Gojira' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Full Crash for Tool\'s Fibonacci-influenced complexity' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Dark — BTBAM\'s dynamic extremity' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HHX Evolution — BTBAM\'s dynamic extremity' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — Mastodon\'s GRAMMY-winning prog metal sound' }
     ],
 
@@ -43162,7 +43162,7 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
     featuredDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Three-crash graduated Zildjian setup for Gojira' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Full Crash for Tool' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Dark for BTBAM' }
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HHX Evolution for BTBAM' }
     ],
     relatedComparisons: [],
 
@@ -43178,7 +43178,7 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
       },
       {
         question: "Should I use one crash or multiple crashes for progressive metal?",
-        answer: "Both approaches work at the highest level. Blake Richardson and Brann Dailor build their sound around one excellent dark crash each. Mario Duplantier layers three crashes at different sizes for a deliberate range of tonal colors. Start with one great crash and expand once your arrangements demand more variety."
+        answer: "Both approaches work at the highest level. Blake Richardson and Brann Dailor build their sound around one excellent complex crash each. Mario Duplantier layers three crashes at different sizes for a deliberate range of tonal colors. Start with one great crash and expand once your arrangements demand more variety."
       },
       {
         question: "What size crash cymbal is best for progressive metal?",
@@ -43193,7 +43193,7 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
     // Conclusion
     conclusion: {
       title: "Build a Crash Voice That Matches Your Arrangements",
-      content: `Progressive metal rewards more thought in crash selection than almost any other metal subgenre, because the music itself demands more from a single cymbal. Whether you build around Mario Duplantier's graduated three-crash Zildjian trio, Blake Richardson's dark and complex Meinl Byzance standard, or Danny Carey's musical, developing Paiste Signature wash, the right crash choice should mirror how your own music moves between extremes.
+      content: `Progressive metal rewards more thought in crash selection than almost any other metal subgenre, because the music itself demands more from a single cymbal. Whether you build around Mario Duplantier's graduated three-crash Zildjian trio, Blake Richardson's complex Sabian HHX Evolution standard, or Danny Carey's musical, developing Paiste Signature wash, the right crash choice should mirror how your own music moves between extremes.
 
 Start with one excellent dark, medium-weight crash in the 18" range, master its full dynamic range, and only expand into a multi-crash setup once your arrangements genuinely call for more tonal variety.
 
@@ -46665,7 +46665,7 @@ None of these approaches is more "correct" — all four represent groove metal's
       title: "Why Mathcore Needs a Wider, Faster-Attack Crash Spread",
       content: `Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters, asymmetrical riffing, and constantly shifting rhythmic cells — a combination that demands crash cymbals capable of instant, aggressive attack across a wider range of accent points than a typical metalcore setup needs. Where straightforward metalcore can lean on a small, consistent set of crashes for breakdown accents, mathcore's irregular time signatures and sudden tempo shifts call for a more responsive crash spread.
 
-Ben Koller of Converge plays 16"-18" Zildjian K and A Custom Crashes, whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression. Blake Richardson of Between the Buried and Me plays 16"-18" Meinl Byzance Extra Dry Crashes whose complex, musical tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool runs 16"-18" Paiste Signature Power Crashes, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
+Ben Koller of Converge plays 16"-18" Zildjian K and A Custom Crashes, whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression. Blake Richardson of Between the Buried and Me plays 16"-18" Sabian HHX Evolution Crashes (switched from Meinl Byzance Extra Dry in 2018) whose complex, musical tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool runs 16"-18" Paiste Signature Power Crashes, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
 
 This guide breaks down attack, complexity, and dissonance for mathcore crash cymbals — comparing setups across three drummers whose hardcore-rooted and progressive lineages define the genre's rhythmically unpredictable aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -46689,7 +46689,7 @@ This guide breaks down attack, complexity, and dissonance for mathcore crash cym
         {
           name: "Dissonant, Complex Tone",
           icon: "🎼",
-          description: "Blake Richardson's Meinl Byzance Extra Dry crashes deliver dissonant, complex overtones that punctuate mathcore's jarring, unpredictable riffing better than a simple, clean crash.",
+          description: "Blake Richardson's Sabian HHX Evolution crashes deliver dissonant, complex overtones that punctuate mathcore's jarring, unpredictable riffing better than a simple, clean crash.",
           recommendation: "Dissonant, complex-voiced B20 crashes for punctuating irregular riffing"
         },
         {
@@ -46796,40 +46796,40 @@ Its complex overtones punctuate jarring, unpredictable transitions without colla
         },
         {
           rank: 3,
-          name: "Meinl Byzance Extra Dry Crash",
-          brand: "Meinl",
-          model: "16\" & 18\" Byzance Extra Dry Crash",
+          name: "Sabian HHX Evolution Crash",
+          brand: "Sabian",
+          model: "16\" & 18\" HHX Evolution Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€250-320",
           tier: "premium",
           driveType: "B20 Hand Hammered",
-          description: `Blake Richardson of Between the Buried and Me plays 16" and 18" Meinl Byzance Extra Dry Crashes, handling BTBAM's genre-hopping technicality — dramatic swings between acoustic-adjacent passages and full technical death metal density that mathcore's own unpredictability shares a lineage with. The complex, dark tone gives Richardson room to punctuate BTBAM's odd-time whiplash without a harsh, one-dimensional attack.
+          description: `Blake Richardson of Between the Buried and Me plays 16" and 18" Sabian HHX Evolution Crashes, handling BTBAM's genre-hopping technicality — dramatic swings between acoustic-adjacent passages and full technical death metal density that mathcore's own unpredictability shares a lineage with. Richardson switched to Sabian from Meinl Byzance Extra Dry in 2018, and the complex tone still gives him room to punctuate BTBAM's odd-time whiplash without a harsh, one-dimensional attack.
 
 This setup proves that a complex, musical B20 crash can serve both mathcore-adjacent chaos and moments of genuine melodic restraint within the same composition.`,
           pros: [
             "Blake Richardson's proven BTBAM setup — genre-hopping technicality that shares mathcore's unpredictable lineage",
-            "Dark, complex tone handles both aggressive and restrained dynamic extremes",
-            "Extra Dry finish delivers immediate, controlled attack for odd-time accents",
+            "Complex, hand-hammered tone handles both aggressive and restrained dynamic extremes",
+            "Evolution finish delivers immediate, controlled attack for odd-time accents",
             "Musical enough to serve composition, not just technical display"
           ],
           cons: [
             "Premium hand-hammered B20 pricing",
-            "Dark voicing needs a brighter complementary crash for maximum cutting power",
+            "Less established dark-voiced identity in mathcore than Meinl Byzance",
             "Individual cymbal variation is significant in hand-hammered lines"
           ],
           specs: {
             size: "16\" & 18\"",
             alloy: "B20 Bronze",
-            finish: "Extra Dry, Hand Hammered",
+            finish: "Hand Hammered",
             weight: "Medium",
             decay: "Fast, choked"
           },
           usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "16\" & 18\" Byzance Extra Dry Crashes — genre-hopping mathcore-adjacent technicality" }
+            { name: "Blake Richardson", band: "Between the Buried and Me", note: "16\" & 18\" HHX Evolution Crashes — genre-hopping mathcore-adjacent technicality (switched from Meinl in 2018)" }
           ],
           verdict: "Best for genre-hopping, dynamically extreme mathcore-adjacent material.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_crash_18_richardson.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_hhx_evolution_series.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -46923,7 +46923,7 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
 
     // Comparison
     comparison: {
-      title: "Zildjian K/A Custom vs Meinl Byzance vs Paiste Signature for Mathcore",
+      title: "Zildjian K/A Custom vs Sabian HHX Evolution vs Paiste Signature for Mathcore",
       content: `Crash voicing splits mathcore's founding and adjacent drummers into distinct camps. Here's how they compare:
 
 **Zildjian K and A Custom (Ben Koller):**
@@ -46931,7 +46931,7 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
 - Mathcore's founding, most directly documented crash setup
 - Best for genre-defining, chaotic Converge-style mathcore
 
-**Meinl Byzance Extra Dry (Blake Richardson):**
+**Sabian HHX Evolution (Blake Richardson):**
 - Complex, dissonant overtones suited to odd-time, genre-hopping material
 - Versatile across both aggressive accents and dynamic restraint
 - Best for technical, math metal-adjacent mathcore and progressive-leaning material
@@ -46941,7 +46941,7 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
 - Treats rhythmic complexity as songwriting structure over technical display
 - Best for progressive, patient mathcore-adjacent compositions
 
-**Our Recommendation:** Start with a Zildjian A series or Meinl HCS crash if you're building mathcore technique on a budget. Choose Meinl Byzance if your material blends aggression with dynamic, genre-hopping restraint. Go with Zildjian K/A Custom if your priority is mathcore's founding, hardcore-rooted cutting attack.`,
+**Our Recommendation:** Start with a Zildjian A series or Meinl HCS crash if you're building mathcore technique on a budget. Choose Sabian HHX Evolution if your material blends aggression with dynamic, genre-hopping restraint. Go with Zildjian K/A Custom if your priority is mathcore's founding, hardcore-rooted cutting attack.`,
       comparisonTable: [
         { feature: "Attack Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Tonal Complexity", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -46961,7 +46961,7 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
         },
         {
           category: "Best for Genre-Hopping Dynamics",
-          pedal: "Meinl Byzance Extra Dry Crash",
+          pedal: "Sabian HHX Evolution Crash",
           reason: "Blake Richardson's BTBAM setup — dramatic dynamic range across mathcore-adjacent technicality."
         },
         {
@@ -46981,14 +46981,14 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
     ],
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom Crash — Converge mathcore\'s founding cutting attack' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry Crash — BTBAM genre-hopping technicality' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HHX Evolution Crash — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Power Crash — Tool\'s Fibonacci-structured rigor' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom Crash — Converge mathcore\'s founding cutting attack' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry Crash — BTBAM genre-hopping technicality' }
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HHX Evolution Crash — BTBAM genre-hopping technicality' }
     ],
     relatedComparisons: [],
 
@@ -47000,7 +47000,7 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
       },
       {
         question: "What crash cymbal does Blake Richardson use?",
-        answer: "Blake Richardson of Between the Buried and Me plays 16\" and 18\" Meinl Byzance Extra Dry Crashes, handling BTBAM's genre-hopping technicality with complex, dark tone."
+        answer: "Blake Richardson of Between the Buried and Me plays 16\" and 18\" Sabian HHX Evolution Crashes, handling BTBAM's genre-hopping technicality with complex tone (switched from Meinl Byzance Extra Dry in 2018)."
       },
       {
         question: "Why does mathcore need a wider crash spread than typical metalcore?",
@@ -47015,7 +47015,7 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
     // Conclusion
     conclusion: {
       title: "Build Your Mathcore Crash Spread",
-      content: `Mathcore crash choices come down to a simple decision between two proven philosophies: Zildjian K/A Custom's bright, fast-attack cutting power (Ben Koller's founding sound) or Meinl Byzance's complex, dissonant overtones (Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature crashes offer a third path for mathcore's most compositionally ambitious wing.
+      content: `Mathcore crash choices come down to a simple decision between two proven philosophies: Zildjian K/A Custom's bright, fast-attack cutting power (Ben Koller's founding sound) or Sabian HHX Evolution's complex, dissonant overtones (Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature crashes offer a third path for mathcore's most compositionally ambitious wing.
 
 Start with whichever character matches your playing style, and don't overlook running a wider spread of crash sizes — mathcore's odd-time unpredictability rewards more distinct accent options than a standard matched pair provides.
 
@@ -66401,7 +66401,7 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
     // SEO metadata
     title: "Best Cymbals for Mathcore: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Mathcore in 2026 | MetalForge Expert Guide",
-    description: "Best cymbals for mathcore's dissonant, fast-attack aggression: what Ben Koller (Zildjian K/A Custom, Converge), Blake Richardson (Meinl Byzance), and Danny Carey (Paiste Signature) actually play. Ranked budget to pro.",
+    description: "Best cymbals for mathcore's dissonant, fast-attack aggression: what Ben Koller (Zildjian K/A Custom, Converge), Blake Richardson (Sabian HHX Evolution), and Danny Carey (Paiste Signature) actually play. Ranked budget to pro.",
     seoKeywords: [
       'best cymbals for mathcore',
       'mathcore cymbal setup',
@@ -66437,7 +66437,7 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
       title: "Why Mathcore Needs Dissonant, Fast-Attack Cymbals",
       content: `Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters, asymmetrical riffing, and constantly shifting rhythmic cells — a combination that demands cymbals capable of both instant, aggressive attack and enough tonal complexity to punctuate the genre's dissonant, unpredictable riffing. Where straightforward metalcore can lean on a small, consistent set of crashes for breakdown accents, mathcore's irregular time signatures and sudden tempo shifts call for a wider, more responsive cymbal setup.
 
-Ben Koller of Converge — whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression rather than mere noise — plays Zildjian K and A Custom series cymbals for bright, cutting attack that keeps pace with hardcore-rooted technical extremity. Blake Richardson of Between the Buried and Me plays Meinl Byzance Dark, Extra Dry, and Traditional cymbals whose complex, musical tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard, runs Paiste Signature cymbals for dark, controlled weight across constantly shifting meters.
+Ben Koller of Converge — whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression rather than mere noise — plays Zildjian K and A Custom series cymbals for bright, cutting attack that keeps pace with hardcore-rooted technical extremity. Blake Richardson of Between the Buried and Me plays Sabian HHX Evolution, AAX, and HH cymbals (switched from Meinl Byzance in 2018) whose complex, musical tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard, runs Paiste Signature cymbals for dark, controlled weight across constantly shifting meters.
 
 This guide breaks down attack, complexity, and dissonance for mathcore cymbals — comparing setups across three drummers whose hardcore-rooted and progressive lineages define the genre's rhythmically unpredictable aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -66461,7 +66461,7 @@ This guide breaks down attack, complexity, and dissonance for mathcore cymbals �
         {
           name: "Dissonant, Complex Overtones",
           icon: "🎭",
-          description: "Blake Richardson's Meinl Byzance cymbals deliver complex, sometimes dissonant overtones that suit mathcore's chaotic, asymmetrical riffing far better than a simple, clean crash — the goal is aggressive character, not tonal purity.",
+          description: "Blake Richardson's Sabian HHX Evolution cymbals deliver complex, sometimes dissonant overtones that suit mathcore's chaotic, asymmetrical riffing far better than a simple, clean crash — the goal is aggressive character, not tonal purity.",
           recommendation: "Complex, dark-voiced B20 cymbals for dissonant character that matches mathcore's chaos"
         },
         {
@@ -66571,42 +66571,42 @@ The Dual series splits the difference between dark and bright voicing, giving ma
         },
         {
           rank: 3,
-          name: "Meinl Byzance Dark/Extra Dry/Traditional",
-          brand: "Meinl",
-          model: "Byzance Series (Dark, Extra Dry, Traditional)",
+          name: "Sabian HHX Evolution / AAX / HH",
+          brand: "Sabian",
+          model: "HHX Evolution Hi-Hats & Crash / AAX Holy China / HH Raw Bell Dry Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€450-700",
           tier: "premium",
           material: "B20 hand-hammered bronze",
 
-          description: `Blake Richardson's Meinl Byzance Dark, Extra Dry, and Traditional cymbals handle Between the Buried and Me's genre-hopping technicality — dramatic swings between acoustic-adjacent passages and full technical death metal density that mathcore's own unpredictability shares a lineage with. The complex, dark tone gives Richardson room to punctuate BTBAM's odd-time whiplash without a harsh, one-dimensional attack.
+          description: `Blake Richardson's Sabian HHX Evolution, AAX, and HH cymbals handle Between the Buried and Me's genre-hopping technicality — dramatic swings between acoustic-adjacent passages and full technical death metal density that mathcore's own unpredictability shares a lineage with. Richardson switched to this Sabian setup from Meinl Byzance in 2018, and the complex tone still gives him room to punctuate BTBAM's odd-time whiplash without a harsh, one-dimensional attack.
 
 This setup proves that a complex, musical B20 cymbal line can serve both mathcore-adjacent chaos and moments of genuine melodic restraint within the same composition.`,
 
           pros: [
             "Blake Richardson's BTBAM setup — genre-hopping technicality that shares mathcore's unpredictable lineage",
-            "Dark, complex tone handles both aggressive and restrained dynamic extremes",
-            "Versatile Byzance blend proven across BTBAM's most acclaimed technical recordings",
-            "Extra Dry crashes deliver immediate, controlled attack for odd-time accents",
+            "Complex, hand-hammered tone handles both aggressive and restrained dynamic extremes",
+            "Versatile Sabian blend proven across BTBAM's most acclaimed technical recordings",
+            "AAX Holy China delivers immediate, controlled attack for odd-time accents",
             "Musical enough to serve composition, not just technical display"
           ],
           cons: [
             "Premium hand-hammered B20 pricing",
-            "Dark voicing needs a brighter complementary crash for maximum cutting power",
+            "Less established dark-voiced identity in mathcore than Meinl Byzance",
             "Individual cymbal variation is significant in hand-hammered lines"
           ],
           specs: {
-            hiHats: "14\" Meinl Byzance Dark",
-            crashes: "16\"-18\" Meinl Byzance Extra Dry",
-            ride: "20\"-22\" Meinl Byzance Traditional",
-            china: "18\"-19\" Meinl Byzance Dark China"
+            hiHats: "14\" Sabian HHX Evolution",
+            crashes: "16\"-18\" Sabian HHX Evolution",
+            ride: "21\" Sabian HH Raw Bell Dry",
+            china: "18\"-19\" Sabian AAX Holy China"
           },
           usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Meinl Byzance Dark/Extra Dry/Traditional — genre-hopping mathcore-adjacent technicality" }
+            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Sabian HHX Evolution/AAX/HH — genre-hopping mathcore-adjacent technicality (switched from Meinl in 2018)" }
           ],
-          verdict: "Best for genre-hopping, dynamically extreme mathcore-adjacent material. Richardson's Byzance blend flexes across the full dynamic range.",
+          verdict: "Best for genre-hopping, dynamically extreme mathcore-adjacent material. Richardson's Sabian blend flexes across the full dynamic range.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dark_extra_dry_traditional.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_hhx_evolution_series.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -66688,7 +66688,7 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
 
     // Comparison
     comparison: {
-      title: "Zildjian K/A Custom vs Meinl Byzance vs Paiste Signature for Mathcore",
+      title: "Zildjian K/A Custom vs Sabian HHX Evolution vs Paiste Signature for Mathcore",
       content: `Cymbal voicing splits mathcore's founding and adjacent drummers into distinct camps. Here's how they compare:
 
 **Zildjian K and A Custom (Ben Koller):**
@@ -66696,7 +66696,7 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
 - Mathcore's founding, most directly documented cymbal setup
 - Best for genre-defining, chaotic Converge-style mathcore
 
-**Meinl Byzance Dark (Blake Richardson):**
+**Sabian HHX Evolution (Blake Richardson):**
 - Complex, dissonant overtones suited to odd-time, genre-hopping material
 - Versatile across both aggressive accents and dynamic restraint
 - Best for technical, math metal-adjacent mathcore and progressive-leaning material
@@ -66706,7 +66706,7 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
 - Treats rhythmic complexity as songwriting structure over technical display
 - Best for progressive, patient mathcore-adjacent compositions
 
-**Our Recommendation:** Start with a Zildjian A series or Meinl HCS set if you're building mathcore technique on a budget. Choose Meinl Byzance if your material blends aggression with dynamic, genre-hopping restraint. Go with Zildjian K/A Custom if your priority is mathcore's founding, hardcore-rooted cutting attack.`,
+**Our Recommendation:** Start with a Zildjian A series or Meinl HCS set if you're building mathcore technique on a budget. Choose Sabian HHX Evolution if your material blends aggression with dynamic, genre-hopping restraint. Go with Zildjian K/A Custom if your priority is mathcore's founding, hardcore-rooted cutting attack.`,
       comparisonTable: [
         { feature: "Attack Speed", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐" },
         { feature: "Tonal Complexity", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -66726,7 +66726,7 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
         },
         {
           category: "Best for Genre-Hopping Dynamics",
-          pedal: "Meinl Byzance Dark/Extra Dry/Traditional",
+          pedal: "Sabian HHX Evolution / AAX / HH",
           reason: "Blake Richardson's BTBAM setup — dramatic dynamic range across mathcore-adjacent technicality."
         },
         {
@@ -66746,14 +66746,14 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
     ],
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom — Converge mathcore\'s founding cutting attack' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Dark — BTBAM genre-hopping technicality' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HHX Evolution — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Dry Heavy Ride — Tool\'s Fibonacci-structured rigor' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom — Converge mathcore\'s founding cutting attack' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Dark — BTBAM genre-hopping technicality' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HHX Evolution — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Dry Heavy Ride — Tool\'s Fibonacci-structured rigor' }
     ],
 
@@ -66761,15 +66761,15 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
     faq: [
       {
         question: "Who are the best mathcore-adjacent drummers and what cymbals do they use?",
-        answer: "Ben Koller of Converge, whose work on \"Jane Doe\" (2001) defined mathcore's founding sound, plays Zildjian K and A Custom series cymbals. Blake Richardson of Between the Buried and Me plays Meinl Byzance Dark, Extra Dry, and Traditional."
+        answer: "Ben Koller of Converge, whose work on \"Jane Doe\" (2001) defined mathcore's founding sound, plays Zildjian K and A Custom series cymbals. Blake Richardson of Between the Buried and Me plays Sabian HHX Evolution, AAX, and HH (switched from Meinl Byzance in 2018)."
       },
       {
         question: "What cymbals does Ben Koller use?",
         answer: "Ben Koller of Converge plays Zildjian K and A Custom series cymbals — a bright, cutting setup that anchors Converge's landmark \"Jane Doe\" (2001), widely cited as one of mathcore's most influential and studied recordings."
       },
       {
-        question: "Zildjian or Meinl for mathcore cymbals?",
-        answer: "Both are excellent — the choice comes down to whether your material leans hardcore-rooted or progressive. Zildjian K and A Custom (Ben Koller) suits chaotic, Converge-style mathcore with bright, fast-attack cutting power. Meinl Byzance (Blake Richardson) suits more technical, genre-hopping mathcore with complex, dissonant overtones."
+        question: "Zildjian or Sabian for mathcore cymbals?",
+        answer: "Both are excellent — the choice comes down to whether your material leans hardcore-rooted or progressive. Zildjian K and A Custom (Ben Koller) suits chaotic, Converge-style mathcore with bright, fast-attack cutting power. Sabian HHX Evolution (Blake Richardson) suits more technical, genre-hopping mathcore with complex, dissonant overtones."
       },
       {
         question: "Why does mathcore need a wider cymbal setup than typical metalcore?",
@@ -66788,7 +66788,7 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
     // Conclusion
     conclusion: {
       title: "Find Your Mathcore Cymbal Voice",
-      content: `Mathcore cymbal choice comes down to how much dissonant, fast-attack character your riffs demand. Ben Koller's Zildjian K and A Custom setup defined the genre's founding, hardcore-rooted cutting attack with Converge's landmark "Jane Doe." Blake Richardson's Byzance setup shows the dynamic flexibility genre-hopping mathcore-adjacent material demands. Danny Carey's Paiste Signature rig demonstrates how a dark, controlled cymbal voice can serve mathematically rigorous, Fibonacci-structured composition over pure technical display.
+      content: `Mathcore cymbal choice comes down to how much dissonant, fast-attack character your riffs demand. Ben Koller's Zildjian K and A Custom setup defined the genre's founding, hardcore-rooted cutting attack with Converge's landmark "Jane Doe." Blake Richardson's Sabian setup shows the dynamic flexibility genre-hopping mathcore-adjacent material demands. Danny Carey's Paiste Signature rig demonstrates how a dark, controlled cymbal voice can serve mathematically rigorous, Fibonacci-structured composition over pure technical display.
 
 None of these approaches is more "correct" — all three represent mathcore's founding commitment to cymbals that can turn rhythmic chaos into genuine musical expression. Start with whichever voicing matches your material's balance of hardcore-rooted aggression and progressive complexity, and don't be afraid to build a wider spread than a typical metalcore setup would suggest.
 

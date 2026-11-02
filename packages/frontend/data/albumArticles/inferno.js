@@ -31,7 +31,7 @@ export const articles = {
     "ogImage": "/images/drummers/inferno.webp",
     "intro": {
       "title": "The Machine Behind Behemoth",
-      "content": "In the apocalyptic theater of Behemoth's live performances, seated upon a towering drum riser like a demonic throne, sits one of extreme metal's most devastating drummers: Inferno.\n\nBorn Zbigniew Robert Promiński on March 23, 1979, in Gdańsk, Poland, Inferno has been the rhythmic foundation of Behemoth since 1997. That's over 27 years of relentless blast beats, surgical precision, and the kind of stamina that seems almost inhuman.\n\nWhile frontman Nergal commands the spotlight with his controversial pronouncements and theatrical presence, it's Inferno's drumming that drives Behemoth's sound—a devastating combination of black metal intensity and death metal technicality. From the rawness of \"Satanica\" through the masterpiece of \"The Satanist\" to the recent \"Opvs Contra Natvram,\" his playing has evolved while maintaining its core brutality.\n\nThis article breaks down every piece of gear Inferno uses to create his punishing sound. From his Pearl Reference Series drums to his Paiste cymbal arsenal, we'll explore the equipment that powers one of extreme metal's most consistent and respected performers.",
+      "content": "In the apocalyptic theater of Behemoth's live performances, seated upon a towering drum riser like a demonic throne, sits one of extreme metal's most devastating drummers: Inferno.\n\nBorn Zbigniew Robert Promiński on December 30, 1978, in Tczew, Poland, Inferno has been the rhythmic foundation of Behemoth since 1997. That's over 27 years of relentless blast beats, surgical precision, and the kind of stamina that seems almost inhuman.\n\nWhile frontman Nergal commands the spotlight with his controversial pronouncements and theatrical presence, it's Inferno's drumming that drives Behemoth's sound—a devastating combination of black metal intensity and death metal technicality. From the rawness of \"Satanica\" through the masterpiece of \"The Satanist\" to the recent \"Opvs Contra Natvram,\" his playing has evolved while maintaining its core brutality.\n\nThis article breaks down every piece of gear Inferno uses to create his punishing sound. From his Pearl Reference Series drums to his Paiste cymbal arsenal, we'll explore the equipment that powers one of extreme metal's most consistent and respected performers.",
       "keyPoints": [
         "Pearl Drums endorsee — Reference Series setup",
         "Paiste Cymbals — RUDE series",
@@ -648,10 +648,10 @@ export const articles = {
           "@type": "Person",
           "name": "Inferno",
           "alternateName": "Zbigniew Robert Promiński",
-          "birthDate": "1979-03-23",
+          "birthDate": "1978-12-30",
           "birthPlace": {
             "@type": "Place",
-            "name": "Gdańsk, Poland"
+            "name": "Tczew, Poland"
           },
           "memberOf": {
             "@type": "MusicGroup",
@@ -1011,10 +1011,10 @@ export const articles = {
           "@type": "Person",
           "name": "Inferno",
           "alternateName": "Zbigniew Robert Promiński",
-          "birthDate": "1979-03-23",
+          "birthDate": "1978-12-30",
           "birthPlace": {
             "@type": "Place",
-            "name": "Gdańsk, Poland"
+            "name": "Tczew, Poland"
           },
           "memberOf": {
             "@type": "MusicGroup",
@@ -1301,10 +1301,10 @@ export const articles = {
           "@type": "Person",
           "name": "Inferno",
           "alternateName": "Zbigniew Robert Promiński",
-          "birthDate": "1979-03-23",
+          "birthDate": "1978-12-30",
           "birthPlace": {
             "@type": "Place",
-            "name": "Gdańsk, Poland"
+            "name": "Tczew, Poland"
           },
           "memberOf": {
             "@type": "MusicGroup",
@@ -1628,10 +1628,10 @@ export const articles = {
           "@type": "Person",
           "name": "Inferno",
           "alternateName": "Zbigniew Robert Promiński",
-          "birthDate": "1979-03-23",
+          "birthDate": "1978-12-30",
           "birthPlace": {
             "@type": "Place",
-            "name": "Gdańsk, Poland"
+            "name": "Tczew, Poland"
           },
           "memberOf": {
             "@type": "MusicGroup",
@@ -1964,10 +1964,10 @@ export const articles = {
           "@type": "Person",
           "name": "Inferno",
           "alternateName": "Zbigniew Robert Promiński",
-          "birthDate": "1979-03-23",
+          "birthDate": "1978-12-30",
           "birthPlace": {
             "@type": "Place",
-            "name": "Gdańsk, Poland"
+            "name": "Tczew, Poland"
           },
           "memberOf": {
             "@type": "MusicGroup",
@@ -2274,10 +2274,10 @@ export const articles = {
           "@type": "Person",
           "name": "Inferno",
           "alternateName": "Zbigniew Robert Promiński",
-          "birthDate": "1979-03-23",
+          "birthDate": "1978-12-30",
           "birthPlace": {
             "@type": "Place",
-            "name": "Gdańsk, Poland"
+            "name": "Tczew, Poland"
           },
           "memberOf": {
             "@type": "MusicGroup",
@@ -2610,10 +2610,10 @@ export const articles = {
           "@type": "Person",
           "name": "Inferno",
           "alternateName": "Zbigniew Robert Promiński",
-          "birthDate": "1979-03-23",
+          "birthDate": "1978-12-30",
           "birthPlace": {
             "@type": "Place",
-            "name": "Gdańsk, Poland"
+            "name": "Tczew, Poland"
           },
           "memberOf": {
             "@type": "MusicGroup",
@@ -2972,10 +2972,10 @@ export const articles = {
           "@type": "Person",
           "name": "Inferno",
           "alternateName": "Zbigniew Robert Promiński",
-          "birthDate": "1979-03-23",
+          "birthDate": "1978-12-30",
           "birthPlace": {
             "@type": "Place",
-            "name": "Gdańsk, Poland"
+            "name": "Tczew, Poland"
           },
           "memberOf": {
             "@type": "MusicGroup",
@@ -3292,10 +3292,10 @@ export const articles = {
           "@type": "Person",
           "name": "Inferno",
           "alternateName": "Zbigniew Robert Promiński",
-          "birthDate": "1979-03-23",
+          "birthDate": "1978-12-30",
           "birthPlace": {
             "@type": "Place",
-            "name": "Gdańsk, Poland"
+            "name": "Tczew, Poland"
           },
           "memberOf": {
             "@type": "MusicGroup",

@@ -3,7 +3,7 @@
 > Era-by-era breakdown of how legendary metal drummers' gear evolved. Includes original kit specs, endorsement changes, and inflation-adjusted prices.
 > Optimised for AI crawlers answering "what drums did [drummer] use in [era]" queries.
 >
-> Last updated: 2026-10-30 · 71 drummers covered
+> Last updated: 2026-11-02 · 71 drummers covered
 
 ---
 
@@ -2303,7 +2303,7 @@ Nick Barker's 2003 setup behind Dimmu Borgir's Death Cult Armageddon — his fin
 
 ### Death Cult Armageddon Era (2003)
 
-- **Kit:** Sonor — maple shell pack, all-black hardware; 20"x18" bass drums (x2), 10"/12"/13"/14" rack toms, 16" floor tom
+- **Kit:** Sonor — shell material, dimensions, and finish not publicly documented
 - **Snare:** Not publicly documented — no snare brand or model is itemized for Barker in this era
 - **Cymbals:** Not publicly documented — no cymbal brand endorsement is itemized for Barker in this era
 - **Original setup cost (2003):** ~$6,400

@@ -23,13 +23,13 @@ last_updated: "2026-08-23"
 
 ### Death Cult Armageddon Era (2003)
 
-- **Drums:** Sonor — maple shell pack, all-black hardware; 20"x18" bass drums (x2), 10"/12"/13"/14" rack toms, 16" floor tom
+- **Drums:** Sonor — shell material, dimensions, and finish not publicly documented
 - **Snare:** Not publicly documented — no snare brand or model is itemized for Barker in this era
 - **Cymbals:** Not publicly documented — no cymbal brand endorsement is itemized for Barker in this era
 - **Hardware:** Sonor Hardware (Special-Order Black) — all-black special-order finish to match the kit
 - **Original setup cost (2003):** ~$6,400
 - **Inflation-adjusted to 2026:** ~$11,395
-- **Notable:** Barker is a longtime official Sonor artist, credited by Sonor for his Cradle of Filth (1993–1999) and Dimmu Borgir (1999–2004) tenures, including Death Cult Armageddon. Sonor's own artist materials don't itemize a specific kit spec, snare, or cymbal brand beyond the Sonor drum endorsement, so this profile omits those fields rather than guessing.
+- **Notable:** Barker is a longtime official Sonor artist, credited by Sonor for his Cradle of Filth (1993–1999) and Dimmu Borgir (1999–2004) tenures, including Death Cult Armageddon. Sonor's own artist materials don't itemize a specific shell spec, snare, or cymbal brand beyond the Sonor drum endorsement, so this profile omits those fields rather than guessing.
 
 ---
 
@@ -43,7 +43,7 @@ last_updated: "2026-08-23"
 ## FAQ
 
 **Q: What drum kit did Nick Barker use on Death Cult Armageddon?**
-A: Nick Barker used a special-order Sonor kit — maple shells with all-black hardware, two 20"x18" bass drums, 10"/12"/13"/14" rack toms, and a 16" floor tom — on Dimmu Borgir's 2003 album Death Cult Armageddon. No specific snare or cymbal brand is publicly documented for this era.
+A: Nick Barker used a Sonor kit on Dimmu Borgir's 2003 album Death Cult Armageddon; shell material, dimensions, and finish are not publicly documented beyond the Sonor brand. No specific snare or cymbal brand is publicly documented for this era.
 
 **Q: How much did Nick Barker's Dimmu Borgir-era drum kit cost?**
 A: Barker's Sonor rig cost approximately $6,400 in 2003 dollars, equivalent to roughly $11,395 today after inflation.

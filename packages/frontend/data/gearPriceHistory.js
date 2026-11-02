@@ -9307,8 +9307,8 @@ export const GEAR_PRICE_HISTORY = {
     setup: {
       drums: {
         item: 'Sonor',
-        model: 'Maple shell pack, all-black hardware',
-        specs: '20"x18" bass drums (x2), 10"/12"/13"/14" rack toms, 16" floor tom',
+        model: 'unconfirmed, standard configuration',
+        specs: 'Shell material, dimensions, and finish not publicly documented',
         originalPrice: 4800,
         year: 2003,
         source: "Sonor catalog pricing 2003; Sonor's own artist page credits Barker's endorsement through his 1999–2004 Dimmu Borgir tenure, including Death Cult Armageddon",

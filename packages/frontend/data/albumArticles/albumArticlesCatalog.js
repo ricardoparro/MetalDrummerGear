@@ -1352,7 +1352,7 @@ export const ALBUM_ARTICLES_META = {
     "year": 2021,
     "genre": "Progressive Sludge Metal",
     "title": "Hushed and Grim Drum Setup: Brann Dailor's Grammy-Nominated Kit on Mastodon's 2021 Double Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's Grammy-nominated Hushed and Grim (2021). Full breakdown of the Tama Starclassic Performer B/B kit, Meinl Mb20 & Mb8 cymbals, and the single-kick configuration behind progressive metal's most ambitious double album.",
+    "description": "Discover the exact drum kit, cymbals, and gear Brann Dailor used to record Mastodon's Grammy-nominated Hushed and Grim (2021). Full breakdown of the Tama Starclassic Performer B/B kit, Meinl Byzance cymbals, and the single-kick configuration behind progressive metal's most ambitious double album.",
     "ogImage": "/images/albums/hushed-and-grim-drums.webp",
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",

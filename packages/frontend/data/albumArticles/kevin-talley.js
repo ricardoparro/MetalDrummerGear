@@ -193,10 +193,9 @@ export const articles = {
       },
       {
         "era": "Misery Index and side projects",
-        "years": "2001–2007",
+        "years": "2001–2003",
         "albums": [
-          "Misery Index — Retaliate (2003)",
-          "Misery Index — Discordia (2006)"
+          "Misery Index — Retaliate (2003)"
         ],
         "description": "Grindcore-influenced death metal context. Faster, more compressed arrangements demanding high-intensity sustained performance.",
         "gear": {

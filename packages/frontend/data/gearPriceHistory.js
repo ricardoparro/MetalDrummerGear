@@ -9503,9 +9503,9 @@ export const GEAR_PRICE_HISTORY = {
 
     setup: {
       drums: {
-        item: 'Pearl Masters Maple Complete',
-        model: 'Professional maple shell pack (representative model)',
-        specs: '22" bass drum, 10"/12" rack toms, 16" floor tom',
+        item: 'Pearl (shell series not independently documented)',
+        model: 'unconfirmed, representative pricing only',
+        specs: 'Shell sizes and finish not publicly documented',
         originalPrice: 3000,
         year: 2022,
         source: 'Pearl Masters Maple catalog pricing 2022',

@@ -23,7 +23,7 @@ last_updated: "2026-08-23"
 
 ### Chaosmos Era (2022)
 
-- **Drums:** Pearl Masters Maple Complete — professional maple shell pack (representative model); 22" bass drum, 10"/12" rack toms, 16" floor tom
+- **Drums:** Pearl (shell series not independently documented) — unconfirmed, representative pricing only; shell sizes and finish not publicly documented
 - **Cymbals:** Meinl Classics Custom Dark + Generation X Trash Hat — 8" Dark Splash, 14" Dark Hi-Hats, 18" Dark China, 12"/14" Trash Hat
 - **Hardware:** ACD Unlimited Bass Drum Pedals + FootBlaster Triggers
 - **Sticks:** Scorpion Percussion "Wee Heavy" Signature — his own signature drumstick model
@@ -43,7 +43,7 @@ last_updated: "2026-08-23"
 ## FAQ
 
 **Q: What drum kit did John Longstreth use on Chaosmos?**
-A: John Longstreth used a Pearl Masters Maple-tier kit (22" bass drum, 10"/12" rack toms, 16" floor tom) with Meinl Classics Custom Dark cymbals, ACD Unlimited bass drum pedals with FootBlaster triggers, and his own Scorpion Percussion "Wee Heavy" signature sticks on Origin's 2022 album Chaosmos.
+A: John Longstreth used a Pearl kit (shell sizes and finish not publicly documented) with Meinl Classics Custom Dark cymbals, ACD Unlimited bass drum pedals with FootBlaster triggers, and his own Scorpion Percussion "Wee Heavy" signature sticks on Origin's 2022 album Chaosmos.
 
 **Q: How much does John Longstreth's drum setup cost?**
 A: Longstreth's Origin-era rig cost approximately $4,273 at 2022 retail, equivalent to roughly $4,784 today after inflation.

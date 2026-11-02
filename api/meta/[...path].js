@@ -60,7 +60,10 @@ import { CURATED_MATCHUPS } from '../../packages/frontend/data/battles.js';
 import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
 // Issue #4883: /drummer/<slug>/<category> pages — curated FAQ/schema module the
 // frontend (App.js) already renders for real visitors; bot-facing SSR shell was missing it.
-import { generateFAQItems, isValidCategory, getGearForCategory, DRUMMER_GEAR_CATEGORIES } from '../../packages/frontend/data/gearCategoryPages.js';
+// Issue #10135: CATEGORY_META.editorialIntro (prose) + getGearCategoryContextFaq
+// (drummer-specific bonus FAQ from extendedBios.js) — content-depth fix for the
+// 26 /drummer/<slug>/<category> URLs Google flagged crawled-not-indexed.
+import { generateFAQItems, isValidCategory, getGearForCategory, DRUMMER_GEAR_CATEGORIES, CATEGORY_META as DRUMMER_CATEGORY_META, getGearCategoryContextFaq } from '../../packages/frontend/data/gearCategoryPages.js';
 // Issue #1522: Quotation + ItemList JSON-LD for /quotes page.
 import { getAllQuotes } from '../quotes-data.js';
 // Issue #1794: genre gear guide pages — /guides/best-[gear]-for-[genre]
@@ -5655,9 +5658,18 @@ export function getMetaForPath(pathname) {
       // Issue #4883: reuse the curated per-category FAQ/schema module App.js
       // already imports for real visitors (generateFAQItems/CATEGORY_META in
       // gearCategoryPages.js) so the bot-facing SSR shell isn't FAQ-less.
-      // `heads` has no CATEGORY_META entry — isValidCategory keeps it on the
-      // generic fallback below rather than fabricating editorialIntro copy.
       const hasCategoryFaqs = isValidCategory(category);
+      // Issue #10135: 26 of these pages were flagged crawled-not-indexed for
+      // thin content — FAQ alone wasn't enough body text. editorialIntro is a
+      // generic, category-level paragraph (gearCategoryPages.js) rendered as
+      // real visible prose via contentSections; the context FAQ below adds a
+      // drummer-specific question already hand-authored in extendedBios.js.
+      const categoryMeta = DRUMMER_CATEGORY_META[category];
+      const contextFaq = hasCategoryFaqs ? getGearCategoryContextFaq(drummerSlug, category) : null;
+      const faqItems = [
+        ...(hasCategoryFaqs ? generateFAQItems(drummer, category) : []),
+        ...(contextFaq ? [contextFaq] : []),
+      ];
       return {
         title: `${drummer.name} ${categoryLabel} — Drum Gear & Setup | ${SITE_NAME}`,
         description: `See what ${categoryLabel.toLowerCase()} ${drummer.name} uses. Complete ${drummer.band} drummer gear list with specs and prices.`,
@@ -5680,7 +5692,15 @@ export function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummer/${drummerSlug}` },
           { name: categoryLabel, url: `${BASE_URL}/drummer/${drummerSlug}/${category}` },
         ],
-        faqSchema: hasCategoryFaqs ? generateFAQItems(drummer, category) : null,
+        faqSchema: faqItems.length > 0 ? faqItems : null,
+        // Issue #10135: real visible prose paragraph (contentSections renders
+        // as an <h2>/<p> block in generateMetaHtml) instead of a FAQ-only
+        // shell. categoryMeta is undefined only for a category outside
+        // DRUMMER_GEAR_CATEGORIES, which can't reach this branch since
+        // hasCategoryFaqs/categoryMeta come from the same source list.
+        contentSections: categoryMeta?.editorialIntro ? [
+          { heading: `${categoryLabel} in Metal Drumming`, content: categoryMeta.editorialIntro },
+        ] : [],
         // Issue #4699: bot-facing SSR shell had zero internal links — nav dead
         // end for crawlers that don't execute JS. Evolution link only added
         // when DRUMMER_EVOLUTION has data for this drummer, since not every

@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-02 08:16 UTC · Window: last 12h*
+*Generated 2026-11-02 19:08 UTC · Window: last 12h*
 
 ---
 
@@ -8,23 +8,23 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 14 |
+| Open `ai-fix` issues | **22** |
+| Open `seo-proposal` issues | 9 |
 | Open `human-founder` issues | 7 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **17** |
-| Issues closed in window | 17 |
-| Commits to `main` in window | 24 |
+| Open PRs | 3 |
+| PRs merged in window | **20** |
+| Issues closed in window | 19 |
+| Commits to `main` in window | 30 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **450** |
-| Sessions | 507 |
-| Page views | 724 |
-| Engagement rate | 63.12% |
+| Active users | **464** |
+| Sessions | 527 |
+| Page views | 766 |
+| Engagement rate | 63.95% |
 | GSC impressions | 17,518 |
 | GSC clicks | 291 |
 | GSC CTR | 1.66% |
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~3,103 |
-| Est. ad revenue / mo | **~€9.31** |
-| Progress to €1000/mo | 0.9% |
-| Pageviews/mo needed for €1000 | ~333,333 (107× current) |
+| Est. pageviews / mo | ~3,283 |
+| Est. ad revenue / mo | **~€9.85** |
+| Progress to €1000/mo | 1.0% |
+| Pageviews/mo needed for €1000 | ~333,333 (102× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -47,7 +47,7 @@
 | --- | --- | --- |
 | **L1 organic** (GSC, 775 tracked queries) | 39 clicks · 9064 impr · CTR 0.4% · avg pos 10.9 | clicks (+16) · impr (−4373) · pos (+0.3) _(pos ↓ = better)_ |
 | **L2 AI citations** (#2211) | **17/100** queries cite metalforge.io | _refreshed weekly_ |
-| **L3 indexation** | sentinels (fixed top-249, trend-comparable): 238/249 indexed (+1) · rotating sample: 191/248 indexed · **full site: 2268 of 3159 sitemap URLs earned impressions (90d)** | 27 rejected-quality · 17 never-crawled |
+| **L3 indexation** | sentinels (fixed top-250, trend-comparable): 237/250 indexed (−1) · rotating sample: 194/250 indexed · **full site: 2270 of 3159 sitemap URLs earned impressions (90d)** | 29 rejected-quality · 21 never-crawled |
 | **L4 performance** (6 URLs, live site) | homepage 76 perf · TBT 1139ms · **worst: Album article (Sacrament drum setup) — 51 perf, LCP 12.1s** · 4/6 URLs chronically slow (score < 60 or LCP > 4s) | homepage score (+6) · TBT (−533)ms · chronic (±0) _(TBT/chronic ↓ = better)_ |
 
 > _L1/L3 are week-over-week and L4 is fortnight-over-fortnight, all from committed verifier snapshots; L2 is the weekly citation umbrella. Rising clicks / falling avg position / more indexed / higher perf score = the loops are working._
@@ -73,24 +73,23 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 22 | 22 | 0 |
-| Verify YouTube Videos | 17 | 9 | 8 |
-| Verify Data Modules | 16 | 8 | 8 |
-| Check Sitemap Drift | 16 | 8 | 8 |
-| Check llms freshness | 9 | 0 | 9 |
-| Perf Budget Gate | 8 | 0 | 8 |
+| PR Merger | 29 | 27 | 0 |
+| Check Sitemap Drift | 14 | 5 | 4 |
+| Verify YouTube Videos | 14 | 5 | 4 |
+| Verify Data Modules | 13 | 4 | 4 |
+| Perf Budget Gate | 7 | 0 | 4 |
+| Check llms freshness | 7 | 0 | 4 |
+| Health Check | 2 | 2 | 0 |
+| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
+| Check Video SEO | 2 | 0 | 2 |
+| Verify API Modules | 2 | 1 | 1 |
+| Check Vercel Bot Rewrites | 2 | 1 | 1 |
 | Daily Digest | 1 | 0 | 0 |
-| Check GSC watched queries | 1 | 1 | 0 |
-| Check backlink signal | 1 | 1 | 0 |
-| Check LLM citations | 1 | 1 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
-| SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Check broken images | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
+| Roadie Night Fleet | 1 | 0 | 0 |
+| SEO Agent | 1 | 0 | 0 |
 | CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| X Agent | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
@@ -101,34 +100,34 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - 2026-11-01 00:23 (cheap pulse — 8/8 proposals verified+promoted #10021-10028)
 - 2026-11-02 06:17 (cheap pulse, pre-deep-run — 8/8 proposals verified+promoted #10103-10110)
 
-## 📦 Shipped to main (17)
+## 📦 Shipped to main (20)
 
+- #10150 fix: #10136 SEO batch: 15 drummer profiles still have biography-framed metaDescription — proven CTR-gap anti-pattern, roster-wide gap (63 total, this batch 1/5)
+- #10149 fix: #10135 SEO: Expand /drummer/<slug>/<component> template — 29 URLs crawled-not-indexed (thin content, Google quality reject)
+- #10148 fix: #10126 SEO: Matt Halpern djent-sticks guide in genreGearGuides.js still fabricates Vic Firth across 11 locations — #8419 only fixed 2 'reason' strings
+- #10147 fix: #10125 SEO: Brann Dailor's Hushed and Grim album article still says Meinl Mb20/Mb8 — ground truth flipped to Byzance after #8383 shipped
+- #10146 fix: #10124 SEO: Dave Lombardo albumArticles.js self-contradicts birth year (1964 vs 1965, verified 1965)
+- #10145 fix: #10123 SEO: Frost (Satyricon) albumArticles.js fabricates birthdate and birthplace (June 21 1977 Oslo, verified June 28 1973 Øyer)
+- #10144 fix: #10122 SEO: Hannes Grossmann albumArticles.js internally contradicts Alkaloid founding year (2014 vs 2015, 2 locations)
+- #10143 fix: #10122 SEO: Hannes Grossmann albumArticles.js internally contradicts Alkaloid founding year (2014 vs 2015, 2 locations)
+- #10142 fix: #10120 SEO: Jason Bittner albumArticles.js fabricates Shadows Fall join year as 1997 (verified 2001)
+- #10141 fix: #10121 SEO: Kevin Talley albumArticles.js overstates Misery Index tenure + Kairos-violates Discordia (2006) credit
+- #10140 fix: #10119 SEO: Martin Lopez albumArticles.js fabricates birthdate (Feb 8 1978, verified May 20 1978)
+- #10139 fix: #6740 GSC-gap: 'jaska raatikainen' bare-name query 72 impr/1.39% CTR/pos 8.2 — metaDescription doesn't lead with gear answer
 - #10134 fix: #10110 SEO: Blake Richardson stale Meinl crash-cymbal claims survive in 3 genreGearGuides.js guide families — verified Sabian since 2018
 - #10133 fix: #10109 SEO: Richard Christy albumArticles.js states Death join year as 1996, verified 1997
 - #10132 fix: #10108 SEO: Matt Halpern albumArticles.js debut-era entry — wrong birthdate + DW/Sabian-vs-Pearl/Meinl self-contradiction
-- #10131 fix: #10106 SEO: Tim Yeung albumArticles.js fabricates Morbid Angel 'Kingdoms Disdained' (2017) credit + wrong tenure era
-- #10130 fix: #10107 SEO: John Otto albumArticles.js FAQ omits verified 2005 Sammy Siegler fill-in
-- #10129 fix: #10105 SEO: Inferno (Behemoth) albumArticles.js fabricates birthdate/birthplace across 10 locations
-- #10128 fix: #10103 SEO: Pete Sandoval albumArticles.js fabricates birthdate + extends Morbid Angel tenure to 2013
-- #10127 fix: #10104 SEO: Derek Roddy albumArticles.js fabricates birthdate/birthplace + overstated Hate Eternal tenure
-- #10118 fix: #10102 SEO: public/llms/guides/how-to-sound-like-scott-travis.md stale — still claims current Tama kit, missing ddrum/Pearl eras
-- #10117 fix: #10098 SEO: public/llms/gear-history/scott-travis.md fabricates post-2000 gear eras (Sabian/Vater/Tama) — verified Paiste/Vic Firth/ddrum
-- #10116 fix: #10096 SEO: Arin Ilejay sticks fabricated as 'Vic Firth 5A' in gearPriceHistory.js + its llms mirror — verified Promark 5B
-- #10115 fix: #10093 SEO: Hannes Grossmann open-handed technique described backwards in albumArticles/hannes-grossmann.js — right/left hands swapped
-- #10114 fix: #10095 SEO: Nick Barker gearPriceHistory.js fabricates Sonor shell material/sizes, contradicting its own 'not itemized by Sonor' note
-- #10113 fix: #10094 SEO: John Longstreth gearPriceHistory.js fabricates Pearl shell model/sizes, contradicting its own 'not independently accessed' hedge
-- #10112 fix: #10089 SEO: George Kollias fabricated as playing 'Pearl Reference drums' in drummerComparisons.js — verified Pearl Masterworks
-- _+2 more_
+- _+5 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2281h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2377h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2554h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3639h)_
-- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 6069h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2292h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2388h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2565h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3650h)_
+- 🧑 Issue #529 — 🧑 Thomann Affiliate: Apply for program _(open 6080h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

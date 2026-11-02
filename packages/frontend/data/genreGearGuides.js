@@ -87649,7 +87649,7 @@ Whatever you choose, prioritize a defined, purposeful chick over flashy features
     // SEO metadata
     title: "Best Drumsticks for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Djent 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for djent drumming: what Tomas Haake (Wincent), Matt Halpern (Vic Firth), Matt Garstka (Vic Firth), and Blake Richardson (Vic Firth 3A) actually play. Technical control for palm-muted polyrhythmic precision — ranked budget to pro.",
+    description: "Best drumsticks for djent drumming: what Tomas Haake (Wincent), Matt Halpern (Promark), Matt Garstka (Vic Firth), and Blake Richardson (Vic Firth 3A) actually play. Technical control for palm-muted polyrhythmic precision — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for djent',
       'djent drumsticks',
@@ -87686,7 +87686,7 @@ Whatever you choose, prioritize a defined, purposeful chick over flashy features
       title: "Why Djent Demands a Different Stick Than Standard Metal",
       content: `Djent's defining sound — tight, palm-muted, mechanically precise riffing locked to complex polyrhythms — places different demands on a drumstick than a standard blast-beat metal context. Where extreme metal drumming often prioritizes raw power above all else, djent drumming prioritizes control: every ghost note in a polyrhythmic fill has to speak clearly, every accent has to land exactly where the pattern demands, and the stick has to translate small, deliberate movements into consistent, readable articulation.
 
-Tomas Haake of Meshuggah, the band that essentially founded the djent sound, plays Wincent's "Massive and Made for Metal" signature stick — a boutique Swedish model built with a 0.638" diameter, a front-heavy taper, and a Unique Wax Protection coating engineered specifically for the mechanical precision his polymetric compositions demand. Matt Halpern of Periphery uses his own Vic Firth signature model, tuned for the balance between power and control that Periphery's dense, syncopated arrangements require. Matt Garstka of Animals as Leaders relies on his own Vic Firth signature stick, an American hickory model with a long taper that keeps weight in the butt of the stick for a whip-like, flexible throw — ideal for the ghost-note-heavy fills his instrumental djent demands. Blake Richardson of Between the Buried and Me plays the lighter Vic Firth American Classic 3A for maximum articulation across BTBAM's technical, genre-blending material.
+Tomas Haake of Meshuggah, the band that essentially founded the djent sound, plays Wincent's "Massive and Made for Metal" signature stick — a boutique Swedish model built with a 0.638" diameter, a front-heavy taper, and a Unique Wax Protection coating engineered specifically for the mechanical precision his polymetric compositions demand. Matt Halpern of Periphery uses his own Promark signature model, tuned for the balance between power and control that Periphery's dense, syncopated arrangements require. Matt Garstka of Animals as Leaders relies on his own Vic Firth signature stick, an American hickory model with a long taper that keeps weight in the butt of the stick for a whip-like, flexible throw — ideal for the ghost-note-heavy fills his instrumental djent demands. Blake Richardson of Between the Buried and Me plays the lighter Vic Firth American Classic 3A for maximum articulation across BTBAM's technical, genre-blending material.
 
 This guide breaks down exactly what makes a stick work for djent's specific technical demands, which models the genre's most influential drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
@@ -87728,7 +87728,7 @@ This guide breaks down exactly what makes a stick work for djent's specific tech
         {
           name: "Wood Species",
           icon: "🪵",
-          description: "American hickory dominates djent stick choices for the same reason it dominates metal generally — it absorbs shock well and resists breaking under aggressive playing while staying light enough for technical speed. Every signature stick played by a top djent drummer, from Haake's Wincent to Garstka's and Halpern's Vic Firth models, is hickory.",
+          description: "American hickory dominates djent stick choices for the same reason it dominates metal generally — it absorbs shock well and resists breaking under aggressive playing while staying light enough for technical speed. Every signature stick played by a top djent drummer, from Haake's Wincent to Garstka's Vic Firth and Halpern's Promark models, is hickory.",
           recommendation: "Hickory across the board — no djent signature model deviates from it"
         },
         {
@@ -87746,42 +87746,42 @@ This guide breaks down exactly what makes a stick work for djent's specific tech
       pedals: [
         {
           rank: 1,
-          name: "Vic Firth Matt Halpern Signature",
-          brand: "Vic Firth",
-          model: "Signature Series Matt Halpern",
+          name: "Promark Matt Halpern Signature",
+          brand: "Promark",
+          model: "TXMHW Matt Halpern Signature",
           image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
           priceRange: "€14-19 (pair)",
           tier: "pro",
           material: "American Hickory",
 
-          description: `Matt Halpern's own Vic Firth signature stick is built around the exact balance Periphery's music demands: enough weight for the band's heavy, syncopated breakdown hits, enough control for the intricate, odd-time fills that separate djent from straightforward metal. As Periphery's drummer since the band's inception, Halpern has spent over a decade refining a stick profile around technical precision at volume.
+          description: `Matt Halpern's own Promark signature stick is built around the exact balance Periphery's music demands: enough weight for the band's heavy, syncopated breakdown hits, enough control for the intricate, odd-time fills that separate djent from straightforward metal. As Periphery's drummer since the band's inception, Halpern has spent over a decade refining a stick profile around technical precision at volume.
 
-The signature model sits in the same functional range as a standard 5A/5B hybrid — thick enough to drive Periphery's dense, downtuned mixes without sacrificing the fast, controlled rebound his polyrhythmic vocabulary depends on. It's the most complete all-rounder on this list for drummers who want one stick that handles both breakdown power and technical fill work.`,
+The signature model is a 2B-weight stick built to play like a 5B — thick enough to drive Periphery's dense, downtuned mixes without sacrificing the fast, controlled rebound his polyrhythmic vocabulary depends on. It's the most complete all-rounder on this list for drummers who want one stick that handles both breakdown power and technical fill work.`,
 
           pros: [
             "Matt Halpern's personal signature model — built for Periphery's technical breakdowns",
             "American hickory for durability under aggressive djent playing",
-            "Balanced diameter handles both power hits and fast fills",
-            "Consistent Vic Firth manufacturing quality",
+            "2B weight that plays like a 5B — power and control in one profile",
+            "Consistent Promark manufacturing quality",
             "Versatile enough for djent, progressive metal, and metalcore crossover"
           ],
           cons: [
-            "Signature pricing above generic American Classic models",
-            "Less widely stocked than standard Vic Firth sizes"
+            "Signature pricing above generic Promark Forward models",
+            "Less widely stocked than standard Promark sizes"
           ],
           specs: {
             material: "American Hickory",
-            diameter: "0.590\"",
+            diameter: "2B (plays like 5B)",
             length: "16\"",
             tip: "Round (wood)",
             grip: "Lacquered"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "Vic Firth signature — technical breakdown power and control" }
+            { name: "Matt Halpern", band: "Periphery", note: "Promark signature — technical breakdown power and control" }
           ],
           verdict: "The djent all-rounder. If you only buy one stick from this list, Matt Halpern's signature covers the widest range of djent playing styles.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/vic_firth_matt_halpern_signature.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/promark_txmhw_matt_halpern_signature.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -87984,7 +87984,7 @@ For drummers building a djent setup on a budget, or those who simply prefer the 
       title: "Signature Sticks vs Standard Sizes for Djent",
       content: `Djent's most recognizable drummers overwhelmingly play their own signature sticks — a pattern that reflects how personal stick feel becomes once you're building a career around a specific technical vocabulary. Here's the honest breakdown:
 
-**Signature Models (Wincent Haake, Vic Firth Halpern/Garstka):**
+**Signature Models (Wincent Haake, Vic Firth Garstka, Promark Halpern):**
 - Engineered around one drummer's specific technical demands
 - Often feature distinctive tapers, coatings, or weight distribution not found in standard sizes
 - Premium pricing reflects the R&D behind a true signature partnership
@@ -88014,7 +88014,7 @@ For drummers building a djent setup on a budget, or those who simply prefer the 
       picks: [
         {
           category: "Best Overall",
-          pedal: "Vic Firth Matt Halpern Signature",
+          pedal: "Promark Matt Halpern Signature",
           reason: "The most complete djent all-rounder. Handles both breakdown power and technical fill work."
         },
         {
@@ -88067,7 +88067,7 @@ For drummers building a djent setup on a budget, or those who simply prefer the 
       },
       {
         question: "What drumsticks does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery plays his own Vic Firth signature stick, tuned for the balance between breakdown power and technical control that Periphery's dense, syncopated arrangements require. It's one of the most versatile signature sticks in djent."
+        answer: "Matt Halpern of Periphery plays his own Promark signature stick, tuned for the balance between breakdown power and technical control that Periphery's dense, syncopated arrangements require. It's one of the most versatile signature sticks in djent."
       },
       {
         question: "What's the best stick size for djent's palm-muted riffing?",
@@ -88090,7 +88090,7 @@ For drummers building a djent setup on a budget, or those who simply prefer the 
     // Conclusion
     conclusion: {
       title: "Find Your Djent Stick",
-      content: `Djent's most influential drummers didn't converge on identical gear — they converged on the same underlying priority: control. Tomas Haake's front-heavy Wincent signature, Matt Garstka's long-tapered Vic Firth model, and Matt Halpern's balanced signature all solve the same problem — translating precise, deliberate technique into consistent articulation — through different specific solutions.
+      content: `Djent's most influential drummers didn't converge on identical gear — they converged on the same underlying priority: control. Tomas Haake's front-heavy Wincent signature, Matt Garstka's long-tapered Vic Firth model, and Matt Halpern's balanced Promark signature all solve the same problem — translating precise, deliberate technique into consistent articulation — through different specific solutions.
 
 For most djent drummers, start with a standard Vic Firth American Classic 5A or 5B to establish your baseline feel across breakdown power and fill control. If you find yourself wanting more front-end authority for extended-range material, look at Wincent's Haake signature. If your playing leans toward ghost-note-heavy technical fills, Matt Garstka's long-tapered signature is worth the upgrade.
 

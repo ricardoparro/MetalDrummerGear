@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-02 13:03 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-02 18:09 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,47 +8,47 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 453 |
-| Sessions | 514 |
-| Page views | 736 |
-| Engagement rate | 63.81% |
-| Avg session (s) | 112 |
+| Active users | 461 |
+| Sessions | 524 |
+| Page views | 760 |
+| Engagement rate | 63.93% |
+| Avg session (s) | 115 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 19 | 15 |
-| /drummers | 19 | 8 |
-| /drummer/mario-duplantier | 18 | 9 |
+| /drummers | 25 | 9 |
+| / | 24 | 16 |
+| /drummer/mario-duplantier | 19 | 10 |
 | /articles/slipknot-self-titled-drum-setup | 16 | 13 |
 | /drummer/frost | 16 | 7 |
 | /lists/best-death-metal-drummers | 11 | 11 |
 | /drummer/matt-greiner | 10 | 8 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
-| /drummer/joey-jordison | 8 | 4 |
-| /cymbals | 7 | 7 |
+| /drummer/ben-koller | 8 | 4 |
+| /drummer/jay-weinberg | 8 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 410 | 349 |
-| Direct | 104 | 103 |
-| Unassigned | 4 | 4 |
+| Organic Search | 418 | 355 |
+| Direct | 106 | 105 |
+| Unassigned | 5 | 5 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 189 | 176 |
-| United Kingdom | 38 | 20 |
+| United States | 191 | 177 |
+| United Kingdom | 40 | 22 |
 | Singapore | 33 | 33 |
 | Germany | 24 | 21 |
-| Canada | 19 | 18 |
+| Canada | 20 | 19 |
 | Australia | 18 | 14 |
 | Brazil | 14 | 14 |
+| France | 13 | 11 |
 | China | 11 | 11 |
-| France | 11 | 9 |
-| Netherlands | 9 | 8 |
+| Netherlands | 10 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

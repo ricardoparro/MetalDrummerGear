@@ -199,7 +199,7 @@ Each of the 71 drummers has a dedicated endorsement page with current endorsemen
 - [Joey Jordison (Slipknot)](/llms/drummers/joey-jordison.md) — Joey Jordison Signature TX515W
 - [Dave Lombardo (Slayer)](/llms/drummers/dave-lombardo.md) — Dave Lombardo Signature 2Bx
 - [Eloy Casagrande (Slipknot)](/llms/drummers/eloy-casagrande.md) — Eloy Casagrande Signature
-- [Mike Portnoy (Dream Theater)](/llms/drummers/mike-portnoy.md) — Mike Portnoy Signature TX420N
+- [Mike Portnoy (Dream Theater)](/llms/drummers/mike-portnoy.md) — Mike Portnoy Signature TXMP420XW-AG
 - [Chris Adler (Lamb of God)](/llms/drummers/chris-adler.md) — TX5AXW Chris Adler Signature
 - [Matt Halpern (Periphery)](/llms/drummers/matt-halpern.md) — Matt Halpern Signature
 
